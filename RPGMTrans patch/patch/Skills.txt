@@ -924,7 +924,7 @@ Physical Evasion Boost#afrg
 > BEGIN STRING
 物理攻撃の回避率が１０％上昇する。
 > CONTEXT: Skills/64/description/
-Increase the rate at which physical attacks are evaded by 10%.#afrg
+Boost the rate at which physical attacks are evaded by 10%.#afrg
 > END STRING
 
 > BEGIN STRING
@@ -1397,8 +1397,8 @@ Increases the caster's physical attack two steps for 3 turns.#Dargoth
 > BEGIN STRING
 ５ターンの間、使用者の物理・魔法攻撃力を上げる。
 > CONTEXT: Skills/109/description/
-Raise the physical and magical attack power of the user for 5
-turns.#afrg
+Raise the physical and magical attack power
+of the user for 5 turns.#afrg
 > END STRING
 
 > BEGIN STRING
@@ -1412,7 +1412,7 @@ turns.#afrg
 > CONTEXT: Skills/591/description/
 > CONTEXT: Skills/715/description/
 Makes it less likely to be affected by Ecstasy, Puppet and
-Terror for 5 turns. (afrg: It doesn't seem to actually do any of this)#afrg
+Terror for 5 turns.#afrg
 > CONTEXT: Skills/626/description/
 Makes it less likely to be affected by Ecstasy, Puppet,
 Panic, and Fear for 5 turns.#afrgPR
@@ -1637,9 +1637,10 @@ Beast Claw#Dargoth
 > BEGIN STRING
 は魔獣の爪を放った！
 > CONTEXT: Skills/131/message1/
+ casts Beast Claw!#Dargoth
 > CONTEXT: Skills/625/message1/
 > CONTEXT: Skills/630/message1/
- casts Beast Claw!#Dargoth
+ uses Beast Claw!#afrg
 > END STRING
 
 > BEGIN STRING
@@ -3272,11 +3273,9 @@ Inside#afrg
 > CONTEXT: Skills/288/description/
 > CONTEXT: Skills/313/description/
 > CONTEXT: Skills/314/description/
+> CONTEXT: Skills/315/description/
 > CONTEXT: Skills/702/description/
 > CONTEXT: Skills/703/description/
-Basic beginner dance move, where one's legs are moved rythmically.
-\\c[2]【Button Count】３【Time Limit】５\\}\\C[0]【Previous Dance】\\V[130]#afrg
-> CONTEXT: Skills/315/description/
 Rythmic leg move, beginner dance figure.
 \\c[2]Button Count:3 Time Limit:5\\}\\C[0] Previous Move:\\V[130]#afrgPR
 > END STRING
@@ -3418,7 +3417,7 @@ Windmill#afrg
 手を軸に足を大きく回転させるブレイクダンス。
 \\c[2]【ボタン数】７【制限時間】２秒\\}\\C[0]【前回ダンス】\\V[130]
 > CONTEXT: Skills/295/description/
-Break dance where you swing your legs around while standing on your hands.
+Break dance: swing your legs, standing on your hands.
 \\c[2]【Button Count】7【Time Limit】2\\}\\C[0]【Previous Dance】\\V[130]#afrg
 > END STRING
 
@@ -3808,7 +3807,7 @@ Full Burst#afrg
 > CONTEXT: Skills/332/message2/
 > CONTEXT: Skills/678/message2/
 > CONTEXT: Skills/727/message2/
-\\N[1]'s hand sticks to her breasts and does not come off easily...#afrg
+\\N[1]'s hand sticks to her breasts and doesn't come off...#afrg
 > CONTEXT: Skills/403/message2/
 \\N[1]'s hand doesn't move as if drawn to her breasts...#afrgPR
 > END STRING
@@ -4254,7 +4253,7 @@ Special accident battles can occur against this monster.#afrg
 > CONTEXT: Skills/380/message2/
 > CONTEXT: Skills/516/message2/
 > CONTEXT: Skills/793/message2/
-The feeling of being wrapped in softness spreads throughout his body...#afrg
+The feeling of being wrapped spreads throughout his body...#afrg
 > END STRING
 
 > BEGIN STRING
@@ -6453,7 +6452,7 @@ Soul Parasite#afrg
 > BEGIN STRING
 \\N[1]の意識が、みるみるうちにカマソッソに支配されていく…！
 > CONTEXT: Skills/646/message2/
-Camazotz is going to dominate \\N[1]'s consciousness right before his eyes!#afrg
+Camazotz is completely taking over \\N[1]'s consciousness!#afrg
 > END STRING
 
 > BEGIN STRING
@@ -6501,7 +6500,7 @@ Ira Manni Rings#afrg
 > BEGIN STRING
 妖しく蠢く膣内の触手が、\\N[1]の口内に入ってくる…
 > CONTEXT: Skills/650/message2/
-Tentacles squirm inside of her, then crawl into \\N[1]'s mouth!#afrg
+Tentacles squirm in it, then crawl into \\N[1]'s mouth!#afrg
 > END STRING
 
 > BEGIN STRING
@@ -6519,7 +6518,7 @@ Tail Pump#afrg
 > BEGIN STRING
 ブラシのような触手が絡みつき、精気がジュルジュルと吸い上げられていく…
 > CONTEXT: Skills/652/message2/
-Brush-like tentacles coil around it, sucking in his energy with a slurping sound...#afrg
+Brush-like tentacles coil around, slupring up his energy...#afrg
 > END STRING
 
 > BEGIN STRING
@@ -6573,7 +6572,7 @@ Virtue: Ayashi Ayakashi#MTLed
 > CONTEXT: Skills/665/message2/
 > CONTEXT: Skills/666/message2/
 > CONTEXT: Skills/667/message2/
-Like his spirit, all \N[1]'s abilities are sucked away...#afrg
+Like his spirit, all \\N[1]'s abilities are sucked away...#afrg
 > END STRING
 
 > BEGIN STRING

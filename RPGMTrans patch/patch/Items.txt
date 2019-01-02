@@ -200,7 +200,7 @@ Human Key#afrg
 『邪への抗い、それこそ人なり』と刻まれている。
 どこかの鍵のようだが、形が変だ…
 > CONTEXT: Items/18/description/
-It is engraved with the text "Resistance to evil is what makes one human."
+It's engraved: "Resisting evil is what makes one human."
 It looks like some kind of key, but its shape is odd.#afrg
 > END STRING
 
@@ -441,9 +441,8 @@ Great Buddha Statue#afrg
 とても貴重な金貨。大昔の物とは思えない輝きを放っている。
 売ればかなりのお金になる。
 > CONTEXT: Items/40/description/
-Very precious gold coin. They have a radiance that can not
-possibly be as ancient as they seem. Selling them makes 
-a considerable amount of money.#afrg
+Very precious gold coin. They are shiny and can't
+be that old. Can be sold for a lot of money.#afrg
 > END STRING
 
 > BEGIN STRING
@@ -492,7 +491,7 @@ Zero-Dimensional Expansion Device#afrg
 幸いなことに、\\N[1]はこのアイテムの使い方を知らない。
 > CONTEXT: Items/51/description/
 > CONTEXT: Items/52/description/
-A dangerous device that annihaltes the surrounding spacetime.
+A dangerous device that annihaltes the nearby spacetime.
 Fortunately, \\N[1] does not know how to use this item.#afrg
 > END STRING
 
@@ -701,7 +700,7 @@ Monster Meat#Dargoth
 \\C[14]魔獣に対して\\C[0]プレゼントすると、友好度が上がる。
 > CONTEXT: Items/81/description/
 Magic-infused meat. Was it a demon, once?
-When given as a gift to a demon, \\C[14] increases friendship with her.#afrg
+When given as a gift to a demon, \\C[14] increases friendship.#afrg
 > END STRING
 
 > BEGIN STRING
@@ -715,7 +714,7 @@ Magic Rock#Dargoth
 \\C[14]全ての種族に対して\\C[0]プレゼントすると、友好度が少し上がる。
 > CONTEXT: Items/82/description/
 A mysterious magical stone. It thunders like hell.
-When given as a gift to a demon, \\C[14] increases friendship with her.#afrg - not entirely accurate
+When given as a gift to a demon, \\C[14] increases friendship.#afrg - not entirely accurate
 > END STRING
 
 > BEGIN STRING
@@ -728,8 +727,8 @@ Rare Vintage [Corrupt Pleasure]#Dargoth
 魔界でマニアに嗜まれる、珍しいお酒。甘くて美味しい。
 \\C[14]全ての種族に対して\\C[0]プレゼントすると、友好度が上がる。
 > CONTEXT: Items/83/description/
-A rare sake which is much loved in hell. It deliciously sweet.
-When given as a gift to a demon, \\C[14] increases friendship with her.#afrg
+A rare sake, much loved in hell. It deliciously sweet.
+When given as a gift to a demon, \\C[14] increases friendship.#afrg
 > END STRING
 
 > BEGIN STRING
@@ -743,7 +742,7 @@ Emerald#Dargoth
 \\C[14]妖魔に対して\\C[0]プレゼントすると、友好度が上がる。
 > CONTEXT: Items/85/description/
 A green jewel symbolizing happiness. Can be sold for money.
-When given as a gift to a demon, \\C[14] increases friendship with her.#afrg
+When given as a gift to a monster, \\C[14] increases friendship.#afrg
 > END STRING
 
 > BEGIN STRING
@@ -812,7 +811,7 @@ Attack Scriptures#afrg
 > BEGIN STRING
 ホットリミットLvMAXの効果を一度だけ発動させる
 > CONTEXT: Items/96/description/
-Applies Hot Limit LvMAX once only.#afrg
+Applies Limit Break LvMAX once only.#afrg
 > END STRING
 
 > BEGIN STRING
@@ -842,7 +841,7 @@ Applies Sylph Storm LvMAX once only.#afrg
 > BEGIN STRING
 銘菓雷神
 > CONTEXT: Items/99/name/
-Delicious Thunder God Candy#afrg
+Tasty Thunder God Candy#afrg
 > END STRING
 
 > BEGIN STRING
@@ -1016,7 +1015,7 @@ Camazotz Tail#afrg
 カマソッソからもぎとった、触手の収納された尻尾。
 ヌルヌルして汚らわしい
 > CONTEXT: Items/112/description/
-A tail that was torn from a Camazotz, containing her tentacles.
+A tail that was torn from a Camazotz, with her tentacles.
 It's slimy and messy.#afrg
 > END STRING
 
@@ -1080,7 +1079,7 @@ Deals about 500 wind damage.#afrg
 ７ターンのあいだ、拘束を確実に解除する
 『大暴れ』が使用可能になる。
 > CONTEXT: Items/117/description/
-Guarantees escaping from restraints for 7 turns.
+Guarantees escaping from binds for 7 turns.
 Enables use of Beserk.#afrg
 > END STRING
 

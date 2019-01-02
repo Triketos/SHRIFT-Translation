@@ -3,9 +3,11 @@
 裕真「あの事故の日から間もなくして、世界も大きく変わった
 　　ほどなくして、『悪魔』との戦争が始まったんだ。」
 > CONTEXT: Map006/events/2/pages/0/24/Dialogue
-> CONTEXT: Map006/events/2/pages/1/24/Dialogue
 Yuuma「After the day of the accident, the world changed a lot. 
 The war with 『demons』 began.」#Aesthetic
+> CONTEXT: Map006/events/2/pages/1/24/Dialogue
+Yuuma「Soon after the day of the accident, the world also
+changed massively. The war with the "demons" began.」#Ron
 > END STRING
 
 > BEGIN STRING
@@ -13,10 +15,14 @@ The war with 『demons』 began.」#Aesthetic
 　　どうやらお前が何かしらの拍子に意識を取り戻したのを確認して
 　　機械が自動的に解凍してしまったんだろう。」
 > CONTEXT: Map006/events/2/pages/0/33/Dialogue
-> CONTEXT: Map006/events/2/pages/1/33/Dialogue
 Yuuma「I originally set up the cryogenic stasis for a long 
 period of time. If it detected you regained consciousness, 
 the machine would open automatically.」#Aesthetic
+> CONTEXT: Map006/events/2/pages/1/33/Dialogue
+Yuuma「It was supposed to be set up for long-term 
+cryogenic stasis. The machine you were in must have
+automatically thawed you out because it detected
+that you happened to regain conciousness.」#Ron
 > END STRING
 
 > BEGIN STRING
@@ -24,20 +30,25 @@ the machine would open automatically.」#Aesthetic
 　　　しかしさっきバーゲストが侵入してきた事もある。
 　　　お前を安全な場所に誘導する必要があるだろう。」
 > CONTEXT: Map006/events/2/pages/0/40/Dialogue
-> CONTEXT: Map006/events/2/pages/1/40/Dialogue
 Yuuma「To put it simply, that's how things are. Sometimes, however
 demons like the Barghest would invade. I'm going to need to guide
 you to a safe place.」#Aesthetic
+> CONTEXT: Map006/events/2/pages/1/40/Dialogue
+Yuuma「To put it simply, yeah pretty much.
+But barghests invaded there a little while ago.
+You'll need to be guided to a safe place.」#Ron
 > END STRING
 
 > BEGIN STRING
 ユウマ「\\N[1]。聞こえているか？
 　　今システムの復旧が完了した。この映像が見えているか？」
 > CONTEXT: Map006/events/2/pages/0/67/Dialogue
-> CONTEXT: Map006/events/2/pages/1/70/Dialogue
-> CONTEXT: Map006/events/2/pages/3/0/Dialogue
 Yuuma「\\N[1]. Can you hear it? Recovery of the system
 is now completed. Can you see the image?」#Aesthetic
+> CONTEXT: Map006/events/2/pages/1/70/Dialogue
+> CONTEXT: Map006/events/2/pages/3/0/Dialogue
+Yuuma「Can you hear me, \\N[1]? I've finished
+restoring the system. Can you see me on the screen?」#Ron
 > END STRING
 
 > BEGIN STRING
@@ -45,10 +56,12 @@ is now completed. Can you see the image?」#Aesthetic
 
 　　　　　　　間違いなく、僕の友人の裕真（ゆうま）だった。
 > CONTEXT: Map006/events/2/pages/0/71/Dialogue
-> CONTEXT: Map006/events/2/pages/1/74/Dialogue
-> CONTEXT: Map006/events/2/pages/3/4/Dialogue
 The person who appeared on screen was a familiar man...
 Without a doubt, that was my friend Yuuma.#Aesthetic
+> CONTEXT: Map006/events/2/pages/1/74/Dialogue
+> CONTEXT: Map006/events/2/pages/3/4/Dialogue
+A familiar man was displayed on the screen in front
+of me. It was definitely my friend Yuuma.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -117,17 +130,19 @@ around there.#Aesthetic
 > BEGIN STRING
 こ、これか？
 > CONTEXT: Map006/events/2/pages/0/149/Dialogue
+Is...Is this it?#Aesthetic
 > CONTEXT: Map006/events/2/pages/1/152/Dialogue
 > CONTEXT: Map006/events/2/pages/3/82/Dialogue
-Is...Is this it?#Aesthetic
+Is this it?#Ron
 > END STRING
 
 > BEGIN STRING
 つ………っ！！！！？
 > CONTEXT: Map006/events/2/pages/0/153/Dialogue
+Ssss.....!!!!?#Aesthetic
 > CONTEXT: Map006/events/2/pages/1/156/Dialogue
 > CONTEXT: Map006/events/2/pages/3/86/Dialogue
-Ssss.....!!!!?#Aesthetic
+Aa-...!?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -135,18 +150,22 @@ Ssss.....!!!!?#Aesthetic
 
 ワサビがツーンとくるような感覚がしばらく続く。
 > CONTEXT: Map006/events/2/pages/0/155/Dialogue
-> CONTEXT: Map006/events/2/pages/1/158/Dialogue
-> CONTEXT: Map006/events/2/pages/3/88/Dialogue
 Careful. When you put it on for the first time,
 it feels like wasabi rubbing against a tree for a bit.#Aesthetic
+> CONTEXT: Map006/events/2/pages/1/158/Dialogue
+> CONTEXT: Map006/events/2/pages/3/88/Dialogue
+Careful. That feeling of being hit with wasabi
+lasts for a while when you attach it for the
+first time.#Ron
 > END STRING
 
 > BEGIN STRING
 お、遅すぎる的確な表現をどうも……！
 > CONTEXT: Map006/events/2/pages/0/159/Dialogue
+You should've said something sooner...#Aesthetic
 > CONTEXT: Map006/events/2/pages/1/162/Dialogue
 > CONTEXT: Map006/events/2/pages/3/92/Dialogue
-You should've said something sooner...#Aesthetic
+G- gee thanks for the warning!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -154,10 +173,12 @@ You should've said something sooner...#Aesthetic
 
 なにかヤバイもんじゃないんだろうな……！？
 > CONTEXT: Map006/events/2/pages/0/161/Dialogue
-> CONTEXT: Map006/events/2/pages/1/164/Dialogue
-> CONTEXT: Map006/events/2/pages/3/94/Dialogue
 Wait is this OK!? It's stuck to my ear...
 This thing better not be dangerous...#Aesthetic
+> CONTEXT: Map006/events/2/pages/1/164/Dialogue
+> CONTEXT: Map006/events/2/pages/3/94/Dialogue
+Is this thing okay to wear!? It's stuck to my
+ear... it's not dangerous or anything is it...!?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -165,11 +186,14 @@ This thing better not be dangerous...#Aesthetic
 
 お前が手で引き剥がそうとすれば、磁石みたいにすぐ外せる。
 > CONTEXT: Map006/events/2/pages/0/165/Dialogue
-> CONTEXT: Map006/events/2/pages/1/168/Dialogue
-> CONTEXT: Map006/events/2/pages/3/98/Dialogue
 Calm down, it's alright. 
 If you try to peel it off with your hand, it should
 come off as easily as a magnet would.#Aesthetic
+> CONTEXT: Map006/events/2/pages/1/168/Dialogue
+> CONTEXT: Map006/events/2/pages/3/98/Dialogue
+Take it easy, it's fine.
+You can peel it off with your hand just like a
+magnet.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -177,11 +201,15 @@ come off as easily as a magnet would.#Aesthetic
 
 骨の振動から直接、装着者の音声を拾う通信機だ。
 > CONTEXT: Map006/events/2/pages/0/169/Dialogue
-> CONTEXT: Map006/events/2/pages/1/172/Dialogue
-> CONTEXT: Map006/events/2/pages/3/102/Dialogue
 That device was developed around the beginning of the war
 with the demons. Using the vibrations from your bones, it's
 a device that picks up the user's voice.#Aesthetic
+> CONTEXT: Map006/events/2/pages/1/172/Dialogue
+> CONTEXT: Map006/events/2/pages/3/102/Dialogue
+It was developed around the beginning of the war
+with the demons. It's a communication device that
+picks up the wearer's voice directly from bone
+vibrations.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -190,11 +218,15 @@ a device that picks up the user's voice.#Aesthetic
 ……はずなんだが、どういうわけか
 周囲の悪魔には筒抜けらしい。
 > CONTEXT: Map006/events/2/pages/0/173/Dialogue
-> CONTEXT: Map006/events/2/pages/1/176/Dialogue
-> CONTEXT: Map006/events/2/pages/3/106/Dialogue
 My voice should also be transmitted directly to your
 ear bones. Only you should hear me... but for some reason
 my voice will reach surroundidng demons. #Aesthetic
+> CONTEXT: Map006/events/2/pages/1/176/Dialogue
+> CONTEXT: Map006/events/2/pages/3/106/Dialogue
+My voice is also transmitted directly via your
+ear bones. Only you can hear it. Or at least
+that's what's supposed to happen. Apparently
+demons around you can somehow hear it.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -202,11 +234,15 @@ my voice will reach surroundidng demons. #Aesthetic
 
 これなら、さっきの無線機よりはよっぽどマシだろう？
 > CONTEXT: Map006/events/2/pages/0/178/Dialogue
-> CONTEXT: Map006/events/2/pages/1/181/Dialogue
-> CONTEXT: Map006/events/2/pages/3/111/Dialogue
 For that reason, the military doesn't use it even if it's
 popular with the general populace.
 It's much better than that radio though right?#Aesthetic
+> CONTEXT: Map006/events/2/pages/1/181/Dialogue
+> CONTEXT: Map006/events/2/pages/3/111/Dialogue
+So even though it was widely adopted, the
+military never utilised it. Still, it's much
+better than the wireless radio you were using
+before, right?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -214,10 +250,12 @@ It's much better than that radio though right?#Aesthetic
 
 通信ノイズが全くない……。
 > CONTEXT: Map006/events/2/pages/0/182/Dialogue
-> CONTEXT: Map006/events/2/pages/1/185/Dialogue
-> CONTEXT: Map006/events/2/pages/3/115/Dialogue
 Amazing...It sounds like you're right next to me.
 There's no static at all.#Aesthetic
+> CONTEXT: Map006/events/2/pages/1/185/Dialogue
+> CONTEXT: Map006/events/2/pages/3/115/Dialogue
+Wow... It's like you're right next to me. There's
+no static or anything...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -225,10 +263,12 @@ There's no static at all.#Aesthetic
 
 なんてことはないだろうな………。
 > CONTEXT: Map006/events/2/pages/0/186/Dialogue
-> CONTEXT: Map006/events/2/pages/1/189/Dialogue
-> CONTEXT: Map006/events/2/pages/3/119/Dialogue
 If it's like this, we won't have the same issue
 of not recognizing each other by our voices...#Aesthetic
+> CONTEXT: Map006/events/2/pages/1/189/Dialogue
+> CONTEXT: Map006/events/2/pages/3/119/Dialogue
+With this, it won't be like before when I heard
+your voice and didn't know who it was.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -236,12 +276,16 @@ of not recognizing each other by our voices...#Aesthetic
 しかし通常の無線機同様に、\\C[2]悪魔との戦闘中は
  ほとんど不通になる。\\C[0]注意してくれ。
 > CONTEXT: Map006/events/2/pages/0/190/Dialogue
-> CONTEXT: Map006/events/2/pages/1/193/Dialogue
-> CONTEXT: Map006/events/2/pages/3/123/Dialogue
 Ah. 
 However, as with ordinary radio equipment,\\C[2]
 while you're battling with demons, the connection is
 unstable. \\C[0]Be careful.#Aesthetic
+> CONTEXT: Map006/events/2/pages/1/193/Dialogue
+> CONTEXT: Map006/events/2/pages/3/123/Dialogue
+Oh yeah. But just like with normal radio
+equipment, \\C[2]radio contact will pretty much
+stop when you're battling demons.\\C[0]
+Please be careful.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -249,10 +293,13 @@ unstable. \\C[0]Be careful.#Aesthetic
 
 分かった。なんとかやってみるよ。
 > CONTEXT: Map006/events/2/pages/0/194/Dialogue
-> CONTEXT: Map006/events/2/pages/1/197/Dialogue
-> CONTEXT: Map006/events/2/pages/3/127/Dialogue
 ...Ok, I also understand why you have to stay there...
 Yeah, I'll try to do what I can from my end.#Aesthetic
+> CONTEXT: Map006/events/2/pages/1/197/Dialogue
+> CONTEXT: Map006/events/2/pages/3/127/Dialogue
+... If you can't move from where you are then
+there's no other way.
+Understood, I'll give it a try.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -260,18 +307,22 @@ Yeah, I'll try to do what I can from my end.#Aesthetic
 
 \\c[0]ナビゲーション、しっかり頼むぜ、ユウマ。
 > CONTEXT: Map006/events/2/pages/0/198/Dialogue
-> CONTEXT: Map006/events/2/pages/1/201/Dialogue
-> CONTEXT: Map006/events/2/pages/3/131/Dialogue
 To start with, \\c[2]I'm headed for the elevator right?
 \\c[0]I'll leave the navigation to you Yuuma.#Aesthetic
+> CONTEXT: Map006/events/2/pages/1/201/Dialogue
+> CONTEXT: Map006/events/2/pages/3/131/Dialogue
+First of all, \\c[2]I'll head to the elevator.
+\\c[0]I'll be sure to ask you for directions,
+Yuuma.#Ron
 > END STRING
 
 > BEGIN STRING
 
 　　　　　　　　　『！マーク』について
 > CONTEXT: Map006/events/2/pages/0/223/Dialogue
-> CONTEXT: Map006/events/2/pages/1/224/Dialogue
 『Marks』 have been set.#Aesthetic
+> CONTEXT: Map006/events/2/pages/1/224/Dialogue
+About the '!' Marker"#Ron
 > END STRING
 
 > BEGIN STRING
@@ -279,16 +330,18 @@ To start with, \\c[2]I'm headed for the elevator right?
 常時点灯している地点が出現します。
 > CONTEXT: Map006/events/2/pages/0/226/Dialogue
 > CONTEXT: Map006/events/2/pages/1/227/Dialogue
-While the story is in progress, ''! Marker '
-Points that are constantly lit will appear.#MTLed
+While playing through the story, continously flashing
+'!' points of interest will appear.#Ron
 > END STRING
 
 > BEGIN STRING
 これは、『そこを調べるとイベントが進行する』という合図です。
 > CONTEXT: Map006/events/2/pages/0/229/Dialogue
-> CONTEXT: Map006/events/2/pages/1/230/Dialogue
 If you 『examine them, an event will occur.』
 They are a sign to interact with the area.#Aesthetic
+> CONTEXT: Map006/events/2/pages/1/230/Dialogue
+These signify that if you examine this point of
+interest there will be a story event.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -296,11 +349,14 @@ They are a sign to interact with the area.#Aesthetic
 今後このマークの地点を調べる場合は、セーブをしたり
 アイテムを補充したり、準備を怠らないようにしましょう。
 > CONTEXT: Map006/events/2/pages/0/231/Dialogue
-> CONTEXT: Map006/events/2/pages/1/232/Dialogue
 Depending on what kind of event you're seeing you may
 be taken into a forced battle. Before checking Marks it's
 recommended that you save, and check on your items. Don't
 get lazy.#Aesthetic
+> CONTEXT: Map006/events/2/pages/1/232/Dialogue
+Depending on the progress of the event, forced combat may
+occur. Be sure to prepare, replenish items, and save
+before activating these points.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -379,8 +435,8 @@ to finish them off.#Aesthetic
 
 \\C[2]悪魔たちは自分に受けた傷は根に持つぜ。
 > CONTEXT: Map006/events/3/pages/1/83/Dialogue
-But do not forget. \\C[2]The demons and others will
-have the wounds they receive on their roots.#MTLed
+But don't forget.
+\\C[2]The rest of the demons will hold a grudge.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -397,8 +453,9 @@ That demon, didn't bleed or get hurt with your shot right?#Aesthetic
 
 その代わり、なんか火花っぽいのが出てたような…
 > CONTEXT: Map006/events/3/pages/1/93/Dialogue
-Well, indeed...Instead, it looks like something
-like a spark ...#MTLed
+Now that I think about it...
+It looked like some kind of spark appeared
+instead.#Ron
 > END STRING
 
 > BEGIN STRING

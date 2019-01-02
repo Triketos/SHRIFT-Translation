@@ -1,0 +1,172 @@
+﻿> SHORTENED: Armors.txt
+
+> BEGIN STRING
+あらゆるウイルスから身を守る特殊な患者衣。
+さすがに服を脱がされ肌に直接触れられると効果が無い。
+> CONTEXT: Armors/1/description/
+> CONTEXT: Armors/2/description/
+> CONTEXT: Armors/3/description/
+> CONTEXT: Armors/5/description/
+A special hospital gown that protects the skin against
+viruses. It becomes ineffective went taken off.#DargothPR
+> END STRING
+
+> BEGIN STRING
+ある程度頑丈に出来た籠手。
+物理ダメージを軽減させ、『出血』しにくくなる。
+> CONTEXT: Armors/44/description/
+A rather sturdy gauntlet. Reduces physical
+damage and chances of bleeding.#DargothPR
+> END STRING
+
+> BEGIN STRING
+ありがたいおまもり。
+『虜』から『エサ』に重複するのを防いでくれる。
+> CONTEXT: Armors/47/description/
+A lucky charm.
+Protects from repetition of [Enslaved] to [Food].#DargothPR
+> END STRING
+
+> BEGIN STRING
+身につけると身体が闘争を求め始める首飾り。
+武器攻撃力が上がるが、性欲が伸びやすくなる。
+> CONTEXT: Armors/49/description/
+A choker that makes your body craves for battle.
+Increases weapon attack but raises lust.#DargothPR
+> END STRING
+
+> BEGIN STRING
+これを装備してベッドで眠ると、箱の閉鎖空間に引き込まれる。
+該当の悪魔が\\C[2]襲ってくる。逃げ場はない。敗北時は心蝕される。
+> CONTEXT: Armors/200/description/
+> CONTEXT: Armors/201/description/
+> CONTEXT: Armors/202/description/
+> CONTEXT: Armors/203/description/
+> CONTEXT: Armors/204/description/
+> CONTEXT: Armors/205/description/
+Locks you in a closed space with the monster upon sleeping.
+\\C[2]No escape from the fight and mind corruption still applies.#DargothPR
+> END STRING
+
+> BEGIN STRING
+ある程度頑丈に出来た籠手。
+物理ダメージを軽減させ、『出血』しにくくなる。
+> CONTEXT: Armors/44/description/
+A rather sturdy guantlet.
+Reduces physical damage and chances of bleeding.#DargothPR
+> END STRING
+
+> SHORTENED: Items.txt
+
+> BEGIN STRING
+エンプーサから剥ぎ取った、非常に大きい昆虫の腕。
+> CONTEXT: Items/103/description/
+A giant insect arm ripped off Empuse.#DargothPR
+> END STRING
+
+> BEGIN STRING
+ランパスの蜜を練成しすぎて溶けてしまった飴。戦闘中のみ使用可
+気力と抵抗力を全快するが、脱力してしまう。
+> CONTEXT: Items/10/description/
+Syrup made from refined lampas nectar. Combat use only.
+Fully restores willpower and vitality, but debilitate you.#DargothPR
+> END STRING
+
+> SHORTENED: Map002.txt
+
+> BEGIN STRING
+\\l[0]
+> CONTEXT: Map002/events/1/pages/1/19/Dialogue
+\\l[0]#DargothPR
+> END STRING
+
+> BEGIN STRING
+バーゲスト if(s[101])
+> CONTEXT: Map002/events/1/pages/0/238/Choice/0
+> CONTEXT: Map002/events/1/pages/0/238/Choice/0
+Barghest if(s[101])#DargothPR
+> END STRING
+
+> BEGIN STRING
+ランパス if(s[105])
+> CONTEXT: Map002/events/1/pages/0/238/Choice/1
+> CONTEXT: Map002/events/1/pages/0/238/Choice/1
+Lampas if(s[105])#DargothPR
+> END STRING
+
+> BEGIN STRING
+アイアンメイデン if(s[109])
+> CONTEXT: Map002/events/1/pages/0/238/Choice/2
+> CONTEXT: Map002/events/1/pages/0/238/Choice/2
+Iron Maiden if(s[105])#DargothPR
+> END STRING
+
+> BEGIN STRING
+エンプーサ if(s[112])
+> CONTEXT: Map002/events/1/pages/0/238/Choice/3
+> CONTEXT: Map002/events/1/pages/0/238/Choice/3
+Empuse if(s[112])#DargothPR
+> END STRING
+
+> SHORTENED: Map019.txt
+
+> BEGIN STRING
+雑談する en(v[41] \>= 25)
+> CONTEXT: Map019/events/5/pages/0/29/Choice/0
+Chat en(v[41] \>= 25)#DargothPR
+> END STRING
+
+> SHORTENED: Map028.txt
+
+> BEGIN STRING
+……それでは、そろそろ時間となります。
+
+しばしのお別れですが、またいずれ会うことになるでしょう。
+> CONTEXT: Map028/events/2/pages/0/77/Dialogue
+...I see, it's time then.
+
+For now, I'll take my leave.#DargothPR
+> END STRING
+
+> SHORTENED: Skills.txt
+
+> BEGIN STRING
+\\C[10]エンプーサに犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、勝手に毎ターン性欲が５％上昇する。
+> CONTEXT: Skills/266/description/
+\\C[10]The pleasure of being raped by Empuse sticks in your mind.
+Increases lust 5% every turn when fighting this monster.#DargothPR
+> END STRING
+
+> BEGIN STRING
+\\C[10]エンプーサに犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、最大抵抗力が８０％になる。
+> CONTEXT: Skills/267/description/
+\\C[10]The pleasure of being raped by Empuse sticks in your mind.
+Maximum willpower reduced to 80% when fighting this monster.#DargothPR
+> END STRING
+
+> BEGIN STRING
+\\C[10]エンプーサに犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、最大気力が８０％になる。
+> CONTEXT: Skills/268/description/
+\\C[10]The pleasure of being raped by Empuse sticks in your mind.
+Maximum vitality reduced to 80% when fighting this monster.#DargothPR
+> END STRING
+
+> BEGIN STRING
+\\C[10]エンプーサに犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、特殊アクシデント戦闘が発生する事がある。
+> CONTEXT: Skills/269/description/
+\\C[10]The pleasure of being raped by Empuse sticks in your mind.
+Special accident battles can occur against this monster.#DargothPR
+> END STRING
+
+> SHORTENED: NOT_FOUND_.txt
+
+> BEGIN STRING
+ありがたいおまもり。
+外に射精時、１０％の確率で『朦朧』が解除される。
+
+> END STRING
+

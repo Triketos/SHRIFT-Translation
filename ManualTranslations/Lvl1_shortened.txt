@@ -1,0 +1,1974 @@
+﻿> SHORTENED: Skills.txt
+
+> BEGIN STRING
+幸運のお守り
+> CONTEXT: Armors/55/name/
+Lucky Charm#Lvl1
+> END STRING
+
+> BEGIN STRING
+攻撃
+> CONTEXT: NONE < UNUSED
+Attack#Lvl1
+> END STRING
+
+> SHORTENED: System.txt
+
+> BEGIN STRING
+最大ＨＰ
+> CONTEXT: NONE < UNUSED
+MaxHP#Lvl1
+> END STRING
+
+> BEGIN STRING
+最大ＭＰ
+> CONTEXT: NONE < UNUSED
+MaxMP#Lvl1
+> END STRING
+
+> BEGIN STRING
+攻撃力
+> CONTEXT: NONE < UNUSED
+ATK#Lvl1
+> END STRING
+
+> BEGIN STRING
+防御力
+> CONTEXT: NONE < UNUSED
+DEF#Lvl1
+> END STRING
+
+> BEGIN STRING
+魔法力
+> CONTEXT: NONE < UNUSED
+MAT#Lvl1
+> END STRING
+
+> BEGIN STRING
+魔法力
+> CONTEXT: NONE < UNUSED
+MAT#Lvl1
+> END STRING
+
+> BEGIN STRING
+魔法防御
+> CONTEXT: NONE < UNUSED
+MDF#Lvl1
+> END STRING
+
+> BEGIN STRING
+敏捷性
+> CONTEXT: NONE < UNUSED
+AGI#Lvl1
+> END STRING
+
+> BEGIN STRING
+運
+> CONTEXT: NONE < UNUSED
+LUK#Lvl1
+> END STRING
+
+> BEGIN STRING
+武器
+> CONTEXT: NONE < UNUSED
+Weapon#Lvl1
+> END STRING
+
+> BEGIN STRING
+身体
+> CONTEXT: NONE < UNUSED
+Body#Lvl1
+> END STRING
+
+> BEGIN STRING
+装飾品
+> CONTEXT: NONE < UNUSED
+Accessory#Lvl1
+> END STRING
+
+> BEGIN STRING
+戦う
+> CONTEXT: NONE < UNUSED
+Fight#Lvl1
+> END STRING
+
+> BEGIN STRING
+逃げる
+> CONTEXT: NONE < UNUSED
+Escape#Lvl1
+> END STRING
+
+> BEGIN STRING
+アイテム
+> CONTEXT: NONE < UNUSED
+Item#Lvl1
+> END STRING
+
+> BEGIN STRING
+スキル
+> CONTEXT: NONE < UNUSED
+Skill#Lvl1
+> END STRING
+
+> BEGIN STRING
+装備
+> CONTEXT: NONE < UNUSED
+Equipment#Lvl1
+> END STRING
+
+> BEGIN STRING
+ステータス
+> CONTEXT: NONE < UNUSED
+Status#Lvl1
+> END STRING
+
+> BEGIN STRING
+並び替え
+> CONTEXT: NONE < UNUSED
+Formation#Lvl1
+> END STRING
+
+> BEGIN STRING
+セーブ
+> CONTEXT: NONE < UNUSED
+Save#Lvl1
+> END STRING
+
+> BEGIN STRING
+ゲーム終了
+> CONTEXT: NONE < UNUSED
+Game End#Lvl1
+> END STRING
+
+> BEGIN STRING
+武器
+> CONTEXT: NONE < UNUSED
+Weapon#Lvl1
+> END STRING
+
+> BEGIN STRING
+防具
+> CONTEXT: NONE < UNUSED
+Armours#Lvl1
+> END STRING
+
+> BEGIN STRING
+装備変更
+> CONTEXT: NONE < UNUSED
+Change#Lvl1
+> END STRING
+
+> BEGIN STRING
+最強装備
+> CONTEXT: NONE < UNUSED
+Optimize#Lvl1
+> END STRING
+
+> BEGIN STRING
+全て外す
+> CONTEXT: NONE < UNUSED
+Clear#Lvl1
+> END STRING
+
+> BEGIN STRING
+コンティニュー
+> CONTEXT: NONE < UNUSED
+Continue#Lvl1
+> END STRING
+
+> BEGIN STRING
+タイトルへ
+> CONTEXT: NONE < UNUSED
+To Title#Lvl1
+> END STRING
+
+> BEGIN STRING
+やめる
+> CONTEXT: NONE < UNUSED
+Cancel#Lvl1
+> END STRING
+
+> SHORTENED: States.txt
+
+> BEGIN STRING
+防御
+> CONTEXT: NONE < UNUSED
+Guard#Lvl1
+> END STRING
+
+> SHORTENED: Scripts.txt
+
+> BEGIN STRING
+"購入する"
+> CONTEXT: NONE < UNUSED
+"Buy"#Lvl1
+> END STRING
+
+> BEGIN STRING
+"売却する"
+> CONTEXT: NONE < UNUSED
+"Sell"#Lvl1
+> END STRING
+
+> BEGIN STRING
+"やめる"
+> CONTEXT: NONE < UNUSED
+"Exit"#Lvl1
+> END STRING
+
+> BEGIN STRING
+"持っている数"
+> CONTEXT: NONE < UNUSED
+"Owned"#Lvl1
+> END STRING
+
+> BEGIN STRING
+"現在の経験値"
+> CONTEXT: NONE < UNUSED
+"Experience"#Lvl1
+> END STRING
+
+> BEGIN STRING
+"次の%sまで"
+> CONTEXT: NONE < UNUSED
+"To Next %s"#Lvl1
+> END STRING
+
+> BEGIN STRING
+"どのファイルにセーブしますか？"
+> CONTEXT: NONE < UNUSED
+"Save to which file?"#Lvl1
+> END STRING
+
+> BEGIN STRING
+"どのファイルをロードしますか？"
+> CONTEXT: NONE < UNUSED
+"Load which file?"#Lvl1
+> END STRING
+
+> BEGIN STRING
+"ファイル"
+> CONTEXT: NONE < UNUSED
+"File"#Lvl1
+> END STRING
+
+> BEGIN STRING
+"%sたち"
+> CONTEXT: NONE < UNUSED
+"%s's Party"#Lvl1
+> END STRING
+
+> BEGIN STRING
+"%sが出現！"
+> CONTEXT: NONE < UNUSED
+"%s emerged!"#Lvl1
+> END STRING
+
+> BEGIN STRING
+"%sは先手を取った！"
+> CONTEXT: NONE < UNUSED
+"%s got the upper hand!"#Lvl1
+> END STRING
+
+> BEGIN STRING
+"%sは不意をつかれた！"
+> CONTEXT: NONE < UNUSED
+"%s was surprised!"#Lvl1
+> END STRING
+
+> BEGIN STRING
+"%sは逃げ出した！"
+> CONTEXT: NONE < UNUSED
+"%s has started to escape!"#Lvl1
+> END STRING
+
+> BEGIN STRING
+"%sの勝利！"
+> CONTEXT: NONE < UNUSED
+"%s was victorious"#Lvl1
+> END STRING
+
+> BEGIN STRING
+"%sは戦いに敗れた。"
+> CONTEXT: NONE < UNUSED
+"%s was defeated."#Lvl1
+> END STRING
+
+> BEGIN STRING
+"%s の経験値を獲得！"
+> CONTEXT: NONE < UNUSED
+"%s EXP received!"#Lvl1
+> END STRING
+
+> BEGIN STRING
+"%sを手に入れた！"
+> CONTEXT: NONE < UNUSED
+"%s found!"#Lvl1
+> END STRING
+
+> BEGIN STRING
+"%sは%s %s に上がった！"
+> CONTEXT: NONE < UNUSED
+"%s is now %s %s!"#Lvl1
+> END STRING
+
+> BEGIN STRING
+"%sを覚えた！"
+> CONTEXT: NONE < UNUSED
+"%s learned!"#Lvl1
+> END STRING
+
+> BEGIN STRING
+"%sは%sを使った！"
+> CONTEXT: NONE < UNUSED
+"%s uses %s!"#Lvl1
+> END STRING
+
+> BEGIN STRING
+"会心の一撃！！"
+> CONTEXT: NONE < UNUSED
+"An excellent hit!!"#Lvl1
+> END STRING
+
+> BEGIN STRING
+"痛恨の一撃！！"
+> CONTEXT: NONE < UNUSED
+"A painful blow!!"#Lvl1
+> END STRING
+
+> BEGIN STRING
+"%sは %s のダメージを受けた！"
+> CONTEXT: NONE < UNUSED
+"%s took %s damage!"#Lvl1
+> END STRING
+
+> BEGIN STRING
+"%sの%sが %s 回復した！"
+> CONTEXT: NONE < UNUSED
+"%s recovered %s %s!"#Lvl1
+> END STRING
+
+> BEGIN STRING
+"%sの%sが %s 増えた！"
+> CONTEXT: NONE < UNUSED
+"%s gained %s %s!"#Lvl1
+> END STRING
+
+> BEGIN STRING
+"%sの%sが %s 減った！"
+> CONTEXT: NONE < UNUSED
+"%s lost %s %s"#Lvl1
+> END STRING
+
+> BEGIN STRING
+"%sは%sを %s 奪われた！"
+> CONTEXT: NONE < UNUSED
+"%s was drained of %s %s!"#Lvl1
+> END STRING
+
+> BEGIN STRING
+"%sはダメージを受けていない！"
+> CONTEXT: NONE < UNUSED
+"%s took no damage!"#Lvl1
+> END STRING
+
+> BEGIN STRING
+"ミス！　%sはダメージを受けていない！"
+> CONTEXT: NONE < UNUSED
+"Miss! %s took no damage!"#Lvl1
+> END STRING
+
+> BEGIN STRING
+"%sの%sが %s 回復した！"
+> CONTEXT: NONE < UNUSED
+"%s recovered %s %s!"#Lvl1
+> END STRING
+
+> BEGIN STRING
+"%sの%sが %s 増えた！"
+> CONTEXT: NONE < UNUSED
+"%s gained %s %s!"#Lvl1
+> END STRING
+
+> BEGIN STRING
+"%sの%sが %s 減った！"
+> CONTEXT: NONE < UNUSED
+"%s lost %s %s"#Lvl1
+> END STRING
+
+> BEGIN STRING
+"%sの%sを %s 奪った！"
+> CONTEXT: NONE < UNUSED
+"Drained %s %s from %s!"#Lvl1
+> END STRING
+
+> BEGIN STRING
+"%sにダメージを与えられない！"
+> CONTEXT: NONE < UNUSED
+"%s took no damage!"#Lvl1
+> END STRING
+
+> BEGIN STRING
+"ミス！　%sにダメージを与えられない！"
+> CONTEXT: NONE < UNUSED
+"Missed! %s took no damage!"#Lvl1
+> END STRING
+
+> BEGIN STRING
+"%sは攻撃をかわした！"
+> CONTEXT: NONE < UNUSED
+"%s evaded the attack!"#Lvl1
+> END STRING
+
+> BEGIN STRING
+"%sは魔法を打ち消した！"
+> CONTEXT: NONE < UNUSED
+"%s nullified the magic!"#Lvl1
+> END STRING
+
+> BEGIN STRING
+"%sは魔法を跳ね返した！"
+> CONTEXT: NONE < UNUSED
+"%s reflected the magic!"#Lvl1
+> END STRING
+
+> BEGIN STRING
+"%sの反撃！"
+> CONTEXT: NONE < UNUSED
+"%s counterattacked!"#Lvl1
+> END STRING
+
+> BEGIN STRING
+"%sが%sをかばった！"
+> CONTEXT: NONE < UNUSED
+"%s protected %s!"#Lvl1
+> END STRING
+
+> BEGIN STRING
+"%sの%sが上がった！"
+> CONTEXT: NONE < UNUSED
+"%s's %s went up!"#Lvl1
+> END STRING
+
+> BEGIN STRING
+"%sの%sが元に戻った！"
+> CONTEXT: NONE < UNUSED
+"%s's %s returned to normal."#Lvl1
+> END STRING
+
+> BEGIN STRING
+"%sには効かなかった！"
+> CONTEXT: NONE < UNUSED
+"There was no effect on %s!"#Lvl1
+> END STRING
+
+> BEGIN STRING
+"プレイヤーの初期位置が設定されていません。"
+> CONTEXT: NONE < UNUSED
+"Player's starting position is not set."#Lvl1
+> END STRING
+
+> BEGIN STRING
+"コモンイベントの呼び出しが上限を超えました。"
+> CONTEXT: NONE < UNUSED
+"Common event calls exceeded the limit."#Lvl1
+> END STRING
+
+> SHORTENED: Armors.txt
+
+> BEGIN STRING
+ドラゴンファング
+> CONTEXT: Weapons/11/name/
+Dragon Fang#Lvl1
+> END STRING
+
+> SHORTENED: Weapons.txt
+
+> BEGIN STRING
+魔弓アルテミス
+> CONTEXT: Weapons/36/name/
+Artemis Bow#Lvl1
+> END STRING
+
+> BEGIN STRING
+月の女神の名を冠する白銀の弓。
+> CONTEXT: Weapons/36/description/
+A bow that bears the name of the Moon Goddess.#Lvl1
+> END STRING
+
+> BEGIN STRING
+メイス
+> CONTEXT: Weapons/43/name/
+Mace#Lvl1
+> END STRING
+
+> BEGIN STRING
+打撃力を高めた金属製の棍棒。
+> CONTEXT: Weapons/43/description/
+A circular club with metal spikes.#Lvl1
+> END STRING
+
+> SHORTENED: NOT_FOUND_.txt
+
+> BEGIN STRING
+REPLACE ME
+
+> END STRING
+
+> BEGIN STRING
+REPLACE ME
+
+> END STRING
+
+> BEGIN STRING
+REPLACE ME
+
+> END STRING
+
+> BEGIN STRING
+REPLACE ME
+
+> END STRING
+
+> BEGIN STRING
+REPLACE ME
+
+> END STRING
+
+> BEGIN STRING
+REPLACE ME
+
+> END STRING
+
+> BEGIN STRING
+REPLACE ME
+
+> END STRING
+
+> BEGIN STRING
+REPLACE ME
+
+> END STRING
+
+> BEGIN STRING
+ブリガンダイン
+
+> END STRING
+
+> BEGIN STRING
+鋼板で補強したなめし皮製の服。
+
+> END STRING
+
+> BEGIN STRING
+バンダナ
+
+> END STRING
+
+> BEGIN STRING
+額を守る布製のハチマキ。
+
+> END STRING
+
+> BEGIN STRING
+レザーバンダナ
+
+> END STRING
+
+> BEGIN STRING
+額を守る皮製のハチマキ。
+
+> END STRING
+
+> BEGIN STRING
+毛皮の帽子
+
+> END STRING
+
+> BEGIN STRING
+毛皮で作られた帽子。
+
+> END STRING
+
+> BEGIN STRING
+ターバン
+
+> END STRING
+
+> BEGIN STRING
+重ねて巻きつけて頭を守る厚手の布。
+
+> END STRING
+
+> BEGIN STRING
+羽根付き帽子
+
+> END STRING
+
+> BEGIN STRING
+極楽鳥の羽がついたオシャレな帽子。
+
+> END STRING
+
+> BEGIN STRING
+木綿のローブ
+
+> END STRING
+
+> BEGIN STRING
+木綿で作られた厚手のローブ。
+
+> END STRING
+
+> BEGIN STRING
+絹のマント
+
+> END STRING
+
+> BEGIN STRING
+絹で作られた上質なマント。
+
+> END STRING
+
+> BEGIN STRING
+術士のローブ
+
+> END STRING
+
+> BEGIN STRING
+裏地にルーン文字が刻まれたローブ。
+
+> END STRING
+
+> BEGIN STRING
+ハーミットローブ
+
+> END STRING
+
+> BEGIN STRING
+古の老賢者が身につけていたローブ。
+
+> END STRING
+
+> BEGIN STRING
+エレメンタルマント
+
+> END STRING
+
+> BEGIN STRING
+精霊王の力が宿る究極のマント。
+
+> END STRING
+
+> BEGIN STRING
+銅の髪飾り
+
+> END STRING
+
+> BEGIN STRING
+青銅で作られた髪飾り。
+
+> END STRING
+
+> BEGIN STRING
+サークレット
+
+> END STRING
+
+> BEGIN STRING
+鉄で作られたリング状の額飾り。
+
+> END STRING
+
+> BEGIN STRING
+銀の髪飾り
+
+> END STRING
+
+> BEGIN STRING
+身につけた者の魔力を高める髪飾り。
+
+> END STRING
+
+> BEGIN STRING
+ミスリルサークレット
+
+> END STRING
+
+> BEGIN STRING
+魔法の金属ミスリルで作られた額飾り。
+
+> END STRING
+
+> BEGIN STRING
+賢者の額冠
+
+> END STRING
+
+> BEGIN STRING
+古代魔法文明の技術で作られた額飾り。
+
+> END STRING
+
+> BEGIN STRING
+レザーアーマー
+
+> END STRING
+
+> BEGIN STRING
+なめし皮を重ねて組んだ鎧。
+
+
+> END STRING
+
+> BEGIN STRING
+ブロンズブレスト
+
+> END STRING
+
+> BEGIN STRING
+青銅で作られた粗末な胸当て。
+
+> END STRING
+
+> BEGIN STRING
+アイアンブレスト
+
+> END STRING
+
+> BEGIN STRING
+鋼板から打ち出した鉄の胸当て。
+
+> END STRING
+
+> BEGIN STRING
+ミスリルブレスト
+
+> END STRING
+
+> BEGIN STRING
+魔法の金属ミスリルで作られた胸当て。
+
+> END STRING
+
+> BEGIN STRING
+ドラゴンスケイル
+
+> END STRING
+
+> BEGIN STRING
+竜の鱗から作られた胸当て。
+
+> END STRING
+
+> BEGIN STRING
+レザーキャップ
+
+> END STRING
+
+> BEGIN STRING
+なめし皮で作られた帽子。
+
+> END STRING
+
+> BEGIN STRING
+ブロンズキャップ
+
+> END STRING
+
+> BEGIN STRING
+青銅で補強された帽子。
+
+> END STRING
+
+> BEGIN STRING
+サレット
+
+> END STRING
+
+> BEGIN STRING
+鋼板を加工して作った帽子。
+
+> END STRING
+
+> BEGIN STRING
+ミスリルキャップ
+
+> END STRING
+
+> BEGIN STRING
+ミスリル銀糸で編まれた帽子。
+
+> END STRING
+
+> BEGIN STRING
+ドラゴンスキン
+
+> END STRING
+
+> BEGIN STRING
+竜の皮膚から作られた帽子。
+
+> END STRING
+
+> BEGIN STRING
+チェインメイル
+
+> END STRING
+
+> BEGIN STRING
+鉄の鎖を組み上げて作った鎧。
+
+> END STRING
+
+> BEGIN STRING
+アイアンメイル
+
+> END STRING
+
+> BEGIN STRING
+鋼鉄製の鎧。
+
+> END STRING
+
+> BEGIN STRING
+プレートメイル
+
+> END STRING
+
+> BEGIN STRING
+騎士が身につける板金鎧。
+
+> END STRING
+
+> BEGIN STRING
+ミスリルメイル
+
+> END STRING
+
+> BEGIN STRING
+魔法の金属ミスリルで作られた鎧。
+
+> END STRING
+
+> BEGIN STRING
+竜鱗の鎧
+
+> END STRING
+
+> BEGIN STRING
+竜の鱗から作られた鎧。
+
+> END STRING
+
+> BEGIN STRING
+チェインコイフ
+
+> END STRING
+
+> BEGIN STRING
+頭部を覆う鉄鎖で編まれたフード。
+
+> END STRING
+
+> BEGIN STRING
+アイアンヘルム
+
+> END STRING
+
+> BEGIN STRING
+鋼鉄製の兜。
+
+> END STRING
+
+> BEGIN STRING
+ナイトヘルム
+
+> END STRING
+
+> BEGIN STRING
+騎士が身につける装飾された兜。
+
+> END STRING
+
+> BEGIN STRING
+ミスリルヘルム
+
+> END STRING
+
+> BEGIN STRING
+魔法の金属ミスリルで作られた兜。
+
+> END STRING
+
+> BEGIN STRING
+竜鱗の兜
+
+> END STRING
+
+> BEGIN STRING
+竜の鱗から作られた兜。
+
+> END STRING
+
+> BEGIN STRING
+バックラー
+
+> END STRING
+
+> BEGIN STRING
+攻撃を受け流すための小型盾。
+
+> END STRING
+
+> BEGIN STRING
+ラウンドシールド
+
+> END STRING
+
+> BEGIN STRING
+鉄の枠で補強した木製の円盾。
+
+> END STRING
+
+> BEGIN STRING
+スパイクシールド
+
+> END STRING
+
+> BEGIN STRING
+表面に攻撃用のトゲがついた円盾。
+
+> END STRING
+
+> BEGIN STRING
+ミスリルバックラー
+
+> END STRING
+
+> BEGIN STRING
+魔法の金属ミスリルで作られた小型盾。
+
+> END STRING
+
+> BEGIN STRING
+ドラゴンバックラー
+
+> END STRING
+
+> BEGIN STRING
+竜の鱗から作られた小型盾。
+
+> END STRING
+
+> BEGIN STRING
+ウッドシールド
+
+> END STRING
+
+> BEGIN STRING
+堅木を重ね合わせて作った盾。
+
+> END STRING
+
+> BEGIN STRING
+アイアンシールド
+
+> END STRING
+
+> BEGIN STRING
+鋼鉄製の盾。
+
+> END STRING
+
+> BEGIN STRING
+ナイトシールド
+
+> END STRING
+
+> BEGIN STRING
+グリフォンの紋章が刻まれた鋼の盾。
+
+> END STRING
+
+> BEGIN STRING
+ミスリルシールド
+
+> END STRING
+
+> BEGIN STRING
+魔法の金属ミスリルで作られた盾。
+
+> END STRING
+
+> BEGIN STRING
+竜鱗の盾
+
+> END STRING
+
+> BEGIN STRING
+竜の鱗を組み合わせて作った盾。
+
+> END STRING
+
+> BEGIN STRING
+闘神のベルト
+
+> END STRING
+
+> BEGIN STRING
+闘神の名が刻まれた金属のベルト。
+
+
+> END STRING
+
+> BEGIN STRING
+守りのピアス
+
+> END STRING
+
+> BEGIN STRING
+守りの魔法がかけられたピアス。
+
+
+> END STRING
+
+> BEGIN STRING
+ウィングブーツ
+
+> END STRING
+
+> BEGIN STRING
+風の精霊の力が宿るブーツ。
+
+
+> END STRING
+
+> BEGIN STRING
+大地のアミュレット
+
+> END STRING
+
+> BEGIN STRING
+大地の精霊の力が宿るお守り。
+
+
+> END STRING
+
+> BEGIN STRING
+幸運の女神の名が刻まれたお守り。
+
+> CONTEXT: Armors/55/name/
+Lucky Charm#Lvl1
+> END STRING
+
+> BEGIN STRING
+ホーリーシンボル
+> CONTEXT: Armors/55/name/
+Lucky Charm#Lvl1
+> END STRING
+
+> BEGIN STRING
+神に仕える者がもつ聖なるシンボル。
+
+> CONTEXT: Armors/55/name/
+Lucky Charm#Lvl1
+> END STRING
+
+> BEGIN STRING
+ソロモンの指輪
+> CONTEXT: Armors/55/name/
+Lucky Charm#Lvl1
+> END STRING
+
+> BEGIN STRING
+魔神の力を秘めた指輪。
+
+> CONTEXT: Armors/55/name/
+Lucky Charm#Lvl1
+> END STRING
+
+> BEGIN STRING
+戦乙女の首飾り
+> CONTEXT: Armors/55/name/
+Lucky Charm#Lvl1
+> END STRING
+
+> BEGIN STRING
+持つ者に戦う力を与える魔法の首飾り。
+
+> CONTEXT: Armors/55/name/
+Lucky Charm#Lvl1
+> END STRING
+
+> BEGIN STRING
+狂戦士の眼帯
+> CONTEXT: Armors/55/name/
+Lucky Charm#Lvl1
+> END STRING
+
+> BEGIN STRING
+狂戦士の力が得られるアイパッチ。
+
+> CONTEXT: Armors/55/name/
+Lucky Charm#Lvl1
+> END STRING
+
+> BEGIN STRING
+光のタリスマン
+> CONTEXT: Armors/55/name/
+Lucky Charm#Lvl1
+> END STRING
+
+> BEGIN STRING
+神々の王の力が宿るお守り。
+> CONTEXT: Armors/55/name/
+Lucky Charm#Lvl1
+> END STRING
+
+> BEGIN STRING
+JAP MISSING REPLACE ME
+> CONTEXT: Armors/55/name/
+Lucky Charm#Lvl1
+> END STRING
+
+> BEGIN STRING
+JAP MISSING REPLACE ME
+> CONTEXT: Armors/55/name/
+Lucky Charm#Lvl1
+> END STRING
+
+> BEGIN STRING
+JAP MISSING REPLACE ME
+> CONTEXT: Armors/55/name/
+Lucky Charm#Lvl1
+> END STRING
+
+> BEGIN STRING
+JAP MISSING REPLACE ME
+> CONTEXT: Armors/55/name/
+Lucky Charm#Lvl1
+> END STRING
+
+> BEGIN STRING
+サムライ
+> CONTEXT: Armors/55/name/
+Lucky Charm#Lvl1
+> END STRING
+
+> BEGIN STRING
+アーチャー
+> CONTEXT: Armors/55/name/
+Lucky Charm#Lvl1
+> END STRING
+
+> BEGIN STRING
+シーフ
+> CONTEXT: Armors/55/name/
+Lucky Charm#Lvl1
+> END STRING
+
+> BEGIN STRING
+僧侶
+> CONTEXT: Armors/55/name/
+Lucky Charm#Lvl1
+> END STRING
+
+> BEGIN STRING
+魔道士
+> CONTEXT: Armors/55/name/
+Lucky Charm#Lvl1
+> END STRING
+
+> BEGIN STRING
+賢者
+> CONTEXT: Armors/55/name/
+Lucky Charm#Lvl1
+> END STRING
+
+> BEGIN STRING
+レベル
+> CONTEXT: Armors/55/name/
+Lucky Charm#Lvl1
+> END STRING
+
+> BEGIN STRING
+Lv
+> CONTEXT: Armors/55/name/
+Lucky Charm#Lvl1
+> END STRING
+
+> BEGIN STRING
+ＨＰ
+> CONTEXT: Armors/55/name/
+Lucky Charm#Lvl1
+> END STRING
+
+> BEGIN STRING
+HP
+> CONTEXT: Armors/55/name/
+Lucky Charm#Lvl1
+> END STRING
+
+> BEGIN STRING
+ＭＰ
+> CONTEXT: Armors/55/name/
+Lucky Charm#Lvl1
+> END STRING
+
+> BEGIN STRING
+MP
+> CONTEXT: Armors/55/name/
+Lucky Charm#Lvl1
+> END STRING
+
+> BEGIN STRING
+ＴＰ
+> CONTEXT: Armors/55/name/
+Lucky Charm#Lvl1
+> END STRING
+
+> BEGIN STRING
+TP
+> CONTEXT: Armors/55/name/
+Lucky Charm#Lvl1
+> END STRING
+
+> BEGIN STRING
+唐
+> CONTEXT: NONE < UNUSED
+Weapon#Lvl1
+> END STRING
+
+> BEGIN STRING
+頭
+> CONTEXT: NONE < UNUSED
+Weapon#Lvl1
+> END STRING
+
+> BEGIN STRING
+大事なもの
+> CONTEXT: NONE < UNUSED
+Armours#Lvl1
+> END STRING
+
+> BEGIN STRING
+ニューゲーム
+> CONTEXT: NONE < UNUSED
+Clear#Lvl1
+> END STRING
+
+> BEGIN STRING
+シャットダウン
+> CONTEXT: NONE < UNUSED
+Continue#Lvl1
+> END STRING
+
+> BEGIN STRING
+"しかし逃げることはできなかった"
+> CONTEXT: NONE < UNUSED
+"%s has started to escape!"#Lvl1
+> END STRING
+
+> BEGIN STRING
+"お金を %s\\G 手に入れた！"
+> CONTEXT: NONE < UNUSED
+"%s EXP received!"#Lvl1
+> END STRING
+
+> BEGIN STRING
+"%sに %s のダメージを与えた！	"
+> CONTEXT: NONE < UNUSED
+"Miss! %s took no damage!"#Lvl1
+> END STRING
+
+> BEGIN STRING
+"%sの%sが下がった！	"
+> CONTEXT: NONE < UNUSED
+"%s's %s went up!"#Lvl1
+> END STRING
+
+> BEGIN STRING
+ハンドアクス
+> CONTEXT: NONE < UNUSED
+"Common event calls exceeded the limit."#Lvl1
+> END STRING
+
+> BEGIN STRING
+伐採に使う小型の斧。
+> CONTEXT: NONE < UNUSED
+"Common event calls exceeded the limit."#Lvl1
+> END STRING
+
+> BEGIN STRING
+JAP MISSING REPLACE ME
+> CONTEXT: NONE < UNUSED
+"Common event calls exceeded the limit."#Lvl1
+> END STRING
+
+> BEGIN STRING
+JAP MISSING REPLACE ME
+> CONTEXT: NONE < UNUSED
+"Common event calls exceeded the limit."#Lvl1
+> END STRING
+
+> BEGIN STRING
+バルディッシュ
+> CONTEXT: NONE < UNUSED
+"Common event calls exceeded the limit."#Lvl1
+> END STRING
+
+> BEGIN STRING
+ミスリルアクス
+> CONTEXT: NONE < UNUSED
+"Common event calls exceeded the limit."#Lvl1
+> END STRING
+
+> BEGIN STRING
+魔法の金属ミスリルで作られた斧。
+> CONTEXT: NONE < UNUSED
+"Common event calls exceeded the limit."#Lvl1
+> END STRING
+
+> BEGIN STRING
+クリムゾンアクス
+> CONTEXT: NONE < UNUSED
+"Common event calls exceeded the limit."#Lvl1
+> END STRING
+
+> BEGIN STRING
+真紅に染め上げられた戦斧。
+> CONTEXT: NONE < UNUSED
+"Common event calls exceeded the limit."#Lvl1
+> END STRING
+
+> BEGIN STRING
+魔斧ギガンテス
+> CONTEXT: NONE < UNUSED
+"Common event calls exceeded the limit."#Lvl1
+> END STRING
+
+> BEGIN STRING
+巨人族の英雄が使ったとされる重斧。
+> CONTEXT: NONE < UNUSED
+"Common event calls exceeded the limit."#Lvl1
+> END STRING
+
+> BEGIN STRING
+セスタス
+> CONTEXT: NONE < UNUSED
+"Common event calls exceeded the limit."#Lvl1
+> END STRING
+
+> BEGIN STRING
+拳頭にトゲがついたグローブ。
+> CONTEXT: NONE < UNUSED
+"Common event calls exceeded the limit."#Lvl1
+> END STRING
+
+> BEGIN STRING
+バグナウ
+> CONTEXT: NONE < UNUSED
+"Common event calls exceeded the limit."#Lvl1
+> END STRING
+
+> BEGIN STRING
+短い４本の爪が取りつけられた格闘武器。
+> CONTEXT: NONE < UNUSED
+"Common event calls exceeded the limit."#Lvl1
+> END STRING
+
+> BEGIN STRING
+アイアンクロウ
+> CONTEXT: NONE < UNUSED
+"Common event calls exceeded the limit."#Lvl1
+> END STRING
+
+> BEGIN STRING
+鋼鉄のかぎ爪が仕込まれた手甲。
+> CONTEXT: NONE < UNUSED
+"Common event calls exceeded the limit."#Lvl1
+> END STRING
+
+> BEGIN STRING
+ミスリルクロウ
+> CONTEXT: NONE < UNUSED
+"Common event calls exceeded the limit."#Lvl1
+> END STRING
+
+> BEGIN STRING
+ミスリルのかぎ爪が仕込まれた手甲。
+> CONTEXT: NONE < UNUSED
+"Common event calls exceeded the limit."#Lvl1
+> END STRING
+
+> BEGIN STRING
+竜牙の拳頭をもつ手甲。
+> CONTEXT: Weapons/11/name/
+Dragon Fang#Lvl1
+> END STRING
+
+> BEGIN STRING
+魔爪ゼファー
+> CONTEXT: Weapons/11/name/
+Dragon Fang#Lvl1
+> END STRING
+
+> BEGIN STRING
+西風の名を冠する魔法の爪。
+> CONTEXT: Weapons/11/name/
+Dragon Fang#Lvl1
+> END STRING
+
+> BEGIN STRING
+スピア
+> CONTEXT: Weapons/11/name/
+Dragon Fang#Lvl1
+> END STRING
+
+> BEGIN STRING
+突きに特化させた短めの槍。
+> CONTEXT: Weapons/11/name/
+Dragon Fang#Lvl1
+> END STRING
+
+> BEGIN STRING
+パルチザン
+> CONTEXT: Weapons/11/name/
+Dragon Fang#Lvl1
+> END STRING
+
+> BEGIN STRING
+幅広の刃をもった鋼鉄製の長槍。
+> CONTEXT: Weapons/11/name/
+Dragon Fang#Lvl1
+> END STRING
+
+> BEGIN STRING
+ハルバード
+> CONTEXT: Weapons/11/name/
+Dragon Fang#Lvl1
+> END STRING
+
+> BEGIN STRING
+穂先に斧頭の取りつけられた槍。
+> CONTEXT: Weapons/11/name/
+Dragon Fang#Lvl1
+> END STRING
+
+> BEGIN STRING
+ミスリルスピア
+> CONTEXT: Weapons/11/name/
+Dragon Fang#Lvl1
+> END STRING
+
+> BEGIN STRING
+魔法の金属ミスリルで作られた長槍。
+> CONTEXT: Weapons/11/name/
+Dragon Fang#Lvl1
+> END STRING
+
+> BEGIN STRING
+ホーリーランス
+> CONTEXT: Weapons/11/name/
+Dragon Fang#Lvl1
+> END STRING
+
+> BEGIN STRING
+白き神の祝福を受けた聖なる槍。
+> CONTEXT: Weapons/11/name/
+Dragon Fang#Lvl1
+> END STRING
+
+> BEGIN STRING
+魔槍ゲイボルグ
+> CONTEXT: Weapons/11/name/
+Dragon Fang#Lvl1
+> END STRING
+
+> BEGIN STRING
+影の国に伝わる魔力を帯びた槍。
+> CONTEXT: Weapons/11/name/
+Dragon Fang#Lvl1
+> END STRING
+
+> BEGIN STRING
+ショートソード
+> CONTEXT: Weapons/11/name/
+Dragon Fang#Lvl1
+> END STRING
+
+> BEGIN STRING
+軽くて扱いやすい刀身の短い剣。
+> CONTEXT: Weapons/11/name/
+Dragon Fang#Lvl1
+> END STRING
+
+> BEGIN STRING
+ロングソード
+> CONTEXT: Weapons/11/name/
+Dragon Fang#Lvl1
+> END STRING
+
+> BEGIN STRING
+鋭い切れ味を誇る戦闘用の長剣。
+> CONTEXT: Weapons/11/name/
+Dragon Fang#Lvl1
+> END STRING
+
+> BEGIN STRING
+ファルシオン
+> CONTEXT: Weapons/11/name/
+Dragon Fang#Lvl1
+> END STRING
+
+> BEGIN STRING
+反りのある刀身をもつ幅広の剣。
+> CONTEXT: Weapons/11/name/
+Dragon Fang#Lvl1
+> END STRING
+
+> BEGIN STRING
+ミスリルソード
+> CONTEXT: Weapons/11/name/
+Dragon Fang#Lvl1
+> END STRING
+
+> BEGIN STRING
+魔法の金属ミスリルで作られた長剣。
+> CONTEXT: Weapons/11/name/
+Dragon Fang#Lvl1
+> END STRING
+
+> BEGIN STRING
+ルーンブレード
+> CONTEXT: Weapons/11/name/
+Dragon Fang#Lvl1
+> END STRING
+
+> BEGIN STRING
+刀身にルーン文字の刻まれた剣。
+> CONTEXT: Weapons/11/name/
+Dragon Fang#Lvl1
+> END STRING
+
+> BEGIN STRING
+魔剣ティルヴィング
+> CONTEXT: Weapons/11/name/
+Dragon Fang#Lvl1
+> END STRING
+
+> BEGIN STRING
+勝利と災厄をもたらす魔剣。
+> CONTEXT: Weapons/11/name/
+Dragon Fang#Lvl1
+> END STRING
+
+> BEGIN STRING
+無銘の刀
+> CONTEXT: Weapons/11/name/
+Dragon Fang#Lvl1
+> END STRING
+
+> BEGIN STRING
+銘をもたない細身の刀。
+> CONTEXT: Weapons/11/name/
+Dragon Fang#Lvl1
+> END STRING
+
+> BEGIN STRING
+斬馬刀
+> CONTEXT: Weapons/11/name/
+Dragon Fang#Lvl1
+> END STRING
+
+> BEGIN STRING
+破壊力に優れた太刀。
+> CONTEXT: Weapons/11/name/
+Dragon Fang#Lvl1
+> END STRING
+
+> BEGIN STRING
+虎徹
+> CONTEXT: Weapons/11/name/
+Dragon Fang#Lvl1
+> END STRING
+
+> BEGIN STRING
+名のある刀匠に鍛えられた業物の刀。
+> CONTEXT: Weapons/11/name/
+Dragon Fang#Lvl1
+> END STRING
+
+> BEGIN STRING
+霊銀の太刀
+> CONTEXT: Weapons/11/name/
+Dragon Fang#Lvl1
+> END STRING
+
+> BEGIN STRING
+魔法の金属で作られた太刀。
+> CONTEXT: Weapons/11/name/
+Dragon Fang#Lvl1
+> END STRING
+
+> BEGIN STRING
+七支刀
+> CONTEXT: Weapons/11/name/
+Dragon Fang#Lvl1
+> END STRING
+
+> BEGIN STRING
+破邪の力を秘めた古代刀。
+> CONTEXT: Weapons/11/name/
+Dragon Fang#Lvl1
+> END STRING
+
+> BEGIN STRING
+妖刀ムラマサ
+> CONTEXT: Weapons/11/name/
+Dragon Fang#Lvl1
+> END STRING
+
+> BEGIN STRING
+剣士たちの生き血を吸ってきた魔性の刀。
+> CONTEXT: Weapons/11/name/
+Dragon Fang#Lvl1
+> END STRING
+
+> BEGIN STRING
+ショートボウ
+> CONTEXT: Weapons/11/name/
+Dragon Fang#Lvl1
+> END STRING
+
+> BEGIN STRING
+狩猟用に作られた短めの弓。
+> CONTEXT: Weapons/11/name/
+Dragon Fang#Lvl1
+> END STRING
+
+> BEGIN STRING
+ロングボウ
+> CONTEXT: Weapons/11/name/
+Dragon Fang#Lvl1
+> END STRING
+
+> BEGIN STRING
+威力を高めた戦闘用の長弓。
+> CONTEXT: Weapons/11/name/
+Dragon Fang#Lvl1
+> END STRING
+
+> BEGIN STRING
+クロスボウ
+> CONTEXT: Weapons/11/name/
+Dragon Fang#Lvl1
+> END STRING
+
+> BEGIN STRING
+強力なバネで矢を射出する石弓。
+> CONTEXT: Weapons/11/name/
+Dragon Fang#Lvl1
+> END STRING
+
+> BEGIN STRING
+ミスリルボウ
+> CONTEXT: Weapons/11/name/
+Dragon Fang#Lvl1
+> END STRING
+
+> BEGIN STRING
+魔法の金属ミスリルで作られた弓。
+> CONTEXT: Weapons/11/name/
+Dragon Fang#Lvl1
+> END STRING
+
+> BEGIN STRING
+エルブンボウ
+> CONTEXT: Weapons/11/name/
+Dragon Fang#Lvl1
+> END STRING
+
+> BEGIN STRING
+妖精の森に生える霊木から作られた弓。
+> CONTEXT: Weapons/11/name/
+Dragon Fang#Lvl1
+> END STRING
+
+> BEGIN STRING
+ナイフ
+> CONTEXT: Weapons/36/description/
+A bow that bears the name of the Moon Goddess.#Lvl1
+> END STRING
+
+> BEGIN STRING
+日常生活にも使えるナイフ。
+> CONTEXT: Weapons/36/description/
+A bow that bears the name of the Moon Goddess.#Lvl1
+> END STRING
+
+> BEGIN STRING
+ダガー
+> CONTEXT: Weapons/36/description/
+A bow that bears the name of the Moon Goddess.#Lvl1
+> END STRING
+
+> BEGIN STRING
+幅広の刀身をもつ戦闘用の短刀。
+> CONTEXT: Weapons/36/description/
+A bow that bears the name of the Moon Goddess.#Lvl1
+> END STRING
+
+> BEGIN STRING
+マインゴーシュ
+> CONTEXT: Weapons/36/description/
+A bow that bears the name of the Moon Goddess.#Lvl1
+> END STRING
+
+> BEGIN STRING
+攻撃を受け流すこともできる短剣。
+> CONTEXT: Weapons/36/description/
+A bow that bears the name of the Moon Goddess.#Lvl1
+> END STRING
+
+> BEGIN STRING
+ミスリルナイフ
+> CONTEXT: Weapons/36/description/
+A bow that bears the name of the Moon Goddess.#Lvl1
+> END STRING
+
+> BEGIN STRING
+魔法の金属ミスリルで作られたナイフ。
+> CONTEXT: Weapons/36/description/
+A bow that bears the name of the Moon Goddess.#Lvl1
+> END STRING
+
+> BEGIN STRING
+アサシンダガー
+> CONTEXT: Weapons/36/description/
+A bow that bears the name of the Moon Goddess.#Lvl1
+> END STRING
+
+> BEGIN STRING
+暗殺者が好んで使う漆黒の短刀。
+> CONTEXT: Weapons/36/description/
+A bow that bears the name of the Moon Goddess.#Lvl1
+> END STRING
+
+> BEGIN STRING
+魔刃ヴォーテクス
+> CONTEXT: Weapons/36/description/
+A bow that bears the name of the Moon Goddess.#Lvl1
+> END STRING
+
+> BEGIN STRING
+竜巻の名を冠する魔法の短剣。
+> CONTEXT: Weapons/36/description/
+A bow that bears the name of the Moon Goddess.#Lvl1
+> END STRING
+
+> BEGIN STRING
+フレイル
+> CONTEXT: Weapons/43/description/
+A circular club with metal spikes.#Lvl1
+> END STRING
+
+> BEGIN STRING
+柄の先に鎖で鉄球をつないだ打撃武器。
+> CONTEXT: Weapons/43/description/
+A circular club with metal spikes.#Lvl1
+> END STRING
+
+> BEGIN STRING
+ウォーハンマー
+> CONTEXT: Weapons/43/description/
+A circular club with metal spikes.#Lvl1
+> END STRING
+
+> BEGIN STRING
+戦闘用に作られた鋼鉄のハンマー。
+> CONTEXT: Weapons/43/description/
+A circular club with metal spikes.#Lvl1
+> END STRING
+
+> BEGIN STRING
+ミスリルメイス
+> CONTEXT: Weapons/43/description/
+A circular club with metal spikes.#Lvl1
+> END STRING
+
+> BEGIN STRING
+魔法の金属ミスリルで作られた戦槌。
+> CONTEXT: Weapons/43/description/
+A circular club with metal spikes.#Lvl1
+> END STRING
+
+> BEGIN STRING
+アースブレイカー
+> CONTEXT: Weapons/43/description/
+A circular club with metal spikes.#Lvl1
+> END STRING
+
+> BEGIN STRING
+大地の力を秘めた魔法のハンマー。
+> CONTEXT: Weapons/43/description/
+A circular club with metal spikes.#Lvl1
+> END STRING
+
+> BEGIN STRING
+魔槌ミョルニル
+> CONTEXT: Weapons/43/description/
+A circular club with metal spikes.#Lvl1
+> END STRING
+
+> BEGIN STRING
+“打ち砕くもの”の異名をもつ戦神の槌。
+> CONTEXT: Weapons/43/description/
+A circular club with metal spikes.#Lvl1
+> END STRING
+
+> BEGIN STRING
+ウッドスタッフ
+> CONTEXT: Weapons/43/description/
+A circular club with metal spikes.#Lvl1
+> END STRING
+
+> BEGIN STRING
+樫の木で作られた堅い杖。
+> CONTEXT: Weapons/43/description/
+A circular club with metal spikes.#Lvl1
+> END STRING
+
+> BEGIN STRING
+魔道士の杖
+> CONTEXT: Weapons/43/description/
+A circular club with metal spikes.#Lvl1
+> END STRING
+
+> BEGIN STRING
+精神集中を助ける宝珠のついた杖。
+> CONTEXT: Weapons/43/description/
+A circular club with metal spikes.#Lvl1
+> END STRING
+
+> BEGIN STRING
+フォースワンド
+> CONTEXT: Weapons/43/description/
+A circular club with metal spikes.#Lvl1
+> END STRING
+
+> BEGIN STRING
+術者の魔力を増幅させる銀製の杖。
+> CONTEXT: Weapons/43/description/
+A circular club with metal spikes.#Lvl1
+> END STRING
+
+> BEGIN STRING
+ミスリルロッド
+> CONTEXT: Weapons/43/description/
+A circular club with metal spikes.#Lvl1
+> END STRING
+
+> BEGIN STRING
+魔法の金属ミスリルで作られた杖。
+> CONTEXT: Weapons/43/description/
+A circular club with metal spikes.#Lvl1
+> END STRING
+
+> BEGIN STRING
+霊木の杖
+> CONTEXT: Weapons/43/description/
+A circular club with metal spikes.#Lvl1
+> END STRING
+
+> BEGIN STRING
+ヤドリギの老木から作られた杖。
+> CONTEXT: Weapons/43/description/
+A circular club with metal spikes.#Lvl1
+> END STRING
+
+> BEGIN STRING
+魔杖アゾット
+> CONTEXT: Weapons/43/description/
+A circular club with metal spikes.#Lvl1
+> END STRING
+
+> BEGIN STRING
+賢者の石が埋め込まれた魔杖。
+> CONTEXT: Weapons/43/description/
+A circular club with metal spikes.#Lvl1
+> END STRING
+
+> BEGIN STRING
+フリントロック
+> CONTEXT: Weapons/43/description/
+A circular club with metal spikes.#Lvl1
+> END STRING
+
+> BEGIN STRING
+火打ち式の旧式拳銃。
+> CONTEXT: Weapons/43/description/
+A circular club with metal spikes.#Lvl1
+> END STRING
+
+> BEGIN STRING
+マスケット
+> CONTEXT: Weapons/43/description/
+A circular club with metal spikes.#Lvl1
+> END STRING
+
+> BEGIN STRING
+銃士に支給される歩兵銃。
+> CONTEXT: Weapons/43/description/
+A circular club with metal spikes.#Lvl1
+> END STRING
+
+> BEGIN STRING
+ドラグーン
+> CONTEXT: Weapons/43/description/
+A circular club with metal spikes.#Lvl1
+> END STRING
+
+> BEGIN STRING
+騎兵が使用するカービン銃。
+> CONTEXT: Weapons/43/description/
+A circular club with metal spikes.#Lvl1
+> END STRING
+
+> BEGIN STRING
+霊銀銃
+> CONTEXT: Weapons/43/description/
+A circular club with metal spikes.#Lvl1
+> END STRING
+
+> BEGIN STRING
+魔法の金属ミスリルの銃身をもつ銃。
+> CONTEXT: Weapons/43/description/
+A circular club with metal spikes.#Lvl1
+> END STRING
+
+> BEGIN STRING
+ピースメイカー
+> CONTEXT: Weapons/43/description/
+A circular club with metal spikes.#Lvl1
+> END STRING
+
+> BEGIN STRING
+黒色火薬を用いたリボルバー式拳銃。
+> CONTEXT: Weapons/43/description/
+A circular club with metal spikes.#Lvl1
+> END STRING
+
+> BEGIN STRING
+魔銃エーテルブラスト
+> CONTEXT: Weapons/43/description/
+A circular club with metal spikes.#Lvl1
+> END STRING
+
+> BEGIN STRING
+霊子を弾丸に換えて撃ち出す魔銃。
+> CONTEXT: Weapons/43/description/
+A circular club with metal spikes.#Lvl1
+> END STRING
+
