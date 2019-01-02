@@ -1,0 +1,927 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+親密度が１００必要。
+（現在の値：\\V[43]）
+> CONTEXT: Map027/events/3/pages/0/18/Dialogue
+Familiarity needs 100. (Current value: \\V[43] )#MTLed
+> END STRING
+
+> BEGIN STRING
+親密度が２５以上必要。
+（現在の値：\\V[43]）
+> CONTEXT: Map027/events/4/pages/0/0/Dialogue
+Familiarity must be 25 or more. (Current value: \\V[43] )#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[1]、来てくれたんだね♡
+> CONTEXT: Map027/events/5/pages/0/19/Dialogue
+\\N[1] You came, did not you?#MTLed
+> END STRING
+
+> BEGIN STRING
+あ、ニンゲン君♡
+
+うれしい、会いに来てくれたんだ♪
+> CONTEXT: Map027/events/5/pages/0/24/Dialogue
+Oh, little human ♡. I'm happy, they came to see
+me.♪#MTLed
+> END STRING
+
+> BEGIN STRING
+………実は、早くこないかなーって退屈してたんだ♪
+
+ねぇねぇ、今日はどんな用なの？
+> CONTEXT: Map027/events/5/pages/0/28/Dialogue
+......... Actually, I was bored as if I did not
+come soon.♪. Hey, what kind is it for today?#MTLed
+> END STRING
+
+> BEGIN STRING
+やぁ♡ニンゲン君。
+
+元気そうだねぇ
+> CONTEXT: Map027/events/5/pages/0/35/Dialogue
+Hey ♡ little human. You look so energetic.#MTLed
+> END STRING
+
+> BEGIN STRING
+よかったらその元気、僕に少しくれない？
+
+もちろん、養分として♡
+> CONTEXT: Map027/events/5/pages/0/39/Dialogue
+If you do not mind, do not you give me a little?
+Of course, as a nutrient ♡#MTLed
+> END STRING
+
+> BEGIN STRING
+………………なによ
+> CONTEXT: Map027/events/5/pages/0/45/Dialogue
+………………What#MTLed
+> END STRING
+
+> BEGIN STRING
+搾精（足コキ）en(v[43] \>= 25)
+> CONTEXT: Map027/events/5/pages/0/55/Choice/1
+Milking (Footjob) en(v[43] \>= 25)#Dargoth
+> END STRING
+
+> BEGIN STRING
+搾精（騎乗位）en(v[43] \>= 50)
+> CONTEXT: Map027/events/5/pages/0/55/Choice/2
+Milking (Cowgirl) en(v[43] \>= 50)#Dargoth
+> END STRING
+
+> BEGIN STRING
+搾精（抱きしめ）en(v[43] \>=75)
+> CONTEXT: Map027/events/5/pages/0/55/Choice/3
+Milking (Embrace) en(v[43] \>=75)#Dargoth
+> END STRING
+
+> BEGIN STRING
+あー…悪いんだけどさ。
+
+そういうの、私あんまり欲しくないんだわ。
+> CONTEXT: Map027/events/5/pages/0/252/Dialogue
+Oh ... I'm sorry. I do not really like that kind
+of thing.#MTLed
+> END STRING
+
+> BEGIN STRING
+私に尽くしたいってのは分かるけどさ
+
+もうちょっと気の利くモノでお願いね。
+> CONTEXT: Map027/events/5/pages/0/256/Dialogue
+I know I want to do it. Please give me a more
+savvy thing.#MTLed
+> END STRING
+
+> BEGIN STRING
+ランパスは\\C[2]プレゼントを受け取らなかった…
+> CONTEXT: Map027/events/5/pages/0/260/Dialogue
+Lampas\\C[2] I did not receive the gift ...#MTLed
+> END STRING
+
+> BEGIN STRING
+心蝕を消すif(v[43] \>= 100)
+> CONTEXT: Map027/events/5/pages/0/268/Choice/0
+Remove mind corruption if(v[43] \>= 100)#Dargoth
+> END STRING
+
+> BEGIN STRING
+ふふ…♡
+
+他のランパスに浮気なんかしたら許さないんだから♪
+> CONTEXT: Map027/events/5/pages/0/279/Dialogue
+Why. If you cheat on other Lampas, I will not
+forgive you♪#MTLed
+> END STRING
+
+> BEGIN STRING
+"ランパスの心蝕が治った！！"
+> CONTEXT: Map027/events/5/pages/0/290/InlineScript/1:13
+"ランパス's mind corruption cured!!"#MTLed
+> END STRING
+
+> BEGIN STRING
+いいよぉ？
+
+どんなお話しする？
+> CONTEXT: Map027/events/5/pages/1/1/Dialogue
+OK? What would you like to talk about?#MTLed
+> END STRING
+
+> BEGIN STRING
+居住区での出来事 en(v[43] \>= 30)
+> CONTEXT: Map027/events/5/pages/1/7/Choice/0
+Events in a residential areaen(v[43] \>= 30)#MTLed
+> END STRING
+
+> BEGIN STRING
+ツタについて en(v[43] \>= 40)
+> CONTEXT: Map027/events/5/pages/1/7/Choice/1
+About ivyen(v[43] \>= 40)#MTLed
+> END STRING
+
+> BEGIN STRING
+ランパスの目的 en(v[43] \>= 60)
+> CONTEXT: Map027/events/5/pages/1/7/Choice/2
+Lampas purposeen(v[43] \>= 60)#MTLed
+> END STRING
+
+> BEGIN STRING
+人の心について en(v[43] \>= 80)
+> CONTEXT: Map027/events/5/pages/1/7/Choice/3
+About the heart of peopleen(v[43] \>= 80)#MTLed
+> END STRING
+
+> BEGIN STRING
+あー、さすがにヘカーテさまの火炎は効いたかなぁ。
+
+普通の火くらいだったら平気なんだけどね。
+> CONTEXT: Map027/events/5/pages/1/12/Dialogue
+Ah, indeed the flame of Hecate-sama has worked.
+It would be fine if it was an ordinary fire.#MTLed
+> END STRING
+
+> BEGIN STRING
+君が消火するのがあと少し遅かったり
+あの水が悪魔の魔法を想定した成分でなかったら
+
+あるいは、身体の消滅のほうが早かったかもね。
+> CONTEXT: Map027/events/5/pages/1/16/Dialogue
+It is a bit late for you to extinguish the fire
+If that water was not a component assuming
+demon's magic. Or maybe the disappearance of the
+body was earlier.#MTLed
+> END STRING
+
+> BEGIN STRING
+アイツ……ほんと飽きた奴には容赦ないからさ。
+
+相手が部下でも簡単に消しちゃうんだよね。
+> CONTEXT: Map027/events/5/pages/1/21/Dialogue
+Hets ...... Because he is not merciless for the
+man who got tired of it. Even your opponent will
+easily erase them in your subordinates.#MTLed
+> END STRING
+
+> BEGIN STRING
+ほんっと自分勝手で、クソみたいな上司だったわ…
+> CONTEXT: Map027/events/5/pages/1/25/Dialogue
+It was a selfish self, was like a fucking boss
+...#MTLed
+> END STRING
+
+> BEGIN STRING
+だ、大丈夫なの…？
+
+そんな怖いやつのもとを自分から離れちゃって…
+> CONTEXT: Map027/events/5/pages/1/27/Dialogue
+Is not that okay? I left my source of such scary
+...#MTLed
+> END STRING
+
+> BEGIN STRING
+どーせ、従順に尽くしたところで、気分次第で消されるし
+
+あんな理不尽な配下なんて、こっちから願い下げよ。
+> CONTEXT: Map027/events/5/pages/1/31/Dialogue
+Whatever you do, you obey, it will be erased
+depending on your mood. Please do not despair of
+such irrational subordinates.#MTLed
+> END STRING
+
+> BEGIN STRING
+それに、数居る部下っていう『オモチャ』の中から
+
+命令無視した私なんかがいなくなっても気にしないだろうし。
+> CONTEXT: Map027/events/5/pages/1/35/Dialogue
+Besides, from the "toy" which has several
+subordinates. I will not mind even if I
+disapprove of the order gone.#MTLed
+> END STRING
+
+> BEGIN STRING
+………案外、見た目通り頭もお子ちゃまだから
+
+単に気づいてないだけかもしれないしぃ♪
+> CONTEXT: Map027/events/5/pages/1/45/Dialogue
+......... unexpected, because my head is child as
+it looks. It may just be that I have not noticed♪#MTLed
+> END STRING
+
+> BEGIN STRING
+あーあーあー
+
+知らないぞ言いたい放題言っちゃって……
+> CONTEXT: Map027/events/5/pages/1/49/Dialogue
+Ah, ah, ah. I do not know I can say it all you
+want ... ...#MTLed
+> END STRING
+
+> BEGIN STRING
+ていうか確か、ランパスの性格って
+
+その『パワハラ上司』のものと同じって話だけど…？
+> CONTEXT: Map027/events/5/pages/1/55/Dialogue
+I mean, Lampas's character is. 
+It is the same as that of "Power boss boss" ...?#MTLed
+> END STRING
+
+> BEGIN STRING
+そうらしいねー？
+
+私もあの場で初めて聞いたからビックリしちゃった。
+> CONTEXT: Map027/events/5/pages/1/59/Dialogue
+It seems so, is not it? I also surprised because
+I heard it for the first time in that place.#MTLed
+> END STRING
+
+> BEGIN STRING
+どーりで、ヘカーテさまの部下って
+
+私の種族以外まともにしゃべらないやつばかりだったわけだ♪
+> CONTEXT: Map027/events/5/pages/1/63/Dialogue
+On the street, Hecate-sama's subordinates
+That was why I did not talk properly except my
+race♪#MTLed
+> END STRING
+
+> BEGIN STRING
+そうなんだ……？
+
+確かにバーゲストとかは、言葉は喋れないみたいだけど…
+> CONTEXT: Map027/events/5/pages/1/67/Dialogue
+is that so……? It certainly does not seem to be
+able to say words like barghest ...#MTLed
+> END STRING
+
+> BEGIN STRING
+ヘカーテさまにとってはね、部下の生命の創造なんて
+
+積み木や粘土で動物を組み立てるような感覚なんだよ。
+> CONTEXT: Map027/events/5/pages/1/72/Dialogue
+For Hecate-sama, it's like creating creative life
+in your subordinates. It's like building an
+animal with building blocks and clay.#MTLed
+> END STRING
+
+> BEGIN STRING
+だから、部下に高い知能とか、言葉なんかは
+
+トラブルの要因になるし、アイツにとって必要ないのさ。
+> CONTEXT: Map027/events/5/pages/1/76/Dialogue
+So, there are high intelligence and words in my
+subordinates. It becomes a factor of trouble, it
+is not necessary for Hatsu.#MTLed
+> END STRING
+
+> BEGIN STRING
+ホント、『そこ』だけはあの上司に似なくて良かったよね…
+
+考えただけで胸くそ悪いし…
+> CONTEXT: Map027/events/5/pages/1/80/Dialogue
+Really, it was good that only "there" did not
+resemble that boss ... Just thinking makes me
+badly crying ...#MTLed
+> END STRING
+
+> BEGIN STRING
+でも……たまに憧れるんだよね
+
+バーゲストみたいに頭空っぽにして、獣の交尾みたいに
+激しく逆レイプしまくる！ってのもさ…♡
+> CONTEXT: Map027/events/5/pages/1/87/Dialogue
+But ... ... I admire occasionally
+Make your head empty like barghest, like a
+beast's mating. Rape violently rape back!Well ...
+♡#MTLed
+> END STRING
+
+> BEGIN STRING
+ねぇ……せっかく私みたいなかわいい子がいるんだから
+
+今度そういうプレイもしてみようよ♪
+> CONTEXT: Map027/events/5/pages/1/92/Dialogue
+Hey ...... Because there is a cute girl like me
+Let's try that kind of play next time♪#MTLed
+> END STRING
+
+> BEGIN STRING
+う、うん……考えておくよ……。
+> CONTEXT: Map027/events/5/pages/1/96/Dialogue
+Well, yeah ... I will think about that ... ....#MTLed
+> END STRING
+
+> BEGIN STRING
+（その発言を聞いた直後だと
+
+ さすがに今から踏み込む勇気はないけど……）
+> CONTEXT: Map027/events/5/pages/1/98/Dialogue
+(It is just after hearing the remark
+As expected there is no courage to step from now
+...)#MTLed
+> END STRING
+
+> BEGIN STRING
+その………なんというか、
+
+き、器用なツタだね……。
+> CONTEXT: Map027/events/5/pages/1/107/Dialogue
+That ... ... ... what he says,
+You are a dexterous ivy ....#MTLed
+> END STRING
+
+> BEGIN STRING
+そうだよぉ、あなたみたいに抵抗するニンゲンを
+
+動けなくするのに便利なんだぁ♪
+> CONTEXT: Map027/events/5/pages/1/111/Dialogue
+That's right, like striking you like 'human'
+It is convenient to make it immovable♪#MTLed
+> END STRING
+
+> BEGIN STRING
+獲物の口にくわえさせて、いろんな種類の花粉を
+
+確実に吸わせたりもできるし……。
+> CONTEXT: Map027/events/5/pages/1/115/Dialogue
+Make it in the prey's mouth, and make various
+kinds of pollen. You can also let me smoke surely
+... ....#MTLed
+> END STRING
+
+> BEGIN STRING
+それに、舌テクも壮絶だよ
+
+乳首チロチロ、サイコーに気持ちよかったでしょ？
+> CONTEXT: Map027/events/5/pages/1/119/Dialogue
+Besides, the tongue tech is spectacular too
+Was it pleasant to nipple oscillation, awesome,
+did not it?#MTLed
+> END STRING
+
+> BEGIN STRING
+あ、アハハ……うん……そうだね…。
+> CONTEXT: Map027/events/5/pages/1/123/Dialogue
+Oh, Ahaha ... Well ... That's right.#MTLed
+> END STRING
+
+> BEGIN STRING
+………あと、テクでいうんだったら
+
+ こっちも負けてないんだけどぉ？
+> CONTEXT: Map027/events/5/pages/1/126/Dialogue
+......... Also, if I say with tech
+Why are not we losing here either?#MTLed
+> END STRING
+
+> BEGIN STRING
+ランパスは、こちらに向けて大きく脚を広げて
+
+ スカートのような花弁の中を見せつけてきた……
+> CONTEXT: Map027/events/5/pages/1/130/Dialogue
+Lampas spread his legs greatly towards here
+He showed us the petals like a skirt ... ...#MTLed
+> END STRING
+
+> BEGIN STRING
+ちょっ……ちょっと……！
+> CONTEXT: Map027/events/5/pages/1/134/Dialogue
+Just ... ... hey ... ...!#MTLed
+> END STRING
+
+> BEGIN STRING
+…………なによ。ツタは誉めてくれるのに
+
+肝心の私の身体は目を逸らしちゃって………
+> CONTEXT: Map027/events/5/pages/1/136/Dialogue
+…………What. I will praise you for ivy
+My body in my heart is deflecting my eyes
+.........#MTLed
+> END STRING
+
+> BEGIN STRING
+い、いや、だって………！！
+
+君の花部分って、普段男が見ちゃダメな場所だから…！
+> CONTEXT: Map027/events/5/pages/1/140/Dialogue
+No, no, no .........! ! Your flower part is a
+useless place because you can not see the man
+normally!#MTLed
+> END STRING
+
+> BEGIN STRING
+………じゃあさぁ、仮に私を単なる植物として、
+ 受粉とかするために立派に花咲かせてんのに
+花は見もせず　『立派なツタですね』　だけって…
+植物の立場からして、あなたは嬉しいと思うわけ？
+> CONTEXT: Map027/events/5/pages/1/144/Dialogue
+......... Well then, if I were to merely be a
+plant, Even though I can make fine flowers to
+pollinate. I did not see the flowers, "just a
+splendid ivy" just ... From the plant point of
+view, are you glad you think?#MTLed
+> END STRING
+
+> BEGIN STRING
+うっ………たしかに………そうだろうけど……
+> CONTEXT: Map027/events/5/pages/1/149/Dialogue
+ugh ... ... ... ... Certainly ... but ... it
+seems so ... ...#MTLed
+> END STRING
+
+> BEGIN STRING
+分かったんならさぁ……ね？
+
+もっとよく見て………♡♡
+> CONTEXT: Map027/events/5/pages/1/151/Dialogue
+If you understand ... are not you?
+Look closer ......... ♡ ♡#MTLed
+> END STRING
+
+> BEGIN STRING
+う。うぅ………
+> CONTEXT: Map027/events/5/pages/1/155/Dialogue
+. Uh .........#MTLed
+> END STRING
+
+> BEGIN STRING
+蜜の垂れる膣部に、ついつい目が釘付けになってしまう。
+> CONTEXT: Map027/events/5/pages/1/157/Dialogue
+In the vagina where honey drips, my eyes are nailed.#MTLed
+> END STRING
+
+> BEGIN STRING
+花粉が周囲に撒かれている様子はないことから
+
+これは魅了などではなく、単に男の性なのだろう……。
+> CONTEXT: Map027/events/5/pages/1/159/Dialogue
+Because there is no appearance of pollen being scattered
+around. This is not Charmed, etc., it is simply the sex of
+a man ... ....#MTLed
+> END STRING
+
+> BEGIN STRING
+アハハッ♪息が荒くなってきたねぇ
+
+ちょっとバカ正直に長く見すぎちゃったんじゃないのぉ？
+> CONTEXT: Map027/events/5/pages/1/163/Dialogue
+Ahahah♪My breath is becoming rough
+I was a little stupid honestly I was not looking
+too long?#MTLed
+> END STRING
+
+> BEGIN STRING
+可愛いなぁ…♡
+
+そういうところが気に入ってるんだよね、私。
+> CONTEXT: Map027/events/5/pages/1/167/Dialogue
+It's cute ... ♡. I like that place, do not you
+think ?.#MTLed
+> END STRING
+
+> BEGIN STRING
+んー……ニンゲンとセックスして、受精して
+
+尻尾の灯りを永遠に灯すこと………だね。
+> CONTEXT: Map027/events/5/pages/1/176/Dialogue
+uumph ... ... having sex with 'human',
+fertilizing. To light the tail light forever ...
+..........#MTLed
+> END STRING
+
+> BEGIN STRING
+もっとも、ヘカーテさまの支配下から外れた私は
+
+そこまで必死じゃなくなったけど。
+> CONTEXT: Map027/events/5/pages/1/180/Dialogue
+Although I was out of control of Hecate-sama
+Although it was not desperate to such an extent,
+though.#MTLed
+> END STRING
+
+> BEGIN STRING
+……それってどういうこと？
+
+ 前は、『それこそランパスの本懐』とか言ってたような…
+> CONTEXT: Map027/events/5/pages/1/184/Dialogue
+... What does that mean? Before, it seems like
+saying "Lampas actual purpose" ...#MTLed
+> END STRING
+
+> BEGIN STRING
+だって、ヘカーテさまはそのために私たちを創ったんだもの。
+魔界の暗がりをともす灯りとして……。
+創られた目的を達成できないランパスたちは
+ヘカーテさまに遅かれ早かれ殺されるの。
+> CONTEXT: Map027/events/5/pages/1/188/Dialogue
+Because, Hecate-sama created us for that purpose.
+As Demon Realm's dark light ... ....
+Lampas and others who can not achieve the created
+purpose. I will be killed sooner or later by
+Hecate - sama.#MTLed
+> END STRING
+
+> BEGIN STRING
+でも、今は無理に焦ってともす必要も無いし
+
+………それに……
+> CONTEXT: Map027/events/5/pages/1/193/Dialogue
+But, now I do not have to rush to forcibly
+………in addition……#MTLed
+> END STRING
+
+> BEGIN STRING
+それに……？
+> CONTEXT: Map027/events/5/pages/1/198/Dialogue
+in addition……?#MTLed
+> END STRING
+
+> BEGIN STRING
+例えが合ってるかどうかは分かんないけどさ……
+
+灯りになったランパスは、『死ぬ』んだ。
+> CONTEXT: Map027/events/5/pages/1/200/Dialogue
+I do not know if the case matches ....
+Lampas that turned on is "to die".#MTLed
+> END STRING
+
+> BEGIN STRING
+喋れもしないし、感覚もない……
+
+時間の流れも感じられないって………
+> CONTEXT: Map027/events/5/pages/1/204/Dialogue
+I will not talk or feel anything ...
+I can not feel the flow of time .........#MTLed
+> END STRING
+
+> BEGIN STRING
+もし、ランパスに個体差がないんなら……
+
+多分みんな、怖くないわけじゃないと思う……。
+> CONTEXT: Map027/events/5/pages/1/210/Dialogue
+If there are no individual differences in Lampas
+...... Probably everyone, I do not think they are
+scared ... ....#MTLed
+> END STRING
+
+> BEGIN STRING
+それでも皆、それ以上に喜んで灯火を灯そうとするのは
+
+セックスした人間の魂と永遠にひとつになれるから………
+ ………『ひとりじゃない』から………
+> CONTEXT: Map027/events/5/pages/1/214/Dialogue
+Even so, everyone else willing to light the
+lights more than happily. Because I can become
+one with the soul of a sex human being forever
+......... ... ... ... From "It's not alone"
+.........#MTLed
+> END STRING
+
+> BEGIN STRING
+ホント、悔しいけど……よく創られてるよ……
+
+あのクソ主人………
+> CONTEXT: Map027/events/5/pages/1/219/Dialogue
+Truly regretful, but ... well ... well created
+...... That fucking master .........#MTLed
+> END STRING
+
+> BEGIN STRING
+………ごめん、なんか変なこと話させて……
+> CONTEXT: Map027/events/5/pages/1/224/Dialogue
+......... Sorry, let me tell you something
+strange ......#MTLed
+> END STRING
+
+> BEGIN STRING
+アハハッ、別にいいよ。
+
+最後のは仲間の共有感覚から勝手に推測しただけだし。
+> CONTEXT: Map027/events/5/pages/1/226/Dialogue
+Ahahah, that's fine. The last one just guessed it
+without permission from the sharing feeling of
+the companion.#MTLed
+> END STRING
+
+> BEGIN STRING
+それに、今の私は別の楽しみがあるし…
+
+男を悦ばせるのに特化した身体に創ったヘカーテさまにも
+スゴク感謝してる。
+> CONTEXT: Map027/events/5/pages/1/230/Dialogue
+Besides, I have another fun now ...
+Also in Hecate-sama created on a body specialized
+for pleasing men. I am grateful for it.#MTLed
+> END STRING
+
+> BEGIN STRING
+ってわけなんでぇ…♡　さぁ、従順な私の養分クンは
+
+今日はどんな搾精の仕方がお望みかなぁ？
+> CONTEXT: Map027/events/5/pages/1/235/Dialogue
+Why is that ... ♡ Now, my subordinate nutrient
+Kun. What kind of milking way do you want today?#MTLed
+> END STRING
+
+> BEGIN STRING
+あ、アハハ……
+> CONTEXT: Map027/events/5/pages/1/239/Dialogue
+Oh, Ahaha ......#MTLed
+> END STRING
+
+> BEGIN STRING
+ねぇ、ちょっと散歩しない？
+
+もし時間があればでいいんだけどさ……
+> CONTEXT: Map027/events/5/pages/1/246/Dialogue
+Hey, are not you going for a walk for a while?
+I wish I had time if I had time ......#MTLed
+> END STRING
+
+> BEGIN STRING
+さ…散歩？
+
+部屋の外を歩いたりとか？
+> CONTEXT: Map027/events/5/pages/1/250/Dialogue
+Well ... Walk? Like walking outside the room?#MTLed
+> END STRING
+
+> BEGIN STRING
+アハハッ♪違う違う。
+
+この部屋ってね、見た目よりも少し広いんだよ。
+> CONTEXT: Map027/events/5/pages/1/254/Dialogue
+Ahahah♪It is different. This room is a little
+bigger than it looks.#MTLed
+> END STRING
+
+> BEGIN STRING
+もう少し奥まで行ったら、公園みたいな場所があるからさ
+
+そこへ行って話そう？
+> CONTEXT: Map027/events/5/pages/1/258/Dialogue
+If you go far enough, it looks like a park
+because there is a place. Let's go there and talk
+about it?#MTLed
+> END STRING
+
+> BEGIN STRING
+う、うん。
+
+いいけど……。
+> CONTEXT: Map027/events/5/pages/1/262/Dialogue
+No. it's okay, but…….#MTLed
+> END STRING
+
+> BEGIN STRING
+【キズナイベント】if(v[43] \>= 99)
+> CONTEXT: Map027/events/5/pages/1/276/Choice/0
+Bonding Event if(v[43] \>= 99)#Dargoth
+> END STRING
+
+> BEGIN STRING
+ねぇ、ちょっと散歩しない？
+
+今度はちゃんとしたやつ、デートとかじゃなくて。
+> CONTEXT: Map027/events/5/pages/1/281/Dialogue
+Hey, are not you going for a walk for a while?
+This time it was a proper guy, not a date.#MTLed
+> END STRING
+
+> BEGIN STRING
+………ちょっと、話したいこともあるし。
+> CONTEXT: Map027/events/5/pages/1/285/Dialogue
+......... Hey, I have something I want to talk
+about.#MTLed
+> END STRING
+
+> BEGIN STRING
+う、うん。
+
+別に構わないよ？
+> CONTEXT: Map027/events/5/pages/1/287/Dialogue
+No. You do not mind me.#MTLed
+> END STRING
+
+> BEGIN STRING
+………よかった♪
+
+それじゃ、奥に行こっか♡
+> CONTEXT: Map027/events/5/pages/1/291/Dialogue
+………Was good♪. Well then, will you go to the back?#MTLed
+> END STRING
+
+> BEGIN STRING
+ランパス、これ………
+
+受け取ってもらえる…？
+> CONTEXT: Map027/events/5/pages/2/1/Dialogue
+Lampas, this ......... Can you receive it ...?#MTLed
+> END STRING
+
+> BEGIN STRING
+わぁ………きれいな指輪。
+
+これ、もらっていいの…？
+> CONTEXT: Map027/events/5/pages/2/6/Dialogue
+Wow ......... Clean ring. Can I have this ...?#MTLed
+> END STRING
+
+> BEGIN STRING
+………でも、私とあなたって、もういい仲よね？
+
+どうしたの？今さら贈り物なんて……
+> CONTEXT: Map027/events/5/pages/2/10/Dialogue
+......... But, you and me are already on good
+terms, are not you? What's wrong? Now a gift ....#MTLed
+> END STRING
+
+> BEGIN STRING
+…………『いい仲』だからこそなんだ。
+
+この贈り物には、特別な意味がある。
+> CONTEXT: Map027/events/5/pages/2/15/Dialogue
+............ That's why it is a "good
+relationship". This gift has a special meaning.#MTLed
+> END STRING
+
+> BEGIN STRING
+ランパス、『プロポーズ』って、知ってる？
+
+これは、そのために使う指輪なんだ
+> CONTEXT: Map027/events/5/pages/2/19/Dialogue
+Lampas, do you know "propose"?
+This is the ring you use for that#MTLed
+> END STRING
+
+> BEGIN STRING
+…………………………知ってる、けど………
+> CONTEXT: Map027/events/5/pages/2/24/Dialogue
+.............................. I know, but
+.........#MTLed
+> END STRING
+
+> BEGIN STRING
+じょ、冗談……だよね？
+
+だって私、悪魔だよ？
+ 搾精しか能力のない、ヘカーテに創られた……
+> CONTEXT: Map027/events/5/pages/2/26/Dialogue
+It is a joke ... is not it? 'Cause I am demon?
+It was created in Hecate with milking ability
+only ....#MTLed
+> END STRING
+
+> BEGIN STRING
+冗談でこんなことは言わないよ。
+
+ 最初に会った時から君が好きだったんだ。
+ 君とこの先もずっと一緒にいたい。
+> CONTEXT: Map027/events/5/pages/2/31/Dialogue
+I will not say such a thing by joke.
+I loved you since I first met.
+I want to stay with you forever and forever.#MTLed
+> END STRING
+
+> BEGIN STRING
+…………………ダメ？
+> CONTEXT: Map027/events/5/pages/2/36/Dialogue
+…………………No good?#MTLed
+> END STRING
+
+> BEGIN STRING
+………………………………………
+
+…………………………………………
+> CONTEXT: Map027/events/5/pages/2/38/Dialogue
+........................... 
+.....................................................#MTLed
+> END STRING
+
+> BEGIN STRING
+うれしい………
+
+ありがとう、\\N[1]。
+> CONTEXT: Map027/events/5/pages/2/43/Dialogue
+I'm so glad ......... Thank you, \\N[1] .#MTLed
+> END STRING
+
+> BEGIN STRING
+私ね、あなたに助けられたときから
+
+ ずっと『人間の女の子』に憧れてた……
+> CONTEXT: Map027/events/5/pages/2/47/Dialogue
+Since I was helped by you. I longing for "human
+girl" forever ...#MTLed
+> END STRING
+
+> BEGIN STRING
+私はどう頑張っても『人間』にはなれないから…
+
+少しでも『人間』に近づこうと思って
+あなたを、少しでも理解しようと思って……
+> CONTEXT: Map027/events/5/pages/2/51/Dialogue
+Even if I do my best I can not become a "human"
+... I thought about getting closer to "human"
+even a little. I will try to understand you even
+a little ......#MTLed
+> END STRING
+
+> BEGIN STRING
+ ……ありがとう
+
+大切にするね、この指輪…♡
+> CONTEXT: Map027/events/5/pages/2/58/Dialogue
+……Thank you. I will cherish this ring ... ♡#MTLed
+> END STRING
+
+> BEGIN STRING
+エンゲージリングを受け取ってもらったことで
+
+\\C[2]ランパスと婚約した！
+> CONTEXT: Map027/events/5/pages/2/68/Dialogue
+By having an engagement ring received. \\C[2]I am engaged to
+Lampas!#MTLed
+> END STRING
+
+> BEGIN STRING
+親密度が５０以上必要。
+（現在の値：\\V[43]）
+> CONTEXT: Map027/events/6/pages/0/0/Dialogue
+Familiarity needs to be 50 or more. (Current value: \\V[43] )#MTLed
+> END STRING
+
+> BEGIN STRING
+ハァイ♡
+
+会いたかったよ、養分クン。
+> CONTEXT: Map027/events/7/pages/0/0/Dialogue
+Yes. I wanted to see you, my nutrient Kun.#MTLed
+> END STRING
+
+> BEGIN STRING
+き、君は……！
+> CONTEXT: Map027/events/7/pages/0/4/Dialogue
+Kimi, you ...!#MTLed
+> END STRING
+
+> BEGIN STRING
+みんな一緒の顔だから、分かるかなー？
+
+燃やされそうなところを君に助けてもらったランパスだよ♪
+> CONTEXT: Map027/events/7/pages/0/6/Dialogue
+Because everyone's face is together, do you know?
+It's Lampas you helped me to be burned♪#MTLed
+> END STRING
+
+> BEGIN STRING
+エヘヘ、助けてもらったお礼が言いたくてさ。
+
+ここなら君に会えるって聞いて、来ちゃった♪
+> CONTEXT: Map027/events/7/pages/0/10/Dialogue
+Ehehe, I want to say thank you for being saved.
+I heard that you can see you here, I came.♪#MTLed
+> END STRING
+
+> BEGIN STRING
+空間の関係上、尻尾の灯火は光らせられないけど
+
+そのぶん、君とイチャイチャできるなら悪くないかなって。
+> CONTEXT: Map027/events/7/pages/0/14/Dialogue
+Because of the space, the light of the tail can
+not be shined. Well, maybe it's not bad if you
+can cozy with you.#MTLed
+> END STRING
+
+> BEGIN STRING
+というわけで♪
+
+しばらくここに居つかせてもらうから、
+用があるときはどんどん話しかけてねぇ♥
+> CONTEXT: Map027/events/7/pages/0/18/Dialogue
+so♪. Because I will stay here for a while,
+When there is a need to speak more and more ♥#MTLed
+> END STRING

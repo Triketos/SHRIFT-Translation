@@ -1,0 +1,185 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+キャンプ用の簡易ティーセット一式が置かれている。
+\\i[201]\\c[3]ハーブ\\c[0]があれば、心落ち着く飲み物を入れることが出来そうだ。
+> CONTEXT: Map288/events/4/pages/0/1/Dialogue
+> CONTEXT: Map152/events/4/pages/0/1/Dialogue
+A set of simple tea sets for woof is placed.
+\\i[201]\\c[3] Herbs\\c[0] If there is, it seems to be able to put in a calm
+drink.#MTLed
+> END STRING
+
+> BEGIN STRING
+休憩する【所持ハーブ\\v[5]個】en(v[5] \>= 1)
+> CONTEXT: Map288/events/4/pages/0/4/Choice/0
+> CONTEXT: Map274/events/8/pages/0/4/Choice/0
+> CONTEXT: Map193/events/27/pages/0/4/Choice/0
+> CONTEXT: Map192/events/8/pages/0/4/Choice/0
+> CONTEXT: Map187/events/26/pages/0/4/Choice/0
+> CONTEXT: Map163/events/8/pages/0/4/Choice/0
+> CONTEXT: Map158/events/8/pages/0/4/Choice/0
+> CONTEXT: Map157/events/8/pages/0/4/Choice/0
+> CONTEXT: Map155/events/8/pages/0/4/Choice/0
+> CONTEXT: Map152/events/4/pages/0/4/Choice/0
+> CONTEXT: Map141/events/8/pages/0/4/Choice/0
+> CONTEXT: Map136/events/9/pages/0/4/Choice/0
+> CONTEXT: Map135/events/9/pages/0/4/Choice/0
+> CONTEXT: Map123/events/8/pages/0/4/Choice/0
+> CONTEXT: Map117/events/8/pages/0/4/Choice/0
+> CONTEXT: Map100/events/8/pages/0/4/Choice/0
+> CONTEXT: Map094/events/8/pages/0/4/Choice/0
+> CONTEXT: Map076/events/8/pages/2/4/Choice/0
+> CONTEXT: Map065/events/26/pages/0/4/Choice/0
+> CONTEXT: Map064/events/8/pages/0/4/Choice/0
+> CONTEXT: Map053/events/8/pages/0/4/Choice/0
+> CONTEXT: Map048/events/8/pages/0/4/Choice/0
+> CONTEXT: Map036/events/8/pages/2/4/Choice/0
+> CONTEXT: Map022/events/2/pages/2/4/Choice/0
+> CONTEXT: Map015/events/8/pages/2/4/Choice/0
+> CONTEXT: Map011/events/6/pages/2/4/Choice/0
+Take a break [Herbs: \\v[5]] en(v[5] \>= 1)#Dargoth
+> END STRING
+
+> BEGIN STRING
+何もしない
+> CONTEXT: Map288/events/4/pages/0/4/Choice/1
+> CONTEXT: Map283/events/25/pages/1/3/Choice/1
+> CONTEXT: Map283/events/25/pages/2/3/Choice/1
+> CONTEXT: Map278/events/12/pages/2/6/Choice/0
+> CONTEXT: Map278/events/13/pages/2/6/Choice/0
+> CONTEXT: Map274/events/5/pages/0/3/Choice/1
+> CONTEXT: Map274/events/8/pages/0/4/Choice/1
+> CONTEXT: Map193/events/25/pages/0/3/Choice/1
+> CONTEXT: Map193/events/27/pages/0/4/Choice/1
+> CONTEXT: Map192/events/8/pages/0/4/Choice/1
+> CONTEXT: Map187/events/26/pages/0/4/Choice/1
+> CONTEXT: Map163/events/5/pages/0/3/Choice/1
+> CONTEXT: Map163/events/8/pages/0/4/Choice/1
+> CONTEXT: Map158/events/5/pages/0/3/Choice/1
+> CONTEXT: Map158/events/8/pages/0/4/Choice/1
+> CONTEXT: Map157/events/5/pages/0/3/Choice/1
+> CONTEXT: Map155/events/5/pages/0/3/Choice/1
+> CONTEXT: Map157/events/8/pages/0/4/Choice/1
+> CONTEXT: Map155/events/8/pages/0/4/Choice/1
+> CONTEXT: Map152/events/4/pages/0/4/Choice/1
+> CONTEXT: Map143/events/11/pages/0/10/Choice/1
+> CONTEXT: Map141/events/5/pages/0/3/Choice/1
+> CONTEXT: Map143/events/17/pages/0/10/Choice/1
+> CONTEXT: Map141/events/8/pages/0/4/Choice/1
+> CONTEXT: Map138/events/3/pages/0/10/Choice/1
+> CONTEXT: Map136/events/9/pages/0/4/Choice/1
+> CONTEXT: Map135/events/5/pages/0/3/Choice/1
+> CONTEXT: Map135/events/9/pages/0/4/Choice/1
+> CONTEXT: Map130/events/3/pages/0/10/Choice/1
+> CONTEXT: Map123/events/5/pages/0/3/Choice/1
+> CONTEXT: Map123/events/8/pages/0/4/Choice/1
+> CONTEXT: Map118/events/11/pages/0/21/Choice/0
+> CONTEXT: Map117/events/8/pages/0/4/Choice/1
+> CONTEXT: Map105/events/11/pages/0/10/Choice/1
+> CONTEXT: Map105/events/17/pages/0/10/Choice/1
+> CONTEXT: Map100/events/5/pages/0/3/Choice/1
+> CONTEXT: Map100/events/8/pages/0/4/Choice/1
+> CONTEXT: Map094/events/7/pages/0/4/Choice/0
+> CONTEXT: Map094/events/8/pages/0/4/Choice/1
+> CONTEXT: Map094/events/9/pages/0/3/Choice/1
+> CONTEXT: Map076/events/5/pages/1/3/Choice/1
+> CONTEXT: Map076/events/5/pages/2/3/Choice/1
+> CONTEXT: Map076/events/8/pages/2/4/Choice/1
+> CONTEXT: Map065/events/26/pages/0/4/Choice/1
+> CONTEXT: Map064/events/5/pages/1/3/Choice/1
+> CONTEXT: Map064/events/5/pages/2/3/Choice/1
+> CONTEXT: Map064/events/8/pages/0/4/Choice/1
+> CONTEXT: Map066/events/25/pages/1/3/Choice/1
+> CONTEXT: Map066/events/25/pages/2/3/Choice/1
+> CONTEXT: Map053/events/5/pages/1/3/Choice/1
+> CONTEXT: Map053/events/5/pages/2/3/Choice/1
+> CONTEXT: Map053/events/8/pages/0/4/Choice/1
+> CONTEXT: Map048/events/5/pages/1/3/Choice/1
+> CONTEXT: Map048/events/5/pages/2/3/Choice/1
+> CONTEXT: Map048/events/8/pages/0/4/Choice/1
+> CONTEXT: Map036/events/5/pages/1/3/Choice/1
+> CONTEXT: Map036/events/5/pages/2/3/Choice/1
+> CONTEXT: Map036/events/8/pages/2/4/Choice/1
+> CONTEXT: Map032/events/8/pages/0/3/Choice/1
+> CONTEXT: Map032/events/8/pages/1/3/Choice/1
+> CONTEXT: Map022/events/2/pages/2/4/Choice/1
+> CONTEXT: Map022/events/17/pages/0/3/Choice/1
+> CONTEXT: Map015/events/5/pages/1/3/Choice/1
+> CONTEXT: Map015/events/5/pages/2/3/Choice/1
+> CONTEXT: Map015/events/8/pages/2/4/Choice/1
+> CONTEXT: Map013/events/5/pages/1/4/Choice/0
+> CONTEXT: Map013/events/5/pages/2/4/Choice/0
+> CONTEXT: Map011/events/6/pages/2/4/Choice/1
+> CONTEXT: Map012/events/5/pages/3/2/Choice/0
+> CONTEXT: Map007/events/12/pages/2/6/Choice/0
+> CONTEXT: Map007/events/13/pages/2/6/Choice/0
+> CONTEXT: Map011/events/16/pages/1/3/Choice/1
+> CONTEXT: Map011/events/16/pages/2/3/Choice/1
+> CONTEXT: Commonevents/294/32/Choice/1
+> CONTEXT: Commonevents/294/58/Choice/1
+Nothing#Dargoth
+> END STRING
+
+> BEGIN STRING
+
+心安まるハーブティーの効果により
+\\n[1]はしばらくの間、\\C[2]性欲が上がりにくくなった！
+> CONTEXT: Map288/events/4/pages/0/25/Dialogue
+> CONTEXT: Map274/events/8/pages/0/25/Dialogue
+> CONTEXT: Map193/events/27/pages/0/25/Dialogue
+> CONTEXT: Map192/events/8/pages/0/25/Dialogue
+> CONTEXT: Map187/events/26/pages/0/25/Dialogue
+> CONTEXT: Map163/events/8/pages/0/25/Dialogue
+> CONTEXT: Map158/events/8/pages/0/25/Dialogue
+> CONTEXT: Map157/events/8/pages/0/25/Dialogue
+> CONTEXT: Map155/events/8/pages/0/25/Dialogue
+> CONTEXT: Map152/events/4/pages/0/25/Dialogue
+> CONTEXT: Map141/events/8/pages/0/25/Dialogue
+> CONTEXT: Map136/events/9/pages/0/25/Dialogue
+> CONTEXT: Map135/events/9/pages/0/25/Dialogue
+> CONTEXT: Map123/events/8/pages/0/25/Dialogue
+> CONTEXT: Map117/events/8/pages/0/25/Dialogue
+> CONTEXT: Map100/events/8/pages/0/25/Dialogue
+> CONTEXT: Map094/events/8/pages/0/25/Dialogue
+> CONTEXT: Map076/events/8/pages/2/25/Dialogue
+> CONTEXT: Map065/events/26/pages/0/25/Dialogue
+> CONTEXT: Map064/events/8/pages/0/25/Dialogue
+> CONTEXT: Map053/events/8/pages/0/25/Dialogue
+> CONTEXT: Map048/events/8/pages/0/25/Dialogue
+> CONTEXT: Map036/events/8/pages/2/25/Dialogue
+> CONTEXT: Map022/events/2/pages/2/25/Dialogue
+> CONTEXT: Map015/events/8/pages/2/25/Dialogue
+> CONTEXT: Map011/events/6/pages/2/25/Dialogue
+By the effect of herbal tea. \\n[1] For a while,\\C[2] Lust
+became hard to rise!#MTLed
+> END STRING
+
+> BEGIN STRING
+
+周囲にカマソッソの気配はなくなった……
+> CONTEXT: Map288/events/13/pages/1/1/Dialogue
+> CONTEXT: Map287/events/56/pages/1/1/Dialogue
+> CONTEXT: Map152/events/13/pages/1/1/Dialogue
+> CONTEXT: Map156/events/56/pages/1/1/Dialogue
+There are no signs of Camazotz around here......#afrg
+> END STRING
+
+> BEGIN STRING
+羊「搬入エレベーターは
+
+　　\\C[2]この９番駐車場を真っ直ぐ進んだ先だよ」
+> CONTEXT: Map288/events/30/pages/0/0/Dialogue
+> CONTEXT: Map152/events/30/pages/0/0/Dialogue
+sheep「The carry-in elevator. In case\\C[2] I went straight to
+this 9th parking lot」#MTLed
+> END STRING
+
+> BEGIN STRING
+羊「ただ、カマソッソの数が多いから
+
+　　見つからずに進むのはちょっと難しいかも…」
+> CONTEXT: Map288/events/30/pages/0/4/Dialogue
+> CONTEXT: Map152/events/30/pages/0/4/Dialogue
+sheep「However, because there are a lot of Camazotz
+It may be a bit difficult to go without being found ...」#MTLed
+> END STRING

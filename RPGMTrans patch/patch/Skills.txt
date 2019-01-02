@@ -1,0 +1,7378 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+攻撃
+> CONTEXT: Skills/1/name/
+> CONTEXT: System/terms/commands/2/
+> CONTEXT: System/skill_types/1/
+> CONTEXT: System/skill_types/25/
+Attack#Dargoth
+> END STRING
+
+> BEGIN STRING
+敵単体にダメージを与える。
+> CONTEXT: Skills/1/description/
+Deal damage to one foe.#Dargoth
+> END STRING
+
+> BEGIN STRING
+の攻撃！
+> CONTEXT: Skills/1/message1/
+> CONTEXT: Skills/21/message1/
+> CONTEXT: Skills/453/message1/
+ attacks!#Dargoth
+> END STRING
+
+> BEGIN STRING
+なにもしない
+> CONTEXT: Skills/2/name/
+> CONTEXT: System/terms/commands/3/
+Rest#Dargoth
+> END STRING
+
+> BEGIN STRING
+身を守ることに専念し、受けるダメージを抑える。
+> CONTEXT: Skills/2/description/
+Focus on defense and reduce willpower lost.#Dargoth
+> END STRING
+
+> BEGIN STRING
+はしばらく何もせず、なすがままになった。
+> CONTEXT: Skills/2/message1/
+ waits for a turn and lets the enemy act.#Dargoth
+> END STRING
+
+> BEGIN STRING
+精神統一
+> CONTEXT: Skills/3/name/
+Concentrate#Dargoth
+> END STRING
+
+> BEGIN STRING
+目を閉じ神経を研ぎ澄ますことで、抵抗力と性欲の安静化を図る。
+\\C[10]押し倒し・挿入・興奮状態時の使用はやめておいたほうがいい。
+> CONTEXT: Skills/3/description/
+Close your eyes and hone your resolve. Restores willpower
+and reduces lust.\\C[10] Not recommended when aroused or inserted.#Dargoth
+> END STRING
+
+> BEGIN STRING
+は精神統一を試みた。
+> CONTEXT: Skills/3/message1/
+> CONTEXT: Skills/430/message1/
+> CONTEXT: Skills/498/message1/
+> CONTEXT: Skills/507/message1/
+ attempts to clear his mind.#Dargoth
+> END STRING
+
+> BEGIN STRING
+深呼吸
+> CONTEXT: Skills/4/name/
+Deep Breathing#Dargoth
+> END STRING
+
+> BEGIN STRING
+深く息を吸い、呼吸を整えて気力を回復する。気力残存量依存。
+\\C[10]効果は「出血」「疲労」「衰弱」によって阻害される。
+> CONTEXT: Skills/4/description/
+Take a deep breath to restore vitality based on current
+vitality.\\C[10] Hampered by [Bleed], [Exhaustion], and [Weakness].#Dargoth
+> END STRING
+
+> BEGIN STRING
+は落ち着いて深呼吸をした。
+> CONTEXT: Skills/4/message1/
+> CONTEXT: Skills/431/message1/
+> CONTEXT: Skills/499/message1/
+> CONTEXT: Skills/508/message1/
+ calms down and takes a deep breath.#Dargoth
+> END STRING
+
+> BEGIN STRING
+頬を叩く
+> CONTEXT: Skills/5/name/
+Face Slap#Dargoth
+> END STRING
+
+> BEGIN STRING
+自身の頬を軽く叩き、正気を取り戻そうと試みる。
+５０％の確率で「傀儡」「パニック」「恍惚」「魅了」が治る。
+> CONTEXT: Skills/5/description/
+Slap yourself to try and regain composure. Gives a 50% chance
+to recover from [Puppet], [Panic], [Ecstasy], and [Charm].#Dargoth
+> END STRING
+
+> BEGIN STRING
+は軽く頬を叩いた！
+> CONTEXT: Skills/5/message1/
+> CONTEXT: Skills/432/message1/
+> CONTEXT: Skills/500/message1/
+ lightly slaps his own face!#Dargoth
+> END STRING
+
+> BEGIN STRING
+頬を殴る
+> CONTEXT: Skills/6/name/
+Face Punch#Dargoth
+> END STRING
+
+> BEGIN STRING
+自身の頬を強く叩き、正気を取り戻そうと試みる。
+確実に「傀儡」「パニック」「恍惚」「魅了」が治る。
+> CONTEXT: Skills/6/description/
+> CONTEXT: Skills/317/description/
+> CONTEXT: Skills/318/description/
+Punch yourself to try and regain composure. Guaranteed
+recovery from [Puppet], [Panic], [Ecstasy], and [Charm].#Dargoth
+> END STRING
+
+> BEGIN STRING
+は自分を殴った！
+> CONTEXT: Skills/6/message1/
+> CONTEXT: Skills/433/message1/
+> CONTEXT: Skills/501/message1/
+ punches himself!#Dargoth
+> END STRING
+
+> BEGIN STRING
+もがく
+> CONTEXT: Skills/7/name/
+> CONTEXT: Skills/434/name/
+> CONTEXT: Skills/502/name/
+Struggle#Dargoth
+> END STRING
+
+> BEGIN STRING
+拘束や障害を取り除こうと試みる。
+抜け出せる可能性は一番低い。
+> CONTEXT: Skills/7/description/
+Try to escape from bindings and impairments.
+Lowest chance of success.#Dargoth
+> END STRING
+
+> BEGIN STRING
+は身体をよじらせた！
+> CONTEXT: Skills/7/message1/
+> CONTEXT: Skills/434/message1/
+> CONTEXT: Skills/502/message1/
+> CONTEXT: Skills/511/message1/
+ wriggles and squirms!#Dargoth
+> END STRING
+
+> BEGIN STRING
+暴れる
+> CONTEXT: Skills/8/name/
+Violent Rage#Dargoth
+> END STRING
+
+> BEGIN STRING
+拘束や障害を取り除こうと暴れる。
+気力を大きく消費するが、ほぼ確実に脱出できる。
+> CONTEXT: Skills/8/description/
+Try your hardest to escape from bindings and impairments.
+Tires you out more, but is nearly guaranteed to free you.#Dargoth
+> END STRING
+
+> BEGIN STRING
+は思いきり暴れた！
+> CONTEXT: Skills/8/message1/
+> CONTEXT: Skills/61/message1/
+> CONTEXT: Skills/164/message1/
+> CONTEXT: Skills/435/message1/
+> CONTEXT: Skills/503/message1/
+> CONTEXT: Skills/512/message1/
+ thrashes with all his strength!#Dargoth
+> END STRING
+
+> BEGIN STRING
+説得する
+> CONTEXT: Skills/9/name/
+Persuade#Dargoth
+> END STRING
+
+> BEGIN STRING
+相手に理解を求める会話を試みる。＊戦闘時１回のみ
+会話成功率は、その悪魔との友好度で決まる。
+> CONTEXT: Skills/9/description/
+Try to talk your opponent into leaving you alone once per
+battle. Success rate depends on friendship rating.#Dargoth
+> END STRING
+
+> BEGIN STRING
+は、相手を説得しようと試みた。
+> CONTEXT: Skills/9/message1/
+ tries to persuade his opponent.#Dargoth
+> END STRING
+
+> BEGIN STRING
+武器をしまう
+> CONTEXT: Skills/10/name/
+Holster Gun#afrg
+> END STRING
+
+> BEGIN STRING
+装備している銃を収め、敵意がないことを示す。
+これをしないと『\\I[842]説得する』が使用できない。
+> CONTEXT: Skills/10/description/
+Put away your gun to show that you mean no harm.
+Must first perform in order to use [\\I[842]Persuade].#Dargoth
+> END STRING
+
+> BEGIN STRING
+は武器をしまった。
+> CONTEXT: Skills/10/message1/
+ puts away his gun.#afrg
+> END STRING
+
+> BEGIN STRING
+武器を構える
+> CONTEXT: Skills/11/name/
+Draw Gun#afrg
+> END STRING
+
+> BEGIN STRING
+銃を取り出し、相手に向ける。
+相手によっては戦闘態勢に入る場合がある。
+> CONTEXT: Skills/11/description/
+Draw your gun and point it at your opponent.
+Opponent may assume combat stance in response.#Dargoth
+> END STRING
+
+> BEGIN STRING
+は武器を構えた！
+> CONTEXT: Skills/11/message1/
+ draws his gun!#afrg
+> END STRING
+
+> BEGIN STRING
+身を委ねる
+> CONTEXT: Skills/12/name/
+Give Up#Dargoth
+> END STRING
+
+> BEGIN STRING
+相手の誘惑に乗り、自らの身体を相手に捧げる。
+\\C[10]戦術的に何のメリットもない自殺技。
+> CONTEXT: Skills/12/description/
+Yield to temptation and offer up your body.
+\\C[10]No tactical use whatsoever. Suicide.#Dargoth
+> END STRING
+
+> BEGIN STRING
+は相手に身を委ねた。
+> CONTEXT: Skills/12/message1/
+> CONTEXT: Skills/458/message1/
+ offers up his body freely.#Dargoth
+> END STRING
+
+> BEGIN STRING
+服を脱ぐ
+> CONTEXT: Skills/13/name/
+Remove Clothes#Dargoth
+> END STRING
+
+> BEGIN STRING
+自ら服を脱ぎ、文字通り身を張って相手に敵意が無いことを示す。
+相手によっては誘惑状態になるが、相手が戦闘体勢では効果無し。
+> CONTEXT: Skills/13/description/
+> CONTEXT: Skills/184/description/
+> CONTEXT: Skills/466/description/
+> CONTEXT: Skills/704/description/
+> CONTEXT: Skills/712/description/
+Get naked and show you mean no harm. Opponent may invite you
+you to have sex. No effect if opponent is in combat stance.#Dargoth
+> END STRING
+
+> BEGIN STRING
+は服を脱いだ。
+> CONTEXT: Skills/13/message1/
+ takes off his clothes.#Dargoth
+> END STRING
+
+> BEGIN STRING
+服を着る
+> CONTEXT: Skills/14/name/
+Get Dressed#Dargoth
+> END STRING
+
+> BEGIN STRING
+服を着て、相手の性感攻撃に対しての耐性を得る。
+相手によっては誘惑状態が解除されることがある。
+> CONTEXT: Skills/14/description/
+Put on your clothes to better resist pleasure attacks.
+Opponent may give up on temptation.#Dargoth
+> END STRING
+
+> BEGIN STRING
+は服を着た。
+> CONTEXT: Skills/14/message1/
+ gets dressed.#Dargoth
+> END STRING
+
+> BEGIN STRING
+エサになる
+> CONTEXT: Skills/15/name/
+> CONTEXT: Skills/221/name/
+> CONTEXT: Skills/222/name/
+> CONTEXT: Skills/223/name/
+> CONTEXT: Skills/224/name/
+> CONTEXT: Skills/225/name/
+> CONTEXT: Skills/226/name/
+> CONTEXT: Skills/227/name/
+> CONTEXT: Skills/228/name/
+> CONTEXT: Skills/229/name/
+> CONTEXT: Skills/230/name/
+> CONTEXT: Skills/231/name/
+> CONTEXT: Skills/232/name/
+> CONTEXT: Skills/234/name/
+> CONTEXT: Skills/235/name/
+> CONTEXT: Skills/236/name/
+> CONTEXT: Skills/237/name/
+> CONTEXT: Skills/238/name/
+> CONTEXT: Skills/239/name/
+> CONTEXT: Skills/240/name/
+> CONTEXT: Skills/241/name/
+> CONTEXT: Skills/242/name/
+> CONTEXT: Skills/243/name/
+Become Food#Dargoth
+> END STRING
+
+> BEGIN STRING
+抵抗をやめ、喰われる覚悟を決める。\\C[10]一発自殺技。
+> CONTEXT: Skills/15/description/
+> CONTEXT: Skills/221/description/
+> CONTEXT: Skills/222/description/
+> CONTEXT: Skills/223/description/
+> CONTEXT: Skills/224/description/
+> CONTEXT: Skills/225/description/
+> CONTEXT: Skills/226/description/
+> CONTEXT: Skills/227/description/
+> CONTEXT: Skills/228/description/
+> CONTEXT: Skills/229/description/
+> CONTEXT: Skills/230/description/
+> CONTEXT: Skills/231/description/
+> CONTEXT: Skills/232/description/
+> CONTEXT: Skills/234/description/
+> CONTEXT: Skills/235/description/
+> CONTEXT: Skills/236/description/
+> CONTEXT: Skills/237/description/
+> CONTEXT: Skills/238/description/
+> CONTEXT: Skills/239/description/
+> CONTEXT: Skills/240/description/
+> CONTEXT: Skills/241/description/
+> CONTEXT: Skills/242/description/
+> CONTEXT: Skills/243/description/
+Stop resisting and resign yourself to your fate.
+\\C[10]No changing your mind. This is suicide.#Dargoth
+> END STRING
+
+> BEGIN STRING
+は抵抗をやめ、相手に身を委ねた。
+> CONTEXT: Skills/15/message1/
+> CONTEXT: Skills/221/message1/
+> CONTEXT: Skills/222/message1/
+> CONTEXT: Skills/223/message1/
+> CONTEXT: Skills/224/message1/
+> CONTEXT: Skills/225/message1/
+> CONTEXT: Skills/226/message1/
+> CONTEXT: Skills/227/message1/
+> CONTEXT: Skills/228/message1/
+> CONTEXT: Skills/229/message1/
+> CONTEXT: Skills/230/message1/
+> CONTEXT: Skills/231/message1/
+> CONTEXT: Skills/232/message1/
+> CONTEXT: Skills/234/message1/
+> CONTEXT: Skills/235/message1/
+> CONTEXT: Skills/236/message1/
+> CONTEXT: Skills/237/message1/
+> CONTEXT: Skills/238/message1/
+> CONTEXT: Skills/239/message1/
+> CONTEXT: Skills/240/message1/
+> CONTEXT: Skills/241/message1/
+> CONTEXT: Skills/242/message1/
+> CONTEXT: Skills/243/message1/
+ stops resisting and offers up his body freely.#Dargoth
+> END STRING
+
+> BEGIN STRING
+腰を振る
+> CONTEXT: Skills/16/name/
+Hip Thrust#Dargoth
+> END STRING
+
+> BEGIN STRING
+理性を失い本能のままに腰に力を入れる。
+\\C[10]抵抗力に大ダメージ、性欲が大幅上昇。
+> CONTEXT: Skills/16/description/
+> CONTEXT: Skills/420/description/
+> CONTEXT: Skills/671/description/
+Give in to your mating instincts and pound away.
+\\C[10]Greatly reduces willpower and increases lust.#Dargoth
+> END STRING
+
+> BEGIN STRING
+はみじめに腰をふる動作をしている…
+> CONTEXT: Skills/16/message1/
+ thrusts his hips forward repeatedly...#Dargoth
+> END STRING
+
+> BEGIN STRING
+回避体勢
+> CONTEXT: Skills/17/name/
+Evasive Posture#Dargoth
+> END STRING
+
+> BEGIN STRING
+使用したターン中、相手の攻撃を避ける体勢をとる。
+他の状態異常等で確実ではなくなる場合がある。
+> CONTEXT: Skills/17/description/
+> CONTEXT: Skills/519/description/
+Prepare yourself to avoid attacks for the turn.
+Depending on status ailments, safety not guaranteed.#Dargoth
+> END STRING
+
+> BEGIN STRING
+は回避体勢をとった！！
+> CONTEXT: Skills/17/message1/
+> CONTEXT: Skills/519/message1/
+ assumes an evasive posture!#Dargoth
+> END STRING
+
+> BEGIN STRING
+蹴り飛ばし
+> CONTEXT: Skills/18/name/
+Kick Away#Dargoth
+> END STRING
+
+> BEGIN STRING
+\\C[2]足を使って\\C[0]障害を蹴り飛ばし、拘束を解除する。
+押し倒しや手の拘束は確実に解除する。
+> CONTEXT: Skills/18/description/
+\\C[2]Use your legs\\C[0] to free yourself from binds and holds.
+Reliably frees your arms and pushes opponents off you.#Dargoth
+> END STRING
+
+> BEGIN STRING
+は相手を蹴り飛ばそうとした！
+> CONTEXT: Skills/18/message1/
+> CONTEXT: Skills/436/message1/
+> CONTEXT: Skills/504/message1/
+ tries to kick his opponent off!#Dargoth
+> END STRING
+
+> BEGIN STRING
+ふりはらう
+> CONTEXT: Skills/19/name/
+> CONTEXT: Skills/437/name/
+Shake Off#Dargoth
+> END STRING
+
+> BEGIN STRING
+\\C[2]手を使って\\C[0]障害を引き離し、拘束を解除する。
+接吻や乳首、軽い足の拘束はこれで確実に解除できる。
+> CONTEXT: Skills/19/description/
+\\C[2]Use your hands\\C[0] to pry off restraints and bindings.
+Reliably frees your legs, nipples, and mouth.#Dargoth
+> END STRING
+
+> BEGIN STRING
+は手で拘束解除を試みた！
+> CONTEXT: Skills/19/message1/
+> CONTEXT: Skills/437/message1/
+> CONTEXT: Skills/505/message1/
+ tries to pry his opponent away from him!#Dargoth
+> END STRING
+
+> BEGIN STRING
+防御態勢
+> CONTEXT: Skills/20/name/
+Defensive Posture#Dargoth
+> END STRING
+
+> BEGIN STRING
+使用したターン中、ダメージを大幅に軽減する体勢をとる。
+確実にダメージを受ける他、状態異常にもかかるので注意。
+> CONTEXT: Skills/20/description/
+Prepare yourself to greatly reduce damage for the turn.
+Saves your willpower, but won't stop status ailments.#Dargoth
+> END STRING
+
+> BEGIN STRING
+は防御体勢をとった！！
+> CONTEXT: Skills/20/message1/
+ takes a defensive posture!#Dargoth
+> END STRING
+
+> BEGIN STRING
+近接攻撃
+> CONTEXT: Skills/21/name/
+Melee Attack#Dargoth
+> END STRING
+
+> BEGIN STRING
+敵単体にダメージを与える。
+\\C[10]相手が誘惑している時に選択する事は死を意味する。
+> CONTEXT: Skills/21/description/
+Damages a single opponent.
+\\C[10]If opponent is luring you in, this move is suicide.#Dargoth
+> END STRING
+
+> BEGIN STRING
+ラヴドレイン
+> CONTEXT: Skills/22/name/
+Love Drain#Dargoth
+> END STRING
+
+> BEGIN STRING
+の精液が相手に吸収されていく…
+> CONTEXT: Skills/22/message1/
+> CONTEXT: Skills/24/message1/
+'s semen is being absorbed by his partner...#Dargoth
+> END STRING
+
+> BEGIN STRING
+相手との愛情が深まった感じがする……。
+> CONTEXT: Skills/22/message2/
+He feels her affection towards him deepen...#Dargoth
+> END STRING
+
+> BEGIN STRING
+テレポート
+> CONTEXT: Skills/23/name/
+Teleport#Dargoth
+> END STRING
+
+> BEGIN STRING
+の周囲に光があふれていく！
+> CONTEXT: Skills/23/message1/
+ is bathed in a brilliant light!#Dargoth
+> END STRING
+
+> BEGIN STRING
+エナジードレイン
+> CONTEXT: Skills/24/name/
+> CONTEXT: States/43/name/
+> CONTEXT: States/44/name/
+> CONTEXT: States/45/name/
+> CONTEXT: States/46/name/
+> CONTEXT: States/78/name/
+> CONTEXT: States/79/name/
+> CONTEXT: States/80/name/
+> CONTEXT: States/81/name/
+> CONTEXT: States/170/name/
+> CONTEXT: States/171/name/
+> CONTEXT: States/172/name/
+> CONTEXT: States/173/name/
+> CONTEXT: States/174/name/
+> CONTEXT: States/175/name/
+> CONTEXT: States/176/name/
+> CONTEXT: States/177/name/
+> CONTEXT: States/178/name/
+> CONTEXT: States/179/name/
+Energy Drain#Dargoth
+> END STRING
+
+> BEGIN STRING
+身体の精気も共に奪われていくのを感じる。
+> CONTEXT: Skills/24/message2/
+He feels the life being sucked out of his body as well...#Dargoth
+> END STRING
+
+> BEGIN STRING
+--------------------
+> CONTEXT: Skills/25/name/
+> CONTEXT: Skills/79/name/
+--------------------#Dargoth
+> END STRING
+
+> BEGIN STRING
+抵抗力の最大値を上げる。
+> CONTEXT: Skills/26/description/
+> CONTEXT: Skills/27/description/
+> CONTEXT: Skills/28/description/
+> CONTEXT: Skills/29/description/
+> CONTEXT: Skills/30/description/
+> CONTEXT: Skills/31/description/
+> CONTEXT: Skills/32/description/
+> CONTEXT: Skills/33/description/
+> CONTEXT: Skills/34/description/
+> CONTEXT: Skills/35/description/
+Increases maximum willpower.#Dargoth
+> END STRING
+
+> BEGIN STRING
+はヒールを唱えた！
+> CONTEXT: Skills/26/message1/
+> CONTEXT: Skills/27/message1/
+> CONTEXT: Skills/28/message1/
+> CONTEXT: Skills/29/message1/
+> CONTEXT: Skills/30/message1/
+> CONTEXT: Skills/31/message1/
+> CONTEXT: Skills/32/message1/
+> CONTEXT: Skills/33/message1/
+> CONTEXT: Skills/34/message1/
+> CONTEXT: Skills/35/message1/
+> CONTEXT: Skills/36/message1/
+> CONTEXT: Skills/37/message1/
+> CONTEXT: Skills/38/message1/
+> CONTEXT: Skills/39/message1/
+> CONTEXT: Skills/40/message1/
+> CONTEXT: Skills/41/message1/
+> CONTEXT: Skills/42/message1/
+> CONTEXT: Skills/43/message1/
+> CONTEXT: Skills/44/message1/
+> CONTEXT: Skills/45/message1/
+> CONTEXT: Skills/46/message1/
+> CONTEXT: Skills/47/message1/
+> CONTEXT: Skills/48/message1/
+> CONTEXT: Skills/49/message1/
+> CONTEXT: Skills/50/message1/
+> CONTEXT: Skills/51/message1/
+> CONTEXT: Skills/52/message1/
+> CONTEXT: Skills/53/message1/
+> CONTEXT: Skills/54/message1/
+> CONTEXT: Skills/55/message1/
+> CONTEXT: Skills/56/message1/
+> CONTEXT: Skills/57/message1/
+> CONTEXT: Skills/58/message1/
+> CONTEXT: Skills/59/message1/
+> CONTEXT: Skills/60/message1/
+> CONTEXT: Skills/62/message1/
+> CONTEXT: Skills/63/message1/
+> CONTEXT: Skills/64/message1/
+> CONTEXT: Skills/65/message1/
+> CONTEXT: Skills/66/message1/
+.#Dargoth
+> END STRING
+
+> BEGIN STRING
+抵抗力アップLvMAX
+> CONTEXT: Skills/35/name/
+Will Up MAX#Dargoth
+> END STRING
+
+> BEGIN STRING
+気力アップLv1
+> CONTEXT: Skills/36/name/
+Vit Up Lv1#Dargoth
+> END STRING
+
+> BEGIN STRING
+気力の最大値を上げる。
+> CONTEXT: Skills/36/description/
+> CONTEXT: Skills/37/description/
+> CONTEXT: Skills/38/description/
+> CONTEXT: Skills/39/description/
+> CONTEXT: Skills/40/description/
+> CONTEXT: Skills/41/description/
+> CONTEXT: Skills/42/description/
+> CONTEXT: Skills/43/description/
+> CONTEXT: Skills/44/description/
+> CONTEXT: Skills/45/description/
+Increases maximum vitality.#Dargoth
+> END STRING
+
+> BEGIN STRING
+気力アップLv2
+> CONTEXT: Skills/37/name/
+Vit Up Lv2#Dargoth
+> END STRING
+
+> BEGIN STRING
+気力アップLv3
+> CONTEXT: Skills/38/name/
+Vit Up Lv3#Dargoth
+> END STRING
+
+> BEGIN STRING
+気力アップLv4
+> CONTEXT: Skills/39/name/
+Vit Up Lv4#Dargoth
+> END STRING
+
+> BEGIN STRING
+気力アップLv5
+> CONTEXT: Skills/40/name/
+Vit Up Lv5#Dargoth
+> END STRING
+
+> BEGIN STRING
+気力アップLv6
+> CONTEXT: Skills/41/name/
+Vit Up Lv6#Dargoth
+> END STRING
+
+> BEGIN STRING
+気力アップLv7
+> CONTEXT: Skills/42/name/
+Vit Up Lv7#Dargoth
+> END STRING
+
+> BEGIN STRING
+気力アップLv8
+> CONTEXT: Skills/43/name/
+Vit Up Lv8#Dargoth
+> END STRING
+
+> BEGIN STRING
+気力アップLv9
+> CONTEXT: Skills/44/name/
+Vit Up Lv9#Dargoth
+> END STRING
+
+> BEGIN STRING
+気力アップLvMAX
+> CONTEXT: Skills/45/name/
+Vit Up Lv10#Dargoth
+> END STRING
+
+> BEGIN STRING
+物理攻撃力を５％上昇させる。
+> CONTEXT: Skills/46/description/
+Physical attack strength up 5%.#Dargoth
+> END STRING
+
+> BEGIN STRING
+攻撃アップLv2
+> CONTEXT: Skills/47/name/
+Attack Up Lv2#Dargoth
+> END STRING
+
+> BEGIN STRING
+物理攻撃力を１０％上昇させる。
+> CONTEXT: Skills/47/description/
+Physical attack strength up 10%.#Dargoth
+> END STRING
+
+> BEGIN STRING
+攻撃アップLv3
+> CONTEXT: Skills/48/name/
+Attack Up Lv3#Dargoth
+> END STRING
+
+> BEGIN STRING
+物理攻撃力を１５％上昇させる。
+> CONTEXT: Skills/48/description/
+Physical attack strength up 15%.#Dargoth
+> END STRING
+
+> BEGIN STRING
+攻撃アップLv4
+> CONTEXT: Skills/49/name/
+Attack Up Lv4#Dargoth
+> END STRING
+
+> BEGIN STRING
+物理攻撃力を２０％上昇させる。
+> CONTEXT: Skills/49/description/
+Physical attack strength up 20%.#Dargoth
+> END STRING
+
+> BEGIN STRING
+攻撃アップLvMAX
+> CONTEXT: Skills/50/name/
+Attack Up MAX#Dargoth
+> END STRING
+
+> BEGIN STRING
+物理攻撃力を２５％上昇させる。
+> CONTEXT: Skills/50/description/
+Physical attack strength up 25%.#Dargoth
+> END STRING
+
+> BEGIN STRING
+魔法攻撃力を５％上昇させる。
+> CONTEXT: Skills/51/description/
+Magical attack strength up 5%.#Dargoth
+> END STRING
+
+> BEGIN STRING
+魔法アップLv2
+> CONTEXT: Skills/52/name/
+Magic Up Lv2#Dargoth
+> END STRING
+
+> BEGIN STRING
+魔法攻撃力を１０％上昇させる。
+> CONTEXT: Skills/52/description/
+Magical attack strength up 10%.#Dargoth
+> END STRING
+
+> BEGIN STRING
+魔法アップLv3
+> CONTEXT: Skills/53/name/
+Magic Up Lv3#Dargoth
+> END STRING
+
+> BEGIN STRING
+魔法攻撃力を１５％上昇させる。
+> CONTEXT: Skills/53/description/
+Magical attack strength up 15%.#Dargoth
+> END STRING
+
+> BEGIN STRING
+魔法アップLv4
+> CONTEXT: Skills/54/name/
+Magic Up Lv4#Dargoth
+> END STRING
+
+> BEGIN STRING
+魔法攻撃力を２０％上昇させる。
+> CONTEXT: Skills/54/description/
+Magical attack strength up 20%.#Dargoth
+> END STRING
+
+> BEGIN STRING
+魔法アップLvMAX
+> CONTEXT: Skills/55/name/
+Magic Up MAX#Dargoth
+> END STRING
+
+> BEGIN STRING
+魔法攻撃力を２５％上昇させる。
+> CONTEXT: Skills/55/description/
+Magical attack strength up 25%.#Dargoth
+> END STRING
+
+> BEGIN STRING
+敏捷性を１０％上昇させる。
+> CONTEXT: Skills/56/description/
+Agility up 10%?#Dargoth
+> END STRING
+
+> BEGIN STRING
+敏捷アップLv2
+> CONTEXT: Skills/57/name/
+Agility Up Lv2#Dargoth
+> END STRING
+
+> BEGIN STRING
+敏捷性を２０％上昇させる。
+> CONTEXT: Skills/57/description/
+Increases agility by 20%.#afrgPR
+> END STRING
+
+> BEGIN STRING
+敏捷アップLv3
+> CONTEXT: Skills/58/name/
+Agility Up Lv3#Dargoth
+> END STRING
+
+> BEGIN STRING
+敏捷性を３０％上昇させる。
+> CONTEXT: Skills/58/description/
+Increases agility by 30%.#afrgPR
+> END STRING
+
+> BEGIN STRING
+敏捷アップLv4
+> CONTEXT: Skills/59/name/
+Agility Up Lv4#Dargoth
+> END STRING
+
+> BEGIN STRING
+敏捷性を４０％上昇させる。
+> CONTEXT: Skills/59/description/
+Increases agility by 40%.#afrg
+> END STRING
+
+> BEGIN STRING
+敏捷アップLvMAX
+> CONTEXT: Skills/60/name/
+Agility Up MAX#Dargoth
+> END STRING
+
+> BEGIN STRING
+敏捷性を５０％上昇させる。
+> CONTEXT: Skills/60/description/
+Increases agility by 50%.#afrg
+> END STRING
+
+> BEGIN STRING
+大暴れ
+> CONTEXT: Skills/61/name/
+Berserk#afrgPR
+> CONTEXT: Skills/744/name/
+Beserk#afrg
+> END STRING
+
+> BEGIN STRING
+拘束や障害を取り除こうと大暴れする。
+すべての拘束を確実に脱出できる。
+> CONTEXT: Skills/61/description/
+Go berserk and remove all holds or restraints,
+no matter what or how many.#afrgPR
+> END STRING
+
+> BEGIN STRING
+抵抗力が毎ターン１０％回復する。
+> CONTEXT: Skills/62/description/
+Recover Willpower by 10% every turn.#afrg
+> END STRING
+
+> BEGIN STRING
+気力が毎ターン１０％回復する。
+> CONTEXT: Skills/63/description/
+Recover Vitality by 10% every turn.#afrg
+> END STRING
+
+> BEGIN STRING
+物理回避上昇
+> CONTEXT: Skills/64/name/
+Physical Evasion Boost#afrg
+> END STRING
+
+> BEGIN STRING
+物理攻撃の回避率が１０％上昇する。
+> CONTEXT: Skills/64/description/
+Increase the rate at which physical attacks are evaded by 10%.#afrg
+> END STRING
+
+> BEGIN STRING
+魔法回避上昇
+> CONTEXT: Skills/65/name/
+Magic Evation Boost#afrg
+> END STRING
+
+> BEGIN STRING
+魔法攻撃が３０％の確率で無効化できる。
+> CONTEXT: Skills/65/description/
+Gives a 30% chance to nullify magical attacks.#afrg
+> END STRING
+
+> BEGIN STRING
+不屈の闘志
+> CONTEXT: Skills/66/name/
+> CONTEXT: States/180/name/
+> CONTEXT: Skills/688/name/
+Indomitable Fighting Spirit#afrg
+> END STRING
+
+> BEGIN STRING
+戦闘中に１回だけ、朦朧状態を即回復し、抵抗・気力を５０％回復する。
+搾精体勢中の射精では効果を発揮しない。
+> CONTEXT: Skills/66/description/
+Once per battle, recover from Faint. Recovers 50% Willpower and Vitality.
+Does not work while fucking.#afrg
+> END STRING
+
+> BEGIN STRING
+敵単体に物理の小ダメージを与える。装弾数\\V[7]/10
+> CONTEXT: Skills/80/description/
+Deals low physical damage to one foe. Rounds \\V[7]/10#Dargoth
+> END STRING
+
+> BEGIN STRING
+はハンドガンを撃った！
+> CONTEXT: Skills/80/message1/
+> CONTEXT: Skills/212/message1/
+> CONTEXT: Skills/439/message1/
+> CONTEXT: Skills/448/message1/
+> CONTEXT: Skills/771/message1/
+ fires his handgun!#Dargoth
+> END STRING
+
+> BEGIN STRING
+リロード
+> CONTEXT: Skills/81/name/
+> CONTEXT: Skills/83/name/
+> CONTEXT: Skills/84/name/
+> CONTEXT: Skills/91/name/
+> CONTEXT: Skills/92/name/
+> CONTEXT: Skills/328/name/
+> CONTEXT: Skills/346/name/
+Reload#Dargoth
+> END STRING
+
+> BEGIN STRING
+ハンドガンのリロードを行う。
+銃内に残った弾は『\\I[895]9mmパラベラム弾』になる。
+> CONTEXT: Skills/81/description/
+Reload your handgun. Remaining rounds
+in the old magazine are placed in your inventory.#Dargoth
+> END STRING
+
+> BEGIN STRING
+は弾丸の装填を行った。
+> CONTEXT: Skills/81/message1/
+> CONTEXT: Skills/83/message1/
+> CONTEXT: Skills/84/message1/
+> CONTEXT: Skills/91/message1/
+> CONTEXT: Skills/92/message1/
+> CONTEXT: Skills/210/message1/
+> CONTEXT: Skills/211/message1/
+> CONTEXT: Skills/322/message1/
+> CONTEXT: Skills/323/message1/
+> CONTEXT: Skills/328/message1/
+> CONTEXT: Skills/346/message1/
+> CONTEXT: Skills/352/message1/
+> CONTEXT: Skills/353/message1/
+> CONTEXT: Skills/440/message1/
+> CONTEXT: Skills/442/message1/
+> CONTEXT: Skills/443/message1/
+> CONTEXT: Skills/445/message1/
+> CONTEXT: Skills/446/message1/
+> CONTEXT: Skills/447/message1/
+> CONTEXT: Skills/450/message1/
+> CONTEXT: Skills/451/message1/
+> CONTEXT: Skills/456/message1/
+> CONTEXT: Skills/535/message1/
+> CONTEXT: Skills/536/message1/
+> CONTEXT: Skills/537/message1/
+> CONTEXT: Skills/538/message1/
+ loads ammo into his firearm.#Dargoth
+> END STRING
+
+> BEGIN STRING
+敵単体に物理の小ダメージを与える。装弾数\\V[18]/15
+> CONTEXT: Skills/82/description/
+> CONTEXT: Skills/316/description/
+> CONTEXT: Skills/329/description/
+Deals low physical damage to one foe. Rounds \\V[18]/15#Dargoth
+> END STRING
+
+> BEGIN STRING
+はマシンピストルを撃った！
+> CONTEXT: Skills/82/message1/
+> CONTEXT: Skills/329/message1/
+> CONTEXT: Skills/441/message1/
+> CONTEXT: Skills/772/message1/
+ fires his machine pistol!#Dargoth
+> END STRING
+
+> BEGIN STRING
+マシンピストルのリロードを行う。
+銃内に残った弾は『\\I[895]9mmパラベラム弾』になる。
+> CONTEXT: Skills/83/description/
+> CONTEXT: Skills/84/description/
+Reload your machine pistol. Remaining rounds
+in the old magazine are placed in your inventory.#Dargoth
+> END STRING
+
+> BEGIN STRING
+【バーゲストの交尾相手】Lv1
+> CONTEXT: Skills/85/name/
+[Barghest Mating]Lv1#Dargoth
+> END STRING
+
+> BEGIN STRING
+\\C[10]バーゲストに犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、ダメージが２０％増加する。
+> CONTEXT: Skills/85/description/
+\\C[10]The pleasure of being raped by a barghest sticks in your mind.
+Increases damage taken from this monster by 20%.#Dargoth
+> END STRING
+
+> BEGIN STRING
+【バーゲストの交尾相手】Lv2
+> CONTEXT: Skills/86/name/
+[Barghest Mating]Lv2#Dargoth
+> END STRING
+
+> BEGIN STRING
+\\C[10]バーゲストに犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、勝手に毎ターン性欲が５％上昇する。
+> CONTEXT: Skills/86/description/
+\\C[10]The pleasure of being raped by a barghest sticks in your mind.
+Increases lust 5% every turn when fighting this monster.#Dargoth
+> END STRING
+
+> BEGIN STRING
+【バーゲストの交尾相手】Lv3
+> CONTEXT: Skills/87/name/
+[Barghest Mating]Lv3#Dargoth
+> END STRING
+
+> BEGIN STRING
+\\C[10]バーゲストに犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、最大抵抗力が８０％になる。
+> CONTEXT: Skills/87/description/
+\\C[10]The pleasure of being raped by a barghest sticks in your mind.
+Maximum willpower reduced to 80% when fighting this monster.#Dargoth
+> END STRING
+
+> BEGIN STRING
+【バーゲストの交尾相手】Lv4
+> CONTEXT: Skills/88/name/
+[Barghest Mating]Lv4#Dargoth
+> END STRING
+
+> BEGIN STRING
+\\C[10]バーゲストに犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、最大気力が８０％になる。
+> CONTEXT: Skills/88/description/
+\\C[10]The pleasure of being raped by a barghest sticks in your mind.
+Maximum vitality reduced to 80% when fighting this monster.#Dargoth
+> END STRING
+
+> BEGIN STRING
+【バーゲストの交尾相手】LvMAX
+> CONTEXT: Skills/89/name/
+[Barghest Mating]MAX#Dargoth
+> END STRING
+
+> BEGIN STRING
+\\C[10]バーゲストに犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、特殊アクシデント戦闘が発生する事がある。
+> CONTEXT: Skills/89/description/
+\\C[10]The pleasure of being raped by a barghest sticks in your mind.
+Special accident battles can occur against this monster.#Dargoth
+> END STRING
+
+> BEGIN STRING
+敵単体に物理の中ダメージ。装弾数\\V[19]/2
+> CONTEXT: Skills/90/description/
+Deals medium physical damage to one foe. Rounds \\V[19]/2#Dargoth
+> END STRING
+
+> BEGIN STRING
+はショットガンを撃った！
+> CONTEXT: Skills/90/message1/
+> CONTEXT: Skills/213/message1/
+> CONTEXT: Skills/214/message1/
+> CONTEXT: Skills/324/message1/
+> CONTEXT: Skills/444/message1/
+> CONTEXT: Skills/449/message1/
+> CONTEXT: Skills/452/message1/
+> CONTEXT: Skills/773/message1/
+ fires his shotgun!#Dargoth
+> END STRING
+
+> BEGIN STRING
+リロードを行う。
+銃内に残った弾は『\\I[895]ショットシェル』になる。
+> CONTEXT: Skills/91/description/
+> CONTEXT: Skills/92/description/
+Deals medium physical damage to one foe. Rounds \\V[19]/2#afrg
+> END STRING
+
+> BEGIN STRING
+サイ・エアロ
+> CONTEXT: Skills/93/name/
+> CONTEXT: Skills/154/name/
+Psi Arrow#Dargoth
+> END STRING
+
+> BEGIN STRING
+風属性のダメージを与える。
+相手を突き飛ばし、ほとんどの軽度拘束を解除できる。
+> CONTEXT: Skills/93/description/
+> CONTEXT: Skills/94/description/
+> CONTEXT: Skills/95/description/
+> CONTEXT: Skills/651/description/
+Deals wind damage.
+Blows opponent back and removes most flimsy bindings.#Dargoth
+> END STRING
+
+> BEGIN STRING
+はサイ・エアロを放った！
+> CONTEXT: Skills/93/message1/
+> CONTEXT: Skills/154/message1/
+ casts Psi Arrow!#Dargoth
+> END STRING
+
+> BEGIN STRING
+サイ・ブラスト
+> CONTEXT: Skills/94/name/
+> CONTEXT: Skills/651/name/
+Psi Blast#Dargoth
+> END STRING
+
+> BEGIN STRING
+はサイ・ブラストを放った！
+> CONTEXT: Skills/94/message1/
+> CONTEXT: Skills/651/message1/
+ casts Psi Blast!#Dargoth
+> END STRING
+
+> BEGIN STRING
+サイ・トルネード
+> CONTEXT: Skills/95/name/
+Psi Tornado#Dargoth
+> END STRING
+
+> BEGIN STRING
+はサイ・トルネードを放った！
+> CONTEXT: Skills/95/message1/
+ casts Psi Tornado!#Dargoth
+> END STRING
+
+> BEGIN STRING
+サイ・フレイ
+> CONTEXT: Skills/96/name/
+Psi Frei#Dargoth
+> END STRING
+
+> BEGIN STRING
+火属性のダメージを与える。
+基本威力は属性攻撃の中では最高レベル。
+> CONTEXT: Skills/96/description/
+> CONTEXT: Skills/97/description/
+> CONTEXT: Skills/98/description/
+> CONTEXT: Skills/296/description/
+> CONTEXT: Skills/297/description/
+> CONTEXT: Skills/298/description/
+> CONTEXT: Skills/585/description/
+> CONTEXT: Skills/586/description/
+> CONTEXT: Skills/587/description/
+> CONTEXT: Skills/623/description/
+> CONTEXT: Skills/624/description/
+> CONTEXT: Skills/740/description/
+Deals fire damage.
+Strongest of all elements in base power.#Dargoth
+> END STRING
+
+> BEGIN STRING
+はサイ・フレイを放った！
+> CONTEXT: Skills/96/message1/
+ casts Psi Frei!#Dargoth
+> END STRING
+
+> BEGIN STRING
+サイ・フレイラ
+> CONTEXT: Skills/97/name/
+Psi Freila#Dargoth
+> END STRING
+
+> BEGIN STRING
+はサイ・フレイラを放った！
+> CONTEXT: Skills/97/message1/
+ casts Psi Freila!#Dargoth
+> END STRING
+
+> BEGIN STRING
+サイ・メギド
+> CONTEXT: Skills/98/name/
+> CONTEXT: Skills/740/name/
+Psi Megido#Dargoth
+> END STRING
+
+> BEGIN STRING
+はサイ・メギドを放った！
+> CONTEXT: Skills/98/message1/
+> CONTEXT: Skills/740/message1/
+ casts Psi Megido!#Dargoth
+> END STRING
+
+> BEGIN STRING
+サイ・アイス
+> CONTEXT: Skills/99/name/
+> CONTEXT: Skills/253/name/
+Psi Ice#Dargoth
+> END STRING
+
+> BEGIN STRING
+氷属性のダメージを与える。
+相手の敏捷力を下げる効果がある。
+> CONTEXT: Skills/99/description/
+> CONTEXT: Skills/100/description/
+> CONTEXT: Skills/101/description/
+> CONTEXT: Skills/253/description/
+> CONTEXT: Skills/742/description/
+> CONTEXT: Skills/745/description/
+Deals ice damage.
+Reduces opponent's agility.#Dargoth
+> END STRING
+
+> BEGIN STRING
+はサイ・アイスを放った！
+> CONTEXT: Skills/99/message1/
+> CONTEXT: Skills/253/message1/
+ casts Psi Ice!#Dargoth
+> END STRING
+
+> BEGIN STRING
+サイ・アイシクル
+> CONTEXT: Skills/100/name/
+> CONTEXT: Skills/742/name/
+Psi Icicle#Dargoth
+> END STRING
+
+> BEGIN STRING
+はサイ・アイシクルを放った！
+> CONTEXT: Skills/100/message1/
+> CONTEXT: Skills/742/message1/
+ casts Psi Icicle!#Dargoth
+> END STRING
+
+> BEGIN STRING
+サイ・ブリザード
+> CONTEXT: Skills/101/name/
+> CONTEXT: Skills/745/name/
+Psi Blizzard#Dargoth
+> END STRING
+
+> BEGIN STRING
+はサイ・ブリザードを放った！
+> CONTEXT: Skills/101/message1/
+> CONTEXT: Skills/745/message1/
+ casts Psi Blizzard!#afrg
+> END STRING
+
+> BEGIN STRING
+サイ・エレキ
+> CONTEXT: Skills/102/name/
+Psi Jolt#Dargoth
+> END STRING
+
+> BEGIN STRING
+雷属性のダメージを与える。
+相手を低確率でスタンさせる。
+> CONTEXT: Skills/102/description/
+> CONTEXT: Skills/103/description/
+> CONTEXT: Skills/104/description/
+> CONTEXT: Skills/553/description/
+> CONTEXT: Skills/741/description/
+> CONTEXT: Skills/744/description/
+> CONTEXT: Skills/746/description/
+Deals lightning damage.
+Low chance to stun opponent.#Dargoth
+> END STRING
+
+> BEGIN STRING
+はサイ・エレキを放った！
+> CONTEXT: Skills/102/message1/
+ casts Psi Jolt!#Dargoth
+> END STRING
+
+> BEGIN STRING
+サイ・サンダー
+> CONTEXT: Skills/103/name/
+Psi Thunder#Dargoth
+> END STRING
+
+> BEGIN STRING
+はサイ・サンダーを放った！
+> CONTEXT: Skills/103/message1/
+ casts Psi Thunder!#Dargoth
+> END STRING
+
+> BEGIN STRING
+サイ・ボルテッカ
+> CONTEXT: Skills/104/name/
+> CONTEXT: Skills/746/name/
+Psi Volt Tackle#Dargoth
+> END STRING
+
+> BEGIN STRING
+はサイ・ボルテッカを放った！
+> CONTEXT: Skills/104/message1/
+> CONTEXT: Skills/746/message1/
+ casts Psi Volt Tackle!#Dargoth
+> END STRING
+
+> BEGIN STRING
+ホットリミット
+> CONTEXT: Skills/105/name/
+> CONTEXT: Skills/106/name/
+> CONTEXT: Skills/107/name/
+> CONTEXT: Skills/108/name/
+> CONTEXT: Skills/109/name/
+Limit Break#Dargoth
+> END STRING
+
+> BEGIN STRING
+５ターンの間、使用者の物理攻撃力を上げる。
+> CONTEXT: Skills/105/description/
+> CONTEXT: Skills/106/description/
+> CONTEXT: Skills/107/description/
+Raise the user's physical attack power for 5 turns. #afrg
+> END STRING
+
+> BEGIN STRING
+はホットリミットを放った！
+> CONTEXT: Skills/105/message1/
+> CONTEXT: Skills/106/message1/
+> CONTEXT: Skills/107/message1/
+> CONTEXT: Skills/108/message1/
+> CONTEXT: Skills/109/message1/
+ casts Limit Break!#Dargoth
+> END STRING
+
+> BEGIN STRING
+３ターンの間、使用者の物理攻撃力を2段階上げる。
+> CONTEXT: Skills/108/description/
+Increases the caster's physical attack two steps for 3 turns.#Dargoth
+> END STRING
+
+> BEGIN STRING
+５ターンの間、使用者の物理・魔法攻撃力を上げる。
+> CONTEXT: Skills/109/description/
+Raise the physical and magical attack power of the user for 5
+turns.#afrg
+> END STRING
+
+> BEGIN STRING
+５ターンの間、恍惚・傀儡・パニック・恐怖にかかりにくくなる。
+> CONTEXT: Skills/110/description/
+> CONTEXT: Skills/111/description/
+> CONTEXT: Skills/112/description/
+> CONTEXT: Skills/113/description/
+> CONTEXT: Skills/114/description/
+> CONTEXT: Skills/588/description/
+> CONTEXT: Skills/591/description/
+> CONTEXT: Skills/715/description/
+Makes it less likely to be affected by Ecstasy, Puppet and
+Terror for 5 turns. (afrg: It doesn't seem to actually do any of this)#afrg
+> CONTEXT: Skills/626/description/
+Makes it less likely to be affected by Ecstasy, Puppet,
+Panic, and Fear for 5 turns.#afrgPR
+> END STRING
+
+> BEGIN STRING
+はクールカームを使った！
+> CONTEXT: Skills/110/message1/
+> CONTEXT: Skills/111/message1/
+> CONTEXT: Skills/112/message1/
+> CONTEXT: Skills/113/message1/
+> CONTEXT: Skills/114/message1/
+ casts Cool Calm! #Dargoth
+> END STRING
+
+> BEGIN STRING
+５ターンの間、回避率が５０％上昇する。
+主に物理攻撃に効果絶大。
+> CONTEXT: Skills/115/description/
+> CONTEXT: Skills/116/description/
+Raises evasion 50% for 5 turns.
+Very effective against physical attackers.#Dargoth
+> END STRING
+
+> BEGIN STRING
+はシルフストームを放った！
+> CONTEXT: Skills/115/message1/
+> CONTEXT: Skills/116/message1/
+> CONTEXT: Skills/117/message1/
+> CONTEXT: Skills/118/message1/
+> CONTEXT: Skills/119/message1/
+ casts Sylph Storm!#Dargoth
+> END STRING
+
+> BEGIN STRING
+５ターンの間、回避率が７０％上昇する。
+主に物理攻撃に効果絶大。
+> CONTEXT: Skills/117/description/
+> CONTEXT: Skills/118/description/
+Raises evasion 70% for 5 turns.
+Very effective against physical attackers.#Dargoth
+> END STRING
+
+> BEGIN STRING
+５ターンの間、回避率が９０％上昇する。
+主に物理攻撃に効果絶大。
+> CONTEXT: Skills/119/description/
+Raises evasion 90% for 5 turns.
+Very effective against physical attackers.#Dargoth
+> END STRING
+
+> BEGIN STRING
+ボルテクステップ
+> CONTEXT: Skills/120/name/
+> CONTEXT: Skills/121/name/
+> CONTEXT: Skills/122/name/
+> CONTEXT: Skills/123/name/
+> CONTEXT: Skills/124/name/
+Voltaic Step#Dargoth
+> END STRING
+
+> BEGIN STRING
+５ターンの間、使用者の先制確率を上げる。
+重ね掛け可能。
+> CONTEXT: Skills/120/description/
+> CONTEXT: Skills/121/description/
+> CONTEXT: Skills/122/description/
+Raise probability of acting first for 5 turns. 
+Can be stacked.#afrg
+> END STRING
+
+> BEGIN STRING
+は雷の力を脚に込めた！
+> CONTEXT: Skills/120/message1/
+> CONTEXT: Skills/121/message1/
+> CONTEXT: Skills/122/message1/
+> CONTEXT: Skills/123/message1/
+> CONTEXT: Skills/124/message1/
+ charges his legs with the power of lightning!#Dargoth
+> END STRING
+
+> BEGIN STRING
+５ターンの間、使用者の先制確率と物理命中率を上げる。
+重ね掛け可能。
+> CONTEXT: Skills/123/description/
+> CONTEXT: Skills/124/description/
+Raise probability of acting first and accuracy 
+for 5 turns.  Can be stacked.#afrg
+> END STRING
+
+> BEGIN STRING
+様子を見る
+> CONTEXT: Skills/126/name/
+> CONTEXT: Skills/128/name/
+> CONTEXT: Skills/261/name/
+Watch Attentively#Dargoth
+> END STRING
+
+> BEGIN STRING
+は\\N[1]の様子を伺っている…
+> CONTEXT: Skills/126/message1/
+> CONTEXT: Skills/261/message1/
+ watches \\N[1] attentively...#Dargoth
+> END STRING
+
+> BEGIN STRING
+吸精
+> CONTEXT: Skills/127/name/
+Energy Suck#Dargoth
+> END STRING
+
+> BEGIN STRING
+敵単体に対して強力な攻撃を行う。
+> CONTEXT: Skills/127/description/
+> CONTEXT: Skills/131/description/
+> CONTEXT: Skills/137/description/
+> CONTEXT: Skills/141/description/
+> CONTEXT: Skills/142/description/
+> CONTEXT: Skills/144/description/
+> CONTEXT: Skills/145/description/
+> CONTEXT: Skills/146/description/
+> CONTEXT: Skills/147/description/
+> CONTEXT: Skills/148/description/
+> CONTEXT: Skills/156/description/
+> CONTEXT: Skills/157/description/
+> CONTEXT: Skills/159/description/
+> CONTEXT: Skills/161/description/
+> CONTEXT: Skills/162/description/
+> CONTEXT: Skills/163/description/
+> CONTEXT: Skills/165/description/
+> CONTEXT: Skills/168/description/
+> CONTEXT: Skills/177/description/
+> CONTEXT: Skills/186/description/
+> CONTEXT: Skills/187/description/
+> CONTEXT: Skills/188/description/
+> CONTEXT: Skills/259/description/
+> CONTEXT: Skills/262/description/
+> CONTEXT: Skills/276/description/
+> CONTEXT: Skills/305/description/
+> CONTEXT: Skills/333/description/
+> CONTEXT: Skills/334/description/
+> CONTEXT: Skills/364/description/
+> CONTEXT: Skills/366/description/
+> CONTEXT: Skills/368/description/
+> CONTEXT: Skills/381/description/
+> CONTEXT: Skills/392/description/
+> CONTEXT: Skills/393/description/
+> CONTEXT: Skills/399/description/
+> CONTEXT: Skills/400/description/
+> CONTEXT: Skills/402/description/
+> CONTEXT: Skills/415/description/
+> CONTEXT: Skills/416/description/
+> CONTEXT: Skills/417/description/
+> CONTEXT: Skills/467/description/
+> CONTEXT: Skills/469/description/
+> CONTEXT: Skills/470/description/
+> CONTEXT: Skills/471/description/
+> CONTEXT: Skills/517/description/
+> CONTEXT: Skills/518/description/
+> CONTEXT: Skills/522/description/
+> CONTEXT: Skills/524/description/
+> CONTEXT: Skills/590/description/
+> CONTEXT: Skills/625/description/
+> CONTEXT: Skills/630/description/
+> CONTEXT: Skills/638/description/
+> CONTEXT: Skills/647/description/
+> CONTEXT: Skills/648/description/
+> CONTEXT: Skills/650/description/
+> CONTEXT: Skills/652/description/
+> CONTEXT: Skills/653/description/
+> CONTEXT: Skills/677/description/
+> CONTEXT: Skills/682/description/
+> CONTEXT: Skills/697/description/
+> CONTEXT: Skills/698/description/
+> CONTEXT: Skills/699/description/
+> CONTEXT: Skills/710/description/
+> CONTEXT: Skills/711/description/
+> CONTEXT: Skills/723/description/
+> CONTEXT: Skills/726/description/
+> CONTEXT: Skills/730/description/
+> CONTEXT: Skills/731/description/
+> CONTEXT: Skills/732/description/
+> CONTEXT: Skills/743/description/
+> CONTEXT: Skills/747/description/
+> CONTEXT: Skills/769/description/
+> CONTEXT: Skills/789/description/
+Perform a powerful attack against one foe.#Dargoth
+> END STRING
+
+> BEGIN STRING
+は\\n[1]と唇を重ね、精気を吸い始めた…！
+> CONTEXT: Skills/127/message1/
+ puts her lips on \\n[1]'s and begins to suck out his energy!#Dargoth
+> END STRING
+
+> BEGIN STRING
+全身を走り抜ける快感に、思わず身体の力が抜けていく……
+> CONTEXT: Skills/127/message2/
+Pure pleasure courses through his veins and saps his strength...#Dargoth
+> END STRING
+
+> BEGIN STRING
+は\\N[1]の様子を見て愉しんでいる…
+> CONTEXT: Skills/128/message1/
+ is enjoying watching \\N[1]...#Dargoth
+> END STRING
+
+> BEGIN STRING
+■■バーゲスト\#\#\#
+> CONTEXT: Skills/130/name/
+■■Barghest\#\#\##Dargoth
+> END STRING
+
+> BEGIN STRING
+魔獣の爪
+> CONTEXT: Skills/131/name/
+> CONTEXT: Skills/625/name/
+> CONTEXT: Skills/630/name/
+Beast Claw#Dargoth
+> END STRING
+
+> BEGIN STRING
+は魔獣の爪を放った！
+> CONTEXT: Skills/131/message1/
+> CONTEXT: Skills/625/message1/
+> CONTEXT: Skills/630/message1/
+ casts Beast Claw!#Dargoth
+> END STRING
+
+> BEGIN STRING
+雄たけび
+> CONTEXT: Skills/132/name/
+Roar#Dargoth
+> END STRING
+
+> BEGIN STRING
+相手のバランスを崩させる。
+> CONTEXT: Skills/132/description/
+> CONTEXT: Skills/153/description/
+> CONTEXT: Skills/158/description/
+> CONTEXT: Skills/170/description/
+> CONTEXT: Skills/171/description/
+> CONTEXT: Skills/175/description/
+> CONTEXT: Skills/179/description/
+> CONTEXT: Skills/183/description/
+> CONTEXT: Skills/263/description/
+> CONTEXT: Skills/300/description/
+> CONTEXT: Skills/307/description/
+> CONTEXT: Skills/336/description/
+> CONTEXT: Skills/337/description/
+> CONTEXT: Skills/339/description/
+> CONTEXT: Skills/341/description/
+> CONTEXT: Skills/343/description/
+> CONTEXT: Skills/363/description/
+> CONTEXT: Skills/550/description/
+> CONTEXT: Skills/551/description/
+> CONTEXT: Skills/552/description/
+> CONTEXT: Skills/555/description/
+> CONTEXT: Skills/556/description/
+> CONTEXT: Skills/620/description/
+> CONTEXT: Skills/621/description/
+> CONTEXT: Skills/622/description/
+> CONTEXT: Skills/628/description/
+> CONTEXT: Skills/639/description/
+> CONTEXT: Skills/640/description/
+> CONTEXT: Skills/655/description/
+> CONTEXT: Skills/695/description/
+> CONTEXT: Skills/696/description/
+> CONTEXT: Skills/768/description/
+Causes your opponent to lose their balance.#Dargoth
+> END STRING
+
+> BEGIN STRING
+は雄たけびを上げた！
+> CONTEXT: Skills/132/message1/
+ lets out a loud roar!#Dargoth
+> END STRING
+
+> BEGIN STRING
+視姦
+> CONTEXT: Skills/133/name/
+> CONTEXT: Skills/681/name/
+Eye Rape#Dargoth
+> END STRING
+
+> BEGIN STRING
+。
+> CONTEXT: Skills/133/description/
+> CONTEXT: Skills/134/description/
+> CONTEXT: Skills/135/description/
+> CONTEXT: Skills/136/description/
+> CONTEXT: Skills/138/description/
+> CONTEXT: Skills/139/description/
+> CONTEXT: Skills/151/description/
+> CONTEXT: Skills/152/description/
+> CONTEXT: Skills/172/description/
+> CONTEXT: Skills/178/description/
+> CONTEXT: Skills/182/description/
+> CONTEXT: Skills/192/description/
+> CONTEXT: Skills/194/description/
+> CONTEXT: Skills/301/description/
+> CONTEXT: Skills/303/description/
+> CONTEXT: Skills/331/description/
+> CONTEXT: Skills/335/description/
+> CONTEXT: Skills/338/description/
+> CONTEXT: Skills/340/description/
+> CONTEXT: Skills/360/description/
+> CONTEXT: Skills/365/description/
+> CONTEXT: Skills/369/description/
+> CONTEXT: Skills/395/description/
+> CONTEXT: Skills/396/description/
+> CONTEXT: Skills/397/description/
+> CONTEXT: Skills/398/description/
+> CONTEXT: Skills/411/description/
+> CONTEXT: Skills/412/description/
+> CONTEXT: Skills/413/description/
+> CONTEXT: Skills/414/description/
+> CONTEXT: Skills/418/description/
+> CONTEXT: Skills/419/description/
+> CONTEXT: Skills/468/description/
+> CONTEXT: Skills/515/description/
+> CONTEXT: Skills/520/description/
+> CONTEXT: Skills/521/description/
+> CONTEXT: Skills/554/description/
+> CONTEXT: Skills/645/description/
+> CONTEXT: Skills/646/description/
+> CONTEXT: Skills/654/description/
+> CONTEXT: Skills/659/description/
+> CONTEXT: Skills/660/description/
+> CONTEXT: Skills/670/description/
+> CONTEXT: Skills/673/description/
+> CONTEXT: Skills/674/description/
+> CONTEXT: Skills/675/description/
+> CONTEXT: Skills/676/description/
+> CONTEXT: Skills/681/description/
+> CONTEXT: Skills/683/description/
+> CONTEXT: Skills/686/description/
+> CONTEXT: Skills/687/description/
+> CONTEXT: Skills/690/description/
+> CONTEXT: Skills/693/description/
+> CONTEXT: Skills/694/description/
+> CONTEXT: Skills/700/description/
+> CONTEXT: Skills/721/description/
+> CONTEXT: Skills/767/description/
+> CONTEXT: Skills/791/description/
+> CONTEXT: Skills/792/description/
+.#Dargoth
+> END STRING
+
+> BEGIN STRING
+は吟味するようないやらしい視線を送った！
+> CONTEXT: Skills/133/message1/
+> CONTEXT: Skills/681/message1/
+ lewdly stares at \\N[1] from head to toe!#Dargoth
+> END STRING
+
+> BEGIN STRING
+交尾の誘い
+> CONTEXT: Skills/134/name/
+> CONTEXT: Skills/138/name/
+Mating Invitation#Dargoth
+> END STRING
+
+> BEGIN STRING
+は身体をくねらせ\\N[1]を欲しがっている…
+> CONTEXT: Skills/134/message1/
+> CONTEXT: Skills/135/message1/
+> CONTEXT: Skills/138/message1/
+> CONTEXT: Skills/139/message1/
+> CONTEXT: Skills/395/message1/
+> CONTEXT: Skills/396/message1/
+ shakes her body in clear desire for \\N[1]...#Dargoth
+> END STRING
+
+> BEGIN STRING
+交尾の誘い（失敗）
+> CONTEXT: Skills/135/name/
+> CONTEXT: Skills/139/name/
+Mating Invitation (Failure)#Dargoth
+> END STRING
+
+> BEGIN STRING
+押し倒し
+> CONTEXT: Skills/136/name/
+> CONTEXT: Skills/468/name/
+> CONTEXT: Skills/515/name/
+> CONTEXT: Skills/520/name/
+> CONTEXT: Skills/521/name/
+> CONTEXT: Skills/767/name/
+Pin Down#Dargoth
+> END STRING
+
+> BEGIN STRING
+は勢いよく飛びかかってきた！！
+> CONTEXT: Skills/136/message1/
+> CONTEXT: Skills/468/message1/
+> CONTEXT: Skills/515/message1/
+> CONTEXT: Skills/520/message1/
+> CONTEXT: Skills/521/message1/
+> CONTEXT: Skills/767/message1/
+ forcefully leaps on top of \\N[1]!#Dargoth
+> END STRING
+
+> BEGIN STRING
+野性の腰振り
+> CONTEXT: Skills/137/name/
+> CONTEXT: Skills/144/name/
+> CONTEXT: Skills/366/name/
+> CONTEXT: Skills/402/name/
+Wild Hip Thrusts#Dargoth
+> END STRING
+
+> BEGIN STRING
+は腰を激しく振り始めた！！
+> CONTEXT: Skills/137/message1/
+> CONTEXT: Skills/144/message1/
+> CONTEXT: Skills/187/message1/
+> CONTEXT: Skills/188/message1/
+> CONTEXT: Skills/366/message1/
+> CONTEXT: Skills/402/message1/
+> CONTEXT: Skills/522/message1/
+ wildly bucks her hips!#Dargoth
+> END STRING
+
+> BEGIN STRING
+耳しゃぶり
+> CONTEXT: Skills/140/name/
+> CONTEXT: Skills/166/name/
+> CONTEXT: Skills/176/name/
+Ear Suck#Dargoth
+> END STRING
+
+> BEGIN STRING
+は\\N[1]の耳に夢中でしゃぶりついた！
+> CONTEXT: Skills/140/message1/
+> CONTEXT: Skills/166/message1/
+> CONTEXT: Skills/176/message1/
+ is engrossed in sucking on \\N[1]'s ear!#Dargoth
+> END STRING
+
+> BEGIN STRING
+耳の隅々をねっちょりと舐め回される・・・
+> CONTEXT: Skills/140/message2/
+> CONTEXT: Skills/166/message2/
+> CONTEXT: Skills/176/message2/
+Her tongue probes all the nooks and crannies of \\N[1]'s ear!#Dargoth
+> END STRING
+
+> BEGIN STRING
+種付けホールド
+> CONTEXT: Skills/141/name/
+Copulation Hold#Dargoth
+> END STRING
+
+> BEGIN STRING
+は膣内を締め付け、射精を促した！
+> CONTEXT: Skills/141/message1/
+ tightens her vagina to stimulate an ejaculation!#Dargoth
+> END STRING
+
+> BEGIN STRING
+下半身を挟んでいる脚の力が強まっていく…
+> CONTEXT: Skills/141/message2/
+> CONTEXT: Skills/469/message2/
+She tightens the grip her legs have around \\N[1]'s body...#Dargoth
+> END STRING
+
+> BEGIN STRING
+すりより
+> CONTEXT: Skills/142/name/
+Snuggle#Dargoth
+> END STRING
+
+> BEGIN STRING
+は無邪気にすりよってきた！
+> CONTEXT: Skills/142/message1/
+ innocently snuggles up to \\N[1]!#Dargoth
+> END STRING
+
+> BEGIN STRING
+執拗に頭を股間に擦りつけてくる…！
+> CONTEXT: Skills/142/message2/
+She relentlessly rubs her face between \\N[1]'s legs!#Dargoth
+> END STRING
+
+> BEGIN STRING
+ネックバイト
+> CONTEXT: Skills/143/name/
+Neck Bite#Dargoth
+> END STRING
+
+> BEGIN STRING
+は\\N[1]の首筋に甘くかぶりついた！！
+> CONTEXT: Skills/143/message1/
+ sensually play bites \\N[1]'s neck!#Dargoth
+> END STRING
+
+> BEGIN STRING
+バーゲストの舌と一緒に牙が首にチクチクと当たる……
+> CONTEXT: Skills/143/message2/
+Her fangs prick the skin as her tongue licks his neck!#Dargoth
+> END STRING
+
+> BEGIN STRING
+舌遊び
+> CONTEXT: Skills/145/name/
+Tongue Play#Dargoth
+> END STRING
+
+> BEGIN STRING
+は\\n[1]と唇を重ね、口内を舐め回した！
+> CONTEXT: Skills/145/message1/
+ kisses \\N[1] and forces her tongue past his lips!#Dargoth
+> END STRING
+
+> BEGIN STRING
+バーゲストの長い舌が、ねっとりと侵入してくる…！
+> CONTEXT: Skills/145/message2/
+The barghest's long, wet tongue raids his mouth!#Dargoth
+> END STRING
+
+> BEGIN STRING
+オス縛りの膣圧
+> CONTEXT: Skills/146/name/
+> CONTEXT: Skills/156/name/
+> CONTEXT: Skills/648/name/
+Squeezing Pressure#Dargoth
+> END STRING
+
+> BEGIN STRING
+は\\n[1]のペニスを膣の根元まで沈めた！
+> CONTEXT: Skills/146/message1/
+> CONTEXT: Skills/156/message1/
+> CONTEXT: Skills/648/message1/
+ submerges \\N[1]'s penis deep into her pussy!#Dargoth
+> END STRING
+
+> BEGIN STRING
+ギュウギュウと膣内でペニスが締め付けられる…！
+> CONTEXT: Skills/146/message2/
+> CONTEXT: Skills/156/message2/
+> CONTEXT: Skills/648/message2/
+Her tight canal presses hard against it from all sides!#Dargoth
+> END STRING
+
+> BEGIN STRING
+搾精の宴
+> CONTEXT: Skills/147/name/
+Milking Feast#Dargoth
+> END STRING
+
+> BEGIN STRING
+達は貪欲にエサを貪っている……
+> CONTEXT: Skills/147/message1/
+s greedily indulge in their prey...#Dargoth
+> END STRING
+
+> BEGIN STRING
+舌まぐわい
+> CONTEXT: Skills/148/name/
+Tongue Sex#Dargoth
+> END STRING
+
+> BEGIN STRING
+の舌が、さらに深く侵入してくる…
+> CONTEXT: Skills/148/message1/
+'s tongue raids even deeper...#Dargoth
+> END STRING
+
+> BEGIN STRING
+這い回る舌と唾液が、口内でいやらしい音を立てている
+> CONTEXT: Skills/148/message2/
+The mixture of tongues and saliva make lewd squishing noises.#Dargoth
+> END STRING
+
+> BEGIN STRING
+■■アイアンメイデン\#\#\#
+> CONTEXT: Skills/150/name/
+■■Iron Maiden\#\#\##Dargoth
+> END STRING
+
+> BEGIN STRING
+淫乱の触手
+> CONTEXT: Skills/151/name/
+> CONTEXT: Skills/152/name/
+> CONTEXT: Skills/554/name/
+Erotic Tentacles#Dargoth
+> END STRING
+
+> BEGIN STRING
+は複数の触手を飛ばしてきた！！
+> CONTEXT: Skills/151/message1/
+> CONTEXT: Skills/152/message1/
+> CONTEXT: Skills/554/message1/
+ reaches out with a mass of tentacles!#Dargoth
+> END STRING
+
+> BEGIN STRING
+\\N[1]を捕まえようと蠢きながら迫ってくる…！！
+> CONTEXT: Skills/151/message2/
+> CONTEXT: Skills/152/message2/
+> CONTEXT: Skills/178/message2/
+> CONTEXT: Skills/192/message2/
+> CONTEXT: Skills/194/message2/
+> CONTEXT: Skills/335/message2/
+> CONTEXT: Skills/340/message2/
+> CONTEXT: Skills/397/message2/
+> CONTEXT: Skills/398/message2/
+> CONTEXT: Skills/673/message2/
+> CONTEXT: Skills/674/message2/
+> CONTEXT: Skills/675/message2/
+> CONTEXT: Skills/676/message2/
+> CONTEXT: Skills/683/message2/
+> CONTEXT: Skills/686/message2/
+> CONTEXT: Skills/687/message2/
+> CONTEXT: Skills/690/message2/
+> CONTEXT: Skills/693/message2/
+> CONTEXT: Skills/694/message2/
+They wiggle and squirm, attempting to capture \\N[1]!#Dargoth
+> END STRING
+
+> BEGIN STRING
+誘惑の吐息
+> CONTEXT: Skills/153/name/
+> CONTEXT: Skills/158/name/
+> CONTEXT: Skills/263/name/
+> CONTEXT: Skills/336/name/
+> CONTEXT: Skills/339/name/
+> CONTEXT: Skills/363/name/
+> CONTEXT: Skills/550/name/
+Seductive Breath#Dargoth
+> END STRING
+
+> BEGIN STRING
+は魔力のこもった吐息を吹きかけてきた！
+> CONTEXT: Skills/153/message1/
+> CONTEXT: Skills/158/message1/
+> CONTEXT: Skills/263/message1/
+> CONTEXT: Skills/336/message1/
+> CONTEXT: Skills/339/message1/
+> CONTEXT: Skills/363/message1/
+> CONTEXT: Skills/550/message1/
+ blows a breath laced with magical power!#Dargoth
+> END STRING
+
+> BEGIN STRING
+風属性のダメージを与える。
+追加で「蹴り飛ばし」と同じ効果を得る。
+> CONTEXT: Skills/154/description/
+Deals wind damage.
+Also doubles as Kick Away.#Dargoth
+> END STRING
+
+> BEGIN STRING
+服従の胸圧
+> CONTEXT: Skills/155/name/
+> CONTEXT: Skills/246/name/
+> CONTEXT: Skills/332/name/
+> CONTEXT: Skills/361/name/
+> CONTEXT: Skills/380/name/
+> CONTEXT: Skills/403/name/
+> CONTEXT: Skills/516/name/
+> CONTEXT: Skills/678/name/
+> CONTEXT: Skills/727/name/
+> CONTEXT: Skills/793/name/
+Breasts of Submission#Dargoth
+> END STRING
+
+> BEGIN STRING
+は豊満な胸で\\N[1]の顔をもみくちゃにした！
+> CONTEXT: Skills/155/message1/
+> CONTEXT: Skills/246/message1/
+> CONTEXT: Skills/361/message1/
+ smothers \\N[1]'s face between her huge fruits!#Dargoth
+> END STRING
+
+> BEGIN STRING
+あまりの気持ちよさに\\N[1]の気力がどんどん失われていく…
+> CONTEXT: Skills/155/message2/
+They feel so good, \\N[1] is losing vitality...#Dargoth
+> END STRING
+
+> BEGIN STRING
+もてあそびの脈動
+> CONTEXT: Skills/157/name/
+> CONTEXT: Skills/177/name/
+> CONTEXT: Skills/653/name/
+> CONTEXT: Skills/723/name/
+Titillating Pulsation#Dargoth
+> END STRING
+
+> BEGIN STRING
+の肉壁がいやらしく脈打った
+> CONTEXT: Skills/157/message1/
+> CONTEXT: Skills/177/message1/
+> CONTEXT: Skills/653/message1/
+> CONTEXT: Skills/723/message1/
+'s fleshy walls pulse lasciviously.#Dargoth
+> END STRING
+
+> BEGIN STRING
+優しい圧迫感に、みるみる抵抗の意志が失われていく…
+> CONTEXT: Skills/157/message2/
+> CONTEXT: Skills/177/message2/
+> CONTEXT: Skills/305/message2/
+> CONTEXT: Skills/653/message2/
+> CONTEXT: Skills/723/message2/
+The gentle embrace wears down \\N[1]'s resistance...#Dargoth
+> END STRING
+
+> BEGIN STRING
+乳首いじり
+> CONTEXT: Skills/159/name/
+> CONTEXT: Skills/518/name/
+> CONTEXT: Skills/682/name/
+Nipple Tease#Dargoth
+> END STRING
+
+> BEGIN STRING
+は\\n[1]の乳首を優しくいじり始めた！
+> CONTEXT: Skills/159/message1/
+> CONTEXT: Skills/518/message1/
+> CONTEXT: Skills/682/message1/
+ gently toys with \\N[1]'s nipples!#Dargoth
+> END STRING
+
+> BEGIN STRING
+胸の上でつままれ、クリクリと弄ばれてる…
+> CONTEXT: Skills/159/message2/
+> CONTEXT: Skills/682/message2/
+She pulls at them and gives them little twists...#Dargoth
+> END STRING
+
+> BEGIN STRING
+慈しみの接吻
+> CONTEXT: Skills/160/name/
+Affectionate Kiss#Dargoth
+> END STRING
+
+> BEGIN STRING
+は\\N[1]の頬に優しくキスをした！
+> CONTEXT: Skills/160/message1/
+ plants a tender kiss on \\N[1]'s cheek!#Dargoth
+> END STRING
+
+> BEGIN STRING
+彼女に身を任せたい衝動が襲ってくる…！
+> CONTEXT: Skills/160/message2/
+> CONTEXT: Skills/310/message2/
+\\N[1] is hit with a strong urge to surrender!#Dargoth
+> END STRING
+
+> BEGIN STRING
+男堕としの乳首攻め
+> CONTEXT: Skills/161/name/
+Feminizing Nipple Assault#Dargoth
+> END STRING
+
+> BEGIN STRING
+は\\n[1]の乳首を激しく弄んだ！
+> CONTEXT: Skills/161/message1/
+ plays intensely with \\N[1]'s nipples!#Dargoth
+> END STRING
+
+> BEGIN STRING
+興奮した\\N[1]の身体に、電流のように快感が走る…！！
+> CONTEXT: Skills/161/message2/
+It sends a shock of pleasure through \\N[1]'s body!#Dargoth
+> END STRING
+
+> BEGIN STRING
+降服の囁き
+> CONTEXT: Skills/162/name/
+Enticement to Surrender#Dargoth
+> END STRING
+
+> BEGIN STRING
+は\\n[1]に屈服するように囁いた。
+> CONTEXT: Skills/162/message1/
+ whispers seductively into \\n[1]'s ear.#Dargoth
+> END STRING
+
+> BEGIN STRING
+彼女の妖艶な声が脳内にクラクラと響く……
+> CONTEXT: Skills/162/message2/
+Her honeyed words echo within \\n[1]'s skull...#Dargoth
+> END STRING
+
+> BEGIN STRING
+フェザー・シェイク
+> CONTEXT: Skills/163/name/
+> CONTEXT: Skills/517/name/
+Feather Shake#Dargoth
+> END STRING
+
+> BEGIN STRING
+は\\n[1]のペニスを優しくしごきはじめた！！
+> CONTEXT: Skills/163/message1/
+> CONTEXT: Skills/165/message1/
+> CONTEXT: Skills/368/message1/
+> CONTEXT: Skills/381/message1/
+> CONTEXT: Skills/517/message1/
+> CONTEXT: Skills/769/message1/
+ gently strokes \\N[1]'s penis!#Dargoth
+> END STRING
+
+> BEGIN STRING
+彼女の繊細な手が、ペニスをゆっくりと刺激する…
+> CONTEXT: Skills/163/message2/
+> CONTEXT: Skills/165/message2/
+> CONTEXT: Skills/381/message2/
+> CONTEXT: Skills/769/message2/
+Her delicate fingers deftly stimulate his penis...#Dargoth
+> END STRING
+
+> BEGIN STRING
+檻から抜け出す
+> CONTEXT: Skills/164/name/
+Coffin Breakout#Dargoth
+> END STRING
+
+> BEGIN STRING
+\\C[2]このバトル専用のスキル。\\C[0]
+他部位には目もくれずに足に力を入れ、脱出を試みる。
+> CONTEXT: Skills/164/description/
+\\C[2]Only used in this battle.\\C[0]
+Ignore everything but trying to free your legs to escape.#Dargoth
+> END STRING
+
+> BEGIN STRING
+ヘヴン・シェイク
+> CONTEXT: Skills/165/name/
+> CONTEXT: Skills/381/name/
+> CONTEXT: Skills/769/name/
+Heaven Shake#Dargoth
+> END STRING
+
+> BEGIN STRING
+感獄の磔
+> CONTEXT: Skills/167/name/
+Pleasure Prison Crucifixion#Dargoth
+> END STRING
+
+> BEGIN STRING
+は\\N[1]の腕に重ねるように手を乗せた
+> CONTEXT: Skills/167/message1/
+ folds \\N[1]'s arms across his chest.#Dargoth
+> END STRING
+
+> BEGIN STRING
+そのまま腕ごと彼女の服部分に包み込まれていく…！！
+> CONTEXT: Skills/167/message2/
+Her arm-like clothing wraps \\N[1] up!#Dargoth
+> END STRING
+
+> BEGIN STRING
+バックスタブ
+> CONTEXT: Skills/168/name/
+Backstab#Dargoth
+> END STRING
+
+> BEGIN STRING
+は\\n[1]のアナルに、グリグリと触手をねじ込んだ！
+> CONTEXT: Skills/168/message1/
+ screws a slimy tentacle into \\N[1]'s ass!#Dargoth
+> END STRING
+
+> BEGIN STRING
+前立腺が刺激され、急激な快感が\\N[1]を襲う……！！
+> CONTEXT: Skills/168/message2/
+It assaults his prostate with intense pleasure!#Dargoth
+> END STRING
+
+> BEGIN STRING
+■■ランパス\#\#\#
+> CONTEXT: Skills/169/name/
+■■Lampas\#\#\##Dargoth
+> END STRING
+
+> BEGIN STRING
+気狂いの花粉
+> CONTEXT: Skills/170/name/
+> CONTEXT: Skills/171/name/
+Intoxicating Pollen#Dargoth
+> END STRING
+
+> BEGIN STRING
+のツタを伝って甘い匂いを吸わされる…
+> CONTEXT: Skills/170/message1/
+> CONTEXT: Skills/179/message1/
+> CONTEXT: Skills/183/message1/
+> CONTEXT: Skills/695/message1/
+'s ivy delivers a sweet-smelling gas...#Dargoth
+> END STRING
+
+> BEGIN STRING
+\\N[1]の理性がどんどん失われていく…
+> CONTEXT: Skills/170/message2/
+> CONTEXT: Skills/179/message2/
+> CONTEXT: Skills/183/message2/
+> CONTEXT: Skills/695/message2/
+\\N[1] is losing his ability to reason...#Dargoth
+> END STRING
+
+> BEGIN STRING
+の周囲から甘い匂いが漂う…
+> CONTEXT: Skills/171/message1/
+ releases a sweet smell that wafts through the air...#Dargoth
+> END STRING
+
+> BEGIN STRING
+彼女に身を任せたい衝動が襲ってくる…
+> CONTEXT: Skills/171/message2/
+\\N[1] feels an irresistible urge to surrender...#Dargoth
+> END STRING
+
+> BEGIN STRING
+甘い口車
+> CONTEXT: Skills/172/name/
+> CONTEXT: Skills/331/name/
+> CONTEXT: Skills/645/name/
+> CONTEXT: Skills/660/name/
+Sweet Nothings#Dargoth
+> END STRING
+
+> BEGIN STRING
+は\\N[1]に甘い誘惑をもちかけた！
+> CONTEXT: Skills/172/message1/
+> CONTEXT: Skills/331/message1/
+> CONTEXT: Skills/645/message1/
+> CONTEXT: Skills/660/message1/
+ tries to seduce \\N[1] with words of affection!#Dargoth
+> END STRING
+
+> BEGIN STRING
+接吻ツタ
+> CONTEXT: Skills/173/name/
+> CONTEXT: Skills/193/name/
+Kissing Ivy#Dargoth
+> END STRING
+
+> BEGIN STRING
+のツタがグパァと開き\\N[1]の口を襲う！
+> CONTEXT: Skills/173/message1/
+> CONTEXT: Skills/193/message1/
+'s ivy opens wide and attaches itself to \\N[1]'s face!#Dargoth
+> END STRING
+
+> BEGIN STRING
+吸引のツタ
+> CONTEXT: Skills/174/name/
+Sucking Ivy#Dargoth
+> END STRING
+
+> BEGIN STRING
+のグパァと開いたツタが\\N[1]の身体を這う
+> CONTEXT: Skills/174/message1/
+'s ivy opens wide and latches onto \\N[1]'s body!#Dargoth
+> END STRING
+
+> BEGIN STRING
+乳首にチュウチュウと貪欲に吸い付いてくる…
+> CONTEXT: Skills/174/message2/
+Two strands of ivy greedily suck on his nipples...#Dargoth
+> END STRING
+
+> BEGIN STRING
+濃蜜のくちうつし
+> CONTEXT: Skills/175/name/
+Nectar Feeding#Dargoth
+> END STRING
+
+> BEGIN STRING
+から甘い蜜を口移しで飲まされる…
+> CONTEXT: Skills/175/message1/
+ dribbles sweet nectar from her mouth into \\N[1]'s.#Dargoth
+> END STRING
+
+> BEGIN STRING
+\\N[1]は一滴もこぼさず夢中で飲んでしまっている…
+> CONTEXT: Skills/175/message2/
+\\N[1] gulps down every last drop...#Dargoth
+> END STRING
+
+> BEGIN STRING
+淫乱のツタ
+> CONTEXT: Skills/178/name/
+> CONTEXT: Skills/192/name/
+> CONTEXT: Skills/194/name/
+> CONTEXT: Skills/693/name/
+> CONTEXT: Skills/694/name/
+Erotic Ivy#Dargoth
+> END STRING
+
+> BEGIN STRING
+は複数のツタを飛ばしてきた！！
+> CONTEXT: Skills/178/message1/
+> CONTEXT: Skills/182/message1/
+> CONTEXT: Skills/192/message1/
+> CONTEXT: Skills/194/message1/
+> CONTEXT: Skills/693/message1/
+> CONTEXT: Skills/694/message1/
+ reaches out with several vines of ivy!#Dargoth
+> END STRING
+
+> BEGIN STRING
+脱力の花粉
+> CONTEXT: Skills/179/name/
+> CONTEXT: Skills/183/name/
+> CONTEXT: Skills/695/name/
+> CONTEXT: Skills/696/name/
+Drain Pollen#Dargoth
+> END STRING
+
+> BEGIN STRING
+搾精ツタ
+> CONTEXT: Skills/180/name/
+Milking Ivy#Dargoth
+> END STRING
+
+> BEGIN STRING
+のいやらしく蠢くツタが\\N[1]の股間に吸い付いた！
+> CONTEXT: Skills/180/message1/
+'s wriggling ivy attach to \\N[1]'s crotch!#Dargoth
+> END STRING
+
+> BEGIN STRING
+乳首しゃぶり
+> CONTEXT: Skills/181/name/
+Nipple Suck#Dargoth
+> END STRING
+
+> BEGIN STRING
+のツタは\\N[1]の乳首に夢中でしゃぶりついた！
+> CONTEXT: Skills/181/message1/
+'s ivy greedily sucks on \\N[1]'s nipples! #Dargoth
+> END STRING
+
+> BEGIN STRING
+敏感な部分を重点的に舐められ続けている…
+> CONTEXT: Skills/181/message2/
+They focus on licking the most sensitive places!#Dargoth
+> END STRING
+
+> BEGIN STRING
+重縛のツタ
+> CONTEXT: Skills/182/name/
+Ivy Shackles#Dargoth
+> END STRING
+
+> BEGIN STRING
+ギチギチとキツく手を締め付けられる…！！
+> CONTEXT: Skills/182/message2/
+Ivy tightly coils around \\N[1]'s arms!#Dargoth
+> END STRING
+
+> BEGIN STRING
+服を剥ぐ
+> CONTEXT: Skills/184/name/
+> CONTEXT: Skills/466/name/
+> CONTEXT: Skills/704/name/
+> CONTEXT: Skills/712/name/
+Strip#Dargoth
+> END STRING
+
+> BEGIN STRING
+は\\N[1]の服を強引に剥いだ！
+> CONTEXT: Skills/184/message1/
+> CONTEXT: Skills/466/message1/
+> CONTEXT: Skills/704/message1/
+> CONTEXT: Skills/712/message1/
+ tears the clothes off \\N[1]!#Dargoth
+> END STRING
+
+> BEGIN STRING
+フット・シザー
+> CONTEXT: Skills/185/name/
+Foot Scissors#Dargoth
+> END STRING
+
+> BEGIN STRING
+は\\N[1]に馬乗りになり、足でペニスを挟み込んだ！
+> CONTEXT: Skills/185/message1/
+ mounts \\N[1] and squishes his penis between her feet!#Dargoth
+> END STRING
+
+> BEGIN STRING
+葯戯れ
+> CONTEXT: Skills/186/name/
+Stamen Play#Dargoth
+> END STRING
+
+> BEGIN STRING
+の足でペニスがグリグリと刺激される！
+> CONTEXT: Skills/186/message1/
+'s feet grind against \\N[1]'s penis!#Dargoth
+> END STRING
+
+> BEGIN STRING
+ネバネバの粘液が絡み合い、いやらしい音を立てている…
+> CONTEXT: Skills/186/message2/
+Her sticky sap makes lewd squishing sounds!#Dargoth
+> END STRING
+
+> BEGIN STRING
+受粉の催促
+> CONTEXT: Skills/187/name/
+> CONTEXT: Skills/188/name/
+Pollination Press#Dargoth
+> END STRING
+
+> BEGIN STRING
+ヒップ・プレス
+> CONTEXT: Skills/189/name/
+Hip Press#Dargoth
+> END STRING
+
+> BEGIN STRING
+は\\N[1]の顔を自分の尻で押しつぶした！
+> CONTEXT: Skills/189/message1/
+ squashes \\N[1]'s face with her ass!#Dargoth
+> END STRING
+
+> BEGIN STRING
+さらにグリグリと腰をくねらせて体重をかけられる…
+> CONTEXT: Skills/189/message2/
+She presses down hard and gyrates her hips!#Dargoth
+> END STRING
+
+> BEGIN STRING
+足遊び
+> CONTEXT: Skills/190/name/
+Foot Play#Dargoth
+> END STRING
+
+> BEGIN STRING
+は\\N[1]の頭をもう片方の脚で撫でてきた！
+> CONTEXT: Skills/190/message1/
+ strokes \\N[1] on the head with another leg!#Dargoth
+> END STRING
+
+> BEGIN STRING
+芳醇な匂いも相まって頭がクラクラする…
+> CONTEXT: Skills/190/message2/
+Its sensation and mellow smell is making him dizzy...#Dargoth
+> END STRING
+
+> BEGIN STRING
+【ランパスの愛好肥料】Lv1
+> CONTEXT: Skills/196/name/
+[Lampas Fertilizer]Lv1#Dargoth
+> END STRING
+
+> BEGIN STRING
+\\C[10]ランパスに犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、ダメージが２０％増加する。
+> CONTEXT: Skills/196/description/
+\\C[10]The pleasure of being raped by a lampas sticks in your mind.
+Increases damage taken from this monster by 20%.#Dargoth
+> END STRING
+
+> BEGIN STRING
+【ランパスの愛好肥料】Lv2
+> CONTEXT: Skills/197/name/
+[Lampas Fertilizer]Lv2#Dargoth
+> END STRING
+
+> BEGIN STRING
+\\C[10]ランパスに犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、勝手に毎ターン性欲が５％上昇する。
+> CONTEXT: Skills/197/description/
+\\C[10]The pleasure of being raped by a lampas sticks in your mind.
+Increases lust 5% every turn when fighting this monster.#Dargoth
+> END STRING
+
+> BEGIN STRING
+【ランパスの愛好肥料】Lv3
+> CONTEXT: Skills/198/name/
+[Lampas Fertilizer]Lv3#Dargoth
+> END STRING
+
+> BEGIN STRING
+\\C[10]ランパスに犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、最大抵抗力が８０％になる。
+> CONTEXT: Skills/198/description/
+\\C[10]The pleasure of being raped by a lampas sticks in your mind.
+Maximum willpower reduced to 80% when fighting this monster.#Dargoth
+> END STRING
+
+> BEGIN STRING
+【ランパスの愛好肥料】Lv4
+> CONTEXT: Skills/199/name/
+[Lampas Fertilizer]Lv4#Dargoth
+> END STRING
+
+> BEGIN STRING
+\\C[10]ランパスに犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、最大気力が８０％になる。
+> CONTEXT: Skills/199/description/
+\\C[10]The pleasure of being raped by a lampas sticks in your mind.
+Maximum vitality reduced to 80% when fighting this monster.#Dargoth
+> END STRING
+
+> BEGIN STRING
+【ランパスの愛好肥料】LvMAX
+> CONTEXT: Skills/200/name/
+[Lampas Fertilizer]MAX#Dargoth
+> END STRING
+
+> BEGIN STRING
+\\C[10]ランパスに犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、特殊アクシデント戦闘が発生する事がある。
+> CONTEXT: Skills/200/description/
+\\C[10]The pleasure of being raped by a lampas sticks in your mind.
+Special accident battles can occur against this monster.#Dargoth
+> END STRING
+
+> BEGIN STRING
+の周囲の空間が歪んでいく…！！
+> CONTEXT: Skills/203/message1/
+> CONTEXT: Skills/204/message1/
+> CONTEXT: Skills/205/message1/
+> CONTEXT: Skills/206/message1/
+> CONTEXT: Skills/207/message1/
+> CONTEXT: Skills/255/message1/
+> CONTEXT: Skills/256/message1/
+'s surroundings are being distorted!#Dargoth
+> END STRING
+
+> BEGIN STRING
+リロード（大容量）
+> CONTEXT: Skills/210/name/
+> CONTEXT: Skills/211/name/
+Reload (High Cap.)#Dargoth
+> END STRING
+
+> BEGIN STRING
+ハンドガンのリロードを行う。マガジン２個消費
+銃内に残った弾は『\\I[895]9mmパラベラム弾』になる。
+> CONTEXT: Skills/210/description/
+Reload your handgun with 2 magazines. Remaining rounds
+in the old magazine are placed in your inventory.#Dargoth
+> END STRING
+
+> BEGIN STRING
+マシンピストルのリロードを行う。マガジン２個消費
+銃内に残った弾は『\\I[895]9mmパラベラム弾』になる。
+> CONTEXT: Skills/211/description/
+> CONTEXT: Skills/447/description/
+Reload your machine pistol with 2 magazines. Remaining rounds
+in the old magazine are placed in your inventory.#Dargoth
+> END STRING
+
+> BEGIN STRING
+バーストショット
+> CONTEXT: Skills/212/name/
+> CONTEXT: Skills/213/name/
+> CONTEXT: Skills/327/name/
+Burst Shot#Dargoth
+> END STRING
+
+> BEGIN STRING
+敵単体に３連射の小ダメージを与える。装弾数\\V[7]/10
+> CONTEXT: Skills/212/description/
+Fire 3 low damage shots at one foe. Rounds \\V[7]/10#Dargoth
+> END STRING
+
+> BEGIN STRING
+２発動時発射して一気に大ダメージを与える。
+装弾数\\V[19]/2
+> CONTEXT: Skills/213/description/
+Blast foe with both barrels for high damage.
+Rounds \\V[19]/2#Dargoth
+> END STRING
+
+> BEGIN STRING
+ミリオンショット
+> CONTEXT: Skills/214/name/
+Million Shot#afrg
+> END STRING
+
+> BEGIN STRING
+６発動時発射して一気に特大ダメージを与える。
+装弾数\\V[19]/6
+> CONTEXT: Skills/214/description/
+Deal extreme damage by firing six times at once.
+Rounds \\V[19]/6#afrg
+> END STRING
+
+> BEGIN STRING
+【メイデンの快獄囚人】Lv1
+> CONTEXT: Skills/215/name/
+[Maiden's Prisoner]Lv1#Dargoth
+> END STRING
+
+> BEGIN STRING
+\\C[10]アイアンメイデンに犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、ダメージが２０％増加する。
+> CONTEXT: Skills/215/description/
+\\C[10]The pleasure given by the Iron Maiden sticks in your mind.
+Increases damage taken from this monster by 20%.#Dargoth
+> END STRING
+
+> BEGIN STRING
+【メイデンの快獄囚人】Lv2
+> CONTEXT: Skills/216/name/
+[Maiden's Prisoner]Lv2#Dargoth
+> END STRING
+
+> BEGIN STRING
+\\C[10]アイアンメイデンに犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、勝手に毎ターン性欲が５％上昇する。
+> CONTEXT: Skills/216/description/
+\\C[10]The pleasure given by the Iron Maiden sticks in your mind.
+Increases lust 5% every turn when fighting this monster.#Dargoth
+> END STRING
+
+> BEGIN STRING
+【メイデンの快獄囚人】Lv3
+> CONTEXT: Skills/217/name/
+[Maiden's Prisoner]Lv3#Dargoth
+> END STRING
+
+> BEGIN STRING
+\\C[10]アイアンメイデンに犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、最大抵抗力が８０％になる。
+> CONTEXT: Skills/217/description/
+\\C[10]The pleasure given by the Iron Maiden sticks in your mind.
+Maximum willpower reduced to 80% when fighting this monster.#Dargoth
+> END STRING
+
+> BEGIN STRING
+【メイデンの快獄囚人】Lv4
+> CONTEXT: Skills/218/name/
+[Maiden's Prisoner]Lv4#Dargoth
+> END STRING
+
+> BEGIN STRING
+\\C[10]アイアンメイデンに犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、最大気力が８０％になる。
+> CONTEXT: Skills/218/description/
+\\C[10]The pleasure given by the Iron Maiden sticks in your mind.
+Maximum vitality reduced to 80% when fighting this monster.#Dargoth
+> END STRING
+
+> BEGIN STRING
+【メイデンの快獄囚人】LvMAX
+> CONTEXT: Skills/219/name/
+[Maiden's Prisoner]MAX#Dargoth
+> END STRING
+
+> BEGIN STRING
+\\C[10]アイアンメイデンに犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、特殊アクシデント戦闘が発生する事がある。
+> CONTEXT: Skills/219/description/
+\\C[10]The pleasure given by the Iron Maiden sticks in your mind.
+Special accident battles can occur against this monster.#Dargoth
+> END STRING
+
+> BEGIN STRING
+\\C[2]最後の力を振り絞り、人としての『抵抗』を見せる
+\\C[10]迷っている時間はないぞ！！
+> CONTEXT: Skills/233/description/
+\\C[2]Muster your last bit of strength and show the power of
+the human will. \\C[10]There's no time to hesitate!#Dargoth
+> END STRING
+
+> BEGIN STRING
+は渾身の力で思いきり暴れた！
+> CONTEXT: Skills/233/message1/
+ struggles with all his might!#Dargoth
+> END STRING
+
+> BEGIN STRING
+濃蜜の授乳
+> CONTEXT: Skills/245/name/
+Nectar Suckling#Dargoth
+> END STRING
+
+> BEGIN STRING
+は\\N[1]に乳房を押し当て、グリグリと体重をかけてきた！
+> CONTEXT: Skills/245/message1/
+> CONTEXT: Skills/304/message1/
+ cradles \\N[1] tightly against her breast!#Dargoth
+> END STRING
+
+> BEGIN STRING
+彼女の乳首から出てくる蜜を夢中で飲んでしまう……
+> CONTEXT: Skills/245/message2/
+He deliriously sucks the rich nectar from her nipple.#Dargoth
+> END STRING
+
+> BEGIN STRING
+あまりの気持ちよさに\\N[1]の抵抗力がどんどん失われていく…
+> CONTEXT: Skills/246/message2/
+> CONTEXT: Skills/361/message2/
+An overload of pleasure is crushing \\N[1]'s willpower...#Dargoth
+> END STRING
+
+> BEGIN STRING
+■■エンプーサ\#\#\#
+> CONTEXT: Skills/249/name/
+■■Empuse\#\#\##Dargoth
+> END STRING
+
+> BEGIN STRING
+の腕鎌が真空波をまとい\\N[1]に振り下ろされた！
+> CONTEXT: Skills/250/message1/
+ aims vacuum waves at \\N[1]'s with downward swipes!#Dargoth
+> END STRING
+
+> BEGIN STRING
+キャプチャ・フォール
+> CONTEXT: Skills/251/name/
+Capture Fall#Dargoth
+> END STRING
+
+> BEGIN STRING
+は腕の鎌で\\N[1]に掴みかかった！！
+> CONTEXT: Skills/251/message1/
+ captures \\N[1] with her scythe arms!#Dargoth
+> END STRING
+
+> BEGIN STRING
+スタン・インパクト
+> CONTEXT: Skills/252/name/
+Stun Impact#Dargoth
+> END STRING
+
+> BEGIN STRING
+は直接鎌を\\N[1]に向けて叩き付けた！
+> CONTEXT: Skills/252/message1/
+ slashes her scythes directly towards \\N[1]!#Dargoth
+> END STRING
+
+> BEGIN STRING
+殺葬乱舞
+> CONTEXT: Skills/254/name/
+> CONTEXT: Skills/342/name/
+> CONTEXT: Skills/748/name/
+Funeral Dance#Dargoth
+> END STRING
+
+> BEGIN STRING
+の腕がまるで舞のように振り回される！！
+> CONTEXT: Skills/254/message1/
+> CONTEXT: Skills/342/message1/
+> CONTEXT: Skills/748/message1/
+ flourishes her arms as if she's dancing!#Dargoth
+> END STRING
+
+> BEGIN STRING
+魂狩の葬送曲
+> CONTEXT: Skills/257/name/
+> CONTEXT: Skills/270/name/
+Soul-hunting Funeral March#Dargoth
+> END STRING
+
+> BEGIN STRING
+の腕鎌が素早く\\N[1]に振り下ろされた！
+> CONTEXT: Skills/257/message1/
+> CONTEXT: Skills/270/message1/
+ rapidly swings her scythes down at \\N[1]!#Dargoth
+> END STRING
+
+> BEGIN STRING
+ヒップ・ホールド
+> CONTEXT: Skills/258/name/
+Hip Hold#Dargoth
+> END STRING
+
+> BEGIN STRING
+の舌が\\N[1]にどんどん絡みついてくる…
+> CONTEXT: Skills/258/message1/
+> CONTEXT: Skills/260/message1/
+ twines her tongue round and round \\N[1]...#Dargoth
+> END STRING
+
+> BEGIN STRING
+ヘヴンサック
+> CONTEXT: Skills/259/name/
+> CONTEXT: Skills/393/name/
+> CONTEXT: Skills/590/name/
+Heaven Suck#Dargoth
+> END STRING
+
+> BEGIN STRING
+は\\n[1]のペニスを激しくしゃぶった！！
+> CONTEXT: Skills/259/message1/
+> CONTEXT: Skills/393/message1/
+> CONTEXT: Skills/590/message1/
+ intensely sucks on \\N[1]'s penis!#Dargoth
+> END STRING
+
+> BEGIN STRING
+\\N[1]の身体に、ゾクゾクと絶えず快感が走る…！！
+> CONTEXT: Skills/259/message2/
+> CONTEXT: Skills/262/message2/
+> CONTEXT: Skills/393/message2/
+> CONTEXT: Skills/590/message2/
+Constant waves of pleasure run through \\N[1]'s body!#Dargoth
+> END STRING
+
+> BEGIN STRING
+ハンティング・ホールド
+> CONTEXT: Skills/260/name/
+Hunting Hold#Dargoth
+> END STRING
+
+> BEGIN STRING
+とうとう身体の大部分が舌に包まれてしまった！！！
+> CONTEXT: Skills/260/message2/
+Most of his body ends up enveloped by her tongue!#Dargoth
+> END STRING
+
+> BEGIN STRING
+ブレインサック
+> CONTEXT: Skills/262/name/
+Brain Suck#Dargoth
+> END STRING
+
+> BEGIN STRING
+は\\n[1]の頭を激しくしゃぶった！！
+> CONTEXT: Skills/262/message1/
+ furiously sucks on \\N[1]'s head!#Dargoth
+> END STRING
+
+> BEGIN STRING
+戦意喪失
+> CONTEXT: Skills/264/name/
+Loss of Heart#Dargoth
+> END STRING
+
+> BEGIN STRING
+は戦う意志を失っている…
+> CONTEXT: Skills/264/message1/
+ has lost the will to fight...#Dargoth
+> END STRING
+
+> BEGIN STRING
+【エンプーサのつがい】Lv1
+> CONTEXT: Skills/265/name/
+[Empuse's Partner]Lv1#Dargoth
+> END STRING
+
+> BEGIN STRING
+\\C[10]エンプーサに犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、ダメージが２０％増加する。
+> CONTEXT: Skills/265/description/
+\\C[10]The pleasure of being raped by an empuse sticks in your mind.
+Increases damage taken from this monster by 20%.#Dargoth
+> END STRING
+
+> BEGIN STRING
+【エンプーサのつがい】Lv2
+> CONTEXT: Skills/266/name/
+[Empuse's Partner]Lv2#Dargoth
+> END STRING
+
+> BEGIN STRING
+\\C[10]エンプーサに犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、勝手に毎ターン性欲が５％上昇する。
+> CONTEXT: Skills/266/description/
+\\C[10]The pleasure of being raped by Empuse sticks in your mind.
+Increases lust 5% every turn when fighting this monster.#DargothPR
+> END STRING
+
+> BEGIN STRING
+【エンプーサのつがい】Lv3
+> CONTEXT: Skills/267/name/
+[Empuse's Partner]Lv3#Dargoth
+> END STRING
+
+> BEGIN STRING
+\\C[10]エンプーサに犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、最大抵抗力が８０％になる。
+> CONTEXT: Skills/267/description/
+\\C[10]The pleasure of being raped by Empuse sticks in your mind.
+Maximum willpower reduced to 80% when fighting this monster.#DargothPR
+> END STRING
+
+> BEGIN STRING
+【エンプーサのつがい】Lv4
+> CONTEXT: Skills/268/name/
+[Empuse's Partner]Lv4#Dargoth
+> END STRING
+
+> BEGIN STRING
+\\C[10]エンプーサに犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、最大気力が８０％になる。
+> CONTEXT: Skills/268/description/
+\\C[10]The pleasure of being raped by Empuse sticks in your mind.
+Maximum vitality reduced to 80% when fighting this monster.#DargothPR
+> END STRING
+
+> BEGIN STRING
+【エンプーサのつがい】LvMAX
+> CONTEXT: Skills/269/name/
+[Empuse's Partner]MAX#Dargoth
+> END STRING
+
+> BEGIN STRING
+\\C[10]エンプーサに犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、特殊アクシデント戦闘が発生する事がある。
+> CONTEXT: Skills/269/description/
+\\C[10]The pleasure of being raped by Empuse sticks in your mind.
+Special accident battles can occur against this monster.#DargothPR
+> END STRING
+
+> BEGIN STRING
+ごしゅじんの命令（ふせ）
+> CONTEXT: Skills/271/name/
+Master's Orders (Down)#Dargoth
+> END STRING
+
+> BEGIN STRING
+は\\N[1]に命令をした！
+> CONTEXT: Skills/271/message1/
+> CONTEXT: Skills/272/message1/
+> CONTEXT: Skills/273/message1/
+> CONTEXT: Skills/274/message1/
+ gives a command to \\N[1]!#Dargoth
+> END STRING
+
+> BEGIN STRING
+なぜか\\N[1]の身体は逆らえない……！！
+> CONTEXT: Skills/271/message2/
+> CONTEXT: Skills/272/message2/
+> CONTEXT: Skills/273/message2/
+> CONTEXT: Skills/274/message2/
+Strangely, \\N[1]'s body can't disobey!#Dargoth
+> END STRING
+
+> BEGIN STRING
+ごしゅじんの命令（ぬげ）
+> CONTEXT: Skills/272/name/
+Master's Orders (Strip)#Dargoth
+> END STRING
+
+> BEGIN STRING
+ごしゅじんの命令（ちんちん）
+> CONTEXT: Skills/273/name/
+Master's Orders (Penis)#Dargoth
+> END STRING
+
+> BEGIN STRING
+ごしゅじんの命令（なけ）
+> CONTEXT: Skills/274/name/
+Master's Orders (Bark)#Dargoth
+> END STRING
+
+> BEGIN STRING
+おしおき
+> CONTEXT: Skills/275/name/
+Punishment#Dargoth
+> END STRING
+
+> BEGIN STRING
+は\\N[1]を足で蹴った！
+> CONTEXT: Skills/275/message1/
+ kicks \\N[1] with her foot!#Dargoth
+> END STRING
+
+> BEGIN STRING
+なぜか\\N[1]の身体は興奮してしまっている……！！
+> CONTEXT: Skills/275/message2/
+For some reason, it arouses \\N[1]!#Dargoth
+> END STRING
+
+> BEGIN STRING
+あやしゆりかご
+> CONTEXT: Skills/276/name/
+Soothing Cradle#Dargoth
+> END STRING
+
+> BEGIN STRING
+はゆっくりと腰を前後にゆらし始めた…
+> CONTEXT: Skills/276/message1/
+ begins rhythmically rocking her waist back and forth...#Dargoth
+> END STRING
+
+> BEGIN STRING
+\\N[1]のペニスが膣に優しくピストンされる…
+> CONTEXT: Skills/276/message2/
+\\N[1]'s penis is gently stroked inside her vagina...#Dargoth
+> END STRING
+
+> BEGIN STRING
+リバースストーム
+> CONTEXT: Skills/278/name/
+Reverse Storm#Dargoth
+> END STRING
+
+> BEGIN STRING
+相手の『シルフストーム』の効果を打ち消す。
+> CONTEXT: Skills/278/description/
+> CONTEXT: Skills/714/description/
+> CONTEXT: Skills/751/description/
+Cancels the effect of your opponent's [Sylph Storm].#Dargoth
+> END STRING
+
+> BEGIN STRING
+はリバースストームを放った！
+> CONTEXT: Skills/278/message1/
+ casts Reverse Storm!#Dargoth
+> END STRING
+
+> BEGIN STRING
+目を覚ます【１】
+> CONTEXT: Skills/279/name/
+Wake Up [1]#Dargoth
+> END STRING
+
+> BEGIN STRING
+目を覚まそうと試みる。
+これを発動できれば目が覚めて勝利となる。
+> CONTEXT: Skills/279/description/
+> CONTEXT: Skills/287/description/
+> CONTEXT: Skills/688/description/
+Try to wake yourself up from the dream.
+This will finally wake you up if successful.#Dargoth
+> END STRING
+
+> BEGIN STRING
+は目を覚まそうとした！！
+> CONTEXT: Skills/279/message1/
+> CONTEXT: Skills/280/message1/
+> CONTEXT: Skills/281/message1/
+> CONTEXT: Skills/282/message1/
+> CONTEXT: Skills/285/message1/
+ tries to wake up!#Dargoth
+> END STRING
+
+> BEGIN STRING
+目を覚ます【２】
+> CONTEXT: Skills/280/name/
+Wake Up [2]#Dargoth
+> END STRING
+
+> BEGIN STRING
+目を覚まそうと試みる。
+成功率は高いがまだまだ油断できない。
+> CONTEXT: Skills/280/description/
+Try to wake yourself up from the dream.
+You're looking good, but don't get careless.#Dargoth
+> END STRING
+
+> BEGIN STRING
+目を覚ます【３】
+> CONTEXT: Skills/281/name/
+Wake Up [3]#Dargoth
+> END STRING
+
+> BEGIN STRING
+目を覚まそうと試みる。
+まだ余裕はあるが、下手な気は起こさない方が良い
+> CONTEXT: Skills/281/description/
+Try to wake yourself up from the dream.
+You still have leeway, but you better not mess up.#Dargoth
+> END STRING
+
+> BEGIN STRING
+目を覚ます【４】
+> CONTEXT: Skills/282/name/
+Wake Up [4]#Dargoth
+> END STRING
+
+> BEGIN STRING
+目を覚まそうと試みる。
+かなり危険だ。もう目覚めないかもしれない。
+> CONTEXT: Skills/282/description/
+Try to wake yourself up from the dream.
+You're in grave danger of never waking up again.#Dargoth
+> END STRING
+
+> BEGIN STRING
+甘える
+> CONTEXT: Skills/283/name/
+Indulge Yourself#Dargoth
+> END STRING
+
+> BEGIN STRING
+相手の攻めに乗り、甘えてしまう。
+きっとすごく心地良いだろう。
+> CONTEXT: Skills/283/description/
+Relax and let your partner spoil you rotten. It'll
+probably feel really good.#Dargoth
+> END STRING
+
+> BEGIN STRING
+は相手に思いっきり甘えた…
+> CONTEXT: Skills/283/message1/
+ indulges himself for a while...#Dargoth
+> END STRING
+
+> BEGIN STRING
+身体を預ける
+> CONTEXT: Skills/284/name/
+Entrust#Dargoth
+> END STRING
+
+> BEGIN STRING
+相手に身を任せて、全身の力を抜く。
+きっと夢のような心地だろう。
+> CONTEXT: Skills/284/description/
+Surrender your body to your partner and just relax.
+It's all just a dream, anyway.#Dargoth
+> END STRING
+
+> BEGIN STRING
+は力を抜き、相手に身体を預けた……
+> CONTEXT: Skills/284/message1/
+ goes limp and entrusts his body to his partner...#Dargoth
+> END STRING
+
+> BEGIN STRING
+目を覚ます【５】
+> CONTEXT: Skills/285/name/
+Wake Up [5]#Dargoth
+> END STRING
+
+> BEGIN STRING
+目を覚まそうと試みる。
+神に祈れ。
+> CONTEXT: Skills/285/description/
+Try to wake yourself up from the dream.
+Pray that it works.#Dargoth
+> END STRING
+
+> BEGIN STRING
+幸運のお守り
+> CONTEXT: Skills/287/name/
+Good Luck Charm#Dargoth
+> END STRING
+
+> BEGIN STRING
+の幸運のお守りが光り出した！
+> CONTEXT: Skills/287/message1/
+'s good luck charm shines!#Dargoth
+> END STRING
+
+> BEGIN STRING
+不思議な力があふれてくる…！
+> CONTEXT: Skills/287/message2/
+It overflows with a strange power!#Dargoth
+> END STRING
+
+> BEGIN STRING
+インサイド
+> CONTEXT: Skills/288/name/
+Inside#afrg
+> END STRING
+
+> BEGIN STRING
+リズムに合わせて足を動かす、基本的な初級ダンス。
+\\c[2]【ボタン数】３【制限時間】５秒\\}\\C[0]【前回ダンス】\\V[130]
+> CONTEXT: Skills/288/description/
+> CONTEXT: Skills/313/description/
+> CONTEXT: Skills/314/description/
+> CONTEXT: Skills/702/description/
+> CONTEXT: Skills/703/description/
+Basic beginner dance move, where one's legs are moved rythmically.
+\\c[2]【Button Count】３【Time Limit】５\\}\\C[0]【Previous Dance】\\V[130]#afrg
+> CONTEXT: Skills/315/description/
+Rythmic leg move, beginner dance figure.
+\\c[2]Button Count:3 Time Limit:5\\}\\C[0] Previous Move:\\V[130]#afrgPR
+> END STRING
+
+> BEGIN STRING
+は、インサイドでリズムに乗った！
+> CONTEXT: Skills/288/message1/
+ performs an Inside!#afrgPR
+> END STRING
+
+> BEGIN STRING
+ツイスト
+> CONTEXT: Skills/289/name/
+Twist#afrg
+> END STRING
+
+> BEGIN STRING
+リズムに合わせて足と一緒に腰もひねる、初級ダンス。
+\\c[2]【ボタン数】３【制限時間】３秒\\}\\C[0]【前回ダンス】\\V[130]
+> CONTEXT: Skills/289/description/
+Rythmic hip twist, beginner dance figure.
+Beginner dance move where you twist your hips together with your feet.
+\\c[2]Button Count:3 Time Limit:3\\}\\C[0] Previous Move:\\V[130]#afrgPR
+> END STRING
+
+> BEGIN STRING
+は、ツイストでリズムに乗った！
+> CONTEXT: Skills/289/message1/
+ got into a Twist rhythm!#afrg
+> END STRING
+
+> BEGIN STRING
+スポンジボブ
+> CONTEXT: Skills/290/name/
+Spongebob#afrg
+> END STRING
+
+> BEGIN STRING
+リズムに合わせて足を激しく動かす。消費気力が多い。
+\\c[2]【ボタン数】３【制限時間】３秒\\}\\C[0]【前回ダンス】\\V[130]
+> CONTEXT: Skills/290/description/
+Violent leg move, consumes a lot of stamina.
+\\c[2]Button Count:3 Time Limit:3\\}\\C[0] Previous Move:\\V[130]#afrgPR
+> END STRING
+
+> BEGIN STRING
+は、スポンジボブでリズムに乗った！
+> CONTEXT: Skills/290/message1/
+ got into a Spongebob rhythm!#afrg
+> END STRING
+
+> BEGIN STRING
+アロー
+> CONTEXT: Skills/291/name/
+Arrow#afrg
+> END STRING
+
+> BEGIN STRING
+弓を引くような動作を左右交互に行う中級ダンス。
+\\c[2]【ボタン数】５【制限時間】５秒\\}\\C[0]【前回ダンス】\\V[130]
+> CONTEXT: Skills/291/description/
+Mimics drowing a bow, intermediate dance figure.
+\\c[2]Button Count:5 Time Limit:5\\}\\C[0] Previous Move:\\V[130]#afrgPR
+> END STRING
+
+> BEGIN STRING
+は、アローでリズムに乗った！
+> CONTEXT: Skills/291/message1/
+ got into an Arrow rhythm!#afrg
+> END STRING
+
+> BEGIN STRING
+Ｐツイスト
+> CONTEXT: Skills/292/name/
+P Twist#afrg
+> END STRING
+
+> BEGIN STRING
+ツイストの動作に腕の振りを加えた中級ダンス。
+\\c[2]【ボタン数】５【制限時間】２秒\\}\\C[0]【前回ダンス】\\V[130]
+> CONTEXT: Skills/292/description/
+Rythmic arm swing, intermediate dance figure.
+\\c[2]Button Count:5 Time Limit:2\\}\\C[0] Previous Move:\\V[130]#afrgPR
+> END STRING
+
+> BEGIN STRING
+は、Ｐツイストでリズムに乗った！
+> CONTEXT: Skills/292/message1/
+ got into a P Twist rhythm!#afrg
+> END STRING
+
+> BEGIN STRING
+スペシャルシャッフル
+> CONTEXT: Skills/293/name/
+Special Shuffle#afrg
+> END STRING
+
+> BEGIN STRING
+スポンジボブを応用した動きの激しい中級ダンス。
+\\c[2]【ボタン数】６【制限時間】３秒\\}\\C[0]【前回ダンス】\\V[130]
+> CONTEXT: Skills/293/description/
+Intermediate level Sponge Bob variety
+\\c[2]【Button Count】5【Time Limit】3\\}\\C[0]【Previous Dance】\\V[130]#afrg
+> END STRING
+
+> BEGIN STRING
+は、スペシャルシャッフルでリズムに乗った！
+> CONTEXT: Skills/293/message1/
+ got into a Special Shuffle rhythm!#afrg
+> END STRING
+
+> BEGIN STRING
+チェアー
+> CONTEXT: Skills/294/name/
+Chair#afrg
+> END STRING
+
+> BEGIN STRING
+手首だけで全身を支えるブレイクダンス。
+\\c[2]【ボタン数】７【制限時間】３秒\\}\\C[0]【前回ダンス】\\V[130]
+> CONTEXT: Skills/294/description/
+Break dance where you support your body with only your wrist.
+c[2]【Button Count】7【Time Limit】3\\}\\C[0]【Previous Dance】\\V[130]#afrg
+> END STRING
+
+> BEGIN STRING
+はチェアーでリズムに乗った！！
+> CONTEXT: Skills/294/message1/
+ pulled off a Chair!#afrg
+> END STRING
+
+> BEGIN STRING
+ウィンドミル
+> CONTEXT: Skills/295/name/
+Windmill#afrg
+> END STRING
+
+> BEGIN STRING
+手を軸に足を大きく回転させるブレイクダンス。
+\\c[2]【ボタン数】７【制限時間】２秒\\}\\C[0]【前回ダンス】\\V[130]
+> CONTEXT: Skills/295/description/
+Break dance where you swing your legs around while standing on your hands.
+\\c[2]【Button Count】7【Time Limit】2\\}\\C[0]【Previous Dance】\\V[130]#afrg
+> END STRING
+
+> BEGIN STRING
+はウィンドミルでリズムに乗った！！
+> CONTEXT: Skills/295/message1/
+ pulled off a Windmill!#afrg
+> END STRING
+
+> BEGIN STRING
+決めポーズ
+> CONTEXT: Skills/296/name/
+> CONTEXT: Skills/297/name/
+> CONTEXT: Skills/298/name/
+Signature Pose#afrg
+> END STRING
+
+> BEGIN STRING
+はダンスを踊り、ポーズを決めた！
+> CONTEXT: Skills/296/message1/
+> CONTEXT: Skills/297/message1/
+> CONTEXT: Skills/298/message1/
+ strikes a pose!#afrg
+> END STRING
+
+> BEGIN STRING
+スポットライトを独占している！
+> CONTEXT: Skills/296/message2/
+He hogs the spotlight!#afrg
+> END STRING
+
+> BEGIN STRING
+スポットライトとカメラを独占している！
+> CONTEXT: Skills/297/message2/
+He hogs the spotlight and the camera!#afrg
+> END STRING
+
+> BEGIN STRING
+視聴者全員が、\\N[1]に釘付けだ！！
+> CONTEXT: Skills/298/message2/
+All the viewers' eyes are glued to \\N[1]!#afrg
+> END STRING
+
+> BEGIN STRING
+■■マザーラビット
+> CONTEXT: Skills/299/name/
+■■ Mother Rabbit#afrg
+> END STRING
+
+> BEGIN STRING
+慈母の誘惑
+> CONTEXT: Skills/300/name/
+Motherly Temptation#afrgPR
+> END STRING
+
+> BEGIN STRING
+は\\N[1]に優しく囁きかけてきた！
+> CONTEXT: Skills/300/message1/
+ whisperes gently to \\N[1].#afrg
+> END STRING
+
+> BEGIN STRING
+抱き包み
+> CONTEXT: Skills/301/name/
+Hug Embrace#afrgPR
+> CONTEXT: Skills/700/name/
+Tucking Embrace#afrg
+> END STRING
+
+> BEGIN STRING
+は\\N[1]の身体を勢いよく掴みかかってきた！
+> CONTEXT: Skills/301/message1/
+> CONTEXT: Skills/700/message1/
+ vigorously grips \\N[1]'s body!#afrg
+> END STRING
+
+> BEGIN STRING
+ラヴ・フィスト
+> CONTEXT: Skills/302/name/
+> CONTEXT: Skills/795/name/
+Love Fist#afrg
+> END STRING
+
+> BEGIN STRING
+は\\N[1]をモフモフの腕で撫でるように叩いた！
+> CONTEXT: Skills/302/message1/
+> CONTEXT: Skills/795/message1/
+ strokes \\N[1] with a fluffy arm in order to strike him!#afrg
+> END STRING
+
+> BEGIN STRING
+抱擁の誘い
+> CONTEXT: Skills/303/name/
+Hug Invitation#afrg
+> END STRING
+
+> BEGIN STRING
+は\\N[1]に甘えてくるように誘いかけた…
+> CONTEXT: Skills/303/message1/
+> CONTEXT: Skills/360/message1/
+ invites \\N[1] to indulge himself...#afrg
+> END STRING
+
+> BEGIN STRING
+慈母の授乳
+> CONTEXT: Skills/304/name/
+Motherly Nursing#afrgPR
+> END STRING
+
+> BEGIN STRING
+彼女の乳首から出てくる母乳を夢中で飲んでしまう……
+> CONTEXT: Skills/304/message2/
+He drinks the milk that comes out in a trance...#afrg
+> END STRING
+
+> BEGIN STRING
+慈愛のゆりかご
+> CONTEXT: Skills/305/name/
+Affectionate Cradle#afrgPR
+> END STRING
+
+> BEGIN STRING
+は\\N[1]を強く抱きしめた！
+> CONTEXT: Skills/305/message1/
+ embraces \\N[1] tightly!#afrg
+> END STRING
+
+> BEGIN STRING
+毛づくろい
+> CONTEXT: Skills/306/name/
+Grooming#afrg
+> END STRING
+
+> BEGIN STRING
+は\\N[1]の身体全体を優しく舐め回した！！
+> CONTEXT: Skills/306/message1/
+ tenderly licks \\N[1]'s entire body!#afrg
+> END STRING
+
+> BEGIN STRING
+乳首を口に含み、ちゅうちゅうと吸い付いてくる…！
+> CONTEXT: Skills/306/message2/
+The nipple is stuck in his mouth!#afrg -- TODO: very, very liberal translation
+> END STRING
+
+> BEGIN STRING
+呪縛の言葉
+> CONTEXT: Skills/307/name/
+> CONTEXT: Skills/551/name/
+Spell#afrg
+> END STRING
+
+> BEGIN STRING
+は\\N[1]に甘い言葉を囁いてきた…
+> CONTEXT: Skills/307/message1/
+> CONTEXT: Skills/551/message1/
+ whispers sweet nothings to \\N[1]...#afrg
+> END STRING
+
+> BEGIN STRING
+彼女の声を聞いていると、身体の力が抜けていく……
+> CONTEXT: Skills/307/message2/
+> CONTEXT: Skills/551/message2/
+His body loses strength as he hears her voice...#afrg
+> END STRING
+
+> BEGIN STRING
+天使の接吻
+> CONTEXT: Skills/310/name/
+Angel's Kiss#afrg
+> END STRING
+
+> BEGIN STRING
+は\\N[1]に優しくキスをした！
+> CONTEXT: Skills/310/message1/
+ kisses \\N[1] gently!#afrg
+> END STRING
+
+> BEGIN STRING
+発声練習
+> CONTEXT: Skills/311/name/
+Vocal Training#afrg
+> END STRING
+
+> BEGIN STRING
+は何度か短く声を発した
+> CONTEXT: Skills/311/message1/
+ sings in a few short bursts.#afrg
+> END STRING
+
+> BEGIN STRING
+メイク確認
+> CONTEXT: Skills/312/name/
+Make-up Check#afrg
+> END STRING
+
+> BEGIN STRING
+は自分のメイクを鏡で確認している…
+> CONTEXT: Skills/312/message1/
+ checks her make-up in a mirror...#afrg
+> END STRING
+
+> BEGIN STRING
+ハニー・ダンス
+> CONTEXT: Skills/313/name/
+Honey Dance#afrg
+> END STRING
+
+> BEGIN STRING
+は可愛らしく踊った！
+> CONTEXT: Skills/313/message1/
+ dances cutely!#afrg
+> END STRING
+
+> BEGIN STRING
+子供らしい、しかしキレのよい洗練されている動きだ…！
+> CONTEXT: Skills/313/message2/
+It's an innocent but refined movement!#afrg
+> END STRING
+
+> BEGIN STRING
+セクシー・ダンス
+> CONTEXT: Skills/314/name/
+Sexy Dance#afrg
+> END STRING
+
+> BEGIN STRING
+は、ゆっくりとした動きで身体をくねらせた！
+> CONTEXT: Skills/314/message1/
+> CONTEXT: Skills/702/message1/
+ slowly moves and wriggles her body!#afrg
+> END STRING
+
+> BEGIN STRING
+艶やかなエボニーの身体が\\N[1]の前に迫る…！！
+> CONTEXT: Skills/314/message2/
+Her glamorous ebony body draws close to \\N[1]!#afrg
+> END STRING
+
+> BEGIN STRING
+ワイルド・ダンス
+> CONTEXT: Skills/315/name/
+Wild Dance#afrg
+> END STRING
+
+> BEGIN STRING
+は、腰を\\N[1]の方に突き出して踊った！
+> CONTEXT: Skills/315/message1/
+ pushes her waist out towards \\N[1]!#afrg
+> END STRING
+
+> BEGIN STRING
+クネクネと魅惑的に小刻みな動きをさせている…
+> CONTEXT: Skills/315/message2/
+She wiggles and shakes her body...#afrgPR
+> END STRING
+
+> BEGIN STRING
+はサブマシンガンを撃った！
+> CONTEXT: Skills/316/message1/
+> CONTEXT: Skills/351/message1/
+ fires his submachine gun!#afrg
+> END STRING
+
+> BEGIN STRING
+転倒
+> CONTEXT: Skills/317/name/
+Fall#afrg
+> END STRING
+
+> BEGIN STRING
+は足がもつれて転倒してしまった！
+> CONTEXT: Skills/317/message1/
+'s feet get tangled up, and he falls!#afrg
+> END STRING
+
+> BEGIN STRING
+焦り
+> CONTEXT: Skills/318/name/
+Haste#afrg
+> END STRING
+
+> BEGIN STRING
+はうまくステップが踏めずに困惑している…！
+> CONTEXT: Skills/318/message1/
+ cannot follow the skillful moves due to sheer bewilderment!#afrg
+> END STRING
+
+> BEGIN STRING
+リロード（１発）
+> CONTEXT: Skills/322/name/
+Reload (1 Round)#afrg
+> END STRING
+
+> BEGIN STRING
+リロードを行う。
+１回につき１発ずつしか装填しない。
+> CONTEXT: Skills/322/description/
+Reloads your weapon.
+Only a single bullet is loaded.#afrg
+> END STRING
+
+> BEGIN STRING
+リロード（全弾）
+> CONTEXT: Skills/323/name/
+Reload (All Rounds)#afrg
+> END STRING
+
+> BEGIN STRING
+リロードを行う。\\C[2]戦闘中は選択できない\\C[0]
+１回で５発全弾装填する。
+> CONTEXT: Skills/323/description/
+Reloads the weapon.\\C[2]Cannot be used in a fight.\\C[0]
+Loads all five bullets.#afrgPR
+> END STRING
+
+> BEGIN STRING
+敵単体に物理の中ダメージ。装弾数\\V[137]/5
+> CONTEXT: Skills/324/description/
+> CONTEXT: Skills/350/description/
+> CONTEXT: Skills/785/description/
+Deals physical damage. Bullets \\V[137]/5#afrg
+> END STRING
+
+> BEGIN STRING
+敵単体に物理の中ダメージ。装弾数\\V[134]/15
+> CONTEXT: Skills/326/description/
+> CONTEXT: Skills/783/description/
+Deals physical damage. Bullets \\V[134]/15#afrg
+> END STRING
+
+> BEGIN STRING
+はアサルトライフルを撃った！
+> CONTEXT: Skills/326/message1/
+> CONTEXT: Skills/454/message1/
+> CONTEXT: Skills/783/message1/
+ fires his assault rifle!#afrg
+> END STRING
+
+> BEGIN STRING
+アサルトライフル３連射。装弾数\\V[134]/15
+> CONTEXT: Skills/327/description/
+> CONTEXT: Skills/784/description/
+Fires the assault rifle three times. Bullets \\V[134]/15#afrg
+> END STRING
+
+> BEGIN STRING
+はバーストショットを放った！
+> CONTEXT: Skills/327/message1/
+> CONTEXT: Skills/455/message1/
+> CONTEXT: Skills/784/message1/
+ fires a burst shot!#afrg
+> END STRING
+
+> BEGIN STRING
+リロードを行う。
+銃内に残った弾は『\\I[895]5.56mmライフル弾』になる。
+> CONTEXT: Skills/328/description/
+Reloads your weapon.
+Remaining bullets become 『\\I[895]5.56mm Rifle Bullet』.#afrg
+> END STRING
+
+> BEGIN STRING
+フルバースト
+> CONTEXT: Skills/329/name/
+Full Burst#afrg
+> END STRING
+
+> BEGIN STRING
+■躯
+> CONTEXT: Skills/330/name/
+> CONTEXT: Enemies/546/name/
+■ Mukuro#afrg
+> END STRING
+
+> BEGIN STRING
+の胸を\\N[1]は夢中で揉みしだいた！
+> CONTEXT: Skills/332/message1/
+> CONTEXT: Skills/403/message1/
+> CONTEXT: Skills/678/message1/
+> CONTEXT: Skills/727/message1/
+'s breasts are rubbed by an entranced \\N[1]!#afrg
+> END STRING
+
+> BEGIN STRING
+\\N[1]の手はまるで胸に吸い付いているかのように離れない…
+> CONTEXT: Skills/332/message2/
+> CONTEXT: Skills/678/message2/
+> CONTEXT: Skills/727/message2/
+\\N[1]'s hand sticks to her breasts and does not come off easily...#afrg
+> CONTEXT: Skills/403/message2/
+\\N[1]'s hand doesn't move as if drawn to her breasts...#afrgPR
+> END STRING
+
+> BEGIN STRING
+ターミネーション・スイング
+> CONTEXT: Skills/333/name/
+Termination Fuck#afrg
+> END STRING
+
+> BEGIN STRING
+はすさまじい速度でピストンをしている…！
+> CONTEXT: Skills/333/message1/
+ pistons her hips at a terrible speed!#afrg
+> END STRING
+
+> BEGIN STRING
+ルースレス・スイング
+> CONTEXT: Skills/334/name/
+Ruthless Fuck#afrg
+> END STRING
+
+> BEGIN STRING
+は振動するように腰を振った！
+> CONTEXT: Skills/334/message1/
+ vibrates and swings her waits!#afrg
+> END STRING
+
+> BEGIN STRING
+呪髪
+> CONTEXT: Skills/335/name/
+Cursed Hair#afrg
+> END STRING
+
+> BEGIN STRING
+は髪の毛を四方八方から伸ばしてきた！
+> CONTEXT: Skills/335/message1/
+> CONTEXT: Skills/340/message1/
+ grows her hair in all directions!#afrg
+> END STRING
+
+> BEGIN STRING
+交じりの誘い
+> CONTEXT: Skills/337/name/
+> CONTEXT: Skills/552/name/
+> CONTEXT: Skills/655/name/
+Invitation to Mingle#afrg
+> END STRING
+
+> BEGIN STRING
+は\\N[1]に服を脱ぐように誘惑してきた！
+> CONTEXT: Skills/337/message1/
+> CONTEXT: Skills/655/message1/
+ seduces \\N[1] into taking off his clothes!#afrg
+> CONTEXT: Skills/552/message1/
+'s seduction made \\N[1] take his clothes off!#afrgPR
+> END STRING
+
+> BEGIN STRING
+転髪
+> CONTEXT: Skills/338/name/
+Hair Trip#afrg
+> END STRING
+
+> BEGIN STRING
+は髪の毛を思いきり引き寄せた！！
+> CONTEXT: Skills/338/message1/
+ pulls her hair back with all her might!#afrg
+> END STRING
+
+> BEGIN STRING
+\\N[1]の足下の髪が一気にスライドする…！！
+> CONTEXT: Skills/338/message2/
+\\N[1]'s feet slide away with the hair!#afrg
+> END STRING
+
+> BEGIN STRING
+呪髪（強）
+> CONTEXT: Skills/340/name/
+Cursed Hair (Strong)#afrg
+> END STRING
+
+> BEGIN STRING
+毒ガスブレス
+> CONTEXT: Skills/341/name/
+Poison Breath#afrg
+> END STRING
+
+> BEGIN STRING
+は\\N[1]に毒ガスを吹きかけてきた！！
+> CONTEXT: Skills/341/message1/
+ sprays poison gas on \\N[1].#afrg
+> END STRING
+
+> BEGIN STRING
+脱力ブレス
+> CONTEXT: Skills/343/name/
+Draining Breath#afrg
+> END STRING
+
+> BEGIN STRING
+は\\N[1]に脱力ガスを吹きかけてきた！！
+> CONTEXT: Skills/343/message1/
+ blows strength-draining breath at \\N[1]!#afrg
+> END STRING
+
+> BEGIN STRING
+敵単体に物理の大ダメージ。装弾数\\V[161]/6
+> CONTEXT: Skills/345/description/
+> CONTEXT: Skills/787/description/
+Deals a lot of physical damage. Bullets \\V[161]/6#afrg
+> END STRING
+
+> BEGIN STRING
+はマグナムを撃った！
+> CONTEXT: Skills/345/message1/
+> CONTEXT: Skills/787/message1/
+ shoots his Magnum!#afrg
+> END STRING
+
+> BEGIN STRING
+リロードを行う。
+銃内に残った弾は『\\I[895]50口径マグナム弾』になる。
+> CONTEXT: Skills/346/description/
+Reload your weapon.
+Remaining rounds become 『\\I[895]50 cal. Magnum bullets』。#afrg
+> END STRING
+
+> BEGIN STRING
+キャノンショット
+> CONTEXT: Skills/347/name/
+Cannon Shot#afrg
+> END STRING
+
+> BEGIN STRING
+敵単体に物理の特大ダメージ。装弾数\\V[161]/6
+> CONTEXT: Skills/347/description/
+Deals extreme physical damage. Bullets \\V[161]/6#afrg
+> END STRING
+
+> BEGIN STRING
+はキャノンショットを放った！
+> CONTEXT: Skills/347/message1/
+ fires a cannon shot!#afrg
+> END STRING
+
+> BEGIN STRING
+はミョルニルを撃った！
+> CONTEXT: Skills/350/message1/
+> CONTEXT: Skills/785/message1/
+ fires Mjolnir!#afrg
+> END STRING
+
+> BEGIN STRING
+敵単体に物理の小ダメージを与える。装弾数\\V[18]/90
+> CONTEXT: Skills/351/description/
+> CONTEXT: Skills/786/description/
+Deals physical damage.#afrg
+> END STRING
+
+> BEGIN STRING
+クイックリロード
+> CONTEXT: Skills/352/name/
+Quick Reload#afrg
+> END STRING
+
+> BEGIN STRING
+素早くリロードを行う。ターンを消費しない。
+銃内に残った弾は『\\I[895]9mmパラベラム弾』になる。
+> CONTEXT: Skills/352/description/
+Quickly reloads without taking up a turn.
+Remaining bullets become 『\\I[895]9mm parabellum bullets』。#afrg
+> END STRING
+
+> BEGIN STRING
+リロード（ドラム）
+> CONTEXT: Skills/353/name/
+Reload (Drum)#afrg
+> END STRING
+
+> BEGIN STRING
+『ドラムマガジン』によるリロードを行う。
+> CONTEXT: Skills/353/description/
+Reload using a "drum magazine".#afrg
+> END STRING
+
+> BEGIN STRING
+小悪魔の誘い
+> CONTEXT: Skills/360/name/
+Impish Lure#afrg
+> END STRING
+
+> BEGIN STRING
+だんだんと彼女の胸に視線が集中してしまう…
+> CONTEXT: Skills/360/message2/
+His eyes fixate on her breasts...#afrg
+> END STRING
+
+> BEGIN STRING
+スペル・カーズ
+> CONTEXT: Skills/362/name/
+Kazu Spell#afrg
+> END STRING
+
+> BEGIN STRING
+３ターンの間、使用者の物理攻撃力を上げる。
+> CONTEXT: Skills/362/description/
+> CONTEXT: Skills/679/description/
+Increases the caster's physical attack for 3 turns.#Dargoth
+> END STRING
+
+> BEGIN STRING
+は\\N[1]の背筋をツーッと指で撫でた！
+> CONTEXT: Skills/362/message1/
+ traces \\N[1]'s spine with her finger!#afrg
+> END STRING
+
+> BEGIN STRING
+\\N[1]の身体に何とも言えない悪寒が走る！！
+> CONTEXT: Skills/362/message2/
+An indescribable chill runs through his body!#afrg
+> END STRING
+
+> BEGIN STRING
+猫じゃらし
+> CONTEXT: Skills/364/name/
+Cat's Ploy#afrg
+> END STRING
+
+> BEGIN STRING
+は激しく腰を前後にゆらし始めた！
+> CONTEXT: Skills/364/message1/
+ shakes her hips back and forth!#afrg
+> END STRING
+
+> BEGIN STRING
+\\N[1]のペニスが素股で激しく刺激される…！
+> CONTEXT: Skills/364/message2/
+\\N[1]'s penis is stimulated by the ferocious thigh sex!#afrg
+> END STRING
+
+> BEGIN STRING
+猫の檻籠
+> CONTEXT: Skills/365/name/
+> CONTEXT: Skills/369/name/
+Cat's Cage#afrg
+> END STRING
+
+> BEGIN STRING
+は\\N[1]の身体をパーカーに閉じ込めた！
+> CONTEXT: Skills/365/message1/
+ confines \\N[1] in her parka!#afrg
+> CONTEXT: Skills/369/message1/
+ confines \\N[1] in her hoodie!#afrgPR
+> END STRING
+
+> BEGIN STRING
+これで\\N[1]の身体は彼女の思い通りになってしまう…
+> CONTEXT: Skills/365/message2/
+\\N[1] cannot move his body at all like this!#afrg
+> END STRING
+
+> BEGIN STRING
+舌で攻める
+> CONTEXT: Skills/367/name/
+Tongue Assault#afrg
+> END STRING
+
+> BEGIN STRING
+は必死に舌で目の前のアソコに舌を入れた！
+> CONTEXT: Skills/367/message1/
+ frantically licks the dick in front of her!#afrg
+> END STRING
+
+> BEGIN STRING
+淫靡な匂いと、苦しい圧迫感で頭がクラクラする…！
+> CONTEXT: Skills/367/message2/
+\\N[1]'s head is dizzied by an obscene smell...#afrg
+> END STRING
+
+> BEGIN STRING
+フェザー・テイル
+> CONTEXT: Skills/368/name/
+Feather Tail#afrg
+> END STRING
+
+> BEGIN STRING
+\\N[1]の身体は完全に身動きが取れなくなってしまった！
+> CONTEXT: Skills/369/message2/
+\\N[1] cannot move his body at all like this!#afrg
+> END STRING
+
+> BEGIN STRING
+【ハル＆リズの財布】Lv1
+> CONTEXT: Skills/370/name/
+[Haru & Liz Money Bag]Lvl1#afrgPR
+> END STRING
+
+> BEGIN STRING
+\\C[10]ハルとリズに犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、ダメージが２０％増加する。
+> CONTEXT: Skills/370/description/
+\\C[10]The pleasure of being raped by them sticks in your mind.
+Increases damage taken from this monster by 20%.#afrg
+> END STRING
+
+> BEGIN STRING
+【ハル＆リズの財布】Lv2
+> CONTEXT: Skills/371/name/
+[Haru & Liz Money Bag]Lvl2#afrgPR
+> END STRING
+
+> BEGIN STRING
+\\C[10]ハルとリズに犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、勝手に毎ターン性欲が５％上昇する。
+> CONTEXT: Skills/371/description/
+\\C[10]The pleasure of being raped by them sticks in your mind.
+Increases lust 5% every turn when fighting this monster.#afrg
+> END STRING
+
+> BEGIN STRING
+【ハル＆リズの財布】Lv3
+> CONTEXT: Skills/372/name/
+[Haru & Liz Money Bag]Lvl3#afrgPR
+> END STRING
+
+> BEGIN STRING
+\\C[10]ハルとリズに犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、最大抵抗力が８０％になる。
+> CONTEXT: Skills/372/description/
+\\C[10]The pleasure of being raped by them sticks in your mind.
+Increases lust 5% every turn when fighting this monster.#afrg
+> END STRING
+
+> BEGIN STRING
+【ハル＆リズの財布】Lv4
+> CONTEXT: Skills/373/name/
+[Haru & Liz Money Bag]Lvl4#afrgPR
+> END STRING
+
+> BEGIN STRING
+\\C[10]ハルとリズに犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、最大気力が８０％になる。
+> CONTEXT: Skills/373/description/
+\\C[10]The pleasure of being raped by them sticks in your mind.
+Maximum willpower reduced to 80% when fighting this monster.#afrg
+> END STRING
+
+> BEGIN STRING
+【ハル＆リズの財布】LvMAX
+> CONTEXT: Skills/374/name/
+[Haru & Liz Money Bag]LvlMAX#afrgPR
+> END STRING
+
+> BEGIN STRING
+\\C[10]ハルとリズに犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、特殊アクシデント戦闘が発生する事がある。
+> CONTEXT: Skills/374/description/
+\\C[10]The pleasure of being raped by them sticks in your mind.
+Special accident battles can occur against this monster.#afrg
+> END STRING
+
+> BEGIN STRING
+【マザーラビットの子】Lv1
+> CONTEXT: Skills/375/name/
+【Mother Rabbit's Boy】 Lv 1#afrg
+> END STRING
+
+> BEGIN STRING
+\\C[10]マザーラビットに犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、ダメージが２０％増加する。
+> CONTEXT: Skills/375/description/
+\\C[10]The pleasure of being raped by Mother Rabbit sticks in your mind.
+Increases damage taken from this monster by 20%.#afrg
+> END STRING
+
+> BEGIN STRING
+【マザーラビットの子】Lv2
+> CONTEXT: Skills/376/name/
+【Mother Rabbit's Boy】 Lv 2#afrg
+> END STRING
+
+> BEGIN STRING
+\\C[10]マザーラビットに犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、勝手に毎ターン性欲が５％上昇する。
+> CONTEXT: Skills/376/description/
+\\C[10]The pleasure of being raped by Mother Rabbit sticks in your mind.
+Increases lust 5% every turn when fighting this monster.#afrg
+> END STRING
+
+> BEGIN STRING
+【マザーラビットの子】Lv3
+> CONTEXT: Skills/377/name/
+【Mother Rabbit's Boy】 Lv 3#afrg
+> END STRING
+
+> BEGIN STRING
+\\C[10]マザーラビットに犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、最大抵抗力が８０％になる。
+> CONTEXT: Skills/377/description/
+\\C[10]The pleasure of being raped by Mother Rabbit sticks in your mind.
+Maximum willpower reduced to 80% when fighting this monster.#afrg
+> END STRING
+
+> BEGIN STRING
+【マザーラビットの子】Lv4
+> CONTEXT: Skills/378/name/
+【Mother Rabbit's Boy】 Lv 4#afrg
+> END STRING
+
+> BEGIN STRING
+\\C[10]マザーラビットに犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、最大気力が８０％になる。
+> CONTEXT: Skills/378/description/
+\\C[10]The pleasure of being raped by Mother Rabbit in your mind.
+Maximum vitality reduced to 80% when fighting this monster.#afrg
+> END STRING
+
+> BEGIN STRING
+【マザーラビットの子】LvMAX
+> CONTEXT: Skills/379/name/
+【Mother Rabbit's Boy】 LvMAX#afrg
+> END STRING
+
+> BEGIN STRING
+\\C[10]マザーラビットに犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、特殊アクシデント戦闘が発生する事がある。
+> CONTEXT: Skills/379/description/
+\\C[10]The pleasure of being raped by Mother Rabbit sticks in your mind.
+Special accident battles can occur against this monster.#afrg
+> END STRING
+
+> BEGIN STRING
+は豊満な胸で\\N[1]のペニスを圧迫した！
+> CONTEXT: Skills/380/message1/
+> CONTEXT: Skills/516/message1/
+> CONTEXT: Skills/793/message1/
+ squeezes \\N[1]'s dick between her plump breasts!#afrg
+> END STRING
+
+> BEGIN STRING
+ムニムニとした感触に包まれ、全身に快感が伝わってくる…
+> CONTEXT: Skills/380/message2/
+> CONTEXT: Skills/516/message2/
+> CONTEXT: Skills/793/message2/
+The feeling of being wrapped in softness spreads throughout his body...#afrg
+> END STRING
+
+> BEGIN STRING
+【躯の心中相手】Lv1
+> CONTEXT: Skills/382/name/
+【Mukuro's Double Suicide Partner】 Lv1#afrg
+> END STRING
+
+> BEGIN STRING
+\\C[10]躯に犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、ダメージが２０％増加する。
+> CONTEXT: Skills/382/description/
+\\C[10]The pleasure of being raped by Mukuro sticks in your mind.
+Increases damage taken from this monster by 20%.#afrg
+> END STRING
+
+> BEGIN STRING
+【躯の心中相手】Lv2
+> CONTEXT: Skills/383/name/
+【Mukuro's Double Suicide Partner】 Lv 2#afrg
+> END STRING
+
+> BEGIN STRING
+\\C[10]躯に犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、勝手に毎ターン性欲が５％上昇する。
+> CONTEXT: Skills/383/description/
+\\C[10]The pleasure of being raped by Mukuro sticks in your mind.
+Increases lust 5% every turn when fighting this monster.#afrg
+> END STRING
+
+> BEGIN STRING
+【躯の心中相手】Lv3
+> CONTEXT: Skills/384/name/
+【Mukuro's Double Suicide Partner】 Lv 3#afrg
+> END STRING
+
+> BEGIN STRING
+\\C[10]躯に犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、最大抵抗力が８０％になる。
+> CONTEXT: Skills/384/description/
+\\C[10]The pleasure of being raped by Mukuro sticks in your mind.
+Maximum willpower reduced to 80% when fighting this monster.#afrg
+> END STRING
+
+> BEGIN STRING
+【躯の心中相手】Lv4
+> CONTEXT: Skills/385/name/
+【Mukuro's Double Suicide Partner】 Lv 4#afrg
+> END STRING
+
+> BEGIN STRING
+\\C[10]躯に犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、最大気力が８０％になる。
+> CONTEXT: Skills/385/description/
+\\C[10]The pleasure of being raped by Mukuro sticks in your mind.
+Maximum vitality reduced to 80% when fighting this monster.#afrg
+> END STRING
+
+> BEGIN STRING
+【躯の心中相手】LvMAX
+> CONTEXT: Skills/386/name/
+【Mukuro's Double Suicide Partner】 LvMAX#afrg
+> END STRING
+
+> BEGIN STRING
+\\C[10]躯に犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、特殊アクシデント戦闘が発生する事がある。
+> CONTEXT: Skills/386/description/
+\\C[10]The pleasure of being raped by Mukuro sticks in your mind.
+Special accident battles can occur against this monster.#afrg
+> END STRING
+
+> BEGIN STRING
+【ニーナのファン】Lv1
+> CONTEXT: Skills/387/name/
+【Nina's Fan】 Lv 1#afrg
+> END STRING
+
+> BEGIN STRING
+\\C[10]ニーナの踊りで、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、ダメージが２０％増加する。
+> CONTEXT: Skills/387/description/
+\\C[10]The pleasure of being raped by Nina sticks in your mind.
+Increases damage taken from this monster by 20%.#afrg
+> END STRING
+
+> BEGIN STRING
+【ニーナのファン】Lv2
+> CONTEXT: Skills/388/name/
+【Nina's Fan】 Lv 2#afrg
+> END STRING
+
+> BEGIN STRING
+\\C[10]ニーナの踊りで、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、勝手に毎ターン性欲が５％上昇する。
+> CONTEXT: Skills/388/description/
+\\C[10]The pleasure of being raped by Nina sticks in your mind.
+Increases lust 5% every turn when fighting this monster.#afrg
+> END STRING
+
+> BEGIN STRING
+【ニーナのファン】Lv3
+> CONTEXT: Skills/389/name/
+【Nina's Fan】 Lv 3#afrg
+> END STRING
+
+> BEGIN STRING
+\\C[10]ニーナの踊りで、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、最大抵抗力が８０％になる。
+> CONTEXT: Skills/389/description/
+\\C[10]The pleasure of being raped by Nina sticks in your mind.
+Maximum willpower reduced to 80% when fighting this monster.#afrg
+> END STRING
+
+> BEGIN STRING
+【ニーナのファン】Lv4
+> CONTEXT: Skills/390/name/
+【Nina's Fan】 Lv 4#afrg
+> END STRING
+
+> BEGIN STRING
+\\C[10]ニーナの踊りで、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、最大気力が８０％になる。
+> CONTEXT: Skills/390/description/
+\\C[10]The pleasure of being raped by Nina sticks in your mind.
+Maximum vitality reduced to 80% when fighting this monster.#afrg
+> END STRING
+
+> BEGIN STRING
+【ニーナのファン】LvMAX
+> CONTEXT: Skills/391/name/
+【Nina's Fan】 LvMAX#afrg
+> END STRING
+
+> BEGIN STRING
+\\C[10]ニーナの踊りで、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、特殊アクシデント戦闘が発生する事がある。
+> CONTEXT: Skills/391/description/
+\\C[10]The pleasure of being raped by Nina sticks in your mind.
+Special accident battles can occur against this monster.#afrg
+> END STRING
+
+> BEGIN STRING
+淫蛇の猛攻
+> CONTEXT: Skills/392/name/
+Lewd Snake Assault#afrgPR
+> END STRING
+
+> BEGIN STRING
+は\\n[1]のペニスの先端を舌で刺激した！！
+> CONTEXT: Skills/392/message1/
+ plays with \\N[1]'s penis with her tongue!#afrg
+> END STRING
+
+> BEGIN STRING
+チロチロとした細かい動きで、強烈な刺激が襲ってくる…！
+> CONTEXT: Skills/392/message2/
+A slight flick caused intense pleasure!#afrg
+> END STRING
+
+> BEGIN STRING
+誘惑ダンス
+> CONTEXT: Skills/395/name/
+Temptation Dance#afrg
+> END STRING
+
+> BEGIN STRING
+誘惑ダンス（失敗）
+> CONTEXT: Skills/396/name/
+Temptation Dance (Failure)#afrg
+> END STRING
+
+> BEGIN STRING
+淫乱の影
+> CONTEXT: Skills/397/name/
+> CONTEXT: Skills/398/name/
+Erotic Shadow#afrg
+> END STRING
+
+> BEGIN STRING
+は複数の影を飛ばしてきた！！
+> CONTEXT: Skills/397/message1/
+> CONTEXT: Skills/398/message1/
+ shoots out several shadows!#afrg
+> END STRING
+
+> BEGIN STRING
+ダンスレッスン
+> CONTEXT: Skills/399/name/
+Dance Lesson#afrg
+> END STRING
+
+> BEGIN STRING
+は\\N[1]の手を繋いだまま、ゆっくりと踊り始めた…
+> CONTEXT: Skills/399/message1/
+ joins hands with \\N[1], starting off slowly...#afrg
+> END STRING
+
+> BEGIN STRING
+ワイルドスィング
+> CONTEXT: Skills/400/name/
+Wild Fuck#afrg
+> END STRING
+
+> BEGIN STRING
+は激しく腰を振った！！
+> CONTEXT: Skills/400/message1/
+ furiously moves her waist!#afrg
+> END STRING
+
+> BEGIN STRING
+糸をほどく
+> CONTEXT: Skills/410/name/
+Untangle#afrg
+> END STRING
+
+> BEGIN STRING
+\\C[2]手足を使って\\C[0]粘着糸を引き離し、状態異常を解除する。
+手足が自由でなければこのスキルは使用出来ない。
+> CONTEXT: Skills/410/description/
+\\C[2]Use hands and feet \\C[0]to pull the sticky strings apart.
+Cannot be used when hands and feet are bound.#afrgPR
+> END STRING
+
+> BEGIN STRING
+は糸の拘束解除を試みた！
+> CONTEXT: Skills/410/message1/
+ attempts to untangle the web!#afrg
+> END STRING
+
+> BEGIN STRING
+束縛の粘糸
+> CONTEXT: Skills/411/name/
+Binding Web#afrg
+> END STRING
+
+> BEGIN STRING
+は糸を\\N[1]に向けて飛ばしてきた！！
+> CONTEXT: Skills/411/message1/
+ fires a web at \\N[1]!#afrg
+> END STRING
+
+> BEGIN STRING
+\\N[1]の身体に瞬く間にネバネバの糸が巻き付いていく…！！
+> CONTEXT: Skills/411/message2/
+\\N[1]'s body has become completly wraped in web!#afrgPR
+> END STRING
+
+> BEGIN STRING
+淫乱の粘糸（トドメ）
+> CONTEXT: Skills/412/name/
+Lewd Web (Finisher)#afrg
+> END STRING
+
+> BEGIN STRING
+は液体のような糸を\\N[1]の身体に浴びせてきた！！
+> CONTEXT: Skills/412/message1/
+> CONTEXT: Skills/413/message1/
+> CONTEXT: Skills/414/message1/
+ pours liquid webbing over \\N[1]'s body!#afrg
+> END STRING
+
+> BEGIN STRING
+\\N[1]の身体がみるみるうちにネバネバになっていく…！
+> CONTEXT: Skills/412/message2/
+> CONTEXT: Skills/413/message2/
+> CONTEXT: Skills/414/message2/
+\\N[1]'s body has become entangled in a blink!#afrgPR
+> END STRING
+
+> BEGIN STRING
+淫乱の粘糸（重）
+> CONTEXT: Skills/413/name/
+Lewd Web (Heavy)#afrg
+> END STRING
+
+> BEGIN STRING
+淫乱の粘糸（軽）
+> CONTEXT: Skills/414/name/
+Lewd Web (Light)#afrg
+> END STRING
+
+> BEGIN STRING
+囚蝶の儚夢
+> CONTEXT: Skills/415/name/
+> CONTEXT: Skills/416/name/
+Caged Butterfly's Fleeting Dream#afrg -- Yeah, I don't know either
+> END STRING
+
+> BEGIN STRING
+は\\N[1]の腰を激しく揺らして射精を促した！
+> CONTEXT: Skills/415/message1/
+> CONTEXT: Skills/416/message1/
+ violently rides \\N[1] to make him cum!#afrgPR
+> END STRING
+
+> BEGIN STRING
+\\N[1]のペニスに容赦ない快感が襲ってくる……！！
+> CONTEXT: Skills/415/message2/
+> CONTEXT: Skills/416/message2/
+\\N[1] is assaulted by unforgiving pleasure!#afrg
+> END STRING
+
+> BEGIN STRING
+蕩解
+> CONTEXT: Skills/417/name/
+Dissolve#afrg
+> END STRING
+
+> BEGIN STRING
+のお腹の中で\\N[1]は力なくもがいている…
+> CONTEXT: Skills/417/message1/
+'s stomach confines \\N[1] who struggles powerlessly!#afrgPR
+> END STRING
+
+> BEGIN STRING
+だが、もう\\N[1]には快楽しか感じることが出来ない…
+> CONTEXT: Skills/417/message2/
+However, he only feels pleasure...#afrg
+> END STRING
+
+> BEGIN STRING
+屈服の眼力
+> CONTEXT: Skills/418/name/
+Eye Of Submission#afrgPR
+> CONTEXT: Skills/791/name/
+Surrender Gaze#afrg
+> END STRING
+
+> BEGIN STRING
+は魔力のこもった眼で\\N[1]を睨みつけた！
+> CONTEXT: Skills/418/message1/
+> CONTEXT: Skills/419/message1/
+> CONTEXT: Skills/670/message1/
+> CONTEXT: Skills/791/message1/
+> CONTEXT: Skills/792/message1/
+ glared at \\N[1] with magical eyes!#afrg
+> END STRING
+
+> BEGIN STRING
+傀儡の眼力
+> CONTEXT: Skills/419/name/
+Eye Of Puppetry#afrgPR
+> CONTEXT: Skills/792/name/
+Puppet Gaze#afrg
+> END STRING
+
+> BEGIN STRING
+屈服の自慰
+> CONTEXT: Skills/420/name/
+Submissive Masturbation#afrgPR
+> END STRING
+
+> BEGIN STRING
+はペニスを手で激しくしごいている…
+> CONTEXT: Skills/420/message1/
+ fervently strokes his dick with his hand...#afrg
+> END STRING
+
+> BEGIN STRING
+\\N[1]の息は荒くなっている…
+> CONTEXT: Skills/420/message2/
+\\N[1]'s breath is ragged...#afrg
+> END STRING
+
+> BEGIN STRING
+１０ターンの間、疲労・衰弱・スタン・脱力・出血無効。
+更に毎ターン抵抗と気力が５０％回復する。
+> CONTEXT: Skills/425/description/
+Prevents Exhaustion, Weakness, Stun, Debilitated and Bleeding
+for 10 turns, and grants 50% Willpower and Vitality recovery per turn.#afrg
+> END STRING
+
+> BEGIN STRING
+はヘル・ブレイクを放った！
+> CONTEXT: Skills/425/message1/
+ casts Hell Break!#afrg
+> END STRING
+
+> BEGIN STRING
+１０ターン、ダメージによる性欲上昇を大幅軽減する。
+さらに気力と抵抗力の最大値が２倍になる。
+> CONTEXT: Skills/426/description/
+For 10 turns, significantly reduces Lust intake.
+In addition, doubles maximum Willpower and Vitality.#afrgPR
+> END STRING
+
+> BEGIN STRING
+はフローズンを放った！
+> CONTEXT: Skills/426/message1/
+ casts Frozen!#afrg
+> END STRING
+
+> BEGIN STRING
+１０ターンの間、全ての消費気力が半減する。
+> CONTEXT: Skills/427/description/
+For 10 turns, energy consumption is halved.#afrg
+> END STRING
+
+> BEGIN STRING
+はシルフトリックを放った！
+> CONTEXT: Skills/427/message1/
+ casts Sylph Trick!#afrg
+> END STRING
+
+> BEGIN STRING
+１０ターン、魔法を絶対回避し、拘束系状態異常にかかりにくくなる。
+ただし、毎ターン１０％抵抗、５％気力が減少する。
+> CONTEXT: Skills/428/description/
+For 10 turns, evades all magics and resists most restrains
+and debuffs. Will drops by 10% each turn and Energy by 5%.#afrgPR
+> END STRING
+
+> BEGIN STRING
+はライジングを放った！
+> CONTEXT: Skills/428/message1/
+ casts Rising!#afrg
+> END STRING
+
+> BEGIN STRING
+せいしんとういつ
+> CONTEXT: Skills/430/name/
+Concentrate#afrg
+> END STRING
+
+> BEGIN STRING
+こころをおちつかせる。
+> CONTEXT: Skills/430/description/
+Settle down your mind.#afrg
+> END STRING
+
+> BEGIN STRING
+しんこきゅう
+> CONTEXT: Skills/431/name/
+Deep Breath#afrg
+> END STRING
+
+> BEGIN STRING
+おおきくいきをすう
+> CONTEXT: Skills/431/description/
+Take a deep breath.#afrg
+> END STRING
+
+> BEGIN STRING
+ほおをたたく
+> CONTEXT: Skills/432/name/
+Face Slap#afrg
+> END STRING
+
+> BEGIN STRING
+よくないのがなおるかも
+> CONTEXT: Skills/432/description/
+Chance not to recover.#afrg
+> END STRING
+
+> BEGIN STRING
+ほおをなぐる
+> CONTEXT: Skills/433/name/
+Face Punch#afrg
+> END STRING
+
+> BEGIN STRING
+きっとわるいのがなおる
+とてもいたい
+> CONTEXT: Skills/433/description/
+Recover from bad status.
+Very painful.#afrg
+> END STRING
+
+> BEGIN STRING
+すこしもがく
+> CONTEXT: Skills/434/description/
+> CONTEXT: Skills/502/description/
+> CONTEXT: Skills/511/description/
+Struggle weakly.#afrg
+> END STRING
+
+> BEGIN STRING
+あばれる
+> CONTEXT: Skills/435/name/
+> CONTEXT: Skills/503/name/
+Violent Rage#afrg
+> END STRING
+
+> BEGIN STRING
+おもいっきりあばれる。
+> CONTEXT: Skills/435/description/
+> CONTEXT: Skills/503/description/
+Struggle with all your might.#afrg
+> END STRING
+
+> BEGIN STRING
+けりとばす
+> CONTEXT: Skills/436/name/
+Kick Away#afrg
+> END STRING
+
+> BEGIN STRING
+かはんしんのてきをけりとばす。
+> CONTEXT: Skills/436/description/
+> CONTEXT: Skills/504/description/
+Try to kick your opponent away.#afrg
+> END STRING
+
+> BEGIN STRING
+てであいてをおしのける
+> CONTEXT: Skills/437/description/
+> CONTEXT: Skills/505/description/
+Wait a minute#afrg
+> END STRING
+
+> BEGIN STRING
+はんどがん
+> CONTEXT: Skills/439/name/
+Handgun#afrg
+> END STRING
+
+> BEGIN STRING
+たま\\V[7]/10
+> CONTEXT: Skills/439/description/
+> CONTEXT: Skills/448/description/
+Bullets \\V[7]/10#afrg
+> END STRING
+
+> BEGIN STRING
+りろーど
+> CONTEXT: Skills/440/name/
+> CONTEXT: Skills/442/name/
+> CONTEXT: Skills/443/name/
+> CONTEXT: Skills/445/name/
+> CONTEXT: Skills/456/name/
+Reload#afrg
+> END STRING
+
+> BEGIN STRING
+いれかえる
+> CONTEXT: Skills/440/description/
+> CONTEXT: Skills/442/description/
+> CONTEXT: Skills/443/description/
+> CONTEXT: Skills/445/description/
+> CONTEXT: Skills/446/description/
+> CONTEXT: Skills/456/description/
+Replace bullets#afrg
+> END STRING
+
+> BEGIN STRING
+ましんぴすとる
+> CONTEXT: Skills/441/name/
+Machine Pistol#afrg
+> END STRING
+
+> BEGIN STRING
+たま\\V[18]/15
+> CONTEXT: Skills/441/description/
+Bullets \\V[18]/15#afrg
+> END STRING
+
+> BEGIN STRING
+しょっとがん
+> CONTEXT: Skills/444/name/
+Shotgun#afrg
+> END STRING
+
+> BEGIN STRING
+たま\\V[19]/2
+> CONTEXT: Skills/444/description/
+> CONTEXT: Skills/449/description/
+Bullets \\V[19]/2#afrg
+> END STRING
+
+> BEGIN STRING
+りろーど（でかい）
+> CONTEXT: Skills/446/name/
+> CONTEXT: Skills/447/name/
+Reload (Huge)#afrg
+> END STRING
+
+> BEGIN STRING
+ばーすとしょっと
+> CONTEXT: Skills/448/name/
+> CONTEXT: Skills/449/name/
+> CONTEXT: Skills/455/name/
+Burst Shot#afrg
+> END STRING
+
+> BEGIN STRING
+りろーど（１）
+> CONTEXT: Skills/450/name/
+Reload (1)#afrg
+> END STRING
+
+> BEGIN STRING
+ひとついれる
+> CONTEXT: Skills/450/description/
+Reloads one#afrg
+> END STRING
+
+> BEGIN STRING
+りろーど（ぜんぶ）
+> CONTEXT: Skills/451/name/
+Reload (All)#afrg
+> END STRING
+
+> BEGIN STRING
+ぜんぶいれる
+> CONTEXT: Skills/451/description/
+All at once#afrg
+> END STRING
+
+> BEGIN STRING
+らいおっと
+> CONTEXT: Skills/452/name/
+Riot#afrg
+> END STRING
+
+> BEGIN STRING
+たま\\V[137]/5
+> CONTEXT: Skills/452/description/
+Bullets \\V[137]/5#afrg
+> END STRING
+
+> BEGIN STRING
+きりつける
+> CONTEXT: Skills/453/name/
+Slash#afrg
+> END STRING
+
+> BEGIN STRING
+ちかづいてきる。
+> CONTEXT: Skills/453/description/
+Get in close#afrg
+> END STRING
+
+> BEGIN STRING
+あさるとらいふる
+> CONTEXT: Skills/454/name/
+Assault Rifle#afrg
+> END STRING
+
+> BEGIN STRING
+たま\\V[134]/15
+> CONTEXT: Skills/454/description/
+> CONTEXT: Skills/455/description/
+Bullets \\V[134]/15#afrg
+> END STRING
+
+> BEGIN STRING
+こうさんする
+> CONTEXT: Skills/458/name/
+Surrender#afrg
+> END STRING
+
+> BEGIN STRING
+ていこうをやめて
+すふぃんくすちゃんをうけいれる
+> CONTEXT: Skills/458/description/
+Stop resisting.
+Comply with Sphinx.#afrg
+> END STRING
+
+> BEGIN STRING
+かぜのまほう
+> CONTEXT: Skills/460/name/
+Magic Wind#afrg
+> END STRING
+
+> BEGIN STRING
+ふきとばせる。
+> CONTEXT: Skills/460/description/
+Blows everything away.#afrg
+> END STRING
+
+> BEGIN STRING
+は真空波を放った！
+> CONTEXT: Skills/460/message1/
+ fires a vacuum wave!#afrg
+> END STRING
+
+> BEGIN STRING
+ひのまほう
+> CONTEXT: Skills/461/name/
+Magic Fire#afrg
+> END STRING
+
+> BEGIN STRING
+ぼーってする
+> CONTEXT: Skills/461/description/
+It burns#afrg
+> END STRING
+
+> BEGIN STRING
+は炎を放った！
+> CONTEXT: Skills/461/message1/
+ shoots fire!#afrg
+> END STRING
+
+> BEGIN STRING
+こおりのまほう
+> CONTEXT: Skills/462/name/
+Magic Ice#afrg
+> END STRING
+
+> BEGIN STRING
+つめたい
+> CONTEXT: Skills/462/description/
+Freezing#afrg
+> END STRING
+
+> BEGIN STRING
+は氷結を放った！
+> CONTEXT: Skills/462/message1/
+ shoots ice!#afrg
+> END STRING
+
+> BEGIN STRING
+でんきのまほう
+> CONTEXT: Skills/463/name/
+Magic Electricity#afrg
+> END STRING
+
+> BEGIN STRING
+びりびり
+> CONTEXT: Skills/463/description/
+Shocking#afrg
+> END STRING
+
+> BEGIN STRING
+は電撃を放った！
+> CONTEXT: Skills/463/message1/
+ fires lightning!#afrg
+> END STRING
+
+> BEGIN STRING
+ブレインドレイン
+> CONTEXT: Skills/465/name/
+> CONTEXT: Skills/705/name/
+> CONTEXT: Skills/706/name/
+> CONTEXT: Skills/725/name/
+Brain Drain#afrg
+> END STRING
+
+> BEGIN STRING
+の知識が精気と共に吸い出されていく…
+> CONTEXT: Skills/465/message1/
+'s knowledge and life energy are sucked out together...#afrg
+> END STRING
+
+> BEGIN STRING
+\\N[1]の頭の中はどんどん真っ白になってしまう…
+> CONTEXT: Skills/465/message2/
+> CONTEXT: Skills/705/message2/
+> CONTEXT: Skills/706/message2/
+> CONTEXT: Skills/725/message2/
+\\N[1]'s mind whites out...#afrg
+> END STRING
+
+> BEGIN STRING
+魔獣のゆりかご
+> CONTEXT: Skills/467/name/
+Beast Cradle#afrg
+> END STRING
+
+> BEGIN STRING
+は優しく\\N[1]を抱き包んだ…
+> CONTEXT: Skills/467/message1/
+ tenderly embraces \\N[1]...#afrg
+> END STRING
+
+> BEGIN STRING
+\\N[1]は夢心地で相手に身を任せている…
+> CONTEXT: Skills/467/message2/
+\\N[1] surrenders himself to a dream...#afrg
+> END STRING
+
+> BEGIN STRING
+種搾りホールド
+> CONTEXT: Skills/469/name/
+Piledriver Hold#afrgPR
+> END STRING
+
+> BEGIN STRING
+は\\N[1]の下半身に自身の下半身を擦りつけた！
+> CONTEXT: Skills/469/message1/
+ rubs her lower body against \\N[1]'s!#afrg
+> END STRING
+
+> BEGIN STRING
+交尾固め
+> CONTEXT: Skills/470/name/
+Copulation Tightening#afrg
+> END STRING
+
+> BEGIN STRING
+は膨張した\\N[1]のペニスを膣に擦りつけた！
+> CONTEXT: Skills/470/message1/
+ rubs her vagina against \\N[1]'s expanding penis.#afrg
+> END STRING
+
+> BEGIN STRING
+ずぶずぶと喰われるように\\N[1]は犯されていく…
+> CONTEXT: Skills/470/message2/
+To be eaten with sopping wet \\N[1] I will be fucked ...#MTLed
+> END STRING
+
+> BEGIN STRING
+ビーストセックス
+> CONTEXT: Skills/471/name/
+Beast Sex#afrg
+> END STRING
+
+> BEGIN STRING
+は\\N[1]を強く抱きしめがなら腰を振った！
+> CONTEXT: Skills/471/message1/
+hugs \\N[1] close and moves her waist!#afrg
+> END STRING
+
+> BEGIN STRING
+愛の揺り籠
+> CONTEXT: Skills/472/name/
+Cradle of Love#afrg
+> END STRING
+
+> BEGIN STRING
+は\\N[1]を優しく抱きしめながら愛撫している…
+> CONTEXT: Skills/472/message1/
+ gently caresses \\N[1] while hugging him...#afrg
+> END STRING
+
+> BEGIN STRING
+それに応えるように、\\N[1]は時折嬉しそうに喘ぎ声を上げる…
+> CONTEXT: Skills/472/message2/
+In response, \\N[1] makes delighted sounds...#afrg
+> END STRING
+
+> BEGIN STRING
+☆【１問目】
+> CONTEXT: Skills/474/name/
+☆ 【1st question】#afrg
+> END STRING
+
+> BEGIN STRING
+「れいな」
+> CONTEXT: Skills/475/name/
+「Reina」#afrg
+> END STRING
+
+> BEGIN STRING
+ナゾナゾにこたえる
+> CONTEXT: Skills/475/description/
+> CONTEXT: Skills/476/description/
+> CONTEXT: Skills/477/description/
+> CONTEXT: Skills/478/description/
+> CONTEXT: Skills/479/description/
+> CONTEXT: Skills/480/description/
+> CONTEXT: Skills/481/description/
+> CONTEXT: Skills/482/description/
+> CONTEXT: Skills/560/description/
+> CONTEXT: Skills/561/description/
+> CONTEXT: Skills/562/description/
+> CONTEXT: Skills/563/description/
+> CONTEXT: Skills/570/description/
+> CONTEXT: Skills/571/description/
+> CONTEXT: Skills/572/description/
+> CONTEXT: Skills/573/description/
+> CONTEXT: Skills/575/description/
+> CONTEXT: Skills/576/description/
+> CONTEXT: Skills/577/description/
+> CONTEXT: Skills/578/description/
+Answer the riddle#afrg
+> END STRING
+
+> BEGIN STRING
+はナゾナゾに答えようとした！
+> CONTEXT: Skills/475/message1/
+> CONTEXT: Skills/476/message1/
+> CONTEXT: Skills/477/message1/
+> CONTEXT: Skills/478/message1/
+> CONTEXT: Skills/479/message1/
+> CONTEXT: Skills/480/message1/
+> CONTEXT: Skills/481/message1/
+> CONTEXT: Skills/482/message1/
+> CONTEXT: Skills/483/message1/
+> CONTEXT: Skills/484/message1/
+> CONTEXT: Skills/485/message1/
+> CONTEXT: Skills/486/message1/
+> CONTEXT: Skills/560/message1/
+> CONTEXT: Skills/561/message1/
+> CONTEXT: Skills/562/message1/
+> CONTEXT: Skills/563/message1/
+> CONTEXT: Skills/565/message1/
+> CONTEXT: Skills/566/message1/
+> CONTEXT: Skills/567/message1/
+> CONTEXT: Skills/568/message1/
+> CONTEXT: Skills/570/message1/
+> CONTEXT: Skills/571/message1/
+> CONTEXT: Skills/572/message1/
+> CONTEXT: Skills/573/message1/
+> CONTEXT: Skills/575/message1/
+> CONTEXT: Skills/576/message1/
+> CONTEXT: Skills/577/message1/
+> CONTEXT: Skills/578/message1/
+ tries to answer the riddle!#afrg
+> END STRING
+
+> BEGIN STRING
+「ふね」
+> CONTEXT: Skills/476/name/
+「A Ship」#afrg
+> END STRING
+
+> BEGIN STRING
+「ほん」
+> CONTEXT: Skills/477/name/
+「A Book」#afrg
+> END STRING
+
+> BEGIN STRING
+「みず」
+> CONTEXT: Skills/478/name/
+「Water」#afrg
+> END STRING
+
+> BEGIN STRING
+「かのじょ」
+> CONTEXT: Skills/479/name/
+「Girlfriend」#afrg
+> END STRING
+
+> BEGIN STRING
+「ふ　ね」
+> CONTEXT: Skills/480/name/
+「Shi - ip」#afrg
+> END STRING
+
+> BEGIN STRING
+「ぶっく」
+> CONTEXT: Skills/481/name/
+「Boo... Book」#afrg
+> END STRING
+
+> BEGIN STRING
+「こっぷ」
+> CONTEXT: Skills/482/name/
+「Cup」#afrg
+> END STRING
+
+> BEGIN STRING
+「ぁ　の　ァ」
+> CONTEXT: Skills/483/name/
+> CONTEXT: Skills/565/name/
+「Th.. Tha.. That」#afrg
+> END STRING
+
+> BEGIN STRING
+「ぷ　ぅ　　き　ぇ」
+> CONTEXT: Skills/484/name/
+> CONTEXT: Skills/566/name/
+「Puh... Bleh...」#afrg
+> END STRING
+
+> BEGIN STRING
+はなす
+> CONTEXT: Skills/484/description/
+> CONTEXT: Skills/566/description/
+Talk#afrg
+> END STRING
+
+> BEGIN STRING
+「ぉ　え　ぃあ」
+> CONTEXT: Skills/485/name/
+> CONTEXT: Skills/567/name/
+「Well...」#afrg
+> END STRING
+
+> BEGIN STRING
+なにかいう
+> CONTEXT: Skills/485/description/
+> CONTEXT: Skills/567/description/
+Say something#afrg
+> END STRING
+
+> BEGIN STRING
+「ぇ　　あ」
+> CONTEXT: Skills/486/name/
+> CONTEXT: Skills/568/name/
+「Eh」#afrg
+> END STRING
+
+> BEGIN STRING
+いう
+> CONTEXT: Skills/486/description/
+> CONTEXT: Skills/568/description/
+Speak#afrg
+> END STRING
+
+> BEGIN STRING
+【ヘルプ】オーディエンス
+> CONTEXT: Skills/487/name/
+Ask The Audience#afrgPR
+> END STRING
+
+> BEGIN STRING
+マイルームにいるあくまに「たすうけつ」をとる
+マイルームにあくまがいないといみがない
+> CONTEXT: Skills/487/description/
+Have the demons in 'My Room' take a vote.
+Useless if there's no one there.#afrg
+> END STRING
+
+> BEGIN STRING
+は【ヘルプ】オーディエンスを使った！
+> CONTEXT: Skills/487/message1/
+ asks the audience!#afrgPR
+> END STRING
+
+> BEGIN STRING
+【ヘルプ】５０：５０
+> CONTEXT: Skills/488/name/
+【Help】 50:50#afrg
+> END STRING
+
+> BEGIN STRING
+もんだいのかずをはんぶんけす
+「にたく」にできる
+> CONTEXT: Skills/488/description/
+Remove half the answers.  #afrg -- The second half is missing.
+> END STRING
+
+> BEGIN STRING
+は【ヘルプ】５０：５０を使った！
+> CONTEXT: Skills/488/message1/
+ uses [Help] 50/50!#afrg
+> END STRING
+
+> BEGIN STRING
+【ヘルプ】テレフォン
+> CONTEXT: Skills/489/name/
+【Help】 Phone-A-Friend#afrg
+> END STRING
+
+> BEGIN STRING
+でんわして、こたえをきく
+> CONTEXT: Skills/489/description/
+Call and hear the answer.#afrg
+> END STRING
+
+> BEGIN STRING
+は【ヘルプ】テレフォンを使った！
+> CONTEXT: Skills/489/message1/
+uses [Help] Phone-A-Friend!#afrg
+> END STRING
+
+> BEGIN STRING
+【へるぷ】たすうけつ
+> CONTEXT: Skills/490/name/
+【Help】 Vote#afrg
+> END STRING
+
+> BEGIN STRING
+「たすうけつ」をとる
+あくまがいないといみがない
+> CONTEXT: Skills/490/description/
+Take a vote.
+Useless if you're alone.#afrg
+> END STRING
+
+> BEGIN STRING
+は【へるぷ】たすうけつを使った！
+> CONTEXT: Skills/490/message1/
+ uses [Help] Vote!#afrg
+> END STRING
+
+> BEGIN STRING
+【へるぷ】はんぶんこ
+> CONTEXT: Skills/491/name/
+[Help] Split#afrg
+> END STRING
+
+> BEGIN STRING
+もんだいを２つにする
+> CONTEXT: Skills/491/description/
+Splits the problem in half#afrg
+> END STRING
+
+> BEGIN STRING
+は【へるぷ】はんぶんこを使った！
+> CONTEXT: Skills/491/message1/
+ uses [Help] Split!#afrg
+> END STRING
+
+> BEGIN STRING
+【へるぷ】でんわ
+> CONTEXT: Skills/492/name/
+【Help】 Call#afrg
+> END STRING
+
+> BEGIN STRING
+でんわ
+> CONTEXT: Skills/492/description/
+Phone#afrg
+> END STRING
+
+> BEGIN STRING
+は【へるぷ】でんわを使った！
+> CONTEXT: Skills/492/message1/
+ uses [Help] Call!#afrg
+> END STRING
+
+> BEGIN STRING
+【たすけ】よぶ
+> CONTEXT: Skills/493/name/
+[Help] Call Out#afrg
+> END STRING
+
+> BEGIN STRING
+みんなにきく
+> CONTEXT: Skills/493/description/
+Listen to everyone#afrg
+> END STRING
+
+> BEGIN STRING
+は【たすけ】よぶを使った！
+> CONTEXT: Skills/493/message1/
+ used [Help] Call Out!#afrg
+> END STRING
+
+> BEGIN STRING
+【たすけ】けす
+> CONTEXT: Skills/494/name/
+[Help] Erase#afrg
+> END STRING
+
+> BEGIN STRING
+もんだいをかんたんに
+> CONTEXT: Skills/494/description/
+Make question easier#afrg
+> END STRING
+
+> BEGIN STRING
+は【たすけ】けすを使った！
+> CONTEXT: Skills/494/message1/
+ uses [Help] Erase!#afrg
+> END STRING
+
+> BEGIN STRING
+【たすけ】もしもし
+> CONTEXT: Skills/495/name/
+【Help】 Hello?#afrg
+> END STRING
+
+> BEGIN STRING
+きく
+> CONTEXT: Skills/495/description/
+Listen#afrg
+> END STRING
+
+> BEGIN STRING
+は【たすけ】もしもしを使った！
+> CONTEXT: Skills/495/message1/
+ uses [Help] Hello?#afrg
+> END STRING
+
+> BEGIN STRING
+せぃしんとぅぃつ
+> CONTEXT: Skills/498/name/
+Concentrate#afrg
+> END STRING
+
+> BEGIN STRING
+こころをおちつかせる？
+> CONTEXT: Skills/498/description/
+Will you calm down a little?#afrg
+> END STRING
+
+> BEGIN STRING
+こきゅう
+> CONTEXT: Skills/499/name/
+Breathe#afrg
+> END STRING
+
+> BEGIN STRING
+ゆっくりこきゅうする
+> CONTEXT: Skills/499/description/
+Breathe slowly#afrg
+> END STRING
+
+> BEGIN STRING
+たたく
+> CONTEXT: Skills/500/name/
+Slap#afrg
+> END STRING
+
+> BEGIN STRING
+なおるかも
+> CONTEXT: Skills/500/description/
+> CONTEXT: Skills/509/description/
+It may work#afrg
+> END STRING
+
+> BEGIN STRING
+なぐる
+> CONTEXT: Skills/501/name/
+Punch#afrg
+> END STRING
+
+> BEGIN STRING
+いたい
+> CONTEXT: Skills/501/description/
+Ouch#afrg
+> END STRING
+
+> BEGIN STRING
+ける
+> CONTEXT: Skills/504/name/
+> CONTEXT: Skills/513/name/
+Kick#afrg
+> END STRING
+
+> BEGIN STRING
+はらう
+> CONTEXT: Skills/505/name/
+> CONTEXT: Skills/514/name/
+Push#afrg
+> END STRING
+
+> BEGIN STRING
+せぃ　　ぇぃつ
+> CONTEXT: Skills/507/name/
+Speak#afrg
+> END STRING
+
+> BEGIN STRING
+こころ　　　？
+> CONTEXT: Skills/507/description/
+What does it mean?#afrg
+> END STRING
+
+> BEGIN STRING
+すぅぅ
+> CONTEXT: Skills/508/name/
+Suuuuu#afrg
+> END STRING
+
+> BEGIN STRING
+ゆ　こきゅ　する
+> CONTEXT: Skills/508/description/
+Do something#afrg
+> END STRING
+
+> BEGIN STRING
+ぺち
+> CONTEXT: Skills/509/name/
+Strange#afrg
+> END STRING
+
+> BEGIN STRING
+どか
+> CONTEXT: Skills/510/name/
+Make Ready#afrg
+> END STRING
+
+> BEGIN STRING
+いたぃ？
+> CONTEXT: Skills/510/description/
+Right?#afrg
+> END STRING
+
+> BEGIN STRING
+も　ぁく
+> CONTEXT: Skills/511/name/
+Get Clear#afrg
+> END STRING
+
+> BEGIN STRING
+じたばた
+> CONTEXT: Skills/512/name/
+Wriggle#afrg
+> END STRING
+
+> BEGIN STRING
+おもいっきり　じたばぁ
+> CONTEXT: Skills/512/description/
+With all your might... Stumble#afrg
+> END STRING
+
+> BEGIN STRING
+ける？
+> CONTEXT: Skills/513/description/
+Kick?#afrg
+> END STRING
+
+> BEGIN STRING
+は足に意味なく力を込めた…
+> CONTEXT: Skills/513/message1/
+ aimlessly puts strength into his legs...#afrg
+> END STRING
+
+> BEGIN STRING
+おしかぇ　ぅ
+> CONTEXT: Skills/514/description/
+Oh, OK#afrg
+> END STRING
+
+> BEGIN STRING
+は手を左右に力なく振った…
+> CONTEXT: Skills/514/message1/
+ swings his arms right and left without force ...#afrg
+> END STRING
+
+> BEGIN STRING
+複数の絡まった触手が、ペニスをゆっくりと刺激する…
+> CONTEXT: Skills/517/message2/
+Several tentacles entwine it and slowly stimulate it...#afrg
+> END STRING
+
+> BEGIN STRING
+触手と乳圧で、激しく弄ばれている…！
+> CONTEXT: Skills/518/message2/
+The tentacles relentlessly play with his chest!#afrgPR
+> END STRING
+
+> BEGIN STRING
+かいひ
+> CONTEXT: Skills/519/name/
+Evasion#afrg
+> END STRING
+
+> BEGIN STRING
+種搾りプレス
+> CONTEXT: Skills/522/name/
+Reverse Piledriver#afrgPR
+> END STRING
+
+> BEGIN STRING
+膣内が吸いつくように貪欲に、精を奪おうと脈動する…！！
+> CONTEXT: Skills/522/message2/
+Her vagina greedily vagina greedily drains \\N[1]!!#afrgPR
+> END STRING
+
+> BEGIN STRING
+邪蛇の残酷遊戯
+> CONTEXT: Skills/524/name/
+Snake's Cruel Play#afrgPR
+> END STRING
+
+> BEGIN STRING
+は\\N[1]のペニスを弄ぶように締め付けた
+> CONTEXT: Skills/524/message1/
+ tightens to play with \\N[1]'s penis.#afrg
+> END STRING
+
+> BEGIN STRING
+絶妙な振動が、まるで膣内の脈動のように快感を与えてくる…！
+> CONTEXT: Skills/524/message2/
+Her insides make \\N[1] feel incredible!#afrgPR
+> END STRING
+
+> BEGIN STRING
+グレネード（焼夷）
+> CONTEXT: Skills/530/name/
+Shell (Incendiary)#afrgPR
+> END STRING
+
+> BEGIN STRING
+敵単体に物理の大ダメージ。炎属性
+現在の弾丸：\\V[164]
+> CONTEXT: Skills/530/description/
+Great physical damage to enemies. Flame attribute. Current
+ammo: \\V[164]#afrg
+> CONTEXT: Skills/531/description/
+Great physical damage to enemies. Flame attribute.
+Current ammo: \\V[164]#afrgPR
+> END STRING
+
+> BEGIN STRING
+はグレネード（焼夷）を放った！
+> CONTEXT: Skills/530/message1/
+ shot an incendiary shell!#afrgPR
+> END STRING
+
+> BEGIN STRING
+グレネード（凍結）
+> CONTEXT: Skills/531/name/
+Shell (Freezing)#afrgPR
+> END STRING
+
+> BEGIN STRING
+はグレネード（凍結）を放った！
+> CONTEXT: Skills/531/message1/
+ shot a freezing shell!#afrgPR
+> END STRING
+
+> BEGIN STRING
+グレネード（電撃）
+> CONTEXT: Skills/532/name/
+Shell (Lightning)#afrgPR
+> END STRING
+
+> BEGIN STRING
+敵単体に物理の大ダメージ。雷属性
+現在の弾丸：\\V[164]
+> CONTEXT: Skills/532/description/
+Great physical damage to enemies. Lightning attribute. 
+Current ammo: \\V[164]#afrg
+> END STRING
+
+> BEGIN STRING
+はグレネード（電撃）を放った！
+> CONTEXT: Skills/532/message1/
+ shot a lightning shell!#afrgPR
+> END STRING
+
+> BEGIN STRING
+グレネード（疾風）
+> CONTEXT: Skills/533/name/
+Shell (Gale)#afrgPR
+> END STRING
+
+> BEGIN STRING
+敵単体に物理の大ダメージ。風属性
+現在の弾丸：\\V[164]
+> CONTEXT: Skills/533/description/
+Great physical damage to enemies. Wind attributes.
+Current ammo: \\V[164]#afrgPR
+> END STRING
+
+> BEGIN STRING
+はグレネード（疾風）を放った！
+> CONTEXT: Skills/533/message1/
+ shot a gale shell!#afrgPR
+> END STRING
+
+> BEGIN STRING
+焼夷弾装填
+> CONTEXT: Skills/535/name/
+Load Incendiary Shell#afrgPR
+> END STRING
+
+> BEGIN STRING
+グレネードの装填を行う。
+使用せずに銃内に残っていた弾は手元に残る。
+> CONTEXT: Skills/535/description/
+> CONTEXT: Skills/536/description/
+> CONTEXT: Skills/537/description/
+> CONTEXT: Skills/538/description/
+Loads a shell.
+Unused bullets remain in the gun.#afrgPR
+> END STRING
+
+> BEGIN STRING
+凍結弾装填
+> CONTEXT: Skills/536/name/
+Load Freezing Shell#afrgPR
+> END STRING
+
+> BEGIN STRING
+雷撃弾装填
+> CONTEXT: Skills/537/name/
+Load Lightning Shell#afrgPR
+> END STRING
+
+> BEGIN STRING
+疾風弾装填
+> CONTEXT: Skills/538/name/
+Load Gale Shell#afrgPR
+> END STRING
+
+> BEGIN STRING
+バーストフレイム
+> CONTEXT: Skills/540/name/
+Flame Burst#afrg
+> END STRING
+
+> BEGIN STRING
+敵単体に３連射の小ダメージを与える。火属性
+装弾数\\V[7]/10
+> CONTEXT: Skills/540/description/
+Deal slight damage 3 times. Fire attribute. 
+Number of bullets \\V[7]/10#afrg
+> END STRING
+
+> BEGIN STRING
+はバーストフレイムを放った！
+> CONTEXT: Skills/540/message1/
+> CONTEXT: Skills/779/message1/
+ uses Flame Burst!#afrg
+> END STRING
+
+> BEGIN STRING
+バーストフリーズ
+> CONTEXT: Skills/541/name/
+Freeze Burst#afrg
+> END STRING
+
+> BEGIN STRING
+敵単体に３連射の小ダメージを与える。氷属性
+装弾数\\V[7]/10
+> CONTEXT: Skills/541/description/
+Deal slight damage 3 times. Ice attribute. 
+Number of bullets \\V[7]/10#afrg
+> END STRING
+
+> BEGIN STRING
+はバーストフリーズを放った！
+> CONTEXT: Skills/541/message1/
+> CONTEXT: Skills/780/message1/
+ uses Freeze Burst!#afrg
+> END STRING
+
+> BEGIN STRING
+バーストボルテック
+> CONTEXT: Skills/542/name/
+Vortex Burst#afrg
+> END STRING
+
+> BEGIN STRING
+敵単体に３連射の小ダメージを与える。雷属性
+装弾数\\V[7]/10
+> CONTEXT: Skills/542/description/
+Deal slight damage 3 times. Lightning attribute. 
+Number of bullets \\V[7]/10#afrg
+> END STRING
+
+> BEGIN STRING
+はバーストボルテックを放った！
+> CONTEXT: Skills/542/message1/
+> CONTEXT: Skills/781/message1/
+ uses Vortex Burst!#afrg
+> END STRING
+
+> BEGIN STRING
+バーストウィンド
+> CONTEXT: Skills/543/name/
+Wind Burst#afrg
+> END STRING
+
+> BEGIN STRING
+敵単体に３連射の小ダメージを与える。風属性
+装弾数\\V[7]/10
+> CONTEXT: Skills/543/description/
+Deal slight damage 3 times. Wind attribute. 
+Number of bullets \\V[7]/10#afrg
+> END STRING
+
+> BEGIN STRING
+はバーストウィンドを放った！
+> CONTEXT: Skills/543/message1/
+> CONTEXT: Skills/782/message1/
+ uses Wind Burst!#afrg
+> END STRING
+
+> BEGIN STRING
+感電
+> CONTEXT: Skills/553/name/
+Electric Shock#afrg
+> END STRING
+
+> BEGIN STRING
+はエコーの粘液から伝わった電撃で感電した！
+> CONTEXT: Skills/553/message1/
+ got shocked through Echo's mucus!#afrg
+> END STRING
+
+> BEGIN STRING
+触手がムチのように次々と\\N[1]を襲う…！！
+> CONTEXT: Skills/554/message2/
+The tentacles lash \\N[1] like a whip!#afrg
+> END STRING
+
+> BEGIN STRING
+偽愛遊戯
+> CONTEXT: Skills/555/name/
+Fake Love Play#afrg
+> END STRING
+
+> BEGIN STRING
+は\\N[1]に優しく身体を擦りつけてきた…
+> CONTEXT: Skills/555/message1/
+> CONTEXT: Skills/639/message1/
+ tenderly rubs her body against \\N[1]'s#afrg
+> END STRING
+
+> BEGIN STRING
+\\N[1]はだんだんと身体の力が抜けていく…
+> CONTEXT: Skills/555/message2/
+> CONTEXT: Skills/639/message2/
+\\N[1]'s body gradually grows weaker...#afrg
+> END STRING
+
+> BEGIN STRING
+キュアー・タッチ
+> CONTEXT: Skills/556/name/
+Cure Touch#afrg
+> END STRING
+
+> BEGIN STRING
+は\\N[1]の股間を優しく刺激した…
+> CONTEXT: Skills/556/message1/
+ gently stimulates \\N[1]'s groin...#afrg
+> END STRING
+
+> BEGIN STRING
+\\N[1]の疲れた精神が癒やされていく…
+> CONTEXT: Skills/556/message2/
+\\N[1]'s tired mind is healed...#afrg
+> END STRING
+
+> BEGIN STRING
+「きく」
+> CONTEXT: Skills/560/name/
+「Listen」#afrg
+> END STRING
+
+> BEGIN STRING
+「ばら」
+> CONTEXT: Skills/561/name/
+「Roses」#afrg
+> END STRING
+
+> BEGIN STRING
+「すいせん」
+> CONTEXT: Skills/562/name/
+「Daffodil」#afrg
+> END STRING
+
+> BEGIN STRING
+「なし」
+> CONTEXT: Skills/563/name/
+「None」#afrg
+> END STRING
+
+> BEGIN STRING
+「に■げん」
+> CONTEXT: Skills/570/name/
+「Persn」#afrg - not a typo
+> END STRING
+
+> BEGIN STRING
+「●んじん」
+> CONTEXT: Skills/571/name/
+「● ●」#MTLed
+> END STRING
+
+> BEGIN STRING
+「い☆げ▲」
+> CONTEXT: Skills/572/name/
+「Good afternoon」#MTLed
+> END STRING
+
+> BEGIN STRING
+「ろん▼ん」
+> CONTEXT: Skills/573/name/
+「Morning」#MTLed
+> END STRING
+
+> BEGIN STRING
+①「に■げん」
+> CONTEXT: Skills/575/name/
+①「Persn」#afrg
+> END STRING
+
+> BEGIN STRING
+②「●んじん」
+> CONTEXT: Skills/576/name/
+②「● ●」#MTLed
+> END STRING
+
+> BEGIN STRING
+③「い☆げ▲」
+> CONTEXT: Skills/577/name/
+③「Good afternoon」#MTLed
+> END STRING
+
+> BEGIN STRING
+④「ろん▼ん」
+> CONTEXT: Skills/578/name/
+④「Morning」#MTLed
+> END STRING
+
+> BEGIN STRING
+ブレインバック
+> CONTEXT: Skills/580/name/
+Brain Refill#afrgPR
+> END STRING
+
+> BEGIN STRING
+の知識がスフィンクスから戻ってくる！！
+> CONTEXT: Skills/580/message1/
+'s knowledge is returned by Sphinx!#afrg
+> END STRING
+
+> BEGIN STRING
+頭にかかった白いモヤがみるみる消えていく…！！
+> CONTEXT: Skills/580/message2/
+The white haze clouding \\N[1]'s mind disappears!#afrgPR
+> END STRING
+
+> BEGIN STRING
+火之迦具土焔
+> CONTEXT: Skills/585/name/
+> CONTEXT: Skills/623/name/
+Fire Scorpion#afrg -- not sure
+> END STRING
+
+> BEGIN STRING
+は火之迦具土焔を使った！
+> CONTEXT: Skills/585/message1/
+ uses Fire Scorpion#afrg
+> END STRING
+
+> BEGIN STRING
+コキュートスの涙
+> CONTEXT: Skills/586/name/
+> CONTEXT: Skills/624/name/
+Cocytus' Tears#afrg
+> END STRING
+
+> BEGIN STRING
+はコキュートスの涙を使った！
+> CONTEXT: Skills/586/message1/
+ uses Cocytus' tears!#afrg
+> END STRING
+
+> BEGIN STRING
+岩石ボム
+> CONTEXT: Skills/587/name/
+Rock Bomb#afrg
+> END STRING
+
+> BEGIN STRING
+は岩石ボムを使った！
+> CONTEXT: Skills/587/message1/
+ uses a rock bomb!#afrg
+> END STRING
+
+> BEGIN STRING
+自己再生
+> CONTEXT: Skills/588/name/
+> CONTEXT: Skills/626/name/
+Self Regeneration#afrg
+> END STRING
+
+> BEGIN STRING
+のウロコがみるみる元に戻っていく…
+> CONTEXT: Skills/588/message1/
+> CONTEXT: Skills/626/message1/
+'s scales quickly return to their original positions...#afrg
+> END STRING
+
+> BEGIN STRING
+スタングレネード
+> CONTEXT: Skills/589/name/
+Stun Grenade#afrg
+> CONTEXT: Items/14/name/
+Stun Grenade#Dargoth
+> END STRING
+
+> BEGIN STRING
+はスタングレネードを使った！
+> CONTEXT: Skills/589/message1/
+ threw a  stun grenade!#afrg
+> END STRING
+
+> BEGIN STRING
+粘液クリーム
+> CONTEXT: Skills/591/name/
+> CONTEXT: Armors/67/name/
+Mucus Cream#afrg
+> END STRING
+
+> BEGIN STRING
+の装備品の効果が発動！
+> CONTEXT: Skills/591/message1/
+'s equipment effect was activated!#afrg
+> END STRING
+
+> BEGIN STRING
+【エコーの眷属】Lv1
+> CONTEXT: Skills/595/name/
+[Echo's Relative]Lvl1#afrgPR
+> END STRING
+
+> BEGIN STRING
+\\C[10]エコーに犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、ダメージが２０％増加する。
+> CONTEXT: Skills/595/description/
+\\C[10]You were thoroughly mind-fucked by Echo.
+Increases damage taken from this monster by 20%.#afrg -- quite a liberal translation, who cares?
+> END STRING
+
+> BEGIN STRING
+【エコーの眷属】Lv2
+> CONTEXT: Skills/596/name/
+[Echo's Relative]Lvl2#afrgPR
+> END STRING
+
+> BEGIN STRING
+\\C[10]エコーに犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、勝手に毎ターン性欲が５％上昇する。
+> CONTEXT: Skills/596/description/
+\\C[10]You were thoroughly mind-fucked by Echo.
+Increases lust 5% every turn when fighting this monster.#afrg
+> END STRING
+
+> BEGIN STRING
+【エコーの眷属】Lv3
+> CONTEXT: Skills/597/name/
+[Echo's Relative]Lvl3#afrgPR
+> END STRING
+
+> BEGIN STRING
+\\C[10]エコーに犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、最大抵抗力が８０％になる。
+> CONTEXT: Skills/597/description/
+\\C[10]You were thoroughly mind-fucked by Echo.
+Maximum willpower reduced to 80% when fighting this monster.#afrg
+> END STRING
+
+> BEGIN STRING
+【エコーの眷属】Lv4
+> CONTEXT: Skills/598/name/
+[Echo's Relative]Lvl4#afrgPR
+> END STRING
+
+> BEGIN STRING
+\\C[10]エコーに犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、最大気力が８０％になる。
+> CONTEXT: Skills/598/description/
+\\C[10]You were thoroughly mind-fucked by Echo.
+Maximum vitality reduced to 80% when fighting this monster.#afrg
+> END STRING
+
+> BEGIN STRING
+【エコーの眷属】LvMAX
+> CONTEXT: Skills/599/name/
+[Echo's Relative]LvlMAX#afrgPR
+> END STRING
+
+> BEGIN STRING
+\\C[10]エコーに犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、特殊アクシデント戦闘が発生する事がある。
+> CONTEXT: Skills/599/description/
+\\C[10]You were thoroughly mind-fucked by Echo.
+Special accident battles can occur against this monster.#afrg
+> END STRING
+
+> BEGIN STRING
+【スフィンクスの遊び相手】Lv1
+> CONTEXT: Skills/600/name/
+【Sphinx's Playmate】 Lv 1#afrg
+> END STRING
+
+> BEGIN STRING
+\\C[10]スフィンクスに犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、ダメージが２０％増加する。
+> CONTEXT: Skills/600/description/
+\\C[10]The pleasure of being violated by Sphinx sticks in your mind.
+Increases damage taken from this monster by 20%.#afrg
+> END STRING
+
+> BEGIN STRING
+【スフィンクスの遊び相手】Lv2
+> CONTEXT: Skills/601/name/
+【Sphinx's Playmate】 Lv 2#afrg
+> END STRING
+
+> BEGIN STRING
+\\C[10]スフィンクスに犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、勝手に毎ターン性欲が５％上昇する。
+> CONTEXT: Skills/601/description/
+\\C[10]The pleasure of being violated by Sphinx sticks in your mind.
+Increases lust 5% every turn when fighting this monster.#afrg
+> END STRING
+
+> BEGIN STRING
+【スフィンクスの遊び相手】Lv3
+> CONTEXT: Skills/602/name/
+【Sphinx's Playmate】 Lv 3#afrg
+> END STRING
+
+> BEGIN STRING
+\\C[10]スフィンクスに犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、最大抵抗力が８０％になる。
+> CONTEXT: Skills/602/description/
+\\C[10]The pleasure of being violated by Sphinx sticks in your mind.
+Maximum willpower reduced to 80% when fighting this monster.#afrg
+> END STRING
+
+> BEGIN STRING
+【スフィンクスの遊び相手】Lv4
+> CONTEXT: Skills/603/name/
+【Sphinx's Playmate】 Lv 4#afrg
+> END STRING
+
+> BEGIN STRING
+\\C[10]スフィンクスに犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、最大気力が８０％になる。
+> CONTEXT: Skills/603/description/
+\\C[10]The pleasure of being violated by Sphinx sticks in your mind.
+Maximum vitality reduced to 80% when fighting this monster.#afrg
+> END STRING
+
+> BEGIN STRING
+【スフィンクスの遊び相手】LvMAX
+> CONTEXT: Skills/604/name/
+【Sphinx's Playmate】 LvMAX#afrg
+> END STRING
+
+> BEGIN STRING
+\\C[10]スフィンクスに犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、特殊アクシデント戦闘が発生する事がある。
+> CONTEXT: Skills/604/description/
+\\C[10]The pleasure of being violated by Sphinx sticks in your mind.
+Special accident battles can occur against this monster.#afrg
+> END STRING
+
+> BEGIN STRING
+【アルケニーの囚蝶】Lv1
+> CONTEXT: Skills/605/name/
+[Archeny's Butterfly]Lvl1#afrgPR
+> END STRING
+
+> BEGIN STRING
+\\C[10]アルケニーに犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、ダメージが２０％増加する。
+> CONTEXT: Skills/605/description/
+\\C[10]The pleasure of being violated by Archeny sticks in your mind.
+Increases damage taken from this monster by 20%.#afrgPR
+> END STRING
+
+> BEGIN STRING
+【アルケニーの囚蝶】Lv2
+> CONTEXT: Skills/606/name/
+[Archeny's Butterfly]Lvl2#afrgPR
+> END STRING
+
+> BEGIN STRING
+\\C[10]アルケニーに犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、勝手に毎ターン性欲が５％上昇する。
+> CONTEXT: Skills/606/description/
+\\C[10]The pleasure of being violated by Archeny sticks in your mind.
+Increases lust 5% every turn when fighting this monster.#afrgPR
+> END STRING
+
+> BEGIN STRING
+【アルケニーの囚蝶】Lv3
+> CONTEXT: Skills/607/name/
+[Archeny's Butterfly]Lvl3#afrgPR
+> END STRING
+
+> BEGIN STRING
+\\C[10]アルケニーに犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、最大抵抗力が８０％になる。
+> CONTEXT: Skills/607/description/
+\\C[10]The pleasure of being violated by Archeny sticks in your mind.
+Maximum willpower reduced to 80% when fighting this monster.#afrgPR
+> END STRING
+
+> BEGIN STRING
+【アルケニーの囚蝶】Lv4
+> CONTEXT: Skills/608/name/
+[Archeny's Butterfly]Lvl4#afrgPR
+> END STRING
+
+> BEGIN STRING
+\\C[10]アルケニーに犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、最大気力が８０％になる。
+> CONTEXT: Skills/608/description/
+\\C[10]The pleasure of being violated by Archeny sticks in your mind.
+Maximum vitality reduced to 80% when fighting this monster.#afrgPR
+> END STRING
+
+> BEGIN STRING
+【アルケニーの囚蝶】LvMAX
+> CONTEXT: Skills/609/name/
+[Archeny's Butterfly]LvlMAX#afrgPR
+> END STRING
+
+> BEGIN STRING
+\\C[10]アルケニーに犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、特殊アクシデント戦闘が発生する事がある。
+> CONTEXT: Skills/609/description/
+\\C[10]The pleasure of being violated by Archeny sticks in your mind.
+Special accident battles can occur against this monster.#afrgPR
+> END STRING
+
+> BEGIN STRING
+【ティタノボアの餌鼠】Lv1
+> CONTEXT: Skills/610/name/
+[Titanoboa's Mouse]Lvl1#afrgPR
+> END STRING
+
+> BEGIN STRING
+\\C[10]ティタノボアに犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、ダメージが２０％増加する。
+> CONTEXT: Skills/610/description/
+\\C[10]The pleasure of being violated by Titanoboa sticks in your mind.
+Increases damage taken from this monster by 20%.#afrgPR
+> END STRING
+
+> BEGIN STRING
+【ティタノボアの餌鼠】Lv2
+> CONTEXT: Skills/611/name/
+[Titanoboa's Mouse]Lvl2#afrgPR
+> END STRING
+
+> BEGIN STRING
+\\C[10]ティタノボアに犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、勝手に毎ターン性欲が５％上昇する。
+> CONTEXT: Skills/611/description/
+\\C[10]The pleasure of being violated by Titanoboa sticks in your mind.
+Increases lust 5% every turn when fighting this monster.#afrgPR
+> END STRING
+
+> BEGIN STRING
+【ティタノボアの餌鼠】Lv3
+> CONTEXT: Skills/612/name/
+[Titanoboa's Mouse]Lvl3#afrgPR
+> END STRING
+
+> BEGIN STRING
+\\C[10]ティタノボアに犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、最大抵抗力が８０％になる。
+> CONTEXT: Skills/612/description/
+\\C[10]The pleasure of being violated by Titanoboa sticks in your mind.
+Maximum willpower reduced to 80% when fighting this monster.#afrgPR
+> END STRING
+
+> BEGIN STRING
+【ティタノボアの餌鼠】Lv4
+> CONTEXT: Skills/613/name/
+[Titanoboa's Mouse]Lvl4#afrgPR
+> END STRING
+
+> BEGIN STRING
+\\C[10]ティタノボアに犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、最大気力が８０％になる。
+> CONTEXT: Skills/613/description/
+\\C[10]The pleasure of being violated by Titanoboa sticks in your mind.
+Maximum vitality reduced to 80% when fighting this monster.#afrgPR
+> END STRING
+
+> BEGIN STRING
+【ティタノボアの餌鼠】LvMAX
+> CONTEXT: Skills/614/name/
+[Titanoboa's Mouse]LvlMAX#afrgPR
+> END STRING
+
+> BEGIN STRING
+\\C[10]ティタノボアに犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、特殊アクシデント戦闘が発生する事がある。
+> CONTEXT: Skills/614/description/
+\\C[10]The pleasure of being violated by Titanoboa sticks in your mind.
+Special accident battles can occur against this monster.#afrgPR
+> END STRING
+
+> BEGIN STRING
+猛攻の巻物
+> CONTEXT: Skills/620/name/
+Assault Scroll#afrgPR
+> END STRING
+
+> BEGIN STRING
+へ百鬼はアイテムを使った！！
+> CONTEXT: Skills/620/message1/
+> CONTEXT: Skills/621/message1/
+> CONTEXT: Skills/622/message1/
+Hyakki used a scroll!#afrgPR
+> END STRING
+
+> BEGIN STRING
+鉄壁の巻物
+> CONTEXT: Skills/621/name/
+Impregnable Scroll#afrg
+> END STRING
+
+> BEGIN STRING
+秘煌石
+> CONTEXT: Skills/622/name/
+Secret Gem#afrg
+> END STRING
+
+> BEGIN STRING
+への百鬼の援護攻撃！！
+> CONTEXT: Skills/623/message1/
+> CONTEXT: Skills/624/message1/
+ is protected by Hyakki!#afrg
+> END STRING
+
+> BEGIN STRING
+ヘビにらみ
+> CONTEXT: Skills/628/name/
+Snake Glare#afrg
+> END STRING
+
+> BEGIN STRING
+はヘビにらみを放った！
+> CONTEXT: Skills/628/message1/
+ glares like a snake!#afrg
+> END STRING
+
+> BEGIN STRING
+豺ｱ豺ｵ
+> CONTEXT: Skills/635/name/
+In this case#MTLed
+> END STRING
+
+> BEGIN STRING
+縺雁燕縺ｯ菴墓腐縺薙％縺ｾ縺ｧ譚･縺溘?縺??
+縺薙?蜈医ｒ譛ｬ蠖薙↓隕九◆縺??縺具ｼ
+> CONTEXT: Skills/635/description/
+It is a good idea to investigate how much?In?? A villain?
+Physicians ___ ___ ___ 0??Brush#MTLed
+> END STRING
+
+> BEGIN STRING
+縺ｯ豺ｱ豺ｵ縺ｮ髣?ｒ謾ｾ縺｣縺
+> CONTEXT: Skills/635/message1/
+In fact,?r 謾 セ "#MTLed
+> END STRING
+
+> BEGIN STRING
+縺ゅ↑縺溘?縺昴％縺ｾ縺ｧ縺励※蜉帙ｒ謇九↓蜈･繧後◆縺??縺具ｼ
+> CONTEXT: Skills/635/message2/
+Close-up?It is not possible to run the%??Brush#MTLed
+> END STRING
+
+> BEGIN STRING
+デバッグ
+> CONTEXT: Skills/636/name/
+> CONTEXT: Troops/220/name/
+> CONTEXT: Armors/7/name/
+Debug#afrg
+> END STRING
+
+> BEGIN STRING
+はデバッグを放った！
+> CONTEXT: Skills/636/message1/
+ uses Debug!#afrg
+> END STRING
+
+> BEGIN STRING
+堕落の接吻
+> CONTEXT: Skills/638/name/
+Corrupt Kiss#afrg
+> END STRING
+
+> BEGIN STRING
+は\\N[1]と、恋人同士のような濃密なキスをした…
+> CONTEXT: Skills/638/message1/
+ and \\N[1] kiss like a pair of lovers...#afrg
+> END STRING
+
+> BEGIN STRING
+舌と舌が絡み合い、お互いのだ液が混ざり合う……
+> CONTEXT: Skills/638/message2/
+Their tongues intertwine, and they exchange fluids...#afrg
+> END STRING
+
+> BEGIN STRING
+魔愛遊戯
+> CONTEXT: Skills/639/name/
+Magic Love Game#afrg
+> END STRING
+
+> BEGIN STRING
+オス堕としの魔膣
+> CONTEXT: Skills/640/name/
+Male Corrupting Demon Vagina#afrg
+> END STRING
+
+> BEGIN STRING
+の膣が、\\N[1]のペニスを優しく蠢き、きつく締め付けてきた…
+> CONTEXT: Skills/640/message1/
+'s vagina wriggles and tightents around \\N[1]'s penis...#afrg
+> END STRING
+
+> BEGIN STRING
+\\N[1]は思わず喘ぎ声を上げてしまっている…
+> CONTEXT: Skills/640/message2/
+\\N[1] pants involuntarily...#afrg
+> END STRING
+
+> BEGIN STRING
+ソウルパラサイト
+> CONTEXT: Skills/646/name/
+Soul Parasite#afrg
+> END STRING
+
+> BEGIN STRING
+は\\N[1]の身体に尻尾の触手を張り付かせた！
+> CONTEXT: Skills/646/message1/
+'s tail's tentacles stick to \\N[1]'s body!#afrg
+> END STRING
+
+> BEGIN STRING
+\\N[1]の意識が、みるみるうちにカマソッソに支配されていく…！
+> CONTEXT: Skills/646/message2/
+Camazotz is going to dominate \\N[1]'s consciousness right before his eyes!#afrg
+> END STRING
+
+> BEGIN STRING
+貪欲の接吻
+> CONTEXT: Skills/647/name/
+Greedy Kiss#afrg
+> END STRING
+
+> BEGIN STRING
+は\\N[1]と、激しく濃密なキスをした…
+> CONTEXT: Skills/647/message1/
+ fiercely kisses \\N[1]!#afrg
+> END STRING
+
+> BEGIN STRING
+カマソッソの舌が容赦なく\\N[1]の口内を犯していく……
+> CONTEXT: Skills/647/message2/
+Camazotz's tongue relentlessly violates \\N[1]'s mouth...#afrg
+> END STRING
+
+> BEGIN STRING
+レイド・シザー
+> CONTEXT: Skills/649/name/
+Raid Scissor#afrg
+> END STRING
+
+> BEGIN STRING
+は\\N[1]の頭を太ももで挟み込んできた！
+> CONTEXT: Skills/649/message1/
+ catches \\N[1]'s head between her thighs!#afrg
+> END STRING
+
+> BEGIN STRING
+イラマンニリングス
+> CONTEXT: Skills/650/name/
+Ira Manni Rings#afrg
+> END STRING
+
+> BEGIN STRING
+は\\N[1]の頭を押さえつけ、膣で口を塞いだ！
+> CONTEXT: Skills/650/message1/
+ grabs \\N[1]'s head, covering his mouth with her vagina!#afrg
+> END STRING
+
+> BEGIN STRING
+妖しく蠢く膣内の触手が、\\N[1]の口内に入ってくる…
+> CONTEXT: Skills/650/message2/
+Tentacles squirm inside of her, then crawl into \\N[1]'s mouth!#afrg
+> END STRING
+
+> BEGIN STRING
+テイルポンプ
+> CONTEXT: Skills/652/name/
+Tail Pump#afrg
+> END STRING
+
+> BEGIN STRING
+は尻尾でペニスを激しくピストンした！
+> CONTEXT: Skills/652/message1/
+'s tail vigorously pistons around \\N[1]'s dick!#afrg
+> END STRING
+
+> BEGIN STRING
+ブラシのような触手が絡みつき、精気がジュルジュルと吸い上げられていく…
+> CONTEXT: Skills/652/message2/
+Brush-like tentacles coil around it, sucking in his energy with a slurping sound...#afrg
+> END STRING
+
+> BEGIN STRING
+フライングトリック
+> CONTEXT: Skills/654/name/
+Flying Trick#afrg
+> END STRING
+
+> BEGIN STRING
+は一気に急上昇した！
+> CONTEXT: Skills/654/message1/
+ quickly flew high up into the air!#afrg
+> END STRING
+
+> BEGIN STRING
+妙技：破滅へ導く乳圧
+> CONTEXT: Skills/659/name/
+Specialty: Ruinous Breast Squeezing#afrg
+> END STRING
+
+> BEGIN STRING
+は\\N[1]の頭を優しく胸でもみくちゃにした…
+> CONTEXT: Skills/659/message1/
+ tenderly squishes \\N[1]'s head between her breasts!#afrg
+> END STRING
+
+> BEGIN STRING
+フワフワと\\N[1]の意識がもうろうとしていく…
+> CONTEXT: Skills/659/message2/
+\\N[1]'s consciousness is filled with fluffiness...#afrg
+> END STRING
+
+> BEGIN STRING
+妙技：あやしあやかし
+> CONTEXT: Skills/665/name/
+> CONTEXT: Skills/666/name/
+> CONTEXT: Skills/667/name/
+Virtue: Ayashi Ayakashi#MTLed
+> END STRING
+
+> BEGIN STRING
+は妲己に頭を優しく撫でられながら、抱きしめられる…
+> CONTEXT: Skills/665/message1/
+> CONTEXT: Skills/666/message1/
+> CONTEXT: Skills/667/message1/
+ hugs \\N[1] while patting his head...#afrg - incorrect?
+> END STRING
+
+> BEGIN STRING
+精気と共に、\\N[1]の全能力がどんどん吸いとられていく…
+> CONTEXT: Skills/665/message2/
+> CONTEXT: Skills/666/message2/
+> CONTEXT: Skills/667/message2/
+Like his spirit, all \N[1]'s abilities are sucked away...#afrg
+> END STRING
+
+> BEGIN STRING
+誘惑の魔眼
+> CONTEXT: Skills/670/name/
+Magic Eye of Seduction#afrg
+> END STRING
+
+> BEGIN STRING
+本能の腰振り
+> CONTEXT: Skills/671/name/
+Instinctive Thrusting#afrg
+> END STRING
+
+> BEGIN STRING
+は狂ったように息を荒げ、腰を振り続けている…
+> CONTEXT: Skills/671/message1/
+ breathes heavily as he thrusts like a madman...#afrg
+> END STRING
+
+> BEGIN STRING
+淫乱の尻尾
+> CONTEXT: Skills/673/name/
+> CONTEXT: Skills/674/name/
+Lewd Tail#afrg
+> END STRING
+
+> BEGIN STRING
+は尻尾を\\N[1]に擦りつけてきた！
+> CONTEXT: Skills/673/message1/
+> CONTEXT: Skills/674/message1/
+> CONTEXT: Skills/686/message1/
+> CONTEXT: Skills/687/message1/
+ rubs her tail against \\N[1]!#afrg
+> END STRING
+
+> BEGIN STRING
+尻尾まみれ
+> CONTEXT: Skills/675/name/
+> CONTEXT: Skills/676/name/
+> CONTEXT: Skills/683/name/
+> CONTEXT: Skills/690/name/
+Tail Cover#afrg
+> END STRING
+
+> BEGIN STRING
+の尻尾が一気に迫ってきた！！
+> CONTEXT: Skills/675/message1/
+> CONTEXT: Skills/676/message1/
+> CONTEXT: Skills/683/message1/
+> CONTEXT: Skills/690/message1/
+'s tails rush towards \\N[1]!!#afrg
+> END STRING
+
+> BEGIN STRING
+欲望の尻尾包み
+> CONTEXT: Skills/677/name/
+Desire Tail Wrapping#afrg
+> END STRING
+
+> BEGIN STRING
+は\\n[1]を尻尾で完全に覆い尽くした！
+> CONTEXT: Skills/677/message1/
+ completely wrapped \\N[1] in her tail!#afrg
+> END STRING
+
+> BEGIN STRING
+快感を伴うモフモフの感触に、\\N[1]は思わず喘ぎ声を上げてしまう…！
+> CONTEXT: Skills/677/message2/
+\\N[1] pants and gasps at the fluffy feeling...!#afrg
+> END STRING
+
+> BEGIN STRING
+マジック・チャージ
+> CONTEXT: Skills/679/name/
+Magic Charge#afrg
+> END STRING
+
+> BEGIN STRING
+はマジック・チャージを放った！
+> CONTEXT: Skills/679/message1/
+ used Magic Charge!#afrg
+> END STRING
+
+> BEGIN STRING
+相手の周囲に魔力が集まっていく…！！
+> CONTEXT: Skills/679/message2/
+Magical Power gathers around her...! !#afrg
+> END STRING
+
+> BEGIN STRING
+足扱浄土
+> CONTEXT: Skills/680/name/
+Footjob Paradise#afrg
+> END STRING
+
+> BEGIN STRING
+は\\N[1]のペニスを足で挟み、激しくしごいた！！
+> CONTEXT: Skills/680/message1/
+ pinches and squeezes \\N[1]'s dick with her feet!#afrg
+> END STRING
+
+> BEGIN STRING
+エル・ピリオド
+> CONTEXT: Skills/685/name/
+> CONTEXT: Skills/754/name/
+El Period#afrg
+> END STRING
+
+> BEGIN STRING
+相手に無属性の魔法ダメージを与える。
+ダメージ自体は高くないが、魔法耐性を無視できる。
+> CONTEXT: Skills/685/description/
+> CONTEXT: Skills/701/description/
+> CONTEXT: Skills/735/description/
+> CONTEXT: Skills/754/description/
+Deals non-attribute magical damage to your opponent. 
+Does little damage, but ignores magic resistance.#afrg
+> END STRING
+
+> BEGIN STRING
+はエル・ピリオドを放った！
+> CONTEXT: Skills/685/message1/
+> CONTEXT: Skills/754/message1/
+ casts El Period!#afrg
+> END STRING
+
+> BEGIN STRING
+吸精の尻尾
+> CONTEXT: Skills/686/name/
+> CONTEXT: Skills/687/name/
+Energy Sucking Tail#afrg
+> END STRING
+
+> BEGIN STRING
+は不屈の闘志で立ち上がった！！
+> CONTEXT: Skills/688/message1/
+ stood up with an indomitable fighting spirit!#afrg
+> END STRING
+
+> BEGIN STRING
+のツタから花粉が放出された！
+> CONTEXT: Skills/696/message1/
+'s ivy released a dose of pollen!#afrg
+> END STRING
+
+> BEGIN STRING
+快楽漬けの甘蕩蜜
+> CONTEXT: Skills/697/name/
+> CONTEXT: Skills/698/name/
+Sweet Pleasure Honey Soak#afrg
+> END STRING
+
+> BEGIN STRING
+は掌の花弁から、濃厚な蜜を出し始めた…
+> CONTEXT: Skills/697/message1/
+> CONTEXT: Skills/698/message1/
+ began to secrete thick honey from her palms...#afrg
+> END STRING
+
+> BEGIN STRING
+\\N[1]の口に、ゆっくりと注がれていく…
+> CONTEXT: Skills/697/message2/
+> CONTEXT: Skills/698/message2/
+She pours it into \\N[1]'s mouth...#afrg
+> END STRING
+
+> BEGIN STRING
+発情狂乱
+> CONTEXT: Skills/699/name/
+> CONTEXT: Skills/726/name/
+Sexual Frenzy#afrg
+> END STRING
+
+> BEGIN STRING
+はみだらに激しく腰を振った！
+> CONTEXT: Skills/699/message1/
+> CONTEXT: Skills/726/message1/
+ forcefully thrusts against her!#afrg
+> END STRING
+
+> BEGIN STRING
+エル・デルテカ
+> CONTEXT: Skills/701/name/
+El Delteca#afrg - incorrect?
+> END STRING
+
+> BEGIN STRING
+はエル・デルテカを放った！
+> CONTEXT: Skills/701/message1/
+ casts El Delteca!#afrg
+> END STRING
+
+> BEGIN STRING
+テンプテーション・ダンス
+> CONTEXT: Skills/702/name/
+Temptation Dance#afrg
+> END STRING
+
+> BEGIN STRING
+艶やかな妲己の身体が\\N[1]の前に迫る…！！
+> CONTEXT: Skills/702/message2/
+> CONTEXT: Skills/703/message2/
+Daiji's glamorous body approaches \\N[1]...!!#afrg
+> END STRING
+
+> BEGIN STRING
+エレガント・ダンス
+> CONTEXT: Skills/703/name/
+Elegant Dance#afrg
+> END STRING
+
+> BEGIN STRING
+は、優雅なステップを踏んだ！
+> CONTEXT: Skills/703/message1/
+ dances gracefully!#afrg
+> END STRING
+
+> BEGIN STRING
+は、優しくねっとりと\\N[1]にキスをした…
+> CONTEXT: Skills/705/message1/
+> CONTEXT: Skills/706/message1/
+> CONTEXT: Skills/725/message1/
+ gives \\N[1] a tender, sticky kiss...#afrg
+> END STRING
+
+> BEGIN STRING
+ナイトエッジ
+> CONTEXT: Skills/710/name/
+> CONTEXT: Armors/20/name/
+Night Edge#Dargoth
+> END STRING
+
+> BEGIN STRING
+はナイトエッジを振り回した！
+> CONTEXT: Skills/710/message1/
+ brandished Night Edge!#afrg
+> END STRING
+
+> BEGIN STRING
+回し蹴り
+> CONTEXT: Skills/711/name/
+> CONTEXT: Skills/789/name/
+Roundhouse Kick#afrg
+> END STRING
+
+> BEGIN STRING
+は回し蹴りを放った！
+> CONTEXT: Skills/711/message1/
+> CONTEXT: Skills/789/message1/
+ performed a spinning kick!#afrg
+> END STRING
+
+> BEGIN STRING
+つむじ風
+> CONTEXT: Skills/714/name/
+> CONTEXT: Skills/751/name/
+Whirlwind#afrg
+> END STRING
+
+> BEGIN STRING
+は翼で空間の風をかき乱した！！
+> CONTEXT: Skills/714/message1/
+> CONTEXT: Skills/751/message1/
+ stirs up the air with her wings!!#afrg
+> END STRING
+
+> BEGIN STRING
+サイ・ヒーリング
+> CONTEXT: Skills/715/name/
+Psi Healing#afrg
+> END STRING
+
+> BEGIN STRING
+はサイ・ヒーリングを放った！
+> CONTEXT: Skills/715/message1/
+ casts Psi Healing!#afrg
+> END STRING
+
+> BEGIN STRING
+ユウマの名を呼ぶ
+> CONTEXT: Skills/716/name/
+Call Yuuma's Name#afrg
+> END STRING
+
+> BEGIN STRING
+妲己の中にいるユウマを呼ぶ。
+> CONTEXT: Skills/716/description/
+Call out to Yuuma, who is inside of Daiji.#afrg
+> END STRING
+
+> BEGIN STRING
+は大声でユウマの名前を呼んだ！
+> CONTEXT: Skills/716/message1/
+ shouted Yuuma's name!#afrg
+> END STRING
+
+> BEGIN STRING
+相手に致命的なダメージを与える。
+チャージが完了しないと使えない。
+> CONTEXT: Skills/720/description/
+Deals immediately fatal damage to the opponent.
+Cannot be used unless the weapon is fully charged.#afrg
+> END STRING
+
+> BEGIN STRING
+はリニアランチャーを放った！
+> CONTEXT: Skills/720/message1/
+ fired the Linear Launcher!#afrg
+> END STRING
+
+> BEGIN STRING
+恐怖呪縛の印
+> CONTEXT: Skills/721/name/
+Fear Curse Symbol#afrg
+> END STRING
+
+> BEGIN STRING
+は恐怖呪縛の印を放った！
+> CONTEXT: Skills/721/message1/
+ casts Fear Curse Symbol!#afrg
+> END STRING
+
+> BEGIN STRING
+断罪の猛突
+> CONTEXT: Skills/730/name/
+> CONTEXT: Skills/743/name/
+Judgment Rage#afrg
+> END STRING
+
+> BEGIN STRING
+は断罪の猛突を放った！
+> CONTEXT: Skills/730/message1/
+> CONTEXT: Skills/743/message1/
+ casts Judgment Rage!#afrg
+> END STRING
+
+> BEGIN STRING
+罪人達への鎮魂歌
+> CONTEXT: Skills/731/name/
+Sinner's Requiem#afrg
+> END STRING
+
+> BEGIN STRING
+は罪人達への鎮魂歌を放った！
+> CONTEXT: Skills/731/message1/
+ sang a requiem for sinners!#afrg
+> END STRING
+
+> BEGIN STRING
+贖罪の威光
+> CONTEXT: Skills/732/name/
+Power of Atonement#afrg
+> END STRING
+
+> BEGIN STRING
+は贖罪の威光を放った！
+> CONTEXT: Skills/732/message1/
+ casts Power of Atonement!#afrg
+> END STRING
+
+> BEGIN STRING
+オール・デルテカ
+> CONTEXT: Skills/735/name/
+All Delteca#afrg
+> END STRING
+
+> BEGIN STRING
+はオール・デルテカを放った！
+> CONTEXT: Skills/735/message1/
+ casts All Delteca!#afrg
+> END STRING
+
+> BEGIN STRING
+手を伸ばす
+> CONTEXT: Skills/738/name/
+Reach Out#afrg
+> END STRING
+
+> BEGIN STRING
+掴め、彼女の懺悔を終わらせる時だ
+> CONTEXT: Skills/738/description/
+Grab her, and end her repentance.#afrg
+> END STRING
+
+> BEGIN STRING
+は、レイナに向かって手を伸ばした！！
+> CONTEXT: Skills/738/message1/
+ reaches out to Reina!!#afrg
+> END STRING
+
+> BEGIN STRING
+前に進む
+> CONTEXT: Skills/739/name/
+Advance#afrg
+> END STRING
+
+> BEGIN STRING
+彼女たちを信じて、前に進め。
+> CONTEXT: Skills/739/description/
+Put your faith in them, and move forward.#afrg
+> END STRING
+
+> BEGIN STRING
+は、サマエルに近付いた！
+> CONTEXT: Skills/739/message1/
+ approaches Samael!#afrg
+> END STRING
+
+> BEGIN STRING
+サマエルは、\\N[1]の気迫に動揺している…！！
+> CONTEXT: Skills/739/message2/
+Samael is shaken by \\N[1]'s spirit...! !#afrg
+> END STRING
+
+> BEGIN STRING
+マザーラビットは\\N[1]を抱き包んだ！！
+> CONTEXT: Skills/740/message2/
+> CONTEXT: Skills/742/message2/
+Mother Rabbit wraps \\N[1] in a hug! !#afrg
+> END STRING
+
+> BEGIN STRING
+サイガ・ティール
+> CONTEXT: Skills/741/name/
+Saiga Tear#afrg
+> END STRING
+
+> BEGIN STRING
+はサイガ・ティールを放った！
+> CONTEXT: Skills/741/message1/
+ casts Saiga Tear!#afrg
+> END STRING
+
+> BEGIN STRING
+ハルとリズが\\N[1]を抱え、共に飛び上がった！
+> CONTEXT: Skills/743/message2/
+Haru and Liz carry \\N[1] and jump up together!#afrg
+> END STRING
+
+> BEGIN STRING
+はその巨体を大きく唸らせて、相手に叩き付けた！
+> CONTEXT: Skills/744/message1/
+He made the big groan big, and knocked his opponent!#MTLed
+> END STRING
+
+> BEGIN STRING
+魔獣の爪（本気）
+> CONTEXT: Skills/747/name/
+Beast Claw (Serious)#afrg
+> END STRING
+
+> BEGIN STRING
+は見たことのない動きで相手を切り裂く…！
+> CONTEXT: Skills/747/message1/
+ cuts her opponent with a never before seen move!#afrg
+> END STRING
+
+> BEGIN STRING
+フェザー・ステップ
+> CONTEXT: Skills/750/name/
+Feather Step#afrg
+> END STRING
+
+> BEGIN STRING
+３ターンの間、使用者の先制確率を上げる。
+重ね掛け可能。
+> CONTEXT: Skills/750/description/
+Increases the caster's chance of acting first for 3 turns.
+Can overlap duration.#Dargoth
+> END STRING
+
+> BEGIN STRING
+に霊鳥の力が宿る……！
+> CONTEXT: Skills/750/message1/
+ holds the power of the holy bird...!#afrg
+> END STRING
+
+> BEGIN STRING
+終わりだ
+> CONTEXT: Skills/752/description/
+This is the End#afrg
+> END STRING
+
+> BEGIN STRING
+とレイナはリニアランチャーを放った！
+> CONTEXT: Skills/752/message1/
+ and Reina fire the Linear Launcher!#afrg
+> END STRING
+
+> BEGIN STRING
+【カマソッソの宿主】Lv1
+> CONTEXT: Skills/756/name/
+【Camazotz's Host】 Lv1#afrg
+> END STRING
+
+> BEGIN STRING
+\\C[10]カマソッソに犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、ダメージが２０％増加する。
+> CONTEXT: Skills/756/description/
+\\}\\C[10]Passive skill that was fucked by Camazotz and rubbed pleasure into the spirit.
+When target battling with demons, the damage increases by 20%.#MTLed
+> END STRING
+
+> BEGIN STRING
+【カマソッソの宿主】Lv2
+> CONTEXT: Skills/757/name/
+【Camazotz's Host】 Lv 2#afrg
+> END STRING
+
+> BEGIN STRING
+\\C[10]カマソッソに犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、勝手に毎ターン性欲が５％上昇する。
+> CONTEXT: Skills/757/description/
+\\}\\C[10]Passive skill that was fucked by Camazotz and rubbed pleasure into the spirit.
+When target battling with demons, arbitrary turns lust increases by 5% every turn.#MTLed
+> END STRING
+
+> BEGIN STRING
+【カマソッソの宿主】Lv3
+> CONTEXT: Skills/758/name/
+【Camazotz's Host】 Lv 3#afrg
+> END STRING
+
+> BEGIN STRING
+\\C[10]カマソッソに犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、最大抵抗力が８０％になる。
+> CONTEXT: Skills/758/description/
+\\}\\C[10]Passive skill that was fucked by Camazotz and rubbed pleasure into the spirit.
+When target battling with demons, the maximum willpower will be 80%.#MTLed
+> END STRING
+
+> BEGIN STRING
+【カマソッソの宿主】Lv4
+> CONTEXT: Skills/759/name/
+【Camazotz's Host】 Lv 4#afrg
+> END STRING
+
+> BEGIN STRING
+\\C[10]カマソッソに犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、最大気力が８０％になる。
+> CONTEXT: Skills/759/description/
+\\}\\C[10]Passive skill that was fucked by Camazotz and rubbed pleasure into the spirit.
+When target battling with demons, the maximum vitality is 80%.#MTLed
+> END STRING
+
+> BEGIN STRING
+【カマソッソの宿主】LvMAX
+> CONTEXT: Skills/760/name/
+【Camazotz's Host】 LvMAX#afrg
+> END STRING
+
+> BEGIN STRING
+\\C[10]カマソッソに犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、特殊アクシデント戦闘が発生する事がある。
+> CONTEXT: Skills/760/description/
+\\}\\C[10]Passive skill that was fucked by Camazotz and rubbed pleasure into the spirit.
+When target battling with demons, special accident battles may occur.#MTLed
+> END STRING
+
+> BEGIN STRING
+【妲己の性奴隷】Lv1
+> CONTEXT: Skills/761/name/
+【Daiji's Sex Slave】 Lv1#afrg
+> END STRING
+
+> BEGIN STRING
+\\C[10]妲己に犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、ダメージが２０％増加する。
+> CONTEXT: Skills/761/description/
+\\}\\C[10]Passive skill that was fucked by Daiji and pleasantly impressed with the spirit.
+When target battling with demons, the damage increases by 20%.#MTLed
+> END STRING
+
+> BEGIN STRING
+【妲己の性奴隷】Lv2
+> CONTEXT: Skills/762/name/
+【Daiji's Sex Slave】 Lv 2#afrg
+> END STRING
+
+> BEGIN STRING
+\\C[10]妲己に犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、勝手に毎ターン性欲が５％上昇する。
+> CONTEXT: Skills/762/description/
+\\}\\C[10]Passive skill that was fucked by Daiji and pleasantly impressed with the spirit.
+When target battling with demons, arbitrary turns lust increases by 5% every turn.#MTLed
+> END STRING
+
+> BEGIN STRING
+【妲己の性奴隷】Lv3
+> CONTEXT: Skills/763/name/
+【Daiji's Sex Slave】 Lv 3#afrg
+> END STRING
+
+> BEGIN STRING
+\\C[10]妲己に犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、最大抵抗力が８０％になる。
+> CONTEXT: Skills/763/description/
+\\}\\C[10]Passive skill that was fucked by Daiji and pleasantly impressed with the spirit.
+When target battling with demons, the maximum willpower will be 80%.#MTLed
+> END STRING
+
+> BEGIN STRING
+【妲己の性奴隷】Lv4
+> CONTEXT: Skills/764/name/
+【Daiji's Sex Slave】 Lv 4#afrg
+> END STRING
+
+> BEGIN STRING
+\\C[10]妲己に犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、最大気力が８０％になる。
+> CONTEXT: Skills/764/description/
+\\}\\C[10]Passive skill that was fucked by Daiji and pleasantly impressed with the spirit.
+When target battling with demons, the maximum vitality is 80%.#MTLed
+> END STRING
+
+> BEGIN STRING
+【妲己の性奴隷】LvMAX
+> CONTEXT: Skills/765/name/
+【Daiji's Sex Slave】 LvMAX#afrg
+> END STRING
+
+> BEGIN STRING
+\\C[10]妲己に犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、特殊アクシデント戦闘が発生する事がある。
+> CONTEXT: Skills/765/description/
+\\}\\C[10]Passive skill that was fucked by Daiji and pleasantly impressed with the spirit.
+When target battling with demons, special accident battles may occur.#MTLed
+> END STRING
+
+> BEGIN STRING
+魅了眼
+> CONTEXT: Skills/768/name/
+Enchanting Eyes#afrg
+> END STRING
+
+> BEGIN STRING
+は魅了眼を放った！
+> CONTEXT: Skills/768/message1/
+ cast Enchanting Eyes#afrg
+> END STRING
+
+> BEGIN STRING
+敵単体に物理の小ダメージを与える。
+> CONTEXT: Skills/771/description/
+> CONTEXT: Skills/772/description/
+Give physical damage to enemies alone.
+                                                            #MTLed
+> END STRING
+
+> BEGIN STRING
+敵単体に物理の中ダメージ。
+> CONTEXT: Skills/773/description/
+Deals moderate damage to an opponent.#afrg
+> END STRING
+
+> BEGIN STRING
+∞グレネード（焼夷）
+> CONTEXT: Skills/774/name/
+∞ Grenade (Incendiary)#afrg
+> END STRING
+
+> BEGIN STRING
+敵単体に物理の大ダメージ。炎属性
+> CONTEXT: Skills/774/description/
+> CONTEXT: Skills/775/description/
+Deals heavy physical damage to the opponent. Flame Attribute#afrg
+> END STRING
+
+> BEGIN STRING
+は∞グレネード（焼夷）を放った！
+> CONTEXT: Skills/774/message1/
+ threw a ∞ Grenade (Incendiary)!#afrg
+> END STRING
+
+> BEGIN STRING
+∞グレネード（凍結）
+> CONTEXT: Skills/775/name/
+∞ Grenade (Frozen)#afrg
+> END STRING
+
+> BEGIN STRING
+は∞グレネード（凍結）を放った！
+> CONTEXT: Skills/775/message1/
+ threw a ∞ Grenade (Frozen)!#afrg
+> END STRING
+
+> BEGIN STRING
+∞グレネード（電撃）
+> CONTEXT: Skills/776/name/
+∞ Grenade (Shock)#afrg
+> END STRING
+
+> BEGIN STRING
+敵単体に物理の大ダメージ。雷属性
+> CONTEXT: Skills/776/description/
+Deals heavy physical damage to the opponent. Lightning attribute.#afrg
+> END STRING
+
+> BEGIN STRING
+は∞グレネード（電撃）を放った！
+> CONTEXT: Skills/776/message1/
+ threw a ∞ Grenade (Shock)!#afrg
+> END STRING
+
+> BEGIN STRING
+∞グレネード（疾風）
+> CONTEXT: Skills/777/name/
+∞ Grenade (Gale)#afrg
+> END STRING
+
+> BEGIN STRING
+敵単体に物理の大ダメージ。風属性
+
+> CONTEXT: Skills/777/description/
+Deals heavy physical damage to the opponent. Wind attribute.#afrg
+> END STRING
+
+> BEGIN STRING
+は∞グレネード（疾風）を放った！
+> CONTEXT: Skills/777/message1/
+ threw a ∞ Grenade (Gale)!#afrg
+> END STRING
+
+> BEGIN STRING
+∞バーストショット
+> CONTEXT: Skills/778/name/
+> CONTEXT: Skills/784/name/
+∞ Burst Shot#afrg
+> END STRING
+
+> BEGIN STRING
+敵単体に３連射の小ダメージを与える。
+> CONTEXT: Skills/778/description/
+Deals light damage, three times.#afrg
+> END STRING
+
+> BEGIN STRING
+は∞バーストショットを放った！
+> CONTEXT: Skills/778/message1/
+ uses Burst Shot!#afrg
+> END STRING
+
+> BEGIN STRING
+∞バーストフレイム
+> CONTEXT: Skills/779/name/
+∞ Flame Burst#afrg
+> END STRING
+
+> BEGIN STRING
+敵単体に３連射の小ダメージを与える。火属性
+> CONTEXT: Skills/779/description/
+Deals light damage, three times. Fire attribute.#afrg
+> END STRING
+
+> BEGIN STRING
+∞バーストフリーズ
+> CONTEXT: Skills/780/name/
+∞ Freeze Burst#afrg
+> END STRING
+
+> BEGIN STRING
+敵単体に３連射の小ダメージを与える。氷属性
+> CONTEXT: Skills/780/description/
+Deals light damage, three times. Ice attribute.#afrg
+> END STRING
+
+> BEGIN STRING
+∞バーストボルテック
+> CONTEXT: Skills/781/name/
+∞ Vortex Burst#afrg
+> END STRING
+
+> BEGIN STRING
+敵単体に３連射の小ダメージを与える。雷属性
+> CONTEXT: Skills/781/description/
+Deals light damage, three times. Lightning attribute.#afrg
+> END STRING
+
+> BEGIN STRING
+∞バーストウィンド
+> CONTEXT: Skills/782/name/
+∞ Wind Burst#afrg
+> END STRING
+
+> BEGIN STRING
+敵単体に３連射の小ダメージを与える。風属性
+> CONTEXT: Skills/782/description/
+Deals light damage, three times. Wind attribute.#afrg
+> END STRING
+
+> BEGIN STRING
+∞ミョルニル
+> CONTEXT: Skills/785/name/
+∞ Mjolnir#afrg
+> END STRING
+
+> BEGIN STRING
+は∞キャリコを放った！
+> CONTEXT: Skills/786/message1/
+ used ∞ Calico!#afrg
+> END STRING

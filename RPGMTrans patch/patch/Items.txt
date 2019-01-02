@@ -1,0 +1,1680 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+栄養ドリンク
+> CONTEXT: Items/1/name/
+Energy Drink#Dargoth
+> END STRING
+
+> BEGIN STRING
+気力と抵抗力を５０％回復する。
+> CONTEXT: Items/1/description/
+Recovers 50% willpower and vitality.#Dargoth
+> END STRING
+
+> BEGIN STRING
+食用ハーブ。そのまま摂取しても気力が全快するが
+セーフルームで飲み物にすれば抵抗力と性欲も全快する。
+> CONTEXT: Items/2/description/
+Edible herb, recovers all vitality if eaten.
+Can be used to make tea in a safe room.#Dargoth
+> END STRING
+
+> BEGIN STRING
+ビタミン剤
+> CONTEXT: Items/3/name/
+Vitamins#Dargoth
+> END STRING
+
+> BEGIN STRING
+成人男性が必要とする栄養素を詰めた錠剤。
+抵抗力を全回復し、５ターンの間は衰弱しない。
+> CONTEXT: Items/3/description/
+Packed with essential nutrients. Heals 100%
+willpower and prevents weakness for 5 turns.#Dargoth
+> END STRING
+
+> BEGIN STRING
+アドレナリン
+> CONTEXT: Items/4/name/
+> CONTEXT: Items/503/name/
+Adrenaline#Dargoth
+> END STRING
+
+> BEGIN STRING
+「恍惚」「魅了」「虜」の状態異常を治療する。
+その後、しばらくの間抵抗と気力が２０％回復する。
+> CONTEXT: Items/4/description/
+Removes [Ecstasy], [Charmed], and [Enslaved].
+Recovers 20% willpower and vitality for a short time.#Dargoth
+> END STRING
+
+> BEGIN STRING
+包帯
+> CONTEXT: Items/5/name/
+Bandage#Dargoth
+> END STRING
+
+> BEGIN STRING
+「出血」状態を治療する。
+> CONTEXT: Items/5/description/
+Stops [Bleed].#Dargoth
+> END STRING
+
+> BEGIN STRING
+「出血」を治療し、５ターンの間、性欲を１０づつ減らす。
+更に恍惚系のバットステータスにかからなくなる。
+> CONTEXT: Items/6/description/
+Stops [Bleed] and reduces lust by 10 for 5
+turns. Also prevents ecstasy effects.#Dargoth
+> END STRING
+
+> BEGIN STRING
+レーション
+> CONTEXT: Items/7/name/
+> CONTEXT: Items/506/name/
+Ration#Dargoth
+> END STRING
+
+> BEGIN STRING
+軍用携帯食。栄養はあるが味はそこまで良くない。
+使用すると気力が全快して、５ターンの間は疲労しない。
+> CONTEXT: Items/7/description/
+Army rations. Nutritious, but bland. Fully restores
+vitality and prevents exhaustion for 5 turns.#Dargoth
+> END STRING
+
+> BEGIN STRING
+鎮静剤
+> CONTEXT: Items/8/name/
+Painkiller#Dargoth
+> END STRING
+
+> BEGIN STRING
+抵抗力と気力を２０％回復して、
+精神系状態異常を治療する。
+> CONTEXT: Items/8/description/
+Heals 20% willpower and vitality and cures mental
+status effects.#Dargoth
+> END STRING
+
+> BEGIN STRING
+ランパスドロップ
+> CONTEXT: Items/9/name/
+> CONTEXT: Items/508/name/
+Lampas Drop#Dargoth
+> END STRING
+
+> BEGIN STRING
+ランパスの蜜を固めて作られたあまーい飴。戦闘中のみ使用可
+気力を７５％回復して、しばらく恍惚にならなくなる。
+> CONTEXT: Items/9/description/
+Candy made from hardened lampas nectar. Restores
+75% vitality and prevents ecstasy for a short time.#Dargoth
+> END STRING
+
+> BEGIN STRING
+ランパスシロップ
+> CONTEXT: Items/10/name/
+> CONTEXT: Items/509/name/
+Lampas Syrup#Dargoth
+> END STRING
+
+> BEGIN STRING
+ランパスの蜜を練成しすぎて溶けてしまった飴。戦闘中のみ使用可
+気力と抵抗力を全快するが、脱力してしまう。
+> CONTEXT: Items/10/description/
+Syrup made from refined lampas nectar. Combat use only.
+Fully restores willpower and vitality, but debilitate you.#DargothPR
+> END STRING
+
+> BEGIN STRING
+ぼろぼろの包帯
+> CONTEXT: Items/13/name/
+Tattered Bandage#Dargoth
+> END STRING
+
+> BEGIN STRING
+\\C[10]貴様はなぜ
+\\C[10]こんな何の役にも立たないものを持っているんだ？
+> CONTEXT: Items/13/description/
+\\C[10]Why do you hold on to such a useless item?#Dargoth
+> END STRING
+
+> BEGIN STRING
+軍用の閃光手榴弾。
+イベントやボス戦以外のバトルを確実に抜け出せる。
+> CONTEXT: Items/14/description/
+Military issue flashbang. Used to escape from battles,
+except for bosses and events.#Dargoth
+> END STRING
+
+> BEGIN STRING
+バッテリー
+> CONTEXT: Items/15/name/
+Battery#Dargoth
+> END STRING
+
+> BEGIN STRING
+大きめのバッテリー。
+居住区のシャッターを開けるのに必要。
+> CONTEXT: Items/15/description/
+A large battery. Needed to open the shutters in the
+residential quarters.#Dargoth
+> END STRING
+
+> BEGIN STRING
+天の鍵
+> CONTEXT: Items/16/name/
+Heaven Key#afrgPR
+> END STRING
+
+> BEGIN STRING
+『奈落』を封じるための鍵。
+地の鍵と対になっている。
+> CONTEXT: Items/16/description/
+A key which can seal away the Abyss.
+Forms a pair with the Earth Key.#afrgPR
+> END STRING
+
+> BEGIN STRING
+地の鍵
+> CONTEXT: Items/17/name/
+Earth Key#afrg
+> END STRING
+
+> BEGIN STRING
+『奈落』を封じるための鍵。
+天の鍵と対になっている。
+> CONTEXT: Items/17/description/
+A key which can seal away the Abyss.
+Forms a pair with the Heaven Key.#afrgPR
+> END STRING
+
+> BEGIN STRING
+人の鍵
+> CONTEXT: Items/18/name/
+Human Key#afrg
+> END STRING
+
+> BEGIN STRING
+『邪への抗い、それこそ人なり』と刻まれている。
+どこかの鍵のようだが、形が変だ…
+> CONTEXT: Items/18/description/
+It is engraved with the text "Resistance to evil is what makes one human."
+It looks like some kind of key, but its shape is odd.#afrg
+> END STRING
+
+> BEGIN STRING
+貯水池の鍵
+> CONTEXT: Items/19/name/
+Reservoir Key#afrg
+> END STRING
+
+> BEGIN STRING
+錆び付いた古い鍵。
+水路の貯水池のマンホールを開けることが出来る。
+> CONTEXT: Items/19/description/
+An old, rusty key.
+It unlocks the manhole in the canal reservoir.#afrg
+> END STRING
+
+> BEGIN STRING
+ハンドガンの弾
+> CONTEXT: Items/20/name/
+Handgun Rounds#Dargoth
+> END STRING
+
+> BEGIN STRING
+ハンドガンの中に装填されている弾丸。
+> CONTEXT: Items/20/description/
+Bullet which can fit into the handgun.#afrg
+> END STRING
+
+> BEGIN STRING
+９ｍｍパラベラム弾
+> CONTEXT: Items/21/name/
+9mm Parabellum Rounds#Dargoth
+> END STRING
+
+> BEGIN STRING
+リロードの際に余った銃弾。
+休憩所でそれぞれの弾倉に込め直す必要がある。
+> CONTEXT: Items/21/description/
+> CONTEXT: Items/32/description/
+> CONTEXT: Items/36/description/
+Unused rounds from old magazines. Can be combined to
+create full magazines in a safe room.#Dargoth
+> END STRING
+
+> BEGIN STRING
+ハンドガンの弾倉
+> CONTEXT: Items/22/name/
+Handgun Mag.#Dargoth
+> END STRING
+
+> BEGIN STRING
+ハンドガンのリロードに必要なアイテム。
+> CONTEXT: Items/22/description/
+Used to reload handguns.#Dargoth
+> END STRING
+
+> BEGIN STRING
+マシンピストルの弾
+> CONTEXT: Items/23/name/
+Machine Pistol Rounds#Dargoth
+> END STRING
+
+> BEGIN STRING
+マシンピストルの中に装填されている弾丸。
+> CONTEXT: Items/23/description/
+Bullets which can be loaded into the machine pistol.#afrg
+> END STRING
+
+> BEGIN STRING
+マシンピストルの弾倉
+> CONTEXT: Items/24/name/
+Machine Pistol Mag.#Dargoth
+> END STRING
+
+> BEGIN STRING
+マシンピストルのリロードに必要なアイテム。
+> CONTEXT: Items/24/description/
+Used to reload machine pistols.#Dargoth
+> END STRING
+
+> BEGIN STRING
+ショットシェル
+> CONTEXT: Items/25/name/
+> CONTEXT: Items/26/name/
+> CONTEXT: Items/34/name/
+Shotgun Shells#Dargoth
+> END STRING
+
+> BEGIN STRING
+ショットガンの中に装填されている弾丸。
+> CONTEXT: Items/25/description/
+> CONTEXT: Items/34/description/
+Can be loaded into the shotgun.#afrg
+> END STRING
+
+> BEGIN STRING
+ショットガンを撃つのに必要な弾丸。
+\\C[2]スキルの『リロード』でのみ装填可能。
+> CONTEXT: Items/26/description/
+Bullets needed to shoot a shotgun. \\C[2]Can only
+be loaded with the Reload skill.#afrg
+> END STRING
+
+> BEGIN STRING
+ホルスター
+> CONTEXT: Items/28/name/
+> CONTEXT: Items/520/name/
+Holster#Dargoth
+> END STRING
+
+> BEGIN STRING
+武器を練気の刀に持ち替える。
+\\C[2]一度持ち替えると戦闘中二度と変更できないので注意
+> CONTEXT: Items/28/description/
+Used to switch to the Invigorating Sword in battle.
+\\C[2]Once swapped, cannot swap again in that battle.#Dargoth
+> END STRING
+
+> BEGIN STRING
+リペアキット
+> CONTEXT: Items/29/name/
+Repair Kit#afrg
+> END STRING
+
+> BEGIN STRING
+壊れたものを修理するための道具。
+\\C[2]作業台で特定のものを修理出来そうだ。
+> CONTEXT: Items/29/description/
+Tools to repair broken things.
+\\C[2]Can be used at the workbench.#afrg
+> END STRING
+
+> BEGIN STRING
+壊れたアサルトライフル
+> CONTEXT: Items/30/name/
+Broken Assault Rifle#afrg
+> END STRING
+
+> BEGIN STRING
+軽度の損傷で弾が出なくなったライフル。
+\\C[2]替えの部品さえあれば『作業台』で直せそうだが…。
+> CONTEXT: Items/30/description/
+Rifle which cannot fire due to light damage.
+\\C[2]If you have spare parts, you can repair it at the workbench.#afrg
+> END STRING
+
+> BEGIN STRING
+アサルトライフル弾
+> CONTEXT: Items/31/name/
+Assault Rifle Rounds#afrg
+> END STRING
+
+> BEGIN STRING
+中身の弾
+> CONTEXT: Items/31/description/
+> CONTEXT: Items/35/description/
+Contains bullets.#afrg
+> END STRING
+
+> BEGIN STRING
+5.56mmライフル弾
+> CONTEXT: Items/32/name/
+5.56 mm Rifle Rounds#afrg
+> END STRING
+
+> BEGIN STRING
+アサルトライフルの弾倉
+> CONTEXT: Items/33/name/
+Assault Rifle Magazine#afrg
+> END STRING
+
+> BEGIN STRING
+アサルトライフルのリロードに必要なアイテム。
+> CONTEXT: Items/33/description/
+Needed to reload the assault rifle.#afrg
+> END STRING
+
+> BEGIN STRING
+マグナム弾
+> CONTEXT: Items/35/name/
+Magnum Rounds#afrg
+> END STRING
+
+> BEGIN STRING
+50口径マグナム弾
+> CONTEXT: Items/36/name/
+.50 Cal Magnum Bullet#afrg
+> END STRING
+
+> BEGIN STRING
+マグナムリローダー
+> CONTEXT: Items/37/name/
+Speedloader#afrgPR
+> END STRING
+
+> BEGIN STRING
+マグナムのリロードに必要なアイテム。
+> CONTEXT: Items/37/description/
+Needed to reload the Magnum.#afrg
+> END STRING
+
+> BEGIN STRING
+ドラムマガジン
+> CONTEXT: Items/38/name/
+Drum Magazine#afrg
+> END STRING
+
+> BEGIN STRING
+キャリコのリロード用超大型弾倉。アイテム欄で使用。
+一度に９０発装填する事が出来る。
+> CONTEXT: Items/38/description/
+Extra large magazine for reloading Calico. Used from
+the Items screen. It loads 90 rounds at once.#afrg
+> END STRING
+
+> BEGIN STRING
+シェルローダー
+> CONTEXT: Items/39/name/
+Shell Loader#afrg
+> END STRING
+
+> BEGIN STRING
+ライオット・ミョルニルのリロード用弾倉。アイテム欄で使用。
+１回につき５発装填できる
+> CONTEXT: Items/39/description/
+Magazine for reloading Riot and Mjolnir. Used from
+the Items screen. It loads five rounds at once.#afrg
+> END STRING
+
+> BEGIN STRING
+大仏大判
+> CONTEXT: Items/40/name/
+Great Buddha Statue#afrg
+> END STRING
+
+> BEGIN STRING
+とても貴重な金貨。大昔の物とは思えない輝きを放っている。
+売ればかなりのお金になる。
+> CONTEXT: Items/40/description/
+Very precious gold coin. They have a radiance that can not
+possibly be as ancient as they seem. Selling them makes 
+a considerable amount of money.#afrg
+> END STRING
+
+> BEGIN STRING
+ダイヤモンド
+> CONTEXT: Items/45/name/
+Diamond#Dargoth
+> END STRING
+
+> BEGIN STRING
+高価な宝石。かなり高値で売れる。
+他にも、永遠の愛を意味するこの石には使い道があるとか…
+> CONTEXT: Items/45/description/
+A very expensive rock. Sells for a lot. Or you could
+use it to express your eternal love...#Dargoth
+> END STRING
+
+> BEGIN STRING
+リニアランチャー
+> CONTEXT: Items/49/name/
+Linear Launcher#afrg
+> END STRING
+
+> BEGIN STRING
+闇イモリの黒焼き
+> CONTEXT: Items/50/name/
+Charred Salamender#afrgPR
+> END STRING
+
+> BEGIN STRING
+カプセルで行った肉体強化を全てリセット出来る。
+\\C[10]肉体に負担がかかるため、休憩所での使用を推奨
+> CONTEXT: Items/50/description/
+Resets all physical reinforcements done within the capsule.
+\C[10]Be ready to rest after you use it.#afrgPR
+> END STRING
+
+> BEGIN STRING
+零次元展開装置
+> CONTEXT: Items/51/name/
+> CONTEXT: Items/52/name/
+Zero-Dimensional Expansion Device#afrg
+> END STRING
+
+> BEGIN STRING
+周囲の空間・時間全てを虚無へと放り込む危険な装置。
+幸いなことに、\\N[1]はこのアイテムの使い方を知らない。
+> CONTEXT: Items/51/description/
+> CONTEXT: Items/52/description/
+A dangerous device that annihaltes the surrounding spacetime.
+Fortunately, \\N[1] does not know how to use this item.#afrg
+> END STRING
+
+> BEGIN STRING
+焼夷弾
+> CONTEXT: Items/54/name/
+Incendiary Shell#afrgPR
+> END STRING
+
+> BEGIN STRING
+アサルトライフルの『グレネード』で使用する弾丸。
+火属性。
+> CONTEXT: Items/54/description/
+> CONTEXT: Items/66/description/
+Can be fired as a grenade by the assault rifle.
+Fire attribute.#afrg
+> END STRING
+
+> BEGIN STRING
+凍結弾
+> CONTEXT: Items/55/name/
+Freezing Shell#afrgPR
+> END STRING
+
+> BEGIN STRING
+アサルトライフルの『グレネード』で使用する弾丸
+氷属性
+> CONTEXT: Items/55/description/
+> CONTEXT: Items/67/description/
+Can be fired as a grenade by the assault rifle.
+Ice attribute.#afrg
+> END STRING
+
+> BEGIN STRING
+雷撃弾
+> CONTEXT: Items/56/name/
+Lightning Shell#afrgPR
+> END STRING
+
+> BEGIN STRING
+アサルトライフルの『グレネード』で使用する弾丸
+雷属性
+> CONTEXT: Items/56/description/
+> CONTEXT: Items/68/description/
+Can be fired as a grenade by the assault rifle.
+Lightning attribute.#afrg
+> END STRING
+
+> BEGIN STRING
+疾風弾
+> CONTEXT: Items/57/name/
+Gale Shell#afrgPR
+> END STRING
+
+> BEGIN STRING
+アサルトライフルの『グレネード』で使用する弾丸
+風属性
+> CONTEXT: Items/57/description/
+> CONTEXT: Items/69/description/
+Can be fired as a grenade by the assault rifle.
+Wind attribute.#afrg
+> END STRING
+
+> BEGIN STRING
+カスタムキット
+> CONTEXT: Items/60/name/
+Custom Kit#Dargoth
+> END STRING
+
+> BEGIN STRING
+銃の改造に必要な工具の入った箱。
+> CONTEXT: Items/60/description/
+A kit used for modifying a firearm.#Dargoth
+> END STRING
+
+> BEGIN STRING
+カスタムパーツA
+> CONTEXT: Items/61/name/
+Custom Parts A#afrg
+> END STRING
+
+> BEGIN STRING
+「マシンピストル」の改造に必要な部品。
+これと「カスタムキット」があれば作業台で改造できる。
+> CONTEXT: Items/61/description/
+Needed to remodel machine pistols.
+Remodel guns at the workbench with a Custom Kit.#afrgPR
+> END STRING
+
+> BEGIN STRING
+カスタムパーツB
+> CONTEXT: Items/62/name/
+Custom Parts B#afrg
+> END STRING
+
+> BEGIN STRING
+「ライオット」の改造に必要な部品。
+これと「カスタムキット」があれば作業台で改造できる。
+> CONTEXT: Items/62/description/
+Needed to remodel riot guns.
+Remodel guns at the workbench with a Custom Kit.#afrgPR
+> END STRING
+
+> BEGIN STRING
+カスタムパーツC
+> CONTEXT: Items/63/name/
+Custom Parts C#afrg
+> END STRING
+
+> BEGIN STRING
+「カスタムハンドガン」の改造に必要な部品。
+これと「カスタムキット」があれば作業台で改造できる。
+> CONTEXT: Items/63/description/
+Needed to remodel custom handguns.
+Remodel guns at the workbench with a Custom Kit.#afrgPR
+> END STRING
+
+> BEGIN STRING
+カスタムパーツD
+> CONTEXT: Items/64/name/
+Custom Parts D#afrg
+> END STRING
+
+> BEGIN STRING
+「アサルトライフル」の改造に必要な部品。
+これと「カスタムキット」があれば作業台で改造できる。
+> CONTEXT: Items/64/description/
+Needed to remodel assault rifles.
+Remodel guns at the workbench with a Custom Kit.#afrgPR
+> END STRING
+
+> BEGIN STRING
+カスタムパーツE
+> CONTEXT: Items/65/name/
+Custom Parts E#afrg
+> END STRING
+
+> BEGIN STRING
+「サブマシンガン」の改造に必要な部品。
+これと「カスタムキット」があれば作業台で改造できる。
+> CONTEXT: Items/65/description/
+Needed to remodel submachine guns.
+Remodel guns at the workbench with a Custom Kit.#afrgPR
+> END STRING
+
+> BEGIN STRING
+焼夷弾（装填）
+> CONTEXT: Items/66/name/
+Incendiary round (loading)#MTLed
+> END STRING
+
+> BEGIN STRING
+凍結弾（装填）
+> CONTEXT: Items/67/name/
+Freezing round (loading)#MTLed
+> END STRING
+
+> BEGIN STRING
+雷撃弾（装填）
+> CONTEXT: Items/68/name/
+Lightning round (loading)#MTLed
+> END STRING
+
+> BEGIN STRING
+疾風弾（装填）
+> CONTEXT: Items/69/name/
+Gale rounds (loading)#MTLed
+> END STRING
+
+> BEGIN STRING
+カスタムパーツF
+> CONTEXT: Items/70/name/
+Custom Parts F#afrg
+> END STRING
+
+> BEGIN STRING
+「ソードオフ」の改造に必要な部品。
+これと「カスタムキット」があれば作業台で改造できる。
+> CONTEXT: Items/70/description/
+Parts necessary for remodeling the Sawed-off. With this
+Custom Kit, it can be built at a workbench.#afrg
+> END STRING
+
+> BEGIN STRING
+エンゲージリング
+> CONTEXT: Items/80/name/
+Engagement Ring#Dargoth
+> END STRING
+
+> BEGIN STRING
+人間にとって、特別な意味が込められた指輪。
+\\C[14]キズナ状態の悪魔に対して\\C[0]愛の誓いを立てることができる。
+> CONTEXT: Items/80/description/
+For humans, a ring with special meaning. \\C[14]You can
+use it to profess your love for \\C[14] a bonded demon.\\C[0]#afrg
+> END STRING
+
+> BEGIN STRING
+魔界肉
+> CONTEXT: Items/81/name/
+Monster Meat#Dargoth
+> END STRING
+
+> BEGIN STRING
+魔力の宿った肉。もとは何かの悪魔だったのだろうか。
+\\C[14]魔獣に対して\\C[0]プレゼントすると、友好度が上がる。
+> CONTEXT: Items/81/description/
+Magic-infused meat. Was it a demon, once?
+When given as a gift to a demon, \\C[14] increases friendship with her.#afrg
+> END STRING
+
+> BEGIN STRING
+魔石
+> CONTEXT: Items/82/name/
+Magic Rock#Dargoth
+> END STRING
+
+> BEGIN STRING
+魔力のこもった不思議な石。だが魔界にはゴロゴロある。
+\\C[14]全ての種族に対して\\C[0]プレゼントすると、友好度が少し上がる。
+> CONTEXT: Items/82/description/
+A mysterious magical stone. It thunders like hell.
+When given as a gift to a demon, \\C[14] increases friendship with her.#afrg - not entirely accurate
+> END STRING
+
+> BEGIN STRING
+珍酒『快楽堕とし』
+> CONTEXT: Items/83/name/
+Rare Vintage [Corrupt Pleasure]#Dargoth
+> END STRING
+
+> BEGIN STRING
+魔界でマニアに嗜まれる、珍しいお酒。甘くて美味しい。
+\\C[14]全ての種族に対して\\C[0]プレゼントすると、友好度が上がる。
+> CONTEXT: Items/83/description/
+A rare sake which is much loved in hell. It deliciously sweet.
+When given as a gift to a demon, \\C[14] increases friendship with her.#afrg
+> END STRING
+
+> BEGIN STRING
+エメラルド
+> CONTEXT: Items/85/name/
+Emerald#Dargoth
+> END STRING
+
+> BEGIN STRING
+幸福を意味する緑色の宝石。売ってもお金になる。
+\\C[14]妖魔に対して\\C[0]プレゼントすると、友好度が上がる。
+> CONTEXT: Items/85/description/
+A green jewel symbolizing happiness. Can be sold for money.
+When given as a gift to a demon, \\C[14] increases friendship with her.#afrg
+> END STRING
+
+> BEGIN STRING
+幕の内弁当
+> CONTEXT: Items/86/name/
+> CONTEXT: Items/125/name/
+Rice Ball Bento#afrg
+> END STRING
+
+> BEGIN STRING
+人間界で売られている普通のお弁当。２個セット。
+\\C[14]ハル＆リズに対して\\C[0]プレゼントすると、友好度が上がる。
+> CONTEXT: Items/86/description/
+Regular human food. 2 portions.
+\\C[14]Haru & Liz\\C[0] will like this gift.#afrg
+> END STRING
+
+> BEGIN STRING
+高級焼魚弁当
+> CONTEXT: Items/87/name/
+High-Quality Fish Bento#afrg
+> END STRING
+
+> BEGIN STRING
+魔界の珍魚が調理された、鈴音印のお弁当。２個セット。
+\\C[14]ハル＆リズに対して\\C[0]プレゼントすると、友好度が上がる。
+> CONTEXT: Items/87/description/
+Suzune brand bento. Two portions of demon world fish. 
+\\C[14]Haru & Liz\\C[0] will like this gift.#afrgPR
+> END STRING
+
+> BEGIN STRING
+アクアマリン
+> CONTEXT: Items/88/name/
+Aquamarine#afrg
+> END STRING
+
+> BEGIN STRING
+聡明を意味する水色の宝石。売ってもお金になる。
+\\C[14]妖魔に対して\\C[0]プレゼントすると、友好度が上がる。
+> CONTEXT: Items/88/description/
+Light blue jewel symbolizing intelligence. Very expensive.
+\\C[14]Monsters\\C[0] will like this gift.#afrgPR
+> END STRING
+
+> BEGIN STRING
+ルビー
+> CONTEXT: Items/89/name/
+Ruby#afrg
+> END STRING
+
+> BEGIN STRING
+情熱を意味する赤色の宝石。売ってもお金になる。
+\\C[14]妖魔に対して\\C[0]プレゼントすると、友好度が上がる。
+> CONTEXT: Items/89/description/
+Red jewel symbolizing passion. Very expensive.
+\\C[14]Monsters\\C[0] will like this gift.#afrgPR
+> END STRING
+
+> BEGIN STRING
+攻撃経文
+> CONTEXT: Items/96/name/
+Attack Scriptures#afrg
+> END STRING
+
+> BEGIN STRING
+ホットリミットLvMAXの効果を一度だけ発動させる
+> CONTEXT: Items/96/description/
+Applies Hot Limit LvMAX once only.#afrg
+> END STRING
+
+> BEGIN STRING
+冷静経文
+> CONTEXT: Items/97/name/
+Calmness Scriptures#afrg
+> END STRING
+
+> BEGIN STRING
+クールカームLvMAXの効果を一度だけ発動させる
+> CONTEXT: Items/97/description/
+Applies Cool Calm LvMAX once only.#afrg
+> END STRING
+
+> BEGIN STRING
+竜巻壺
+> CONTEXT: Items/98/name/
+Tornado Jar#afrg
+> END STRING
+
+> BEGIN STRING
+シルフストームLvMAXの効果を一度だけ発動させる
+> CONTEXT: Items/98/description/
+Applies Sylph Storm LvMAX once only.#afrg
+> END STRING
+
+> BEGIN STRING
+銘菓雷神
+> CONTEXT: Items/99/name/
+Delicious Thunder God Candy#afrg
+> END STRING
+
+> BEGIN STRING
+ボルテクステップLvMAXの効果を一度だけ発動させる
+> CONTEXT: Items/99/description/
+Applies Voltaic Step LvMAX once only.#afrg
+> END STRING
+
+> BEGIN STRING
+バーゲストの鋭爪
+> CONTEXT: Items/100/name/
+Barghest Paw#Dargoth
+> END STRING
+
+> BEGIN STRING
+バーゲストから剥ぎ取った、鋭い切れ味を持つ爪。
+
+> CONTEXT: Items/100/description/
+A paw with sharp nails ripped off a barghest.
+#Dargoth
+> END STRING
+
+> BEGIN STRING
+ランパスの頭葉
+> CONTEXT: Items/101/name/
+Lampas Head Leaf#Dargoth
+> END STRING
+
+> BEGIN STRING
+ランパスから剥ぎ取った、大きい丈夫な葉。
+
+> CONTEXT: Items/101/description/
+A large, sturdy leaf ripped off a lampas.
+#Dargoth
+> END STRING
+
+> BEGIN STRING
+宝珠『失愛』
+> CONTEXT: Items/102/name/
+Jewel[Broken Heart]#Dargoth
+> END STRING
+
+> BEGIN STRING
+アイアンメイデンが落とした宝珠。その輝きは失われている。
+> CONTEXT: Items/102/description/
+A jewel dropped by the Iron Maiden. It has lost
+its luster.#Dargoth
+> END STRING
+
+> BEGIN STRING
+エンプーサの腕
+> CONTEXT: Items/103/name/
+Empuse Arm#Dargoth
+> END STRING
+
+> BEGIN STRING
+エンプーサから剥ぎ取った、非常に大きい昆虫の腕。
+> CONTEXT: Items/103/description/
+A giant insect arm ripped off Empuse.#DargothPR
+> END STRING
+
+> BEGIN STRING
+兎の毛皮
+> CONTEXT: Items/104/name/
+Rabbit Fur#afrg
+> END STRING
+
+> BEGIN STRING
+マザーラビットから剥ぎ取った、身体の一部。
+
+> CONTEXT: Items/104/description/
+Taken from a part of Mother Rabbit's body.#afrg
+> END STRING
+
+> BEGIN STRING
+魔獣の革
+> CONTEXT: Items/105/name/
+Demon Beast Leather#afrg
+> END STRING
+
+> BEGIN STRING
+ハルとリズから剥ぎ取った、身体の一部。
+
+> CONTEXT: Items/105/description/
+Taken from Haru & Liz's bodies.#afrg
+> END STRING
+
+> BEGIN STRING
+暗邪水晶
+> CONTEXT: Items/106/name/
+Darkness Crystal#afrgPR
+> END STRING
+
+> BEGIN STRING
+躯から剥ぎ取った、怨みの結晶。
+
+> CONTEXT: Items/106/description/
+Crystalization of resentment stripped from Mukuro. #afrgPR
+> END STRING
+
+> BEGIN STRING
+紫のリボン
+> CONTEXT: Items/107/name/
+Purple Ribbon#afrg
+> END STRING
+
+> BEGIN STRING
+ニーナから剥ぎ取った、魔力の結晶。
+
+> CONTEXT: Items/107/description/
+Magic ribbon taken from Nina.#afrg
+> END STRING
+
+> BEGIN STRING
+エコーの尾ヒレ
+> CONTEXT: Items/108/name/
+Echo's Tail Fin#afrg
+> END STRING
+
+> BEGIN STRING
+エコーから剥ぎ取った、まだ微動している尾ヒレ。
+> CONTEXT: Items/108/description/
+Tail taken from Echo. It still twitches slightly.#afrg
+> END STRING
+
+> BEGIN STRING
+スフィンクスの羽
+> CONTEXT: Items/109/name/
+Sphinx's Wings#afrgPR
+> END STRING
+
+> BEGIN STRING
+スフィンクスから剥ぎ取った、血まみれの羽。
+> CONTEXT: Items/109/description/
+Blood-stained wings taken from Sphinx.#afrgPR
+> END STRING
+
+> BEGIN STRING
+宝珠『絶望』
+> CONTEXT: Items/110/name/
+Orb "Despair"#afrg
+> END STRING
+
+> BEGIN STRING
+アルケニーが残した宝珠。
+その輝きはどす黒く、陰鬱な気分にさせる。
+> CONTEXT: Items/110/description/
+Orb dropped by Archeny.
+It exudes a dark aura creating an unpleasant mood.#afrgPR
+> END STRING
+
+> BEGIN STRING
+ティタノボアの目玉
+> CONTEXT: Items/111/name/
+Titanoboa's Eyeball#afrgPR
+> END STRING
+
+> BEGIN STRING
+ティタノボアからくりぬいた、輝きを失った目玉。
+> CONTEXT: Items/111/description/
+A lifeless eyeball digged out from Titanoboa.#afrgPR
+> END STRING
+
+> BEGIN STRING
+カマソッソの尻尾
+> CONTEXT: Items/112/name/
+Camazotz Tail#afrg
+> END STRING
+
+> BEGIN STRING
+カマソッソからもぎとった、触手の収納された尻尾。
+ヌルヌルして汚らわしい
+> CONTEXT: Items/112/description/
+A tail that was torn from a Camazotz, containing her tentacles.
+It's slimy and messy.#afrg
+> END STRING
+
+> BEGIN STRING
+焔龍の息吹
+> CONTEXT: Items/113/name/
+Fire Dragon Breath#afrgPR
+> END STRING
+
+> BEGIN STRING
+魔界の邪龍の炎が詰まった火炎瓶。
+火属性の約５００ダメージを与える。
+> CONTEXT: Items/113/description/
+A Molotov cocktail filled with the fire of a demonic dragon.
+Deals about 500 fire damage.#afrg
+> END STRING
+
+> BEGIN STRING
+氷獣の卵
+> CONTEXT: Items/114/name/
+Ice Beast's Egg#afrg
+> END STRING
+
+> BEGIN STRING
+魔界の禍獣の卵を加工した爆弾。
+氷属性の約５００ダメージを与える。
+> CONTEXT: Items/114/description/
+A bomb made from a demonic beast's egg.
+Deals about 500 ice damage.#afrg
+> END STRING
+
+> BEGIN STRING
+電々太鼓
+> CONTEXT: Items/115/name/
+Lightning Drums#afrg
+> END STRING
+
+> BEGIN STRING
+魔界の雷神の雷を封じた太鼓。
+雷属性の約５００ダメージを与える。
+> CONTEXT: Items/115/description/
+A drum containing a demonic thunder god's lightning.
+Deals about 500 thunder damage.#afrg
+> END STRING
+
+> BEGIN STRING
+軍師の扇子
+> CONTEXT: Items/116/name/
+Strategist's Fan#afrgPR
+> END STRING
+
+> BEGIN STRING
+魔界の風神の神風を起こせる扇子。
+風属性の約５００ダメージを与える。
+> CONTEXT: Items/116/description/
+A fan which blows with a demonic wind god's gale.
+Deals about 500 wind damage.#afrg
+> END STRING
+
+> BEGIN STRING
+７ターンのあいだ、拘束を確実に解除する
+『大暴れ』が使用可能になる。
+> CONTEXT: Items/117/description/
+Guarantees escaping from restraints for 7 turns.
+Enables use of Beserk.#afrg
+> END STRING
+
+> BEGIN STRING
+解呪の魔笛
+> CONTEXT: Items/118/name/
+Dispel Flute#afrgPR
+> END STRING
+
+> BEGIN STRING
+バトル中のみ使用可能。無限使用可。
+自身にかかる能力弱体化をすべて打ち消す。
+> CONTEXT: Items/118/description/
+Can only be used in battle. Unlimited uses.
+Cures all stat-weakening effects.#afrg
+> END STRING
+
+> BEGIN STRING
+崖っぷち丸薬
+> CONTEXT: Items/119/name/
+Edge Pill#afrg
+> END STRING
+
+> BEGIN STRING
+抵抗力・気力を全快し、恍惚系の状態異常を治療し
+性欲が一気に０になる。
+> CONTEXT: Items/119/description/
+Completely recovers Will and Vitality, negates lust and
+cures Ecstasy related statuses.#afrgPR
+> END STRING
+
+> BEGIN STRING
+おだんご
+> CONTEXT: Items/120/name/
+> CONTEXT: Items/517/name/
+Dango#afrg
+> END STRING
+
+> BEGIN STRING
+鈴音印のおだんご、味はなかなか。
+抵抗力を全快して、能力低下効果を相殺する。
+> CONTEXT: Items/120/description/
+Tasty Suzune brand dango.
+Completely recovers Will and cures physical debuffs.#afrgPR
+> END STRING
+
+> BEGIN STRING
+みたらしだんご
+> CONTEXT: Items/121/name/
+> CONTEXT: Items/518/name/
+Mitarashi Dango#afrg
+> END STRING
+
+> BEGIN STRING
+鈴音印のおだんご、味はやばい。
+気力を全快して、精神系状態異常を治療する。
+> CONTEXT: Items/121/description/
+Another sick Suzune brand dango.
+Completely recovers Vitality and cures mental debuffs.#afrgPR
+> END STRING
+
+> BEGIN STRING
+三色だんご
+> CONTEXT: Items/122/name/
+Three-Colored Dango#afrg
+> END STRING
+
+> BEGIN STRING
+鈴音印のおだんご、味はとんでもない。
+抵抗力・気力を全快して、しばらく疲労・衰弱にならなくなる。
+> CONTEXT: Items/122/description/
+Another unreal Suzuna brand dango. Restores Vitality and
+Will and prevent Weakness and Fatigue.#afrgPR
+> END STRING
+
+> BEGIN STRING
+魔法治療薬
+> CONTEXT: Items/123/name/
+Magic Cure#afrg
+> END STRING
+
+> BEGIN STRING
+マザーラビットの魔力を中和する治療薬。
+
+> CONTEXT: Items/123/description/
+Treats Mother Rabbit's magic.#afrg
+> END STRING
+
+> BEGIN STRING
+おにぎりセット
+> CONTEXT: Items/124/name/
+Rice Ball Set#afrg
+> END STRING
+
+> BEGIN STRING
+しゃけ、ツナのおにぎりと、軽いおかずが付いたお弁当。
+食べても満腹感と少し気力が回復するだけ。
+> CONTEXT: Items/124/description/
+A bento with side dishes with tuna, salmon, and rice balls.
+Fills the stomach and recovers a bit of Vitality.#afrgPR
+> END STRING
+
+> BEGIN STRING
+スタンダードな御飯付きのお弁当。
+食べても満腹感と少し気力が回復するだけ。
+> CONTEXT: Items/125/description/
+Standard rice bento.
+Only restores a small amount of Vitality.#afrg
+> END STRING
+
+> BEGIN STRING
+ステーキ弁当
+> CONTEXT: Items/126/name/
+Steak Bento#afrg
+> END STRING
+
+> BEGIN STRING
+なんの肉かは分からないが豪華な感じがする弁当。
+食べても満腹感と少し気力が回復するだけ。
+> CONTEXT: Items/126/description/
+An extravagant bento with an unknown meat.
+Only recovers a small amount of Vitality.#afrg
+> END STRING
+
+> BEGIN STRING
+天然水
+> CONTEXT: Items/127/name/
+Spring Water#afrg
+> END STRING
+
+> BEGIN STRING
+魔界の秘境で汲んだ天然水らしい。味はただの水と変わらない。
+飲んでも少し抵抗力が回復するだけ。
+> CONTEXT: Items/127/description/
+Spring water drawn in the mysterious Demon World. It tastes
+just like normal water and recovers some Will.#afrgPR
+> END STRING
+
+> BEGIN STRING
+ポーション
+> CONTEXT: Items/128/name/
+Potion#afrg
+> END STRING
+
+> BEGIN STRING
+オシャレな瓶に入った清涼飲料水。
+回復薬っぽいが、飲んでも少し抵抗力が回復するだけ。
+> CONTEXT: Items/128/description/
+Soda in a pretty bottle.
+Only recovers a small amount of Will.#afrgPR
+> END STRING
+
+> BEGIN STRING
+ポテトチップ
+> CONTEXT: Items/129/name/
+Potato Chips#afrg
+> END STRING
+
+> BEGIN STRING
+魔界産のジャガイモを使ったスナック菓子。
+娯楽品なので、食べてもなんの効果も無い。
+> CONTEXT: Items/129/description/
+Snack made from demon world potatoes.
+A comfort food with no actual effects.#afrgPR
+> END STRING
+
+> BEGIN STRING
+チュパキャンディ
+> CONTEXT: Items/130/name/
+Lollypop#afrg
+> END STRING
+
+> BEGIN STRING
+飴玉に棒が付いたもの。口にくわえるようにして舐める。
+娯楽品なので、食べてもなんの効果も無い。
+> CONTEXT: Items/130/description/
+Candy on a stick. Licked while held in the mouth.
+A comfort food with no actual effects.#afrg
+> END STRING
+
+> BEGIN STRING
+チョコチップクッキー
+> CONTEXT: Items/131/name/
+Chocolate Chip Cookie#afrgPR
+> END STRING
+
+> BEGIN STRING
+人間にも悪魔にも大人気のお菓子。チョコの原料は秘密。
+娯楽品なので、食べてもなんの効果も無い。
+> CONTEXT: Items/131/description/
+Very confident among both humans and demons.
+A comfort food with no actual effects.#afrg
+> END STRING
+
+> BEGIN STRING
+ゼリー
+> CONTEXT: Items/132/name/
+Jelly#afrg
+> END STRING
+
+> BEGIN STRING
+甘い果汁ゼリー。結構大きい。
+娯楽品なので、食べてもなんの効果も無い。
+> CONTEXT: Items/132/description/
+Sweet fruit jelly. Pretty large.
+A comfort food with no actual effects.#afrg
+> END STRING
+
+> BEGIN STRING
+ショートケーキ
+> CONTEXT: Items/133/name/
+Shortcake#afrg
+> END STRING
+
+> BEGIN STRING
+とても甘い、クリームののった菓子ケーキ。
+娯楽品なので、食べてもなんの効果も無い。
+> CONTEXT: Items/133/description/
+Very sweet, cream-filled cake.
+A comfort food with no actual effects.#afrg
+> END STRING
+
+> BEGIN STRING
+パーティセット
+> CONTEXT: Items/134/name/
+Party Set#afrg
+> END STRING
+
+> BEGIN STRING
+いろんなスイーツの盛り合わせセット。
+娯楽品なので、食べてもなんの効果も無い。
+> CONTEXT: Items/134/description/
+A combination platter of various sweets.
+A comfort food with no actual effects.#afrg
+> END STRING
+
+> BEGIN STRING
+裏路地のカギ
+> CONTEXT: Items/135/name/
+Back Alley Key#afrg
+> END STRING
+
+> BEGIN STRING
+裏路地のフェンスを開けるための鍵。
+> CONTEXT: Items/135/description/
+Opens the back alley fence.#afrg
+> END STRING
+
+> BEGIN STRING
+缶コーヒー
+> CONTEXT: Items/136/name/
+Canned Coffee#afrg
+> END STRING
+
+> BEGIN STRING
+あたたかいコーヒー。
+冷えてしまう前に飲まなければ。
+> CONTEXT: Items/136/description/
+Warm coffee.
+Drink it before it gets cold.#afrg
+> END STRING
+
+> BEGIN STRING
+缶コーヒー（冷）
+> CONTEXT: Items/137/name/
+Canned Coffee (Cold)#afrg
+> END STRING
+
+> BEGIN STRING
+冷え切ってしまったコーヒー。
+あまり効果は期待出来ない…
+> CONTEXT: Items/137/description/
+Cooled down coffee.
+It won't be nearly as good now...#afrg
+> END STRING
+
+> BEGIN STRING
+想ひ魂（大兎）
+> CONTEXT: Items/140/name/
+Memento (Rabbit)#afrg
+> END STRING
+
+> BEGIN STRING
+人や悪魔の想いが固まって実体化した珠。
+> CONTEXT: Items/140/description/
+> CONTEXT: Items/142/description/
+> CONTEXT: Items/143/description/
+> CONTEXT: Items/144/description/
+> CONTEXT: Items/145/description/
+> CONTEXT: Items/146/description/
+> CONTEXT: Items/147/description/
+> CONTEXT: Items/148/description/
+> CONTEXT: Items/149/description/
+> CONTEXT: Items/150/description/
+> CONTEXT: Items/200/description/
+> CONTEXT: Items/201/description/
+> CONTEXT: Items/202/description/
+Ball of solidified thoughts of a demon.#afrg
+> END STRING
+
+> BEGIN STRING
+想ひ魂（奈落）
+> CONTEXT: Items/141/name/
+Memento (Abyss)#afrgPR
+> END STRING
+
+> BEGIN STRING
+人や悪魔の想いが固まって実体化した珠。
+
+> CONTEXT: Items/141/description/
+Ball of solidified thoughts of a demon and person.#afrg
+> END STRING
+
+> BEGIN STRING
+想ひ魂（猫又）
+> CONTEXT: Items/142/name/
+Memento (Nekomata)#afrg
+> END STRING
+
+> BEGIN STRING
+想ひ魂（鉄処女）
+> CONTEXT: Items/143/name/
+Memento (Iron Maiden)#afrg
+> END STRING
+
+> BEGIN STRING
+想ひ魂（舞台）
+> CONTEXT: Items/144/name/
+Memento (Stage)#afrg
+> END STRING
+
+> BEGIN STRING
+想ひ魂（双子）
+> CONTEXT: Items/145/name/
+Memento (Twins)#afrg
+> END STRING
+
+> BEGIN STRING
+想ひ魂（人形）
+> CONTEXT: Items/146/name/
+Memento (Doll)#afrg
+> END STRING
+
+> BEGIN STRING
+想ひ魂（謎掛獅子）
+> CONTEXT: Items/147/name/
+Memento (Lion Riddler)#afrgPR
+> END STRING
+
+> BEGIN STRING
+想ひ魂（蜘蛛糸）
+> CONTEXT: Items/148/name/
+Memento (Spider Web)#afrg
+> END STRING
+
+> BEGIN STRING
+想ひ魂（蛇追跡）
+> CONTEXT: Items/149/name/
+Memento (Snake's Pursuit)#afrgPR
+> END STRING
+
+> BEGIN STRING
+想ひ魂（蛇待伏）
+> CONTEXT: Items/150/name/
+Memento (Snake Bondage)#afrg
+> END STRING
+
+> BEGIN STRING
+想ひ魂（夢植物）
+> CONTEXT: Items/200/name/
+Memento (Dream Plant)#afrg
+> END STRING
+
+> BEGIN STRING
+想ひ魂（夢人形）
+> CONTEXT: Items/201/name/
+Memento (Dream Doll)#afrg
+> END STRING
+
+> BEGIN STRING
+想ひ魂（夢猫）
+> CONTEXT: Items/202/name/
+Memento (Dream Cat)#afrg
+> END STRING
+
+> BEGIN STRING
+想ひ魂（朧）
+> CONTEXT: Items/210/name/
+Memento (Faint)#afrg
+> END STRING
+
+> BEGIN STRING
+人や悪魔の想いが固まって実体化した珠。
+その外観はボロボロだ……
+> CONTEXT: Items/210/description/
+A jewel made of the solidified thoughts of humans and demons.
+It looks to be slowly crumblng...#afrg
+> END STRING
+
+> BEGIN STRING
+えいようドリンク
+> CONTEXT: Items/500/name/
+Energy Drink#afrg
+> END STRING
+
+> BEGIN STRING
+おいしくない。
+> CONTEXT: Items/500/description/
+Not delicious.#afrg
+> END STRING
+
+> BEGIN STRING
+くさ。
+> CONTEXT: Items/501/description/
+Rotten.#afrg
+> END STRING
+
+> BEGIN STRING
+ビタミンざい
+> CONTEXT: Items/502/name/
+Vitamins#afrg
+> END STRING
+
+> BEGIN STRING
+おくすり。
+> CONTEXT: Items/502/description/
+Medicine.#afrg
+> END STRING
+
+> BEGIN STRING
+ちゅうしゃ
+> CONTEXT: Items/503/description/
+Injection#afrg
+> END STRING
+
+> BEGIN STRING
+ほうたい
+> CONTEXT: Items/504/name/
+Bandage#afrg
+> END STRING
+
+> BEGIN STRING
+ぬの
+> CONTEXT: Items/504/description/
+Cloth#afrg
+> END STRING
+
+> BEGIN STRING
+ちゅうしゃそのに
+> CONTEXT: Items/505/description/
+In an injector#afrg
+> END STRING
+
+> BEGIN STRING
+まずい
+> CONTEXT: Items/506/description/
+Disgusting#afrg
+> END STRING
+
+> BEGIN STRING
+ちんつうざい
+> CONTEXT: Items/507/name/
+Painkiller#afrg
+> END STRING
+
+> BEGIN STRING
+おくすりそのに
+> CONTEXT: Items/507/description/
+A medicine#afrg
+> END STRING
+
+> BEGIN STRING
+らんぱすちゃんのあめ
+> CONTEXT: Items/508/description/
+Lampas-chan's Candy#afrg
+> END STRING
+
+> BEGIN STRING
+らんぱすちゃんのえき
+> CONTEXT: Items/509/description/
+Lampas-chan's liquid#afrg
+> END STRING
+
+> BEGIN STRING
+かえんびん
+> CONTEXT: Items/510/name/
+Molotov Cocktail#afrg
+> END STRING
+
+> BEGIN STRING
+ひのだめーじをあたえる。
+> CONTEXT: Items/510/description/
+Fire damage.#afrg
+> END STRING
+
+> BEGIN STRING
+たまご
+> CONTEXT: Items/511/name/
+Egg#afrg
+> END STRING
+
+> BEGIN STRING
+こおりのだめーじをあたえる
+> CONTEXT: Items/511/description/
+Ice damage.#afrg
+> END STRING
+
+> BEGIN STRING
+でんでん
+> CONTEXT: Items/512/name/
+Lightning#afrg
+> END STRING
+
+> BEGIN STRING
+かみなりのだめーじをあたえる
+> CONTEXT: Items/512/description/
+Lightning damage.#afrg
+> END STRING
+
+> BEGIN STRING
+せんす
+> CONTEXT: Items/513/name/
+Folding Fan#afrg
+> END STRING
+
+> BEGIN STRING
+かぜのだめーじをあたえる
+> CONTEXT: Items/513/description/
+Wind damage.#afrg
+> END STRING
+
+> BEGIN STRING
+あやしいくすり
+> CONTEXT: Items/514/name/
+Suspicious Medicine#afrg
+> END STRING
+
+> BEGIN STRING
+ぐつぐついってる
+> CONTEXT: Items/514/description/
+It's simmering#afrg
+> END STRING
+
+> BEGIN STRING
+ふえ
+> CONTEXT: Items/515/name/
+Flute#afrg
+> END STRING
+
+> BEGIN STRING
+おかりな
+> CONTEXT: Items/515/description/
+An ocarina#afrg
+> END STRING
+
+> BEGIN STRING
+がんやく
+> CONTEXT: Items/516/name/
+Pill#afrg
+> END STRING
+
+> BEGIN STRING
+まずそう
+> CONTEXT: Items/516/description/
+Looks unappetizing#afrg
+> END STRING
+
+> BEGIN STRING
+おいしい
+> CONTEXT: Items/517/description/
+> CONTEXT: Commonevents/95/67/Choice/1
+Delicious#afrg
+> END STRING
+
+> BEGIN STRING
+すぐおいしい
+> CONTEXT: Items/518/description/
+Immediately delicious#afrg
+> END STRING
+
+> BEGIN STRING
+さんしょくだんご
+> CONTEXT: Items/519/name/
+Color Dango#afrg -- simplified translation to simulate the dumbing down of the japanese
+> END STRING
+
+> BEGIN STRING
+すごくおいしい
+> CONTEXT: Items/519/description/
+Very tasty#afrg
+> END STRING
+
+> BEGIN STRING
+けんにもちかえる
+> CONTEXT: Items/520/description/
+To keep a sword in#afrg
+> END STRING

@@ -1,0 +1,1824 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+早く行ってやれ。
+あいつは待たせるとコエーぞ？
+> CONTEXT: Map003/events/1/pages/1/0/Dialogue
+You better go quickly.
+She's scary when she's mad.#Aesthetic
+> END STRING
+
+> BEGIN STRING
+よう
+
+どうした？
+> CONTEXT: Map003/events/1/pages/2/0/Dialogue
+Yo. 
+What happened?#Aesthetic
+> END STRING
+
+> BEGIN STRING
+アドバイスが欲しい
+> CONTEXT: Map003/events/1/pages/2/4/Choice/0
+Ask for advice#Dargoth
+> END STRING
+
+> BEGIN STRING
+リベンジデータ
+> CONTEXT: Map003/events/1/pages/2/4/Choice/1
+Revenge data#Dargoth
+> END STRING
+
+> BEGIN STRING
+難易度を変更したい
+> CONTEXT: Map003/events/1/pages/2/4/Choice/2
+Change difficulty#Dargoth
+> END STRING
+
+> BEGIN STRING
+心蝕が進行している悪魔に対して
+
+すこしだが攻略のアドバイスをやるよ。
+> CONTEXT: Map003/events/1/pages/2/6/Dialogue
+I can't help you much when it comes to a demon with
+increasing meal levels, but I will give you as much advice
+as I can.#Aesthetic
+> END STRING
+
+> BEGIN STRING
+誰に対して聞きたいんだ？
+> CONTEXT: Map003/events/1/pages/2/10/Dialogue
+Which opponent do you want to ask about?#Aesthetic
+> END STRING
+
+> BEGIN STRING
+バーゲスト if(v[21] \>= 1)
+> CONTEXT: Map003/events/1/pages/2/12/Choice/0
+Barghest if(v[21] \>= 1)#Dargoth
+> END STRING
+
+> BEGIN STRING
+ランパス if(v[22] \>= 1)
+> CONTEXT: Map003/events/1/pages/2/12/Choice/1
+Lampas if(v[22] \>= 1)#Dargoth
+> END STRING
+
+> BEGIN STRING
+アイアンメイデン if(v[23] \>= 1)
+> CONTEXT: Map003/events/1/pages/2/12/Choice/2
+Iron Maiden if(v[23] \>= 1)#Dargoth
+> END STRING
+
+> BEGIN STRING
+エンプーサ if(v[24] \>= 1)
+> CONTEXT: Map003/events/1/pages/2/12/Choice/3
+Empuse if(v[24] \>= 1)#Dargoth
+> END STRING
+
+> BEGIN STRING
+は？マジ？
+
+マジでバーゲストの攻略にアドバイスが欲しいの？
+> CONTEXT: Map003/events/1/pages/2/14/Dialogue
+? Really? Seriously, do you want advice for
+barghest capture?#MTLed
+> END STRING
+
+> BEGIN STRING
+うせやろキミ……
+
+ワンコのあやしかたも知らないんじゃないの…？
+> CONTEXT: Map003/events/1/pages/2/18/Dialogue
+Umeyerro you .... You do not even know how to rex
+you ...?#MTLed
+> END STRING
+
+> BEGIN STRING
+まぁ、逆に犬が好きだから負けてるかもしれんが
+
+それはこの際どうでも良いな
+> CONTEXT: Map003/events/1/pages/2/22/Dialogue
+Well, I guess If you like dogs, it may be that you don't
+think it's a big deal if you lose.#Aesthetic
+> END STRING
+
+> BEGIN STRING
+バーゲストの行動で気をつける点は1つ。
+
+『押し倒し』　これだけだ。
+> CONTEXT: Map003/events/1/pages/2/26/Dialogue
+There's only one thing you need to worry about regarding Barghest. 
+『Pin Down』. 
+That's all.#Aesthetic
+> END STRING
+
+> BEGIN STRING
+\\C[2]押し倒されたらすぐに蹴り飛ばせ。
+
+\\C[0]別のことをやってると、すぐにピンチになるぞ。
+> CONTEXT: Map003/events/1/pages/2/30/Dialogue
+\\C[2]As soon as you get pushed down kick her off.
+\\C[0]If you play around, you'll be in danger.#Aesthetic
+> END STRING
+
+> BEGIN STRING
+蹴り飛ばそうと思ったら気力がなかった！
+
+って事がないように、常に気力は気にしておけよ。
+> CONTEXT: Map003/events/1/pages/2/34/Dialogue
+I don't have the vitality to kick her off even if I tried! 
+Don't let that happen. 
+Always remember to keep your vitality up.#Aesthetic
+> END STRING
+
+> BEGIN STRING
+ランパスの攻撃でまず一番に気をつけないといけないのは
+
+\\C[2]『口塞ぎ』を付与する攻撃だな。
+> CONTEXT: Map003/events/1/pages/2/40/Dialogue
+The main attack you need to worry about regarding Lampas is 
+her \\C[2]『Gag』 attack.#Aesthetic
+> END STRING
+
+> BEGIN STRING
+これを受けた状態を放っておくと
+
+\\C[2]次のターンで必ずピンチになる。
+> CONTEXT: Map003/events/1/pages/2/44/Dialogue
+If you leave this ability as is
+\\C[2]You'll be in trouble the next turn.#Aesthetic
+> END STRING
+
+> BEGIN STRING
+あと、『乳首攻め』から併発する『傀儡』も厄介だな。
+
+これが付与されると武器で攻撃できない。
+> CONTEXT: Map003/events/1/pages/2/48/Dialogue
+The ability 『Nipple Assault』 which can cause 『Puppet』 is 
+also troublesome. Under the 『Puppet』 status effect, you
+cannot attack with weapons.#Aesthetic
+> END STRING
+
+> BEGIN STRING
+ある程度ダメージを与えて、こっちから裸になって
+
+\\C[2]火炎魔法で大ダメージもいいかもしれないな。
+> CONTEXT: Map003/events/1/pages/2/52/Dialogue
+If you take enough damage, she'll strip you.
+\\C[2]Fire magic is especially useful against her. #Aesthetic
+> END STRING
+
+> BEGIN STRING
+チャプター１－２
+> CONTEXT: Map003/events/1/pages/2/58/Choice/0
+Chapter 1-2#MTLed
+> END STRING
+
+> BEGIN STRING
+チャプター１－３
+> CONTEXT: Map003/events/1/pages/2/58/Choice/1
+Chapter 1-3#MTLed
+> END STRING
+
+> BEGIN STRING
+チャプター１－３（G） if(s[142])
+> CONTEXT: Map003/events/1/pages/2/58/Choice/2
+Chapter 1-3 (G)if(s[142])#MTLed
+> END STRING
+
+> BEGIN STRING
+このボスは最初の難関といっても良いな。
+
+それくらい今までの『おさらい』を兼ねた敵になる。
+> CONTEXT: Map003/events/1/pages/2/60/Dialogue
+This boss can be said to be the first truly challenging foe.
+This enemy basically doubles as a 『review』 of all the game
+mechanics you've interacted with so far.#Aesthetic
+> END STRING
+
+> BEGIN STRING
+まず、\\C[2]足の拘束は諦めろ。
+
+触手での攻撃は、『足』→『手』の順だから、
+手が先に拘束されることはない。
+> CONTEXT: Map003/events/1/pages/2/64/Dialogue
+First of all, \\C[2]Give up on freeing your feet.
+Her tentacle attacks have a set order 『leg』→『hand』. This order
+is set in stone so your hands will never be bound first.#Aesthetic
+> END STRING
+
+> BEGIN STRING
+\\C[2]気力が厳しいと思ったら、体勢の回復を優先しろ。
+
+引きずられて、敵の目前まで来ても、
+『一気に距離をとるチャンス』はある
+> CONTEXT: Map003/events/1/pages/2/69/Dialogue
+\\C[2]If you think that your vitality is getting low, prioritize
+recovering your position first. If you're being dragged towards her 
+to the point that you're right in front of her you have an
+『Opportunity to take your distance at once』#Aesthetic
+> END STRING
+
+> BEGIN STRING
+まぁ…どうしても勝機が見いだせないってんなら…
+
+\\C[2]危なく感じたら早めにアドレナリンかモルヒネを打っとけ。
+> CONTEXT: Map003/events/1/pages/2/74/Dialogue
+Well…If you really can't seem to win…
+\\C[2]Use the consumables Adrenaline or Morphine before things 
+start getting dangerous.#Aesthetic
+> END STRING
+
+> BEGIN STRING
+あんな状況で『朦朧』なんてしようものなら命取りだからな
+
+\\C[2]精神統一で常に性欲も管理しておけよ？
+> CONTEXT: Map003/events/1/pages/2/78/Dialogue
+Don't 『Daze』 around during the fight.
+\\C[2]Keep your sexual desire low.#Aesthetic
+> END STRING
+
+> BEGIN STRING
+危険なのは\\C[2]『乳首攻め』『股間攻め』だな
+
+\\C[0]これを次のターンまで放っておくと、ほぼ詰みだ。
+> CONTEXT: Map003/events/1/pages/2/84/Dialogue
+Her most dangerous attacks are \\C[2]『Nipple Assault』『Crotch Assault』
+\\C[0]If you don't properly struggle out of these abilities, 
+she'll most likely win.#Aesthetic
+> END STRING
+
+> BEGIN STRING
+特に\\C[2]最初のターンは両方の状態異常がついてるぞ。
+
+初手は無難に『ふりはらう』でいっとけ。
+> CONTEXT: Map003/events/1/pages/2/88/Dialogue
+To be more specific,\\C[2] you'll be under both of those statuses on 
+the first turn. The first ability you should use is 『Shake Off』.
+Keeping those on you is a death sentence.#Aesthetic
+> END STRING
+
+> BEGIN STRING
+だが相手もスタン攻撃をしてくる場合がある。
+
+\\C[2]常に気力を半分以上が望ましいな。
+> CONTEXT: Map003/events/1/pages/2/92/Dialogue
+However, the opponent also has the chance to stun you. 
+\\C[2]Do your best to never let your vitality drop below half.#Aesthetic
+> END STRING
+
+> BEGIN STRING
+「抜け出す」コマンドを使用すると、
+
+絶対に次のターンに入る前に、\\C[2]何かしらの攻撃が来る。
+> CONTEXT: Map003/events/1/pages/2/96/Dialogue
+If you use 「Coffin Struggle」 there will definitely be a powerful
+attack coming your way.\\C[2] 
+Make sure you have the health to survive the attack.#Aesthetic
+> END STRING
+
+> BEGIN STRING
+\\C[2]『抜け出す』コマンドを使う前は
+
+ゲージ的にもステート的にも余裕を持った状態がベストだな。
+> CONTEXT: Map003/events/1/pages/2/100/Dialogue
+\\C[2]If you are about to use 『Coffin Struggle』 make sure 
+you have enough vitality, health, and a good lust level.#Aesthetic
+> END STRING
+
+> BEGIN STRING
+\\C[2]最初の攻めをふりほどいたあと
+
+速効でアドレナリン使ってゴリ押すっていう荒技もあるが…
+うまくいくかどうかは運次第だ。
+> CONTEXT: Map003/events/1/pages/2/104/Dialogue
+\\C[2]After making it through her first attack, you have room
+to use andernaline and morphine.
+She also has a rough skill that increases ecstasy. Adrenaline
+can help with that, but whether it works depends on luck.#Aesthetic
+> END STRING
+
+> BEGIN STRING
+\\C[2]その際にも、股間攻めと乳首攻めには気をつけろよ？
+> CONTEXT: Map003/events/1/pages/2/109/Dialogue
+\\C[2]Remember, you need to be careful of Crotch Assault 
+and Nipple Assault.#Aesthetic
+> END STRING
+
+> BEGIN STRING
+\\C[10]自分でまいたタネだろ。
+
+せいぜい懺悔しろ。
+> CONTEXT: Map003/events/1/pages/2/113/Dialogue
+\\C[10]You brought this upon yourself.
+Do your best and repent.#Aesthetic
+> END STRING
+
+> BEGIN STRING
+エンプーサは物理がほとんど効かない。
+
+\\C[2]魔法での攻めが中心になるだろうな。
+> CONTEXT: Map003/events/1/pages/2/121/Dialogue
+Physical attacks won't do much to Empuse.
+\\C[2]You should focus on magic attacks to defeat her.#Aesthetic
+> END STRING
+
+> BEGIN STRING
+だが気をつけろよ
+
+\\C[2]銃と違って、魔法は気力を大幅に消費する。
+> CONTEXT: Map003/events/1/pages/2/125/Dialogue
+Still, be careful. 
+\\C[2]Unlike guns, Magic consumes a lot of
+vitality.#Aesthetic
+> END STRING
+
+> BEGIN STRING
+幸いにも、エンプーサは物理攻撃を中心に攻めてくる。
+
+\\C[2]魔法の『シルフストーム』大活躍ってわけだ。
+> CONTEXT: Map003/events/1/pages/2/129/Dialogue
+Fortunately, Empuse mainly has physical attacks
+\\C[2]The magic ability 『Sylph Storm』 would help tremendously.#Aesthetic
+> END STRING
+
+> BEGIN STRING
+\\C[2]道中で手に入れてるっていうなら
+
+『ガントレット』を装備するのも効果的だぞ。
+『出血』の確率がダンチで下がる。
+> CONTEXT: Map003/events/1/pages/2/133/Dialogue
+\\C[2]If you managed to find the item
+『Gauntlet』, it's also effective to equip it.
+It significantly decreases the probability of 『bleeding』.#Aesthetic
+> END STRING
+
+> BEGIN STRING
+もし、『キャプチャ・フォール』で拘束されたら
+
+\\C[2]必死で蹴れ
+> CONTEXT: Map003/events/1/pages/2/138/Dialogue
+If she manages to bind you with 『capture・Fall』
+\\C[2]Desperately Kick her.#Aesthetic
+> END STRING
+
+> BEGIN STRING
+３回も蹴れば相手も諦めてくれるだろうから
+
+\\C[2]『出血』していなくても、最低４５以上気力は維持しておけ
+> CONTEXT: Map003/events/1/pages/2/142/Dialogue
+If you manage to kick her 3 times, she will probably let you go. 
+\\C[2]Even if you aren't 『bleeding』, keep your vitality above 45
+at all times.#Aesthetic
+> END STRING
+
+> BEGIN STRING
+蹴った衝撃で、相手は必ずスタンするだろうから
+
+その間に攻撃しても良いし、回復してもいいだろう。
+まぁ、回復が無難かな…
+> CONTEXT: Map003/events/1/pages/2/146/Dialogue
+If you escape from her grab by kicking her, she will surely
+be stunned. You can attack when that happens or you can
+You can heal yourself. Well, It's probably better to recover
+yourself.#Aesthetic
+> END STRING
+
+> BEGIN STRING
+あと…大技を出すとき、アイツ『身体を開く』だろ？
+
+実はこのとき\\C[2]『物理ダメージが２倍』なんだ。
+> CONTEXT: Map003/events/1/pages/2/151/Dialogue
+Also, When she's about to use a big skill she 『opens
+her body』. Truth is, when she does that her \\C[2]『Physical
+damage Doubles』. It's pretty crazy.#Aesthetic
+> END STRING
+
+> BEGIN STRING
+\\C[2]相手の残り体力が僅かだと分かっているか
+
+それともシルフストームを信じるか…
+武器に自信あるなら、賭けに出ても良いかもなぁ
+> CONTEXT: Map003/events/1/pages/2/155/Dialogue
+\\C[2]Maybe you think she's low on health? Or maybe you believe in Sylph Storm. 
+If you are confident in your weapon, You could place a bet and attack her
+when she opens up like that.#Aesthetic
+> END STRING
+
+> BEGIN STRING
+マザーラビット if(v[25] \>= 1)
+> CONTEXT: Map003/events/1/pages/2/162/Choice/0
+Mother Rabbitif(v[25] \>= 1)#MTLed
+> END STRING
+
+> BEGIN STRING
+ハル＆リズ if(v[26] \>= 1)
+> CONTEXT: Map003/events/1/pages/2/162/Choice/1
+Haru & Lizif(v[26] \>= 1)#MTLed
+> END STRING
+
+> BEGIN STRING
+躯 if(v[27] \>= 1)
+> CONTEXT: Map003/events/1/pages/2/162/Choice/2
+Mukuroif(v[27] \>= 1)#MTLed
+> END STRING
+
+> BEGIN STRING
+ニーナ if(v[28] \>= 1)
+> CONTEXT: Map003/events/1/pages/2/162/Choice/3
+Ninaif(v[28] \>= 1)#MTLed
+> END STRING
+
+> BEGIN STRING
+マザーラビットは優しい悪魔だ。
+
+\\C[2]拘束も、(身体)を解除すれば全部離してくれるし
+逃げた際に見逃す確率も高い。
+> CONTEXT: Map003/events/1/pages/2/164/Dialogue
+Mother Rabbit is a gentle demon。
+\\C[2]You can probably convince her to leave if you
+aren't bound. The probability of successfully running away
+from her is also high.#Aesthetic
+> END STRING
+
+> BEGIN STRING
+ただ…彼女の拘束は下半身が主だから
+
+『蹴り飛ばし』はつかえない。
+> CONTEXT: Map003/events/1/pages/2/169/Dialogue
+Just...because her lower bound is the main body
+of her bound. "Kick Away" can not be used.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]『ふりはらう』以外で、手で行える突き飛ばしスキル…
+
+確かお前、持ってたんじゃないっけ？
+> CONTEXT: Map003/events/1/pages/2/173/Dialogue
+\\C[2]Besides 『Shake Off』, don't you have a skill that
+lets you escape binds.#Aesthetic
+> END STRING
+
+> BEGIN STRING
+え………？正気？
+
+こいつらとの戦いにアドバイス欲しいの？
+> CONTEXT: Map003/events/1/pages/2/179/Dialogue
+Eh....? Are you sane? 
+You want advice for how to fight them?#Aesthetic
+> END STRING
+
+> BEGIN STRING
+ていうかお前戦ってないやん…
+
+パフパフしただけやん…
+> CONTEXT: Map003/events/1/pages/2/183/Dialogue
+I mean, you don't even have to fight them. 
+She was just offering Puff Puff.#Aesthetic
+> END STRING
+
+> BEGIN STRING
+一番の必勝法は『無視』。
+
+アイツらも戦闘能力がないことは自覚しているから
+ちょっと脅してやれば、身を引いてくれるだろうさ。
+> CONTEXT: Map003/events/1/pages/2/187/Dialogue
+The best way to win is to just 『ignore』 them.
+They are aware that they don't have much combat
+capability. If you scare them a bit, they'll 
+probably withdraw.#Aesthetic
+> END STRING
+
+> BEGIN STRING
+…………ええ？
+
+マイルームに呼びたい？
+お前ワガママだな…
+> CONTEXT: Map003/events/1/pages/2/192/Dialogue
+....Eh? You want to bring them here?
+You're pretty selfish man...#Aesthetic
+> END STRING
+
+> BEGIN STRING
+それなら、アイツらの興味を引く必要があるから
+\\C[2]ある程度は誘惑に乗ってやらないとダメかもな。
+
+呪縛魔法かけられたあたりが勝負だと思うぞ。
+> CONTEXT: Map003/events/1/pages/2/197/Dialogue
+In that case, you we need to attract their
+interests. \\C[2]You'll probably need to fall to their temptation
+to some extent. When they cast their curse spell, that's
+when the challenge starts.#Aesthetic
+> END STRING
+
+> BEGIN STRING
+こいつは攻撃もそうなんだが、何が一番厄介って
+
+\\C[2]初期能力のお前よりも若干速度が速いんだよ。
+> CONTEXT: Map003/events/1/pages/2/204/Dialogue
+What I'm about to say, also relates to combat with her
+so pay attention.
+\\C[2]She's most likely faster than you.#Aesthetic
+> END STRING
+
+> BEGIN STRING
+\\C[2]だから、敏捷をカプセルでLv２以上にしていない限り
+
+ほぼほぼ向こうが先制してくる。
+今まで通り先制するなら、装備品での補正が必須だ。
+> CONTEXT: Map003/events/1/pages/2/208/Dialogue
+\\C[2]Unless you've maxed out your Agility, she 
+will most likely act first.
+If you're used to acting first, you'll need equipment
+that increases your speed.#Aesthetic
+> END STRING
+
+> BEGIN STRING
+確か、その前のコンビニでなんか装備品売られてなかったか？
+
+それとかいいかもしれないな。
+> CONTEXT: Map003/events/1/pages/2/213/Dialogue
+If I'm remembering properly, the store in that
+back alley was selling some good stuff. 
+That equipment might be able to help you.#Aesthetic
+> END STRING
+
+> BEGIN STRING
+髪の攻撃が厄介だから、シルフストームをやりたいところだが
+
+\\C[2]向こうはリバースストームを持っている。
+\\C[0]ムキになって打ち消し合戦にならないようにな。
+> CONTEXT: Map003/events/1/pages/2/217/Dialogue
+Her hair Attack is troublesome and it makes sense 
+to want to use Sylph Storm. 
+\\C[2]She's got the ability Reverse Storm though...
+\\C[0]Don't focus too hard on keeping that ability up or
+it'll be a battle of attrition.#Aesthetic
+> END STRING
+
+> BEGIN STRING
+あとメンドクセぇのが『交じりの誘い』か。
+
+\\C[2]こっちが攻撃出来なくなる『傀儡』が付く場合がある。
+> CONTEXT: Map003/events/1/pages/2/222/Dialogue
+The other annoying ability is 『Mixed invitation』.
+\\C[2]It has the chance of inflicting 『Puppet』 which doesn't
+let you attack with weapons.#Aesthetic
+> END STRING
+
+> BEGIN STRING
+これの対策も考慮しても、
+
+やっぱり向こうより先に行動しておきたいなぁ
+> CONTEXT: Map003/events/1/pages/2/226/Dialogue
+Taking all of this into consideration, 
+you'll probably want to act before she does.#Aesthetic
+> END STRING
+
+> BEGIN STRING
+ダンスで気をつけるのは、先ず気力だな。
+
+これがないと踊れない。
+> CONTEXT: Map003/events/1/pages/2/232/Dialogue
+When it comes to dancing, you have to remember to keep up
+your vitality. You can't dance without it.#Aesthetic
+> END STRING
+
+> BEGIN STRING
+\\C[2]クリアだけが目的だって言うなら
+
+自分が確実にできる最高の技を２種類、交互にやるといい。
+> CONTEXT: Map003/events/1/pages/2/236/Dialogue
+\\C[2]If you're mostly concerned about winning,
+The best strategy should be to alternate between 2 dances
+you're comfortable with.#Aesthetic
+> END STRING
+
+> BEGIN STRING
+\\C[2]どんな技だっていいが、ミスはするなよ？
+
+転んだりパニックになれば、たちどころに不利になるからな。
+> CONTEXT: Map003/events/1/pages/2/240/Dialogue
+\\C[2]No matter the technique don't mess up.
+If you fall or panic, you'll be in a disadvantageous
+position.#Aesthetic
+> END STRING
+
+> BEGIN STRING
+あと、地味に重要なのが\\C[2]抵抗力\\C[0]だ。
+
+敵のダンスで徐々に消えてく矢印があるだろ？
+\\C[2]あの消える時間に影響してるんだよ。実は。
+> CONTEXT: Map003/events/1/pages/2/244/Dialogue
+Also, there's one more aspect to the battle to consider, 
+and that is\\C[2] Willpower\\C[0]. There are arrows that 
+gradually disappear on the enemy's turn right? \\C[2]Your 
+Willpower affects the time it takes for those arrows to disappear.#Aesthetic
+> END STRING
+
+> BEGIN STRING
+特にニーナ戦は、常に衰弱しないように気をつけておけ。
+
+\\C[2]衰弱していなければ、入力が始まるまで
+最初の矢印がギリギリ見えているはずだ。
+> CONTEXT: Map003/events/1/pages/2/249/Dialogue
+Be careful to never get weakened especially for the fight
+against Nina herself. \\C[2]If you're not weakened, then until
+the input starts, the first arrow should be visible even if it's
+barely.#Aesthetic
+> END STRING
+
+> BEGIN STRING
+普通に戦う場合は、あれだな。
+
+とりあえず\\C[2]裸になるな。
+> CONTEXT: Map003/events/1/pages/2/254/Dialogue
+If you fight normally, then it's like that.
+I mean...\\C[2] Try not to get naked.#Aesthetic
+> END STRING
+
+> BEGIN STRING
+裸になると、誘惑ダンスで高確率で搾精体勢になる。
+
+\\C[2]裸にならない装備品とか、あればいいかもな。
+> CONTEXT: Map003/events/1/pages/2/258/Dialogue
+If you're naked, their temptation dance has a high probability
+of becoming a milking dance.
+\\C[2]Equipment that keeps you from getting naked sounds pretty good
+doesn't it.#Aesthetic
+> END STRING
+
+> BEGIN STRING
+あとは恍惚に気をつけるだけだ。
+
+普通に戦う場合は、これといって苦戦はしないだろうが、
+視聴率はダンスと比べて上がりにくいとは思うぜ。
+> CONTEXT: Map003/events/1/pages/2/262/Dialogue
+All that's left is to be careful of ecstasy.
+Also, I'm pretty sure it's harder to increase the viewer
+ratings in a normal fight compared to a dance fight.#Aesthetic
+> END STRING
+
+> BEGIN STRING
+アルケニー if(v[29] \>= 1)
+> CONTEXT: Map003/events/1/pages/2/269/Choice/0
+Archenyif(v[29] \>= 1)#MTLed
+> END STRING
+
+> BEGIN STRING
+スフィンクス if(v[30] \>= 1)
+> CONTEXT: Map003/events/1/pages/2/269/Choice/1
+Sphinxif(v[30] \>= 1)#MTLed
+> END STRING
+
+> BEGIN STRING
+アルケニーは、チャプター３で１，２を争う強敵だ。
+
+真正面から挑んだら、よっぽど運が良くなけりゃ勝てない。
+> CONTEXT: Map003/events/1/pages/2/271/Dialogue
+Archeny is a strong enemy to challenge 1 and 2
+with Chapter 3. If you challenge straight ahead,
+you can not prevail if your luck is very good.#MTLed
+> END STRING
+
+> BEGIN STRING
+派生の強力な魔法を覚えてもいいんだが
+
+\\C[2]ＳＰコストが馬鹿にならないのは、お前ももう見ただろう？
+しかも効果が強力な分、消費気力も多い。
+> CONTEXT: Map003/events/1/pages/2/275/Dialogue
+It is okay to remember the powerful magic of
+derivation. \\C[2]You saw you already that SP cost is
+not stupid? Moreover, the effect is strong, and
+consumption vitality is also large.#MTLed
+> END STRING
+
+> BEGIN STRING
+そこで俺のオススメは、シルフストームとクールカームだ。
+
+\\C[2]特にクールカームは、自慰を強要する技のトリガーである
+「恐怖」「傀儡」になりにくくなる。
+> CONTEXT: Map003/events/1/pages/2/280/Dialogue
+So my recommendation is Sylph Storm and CoolCam.
+\\C[2]CoolCharm, in particular, is a trigger of a
+technique that forces masturbation
+「Afraid」「Puppet」It becomes hard to become.#MTLed
+> END STRING
+
+> BEGIN STRING
+シルフストームは、なんでオススメかっていうと
+アルケニーは、ストーム発動中は\\C[2]眼力しか使ってこない。
+
+そこにクールカームの効果が重なるってワケだ。
+> CONTEXT: Map003/events/1/pages/2/285/Dialogue
+As for Sylph Storm, why do you recommend it
+Archeny is in the process of activating the storm\\C[2]
+I only use eye strength. It seems that the effect
+of CoolCam overlaps there.#MTLed
+> END STRING
+
+> BEGIN STRING
+だが、気をつけて欲しいのは\\C[2]効きにくくするってだけで
+
+効果は確実じゃないって事だな。
+> CONTEXT: Map003/events/1/pages/2/290/Dialogue
+But, I want you to be careful\\C[2] Just to make it
+less effective. The effect is not sure.#MTLed
+> END STRING
+
+> BEGIN STRING
+他には、ワザと糸に捕まって、
+『ふりほどいた直後』にシルフストームを使う。
+
+\\C[2]そうすると、ふりほどいた後の粘液攻撃を高確率で回避する。
+> CONTEXT: Map003/events/1/pages/2/294/Dialogue
+Besides, caught by work and thread,
+Use "Sylph Storm" immediately after "pretending".
+\\C[2]Doing so avoids mucous attacks after pretending
+with high probability.#MTLed
+> END STRING
+
+> BEGIN STRING
+回避は確実じゃあないが、\\C[2]攻撃のチャンスが生まれる。
+
+魔法耐性が低くなっているから、得意魔法を撃ち込んでやれ。
+> CONTEXT: Map003/events/1/pages/2/299/Dialogue
+Although avoidance is not certain,\\C[2] The chance of
+Attack is born. Because magic tolerance is low,
+please shoot good magic.#MTLed
+> END STRING
+
+> BEGIN STRING
+スフィンクスは、ナゾナゾを仕掛けてきて
+
+答えようとすると、性攻撃で邪魔してくる悪魔だ。
+> CONTEXT: Map003/events/1/pages/2/305/Dialogue
+Sphinx is setting up riddle. Trying to answer it
+is a demon that interferes with sex attacks.#MTLed
+> END STRING
+
+> BEGIN STRING
+答えを言うときは\\C[2]絶対に相手と距離をとれ。
+
+\\C[0]密着した状態で言おうとしても邪魔されるだけだ。
+> CONTEXT: Map003/events/1/pages/2/309/Dialogue
+When to say the answer\\C[2] Absolutely distance from
+your opponent. \\C[0]Even if you try to say it in close
+contact, it is only disturbed.#MTLed
+> END STRING
+
+> BEGIN STRING
+気をつける点って言ったらそれくらいかなぁ
+
+\\C[2]あとは「答えを言えないほどバカ」になる前に
+向こうに参ったと言わせてしまえば勝ちだ。
+> CONTEXT: Map003/events/1/pages/2/313/Dialogue
+I wonder about that if it says to be careful
+\\C[2]later「It's so stupid to say the answer」Before
+becoming. I will win if I let him go over there.#MTLed
+> END STRING
+
+> BEGIN STRING
+ただ、気をつけろよ？
+
+\\C[2]後半になるにつれて、知識を吸い取られて不利になる。
+回復とかは、前半に済ませておくのが吉だぜ。
+> CONTEXT: Map003/events/1/pages/2/318/Dialogue
+Just be careful, are not you? 
+\\C[2]As it comes to the second half, it is
+disadvantageous to suck in knowledge.
+It is good to finish recovery in the first half.#MTLed
+> END STRING
+
+> BEGIN STRING
+エコー if(v[31] \>= 1)
+> CONTEXT: Map003/events/1/pages/2/325/Choice/0
+Echoif(v[31] \>= 1)#MTLed
+> END STRING
+
+> BEGIN STRING
+ティタノボア if(v[32] \>= 1)
+> CONTEXT: Map003/events/1/pages/2/325/Choice/1
+Titanoboaif(v[32] \>= 1)#MTLed
+> END STRING
+
+> BEGIN STRING
+エコーは形態によって
+
+行動パターンや有効な攻撃方法が変わる厄介な相手だ。
+> CONTEXT: Map003/events/1/pages/2/327/Dialogue
+Echo depends on form. It's a nasty opponent whose
+behavior patterns and effective attack methods
+change.#MTLed
+> END STRING
+
+> BEGIN STRING
+極端に言えば
+\\C[2]人魚形態では物理攻撃に弱く、魔法に強い
+逆にナメクジ形態は魔法に弱く、物理に強い。
+> CONTEXT: Map003/events/1/pages/2/331/Dialogue
+Extremely speaking. \\C[2]In the mermaid form, it is
+weak against physical Attack and strong against
+magic. On the other hand, the slug form is weak
+against magic and strong in physical.#MTLed
+> END STRING
+
+> BEGIN STRING
+人魚形態のときは物理攻撃で対処……
+
+…といきたいところなんだが、人魚形態の時は
+\\C[2]エコーはかなりの敏捷性を持ってる。
+> CONTEXT: Map003/events/1/pages/2/335/Dialogue
+When dealing with mermaid form, cope with
+physical Attack .........I want to go as far as
+you want, but when you are in a mermaid form
+\\C[2]Echo has considerable agility.#MTLed
+> END STRING
+
+> BEGIN STRING
+かなりの高確率で、
+攻撃する前に飛び掛かられてしまうだろうから
+
+\\C[2]気力が少ない場合は、『なにもしない』も対策の一つかもな。
+> CONTEXT: Map003/events/1/pages/2/340/Dialogue
+With considerable high probability,
+Because it will be jumped before you attack
+\\C[2]If vitality is low, 'rest' may be one of
+countermeasures.#MTLed
+> END STRING
+
+> BEGIN STRING
+ナメクジ形態のときは\\C[2]電撃魔法が有効だ。
+
+ただし、彼女にのしかかられているときは
+こっちも『感電』してダメージを受けるぞ。
+> CONTEXT: Map003/events/1/pages/2/345/Dialogue
+When it is in the slug shape\\C[2] Dengeki magic is
+effective. However, when she is leaning
+You will also get an "electric shock" and get
+damaged.#MTLed
+> END STRING
+
+> BEGIN STRING
+ただ、のしかかられているときは、電撃ダメージが\\C[2]３倍だ。
+
+攻撃のチャンスではあるが、あまり無茶するなよ？
+> CONTEXT: Map003/events/1/pages/2/350/Dialogue
+However, when it is on the way, electric shock
+damage\\C[2] It is 3 times. It's an opportunity for
+Attack, but do not you miss it so much?#MTLed
+> END STRING
+
+> BEGIN STRING
+彼女の粘液は、ほとんどの物理的な抵抗を無効化してしまう。
+
+\\C[2]物理的な抵抗以外の抵抗手段を使うしかない。
+> CONTEXT: Map003/events/1/pages/2/354/Dialogue
+Her mucus previses most physical struggle.
+\\C[2]You only have to use struggle measures other than
+physical struggle.#MTLed
+> END STRING
+
+> BEGIN STRING
+スタンや脱力してしまうと、すぐ相手がのしかかる。
+
+\\C[2]『衰弱』しないように抵抗力を常に回復するか
+ビタミン剤とかで衰弱無効を付けておくと戦いやすいぞ。
+> CONTEXT: Map003/events/1/pages/2/358/Dialogue
+If you do stun or Debilitated, your opponent will
+be on the way. \\C[2]Do you always regain willpower not
+to "weakness". It is easy to fight if you add
+Weakness prevention like Vitamins.#MTLed
+> END STRING
+
+> BEGIN STRING
+百鬼のアイテムのおかげで、
+こちらの攻撃や耐性が大幅に強化されている。
+
+お前は普段通り、武器や魔法で攻撃すればいい。
+> CONTEXT: Map003/events/1/pages/2/366/Dialogue
+Thanks to Hyakki's items, This Attack and
+tolerance are greatly strengthened.
+As you normally do, you can attack with weapons
+and magic.#MTLed
+> END STRING
+
+> BEGIN STRING
+相手の自己再生の回復量も、
+ \\C[2]百鬼が毎ターンのアイテムで中和してくれている。
+
+３ターンのうちに、１０００以上削れば全消しだ。
+> CONTEXT: Map003/events/1/pages/2/371/Dialogue
+The amount of recovery of the opponent's self
+regeneration, \\C[2] Hyakki neutralizes with items
+every turn. Within 3 turns, if you scrap 1000 or
+more you erase it altogether.#MTLed
+> END STRING
+
+> BEGIN STRING
+しかしながら、ティタノボアの魔法は強烈だからな…
+
+ 対策をしていても、性欲の上昇が悩みの種になるはず。
+> CONTEXT: Map003/events/1/pages/2/376/Dialogue
+However, Titanoboa's magic is intense ...
+Even though measures are taken, the rise of lust
+should be a source of trouble.#MTLed
+> END STRING
+
+> BEGIN STRING
+そこで、俺のオススメする攻略法は……
+
+\\C[2]氷の上級魔法『フローズン』の使用だ。
+> CONTEXT: Map003/events/1/pages/2/380/Dialogue
+So, my recommended strategy is ......
+\\C[2]It is the use of ice 's advanced magic "frozen".#MTLed
+> END STRING
+
+> BEGIN STRING
+まず覚えるのにSPが１１１ポイント必要だが……
+
+マイルームや戦闘をきちんとこなしていれば足りるはずだ。
+ 悪魔全書登録数でももらえるぞ。
+> CONTEXT: Map003/events/1/pages/2/384/Dialogue
+First of all I need 111 points for SP to memorize
+......It is enough if you do my room and battle
+properly. You can get all demons registered
+number.#MTLed
+> END STRING
+
+> BEGIN STRING
+そしてこいつは、消費気力がバカ高い。
+
+ 本来なら、気力を最大まで強化しないと厳しいが
+\\C[2]今回は百鬼のアイテムのおかげで、初期気力でも使える。
+> CONTEXT: Map003/events/1/pages/2/389/Dialogue
+And this is expensive vitality is stupid.
+Originally, it is difficult to strengthen
+vitality to its maximum. \\C[2]Thanks to Hyakki's items
+this time, it can also be used for initial
+vitality.#MTLed
+> END STRING
+
+> BEGIN STRING
+一度、体験してみるといいぜ。
+
+ 多分、性欲上昇の値にビックリするだろうから。
+> CONTEXT: Map003/events/1/pages/2/394/Dialogue
+You should try it once. Perhaps, I will be
+surprised at the value of lust rising.#MTLed
+> END STRING
+
+> BEGIN STRING
+ティタノボアは、到底お前が敵うような相手じゃない
+
+見つかったら、逃げるが勝ちだ。
+> CONTEXT: Map003/events/1/pages/2/400/Dialogue
+Titanoboa is not like you like an enemy at all
+If you find it, you run away but you win.#MTLed
+> END STRING
+
+> BEGIN STRING
+やつは『殺す』と言ったらマジで殺しやがるから
+
+ どうせ同じ死ぬなら……って考えてもまぁ、仕方ないな
+> CONTEXT: Map003/events/1/pages/2/404/Dialogue
+Because he is going to kill with a serious fellow
+when he says "kill". It seems like it can not be
+helped if it is the same if I die the same way
+...#MTLed
+> END STRING
+
+> BEGIN STRING
+もし道中、いきなり捕まったりなんかした時は……
+
+\\C[2]助けが来るまで耐えるのも一つの手かもな。
+> CONTEXT: Map003/events/1/pages/2/408/Dialogue
+If you get trapped suddenly ......
+\\C[2]It might be a hand to endure until help comes.#MTLed
+> END STRING
+
+> BEGIN STRING
+カマソッソ if(v[33] \>= 1)
+> CONTEXT: Map003/events/1/pages/2/416/Choice/0
+Camazotzif(v[33] \>= 1)#MTLed
+> END STRING
+
+> BEGIN STRING
+妲己 if(v[34] \>= 1)
+> CONTEXT: Map003/events/1/pages/2/452/Choice/0
+Daijiif(v[34] \>= 1)#MTLed
+> END STRING
+
+> BEGIN STRING
+アルラウネ・フォーム　if(s[476])
+> CONTEXT: Map003/events/1/pages/2/455/Choice/1
+alraune formif(s[476])#MTLed
+> END STRING
+
+> BEGIN STRING
+ビースト・フォーム　if(s[479])
+> CONTEXT: Map003/events/1/pages/2/455/Choice/2
+beast formif(s[479])#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェル・フォーム　if(s[521])
+> CONTEXT: Map003/events/1/pages/2/455/Choice/3
+gel formif(s[521])#MTLed
+> END STRING
+
+> BEGIN STRING
+ダッキのアルラウネ・フォームは
+
+\\C[2]アイアンメイデンとランパスの攻撃を模してくる。
+シェルターの悪夢再来だな。
+> CONTEXT: Map003/events/1/pages/2/484/Dialogue
+Duck's alraune form. \\C[2]I imitate Iron Maiden and
+Attack of Lampas. A shelter's nightmare is coming
+back.#MTLed
+> END STRING
+
+> BEGIN STRING
+何よりまず気を付けなきゃいけないのはランパス要素。
+
+\\C[2]『口塞ぎ』をしてくるツタは最優先で振り払わないと
+脱力してそのまま養分コースだ。
+> CONTEXT: Map003/events/1/pages/2/489/Dialogue
+First of all, it is the Lampas element.
+\\C[2]I have to shake off ivy that comes "Gagged" with
+top priority. Debilitated and nutrient Awww as it
+is.#MTLed
+> END STRING
+
+> BEGIN STRING
+あと、毎ターン来る花粉攻撃の恍惚も厄介だ。
+
+ \\C[2]状態異常確率は低いが、恍惚無効のアイテムを使うか
+ クールカームを使った方が確実だろう。
+> CONTEXT: Map003/events/1/pages/2/494/Dialogue
+Also, ecstasy of Pollen Attack coming every turn
+is troublesome. \\C[2] Bad Status Probability is low,
+but whether you use ecstasy prevention items
+It would be better to use cool calm.#MTLed
+> END STRING
+
+> BEGIN STRING
+メイデン要素の手足拘束は
+ シルフストームが一番効果的だ。
+
+ 足拘束以外なら、大体それで回避できる。
+> CONTEXT: Map003/events/1/pages/2/499/Dialogue
+The limb bound of the Maiden element
+Sylph Storm is the most effective.
+If it is not a foot bound, it can be avoided
+almost by that.#MTLed
+> END STRING
+
+> BEGIN STRING
+ただ、物理メインで戦うときは
+
+\\C[2]奴がこっちの身体を引っ張ってる時の方が
+ダメージが通るってことを覚えておくといいかもな。
+> CONTEXT: Map003/events/1/pages/2/504/Dialogue
+However, when fighting on physics main
+\\C[2]The one when he is pulling on this body
+It might be good to remember that damage passes.#MTLed
+> END STRING
+
+> BEGIN STRING
+妲己のビースト・フォームは
+
+ バーゲストやエンプーサみたいな『魔獣』の特性を持った
+物理特化タイプの形態だ。
+> CONTEXT: Map003/events/1/pages/2/511/Dialogue
+Daiji's beast form. It has the characteristics of
+"monsters" like barghest and Empuse
+It is a form of physical specialization type.#MTLed
+> END STRING
+
+> BEGIN STRING
+物理特化ってだけあって、物理ダメージは
+一撃もらうだけでもかなり痛い。
+
+\\C[2]シルフストームは必須だな。
+> CONTEXT: Map003/events/1/pages/2/516/Dialogue
+There is only physical specialization, physical
+damage is. Even if you get a blow, it hurts quite
+a bit. \\C[2]Sylph Storm is essential.#MTLed
+> END STRING
+
+> BEGIN STRING
+飛びかかりは、マザーラビット同様『回避行動』だが
+\\C[2]厄介なのは、『時止め』を使ってくる事がある点だ。
+
+その場合は、『防御行動』だ。間違えるなよ？
+> CONTEXT: Map003/events/1/pages/2/521/Dialogue
+Jumping is "evasive behavior" as well as Mother
+Rabbit. \\C[2]The troublesome thing is that it
+sometimes uses "time stop". In that case, it is
+"Defend action". Do not make a mistake?#MTLed
+> END STRING
+
+> BEGIN STRING
+あと、この形態は物理は普通に通るんだが
+回避力が少し高い。
+
+ 当たらないと感じたら、無理せず魔法とかで属性攻撃だ。
+> CONTEXT: Map003/events/1/pages/2/526/Dialogue
+Also, although this form passes physical
+physically. The avoidance power is a bit high.
+If you feel that you do not hit it, it's
+attribute Attack without impossible without
+magic.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]弱点は氷属性。
+
+バーゲストやアコニートゥムと一緒だな。
+> CONTEXT: Map003/events/1/pages/2/531/Dialogue
+\\C[2]The weak point is the ice attribute.
+It is with barghest and Aconitum.#MTLed
+> END STRING
+
+> BEGIN STRING
+妲己のジェル・フォームは
+
+ これまでの形態とは少し毛色が違う。
+> CONTEXT: Map003/events/1/pages/2/537/Dialogue
+Daiji's gel form is. It is slightly different in
+coat color from the previous form.#MTLed
+> END STRING
+
+> BEGIN STRING
+なんせ、\\C[2]『ニーナのダンス』と
+『スフィンクスのキス』での攻撃を仕掛けてくるからな
+
+\\C[0]各種ゲージより、そっちを注意する必要がある。
+> CONTEXT: Map003/events/1/pages/2/541/Dialogue
+How old\\C[2] "Nina's Dance". I will set up an Attack
+at "Kiss of Sphinx". \\C[0]From various bar, you need
+to be careful about it.#MTLed
+> END STRING
+
+> BEGIN STRING
+まぁでも、完全に同じってわけではない。
+
+例えば、スフィンクスのキスは、ナゾナゾは無しだ。
+アホなところは真似したくなかったんだろうな……
+> CONTEXT: Map003/events/1/pages/2/546/Dialogue
+Well, it is not exactly the same.
+For example, Sphinx's kiss, riddle is nothing.
+I guess she did not want to imitate an idiot ...
+...#MTLed
+> END STRING
+
+> BEGIN STRING
+だから、捕まれたら振り払えばいいんだが……
+
+\\C[2]ジェル・フォームのジェルは、エコーの粘液と同じだ
+普通に手を使っても、拘束は解除できない。
+> CONTEXT: Map003/events/1/pages/2/551/Dialogue
+So, if you get caught off, you should shake off
+......\\C[2]Gel form gel is the same as Echo's
+mucilage. Even if you use your hands normally,
+bound can not be removed.#MTLed
+> END STRING
+
+> BEGIN STRING
+あとダンスも、ニーナほどキレは良くないみたいだな
+
+\\C[2]制限時間がニーナの時より長いから
+慌てず、ミスしないように入力するんだ。
+> CONTEXT: Map003/events/1/pages/2/556/Dialogue
+Also dancing seems not as good as Nina
+\\C[2]The time limit is longer than when Nina
+Do not panic, do not make a mistake.#MTLed
+> END STRING
+
+> BEGIN STRING
+それと………エコーの粘液と同質ってだけあって
+
+\\C[2]この形態に物理攻撃はほとんど効かないみたいだ。
+> CONTEXT: Map003/events/1/pages/2/561/Dialogue
+And...... just the same quality as Echo's
+mucilage. \\C[2]Physical Attack seems to have little
+effect on this form.#MTLed
+> END STRING
+
+> BEGIN STRING
+アイテムや魔法を使って、\\C[2]電撃属性で攻めるんだ。
+
+\\C[0]この形態をしのげば、あともう一息だぞ。
+> CONTEXT: Map003/events/1/pages/2/565/Dialogue
+Using items and magic,\\C[2] You can attack with
+electric shock attribute. \\C[0]If you do away with
+this form, you will have another breath away.#MTLed
+> END STRING
+
+> BEGIN STRING
+戻る
+> CONTEXT: Map003/events/1/pages/2/573/Choice/0
+> CONTEXT: Map002/events/1/pages/0/1646/Choice/0
+Return#Dargoth
+> END STRING
+
+> BEGIN STRING
+リベンジしない
+> CONTEXT: Map003/events/1/pages/2/584/Choice/0
+Don't get revenge#Dargoth
+> END STRING
+
+> BEGIN STRING
+データを削除する
+> CONTEXT: Map003/events/1/pages/2/584/Choice/2
+Erase data#Dargoth
+> END STRING
+
+> BEGIN STRING
+リベンジデータがないみたいだぞ。
+
+\\C[2]ボス戦のあとにどこかしらでセーブすると
+リベンジデータは消えるから注意するんだな。
+> CONTEXT: Map003/events/1/pages/2/598/Dialogue
+There seems to be no revenge data.
+\\C[2]When you save somewhere after the boss game
+Be careful as revenge data disappears.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]お前に他の難易度は無理なんだろ？
+
+悪いことはいわないから、身の丈に合った立場いにろって。
+> CONTEXT: Map003/events/1/pages/2/608/Dialogue
+\\C[10]You do not have other difficulties, do you?
+Because I do not say anything bad, I decided to
+stand in line with my height.#MTLed
+> END STRING
+
+> BEGIN STRING
+…………貴方に救済措置は要らないでしょう？
+
+傍観者さん？
+> CONTEXT: Map003/events/2/pages/2/1/Dialogue
+> CONTEXT: Map003/events/2/pages/5/1/Dialogue
+............ You do not need Assistance?
+Mr. Bystander?#MTLed
+> END STRING
+
+> BEGIN STRING
+こちらではコンテニュー時の『救済措置』を承っております。
+
+【救済可能数】：\\V[102]
+【救済使用ポイント】：\\V[168]
+> CONTEXT: Map003/events/2/pages/2/9/Dialogue
+> CONTEXT: Map003/events/2/pages/5/9/Dialogue
+Here we are accepting "Assistance" at the time of
+the container. 【Number of assistances】: \\V[102]
+[Relief Point of Use]: \\V[168]#MTLed
+> END STRING
+
+> BEGIN STRING
+ただし、お気を付け下さいませ…。
+
+\\C[2]救済を受けた回数は、物語の結末に影響します。
+> CONTEXT: Map003/events/2/pages/2/32/Dialogue
+> CONTEXT: Map003/events/2/pages/5/32/Dialogue
+However, please take care. \\C[2]The number of times
+you received relief will affect the ending of the
+story.#MTLed
+> END STRING
+
+> BEGIN STRING
+あくまで、詰まないようにするための救済措置ですので
+
+戦略的には、あまりアテになさりすぎないように…
+> CONTEXT: Map003/events/2/pages/2/36/Dialogue
+> CONTEXT: Map003/events/2/pages/5/36/Dialogue
+Since it is an Assistance for not clogging to the
+last. Strategically, not too much at attention
+...#MTLed
+> END STRING
+
+> BEGIN STRING
+心蝕を消す【消費？】
+> CONTEXT: Map003/events/2/pages/2/91/Choice/1
+> CONTEXT: Map003/events/2/pages/5/91/Choice/1
+Remove mind corruption [Cost: ?]#Dargoth
+> END STRING
+
+> BEGIN STRING
+この救済措置を受ける際の注意点ですが……
+
+\\C[2]この救済措置利用回数は、共通データに保存されます。
+> CONTEXT: Map003/events/2/pages/2/122/Dialogue
+> CONTEXT: Map003/events/2/pages/5/122/Dialogue
+It is a caveat for receiving this Assistance ...
+... \\C[2]This Assistance usage count is saved in
+common data.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]つまりこの救済を受けた時点で
+
+どのセーブデータのエンディングも、救済を受けた回数が
+＋１増える、ということですね。
+> CONTEXT: Map003/events/2/pages/2/126/Dialogue
+> CONTEXT: Map003/events/2/pages/5/126/Dialogue
+\\C[2]In other words, at the time of receiving this
+relief. For each ending of saved data, the number
+of times of receiving relief is
+Is that it increases by +1?#MTLed
+> END STRING
+
+> BEGIN STRING
+この回数データをリセットする条件は
+
+\\C[2]一度エンディングを見ること\\C[0]になります。
+くれぐれも、慎重に選択してくださいね
+> CONTEXT: Map003/events/2/pages/2/131/Dialogue
+> CONTEXT: Map003/events/2/pages/5/131/Dialogue
+The condition for resetting this number of times
+data is. \\C[2]Seeing the ending once\\C[0] .
+Even more carefully please choose#MTLed
+> END STRING
+
+> BEGIN STRING
+アイアンメイデンif(v[23] \>= 1)
+> CONTEXT: Map003/events/2/pages/2/139/Choice/2
+> CONTEXT: Map003/events/2/pages/5/139/Choice/2
+Iron Maiden if(v[23] \>= 1)#Dargoth
+> END STRING
+
+> BEGIN STRING
+エンプーサif(v[24] \>= 1)
+> CONTEXT: Map003/events/2/pages/2/139/Choice/3
+> CONTEXT: Map003/events/2/pages/5/139/Choice/3
+Empuse if(v[24] \>= 1)#Dargoth
+> END STRING
+
+> BEGIN STRING
+アイアンメイデンの心蝕の治療を希望しますか？
+> CONTEXT: Map003/events/2/pages/2/177/Dialogue
+> CONTEXT: Map003/events/2/pages/5/177/Dialogue
+Do you wish to treat Iron Maiden's mind
+corruption?#MTLed
+> END STRING
+
+> BEGIN STRING
+エンプーサの心蝕の治療を希望しますか？
+> CONTEXT: Map003/events/2/pages/2/194/Dialogue
+> CONTEXT: Map003/events/2/pages/5/194/Dialogue
+Would you like treatment of Empuse mind
+corruption?#MTLed
+> END STRING
+
+> BEGIN STRING
+マザーラビットif(v[25] \>= 1)
+> CONTEXT: Map003/events/2/pages/2/211/Choice/0
+> CONTEXT: Map003/events/2/pages/5/211/Choice/0
+Mother Rabbitif(v[25] \>= 1)#MTLed
+> END STRING
+
+> BEGIN STRING
+ハル＆リズif(v[26] \>= 1)
+> CONTEXT: Map003/events/2/pages/2/211/Choice/1
+> CONTEXT: Map003/events/2/pages/5/211/Choice/1
+Haru & Lizif(v[26] \>= 1)#MTLed
+> END STRING
+
+> BEGIN STRING
+躯if(v[27] \>= 1)
+> CONTEXT: Map003/events/2/pages/2/211/Choice/2
+> CONTEXT: Map003/events/2/pages/5/211/Choice/2
+Mukuroif(v[27] \>= 1)#MTLed
+> END STRING
+
+> BEGIN STRING
+ニーナif(v[28] \>= 1)
+> CONTEXT: Map003/events/2/pages/2/211/Choice/3
+> CONTEXT: Map003/events/2/pages/5/211/Choice/3
+Ninaif(v[28] \>= 1)#MTLed
+> END STRING
+
+> BEGIN STRING
+マザーラビットの心蝕の治療を希望しますか？
+> CONTEXT: Map003/events/2/pages/2/215/Dialogue
+> CONTEXT: Map003/events/2/pages/5/215/Dialogue
+Do you wish to treat mother corruption of Mother
+Rabbit?#MTLed
+> END STRING
+
+> BEGIN STRING
+ハル&リズの心蝕の治療を希望しますか？
+> CONTEXT: Map003/events/2/pages/2/232/Dialogue
+> CONTEXT: Map003/events/2/pages/5/232/Dialogue
+Do you wish to treat Haru & Liz mind corruption?#MTLed
+> END STRING
+
+> BEGIN STRING
+躯の心蝕の治療を希望しますか？
+> CONTEXT: Map003/events/2/pages/2/249/Dialogue
+> CONTEXT: Map003/events/2/pages/5/249/Dialogue
+Would you like to treat Mukuro's mind corruption?#MTLed
+> END STRING
+
+> BEGIN STRING
+ニーナの心蝕の治療を希望しますか？
+> CONTEXT: Map003/events/2/pages/2/266/Dialogue
+> CONTEXT: Map003/events/2/pages/5/266/Dialogue
+Do you wish to treat Nina's mind corruption?#MTLed
+> END STRING
+
+> BEGIN STRING
+アルケニーif(v[29] \>= 1)
+> CONTEXT: Map003/events/2/pages/2/283/Choice/0
+> CONTEXT: Map003/events/2/pages/5/283/Choice/0
+Archenyif(v[29] \>= 1)#MTLed
+> END STRING
+
+> BEGIN STRING
+スフィンクスif(v[30] \>= 1)
+> CONTEXT: Map003/events/2/pages/2/283/Choice/1
+> CONTEXT: Map003/events/2/pages/5/283/Choice/1
+Sphinxif(v[30] \>= 1)#MTLed
+> END STRING
+
+> BEGIN STRING
+エコーif(v[31] \>= 1)
+> CONTEXT: Map003/events/2/pages/2/283/Choice/2
+> CONTEXT: Map003/events/2/pages/5/283/Choice/2
+Echoif(v[31] \>= 1)#MTLed
+> END STRING
+
+> BEGIN STRING
+ティタノボアif(v[32] \>= 1)
+> CONTEXT: Map003/events/2/pages/2/283/Choice/3
+> CONTEXT: Map003/events/2/pages/5/283/Choice/3
+Titanoboaif(v[32] \>= 1)#MTLed
+> END STRING
+
+> BEGIN STRING
+アルケニーの心蝕の治療を希望しますか？
+> CONTEXT: Map003/events/2/pages/2/287/Dialogue
+> CONTEXT: Map003/events/2/pages/5/287/Dialogue
+Would you like to treat Archeny's mind
+corruption?#MTLed
+> END STRING
+
+> BEGIN STRING
+スフィンクスの心蝕の治療を希望しますか？
+> CONTEXT: Map003/events/2/pages/2/304/Dialogue
+> CONTEXT: Map003/events/2/pages/5/304/Dialogue
+Would you like to treat Sphinx mind corruption?#MTLed
+> END STRING
+
+> BEGIN STRING
+エコーの心蝕の治療を希望しますか？
+> CONTEXT: Map003/events/2/pages/2/321/Dialogue
+> CONTEXT: Map003/events/2/pages/5/321/Dialogue
+Would you like to treat Echo's mind corruption?#MTLed
+> END STRING
+
+> BEGIN STRING
+ティタノボアの心蝕の治療を希望しますか？
+> CONTEXT: Map003/events/2/pages/2/338/Dialogue
+> CONTEXT: Map003/events/2/pages/5/338/Dialogue
+Do you wish to treat Titanoboa's mind corruption?#MTLed
+> END STRING
+
+> BEGIN STRING
+…………どうやら、
+
+あなたに『お客様』 が会いに来られたようですね。
+> CONTEXT: Map003/events/2/pages/3/0/Dialogue
+......It seems 
+A 『Customer』 has come to see you.#Aesthetic
+> END STRING
+
+> BEGIN STRING
+彼女の待つ御部屋にご案内します。
+
+どうぞ、こちらへ………。
+> CONTEXT: Map003/events/2/pages/3/4/Dialogue
+I will show you to her waiting room.
+It's this way...#Aesthetic
+> END STRING
+
+> BEGIN STRING
+カマソッソif(v[33] \>= 1)
+> CONTEXT: Map003/events/2/pages/5/355/Choice/0
+Camazotzif(v[33] \>= 1)#MTLed
+> END STRING
+
+> BEGIN STRING
+妲己if(v[34] \>= 1)
+> CONTEXT: Map003/events/2/pages/5/355/Choice/1
+Daijiif(v[34] \>= 1)#MTLed
+> END STRING
+
+> BEGIN STRING
+カマソッソの心蝕の治療を希望しますか？
+> CONTEXT: Map003/events/2/pages/5/359/Dialogue
+Would you like to treat Camazotz mind corruption?#MTLed
+> END STRING
+
+> BEGIN STRING
+妲己の心蝕の治療を希望しますか？
+> CONTEXT: Map003/events/2/pages/5/376/Dialogue
+Would you like to treat Daiji's mind corruption?#MTLed
+> END STRING
+
+> BEGIN STRING
+この穴に落ちれば、元いた世界に帰れるよ。
+
+でも今は、メイラについていった方が良いと思うけどな。
+> CONTEXT: Map003/events/6/pages/0/0/Dialogue
+If you fall into this hole you can return to the original
+world. But now I think that it is better to follow meira.#MTLed
+> END STRING
+
+> BEGIN STRING
+大丈夫、喰われはしないよ。
+
+…………………たぶんね。
+> CONTEXT: Map003/events/6/pages/0/4/Dialogue
+It's alright, she won't eat you. 
+.......probably.#Aesthetic
+> END STRING
+
+> BEGIN STRING
+この穴に落ちれば、元いた世界に帰れるよ。
+> CONTEXT: Map003/events/6/pages/1/0/Dialogue
+If you fall into this hole, you can return to the world you came from.  #Aesthetic
+> END STRING
+
+> BEGIN STRING
+\\C[2]休憩所にある、青い扉に入れば
+
+いつでもここに戻ってこれるからね。
+> CONTEXT: Map003/events/6/pages/1/2/Dialogue
+\\C[2]I've put blue doors in all of the rest areas.
+You can use them to come here any time.#Aesthetic
+> END STRING
+
+> BEGIN STRING
+ケケケケケッ！！
+
+\\C[10]カマソッソ\\C[0]を\\C[10]殺した\\C[0]みてぇだな！
+> CONTEXT: Map003/events/10/pages/2/255/Dialogue
+Heheheheheh!!\\C[10]Camazotz\\C[0] To\\C[10] Killed\\C[0] Looks like!#MTLed
+> END STRING
+
+> BEGIN STRING
+誰かに寄生しねぇと生きられない悪魔……
+
+哀れだよなぁ……！
+やっぱり独りが一番さ……ケケケッ
+> CONTEXT: Map003/events/10/pages/2/259/Dialogue
+Do not parasitize on someone I can not live demon ......
+Pathetic! After all the alone is the best....... Heheheh#MTLed
+> END STRING
+
+> BEGIN STRING
+その要求はお応えいたしかねます。
+
+…………お引きとりください。
+> CONTEXT: Map003/events/13/pages/1/1/Dialogue
+We can not respond to that request.
+............ Please draw.#MTLed
+> END STRING
+
+> BEGIN STRING
+げっ………！！
+> CONTEXT: Map003/events/13/pages/1/8/Dialogue
+Gouge .........! !#MTLed
+> END STRING
+
+> BEGIN STRING
+なによぉ
+
+アタシの使い魔たちがここに来てるのは分かってるのよ？
+> CONTEXT: Map003/events/13/pages/1/11/Dialogue
+? Do you know that the 'I' magicists are
+coming here?#MTLed
+> END STRING
+
+> BEGIN STRING
+無断で離れたバーゲストとランパス一匹ずつ…
+
+こっちに引き渡してくれりゃあ、アタシも帰るってばぁ
+> CONTEXT: Map003/events/13/pages/1/15/Dialogue
+Without permission without barghest and Lampas
+one by one...Deliver it over here, 'I' will
+also return#MTLed
+> END STRING
+
+> BEGIN STRING
+………先も申しました通り、如何なる理由があろうと
+
+この部屋に居ることを選んだ時点で、彼女たちは
+『冥府の間の住人』………
+> CONTEXT: Map003/events/13/pages/1/20/Dialogue
+......... As I mentioned earlier, for whatever
+reason. At the time we chose to stay in this
+room, "Hell's Gate residents" .........#MTLed
+> END STRING
+
+> BEGIN STRING
+たとえ以前の主人であったとしても
+
+\\N[1]様と居ることを望む彼女たちを
+引き渡すことはできません。
+> CONTEXT: Map003/events/13/pages/1/25/Dialogue
+Even if you were a former master
+\\N[1] Make them want to stay. It can not be
+handed over.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\{\\{\\{ざっけんなコラ！！
+> CONTEXT: Map003/events/13/pages/1/31/Dialogue
+\\{\\{\\{Zen kola! !#MTLed
+> END STRING
+
+> BEGIN STRING
+こっちは他の連中に示しがつかねぇって言ってんだ！！
+
+そのダテ眼鏡叩き割るぞオラァ！！
+> CONTEXT: Map003/events/13/pages/1/33/Dialogue
+This is saying that it can not be shown to other
+people!!I will break that glasses eyeglasses
+Ora! !#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[1]お兄ちゃん♪
+
+そんなところにいたんだね！
+> CONTEXT: Map003/events/13/pages/1/42/Dialogue
+\\N[1] brother♪. I was in such a place!#MTLed
+> END STRING
+
+> BEGIN STRING
+クソゴミ虫みたいにまだ這いつくばって生きてたんだね♪
+
+その生命力感心しちゃうなぁ♡
+> CONTEXT: Map003/events/13/pages/1/46/Dialogue
+I was still living while crawling like a bad worm
+bug♪. I will impress that life force ♡#MTLed
+> END STRING
+
+> BEGIN STRING
+お……おにい……？
+> CONTEXT: Map003/events/13/pages/1/50/Dialogue
+Oh...the young man......?#MTLed
+> END STRING
+
+> BEGIN STRING
+……………アタシの部下もそこなんだね。
+
+ 大人しくしなさい。
+> CONTEXT: Map003/events/13/pages/1/53/Dialogue
+............... There are also men under 'I'.
+Be quiet.#MTLed
+> END STRING
+
+> BEGIN STRING
+二匹とも生きたまま首だけにしてやるわ。
+> CONTEXT: Map003/events/13/pages/1/57/Dialogue
+I will only keep two of them as they live.#MTLed
+> END STRING
+
+> BEGIN STRING
+い、いや！
+
+ 二人ともこの先にはいないよ！！この先は…！
+> CONTEXT: Map003/events/13/pages/1/59/Dialogue
+No! Both of us are not here!!The future is ...!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\{めっちゃ見える位置で覗いてたあぁー！
+> CONTEXT: Map003/events/13/pages/1/71/Dialogue
+\\{I was peeking at a really visible
+position!#MTLed
+> END STRING
+
+> BEGIN STRING
+冥府の間の管理を任されている秘書として
+
+貴方をこの先に通すわけには参りません。
+> CONTEXT: Map003/events/13/pages/1/87/Dialogue
+As a secretary who is assigned to manage Hell's
+Gate. I will not go through you this way.#MTLed
+> END STRING
+
+> BEGIN STRING
+どうしてもと言うのなら……
+
+私がお相手いたしましょう。
+> CONTEXT: Map003/events/13/pages/1/91/Dialogue
+If you say absolutely...... 
+Let me meet you.#MTLed
+> END STRING
+
+> BEGIN STRING
+ハッ！現役引退した『黒狐』が……
+
+私の攻撃を耐えられるのかしら？
+> CONTEXT: Map003/events/13/pages/1/95/Dialogue
+Ha! "Black fox" who retired from work......
+I wonder if I can endure my Attack?#MTLed
+> END STRING
+
+> BEGIN STRING
+…………試してみますか？
+> CONTEXT: Map003/events/13/pages/1/99/Dialogue
+…………Would you like to try it on?#MTLed
+> END STRING
+
+> BEGIN STRING
+いい加減にしろよ、お前ら。
+> CONTEXT: Map003/events/13/pages/1/104/Dialogue
+Do it badly, you guys.#MTLed
+> END STRING
+
+> BEGIN STRING
+この冥府の間は、魂を公平に裁く神聖な間だ。
+
+もしここで戦いをおっぱじめようってんなら……
+> CONTEXT: Map003/events/13/pages/1/106/Dialogue
+This Hell's Gate is sacred to judge the soul
+fairly. If you are going to start fighting here
+...#MTLed
+> END STRING
+
+> BEGIN STRING
+俺が相手になってやるぞ、ヘカーテ。
+> CONTEXT: Map003/events/13/pages/1/111/Dialogue
+I will be your opponent, Hecate.#MTLed
+> END STRING
+
+> BEGIN STRING
+はぁ………じゃあやめとくわ。
+
+アンタを敵に回すくらいなら……。
+> CONTEXT: Map003/events/13/pages/1/119/Dialogue
+Huh ......... then, I will stop it.
+As much as turning your opponent into an enemy
+... ....#MTLed
+> END STRING
+
+> BEGIN STRING
+\\{！？
+> CONTEXT: Map003/events/13/pages/1/123/Dialogue
+\\{!?#MTLed
+> END STRING
+
+> BEGIN STRING
+…………私も、少々取り乱してしまいました…。
+
+お許しを、我が主。
+> CONTEXT: Map003/events/13/pages/1/125/Dialogue
+............ I am a bit distraught ....
+Forgive my soul.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\{\\{！！！？？？
+> CONTEXT: Map003/events/13/pages/1/129/Dialogue
+\\{\\{!!!???#MTLed
+> END STRING
+
+> BEGIN STRING
+わかりゃいいんだよ。わかりゃ。
+> CONTEXT: Map003/events/13/pages/1/131/Dialogue
+I do not mind understanding. Do not forget.#MTLed
+> END STRING
+
+> BEGIN STRING
+ホラ、そうと決まったらとっとと帰んな。ヘカーテ。
+
+こっちも秘書を借りるくらいには忙しいんでな。
+> CONTEXT: Map003/events/13/pages/1/133/Dialogue
+Horato, if you decide so, you will finally come
+back. Hecate. I am too busy here to borrow a
+secretary.#MTLed
+> END STRING
+
+> BEGIN STRING
+あーあ……アンタといいアイツといい……
+
+なんで最近『遊び』に邪魔ばっかり付くんだろうなぁ…
+> CONTEXT: Map003/events/13/pages/1/137/Dialogue
+Ah, ah...... you say good idea......
+I wonder why only recently disturbing "play" ...#MTLed
+> END STRING
+
+> BEGIN STRING
+クッションくんって…
+
+何者なんだ…
+> CONTEXT: Map003/events/13/pages/1/153/Dialogue
+Cushion-kun is...Who are you ...#MTLed
+> END STRING

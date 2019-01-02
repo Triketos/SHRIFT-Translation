@@ -1,0 +1,1216 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+親密度が１００必要。
+（現在の値：\\V[54]）
+> CONTEXT: Map216/events/3/pages/0/18/Dialogue
+Familiarity needs 100. (Current value: \\V[54] )#MTLed
+> END STRING
+
+> BEGIN STRING
+"ＳＰが５０増加！！"
+> CONTEXT: Map216/events/3/pages/1/8/InlineScript/1:13
+> CONTEXT: Map025/events/17/pages/1/7/InlineScript/1:13
+"SP increased by 50!!"#MTLed
+> END STRING
+
+> BEGIN STRING
+親密度が２５以上必要。
+（現在の値：\\V[54]）
+> CONTEXT: Map216/events/4/pages/0/0/Dialogue
+Familiarity must be 25 or more. (Current value: \\V[54] )#MTLed
+> END STRING
+
+> BEGIN STRING
+来たか…\\N[1]。
+
+苦しゅうない、近う寄れ
+> CONTEXT: Map216/events/5/pages/0/21/Dialogue
+Did you come ...? \\N[1] . Struggling#MTLed
+> END STRING
+
+> BEGIN STRING
+痴れ者めが……
+
+妾に何用じゃ？
+> CONTEXT: Map216/events/5/pages/0/27/Dialogue
+A daughter is...... What is it for myself?#MTLed
+> END STRING
+
+> BEGIN STRING
+雑談する en(v[54] \>= 25)
+> CONTEXT: Map216/events/5/pages/0/35/Choice/0
+To chaten(v[54] \>= 25)#MTLed
+> END STRING
+
+> BEGIN STRING
+搾精（抱き）en(v[54] \>= 25)
+> CONTEXT: Map216/events/5/pages/0/35/Choice/1
+milking (Hug)en(v[54] \>= 25)#MTLed
+> END STRING
+
+> BEGIN STRING
+搾精（尻尾包み）en(v[54] \>= 50)
+> CONTEXT: Map216/events/5/pages/0/35/Choice/2
+milking (tail wrapping)en(v[54] \>= 50)#MTLed
+> END STRING
+
+> BEGIN STRING
+搾精（足コキ）en(v[54] \>= 70)
+> CONTEXT: Map216/events/5/pages/0/35/Choice/3
+milking (footjob)en(v[54] \>= 70)#MTLed
+> END STRING
+
+> BEGIN STRING
+搾精（アルラウネ）en(v[54] \>= 80)
+> CONTEXT: Map216/events/5/pages/0/145/Choice/0
+milking (Alraune)en(v[54] \>= 80)#MTLed
+> END STRING
+
+> BEGIN STRING
+搾精（ビースト）en(v[54] \>= 80)
+> CONTEXT: Map216/events/5/pages/0/145/Choice/1
+milking (beast)en(v[54] \>= 80)#MTLed
+> END STRING
+
+> BEGIN STRING
+搾精（ジェル）en(v[54] \>= 80)
+> CONTEXT: Map216/events/5/pages/0/145/Choice/2
+milking (gel)en(v[54] \>= 80)#MTLed
+> END STRING
+
+> BEGIN STRING
+ふん！
+
+妾にそのようなゴミを受け取れというのか？
+身の程をわきまえるがいい、下郎！
+> CONTEXT: Map216/events/5/pages/0/336/Dialogue
+Hmm! Does that mean that you can receive such
+garbage? Do not forget the position, Shiro!#MTLed
+> END STRING
+
+> BEGIN STRING
+妾はその程度の貢ぎ物で、心が動くほど安くはないわ。
+
+出直してこい
+> CONTEXT: Map216/events/5/pages/0/341/Dialogue
+Musu is such a kind of tribute, not as cheap as
+the heart moves. Come over again#MTLed
+> END STRING
+
+> BEGIN STRING
+心蝕を消すif(v[54] \>= 100)
+> CONTEXT: Map216/events/5/pages/0/353/Choice/0
+Erase mind corruptionif(v[54] \>= 100)#MTLed
+> END STRING
+
+> BEGIN STRING
+ククク……良いぞ…
+
+好きなだけ可愛がってやろう…♡
+> CONTEXT: Map216/events/5/pages/0/364/Dialogue
+Hehehe...good, you...Love as much as you want
+... ♡#MTLed
+> END STRING
+
+> BEGIN STRING
+"妲己の心蝕が治った！！"
+> CONTEXT: Map216/events/5/pages/0/375/InlineScript/1:13
+"妲己's mind corruption cured!!"#MTLed
+> END STRING
+
+> BEGIN STRING
+ホホホ……会話か。
+
+良かろう、なんでも聞くがいい。
+> CONTEXT: Map216/events/5/pages/1/1/Dialogue
+Ho ho ho...... conversation?
+Whatever, please listen.#MTLed
+> END STRING
+
+> BEGIN STRING
+『変化の術』についてen(v[54] \>= 30)
+> CONTEXT: Map216/events/5/pages/1/7/Choice/0
+About "art of change"en(v[54] \>= 30)#MTLed
+> END STRING
+
+> BEGIN STRING
+『時止めの能力』en(v[54] \>= 40)
+> CONTEXT: Map216/events/5/pages/1/7/Choice/1
+"Ability to stop time"en(v[54] \>= 40)#MTLed
+> END STRING
+
+> BEGIN STRING
+妲己の罠en(v[54] \>= 60)
+> CONTEXT: Map216/events/5/pages/1/7/Choice/2
+Daiji's Trapen(v[54] \>= 60)#MTLed
+> END STRING
+
+> BEGIN STRING
+ホホホ………
+
+妾が変幻自在の『変化の術』に興味があるのか？
+> CONTEXT: Map216/events/5/pages/1/13/Dialogue
+Ho ho ho ......... Are you interested in
+"Transforming art" where Musashi is flexible?#MTLed
+> END STRING
+
+> BEGIN STRING
+まぁ、妾のものはそこらの下級のものとはワケが違う
+
+物珍しいのも分かる気がするのう
+> CONTEXT: Map216/events/5/pages/1/17/Dialogue
+Well, the concubine's thing is different from the
+lower-class one. I feel like I can also
+understand what is unusual#MTLed
+> END STRING
+
+> BEGIN STRING
+うん………
+
+見た目だけじゃなく、攻撃方法や特徴まで変わって
+最後なんか声質も口調も全然違ってたし……
+> CONTEXT: Map216/events/5/pages/1/21/Dialogue
+Yup………. Not only looks but also the way Attacks
+and features change. Voice quality and tone were
+completely different at the end ......#MTLed
+> END STRING
+
+> BEGIN STRING
+…………………
+
+ユウマは、全然分からなかったし……
+> CONTEXT: Map216/events/5/pages/1/27/Dialogue
+..................... Yuuma did not understand at
+all......#MTLed
+> END STRING
+
+> BEGIN STRING
+ククク…………
+
+なるほど、そう言うことか………
+> CONTEXT: Map216/events/5/pages/1/34/Dialogue
+Hehehe ............ Indeed, what to say so
+.........#MTLed
+> END STRING
+
+> BEGIN STRING
+悔しかったのだな……？
+ 古くからの親友だと思って話し、打ち解けていた相手が
+
+妾が化けていたものだったというのが……
+> CONTEXT: Map216/events/5/pages/1/38/Dialogue
+I regretted.......? I thought it was a
+longstanding old friend and I talked,
+It is said that the concubine was garbled......#MTLed
+> END STRING
+
+> BEGIN STRING
+だが、あの時も言ったであろう？
+ 妾の変化は、思考や記憶すらも模倣する、と。
+
+いくら親友と言えど、見破ることなど絶対に出来ぬ。
+> CONTEXT: Map216/events/5/pages/1/43/Dialogue
+But you also said that time? The change of
+concubine, even imitating thought and memory,
+said. No matter how much you say as a best
+friend, you can not absolutely do it.#MTLed
+> END STRING
+
+> BEGIN STRING
+正体を現すまで、妾は『ユウマ』そのもの……
+
+ゆえにお前に投げ掛けた言葉には、嘘偽りはなかった。
+> CONTEXT: Map216/events/5/pages/1/48/Dialogue
+Until you show your identity, you are Yuuma
+itself...... Therefore, there was no lie in the
+words he threw to you.#MTLed
+> END STRING
+
+> BEGIN STRING
+……お前が『ユウマ』に成り代わっていたとき
+
+ ユウマは……
+本物のユウマはどうしていたんだ……？
+> CONTEXT: Map216/events/5/pages/1/53/Dialogue
+...... When you were becoming "Yuuma"
+Yuuma is ...... What was the real Yuuma doing
+......?#MTLed
+> END STRING
+
+> BEGIN STRING
+妾の中で大人しくしておったわ。
+
+すぐにでも喰ろうてやろうと思ってはおったが
+貴様と合わせて喰うために取っておいたのよ。
+> CONTEXT: Map216/events/5/pages/1/58/Dialogue
+I was quiet in my concubine. I thought that I
+should try to eat it even soon
+I decided to save it for eating together with
+you.#MTLed
+> END STRING
+
+> BEGIN STRING
+ふん！だが……
+結果それが裏目に出てしまったわけだが……
+
+早くに喰らっておくべきじゃったな……
+> CONTEXT: Map216/events/5/pages/1/63/Dialogue
+Hmm! But...As a result it was backfired......
+You should have eaten soon......#MTLed
+> END STRING
+
+> BEGIN STRING
+あやつめ………屈服して大人しいだけかと思ったら
+
+ まさか手の内を全て見せぬための作戦だったとは……
+> CONTEXT: Map216/events/5/pages/1/68/Dialogue
+AAKEMY ......... If you think that you are just
+mature. No way that it was a strategy for not
+showing all the hands......#MTLed
+> END STRING
+
+> BEGIN STRING
+…………少し話がそれたな。
+
+ 『変化の術』の話に戻るぞ。
+> CONTEXT: Map216/events/5/pages/1/73/Dialogue
+............ It was a bit of a story.
+You will return to the story of "The art of
+change".#MTLed
+> END STRING
+
+> BEGIN STRING
+妾の変化の術は、本来人間界に紛れこむためのもの。
+
+ユウマのように、普通の外観の人間に化けることが多い。
+> CONTEXT: Map216/events/5/pages/1/77/Dialogue
+The art of change of concubine is to originally
+to be confused with the human realm.
+Like Yuuma, it is often transformed into a human
+with an ordinary appearance.#MTLed
+> END STRING
+
+> BEGIN STRING
+おヌシと戦ったときのフォームは全て
+ おヌシのために、悪魔色を濃くした特別仕様じゃ。
+
+ 本来は、悪魔に化けるために使う術ではない…
+> CONTEXT: Map216/events/5/pages/1/81/Dialogue
+All forms when fighting with noshi
+For the sake of a puff, it is a special
+specification which made the demon color darker.
+Originally it is not a technique to use to turn
+it into demon ...#MTLed
+> END STRING
+
+> BEGIN STRING
+妾はこの術を使って、今の今まで
+ さまざまな人間に化け、人間界で暮らしてきた。
+
+ 時には性別すらも男であった時もあったのう……
+> CONTEXT: Map216/events/5/pages/1/86/Dialogue
+By using this technique, I have done so far
+I have turned to various people and have lived in
+the human realm. Sometimes there were times when
+even sex was even a man......#MTLed
+> END STRING
+
+> BEGIN STRING
+その中で、まだ若く、一番表立って活動していたのが
+
+『妲己』と呼ばれていた時期…ということじゃ
+> CONTEXT: Map216/events/5/pages/1/91/Dialogue
+Among them, it is still young, the most
+outstandingly active. When it was called "Daiji"
+...#MTLed
+> END STRING
+
+> BEGIN STRING
+ゆえに、この姿も
+『妲己』と呼ばれていた時期の姿というわけではない。
+
+ 長い年月を経て、アレンジを加え少しづつ変化しておる。
+> CONTEXT: Map216/events/5/pages/1/95/Dialogue
+Therefore, this figure also. It is not the time
+of the period when it was called "Daiji".
+After many years, prepare is added and it is
+gradually changing.#MTLed
+> END STRING
+
+> BEGIN STRING
+…………まぁ、ある意味……
+
+それがこの術の唯一の『弱点』なわけじゃが……
+> CONTEXT: Map216/events/5/pages/1/101/Dialogue
+............ Well, in a sense......
+That is the only "weak point" of this technique
+... ...#MTLed
+> END STRING
+
+> BEGIN STRING
+『弱点』………？
+> CONTEXT: Map216/events/5/pages/1/106/Dialogue
+"Weak point" .........?#MTLed
+> END STRING
+
+> BEGIN STRING
+相手の思考すら模倣し、感情もそれに準ずる事は
+
+ すなわち、『自分の個の曖昧さ』へと繋がる。
+> CONTEXT: Map216/events/5/pages/1/108/Dialogue
+It imitates even the thought of the opponent, and
+the emotions are similar to it
+That is, it leads to "ambiguity of one's own
+person".#MTLed
+> END STRING
+
+> BEGIN STRING
+だからこそ、普通の悪魔の使う変化の術と比べ
+術中に使う集中力は倍以上になるのじゃ。
+
+ 変化した者の『個』に飲み込まれかねないからな。
+> CONTEXT: Map216/events/5/pages/1/112/Dialogue
+That's why, compared to the usual demon's
+changing technique. The ability to concentrate
+during the operation will be more than doubled.
+It can be swallowed by "person" of the person who
+changed.#MTLed
+> END STRING
+
+> BEGIN STRING
+ゆえに、普段妾は、この姿を妾自身の『個』とし
+
+『食事』の都度、この姿に戻るのじゃ
+> CONTEXT: Map216/events/5/pages/1/117/Dialogue
+Therefore, Musume usually considers this figure
+as the concubine's own "individual"
+Every time "meal", I will return to this figure#MTLed
+> END STRING
+
+> BEGIN STRING
+まぁ、最近特に思うのじゃが……
+
+この姿……少し『盛りすぎ』たかのぅ……？
+> CONTEXT: Map216/events/5/pages/1/123/Dialogue
+Well, recently I think in particular......
+This figure...... a bit 'too loud' Takao ...?#MTLed
+> END STRING
+
+> BEGIN STRING
+長い年月で少しづつだったゆえ、あまり違和感はないが…
+
+自分では気付かぬものなのだよ。
+> CONTEXT: Map216/events/5/pages/1/127/Dialogue
+Because it was little by little in years, it is
+not very uncomfortable...It is something you do
+not notice.#MTLed
+> END STRING
+
+> BEGIN STRING
+うん………
+
+大分いろんな部分が、人間基準からしたら
+ ぶっとんでるサイズだと思う…………
+> CONTEXT: Map216/events/5/pages/1/132/Dialogue
+Yup………. Oita if various parts are made from human
+standards. I think it's a loud size ............#MTLed
+> END STRING
+
+> BEGIN STRING
+妲己は、時間停止みたいな攻撃を使ってたけど……
+
+あれは、躯が使っていたものと同じなの？
+> CONTEXT: Map216/events/5/pages/1/144/Dialogue
+Daiji used an Attack like Time Stop ....
+Is that the same thing that Mukuro used?#MTLed
+> END STRING
+
+> BEGIN STRING
+確か……躯の『時間停止』の能力は
+
+『双子』に与えられていた能力だったけど……
+> CONTEXT: Map216/events/5/pages/1/148/Dialogue
+Sure...... Mukuro's ability to "stop time"
+It was the ability given to "twins" ....#MTLed
+> END STRING
+
+> BEGIN STRING
+ふん！
+
+そんな大技、妖術の範疇に無いわ！
+ 妾の使っていたのは、単なる『麻痺』魔法じゃ。
+> CONTEXT: Map216/events/5/pages/1/152/Dialogue
+Hmm! I am not in the category of such great art,
+witchcraft! What I was using was merely
+"paralysis" magic.#MTLed
+> END STRING
+
+> BEGIN STRING
+ま、『麻痺』………！？
+
+で、でもそんな感じじゃなかったような……
+> CONTEXT: Map216/events/5/pages/1/158/Dialogue
+Well, "paralysis" .........!?
+But, it seems that it was not such a feeling ...
+...#MTLed
+> END STRING
+
+> BEGIN STRING
+妾の麻痺魔法は、感覚も瞬時に感じなくなり
+ あたかも『時間が止まった』ように感じるだけじゃ。
+
+ 実際に時間を止めるわけではない。。
+> CONTEXT: Map216/events/5/pages/1/162/Dialogue
+The paralysis magic of the concubine stops
+feeling instantaneously. It just seems like "time
+has stopped". It does not really stop time. .#MTLed
+> END STRING
+
+> BEGIN STRING
+というより……あの双子が規格外だったのじゃ。
+
+そもそも『時間停止』なぞ、規模が尋常ではない。
+その世界の全ての次元が範囲じゃぞ？
+> CONTEXT: Map216/events/5/pages/1/168/Dialogue
+Or rather...that twins was out of the standard.
+First of all, "time stop" mystery, the scale is
+not extraordinary. All dimensions of the world
+range?#MTLed
+> END STRING
+
+> BEGIN STRING
+同じ世界の時空を自由に行き来できる悪魔……
+
+だからこそ、あんな芸当ができるのであろう。
+> CONTEXT: Map216/events/5/pages/1/173/Dialogue
+A demon that can freely travel to and from the
+same world's space-time ......
+That's why you can do such a trick.#MTLed
+> END STRING
+
+> BEGIN STRING
+妲己ほどでも規格外なんだ……あの双子って……
+
+なんか、他とは違うみたいな印象はあったけど……
+> CONTEXT: Map216/events/5/pages/1/178/Dialogue
+Even as Daiji is out of the standard...... that
+twins...... Something, I had a different
+impression than the others......#MTLed
+> END STRING
+
+> BEGIN STRING
+いかなる高位な悪魔の力をもってしても
+『時間停止』を妖術で実現するのは、不可能じゃ。
+
+その『専門』の悪魔でもない限りな。
+> CONTEXT: Map216/events/5/pages/1/182/Dialogue
+Even with the power of any higher demon
+It is impossible to realize "stop time" with
+witchcraft. It is not even demon of that
+"specialty".#MTLed
+> END STRING
+
+> BEGIN STRING
+そもそも、長年生きてきた妾でさえ
+
+ そんな能力、そういう企画ものの
+『あだるとびでお』でしか見たことがないわ……
+> CONTEXT: Map216/events/5/pages/1/187/Dialogue
+In the first place, even a concubine who has
+lived for many years. Such ability, such planning
+things. I only saw it with "Aru Torodyna" ...#MTLed
+> END STRING
+
+> BEGIN STRING
+あ、あだるとびでお…？
+> CONTEXT: Map216/events/5/pages/1/193/Dialogue
+Oh, it's usual ...?#MTLed
+> END STRING
+
+> BEGIN STRING
+なんじゃ？
+
+この姿で、このしゃべり方だからといって
+妾が現代の世間に疎いなどと思うのは、大間違いじゃぞ？
+> CONTEXT: Map216/events/5/pages/1/196/Dialogue
+What is it? In this way, because this way of
+talking. It is a big mistake that I think that
+myself is disgusted with the modern world.#MTLed
+> END STRING
+
+> BEGIN STRING
+古来より『妖狐』という種族は
+
+妖術で相手をたぶらかしたり、恋に落ち伴侶になるなど
+人と密接に関係を築いてきた。
+> CONTEXT: Map216/events/5/pages/1/201/Dialogue
+Since ancient times, the race "Otofu"
+Destroying opponents with witchcraft, falling in
+love and becoming a companion. I have been
+closely tied to people.#MTLed
+> END STRING
+
+> BEGIN STRING
+これは妾に限ったことではない。
+
+ 人間界で直接……はたまた魔界で間接的に
+今も人間の『世間』に触れ、過ごしておるのだ。
+> CONTEXT: Map216/events/5/pages/1/206/Dialogue
+This is not limited to concubines.
+Directly with the human realm...... or
+indirectly with Demon Realm. Even now I touch the
+human "world" and are spending.#MTLed
+> END STRING
+
+> BEGIN STRING
+まぁ、流石に昔に妾を始めとした大妖狐たちが
+ ことごとく討伐されておる影響なのか
+
+悪巧みをする輩は、滅多に出なくなったが……
+> CONTEXT: Map216/events/5/pages/1/211/Dialogue
+Well, the great fairytells who used to be a
+concubine to old-fashioned rock
+Is it the influence which is being subjugated
+completely? People who do skill rarely come out
+... ...#MTLed
+> END STRING
+
+> BEGIN STRING
+『狐が人を化かす』のが古風だとか時代遅れなどとは
+ くれぐれも思ってくれるなよ？
+
+ 妾たちは、今でもお前たちの近くに居るのだ……
+> CONTEXT: Map216/events/5/pages/1/216/Dialogue
+It is old-fashioned that "a fox makes people
+liberate" is said to be outdated
+Do not despair me? The minds are still near you
+now......#MTLed
+> END STRING
+
+> BEGIN STRING
+は、はぁ………
+> CONTEXT: Map216/events/5/pages/1/221/Dialogue
+> CONTEXT: Map037/events/4/pages/0/406/Dialogue
+Haa .........#MTLed
+> END STRING
+
+> BEGIN STRING
+（アダルトビデオ、見るんだ……
+
+　しかもそんなニッチな感じのやつ……）
+> CONTEXT: Map216/events/5/pages/1/225/Dialogue
+(I see adult videos ...... Moreover, a guy with
+such niche feeling......)#MTLed
+> END STRING
+
+> BEGIN STRING
+ （………って言おうと思ってたんだけど
+
+　なんか別の琴線に触れちゃったみたいだな……）
+> CONTEXT: Map216/events/5/pages/1/229/Dialogue
+(I was thinking to say .........
+It looks like I touched a different chord line
+... ...)#MTLed
+> END STRING
+
+> BEGIN STRING
+ （いいや、こっちの件は黙っておこう………
+
+　何度も言うと、なんか怒られそうだし……）
+> CONTEXT: Map216/events/5/pages/1/233/Dialogue
+(Okay, let's keep this case silent .........
+When I say it over and over, it seems to get
+angry something......)#MTLed
+> END STRING
+
+> BEGIN STRING
+妲己の行動で、
+ちょっと腑に落ちない部分があるんだけど
+
+何故、しっかり列車の発車準備をしてくれたの？
+> CONTEXT: Map216/events/5/pages/1/244/Dialogue
+With Daiji's actions, There is a part that does
+not quite understand. Why did you prepare to
+depart the train firmly?#MTLed
+> END STRING
+
+> BEGIN STRING
+港に来るまでなら分からなくもないけど
+
+始末する気なら、列車を動かさないようにしたほうが
+ よかったんじゃない？
+> CONTEXT: Map216/events/5/pages/1/249/Dialogue
+Although I do not know until I come to the port
+It would be better not to move the train
+Was not it good?#MTLed
+> END STRING
+
+> BEGIN STRING
+ふん！見くびってもらっては困る………
+
+それではおヌシがフェアではないではないか
+> CONTEXT: Map216/events/5/pages/1/255/Dialogue
+Hmm! It is troublesome to have it uninvited
+......... Well then is not Noshi fair?#MTLed
+> END STRING
+
+> BEGIN STRING
+当然、おヌシを逃す気なぞさらさら無かったが
+
+万が一逃げ延びた場合、脱出できなければ
+ おヌシの足掻く意味がなかろう。
+> CONTEXT: Map216/events/5/pages/1/259/Dialogue
+Of course, I did not feel smoothly missing your
+cowpea. In case you escape, if you can not escape
+It would be meaningless to scratch nuns.#MTLed
+> END STRING
+
+> BEGIN STRING
+妾が獲物を逃がすなど、滅多なことではない。
+
+その『滅多なこと』が起きた後のことで
+別の要因で死んでほしくはないからのぅ……
+> CONTEXT: Map216/events/5/pages/1/264/Dialogue
+It is not uncommon, for example, that mistress
+escapes prey. After that "rare thing" happened
+I do not want you to die due to another factor
+...#MTLed
+> END STRING
+
+> BEGIN STRING
+つまり……
+
+『自分が喰う』以外のことで
+惨めに死んでほしくなかったってこと……？
+> CONTEXT: Map216/events/5/pages/1/270/Dialogue
+In other words...Other than "I eat"
+Does not that you want me to miserably die ...?#MTLed
+> END STRING
+
+> BEGIN STRING
+なんていうか………律儀だね……
+
+もっと怖い悪魔だと思ってたけど………
+> CONTEXT: Map216/events/5/pages/1/275/Dialogue
+What he says ........ It is rhetoric ...
+I thought it was a more scary demon, but
+.........#MTLed
+> END STRING
+
+> BEGIN STRING
+勘違いするなよ
+
+我ら妖狐は人間を『騙し』『たぶらかす』のは好きだが
+決して『卑怯者』ではない。
+> CONTEXT: Map216/events/5/pages/1/280/Dialogue
+Do not misunderstand. We like foxes to "cheat"
+people "to trample". It is not "cowardly" by any
+means.#MTLed
+> END STRING
+
+> BEGIN STRING
+だから、おヌシとの『約束』のくだりでは
+
+仕方なく、素直に正体を現したからのぅ
+> CONTEXT: Map216/events/5/pages/1/285/Dialogue
+So, with the petition of "promised" with Nushi
+It is unavoidable, it apparently manifested
+itself#MTLed
+> END STRING
+
+> BEGIN STRING
+言われてみれば、正体を現すときに撃った銃弾も、
+
+ 明らかに足元だったね……
+不意は突いてたけど、アレは当てる気がないって言うか…
+> CONTEXT: Map216/events/5/pages/1/290/Dialogue
+As I was told, the bullets I shot when I showed
+my identity, Obviously it was at hand......
+I suddenly poked, but it says that I do not feel
+like guessing ...#MTLed
+> END STRING
+
+> BEGIN STRING
+そもそも、妾はおヌシに正体を明かす予定はなかった
+
+ あくまで、妾は『ユウマ』として最後までふるまい
+ おヌシは車両制御室で果てる、という筋書きじゃった。
+> CONTEXT: Map216/events/5/pages/1/295/Dialogue
+In the first place, the concubine did not plan to
+reveal the identity to the mushrooms
+To the last, concubine acts as "Yuuma" until the
+end. It was a scenario that Ogushi is to be ended
+in the vehicle control room.#MTLed
+> END STRING
+
+> BEGIN STRING
+じゃが……
+まさか自分の使い魔にすら細工されておったとは
+
+ ユウマは本当に、あらゆる意味で喰えぬ人間じゃ
+> CONTEXT: Map216/events/5/pages/1/300/Dialogue
+A potato. No way it was even crafted by your own
+devil. Yuuma is really a human being who can not
+eat it in every sense#MTLed
+> END STRING
+
+> BEGIN STRING
+そういえば………
+車両制御室には、結局何があったの？
+
+ 罠だったことは分かってるけど……
+> CONTEXT: Map216/events/5/pages/1/307/Dialogue
+by the way………. What happened in the vehicle
+control room after all? I know that it was a trap
+....#MTLed
+> END STRING
+
+> BEGIN STRING
+ふぅむ、よかろう。教えてやる。
+
+ 隠す理由など、今更ないからのぅ。
+> CONTEXT: Map216/events/5/pages/1/312/Dialogue
+Fumo, let's go. I will tell you.
+I do not know why, such as hiding reasons.#MTLed
+> END STRING
+
+> BEGIN STRING
+簡単な話、あそこには妾の『とある使い魔』がおった。
+
+なかなか特殊な特徴を持つものだから
+ こんな機会でなければ、滅多に出さぬやつじゃ。
+> CONTEXT: Map216/events/5/pages/1/316/Dialogue
+A brief story, there was a concubine's "tomorrow
+demon". Because it has quite special
+characteristics. If it is not such a chance, it
+is a rare issue.#MTLed
+> END STRING
+
+> BEGIN STRING
+おヌシは、あの部屋で自分の『敗北願望』を投影され
+
+ みじめに自滅しながら搾精されるはずだったのよ。
+> CONTEXT: Map216/events/5/pages/1/321/Dialogue
+Ogushi projected his "defeat desire" in that room
+It was supposed to be milking while being
+miserable.#MTLed
+> END STRING
+
+> BEGIN STRING
+は……『敗北願望』…？
+
+『投影』するって…？
+> CONTEXT: Map216/events/5/pages/1/326/Dialogue
+......"Wish to be defeated" ...?
+"To project" ...?#MTLed
+> END STRING
+
+> BEGIN STRING
+おヌシは、負けてはならぬ場面で、
+あらぬ期待をして、負けた先を想像したことはないか？
+
+まさしくそれじゃ
+> CONTEXT: Map216/events/5/pages/1/330/Dialogue
+Ogushi is a scene that must not be defeated,
+Have you imagined expectations and imagined a
+loser? Just that.#MTLed
+> END STRING
+
+> BEGIN STRING
+それは、直接的なものから無意識なものまで関係なく
+
+ あの部屋で形あるものに投影され、実体を持ち
+ おヌシの『願望』を叶えてくれる
+> CONTEXT: Map216/events/5/pages/1/335/Dialogue
+It's not matter from direct to unconscious
+It is projected on something shaped in that room,
+has entities. It will fulfill Nishi's
+"aspiration"#MTLed
+> END STRING
+
+> BEGIN STRING
+一度、投影が始まれば最期……
+
+逃れても逃れても、その都度、別の願望を投影し
+ いずれは心が折れるまで無限に続く……
+> CONTEXT: Map216/events/5/pages/1/340/Dialogue
+Once the projection starts, the last time ...
+Even if escaping or escaping, every time I
+project another desire. Either one continues
+indefinitely until the mind breaks ...#MTLed
+> END STRING
+
+> BEGIN STRING
+じゃが、この使い魔は暗闇でしか活動できないうえに
+戦闘能力自体は皆無という限定的な能力………
+
+あの部屋でぐらいしか使えぬシロモノなのじゃ
+> CONTEXT: Map216/events/5/pages/1/345/Dialogue
+The potato can only work in the dark
+Limited ability of battle capability itself is
+nothing ......... It is a silo monochrome that
+can be used only in that room#MTLed
+> END STRING
+
+> BEGIN STRING
+残念じゃったのぅ………♡
+
+おヌシはどんなものが投影されるのか
+楽しみにしておったのじゃが……
+> CONTEXT: Map216/events/5/pages/1/351/Dialogue
+I regret to say...___ __. What kind of things
+are to be projected? Were you looking forward to
+it.......#MTLed
+> END STRING
+
+> BEGIN STRING
+きっと最期まで必死に『抵抗』して
+
+泣き叫びながら快楽に堕ちていったのであろうな…！
+> CONTEXT: Map216/events/5/pages/1/356/Dialogue
+I'm sure to desperately "struggle" until the end
+I wish I was crying and fell into pleasure ...!#MTLed
+> END STRING
+
+> BEGIN STRING
+お、おそろしい能力………
+> CONTEXT: Map216/events/5/pages/1/361/Dialogue
+Oh, a terrible ability .........#MTLed
+> END STRING
+
+> BEGIN STRING
+【キズナイベント】if(v[54] \>= 99)
+> CONTEXT: Map216/events/5/pages/1/367/Choice/0
+【Bonding】if(v[54] \>= 99)#MTLed
+> END STRING
+
+> BEGIN STRING
+ふむ………
+
+妾もいい加減、長居が過ぎたか……
+> CONTEXT: Map216/events/5/pages/1/372/Dialogue
+HM………. My concubine too, my long duration has
+passed ......#MTLed
+> END STRING
+
+> BEGIN STRING
+おヌシがあまりに従順に振る舞うゆえ
+
+ ついつい、居心地が良くなってしまったわ……
+> CONTEXT: Map216/events/5/pages/1/376/Dialogue
+Because nongs act too obedient
+I can not help it, I got cozy......#MTLed
+> END STRING
+
+> BEGIN STRING
+なんじゃ？その眼は……
+
+なにやら、言いたそうな眼じゃのう……？
+> CONTEXT: Map216/events/5/pages/1/384/Dialogue
+What is it? That eyes ...... Something like that,
+did he say that ...?#MTLed
+> END STRING
+
+> BEGIN STRING
+此処に来たときに、事前に言っておるはずじゃ
+
+ もともと、おヌシに深入りする気はない、と。
+> CONTEXT: Map216/events/5/pages/1/388/Dialogue
+When you came here, you should say it beforehand
+Originally, I do not feel like going into deep
+water.#MTLed
+> END STRING
+
+> BEGIN STRING
+これ以上、おヌシと付き合うても、妾に得はない。
+
+まぁ、悪くない環境ではあったが……
+> CONTEXT: Map216/events/5/pages/1/392/Dialogue
+Even if I go out with a pizza any more, I can not
+get a concubine. Well, it was not bad environment
+... ...#MTLed
+> END STRING
+
+> BEGIN STRING
+それとも………
+
+おヌシが妾に心残りがあるのか？
+> CONTEXT: Map216/events/5/pages/1/398/Dialogue
+Or...... Is there any survival in your
+concubine by Noshi?#MTLed
+> END STRING
+
+> BEGIN STRING
+単純に、妾の身体に溺れ足りないのか……
+
+あるいは……妾とキズナを結び、魔力が欲しいのか……？
+> CONTEXT: Map216/events/5/pages/1/402/Dialogue
+Simply, is it not enough to drown in my body?
+Or...... I want to connect myself with Kizuna
+and want magical power ....?#MTLed
+> END STRING
+
+> BEGIN STRING
+よい、答える必要はない……。
+
+おヌシの身体に、直接聞いてやろう……！！
+> CONTEXT: Map216/events/5/pages/1/407/Dialogue
+Good, there is no need to answer.......
+Let's listen directly to the body of a cowpea
+...! !#MTLed
+> END STRING
+
+> BEGIN STRING
+ホホホ………美味であった……♡
+
+これまでのどの精気よりも、格別な味わいじゃ♡
+> CONTEXT: Map216/events/5/pages/1/431/Dialogue
+Ho ho ho ......... It was delicious....... ♡
+It's more special than any other sort of flavor
+__#MTLed
+> END STRING
+
+> BEGIN STRING
+……………………………
+
+ …………………………
+> CONTEXT: Map216/events/5/pages/1/436/Dialogue
+...............................
+... ............................#MTLed
+> END STRING
+
+> BEGIN STRING
+さて…………
+
+妾も、さっきの『約束』は守らねばなるまいな。
+> CONTEXT: Map216/events/5/pages/1/440/Dialogue
+Now…………. Even myself, we must keep the "promise"
+a while ago.#MTLed
+> END STRING
+
+> BEGIN STRING
+おヌシがその『純真な欲望』を忘れない限り……
+
+妾も、おヌシのこの部屋に留まってやろう。
+> CONTEXT: Map216/events/5/pages/1/444/Dialogue
+Unless you forget that "genuine desire" ......
+I will also stay in this room of mushrooms.#MTLed
+> END STRING
+
+> BEGIN STRING
+ククク………
+これからも楽しみにしておるぞ、\\N[1]。
+
+さっきのような姿をな………♡
+> CONTEXT: Map216/events/5/pages/1/448/Dialogue
+Hehehe ......... I am looking forward to it,
+\\N[1] . You look like a little while ago
+......... ♡#MTLed
+> END STRING
+
+> BEGIN STRING
+妲己との『キズナ』が生まれた！！
+
+友好度が『１００』になった！！
+> CONTEXT: Map216/events/5/pages/1/460/Dialogue
+"Kizuna" with Daiji was born!! Friendship became "100"! !#MTLed
+> END STRING
+
+> BEGIN STRING
+ホホホ………面白い……
+
+妾に求婚するとは、おヌシも酔狂じゃのう
+> CONTEXT: Map216/events/5/pages/2/2/Dialogue
+Hoho Ho ......... Interesting ......
+It is a drunkard to be married to a concubine.#MTLed
+> END STRING
+
+> BEGIN STRING
+妾がどんな悪魔か、知らないわけではあるまい？
+
+ 妾を傍に置こうとした男は、全て破滅へ向かう……
+『傾国の美女』とまで言われたのだぞ…？
+> CONTEXT: Map216/events/5/pages/2/6/Dialogue
+Do not you not know what kind of demon you are?
+All the men who tried to place a concubine
+nearby, they headed to ruin......
+You were told that "Beauty of the Slinging
+States" ...?#MTLed
+> END STRING
+
+> BEGIN STRING
+よほどの破滅願望があるのか……
+
+それとも、妾を扱う自信があるのか……
+> CONTEXT: Map216/events/5/pages/2/11/Dialogue
+Is there a reasonable desire to be destroyed ...?
+Or are you confident about dealing with
+concubines ......#MTLed
+> END STRING
+
+> BEGIN STRING
+……………いや、後者はあり得ぬな。
+
+おヌシは、人間としては強い方じゃが、それまでじゃ。
+妾の足元にも及ばぬ。
+> CONTEXT: Map216/events/5/pages/2/16/Dialogue
+............... No, the latter is impossible.
+Asuka, As a human is a strong one, but until
+then. It does not extend to my feet.#MTLed
+> END STRING
+
+> BEGIN STRING
+あのときの戦いも、ユウマの助けがあったからこそ…
+
+親友の決死の助けがなければ
+ おヌシは今ごろ、妾の腹の中にいる運命じゃった…
+> CONTEXT: Map216/events/5/pages/2/21/Dialogue
+The battle of that time is also because of
+Yuuma's help...Without help of death of a close
+friend. Noshi was a fate to be in the belly of
+the concubine this time now ...#MTLed
+> END STRING
+
+> BEGIN STRING
+となれば、やはり前者…
+> CONTEXT: Map216/events/5/pages/2/26/Dialogue
+And again, the former ...#MTLed
+> END STRING
+
+> BEGIN STRING
+ククク………しかし……！
+おヌシ、よりにもよって妾を選ぶのか……！！
+
+そんなに妾に、人生を狂わされたいのか…！
+> CONTEXT: Map216/events/5/pages/2/29/Dialogue
+Hehehe ......... but......! Noshi, are you
+going to choose a concubine even more! !
+Do you want me to live my life so much, by myself
+...!#MTLed
+> END STRING
+
+> BEGIN STRING
+いいだろう…………覚悟するがいい。
+
+ 毎夜毎夜、妾のことしか考えられぬような
+堕落した人間に仕上げてやろう……
+> CONTEXT: Map216/events/5/pages/2/34/Dialogue
+It would be nice ............ Please prepare.
+Every night every night, only seems to be able to
+think of concubines. I will finish it as a
+corrupt human ...#MTLed
+> END STRING
+
+> BEGIN STRING
+どんな姿でも、どんな体位でも……
+
+おヌシの欲望を全て吐き出させてやる……！！
+覚悟しておけ………♡
+> CONTEXT: Map216/events/5/pages/2/39/Dialogue
+No matter what appearance, any position ......
+I will let out all the desires of Nushi ...! !
+Prepare yourself ......... ♡#MTLed
+> END STRING
+
+> BEGIN STRING
+エンゲージリングを受け取ってもらったことで
+
+\\C[2]妲己と婚約した！
+> CONTEXT: Map216/events/5/pages/2/50/Dialogue
+By having an engagement ring received. \\C[2]I am engaged to
+Daiji!#MTLed
+> END STRING
+
+> BEGIN STRING
+親密度が５０以上必要。
+（現在の値：\\V[54]）
+> CONTEXT: Map216/events/6/pages/0/0/Dialogue
+Familiarity needs to be 50 or more. (Current value: \\V[54] )#MTLed
+> END STRING
+
+> BEGIN STRING
+ようやっと来たか、\\N[1]。
+
+ 先にくつろがせてもらっておるぞ。
+> CONTEXT: Map216/events/16/pages/0/5/Dialogue
+Naturally came, \\N[1] . I will have you
+relaxed first.#MTLed
+> END STRING
+
+> BEGIN STRING
+や、やっぱり来てた………！！！
+> CONTEXT: Map216/events/16/pages/0/9/Dialogue
+And, after all it came .........!!!#MTLed
+> END STRING
+
+> BEGIN STRING
+ていうか、来て早々で悪いんだけど
+
+ マイルーム、消えちゃうんですけど……！！
+> CONTEXT: Map216/events/16/pages/0/14/Dialogue
+I mean, it's bad early as I come
+my room, it will disappear, but ...!!#MTLed
+> END STRING
+
+> BEGIN STRING
+ふん、そんな顔をするでない。
+
+ 妾もそこまで此処に長居する気はないからな。
+> CONTEXT: Map216/events/16/pages/0/22/Dialogue
+Hmm, do not look at such a face.
+I do not feel like staying here for a long time.#MTLed
+> END STRING
+
+> BEGIN STRING
+妾は純粋に、おヌシに興味が湧いたのよ。
+
+ 道中の悪魔のみならず、我が使い魔にすら
+影響を与えてしまう、その『能力』にな………。
+> CONTEXT: Map216/events/16/pages/0/26/Dialogue
+My concubine purely got interested in noshi.
+Not only demon in the street but also my devil
+It becomes that "ability" that gives influence
+..........#MTLed
+> END STRING
+
+> BEGIN STRING
+ホホホ……
+なぁに、難しいことを要求したりはせんよ
+
+妾と少しの間、『親睦』を深めるだけでよい……
+> CONTEXT: Map216/events/16/pages/0/33/Dialogue
+Ho ho ho...Hey, you can not demand difficult
+things. You only have to deepen "friendship"
+between concubines and a little......#MTLed
+> END STRING
+
+> BEGIN STRING
+それによって、妾はこの精神空間を介して
+ おヌシのことをより深く知ることができる…
+
+つまり、いつもマイルームでおヌシがやっておることじゃ。
+> CONTEXT: Map216/events/16/pages/0/38/Dialogue
+By doing this, Musashi through this spiritual
+space. I can know deeper about Nushi ...
+In other words, it is always that you are doing
+with my room.#MTLed
+> END STRING
+
+> BEGIN STRING
+せっかく妾が直々に出向いておるのだ……
+
+妾と身体を重ね、『交流』を深めるのもよいぞ…♡
+> CONTEXT: Map216/events/16/pages/0/44/Dialogue
+My concubine is going straight away so much ....
+It is also good to pile up your body with muscle
+and deepen "exchanges"...♡#MTLed
+> END STRING
+
+> BEGIN STRING
+おヌシの好きな方法で、妾を満足させてみせるがいい…
+
+ククク……♡
+> CONTEXT: Map216/events/16/pages/0/48/Dialogue
+Please let me satisfy your concubine in the way
+that Noshi likes...Hehehe ...... ♡#MTLed
+> END STRING

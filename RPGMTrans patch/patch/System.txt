@@ -1,0 +1,560 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+物理
+> CONTEXT: System/elements/1/
+Physical#Dargoth
+> END STRING
+
+> BEGIN STRING
+吸収
+> CONTEXT: System/elements/2/
+Absorb#Dargoth
+> END STRING
+
+> BEGIN STRING
+炎
+> CONTEXT: System/elements/3/
+Fire#Dargoth
+> END STRING
+
+> BEGIN STRING
+氷
+> CONTEXT: System/elements/4/
+Ice#Dargoth
+> END STRING
+
+> BEGIN STRING
+雷
+> CONTEXT: System/elements/5/
+Lightning#Dargoth
+> END STRING
+
+> BEGIN STRING
+水
+> CONTEXT: System/elements/6/
+Water#Dargoth
+> END STRING
+
+> BEGIN STRING
+大地
+> CONTEXT: System/elements/7/
+Earth#Dargoth
+> END STRING
+
+> BEGIN STRING
+風
+> CONTEXT: System/elements/8/
+Wind#Dargoth
+> END STRING
+
+> BEGIN STRING
+神聖
+> CONTEXT: System/elements/9/
+Holy#Dargoth
+> END STRING
+
+> BEGIN STRING
+暗黒
+> CONTEXT: System/elements/10/
+Dark#Dargoth
+> END STRING
+
+> BEGIN STRING
+最大ＨＰ
+> CONTEXT: System/terms/params/0/
+Max HP#Dargoth
+> END STRING
+
+> BEGIN STRING
+最大ＭＰ
+> CONTEXT: System/terms/params/1/
+Max MP#Dargoth
+> END STRING
+
+> BEGIN STRING
+攻撃力
+> CONTEXT: System/terms/params/2/
+Attack#Dargoth
+> END STRING
+
+> BEGIN STRING
+防御力
+> CONTEXT: System/terms/params/3/
+Defense#Dargoth
+> END STRING
+
+> BEGIN STRING
+魔法力
+> CONTEXT: System/terms/params/4/
+Magic#Dargoth
+> END STRING
+
+> BEGIN STRING
+魔法防御
+> CONTEXT: System/terms/params/5/
+Magic Def#Dargoth
+> END STRING
+
+> BEGIN STRING
+敏捷性
+> CONTEXT: System/terms/params/6/
+Agility#Dargoth
+> END STRING
+
+> BEGIN STRING
+運
+> CONTEXT: System/terms/params/7/
+Luck#Dargoth
+> END STRING
+
+> BEGIN STRING
+武器
+> CONTEXT: System/terms/etypes/0/
+> CONTEXT: System/terms/commands/12/
+Weapon#Dargoth
+> END STRING
+
+> BEGIN STRING
+補助
+> CONTEXT: System/terms/etypes/1/
+Offhand#Dargoth
+> END STRING
+
+> BEGIN STRING
+免罪符
+> CONTEXT: System/terms/etypes/2/
+Indulgence#Dargoth
+> END STRING
+
+> BEGIN STRING
+身体
+> CONTEXT: System/terms/etypes/3/
+Body#Dargoth
+> END STRING
+
+> BEGIN STRING
+装飾品
+> CONTEXT: System/terms/etypes/4/
+Accessory#Dargoth
+> END STRING
+
+> BEGIN STRING
+戦う
+> CONTEXT: System/terms/commands/0/
+Fight#Dargoth
+> END STRING
+
+> BEGIN STRING
+逃げる
+> CONTEXT: System/terms/commands/1/
+Run#Dargoth
+> END STRING
+
+> BEGIN STRING
+アイテム
+> CONTEXT: System/terms/commands/4/
+Item#Dargoth
+> END STRING
+
+> BEGIN STRING
+スキル
+> CONTEXT: System/terms/commands/5/
+Skill#Dargoth
+> END STRING
+
+> BEGIN STRING
+装備
+> CONTEXT: System/terms/commands/6/
+Equip#Dargoth
+> END STRING
+
+> BEGIN STRING
+ステータス
+> CONTEXT: System/terms/commands/7/
+Status#Dargoth
+> END STRING
+
+> BEGIN STRING
+並び替え
+> CONTEXT: System/terms/commands/8/
+Formation#Dargoth
+> END STRING
+
+> BEGIN STRING
+セーブ
+> CONTEXT: System/terms/commands/9/
+Save#Dargoth
+> END STRING
+
+> BEGIN STRING
+ゲーム終了
+> CONTEXT: System/terms/commands/10/
+Quit Game#Dargoth
+> END STRING
+
+> BEGIN STRING
+防具
+> CONTEXT: System/terms/commands/13/
+Items#Dargoth
+> END STRING
+
+> BEGIN STRING
+プレゼント
+> CONTEXT: System/terms/commands/14/
+Present#afrg
+> CONTEXT: States/92/name/
+Present#Dargoth
+> END STRING
+
+> BEGIN STRING
+装備変更
+> CONTEXT: System/terms/commands/15/
+Change Equip#Dargoth
+> END STRING
+
+> BEGIN STRING
+最強装備
+> CONTEXT: System/terms/commands/16/
+Equip Best#Dargoth
+> END STRING
+
+> BEGIN STRING
+全て外す
+> CONTEXT: System/terms/commands/17/
+Remove All#Dargoth
+> END STRING
+
+> BEGIN STRING
+ＳＴＡＲＴ
+> CONTEXT: System/terms/commands/18/
+> CONTEXT: Commonevents/294/420/Choice/0
+Start#Dargoth
+> END STRING
+
+> BEGIN STRING
+コンティニュー
+> CONTEXT: System/terms/commands/19/
+Continue#Dargoth
+> END STRING
+
+> BEGIN STRING
+ＧＡＭＥ ＥＮＤ
+> CONTEXT: System/terms/commands/20/
+Quit Game#Dargoth
+> END STRING
+
+> BEGIN STRING
+タイトルへ
+> CONTEXT: System/terms/commands/21/
+To Title#Dargoth
+> END STRING
+
+> BEGIN STRING
+やめる
+> CONTEXT: System/terms/commands/22/
+> CONTEXT: Map094/events/13/pages/0/85/Choice/1
+> CONTEXT: Map094/events/13/pages/0/104/Choice/1
+> CONTEXT: Map094/events/13/pages/0/123/Choice/1
+> CONTEXT: Map018/events/4/pages/0/6/Choice/1
+> CONTEXT: Map018/events/4/pages/0/53/Choice/1
+> CONTEXT: Map018/events/4/pages/0/70/Choice/1
+> CONTEXT: Map018/events/4/pages/0/90/Choice/1
+> CONTEXT: Map002/events/1/pages/0/84/Choice/1
+> CONTEXT: Map002/events/1/pages/0/107/Choice/1
+> CONTEXT: Map002/events/1/pages/0/127/Choice/1
+> CONTEXT: Map002/events/1/pages/0/156/Choice/1
+> CONTEXT: Commonevents/15/111/Choice/1
+> CONTEXT: Commonevents/15/217/Choice/1
+> CONTEXT: Map003/events/1/pages/2/621/Choice/1
+> CONTEXT: Map003/events/1/pages/2/640/Choice/1
+> CONTEXT: Map003/events/1/pages/2/659/Choice/1
+> CONTEXT: Commonevents/56/79/Choice/1
+> CONTEXT: Commonevents/56/213/Choice/1
+> CONTEXT: Commonevents/81/104/Choice/1
+> CONTEXT: Commonevents/81/221/Choice/1
+> CONTEXT: Commonevents/81/339/Choice/1
+> CONTEXT: Commonevents/114/145/Choice/1
+> CONTEXT: Commonevents/114/270/Choice/1
+> CONTEXT: Commonevents/203/87/Choice/1
+> CONTEXT: Commonevents/203/219/Choice/1
+> CONTEXT: Commonevents/212/92/Choice/1
+> CONTEXT: Commonevents/212/221/Choice/1
+> CONTEXT: Commonevents/212/348/Choice/1
+> CONTEXT: Commonevents/233/73/Choice/1
+> CONTEXT: Commonevents/233/182/Choice/1
+> CONTEXT: Commonevents/233/274/Choice/1
+> CONTEXT: Commonevents/233/370/Choice/1
+> CONTEXT: Commonevents/233/460/Choice/1
+> CONTEXT: Commonevents/250/66/Choice/1
+> CONTEXT: Commonevents/250/461/Choice/1
+> CONTEXT: Commonevents/289/85/Choice/1
+> CONTEXT: Commonevents/289/217/Choice/1
+> CONTEXT: Commonevents/313/77/Choice/1
+> CONTEXT: Commonevents/313/197/Choice/1
+> CONTEXT: Commonevents/313/317/Choice/1
+> CONTEXT: Commonevents/313/449/Choice/1
+> CONTEXT: Commonevents/354/74/Choice/1
+> CONTEXT: Commonevents/354/205/Choice/1
+> CONTEXT: Commonevents/369/74/Choice/1
+> CONTEXT: Commonevents/410/78/Choice/1
+> CONTEXT: Commonevents/410/204/Choice/1
+> CONTEXT: Commonevents/454/78/Choice/1
+> CONTEXT: Commonevents/454/196/Choice/1
+> CONTEXT: Commonevents/471/86/Choice/1
+> CONTEXT: Commonevents/471/197/Choice/1
+> CONTEXT: Commonevents/471/323/Choice/1
+> CONTEXT: Commonevents/471/442/Choice/1
+> CONTEXT: Commonevents/471/607/Choice/1
+> CONTEXT: Commonevents/471/731/Choice/1
+> CONTEXT: Commonevents/559/64/Choice/1
+> CONTEXT: Commonevents/559/175/Choice/1
+Cancel#Dargoth
+> END STRING
+
+> BEGIN STRING
+魔力
+> CONTEXT: System/terms/basic/0/
+M. level#Dargoth
+> END STRING
+
+> BEGIN STRING
+魔L
+> CONTEXT: System/terms/basic/1/
+M.Lv#Dargoth
+> END STRING
+
+> BEGIN STRING
+抵抗力
+> CONTEXT: System/terms/basic/2/
+Willpower#Dargoth
+> END STRING
+
+> BEGIN STRING
+抵抗
+> CONTEXT: System/terms/basic/3/
+Will
+> CONTEXT: System/skill_types/4/
+Struggle#Dargoth
+> END STRING
+
+> BEGIN STRING
+気力
+> CONTEXT: System/terms/basic/4/
+Vitality
+> CONTEXT: System/terms/basic/5/
+Vit#Dargoth
+> END STRING
+
+> BEGIN STRING
+性欲
+> CONTEXT: System/terms/basic/6/
+> CONTEXT: System/terms/basic/7/
+Lust#Dargoth
+> END STRING
+
+> BEGIN STRING
+魔法
+> CONTEXT: System/skill_types/2/
+Magic#Dargoth
+> END STRING
+
+> BEGIN STRING
+行動
+> CONTEXT: System/skill_types/3/
+> CONTEXT: System/skill_types/24/
+Actions#Dargoth
+> END STRING
+
+> BEGIN STRING
+屈服
+> CONTEXT: System/skill_types/5/
+> CONTEXT: System/skill_types/9/
+Submissions#Dargoth
+> END STRING
+
+> BEGIN STRING
+パッシブ
+> CONTEXT: System/skill_types/6/
+Passive#Dargoth
+> END STRING
+
+> BEGIN STRING
+特殊
+> CONTEXT: System/skill_types/7/
+> CONTEXT: System/armor_types/6/
+Special#Dargoth
+> END STRING
+
+> BEGIN STRING
+夢の中
+> CONTEXT: System/skill_types/10/
+> CONTEXT: States/98/name/
+Dream#Dargoth
+> END STRING
+
+> BEGIN STRING
+ダンス
+> CONTEXT: System/skill_types/11/
+Dance#afrg
+> END STRING
+
+> BEGIN STRING
+こうげき
+> CONTEXT: System/skill_types/12/
+Attack#afrg
+> END STRING
+
+> BEGIN STRING
+こうどう
+> CONTEXT: System/skill_types/13/
+Actions#afrg
+> END STRING
+
+> BEGIN STRING
+ていこう
+> CONTEXT: System/skill_types/14/
+Let's go#MTLed
+> END STRING
+
+> BEGIN STRING
+こたえる
+> CONTEXT: System/skill_types/15/
+> CONTEXT: System/skill_types/16/
+Answer#MTLed
+> CONTEXT: Skills/483/description/
+> CONTEXT: Skills/565/description/
+Answer
+                                                            #MTLed
+> END STRING
+
+> BEGIN STRING
+こ■える
+> CONTEXT: System/skill_types/17/
+To obtain#MTLed
+> END STRING
+
+> BEGIN STRING
+こ■え●
+> CONTEXT: System/skill_types/18/
+こ え ● ●#MTLed
+> END STRING
+
+> BEGIN STRING
+こうさん
+> CONTEXT: System/skill_types/21/
+This Mr#MTLed
+> END STRING
+
+> BEGIN STRING
+謾ｻ謦
+> CONTEXT: System/skill_types/23/
+Cockroach#MTLed
+> END STRING
+
+> BEGIN STRING
+斧
+> CONTEXT: System/weapon_types/1/
+Axe#Dargoth
+> END STRING
+
+> BEGIN STRING
+爪
+> CONTEXT: System/weapon_types/2/
+Claw#Dargoth
+> END STRING
+
+> BEGIN STRING
+槍
+> CONTEXT: System/weapon_types/3/
+Spear#Dargoth
+> END STRING
+
+> BEGIN STRING
+剣
+> CONTEXT: System/weapon_types/4/
+Sword#Dargoth
+> END STRING
+
+> BEGIN STRING
+刀
+> CONTEXT: System/weapon_types/5/
+Katana#Dargoth
+> END STRING
+
+> BEGIN STRING
+弓
+> CONTEXT: System/weapon_types/6/
+Bow#Dargoth
+> END STRING
+
+> BEGIN STRING
+短剣
+> CONTEXT: System/weapon_types/7/
+Dagger#Dargoth
+> END STRING
+
+> BEGIN STRING
+槌
+> CONTEXT: System/weapon_types/8/
+Hammer#Dargoth
+> END STRING
+
+> BEGIN STRING
+杖
+> CONTEXT: System/weapon_types/9/
+Staff#Dargoth
+> END STRING
+
+> BEGIN STRING
+銃
+> CONTEXT: System/weapon_types/10/
+Gun#Dargoth
+> END STRING
+
+> BEGIN STRING
+一般防具
+> CONTEXT: System/armor_types/1/
+General Items#Dargoth
+> END STRING
+
+> BEGIN STRING
+ハンドガン専用
+> CONTEXT: System/armor_types/2/
+Handgun Only#afrg
+> END STRING
+
+> BEGIN STRING
+ショットガン専用
+> CONTEXT: System/armor_types/3/
+Shotguns Only#afrg
+> END STRING
+
+> BEGIN STRING
+マシンガン専用
+> CONTEXT: System/armor_types/4/
+Machine Gun Only#afrg
+> END STRING
+
+> BEGIN STRING
+グレネード専用
+> CONTEXT: System/armor_types/5/
+Grenade Only#afrg
+> END STRING
+
+> BEGIN STRING
+近接
+> CONTEXT: System/armor_types/7/
+Melee#Dargoth
+> END STRING
+
+> BEGIN STRING
+ライフル専用
+> CONTEXT: System/armor_types/8/
+Rifle Only#afrg
+> END STRING
+
+> BEGIN STRING
+￥
+> CONTEXT: System/currency_unit/
+￥#NoTL
+> END STRING

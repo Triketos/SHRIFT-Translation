@@ -1,0 +1,890 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+"ed/s006"
+> CONTEXT: Map263/events/1/pages/1/1/InlineScript/2:10
+> CONTEXT: Map263/events/1/pages/2/14/InlineScript/2:10
+"ed/s006"#NoTL
+> END STRING
+
+> BEGIN STRING
+ねぇねぇ、おにーさん
+
+ なにか困りごと？
+> CONTEXT: Map263/events/1/pages/2/1/Dialogue
+Hey, onii-san. Any problems?#MTLed
+> END STRING
+
+> BEGIN STRING
+ワタシも………探してるんだ………
+
+ワタシの大好きだった、\\N[1]くんを……
+> CONTEXT: Map263/events/1/pages/2/16/Dialogue
+'I' is also looking ......... .........
+I loved 'I' \\N[1] Kun ...#MTLed
+> END STRING
+
+> BEGIN STRING
+ねぇ……知らない？
+
+アタシを優しく抱きしめてくれた…\\N[1]くん……
+> CONTEXT: Map263/events/1/pages/2/20/Dialogue
+Hey...... You do not know? Gently embraced 'I'
+... \\N[1] Kun……#MTLed
+> END STRING
+
+> BEGIN STRING
+お前じゃないよ………
+
+\\N[1]は、ハルを悲しませたりしない
+> CONTEXT: Map263/events/1/pages/2/24/Dialogue
+I am not you ......... \\N[1] Do not make
+Haru sad.#MTLed
+> END STRING
+
+> BEGIN STRING
+とっとと出ていきな………
+
+アンタなんか………人間以下だ………
+> CONTEXT: Map263/events/1/pages/2/28/Dialogue
+Finally come out.........You are something
+......... human or less .........#MTLed
+> END STRING
+
+> BEGIN STRING
+おや！\\N[1]！
+
+なんか少し見ない間にずいぶんと苦しそうだね？
+ 治療薬は買わなかったのかい？
+> CONTEXT: Map263/events/11/pages/1/0/Dialogue
+> CONTEXT: Map054/events/11/pages/1/0/Dialogue
+Oh! \\N[1]!It looks like I suffer a lot
+while I do not see anything? Did not you buy a
+remedy?#MTLed
+> END STRING
+
+> BEGIN STRING
+い、いや、
+
+それが……゜
+> CONTEXT: Map263/events/11/pages/1/5/Dialogue
+> CONTEXT: Map054/events/11/pages/1/5/Dialogue
+No, That is#MTLed
+> END STRING
+
+> BEGIN STRING
+ははぁ、なるほどねぇ。
+
+ 悪魔にモテモテなのも困りものだネ、\\N[1]。
+> CONTEXT: Map263/events/11/pages/1/15/Dialogue
+> CONTEXT: Map054/events/11/pages/1/15/Dialogue
+aahh, I see. It is also troublesome to popular in
+demon, \\N[1] .#MTLed
+> END STRING
+
+> BEGIN STRING
+それにしても、弁当買った時点でカギもらっておけば
+こんな面倒ごとに関わらずに済んだ話なのに、
+
+ハルって子、そんなに好みだったのかい？
+> CONTEXT: Map263/events/11/pages/1/19/Dialogue
+> CONTEXT: Map054/events/11/pages/1/19/Dialogue
+Anyway, I gotta get the key at the time I bought
+a lunch box. Even though I was talking about
+nothing about this trouble, Haru was child, did
+you like it so much?#MTLed
+> END STRING
+
+> BEGIN STRING
+あ！もしかして\\N[1]
+
+いわゆる『ケモナー』ってやつなんじゃないのぉ？
+> CONTEXT: Map263/events/11/pages/1/24/Dialogue
+> CONTEXT: Map054/events/11/pages/1/24/Dialogue
+Ah! By any chance \\N[1]. Is not he called
+"Furry"?#MTLed
+> END STRING
+
+> BEGIN STRING
+あ、あんまり茶化さないでくれ……！
+
+頭がクラクラして、心臓がバクバクして……
+ちょっとしたことでキレてしまいそうなんだ…！
+> CONTEXT: Map263/events/11/pages/1/29/Dialogue
+> CONTEXT: Map054/events/11/pages/1/29/Dialogue
+Oh, do not make me so crowded.......!
+My head feels dizzy, my heart tremble......
+I'm afraid I'm getting killed by a bit of things
+...!#MTLed
+> END STRING
+
+> BEGIN STRING
+……………確かに、そんな状態が長く続いたら
+
+ だんだん冷静な判断はできなくなりそうだネ。
+> CONTEXT: Map263/events/11/pages/1/35/Dialogue
+> CONTEXT: Map054/events/11/pages/1/35/Dialogue
+............... Certainly, if such a condition
+lasted long. It seems that it is impossible to
+judge calmly.#MTLed
+> END STRING
+
+> BEGIN STRING
+よし！それじゃあサ！
+
+アタシが文字通り一肌脱いでやるよ♪
+> CONTEXT: Map263/events/11/pages/1/39/Dialogue
+> CONTEXT: Map054/events/11/pages/1/39/Dialogue
+All right! Well then! 'I' will literally beat up♪#MTLed
+> END STRING
+
+> BEGIN STRING
+……？
+> CONTEXT: Map263/events/11/pages/1/43/Dialogue
+> CONTEXT: Map188/events/57/pages/1/127/Dialogue
+> CONTEXT: Map070/events/5/pages/1/581/Dialogue
+> CONTEXT: Map050/events/57/pages/1/127/Dialogue
+> CONTEXT: Map054/events/11/pages/1/43/Dialogue
+> CONTEXT: Commonevents/37/29/Dialogue
+......?#MTLed
+> END STRING
+
+> BEGIN STRING
+要するに、その呪縛魔法は
+『悪魔の手じゃないと抜けない』呪いなんだろう？
+
+アタシだって、『オニ』っていう立派な悪魔サ。
+> CONTEXT: Map263/events/11/pages/1/45/Dialogue
+> CONTEXT: Map054/events/11/pages/1/45/Dialogue
+In short, that cursive magic is
+"I can not escape from it without a demon's hand"
+Is it a curse? Even 'I', a fine demon called
+'oni'.#MTLed
+> END STRING
+
+> BEGIN STRING
+つまりアタシが手コキかなんかで『搾精しない』抜き方すれば
+
+ とりあえずその性欲の衝動は消えて、気兼ねなく
+『カギを渡してくれ』って言えるんじゃないかな？
+> CONTEXT: Map263/events/11/pages/1/50/Dialogue
+> CONTEXT: Map054/events/11/pages/1/50/Dialogue
+In other words, 'I' is a handjob or something
+like 'Do not insult'. The impulse of that lust
+has disappeared for the time being, without fear
+Can you say "pass the key"?#MTLed
+> END STRING
+
+> BEGIN STRING
+そ、そうかもしれないけど……
+
+い、いいの…？
+> CONTEXT: Map263/events/11/pages/1/56/Dialogue
+> CONTEXT: Map054/events/11/pages/1/56/Dialogue
+Well, maybe so .... Good, is it?#MTLed
+> END STRING
+
+> BEGIN STRING
+もっちろん！
+
+大事なお客さんに、ここで力尽きてもらっても困るしネ♪
+> CONTEXT: Map263/events/11/pages/1/60/Dialogue
+> CONTEXT: Map054/events/11/pages/1/60/Dialogue
+Of course! It is troublesome for me to have the
+important customer here at Mr. Customer♪#MTLed
+> END STRING
+
+> BEGIN STRING
+んじゃ、そういうワケで……
+> CONTEXT: Map263/events/11/pages/1/64/Dialogue
+> CONTEXT: Map054/events/11/pages/1/64/Dialogue
+Then, with that kind of surmise ......#MTLed
+> END STRING
+
+> BEGIN STRING
+………なに？この手……
+> CONTEXT: Map263/events/11/pages/1/69/Dialogue
+> CONTEXT: Map054/events/11/pages/1/69/Dialogue
+………what? This hand ...#MTLed
+> END STRING
+
+> BEGIN STRING
+１回５００円。
+> CONTEXT: Map263/events/11/pages/1/71/Dialogue
+> CONTEXT: Map054/events/11/pages/1/71/Dialogue
+One time 500 yen.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\{\\{金とるんかい！！
+> CONTEXT: Map263/events/11/pages/1/73/Dialogue
+> CONTEXT: Map054/events/11/pages/1/73/Dialogue
+\\{\\{Take money! !#MTLed
+> END STRING
+
+> BEGIN STRING
+\\{\\{当たり前だろ！？
+> CONTEXT: Map263/events/11/pages/1/75/Dialogue
+> CONTEXT: Map054/events/11/pages/1/75/Dialogue
+\\{\\{of course!?#MTLed
+> END STRING
+
+> BEGIN STRING
+まさかタダでしてもらえると思ったのかい！？
+
+むしろ５００円で処理してやるって
+人間基準なら相当破格なはずだけど！？
+> CONTEXT: Map263/events/11/pages/1/77/Dialogue
+> CONTEXT: Map054/events/11/pages/1/77/Dialogue
+Did you think that you could get it for free!
+? Rather it is 500 yen to handle it
+If it is a human standard it should be quite
+exceptional!?#MTLed
+> END STRING
+
+> BEGIN STRING
+そ、それはそうだけど………
+> CONTEXT: Map263/events/11/pages/1/82/Dialogue
+> CONTEXT: Map054/events/11/pages/1/82/Dialogue
+Well, that's right .........#MTLed
+> END STRING
+
+> BEGIN STRING
+まぁ、確かにそんな状態じゃ、一擦りで爆発しそうだし
+
+サービスっていうより救済ってカンジになりそうだけどネ。
+それでも手コキは手コキだヨ。
+> CONTEXT: Map263/events/11/pages/1/84/Dialogue
+> CONTEXT: Map263/events/11/pages/2/1/Dialogue
+> CONTEXT: Map054/events/11/pages/1/84/Dialogue
+> CONTEXT: Map054/events/11/pages/2/1/Dialogue
+Well, indeed, in such a situation, it is likely
+to explode with rubbing one. Relieving rather
+than a service seems to be a serious problem.
+Still the handjob is a handjob.#MTLed
+> END STRING
+
+> BEGIN STRING
+それに、そんな状態だと女悪魔に誘惑されたとき
+
+一発アウトな気がするけど？
+> CONTEXT: Map263/events/11/pages/1/89/Dialogue
+> CONTEXT: Map054/events/11/pages/1/89/Dialogue
+Besides, when it is tempted by a woman demon in
+such a state. I guess I'm out of one go?#MTLed
+> END STRING
+
+> BEGIN STRING
+ぐっ……！
+> CONTEXT: Map263/events/11/pages/1/93/Dialogue
+> CONTEXT: Map198/events/5/pages/0/265/Dialogue
+> CONTEXT: Map054/events/11/pages/1/93/Dialogue
+Dammit!#MTLed
+> END STRING
+
+> BEGIN STRING
+あら、聞き慣れた声が聞こえると思ったら……
+
+\\N[1]と百鬼さんじゃありませんか。
+> CONTEXT: Map263/events/11/pages/1/130/Dialogue
+> CONTEXT: Map054/events/11/pages/1/130/Dialogue
+Oh, if you think that you can hear familiar voice
+...... \\N[1] And Hyakki-san, are not you?#MTLed
+> END STRING
+
+> BEGIN STRING
+あれー！？この魔力、もしかしてルシィちゃん？
+
+ちょっと見ない間におしとやかな身なりになっちゃってー！
+> CONTEXT: Map263/events/11/pages/1/136/Dialogue
+> CONTEXT: Map054/events/11/pages/1/136/Dialogue
+That!? Is this magical power, maybe Lucy -
+chan? While I did not see it for a moment I
+became a totally dressed figure!#MTLed
+> END STRING
+
+> BEGIN STRING
+あれ？ふ、二人って知り合いなんだ…？
+> CONTEXT: Map263/events/11/pages/1/145/Dialogue
+> CONTEXT: Map054/events/11/pages/1/145/Dialogue
+that? Well, you know two people ...?#MTLed
+> END STRING
+
+> BEGIN STRING
+私が魔界で料理の勉強をしているときに
+
+人間界から食材を調達して下さったんですよ。
+> CONTEXT: Map263/events/11/pages/1/147/Dialogue
+> CONTEXT: Map054/events/11/pages/1/147/Dialogue
+When I am studying cooking at Demon Realm
+I got the ingredients from the human realm.#MTLed
+> END STRING
+
+> BEGIN STRING
+彼女に頼むと新鮮なまま届けてくださるものですから
+
+結構な頻度で、毎回頼んでいましたもので……。
+> CONTEXT: Map263/events/11/pages/1/151/Dialogue
+> CONTEXT: Map054/events/11/pages/1/151/Dialogue
+Because I will deliver it as fresh as I ask her
+It was quite frequent, I was asking every time
+... ....#MTLed
+> END STRING
+
+> BEGIN STRING
+食べ物は基本嗜好品の悪魔が、食材を頼むなんて
+
+ ホントに少数派だから、当時は鮮度維持に苦労したよ。
+> CONTEXT: Map263/events/11/pages/1/156/Dialogue
+> CONTEXT: Map054/events/11/pages/1/156/Dialogue
+Food is a basic luxury item, demon, to ask for
+ingredients. Since it is truly a minority, at
+that time I had a hard time maintaining
+freshness.#MTLed
+> END STRING
+
+> BEGIN STRING
+オマケに利益も少ないからってんで
+
+アタシぐらいしか運ぶやついなかったんだよね。
+> CONTEXT: Map263/events/11/pages/1/160/Dialogue
+> CONTEXT: Map054/events/11/pages/1/160/Dialogue
+Because bonus has few profits. 
+I only carried around 'I', did not he?#MTLed
+> END STRING
+
+> BEGIN STRING
+へ、へぇ……
+> CONTEXT: Map263/events/11/pages/1/164/Dialogue
+> CONTEXT: Map054/events/11/pages/1/164/Dialogue
+To, he ...#MTLed
+> END STRING
+
+> BEGIN STRING
+ぐうっ…！！
+> CONTEXT: Map263/events/11/pages/1/169/Dialogue
+> CONTEXT: Map054/events/11/pages/1/169/Dialogue
+nghuh ...! !#MTLed
+> END STRING
+
+> BEGIN STRING
+おっと！！そういや\\N[1]は一大事中だったね。
+
+すっかり忘れるところだったヨ
+> CONTEXT: Map263/events/11/pages/1/172/Dialogue
+> CONTEXT: Map054/events/11/pages/1/172/Dialogue
+Oops!!That's right \\N[1] It was a big
+deal. It was a place I completely forgot about#MTLed
+> END STRING
+
+> BEGIN STRING
+…………ところで。
+
+お二人は、そんなところで何をなさっているのです？
+> CONTEXT: Map263/events/11/pages/1/177/Dialogue
+> CONTEXT: Map054/events/11/pages/1/177/Dialogue
+…………by the way. What are they doing in such a
+place?#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[1]は、何やら息が荒いようですが…？
+> CONTEXT: Map263/events/11/pages/1/181/Dialogue
+> CONTEXT: Map054/events/11/pages/1/181/Dialogue
+\\N[1] He seems to be breathing like
+something ...?#MTLed
+> END STRING
+
+> BEGIN STRING
+え、えっと……
+
+これは………
+> CONTEXT: Map263/events/11/pages/1/183/Dialogue
+> CONTEXT: Map054/events/11/pages/1/183/Dialogue
+Let me see……. this is………#MTLed
+> END STRING
+
+> BEGIN STRING
+（\\N[1]！ここは下手にごまかさないで
+
+　　正直に、嘘偽りなく話すんだよ！）
+> CONTEXT: Map263/events/11/pages/1/187/Dialogue
+> CONTEXT: Map054/events/11/pages/1/187/Dialogue
+( \\N[1]!Do not cheat here badly
+Honestly speak lies, no doubt! )#MTLed
+> END STRING
+
+> BEGIN STRING
+いやー、実はね。
+
+\\N[1]がさぁ、例によって敵の誘惑をモロにくらって
+命からがら逃げ出してきたんだよ。
+> CONTEXT: Map263/events/11/pages/1/194/Dialogue
+> CONTEXT: Map054/events/11/pages/1/194/Dialogue
+Well, actually. \\N[1] Lady, as usual the
+temptation of the enemy is taken against Moro
+I ran away because of my life.#MTLed
+> END STRING
+
+> BEGIN STRING
+でもご覧の通り、厄介な魔法をかけられちゃってさ
+
+私になにか解く方法はないか相談してきたワケよ。
+> CONTEXT: Map263/events/11/pages/1/199/Dialogue
+> CONTEXT: Map054/events/11/pages/1/199/Dialogue
+But, as you can see, I can not afford to put on a
+nasty magic. You ought to have consulted me for a
+way to solve something.#MTLed
+> END STRING
+
+> BEGIN STRING
+…これはまた、ずいぶんと古い術式の魔法ですね。
+
+ 淫魔の初級呪縛『解放禁止』ですか。
+> CONTEXT: Map263/events/11/pages/1/204/Dialogue
+> CONTEXT: Map054/events/11/pages/1/204/Dialogue
+... This is also a lot of old magic of art.
+Is it a novelist's beginning curse "liberation
+prohibition"?#MTLed
+> END STRING
+
+> BEGIN STRING
+それでね、アタシが『５００円で抜いてやる』って言ったら
+
+\\N[1]、駄々こねだしてね。
+> CONTEXT: Map263/events/11/pages/1/208/Dialogue
+> CONTEXT: Map054/events/11/pages/1/208/Dialogue
+Well, if 'I' said 'I'll wrap it up for 500 yen'
+\\N[1] Hurry up, please.#MTLed
+> END STRING
+
+> BEGIN STRING
+『ルシィちゃんに抜いてもらわなきゃヤダヤダー＞＜』
+
+って聞かなくてさぁ♪困ってたところなんだよ！
+> CONTEXT: Map263/events/11/pages/1/213/Dialogue
+> CONTEXT: Map054/events/11/pages/1/213/Dialogue
+"Do not let Lucy-chan pull me out Yadayada> <"
+Do not ask me♪I was in trouble!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\{\\{（嘘偽りやがったコイツ！）
+> CONTEXT: Map263/events/11/pages/1/219/Dialogue
+> CONTEXT: Map054/events/11/pages/1/219/Dialogue
+\\{\\{(A lie and a felt guy!#MTLed
+> END STRING
+
+> BEGIN STRING
+（まぁまぁ！よく考えなって！
+
+ 　お金払わなくても、抜いてもらえるチャンスじゃない！）
+> CONTEXT: Map263/events/11/pages/1/223/Dialogue
+> CONTEXT: Map054/events/11/pages/1/223/Dialogue
+(Calm calm! Think well! Even if you do not pay,
+it is not a chance to get through! )#MTLed
+> END STRING
+
+> BEGIN STRING
+（呪縛魔法のトコは全部本当のことなんだから
+
+　あとはアンタの『おねだり』次第さ！）
+> CONTEXT: Map263/events/11/pages/1/227/Dialogue
+> CONTEXT: Map054/events/11/pages/1/227/Dialogue
+(The curse of spell magic is all true
+Afterwards it depends on you "sorry"! )#MTLed
+> END STRING
+
+> BEGIN STRING
+（お、『おねだり』って……！？）
+> CONTEXT: Map263/events/11/pages/1/231/Dialogue
+> CONTEXT: Map054/events/11/pages/1/231/Dialogue
+(Oh, what do you mean "..."!?)#MTLed
+> END STRING
+
+> BEGIN STRING
+………事情は分かりました。
+
+私にどうして欲しいのですか？\\N[1]。
+> CONTEXT: Map263/events/11/pages/1/236/Dialogue
+> CONTEXT: Map054/events/11/pages/1/236/Dialogue
+......... I understand the circumstances.
+What do you want me to do? \\N[1] .#MTLed
+> END STRING
+
+> BEGIN STRING
+できればあなたの口から…
+
+直接聞きたいものですが……
+> CONTEXT: Map263/events/11/pages/1/243/Dialogue
+> CONTEXT: Map054/events/11/pages/1/243/Dialogue
+If possible from your mouth ...
+I would like to hear it directly ......#MTLed
+> END STRING
+
+> BEGIN STRING
+うっ…ううっ…！
+> CONTEXT: Map263/events/11/pages/1/247/Dialogue
+> CONTEXT: Map054/events/11/pages/1/247/Dialogue
+ugh...uugh ...!#MTLed
+> END STRING
+
+> BEGIN STRING
+お……おねがい……ルシィ…
+
+ぬ、抜いてくだ…さい………♡
+> CONTEXT: Map263/events/11/pages/1/250/Dialogue
+> CONTEXT: Map054/events/11/pages/1/250/Dialogue
+......Please...... Lucy ...
+Do not pull it out............ ♡#MTLed
+> END STRING
+
+> BEGIN STRING
+フフフ……とってもいい顔ですよ、\\N[1]。
+
+本来なら、誰とも分からない者で興奮した性欲の処理など
+やりたくはないのですが……
+> CONTEXT: Map263/events/11/pages/1/255/Dialogue
+> CONTEXT: Map054/events/11/pages/1/255/Dialogue
+Hihihi...... It is a very good face, \\N[1]
+. Originally, those who do not know with anyone,
+such as lust processing Aroused
+I do not want to do it......#MTLed
+> END STRING
+
+> BEGIN STRING
+愛しの旦那様にそんなに必死そうな顔でおねだりされては…
+
+応えないわけにはまいりませんね…♡
+> CONTEXT: Map263/events/11/pages/1/260/Dialogue
+> CONTEXT: Map054/events/11/pages/1/260/Dialogue
+If you desire a loving husband with such a
+desperate face...We can not afford not to
+respond...♡#MTLed
+> END STRING
+
+> BEGIN STRING
+あああああっ！！！！！♡♡
+> CONTEXT: Map263/events/11/pages/1/277/Dialogue
+> CONTEXT: Map263/events/11/pages/2/64/Dialogue
+> CONTEXT: Map054/events/11/pages/1/277/Dialogue
+> CONTEXT: Map054/events/11/pages/2/64/Dialogue
+ahhhhh!!!!! ♡ ♡#MTLed
+> END STRING
+
+> BEGIN STRING
+僕は、彼女が少しペニスに触れただけで射精してしまった…
+
+全身を迸る快感と、飛びそうな意識で思わず声を上げてしまう。
+> CONTEXT: Map263/events/11/pages/1/279/Dialogue
+> CONTEXT: Map263/events/11/pages/2/66/Dialogue
+> CONTEXT: Map054/events/11/pages/1/279/Dialogue
+> CONTEXT: Map054/events/11/pages/2/66/Dialogue
+I just ejaculated her just touched a penis ...
+I raise my voice unexpectedly with a pleasant sensation
+that pulls the whole body and consciousness that I will
+fly.#MTLed
+> END STRING
+
+> BEGIN STRING
+初級魔法だと、こんなものですかね…。
+
+どこの悪魔かは知りませんが、あまり褒められない腕前です。
+> CONTEXT: Map263/events/11/pages/1/288/Dialogue
+> CONTEXT: Map054/events/11/pages/1/288/Dialogue
+If it's beginner's magic, this is something like
+this .... I do not know where demon is, but I am
+a skill that I can not praise much.#MTLed
+> END STRING
+
+> BEGIN STRING
+よかったね♪\\N[1]！
+
+愛しのルシィ様に抜いてもらって♪
+> CONTEXT: Map263/events/11/pages/1/292/Dialogue
+> CONTEXT: Map054/events/11/pages/1/292/Dialogue
+good for you♪\\N[1]!Love my Lucy-samaaa to
+pull it out♪#MTLed
+> END STRING
+
+> BEGIN STRING
+そういえば、ルシィさんはなんでこんなところに？
+
+コンビニから出てきたんだよね？なにかお買い物だったの？
+> CONTEXT: Map263/events/11/pages/1/299/Dialogue
+> CONTEXT: Map054/events/11/pages/1/299/Dialogue
+By the way, why is Lucy in such a place?
+You came out of the convenience store, are not
+you? Were you shopping something?#MTLed
+> END STRING
+
+> BEGIN STRING
+風の噂で、ここのコンビニに
+『鈴音印』の商品が入荷していると聞きましたので
+
+是非とも手に入れておきたいと思いましてね。
+> CONTEXT: Map263/events/11/pages/1/303/Dialogue
+> CONTEXT: Map054/events/11/pages/1/303/Dialogue
+In the rumor of the wind, to the convenience
+store here. I heard that the product "Suzune
+brand" has arrived. I certainly want to get it.#MTLed
+> END STRING
+
+> BEGIN STRING
+す……『すずねじるし』……？
+> CONTEXT: Map263/events/11/pages/1/308/Dialogue
+> CONTEXT: Map054/events/11/pages/1/308/Dialogue
+Is that..."Torsion twisting" ...?#MTLed
+> END STRING
+
+> BEGIN STRING
+射精でフラフラとする意識を持ち直して、彼女を見ると
+
+なにやらコンビニ袋を傍らにぶら下げている……
+> CONTEXT: Map263/events/11/pages/1/310/Dialogue
+> CONTEXT: Map054/events/11/pages/1/310/Dialogue
+With ejaculation picking up dizzy and raising consciousness
+and looking at her. Something's hanging around a
+convenience store bag ......#MTLed
+> END STRING
+
+> BEGIN STRING
+メーカー名のようなものですよ。
+
+ 鈴音という悪魔が作った料理で、魔界の食材を使用しながら
+人にも悪魔にも美味とされている人気食品…。
+> CONTEXT: Map263/events/11/pages/1/314/Dialogue
+> CONTEXT: Map054/events/11/pages/1/314/Dialogue
+It's like the manufacturer name.
+It is a dish created by demon Suzuno, using Demon
+Realm ingredients. Popular food that is
+considered delicious for both people and demon
+....#MTLed
+> END STRING
+
+> BEGIN STRING
+ただ、個人経営なために大量生産されないので
+
+魔界の一部地域ではプレミアが付くほどなんです。
+> CONTEXT: Map263/events/11/pages/1/319/Dialogue
+> CONTEXT: Map054/events/11/pages/1/319/Dialogue
+However, it is not mass-produced because of
+individual management. In some areas of Demon
+Realm it's enough to have a premier.#MTLed
+> END STRING
+
+> BEGIN STRING
+フフ……無事に手に入れることは出来ましたので
+
+今後の料理の参考にと………
+> CONTEXT: Map263/events/11/pages/1/323/Dialogue
+> CONTEXT: Map054/events/11/pages/1/323/Dialogue
+Huh ...... I was able to get it safely
+As a reference for future cooking .........#MTLed
+> END STRING
+
+> BEGIN STRING
+な、なるほど………
+> CONTEXT: Map263/events/11/pages/1/327/Dialogue
+> CONTEXT: Map054/events/11/pages/1/327/Dialogue
+I see, I see...... ...#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[1]も、もっとゆっくり射精を楽しみたいのであれば
+
+私の部屋へ、またいつでもいらしてくださいね♡
+> CONTEXT: Map263/events/11/pages/1/330/Dialogue
+> CONTEXT: Map054/events/11/pages/1/330/Dialogue
+\\N[1] Even if you want to enjoy ejaculation
+more slowly. Please come to my room at any time ♡#MTLed
+> END STRING
+
+> BEGIN STRING
+料理とともに、いっぱい『もてなし』てあげますから…
+
+フフフ…♡
+> CONTEXT: Map263/events/11/pages/1/334/Dialogue
+> CONTEXT: Map054/events/11/pages/1/334/Dialogue
+Along with cooking, I will give you lots of
+"hospitality"...Hihihi...♡#MTLed
+> END STRING
+
+> BEGIN STRING
+アイアンメイデンはコンビニ袋を携え、スウッと姿を消した…
+> CONTEXT: Map263/events/11/pages/1/343/Dialogue
+> CONTEXT: Map054/events/11/pages/1/343/Dialogue
+Iron Maiden brought a convenience store bag, and
+disappeared in a sweep ...#MTLed
+> END STRING
+
+> BEGIN STRING
+いやー！まさかルシィさんとただならぬ関係だったとは
+
+\\N[1]もなかなかスミに置けないねぇ！
+> CONTEXT: Map263/events/11/pages/1/346/Dialogue
+> CONTEXT: Map054/events/11/pages/1/346/Dialogue
+Well! No way it was an unusual relationship with
+Lucy. \\N[1] I can not put it on Sumi easily!#MTLed
+> END STRING
+
+> BEGIN STRING
+そ、そんな昼ドラみたいな表現しないでくれないか…？
+> CONTEXT: Map263/events/11/pages/1/350/Dialogue
+> CONTEXT: Map054/events/11/pages/1/350/Dialogue
+Will not you express like a daytime dora ...?#MTLed
+> END STRING
+
+> BEGIN STRING
+まぁ、これで性欲問題は解消できたわけだ。
+
+あとはカギを渡してもらえるように説得するだけだネ。
+> CONTEXT: Map263/events/11/pages/1/352/Dialogue
+> CONTEXT: Map263/events/11/pages/2/87/Dialogue
+> CONTEXT: Map054/events/11/pages/1/352/Dialogue
+> CONTEXT: Map054/events/11/pages/2/87/Dialogue
+Well, this helped to solve the lust problem.
+Only Persuade is the way to get the key.#MTLed
+> END STRING
+
+> BEGIN STRING
+アンタ今、\\C[2]抵抗力も気力もカツカツのはずだよ。
+
+ちゃんと準備してから説得に行くようにネ
+> CONTEXT: Map263/events/11/pages/1/356/Dialogue
+> CONTEXT: Map263/events/11/pages/2/91/Dialogue
+> CONTEXT: Map054/events/11/pages/1/356/Dialogue
+> CONTEXT: Map054/events/11/pages/2/91/Dialogue
+Anta now,\\C[2] It should be clicking both willpower
+and vitality. Just as you prepare properly and go
+to dissuade#MTLed
+> END STRING
+
+> BEGIN STRING
+穏便に済ませられるかどうかは、アンタ次第だ。
+
+何か足りないアイテムがあったら、買っていくんだよ？
+> CONTEXT: Map263/events/11/pages/1/360/Dialogue
+> CONTEXT: Map263/events/11/pages/2/95/Dialogue
+> CONTEXT: Map054/events/11/pages/1/360/Dialogue
+> CONTEXT: Map054/events/11/pages/2/95/Dialogue
+Whether you can do it peacefully depends on you.
+If there are items missing something, will you
+buy it?#MTLed
+> END STRING
+
+> BEGIN STRING
+ハルの誘惑を振り切った事により
+
+\\C[2]精神の心蝕が消えた気がする
+> CONTEXT: Map263/events/11/pages/1/382/Dialogue
+> CONTEXT: Map263/events/11/pages/2/116/Dialogue
+> CONTEXT: Map054/events/1/pages/1/446/Dialogue
+> CONTEXT: Map054/events/1/pages/2/264/Dialogue
+> CONTEXT: Map054/events/5/pages/2/279/Dialogue
+> CONTEXT: Map054/events/11/pages/1/382/Dialogue
+> CONTEXT: Map054/events/11/pages/2/116/Dialogue
+By throwing out the temptation of Haru. 
+\\C[2]I feel mind corruption of the spirit has disappeared#MTLed
+> END STRING
+
+> BEGIN STRING
+まぁ、どうするかは\\N[1]に任せるヨ。
+
+でも、大人しく抜いておいた方がいいと思うけどなぁ？
+> CONTEXT: Map263/events/11/pages/1/391/Dialogue
+> CONTEXT: Map054/events/11/pages/1/391/Dialogue
+Well, what to do \\N[1] I will leave it to
+you. However, I think that it would be better to
+miss it as an adult?#MTLed
+> END STRING
+
+> BEGIN STRING
+あ、お金が足りない場合は
+
+要らないものを私にどんどん売っておくれよね！
+> CONTEXT: Map263/events/11/pages/1/395/Dialogue
+> CONTEXT: Map054/events/11/pages/1/395/Dialogue
+Oh, when there is not enough money
+Sell ​​me more unnecessary to me more and more!#MTLed
+> END STRING
+
+> BEGIN STRING
+まぁ、どうするかは\\N[1]に任せるけど…
+
+大人しく抜いておいた方がいいと思うけどなぁ？
+> CONTEXT: Map263/events/11/pages/2/6/Dialogue
+> CONTEXT: Map054/events/11/pages/2/6/Dialogue
+Well, what to do \\N[1] I will leave it to
+you...I think that it would be better to miss
+them as adults.#MTLed
+> END STRING
+
+> BEGIN STRING
+抜いてもらいたい en(v[1] \>= 500)
+> CONTEXT: Map263/events/11/pages/2/10/Choice/1
+> CONTEXT: Map054/events/11/pages/2/10/Choice/1
+I want you to pull it outen(v[1] \>= 500)#MTLed
+> END STRING
+
+> BEGIN STRING
+オッケー♡
+
+そいじゃ、失礼して、と♡
+> CONTEXT: Map263/events/11/pages/2/50/Dialogue
+> CONTEXT: Map054/events/11/pages/2/50/Dialogue
+Okey dokey ♡. Well then, please excuse me.#MTLed
+> END STRING
+
+> BEGIN STRING
+はい！オシマイ！
+
+やっぱアタシが性技を披露するまでもなかったね♪
+> CONTEXT: Map263/events/11/pages/2/70/Dialogue
+> CONTEXT: Map054/events/11/pages/2/70/Dialogue
+Yes! Oshimay! I guess 'I' never even showed off
+sexuality♪#MTLed
+> END STRING
+
+> BEGIN STRING
+………それにしても、雑な術式だなぁ。
+
+これかけた悪魔は、どっかの淫魔の見よう見まねって感じだ。
+> CONTEXT: Map263/events/11/pages/2/74/Dialogue
+> CONTEXT: Map054/events/11/pages/2/74/Dialogue
+......... Anyway, it is a miscellaneous
+technique. This demon I feel like seeing some
+sort of demons.#MTLed
+> END STRING
+
+> BEGIN STRING
+これだったら、もうちょっと\\N[1]くんが術を勉強したら
+
+簡単に解けちゃう気がするけどネ。
+> CONTEXT: Map263/events/11/pages/2/78/Dialogue
+> CONTEXT: Map054/events/11/pages/2/78/Dialogue
+If this were you, a bit more \\N[1] If Kun
+studied art. I feel like I can easily solve it,
+though.#MTLed
+> END STRING
+
+> BEGIN STRING
+はあっ………
+
+はぁっ…
+> CONTEXT: Map263/events/11/pages/2/82/Dialogue
+> CONTEXT: Map054/events/11/pages/2/82/Dialogue
+What………. Aah ...#MTLed
+> END STRING
+
+> BEGIN STRING
+鍵を渡すように説得するなら、ちょっと準備しておきなよね。
+
+アンタ今、\\C[2]抵抗力も気力もカツカツのはずだよ。
+射精した直後だしね。
+> CONTEXT: Map263/events/11/pages/3/0/Dialogue
+> CONTEXT: Map054/events/11/pages/3/0/Dialogue
+If it is a Persuade to pass the key, you have to
+prepare a bit. Anta now,\\C[2] It should be clicking
+both willpower and vitality. It's just after
+ejaculation.#MTLed
+> END STRING

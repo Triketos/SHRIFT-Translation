@@ -1,0 +1,1385 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+レイナ…
+> CONTEXT: Map153/events/2/pages/0/12/Dialogue
+> CONTEXT: Map153/events/2/pages/2/12/Dialogue
+> CONTEXT: Map153/events/16/pages/0/13/Dialogue
+> CONTEXT: Map153/events/16/pages/2/13/Dialogue
+> CONTEXT: Map153/events/17/pages/0/13/Dialogue
+> CONTEXT: Map153/events/17/pages/2/13/Dialogue
+Reina ...#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[1]…………
+
+無事にたどりつけたのね。
+> CONTEXT: Map153/events/2/pages/0/14/Dialogue
+> CONTEXT: Map153/events/2/pages/1/16/Dialogue
+> CONTEXT: Map153/events/2/pages/2/14/Dialogue
+> CONTEXT: Map153/events/16/pages/0/15/Dialogue
+> CONTEXT: Map153/events/16/pages/1/17/Dialogue
+> CONTEXT: Map153/events/16/pages/2/15/Dialogue
+> CONTEXT: Map153/events/17/pages/0/15/Dialogue
+> CONTEXT: Map153/events/17/pages/1/17/Dialogue
+> CONTEXT: Map153/events/17/pages/2/15/Dialogue
+\\N[1] ............ You arrived safely.#MTLed
+> END STRING
+
+> BEGIN STRING
+よかった………
+
+もう会えないんじゃないかと思った……
+> CONTEXT: Map153/events/2/pages/0/23/Dialogue
+> CONTEXT: Map153/events/2/pages/2/23/Dialogue
+> CONTEXT: Map153/events/16/pages/0/24/Dialogue
+> CONTEXT: Map153/events/16/pages/2/24/Dialogue
+> CONTEXT: Map153/events/17/pages/0/24/Dialogue
+> CONTEXT: Map153/events/17/pages/2/24/Dialogue
+Was good………. I thought that I could not meet
+anymore ......#MTLed
+> END STRING
+
+> BEGIN STRING
+大体のいきさつは聞いたよ、ユウマから……
+
+ごめん………危険な目に遭わせて………
+> CONTEXT: Map153/events/2/pages/0/27/Dialogue
+> CONTEXT: Map153/events/2/pages/2/27/Dialogue
+> CONTEXT: Map153/events/16/pages/0/28/Dialogue
+> CONTEXT: Map153/events/16/pages/2/28/Dialogue
+> CONTEXT: Map153/events/17/pages/0/28/Dialogue
+> CONTEXT: Map153/events/17/pages/2/28/Dialogue
+I heard about roughly, from Yuuma.......
+I'm sorry ......... I will have dangerous eyes
+.........#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[1]………身体の方は大丈夫？
+
+ 具合が悪くなったり、意識が薄れたりとかは……？
+> CONTEXT: Map153/events/2/pages/0/32/Dialogue
+> CONTEXT: Map153/events/2/pages/2/32/Dialogue
+> CONTEXT: Map153/events/16/pages/0/33/Dialogue
+> CONTEXT: Map153/events/16/pages/2/33/Dialogue
+> CONTEXT: Map153/events/17/pages/0/33/Dialogue
+> CONTEXT: Map153/events/17/pages/2/33/Dialogue
+\\N[1].........Is the body okay?
+Worse, something like consciousness......?#MTLed
+> END STRING
+
+> BEGIN STRING
+大丈夫、さっきの傷も完全に治ったし
+
+ ちょっと肌寒いけど、風邪とかもひいてないから。
+> CONTEXT: Map153/events/2/pages/0/36/Dialogue
+> CONTEXT: Map153/events/2/pages/2/36/Dialogue
+> CONTEXT: Map153/events/16/pages/0/37/Dialogue
+> CONTEXT: Map153/events/16/pages/2/37/Dialogue
+> CONTEXT: Map153/events/17/pages/0/37/Dialogue
+> CONTEXT: Map153/events/17/pages/2/37/Dialogue
+All right, the previous wounds are completely
+healed. It's a bit chilly, but I do not have a
+cold.#MTLed
+> END STRING
+
+> BEGIN STRING
+まぁ、攻撃やらで何度か気を失うことはあったけど……
+
+なんとか無事にここまで来れたよ。
+> CONTEXT: Map153/events/2/pages/0/40/Dialogue
+> CONTEXT: Map153/events/2/pages/2/40/Dialogue
+> CONTEXT: Map153/events/16/pages/0/41/Dialogue
+> CONTEXT: Map153/events/16/pages/2/41/Dialogue
+> CONTEXT: Map153/events/17/pages/0/41/Dialogue
+> CONTEXT: Map153/events/17/pages/2/41/Dialogue
+Well, I had to lose a few times with Attack and
+so...... I managed to get here safely.#MTLed
+> END STRING
+
+> BEGIN STRING
+違う……違うの………
+
+私が言っている意味は……
+> CONTEXT: Map153/events/2/pages/0/46/Dialogue
+> CONTEXT: Map153/events/2/pages/2/46/Dialogue
+> CONTEXT: Map153/events/16/pages/0/47/Dialogue
+> CONTEXT: Map153/events/16/pages/2/47/Dialogue
+> CONTEXT: Map153/events/17/pages/0/47/Dialogue
+> CONTEXT: Map153/events/17/pages/2/47/Dialogue
+It is different...... different...... ...
+What I mean is ...#MTLed
+> END STRING
+
+> BEGIN STRING
+え……？
+> CONTEXT: Map153/events/2/pages/0/50/Dialogue
+> CONTEXT: Map153/events/2/pages/2/50/Dialogue
+> CONTEXT: Map153/events/16/pages/0/51/Dialogue
+> CONTEXT: Map153/events/16/pages/2/51/Dialogue
+> CONTEXT: Map153/events/17/pages/0/51/Dialogue
+> CONTEXT: Map153/events/17/pages/2/51/Dialogue
+> CONTEXT: Map070/events/5/pages/1/303/Dialogue
+Huh……?#MTLed
+> END STRING
+
+> BEGIN STRING
+"Chapter4-1　カマソッソ戦(エレベーター前)"
+> CONTEXT: Map153/events/2/pages/0/53/InlineScript/2:1
+> CONTEXT: Map153/events/2/pages/2/53/InlineScript/2:1
+> CONTEXT: Map153/events/16/pages/0/54/InlineScript/2:1
+> CONTEXT: Map153/events/16/pages/2/54/InlineScript/2:1
+> CONTEXT: Map153/events/17/pages/0/54/InlineScript/2:1
+> CONTEXT: Map153/events/17/pages/2/54/InlineScript/2:1
+"Chapter 4-1 Fight against Camazotz (before elevator)"#MTLed
+> END STRING
+
+> BEGIN STRING
+なるほどねぇ………
+
+あなたが手助けしてたんだ、レイナ。
+> CONTEXT: Map153/events/2/pages/0/56/Dialogue
+> CONTEXT: Map153/events/2/pages/2/56/Dialogue
+> CONTEXT: Map153/events/16/pages/0/57/Dialogue
+> CONTEXT: Map153/events/16/pages/2/57/Dialogue
+> CONTEXT: Map153/events/17/pages/0/57/Dialogue
+> CONTEXT: Map153/events/17/pages/2/57/Dialogue
+I see ......... You were helping, Reina.#MTLed
+> END STRING
+
+> BEGIN STRING
+ミカ………
+> CONTEXT: Map153/events/2/pages/0/78/Dialogue
+> CONTEXT: Map153/events/2/pages/2/78/Dialogue
+> CONTEXT: Map153/events/16/pages/0/79/Dialogue
+> CONTEXT: Map153/events/16/pages/2/79/Dialogue
+> CONTEXT: Map153/events/17/pages/0/79/Dialogue
+> CONTEXT: Map153/events/17/pages/2/79/Dialogue
+Micah .........#MTLed
+> END STRING
+
+> BEGIN STRING
+なんで邪魔するの？レイナ。
+
+あなただって\\N[1]を殺したがってたじゃない
+> CONTEXT: Map153/events/2/pages/0/80/Dialogue
+> CONTEXT: Map153/events/2/pages/2/80/Dialogue
+> CONTEXT: Map153/events/16/pages/0/81/Dialogue
+> CONTEXT: Map153/events/16/pages/2/81/Dialogue
+> CONTEXT: Map153/events/17/pages/0/81/Dialogue
+> CONTEXT: Map153/events/17/pages/2/81/Dialogue
+Why do you disturb? Reina. You even \\N[1] I
+wanted to kill her.#MTLed
+> END STRING
+
+> BEGIN STRING
+それとも、今さらになって気が変わった？
+
+それじゃあ、もういいんだね……？
+> CONTEXT: Map153/events/2/pages/0/84/Dialogue
+> CONTEXT: Map153/events/2/pages/2/84/Dialogue
+> CONTEXT: Map153/events/16/pages/0/85/Dialogue
+> CONTEXT: Map153/events/16/pages/2/85/Dialogue
+> CONTEXT: Map153/events/17/pages/0/85/Dialogue
+> CONTEXT: Map153/events/17/pages/2/85/Dialogue
+Or did you change your mind just now?
+Well then, it's okay, is not it?#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[1]が『目覚めて』しまっても……
+> CONTEXT: Map153/events/2/pages/0/88/Dialogue
+> CONTEXT: Map153/events/2/pages/2/88/Dialogue
+> CONTEXT: Map153/events/16/pages/0/89/Dialogue
+> CONTEXT: Map153/events/16/pages/2/89/Dialogue
+> CONTEXT: Map153/events/17/pages/0/89/Dialogue
+> CONTEXT: Map153/events/17/pages/2/89/Dialogue
+\\N[1] Even if it "wakes me up" ......#MTLed
+> END STRING
+
+> BEGIN STRING
+『目覚める』…？
+> CONTEXT: Map153/events/2/pages/0/90/Dialogue
+> CONTEXT: Map153/events/2/pages/2/90/Dialogue
+> CONTEXT: Map153/events/16/pages/0/91/Dialogue
+> CONTEXT: Map153/events/16/pages/2/91/Dialogue
+> CONTEXT: Map153/events/17/pages/0/91/Dialogue
+> CONTEXT: Map153/events/17/pages/2/91/Dialogue
+"wake up"…?#MTLed
+> END STRING
+
+> BEGIN STRING
+………それは……！
+> CONTEXT: Map153/events/2/pages/0/92/Dialogue
+> CONTEXT: Map153/events/2/pages/2/92/Dialogue
+> CONTEXT: Map153/events/16/pages/0/93/Dialogue
+> CONTEXT: Map153/events/16/pages/2/93/Dialogue
+> CONTEXT: Map153/events/17/pages/0/93/Dialogue
+> CONTEXT: Map153/events/17/pages/2/93/Dialogue
+………that is……!#MTLed
+> END STRING
+
+> BEGIN STRING
+ぐ…うっ…！！
+> CONTEXT: Map153/events/2/pages/0/105/Dialogue
+> CONTEXT: Map153/events/2/pages/2/105/Dialogue
+> CONTEXT: Map153/events/16/pages/0/106/Dialogue
+> CONTEXT: Map153/events/16/pages/2/106/Dialogue
+> CONTEXT: Map153/events/17/pages/0/106/Dialogue
+> CONTEXT: Map153/events/17/pages/2/106/Dialogue
+Ugh...ugh ...! !#MTLed
+> END STRING
+
+> BEGIN STRING
+レイナ！！
+> CONTEXT: Map153/events/2/pages/0/107/Dialogue
+> CONTEXT: Map153/events/2/pages/2/107/Dialogue
+> CONTEXT: Map153/events/16/pages/0/108/Dialogue
+> CONTEXT: Map153/events/16/pages/2/108/Dialogue
+> CONTEXT: Map153/events/17/pages/0/108/Dialogue
+> CONTEXT: Map153/events/17/pages/2/108/Dialogue
+Reina! !#MTLed
+> END STRING
+
+> BEGIN STRING
+クスクス………油断したね、レイナ。
+
+まだ弾は残ってたんだよ………
+> CONTEXT: Map153/events/2/pages/0/109/Dialogue
+> CONTEXT: Map153/events/2/pages/2/109/Dialogue
+> CONTEXT: Map153/events/16/pages/0/110/Dialogue
+> CONTEXT: Map153/events/16/pages/2/110/Dialogue
+> CONTEXT: Map153/events/17/pages/0/110/Dialogue
+> CONTEXT: Map153/events/17/pages/2/110/Dialogue
+* Giggle *............ I was disappointed,
+Reina. There were still bullets left .........#MTLed
+> END STRING
+
+> BEGIN STRING
+ミカ……なんでこんな事を…！！
+> CONTEXT: Map153/events/2/pages/0/116/Dialogue
+> CONTEXT: Map153/events/2/pages/2/116/Dialogue
+> CONTEXT: Map153/events/16/pages/0/117/Dialogue
+> CONTEXT: Map153/events/16/pages/2/117/Dialogue
+> CONTEXT: Map153/events/17/pages/0/117/Dialogue
+> CONTEXT: Map153/events/17/pages/2/117/Dialogue
+Micah ...... why is this ...!!#MTLed
+> END STRING
+
+> BEGIN STRING
+大丈夫だよ、\\N[1]。
+
+これ、悪魔弾だから、レイナは気を失ってるだけ。
+> CONTEXT: Map153/events/2/pages/0/118/Dialogue
+> CONTEXT: Map153/events/2/pages/2/118/Dialogue
+> CONTEXT: Map153/events/16/pages/0/119/Dialogue
+> CONTEXT: Map153/events/16/pages/2/119/Dialogue
+> CONTEXT: Map153/events/17/pages/0/119/Dialogue
+> CONTEXT: Map153/events/17/pages/2/119/Dialogue
+It's okay, \\N[1] . This is Demon rounds, so
+Reina just faints.#MTLed
+> END STRING
+
+> BEGIN STRING
+レイナにはなんの怨みもない……
+
+むしろ感謝してるの、あなたの注意を引いてくれて…
+> CONTEXT: Map153/events/2/pages/0/122/Dialogue
+> CONTEXT: Map153/events/2/pages/2/122/Dialogue
+> CONTEXT: Map153/events/16/pages/0/123/Dialogue
+> CONTEXT: Map153/events/16/pages/2/123/Dialogue
+> CONTEXT: Map153/events/17/pages/0/123/Dialogue
+> CONTEXT: Map153/events/17/pages/2/123/Dialogue
+Reina has no grudence...... 
+Rather thank you, please draw your attention ...#MTLed
+> END STRING
+
+> BEGIN STRING
+それよりも……
+
+自分の心配をした方がいいと思うよ？\\N[1]
+> CONTEXT: Map153/events/2/pages/0/127/Dialogue
+> CONTEXT: Map153/events/2/pages/2/127/Dialogue
+> CONTEXT: Map153/events/16/pages/0/128/Dialogue
+> CONTEXT: Map153/events/16/pages/2/128/Dialogue
+> CONTEXT: Map153/events/17/pages/0/128/Dialogue
+> CONTEXT: Map153/events/17/pages/2/128/Dialogue
+More than that...Do you think it would be
+better to worry about yourself? \\N[1]#MTLed
+> END STRING
+
+> BEGIN STRING
+私はレイナみたいに優しくないからさぁ……
+
+あなたを始末するまで、追いかけてあげる……
+> CONTEXT: Map153/events/2/pages/0/131/Dialogue
+> CONTEXT: Map153/events/2/pages/2/131/Dialogue
+> CONTEXT: Map153/events/16/pages/0/132/Dialogue
+> CONTEXT: Map153/events/16/pages/2/132/Dialogue
+> CONTEXT: Map153/events/17/pages/0/132/Dialogue
+> CONTEXT: Map153/events/17/pages/2/132/Dialogue
+I am not kind as Reina ...... 
+I'll chase you until I clean you......#MTLed
+> END STRING
+
+> BEGIN STRING
+さぁ、もう逃げる場所はないよ……
+
+あなたは、その『魔力』を持ってちゃダメなの……
+> CONTEXT: Map153/events/2/pages/0/136/Dialogue
+> CONTEXT: Map153/events/2/pages/2/135/Dialogue
+> CONTEXT: Map153/events/16/pages/0/137/Dialogue
+> CONTEXT: Map153/events/16/pages/2/136/Dialogue
+> CONTEXT: Map153/events/17/pages/0/137/Dialogue
+> CONTEXT: Map153/events/17/pages/2/136/Dialogue
+Well, there is no place to escape anymore ......
+You should not have that "magical power" ......#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[1]！！\\N[1]！！
+
+ミツケタ！！♡♡
+> CONTEXT: Map153/events/2/pages/0/152/Dialogue
+> CONTEXT: Map153/events/16/pages/0/153/Dialogue
+> CONTEXT: Map153/events/17/pages/0/153/Dialogue
+\\N[1]!! \\N[1]!! Mitsu keta!!♡ ♡#MTLed
+> END STRING
+
+> BEGIN STRING
+この子、最初にあなたを襲った子なんだけど…
+彼女ね、\\N[1]のこと気に入ったんだって……
+
+あなたと一つになりたいって……♡
+> CONTEXT: Map153/events/2/pages/0/156/Dialogue
+> CONTEXT: Map153/events/16/pages/0/157/Dialogue
+> CONTEXT: Map153/events/17/pages/0/157/Dialogue
+This child, the child who first hit you ...
+She is, \\N[1] I heard that he liked it
+...... I want to be one with you....... ♡#MTLed
+> END STRING
+
+> BEGIN STRING
+私が『手伝って』あげるからさ……
+
+おとなしく気持ちよくなっちゃいなよ……
+> CONTEXT: Map153/events/2/pages/0/161/Dialogue
+> CONTEXT: Map153/events/16/pages/0/162/Dialogue
+> CONTEXT: Map153/events/17/pages/0/162/Dialogue
+I will give you "help me" ....
+I will be comfortably calm......#MTLed
+> END STRING
+
+> BEGIN STRING
+へぇ………まだ抵抗するんだ……
+
+頑張るんだね、\\N[1]。
+> CONTEXT: Map153/events/2/pages/0/179/Dialogue
+> CONTEXT: Map153/events/16/pages/0/180/Dialogue
+> CONTEXT: Map153/events/17/pages/0/180/Dialogue
+Oh.........I still want to struggle ......
+Do your best, \\N[1] .#MTLed
+> END STRING
+
+> BEGIN STRING
+でも、もう逃げる場所はないよ……
+
+あなたは、その『魔力』を持ってちゃダメなの……
+> CONTEXT: Map153/events/2/pages/0/183/Dialogue
+> CONTEXT: Map153/events/16/pages/0/184/Dialogue
+> CONTEXT: Map153/events/17/pages/0/184/Dialogue
+But there is no place to escape ......
+You should not have that "magical power" ......#MTLed
+> END STRING
+
+> BEGIN STRING
+あ…………ぁ………
+> CONTEXT: Map153/events/2/pages/0/202/Dialogue
+> CONTEXT: Map153/events/2/pages/2/154/Dialogue
+> CONTEXT: Map153/events/16/pages/0/203/Dialogue
+> CONTEXT: Map153/events/16/pages/2/155/Dialogue
+> CONTEXT: Map153/events/17/pages/0/203/Dialogue
+> CONTEXT: Map153/events/17/pages/2/155/Dialogue
+Ahh………#MTLed
+> END STRING
+
+> BEGIN STRING
+…………そこまでだ、ミカ………
+> CONTEXT: Map153/events/2/pages/0/207/Dialogue
+> CONTEXT: Map153/events/2/pages/2/159/Dialogue
+> CONTEXT: Map153/events/16/pages/0/208/Dialogue
+> CONTEXT: Map153/events/16/pages/2/160/Dialogue
+> CONTEXT: Map153/events/17/pages/0/208/Dialogue
+> CONTEXT: Map153/events/17/pages/2/160/Dialogue
+............ That's it, Micah .........#MTLed
+> END STRING
+
+> BEGIN STRING
+もう…………いい………
+> CONTEXT: Map153/events/2/pages/0/209/Dialogue
+> CONTEXT: Map153/events/2/pages/2/161/Dialogue
+> CONTEXT: Map153/events/16/pages/0/210/Dialogue
+> CONTEXT: Map153/events/16/pages/2/162/Dialogue
+> CONTEXT: Map153/events/17/pages/0/210/Dialogue
+> CONTEXT: Map153/events/17/pages/2/162/Dialogue
+enough………#MTLed
+> END STRING
+
+> BEGIN STRING
+ユウ………マ…………
+
+戻ってきて…………くれたんだね………
+> CONTEXT: Map153/events/2/pages/0/224/Dialogue
+> CONTEXT: Map153/events/2/pages/2/176/Dialogue
+> CONTEXT: Map153/events/16/pages/0/225/Dialogue
+> CONTEXT: Map153/events/16/pages/2/177/Dialogue
+> CONTEXT: Map153/events/17/pages/0/225/Dialogue
+> CONTEXT: Map153/events/17/pages/2/177/Dialogue
+Yu ......... Ma ............ Come back......
+......you gave me .........#MTLed
+> END STRING
+
+> BEGIN STRING
+ねぇ………『あのこと』………
+
+まだ、怒ってる………？
+> CONTEXT: Map153/events/2/pages/0/230/Dialogue
+> CONTEXT: Map153/events/2/pages/2/182/Dialogue
+> CONTEXT: Map153/events/16/pages/0/231/Dialogue
+> CONTEXT: Map153/events/16/pages/2/183/Dialogue
+> CONTEXT: Map153/events/17/pages/0/231/Dialogue
+> CONTEXT: Map153/events/17/pages/2/183/Dialogue
+Hey ......... "That thing"...... ...
+I am still mad .........?#MTLed
+> END STRING
+
+> BEGIN STRING
+ごめんね……………ゆう……ま………
+
+ごめ………………
+> CONTEXT: Map153/events/2/pages/0/234/Dialogue
+> CONTEXT: Map153/events/2/pages/2/186/Dialogue
+> CONTEXT: Map153/events/16/pages/0/235/Dialogue
+> CONTEXT: Map153/events/16/pages/2/187/Dialogue
+> CONTEXT: Map153/events/17/pages/0/235/Dialogue
+> CONTEXT: Map153/events/17/pages/2/187/Dialogue
+Sorry ............... Yu...... ...
+Rice ..................#MTLed
+> END STRING
+
+> BEGIN STRING
+ミカは、そのまま動かなくなった……
+> CONTEXT: Map153/events/2/pages/0/239/Dialogue
+> CONTEXT: Map153/events/2/pages/2/191/Dialogue
+> CONTEXT: Map153/events/16/pages/0/240/Dialogue
+> CONTEXT: Map153/events/16/pages/2/192/Dialogue
+> CONTEXT: Map153/events/17/pages/0/240/Dialogue
+> CONTEXT: Map153/events/17/pages/2/192/Dialogue
+Micah has stopped working as it is ....#MTLed
+> END STRING
+
+> BEGIN STRING
+ミカ………
+
+謝るのは、俺の方だ……
+> CONTEXT: Map153/events/2/pages/0/242/Dialogue
+> CONTEXT: Map153/events/2/pages/2/194/Dialogue
+> CONTEXT: Map153/events/16/pages/0/243/Dialogue
+> CONTEXT: Map153/events/16/pages/2/195/Dialogue
+> CONTEXT: Map153/events/17/pages/0/243/Dialogue
+> CONTEXT: Map153/events/17/pages/2/195/Dialogue
+Micah ......... I am sorry...I ...#MTLed
+> END STRING
+
+> BEGIN STRING
+ユウマ………！！
+
+レイナをどうするつもりだ…！？
+> CONTEXT: Map153/events/2/pages/0/254/Dialogue
+> CONTEXT: Map153/events/2/pages/2/206/Dialogue
+> CONTEXT: Map153/events/16/pages/0/255/Dialogue
+> CONTEXT: Map153/events/16/pages/2/207/Dialogue
+> CONTEXT: Map153/events/17/pages/0/255/Dialogue
+> CONTEXT: Map153/events/17/pages/2/207/Dialogue
+Yuuma .........!!What are you going to do with
+Reina ...!?#MTLed
+> END STRING
+
+> BEGIN STRING
+彼女は、テープで『俺たちを殺す』と言っていた。
+
+脱出の際に、妙な気を起こされても厄介だ。
+> CONTEXT: Map153/events/2/pages/0/258/Dialogue
+> CONTEXT: Map153/events/2/pages/2/210/Dialogue
+> CONTEXT: Map153/events/16/pages/0/259/Dialogue
+> CONTEXT: Map153/events/16/pages/2/211/Dialogue
+> CONTEXT: Map153/events/17/pages/0/259/Dialogue
+> CONTEXT: Map153/events/17/pages/2/211/Dialogue
+She used to say "kill us" with tape.
+It is troublesome to escape, even if it makes me
+strange.#MTLed
+> END STRING
+
+> BEGIN STRING
+脱出し終えるまで、手足を拘束する。
+> CONTEXT: Map153/events/2/pages/0/262/Dialogue
+> CONTEXT: Map153/events/2/pages/2/214/Dialogue
+> CONTEXT: Map153/events/16/pages/0/263/Dialogue
+> CONTEXT: Map153/events/16/pages/2/215/Dialogue
+> CONTEXT: Map153/events/17/pages/0/263/Dialogue
+> CONTEXT: Map153/events/17/pages/2/215/Dialogue
+Bound limbs until escape is over.#MTLed
+> END STRING
+
+> BEGIN STRING
+ま、待ってくれ！！
+> CONTEXT: Map153/events/2/pages/0/264/Dialogue
+> CONTEXT: Map153/events/2/pages/2/216/Dialogue
+> CONTEXT: Map153/events/16/pages/0/265/Dialogue
+> CONTEXT: Map153/events/16/pages/2/217/Dialogue
+> CONTEXT: Map153/events/17/pages/0/265/Dialogue
+> CONTEXT: Map153/events/17/pages/2/217/Dialogue
+Wait, wait! !#MTLed
+> END STRING
+
+> BEGIN STRING
+彼女は『すべてを話す』と約束してくれた。
+
+少なくとも今は、危害を加えてこようとしてない！
+> CONTEXT: Map153/events/2/pages/0/266/Dialogue
+> CONTEXT: Map153/events/2/pages/2/218/Dialogue
+> CONTEXT: Map153/events/16/pages/0/267/Dialogue
+> CONTEXT: Map153/events/16/pages/2/219/Dialogue
+> CONTEXT: Map153/events/17/pages/0/267/Dialogue
+> CONTEXT: Map153/events/17/pages/2/219/Dialogue
+She promised me to "speak all."
+At least I am not trying to add any harm!#MTLed
+> END STRING
+
+> BEGIN STRING
+彼女のことは……僕に任せてくれ！
+
+きっと真相を聞き出してみせる………
+> CONTEXT: Map153/events/2/pages/0/270/Dialogue
+> CONTEXT: Map153/events/2/pages/2/222/Dialogue
+> CONTEXT: Map153/events/16/pages/0/271/Dialogue
+> CONTEXT: Map153/events/16/pages/2/223/Dialogue
+> CONTEXT: Map153/events/17/pages/0/271/Dialogue
+> CONTEXT: Map153/events/17/pages/2/223/Dialogue
+Leave it to me...... for her!
+I surely hear the truth .........#MTLed
+> END STRING
+
+> BEGIN STRING
+…………………分かった。
+
+お前を信じる、\\N[1]。
+> CONTEXT: Map153/events/2/pages/0/275/Dialogue
+> CONTEXT: Map153/events/2/pages/2/227/Dialogue
+> CONTEXT: Map153/events/16/pages/0/276/Dialogue
+> CONTEXT: Map153/events/16/pages/2/228/Dialogue
+> CONTEXT: Map153/events/17/pages/0/276/Dialogue
+> CONTEXT: Map153/events/17/pages/2/228/Dialogue
+…………………I understood. I believe you, \\N[1] .#MTLed
+> END STRING
+
+> BEGIN STRING
+急ごう、あまりモタモタしていられなくなった。
+
+\\C[2]数時間後に、この区域は軍に爆撃される。
+> CONTEXT: Map153/events/2/pages/0/290/Dialogue
+> CONTEXT: Map153/events/2/pages/2/242/Dialogue
+> CONTEXT: Map153/events/16/pages/0/291/Dialogue
+> CONTEXT: Map153/events/16/pages/2/243/Dialogue
+> CONTEXT: Map153/events/17/pages/0/291/Dialogue
+> CONTEXT: Map153/events/17/pages/2/243/Dialogue
+Let's hurry, I can not stay slow.
+\\C[2]After a few hours, this area will be bombed to
+the military.#MTLed
+> END STRING
+
+> BEGIN STRING
+え……！？爆撃って……！！
+
+どういうことだよ……！
+> CONTEXT: Map153/events/2/pages/0/297/Dialogue
+> CONTEXT: Map153/events/2/pages/2/249/Dialogue
+> CONTEXT: Map153/events/16/pages/0/298/Dialogue
+> CONTEXT: Map153/events/16/pages/2/250/Dialogue
+> CONTEXT: Map153/events/17/pages/0/298/Dialogue
+> CONTEXT: Map153/events/17/pages/2/250/Dialogue
+Huh……!? Bombing......! !
+What does that mean ...!#MTLed
+> END STRING
+
+> BEGIN STRING
+詳しい事情は分からないが……
+
+焦った軍上層部が、戦線をなんとか押し戻そうとして
+苦し紛れに立てた無茶な作戦としか思えない……
+> CONTEXT: Map153/events/2/pages/0/301/Dialogue
+> CONTEXT: Map153/events/2/pages/2/253/Dialogue
+> CONTEXT: Map153/events/16/pages/0/302/Dialogue
+> CONTEXT: Map153/events/16/pages/2/254/Dialogue
+> CONTEXT: Map153/events/17/pages/0/302/Dialogue
+> CONTEXT: Map153/events/17/pages/2/254/Dialogue
+I do not know detailed circumstances......
+The upper army of the impatient army managed to
+push back the front. It seems to be an
+inconvenient strategy that he made difficulty ...
+...#MTLed
+> END STRING
+
+> BEGIN STRING
+市民の避難も完了し、区域外に搬送不可能な重患は
+お前のように、すべてシェルターに移送済みだ。
+
+この地域は無人……上はそう判断したんだろう。
+> CONTEXT: Map153/events/2/pages/0/306/Dialogue
+> CONTEXT: Map153/events/2/pages/2/258/Dialogue
+> CONTEXT: Map153/events/16/pages/0/307/Dialogue
+> CONTEXT: Map153/events/16/pages/2/259/Dialogue
+> CONTEXT: Map153/events/17/pages/0/307/Dialogue
+> CONTEXT: Map153/events/17/pages/2/259/Dialogue
+The evacuation of the citizen is also completed,
+and the serious illness which can not be
+transported outside the area. Like you, it has
+already been transferred to the shelter.
+This area was uninhabited...I guess that was
+the case.#MTLed
+> END STRING
+
+> BEGIN STRING
+おそらく………始まれば容赦はない……
+
+このあたり一帯は、焼け野原と化すだろう。
+> CONTEXT: Map153/events/2/pages/0/311/Dialogue
+> CONTEXT: Map153/events/2/pages/2/263/Dialogue
+> CONTEXT: Map153/events/16/pages/0/312/Dialogue
+> CONTEXT: Map153/events/16/pages/2/264/Dialogue
+> CONTEXT: Map153/events/17/pages/0/312/Dialogue
+> CONTEXT: Map153/events/17/pages/2/264/Dialogue
+Probably.........There is no mercy if you
+start ...... The area around here will turn into
+a burned-out field.#MTLed
+> END STRING
+
+> BEGIN STRING
+そ、そんな………
+> CONTEXT: Map153/events/2/pages/0/316/Dialogue
+> CONTEXT: Map153/events/2/pages/2/268/Dialogue
+> CONTEXT: Map153/events/16/pages/0/317/Dialogue
+> CONTEXT: Map153/events/16/pages/2/269/Dialogue
+> CONTEXT: Map153/events/17/pages/0/317/Dialogue
+> CONTEXT: Map128/events/4/pages/0/71/Dialogue
+> CONTEXT: Map153/events/17/pages/2/269/Dialogue
+That's...such .........#MTLed
+> END STRING
+
+> BEGIN STRING
+俺の方から軍に連絡を取ろうとしたが応答がない。
+
+すでに、俺は死んだものとして扱われているんだろう。
+> CONTEXT: Map153/events/2/pages/0/319/Dialogue
+> CONTEXT: Map153/events/2/pages/2/271/Dialogue
+> CONTEXT: Map153/events/16/pages/0/320/Dialogue
+> CONTEXT: Map153/events/16/pages/2/272/Dialogue
+> CONTEXT: Map153/events/17/pages/0/320/Dialogue
+> CONTEXT: Map153/events/17/pages/2/272/Dialogue
+I tried to contact the military from me, but I
+have no response. Already, I guess I'm treated as
+dead.#MTLed
+> END STRING
+
+> BEGIN STRING
+だが幸いな事に、まだ海底列車の電力は落とされていない
+
+扱う人間がいないと、後回しにしているのかもしれないな…
+> CONTEXT: Map153/events/2/pages/0/324/Dialogue
+> CONTEXT: Map153/events/2/pages/2/276/Dialogue
+> CONTEXT: Map153/events/16/pages/0/325/Dialogue
+> CONTEXT: Map153/events/16/pages/2/277/Dialogue
+> CONTEXT: Map153/events/17/pages/0/325/Dialogue
+> CONTEXT: Map153/events/17/pages/2/277/Dialogue
+Fortunately, however, the power of the submarine
+train has not yet been dropped
+If there are no people to handle, it may be
+postponing ...#MTLed
+> END STRING
+
+> BEGIN STRING
+とはいえ、あまり残された時間はない。
+
+ 脱出を急ぐぞ、\\N[1]
+> CONTEXT: Map153/events/2/pages/0/336/Dialogue
+> CONTEXT: Map153/events/2/pages/2/288/Dialogue
+> CONTEXT: Map153/events/16/pages/0/337/Dialogue
+> CONTEXT: Map153/events/16/pages/2/289/Dialogue
+> CONTEXT: Map153/events/17/pages/0/337/Dialogue
+> CONTEXT: Map153/events/17/pages/2/289/Dialogue
+However, there is not much left time.
+I will hurry to escape, \\N[1]#MTLed
+> END STRING
+
+> BEGIN STRING
+この搬入エレベーターなら、地下へは直接行ける。
+
+少し遠回りになるが…
+レイナを運ぶのならこっちが一番だろう。
+> CONTEXT: Map153/events/2/pages/0/340/Dialogue
+> CONTEXT: Map153/events/2/pages/2/292/Dialogue
+> CONTEXT: Map153/events/16/pages/0/341/Dialogue
+> CONTEXT: Map153/events/16/pages/2/293/Dialogue
+> CONTEXT: Map153/events/17/pages/0/341/Dialogue
+> CONTEXT: Map153/events/17/pages/2/293/Dialogue
+With this loading elevator, you can go directly
+to the basement. It will be a long way to go ...
+If you are carrying Reina this one will be the
+best.#MTLed
+> END STRING
+
+> BEGIN STRING
+わ、わかった…！
+> CONTEXT: Map153/events/2/pages/0/345/Dialogue
+> CONTEXT: Map153/events/2/pages/2/297/Dialogue
+> CONTEXT: Map153/events/16/pages/0/346/Dialogue
+> CONTEXT: Map153/events/16/pages/2/298/Dialogue
+> CONTEXT: Map153/events/17/pages/0/346/Dialogue
+> CONTEXT: Map153/events/17/pages/2/298/Dialogue
+> CONTEXT: Map101/events/19/pages/0/52/Dialogue
+> CONTEXT: Map101/events/19/pages/1/50/Dialogue
+> CONTEXT: Map101/events/22/pages/0/53/Dialogue
+> CONTEXT: Map101/events/22/pages/1/51/Dialogue
+> CONTEXT: Map101/events/23/pages/0/54/Dialogue
+> CONTEXT: Map101/events/23/pages/1/52/Dialogue
+I understand ...!#MTLed
+> END STRING
+
+> BEGIN STRING
+…………ミカ。
+
+お前を埋葬する余裕もなさそうだ。
+> CONTEXT: Map153/events/2/pages/0/366/Dialogue
+> CONTEXT: Map153/events/2/pages/2/318/Dialogue
+> CONTEXT: Map153/events/16/pages/0/367/Dialogue
+> CONTEXT: Map153/events/16/pages/2/319/Dialogue
+> CONTEXT: Map153/events/17/pages/0/367/Dialogue
+> CONTEXT: Map153/events/17/pages/2/319/Dialogue
+............ Micah. I can not afford to bury you.#MTLed
+> END STRING
+
+> BEGIN STRING
+すまなかった……
+
+お前を追い詰めるつもりはなかったんだ……
+> CONTEXT: Map153/events/2/pages/0/370/Dialogue
+> CONTEXT: Map153/events/2/pages/2/322/Dialogue
+> CONTEXT: Map153/events/16/pages/0/371/Dialogue
+> CONTEXT: Map153/events/16/pages/2/323/Dialogue
+> CONTEXT: Map153/events/17/pages/0/371/Dialogue
+> CONTEXT: Map153/events/17/pages/2/323/Dialogue
+I'm sorry……. I did not mean to chase you......#MTLed
+> END STRING
+
+> BEGIN STRING
+せめて……………
+
+安らかに眠ってくれ……
+> CONTEXT: Map153/events/2/pages/0/374/Dialogue
+> CONTEXT: Map153/events/2/pages/2/326/Dialogue
+> CONTEXT: Map153/events/16/pages/0/375/Dialogue
+> CONTEXT: Map153/events/16/pages/2/327/Dialogue
+> CONTEXT: Map153/events/17/pages/0/375/Dialogue
+> CONTEXT: Map153/events/17/pages/2/327/Dialogue
+at least……………. Sleep comfortably ......#MTLed
+> END STRING
+
+> BEGIN STRING
+レイナ！？
+
+また話の流れをぶった切って来たな…！！
+> CONTEXT: Map153/events/2/pages/1/12/Dialogue
+> CONTEXT: Map153/events/16/pages/1/13/Dialogue
+> CONTEXT: Map153/events/17/pages/1/13/Dialogue
+Reina!? I caught the talk stream again ...!
+!#MTLed
+> END STRING
+
+> BEGIN STRING
+え、えっと……レイナ、大丈夫なの！？
+
+その、Ｍ．Ｏ．Ｗに追われてるのとか！！
+なんか今よくわかんないけど大変なんだろ！？
+> CONTEXT: Map153/events/2/pages/1/24/Dialogue
+> CONTEXT: Map153/events/16/pages/1/25/Dialogue
+> CONTEXT: Map153/events/17/pages/1/25/Dialogue
+Er, um...... Reina, that's fine!?
+That, M. O. W is being chased by W! !
+I do not understand something right now but it is
+hard work!?#MTLed
+> END STRING
+
+> BEGIN STRING
+気合いでどうにかなったわ
+> CONTEXT: Map153/events/2/pages/1/29/Dialogue
+> CONTEXT: Map153/events/16/pages/1/30/Dialogue
+> CONTEXT: Map153/events/17/pages/1/30/Dialogue
+I managed to get something by spirit.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\{\\{気合いで！？
+> CONTEXT: Map153/events/2/pages/1/32/Dialogue
+> CONTEXT: Map153/events/2/pages/1/98/Dialogue
+> CONTEXT: Map153/events/16/pages/1/33/Dialogue
+> CONTEXT: Map153/events/16/pages/1/99/Dialogue
+> CONTEXT: Map153/events/17/pages/1/33/Dialogue
+> CONTEXT: Map153/events/17/pages/1/99/Dialogue
+\\{\\{With spirit!?#MTLed
+> END STRING
+
+> BEGIN STRING
+そんなことより……もう時間が無い。
+
+Ｍ.Ｏ.Ｗの改造手術を受けたことによって
+あの宇宙人たちは、強行手段に出つつあるわ
+> CONTEXT: Map153/events/2/pages/1/35/Dialogue
+> CONTEXT: Map153/events/16/pages/1/36/Dialogue
+> CONTEXT: Map153/events/17/pages/1/36/Dialogue
+Than such a thing...no more time.
+By taking M.O. W. remodeling surgery
+That aliens is emerging as a compelling means#MTLed
+> END STRING
+
+> BEGIN STRING
+人類はもう手遅れだけど……まだ希望はある。
+
+この戦いを終わらせる、最後の望みが……
+> CONTEXT: Map153/events/2/pages/1/40/Dialogue
+> CONTEXT: Map153/events/16/pages/1/41/Dialogue
+> CONTEXT: Map153/events/17/pages/1/41/Dialogue
+Humanity is already too late...... There is
+still hope. The last hope to end this fight
+......#MTLed
+> END STRING
+
+> BEGIN STRING
+『あの宇宙人』って……
+
+レイナ、あのクッション君みたいなの、知ってるの！？
+> CONTEXT: Map153/events/2/pages/1/45/Dialogue
+> CONTEXT: Map153/events/16/pages/1/46/Dialogue
+> CONTEXT: Map153/events/17/pages/1/46/Dialogue
+"That alien" ...... Reina, you know that Cushion,
+you know!?#MTLed
+> END STRING
+
+> BEGIN STRING
+そうか……\\N[1]…………
+
+あなたまだ記憶が………
+> CONTEXT: Map153/events/2/pages/1/50/Dialogue
+> CONTEXT: Map153/events/16/pages/1/51/Dialogue
+> CONTEXT: Map153/events/17/pages/1/51/Dialogue
+Really…… \\N[1] ............ You still have
+memories .........#MTLed
+> END STRING
+
+> BEGIN STRING
+大丈夫………
+
+きっと中に入れば、全てを思い出すわ……
+> CONTEXT: Map153/events/2/pages/1/55/Dialogue
+> CONTEXT: Map153/events/16/pages/1/56/Dialogue
+> CONTEXT: Map153/events/17/pages/1/56/Dialogue
+All right………. I'm sure I will remember everything
+....#MTLed
+> END STRING
+
+> BEGIN STRING
+急ぎましょう！！
+
+もうユウマは、中で待ってる…！
+> CONTEXT: Map153/events/2/pages/1/59/Dialogue
+> CONTEXT: Map153/events/16/pages/1/60/Dialogue
+> CONTEXT: Map153/events/17/pages/1/60/Dialogue
+Let's hurry!!Yuuma is already waiting inside
+...!#MTLed
+> END STRING
+
+> BEGIN STRING
+ま、まって……
+
+私も行くわよ……！
+> CONTEXT: Map153/events/2/pages/1/63/Dialogue
+> CONTEXT: Map153/events/16/pages/1/64/Dialogue
+> CONTEXT: Map153/events/17/pages/1/64/Dialogue
+Wait a minute ...... I will also go ...!#MTLed
+> END STRING
+
+> BEGIN STRING
+ミカ………
+
+あなたも来たのね……
+> CONTEXT: Map153/events/2/pages/1/85/Dialogue
+> CONTEXT: Map153/events/16/pages/1/86/Dialogue
+> CONTEXT: Map153/events/17/pages/1/86/Dialogue
+Micah ......... You also came......#MTLed
+> END STRING
+
+> BEGIN STRING
+み、ミカ！？
+
+あの変なクッション君みたいなのに変化したんじゃ…！！
+> CONTEXT: Map153/events/2/pages/1/89/Dialogue
+> CONTEXT: Map153/events/16/pages/1/90/Dialogue
+> CONTEXT: Map153/events/17/pages/1/90/Dialogue
+Only, Micah!? It's like a funny Cushion, but
+it changed ...! !#MTLed
+> END STRING
+
+> BEGIN STRING
+そんなもん、気合いでどうにかなったわよ
+> CONTEXT: Map153/events/2/pages/1/93/Dialogue
+> CONTEXT: Map153/events/16/pages/1/94/Dialogue
+> CONTEXT: Map153/events/17/pages/1/94/Dialogue
+Such a thing, I managed to do something with the
+spirit#MTLed
+> END STRING
+
+> BEGIN STRING
+これで、『あの時』のメンツは揃った……
+
+やっと『裁判』を始められるわ……
+> CONTEXT: Map153/events/2/pages/1/101/Dialogue
+> CONTEXT: Map153/events/16/pages/1/102/Dialogue
+> CONTEXT: Map153/events/17/pages/1/102/Dialogue
+With this, the members of "that time" are
+complete ...... Finally you can start "trial" ...#MTLed
+> END STRING
+
+> BEGIN STRING
+さ、『裁判』…！？
+
+一体何のことを言ってるんだ！？レイナ！！
+> CONTEXT: Map153/events/2/pages/1/108/Dialogue
+> CONTEXT: Map153/events/16/pages/1/109/Dialogue
+> CONTEXT: Map153/events/17/pages/1/109/Dialogue
+Sure, "trial" ...!? What on earth are you
+talking about!? Reina! !#MTLed
+> END STRING
+
+> BEGIN STRING
+言ったはずよ……説明している時間は無い……
+
+ミカ！\\N[1]を運ぶのを手伝って！！
+> CONTEXT: Map153/events/2/pages/1/112/Dialogue
+> CONTEXT: Map153/events/16/pages/1/113/Dialogue
+> CONTEXT: Map153/events/17/pages/1/113/Dialogue
+I should have said...... There is no time to
+explain ...... Micah! \\N[1] Help me to
+carry! !#MTLed
+> END STRING
+
+> BEGIN STRING
+"Chapter4-1　ミカ戦"
+> CONTEXT: Map153/events/2/pages/3/33/InlineScript/2:1
+> CONTEXT: Map153/events/16/pages/3/34/InlineScript/2:1
+> CONTEXT: Map153/events/17/pages/3/34/InlineScript/2:1
+"Chapter 4-1 Fight against Micah"#MTLed
+> END STRING
+
+> BEGIN STRING
+行かせない……
+> CONTEXT: Map153/events/2/pages/3/36/Dialogue
+> CONTEXT: Map153/events/16/pages/3/37/Dialogue
+> CONTEXT: Map153/events/17/pages/3/37/Dialogue
+I will not let you go ...#MTLed
+> END STRING
+
+> BEGIN STRING
+ミカ………
+
+来たか……
+> CONTEXT: Map153/events/2/pages/3/53/Dialogue
+> CONTEXT: Map153/events/16/pages/3/54/Dialogue
+> CONTEXT: Map153/events/17/pages/3/54/Dialogue
+Micah ......... Did you come ...?#MTLed
+> END STRING
+
+> BEGIN STRING
+ねぇ、なぜ彼女たちを殺したの？
+
+あんなに殺意をもって接しなくてもいいじゃない。
+> CONTEXT: Map153/events/2/pages/3/57/Dialogue
+> CONTEXT: Map153/events/16/pages/3/58/Dialogue
+> CONTEXT: Map153/events/17/pages/3/58/Dialogue
+Hey, why did you kill them? You do not have to
+kill me so much with murderous intent.#MTLed
+> END STRING
+
+> BEGIN STRING
+あの子達は、私みたいに殺そうとはしてない
+
+ ただあなたと気持ちよくなろうとしているだけなのに……
+> CONTEXT: Map153/events/2/pages/3/61/Dialogue
+> CONTEXT: Map153/events/16/pages/3/62/Dialogue
+> CONTEXT: Map153/events/17/pages/3/62/Dialogue
+Those kids are not trying to kill them like me
+I'm just trying to feel comfortable with you ....#MTLed
+> END STRING
+
+> BEGIN STRING
+ ………いや、無駄よね。
+
+あなたはもう悪魔だけでなく、既に人も殺してる………
+殺す『理由』なんて、聞くだけ野暮よね。
+> CONTEXT: Map153/events/2/pages/3/67/Dialogue
+> CONTEXT: Map153/events/16/pages/3/68/Dialogue
+> CONTEXT: Map153/events/17/pages/3/68/Dialogue
+......... No, that's useless. 
+You are already killing not only demon but also
+people already ......... To kill "reason" is
+nothing but indifferent to listening.#MTLed
+> END STRING
+
+> BEGIN STRING
+………僕も聞くだけ無駄だと思うけど………
+
+ひとつだけ、聞いてもいいか、ミカ。
+> CONTEXT: Map153/events/2/pages/3/73/Dialogue
+> CONTEXT: Map153/events/16/pages/3/74/Dialogue
+> CONTEXT: Map153/events/17/pages/3/74/Dialogue
+......... I think that just listening is useless
+......... One thing, can I ask you, Micah.#MTLed
+> END STRING
+
+> BEGIN STRING
+『あの日』のキャンプは、君が提案したって聞いた…
+
+道もほとんど舗装されてない、深い森の山……
+> CONTEXT: Map153/events/2/pages/3/77/Dialogue
+> CONTEXT: Map153/events/16/pages/3/78/Dialogue
+> CONTEXT: Map153/events/17/pages/3/78/Dialogue
+I heard that "wooof" of "that day" suggested you
+... A mountain in the deep forest, where the road
+is hardly paved......#MTLed
+> END STRING
+
+> BEGIN STRING
+だけどお前は……僕を殺す気だったわけじゃない
+
+ じゃなければ、お前はあの場所で叫ばなかった。
+> CONTEXT: Map153/events/2/pages/3/81/Dialogue
+> CONTEXT: Map153/events/16/pages/3/82/Dialogue
+> CONTEXT: Map153/events/17/pages/3/82/Dialogue
+But you are...I was not trying to kill you.
+If not, you did not shout at that place.#MTLed
+> END STRING
+
+> BEGIN STRING
+ミカ、どっちだ…………！！
+
+あの山で、僕を殺す気だったのは……！！
+ユウマか！！？レイナか！！？
+> CONTEXT: Map153/events/2/pages/3/86/Dialogue
+> CONTEXT: Map153/events/16/pages/3/87/Dialogue
+> CONTEXT: Map153/events/17/pages/3/87/Dialogue
+Micah, which one ............!!
+It was in that mountain that I was going to kill
+you ...!!Yuuma ?! !? Reina ?! !?#MTLed
+> END STRING
+
+> BEGIN STRING
+『殺す気』………
+
+そうね、そう見えて仕方ないわよね……
+実際、かなり強引な運び方だった………
+> CONTEXT: Map153/events/2/pages/3/93/Dialogue
+> CONTEXT: Map153/events/16/pages/3/94/Dialogue
+> CONTEXT: Map153/events/17/pages/3/94/Dialogue
+"I will kill" ....... Well, it looks like it can
+not be helped...Actually, it was quite a brutal
+way of carrying...... ...#MTLed
+> END STRING
+
+> BEGIN STRING
+だけど、誤解しないで……
+
+あの二人は、むしろ最後まで
+ あなたを助ける望みを捨てなかったの……
+> CONTEXT: Map153/events/2/pages/3/98/Dialogue
+> CONTEXT: Map153/events/16/pages/3/99/Dialogue
+> CONTEXT: Map153/events/17/pages/3/99/Dialogue
+But, do not get me wrong ......
+Those two, rather until the end
+I did not give up hope of helping you ...#MTLed
+> END STRING
+
+> BEGIN STRING
+だけど………もう………
+
+『目覚めて』しまった今となっては……
+> CONTEXT: Map153/events/2/pages/3/103/Dialogue
+> CONTEXT: Map153/events/16/pages/3/104/Dialogue
+> CONTEXT: Map153/events/17/pages/3/104/Dialogue
+But ......... already .........
+It is now supposed to "wake up" ......#MTLed
+> END STRING
+
+> BEGIN STRING
+ …………なるほど。
+よく分かったよ、ミカ。
+
+やっぱり君に聞いても、無駄だってことが……
+> CONTEXT: Map153/events/2/pages/3/110/Dialogue
+> CONTEXT: Map153/events/16/pages/3/111/Dialogue
+> CONTEXT: Map153/events/17/pages/3/111/Dialogue
+…………I see. I understood well, Micah.
+Even if I ask you, it is useless ......#MTLed
+> END STRING
+
+> BEGIN STRING
+でも、これでハッキリした………
+
+お前は『主犯』じゃない………
+レイナかユウマ、どちらかをかばってる………
+> CONTEXT: Map153/events/2/pages/3/115/Dialogue
+> CONTEXT: Map153/events/16/pages/3/116/Dialogue
+> CONTEXT: Map153/events/17/pages/3/116/Dialogue
+But, it cleared up with this...... ...
+You are not the "main offense" .........
+Reina or Yuuma, I'm protecting you either
+.........#MTLed
+> END STRING
+
+> BEGIN STRING
+じゃあ…お前にもう用はないよ…
+
+どのみち、まずはお前を殺してやる……！
+> CONTEXT: Map153/events/2/pages/3/134/Dialogue
+> CONTEXT: Map153/events/16/pages/3/135/Dialogue
+> CONTEXT: Map153/events/17/pages/3/135/Dialogue
+Well then...you have no more options ...
+Anyway, I will kill you first ...!#MTLed
+> END STRING
+
+> BEGIN STRING
+その『寄生』している悪魔ごと……
+
+地獄に落としてやるよ……ミカ！
+> CONTEXT: Map153/events/2/pages/3/138/Dialogue
+> CONTEXT: Map153/events/16/pages/3/139/Dialogue
+> CONTEXT: Map153/events/17/pages/3/139/Dialogue
+Every demon that "parasitizes" ......
+I will drop it in hell...Micah!#MTLed
+> END STRING
+
+> BEGIN STRING
+……怖いなぁ\\N[1]君……
+
+もう、ためらいなんて無いって感じだ……
+> CONTEXT: Map153/events/2/pages/3/143/Dialogue
+> CONTEXT: Map153/events/16/pages/3/144/Dialogue
+> CONTEXT: Map153/events/17/pages/3/144/Dialogue
+... I'm scared \\N[1] You……. I feel like I do
+not hesitate anymore ......#MTLed
+> END STRING
+
+> BEGIN STRING
+でも……私も知ってるんだよ……
+
+あなたが『快楽に堕ちる時』だけ
+元の優しい『\\N[1]』に戻れるって事……
+> CONTEXT: Map153/events/2/pages/3/147/Dialogue
+> CONTEXT: Map153/events/16/pages/3/148/Dialogue
+> CONTEXT: Map153/events/17/pages/3/148/Dialogue
+But...... I also know ......
+Only when you fall into pleasure
+Original gentle " \\N[1] I can return to ...#MTLed
+> END STRING
+
+> BEGIN STRING
+ミカは、おもむろに上着を脱ぎだした……
+> CONTEXT: Map153/events/2/pages/3/156/Dialogue
+> CONTEXT: Map152/events/34/pages/0/59/Dialogue
+> CONTEXT: Map152/events/35/pages/0/59/Dialogue
+> CONTEXT: Map152/events/36/pages/0/59/Dialogue
+> CONTEXT: Map152/events/37/pages/0/59/Dialogue
+> CONTEXT: Map152/events/38/pages/0/59/Dialogue
+> CONTEXT: Map153/events/16/pages/3/157/Dialogue
+> CONTEXT: Map152/events/39/pages/0/59/Dialogue
+> CONTEXT: Map153/events/17/pages/3/157/Dialogue
+Micah gradually took off his coat......#MTLed
+> END STRING
+
+> BEGIN STRING
+クスクス……♪
+
+今の私なら……カマソッソの魔力を持った私なら……
+あなたを誘惑することも出来るんだよ…♡
+> CONTEXT: Map153/events/2/pages/3/158/Dialogue
+> CONTEXT: Map153/events/16/pages/3/159/Dialogue
+> CONTEXT: Map153/events/17/pages/3/159/Dialogue
+* Giggle * ......♪. If it is me now...... If I
+have Camazotz 's magical power......
+I can seduce you too...♡#MTLed
+> END STRING
+
+> BEGIN STRING
+大人しく、犯されて…♡
+
+私の「仲間」になってよ…♡
+> CONTEXT: Map153/events/2/pages/3/163/Dialogue
+> CONTEXT: Map153/events/16/pages/3/164/Dialogue
+> CONTEXT: Map153/events/17/pages/3/164/Dialogue
+Alrighty, being fucked...♡. 
+My「Friend」Please become ...#MTLed
+> END STRING
+
+> BEGIN STRING
+あ………あぁ……そんな……
+
+カマソッソの力を使っても……だめなの……？
+> CONTEXT: Map153/events/2/pages/3/187/Dialogue
+> CONTEXT: Map153/events/16/pages/3/188/Dialogue
+> CONTEXT: Map153/events/17/pages/3/188/Dialogue
+Ah ......... Ah...... no ...
+Even if I use the power of Camazotz...... I do
+not ...?#MTLed
+> END STRING
+
+> BEGIN STRING
+ユウマ………レイナ…………
+
+ごめん…………なさい……………
+> CONTEXT: Map153/events/2/pages/3/191/Dialogue
+> CONTEXT: Map153/events/16/pages/3/192/Dialogue
+> CONTEXT: Map153/events/17/pages/3/192/Dialogue
+Yuuma ......... Reina ............
+I'm sorry……………#MTLed
+> END STRING
+
+> BEGIN STRING
+ミカは動かなくなった。
+
+ 死んだらしい。
+> CONTEXT: Map153/events/2/pages/3/203/Dialogue
+> CONTEXT: Map153/events/16/pages/3/204/Dialogue
+> CONTEXT: Map153/events/17/pages/3/204/Dialogue
+Micah has stopped moving. She seems to have died.#MTLed
+> END STRING
+
+> BEGIN STRING
+…………お前は誰だ…………
+
+さっきから、僕の頭の中にチラチラと………
+> CONTEXT: Map153/events/2/pages/3/219/Dialogue
+> CONTEXT: Map153/events/16/pages/3/220/Dialogue
+> CONTEXT: Map153/events/17/pages/3/220/Dialogue
+…………Who are you…………. From a little while ago in
+my head and .........#MTLed
+> END STRING
+
+> BEGIN STRING
+ティタノボアの時は、てっきり僕自身の力だと思った…
+でも違う………お前は、『僕』じゃない……！！
+
+アルケニーを取り込んでから……なぜ僕の中に……！？
+> CONTEXT: Map153/events/2/pages/3/223/Dialogue
+> CONTEXT: Map153/events/16/pages/3/224/Dialogue
+> CONTEXT: Map153/events/17/pages/3/224/Dialogue
+When thinking Titanoboa, I thought it was my own
+power clearly...But different.........you
+are not "me" ...!!After taking in Archeny ...
+... why inside me......!?#MTLed
+> END STRING
+
+> BEGIN STRING
+答えろ……
+
+貴様は、一体誰だ！！
+> CONTEXT: Map153/events/2/pages/3/228/Dialogue
+> CONTEXT: Map153/events/16/pages/3/229/Dialogue
+> CONTEXT: Map153/events/17/pages/3/229/Dialogue
+Answer me...Who the hell are you! !#MTLed
+> END STRING
+
+> BEGIN STRING
+………いいや。
+
+お前は僕だよ。\\N[1]。
+> CONTEXT: Map153/events/2/pages/3/233/Dialogue
+> CONTEXT: Map153/events/16/pages/3/234/Dialogue
+> CONTEXT: Map153/events/17/pages/3/234/Dialogue
+………No. You are mine. \\N[1] .#MTLed
+> END STRING
+
+> BEGIN STRING
+アルケニーは、僕の手を少し引っ張ったに過ぎない
+
+お前の『ためらい』を取り除いたんだ……
+> CONTEXT: Map153/events/2/pages/3/237/Dialogue
+> CONTEXT: Map153/events/16/pages/3/238/Dialogue
+> CONTEXT: Map153/events/17/pages/3/238/Dialogue
+Archeny just pulled a little bit on my hand
+I removed your "hesitation" ......#MTLed
+> END STRING
+
+> BEGIN STRING
+もうすこしだ………
+
+もう少しで、器は血で満たされる………
+> CONTEXT: Map153/events/2/pages/3/241/Dialogue
+> CONTEXT: Map153/events/16/pages/3/242/Dialogue
+> CONTEXT: Map153/events/17/pages/3/242/Dialogue
+Little more. A little more, the vessel is filled
+with blood .........#MTLed
+> END STRING
+
+> BEGIN STRING
+さぁ……あと二人………
+
+僕を殺そうとした奴らに罰を与えるんだ……
+> CONTEXT: Map153/events/2/pages/3/245/Dialogue
+> CONTEXT: Map153/events/16/pages/3/246/Dialogue
+> CONTEXT: Map153/events/17/pages/3/246/Dialogue
+Now...... two others .........
+Punish those who tried to kill me ....#MTLed
+> END STRING
+
+> BEGIN STRING
+奴らの最後の命乞いと断末魔を……
+
+『懺悔』を、聞いてやれ………
+> CONTEXT: Map153/events/2/pages/3/249/Dialogue
+> CONTEXT: Map153/events/16/pages/3/250/Dialogue
+> CONTEXT: Map153/events/17/pages/3/250/Dialogue
+Let their last dying beggars and fallen gates
+...... Listen to "confession" .........#MTLed
+> END STRING
+
+> BEGIN STRING
+いいさ……
+
+もう僕には、人間も悪魔も……関係ない……
+手を貸してくれるなら、誰だっていい……
+> CONTEXT: Map153/events/2/pages/3/262/Dialogue
+> CONTEXT: Map153/events/16/pages/3/263/Dialogue
+> CONTEXT: Map153/events/17/pages/3/263/Dialogue
+Nice thing .... To myself, neither man nor demon
+......does not matter...If you lend me a
+hand, anyone can......#MTLed
+> END STRING
+
+> BEGIN STRING
+ユウマ……レイナ……
+
+お前たちから、真実を聞き出してやる……
+> CONTEXT: Map153/events/2/pages/3/267/Dialogue
+> CONTEXT: Map153/events/16/pages/3/268/Dialogue
+> CONTEXT: Map153/events/17/pages/3/268/Dialogue
+Yuuma ...... Reina ...... I will hear the truth
+from you ...#MTLed
+> END STRING

@@ -1,0 +1,1381 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+親密度が１００必要。
+（現在の値：\\V[49]）
+> CONTEXT: Map119/events/3/pages/0/18/Dialogue
+Familiarity needs 100. (Current value: \\V[49] )#MTLed
+> END STRING
+
+> BEGIN STRING
+親密度が２５以上必要。
+（現在の値：\\V[49]）
+> CONTEXT: Map119/events/4/pages/0/0/Dialogue
+Familiarity must be 25 or more. (Current value: \\V[49] )#MTLed
+> END STRING
+
+> BEGIN STRING
+ククク……
+
+どうしたんだい？喰われに来たのかい？
+> CONTEXT: Map119/events/5/pages/0/18/Dialogue
+Hehehe ...... what's up? Did you come to be
+eaten?#MTLed
+> END STRING
+
+> BEGIN STRING
+雑談する en(v[49] \>= 25)
+> CONTEXT: Map119/events/5/pages/0/24/Choice/0
+To chaten(v[49] \>= 25)#MTLed
+> END STRING
+
+> BEGIN STRING
+搾精（抱き）en(v[49] \>= 25)
+> CONTEXT: Map119/events/5/pages/0/24/Choice/1
+milking (Hug)en(v[49] \>= 25)#MTLed
+> END STRING
+
+> BEGIN STRING
+搾精（倒し）en(v[49] \>= 50)
+> CONTEXT: Map119/events/5/pages/0/24/Choice/2
+milking (kill)en(v[49] \>= 50)#MTLed
+> END STRING
+
+> BEGIN STRING
+………あたいは贈り物とかにはあまり興味はないけど
+
+そういうのが好きって思われてるんなら、心外だねぇ
+> CONTEXT: Map119/events/5/pages/0/192/Dialogue
+......... I do not care much about gifts or
+something. If you think that you like it, it's
+out of the heart#MTLed
+> END STRING
+
+> BEGIN STRING
+あたいが欲しいのは『動く獲物』……
+
+そして、綺麗な鉱石さ。
+> CONTEXT: Map119/events/5/pages/0/196/Dialogue
+What I want is "moving prey" ...
+And, it is a beautiful ore.#MTLed
+> END STRING
+
+> BEGIN STRING
+心蝕を消すif(v[49] \>= 100)
+> CONTEXT: Map119/events/5/pages/0/208/Choice/0
+Erase mind corruptionif(v[49] \>= 100)#MTLed
+> END STRING
+
+> BEGIN STRING
+ああ、憎たらしいねぇ……
+
+いいさ……その代わりに『恐怖』を
+たっぷり植え付けてやるかね…？
+> CONTEXT: Map119/events/5/pages/0/219/Dialogue
+Oh, I'm hated...Nice...... instead of
+"Afraid". I will plant a lot of ...?#MTLed
+> END STRING
+
+> BEGIN STRING
+"アルケニーの心蝕が治った！！"
+> CONTEXT: Map119/events/5/pages/0/231/InlineScript/1:13
+"アルケニー's mind corruption cured!!"#MTLed
+> END STRING
+
+> BEGIN STRING
+ふん…！話、ねぇ………
+
+まぁいいさ、何が聞きたいんだい？
+> CONTEXT: Map119/events/5/pages/1/1/Dialogue
+Hmm…! Story, hey ......... very well, what would
+you like to ask?#MTLed
+> END STRING
+
+> BEGIN STRING
+アルケニーについてen(v[49] \>= 30)
+> CONTEXT: Map119/events/5/pages/1/7/Choice/0
+About Archenyen(v[49] \>= 30)#MTLed
+> END STRING
+
+> BEGIN STRING
+アルケニーの糸en(v[49] \>= 40)
+> CONTEXT: Map119/events/5/pages/1/7/Choice/1
+Archeny threaden(v[49] \>= 40)#MTLed
+> END STRING
+
+> BEGIN STRING
+使い魔en(v[49] \>= 60)
+> CONTEXT: Map119/events/5/pages/1/7/Choice/2
+Usagien(v[49] \>= 60)#MTLed
+> END STRING
+
+> BEGIN STRING
+まさかとは思うけど、お前さん
+
+あたいと話して、楽しい雑談になるとは思ってないよねぇ？
+> CONTEXT: Map119/events/5/pages/1/13/Dialogue
+I do not care, but you. I do not think it will be
+a fun chat with talking to me, right?#MTLed
+> END STRING
+
+> BEGIN STRING
+あたいの性格はちゃんと分かっているはずだろ？
+
+ 明るく楽しいおしゃべりがしたいなら、他の女悪魔を
+ あたるといいよ。
+> CONTEXT: Map119/events/5/pages/1/17/Dialogue
+You ought to know your character properly, are
+not you? If you want a bright and fun chat, other
+women demon. You may as well.#MTLed
+> END STRING
+
+> BEGIN STRING
+あたいにとって、人間はエサでしかないからね。
+
+そこはあたいにとっては絶対に変わらないし
+人間のお前さんにとっちゃ、嫌な話題しかないよ。
+> CONTEXT: Map119/events/5/pages/1/22/Dialogue
+For humans, humans are only foods.
+That's absolutely unchanged for me
+For a human you only have a bad topic.#MTLed
+> END STRING
+
+> BEGIN STRING
+それは分かってるよ……。
+
+でも僕はアルケニーの事を、容赦ない性格って事ぐらいしか
+今のところ知らない。
+> CONTEXT: Map119/events/5/pages/1/27/Dialogue
+I know that....... But I think Archeny is about
+a merciless personality. I do not know so far.#MTLed
+> END STRING
+
+> BEGIN STRING
+別に、謝罪や理由を聞きたいわけでもない
+
+ ただ君の事を、知りたいだけだ。
+> CONTEXT: Map119/events/5/pages/1/32/Dialogue
+Apart from that, I do not want to ask apologies
+or reasons. I just want to know about you.#MTLed
+> END STRING
+
+> BEGIN STRING
+……………………………
+
+本当に、変わった奴だね。お前さんは。
+> CONTEXT: Map119/events/5/pages/1/37/Dialogue
+...............................
+Really, it is a strange person. You guys.#MTLed
+> END STRING
+
+> BEGIN STRING
+とはいえ、話すっていっても、何を話したもんかね……
+
+人間だった頃の記憶があれば、話のネタの一つにでも
+ なったもんだろうけど……
+> CONTEXT: Map119/events/5/pages/1/41/Dialogue
+Nonetheless, even if you talk, what did you talk
+about ...... If you remember when you were a
+human being, even as one of the stories
+I guess it would have been.......#MTLed
+> END STRING
+
+> BEGIN STRING
+！？
+
+ 『人間だった頃』って…！？
+> CONTEXT: Map119/events/5/pages/1/47/Dialogue
+!? "When I was a human being" ...!?#MTLed
+> END STRING
+
+> BEGIN STRING
+あたいはもともと、機織りの女だったのさ
+
+あるクソ女神のせいで、こんな悪魔に転生しちまったがね。
+> CONTEXT: Map119/events/5/pages/1/51/Dialogue
+I was originally a weaverd woman
+Due to the shit goddess, I got incompatible with
+demon like this.#MTLed
+> END STRING
+
+> BEGIN STRING
+クックッ……大昔の話だよ。
+
+ 織物を司る女神が、普通の人間と勝負して負けるだなんて
+ あっちゃいけないからねぇ。
+> CONTEXT: Map119/events/5/pages/1/55/Dialogue
+...... It's an old story. The goddess who
+controls the fabric is going to lose with an
+ordinary human being. I guess it's wrong.#MTLed
+> END STRING
+
+> BEGIN STRING
+おっと！変な勘違いをされる前に釘を刺しとくよ。
+
+あたいの性格は、人間の頃からひねくれていたのさ
+最初に喧嘩をふっかけたのも、あたいの方からだった。
+> CONTEXT: Map119/events/5/pages/1/63/Dialogue
+Oops! I'll pierce the nails before they get
+strange misunderstandings. My personality has
+been twitching since human beings
+It was from me as well that I got a fight first.#MTLed
+> END STRING
+
+> BEGIN STRING
+今でも、自分の方が織物の腕は上だったと思ってるよ。
+
+だけどあの時のあたいは、少し愚かだったのさ。
+> CONTEXT: Map119/events/5/pages/1/68/Dialogue
+Even now, I think that my arm is above the
+fabric. But at that time I was a little stupid.#MTLed
+> END STRING
+
+> BEGIN STRING
+周りから称賛されて、自惚れて……
+
+あのクソ女神だって、最初は忠告しに来ていたんだよ。
+> CONTEXT: Map119/events/5/pages/1/72/Dialogue
+Praised from around us, confident in him ......
+Even that fucking goddess had come to advise at
+first.#MTLed
+> END STRING
+
+> BEGIN STRING
+だからこそ、転生させられたこの身体は
+
+あたいを『戒める』要素がたっぷり詰まっている。
+> CONTEXT: Map119/events/5/pages/1/76/Dialogue
+That's why this body that was incarnated
+There are plenty of elements to "warn" me.#MTLed
+> END STRING
+
+> BEGIN STRING
+………そうさね、例えば、この後ろ髪。
+
+ヴェールみたいに、１つにまとまっていて綺麗だろう？
+> CONTEXT: Map119/events/5/pages/1/81/Dialogue
+......... Okay, for example, this back hair.
+Like a veil, is it beautiful as one gathered?#MTLed
+> END STRING
+
+> BEGIN STRING
+こいつは、身を包めば周りの景色に同化しちまう
+迷彩機能もあるし、頭に自由に出し入れできる。
+
+ 一見、便利な身体の一部さ。
+> CONTEXT: Map119/events/5/pages/1/85/Dialogue
+This guy assimilates into the surrounding scenery
+if you wrap yourself. There is also camouflage
+function, you can freely put in and out of your
+head. At first glance, part of the body that is
+convenient.#MTLed
+> END STRING
+
+> BEGIN STRING
+……でもね、あたいはこれを滅多に使わない。
+
+なぜだか分かるかい？\\N[1]。
+> CONTEXT: Map119/events/5/pages/1/90/Dialogue
+But...I do not use this rarely.
+Do you know why? \\N[1] .#MTLed
+> END STRING
+
+> BEGIN STRING
+い、いや……？
+
+その女神を思い出させる何かがある、とか…？
+> CONTEXT: Map119/events/5/pages/1/95/Dialogue
+No……? Is there something to remind the goddess
+...?#MTLed
+> END STRING
+
+> BEGIN STRING
+編んであるんだよ、このヴェールは。
+
+例のクソ女神との織物対決の際、
+『あたいが織った織物の織り方』そのままに。
+> CONTEXT: Map119/events/5/pages/1/100/Dialogue
+I am knitting, this veil. In case of weaving
+confrontation with an example shito goddess,
+"How the weave of the weave woven" as it is.#MTLed
+> END STRING
+
+> BEGIN STRING
+あのクソ女神は、許す気なんてないのさ。
+
+ 邪な心でこんなものを織った、あの日のあたいをね。
+> CONTEXT: Map119/events/5/pages/1/105/Dialogue
+That fucking goddess does not want to forgive.
+I woven such things with evil heart, that day.#MTLed
+> END STRING
+
+> BEGIN STRING
+だから、この姿は自業自得。
+
+今となっては、むしろ悪魔の生活を楽しんでいるよ。
+お前さんも知っての通りね。
+> CONTEXT: Map119/events/5/pages/1/109/Dialogue
+So, this figure is self-sufficient.
+Right now I am enjoying the life of demon.
+You know as you also know.#MTLed
+> END STRING
+
+> BEGIN STRING
+どうだい？少しはあたいが好きになったかい？
+
+ 怖くておぞましいって気持ちが、少しでも和らいだかい？
+> CONTEXT: Map119/events/5/pages/1/116/Dialogue
+How are you? Did you like a little more?
+Do you feel scary and horrible, even a little?#MTLed
+> END STRING
+
+> BEGIN STRING
+ククク…！正直な眼だね……
+
+そのままくり貫いて、飾りにしたいくらいだ…
+> CONTEXT: Map119/events/5/pages/1/122/Dialogue
+Hehehe ...! It is an honest eyes ...
+I just want to dress up and decorate as it is ...#MTLed
+> END STRING
+
+> BEGIN STRING
+なるほどねぇ……♡
+
+お前さんに女悪魔たちが惹かれるのは
+ その正直な『眼』のせいなのかもしれないねぇ
+> CONTEXT: Map119/events/5/pages/1/126/Dialogue
+I see.... You guys are attracted to
+women demons. It may be because of that honest
+"eye"#MTLed
+> END STRING
+
+> BEGIN STRING
+ああ、ますます独り占めしたい気分になってきたよ…
+> CONTEXT: Map119/events/5/pages/1/131/Dialogue
+Oh, it came to feel like I want to have more
+monopoly ...#MTLed
+> END STRING
+
+> BEGIN STRING
+（ど、どんどん息が荒くなってる……
+
+　怖い……）
+> CONTEXT: Map119/events/5/pages/1/133/Dialogue
+(Oh, more and more My breath is getting rough ...
+scared……)#MTLed
+> END STRING
+
+> BEGIN STRING
+あたいの糸は二種類あるよ。
+
+ 拘束用の頑丈な糸と、愛液が混ざったドロドロ糸。
+> CONTEXT: Map119/events/5/pages/1/142/Dialogue
+There are two kinds of threads.
+A solid string for bound and a loose droplet
+thread mixed with love juice.#MTLed
+> END STRING
+
+> BEGIN STRING
+何か特異な部分があるとするなら、
+ 普通の悪魔の生成物と違って、魔力を使ってない所かね。
+
+お腹の中でかき混ぜて、使う分だけ即座に生成するのさ。
+> CONTEXT: Map119/events/5/pages/1/146/Dialogue
+If there is something peculiar,
+Unlike ordinary demon 's products, is it not
+using magical powers? Stir in the belly and
+immediately generate as much as you can.#MTLed
+> END STRING
+
+> BEGIN STRING
+だから獲物に絡み付いた糸は、外の気温で伸縮して
+
+細かい振動を繰り返して、相手をくすぐり続ける。
+> CONTEXT: Map119/events/5/pages/1/151/Dialogue
+So the thread entangled in the prey expanded and
+contracted at the outside temperature
+Repeat fine vibrations, keep tickling your
+opponent.#MTLed
+> END STRING
+
+> BEGIN STRING
+あたいに糸で捕まっていた時、気持ちよかっただろう？
+
+あれは張り付いた糸が、身体中を蠢いているからなんだよ。
+> CONTEXT: Map119/events/5/pages/1/155/Dialogue
+When I was caught by thread, was it comfortable?
+That is because the sticky thread is wandering
+through the body.#MTLed
+> END STRING
+
+> BEGIN STRING
+そう言いながら、アルケニーはこちらに
+
+糸の射出口をゆっくり開いて見せた。
+> CONTEXT: Map119/events/5/pages/1/163/Dialogue
+While saying that, Archeny is here. I slowly opened the
+injection opening of the thread and showed it.#MTLed
+> END STRING
+
+> BEGIN STRING
+その中は内側にヒダや小さな触手が規則的にびっしり並び
+
+ グロテスクながらも、いやらしく脈動している……
+> CONTEXT: Map119/events/5/pages/1/167/Dialogue
+Among them, folds and small tentacles are regularly densely
+arranged on the inside. Although grotesque, it is
+irritatingly pulsating......#MTLed
+> END STRING
+
+> BEGIN STRING
+う、うぅ……♡
+> CONTEXT: Map119/events/5/pages/1/171/Dialogue
+Uooh ...#MTLed
+> END STRING
+
+> BEGIN STRING
+クックックッ……そんなに真面目に見るもんじゃないよ。
+
+ 悪魔の搾精部位は、見た目でも誘惑してくるからね。
+> CONTEXT: Map119/events/5/pages/1/173/Dialogue
+He He Heh ...... I do not look so serious.
+The milking part of demon will seduce even if it
+looks.#MTLed
+> END STRING
+
+> BEGIN STRING
+搾精の他に、獲物を捕まえた『使い魔』を
+
+そのままくわえこんで吸収したりもできる、便利な器官さ。
+> CONTEXT: Map119/events/5/pages/1/177/Dialogue
+In addition to milking, you can also use
+"magician" who captured prey. 
+It is a convenient organ that can be absorbed as
+it is.#MTLed
+> END STRING
+
+> BEGIN STRING
+もし、お前さんが望むんだったら……
+
+こっちの口で、丸呑みしてやってもいいんだよ…♡
+> CONTEXT: Map119/events/5/pages/1/181/Dialogue
+If you wish...... You can swallow it with this
+mouth...♡#MTLed
+> END STRING
+
+> BEGIN STRING
+や、やっぱりできるんだ……
+
+そっちでも丸呑み………
+> CONTEXT: Map119/events/5/pages/1/185/Dialogue
+Or you can do it...after all ...
+Who also swallows..........#MTLed
+> END STRING
+
+> BEGIN STRING
+ああ、普段は上からだけどね。
+
+ 顎のポンプで呑みやすいし、ケツで呑むと身体の構造上
+ 消化するまで糸が出せなくなっちまうからさ。
+> CONTEXT: Map119/events/5/pages/1/189/Dialogue
+Oh, it's usually from the top.
+It is easy to swallow with a pump of jaws, and
+when you swallow with asses it is due to the
+structure of the body. I will not be able to put
+out thread until it gets digested.#MTLed
+> END STRING
+
+> BEGIN STRING
+やろうと思えば、上と下で二匹同時に喰えるよ…
+
+しばらく完全に動けなくなるから、滅多にしないけどね。
+> CONTEXT: Map119/events/5/pages/1/194/Dialogue
+If you want to do, you can eat two at the same
+time at the top and bottom ...
+It will not move completely for a while, so I
+rarely do it.#MTLed
+> END STRING
+
+> BEGIN STRING
+っていうかだいたいお前、悪魔に食事は必要ないだろ？
+
+なんでそんなに、搾精部位が多いんだよ！
+> CONTEXT: Map119/events/5/pages/1/202/Dialogue
+You mean I do not need a meal in demon?
+Why so much, there are a lot of milking parts!#MTLed
+> END STRING
+
+> BEGIN STRING
+夢魔でもないなら、半年実体化を維持するのにも
+精気の量は人間一人分も要らない。
+
+あんな大規模な巣だって必要ないはずだ。
+> CONTEXT: Map119/events/5/pages/1/206/Dialogue
+If it is not a dreamer, even to maintain
+materialization for six months
+The amount of mind does not need one human being.
+You should not need such a large nest.#MTLed
+> END STRING
+
+> BEGIN STRING
+なんだい？この使い魔は。
+
+ 随分と生意気な口を利くじゃないか。
+> CONTEXT: Map119/events/5/pages/1/212/Dialogue
+What is it? This magician is. 
+You are going to have a very cheeky mouth.#MTLed
+> END STRING
+
+> BEGIN STRING
+なんなら、お前のちっぽけな魔力でもいいんだよ？
+
+ちょろっと尻尾から吸ってやれば、一瞬だろうねぇ
+> CONTEXT: Map119/events/5/pages/1/216/Dialogue
+What can I do for your small magical power?
+If you smoke from the tail for a while, it will
+be a moment#MTLed
+> END STRING
+
+> BEGIN STRING
+うっ…ううぅ…
+> CONTEXT: Map119/events/5/pages/1/220/Dialogue
+ugh...Uoo ...#MTLed
+> END STRING
+
+> BEGIN STRING
+（逃げた………）
+> CONTEXT: Map119/events/5/pages/1/224/Dialogue
+(ran away………)#MTLed
+> END STRING
+
+> BEGIN STRING
+クックックッ……あたいが暴食な理由ねぇ。
+
+ 十中八九、あのクソ女神のあてつけだろうよ。
+> CONTEXT: Map119/events/5/pages/1/227/Dialogue
+He He Heh ...... That's why you are crazy.
+Ten to nine, it will be the shit of that fucking
+goddess.#MTLed
+> END STRING
+
+> BEGIN STRING
+ヤツは、あたいが人間を次々に襲って……
+
+その度に、あたいの身体が醜く変形して欲しいのさ。
+> CONTEXT: Map119/events/5/pages/1/231/Dialogue
+He is the one who attacks humans one after
+another...... Every time I want my body to be
+deformed ugly.#MTLed
+> END STRING
+
+> BEGIN STRING
+じゃなきゃ、かつての人の身体の部位を残して
+
+呪いであたいを転生させたりしないだろうよ。
+> CONTEXT: Map119/events/5/pages/1/235/Dialogue
+If not, leave the body part of the former person
+I will not reincarnate a curse.#MTLed
+> END STRING
+
+> BEGIN STRING
+……あたいも相手の事は言えない性格とはいえ
+
+あのクソ女神も、いい趣味してるね、まったく……
+> CONTEXT: Map119/events/5/pages/1/239/Dialogue
+...... Even as a personality I can not say the
+other party. That damn goddess also has a nice
+taste, absolutely......#MTLed
+> END STRING
+
+> BEGIN STRING
+巣の中にいた、子蜘蛛みたいな使い魔……
+
+あれは、アルケニーの……子供？
+> CONTEXT: Map119/events/5/pages/1/250/Dialogue
+A magician like a child spider in the nest ...
+That, Archeny's...... child?#MTLed
+> END STRING
+
+> BEGIN STRING
+クッハッハッハッ！！
+
+お前さん、あたいのことをエイリアンか何かと
+勘違いしてるみたいだねぇ…！
+> CONTEXT: Map119/events/5/pages/1/255/Dialogue
+Kuh!! You, something with an alien or something
+She seems to misunderstand ...!#MTLed
+> END STRING
+
+> BEGIN STRING
+これは魔力で生成した使い魔さ、名前はアコニートゥム。
+
+あたいの忠実なしもべ……
+> CONTEXT: Map119/events/5/pages/1/266/Dialogue
+This is a magician created with magical power,
+the name is Aconitum. My faithful servant......#MTLed
+> END STRING
+
+> BEGIN STRING
+あたいの巣は広いだろう？
+
+元々の用途は、獲物が複数落ちてきて、相手しきれない時に
+こいつらを巣に放って、捕まえさせる事だったのさ。
+> CONTEXT: Map119/events/5/pages/1/270/Dialogue
+Is my nest wide? Originally used, when multiple
+prey dropped down, and you can not compare it
+It was to let them get caught in their nests.#MTLed
+> END STRING
+
+> BEGIN STRING
+こいつが下半身に張り付いたが最期……
+
+足から腹部に取り込まれて、獲物は身体を消化される。
+> CONTEXT: Map119/events/5/pages/1/275/Dialogue
+This guy stuck to the lower body but the last ...
+... Incorporated into the abdomen from the foot,
+prey digested the body.#MTLed
+> END STRING
+
+> BEGIN STRING
+後はあたいが好きなタイミングで喰えるってワケさ。
+
+お前さんも、あたいの巣を通るとき、沢山見ただろう？
+天井から吊るされた、哀れなエサたちを……
+> CONTEXT: Map119/events/5/pages/1/279/Dialogue
+After that it was okay to eat at the timing I
+like. You also saw plenty when you passed through
+my nest? Pitiful foods hung from the ceiling
+......#MTLed
+> END STRING
+
+> BEGIN STRING
+……………ああ。
+> CONTEXT: Map119/events/5/pages/1/285/Dialogue
+> CONTEXT: Commonevents/239/307/Dialogue
+> CONTEXT: Commonevents/247/315/Dialogue
+……………Oh.#MTLed
+> END STRING
+
+> BEGIN STRING
+……………ククッ
+本当にお前さんは、よく分からないやつだねぇ。
+
+あの光景を見てもなお、あたいを生かしたのかい？
+> CONTEXT: Map119/events/5/pages/1/288/Dialogue
+............... Truly, you do not know well, hey.
+Even if I saw that sight, did you still make use
+of me?#MTLed
+> END STRING
+
+> BEGIN STRING
+あたいに犯されているときだって、
+ 話をするためにこうやって対面しているときでさえ
+
+ お前さんの眼には必ず『恐怖』がある。
+> CONTEXT: Map119/events/5/pages/1/293/Dialogue
+Even when you are being fucked badly,
+Even when I face this way to talk
+There is always "Afraid" in your eyes.#MTLed
+> END STRING
+
+> BEGIN STRING
+なぜ、そうまでしてあたいを理解しようとするんだい？
+
+お前さんにとっては、あたいは憎い『敵』のはずだ。
+> CONTEXT: Map119/events/5/pages/1/298/Dialogue
+Why are you trying to understand me so much?
+For you, I should be a hateful "enemy".#MTLed
+> END STRING
+
+> BEGIN STRING
+…………正直、僕にも分からない。
+> CONTEXT: Map119/events/5/pages/1/304/Dialogue
+............ To be honest, I do not know.#MTLed
+> END STRING
+
+> BEGIN STRING
+だけど、これまでにいろんな悪魔と接してきて、
+
+ 僕の中でも、ひとつハッキリした事がある。
+> CONTEXT: Map119/events/5/pages/1/306/Dialogue
+However, until now I have come across various
+demons, Even among me, I have had something
+clear.#MTLed
+> END STRING
+
+> BEGIN STRING
+みんな、それぞれ人を襲う理由は違うけれど
+
+相手を殺す必要は、必ずしもあるわけではないって。
+> CONTEXT: Map119/events/5/pages/1/310/Dialogue
+Everyone, why they attack each person is
+different. You do not necessarily need to kill
+your opponent.#MTLed
+> END STRING
+
+> BEGIN STRING
+そりゃあ、向こうは元々こちらの魂を奪いに来ているし
+
+理解したからって、完全に味方になるとは限らない。
+> CONTEXT: Map119/events/5/pages/1/314/Dialogue
+Ok then, the other side has originally come to
+take away this soul. Because you understand, it
+does not always become a friend.#MTLed
+> END STRING
+
+> BEGIN STRING
+だけど、ここにいる皆は、僕のことを信じてくれた。
+
+ 時間はかかるかもしれないけど……
+僕も彼女たちの話を聞いて、少しでも理解したいんだ。
+> CONTEXT: Map119/events/5/pages/1/318/Dialogue
+But, everyone here believed in me.
+It may take time, but...I also want to
+understand even a little by listening to their
+stories.#MTLed
+> END STRING
+
+> BEGIN STRING
+だから、君も『ここに来た』って事は、きっと……
+> CONTEXT: Map119/events/5/pages/1/323/Dialogue
+So, it is surely that you "came here" ...#MTLed
+> END STRING
+
+> BEGIN STRING
+クッ………クッハッハッハッハ！！
+
+いきなり何を語り出すかと思えば………
+> CONTEXT: Map119/events/5/pages/1/326/Dialogue
+Cut...... ...!! If you think what you are
+talking about suddenly .........#MTLed
+> END STRING
+
+> BEGIN STRING
+このマイルームに来ている連中……
+
+お前さんが慈悲をかけたやつらは、人を殺める立場にいる。
+> CONTEXT: Map119/events/5/pages/1/330/Dialogue
+Those who are in this my room ......
+Those in whom you merciful are in a position to
+kill people.#MTLed
+> END STRING
+
+> BEGIN STRING
+どんな言葉で擁護したって無駄さ。
+
+お前さんは『人殺し』と仲良くしてるんだよ。
+> CONTEXT: Map119/events/5/pages/1/334/Dialogue
+It is a waste of defense in what language.
+You are making friends with "murder".#MTLed
+> END STRING
+
+> BEGIN STRING
+お前さんにとっちゃ、彼女たちを傷付けることは
+間違ってる事なんだろうが…
+
+受け入れることが『正しい事』ではないんだよ。
+> CONTEXT: Map119/events/5/pages/1/338/Dialogue
+To you, to hurt them. I wonder what's wrong ...
+Accepting is not "right thing".#MTLed
+> END STRING
+
+> BEGIN STRING
+馬鹿だねぇ……
+
+お前さんってやつは、本当に……
+> CONTEXT: Map119/events/5/pages/1/343/Dialogue
+You're stupid...You guys are really......#MTLed
+> END STRING
+
+> BEGIN STRING
+…………だけど、愚か者じゃない。
+
+ 誰にでも出来るようなことじゃないよ、絶対に。
+> CONTEXT: Map119/events/5/pages/1/350/Dialogue
+............ But it's not a fool.
+It's not like anyone can do it, absolutely.#MTLed
+> END STRING
+
+> BEGIN STRING
+悪魔の考え方は、基本的に弱肉強食だ。
+
+ 強い者が弱い者を、力で従える……。
+> CONTEXT: Map119/events/5/pages/1/354/Dialogue
+The idea of ​​demon is basically a weak junkie.
+A strong person obeys a weak person, with power
+......#MTLed
+> END STRING
+
+> BEGIN STRING
+お前さんはそれができるのに、あえて従わせない。
+
+ 自分の精神に招き入れて、理解しようとしてる。
+> CONTEXT: Map119/events/5/pages/1/358/Dialogue
+You can do it, I will not let it obey.
+I am trying to understand it by inviting it to my
+spirit.#MTLed
+> END STRING
+
+> BEGIN STRING
+そして今度は、あたいすらも手込めにする気かい？
+
+クククッ……面白いじゃないか。
+> CONTEXT: Map119/events/5/pages/1/363/Dialogue
+And this time, are you trying to put even on me?
+Hehehe...... Is not it interesting?#MTLed
+> END STRING
+
+> BEGIN STRING
+いつかその偽りない真っ直ぐな眼差しを
+ あたいへの恐怖と服従心で満たしてあげるよ……♡
+
+楽しみにしてな…♡
+> CONTEXT: Map119/events/5/pages/1/367/Dialogue
+Someday that truly straight eyes
+I'll fill it with Afraid and Submissive hearts
+for me...___. Look forward to...♡#MTLed
+> END STRING
+
+> BEGIN STRING
+【キズナイベント】if(v[49] \>= 99)
+> CONTEXT: Map119/events/5/pages/1/377/Choice/0
+【Bonding】if(v[49] \>= 99)#MTLed
+> END STRING
+
+> BEGIN STRING
+さて………
+
+そろそろ潮時かねぇ
+> CONTEXT: Map119/events/5/pages/1/383/Dialogue
+Now………. soon I wonder when it's time to tide#MTLed
+> END STRING
+
+> BEGIN STRING
+お前さんは、きっとこう思っているんだろう？
+
+ 『この部屋にいる限り、自分は死ぬことがない』
+> CONTEXT: Map119/events/5/pages/1/388/Dialogue
+You guys surely think like this, do not you?
+"As long as you stay in this room, you will never
+die"#MTLed
+> END STRING
+
+> BEGIN STRING
+『だから搾り殺される心配もない。』
+
+ 『安心して、アルケニーに搾ってもらえる』ってね…
+> CONTEXT: Map119/events/5/pages/1/392/Dialogue
+"So you do not have to worry about being squeezed
+and killed. ". "I can rest assuredly Archeny" ...#MTLed
+> END STRING
+
+> BEGIN STRING
+気にくわない理屈だけど、おおむねその通りさね。
+
+あたいは、お前さんの魂を奪うことはできない。
+> CONTEXT: Map119/events/5/pages/1/398/Dialogue
+I do not like the reason, but it is almost that
+street. I can not take away your soul.#MTLed
+> END STRING
+
+> BEGIN STRING
+だけど………精神体をあたいの腹の中に収めたままにして
+
+永遠に溶かし続けることはできるんだよ……
+> CONTEXT: Map119/events/5/pages/1/403/Dialogue
+But.........keeping the spiritual body in my
+abdomen. I can continue to melt for eternity
+......#MTLed
+> END STRING
+
+> BEGIN STRING
+クックックッ……
+
+一瞬たじろいだねぇ。さすがに初耳だったかい？
+> CONTEXT: Map119/events/5/pages/1/409/Dialogue
+He He Heh ...... It is awful for a moment. Was he
+sure that was his first ears?#MTLed
+> END STRING
+
+> BEGIN STRING
+この部屋を含む『マイルーム』は
+
+ お前さんの精神世界の一部……意識の海の片隅さ。
+> CONTEXT: Map119/events/5/pages/1/413/Dialogue
+"My room" including this room. 
+A part of your spiritual world ...... It is a
+corner of the sea of ​​consciousness.#MTLed
+> END STRING
+
+> BEGIN STRING
+つまり、お前さんは自分を構成する頭の中に
+
+干渉を望んだ悪魔を招き入れてるようなもんなんだよ。
+> CONTEXT: Map119/events/5/pages/1/417/Dialogue
+In other words, you are in your head
+It seems like inviting demon who wanted
+interference.#MTLed
+> END STRING
+
+> BEGIN STRING
+そうさ、こんな性悪な悪魔すら招き入れたお前さんは
+
+ とんだ阿呆だってことだよ……！
+> CONTEXT: Map119/events/5/pages/1/421/Dialogue
+Okay, you guys who even invited such an evil
+demon. It's just a fantasy......!#MTLed
+> END STRING
+
+> BEGIN STRING
+
+アルケニーは、\\N[1]に突然襲いかかってきた！！
+> CONTEXT: Map119/events/5/pages/1/427/Dialogue
+Archeny, \\N[1] Suddenly it was attacking! !#MTLed
+> END STRING
+
+> BEGIN STRING
+おや、気が付いたかい。
+
+まだ身体が戻ってないから、もう少し寝てると思ったよ。
+> CONTEXT: Map119/events/5/pages/1/446/Dialogue
+Oh, did you notice? I still thought that I was a
+little sleeping because my body was not back yet.#MTLed
+> END STRING
+
+> BEGIN STRING
+どうせ、自然と身体も元に戻っていくんだろうが
+
+ こいつを使って再構築したほうが、幾分か早いだろう。
+> CONTEXT: Map119/events/5/pages/1/450/Dialogue
+Anyway, nature and the body will return to the
+original. It would be somewhat earlier to rebuild
+with this one.#MTLed
+> END STRING
+
+> BEGIN STRING
+………………『どうして？』とでも聞きたそうな顔だねぇ。
+
+ 憎たらしいやつだよ、本当に………
+> CONTEXT: Map119/events/5/pages/1/456/Dialogue
+………………"why? I heard that it is a face I heard.
+It is a hated guy, really...... ...#MTLed
+> END STRING
+
+> BEGIN STRING
+お前さんは正直すぎるんだ。
+
+ 呑まれる直前になっても、お前さんはあたいを信じた。
+> CONTEXT: Map119/events/5/pages/1/460/Dialogue
+You are too honest. Even though I was getting
+swallowed, you believed me.#MTLed
+> END STRING
+
+> BEGIN STRING
+だけどそれは、慣れや慢心から来るものじゃない
+
+恐怖に震えた声が、それを証明してた。
+> CONTEXT: Map119/events/5/pages/1/464/Dialogue
+But it does not come from familiarity or conceit
+The trembling voice of Afraid proved it.#MTLed
+> END STRING
+
+> BEGIN STRING
+こんなに馬鹿正直で…救いようのない人間が
+
+何を成すのか、見る前に喰うのは勿体無いと思ったんだよ。
+> CONTEXT: Map119/events/5/pages/1/468/Dialogue
+Such a fool is honest...a man who can not be
+helped. I thought it would be unimaginable to eat
+before seeing what to make.#MTLed
+> END STRING
+
+> BEGIN STRING
+全く……あたいが喰うのを我慢する日が来るとはねぇ…
+
+他の悪魔と同じく、あたいもお前さんの魅力とやらに
+ やられちまったのかねぇ…………
+> CONTEXT: Map119/events/5/pages/1/474/Dialogue
+Completely...I do not think the day will come
+when I will endure to eat...
+Just like other demons, I will do with your charm
+Did he do it ............#MTLed
+> END STRING
+
+> BEGIN STRING
+気に入らないよ……あぁ、気に入らない……
+> CONTEXT: Map119/events/5/pages/1/479/Dialogue
+I do not like it...Ah, I do not like it ....#MTLed
+> END STRING
+
+> BEGIN STRING
+アルケニーとの『キズナ』が生まれた！！
+
+友好度が『１００』になった！！
+> CONTEXT: Map119/events/5/pages/1/484/Dialogue
+"Kizuna" with Archeny was born! ! Friendship became "100"!
+!#MTLed
+> END STRING
+
+> BEGIN STRING
+ ……………正気かい？
+
+ 恐怖に耐えられなくなって、とうとう狂ったかい。
+> CONTEXT: Map119/events/5/pages/2/2/Dialogue
+............... Mind? Is not it able to endure
+Afraid, crazy?#MTLed
+> END STRING
+
+> BEGIN STRING
+ 言っておくけど、いくらあたいと親密になっても
+
+ お前さんは結局エサより上にはなりえない。
+> CONTEXT: Map119/events/5/pages/2/6/Dialogue
+I will tell you how much I am intimate
+You can not become higher than food after all.#MTLed
+> END STRING
+
+> BEGIN STRING
+人間に例えてみりゃあ
+養鶏施設の鶏に、特別扱いする愛着が湧くことはあっても
+
+結婚したいだなんて思うのかい？って話さね。
+> CONTEXT: Map119/events/5/pages/2/10/Dialogue
+Say it to a human. Even though the attachment to
+be treated specially may rise to chickens in
+poultry farming facilities. Do you think you want
+to get married? I told you.#MTLed
+> END STRING
+
+> BEGIN STRING
+…………手を下げる気はない、って顔だね。
+> CONTEXT: Map119/events/5/pages/2/19/Dialogue
+............ It is a face that I do not feel like
+lowering my hand.#MTLed
+> END STRING
+
+> BEGIN STRING
+じゃあ聞こうか。
+
+お前さんをそこまで駆り立てる
+ あたいの『魅力』って、いったい何なわけさ？
+> CONTEXT: Map119/events/5/pages/2/21/Dialogue
+Well then let's listen. Drive you up there
+What is it about "my charm"?#MTLed
+> END STRING
+
+> BEGIN STRING
+糸の感触かい？膣の締まり具合かい？
+
+まさかあたいの、この姿に惚れたとか言わないだろうね？
+> CONTEXT: Map119/events/5/pages/2/26/Dialogue
+Do you feel the thread? Tightness of the vagina?
+You certainly will not say that you fell in love
+with this figure, are not you?#MTLed
+> END STRING
+
+> BEGIN STRING
+全部だよ……
+
+今まで触れてきた場所、全部だ。
+> CONTEXT: Map119/events/5/pages/2/31/Dialogue
+It's all...It's all the places I've mentioned
+so far.#MTLed
+> END STRING
+
+> BEGIN STRING
+たしかに君は、人間をエサとしか思ってない。
+
+きっとこれからも、それは変わらないだろう。
+> CONTEXT: Map119/events/5/pages/2/35/Dialogue
+Certainly you certainly think of humans as food.
+It surely will not change from now on.#MTLed
+> END STRING
+
+> BEGIN STRING
+ 現に僕も、君と接するときは常に『恐怖』があった。
+
+ 今こうしてるときも、完全に『平気』じゃあない……
+> CONTEXT: Map119/events/5/pages/2/39/Dialogue
+Actually, I always had "Afraid" when I touched
+you. Even when I am doing this now, it is
+completely "unimaginable" ......#MTLed
+> END STRING
+
+> BEGIN STRING
+君に糸で縛られ、引き寄せられていたときも……
+君に呑み込まれ、お腹の中に居たときですら
+
+恐怖と一緒に、だんだんと惹かれるものがあった。
+> CONTEXT: Map119/events/5/pages/2/45/Dialogue
+Even when you are tied to you with threads and
+drawn ...... I was swallowed by you, even when I
+was in my stomach. With Afraid, there was
+something attracted to.#MTLed
+> END STRING
+
+> BEGIN STRING
+すべてが終わったら……
+
+僕は君に喰われてもいいとすら思ってるよ。
+> CONTEXT: Map119/events/5/pages/2/50/Dialogue
+When everything is over ......
+I even think that you can be eaten.#MTLed
+> END STRING
+
+> BEGIN STRING
+これが、僕の気持ちだ……
+> CONTEXT: Map119/events/5/pages/2/54/Dialogue
+This is my feeling ......#MTLed
+> END STRING
+
+> BEGIN STRING
+クックックッ……………アッハッハッハッ！！
+
+ 素面で喰われ願望があるエサとは恐れ入ったね！！
+> CONTEXT: Map119/events/5/pages/2/57/Dialogue
+He He Heh ............... Ahhh!!
+I was excited with the food that was eaten on the
+surface and has a desire! !#MTLed
+> END STRING
+
+> BEGIN STRING
+お前さんがそこまで覚悟を決めてるんなら
+
+あたいも、素っ気なく突き放す事ができないじゃあないか……
+> CONTEXT: Map119/events/5/pages/2/61/Dialogue
+If you decide to prepare so far
+Even I can not thrust you thoroughly ......#MTLed
+> END STRING
+
+> BEGIN STRING
+いいよ………受けてやるさ。
+
+お前さんは将来、あたいが最高の状態で喰ってやる。
+> CONTEXT: Map119/events/5/pages/2/66/Dialogue
+Okay ......... I will accept it.
+You will eat in the best way in the future.#MTLed
+> END STRING
+
+> BEGIN STRING
+それまで、間違っても他の悪魔にやられて
+
+死んだりするんじゃないよ…♡
+> CONTEXT: Map119/events/5/pages/2/70/Dialogue
+Until then, if you make a mistake, you are being
+hit by another demon. I do not want to die...♡#MTLed
+> END STRING
+
+> BEGIN STRING
+エンゲージリングを受け取ってもらったことで
+
+\\C[2]アルケニーと婚約した！
+> CONTEXT: Map119/events/5/pages/2/80/Dialogue
+By having an engagement ring received. \\C[2]I was engaged to
+Archeny!#MTLed
+> END STRING
+
+> BEGIN STRING
+親密度が５０以上必要。
+（現在の値：\\V[49]）
+> CONTEXT: Map119/events/6/pages/0/0/Dialogue
+Familiarity needs to be 50 or more. (Current value: \\V[49] )#MTLed
+> END STRING
+
+> BEGIN STRING
+まさか………
+
+この部屋って………
+> CONTEXT: Map119/events/7/pages/0/2/Dialogue
+No way.........What is this room .........#MTLed
+> END STRING
+
+> BEGIN STRING
+その『まさか』さ。
+
+怖がることはないよ、もう襲ったりはしないから。
+> CONTEXT: Map119/events/7/pages/0/6/Dialogue
+That "no way". There is nothing to be afraid, I
+will not attack it anymore.#MTLed
+> END STRING
+
+> BEGIN STRING
+さぁ、こっちへおいで。
+
+その顔を、もっとよく見せておくれよ…♡
+> CONTEXT: Map119/events/7/pages/0/10/Dialogue
+Come over here. Show me your face better,...♡#MTLed
+> END STRING
+
+> BEGIN STRING
+ククク……お前さん、よくよく見たら
+
+ いい顔つきをしてるじゃないか。
+> CONTEXT: Map119/events/7/pages/0/23/Dialogue
+Hehehe....... you, if you look closely well
+You look good on your face.#MTLed
+> END STRING
+
+> BEGIN STRING
+巣の中では、動き回る元気なエサとしか思ってなかったけど
+
+ なるほど、女悪魔が放っておかないわけだね。
+> CONTEXT: Map119/events/7/pages/0/27/Dialogue
+In the nest, I only thought that it was a chewy
+food to move around. Indeed, the woman demon is
+not letting it go.#MTLed
+> END STRING
+
+> BEGIN STRING
+お、お世辞をどうも……
+
+でも絶対食べる前提の話でしょ…それ……
+> CONTEXT: Map119/events/7/pages/0/31/Dialogue
+Thank you for your compliments ......
+But it is a story about the precondition to eat
+absolutely...that......#MTLed
+> END STRING
+
+> BEGIN STRING
+クク、世辞なもんか。
+
+でも確かに、それで味も格別だってんだから、最高だね…♡
+> CONTEXT: Map119/events/7/pages/0/35/Dialogue
+Kuku, are not you cheap? But it is certainly the
+best because it has exceptional taste...♡#MTLed
+> END STRING
+
+> BEGIN STRING
+最近じゃ、年端もいかないガキや、未熟な女を好んで
+襲う輩が増えたらしいけれども…
+
+断然、お前さんみたいな成長した男が好みさ。
+> CONTEXT: Map119/events/7/pages/0/39/Dialogue
+Recently, I prefer a pretty girl who does not
+grow old, an inexperienced woman
+Although it seems that the number of attackers
+has increased,...Alright, I like a growing man
+like you.#MTLed
+> END STRING
+
+> BEGIN STRING
+本来は他人の前で見栄をはったり意地をはったりするヤツが
+
+あたいに屈服する姿を見るのは、本当に愉快だからねぇ…♡
+> CONTEXT: Map119/events/7/pages/0/44/Dialogue
+Originally a guy who gets a sense of prejudice in
+the presence of other people. 
+It is really fun to see people submitting to me
+... ♡#MTLed
+> END STRING
+
+> BEGIN STRING
+……………
+
+それで……？どうしてこんな場所に…？
+> CONTEXT: Map119/events/7/pages/0/49/Dialogue
+............. So ...? Why in a place like this
+...?#MTLed
+> END STRING
+
+> BEGIN STRING
+ククク………
+
+興味が湧いたのさ、悪魔の心を惹かせるお前さんに。
+> CONTEXT: Map119/events/7/pages/0/53/Dialogue
+Hehehe ......... I got interested, to you who
+attracts demon's heart.#MTLed
+> END STRING
+
+> BEGIN STRING
+生き残るためにお前さんはあたいの巣から逃げた。
+ 喰うために、あたいはお前さんに立ち塞がった。
+
+そこまでは自然な流れさ。
+> CONTEXT: Map119/events/7/pages/0/59/Dialogue
+You ran away from my nest to survive.
+In order to eat, I got stuck at you.
+It is a natural flow until that.#MTLed
+> END STRING
+
+> BEGIN STRING
+だけど、あたいを打ち負かしたとき、
+お前さんはあたいを殺しておくべきだったんだ。
+
+………そうなるのが普通だったのさ。
+> CONTEXT: Map119/events/7/pages/0/64/Dialogue
+But when you defeated me, You ought to have
+killed me....... It was normal to be like that.#MTLed
+> END STRING
+
+> BEGIN STRING
+だけど、お前さんはあたいを見逃した。
+殺意を持って襲いかかったあたいを、殺さなかった。
+
+それは何故だい？
+> CONTEXT: Map119/events/7/pages/0/69/Dialogue
+But, you overlooked me. I did not kill anything
+that killed me with murderous intent.
+Why?#MTLed
+> END STRING
+
+> BEGIN STRING
+その理由は、ちゃんとあの時話したはずだよ……
+
+君の言う『自然の流れ』に従ってしまうと、
+僕は君の『人間を喰う理由』を正当化してしまうことになる。
+> CONTEXT: Map119/events/7/pages/0/75/Dialogue
+The reason was, I should have said that properly
+...... Following the "flow of nature" you say,
+I will justify your "reason for eating humans".#MTLed
+> END STRING
+
+> BEGIN STRING
+僕は、君の思い通りにはならない。
+
+たとえ君の言うことの方が正しいのだとしても
+それを『自分の行動』で認めてしまうわけにはいかなかった。
+> CONTEXT: Map119/events/7/pages/0/80/Dialogue
+I will not have your own way. [M]
+Even though you are right. I could not afford to
+admit it in "my behavior".#MTLed
+> END STRING
+
+> BEGIN STRING
+それがお前さんなりの『抵抗』ってわけかい……
+
+本当に面白いヤツだよ、\\N[1]。
+> CONTEXT: Map119/events/7/pages/0/86/Dialogue
+What is it that you are "struggle" ......
+It's really funny guy, \\N[1] .#MTLed
+> END STRING
+
+> BEGIN STRING
+ククク……まぁいいさ。
+
+それに、お前さんに興味が湧いたからってこんな所に来た
+ あたいも、相当普通じゃないからね。
+> CONTEXT: Map119/events/7/pages/0/90/Dialogue
+Hehehe ...... very well. Besides, I came to such
+a place because you interested me
+Even I'm not quite normal.#MTLed
+> END STRING
+
+> BEGIN STRING
+もう少し、お前さんを理解できたら…
+
+そしてもしそれが、あたいの興味に見合うものなら
+……まぁ、ペットぐらいには考えてやってもいいよ。
+> CONTEXT: Map119/events/7/pages/0/95/Dialogue
+A little more, if you can understand you ...
+And if it meets my interests. ...... Well, you
+can think about pets.#MTLed
+> END STRING
+
+> BEGIN STRING
+逆に、お前さんがつまらないと感じたら……
+
+こんな部屋から出て、また外で襲ってやるからね…
+> CONTEXT: Map119/events/7/pages/0/101/Dialogue
+On the contrary, if you feel that you are boring
+...... I'm going out of such a room and hitting
+outside again ...#MTLed
+> END STRING

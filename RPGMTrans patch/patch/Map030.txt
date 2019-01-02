@@ -1,0 +1,182 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+■■チャプター１■■ en(s[221])
+> CONTEXT: Map030/events/1/pages/0/11/Choice/0
+■■ Chapter 1 ■■en(s[221])#MTLed
+> END STRING
+
+> BEGIN STRING
+プロローグ
+> CONTEXT: Map030/events/1/pages/0/16/Choice/0
+Prologue#Dargoth
+> END STRING
+
+> BEGIN STRING
+1-1　『覚醒』 en(s[221])
+> CONTEXT: Map030/events/1/pages/0/16/Choice/1
+1-1 "Awakening"en(s[221])#MTLed
+> END STRING
+
+> BEGIN STRING
+1-2　『灯火』 en(s[222])
+> CONTEXT: Map030/events/1/pages/0/16/Choice/2
+1-2 "Lights"en(s[222])#MTLed
+> END STRING
+
+> BEGIN STRING
+1-3　『大鎌』 en(s[223])
+> CONTEXT: Map030/events/1/pages/0/16/Choice/3
+1-3 "Scythe"en(s[223])#MTLed
+> END STRING
+
+> BEGIN STRING
+『プロローグ』から物語を開始しますか？
+> CONTEXT: Map030/events/1/pages/0/20/Dialogue
+Would you like to start a story from "Prologue"?#MTLed
+> END STRING
+
+> BEGIN STRING
+『チャプター１－１　『覚醒』』から物語を開始しますか？
+> CONTEXT: Map030/events/1/pages/0/39/Dialogue
+Would you like to start a story from "Chapter 1-1"
+Awakening "?#MTLed
+> END STRING
+
+> BEGIN STRING
+『チャプター１－２　『灯火』』から物語を開始しますか？
+> CONTEXT: Map030/events/1/pages/0/58/Dialogue
+Would you like to start a story from "Chapter 1-2" Lamp "?#MTLed
+> END STRING
+
+> BEGIN STRING
+『チャプター１－３　『大鎌』』から物語を開始しますか？
+> CONTEXT: Map030/events/1/pages/0/78/Dialogue
+Would you like to start a story from "Chapter 1-3" Scythe
+"?#MTLed
+> END STRING
+
+> BEGIN STRING
+■■チャプター２■■ en(s[224])
+> CONTEXT: Map030/events/1/pages/0/96/Choice/0
+■■ Chapter 2 ■■en(s[224])#MTLed
+> END STRING
+
+> BEGIN STRING
+2-1　『奔走』 en(s[224])
+> CONTEXT: Map030/events/1/pages/0/96/Choice/1
+2-1 "Running"en(s[224])#MTLed
+> END STRING
+
+> BEGIN STRING
+2-2　『覚悟』 en(s[225])
+> CONTEXT: Map030/events/1/pages/0/96/Choice/2
+2-2 "Prepare"en(s[225])#MTLed
+> END STRING
+
+> BEGIN STRING
+2-3　『舞台』 en(s[226])
+> CONTEXT: Map030/events/1/pages/0/96/Choice/3
+2-3 "Stage"en(s[226])#MTLed
+> END STRING
+
+> BEGIN STRING
+『チャプター２－１　『奔走』』から物語を開始しますか？
+> CONTEXT: Map030/events/1/pages/0/103/Dialogue
+Would you like to start a story from "Chapter 2-1" Williams
+"?#MTLed
+> END STRING
+
+> BEGIN STRING
+『チャプター２－２　『覚悟』』から物語を開始しますか？
+> CONTEXT: Map030/events/1/pages/0/122/Dialogue
+Would you like to start a story from "Chapter 2-2" Prepare
+"?#MTLed
+> END STRING
+
+> BEGIN STRING
+『チャプター２－３　『舞台』』から物語を開始しますか？
+> CONTEXT: Map030/events/1/pages/0/142/Dialogue
+Would you like to start a story from Chapter 2-3 "Stage"?#MTLed
+> END STRING
+
+> BEGIN STRING
+■■チャプター３■■ en(s[227])
+> CONTEXT: Map030/events/1/pages/0/160/Choice/0
+■■ Chapter 3 ■■en(s[227])#MTLed
+> END STRING
+
+> BEGIN STRING
+3-1　『抱擁』 en(s[227])
+> CONTEXT: Map030/events/1/pages/0/160/Choice/1
+3-1 "Hug"en(s[227])#MTLed
+> END STRING
+
+> BEGIN STRING
+3-2　『牢獄』 en(s[228])
+> CONTEXT: Map030/events/1/pages/0/160/Choice/2
+3-2 "Prison"en(s[228])#MTLed
+> END STRING
+
+> BEGIN STRING
+3-3　『介入』 en(s[229])
+> CONTEXT: Map030/events/1/pages/0/160/Choice/3
+3-3 "Intervention"en(s[229])#MTLed
+> END STRING
+
+> BEGIN STRING
+『チャプター３－１　『抱擁』』から物語を開始しますか？
+> CONTEXT: Map030/events/1/pages/0/167/Dialogue
+Would you like to start a story from "Chapter 3-1" Hugs "?#MTLed
+> END STRING
+
+> BEGIN STRING
+『チャプター３－２　『牢獄』』から物語を開始しますか？
+> CONTEXT: Map030/events/1/pages/0/193/Dialogue
+Would you like to start a story from Chapter 3-2 "Prison"?#MTLed
+> END STRING
+
+> BEGIN STRING
+『チャプター３－３　『介入』』から物語を開始しますか？
+> CONTEXT: Map030/events/1/pages/0/213/Dialogue
+Would you like to start a story from "Chapter 3-3"
+Intervention "?#MTLed
+> END STRING
+
+> BEGIN STRING
+■■チャプター４■■ en(s[230])
+> CONTEXT: Map030/events/1/pages/0/237/Choice/0
+■■ Chapter 4 ■■en(s[230])#MTLed
+> END STRING
+
+> BEGIN STRING
+4-1 『悔恨』 en(s[230])
+> CONTEXT: Map030/events/1/pages/0/237/Choice/1
+4-1 "Repentance"en(s[230])#MTLed
+> END STRING
+
+> BEGIN STRING
+4-2 『懺悔』 en(s[231])
+> CONTEXT: Map030/events/1/pages/0/237/Choice/2
+4-2 "Confession"en(s[231])#MTLed
+> END STRING
+
+> BEGIN STRING
+『チャプター４－１　『悔恨』』から物語を開始しますか？
+> CONTEXT: Map030/events/1/pages/0/244/Dialogue
+Would you like to start a story from "Chapter 4-1" Regret
+"?#MTLed
+> END STRING
+
+> BEGIN STRING
+『チャプター４－２　『懺悔』』から物語を開始しますか？
+> CONTEXT: Map030/events/1/pages/0/276/Dialogue
+Would you like to start a story from "Chapter 4-2"
+Penitence "?#MTLed
+> END STRING
+
+> BEGIN STRING
+
+タイトルに戻りますか？
+> CONTEXT: Map030/events/1/pages/0/310/Dialogue
+Would you like to return to the title?#MTLed
+> END STRING

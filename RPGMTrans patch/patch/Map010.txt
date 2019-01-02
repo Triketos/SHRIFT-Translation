@@ -1,0 +1,95 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+
+　　　　　　居住区画のセキュリティについて
+> CONTEXT: Map010/events/4/pages/0/2/Dialogue
+About security of residential block#MTLed
+> END STRING
+
+> BEGIN STRING
+　　　　　居住区画に例のカマキリの化け物が侵入した。
+　　　　　　　病棟区画に続くこの通路は封鎖する。
+> CONTEXT: Map010/events/4/pages/0/6/Dialogue
+An example mantis invasion invaded the living quarters.
+This aisle following the ward section is blocked.#MTLed
+> END STRING
+
+> BEGIN STRING
+マスターキーを持つもの以外の、外部からの解除を防ぐため
+扉のパスワードは手動で簡易的なものに変更した。
+> CONTEXT: Map010/events/4/pages/0/10/Dialogue
+In order to prevent release from outside other than those
+with master key. The password of the door was manually
+changed to simple one.#MTLed
+> END STRING
+
+> BEGIN STRING
+とっさにいいものが思い付かなかったから
+\\C[2]警察が私物化している隣の保管庫に押収された
+『銀の弾丸』の数をそのままパスワードに使っている。
+> CONTEXT: Map010/events/4/pages/0/14/Dialogue
+I could not think of anything good. \\C[2]It was seized by a
+cabin next door where the police were privatized
+We use the number of "silver rounds" as it is for the
+password.#MTLed
+> END STRING
+
+> BEGIN STRING
+やむを得ない場合はともかく
+外の化け物どもをどうにかする自信がなければ
+患者の安全のためにも、開けないでほしい。
+> CONTEXT: Map010/events/4/pages/0/19/Dialogue
+In any case unavoidable. If you do not have confidence to
+manage outside monsters. Please do not open it for
+patient's safety.#MTLed
+> END STRING
+
+> BEGIN STRING
+現在、居住区への入場は制限されています。
+管理者の場合、パスワードを入力してください。
+> CONTEXT: Map010/events/6/pages/0/1/Dialogue
+Currently, admission to the residential area is restricted.
+If you are an administrator, please enter your password.#MTLed
+> END STRING
+
+> BEGIN STRING
+
+　　　　　パスワード確認、ロックを解除します。
+> CONTEXT: Map010/events/6/pages/0/9/Dialogue
+> CONTEXT: Map010/events/6/pages/1/8/Dialogue
+Password check, unlock it.#MTLed
+> END STRING
+
+> BEGIN STRING
+よし、開いたぞ。
+> CONTEXT: Map010/events/6/pages/0/38/Dialogue
+> CONTEXT: Map010/events/6/pages/1/37/Dialogue
+> CONTEXT: Map011/events/10/pages/1/8/Dialogue
+OK, I opened it.#MTLed
+> END STRING
+
+> BEGIN STRING
+………ダメか。
+> CONTEXT: Map010/events/6/pages/0/50/Dialogue
+> CONTEXT: Map010/events/6/pages/1/49/Dialogue
+> CONTEXT: Map011/events/10/pages/1/18/Dialogue
+………no good.#MTLed
+> END STRING
+
+> BEGIN STRING
+パスワードか…、近くに何か手がかりはないかな…。
+> CONTEXT: Map010/events/6/pages/0/52/Dialogue
+> CONTEXT: Map010/events/6/pages/1/51/Dialogue
+Is there a clue in the vicinity ... a password
+...?#MTLed
+> END STRING
+
+> BEGIN STRING
+現在、居住区への入場は制限されていますが
+パスワードとか入力するのはメンドウでしょうから
+ロックを解除します。
+> CONTEXT: Map010/events/6/pages/1/1/Dialogue
+Currently, admission to the residential area is restricted
+Since it will be a pain to enter a password or something
+Unlock it.#MTLed
+> END STRING

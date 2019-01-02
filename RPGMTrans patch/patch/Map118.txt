@@ -1,0 +1,830 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+水路水循環機能：\\C[3]正常に作動中
+
+\\C[0]Ａポンプ：\\C[3]\\V[151]\\C[2]\\V[152]　\\C[0]Ｂポンプ：\\C[3]\\V[153]\\C[2]\\V[154]
+\\C[0]Ｃポンプ：\\C[3]\\V[155]\\C[2]\\V[156]　\\C[0]Ｄポンプ：\\C[3]\\V[157]\\C[2]\\V[158]
+> CONTEXT: Map118/events/1/pages/0/1/Dialogue
+> CONTEXT: Map116/events/1/pages/0/1/Dialogue
+> CONTEXT: Map102/events/1/pages/0/1/Dialogue
+> CONTEXT: Map104/events/1/pages/0/1/Dialogue
+Water channel water circulation function:\\C[3] Working normally
+\\C[0]A pump:\\C[3] \\V[151]\\C[2] \\V[152] In case\\C[0] B pump:\\C[3] \\V[153]\\C[2] \\V[154]
+\\C[0]C pump:\\C[3] \\V[155]\\C[2] \\V[156] In case\\C[0] D pump:\\C[3] \\V[157]\\C[2] \\V[158]#MTLed
+> END STRING
+
+> BEGIN STRING
+水路水循環機能：\\C[2]地上の水位が低下中
+
+\\C[0]Ａポンプ：\\C[3]\\V[151]\\C[2]\\V[152]　\\C[0]Ｂポンプ：\\C[3]\\V[153]\\C[2]\\V[154]
+\\C[0]Ｃポンプ：\\C[3]\\V[155]\\C[2]\\V[156]　\\C[0]Ｄポンプ：\\C[3]\\V[157]\\C[2]\\V[158]
+> CONTEXT: Map118/events/1/pages/0/10/Dialogue
+> CONTEXT: Map116/events/1/pages/0/10/Dialogue
+> CONTEXT: Map102/events/1/pages/0/10/Dialogue
+> CONTEXT: Map104/events/1/pages/0/10/Dialogue
+Water channel water circulation function:\\C[2] While the water
+level on the ground is lowered. \\C[0]A pump:\\C[3] \\V[151]\\C[2] \\V[152] In case\\C[0] B
+pump:\\C[3] \\V[153]\\C[2] \\V[154]. \\C[0]C pump:\\C[3] \\V[155]\\C[2] \\V[156] In case\\C[0] D pump:\\C[3] \\V[157]\\C[2] \\V[158]#MTLed
+> END STRING
+
+> BEGIN STRING
+水路水循環機能：\\C[18]完全停止中
+
+\\C[0]Ａポンプ：\\C[3]\\V[151]\\C[2]\\V[152]　\\C[0]Ｂポンプ：\\C[3]\\V[153]\\C[2]\\V[154]
+\\C[0]Ｃポンプ：\\C[3]\\V[155]\\C[2]\\V[156]　\\C[0]Ｄポンプ：\\C[3]\\V[157]\\C[2]\\V[158]
+> CONTEXT: Map118/events/1/pages/0/19/Dialogue
+> CONTEXT: Map116/events/1/pages/0/19/Dialogue
+> CONTEXT: Map102/events/1/pages/0/19/Dialogue
+> CONTEXT: Map104/events/1/pages/0/19/Dialogue
+Water channel water circulation function:\\C[18] Completely
+stopped. \\C[0]A pump:\\C[3] \\V[151]\\C[2] \\V[152] In case\\C[0] B pump:\\C[3] \\V[153]\\C[2] \\V[154]
+\\C[0]C pump:\\C[3] \\V[155]\\C[2] \\V[156] In case\\C[0] D pump:\\C[3] \\V[157]\\C[2] \\V[158]#MTLed
+> END STRING
+
+> BEGIN STRING
+
+　　　　　　水路管理者のメモ４
+> CONTEXT: Map118/events/3/pages/1/2/Dialogue
+Waterway administrator's memo 4#MTLed
+> END STRING
+
+> BEGIN STRING
+避難命令が出た。
+
+どうやら街の方で、大量の悪魔が出現したらしい。
+ここには前から居たってのにな。
+> CONTEXT: Map118/events/3/pages/1/6/Dialogue
+An evacuation order came out. Apparently, it seems that a
+lot of demons have appeared in the city.
+I wish I was from here.#MTLed
+> END STRING
+
+> BEGIN STRING
+避難には港の船と列車が使われるだろう。
+
+そうなると、軍が拠点に使うのは間違いなくココだ。
+> CONTEXT: Map118/events/3/pages/1/12/Dialogue
+The harbor ships and trains will be used for evacuation.
+Then it's definitely here that the military will use it as
+a base.#MTLed
+> END STRING
+
+> BEGIN STRING
+もし、彼女たちが軍に見つかったらどうなる？
+
+ 彼女たちが、軍や市民に手を出さない保証があるか？
+> CONTEXT: Map118/events/3/pages/1/17/Dialogue
+What if they were found in the army? Is there a guarantee
+that they will not hand out armies and citizens?#MTLed
+> END STRING
+
+> BEGIN STRING
+いや、もし彼女たちが手を出さなくても
+軍の連中が見逃してくれるだろうか？
+
+ 悪魔から逃れるための拠点に住まう彼女たちを……
+> CONTEXT: Map118/events/3/pages/1/22/Dialogue
+No, if they do not put out their hands. Will the military
+guys overlook it? They live in a base to evade demon ......#MTLed
+> END STRING
+
+> BEGIN STRING
+数日前、俺はあるものを骨董屋から買った。
+
+ 魔力を中和する、粉状の防魔剤……
+退魔水として、水と混ぜて撒く用途らしい。
+> CONTEXT: Map118/events/3/pages/1/28/Dialogue
+A few days ago, I bought something from an antique shop.
+Powdery mildew to neutralize magical power ......
+It seems to be used as water for mixing, mixing with water.#MTLed
+> END STRING
+
+> BEGIN STRING
+この規模の水路で、必ず彼女たちが死ぬとは限らない。
+
+だが、水路の水を止めた状態で、地下の貯水池に流せば
+無事ではすまないのは確かだろう。
+> CONTEXT: Map118/events/3/pages/1/34/Dialogue
+With watercourse of this size, they do not necessarily die.
+However, with the water in the waterway stopped, if it
+flows to the basement reservoir. It is certain that it is
+not fine.#MTLed
+> END STRING
+
+> BEGIN STRING
+こんなことを考えているなんて彼女たちに知れたら
+間違いなく、俺は殺されてしまうだろうな……
+
+だが正直、そこは問題じゃない。
+> CONTEXT: Map118/events/3/pages/1/40/Dialogue
+I wish for them to know that I was thinking about this
+No doubt, I will be killed ...... But, to be honest, that
+is not a problem.#MTLed
+> END STRING
+
+> BEGIN STRING
+問題は………未だに俺自身が迷っていることだ。
+
+ ３つのポンプを停止して、あとは彼女たちが気づく前に
+ この袋をぶちまけて、最後のポンプを止める。
+> CONTEXT: Map118/events/3/pages/1/46/Dialogue
+The problem is ......... still I am lost.
+Stop the three pumps and before they notice it
+Blast this bag and stop the last pump.#MTLed
+> END STRING
+
+> BEGIN STRING
+急がなければいけないのに、今の俺はまるで
+
+間に合わせる気がないようだ。
+> CONTEXT: Map118/events/3/pages/1/52/Dialogue
+I have to hurry, but now I'm right. It seems I do not feel
+like making it in time.#MTLed
+> END STRING
+
+> BEGIN STRING
+愛しているんだ、彼女を………。
+> CONTEXT: Map118/events/3/pages/1/60/Dialogue
+I love her, ..........#MTLed
+> END STRING
+
+> BEGIN STRING
+早く………楽になりたい………
+
+もう、疲れた………
+> CONTEXT: Map118/events/3/pages/1/63/Dialogue
+I want to get easy ......... I've got tired………#MTLed
+> END STRING
+
+> BEGIN STRING
+ポンプＤのステータス：\\C[3]正常に作動中
+> CONTEXT: Map118/events/4/pages/1/0/Dialogue
+Status of pump D:\\C[3] Working normally#MTLed
+> END STRING
+
+> BEGIN STRING
+そのままにしておく
+> CONTEXT: Map118/events/4/pages/1/2/Choice/0
+> CONTEXT: Map118/events/4/pages/2/2/Choice/0
+> CONTEXT: Map116/events/4/pages/1/2/Choice/0
+> CONTEXT: Map116/events/4/pages/2/2/Choice/0
+> CONTEXT: Map102/events/4/pages/1/2/Choice/0
+> CONTEXT: Map104/events/4/pages/1/2/Choice/0
+> CONTEXT: Map102/events/4/pages/2/2/Choice/0
+> CONTEXT: Map104/events/4/pages/2/2/Choice/0
+Leave as it is#MTLed
+> END STRING
+
+> BEGIN STRING
+オフにする
+> CONTEXT: Map118/events/4/pages/1/2/Choice/1
+> CONTEXT: Map116/events/4/pages/1/2/Choice/1
+> CONTEXT: Map102/events/4/pages/1/2/Choice/1
+> CONTEXT: Map104/events/4/pages/1/2/Choice/1
+Turn off#MTLed
+> END STRING
+
+> BEGIN STRING
+…………水の吸い上げが止まったようだ。
+> CONTEXT: Map118/events/4/pages/1/10/Dialogue
+> CONTEXT: Map116/events/4/pages/1/10/Dialogue
+> CONTEXT: Map102/events/4/pages/1/10/Dialogue
+> CONTEXT: Map104/events/4/pages/1/10/Dialogue
+............ It seems that siphoning of water stopped.#MTLed
+> END STRING
+
+> BEGIN STRING
+"停止中"
+> CONTEXT: Map118/events/4/pages/1/15/InlineScript/1:25
+> CONTEXT: Map116/events/4/pages/1/15/InlineScript/1:25
+> CONTEXT: Map105/events/10/pages/6/2/InlineScript/1:25
+> CONTEXT: Map105/events/10/pages/6/4/InlineScript/1:25
+> CONTEXT: Map105/events/10/pages/6/6/InlineScript/1:25
+> CONTEXT: Map105/events/10/pages/6/8/InlineScript/1:25
+> CONTEXT: Map104/events/4/pages/1/15/InlineScript/1:25
+> CONTEXT: Map102/events/4/pages/1/15/InlineScript/1:25
+"Stopped"#MTLed
+> END STRING
+
+> BEGIN STRING
+ポンプＤのステータス：\\C[2]稼働停止中
+> CONTEXT: Map118/events/4/pages/2/0/Dialogue
+Status of pump D:\\C[2] Inactive#MTLed
+> END STRING
+
+> BEGIN STRING
+オンにする
+> CONTEXT: Map118/events/4/pages/2/2/Choice/1
+> CONTEXT: Map116/events/4/pages/2/2/Choice/1
+> CONTEXT: Map104/events/4/pages/2/2/Choice/1
+> CONTEXT: Map102/events/4/pages/2/2/Choice/1
+turn on#MTLed
+> END STRING
+
+> BEGIN STRING
+…………水の吸い上げが再開されたようだ。
+> CONTEXT: Map118/events/4/pages/2/10/Dialogue
+> CONTEXT: Map116/events/4/pages/2/10/Dialogue
+> CONTEXT: Map102/events/4/pages/2/10/Dialogue
+> CONTEXT: Map104/events/4/pages/2/10/Dialogue
+............ It seems that siphoning has been restarted.#MTLed
+> END STRING
+
+> BEGIN STRING
+"稼働中"
+> CONTEXT: Map118/events/4/pages/2/14/InlineScript/1:25
+> CONTEXT: Map116/events/4/pages/2/14/InlineScript/1:25
+> CONTEXT: Map104/events/2/pages/0/3/InlineScript/1:25
+> CONTEXT: Map104/events/2/pages/0/5/InlineScript/1:25
+> CONTEXT: Map104/events/2/pages/0/7/InlineScript/1:25
+> CONTEXT: Map104/events/2/pages/0/9/InlineScript/1:25
+> CONTEXT: Map102/events/4/pages/2/14/InlineScript/1:25
+> CONTEXT: Map104/events/4/pages/2/14/InlineScript/1:25
+"In operation"#MTLed
+> END STRING
+
+> BEGIN STRING
+男が倒れている。
+
+すでに事切れているようだ。
+> CONTEXT: Map118/events/10/pages/0/0/Dialogue
+The man is collapsed. It seems already to be over.#MTLed
+> END STRING
+
+> BEGIN STRING
+粘液で全身を覆われ、まるで今にも動き出しそうな
+
+肌の色の艶やかさを保っている………
+> CONTEXT: Map118/events/10/pages/0/4/Dialogue
+The whole body is covered with mucus and it seems like it
+will start moving as usual. Maintaining the glossiness of
+the skin color .........#MTLed
+> END STRING
+
+> BEGIN STRING
+塩のような粉のつまった袋が置かれている。
+
+袋に注意書きが書かれているようだ。
+> CONTEXT: Map118/events/11/pages/0/0/Dialogue
+> CONTEXT: Map118/events/11/pages/1/0/Dialogue
+A bag filled with powder like salt is placed.
+It seems that a note is written in the bag.#MTLed
+> END STRING
+
+> BEGIN STRING
+【注意】対悪魔用退魔粉。
+
+水に溶解するるまでは細心の注意を払う事。
+粉の状態では人間に対しても猛毒。
+> CONTEXT: Map118/events/11/pages/0/4/Dialogue
+> CONTEXT: Map118/events/11/pages/1/4/Dialogue
+【Caution】 Demonic powder for demon. Pay close attention
+until dissolving in water. It is toxic to humans in the
+state of powder.#MTLed
+> END STRING
+
+> BEGIN STRING
+袋の中身を水路に流す
+> CONTEXT: Map118/events/11/pages/0/21/Choice/1
+Shed the contents of the bag into the waterway#MTLed
+> END STRING
+
+> BEGIN STRING
+袋の中身は空っぽだ
+> CONTEXT: Map118/events/11/pages/2/0/Dialogue
+The inside of the bag is empty#MTLed
+> END STRING
+
+> BEGIN STRING
+"Chapter3-1　エコー戦（貯水池）"
+> CONTEXT: Map118/events/13/pages/1/2/InlineScript/2:1
+> CONTEXT: Map118/events/14/pages/1/2/InlineScript/2:1
+> CONTEXT: Map118/events/16/pages/1/2/InlineScript/2:1
+> CONTEXT: Map118/events/17/pages/1/2/InlineScript/2:1
+"Chapter 3-1 Echo Battle (Reservoir)"#MTLed
+> END STRING
+
+> BEGIN STRING
+……………どうして？
+> CONTEXT: Map118/events/13/pages/1/6/Dialogue
+> CONTEXT: Map118/events/13/pages/6/0/Dialogue
+> CONTEXT: Map118/events/14/pages/1/6/Dialogue
+> CONTEXT: Map118/events/14/pages/6/0/Dialogue
+> CONTEXT: Map118/events/16/pages/1/6/Dialogue
+> CONTEXT: Map118/events/16/pages/6/0/Dialogue
+> CONTEXT: Map118/events/17/pages/1/6/Dialogue
+> CONTEXT: Map118/events/17/pages/6/0/Dialogue
+……………why?#MTLed
+> END STRING
+
+> BEGIN STRING
+なんで………
+
+あの袋を使わなかったの…？
+> CONTEXT: Map118/events/13/pages/1/21/Dialogue
+> CONTEXT: Map118/events/14/pages/1/21/Dialogue
+> CONTEXT: Map118/events/16/pages/1/21/Dialogue
+> CONTEXT: Map118/events/17/pages/1/21/Dialogue
+why………. You did not use that bag ...?#MTLed
+> END STRING
+
+> BEGIN STRING
+確かにあの粉は、退魔の効果はあっても一時的なもの……
+
+でも、私たちを殺すには至らなくても、
+私やみんなが、あなたを『諦める』理由にはなる……
+> CONTEXT: Map118/events/13/pages/1/25/Dialogue
+> CONTEXT: Map118/events/14/pages/1/25/Dialogue
+> CONTEXT: Map118/events/16/pages/1/25/Dialogue
+> CONTEXT: Map118/events/17/pages/1/25/Dialogue
+Certainly that powder is temporary, even though
+there is an effect of demobilization ......
+But even if we do not kill us,
+It will be a reason for me and everyone to "give
+up" ... ...#MTLed
+> END STRING
+
+> BEGIN STRING
+私は、あなたが欲しいあまり、乱暴なことをした…
+
+怒って当然のはずよ。
+> CONTEXT: Map118/events/13/pages/1/30/Dialogue
+> CONTEXT: Map118/events/14/pages/1/30/Dialogue
+> CONTEXT: Map118/events/16/pages/1/30/Dialogue
+> CONTEXT: Map118/events/17/pages/1/30/Dialogue
+I did something rough, as you wanted ...
+It should be natural for getting angry.#MTLed
+> END STRING
+
+> BEGIN STRING
+………………別に。
+
+『彼』の決断を……意思を尊重しただけだよ。
+> CONTEXT: Map118/events/13/pages/1/35/Dialogue
+> CONTEXT: Map118/events/14/pages/1/35/Dialogue
+> CONTEXT: Map118/events/16/pages/1/35/Dialogue
+> CONTEXT: Map118/events/17/pages/1/35/Dialogue
+.................. Separately.
+He just made a decision ... ... respecting his
+will.#MTLed
+> END STRING
+
+> BEGIN STRING
+彼は……君たちを大事に思っていたからこそ
+
+直前のところで、あの袋を使うのを踏みとどまった。
+> CONTEXT: Map118/events/13/pages/1/44/Dialogue
+> CONTEXT: Map118/events/14/pages/1/44/Dialogue
+> CONTEXT: Map118/events/16/pages/1/44/Dialogue
+> CONTEXT: Map118/events/17/pages/1/44/Dialogue
+He ... ... Because I was thinking of you guys
+I stole the use of that bag just before.#MTLed
+> END STRING
+
+> BEGIN STRING
+それに、彼の死体…あんなにエコーの粘液でまみれているのに
+
+僕の時みたいに衣服を脱ごうとした形跡や
+抵抗したような外傷や、乱れは一切ない。
+> CONTEXT: Map118/events/13/pages/1/48/Dialogue
+> CONTEXT: Map118/events/14/pages/1/48/Dialogue
+> CONTEXT: Map118/events/16/pages/1/48/Dialogue
+> CONTEXT: Map118/events/17/pages/1/48/Dialogue
+Besides, his corpse ... Echo's mucus is covered
+with so much. Some evidence of trying to remove
+clothes like I did. There are no trauma or
+disturbance like struggle.#MTLed
+> END STRING
+
+> BEGIN STRING
+彼は…………あの粉を飲んで
+
+\\C[2]『自ら命を絶つ』選択をしたんだね
+> CONTEXT: Map118/events/13/pages/1/53/Dialogue
+> CONTEXT: Map118/events/14/pages/1/53/Dialogue
+> CONTEXT: Map118/events/16/pages/1/53/Dialogue
+> CONTEXT: Map118/events/17/pages/1/53/Dialogue
+He ... ... ... ... drink that powder
+\\C[2]You made a choice of "Losing your life yourself"#MTLed
+> END STRING
+
+> BEGIN STRING
+彼は、軍が市民を避難させるまでは、
+ここに君たちをかくまっておきたかったんだと思う…
+
+だからここの貯水池には…鍵がかかっていたんだ。
+> CONTEXT: Map118/events/13/pages/1/57/Dialogue
+> CONTEXT: Map118/events/14/pages/1/57/Dialogue
+> CONTEXT: Map118/events/16/pages/1/57/Dialogue
+> CONTEXT: Map118/events/17/pages/1/57/Dialogue
+He said that until the army evacuated citizens,
+I think I wanted to hide you here ...
+So the reservoir here ... it was locked.#MTLed
+> END STRING
+
+> BEGIN STRING
+そして、彼を覆っているあの大量の粘液は……
+
+彼の後を追って命を絶った\\C[2]『オリジナル』のエコー…
+> CONTEXT: Map118/events/13/pages/1/64/Dialogue
+> CONTEXT: Map118/events/14/pages/1/64/Dialogue
+> CONTEXT: Map118/events/16/pages/1/64/Dialogue
+> CONTEXT: Map118/events/17/pages/1/64/Dialogue
+And that massive mucus that covers him ... ...
+I lost my life following him\\C[2] "Original" Echo ...#MTLed
+> END STRING
+
+> BEGIN STRING
+……仮に僕が君に対して怒っていたとしても
+
+彼の、そして彼を選んだ『オリジナル』エコーの
+『決意』を無下にするような真似は、僕にはできない。
+> CONTEXT: Map118/events/13/pages/1/73/Dialogue
+> CONTEXT: Map118/events/14/pages/1/73/Dialogue
+> CONTEXT: Map118/events/16/pages/1/73/Dialogue
+> CONTEXT: Map118/events/17/pages/1/73/Dialogue
+...... even though I was angry with you
+His, and he chose "Original" Echo's
+I can not imitate misleading "determination".#MTLed
+> END STRING
+
+> BEGIN STRING
+ここは、あの二人の………
+
+唯一無二の、『特別な場所』なんだから……
+> CONTEXT: Map118/events/13/pages/1/78/Dialogue
+> CONTEXT: Map118/events/14/pages/1/78/Dialogue
+> CONTEXT: Map118/events/16/pages/1/78/Dialogue
+> CONTEXT: Map118/events/17/pages/1/78/Dialogue
+Here, that two people .........
+Because it is the one and only "special place"
+......#MTLed
+> END STRING
+
+> BEGIN STRING
+…………優しいんだね、\\N[1]。
+> CONTEXT: Map118/events/13/pages/1/84/Dialogue
+> CONTEXT: Map118/events/14/pages/1/84/Dialogue
+> CONTEXT: Map118/events/16/pages/1/84/Dialogue
+> CONTEXT: Map118/events/17/pages/1/84/Dialogue
+............ It is kind, is not it? \\N[1] .#MTLed
+> END STRING
+
+> BEGIN STRING
+だけど………ダメだよ………
+
+またそうやって、私を好きにさせて………
+> CONTEXT: Map118/events/13/pages/1/86/Dialogue
+> CONTEXT: Map118/events/14/pages/1/86/Dialogue
+> CONTEXT: Map118/events/16/pages/1/86/Dialogue
+> CONTEXT: Map118/events/17/pages/1/86/Dialogue
+But ... ... ... it's useless .........
+Again, let me like me .........#MTLed
+> END STRING
+
+> BEGIN STRING
+ますます………
+
+あなたが欲しくなっちゃう……♡
+> CONTEXT: Map118/events/13/pages/1/90/Dialogue
+> CONTEXT: Map118/events/14/pages/1/90/Dialogue
+> CONTEXT: Map118/events/16/pages/1/90/Dialogue
+> CONTEXT: Map118/events/17/pages/1/90/Dialogue
+more and more………. I will want you ... .... ♡#MTLed
+> END STRING
+
+> BEGIN STRING
+あァ…………\\N[1]…！！♡
+
+好キ……♡好き……♡
+アなタが欲しい……独り占めシタい…♡
+> CONTEXT: Map118/events/13/pages/1/99/Dialogue
+> CONTEXT: Map118/events/14/pages/1/99/Dialogue
+> CONTEXT: Map118/events/16/pages/1/99/Dialogue
+> CONTEXT: Map118/events/17/pages/1/99/Dialogue
+Ah ............ \\N[1] ...!!♡. 
+Favorite ...... ♡ I like ... .... ♡
+I want a tha ... ... It's a monopoly ...#MTLed
+> END STRING
+
+> BEGIN STRING
+私だケヲ見てイテ欲しい……♡
+私の事ダけ考エて欲しい……♡
+
+私だケノものになって…\\N[1]！！
+> CONTEXT: Map118/events/13/pages/1/104/Dialogue
+> CONTEXT: Map118/events/14/pages/1/104/Dialogue
+> CONTEXT: Map118/events/16/pages/1/104/Dialogue
+> CONTEXT: Map118/events/17/pages/1/104/Dialogue
+I want to keep watching Keo ... ___
+I want you to think about my affairs ... .... ♡
+I become Keno things ... \\N[1] ! !#MTLed
+> END STRING
+
+> BEGIN STRING
+…………これで良かったのかよ？\\N[1]
+> CONTEXT: Map118/events/13/pages/1/127/Dialogue
+> CONTEXT: Map118/events/14/pages/1/127/Dialogue
+> CONTEXT: Map118/events/16/pages/1/127/Dialogue
+> CONTEXT: Map118/events/17/pages/1/127/Dialogue
+............ Was this good? \\N[1]#MTLed
+> END STRING
+
+> BEGIN STRING
+……とりあえず、彼女に伝えたいことは伝わったはずだ。
+
+彼女も、僕を信じてくれた。
+> CONTEXT: Map118/events/13/pages/1/129/Dialogue
+> CONTEXT: Map118/events/14/pages/1/129/Dialogue
+> CONTEXT: Map118/events/16/pages/1/129/Dialogue
+> CONTEXT: Map118/events/17/pages/1/129/Dialogue
+...... Anyway, what I want to tell her should
+have been transmitted. She also believed in me.#MTLed
+> END STRING
+
+> BEGIN STRING
+『約束』……
+
+ちゃんと僕の方も守らないとな……
+> CONTEXT: Map118/events/13/pages/1/133/Dialogue
+> CONTEXT: Map118/events/14/pages/1/133/Dialogue
+> CONTEXT: Map118/events/16/pages/1/133/Dialogue
+> CONTEXT: Map118/events/17/pages/1/133/Dialogue
+"Promise" ... I have to keep my people properly
+......#MTLed
+> END STRING
+
+> BEGIN STRING
+まったく……
+
+毎度の事ながら、無茶するよなぁ、お前……
+> CONTEXT: Map118/events/13/pages/1/137/Dialogue
+> CONTEXT: Map118/events/14/pages/1/137/Dialogue
+> CONTEXT: Map118/events/16/pages/1/137/Dialogue
+> CONTEXT: Map118/events/17/pages/1/137/Dialogue
+Absolutely ... Every time things, I will be
+unhappy, you ... ...#MTLed
+> END STRING
+
+> BEGIN STRING
+どうして、あなたは………
+
+そこまで周りを憎めるの………？
+> CONTEXT: Map118/events/13/pages/6/16/Dialogue
+> CONTEXT: Map118/events/14/pages/6/16/Dialogue
+> CONTEXT: Map118/events/16/pages/6/16/Dialogue
+> CONTEXT: Map118/events/17/pages/6/16/Dialogue
+How come you ......... Hate to hate around ...
+... ...?#MTLed
+> END STRING
+
+> BEGIN STRING
+私には…やっぱり人間は理解できない……
+
+あなたみたいな、悪魔のような人もいるなんて……
+> CONTEXT: Map118/events/13/pages/6/20/Dialogue
+> CONTEXT: Map118/events/14/pages/6/20/Dialogue
+> CONTEXT: Map118/events/16/pages/6/20/Dialogue
+> CONTEXT: Map118/events/17/pages/6/20/Dialogue
+To me ... human beings do not understand after
+all ... It seems like you, some people like demon
+... ...#MTLed
+> END STRING
+
+> BEGIN STRING
+いいえ、あなたは悪魔よりもひどい…
+
+悪魔はちゃんと『相手と向き合える』……
+> CONTEXT: Map118/events/13/pages/6/24/Dialogue
+> CONTEXT: Map118/events/14/pages/6/24/Dialogue
+> CONTEXT: Map118/events/16/pages/6/24/Dialogue
+> CONTEXT: Map118/events/17/pages/6/24/Dialogue
+No, you are awful than the demon ...
+demon properly "face the opponent" ... ...#MTLed
+> END STRING
+
+> BEGIN STRING
+…………死に損ないが、何をぶつぶつ言っている？
+> CONTEXT: Map118/events/13/pages/6/29/Dialogue
+> CONTEXT: Map118/events/14/pages/6/29/Dialogue
+> CONTEXT: Map118/events/16/pages/6/29/Dialogue
+> CONTEXT: Map118/events/17/pages/6/29/Dialogue
+............ Although it does not hurt to death,
+what are you mumbling?#MTLed
+> END STRING
+
+> BEGIN STRING
+僕を止める気なら、早くしたらどうだ。
+
+お前の身体は、もう限界のはずだ。
+> CONTEXT: Map118/events/13/pages/6/31/Dialogue
+> CONTEXT: Map118/events/14/pages/6/31/Dialogue
+> CONTEXT: Map118/events/16/pages/6/31/Dialogue
+> CONTEXT: Map118/events/17/pages/6/31/Dialogue
+If you want to stop me, why do not you hurry up.
+Your body is already limiting.#MTLed
+> END STRING
+
+> BEGIN STRING
+…………そうね。
+
+ 私はもう、擬態を解除することもできない……
+解除すれば、身体がボロボロに崩れてしまう。
+> CONTEXT: Map118/events/13/pages/6/36/Dialogue
+> CONTEXT: Map118/events/14/pages/6/36/Dialogue
+> CONTEXT: Map118/events/16/pages/6/36/Dialogue
+> CONTEXT: Map118/events/17/pages/6/36/Dialogue
+............ That's right. I can not cancel the
+mimicry anymore ...... If you release it your
+body will crumble.#MTLed
+> END STRING
+
+> BEGIN STRING
+だから、あなたを止めることは、もうできない……
+
+ただ、１つ教えて欲しいの………
+> CONTEXT: Map118/events/13/pages/6/41/Dialogue
+> CONTEXT: Map118/events/14/pages/6/41/Dialogue
+> CONTEXT: Map118/events/16/pages/6/41/Dialogue
+> CONTEXT: Map118/events/17/pages/6/41/Dialogue
+So, I can not stop you anymore ......
+But I would like you to tell me one .........#MTLed
+> END STRING
+
+> BEGIN STRING
+………………あなたはなぜ、殺す相手から
+
+必ず目を背けるの？
+> CONTEXT: Map118/events/13/pages/6/45/Dialogue
+> CONTEXT: Map118/events/14/pages/6/45/Dialogue
+> CONTEXT: Map118/events/16/pages/6/45/Dialogue
+> CONTEXT: Map118/events/17/pages/6/45/Dialogue
+.................. Why are you from a murder?
+Do you always turn your eyes off?#MTLed
+> END STRING
+
+> BEGIN STRING
+私は、他の悪魔が人間を殺すのをたくさん見てきた。
+
+ 逆に人間が、悪魔を殺すところも……
+> CONTEXT: Map118/events/13/pages/6/50/Dialogue
+> CONTEXT: Map118/events/14/pages/6/50/Dialogue
+> CONTEXT: Map118/events/16/pages/6/50/Dialogue
+> CONTEXT: Map118/events/17/pages/6/50/Dialogue
+I have seen a lot of other demons killing humans.
+On the contrary, where human beings kill demon
+......#MTLed
+> END STRING
+
+> BEGIN STRING
+でもみんな、相手の『死』に向き合ってた。
+
+ 『殺した』という事実を、受け止めていた。
+> CONTEXT: Map118/events/13/pages/6/54/Dialogue
+> CONTEXT: Map118/events/14/pages/6/54/Dialogue
+> CONTEXT: Map118/events/16/pages/6/54/Dialogue
+> CONTEXT: Map118/events/17/pages/6/54/Dialogue
+But everyone was facing the other's "death".
+I took the fact that "killed".#MTLed
+> END STRING
+
+> BEGIN STRING
+でも………あなたにはそれがない。
+
+あなたの目は、常に『別の方向』を向いている。
+> CONTEXT: Map118/events/13/pages/6/58/Dialogue
+> CONTEXT: Map118/events/14/pages/6/58/Dialogue
+> CONTEXT: Map118/events/16/pages/6/58/Dialogue
+> CONTEXT: Map118/events/17/pages/6/58/Dialogue
+But ... ... You do not have that.
+Your eyes are always facing "another direction".#MTLed
+> END STRING
+
+> BEGIN STRING
+これは、『視線』の話じゃないわよ
+
+分かっているでしょう……？
+> CONTEXT: Map118/events/13/pages/6/62/Dialogue
+> CONTEXT: Map118/events/14/pages/6/62/Dialogue
+> CONTEXT: Map118/events/16/pages/6/62/Dialogue
+> CONTEXT: Map118/events/17/pages/6/62/Dialogue
+This is not a story of "gaze". 
+You know that ... ....?#MTLed
+> END STRING
+
+> BEGIN STRING
+……………………………………
+
+そんなに知りたいなら、教えてやるよ。
+> CONTEXT: Map118/events/13/pages/6/68/Dialogue
+> CONTEXT: Map118/events/14/pages/6/68/Dialogue
+> CONTEXT: Map118/events/16/pages/6/68/Dialogue
+> CONTEXT: Map118/events/17/pages/6/68/Dialogue
+..........................................
+If you want to know so much, I will tell you.#MTLed
+> END STRING
+
+> BEGIN STRING
+僕が目覚めたとき……
+
+お前ら悪魔は、僕にとって『脅威』だった。
+ユウマの元にたどりつく目的の……
+> CONTEXT: Map118/events/13/pages/6/72/Dialogue
+> CONTEXT: Map118/events/14/pages/6/72/Dialogue
+> CONTEXT: Map118/events/16/pages/6/72/Dialogue
+> CONTEXT: Map118/events/17/pages/6/72/Dialogue
+When I wake up ... ... You guys demon was a
+"threat" to me. The purpose of reaching Yuuma ...
+...#MTLed
+> END STRING
+
+> BEGIN STRING
+対抗力、恐怖心、好奇心、気まぐれ……
+
+最初はどんな理由だったか、もう覚えていないけど
+悪魔を殺した理由は、些細なものだった気がする。
+> CONTEXT: Map118/events/13/pages/6/77/Dialogue
+> CONTEXT: Map118/events/14/pages/6/77/Dialogue
+> CONTEXT: Map118/events/16/pages/6/77/Dialogue
+> CONTEXT: Map118/events/17/pages/6/77/Dialogue
+Resistance, Afraid mind, curiosity, capricious
+... .... I do not remember what the reason was at
+the beginning. I feel I was a trivial reason for
+killing demon.#MTLed
+> END STRING
+
+> BEGIN STRING
+殺せば殺すほど、僕の力はどんどん強くなって……
+
+今の僕の力は、『悪魔』を凌駕してる。
+> CONTEXT: Map118/events/13/pages/6/82/Dialogue
+> CONTEXT: Map118/events/14/pages/6/82/Dialogue
+> CONTEXT: Map118/events/16/pages/6/82/Dialogue
+> CONTEXT: Map118/events/17/pages/6/82/Dialogue
+The more I kill, the more my power is becoming
+stronger and more ...... My strength now
+surpasses "demon".#MTLed
+> END STRING
+
+> BEGIN STRING
+だけど、それは同時に
+悪魔が『脅威』ではなくなったということ……
+
+僕が悪魔を殺す『理由』は無くなったんだ。
+> CONTEXT: Map118/events/13/pages/6/86/Dialogue
+> CONTEXT: Map118/events/14/pages/6/86/Dialogue
+> CONTEXT: Map118/events/16/pages/6/86/Dialogue
+> CONTEXT: Map118/events/17/pages/6/86/Dialogue
+But, at the same time. That demon is no longer a
+"threat" ... There is no "reason" that I kill
+demon.#MTLed
+> END STRING
+
+> BEGIN STRING
+だから、今のお前たちは、ただの邪魔な足元の小石だ。
+
+ 小石を蹴るのに、わざわざ『向き合う』わけないだろ。
+> CONTEXT: Map118/events/13/pages/6/95/Dialogue
+> CONTEXT: Map118/events/14/pages/6/95/Dialogue
+> CONTEXT: Map118/events/16/pages/6/95/Dialogue
+> CONTEXT: Map118/events/17/pages/6/95/Dialogue
+So, you guys are just stubborn pebbles.
+To kick a pebble you can not expressly "face".#MTLed
+> END STRING
+
+> BEGIN STRING
+身の程をわきまえろよ………ただの小石風情が。
+> CONTEXT: Map118/events/13/pages/6/99/Dialogue
+> CONTEXT: Map118/events/14/pages/6/99/Dialogue
+> CONTEXT: Map118/events/16/pages/6/99/Dialogue
+> CONTEXT: Map118/events/17/pages/6/99/Dialogue
+Told your whole body ......... Just a pebble
+feeling.#MTLed
+> END STRING
+
+> BEGIN STRING
+……………………
+
+残念…………ね……………
+\\N[1]は…………悪い人じゃないはずなのに……
+> CONTEXT: Map118/events/13/pages/6/102/Dialogue
+> CONTEXT: Map118/events/14/pages/6/102/Dialogue
+> CONTEXT: Map118/events/16/pages/6/102/Dialogue
+> CONTEXT: Map118/events/17/pages/6/102/Dialogue
+........................ so sorry……………
+\\N[1] ... ............ It should not be a
+bad person ... ...#MTLed
+> END STRING
+
+> BEGIN STRING
+いい人にも………
+
+なれたはずなのにね…………
+> CONTEXT: Map118/events/13/pages/6/107/Dialogue
+> CONTEXT: Map118/events/14/pages/6/107/Dialogue
+> CONTEXT: Map118/events/16/pages/6/107/Dialogue
+> CONTEXT: Map118/events/17/pages/6/107/Dialogue
+Even for good people .........
+Even though you ought to be forgotten
+............#MTLed
+> END STRING

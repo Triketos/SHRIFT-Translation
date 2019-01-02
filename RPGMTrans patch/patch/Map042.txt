@@ -1,0 +1,1026 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+親密度が１００必要。
+（現在の値：\\V[44]）
+> CONTEXT: Map042/events/3/pages/0/18/Dialogue
+Familiarity needs 100. (Current value: \\V[44] )#MTLed
+> END STRING
+
+> BEGIN STRING
+親密度が２５以上必要。
+（現在の値：\\V[44]）
+> CONTEXT: Map042/events/4/pages/0/0/Dialogue
+Familiarity must be 25 or more. (Current value: \\V[44] )#MTLed
+> END STRING
+
+> BEGIN STRING
+まってた　\\N[1]…♡
+> CONTEXT: Map042/events/5/pages/0/20/Dialogue
+Wait \\N[1]...♡#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[1]、あいにきてくれた　か？
+
+うれしい
+> CONTEXT: Map042/events/5/pages/0/25/Dialogue
+\\N[1] Have you finished? I'm happy.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[1]……
+
+わたし、なにかようか？
+> CONTEXT: Map042/events/5/pages/0/32/Dialogue
+\\N[1]....... Me, what do you think?#MTLed
+> END STRING
+
+> BEGIN STRING
+雑談する
+> CONTEXT: Map042/events/5/pages/0/48/Choice/0
+> CONTEXT: Map027/events/5/pages/0/55/Choice/0
+Chat#Dargoth
+> END STRING
+
+> BEGIN STRING
+搾精（フェラ）en(v[44] \>= 25)
+> CONTEXT: Map042/events/5/pages/0/48/Choice/1
+Milking (Fellatio) en(v[44] \>= 25)#Dargoth
+> END STRING
+
+> BEGIN STRING
+搾精（抱き）en(v[44] \>= 60)
+> CONTEXT: Map042/events/5/pages/0/48/Choice/2
+Milking (Hug) en(v[44] \>= 60)#Dargoth
+> END STRING
+
+> BEGIN STRING
+搾精（昇天フェラ）en(v[44] \>= 80)
+> CONTEXT: Map042/events/5/pages/0/48/Choice/3
+Milking (Supreme Fellatio) en(v[44] \>= 80)#Dargoth
+> END STRING
+
+> BEGIN STRING
+プレゼントを渡す
+> CONTEXT: Map042/events/5/pages/0/159/Choice/0
+> CONTEXT: Map027/events/5/pages/0/164/Choice/0
+Give a present#Dargoth
+> END STRING
+
+> BEGIN STRING
+ご、ごめん　\\N[1]
+
+それ　もらっても　わたし　使う　できない…
+> CONTEXT: Map042/events/5/pages/0/240/Dialogue
+I'm sorry. \\N[1]. I can not use it even if I
+receive it ...#MTLed
+> END STRING
+
+> BEGIN STRING
+エンプーサは\\C[2]プレゼントを受け取らなかった…
+> CONTEXT: Map042/events/5/pages/0/244/Dialogue
+Empuse\\C[2] I did not receive the gift ...#MTLed
+> END STRING
+
+> BEGIN STRING
+心蝕を消すif(v[44] \>= 100)
+> CONTEXT: Map042/events/5/pages/0/252/Choice/0
+Remove mind corruption if(v[44] \>= 100)#Dargoth
+> END STRING
+
+> BEGIN STRING
+どうした？\\N[1]。
+
+また　狩りごっこ　するか？
+> CONTEXT: Map042/events/5/pages/0/263/Dialogue
+What happened? \\N[1] . Also hunting to
+pretend play?#MTLed
+> END STRING
+
+> BEGIN STRING
+"エンプーサの心蝕が治った！！"
+> CONTEXT: Map042/events/5/pages/0/274/InlineScript/1:13
+"エンプーサ's mind corruption cured!!"#MTLed
+> END STRING
+
+> BEGIN STRING
+あ　ああ
+
+しゃべるの　なれてない　けど　が　がんばる
+> CONTEXT: Map042/events/5/pages/1/0/Dialogue
+Ah. I do not get used to talking but I will do my
+best#MTLed
+> END STRING
+
+> BEGIN STRING
+シェルターのその後 en(v[44] \>= 25)
+> CONTEXT: Map042/events/5/pages/1/6/Choice/0
+After shelteren(v[44] \>= 25)#MTLed
+> END STRING
+
+> BEGIN STRING
+『オス』について en(v[44] \>= 40)
+> CONTEXT: Map042/events/5/pages/1/6/Choice/1
+About "male"en(v[44] \>= 40)#MTLed
+> END STRING
+
+> BEGIN STRING
+『バーゲスト』 en(v[44] \>= 60)
+> CONTEXT: Map042/events/5/pages/1/6/Choice/2
+"Barghest"en(v[44] \>= 60)#MTLed
+> END STRING
+
+> BEGIN STRING
+さんぽ en(v[44] \>= 80)
+> CONTEXT: Map042/events/5/pages/1/6/Choice/3
+Walken(v[44] \>= 80)#MTLed
+> END STRING
+
+> BEGIN STRING
+あ、あのあと　わたし　を
+
+ ヘカーテ　さま　よんだ。
+> CONTEXT: Map042/events/5/pages/1/11/Dialogue
+Oh, then me. Hecate says it.#MTLed
+> END STRING
+
+> BEGIN STRING
+わたし　消される　おもって
+
+ カクゴ　して　出てきた。
+> CONTEXT: Map042/events/5/pages/1/15/Dialogue
+I thought that it was erased. 
+I caught out and came out.#MTLed
+> END STRING
+
+> BEGIN STRING
+でも　ヘカーテ　さま　すごい　ニコニコ
+
+ わたし　しゃべる　ようにした
+> CONTEXT: Map042/events/5/pages/1/19/Dialogue
+But Hecate - sama wow * smile *
+I tried to speak#MTLed
+> END STRING
+
+> BEGIN STRING
+そして　言った
+
+『にどと　もどる　ダメ』って……
+> CONTEXT: Map042/events/5/pages/1/24/Dialogue
+And said. "Do not get back to business" ...#MTLed
+> END STRING
+
+> BEGIN STRING
+………要するに、捨てられちゃったのか……。
+> CONTEXT: Map042/events/5/pages/1/28/Dialogue
+......... In short, have they been thrown away
+...?#MTLed
+> END STRING
+
+> BEGIN STRING
+それにしても、片言だなんて
+
+もっと滑らかに喋れるようにしてくれても良かっただろうに…
+> CONTEXT: Map042/events/5/pages/1/30/Dialogue
+Even so, It would have been nice to make you talk
+more smoothly ...#MTLed
+> END STRING
+
+> BEGIN STRING
+ウゥ……　もともと　わたし　くち
+
+ しゃべる　コウゾウ　できて　ない。
+> CONTEXT: Map042/events/5/pages/1/34/Dialogue
+Uu ...... Originally I town. I can not speak
+Spanish.#MTLed
+> END STRING
+
+> BEGIN STRING
+あまり　はやく　しゃべる　とっ
+
+ たくさん　ベロ　からまる……
+> CONTEXT: Map042/events/5/pages/1/38/Dialogue
+I do not speak so fast. A lot of veils sticking
+... ....#MTLed
+> END STRING
+
+> BEGIN STRING
+ああ………
+
+あの大量の舌が、むしろ邪魔してるのか…。
+> CONTEXT: Map042/events/5/pages/1/42/Dialogue
+Oh………. Is that massive tongue rather disturbing
+... / /.#MTLed
+> END STRING
+
+> BEGIN STRING
+まぁ、シェルター襲撃用に『特製で』創ったって
+
+ ヘカーテも言ってたしなぁ……
+> CONTEXT: Map042/events/5/pages/1/46/Dialogue
+Well, I made it 'special made' for the shelter
+raid. Hecate also said that......#MTLed
+> END STRING
+
+> BEGIN STRING
+ヘカーテ　さま　カイゾウ　するまえ
+
+『にんげん　いっぱい　なめる　できる　からだに　する』
+ 言った……。
+> CONTEXT: Map042/events/5/pages/1/50/Dialogue
+Hecate-sama says to kaizou. "I will make lots of
+liberating lunches". Said…….#MTLed
+> END STRING
+
+> BEGIN STRING
+わたし　よろこんだ。
+
+カイゾウ　よろこんで　うけた
+> CONTEXT: Map042/events/5/pages/1/55/Dialogue
+I am thrilled. I'm pleased to hear from you.#MTLed
+> END STRING
+
+> BEGIN STRING
+でも　『シェルター』　きてから　ほとんど……
+
+カマ　つかう　斬る　メイレイ　ばかり
+> CONTEXT: Map042/events/5/pages/1/60/Dialogue
+But almost since she came "shelter" ....
+Meira only kills using#MTLed
+> END STRING
+
+> BEGIN STRING
+……………ウゥ
+
+ ユウワク　できる　カラダ　に　もどりたい……
+> CONTEXT: Map042/events/5/pages/1/64/Dialogue
+............... w. I want to return to a body
+that can be Yu Waku ......#MTLed
+> END STRING
+
+> BEGIN STRING
+（…ひょっとして、あのシェルターにいたヘカーテの部下で
+
+一番可哀想なの、この子なんじゃ……）
+> CONTEXT: Map042/events/5/pages/1/68/Dialogue
+(... perhaps, at Hecate's subordinate who was at
+that shelter. It is the most poor thing, is this
+child......)#MTLed
+> END STRING
+
+> BEGIN STRING
+そういえば、確かエンプーサって
+
+『オス』を殺されて怒り狂ったって聞いたけど……
+> CONTEXT: Map042/events/5/pages/1/77/Dialogue
+Speaking of which, certainly Empuse
+I heard that they were mad because "male" was
+killed.#MTLed
+> END STRING
+
+> BEGIN STRING
+その………大丈夫なの？
+
+ 気持ちの整理的なやつは………。
+> CONTEXT: Map042/events/5/pages/1/81/Dialogue
+That.........Are you all right?
+The reasonable man of feelings ..........#MTLed
+> END STRING
+
+> BEGIN STRING
+そ、それが………
+
+その　はなし　よく　わからない
+> CONTEXT: Map042/events/5/pages/1/85/Dialogue
+Well, that is ......... That story I do not know#MTLed
+> END STRING
+
+> BEGIN STRING
+そもそも　エンプーサ　に
+
+ オス　いない　はず………
+> CONTEXT: Map042/events/5/pages/1/89/Dialogue
+In the first place to Empuse. 
+Male should not be .........#MTLed
+> END STRING
+
+> BEGIN STRING
+たしかに　『シェルター』の　ため　わたしと　もうひとり
+
+ とくべつな　エンプーサ　創られた。
+> CONTEXT: Map042/events/5/pages/1/95/Dialogue
+Certainly she and I are another for "shelter"
+A special Empuse was created.#MTLed
+> END STRING
+
+> BEGIN STRING
+さいしょ　わたし。
+
+つぎ　もっと　するどく　こわい　エンプーサ。
+> CONTEXT: Map042/events/5/pages/1/99/Dialogue
+I will, I will. The next most frightening Empuse.#MTLed
+> END STRING
+
+> BEGIN STRING
+でも　たしか　むこうも　メス……
+
+オス　いなかった　はず……
+> CONTEXT: Map042/events/5/pages/1/103/Dialogue
+But female student certainly ......
+It should have never been a male ......#MTLed
+> END STRING
+
+> BEGIN STRING
+じ、じゃあ、君がオスが死んで怒り狂ったってのは…？
+> CONTEXT: Map042/events/5/pages/1/107/Dialogue
+Jun, then you said that the male died and was
+angry ...?#MTLed
+> END STRING
+
+> BEGIN STRING
+もうひとり　たおれてる　みて
+
+ 怒った　のは　たしか。
+> CONTEXT: Map042/events/5/pages/1/109/Dialogue
+Looking at another person alone
+It is certain that he got angry.#MTLed
+> END STRING
+
+> BEGIN STRING
+タブン　だけど……　おたがい　しぬと
+
+ ヘカーテ　さま　怒る　ように　創った……
+> CONTEXT: Map042/events/5/pages/1/113/Dialogue
+It's a taboon...but...if you do not do it
+Hecate-sama made me angry......#MTLed
+> END STRING
+
+> BEGIN STRING
+『つがい』　殺される　とき　おなじ……
+
+怒る　ように……
+> CONTEXT: Map042/events/5/pages/1/117/Dialogue
+The same as when "Mutual" is killed ......
+To get angry ......#MTLed
+> END STRING
+
+> BEGIN STRING
+なんだよそれ………！
+
+ 部下の感情すら、意のままにしてたってのか……！？
+> CONTEXT: Map042/events/5/pages/1/121/Dialogue
+What is it...... ...! Even his feelings were
+left intact......!?#MTLed
+> END STRING
+
+> BEGIN STRING
+わたし　たしかに　おこった　けど……
+
+ニンゲン　きりきざむ　は　ヘカーテ　さま　メイレイ……
+> CONTEXT: Map042/events/5/pages/1/125/Dialogue
+I am sure I happened .... 'human' Giraffe is
+Hecate-sama Meira ......#MTLed
+> END STRING
+
+> BEGIN STRING
+でも　タブン……
+
+\\N[1]　死んだら　きっと　ほんとう　怒る
+> CONTEXT: Map042/events/5/pages/1/129/Dialogue
+But Tabun...\\N[1] I'm sure I will get mad
+when dead#MTLed
+> END STRING
+
+> BEGIN STRING
+よく　わからない　けど……
+
+だから　\\N[1]　は　わたし　の　オス……
+> CONTEXT: Map042/events/5/pages/1/133/Dialogue
+Well I do not know but...So \\N[1] My male
+......#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[1]　いじめ　ないか？
+
+いじめ　されたら　いつでも　言って。
+> CONTEXT: Map042/events/5/pages/1/137/Dialogue
+\\N[1] Do not you bully? Tell me whenever you
+are bullied.#MTLed
+> END STRING
+
+> BEGIN STRING
+
+わたし　そいつ　きりきざむ　から
+> CONTEXT: Map042/events/5/pages/1/141/Dialogue
+Because I cut it down#MTLed
+> END STRING
+
+> BEGIN STRING
+お、おっかないこと真顔で言わないで！？
+
+ 大丈夫！！大丈夫だから！！
+> CONTEXT: Map042/events/5/pages/1/144/Dialogue
+Oh huh, do not say with a serious look!?
+All right!!Like I said, I'm fine! !#MTLed
+> END STRING
+
+> BEGIN STRING
+エンプーサの舌って、魅了魔法の魔力があるんだよね？
+
+バーゲストみたいに…………
+> CONTEXT: Map042/events/5/pages/1/153/Dialogue
+Empuse 's tongue has Charmed magic magical power,
+right? Like barghest ............#MTLed
+> END STRING
+
+> BEGIN STRING
+ウゥ………！！！バーゲスト！！バーゲスト！！
+
+グオォ！！
+> CONTEXT: Map042/events/5/pages/1/159/Dialogue
+Woo .........!!! barghest!!barghest! !
+Guo! !#MTLed
+> END STRING
+
+> BEGIN STRING
+な、なに！？
+
+どうしたの！エンプーサ！？
+> CONTEXT: Map042/events/5/pages/1/168/Dialogue
+?? What's wrong! Empuse!?#MTLed
+> END STRING
+
+> BEGIN STRING
+フーッ！！
+
+フーッ………！！！
+> CONTEXT: Map042/events/5/pages/1/172/Dialogue
+Fu!!Fu .........!!!#MTLed
+> END STRING
+
+> BEGIN STRING
+あー………。
+
+こりゃ、俺から説明した方がよさげか？
+> CONTEXT: Map042/events/5/pages/1/179/Dialogue
+Ah………. Well, did you better explain from me?#MTLed
+> END STRING
+
+> BEGIN STRING
+ど、どうしたんだよ一体……
+
+シェルターの時でも見たことないぞ、こんな暴れ方……。
+> CONTEXT: Map042/events/5/pages/1/183/Dialogue
+Well, what is wrong, he ......
+I have never seen it even when she is a shelter,
+such a rampage.......#MTLed
+> END STRING
+
+> BEGIN STRING
+実はなぁ………エンプーサって、
+
+ 犬悪魔のバーゲストとヤバいくらい仲悪いんだよ。
+> CONTEXT: Map042/events/5/pages/1/187/Dialogue
+Actually ......... Empuse, It is bad about bad
+dogs and bad dogs about dogs.#MTLed
+> END STRING
+
+> BEGIN STRING
+んで、大好きなお前の口からその名前が出たもんだから
+
+びっくりして興奮してるみたいだぜ……。
+> CONTEXT: Map042/events/5/pages/1/191/Dialogue
+Well, because that name comes out from your
+favorite mouth. It seems that I am surprised and
+Aroused.......#MTLed
+> END STRING
+
+> BEGIN STRING
+ウゥ……！！わたし　イヌ　ちがう！！
+
+なのに　ヘカーテ　さまっ　おこった　言う！！
+> CONTEXT: Map042/events/5/pages/1/195/Dialogue
+Wow ...!!I'm not a dog!!Nevertheless says
+Hecate wandered around! !#MTLed
+> END STRING
+
+> BEGIN STRING
+『バーゲスト　より　わるいこ』
+
+ 『バーゲスト　より　せっそう　なし』！！
+> CONTEXT: Map042/events/5/pages/1/199/Dialogue
+"Better than barghest". "Worse than barghest"! !#MTLed
+> END STRING
+
+> BEGIN STRING
+ウゥ……！！！わたし　あんなに　ベロ　だしてないっ！
+
+ 『コカン』　だって　かくしてるっ！！
+> CONTEXT: Map042/events/5/pages/1/203/Dialogue
+Wow ...!!! I'm not doing so much!
+'Cocan' is a cow! !#MTLed
+> END STRING
+
+> BEGIN STRING
+く、比べるところ、そこなんだ……？
+> CONTEXT: Map042/events/5/pages/1/207/Dialogue
+Where are we comparing it ...?#MTLed
+> END STRING
+
+> BEGIN STRING
+お、落ち着いた？エンプーサ…
+> CONTEXT: Map042/events/5/pages/1/226/Dialogue
+Did you calm down? Empuse ...#MTLed
+> END STRING
+
+> BEGIN STRING
+ウゥ……　ごめん…
+
+シツモン　意味　リカイ　してなかた…
+> CONTEXT: Map042/events/5/pages/1/228/Dialogue
+Uoo...I'm sorry...Shitomon Meaning Rekai ...#MTLed
+> END STRING
+
+> BEGIN STRING
+バーゲスト　おなじ　ちがう
+
+もともと　私の　マリョク　が　おおい
+> CONTEXT: Map042/events/5/pages/1/232/Dialogue
+barghest the same picture. Originally my mallow#MTLed
+> END STRING
+
+> BEGIN STRING
+ベロ　かず　だけ　すこし　ブンサン
+
+それで　だいたい　バーゲスト　おなじ
+> CONTEXT: Map042/events/5/pages/1/236/Dialogue
+Just a little scary little Bunsan
+So it's roughly the same as barghest#MTLed
+> END STRING
+
+> BEGIN STRING
+ただ……　ニンゲン　なめる　とき…
+
+そんなに　マリョク　当てない。　ニンゲン　こわれる。
+> CONTEXT: Map042/events/5/pages/1/240/Dialogue
+Just...... when 'licking' human ...
+I can not hit that much. 'Human' It is broken.#MTLed
+> END STRING
+
+> BEGIN STRING
+つ、つまり、元々は自分の方が魔力が高いんだけど
+
+舌の数だけ分散しただけで、
+そもそも人間相手だと、そんなに魔力は要らないと…
+> CONTEXT: Map042/events/5/pages/1/244/Dialogue
+In other words, myself is originally more magical
+than me. With just the number of tongues
+dispersed, In the first place, if you are a human
+partner, you have to have so much magical power
+...#MTLed
+> END STRING
+
+> BEGIN STRING
+…………\\N[1]、よく分かってる。
+
+……スキ。
+> CONTEXT: Map042/events/5/pages/1/250/Dialogue
+............ \\N[1] I know very well.
+……Love.#MTLed
+> END STRING
+
+> BEGIN STRING
+（な、なんで勝ち誇ったような顔なんだろう…？）
+> CONTEXT: Map042/events/5/pages/1/254/Dialogue
+(Why is it like a face that won?#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[1]。
+
+わたし　バーゲスト　どっち　すきか？
+> CONTEXT: Map042/events/5/pages/1/257/Dialogue
+\\N[1] . Which do you like, barghel?#MTLed
+> END STRING
+
+> BEGIN STRING
+（ダイレクトな２択で聞いてきたなー！！）
+> CONTEXT: Map042/events/5/pages/1/261/Dialogue
+(I heard with direct 2 choices !!)#MTLed
+> END STRING
+
+> BEGIN STRING
+え、えっと……
+
+そもそも種族がちがうし、どっちにも良いとこ……ろ…-
+> CONTEXT: Map042/events/5/pages/1/263/Dialogue
+Let me see……. In the first place the race is
+different, which one is better...... -#MTLed
+> END STRING
+
+> BEGIN STRING
+……が…-
+> CONTEXT: Map042/events/5/pages/1/267/Dialogue
+……But…-#MTLed
+> END STRING
+
+> BEGIN STRING
+も、もちろん………！君さ！エンプーサ！
+> CONTEXT: Map042/events/5/pages/1/271/Dialogue
+Of course, of course .........! You! Empuse!#MTLed
+> END STRING
+
+> BEGIN STRING
+…………♡♡
+> CONTEXT: Map042/events/5/pages/1/273/Dialogue
+> CONTEXT: Map006/events/3/pages/2/61/Dialogue
+> CONTEXT: Commonevents/111/14/Dialogue
+> CONTEXT: Commonevents/111/60/Dialogue
+> CONTEXT: Commonevents/289/211/Dialogue
+> CONTEXT: Commonevents/460/38/Dialogue
+............ ♡♡#MTLed
+> END STRING
+
+> BEGIN STRING
+（あんな風に鎌を振り上げられたら
+
+　そうとしか言えないじゃんか……！！）
+> CONTEXT: Map042/events/5/pages/1/275/Dialogue
+(If you can raise a sickle like that
+I can only say that......!!)#MTLed
+> END STRING
+
+> BEGIN STRING
+…………\\N[1]　つぎ　なに　はなし　する？
+
+交尾　でも　いいぞ？
+> CONTEXT: Map042/events/5/pages/1/279/Dialogue
+............ \\N[1] What will you talk next?
+Mating is also nice?#MTLed
+> END STRING
+
+> BEGIN STRING
+（あ、でも、具体的なこととか深い部分の話に
+
+　持っていこうとはしないんだな………？）
+> CONTEXT: Map042/events/5/pages/1/283/Dialogue
+(Oh, but to talk about concrete things or a deep
+part. I do not want to take it .........? )#MTLed
+> END STRING
+
+> BEGIN STRING
+（ふつう、こういう話題って、さらに相手との比較で
+
+　自分を持ち上げさせようとするけど……。）
+> CONTEXT: Map042/events/5/pages/1/287/Dialogue
+(Usually, like this topic, in comparison with the
+opponent. I try to lift myself, but .... )#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[1]　好きなの　わたし
+
+ バーゲスト　ちがう♪
+> CONTEXT: Map042/events/5/pages/1/291/Dialogue
+\\N[1] I like it, I. barghest Different♪#MTLed
+> END STRING
+
+> BEGIN STRING
+（……ひょっとして、自分を納得させるだけのきっかけを
+
+　僕に欲しがっただけなのかな……？）
+> CONTEXT: Map042/events/5/pages/1/297/Dialogue
+(......possibly just to convince yourself
+I wonder if she just wanted me ...? )#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[1]　すこし　歩く　ないか？
+
+ここ　へや　おく　茂み　なってる。
+> CONTEXT: Map042/events/5/pages/1/306/Dialogue
+\\N[1] Will not you walk a little?
+I'm getting busy here.#MTLed
+> END STRING
+
+> BEGIN STRING
+なんか道が続いてるように見えてたけど
+
+ ホントに奥があったんだね。
+> CONTEXT: Map042/events/5/pages/1/310/Dialogue
+Although it seemed like the road continued
+somewhere. It really was awful.#MTLed
+> END STRING
+
+> BEGIN STRING
+よし！いいよ。
+
+ 一緒に散歩しよう。
+> CONTEXT: Map042/events/5/pages/1/314/Dialogue
+All right! OK. Let's stroll together.#MTLed
+> END STRING
+
+> BEGIN STRING
+…………って言って、一緒に歩いてたはずなのに……
+> CONTEXT: Map042/events/5/pages/1/325/Dialogue
+............ saying that...I should have walked
+with you ......#MTLed
+> END STRING
+
+> BEGIN STRING
+【キズナイベント】if(v[44] \>= 99)
+> CONTEXT: Map042/events/5/pages/1/332/Choice/0
+Bonding Event if(v[44] \>= 99)#Dargoth
+> END STRING
+
+> BEGIN STRING
+\\N[1]　また　狩りごっこ　やろう！
+
+あれ　とっても　たのしい！
+> CONTEXT: Map042/events/5/pages/1/337/Dialogue
+\\N[1] Also hunt pretend play let's do it!
+That was so fun!#MTLed
+> END STRING
+
+> BEGIN STRING
+（確かに、僕を捕まえるときのエンプーサの顔
+
+　すごく笑顔だもんなぁ…）
+> CONTEXT: Map042/events/5/pages/1/341/Dialogue
+(Certainly, Empuse's face when catching me
+It is a very smiling face ...)#MTLed
+> END STRING
+
+> BEGIN STRING
+（まだ突然出られてくるのにちょっと驚いちゃうけど……）
+> CONTEXT: Map042/events/5/pages/1/345/Dialogue
+(I'm a little surprised to come out suddenly yet
+...).#MTLed
+> END STRING
+
+> BEGIN STRING
+い、いいよ！エンプーサ！
+
+狩りごっこ、やろうか！
+> CONTEXT: Map042/events/5/pages/1/347/Dialogue
+Good! Empuse! Hunt pretend play, let's do it!#MTLed
+> END STRING
+
+> BEGIN STRING
+…………………………………
+> CONTEXT: Map042/events/5/pages/2/1/Dialogue
+...........................................#MTLed
+> END STRING
+
+> BEGIN STRING
+あ、あれ？どうしたのエンプーサ……
+
+あまり嬉しそうじゃないけど……
+> CONTEXT: Map042/events/5/pages/2/4/Dialogue
+Oh, that? What's wrong with Empuse ......
+I do not feel so happy, but ...#MTLed
+> END STRING
+
+> BEGIN STRING
+もしかして嫌だった……？
+
+こういう関係になるのって……
+> CONTEXT: Map042/events/5/pages/2/8/Dialogue
+Did you mean that ...? To become such a
+relationship......#MTLed
+> END STRING
+
+> BEGIN STRING
+違う………
+
+\\N[1]　告白する　とっても　うれしい……
+> CONTEXT: Map042/events/5/pages/2/13/Dialogue
+Wrong………. \\N[1] I am very happy to confess
+... ...#MTLed
+> END STRING
+
+> BEGIN STRING
+だけど　やっぱり……
+もと　の　すがた　で　受けたかった……
+
+人間　に　近い姿……
+> CONTEXT: Map042/events/5/pages/2/17/Dialogue
+But after all...I wanted to receive it with the
+original ...... Appearance close to humans ......#MTLed
+> END STRING
+
+> BEGIN STRING
+………僕はむしろ、元の『エンプーサ』を知らないから
+
+今の君の姿が、僕の好きな『エンプーサ』だよ。
+> CONTEXT: Map042/events/5/pages/2/24/Dialogue
+......... Because I do not know the original
+"Empuse". Your present figure is my favorite
+"Empuse".#MTLed
+> END STRING
+
+> BEGIN STRING
+まあ確かに、最初に姿を見たときは
+大きかったし、見た目もすこし怖く感じたけど
+
+ここで色々話すうちに、分かってきたんだ。
+> CONTEXT: Map042/events/5/pages/2/28/Dialogue
+Well certainly, when I first saw the figure
+It was big and I felt a bit scared
+I talked a lot about it here, I started to
+understand.#MTLed
+> END STRING
+
+> BEGIN STRING
+君は本当は、優しい性格で……
+
+僕の事だって、本気で心配してくれている。
+> CONTEXT: Map042/events/5/pages/2/33/Dialogue
+You are truly a gentle person......
+Even me, I am seriously worried.#MTLed
+> END STRING
+
+> BEGIN STRING
+ヘカーテに命令されていただけで
+
+人を傷付けたりするのは大嫌いなんだって事も…
+> CONTEXT: Map042/events/5/pages/2/37/Dialogue
+Just being ordered by Hecate. 
+Even I hate hurting people ...#MTLed
+> END STRING
+
+> BEGIN STRING
+僕は、これからも君と一緒にいたい。
+
+ 今までのように、そして、それ以上に……
+> CONTEXT: Map042/events/5/pages/2/43/Dialogue
+I want to stay with you from now on.
+As before, and beyond that ....#MTLed
+> END STRING
+
+> BEGIN STRING
+…………
+
+後悔　ないか？　\\N[1]。
+> CONTEXT: Map042/events/5/pages/2/48/Dialogue
+............ Do you regret? In case \\N[1] .#MTLed
+> END STRING
+
+> BEGIN STRING
+私　へんげ　できない。
+
+ 人間界　そと　歩く　むずかしい。
+> CONTEXT: Map042/events/5/pages/2/52/Dialogue
+I can not do it. the human realm It is difficult
+to walk.#MTLed
+> END STRING
+
+> BEGIN STRING
+…………それでも？
+
+ 本気で、私で　いいか？
+> CONTEXT: Map042/events/5/pages/2/56/Dialogue
+............ Still? Seriously, is it OK with me?#MTLed
+> END STRING
+
+> BEGIN STRING
+もちろんだよ…
+
+エンプーサ。
+> CONTEXT: Map042/events/5/pages/2/61/Dialogue
+sure…. Empuse.#MTLed
+> END STRING
+
+> BEGIN STRING
+……………わかった。
+
+ 私も　ずっと　\\N[1]　つがい　なる。
+> CONTEXT: Map042/events/5/pages/2/66/Dialogue
+……………all right. I, too \\N[1] It is a
+mistake.#MTLed
+> END STRING
+
+> BEGIN STRING
+でも……
+
+\\N[1]　さっき　少し　間違えた。
+> CONTEXT: Map042/events/5/pages/2/70/Dialogue
+But...\\N[1] I made a mistake a bit
+earlier.#MTLed
+> END STRING
+
+> BEGIN STRING
+私　やさしい　違う。
+
+\\N[1]　へ　搾精　容赦する　ない♡
+> CONTEXT: Map042/events/5/pages/2/76/Dialogue
+I am kind easy. \\N[1] Do not pardon milking
+♡#MTLed
+> END STRING
+
+> BEGIN STRING
+『つがい』　なるなら　覚悟　いいな？
+
+いっぱい　搾る　毎日…♡♡♡
+> CONTEXT: Map042/events/5/pages/2/80/Dialogue
+Will you be prepared if it is "twin"?
+Every day I squeeze...... ♡ ♡ ♡#MTLed
+> END STRING
+
+> BEGIN STRING
+は、ははは………
+
+出来る限りがんばるよ……
+> CONTEXT: Map042/events/5/pages/2/84/Dialogue
+Hahaha.........I will try hard as much as
+possible ......#MTLed
+> END STRING
+
+> BEGIN STRING
+エンゲージリングを受け取ってもらったことで
+
+\\C[2]エンプーサと婚約した！
+> CONTEXT: Map042/events/5/pages/2/94/Dialogue
+By having an engagement ring received. \\C[2]I was engaged to
+Empuse!#MTLed
+> END STRING
+
+> BEGIN STRING
+親密度が５０以上必要。
+（現在の値：\\V[44]）
+> CONTEXT: Map042/events/6/pages/0/0/Dialogue
+Familiarity needs to be 50 or more. (Current value: \\V[44] )#MTLed
+> END STRING
+
+> BEGIN STRING
+あ！
+
+えっと確か…きみは……
+> CONTEXT: Map042/events/7/pages/0/2/Dialogue
+Ah! Well...definitely...you are......#MTLed
+> END STRING
+
+> BEGIN STRING
+………え……ええんぷーさ…
+
+『えんぷーさ』……
+> CONTEXT: Map042/events/7/pages/0/6/Dialogue
+......... Eh ...... Empuuuse ...
+"Empuuuse" ...#MTLed
+> END STRING
+
+> BEGIN STRING
+\\{喋れるんかい！？
+> CONTEXT: Map042/events/7/pages/0/10/Dialogue
+\\{Can you talk!?#MTLed
+> END STRING
+
+> BEGIN STRING
+ちがう　あのときは…
+
+しゃべる　のうりょく　ない　かた
+> CONTEXT: Map042/events/7/pages/0/12/Dialogue
+At that time...I do not speak#MTLed
+> END STRING
+
+> BEGIN STRING
+『へかーて』　さま
+
+ここ　くる　ぜったい　いや　って…
+> CONTEXT: Map042/events/7/pages/0/16/Dialogue
+"Hello". I will not come here at all ...#MTLed
+> END STRING
+
+> BEGIN STRING
+だから……
+
+わたし　むりやり　しゃ、しゃべべる　ように　した
+> CONTEXT: Map042/events/7/pages/0/20/Dialogue
+So .... I made myself trying to talk#MTLed
+> END STRING
+
+> BEGIN STRING
+ああ………まぁ……
+
+あんな別れ方だったしね…そりゃ怒ってるのか……
+> CONTEXT: Map042/events/7/pages/0/24/Dialogue
+Oh ......... Well...That was how I broke up ...
+Is that so angry ...?#MTLed
+> END STRING
+
+> BEGIN STRING
+………もう
+
+わたし　かえる　ばしょ　ない
+> CONTEXT: Map042/events/7/pages/0/28/Dialogue
+………Already. I will not change#MTLed
+> END STRING
+
+> BEGIN STRING
+ずっと　ここ　いる
+
+\\N[1]　すき　じかん　ここ　きて
+> CONTEXT: Map042/events/7/pages/0/32/Dialogue
+I have been here forever. \\N[1] Plowing here#MTLed
+> END STRING

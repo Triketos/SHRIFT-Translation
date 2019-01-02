@@ -1,0 +1,37 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+
+　　　　　　MOW拠点施設からの押収品リスト
+> CONTEXT: Map009/events/4/pages/0/2/Dialogue
+List of seized goods from MOW base facilities#Aesthetic
+> END STRING
+
+> BEGIN STRING
+　　　　　要注意団体MOWの活動拠点制圧の際の押収品です。
+ 　　　　　魔術品も含まれていますので、取り扱いには
+　　　　　　　　細心の注意を払ってください。
+> CONTEXT: Map009/events/4/pages/0/6/Dialogue
+It is a confiscated product at the time of bureau pressure
+control of the MOW activity base group MOW.
+Magical items are also included, so in handling
+Please pay close attention.#MTLed
+> END STRING
+
+> BEGIN STRING
+１．祝福儀礼用短剣。　　　　　＿1
+２．閃光手榴弾　　　　　　　　＿2
+３．銀の弾丸　　　　　　　　　＿156
+> CONTEXT: Map009/events/4/pages/0/11/Dialogue
+1. Blessing ceremonial dagger. _1. 2. Flash grenade _ 2
+3. silver rounds _ 156#MTLed
+> END STRING
+
+> BEGIN STRING
+４．アドレナリン　　　　　　　＿10
+５．魔素を含んだ錠剤　　　　　＿3
+６．ロザリオ　　　　　　　　　＿4
+７．勾玉　　　　　　　　　　　＿7
+> CONTEXT: Map009/events/4/pages/0/16/Dialogue
+4. Adrenaline _ 10. 5. Tablets containing sorcery _ 3
+6. Rosary_ 4. 7. Magatama _ 7#MTLed
+> END STRING

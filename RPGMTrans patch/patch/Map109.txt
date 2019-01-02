@@ -1,0 +1,222 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+あ、そうそう♪
+\\C[2]新商品を魔界の方から取り寄せてきたんだ！
+
+『その他』の項目に入れておくから、チェックしといてね！
+> CONTEXT: Map109/events/109/pages/1/0/Dialogue
+> CONTEXT: Map110/events/110/pages/1/0/Dialogue
+> CONTEXT: Map108/events/103/pages/1/0/Dialogue
+> CONTEXT: Map106/events/59/pages/1/0/Dialogue
+> CONTEXT: Map109/events/109/pages/2/0/Dialogue
+> CONTEXT: Map110/events/110/pages/2/0/Dialogue
+> CONTEXT: Map108/events/103/pages/2/0/Dialogue
+> CONTEXT: Map106/events/59/pages/2/0/Dialogue
+> CONTEXT: Map107/events/10/pages/1/0/Dialogue
+> CONTEXT: Map107/events/10/pages/2/0/Dialogue
+Oh, I see.♪. \\C[2]I have ordered new items from Makai
+people! I will put it in the item of "other", so
+please check it!#MTLed
+> END STRING
+
+> BEGIN STRING
+もしカプセルでの強化に失敗したとかって人は
+
+結構役に立つかも知れないから！！
+> CONTEXT: Map109/events/109/pages/1/5/Dialogue
+> CONTEXT: Map110/events/110/pages/1/5/Dialogue
+> CONTEXT: Map108/events/103/pages/1/5/Dialogue
+> CONTEXT: Map106/events/59/pages/1/5/Dialogue
+> CONTEXT: Map109/events/109/pages/2/5/Dialogue
+> CONTEXT: Map110/events/110/pages/2/5/Dialogue
+> CONTEXT: Map108/events/103/pages/2/5/Dialogue
+> CONTEXT: Map106/events/59/pages/2/5/Dialogue
+> CONTEXT: Map107/events/10/pages/1/5/Dialogue
+> CONTEXT: Map107/events/10/pages/2/5/Dialogue
+If a person fails to strengthen with a capsule
+Because it may be quite useful! !#MTLed
+> END STRING
+
+> BEGIN STRING
+商品を見たい
+> CONTEXT: Map109/events/109/pages/1/9/Choice/0
+> CONTEXT: Map110/events/110/pages/1/9/Choice/0
+> CONTEXT: Map108/events/103/pages/1/9/Choice/0
+> CONTEXT: Map106/events/59/pages/1/9/Choice/0
+> CONTEXT: Map109/events/109/pages/2/9/Choice/0
+> CONTEXT: Map110/events/110/pages/2/9/Choice/0
+> CONTEXT: Map108/events/103/pages/2/9/Choice/0
+> CONTEXT: Map106/events/59/pages/2/9/Choice/0
+> CONTEXT: Map109/events/109/pages/3/4/Choice/0
+> CONTEXT: Map110/events/110/pages/3/4/Choice/0
+> CONTEXT: Map108/events/103/pages/3/4/Choice/0
+> CONTEXT: Map106/events/59/pages/3/4/Choice/0
+> CONTEXT: Map107/events/10/pages/1/9/Choice/0
+> CONTEXT: Map107/events/10/pages/2/9/Choice/0
+> CONTEXT: Map107/events/10/pages/3/4/Choice/0
+> CONTEXT: Map094/events/11/pages/0/8/Choice/0
+> CONTEXT: Map094/events/11/pages/1/5/Choice/0
+> CONTEXT: Map074/events/40/pages/0/5/Choice/0
+> CONTEXT: Map074/events/40/pages/1/4/Choice/0
+> CONTEXT: Map074/events/40/pages/2/5/Choice/0
+> CONTEXT: Map063/events/72/pages/1/5/Choice/0
+> CONTEXT: Map063/events/72/pages/2/4/Choice/0
+> CONTEXT: Map063/events/72/pages/3/5/Choice/0
+> CONTEXT: Map047/events/40/pages/1/5/Choice/0
+> CONTEXT: Map047/events/40/pages/2/4/Choice/0
+> CONTEXT: Map047/events/40/pages/3/5/Choice/0
+> CONTEXT: Map054/events/11/pages/2/10/Choice/0
+> CONTEXT: Map054/events/11/pages/3/5/Choice/0
+> CONTEXT: Map035/events/14/pages/0/5/Choice/0
+> CONTEXT: Map035/events/14/pages/1/5/Choice/0
+> CONTEXT: Map035/events/14/pages/2/4/Choice/0
+> CONTEXT: Map035/events/14/pages/3/4/Choice/0
+> CONTEXT: Map012/events/8/pages/1/3/Choice/0
+> CONTEXT: Map012/events/8/pages/2/4/Choice/0
+> CONTEXT: Map012/events/8/pages/3/3/Choice/0
+> CONTEXT: Map012/events/8/pages/5/4/Choice/0
+> CONTEXT: Map014/events/14/pages/0/3/Choice/0
+> CONTEXT: Map014/events/14/pages/1/3/Choice/0
+> CONTEXT: Map014/events/14/pages/2/4/Choice/0
+> CONTEXT: Map014/events/14/pages/3/4/Choice/0
+Show me your goods#Dargoth
+> END STRING
+
+> BEGIN STRING
+用はない
+> CONTEXT: Map109/events/109/pages/1/9/Choice/1
+> CONTEXT: Map110/events/110/pages/1/9/Choice/1
+> CONTEXT: Map108/events/103/pages/1/9/Choice/1
+> CONTEXT: Map106/events/59/pages/1/9/Choice/1
+> CONTEXT: Map109/events/109/pages/2/9/Choice/1
+> CONTEXT: Map110/events/110/pages/2/9/Choice/1
+> CONTEXT: Map108/events/103/pages/2/9/Choice/1
+> CONTEXT: Map106/events/59/pages/2/9/Choice/1
+> CONTEXT: Map109/events/109/pages/3/4/Choice/1
+> CONTEXT: Map110/events/110/pages/3/4/Choice/1
+> CONTEXT: Map108/events/103/pages/3/4/Choice/1
+> CONTEXT: Map106/events/59/pages/3/4/Choice/1
+> CONTEXT: Map107/events/10/pages/1/9/Choice/1
+> CONTEXT: Map107/events/10/pages/2/9/Choice/1
+> CONTEXT: Map107/events/10/pages/3/4/Choice/1
+> CONTEXT: Map094/events/11/pages/0/8/Choice/1
+> CONTEXT: Map094/events/11/pages/1/5/Choice/1
+> CONTEXT: Map094/events/13/pages/0/40/Choice/3
+> CONTEXT: Map074/events/40/pages/0/5/Choice/1
+> CONTEXT: Map074/events/40/pages/1/4/Choice/1
+> CONTEXT: Map074/events/40/pages/2/5/Choice/1
+> CONTEXT: Map063/events/72/pages/1/5/Choice/1
+> CONTEXT: Map063/events/72/pages/2/4/Choice/1
+> CONTEXT: Map063/events/72/pages/3/5/Choice/1
+> CONTEXT: Map047/events/40/pages/1/5/Choice/1
+> CONTEXT: Map047/events/40/pages/2/4/Choice/1
+> CONTEXT: Map047/events/40/pages/3/5/Choice/1
+> CONTEXT: Map054/events/11/pages/2/10/Choice/2
+> CONTEXT: Map054/events/11/pages/3/5/Choice/1
+> CONTEXT: Map035/events/14/pages/0/5/Choice/1
+> CONTEXT: Map035/events/14/pages/1/5/Choice/1
+> CONTEXT: Map035/events/14/pages/2/4/Choice/1
+> CONTEXT: Map035/events/14/pages/3/4/Choice/1
+> CONTEXT: Map012/events/8/pages/1/3/Choice/1
+> CONTEXT: Map012/events/8/pages/2/4/Choice/1
+> CONTEXT: Map012/events/8/pages/3/3/Choice/1
+> CONTEXT: Map012/events/8/pages/5/4/Choice/1
+> CONTEXT: Map014/events/14/pages/0/3/Choice/1
+> CONTEXT: Map014/events/14/pages/1/3/Choice/1
+> CONTEXT: Map014/events/14/pages/2/4/Choice/1
+> CONTEXT: Map014/events/14/pages/3/4/Choice/1
+Never mind#Dargoth
+> END STRING
+
+> BEGIN STRING
+装備品
+> CONTEXT: Map109/events/109/pages/1/11/Choice/2
+> CONTEXT: Map110/events/110/pages/1/11/Choice/2
+> CONTEXT: Map108/events/103/pages/1/11/Choice/2
+> CONTEXT: Map106/events/59/pages/1/11/Choice/2
+> CONTEXT: Map109/events/109/pages/2/11/Choice/2
+> CONTEXT: Map110/events/110/pages/2/11/Choice/2
+> CONTEXT: Map108/events/103/pages/2/11/Choice/2
+> CONTEXT: Map106/events/59/pages/2/11/Choice/2
+> CONTEXT: Map109/events/109/pages/3/6/Choice/2
+> CONTEXT: Map110/events/110/pages/3/6/Choice/2
+> CONTEXT: Map108/events/103/pages/3/6/Choice/2
+> CONTEXT: Map106/events/59/pages/3/6/Choice/2
+> CONTEXT: Map107/events/10/pages/1/11/Choice/2
+> CONTEXT: Map107/events/10/pages/2/11/Choice/2
+> CONTEXT: Map107/events/10/pages/3/6/Choice/2
+> CONTEXT: Map094/events/11/pages/1/7/Choice/2
+> CONTEXT: Map074/events/40/pages/0/7/Choice/2
+> CONTEXT: Map074/events/40/pages/1/6/Choice/2
+> CONTEXT: Map074/events/40/pages/2/7/Choice/2
+> CONTEXT: Map063/events/72/pages/1/7/Choice/2
+> CONTEXT: Map063/events/72/pages/2/6/Choice/2
+> CONTEXT: Map063/events/72/pages/3/7/Choice/2
+> CONTEXT: Map047/events/40/pages/1/7/Choice/2
+> CONTEXT: Map047/events/40/pages/2/6/Choice/2
+> CONTEXT: Map047/events/40/pages/3/7/Choice/2
+> CONTEXT: Map054/events/11/pages/2/12/Choice/2
+> CONTEXT: Map054/events/11/pages/3/7/Choice/2
+> CONTEXT: Map035/events/14/pages/0/7/Choice/2
+> CONTEXT: Map035/events/14/pages/1/7/Choice/2
+> CONTEXT: Map035/events/14/pages/2/6/Choice/2
+> CONTEXT: Map035/events/14/pages/3/6/Choice/2
+> CONTEXT: Map022/events/1/pages/0/105/Choice/2
+> CONTEXT: Map012/events/8/pages/1/5/Choice/2
+> CONTEXT: Map012/events/8/pages/2/6/Choice/2
+> CONTEXT: Map012/events/8/pages/3/5/Choice/2
+> CONTEXT: Map012/events/8/pages/5/6/Choice/2
+> CONTEXT: Map014/events/14/pages/0/5/Choice/2
+> CONTEXT: Map014/events/14/pages/1/5/Choice/2
+> CONTEXT: Map014/events/14/pages/2/6/Choice/2
+> CONTEXT: Map014/events/14/pages/3/6/Choice/2
+Equipment#Dargoth
+> END STRING
+
+> BEGIN STRING
+『切り札』を売って欲しい if(s[423])
+> CONTEXT: Map109/events/109/pages/1/48/Choice/0
+> CONTEXT: Map110/events/110/pages/1/48/Choice/0
+> CONTEXT: Map108/events/103/pages/1/48/Choice/0
+> CONTEXT: Map106/events/59/pages/1/48/Choice/0
+> CONTEXT: Map109/events/109/pages/2/46/Choice/0
+> CONTEXT: Map110/events/110/pages/2/46/Choice/0
+> CONTEXT: Map108/events/103/pages/2/46/Choice/0
+> CONTEXT: Map106/events/59/pages/2/46/Choice/0
+> CONTEXT: Map107/events/10/pages/1/48/Choice/0
+> CONTEXT: Map107/events/10/pages/2/46/Choice/0
+> CONTEXT: Map074/events/40/pages/0/43/Choice/0
+> CONTEXT: Map074/events/40/pages/2/42/Choice/0
+> CONTEXT: Map063/events/72/pages/1/43/Choice/0
+> CONTEXT: Map063/events/72/pages/3/42/Choice/0
+> CONTEXT: Map047/events/40/pages/1/46/Choice/0
+> CONTEXT: Map047/events/40/pages/3/45/Choice/0
+> CONTEXT: Map035/events/14/pages/0/46/Choice/0
+> CONTEXT: Map035/events/14/pages/1/46/Choice/0
+> CONTEXT: Map012/events/8/pages/1/44/Choice/0
+> CONTEXT: Map012/events/8/pages/3/44/Choice/0
+> CONTEXT: Map014/events/14/pages/0/44/Choice/0
+> CONTEXT: Map014/events/14/pages/1/44/Choice/0
+I want you to sell "trump card"if(s[423])#MTLed
+> END STRING
+
+> BEGIN STRING
+…………
+
+何か用かい？
+> CONTEXT: Map109/events/109/pages/3/0/Dialogue
+> CONTEXT: Map110/events/110/pages/3/0/Dialogue
+> CONTEXT: Map108/events/103/pages/3/0/Dialogue
+> CONTEXT: Map106/events/59/pages/3/0/Dialogue
+> CONTEXT: Map107/events/10/pages/3/0/Dialogue
+> CONTEXT: Map074/events/40/pages/1/0/Dialogue
+> CONTEXT: Map063/events/72/pages/2/0/Dialogue
+> CONTEXT: Map047/events/40/pages/2/0/Dialogue
+> CONTEXT: Map035/events/14/pages/2/0/Dialogue
+> CONTEXT: Map035/events/14/pages/3/0/Dialogue
+> CONTEXT: Map012/events/8/pages/2/0/Dialogue
+> CONTEXT: Map012/events/8/pages/5/0/Dialogue
+> CONTEXT: Map014/events/14/pages/2/0/Dialogue
+> CONTEXT: Map014/events/14/pages/3/0/Dialogue
+Need something?#Dargoth
+> END STRING

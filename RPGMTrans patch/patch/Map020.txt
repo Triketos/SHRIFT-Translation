@@ -1,0 +1,611 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+友人達とキャンプに出かけたはずだった\\N[1]…。
+> CONTEXT: Map020/events/3/pages/0/0/Dialogue
+It was supposed to have woofed with friends \\N[1] ....#MTLed
+> END STRING
+
+> BEGIN STRING
+だが彼が次の瞬間目覚めたのは
+
+薄暗い無人の部屋の、医療カプセルの中だった……
+> CONTEXT: Map020/events/3/pages/0/2/Dialogue
+But he woke up the next moment. It was in a medical capsule
+of a dimly uninhabited room ......#MTLed
+> END STRING
+
+> BEGIN STRING
+すがるように部屋にあった無線を使うと
+
+そこから聞こえてきたのは、友人の裕真の声……
+> CONTEXT: Map020/events/3/pages/0/6/Dialogue
+If you use the wireless that was in the room as if to go
+down. From there I heard a friend Yuuma's voice ......#MTLed
+> END STRING
+
+> BEGIN STRING
+安定した通信と、詳しい状況の説明のため
+
+\\N[1]は導かれるまま、施設の通信室へと向かう。
+> CONTEXT: Map020/events/3/pages/0/10/Dialogue
+For stable communication and explanation of detailed
+situation. \\N[1] As I was guided, I headed to the
+communication room of the facility.#MTLed
+> END STRING
+
+> BEGIN STRING
+部屋に入ろうとする\\N[1]。
+
+だがそこで、無人のはずの施設内で異変が起こる…
+> CONTEXT: Map020/events/3/pages/0/14/Dialogue
+Trying to enter the room \\N[1] . However, there will
+be an accident in the facility that should be unattended
+...#MTLed
+> END STRING
+
+> BEGIN STRING
+…………？どっかでドアが開いた…？
+> CONTEXT: Map020/events/3/pages/0/26/Dialogue
+> CONTEXT: Map005/events/3/pages/0/5/Dialogue
+> CONTEXT: Map005/events/3/pages/1/5/Dialogue
+> CONTEXT: Map005/events/6/pages/0/5/Dialogue
+> CONTEXT: Map005/events/6/pages/1/5/Dialogue
+............? The door opened somewhere ...?#MTLed
+> END STRING
+
+> BEGIN STRING
+ハッ……ハッ………ハッ………ハッ……
+> CONTEXT: Map020/events/3/pages/0/45/Dialogue
+> CONTEXT: Map005/events/3/pages/0/29/Dialogue
+> CONTEXT: Map005/events/3/pages/1/29/Dialogue
+> CONTEXT: Map005/events/6/pages/0/29/Dialogue
+> CONTEXT: Map005/events/6/pages/1/29/Dialogue
+Happy ...... Ha ......... Happy ......... Happy
+...#MTLed
+> END STRING
+
+> BEGIN STRING
+な、なんだ？あの生き物…！
+い、犬……？いや、でもあの顔……
+> CONTEXT: Map020/events/3/pages/0/47/Dialogue
+> CONTEXT: Map005/events/3/pages/0/31/Dialogue
+> CONTEXT: Map005/events/6/pages/0/31/Dialogue
+What is it? That creature ...!
+Oh, a dog ......? No, but that face ...#MTLed
+> END STRING
+
+> BEGIN STRING
+裕真「犬……？もしやバーゲストか。
+　　　そうだな、今のお前は『悪魔』の存在も知らないからな。」
+> CONTEXT: Map020/events/3/pages/0/50/Dialogue
+> CONTEXT: Map005/events/3/pages/0/34/Dialogue
+> CONTEXT: Map005/events/3/pages/1/37/Dialogue
+> CONTEXT: Map005/events/6/pages/0/34/Dialogue
+> CONTEXT: Map005/events/6/pages/1/37/Dialogue
+Yuuma「dog……? Are you barghest? That's right, you do not
+even know the existence of "demon".」#MTLed
+> END STRING
+
+> BEGIN STRING
+バーゲスト……？
+悪魔って…あいつがか？
+> CONTEXT: Map020/events/3/pages/0/53/Dialogue
+> CONTEXT: Map005/events/3/pages/0/37/Dialogue
+> CONTEXT: Map005/events/6/pages/0/37/Dialogue
+barghest ......? What is demon ...?#MTLed
+> END STRING
+
+> BEGIN STRING
+裕真「詳しい話は、通信室の中でだ。
+　　　特に危険は無いが、気付かれると厄介だからな。」
+> CONTEXT: Map020/events/3/pages/0/56/Dialogue
+> CONTEXT: Map005/events/3/pages/0/40/Dialogue
+> CONTEXT: Map005/events/6/pages/0/40/Dialogue
+Yuuma「A detailed story is in the communication room.
+Especially there is no danger, but it is troublesome if you
+notice it.」#MTLed
+> END STRING
+
+> BEGIN STRING
+分かった。
+とりあえず、気付かれないように通信室に入る。
+> CONTEXT: Map020/events/3/pages/0/62/Dialogue
+> CONTEXT: Map005/events/3/pages/0/46/Dialogue
+> CONTEXT: Map005/events/3/pages/1/52/Dialogue
+> CONTEXT: Map005/events/6/pages/0/46/Dialogue
+> CONTEXT: Map005/events/6/pages/1/52/Dialogue
+I understood. For the time being, I enter the
+communication room so as not to be noticed.#MTLed
+> END STRING
+
+> BEGIN STRING
+　　　　　　　扉を開けたと同時に飛びかかってきたのは
+　　　　　　　　　さっきのバーゲストと呼ばれる悪魔。
+> CONTEXT: Map020/events/10/pages/1/24/Dialogue
+> CONTEXT: Map005/events/10/pages/1/27/Dialogue
+As soon as he opened the door he jumped over
+Demon called earlier barghest.#MTLed
+> END STRING
+
+> BEGIN STRING
+　　　　　　　　　　　そのあまりに早い不意打ちに
+　　　　　僕は体勢を崩し、彼女はその上に覆いかぶさった。
+> CONTEXT: Map020/events/10/pages/1/27/Dialogue
+> CONTEXT: Map005/events/10/pages/1/30/Dialogue
+Too early unintentionally. I broke my body and she covered
+it over it.#MTLed
+> END STRING
+
+> BEGIN STRING
+
+　　　　　　　　　　　　　　しかも最悪なことに
+　　　　　　　　　　僕は拍子に銃を放り投げてしまったのだ！
+> CONTEXT: Map020/events/10/pages/1/30/Dialogue
+> CONTEXT: Map005/events/10/pages/1/33/Dialogue
+And worst. I threw a gun at the clap and threw it!#MTLed
+> END STRING
+
+> BEGIN STRING
+はーっ…！はーっ…！！
+い、今のは……？
+> CONTEXT: Map020/events/10/pages/1/55/Dialogue
+> CONTEXT: Map005/events/10/pages/1/61/Dialogue
+ahhh ...! ahhh ...!!Well, what is it ...?#MTLed
+> END STRING
+
+> BEGIN STRING
+
+　　　　　　　　　　　　　　息を整えている間に
+　　　　　　　　　　　僕の身体の異変は収まっていた
+> CONTEXT: Map020/events/10/pages/1/59/Dialogue
+> CONTEXT: Map005/events/10/pages/1/65/Dialogue
+While holding my breath. My body's anomalies were gathered#MTLed
+> END STRING
+
+> BEGIN STRING
+　　　　　　　　　だが、安心して一気に来る疲労と
+
+　理解が追いつかない出来事のせいで、今にも気を失いそうだった
+> CONTEXT: Map020/events/10/pages/1/63/Dialogue
+> CONTEXT: Map005/events/10/pages/1/69/Dialogue
+However, with Exhaustion coming in peace with confidence
+It seemed like I was out of court due to the event that
+understanding could not catch up#MTLed
+> END STRING
+
+> BEGIN STRING
+と…とにかく…
+先に…進まなくちゃ……
+> CONTEXT: Map020/events/10/pages/1/67/Dialogue
+> CONTEXT: Map005/events/10/pages/1/73/Dialogue
+And...Anyway...Before...... I have to
+proceed ...#MTLed
+> END STRING
+
+> BEGIN STRING
+…………‥ｩｩ…
+> CONTEXT: Map020/events/10/pages/1/70/Dialogue
+> CONTEXT: Map005/events/10/pages/1/76/Dialogue
+............... ...#MTLed
+> END STRING
+
+> BEGIN STRING
+ｳｩｩｩ………
+> CONTEXT: Map020/events/10/pages/2/0/Dialogue
+> CONTEXT: Map005/events/10/pages/2/0/Dialogue
+Uuu .........#MTLed
+> END STRING
+
+> BEGIN STRING
+　　　　見ると、銃撃やさっきの衝撃波の外傷は見当たらず
+
+　　　　　　後ろ足が打撲したように大きく腫れている。
+> CONTEXT: Map020/events/10/pages/2/2/Dialogue
+> CONTEXT: Map005/events/10/pages/2/2/Dialogue
+When I looked at it, I could not see the shock wounds and
+the shock wounds of a while ago. As the hindpaw bruised, it
+is greatly swollen.#MTLed
+> END STRING
+
+> BEGIN STRING
+相手から攻撃された箇所は治癒できるのに
+
+間接的に自分で怪我した場所は治せないのか……？
+> CONTEXT: Map020/events/10/pages/2/6/Dialogue
+> CONTEXT: Map005/events/10/pages/2/6/Dialogue
+Even though you can cure where the other party
+was attacked. Is it impossible to cure indirectly
+injured myself ...?#MTLed
+> END STRING
+
+> BEGIN STRING
+それとも、さっきからの戦闘で、
+
+治癒能力の限界がきてるのか……
+> CONTEXT: Map020/events/10/pages/2/10/Dialogue
+> CONTEXT: Map005/events/10/pages/2/10/Dialogue
+Or in a battle from a little while ago,
+Does the limit of healing ability come ...?#MTLed
+> END STRING
+
+> BEGIN STRING
+ｸｩﾝ………
+> CONTEXT: Map020/events/10/pages/2/14/Dialogue
+> CONTEXT: Map005/events/10/pages/2/14/Dialogue
+Kuun .........#MTLed
+> END STRING
+
+> BEGIN STRING
+包帯で治療するen(v[5] \>= 1)
+> CONTEXT: Map020/events/10/pages/2/19/Choice/0
+> CONTEXT: Map005/events/10/pages/2/19/Choice/0
+Treat her with a bandage en(v[5] \>= 1)#Dargoth
+> END STRING
+
+> BEGIN STRING
+放置する
+> CONTEXT: Map020/events/10/pages/2/19/Choice/1
+> CONTEXT: Map005/events/10/pages/2/19/Choice/1
+Leave her be#Dargoth
+> END STRING
+
+> BEGIN STRING
+………よし、これで大丈夫だろう。
+> CONTEXT: Map020/events/10/pages/2/30/Dialogue
+> CONTEXT: Map005/events/10/pages/2/30/Dialogue
+Okay, this will be okay.#MTLed
+> END STRING
+
+> BEGIN STRING
+ｸｩﾝ…
+> CONTEXT: Map020/events/10/pages/2/32/Dialogue
+> CONTEXT: Map005/events/10/pages/2/32/Dialogue
+Qun ...#MTLed
+> END STRING
+
+> BEGIN STRING
+いや、まぁ、その…めっちゃ銃とか撃った後に
+こんな言葉投げかけるのも変な話だよな……。はは…。
+> CONTEXT: Map020/events/10/pages/2/34/Dialogue
+> CONTEXT: Map005/events/10/pages/2/34/Dialogue
+Well, well, well...that...after shooting a
+gun or something. It is a strange story to cast
+such a word .... haha ....#MTLed
+> END STRING
+
+> BEGIN STRING
+その…ごめんな…。
+怪我させちゃって。
+> CONTEXT: Map020/events/10/pages/2/37/Dialogue
+> CONTEXT: Map005/events/10/pages/2/37/Dialogue
+That...I'm sorry .... I let him get hurt.#MTLed
+> END STRING
+
+> BEGIN STRING
+……ワォン♡
+> CONTEXT: Map020/events/10/pages/2/40/Dialogue
+> CONTEXT: Map005/events/10/pages/2/40/Dialogue
+Wowon#MTLed
+> END STRING
+
+> BEGIN STRING
+　　　　　　バーゲストは、こっちに敵意が無いことを理解したのか。
+
+　　　　　　　再度、顔を近づけながら服を脱がしにかかってくる。
+> CONTEXT: Map020/events/10/pages/2/46/Dialogue
+> CONTEXT: Map005/events/10/pages/2/75/Dialogue
+Did you understand that barghest had no hostility here?
+Again, it comes down to take off my clothes while bringing
+my face closer.#MTLed
+> END STRING
+
+> BEGIN STRING
+ちょ、ちょっと！！
+待って待って！！落ち着いて！！
+> CONTEXT: Map020/events/10/pages/2/50/Dialogue
+> CONTEXT: Map005/events/10/pages/2/79/Dialogue
+Wait a minute!!Wait Wait!!calm down! !#MTLed
+> END STRING
+
+> BEGIN STRING
+は、話を聞いて！！いい子だから！！
+> CONTEXT: Map020/events/10/pages/2/53/Dialogue
+> CONTEXT: Map005/events/10/pages/2/82/Dialogue
+Listen to the story!!Because it's a nice girl!
+!#MTLed
+> END STRING
+
+> BEGIN STRING
+　　　　　『待って』といった途端に彼女はこちらを襲う動作をやめて
+
+　　　　　　　こちらを不満そうな顔でずっと凝視している。
+> CONTEXT: Map020/events/10/pages/2/58/Dialogue
+> CONTEXT: Map005/events/10/pages/2/87/Dialogue
+As soon as "wait" she stops attacking here stop
+I am staring at this with an unhappy face.#MTLed
+> END STRING
+
+> BEGIN STRING
+　　　　　　まるで『なぜダメなの？』と聞きたい顔だ。
+> CONTEXT: Map020/events/10/pages/2/62/Dialogue
+> CONTEXT: Map005/events/10/pages/2/91/Dialogue
+It's as if "Why not? It is a face I want to ask.#MTLed
+> END STRING
+
+> BEGIN STRING
+あ…ありがとう…。
+こっちの言っていることは分かるんだね…一応。
+> CONTEXT: Map020/events/10/pages/2/64/Dialogue
+> CONTEXT: Map005/events/10/pages/2/93/Dialogue
+Oh...Thank you .... I understand what I am
+talking about...for one time.#MTLed
+> END STRING
+
+> BEGIN STRING
+え、え～っと……。
+僕には、その……他に好きな人が…その、
+君とは違う、心に決めた好きなメスがいるんだ。
+> CONTEXT: Map020/events/10/pages/2/69/Dialogue
+> CONTEXT: Map005/events/10/pages/2/98/Dialogue
+Let me see....... To me, that...... Other
+favorite people...that, Unlike you, I have a
+favorite female I decided in my mind.#MTLed
+> END STRING
+
+> BEGIN STRING
+だから、君とはその…こ、交尾は出来ないんだ。
+ごめんね…。
+> CONTEXT: Map020/events/10/pages/2/73/Dialogue
+> CONTEXT: Map005/events/10/pages/2/102/Dialogue
+So, you...that you can not copulate.
+sorry….#MTLed
+> END STRING
+
+> BEGIN STRING
+ｸｩﾝ
+> CONTEXT: Map020/events/10/pages/2/78/Dialogue
+> CONTEXT: Map005/events/10/pages/2/107/Dialogue
+Kun#MTLed
+> END STRING
+
+> BEGIN STRING
+　　　　　　　　　　バーゲストは悲しそうに一声鳴くと
+
+　　　　　　　とぼとぼと元来た方へと戻って行ってしまった。
+> CONTEXT: Map020/events/10/pages/2/88/Dialogue
+> CONTEXT: Map005/events/10/pages/2/118/Dialogue
+Barghest sings cryingly soundingly. I went back to the
+original one.#MTLed
+> END STRING
+
+> BEGIN STRING
+…………分かってもらえた、のかな？
+ちょっと可哀想な気もするけど………。
+> CONTEXT: Map020/events/10/pages/2/92/Dialogue
+> CONTEXT: Map005/events/10/pages/2/122/Dialogue
+............ Have you understood that?
+I feel a little sorry but ..........#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[1]！！応答してくれ！
+\\N[1]！！！無事か！！！
+> CONTEXT: Map020/events/10/pages/4/5/Dialogue
+> CONTEXT: Map020/events/12/pages/1/5/Dialogue
+> CONTEXT: Map005/events/10/pages/4/5/Dialogue
+> CONTEXT: Map005/events/12/pages/2/5/Dialogue
+\\N[1]!! Please respond! \\N[1]!! !
+Is it alright?!!#MTLed
+> END STRING
+
+> BEGIN STRING
+裕真か？
+ああ……こっちはなんとか大丈夫だ。
+> CONTEXT: Map020/events/10/pages/4/8/Dialogue
+> CONTEXT: Map020/events/12/pages/1/8/Dialogue
+> CONTEXT: Map005/events/10/pages/4/8/Dialogue
+> CONTEXT: Map005/events/12/pages/2/8/Dialogue
+Yuuma? Oh...this one is okay.#MTLed
+> END STRING
+
+> BEGIN STRING
+よかった…！！
+ドアを開けた瞬間から映像も音声も聞こえなくなっていて
+今やっと繋がったんだ。
+> CONTEXT: Map020/events/10/pages/4/11/Dialogue
+> CONTEXT: Map020/events/12/pages/1/11/Dialogue
+> CONTEXT: Map005/events/10/pages/4/11/Dialogue
+> CONTEXT: Map005/events/12/pages/2/11/Dialogue
+Was good…!!From the moment when I opened the
+door I could not hear both video and audio
+It was finally connected.#MTLed
+> END STRING
+
+> BEGIN STRING
+一体あれから、何があったんだ？
+> CONTEXT: Map020/events/10/pages/4/15/Dialogue
+> CONTEXT: Map020/events/12/pages/1/15/Dialogue
+> CONTEXT: Map005/events/10/pages/4/15/Dialogue
+> CONTEXT: Map005/events/12/pages/2/15/Dialogue
+From there on, what happened?#MTLed
+> END STRING
+
+> BEGIN STRING
+ドアの先に、さっきのバーゲストっていう悪魔がいて
+いきなり飛びかかれてしまったんだ。
+なんとかなったけど、ちょっと危なかったかな……
+> CONTEXT: Map020/events/10/pages/4/17/Dialogue
+> CONTEXT: Map020/events/12/pages/1/17/Dialogue
+> CONTEXT: Map005/events/10/pages/4/17/Dialogue
+> CONTEXT: Map005/events/12/pages/2/17/Dialogue
+At the end of the door, there is a demon called
+barghest earlier. I jumped suddenly.
+I managed somehow, I guess it was a bit dangerous
+......#MTLed
+> END STRING
+
+> BEGIN STRING
+………………。
+> CONTEXT: Map020/events/10/pages/4/21/Dialogue
+> CONTEXT: Map020/events/12/pages/1/21/Dialogue
+> CONTEXT: Map005/events/10/pages/4/21/Dialogue
+> CONTEXT: Map005/events/12/pages/2/21/Dialogue
+...................#MTLed
+> END STRING
+
+> BEGIN STRING
+どうした？\\n[1]？
+なんだか声に張りがないぞ。どこか怪我をしたのか？
+> CONTEXT: Map020/events/10/pages/4/23/Dialogue
+> CONTEXT: Map020/events/12/pages/1/23/Dialogue
+> CONTEXT: Map005/events/10/pages/4/23/Dialogue
+> CONTEXT: Map005/events/12/pages/2/23/Dialogue
+What happened? \\n[1] ? There is no
+tension in my voice. Did you get hurt somewhere?#MTLed
+> END STRING
+
+> BEGIN STRING
+………………なあ裕真。少し聞いていいか？
+俺の身体のことなんだが……。
+> CONTEXT: Map020/events/10/pages/4/26/Dialogue
+> CONTEXT: Map020/events/12/pages/1/26/Dialogue
+> CONTEXT: Map005/events/10/pages/4/26/Dialogue
+> CONTEXT: Map005/events/12/pages/2/26/Dialogue
+.................. Naha Yuuma. Can I ask you a
+little? It's about my body.......#MTLed
+> END STRING
+
+> BEGIN STRING
+…待ってくれ。
+その近くに休憩所がある。そこに着いてから話そう。
+> CONTEXT: Map020/events/10/pages/4/30/Dialogue
+> CONTEXT: Map020/events/12/pages/1/30/Dialogue
+> CONTEXT: Map005/events/10/pages/4/30/Dialogue
+> CONTEXT: Map005/events/12/pages/2/30/Dialogue
+…Wait please. There is a rest stop nearby. Let's
+talk after we get there.#MTLed
+> END STRING
+
+> BEGIN STRING
+その場所にバーゲストが来ていたのだとしたら
+もう、区画全域に悪魔達が跋扈しているかもしれない。
+> CONTEXT: Map020/events/10/pages/4/33/Dialogue
+> CONTEXT: Map005/events/10/pages/4/33/Dialogue
+If barghest had come to that place
+It may be that demons are already in the whole
+area.#MTLed
+> END STRING
+
+> BEGIN STRING
+少なくとも、通路で話すよりかは安全なはずだ。
+まずは休憩所へ向かってくれ。
+> CONTEXT: Map020/events/10/pages/4/36/Dialogue
+> CONTEXT: Map020/events/12/pages/1/36/Dialogue
+> CONTEXT: Map005/events/10/pages/4/36/Dialogue
+> CONTEXT: Map005/events/12/pages/2/36/Dialogue
+At least it should be safer than talking in the
+aisle. Go to the resting place first.#MTLed
+> END STRING
+
+> BEGIN STRING
+…………分かった。
+> CONTEXT: Map020/events/10/pages/4/40/Dialogue
+> CONTEXT: Map020/events/12/pages/1/40/Dialogue
+> CONTEXT: Map005/events/10/pages/4/40/Dialogue
+> CONTEXT: Map005/events/12/pages/2/40/Dialogue
+…………I understood.#MTLed
+> END STRING
+
+> BEGIN STRING
+　　　　　　　僕は、すでに落ち着ききってはいたが
+
+　　　　　　　さっきの出来事に関して、まだ困惑していた。
+> CONTEXT: Map020/events/10/pages/4/43/Dialogue
+> CONTEXT: Map020/events/12/pages/1/43/Dialogue
+> CONTEXT: Map005/events/10/pages/4/43/Dialogue
+> CONTEXT: Map005/events/12/pages/2/43/Dialogue
+I was already calm enough. I was still puzzled about the
+previous incident.#MTLed
+> END STRING
+
+> BEGIN STRING
+　　　　　　　なぜなら、僕の右手にはまだ
+
+　　　衝撃波が撃ち出せそうな違和感が残っていたから……
+> CONTEXT: Map020/events/10/pages/4/47/Dialogue
+> CONTEXT: Map020/events/12/pages/1/47/Dialogue
+> CONTEXT: Map005/events/10/pages/4/47/Dialogue
+> CONTEXT: Map005/events/12/pages/2/47/Dialogue
+Because, still on my right hand. Because there was a
+strange feeling that the shock wave could shoot out......#MTLed
+> END STRING
+
+> BEGIN STRING
+
+　　　　　　　　　　誰かの殴り書き
+> CONTEXT: Map020/events/11/pages/0/2/Dialogue
+> CONTEXT: Map005/events/11/pages/0/2/Dialogue
+Someone's stroke#MTLed
+> END STRING
+
+> BEGIN STRING
+ここの地上では、もう戦闘は起こっていない。
+
+だが、"男”にとっては、ここは戦場よりも過酷かもしれない。
+> CONTEXT: Map020/events/11/pages/0/6/Dialogue
+> CONTEXT: Map005/events/11/pages/0/6/Dialogue
+There is no battle already on the ground here.
+But for "men", this place may be tougher than the
+battlefield.#MTLed
+> END STRING
+
+> BEGIN STRING
+争いを好まない、しかし人間に"興味津々"の女悪魔達が
+
+"遊び相手"を探すためにそこら中を徘徊している。
+> CONTEXT: Map020/events/11/pages/0/11/Dialogue
+> CONTEXT: Map005/events/11/pages/0/11/Dialogue
+I do not like conflict, but women demons who are
+"curious" to humans. I'm wandering around there
+to search for "players".#MTLed
+> END STRING
+
+> BEGIN STRING
+あいつらは俺たちを『人間として』扱わない。
+
+『エサ』として、搾精され、喰われるだけだ。
+> CONTEXT: Map020/events/11/pages/0/16/Dialogue
+> CONTEXT: Map005/events/11/pages/0/16/Dialogue
+They do not treat us "As a human". As "food", it is milking
+and eaten only.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]犯されても諦めるな。
+\\C[0]奴らの体内に『精を注ぐ』ことをしない限りは
+俺たちは人間として生き残ることが出来る。
+> CONTEXT: Map020/events/11/pages/0/21/Dialogue
+> CONTEXT: Map005/events/11/pages/0/21/Dialogue
+\\C[2]Do not give up even if you are fucked.
+\\C[0]Unless we do "pouring" into their bodies
+We can survive As a human.#MTLed
+> END STRING
+
+> BEGIN STRING
+エサになりたいやつは好きにしろ
+
+　　　　　　　　　　　　　俺は這ってでも逃げ延びてやる
+> CONTEXT: Map020/events/11/pages/0/26/Dialogue
+> CONTEXT: Map005/events/11/pages/0/26/Dialogue
+Do whatever you want to become a baby. I will crawl, but I
+will escape#MTLed
+> END STRING
+
+> BEGIN STRING
+その場所にバーゲストが来ていたのだとしたら
+もう、そのシェルター全域に悪魔達が跋扈しているかもしれない。
+> CONTEXT: Map020/events/12/pages/1/33/Dialogue
+> CONTEXT: Map005/events/12/pages/2/33/Dialogue
+If barghest had come to that place
+There may be demons in the whole shelter already.#MTLed
+> END STRING

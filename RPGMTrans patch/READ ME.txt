@@ -1,0 +1,166 @@
+################## HOW TO APPLY THE PATCH #######################
+To apply this patch you need:
+
+> RPG Maker XP / VX / VX Ace Decrypter by Falo (or any other RPG Maker unpacker)
+>'RPGMaker Trans' 4.5: https://rpgmakertrans.bitbucket.io/
+> an untranslated version of the game (SHRIFT)
+
+How to apply this patch:
+
+Decrypt RPG Maker data and delete the Game RGSS Encrypted Archive (*)
+>Skip to 'Run RPGMakerTrans.exe' if you've already deleted the Game RGSS Encrypted Archive and want to apply a new patch
+>Run RPG Maker XP / VX / VX Ace Decrypter by Falo
+>Go to File/Open File
+>Select the Game RGSS Encrypted Archive (Game.rgss3a) that is in the same folder as game.exe (don't mistake it for System\RGSS301.dll).
+>Go to Tools/Extract Selected
+This will create an 'Extract' folder with all the decrypted files in your game folder
+>Merge the contents of the Extract folder with your Game Folder (you don't need to overwrite them)
+>Delete or Rename (ex:Game_copy.rgss3a) the Game RGSS Encrypted Archive you selected previously
+The game plays the same, its data is just no longer encrypted. These steps delete any duplicate in the RGSS Encrypted Archive and the non encrypted files which may cause RPG Trans to never finish
+
+>Run RPGMakerTrans.exe
+>Select Game.exe from the Game folder as the 'Game Location'
+>Select RPGMKTRANSPATCH from the patch folder as 'Patch Location'
+The patch info should appear on the right.
+>You can click 'Go!'
+
+The patching will take a few minutes. The Error log will display all the translation that could not be used (it will at worse leave some text in Japanese). You may get a lot of these errors if you patch a previous version of the game.
+If you get stuck of if something obviously goes wrong then you should read carefully from the beginning. Refer to RPGMaker Trans4.5 support if nothing works.
+
+You now have a copy of the game folder with your saves under [your game folder name]_translated.
+>Run [your game folder name]_translated/Game.exe
+
+IMPORTANT:
+-CHECK or DELETE the pictures in the 'assets' folder most are unusable,
+due to to the experimental nature of the picture translation.
+
+-BEFORE YOU COMPLAIN check your untranslated game folder
+
+-(*) If you run unto a problem with RPGMaker Trans stuck for minutes/definitively,
+you might have to decrypt the game and delete the encrypted data.
+You can find help on the forum but sharing a hacked game is illegal.
+Hacking yourself is perfectly legal but uploading/distributing a file (hacked/modified)
+that can be used as a substitute for game itself, and thus lower the original game sales, is not.
+While you may not be fined, your file will most likely be--rightfully--claimed.
+Please be responsible and don't make trouble for the creator of the game.
+
+-If nothing works, RPG Maker might not work on your computer and you might consider using the Gaijinizer patch.
+###################### COMPATIBILITY ###########################
+
+The files in assets/Data are NOT compatible with all version of the game.
+Check the game version in banner.html.
+If it says version x.YY as you are using x.ZZ you should still be fine.
+If it says version X.yy as you are using Z.yy you should delete assets/Data.
+
+Find the current game version in /SHRIFT/‰‚ß‚É‚¨“Ç‚Ý‚­‚¾‚³‚¢.txt
+
+####################### REPORT AN ASSUE ########################
+If the game crashes:
+ -Send a screen with the error message
+ -Tell what version of the patch you are using
+ (-)If possible add the text / key words of the last displayed text (so I can look into the patch file to find the bad machine translation)
+
+############## IMPROVE THE MACHINE TRANSLATION #################
+Contact me if you want to help. You don't need to know coding, that's my part.
+
+Other than bug report, the translator can add many human inputs like:
+ -manual partial translation on the patch text files / if you're decent in both Japanese and English
+ -manual picture transcription/ no language skill required
+ -manual picture translation / if you can deal with picture editing
+ -manual translation on word lists (ask and I will send you a file) / if you can manage with machine translation
+######################### KNOWN ISSUES #########################
+(Stuff I'll fix at some point, [fixed] just means I think it's fixed)
+
+Dialogue text doesn't fit in window [fixed]
+
+-patch bug:
+can't load pictures in illustration menu
+
+-Faster Skip:
+player TPed 2 squares off
+
+####################### ADDITIONAL SCRIPTS #####################
+The following scripts were added to the game.
+
+-Simple Variable Updater:
+The Lvl1VillagerA's Simple variable updater is used to update game variables stored in save files for translation purpose.
+If needed, it can execute ruby code stored in a text file (You can find next to the game exe, you'll need to enter a password).
+Change the script parameters by adding the following in the Game .ini file:
+[lvl1_script]
+svu_disable=X
+svu_password=X
+>Use the Password option to select how you want the script to work
+ X=0, don't use script, not even the default method;
+ X=1,[default, recommended] only use the script's default method;
+ X=????, use a custom script stored in txt file if you know what you are doing, ???? is a password you'll find on the forum
+>Use the Disable option to prevent ruby code execution from txt file
+ X=0,[default, recommended] not disabled
+ X=1, permanently disabled, if you don't want to be tempted to cheat or really don't like the idea of executing a script from a txt file
+
+-Faster Skip:
+Skips messages, shortens waits, speeds up routes,...
+Skip with Ctrl
+Enables in-game with Ctrl+Shift
+[lvl1_script]
+fs_enable=X (X=1 enabled)
+fs_speed=X (X=1..8, recommended:4)
+
+-Fullscreen++ by Zeus81:
+Press F6 to switch window size
+Press F5 to switch to full screen
+A nice addition for those, like me, who complain about RPGMVXAce small window.
+###################### TO DO (NEXT PATCH) ######################
+
+-continue proofreading
+-Improve picture translation [on hold]
+-Optimize online translation [on hold]
+
+################## HOW TO USE THE TRANSLATOR ##################
+(Just a reminder from me to myself until I decide to share it)
+It can work in full auto-mode but facultative manual steps are encouraged to improve the translation quality.
+
+I	-Translate comments/notes (Auto/Manual) FACULTATIVE
+I.1		-Extract game data (Auto)
+I.2		-Edit special patterns (Manual)
+I.3		-Translate (Auto)
+I.4		-Apply patch (Auto)
+0.1	-Generate RPGMaker Trans patch (auto)
+0.2	-Load Config file (auto) #run ReadConfig
+A	-Include human translations (auto/manual) FACULTATIVE
+A.1		-Generate a shortened version of the patch with credits in comment (auto) #run ShortenAllTLFiles
+A.2		-Generate proofread file for shortened version (auto) 
+A.3a		-Fill in proofread file for shortened version (manual) #run CorrectAllTL
+A.3b		-Delete obvious errors like Japanese from shortened version (manual)
+A.4		-Check for permutations between text files (check before joining the files) #run UpdateAllTL (auto)
+A.5		-Join the files (auto) #run JoinAllTL
+J	-Replace Dialogue tag for MessageFace (auto/manual) FACULTATIVE
+J.1		-Create Ytinasni patch (manual)
+J.2		-Replace in file (auto) #run findSpecialDialogue
+B	-Look for preferable manual translations for dictionary (auto/manual) FACULTATIVE #run GenerateAllDictionaries/ReWriteDictionary
+B.1		-Look for potential names with honorifics (auto) translate them (manual) add in dictionary (auto)
+B.2		-Look for potential names from RPGMaker Trans context (auto) translate them (manual) add in dictionary (auto)
+B.3		-Look for potential names in katakana (auto) translate them (manual) add in dictionary (auto)
+B.4		-Look for potential sfx (auto) translate them (manual) add in dictionary (auto)
+B.5		-Look for potential names/crucial information in brackets (auto) translate them (manual) add in dictionary (auto)
+B.6		-Remove entries form dictionary (manual)
+B.7		-Proofread dictionaries (auto/manual)
+C	-Fill in parterns for better translation (manual) FACULTATIVE
+D	-OCR pictures (auto/manual) FACULTATIVE REPEATABLE
+D.1		-Change OCR Method for better results (manual)		
+D.2		-OCR Pictures (auto) #run WriteGraphicsTxt
+D.3		-Manually OCR Pictures (manual)
+1	-Translate files (auto) #run MTLGame
+E	-Translate pictures (auto/manual) FACULTATIVE
+E.1		-Add translated text to picture and save in assets (auto) #run ApplyGraphicsPath
+E.2		-Add manually translated picture in assets
+F	-Proofread translation (auto/manual) FACULTATIVE #run SpellCheckTranslation
+G	-[WIP] Get help for manual translation (auto/manual)
+H	-Update patch info #run UpdatePatchInfo (auto/code only)
+2	-Apply patch (auto)
+
+#################### ADDITIONAL CREDITS #########################
+Manual translations:
+-Dargoth (ver1.0 partial) 		https://dargoth.com/
+-afrg (ver3.0 partial) 			https://ulmf.org/members/afrg.359415/
+Machine translation: Google Translation
+OCR: Capture2Text/Tesseract 		http://capture2text.sourceforge.net/

@@ -1,0 +1,140 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+『身を慎み、目をさましていなさい。
+　あなたがたの敵である悪魔が、ほえたける獅子のように、
+　食い尽くすべきものを捜し求めながら、歩き回っています。』
+> CONTEXT: Map028/events/2/pages/0/0/Dialogue
+"Beware yourself and keep an eye out. As your enemies
+demon, like a barking lion, I am walking around searching
+for something to be consumed. "#MTLed
+> END STRING
+
+> BEGIN STRING
+………ペテロの手紙よりの引用です。
+
+ですが、これは貴方への『警告』でもあります。
+> CONTEXT: Map028/events/2/pages/0/7/Dialogue
+......... This is a quote from Peter's letter.
+However, this is also a "warning" to you.#MTLed
+> END STRING
+
+> BEGIN STRING
+初めまして、それともお久しぶりでしょうか…？
+
+いずれにせよ、自己紹介をしなければなりませんね。
+> CONTEXT: Map028/events/2/pages/0/14/Dialogue
+Nice to meet you, or may it be a long time ...?
+Either way, you must introduce yourself.#MTLed
+> END STRING
+
+> BEGIN STRING
+私の名前は『冥羅（メイラ）』。
+
+『冥府の間』の主の、秘書をさせて頂いております。
+> CONTEXT: Map028/events/2/pages/0/18/Dialogue
+My name is "Meira (Meira)". We are the secretary
+of the main "Hell's Gate" let me.#MTLed
+> END STRING
+
+> BEGIN STRING
+主の命により、貴方のサポートを仰せつかりました。
+
+理由などは、また然るべき時に主から直接お話があるかと…。
+> CONTEXT: Map028/events/2/pages/0/22/Dialogue
+Thanks to the Lord's Life, I got your support.
+I wonder why there is a direct talk from the Lord
+at reasonable time.#MTLed
+> END STRING
+
+> BEGIN STRING
+それでは、まずは貴方の名前をお聞かせください……。
+> CONTEXT: Map028/events/2/pages/0/26/Dialogue
+So, first of all, would you please tell me your
+name ... ....#MTLed
+> END STRING
+
+> BEGIN STRING
+結構でございます。
+
+このまどろみの中で、自分の名前をハッキリと名乗れるのは
+運命に対する『決意』の強さに相違ありません。
+> CONTEXT: Map028/events/2/pages/0/48/Dialogue
+That's fine. In this slumber, it is not clear how
+to name your name. There is no difference in the
+strength of "determination" against fate.#MTLed
+> END STRING
+
+> BEGIN STRING
+それでは次に、『基本チュートリアル』を行います。
+
+しかしこれは、『体験版』でやるものと全く同一なので
+すでにプレイされている方は、スキップすることも可能です。
+> CONTEXT: Map028/events/2/pages/0/53/Dialogue
+Next, I will do "basic tutorial".
+But this is exactly the same as what you do with
+"trial version". If you are already playing, you
+can also skip.#MTLed
+> END STRING
+
+> BEGIN STRING
+『基本チュートリアル』を開始しますか？
+> CONTEXT: Map028/events/2/pages/0/60/Dialogue
+Begin the Basics Tutorial?#Dargoth
+> END STRING
+
+> BEGIN STRING
+受ける
+> CONTEXT: Map028/events/2/pages/0/62/Choice/0
+Begin Tutorial#Dargoth
+> END STRING
+
+> BEGIN STRING
+スキップする
+> CONTEXT: Map028/events/2/pages/0/62/Choice/1
+Skip Tutorial#Dargoth
+> END STRING
+
+> BEGIN STRING
+……それでは、そろそろ時間となります。
+
+しばしのお別れですが、またいずれ会うことになるでしょう。
+> CONTEXT: Map028/events/2/pages/0/77/Dialogue
+...I see, it's time then.
+
+For now, I'll take my leave.#DargothPR
+> END STRING
+
+> BEGIN STRING
+貴方の名を呼ぶ声が聞こえます……。
+
+さぁ、ゆめゆめ、聞き逃さぬように……。
+> CONTEXT: Map028/events/2/pages/0/82/Dialogue
+I hear a voice calling your name ... ....
+Now, absolutely, do not miss it ... ....#MTLed
+> END STRING
+
+> BEGIN STRING
+…………お待ちしておりました。
+
+\\N[1]様。
+> CONTEXT: Map028/events/2/pages/1/10/Dialogue
+…………I have been waiting for you. \\N[1] Mr.#MTLed
+> END STRING
+
+> BEGIN STRING
+もう、貴方に言うことは何もありません。
+
+再度ここを訪れたということは、そう言う事でしょうから…
+> CONTEXT: Map028/events/2/pages/1/17/Dialogue
+I have nothing to say to you anymore.
+That I visited here again, I will say so ...#MTLed
+> END STRING
+
+> BEGIN STRING
+この物語の主人公の名前は、
+
+\\N[1]のままでよろしいですか？
+> CONTEXT: Map028/events/2/pages/1/23/Dialogue
+The name of the hero in this story,
+\\N[1] Do you want to leave it?#MTLed
+> END STRING

@@ -1,0 +1,88 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+"\\\\C[4]Congratulation!!\\\\C[0]
+
+マイルームに来た悪魔　　\\\\V[167]/14体
+
+救済措置を受けた回数　　\\\\V[168]回
+
+主人公の魔力レベル　　　Ｌｖ\\\\V[169]
+
+エンディング：
+\\\\V[170]"
+> CONTEXT: Map200/events/1/pages/0/3/InlineScript/2:9
+"\\\\C[4]Congratulation!!\\\\C[0]
+
+マイルームに来た悪魔　　\\\\V[167]/14体
+
+救済措置を受けた回数　　\\\\V[168]回
+
+主人公の魔力レベル　　　Ｌｖ\\\\V[169]
+
+エンディング：
+\\\\V[170]"#NoTL
+> END STRING
+
+> BEGIN STRING
+\\C[2]マイルームに来ていない悪魔がいるようです。
+
+このゲームのベストエンディングを見る為には
+登場悪魔全員の協力が不可欠です。
+> CONTEXT: Map200/events/1/pages/0/18/Dialogue
+\\C[2]There seems to be a demon that has not come to my room.
+In order to see the best ending of this game
+Cooperation of all demons is indispensable.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]救済措置を受けてしまったことにより
+
+エンディングの種類に影響が出てしまったようです。
+> CONTEXT: Map200/events/1/pages/0/26/Dialogue
+\\C[2]By having received Assistance. It seems that the type of
+ending has been affected.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]悪魔をトドメを刺してしまったことにより
+
+エンディングに悪影響が出ていたようです。
+> CONTEXT: Map200/events/1/pages/0/33/Dialogue
+\\C[2]By stoning demon with Finish her off
+It seems that the ending was adversely affected.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]傍観者ルートお疲れ様でした。
+
+２周目要素が追加されたので、
+今度は通常の難易度でクリアを目指してください。
+> CONTEXT: Map200/events/1/pages/0/40/Dialogue
+\\C[2]Thank you for your good work. As the second lap element was
+added, Please aim to clear at normal difficulty this time.#MTLed
+> END STRING
+
+> BEGIN STRING
+あなたにメールが届きました。
+
+\\C[10]『ゲームフォルダ』を確認してください。
+> CONTEXT: Map200/events/1/pages/0/58/Dialogue
+> CONTEXT: Map200/events/1/pages/0/73/Dialogue
+> CONTEXT: Map200/events/1/pages/0/88/Dialogue
+> CONTEXT: Map200/events/1/pages/0/103/Dialogue
+I got an email for you. \\C[10]Please check "game folder".#MTLed
+> END STRING
+
+> BEGIN STRING
+"ゲームクリア"
+> CONTEXT: Map200/events/1/pages/0/120/InlineScript/2:1
+"Game clear"#MTLed
+> END STRING
+
+> BEGIN STRING
+クリアデータをセーブしますか？
+\\C[2]クリアデータはチャプター選択を行えないので注意してください
+> CONTEXT: Map200/events/1/pages/0/136/Dialogue
+Would you like to save the clear data? \\C[2]Please note that
+clear data can not be chapter selected#MTLed
+> END STRING

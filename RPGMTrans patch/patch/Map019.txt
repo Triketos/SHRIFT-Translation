@@ -1,0 +1,1315 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+親密度が１００必要。
+（現在の値：\\V[41]）
+> CONTEXT: Map019/events/3/pages/0/18/Dialogue
+Familiarity needs 100. (Current value: \\V[41] )#MTLed
+> END STRING
+
+> BEGIN STRING
+親密度が２５以上必要。
+（現在の値：\\V[41]）
+> CONTEXT: Map019/events/4/pages/0/0/Dialogue
+Familiarity must be 25 or more. (Current value: \\V[41] )#MTLed
+> END STRING
+
+> BEGIN STRING
+ｳｳｳ……………
+> CONTEXT: Map019/events/5/pages/0/23/Dialogue
+Uw ...............#MTLed
+> END STRING
+
+> BEGIN STRING
+雑談する en(v[41] \>= 25)
+> CONTEXT: Map019/events/5/pages/0/29/Choice/0
+Chat en(v[41] \>= 25)#DargothPR
+> END STRING
+
+> BEGIN STRING
+搾精（誘惑）en(v[41] \>= 25)
+> CONTEXT: Map019/events/5/pages/0/29/Choice/1
+Milking (Temptation) en(v[41] \>= 25)#Dargoth
+> END STRING
+
+> BEGIN STRING
+搾精（騎乗位）en(v[41] \>= 50)
+> CONTEXT: Map019/events/5/pages/0/29/Choice/2
+Milking (Cowgirl) en(v[41] \>= 50)#Dargoth
+> END STRING
+
+> BEGIN STRING
+…………？？？？
+> CONTEXT: Map019/events/5/pages/0/176/Dialogue
+............????#MTLed
+> END STRING
+
+> BEGIN STRING
+バーゲストは差し出された意味が理解できていないようだ……
+
+\\C[2]プレゼントは受け取ってもらえなかった…
+> CONTEXT: Map019/events/5/pages/0/178/Dialogue
+barghest does not seem to understand the meaning given out
+......\\C[2]The gift could not be received ...#MTLed
+> END STRING
+
+> BEGIN STRING
+心蝕を消すif(v[41] \>= 100)
+> CONTEXT: Map019/events/5/pages/0/188/Choice/0
+Remove mind corruption if(v[41] \>= 100)#Dargoth
+> END STRING
+
+> BEGIN STRING
+"バーゲストの心蝕が治った！！"
+> CONTEXT: Map019/events/5/pages/0/208/InlineScript/1:13
+"バーゲスト's mind corruption cured!!"#MTLed
+> END STRING
+
+> BEGIN STRING
+ワウッ
+> CONTEXT: Map019/events/5/pages/1/1/Dialogue
+Waoof#MTLed
+> END STRING
+
+> BEGIN STRING
+足のケガen(v[41] \>= 30)
+> CONTEXT: Map019/events/5/pages/1/5/Choice/0
+Foot Injury en(v[41] \>= 30)#Dargoth
+> END STRING
+
+> BEGIN STRING
+バーゲストの知能についてen(v[41] \>= 40)
+> CONTEXT: Map019/events/5/pages/1/5/Choice/1
+About barghest's intelligenceen(v[41] \>= 40)#MTLed
+> END STRING
+
+> BEGIN STRING
+バーゲストの目的en(v[41] \>= 60)
+> CONTEXT: Map019/events/5/pages/1/5/Choice/2
+Barghest's purposeen(v[41] \>= 60)#MTLed
+> END STRING
+
+> BEGIN STRING
+普段の食事と好みについてen(v[41] \>= 80)
+> CONTEXT: Map019/events/5/pages/1/5/Choice/3
+Regular meals and preferencesen(v[41] \>= 80)#MTLed
+> END STRING
+
+> BEGIN STRING
+ワンッ♡ワンッ♡
+> CONTEXT: Map019/events/5/pages/1/10/Dialogue
+One click ♡ One#MTLed
+> END STRING
+
+> BEGIN STRING
+………その様子だと、もう包帯は取っても大丈夫そうだね。
+> CONTEXT: Map019/events/5/pages/1/12/Dialogue
+......... It seems that it seems to be okay even
+if you take bandages.#MTLed
+> END STRING
+
+> BEGIN STRING
+えっ…？どうしたの、バーゲスト…。
+> CONTEXT: Map019/events/5/pages/1/18/Dialogue
+eh…? What's wrong, barghest ....#MTLed
+> END STRING
+
+> BEGIN STRING
+取って欲しくないんじゃねぇの？
+
+ソレはお前のこのバーゲストへの『優しさ』だったからよ。
+> CONTEXT: Map019/events/5/pages/1/20/Dialogue
+You do not want me to take it?
+Because Soret was "kindness" to your barghest.#MTLed
+> END STRING
+
+> BEGIN STRING
+で、でも……
+
+もう怪我もしてなさそうだし、動きにくいだけじゃ…
+> CONTEXT: Map019/events/5/pages/1/24/Dialogue
+But, I do not seem to have been hurt anymore,
+just because it is difficult to move ...#MTLed
+> END STRING
+
+> BEGIN STRING
+『もう』っていうか、『もとから』怪我はしてないぜ。
+
+不意を突かれて驚いて、足部分の魔力再構築を忘れただけさ。
+> CONTEXT: Map019/events/5/pages/1/28/Dialogue
+I do not get hurt "from now.". 
+I was surprised to be surprised and forgot to
+rebuild the magical power of the foot part.#MTLed
+> END STRING
+
+> BEGIN STRING
+悪魔は物理的な損傷はほとんど受けない。
+
+肉体を実体化させる際に、魔力をまとうからな。
+> CONTEXT: Map019/events/5/pages/1/32/Dialogue
+The demon receives little physical damage.
+When we realize the body, I will put on magical
+powers.#MTLed
+> END STRING
+
+> BEGIN STRING
+まさかただの人間だと思ってた相手が『魔法』を使って
+自分を壁際までブッ飛ばすとは思わなかったろうし。
+
+ま、そらビックリするわな。
+> CONTEXT: Map019/events/5/pages/1/36/Dialogue
+Those who thought that he was just a mere person,
+using "magic". I would not have thought that I
+would skip myself to the wall.
+Well, I will be surprised.#MTLed
+> END STRING
+
+> BEGIN STRING
+ご、ごめん………
+
+あのときは、自分でも何がなんだか………
+> CONTEXT: Map019/events/5/pages/1/45/Dialogue
+Sorry,.........At that time, what is
+something myself .........#MTLed
+> END STRING
+
+> BEGIN STRING
+しっかし、仮に怪我をしていたとしても、だ。
+
+なんだぁ？その包帯のへんちくりんな巻き方……
+> CONTEXT: Map019/events/5/pages/1/50/Dialogue
+Even if she was hurt and hurt, it was.
+What is it? A stubborn winding method of the
+bandage ...#MTLed
+> END STRING
+
+> BEGIN STRING
+それじゃあ手当てっていうより、単純に
+
+動きにくくなっただけじゃねぇの……？
+> CONTEXT: Map019/events/5/pages/1/54/Dialogue
+Well then, rather than just giving up, simply
+It's not only difficult to move.......?#MTLed
+> END STRING
+
+> BEGIN STRING
+わ、悪かったな……！
+
+普段、犬の後ろ脚に包帯を巻くだなんてしないだろ！
+> CONTEXT: Map019/events/5/pages/1/58/Dialogue
+Wow, that was wrong ...! I do not normally wear a
+bandage around the dog's back legs!#MTLed
+> END STRING
+
+> BEGIN STRING
+アォン♡
+> CONTEXT: Map019/events/5/pages/1/63/Dialogue
+Ahn#MTLed
+> END STRING
+
+> BEGIN STRING
+…………でもまぁ、実際がどうであれ
+
+ソイツはお前の献身が、大分心に響いたらしいぜ。
+> CONTEXT: Map019/events/5/pages/1/65/Dialogue
+Well, whatever it is. It seems that your
+dedication has echoed to Oita heart.#MTLed
+> END STRING
+
+> BEGIN STRING
+クゥ～ン♡
+> CONTEXT: Map019/events/5/pages/1/70/Dialogue
+> CONTEXT: Commonevents/25/17/Dialogue
+> CONTEXT: Commonevents/25/26/Dialogue
+> CONTEXT: Commonevents/30/0/Dialogue
+Cousin#MTLed
+> END STRING
+
+> BEGIN STRING
+ばっ、バーゲストっ……！わかったからっ…！
+
+股間に頭スリスリは………ダメっ……！
+> CONTEXT: Map019/events/5/pages/1/72/Dialogue
+Wait, barghest ♪ ...! I knew it ...!
+Head sniffing in the crotch ......... Dame
+......!#MTLed
+> END STRING
+
+> BEGIN STRING
+バーゲストの言葉は、こう通訳してもらってるけど
+
+僕の言葉は、バーゲストにはちゃんと通じてるの？
+> CONTEXT: Map019/events/5/pages/1/81/Dialogue
+The word of barghest is interpreted like this
+My words, do you communicate properly to
+barghest?#MTLed
+> END STRING
+
+> BEGIN STRING
+ああ、通じてるぜ。
+> CONTEXT: Map019/events/5/pages/1/85/Dialogue
+Oh, I can communicate.#MTLed
+> END STRING
+
+> BEGIN STRING
+たしかバーゲストは小学校低学年程度の知能は持ってる。
+
+まあ、さすがに難しい言葉や理屈は無理だか…
+> CONTEXT: Map019/events/5/pages/1/87/Dialogue
+Certainly barghest has intelligence of about the
+lower grade level of elementary school.
+Well, it is impossible for difficult words or
+reasons to be expected ...#MTLed
+> END STRING
+
+> BEGIN STRING
+ワンッ
+> CONTEXT: Map019/events/5/pages/1/91/Dialogue
+One#MTLed
+> END STRING
+
+> BEGIN STRING
+バーゲストは『心に決めたメスがいるって言ってたのに
+
+ もう自分と交尾しても平気なのか』と心配してるぞ。
+> CONTEXT: Map019/events/5/pages/1/93/Dialogue
+barghest said "It was said that there was a
+female decided in mind. You are worried whether
+you can mingle with yourself anymore ".#MTLed
+> END STRING
+
+> BEGIN STRING
+え、えっと、それは……！！
+> CONTEXT: Map019/events/5/pages/1/97/Dialogue
+Er, um, that is ...! !#MTLed
+> END STRING
+
+> BEGIN STRING
+……『もしフラれたとかだったら、激しく交尾して
+
+忘れさせてあげたい』って意気込んでるが？
+> CONTEXT: Map019/events/5/pages/1/101/Dialogue
+...... "If it was frayed, you copulated violently
+I want to let you forget "?#MTLed
+> END STRING
+
+> BEGIN STRING
+だ、大丈夫だよ！
+
+そういうのじゃないから！
+> CONTEXT: Map019/events/5/pages/1/105/Dialogue
+That's fine! That's not it!#MTLed
+> END STRING
+
+> BEGIN STRING
+っていうか！！
+
+さっきの短い声で、よくそこまで通訳できるな！？
+> CONTEXT: Map019/events/5/pages/1/109/Dialogue
+I mean!!With a short voice just before, you can
+often interpret it!?#MTLed
+> END STRING
+
+> BEGIN STRING
+んー、声っつーか、バーゲストは正確には
+
+テレパシーみたいなので話してるからなぁ。
+> CONTEXT: Map019/events/5/pages/1/113/Dialogue
+Hmm, my voice, barghest is exactly
+It's like telepathy so I'm talking.#MTLed
+> END STRING
+
+> BEGIN STRING
+鳴き声は、せいぜい感情を読みとるぐらいの要素だし
+
+人間の言葉を話さない悪魔は、大体そうだぜ。
+> CONTEXT: Map019/events/5/pages/1/117/Dialogue
+Crying is the most element to read feelings at
+most. Demon who does not speak human language is
+almost the same.#MTLed
+> END STRING
+
+> BEGIN STRING
+そうなんだ……
+
+そのテレパシーって、僕には聞こえるようにならないの？
+> CONTEXT: Map019/events/5/pages/1/121/Dialogue
+is that so……. Does that telepathy make me not
+hear?#MTLed
+> END STRING
+
+> BEGIN STRING
+言ったろ、テレパシー『みたいなの』って。
+
+ホントにテレパシーだったら、俺が通訳できないっての。
+> CONTEXT: Map019/events/5/pages/1/125/Dialogue
+Telling, telepathy "It's like it".
+If it is really telepathy, I can not interpret
+it.#MTLed
+> END STRING
+
+> BEGIN STRING
+説明が難しいんだが、もし仮にこれをお前が受信できても
+
+意味がちんぷんかんぷんだと思うぜ。
+> CONTEXT: Map019/events/5/pages/1/129/Dialogue
+It is difficult to explain, but even if you can
+receive this. I think the meaning is Ganpan.#MTLed
+> END STRING
+
+> BEGIN STRING
+でもま、悪魔の技術を使った銃弾があるくらいだ。
+
+そのうち人間界でも翻訳機が開発されるんじゃないか？
+> CONTEXT: Map019/events/5/pages/1/134/Dialogue
+Even so, there are bullets using demon's
+technology. Among them, the human realm will also
+develop translators?#MTLed
+> END STRING
+
+> BEGIN STRING
+…………案外、もう別世界のレジスタンスあたりが
+
+無線機に応用して使ってるかもな！！！
+> CONTEXT: Map019/events/5/pages/1/138/Dialogue
+............ Unexpectedly, another world register
+stun is around. I'm using it by applying it to a
+radio!!!#MTLed
+> END STRING
+
+> BEGIN STRING
+…………？
+
+なんでそんなに具体的なの…？
+> CONTEXT: Map019/events/5/pages/1/142/Dialogue
+............? Why is that so concrete ...?#MTLed
+> END STRING
+
+> BEGIN STRING
+バーゲストって、交尾本能が強いって聞くけど
+
+実際、どの辺くらいまで自制が効いてるの？
+> CONTEXT: Map019/events/5/pages/1/151/Dialogue
+I hear that martial instinct is strong though
+barghest. Indeed, how far is self-control around?#MTLed
+> END STRING
+
+> BEGIN STRING
+ほら……シェルターの時では
+
+ちゃんと僕の話を聞けたじゃないか。
+> CONTEXT: Map019/events/5/pages/1/155/Dialogue
+Look here...at the time of shelter
+You could listen to my story properly.#MTLed
+> END STRING
+
+> BEGIN STRING
+ワウッ！ワウッ！
+> CONTEXT: Map019/events/5/pages/1/159/Dialogue
+> CONTEXT: Map019/events/5/pages/1/210/Dialogue
+Waoof! Waoof!#MTLed
+> END STRING
+
+> BEGIN STRING
+バーゲストのほとんどが、いちおう人の話は聞いてるみたいだ
+
+だから待てと言われれば、一瞬ひるんだりするらしい。
+> CONTEXT: Map019/events/5/pages/1/161/Dialogue
+Most of barghest seems to be listening to
+people's story. So if you are told to wait, it
+seems to hang for a moment.#MTLed
+> END STRING
+
+> BEGIN STRING
+だがそれ以上に、『人間と”遊べ”』っていう
+
+ヘカーテの命令が優先されちまうらしいな。
+> CONTEXT: Map019/events/5/pages/1/165/Dialogue
+But more than that, "Play" with humans "
+It seems that the instruction of Hecate has
+priority.#MTLed
+> END STRING
+
+> BEGIN STRING
+………不思議なのは、お前に説得されているとき
+
+すごくその言葉に落ち着いた自分がいた事だってさ。
+> CONTEXT: Map019/events/5/pages/1/171/Dialogue
+......... What is strange when you are dissuade
+to you. It was because I was a very calm person
+in that word.#MTLed
+> END STRING
+
+> BEGIN STRING
+やっぱメイラの見込んだ通り、お前こういうの
+
+結構向いてるんじゃね？
+> CONTEXT: Map019/events/5/pages/1/175/Dialogue
+As expected by Meira, you are like this
+It's quite suitable for me, is not it?#MTLed
+> END STRING
+
+> BEGIN STRING
+この先出会う悪魔たちも
+
+聞く耳持ってくれれば良いんだけどね…。
+> CONTEXT: Map019/events/5/pages/1/179/Dialogue
+The demons we meet before. I ought to have an ear
+to listen to, but ....#MTLed
+> END STRING
+
+> BEGIN STRING
+ワオンッ！
+> CONTEXT: Map019/events/5/pages/1/183/Dialogue
+wooff!#MTLed
+> END STRING
+
+> BEGIN STRING
+その『不思議な感覚』はとてもあいまいで
+
+すごく本能に訴えかけるようなものだったから…。
+> CONTEXT: Map019/events/5/pages/1/185/Dialogue
+That "mysterious feeling" is very vague
+It was kind of appealing to instinct ....#MTLed
+> END STRING
+
+> BEGIN STRING
+『交尾』以外で、人間を襲う目的がある悪魔には
+
+効きそうにないなぁ、って言ってるぞ。
+> CONTEXT: Map019/events/5/pages/1/189/Dialogue
+Apart from "mating", there is a purpose to attack
+humans in demon. You are saying that it does not
+seem to work.#MTLed
+> END STRING
+
+> BEGIN STRING
+れ、冷静な分析をどうも…！
+> CONTEXT: Map019/events/5/pages/1/193/Dialogue
+Thank you very much for your calm analysis!#MTLed
+> END STRING
+
+> BEGIN STRING
+まぁ総括するとだ。
+
+相手が搾精目的で近づいたとき、お前は一瞬だけ
+『思いとどまらせる』能力がある、かもしれない？らしい。
+> CONTEXT: Map019/events/5/pages/1/195/Dialogue
+Well to sum it up. When your opponent approaches
+with a milking purpose, you only momentarily
+There may be the ability to "discourage", maybe?
+It seems.#MTLed
+> END STRING
+
+> BEGIN STRING
+それをうまく使えば
+
+このバーゲストみたいに、説得するチャンスを
+見いだせるかもしれないな。
+> CONTEXT: Map019/events/5/pages/1/200/Dialogue
+If you use it well. Like this barghest, you have
+a Persuade opportunity. You may find it.#MTLed
+> END STRING
+
+> BEGIN STRING
+『ごはんがほしい』だそうだ。
+> CONTEXT: Map019/events/5/pages/1/212/Dialogue
+It seems that "I want rice."#MTLed
+> END STRING
+
+> BEGIN STRING
+えっと………
+
+確かこの部屋、冷蔵庫があったような……
+> CONTEXT: Map019/events/5/pages/1/214/Dialogue
+Er ......... Surely there seemed to be a
+refrigerator in this room ......#MTLed
+> END STRING
+
+> BEGIN STRING
+あのな………俺たち悪魔は、食わなくても死にゃしない。
+
+『ごはん』ってのはおそらく……
+> CONTEXT: Map019/events/5/pages/1/225/Dialogue
+Hey.........we do not die without eating.
+Probably "Rice" ......#MTLed
+> END STRING
+
+> BEGIN STRING
+そ、そうじゃないかもしれないだろ…！
+
+ほら、バーゲストも冷蔵庫の方向いてるし！
+> CONTEXT: Map019/events/5/pages/1/229/Dialogue
+Well, maybe not! ...! Look, barghest also faces
+the refrigerator!#MTLed
+> END STRING
+
+> BEGIN STRING
+お前につられて向いただけだろ、これ。
+> CONTEXT: Map019/events/5/pages/1/235/Dialogue
+I just faced with you, I guess.#MTLed
+> END STRING
+
+> BEGIN STRING
+………ワォン！
+> CONTEXT: Map019/events/5/pages/1/238/Dialogue
+......... Won!#MTLed
+> END STRING
+
+> BEGIN STRING
+『お前が食うものなら、一緒に食べてみたい。』だとさ。
+> CONTEXT: Map019/events/5/pages/1/240/Dialogue
+"If you eat, I would like to eat it together.
+That's it.#MTLed
+> END STRING
+
+> BEGIN STRING
+（ホッ………）
+> CONTEXT: Map019/events/5/pages/1/242/Dialogue
+(Hot .........)#MTLed
+> END STRING
+
+> BEGIN STRING
+ば、バーゲストは、好きな食べ物とかあるの？
+
+僕、一人暮らししてたから、簡単なものなら作れると思う…
+> CONTEXT: Map019/events/5/pages/1/244/Dialogue
+Does barghest have your favorite food?
+Because I was living alone, I think I can make it
+if it's easy ...#MTLed
+> END STRING
+
+> BEGIN STRING
+ワンッ！♡
+> CONTEXT: Map019/events/5/pages/1/248/Dialogue
+One! ♡#MTLed
+> END STRING
+
+> BEGIN STRING
+…『人間の食べ物ならなんでも大好き』だそうだが。
+> CONTEXT: Map019/events/5/pages/1/250/Dialogue
+... It seems to be "I love whatever human food
+is."#MTLed
+> END STRING
+
+> BEGIN STRING
+え、えっと……
+
+じゃあ逆に、嫌いな食べ物は…？
+> CONTEXT: Map019/events/5/pages/1/252/Dialogue
+Let me see……. Well, on the contrary, what
+disliked food ...?#MTLed
+> END STRING
+
+> BEGIN STRING
+クゥン………
+> CONTEXT: Map019/events/5/pages/1/256/Dialogue
+> CONTEXT: Commonevents/15/137/Dialogue
+> CONTEXT: Commonevents/15/243/Dialogue
+nnn .........#MTLed
+> END STRING
+
+> BEGIN STRING
+あー……
+
+『犬用の食事、ドッグフードは特に。』だそうだ。
+> CONTEXT: Map019/events/5/pages/1/258/Dialogue
+Ah……. It seems to be "Dog meal, or dog food I
+should say."#MTLed
+> END STRING
+
+> BEGIN STRING
+そ………そうなんだ…………？
+> CONTEXT: Map019/events/5/pages/1/262/Dialogue
+That.........That's right ............?#MTLed
+> END STRING
+
+> BEGIN STRING
+うわぁ…………ひでぇなぁ
+> CONTEXT: Map019/events/5/pages/1/266/Dialogue
+Wow ............ Hide#MTLed
+> END STRING
+
+> BEGIN STRING
+な…なに？どうしたの？
+> CONTEXT: Map019/events/5/pages/1/268/Dialogue
+What...? What's wrong?#MTLed
+> END STRING
+
+> BEGIN STRING
+『バーゲストは人間の味覚そのまんまなのに、
+
+ヘカーテは毎日ドッグフードしか与えなかった』だとさ…。
+> CONTEXT: Map019/events/5/pages/1/270/Dialogue
+"Although barghest is a human sense of taste,
+Hecate gave only dog food everyday. "#MTLed
+> END STRING
+
+> BEGIN STRING
+『しかも喜んでがっつくフリしなきゃ
+
+不満そうにしたやつから消された』んだと……。
+> CONTEXT: Map019/events/5/pages/1/274/Dialogue
+"I also have to pretend to be willing to do it
+It was erased from the bad guy...".#MTLed
+> END STRING
+
+> BEGIN STRING
+よし！わかった！バーゲスト！
+
+冷蔵庫の中身次第だけど、美味しいもの食べさせてあげる！
+> CONTEXT: Map019/events/5/pages/1/278/Dialogue
+All right! all right! barghest!
+It depends on the contents of the refrigerator,
+but I will let you eat delicious items!#MTLed
+> END STRING
+
+> BEGIN STRING
+ワウッ！♪
+> CONTEXT: Map019/events/5/pages/1/282/Dialogue
+Waoof!♪#MTLed
+> END STRING
+
+> BEGIN STRING
+おいおい、そう落ち込むなって。
+
+案外、味がしっかりしてて美味かったぜ？
+> CONTEXT: Map019/events/5/pages/1/294/Dialogue
+Hey you, do not despair. Unexpectedly, the taste
+was solid and it was delicious.#MTLed
+> END STRING
+
+> BEGIN STRING
+『見た目を一切気にしない、ごちゃ混ぜ焦げチャーハン』
+
+ﾌﾟﾌﾟﾌﾟｯ
+> CONTEXT: Map019/events/5/pages/1/298/Dialogue
+"Do not worry about anything, chubby burned fried
+rice". hohn hohn hohn#MTLed
+> END STRING
+
+> BEGIN STRING
+し、仕方ないだろ！具材はほとんど缶詰めだったし
+
+冷凍された米の扱いなんて、は、初めてだったし……！
+> CONTEXT: Map019/events/5/pages/1/302/Dialogue
+Then, it can not be helped! The ingredients were
+almost canned. It was the first time to handle
+frozen rice......!#MTLed
+> END STRING
+
+> BEGIN STRING
+アォン！♡
+> CONTEXT: Map019/events/5/pages/1/308/Dialogue
+> CONTEXT: Map019/events/7/pages/0/25/Dialogue
+Ahn! ♡#MTLed
+> END STRING
+
+> BEGIN STRING
+ほら、バーゲストも『また食いたい』ってさ
+
+『あのぐちゃぐちゃ飯』…………ﾌﾟﾌﾟﾌﾟｯ！
+> CONTEXT: Map019/events/5/pages/1/310/Dialogue
+Look, barghest also "I want to eat it again"
+"That liquid food" ............ hohn hohn hohn!#MTLed
+> END STRING
+
+> BEGIN STRING
+つ、次はもっと上手くやるからな！ちくしょう！
+> CONTEXT: Map019/events/5/pages/1/314/Dialogue
+Well, next time I will do better! Damn it!#MTLed
+> END STRING
+
+> BEGIN STRING
+【キズナイベント】if(v[41] \>= 99)
+> CONTEXT: Map019/events/5/pages/1/327/Choice/0
+Bonding Event if(v[41] \>= 99)#Dargoth
+> END STRING
+
+> BEGIN STRING
+………『せっかくお風呂があるんだから
+
+お前に身体を洗って欲しい』んだそうだ。
+> CONTEXT: Map019/events/5/pages/1/334/Dialogue
+......... "Because there is a big bath.
+I want you to wash your body. "#MTLed
+> END STRING
+
+> BEGIN STRING
+ていうか、前から気になってたんだが……
+
+バーゲストって犬だろ？なんで家庭用品一式揃ってるんだ？
+> CONTEXT: Map019/events/5/pages/1/338/Dialogue
+I mean, I was worried from before......
+Is barghest a dog? Why do you have a complete set
+of household items?#MTLed
+> END STRING
+
+> BEGIN STRING
+ベッドはまぁ分かるが…個室トイレって……
+
+ここ来たお前くらいしか使わな…
+ううん？精神体だからウンコはしないか…
+> CONTEXT: Map019/events/5/pages/1/342/Dialogue
+I understand the bed well...but toilet in a
+single room ...... I used only you here ...
+No? Because it is spiritual body, will not you do
+it?#MTLed
+> END STRING
+
+> BEGIN STRING
+コトバが汚い……
+> CONTEXT: Map019/events/5/pages/1/349/Dialogue
+Cotoba is dirty ......#MTLed
+> END STRING
+
+> BEGIN STRING
+ま、そのあとに『寝かしつけ』もやって欲しいらしいから
+
+俺はとっとと退散するかねぇ
+> CONTEXT: Map019/events/5/pages/1/351/Dialogue
+Well, after that it seems that you want to get
+"sleepy". I wonder if I will fade away#MTLed
+> END STRING
+
+> BEGIN STRING
+それじゃ、ごゆっくりぃ♪
+> CONTEXT: Map019/events/5/pages/1/355/Dialogue
+Well then, slowly♪#MTLed
+> END STRING
+
+> BEGIN STRING
+お、おい……！
+> CONTEXT: Map019/events/5/pages/1/358/Dialogue
+Hey, hey ...!#MTLed
+> END STRING
+
+> BEGIN STRING
+………ワゥン♡
+> CONTEXT: Map019/events/5/pages/1/360/Dialogue
+......... wof ♡#MTLed
+> END STRING
+
+> BEGIN STRING
+わ、分かったから、バーゲスト！
+
+おしりグイグイ押さないでって…！
+> CONTEXT: Map019/events/5/pages/1/362/Dialogue
+I knew, barghest! Do not push the butt!#MTLed
+> END STRING
+
+> BEGIN STRING
+背中流してるだけなのに……
+
+なんで僕こんなに興奮してんだろ……
+> CONTEXT: Map019/events/5/pages/1/377/Dialogue
+I'm just sitting on my back ......
+Why am I being Aroused so much ...?#MTLed
+> END STRING
+
+> BEGIN STRING
+多分『体毛』も触ると欲情しちゃうのかな……
+
+悪魔の身体ってコワイ……
+> CONTEXT: Map019/events/5/pages/1/381/Dialogue
+Perhaps I feel lusty when I touch "body hair"
+...... The body of demon is kowai ......#MTLed
+> END STRING
+
+> BEGIN STRING
+なんだろう……この違和感。
+
+バーゲストの背中………
+> CONTEXT: Map019/events/5/pages/1/387/Dialogue
+I wonder what...this incompatibility.
+Barghest's back .........#MTLed
+> END STRING
+
+> BEGIN STRING
+これじゃ、まるで………
+> CONTEXT: Map019/events/5/pages/1/391/Dialogue
+Well, as if..........#MTLed
+> END STRING
+
+> BEGIN STRING
+！！！
+
+うわわっ！！
+> CONTEXT: Map019/events/5/pages/1/395/Dialogue
+!!! Sorry! !#MTLed
+> END STRING
+
+> BEGIN STRING
+背中の側面を洗おうと、手をずらしたと同時に
+
+バーゲストが狙ったように身体をよじる！
+> CONTEXT: Map019/events/5/pages/1/399/Dialogue
+At the same time I shifted my hand to wash the side of my
+back. As the barghest aimed, he feels the body!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[1]の手は、バーゲストの腹部の胸と胸の間に挟まり
+
+バーゲストはムニムニと当たるように身体をくねらせてくる…
+> CONTEXT: Map019/events/5/pages/1/403/Dialogue
+\\N[1] The hands are caught between the chest and the
+chest of the abdomen of barghest. barghest will bite your
+body to hit soft ...#MTLed
+> END STRING
+
+> BEGIN STRING
+はあっ…！！はあっ…♡♡
+> CONTEXT: Map019/events/5/pages/1/410/Dialogue
+What…! !? ♡ ♡#MTLed
+> END STRING
+
+> BEGIN STRING
+……って！！ダメ！！バーゲスト！！
+
+今身体洗ってる途中でしょ！！交尾はダメ！！
+> CONTEXT: Map019/events/5/pages/1/413/Dialogue
+......!!No good!!barghest! !
+I am washing my body right now!!No copulation!
+!#MTLed
+> END STRING
+
+> BEGIN STRING
+………？♡
+> CONTEXT: Map019/events/5/pages/1/417/Dialogue
+.........? ♡#MTLed
+> END STRING
+
+> BEGIN STRING
+わ、わかった！
+
+それじゃ、寝るとき！寝るときイチャイチャしよう！ね！
+それまでガマンしてて！
+> CONTEXT: Map019/events/5/pages/1/419/Dialogue
+Wow, I understand! Well then, when you go to bed!
+Let's cozy when you sleep! Right!
+Hold it back until then!#MTLed
+> END STRING
+
+> BEGIN STRING
+とっさに口から出たとはいえ……
+
+えらい約束をしてしまった……
+> CONTEXT: Map019/events/5/pages/1/426/Dialogue
+Even though I got out of my mouth quickly ......
+I made a promise promised......#MTLed
+> END STRING
+
+> BEGIN STRING
+（あれ…？
+　てっきりいつもみたいに飛び掛かってくるかと思ったけど…
+　素直にベッドに横になったな…？）
+> CONTEXT: Map019/events/5/pages/1/440/Dialogue
+(that…? I thought he was going to jump as usual
+like usual...You obediently lay down on the bed
+...? )#MTLed
+> END STRING
+
+> BEGIN STRING
+……………そういえば
+
+こうやってバーゲストの顔をじっと見るのは初めてだな……
+> CONTEXT: Map019/events/5/pages/1/448/Dialogue
+……………by the way. This is the first time to stare
+at the face of barghest ...#MTLed
+> END STRING
+
+> BEGIN STRING
+いつもは目の魔力にやられて興奮しちゃうからな……
+
+寝てるから、その効果もないわけか……
+> CONTEXT: Map019/events/5/pages/1/452/Dialogue
+I usually get stunned by the magical power of my
+eyes and it will be Aroused ......
+Because I am asleep, it has no effect......#MTLed
+> END STRING
+
+> BEGIN STRING
+わかった……。
+
+さっきの『違和感』……
+> CONTEXT: Map019/events/5/pages/1/458/Dialogue
+all right……. The "strange feeling" just before
+...#MTLed
+> END STRING
+
+> BEGIN STRING
+どうして『人間の味覚と同じ』なのか……
+
+個室トイレがあるのか……
+> CONTEXT: Map019/events/5/pages/1/462/Dialogue
+Why "Is it the same as the human taste?"
+Is there a single room toilet ......#MTLed
+> END STRING
+
+> BEGIN STRING
+そうだよな……ちょっと考えれば分かるよな……
+
+ごめん、今まで気にしてなくて……
+> CONTEXT: Map019/events/5/pages/1/467/Dialogue
+That's right ...... I can tell by thinking a bit
+......I'm sorry, I have not mind ...#MTLed
+> END STRING
+
+> BEGIN STRING
+お前はヘカーテに『犬っぽく創られた』だけで…
+
+根本は『女の子』の悪魔なんだよな……
+> CONTEXT: Map019/events/5/pages/1/471/Dialogue
+You are just "doggy created" by Hecate ...
+The root is "demon" of "girl"......#MTLed
+> END STRING
+
+> BEGIN STRING
+こうやってベッドで、誰かと並んで寝たいよな……
+> CONTEXT: Map019/events/5/pages/1/475/Dialogue
+Like this, I'd like to go to bed with someone and
+go to bed ...#MTLed
+> END STRING
+
+> BEGIN STRING
+バーゲストを撫でようと手を伸ばした瞬間
+
+バーゲストが寝返りをうって、手がベッドとうつ伏せの胸の
+間に埋もれてしまった！！
+> CONTEXT: Map019/events/5/pages/1/481/Dialogue
+The moment when I reached out to stroke barghest
+barghest going over and turning his hands on the bed and
+lying on his chest. I was buried in between! !#MTLed
+> END STRING
+
+> BEGIN STRING
+あっ…！あっ…♡
+
+こ、このままだとまずい…！
+> CONTEXT: Map019/events/5/pages/1/486/Dialogue
+Ah…! Ah. It is bad if this is like this ...!#MTLed
+> END STRING
+
+> BEGIN STRING
+必死に手を引き抜こうとするが……
+
+全体重を『かけられてしまって』いて、抜けない…！
+> CONTEXT: Map019/events/5/pages/1/490/Dialogue
+Desperately trying to pull out his hand......
+I've been "hung on" the whole body weight, I can not get
+out!#MTLed
+> END STRING
+
+> BEGIN STRING
+バーゲスト……！！
+
+お前、起きてたな！？
+> CONTEXT: Map019/events/5/pages/1/495/Dialogue
+barghest ......!!You were awake!?#MTLed
+> END STRING
+
+> BEGIN STRING
+ワオォン♡
+> CONTEXT: Map019/events/5/pages/1/500/Dialogue
+> CONTEXT: Map019/events/5/pages/1/530/Dialogue
+Wowon ♡#MTLed
+> END STRING
+
+> BEGIN STRING
+…………大丈夫か？\\N[1]。
+
+腰ガクガクだぞ…？
+> CONTEXT: Map019/events/5/pages/1/520/Dialogue
+…………Are you okay? \\N[1] . It's waist shaking
+...?#MTLed
+> END STRING
+
+> BEGIN STRING
+だ、大丈夫………
+
+ちょっと、安心しきってただけ……
+> CONTEXT: Map019/events/5/pages/1/524/Dialogue
+I'm OK. I was just relieved a bit......#MTLed
+> END STRING
+
+> BEGIN STRING
+…………なんでお前の方が安心しきっちゃうんだよ……
+> CONTEXT: Map019/events/5/pages/1/528/Dialogue
+............ Why do you feel secure? ...#MTLed
+> END STRING
+
+> BEGIN STRING
+でもまぁ、バーゲストは大分満足だったみたいだぜ。
+
+何が起きたかはよく分かんねぇけど。
+> CONTEXT: Map019/events/5/pages/1/532/Dialogue
+Well, well, barghest seems to be satisfied to a
+great extent. I do not understand well what
+happened.#MTLed
+> END STRING
+
+> BEGIN STRING
+『またいつでもヤろう！』って意気込んでるが。
+> CONTEXT: Map019/events/5/pages/1/536/Dialogue
+"You will always be wondering! I am enthusiastic.#MTLed
+> END STRING
+
+> BEGIN STRING
+ま、また落ち着いたらね…！
+> CONTEXT: Map019/events/5/pages/1/538/Dialogue
+Well, if you calm down again ...!#MTLed
+> END STRING
+
+> BEGIN STRING
+バーゲストとの『キズナ』が生まれた！！
+
+友好度が『１００』になった！！
+> CONTEXT: Map019/events/5/pages/1/541/Dialogue
+"Kizuna" with barghest was born!!Friendship became "100"!
+!#MTLed
+> END STRING
+
+> BEGIN STRING
+はい、バーゲスト……
+
+これ………
+> CONTEXT: Map019/events/5/pages/2/1/Dialogue
+Yes, barghest ...... this………#MTLed
+> END STRING
+
+> BEGIN STRING
+バーゲストは、\\N[1]の持っている贈り物に
+
+鼻を近付けて、においを嗅いでいる……
+> CONTEXT: Map019/events/5/pages/2/8/Dialogue
+barghest, \\N[1] To the gift that. I approach the nose
+and sniff the smell ......#MTLed
+> END STRING
+
+> BEGIN STRING
+ホントは指輪を贈りたかったけど、君は動き回るから…
+
+首輪にしてあげた方が動きやすいかなって思って
+加工行程をすこし手間かけちゃった……
+> CONTEXT: Map019/events/5/pages/2/12/Dialogue
+Really wanted to give a ring, but you move around
+... I thought that it would be easier for the
+person who made it a collar to move
+I have spent a little effort on the machining
+process ......#MTLed
+> END STRING
+
+> BEGIN STRING
+それでもこれは、君への『エンゲージリング』……
+
+受け取ってくれる……？
+> CONTEXT: Map019/events/5/pages/2/17/Dialogue
+Still this is an "engagement ring" to you ...
+Receiving.......?#MTLed
+> END STRING
+
+> BEGIN STRING
+………？？
+> CONTEXT: Map019/events/5/pages/2/21/Dialogue
+.........??#MTLed
+> END STRING
+
+> BEGIN STRING
+……………もしかして、『エンゲージリング』の
+
+意味が分かってないの………？
+> CONTEXT: Map019/events/5/pages/2/25/Dialogue
+............... By any chance, "engagement ring"
+I do not understand the meaning .........?#MTLed
+> END STRING
+
+> BEGIN STRING
+え、ええと……
+
+そのへん言葉で説明するの、恥ずかしいな……
+> CONTEXT: Map019/events/5/pages/2/32/Dialogue
+Well, uh ...... It's embarrassing to explain with
+that word ...#MTLed
+> END STRING
+
+> BEGIN STRING
+つまり、ずっと一緒にいてくれっていう
+
+僕の君への『プロポーズ』の証、だよ……
+> CONTEXT: Map019/events/5/pages/2/36/Dialogue
+In other words, they are always together forever
+Proof of "Proposal" to me ......#MTLed
+> END STRING
+
+> BEGIN STRING
+！！！！！！！！！！！！！
+> CONTEXT: Map019/events/5/pages/2/40/Dialogue
+!!!!!!!!!!!!!#MTLed
+> END STRING
+
+> BEGIN STRING
+そ、その喜び方は……
+
+『ＯＫ』ってことで、いいのかな……？
+> CONTEXT: Map019/events/5/pages/2/49/Dialogue
+Well, that way of pleasure ...
+Is it ok to say "OK" ...?#MTLed
+> END STRING
+
+> BEGIN STRING
+ワウッ♡♡
+> CONTEXT: Map019/events/5/pages/2/53/Dialogue
+Waoof ♡ ♡#MTLed
+> END STRING
+
+> BEGIN STRING
+ありがとう……
+
+これからはずっと一緒だよ、バーゲスト。
+> CONTEXT: Map019/events/5/pages/2/56/Dialogue
+Thank you……. From now on for a long time,
+barghest.#MTLed
+> END STRING
+
+> BEGIN STRING
+～～～～♡♡♡
+> CONTEXT: Map019/events/5/pages/2/60/Dialogue
+~~~~ ♡ ♡ ♡#MTLed
+> END STRING
+
+> BEGIN STRING
+うわっ！！ちょっ……！！？
+> CONTEXT: Map019/events/5/pages/2/64/Dialogue
+whah! Wha ...! !?#MTLed
+> END STRING
+
+> BEGIN STRING
+あっ……！！やめっ……！！
+
+み、耳は………なっ…めぇ……！！♡
+> CONTEXT: Map019/events/5/pages/2/69/Dialogue
+Ah……!!Stop it ...!!Only, my ears .........
+well...Mee ...!!♡#MTLed
+> END STRING
+
+> BEGIN STRING
+おうおう、婚約初日から激しいねぇ。
+
+こりゃ、文字通り尻に敷かれる未来が見えるな。
+> CONTEXT: Map019/events/5/pages/2/75/Dialogue
+It is intense since the engagement first day.
+Well, you can see the future literally hidden in
+the buttocks.#MTLed
+> END STRING
+
+> BEGIN STRING
+ううっ………
+> CONTEXT: Map019/events/5/pages/2/79/Dialogue
+uugh.........#MTLed
+> END STRING
+
+> BEGIN STRING
+エンゲージリングを受け取ってもらったことで
+
+\\C[2]バーゲストと婚約した！
+> CONTEXT: Map019/events/5/pages/2/89/Dialogue
+By having an engagement ring received. \\C[2]I am engaged to
+barghest!#MTLed
+> END STRING
+
+> BEGIN STRING
+親密度が５０以上必要。
+（現在の値：\\V[41]）
+> CONTEXT: Map019/events/6/pages/0/0/Dialogue
+Familiarity needs to be 50 or more. (Current value: \\V[41] )#MTLed
+> END STRING
+
+> BEGIN STRING
+ワウッ！♡
+> CONTEXT: Map019/events/7/pages/0/7/Dialogue
+Waoof!♡#MTLed
+> END STRING
+
+> BEGIN STRING
+う、うわっ！
+
+ば、バーゲスト！？
+> CONTEXT: Map019/events/7/pages/0/9/Dialogue
+Uh, whah! Well, barghest!?#MTLed
+> END STRING
+
+> BEGIN STRING
+ドアを開けるなり、僕に飛び付いてきたのは
+
+シェルター内で何度も目にしたバーゲスト。
+> CONTEXT: Map019/events/7/pages/0/13/Dialogue
+I opened the door and it came down to me
+I saw it many times in the shelter barghest.#MTLed
+> END STRING
+
+> BEGIN STRING
+だがそのバーゲストには、見覚えのある包帯が
+
+後ろ脚に巻き付いていた。
+> CONTEXT: Map019/events/7/pages/0/17/Dialogue
+But in its barghest there is a familiar bandage
+I was wrapping around the back legs.#MTLed
+> END STRING
+
+> BEGIN STRING
+あ………キミ………
+
+もしかして、あのとき僕が手当てしたバーゲスト……？
+> CONTEXT: Map019/events/7/pages/0/21/Dialogue
+Ah ......... Kimi ......... Perhaps, the barghest
+that I took at that time ......?#MTLed
+> END STRING
+
+> BEGIN STRING
+『ここならいつでもお前に会えるって聞いて
+
+主人のヘカーテの命令無視して来ちゃった♡』だそうだ。
+> CONTEXT: Map019/events/7/pages/0/30/Dialogue
+"If you hear that you can meet you anytime here
+He ignored the command of his master Hecate ♡ "he
+said.#MTLed
+> END STRING
+
+> BEGIN STRING
+うわっ！！
+
+毎回突然現れるなお前！？
+> CONTEXT: Map019/events/7/pages/0/34/Dialogue
+whah! You will not appear all of a sudden every
+time!?#MTLed
+> END STRING
+
+> BEGIN STRING
+なんだよ。お前じゃバーゲストの言葉、わかんねぇだろ？
+
+しょうがねぇから通訳してやるよ。
+> CONTEXT: Map019/events/7/pages/0/38/Dialogue
+what is it. You do not know barghest 's words, do
+you? I'll interpret it from ginger.#MTLed
+> END STRING
+
+> BEGIN STRING
+あ、でもちゃんと『交尾』の時は退出しといてやるから
+
+安心してまぐわってくれよな！
+> CONTEXT: Map019/events/7/pages/0/42/Dialogue
+Oh, but when properly copying it we will leave
+Please relax with confidence!#MTLed
+> END STRING
+
+> BEGIN STRING
+まぐわっ………！？
+> CONTEXT: Map019/events/7/pages/0/46/Dialogue
+Sitting .........!?#MTLed
+> END STRING
+
+> BEGIN STRING
+？？
+> CONTEXT: Map019/events/7/pages/0/48/Dialogue
+??#MTLed
+> END STRING

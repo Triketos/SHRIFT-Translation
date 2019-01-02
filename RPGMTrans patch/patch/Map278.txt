@@ -1,0 +1,492 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+中で予備電源装置の大きな音がする……
+
+確かここにはバーゲストが集まってきているはずだが…
+> CONTEXT: Map278/events/12/pages/2/0/Dialogue
+> CONTEXT: Map278/events/13/pages/2/0/Dialogue
+> CONTEXT: Map007/events/12/pages/2/0/Dialogue
+> CONTEXT: Map007/events/13/pages/2/0/Dialogue
+The backup power supply is making a loud noise....
+The Barghests will definitely gather here.#Aesthetic
+> END STRING
+
+> BEGIN STRING
+中に入る
+> CONTEXT: Map278/events/12/pages/2/6/Choice/1
+> CONTEXT: Map278/events/13/pages/2/6/Choice/1
+> CONTEXT: Map173/events/3/pages/1/4/Choice/0
+> CONTEXT: Map165/events/10/pages/0/4/Choice/0
+> CONTEXT: Map165/events/12/pages/0/4/Choice/0
+> CONTEXT: Map161/events/2/pages/1/4/Choice/0
+> CONTEXT: Map161/events/2/pages/2/4/Choice/0
+> CONTEXT: Map161/events/3/pages/1/4/Choice/0
+> CONTEXT: Map161/events/3/pages/2/4/Choice/0
+> CONTEXT: Map007/events/12/pages/2/6/Choice/1
+> CONTEXT: Map007/events/13/pages/2/6/Choice/1
+Enter#Dargoth
+> END STRING
+
+> BEGIN STRING
+ね、ねえってば…………！！
+
+やめてよぉ………！！
+> CONTEXT: Map278/events/15/pages/0/5/Dialogue
+Hey, hey ............! ! stop yo .........! !#MTLed
+> END STRING
+
+> BEGIN STRING
+君…………ヘカーテさまのとこのワンちゃんだよね？
+
+なんで、ボクのことそんなに追いかけ回すの…？
+> CONTEXT: Map278/events/15/pages/0/9/Dialogue
+You ............ This dog of Hecate-sama is not
+it? Why are you chasing me so much ...?#MTLed
+> END STRING
+
+> BEGIN STRING
+ボク、君のご主人様の場所を聞いただけなんだけど
+
+ なにか気にさわったの……？
+> CONTEXT: Map278/events/15/pages/0/13/Dialogue
+I just heard the place of your master
+Did you care about something ...?#MTLed
+> END STRING
+
+> BEGIN STRING
+ワォン♡
+> CONTEXT: Map278/events/15/pages/0/23/Dialogue
+> CONTEXT: Map278/events/26/pages/2/51/Dialogue
+> CONTEXT: Map278/events/26/pages/3/51/Dialogue
+> CONTEXT: Map021/events/3/pages/1/52/Dialogue
+> CONTEXT: Map007/events/26/pages/2/51/Dialogue
+> CONTEXT: Map007/events/26/pages/3/51/Dialogue
+> CONTEXT: Map006/events/3/pages/1/55/Dialogue
+> CONTEXT: Map006/events/3/pages/2/45/Dialogue
+> CONTEXT: Commonevents/15/105/Dialogue
+> CONTEXT: Commonevents/15/211/Dialogue
+Won#MTLed
+> END STRING
+
+> BEGIN STRING
+\\{ひ、ひええぇぇぇぇ………！！
+なんでついてくるのおおおぉぉぉ！？
+> CONTEXT: Map278/events/15/pages/0/106/Dialogue
+\\{Hi, hee hee............! !
+Why are you following me??#MTLed
+> END STRING
+
+> BEGIN STRING
+ （……………『でっかい同種』って
+
+　思われてるんじゃないかなぁ……）
+> CONTEXT: Map278/events/15/pages/0/110/Dialogue
+(............... "Huge homogeneous"
+I wonder if it seems to be thought......)#MTLed
+> END STRING
+
+> BEGIN STRING
+あれは…バーゲストだったっけか。
+一匹じゃないとは思ってたけど、あんなに数がいるのか……
+> CONTEXT: Map278/events/18/pages/1/5/Dialogue
+> CONTEXT: Map278/events/19/pages/1/5/Dialogue
+> CONTEXT: Map278/events/20/pages/1/5/Dialogue
+> CONTEXT: Map278/events/21/pages/1/5/Dialogue
+> CONTEXT: Map278/events/22/pages/1/5/Dialogue
+> CONTEXT: Map278/events/37/pages/1/5/Dialogue
+> CONTEXT: Map007/events/18/pages/1/5/Dialogue
+> CONTEXT: Map007/events/19/pages/1/5/Dialogue
+> CONTEXT: Map007/events/20/pages/1/5/Dialogue
+> CONTEXT: Map007/events/21/pages/1/5/Dialogue
+> CONTEXT: Map007/events/22/pages/1/5/Dialogue
+> CONTEXT: Map007/events/23/pages/1/5/Dialogue
+> CONTEXT: Map007/events/24/pages/1/5/Dialogue
+> CONTEXT: Map007/events/25/pages/1/5/Dialogue
+That...was a Barghest? I thought it would be alone.
+I didn't think there would be so many.#Aesthetic
+> END STRING
+
+> BEGIN STRING
+さっきのロック解除の音で寄ってきてしまったんだろうな…。
+ここは長い廊下だ、普段より音が響くんだろう。
+> CONTEXT: Map278/events/18/pages/1/8/Dialogue
+> CONTEXT: Map278/events/19/pages/1/8/Dialogue
+> CONTEXT: Map278/events/20/pages/1/8/Dialogue
+> CONTEXT: Map278/events/21/pages/1/8/Dialogue
+> CONTEXT: Map278/events/22/pages/1/8/Dialogue
+> CONTEXT: Map278/events/37/pages/1/8/Dialogue
+> CONTEXT: Map007/events/18/pages/1/8/Dialogue
+> CONTEXT: Map007/events/19/pages/1/8/Dialogue
+> CONTEXT: Map007/events/20/pages/1/8/Dialogue
+> CONTEXT: Map007/events/21/pages/1/8/Dialogue
+> CONTEXT: Map007/events/22/pages/1/8/Dialogue
+> CONTEXT: Map007/events/23/pages/1/8/Dialogue
+> CONTEXT: Map007/events/24/pages/1/8/Dialogue
+> CONTEXT: Map007/events/25/pages/1/8/Dialogue
+> CONTEXT: Map007/events/37/pages/1/7/Dialogue
+I guess they heard the sound of the door unlocking before. 
+This is a long corridor. The sound will echo more than usual.#Aesthetic
+> END STRING
+
+> BEGIN STRING
+しかし困ったな…あそこに居付かれては、先に進めない。
+> CONTEXT: Map278/events/18/pages/1/11/Dialogue
+> CONTEXT: Map278/events/19/pages/1/11/Dialogue
+> CONTEXT: Map278/events/20/pages/1/11/Dialogue
+> CONTEXT: Map278/events/21/pages/1/11/Dialogue
+> CONTEXT: Map278/events/22/pages/1/11/Dialogue
+> CONTEXT: Map278/events/37/pages/1/11/Dialogue
+> CONTEXT: Map007/events/18/pages/1/11/Dialogue
+> CONTEXT: Map007/events/19/pages/1/11/Dialogue
+> CONTEXT: Map007/events/20/pages/1/11/Dialogue
+> CONTEXT: Map007/events/21/pages/1/11/Dialogue
+> CONTEXT: Map007/events/22/pages/1/11/Dialogue
+> CONTEXT: Map007/events/23/pages/1/11/Dialogue
+> CONTEXT: Map007/events/24/pages/1/11/Dialogue
+> CONTEXT: Map007/events/25/pages/1/11/Dialogue
+> CONTEXT: Map007/events/37/pages/1/10/Dialogue
+This is a bit troublesome... If I can't get past there, I won't
+be able to move forward.#Aesthetic
+> END STRING
+
+> BEGIN STRING
+強行突破………は難しそうか。
+何かで注意を引ければいいんだが……。
+> CONTEXT: Map278/events/18/pages/1/13/Dialogue
+> CONTEXT: Map278/events/19/pages/1/13/Dialogue
+> CONTEXT: Map278/events/20/pages/1/13/Dialogue
+> CONTEXT: Map278/events/21/pages/1/13/Dialogue
+> CONTEXT: Map278/events/22/pages/1/13/Dialogue
+> CONTEXT: Map007/events/18/pages/1/13/Dialogue
+> CONTEXT: Map007/events/19/pages/1/13/Dialogue
+> CONTEXT: Map007/events/20/pages/1/13/Dialogue
+> CONTEXT: Map007/events/21/pages/1/13/Dialogue
+> CONTEXT: Map007/events/22/pages/1/13/Dialogue
+> CONTEXT: Map007/events/23/pages/1/13/Dialogue
+> CONTEXT: Map007/events/24/pages/1/13/Dialogue
+> CONTEXT: Map007/events/25/pages/1/13/Dialogue
+Forcing my way though... would be too difficult. 
+I wish I could somehow draw their attention away from there...#Aesthetic
+> END STRING
+
+> BEGIN STRING
+注意を引く、か…。
+\\C[2]何か大きな音でも出せれば、そちらに陽動できるかもな。
+> CONTEXT: Map278/events/18/pages/1/16/Dialogue
+> CONTEXT: Map278/events/19/pages/1/16/Dialogue
+> CONTEXT: Map278/events/20/pages/1/16/Dialogue
+> CONTEXT: Map278/events/21/pages/1/16/Dialogue
+> CONTEXT: Map278/events/22/pages/1/16/Dialogue
+> CONTEXT: Map007/events/18/pages/1/16/Dialogue
+> CONTEXT: Map007/events/19/pages/1/16/Dialogue
+> CONTEXT: Map007/events/20/pages/1/16/Dialogue
+> CONTEXT: Map007/events/21/pages/1/16/Dialogue
+> CONTEXT: Map007/events/22/pages/1/16/Dialogue
+> CONTEXT: Map007/events/23/pages/1/16/Dialogue
+> CONTEXT: Map007/events/24/pages/1/16/Dialogue
+> CONTEXT: Map007/events/25/pages/1/16/Dialogue
+Draw their attention eh...
+\\C[2]If you can find a way to make a loud noise, you can
+get them away from there.#Aesthetic
+> END STRING
+
+> BEGIN STRING
+"Chapter1-1　まで　クリア"
+> CONTEXT: Map278/events/26/pages/1/5/InlineScript/2:1
+> CONTEXT: Map278/events/26/pages/2/127/InlineScript/2:1
+> CONTEXT: Map278/events/26/pages/3/130/InlineScript/2:1
+> CONTEXT: Map278/events/26/pages/4/29/InlineScript/2:1
+> CONTEXT: Map007/events/26/pages/1/5/InlineScript/2:1
+> CONTEXT: Map007/events/26/pages/2/127/InlineScript/2:1
+> CONTEXT: Map007/events/26/pages/3/130/InlineScript/2:1
+> CONTEXT: Map007/events/26/pages/4/29/InlineScript/2:1
+"Clear up to Chapter 1 - 1"#MTLed
+> END STRING
+
+> BEGIN STRING
+そうか……『彼』が目覚めたか……。
+
+ずいぶんと待たせたじゃないか……。
+> CONTEXT: Map278/events/26/pages/1/24/Dialogue
+> CONTEXT: Map278/events/26/pages/2/145/Dialogue
+> CONTEXT: Map278/events/26/pages/3/148/Dialogue
+> CONTEXT: Map278/events/26/pages/4/47/Dialogue
+> CONTEXT: Map007/events/26/pages/1/24/Dialogue
+> CONTEXT: Map007/events/26/pages/2/145/Dialogue
+> CONTEXT: Map007/events/26/pages/3/148/Dialogue
+> CONTEXT: Map007/events/26/pages/4/47/Dialogue
+Really...『He』 Woke up... 
+You made me wait quite a while...#Aesthetic
+> END STRING
+
+> BEGIN STRING
+すでに現地のヘリが、E-001を搭載して目標の上空に待機。
+
+あとは、貴方の許可が欲しい、と。
+> CONTEXT: Map278/events/26/pages/1/28/Dialogue
+> CONTEXT: Map278/events/26/pages/2/149/Dialogue
+> CONTEXT: Map278/events/26/pages/3/152/Dialogue
+> CONTEXT: Map278/events/26/pages/4/51/Dialogue
+> CONTEXT: Map007/events/26/pages/1/28/Dialogue
+> CONTEXT: Map007/events/26/pages/2/149/Dialogue
+> CONTEXT: Map007/events/26/pages/3/152/Dialogue
+> CONTEXT: Map007/events/26/pages/4/51/Dialogue
+There's already a local helicopter carrying E-001 waiting
+in the sky above the target. We're ready and waiting on your
+orders.#Aesthetic
+> END STRING
+
+> BEGIN STRING
+よろしい、許可しよう。
+
+彼の元に、『E-001』を送り込みたまえ。
+> CONTEXT: Map278/events/26/pages/1/32/Dialogue
+> CONTEXT: Map278/events/26/pages/2/153/Dialogue
+> CONTEXT: Map278/events/26/pages/3/156/Dialogue
+> CONTEXT: Map278/events/26/pages/4/55/Dialogue
+> CONTEXT: Map007/events/26/pages/1/32/Dialogue
+> CONTEXT: Map007/events/26/pages/2/153/Dialogue
+> CONTEXT: Map007/events/26/pages/3/156/Dialogue
+> CONTEXT: Map007/events/26/pages/4/55/Dialogue
+All right, I'm giving the order. Please send 『E-001』
+over to him.#Aesthetic
+> END STRING
+
+> BEGIN STRING
+はっ
+
+では、そのように……。
+> CONTEXT: Map278/events/26/pages/1/36/Dialogue
+> CONTEXT: Map278/events/26/pages/2/157/Dialogue
+> CONTEXT: Map278/events/26/pages/3/160/Dialogue
+> CONTEXT: Map278/events/26/pages/4/59/Dialogue
+> CONTEXT: Map007/events/26/pages/1/36/Dialogue
+> CONTEXT: Map007/events/26/pages/2/157/Dialogue
+> CONTEXT: Map007/events/26/pages/3/160/Dialogue
+> CONTEXT: Map007/events/26/pages/4/59/Dialogue
+Ha. 
+Then, it's going to be like this.#Aesthetic
+> END STRING
+
+> BEGIN STRING
+…………見せてもらおうか。\\N[1]。
+
+君がどのような『適性』を得たのかを……。
+> CONTEXT: Map278/events/26/pages/1/46/Dialogue
+> CONTEXT: Map278/events/26/pages/2/167/Dialogue
+> CONTEXT: Map278/events/26/pages/3/170/Dialogue
+> CONTEXT: Map278/events/26/pages/4/69/Dialogue
+> CONTEXT: Map007/events/26/pages/1/46/Dialogue
+> CONTEXT: Map007/events/26/pages/2/167/Dialogue
+> CONTEXT: Map007/events/26/pages/3/170/Dialogue
+> CONTEXT: Map007/events/26/pages/4/69/Dialogue
+............ Shall I show you? \\N[1] .
+What kind of "ability" you got.......#MTLed
+> END STRING
+
+> BEGIN STRING
+ﾜｳｯ……
+> CONTEXT: Map278/events/26/pages/2/19/Dialogue
+> CONTEXT: Map278/events/26/pages/3/19/Dialogue
+> CONTEXT: Map007/events/26/pages/2/19/Dialogue
+> CONTEXT: Map007/events/26/pages/3/19/Dialogue
+Wow ...#MTLed
+> END STRING
+
+> BEGIN STRING
+……………
+
+まだ、生き残りがいたのか。
+> CONTEXT: Map278/events/26/pages/2/21/Dialogue
+> CONTEXT: Map278/events/26/pages/3/21/Dialogue
+> CONTEXT: Map007/events/26/pages/2/21/Dialogue
+> CONTEXT: Map007/events/26/pages/3/21/Dialogue
+...
+One of them survived?#Aesthetic
+> END STRING
+
+> BEGIN STRING
+バーゲストは、その場で寝転がり
+
+後ろ足の片方を、必死にばたつかせている………。
+> CONTEXT: Map278/events/26/pages/2/31/Dialogue
+> CONTEXT: Map278/events/26/pages/3/31/Dialogue
+> CONTEXT: Map007/events/26/pages/2/31/Dialogue
+> CONTEXT: Map007/events/26/pages/3/31/Dialogue
+Barghest lies down on the spot. 
+She's desperately flapping one of her hind legs about.#Aesthetic
+> END STRING
+
+> BEGIN STRING
+その足には……
+> CONTEXT: Map278/events/26/pages/2/35/Dialogue
+> CONTEXT: Map278/events/26/pages/3/35/Dialogue
+> CONTEXT: Map007/events/26/pages/2/35/Dialogue
+> CONTEXT: Map007/events/26/pages/3/35/Dialogue
+That foot...#Aesthetic
+> END STRING
+
+> BEGIN STRING
+なんだよ………
+
+その汚ならしい包帯は………
+> CONTEXT: Map278/events/26/pages/2/38/Dialogue
+> CONTEXT: Map278/events/26/pages/3/38/Dialogue
+> CONTEXT: Map007/events/26/pages/2/38/Dialogue
+> CONTEXT: Map007/events/26/pages/3/38/Dialogue
+What is it.... 
+That dirty bandage is....#Aesthetic
+> END STRING
+
+> BEGIN STRING
+……………ああ、そうか。
+
+思い出したぞ。
+> CONTEXT: Map278/events/26/pages/2/44/Dialogue
+> CONTEXT: Map278/events/26/pages/3/44/Dialogue
+> CONTEXT: Map007/events/26/pages/2/44/Dialogue
+> CONTEXT: Map007/events/26/pages/3/44/Dialogue
+...Aaah, that's right. 
+I remember now.#Aesthetic
+> END STRING
+
+> BEGIN STRING
+つまりお前は、僕を襲う気はないんだな…？
+> CONTEXT: Map278/events/26/pages/2/49/Dialogue
+> CONTEXT: Map278/events/26/pages/3/49/Dialogue
+> CONTEXT: Map007/events/26/pages/2/49/Dialogue
+> CONTEXT: Map007/events/26/pages/3/49/Dialogue
+In other words, you have no intention of attacking me?#Aesthetic
+> END STRING
+
+> BEGIN STRING
+……………おいで、バーゲスト。
+> CONTEXT: Map278/events/26/pages/2/55/Dialogue
+> CONTEXT: Map278/events/26/pages/3/55/Dialogue
+> CONTEXT: Map007/events/26/pages/2/55/Dialogue
+> CONTEXT: Map007/events/26/pages/3/55/Dialogue
+...Come here Barghest.#Aesthetic
+> END STRING
+
+> BEGIN STRING
+ワン！！！
+> CONTEXT: Map278/events/26/pages/2/57/Dialogue
+> CONTEXT: Map278/events/26/pages/3/57/Dialogue
+> CONTEXT: Map007/events/26/pages/2/57/Dialogue
+> CONTEXT: Map007/events/26/pages/3/57/Dialogue
+Wan!!!#Aesthetic
+> END STRING
+
+> BEGIN STRING
+おすわり
+> CONTEXT: Map278/events/26/pages/2/77/Dialogue
+> CONTEXT: Map278/events/26/pages/3/77/Dialogue
+> CONTEXT: Map007/events/26/pages/2/77/Dialogue
+> CONTEXT: Map007/events/26/pages/3/77/Dialogue
+Sit#MTLed
+> END STRING
+
+> BEGIN STRING
+お前たちは何人殺したんだ…？
+
+罪もない人間を、本能のまま、何人…！！
+> CONTEXT: Map278/events/26/pages/2/84/Dialogue
+> CONTEXT: Map278/events/26/pages/3/84/Dialogue
+> CONTEXT: Map007/events/26/pages/2/84/Dialogue
+> CONTEXT: Map007/events/26/pages/3/84/Dialogue
+How many people have you killed? 
+How many innocent people have you instinctively killed!!#Aesthetic
+> END STRING
+
+> BEGIN STRING
+俺はだまされないぞ。
+
+貴様らみたいなヤツは、人間の敵だ。
+> CONTEXT: Map278/events/26/pages/2/88/Dialogue
+> CONTEXT: Map278/events/26/pages/3/88/Dialogue
+> CONTEXT: Map007/events/26/pages/2/88/Dialogue
+> CONTEXT: Map007/events/26/pages/3/88/Dialogue
+I will not be fooled. 
+You are the enemy of humanity.#Aesthetic
+> END STRING
+
+> BEGIN STRING
+…………どうした？\\N[1]。
+> CONTEXT: Map278/events/26/pages/2/101/Dialogue
+> CONTEXT: Map278/events/26/pages/3/101/Dialogue
+> CONTEXT: Map278/events/26/pages/4/4/Dialogue
+> CONTEXT: Map007/events/26/pages/2/101/Dialogue
+> CONTEXT: Map007/events/26/pages/3/101/Dialogue
+> CONTEXT: Map007/events/26/pages/4/4/Dialogue
+......What's wrong?\\N[1]。#Aesthetic
+> END STRING
+
+> BEGIN STRING
+…………いや、何でもない。
+
+気のせいだったみたいだ。
+> CONTEXT: Map278/events/26/pages/2/103/Dialogue
+> CONTEXT: Map278/events/26/pages/3/103/Dialogue
+> CONTEXT: Map278/events/26/pages/4/6/Dialogue
+> CONTEXT: Map007/events/26/pages/2/103/Dialogue
+> CONTEXT: Map007/events/26/pages/3/103/Dialogue
+> CONTEXT: Map007/events/26/pages/4/6/Dialogue
+No, Nothing. 
+I've changed my mind is all.#Aesthetic
+> END STRING
+
+> BEGIN STRING
+…………あれ？
+> CONTEXT: Map278/events/37/pages/1/13/Dialogue
+> CONTEXT: Map007/events/37/pages/1/12/Dialogue
+…………that?#MTLed
+> END STRING
+
+> BEGIN STRING
+ワンッ！！
+> CONTEXT: Map278/events/37/pages/1/20/Dialogue
+> CONTEXT: Map007/events/37/pages/1/19/Dialogue
+Wan!!#Aesthetic
+> END STRING
+
+> BEGIN STRING
+おい……
+
+あいつの足…見てみろ。
+> CONTEXT: Map278/events/37/pages/1/70/Dialogue
+> CONTEXT: Map007/events/37/pages/1/69/Dialogue
+Hey... 
+That foot...Look at it...#Aesthetic
+> END STRING
+
+> BEGIN STRING
+あはは……
+
+どうやら、助けてもらっちゃったみたいだね…
+> CONTEXT: Map278/events/37/pages/1/94/Dialogue
+> CONTEXT: Map007/events/37/pages/1/93/Dialogue
+Ahaha... 
+Apparently, she's helped you...#Aesthetic
+> END STRING
+
+> BEGIN STRING
+まったく…自分が大変だって言うときに……
+
+まぁ、お前らしいよ。
+> CONTEXT: Map278/events/37/pages/1/98/Dialogue
+> CONTEXT: Map007/events/37/pages/1/97/Dialogue
+Come on... 
+Here I am sweating buckets because of this trouble...
+Well, I guess I shouldn't expect any different
+when it comes to you...#Aesthetic
+> END STRING
+
+> BEGIN STRING
+とにかく、これで先へ進めるようになったな。
+
+このまま居住区へ向かうぞ
+> CONTEXT: Map278/events/37/pages/1/102/Dialogue
+> CONTEXT: Map007/events/37/pages/1/101/Dialogue
+Anyways, you should now be able to proceed.
+Proceed to the residential area like this.#Aesthetic
+> END STRING

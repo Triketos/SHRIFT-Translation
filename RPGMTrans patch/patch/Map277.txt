@@ -1,0 +1,21 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+\\N[1]…………
+
+次は…………間違えないでネ。
+> CONTEXT: Map277/events/1/pages/0/25/Dialogue
+\\N[1] ............ Next ... ... ... do not
+make a mistake.#MTLed
+> END STRING
+
+> BEGIN STRING
+"ed/f"
+> CONTEXT: Map277/events/1/pages/0/33/InlineScript/2:10
+"ed/f"#NoTL
+> END STRING
+
+> BEGIN STRING
+"【＃７　染まれなかった者】"
+> CONTEXT: Map277/events/1/pages/0/135/InlineScript/2:1
+"【# 7 Who did not get dyed】"#MTLed
+> END STRING

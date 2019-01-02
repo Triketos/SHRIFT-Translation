@@ -1,0 +1,601 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+"Chapter3-1　『抱擁』　プレイ中"
+> CONTEXT: Map101/events/8/pages/0/11/InlineScript/2:1
+> CONTEXT: Map096/events/10/pages/0/15/InlineScript/2:1
+"Chapter3-1　『hug』 starts"#MTLed
+> END STRING
+
+> BEGIN STRING
+……………待ってくれ。やはりおかしい。
+> CONTEXT: Map101/events/9/pages/0/0/Dialogue
+> CONTEXT: Map101/events/10/pages/0/0/Dialogue
+> CONTEXT: Map101/events/11/pages/0/0/Dialogue
+> CONTEXT: Map101/events/12/pages/0/0/Dialogue
+> CONTEXT: Map101/events/13/pages/0/0/Dialogue
+……………Wait please. It is still funny.#MTLed
+> END STRING
+
+> BEGIN STRING
+俺が来たときは、こんな木々は存在しなかった。
+
+せいぜい、腰程度の高さの草花しかなかったはずだ…
+> CONTEXT: Map101/events/9/pages/0/2/Dialogue
+> CONTEXT: Map101/events/10/pages/0/2/Dialogue
+> CONTEXT: Map101/events/11/pages/0/2/Dialogue
+> CONTEXT: Map101/events/12/pages/0/2/Dialogue
+> CONTEXT: Map101/events/13/pages/0/2/Dialogue
+When I came, these trees did not exist.
+At most, there should have been only a flower of
+height around the waist ...#MTLed
+> END STRING
+
+> BEGIN STRING
+……やっぱり？
+
+ 僕も、公園の裏手にしては鬱蒼としてるなって思った…
+> CONTEXT: Map101/events/9/pages/0/6/Dialogue
+> CONTEXT: Map101/events/10/pages/0/6/Dialogue
+> CONTEXT: Map101/events/11/pages/0/6/Dialogue
+> CONTEXT: Map101/events/12/pages/0/6/Dialogue
+> CONTEXT: Map101/events/13/pages/0/6/Dialogue
+After all? I also thought that it would be
+dangerous for the back of the park ...#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[1]、慎重に草木に顔を近付けてみてくれ。
+
+モニター越しにスキャンしてみる。
+> CONTEXT: Map101/events/9/pages/0/10/Dialogue
+> CONTEXT: Map101/events/10/pages/0/10/Dialogue
+> CONTEXT: Map101/events/11/pages/0/10/Dialogue
+> CONTEXT: Map101/events/12/pages/0/10/Dialogue
+> CONTEXT: Map101/events/13/pages/0/10/Dialogue
+\\N[1] Carefully approach your face to the
+plants. I try swoofing through the monitor.#MTLed
+> END STRING
+
+> BEGIN STRING
+ふむ………
+
+草木に、わずかながらの魔力の痕跡があるが……
+変異などの兆候は見られない。
+> CONTEXT: Map101/events/9/pages/0/23/Dialogue
+> CONTEXT: Map101/events/10/pages/0/23/Dialogue
+> CONTEXT: Map101/events/11/pages/0/23/Dialogue
+> CONTEXT: Map101/events/12/pages/0/23/Dialogue
+> CONTEXT: Map101/events/13/pages/0/23/Dialogue
+HM………. There are traces of magical power of a few
+while in the vegetation......
+There are no signs of mutation etc.#MTLed
+> END STRING
+
+> BEGIN STRING
+活動状態も正常値……
+
+異常な成長は、確かに何かしらの魔力のせいだが
+今は何の変哲もない植物のようだな。
+> CONTEXT: Map101/events/9/pages/0/28/Dialogue
+> CONTEXT: Map101/events/10/pages/0/28/Dialogue
+> CONTEXT: Map101/events/11/pages/0/28/Dialogue
+> CONTEXT: Map101/events/12/pages/0/28/Dialogue
+> CONTEXT: Map101/events/13/pages/0/28/Dialogue
+Activity state is also normal value ...
+Abnormal growth is certainly due to some magical
+power. It seems to be a plant that is nothing to
+be changed now.#MTLed
+> END STRING
+
+> BEGIN STRING
+それって、今は何の害もないってこと？
+
+でも、どうして……
+> CONTEXT: Map101/events/9/pages/0/33/Dialogue
+> CONTEXT: Map101/events/10/pages/0/33/Dialogue
+> CONTEXT: Map101/events/11/pages/0/33/Dialogue
+> CONTEXT: Map101/events/12/pages/0/33/Dialogue
+> CONTEXT: Map101/events/13/pages/0/33/Dialogue
+Is that no harm now? But why……#MTLed
+> END STRING
+
+> BEGIN STRING
+可能性があるとすれば……単純にお前の進行妨害のため。
+
+もしくは、密林での戦いが得意な悪魔の仕業か……
+> CONTEXT: Map101/events/9/pages/0/37/Dialogue
+> CONTEXT: Map101/events/10/pages/0/37/Dialogue
+> CONTEXT: Map101/events/11/pages/0/37/Dialogue
+> CONTEXT: Map101/events/12/pages/0/37/Dialogue
+> CONTEXT: Map101/events/13/pages/0/37/Dialogue
+If there is a possibility...... simply because
+of your interference with progress.
+Or is it demon's work that is good at fighting in
+jungle ...?#MTLed
+> END STRING
+
+> BEGIN STRING
+あるいは………
+> CONTEXT: Map101/events/9/pages/0/41/Dialogue
+> CONTEXT: Map101/events/10/pages/0/41/Dialogue
+> CONTEXT: Map101/events/11/pages/0/41/Dialogue
+> CONTEXT: Map101/events/12/pages/0/41/Dialogue
+> CONTEXT: Map101/events/13/pages/0/41/Dialogue
+Or......#MTLed
+> END STRING
+
+> BEGIN STRING
+………あるいは？
+> CONTEXT: Map101/events/9/pages/0/43/Dialogue
+> CONTEXT: Map101/events/10/pages/0/43/Dialogue
+> CONTEXT: Map101/events/11/pages/0/43/Dialogue
+> CONTEXT: Map101/events/12/pages/0/43/Dialogue
+> CONTEXT: Map101/events/13/pages/0/43/Dialogue
+Or ...?#MTLed
+> END STRING
+
+> BEGIN STRING
+…………結界も張らずに、魔力を広範囲に放出する
+
+考えなしの『バカ』か………
+> CONTEXT: Map101/events/9/pages/0/45/Dialogue
+> CONTEXT: Map101/events/10/pages/0/45/Dialogue
+> CONTEXT: Map101/events/11/pages/0/45/Dialogue
+> CONTEXT: Map101/events/12/pages/0/45/Dialogue
+> CONTEXT: Map101/events/13/pages/0/45/Dialogue
+............ Discharge a wide range of magical
+powers without creating a barrier
+"Stupid" without idea .........#MTLed
+> END STRING
+
+> BEGIN STRING
+ははは………
+
+さすがにそれはないでしょ……
+> CONTEXT: Map101/events/9/pages/0/50/Dialogue
+> CONTEXT: Map101/events/10/pages/0/50/Dialogue
+> CONTEXT: Map101/events/11/pages/0/50/Dialogue
+> CONTEXT: Map101/events/12/pages/0/50/Dialogue
+> CONTEXT: Map101/events/13/pages/0/50/Dialogue
+Hahaha......... As expected it is not it ...#MTLed
+> END STRING
+
+> BEGIN STRING
+とにかく、この草木が何者かの仕業であることは確かだ。
+
+ 市街地同様、警戒して進んでくれ。
+> CONTEXT: Map101/events/9/pages/0/54/Dialogue
+> CONTEXT: Map101/events/10/pages/0/54/Dialogue
+> CONTEXT: Map101/events/11/pages/0/54/Dialogue
+> CONTEXT: Map101/events/12/pages/0/54/Dialogue
+> CONTEXT: Map101/events/13/pages/0/54/Dialogue
+Anyway, it is certain that this plants are
+someone's work. Just like cities, proceed with
+caution.#MTLed
+> END STRING
+
+> BEGIN STRING
+あと、数は少ないだろうが
+\\C[2]軍が設置したテントに、セーフルームと同じ設備がある。
+
+ 有効に活用してくれ。
+> CONTEXT: Map101/events/9/pages/0/60/Dialogue
+> CONTEXT: Map101/events/10/pages/0/60/Dialogue
+> CONTEXT: Map101/events/11/pages/0/60/Dialogue
+> CONTEXT: Map101/events/12/pages/0/60/Dialogue
+> CONTEXT: Map101/events/13/pages/0/60/Dialogue
+Also, although the number is small
+\\C[2]In the tent set by the military, there is the
+same facilities as the safe room.
+Please use it effectively.#MTLed
+> END STRING
+
+> BEGIN STRING
+＊「やぁ」
+> CONTEXT: Map101/events/15/pages/0/1/Dialogue
+> CONTEXT: Map101/events/16/pages/0/1/Dialogue
+> CONTEXT: Map101/events/17/pages/0/1/Dialogue
+*「Hey」#MTLed
+> END STRING
+
+> BEGIN STRING
+＊「僕だよ。
+
+　 冥府の間にいた、クマのぬいぐるみさ。」
+> CONTEXT: Map101/events/15/pages/0/6/Dialogue
+> CONTEXT: Map101/events/16/pages/0/6/Dialogue
+> CONTEXT: Map101/events/17/pages/0/6/Dialogue
+*「It's me. A stuffed bear stuck in Hell's Gate.」#MTLed
+> END STRING
+
+> BEGIN STRING
+＊「実はね…
+
+　　君にちょっとした『新たな機能』を説明しにきたんだ。」
+> CONTEXT: Map101/events/15/pages/0/10/Dialogue
+> CONTEXT: Map101/events/16/pages/0/10/Dialogue
+> CONTEXT: Map101/events/17/pages/0/10/Dialogue
+*「Actually...I came to explain a little "new function"
+to you.」#MTLed
+> END STRING
+
+> BEGIN STRING
+＊「この先、かなり狂暴な悪魔が待ち構えてる。
+
+　　今までみたいな『搾精』以外で堕とす悪魔もいるんだ。」
+> CONTEXT: Map101/events/15/pages/0/15/Dialogue
+> CONTEXT: Map101/events/16/pages/0/15/Dialogue
+> CONTEXT: Map101/events/17/pages/0/15/Dialogue
+*「Ahead of time, a pretty rough demon is waiting.
+There are also demons that degenerate besides the "milking"
+you've ever seen.」#MTLed
+> END STRING
+
+> BEGIN STRING
+＊「\\C[2]中には君を物理的に丸呑みする悪魔も現れるだろう。
+
+　　\\C[0]でも、そういうのはあまり見たくない人もいるはずだ。
+　　たとえ悪魔に犯されるのが好きな人でもね。」
+> CONTEXT: Map101/events/15/pages/0/19/Dialogue
+> CONTEXT: Map101/events/16/pages/0/19/Dialogue
+> CONTEXT: Map101/events/17/pages/0/19/Dialogue
+*「\\C[2]Some demon will also show up to physically swallow you.
+In case\\C[0] But, there are some people who do not want to see
+it much. Even those who like to be fucked by demon.」#MTLed
+> END STRING
+
+> BEGIN STRING
+＊「だから、\\C[2]そういう場面が苦手な人のために
+
+　　『丸呑みフィルター機能』っていうのを用意したんだ。」
+> CONTEXT: Map101/events/15/pages/0/24/Dialogue
+> CONTEXT: Map101/events/16/pages/0/24/Dialogue
+> CONTEXT: Map101/events/17/pages/0/24/Dialogue
+*「Therefore,\\C[2] For those who do not like those scenes
+I prepared a "swallowing filter function".」#MTLed
+> END STRING
+
+> BEGIN STRING
+＊「これは、そういう場面に遭遇したときに
+
+　　\\C[2]別の絵を表示して、表現を緩和する機能さ。」
+> CONTEXT: Map101/events/15/pages/0/28/Dialogue
+> CONTEXT: Map101/events/16/pages/0/28/Dialogue
+> CONTEXT: Map101/events/17/pages/0/28/Dialogue
+*「This is when you encounter such a scene
+In case\\C[2] Function to show expression of another picture and
+relax expression.」#MTLed
+> END STRING
+
+> BEGIN STRING
+＊「どうする？
+
+　　ちょっといじっていくかい？」
+> CONTEXT: Map101/events/15/pages/0/34/Dialogue
+> CONTEXT: Map101/events/16/pages/0/34/Dialogue
+> CONTEXT: Map101/events/17/pages/0/34/Dialogue
+*「what will you do? Would you like to be a bit familiar?」#MTLed
+> END STRING
+
+> BEGIN STRING
+＊「今後、冥府の間の僕に話しかければ、いつでも切り替えができる。
+
+　　ダメそうだったら設定したり、大丈夫かもと思ったら
+　　フィルターをオフにしてしまっても構わないよ。」
+> CONTEXT: Map101/events/15/pages/0/72/Dialogue
+> CONTEXT: Map101/events/16/pages/0/72/Dialogue
+> CONTEXT: Map101/events/17/pages/0/72/Dialogue
+*「From now on, if you talk to Hell's Gate's servant, you
+can switch at any time. If you do not want it, set it up,
+or if you think it's okay. You do not mind turning off the
+filter.」#MTLed
+> END STRING
+
+> BEGIN STRING
+＊「あと、\\C[2]僕の仲間もちらほら見かけるようになるだろうから
+
+　　同じように話しかければ、設定を変えられるよ。」
+> CONTEXT: Map101/events/15/pages/0/77/Dialogue
+> CONTEXT: Map101/events/16/pages/0/77/Dialogue
+> CONTEXT: Map101/events/17/pages/0/77/Dialogue
+*「after,\\C[2] Because my colleagues will be able to see it
+You can change the setting if you speak in the same way.」#MTLed
+> END STRING
+
+> BEGIN STRING
+＊「僕の用件は、これだけ。
+
+　　それじゃあ、気をつけて進んでね。」
+> CONTEXT: Map101/events/15/pages/0/81/Dialogue
+> CONTEXT: Map101/events/16/pages/0/81/Dialogue
+> CONTEXT: Map101/events/17/pages/0/81/Dialogue
+*「This is my only affair. Well then, keep on with care.」#MTLed
+> END STRING
+
+> BEGIN STRING
+くっ……くるなぁ……！！
+
+バケモノめぇ……！！
+> CONTEXT: Map101/events/19/pages/0/17/Dialogue
+> CONTEXT: Map101/events/19/pages/1/17/Dialogue
+> CONTEXT: Map101/events/22/pages/0/18/Dialogue
+> CONTEXT: Map101/events/22/pages/1/18/Dialogue
+> CONTEXT: Map101/events/23/pages/0/19/Dialogue
+> CONTEXT: Map101/events/23/pages/1/19/Dialogue
+Cut...... Kuranaa ...!!monster me ...! !#MTLed
+> END STRING
+
+> BEGIN STRING
+あれは……
+
+さっき墜落したヘリのパイロットか…！
+> CONTEXT: Map101/events/19/pages/0/21/Dialogue
+> CONTEXT: Map101/events/19/pages/1/21/Dialogue
+> CONTEXT: Map101/events/22/pages/0/22/Dialogue
+> CONTEXT: Map101/events/22/pages/1/22/Dialogue
+> CONTEXT: Map101/events/23/pages/0/23/Dialogue
+> CONTEXT: Map101/events/23/pages/1/23/Dialogue
+That is……. A helicopter pilot that crashed
+earlier ...!#MTLed
+> END STRING
+
+> BEGIN STRING
+おい！！銃を下ろしてくれ！！
+
+ 僕はそっちに危害をに加えるつもりはない！！
+> CONTEXT: Map101/events/19/pages/0/25/Dialogue
+> CONTEXT: Map101/events/22/pages/0/26/Dialogue
+> CONTEXT: Map101/events/23/pages/0/27/Dialogue
+Hey!!Take down the gun!!I do not mean to add
+harm you there! !#MTLed
+> END STRING
+
+> BEGIN STRING
+ちくしょう……ちくしょう……………！
+
+ 何でこんな事に………何でこんな目に………
+なんであいつが…………
+> CONTEXT: Map101/events/19/pages/0/29/Dialogue
+> CONTEXT: Map101/events/19/pages/1/27/Dialogue
+> CONTEXT: Map101/events/22/pages/0/30/Dialogue
+> CONTEXT: Map101/events/22/pages/1/28/Dialogue
+> CONTEXT: Map101/events/23/pages/0/31/Dialogue
+> CONTEXT: Map101/events/23/pages/1/29/Dialogue
+Damn it...Damn it ...............!
+Why is this ......... Why is it such a thing
+......... Why is that ............#MTLed
+> END STRING
+
+> BEGIN STRING
+ぜんぶあいつのせいだ………！
+ 『なりそこない』め………！
+
+クソッ！クソッ！クソッ…！
+> CONTEXT: Map101/events/19/pages/0/34/Dialogue
+> CONTEXT: Map101/events/19/pages/1/32/Dialogue
+> CONTEXT: Map101/events/22/pages/0/35/Dialogue
+> CONTEXT: Map101/events/22/pages/1/33/Dialogue
+> CONTEXT: Map101/events/23/pages/0/36/Dialogue
+> CONTEXT: Map101/events/23/pages/1/34/Dialogue
+It's all because of him .........!
+"There is nothing"...... ...!
+Damn it! Damn it! Damn it ...!#MTLed
+> END STRING
+
+> BEGIN STRING
+ダメだな……
+
+気が動転していて、こっちが分からないらしい……
+> CONTEXT: Map101/events/19/pages/0/43/Dialogue
+> CONTEXT: Map101/events/19/pages/1/41/Dialogue
+> CONTEXT: Map101/events/22/pages/0/44/Dialogue
+> CONTEXT: Map101/events/22/pages/1/42/Dialogue
+> CONTEXT: Map101/events/23/pages/0/45/Dialogue
+> CONTEXT: Map101/events/23/pages/1/43/Dialogue
+It is useless...My mind is upset, it seems I do
+not know this......#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[1]、銃を一発、あいつに当てろ。
+
+ 人間に対しての悪魔弾は、スタン効果を発揮する。
+ 気絶している間に、ひとまずテントに運ぶんだ。
+> CONTEXT: Map101/events/19/pages/0/47/Dialogue
+> CONTEXT: Map101/events/19/pages/1/45/Dialogue
+> CONTEXT: Map101/events/22/pages/0/48/Dialogue
+> CONTEXT: Map101/events/22/pages/1/46/Dialogue
+> CONTEXT: Map101/events/23/pages/0/49/Dialogue
+> CONTEXT: Map101/events/23/pages/1/47/Dialogue
+\\N[1] Take a gun, hit him. Demon rounds for
+humans exert stun effect. While you are fainting,
+carry it to the tent for the moment.#MTLed
+> END STRING
+
+> BEGIN STRING
+飛び出すときは慎重に行けよ…
+
+向こうは実弾………
+『旧世代』の銃弾だ。当たったら無事では済まないぞ…
+> CONTEXT: Map101/events/19/pages/0/54/Dialogue
+> CONTEXT: Map101/events/19/pages/1/52/Dialogue
+> CONTEXT: Map101/events/22/pages/0/55/Dialogue
+> CONTEXT: Map101/events/22/pages/1/53/Dialogue
+> CONTEXT: Map101/events/23/pages/0/56/Dialogue
+> CONTEXT: Map101/events/23/pages/1/54/Dialogue
+Be careful when you jump out ...
+The other side is a live bullet .........
+It is a bullet of "outdated". If it hit, it will
+not be fine without ...#MTLed
+> END STRING
+
+> BEGIN STRING
+………………………………………………
+> CONTEXT: Map101/events/19/pages/0/61/Dialogue
+> CONTEXT: Map101/events/19/pages/1/59/Dialogue
+> CONTEXT: Map101/events/22/pages/0/62/Dialogue
+> CONTEXT: Map101/events/22/pages/1/60/Dialogue
+> CONTEXT: Map101/events/23/pages/0/63/Dialogue
+> CONTEXT: Map101/events/23/pages/1/61/Dialogue
+...................................#MTLed
+> END STRING
+
+> BEGIN STRING
+…………………………………………
+> CONTEXT: Map101/events/19/pages/0/63/Dialogue
+> CONTEXT: Map101/events/19/pages/1/61/Dialogue
+> CONTEXT: Map101/events/22/pages/0/64/Dialogue
+> CONTEXT: Map101/events/22/pages/1/62/Dialogue
+> CONTEXT: Map101/events/23/pages/0/65/Dialogue
+> CONTEXT: Map101/events/23/pages/1/63/Dialogue
+.....................................................#MTLed
+> END STRING
+
+> BEGIN STRING
+おかしい………
+
+急に静かになった………？
+> CONTEXT: Map101/events/19/pages/0/66/Dialogue
+> CONTEXT: Map101/events/19/pages/1/64/Dialogue
+> CONTEXT: Map101/events/22/pages/0/67/Dialogue
+> CONTEXT: Map101/events/22/pages/1/65/Dialogue
+> CONTEXT: Map101/events/23/pages/0/68/Dialogue
+> CONTEXT: Map101/events/23/pages/1/66/Dialogue
+Funny………. Suddenly it became quiet .........?#MTLed
+> END STRING
+
+> BEGIN STRING
+パイロットの声「ぁ…………が………………っ………
+
+　　　　　　　　す………………ぇ……………でっ…………」
+> CONTEXT: Map101/events/19/pages/0/87/Dialogue
+> CONTEXT: Map101/events/19/pages/1/85/Dialogue
+> CONTEXT: Map101/events/22/pages/0/88/Dialogue
+> CONTEXT: Map101/events/22/pages/1/86/Dialogue
+> CONTEXT: Map101/events/23/pages/0/89/Dialogue
+> CONTEXT: Map101/events/23/pages/1/87/Dialogue
+Voice of pilot「Ah
+...........................................
+It is
+...............................................................
+...............................................................#MTLed
+> END STRING
+
+> BEGIN STRING
+蛇の身体のような物体は
+
+そのまま木々の奥へと引き込まれていった……
+> CONTEXT: Map101/events/19/pages/0/96/Dialogue
+> CONTEXT: Map101/events/19/pages/1/94/Dialogue
+> CONTEXT: Map101/events/22/pages/0/97/Dialogue
+> CONTEXT: Map101/events/22/pages/1/95/Dialogue
+> CONTEXT: Map101/events/23/pages/0/98/Dialogue
+> CONTEXT: Map101/events/23/pages/1/96/Dialogue
+An object like a serpent's body. It was drawn into the
+trees as it was......#MTLed
+> END STRING
+
+> BEGIN STRING
+な、なんだアレ………！！！
+
+ユウマ！！？
+> CONTEXT: Map101/events/19/pages/0/100/Dialogue
+> CONTEXT: Map101/events/19/pages/1/98/Dialogue
+> CONTEXT: Map101/events/22/pages/0/101/Dialogue
+> CONTEXT: Map101/events/22/pages/1/99/Dialogue
+> CONTEXT: Map101/events/23/pages/0/102/Dialogue
+> CONTEXT: Map101/events/23/pages/1/100/Dialogue
+What is it............!!! 
+Yuuma! !?#MTLed
+> END STRING
+
+> BEGIN STRING
+……通信が切れてるな。
+
+たぶん、あれはヘリが積んでた『生物兵器』だ…
+> CONTEXT: Map101/events/19/pages/0/106/Dialogue
+> CONTEXT: Map101/events/22/pages/0/107/Dialogue
+> CONTEXT: Map101/events/23/pages/0/108/Dialogue
+...... Communication is running out.
+Maybe that is "biological weapon" that the
+helicopter has loaded ...#MTLed
+> END STRING
+
+> BEGIN STRING
+墜落した拍子に、黒棺が壊れちまったんだな……
+
+自分が運んできたものに殺されるなんて、世話無いぜ…
+> CONTEXT: Map101/events/19/pages/0/110/Dialogue
+> CONTEXT: Map101/events/22/pages/0/111/Dialogue
+> CONTEXT: Map101/events/23/pages/0/112/Dialogue
+Black coffin broke down on the crashing beat
+...... I will not take care of being killed by
+what I've brought ...#MTLed
+> END STRING
+
+> BEGIN STRING
+お、おい……
+
+まさか、助けにいこうなんて思ってないよな…？
+> CONTEXT: Map101/events/19/pages/0/122/Dialogue
+> CONTEXT: Map101/events/22/pages/0/123/Dialogue
+> CONTEXT: Map101/events/23/pages/0/124/Dialogue
+Hey...... No way, I do not think to go for help
+...?#MTLed
+> END STRING
+
+> BEGIN STRING
+だって……放ってはおけないだろう…！？
+
+まだ生きてるし…
+もしかしたら何か情報が得られるかも知れない！
+> CONTEXT: Map101/events/19/pages/0/126/Dialogue
+> CONTEXT: Map101/events/22/pages/0/127/Dialogue
+> CONTEXT: Map101/events/23/pages/0/128/Dialogue
+Because...... you can not leave it ...!?
+I am still alive...Maybe something information
+could be obtained!#MTLed
+> END STRING
+
+> BEGIN STRING
+行くなら気をつけろよ………こっからでもピリピリ伝わる…
+
+今までで感じたことのない、ヤバイ魔力だ…
+> CONTEXT: Map101/events/19/pages/0/133/Dialogue
+> CONTEXT: Map101/events/22/pages/0/134/Dialogue
+> CONTEXT: Map101/events/23/pages/0/135/Dialogue
+Take care if you go ......... Throbbing pain ...
+I have never felt it before, it's a magical power
+...#MTLed
+> END STRING
+
+> BEGIN STRING
+……………
+
+通信が切れた……か…
+> CONTEXT: Map101/events/19/pages/1/102/Dialogue
+> CONTEXT: Map101/events/22/pages/1/103/Dialogue
+> CONTEXT: Map101/events/23/pages/1/104/Dialogue
+............. The communication has expired ...
+or ...#MTLed
+> END STRING
+
+> BEGIN STRING
+見捨てるわけにはいかない……
+
+彼を助けなければ……
+> CONTEXT: Map101/events/24/pages/0/0/Dialogue
+> CONTEXT: Map101/events/25/pages/0/0/Dialogue
+> CONTEXT: Map101/events/26/pages/0/0/Dialogue
+It can not be abandoned...... I have to save him.......#MTLed
+> END STRING
+
+> BEGIN STRING
+面白そうだ
+
+見に行こう
+> CONTEXT: Map101/events/24/pages/1/0/Dialogue
+> CONTEXT: Map101/events/25/pages/1/0/Dialogue
+> CONTEXT: Map101/events/26/pages/1/0/Dialogue
+That sounds interesting. Let's go see#MTLed
+> END STRING

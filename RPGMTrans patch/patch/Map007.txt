@@ -1,0 +1,62 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+この先が居住区エリアのはずだが……
+
+ロックがかかっているようだな……
+> CONTEXT: Map007/events/33/pages/1/3/Dialogue
+This door should lead to the residential area...
+It seems that it is locked...#Aesthetic
+> END STRING
+
+> BEGIN STRING
+おそらく、お前のような患者を守るために
+医療区を隔離するためだったんだろうが……。
+バーゲストが侵入してきている以上、
+解除しても問題ないだろう。
+> CONTEXT: Map007/events/33/pages/1/10/Dialogue
+It was probably locked to protect patients like you.
+They most likely wanted to isolate the medical ward... 
+Still, Barghest is invading so...
+It can't be too hard to get that door unlocked.#Aesthetic
+> END STRING
+
+> BEGIN STRING
+警備室に、確かセキュリティ関連の
+
+端末があったはずだ、探してみてくれ。
+> CONTEXT: Map007/events/33/pages/1/15/Dialogue
+There should be a terminal in the security room.
+You should try it and see what happens.#Aesthetic
+> END STRING
+
+> BEGIN STRING
+そっちの操作で、ロックは解除できないのか？
+> CONTEXT: Map007/events/33/pages/1/19/Dialogue
+You can't unlock this door from there?#Aesthetic
+> END STRING
+
+> BEGIN STRING
+さっきからやっているんだが………反応しないんだ。
+
+おそらくそっちの端末から、
+独自にセキュリティを更新したらしい。
+> CONTEXT: Map007/events/33/pages/1/21/Dialogue
+I've been trying since a while ago. It's not responding. 
+That device probably has a simple security system.#Aesthetic
+> END STRING
+
+> BEGIN STRING
+この独自のロックが解除されれば、
+
+あとはこちらでも操作できるんだがな…。
+> CONTEXT: Map007/events/33/pages/1/26/Dialogue
+If this unique lock is released,
+I can handle the rest from here.#Aesthetic
+> END STRING
+
+> BEGIN STRING
+一匹じゃないとは思ってたけど、あんなに数がいるのか……
+> CONTEXT: Map007/events/37/pages/1/5/Dialogue
+I thought that it was not a single one, but I
+wonder if there are so many ... ...#MTLed
+> END STRING

@@ -1,0 +1,666 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+地面に落ちた\\C[2]『裏路地のカギ』\\C[0]を拾った。
+> CONTEXT: Map054/events/1/pages/2/85/Dialogue
+I fell to the ground\\C[2] "Key of the back alley"\\C[0] I picked up.#MTLed
+> END STRING
+
+> BEGIN STRING
+リズ………？
+
+ねぇ、大丈夫……？
+> CONTEXT: Map054/events/1/pages/2/107/Dialogue
+Liz .........? Hey, okay.......?#MTLed
+> END STRING
+
+> BEGIN STRING
+まさか、問答無用とはね………
+
+さすがの私も、予想できなかったよ………
+> CONTEXT: Map054/events/1/pages/2/111/Dialogue
+No way, no question and answer .........
+As expected I could not predict .........#MTLed
+> END STRING
+
+> BEGIN STRING
+ごめんね、ハル……
+アンタとは、ここまでみたいだ……
+> CONTEXT: Map054/events/1/pages/2/115/Dialogue
+Sorry, Haru ...... I'd like to see you here ...#MTLed
+> END STRING
+
+> BEGIN STRING
+え……ウソ…？
+
+何言ってるの…リズ…
+> CONTEXT: Map054/events/1/pages/2/118/Dialogue
+Er...... lie ...? What are you saying...Liz
+...#MTLed
+> END STRING
+
+> BEGIN STRING
+…………大丈夫だよ…アンタなら……
+
+１人でも…
+> CONTEXT: Map054/events/1/pages/2/122/Dialogue
+............ I'm fine...if you are ......
+Even one person ...#MTLed
+> END STRING
+
+> BEGIN STRING
+私が教えたこと、ちゃんと守るんだよ……
+> CONTEXT: Map054/events/1/pages/2/126/Dialogue
+Keep protecting what I have taught......#MTLed
+> END STRING
+
+> BEGIN STRING
+やだ……やだやだやだ！！！リズ！！
+
+私を置いていかないで…リズ…！！
+> CONTEXT: Map054/events/1/pages/2/132/Dialogue
+No...no no no!!! Liz!!Do not leave me ...
+Liz ...! !#MTLed
+> END STRING
+
+> BEGIN STRING
+待ってよ………
+> CONTEXT: Map054/events/1/pages/2/148/Dialogue
+wait………#MTLed
+> END STRING
+
+> BEGIN STRING
+……………どけよ。
+
+お前も僕の邪魔をするのか？
+さっきの奴のようになりたいのか？
+> CONTEXT: Map054/events/1/pages/2/150/Dialogue
+............... Well done. Do you also disturb
+me? Do you want to be like the one just before?#MTLed
+> END STRING
+
+> BEGIN STRING
+リズが……リズが何したのよ……
+
+ちゃんと言えば、鍵は返してあげたのに……
+> CONTEXT: Map054/events/1/pages/2/155/Dialogue
+Liz...... what did Liz do ......
+Speaking properly, I gave you back the key ......#MTLed
+> END STRING
+
+> BEGIN STRING
+あなたには……罪悪感はないの……？
+
+ 悪魔を平気で手にかけて………
+> CONTEXT: Map054/events/1/pages/2/159/Dialogue
+You...... I do not feel guilty.......?
+Demon is easy to hand in hand .........#MTLed
+> END STRING
+
+> BEGIN STRING
+ハッ！
+
+ 悪魔に罪悪感を説かれるなんて、笑い話だな。
+> CONTEXT: Map054/events/1/pages/2/164/Dialogue
+Ha! It is a funny story to tell demon to be
+guilty of guilt.#MTLed
+> END STRING
+
+> BEGIN STRING
+貴様らはどうなんだ？
+
+ 罪もない人間に手をかけて、罪悪感はないのか？
+> CONTEXT: Map054/events/1/pages/2/168/Dialogue
+What about you? Do not you feel guilty, trying to
+deal with innocent people?#MTLed
+> END STRING
+
+> BEGIN STRING
+どうせさっきの方法で
+
+何人も人間を殺してきたんだろう？
+> CONTEXT: Map054/events/1/pages/2/172/Dialogue
+Anyway just the way ago. I wonder how many people
+have killed human beings?#MTLed
+> END STRING
+
+> BEGIN STRING
+感じるわけもないよな……
+
+貴様らは悪魔、僕は人間だ。
+ 住んでいる世界が、そもそも違う。
+> CONTEXT: Map054/events/1/pages/2/177/Dialogue
+There is no way I feel......
+You are demon, I am human. The world that lives
+in the first place is different.#MTLed
+> END STRING
+
+> BEGIN STRING
+大人しく僕に殺されて、魔界に帰れ！！
+
+ 化け物め……！！！
+> CONTEXT: Map054/events/1/pages/2/182/Dialogue
+I was killed by me quietly and return to Demon
+Realm!!A monster ...!!!#MTLed
+> END STRING
+
+> BEGIN STRING
+感じるよ…罪悪感ぐらい……
+
+リズはそんな私を気遣って、あんな事だって……
+> CONTEXT: Map054/events/1/pages/2/187/Dialogue
+I feel...About guilt ...... 
+Liz is concerned about me, such a thing ......#MTLed
+> END STRING
+
+> BEGIN STRING
+リズは、私がどんなヘマをしたって
+
+笑って許して……黙って気遣ってくれたんだ……
+> CONTEXT: Map054/events/1/pages/2/191/Dialogue
+Liz, what kind of hoax do I do
+Please laugh and forgive...... silent and
+caring......#MTLed
+> END STRING
+
+> BEGIN STRING
+\\{悪魔だからなに！？
+
+人間だから、なにが偉いっていうのよ！
+> CONTEXT: Map054/events/1/pages/2/199/Dialogue
+\\{Because demon So what!?
+Because it is a human, what is
+exquisite!#MTLed
+> END STRING
+
+> BEGIN STRING
+悪いやつだっていれば、良いやつだっている！！
+
+それは、アンタら人間だってそうじゃない！！
+> CONTEXT: Map054/events/1/pages/2/203/Dialogue
+If it's a bad guy, you have good guys! !
+It does not seem like you, you guys! !#MTLed
+> END STRING
+
+> BEGIN STRING
+リズは良いやつだった！！
+
+そんなリズをお前は……
+ワタシからリズを奪ったんだ！！
+> CONTEXT: Map054/events/1/pages/2/207/Dialogue
+Liz was a good guy!!You are such a Liz......
+I took Liz from 'I'! !#MTLed
+> END STRING
+
+> BEGIN STRING
+お前こそ……お前こそバケモノだ！！！
+
+悪いやつだ！！！！
+> CONTEXT: Map054/events/1/pages/2/212/Dialogue
+You are you...... You are a monster!!!
+It's a bad guy!!! !#MTLed
+> END STRING
+
+> BEGIN STRING
+なんだ………
+
+一丁前なのは、威勢だけか。
+> CONTEXT: Map054/events/1/pages/2/220/Dialogue
+what………. Is only one momentary alone?#MTLed
+> END STRING
+
+> BEGIN STRING
+リズ…………リズ………
+
+ごめんね………ワタシ……やっぱり最期まで……
+自分を抑えられなかったや………
+> CONTEXT: Map054/events/1/pages/2/226/Dialogue
+Liz ............ Liz .........
+Sorry ......... 'I'....... Until the end ......
+I could not suppress myself...... ...#MTLed
+> END STRING
+
+> BEGIN STRING
+すぐにそっちに……
+
+いくからね………
+> CONTEXT: Map054/events/1/pages/2/231/Dialogue
+Soon there ...... I will go there .........#MTLed
+> END STRING
+
+> BEGIN STRING
+………ハッ！！悪魔が友情ごっこかよ…
+
+くだらねぇな…
+> CONTEXT: Map054/events/1/pages/2/239/Dialogue
+......... Ha!!Whether demon is a friendship
+pretend play...You look silly ...#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]『\\I[240]裏路地のカギ』\\C[0]を使って扉を開けた。
+> CONTEXT: Map054/events/1/pages/5/1/Dialogue
+\\C[2]" \\I[240] The key of the back alley "\\C[0] I opened the door with.#MTLed
+> END STRING
+
+> BEGIN STRING
+どうやら無事に解決できたようだネ♪\\N[1]。
+> CONTEXT: Map054/events/1/pages/5/5/Dialogue
+Apparently it seemed to be able to solve it
+safely♪\\N[1] .#MTLed
+> END STRING
+
+> BEGIN STRING
+よっ！っと
+> CONTEXT: Map054/events/1/pages/5/11/Dialogue
+> CONTEXT: Map012/events/5/pages/0/22/Dialogue
+Good! Innovation#MTLed
+> END STRING
+
+> BEGIN STRING
+一部始終覗かせてもらってたけど
+
+いやー、災難だったネ、\\N[1]。
+> CONTEXT: Map054/events/1/pages/5/17/Dialogue
+I had you peek at the whole thing
+Well, it was a disaster, \\N[1] .#MTLed
+> END STRING
+
+> BEGIN STRING
+下級妖怪のものとはいえ、あのテの誘惑攻撃に動じないとは
+
+だいぶ女悪魔の扱いに慣れてきたんじゃない？、
+女悪魔キラーの\\N[1]サン♪
+> CONTEXT: Map054/events/1/pages/5/21/Dialogue
+Although it is a lower-level youkai, thought that
+it does not move to that temptation Attack
+You guys are getting used to handling demon? ,
+Female demon killer \\N[1] Sun♪#MTLed
+> END STRING
+
+> BEGIN STRING
+………は？
+> CONTEXT: Map054/events/1/pages/5/26/Dialogue
+> CONTEXT: Map040/events/9/pages/1/43/Dialogue
+.........?#MTLed
+> END STRING
+
+> BEGIN STRING
+んで、そんなレディ・キラーなジゴロさんに忠告なんだけど…
+
+ちょっと今度マイルーム行くときは注意した方がいいかも…
+> CONTEXT: Map054/events/1/pages/5/29/Dialogue
+Well, I advise lady / killer Gigoro like that ...
+It might be better to be careful when I go to my
+room for a while now ...#MTLed
+> END STRING
+
+> BEGIN STRING
+え、どういうこと…？
+> CONTEXT: Map054/events/1/pages/5/34/Dialogue
+What do you mean ...?#MTLed
+> END STRING
+
+> BEGIN STRING
+じ、実はね……
+
+\\}ルシィさん…帰ってなかったの…
+> CONTEXT: Map054/events/1/pages/5/36/Dialogue
+Actually,...\\}Lucy...I was not back home ...#MTLed
+> END STRING
+
+> BEGIN STRING
+\\}そ、それで……
+
+あの…、君とあの子達との…その…『現場』を……
+> CONTEXT: Map054/events/1/pages/5/40/Dialogue
+\\}Well then...... Um ..., with you and that girl ...
+That...... "the scene"......#MTLed
+> END STRING
+
+> BEGIN STRING
+\\{\\{！！！？
+> CONTEXT: Map054/events/1/pages/5/46/Dialogue
+\\{\\{!!!?#MTLed
+> END STRING
+
+> BEGIN STRING
+ルシィさん、\\N[1]が抱きかかえられたあたりで
+
+『そういうことですか…』って呟いて帰っちゃった……
+> CONTEXT: Map054/events/1/pages/5/48/Dialogue
+Lucy, \\N[1] In the area around Hug
+I muttered and said "I do not care like that ..."
+...#MTLed
+> END STRING
+
+> BEGIN STRING
+だからさ……気をつけなよ……
+
+あの人、静かに怒るタイプだし、どんな罰考えてるか…
+> CONTEXT: Map054/events/1/pages/5/52/Dialogue
+That's why...... be careful ...
+That person is quietly angry, and what kind of
+punishment do you have ...#MTLed
+> END STRING
+
+> BEGIN STRING
+………なんか、ずっとこの裏路地で生活したくなってきた…。
+> CONTEXT: Map054/events/1/pages/5/57/Dialogue
+......... something, I have always wanted to live
+in this alley.#MTLed
+> END STRING
+
+> BEGIN STRING
+さっきの脱出の固い決意が、あっさり折れるほど怖いかい…
+> CONTEXT: Map054/events/1/pages/5/59/Dialogue
+The hard judgment of escape of the previous
+moment is scary enough to break easily ...#MTLed
+> END STRING
+
+> BEGIN STRING
+ま、まぁそういうわけだからさ……
+
+次にルシィさんに会うときは、気を遣いなよ…
+下手な事すると、命にかかわるかも…
+> CONTEXT: Map054/events/1/pages/5/62/Dialogue
+Well, that's why ...... Next time you see Lucy,
+do not worry...If it is a bad thing, it may be
+related to life ...#MTLed
+> END STRING
+
+> BEGIN STRING
+よっ、と
+
+それじゃ、忠告はしたからねぇ♪
+> CONTEXT: Map054/events/1/pages/5/71/Dialogue
+Yacht. Well then, I gave you advice.♪#MTLed
+> END STRING
+
+> BEGIN STRING
+な、なんで……！？
+
+どうして術が解けてるの…！？
+> CONTEXT: Map054/events/5/pages/4/1/Dialogue
+Why......!? Why is the art solved ...!
+?#MTLed
+> END STRING
+
+> BEGIN STRING
+…………カギを渡してくれ。
+
+ 弁当を買ってきた時点で、約束は果たしたはずだ。
+> CONTEXT: Map054/events/5/pages/4/7/Dialogue
+......... hand over the key.
+At the time I bought a lunch box, I promised it.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[1]くん………ホントにこれで終わり？
+
+ワタシのおっぱい、気持ちよくなかったの…？
+> CONTEXT: Map054/events/5/pages/4/42/Dialogue
+\\N[1] Kun ......... Really is this done?
+'I' 's breasts, was not it comfortable ...?#MTLed
+> END STRING
+
+> BEGIN STRING
+い、いや、そんなことはないよ…。
+
+ 実際、それでおかしくなりかけたワケだし…
+> CONTEXT: Map054/events/5/pages/4/46/Dialogue
+No, no, that's not the case. Indeed, it was a
+mistake that made me wonder ...#MTLed
+> END STRING
+
+> BEGIN STRING
+でも……親友のユウマは港で僕を待っていてくれてるし
+
+ レイナだって今もM.O.Wに追われている。
+> CONTEXT: Map054/events/5/pages/4/50/Dialogue
+But...my best friend Yuuma is waiting for me at
+the harbor. Reina is still being chased by Moo W.#MTLed
+> END STRING
+
+> BEGIN STRING
+僕は一刻も早く、ユウマのもとにたどり着いて
+
+ この街から脱出しないといけない。
+> CONTEXT: Map054/events/5/pages/4/54/Dialogue
+I arrived as soon as possible under Yuuma
+I have to escape from this town.#MTLed
+> END STRING
+
+> BEGIN STRING
+だから………\\|\\^
+> CONTEXT: Map054/events/5/pages/4/58/Dialogue
+So...... ...\\|\\^#MTLed
+> END STRING
+
+> BEGIN STRING
+僕が話し終える前に、彼女は僕の頭に掴みかかり
+
+自身の胸に強引に押し付けた……！！
+> CONTEXT: Map054/events/5/pages/4/68/Dialogue
+Before I finish talking, she caught in my head
+Forcibly pressed on my own chest ...! !#MTLed
+> END STRING
+
+> BEGIN STRING
+うるさい………！！
+
+気持ちいいなら溺れなよ…！
+やらなきゃいけないことなんて忘れなよ…！
+> CONTEXT: Map054/events/5/pages/4/72/Dialogue
+Noisy………!!Drown if it feels good ...!
+Do not forget what you have to do ...!#MTLed
+> END STRING
+
+> BEGIN STRING
+ワタシが夢中にさせてあげるからさぁ…！！
+
+\\N[1]くんはずっとワタシのことだけ考えて
+ワタシのパーカーのなかでずっと一緒に遊ぶの…！
+> CONTEXT: Map054/events/5/pages/4/77/Dialogue
+Let 'I' go crazy for you!!\\N[1] Kun
+thought about 'I' all the time
+I'm playing together forever in 'I' 's Hoodie
+...!#MTLed
+> END STRING
+
+> BEGIN STRING
+ちょ、ちょっとハル……
+
+落ち着きなって……
+> CONTEXT: Map054/events/5/pages/4/83/Dialogue
+Cha, Hey Haru ...... Calm down ......#MTLed
+> END STRING
+
+> BEGIN STRING
+僕は上半身を抱えられながら
+
+ ズルズルと腰掛けの方へと引きずられていく…
+> CONTEXT: Map054/events/5/pages/4/95/Dialogue
+I am holding my upper body. Pulled and dragged towards the
+seat ...#MTLed
+> END STRING
+
+> BEGIN STRING
+なんとか引き離そうとするが
+
+ さっきまでの彼女とは思えない力だ…！！
+> CONTEXT: Map054/events/5/pages/4/99/Dialogue
+I try to separate it. It's a power that I can not think of
+until a while ago ...! !#MTLed
+> END STRING
+
+> BEGIN STRING
+んっぐうぅ……！！
+
+んんんんっ…！！！
+> CONTEXT: Map054/events/5/pages/4/103/Dialogue
+humpgh......!!umm ph ...!!!#MTLed
+> END STRING
+
+> BEGIN STRING
+術が切れてたって…
+
+ずーっとこうやって刺激してあげれば、耐えられないでしょ♡
+> CONTEXT: Map054/events/5/pages/4/107/Dialogue
+The operation has expired...
+If you stimulate it like this for a while, you
+can not bear it, right?#MTLed
+> END STRING
+
+> BEGIN STRING
+もっともっと、ぎゅーってしてあげる…♡
+
+いつまで耐えられるかなぁ…？♡
+> CONTEXT: Map054/events/5/pages/4/111/Dialogue
+I'll give you more, more...♡
+How long can we stand ...?♡#MTLed
+> END STRING
+
+> BEGIN STRING
+…………ストップ。
+
+そこまでだよ、ハル。
+> CONTEXT: Map054/events/5/pages/4/136/Dialogue
+…………stop. That's it, Haru.#MTLed
+> END STRING
+
+> BEGIN STRING
+はあっ…はあっ…！！
+> CONTEXT: Map054/events/5/pages/4/145/Dialogue
+Ha ha...well ...! !#MTLed
+> END STRING
+
+> BEGIN STRING
+うちの相方が、ちょっと迷惑かけちゃったね。ニンゲン君。
+
+彼女は私が説得しておくからさ、見逃してくれないかな？
+> CONTEXT: Map054/events/5/pages/4/147/Dialogue
+My mother bothered me a bit. little human.
+She will let me dissuade, will not she miss?#MTLed
+> END STRING
+
+> BEGIN STRING
+り…リズ！！！？
+> CONTEXT: Map054/events/5/pages/4/154/Dialogue
+Ri...Liz!!!?#MTLed
+> END STRING
+
+> BEGIN STRING
+アンタの色仕掛けは完全に失敗だよ、ハル。
+
+こういうのはね、引き際が大事なんだ。
+> CONTEXT: Map054/events/5/pages/4/156/Dialogue
+Your color scheme is completely failing, Haru.
+For this kind of situation, the timing is
+important.#MTLed
+> END STRING
+
+> BEGIN STRING
+きっと何回やったって、コイツの先に進む意志は揺らがない。
+
+怒らせる前に、身を引いた方が賢明さ。
+> CONTEXT: Map054/events/5/pages/4/160/Dialogue
+There is no shake of the will to move forward
+beyond how many times it is done.
+It is wiser to pull yourself off before you get
+angry.#MTLed
+> END STRING
+
+> BEGIN STRING
+………リズぅ
+
+ワタシ、\\N[1]くんが欲しいよ…
+> CONTEXT: Map054/events/5/pages/4/167/Dialogue
+......... Liz ぅ. 'I', \\N[1] I want a kun ...#MTLed
+> END STRING
+
+> BEGIN STRING
+諦めるんだよ、ハル
+
+とりあえず、今のところは…さ。
+> CONTEXT: Map054/events/5/pages/4/171/Dialogue
+Give up, Haru. Tentatively, for now ....#MTLed
+> END STRING
+
+> BEGIN STRING
+自分の身体の誘惑で、初めて好みの相手をモノにできなくて
+
+ヤケクソになっちゃってるのよ、今のハルは。
+> CONTEXT: Map054/events/5/pages/4/175/Dialogue
+With the temptation of my body, for the first
+time I can not make my favorite partner a thing
+I'm getting fucking hard, now Haru is.#MTLed
+> END STRING
+
+> BEGIN STRING
+いったん時間をおいて、冷静になって、
+それでもこのニンゲンの事を諦められなかったら
+
+その時は、私も止めないからさ。
+> CONTEXT: Map054/events/5/pages/4/181/Dialogue
+Once time has come, I feel calm,
+Still if I could not give up on this 'human'
+At that time, I will not stop as well.#MTLed
+> END STRING
+
+> BEGIN STRING
+…………わかった。
+> CONTEXT: Map054/events/5/pages/4/186/Dialogue
+…………all right.#MTLed
+> END STRING
+
+> BEGIN STRING
+絶対……また遊ぼうね……
+
+\\N[1]くん…
+> CONTEXT: Map054/events/5/pages/4/196/Dialogue
+Absolutely...Let's play again later ...
+\\N[1] Kun…#MTLed
+> END STRING
+
+> BEGIN STRING
+やれやれ……
+
+なんとかなったが、また変なのと知り合っちゃったな。
+> CONTEXT: Map054/events/5/pages/4/206/Dialogue
+dear me ...... I got to know somehow, but I got
+to know a strange thing.#MTLed
+> END STRING
+
+> BEGIN STRING
+まぁ、最初に僕が誘惑に乗って
+
+彼女をその気にさせちゃったのも悪かったし……
+> CONTEXT: Map054/events/5/pages/4/210/Dialogue
+Well, firstly I took the temptation
+It was wrong to let her care about her......#MTLed
+> END STRING
+
+> BEGIN STRING
+今回のは半分、僕の自業自得かな……
+> CONTEXT: Map054/events/5/pages/4/214/Dialogue
+I guess half this time, it is my own ambition
+......#MTLed
+> END STRING
+
+> BEGIN STRING
+とりあえず、カギは手に入れたし
+
+これでこの裏路地から出る事ができるな。
+> CONTEXT: Map054/events/5/pages/4/216/Dialogue
+Tentatively, I got the key. Now I can leave this
+alley.#MTLed
+> END STRING
+
+> BEGIN STRING
+ユウマってヤツも、通信が切れて心配してるだろうし
+
+さっさと出ちまおうぜ、\\N[1]。
+> CONTEXT: Map054/events/5/pages/4/220/Dialogue
+Yuuma is also worried that the communication has
+expired. Let's get out quickly, \\N[1] .#MTLed
+> END STRING
