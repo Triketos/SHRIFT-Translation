@@ -1,4 +1,4 @@
-﻿> CUSTOM COMMENT TL
+> CUSTOM COMMENT TL
 > BEGIN STRING
 <逃走成功率減少:99>
 <追加ポイント数保存変数 103>
@@ -10251,6 +10251,7 @@ Troubleshooting 'Troubleshooting?
 > CONTEXT: Scripts/スキルコスト拡張/1163:56
 > CONTEXT: Scripts/スキルコスト拡張/1178:18
 > CONTEXT: Scripts/スキルコスト拡張/1182:56
+> CONTEXT: Scripts/ステート前提ステート/73:81
 > CONTEXT: Scripts/animation_1/55:13
 > CONTEXT: Scripts/animation_1/61:17
 > CONTEXT: Scripts/スキル表示/314:17
@@ -10260,6 +10261,7 @@ Troubleshooting 'Troubleshooting?
 > CONTEXT: Scripts/戦闘レイアウト/2902:29
 > CONTEXT: Scripts/戦闘レイアウト/2978:23
 > CONTEXT: Scripts/戦闘レイアウト/3888:28
+> CONTEXT: Scripts/使用者にステート解除/402:80
 ""#NoTL
 > END STRING
 
@@ -10369,6 +10371,12 @@ Troubleshooting 'Troubleshooting?
 > END STRING
 
 > BEGIN STRING
+/\\[(.{1,8})\\]/
+> CONTEXT: Scripts/立ち絵/255:16
+/\\[(.{1,8})\\]/#NoTL
+> END STRING
+
+> BEGIN STRING
 "off"
 > CONTEXT: Scripts/立ち絵/256:16
 > CONTEXT: Scripts/立ち絵/395:16
@@ -10398,6 +10406,12 @@ Troubleshooting 'Troubleshooting?
 > END STRING
 
 > BEGIN STRING
+/\\[(\\w+)(,(\\d+))?(,(\\d+))?\\]/
+> CONTEXT: Scripts/立ち絵/274:15
+/\\[(\\w+)(,(\\d+))?(,(\\d+))?\\]/#NoTL
+> END STRING
+
+> BEGIN STRING
 "Audio/SE/\#{$1}"
 > CONTEXT: Scripts/立ち絵/275:22
 "Audio/SE/\#{$1}"#NoTL
@@ -10410,9 +10424,21 @@ Troubleshooting 'Troubleshooting?
 > END STRING
 
 > BEGIN STRING
+/\\[([0-9a-zA-Z_\\/]+)\\]/
+> CONTEXT: Scripts/立ち絵/277:17
+/\\[([0-9a-zA-Z_\\/]+)\\]/#NoTL
+> END STRING
+
+> BEGIN STRING
 'p'
 > CONTEXT: Scripts/立ち絵/279:10
 'p'#NoTL
+> END STRING
+
+> BEGIN STRING
+/\\[(.+)\\]/
+> CONTEXT: Scripts/立ち絵/280:16
+/\\[(.+)\\]/#NoTL
 > END STRING
 
 > BEGIN STRING
@@ -10972,13 +10998,13 @@ Troubleshooting 'Troubleshooting?
 > BEGIN STRING
 "<スキルポイントリセット>"
 > CONTEXT: Scripts/スキルツリー/176:20
-"<Skill point reset>"#MTLed
+"<スキルポイントリセット>"#NoTL
 > END STRING
 
 > BEGIN STRING
 "<非公開表示>"
 > CONTEXT: Scripts/スキルツリー/182:20
-"<Private display>"#MTLed
+"<非公開表示>"#NoTL
 > END STRING
 
 > BEGIN STRING
@@ -12017,6 +12043,12 @@ Troubleshooting 'Troubleshooting?
 > END STRING
 
 > BEGIN STRING
+/<\#{StateSkill::Word[0]}[：:](\\S+)>/
+> CONTEXT: Scripts/ステート前提ステート/73:24
+/<\#{StateSkill::Word[0]}[：:](\\S+)>/#NoTL
+> END STRING
+
+> BEGIN STRING
 ".png"
 > CONTEXT: Scripts/animation_1/43:14
 ".png"#NoTL
@@ -12419,19 +12451,19 @@ Troubleshooting 'Troubleshooting?
 > BEGIN STRING
 "反撃！"
 > CONTEXT: Scripts/戦闘レイアウト/312:19
-"反撃！"#NoTL
+"Counterattack！"#MTLed
 > END STRING
 
 > BEGIN STRING
 "反射！"
 > CONTEXT: Scripts/戦闘レイアウト/313:19
-"反射！"#NoTL
+"Reflection！"#MTLed
 > END STRING
 
 > BEGIN STRING
 "身代わり！"
 > CONTEXT: Scripts/戦闘レイアウト/314:19
-"身代わり！"#NoTL
+"Substitution！"#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -12489,10 +12521,15 @@ Troubleshooting 'Troubleshooting?
 > END STRING
 
 > BEGIN STRING
-"([^"
-> CONTEXT: Scripts/戦闘レイアウト/481:54
-> CONTEXT: Scripts/戦闘レイアウト/487:56
-"([^"#NoTL
+/(?:バトラーグラフィック|battler_graphic)\\s*=\\s*"([^"]*)"/i
+> CONTEXT: Scripts/戦闘レイアウト/481:15
+/(?:バトラーグラフィック|battler_graphic)\\s*=\\s*"([^"]*)"/i#NoTL
+> END STRING
+
+> BEGIN STRING
+/(?:ポップアップ表示名|display_name)\\s*=\\s*"([^"]*)"/i
+> CONTEXT: Scripts/戦闘レイアウト/487:21
+/(?:ポップアップ表示名|display_name)\\s*=\\s*"([^"]*)"/i#NoTL
 > END STRING
 
 > BEGIN STRING
@@ -12600,6 +12637,12 @@ Troubleshooting 'Troubleshooting?
 > END STRING
 
 > BEGIN STRING
+/<\#{ChangeSelfState::W[i]}[：:](\\S+)>/
+> CONTEXT: Scripts/使用者にステート解除/402:24
+/<\#{ChangeSelfState::W[i]}[：:](\\S+)>/#NoTL
+> END STRING
+
+> BEGIN STRING
 "100"
 > CONTEXT: Scripts/使用者にステート解除/406:71
 > CONTEXT: Scripts/使用者にステート解除/407:46
@@ -12675,7 +12718,7 @@ Troubleshooting 'Troubleshooting?
 > BEGIN STRING
 "MAIL[000].txt"
 > CONTEXT: Scripts/テキスト出力/4:19
-"MAIL[000].txt"#NoTL
+"MAIL[000].txt"#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -12686,37 +12729,1139 @@ Troubleshooting 'Troubleshooting?
 > CONTEXT: Scripts/テキスト出力/171:36
 > CONTEXT: Scripts/テキスト出力/211:36
 > CONTEXT: Scripts/テキスト出力/244:36
-"w"#NoTL
+"w"#MTLed
+> END STRING
+
+> BEGIN STRING
+"件名：理由
+> CONTEXT: Scripts/テキスト出力/5:12
+"subject：the reason#MTLed
+> END STRING
+
+> BEGIN STRING
+ 　　　送信者【Richard】
+> CONTEXT: Scripts/テキスト出力/6:1
+> CONTEXT: Scripts/テキスト出力/246:1
+ sender【Richard】#MTLed
+> END STRING
+
+> BEGIN STRING
+ 《本文》==========================================
+> CONTEXT: Scripts/テキスト出力/8:1
+> CONTEXT: Scripts/テキスト出力/39:1
+> CONTEXT: Scripts/テキスト出力/129:1
+> CONTEXT: Scripts/テキスト出力/175:1
+> CONTEXT: Scripts/テキスト出力/215:1
+> CONTEXT: Scripts/テキスト出力/248:1
+ 《Text》==========================================#MTLed
+> END STRING
+
+> BEGIN STRING
+私は罪を犯した
+> CONTEXT: Scripts/テキスト出力/9:1
+I committed a crime#MTLed
+> END STRING
+
+> BEGIN STRING
+ あろうことか、神は彼女を巻き込んだ
+> CONTEXT: Scripts/テキスト出力/10:1
+ Or, God involved her#MTLed
+> END STRING
+
+> BEGIN STRING
+彼女を裏切るように仕向けられた
+> CONTEXT: Scripts/テキスト出力/11:1
+I was sent to betray her.#MTLed
+> END STRING
+
+> BEGIN STRING
+裏切りのユダ
+> CONTEXT: Scripts/テキスト出力/12:1
+Betrayal Judah#MTLed
+> END STRING
+
+> BEGIN STRING
+彼女は悪くない
+> CONTEXT: Scripts/テキスト出力/13:1
+She is not bad#MTLed
+> END STRING
+
+> BEGIN STRING
+彼女は幸せであるべきだ
+> CONTEXT: Scripts/テキスト出力/14:1
+She should be happy#MTLed
+> END STRING
+
+> BEGIN STRING
+私の肉体が滅びようと
+> CONTEXT: Scripts/テキスト出力/15:1
+My body will perish#MTLed
+> END STRING
+
+> BEGIN STRING
+ ブドウ酒のワイン
+> CONTEXT: Scripts/テキスト出力/16:1
+ Wine of wine#MTLed
+> END STRING
+
+> BEGIN STRING
+ ちぐはぐな思念だけになろうと
+> CONTEXT: Scripts/テキスト出力/17:1
+ Trying to be just disgusting thoughts#MTLed
+> END STRING
+
+> BEGIN STRING
+ この使命だけは全うする
+> CONTEXT: Scripts/テキスト出力/18:1
+ We will only fulfill this mission#MTLed
+> END STRING
+
+> BEGIN STRING
+13
+> CONTEXT: Scripts/テキスト出力/19:1
+13#MTLed
+> END STRING
+
+> BEGIN STRING
+あの邪教は言葉巧みだ
+> CONTEXT: Scripts/テキスト出力/20:1
+That evil spirit is skillful.#MTLed
+> END STRING
+
+> BEGIN STRING
+悪魔め
+> CONTEXT: Scripts/テキスト出力/21:1
+demon#MTLed
+> END STRING
+
+> BEGIN STRING
+ ああ、無理だ
+> CONTEXT: Scripts/テキスト出力/22:1
+ Oh, it is impossible#MTLed
+> END STRING
+
+> BEGIN STRING
+君に伝えようと思ったが、固まらない
+> CONTEXT: Scripts/テキスト出力/23:1
+I tried to tell you, but it does not solidify#MTLed
+> END STRING
+
+> BEGIN STRING
+ パンが、パンが、固まらないんだ
+> CONTEXT: Scripts/テキスト出力/24:1
+ Bread, bread does not solidify#MTLed
+> END STRING
+
+> BEGIN STRING
+ かのじょ！かのじょ？
+> CONTEXT: Scripts/テキスト出力/25:1
+ Frog！Frog？#MTLed
+> END STRING
+
+> BEGIN STRING
+もう限界だ
+> CONTEXT: Scripts/テキスト出力/26:1
+It's already the limit#MTLed
+> END STRING
+
+> BEGIN STRING
+ ああ、私のなをよぶな
+> CONTEXT: Scripts/テキスト出力/27:1
+ Oh, do not call my own#MTLed
+> END STRING
+
+> BEGIN STRING
+ うんざりだ
+> CONTEXT: Scripts/テキスト出力/28:1
+ Fed up#MTLed
+> END STRING
+
+> BEGIN STRING
+ =================================================="
+> CONTEXT: Scripts/テキスト出力/29:1
+> CONTEXT: Scripts/テキスト出力/119:1
+> CONTEXT: Scripts/テキスト出力/165:1
+> CONTEXT: Scripts/テキスト出力/205:1
+> CONTEXT: Scripts/テキスト出力/238:1
+ ==========================================================="#MTLed
 > END STRING
 
 > BEGIN STRING
 "MAIL[001].txt"
 > CONTEXT: Scripts/テキスト出力/35:19
-"MAIL[001].txt"#NoTL
+"MAIL[001].txt"#MTLed
+> END STRING
+
+> BEGIN STRING
+"件名：やったネ！！
+> CONTEXT: Scripts/テキスト出力/36:12
+"subject：I did it.！！#MTLed
+> END STRING
+
+> BEGIN STRING
+ 送信者【百鬼】
+> CONTEXT: Scripts/テキスト出力/37:1
+ Sender 【Hyakki】#MTLed
+> END STRING
+
+> BEGIN STRING
+………これでいいのかな？
+> CONTEXT: Scripts/テキスト出力/40:1
+………Is this OK？#MTLed
+> END STRING
+
+> BEGIN STRING
+ 結博士が、『介入者』のアンタに直接メッセージを送れる
+> CONTEXT: Scripts/テキスト出力/41:1
+ Dr. Kurosawa.『Interposer』You can send messages directly to#MTLed
+> END STRING
+
+> BEGIN STRING
+ へんちくりんな装置を発明したってんで、試してるよ。
+> CONTEXT: Scripts/テキスト出力/42:1
+ I tried inventing a fantastic device, I tried it.#MTLed
+> END STRING
+
+> BEGIN STRING
+アンタにはテキスト形式のメールみたいに届くんだってサ。
+> CONTEXT: Scripts/テキスト出力/43:1
+It seems like an email in text format to be sent to you.#MTLed
+> END STRING
+
+> BEGIN STRING
+さて、お祝いの言葉を先に言わないとね。
+> CONTEXT: Scripts/テキスト出力/45:1
+Well, I have to say words of congratulation first.#MTLed
+> END STRING
+
+> BEGIN STRING
+アンタにとっちゃ『ゲームクリア』おめでとう！かな？
+> CONTEXT: Scripts/テキスト出力/46:1
+To Uta『Game clear』Congrats！Wonder？#MTLed
+> END STRING
+
+> BEGIN STRING
+アンタが介入に使った『装置』が、どんな形式をとっているか
+> CONTEXT: Scripts/テキスト出力/47:1
+You used it for intervention『apparatus』What format is taken#MTLed
+> END STRING
+
+> BEGIN STRING
+ なんとなくだけど、分かるよ。
+> CONTEXT: Scripts/テキスト出力/48:1
+ Somehow, but I understand.#MTLed
+> END STRING
+
+> BEGIN STRING
+ 以前にも似たような介入を受けた世界があったからネ。
+> CONTEXT: Scripts/テキスト出力/49:1
+ Because there was a world that received similar intervention before.#MTLed
+> END STRING
+
+> BEGIN STRING
+そして、『介入する側』に選ばれるのは
+> CONTEXT: Scripts/テキスト出力/50:1
+Then,『Intervening side』It is selected as#MTLed
+> END STRING
+
+> BEGIN STRING
+ いつだって、アンタのいる『その世界』だ。
+> CONTEXT: Scripts/テキスト出力/51:1
+ Always, you are『That world』It is.#MTLed
+> END STRING
+
+> BEGIN STRING
+…………ここから先は、アイツには内緒だヨ♪
+> CONTEXT: Scripts/テキスト出力/53:1
+............ From here on, it is a secret to Yotsu♪#MTLed
+> END STRING
+
+> BEGIN STRING
+お祝いの言葉ついでに、なんでアンタが『介入者』になったのか…
+> CONTEXT: Scripts/テキスト出力/54:1
+Congratulations words Then why did you say『Interposer』Was it ...#MTLed
+> END STRING
+
+> BEGIN STRING
+それを教えておきたくてね。
+> CONTEXT: Scripts/テキスト出力/55:1
+I wanted to tell it.#MTLed
+> END STRING
+
+> BEGIN STRING
+まず、あの結末に至るためには、アンタがプレイ中に
+> CONTEXT: Scripts/テキスト出力/57:1
+First of all, in order to reach that end, while you are playing#MTLed
+> END STRING
+
+> BEGIN STRING
+『魔力を蓄えてる』ことが知られてはいけなかった。
+> CONTEXT: Scripts/テキスト出力/58:1
+『I store magical powers.』It was not to be known that.#MTLed
+> END STRING
+
+> BEGIN STRING
+だから、魔界との縁が一番遠いその世界が選ばれる。
+> CONTEXT: Scripts/テキスト出力/59:1
+So, the world that is the most distant from Demon Realm is chosen.#MTLed
+> END STRING
+
+> BEGIN STRING
+ 『魔力』という概念が、ファンタジーにすぎないその世界が、ネ。
+> CONTEXT: Scripts/テキスト出力/60:1
+ 『Magical power』The concept of "fantasy" is the world.#MTLed
+> END STRING
+
+> BEGIN STRING
+あ！
+> CONTEXT: Scripts/テキスト出力/62:1
+Ah！#MTLed
+> END STRING
+
+> BEGIN STRING
+ 魔力を蓄えるっていっても、それは『装置』が肩代わりしてたから
+> CONTEXT: Scripts/テキスト出力/63:1
+ Even if it saves magical power, it is『apparatus』Because it was taking over.#MTLed
+> END STRING
+
+> BEGIN STRING
+今後アンタの魂が変質することはないよ。
+> CONTEXT: Scripts/テキスト出力/64:1
+There is no change in your soul's future.#MTLed
+> END STRING
+
+> BEGIN STRING
+ゲームをプレイしただけで虚無空間行きなんてシャレになってないだろ？
+> CONTEXT: Scripts/テキスト出力/65:1
+Just playing the game does not mean that you go to the empty space？#MTLed
+> END STRING
+
+> BEGIN STRING
+そして、もっと重要なことが……
+> CONTEXT: Scripts/テキスト出力/67:1
+And more importantly ...#MTLed
+> END STRING
+
+> BEGIN STRING
+その装置の『ジャンル』さ。
+> CONTEXT: Scripts/テキスト出力/68:1
+For that device『Genre』Then.#MTLed
+> END STRING
+
+> BEGIN STRING
+アンタは、どうしてこの装置を起動したんだい？
+> CONTEXT: Scripts/テキスト出力/70:1
+Why did you start up this device？#MTLed
+> END STRING
+
+> BEGIN STRING
+もちろん、根本の動機は十人十色だとは思うが
+> CONTEXT: Scripts/テキスト出力/71:1
+Of course, I think that the motive for the fundamental is ten members#MTLed
+> END STRING
+
+> BEGIN STRING
+『好みのシチュエーションがありそうだったから』じゃないかい？
+> CONTEXT: Scripts/テキスト出力/72:1
+『Because my favorite state seemed likely』Is not it?？#MTLed
+> END STRING
+
+> BEGIN STRING
+ 介入者のアンタだって人間だ、神様じゃない。
+> CONTEXT: Scripts/テキスト出力/74:1
+ Even a man of intervention is a human being, not a god.#MTLed
+> END STRING
+
+> BEGIN STRING
+ 『アイツ』が結末まで行き着くためには、介入者であるアンタがまず
+> CONTEXT: Scripts/テキスト出力/75:1
+ 『Guy』To get to the end, the interviewer, you first#MTLed
+> END STRING
+
+> BEGIN STRING
+最後のエンディングまで行き着く『適性』が必要だった。
+> CONTEXT: Scripts/テキスト出力/76:1
+It will last until the last ending『ability』It was necessary.#MTLed
+> END STRING
+
+> BEGIN STRING
+ 女悪魔に犯されても楽しめる……むしろ悦ぶ『M気質』
+> CONTEXT: Scripts/テキスト出力/78:1
+ You can enjoy it even if you are fucked by a woman ...『Mtemperament』#MTLed
+> END STRING
+
+> BEGIN STRING
+ 登場する悪魔の人外具合を許容できる『人外好き』
+> CONTEXT: Scripts/テキスト出力/79:1
+ You can tolerate the demon's outdoor appearance『Favorite』#MTLed
+> END STRING
+
+> BEGIN STRING
+そして何より……この難易度に耐え、何度も立ち上がれる『根性』
+> CONTEXT: Scripts/テキスト出力/81:1
+And more than anything...withstand this difficulty and get up many times『guts』#MTLed
+> END STRING
+
+> BEGIN STRING
+ただのゲームなら、敵を弱くして、操作キャラを強くすればいい
+> CONTEXT: Scripts/テキスト出力/83:1
+If you are just a game, you can weaken the enemy and strengthen the operation character#MTLed
+> END STRING
+
+> BEGIN STRING
+ だけど『装置』は、そういうわけにはいかないんだよ。
+> CONTEXT: Scripts/テキスト出力/84:1
+ However『apparatus』That 's why we can not do that.#MTLed
+> END STRING
+
+> BEGIN STRING
+ある程度補正はかけられるが、それだけだ。
+> CONTEXT: Scripts/テキスト出力/85:1
+It can be compensated to some extent, but that's it.#MTLed
+> END STRING
+
+> BEGIN STRING
+ 特に、アンタが変えたのは、普遍と言われたはずの『死の運命』
+> CONTEXT: Scripts/テキスト出力/86:1
+ Especially, what you changed was supposed to be universal『The fate of death』#MTLed
+> END STRING
+
+> BEGIN STRING
+そんじょそこらのヤツができる芸当じゃない。
+> CONTEXT: Scripts/テキスト出力/87:1
+It is not a tricky thing to do with such sufferers.#MTLed
+> END STRING
+
+> BEGIN STRING
+その『適性』を見極めるために
+> CONTEXT: Scripts/テキスト出力/89:1
+That『ability』To find out#MTLed
+> END STRING
+
+> BEGIN STRING
+介入装置のプロトタイプが『体験版』として配布された。
+> CONTEXT: Scripts/テキスト出力/90:1
+The prototype of the interventional device『Trial version』It was distributed as.#MTLed
+> END STRING
+
+> BEGIN STRING
+もう大分前になるだろうけど、内容覚えてるかい？
+> CONTEXT: Scripts/テキスト出力/91:1
+I guess it will be almost ago, but do you remember the content?？#MTLed
+> END STRING
+
+> BEGIN STRING
+あれは『どの場所』で『どういう形式』で、
+> CONTEXT: Scripts/テキスト出力/92:1
+That is『Which place』so『What form』so,#MTLed
+> END STRING
+
+> BEGIN STRING
+あの世界に『介入』していたか…………
+> CONTEXT: Scripts/テキスト出力/93:1
+In that world『intervention』Was it.............#MTLed
+> END STRING
+
+> BEGIN STRING
+おそらく、まだまだ試験的な装置だったから
+> CONTEXT: Scripts/テキスト出力/94:1
+Probably because it was still a pilot device#MTLed
+> END STRING
+
+> BEGIN STRING
+ あんなに断片的だったんだろうネ。
+> CONTEXT: Scripts/テキスト出力/95:1
+ I guess she was fragmented so much.#MTLed
+> END STRING
+
+> BEGIN STRING
+………ええ？もう時間かい？
+> CONTEXT: Scripts/テキスト出力/97:1
+Yes？It's already time？#MTLed
+> END STRING
+
+> BEGIN STRING
+じゃあ、最後にひとつだけ！
+> CONTEXT: Scripts/テキスト出力/98:1
+Well then, at last only one！#MTLed
+> END STRING
+
+> BEGIN STRING
+ 勘違いしそうだけど、『この装置を仕組んだ人物』と
+> CONTEXT: Scripts/テキスト出力/99:1
+ I am going to misunderstand,『Person who worked this equipment』When#MTLed
+> END STRING
+
+> BEGIN STRING
+『このゲームの制作者』は、おそらく別人だよ。
+> CONTEXT: Scripts/テキスト出力/100:1
+『Creator of this game』He is probably a different person.#MTLed
+> END STRING
+
+> BEGIN STRING
+ 後者はただ単に『ニッチなエロゲを作った』としか思ってない。
+> CONTEXT: Scripts/テキスト出力/101:1
+ The latter is simply『I made a niche eroge』I think only.#MTLed
+> END STRING
+
+> BEGIN STRING
+ 『装置を仕込んだヤツ』が誰かまでは分からないケド
+> CONTEXT: Scripts/テキスト出力/103:1
+ 『The one who charged the device』I do not know until someone Kedo#MTLed
+> END STRING
+
+> BEGIN STRING
+単なる愉快犯じゃなければ、たぶん『こちらの世界』の住人だ。
+> CONTEXT: Scripts/テキスト出力/104:1
+If it is not mere pleasurable crime, maybe『This world』He is a dweller.#MTLed
+> END STRING
+
+> BEGIN STRING
+ 冥府の間のやつらは、そいつに協力したにすぎない。
+> CONTEXT: Scripts/テキスト出力/105:1
+ Hell's Gate's guys just cooperated with him.#MTLed
+> END STRING
+
+> BEGIN STRING
+そいつは自分の世界を変えて、アンタに何かをさせようとしてる。
+> CONTEXT: Scripts/テキスト出力/106:1
+He's changing his world and trying to make you do something.#MTLed
+> END STRING
+
+> BEGIN STRING
+でも、アイツの旅が無事に終わったのだとするなら……
+> CONTEXT: Scripts/テキスト出力/108:1
+But, if it is assumed that Hayatsu's journey ended successfully ......#MTLed
+> END STRING
+
+> BEGIN STRING
+今回のは、その『前準備』……なのかもね。
+> CONTEXT: Scripts/テキスト出力/109:1
+This time, that『Preparation』...... Maybe.#MTLed
+> END STRING
+
+> BEGIN STRING
+さて！なにはともあれお疲れ様だよ！
+> CONTEXT: Scripts/テキスト出力/112:1
+Now！Anyway, thanks for your effort！#MTLed
+> END STRING
+
+> BEGIN STRING
+アンタは見事に、このゲームをクリアした！
+> CONTEXT: Scripts/テキスト出力/113:1
+You superbly cleared this game！#MTLed
+> END STRING
+
+> BEGIN STRING
+ 深読みはナシにして、そこは純粋に喜ぼうじゃないか！
+> CONTEXT: Scripts/テキスト出力/114:1
+ Let's make deep reads pears, purely pleased there！#MTLed
+> END STRING
+
+> BEGIN STRING
+……また別の場所で会うようなことがあったら
+> CONTEXT: Scripts/テキスト出力/116:1
+...... If I see something to meet again in another place#MTLed
+> END STRING
+
+> BEGIN STRING
+ その時は、また仲良くしようネ！
+> CONTEXT: Scripts/テキスト出力/117:1
+ At that time, let's get along well！#MTLed
+> END STRING
+
+> BEGIN STRING
+ 約束だよ！
+> CONTEXT: Scripts/テキスト出力/118:1
+ It is a promise.！#MTLed
 > END STRING
 
 > BEGIN STRING
 "MAIL[002].txt"
 > CONTEXT: Scripts/テキスト出力/125:19
-"MAIL[002].txt"#NoTL
+"MAIL[002].txt"#MTLed
+> END STRING
+
+> BEGIN STRING
+"件名：『介入者』へ
+> CONTEXT: Scripts/テキスト出力/126:12
+"subject：『Interposer』What#MTLed
+> END STRING
+
+> BEGIN STRING
+　　　送信者【＿＿＿】
+> CONTEXT: Scripts/テキスト出力/127:1
+sender【___】#MTLed
+> END STRING
+
+> BEGIN STRING
+…………ちゃんと届いているのかな？
+> CONTEXT: Scripts/テキスト出力/130:1
+............ I wonder if it arrives properly？#MTLed
+> END STRING
+
+> BEGIN STRING
+ 結博士が『介入者』に直接メッセージを送る機械を発明して
+> CONTEXT: Scripts/テキスト出力/131:1
+ Dr. Kurosawa.『Interposer』Invent a machine that sends messages directly to#MTLed
+> END STRING
+
+> BEGIN STRING
+半信半疑で僕が使っているわけなんだけど……
+> CONTEXT: Scripts/テキスト出力/132:1
+I am using it because I am half-trusted......#MTLed
+> END STRING
+
+> BEGIN STRING
+これ、届いてなかったら、僕の壮大な独り言だな…
+> CONTEXT: Scripts/テキスト出力/133:1
+If this is not received, it is my grand monosense ...#MTLed
+> END STRING
+
+> BEGIN STRING
+僕の名前は、知っているよね。
+> CONTEXT: Scripts/テキスト出力/135:1
+You know my name, do not you think?#MTLed
+> END STRING
+
+> BEGIN STRING
+ 君が、メイラさんを通じて、幼い時に付けてくれた…
+> CONTEXT: Scripts/テキスト出力/136:1
+ Through Meira, you gave it to me at an early age ...#MTLed
+> END STRING
+
+> BEGIN STRING
+君が、僕をあの街から脱出させてくれた。
+> CONTEXT: Scripts/テキスト出力/137:1
+You made me escape from that city.#MTLed
+> END STRING
+
+> BEGIN STRING
+ 感謝してもしきれないよ。
+> CONTEXT: Scripts/テキスト出力/138:1
+ I can not thank you enough.#MTLed
+> END STRING
+
+> BEGIN STRING
+ 僕は、君を責めるつもりなんてない。
+> CONTEXT: Scripts/テキスト出力/140:1
+ I do not mean to blame you.#MTLed
+> END STRING
+
+> BEGIN STRING
+あれはレイナが望んだことだ。
+> CONTEXT: Scripts/テキスト出力/141:1
+That is what Reina wanted.#MTLed
+> END STRING
+
+> BEGIN STRING
+そして彼女の言う通り……僕では引き金は引けなかった。
+> CONTEXT: Scripts/テキスト出力/142:1
+And as she said...... I could not draw the trigger.#MTLed
+> END STRING
+
+> BEGIN STRING
+それにもし、あと少しでも決断が遅れていたら、
+> CONTEXT: Scripts/テキスト出力/143:1
+Also, if after a while the decision was delayed,#MTLed
+> END STRING
+
+> BEGIN STRING
+ 僕もレイナもサマエルに取り込まれていた。
+> CONTEXT: Scripts/テキスト出力/144:1
+ Both I and Reina were included in Samael.#MTLed
+> END STRING
+
+> BEGIN STRING
+ 彼女の覚悟が、無駄になるところだったんだ。
+> CONTEXT: Scripts/テキスト出力/145:1
+ Her preparation was about to be wasted.#MTLed
+> END STRING
+
+> BEGIN STRING
+でも、後悔がないと言えば……嘘になる。
+> CONTEXT: Scripts/テキスト出力/147:1
+But if you say that you do not have any regrets...... It will be a lie.#MTLed
+> END STRING
+
+> BEGIN STRING
+ 僕はもちろん、自分に悔いがないように行動したつもりだ。
+> CONTEXT: Scripts/テキスト出力/148:1
+ Of course, I planned to act like I did not regret.#MTLed
+> END STRING
+
+> BEGIN STRING
+だけど、もし、彼女を救える手段があったのならば……
+> CONTEXT: Scripts/テキスト出力/149:1
+But, if there was a means to save her......#MTLed
+> END STRING
+
+> BEGIN STRING
+ひとつ、お願いしたいことがある。
+> CONTEXT: Scripts/テキスト出力/151:1
+There is something I would like to ask you one.#MTLed
+> END STRING
+
+> BEGIN STRING
+もし、君が世界を巻き戻り、この結末とはまた別の結末を
+> CONTEXT: Scripts/テキスト出力/152:1
+If you wind up around the world and this ending is another result#MTLed
+> END STRING
+
+> BEGIN STRING
+見る勇気があるというなら……今度こそ彼女も救ってほしい。
+> CONTEXT: Scripts/テキスト出力/153:1
+If you say you have the courage to see...I hope that she will save me this time as well.#MTLed
+> END STRING
+
+> BEGIN STRING
+ 『この世界』の僕は、そのハッピーエンドを見ることはできない。
+> CONTEXT: Scripts/テキスト出力/155:1
+ 『This world』I can not see the happy ending.#MTLed
+> END STRING
+
+> BEGIN STRING
+だけど、君がその可能性を見出だしてくれるだけで
+> CONTEXT: Scripts/テキスト出力/156:1
+But, only you will find out that possibility#MTLed
+> END STRING
+
+> BEGIN STRING
+僕にとっては、大きな力になるはずだから……
+> CONTEXT: Scripts/テキスト出力/157:1
+For me it should be a big force......#MTLed
+> END STRING
+
+> BEGIN STRING
+残念ながら僕は力を貸せないけど、心配しないで。
+> CONTEXT: Scripts/テキスト出力/159:1
+Unfortunately I can not lend power, but do not worry.#MTLed
+> END STRING
+
+> BEGIN STRING
+きっとマイルームの『彼女たち』が、君を助けてくれる
+> CONTEXT: Scripts/テキスト出力/160:1
+Surely my room『They』It will save you#MTLed
+> END STRING
+
+> BEGIN STRING
+君が紡いだキズナの力は、きっと無駄にはならない。
+> CONTEXT: Scripts/テキスト出力/161:1
+The power of Kizuna you spun is certainly not wasted.#MTLed
+> END STRING
+
+> BEGIN STRING
+それじゃあ………君とはもうお別れだと思うけど…
+> CONTEXT: Scripts/テキスト出力/163:1
+Well then.........I think it's already a good parting with you ...#MTLed
+> END STRING
+
+> BEGIN STRING
+次の世界の『僕』に、よろしくね。
+> CONTEXT: Scripts/テキスト出力/164:1
+In the next world『I』Pleased to meet you.#MTLed
 > END STRING
 
 > BEGIN STRING
 "MAIL[003].txt"
 > CONTEXT: Scripts/テキスト出力/171:19
-"MAIL[003].txt"#NoTL
+"MAIL[003].txt"#MTLed
+> END STRING
+
+> BEGIN STRING
+"件名：『あなた』へ
+> CONTEXT: Scripts/テキスト出力/172:12
+"subject：『you』What#MTLed
+> END STRING
+
+> BEGIN STRING
+　　　送信者【レイナ】】
+> CONTEXT: Scripts/テキスト出力/173:1
+Sender 【Reina】】#MTLed
+> END STRING
+
+> BEGIN STRING
+………ちゃんと届いてる？
+> CONTEXT: Scripts/テキスト出力/176:1
+......... It is reaching properly？#MTLed
+> END STRING
+
+> BEGIN STRING
+ 結博士の発明したこの機械を使えば、『介入者』である
+> CONTEXT: Scripts/テキスト出力/177:1
+ With this machine invented by Dr. Kurosawa.『Interposer』Is#MTLed
+> END STRING
+
+> BEGIN STRING
+ あなたに連絡がとれるって聞いて、試しているの。
+> CONTEXT: Scripts/テキスト出力/178:1
+ I heard that you can contact you, I am trying it.#MTLed
+> END STRING
+
+> BEGIN STRING
+ 音声入力だから、うまく伝わるか分からないけど…
+> CONTEXT: Scripts/テキスト出力/179:1
+ Because it is voice input, I do not know whether it will succeed well ...#MTLed
+> END STRING
+
+> BEGIN STRING
+まずは……ありがとう。私を助けてくれて…
+> CONTEXT: Scripts/テキスト出力/181:1
+First off...... Thank you. Help me out ...#MTLed
+> END STRING
+
+> BEGIN STRING
+あなたを責めるつもりはないわ、
+> CONTEXT: Scripts/テキスト出力/182:1
+I do not mean to blame you,#MTLed
+> END STRING
+
+> BEGIN STRING
+あなたは、彼の『決意』に応えて行動しただけ…
+> CONTEXT: Scripts/テキスト出力/183:1
+You, his『determination』Just acting in response to ...#MTLed
+> END STRING
+
+> BEGIN STRING
+あの場面で私を犠牲にしてしまったら、彼が決死の思いで
+> CONTEXT: Scripts/テキスト出力/184:1
+If I sacrificed me at that scene, he is a desperate thought#MTLed
+> END STRING
+
+> BEGIN STRING
+ サマエルに取り込まれた意味がなくなってしまう…
+> CONTEXT: Scripts/テキスト出力/185:1
+ The meaning taken in Samael gone ...#MTLed
+> END STRING
+
+> BEGIN STRING
+きっと、そう考えたのよね。
+> CONTEXT: Scripts/テキスト出力/186:1
+Surely, you thought so.#MTLed
+> END STRING
+
+> BEGIN STRING
+いつになるかは分からないけど……
+> CONTEXT: Scripts/テキスト出力/188:1
+I do not know when it will be ....#MTLed
+> END STRING
+
+> BEGIN STRING
+MOWは、きっと私が根絶やしにしてみせる。
+> CONTEXT: Scripts/テキスト出力/189:1
+MOWI am sure I will eradicate it.#MTLed
+> END STRING
+
+> BEGIN STRING
+ 私や彼を苦しめた元凶……この戦争の核心……
+> CONTEXT: Scripts/テキスト出力/190:1
+ The former casualty who afflicted me or him...... The core of this war......#MTLed
+> END STRING
+
+> BEGIN STRING
+ヤツらと決着をつけることが、私の罪滅ぼし…
+> CONTEXT: Scripts/テキスト出力/191:1
+It is my crime to put a settlement on guys ...#MTLed
+> END STRING
+
+> BEGIN STRING
+だから、『この世界』のことは心配しないで……
+> CONTEXT: Scripts/テキスト出力/192:1
+Therefore,『This world』Do not worry about......#MTLed
+> END STRING
+
+> BEGIN STRING
+でも、もし……
+> CONTEXT: Scripts/テキスト出力/194:1
+But if ...#MTLed
+> END STRING
+
+> BEGIN STRING
+もしあなたに、もう一度やり直す勇気があるなら…
+> CONTEXT: Scripts/テキスト出力/195:1
+If you have the courage to do it over again ...#MTLed
+> END STRING
+
+> BEGIN STRING
+その世界では彼も、救ってあげてほしい。
+> CONTEXT: Scripts/テキスト出力/196:1
+In that world, I want him to save me.#MTLed
+> END STRING
+
+> BEGIN STRING
+ 私はこの世界で生きていくしかないし、たとえあなたが
+> CONTEXT: Scripts/テキスト出力/198:1
+ I have no choice but to live in this world, even if you#MTLed
+> END STRING
+
+> BEGIN STRING
+ より良い結末を導いたとしても、今の私には関係ない。
+> CONTEXT: Scripts/テキスト出力/199:1
+ Even if I lead a better outcome, it does not matter to me now.#MTLed
+> END STRING
+
+> BEGIN STRING
+だけど、マイルームの『彼女たち』なら……
+> CONTEXT: Scripts/テキスト出力/200:1
+But, my room『They』If#MTLed
+> END STRING
+
+> BEGIN STRING
+きっとあなたの助けになってくれるはず。
+> CONTEXT: Scripts/テキスト出力/201:1
+It will surely be helpful to you.#MTLed
+> END STRING
+
+> BEGIN STRING
+あなたが『介入』している事は、きっと何か意味があるはず。
+> CONTEXT: Scripts/テキスト出力/203:1
+you『intervention』Being sure, there must be something meaningful.#MTLed
+> END STRING
+
+> BEGIN STRING
+ 最後まで、決意を捨てないで……
+> CONTEXT: Scripts/テキスト出力/204:1
+ Until the end, do not throw determination ......#MTLed
 > END STRING
 
 > BEGIN STRING
 "MAIL[004].txt"
 > CONTEXT: Scripts/テキスト出力/211:19
-"MAIL[004].txt"#NoTL
+"MAIL[004].txt"#MTLed
+> END STRING
+
+> BEGIN STRING
+"件名：おめでとうございます
+> CONTEXT: Scripts/テキスト出力/212:12
+"subject：congratulations#MTLed
+> END STRING
+
+> BEGIN STRING
+　　　送信者【メイラ】
+> CONTEXT: Scripts/テキスト出力/213:1
+Sender [Meira]#MTLed
+> END STRING
+
+> BEGIN STRING
+ 結博士が、『装置』とは別の連絡手段を発明したとのことで
+> CONTEXT: Scripts/テキスト出力/216:1
+ Dr. Kurosawa.『apparatus』He invented another communication means different from#MTLed
+> END STRING
+
+> BEGIN STRING
+ こちらにて、メッセージを送らせていただきます。
+> CONTEXT: Scripts/テキスト出力/217:1
+ I will send you a message here.#MTLed
+> END STRING
+
+> BEGIN STRING
+まずは『物語の完結』おめでとうございます。
+> CONTEXT: Scripts/テキスト出力/219:1
+First of all『The completion of the story』congratulations.#MTLed
+> END STRING
+
+> BEGIN STRING
+ 結果がどうであれ、彼はあの街を脱出して
+> CONTEXT: Scripts/テキスト出力/220:1
+ Whatever the outcome, he escapes that city#MTLed
+> END STRING
+
+> BEGIN STRING
+ あなたがあの世界でできる『手助け』は終わりました。
+> CONTEXT: Scripts/テキスト出力/221:1
+ You can do in that world『help』It is over.#MTLed
+> END STRING
+
+> BEGIN STRING
+しかし……あなたも薄々感じているとは思いますが
+> CONTEXT: Scripts/テキスト出力/222:1
+But...... I think you are feeling thin#MTLed
+> END STRING
+
+> BEGIN STRING
+ どうやら、我々の望んだ結末とは程遠いようです。
+> CONTEXT: Scripts/テキスト出力/223:1
+ Apparently, it seems to be far from what we wanted.#MTLed
+> END STRING
+
+> BEGIN STRING
+もし、あなたがこの結末にどうしても納得がいかず
+> CONTEXT: Scripts/テキスト出力/225:1
+If you can not be convinced by this end#MTLed
+> END STRING
+
+> BEGIN STRING
+ よりよい結末を目指したいという覚悟があるのなら…
+> CONTEXT: Scripts/テキスト出力/226:1
+ If you are ready to aim for a better outcome ...#MTLed
+> END STRING
+
+> BEGIN STRING
+我々は、あなたが再度あの世界を覗き見るための
+> CONTEXT: Scripts/テキスト出力/227:1
+We are looking forward to seeing you again in that world#MTLed
+> END STRING
+
+> BEGIN STRING
+用意があります。
+> CONTEXT: Scripts/テキスト出力/228:1
+There is preparation.#MTLed
+> END STRING
+
+> BEGIN STRING
+もちろん、『同じ世界』ではありません。
+> CONTEXT: Scripts/テキスト出力/229:1
+of course,『The same world』It is not.#MTLed
+> END STRING
+
+> BEGIN STRING
+あなたは『最初から始める』を選ぶ必要があるでしょう。
+> CONTEXT: Scripts/テキスト出力/230:1
+you are『Start from the beginning』You will need to choose.#MTLed
+> END STRING
+
+> BEGIN STRING
+ですが、あなたは最初の時とは違う……
+> CONTEXT: Scripts/テキスト出力/232:1
+But, you are different from the first time ......#MTLed
+> END STRING
+
+> BEGIN STRING
+ひとつの物語を結末に導いたことにより
+> CONTEXT: Scripts/テキスト出力/233:1
+By led one story to the ending#MTLed
+> END STRING
+
+> BEGIN STRING
+ マイルームの『彼女たち』が、きっと力を貸してくれるはずです。
+> CONTEXT: Scripts/テキスト出力/234:1
+ my room's『They』But surely I will lend you my strength.#MTLed
+> END STRING
+
+> BEGIN STRING
+あなたの経験や心蝕は引き継がれ、助けとなります。
+> CONTEXT: Scripts/テキスト出力/235:1
+Your experience and mind corruption will be handed over and will be helpful.#MTLed
+> END STRING
+
+> BEGIN STRING
+どうか勇気をもって、またあの世界に踏み込んでください。
+> CONTEXT: Scripts/テキスト出力/236:1
+Please hold on to that world with courage.#MTLed
+> END STRING
+
+> BEGIN STRING
+ 我々は、その時を心待ちにしております。
+> CONTEXT: Scripts/テキスト出力/237:1
+ We are looking forward to that time.#MTLed
 > END STRING
 
 > BEGIN STRING
 "MAIL[999].txt"
 > CONTEXT: Scripts/テキスト出力/244:19
-"MAIL[999].txt"#NoTL
+"MAIL[999].txt"#MTLed
+> END STRING
+
+> BEGIN STRING
+"件名：私のミスだ
+> CONTEXT: Scripts/テキスト出力/245:12
+"subject：It is my mistake.#MTLed
+> END STRING
+
+> BEGIN STRING
+君を適任だと勘違いしていた。
+> CONTEXT: Scripts/テキスト出力/249:1
+I was misunderstanding that you were qualified.#MTLed
+> END STRING
+
+> BEGIN STRING
+あの『ゲーム』に潜ませれば、手に取るのは
+> CONTEXT: Scripts/テキスト出力/250:1
+that『game』If you hide in the hands,#MTLed
+> END STRING
+
+> BEGIN STRING
+『そういう人間』だけだとタカをくくっていた。
+> CONTEXT: Scripts/テキスト出力/251:1
+『Such a human being』Just as I was hooking a hawk.#MTLed
+> END STRING
+
+> BEGIN STRING
+だが君が手にした。
+> CONTEXT: Scripts/テキスト出力/253:1
+But you got it.#MTLed
+> END STRING
+
+> BEGIN STRING
+そして、プレイしてしまった。
+> CONTEXT: Scripts/テキスト出力/254:1
+And I played.#MTLed
+> END STRING
+
+> BEGIN STRING
+あの世界は、君にとって無縁だが、確かに存在する。
+> CONTEXT: Scripts/テキスト出力/255:1
+That world is unrelated to you, but it certainly exists.#MTLed
+> END STRING
+
+> BEGIN STRING
+ 君は、あの世界の運命を滅茶苦茶にした。
+> CONTEXT: Scripts/テキスト出力/256:1
+ You made that world fate funny.#MTLed
+> END STRING
+
+> BEGIN STRING
+もう、『それ』は破壊されてしまった。
+> CONTEXT: Scripts/テキスト出力/258:1
+Already,『That』It has been destroyed.#MTLed
+> END STRING
+
+> BEGIN STRING
+ 『ゲーム』としても『装置』としても、機能しない。
+> CONTEXT: Scripts/テキスト出力/259:1
+ 『game』Also as『apparatus』Even, it does not work.#MTLed
+> END STRING
+
+> BEGIN STRING
+ 君が、あの世界に未練があるというなら
+> CONTEXT: Scripts/テキスト出力/260:1
+ If you say that that world is premature#MTLed
+> END STRING
+
+> BEGIN STRING
+新しい『装置』を使うしかない。
+> CONTEXT: Scripts/テキスト出力/261:1
+new『apparatus』There is no choice but to use.#MTLed
+> END STRING
+
+> BEGIN STRING
+あるいは………いや、やめておこう。
+> CONTEXT: Scripts/テキスト出力/262:1
+Or.........No, stop.#MTLed
+> END STRING
+
+> BEGIN STRING
+この方法は、君にとってもマイナスばかりだ。
+> CONTEXT: Scripts/テキスト出力/263:1
+This method is minus for you too.#MTLed
+> END STRING
+
+> BEGIN STRING
+ただ……ひとつ、約束してほしい。
+> CONTEXT: Scripts/テキスト出力/265:1
+Just...... One promise me.#MTLed
+> END STRING
+
+> BEGIN STRING
+この結末の世界は、これっきりにしてほしい。
+> CONTEXT: Scripts/テキスト出力/267:1
+I hope this clear ending world is clear.#MTLed
+> END STRING
+
+> BEGIN STRING
+=================================================="
+> CONTEXT: Scripts/テキスト出力/268:1
+==========================================================="#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -12724,13 +13869,13 @@ Troubleshooting 'Troubleshooting?
 > CONTEXT: Scripts/クレジットリンク/33:6
 > CONTEXT: Scripts/クレジットリンク/34:6
 > CONTEXT: Scripts/クレジットリンク/35:6
-"ひきも記は閉鎖しました。"#NoTL
+"Dictionary closed。"#MTLed
 > END STRING
 
 > BEGIN STRING
 "制作"
 > CONTEXT: Scripts/クレジットリンク/33:22
-"制作"#NoTL
+"Production"#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -12738,66 +13883,66 @@ Troubleshooting 'Troubleshooting?
 > CONTEXT: Scripts/クレジットリンク/33:28
 > CONTEXT: Scripts/クレジットリンク/34:31
 > CONTEXT: Scripts/クレジットリンク/35:32
-"http://hikimoki.sakura.ne.jp/"#NoTL
+"http://hikimoki.sakura.ne.jp/"#MTLed
 > END STRING
 
 > BEGIN STRING
 "スクリプト"
 > CONTEXT: Scripts/クレジットリンク/34:22
-"スクリプト"#NoTL
+"script"#MTLed
 > END STRING
 
 > BEGIN STRING
 "グラフィック"
 > CONTEXT: Scripts/クレジットリンク/35:22
-"グラフィック"#NoTL
+"graphic"#MTLed
 > END STRING
 
 > BEGIN STRING
 "shell32"
 > CONTEXT: Scripts/クレジットリンク/52:22
-"shell32"#NoTL
+"shell32"#MTLed
 > END STRING
 
 > BEGIN STRING
 "ShellExecuteA"
 > CONTEXT: Scripts/クレジットリンク/52:33
-"ShellExecuteA"#NoTL
+"ShellExecuteA"#MTLed
 > END STRING
 
 > BEGIN STRING
 "i"
 > CONTEXT: Scripts/クレジットリンク/52:66
-"i"#NoTL
+"i"#MTLed
 > END STRING
 
 > BEGIN STRING
 "open"
 > CONTEXT: Scripts/クレジットリンク/53:15
-"open"#NoTL
+"open"#MTLed
 > END STRING
 
 > BEGIN STRING
 "%s (%s)"
 > CONTEXT: Scripts/クレジットリンク/131:31
-"%s (%s)"#NoTL
+"%s (%s)"#MTLed
 > END STRING
 
 > BEGIN STRING
 "\\\\C[16]%s\\\\C[0] %s"
 > CONTEXT: Scripts/クレジットリンク/138:16
-"\\\\C[16]%s\\\\C[0] %s"#NoTL
+"\\\\C[16]%s\\\\C[0] %s"#MTLed
 > END STRING
 
 > BEGIN STRING
 "\\n\\\\C[2](決定ボタンでサイトにアクセスできます)"
 > CONTEXT: Scripts/クレジットリンク/139:10
-"\\n\\\\C[2](決定ボタンでサイトにアクセスできます)"#NoTL
+"\\n\\\\C[2](You can access the site with the decision button)"#MTLed
 > END STRING
 
 > BEGIN STRING
 "readme.txt"
 > CONTEXT: Scripts/クレジットリンク/178:33
-"readme.txt"#NoTL
+"readme.txt"#MTLed
 > END STRING
 
