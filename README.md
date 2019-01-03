@@ -68,7 +68,7 @@ You can only select chapters that have been played and
 chapters in progress#MTLed
 > END STRING
 ```
-The only scripts whose text is extracted are custom scripts. Thay can be tricky sometimes and RPGMTrans can't be trusted with it.
+The only scripts whose text is extracted are custom scripts. They can be tricky sometimes and RPGMTrans can't be trusted with it.
 ```
 > BEGIN STRING
 "件名：理由
