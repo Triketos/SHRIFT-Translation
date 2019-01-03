@@ -111,13 +111,13 @@ Completion rate of 100% is required for all documents.
 > BEGIN STRING
 お待ちしておりました。\\N[1]様。
 > CONTEXT: Map025/events/28/pages/0/0/Dialogue
-I have been waiting for you. \\N[1] Mr.#MTLed
+I've been expecting you, \\N[1]-sama.#Ron
 > END STRING
 
 > BEGIN STRING
 ここは………！？
 > CONTEXT: Map025/events/28/pages/0/2/Dialogue
-here………!?#MTLed
+What is this place...!?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -125,8 +125,8 @@ here………!?#MTLed
 
 人の生涯が、本として記録され保管されていく場所…
 > CONTEXT: Map025/events/28/pages/0/4/Dialogue
-This is a memory library. Where people 's
-lifetime is recorded and kept as a book ...#MTLed
+This is a memory library. Where people's lives
+are recorded and kept as books...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -134,9 +134,10 @@ lifetime is recorded and kept as a book ...#MTLed
 
 ここで生前の行いを見定め、判断材料とします。
 > CONTEXT: Map025/events/28/pages/0/8/Dialogue
-Those who are in the position of sorting souls
-like ours. Here we will look at the actions
-before life and use it as a judgment material.#MTLed
+Those in charge of sorting souls, such as Our
+Lord, come here to ascertain the actions taken
+in a person's lifetime, and use that to decide
+their fate.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -144,8 +145,9 @@ before life and use it as a judgment material.#MTLed
 
 私は秘書として、ここの管理を任されています。
 > CONTEXT: Map025/events/28/pages/0/12/Dialogue
-In other words, "Enma book"...is what you say.
-As a secretary, I am assigned to manage here.#MTLed
+You could call it a "Gradebook" of sorts.
+As a secretary, I am assigned to manage this
+place.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -153,9 +155,9 @@ As a secretary, I am assigned to manage here.#MTLed
 
 この『悪魔全書』を是非、利用して欲しいのです。
 > CONTEXT: Map025/events/28/pages/0/16/Dialogue
-And here's what you want to do "is here ....
-I'd like you to use this "all demons" by all
-means.#MTLed
+And the thing I want you to do, is here...
+I would like you to utilize this "Complete Book
+of Demons".#Ron
 > END STRING
 
 > BEGIN STRING
@@ -163,7 +165,8 @@ means.#MTLed
 
 その赤い本のことか？
 > CONTEXT: Map025/events/28/pages/0/20/Dialogue
-"All demons"? Do you mean that red book?#MTLed
+"Complete Book of Demons"? Do you mean that red
+book?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -173,9 +176,9 @@ means.#MTLed
 もはや、この冥府の間で裁かれることもありません。
 > CONTEXT: Map025/events/28/pages/0/24/Dialogue
 This book was originally recorded as a book of
-your life. But as you explained earlier, you are
-a soul out of reason. It is no longer tried by
-this Hell's Gate.#MTLed
+your life. But as explained earlier, you are a
+a soul beyond reason. It can no longer be judged
+by this Hell's Gate.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -183,9 +186,9 @@ this Hell's Gate.#MTLed
 
 この本には\\C[2]貴方が出会った悪魔の記録がされていきます。
 > CONTEXT: Map025/events/28/pages/0/29/Dialogue
-So I added some hands to this book I no longer
-need. In this book\\C[2] The demon record that you met
-will be recorded.#MTLed
+So I've made some small revisions to this book
+that is no longer necessary. In this book \\C[2]
+your encounters with demons will be recorded.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -193,9 +196,9 @@ will be recorded.#MTLed
 
 それだけ深く、この全書は書き込まれてゆくでしょう。
 > CONTEXT: Map025/events/28/pages/0/33/Dialogue
-Not only will we meet but if we look at the
-various women's figures. That much deeply, this
-whole book will be written.#MTLed
+And it's more than just meeting them, only by
+seeing all their various forms will you complete
+the entire book.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -203,14 +206,14 @@ whole book will be written.#MTLed
 
 私に『証明』して欲しいのです。
 > CONTEXT: Map025/events/28/pages/0/37/Dialogue
-Come and fill this whole book up to every corner
-I want you to "prove" to me.#MTLed
+I want you to fill out every page of this book
+as proof to me.#MTLed
 > END STRING
 
 > BEGIN STRING
 『証明』って………一体何を？
 > CONTEXT: Map025/events/28/pages/0/41/Dialogue
-What is "proof" ......... what on earth?#MTLed
+"Proof"... What on earth?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -219,10 +222,9 @@ What is "proof" ......... what on earth?#MTLed
 ですがそれは、きっと貴方が『悪魔とともに歩む』事を
 選択しなければ、無に帰すのでしょうが……。
 > CONTEXT: Map025/events/28/pages/0/43/Dialogue
-Well, I will tell you. But, it is surely that you
-are "Walk the devil path" thing
-If you do not select it, it will be absent ...
-....#MTLed
+That's a conversation for another day. But if
+you do not choose to "Walk with demons", it
+will surely all be for nothing...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -231,9 +233,8 @@ If you do not select it, it will be absent ...
 \\C[2]現実世界へのお帰りは、先程の部屋にある『穴』からどうぞ…
 > CONTEXT: Map025/events/28/pages/0/49/Dialogue
 Well then, I will return to work.
-\\C[2]Please return from the "hole" in the room in the
-previous way for you to return to the real world
-...#MTLed
+\\C[2]Please return to the real world using the
+hole in the room before...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -241,9 +242,9 @@ previous way for you to return to the real world
 
 \\C[2]休憩所にある、『青い扉』からいつでもどうぞ…。
 > CONTEXT: Map025/events/28/pages/0/53/Dialogue
-Also, when you come to this Hell's Gate from next
-time. \\C[2]Always from the "blue door" in the rest
-area ....#MTLed
+Also, if you want to come back to this Hell's
+Gate, feel free to use \\C[2]the "blue door" in
+the rest area...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -252,9 +253,8 @@ area ....#MTLed
 あなたにとって、この短い旅が
 なにかしらの実りのあるものになりますよう……。
 > CONTEXT: Map025/events/28/pages/0/57/Dialogue
-I will always see it. For you, this short trip
-It seems that it will be somehow fruitful ...
-....#MTLed
+I'm always keeping an eye on it. I hope this
+short trip was fruitful for you in some way...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -262,7 +262,7 @@ It seems that it will be somehow fruitful ...
 
 『悪魔全書』……か。
 > CONTEXT: Map025/events/28/pages/0/71/Dialogue
-..................... "All demons" ...?#MTLed
+.............. "Complete Book of Demons"...?#Ron
 > END STRING
 
 > BEGIN STRING

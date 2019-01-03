@@ -218,15 +218,15 @@ Tighten your mind!#MTLed
 おう、元気か？
 > CONTEXT: Map036/events/14/pages/2/0/Dialogue
 > CONTEXT: Map011/events/12/pages/1/0/Dialogue
-Oh, how are you?#MTLed
+Hey, how are you?#Ron
 > END STRING
 
 > BEGIN STRING
 『休憩所』について、分からないことがあったら教えるぜ
 > CONTEXT: Map036/events/14/pages/2/4/Dialogue
 > CONTEXT: Map011/events/12/pages/1/4/Dialogue
-I will teach you about "resting place" if there
-is something you do not understand#MTLed
+I'll teach you anything you don't understand
+about "rest areas".#Ron
 > END STRING
 
 > BEGIN STRING
@@ -234,7 +234,7 @@ is something you do not understand#MTLed
 > CONTEXT: Map036/events/14/pages/2/6/Choice/0
 > CONTEXT: Map022/events/1/pages/0/6/Choice/0
 > CONTEXT: Map011/events/12/pages/1/6/Choice/0
-What is "Resting place"?#MTLed
+"Rest area"?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -242,7 +242,7 @@ What is "Resting place"?#MTLed
 > CONTEXT: Map036/events/14/pages/2/6/Choice/1
 > CONTEXT: Map022/events/1/pages/0/6/Choice/1
 > CONTEXT: Map011/events/12/pages/1/6/Choice/1
-"bed"#MTLed
+Beds#Ron
 > END STRING
 
 > BEGIN STRING
@@ -250,7 +250,7 @@ What is "Resting place"?#MTLed
 > CONTEXT: Map036/events/14/pages/2/6/Choice/2
 > CONTEXT: Map022/events/1/pages/0/6/Choice/2
 > CONTEXT: Map011/events/12/pages/1/6/Choice/2
-"Tea set"#MTLed
+Tea sets#Ron
 > END STRING
 
 > BEGIN STRING
@@ -258,7 +258,7 @@ What is "Resting place"?#MTLed
 > CONTEXT: Map036/events/14/pages/2/6/Choice/3
 > CONTEXT: Map022/events/1/pages/0/6/Choice/3
 > CONTEXT: Map011/events/12/pages/1/6/Choice/3
-"capsule"#MTLed
+Capsules#Ron
 > END STRING
 
 > BEGIN STRING
@@ -267,10 +267,11 @@ What is "Resting place"?#MTLed
 『安全地帯』のことだよ。
 > CONTEXT: Map036/events/14/pages/2/8/Dialogue
 > CONTEXT: Map011/events/12/pages/1/8/Dialogue
-There are several places in the story
-It is "safe area".#MTLed
+There are several of these places in the story.
+They're safe zones.#Ron
 > CONTEXT: Map022/events/1/pages/0/8/Dialogue
-There are several places in the story. It is "safe area".#MTLed
+There are several of these places in the story.
+They're safe zones.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -279,9 +280,9 @@ There are several places in the story. It is "safe area".#MTLed
 \\C[2]お前を襲おう\\c[0]なんて考えてるヤツはまず入って来れない。
 > CONTEXT: Map036/events/14/pages/2/12/Dialogue
 > CONTEXT: Map011/events/12/pages/1/12/Dialogue
-There is a "barrier" that keeps the evil from
-falling. \\C[2]Let's attack you\\c[0] First of all, I can not
-get a guy thinking about it.#MTLed
+There are barriers here that ward away evil.
+\\C[2]Anyone thinking of attacking you\\c[0] can't get in
+here.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -290,8 +291,8 @@ get a guy thinking about it.#MTLed
 次の戦いに備えるんだな。
 > CONTEXT: Map036/events/14/pages/2/16/Dialogue
 > CONTEXT: Map011/events/12/pages/1/16/Dialogue
-So rest assured to restore your physical strength
-and save. Prepare for the next battle.#MTLed
+So take it easy and rest and save your game.
+Prepare for the next battle.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -300,9 +301,9 @@ and save. Prepare for the next battle.#MTLed
 まぁだいたいは「！」マークが出てるだろうが…。
 > CONTEXT: Map036/events/14/pages/2/20/Dialogue
 > CONTEXT: Map011/events/12/pages/1/20/Dialogue
-I do not know when event fight or boss fight will
-start. Well, mostly「!」I wonder if the mark has
-come out ....#MTLed
+You never know when the next event or boss fight
+will happen. Well, it's mostly when you activate
+a 「!」 mark...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -311,9 +312,9 @@ come out ....#MTLed
 この部屋だと、右隅にあるな。
 > CONTEXT: Map036/events/14/pages/2/27/Dialogue
 > CONTEXT: Map011/events/12/pages/1/27/Dialogue
-"Bed" makes willpower and vitality fully
-comfortable, lust be 0. This room is in the right
-corner.#MTLed
+Beds will fully restore your Willpower and
+Vitality, and reset your Lust to 0. It's in the
+bottom right-hand corner of this room.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -322,9 +323,9 @@ corner.#MTLed
 休憩所に寄ったら利用していくといいぜ。
 > CONTEXT: Map036/events/14/pages/2/31/Dialogue
 > CONTEXT: Map011/events/12/pages/1/31/Dialogue
-It does not consume something, so even with a
-small decline. I hope you use it when you go to a
-rest area.#MTLed
+Using it doesn't consume any items, so you
+should use it whenever you stop by a rest area,
+even if your stats have only decreased a little.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -333,9 +334,9 @@ rest area.#MTLed
 \\C[2]休憩所以外の部屋にあるベッドは、休んだら危険だぞ。
 > CONTEXT: Map036/events/14/pages/2/35/Dialogue
 > CONTEXT: Map011/events/12/pages/1/35/Dialogue
-Just.........The bed in the resting place is
-indeed safe...... \\C[2]A bed in a room other than a
-resting place is dangerous if it is absent.#MTLed
+However... While the beds in rest areas are safe,
+\\C[2]Using beds in rooms other than rest areas
+is dangerous.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -344,9 +345,9 @@ resting place is dangerous if it is absent.#MTLed
 \\C[2]寝ている最中に、襲われる危険があるからな。
 > CONTEXT: Map036/events/14/pages/2/39/Dialogue
 > CONTEXT: Map011/events/12/pages/1/39/Dialogue
-Depending on physical fitness and lust condition
-... \\C[2]There is a danger of being attacked while
-sleeping.#MTLed
+Depending on the state of your strength and lust
+\\C[2]there is a risk of being attacked while
+sleeping.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -355,8 +356,9 @@ sleeping.#MTLed
 基本的には『ベッド』と同じ効果だよ
 > CONTEXT: Map036/events/14/pages/2/46/Dialogue
 > CONTEXT: Map011/events/12/pages/1/46/Dialogue
-It is a guy next to save terminal.
-Basically it's the same effect as 'bed'#MTLed
+It's the thing next to the save terminal.
+Basically, it has the same effect as using the
+bed.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -365,12 +367,13 @@ Basically it's the same effect as 'bed'#MTLed
 \\C[2]休憩すると、『ハーブティー』のバフがつく。
 > CONTEXT: Map036/events/14/pages/2/50/Dialogue
 > CONTEXT: Map011/events/12/pages/1/50/Dialogue
-However, to use it " \\i[201]\\c[3] Herbs\\c[0] It is necessary
-\\C[2]When you take a break, you get the buff of
-"herbal tea".#MTLed
+But you need \\i[201]\\c[3] Herbs\\c[0] to use it.
+\\C[2]You'll get the "herbal tea" buff after you
+rest.#Ron
 > CONTEXT: Map022/events/1/pages/0/50/Dialogue
-However, to use it " \\i[201]\\c[3] Herbs\\c[0] It is necessary
-\\C[2]When you take a break, you get the buff of "herbal tea".#MTLed
+But you need \\i[201]\\c[3] Herbs\\c[0] to use it.
+\\C[2]You'll get the "herbal tea" buff after you
+rest.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -379,11 +382,11 @@ However, to use it " \\i[201]\\c[3] Herbs\\c[0] It is necessary
 \\C[2]ダメージによる性欲ゲージの上昇量を減少させるんだ。
 > CONTEXT: Map036/events/14/pages/2/54/Dialogue
 > CONTEXT: Map011/events/12/pages/1/54/Dialogue
-For a while, \\C[2]It reduces the amount of luster bar
-rise due to damage.#MTLed
+That will \\C[2]temporarily reduce the amount of lust
+you get when you take damage.#Ron
 > CONTEXT: Map022/events/1/pages/0/54/Dialogue
-For a while, \\C[2]It reduces the amount of luster bar rise due
-to damage.#MTLed
+That will \\C[2]temporarily reduce the amount of lust
+you get when you take damage.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -392,8 +395,8 @@ to damage.#MTLed
 積極的に利用するといいぜ。
 > CONTEXT: Map036/events/14/pages/2/58/Dialogue
 > CONTEXT: Map011/events/12/pages/1/58/Dialogue
-If it is before the boss fight, if the herbs seem
-to be left over. You should actively use it.#MTLed
+You should definitely use them if you've got
+some left over before a boss fight.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -402,9 +405,9 @@ to be left over. You should actively use it.#MTLed
 \\C[2]体内の潜在能力を引き出す装置だ。
 > CONTEXT: Map036/events/14/pages/2/65/Dialogue
 > CONTEXT: Map011/events/12/pages/1/65/Dialogue
-"Capsule", the military put it in various rest
-areas. \\C[2]It is a device that draws out the
-potential in the body.#MTLed
+The military have put "capsules" in various rest
+areas. \\C[2]It's a device that draws out the
+potential in the body.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -413,8 +416,8 @@ potential in the body.#MTLed
 だから上げられる能力には限りがある。
 > CONTEXT: Map036/events/14/pages/2/69/Dialogue
 > CONTEXT: Map011/events/12/pages/1/69/Dialogue
-Safety is applied considering safety properly
-So the ability to be raised is limited.#MTLed
+Safety has been properly taken into account. So
+you can only raise your abilities so much.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -423,9 +426,9 @@ So the ability to be raised is limited.#MTLed
 使用者の肉体の状態で自動決定しているらしい。
 > CONTEXT: Map036/events/14/pages/2/73/Dialogue
 > CONTEXT: Map011/events/12/pages/1/73/Dialogue
-This is indicated as "SP (skill point)"
-It seems that it is automatically decided by the
-state of the body of the user.#MTLed
+This is indicated as "SP (skill points)".
+They are apparently automatically decided by the
+state of the user's body.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -434,11 +437,11 @@ state of the body of the user.#MTLed
 使える『ＳＰ（スキルポイント）』が増えていく。
 > CONTEXT: Map036/events/14/pages/2/77/Dialogue
 > CONTEXT: Map011/events/12/pages/1/77/Dialogue
-But if the level goes up or demon likes it
-The available "SP (skill point)" will increase.#MTLed
+But if your level goes up, or a demon likes you,
+your available SP will increase.#Ron
 > CONTEXT: Map022/events/1/pages/0/73/Dialogue
-But if the level goes up or demon likes it
-The available "SP (skill point)" will increase.#MTLed
+But if your level goes up, or a demon likes you,
+your available SP will increase.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -447,9 +450,9 @@ The available "SP (skill point)" will increase.#MTLed
 魔法の場合は、やり直したい時は『←キー』を押すといいぜ。
 > CONTEXT: Map036/events/14/pages/2/81/Dialogue
 > CONTEXT: Map011/events/12/pages/1/81/Dialogue
-\\C[2]To learn "decision" or "→ key".
-In the case of magic, when you want to start
-over, press "← key".#MTLed
+\\C[2]To learn something, press "enter" or
+the "→ key". You can undo learned magic by
+pressing the "← key".#Ron
 > END STRING
 
 > BEGIN STRING
@@ -459,10 +462,10 @@ over, press "← key".#MTLed
 \\C[0]慎重に上げてけよ。
 > CONTEXT: Map036/events/14/pages/2/85/Dialogue
 > CONTEXT: Map011/events/12/pages/1/85/Dialogue
-Although magic can easily learn acquisition,
-\\C[2]It is impossible to redo the ability value
-strengthening the physical load.
-\\C[0]Just give it up carefully.#MTLed
+Although magic can be easily unlearned,
+\\C[2]It's impossible to undo the physical abilities
+that you've activated.
+\\C[0]Choose carefully.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -470,14 +473,14 @@ strengthening the physical load.
 > CONTEXT: Map036/events/14/pages/2/93/Choice/0
 > CONTEXT: Map022/events/1/pages/0/84/Choice/0
 > CONTEXT: Map011/events/12/pages/1/93/Choice/0
-"Workbench"#MTLed
+Workbench#MTLed
 > END STRING
 
 > BEGIN STRING
 『保管ボックス』
 > CONTEXT: Map036/events/14/pages/2/93/Choice/1
 > CONTEXT: Map011/events/12/pages/1/93/Choice/1
-"Storage Box"#MTLed
+Storage Box#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -485,7 +488,7 @@ strengthening the physical load.
 > CONTEXT: Map036/events/14/pages/2/93/Choice/2
 > CONTEXT: Map022/events/1/pages/0/84/Choice/2
 > CONTEXT: Map011/events/12/pages/1/93/Choice/2
-As expected#MTLed
+Nothing#Ron
 > END STRING
 
 > BEGIN STRING
@@ -494,9 +497,9 @@ As expected#MTLed
 カプセルの上にある、机みたいなところだな。
 > CONTEXT: Map036/events/14/pages/2/95/Dialogue
 > CONTEXT: Map011/events/12/pages/1/95/Dialogue
-"Workbench" is a place to do a variety of work as
-its name suggests. It's like a desk on the
-capsule.#MTLed
+The workbench is a place to do a variety of work
+as its name suggests. It's the desk-like thing
+located up from the capsule.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -505,13 +508,13 @@ capsule.#MTLed
 対応した弾倉にこめ直して使えるようにしたり…
 > CONTEXT: Map036/events/14/pages/2/99/Dialogue
 > CONTEXT: Map011/events/12/pages/1/99/Dialogue
-The bullet collected at the time of reloading
-It is possible to fix it by using the
-corresponding magazine ...#MTLed
+From there, it's possible to reload the spent
+bullets collected after a reload back into a
+magazine so you can use them again.#Ron
 > CONTEXT: Map022/events/1/pages/0/90/Dialogue
-The bullet collected at the time of reloading
-It is possible to fix it by using the corresponding
-magazine ...#MTLed
+From there, it's possible to reload the spent
+bullets collected after a reload back into a
+magazine so you can use them again.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -520,12 +523,13 @@ magazine ...#MTLed
 全然別のモノに加工できたりもする。
 > CONTEXT: Map036/events/14/pages/2/103/Dialogue
 > CONTEXT: Map011/events/12/pages/1/103/Dialogue
-If we have even working tools, we can also modify
-weapons. It can also be processed to another
-thing at all.#MTLed
+You can also modify weapons if you have the
+right tools. You can even reprocess them into
+something entirely different.#Ron
 > CONTEXT: Map022/events/1/pages/0/94/Dialogue
-If we have even working tools, we can also modify weapons
-It can also be processed to another thing at all.#MTLed
+You can also modify weapons if you have the
+right tools. You can even reprocess them into
+something entirely different.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -534,9 +538,9 @@ It can also be processed to another thing at all.#MTLed
 どんどん増えていくから、ちょくちょく覗いてくといいぜ。
 > CONTEXT: Map036/events/14/pages/2/107/Dialogue
 > CONTEXT: Map011/events/12/pages/1/107/Dialogue
-When we get related weapons and items, the recipe
-Since it will increase more and more, please
-watch it for a while.#MTLed
+Available recipes will gradually increase as you
+acquire the relevant weapons and items, so you
+should take a look every now and then.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -545,8 +549,8 @@ watch it for a while.#MTLed
 これは『体験版』にはなかったよな。
 > CONTEXT: Map036/events/14/pages/2/114/Dialogue
 > CONTEXT: Map011/events/12/pages/1/114/Dialogue
-It's a wooden big box on the side of the bed.
-This was not in the "trial version".#MTLed
+It's the big wooden box by the bed.
+This wasn't in the trial version.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -555,9 +559,9 @@ This was not in the "trial version".#MTLed
 ここに入れて、使うときに取り出すといいぜ。
 > CONTEXT: Map036/events/14/pages/2/118/Dialogue
 > CONTEXT: Map011/events/12/pages/1/118/Dialogue
-Items that can not possibly be taken or not used
-weapons. Put it here and take it out when you use
-it.#MTLed
+If you've got items you can't carry, or weapons
+you can't use, put them in there. And take them
+out when you need to use them.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -566,9 +570,9 @@ it.#MTLed
 持てなかった物は、ここに自動転送される。
 > CONTEXT: Map036/events/14/pages/2/122/Dialogue
 > CONTEXT: Map011/events/12/pages/1/122/Dialogue
-In items such as found in the road, the
-possession is full. Things you did not have are
-automatically transferred here.#MTLed
+If you pick up something you can't hold on to
+because your inventory's full, it'll be
+automatically transferred there.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -577,7 +581,7 @@ automatically transferred here.#MTLed
 ちょくちょく補充して、ピンチにならないようにするんだぜ。
 > CONTEXT: Map036/events/14/pages/2/126/Dialogue
 > CONTEXT: Map011/events/12/pages/1/126/Dialogue
-You know a number of what you can own.
-Improve it regularly so that it does not become a
-pinch.#MTLed
+You know how much you can carry at one time.
+If you don't frequently replenish your stock
+you'll find yourself in trouble.#Ron
 > END STRING

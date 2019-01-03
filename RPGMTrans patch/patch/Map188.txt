@@ -1,22 +1,15 @@
-﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 ！！！？なんだ！！
 > CONTEXT: Map188/events/46/pages/0/14/Dialogue
 > CONTEXT: Map188/events/46/pages/1/14/Dialogue
-> CONTEXT: Map050/events/46/pages/0/14/Dialogue
-> CONTEXT: Map050/events/46/pages/1/14/Dialogue
-> CONTEXT: Map014/events/1/pages/0/84/Dialogue
-> CONTEXT: Map014/events/1/pages/1/87/Dialogue
-> CONTEXT: Map014/events/1/pages/2/39/Dialogue
-!!!? what! !#MTLed
+!!!? What the hell!!#Ron
 > END STRING
 
 > BEGIN STRING
 ……！！\\N[1]！！正面だ！！
 > CONTEXT: Map188/events/46/pages/0/16/Dialogue
 > CONTEXT: Map188/events/46/pages/1/16/Dialogue
-> CONTEXT: Map050/events/46/pages/0/16/Dialogue
-> CONTEXT: Map050/events/46/pages/1/16/Dialogue
 ......!!\\N[1]!! It's front! !#MTLed
 > END STRING
 
@@ -26,14 +19,9 @@
 これより本部に帰投する。
 > CONTEXT: Map188/events/46/pages/0/24/Dialogue
 > CONTEXT: Map188/events/46/pages/1/24/Dialogue
-> CONTEXT: Map050/events/46/pages/0/24/Dialogue
-> CONTEXT: Map050/events/46/pages/1/24/Dialogue
-> CONTEXT: Map014/events/1/pages/0/91/Dialogue
-> CONTEXT: Map014/events/1/pages/1/94/Dialogue
-> CONTEXT: Map014/events/1/pages/2/46/Dialogue
-Transfer complete. There is no problem with both
-arrival coordinates and conditions.
-I will return to the head office from this.#MTLed
+Transfer complete. There were no issues with
+either arrival coordinates or conditions.
+Retuning to HQ.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -41,10 +29,13 @@ I will return to the head office from this.#MTLed
 　　　　　『E-003』を搭載するのを忘れずにな。」
 > CONTEXT: Map188/events/46/pages/0/28/Dialogue
 > CONTEXT: Map188/events/46/pages/1/28/Dialogue
-> CONTEXT: Map050/events/46/pages/0/28/Dialogue
-> CONTEXT: Map050/events/46/pages/1/28/Dialogue
-Voice of radio「No, just wait in the branch as before.
-Do not forget to install "E - 003".」#MTLed
+Voice on Radio「Negative, remain on standby at
+that branch as before. Do not forget to load
+"E-003".」#Ron
+> CONTEXT: None < UNUSED
+Voice on Radio「Negative, remain on standby at
+that branch as before. Do not forget to load
+"E-003".」#Ron
 > END STRING
 
 > BEGIN STRING
