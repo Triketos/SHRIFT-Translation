@@ -1,8 +1,8 @@
-﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 はぁっ……………！はぁっ…………！！
 > CONTEXT: Map014/events/1/pages/0/16/Dialogue
-Aah...............! Aah............! !#MTLed
+Haaah...............! Haaah............!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -10,8 +10,8 @@ Aah...............! Aah............! !#MTLed
 
 これでひと安心のはずだ。
 > CONTEXT: Map014/events/1/pages/0/18/Dialogue
-.................. Okay, the door locked!
-You should be relieved with this.#MTLed
+.................. Okay, the door's locked!
+You should be safe now.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -29,15 +29,14 @@ got off! !#MTLed
 
 息が上がっているぞ。
 > CONTEXT: Map014/events/1/pages/0/26/Dialogue
-Sit down and rest for a while \\N[1] .
-Your breath is rising.#MTLed
+Sit down and rest for a while \\N[1].
+You're out of breath.#Ron
 > END STRING
 
 > BEGIN STRING
 こ………この区域に悪魔は………！？
 > CONTEXT: Map014/events/1/pages/0/33/Dialogue
-Here ......... demon in this area .........!
-?#MTLed
+A- Are there... demons here too...?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -45,9 +44,9 @@ Here ......... demon in this area .........!
 
 だが厄介だな……区画全体の電源が死んでいる……
 > CONTEXT: Map014/events/1/pages/0/35/Dialogue
-For now, there is no reaction.
-However, it is troubling ...... The power supply
-of the whole compartment is dead.......#MTLed
+There's no response at this stage.
+But it's worrying... The power supply for the
+whole section is dead.......#Ron
 > END STRING
 
 > BEGIN STRING
@@ -55,9 +54,9 @@ of the whole compartment is dead.......#MTLed
 
 休憩所とこの通路くらいの電源は補えるが……。
 > CONTEXT: Map014/events/1/pages/0/39/Dialogue
-Turning the power of the boiler earlier,
-I will supplement the rest area and the power
-supply of this passage.......#MTLed
+The power transmitted from that boiler earlier
+is supplementing the power supply of this
+corridor and a rest area.......#Ron
 > END STRING
 
 > BEGIN STRING
@@ -65,14 +64,14 @@ supply of this passage.......#MTLed
 
 この突き当たりにある休憩所に入ろう。
 > CONTEXT: Map014/events/1/pages/0/43/Dialogue
-Anyway, if your breathing calms down
-Let's enter a rest area at this end.#MTLed
+For now, let's go into the rest area up ahead
+once your breathing settles down.#Ron
 > END STRING
 
 > BEGIN STRING
 わ、分かった……。
 > CONTEXT: Map014/events/1/pages/0/47/Dialogue
-I know ....#MTLed
+U- understood...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -82,8 +81,8 @@ I know ....#MTLed
 > CONTEXT: Map014/events/1/pages/0/50/Dialogue
 > CONTEXT: Map014/events/1/pages/1/53/Dialogue
 > CONTEXT: Map014/events/1/pages/2/5/Dialogue
-That said...... I heard a little while ago ....
-Micah and Reina?Are they still fine now?#MTLed
+That reminds me... I forgot to ask this before...
+Are Micah and Reina both okay?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -94,9 +93,9 @@ Micah and Reina?Are they still fine now?#MTLed
 > CONTEXT: Map014/events/1/pages/0/54/Dialogue
 > CONTEXT: Map014/events/1/pages/1/57/Dialogue
 > CONTEXT: Map014/events/1/pages/2/9/Dialogue
-Oh, I do it well. However, as soon as demon's
-riot began. Love each other, it is not so much
-... but ....#MTLed
+Yeah they're doing fine. But then as soon as
+the demon strife began, it wasn't really the
+time or place to worry about stuff like love.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -107,11 +106,11 @@ riot began. Love each other, it is not so much
 > CONTEXT: Map014/events/1/pages/0/59/Dialogue
 > CONTEXT: Map014/events/1/pages/1/62/Dialogue
 > CONTEXT: Map014/events/1/pages/2/14/Dialogue
-I have to ask Micah to follow me and enter the
-army...Besides, I would like to attend clerical
-work, I expressly wish to expressly express to
-the actual warfare unit...I will not ask you
-once I tell you ....#MTLed
+Micah followed me into the army, I didn't ask
+her to. Not only that, it would've been fine for
+her to do clerical work, but she specifically
+volunteered for frontline fighting, and didn't
+mention it to me once.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -121,10 +120,10 @@ once I tell you ....#MTLed
 > CONTEXT: Map014/events/1/pages/0/64/Dialogue
 > CONTEXT: Map014/events/1/pages/1/67/Dialogue
 > CONTEXT: Map014/events/1/pages/2/19/Dialogue
-If you leave me thinking that it will raise the
-sound in any few days, Heitsu, you are the
-captain of a unit just like me?
-It is not becoming sharp, totally ..........#MTLed
+I let her go thinking she'd probably give up in
+a few days. That girl, she's now the captain of
+a unit just like me.
+That's seriously not cool...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -134,8 +133,8 @@ It is not becoming sharp, totally ..........#MTLed
 > CONTEXT: Map014/events/1/pages/0/68/Dialogue
 > CONTEXT: Map014/events/1/pages/1/71/Dialogue
 > CONTEXT: Map014/events/1/pages/2/23/Dialogue
-Hihih ...... It has not changed since five years
-ago. Micah, you also have been swayed by it.#MTLed
+Fufufu... Nothing's changed in five years huh.
+You and Micah both always get your way.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -145,10 +144,9 @@ ago. Micah, you also have been swayed by it.#MTLed
 > CONTEXT: Map014/events/1/pages/0/72/Dialogue
 > CONTEXT: Map014/events/1/pages/1/75/Dialogue
 > CONTEXT: Map014/events/1/pages/2/27/Dialogue
-...... Oh, but if you're going in this way. I
-fell asleep for five years and I
-Of course, it seems Reina is being let go of ....
-Ha ha ....#MTLed
+... Ah but if that's how things have gone for
+you, I've been sleeping and feebleminded for
+five years, so I'd expect Reina's ditched me.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -156,7 +154,7 @@ Ha ha ....#MTLed
 > CONTEXT: Map014/events/1/pages/0/78/Dialogue
 > CONTEXT: Map014/events/1/pages/1/81/Dialogue
 > CONTEXT: Map014/events/1/pages/2/33/Dialogue
-\\N[1] , Reina .........\\|\\^#MTLed
+\\N[1], Reina.........\\|\\^#Ron
 > END STRING
 
 > BEGIN STRING
@@ -165,9 +163,9 @@ Ha ha ....#MTLed
 > CONTEXT: Map014/events/1/pages/0/95/Dialogue
 > CONTEXT: Map014/events/1/pages/1/98/Dialogue
 > CONTEXT: Map014/events/1/pages/2/50/Dialogue
-Voice of radio「......... No, I will not return to the
-headquarters, in the branches of the city
-Wait at the facility after loading "E-002".」#MTLed
+Voice On radio「Negative, do not return to HQ,
+load "E-002" at the city branch, and go on
+standby at the facility.」#Ron
 > END STRING
 
 > BEGIN STRING
@@ -177,8 +175,8 @@ Wait at the facility after loading "E-002".」#MTLed
 > CONTEXT: Map014/events/1/pages/0/98/Dialogue
 > CONTEXT: Map014/events/1/pages/1/101/Dialogue
 > CONTEXT: Map014/events/1/pages/2/53/Dialogue
-Voice of radio「In case the "E-001" fails
-Prepare to drop "E-002". That's it.」#MTLed
+Voice On Radio「If "E-001" fails then prepare to
+airdrop "E-002". Over and out.」#Ron
 > END STRING
 
 > BEGIN STRING
@@ -188,8 +186,8 @@ Prepare to drop "E-002". That's it.」#MTLed
 > CONTEXT: Map014/events/1/pages/0/104/Dialogue
 > CONTEXT: Map014/events/1/pages/1/107/Dialogue
 > CONTEXT: Map014/events/1/pages/2/59/Dialogue
-dear me, the work has increased, buddy.
-I do not think that "E - 001" will fail.#MTLed
+Good grief, work's gotten nuts hasn't it, buddy.
+I really don't think "E-001"'s gonna fail.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -199,9 +197,9 @@ I do not think that "E - 001" will fail.#MTLed
 > CONTEXT: Map014/events/1/pages/0/108/Dialogue
 > CONTEXT: Map014/events/1/pages/1/111/Dialogue
 > CONTEXT: Map014/events/1/pages/2/63/Dialogue
-......Do not trust demon so much.
-Becomes a weapon, although the according to us,
-guys are not obedient.#MTLed
+... Don't put so much faith in demons.
+Though it's a weapon and follows our orders,
+it's not docile.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -209,8 +207,8 @@ guys are not obedient.#MTLed
 > CONTEXT: Map014/events/1/pages/0/112/Dialogue
 > CONTEXT: Map014/events/1/pages/1/115/Dialogue
 > CONTEXT: Map014/events/1/pages/2/67/Dialogue
-You will not hit the choking point and go back to
-the branch quickly.#MTLed
+Now let's cut the chatter and head back to the
+branch.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -218,14 +216,12 @@ the branch quickly.#MTLed
 > CONTEXT: Map014/events/1/pages/0/114/Dialogue
 > CONTEXT: Map014/events/1/pages/1/117/Dialogue
 > CONTEXT: Map014/events/1/pages/2/69/Dialogue
-hey hay.#MTLed
+Rightio.#Ron
 > END STRING
 
 > BEGIN STRING
 "Chapter1-2　『灯火』　プレイ中"
-> CONTEXT: Map014/events/1/pages/0/127/InlineScript/2:1
-> CONTEXT: Map014/events/1/pages/1/130/InlineScript/2:1
-> CONTEXT: Map014/events/1/pages/2/82/InlineScript/2:1
+> CONTEXT: None < UNUSED
 "Chapter1-2　『A light』 starts"#MTLed
 > END STRING
 
