@@ -29,7 +29,7 @@ Boundary space#MTLed <---- Whoever translated the text in \Graphics\Pictures\53.
 > END STRING
 
 The translated text will be added to the game picture
-Use Google Drive OCR is you want to extract text from a picture.
+Use Google Drive OCR if you want to extract text from a picture.
 You can try online dictionaries or Windows IME if you're confident.
 -------------------------------------------
 Comments (for database notes, comments, and reliable script translation):
