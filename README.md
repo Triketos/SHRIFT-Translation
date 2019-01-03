@@ -7,7 +7,7 @@ The following files are not compatible with RPG Maker Trans:
 
 Those files are used by the auto-translator to do what RPG Maker Trans can't do.
 
-##########################################
+-------------------------------------------
 Graphics (for picture translation):
 
 > BEGIN STRING
@@ -31,7 +31,7 @@ Boundary space#MTLed <---- Whoever translated the text in \Graphics\Pictures\53.
 The translated text will be added to the game picture
 Use Google Drive OCR is you want to extract text from a picture.
 You can try online dictionaries or Windows IME if you're confident.
-##########################################
+-------------------------------------------
 Comments (for database notes, comments, and reliable script translation):
 
 Database notes include enemies, classes, actors, etc. notes. They are sometime used:
