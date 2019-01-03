@@ -6,8 +6,7 @@ The following files are not compatible with RPG Maker Trans:
 -Comment.txt
 
 Those files are used by the auto-translator to do what RPG Maker Trans can't do.
-
--------------------------------------------
+```
 Graphics (for picture translation):
 
 > BEGIN STRING
@@ -27,15 +26,15 @@ Boundary space
 Delusion power pseudo
 Boundary space#MTLed <---- Whoever translated the text in \Graphics\Pictures\53.png
 > END STRING
-
+```
 The translated text will be added to the game picture
 Use Google Drive OCR if you want to extract text from a picture.
 You can try online dictionaries or Windows IME if you're confident.
--------------------------------------------
+
 Comments (for database notes, comments, and reliable script translation):
 
 Database notes include enemies, classes, actors, etc. notes. They are sometime used:
-
+```
 > BEGIN STRING
 <zoom 90>
 <図鑑特徴:氷に弱い>
@@ -53,8 +52,9 @@ Database notes include enemies, classes, actors, etc. notes. They are sometime u
 <図鑑説明:The barghest itself was regarded as a symbol of death.>
 <図鑑説明:Appears when people are dead and informs concerned people by howling.>#MTLed
 > END STRING
-
+```
 Comments exists in Map Events, Troop Events, Common Events. They are sometime used:
+```
 > BEGIN STRING
 選択肢ヘルプ
 選択したセーブデータの状態から
@@ -67,17 +67,20 @@ Choose your favorite chapter and start.
 You can only select chapters that have been played and
 chapters in progress#MTLed
 > END STRING
-
+```
 The only scripts whose text is extracted are custom scripts. Thay can be tricky sometimes and RPGMTrans can't be trusted with it.
+```
 > BEGIN STRING
 "件名：理由
 > CONTEXT: Scripts/テキスト出力/5:12
 "subject：the reason#MTLed
 > END STRING
-
+```
+```
 > BEGIN STRING
  　　　送信者【Richard】
 > CONTEXT: Scripts/テキスト出力/6:1
 > CONTEXT: Scripts/テキスト出力/246:1
  sender【Richard】#MTLed
 > END STRING
+```
