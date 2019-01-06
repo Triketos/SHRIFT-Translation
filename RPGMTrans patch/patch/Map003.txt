@@ -39,9 +39,8 @@ Change difficulty#Dargoth
 
 すこしだが攻略のアドバイスをやるよ。
 > CONTEXT: Map003/events/1/pages/2/6/Dialogue
-I can't help you much when it comes to a demon with
-increasing meal levels, but I will give you as much advice
-as I can.#Aesthetic
+I can't help you much with demonic corruption,
+but I will give you as much advice as I can.#Aesthetic
 > END STRING
 
 > BEGIN STRING
@@ -135,8 +134,8 @@ Always remember to keep your vitality up.#Aesthetic
 
 \\C[2]『口塞ぎ』を付与する攻撃だな。
 > CONTEXT: Map003/events/1/pages/2/40/Dialogue
-The main attack you need to worry about regarding Lampas is 
-her \\C[2]『Gag』 attack.#Aesthetic
+The main attack you need to worry about regarding
+Lampas is her \\C[2]『Gag』 attack.#Aesthetic
 > END STRING
 
 > BEGIN STRING
@@ -144,8 +143,8 @@ her \\C[2]『Gag』 attack.#Aesthetic
 
 \\C[2]次のターンで必ずピンチになる。
 > CONTEXT: Map003/events/1/pages/2/44/Dialogue
-If you leave this ability as is
-\\C[2]You'll be in trouble the next turn.#Aesthetic
+If you leave this ability as is,
+\\C[2]you'll be in trouble the next turn.#Aesthetic
 > END STRING
 
 > BEGIN STRING
@@ -153,9 +152,10 @@ If you leave this ability as is
 
 これが付与されると武器で攻撃できない。
 > CONTEXT: Map003/events/1/pages/2/48/Dialogue
-The ability 『Nipple Assault』 which can cause 『Puppet』 is 
-also troublesome. Under the 『Puppet』 status effect, you
-cannot attack with weapons.#Aesthetic
+The ability 『Nipple Assault』 which can cause
+『Puppet』 is also troublesome. Under the
+『Puppet』 status effect, you cannot attack with
+weapons.#Aesthetic
 > END STRING
 
 > BEGIN STRING
@@ -190,9 +190,10 @@ Chapter 1-3 (G)if(s[142])#MTLed
 
 それくらい今までの『おさらい』を兼ねた敵になる。
 > CONTEXT: Map003/events/1/pages/2/60/Dialogue
-This boss can be said to be the first truly challenging foe.
-This enemy basically doubles as a 『review』 of all the game
-mechanics you've interacted with so far.#Aesthetic
+This boss can be said to be the first truly
+challenging foe. This enemy basically doubles
+as a 『review』 of all the game mechanics you've
+interacted with so far.#Aesthetic
 > END STRING
 
 > BEGIN STRING
@@ -201,9 +202,10 @@ mechanics you've interacted with so far.#Aesthetic
 触手での攻撃は、『足』→『手』の順だから、
 手が先に拘束されることはない。
 > CONTEXT: Map003/events/1/pages/2/64/Dialogue
-First of all, \\C[2]Give up on freeing your feet.
-Her tentacle attacks have a set order 『leg』→『hand』. This order
-is set in stone so your hands will never be bound first.#Aesthetic
+First of all, \\C[2]give up on freeing your feet.
+Her tentacle attacks have a set order,
+『leg』→『hand』. This order is set in stone so your
+hands will never be bound first.#Aesthetic
 > END STRING
 
 > BEGIN STRING
@@ -212,9 +214,10 @@ is set in stone so your hands will never be bound first.#Aesthetic
 引きずられて、敵の目前まで来ても、
 『一気に距離をとるチャンス』はある
 > CONTEXT: Map003/events/1/pages/2/69/Dialogue
-\\C[2]If you think that your vitality is getting low, prioritize
-recovering your position first. If you're being dragged towards her 
-to the point that you're right in front of her you have an
+\\C[2]If you think that your vitality is getting
+low, prioritize recovering your position first.
+If you're being dragged towards her to the point
+that you're right in front of her you have an
 『Opportunity to take your distance at once』#Aesthetic
 > END STRING
 
@@ -223,9 +226,9 @@ to the point that you're right in front of her you have an
 
 \\C[2]危なく感じたら早めにアドレナリンかモルヒネを打っとけ。
 > CONTEXT: Map003/events/1/pages/2/74/Dialogue
-Well…If you really can't seem to win…
-\\C[2]Use the consumables Adrenaline or Morphine before things 
-start getting dangerous.#Aesthetic
+Well... If you really can't seem to win...
+\\C[2]Use the consumables Adrenaline or Morphine
+before things start getting dangerous.#Aesthetic
 > END STRING
 
 > BEGIN STRING
@@ -242,9 +245,10 @@ Don't 『Daze』 around during the fight.
 
 \\C[0]これを次のターンまで放っておくと、ほぼ詰みだ。
 > CONTEXT: Map003/events/1/pages/2/84/Dialogue
-Her most dangerous attacks are \\C[2]『Nipple Assault』『Crotch Assault』
-\\C[0]If you don't properly struggle out of these abilities, 
-she'll most likely win.#Aesthetic
+Her most dangerous attacks are \\C[2]『Nipple Assault』
+and 『Crotch Assault』. \\C[0]If you don't properly
+struggle out of these abilities, she'll most
+likely win.#Aesthetic
 > END STRING
 
 > BEGIN STRING
@@ -252,9 +256,10 @@ she'll most likely win.#Aesthetic
 
 初手は無難に『ふりはらう』でいっとけ。
 > CONTEXT: Map003/events/1/pages/2/88/Dialogue
-To be more specific,\\C[2] you'll be under both of those statuses on 
-the first turn. The first ability you should use is 『Shake Off』.
-Keeping those on you is a death sentence.#Aesthetic
+To be more specific, \\C[2]you'll be under both of
+those statuses on the first turn. The first
+ability you should use is 『Shake Off』. Keeping
+those on you is a death sentence.#Aesthetic
 > END STRING
 
 > BEGIN STRING
@@ -262,8 +267,9 @@ Keeping those on you is a death sentence.#Aesthetic
 
 \\C[2]常に気力を半分以上が望ましいな。
 > CONTEXT: Map003/events/1/pages/2/92/Dialogue
-However, the opponent also has the chance to stun you. 
-\\C[2]Do your best to never let your vitality drop below half.#Aesthetic
+However, your opponent also has a chance to stun
+you. \\C[2]Do your best to never let your vitality drop
+below half.#Aesthetic
 > END STRING
 
 > BEGIN STRING
@@ -271,9 +277,10 @@ However, the opponent also has the chance to stun you.
 
 絶対に次のターンに入る前に、\\C[2]何かしらの攻撃が来る。
 > CONTEXT: Map003/events/1/pages/2/96/Dialogue
-If you use 「Coffin Struggle」 there will definitely be a powerful
-attack coming your way.\\C[2] 
-Make sure you have the health to survive the attack.#Aesthetic
+If you use 「Coffin Struggle」 there will
+definitely be a powerful attack coming your way.
+\\C[2]Make sure you have the health to survive the
+attack.#Aesthetic
 > END STRING
 
 > BEGIN STRING
@@ -281,8 +288,9 @@ Make sure you have the health to survive the attack.#Aesthetic
 
 ゲージ的にもステート的にも余裕を持った状態がベストだな。
 > CONTEXT: Map003/events/1/pages/2/100/Dialogue
-\\C[2]If you are about to use 『Coffin Struggle』 make sure 
-you have enough vitality, health, and a good lust level.#Aesthetic
+\\C[2]If you are about to use 『Coffin Struggle』, make
+sure you have enough vitality, health, and a good
+lust level.#Aesthetic
 > END STRING
 
 > BEGIN STRING
@@ -291,16 +299,17 @@ you have enough vitality, health, and a good lust level.#Aesthetic
 速効でアドレナリン使ってゴリ押すっていう荒技もあるが…
 うまくいくかどうかは運次第だ。
 > CONTEXT: Map003/events/1/pages/2/104/Dialogue
-\\C[2]After making it through her first attack, you have room
-to use andernaline and morphine.
-She also has a rough skill that increases ecstasy. Adrenaline
-can help with that, but whether it works depends on luck.#Aesthetic
+\\C[2]After making it through her first attack, you
+have room to use andernaline and morphine. She
+also has a power technique that increases
+ecstasy. Adrenaline can help with that, but
+whether it works depends on luck.#Aesthetic
 > END STRING
 
 > BEGIN STRING
 \\C[2]その際にも、股間攻めと乳首攻めには気をつけろよ？
 > CONTEXT: Map003/events/1/pages/2/109/Dialogue
-\\C[2]Remember, you need to be careful of Crotch Assault 
+\\C[2]Remember, you need to be careful of Crotch Assault
 and Nipple Assault.#Aesthetic
 > END STRING
 

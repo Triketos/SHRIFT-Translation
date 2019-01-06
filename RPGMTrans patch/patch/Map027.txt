@@ -16,7 +16,7 @@ Familiarity must be 25 or more. (Current value: \\V[43] )#MTLed
 > BEGIN STRING
 \\N[1]、来てくれたんだね♡
 > CONTEXT: Map027/events/5/pages/0/19/Dialogue
-\\N[1] You came, did not you?#MTLed
+\\N[1], you came... ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -128,7 +128,7 @@ forgive you♪#MTLed
 
 どんなお話しする？
 > CONTEXT: Map027/events/5/pages/1/1/Dialogue
-OK? What would you like to talk about?#MTLed
+Okay. What would you like to talk about?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -160,8 +160,8 @@ About the heart of peopleen(v[43] \>= 80)#MTLed
 
 普通の火くらいだったら平気なんだけどね。
 > CONTEXT: Map027/events/5/pages/1/12/Dialogue
-Ah, indeed the flame of Hecate-sama has worked.
-It would be fine if it was an ordinary fire.#MTLed
+Yeah, Hecate-sama's flames are pretty effective.
+It would be fine if it'd been an ordinary fire.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -170,10 +170,10 @@ It would be fine if it was an ordinary fire.#MTLed
 
 あるいは、身体の消滅のほうが早かったかもね。
 > CONTEXT: Map027/events/5/pages/1/16/Dialogue
-It is a bit late for you to extinguish the fire
-If that water was not a component assuming
-demon's magic. Or maybe the disappearance of the
-body was earlier.#MTLed
+If you'd put out the fire a little later, that
+water might have been nullified by the demonic
+magic, and my body's annihilation might have
+happened even faster.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -181,16 +181,15 @@ body was earlier.#MTLed
 
 相手が部下でも簡単に消しちゃうんだよね。
 > CONTEXT: Map027/events/5/pages/1/21/Dialogue
-Hets ...... Because he is not merciless for the
-man who got tired of it. Even your opponent will
-easily erase them in your subordinates.#MTLed
+That girl... She's got no mercy for those she's
+bored with. She'll even erase her subordinates
+just like that.#Ron
 > END STRING
 
 > BEGIN STRING
 ほんっと自分勝手で、クソみたいな上司だったわ…
 > CONTEXT: Map027/events/5/pages/1/25/Dialogue
-It was a selfish self, was like a fucking boss
-...#MTLed
+She was suuuch a self-centred, shitty boss...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -198,8 +197,7 @@ It was a selfish self, was like a fucking boss
 
 そんな怖いやつのもとを自分から離れちゃって…
 > CONTEXT: Map027/events/5/pages/1/27/Dialogue
-Is not that okay? I left my source of such scary
-...#MTLed
+I- is that okay? Leaving such a scary boss...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -207,9 +205,9 @@ Is not that okay? I left my source of such scary
 
 あんな理不尽な配下なんて、こっちから願い下げよ。
 > CONTEXT: Map027/events/5/pages/1/31/Dialogue
-Whatever you do, you obey, it will be erased
-depending on your mood. Please do not despair of
-such irrational subordinates.#MTLed
+You get erased on a whim after obediently serving
+her no matter what you do. I'm not gonna work
+under that kind of absurd leader.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -217,9 +215,9 @@ such irrational subordinates.#MTLed
 
 命令無視した私なんかがいなくなっても気にしないだろうし。
 > CONTEXT: Map027/events/5/pages/1/35/Dialogue
-Besides, from the "toy" which has several
-subordinates. I will not mind even if I
-disapprove of the order gone.#MTLed
+Besides, she won't mind having one less
+disobedient subordinate out of all of her other
+"toys".#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -227,8 +225,8 @@ disapprove of the order gone.#MTLed
 
 単に気づいてないだけかもしれないしぃ♪
 > CONTEXT: Map027/events/5/pages/1/45/Dialogue
-......... unexpected, because my head is child as
-it looks. It may just be that I have not noticed♪#MTLed
+... Surprising because I'm as childish as I look.
+She might have simply never realised. ♪#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -236,8 +234,8 @@ it looks. It may just be that I have not noticed♪#MTLed
 
 知らないぞ言いたい放題言っちゃって……
 > CONTEXT: Map027/events/5/pages/1/49/Dialogue
-Ah, ah, ah. I do not know I can say it all you
-want ... ...#MTLed
+Ah, ah, ah.
+I don't know, you might have said too much...#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -245,8 +243,8 @@ want ... ...#MTLed
 
 その『パワハラ上司』のものと同じって話だけど…？
 > CONTEXT: Map027/events/5/pages/1/55/Dialogue
-I mean, Lampas's character is. 
-It is the same as that of "Power boss boss" ...?#MTLed
+I mean, you seem to have the personality of a
+boss who'd harrass her workers...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -254,8 +252,9 @@ It is the same as that of "Power boss boss" ...?#MTLed
 
 私もあの場で初めて聞いたからビックリしちゃった。
 > CONTEXT: Map027/events/5/pages/1/59/Dialogue
-It seems so, is not it? I also surprised because
-I heard it for the first time in that place.#MTLed
+Yeah seems that way.
+I was surprised when I heard her for the first
+time back in that place.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -263,9 +262,9 @@ I heard it for the first time in that place.#MTLed
 
 私の種族以外まともにしゃべらないやつばかりだったわけだ♪
 > CONTEXT: Map027/events/5/pages/1/63/Dialogue
-On the street, Hecate-sama's subordinates
-That was why I did not talk properly except my
-race♪#MTLed
+Like that, we were Hecate-sama's subordinates.
+That's why I didn't talk to anyone other than my
+own species. ♪#Ron
 > END STRING
 
 > BEGIN STRING
@@ -273,8 +272,8 @@ race♪#MTLed
 
 確かにバーゲストとかは、言葉は喋れないみたいだけど…
 > CONTEXT: Map027/events/5/pages/1/67/Dialogue
-is that so……? It certainly does not seem to be
-able to say words like barghest ...#MTLed
+Is that so...? Certainly it seems like barghests
+can't speak...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -282,9 +281,9 @@ able to say words like barghest ...#MTLed
 
 積み木や粘土で動物を組み立てるような感覚なんだよ。
 > CONTEXT: Map027/events/5/pages/1/72/Dialogue
-For Hecate-sama, it's like creating creative life
-in your subordinates. It's like building an
-animal with building blocks and clay.#MTLed
+For Hecate-sama, creating her subordinates' lives
+feels like building an animal out of blocks and
+clay.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -292,9 +291,9 @@ animal with building blocks and clay.#MTLed
 
 トラブルの要因になるし、アイツにとって必要ないのさ。
 > CONTEXT: Map027/events/5/pages/1/76/Dialogue
-So, there are high intelligence and words in my
-subordinates. It becomes a factor of trouble, it
-is not necessary for Hatsu.#MTLed
+Her subordinates having high intelligence or
+being able to speak would cause huge problems,
+so in her mind it's not necessary.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -302,9 +301,9 @@ is not necessary for Hatsu.#MTLed
 
 考えただけで胸くそ悪いし…
 > CONTEXT: Map027/events/5/pages/1/80/Dialogue
-Really, it was good that only "there" did not
-resemble that boss ... Just thinking makes me
-badly crying ...#MTLed
+I'm so glad "that place" doesn't suit that
+boss... Just thinking about it is bad enough to
+make me cry...#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -313,10 +312,9 @@ badly crying ...#MTLed
 バーゲストみたいに頭空っぽにして、獣の交尾みたいに
 激しく逆レイプしまくる！ってのもさ…♡
 > CONTEXT: Map027/events/5/pages/1/87/Dialogue
-But ... ... I admire occasionally
-Make your head empty like barghest, like a
-beast's mating. Rape violently rape back!Well ...
-♡#MTLed
+But...... sometimes I long for it.
+Having an empty head like a barghest, violently
+reverse-raping over and over like a beast... ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -324,14 +322,15 @@ beast's mating. Rape violently rape back!Well ...
 
 今度そういうプレイもしてみようよ♪
 > CONTEXT: Map027/events/5/pages/1/92/Dialogue
-Hey ...... Because there is a cute girl like me
-Let's try that kind of play next time♪#MTLed
+Hey... Since there's a cute girl like me here and
+all, why don't we try that kind of play next
+time. ♪#Ron
 > END STRING
 
 > BEGIN STRING
 う、うん……考えておくよ……。
 > CONTEXT: Map027/events/5/pages/1/96/Dialogue
-Well, yeah ... I will think about that ... ....#MTLed
+Y-, yeah... I'll think about it...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -339,9 +338,8 @@ Well, yeah ... I will think about that ... ....#MTLed
 
  さすがに今から踏み込む勇気はないけど……）
 > CONTEXT: Map027/events/5/pages/1/98/Dialogue
-(It is just after hearing the remark
-As expected there is no courage to step from now
-...)#MTLed
+(I really don't have the courage to get involved
+in that after hearing that remark...)#Ron
 > END STRING
 
 > BEGIN STRING
@@ -349,8 +347,8 @@ As expected there is no courage to step from now
 
 き、器用なツタだね……。
 > CONTEXT: Map027/events/5/pages/1/107/Dialogue
-That ... ... ... what he says,
-You are a dexterous ivy ....#MTLed
+That... how do you say it...
+that ivy's pretty dexterous...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -358,8 +356,8 @@ You are a dexterous ivy ....#MTLed
 
 動けなくするのに便利なんだぁ♪
 > CONTEXT: Map027/events/5/pages/1/111/Dialogue
-That's right, like striking you like 'human'
-It is convenient to make it immovable♪#MTLed
+That's right, it's handy for stopping struggling
+humans like you from moving. ♪#Ron
 > END STRING
 
 > BEGIN STRING
@@ -367,9 +365,8 @@ It is convenient to make it immovable♪#MTLed
 
 確実に吸わせたりもできるし……。
 > CONTEXT: Map027/events/5/pages/1/115/Dialogue
-Make it in the prey's mouth, and make various
-kinds of pollen. You can also let me smoke surely
-... ....#MTLed
+You can put in your prey's mouth and make them
+breathe in all kinds of different pollens...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -377,15 +374,15 @@ kinds of pollen. You can also let me smoke surely
 
 乳首チロチロ、サイコーに気持ちよかったでしょ？
 > CONTEXT: Map027/events/5/pages/1/119/Dialogue
-Besides, the tongue tech is spectacular too
-Was it pleasant to nipple oscillation, awesome,
-did not it?#MTLed
+And its tongue technique is sublime, right?
+It felt sooo good when it played with your
+nipples, didn't it?#Ron
 > END STRING
 
 > BEGIN STRING
 あ、アハハ……うん……そうだね…。
 > CONTEXT: Map027/events/5/pages/1/123/Dialogue
-Oh, Ahaha ... Well ... That's right.#MTLed
+Oh, ahaha... Yeah... It did.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -393,8 +390,8 @@ Oh, Ahaha ... Well ... That's right.#MTLed
 
  こっちも負けてないんだけどぉ？
 > CONTEXT: Map027/events/5/pages/1/126/Dialogue
-......... Also, if I say with tech
-Why are not we losing here either?#MTLed
+... Also if we're gonna talk about technique,
+I'd never lose with this either.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -402,14 +399,14 @@ Why are not we losing here either?#MTLed
 
  スカートのような花弁の中を見せつけてきた……
 > CONTEXT: Map027/events/5/pages/1/130/Dialogue
-Lampas spread his legs greatly towards here
-He showed us the petals like a skirt ... ...#MTLed
+Lampas spreads her legs wide apart and shows off
+the middle of her petal-like skirt...#Ron
 > END STRING
 
 > BEGIN STRING
 ちょっ……ちょっと……！
 > CONTEXT: Map027/events/5/pages/1/134/Dialogue
-Just ... ... hey ... ...!#MTLed
+H-...... Hey...!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -417,9 +414,9 @@ Just ... ... hey ... ...!#MTLed
 
 肝心の私の身体は目を逸らしちゃって………
 > CONTEXT: Map027/events/5/pages/1/136/Dialogue
-…………What. I will praise you for ivy
-My body in my heart is deflecting my eyes
-.........#MTLed
+... What's with you? You praise my ivy, but you
+avert your eyes from the most important part
+of my body...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -427,9 +424,8 @@ My body in my heart is deflecting my eyes
 
 君の花部分って、普段男が見ちゃダメな場所だから…！
 > CONTEXT: Map027/events/5/pages/1/140/Dialogue
-No, no, no .........! ! Your flower part is a
-useless place because you can not see the man
-normally!#MTLed
+N-, no, that's not it...!! Your flower bit is
+a place men normally shouldn't look at...!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -438,18 +434,18 @@ normally!#MTLed
 花は見もせず　『立派なツタですね』　だけって…
 植物の立場からして、あなたは嬉しいと思うわけ？
 > CONTEXT: Map027/events/5/pages/1/144/Dialogue
-......... Well then, if I were to merely be a
-plant, Even though I can make fine flowers to
-pollinate. I did not see the flowers, "just a
-splendid ivy" just ... From the plant point of
-view, are you glad you think?#MTLed
+... Well then, let's say that even though I, as a
+simple plant, bloomed spectacularly so I could
+pollinate, and then without even looking at the
+flower someone only said "That's some great ivy".
+Looking at it from the plant's perspective, do
+you think you'd be happy about that?#Ron
 > END STRING
 
 > BEGIN STRING
 うっ………たしかに………そうだろうけど……
 > CONTEXT: Map027/events/5/pages/1/149/Dialogue
-ugh ... ... ... ... Certainly ... but ... it
-seems so ... ...#MTLed
+Uhh...... That's... Certainly...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -457,20 +453,21 @@ seems so ... ...#MTLed
 
 もっとよく見て………♡♡
 > CONTEXT: Map027/events/5/pages/1/151/Dialogue
-If you understand ... are not you?
-Look closer ......... ♡ ♡#MTLed
+You get it now right...?
+Take a closer look...... ♡ ♡#Ron
 > END STRING
 
 > BEGIN STRING
 う。うぅ………
 > CONTEXT: Map027/events/5/pages/1/155/Dialogue
-. Uh .........#MTLed
+U- uh......#Ron
 > END STRING
 
 > BEGIN STRING
 蜜の垂れる膣部に、ついつい目が釘付けになってしまう。
 > CONTEXT: Map027/events/5/pages/1/157/Dialogue
-In the vagina where honey drips, my eyes are nailed.#MTLed
+My eyes are glued to her vagina dripping with
+nectar.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -478,9 +475,9 @@ In the vagina where honey drips, my eyes are nailed.#MTLed
 
 これは魅了などではなく、単に男の性なのだろう……。
 > CONTEXT: Map027/events/5/pages/1/159/Dialogue
-Because there is no appearance of pollen being scattered
-around. This is not Charmed, etc., it is simply the sex of
-a man ... ....#MTLed
+There's no pollen sprinkled around me. So I'm not
+under the effects of Charm or anything, it's
+probably just my male instincts.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -488,9 +485,9 @@ a man ... ....#MTLed
 
 ちょっとバカ正直に長く見すぎちゃったんじゃないのぉ？
 > CONTEXT: Map027/events/5/pages/1/163/Dialogue
-Ahahah♪My breath is becoming rough
-I was a little stupid honestly I was not looking
-too long?#MTLed
+Ahahah. ♪ Your breathing's gotten rough.
+Did you just lose yourself a bit there and stare
+a little too long?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -498,8 +495,8 @@ too long?#MTLed
 
 そういうところが気に入ってるんだよね、私。
 > CONTEXT: Map027/events/5/pages/1/167/Dialogue
-It's cute ... ♡. I like that place, do not you
-think ?.#MTLed
+You're so cute... ♡
+I like that part of you.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -507,9 +504,9 @@ think ?.#MTLed
 
 尻尾の灯りを永遠に灯すこと………だね。
 > CONTEXT: Map027/events/5/pages/1/176/Dialogue
-uumph ... ... having sex with 'human',
-fertilizing. To light the tail light forever ...
-..........#MTLed
+Hmmm...... Have sex with humans, get fertilized,
+and make our tail lights shine forever... that
+about covers it.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -517,9 +514,9 @@ fertilizing. To light the tail light forever ...
 
 そこまで必死じゃなくなったけど。
 > CONTEXT: Map027/events/5/pages/1/180/Dialogue
-Although I was out of control of Hecate-sama
-Although it was not desperate to such an extent,
-though.#MTLed
+But then, I'd managed to get out from under
+Hecate-sama's control, so I wasn't really
+desperate enough to go that far.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -527,8 +524,9 @@ though.#MTLed
 
  前は、『それこそランパスの本懐』とか言ってたような…
 > CONTEXT: Map027/events/5/pages/1/184/Dialogue
-... What does that mean? Before, it seems like
-saying "Lampas actual purpose" ...#MTLed
+... What does that mean? You were saying before
+about how that itself is the cherished desire for
+you all...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -538,10 +536,9 @@ saying "Lampas actual purpose" ...#MTLed
 ヘカーテさまに遅かれ早かれ殺されるの。
 > CONTEXT: Map027/events/5/pages/1/188/Dialogue
 Because, Hecate-sama created us for that purpose.
-As Demon Realm's dark light ... ....
-Lampas and others who can not achieve the created
-purpose. I will be killed sooner or later by
-Hecate - sama.#MTLed
+To light the darkness of the demon world...
+Lampas who can't achieve that purpose are killed
+by Hecate-sama sooner or later.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -549,14 +546,15 @@ Hecate - sama.#MTLed
 
 ………それに……
 > CONTEXT: Map027/events/5/pages/1/193/Dialogue
-But, now I do not have to rush to forcibly
-………in addition……#MTLed
+But now there's no need for me to rush to turn my
+light on.
+And not only that...#Ron
 > END STRING
 
 > BEGIN STRING
 それに……？
 > CONTEXT: Map027/events/5/pages/1/198/Dialogue
-in addition……?#MTLed
+Not only that...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -564,8 +562,9 @@ in addition……?#MTLed
 
 灯りになったランパスは、『死ぬ』んだ。
 > CONTEXT: Map027/events/5/pages/1/200/Dialogue
-I do not know if the case matches ....
-Lampas that turned on is "to die".#MTLed
+I don't know whether it's an accurate way to
+put this but...
+Lampas that have been turned into lights "die".#Ron
 > END STRING
 
 > BEGIN STRING
@@ -573,8 +572,8 @@ Lampas that turned on is "to die".#MTLed
 
 時間の流れも感じられないって………
 > CONTEXT: Map027/events/5/pages/1/204/Dialogue
-I will not talk or feel anything ...
-I can not feel the flow of time .........#MTLed
+They can't talk or feel anything...
+They can't sense the passing of time...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -582,9 +581,8 @@ I can not feel the flow of time .........#MTLed
 
 多分みんな、怖くないわけじゃないと思う……。
 > CONTEXT: Map027/events/5/pages/1/210/Dialogue
-If there are no individual differences in Lampas
-...... Probably everyone, I do not think they are
-scared ... ....#MTLed
+If there are no individual differences between
+Lampases, I don't think any of them are afraid...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -593,11 +591,11 @@ scared ... ....#MTLed
 セックスした人間の魂と永遠にひとつになれるから………
  ………『ひとりじゃない』から………
 > CONTEXT: Map027/events/5/pages/1/214/Dialogue
-Even so, everyone else willing to light the
-lights more than happily. Because I can become
-one with the soul of a sex human being forever
-......... ... ... ... From "It's not alone"
-.........#MTLed
+For all that, what makes everyone so happy to try
+and light their lamps, is the fact that they'll
+become one forever with the soul of the human
+they've had sex with... Because they won't be
+alone...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -605,15 +603,16 @@ one with the soul of a sex human being forever
 
 あのクソ主人………
 > CONTEXT: Map027/events/5/pages/1/219/Dialogue
-Truly regretful, but ... well ... well created
-...... That fucking master .........#MTLed
+It's so frustrating but... we've been well
+built.
+That damn master of ours...#Ron
 > END STRING
 
 > BEGIN STRING
 ………ごめん、なんか変なこと話させて……
 > CONTEXT: Map027/events/5/pages/1/224/Dialogue
-......... Sorry, let me tell you something
-strange ......#MTLed
+... Sorry for making you talk about something
+kinda weird...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -621,9 +620,8 @@ strange ......#MTLed
 
 最後のは仲間の共有感覚から勝手に推測しただけだし。
 > CONTEXT: Map027/events/5/pages/1/226/Dialogue
-Ahahah, that's fine. The last one just guessed it
-without permission from the sharing feeling of
-the companion.#MTLed
+Ahahah, I don't mind. I'm just speculating from
+the final shared sensations of my comrades.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -632,9 +630,9 @@ the companion.#MTLed
 男を悦ばせるのに特化した身体に創ったヘカーテさまにも
 スゴク感謝してる。
 > CONTEXT: Map027/events/5/pages/1/230/Dialogue
-Besides, I have another fun now ...
-Also in Hecate-sama created on a body specialized
-for pleasing men. I am grateful for it.#MTLed
+Besides, I have another source of fun now...
+I'm really grateful that Hecate-sama made me a
+body that specializes in pleasing men.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -642,14 +640,15 @@ for pleasing men. I am grateful for it.#MTLed
 
 今日はどんな搾精の仕方がお望みかなぁ？
 > CONTEXT: Map027/events/5/pages/1/235/Dialogue
-Why is that ... ♡ Now, my subordinate nutrient
-Kun. What kind of milking way do you want today?#MTLed
+Speaking of which... ♡
+Now then my obedient nutrient-kun, how would you
+like to be milked today?#Ron
 > END STRING
 
 > BEGIN STRING
 あ、アハハ……
 > CONTEXT: Map027/events/5/pages/1/239/Dialogue
-Oh, Ahaha ......#MTLed
+Oh, ahaha......#Ron
 > END STRING
 
 > BEGIN STRING
@@ -657,8 +656,8 @@ Oh, Ahaha ......#MTLed
 
 もし時間があればでいいんだけどさ……
 > CONTEXT: Map027/events/5/pages/1/246/Dialogue
-Hey, are not you going for a walk for a while?
-I wish I had time if I had time ......#MTLed
+Hey, do you wanna go for a walk?
+Only if you have the time...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -666,7 +665,7 @@ I wish I had time if I had time ......#MTLed
 
 部屋の外を歩いたりとか？
 > CONTEXT: Map027/events/5/pages/1/250/Dialogue
-Well ... Walk? Like walking outside the room?#MTLed
+W- walk? Like a walk outside this room?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -674,8 +673,8 @@ Well ... Walk? Like walking outside the room?#MTLed
 
 この部屋ってね、見た目よりも少し広いんだよ。
 > CONTEXT: Map027/events/5/pages/1/254/Dialogue
-Ahahah♪It is different. This room is a little
-bigger than it looks.#MTLed
+Ahahah, ♪ no no.
+This room, ya see, it's bigger than it looks.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -683,9 +682,9 @@ bigger than it looks.#MTLed
 
 そこへ行って話そう？
 > CONTEXT: Map027/events/5/pages/1/258/Dialogue
-If you go far enough, it looks like a park
-because there is a place. Let's go there and talk
-about it?#MTLed
+There's a place that looks like a park if you go
+further in.
+Shall we go there and talk?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -693,7 +692,7 @@ about it?#MTLed
 
 いいけど……。
 > CONTEXT: Map027/events/5/pages/1/262/Dialogue
-No. it's okay, but…….#MTLed
+O-, okay. Let's go...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -707,15 +706,15 @@ Bonding Event if(v[43] \>= 99)#Dargoth
 
 今度はちゃんとしたやつ、デートとかじゃなくて。
 > CONTEXT: Map027/events/5/pages/1/281/Dialogue
-Hey, are not you going for a walk for a while?
-This time it was a proper guy, not a date.#MTLed
+Hey, do you wanna go for a walk?
+The proper thing this time, not a date.#Ron
 > END STRING
 
 > BEGIN STRING
 ………ちょっと、話したいこともあるし。
 > CONTEXT: Map027/events/5/pages/1/285/Dialogue
-......... Hey, I have something I want to talk
-about.#MTLed
+......... I've got... something I want to talk
+to you about.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -723,7 +722,8 @@ about.#MTLed
 
 別に構わないよ？
 > CONTEXT: Map027/events/5/pages/1/287/Dialogue
-No. You do not mind me.#MTLed
+O- okay.
+I don't mind.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -731,7 +731,8 @@ No. You do not mind me.#MTLed
 
 それじゃ、奥に行こっか♡
 > CONTEXT: Map027/events/5/pages/1/291/Dialogue
-………Was good♪. Well then, will you go to the back?#MTLed
+... I'm so glad. ♪
+Okay let's go further in. ♡#Ron
 > END STRING
 
 > BEGIN STRING

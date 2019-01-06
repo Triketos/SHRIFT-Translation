@@ -2,7 +2,7 @@
 > BEGIN STRING
 猫「ようこそ、『マイルーム』へ。」
 > CONTEXT: Map024/events/25/pages/0/2/Dialogue
-Cat「Welcome to my room.」#MTLed
+Cat「Welcome to "My Room"」#Ron
 > END STRING
 
 > BEGIN STRING
@@ -34,8 +34,8 @@ About "bonding"#MTLed
 
 君専用の悪魔住居施設さ。
 > CONTEXT: Map024/events/25/pages/0/6/Dialogue
-my room gathers demons who have visited you
-You are the exclusive demon residence facility.#MTLed
+My Room is your exclusive demonic residence where
+demons who've come to visit you gather.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -43,9 +43,8 @@ You are the exclusive demon residence facility.#MTLed
 
 登場チャプターが終わったタイミングでここに来る。
 > CONTEXT: Map024/events/25/pages/0/10/Dialogue
-\\C[2]When you are kind and helpfuled in the story
-I will come here at the timing when the appearance chapter
-is over.#MTLed
+\\C[2]If you treat them kindly and help them out,
+they will come here when the chapter finishes.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -53,8 +52,9 @@ is over.#MTLed
 
 彼女たちはこの部屋にはやってこない。
 > CONTEXT: Map024/events/25/pages/0/14/Dialogue
-vice versa\\C[2] If you kill a certain number of target demons or
-you do not help. They do not come into this room.#MTLed
+Conversely, \\C[2]if you don't help them or you kill
+too many of them, they won't end up making their way
+to one of these rooms.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -62,9 +62,9 @@ you do not help. They do not come into this room.#MTLed
 
 友好度は０ではない場合、チャプター選択でまたやり直せば来てくれる。
 > CONTEXT: Map024/events/25/pages/0/18/Dialogue
-However, the latter ...\\C[2] Just simply overlooking the event
-If the degree of friendship is not 0, it will come if you
-try again with chapter selection.#MTLed
+However... \\C[2]if you simply missed a certain event and
+your friendship level is not at zero, you can redo the
+chapter and try again.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -72,8 +72,8 @@ try again with chapter selection.#MTLed
 
  『会話』『搾精』『プレゼント』だよ。
 > CONTEXT: Map024/events/25/pages/0/25/Dialogue
-In my room, there are three kinds of things you can do with
-your opponent's demon. "Conversation" "milking" "gift".#MTLed
+There are three things you can do with demons in "My Room".
+"Chat", "Milking", "Give a present".#Ron
 > END STRING
 
 > BEGIN STRING
@@ -81,8 +81,8 @@ your opponent's demon. "Conversation" "milking" "gift".#MTLed
 
  襲われてたときとは違った、意外な話が聞けるかも。
 > CONTEXT: Map024/events/25/pages/0/29/Dialogue
-"Conversation" is that way. I might be able to hear a
-strange story different from when I was attacked.#MTLed
+"Chat" is just that. You might be able to hear a
+surprisingly different story from when you were attacked.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -90,8 +90,8 @@ strange story different from when I was attacked.#MTLed
 
  それなりの『友好度』が必要になるだろうけど。
 > CONTEXT: Map024/events/25/pages/0/33/Dialogue
-However, if you are to listen to the story you stepped into
-I will probably need a certain degree of "friendship."#MTLed
+However, you're going to need a certain "Friendship Level"
+in order to talk about some things.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -99,8 +99,8 @@ I will probably need a certain degree of "friendship."#MTLed
 
 悪魔に与えることで、『友好度』を上げるんだ。
 > CONTEXT: Map024/events/25/pages/0/37/Dialogue
-"Gifts", from among your belongings. By giving it to demon,
-you raise the "friendship".#MTLed
+"Give a present" is giving something from your inventory to
+a demon, this will raise your friendship level.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -108,8 +108,9 @@ you raise the "friendship".#MTLed
 
 受け取ってもらえないこともある。
 > CONTEXT: Map024/events/25/pages/0/41/Dialogue
-There are likes and dislikes by tribe, and depending on
-things. Sometimes I do not get it.#MTLed
+Each kind of demon has their own likes and dislikes. And
+depending on what you try to give them, they might not
+accept it.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -117,8 +118,9 @@ things. Sometimes I do not get it.#MTLed
 
 無理に自分の使うアイテムをあげる必要はないよ。
 > CONTEXT: Map024/events/25/pages/0/45/Dialogue
-It's a rumor that there are also items for gifts
-You do not need to force items you use forced.#MTLed
+It's rumored that there's items specifically made to be
+gifts. You don't have to give them items that are useful
+to you.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -126,8 +128,9 @@ You do not need to force items you use forced.#MTLed
 
  内容は負けたときのやつだけど、『友好度』が上がるよ
 > CONTEXT: Map024/events/25/pages/0/49/Dialogue
-And finally "milking". Although the content is a guy when I
-lose, "friendship degree" rises#MTLed
+And finally, "milking". Although it's the sort of thing you
+see when you're defeated, it'll raise your friendship
+level.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -135,9 +138,9 @@ lose, "friendship degree" rises#MTLed
 
  ある程度スピードや、イくタイミングを決められる。
 > CONTEXT: Map024/events/25/pages/0/53/Dialogue
-Because I'm not forced to be forcibly committed, I have
-foreplay. You can decide the speed and timing to some
-extent.#MTLed
+It's not like you'll be being raped or anything, so
+there'll be foreplay, and you'll be able to control the
+speed and timing to an extent.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -145,8 +148,8 @@ extent.#MTLed
 
 大きく上がっていくよ。
 > CONTEXT: Map024/events/25/pages/0/57/Dialogue
-I was able to rewrite it up to 5 times at a time, and the
-degree of friendship each time. I will go up greatly.#MTLed
+You'll be able to cum up to five times, and each time your
+friendship level will go up significantly.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -154,8 +157,8 @@ degree of friendship each time. I will go up greatly.#MTLed
 
 渡すことになるんじゃないかって？
 > CONTEXT: Map024/events/25/pages/0/61/Dialogue
-…………Huh? If you do such a thing, bring your soul to demon
-Is not it going to pass?#MTLed
+Now then, are you wondering about whether doing that kind
+of thing will mean giving your soul to a demon?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -163,9 +166,9 @@ Is not it going to pass?#MTLed
 
 \\C[2]メインホールにいるクッション君の管轄下なんだ。
 > CONTEXT: Map024/events/25/pages/0/65/Dialogue
-As long as you are in this "Hell's Gate" your soul is the
-Lord of this space ... \\C[2]It is under the jurisdiction of
-Cushion which is in the main hall.#MTLed
+As long as you're in this "Hell's Gate", \\C[2]your soul is
+under the jurisdiction of the lord of this place, Lord
+Cushion.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -173,9 +176,9 @@ Cushion which is in the main hall.#MTLed
 
 負けたときみたいに、心を蝕まれる心配もない。
 > CONTEXT: Map024/events/25/pages/0/69/Dialogue
-That's why demon can not take away your soul already owned
-by others. Like when I lost, I do not have to worry about
-my heart.#MTLed
+So demons won't be able to take your soul as it's already
+owned by another. You will also not gain any demonic
+corruption like you normally do when you lose.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -183,8 +186,8 @@ my heart.#MTLed
 
 だから、素直に離してくれると思うよ。
 > CONTEXT: Map024/events/25/pages/0/73/Dialogue
-The demons, too, should be coming to my room with knowing
-Therefore, I think that it will obliviously release me.#MTLed
+The demons will be coming here knowing that as well. So I
+think they will obediently release you when asked.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -192,9 +195,8 @@ Therefore, I think that it will obliviously release me.#MTLed
 
 ２５以上になったら宝箱からもらえるアイテムだね。
 > CONTEXT: Map024/events/25/pages/0/80/Dialogue
-"Bronze box", each demon's friendship is
-It is an item you can get from the treasure box when it is
-over 25.#MTLed
+"Bronze box" is an item you can get from a demon's treasure
+box when your friendship level is 25 or higher.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -202,8 +204,8 @@ over 25.#MTLed
 
 該当の悪魔と戦うことになるんだ。
 > CONTEXT: Map024/events/25/pages/0/84/Dialogue
-\\C[2]When you go to bed in a resting place with it equipped
-You will fight against the corresponding demon.#MTLed
+\\C[2]When you go to bed in a rest area with this item
+equipped, you will fight against that demon.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -212,10 +214,11 @@ You will fight against the corresponding demon.#MTLed
 \\C[2]エンカウントで戦う状況を、休憩室にいるままで
 体験できるってワケだね。
 > CONTEXT: Map024/events/25/pages/0/88/Dialogue
-Friendship and mind corruption degree do not change
-Most of all, it is not a dream, so you can get money as
-well. \\C[2]Staying in the encounter with encounter, while still
-in the rest room. I guess you can experience it.#MTLed
+Friendship and corruption levels won't change, and best of
+all, it's not a dream so you'll get money from the
+encounter like you normally would. \\C[2]You'll have the
+experience of a proper encounter fight without leaving
+the rest area.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -224,9 +227,9 @@ in the rest room. I guess you can experience it.#MTLed
 
 普通に襲ってくるし、搾精を狙ってくるよ。
 > CONTEXT: Map024/events/25/pages/0/93/Dialogue
-But be careful, that demon\\C[2] I am seeing you at my room
-Because it is a different kind from demon that does not
-attack you. It attacks normally and I will aim for milking.#MTLed
+But be careful, those demons\\C[2] will be different from the
+ones you meet here. They'll attack you like a demon
+normally would, and try to milk you.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -235,9 +238,10 @@ attack you. It attacks normally and I will aim for milking.#MTLed
 キミの記憶の奥底にいる『敵としての』悪魔を
 呼び出して、箱の中で戦わせているんだ。
 > CONTEXT: Map024/events/25/pages/0/98/Dialogue
-Strictly speaking, it is not a box to meet with hope demon
-I'm demon "as an enemy" in the depths of your memory
-I call it and let it fight in the box.#MTLed
+Strictly speaking, it's not an item you use to meet your
+ideal demon. It's something you use to call forth a memory
+of an enemy demon from the depths of your mind, and fight
+it.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -245,8 +249,8 @@ I call it and let it fight in the box.#MTLed
 
 \\C[2]『キミが現実世界で戦った時と同じ状況』で出てくるよ。
 > CONTEXT: Map024/events/25/pages/0/103/Dialogue
-So, the boss is surely. \\C[2]It comes out with "the same
-situation as when you fought in the real world".#MTLed
+So if you summon a boss, \\C[2]you'll be fighting it in the same
+circumstances you fought that boss in the real world.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -254,8 +258,8 @@ situation as when you fought in the real world".#MTLed
 
 \\C[2]キズナイベント\\C[0]っていう特殊な雑談が出来るよ。
 > CONTEXT: Map024/events/25/pages/0/110/Dialogue
-When 99 friendships with demon who came to my room
-accumulated. \\C[2]bonding\\C[0] I can do a special chat like that.#MTLed
+If your friendship level with a demon here reaches 99,
+you'll be able to have a special \\C[2]bonding\\C[0] chat.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -263,8 +267,9 @@ accumulated. \\C[2]bonding\\C[0] I can do a special chat like that.#MTLed
 
 特殊な搾精で、お互いに強く結ばれるんだ。
 > CONTEXT: Map024/events/25/pages/0/114/Dialogue
-This is to make the trust of that demon and you firm
-With special milking, they are strongly tied to each other.#MTLed
+Through a special milking session, the trust between you
+and that demon will be solidified. And you'll both be
+strongly bonded together.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -272,14 +277,15 @@ With special milking, they are strongly tied to each other.#MTLed
 
 つまり、最後の宝箱を空けることが出来るんだよ。
 > CONTEXT: Map024/events/25/pages/0/118/Dialogue
-By browsing this, friendship will be increased to 100.
-In other words, you can empty the last treasure box.#MTLed
+When you do this, your friendship level will increase to
+100. In other words, you'll be able to empty the last
+treasure box.#Ron
 > END STRING
 
 > BEGIN STRING
 『見逃す』の自動発動
 > CONTEXT: Map024/events/25/pages/0/127/Choice/0
-Automatic activation of "Let her off"#MTLed
+Can only "Let her go"#Ron
 > END STRING
 
 > BEGIN STRING
@@ -287,8 +293,9 @@ Automatic activation of "Let her off"#MTLed
 
 『最後の２択』がなくなってることに気付いた？
 > CONTEXT: Map024/events/25/pages/0/129/Dialogue
-When fighting demon who came to my room. 
-Did you notice that "The last two choices" is gone?#MTLed
+When fighting a demon who has come to "My Room", did you
+notice that the two choices you get at the end of a battle
+have disappeared?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -296,8 +303,8 @@ Did you notice that "The last two choices" is gone?#MTLed
 
 その悪魔に『トドメを刺す』事は出来なくなるんだ。
 > CONTEXT: Map024/events/25/pages/0/133/Dialogue
-When I came to my room. You can not do "finish move" on
-that demon.#MTLed
+You aren't able to finish off any demons who have come
+to "My Room".#Ron
 > END STRING
 
 > BEGIN STRING
@@ -306,16 +313,16 @@ that demon.#MTLed
 \\C[2]友好度が高まれば、きっと『説得』で良い結果になるよ。
 友好度が高まったら、試してみても良いんじゃないかな？
 > CONTEXT: Map024/events/25/pages/0/137/Dialogue
-I do not get the experience value and my money will be
-halved. \\C[2]If friendship gets higher, it will surely be a good
-result with "dissuade". If friendship gets higher, maybe
-you can try it?#MTLed
+You won't get any experience, and you'll only get half the
+money, but \\C[2]if friendship level gets higher, you'll be able
+to use "Persuade" more effectively. Give it a try if you
+get your friendship levels higher.#Ron
 > END STRING
 
 > BEGIN STRING
 ここは……？
 > CONTEXT: Map024/events/27/pages/0/0/Dialogue
-here……?#MTLed
+What is this place?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -323,8 +330,9 @@ here……?#MTLed
 
 あなた専用の『マイルーム』といったところでしょうか……
 > CONTEXT: Map024/events/27/pages/0/2/Dialogue
-Asking for you, residences visited by demons
-......... Is it my place like "my room" ......#MTLed
+These are the residences of demons who wish to
+seek you out. They can be thought of as places
+for your own exclusive use, called "My Rooms".#Ron
 > END STRING
 
 > BEGIN STRING
@@ -332,9 +340,9 @@ Asking for you, residences visited by demons
 
 犯され、エサになることもあるでしょう。
 > CONTEXT: Map024/events/27/pages/0/6/Dialogue
-You have encountered many demons demon and been
-attacked. You will be fucked and Become Food
-sometimes.#MTLed
+You've encountered and been attacked by numerous
+demons up to this point. You've probably also
+been raped and made into food.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -342,8 +350,8 @@ sometimes.#MTLed
 
 彼女たちは\\C[2]殺意をもって貴方を襲うわけではない事です。
 > CONTEXT: Map024/events/27/pages/0/10/Dialogue
-But keep in mind. They are\\C[2] It is that it does not
-attack you with murderous intent.#MTLed
+But what I'd like you to keep in mind is \\C[2]they
+aren't attacking you with murderous intent.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -351,8 +359,8 @@ attack you with murderous intent.#MTLed
 
 彼女たちもそれに応えてくれるでしょう。
 > CONTEXT: Map024/events/27/pages/0/14/Dialogue
-To them,\\C[2] If you treat me with a heart of mercy
-They will also respond to it.#MTLed
+\\C[2]If you treat them with affection, they
+will probably respond in kind.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -360,8 +368,9 @@ They will also respond to it.#MTLed
 
 『貴方ともう一度会いたい』と強く想い、たどり着く場所。
 > CONTEXT: Map024/events/27/pages/0/18/Dialogue
-Here, for those reasons. I strongly feel like "I
-want to meet you again", a place to get to.#MTLed
+This place is where those girls who, for one
+reason or another strongly wish to meet you
+again, make their way to.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -369,8 +378,9 @@ want to meet you again", a place to get to.#MTLed
 
 この場で姿を成すでしょう。
 > CONTEXT: Map024/events/27/pages/0/22/Dialogue
-That feeling,\\C[2] Even if you lose the entity with
-the human realm. It will appear in this place.#MTLed
+That wish is, \\C[2]even if I lose my physical form
+in the human world, I will create my form in
+this place.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -378,10 +388,9 @@ the human realm. It will appear in this place.#MTLed
 
 対象の悪魔の名前に変わっているはずです。
 > CONTEXT: Map024/events/27/pages/0/26/Dialogue
-In the room where someone entered,\\C[2] The sign on
-the door is "??? From
-It should have changed to the name of the target
-demon.#MTLed
+The rooms that have someone in them \\C[2]have the
+sign over the door changed from "???" to the
+name of the demon in question.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -389,6 +398,7 @@ demon.#MTLed
 
 そこにいる白猫に、なんなりとお聞きください。
 > CONTEXT: Map024/events/27/pages/0/30/Dialogue
-Other than that, if there is anything unclear
-Please inquire to the white cat there.#MTLed
+Other than that, please inquire with the white
+cat over there if there's anything you're not
+sure about.#Ron
 > END STRING
