@@ -1,18 +1,11 @@
 ﻿# TextLine [Tab] Message: Incorrect Length XX/XX, Incorrect Line Numbers XX/XX, Possible wrong translations [Japanese list], [Tab] Line length, [Tab] Line Number
-Warning char limit	64/60' in Armors/5/description/:	A special hospital gown that protects against viruses. Obviously
-Warning char limit	62/60' in Armors/5/description/:	not effective if removed and direct contact is made with skin.
+Warning char limit	25/24' in Armors/5/name/:	Hospital Gown (Spectator)
 Warning char limit	27/24' in Armors/11/name/:	High-capacity Mag (Handgun)
 Warning char limit	31/24' in Armors/12/name/:	High-capacity Mag (Machine Gun)
-Warning short line	42/50' in Armors/44/description/:	A rather sturdy guantlet. Reduces physical
-Warning Name	'バーゲスト' found but not:'barghest' in text:	Treasured collar given by Master Hecate.¶Increases gun attack by 30.
-Warning short line	35/50' in Armors/46/description/:	A lucky charm. 10% chance to remain
-Warning Name	'朦朧' found but not:'Dazed' in text:	A lucky charm. 10% chance to remain¶alert after ejaculating.
-Warning short line	39/50' in Armors/47/description/:	A lucky charm. Protects from repetition
 Warning short line	42/50' in Armors/48/description/:	Bell that rings with a pure sound to drive
 Warning short line	39/50' in Armors/54/description/:	Guarantees that you'll be attacked when
-Warning short line	37/50' in Armors/205/description/:	Upon sleeping, the named monster will
+Warning short line	37/50' in Armors/211/description/:	Upon sleeping, the named monster will
 Warning Name	'心蝕' found but not:'mind corruption' in text:	Upon sleeping, the named monster will¶attack and devour you. \\C[2]There is no escape.
-Warning char limit	25/24' in Armors/5/name/:	Hospital Gown (Spectator)
 Warning char limit	62/60' in Commonevents/199/18/Dialogue:	\\N[1] is gradually becoming captivated by his opponent...
 Warning Name	'抵抗力' found but not:'will ' (or any other translation) in text:	Edible herb, recovers all vitality if eaten.¶Can be used to make tea in a safe room.
 Warning Name	'性欲' found but not:'lust' in text:	Edible herb, recovers all vitality if eaten.¶Can be used to make tea in a safe room.
@@ -23,19 +16,18 @@ Warning short line	48/50' in Items/9/description/:	Candy made from hardened lamp
 Warning char limit	31/24' in Items/83/name/:	Rare Vintage [Corrupt Pleasure]
 Warning Name	'鋭爪' found but not:'claw' in text:	Barghest Paw
 Warning short line	47/50' in Items/102/description/:	A jewel dropped by the Iron Maiden. It has lost
-Warning short line	16/40' in Map003/events/1/pages/2/313/Dialogue:	Difficulty：\\C[3] Easy
-Warning short line	18/40' in Map003/events/1/pages/2/331/Dialogue:	Difficulty:\\C[14] Normal
+Warning Name	'心蝕' found but not:'mind corruption' in text:	Difficulty: \\C[24]Spectator Mode\\C[0]¶For people who want to see the H-scenes but have their¶spirits broken even on easy. Not even a game anymore.¶\\C[10]Joke ending, and some events and scenes are unavailable.
+Warning text does not match structure (*if(**)*) in Map002/events/1/pages/0/305/Choice/0
+Warning text does not match structure (*if(**)*) in Map002/events/1/pages/0/305/Choice/1
+Warning text does not match structure (*if(**)*) in Map002/events/1/pages/0/305/Choice/2
+Warning text does not match structure (*if(**)*) in Map002/events/1/pages/0/305/Choice/3
+Warning text does not match structure ("Hint: *") in Map002/events/1/pages/0/1565/InlineScript/1:25
+Warning Name	'救済措置って？' found but not:'What assistance?' in text:	[Choose Assistance]
+Warning Name	'そろそろ' found but not:'soon' in text:	...I see, it's time then.¶For now, I'll take my leave.
+Warning short line	16/40' in Map003/events/1/pages/2/617/Dialogue:	Difficulty：\\C[3] Easy
+Warning short line	18/40' in Map003/events/1/pages/2/635/Dialogue:	Difficulty:\\C[14] Normal
 Warning Name	'状態異常' found but not:'status ' (or any other translation) in text:	Difficulty:\\C[14] Normal¶\\C[0]Items and damage as intended by the developer.¶For people who want to feel as utterly fucked as the¶protagonist.
 Warning Name	'出来ないことはない' found but not:'Nothing is impossible' in text:	Difficulty：\\C[30] Hard\\C[0]¶Damage taken, vitality consumption, and lust increases¶raised by \\C[2]1.5x\\C[0]. It's not impossible, so they say.¶Strongly not recommended for your first play.
-Warning text does not match structure (*if(**)*) in Map002/events/1/pages/0/238/Choice/0
-Warning text does not match structure (*if(**)*) in Map002/events/1/pages/0/238/Choice/1
-Warning text does not match structure (*if(**)*) in Map002/events/1/pages/0/238/Choice/2
-Warning text does not match structure (*if(**)*) in Map002/events/1/pages/0/238/Choice/3
-Warning text does not match structure ("Hint: *") in Map002/events/1/pages/0/797/InlineScript/1:25
-Warning Name	'心蝕' found but not:'mind corruption' in text:	Difficulty: \\C[24]Spectator Mode\\C[0]¶For people who want to see the H-scenes but have their¶spirits broken even on easy. Not even a game anymore.¶\\C[10]Joke ending, and some events and scenes are unavailable.
-Warning Name	'救済措置って？' found but not:'What assistance?' in text:	[Choose Assistance]
-Warning text does not match structure (*en(**)*) in Map019/events/5/pages/0/29/Choice/0
-Warning Name	'そろそろ' found but not:'soon' in text:	Yeah, it's not translated anyway.¶……それでは、そろそろ時間となります。¶しばしのお別れですが、またいずれ会うことになるでしょう。
 Info line length	10	in Scripts/Vocab/11:21	1	"Purchase"
 Info line length	1	in Scripts/Vocab/61:21	1	"%s　takes %s damage!"
 Info line length	8	in Scripts/悪魔全書【設定】/111:29	1	"Traits"
@@ -74,13 +66,13 @@ Warning Name	'悪魔との戦闘' found but not:'battling with demons' in text:	
 Warning Name	'ラスト' found but not:'final' in text:	Psi Blast
 Warning Name	'ラスト' found but not:'final' in text:	 casts Psi Blast!
 Warning Name	'攻撃' found but not:'Attack' in text:	Deals fire damage.¶Strongest of all elements in base power.
-Warning char limit	61/60' in Skills/109/description/:	Increases the caster's physical attack two steps for 3 turns.
+Warning char limit	61/60' in Skills/108/description/:	Increases the caster's physical attack two steps for 3 turns.
 Warning Name	'ボルテクステップ' found but not:'Vortex Steps' in text:	Voltaic Step
 Warning char limit	65/60' in Skills/127/message1/:	 puts her lips on \\n[1]'s and begins to suck out his energy!
 Warning char limit	64/60' in Skills/127/message2/:	Pure pleasure courses through his veins and saps his strength...
 Warning char limit	27/24' in Skills/139/name/:	Mating Invitation (Failure)
 Warning char limit	65/60' in Skills/176/message2/:	Her tongue probes all the nooks and crannies of \\N[1]'s ear!
-Warning char limit	63/60' in Skills/141/message2/:	She tightens the grip her legs have around \\N[1]'s body...
+Warning char limit	63/60' in Skills/469/message2/:	She tightens the grip her legs have around \\N[1]'s body...
 Warning Name	'バーゲスト' found but not:'barghest' in text:	Her fangs prick the skin as her tongue licks his neck!
 Warning Name	'ギュウギュウ' found but not:'*squeeze*' in text:	Her tight canal presses hard against it from all sides!
 Warning char limit	61/60' in Skills/148/message2/:	The mixture of tongues and saliva make lewd squishing noises.
@@ -106,7 +98,7 @@ Warning Name	'悪魔との戦闘' found but not:'battling with demons' in text:	
 Warning Name	'悪魔との戦闘' found but not:'battling with demons' in text:	\\C[10]The pleasure of being raped by a lampas sticks in your mind.¶Special accident battles can occur against this monster.
 Warning Name	'大容量' found but not:'High-capacity ' (or any other translation) in text:	Reload (High Cap.)
 Warning Name	'パラベラム弾' found but not:'Parabellum Rounds' in text:	Reload your handgun with 2 magazines. Remaining rounds¶in the old magazine are placed in your inventory.
-Warning char limit	61/60' in Skills/211/description/:	Reload your machine pistol with 2 magazines. Remaining rounds
+Warning char limit	61/60' in Skills/447/description/:	Reload your machine pistol with 2 magazines. Remaining rounds
 Warning Name	'パラベラム弾' found but not:'Parabellum Rounds' in text:	Reload your machine pistol with 2 magazines. Remaining rounds¶in the old magazine are placed in your inventory.
 Warning short line	49/50' in Skills/212/description/:	Fire 3 low damage shots at one foe. Rounds \\V[7]/10
 Warning short line	12/50' in Skills/213/description/:	Rounds \\V[19]/2
@@ -125,14 +117,10 @@ Warning Name	'ゾクゾク' found but not:'tremble' in text:	Constant waves of p
 Warning char limit	61/60' in Skills/265/description/:	\\C[10]The pleasure of being raped by an empuse sticks in your mind.
 Warning Name	'悪魔との戦闘' found but not:'battling with demons' in text:	\\C[10]The pleasure of being raped by an empuse sticks in your mind.¶Increases damage taken from this monster by 20%.
 Warning Name	'増加' found but not:'increased' in text:	\\C[10]The pleasure of being raped by an empuse sticks in your mind.¶Increases damage taken from this monster by 20%.
-Warning char limit	61/60' in Skills/266/description/:	\\C[10]The pleasure of being raped by an empuse sticks in your mind.
-Warning Name	'悪魔との戦闘' found but not:'battling with demons' in text:	\\C[10]The pleasure of being raped by an empuse sticks in your mind.¶Increases lust 5% every turn when fighting this monster.
-Warning char limit	61/60' in Skills/267/description/:	\\C[10]The pleasure of being raped by an empuse sticks in your mind.
-Warning Name	'悪魔との戦闘' found but not:'battling with demons' in text:	\\C[10]The pleasure of being raped by an empuse sticks in your mind.¶Maximum willpower reduced to 80% when fighting this monster.
-Warning char limit	61/60' in Skills/268/description/:	\\C[10]The pleasure of being raped by an empuse sticks in your mind.
-Warning Name	'悪魔との戦闘' found but not:'battling with demons' in text:	\\C[10]The pleasure of being raped by an empuse sticks in your mind.¶Maximum vitality reduced to 80% when fighting this monster.
-Warning char limit	61/60' in Skills/269/description/:	\\C[10]The pleasure of being raped by an empuse sticks in your mind.
-Warning Name	'悪魔との戦闘' found but not:'battling with demons' in text:	\\C[10]The pleasure of being raped by an empuse sticks in your mind.¶Special accident battles can occur against this monster.
+Warning Name	'悪魔との戦闘' found but not:'battling with demons' in text:	\\C[10]The pleasure of being raped by Empuse sticks in your mind.¶Increases lust 5% every turn when fighting this monster.
+Warning Name	'悪魔との戦闘' found but not:'battling with demons' in text:	\\C[10]The pleasure of being raped by Empuse sticks in your mind.¶Maximum willpower reduced to 80% when fighting this monster.
+Warning Name	'悪魔との戦闘' found but not:'battling with demons' in text:	\\C[10]The pleasure of being raped by Empuse sticks in your mind.¶Maximum vitality reduced to 80% when fighting this monster.
+Warning Name	'悪魔との戦闘' found but not:'battling with demons' in text:	\\C[10]The pleasure of being raped by Empuse sticks in your mind.¶Special accident battles can occur against this monster.
 Warning Name	'興奮' found but not:'Aroused' in text:	For some reason, it arouses \\N[1]!
 Warning Name	'拘束' found but not:'bind ' (or any other translation) in text:	 manages to free his arms!
 Warning Name	'拘束' found but not:'bind ' (or any other translation) in text:	's legs are still tied up...
@@ -140,7 +128,6 @@ Warning Name	'拘束' found but not:'bind ' (or any other translation) in text:	
 Warning Name	'蝕' found but not:'Meal' in text:	's mind is being consumed by lust...
 Warning Name	'恍惚' found but not:'ecstasy' in text:	 regains his composure from lustful thoughts!
 Warning Name	'愛液まみれ' found but not:'Soaked with love juices' in text:	Soaked
-Warning Name	'恍惚' found but not:'ecstasy' in text:	 is better able to restrain himself!
 Warning char limit	25/24' in Skills/256/name/:	Spatial Perversion (Lewd)
 Warning char limit	31/24' in Skills/255/name/:	Spatial Perversion (Bad Status)
 Warning char limit	64/60' in States/71/message3/:	 is susceptible to being bound due to the perversion in the air.
@@ -151,10 +138,9 @@ Warning char limit	26/24' in Skills/207/name/:	Spatial Perversion (Magic)
 Warning char limit	25/24' in States/76/name/:	Maiden Second Half Battle
 Warning Name	'メイデン後半戦' found but not:'Half-Maiden battle' in text:	Maiden Second Half Battle
 Warning Name	'気力' found but not:'vitality' in text:	Vit
-Warning Name	'見逃す' found but not:'Let her off' in text:	Let her go en(s[1000000])
-Info line length	10	in Troops/108/pages/2/22/Label	1	Let her go
 Warning Name	'見逃す' found but not:'Let her off' in text:	Let her go
 Warning Name	'トドメを刺す' found but not:'finish move' in text:	Finish her off
+Warning Name	'見逃す' found but not:'Let her off' in text:	Let her go en(s[1000000])
 Warning short line	13/50' in Weapons/1/description/:	Rounds　\\V[7]/10
 Warning short line	13/50' in Weapons/2/description/:	Rounds \\V[18]/15
 Warning short line	12/50' in Weapons/3/description/:	Shells \\V[19]/2

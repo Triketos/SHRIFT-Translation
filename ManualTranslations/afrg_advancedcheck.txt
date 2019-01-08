@@ -1,7 +1,8 @@
 ﻿# TextLine [Tab] Message: Incorrect Length XX/XX, Incorrect Line Numbers XX/XX, Possible wrong translations [Japanese list], [Tab] Line length, [Tab] Line Number
 Warning Name	'増加' found but not:'increased' in text:	Increases abilites when equipped.
 Warning Name	'全裸' found but not:'Naked' in text:	A samisen made from Nekomata leather.¶Prevents clothes stripping.
-Warning Name	'攻撃' found but not:'Attack' in text:	Shield made from Titanoboa's body.¶Halves damages.
+Warning Name	'ティタノボア' found but not:'Titanoboa' in text:	Shield made from Titanboa's body.¶Halves damages.
+Warning Name	'攻撃' found but not:'Attack' in text:	Shield made from Titanboa's body.¶Halves damages.
 Warning char limit	26/24' in Armors/204/name/:	Bronze Box [Mother Rabbit]
 Warning short line	33/40' in Commonevents/451/185/Dialogue:	Camazotz breaks the Combat Stance
 Warning short line	6/40' in Commonevents/452/35/Dialogue:	Kyahah
@@ -46,6 +47,9 @@ Warning short line	49/50' in Items/40/description/:	Very precious gold coin. The
 Warning Name	'闇イモリの黒焼き' found but not:'charred salamander' in text:	Charred Salamender
 Warning char limit	33/24' in Items/52/name/:	Zero-Dimensional Expansion Device
 Warning Name	'零次元展開装置' found but not:'zero dimension expension device' in text:	Zero-Dimensional Expansion Device
+Warning Name	'焼夷弾' found but not:'incendiary round' in text:	Incendiary Shell
+Warning Name	'凍結弾' found but not:'freezing round' in text:	Freezing Shell
+Warning Name	'雷撃弾' found but not:'lightning round' in text:	Lightning Shell
 Warning Name	'疾風弾' found but not:'gale rounds' in text:	Gale Shell
 Warning short line	48/50' in Items/80/description/:	For humans, a ring with special meaning. \\C[14]You can
 Warning Name	'キズナ' found but not:'Kizuna' in text:	For humans, a ring with special meaning. \\C[14]You can¶use it to profess your love for \\C[14] a bonded demon.\\C[0]
@@ -53,7 +57,8 @@ Warning Name	'ゴロゴロ' found but not:'thundering' in text:	A mysterious mag
 Warning Name	'魔界' found but not:'Demon Realm' in text:	A mysterious magical stone. It thunders like hell.¶When given as a gift to a demon, \\C[14] increases friendship.
 Warning Name	'魔界' found but not:'Demon Realm' in text:	A rare sake, much loved in hell. It deliciously sweet.¶When given as a gift to a demon, \\C[14] increases friendship.
 Warning Name	'人間界' found but not:'the human realm' in text:	Regular human food. 2 portions.¶\\C[14]Haru & Liz\\C[0] will like this gift.
-Warning Name	'お弁当' found but not:'food ' (or any other translation) in text:	Suzune brand bento. Two portions of demon realm fish. ¶\\C[14]Haru & Liz\\C[0] will like this gift.
+Warning Name	'お弁当' found but not:'food ' (or any other translation) in text:	Suzune brand bento. Two portions of demon world fish. ¶\\C[14]Haru & Liz\\C[0] will like this gift.
+Warning Name	'魔界' found but not:'Demon Realm' in text:	Suzune brand bento. Two portions of demon world fish. ¶\\C[14]Haru & Liz\\C[0] will like this gift.
 Warning Name	'ボルテクステップ' found but not:'Vortex Steps' in text:	Applies Voltaic Step LvMAX once only.
 Warning Name	'ヌルヌル' found but not:'slime' in text:	A tail that was torn from a Camazotz, with her tentacles.¶It's slimy and messy.
 Warning Name	'魔界' found but not:'Demon Realm' in text:	A Molotov cocktail filled with the fire of a demonic dragon.¶Deals about 500 fire damage.
@@ -63,6 +68,7 @@ Warning Name	'軍師の扇子' found but not:'Strategist fan' in text:	Strategis
 Warning Name	'魔界' found but not:'Demon Realm' in text:	A fan which blows with a demonic wind god's gale.¶Deals about 500 wind damage.
 Warning Name	'低下' found but not:'weak ' (or any other translation) in text:	Tasty Suzune brand dango.¶Completely recovers Will and cures physical debuffs.
 Warning Name	'状態異常' found but not:'status ' (or any other translation) in text:	Another sick Suzune brand dango.¶Completely recovers Vitality and cures mental debuffs.
+Warning Name	'鈴音印' found but not:'Suzune brand' in text:	Another unreal Suzuna brand dango. Restores Vitality and¶Will and prevent Weakness and Fatigue.
 Warning Name	'お弁当' found but not:'food ' (or any other translation) in text:	A bento with side dishes with tuna, salmon, and rice balls.¶Fills the stomach and recovers a bit of Vitality.
 Warning Name	'お弁当' found but not:'food ' (or any other translation) in text:	Standard rice bento.¶Only restores a small amount of Vitality.
 Warning Name	'魔界' found but not:'Demon Realm' in text:	Spring water drawn in the mysterious Demon World. It tastes¶just like normal water and recovers some Will.
@@ -89,6 +95,7 @@ Warning short line	21/50' in Items/518/description/:	Immediately delicious
 Warning Name	'さんしょくだんご' found but not:'sanshoku dango' in text:	Color Dango
 Warning short line	10/50' in Items/519/description/:	Very tasty
 Warning short line	18/50' in Items/520/description/:	To keep a sword in
+Warning text does not match structure ("Chapter**『*』 starts") in Map045/events/3/pages/0/6/InlineScript/2:1
 Warning Name	'目的' found but not:'purpose' in text:	Tell me!¶Why the hell are you trying to kill me?!¶What are you trying to accomplish?!
 Warning Name	'クスクス' found but not:'*Giggle*' in text:	* Giggle * ......♪. If I tell you, will you die¶obediently?
 Warning Name	'わざわざ' found but not:'expressly' in text:	Besides, teaching someone who is about to die, ¶that's a waste of time ......♪
@@ -98,7 +105,6 @@ Warning Name	'キャハハハハ' found but not:'Kahahahaha' in text:	Kyahahahah
 Warning Name	'ごっこ' found but not:'pretend play' in text:	Try it.........Micah. ¶I am also quite tired of "pretending to be friends" ¶with you...
 Warning short line	39/40' in Map156/events/1/pages/1/47/Dialogue:	Even "that time", because you hesitated
 Warning Name	'クスクス' found but not:'*Giggle*' in text:	* Giggle *...... Calm down.¶I will not be your opponent myself...¶Instead......
-Warning Name	'キズナ' found but not:'Kizuna' in text:	She is \\C[2] not bonded....¶You should learn to understand each other better,¶then try to give it again.
 Warning Name	'キズナ' found but not:'Kizuna' in text:	She is \\C[2] not bonded....¶You should learn to understand each other better,¶then try to give it again.
 Warning Name	'イチャイチャ' found but not:'cozy' in text:	\\N[1] came here...♡¶We make out much?♡
 Warning Name	'目的' found but not:'purpose' in text:	About her goalsen(v[53] \>= 30)
@@ -152,6 +158,7 @@ Warning short line	29/40' in Map215/events/5/pages/1/463/Dialogue:	Normal person
 Warning short line	23/40' in Map215/events/5/pages/1/463/Dialogue:	So mating remove spirit
 Warning Name	'ニンゲン' found but not:''human'' in text:	Normal person scared of demon¶So mating remove spirit
 Warning Name	'ワタシ' found but not:''I'' in text:	But here I resist.¶Strange...
+Warning Name	'抵抗' found but not:'will ' (or any other translation) in text:	Oh...I see. To a Camazotz, the human spirit is¶something to be wrenched open forcefully.
 Warning short line	32/40' in Map215/events/5/pages/1/481/Dialogue:	Especially once you know how the
 Warning short line	18/40' in Map215/events/5/pages/1/541/Dialogue:	Then not hide need
 Warning Name	'ワタシ' found but not:''I'' in text:	Then not hide need¶I like good feeling too♡
@@ -166,6 +173,7 @@ Warning Name	'ワタシ' found but not:''I'' in text:	But \\N[1] just attack me�
 Warning Name	'ニンゲン' found but not:''human'' in text:	I know....¶People kill my "friends"
 Warning Name	'ワタシ' found but not:''I'' in text:	I know....¶People kill my "friends"
 Warning Name	'ワタシノ' found but not:'my' in text:	But \\N[1] ............ ¶Really like me?
+Warning Name	'マイルーム' found but not:'my room' in text:	............... To be honest, I was just thinking about¶you coming here for a while......¶I think that's how you got here so easily...
 Warning Name	'抱き' found but not:'Hug' in text:	Camazotz flew up into the air holding \\N[1]!!
 Warning short line	31/40' in Map215/events/5/pages/1/732/Dialogue:	I'll stay for a while and leave
 Warning short line	29/40' in Map215/events/5/pages/1/743/Dialogue:	 is crushed and your sense of
@@ -185,12 +193,9 @@ Warning Name	'ワタシ' found but not:''I'' in text:	Me and \\N[1] become one, 
 Warning short line	39/40' in Map019/events/5/pages/0/79/Dialogue:	Having been recently milked, I am still
 Warning short line	35/40' in Map019/events/5/pages/0/79/Dialogue:	completely exhausted. I should wait
 Warning Name	'搾精' found but not:'milking' in text:	Having been recently milked, I am still¶completely exhausted. I should wait¶a little while longer before returning.
-Warning short line	39/40' in Map019/events/5/pages/0/79/Dialogue:	Having been recently milked, I am still
-Warning short line	35/40' in Map019/events/5/pages/0/79/Dialogue:	completely exhausted. I should wait
-Warning Name	'搾精' found but not:'milking' in text:	Having been recently milked, I am still¶completely exhausted. I should wait¶a little while longer before returning.
 Warning Name	'ニンゲンノ' found but not:'human's' in text:	Kahahahaha! ¶A human! A human male!
 Warning Name	'ニンゲン' found but not:''human'' in text:	Kahahahaha! ¶A human! A human male!
-Info line length	54	in Scripts/悪魔全書【本体】/382:44	1	"Book Completion: \#{monster_dictionary_perfection} %"
+Info line length	19	in Scripts/悪魔全書【本体】/382:44	1	"Book Completion: \#{monster_dictionary_perfection} %"
 Warning Name	'武器をしまう' found but not:'Draw weapon' in text:	Holster Gun
 Warning Name	'拘束' found but not:'bind ' (or any other translation) in text:	Go berserk and remove all holds or restraints,¶no matter what or how many.
 Warning Name	'無効' found but not:'prevention' in text:	Gives a 30% chance to nullify magical attacks.
@@ -204,10 +209,10 @@ Warning Name	'パニック' found but not:'Panic' in text:	Makes it less likely 
 Warning Name	'恐怖' found but not:'fear ' (or any other translation) in text:	Makes it less likely to be affected by Ecstasy, Puppet and¶Terror for 5 turns.
 Warning short line	12/50' in Skills/214/description/:	Rounds \\V[19]/6
 Warning Name	'リズ' found but not:'Liz' in text:	Rythmic leg move, beginner dance figure.¶\\c[2]Button Count:3 Time Limit:5\\}\\C[0] Previous Move:\\V[130]
-Warning Name	'リズ' found but not:'Liz' in text:	Rythmic leg move, beginner dance figure.¶\\c[2]Button Count:3 Time Limit:5\\}\\C[0] Previous Move:\\V[130]
 Warning Name	'リズ' found but not:'Liz' in text:	 performs an Inside!
+Warning char limit	70/60' in Skills/289/description/:	Beginner dance move where you twist your hips together with your feet.
 Warning line limit	3/2' in Skills/289/description/:	\\c[2]Button Count:3 Time Limit:3\\}\\C[0] Previous Move:\\V[130]
-Warning Name	'リズ' found but not:'Liz' in text:	Rythmic hip twist, beginner dance figure.¶Beginner dance: twist your hips together with your feet.¶\\c[2]Button Count:3 Time Limit:3\\}\\C[0] Previous Move:\\V[130]
+Warning Name	'リズ' found but not:'Liz' in text:	Rythmic hip twist, beginner dance figure.¶Beginner dance move where you twist your hips together with your feet.¶\\c[2]Button Count:3 Time Limit:3\\}\\C[0] Previous Move:\\V[130]
 Warning Name	'リズ' found but not:'Liz' in text:	 got into a Twist rhythm!
 Warning Name	'気力' found but not:'vitality' in text:	Violent leg move, consumes a lot of stamina.¶\\c[2]Button Count:3 Time Limit:3\\}\\C[0] Previous Move:\\V[130]
 Warning Name	'リズ' found but not:'Liz' in text:	Violent leg move, consumes a lot of stamina.¶\\c[2]Button Count:3 Time Limit:3\\}\\C[0] Previous Move:\\V[130]
@@ -231,12 +236,11 @@ Warning Name	'全弾' found but not:'All rounds' in text:	Reloads the weapon.\\C
 Warning short line	36/50' in Skills/785/description/:	Deals physical damage. Bullets \\V[137]/5
 Warning short line	37/50' in Skills/783/description/:	Deals physical damage. Bullets \\V[134]/15
 Warning Name	'ライフル弾' found but not:'rifle rounds' in text:	Reloads your weapon.¶Remaining bullets become 『\\I[895]5.56mm Rifle Bullet』.
-Warning char limit	63/60' in Skills/403/message2/:	\\N[1]'s hand sticks to her breasts and doesn't come off...
-Warning char limit	63/60' in Skills/403/message2/:	\\N[1]'s hand sticks to her breasts and doesn't come off...
+Warning char limit	63/60' in Skills/727/message2/:	\\N[1]'s hand sticks to her breasts and doesn't come off...
 Warning Name	'服を脱ぐ' found but not:'Remove Clothes' in text:	 seduces \\N[1] into taking off his clothes!
 Warning Name	'服を脱ぐ' found but not:'Remove Clothes' in text:	's seduction made \\N[1] take his clothes off!
 Warning Name	'脱力' found but not:'exhaust ' (or any other translation) in text:	 blows strength-draining breath at \\N[1]!
-Warning short line	45/50' in Skills/345/description/:	Deals a lot of physical damage. Bullets \\V[161]/6
+Warning short line	45/50' in Skills/787/description/:	Deals a lot of physical damage. Bullets \\V[161]/6
 Warning short line	44/50' in Skills/347/description/:	Deals extreme physical damage. Bullets \\V[161]/6
 Warning Name	'パラベラム弾' found but not:'Parabellum Rounds' in text:	Quickly reloads without taking up a turn.¶Remaining bullets become 『\\I[895]9mm parabellum bullets』。
 Warning Name	'檻' found but not:'coffin' in text:	Cat's Cage

@@ -1,4 +1,14 @@
-﻿> SHORTENED: Map003.txt
+﻿
+
+
+
+
+
+
+
+
+
+> SHORTENED: Map003.txt
 
 > BEGIN STRING
 早く行ってやれ。
@@ -22,9 +32,8 @@ What happened?#Aesthetic
 
 すこしだが攻略のアドバイスをやるよ。
 > CONTEXT: Map003/events/1/pages/2/6/Dialogue
-I can't help you much when it comes to a demon with
-increasing meal levels, but I will give you as much advice
-as I can.#Aesthetic
+I can't help you much with demonic corruption,
+but I will give you as much advice as I can.#Aesthetic
 > END STRING
 
 > BEGIN STRING
@@ -76,8 +85,8 @@ Always remember to keep your vitality up.#Aesthetic
 
 \\C[2]『口塞ぎ』を付与する攻撃だな。
 > CONTEXT: Map003/events/1/pages/2/40/Dialogue
-The main attack you need to worry about regarding Lampas is 
-her \\C[2]『Gag』 attack.#Aesthetic
+The main attack you need to worry about regarding
+Lampas is her \\C[2]『Gag』 attack.#Aesthetic
 > END STRING
 
 > BEGIN STRING
@@ -85,8 +94,8 @@ her \\C[2]『Gag』 attack.#Aesthetic
 
 \\C[2]次のターンで必ずピンチになる。
 > CONTEXT: Map003/events/1/pages/2/44/Dialogue
-If you leave this ability as is
-\\C[2]You'll be in trouble the next turn.#Aesthetic
+If you leave this ability as is,
+\\C[2]you'll be in trouble the next turn.#Aesthetic
 > END STRING
 
 > BEGIN STRING
@@ -94,9 +103,10 @@ If you leave this ability as is
 
 これが付与されると武器で攻撃できない。
 > CONTEXT: Map003/events/1/pages/2/48/Dialogue
-The ability 『Nipple Assault』 which can cause 『Puppet』 is 
-also troublesome. Under the 『Puppet』 status effect, you
-cannot attack with weapons.#Aesthetic
+The ability 『Nipple Assault』 which can cause
+『Puppet』 is also troublesome. Under the
+『Puppet』 status effect, you cannot attack with
+weapons.#Aesthetic
 > END STRING
 
 > BEGIN STRING
@@ -113,9 +123,10 @@ If you take enough damage, she'll strip you.
 
 それくらい今までの『おさらい』を兼ねた敵になる。
 > CONTEXT: Map003/events/1/pages/2/60/Dialogue
-This boss can be said to be the first truly challenging foe.
-This enemy basically doubles as a 『review』 of all the game
-mechanics you've interacted with so far.#Aesthetic
+This boss can be said to be the first truly
+challenging foe. This enemy basically doubles
+as a 『review』 of all the game mechanics you've
+interacted with so far.#Aesthetic
 > END STRING
 
 > BEGIN STRING
@@ -124,9 +135,10 @@ mechanics you've interacted with so far.#Aesthetic
 触手での攻撃は、『足』→『手』の順だから、
 手が先に拘束されることはない。
 > CONTEXT: Map003/events/1/pages/2/64/Dialogue
-First of all, \\C[2]Give up on freeing your feet.
-Her tentacle attacks have a set order 『leg』→『hand』. This order
-is set in stone so your hands will never be bound first.#Aesthetic
+First of all, \\C[2]give up on freeing your feet.
+Her tentacle attacks have a set order,
+『leg』→『hand』. This order is set in stone so your
+hands will never be bound first.#Aesthetic
 > END STRING
 
 > BEGIN STRING
@@ -135,9 +147,10 @@ is set in stone so your hands will never be bound first.#Aesthetic
 引きずられて、敵の目前まで来ても、
 『一気に距離をとるチャンス』はある
 > CONTEXT: Map003/events/1/pages/2/69/Dialogue
-\\C[2]If you think that your vitality is getting low, prioritize
-recovering your position first. If you're being dragged towards her 
-to the point that you're right in front of her you have an
+\\C[2]If you think that your vitality is getting
+low, prioritize recovering your position first.
+If you're being dragged towards her to the point
+that you're right in front of her you have an
 『Opportunity to take your distance at once』#Aesthetic
 > END STRING
 
@@ -146,9 +159,9 @@ to the point that you're right in front of her you have an
 
 \\C[2]危なく感じたら早めにアドレナリンかモルヒネを打っとけ。
 > CONTEXT: Map003/events/1/pages/2/74/Dialogue
-Well…If you really can't seem to win…
-\\C[2]Use the consumables Adrenaline or Morphine before things 
-start getting dangerous.#Aesthetic
+Well... If you really can't seem to win...
+\\C[2]Use the consumables Adrenaline or Morphine
+before things start getting dangerous.#Aesthetic
 > END STRING
 
 > BEGIN STRING
@@ -165,9 +178,10 @@ Don't 『Daze』 around during the fight.
 
 \\C[0]これを次のターンまで放っておくと、ほぼ詰みだ。
 > CONTEXT: Map003/events/1/pages/2/84/Dialogue
-Her most dangerous attacks are \\C[2]『Nipple Assault』『Crotch Assault』
-\\C[0]If you don't properly struggle out of these abilities, 
-she'll most likely win.#Aesthetic
+Her most dangerous attacks are \\C[2]『Nipple Assault』
+and 『Crotch Assault』. \\C[0]If you don't properly
+struggle out of these abilities, she'll most
+likely win.#Aesthetic
 > END STRING
 
 > BEGIN STRING
@@ -175,9 +189,10 @@ she'll most likely win.#Aesthetic
 
 初手は無難に『ふりはらう』でいっとけ。
 > CONTEXT: Map003/events/1/pages/2/88/Dialogue
-To be more specific,\\C[2] you'll be under both of those statuses on 
-the first turn. The first ability you should use is 『Shake Off』.
-Keeping those on you is a death sentence.#Aesthetic
+To be more specific, \\C[2]you'll be under both of
+those statuses on the first turn. The first
+ability you should use is 『Shake Off』. Keeping
+those on you is a death sentence.#Aesthetic
 > END STRING
 
 > BEGIN STRING
@@ -185,8 +200,9 @@ Keeping those on you is a death sentence.#Aesthetic
 
 \\C[2]常に気力を半分以上が望ましいな。
 > CONTEXT: Map003/events/1/pages/2/92/Dialogue
-However, the opponent also has the chance to stun you. 
-\\C[2]Do your best to never let your vitality drop below half.#Aesthetic
+However, your opponent also has a chance to stun
+you. \\C[2]Do your best to never let your vitality drop
+below half.#Aesthetic
 > END STRING
 
 > BEGIN STRING
@@ -194,9 +210,10 @@ However, the opponent also has the chance to stun you.
 
 絶対に次のターンに入る前に、\\C[2]何かしらの攻撃が来る。
 > CONTEXT: Map003/events/1/pages/2/96/Dialogue
-If you use 「Coffin Struggle」 there will definitely be a powerful
-attack coming your way.\\C[2] 
-Make sure you have the health to survive the attack.#Aesthetic
+If you use 「Coffin Struggle」 there will
+definitely be a powerful attack coming your way.
+\\C[2]Make sure you have the health to survive the
+attack.#Aesthetic
 > END STRING
 
 > BEGIN STRING
@@ -204,8 +221,9 @@ Make sure you have the health to survive the attack.#Aesthetic
 
 ゲージ的にもステート的にも余裕を持った状態がベストだな。
 > CONTEXT: Map003/events/1/pages/2/100/Dialogue
-\\C[2]If you are about to use 『Coffin Struggle』 make sure 
-you have enough vitality, health, and a good lust level.#Aesthetic
+\\C[2]If you are about to use 『Coffin Struggle』, make
+sure you have enough vitality, health, and a good
+lust level.#Aesthetic
 > END STRING
 
 > BEGIN STRING
@@ -214,16 +232,17 @@ you have enough vitality, health, and a good lust level.#Aesthetic
 速効でアドレナリン使ってゴリ押すっていう荒技もあるが…
 うまくいくかどうかは運次第だ。
 > CONTEXT: Map003/events/1/pages/2/104/Dialogue
-\\C[2]After making it through her first attack, you have room
-to use andernaline and morphine.
-She also has a rough skill that increases ecstasy. Adrenaline
-can help with that, but whether it works depends on luck.#Aesthetic
+\\C[2]After making it through her first attack, you
+have room to use andernaline and morphine. She
+also has a power technique that increases
+ecstasy. Adrenaline can help with that, but
+whether it works depends on luck.#Aesthetic
 > END STRING
 
 > BEGIN STRING
 \\C[2]その際にも、股間攻めと乳首攻めには気をつけろよ？
 > CONTEXT: Map003/events/1/pages/2/109/Dialogue
-\\C[2]Remember, you need to be careful of Crotch Assault 
+\\C[2]Remember, you need to be careful of Crotch Assault
 and Nipple Assault.#Aesthetic
 > END STRING
 
@@ -590,6 +609,7 @@ If you fall into this hole, you can return to the world you came from.  #Aesthet
 You can use them to come here any time.#Aesthetic
 > END STRING
 
+
 > SHORTENED: Map004.txt
 
 > BEGIN STRING
@@ -613,6 +633,7 @@ I remember something surprising happening in the car.#Aesthetic
 .....? 
 Where...is this....?#Aesthetic
 > END STRING
+
 
 > SHORTENED: Map005.txt
 
@@ -687,6 +708,7 @@ They usually don't flock together, but the possibility isn't 0.
 Proceed with caution、\\N[1]。#Aesthetic
 > END STRING
 
+
 > SHORTENED: Map006.txt
 
 > BEGIN STRING
@@ -695,6 +717,9 @@ Proceed with caution、\\N[1]。#Aesthetic
 > CONTEXT: Map006/events/2/pages/0/24/Dialogue
 Yuuma「After the day of the accident, the world changed a lot. 
 The war with 『demons』 began.」#Aesthetic
+> CONTEXT: Map006/events/2/pages/1/24/Dialogue
+Yuuma「Soon after the day of the accident, the world also
+changed massively. The war with the "demons" began.」#Ron
 > END STRING
 
 > BEGIN STRING
@@ -705,25 +730,23 @@ The war with 『demons』 began.」#Aesthetic
 Yuuma「I originally set up the cryogenic stasis for a long 
 period of time. If it detected you regained consciousness, 
 the machine would open automatically.」#Aesthetic
-> END STRING
-
-> BEGIN STRING
-裕真「簡単に言えば、そうなるな…。
-　　　しかしさっきバーゲストが侵入してきた事もある。
-　　　お前を安全な場所に誘導する必要があるだろう。」
-> CONTEXT: Map006/events/2/pages/0/40/Dialogue
-Yuuma「To put it simply, that's how things are. Sometimes, however
-demons like the Barghest would invade. I'm going to need to guide
-you to a safe place.」#Aesthetic
+> CONTEXT: Map006/events/2/pages/1/33/Dialogue
+Yuuma「It was supposed to be set up for long-term 
+cryogenic stasis. The machine you were in must have
+automatically thawed you out because it detected
+that you happened to regain conciousness.」#Ron
 > END STRING
 
 > BEGIN STRING
 ユウマ「\\N[1]。聞こえているか？
 　　今システムの復旧が完了した。この映像が見えているか？」
 > CONTEXT: Map006/events/2/pages/0/67/Dialogue
-> CONTEXT: Map006/events/2/pages/2/0/Dialogue
 Yuuma「\\N[1]. Can you hear it? Recovery of the system
 is now completed. Can you see the image?」#Aesthetic
+> CONTEXT: Map006/events/2/pages/1/70/Dialogue
+> CONTEXT: Map006/events/2/pages/3/0/Dialogue
+Yuuma「Can you hear me, \\N[1]? I've finished
+restoring the system. Can you see me on the screen?」#Ron
 > END STRING
 
 > BEGIN STRING
@@ -731,15 +754,19 @@ is now completed. Can you see the image?」#Aesthetic
 
 　　　　　　　間違いなく、僕の友人の裕真（ゆうま）だった。
 > CONTEXT: Map006/events/2/pages/0/71/Dialogue
-> CONTEXT: Map006/events/2/pages/2/4/Dialogue
 The person who appeared on screen was a familiar man...
 Without a doubt, that was my friend Yuuma.#Aesthetic
+> CONTEXT: Map006/events/2/pages/1/74/Dialogue
+> CONTEXT: Map006/events/2/pages/3/4/Dialogue
+A familiar man was displayed on the screen in front
+of me. It was definitely my friend Yuuma.#Ron
 > END STRING
 
 > BEGIN STRING
 あ、ああ！！聞こえているぜ！ユウマ！
 > CONTEXT: Map006/events/2/pages/0/80/Dialogue
-> CONTEXT: Map006/events/2/pages/2/13/Dialogue
+> CONTEXT: Map006/events/2/pages/1/83/Dialogue
+> CONTEXT: Map006/events/2/pages/3/13/Dialogue
 Ah...Ah!! I can hear you better! 
 Yuuma!#Aesthetic
 > END STRING
@@ -749,6 +776,7 @@ Yuuma!#Aesthetic
 
 　　　　　　この男の生真面目さは、相変わらずみたいだ。
 > CONTEXT: Map006/events/2/pages/0/88/Dialogue
+> CONTEXT: Map006/events/2/pages/1/91/Dialogue
 Yuuma looks at you through the screen with a tearful face. 
 He hasn't changed. He's still as serious as ever.#Aesthetic
 > END STRING
@@ -757,6 +785,7 @@ He hasn't changed. He's still as serious as ever.#Aesthetic
 これは本当は、俺一人の脱出用で
 このまますぐにでも出発する予定だったが…。
 > CONTEXT: Map006/events/2/pages/0/124/Dialogue
+> CONTEXT: Map006/events/2/pages/1/127/Dialogue
 Seriously, I wish I could just deploy and go pick you
 up right now but...#Aesthetic
 > END STRING
@@ -766,7 +795,8 @@ up right now but...#Aesthetic
 
 すまんが俺からはそこに救助に行くことは出来ない。
 > CONTEXT: Map006/events/2/pages/0/129/Dialogue
-> CONTEXT: Map006/events/2/pages/2/62/Dialogue
+> CONTEXT: Map006/events/2/pages/1/132/Dialogue
+> CONTEXT: Map006/events/2/pages/3/62/Dialogue
 I'm needed here to keep things safe.#Aesthetic
 > END STRING
 
@@ -775,7 +805,8 @@ I'm needed here to keep things safe.#Aesthetic
 その先の居住区画に、地上へ続くエレベーターがある。
 そこを目指すんだ。
 > CONTEXT: Map006/events/2/pages/0/133/Dialogue
-> CONTEXT: Map006/events/2/pages/2/66/Dialogue
+> CONTEXT: Map006/events/2/pages/1/136/Dialogue
+> CONTEXT: Map006/events/2/pages/3/66/Dialogue
 First of all, you need to escape from that 『Evacuation shelter』. 
 There is an elevator that continues to the surface
 in the living quarter ahead.
@@ -787,7 +818,8 @@ That's the destination.#Aesthetic
 
  イヤホンのようなものを耳にかけろ。
 > CONTEXT: Map006/events/2/pages/0/145/Dialogue
-> CONTEXT: Map006/events/2/pages/2/78/Dialogue
+> CONTEXT: Map006/events/2/pages/1/148/Dialogue
+> CONTEXT: Map006/events/2/pages/3/78/Dialogue
 \\N[1], There should be a small earpiece
 around there.#Aesthetic
 > END STRING
@@ -795,15 +827,19 @@ around there.#Aesthetic
 > BEGIN STRING
 こ、これか？
 > CONTEXT: Map006/events/2/pages/0/149/Dialogue
-> CONTEXT: Map006/events/2/pages/2/82/Dialogue
 Is...Is this it?#Aesthetic
+> CONTEXT: Map006/events/2/pages/1/152/Dialogue
+> CONTEXT: Map006/events/2/pages/3/82/Dialogue
+Is this it?#Ron
 > END STRING
 
 > BEGIN STRING
 つ………っ！！！！？
 > CONTEXT: Map006/events/2/pages/0/153/Dialogue
-> CONTEXT: Map006/events/2/pages/2/86/Dialogue
 Ssss.....!!!!?#Aesthetic
+> CONTEXT: Map006/events/2/pages/1/156/Dialogue
+> CONTEXT: Map006/events/2/pages/3/86/Dialogue
+Aa-...!?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -811,16 +847,22 @@ Ssss.....!!!!?#Aesthetic
 
 ワサビがツーンとくるような感覚がしばらく続く。
 > CONTEXT: Map006/events/2/pages/0/155/Dialogue
-> CONTEXT: Map006/events/2/pages/2/88/Dialogue
 Careful. When you put it on for the first time,
 it feels like wasabi rubbing against a tree for a bit.#Aesthetic
+> CONTEXT: Map006/events/2/pages/1/158/Dialogue
+> CONTEXT: Map006/events/2/pages/3/88/Dialogue
+Careful. That feeling of being hit with wasabi
+lasts for a while when you attach it for the
+first time.#Ron
 > END STRING
 
 > BEGIN STRING
 お、遅すぎる的確な表現をどうも……！
 > CONTEXT: Map006/events/2/pages/0/159/Dialogue
-> CONTEXT: Map006/events/2/pages/2/92/Dialogue
 You should've said something sooner...#Aesthetic
+> CONTEXT: Map006/events/2/pages/1/162/Dialogue
+> CONTEXT: Map006/events/2/pages/3/92/Dialogue
+G- gee thanks for the warning!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -828,9 +870,12 @@ You should've said something sooner...#Aesthetic
 
 なにかヤバイもんじゃないんだろうな……！？
 > CONTEXT: Map006/events/2/pages/0/161/Dialogue
-> CONTEXT: Map006/events/2/pages/2/94/Dialogue
 Wait is this OK!? It's stuck to my ear...
 This thing better not be dangerous...#Aesthetic
+> CONTEXT: Map006/events/2/pages/1/164/Dialogue
+> CONTEXT: Map006/events/2/pages/3/94/Dialogue
+Is this thing okay to wear!? It's stuck to my
+ear... it's not dangerous or anything is it...!?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -838,10 +883,14 @@ This thing better not be dangerous...#Aesthetic
 
 お前が手で引き剥がそうとすれば、磁石みたいにすぐ外せる。
 > CONTEXT: Map006/events/2/pages/0/165/Dialogue
-> CONTEXT: Map006/events/2/pages/2/98/Dialogue
 Calm down, it's alright. 
 If you try to peel it off with your hand, it should
 come off as easily as a magnet would.#Aesthetic
+> CONTEXT: Map006/events/2/pages/1/168/Dialogue
+> CONTEXT: Map006/events/2/pages/3/98/Dialogue
+Take it easy, it's fine.
+You can peel it off with your hand just like a
+magnet.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -849,10 +898,15 @@ come off as easily as a magnet would.#Aesthetic
 
 骨の振動から直接、装着者の音声を拾う通信機だ。
 > CONTEXT: Map006/events/2/pages/0/169/Dialogue
-> CONTEXT: Map006/events/2/pages/2/102/Dialogue
 That device was developed around the beginning of the war
 with the demons. Using the vibrations from your bones, it's
 a device that picks up the user's voice.#Aesthetic
+> CONTEXT: Map006/events/2/pages/1/172/Dialogue
+> CONTEXT: Map006/events/2/pages/3/102/Dialogue
+It was developed around the beginning of the war
+with the demons. It's a communication device that
+picks up the wearer's voice directly from bone
+vibrations.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -861,10 +915,15 @@ a device that picks up the user's voice.#Aesthetic
 ……はずなんだが、どういうわけか
 周囲の悪魔には筒抜けらしい。
 > CONTEXT: Map006/events/2/pages/0/173/Dialogue
-> CONTEXT: Map006/events/2/pages/2/106/Dialogue
 My voice should also be transmitted directly to your
 ear bones. Only you should hear me... but for some reason
 my voice will reach surroundidng demons. #Aesthetic
+> CONTEXT: Map006/events/2/pages/1/176/Dialogue
+> CONTEXT: Map006/events/2/pages/3/106/Dialogue
+My voice is also transmitted directly via your
+ear bones. Only you can hear it. Or at least
+that's what's supposed to happen. Apparently
+demons around you can somehow hear it.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -872,10 +931,15 @@ my voice will reach surroundidng demons. #Aesthetic
 
 これなら、さっきの無線機よりはよっぽどマシだろう？
 > CONTEXT: Map006/events/2/pages/0/178/Dialogue
-> CONTEXT: Map006/events/2/pages/2/111/Dialogue
 For that reason, the military doesn't use it even if it's
 popular with the general populace.
 It's much better than that radio though right?#Aesthetic
+> CONTEXT: Map006/events/2/pages/1/181/Dialogue
+> CONTEXT: Map006/events/2/pages/3/111/Dialogue
+So even though it was widely adopted, the
+military never utilised it. Still, it's much
+better than the wireless radio you were using
+before, right?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -883,9 +947,12 @@ It's much better than that radio though right?#Aesthetic
 
 通信ノイズが全くない……。
 > CONTEXT: Map006/events/2/pages/0/182/Dialogue
-> CONTEXT: Map006/events/2/pages/2/115/Dialogue
 Amazing...It sounds like you're right next to me.
 There's no static at all.#Aesthetic
+> CONTEXT: Map006/events/2/pages/1/185/Dialogue
+> CONTEXT: Map006/events/2/pages/3/115/Dialogue
+Wow... It's like you're right next to me. There's
+no static or anything...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -893,9 +960,12 @@ There's no static at all.#Aesthetic
 
 なんてことはないだろうな………。
 > CONTEXT: Map006/events/2/pages/0/186/Dialogue
-> CONTEXT: Map006/events/2/pages/2/119/Dialogue
 If it's like this, we won't have the same issue
 of not recognizing each other by our voices...#Aesthetic
+> CONTEXT: Map006/events/2/pages/1/189/Dialogue
+> CONTEXT: Map006/events/2/pages/3/119/Dialogue
+With this, it won't be like before when I heard
+your voice and didn't know who it was.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -903,11 +973,16 @@ of not recognizing each other by our voices...#Aesthetic
 しかし通常の無線機同様に、\\C[2]悪魔との戦闘中は
  ほとんど不通になる。\\C[0]注意してくれ。
 > CONTEXT: Map006/events/2/pages/0/190/Dialogue
-> CONTEXT: Map006/events/2/pages/2/123/Dialogue
 Ah. 
 However, as with ordinary radio equipment,\\C[2]
 while you're battling with demons, the connection is
 unstable. \\C[0]Be careful.#Aesthetic
+> CONTEXT: Map006/events/2/pages/1/193/Dialogue
+> CONTEXT: Map006/events/2/pages/3/123/Dialogue
+Oh yeah. But just like with normal radio
+equipment, \\C[2]radio contact will pretty much
+stop when you're battling demons.\\C[0]
+Please be careful.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -915,9 +990,13 @@ unstable. \\C[0]Be careful.#Aesthetic
 
 分かった。なんとかやってみるよ。
 > CONTEXT: Map006/events/2/pages/0/194/Dialogue
-> CONTEXT: Map006/events/2/pages/2/127/Dialogue
 ...Ok, I also understand why you have to stay there...
 Yeah, I'll try to do what I can from my end.#Aesthetic
+> CONTEXT: Map006/events/2/pages/1/197/Dialogue
+> CONTEXT: Map006/events/2/pages/3/127/Dialogue
+... If you can't move from where you are then
+there's no other way.
+Understood, I'll give it a try.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -925,22 +1004,13 @@ Yeah, I'll try to do what I can from my end.#Aesthetic
 
 \\c[0]ナビゲーション、しっかり頼むぜ、ユウマ。
 > CONTEXT: Map006/events/2/pages/0/198/Dialogue
-> CONTEXT: Map006/events/2/pages/2/131/Dialogue
 To start with, \\c[2]I'm headed for the elevator right?
 \\c[0]I'll leave the navigation to you Yuuma.#Aesthetic
-> END STRING
-
-> BEGIN STRING
-　　　　　　　　　『！マーク』について
-> CONTEXT: Map006/events/2/pages/0/223/Dialogue
-『Marks』 have been set.#Aesthetic
-> END STRING
-
-> BEGIN STRING
-これは、『そこを調べるとイベントが進行する』という合図です。
-> CONTEXT: Map006/events/2/pages/0/229/Dialogue
-If you 『examine them, an event will occur.』
-They are a sign to interact with the area.#Aesthetic
+> CONTEXT: Map006/events/2/pages/1/201/Dialogue
+> CONTEXT: Map006/events/2/pages/3/131/Dialogue
+First of all, \\c[2]I'll head to the elevator.
+\\c[0]I'll be sure to ask you for directions,
+Yuuma.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -952,13 +1022,17 @@ Depending on what kind of event you're seeing you may
 be taken into a forced battle. Before checking Marks it's
 recommended that you save, and check on your items. Don't
 get lazy.#Aesthetic
+> CONTEXT: Map006/events/2/pages/1/232/Dialogue
+Depending on the progress of the event, forced combat may
+occur. Be sure to prepare, replenish items, and save
+before activating these points.#Ron
 > END STRING
 
 > BEGIN STRING
 　　ユウマは涙声になりながら、画面越しにこちらを見つめている。
 
 　　　　この男の生真面目さは、相変わらずみたいだ。
-> CONTEXT: Map006/events/2/pages/2/21/Dialogue
+> CONTEXT: Map006/events/2/pages/3/21/Dialogue
 Yuuma looks at you through the screen with a tearful face. 
 He hasn't changed. He's still as serious as ever.#Aesthetic
 > END STRING
@@ -1064,16 +1138,8 @@ I want to isolate and hide just this partition of the ward.
 I...I think it's probably just a matter of time.#Aesthetic
 > END STRING
 
+
 > SHORTENED: Map007.txt
-
-> BEGIN STRING
-この先が居住区エリアのはずだが……
-
-ロックがかかっているようだな……
-> CONTEXT: Map007/events/33/pages/1/3/Dialogue
-This door should lead to the residential area...
-It seems that it is locked...#Aesthetic
-> END STRING
 
 > BEGIN STRING
 おそらく、お前のような患者を守るために
@@ -1121,6 +1187,7 @@ If this unique lock is released,
 I can handle the rest from here.#Aesthetic
 > END STRING
 
+
 > SHORTENED: Map008.txt
 
 > BEGIN STRING
@@ -1148,6 +1215,7 @@ There are traces of thousands of strange things...
 They must've really been in a hurrty.#Aesthetic
 > END STRING
 
+
 > SHORTENED: Map009.txt
 
 > BEGIN STRING
@@ -1155,6 +1223,10 @@ They must've really been in a hurrty.#Aesthetic
 > CONTEXT: Map009/events/4/pages/0/2/Dialogue
 List of seized goods from MOW base facilities#Aesthetic
 > END STRING
+
+
+
+
 
 > SHORTENED: Map013.txt
 
@@ -1189,6 +1261,8 @@ I feel bad for Mr. Victim, but I have to move him.#Aesthetic
 I can jump down from this height.#Aesthetic
 > END STRING
 
+
+
 > SHORTENED: Map015.txt
 
 > BEGIN STRING
@@ -1222,8 +1296,24 @@ sick.  Our goal is to evacuate all civilians.#Aesthetic
  最後まで気を抜かないようお願い致します。
 > CONTEXT: Map015/events/14/pages/0/21/Dialogue
 Until each area is closed, We can only rely on ourselves
-to defend this place.  Please stay focused until the end.#Aesthetic
+to defend this place. Please stay focused until the end.#Aesthetic
 > END STRING
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 > SHORTENED: Map031.txt
 
@@ -1247,21 +1337,12 @@ those demon plants?#Aesthetic
 > END STRING
 
 > BEGIN STRING
-いや……違うんだ。今までと違って、綺麗すぎる。
-
-まるで『ここは安全』って言わんばかりの……
-> CONTEXT: Map031/events/1/pages/0/10/Dialogue
-No...It's different. Unlike previously, the air's too clean. 
-I'm telling you, it's as if 『it's safe here』...#Aesthetic
-> END STRING
-
-> BEGIN STRING
 ……奴ら、何か企んでいるな。
 
 警戒して進むんだ、\\N[1]。
 > CONTEXT: Map031/events/1/pages/0/18/Dialogue
 ...They're planning something.
-Proceed with caution, \\N[1]#Aesthetic
+Proceed with caution, \\N[1].#Aesthetic
 > END STRING
 
 > BEGIN STRING
@@ -1275,6 +1356,23 @@ Proceed with caution, \\N[1]#Aesthetic
 There is no sign of demons around here...... 
 Everyone seems to have escaped.........#Aesthetic
 > END STRING
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 > SHORTENED: Map051.txt
 
@@ -1357,6 +1455,10 @@ It was a kind voice.#Aesthetic
 > CONTEXT: Map051/events/16/pages/0/30/Dialogue
 I'm scared, but I'm going to open the door. I'll be back later.#Aesthetic
 > END STRING
+
+
+
+
 
 > SHORTENED: Map055.txt
 
@@ -1476,6 +1578,15 @@ If you have then go already.#Aesthetic
 This is not a place for people like you.#Aesthetic
 > END STRING
 
+
+
+
+
+
+
+
+
+
 > SHORTENED: Map067.txt
 
 > BEGIN STRING
@@ -1551,6 +1662,7 @@ Or maybe, The 『you』 that I know you can be is somewhere down there.
 Maybe I can get that person out with reverse rape!?#Aesthetic
 > END STRING
 
+
 > SHORTENED: Map068.txt
 
 > BEGIN STRING
@@ -1606,6 +1718,7 @@ It feels dangerous to be here for too long. #Aesthetic
 > CONTEXT: Map068/events/1/pages/1/6/Dialogue
 Yeah..... I don't want to be here...#Aesthetic
 > END STRING
+
 
 > SHORTENED: Map069.txt
 
@@ -1687,6 +1800,9 @@ Now all that's left is to jump out at the right time!!#Aesthetic
 The entrance was blocked by the impact of the explosion...#Aesthetic
 > END STRING
 
+
+
+
 > SHORTENED: Map073.txt
 
 > BEGIN STRING
@@ -1704,22 +1820,9 @@ The entrance was blocked by the impact of the explosion...#Aesthetic
 Haaaa!!#Aesthetic
 > END STRING
 
-> SHORTENED: Map076.txt
 
-> BEGIN STRING
-\\N[1]様、お目覚めください。
 
-ゆっくりと、目を開けるのです…。
-> CONTEXT: Map076/events/5/pages/1/20/Dialogue
-> CONTEXT: Map064/events/5/pages/1/20/Dialogue
-> CONTEXT: Map053/events/5/pages/1/20/Dialogue
-> CONTEXT: Map048/events/5/pages/1/20/Dialogue
-> CONTEXT: Map036/events/5/pages/1/20/Dialogue
-> CONTEXT: Map015/events/5/pages/1/20/Dialogue
-> CONTEXT: Map011/events/16/pages/1/20/Dialogue
-\\N[1] Mister, Please wake up. Slowly, 
-I open my eyes...#Aesthetic
-> END STRING
+
 
 > SHORTENED: Map078.txt
 
@@ -1805,6 +1908,7 @@ When they...
 Since they came to this village, everyone started acting
 strange!#Aesthetic
 > END STRING
+
 
 > SHORTENED: Map079.txt
 
@@ -1906,6 +2010,9 @@ Humans are weak aren't they.#Aesthetic
 * Giggle *………. But that's probably why they're so cute.#Aesthetic
 > END STRING
 
+
+
+
 > SHORTENED: Map082.txt
 
 > BEGIN STRING
@@ -1977,6 +2084,18 @@ The 『Black coffin』 is...opening...!
 ！？\\|\\^#Aesthetic
 > END STRING
 
+
+
+
+
+
+
+
+
+
+
+
+
 > SHORTENED: Map095.txt
 
 > BEGIN STRING
@@ -2046,6 +2165,8 @@ on her own. I've called for 『Child spider』 familiars.
 You better be careful.#Aesthetic
 > END STRING
 
+
+
 > SHORTENED: Map098.txt
 
 > BEGIN STRING
@@ -2112,6 +2233,8 @@ Sphinx's battle is troublesome…
 Unless you try it, it's hard to know whether you like it.#Aesthetic
 > END STRING
 
+
+
 > SHORTENED: Map100.txt
 
 > BEGIN STRING
@@ -2156,6 +2279,9 @@ If you're still here, nobody is coming to save you.#Aesthetic
 If you're wonder how much further... you're close.
 Watch out for demons, be careful, and proceed with caution.#Aesthetic
 > END STRING
+
+
+
 
 > SHORTENED: Map103.txt
 
@@ -2223,6 +2349,8 @@ What do you mean, what will I do?
 It's not like I have any other options!!#Aesthetic
 > END STRING
 
+
+
 > SHORTENED: Map105.txt
 
 > BEGIN STRING
@@ -2243,6 +2371,11 @@ sheep「If you don't want to be noticed by the devil in the water,
 \\C[2] you might want to stop running.」#Aesthetic
 > END STRING
 
+
+
+
+
+
 > SHORTENED: Map115.txt
 
 > BEGIN STRING
@@ -2250,11 +2383,11 @@ sheep「If you don't want to be noticed by the devil in the water,
 > CONTEXT: Map115/events/93/pages/1/1/Dialogue
 > CONTEXT: Map114/events/63/pages/1/1/Dialogue
 > CONTEXT: Map113/events/72/pages/1/1/Dialogue
-> CONTEXT: Map118/events/15/pages/1/0/Dialogue
 > CONTEXT: Map112/events/52/pages/1/1/Dialogue
-> CONTEXT: Map109/events/108/pages/1/1/Dialogue
 > CONTEXT: Map110/events/107/pages/1/1/Dialogue
+> CONTEXT: Map109/events/108/pages/1/1/Dialogue
 > CONTEXT: Map108/events/102/pages/1/1/Dialogue
+> CONTEXT: Map118/events/15/pages/1/0/Dialogue
 > CONTEXT: Map106/events/55/pages/1/1/Dialogue
 Echo's presence disappeared……#Aesthetic
 > END STRING
@@ -2270,6 +2403,8 @@ Locked.
 
 Apparently,\\C[2] I'm going to need a key.#Aesthetic
 > END STRING
+
+
 
 > SHORTENED: Map117.txt
 
@@ -2327,6 +2462,15 @@ People who have experience like Yuuma are precious.
 His talents will be necessary for an evacuation unit 
 such as ourselves.#Aesthetic
 > END STRING
+
+
+
+
+
+
+
+
+
 
 > SHORTENED: Map127.txt
 
@@ -2396,6 +2540,9 @@ How do I save you from such a high place?
 I understand how you feel, but I have to prioritize
 myself at the moment. ……You would do the same in my position…#Aesthetic
 > END STRING
+
+
+
 
 > SHORTENED: Map130.txt
 
@@ -2480,6 +2627,13 @@ Let's save it for when you go to my room♡#Aesthetic
 Ha, ha, ha...#Aesthetic
 > END STRING
 
+
+
+
+
+
+
+
 > SHORTENED: Map137.txt
 
 > BEGIN STRING
@@ -2516,6 +2670,7 @@ You're right...Yeah, you're right.
 Lets go, Lampas.#Aesthetic
 > END STRING
 
+
 > SHORTENED: Map138.txt
 
 > BEGIN STRING
@@ -2527,6 +2682,15 @@ Lets go, Lampas.#Aesthetic
 If I put this on the shore of the resting place, it seems
 I will be able to cross over the other side......#Aesthetic
 > END STRING
+
+
+
+
+
+
+
+
+
 
 > SHORTENED: Map147.txt
 
@@ -2562,12 +2726,186 @@ like an old building...#Aesthetic
 Is it calling someone?#AestheticUNSURE
 > END STRING
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+> SHORTENED: Map166.txt
+
+> BEGIN STRING
+クモの巣がびっしりと張り巡らされていて
+
+中には入れそうもない…
+> CONTEXT: Map166/events/8/pages/2/0/Dialogue
+> CONTEXT: Map003/events/8/pages/2/0/Dialogue
+A spider's web was stretched tightly over the entrance. 
+I don't think I'll be able to make squeeze past it.#Aesthetic
+> END STRING
+
+
+
+
+
+
+
+
+
+
+
+
+
+> SHORTENED: Map183.txt
+
+> BEGIN STRING
+外に出たようだな。
+
+少し待ってくれ、追跡座標を再取得する。
+> CONTEXT: Map183/events/4/pages/0/21/Dialogue
+> CONTEXT: Map045/events/4/pages/0/21/Dialogue
+You seem to have gone outside.
+Wait a sec. I'm getting your exact coordinates.#Aesthetic
+> END STRING
+
+> BEGIN STRING
+…………よし、OKだ。
+> CONTEXT: Map183/events/4/pages/0/27/Dialogue
+> CONTEXT: Map045/events/4/pages/0/27/Dialogue
+…………Good, everything's OK.#Aesthetic
+> END STRING
+
+> BEGIN STRING
+港に着くには、ここから少し市街地を歩く必要がある。
+
+俺の部隊が設置した\\C[2]灯火装置を頼りに進んでいけ。
+> CONTEXT: Map183/events/4/pages/0/29/Dialogue
+> CONTEXT: Map045/events/4/pages/0/29/Dialogue
+To get to the harbor, you'll need to walk around downtown for a bit. 
+You can rely on the \\C[2] lighting equipment that my troops
+set up.#Aesthetic
+> END STRING
+
+> BEGIN STRING
+街は倒壊している部分も多い、
+
+悪魔の気配も含めて、充分に警戒して……
+> CONTEXT: Map183/events/4/pages/0/33/Dialogue
+> CONTEXT: Map045/events/4/pages/0/33/Dialogue
+Many parts of the city is collapsed. You'll have to worry about that,
+and be wary of any sign of demon activity.#Aesthetic
+> END STRING
+
+> BEGIN STRING
+……\\N[1]、聞こえているか？
+> CONTEXT: Map183/events/4/pages/0/40/Dialogue
+> CONTEXT: Map045/events/4/pages/0/40/Dialogue
+……\\N[1], Did you hear that?#Aesthetic
+> END STRING
+
+> BEGIN STRING
+あ、ああ！すまない……ユウマ。
+
+聞こえてるよ、灯火装置を探しながら進むんだな。
+> CONTEXT: Map183/events/4/pages/0/42/Dialogue
+> CONTEXT: Map045/events/4/pages/0/42/Dialogue
+Ah,Oh! Sorry...Yuuma. I heard you.、I should go looking
+for a lighting device right?#Aesthetic
+> END STRING
+
+> BEGIN STRING
+……\\N[1]。
+あのテープの内容はショックだったと思う。
+俺もできれば、あれをお前に聞かせたくはなかった……。
+> CONTEXT: Map183/events/4/pages/0/46/Dialogue
+> CONTEXT: Map045/events/4/pages/0/46/Dialogue
+……\\N[1]. 
+I understand the content of that tape was shocking. 
+I did not want you to find out this way...#Aesthetic
+> END STRING
+
+> BEGIN STRING
+だが、あれほどお前と仲の良かったレイナが
+
+あんな内容のテープを残すとは、俺は思えない。
+> CONTEXT: Map183/events/4/pages/0/50/Dialogue
+> CONTEXT: Map045/events/4/pages/0/50/Dialogue
+I just can't believe that Reina, one of your best friends, 
+would leave a tape like that.#Aesthetic
+> END STRING
+
+> BEGIN STRING
+わかってる……。
+
+レイナの口から真実を聞くまでは、僕も納得しない。
+きっと、なにか理由があるはずだ…。
+> CONTEXT: Map183/events/4/pages/0/55/Dialogue
+> CONTEXT: Map045/events/4/pages/0/55/Dialogue
+I know... Until we hear the truth from
+Reina's mouth, I am not convinced either.
+There has to be some reason...#Aesthetic
+> END STRING
+
+> BEGIN STRING
+それに彼女は今、Ｍ.Ｏ.Ｗに追われていることも事実だ。
+
+何と言われようと、必ず助け出してみせる…！
+> CONTEXT: Map183/events/4/pages/0/60/Dialogue
+> CONTEXT: Map045/events/4/pages/0/60/Dialogue
+Besides, the fact of the matter is, she is being chased
+by M.O.W. No matter what she says, we have to help her.#Aesthetic
+> END STRING
+
+> BEGIN STRING
+………お前は強いな、本当に。
+> CONTEXT: Map183/events/4/pages/0/64/Dialogue
+> CONTEXT: Map045/events/4/pages/0/64/Dialogue
+………You really are strong.#Aesthetic
+> END STRING
+
+> BEGIN STRING
+…………羨ましいよ。
+> CONTEXT: Map183/events/4/pages/0/67/Dialogue
+> CONTEXT: Map045/events/4/pages/0/67/Dialogue
+…………I envy you.#Aesthetic
+> END STRING
+
+> BEGIN STRING
+……なんでもない。
+
+先に進むぞ、\\N[1]。
+> CONTEXT: Map183/events/4/pages/0/71/Dialogue
+> CONTEXT: Map045/events/4/pages/0/71/Dialogue
+……Nevermind. Let's move on \\N[1].#Aesthetic
+> END STRING
+
+
+
+
+
+
+
+
+
+
 > SHORTENED: Map195.txt
 
 > BEGIN STRING
 おう、よく来たな。
 
 ここまで生き延びてるって事は、まずは合格ってとこか。
+> CONTEXT: Map195/events/1/pages/0/3/Dialogue
+> CONTEXT: Map166/events/1/pages/0/3/Dialogue
 > CONTEXT: Map003/events/1/pages/0/3/Dialogue
 Oh, Good job making it this far. If you've survived this long
 then I must say you've passed.#Aesthetic
@@ -2576,6 +2914,8 @@ then I must say you've passed.#Aesthetic
 > BEGIN STRING
 フフフ……改めて自己紹介しますね。
 私は冥府の番人の秘書を務める　『メイラ』。
+> CONTEXT: Map195/events/1/pages/0/9/Dialogue
+> CONTEXT: Map166/events/1/pages/0/9/Dialogue
 > CONTEXT: Map003/events/1/pages/0/9/Dialogue
 Fufufu... It seems I need to introduce myself again.
 I serve as the Secretary of the Netherworld
@@ -2585,6 +2925,8 @@ Guardian. My name is 『Meira』.#Aesthetic
 > BEGIN STRING
 そいで、俺がその冥府の番人の『クッション君』だ。
  『君』まで入れて名前だからな。
+> CONTEXT: Map195/events/1/pages/0/12/Dialogue
+> CONTEXT: Map166/events/1/pages/0/12/Dialogue
 > CONTEXT: Map003/events/1/pages/0/12/Dialogue
 Ou, I am the Guardian of that Netherworld. You may call me 『Cushion』.
 Make sure 『You』 don't forget it.#Aesthetic
@@ -2593,6 +2935,8 @@ Make sure 『You』 don't forget it.#Aesthetic
 > BEGIN STRING
 ぬ………
 ぬいぐるみ………！？
+> CONTEXT: Map195/events/1/pages/0/15/Dialogue
+> CONTEXT: Map166/events/1/pages/0/15/Dialogue
 > CONTEXT: Map003/events/1/pages/0/15/Dialogue
 Plu....
 A Plush Doll!?#Aesthetic
@@ -2601,6 +2945,8 @@ A Plush Doll!?#Aesthetic
 > BEGIN STRING
 おぅ、なんだよ。
 クッションが冥府の番人しちゃダメなのかよ？
+> CONTEXT: Map195/events/1/pages/0/18/Dialogue
+> CONTEXT: Map166/events/1/pages/0/18/Dialogue
 > CONTEXT: Map003/events/1/pages/0/18/Dialogue
 Ou, What's wrong? You don't think a cushion can
 be the Guardian of the Netherworld?#Aesthetic
@@ -2610,24 +2956,32 @@ be the Guardian of the Netherworld?#Aesthetic
 毎回毎回、最初にここを訪れる人間は
 我が主の容姿にまず驚かれますね？
 そんなに意外なことでしょうか。
+> CONTEXT: Map195/events/1/pages/0/21/Dialogue
+> CONTEXT: Map166/events/1/pages/0/21/Dialogue
 > CONTEXT: Map003/events/1/pages/0/21/Dialogue
-It's like this every time. The first time a person visits 
-here, they are suprised by the appearance of our Lord.
-Is it such a surprising thing?#Aesthetic
+It's like this every time. The first time a
+person visits here, they are suprised by the
+appearance of our Lord. Is it such a surprising
+thing?#Aesthetic
 > END STRING
 
 > BEGIN STRING
 いや！！そりゃ驚くでしょ……！！！
+> CONTEXT: Map195/events/1/pages/0/25/Dialogue
+> CONTEXT: Map166/events/1/pages/0/25/Dialogue
 > CONTEXT: Map003/events/1/pages/0/25/Dialogue
-You don't say!! Who wouldn't be surprised by this?!!#Aesthetic
+You don't say!! Who wouldn't be surprised by
+this?!!#Aesthetic
 > END STRING
 
 > BEGIN STRING
 それより主。
  早速例の件を………
+> CONTEXT: Map195/events/1/pages/0/27/Dialogue
+> CONTEXT: Map166/events/1/pages/0/27/Dialogue
 > CONTEXT: Map003/events/1/pages/0/27/Dialogue
-Putting that aside..  
-When it comes to other matters...#Aesthetic
+Putting that aside...
+To the matter at hand...#Aesthetic
 > END STRING
 
 > BEGIN STRING
@@ -2635,6 +2989,8 @@ When it comes to other matters...#Aesthetic
 
  実は、メイラにおまえのサポートを頼んだり
  こうやって呼んでもらったのは、ほかでもない。
+> CONTEXT: Map195/events/1/pages/0/30/Dialogue
+> CONTEXT: Map166/events/1/pages/0/30/Dialogue
 > CONTEXT: Map003/events/1/pages/0/30/Dialogue
 Ou, That's right.
 The truth is, Meira asked to support you
@@ -2643,12 +2999,16 @@ so we called you here.#Aesthetic
 
 > BEGIN STRING
 お膳立て無しで、率直に言うぞ
+> CONTEXT: Map195/events/1/pages/0/35/Dialogue
+> CONTEXT: Map166/events/1/pages/0/35/Dialogue
 > CONTEXT: Map003/events/1/pages/0/35/Dialogue
 I'm going to be frank.#Aesthetic
 > END STRING
 
 > BEGIN STRING
 ……………ええっ！！？
+> CONTEXT: Map195/events/1/pages/0/42/Dialogue
+> CONTEXT: Map166/events/1/pages/0/42/Dialogue
 > CONTEXT: Map003/events/1/pages/0/42/Dialogue
 ……………What!!?#Aesthetic
 > END STRING
@@ -2657,19 +3017,25 @@ I'm going to be frank.#Aesthetic
 お前も自分で体験しただろう？
 
 お前には、魔法を撃てる『魔力』がある。
+> CONTEXT: Map195/events/1/pages/0/45/Dialogue
+> CONTEXT: Map166/events/1/pages/0/45/Dialogue
 > CONTEXT: Map003/events/1/pages/0/45/Dialogue
 You must have experienced it yourself right?
-You have the ability to shoot magic. You have 『Magical power』#Aesthetic
+You have the ability to shoot magic. You have
+"Magical powers".#Aesthetic
 > END STRING
 
 > BEGIN STRING
 それは本来、人間の持たない力。森羅万象を無視したパワー。
 
 お前はすでに『人の理を外れた魂』なんだ。
+> CONTEXT: Map195/events/1/pages/0/49/Dialogue
+> CONTEXT: Map166/events/1/pages/0/49/Dialogue
 > CONTEXT: Map003/events/1/pages/0/49/Dialogue
-That is originally power that human beings do not
-possess. Power that ignores the laws of the universe.
-You are already a 『soul that exists outside of human rationale』#Aesthetic
+That is originally a power that human beings do
+not possess. Power that ignores the laws of the
+universe. You are already a "soul that exists
+outside of human rationale".#Aesthetic
 > END STRING
 
 > BEGIN STRING
@@ -2677,23 +3043,29 @@ You are already a 『soul that exists outside of human rationale』#Aesthetic
 
 これは故意に行われた魂の変異…。
 もはやどうすることもできません。
+> CONTEXT: Map195/events/1/pages/0/53/Dialogue
+> CONTEXT: Map166/events/1/pages/0/53/Dialogue
 > CONTEXT: Map003/events/1/pages/0/53/Dialogue
-As \\N[1]-sama's friend surmised, your soul has been
-deliberately mutated...
-Nothing can be done about it.#Aesthetic
+As \\N[1]-sama's friend surmised, your soul has
+been deliberately mutated... Nothing can be 
+done about it.#Aesthetic
 > END STRING
 
 > BEGIN STRING
 あなたの死後の魂は、転生もできないまま
 
 永久に無の空間に囚われるでしょう。
+> CONTEXT: Map195/events/1/pages/0/58/Dialogue
+> CONTEXT: Map166/events/1/pages/0/58/Dialogue
 > CONTEXT: Map003/events/1/pages/0/58/Dialogue
-Your soul cannot reincarnate thus it will be caught
-in the nothingness of space.#Aesthetic
+Your soul cannot reincarnate thus it will be
+caught in the nothingness of space.#Aesthetic
 > END STRING
 
 > BEGIN STRING
 そ、そんな…
+> CONTEXT: Map195/events/1/pages/0/62/Dialogue
+> CONTEXT: Map166/events/1/pages/0/62/Dialogue
 > CONTEXT: Map003/events/1/pages/0/62/Dialogue
 No... No way...#Aesthetic
 > END STRING
@@ -2703,46 +3075,32 @@ No... No way...#Aesthetic
 
 『置く場所がないから宇宙に放り投げる』　みたいな
 超めんどくせー処置でな……。
+> CONTEXT: Map195/events/1/pages/0/65/Dialogue
+> CONTEXT: Map166/events/1/pages/0/65/Dialogue
 > CONTEXT: Map003/events/1/pages/0/65/Dialogue
-I mean... And this is purely hypothetical
-『We could toss your soul somewhere since there's nowhere to
-store it in the universe.』 You're in a very 
-troublesome position.#Aesthetic
+I mean... And this is purely hypothetical,
+We could toss your soul somewhere since there's
+nowhere to store it in the universe. You're in
+a very troublesome position.#Aesthetic
 > END STRING
 
 > BEGIN STRING
 こっちの書く報告書の手続きすら
 
 とんでもない量の審査を通すんだよ。
+> CONTEXT: Map195/events/1/pages/0/70/Dialogue
+> CONTEXT: Map166/events/1/pages/0/70/Dialogue
 > CONTEXT: Map003/events/1/pages/0/70/Dialogue
-Even the report I'm writing here is going through
-a ridiculous amount of revision.#Aesthetic
-> END STRING
-
-> BEGIN STRING
-\\N[1]様は悪魔と契約したわけではなく
-
-望まぬ形で魂を変異させられた。
-つまり、自分の意思ではない………。
-> CONTEXT: Map003/events/1/pages/0/74/Dialogue
-\\N[1]-sama, your soul has mutated in an undesirable way
-from coming into contact with a demon。
-That is, it was not by your own will...#Aesthetic
-> END STRING
-
-> BEGIN STRING
-そして、我が主は、そのような者の魂は
-
-個人的な理由で、できれば扱いたくない…。
-> CONTEXT: Map003/events/1/pages/0/79/Dialogue
-Personally, Our Lord doesn't want to handle that kind of 
-troublesome soul.#Aesthetic
+Even the report I'm writing here is going
+through a ridiculous amount of revision.#Aesthetic
 > END STRING
 
 > BEGIN STRING
 そこで我が主は、あなたに『特別待遇』を
 
 提案しようとお考えですのよ。
+> CONTEXT: Map195/events/1/pages/0/83/Dialogue
+> CONTEXT: Map166/events/1/pages/0/83/Dialogue
 > CONTEXT: Map003/events/1/pages/0/83/Dialogue
 So our Lord is thinking about making a suggestion 
 regarding 『Special treatment』#Aesthetic
@@ -2750,6 +3108,8 @@ regarding 『Special treatment』#Aesthetic
 
 > BEGIN STRING
 特別待遇………？
+> CONTEXT: Map195/events/1/pages/0/87/Dialogue
+> CONTEXT: Map166/events/1/pages/0/87/Dialogue
 > CONTEXT: Map003/events/1/pages/0/87/Dialogue
 Special treatment?#Aesthetic
 > END STRING
@@ -2758,15 +3118,19 @@ Special treatment?#Aesthetic
 あー、かいつまんで言えば、だ。
 
  \\C[2]死んだら、お前をここに生き返らせる。
+> CONTEXT: Map195/events/1/pages/0/89/Dialogue
+> CONTEXT: Map166/events/1/pages/0/89/Dialogue
 > CONTEXT: Map003/events/1/pages/0/89/Dialogue
-Ah... to say it simply 
-\\C[2]When you die, I revive you here.#Aesthetic
+Ah... to put it simply
+\\C[2]When you die, I will revive you here.#Aesthetic
 > END STRING
 
 > BEGIN STRING
 い、生き返らせる！？
 
 いったい、どうやって…！？
+> CONTEXT: Map195/events/1/pages/0/93/Dialogue
+> CONTEXT: Map166/events/1/pages/0/93/Dialogue
 > CONTEXT: Map003/events/1/pages/0/93/Dialogue
 Re...Revive!? 
 But how!?#Aesthetic
@@ -2776,6 +3140,8 @@ But how!?#Aesthetic
  \\C[2]死んだときにこの免罪符を装備していたら
 
  お前の魂をここに呼び戻してやる。
+> CONTEXT: Map195/events/1/pages/0/106/Dialogue
+> CONTEXT: Map166/events/1/pages/0/106/Dialogue
 > CONTEXT: Map003/events/1/pages/0/106/Dialogue
 \\C[2] If you were to equip this insignia when you die,
 I will recall your soul here.#Aesthetic
@@ -2785,15 +3151,19 @@ I will recall your soul here.#Aesthetic
 ゲームオーバーの一歩手前で、この部屋で復活させて
 
 コンテニューできるようにするってことだ。
+> CONTEXT: Map195/events/1/pages/0/110/Dialogue
+> CONTEXT: Map166/events/1/pages/0/110/Dialogue
 > CONTEXT: Map003/events/1/pages/0/110/Dialogue
-When you're one step away from a Game Over, we'll bring
-you back to life here so you can continue.#Aesthetic
+When you're one step away from a Game Over, we'll
+bring you back to life here so you can continue.#Aesthetic
 > END STRING
 
 > BEGIN STRING
 もっとも……
 あなたがもし、\\C[2]悪魔の餌になりたかったら
  それを外してしまっても構いませんがね。
+> CONTEXT: Map195/events/1/pages/0/114/Dialogue
+> CONTEXT: Map166/events/1/pages/0/114/Dialogue
 > CONTEXT: Map003/events/1/pages/0/114/Dialogue
 However.... 
 If you want, \\C[2] you can be demon food. 
@@ -2804,41 +3174,53 @@ All you have to do is remove the insignia.#Aesthetic
 その時は、俺は知らん。
  \\C[2]悪魔の搾精で奪われた魂はその悪魔の所有物。
 \\C[0]あとは俺の管轄外だ。
+> CONTEXT: Map195/events/1/pages/0/118/Dialogue
+> CONTEXT: Map166/events/1/pages/0/118/Dialogue
 > CONTEXT: Map003/events/1/pages/0/118/Dialogue
-If that happens, it's not my problem  
-\\C[2]A soul taken by a demon's milking belongs to that demon. 
-\\C[0]It's outside of my jurisdiction.#Aesthetic
+If that happens, it's not my problem.
+\\C[2]A soul taken by a demon's milking belongs to
+that demon. \\C[0]It's outside my jurisdiction.#Aesthetic
 > END STRING
 
 > BEGIN STRING
 ただ、\\C[2]都合上負けたくない戦闘や
 長い間記録してない時なんかは、大人しく
 付けとく事をオススメするぜ。
+> CONTEXT: Map195/events/1/pages/0/122/Dialogue
+> CONTEXT: Map166/events/1/pages/0/122/Dialogue
 > CONTEXT: Map003/events/1/pages/0/122/Dialogue
-Still, \\C[2]for battles that you do not want to lose for
-convenience, or when you have not saved for a long
-time, I recommend you to attach the insignia.#Aesthetic
+Still, \\C[2]for battles that you do not want to
+lose for convenience, or when you have not saved
+for a long time, I recommend you attach the
+insignia.#Aesthetic
 > END STRING
 
 > BEGIN STRING
 ……ん？おい、お前！
  今までの話、ちゃんと理解できたんだろうな！？
+> CONTEXT: Map195/events/1/pages/0/128/Dialogue
+> CONTEXT: Map166/events/1/pages/0/128/Dialogue
 > CONTEXT: Map003/events/1/pages/0/128/Dialogue
-……Hmm? Hey, you! 
+...Hmm? Hey! 
 Have you understood everything properly!?#Aesthetic
 > END STRING
 
 > BEGIN STRING
 まさか今の今まで、なんとなーく聞き流してて
 内容が入らなかったとか言うんじゃないよな！？
+> CONTEXT: Map195/events/1/pages/0/133/Dialogue
+> CONTEXT: Map166/events/1/pages/0/133/Dialogue
 > CONTEXT: Map003/events/1/pages/0/133/Dialogue
-I know it's impossible, but you didn't just conk out
-and ignore all the important things I just said did you?#Aesthetic
+I know it's impossible, but you didn't just conk
+out and ignore all the important things I just 
+said did you?#Aesthetic
 > END STRING
 
 > BEGIN STRING
 そうか、それならいいんだ。
 じゃあ話を進めるぞ？
+> CONTEXT: Map195/events/1/pages/0/138/Dialogue
+> CONTEXT: Map166/events/1/pages/0/138/Dialogue
 > CONTEXT: Map003/events/1/pages/0/138/Dialogue
 Really, that's good then. 
 Well then, let's continue the conversation.#Aesthetic
@@ -2847,6 +3229,8 @@ Well then, let's continue the conversation.#Aesthetic
 > BEGIN STRING
 はぁ、しょうがねぇなぁ
 メイラ、三行で頼む。
+> CONTEXT: Map195/events/1/pages/0/143/Dialogue
+> CONTEXT: Map166/events/1/pages/0/143/Dialogue
 > CONTEXT: Map003/events/1/pages/0/143/Dialogue
 Haa... It can not be helped then. 
 Meira, summarize what I said in three lines.#Aesthetic
@@ -2856,15 +3240,19 @@ Meira, summarize what I said in three lines.#Aesthetic
 つまり、\\c[2]悪魔との戦闘に敗北しても
  そのアイテムを装備していれば、ここで
  そのまま復活できますよ。\\C[0]ということです
+> CONTEXT: Map195/events/1/pages/0/146/Dialogue
+> CONTEXT: Map166/events/1/pages/0/146/Dialogue
 > CONTEXT: Map003/events/1/pages/0/146/Dialogue
-Basically, \\c[2]even if you are defeated by a demon
-while you wear that insignia, you will resurrect here.
-\\C[0]That's about it.#Aesthetic
+Basically, \\c[2]even if you are defeated by a
+demon while you wear that insignia, you will
+resurrect here. \\C[0]That's about it.#Aesthetic
 > END STRING
 
 > BEGIN STRING
 ………悔しいくらいに
  キレイに三行でまとめたな………
+> CONTEXT: Map195/events/1/pages/0/150/Dialogue
+> CONTEXT: Map166/events/1/pages/0/150/Dialogue
 > CONTEXT: Map003/events/1/pages/0/150/Dialogue
 ………You summarized it so easily, I'm jealous.#Aesthetic
 > END STRING
@@ -2873,23 +3261,31 @@ while you wear that insignia, you will resurrect here.
 また、戦闘に敗北して、ここに復活した際に
 
 \\C[2]私や主に話しかけてくだされば、色々支援をいたします。
+> CONTEXT: Map195/events/1/pages/0/155/Dialogue
+> CONTEXT: Map166/events/1/pages/0/155/Dialogue
 > CONTEXT: Map003/events/1/pages/0/155/Dialogue
-Also, if you were defeated in battle, when you get resurrected here
-\\C[2]and you talk to me or the Lord, we will be able to help you
-in a variety of ways.#Aesthetic
+Also, if you were defeated in battle, when you
+get resurrected here \\C[2]and you talk to me
+or the Lord, we will be able to help you in a
+variety of ways.#Aesthetic
 > END STRING
 
 > BEGIN STRING
 望まず負けた敵に再戦するなら
 
 有利な状況で挑まないと意味ないしな。
+> CONTEXT: Map195/events/1/pages/0/159/Dialogue
+> CONTEXT: Map166/events/1/pages/0/159/Dialogue
 > CONTEXT: Map003/events/1/pages/0/159/Dialogue
-If you want to defeat the enemy that defeated you, 
-you might want to try to improve your position first.#Aesthetic
+If you want to defeat the enemy that defeated
+you, you might want to try to improve your
+position first.#Aesthetic
 > END STRING
 
 > BEGIN STRING
 さて、これで俺の用事は済んだが………
+> CONTEXT: Map195/events/1/pages/0/169/Dialogue
+> CONTEXT: Map166/events/1/pages/0/169/Dialogue
 > CONTEXT: Map003/events/1/pages/0/169/Dialogue
 Now, with this I've said my piece.#Aesthetic
 > END STRING
@@ -2898,15 +3294,20 @@ Now, with this I've said my piece.#Aesthetic
 メイラ、お前もお前で
 
 コイツに頼みたいことがあるんだっけ？
+> CONTEXT: Map195/events/1/pages/0/171/Dialogue
+> CONTEXT: Map166/events/1/pages/0/171/Dialogue
 > CONTEXT: Map003/events/1/pages/0/171/Dialogue
 Meira. 
-Didn't you have something you wanted to ask of this guy?#Aesthetic
+Didn't you have something you wanted to ask
+this guy?#Aesthetic
 > END STRING
 
 > BEGIN STRING
 ええ、我が主。
 
 きっと双方にとって有益な取引になります。
+> CONTEXT: Map195/events/1/pages/0/175/Dialogue
+> CONTEXT: Map166/events/1/pages/0/175/Dialogue
 > CONTEXT: Map003/events/1/pages/0/175/Dialogue
 Yes, my lord. 
 It will surely be a useful deal for both parties.#Aesthetic
@@ -2914,6 +3315,8 @@ It will surely be a useful deal for both parties.#Aesthetic
 
 > BEGIN STRING
 な、何をさせる気だよ……！
+> CONTEXT: Map195/events/1/pages/0/179/Dialogue
+> CONTEXT: Map166/events/1/pages/0/179/Dialogue
 > CONTEXT: Map003/events/1/pages/0/179/Dialogue
 Wha... What are you making me do?#Aesthetic
 > END STRING
@@ -2922,15 +3325,20 @@ Wha... What are you making me do?#Aesthetic
 フフフ……そう難しいことではありません。
 
 ですが、\\N[1]様にしか出来ないことです。
+> CONTEXT: Map195/events/1/pages/0/181/Dialogue
+> CONTEXT: Map166/events/1/pages/0/181/Dialogue
 > CONTEXT: Map003/events/1/pages/0/181/Dialogue
-Fufufu... Don't worry it's not anything too difficult.
-However, it is something only you can do \\N[1].#Aesthetic
+Fufufu... Don't worry it's not anything too
+difficult. However, it is something only you
+can do \\N[1].#Aesthetic
 > END STRING
 
 > BEGIN STRING
 こちらの部屋へおいでください。
 
 あなたに渡したいものがございます……。
+> CONTEXT: Map195/events/1/pages/0/186/Dialogue
+> CONTEXT: Map166/events/1/pages/0/186/Dialogue
 > CONTEXT: Map003/events/1/pages/0/186/Dialogue
 Please come to this room. 
 I have something I want to give to you...#Aesthetic
@@ -2939,6 +3347,8 @@ I have something I want to give to you...#Aesthetic
 > BEGIN STRING
 ？？？「オイ！！お前。
 　　　　お前だよ！そこのニンゲン！」
+> CONTEXT: Map195/events/7/pages/1/7/Dialogue
+> CONTEXT: Map166/events/7/pages/1/7/Dialogue
 > CONTEXT: Map003/events/7/pages/1/7/Dialogue
 ？？？「Oy!! You. Yes you! That 'human' over there!」#Aesthetic
 > END STRING
@@ -2947,27 +3357,311 @@ I have something I want to give to you...#Aesthetic
 ？？？「お前………臭うぞ。
 
 　　　　悪魔どもを殺した、憎悪に満ちた匂いだ…」
+> CONTEXT: Map195/events/7/pages/1/12/Dialogue
+> CONTEXT: Map166/events/7/pages/1/12/Dialogue
 > CONTEXT: Map003/events/7/pages/1/12/Dialogue
 ？？？「You... You smell. It smells like you killed demons. It is 
 the scent of hatred...」#Aesthetic
 > END STRING
 
-> SHORTENED: Map166.txt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+> SHORTENED: Map278.txt
 
 > BEGIN STRING
-クモの巣がびっしりと張り巡らされていて
+中で予備電源装置の大きな音がする……
 
-中には入れそうもない…
-> CONTEXT: Map003/events/8/pages/2/0/Dialogue
-A spider's web was stretched tightly over the entrance. 
-I don't think I'll be able to make squeeze past it.#Aesthetic
+確かここにはバーゲストが集まってきているはずだが…
+> CONTEXT: Map278/events/12/pages/2/0/Dialogue
+> CONTEXT: Map278/events/13/pages/2/0/Dialogue
+> CONTEXT: Map007/events/12/pages/2/0/Dialogue
+> CONTEXT: Map007/events/13/pages/2/0/Dialogue
+The backup power supply is making a loud noise....
+The Barghests will definitely gather here.#Aesthetic
 > END STRING
+
+> BEGIN STRING
+……………
+
+まだ、生き残りがいたのか。
+> CONTEXT: Map278/events/26/pages/2/21/Dialogue
+> CONTEXT: Map278/events/26/pages/3/21/Dialogue
+> CONTEXT: Map007/events/26/pages/2/21/Dialogue
+> CONTEXT: Map007/events/26/pages/3/21/Dialogue
+...
+One of them survived?#Aesthetic
+> END STRING
+
+> BEGIN STRING
+バーゲストは、その場で寝転がり
+
+後ろ足の片方を、必死にばたつかせている………。
+> CONTEXT: Map278/events/26/pages/2/31/Dialogue
+> CONTEXT: Map278/events/26/pages/3/31/Dialogue
+> CONTEXT: Map007/events/26/pages/2/31/Dialogue
+> CONTEXT: Map007/events/26/pages/3/31/Dialogue
+Barghest lies down on the spot. 
+She's desperately flapping one of her hind legs about.#Aesthetic
+> END STRING
+
+> BEGIN STRING
+その足には……
+> CONTEXT: Map278/events/26/pages/2/35/Dialogue
+> CONTEXT: Map278/events/26/pages/3/35/Dialogue
+> CONTEXT: Map007/events/26/pages/2/35/Dialogue
+> CONTEXT: Map007/events/26/pages/3/35/Dialogue
+That foot...#Aesthetic
+> END STRING
+
+> BEGIN STRING
+なんだよ………
+
+その汚ならしい包帯は………
+> CONTEXT: Map278/events/26/pages/2/38/Dialogue
+> CONTEXT: Map278/events/26/pages/3/38/Dialogue
+> CONTEXT: Map007/events/26/pages/2/38/Dialogue
+> CONTEXT: Map007/events/26/pages/3/38/Dialogue
+What is it.... 
+That dirty bandage is....#Aesthetic
+> END STRING
+
+> BEGIN STRING
+……………ああ、そうか。
+
+思い出したぞ。
+> CONTEXT: Map278/events/26/pages/2/44/Dialogue
+> CONTEXT: Map278/events/26/pages/3/44/Dialogue
+> CONTEXT: Map007/events/26/pages/2/44/Dialogue
+> CONTEXT: Map007/events/26/pages/3/44/Dialogue
+...Aaah, that's right. 
+I remember now.#Aesthetic
+> END STRING
+
+> BEGIN STRING
+つまりお前は、僕を襲う気はないんだな…？
+> CONTEXT: Map278/events/26/pages/2/49/Dialogue
+> CONTEXT: Map278/events/26/pages/3/49/Dialogue
+> CONTEXT: Map007/events/26/pages/2/49/Dialogue
+> CONTEXT: Map007/events/26/pages/3/49/Dialogue
+In other words, you have no intention of attacking me?#Aesthetic
+> END STRING
+
+> BEGIN STRING
+……………おいで、バーゲスト。
+> CONTEXT: Map278/events/26/pages/2/55/Dialogue
+> CONTEXT: Map278/events/26/pages/3/55/Dialogue
+> CONTEXT: Map007/events/26/pages/2/55/Dialogue
+> CONTEXT: Map007/events/26/pages/3/55/Dialogue
+...Come here Barghest.#Aesthetic
+> END STRING
+
+> BEGIN STRING
+ワン！！！
+> CONTEXT: Map278/events/26/pages/2/57/Dialogue
+> CONTEXT: Map278/events/26/pages/3/57/Dialogue
+> CONTEXT: Map007/events/26/pages/2/57/Dialogue
+> CONTEXT: Map007/events/26/pages/3/57/Dialogue
+Wan!!!#Aesthetic
+> END STRING
+
+> BEGIN STRING
+お前たちは何人殺したんだ…？
+
+罪もない人間を、本能のまま、何人…！！
+> CONTEXT: Map278/events/26/pages/2/84/Dialogue
+> CONTEXT: Map278/events/26/pages/3/84/Dialogue
+> CONTEXT: Map007/events/26/pages/2/84/Dialogue
+> CONTEXT: Map007/events/26/pages/3/84/Dialogue
+How many people have you killed? 
+How many innocent people have you instinctively killed!!#Aesthetic
+> END STRING
+
+> BEGIN STRING
+俺はだまされないぞ。
+
+貴様らみたいなヤツは、人間の敵だ。
+> CONTEXT: Map278/events/26/pages/2/88/Dialogue
+> CONTEXT: Map278/events/26/pages/3/88/Dialogue
+> CONTEXT: Map007/events/26/pages/2/88/Dialogue
+> CONTEXT: Map007/events/26/pages/3/88/Dialogue
+I will not be fooled. 
+You are the enemy of humanity.#Aesthetic
+> END STRING
+
+> BEGIN STRING
+…………どうした？\\N[1]。
+> CONTEXT: Map278/events/26/pages/2/101/Dialogue
+> CONTEXT: Map278/events/26/pages/3/101/Dialogue
+> CONTEXT: Map278/events/26/pages/4/4/Dialogue
+> CONTEXT: Map007/events/26/pages/2/101/Dialogue
+> CONTEXT: Map007/events/26/pages/3/101/Dialogue
+> CONTEXT: Map007/events/26/pages/4/4/Dialogue
+......What's wrong?\\N[1]。#Aesthetic
+> END STRING
+
+> BEGIN STRING
+…………いや、何でもない。
+
+気のせいだったみたいだ。
+> CONTEXT: Map278/events/26/pages/2/103/Dialogue
+> CONTEXT: Map278/events/26/pages/3/103/Dialogue
+> CONTEXT: Map278/events/26/pages/4/6/Dialogue
+> CONTEXT: Map007/events/26/pages/2/103/Dialogue
+> CONTEXT: Map007/events/26/pages/3/103/Dialogue
+> CONTEXT: Map007/events/26/pages/4/6/Dialogue
+No, Nothing. 
+I've changed my mind is all.#Aesthetic
+> END STRING
+
+> BEGIN STRING
+ワンッ！！
+> CONTEXT: Map278/events/37/pages/1/20/Dialogue
+> CONTEXT: Map007/events/37/pages/1/19/Dialogue
+Wan!!#Aesthetic
+> END STRING
+
+> BEGIN STRING
+おい……
+
+あいつの足…見てみろ。
+> CONTEXT: Map278/events/37/pages/1/70/Dialogue
+> CONTEXT: Map007/events/37/pages/1/69/Dialogue
+Hey... 
+That foot...Look at it...#Aesthetic
+> END STRING
+
+> BEGIN STRING
+あはは……
+
+どうやら、助けてもらっちゃったみたいだね…
+> CONTEXT: Map278/events/37/pages/1/94/Dialogue
+> CONTEXT: Map007/events/37/pages/1/93/Dialogue
+Ahaha... 
+Apparently, she's helped you...#Aesthetic
+> END STRING
+
+> BEGIN STRING
+まったく…自分が大変だって言うときに……
+
+まぁ、お前らしいよ。
+> CONTEXT: Map278/events/37/pages/1/98/Dialogue
+> CONTEXT: Map007/events/37/pages/1/97/Dialogue
+Come on... 
+Here I am sweating buckets because of this trouble...
+Well, I guess I shouldn't expect any different
+when it comes to you...#Aesthetic
+> END STRING
+
+> BEGIN STRING
+とにかく、これで先へ進めるようになったな。
+
+このまま居住区へ向かうぞ
+> CONTEXT: Map278/events/37/pages/1/102/Dialogue
+> CONTEXT: Map007/events/37/pages/1/101/Dialogue
+Anyways, you should now be able to proceed.
+Proceed to the residential area like this.#Aesthetic
+> END STRING
+
+
+
+
+
+
+
+
+
+
+
+
 
 > SHORTENED: Map290.txt
 
 > BEGIN STRING
 僕が眠っていた…らしいベッドだ。
 どっちかっていうとカプセルに近いようだけど…
+> CONTEXT: Map290/events/2/pages/0/0/Dialogue
+> CONTEXT: Map277/events/2/pages/0/0/Dialogue
+> CONTEXT: Map184/events/2/pages/0/0/Dialogue
+This seems to be the bed I was sleeping in.
+Actually it's more like a capsule if anything.#Ron
 > CONTEXT: Map004/events/2/pages/0/0/Dialogue
 It seems I was asleep on this... bed?
 Actually it looks more like a capsule.#Aesthetic
@@ -2975,6 +3669,10 @@ Actually it looks more like a capsule.#Aesthetic
 
 > BEGIN STRING
 今は動作は停止しているようだ。
+> CONTEXT: Map290/events/2/pages/0/3/Dialogue
+> CONTEXT: Map277/events/2/pages/0/3/Dialogue
+> CONTEXT: Map184/events/2/pages/0/3/Dialogue
+It seems to have stopped operating.#Ron
 > CONTEXT: Map004/events/2/pages/0/3/Dialogue
 It doesn't seem to be working anymore.#Aesthetic
 > END STRING
@@ -2983,6 +3681,13 @@ It doesn't seem to be working anymore.#Aesthetic
 隊長が、この施設への重篤患者の避難を完了させた。
 あとはこの患者のコールドスリープの手続きが完了すれば
 我々も撤退準備に入ることになる。
+> CONTEXT: Map290/events/4/pages/0/6/Dialogue
+> CONTEXT: Map277/events/4/pages/0/6/Dialogue
+> CONTEXT: Map184/events/4/pages/0/6/Dialogue
+The captain completed the evacuation of critical
+patients to this facility. If the cryogenic
+stasis procedure for this patient is completed,
+we will prepare for withdrawal as well.#Ron
 > CONTEXT: Map004/events/4/pages/0/6/Dialogue
 The captain completed the evacuation of serious patients
 to this facility. When the cryogenic stasis procedure of
@@ -2994,6 +3699,14 @@ withdrawal as well.#Aesthetic
 この男は隊長の知り合いで、とても大事な親友らしい。
 なるほど、いつも戦線で戦果を挙げている隊長が、こんな事務処理みたいな
 任務をすすんで受けた理由が分かったよ。
+> CONTEXT: Map290/events/4/pages/0/11/Dialogue
+> CONTEXT: Map277/events/4/pages/0/11/Dialogue
+> CONTEXT: Map184/events/4/pages/0/11/Dialogue
+This man is an acquaintance of the captain, a really
+important, close friend apparently. Though the
+captain always gets results on the front lines,
+I understand the reason behind voluntarily accepting
+this kind of paperwork duty.#Ron
 > CONTEXT: Map004/events/4/pages/0/11/Dialogue
 This guy is an acquaintance of the captain. He's a very important
 and close friend. Now I understand why the captain who always 
@@ -3004,6 +3717,11 @@ why he took this role.#Aesthetic
 > BEGIN STRING
 …？このメモ、唐突に終わってるな。
 何かあったのか…？
+> CONTEXT: Map290/events/4/pages/0/24/Dialogue
+> CONTEXT: Map277/events/4/pages/0/24/Dialogue
+> CONTEXT: Map184/events/4/pages/0/24/Dialogue
+...? This memo ends abruptly.
+Did something happen...?#Ron
 > CONTEXT: Map004/events/4/pages/0/24/Dialogue
 ...? This memo ends abruptly after this.
 Did something happen?#Aesthetic
@@ -3012,6 +3730,11 @@ Did something happen?#Aesthetic
 > BEGIN STRING
 これは……無線機？
 パソコンと連動してるみたいだけど…
+> CONTEXT: Map290/events/5/pages/0/0/Dialogue
+> CONTEXT: Map277/events/5/pages/0/0/Dialogue
+> CONTEXT: Map184/events/5/pages/0/0/Dialogue
+Is this...... a radio? It looks like it's
+linked to a PC...#Ron
 > CONTEXT: Map004/events/5/pages/0/0/Dialogue
 This is... a radio? It seems like it's
 linked with a computer...#Aesthetic
@@ -3020,6 +3743,11 @@ linked with a computer...#Aesthetic
 > BEGIN STRING
 ！！
 ひとつだけ「オンライン」になってる場所がある…！
+> CONTEXT: Map290/events/5/pages/0/3/Dialogue
+> CONTEXT: Map277/events/5/pages/0/3/Dialogue
+> CONTEXT: Map184/events/5/pages/0/3/Dialogue
+Only one thing for it, let's get this thing
+online!#Ron
 > CONTEXT: Map004/events/5/pages/0/3/Dialogue
 !!
 Only one part of it is marked 「online」#Aesthetic
@@ -3028,6 +3756,11 @@ Only one part of it is marked 「online」#Aesthetic
 > BEGIN STRING
 　　　　　　　僕はすがるような気持ちで
 　　そのボタンをクリックし、無線のマイクを手にした。
+> CONTEXT: Map290/events/5/pages/0/7/Dialogue
+> CONTEXT: Map277/events/5/pages/0/7/Dialogue
+> CONTEXT: Map184/events/5/pages/0/7/Dialogue
+With a feeling of desperation, I clicked on the 
+button and got a wireless radio.#Ron
 > CONTEXT: Map004/events/5/pages/0/7/Dialogue
 With my heart sinking, I click on the button and
 pick up the wireless mic.#Aesthetic
@@ -3035,12 +3768,21 @@ pick up the wireless mic.#Aesthetic
 
 > BEGIN STRING
 頼むぞ…繋がってくれ……。
+> CONTEXT: Map290/events/5/pages/0/10/Dialogue
+> CONTEXT: Map277/events/5/pages/0/10/Dialogue
+> CONTEXT: Map184/events/5/pages/0/10/Dialogue
+Please... Connect...#Ron
 > CONTEXT: Map004/events/5/pages/0/10/Dialogue
 Please... Connect...#Aesthetic
 > END STRING
 
 > BEGIN STRING
 ？「…………こちらＤポイント、駅エリアプラットフォーム。」
+> CONTEXT: Map290/events/5/pages/0/15/Dialogue
+> CONTEXT: Map277/events/5/pages/0/15/Dialogue
+> CONTEXT: Map184/events/5/pages/0/15/Dialogue
+?「............ this is D point, station area
+platform.」#Ron
 > CONTEXT: Map004/events/5/pages/0/15/Dialogue
 ？「…………This is D point. The Station area platform.」#Aesthetic
 > END STRING
@@ -3048,6 +3790,10 @@ Please... Connect...#Aesthetic
 > BEGIN STRING
 ！！！
 もしもし！聞こえていますか！！
+> CONTEXT: Map290/events/5/pages/0/17/Dialogue
+> CONTEXT: Map277/events/5/pages/0/17/Dialogue
+> CONTEXT: Map184/events/5/pages/0/17/Dialogue
+!!! Hello?! Can you hear me?!#Ron
 > CONTEXT: Map004/events/5/pages/0/17/Dialogue
 !!!
 Hello? Can you hear me?!!#Aesthetic
@@ -3055,6 +3801,11 @@ Hello? Can you hear me?!!#Aesthetic
 
 > BEGIN STRING
 ？「生存者か…？もういないものかと思っていたが…。」
+> CONTEXT: Map290/events/5/pages/0/20/Dialogue
+> CONTEXT: Map277/events/5/pages/0/20/Dialogue
+> CONTEXT: Map184/events/5/pages/0/20/Dialogue
+?「Is that a survivor ...? I didn't think there
+were any left...」#Ron
 > CONTEXT: Map004/events/5/pages/0/20/Dialogue
 ？「A survivor? I didn't think there were any left.」#Aesthetic
 > END STRING
@@ -3062,6 +3813,11 @@ Hello? Can you hear me?!!#Aesthetic
 > BEGIN STRING
 せ、生存者…！？もういないって……
 ここで何が起きたっていうんですか！？
+> CONTEXT: Map290/events/5/pages/0/22/Dialogue
+> CONTEXT: Map277/events/5/pages/0/22/Dialogue
+> CONTEXT: Map184/events/5/pages/0/22/Dialogue
+Su- Survivors...!? None left anymore...!?
+...... What happened here!?#Ron
 > CONTEXT: Map004/events/5/pages/0/22/Dialogue
 Sur...Survivor!? There aren't any more left?
 What happened here?! #Aesthetic
@@ -3069,6 +3825,11 @@ What happened here?! #Aesthetic
 
 > BEGIN STRING
 ？「まずは落ち着いてくれ。君の名前と現在地を………」
+> CONTEXT: Map290/events/5/pages/0/25/Dialogue
+> CONTEXT: Map277/events/5/pages/0/25/Dialogue
+> CONTEXT: Map184/events/5/pages/0/25/Dialogue
+?「First calm down. State your name and current
+location.........」#Ron
 > CONTEXT: Map004/events/5/pages/0/25/Dialogue
 ？「First, calm down. What's your name and current location...」#Aesthetic
 > END STRING
@@ -3076,6 +3837,11 @@ What happened here?! #Aesthetic
 > BEGIN STRING
 ？「………いやまて、この発信元は………。
 　　まさか\\N[1]？\\N[1]なのか！？」
+> CONTEXT: Map290/events/5/pages/0/27/Dialogue
+> CONTEXT: Map277/events/5/pages/0/27/Dialogue
+> CONTEXT: Map184/events/5/pages/0/27/Dialogue
+?「......... Wait, the transmission source is...
+No way \\N[1]? \\N[1] is that you!?」#Ron
 > CONTEXT: Map004/events/5/pages/0/27/Dialogue
 ？「....Wait, this source is.... No way! 
 Is that you \\N[1]?
@@ -3084,12 +3850,20 @@ Is that you \\N[1]?
 
 > BEGIN STRING
 ど、どうして僕の名前を……
+> CONTEXT: Map290/events/5/pages/0/30/Dialogue
+> CONTEXT: Map277/events/5/pages/0/30/Dialogue
+> CONTEXT: Map184/events/5/pages/0/30/Dialogue
+Why, is my name so...#Ron
 > CONTEXT: Map004/events/5/pages/0/30/Dialogue
 Ho... How do you know my name?#Aesthetic
 > END STRING
 
 > BEGIN STRING
 ゆ、裕真！？このタイミングって……
+> CONTEXT: Map290/events/5/pages/0/35/Dialogue
+> CONTEXT: Map277/events/5/pages/0/35/Dialogue
+> CONTEXT: Map184/events/5/pages/0/35/Dialogue
+Yuuma!? What do you mean by "timing"...?#Ron
 > CONTEXT: Map004/events/5/pages/0/35/Dialogue
 Yu... Yuuma!?
 Now...#Aesthetic
@@ -3098,6 +3872,11 @@ Now...#Aesthetic
 > BEGIN STRING
 なぁ！あの車の中で何が起きたんだ！？
 一体今、俺はどういう状況なんだよ！！
+> CONTEXT: Map290/events/5/pages/0/37/Dialogue
+> CONTEXT: Map277/events/5/pages/0/37/Dialogue
+> CONTEXT: Map184/events/5/pages/0/37/Dialogue
+Hey! What happened in that car!?
+What kind of situation am I in!! #Ron
 > CONTEXT: Map004/events/5/pages/0/37/Dialogue
 Hey, what happened in that car!?
 What kind of situation, am I in right now!? #Aesthetic
@@ -3107,6 +3886,12 @@ What kind of situation, am I in right now!? #Aesthetic
 ユウマ「\\N[1]！！！落ち着くんだ！
 　　　　お前はコールドスリープから目覚めたばかりだ！
 　　　　あまり興奮すると気を失ってしまうぞ！」
+> CONTEXT: Map290/events/5/pages/0/45/Dialogue
+> CONTEXT: Map277/events/5/pages/0/45/Dialogue
+> CONTEXT: Map184/events/5/pages/0/45/Dialogue
+Yuuma「\\N[1]!!! Calm down! You just woke
+from cryogenic stasis! You'll lose conciousness
+if you get too agitated!」#Ron
 > CONTEXT: Map004/events/5/pages/0/45/Dialogue
 Yuuma「\\N[1]!!! Calm down! You just awoke from
 cryogenic stasis! If you get too excited, you
@@ -3115,12 +3900,20 @@ will lose consciousness!」#Aesthetic
 
 > BEGIN STRING
 はあっ………！はあっ………！！！
+> CONTEXT: Map290/events/5/pages/0/49/Dialogue
+> CONTEXT: Map277/events/5/pages/0/49/Dialogue
+> CONTEXT: Map184/events/5/pages/0/49/Dialogue
+Haaaaaah......! Haaaaah......!!!#Ron
 > CONTEXT: Map004/events/5/pages/0/49/Dialogue
 Haaah...Haaah....!!!#Aesthetic
 > END STRING
 
 > BEGIN STRING
 ユウマ「どうだ？動けそうか、\\N[1]。」
+> CONTEXT: Map290/events/5/pages/0/54/Dialogue
+> CONTEXT: Map277/events/5/pages/0/54/Dialogue
+> CONTEXT: Map184/events/5/pages/0/54/Dialogue
+Yuuma「You alright? Think you can move, \\N[1]?」#Ron
 > CONTEXT: Map004/events/5/pages/0/54/Dialogue
 Yuuma「How are you? Do you think you can move, \\N[1].」#Aesthetic
 > END STRING
@@ -3128,6 +3921,10 @@ Yuuma「How are you? Do you think you can move, \\N[1].」#Aesthetic
 > BEGIN STRING
 ああ…
 ありがとう、ユウマ。
+> CONTEXT: Map290/events/5/pages/0/56/Dialogue
+> CONTEXT: Map277/events/5/pages/0/56/Dialogue
+> CONTEXT: Map184/events/5/pages/0/56/Dialogue
+Yeah, thanks Yuuma.#Ron
 > CONTEXT: Map004/events/5/pages/0/56/Dialogue
 Aaaa... Thank you, Yuuma.#Aesthetic
 > END STRING
@@ -3136,6 +3933,11 @@ Aaaa... Thank you, Yuuma.#Aesthetic
 ユウマ「………………そうだよな。
 　　　　お前からしてみれば、あの瞬間からこの状況だものな。
 　　　　混乱するのも無理はない。」
+> CONTEXT: Map290/events/5/pages/0/59/Dialogue
+> CONTEXT: Map277/events/5/pages/0/59/Dialogue
+> CONTEXT: Map184/events/5/pages/0/59/Dialogue
+Yuuma「...Yeah, it's pretty understandable you'd be
+confused when you look it from your point of view.」#Ron
 > CONTEXT: Map004/events/5/pages/0/59/Dialogue
 Yuuma「......That's right. If you look at it from your perspective,
 you went from that situation, directly into this. It makes
@@ -3145,6 +3947,12 @@ sense that you'd be confused.」#Aesthetic
 > BEGIN STRING
 ユウマ「だがこの端末からじゃ、声も聞きとり辛い。
 　　　　お互いの映像も拾えないしな…」
+> CONTEXT: Map290/events/5/pages/0/63/Dialogue
+> CONTEXT: Map277/events/5/pages/0/63/Dialogue
+> CONTEXT: Map184/events/5/pages/0/63/Dialogue
+Yuuma「However, it's hard to hear you from this 
+terminal, we also aren't able to pick up each
+other's images either.」#Ron
 > CONTEXT: Map004/events/5/pages/0/63/Dialogue
 Yuuma「But from this terminal, I'm having trouble hearing you. 
 We can't see each other either...」#Aesthetic
@@ -3153,6 +3961,11 @@ We can't see each other either...」#Aesthetic
 > BEGIN STRING
 ユウマ「この少し先に、通信室がある。
 　　　そこでなら、ゆっくり話も出来るだろう。」
+> CONTEXT: Map290/events/5/pages/0/66/Dialogue
+> CONTEXT: Map277/events/5/pages/0/66/Dialogue
+> CONTEXT: Map184/events/5/pages/0/66/Dialogue
+Yuuma「There's a communications room just ahead, we can
+go over everything there.」#Ron
 > CONTEXT: Map004/events/5/pages/0/66/Dialogue
 Yuuma「Not too far from there, there's a communication room.
 If you go there, we can talk in more depth.」#Aesthetic
@@ -3161,12 +3974,19 @@ If you go there, we can talk in more depth.」#Aesthetic
 > BEGIN STRING
 あ、ああ……わかった。
 とりあえず、この部屋を出るよ。
+> CONTEXT: Map290/events/5/pages/0/75/Dialogue
+> CONTEXT: Map277/events/5/pages/0/75/Dialogue
+> CONTEXT: Map184/events/5/pages/0/75/Dialogue
+Oh, right... okay. I'll head out of this room. #Ron
 > CONTEXT: Map004/events/5/pages/0/75/Dialogue
 Ah... I understand. For now, I'll leave this room.#Aesthetic
 > END STRING
 
 > BEGIN STRING
 ………さすがに何か、羽織った方がいいか……。
+> CONTEXT: Map290/events/7/pages/0/4/Dialogue
+> CONTEXT: Map277/events/7/pages/0/4/Dialogue
+> CONTEXT: Map184/events/7/pages/0/4/Dialogue
 > CONTEXT: Map004/events/7/pages/0/4/Dialogue
 ....Yeah I should probably put something on....#Aesthetic
 > END STRING
@@ -3174,426 +3994,19 @@ Ah... I understand. For now, I'll leave this room.#Aesthetic
 > BEGIN STRING
 よし、まだちょっと股がスースーするけど
 多少はマシになったかな…。
+> CONTEXT: Map290/events/7/pages/0/11/Dialogue
+> CONTEXT: Map277/events/7/pages/0/11/Dialogue
+> CONTEXT: Map184/events/7/pages/0/11/Dialogue
+OK, I can still feel the air on my thighs, but
+this is at least a little better.#Ron
 > CONTEXT: Map004/events/7/pages/0/11/Dialogue
 Ok, even though there's a bit too much breathing room
 in these pants, it's definitely a little better.#Aesthetic
 > END STRING
 
-> SHORTENED: Map278.txt
 
-> BEGIN STRING
-中で予備電源装置の大きな音がする……
 
-確かここにはバーゲストが集まってきているはずだが…
-> CONTEXT: Map007/events/12/pages/2/0/Dialogue
-> CONTEXT: Map007/events/13/pages/2/0/Dialogue
-The backup power supply is making a loud noise....
-The Barghests will definitely gather here.#Aesthetic
-> END STRING
 
-> BEGIN STRING
-あれは…バーゲストだったっけか。
-一匹じゃないとは思ってたけど、あんなに数がいるのか……
-> CONTEXT: Map007/events/18/pages/1/5/Dialogue
-> CONTEXT: Map007/events/19/pages/1/5/Dialogue
-> CONTEXT: Map007/events/20/pages/1/5/Dialogue
-> CONTEXT: Map007/events/21/pages/1/5/Dialogue
-> CONTEXT: Map007/events/22/pages/1/5/Dialogue
-> CONTEXT: Map007/events/23/pages/1/5/Dialogue
-> CONTEXT: Map007/events/24/pages/1/5/Dialogue
-> CONTEXT: Map007/events/25/pages/1/5/Dialogue
-> CONTEXT: Map007/events/37/pages/1/5/Dialogue
-That...was a Barghest? I thought it would be alone.
-I didn't think there would be so many.#Aesthetic
-> END STRING
 
-> BEGIN STRING
-さっきのロック解除の音で寄ってきてしまったんだろうな…。
-ここは長い廊下だ、普段より音が響くんだろう。
-> CONTEXT: Map007/events/18/pages/1/8/Dialogue
-> CONTEXT: Map007/events/19/pages/1/8/Dialogue
-> CONTEXT: Map007/events/20/pages/1/8/Dialogue
-> CONTEXT: Map007/events/21/pages/1/8/Dialogue
-> CONTEXT: Map007/events/22/pages/1/8/Dialogue
-> CONTEXT: Map007/events/23/pages/1/8/Dialogue
-> CONTEXT: Map007/events/24/pages/1/8/Dialogue
-> CONTEXT: Map007/events/25/pages/1/8/Dialogue
-> CONTEXT: Map007/events/37/pages/1/8/Dialogue
-I guess they heard the sound of the door unlocking before. 
-This is a long corridor. The sound will echo more than usual.#Aesthetic
-> END STRING
 
-> BEGIN STRING
-しかし困ったな…あそこに居付かれては、先に進めない。
-> CONTEXT: Map007/events/18/pages/1/11/Dialogue
-> CONTEXT: Map007/events/19/pages/1/11/Dialogue
-> CONTEXT: Map007/events/20/pages/1/11/Dialogue
-> CONTEXT: Map007/events/21/pages/1/11/Dialogue
-> CONTEXT: Map007/events/22/pages/1/11/Dialogue
-> CONTEXT: Map007/events/23/pages/1/11/Dialogue
-> CONTEXT: Map007/events/24/pages/1/11/Dialogue
-> CONTEXT: Map007/events/25/pages/1/11/Dialogue
-> CONTEXT: Map007/events/37/pages/1/11/Dialogue
-This is a bit troublesome... If I can't get past there, I won't
-be able to move forward.#Aesthetic
-> END STRING
-
-> BEGIN STRING
-強行突破………は難しそうか。
-何かで注意を引ければいいんだが……。
-> CONTEXT: Map007/events/18/pages/1/13/Dialogue
-> CONTEXT: Map007/events/19/pages/1/13/Dialogue
-> CONTEXT: Map007/events/20/pages/1/13/Dialogue
-> CONTEXT: Map007/events/21/pages/1/13/Dialogue
-> CONTEXT: Map007/events/22/pages/1/13/Dialogue
-> CONTEXT: Map007/events/23/pages/1/13/Dialogue
-> CONTEXT: Map007/events/24/pages/1/13/Dialogue
-> CONTEXT: Map007/events/25/pages/1/13/Dialogue
-Forcing my way though... would be too difficult. 
-I wish I could somehow draw their attention away from there...#Aesthetic
-> END STRING
-
-> BEGIN STRING
-注意を引く、か…。
-\\C[2]何か大きな音でも出せれば、そちらに陽動できるかもな。
-> CONTEXT: Map007/events/18/pages/1/16/Dialogue
-> CONTEXT: Map007/events/19/pages/1/16/Dialogue
-> CONTEXT: Map007/events/20/pages/1/16/Dialogue
-> CONTEXT: Map007/events/21/pages/1/16/Dialogue
-> CONTEXT: Map007/events/22/pages/1/16/Dialogue
-> CONTEXT: Map007/events/23/pages/1/16/Dialogue
-> CONTEXT: Map007/events/24/pages/1/16/Dialogue
-> CONTEXT: Map007/events/25/pages/1/16/Dialogue
-Draw their attention eh...
-\\C[2]If you can find a way to make a loud noise, you can
-get them away from there.#Aesthetic
-> END STRING
-
-> BEGIN STRING
-そうか……『彼』が目覚めたか……。
-
-ずいぶんと待たせたじゃないか……。
-> CONTEXT: Map007/events/26/pages/1/24/Dialogue
-> CONTEXT: Map007/events/26/pages/2/145/Dialogue
-> CONTEXT: Map007/events/26/pages/3/148/Dialogue
-> CONTEXT: Map007/events/26/pages/4/47/Dialogue
-Really...『He』 Woke up... 
-You made me wait quite a while...#Aesthetic
-> END STRING
-
-> BEGIN STRING
-すでに現地のヘリが、E-001を搭載して目標の上空に待機。
-
-あとは、貴方の許可が欲しい、と。
-> CONTEXT: Map007/events/26/pages/1/28/Dialogue
-> CONTEXT: Map007/events/26/pages/2/149/Dialogue
-> CONTEXT: Map007/events/26/pages/3/152/Dialogue
-> CONTEXT: Map007/events/26/pages/4/51/Dialogue
-There's already a local helicopter carrying E-001 waiting
-in the sky above the target. We're ready and waiting on your
-orders.#Aesthetic
-> END STRING
-
-> BEGIN STRING
-よろしい、許可しよう。
-
-彼の元に、『E-001』を送り込みたまえ。
-> CONTEXT: Map007/events/26/pages/1/32/Dialogue
-> CONTEXT: Map007/events/26/pages/2/153/Dialogue
-> CONTEXT: Map007/events/26/pages/3/156/Dialogue
-> CONTEXT: Map007/events/26/pages/4/55/Dialogue
-All right, I'm giving the order. Please send 『E-001』
-over to him.#Aesthetic
-> END STRING
-
-> BEGIN STRING
-はっ
-
-では、そのように……。
-> CONTEXT: Map007/events/26/pages/1/36/Dialogue
-> CONTEXT: Map007/events/26/pages/2/157/Dialogue
-> CONTEXT: Map007/events/26/pages/3/160/Dialogue
-> CONTEXT: Map007/events/26/pages/4/59/Dialogue
-Ha. 
-Then, it's going to be like this.#Aesthetic
-> END STRING
-
-> BEGIN STRING
-……………
-
-まだ、生き残りがいたのか。
-> CONTEXT: Map007/events/26/pages/2/21/Dialogue
-> CONTEXT: Map007/events/26/pages/3/21/Dialogue
-...
-One of them survived?#Aesthetic
-> END STRING
-
-> BEGIN STRING
-バーゲストは、その場で寝転がり
-
-後ろ足の片方を、必死にばたつかせている………。
-> CONTEXT: Map007/events/26/pages/2/31/Dialogue
-> CONTEXT: Map007/events/26/pages/3/31/Dialogue
-Barghest lies down on the spot. 
-She's desperately flapping one of her hind legs about.#Aesthetic
-> END STRING
-
-> BEGIN STRING
-その足には……
-> CONTEXT: Map007/events/26/pages/2/35/Dialogue
-> CONTEXT: Map007/events/26/pages/3/35/Dialogue
-That foot...#Aesthetic
-> END STRING
-
-> BEGIN STRING
-なんだよ………
-
-その汚ならしい包帯は………
-> CONTEXT: Map007/events/26/pages/2/38/Dialogue
-> CONTEXT: Map007/events/26/pages/3/38/Dialogue
-What is it.... 
-That dirty bandage is....#Aesthetic
-> END STRING
-
-> BEGIN STRING
-……………ああ、そうか。
-
-思い出したぞ。
-> CONTEXT: Map007/events/26/pages/2/44/Dialogue
-> CONTEXT: Map007/events/26/pages/3/44/Dialogue
-...Aaah, that's right. 
-I remember now.#Aesthetic
-> END STRING
-
-> BEGIN STRING
-つまりお前は、僕を襲う気はないんだな…？
-> CONTEXT: Map007/events/26/pages/2/49/Dialogue
-> CONTEXT: Map007/events/26/pages/3/49/Dialogue
-In other words, you have no intention of attacking me?#Aesthetic
-> END STRING
-
-> BEGIN STRING
-……………おいで、バーゲスト。
-> CONTEXT: Map007/events/26/pages/2/55/Dialogue
-> CONTEXT: Map007/events/26/pages/3/55/Dialogue
-...Come here Barghest.#Aesthetic
-> END STRING
-
-> BEGIN STRING
-ワン！！！
-> CONTEXT: Map007/events/26/pages/2/57/Dialogue
-> CONTEXT: Map007/events/26/pages/3/57/Dialogue
-Wan!!!#Aesthetic
-> END STRING
-
-> BEGIN STRING
-お前たちは何人殺したんだ…？
-
-罪もない人間を、本能のまま、何人…！！
-> CONTEXT: Map007/events/26/pages/2/84/Dialogue
-> CONTEXT: Map007/events/26/pages/3/84/Dialogue
-How many people have you killed? 
-How many innocent people have you instinctively killed!!#Aesthetic
-> END STRING
-
-> BEGIN STRING
-俺はだまされないぞ。
-
-貴様らみたいなヤツは、人間の敵だ。
-> CONTEXT: Map007/events/26/pages/2/88/Dialogue
-> CONTEXT: Map007/events/26/pages/3/88/Dialogue
-I will not be fooled. 
-You are the enemy of humanity.#Aesthetic
-> END STRING
-
-> BEGIN STRING
-…………どうした？\\N[1]。
-> CONTEXT: Map007/events/26/pages/2/101/Dialogue
-> CONTEXT: Map007/events/26/pages/3/101/Dialogue
-> CONTEXT: Map007/events/26/pages/4/4/Dialogue
-......What's wrong?\\N[1]。#Aesthetic
-> END STRING
-
-> BEGIN STRING
-…………いや、何でもない。
-
-気のせいだったみたいだ。
-> CONTEXT: Map007/events/26/pages/2/103/Dialogue
-> CONTEXT: Map007/events/26/pages/3/103/Dialogue
-> CONTEXT: Map007/events/26/pages/4/6/Dialogue
-No, Nothing. 
-I've changed my mind is all.#Aesthetic
-> END STRING
-
-> BEGIN STRING
-ワンッ！！
-> CONTEXT: Map007/events/37/pages/1/20/Dialogue
-Wan!!#Aesthetic
-> END STRING
-
-> BEGIN STRING
-おい……
-
-あいつの足…見てみろ。
-> CONTEXT: Map007/events/37/pages/1/70/Dialogue
-Hey... 
-That foot...Look at it...#Aesthetic
-> END STRING
-
-> BEGIN STRING
-あはは……
-
-どうやら、助けてもらっちゃったみたいだね…
-> CONTEXT: Map007/events/37/pages/1/94/Dialogue
-Ahaha... 
-Apparently, she's helped you...#Aesthetic
-> END STRING
-
-> BEGIN STRING
-まったく…自分が大変だって言うときに……
-
-まぁ、お前らしいよ。
-> CONTEXT: Map007/events/37/pages/1/98/Dialogue
-Come on... 
-Here I am sweating buckets because of this trouble...
-Well, I guess I shouldn't expect any different
-when it comes to you...#Aesthetic
-> END STRING
-
-> BEGIN STRING
-とにかく、これで先へ進めるようになったな。
-
-このまま居住区へ向かうぞ
-> CONTEXT: Map007/events/37/pages/1/102/Dialogue
-Anyways, you should now be able to proceed.
-Proceed to the residential area like this.#Aesthetic
-> END STRING
-
-> SHORTENED: Map183.txt
-
-> BEGIN STRING
-外に出たようだな。
-
-少し待ってくれ、追跡座標を再取得する。
-> CONTEXT: Map045/events/4/pages/0/21/Dialogue
-You seem to have gone outside.
-Wait a sec. I'm getting your exact coordinates.#Aesthetic
-> END STRING
-
-> BEGIN STRING
-…………よし、OKだ。
-> CONTEXT: Map045/events/4/pages/0/27/Dialogue
-…………Good, everything's OK.#Aesthetic
-> END STRING
-
-> BEGIN STRING
-港に着くには、ここから少し市街地を歩く必要がある。
-
-俺の部隊が設置した\\C[2]灯火装置を頼りに進んでいけ。
-> CONTEXT: Map045/events/4/pages/0/29/Dialogue
-To get to the harbor, you'll need to walk around downtown for a bit. 
-You can rely on the \\C[2] lighting equipment that my troops
-set up.#Aesthetic
-> END STRING
-
-> BEGIN STRING
-街は倒壊している部分も多い、
-
-悪魔の気配も含めて、充分に警戒して……
-> CONTEXT: Map045/events/4/pages/0/33/Dialogue
-Many parts of the city is collapsed. You'll have to worry about that,
-and be wary of any sign of demon activity.#Aesthetic
-> END STRING
-
-> BEGIN STRING
-……\\N[1]、聞こえているか？
-> CONTEXT: Map045/events/4/pages/0/40/Dialogue
-……\\N[1], Did you hear that?#Aesthetic
-> END STRING
-
-> BEGIN STRING
-あ、ああ！すまない……ユウマ。
-
-聞こえてるよ、灯火装置を探しながら進むんだな。
-> CONTEXT: Map045/events/4/pages/0/42/Dialogue
-Ah,Oh! Sorry...Yuuma. I heard you.、I should go looking
-for a lighting device right?#Aesthetic
-> END STRING
-
-> BEGIN STRING
-……\\N[1]。
-あのテープの内容はショックだったと思う。
-俺もできれば、あれをお前に聞かせたくはなかった……。
-> CONTEXT: Map045/events/4/pages/0/46/Dialogue
-……\\N[1]. 
-I understand the content of that tape was shocking. 
-I did not want you to find out this way...#Aesthetic
-> END STRING
-
-> BEGIN STRING
-だが、あれほどお前と仲の良かったレイナが
-
-あんな内容のテープを残すとは、俺は思えない。
-> CONTEXT: Map045/events/4/pages/0/50/Dialogue
-I just can't believe that Reina, one of your best friends, 
-would leave a tape like that.#Aesthetic
-> END STRING
-
-> BEGIN STRING
-わかってる……。
-
-レイナの口から真実を聞くまでは、僕も納得しない。
-きっと、なにか理由があるはずだ…。
-> CONTEXT: Map045/events/4/pages/0/55/Dialogue
-I know... Until we hear the truth from
-Reina's mouth, I am not convinced either.
-There has to be some reason...#Aesthetic
-> END STRING
-
-> BEGIN STRING
-それに彼女は今、Ｍ.Ｏ.Ｗに追われていることも事実だ。
-
-何と言われようと、必ず助け出してみせる…！
-> CONTEXT: Map045/events/4/pages/0/60/Dialogue
-Besides, the fact of the matter is, she is being chased
-by M.O.W. No matter what she says, we have to help her.#Aesthetic
-> END STRING
-
-> BEGIN STRING
-………お前は強いな、本当に。
-> CONTEXT: Map045/events/4/pages/0/64/Dialogue
-………You really are strong.#Aesthetic
-> END STRING
-
-> BEGIN STRING
-…………羨ましいよ。
-> CONTEXT: Map045/events/4/pages/0/67/Dialogue
-…………I envy you.#Aesthetic
-> END STRING
-
-> BEGIN STRING
-……なんでもない。
-
-先に進むぞ、\\N[1]。
-> CONTEXT: Map045/events/4/pages/0/71/Dialogue
-……Nevermind. Let's move on \\N[1].#Aesthetic
-> END STRING
-
-> SHORTENED: NOT_FOUND_.txt
-
-> BEGIN STRING
-　　\\C[2]『お前はあの世に行けない』。
-> CONTEXT: Map003/events/1/pages/0/35/Dialogue
-I'm going to be frank.#Aesthetic
-> END STRING
-
-> BEGIN STRING
-妙な機械だ。ディスプレイには
-「コールドスリープ解凍完了」
-と表示されている。
-僕は、コールドスリープしていたのか…？
-一体どうして…？
-> CONTEXT: Map004/events/2/pages/0/3/Dialogue
-It doesn't seem to be working anymore.#Aesthetic
-> END STRING
 

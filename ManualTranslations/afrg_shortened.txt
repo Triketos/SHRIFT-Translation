@@ -260,7 +260,7 @@ Scaly Shield#afrg
 ティタノボアの身体で作られた盾。
 全ての攻撃を半減する。
 > CONTEXT: Armors/74/description/
-Shield made from Titanoboa's body.
+Shield made from Titanboa's body.
 Halves damages.#afrgPR
 > END STRING
 
@@ -343,13 +343,13 @@ Jump At Her#afrg
 > CONTEXT: Commonevents/457/13/Dialogue
 > CONTEXT: Commonevents/457/59/Dialogue
 > CONTEXT: Commonevents/474/40/Dialogue
+> CONTEXT: Commonevents/474/101/Dialogue
 > CONTEXT: Commonevents/474/166/Dialogue
 > CONTEXT: Commonevents/474/204/Dialogue
 > CONTEXT: Commonevents/474/278/Dialogue
+> CONTEXT: Commonevents/504/18/Dialogue
 > CONTEXT: Commonevents/517/16/Dialogue
 > CONTEXT: Commonevents/517/71/Dialogue
-> CONTEXT: Commonevents/474/102/Dialogue
-> CONTEXT: Commonevents/504/19/Dialogue
 Fuck... This!!#afrg
 > END STRING
 
@@ -360,12 +360,12 @@ Fuck... This!!#afrg
 > CONTEXT: Commonevents/366/2/Dialogue
 > CONTEXT: Commonevents/457/2/Dialogue
 > CONTEXT: Commonevents/457/48/Dialogue
+> CONTEXT: Commonevents/474/86/Dialogue
 > CONTEXT: Commonevents/474/151/Dialogue
 > CONTEXT: Commonevents/474/270/Dialogue
 > CONTEXT: Commonevents/504/7/Dialogue
 > CONTEXT: Commonevents/517/2/Dialogue
 > CONTEXT: Commonevents/517/57/Dialogue
-> CONTEXT: Commonevents/474/87/Dialogue
 What the.........!?#afrg
 > END STRING
 
@@ -498,7 +498,7 @@ Kyahahahah#afrg
 んんんんんんんんんんんんん！！！♡
 > CONTEXT: Commonevents/454/15/Dialogue
 > CONTEXT: Commonevents/454/147/Dialogue
-> CONTEXT: Commonevents/471/548/Dialogue
+> CONTEXT: Commonevents/471/544/Dialogue
 ummmmmmph ...!!. mmmph mmmph mmmph!!!#afrg
 > END STRING
 
@@ -1891,7 +1891,7 @@ Charred Salamender#afrgPR
 \\C[10]肉体に負担がかかるため、休憩所での使用を推奨
 > CONTEXT: Items/50/description/
 Resets all physical reinforcements done within the capsule.
-\\C[10]Be ready to rest after you use it.#afrgPR
+\C[10]Be ready to rest after you use it.#afrgPR
 > END STRING
 
 > BEGIN STRING
@@ -1913,7 +1913,7 @@ Fortunately, \\N[1] does not know how to use this item.#afrg
 > BEGIN STRING
 焼夷弾
 > CONTEXT: Items/54/name/
-Incendiary Round#afrgPR
+Incendiary Shell#afrgPR
 > END STRING
 
 > BEGIN STRING
@@ -1928,7 +1928,7 @@ Fire attribute.#afrg
 > BEGIN STRING
 凍結弾
 > CONTEXT: Items/55/name/
-Freezing Round#afrgPR
+Freezing Shell#afrgPR
 > END STRING
 
 > BEGIN STRING
@@ -1943,7 +1943,7 @@ Ice attribute.#afrg
 > BEGIN STRING
 雷撃弾
 > CONTEXT: Items/56/name/
-Lightning Round#afrgPR
+Lightning Shell#afrgPR
 > END STRING
 
 > BEGIN STRING
@@ -2119,7 +2119,7 @@ High-Quality Fish Bento#afrg
 魔界の珍魚が調理された、鈴音印のお弁当。２個セット。
 \\C[14]ハル＆リズに対して\\C[0]プレゼントすると、友好度が上がる。
 > CONTEXT: Items/87/description/
-Suzune brand bento. Two portions of demon realm fish. 
+Suzune brand bento. Two portions of demon world fish. 
 \\C[14]Haru & Liz\\C[0] will like this gift.#afrgPR
 > END STRING
 
@@ -2447,7 +2447,7 @@ Three-Colored Dango#afrg
 鈴音印のおだんご、味はとんでもない。
 抵抗力・気力を全快して、しばらく疲労・衰弱にならなくなる。
 > CONTEXT: Items/122/description/
-Another unreal Suzune brand dango. Restores Vitality and
+Another unreal Suzuna brand dango. Restores Vitality and
 Will and prevent Weakness and Fatigue.#afrgPR
 > END STRING
 
@@ -3295,7 +3295,22 @@ Familiarity must be 100. (Current value: \\V[53] )#afrg
 
 > BEGIN STRING
 "ＳＰが１０増加！！"
-> CONTEXT: None < UNUSED
+> CONTEXT: Map215/events/3/pages/1/8/InlineScript/1:13
+> CONTEXT: Map122/events/3/pages/1/8/InlineScript/1:13
+> CONTEXT: Map121/events/3/pages/1/8/InlineScript/1:13
+> CONTEXT: Map120/events/3/pages/1/8/InlineScript/1:13
+> CONTEXT: Map119/events/3/pages/1/8/InlineScript/1:13
+> CONTEXT: Map089/events/3/pages/1/8/InlineScript/1:13
+> CONTEXT: Map085/events/3/pages/1/8/InlineScript/1:13
+> CONTEXT: Map080/events/3/pages/1/8/InlineScript/1:13
+> CONTEXT: Map070/events/3/pages/1/8/InlineScript/1:13
+> CONTEXT: Map062/events/3/pages/1/8/InlineScript/1:13
+> CONTEXT: Map041/events/3/pages/1/8/InlineScript/1:13
+> CONTEXT: Map042/events/3/pages/1/8/InlineScript/1:13
+> CONTEXT: Map027/events/3/pages/1/8/InlineScript/1:13
+> CONTEXT: Map025/events/14/pages/1/8/InlineScript/1:13
+> CONTEXT: Map025/events/16/pages/1/7/InlineScript/1:13
+> CONTEXT: Map019/events/3/pages/1/8/InlineScript/1:13
 "SP increased by 10!!"#afrg
 > END STRING
 
@@ -3342,9 +3357,6 @@ Milking (Tail)en(v[53] \>= 50)#afrg
 お互いに深く理解した上で、渡した方がいいだろう。
 > CONTEXT: Map215/events/5/pages/0/158/Dialogue
 > CONTEXT: Map216/events/5/pages/0/302/Dialogue
-She is \\C[2] not bonded....
-You should learn to understand each other better,
-then try to give it again.#afrg
 > CONTEXT: Map122/events/5/pages/0/153/Dialogue
 > CONTEXT: Map121/events/5/pages/0/172/Dialogue
 > CONTEXT: Map120/events/5/pages/0/229/Dialogue
@@ -3368,9 +3380,6 @@ then try to give it again.#afrg
 彼女に、本当にプロポーズしますか？
 > CONTEXT: Map215/events/5/pages/0/167/Dialogue
 > CONTEXT: Map216/events/5/pages/0/311/Dialogue
-\\C[2]You should carefully consider before giving this gift...
-
-Do you really want to propose to her?#afrg
 > CONTEXT: Map122/events/5/pages/0/162/Dialogue
 > CONTEXT: Map121/events/5/pages/0/181/Dialogue
 > CONTEXT: Map120/events/5/pages/0/238/Dialogue
@@ -3451,9 +3460,6 @@ We make out much?♡#afrg
 戦闘での心蝕は治まったようだ……。
 > CONTEXT: Map215/events/5/pages/0/226/Dialogue
 > CONTEXT: Map216/events/5/pages/0/371/Dialogue
-By being intimate with her,
-it seems that the mind corruption in battle
-has lessened.......#afrg
 > CONTEXT: Map122/events/5/pages/0/218/Dialogue
 > CONTEXT: Map121/events/5/pages/0/241/Dialogue
 > CONTEXT: Map120/events/5/pages/0/301/Dialogue
@@ -4388,7 +4394,7 @@ Strange...#afrg
 
 カマソッソにとっては、人間の『精神』は
 『抵抗されるのを無理矢理こじ開けるもの』なんだ
-> CONTEXT: None < UNUSED
+> CONTEXT: Map215/events/5/pages/1/471/Dialogue
 Oh...I see. To a Camazotz, the human spirit is
 something to be wrenched open forcefully.#afrg
 > END STRING
@@ -4407,7 +4413,7 @@ infestation works...#afrg
 でも………なんだろう、色々な悪魔と出会ってから
 
 『得体の知れないもの』では、無くなった気がする…
-> CONTEXT: None < UNUSED
+> CONTEXT: Map215/events/5/pages/1/485/Dialogue
 But ......... I wonder, having met a variety of
 demons, if my hunches about the unfamiliar
 are still correct.#afrg - very liberal, possibly incorrect
@@ -4434,7 +4440,7 @@ I do not know at all what effect it has on me....#afrg
 シェルターで目覚めた直後の僕にとって
 
 悪魔が、まさしく『得体の知れないもの』だったんだ。
-> CONTEXT: None < UNUSED
+> CONTEXT: Map215/events/5/pages/1/497/Dialogue
 For me, when I woke up in the shelter, demons
 were mysterious things.#afrg
 > END STRING
@@ -4636,7 +4642,7 @@ Really like me?#afrg
 確かに、君がこの部屋に来たときは驚いたけど
 
 実はあまり、不思議じゃなかったんだ。
-> CONTEXT: None < UNUSED
+> CONTEXT: Map215/events/5/pages/1/605/Dialogue
 Certainly, I was surprised when you came to this
 room, but it was not so strange.#afrg
 > END STRING
@@ -4646,7 +4652,7 @@ room, but it was not so strange.#afrg
 君がマイルームに来ればなって想像してたよ……
 
 だから、君はすんなりここに来れたんだと思う……
-> CONTEXT: None < UNUSED
+> CONTEXT: Map215/events/5/pages/1/609/Dialogue
 ............... To be honest, I was just thinking about
 you coming here for a while......
 I think that's how you got here so easily...#afrg
@@ -5014,9 +5020,6 @@ Camazotz ......#afrg
 > CONTEXT: Map215/events/5/pages/0/48/Dialogue
 > CONTEXT: Map216/events/5/pages/0/221/Dialogue
 > CONTEXT: Map215/events/5/pages/0/81/Dialogue
-Having been recently milked, I am still
-completely exhausted. I should wait
-a little while longer before returning.#afrg
 > CONTEXT: Map122/events/5/pages/0/50/Dialogue
 > CONTEXT: Map122/events/5/pages/0/83/Dialogue
 > CONTEXT: Map121/events/5/pages/0/48/Dialogue
@@ -5062,9 +5065,6 @@ a little while longer before returning.#afrg
 > CONTEXT: Map217/events/5/pages/0/115/Dialogue
 > CONTEXT: Map215/events/5/pages/0/108/Dialogue
 > CONTEXT: Map216/events/5/pages/0/252/Dialogue
-I only just gave a present.
-
-I should wait a while before giving another.#afrg
 > CONTEXT: Map122/events/5/pages/0/110/Dialogue
 > CONTEXT: Map121/events/5/pages/0/108/Dialogue
 > CONTEXT: Map120/events/5/pages/0/186/Dialogue
@@ -5089,9 +5089,6 @@ I should wait a while before giving another.#afrg
 > CONTEXT: Map217/events/5/pages/0/122/Dialogue
 > CONTEXT: Map215/events/5/pages/0/115/Dialogue
 > CONTEXT: Map216/events/5/pages/0/259/Dialogue
-I only just gave a present to another demon.
-
-I should wait a while before giving another.#afrg
 > CONTEXT: Map122/events/5/pages/0/117/Dialogue
 > CONTEXT: Map121/events/5/pages/0/115/Dialogue
 > CONTEXT: Map120/events/5/pages/0/193/Dialogue
@@ -5114,7 +5111,6 @@ I should wait a while before giving another.#afrg
 > CONTEXT: Map217/events/5/pages/0/163/Dialogue
 > CONTEXT: Map215/events/5/pages/0/200/Dialogue
 > CONTEXT: Map216/events/5/pages/0/345/Dialogue
-\\C[2]The gift could not be received ...#afrg
 > CONTEXT: Map122/events/5/pages/0/192/Dialogue
 > CONTEXT: Map121/events/5/pages/0/215/Dialogue
 > CONTEXT: Map120/events/5/pages/0/271/Dialogue
@@ -5176,10 +5172,9 @@ I should wait a while before giving another.#afrg
 > CONTEXT: Map119/events/5/pages/2/16/Dialogue
 > CONTEXT: Map066/events/16/pages/1/129/Dialogue
 > CONTEXT: Map066/events/16/pages/1/139/Dialogue
+> CONTEXT: Map003/events/6/pages/2/0/Dialogue
 > CONTEXT: Commonevents/334/114/Dialogue
 > CONTEXT: Commonevents/456/6/Dialogue
-...........................#afrg
-> CONTEXT: Map003/events/6/pages/2/0/Dialogue
 ...........................#afrg
 > END STRING
 
@@ -5765,6 +5760,7 @@ for 5 turns.  Can be stacked.#afrg
 > BEGIN STRING
 は魔獣の爪を放った！
 > CONTEXT: Skills/131/message1/
+ casts Beast Claw!#Dargoth
 > CONTEXT: Skills/625/message1/
 > CONTEXT: Skills/630/message1/
  uses Beast Claw!#afrg
@@ -5796,11 +5792,9 @@ Inside#afrg
 > CONTEXT: Skills/288/description/
 > CONTEXT: Skills/313/description/
 > CONTEXT: Skills/314/description/
+> CONTEXT: Skills/315/description/
 > CONTEXT: Skills/702/description/
 > CONTEXT: Skills/703/description/
-Rythmic leg move, beginner dance figure.
-\\c[2]Button Count:3 Time Limit:5\\}\\C[0] Previous Move:\\V[130]#afrgPR
-> CONTEXT: Skills/315/description/
 Rythmic leg move, beginner dance figure.
 \\c[2]Button Count:3 Time Limit:5\\}\\C[0] Previous Move:\\V[130]#afrgPR
 > END STRING
@@ -5822,7 +5816,7 @@ Twist#afrg
 \\c[2]【ボタン数】３【制限時間】３秒\\}\\C[0]【前回ダンス】\\V[130]
 > CONTEXT: Skills/289/description/
 Rythmic hip twist, beginner dance figure.
-Beginner dance: twist your hips together with your feet.
+Beginner dance move where you twist your hips together with your feet.
 \\c[2]Button Count:3 Time Limit:3\\}\\C[0] Previous Move:\\V[130]#afrgPR
 > END STRING
 
@@ -6334,7 +6328,7 @@ Full Burst#afrg
 > CONTEXT: Skills/727/message2/
 \\N[1]'s hand sticks to her breasts and doesn't come off...#afrg
 > CONTEXT: Skills/403/message2/
-\\N[1]'s hand sticks to her breasts and doesn't come off...#afrg
+\\N[1]'s hand doesn't move as if drawn to her breasts...#afrgPR
 > END STRING
 
 > BEGIN STRING
@@ -6442,6 +6436,7 @@ Draining Breath#afrg
 > BEGIN STRING
 敵単体に物理の大ダメージ。装弾数\\V[161]/6
 > CONTEXT: Skills/345/description/
+> CONTEXT: Skills/787/description/
 Deals a lot of physical damage. Bullets \\V[161]/6#afrg
 > END STRING
 
@@ -8319,7 +8314,6 @@ Number of bullets \\V[7]/10#afrg
 > BEGIN STRING
 感電
 > CONTEXT: Skills/553/name/
-> CONTEXT: Skills/557/name/
 Electric Shock#afrg
 > END STRING
 
@@ -10646,7 +10640,7 @@ Gah!!!#afrg
 > CONTEXT: Commonevents/337/4/Dialogue
 > CONTEXT: Commonevents/362/26/Dialogue
 > CONTEXT: Commonevents/362/37/Dialogue
-> CONTEXT: Commonevents/486/118/Dialogue
+> CONTEXT: Commonevents/486/119/Dialogue
 ............#afrg
 > END STRING
 
@@ -11382,12 +11376,129 @@ Powerful wand made from Sphinx's wings.
 It is wet with blood.#afrg
 > END STRING
 
-> SHORTENED: NOT_FOUND_.txt
+> SHORTENED: Map183.txt
 
 > BEGIN STRING
-……………なんだかんだで、
+"Chapter2-1　『奔走』　プレイ中"
+> CONTEXT: Map045/events/1/pages/0/6/InlineScript/2:1
+> CONTEXT: Map045/events/2/pages/0/6/InlineScript/2:1
+> CONTEXT: Map045/events/3/pages/0/6/InlineScript/2:1
+"Chapter2-1　『Running About』 Preyed Upon"#afrg
+> END STRING
 
-色々考えこんじゃってたんだな、カマソッソ……
+> BEGIN STRING
+外に出たようだな。
 
+少し待ってくれ、追跡座標を再取得する。
+> CONTEXT: Map045/events/4/pages/0/21/Dialogue
+Looks like you got out.
+
+Give me a moment while I get the coordinates
+for you again.#afrg1
+> END STRING
+
+> BEGIN STRING
+…………よし、OKだ。
+> CONTEXT: Map045/events/4/pages/0/27/Dialogue
+............ Ok, it's ok.#afrg
+> END STRING
+
+> BEGIN STRING
+港に着くには、ここから少し市街地を歩く必要がある。
+
+俺の部隊が設置した\\C[2]灯火装置を頼りに進んでいけ。
+> CONTEXT: Map045/events/4/pages/0/29/Dialogue
+In order to get to the harbor, you need to walk a
+little towards the downtown area from here.
+Keep relying on the lighting system my troops set up.#afrg
+> END STRING
+
+> BEGIN STRING
+街は倒壊している部分も多い、
+
+悪魔の気配も含めて、充分に警戒して……
+> CONTEXT: Map045/events/4/pages/0/33/Dialogue
+Many areas of the city are in ruins, and there
+are signs of demon activity. Be careful...#afrg
+> END STRING
+
+> BEGIN STRING
+……\\N[1]、聞こえているか？
+> CONTEXT: Map045/events/4/pages/0/40/Dialogue
+... .... Did you hear me, \\N[1]?#afrg
+> END STRING
+
+> BEGIN STRING
+あ、ああ！すまない……ユウマ。
+
+聞こえてるよ、灯火装置を探しながら進むんだな。
+> CONTEXT: Map045/events/4/pages/0/42/Dialogue
+Oh, ah! Sorry, Yuuma... I heard you, I'll go
+looking for those lights.#afrg
+> END STRING
+
+> BEGIN STRING
+……\\N[1]。
+あのテープの内容はショックだったと思う。
+俺もできれば、あれをお前に聞かせたくはなかった……。
+> CONTEXT: Map045/events/4/pages/0/46/Dialogue
+...... \\N[1]. I think the content of that
+tape was pretty shocking. I didn't want you
+to have to hear those things, if it could
+have been avoided...#afrg
+> END STRING
+
+> BEGIN STRING
+だが、あれほどお前と仲の良かったレイナが
+
+あんな内容のテープを残すとは、俺は思えない。
+> CONTEXT: Map045/events/4/pages/0/50/Dialogue
+But I don't think Reina would leave such a
+tape for you to find, considering how close
+the two of you were.#afrg
+> END STRING
+
+> BEGIN STRING
+わかってる……。
+
+レイナの口から真実を聞くまでは、僕も納得しない。
+きっと、なにか理由があるはずだ…。
+> CONTEXT: Map045/events/4/pages/0/55/Dialogue
+I know... 
+Until I hear the truth from Reina's own mouth,
+I won't be convinced either.
+Surely there has to be a good reason ....#afrg
+> END STRING
+
+> BEGIN STRING
+それに彼女は今、Ｍ.Ｏ.Ｗに追われていることも事実だ。
+
+何と言われようと、必ず助け出してみせる…！
+> CONTEXT: Map045/events/4/pages/0/60/Dialogue
+Besides, it's also true that she is being
+chased by M.O.W.
+No matter what the tape says, I'll definitely
+help her out!#afrg
+> END STRING
+
+> BEGIN STRING
+………お前は強いな、本当に。
+> CONTEXT: Map045/events/4/pages/0/64/Dialogue
+......... You are really strong.#afrg
+> END STRING
+
+> BEGIN STRING
+…………羨ましいよ。
+> CONTEXT: Map045/events/4/pages/0/67/Dialogue
+............It's enviable.#afrg
+> END STRING
+
+> BEGIN STRING
+……なんでもない。
+
+先に進むぞ、\\N[1]。
+> CONTEXT: Map045/events/4/pages/0/71/Dialogue
+...It's nothing.
+Let's get a move on, \\N[1].#afrg
 > END STRING
 

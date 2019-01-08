@@ -36,7 +36,7 @@ Mystery Cream
 Strange medicine from Echo's mucus that numbs human senses. Halves Lust gain.
 Cursed haori made from Archeny's webbing.
 Scaly Shield
-Shield made from Titanoboa's body. Halves damages.
+Shield made from Titanboa's body. Halves damages.
 Bronze Box [Mother Rabbit]
 Bronze Box [Mukuro]
 Bronze Box 【Echo】
@@ -237,14 +237,14 @@ Great Buddha Statue
 Very precious gold coin. They are shiny and can't be that old. Can be sold for a lot of money.
 Linear Launcher
 Charred Salamender
-Be ready to rest after you use it.
+Resets all physical reinforcements done within the capsule. \C[10]Be ready to rest after you use it.
 Zero-Dimensional Expansion Device
 Oliver (random string) does not know how to use this item.
-Incendiary Round
+Incendiary Shell
 Can be fired as a grenade by the assault rifle. Fire attribute.
-Freezing Round
+Freezing Shell
 Can be fired as a grenade by the assault rifle. Ice attribute.
-Lightning Round
+Lightning Shell
 Can be fired as a grenade by the assault rifle. Lightning attribute.
 Gale Shell
 Can be fired as a grenade by the assault rifle. Wind attribute.
@@ -317,7 +317,7 @@ Tasty Suzune brand dango. Completely recovers Will and cures physical debuffs.
 Mitarashi Dango
 Another sick Suzune brand dango. Completely recovers Vitality and cures mental debuffs.
 Three-Colored Dango
-Another unreal Suzune brand dango. Restores Vitality and Will and prevent Weakness and Fatigue.
+Another unreal Suzuna brand dango. Restores Vitality and Will and prevent Weakness and Fatigue.
 Magic Cure
 Treats Mother Rabbit's magic.
 Rice Ball Set
@@ -398,6 +398,20 @@ Immediately delicious
 Color Dango
 Very tasty
 To keep a sword in
+"Chapter2-1　『Running About』 Preyed Upon"
+Looks like you got out. Give me a moment while I get the coordinates for you again.
+............ Ok, it's ok.
+In order to get to the harbor, you need to walk a little towards the downtown area from here. Keep relying on the lighting system my troops set up.
+Many areas of the city are in ruins, and there are signs of demon activity. Be careful...
+Oliver (random string)?
+Oh, ah! Sorry, Yuuma... I heard you, I'll go looking for those lights.
+Oliver (random string). I think the content of that tape was pretty shocking. I didn't want you to have to hear those things, if it could have been avoided...
+But I don't think Reina would leave such a tape for you to find, considering how close the two of you were.
+I know... Until I hear the truth from Reina's own mouth, I won't be convinced either. Surely there has to be a good reason ....
+Besides, it's also true that she is being chased by M.O.W. No matter what the tape says, I'll definitely help her out!
+......... You are really strong.
+............It's enviable.
+Oliver (random string).
 Oliver (random string).
 Micah ......!!
 Strange ...... Didn't I strike a fatal blow? Why do you emerge unharmed?
@@ -429,14 +443,13 @@ Don's be silly!! Who... would let themselves be "infested" by some demon?!
 Micah......... Did you run away?
 Micah ......... Yuuma ......... Reina ......... I will look forward to seeing you from now on.........
 100 (random string) )
+"SP increased by 10!!"
 100 (random string) )
 Oliver (random string)!! You came!!
 Chaten(v[53] \>= 25)
 Milking (Hug)en(v[53] \>= 25)
 Milking (Tail)en(v[53] \>= 50)
  not bonded.... You should learn to understand each other better, then try to give it again.
- not bonded.... You should learn to understand each other better, then try to give it again.
-You should carefully consider before giving this gift... Do you really want to propose to her?
 You should carefully consider before giving this gift... Do you really want to propose to her?
 ...............??? Not understand...
 Is person thing. Want mate now...
@@ -444,7 +457,6 @@ Erase mind corruptionif(v[53] \>= 100)
 There seems to be no mind corruption in battles with her...
 There seems to be no mind corruption in battles with her...
 Oliver (random string) came here...♡ We make out much?♡
-By being intimate with her, it seems that the mind corruption in battle has lessened.......
 By being intimate with her, it seems that the mind corruption in battle has lessened.......
 "Story" ...? Not understand, but understood.
 About her goalsen(v[53] \>= 30)
@@ -542,9 +554,12 @@ Moreover, they will die if they pull it away......
 Oliver (random string), me scary demon?  Why I come here?
 Normal person scared of demon So mating remove spirit
 But here I resist. Strange...
+Oh...I see. To a Camazotz, the human spirit is something to be wrenched open forcefully.
 Yeah, she's not that scary... Especially once you know how the infestation works...
+But ......... I wonder, having met a variety of demons, if my hunches about the unfamiliar are still correct.
 ... .....................?
 Ugh, I don't know if I can explain it properly... Humans are afraid of the unknown. I do not know at all what effect it has on me....
+For me, when I woke up in the shelter, demons were mysterious things.
 But, what I mean is... You know what I mean. They are all coercive, but they listen, too. And it is possible for us to be friends...
 So I might be afraid, but I won't reject you.  Maybe that's why My Room was open...
 ....Well, maybe I just overlooked it. I did not expect that a demon would come in here...
@@ -566,6 +581,8 @@ Oliver (random string) "friend"
 I know.... People kill my "friends"
 Oliver (random string), say simple... Come here lots...
 Oliver (random string) ............ Really like me?
+Certainly, I was surprised when you came to this room, but it was not so strange.
+............... To be honest, I was just thinking about you coming here for a while...... I think that's how you got here so easily...
 Besides, it was another Camazotz that infested Micah. That's not a reason to dislike you.
 .....................! !
 Oliver (random string)!!
@@ -604,15 +621,10 @@ Oliver (random string) become one, is dream Happy wish come true...♡
 Oliver (random string)'s chest...
 Camazotz ......
 Having been recently milked, I am still completely exhausted. I should wait a little while longer before returning.
-Having been recently milked, I am still completely exhausted. I should wait a little while longer before returning.
-I only just gave a present. I should wait a while before giving another.
 I only just gave a present. I should wait a while before giving another.
 I only just gave a present to another demon. I should wait a while before giving another.
-I only just gave a present to another demon. I should wait a while before giving another.
-The gift could not be received ...
 The gift could not be received ...
 ......!!
-...........................
 ...........................
 Kahahahaha! A human! A human male!
 !!? Wha-...!
@@ -622,7 +634,7 @@ Suddenly it appeared before me, a demon with two pairs of wings ...... It flies 
 There are no signs of Camazotz around here......
 ..................
 .............
-"Book Completion: \#{monster_dictionary_perfection} %"
+$ (random string)
 "\\\\C[\#{c}]\#{$data_skills[@msg].name}\\\\C[0] Learned"
 "\\\\C[\#{c}]\#{$game_actors[@msg].name}\\\\C[0] Level Up"
 "\\\\C[\#{c}]\#{$game_actors[@msg].name}\\\\C[0] was befriended"
@@ -657,11 +669,11 @@ Makes it less likely to be affected by Ecstasy, Puppet and Terror for 5 turns.
 Makes it less likely to be affected by Ecstasy, Puppet, Panic, and Fear for 5 turns.
 Raise probability of acting first for 5 turns. Can be stacked.
 Raise probability of acting first and accuracy for 5 turns.  Can be stacked.
+ casts Beast Claw!
  uses Beast Claw!
 Million Shot
 100 (random string)/6
 Inside
-100 (random string)
 100 (random string)
  performs an Inside!
 Twist
@@ -744,7 +756,7 @@ Full Burst
 ■ Mukuro
 Oliver (random string)!
 Oliver (random string)'s hand sticks to her breasts and doesn't come off...
-Oliver (random string)'s hand sticks to her breasts and doesn't come off...
+Oliver (random string)'s hand doesn't move as if drawn to her breasts...
 Termination Fuck
  pistons her hips at a terrible speed!
 Ruthless Fuck
