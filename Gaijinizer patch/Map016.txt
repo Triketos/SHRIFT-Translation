@@ -1,0 +1,987 @@
+﻿> GAIJINIZER PATCH FILE
+> BEGIN STRING
+………？
+
+電源が落ちてるはずなのに、妙に明るいな……？
+> CONTEXT: Map016/events/17/pages/0/9/Dialogue/kazuya
+> CONTEXT: Map016/events/17/pages/1/4/Dialogue/kazuya
+> CONTEXT: Map023/events/6/pages/0/20/Dialogue/kazuya
+.........? There shouldn't be any power going to
+this room but it's strangely bright in here...#Ron
+> END STRING
+
+> BEGIN STRING
+俺が医療区域の電源を入れたとき
+
+そこの居住エリアの電源は完全にオフラインだった。
+> CONTEXT: Map016/events/17/pages/0/13/Dialogue/yuuma
+> CONTEXT: Map016/events/17/pages/1/8/Dialogue/yuuma
+> CONTEXT: Map023/events/6/pages/0/24/Dialogue/yuuma
+The power in the residential area was completely
+offline when I activated the power in the
+medical section.#Ron
+> END STRING
+
+> BEGIN STRING
+非常灯の類いも、消えているはずだが……
+
+妙だな。
+> CONTEXT: Map016/events/17/pages/0/17/Dialogue/yuuma
+> CONTEXT: Map016/events/17/pages/1/12/Dialogue/yuuma
+> CONTEXT: Map023/events/6/pages/0/28/Dialogue/yuuma
+Even the emergency lights should be off...
+This is strange.#Ron
+> END STRING
+
+> BEGIN STRING
+あの植物みたいなの………
+
+どうやらアレが光ってるみたいだ。
+> CONTEXT: Map016/events/17/pages/0/27/Dialogue/kazuya
+> CONTEXT: Map016/events/17/pages/1/22/Dialogue/kazuya
+> CONTEXT: Map023/events/6/pages/0/38/Dialogue/kazuya
+On these plant things.........
+Looks like that bit of it's shining.#Ron
+> END STRING
+
+> BEGIN STRING
+気を付けろ、根元がなにか動いているぞ。
+> CONTEXT: Map016/events/17/pages/0/31/Dialogue/yuuma
+> CONTEXT: Map016/events/17/pages/1/26/Dialogue/yuuma
+> CONTEXT: Map023/events/6/pages/0/42/Dialogue/yuuma
+Careful, the roots are moving.#Ron
+> END STRING
+
+> BEGIN STRING
+うっ…………！！
+> CONTEXT: Map016/events/17/pages/0/35/Dialogue/kazuya
+> CONTEXT: Map016/events/17/pages/1/30/Dialogue/kazuya
+> CONTEXT: Map023/events/6/pages/0/46/Dialogue/kazuya
+ugh............!!#Ron
+> END STRING
+
+> BEGIN STRING
+うごめくツタの隙間から見えたのは
+
+……………ミイラ化した人間の頭だった。
+> CONTEXT: Map016/events/17/pages/0/37/Dialogue
+> CONTEXT: Map016/events/17/pages/1/32/Dialogue
+> CONTEXT: Map023/events/6/pages/0/48/Dialogue
+I saw the head of a mummified human being in a
+gap between the wriggling ivy.#Ron
+> END STRING
+
+> BEGIN STRING
+植物の灯りは、一定のリズムで脈打ちながら
+
+ ほのかな明滅を続けている………
+> CONTEXT: Map016/events/17/pages/0/41/Dialogue
+> CONTEXT: Map016/events/17/pages/1/36/Dialogue
+> CONTEXT: Map023/events/6/pages/0/52/Dialogue
+The light in the plant flickers dimly as it pulses
+to a steady rhythm...#Ron
+> END STRING
+
+> BEGIN STRING
+ひ……人を養分にしてる……！
+
+ってことは、ここの灯りは全部………！？
+> CONTEXT: Map016/events/17/pages/0/45/Dialogue/kazuya
+> CONTEXT: Map016/events/17/pages/1/40/Dialogue/kazuya
+> CONTEXT: Map023/events/6/pages/0/56/Dialogue/kazuya
+I- it's getting nourishment from people...!
+So that means, all the lights here are...!?#Ron
+> END STRING
+
+> BEGIN STRING
+全部………！？
+
+そんな馬鹿な………！！！
+> CONTEXT: Map016/events/17/pages/0/49/Dialogue/yuuma
+> CONTEXT: Map016/events/17/pages/1/44/Dialogue/yuuma
+> CONTEXT: Map023/events/6/pages/0/60/Dialogue/yuuma
+All of them...!? I'm so stupid...!#Ron
+> END STRING
+
+> BEGIN STRING
+裕真！どういうことだよ！！
+
+この施設の避難は完了したんじゃなかったのか！？
+> CONTEXT: Map016/events/17/pages/0/53/Dialogue/kazuya
+> CONTEXT: Map016/events/17/pages/1/48/Dialogue/kazuya
+> CONTEXT: Map023/events/6/pages/0/64/Dialogue/kazuya
+Yuuma! What do you mean?! Wasn't the evacuation
+of this facility completed??#Ron
+> END STRING
+
+> BEGIN STRING
+き、脅威だったカマキリのバケモノを倒して
+
+安全を確保したあと、俺は他部隊に任せた……
+> CONTEXT: Map016/events/17/pages/0/57/Dialogue/yuuma
+> CONTEXT: Map016/events/17/pages/1/52/Dialogue/yuuma
+> CONTEXT: Map023/events/6/pages/0/68/Dialogue/yuuma
+A- after we took down the mantis threat and
+secured the facility, I left it in the hands of
+another unit.#Ron
+> END STRING
+
+> BEGIN STRING
+そいつらは、施設閉鎖のために残っていた作業員数名と
+
+すぐあとに輸送機で、空から避難する手はずだったんだ……
+> CONTEXT: Map016/events/17/pages/0/61/Dialogue/yuuma
+> CONTEXT: Map016/events/17/pages/1/56/Dialogue/yuuma
+> CONTEXT: Map023/events/6/pages/0/72/Dialogue/yuuma
+Those guys were supposed to have evacuated the
+remaining workers here with transport planes so
+they could lock down the facility.#Ron
+> END STRING
+
+> BEGIN STRING
+"Chapter1-2　ランパス戦"
+> CONTEXT: Map016/events/17/pages/0/66/InlineScript/1:24
+> CONTEXT: Map016/events/17/pages/2/6/InlineScript/1:24
+"Chapter 1-2 Lampas Battle"#MTLed
+> END STRING
+
+> BEGIN STRING
+？？？『そのカマキリのバケモノには
+　　　　メスがいたんだよねぇー。』
+> CONTEXT: Map016/events/17/pages/0/79/Dialogue
+> CONTEXT: Map023/events/6/pages/0/82/Dialogue
+??? "There was a female with that mantis
+monster wasn't there? "#Ron
+> END STRING
+
+> BEGIN STRING
+！？
+ 誰だ！？
+> CONTEXT: Map016/events/17/pages/0/82/Dialogue/kazuya
+> CONTEXT: Map016/events/17/pages/3/2/Dialogue/kazuya
+> CONTEXT: Map023/events/6/pages/0/85/Dialogue/kazuya
+!? Who's there!?#Ron
+> END STRING
+
+> BEGIN STRING
+つがいのオスを殺されたそのメスはね
+
+怒り狂って兵隊さんたちを皆殺しにしちゃってさ…
+> CONTEXT: Map016/events/17/pages/0/89/Dialogue/enemy
+> CONTEXT: Map023/events/6/pages/0/92/Dialogue/enemy
+That female whose mate had been killed flew into
+a rage and slaughtered all of the soldiers...#Ron
+> END STRING
+
+> BEGIN STRING
+逃げ場を失った武器を持たないフツーのニンゲンは
+
+仕方なくここに逃げて立てこもってたんだけど……
+> CONTEXT: Map016/events/17/pages/0/93/Dialogue/enemy
+> CONTEXT: Map023/events/6/pages/0/96/Dialogue/enemy
+Those nooormal humans with no weapons and no
+place to run had no choice but to run here and
+barricade themselves in.#Ron
+> END STRING
+
+> BEGIN STRING
+ヘカーテさまが先に忍ばせておいた私たちが目覚めて
+
+ニンゲンはぜーんぶ食べられちゃった♡
+> CONTEXT: Map016/events/17/pages/0/98/Dialogue/enemy
+> CONTEXT: Map023/events/6/pages/0/101/Dialogue/enemy
+Hecate-sama woke all of us who'd been hidden
+here, and aaaall the humans got gobbled up. ♡#Ron
+> END STRING
+
+> BEGIN STRING
+貴様……！！
+> CONTEXT: Map016/events/17/pages/0/102/Dialogue/yuuma
+> CONTEXT: Map023/events/6/pages/0/105/Dialogue/yuuma
+You bastards!!#Ron
+> END STRING
+
+> BEGIN STRING
+キレイでしょう？
+
+ニンゲンとランパスが同化して灯した明かり………
+> CONTEXT: Map016/events/17/pages/0/107/Dialogue/enemy
+> CONTEXT: Map023/events/6/pages/0/110/Dialogue/enemy
+It's pretty isn't it? The light that shines from
+the assimilation of human and Lampas...#Ron
+> END STRING
+
+> BEGIN STRING
+私たちランパスは、ニンゲンの魂と融合して
+
+尻尾の灯火を永遠に輝かせるの。
+> CONTEXT: Map016/events/17/pages/0/111/Dialogue/enemy
+> CONTEXT: Map023/events/6/pages/0/114/Dialogue/enemy
+We Lampas fuse with the souls of humans, which
+makes the lights in our tail shine forever.#Ron
+> END STRING
+
+> BEGIN STRING
+それこそ、ランパスという種の本懐……
+
+ニンゲンでいう、『生きる意味』そのものなの
+> CONTEXT: Map016/events/17/pages/0/115/Dialogue/enemy
+> CONTEXT: Map023/events/6/pages/0/118/Dialogue/enemy
+That is the greatest desire of the Lampas
+species... Humans are the meaning of life itself
+for us.#Ron
+> END STRING
+
+> BEGIN STRING
+だからさぁ………いいでしょ？
+
+あなたも私とひとつになるの♡♡
+> CONTEXT: Map016/events/17/pages/0/130/Dialogue/enemy
+> CONTEXT: Map023/events/6/pages/0/133/Dialogue/enemy
+Soooo... how about it?
+Wanna become one with me? ♡ ♡#Ron
+> END STRING
+
+> BEGIN STRING
+キモチイイこといっぱいして……
+
+トロトロになった魂を、精液ごとジュルジュル吸ってあげる♡
+> CONTEXT: Map016/events/17/pages/0/134/Dialogue/enemy
+> CONTEXT: Map023/events/6/pages/0/137/Dialogue/enemy
+It'll feel sooooo good... I'll slurp up your
+syrupy soul and all your semen. ♡#Ron
+> END STRING
+
+> BEGIN STRING
+ほぉら……♡♡
+
+私の匂いをいっぱい吸って、骨抜きになっちゃえ…♡
+> CONTEXT: Map016/events/17/pages/0/139/Dialogue/enemy
+> CONTEXT: Map023/events/6/pages/0/142/Dialogue/enemy
+Cooome on... ♡ ♡ Breathe in my scent and become
+putty in my hands...♡#Ron
+> END STRING
+
+> BEGIN STRING
+まずい！！
+
+\\N[1]！！早く部屋を出るんだ！
+> CONTEXT: Map016/events/17/pages/0/148/Dialogue/yuuma
+> CONTEXT: Map016/events/17/pages/3/59/Dialogue/yuuma
+> CONTEXT: Map023/events/6/pages/0/151/Dialogue/yuuma
+This is bad!! \\N[1]!!, quickly! Get out of 
+there!#Ron
+> END STRING
+
+> BEGIN STRING
+やろうとしてる！！！
+
+だけどツタが絡まって開かないんだ！！！
+> CONTEXT: Map016/events/17/pages/0/152/Dialogue/kazuya
+> CONTEXT: Map016/events/17/pages/3/63/Dialogue/kazuya
+> CONTEXT: Map023/events/6/pages/0/155/Dialogue/kazuya
+I'm trying!!! But there's ivy all around it,
+it won't open!!!#Ron
+> END STRING
+
+> BEGIN STRING
+アハハッ、これで逃げられないねぇ♪
+
+ ゆっくりじっくり……虜にしてあげる♡
+> CONTEXT: Map016/events/17/pages/0/156/Dialogue/enemy
+> CONTEXT: Map016/events/17/pages/3/67/Dialogue/enemy
+> CONTEXT: Map023/events/6/pages/0/159/Dialogue/enemy
+Ahahah, you can't escape that way♪
+Slowly... surely... I'll make you my slave. ♡#Ron
+> END STRING
+
+> BEGIN STRING
+くっ！！！
+
+やるしか、ないのか……！！！！
+> CONTEXT: Map016/events/17/pages/0/164/Dialogue/kazuya
+> CONTEXT: Map016/events/17/pages/3/75/Dialogue/kazuya
+> CONTEXT: Map023/events/6/pages/0/167/Dialogue/kazuya
+Dammit!!! Is there no other way...?!!!!#Ron
+> END STRING
+
+> BEGIN STRING
+はあーーーーーっ………
+
+はあー…っーーー……
+> CONTEXT: Map016/events/17/pages/0/190/Dialogue/kazuya-0
+> CONTEXT: Map016/events/17/pages/2/86/Dialogue/kazuya-0
+> CONTEXT: Map016/events/17/pages/3/101/Dialogue/kazuya-0
+> CONTEXT: Map023/events/6/pages/0/183/Dialogue/kazuya-0
+Haaaaaaaaaaaaah......... Haaaaaaaaaaaaah#Ron
+> END STRING
+
+> BEGIN STRING
+\\N[1]！！！無事か！？
+> CONTEXT: Map016/events/17/pages/0/194/Dialogue/yuuma
+> CONTEXT: Map016/events/17/pages/2/90/Dialogue/yuuma
+> CONTEXT: Map016/events/17/pages/3/105/Dialogue/yuuma
+> CONTEXT: Map023/events/6/pages/0/187/Dialogue/yuuma
+\\N[1]!!! Are you okay?!#Ron
+> END STRING
+
+> BEGIN STRING
+な、なんとか、切り抜けた………
+> CONTEXT: Map016/events/17/pages/0/196/Dialogue/kazuya-0
+> CONTEXT: Map016/events/17/pages/2/92/Dialogue/kazuya-0
+> CONTEXT: Map016/events/17/pages/3/107/Dialogue/kazuya-0
+> CONTEXT: Map023/events/6/pages/0/189/Dialogue/kazuya-0
+I- I managed to get through it somehow...#Ron
+> END STRING
+
+> BEGIN STRING
+ヤツのあの妙な花粉を吸い過ぎたんだ…
+
+しばらくじっとしてろ！ゆっくり呼吸を整えるんだ…！
+> CONTEXT: Map016/events/17/pages/0/198/Dialogue/yuuma
+> CONTEXT: Map016/events/17/pages/2/94/Dialogue/yuuma
+> CONTEXT: Map016/events/17/pages/3/109/Dialogue/yuuma
+> CONTEXT: Map023/events/6/pages/0/191/Dialogue/yuuma
+You breathed in a lot of that weird pollen...
+Hold still for a moment! Slowly steady your
+breathing!#Ron
+> END STRING
+
+> BEGIN STRING
+……落ち着いたか？\\N[1]。
+> CONTEXT: Map016/events/17/pages/0/206/Dialogue/yuuma
+> CONTEXT: Map016/events/17/pages/2/102/Dialogue/yuuma
+> CONTEXT: Map016/events/17/pages/3/117/Dialogue/yuuma
+> CONTEXT: Map023/events/6/pages/0/199/Dialogue/yuuma
+......Have you calmed down, \\N[1]?#Ron
+> END STRING
+
+> BEGIN STRING
+ああ、なんとかな………
+
+さすがにこの密室で、あの濃度の花粉はきついぜ…。
+> CONTEXT: Map016/events/17/pages/0/208/Dialogue/kazuya
+> CONTEXT: Map016/events/17/pages/2/104/Dialogue/kazuya
+> CONTEXT: Map016/events/17/pages/3/119/Dialogue/kazuya
+> CONTEXT: Map023/events/6/pages/0/201/Dialogue/kazuya
+Yeah, pretty much......... That concentration of
+pollen in this closed room really is rough.#Ron
+> END STRING
+
+> BEGIN STRING
+……本当にすまない。
+
+お前をそんな危険な場所に置き去りにしてしまって…。
+> CONTEXT: Map016/events/17/pages/0/212/Dialogue/yuuma
+> CONTEXT: Map016/events/17/pages/2/108/Dialogue/yuuma
+> CONTEXT: Map016/events/17/pages/3/123/Dialogue/yuuma
+> CONTEXT: Map023/events/6/pages/0/205/Dialogue/yuuma
+... I'm really sorry. I've abandoned you in such
+a dangerous place.#Ron
+> END STRING
+
+> BEGIN STRING
+ハハ、何言ってんだよ、裕真。お前らしくもない。
+> CONTEXT: Map016/events/17/pages/0/216/Dialogue/kazuya
+> CONTEXT: Map016/events/17/pages/2/112/Dialogue/kazuya
+> CONTEXT: Map016/events/17/pages/3/127/Dialogue/kazuya
+> CONTEXT: Map023/events/6/pages/0/209/Dialogue/kazuya
+Haha, what are you saying, Yuuma. That's not
+like you.#Ron
+> END STRING
+
+> BEGIN STRING
+僕は、お前やレイナ達ともう一度再会するまで
+
+絶対に生きてやるぞ。
+> CONTEXT: Map016/events/17/pages/0/218/Dialogue/kazuya
+> CONTEXT: Map016/events/17/pages/2/114/Dialogue/kazuya
+> CONTEXT: Map016/events/17/pages/3/129/Dialogue/kazuya
+> CONTEXT: Map023/events/6/pages/0/211/Dialogue/kazuya
+I'm absolutely gonna keep on living until I've
+met you and Reina again.#Ron
+> END STRING
+
+> BEGIN STRING
+ゆっくりと聞きたいことがたくさんあるんだ。
+
+お前も、弱音は吐かずにちゃんと僕を誘導してくれよ？
+> CONTEXT: Map016/events/17/pages/0/222/Dialogue/kazuya
+> CONTEXT: Map016/events/17/pages/2/118/Dialogue/kazuya
+> CONTEXT: Map016/events/17/pages/3/133/Dialogue/kazuya
+> CONTEXT: Map023/events/6/pages/0/215/Dialogue/kazuya
+There's lots of things I want to ask you about.
+So I want you to help guide me without any
+whining, okay?#Ron
+> END STRING
+
+> BEGIN STRING
+…………かなわないな、お前には…。
+> CONTEXT: Map016/events/17/pages/0/226/Dialogue/yuuma
+> CONTEXT: Map016/events/17/pages/2/122/Dialogue/yuuma
+> CONTEXT: Map016/events/17/pages/3/137/Dialogue/yuuma
+> CONTEXT: Map023/events/6/pages/0/219/Dialogue/yuuma
+... I'm no match for you, huh...#Ron
+> END STRING
+
+> BEGIN STRING
+よし、それじゃあまずは状況の把握だ。
+
+この電力室のモニターを俺に見えるよう近づいてくれ。
+> CONTEXT: Map016/events/17/pages/0/229/Dialogue/yuuma
+> CONTEXT: Map016/events/17/pages/2/125/Dialogue/yuuma
+> CONTEXT: Map016/events/17/pages/3/140/Dialogue/yuuma
+> CONTEXT: Map023/events/6/pages/0/222/Dialogue/yuuma
+OK, then first let's get to grips with the
+situation. Get closer to the monitor in this
+power room so I can see it.#Ron
+> END STRING
+
+> BEGIN STRING
+………ここで何が起こったのかは分からないが…
+まずは状況の把握だ。
+
+この電力室のモニターを俺に見えるよう近づいてくれ。
+> CONTEXT: Map016/events/17/pages/1/61/Dialogue/yuuma
+......... I do not know what happened here ...
+The first step is to understand the situation.
+Bring me close to the monitor in this power room.#MTLed
+> END STRING
+
+> BEGIN STRING
+………………？
+
+どうした、\\N[1]。
+部屋の奥の方をジッと見つめて……
+> CONTEXT: Map016/events/17/pages/1/75/Dialogue/yuuma
+......? What's up, \\N[1]. Gaze stare at the back
+of the room ...#MTLed
+> END STRING
+
+> BEGIN STRING
+……………でてこない？
+> CONTEXT: Map016/events/17/pages/1/80/Dialogue/kazuya
+..... can not come out?#MTLed
+> END STRING
+
+> BEGIN STRING
+出てこない？何がだ。
+> CONTEXT: Map016/events/17/pages/1/82/Dialogue/yuuma
+It does not come out? What is it?#MTLed
+> END STRING
+
+> BEGIN STRING
+いや……
+
+なんでもない………
+> CONTEXT: Map016/events/17/pages/1/84/Dialogue/kazuya
+Disagreeable……. nothing………#MTLed
+> END STRING
+
+> BEGIN STRING
+…………なんで、みんなを殺したの？
+> CONTEXT: Map016/events/17/pages/2/18/Dialogue/enemy
+...... why did you kill everyone?#MTLed
+> END STRING
+
+> BEGIN STRING
+私たちは、尻尾の灯火を灯すことだけが『存在理由』…
+
+あなたは、そんな私たちが許せなかったの…？
+> CONTEXT: Map016/events/17/pages/2/20/Dialogue/enemy
+We only have to turn on the tail light “reason
+for existence”...You couldn't forgive us ...?#MTLed
+> END STRING
+
+> BEGIN STRING
+じゃあ教えて………？
+
+なんで、最初にあなたを襲った私を見逃したの？
+なぜ、ここに戻ってきたの？
+> CONTEXT: Map016/events/17/pages/2/24/Dialogue/enemy
+Then tell me .........? Why did you miss me who
+first attacked you? Why did you come back here?#MTLed
+> END STRING
+
+> BEGIN STRING
+最初に私を見たとき
+
+少しでも私を『良い』と思ってくれたの？
+でも途中で気が変わって、私も殺しに来たの？
+> CONTEXT: Map016/events/17/pages/2/40/Dialogue/enemy
+When i first saw me. Did you even think of me as
+"good"? But did you change your mind and came to
+kill me?#MTLed
+> END STRING
+
+> BEGIN STRING
+どっちにしても………私はあなたをもう逃がす気はないよ♡
+
+私は、どんな態度をとられようと、
+こういう『生き方』なんだから…。
+> CONTEXT: Map016/events/17/pages/2/45/Dialogue/enemy
+Either way...... I will not miss you anymore ♡
+Whatever attitude I take, Because it is such a
+"way of life" ....#MTLed
+> END STRING
+
+> BEGIN STRING
+さぁ………はじめよう♡
+
+いっぱい愛し合おうね♡
+> CONTEXT: Map016/events/17/pages/2/56/Dialogue/enemy
+Well......... Let's get started
+I will love you a lot#MTLed
+> END STRING
+
+> BEGIN STRING
+？？？『燃やさせない………』
+> CONTEXT: Map016/events/17/pages/3/0/Dialogue
+? ? ? "Don't burn......"#MTLed
+> END STRING
+
+> BEGIN STRING
+また……私たちを虐げに来たの？
+
+あれだけじゃ、まだ足りないって言うの…？
+> CONTEXT: Map016/events/17/pages/3/9/Dialogue/enemy
+Also...did you come to oppress us?
+Just that, I say still not enough ...?#MTLed
+> END STRING
+
+> BEGIN STRING
+ま、『また』……？
+
+なんの事だよ……！？
+> CONTEXT: Map016/events/17/pages/3/14/Dialogue/kazuya
+Oh, "again" ...? What's that ......! ?#MTLed
+> END STRING
+
+> BEGIN STRING
+ていうか、君は……！？
+> CONTEXT: Map016/events/17/pages/3/18/Dialogue/kazuya
+I mean, you are ......! ?#MTLed
+> END STRING
+
+> BEGIN STRING
+気を付けろ\\N[1]。
+
+あの悪魔、様子が変だぞ……。
+> CONTEXT: Map016/events/17/pages/3/20/Dialogue/yuuma
+Watch out for \\N[1]. That demon is weird ...#MTLed
+> END STRING
+
+> BEGIN STRING
+あんたには聞こえないだろうけど、みんなあの時
+
+悲鳴をあげてたんだから……
+> CONTEXT: Map016/events/17/pages/3/27/Dialogue/enemy
+I can not hear you, but everyone
+I was screaming ......#MTLed
+> END STRING
+
+> BEGIN STRING
+私には…まだあの時の光景が目に焼き付いてる…
+> CONTEXT: Map016/events/17/pages/3/31/Dialogue/enemy
+The sight of that time is still burning on my
+eyes ...#MTLed
+> END STRING
+
+> BEGIN STRING
+なにもかも、なかったことに出来ると思ったの？
+
+あれだけのことをしておいて、のうのうと…？
+> CONTEXT: Map016/events/17/pages/3/33/Dialogue/enemy
+Did you think that you could do something that
+was not there? Just do that, comfortable and ...?#MTLed
+> END STRING
+
+> BEGIN STRING
+大人しくしてて………
+
+あなたがまた何かしでかす前に…
+何もできなくしてあげる…！
+> CONTEXT: Map016/events/17/pages/3/48/Dialogue/enemy
+Make me .......... Before you do anything else
+... I will not be able to do anything ...!#MTLed
+> END STRING
+
+> BEGIN STRING
+どうだ？ユウマ。
+> CONTEXT: Map016/events/18/pages/1/1/Dialogue/kazuya
+> CONTEXT: Map016/events/18/pages/2/1/Dialogue/kazuya
+> CONTEXT: Map016/events/18/pages/3/1/Dialogue/kazuya
+> CONTEXT: Map016/events/18/pages/4/1/Dialogue/kazuya
+How is it? Yuuma.#MTLed
+> END STRING
+
+> BEGIN STRING
+ちょっと待っていてくれ。
+
+少し他の区画の電力を回して、なんとか……
+> CONTEXT: Map016/events/18/pages/1/3/Dialogue/yuuma
+> CONTEXT: Map016/events/18/pages/2/3/Dialogue/yuuma
+> CONTEXT: Map016/events/18/pages/3/3/Dialogue/yuuma
+> CONTEXT: Map016/events/18/pages/4/3/Dialogue/yuuma
+Hang on a sec. Transfer power from this
+other section, aaaand that should...#Ron
+> END STRING
+
+> BEGIN STRING
+……よし！これで大丈夫だ。
+> CONTEXT: Map016/events/18/pages/1/12/Dialogue/yuuma
+> CONTEXT: Map016/events/18/pages/2/12/Dialogue/yuuma
+> CONTEXT: Map016/events/18/pages/3/12/Dialogue/yuuma
+> CONTEXT: Map016/events/18/pages/4/12/Dialogue/yuuma
+......Great! It should be fine now.#Ron
+> END STRING
+
+> BEGIN STRING
+しかし、一部シャッターと照明が戻らない……。
+
+これは個々のフロアのバッテリーが抜かれているのか…？
+> CONTEXT: Map016/events/18/pages/1/14/Dialogue/yuuma
+> CONTEXT: Map016/events/18/pages/2/14/Dialogue/yuuma
+> CONTEXT: Map016/events/18/pages/3/14/Dialogue/yuuma
+> CONTEXT: Map016/events/18/pages/4/14/Dialogue/yuuma
+However, some of the shutters and lights aren't
+coming back on... Have the batteries on each
+individual floor been removed?#Ron
+> END STRING
+
+> BEGIN STRING
+どういうことだ？
+> CONTEXT: Map016/events/18/pages/1/18/Dialogue/kazuya
+> CONTEXT: Map016/events/18/pages/2/18/Dialogue/kazuya
+> CONTEXT: Map016/events/18/pages/3/18/Dialogue/kazuya
+> CONTEXT: Map016/events/18/pages/4/18/Dialogue/kazuya
+What does that mean?#Ron
+> END STRING
+
+> BEGIN STRING
+さっきの悪魔が言っていた。
+
+『人々はこの区画に"立て籠もった"』と…。
+> CONTEXT: Map016/events/18/pages/1/20/Dialogue/yuuma
+> CONTEXT: Map016/events/18/pages/3/20/Dialogue/yuuma
+> CONTEXT: Map016/events/18/pages/4/20/Dialogue/yuuma
+It's like that demon just now said. People
+barricaded themselves in this section.#Ron
+> END STRING
+
+> BEGIN STRING
+おそらく、悪魔たちが機械を操作して突破することを恐れて
+
+各所にあるバッテリーやヒューズを抜いたんだろう。
+> CONTEXT: Map016/events/18/pages/1/24/Dialogue/yuuma
+> CONTEXT: Map016/events/18/pages/2/20/Dialogue/yuuma
+> CONTEXT: Map016/events/18/pages/3/24/Dialogue/yuuma
+> CONTEXT: Map016/events/18/pages/4/24/Dialogue/yuuma
+They were likely afraid that the demons would
+operate the machines and break through. So they
+probably removed the batteries and fuses from
+each location.#Ron
+> END STRING
+
+> BEGIN STRING
+とりあえず、これでドアは全てロックが解除された。
+
+あとは\\C[2]各部屋で個別に電力を回復して、
+シャッターを上げて先に進む必要があるな。
+> CONTEXT: Map016/events/18/pages/1/28/Dialogue/yuuma
+> CONTEXT: Map016/events/18/pages/2/24/Dialogue/yuuma
+> CONTEXT: Map016/events/18/pages/3/28/Dialogue/yuuma
+> CONTEXT: Map016/events/18/pages/4/28/Dialogue/yuuma
+Anyway, all the doors are now unlocked.
+For you to proceed, \\C[2]you'll have to go into
+each room, restore the power, and raise its
+shutter.#Ron
+> END STRING
+
+> BEGIN STRING
+それと気をつけろ………。\\C[2]あのランパスとかいう悪魔。
+
+このフロアにまだ少なからずいるはずだ。
+> CONTEXT: Map016/events/18/pages/1/33/Dialogue/yuuma
+> CONTEXT: Map016/events/18/pages/3/33/Dialogue/yuuma
+> CONTEXT: Map016/events/18/pages/4/33/Dialogue/yuuma
+And be careful... \\C[2]There will likely be a
+considerable number of those Lampas demons on
+this floor.#Ron
+> END STRING
+
+> BEGIN STRING
+………分かった。
+
+じゃあまずは、\\C[2]行けるようになった部屋を探索してみるか。
+> CONTEXT: Map016/events/18/pages/1/37/Dialogue/kazuya
+> CONTEXT: Map016/events/18/pages/2/29/Dialogue/kazuya
+> CONTEXT: Map016/events/18/pages/3/37/Dialogue/kazuya
+> CONTEXT: Map016/events/18/pages/4/37/Dialogue/kazuya
+...Understood. Well first off,\\C[2] why don't
+I try exploring the room I can now get to.#Ron
+> END STRING
+
+> BEGIN STRING
+………？
+
+どうした、\\N[1]
+> CONTEXT: Map016/events/18/pages/3/42/Dialogue/yuuma
+> CONTEXT: Map016/events/18/pages/4/42/Dialogue/yuuma
+.........? What's up, \\N[1]#MTLed
+> END STRING
+
+> BEGIN STRING
+ユウマ。
+
+この部屋はもう今後進むうえで来ない場所か？
+> CONTEXT: Map016/events/18/pages/3/46/Dialogue/kazuya
+> CONTEXT: Map016/events/18/pages/4/46/Dialogue/kazuya
+Yuuma. Is this room no longer a place to move
+forward?#MTLed
+> END STRING
+
+> BEGIN STRING
+この部屋で出来る操作は全てやった。
+
+電源も、通電さえ出来れば自動的に回復していくだろう。
+> CONTEXT: Map016/events/18/pages/3/50/Dialogue/yuuma
+> CONTEXT: Map016/events/18/pages/4/50/Dialogue/yuuma
+I did everything I could in this room.
+The power supply will also recover automatically
+if it can be energized.#MTLed
+> END STRING
+
+> BEGIN STRING
+そうか。
+> CONTEXT: Map016/events/18/pages/3/54/Dialogue/kazuya
+> CONTEXT: Map016/events/18/pages/4/54/Dialogue/kazuya
+Really.#MTLed
+> END STRING
+
+> BEGIN STRING
+！！？
+
+何をしているんだ！\\N[1]！
+> CONTEXT: Map016/events/18/pages/3/68/Dialogue/yuuma
+> CONTEXT: Map016/events/18/pages/4/68/Dialogue/yuuma
+!!? What are you doing! \\N[1]!#MTLed
+> END STRING
+
+> BEGIN STRING
+……………目障りだろ、この忌々しい植物。
+
+ 燃やしてやってるのさ。
+> CONTEXT: Map016/events/18/pages/3/72/Dialogue/kazuya-3
+> CONTEXT: Map016/events/18/pages/4/72/Dialogue/kazuya-3
+............ This is a lonesome plant.
+I'm burning it.#MTLed
+> END STRING
+
+> BEGIN STRING
+や、やめて…………！！
+
+燃やさないで………！
+> CONTEXT: Map016/events/18/pages/3/90/Dialogue/enemy3
+> CONTEXT: Map016/events/18/pages/4/90/Dialogue/enemy3
+And stop ............!!Don't burn .........!#MTLed
+> END STRING
+
+> BEGIN STRING
+……………まだ生きてたのかよ。
+
+しぶといな。
+> CONTEXT: Map016/events/18/pages/3/95/Dialogue/kazuya-3
+> CONTEXT: Map016/events/18/pages/4/95/Dialogue/kazuya-3
+..... still alive? It's tough.#MTLed
+> END STRING
+
+> BEGIN STRING
+その灯火は……
+ニンゲンの魂が、私たちと融合して輝いてるの…！
+\\C[2]だから……燃やしたら………魂も……
+> CONTEXT: Map016/events/18/pages/3/99/Dialogue/enemy3
+> CONTEXT: Map016/events/18/pages/4/99/Dialogue/enemy3
+The light is...The soul of 'human' is fused
+with us and shines ...! \\C[2]So ...... burn up ...
+...... also the soul ...#MTLed
+> END STRING
+
+> BEGIN STRING
+おねがい………私はどうなってもいいから………
+
+火をっ……！火を消して………っ！！！
+> CONTEXT: Map016/events/18/pages/3/103/Dialogue/enemy3
+> CONTEXT: Map016/events/18/pages/4/103/Dialogue/enemy3
+Please ..... because I do not care......
+Let's have a fire ......! Turn the fire off ...
+...!!!#MTLed
+> END STRING
+
+> BEGIN STRING
+…………その『ニンゲン』のなかに、
+
+喜んでいたやつはいたのか？
+> CONTEXT: Map016/events/18/pages/3/108/Dialogue/kazuya
+> CONTEXT: Map016/events/18/pages/4/108/Dialogue/kazuya
+...... in that 'human', Were you the one who was
+delighted?#MTLed
+> END STRING
+
+> BEGIN STRING
+えっ……
+> CONTEXT: Map016/events/18/pages/3/112/Dialogue/enemy3
+> CONTEXT: Map016/events/18/pages/4/112/Dialogue/enemy3
+eh……#MTLed
+> END STRING
+
+> BEGIN STRING
+お前の花粉や蜜に犯される前に
+
+自ら喜んで飛び付いたやつはいたのか？
+> CONTEXT: Map016/events/18/pages/3/114/Dialogue/kazuya
+> CONTEXT: Map016/events/18/pages/4/114/Dialogue/kazuya
+Before being fucked by your pollen or honey
+Were you the one who jumped by yourself?#MTLed
+> END STRING
+
+> BEGIN STRING
+いいや、いなかったはずだ。
+
+ここのやつらは、『生きたい』からこんな所に隠れたんだ。
+> CONTEXT: Map016/events/18/pages/3/118/Dialogue/kazuya
+> CONTEXT: Map016/events/18/pages/4/118/Dialogue/kazuya
+I guess it wasn't there. Those guys here hid in
+such a place from "I want to live".#MTLed
+> END STRING
+
+> BEGIN STRING
+電源を落として、逃げ道を塞いですら
+
+彼らは生き残ろうとしたんだ。
+> CONTEXT: Map016/events/18/pages/3/122/Dialogue/kazuya
+> CONTEXT: Map016/events/18/pages/4/122/Dialogue/kazuya
+Turn off the power and block the escape route
+They tried to survive.#MTLed
+> END STRING
+
+> BEGIN STRING
+だけど………お前たちは彼らを殺した！
+
+自分勝手なお前たちの『灯火』のために……！
+> CONTEXT: Map016/events/18/pages/3/127/Dialogue/kazuya-3
+> CONTEXT: Map016/events/18/pages/4/127/Dialogue/kazuya-3
+But...you killed them! For the self-indulgent
+"lights" ...!#MTLed
+> END STRING
+
+> BEGIN STRING
+万にひとつもない可能性にすがった『人間』の……
+
+その淡い希望すらも、お前たちは奪ったんだ！
+> CONTEXT: Map016/events/18/pages/3/131/Dialogue/kazuya-3
+> CONTEXT: Map016/events/18/pages/4/131/Dialogue/kazuya-3
+... of a 'human' who has a chance to never have
+it. You have taken away even that pale hope!#MTLed
+> END STRING
+
+> BEGIN STRING
+あ………ああ…………
+> CONTEXT: Map016/events/18/pages/3/135/Dialogue/enemy3
+> CONTEXT: Map016/events/18/pages/4/135/Dialogue/enemy3
+Oh...... oh......#MTLed
+> END STRING
+
+> BEGIN STRING
+で、でも………でも…………
+
+私たちはヘカーテさまに、そう創られたもの……！
+> CONTEXT: Map016/events/18/pages/3/137/Dialogue/enemy3
+> CONTEXT: Map016/events/18/pages/4/137/Dialogue/enemy3
+Well, but...but ......... We are Hecate-sama,
+so created ...!#MTLed
+> END STRING
+
+> BEGIN STRING
+自分が相手に決めたニンゲンと………
+
+愛し合って……ひとつに……っ！
+> CONTEXT: Map016/events/18/pages/3/141/Dialogue/enemy3
+> CONTEXT: Map016/events/18/pages/4/141/Dialogue/enemy3
+'Human' that I decided against
+Love each other ...... One thing ......!#MTLed
+> END STRING
+
+> BEGIN STRING
+がっ…！！！
+> CONTEXT: Map016/events/18/pages/3/147/Dialogue/enemy
+> CONTEXT: Map016/events/18/pages/4/147/Dialogue/enemy
+Hm ...!!!#MTLed
+> END STRING
+
+> BEGIN STRING
+………ゴチャゴチャうるさいな。
+> CONTEXT: Map016/events/18/pages/3/162/Dialogue/kazuya-3
+> CONTEXT: Map016/events/18/pages/4/162/Dialogue/kazuya-3
+......... sloppy.#MTLed
+> END STRING
+
+> BEGIN STRING
+さっさとくたばれよ。
+
+化け物め。
+> CONTEXT: Map016/events/18/pages/3/164/Dialogue/kazuya-3
+> CONTEXT: Map016/events/18/pages/4/164/Dialogue/kazuya-3
+Soon I will slap. A monster.#MTLed
+> END STRING
+
+> BEGIN STRING
+人間を殺さないと成り立たない生き方なんて
+
+僕が終わらせてやる………。
+> CONTEXT: Map016/events/18/pages/3/168/Dialogue/kazuya-3
+> CONTEXT: Map016/events/18/pages/4/168/Dialogue/kazuya-3
+A way of life that can not be achieved without
+killing humans. I'll end it .... ...#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[1]！！もうやめろ！！
+
+そいつは、放っておいても消滅する！！
+> CONTEXT: Map016/events/18/pages/3/173/Dialogue/yuuma
+> CONTEXT: Map016/events/18/pages/4/173/Dialogue/yuuma
+\\N[1]!!enough!! It will disappear even if left
+alone!!#MTLed
+> END STRING
+
+> BEGIN STRING
+お前ら悪魔は…………
+消えて………魔界に戻るだけなんだろ………
+『本来いるべき場所』に…………。
+> CONTEXT: Map016/events/18/pages/3/183/Dialogue/kazuya-3
+> CONTEXT: Map016/events/18/pages/4/183/Dialogue/kazuya-3
+You guys demon is ............
+It disappears ......... It is only to return to
+Demon Realm...... In "the place where it should
+be" .........#MTLed
+> END STRING
+
+> BEGIN STRING
+全部………
+
+全部、消してやる………。
+> CONTEXT: Map016/events/18/pages/3/187/Dialogue/kazuya-3
+> CONTEXT: Map016/events/18/pages/4/187/Dialogue/kazuya-3
+All ......... I will erase everything.......#MTLed
+> END STRING
+
+> BEGIN STRING
+人間を殺すような存在が………
+
+『人間のいる世界』に、存在しちゃいけない……。
+> CONTEXT: Map016/events/18/pages/3/191/Dialogue/kazuya-3
+> CONTEXT: Map016/events/18/pages/4/191/Dialogue/kazuya-3
+The existence that kills human beings .........
+Don't exist in "Human realm" ....#MTLed
+> END STRING

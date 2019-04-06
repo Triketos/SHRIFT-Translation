@@ -1,0 +1,277 @@
+﻿> GAIJINIZER PATCH FILE
+> BEGIN STRING
+ヤッホー、ようこそ戦闘シミュレートへ！
+> CONTEXT: Map094/events/1/pages/0/0/Dialogue/other3
+hey, welcome to the battle simulation!#MTLed
+> END STRING
+
+> BEGIN STRING
+始める前の注意事項
+> CONTEXT: Map094/events/1/pages/0/2/Choice/1
+Notes before beginning#MTLed
+> END STRING
+
+> BEGIN STRING
+『丸呑みフィルター』切替
+> CONTEXT: Map094/events/1/pages/0/2/Choice/2
+Switch to "Musuku filter"#MTLed
+> END STRING
+
+> BEGIN STRING
+戦闘を開始する
+> CONTEXT: Map094/events/1/pages/0/2/Choice/3
+Start the battle#MTLed
+> END STRING
+
+> BEGIN STRING
+分かってるとは思うけど、このシミュレートはまだ開発段階。
+
+リリースまでにテストプレイでの難易度調整なんかで
+仕様の修正が入ったりするかもしれん。
+> CONTEXT: Map094/events/1/pages/0/6/Dialogue/other3
+I think I know, but this simulation is still in
+the development stage. Adjustment of difficulty
+in test play by release. The specification may be
+revised.#MTLed
+> END STRING
+
+> BEGIN STRING
+だから、\\C[2]このシミュレートの段階で戦略を切り詰めても
+仕様が変わっちゃう可能性もあるんよ。
+
+お試し感覚でゆるーくプレイする感じでお願いな？
+> CONTEXT: Map094/events/1/pages/0/11/Dialogue/other3
+So,\\C[2] Even if you truncate your strategy at this
+stage of simulation. There is also a possibility
+that the specifications may change.
+Do you feel like playing loose in a sense of
+trial?#MTLed
+> END STRING
+
+> BEGIN STRING
+あと、このパッケージはシミュレート用に変数とかスイッチを
+
+独立した別物として作ってるから、本編と互換性がなくてな…
+> CONTEXT: Map094/events/1/pages/0/16/Dialogue/other3
+Also, this package contains variables and
+switches for simulation. I am making it as a
+separate entity, so I am not compatible with the
+main story ...#MTLed
+> END STRING
+
+> BEGIN STRING
+一応ここでもセーブデータは作れるけど、
+
+\\C[2]絶対に本編フォルダにデータを移動させたりせんでな？
+本編データが滅茶苦茶になる可能性があるけん…
+> CONTEXT: Map094/events/1/pages/0/20/Dialogue/other3
+Even though save data can be created here,
+\\C[2]Never move data to the main folder?
+There is a possibility that the main data will be
+a mess ...#MTLed
+> END STRING
+
+> BEGIN STRING
+それと、シミュレートの戦闘が終わったら
+
+\\C[2]自動的にタイトルに戻るようになっとる。
+> CONTEXT: Map094/events/1/pages/0/25/Dialogue/other3
+And when the simulated battle is over
+\\C[2]It will automatically return to the title.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]これは戦闘に勝とうが負けようが戻るようになってるから
+
+再戦する場合は、またロードか始めからお願いするわ。
+> CONTEXT: Map094/events/1/pages/0/29/Dialogue/other3
+\\C[2]This is because it is supposed to win the battle
+but it will come back. If you want to rematch, I
+will ask you from the beginning again.#MTLed
+> END STRING
+
+> BEGIN STRING
+ていうか、全体を通して
+\\C[2]再戦するのが面倒くさい仕様になってるんよね…
+
+シミュレートを必要以上に連戦して、飽きないように…
+> CONTEXT: Map094/events/1/pages/0/33/Dialogue/other3
+I mean, throughout. \\C[2]It has become a specification
+that is troublesome to rematch ...
+Do not be bored by fighting more than necessary
+to simulate ...#MTLed
+> END STRING
+
+> BEGIN STRING
+不便やとは思うけど、マイルームも含めて
+
+ガッツリやるんは、本編からな？
+> CONTEXT: Map094/events/1/pages/0/38/Dialogue/other3
+I think it's inconvenient, but including my room
+Is it from the main story?#MTLed
+> END STRING
+
+> BEGIN STRING
+あ、あと、今の段階で\\N[1]くんはデフォの名前で
+
+デフォの装備しかしてないから、用意はマップ左側でな。
+> CONTEXT: Map094/events/1/pages/0/42/Dialogue/other3
+Oh, and at the present stage \\N[1]-kun is the
+default name. It is only equipped with the
+default, so preparation is on the left side of
+the map.#MTLed
+> END STRING
+
+> BEGIN STRING
+休憩所と同じ設備も揃ってるし、百鬼ちゃんの品物も
+
+全部無料で提供してもらっとるから。
+> CONTEXT: Map094/events/1/pages/0/46/Dialogue/other3
+The same facilities as the rest area are also
+available, as are the goods from Hyakki-chan.
+I'll get it all for free.#MTLed
+> END STRING
+
+> BEGIN STRING
+んで用意が出来たら、またわしに話しかけてな。
+> CONTEXT: Map094/events/1/pages/0/50/Dialogue/other3
+If you are ready, talk to me again.#MTLed
+> END STRING
+
+> BEGIN STRING
+今回の悪魔には
+丸呑み表現はないけど、
+
+まぁ、フィルターの種類がどんなもんか見とくのもええやろ。
+> CONTEXT: Map094/events/1/pages/0/54/Dialogue/other3
+For this demon. There is no rude expression, but
+Well, what kind of filter is it?#MTLed
+> END STRING
+
+> BEGIN STRING
+丸呑み表現が苦手な人用のフィルターの設定やな。
+どうするん？
+
+現在の設定:\\N[5]
+> CONTEXT: Map094/events/1/pages/0/59/Dialogue/other3
+The setting of the filter for the person who is
+not good at sloppy expression.
+What do you do? Currently set of: \\N[5]#MTLed
+> END STRING
+
+> BEGIN STRING
+それじゃあ、シミュレートを始めてええんかね？
+
+セーブはした？アイテムやカプセル強化も大丈夫？
+> CONTEXT: Map094/events/1/pages/0/92/Dialogue/other3
+Well then, do you start simulating?
+Did you save? Is it okay with items or capsules?#MTLed
+> END STRING
+
+> BEGIN STRING
+"戦闘シミュレーター　【妲己】"
+> CONTEXT: Map094/events/3/pages/0/37/InlineScript/2:1
+"Battle Simulator 【Daiji】"#MTLed
+> END STRING
+
+> BEGIN STRING
+妲己は、\\N[1]の脱出を阻む最後の悪魔だ。
+
+彼女の実力はそんじょそこらのモンじゃないよ。
+> CONTEXT: Map094/events/11/pages/0/0/Dialogue/hyakki
+Daiji is the last demon to stop \\N[1]'s escape.
+Her ability is not that of Mon.#MTLed
+> END STRING
+
+> BEGIN STRING
+今回は通常形態だけだけど、油断しないようにね。
+
+今までの戦闘経験をフルに活かすんだ
+> CONTEXT: Map094/events/11/pages/0/4/Dialogue/hyakki
+This time only the normal form, but be careful
+not to be off guard. I will make full use of my
+previous battle experience#MTLed
+> END STRING
+
+> BEGIN STRING
+各悪魔から入手品（ネタバレ注意）
+> CONTEXT: Map094/events/11/pages/0/10/Choice/2
+Items obtained from each demon (note the spoils)#MTLed
+> END STRING
+
+> BEGIN STRING
+慈悲ルート（マイルーム）
+> CONTEXT: Map094/events/11/pages/0/28/Choice/0
+Mercy route (my room)#MTLed
+> END STRING
+
+> BEGIN STRING
+殺戮ルート
+> CONTEXT: Map094/events/11/pages/0/28/Choice/1
+Killing route#MTLed
+> END STRING
+
+> BEGIN STRING
+主人公の名前を変更しますか？
+
+現在の名前：\\N[1]
+> CONTEXT: Map094/events/7/pages/0/0/Dialogue
+Do you want to change the name of the protagonist?
+Current name: \\N[1]#MTLed
+> END STRING
+
+> BEGIN STRING
+変える
+> CONTEXT: Map094/events/7/pages/0/4/Choice/1
+Change#MTLed
+> END STRING
+
+> BEGIN STRING
+名前を『\\N[1]』に変更しました。
+> CONTEXT: Map094/events/7/pages/0/28/Dialogue
+The name has been changed to "\\N[1]".#MTLed
+> END STRING
+
+> BEGIN STRING
+よっ。
+
+どした？
+> CONTEXT: Map094/events/13/pages/0/0/Dialogue/クッション君
+It depends. What happened?#MTLed
+> END STRING
+
+> BEGIN STRING
+アドバイスが欲しい if(v[34] \>= 1) 
+> CONTEXT: Map094/events/13/pages/0/4/Choice/0
+I want adviceif(v[34] \>= 1)#MTLed
+> END STRING
+
+> BEGIN STRING
+アルラウネ・フォーム　en(s[434])
+> CONTEXT: Map094/events/13/pages/0/6/Choice/1
+alraune formen(s[434])#MTLed
+> END STRING
+
+> BEGIN STRING
+ビースト・フォーム　en(s[435])
+> CONTEXT: Map094/events/13/pages/0/6/Choice/2
+beast formen(s[435])#MTLed
+> END STRING
+
+> BEGIN STRING
+ジェル・フォーム　en(s[436])
+> CONTEXT: Map094/events/13/pages/0/6/Choice/3
+gel formen(s[436])#MTLed
+> END STRING
+
+> BEGIN STRING
+アドバイスが欲しい if(v[33] \>= 1) 
+> CONTEXT: Map094/events/13/pages/0/43/Choice/0
+I want adviceif(v[33] \>= 1)#MTLed
+> END STRING
+
+> BEGIN STRING
+難易度変更
+> CONTEXT: Map094/events/13/pages/0/43/Choice/1
+Change of difficulty#MTLed
+> END STRING

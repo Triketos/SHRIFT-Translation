@@ -1,0 +1,1036 @@
+﻿> GAIJINIZER PATCH FILE
+> BEGIN STRING
+来たか…
+
+待っていたぞ。
+> CONTEXT: Map080/events/5/pages/0/19/Dialogue/enemy4
+Did you come...I was waiting.#MTLed
+> END STRING
+
+> BEGIN STRING
+雑談する en(v[47] \>= 25) 
+> CONTEXT: Map080/events/5/pages/0/31/Choice/0
+Chaten(v[47] \>= 25)#MTLed
+> END STRING
+
+> BEGIN STRING
+搾精（後背位）en(v[47] \>= 25) 
+> CONTEXT: Map080/events/5/pages/0/31/Choice/1
+milking (doggy style)en(v[47] \>= 25)#MTLed
+> END STRING
+
+> BEGIN STRING
+搾精（騎乗位）en(v[47] \>= 50) 
+> CONTEXT: Map080/events/5/pages/0/31/Choice/2
+milking (Cowgirl)en(v[47] \>= 50)#MTLed
+> END STRING
+
+> BEGIN STRING
+搾精（誘惑）en(v[47] \>= 50) 
+> CONTEXT: Map080/events/5/pages/0/31/Choice/3
+milkingen(v[47] \>= 50)#MTLed
+> END STRING
+
+> BEGIN STRING
+【躯】種族：妖魔
+> CONTEXT: Map080/events/5/pages/0/33/ChoiceHelp
+[Mukuro] Tribe: monster#MTLed
+> END STRING
+
+> BEGIN STRING
+いらん。
+
+そんなものをもらっても、使い道がない。
+> CONTEXT: Map080/events/5/pages/0/236/Dialogue/enemy6
+No. Even if you receive such a thing, there is no
+use.#MTLed
+> END STRING
+
+> BEGIN STRING
+もっと女性に送る品には気を遣ったらどうだ？
+
+私はともかく、他で苦労するぞ…？
+> CONTEXT: Map080/events/5/pages/0/240/Dialogue/enemy6
+What if you care about what to send to women
+more? Anyway, I will struggle with others ...?#MTLed
+> END STRING
+
+> BEGIN STRING
+心蝕を消すif(v[47] \>= 100) 
+> CONTEXT: Map080/events/5/pages/0/252/Choice/0
+clear the mind corruptionif(v[47] \>= 100)#MTLed
+> END STRING
+
+> BEGIN STRING
+仕方のないヤツだ……
+
+ほら、来い。
+作り物の胸だが、こんなもので癒やせるならな…。
+> CONTEXT: Map080/events/5/pages/0/263/Dialogue/enemy6
+It can not be helped...You see, come.
+Although it is a chest of making things, if you
+can heal with such things ....#MTLed
+> END STRING
+
+> BEGIN STRING
+"躯の心蝕が治った！！"
+> CONTEXT: Map080/events/5/pages/0/275/InlineScript/1:12
+"躯's mind corruption cured!!"#MTLed
+> END STRING
+
+> BEGIN STRING
+…………何を話す？
+> CONTEXT: Map080/events/5/pages/1/1/Dialogue/enemy4
+............ what do you speak?#MTLed
+> END STRING
+
+> BEGIN STRING
+躯の身体についてen(v[47] \>= 30) 
+> CONTEXT: Map080/events/5/pages/1/5/Choice/0
+About the body of Mukuroen(v[47] \>= 30)#MTLed
+> END STRING
+
+> BEGIN STRING
+『時止めの能力』en(v[47] \>= 40) 
+> CONTEXT: Map080/events/5/pages/1/5/Choice/1
+"The ability of time keeping"en(v[47] \>= 40)#MTLed
+> END STRING
+
+> BEGIN STRING
+双子についてen(v[47] \>= 60) 
+> CONTEXT: Map080/events/5/pages/1/5/Choice/2
+About twinsen(v[47] \>= 60)#MTLed
+> END STRING
+
+> BEGIN STRING
+この身体か……？
+
+ 人間だった頃と差がない程度には勝手よく動くぞ。
+あまり早く動くとカタカタいうのが少し気になるが。
+> CONTEXT: Map080/events/5/pages/1/10/Dialogue/enemy4
+Is this body ...? It works selfishly to the
+extent that it was human. If it moves too fast,
+rattling will be a bit annoying.#MTLed
+> END STRING
+
+> BEGIN STRING
+それに、お前を玩ぶための色々な機能も付いている。
+
+ 慣れてしまえば、とても楽しい身体だ。
+> CONTEXT: Map080/events/5/pages/1/15/Dialogue/enemy4
+Besides, it has various functions to play you.
+Once you get used to it, it is a very enjoyable
+body.#MTLed
+> END STRING
+
+> BEGIN STRING
+も、玩ぶって…
+> CONTEXT: Map080/events/5/pages/1/19/Dialogue/kazuya
+Well, let's play ...#MTLed
+> END STRING
+
+> BEGIN STRING
+………そうだな……不思議だな。
+
+ 生前の私は、こんな事に喜びを感じる性格ではなかった。
+どちらかといえば、内気な感じだった気がする。
+> CONTEXT: Map080/events/5/pages/1/22/Dialogue/enemy6
+......yes...weird. I was not a character who
+felt pleasure in such things. If anything, I feel
+shy.#MTLed
+> END STRING
+
+> BEGIN STRING
+あるいは、身体も弱くて病気がちだったからかもな……
+
+今の私であれば、そんなことを心配する必要もない。
+> CONTEXT: Map080/events/5/pages/1/27/Dialogue/enemy6
+Or maybe your body was weak and you were sick ...
+If I am now, there is no need to worry about
+that.#MTLed
+> END STRING
+
+> BEGIN STRING
+それに、確かにお前を怨むことはないが
+
+ お前に『礼をしたい』という気持ちは、僅かに存在している。
+> CONTEXT: Map080/events/5/pages/1/31/Dialogue/enemy4
+Besides, I certainly do not hate you
+There is a slight feeling that you want to thank
+you.#MTLed
+> END STRING
+
+> BEGIN STRING
+私を奈落の闇から救ってくれたこと……
+
+そして、兄様の『想い』を救ってくれたことに対して……
+> CONTEXT: Map080/events/5/pages/1/35/Dialogue/enemy4
+That saved me from the darkness of abyss ......
+And for saving my brother's "thought" ...#MTLed
+> END STRING
+
+> BEGIN STRING
+最初こそ、お前の魂を吸い取り、心中するために
+憑依したこの人形の身体だったが……
+
+単純にお前の快楽のために使われるのも、悪くない。
+> CONTEXT: Map080/events/5/pages/1/39/Dialogue/enemy4
+First of all, to suck your soul and to be in your
+heart. It was the body of this doll that was envy
+but...It is not bad that it is simply used for
+your pleasure.#MTLed
+> END STRING
+
+> BEGIN STRING
+でも、搾精は強引なままと……
+> CONTEXT: Map080/events/5/pages/1/45/Dialogue/kazuya
+But, milking is forced to remain ...#MTLed
+> END STRING
+
+> BEGIN STRING
+………当たり前だ。
+
+ 私は『呪いの』人形なのだからな。
+> CONTEXT: Map080/events/5/pages/1/47/Dialogue/enemy4
+………No wonder. Because I am a "curse" doll.#MTLed
+> END STRING
+
+> BEGIN STRING
+一度搾精し始めたら、悪霊の私が満足するまで離さない。
+
+そこは覚悟しておけよ、\\N[1]。
+> CONTEXT: Map080/events/5/pages/1/51/Dialogue/enemy4
+Once you've started milking, don't let go of the
+evil spirit until I'm satisfied.
+Get ready there, \\N[1].#MTLed
+> END STRING
+
+> BEGIN STRING
+私は、普通に礼をしたいわけでも、ただの搾精人形でもない。
+
+そこを勘違いしないようにな。
+> CONTEXT: Map080/events/5/pages/1/55/Dialogue/enemy4
+I'm not a normal thank-you, not just a milking
+doll. Don't get me wrong.#MTLed
+> END STRING
+
+> BEGIN STRING
+わ、わかった……
+> CONTEXT: Map080/events/5/pages/1/59/Dialogue/kazuya
+> CONTEXT: Map251/events/10/pages/0/58/Dialogue/other4
+I understand ...#MTLed
+> END STRING
+
+> BEGIN STRING
+『時を止める能力』………
+
+そうか、あれはあの双子の能力だったのか……
+> CONTEXT: Map080/events/5/pages/1/66/Dialogue/enemy6
+"The ability to stop the time" .........
+Oh, that was that twins ability ...#MTLed
+> END STRING
+
+> BEGIN STRING
+私はまんまと、奴らの手のひらで踊っていたのだな…
+
+まさしく人形らしい………
+> CONTEXT: Map080/events/5/pages/1/70/Dialogue/enemy6
+I was dancing in the palm of their hands ...
+Just like a doll .........#MTLed
+> END STRING
+
+> BEGIN STRING
+……躯が、自分の『時を止める能力』に気付いたのは
+
+ いつ頃のタイミングだったの？
+> CONTEXT: Map080/events/5/pages/1/76/Dialogue/kazuya
+...... Mukuro notices his "ability to stop time"
+When was it time?#MTLed
+> END STRING
+
+> BEGIN STRING
+悪霊として、あの奈落から解き放たれたときからだ。
+
+あの時点で、私にとって『時間』が
+意味をなしていないことに気づいた。
+> CONTEXT: Map080/events/5/pages/1/80/Dialogue/enemy4
+As an evil spirit, since it was released from
+that abyss. At that time, "time" is for me
+I realized that I didn't make sense.#MTLed
+> END STRING
+
+> BEGIN STRING
+実体を持っていないときはそうは感じなかったが
+
+ いざ人形の身体で時を止めると、思うように動けなくてな。
+> CONTEXT: Map080/events/5/pages/1/85/Dialogue/enemy4
+I did not feel that when I did not have an entity
+When you stop the time with the body of the
+emergency doll, you can not move as you think.#MTLed
+> END STRING
+
+> BEGIN STRING
+ちょうど、お前と対面したあの戦いが初挑戦だった。
+
+案の定、見事に外して、逃げられてしまったな。
+> CONTEXT: Map080/events/5/pages/1/89/Dialogue/enemy4
+That was the first challenge that you met with
+you. Sure enough, I took it off and ran away.#MTLed
+> END STRING
+
+> BEGIN STRING
+一度に止めていられるのは数分程度だったのだが
+
+ お前を拘束するので手一杯で、搾精を最後まで行うのは
+事前動作で服も乱れるし、なかなか難しかった……。
+> CONTEXT: Map080/events/5/pages/1/93/Dialogue/enemy4
+It was only a few minutes to stop at once
+Because you bound you, it's full of hands, it's
+all about milking to finish. The clothes were
+also disturbed by the advance operation, and it
+was quite difficult ....#MTLed
+> END STRING
+
+> BEGIN STRING
+それに、あの能力は集中力がいる。
+あまり連続しての使用はできない。
+
+以外に弱点だらけの能力だったのかもな…
+> CONTEXT: Map080/events/5/pages/1/98/Dialogue/enemy4
+Besides, that ability has concentration.
+It can not be used continuously.
+It may be the ability full of weak points besides
+...#MTLed
+> END STRING
+
+> BEGIN STRING
+いやぁ……それでもなかなかの驚異だったよ……
+
+あれでもし君が使いこなしていたらと思うと尚更……
+> CONTEXT: Map080/events/5/pages/1/103/Dialogue/kazuya
+No......... but it was quite a wonder ...
+But if you think that you are good at using it,
+it will be even more ...#MTLed
+> END STRING
+
+> BEGIN STRING
+………私は、あの『時を止める能力』は
+
+自分の『業』が生んだものだと思っていた。
+だから、あまり疑問には思わなかった。
+> CONTEXT: Map080/events/5/pages/1/108/Dialogue/enemy6
+......I have that "ability to stop time"
+I thought that my "work" was born.
+So I didn't think too much about it.#MTLed
+> END STRING
+
+> BEGIN STRING
+奈落に落ちている間……
+
+延々と、恐怖や虚無、冷たさや孤独に襲われて、
+ 時間の流れなど気にしている余裕はなかった。
+> CONTEXT: Map080/events/5/pages/1/113/Dialogue/enemy6
+While falling to abyss...Endlessly attacked by
+Afraid, null, cold and lonely,
+I could not afford to worry about the flow of
+time.#MTLed
+> END STRING
+
+> BEGIN STRING
+『時間が止まってしまえば楽になれるのに』……
+
+最後辺りは、私もそんなことばかりを考えていたからな。
+> CONTEXT: Map080/events/5/pages/1/118/Dialogue/enemy6
+"If time stops, it can be easier" ...
+The last part is because I was thinking about
+just that.#MTLed
+> END STRING
+
+> BEGIN STRING
+………だけど実際は、そんなに良いものでもなかったよ。
+
+ 周りの時間が止まっても、結局虚無や孤独は襲ってくる。
+ 『自分の時間』は止まらないんだからな。
+> CONTEXT: Map080/events/5/pages/1/122/Dialogue/enemy4
+... but actually it wasn't too good.
+Even if the time around has stopped, in the end
+nullity and loneliness will attack.
+I can not stop my time.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[1]を犯すという目標がなければ、
+
+きっとあの空間を動くことすら嫌だったろう。
+> CONTEXT: Map080/events/5/pages/1/127/Dialogue/enemy4
+Without the goal of committing \\N[1],
+Surely I would not like to move that space.#MTLed
+> END STRING
+
+> BEGIN STRING
+まぁ……今となっては双子から解放されて、あの能力もない。
+
+もともと、私には無用の産物だったのさ。
+> CONTEXT: Map080/events/5/pages/1/131/Dialogue/enemy6
+Well...now I'm released from twins and I don't
+have that ability. Originally, it was a useless
+product to me.#MTLed
+> END STRING
+
+> BEGIN STRING
+結博士が作ったその人形があったからこうなってるけど…
+
+もし憑依するものがなかったらどうするつもりだったの？
+> CONTEXT: Map080/events/5/pages/1/140/Dialogue/kazuya
+This is because there was the doll that Dr.
+Kurosawa. Made...What were you going to do if
+there weren't anything to do?#MTLed
+> END STRING
+
+> BEGIN STRING
+悪霊らしく、地道に呪い殺していただろうな。
+
+だが、\\N[1]は魔力に耐性を持つからダメだ。
+> CONTEXT: Map080/events/5/pages/1/144/Dialogue/enemy6
+You're a demon and you've been cursed and killed.
+However, \\N[1] is useless because he resists
+magic.#MTLed
+> END STRING
+
+> BEGIN STRING
+もっと、魔力に耐性のない…感情に流されやすい…
+
+呪い殺しやすい対象でなければ。
+> CONTEXT: Map080/events/5/pages/1/148/Dialogue/enemy6
+More resistant to magic...easy to be swept away
+by emotion...If it is not an object easy to
+curse.#MTLed
+> END STRING
+
+> BEGIN STRING
+…………？あれ、それだと変だな。
+
+あの双子は、僕を始末するために君を解き放ったと言った。
+> CONTEXT: Map080/events/5/pages/1/153/Dialogue/kazuya
+......? Well, that's weird. That twins said that
+he had released you to kill me.#MTLed
+> END STRING
+
+> BEGIN STRING
+博士が偶然あの人形を作っていなければ
+
+僕を襲うことができなかっただろうに……
+> CONTEXT: Map080/events/5/pages/1/157/Dialogue/kazuya
+If the doctor did not make that doll by chance
+I could not attack me ...#MTLed
+> END STRING
+
+> BEGIN STRING
+私の予測だが……
+
+そこまで時間を越えた計画を立てた奴らなら
+事前にこの時代の状況も知れたのではないか？
+> CONTEXT: Map080/events/5/pages/1/162/Dialogue/enemy4
+It is my prediction ...... If they made plans
+beyond time to that. Did not you know the
+situation of this era in advance?#MTLed
+> END STRING
+
+> BEGIN STRING
+あの服装だから、私の村の連中も騙されたが…
+
+実際に奴らがいつの時代の悪魔かは、知る由もない。
+> CONTEXT: Map080/events/5/pages/1/167/Dialogue/enemy4
+Because of that dress, the people in my village
+were also deceived...In fact, there is no way
+to know when they were a demon.#MTLed
+> END STRING
+
+> BEGIN STRING
+物言いも謎だったしね……
+
+『我』がどうとか……
+> CONTEXT: Map080/events/5/pages/1/171/Dialogue/kazuya
+The story was a mystery too ...
+"I" is how .........#MTLed
+> END STRING
+
+> BEGIN STRING
+俺も、使い魔人生は結構長い方だが
+
+ あんな邪悪な悪魔は見たことがねぇな。
+> CONTEXT: Map080/events/5/pages/1/177/Dialogue/other2
+I too, the familiar life is quite long
+I have never seen such a wicked demon.#MTLed
+> END STRING
+
+> BEGIN STRING
+ヘカーテやニーナみたいに、魔王級の魔力なら珍しくないが…
+
+なんていうか…本当に『邪悪』だった。
+> CONTEXT: Map080/events/5/pages/1/181/Dialogue/other2
+Like Hecate and Nina, it's not unusual for
+demonic magic to do so...I mean...it was
+really "evil".#MTLed
+> END STRING
+
+> BEGIN STRING
+正体を現した姿は、からくり人形っぽかったが…
+
+ あれを作ったやつがいるなら、相当ヤバイやつだな。
+> CONTEXT: Map080/events/5/pages/1/185/Dialogue/other2
+The appearance of a true character was like a
+puppet but...If there is a guy who made that,
+it's quite a bad guy.#MTLed
+> END STRING
+
+> BEGIN STRING
+………博士も災難だな。
+
+ 彼女も双子に踊らされた被害者だったわけだ。
+> CONTEXT: Map080/events/5/pages/1/189/Dialogue/kazuya
+.... Dr. is also a disaster. She was also a
+victim of twins dancing.#MTLed
+> END STRING
+
+> BEGIN STRING
+急に自分の人形が動き出したんだもんな…
+
+慌てて僕を指名するのも、仕組まれてたわけか……
+> CONTEXT: Map080/events/5/pages/1/193/Dialogue/kazuya
+Suddenly my doll started moving ...
+It wasn't for sure that I was nominated to
+nominate me ...#MTLed
+> END STRING
+
+> BEGIN STRING
+…………？
+
+ 慌てていたのか？あれは。
+> CONTEXT: Map080/events/5/pages/1/198/Dialogue/enemy4
+......? Were you angry? That is.#MTLed
+> END STRING
+
+> BEGIN STRING
+確かに脅してお前のことを聞き出したのは事実だが…
+
+動き出した私を見て、あいつは喜んでるように見えたが。
+> CONTEXT: Map080/events/5/pages/1/203/Dialogue/enemy4
+It is a fact that I have threatened you to find
+out about you...Looking at me who started
+moving, it seemed that he was pleased.#MTLed
+> END STRING
+
+> BEGIN STRING
+『自立型やー！』とか……
+『ガッポガッポやー！』とか…
+
+そんなことを言っていた気がするぞ。
+> CONTEXT: Map080/events/5/pages/1/207/Dialogue/enemy4
+"Freestanding! "And……. "Gappo gapo! "And…
+I feel like I was saying that.#MTLed
+> END STRING
+
+> BEGIN STRING
+あの天狗野郎…………！！
+> CONTEXT: Map080/events/5/pages/1/213/Dialogue/kazuya-a
+That heavenly bastard ............! !#MTLed
+> END STRING
+
+> BEGIN STRING
+【キズナイベント】if(v[47] \>= 99) 
+> CONTEXT: Map080/events/5/pages/1/219/Choice/0
+【Bonding】if(v[47] \>= 99)#MTLed
+> END STRING
+
+> BEGIN STRING
+やっほー！！
+
+元気しとるかぁ、若者よぉ
+> CONTEXT: Map080/events/5/pages/1/229/Dialogue/other3
+Yah!!I'm fine, young people#MTLed
+> END STRING
+
+> BEGIN STRING
+は、博士！？
+
+どうしてここに？
+> CONTEXT: Map080/events/5/pages/1/236/Dialogue/kazuya
+Is a doctor! ? Why are you here?#MTLed
+> END STRING
+
+> BEGIN STRING
+どうしてって、人形のメンテナンスに来たんよ。
+
+ここは精神の空間やけど
+その悪魔の身体だけは人形ベースやからなぁ。
+> CONTEXT: Map080/events/5/pages/1/240/Dialogue/other3
+Why did you come to doll maintenance?
+Here's a mental burn. Only the body of the demon
+is a doll base or something.#MTLed
+> END STRING
+
+> BEGIN STRING
+ちゅーわけで、ちょっと身体の中身、覗かせてもらうで。
+
+ほんの１時間くらいや、大丈夫大丈夫。
+> CONTEXT: Map080/events/5/pages/1/247/Dialogue/other3
+I'm going to give you a glimpse of the contents
+of my body. Only about an hour, all right okay.#MTLed
+> END STRING
+
+> BEGIN STRING
+………わかった。
+> CONTEXT: Map080/events/5/pages/1/252/Dialogue/enemy6
+………all right.#MTLed
+> END STRING
+
+> BEGIN STRING
+あー…やっぱり駆動部分がめっちゃ負荷かかっとるなぁ…
+
+時間停止の中を移動したってのもあるんやろうけど……
+> CONTEXT: Map080/events/5/pages/1/257/Dialogue/other3
+Uh...After all the driving part takes a lot of
+load...I'm going to move in the time stop but I
+will ...#MTLed
+> END STRING
+
+> BEGIN STRING
+やっぱ未完成だったのに動き出したのあかんかったよなぁ…
+
+ここの塗装とか色あせとるし…
+> CONTEXT: Map080/events/5/pages/1/261/Dialogue/other3
+After all it was unfinished but it was funny that
+it started to move...Painting or fading here
+...#MTLed
+> END STRING
+
+> BEGIN STRING
+と、とりあえず、今回はヤバそうな部分だけ……
+> CONTEXT: Map080/events/5/pages/1/268/Dialogue/other3
+Well, for now, this time only the part that seems
+to be idiot ...#MTLed
+> END STRING
+
+> BEGIN STRING
+よし！！できた！！
+
+これでピッッカピカじゃ！！
+> CONTEXT: Map080/events/5/pages/1/277/Dialogue/other3
+Good!!did it!!Now it's picky! !#MTLed
+> END STRING
+
+> BEGIN STRING
+今までの身体と動き心地が全然違うじゃろ！！
+
+躯とやら！！
+> CONTEXT: Map080/events/5/pages/1/281/Dialogue/other3
+Your physical and motion comfort is completely
+different!!Mukuro Toya! !#MTLed
+> END STRING
+
+> BEGIN STRING
+あ、あれ………？？
+
+動かない……？
+> CONTEXT: Map080/events/5/pages/1/294/Dialogue/other3
+Oh yeah .........? ? It does not move ...?#MTLed
+> END STRING
+
+> BEGIN STRING
+な、なんやその目！！違うって！！
+
+部品とかは交換したけど、そういう除霊的なものは
+一切しとらんぞ！！？
+> CONTEXT: Map080/events/5/pages/1/300/Dialogue/other3
+What, that eye!!No!!I replaced parts and
+components, but such spiritual ones
+Let's do it!!?#MTLed
+> END STRING
+
+> BEGIN STRING
+ね、寝てるだけ！！！
+
+そう、多分寝てるだけじゃから！！
+もう少ししたら起きるって！！
+> CONTEXT: Map080/events/5/pages/1/307/Dialogue/other3
+Hey, just sleeping!!! Yes, maybe I'm just
+sleeping!!I will wake up a little more! !#MTLed
+> END STRING
+
+> BEGIN STRING
+そ、そういうわけだからっ！！
+
+じゃあの！！！
+> CONTEXT: Map080/events/5/pages/1/312/Dialogue/other3
+Well, that's why!!Well then!!!#MTLed
+> END STRING
+
+> BEGIN STRING
+結博士は、逃げるようにそそくさと去っていった……
+> CONTEXT: Map080/events/5/pages/1/324/Dialogue
+Dr. Kurosawa. Went away as fast as he could ...#MTLed
+> END STRING
+
+> BEGIN STRING
+……………躯？
+> CONTEXT: Map080/events/5/pages/1/329/Dialogue/kazuya
+......... Mukuro?#MTLed
+> END STRING
+
+> BEGIN STRING
+そうだよな……
+
+君がここに来た目的は、僕に覚えて貰うことだったもんな…
+> CONTEXT: Map080/events/5/pages/1/337/Dialogue/kazuya-a
+that's true……. The purpose you came here was to
+remember and ask me ...#MTLed
+> END STRING
+
+> BEGIN STRING
+君が無事に……成仏出来たならよかった……
+> CONTEXT: Map080/events/5/pages/1/341/Dialogue/kazuya-a
+You're safe....I wish I could have a mature
+Buddha ...#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[1]は、躯の身体を抱きしめた……
+> CONTEXT: Map080/events/5/pages/1/344/Dialogue
+\\N[1] Embrace the body of Mukuro ...#MTLed
+> END STRING
+
+> BEGIN STRING
+……………茜………
+> CONTEXT: Map080/events/5/pages/1/346/Dialogue/kazuya-a
+...... Akane .........#MTLed
+> END STRING
+
+> BEGIN STRING
+何故泣く。\\N[1]。
+> CONTEXT: Map080/events/5/pages/1/352/Dialogue/enemy4
+Why cry. \\N[1].#MTLed
+> END STRING
+
+> BEGIN STRING
+気を失いそうになった直前に、
+
+彼女はぱっと僕を離して、僕は地面に倒れ込んだ。
+> CONTEXT: Map080/events/5/pages/1/375/Dialogue
+Just before I lost my mind, She took me away and I fell to
+the ground.#MTLed
+> END STRING
+
+> BEGIN STRING
+彼女は僕の傍らに座り込んで、話を続ける…
+> CONTEXT: Map080/events/5/pages/1/379/Dialogue
+She sits down beside me and continues talking ...#MTLed
+> END STRING
+
+> BEGIN STRING
+…………ひとつ、約束して欲しい、\\N[1]。
+
+今後私のことを、『茜』と呼ぶな。
+> CONTEXT: Map080/events/5/pages/1/381/Dialogue/enemy4
+............ One, I want you to promise, \\N[1].
+Don't call me "Akane" in the future.#MTLed
+> END STRING
+
+> BEGIN STRING
+『茜』は死んだ。大昔に。
+
+そしてお前に覚えられて、成仏した。
+> CONTEXT: Map080/events/5/pages/1/385/Dialogue/enemy4
+"Akane" is dead. A long time ago.
+And I remembered you and I was born.#MTLed
+> END STRING
+
+> BEGIN STRING
+今、お前と一緒に居るのは…
+
+『躯』という、人形に取り憑いた悪霊だ。
+> CONTEXT: Map080/events/5/pages/1/389/Dialogue/enemy4
+Being with you now...It's an evil spirit called
+"Mukuro", who handles a doll.#MTLed
+> END STRING
+
+> BEGIN STRING
+それ以上でも、それ以下でもない……
+
+お前を搾り取るだけの、悪魔人形だ…
+> CONTEXT: Map080/events/5/pages/1/393/Dialogue/enemy4
+More even no less……. It is a demon doll that only
+squeezes you ...#MTLed
+> END STRING
+
+> BEGIN STRING
+だから、私がここに来た理由とか…
+
+私の生前の過去とか、すべてを忘れてくれ。
+> CONTEXT: Map080/events/5/pages/1/397/Dialogue/enemy4
+So why I came here...Forget about my lifetime
+past and everything.#MTLed
+> END STRING
+
+> BEGIN STRING
+…ただただ、ここに居させ続けてくれ…。
+> CONTEXT: Map080/events/5/pages/1/401/Dialogue/enemy6
+... only, keep me here ....#MTLed
+> END STRING
+
+> BEGIN STRING
+わ、分かったけど……
+
+ぼ、僕も不意打ちは今回限りにして欲しいな……
+> CONTEXT: Map080/events/5/pages/1/403/Dialogue/kazuya-2
+I understand, but...I also want me to make
+surprises only this time ...#MTLed
+> END STRING
+
+> BEGIN STRING
+た、立てない……
+> CONTEXT: Map080/events/5/pages/1/407/Dialogue/kazuya-2
+I can not stand ...#MTLed
+> END STRING
+
+> BEGIN STRING
+躯との『キズナ』が生まれた！！
+
+友好度が『１００』になった！！
+> CONTEXT: Map080/events/5/pages/1/413/Dialogue
+"Kizuna" with Mukuro was born!!The degree of friendship
+has reached "100"! !#MTLed
+> END STRING
+
+> BEGIN STRING
+……………………………………馬鹿なのか？
+> CONTEXT: Map080/events/5/pages/2/3/Dialogue/enemy4
+............................ Is that stupid?#MTLed
+> END STRING
+
+> BEGIN STRING
+『馬鹿』って言われちゃった………
+> CONTEXT: Map080/events/5/pages/2/5/Dialogue/kazuya
+"Idiot" has been said......#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[1]、もうすこし冷静になれ。
+
+ 私は悪魔である以前に、『人形』。
+ 有るのは搾精機能だけで、家事や世話は全くできない。
+> CONTEXT: Map080/events/5/pages/2/7/Dialogue/enemy4
+\\N[1], let's stay calm a little more.
+Before I was a demon, "doll". There is only the
+milking function, which can not do housework or
+care at all.#MTLed
+> END STRING
+
+> BEGIN STRING
+そんな人形と、永遠の誓いを立てたいと言うのか…？
+
+ 悪いが、正気を疑うぞ。
+> CONTEXT: Map080/events/5/pages/2/12/Dialogue/enemy4
+Do you say that you want to make an eternal oath
+with such a doll ...? It's bad, but I doubt my
+sanity.#MTLed
+> END STRING
+
+> BEGIN STRING
+た、確かに君の『身体』はそうだろうけど……
+
+僕が告白してるのは、『躯』に対してだよ。
+> CONTEXT: Map080/events/5/pages/2/17/Dialogue/kazuya
+Well, certainly your "body" will be so ...
+What I confess to is for Mukuro.#MTLed
+> END STRING
+
+> BEGIN STRING
+そりゃあ、初対面だってあんな出会いだったし
+
+今の君も、もしかしたら安らかに眠るために
+僕に付き合ってくれているだけなのかもしれない…。
+> CONTEXT: Map080/events/5/pages/2/21/Dialogue/kazuya
+Well, it was an encounter like that for the first
+time. In order to sleep peacefully, maybe you
+It may be just me dating ....#MTLed
+> END STRING
+
+> BEGIN STRING
+でも、僕は本気だ。
+
+ 君とこの先もずっと一緒に居たいって思うし
+気の迷いでないからこそ、『これ』を持ってきたんだ。
+> CONTEXT: Map080/events/5/pages/2/28/Dialogue/kazuya
+But I am serious. I want to be with you forever
+I brought "this" only because I was not lost.#MTLed
+> END STRING
+
+> BEGIN STRING
+もちろん、君の魅力に『身体』は関係ない……
+なんて綺麗事を言うつもりはない。
+
+全てひっくるめて、君が大好きなんだ。
+> CONTEXT: Map080/events/5/pages/2/33/Dialogue/kazuya
+Of course, "Body" does not matter to your
+attraction...I am not going to say anything
+beautiful. It's all wrapped up, I love you.#MTLed
+> END STRING
+
+> BEGIN STRING
+………それでも、ダメかな？
+> CONTEXT: Map080/events/5/pages/2/38/Dialogue/kazuya
+...... Still, is it useless?#MTLed
+> END STRING
+
+> BEGIN STRING
+……………………ダメとは言って、いない……
+
+ただ、ちゃんとした理由を聞きたかっただけだ。
+> CONTEXT: Map080/events/5/pages/2/42/Dialogue/enemy6
+.................. I say no, I do not ......
+I just wanted to hear a good reason.#MTLed
+> END STRING
+
+> BEGIN STRING
+分かった………受けよう。
+
+ 私の魂は、たった今より、\\N[1]の伴侶だ……。
+> CONTEXT: Map080/events/5/pages/2/47/Dialogue/enemy6
+Okay...I will receive it. My soul is \\N[1]'s
+partner more than now ....#MTLed
+> END STRING
+
+> BEGIN STRING
+………………機能面については、努力する。
+
+ 博士ともじっくり相談しなくてはな………
+> CONTEXT: Map080/events/5/pages/2/51/Dialogue/enemy4
+.......... I will make an effort in functional
+aspect. You have to consult with Dr.#MTLed
+> END STRING
+
+> BEGIN STRING
+エンゲージリングを受け取ってもらったことで
+
+\\C[2]躯と婚約した！
+> CONTEXT: Map080/events/5/pages/2/61/Dialogue
+By receiving the engagement ring. \\C[2]Engaged with Mukuro!#MTLed
+> END STRING
+
+> BEGIN STRING
+親密度が２５以上必要。
+（現在の値：\\V[47]）
+> CONTEXT: Map080/events/4/pages/0/0/Dialogue
+25 or more intimacy is required. (Current value: \\V[47] )#MTLed
+> END STRING
+
+> BEGIN STRING
+親密度が５０以上必要。
+（現在の値：\\V[47]）
+> CONTEXT: Map080/events/6/pages/0/0/Dialogue
+50 or more intimacy is required. (Current value: \\V[47] )#MTLed
+> END STRING
+
+> BEGIN STRING
+親密度が１００必要。
+（現在の値：\\V[47]）
+> CONTEXT: Map080/events/3/pages/0/18/Dialogue
+100 intimacy required. (Current value: \\V[47] )#MTLed
+> END STRING
+
+> BEGIN STRING
+！？
+
+あかっ……む、躯！？なんでここに！？
+> CONTEXT: Map080/events/7/pages/0/2/Dialogue/kazuya
+! ? Hmmm...Mumu! ? Why is it here! ?#MTLed
+> END STRING
+
+> BEGIN STRING
+……ほぅら、やっぱりなぁ
+> CONTEXT: Map080/events/7/pages/0/6/Dialogue/other2
+...... Hmm, after all#MTLed
+> END STRING
+
+> BEGIN STRING
+…………あれから色々考えた。
+
+ 気持ちも落ち着いて、成仏しようとも考えた。
+> CONTEXT: Map080/events/7/pages/0/9/Dialogue/enemy6
+...... I thought about it from that point on.
+I felt calm and I thought that I would like to
+see the Buddha.#MTLed
+> END STRING
+
+> BEGIN STRING
+だがふと気づいたんだ。
+
+ 私には、まだ『未練』があると……。
+> CONTEXT: Map080/events/7/pages/0/13/Dialogue/enemy4
+But I noticed. If I still have "raw" ....#MTLed
+> END STRING
+
+> BEGIN STRING
+み、『未練』？
+
+いったいどんな…？
+> CONTEXT: Map080/events/7/pages/0/17/Dialogue/kazuya
+Mi, "unfinished"? What the hell ...?#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[1]、親しい者に看取られ逝く者が
+
+安らかに成仏する理由を知っているか？
+> CONTEXT: Map080/events/7/pages/0/21/Dialogue/enemy4
+\\N[1], a person who is seen and heard by a close
+person. Do You Know The Reasons To Peacefully?#MTLed
+> END STRING
+
+> BEGIN STRING
+それは自分の生きた証が『遺る』からだ。
+
+ 自分が死んでも、誰かの記憶に自分は永らく居続けると
+安心できるからだ。
+> CONTEXT: Map080/events/7/pages/0/25/Dialogue/enemy4
+It is because one's own living testimony
+"leaves". Even if you are dead, if you keep
+staying in someone's memory for a long time
+You can rest assured.#MTLed
+> END STRING
+
+> BEGIN STRING
+私は………\\N[1]。
+
+お前に覚えていてもらいたい。
+> CONTEXT: Map080/events/7/pages/0/30/Dialogue/enemy4
+I am ......... \\N[1]. I want you to remember.#MTLed
+> END STRING
+
+> BEGIN STRING
+もっともっと…記憶に残るように……
+
+お前と触れ合いたいんだ…
+> CONTEXT: Map080/events/7/pages/0/34/Dialogue/enemy4
+More more...to remember...
+I want to touch you ...#MTLed
+> END STRING
+
+> BEGIN STRING
+…………よかったな、\\N[1]。
+
+きっと、強烈に印象付けるまで離してもらえないぞ…
+> CONTEXT: Map080/events/7/pages/0/39/Dialogue/other2
+............ Good, \\N[1]. Surely, I can not let
+you get away until I make a strong impression ...#MTLed
+> END STRING
+
+> BEGIN STRING
+…………………
+
+ちょっと複雑な気分………
+> CONTEXT: Map080/events/7/pages/0/43/Dialogue/kazuya
+...................... Feeling a little
+complicated .........#MTLed
+> END STRING

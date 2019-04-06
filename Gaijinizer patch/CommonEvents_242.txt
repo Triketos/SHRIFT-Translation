@@ -1,0 +1,55 @@
+﻿> GAIJINIZER PATCH FILE
+> BEGIN STRING
+おやぁ？\\N[1]くん！
+
+さっき飲んだのは何かなぁ？
+> CONTEXT: CommonEvents_242/12/Dialogue/enemy6
+Oh?\\N[1]-kun! What did you drink earlier?#MTLed
+> END STRING
+
+> BEGIN STRING
+？？？
+
+な、何って…ドリンクだけど……
+> CONTEXT: CommonEvents_242/16/Dialogue/kazuya
+??? Nah, what's...it's a drink ...#MTLed
+> END STRING
+
+> BEGIN STRING
+\\}………それ、この番組のスポンサーの商品なんだ…
+
+だからさ…ほら………
+> CONTEXT: CommonEvents_242/20/Dialogue/enemy6
+\\}......... That's the product sponsor of this show ...
+That's why...here......#MTLed
+> END STRING
+
+> BEGIN STRING
+…………『宣伝しろ』って事なんじゃねぇの…？
+> CONTEXT: CommonEvents_242/30/Dialogue/other2
+............ What's "Promotion" ...?#MTLed
+> END STRING
+
+> BEGIN STRING
+ぼ、僕の生き残るための秘訣！
+滋養強壮、栄養補給の栄養ドリンク！
+\\C[2]『\\I[765]アストロンΣ』！
+\\C[0]お求めはお近くのコンビニ・薬局で！
+> CONTEXT: CommonEvents_242/38/Dialogue/kazuya-a
+> CONTEXT: Troops/59/pages/0/8/Dialogue/kazuya-a
+Bo, my key to survival! Nourishing, nourishing
+Energy Drink! \\C[2]" \\I[765] Astron 』"!
+\\C[0]Shop at a convenience store or pharmacy near you!#MTLed
+> END STRING
+
+> BEGIN STRING
+みんなよろしくねー！
+> CONTEXT: CommonEvents_242/58/Dialogue/other3
+Nice to meet you all!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\{\\{お前の商品かいっ！！！
+> CONTEXT: CommonEvents_242/60/Dialogue/kazuya
+\\{\\{Your product!!!#MTLed
+> END STRING

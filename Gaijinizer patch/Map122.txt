@@ -1,0 +1,1275 @@
+﻿> GAIJINIZER PATCH FILE
+> BEGIN STRING
+ふん、\\N[1]か……
+
+なんの用だい？
+> CONTEXT: Map122/events/5/pages/0/19/Dialogue/enemy14
+Hm, \\N[1] or...What is it for?#MTLed
+> END STRING
+
+> BEGIN STRING
+……………何見てるんだよ。
+
+用があるなら早く言いな
+> CONTEXT: Map122/events/5/pages/0/25/Dialogue/enemy14
+...... What are you looking at?
+If there is a need to say quickly#MTLed
+> END STRING
+
+> BEGIN STRING
+雑談する en(v[52] \>= 25) 
+> CONTEXT: Map122/events/5/pages/0/33/Choice/0
+Chaten(v[52] \>= 25)#MTLed
+> END STRING
+
+> BEGIN STRING
+搾精（抱き締め）en(v[52] \>= 25) 
+> CONTEXT: Map122/events/5/pages/0/33/Choice/1
+milking (Hug tightened)en(v[52] \>= 25)#MTLed
+> END STRING
+
+> BEGIN STRING
+搾精（蛇体巻き）en(v[52] \>= 50) 
+> CONTEXT: Map122/events/5/pages/0/33/Choice/2
+milking (snake body winding)en(v[52] \>= 50)#MTLed
+> END STRING
+
+> BEGIN STRING
+【ティタノボア】種族：魔獣
+> CONTEXT: Map122/events/5/pages/0/35/ChoiceHelp
+[Titanoboa] Race: Beast#MTLed
+> END STRING
+
+> BEGIN STRING
+……………
+
+なんだいこりゃあ…いらないよ。
+贈り物なら、せめて喰えるモノにしてくれよね。
+> CONTEXT: Map122/events/5/pages/0/187/Dialogue/enemy14
+................ What's wrong...I don't need
+it. If it's a gift, please make it at least
+something that makes you happy.#MTLed
+> END STRING
+
+> BEGIN STRING
+心蝕を消すif(v[52] \>= 100) 
+> CONTEXT: Map122/events/5/pages/0/200/Choice/0
+clear the mind corruptionif(v[52] \>= 100)#MTLed
+> END STRING
+
+> BEGIN STRING
+フフフ……いいさ、たまにはね。
+
+遊んでやるよ…\\N[1]♡
+> CONTEXT: Map122/events/5/pages/0/211/Dialogue/enemy14
+Hihihi...Good, sometimes. I will play ...
+\\N[1] ♡#MTLed
+> END STRING
+
+> BEGIN STRING
+"ティタノボアの心蝕が治った！！"
+> CONTEXT: Map122/events/5/pages/0/222/InlineScript/1:12
+"ティタノボア's mind corruption cured!!"#MTLed
+> END STRING
+
+> BEGIN STRING
+私は話をするって柄でもないけど……
+
+まぁいいさ、好きにしな。
+> CONTEXT: Map122/events/5/pages/1/1/Dialogue/enemy14
+I'm not really talking about it, but ...
+very well, I like it.#MTLed
+> END STRING
+
+> BEGIN STRING
+『ラミアー』en(v[52] \>= 30) 
+> CONTEXT: Map122/events/5/pages/1/7/Choice/0
+"Lamia"en(v[52] \>= 30)#MTLed
+> END STRING
+
+> BEGIN STRING
+生物兵器になる経緯en(v[52] \>= 40) 
+> CONTEXT: Map122/events/5/pages/1/7/Choice/1
+Process of becoming a biological weaponen(v[52] \>= 40)#MTLed
+> END STRING
+
+> BEGIN STRING
+蛇体についてen(v[52] \>= 60) 
+> CONTEXT: Map122/events/5/pages/1/7/Choice/2
+About snake bodyen(v[52] \>= 60)#MTLed
+> END STRING
+
+> BEGIN STRING
+え、えっと……
+> CONTEXT: Map122/events/5/pages/1/12/Dialogue/kazuya
+> CONTEXT: Troops/115/pages/0/11/Dialogue/kazuya-0
+> CONTEXT: Troops/189/pages/0/16/Dialogue/kazuya
+Let me see……#MTLed
+> END STRING
+
+> BEGIN STRING
+どうしたんだい、縮こまっちまって。
+
+私を倒したときの威勢はどこに行ったんだい？
+> CONTEXT: Map122/events/5/pages/1/15/Dialogue/enemy14
+What's wrong, it's shrunk. Where did you go when
+you beat me?#MTLed
+> END STRING
+
+> BEGIN STRING
+まさか今さら、私が怖いなんて言わないだろう？
+> CONTEXT: Map122/events/5/pages/1/19/Dialogue/enemy14
+No wonder now I will not say I'm scared.#MTLed
+> END STRING
+
+> BEGIN STRING
+い、いや………
+
+今でも普通に怖いけど……
+> CONTEXT: Map122/events/5/pages/1/21/Dialogue/kazuya
+No………. Even now I am scared normally ...#MTLed
+> END STRING
+
+> BEGIN STRING
+あの………名前は『ラミアー』でいいんだよね…？
+
+ 君を呼ぶとき、どう呼ぶのかなって……
+> CONTEXT: Map122/events/5/pages/1/25/Dialogue/kazuya
+Um......... The name is good with "lamia" ...?
+When you call you, how do you call it ...#MTLed
+> END STRING
+
+> BEGIN STRING
+……………ああ、確かに私は『ラミアー』。
+
+ 『ラミア』って方が、今の人間界じゃメジャーだろう？
+> CONTEXT: Map122/events/5/pages/1/30/Dialogue/enemy14
+...... Oh yes, I am 'lamia'. "Lamia" is the major
+of the human realm now, right?#MTLed
+> END STRING
+
+> BEGIN STRING
+最初は私の名前だったけど、
+
+悪行が知れ渡りすぎて、今じゃ怪物の俗称さ。
+> CONTEXT: Map122/events/5/pages/1/34/Dialogue/enemy14
+At first it was my name, Evil acts are too
+common, and now they are popular names for
+monsters.#MTLed
+> END STRING
+
+> BEGIN STRING
+今の人間界じゃ、あまりその経緯が知られてなくて、
+ 『蛇悪魔の種族の名称』って事になってるらしいね。
+
+……悪名として有名にならなかったのが救いだよ。
+> CONTEXT: Map122/events/5/pages/1/38/Dialogue/enemy14
+In the present human realm, the process is not
+well known, "The name of the snake demon's race"
+is supposed to be....It is salvation that I did
+not become famous as a bad name.#MTLed
+> END STRING
+
+> BEGIN STRING
+だから、私は『ティタノボア』の方で呼んでおくれ。
+
+そっちのほうが、今は呼ばれ慣れてるよ。
+> CONTEXT: Map122/events/5/pages/1/43/Dialogue/enemy14
+So, call me by "Titanoboa". I'm called and used
+to it now.#MTLed
+> END STRING
+
+> BEGIN STRING
+わ、わかった……。
+
+ティタノボア……
+> CONTEXT: Map122/events/5/pages/1/47/Dialogue/kazuya
+I understand .... Titanoboa ......#MTLed
+> END STRING
+
+> BEGIN STRING
+…………………っ！
+
+まったく！オドオドすんじゃないよ！
+あのオニの助けありとはいえ、私を負かしたんだろう！？
+> CONTEXT: Map122/events/5/pages/1/53/Dialogue/enemy14
+...... ......! Totally! It's not odoodoo!
+Even with the help of that oni, I would beat me!
+?#MTLed
+> END STRING
+
+> BEGIN STRING
+はぁ……………こんなナヨナヨした奴にこの私が……
+
+なんだか自分が情けなくなってきたよ………
+> CONTEXT: Map122/events/5/pages/1/58/Dialogue/enemy14
+Haha ..... this guy who did this Nayonayo ...
+Somehow I'm getting lost......#MTLed
+> END STRING
+
+> BEGIN STRING
+ご、ごめん……
+> CONTEXT: Map122/events/5/pages/1/62/Dialogue/kazuya
+I'm sorry ...#MTLed
+> END STRING
+
+> BEGIN STRING
+それにしても……僕も『ラミア』って言ったら
+蛇の半身を持った女性の悪魔ってイメージだったけど
+
+元々は、君の名前だったんだね……
+> CONTEXT: Map122/events/5/pages/1/65/Dialogue/kazuya
+Even so...if I say "lamia". It was an image of
+a demon with a woman with half snake body
+Originally it was your name ...#MTLed
+> END STRING
+
+> BEGIN STRING
+私も、具体的にどんな使われ方をしてたのかは
+風の噂程度でしか知らないんだけどね。
+
+ 夢魔や魔女の類いは、全部私の名前だったらしい
+> CONTEXT: Map122/events/5/pages/1/70/Dialogue/enemy14
+What kind of usage was I specifically used?
+I only know about the rumor of the wind.
+It seems that all sorts of dreams and witches
+have been my name#MTLed
+> END STRING
+
+> BEGIN STRING
+………聞いた中で、一番面白かったのは
+
+『ガキのしつけ』にも使われてたらしいって事かな…
+> CONTEXT: Map122/events/5/pages/1/75/Dialogue/enemy14
+......... I heard that the most interesting thing
+was. It seems to have been used in "Gaki no
+Shizuku" ...#MTLed
+> END STRING
+
+> BEGIN STRING
+『夜更かししてるとラミアが来るぞー！』
+
+って感じなのかねぇ。
+> CONTEXT: Map122/events/5/pages/1/79/Dialogue/enemy14
+"If you stay up late, lamia will come! "
+I feel like it.#MTLed
+> END STRING
+
+> BEGIN STRING
+…ふふふっ…
+> CONTEXT: Map122/events/5/pages/1/84/Dialogue/kazuya
+... fuzz ...#MTLed
+> END STRING
+
+> BEGIN STRING
+……………？
+
+どうかしたかい？
+> CONTEXT: Map122/events/5/pages/1/86/Dialogue/enemy14
+......? Did you do it?#MTLed
+> END STRING
+
+> BEGIN STRING
+いや………
+
+さっきの声真似のティタノボア、ちょっと可愛かったなって。
+> CONTEXT: Map122/events/5/pages/1/90/Dialogue/kazuya
+Disagreeable………. The previous voice, Titanoboa,
+is pretty cute.#MTLed
+> END STRING
+
+> BEGIN STRING
+…………………締め上げられたいのかい？
+> CONTEXT: Map122/events/5/pages/1/102/Dialogue/enemy14
+.......... I want to be tightened?#MTLed
+> END STRING
+
+> BEGIN STRING
+ｺﾞﾒﾝﾅｻｲ………
+> CONTEXT: Map122/events/5/pages/1/104/Dialogue/kazuya
+Gomenasai .........#MTLed
+> END STRING
+
+> BEGIN STRING
+えっと、それじゃあ……
+
+よかったら、君が改造される前……
+『ラミアー』だった頃のこと、聞かせてほしいな…
+> CONTEXT: Map122/events/5/pages/1/118/Dialogue/kazuya
+Well, that's right...If you like, before you
+are remodeled...I want you to tell me about the
+days of "lamia" ...#MTLed
+> END STRING
+
+> BEGIN STRING
+…………話したくないなら、別に良いけど……
+> CONTEXT: Map122/events/5/pages/1/126/Dialogue/kazuya
+...... If you don't want to talk, it's good
+though ...#MTLed
+> END STRING
+
+> BEGIN STRING
+…………ふん！別に。
+
+ 今と同じように、人間や悪魔を喰ってたよ。
+ 物理的にも、時には性的にもね。
+> CONTEXT: Map122/events/5/pages/1/129/Dialogue/enemy14
+…………Hmm! Separately. Just as I did now, I was
+playing humans and demons. Physically, sometimes
+sexually.#MTLed
+> END STRING
+
+> BEGIN STRING
+『ラミアー』は、『怪物』の俗称、って話しただろう？
+
+ 今でこそ、姿形のみの蛇悪魔の呼称に落ち着いてるが
+ ひと昔前は、もっと広い意味だったのさ。
+> CONTEXT: Map122/events/5/pages/1/134/Dialogue/enemy14
+Did you say that "lamia" is a common name for
+"monster"? Now, I am calm down to the name of the
+snake demon of the form only. A long time ago, it
+meant more broadly.#MTLed
+> END STRING
+
+> BEGIN STRING
+人喰い、人拐い、魔女、夢魔………
+
+それこそ狂ったように、悪行三昧だったよ。
+> CONTEXT: Map122/events/5/pages/1/139/Dialogue/enemy14
+Envy, Envy, Witch, Dream Magic .........
+As if it was crazy, it was a bad act.#MTLed
+> END STRING
+
+> BEGIN STRING
+ど、どうして、そんなに…？
+> CONTEXT: Map122/events/5/pages/1/143/Dialogue/kazuya
+How, why so much ...?#MTLed
+> END STRING
+
+> BEGIN STRING
+ハッ！
+
+ 悪い事をするのに、正当な理由がいるのかい？
+ 私がやりたいからやってたのさ。
+> CONTEXT: Map122/events/5/pages/1/145/Dialogue/enemy14
+Ha! Are there good reasons for doing bad things?
+I did it because I wanted to do it.#MTLed
+> END STRING
+
+> BEGIN STRING
+まぁ、不自由はしない毎日だったよ。
+
+『ティタノボア』になる前の私も充分強くて、
+狩れない獲物なんて存在しなかったからね。
+> CONTEXT: Map122/events/5/pages/1/150/Dialogue/enemy14
+Well, I did not have a daily routine.
+I was strong enough before becoming "Titanoboa",
+There was no prey that could not be hunted.#MTLed
+> END STRING
+
+> BEGIN STRING
+だけどね………そういう自分勝手な生き方には
+
+『孤立』というリスクもあるんだ。
+> CONTEXT: Map122/events/5/pages/1/156/Dialogue/enemy14
+But ..... For such a selfish way of life
+There is also the risk of being 'isolated'.#MTLed
+> END STRING
+
+> BEGIN STRING
+『悪い事』の代名詞のような私は、
+もちろん周りから畏怖され、距離を置かれ
+
+ ラミアと呼ばれる悪魔達ですら、私を嫌った。
+> CONTEXT: Map122/events/5/pages/1/160/Dialogue/enemy14
+I like the pronoun of 'bad things',
+Of course I am scared from the surroundings and
+put a distance. Even demons called lamia hated
+me.#MTLed
+> END STRING
+
+> BEGIN STRING
+………別に、苦痛に感じることはなかったよ
+
+ だけどいい加減、その境遇にウンザリしていたんだ。
+ 『ラミアー』としての、肩身の狭さに。
+> CONTEXT: Map122/events/5/pages/1/165/Dialogue/enemy14
+......... I did not feel pain. 
+But I wasn't doing well, I was unhappy about the
+situation. In the narrowness of the shoulder as
+"Lamia".#MTLed
+> END STRING
+
+> BEGIN STRING
+そんな時だったのさ
+
+私の身体を『生まれ変わらせてくれる』って
+『Ｍ.Ｏ.Ｗ』っていう組織の人間が声をかけてきたのは。
+> CONTEXT: Map122/events/5/pages/1/170/Dialogue/enemy14
+It was such time. "My body will be reborn"
+The people in the organization named "M.O.W." have
+been calling out.#MTLed
+> END STRING
+
+> BEGIN STRING
+『ラミアーの自分』を捨てたかった私としちゃ
+願ってもない話だったよ。
+
+どう結果が転ぼうと、失うものはなかったしね。
+> CONTEXT: Map122/events/5/pages/1/175/Dialogue/enemy14
+I wanted to throw away "Lamia's Self"
+It was a story I could not even hope for.
+No matter what the consequences fall, there was
+nothing to lose.#MTLed
+> END STRING
+
+> BEGIN STRING
+やつらが具体的に何をしたかは知らないけど
+
+私は更なる強靭な身体と魔力、そして再生能力を得た。
+> CONTEXT: Map122/events/5/pages/1/183/Dialogue/enemy14
+I don't know what they did specifically
+I got a stronger body, magic and regeneration
+ability.#MTLed
+> END STRING
+
+> BEGIN STRING
+だけど、連中にとってそれは『想定外』だったらしいね
+
+ しばらくすると、実験していたやつらの態度が一変して
+ いかに私を封じ込めるかで必死になってた。
+> CONTEXT: Map122/events/5/pages/1/187/Dialogue/enemy14
+But if they were "unexpected", they would like
+After a while, the attitudes of those who were
+experimenting changed completely
+I was desperate about how to contain me.#MTLed
+> END STRING
+
+> BEGIN STRING
+……確かに連中には感謝してるさ。
+
+けど、だからって忠犬になってやる義理はないだろう？
+> CONTEXT: Map122/events/5/pages/1/192/Dialogue/enemy14
+...... Surely they are grateful.
+But that's why there's no in-law to be a loyal
+dog?#MTLed
+> END STRING
+
+> BEGIN STRING
+まぁ一応、『実験』には協力してやったさ。
+
+だけど、代わりに自由気ままに暴れて、喰ってやった。
+ 隙を見せた人間から、次々とね…
+> CONTEXT: Map122/events/5/pages/1/196/Dialogue/enemy14
+Well, I did cooperate with the "experiment".
+But instead, I went wild and ran wild.
+From people who showed a chance, one after
+another ...#MTLed
+> END STRING
+
+> BEGIN STRING
+ガラス越しのあの人間どもの恐怖や嫌悪に満ちた表情…
+
+アンタにも見せてやりたかったねぇ…♡
+> CONTEXT: Map122/events/5/pages/1/201/Dialogue/enemy14
+Afraid and hateful expressions of those humans
+through glass...I wanted to show it to you too
+...#MTLed
+> END STRING
+
+> BEGIN STRING
+……………ああ、だけど……
+
+一人、変な奴がいたっけか………
+> CONTEXT: Map122/events/5/pages/1/207/Dialogue/enemy14
+...... Oh, but ...... One person, strange guy or
+not .........#MTLed
+> END STRING
+
+> BEGIN STRING
+変な奴…？
+> CONTEXT: Map122/events/5/pages/1/211/Dialogue/kazuya
+Funny guy ...?#MTLed
+> END STRING
+
+> BEGIN STRING
+組織のエライやつみたいな、茶髪の女だったんだけど
+
+ そいつだけは、私に拍手を送って、笑顔で言ったよ。
+> CONTEXT: Map122/events/5/pages/1/216/Dialogue/enemy14
+It was a woman with a brown hair, like an
+organized elie. The only thing that applauded me
+and said with a smile.#MTLed
+> END STRING
+
+> BEGIN STRING
+『素晴らしい能力だ。
+
+　君は、人類の災厄になり得る』ってね……
+> CONTEXT: Map122/events/5/pages/1/220/Dialogue/enemy14
+"It's a great ability. You can be a disaster for
+humanity. "#MTLed
+> END STRING
+
+> BEGIN STRING
+変な奴だろう？
+
+ 人間が、人類の災厄を賛美するなんて……
+> CONTEXT: Map122/events/5/pages/1/227/Dialogue/enemy14
+Is that strange? It is a human being who praises
+humanity's disasters ...#MTLed
+> END STRING
+
+> BEGIN STRING
+何の目的で、あんな実験をしてるのかは知らないけど
+
+ ああいうのを、『マッドサイエンティスト』って
+言うんだろうねぇ……
+> CONTEXT: Map122/events/5/pages/1/231/Dialogue/enemy14
+I don't know what purpose I'm doing and do such
+experiments. That's what “Mad Scientist” is
+I will say that ...#MTLed
+> END STRING
+
+> BEGIN STRING
+なんか呼んだ～？
+> CONTEXT: Map122/events/5/pages/1/241/Dialogue/other3
+What did you call?#MTLed
+> END STRING
+
+> BEGIN STRING
+……呼んでないよ
+> CONTEXT: Map122/events/5/pages/1/243/Dialogue/kazuya
+...... Do not call#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[1]は、ティタノボアの蛇体表面の鱗を
+
+真剣に何度も触っている………
+> CONTEXT: Map122/events/5/pages/1/257/Dialogue
+\\N[1] made a cocoon of Titanoboa snake body surface
+Seriously touching many times .........#MTLed
+> END STRING
+
+> BEGIN STRING
+………仮にもレディの身体を好き勝手撫で回して、
+
+いいご身分だね？\\N[1]
+> CONTEXT: Map122/events/5/pages/1/261/Dialogue/enemy14
+..... Temporarily turn the body of the lady in a
+selfish manner, Good status, right? \\N[1]#MTLed
+> END STRING
+
+> BEGIN STRING
+ご、ごめん！
+
+すごく不思議な触り心地だったから、つい……！！
+> CONTEXT: Map122/events/5/pages/1/266/Dialogue/kazuya
+Sorry! It was a very strange touch, so ......! !#MTLed
+> END STRING
+
+> BEGIN STRING
+ふん………『不思議な触り心地』ね……
+
+そりゃあそうだよ、
+ 私の身体は『獲物が逃げられない』質感だからね。
+> CONTEXT: Map122/events/5/pages/1/271/Dialogue/enemy14
+Hm......... "mysterious touch".........
+Well, that's right, My body has a texture that
+"the prey can not escape."#MTLed
+> END STRING
+
+> BEGIN STRING
+いや………正確には
+
+『逃げたくなくなる』が、正解かな……？
+> CONTEXT: Map122/events/5/pages/1/276/Dialogue/enemy14
+No .... To be precise. "I don't want to run
+away," but is it correct?#MTLed
+> END STRING
+
+> BEGIN STRING
+アンタも体感してるだろう？
+
+ 私の拘束は、抵抗の力を抜けば抜くほど
+ だんだんとその締め付けが気持ち良くなってくるんだ。
+> CONTEXT: Map122/events/5/pages/1/280/Dialogue/enemy14
+Are you also experiencing it? 
+My bound is more than enough to pull out the
+power of struggle. And that tightening is getting
+better.#MTLed
+> END STRING
+
+> BEGIN STRING
+そういう『趣味』ならともかくとして
+
+大抵の獲物は、こんな蛇体に巻き付かれたら
+必ずパニックを起こすからね。その対策さ。
+> CONTEXT: Map122/events/5/pages/1/285/Dialogue/enemy14
+As such "hobby". Most of the prey is wrapped
+around this snake body. You will always get
+Panic. That is the measure.#MTLed
+> END STRING
+
+> BEGIN STRING
+それに加えて、魔力の流れを遮断する機能もある。
+
+おかげで、スライムみたいな液状の悪魔ですら
+問題なく捕獲できるんだよ。
+> CONTEXT: Map122/events/5/pages/1/290/Dialogue/enemy14
+In addition to that, there is also a function to
+shut off the flow of magic. Thanks to you, even a
+liquid demon like slime. You can capture without
+problems.#MTLed
+> END STRING
+
+> BEGIN STRING
+す、スライムも……？
+
+それは純粋にすごいな………
+> CONTEXT: Map122/events/5/pages/1/296/Dialogue/kazuya
+Um, slime too ...? It's purely amazing .........#MTLed
+> END STRING
+
+> BEGIN STRING
+それに、大きさもそうだけと………すごく長いよね。
+
+どれくらいの全長があるの？
+> CONTEXT: Map122/events/5/pages/1/300/Dialogue/kazuya
+Besides, the size is just so......... very
+long. How long is it?#MTLed
+> END STRING
+
+> BEGIN STRING
+さぁ………自分で計ったことはないよ……
+
+Ｍ.Ｏ.Ｗの検査に、測定があったかもしれないけど
+測定した人間は、残らず喰ってたからねぇ。
+> CONTEXT: Map122/events/5/pages/1/305/Dialogue/enemy14
+Well ..... I have never measured it myself ...
+Though there might be a measurement in the
+examination of M.O.W. The whole person who
+measured it did not go away.#MTLed
+> END STRING
+
+> BEGIN STRING
+結構でかいサイズの獲物でも不便を感じなかったし
+
+ まぁ、丸呑みできる範囲なら、全身巻き付ける程度には
+長さもあるだろうね。
+> CONTEXT: Map122/events/5/pages/1/310/Dialogue/enemy14
+I did not feel any inconvenience even with a
+fairly large size game. Well, if it is a range
+that can be scooped, it will be enough to wrap
+around the whole body. There will also be a
+length.#MTLed
+> END STRING
+
+> BEGIN STRING
+確かに、このサイズなら、ゾウとかの大きさでも
+
+余裕で巻き付けそうだもんね……
+> CONTEXT: Map122/events/5/pages/1/315/Dialogue/kazuya
+Certainly, with this size, even the size of an
+elephant. I'm going to wrap it in my spare room
+......#MTLed
+> END STRING
+
+> BEGIN STRING
+…………こんなでかい蛇体を持った悪魔が出来るなんて
+
+Ｍ.Ｏ.Ｗのやつら、相当焦ったろうなぁ……
+> CONTEXT: Map122/events/5/pages/1/319/Dialogue/kazuya
+............ I can do a demon with such a big
+snake body. The guys of M.O.W.#MTLed
+> END STRING
+
+> BEGIN STRING
+いや、多分あの連中が一番焦ったのは
+
+間違いなく『自己再生』の能力だろうね……
+> CONTEXT: Map122/events/5/pages/1/324/Dialogue/enemy14
+No, maybe those guys got the most
+It is definitely the ability of 'self
+regeneration' ...#MTLed
+> END STRING
+
+> BEGIN STRING
+今まで説明した蛇体の能力は、強化はされていても
+
+蛇悪魔のほとんどが持ち合わせてるものなんだよ。
+> CONTEXT: Map122/events/5/pages/1/328/Dialogue/enemy14
+Even though the snake body's ability explained so
+far has been strengthened. Most of the snake
+demons are what you have.#MTLed
+> END STRING
+
+> BEGIN STRING
+だけど、この再生能力だけは異常でね…
+
+例えちぎれても、くっついて元の大きさまで治るんだ。
+> CONTEXT: Map122/events/5/pages/1/332/Dialogue/enemy14
+But only this regeneration ability is abnormal
+... For example, it will stick and heal to its
+original size.#MTLed
+> END STRING
+
+> BEGIN STRING
+しかも完全に同じじゃなくて、
+より頑丈に、より良質になるらしかったもんで
+
+ あの連中も、下手な実験はできなかったらしい。
+> CONTEXT: Map122/events/5/pages/1/336/Dialogue/enemy14
+And not completely the same, I wanted to be more
+robust and better. Those guys also couldn't do
+bad experiments.#MTLed
+> END STRING
+
+> BEGIN STRING
+だけどまさか、既に『安全装置』を
+ ちゃんと改良していたとは思わなかったね。
+
+まぁ、野放しにはしないとは思ってたけど……
+> CONTEXT: Map122/events/5/pages/1/342/Dialogue/enemy14
+No way, already "safety". I did not think that I
+was improving properly. Well, I thought I would
+not leave it alone ...#MTLed
+> END STRING
+
+> BEGIN STRING
+でもまぁ……あれでよかったのかも知れないね。
+
+あれ以上暴食して、『ラミアー』っていう悪魔の
+誇りさえ見失う前に、止められてさ。
+> CONTEXT: Map122/events/5/pages/1/347/Dialogue/enemy14
+But ...... well, that may be good.
+I scorned that much more than the demon 'lamia'
+Before I even lost my pride, I was stopped.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10] 行き過ぎた自身の能力は、破滅への道だよ。
+
+ 自分が分からなくなって、暴走しちまう。
+> CONTEXT: Map122/events/5/pages/1/352/Dialogue/enemy14
+\\C[10]The excess of my own ability is the way to ruin.
+I can not understand myself and run away.#MTLed
+> END STRING
+
+> BEGIN STRING
+アンタもせいぜい気を付けるんだね、\\N[1]
+> CONTEXT: Map122/events/5/pages/1/356/Dialogue/enemy14
+You also care at best, \\N[1]#MTLed
+> END STRING
+
+> BEGIN STRING
+【キズナイベント】if(v[52] \>= 99) 
+> CONTEXT: Map122/events/5/pages/1/362/Choice/0
+【Bonding】if(v[52] \>= 99)#MTLed
+> END STRING
+
+> BEGIN STRING
+ん？なんだい\\N[1]。
+
+ 私の顔に何か付いてるかい？
+> CONTEXT: Map122/events/5/pages/1/369/Dialogue/enemy14
+Hmm? What is \\N[1]. Is there anything attached
+to my face?#MTLed
+> END STRING
+
+> BEGIN STRING
+い、いや！
+
+べ…………別に…………
+> CONTEXT: Map122/events/5/pages/1/374/Dialogue/kazuya
+No! Well .......... separately .........#MTLed
+> END STRING
+
+> BEGIN STRING
+……何を恥ずかしがってるんだい？
+
+ 私とアンタの仲じゃないか。
+> CONTEXT: Map122/events/5/pages/1/378/Dialogue/enemy14
+...... What are you embarrassed?
+Aren't you a friend of me?#MTLed
+> END STRING
+
+> BEGIN STRING
+ほら、こっちに顔を向けな？
+
+ちゃんと私の顔を見るんだよ………。
+> CONTEXT: Map122/events/5/pages/1/382/Dialogue/enemy14
+You see, do you face me here? 
+I see my face properly.......#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[1]は、身体が硬直して動けなくなった……！！！
+> CONTEXT: Map122/events/5/pages/1/392/Dialogue
+\\N[1]'s body got stiff and stuck!!!#MTLed
+> END STRING
+
+> BEGIN STRING
+ティタノボアは、ゆっくりと近付き
+
+\\N[1]の服を脱がし始めている……
+> CONTEXT: Map122/events/5/pages/1/394/Dialogue
+Titanoboa is slowly approaching. I'm starting to undress
+\\N[1] ......#MTLed
+> END STRING
+
+> BEGIN STRING
+ぇ…………！？
+
+ぁ……………ぅ…………っ……………！！
+> CONTEXT: Map122/events/5/pages/1/399/Dialogue/kazuya-0
+ぇ ...... ......! ? 
+.................................................
+!#MTLed
+> END STRING
+
+> BEGIN STRING
+………………『蛇にらみ』。
+
+アンタも、聞いたことがあるんじゃないかい？
+> CONTEXT: Map122/events/5/pages/1/403/Dialogue/enemy14
+........... "On the serpent". 
+Aren't you even heard of it?#MTLed
+> END STRING
+
+> BEGIN STRING
+まったくバカだね…………
+
+こっちを見ろと言われて、ばか正直にしっかり見据えて…♡
+> CONTEXT: Map122/events/5/pages/1/407/Dialogue/enemy14
+It's totally stupid ......... 
+I was told to look over here, and I was looking
+forward to it honestly firmly ...#MTLed
+> END STRING
+
+> BEGIN STRING
+だけど……そこが気に入ってるのさ、私は。
+
+ふふ………可愛がってやるよ♡
+> CONTEXT: Map122/events/5/pages/1/411/Dialogue/enemy14
+But...I like that place, I. 
+Fu...... I will love you#MTLed
+> END STRING
+
+> BEGIN STRING
+やっと気がついたかい？
+
+ずいぶんと気持ち良さそうな顔して寝てたじゃないか…
+> CONTEXT: Map122/events/5/pages/1/433/Dialogue/enemy14
+Did you finally notice? I would have slept with a
+good looking face ...#MTLed
+> END STRING
+
+> BEGIN STRING
+蛇悪魔の胎内の体験なんて滅多にできないだろうからね
+
+ しかも生きてるだなんて……幸せ者だよ？アンタ……
+> CONTEXT: Map122/events/5/pages/1/437/Dialogue/enemy14
+Because the experience of the snake demon's womb
+will be rare. And what are you living .... happy?
+You ...#MTLed
+> END STRING
+
+> BEGIN STRING
+ティタノボア………
+> CONTEXT: Map122/events/5/pages/1/441/Dialogue/kazuya-2
+Titanoboa .........#MTLed
+> END STRING
+
+> BEGIN STRING
+………ああもう、またその目かい。
+
+ 気になるなら気になるって、ハッキリ言ったらどうだい？
+> CONTEXT: Map122/events/5/pages/1/445/Dialogue/enemy14
+...... Oh, I see that again. If you're worried
+about it, it makes you wonder, what if you say it
+clearly?#MTLed
+> END STRING
+
+> BEGIN STRING
+不思議なんだろう……？私の『右目』………
+
+『本来、右目があるべき場所』が、なぜ空洞か。
+> CONTEXT: Map122/events/5/pages/1/449/Dialogue/enemy14
+Is it strange ...? My "right eye" .........
+Why is the place where the right eye should be?#MTLed
+> END STRING
+
+> BEGIN STRING
+そ、それは………！！
+> CONTEXT: Map122/events/5/pages/1/454/Dialogue/kazuya-2
+Well, that's .........! !#MTLed
+> END STRING
+
+> BEGIN STRING
+ふん！おおかた『触れちゃいけない過去だろうから』と
+
+遠慮して聞きあぐねていたんだろう？
+まったく……
+> CONTEXT: Map122/events/5/pages/1/456/Dialogue/enemy14
+Hmm! Generally, "it will be a past that can not
+be touched". Did you hesitate to ask?
+Totally ...#MTLed
+> END STRING
+
+> BEGIN STRING
+………………潰したのさ、自分で。
+> CONTEXT: Map122/events/5/pages/1/462/Dialogue/enemy14
+..... I smashed it myself.#MTLed
+> END STRING
+
+> BEGIN STRING
+大昔に、ヘラって女神の怒りを買ったことがあってね。
+
+ 奴に私は、自分の子供を殺すよう仕向けられた……
+> CONTEXT: Map122/events/5/pages/1/465/Dialogue/enemy14
+A long time ago, he had bought the rage of a
+goddess. He was asked to kill my child ...#MTLed
+> END STRING
+
+> BEGIN STRING
+それからさ…………
+
+毎晩、毎晩、眠ろうとすると、子供たちが現れて…
+私に延々と無念を伝えてくるんだ……
+> CONTEXT: Map122/events/5/pages/1/469/Dialogue/enemy14
+From that ............ Every night, every night
+when I try to sleep, children appear ...
+I'm telling my heart forever my ......#MTLed
+> END STRING
+
+> BEGIN STRING
+気が狂いそうだったよ……
+
+いや、もうあの時点で、
+ 私は十分に狂っていたのかもしれないね…
+> CONTEXT: Map122/events/5/pages/1/474/Dialogue/enemy14
+I was going crazy. No, already at that time,
+Maybe I was crazy enough ...#MTLed
+> END STRING
+
+> BEGIN STRING
+私は、少しでも苦しみから逃れようと、眼をえぐった。
+
+でも………悪夢は悪化する一方だったのさ……
+> CONTEXT: Map122/events/5/pages/1/479/Dialogue/enemy14
+I took my eyes to escape the pain.
+But...nightmares are getting worse ...#MTLed
+> END STRING
+
+> BEGIN STRING
+そして、私は周りのすべてが憎くなり
+
+他人から『奪う』だけの、化け物になっていった……
+> CONTEXT: Map122/events/5/pages/1/483/Dialogue/enemy14
+And I'm all itching around. It has become a
+monster only for "deprive" from others ...#MTLed
+> END STRING
+
+> BEGIN STRING
+…………生物兵器になれば
+
+『ティタノボア』になれば、少しは悪夢も消えるかと
+期待してたけど………無駄だったよ。
+> CONTEXT: Map122/events/5/pages/1/490/Dialogue/enemy14
+...... If it becomes a biological weapon
+If it becomes "Titanoboa", a nightmare will
+disappear a little. I was expecting it...but it
+was useless.#MTLed
+> END STRING
+
+> BEGIN STRING
+まぁ、普通に考えりゃ、当たり前だよね。
+
+これは、あのヘラの『呪い』なんだから……
+> CONTEXT: Map122/events/5/pages/1/495/Dialogue/enemy14
+Well, if you think normally, it is natural.
+This is because that 'her curse' of that hella
+...#MTLed
+> END STRING
+
+> BEGIN STRING
+でも……アンタに看取られて消える時は…
+
+何故だか悪夢を見ずに、静かに眠れた気がするんだよ。
+> CONTEXT: Map122/events/5/pages/1/500/Dialogue/enemy14
+But...when you are caught by you and disappears
+... It feels like I could sleep quietly without
+seeing a nightmare for some reason.#MTLed
+> END STRING
+
+> BEGIN STRING
+まったく………本当に不思議な奴だよ、アンタは……
+> CONTEXT: Map122/events/5/pages/1/504/Dialogue/enemy14
+Totally...... a really strange person, you ...#MTLed
+> END STRING
+
+> BEGIN STRING
+ティタノボアとの『キズナ』が生まれた！！
+
+友好度が『１００』になった！！
+> CONTEXT: Map122/events/5/pages/1/509/Dialogue
+"Kizuna" with Titanoboa was born!!The degree of
+friendship has reached "100"! !#MTLed
+> END STRING
+
+> BEGIN STRING
+アンタ………
+
+よっぽど欲求不満なのかい？
+> CONTEXT: Map122/events/5/pages/2/2/Dialogue/enemy14
+You ......... Are you frustrated?#MTLed
+> END STRING
+
+> BEGIN STRING
+なにもこんな悪魔……しかも性悪な奴に
+
+人間の一世一代の『プロポーズ』をかますなんて……
+> CONTEXT: Map122/events/5/pages/2/6/Dialogue/enemy14
+Anything like this demon ...... and a wicked man
+What a man's first generation "propose" is to be
+destroyed ...#MTLed
+> END STRING
+
+> BEGIN STRING
+ああ、さては蛇悪魔に飢えてるんだね？
+
+ 普通の人間じゃあ、こんなプレイはできないものね。
+> CONTEXT: Map122/events/5/pages/2/11/Dialogue/enemy14
+Well, are you starving for the snake demon,
+right? If you're a normal person, you can't play
+like this.#MTLed
+> END STRING
+
+> BEGIN STRING
+よかったら、いい『ラミア』を紹介してやるよ
+
+向こうは私が嫌いだろうが、人間を紹介するって言えば
+悪い返事はしてこないだろうさ♡
+> CONTEXT: Map122/events/5/pages/2/15/Dialogue/enemy14
+If you like, I will introduce a good 'lamia'
+The other side will hate me, but to introduce
+human beings. I will not send a bad reply#MTLed
+> END STRING
+
+> BEGIN STRING
+いや……………
+
+僕は君がいいんだ、ティタノボア。
+> CONTEXT: Map122/events/5/pages/2/21/Dialogue/kazuya
+Disagreeable……………. I want you, Titanoboa.#MTLed
+> END STRING
+
+> BEGIN STRING
+ 蛇悪魔とか、性悪とか
+
+ そういうのをひっくるめた君の返事が欲しいんだ。
+> CONTEXT: Map122/events/5/pages/2/25/Dialogue/kazuya
+Snake demon or evil. I want your reply to wrap up
+that.#MTLed
+> END STRING
+
+> BEGIN STRING
+欲求不満だとか、そんな単純な理由じゃない…
+> CONTEXT: Map122/events/5/pages/2/29/Dialogue/kazuya
+It's not frustration, it's not such a simple
+reason ...#MTLed
+> END STRING
+
+> BEGIN STRING
+……『性悪』は否定しないんだね。
+
+どうやら、単なる冗談じゃないらしい……
+> CONTEXT: Map122/events/5/pages/2/32/Dialogue/enemy14
+...... I do not deny "sex". Apparently not a mere
+joke ...#MTLed
+> END STRING
+
+> BEGIN STRING
+けど分かっているのかい？
+
+ 私は元Ｍ.Ｏ.Ｗの生物兵器『ティタノボア』なんだよ？
+> CONTEXT: Map122/events/5/pages/2/36/Dialogue/enemy14
+But do you know? I am the former M.O.W.
+biological weapon "Titanoboa"?#MTLed
+> END STRING
+
+> BEGIN STRING
+現実世界でまた実体を持てば
+悪魔や人間を喰わない保証はどこにもない……
+
+そんなリスクを、アンタが背負えるってのかい？
+> CONTEXT: Map122/events/5/pages/2/40/Dialogue/enemy14
+If you have substance in the real world again
+There is no guarantee that we do not honor demons
+or humans...Can you bear such a risk?#MTLed
+> END STRING
+
+> BEGIN STRING
+このエンゲージリングには、人間にとってそうなように
+
+悪魔に対して『そういう誓い』を立てるって意味なんだよ
+> CONTEXT: Map122/events/5/pages/2/45/Dialogue/enemy14
+In this engagement ring, as it is for humans
+It makes sense to make such an oath to demon#MTLed
+> END STRING
+
+> BEGIN STRING
+アンタに、その『覚悟』はあるのかい…？
+
+ 今ならまだ、考え直すには遅くないよ………
+> CONTEXT: Map122/events/5/pages/2/49/Dialogue/enemy14
+Do you have that "ready" ...? 
+It's not too late to think again now .........#MTLed
+> END STRING
+
+> BEGIN STRING
+ふん………！！
+
+ 一歩も退かないって面構えだね……
+私がネズミの中で、一番苦手なタイプだ。
+> CONTEXT: Map122/events/5/pages/2/59/Dialogue/enemy14
+Hmm………!!It is an attitude that one step does
+not withdraw...I'm the weakest type of mouse.#MTLed
+> END STRING
+
+> BEGIN STRING
+参ったね……私はネズミを追いかけるのが好きなんだ
+
+ ネズミに追っかけられるのは、むず痒いったらないよ
+> CONTEXT: Map122/events/5/pages/2/64/Dialogue/enemy14
+I went there...I like to chase the mouse
+It is not difficult to be chased by mouse#MTLed
+> END STRING
+
+> BEGIN STRING
+分かった………負けたよ。
+
+アンタの伴侶になってやろうじゃないか、\\N[1]
+> CONTEXT: Map122/events/5/pages/2/69/Dialogue/enemy14
+I understand...I lost. I wonder if you're going
+to be your partner, \\N[1]#MTLed
+> END STRING
+
+> BEGIN STRING
+でも、ゆめゆめ忘れるんじゃないよ。
+
+ 『悪魔』と結ばれる人間が、平穏な人生を
+送れるはずがないってことを…………
+> CONTEXT: Map122/events/5/pages/2/73/Dialogue/enemy14
+But I definitely don't forget it.
+A human being connected with 'demo' has a
+peaceful life. That there is no way we can send
+it .........#MTLed
+> END STRING
+
+> BEGIN STRING
+エンゲージリングを受け取ってもらったことで
+
+\\C[2]ティタノボアと婚約した！
+> CONTEXT: Map122/events/5/pages/2/84/Dialogue
+By receiving the engagement ring. \\C[2]Engaged with Titanoboa!#MTLed
+> END STRING
+
+> BEGIN STRING
+親密度が２５以上必要。
+（現在の値：\\V[52]）
+> CONTEXT: Map122/events/4/pages/0/0/Dialogue
+25 or more intimacy is required. (Current value: \\V[52] )#MTLed
+> END STRING
+
+> BEGIN STRING
+親密度が５０以上必要。
+（現在の値：\\V[52]）
+> CONTEXT: Map122/events/6/pages/0/0/Dialogue
+50 or more intimacy is required. (Current value: \\V[52] )#MTLed
+> END STRING
+
+> BEGIN STRING
+親密度が１００必要。
+（現在の値：\\V[52]）
+> CONTEXT: Map122/events/3/pages/0/18/Dialogue
+100 intimacy required. (Current value: \\V[52] )#MTLed
+> END STRING
+
+> BEGIN STRING
+てぃ、ティタノボア……！？
+> CONTEXT: Map122/events/7/pages/0/5/Dialogue/kazuya
+Tei, Titanoboa ......! ?#MTLed
+> END STRING
+
+> BEGIN STRING
+………………なんだい、その反応は。
+
+ 私がここに来るのは迷惑だったかい？
+> CONTEXT: Map122/events/7/pages/0/8/Dialogue/enemy14
+...... What is the reaction? Was it annoying that
+I came here?#MTLed
+> END STRING
+
+> BEGIN STRING
+い、いや！
+
+そういうわけじゃないんだけど……！！
+> CONTEXT: Map122/events/7/pages/0/13/Dialogue/kazuya
+No! That's not why.........! !#MTLed
+> END STRING
+
+> BEGIN STRING
+ふん……自分の精神世界に
+悪魔を受け入れるスペースねぇ……
+
+人間にしては、ずいぶん優遇されてるじゃないか……
+> CONTEXT: Map122/events/7/pages/0/17/Dialogue/enemy14
+Hm...in my own mental world. Space to accept
+demon ne...As a human being, I think it's a
+very good deal ...#MTLed
+> END STRING
+
+> BEGIN STRING
+ここで、現実世界で我慢した性欲を吐き出して
+
+ あわよくば犯されて仲良くなろうって寸法かい…？
+> CONTEXT: Map122/events/7/pages/0/22/Dialogue/enemy14
+Here, exhale lust that I endured in the real
+world. Are you going to get fucked and get along
+well?#MTLed
+> END STRING
+
+> BEGIN STRING
+（あ、あながち間違ってない………）
+> CONTEXT: Map122/events/7/pages/0/26/Dialogue/kazuya
+(Oh, you are not wrong .........)#MTLed
+> END STRING
+
+> BEGIN STRING
+ ………あの時点で肉体が滅びなきゃあ
+ アンタへのリベンジも、狙ってたかもしれないけどね…
+
+今はこの通り、行くアテもない身さ。
+> CONTEXT: Map122/events/7/pages/0/29/Dialogue/enemy14
+......if at that point the body should be
+destroyed. The revenge to you may have also aimed
+at...Right now, I am not going to go.#MTLed
+> END STRING
+
+> BEGIN STRING
+しばらく、ここに居着かせてもらうよ
+
+異論は認めないからね。
+> CONTEXT: Map122/events/7/pages/0/34/Dialogue/enemy14
+I will stay here for a while. 
+I don't admit any objections.#MTLed
+> END STRING
+
+> BEGIN STRING
+えー……
+> CONTEXT: Map122/events/7/pages/0/38/Dialogue/kazuya
+Eh ...#MTLed
+> END STRING

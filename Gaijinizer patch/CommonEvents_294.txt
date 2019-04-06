@@ -1,0 +1,339 @@
+﻿> GAIJINIZER PATCH FILE
+> BEGIN STRING
+クックックッ、捕まっちまったねぇ
+
+誰彼構わず、心の中に受け入れてるからこうなるんだ…
+> CONTEXT: CommonEvents_294/20/Dialogue/enemy10
+He He Heh, you got caught. This is because he or
+she accepts it in my heart ...#MTLed
+> END STRING
+
+> BEGIN STRING
+ほぅら、少しは抗ってみなよ
+
+今ならまだ間に合うかもしれないよ…？
+> CONTEXT: CommonEvents_294/24/Dialogue/enemy10
+Hmmm, a little bit better. It may still be in
+time...now?#MTLed
+> END STRING
+
+> BEGIN STRING
+必死にもがく
+> CONTEXT: CommonEvents_294/32/Choice/0
+Desperately Struggle#MTLed
+> END STRING
+
+> BEGIN STRING
+何もしない
+> CONTEXT: CommonEvents_294/32/Choice/1
+> CONTEXT: CommonEvents_294/58/Choice/1
+> CONTEXT: Map007/events/12/pages/2/6/Choice/0
+> CONTEXT: Map007/events/13/pages/2/6/Choice/0
+> CONTEXT: Map011/events/6/pages/2/4/Choice/1
+> CONTEXT: Map011/events/16/pages/1/3/Choice/1
+> CONTEXT: Map011/events/16/pages/2/3/Choice/1
+> CONTEXT: Map012/events/5/pages/3/2/Choice/0
+> CONTEXT: Map013/events/5/pages/1/4/Choice/0
+> CONTEXT: Map013/events/5/pages/2/4/Choice/0
+> CONTEXT: Map015/events/5/pages/1/3/Choice/1
+> CONTEXT: Map015/events/5/pages/2/3/Choice/1
+> CONTEXT: Map015/events/8/pages/2/4/Choice/1
+> CONTEXT: Map022/events/17/pages/0/3/Choice/1
+> CONTEXT: Map022/events/2/pages/2/4/Choice/1
+> CONTEXT: Map032/events/8/pages/0/3/Choice/1
+> CONTEXT: Map032/events/8/pages/1/3/Choice/1
+> CONTEXT: Map036/events/5/pages/1/3/Choice/1
+> CONTEXT: Map036/events/5/pages/2/3/Choice/1
+> CONTEXT: Map036/events/8/pages/2/4/Choice/1
+> CONTEXT: Map048/events/5/pages/1/3/Choice/1
+> CONTEXT: Map048/events/5/pages/2/3/Choice/1
+> CONTEXT: Map048/events/8/pages/0/4/Choice/1
+> CONTEXT: Map053/events/5/pages/1/3/Choice/1
+> CONTEXT: Map053/events/5/pages/2/3/Choice/1
+> CONTEXT: Map053/events/8/pages/0/4/Choice/1
+> CONTEXT: Map064/events/5/pages/1/3/Choice/1
+> CONTEXT: Map064/events/5/pages/2/3/Choice/1
+> CONTEXT: Map064/events/8/pages/0/4/Choice/1
+> CONTEXT: Map065/events/26/pages/0/4/Choice/1
+> CONTEXT: Map066/events/25/pages/1/3/Choice/1
+> CONTEXT: Map066/events/25/pages/2/3/Choice/1
+> CONTEXT: Map076/events/5/pages/1/3/Choice/1
+> CONTEXT: Map076/events/5/pages/2/3/Choice/1
+> CONTEXT: Map076/events/8/pages/2/4/Choice/1
+> CONTEXT: Map094/events/8/pages/0/4/Choice/1
+> CONTEXT: Map094/events/9/pages/0/3/Choice/1
+> CONTEXT: Map094/events/7/pages/0/4/Choice/0
+> CONTEXT: Map100/events/5/pages/0/3/Choice/1
+> CONTEXT: Map100/events/8/pages/0/4/Choice/1
+> CONTEXT: Map105/events/11/pages/0/10/Choice/1
+> CONTEXT: Map105/events/17/pages/0/10/Choice/1
+> CONTEXT: Map117/events/8/pages/0/4/Choice/1
+> CONTEXT: Map118/events/11/pages/0/21/Choice/0
+> CONTEXT: Map123/events/5/pages/0/3/Choice/1
+> CONTEXT: Map123/events/8/pages/0/4/Choice/1
+> CONTEXT: Map130/events/3/pages/0/10/Choice/1
+> CONTEXT: Map135/events/5/pages/0/3/Choice/1
+> CONTEXT: Map135/events/9/pages/0/4/Choice/1
+> CONTEXT: Map136/events/9/pages/0/4/Choice/1
+> CONTEXT: Map138/events/3/pages/0/10/Choice/1
+> CONTEXT: Map141/events/5/pages/0/3/Choice/1
+> CONTEXT: Map141/events/8/pages/0/4/Choice/1
+> CONTEXT: Map143/events/11/pages/0/10/Choice/1
+> CONTEXT: Map143/events/17/pages/0/10/Choice/1
+> CONTEXT: Map152/events/4/pages/0/4/Choice/1
+> CONTEXT: Map155/events/5/pages/0/3/Choice/1
+> CONTEXT: Map155/events/8/pages/0/4/Choice/1
+> CONTEXT: Map157/events/5/pages/0/3/Choice/1
+> CONTEXT: Map157/events/8/pages/0/4/Choice/1
+> CONTEXT: Map158/events/5/pages/0/3/Choice/1
+> CONTEXT: Map158/events/8/pages/0/4/Choice/1
+> CONTEXT: Map163/events/5/pages/0/3/Choice/1
+> CONTEXT: Map163/events/8/pages/0/4/Choice/1
+> CONTEXT: Map187/events/26/pages/0/4/Choice/1
+> CONTEXT: Map192/events/8/pages/0/4/Choice/1
+> CONTEXT: Map193/events/25/pages/0/3/Choice/1
+> CONTEXT: Map193/events/27/pages/0/4/Choice/1
+> CONTEXT: Map274/events/5/pages/0/3/Choice/1
+> CONTEXT: Map274/events/8/pages/0/4/Choice/1
+> CONTEXT: Map278/events/12/pages/2/6/Choice/0
+> CONTEXT: Map278/events/13/pages/2/6/Choice/0
+> CONTEXT: Map283/events/25/pages/1/3/Choice/1
+> CONTEXT: Map283/events/25/pages/2/3/Choice/1
+> CONTEXT: Map288/events/4/pages/0/4/Choice/1
+Nothing#Dargoth
+> END STRING
+
+> BEGIN STRING
+うぐっ………！？
+> CONTEXT: CommonEvents_294/34/Dialogue/kazuya-0
+aghh.........! ?#MTLed
+> END STRING
+
+> BEGIN STRING
+僕は、身体に張り付いた糸を振りほどこうとしたが
+
+今までと違ってビクともしない……！
+> CONTEXT: CommonEvents_294/36/Dialogue
+I tried to shake the thread stuck to my body
+Unlike ever, I'm not even freaking ......!#MTLed
+> END STRING
+
+> BEGIN STRING
+アルケニーは……本気だ……！
+> CONTEXT: CommonEvents_294/40/Dialogue
+Archeny is...serious ...!#MTLed
+> END STRING
+
+> BEGIN STRING
+それとも………
+
+無様に大声で助けを求めてみるかい？
+> CONTEXT: CommonEvents_294/48/Dialogue/enemy10
+Or ......... Do you want to ask for help loudly?#MTLed
+> END STRING
+
+> BEGIN STRING
+ここはお前さんの精神の中なんだ
+
+ あるいは、誰か助けに来てくれるかもね…？
+> CONTEXT: CommonEvents_294/52/Dialogue/enemy10
+This is in your mind. Or maybe someone will come
+to help ...?#MTLed
+> END STRING
+
+> BEGIN STRING
+助けを呼ぶ
+> CONTEXT: CommonEvents_294/58/Choice/0
+Call for help#MTLed
+> END STRING
+
+> BEGIN STRING
+力の限り、大声で助けを呼んでみたが
+
+誰かが気づいて入ってくるような気配はない……
+> CONTEXT: CommonEvents_294/64/Dialogue
+As long as power, I tried to call for help
+There is no sign that someone is aware and coming in ...#MTLed
+> END STRING
+
+> BEGIN STRING
+あ………あぁ……
+> CONTEXT: CommonEvents_294/77/Dialogue/kazuya-0
+> CONTEXT: Map080/events/5/pages/1/373/Dialogue/kazuya-2
+Oh ......... Ah......#MTLed
+> END STRING
+
+> BEGIN STRING
+………あっけないねぇ
+
+悪魔の誘惑に屈せずにここまで生き延びた人間が
+心を許した悪魔に食われて死ぬなんて……
+> CONTEXT: CommonEvents_294/79/Dialogue/enemy10
+......I can not do it. A human who has survived
+to here without giving in to the temptation of
+demon. Don't die from being eaten by a demon who
+forgives your heart ......#MTLed
+> END STRING
+
+> BEGIN STRING
+この間際になっても、お前さんはこう考えてる…
+
+『ここまで仲良くなって、本気でやるはずがない。』
+ 『意識が戻れば、部屋のなかで目が覚める』
+> CONTEXT: CommonEvents_294/84/Dialogue/enemy10
+Even before this moment, you are thinking this
+way..."I'm getting along well here, I can't
+really do it. ". "If you return to consciousness,
+you will wake up in the room"#MTLed
+> END STRING
+
+> BEGIN STRING
+だけど残念だったねぇ……
+
+さっき、お前さんには間違える要因があった……
+分かってるだろう？
+> CONTEXT: CommonEvents_294/89/Dialogue/enemy10
+But it was disappointing...Earlier, you had a
+factor to make mistakes...Do you understand?#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[10]『選択肢』だよ……
+
+お前さんは、見事に選択肢を誤ったのさ…！
+> CONTEXT: CommonEvents_294/94/Dialogue/enemy10
+\\C[10]"Option". You are the wrong choice of choice ...!#MTLed
+> END STRING
+
+> BEGIN STRING
+あ……あぁ………
+> CONTEXT: CommonEvents_294/108/Dialogue/kazuya-0
+> CONTEXT: CommonEvents_407/11/Dialogue/kazuya-0
+> CONTEXT: CommonEvents_413/15/Dialogue/kazuya-0
+> CONTEXT: Troops/185/pages/0/78/Dialogue/kazuya-0
+> CONTEXT: Troops/206/pages/0/27/Dialogue/kazuya-0
+Ah...Ah.........#MTLed
+> END STRING
+
+> BEGIN STRING
+最期のチャンスをやるよ……
+
+もしかしたら、あたいの気が変わるかもね。
+> CONTEXT: CommonEvents_294/181/Dialogue/enemy10
+I will give the last chance ...
+Maybe it will change your mind.#MTLed
+> END STRING
+
+> BEGIN STRING
+恐怖に身を任せて、泣き叫んでみな……！
+
+『生きたい』とあたいに惨めに懇願するんだよ……！！
+> CONTEXT: CommonEvents_294/185/Dialogue/enemy10
+I leave myself to Afraid and cry and scream ...!
+"I want to live" and begging for misery to hate
+...! !#MTLed
+> END STRING
+
+> BEGIN STRING
+泣き叫ぶ
+> CONTEXT: CommonEvents_294/191/Choice/0
+Cry out#MTLed
+> END STRING
+
+> BEGIN STRING
+恐怖を堪える
+> CONTEXT: CommonEvents_294/191/Choice/1
+Bear Afraid#MTLed
+> END STRING
+
+> BEGIN STRING
+うわああああ！！助けてえ……！！
+
+い、命だけはぁ……！！
+> CONTEXT: CommonEvents_294/193/Dialogue/kazuya-4
+whaaaa! Help me ...!!No, only life is ......! !#MTLed
+> END STRING
+
+> BEGIN STRING
+いやだぁ……
+
+まだ…ぼ、僕にはやらなきゃいけないことがぁ…！！
+ 死にたく……ないよぉ…！
+> CONTEXT: CommonEvents_294/197/Dialogue/kazuya-4
+No way...Still...I have to do it for me ...!
+! I do not want to die...not......!#MTLed
+> END STRING
+
+> BEGIN STRING
+うぐぐっ……！！！！
+> CONTEXT: CommonEvents_294/204/Dialogue/kazuya-4
+unghngh......!!! !#MTLed
+> END STRING
+
+> BEGIN STRING
+僕は歯を食いしばり、アルケニーをまっすぐ見据えた。
+
+だが、沸き上がる恐怖に、身体の震えは止まらない…
+> CONTEXT: CommonEvents_294/206/Dialogue
+I squeezed my teeth and looked straight at Archeny.
+However, the shaking of the body does not stop at the
+boiling Afraid ...#MTLed
+> END STRING
+
+> BEGIN STRING
+あたいは言ったはずさ。
+
+ 『お前さんが、興味に見合う奴か見定める』って……
+> CONTEXT: CommonEvents_294/214/Dialogue/enemy10
+I must have said that. "I will see who you meet
+the interests of interest"......#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[1]………
+
+お前さんは、不合格さ…！！
+> CONTEXT: CommonEvents_294/218/Dialogue/enemy10
+\\N[1] ......... You are rejected ...!!#MTLed
+> END STRING
+
+> BEGIN STRING
+う………
+
+うわああああああああああっっ！
+> CONTEXT: CommonEvents_294/222/Dialogue/kazuya-4
+Uh ......... Wow ah ahh ahhhhh!#MTLed
+> END STRING
+
+> BEGIN STRING
+ククク……
+
+まるで母親にでもなった気分だよ……
+> CONTEXT: CommonEvents_294/294/Dialogue/enemy10
+Hehehe ...... I feel like I was a mother ......#MTLed
+> END STRING
+
+> BEGIN STRING
+これから永遠に、あたいの腹の中で過ごすのさ……
+
+寂しくないように、外からいつでも撫でてやるよ
+> CONTEXT: CommonEvents_294/298/Dialogue/enemy10
+From now on, I will spend forever in the belly of
+my heart...I will always boil from the outside
+so as not to be lonely#MTLed
+> END STRING
+
+> BEGIN STRING
+なんなら、子守唄でも歌ってやろうか？
+
+ゆっくり眠りな……
+> CONTEXT: CommonEvents_294/313/Dialogue/enemy10
+What would you like to sing with your lullaby?
+Sleep slowly ...#MTLed
+> END STRING
+
+> BEGIN STRING
+哀れな\\N[1]………
+> CONTEXT: CommonEvents_294/317/Dialogue/enemy10
+It is pathetic \\N[1] .........#MTLed
+> END STRING

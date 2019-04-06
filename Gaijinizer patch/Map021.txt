@@ -1,0 +1,180 @@
+﻿> GAIJINIZER PATCH FILE
+> BEGIN STRING
+裕真「あの事故の日から間もなくして、世界も大きく変わった
+　　　………『悪魔』との戦争が始まったんだ。」
+> CONTEXT: Map021/events/2/pages/0/24/Dialogue
+Yuuma「Soon after the day of the accident, the
+world also changed massively. ......... The war with
+demons began.」#Ron
+> END STRING
+
+> BEGIN STRING
+裕真「長期を想定して、コールドスリープまで設定したはずだったんだが…
+　　どうやらお前が何かしらの拍子に意識を取り戻したせいで
+　　機械が自動的に解凍してしまったんだろう。」
+> CONTEXT: Map021/events/2/pages/0/33/Dialogue
+Yuuma「It was supposed to be set up for long-term 
+cryogenic stasis. The machine you were in must have
+automatically thawed you out because it detected
+that you happened to regain conciousness.」#Ron
+> END STRING
+
+> BEGIN STRING
+裕真「そういうことだな……。
+　　　しかしさっきバーゲストが侵入してきた事もある。
+　　　お前を安全な場所に誘導する必要があるだろう。」
+> CONTEXT: Map021/events/2/pages/0/40/Dialogue
+Yuuma「That's the long and short of it... But the
+barghest invaded a little while ago. We'll need to
+guide you to a safe place.」#Ron
+> END STRING
+
+> BEGIN STRING
+裕真「\\N[1]。聞こえているか？
+　　今システムの復旧が完了した。この映像が見えているか？」
+> CONTEXT: Map021/events/2/pages/2/0/Dialogue
+Yuuma「\\N[1]. Are you hearing? System recovery is now
+complete. Can you see this picture?」#MTLed
+> END STRING
+
+> BEGIN STRING
+　　　　　　　　　正面の画面に映ったのは見慣れた男……
+
+　　　　　　　　　間違いなく、僕の友人の裕真だった。
+> CONTEXT: Map021/events/2/pages/2/4/Dialogue
+It was a familiar man that was seen on the front screen ...
+It was definitely my friend Yuuma.#MTLed
+> END STRING
+
+> BEGIN STRING
+あ、ああ！！聞こえているぜ！裕真！
+> CONTEXT: Map021/events/2/pages/2/13/Dialogue/kazuya
+Oh, yeah!! I can hear you, Yuuma!#Ron
+> END STRING
+
+> BEGIN STRING
+
+　　　　裕真は涙声になりながら、画面越しにこちらを凝視している。
+
+　　　　　この男の生真面目さは、相変わらずだ。
+> CONTEXT: Map021/events/2/pages/2/21/Dialogue
+
+Yuuma gets choked up while staring at me through the
+screen. This guy's as sincere as ever.#Ron
+> END STRING
+
+> BEGIN STRING
+そういうことだな。
+ここの安全を確保しておくためにも、すまんが俺からはそこに
+救助に行くことは出来ない。
+> CONTEXT: Map021/events/2/pages/2/62/Dialogue/yuuma
+Pretty much. And I'm sorry but to ensure this
+place remains secure, I can't come rescue you.#Ron
+> END STRING
+
+> BEGIN STRING
+まずはそこから脱出してくれ。
+確か病棟区画は、地上へ続くエレベーターがあったはずだ。
+そこを目指してみてくれ。
+> CONTEXT: Map021/events/2/pages/2/66/Dialogue/yuuma
+First things first, find a way out of there.
+If I remember correctly, there should be an
+elevator that goes above ground in that hospital
+section. Try looking for that.#Ron
+> END STRING
+
+> BEGIN STRING
+ただ、奴らの発生させる『結界』が厄介でな…‥。
+\\c[2]戦闘中や、悪魔に気付かれている時は、無線が通じないから
+注意してくれ。
+> CONTEXT: Map021/events/2/pages/2/78/Dialogue/yuuma
+However, the "barrier" that they generate is
+troublesome ...... \\c[2]During battle or when you are
+aware of demons, the radio will not communicate
+Please be careful.#MTLed
+> END STRING
+
+> BEGIN STRING
+………お前が動けないんじゃしょうがない…か…。
+分かった。なんとかやってみるよ。
+> CONTEXT: Map021/events/2/pages/2/82/Dialogue/kazuya
+......You can't move...I can not help ...
+.... I understood. I will try to do something.#MTLed
+> END STRING
+
+> BEGIN STRING
+まずは、\\c[2]エレベーターまで向かうんだったな。
+\\c[0]ナビゲーション、しっかり頼むぜ、裕真。
+> CONTEXT: Map021/events/2/pages/2/85/Dialogue/kazuya
+First of all,\\c[2] I was going to the elevator.
+\\c[0]Navigation, ask me well, Yuuma.#MTLed
+> END STRING
+
+> BEGIN STRING
+お帰りなさいませ。
+
+どうやら『武器』を手に入れたようですね。
+> CONTEXT: Map021/events/3/pages/1/84/Dialogue/other1
+Welcome, home. It looks like you got a "weapon".#MTLed
+> END STRING
+
+> BEGIN STRING
+武器での攻撃方法は簡単です。
+
+ですが、\\C[2]銃の弾数は注意してくださいね。
+> CONTEXT: Map021/events/3/pages/1/88/Dialogue/other1
+Attacking with weapons is easy.
+but,\\C[2] Please be careful about the number of
+bullets.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]リロードはメニュー画面のスキルからでも可能です。
+
+次の戦闘で心許ないのなら装填しておくべきですね
+> CONTEXT: Map021/events/3/pages/1/92/Dialogue/other1
+\\C[2]Reloading is also possible from the menu screen
+skills. Should be loaded in the next battle, if
+you're sorry#MTLed
+> END STRING
+
+> BEGIN STRING
+悪魔との初戦闘お疲れさん。
+
+後ろにある穴から\\C[2]『休憩所』\\C[0]に行けるようになったぞ。
+> CONTEXT: Map021/events/3/pages/1/96/Dialogue/クッション君
+Thank you for your first battle with demon.
+From the hole behind\\C[2] "Rest area"\\C[0] I was able to go
+to#MTLed
+> END STRING
+
+> BEGIN STRING
+休憩所ではベッドによる体力の全回復をはじめとして
+
+いろいろな戦闘準備を整える重要な部屋だ。
+> CONTEXT: Map021/events/3/pages/1/101/Dialogue/クッション君
+At rest areas, including recovery of all the
+strength of the bed. It is an important room to
+prepare for various battles.#MTLed
+> END STRING
+
+> BEGIN STRING
+まぁ口でグダグダ説明するより、実際見た方が早いな。
+
+まずは行ってみるといいさ。
+> CONTEXT: Map021/events/3/pages/1/105/Dialogue/クッション君
+Well, it is actually faster to see than explain
+exhaustively. First of all, it is good to go.#MTLed
+> END STRING
+
+> BEGIN STRING
+この地下シェルターが悪魔どもに感づかれたらしい
+この病院区画だけでも隔離して隠し通しておきたいが
+
+俺は………恐らく時間の問題だと思う。
+> CONTEXT: Map021/events/5/pages/1/6/Dialogue
+It seems the demons sensed the location of this 
+underground shelter. I'd like to completely isolate
+and conceal this hospital section but...
+I guess it's probably just a matter of time.#Ron
+> END STRING

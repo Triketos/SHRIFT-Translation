@@ -1,0 +1,186 @@
+﻿> GAIJINIZER PATCH FILE
+> BEGIN STRING
+ヤッホー、元気ぃ？
+> CONTEXT: CommonEvents_95/0/Dialogue/enemy
+hey!#MTLed
+> END STRING
+
+> BEGIN STRING
+ねぇねぇ！そう警戒しないでよ♪
+
+今日はあなたにとっておきのモノをあげる！
+> CONTEXT: CommonEvents_95/2/Dialogue/enemy
+Heeey! Don't be so alarmed. ♪ I'm gonna give
+you some stuff today!#Ron
+> END STRING
+
+> BEGIN STRING
+あまーい蜜で作ったランパスドロップ！
+
+もちろん、私のハンドメイドだよ♪
+> CONTEXT: CommonEvents_95/6/Dialogue/enemy
+It's a lampas drop made with sweeeet nectar!
+And of course, I made it myself. ♪#Ron
+> END STRING
+
+> BEGIN STRING
+ほらっ、私が口に放ってあげるからさ
+
+ おひとつどーぞ♡
+> CONTEXT: CommonEvents_95/12/Dialogue/enemy
+Go on, I'll pop it in your mouth.
+Have one... ♡#Ron
+> END STRING
+
+> BEGIN STRING
+食べる
+> CONTEXT: CommonEvents_95/16/Choice/0
+Eat#Ron
+> END STRING
+
+> BEGIN STRING
+遠慮する
+> CONTEXT: CommonEvents_95/16/Choice/1
+> CONTEXT: Map063/events/76/pages/1/19/Choice/1
+> CONTEXT: Map063/events/76/pages/2/19/Choice/1
+Decline#Ron
+> END STRING
+
+> BEGIN STRING
+\\N[1]は、言われるままにランパスのアメをひとつ
+
+口のなかに入れて舐めてみた………
+> CONTEXT: CommonEvents_95/18/Dialogue
+As the lampas said, \\N[1] put one of the
+candies in his mouth and tried tasting it.#Ron
+> END STRING
+
+> BEGIN STRING
+
+…………………とても甘くて美味しい！
+> CONTEXT: CommonEvents_95/25/Dialogue
+...... Very sweet and delicious!#MTLed
+> END STRING
+
+> BEGIN STRING
+アハハッ♪だよねぇ！
+
+当然でしょ？薬にもなる『ランパスドロップ』だもん♡
+> CONTEXT: CommonEvents_95/28/Dialogue/enemy
+Ahahah♪Oh yeah! Of course not?'Lampas Drop' is
+also a medicine.#MTLed
+> END STRING
+
+> BEGIN STRING
+えへへ、ホントは鬼っ子の商人ちゃんに売るために
+
+暇潰しで作ってたんだけど、不恰好なの出来ちゃってさ
+> CONTEXT: CommonEvents_95/32/Dialogue/enemy
+> CONTEXT: CommonEvents_95/86/Dialogue/enemy
+Ehehe, I actually wanted to make them to sell to
+that demon merchant girl, just to kill some time.
+But they came out all misshapen.#Ron
+> END STRING
+
+> BEGIN STRING
+丁度どうしようかって迷ってたんだぁ
+
+良かったら、これもあげるね♡
+> CONTEXT: CommonEvents_95/36/Dialogue/enemy
+> CONTEXT: CommonEvents_95/90/Dialogue/enemy
+I wasn't really sure what to do with them.
+I'll give you these as well if you don't mind. ♡#Ron
+> END STRING
+
+> BEGIN STRING
+
+　　ランパスから、ランパスドロップを貰った。
+> CONTEXT: CommonEvents_95/41/Dialogue
+I got Lampas Drop from Lampas.#MTLed
+> END STRING
+
+> BEGIN STRING
+
+…………なんだか、身体が熱い……！！
+> CONTEXT: CommonEvents_95/58/Dialogue
+
+............ My body's kinda warm......!!#Ron
+> END STRING
+
+> BEGIN STRING
+どう？どう？
+
+ 感想聞いてもいいかな？
+> CONTEXT: CommonEvents_95/63/Dialogue/enemy
+So? So? Can I get your impression?#Ron
+> END STRING
+
+> BEGIN STRING
+なんか変
+> CONTEXT: CommonEvents_95/67/Choice/0
+Something strange#MTLed
+> END STRING
+
+> BEGIN STRING
+おいしい
+> CONTEXT: CommonEvents_95/67/Choice/1
+> CONTEXT: Items/517/description
+Delicious#afrg
+> END STRING
+
+> BEGIN STRING
+アハハッ♪そりゃそうだよ
+
+それ、ランパスシロップだもん
+> CONTEXT: CommonEvents_95/69/Dialogue/enemy
+Ahahah♪That's right. That's Lampas Syrup#MTLed
+> END STRING
+
+> BEGIN STRING
+ほぉら………だんだん私に抱かれたくなってきた♡♡
+> CONTEXT: CommonEvents_95/78/Dialogue/enemy
+Hmmm...... I'm getting jealous of me#MTLed
+> END STRING
+
+> BEGIN STRING
+アハハッ♪だよねぇ！
+
+実は今回の、味には結構自信あったんだぁ♡
+> CONTEXT: CommonEvents_95/82/Dialogue/enemy
+Ahahah♪ I know right!
+Actually, this time, I was pretty confident in
+the taste. ♡#Ron
+> END STRING
+
+> BEGIN STRING
+
+　　ランパスから、ランパス…『シロップ』を貰った。
+> CONTEXT: CommonEvents_95/95/Dialogue
+
+I got lampas "syrup" from the lampas.#Ron
+> END STRING
+
+> BEGIN STRING
+そう………なら、仕方ないわね。
+> CONTEXT: CommonEvents_95/111/Dialogue/enemy
+Yes...... I can not help it.#MTLed
+> END STRING
+
+> BEGIN STRING
+まぁいいや、ちょっと喜んでもらおうかなって思ったけど…
+
+またの機会にするね。
+> CONTEXT: CommonEvents_95/114/Dialogue/enemy
+well, enough, I thought it would be a little
+delighted...I will have another chance.#MTLed
+> END STRING
+
+> BEGIN STRING
+やっぱアメなんかじゃ満足できないよね♪
+
+濃ぉい原液を、たっぷり飲ませてあげる
+> CONTEXT: CommonEvents_95/130/Dialogue/enemy
+After all you can not be satisfied with something
+like candy♪. I will drink plenty of concentrated
+concentrate#MTLed
+> END STRING

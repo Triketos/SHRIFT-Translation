@@ -1,0 +1,824 @@
+﻿> GAIJINIZER PATCH FILE
+> BEGIN STRING
+あらゆるウイルスから身を守る特殊な患者衣。
+さすがに服を脱がされ肌に直接触れられると効果が無い。
+> CONTEXT: Armors/1/description
+> CONTEXT: Armors/2/description
+> CONTEXT: Armors/3/description
+> CONTEXT: Armors/5/description
+A special hospital gown that protects the skin against
+viruses. It becomes ineffective went taken off.#DargothPR
+> END STRING
+
+> BEGIN STRING
+患者衣
+> CONTEXT: Armors/1/name
+Hospital Gown#Dargoth
+> END STRING
+
+> BEGIN STRING
+患者衣（ＥＡＳＹ）
+> CONTEXT: Armors/2/name
+Hospital Gown (Easy)#Dargoth
+> END STRING
+
+> BEGIN STRING
+患者衣（ＨＡＲＤ）
+> CONTEXT: Armors/3/name
+Hospital Gown (Hard)#Dargoth
+> END STRING
+
+> BEGIN STRING
+これを装備してゲームオーバーになると
+クッション君の居る『冥府の間』でやり直せる。
+> CONTEXT: Armors/4/description
+With this equipped, you will return to Mr. Cushion's
+office in hell instead of getting a game over.#Dargoth
+> END STRING
+
+> BEGIN STRING
+冥府の免罪符
+> CONTEXT: Armors/4/name
+Hell's Indulgence#Dargoth
+> END STRING
+
+> BEGIN STRING
+患者衣（BYS）
+> CONTEXT: Armors/5/name
+Hospital Gown (Spectator)#Dargoth
+> END STRING
+
+> BEGIN STRING
+装備すると能力値増加
+> CONTEXT: Armors/7/description
+Increases abilites when equipped.#afrgPR
+> END STRING
+
+> BEGIN STRING
+デバッグ
+> CONTEXT: Armors/7/name
+> CONTEXT: Skills/636/name
+> CONTEXT: Troops/220/name
+Debug#afrg
+> END STRING
+
+> BEGIN STRING
+暗い周囲を照らすことが出来る。
+両手で使う武器とは一緒に持てない。
+> CONTEXT: Armors/9/description
+Provides light in dark areas.
+Cannot be held with a two-handed weapon.#Dargoth
+> END STRING
+
+> BEGIN STRING
+ランタン
+> CONTEXT: Armors/9/name
+Lantern#Dargoth
+> END STRING
+
+> BEGIN STRING
+十字サイトが付いたシンプルなスコープ。
+ハンドガンの命中率が少し上昇する。
+> CONTEXT: Armors/10/description
+Simple scope with a crosshair sight.
+Slightly raises handgun accuracy.#Dargoth
+> END STRING
+
+> BEGIN STRING
+スコープ
+> CONTEXT: Armors/10/name
+Scope#Dargoth
+> END STRING
+
+> BEGIN STRING
+バトル中にのみ、マガジンを2つ消費してリロードを行う。
+一度装填したら、この装備を外しても装弾数は維持される。
+> CONTEXT: Armors/11/description
+> CONTEXT: Armors/12/description
+Combines two magazines when reloading in battle only.
+Will maintain bullet count even if unequipped after.#Dargoth
+> END STRING
+
+> BEGIN STRING
+大容量弾倉（ハンドガン）
+> CONTEXT: Armors/11/name
+High-capacity Mag (Handgun)#Dargoth
+> END STRING
+
+> BEGIN STRING
+大容量弾倉（マシンガン）
+> CONTEXT: Armors/12/name
+High-capacity Mag (Machine Gun)#Dargoth
+> END STRING
+
+> BEGIN STRING
+ブレを安定させる取り付け式のストック。
+マシンピストルの命中率が上昇する。
+> CONTEXT: Armors/13/description
+A stock made to increase stability.
+Raises machine pistol accuracy.#Dargoth
+> END STRING
+
+> BEGIN STRING
+ストック
+> CONTEXT: Armors/13/name
+Stock#Dargoth
+> END STRING
+
+> BEGIN STRING
+悪魔弾に込められた魔力を増幅させる消音器型魔具。
+ハンドガンの威力を上げる。
+> CONTEXT: Armors/14/description
+A muzzle mod which infuse anti-monster magic into bullets.
+Increases the handgun attack power.#afrgPR
+> END STRING
+
+> BEGIN STRING
+パワーバレル
+> CONTEXT: Armors/14/name
+Power Barrel#afrg
+> END STRING
+
+> BEGIN STRING
+術式が施されたハンドガン用装飾フレーム。
+自身の魔法攻撃力を大きく上げる。
+> CONTEXT: Armors/15/description
+A decorative frame for the handgun that has undergone a
+technique. Increase your magic Attack power greatly.#MTLed
+> END STRING
+
+> BEGIN STRING
+マジックフレーム
+> CONTEXT: Armors/15/name
+Magic frame#MTLed
+> END STRING
+
+> BEGIN STRING
+ミョルニル専用強化フレーム。
+攻撃力を増加させる。
+> CONTEXT: Armors/16/description
+mjolnir dedicated reinforcement frame. Attack force
+increases.#MTLed
+> END STRING
+
+> BEGIN STRING
+ドラゴンファング
+> CONTEXT: Armors/16/name
+Dragon Fang#Lvl1
+> END STRING
+
+> BEGIN STRING
+儀礼用短剣。魔を退ける力がある。
+だがその効力は微少。
+> CONTEXT: Armors/20/description
+Ceremonial dagger that repels demons.
+Its effect is negligible, however.#Dargoth
+> END STRING
+
+> BEGIN STRING
+ナイトエッジ
+> CONTEXT: Armors/20/name
+> CONTEXT: Skills/710/name
+Night Edge#Dargoth
+> END STRING
+
+> BEGIN STRING
+これを装備して妲己に挑むと
+『アルラウネ・フォーム』から挑むことが出来る。
+> CONTEXT: Armors/23/description
+If you equip this and challenge Daiji. We can challenge
+from "alraune form".#MTLed
+> END STRING
+
+> BEGIN STRING
+植物のカード
+> CONTEXT: Armors/23/name
+Plant card#MTLed
+> END STRING
+
+> BEGIN STRING
+これを装備して妲己に挑むと
+『ビースト・フォーム』から挑むことが出来る。
+> CONTEXT: Armors/24/description
+If you equip this and challenge Daiji. We can challenge
+from "beast form".#MTLed
+> END STRING
+
+> BEGIN STRING
+野獣のカード
+> CONTEXT: Armors/24/name
+Beast card#MTLed
+> END STRING
+
+> BEGIN STRING
+これを装備して妲己に挑むと
+『ジェル・フォーム』から挑むことが出来る。
+> CONTEXT: Armors/25/description
+If you equip this and challenge Daiji. You can challenge
+from "gel form".#MTLed
+> END STRING
+
+> BEGIN STRING
+舞踏のカード
+> CONTEXT: Armors/25/name
+Dance card#MTLed
+> END STRING
+
+> BEGIN STRING
+純銀で出来た指輪。意志の強さを表す。
+抵抗力が毎ターン５％回復する。
+> CONTEXT: Armors/40/description
+A ring of pure silver that represents strength of will.
+Restores 5% willpower per turn.#Dargoth
+> END STRING
+
+> BEGIN STRING
+シルバーリング
+> CONTEXT: Armors/40/name
+Silver Ring#Dargoth
+> END STRING
+
+> BEGIN STRING
+黒ずんで元は何色だったかすら識別できないリング。
+気力が毎ターン５％回復する。
+> CONTEXT: Armors/41/description
+A ring so tarnished you can't guess its original color.
+Restores 5% vitality per turn.#Dargoth
+> END STRING
+
+> BEGIN STRING
+古びたリング
+> CONTEXT: Armors/41/name
+Old ring#Dargoth
+> END STRING
+
+> BEGIN STRING
+真っ赤なスカーフ。
+装備中、抵抗力の最大値が上昇する。
+> CONTEXT: Armors/42/description
+Bright red scarf.
+Raises maximum willpower.#Dargoth
+> END STRING
+
+> BEGIN STRING
+赤いスカーフ
+> CONTEXT: Armors/42/name
+Red Scarf#Dargoth
+> END STRING
+
+> BEGIN STRING
+緑色のスカーフ。
+装備中、気力の最大値が上昇する。
+> CONTEXT: Armors/43/description
+A green scarf.
+Raises maximum vitality.#Dargoth
+> END STRING
+
+> BEGIN STRING
+緑のスカーフ
+> CONTEXT: Armors/43/name
+Green Scarf#Dargoth
+> END STRING
+
+> BEGIN STRING
+ある程度頑丈に出来た籠手。
+物理ダメージを軽減させ、『出血』しにくくなる。
+> CONTEXT: Armors/44/description
+A rather sturdy guantlet.
+Reduces physical damage and chances of bleeding.#DargothPR
+> END STRING
+
+> BEGIN STRING
+ガントレット
+> CONTEXT: Armors/44/name
+Gauntlet#Dargoth
+> END STRING
+
+> BEGIN STRING
+バーゲストが大事にしている、ヘカーテとの主従関係の証。
+武器の攻撃力を上昇させる。
+> CONTEXT: Armors/45/description
+\\}Evidence of a master-detail relationship with Hecate, which barghest takes care of.
+Increase your weapon's attack power.#MTLed
+> END STRING
+
+> BEGIN STRING
+バーゲストの首輪
+> CONTEXT: Armors/45/name
+Barghest Collar#Dargoth
+> END STRING
+
+> BEGIN STRING
+ありがたいおまもり。
+外に射精時、３０％の確率で『朦朧』が解除される。
+> CONTEXT: Armors/46/description
+Thank you very much. When ejaculating outside, "Dazed" is
+released with a probability of 30%.#MTLed
+> END STRING
+
+> BEGIN STRING
+幸運の御守り
+> CONTEXT: Armors/46/name
+Good Luck Charm#Dargoth
+> END STRING
+
+> BEGIN STRING
+ありがたいおまもり。
+『虜』から『エサ』に重複するのを防いでくれる。
+> CONTEXT: Armors/47/description
+A lucky charm.
+Protects from repetition of [Enslaved] to [Food].#DargothPR
+> END STRING
+
+> BEGIN STRING
+意志の御守り
+> CONTEXT: Armors/47/name
+Will Charm#Dargoth
+> END STRING
+
+> BEGIN STRING
+邪を払う音色を放つ清らかな鈴。
+装備していると、エンカウント戦闘が起きにくくなる。
+> CONTEXT: Armors/48/description
+Bell that rings with a pure sound to drive
+off evil. Reduces encounter rate.#Dargoth
+> END STRING
+
+> BEGIN STRING
+魔除けの鈴
+> CONTEXT: Armors/48/name
+Monster Warding Bell#Dargoth
+> END STRING
+
+> BEGIN STRING
+身につけると身体が闘争を求め始める首飾り。
+武器攻撃力が上がるが、性欲が伸びやすくなる。
+> CONTEXT: Armors/49/description
+A choker that makes your body craves for battle.
+Increases weapon attack but raises lust.#DargothPR
+> END STRING
+
+> BEGIN STRING
+闘心の首飾り
+> CONTEXT: Armors/49/name
+Fighting Spirit Choker#Dargoth
+> END STRING
+
+> BEGIN STRING
+不思議な魔力の宿った勾玉。
+少し魔力が上がる。
+> CONTEXT: Armors/50/description
+A magatama with mysterious magical power.
+Slightly increases magic attack.#Dargoth
+> END STRING
+
+> BEGIN STRING
+魔力の勾玉
+> CONTEXT: Armors/50/name
+Magic Magatama#Dargoth
+> END STRING
+
+> BEGIN STRING
+不思議な魔力の宿った勾玉。
+少し敏捷が上がる。
+> CONTEXT: Armors/51/description
+A magatama with mysterious magical power.
+Slightly increases agility.#Dargoth
+> END STRING
+
+> BEGIN STRING
+敏捷の勾玉
+> CONTEXT: Armors/51/name
+Agile Magatama#Dargoth
+> END STRING
+
+> BEGIN STRING
+オレンジ色のスカーフ。
+装備中、抵抗と気力の最大値が上昇する。
+> CONTEXT: Armors/52/description
+An orange scarf.
+Raises both maximum willpower and vitality.#Dargoth
+> END STRING
+
+> BEGIN STRING
+橙のスカーフ
+> CONTEXT: Armors/52/name
+Orange Scarf#Dargoth
+> END STRING
+
+> BEGIN STRING
+アイアンメイデンの一部で練成した黒ずくめの着衣。
+> CONTEXT: Armors/53/description
+Black clothes made from a part of the Iron Maiden.#Dargoth
+> END STRING
+
+> BEGIN STRING
+失楽の黒衣
+> CONTEXT: Armors/53/name
+Condemned Clothes#Dargoth
+> END STRING
+
+> BEGIN STRING
+これを装備したままピンクのベッドで寝ると
+確実に夢の中で襲われるようになる。
+> CONTEXT: Armors/54/description
+Guarantees that you'll be attacked when
+you sleep in a pink bed.#Dargoth
+> END STRING
+
+> BEGIN STRING
+夢魔の呼び鈴
+> CONTEXT: Armors/54/name
+Succubus Bell#Dargoth
+> END STRING
+
+> BEGIN STRING
+しっかりした素材で出来た上着。
+物理ダメージと、『パニック』にかかる確率を軽減する。
+> CONTEXT: Armors/55/description
+A sturdy jacket.
+Reduces physical damages and resists [Panic].#afrgPR
+> END STRING
+
+> BEGIN STRING
+サバイバルベスト
+> CONTEXT: Armors/55/name
+Survival vest#MTLed
+> END STRING
+
+> BEGIN STRING
+防水効果のある水弾きのシャツ。
+『愛液まみれ』にならなくなる。
+> CONTEXT: Armors/56/description
+Waterproof shirt protecting from fluid jets.
+Prevent being soaked with love juices.#afrgPR
+> END STRING
+
+> BEGIN STRING
+プロテクトシャツ
+> CONTEXT: Armors/56/name
+Protective Shirt#afrg
+> END STRING
+
+> BEGIN STRING
+実用性の高い作業用手袋。
+誘惑による自分からの『全裸』になりにくくなる。
+> CONTEXT: Armors/57/description
+Very practical work gloves.
+It becomes easy to resist getting naked.#afrg
+> END STRING
+
+> BEGIN STRING
+コーデグローブ
+> CONTEXT: Armors/57/name
+Pair of Gloves#afrgPR
+> END STRING
+
+> BEGIN STRING
+敏捷が上昇する靴。
+特に普通の靴と変わらないような気がするが…
+> CONTEXT: Armors/58/description
+Shoes which increase agility.
+They look just like normal boots...#afrg
+> END STRING
+
+> BEGIN STRING
+快速シューズ
+> CONTEXT: Armors/58/name
+High-Speed Boots#afrg
+> END STRING
+
+> BEGIN STRING
+狸が変化するときに使うとされている葉。
+快楽での攻撃のダメージを少しだけ軽減する。
+> CONTEXT: Armors/59/description
+Tanuki's leaf believed to be used for transformation.
+Slightly reduces pleasure attack damage.#afrgPR
+> END STRING
+
+> BEGIN STRING
+妖狸の変化葉
+> CONTEXT: Armors/59/name
+Tanuki's Magical Leaf#afrg
+> END STRING
+
+> BEGIN STRING
+いつでもマザーラビットの温もりを感じられる。
+魔法攻撃に対して大幅な耐性を得る。
+> CONTEXT: Armors/60/description
+So you can always feel Mother Rabbit's warmth.
+Greatly resists magical attacks.#afrg
+> END STRING
+
+> BEGIN STRING
+モフモフマント
+> CONTEXT: Armors/60/name
+Fluffy Hoodie#afrgPR
+> END STRING
+
+> BEGIN STRING
+躯の静まった想いが詰められた宝玉。
+『精神統一』の際に、性欲が下がる値が１０加算される。
+> CONTEXT: Armors/61/description
+A jewel which Mukuro filled with serenity.
+[Concentrate] removes lust by an additional 10 points.#afrgPR
+> END STRING
+
+> BEGIN STRING
+鎮魂玉
+> CONTEXT: Armors/61/name
+Soul Repose Gem#afrg
+> END STRING
+
+> BEGIN STRING
+ハルの遠い昔の思い出の品。千切れていて首には付けられない。
+毎ターン抵抗と気力が５％ずつ回復する。
+> CONTEXT: Armors/62/description
+An old keepsake from Haru which can no longer be worn.
+Regenerates 5% Vitality and Willpower per turn.#afrgPR
+> END STRING
+
+> BEGIN STRING
+猫の鈴首輪
+> CONTEXT: Armors/62/name
+Cat Bell Collar#afrgPR
+> END STRING
+
+> BEGIN STRING
+ニーナが昔、何故か大事に持っていたものらしい。
+魔法力が大幅に下がるが、抵抗力が大幅に上がる。
+> CONTEXT: Armors/63/description
+The previous Nina appears to have been attached to it.
+Greatly increases Willpower while greatly lowering Magic.#afrgPR
+> END STRING
+
+> BEGIN STRING
+約束の頭飾り
+> CONTEXT: Armors/63/name
+Tiara of Destiny#afrg
+> END STRING
+
+> BEGIN STRING
+マザーラビットの毛皮で作られたマント。血生臭い。
+魔法攻撃に対して大幅な耐性を得る。
+> CONTEXT: Armors/64/description
+A mantle made from Mother Rabbit's fur. It's bloody.
+Offer great protection against magic attacks.#afrgPR
+> END STRING
+
+> BEGIN STRING
+血塗れのマント
+> CONTEXT: Armors/64/name
+Bloody Mantle#afrgPR
+> END STRING
+
+> BEGIN STRING
+ネコマタの革で作られた三味線。
+全裸にならなくなる。
+> CONTEXT: Armors/65/description
+A samisen made from Nekomata leather.
+Prevents clothes stripping.#afrgPR
+> END STRING
+
+> BEGIN STRING
+魔猫の三味線
+> CONTEXT: Armors/65/name
+Cat Demon's Samisen#afrgPR
+> END STRING
+
+> BEGIN STRING
+ニーナのリボンから生成された。何故かはよく分からない。
+攻撃力と魔法力が上がる。
+> CONTEXT: Armors/66/description
+Made from Nina's ribbon. You don't see the point.
+Increases attack and magic power.#afrg
+> END STRING
+
+> BEGIN STRING
+古びたロザリオ
+> CONTEXT: Armors/66/name
+Old Rosary#afrg
+> END STRING
+
+> BEGIN STRING
+エコーのナメクジ部分の粘液。
+相手の身体を突き飛ばした際、抵抗と気力を５０％回復する。
+> CONTEXT: Armors/67/description
+Mucus in the slug portion of Echo. When the opponent's body
+is knocked out, restore 50% of the struggle and vitality.#MTLed
+> END STRING
+
+> BEGIN STRING
+粘液クリーム
+> CONTEXT: Armors/67/name
+> CONTEXT: Skills/591/name
+Mucus Cream#afrg
+> END STRING
+
+> BEGIN STRING
+宝石と反応し、様々な効果をもたらす結晶体。
+『作業台』で宝石と組み合わせると効果を発揮する。
+> CONTEXT: Armors/68/description
+\\}Crystals that react with gems and produce various effects.
+It exerts an effect when it is combined with gems on the "workbench".#MTLed
+> END STRING
+
+> BEGIN STRING
+結晶霊石
+> CONTEXT: Armors/68/name
+Magic Stone#afrg
+> END STRING
+
+> BEGIN STRING
+戦闘開始時、『ホットリミット(Lv3)』が発動する。
+＊気力を消費する。
+> CONTEXT: Armors/69/description
+Starts battles with [Limit Break (Lv3)].
+*Consumes Vitality.#afrgPR
+> END STRING
+
+> BEGIN STRING
+灼熱霊石
+> CONTEXT: Armors/69/name
+Scorching Magic Stone#afrg
+> END STRING
+
+> BEGIN STRING
+戦闘開始時、『シルフストーム(Lv2)』が発動する。
+＊気力を消費する。
+> CONTEXT: Armors/70/description
+Starts battles with [Sylph Storm (Lv2)].
+*Consumes Vitality.#afrgPR
+> END STRING
+
+> BEGIN STRING
+瞬風霊石
+> CONTEXT: Armors/70/name
+Flickering Magic Stone#afrgPR
+> END STRING
+
+> BEGIN STRING
+戦闘開始時、『クールカーム(Lv3)』が発動する。
+＊気力を消費する。
+> CONTEXT: Armors/71/description
+Starts battles with [Cool Calm (Lv3) (Lv3)].
+*Consumes Vitality.#afrgPR
+> END STRING
+
+> BEGIN STRING
+凍結霊石
+> CONTEXT: Armors/71/name
+Frozen Magic Stone#afrg
+> END STRING
+
+> BEGIN STRING
+エコーの粘液を使った、人間らしい感覚を抑える妖薬。
+性欲上昇率が半減する。
+> CONTEXT: Armors/72/description
+Strange medicine from Echo's mucus that numbs human senses.
+Halves Lust gain.#afrgPR
+> END STRING
+
+> BEGIN STRING
+熔怪クリーム
+> CONTEXT: Armors/72/name
+Mystery Cream#afrg
+> END STRING
+
+> BEGIN STRING
+アルケニーの糸で織られた呪われている羽織。
+> CONTEXT: Armors/73/description
+Cursed haori made from Archeny's webbing.#afrgPR
+> END STRING
+
+> BEGIN STRING
+髑髏羽織
+> CONTEXT: Armors/73/name
+Skeletal haori#MTLed
+> END STRING
+
+> BEGIN STRING
+ティタノボアの身体で作られた盾。
+全ての攻撃を半減する。
+> CONTEXT: Armors/74/description
+Shield made from Titanboa's body.
+Halves damages.#afrgPR
+> END STRING
+
+> BEGIN STRING
+スケイルシールド
+> CONTEXT: Armors/74/name
+Scaly Shield#afrg
+> END STRING
+
+> BEGIN STRING
+敏捷と魔法力が上昇する羽根。
+ただし雷・氷魔法に対する耐性が少し減少する、
+> CONTEXT: Armors/75/description
+A blade of agility and magical power rising. However,
+resistance to lightning and ice magic is slightly reduced,#MTLed
+> END STRING
+
+> BEGIN STRING
+妖鳥の羽根
+> CONTEXT: Armors/75/name
+Sow feather#MTLed
+> END STRING
+
+> BEGIN STRING
+カマソッソの尻尾のエキスを抽出した液体。
+ほぼ『恍惚』にならなくなる
+> CONTEXT: Armors/76/description
+Liquid extracted from the extract of the tail of Camazotz. 
+It almost ceases to be 'ecstasy'#MTLed
+> END STRING
+
+> BEGIN STRING
+寄生汁
+> CONTEXT: Armors/76/name
+Parasitic juice#MTLed
+> END STRING
+
+> BEGIN STRING
+これを装備してベッドで眠ると、箱の閉鎖空間に引き込まれる。
+該当の悪魔が\\C[2]襲ってくる。逃げ場はない。敗北時は心蝕される。
+> CONTEXT: Armors/200/description
+> CONTEXT: Armors/201/description
+> CONTEXT: Armors/202/description
+> CONTEXT: Armors/203/description
+> CONTEXT: Armors/204/description
+> CONTEXT: Armors/205/description
+> CONTEXT: Armors/207/description
+> CONTEXT: Armors/208/description
+> CONTEXT: Armors/209/description
+> CONTEXT: Armors/210/description
+> CONTEXT: Armors/211/description
+Upon sleeping, the named monster will
+attack and devour you. \\C[2]There is no escape.#Dargoth
+> END STRING
+
+> BEGIN STRING
+青銅の箱【バーゲスト】
+> CONTEXT: Armors/200/name
+Bronze Box [Barghest]#Dargoth
+> END STRING
+
+> BEGIN STRING
+青銅の箱【ランパス】
+> CONTEXT: Armors/201/name
+Bronze Box [Lampas]#Dargoth
+> END STRING
+
+> BEGIN STRING
+青銅の箱【アイアンメイデン】
+> CONTEXT: Armors/202/name
+Bronze Box [Iron Maiden]#Dargoth
+> END STRING
+
+> BEGIN STRING
+青銅の箱【エンプーサ】
+> CONTEXT: Armors/203/name
+Bronze Box [Empuse]#Dargoth
+> END STRING
+
+> BEGIN STRING
+青銅の箱【マザーラビット】
+> CONTEXT: Armors/204/name
+Bronze Box [Mother Rabbit]#afrg
+> END STRING
+
+> BEGIN STRING
+青銅の箱【躯】
+> CONTEXT: Armors/205/name
+Bronze Box [Mukuro]#afrg
+> END STRING
+
+> BEGIN STRING
+青銅の箱【エコー】
+> CONTEXT: Armors/207/name
+Bronze Box 【Echo】#afrg
+> END STRING
+
+> BEGIN STRING
+青銅の箱【アルケニー】
+> CONTEXT: Armors/208/name
+Bronze Box [Archeny]#afrgPR
+> END STRING
+
+> BEGIN STRING
+青銅の箱【アコニー】
+> CONTEXT: Armors/209/name
+Bronze Box [Aconitum]#afrgPR
+> END STRING
+
+> BEGIN STRING
+青銅の箱【カマソッソ】
+> CONTEXT: Armors/210/name
+Bronze box 【Camazotz】#MTLed
+> END STRING
+
+> BEGIN STRING
+青銅の箱【妲己】
+> CONTEXT: Armors/211/name
+Bronze box 【Daiji】#MTLed
+> END STRING

@@ -1,0 +1,1319 @@
+﻿> GAIJINIZER PATCH FILE
+> BEGIN STRING
+やっほー！\\N[1]くん！
+
+元気ぃ？
+> CONTEXT: Map085/events/5/pages/0/19/Dialogue/enemy6
+> CONTEXT: Map120/events/5/pages/0/19/Dialogue/enemy11
+Yah!\\N[1]-kun! How are you?#MTLed
+> END STRING
+
+> BEGIN STRING
+雑談する en(v[48] \>= 25) 
+> CONTEXT: Map085/events/5/pages/0/31/Choice/0
+Chaten(v[48] \>= 25)#MTLed
+> END STRING
+
+> BEGIN STRING
+搾精（エボニー）en(v[48] \>= 25) 
+> CONTEXT: Map085/events/5/pages/0/31/Choice/1
+milking (Ebony)en(v[48] \>= 25)#MTLed
+> END STRING
+
+> BEGIN STRING
+搾精（レイジー）en(v[48] \>= 50) 
+> CONTEXT: Map085/events/5/pages/0/31/Choice/2
+milking (Lazy)en(v[48] \>= 50)#MTLed
+> END STRING
+
+> BEGIN STRING
+【ニーナ】種族：妖魔
+> CONTEXT: Map085/events/5/pages/0/33/ChoiceHelp
+[Nina] Tribe: monster#MTLed
+> END STRING
+
+> BEGIN STRING
+えー…
+
+私、そんなモノもらっても使い道ないよ…
+> CONTEXT: Map085/events/5/pages/0/199/Dialogue/enemy6
+Eh...Even if I receive such a thing, it is
+useless ...#MTLed
+> END STRING
+
+> BEGIN STRING
+子供だっていうのは悪魔基準で見逃すとしてさ
+
+もうちょっと女の子が喜ぶモノにしてよー？
+> CONTEXT: Map085/events/5/pages/0/203/Dialogue/enemy6
+Being a child means "Det her off" by the demon
+standard. Have you made the girl happy again?#MTLed
+> END STRING
+
+> BEGIN STRING
+心蝕を消すif(v[48] \>= 100) 
+> CONTEXT: Map085/events/5/pages/0/215/Choice/0
+clear the mind corruptionif(v[48] \>= 100)#MTLed
+> END STRING
+
+> BEGIN STRING
+たまには……いっぱい甘えていい？
+
+\\N[1]くん…♡
+> CONTEXT: Map085/events/5/pages/0/226/Dialogue/enemy8
+Once in a while...can you be full?
+\\N[1] kun...♡#MTLed
+> END STRING
+
+> BEGIN STRING
+"ニーナの心蝕が治った！！"
+> CONTEXT: Map085/events/5/pages/0/237/InlineScript/1:12
+"ニーナ's mind corruption cured!!"#MTLed
+> END STRING
+
+> BEGIN STRING
+インタビュー？いいよっ♪
+
+いくらでも答えてあげるっ
+> CONTEXT: Map085/events/5/pages/1/1/Dialogue/enemy6
+interview?Goodbye♪. I will answer as much#MTLed
+> END STRING
+
+> BEGIN STRING
+ショーについてen(v[48] \>= 30) 
+> CONTEXT: Map085/events/5/pages/1/7/Choice/0
+About the showen(v[48] \>= 30)#MTLed
+> END STRING
+
+> BEGIN STRING
+Ｍ.Ｏ.Ｗ施設での生活en(v[48] \>= 40) 
+> CONTEXT: Map085/events/5/pages/1/7/Choice/1
+M.O.W. Life at the facilityen(v[48] \>= 40)#MTLed
+> END STRING
+
+> BEGIN STRING
+ダンサーとダンスen(v[48] \>= 60) 
+> CONTEXT: Map085/events/5/pages/1/7/Choice/2
+Dancer and danceen(v[48] \>= 60)#MTLed
+> END STRING
+
+> BEGIN STRING
+ニーナのショーって、魔界で人気って話だけど……
+
+いつぐらいからやってるの？
+> CONTEXT: Map085/events/5/pages/1/12/Dialogue/kazuya
+Nina's show is a story that is popular with Demon
+Realm...How long have you been doing it?#MTLed
+> END STRING
+
+> BEGIN STRING
+最初にショーをやったのはかなり昔だよ。
+
+ 戦争が始まる前だから、５年以上前かな？
+> CONTEXT: Map085/events/5/pages/1/16/Dialogue/enemy6
+It was a long time ago that I did the show first.
+So before the war begins, five years or more ago?#MTLed
+> END STRING
+
+> BEGIN STRING
+M.O.Wの施設のなかに、舞台を用意してもらってて
+
+毎月１日、午前０時にやってたんだ。
+> CONTEXT: Map085/events/5/pages/1/20/Dialogue/enemy6
+Have the stage ready in the M.O.W facility
+I did it on the 1st every month at midnight.#MTLed
+> END STRING
+
+> BEGIN STRING
+前日に、施設の人が『ゲスト』を運んできて
+
+番組中に私がその人を捕まえてダンス対決して
+後半は逆レイプの様子を流してたよ。
+> CONTEXT: Map085/events/5/pages/1/24/Dialogue/enemy6
+The day before, a person at the facility carried
+"Fan Art". I will catch the person during the
+show and never dance vs. In the second half, I
+played the reverse rape.#MTLed
+> END STRING
+
+> BEGIN STRING
+ほら、悪魔ってこっちの世界に実体化するのに
+媒体とか、多量の魔力とか、いろいろいるじゃない？
+
+ 例えるなら、海外旅行みたいなもので。
+> CONTEXT: Map085/events/5/pages/1/29/Dialogue/enemy6
+You see, to embody the demon world
+Do you have media, lots of magic, and so on?
+If you compare, it is like traveling abroad.#MTLed
+> END STRING
+
+> BEGIN STRING
+だから、魔界にいながら人間が堕ちる様が
+
+大画面で見れるこのショーは、ホント大人気だったの。
+> CONTEXT: Map085/events/5/pages/1/34/Dialogue/enemy6
+So, while being in Demon Realm
+This show, which can be viewed on a large screen,
+was really popular.#MTLed
+> END STRING
+
+> BEGIN STRING
+私、歓声や拍手、視聴率が嬉しくてさ……
+
+最初は緊張でトギマギしちゃってたけど、
+だんだん歌も踊りも、司会も慣れていったんだ。
+> CONTEXT: Map085/events/5/pages/1/38/Dialogue/enemy6
+I'm pleased with cheers and applause, view rate
+... At first I was nervous because of tension,
+Once I got used to singing and dancing, and the
+presidency.#MTLed
+> END STRING
+
+> BEGIN STRING
+……M.O.Wの生物兵器に改造されたのは
+
+ やっぱり『アイドル』になりたかったから？
+> CONTEXT: Map085/events/5/pages/1/43/Dialogue/kazuya
+...... M.O.W. was converted to biological
+weapons. After all I wanted to be an "idol"?#MTLed
+> END STRING
+
+> BEGIN STRING
+…………たぶん。
+> CONTEXT: Map085/events/5/pages/1/48/Dialogue/enemy6
+…………maybe.#MTLed
+> END STRING
+
+> BEGIN STRING
+たぶん…？
+> CONTEXT: Map085/events/5/pages/1/50/Dialogue/kazuya
+maybe…?#MTLed
+> END STRING
+
+> BEGIN STRING
+………実はね、
+
+ 私、改造される前の記憶があまりないんだ。
+> CONTEXT: Map085/events/5/pages/1/52/Dialogue/enemy6
+... actually. I don't have much memory before
+being remodeled.#MTLed
+> END STRING
+
+> BEGIN STRING
+でも、全くないってわけじゃなくて
+
+直前までどこかの孤児院にいたことや、
+アイドルにならなきゃって強く願ってたことは覚えてる。
+> CONTEXT: Map085/events/5/pages/1/56/Dialogue/enemy6
+But not all at all. I had been in an orphanage
+somewhere until just before. I remember strongly
+that I had to be an idol.#MTLed
+> END STRING
+
+> BEGIN STRING
+だから、当時改造されてこの身体になったときは
+文字通り心の底から嬉しく感じたの。
+
+きっと、私が覚えていない『過去の私』がね。
+> CONTEXT: Map085/events/5/pages/1/61/Dialogue/enemy6
+So, when I was remodeled at that time and became
+this body. I felt literally happy from the bottom
+of my heart. Surely, I do not remember “past me”.#MTLed
+> END STRING
+
+> BEGIN STRING
+それに、身体が消滅して、もうショーは出来ないけど、
+
+カメラが回ってなくったって、『アイドル』はできるよ！
+> CONTEXT: Map085/events/5/pages/1/68/Dialogue/enemy6
+Besides, although the body disappears, I can not
+do the show anymore, I can not do "idol" because
+the camera has lost my turn!#MTLed
+> END STRING
+
+> BEGIN STRING
+観客を笑顔にするのが、『アイドル』の役目なら
+
+これからは\\N[1]君をいっぱい喜ばせてあげるから！
+> CONTEXT: Map085/events/5/pages/1/72/Dialogue/enemy6
+If the role of "idol" is to make the audience
+smile. From now on, I will be pleased with \\N[1]
+a lot!#MTLed
+> END STRING
+
+> BEGIN STRING
+……………もちろん、いろいろな意味で♪
+> CONTEXT: Map085/events/5/pages/1/77/Dialogue/enemy6
+......... Of course, in many ways♪#MTLed
+> END STRING
+
+> BEGIN STRING
+ニーナがM.O.W施設内で用意されていた『舞台』って
+
+ どういうものだったの……？
+> CONTEXT: Map085/events/5/pages/1/86/Dialogue/kazuya
+The "stage" Nina was prepared in the M. O. W
+facility. What was it ...?#MTLed
+> END STRING
+
+> BEGIN STRING
+やっぱりこう……
+
+全体が防弾ガラスで覆われてるとか……
+> CONTEXT: Map085/events/5/pages/1/90/Dialogue/kazuya
+After all...... The whole is covered with
+bulletproof glass ...#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[1]くん………
+
+確かに私は魔力は高いけど、そんな獰猛じゃないよ……
+> CONTEXT: Map085/events/5/pages/1/95/Dialogue/enemy6
+\\N[1]-kun ......... Certainly I have high magic
+power, but I'm not that ferocious ......#MTLed
+> END STRING
+
+> BEGIN STRING
+どんなって言われても、フツーの舞台だよ。
+
+コンサートホールみたいな、でっかいところ。
+> CONTEXT: Map085/events/5/pages/1/99/Dialogue/enemy6
+Whatever it is said, it's a stage of nature.
+A huge place like a concert hall.#MTLed
+> END STRING
+
+> BEGIN STRING
+席がない分舞台が広くて、代わりに二階に施設の人たちが
+
+立って見るための場所があったよ
+> CONTEXT: Map085/events/5/pages/1/103/Dialogue/enemy6
+The stage is wide because there are no seats, and
+instead people from the facility on the second
+floor. There was a place to stand and see#MTLed
+> END STRING
+
+> BEGIN STRING
+へぇ……
+
+じゃあ、ニーナはそこで生活してたんだ？
+> CONTEXT: Map085/events/5/pages/1/107/Dialogue/kazuya
+Hea ...... Well then, did Nina live there?#MTLed
+> END STRING
+
+> BEGIN STRING
+ううん、それの舞台部屋とは別に、小さい個人部屋があって
+
+私は普段そっちで生活してたよ。
+> CONTEXT: Map085/events/5/pages/1/111/Dialogue/enemy6
+Yeah, there is a small private room aside from
+that stage room. I usually lived there.#MTLed
+> END STRING
+
+> BEGIN STRING
+同じ施設のほかの生物兵器たちは、
+ 大きな檻やショーケースみたいなのに閉じ込められてたのに
+
+私だけ、施設のなかを自由に歩き回れた。
+> CONTEXT: Map085/events/5/pages/1/115/Dialogue/enemy6
+Other biological weapons in the same facility are
+I was locked in like a big coffin or showcase
+Only I was free to walk around in the facility.#MTLed
+> END STRING
+
+> BEGIN STRING
+それどころか、欲しいものを言ったら
+
+無茶なもの以外は、大体用意してもらえたし。
+> CONTEXT: Map085/events/5/pages/1/120/Dialogue/enemy6
+On the contrary, if you say what you want
+Except for the innocence, they were mostly
+prepared.#MTLed
+> END STRING
+
+> BEGIN STRING
+すごいな………至れり尽くせりじゃん……
+
+やっぱりニーナが『アイドル』だから…？
+> CONTEXT: Map085/events/5/pages/1/125/Dialogue/kazuya
+It's amazing ..... After all, Nina is "idol" ...?#MTLed
+> END STRING
+
+> BEGIN STRING
+どうだろ………
+
+私、ショーでそういうのを意識するようになってから
+『ニセモノ』が分かるんだよね……
+> CONTEXT: Map085/events/5/pages/1/130/Dialogue/enemy6
+How would………. I'm aware of that at the show
+You know "the fake" ...#MTLed
+> END STRING
+
+> BEGIN STRING
+『ニセモノ』？
+> CONTEXT: Map085/events/5/pages/1/135/Dialogue/kazuya
+"Issue"?#MTLed
+> END STRING
+
+> BEGIN STRING
+『ニセモノ』の笑顔。
+ 『ニセモノ』の歓声
+ 『ニセモノ』の愛情
+ ………他人や周囲に合わせるためのアレだよ。
+> CONTEXT: Map085/events/5/pages/1/137/Dialogue/enemy6
+Smile of "the fake". Cheers of "the fake"
+Love of "the fake".......... It is an
+arrangement to match other people and the
+surroundings.#MTLed
+> END STRING
+
+> BEGIN STRING
+施設の人たちはみんな親切だったけど…
+
+私に向ける笑顔は、みんな『ニセモノ』だった。
+> CONTEXT: Map085/events/5/pages/1/142/Dialogue/enemy6
+Everyone in the facility was kind but ...
+The smiles I turned to me were all fake.#MTLed
+> END STRING
+
+> BEGIN STRING
+きっと、親切な裏には何かあるとは思ったけど…
+
+今のアイドル生活が崩れてしまいそうで、聞けなかった。
+> CONTEXT: Map085/events/5/pages/1/146/Dialogue/enemy6
+Surely I thought there was something behind the
+kindness...The current idol life seems to be
+broken and I could not hear it.#MTLed
+> END STRING
+
+> BEGIN STRING
+だから、その反動なのかなぁ？
+
+ 毎月のゲストが見せてくれる恐怖や快楽の表情が
+私はすっごく大好きだった。
+> CONTEXT: Map085/events/5/pages/1/150/Dialogue/enemy6
+So, is that a reaction? The expression of Afraid
+and pleasure that monthly Fan Art shows
+I really loved it.#MTLed
+> END STRING
+
+> BEGIN STRING
+あれだけは、まぎれもなく
+
+私に向けられた『ホンモノ』だったからね…。
+> CONTEXT: Map085/events/5/pages/1/155/Dialogue/enemy6
+That alone is unmistakable. Because it was "the
+real deal" directed to me ....#MTLed
+> END STRING
+
+> BEGIN STRING
+ニーナが呼び出す『エボニー』と『レイジー』…
+
+あれは君とは独立したバックダンサーなの？
+> CONTEXT: Map085/events/5/pages/1/164/Dialogue/kazuya
+Nina calls "Ebony" and "Lazy" ...
+Is that a backup dancer independent of you?#MTLed
+> END STRING
+
+> BEGIN STRING
+ううん、彼女たちに意思はないよ。
+
+ 私が自分で動かしてるだけ。
+> CONTEXT: Map085/events/5/pages/1/168/Dialogue/enemy6
+No, they have no intention. I just move it
+myself.#MTLed
+> END STRING
+
+> BEGIN STRING
+元々この背中のリボンで作れるものは決まってないの。
+
+最初はショーのためにカメラと照明だけ作ったんだけど
+なんだかそれだけだと味気なくて…。
+> CONTEXT: Map085/events/5/pages/1/172/Dialogue/enemy6
+Originally it is not decided what can be made
+with this back ribbon. At first I only made
+camera and lighting for the show
+Somehow it's just that.#MTLed
+> END STRING
+
+> BEGIN STRING
+どっちも、M.O.W施設にいたお姉ちゃんがモデルなんだよ。
+
+ 彼女たちが着ている衣装とかは、
+ 雑誌で見たやつを私がセクシーにアレンジしてるの。
+> CONTEXT: Map085/events/5/pages/1/177/Dialogue/enemy6
+In both cases, the older sister who was at the
+M.O.W facility is a model. The clothes they are
+wearing, I'm sexyly preparing the one I saw in
+the magazine.#MTLed
+> END STRING
+
+> BEGIN STRING
+そして実はね、この子達の性格は私が考えた後付けなんだ。
+
+でも、見た目にピッタリでしょ？
+> CONTEXT: Map085/events/5/pages/1/182/Dialogue/enemy6
+And in fact, the characters of these children are
+after I thought. But isn't it perfect for you?#MTLed
+> END STRING
+
+> BEGIN STRING
+エボニーちゃんが先攻なのは、動かしやすいから。
+
+レイジーちゃんは激しいから、ちょっと疲れちゃうんだよ…
+> CONTEXT: Map085/events/5/pages/1/193/Dialogue/enemy6
+The reason why Ebony -chan is first is that it is
+easy to move. Lazy-chan is intense, so I get a
+little tired ...#MTLed
+> END STRING
+
+> BEGIN STRING
+でも、ゆっくりした動きが余計にセクシーに見えるみたいで
+
+ だいたいの人間が、エボニーちゃんに搾られちゃうね。
+> CONTEXT: Map085/events/5/pages/1/197/Dialogue/enemy6
+But it seems that the slow movement looks more
+sexy. Most people are squeezed by Ebony -chan.#MTLed
+> END STRING
+
+> BEGIN STRING
+ああ……
+
+ショーのとき、言ってたね……
+> CONTEXT: Map085/events/5/pages/1/201/Dialogue/kazuya
+Oh……. I said that when the show ...#MTLed
+> END STRING
+
+> BEGIN STRING
+だからレイジーちゃんまで出番が回ってくるのは、
+
+ 月１のこの番組で、年に１～２回くらいかなぁ？
+> CONTEXT: Map085/events/5/pages/1/205/Dialogue/enemy6
+So it's up to Lazy-chan to come
+On this month's 1 show, maybe once or twice a
+year?#MTLed
+> END STRING
+
+> BEGIN STRING
+まぁ、\\N[1]くんが突破するまで
+
+ レイジーちゃんに至っては、負けなしだったけどね！
+> CONTEXT: Map085/events/5/pages/1/209/Dialogue/enemy6
+Well, until \\N[1]-kun breaks through
+When it came to Lazy-chan, I was not losing it!#MTLed
+> END STRING
+
+> BEGIN STRING
+………ああ、そういえば馴染みすぎてて
+ すっかり聞くの忘れてたけど………
+
+僕が急にダンスできるようになったのも、君の能力なの？
+> CONTEXT: Map085/events/5/pages/1/216/Dialogue/kazuya
+......... Oh, I'm too familiar
+I totally forgot to ask...Is it your ability
+that I suddenly became able to dance?#MTLed
+> END STRING
+
+> BEGIN STRING
+僕、生まれてこのかた、
+ダンスなんて一度もやったことなかったのに……
+
+あの時急に踊れるようになって、ビックリしたよ…
+> CONTEXT: Map085/events/5/pages/1/221/Dialogue/kazuya
+I was born this way, I have never danced ...
+At that time I was able to dance suddenly and I
+was surprised ...#MTLed
+> END STRING
+
+> BEGIN STRING
+うんっ♪そうだよ！
+
+ 私のショーの『ゲスト』になった時点で
+ ダンスのステップが頭に流れてくるようになるの！
+> CONTEXT: Map085/events/5/pages/1/226/Dialogue/enemy6
+yup♪that's right! When it became "Fan Art" of my
+show. The dance steps will come to mind!#MTLed
+> END STRING
+
+> BEGIN STRING
+だってそうじゃないと、ダンス対決なんて出来ないし
+
+番組が盛り上がらないからねっ♪
+> CONTEXT: Map085/events/5/pages/1/231/Dialogue/enemy6
+Even if it is not so, dance confrontation can not
+be done. Because the show does not swell♪#MTLed
+> END STRING
+
+> BEGIN STRING
+ただ………勘違いしやすいんだけど
+
+ ステップが頭に『流れてくるようになる』だけで
+決して『できるようになる』能力じゃないんだよ…
+> CONTEXT: Map085/events/5/pages/1/236/Dialogue/enemy6
+Just...... but it is easy to misunderstand
+The steps just come to my head
+It is not an ability to "be able to do" by all
+means ...#MTLed
+> END STRING
+
+> BEGIN STRING
+ショーのゲストは、たいていの人が調子に乗って
+自分の身体能力以上の技を決めようとして
+
+身体がついていかずに転倒するんだ……
+> CONTEXT: Map085/events/5/pages/1/241/Dialogue/enemy6
+Most of the show's Fan Art is in tune
+Trying to decide the technique more than one's
+physical ability. You're going to fall without
+your body attached ...#MTLed
+> END STRING
+
+> BEGIN STRING
+中には、生き残るために必死で大技決めようとして
+
+思いっきりエボニーちゃんに埋まっちゃった人もいたなぁ…
+クスクス…♡
+> CONTEXT: Map085/events/5/pages/1/246/Dialogue/enemy6
+While trying to make big decisions desperately to
+survive. There were some people who were buried
+in Ebony-chan. * Giggle *...♡#MTLed
+> END STRING
+
+> BEGIN STRING
+…………えっぐい罠能力だなぁ………
+> CONTEXT: Map085/events/5/pages/1/251/Dialogue/kazuya
+...... え 罠 罠 ability.........#MTLed
+> END STRING
+
+> BEGIN STRING
+【キズナイベント】if(v[48] \>= 99) 
+> CONTEXT: Map085/events/5/pages/1/257/Choice/0
+【Bonding】if(v[48] \>= 99)#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[1]くんっ♪
+
+せっかくこんなステージがあるんだし、
+ここに居るみんなを集めて、ショーをやろうよ！
+> CONTEXT: Map085/events/5/pages/1/262/Dialogue/enemy6
+\\N[1]-kun♪. There is a stage like this.
+Let's gather everyone here and do a show!#MTLed
+> END STRING
+
+> BEGIN STRING
+魔界ＴＶみたいにテレビ中継はできないけど…
+
+みんなで盛り上がって、楽しくなれるよ！
+> CONTEXT: Map085/events/5/pages/1/267/Dialogue/enemy6
+I can not broadcast on TV like Demon Realm TV ...
+Everyone is excited and can be fun!#MTLed
+> END STRING
+
+> BEGIN STRING
+ここにいるみんなって……
+
+つまり、クッション君とか…マイルームのみんな？
+> CONTEXT: Map085/events/5/pages/1/271/Dialogue/kazuya
+Everyone here...In other words, such as Cushion
+... everyone in my room?#MTLed
+> END STRING
+
+> BEGIN STRING
+え、えっと……
+
+それって大丈夫なんだろうか…
+> CONTEXT: Map085/events/5/pages/1/275/Dialogue/kazuya
+Let me see……. Is that okay?#MTLed
+> END STRING
+
+> BEGIN STRING
+話は聞かせてもらった。
+
+大丈夫だ、問題ない
+> CONTEXT: Map085/events/5/pages/1/283/Dialogue/クッション君
+I was told the story. That's ok. No problem#MTLed
+> END STRING
+
+> BEGIN STRING
+ホいつの間に！！
+
+っていうか反応速っ！！
+> CONTEXT: Map085/events/5/pages/1/290/Dialogue/kazuya
+During the time!!I mean, the reaction is quick!
+!#MTLed
+> END STRING
+
+> BEGIN STRING
+フフフ…楽しそうですものね。
+
+私も拝見させてもらいたいものです。
+> CONTEXT: Map085/events/5/pages/1/298/Dialogue/other1
+Hihihi...It looks fun. I also want to see you.#MTLed
+> END STRING
+
+> BEGIN STRING
+オッケーーー！！決まりだね！！
+
+それじゃ、\\N[1]くんもダンスの準備準備！！
+> CONTEXT: Map085/events/5/pages/1/302/Dialogue/enemy6
+Okey dokey!!It is a rule!!
+Well then, \\N[1]-kun is preparing to dance too!
+!#MTLed
+> END STRING
+
+> BEGIN STRING
+あの時のショーみたいに
+
+大盛り上がりの舞台にしよう！！
+> CONTEXT: Map085/events/5/pages/1/306/Dialogue/enemy6
+Like a show at that time. Let's make it a stage
+of great excitement! !#MTLed
+> END STRING
+
+> BEGIN STRING
+あ、やっぱり僕はゲスト役なのね……
+> CONTEXT: Map085/events/5/pages/1/310/Dialogue/kazuya
+Oh, after all I am a Fan Art role ...#MTLed
+> END STRING
+
+> BEGIN STRING
+やっほー♪
+
+みんな盛り上がってるぅー！？
+> CONTEXT: Map085/events/5/pages/1/331/Dialogue/enemy6
+Yahoh♪. Everyone is excited! ?#MTLed
+> END STRING
+
+> BEGIN STRING
+レイジーちゃんに続いて、次は\\N[1]くんのソロダンス！！
+
+逆レイプＳＨＯＷ史上最高のステップをご覧あれ！！
+> CONTEXT: Map085/events/5/pages/1/335/Dialogue/enemy6
+Following Lazy-chan, next is \\N[1]'s solo dance!
+! Reverse rape SHOW See the best steps ever! !#MTLed
+> END STRING
+
+> BEGIN STRING
+ヒューヒュー♪
+
+いいぞー！\\N[1]ー！
+カッコイイー！
+> CONTEXT: Map085/events/5/pages/1/340/Dialogue/enemy
+Awww♪. Good! \\N[1] ー! handsome Yee!#MTLed
+> END STRING
+
+> BEGIN STRING
+ボクも！！！ボクも踊りたい！！！
+
+ステージ上がりたーい！！！
+> CONTEXT: Map085/events/5/pages/1/348/Dialogue/enemy11
+Me too!!! I want to dance too!!!
+I'm on stage!!!#MTLed
+> END STRING
+
+> BEGIN STRING
+へぇ、なかなかやるじゃないか\\N[1]。
+
+ま、俺の現役時代には及ばないけどな。
+> CONTEXT: Map085/events/5/pages/1/354/Dialogue/クッション君
+Hey, I guess it's not easy to do \\N[1].
+Well, though it is not as long as my active
+service age.#MTLed
+> END STRING
+
+> BEGIN STRING
+ショーは大盛り上がりだ…！
+
+ニーナもとても嬉しそうに歌って踊っているように見える。
+> CONTEXT: Map085/events/5/pages/1/359/Dialogue
+The show is full of excitement ...! Nina also seems to be
+singing and dancing with great joy.#MTLed
+> END STRING
+
+> BEGIN STRING
+ショーの形式はダンス『バトル』ではないが
+
+僕のステップにも、自然と力が入る。
+> CONTEXT: Map085/events/5/pages/1/363/Dialogue
+The format of the show is not dance 'battle'
+The power comes naturally to my step.#MTLed
+> END STRING
+
+> BEGIN STRING
+ふふふ…
+
+ボウヤったら、あんなに気合い入っちゃって…♡
+> CONTEXT: Map085/events/5/pages/1/369/Dialogue/enemy4
+Fufufu...If boy, I gotta feel like that...♡#MTLed
+> END STRING
+
+> BEGIN STRING
+すごいな　\\N[1]
+
+ああいう動き　できたのか
+> CONTEXT: Map085/events/5/pages/1/376/Dialogue/enemy2
+Amazing \\N[1]. Did you move that way?#MTLed
+> END STRING
+
+> BEGIN STRING
+ふん、猿と人間には
+
+芸を仕込んでも損はない、と言うしのう……
+> CONTEXT: Map085/events/5/pages/1/383/Dialogue/enemy17
+Hm, for monkeys and humans. It is said that there
+is no loss even if you load tricks ...#MTLed
+> END STRING
+
+> BEGIN STRING
+いいですね、こういうものも、たまには…
+
+ある意味隠居生活の今ですが…
+こういう刺激はとても楽しいです。
+> CONTEXT: Map085/events/5/pages/1/389/Dialogue/other1
+That's good, something like this, sometimes ...
+In a sense of secluded life now ...
+Such stimulation is very fun.#MTLed
+> END STRING
+
+> BEGIN STRING
+僕がダンスを終えると
+
+ニーナは一歩前に出て、高々とアナウンスを始めた…
+> CONTEXT: Map085/events/5/pages/1/396/Dialogue
+When i finish dance. Nina got out one step ahead and began
+to announce at high ...#MTLed
+> END STRING
+
+> BEGIN STRING
+さぁーって♪ダンスでひとしきり盛り上がった後は…
+
+皆さんお待ちかねの、\\N[1]くん逆レイプのお時間です！！
+> CONTEXT: Map085/events/5/pages/1/400/Dialogue/enemy6
+Come on♪After a great deal of dance ...
+It is time of \\N[1]-kun reverse rape waiting for
+you guys! !#MTLed
+> END STRING
+
+> BEGIN STRING
+えっ！？何それ聞いてない！
+> CONTEXT: Map085/events/5/pages/1/464/Dialogue/kazuya-a
+eh! ? I have not heard that!#MTLed
+> END STRING
+
+> BEGIN STRING
+そりゃそうだよ！
+
+\\N[1]くんに「だけ」知らせてないもん
+> CONTEXT: Map085/events/5/pages/1/466/Dialogue/enemy6
+That's right! For \\N[1]「Only」I did not inform
+you#MTLed
+> END STRING
+
+> BEGIN STRING
+その顔と、犯されている情けない姿をみんなに見せて
+
+君がどんな反応するか見るのが、このショーのメインだよ！！
+> CONTEXT: Map085/events/5/pages/1/470/Dialogue/enemy6
+Show everyone that face and the unsympathetic
+figure being committed. Seeing how you react is
+the main part of this show! !#MTLed
+> END STRING
+
+> BEGIN STRING
+おう、ヤれヤれ。
+
+ダンス同様、暇つぶしにはなるからな
+> CONTEXT: Map085/events/5/pages/1/474/Dialogue/クッション君
+Oh dear oh dear me. It's because I'm killing time
+like dancing#MTLed
+> END STRING
+
+> BEGIN STRING
+エヘヘ…そうだよぉ？
+
+これが楽しみで来たんだから…♡
+いっぱいいい声聞かせてね…♡
+> CONTEXT: Map085/events/5/pages/1/484/Dialogue/enemy
+Ehehe...That's right? Because this came forward
+with pleasure...♡. Let me hear a lot of good
+voices...♡#MTLed
+> END STRING
+
+> BEGIN STRING
+…………見ていてあげますよ、\\N[1]。
+
+あなたがその小娘にどんなことをされたのかを…ね。
+フフフ…
+> CONTEXT: Map085/events/5/pages/1/492/Dialogue/yuuma
+............ I will look at you, \\N[1].
+What did you do to that little girl?
+Hihihi ...#MTLed
+> END STRING
+
+> BEGIN STRING
+わたし　興味ある
+
+\\N[1]　わたし以外　どんな声　するか…♡
+> CONTEXT: Map085/events/5/pages/1/500/Dialogue/enemy2
+I'm interested. \\N[1] What kind of voice other
+than me...♡#MTLed
+> END STRING
+
+> BEGIN STRING
+いいのよ、ボウヤ。私のことは気にせずに。
+
+そういうのに興味があるお年頃ですもんね…♡
+> CONTEXT: Map085/events/5/pages/1/507/Dialogue/enemy4
+That's good, boy. Don't worry about me.
+That's why I'm interested in it...♡#MTLed
+> END STRING
+
+> BEGIN STRING
+ママ！！それ一番子供が傷付くヤツ！！！
+> CONTEXT: Map085/events/5/pages/1/511/Dialogue/kazuya-a
+Mom!!That's the kid that hurts the most!!!#MTLed
+> END STRING
+
+> BEGIN STRING
+リズぅ、私達もダンス習おうよ
+
+\\N[1]くんと一緒に踊りたい…♡
+> CONTEXT: Map085/events/5/pages/1/516/Dialogue/enemy5
+Liz ぅ, let us dance too. I want to dance with
+\\N[1] kun...♡#MTLed
+> END STRING
+
+> BEGIN STRING
+私はパス。
+
+見てる方が楽しいよ。
+> CONTEXT: Map085/events/5/pages/1/520/Dialogue/enemy7
+I am the pass. It is fun to look at.#MTLed
+> END STRING
+
+> BEGIN STRING
+構わないぞ、\\N[1]。
+
+私のことは気にせず、思う存分ぶちまけるといい。
+> CONTEXT: Map085/events/5/pages/1/527/Dialogue/enemy6
+I don't mind, \\N[1]. Don't worry about me.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[1]が犯されるの……興味ハあるけド……
+
+見たイヨうな、見たクナいヨうな…
+> CONTEXT: Map085/events/5/pages/1/534/Dialogue/enemy13
+\\N[1] gets fucked. Iyo I saw, I saw you Kuna ...#MTLed
+> END STRING
+
+> BEGIN STRING
+ふふふー♡
+
+\\N[1]くんが、おっぱい以外でも興奮してるとこ
+見てみたいなぁ…♡
+> CONTEXT: Map085/events/5/pages/1/541/Dialogue/enemy11
+Fufufu. When \\N[1]-kun is Aroused even in
+addition to the tits. I want to see...♡#MTLed
+> END STRING
+
+> BEGIN STRING
+ククク……いいじゃないか。
+
+物理以外の力比べで負けるのは、好きなんだろう？
+\\N[1]…♡
+> CONTEXT: Map085/events/5/pages/1/549/Dialogue/enemy10
+Hehehe ...... Good, isn't it? 
+Would you like to lose compared to other forces
+than physics? \\N[1]...♡#MTLed
+> END STRING
+
+> BEGIN STRING
+相手が小娘ってのはちょっと癪に障るけど…
+
+まぁ、アンタが犯されて情けない姿をさらしてるなら
+酒のつまみにはなるだろうね……
+> CONTEXT: Map085/events/5/pages/1/557/Dialogue/enemy14
+It's kind of annoying that my partner is a puss
+but...Well, if you're exposing your
+unsympathetic figure being committed
+It will be a snack of sake ...#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[1]……
+ワタシ　イガイト　コウビ　スル
+
+チョット　フクザツ
+> CONTEXT: Map085/events/5/pages/1/565/Dialogue/enemy16
+\\N[1] ...... 'I' igite coub sur
+Chotto#MTLed
+> END STRING
+
+> BEGIN STRING
+ホホホ……良い良い。
+
+丁度おヌシの喘ぐ姿が見たいと思っていたところじゃ
+妾にその醜態をさらせ…\\N[1]
+> CONTEXT: Map085/events/5/pages/1/573/Dialogue/enemy17
+Hohoho...good good. I just wanted to see the
+appearance of Nushi's pant. I let the samurai
+make that condition...\\N[1]#MTLed
+> END STRING
+
+> BEGIN STRING
+えええぇぇぇ…
+
+マジで知らなかったの僕だけなの……
+> CONTEXT: Map085/events/5/pages/1/580/Dialogue/kazuya-a
+Well...It is only me who did not know it
+seriously ...#MTLed
+> END STRING
+
+> BEGIN STRING
+はーい！！というわけで、\\N[1]くん！
+
+だまされついでに元気に犯されてもらいましょー！
+> CONTEXT: Map085/events/5/pages/1/584/Dialogue/enemy6
+Yes!!So, \\N[1]-kun! Let's get fucked while
+being deceived!#MTLed
+> END STRING
+
+> BEGIN STRING
+はあっ……！！
+
+はあっ………！！
+> CONTEXT: Map085/events/5/pages/1/613/Dialogue/kazuya-0
+> CONTEXT: Map121/events/5/pages/1/467/Dialogue/kazuya-2
+What……!!What………! !#MTLed
+> END STRING
+
+> BEGIN STRING
+サイッコーに盛り上がったショーだったね！！
+
+ありがとう！\\N[1]くん♡
+> CONTEXT: Map085/events/5/pages/1/617/Dialogue/enemy6
+It was a lively show at Saikkou! !
+Thank you! \\N[1]-kun#MTLed
+> END STRING
+
+> BEGIN STRING
+ニーナとの『キズナ』が生まれた！！
+
+友好度が『１００』になった！！
+> CONTEXT: Map085/events/5/pages/1/622/Dialogue
+"Kizuna" with Nina was born!!The degree of friendship has
+reached "100"! !#MTLed
+> END STRING
+
+> BEGIN STRING
+え…？
+
+\\N[1]くん、本気なの？
+こんなに小さな女の子にプロポーズなんて……
+> CONTEXT: Map085/events/5/pages/2/2/Dialogue/enemy6
+Huh…? \\N[1]-kun, are you serious?
+What a proposal for such a little girl ...#MTLed
+> END STRING
+
+> BEGIN STRING
+え………
+
+ダメ………だった……？
+> CONTEXT: Map085/events/5/pages/2/8/Dialogue/kazuya
+Huh………. No...it was......?#MTLed
+> END STRING
+
+> BEGIN STRING
+ジョーダンだよっ♪
+
+私、こんな見た目だけど、人間界の年齢なら
+\\N[1]くんと同い年くらいだしっ！
+> CONTEXT: Map085/events/5/pages/2/13/Dialogue/enemy6
+By Jordan♪. I look like this, but at the age of
+the human realm. It's about the same age as
+\\N[1]-kun!#MTLed
+> END STRING
+
+> BEGIN STRING
+ただちょっと、ビックリしちゃって……
+
+まさか\\N[1]くんから、
+こういう方面でアプローチが来るとは思わなくてさ…♡
+> CONTEXT: Map085/events/5/pages/2/18/Dialogue/enemy8
+Just a little, I was surprised ...
+Hey, from \\N[1], I do not think that the
+approach will come in such a direction...♡#MTLed
+> END STRING
+
+> BEGIN STRING
+本当は…嬉しいんだ。
+
+本当はね…
+> CONTEXT: Map085/events/5/pages/2/23/Dialogue/enemy8
+Really...I'm happy. Really ...#MTLed
+> END STRING
+
+> BEGIN STRING
+どうしたの？ニーナ。
+
+ 浮かない顔だけど……
+> CONTEXT: Map085/events/5/pages/2/29/Dialogue/kazuya
+What's wrong? Nina. It is a face that does not
+float ...#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[1]くん、私ね……
+
+この姿になる前の記憶がなくて
+改造のときに、全部消されたんだとずっと思ってた。
+> CONTEXT: Map085/events/5/pages/2/34/Dialogue/enemy6
+\\N[1]-kun, I...I have no memory before this
+form. I always thought that everything was erased
+when I was remodeling it.#MTLed
+> END STRING
+
+> BEGIN STRING
+でもアイドルをやめて……この部屋に来て………
+
+なんとなく、思い出せるものがあるんだ。
+> CONTEXT: Map085/events/5/pages/2/39/Dialogue/enemy6
+But stop the idol......... come to this room
+......There is something I can remember.#MTLed
+> END STRING
+
+> BEGIN STRING
+顔は分からないけど……たぶんお父さんみたいな人に
+私みたいな女の子が、こう言ってるの。
+
+ 『大きくなったら、アイドルになる』って
+> CONTEXT: Map085/events/5/pages/2/43/Dialogue/enemy6
+I don't know my face, but...maybe a father-like
+person. A girl like me is saying:
+"If you grow up, you become an idol"#MTLed
+> END STRING
+
+> BEGIN STRING
+そしたら、その人は、何かを女の子に渡して……
+
+なにか……大事なことを……つぶやくの……
+> CONTEXT: Map085/events/5/pages/2/48/Dialogue/enemy6
+Then the person gives something to the girl ...
+Something...cherish important things......#MTLed
+> END STRING
+
+> BEGIN STRING
+ニーナは、\\N[1]に強く抱きついた……
+> CONTEXT: Map085/events/5/pages/2/57/Dialogue
+Nina was strongly Hug in \\N[1] ......#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[1]君………私、怖いよ……
+
+もしかしたら私、とんでもなく大切な事を忘れて
+ ここに存在してるんじゃないかって………
+> CONTEXT: Map085/events/5/pages/2/59/Dialogue/enemy8
+\\N[1] you .... I'm scared ...
+Maybe I forgot the most important thing
+I wonder if it exists here .........#MTLed
+> END STRING
+
+> BEGIN STRING
+お願い……\\N[1]君だけは………
+
+私に向けられる『ホンモノ』であって……
+> CONTEXT: Map085/events/5/pages/2/64/Dialogue/enemy8
+Please .... Only \\N[1] you .........
+It is "the real deal" directed to me ...#MTLed
+> END STRING
+
+> BEGIN STRING
+………………大丈夫だよ、ニーナ。
+
+ 僕は、ずっと君のそばにいる。
+> CONTEXT: Map085/events/5/pages/2/69/Dialogue/kazuya-a
+..... All right, Nina. I have been with you all
+the time.#MTLed
+> END STRING
+
+> BEGIN STRING
+これは、そういう誓いでもあるんだから
+
+君を、独りにさせたりしないよ……
+> CONTEXT: Map085/events/5/pages/2/73/Dialogue/kazuya-a
+Because this is also such an oath
+I will not make you alone ...#MTLed
+> END STRING
+
+> BEGIN STRING
+ご、ごめんねっ！
+
+なんだか感極まっちゃって、考え込んじゃった…
+> CONTEXT: Map085/events/5/pages/2/81/Dialogue/enemy6
+Sorry, sorry! Somehow I was so excited, I thought
+...#MTLed
+> END STRING
+
+> BEGIN STRING
+大丈夫に決まってるよねっ♪
+
+だって、\\N[1]君は私のファンなんだから！
+> CONTEXT: Map085/events/5/pages/2/88/Dialogue/enemy6
+It is decided to be okay♪. Because \\N[1] is my
+fan!#MTLed
+> END STRING
+
+> BEGIN STRING
+これからもずっと……
+
+私だけを見て、応援しててよね！！\\N[1]くん！
+> CONTEXT: Map085/events/5/pages/2/92/Dialogue/enemy6
+And always will be……. Just look at me and support
+me!!\\N[1]-kun!#MTLed
+> END STRING
+
+> BEGIN STRING
+…うん。もちろんだよ、ニーナ。
+
+約束だ。
+> CONTEXT: Map085/events/5/pages/2/96/Dialogue/kazuya
+…Yup. Of course, Nina. It's a promise.#MTLed
+> END STRING
+
+> BEGIN STRING
+あ！そうそう！
+
+ 『私たち、婚約しました』って動画撮ってもいい！？
+> CONTEXT: Map085/events/5/pages/2/101/Dialogue/enemy6
+Ah! Yes Yes! "We're engaged" can be a video
+shoot! ?#MTLed
+> END STRING
+
+> BEGIN STRING
+今、魔界で人気の動画配信サイトがあってね！
+
+\\N[1]くんの逆レイプ動画をアップするの！
+> CONTEXT: Map085/events/5/pages/2/105/Dialogue/enemy6
+Now there is a popular video distribution site on
+Demon Realm! It's up to \\N[1]-kun's reverse rape
+video!#MTLed
+> END STRING
+
+> BEGIN STRING
+
+\\{\\{お願いやめて！！
+> CONTEXT: Map085/events/5/pages/2/109/Dialogue/kazuya-a
+\\{\\{Please stop! !#MTLed
+> END STRING
+
+> BEGIN STRING
+エンゲージリングを受け取ってもらったことで
+
+\\C[2]ニーナと婚約した！
+> CONTEXT: Map085/events/5/pages/2/118/Dialogue
+By receiving the engagement ring. \\C[2]I got engaged with Nina!#MTLed
+> END STRING
+
+> BEGIN STRING
+親密度が２５以上必要。
+（現在の値：\\V[48]）
+> CONTEXT: Map085/events/4/pages/0/0/Dialogue
+25 or more intimacy is required. (Current value: \\V[48] )#MTLed
+> END STRING
+
+> BEGIN STRING
+親密度が５０以上必要。
+（現在の値：\\V[48]）
+> CONTEXT: Map085/events/6/pages/0/0/Dialogue
+50 or more intimacy is required. (Current value: \\V[48] )#MTLed
+> END STRING
+
+> BEGIN STRING
+親密度が１００必要。
+（現在の値：\\V[48]）
+> CONTEXT: Map085/events/3/pages/0/18/Dialogue
+100 intimacy required. (Current value: \\V[48] )#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[1]くんっ♪
+
+待ってたよー！
+> CONTEXT: Map085/events/7/pages/0/4/Dialogue/enemy6
+\\N[1]-kun♪. I was waiting!#MTLed
+> END STRING
+
+> BEGIN STRING
+！！！
+
+ニーナ！！！？
+> CONTEXT: Map085/events/7/pages/0/8/Dialogue/kazuya
+!!! Nina!!! ?#MTLed
+> END STRING
+
+> BEGIN STRING
+ふふふー♪いい反応だねー！
+
+可愛いアイドルがマイルームに来ちゃったから
+動揺しちゃうのも分かる分かるぅ♡
+> CONTEXT: Map085/events/7/pages/0/12/Dialogue/enemy6
+Fufufu♪It is a good response! 
+Because a cute idol has come to my room
+I understand that I'll be upset#MTLed
+> END STRING
+
+> BEGIN STRING
+言ったでしょ？
+
+『次に会うときがあったら、その時はよろしく』って！
+> CONTEXT: Map085/events/7/pages/0/17/Dialogue/enemy6
+Did you say that? "Best regards, hope we meet
+again"!#MTLed
+> END STRING
+
+> BEGIN STRING
+まぁ……私の身体は無くなっちゃったし……
+
+ここしか行き着く場所がなかったっていうのもあるけど…
+> CONTEXT: Map085/events/7/pages/0/21/Dialogue/enemy6
+Well...my body is gone...Some say that there
+was only a place to go here ...#MTLed
+> END STRING
+
+> BEGIN STRING
+私を破った番組最強のゲスト！\\N[1]くんのことを
+
+私としても、もっともっと知りたいなって思っちゃって♡
+> CONTEXT: Map085/events/7/pages/0/25/Dialogue/enemy6
+The show's strongest Fan Art that broke me! About
+\\N[1]. As for me, I think I want to know more
+more#MTLed
+> END STRING
+
+> BEGIN STRING
+だから、私もここに居させて？
+
+いいでしょ？\\N[1]くん♪
+> CONTEXT: Map085/events/7/pages/0/29/Dialogue/enemy6
+So, let me be here too? Good idea?\\N[1]♪#MTLed
+> END STRING
+
+> BEGIN STRING
+う、うん……
+
+そりゃあ、もちろんだよ…
+> CONTEXT: Map085/events/7/pages/0/33/Dialogue/kazuya
+No……. Oh yes, of course ...#MTLed
+> END STRING
+
+> BEGIN STRING
+（ショーができないって分かってても
+
+　やっぱり彼女の部屋は舞台になるんだな………）
+> CONTEXT: Map085/events/7/pages/0/37/Dialogue/kazuya
+(I know I can't show. After all her room is on
+the stage .........)#MTLed
+> END STRING

@@ -1,0 +1,1207 @@
+﻿> GAIJINIZER PATCH FILE
+> BEGIN STRING
+親密度が２５以上必要。
+（現在の値：\\V[55]）
+> CONTEXT: Map217/events/4/pages/0/0/Dialogue
+25 or more intimacy is required. (Current value: \\V[55] )#MTLed
+> END STRING
+
+> BEGIN STRING
+親密度が５０以上必要。
+（現在の値：\\V[55]）
+> CONTEXT: Map217/events/6/pages/0/0/Dialogue
+50 or more intimacy is required. (Current value: \\V[55] )#MTLed
+> END STRING
+
+> BEGIN STRING
+親密度が１００必要。
+（現在の値：\\V[55]）
+> CONTEXT: Map217/events/3/pages/0/18/Dialogue
+100 intimacy required. (Current value: \\V[55] )#MTLed
+> END STRING
+
+> BEGIN STRING
+やっ♪
+
+元気してるかい？\\N[1]。
+> CONTEXT: Map217/events/7/pages/0/5/Dialogue/hyakki
+Follow♪. Are you well? \\N[1].#MTLed
+> END STRING
+
+> BEGIN STRING
+び、百鬼……！？
+
+な……なんでマイルームに……！！
+> CONTEXT: Map217/events/7/pages/0/9/Dialogue/kazuya
+B, Hyakki ......! ? Nah...why in my room ...! !#MTLed
+> END STRING
+
+> BEGIN STRING
+『なんで』って……そんなに意外かい？
+> CONTEXT: Map217/events/7/pages/0/14/Dialogue/hyakki
+What is "Why not"...so surprising?#MTLed
+> END STRING
+
+> BEGIN STRING
+アタシは多分、この脱出で
+
+\\N[1]に一番関わった悪魔だと思うケド？
+> CONTEXT: Map217/events/7/pages/0/16/Dialogue/hyakki
+'I' maybe this escape. Kedo do you think it's the
+demon most involved with \\N[1]?#MTLed
+> END STRING
+
+> BEGIN STRING
+それに、アルケニーの巣やティタノボアに関しては
+直接助けたりもしただろう？
+
+もう、ここに来ても何ら不思議じゃないヨ。
+> CONTEXT: Map217/events/7/pages/0/20/Dialogue/hyakki
+Besides, regarding the Archeny's Nest and
+Titanoboa. Did you also help directly?
+It's no wonder if you come here, yo.#MTLed
+> END STRING
+
+> BEGIN STRING
+そ、そりゃそうだけど………
+> CONTEXT: Map217/events/7/pages/0/25/Dialogue/kazuya
+Well, that's right .........#MTLed
+> END STRING
+
+> BEGIN STRING
+それとも………アンタはもしかして
+
+ アタシがアンタを『商売相手』としか見てなかった
+ とでも思っているのかい？
+> CONTEXT: Map217/events/7/pages/0/28/Dialogue/hyakki
+Or...... you mean you. 'I' only saw you as a
+'business partner'. Do you think so?#MTLed
+> END STRING
+
+> BEGIN STRING
+もしそうなら……
+とんだ買いかぶりだよ……？
+
+ 『トンカツ』くん………♡
+> CONTEXT: Map217/events/7/pages/0/33/Dialogue/hyakki2
+If so……. Is it buying for a long time ...?
+"Pork cutlet" kun...... ♡#MTLed
+> END STRING
+
+> BEGIN STRING
+それに、アンタのほうだって
+ コンビニでの時、アタシが抜いてやるって言ったら
+
+股間がビクビク反応してたじゃないか……♪
+> CONTEXT: Map217/events/7/pages/0/40/Dialogue/hyakki2
+Besides, you are the one. At the convenience
+store, if you say that 'I' will pull
+The crotch had a brisk reaction probably ...♪#MTLed
+> END STRING
+
+> BEGIN STRING
+うっ………！！
+
+そ、それは………
+> CONTEXT: Map217/events/7/pages/0/45/Dialogue/kazuya-a
+ugh.........!! Well, that's .........#MTLed
+> END STRING
+
+> BEGIN STRING
+まぁ、それ以外にもサ
+
+ この脱出の中でいろいろと謎のままの部分もあるだろうから
+ アタシの知る限りで、教えようとおもってね。
+> CONTEXT: Map217/events/7/pages/0/50/Dialogue/hyakki
+Well, besides that. Because there will be some
+parts that remain as mystery in this escape
+As far as I know, let's teach.#MTLed
+> END STRING
+
+> BEGIN STRING
+アンタもそれなら、アタシがここにいた方が
+ なにかと都合がいいだろう？
+
+だからしばらくの間、お邪魔するヨ♪
+> CONTEXT: Map217/events/7/pages/0/55/Dialogue/hyakki
+If you also have it, if 'I' was here
+Is something convenient? So for a while, Yo♪#MTLed
+> END STRING
+
+> BEGIN STRING
+よく来たね！\\N[1]！！
+
+今日は何の用だい？
+> CONTEXT: Map217/events/5/pages/0/19/Dialogue/hyakki
+Well came! \\N[1]!!What is it for today?#MTLed
+> END STRING
+
+> BEGIN STRING
+雑談する en(v[55] \>= 25) 
+> CONTEXT: Map217/events/5/pages/0/31/Choice/0
+Chaten(v[55] \>= 25)#MTLed
+> END STRING
+
+> BEGIN STRING
+搾精（パイズリ）en(v[55] \>= 25) 
+> CONTEXT: Map217/events/5/pages/0/31/Choice/1
+milking (tit-fuck)en(v[55] \>= 25)#MTLed
+> END STRING
+
+> BEGIN STRING
+搾精（あやし）en(v[55] \>= 80) 
+> CONTEXT: Map217/events/5/pages/0/31/Choice/2
+milkingen(v[55] \>= 80)#MTLed
+> END STRING
+
+> BEGIN STRING
+【百鬼】種族：鬼
+> CONTEXT: Map217/events/5/pages/0/33/ChoiceHelp
+[Hyakki] race: demon#MTLed
+> END STRING
+
+> BEGIN STRING
+百鬼に受け取る気は無いようだ……
+> CONTEXT: Map217/events/5/pages/0/143/Dialogue
+Hyakki seems not to receive it ......#MTLed
+> END STRING
+
+> BEGIN STRING
+あー……気持ちは嬉しいんだけどサ。
+
+アタシ、一応行商人だから……
+物品にはあんまり困ってないんだ……
+> CONTEXT: Map217/events/5/pages/0/154/Dialogue/hyakki
+Uh...I'm glad I feel good. 'I', because it is a
+temporary merchant...I'm not really troubled
+with the goods ...#MTLed
+> END STRING
+
+> BEGIN STRING
+自分で使う用で、好物だってんなら話は別だけど……
+
+そういうプレゼントは、間に合ってるんでね…
+> CONTEXT: Map217/events/5/pages/0/159/Dialogue/hyakki
+It's for your own use, and if you like it, the
+story is different...Such gifts are in time ...#MTLed
+> END STRING
+
+> BEGIN STRING
+おっけー。
+
+知りたいことがあるなら、なんでも話すよ♪
+> CONTEXT: Map217/events/5/pages/1/1/Dialogue/hyakki
+> CONTEXT: Map217/events/5/pages/2/1/Dialogue/hyakki
+Oops. I will talk about anything if I have
+something to know♪#MTLed
+> END STRING
+
+> BEGIN STRING
+百鬼について　en(v[55] \>= 30) 
+> CONTEXT: Map217/events/5/pages/1/7/Choice/0
+> CONTEXT: Map217/events/5/pages/2/7/Choice/0
+About Hyakkien(v[55] \>= 30)#MTLed
+> END STRING
+
+> BEGIN STRING
+引退について　en(v[55] \>= 60) 
+> CONTEXT: Map217/events/5/pages/1/7/Choice/1
+> CONTEXT: Map217/events/5/pages/2/7/Choice/1
+About retirementen(v[55] \>= 60)#MTLed
+> END STRING
+
+> BEGIN STRING
+『冥府の間』の目的　en(v[55] \>= 90) 
+> CONTEXT: Map217/events/5/pages/1/7/Choice/2
+> CONTEXT: Map217/events/5/pages/2/7/Choice/2
+The purpose of Hell's Gateen(v[55] \>= 90)#MTLed
+> END STRING
+
+> BEGIN STRING
+アタシのこと………って言ってもねぇ……
+
+最初から最後まで、アンタに話した通りだよ。
+> CONTEXT: Map217/events/5/pages/1/13/Dialogue/hyakki
+> CONTEXT: Map217/events/5/pages/2/13/Dialogue/hyakki
+'I' thing ..... I say...... 
+From the beginning to the end, as I told you.#MTLed
+> END STRING
+
+> BEGIN STRING
+アタシは百鬼。種族はオニ、性別は女。
+
+ 文字通り、『世界』を渡り歩く行商人さ。
+> CONTEXT: Map217/events/5/pages/1/17/Dialogue/hyakki
+> CONTEXT: Map217/events/5/pages/2/17/Dialogue/hyakki
+'I' is Hyakki. The tribe is Oni, and the gender
+is Woman. Literally, it is a hawker who walks
+across the "world".#MTLed
+> END STRING
+
+> BEGIN STRING
+商売相手は、基本的には悪魔が相手だけど……
+状況によって、人間の相手をする場合もある。
+
+アンタとかね。
+> CONTEXT: Map217/events/5/pages/1/21/Dialogue/hyakki
+> CONTEXT: Map217/events/5/pages/2/21/Dialogue/hyakki
+The business partner is basically demon.
+Depending on the situation, it may be a human
+opponent. You and me.#MTLed
+> END STRING
+
+> BEGIN STRING
+『状況によって』…？
+
+例の、シェルターで死ぬ運命だったってヤツ？
+> CONTEXT: Map217/events/5/pages/1/26/Dialogue/kazuya
+> CONTEXT: Map217/events/5/pages/2/26/Dialogue/kazuya
+"According to circumstances"…?
+For example, you were destined to die in the
+shelter?#MTLed
+> END STRING
+
+> BEGIN STRING
+『死の運命』ってのは、原則破られない。
+どういう選択をした世界でも、死ぬ運命なら必ず死ぬ。
+
+だけど、アンタはそれをねじ曲げた。
+> CONTEXT: Map217/events/5/pages/1/31/Dialogue/hyakki
+> CONTEXT: Map217/events/5/pages/2/31/Dialogue/hyakki
+"The fate of death" can not be broken in
+principle. In a world of any choice, you will
+always die if you are destined to die.
+But you screwed it.#MTLed
+> END STRING
+
+> BEGIN STRING
+運命が急に変わり、世界を救う旅に出たり
+成り行きで世界を救うことになったヤツなら見たが…
+
+『死の運命』自体を変えるヤツは、初めてだった。
+> CONTEXT: Map217/events/5/pages/1/36/Dialogue/hyakki
+Fate changes suddenly, and we go on a journey to
+save the world. I saw a guy who saved the world
+in a row...It was my first time to change the
+destiny of death itself.#MTLed
+> END STRING
+
+> BEGIN STRING
+だからアタシは、この世界に関わったのサ。
+
+アンタが『どういう結末』に変わるのか……
+とっても興味があったからね。
+> CONTEXT: Map217/events/5/pages/1/41/Dialogue/hyakki
+> CONTEXT: Map217/events/5/pages/2/41/Dialogue/hyakki
+So 'I' was involved in this world.
+What kind of ending do you change to ......?
+I was very interested.#MTLed
+> END STRING
+
+> BEGIN STRING
+おっと！！
+
+ 『実際に、この世界がどう変わったか』ってのは
+ お願いだから聞かないでおくれよ？
+> CONTEXT: Map217/events/5/pages/1/49/Dialogue/hyakki
+> CONTEXT: Map217/events/5/pages/2/49/Dialogue/hyakki
+Oops!!"In fact, how did this world change?"
+Please don't ask me, please.#MTLed
+> END STRING
+
+> BEGIN STRING
+アンタが『この先』、何に影響を与えるのかを知れば
+ もしかしたら、それが原因で変わらないかもしれない。
+
+タイムスリップものでよくある話だろ？
+> CONTEXT: Map217/events/5/pages/1/54/Dialogue/hyakki
+> CONTEXT: Map217/events/5/pages/2/54/Dialogue/hyakki
+If you know what is going to be "the future,"
+Maybe it won't change because of that.
+It's a common story with time slips, right?#MTLed
+> END STRING
+
+> BEGIN STRING
+だからアタシが教えるのは、あくまで『結果』のみ……
+
+じゃないと、アタシが『傍観者』として
+ フェアじゃないからね。
+> CONTEXT: Map217/events/5/pages/1/59/Dialogue/hyakki
+> CONTEXT: Map217/events/5/pages/2/59/Dialogue/hyakki
+So 'I' teaches only 'Results' ...
+Otherwise, 'I' as a 'bystander'
+It's not fair.#MTLed
+> END STRING
+
+> BEGIN STRING
+でも………
+
+ティタノボアの時は、助太刀してくれたし
+ なんなら身を呈して守ってくれたよね……？
+> CONTEXT: Map217/events/5/pages/1/67/Dialogue/kazuya
+> CONTEXT: Map217/events/5/pages/2/67/Dialogue/kazuya
+But ......... At Titanoboa, he helped me
+What did you show and protect yourself ...?#MTLed
+> END STRING
+
+> BEGIN STRING
+それは、『傍観者』としてはオッケーなの…？
+
+ 僕が、ティタノボアに負けるって知ってたから
+助けてくれたんじゃあ………
+> CONTEXT: Map217/events/5/pages/1/72/Dialogue/kazuya
+> CONTEXT: Map217/events/5/pages/2/72/Dialogue/kazuya
+Is it Okey dokey as a "bystander" ...?
+Because I knew I would lose to Titanoboa
+You helped me .........#MTLed
+> END STRING
+
+> BEGIN STRING
+あー……アンタ、何か勘違いしてるみたいだけど…
+
+アタシは、あの時点で『アンタが負ける』運命は
+一切見てないんだよ。
+> CONTEXT: Map217/events/5/pages/1/78/Dialogue/hyakki
+> CONTEXT: Map217/events/5/pages/2/78/Dialogue/hyakki
+Uh...you seem to misunderstand you ...
+'I' is the fate that you lose at that point
+I have not seen it at all.#MTLed
+> END STRING
+
+> BEGIN STRING
+よく思い出してごらんよ……
+
+アタシは『中立を保てない相手だから』ってのと
+『勝ち目がなさそうだから』助太刀するって言っただけだ
+> CONTEXT: Map217/events/5/pages/1/84/Dialogue/hyakki
+> CONTEXT: Map217/events/5/pages/2/84/Dialogue/hyakki
+Remember me a lot...'I' is 'Because I can not
+maintain neutrality'. "Because there's no chance
+to win," he just said he's fighting#MTLed
+> END STRING
+
+> BEGIN STRING
+『あそこで死ぬ運命だから』なんて一言も言ってないよ…
+
+ましてや、あの時点では『介入』の存在は
+まだ自分の中では確定してなかったからね……
+> CONTEXT: Map217/events/5/pages/1/89/Dialogue/hyakki
+> CONTEXT: Map217/events/5/pages/2/89/Dialogue/hyakki
+"I am destined to die there" I have not said a
+word...Above all, at that time, the existence
+of "intervention" is. I haven't decided yet in
+myself ...#MTLed
+> END STRING
+
+> BEGIN STRING
+アタシがあんたを助けたのは、あくまで自分の判断……
+
+この世界の『百鬼』として行動しただけサ
+> CONTEXT: Map217/events/5/pages/1/94/Dialogue/hyakki
+> CONTEXT: Map217/events/5/pages/2/94/Dialogue/hyakki
+It is my own judgment that 'I' helped you ...
+I just acted as "Hyakki" in this world.#MTLed
+> END STRING
+
+> BEGIN STRING
+……………まぁ、でも今考えると
+
+『あの出来事』も、冥府の間の連中の
+思惑通りだったのかもしれないねぇ……
+> CONTEXT: Map217/events/5/pages/1/100/Dialogue/hyakki
+> CONTEXT: Map217/events/5/pages/2/100/Dialogue/hyakki
+......... Well, but if you think now
+"That event" is also from the guys at Hell's Gate
+Maybe it was as expected ...#MTLed
+> END STRING
+
+> BEGIN STRING
+冥府の間の……？
+
+ど、どういうこと……？
+> CONTEXT: Map217/events/5/pages/1/106/Dialogue/kazuya
+> CONTEXT: Map217/events/5/pages/2/106/Dialogue/kazuya
+Hell's Gate's ...? What kind of thing ...?#MTLed
+> END STRING
+
+> BEGIN STRING
+考えてもみなよ。
+
+アンタは海上ステーションで悪魔を喚ぶとき
+全書を通じて『介入者』と繋がった。
+> CONTEXT: Map217/events/5/pages/1/110/Dialogue/hyakki
+> CONTEXT: Map217/events/5/pages/2/110/Dialogue/hyakki
+Think of it all. When you attack a demon at a
+naval station. It was connected with the
+"intervener" through the whole book.#MTLed
+> END STRING
+
+> BEGIN STRING
+だけど、そんな芸当『お互いを意識』してないと無理だ。
+
+ 例えるなら、存在するかも分からない相手に、
+いきなりよく知らない電話をかけるかい？
+> CONTEXT: Map217/events/5/pages/1/115/Dialogue/hyakki
+> CONTEXT: Map217/events/5/pages/2/115/Dialogue/hyakki
+However, it is impossible if you do not be aware
+of each other. If you compare, to the other party
+who does not know whether it exists,
+Do you make an unexpected phone call?#MTLed
+> END STRING
+
+> BEGIN STRING
+あれは、アンタに『介入している誰か』を認識させる…
+
+『仕上げに向けた仕込み』だったんだとおもうヨ。
+> CONTEXT: Map217/events/5/pages/1/120/Dialogue/hyakki
+> CONTEXT: Map217/events/5/pages/2/120/Dialogue/hyakki
+That makes you recognize "someone who intervenes"
+... If it was "preparation for the finish", it is
+already yo.#MTLed
+> END STRING
+
+> BEGIN STRING
+し、仕込み……か……
+
+ホントに冥府の間のあの２人のシナリオ通りだったんだな…
+> CONTEXT: Map217/events/5/pages/1/125/Dialogue/kazuya
+> CONTEXT: Map217/events/5/pages/2/125/Dialogue/kazuya
+し 、 仕 .................. It was really the same
+as those two script of Hell's Gate ...#MTLed
+> END STRING
+
+> BEGIN STRING
+百鬼………
+
+君があの公園で言った『引退』って、本気だったの…？
+> CONTEXT: Map217/events/5/pages/1/136/Dialogue/kazuya
+> CONTEXT: Map217/events/5/pages/2/136/Dialogue/kazuya
+Hyakki ......... Did you really say "retirement"
+you said in the park ...?#MTLed
+> END STRING
+
+> BEGIN STRING
+………？
+
+アタシ、そんなこと言ったっけ？
+> CONTEXT: Map217/events/5/pages/1/141/Dialogue/hyakki
+> CONTEXT: Map217/events/5/pages/2/141/Dialogue/hyakki
+.........? 'I', did you say that?#MTLed
+> END STRING
+
+> BEGIN STRING
+ （あっ………！
+
+ 　あのメッセージって確か………やり直す前の……）
+> CONTEXT: Map217/events/5/pages/1/147/Dialogue/kazuya
+> CONTEXT: Map217/events/5/pages/2/147/Dialogue/kazuya
+(Ah………! That message is certain .......before
+starting over ...)#MTLed
+> END STRING
+
+> BEGIN STRING
+えっ……ええと…！！ごめん…！
+
+僕の勘違いだったら…
+> CONTEXT: Map217/events/5/pages/1/151/Dialogue/kazuya
+> CONTEXT: Map217/events/5/pages/2/151/Dialogue/kazuya
+Eh...uh ...!!sorry…! If I misunderstood ...#MTLed
+> END STRING
+
+> BEGIN STRING
+……………何で知ってるかは知らないけど
+
+『引退』は、確かに考えてたヨ。
+> CONTEXT: Map217/events/5/pages/1/157/Dialogue/hyakki
+> CONTEXT: Map217/events/5/pages/2/157/Dialogue/hyakki
+.......... I do not know what I know
+"Retirement" is indeed Yo thinking.#MTLed
+> END STRING
+
+> BEGIN STRING
+ど、どうして……？
+
+なんか、そういう雰囲気じゃなかったっていうか
+引退なんて、とても………
+> CONTEXT: Map217/events/5/pages/1/162/Dialogue/kazuya
+> CONTEXT: Map217/events/5/pages/2/162/Dialogue/kazuya
+How and why ...? I guess it wasn't that kind of
+atmosphere. Retirement is very .........#MTLed
+> END STRING
+
+> BEGIN STRING
+……………見すぎたんだよ。
+> CONTEXT: Map217/events/5/pages/1/168/Dialogue/hyakki
+> CONTEXT: Map217/events/5/pages/2/168/Dialogue/hyakki
+..... I saw too much.#MTLed
+> END STRING
+
+> BEGIN STRING
+見すぎた……？
+> CONTEXT: Map217/events/5/pages/1/170/Dialogue/kazuya
+> CONTEXT: Map217/events/5/pages/2/170/Dialogue/kazuya
+I saw too much ...?#MTLed
+> END STRING
+
+> BEGIN STRING
+ 人間界でも、不老不死とかの話でよく聞かないかい？
+
+ 『永遠に生き続けるのは、死ぬより辛い』みたいなサ
+> CONTEXT: Map217/events/5/pages/1/172/Dialogue/hyakki
+> CONTEXT: Map217/events/5/pages/2/172/Dialogue/hyakki
+The human realm But do you often hear about
+stories like immortality? A service like "It is
+harder to die forever than to die"#MTLed
+> END STRING
+
+> BEGIN STRING
+アタシは………商売柄、『世界』を見すぎたんだ。
+
+だから、飽きてきてたんだよ。新鮮味がなくて。
+> CONTEXT: Map217/events/5/pages/1/176/Dialogue/hyakki
+> CONTEXT: Map217/events/5/pages/2/176/Dialogue/hyakki
+'I' is .... I saw too much business, 'the world'.
+So I was getting bored. I have no fresh taste.#MTLed
+> END STRING
+
+> BEGIN STRING
+普通、悪魔はそんな考えに行き着かないらしいけどね…
+
+アタシは多分、毎日の刺激が強すぎたんだろうサ。
+> CONTEXT: Map217/events/5/pages/1/180/Dialogue/hyakki
+> CONTEXT: Map217/events/5/pages/2/180/Dialogue/hyakki
+Normally, demon does not seem to reach such an
+idea...'I' is probably because the daily
+stimulation was too strong.#MTLed
+> END STRING
+
+> BEGIN STRING
+ドラゴンの支配する、中世の世界………
+宇宙の害虫と戦う、SFみたいな世界………
+
+直接アタシが関わらなくて、通り過ぎるだけの世界…
+> CONTEXT: Map217/events/5/pages/1/184/Dialogue/hyakki
+> CONTEXT: Map217/events/5/pages/2/184/Dialogue/hyakki
+Dragon's rule, the medieval world .........
+Fight against pests in space, SF-like world
+......... A world just passing by without 'I'
+directly involved ...#MTLed
+> END STRING
+
+> BEGIN STRING
+でもね………
+
+結局、アタシは『傍観者』に過ぎなかったんだよ。
+それを何度か、思い知らされてさ……
+> CONTEXT: Map217/events/5/pages/1/190/Dialogue/hyakki
+> CONTEXT: Map217/events/5/pages/2/190/Dialogue/hyakki
+But you know………. After all, 'I' was only a
+'bystander'. Be aware of it several times ...#MTLed
+> END STRING
+
+> BEGIN STRING
+例えば………
+
+一人の、飢えた男がいたとするだろう。
+もちろん、このままだと餓死してしまうヤツさ。
+> CONTEXT: Map217/events/5/pages/1/195/Dialogue/hyakki
+> CONTEXT: Map217/events/5/pages/2/195/Dialogue/hyakki
+For example ......... Suppose you have a hungry
+man. Of course, it is a guy who will starve and
+die if it is this way.#MTLed
+> END STRING
+
+> BEGIN STRING
+アタシがそいつに、食料を売ったとしても……
+
+そいつは、すぐに別の方法で死ぬことになる。
+ 何度やってもそれは同じ………
+> CONTEXT: Map217/events/5/pages/1/200/Dialogue/hyakki
+> CONTEXT: Map217/events/5/pages/2/200/Dialogue/hyakki
+Even if 'I' sold food to him at that time ...
+It will soon die in another way.
+Many times it is the same .........#MTLed
+> END STRING
+
+> BEGIN STRING
+『死の運命』は、変えられない………
+
+さっきも言っただろ？
+> CONTEXT: Map217/events/5/pages/1/205/Dialogue/hyakki
+> CONTEXT: Map217/events/5/pages/2/205/Dialogue/hyakki
+"Fate of death" can not be changed......
+Did you say that already?#MTLed
+> END STRING
+
+> BEGIN STRING
+それがただの一回なら、割り切れるかもしれないケド……
+何十回、何百回と続いてみなよ……
+
+たとえアンタでも、人助けがバカらしくなるさ。
+> CONTEXT: Map217/events/5/pages/1/209/Dialogue/hyakki
+> CONTEXT: Map217/events/5/pages/2/209/Dialogue/hyakki
+If it is only one time, it may be divisible Kedo
+... Do not go on dozens of times, hundreds of
+times...Even if you are, your help will be
+stupid.#MTLed
+> END STRING
+
+> BEGIN STRING
+百鬼……
+> CONTEXT: Map217/events/5/pages/1/215/Dialogue/kazuya
+> CONTEXT: Map217/events/5/pages/1/453/Dialogue/kazuya
+> CONTEXT: Map217/events/5/pages/2/215/Dialogue/kazuya
+Hyakki ......#MTLed
+> END STRING
+
+> BEGIN STRING
+アンタを助けたのも、ある種の気まぐれさ
+
+アンタが死の運命から逃れたというなら、その理由は
+ティタノボアなんかにやられるためじゃないはずだ。
+> CONTEXT: Map217/events/5/pages/1/217/Dialogue/hyakki
+> CONTEXT: Map217/events/5/pages/2/217/Dialogue/hyakki
+Some kind of fancy that helped you
+If you escape from the destiny of death, the
+reason is. It shouldn't be because you are being
+scolded by Titanoboa.#MTLed
+> END STRING
+
+> BEGIN STRING
+自分でその結末を見届けられないのは残念だケド……
+
+それがアタシの『役割』ならって思ってね……
+> CONTEXT: Map217/events/5/pages/1/222/Dialogue/hyakki
+> CONTEXT: Map217/events/5/pages/2/222/Dialogue/hyakki
+It is a pity that I can not see the end myself.
+I think that's the 'I' 'role' ...#MTLed
+> END STRING
+
+> BEGIN STRING
+結局……アタシは『終わる場所』を求めてたのかもネ…
+自分の、『世界を渡る旅』の……
+
+だから『零次元展開装置』なんて切り札を持ち歩いてた……
+> CONTEXT: Map217/events/5/pages/1/226/Dialogue/hyakki
+> CONTEXT: Map217/events/5/pages/2/226/Dialogue/hyakki
+After all...'I' might have asked for 'the place
+to finish'...My own, 'The journey across the
+world'...So I was carrying around the "zero
+dimension expansion device" ...#MTLed
+> END STRING
+
+> BEGIN STRING
+でも、どういうわけか、『アタシが装置を使う世界』は
+
+アンタのおかげで無かったことになったみたいだけど…ね。
+> CONTEXT: Map217/events/5/pages/1/231/Dialogue/hyakki
+> CONTEXT: Map217/events/5/pages/2/231/Dialogue/hyakki
+But somehow, 'The world where' I 'uses equipment'
+is. It looks like it wasn't thanks to you ...#MTLed
+> END STRING
+
+> BEGIN STRING
+アタシは多分、その時点で終わっていたとしても……
+
+自分の生き方に、悔いは無かったと思うヨ。
+> CONTEXT: Map217/events/5/pages/1/235/Dialogue/hyakki
+> CONTEXT: Map217/events/5/pages/2/235/Dialogue/hyakki
+'I' is probably still finished at that time ...
+I don't think there was any regret in my way of
+life.#MTLed
+> END STRING
+
+> BEGIN STRING
+条件【\\C[2]友好度９０以上\\C[0]】
+> CONTEXT: Map217/events/5/pages/1/243/ChoiceHelp
+> CONTEXT: Map217/events/5/pages/2/243/ChoiceHelp
+conditions【\\C[2] Degree of friendship 90 or more\\C[0] ]#MTLed
+> END STRING
+
+> BEGIN STRING
+おそらくだけど………
+
+冥府の間の連中が、本当に救いたかったのは
+十中八九、アンタじゃないと思うんだ。
+> CONTEXT: Map217/events/5/pages/1/246/Dialogue/hyakki
+> CONTEXT: Map217/events/5/pages/2/246/Dialogue/hyakki
+Probably............ The guys at Hell's Gate
+really wanted to save. I guess it's not your
+fault.#MTLed
+> END STRING
+
+> BEGIN STRING
+ 『アンタが生きている』っていうのは単なる『鍵』。
+
+ 『鍵』を使って、奴らが本当に救いたかった人物………
+> CONTEXT: Map217/events/5/pages/1/251/Dialogue/hyakki
+> CONTEXT: Map217/events/5/pages/2/251/Dialogue/hyakki
+"You are alive" is just a "key".
+People who really wanted to save using the "key"
+... ...#MTLed
+> END STRING
+
+> BEGIN STRING
+それはきっと、『レイナ』さ。
+> CONTEXT: Map217/events/5/pages/1/255/Dialogue/hyakki
+> CONTEXT: Map217/events/5/pages/2/255/Dialogue/hyakki
+That's surely "Reina".#MTLed
+> END STRING
+
+> BEGIN STRING
+れ、レイナを………！？
+
+いったいどうして………！！
+> CONTEXT: Map217/events/5/pages/1/258/Dialogue/kazuya
+> CONTEXT: Map217/events/5/pages/2/258/Dialogue/kazuya
+Reina, ......! ? After all......! !#MTLed
+> END STRING
+
+> BEGIN STRING
+まぁ、『どうして』って言われると
+正直その理由は分かんないんだけどサ……
+
+まずは『アンタが目的じゃない』って根拠を話すよ。
+> CONTEXT: Map217/events/5/pages/1/263/Dialogue/hyakki
+> CONTEXT: Map217/events/5/pages/2/263/Dialogue/hyakki
+Well, when you say "why". To be honest I do not
+know the reason but ...... First of all, I tell
+you the grounds that you are not a purpose.#MTLed
+> END STRING
+
+> BEGIN STRING
+それじゃ、大前提として
+冥府の間の主人であるクッションくんが
+
+『アンタを呼び出した理由』、覚えてる？
+> CONTEXT: Map217/events/5/pages/1/269/Dialogue/hyakki
+> CONTEXT: Map217/events/5/pages/2/269/Dialogue/hyakki
+Well, as a major premise. Cushion-kun who is the
+master of Hell's Gate. Do you remember 'Why you
+call you?'#MTLed
+> END STRING
+
+> BEGIN STRING
+え、ええと………たしか
+
+僕の魂が、死後に天国にも地獄にもいけないから
+死なないように『免罪符を渡すため』…だっけ？
+> CONTEXT: Map217/events/5/pages/1/274/Dialogue/kazuya
+> CONTEXT: Map217/events/5/pages/2/274/Dialogue/kazuya
+Well, uh......... Because my soul can not go to
+heaven or hell after death. Don't die "To pass
+the innocence"...is it?#MTLed
+> END STRING
+
+> BEGIN STRING
+そうそう！よく覚えてたネ！
+
+ようは『クッションくんが書類書くのを渋った』んだ。
+> CONTEXT: Map217/events/5/pages/1/279/Dialogue/hyakki
+> CONTEXT: Map217/events/5/pages/2/279/Dialogue/hyakki
+Yes Yes! I remembered well! You said, "Cushon-kun
+was reluctant to write documents."#MTLed
+> END STRING
+
+> BEGIN STRING
+でも、そのわりには『免罪符を装備すること』は
+\\N[1]の意思で、任意だった。
+
+………どうしてだっけ？
+> CONTEXT: Map217/events/5/pages/1/283/Dialogue/hyakki
+> CONTEXT: Map217/events/5/pages/2/283/Dialogue/hyakki
+But in the meantime, "providing the indemnity" is
+\\N[1]'s intention was arbitrary.
+......why not?#MTLed
+> END STRING
+
+> BEGIN STRING
+ 悪魔に犯されて死んでしまうと、魂の契約の関係上
+ 魂はその悪魔の所有物になるから……
+
+その場合、クッションくんは書類を書かなくて済むとか…
+> CONTEXT: Map217/events/5/pages/1/289/Dialogue/kazuya
+> CONTEXT: Map217/events/5/pages/2/289/Dialogue/kazuya
+When the demon is committed and dies, on the
+relationship of the soul contract
+The soul is the property of the demon ...
+In that case, Cushion-kun will not have to write
+documents ...#MTLed
+> END STRING
+
+> BEGIN STRING
+そうだネ。
+ 悪魔が、人間との約束を破れないのと同じ……
+
+人間と悪魔の間の『契約』は絶対なんだ。
+> CONTEXT: Map217/events/5/pages/1/294/Dialogue/hyakki
+> CONTEXT: Map217/events/5/pages/2/294/Dialogue/hyakki
+That's right. It is the same as demon not
+breaking the promise with human beings ...
+The "contract" between humans and demons is
+absolute.#MTLed
+> END STRING
+
+> BEGIN STRING
+じゃあ………それらを踏まえてさ………
+
+アタシが公園の出口で話してた事を思い出してみて？
+> CONTEXT: Map217/events/5/pages/1/300/Dialogue/hyakki
+> CONTEXT: Map217/events/5/pages/2/300/Dialogue/hyakki
+Well then...based on them .........
+Remember that 'I' was talking at the park exit?#MTLed
+> END STRING
+
+> BEGIN STRING
+ 『\\N[1]は、
+
+ 　本来ならどこでどうなる運命だったか？』
+> CONTEXT: Map217/events/5/pages/1/304/Dialogue/hyakki
+> CONTEXT: Map217/events/5/pages/2/304/Dialogue/hyakki
+"\\N[1], Where was it originally supposed to be?
+"#MTLed
+> END STRING
+
+> BEGIN STRING
+シェルターで………ルシィに………
+
+後ろから………
+> CONTEXT: Map217/events/5/pages/1/319/Dialogue/kazuya
+> CONTEXT: Map217/events/5/pages/2/319/Dialogue/kazuya
+In the shelter...... to Lucy......
+From the back………#MTLed
+> END STRING
+
+> BEGIN STRING
+……………？
+
+あ、あれ…………！？
+> CONTEXT: Map217/events/5/pages/1/324/Dialogue/kazuya
+> CONTEXT: Map217/events/5/pages/2/324/Dialogue/kazuya
+......? Oh yeah.........! ?#MTLed
+> END STRING
+
+> BEGIN STRING
+気がついたかい？
+アンタはもともと、『悪魔に魂を奪われる』運命だった。
+
+つまり、\\C[2]クッションくんが助ける理由が無いんだよ。
+> CONTEXT: Map217/events/5/pages/1/328/Dialogue/hyakki
+> CONTEXT: Map217/events/5/pages/2/328/Dialogue/hyakki
+Did you notice? You were originally a fate that
+'the demon is robbed of the soul'.
+In other words,\\C[2] There is no reason why
+Cushion-kun can help.#MTLed
+> END STRING
+
+> BEGIN STRING
+むしろ『免罪符』は、『介入者』のためのもの…
+心蝕の影響を受けつつの、すばやく再挑戦するための…
+
+そう考えると、納得できないかい？
+> CONTEXT: Map217/events/5/pages/1/333/Dialogue/hyakki
+> CONTEXT: Map217/events/5/pages/2/333/Dialogue/hyakki
+Rather, the 'donation mark' is for the
+'intermediate'...Under the influence of mind
+corruption, to try again quickly ...
+If you think so, can not you convince?#MTLed
+> END STRING
+
+> BEGIN STRING
+ 『悪魔全書』も『マイルーム』も………
+
+アンタが生き延びるためだけなら、不要なはずだろう？
+ 『救済措置』だけ、受けさせてやればいい。
+> CONTEXT: Map217/events/5/pages/1/338/Dialogue/hyakki
+> CONTEXT: Map217/events/5/pages/2/338/Dialogue/hyakki
+"All demons" and "my room" too .........
+Shouldn't it be unnecessary just to survive?
+You can only receive "Assistance".#MTLed
+> END STRING
+
+> BEGIN STRING
+だけど、敢えて『介入者』に
+\\N[1]と彼女達との交流を擬似体験させて
+
+心蝕を介して、魔力を蓄積させた……
+> CONTEXT: Map217/events/5/pages/1/343/Dialogue/hyakki
+> CONTEXT: Map217/events/5/pages/2/343/Dialogue/hyakki
+But I dare to be an "intervener"
+Let's have a simulated experience of \\N[1]'s
+interaction with them. Accumulated magic through
+mind corruption ...#MTLed
+> END STRING
+
+> BEGIN STRING
+そして………
+
+レイナを無事に救うことができたんだ。
+> CONTEXT: Map217/events/5/pages/1/348/Dialogue/hyakki
+> CONTEXT: Map217/events/5/pages/2/348/Dialogue/hyakki
+And ......... I was able to save Reina safely.#MTLed
+> END STRING
+
+> BEGIN STRING
+た、確かにつじつまは合うけど……
+
+それなら、冥府の間のあの２人が
+レイナを救った理由はなんなんだ…？
+> CONTEXT: Map217/events/5/pages/1/353/Dialogue/kazuya
+> CONTEXT: Map217/events/5/pages/2/353/Dialogue/kazuya
+Certainly, I'm satisfied with it ...
+Then, those two of Hell's Gate
+The reason for saving Reina is gradually ...?#MTLed
+> END STRING
+
+> BEGIN STRING
+レイナはメシア・プロジェクトの候補者ではあったけど…
+
+成功するためには、魔力を持つ僕が生きていることが
+大前提だったはずだ。
+> CONTEXT: Map217/events/5/pages/1/358/Dialogue/kazuya
+> CONTEXT: Map217/events/5/pages/2/358/Dialogue/kazuya
+Reina was a candidate for the Messiah project ...
+In order to be successful, I am living with magic
+power. It should have been a major premise.#MTLed
+> END STRING
+
+> BEGIN STRING
+僕やレイナが生きていることが、
+
+クッション君やメイラのなんの得になるんだ…？
+> CONTEXT: Map217/events/5/pages/1/363/Dialogue/kazuya
+> CONTEXT: Map217/events/5/pages/2/363/Dialogue/kazuya
+That I and Reina are alive, What are the benefits
+of Cushion and Meira ...?#MTLed
+> END STRING
+
+> BEGIN STRING
+うーん、だから最初に言っただろ？
+
+ 『正直理由は分からない』って……
+> CONTEXT: Map217/events/5/pages/1/368/Dialogue/hyakki
+> CONTEXT: Map217/events/5/pages/2/368/Dialogue/hyakki
+Hmmm, so did you say that first?
+"I do not know the reason for honesty" ...#MTLed
+> END STRING
+
+> BEGIN STRING
+さっきのだって、アタシが気付いた事から導いた
+
+単なるひとつの推測に過ぎないんだからサ。
+> CONTEXT: Map217/events/5/pages/1/372/Dialogue/hyakki
+> CONTEXT: Map217/events/5/pages/2/374/Dialogue/hyakki
+I just got it from what I noticed
+Because it is only one guess.#MTLed
+> END STRING
+
+> BEGIN STRING
+……………でも、アタシも冥府の間の連中に関しては
+
+分からないことが、もうひとつあるんだ。
+> CONTEXT: Map217/events/5/pages/1/379/Dialogue/hyakki
+> CONTEXT: Map217/events/5/pages/2/379/Dialogue/hyakki
+......... but also for 'I' and Hell's Gate guys
+There is one more thing that I do not understand.#MTLed
+> END STRING
+
+> BEGIN STRING
+その問題の『悪魔全書』についてだヨ……
+> CONTEXT: Map217/events/5/pages/1/383/Dialogue/hyakki
+> CONTEXT: Map217/events/5/pages/2/383/Dialogue/hyakki
+About the problem "all demons" Yo ...#MTLed
+> END STRING
+
+> BEGIN STRING
+仮に、あのメイラって奴が
+海上ステーションの時点で使うつもりだったとして……
+
+その『全書』、最後まで埋まりきってるかい？
+> CONTEXT: Map217/events/5/pages/1/386/Dialogue/hyakki
+> CONTEXT: Map217/events/5/pages/2/386/Dialogue/hyakki
+Temporarily, that Meira guy. I intended to use it
+at the time of the naval station ......
+Is that "the whole book" completely filled up to
+the end?#MTLed
+> END STRING
+
+> BEGIN STRING
+そういえば………
+
+まだ少し、余白が残っているような…………
+> CONTEXT: Map217/events/5/pages/1/392/Dialogue/kazuya
+> CONTEXT: Map217/events/5/pages/2/392/Dialogue/kazuya
+by the way………. There still seems to be some
+margins left .........#MTLed
+> END STRING
+
+> BEGIN STRING
+単に見逃した項目ならまだしも……
+
+まだ最後まで埋まりきってないってことは
+他に『目的』があって空欄が存在しているはず…
+> CONTEXT: Map217/events/5/pages/1/396/Dialogue/hyakki
+> CONTEXT: Map217/events/5/pages/2/396/Dialogue/hyakki
+If you just missed the item, it's still ...
+The fact that it has not been completely filled
+yet. There is another "purpose" and there should
+be blanks ...#MTLed
+> END STRING
+
+> BEGIN STRING
+その全書が最後まで埋まりきった時………
+
+メイラってやつの『真の目的』が分かる……
+そんな気がするよ。
+> CONTEXT: Map217/events/5/pages/1/401/Dialogue/hyakki
+> CONTEXT: Map217/events/5/pages/2/401/Dialogue/hyakki
+When the whole book is completely filled
+......... You know Meira's "true purpose" ...
+I feel like that.#MTLed
+> END STRING
+
+> BEGIN STRING
+【キズナイベント】if(v[55] \>= 99) 
+> CONTEXT: Map217/events/5/pages/1/414/Choice/0
+【Bonding】if(v[55] \>= 99)#MTLed
+> END STRING
+
+> BEGIN STRING
+んー…………
+
+『キズナイベント』……ね………
+> CONTEXT: Map217/events/5/pages/1/420/Dialogue/hyakki
+uumph............ 'Bonding'...............#MTLed
+> END STRING
+
+> BEGIN STRING
+………………やっぱナシ！
+
+この選択肢は無かったことで！！
+> CONTEXT: Map217/events/5/pages/1/425/Dialogue/hyakki
+............ After all! There was no choice! !#MTLed
+> END STRING
+
+> BEGIN STRING
+\\{\\{はぁ！？
+> CONTEXT: Map217/events/5/pages/1/435/Dialogue/kazuya
+\\{\\{Hah! ?#MTLed
+> END STRING
+
+> BEGIN STRING
+いやー、悪いネ
+
+どうせ死ぬつもりだった訳だから、この機会に
+ アンタの具現種に落ち着くのもアリかと思ったけど……
+> CONTEXT: Map217/events/5/pages/1/437/Dialogue/hyakki
+No, bad. I was going to die anyway, so on this
+occasion. I thought it would be an ant to settle
+in your tranformed species though ...#MTLed
+> END STRING
+
+> BEGIN STRING
+アンタが死の運命を乗り越えたあとも
+自分の目標に向けて必死に生きているのを見てさ……
+
+もう少し『世界』を巡ってみたくなったんだよ……
+> CONTEXT: Map217/events/5/pages/1/443/Dialogue/hyakki
+Even after you overcome the fate of death
+Seeing to live desperately towards your goals ...
+I want to go around the world a little more ...#MTLed
+> END STRING
+
+> BEGIN STRING
+まぁ、アンタは特別な事例だったのかもしれない……
+
+けど、この『運命』ってのも、見方によっては
+まだまだ捨てたモンじゃないのかもなってね……
+> CONTEXT: Map217/events/5/pages/1/448/Dialogue/hyakki
+Well, maybe you were a special case ...
+However, depending on the point of view, this
+"fate". Maybe it's not Mon I've thrown it out yet
+...#MTLed
+> END STRING
+
+> BEGIN STRING
+ま！代わりと言っちゃなんだけどさ！
+
+一応、この部屋にはしばらくいるつもりだから！
+また搾られたくなったらいつでもおいでよ！
+> CONTEXT: Map217/events/5/pages/1/455/Dialogue/hyakki
+Oh! I have to say it instead! 
+After all, I will stay in this room for a while!
+Come again whenever you want to be squeezed
+again!#MTLed
+> END STRING
+
+> BEGIN STRING
+それがまぁ……
+
+この旅でアンタに示してもらった『運命』の
+お礼……ってことにしといておくれ。
+> CONTEXT: Map217/events/5/pages/1/460/Dialogue/hyakki
+That's right...Of "fate" which you showed to
+you on this trip. Thank you...and leave it to
+me.#MTLed
+> END STRING
+
+> BEGIN STRING
+百鬼………
+
+もしまだ世界を巡るっていうのなら
+僕の方からも、一つだけお願いしてもいいかな…？
+> CONTEXT: Map217/events/5/pages/1/467/Dialogue/kazuya
+Hyakki ......... If you still go around the world
+Can I ask for one from me too ...?#MTLed
+> END STRING
+
+> BEGIN STRING
+もし……その世界の中で……
+
+僕が…誰かを……みんなを傷付けている世界があったら……
+> CONTEXT: Map217/events/5/pages/1/472/Dialogue/kazuya
+If...in the world...I...somebody...if
+there is a world that is hurting everyone ......#MTLed
+> END STRING
+
+> BEGIN STRING
+お願いだ………
+
+僕を、止めて欲しい……
+たとえ、命を奪ってでも………
+> CONTEXT: Map217/events/5/pages/1/476/Dialogue/kazuya
+It is a wish ......... I want you to stop me ...
+Even if I took my life .........#MTLed
+> END STRING
+
+> BEGIN STRING
+………………
+
+『約束』は、できないよ。
+そんな世界、関わるのはアタシの方から願い下げだからね…
+> CONTEXT: Map217/events/5/pages/1/484/Dialogue/hyakki
+............ You can not do "promises".
+In such a world, it is because it is wished from
+'I' to be involved ...#MTLed
+> END STRING
+
+> BEGIN STRING
+だけど……『この世界の』アンタの頼みだ。
+
+出来る限りのことはしてやろうじゃないか。
+> CONTEXT: Map217/events/5/pages/1/489/Dialogue/hyakki
+But..."This world's" is your request.
+I will do as much as I can.#MTLed
+> END STRING
+
+> BEGIN STRING
+運命が急に変わり、世界を救う旅に出たり
+成り行きで世界を救うことになったヤツなら見たが…
+
+『死の運命』自体をを変えるヤツは、初めてだった。
+> CONTEXT: Map217/events/5/pages/2/36/Dialogue/hyakki
+Fate changes suddenly, and we go on a journey to
+save the world. I saw a guy who saved the world
+in a row...It was the first guy to change the
+destiny of death itself.#MTLed
+> END STRING

@@ -1,0 +1,281 @@
+﻿> GAIJINIZER PATCH FILE
+> BEGIN STRING
+に………
+
+に■げん……！！
+> CONTEXT: CommonEvents_336/0/Dialogue/kazuya-0
+To ......... ■ ■.........! !#MTLed
+> END STRING
+
+> BEGIN STRING
+あ、あれ……！？
+> CONTEXT: CommonEvents_336/4/Dialogue/kazuya-0
+Oh yeah ...! ?#MTLed
+> END STRING
+
+> BEGIN STRING
+フフフ……
+
+文字自体を忘れたワケじゃないのに
+\\C[2]『答えの言い方を忘れた』気分はどんなかんじ？
+> CONTEXT: CommonEvents_336/6/Dialogue/enemy11
+Hihihi ...... I'm not forgetting the letters
+themselves. \\C[2]'I forgot to say the answer' How do
+you feel?#MTLed
+> END STRING
+
+> BEGIN STRING
+分かってるとは思うけど、
+
+\\C[2]正解をボクに提示できない限り
+ピンポーン♪は鳴らないからね？
+> CONTEXT: CommonEvents_336/11/Dialogue/enemy9
+I think I understand, but. \\C[2]Unless you can present
+the correct answer to me. Ping pong♪It won't
+sound, right?#MTLed
+> END STRING
+
+> BEGIN STRING
+うううっ………！！
+> CONTEXT: CommonEvents_336/16/Dialogue/kazuya-0
+uuugh.........! !#MTLed
+> END STRING
+
+> BEGIN STRING
+あとちょっとなのに………！！
+
+こたえはわかっているのに………！！
+> CONTEXT: CommonEvents_336/18/Dialogue
+After a while......!!I know the answer......! !#MTLed
+> END STRING
+
+> BEGIN STRING
+なにかあるはずだ………
+
+\\C[2]こたえをあいてにつたえる、『べつのほうほう』が…！
+> CONTEXT: CommonEvents_336/24/Dialogue
+There should be something ......... \\C[2]"The other side of the
+world" who will answer the questions ...!#MTLed
+> END STRING
+
+> BEGIN STRING
+ゆっくりこたえる
+> CONTEXT: CommonEvents_336/28/Choice/0
+Respond slowly#MTLed
+> END STRING
+
+> BEGIN STRING
+『ばんごう』でこたえる
+> CONTEXT: CommonEvents_336/28/Choice/1
+Answer with "Bungo"#MTLed
+> END STRING
+
+> BEGIN STRING
+『ぼく』とこたえる
+> CONTEXT: CommonEvents_336/28/Choice/2
+Answer "I"#MTLed
+> END STRING
+
+> BEGIN STRING
+『ひ●』とこたえる
+> CONTEXT: CommonEvents_336/28/Choice/3
+Answer "Hi ●"#MTLed
+> END STRING
+
+> BEGIN STRING
+に……………………■………
+
+げ………ん………！！
+> CONTEXT: CommonEvents_336/30/Dialogue/kazuya-0
+To .....................................
+... ...... ...... ......! !#MTLed
+> END STRING
+
+> BEGIN STRING
+………！？
+
+に………………………■……………！？
+> CONTEXT: CommonEvents_336/34/Dialogue/kazuya-0
+.........! ? In
+.........................................! ?#MTLed
+> END STRING
+
+> BEGIN STRING
+むだだよ？
+
+\\C[2]ボクの用意した答えの『単語』の言い方は、
+ 絶対に思い出せない。
+> CONTEXT: CommonEvents_336/38/Dialogue/enemy11
+Is it useless? \\C[2]How to say "word" of the answer
+that I prepared. I will never remember.#MTLed
+> END STRING
+
+> BEGIN STRING
+かといって、『単語』として認識されなければ
+
+それはもう『答え』じゃない……
+> CONTEXT: CommonEvents_336/43/Dialogue/enemy11
+If not recognized as "word". It's not an "answer"
+anymore ...#MTLed
+> END STRING
+
+> BEGIN STRING
+残念だったね、\\N[1]くん……
+
+それじゃあ、答えになってないなぁ。
+> CONTEXT: CommonEvents_336/47/Dialogue/enemy11
+It was a pity, \\N[1]-kun...
+Well then, it's not an answer.#MTLed
+> END STRING
+
+> BEGIN STRING
+ぐっ……！！
+> CONTEXT: CommonEvents_336/51/Dialogue/kazuya-0
+> CONTEXT: Map158/events/9/pages/0/124/Dialogue/kazuya
+> CONTEXT: Map225/events/1/pages/0/79/Dialogue/kazuya-1
+Good ......! !#MTLed
+> END STRING
+
+> BEGIN STRING
+ば、ばんごう！！
+
+ 『こたえ』にばんごうをつけてくれ！！
+> CONTEXT: CommonEvents_336/55/Dialogue/kazuya-0
+Let's go!!Please give me a response to the
+"answer"! !#MTLed
+> END STRING
+
+> BEGIN STRING
+きみは、ナゾナゾしょうぶをするまえに
+
+\\C[2]『よっつのせんたくしのなかから』といった……！
+> CONTEXT: CommonEvents_336/61/Dialogue/kazuya-0
+Before you do the riddle. \\C[2]"From the inside of
+another"......!#MTLed
+> END STRING
+
+> BEGIN STRING
+ぼくにはみえていないけど………
+
+\\C[2]きみはたしかに、よっつのこたえを
+ ぼくのまえにならべているんだ……！！
+> CONTEXT: CommonEvents_336/65/Dialogue/kazuya-0
+I do not see it...but...\\C[2]Surely, you respond
+to. I'm in front of me ...! !#MTLed
+> END STRING
+
+> BEGIN STRING
+……………！！！
+
+しまった……！！ボク、それ言ってた…！？
+> CONTEXT: CommonEvents_336/70/Dialogue/enemy11
+.........!!! Oops……!!I said that ...! ?#MTLed
+> END STRING
+
+> BEGIN STRING
+さあ、『いやだ』とはいわせないぞ……！！
+
+\\C[2]『せんたくし』に、ばんごうをつけるんだ！！
+> CONTEXT: CommonEvents_336/74/Dialogue/kazuya-0
+Well, I can not say "No" ...! !
+\\C[2]I'm going to put some money on "Sentakushi"! !#MTLed
+> END STRING
+
+> BEGIN STRING
+それとも、いまからきみが『せんたくし』をいうか？
+
+\\C[2]ぼくはそれからせいかいを『ふくしょう』すれば
+ それが『せいかい』になる……！！！
+> CONTEXT: CommonEvents_336/78/Dialogue/kazuya-0
+Or does it mean that you say "sendaku" now?
+\\C[2]If I "do" from then on, I will
+That would be the "good" ...!!!#MTLed
+> END STRING
+
+> BEGIN STRING
+う、うぐぐ……！！
+> CONTEXT: CommonEvents_336/83/Dialogue/enemy12
+Ugh, ugh...!#MTLed
+> END STRING
+
+> BEGIN STRING
+（なんなの………\\N[1]くん……
+
+　もうそんなこと思い付かないくらいには
+　知識は吸ってるはずなのに……！！！）
+> CONTEXT: CommonEvents_336/85/Dialogue/enemy12
+(What's ......... \\N[1]-kun ...
+I can not think of that anymore
+Knowledge should be sucking ...!!! )#MTLed
+> END STRING
+
+> BEGIN STRING
+
+問題の選択肢に、\\C[2]番号が付与された！！
+> CONTEXT: CommonEvents_336/90/Dialogue
+In the choice of the problem,\\C[2] A number has been assigned! !#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[1]くんさぁ……
+
+ボク、きみが言いたいことはわかるんだよね……
+> CONTEXT: CommonEvents_336/104/Dialogue/enemy11
+\\N[1]-kun...I know what you want to say ...#MTLed
+> END STRING
+
+> BEGIN STRING
+でも、\\C[2]きみはまだ『三本足』じゃない。
+
+ 今後なるかどうかもわからない
+> CONTEXT: CommonEvents_336/109/Dialogue/enemy11
+But\\C[2] You are not yet "three legs".
+I don't know if it will come#MTLed
+> END STRING
+
+> BEGIN STRING
+正解じゃない、のは間違いないけど
+
+君の言いたいことも、まぁ分かるから…………
+さっきの回答はノーカンにしといてあげる。
+> CONTEXT: CommonEvents_336/113/Dialogue/enemy9
+It's definitely not correct, though
+I know what you want to say, too.........
+The previous answer is Nokan.#MTLed
+> END STRING
+
+> BEGIN STRING
+ひ…………ひ●！！
+> CONTEXT: CommonEvents_336/120/Dialogue/kazuya-0
+HI ......... HI ●!!#MTLed
+> END STRING
+
+> BEGIN STRING
+わっはっはー！
+
+\\N[1]くんならそー来ると思ったから
+\\C[2]すでに別回答も吸いとり済みなのだー！！
+> CONTEXT: CommonEvents_336/124/Dialogue/enemy11
+Bwa ha hah! Because I thought that \\N[1]-kun
+would come. \\C[2]I have already absorbed another
+answer too!!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]だからどんな言い方に変えても無駄！！
+
+言語を変えても同じ結果なのだー！
+> CONTEXT: CommonEvents_336/129/Dialogue/enemy11
+\\C[2]So no matter how you say it, it's no use!!
+It is the same result even if I change the
+language!#MTLed
+> END STRING
+
+> BEGIN STRING
+ぐうっ……！！！
+> CONTEXT: CommonEvents_336/133/Dialogue/kazuya-0
+> CONTEXT: CommonEvents_520/96/Dialogue/kazuya-0
+> CONTEXT: CommonEvents_575/71/Dialogue/kazuya-0
+> CONTEXT: Map037/events/4/pages/2/190/Dialogue/kazuya-3
+nghuh......!!!#MTLed
+> END STRING

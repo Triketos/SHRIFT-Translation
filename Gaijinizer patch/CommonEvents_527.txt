@@ -1,0 +1,89 @@
+﻿> GAIJINIZER PATCH FILE
+> BEGIN STRING
+待ってくれ！！\\N[1]！！！
+> CONTEXT: CommonEvents_527/13/Dialogue/other2
+Wait please!!\\N[1]!!!#MTLed
+> END STRING
+
+> BEGIN STRING
+ほあっ！！！？
+
+だからいきなり出てくるな！！！！
+危なく撃つところだったろ！！
+> CONTEXT: CommonEvents_527/15/Dialogue/kazuya-0
+What ?!!? So don't come out suddenly!!!!
+It was about to shoot without danger!!#MTLed
+> END STRING
+
+> BEGIN STRING
+頼む………撃たないでくれ………
+
+彼女は、おれが説得してみせるから……！！
+> CONTEXT: CommonEvents_527/21/Dialogue/other2
+Ask me...... Don't shoot......
+Because she shows me dissuade ......!!#MTLed
+> END STRING
+
+> BEGIN STRING
+な、なんだよ！！こんなときに……！！
+> CONTEXT: CommonEvents_527/25/Dialogue/kazuya-0
+?!When this happens ...!!#MTLed
+> END STRING
+
+> BEGIN STRING
+そいつは……妲己は、ユウマの仇なんだ！！
+
+どけ！！お前を巻き込んででも撃つぞ！！
+> CONTEXT: CommonEvents_527/27/Dialogue/kazuya-0
+That's it...Daiji is Yuuma's jealousy!!
+Do it!!I'll get in you and shoot!!#MTLed
+> END STRING
+
+> BEGIN STRING
+分かってる……！！
+
+だから止めてるんだ！！！
+> CONTEXT: CommonEvents_527/31/Dialogue/other2
+I know……!! So I'm stopping!!!#MTLed
+> END STRING
+
+> BEGIN STRING
+お前、ユウマを自分の手にかけるつもりかよ！？
+
+ユウマはまだ生きてるって言ったのはお前じゃないか！！
+> CONTEXT: CommonEvents_527/35/Dialogue/other2
+You are going to put Yuuma on your hand!?
+You said that Yuuma is still alive!!#MTLed
+> END STRING
+
+> BEGIN STRING
+頼む………妲己様は俺の召喚主だ……
+
+きっと話を聞いてくれる………
+> CONTEXT: CommonEvents_527/41/Dialogue/other2
+Ask me ......... Lady Daji is my summoner ...
+I will surely listen to you .........#MTLed
+> END STRING
+
+> BEGIN STRING
+少しだけ……時間をくれ………
+
+たのむ………
+> CONTEXT: CommonEvents_527/45/Dialogue/other2
+Just for a moment...give me time......
+Fun......#MTLed
+> END STRING
+
+> BEGIN STRING
+銃を下ろす
+> CONTEXT: CommonEvents_527/52/Choice/0
+> CONTEXT: Map054/events/1/pages/1/215/Choice/0
+> CONTEXT: Map086/events/1/pages/1/148/Choice/0
+Lower your weapon#Triketos
+> END STRING
+
+> BEGIN STRING
+かまわず撃つ
+> CONTEXT: CommonEvents_527/52/Choice/1
+Shoot with you#MTLed
+> END STRING
