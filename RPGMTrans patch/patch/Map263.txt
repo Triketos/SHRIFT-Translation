@@ -57,9 +57,10 @@ Finally come out.........You are something
  治療薬は買わなかったのかい？
 > CONTEXT: Map263/events/11/pages/1/0/Dialogue
 > CONTEXT: Map054/events/11/pages/1/0/Dialogue
-Oh! \\N[1]!It looks like you're suffering a lot
-while I don't see anything? 
-Didn't you buy a cure?#Triketos
+Oh! \\N[1]! It looks like you're in pain
+but I don't see anything wrong with you...
+ 
+Didn't you buy the cure already?#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -78,7 +79,7 @@ No, that is...#Triketos
 > CONTEXT: Map263/events/11/pages/1/15/Dialogue
 > CONTEXT: Map054/events/11/pages/1/15/Dialogue
 Aahh, I see. It is troublesome to be popular with
-demons, \\N[1].#MTLed
+demons, \\N[1].#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -88,10 +89,9 @@ demons, \\N[1].#MTLed
 ハルって子、そんなに好みだったのかい？
 > CONTEXT: Map263/events/11/pages/1/19/Dialogue
 > CONTEXT: Map054/events/11/pages/1/19/Dialogue
-Anyway, I gotta get the key at the time I bought
-a lunch box. Even though I was talking about
-nothing about this trouble, Haru was child, did
-you like it so much?#MTLed
+You could have just asked them for the key after
+you got them lunch. Did you really want Haru that
+badly to fall for such a simple trick?#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -100,8 +100,9 @@ you like it so much?#MTLed
 いわゆる『ケモナー』ってやつなんじゃないのぉ？
 > CONTEXT: Map263/events/11/pages/1/24/Dialogue
 > CONTEXT: Map054/events/11/pages/1/24/Dialogue
-Ah! By any chance \\N[1]. Is not he called
-"Furry"?#MTLed
+Ah!
+ 
+You're not a "Furry", are you \\N[1]?#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -111,10 +112,10 @@ Ah! By any chance \\N[1]. Is not he called
 ちょっとしたことでキレてしまいそうなんだ…！
 > CONTEXT: Map263/events/11/pages/1/29/Dialogue
 > CONTEXT: Map054/events/11/pages/1/29/Dialogue
-Oh, do not make me so crowded.......!
-My head feels dizzy, my heart tremble......
-I'm afraid I'm getting killed by a bit of things
-...!#MTLed
+Oh, please stop bugging me like that...!
+My head is pounding, my heart's beating fast......
+I feel like I'm going to die if I don't get rid of
+this...!#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -123,9 +124,9 @@ I'm afraid I'm getting killed by a bit of things
  だんだん冷静な判断はできなくなりそうだネ。
 > CONTEXT: Map263/events/11/pages/1/35/Dialogue
 > CONTEXT: Map054/events/11/pages/1/35/Dialogue
-............... Certainly, if such a condition
-lasted long. It seems that it is impossible to
-judge calmly.#MTLed
+........Certainly, if this keeps up,
+it would be hard to think calmly, wouldn't
+it....#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -134,7 +135,9 @@ judge calmly.#MTLed
 アタシが文字通り一肌脱いでやるよ♪
 > CONTEXT: Map263/events/11/pages/1/39/Dialogue
 > CONTEXT: Map054/events/11/pages/1/39/Dialogue
-All right! Well then! 'I' will literally beat up♪#MTLed
+....All right! Well then!
+
+I'll help deal with it♪#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -145,7 +148,7 @@ All right! Well then! 'I' will literally beat up♪#MTLed
 > CONTEXT: Map050/events/57/pages/1/127/Dialogue
 > CONTEXT: Map054/events/11/pages/1/43/Dialogue
 > CONTEXT: Commonevents/37/29/Dialogue
-......?#MTLed
+......?#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -158,6 +161,7 @@ All right! Well then! 'I' will literally beat up♪#MTLed
 In short, the curse is
 "A curse that can only be lifted by
 a demon's hand."
+
 That doesn't seem too bad. I, a mighty
 oni could deal with it.#Triketos
 > END STRING
@@ -171,8 +175,8 @@ oni could deal with it.#Triketos
 > CONTEXT: Map054/events/11/pages/1/50/Dialogue
 In other words, if my 'demon's hand' gave you a
 handjob or something... Your arousal should go
-away, and then you should be able to ask,
-"Can I have the key?"#Triketos
+away, and then you should be able to ask them
+for the key.#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -181,9 +185,9 @@ away, and then you should be able to ask,
 い、いいの…？
 > CONTEXT: Map263/events/11/pages/1/56/Dialogue
 > CONTEXT: Map054/events/11/pages/1/56/Dialogue
-Well, that should work.... 
+That sounds like it should work.... 
 
-That sounds really good, doesn't it?#Triketos
+That seems really good, doesn't it?#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -193,8 +197,9 @@ That sounds really good, doesn't it?#Triketos
 > CONTEXT: Map263/events/11/pages/1/60/Dialogue
 > CONTEXT: Map054/events/11/pages/1/60/Dialogue
 Of course it's good! 
+
 It is troublesome for my most important customer
-here not be able to continue♪#MTLed
+here not be able to continue♪#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -222,7 +227,7 @@ One time for 500 yen.#Triketos
 \\{\\{金とるんかい！！
 > CONTEXT: Map263/events/11/pages/1/73/Dialogue
 > CONTEXT: Map054/events/11/pages/1/73/Dialogue
-\\{\\{You want me to pay ?!?!#Triketos
+\\{\\{You want me to pay?!?!#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -240,7 +245,7 @@ One time for 500 yen.#Triketos
 > CONTEXT: Map263/events/11/pages/1/77/Dialogue
 > CONTEXT: Map054/events/11/pages/1/77/Dialogue
 Did you think that you could get just get it
-for free!? 500 yen to handle your problem from
+for free?! 500 yen to handle your problem from
 such a high class demon should be an insane deal!!#Triketos
 > END STRING
 
@@ -262,10 +267,11 @@ I guess you're right.........#Triketos
 > CONTEXT: Map054/events/11/pages/2/1/Dialogue
 Well, with the way you're looking right now,
 you're likely going to explode the second I 
-touch you. 
+touch you.
+ 
 Relieving you probably won't even take any
 effort at all...
-Still a handjob is a handjob.#Triketos
+Still, a handjob is a handjob.....#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -274,8 +280,10 @@ Still a handjob is a handjob.#Triketos
 一発アウトな気がするけど？
 > CONTEXT: Map263/events/11/pages/1/89/Dialogue
 > CONTEXT: Map054/events/11/pages/1/89/Dialogue
-Besides, when it is tempted by a woman demon in
-such a state. I guess I'm out of one go?#MTLed
+Besides, if you got tempted by another demon
+in such a state....
+Wouldn't you just let it all go with a single
+touch?#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -747,8 +755,10 @@ Will not you express like a daytime dora ...?#MTLed
 > CONTEXT: Map263/events/11/pages/2/87/Dialogue
 > CONTEXT: Map054/events/11/pages/1/352/Dialogue
 > CONTEXT: Map054/events/11/pages/2/87/Dialogue
-Well, this helped to solve the lust problem.
-Only Persuade is the way to get the key.#MTLed
+Well, look like this solved that problem of
+yours.
+All you need to do now is persuade them to
+give you the key.#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -759,9 +769,9 @@ Only Persuade is the way to get the key.#MTLed
 > CONTEXT: Map263/events/11/pages/2/91/Dialogue
 > CONTEXT: Map054/events/11/pages/1/356/Dialogue
 > CONTEXT: Map054/events/11/pages/2/91/Dialogue
-Anta now,\\C[2] It should be clicking both willpower
-and vitality. Just as you prepare properly and go
-to dissuade#MTLed
+Right now,\\C[2] both your willpower and vitality
+are low. Make sure you're prepared before you
+go talk to them.#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -772,9 +782,10 @@ to dissuade#MTLed
 > CONTEXT: Map263/events/11/pages/2/95/Dialogue
 > CONTEXT: Map054/events/11/pages/1/360/Dialogue
 > CONTEXT: Map054/events/11/pages/2/95/Dialogue
-Whether you can do it peacefully depends on you.
-If there are items missing something, will you
-buy it?#MTLed
+Whether you can do it peacefully is all up to you.
+
+If you're missing anything, care to stock up
+at my shop?#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -789,7 +800,8 @@ buy it?#MTLed
 > CONTEXT: Map054/events/11/pages/1/382/Dialogue
 > CONTEXT: Map054/events/11/pages/2/116/Dialogue
 By resisting Haru's temptation, 
-\\C[2]I feel that the mental corruption on my spirit has disappeared...#Triketos
+\\C[2]I feel that the mental corruption on my spirit has
+disappeared...#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -821,8 +833,8 @@ Sell ​​your unnecessary stuff to me to get more!#Triketos
 大人しく抜いておいた方がいいと思うけどなぁ？
 > CONTEXT: Map263/events/11/pages/2/6/Dialogue
 > CONTEXT: Map054/events/11/pages/2/6/Dialogue
-Well, what are you going to do \\N[1]? I will leave
-it up to you...
+Well, what are you going to do \\N[1]? I will
+leave it up to you...
 However, I think that it'd be better if I
 helped you out.#Triketos
 > END STRING
@@ -874,9 +886,8 @@ then any other demon.#Triketos
 簡単に解けちゃう気がするけどネ。
 > CONTEXT: Map263/events/11/pages/2/78/Dialogue
 > CONTEXT: Map054/events/11/pages/2/78/Dialogue
-If this were you, a bit more \\N[1] If Kun
-studied art. I feel like I can easily solve it,
-though.#MTLed
+A seal like this could easily be undone
+if you took the time to study magic, \\N[1].#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -885,7 +896,9 @@ though.#MTLed
 はぁっ…
 > CONTEXT: Map263/events/11/pages/2/82/Dialogue
 > CONTEXT: Map054/events/11/pages/2/82/Dialogue
-What………. Aah ...#MTLed
+W-what...?
+
+H-hah...#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -895,8 +908,8 @@ What………. Aah ...#MTLed
 射精した直後だしね。
 > CONTEXT: Map263/events/11/pages/3/0/Dialogue
 > CONTEXT: Map054/events/11/pages/3/0/Dialogue
-If it is a Persuade to pass the key, you have to
-prepare a bit. Anta now,\\C[2] It should be clicking
-both willpower and vitality. It's just after
-ejaculation.#MTLed
+You should prepare before you ask them to
+hand over the keys. Right now,\\C[2] both your 
+willpower and vitality are low, because you 
+just ejaculated.#Triketos
 > END STRING
