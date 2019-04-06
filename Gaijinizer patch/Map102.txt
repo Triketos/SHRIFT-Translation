@@ -1,0 +1,229 @@
+﻿> GAIJINIZER PATCH FILE
+> BEGIN STRING
+水路水循環機能：\\C[3]正常に作動中
+
+\\C[0]Ａポンプ：\\C[3]\\V[151]\\C[2]\\V[152]　\\C[0]Ｂポンプ：\\C[3]\\V[153]\\C[2]\\V[154]
+\\C[0]Ｃポンプ：\\C[3]\\V[155]\\C[2]\\V[156]　\\C[0]Ｄポンプ：\\C[3]\\V[157]\\C[2]\\V[158]
+> CONTEXT: Map102/events/1/pages/0/1/Dialogue
+> CONTEXT: Map104/events/1/pages/0/1/Dialogue
+> CONTEXT: Map116/events/1/pages/0/1/Dialogue
+> CONTEXT: Map118/events/1/pages/0/1/Dialogue
+Waterway water circulation function:\\C[3] Normal operation
+\\C[0]A pump:\\C[3] \\V[151]\\C[2] \\V[152] \\C[0] B pump:\\C[3] \\V[153]\\C[2] \\V[154]
+\\C[0]C pump:\\C[3] \\V[155]\\C[2] \\V[156] \\C[0] D pump:\\C[3] \\V[157]\\C[2] \\V[158]#MTLed
+> END STRING
+
+> BEGIN STRING
+水路水循環機能：\\C[2]地上の水位が低下中
+
+\\C[0]Ａポンプ：\\C[3]\\V[151]\\C[2]\\V[152]　\\C[0]Ｂポンプ：\\C[3]\\V[153]\\C[2]\\V[154]
+\\C[0]Ｃポンプ：\\C[3]\\V[155]\\C[2]\\V[156]　\\C[0]Ｄポンプ：\\C[3]\\V[157]\\C[2]\\V[158]
+> CONTEXT: Map102/events/1/pages/0/10/Dialogue
+> CONTEXT: Map104/events/1/pages/0/10/Dialogue
+> CONTEXT: Map116/events/1/pages/0/10/Dialogue
+> CONTEXT: Map118/events/1/pages/0/10/Dialogue
+Waterway water circulation function:\\C[2] Ground water level is
+being lowered. \\C[0]A pump:\\C[3] \\V[151]\\C[2] \\V[152] \\C[0] B pump:\\C[3] \\V[153]\\C[2] \\V[154]
+\\C[0]C pump:\\C[3] \\V[155]\\C[2] \\V[156] \\C[0] D pump:\\C[3] \\V[157]\\C[2] \\V[158]#MTLed
+> END STRING
+
+> BEGIN STRING
+水路水循環機能：\\C[18]完全停止中
+
+\\C[0]Ａポンプ：\\C[3]\\V[151]\\C[2]\\V[152]　\\C[0]Ｂポンプ：\\C[3]\\V[153]\\C[2]\\V[154]
+\\C[0]Ｃポンプ：\\C[3]\\V[155]\\C[2]\\V[156]　\\C[0]Ｄポンプ：\\C[3]\\V[157]\\C[2]\\V[158]
+> CONTEXT: Map102/events/1/pages/0/19/Dialogue
+> CONTEXT: Map104/events/1/pages/0/19/Dialogue
+> CONTEXT: Map116/events/1/pages/0/19/Dialogue
+> CONTEXT: Map118/events/1/pages/0/19/Dialogue
+Waterway water circulation function:\\C[18] In complete stop
+\\C[0]A pump:\\C[3] \\V[151]\\C[2] \\V[152] \\C[0] B pump:\\C[3] \\V[153]\\C[2] \\V[154]
+\\C[0]C pump:\\C[3] \\V[155]\\C[2] \\V[156] \\C[0] D pump:\\C[3] \\V[157]\\C[2] \\V[158]#MTLed
+> END STRING
+
+> BEGIN STRING
+ポンプＣのステータス：\\C[3]正常に作動中
+> CONTEXT: Map102/events/4/pages/1/0/Dialogue
+Status of pump C:\\C[3] Normal operation#MTLed
+> END STRING
+
+> BEGIN STRING
+そのままにしておく
+> CONTEXT: Map102/events/4/pages/1/2/Choice/0
+> CONTEXT: Map102/events/4/pages/2/2/Choice/0
+> CONTEXT: Map104/events/4/pages/1/2/Choice/0
+> CONTEXT: Map104/events/4/pages/2/2/Choice/0
+> CONTEXT: Map116/events/4/pages/1/2/Choice/0
+> CONTEXT: Map116/events/4/pages/2/2/Choice/0
+> CONTEXT: Map118/events/4/pages/1/2/Choice/0
+> CONTEXT: Map118/events/4/pages/2/2/Choice/0
+Leave as it is#MTLed
+> END STRING
+
+> BEGIN STRING
+オフにする
+> CONTEXT: Map102/events/4/pages/1/2/Choice/1
+> CONTEXT: Map104/events/4/pages/1/2/Choice/1
+> CONTEXT: Map116/events/4/pages/1/2/Choice/1
+> CONTEXT: Map118/events/4/pages/1/2/Choice/1
+Turn off#MTLed
+> END STRING
+
+> BEGIN STRING
+…………水の吸い上げが止まったようだ。
+> CONTEXT: Map102/events/4/pages/1/10/Dialogue
+> CONTEXT: Map104/events/4/pages/1/10/Dialogue
+> CONTEXT: Map116/events/4/pages/1/10/Dialogue
+> CONTEXT: Map118/events/4/pages/1/10/Dialogue
+............ It seems that the water suction stopped.#MTLed
+> END STRING
+
+> BEGIN STRING
+"停止中"
+> CONTEXT: Map102/events/4/pages/1/15/InlineScript/1:24
+> CONTEXT: Map104/events/4/pages/1/15/InlineScript/1:24
+> CONTEXT: Map105/events/10/pages/6/2/InlineScript/1:24
+> CONTEXT: Map105/events/10/pages/6/4/InlineScript/1:24
+> CONTEXT: Map105/events/10/pages/6/6/InlineScript/1:24
+> CONTEXT: Map105/events/10/pages/6/8/InlineScript/1:24
+> CONTEXT: Map116/events/4/pages/1/15/InlineScript/1:24
+> CONTEXT: Map118/events/4/pages/1/15/InlineScript/1:24
+"Stopped"#MTLed
+> END STRING
+
+> BEGIN STRING
+ポンプＣのステータス：\\C[2]稼働停止中
+> CONTEXT: Map102/events/4/pages/2/0/Dialogue
+Status of pump C:\\C[2] Out of service#MTLed
+> END STRING
+
+> BEGIN STRING
+オンにする
+> CONTEXT: Map102/events/4/pages/2/2/Choice/1
+> CONTEXT: Map104/events/4/pages/2/2/Choice/1
+> CONTEXT: Map116/events/4/pages/2/2/Choice/1
+> CONTEXT: Map118/events/4/pages/2/2/Choice/1
+turn on#MTLed
+> END STRING
+
+> BEGIN STRING
+…………水の吸い上げが再開されたようだ。
+> CONTEXT: Map102/events/4/pages/2/10/Dialogue
+> CONTEXT: Map104/events/4/pages/2/10/Dialogue
+> CONTEXT: Map116/events/4/pages/2/10/Dialogue
+> CONTEXT: Map118/events/4/pages/2/10/Dialogue
+............ It seems that the water intake has been
+resumed.#MTLed
+> END STRING
+
+> BEGIN STRING
+"稼働中"
+> CONTEXT: Map102/events/4/pages/2/14/InlineScript/1:24
+> CONTEXT: Map104/events/2/pages/0/3/InlineScript/1:24
+> CONTEXT: Map104/events/2/pages/0/5/InlineScript/1:24
+> CONTEXT: Map104/events/2/pages/0/7/InlineScript/1:24
+> CONTEXT: Map104/events/2/pages/0/9/InlineScript/1:24
+> CONTEXT: Map104/events/4/pages/2/14/InlineScript/1:24
+> CONTEXT: Map116/events/4/pages/2/14/InlineScript/1:24
+> CONTEXT: Map118/events/4/pages/2/14/InlineScript/1:24
+"In operation"#MTLed
+> END STRING
+
+> BEGIN STRING
+
+　　　　　　水路管理者のメモ３
+> CONTEXT: Map102/events/3/pages/1/2/Dialogue
+Waterway manager's note 3#MTLed
+> END STRING
+
+> BEGIN STRING
+見てしまった。
+
+ 彼女の『正体』を
+> CONTEXT: Map102/events/3/pages/1/6/Dialogue
+I saw it. Her "identity"#MTLed
+> END STRING
+
+> BEGIN STRING
+人魚のような下半身は、本当はナメクジのような形で
+
+人間をあの部分で完全に覆ってしまう。
+> CONTEXT: Map102/events/3/pages/1/11/Dialogue
+The lower body, like a mermaid, is really like a slug
+It completely covers human beings in that part.#MTLed
+> END STRING
+
+> BEGIN STRING
+公園の管理人が、彼女に呑み込まれているのを見て
+
+俺は彼女が人喰いだと思い、怖くなって逃げ出した、
+> CONTEXT: Map102/events/3/pages/1/16/Dialogue
+Seeing the park manager is swallowed by her
+I thought she was jealous, and I got scared and ran away,#MTLed
+> END STRING
+
+> BEGIN STRING
+だが、次の日……
+
+昨日喰われたと思っていた公園の管理人は、
+ 何事もなかったように俺の前に現れた。
+> CONTEXT: Map102/events/3/pages/1/21/Dialogue
+But next day ... The manager of the park that I thought was
+captured yesterday. It appeared in front of me as if
+nothing happened.#MTLed
+> END STRING
+
+> BEGIN STRING
+更に恐ろしいのは
+彼は何事もなかったかのように俺に疑ったことを詫び
+
+引き続きこの水路の管理を任せたいと言ってきたのだ！
+> CONTEXT: Map102/events/3/pages/1/27/Dialogue
+What's more frightening is. I apologize for the doubts that
+he had made me doubtless as if nothing happened
+I have been told to leave the management of this waterway!#MTLed
+> END STRING
+
+> BEGIN STRING
+あの管理人は別人か？偽者か？
+あるいは頭の中を書き換えられたのか？
+
+ 彼女にはそういう『能力』があるのか？
+> CONTEXT: Map102/events/3/pages/1/33/Dialogue
+Is that manager another person?Is it fake?
+Or did you rewrite your mind? Does she have that kind of
+ability?#MTLed
+> END STRING
+
+> BEGIN STRING
+もしかしたら……
+俺もすでに『書き換えられている』のか…？
+
+心当たりがないわけではない………。
+> CONTEXT: Map102/events/3/pages/1/39/Dialogue
+Maybe ... Am I already "rewritten" ...? 
+It is not that I have no idea .....#MTLed
+> END STRING
+
+> BEGIN STRING
+例えば、複数いる彼女のなかで、俺は迷いなく
+『オリジナル』の彼女を見分けることができる。
+ 見た目も声も、話し方もまったく同じなはずなのに
+一目見ただけで、彼女が分かるのだ……。
+> CONTEXT: Map102/events/3/pages/1/45/Dialogue
+For example, among her who is more than one, I am not lost
+I can distinguish her from 'Original'. The look, the voice
+and the way of speaking should be exactly the same
+I can see her at first glance ....#MTLed
+> END STRING
+
+> BEGIN STRING
+でも、だとしたら………
+彼女に都合よく『書き換えられていた』としたら……
+
+なぜ俺は今、彼女たちを『怖い』と思っているんだ…？
+> CONTEXT: Map102/events/3/pages/1/51/Dialogue
+But if it were ......... If she was "rewritten"
+conveniently for her ... Why am I thinking of them as
+'scared' now ...?#MTLed
+> END STRING

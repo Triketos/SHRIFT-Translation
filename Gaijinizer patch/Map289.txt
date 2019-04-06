@@ -1,0 +1,452 @@
+﻿> GAIJINIZER PATCH FILE
+> BEGIN STRING
+では、ただいまより
+
+『裁判』を再開する。
+> CONTEXT: Map289/events/1/pages/0/2/Dialogue/クッション君
+Well, from now on. Resume the trial.#MTLed
+> END STRING
+
+> BEGIN STRING
+双方、準備はできているかい？
+> CONTEXT: Map289/events/1/pages/0/6/Dialogue/クッション君
+Are you ready?#MTLed
+> END STRING
+
+> BEGIN STRING
+検事側、準備完了しております。
+> CONTEXT: Map289/events/1/pages/0/9/Dialogue/enemy20
+The prosecutor's side is ready.#MTLed
+> END STRING
+
+> BEGIN STRING
+弁護側、準備完了しています
+> CONTEXT: Map289/events/1/pages/0/12/Dialogue/other5
+The defense side is ready#MTLed
+> END STRING
+
+> BEGIN STRING
+\\{\\{どういうことだよ！！！
+> CONTEXT: Map289/events/1/pages/0/20/Dialogue/kazuya
+\\{\\{What does that mean!!!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[1]、静かにして、
+
+やっと、５年越しに再開される裁判よ……
+> CONTEXT: Map289/events/1/pages/0/22/Dialogue/other5
+\\N[1], keep quiet, Finally, a trial that will
+resume over five years ...#MTLed
+> END STRING
+
+> BEGIN STRING
+あなたが揃ったことで、やっと弁護を再開できる……
+
+今度こそ、ユウマを救うの。
+> CONTEXT: Map289/events/1/pages/0/26/Dialogue/other5
+You are finally ready to resume your defense ...
+This time, save Yuuma.#MTLed
+> END STRING
+
+> BEGIN STRING
+なぁに、\\N[1]
+
+あなたまだ思い出せないの？
+> CONTEXT: Map289/events/1/pages/0/35/Dialogue/other4
+Well, \\N[1]. Can you still remember?#MTLed
+> END STRING
+
+> BEGIN STRING
+もっとしっかり思いだしてみなよ
+
+『あの山』で私達に起こった出来事を……
+> CONTEXT: Map289/events/1/pages/0/39/Dialogue/other4
+Remember more firmly everyone. 
+What happened to us in "Anoyama" ...#MTLed
+> END STRING
+
+> BEGIN STRING
+…………あの山での…出来事…！？
+
+キャンプの時の………
+> CONTEXT: Map289/events/1/pages/0/44/Dialogue/kazuya
+...... ...... in that mountain...events ...! ?
+At the time of woof...... ...#MTLed
+> END STRING
+
+> BEGIN STRING
+…………えっと、大丈夫かね？
+
+先進めても。
+> CONTEXT: Map289/events/1/pages/0/53/Dialogue/クッション君
+...... uh, okay? Go ahead.#MTLed
+> END STRING
+
+> BEGIN STRING
+それじゃあ、検察側。
+
+今回の事件の概要を……
+> CONTEXT: Map289/events/1/pages/0/57/Dialogue/クッション君
+Well then, the prosecutor's side.
+An overview of the case ...#MTLed
+> END STRING
+
+> BEGIN STRING
+はい。
+
+今から５年前の本日、ユウマ率いる彼ら４人は
+キャンプのために、事件の起きた山に向かったとのことです。
+> CONTEXT: Map289/events/1/pages/0/62/Dialogue/enemy20
+Yes. Today, 5 years ago from now, they are led by
+Yuuma. He went to the mountain where the incident
+happened for the woof.#MTLed
+> END STRING
+
+> BEGIN STRING
+ですが、その際に
+
+我々の車との事故を起こしました。
+> CONTEXT: Map289/events/1/pages/0/71/Dialogue/enemy20
+But at that time. I have an accident with our
+car.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\{\\{車！？
+> CONTEXT: Map289/events/1/pages/0/76/Dialogue/kazuya
+\\{\\{car! ?#MTLed
+> END STRING
+
+> BEGIN STRING
+その時車を運転していた、被告のユウマは
+
+事故だと主張していますが、我々はそうは思っていません。
+> CONTEXT: Map289/events/1/pages/0/78/Dialogue/enemy20
+Defendant Yuuma who was driving a car at that
+time. We claim it is an accident, but we do not
+think so.#MTLed
+> END STRING
+
+> BEGIN STRING
+私は、彼に死刑の執行を求めます。
+> CONTEXT: Map289/events/1/pages/0/82/Dialogue/enemy20
+I ask him to execute the capital punishment.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\{\\{死刑！？
+> CONTEXT: Map289/events/1/pages/0/85/Dialogue/kazuya
+\\{\\{Death penalty! ?#MTLed
+> END STRING
+
+> BEGIN STRING
+ユウマさん、さっきの内容で
+
+事件の概要は合っているかね？
+> CONTEXT: Map289/events/1/pages/0/90/Dialogue/クッション君
+Yuuma-san, with the previous content
+Is the outline of the case correct?#MTLed
+> END STRING
+
+> BEGIN STRING
+………………はい。
+> CONTEXT: Map289/events/1/pages/0/95/Dialogue/yuuma
+………………Yes.#MTLed
+> END STRING
+
+> BEGIN STRING
+いや！ユウマ、明らかにおかしいだろ！！
+
+なんで何も言わないんだよ！！
+> CONTEXT: Map289/events/1/pages/0/98/Dialogue/kazuya
+Disagreeable! Yuuma, obviously funny! !
+Why don't you say anything! !#MTLed
+> END STRING
+
+> BEGIN STRING
+そもそもＵＦＯが地上走ってる車に激突するのがおかしいし
+
+いくらなんでも死刑は重すぎるだろ！！
+> CONTEXT: Map289/events/1/pages/0/102/Dialogue/kazuya
+It is strange that UFO crashed into a car running
+on the ground. The death penalty is too heavy! !#MTLed
+> END STRING
+
+> BEGIN STRING
+その通りよ……\\N[1]。
+
+だから私達で、ユウマを救うの。
+> CONTEXT: Map289/events/1/pages/0/109/Dialogue/other5
+That's right...\\N[1]. So we save Yuuma.#MTLed
+> END STRING
+
+> BEGIN STRING
+幸いにも私達は大学の法学部……
+
+裁判で彼の弁護を引き受けるのはワケ無かったわ
+> CONTEXT: Map289/events/1/pages/0/113/Dialogue/other5
+Fortunately we are the law department of
+university...There was no reason to take on his
+defense in a trial#MTLed
+> END STRING
+
+> BEGIN STRING
+それもおかしいからね！？
+
+なんで勉強中の俺らが弁護できんの！？
+> CONTEXT: Map289/events/1/pages/0/120/Dialogue/kazuya
+It's funny too! ? Why we can not defend while
+studying! ?#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[1]……さっきから叫びすぎ……
+
+いいじゃないそういう細かいことは……
+> CONTEXT: Map289/events/1/pages/0/124/Dialogue/other4
+\\N[1] screams from the beginning ...
+That's not good such fine things ...#MTLed
+> END STRING
+
+> BEGIN STRING
+うっ…！！
+> CONTEXT: Map289/events/1/pages/0/128/Dialogue/other4
+ugh ...! !#MTLed
+> END STRING
+
+> BEGIN STRING
+ミカ………
+
+ダメだったのね……
+> CONTEXT: Map289/events/1/pages/0/139/Dialogue/other5
+Micah ......... It was useless ...#MTLed
+> END STRING
+
+> BEGIN STRING
+弁護側の１人がちょっとガタイ良くなったけど
+
+まぁ、裁判は続けましょう。
+> CONTEXT: Map289/events/1/pages/0/150/Dialogue/クッション君
+One of the defenders got a little better
+Well, let's continue the trial.#MTLed
+> END STRING
+
+> BEGIN STRING
+それでは、最初の証人、証言台にどうぞ。
+> CONTEXT: Map289/events/1/pages/0/154/Dialogue/クッション君
+Then, please be the first witness, the test
+stand.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\{\\{なんでだよ！！！！
+> CONTEXT: Map289/events/1/pages/0/169/Dialogue/kazuya
+\\{\\{why!!! !#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[1]、これが唯一のチャンスよ。
+
+証人の発言から\\C[2]『ムジュン』\\C[0]を探し出すの
+> CONTEXT: Map289/events/1/pages/0/172/Dialogue/other5
+\\N[1], this is your only chance.
+From the witness's statement\\C[2] "Mujun"\\C[0] Find out#MTLed
+> END STRING
+
+> BEGIN STRING
+発言に変なところを感じたら
+
+『揺さぶり』をかけて……
+> CONTEXT: Map289/events/1/pages/0/176/Dialogue/other5
+If you find something strange to say
+"Wobble" over ...#MTLed
+> END STRING
+
+> BEGIN STRING
+\\{怒られるからやめて！！！
+> CONTEXT: Map289/events/1/pages/0/181/Dialogue/kazuya
+\\{I'm angry I'm stop!!!#MTLed
+> END STRING
+
+> BEGIN STRING
+それでは証人、
+
+事件当時の現場の状況について教えてください。
+> CONTEXT: Map289/events/1/pages/0/184/Dialogue/クッション君
+Then the witness, Please tell us about the
+situation at the time of the incident.#MTLed
+> END STRING
+
+> BEGIN STRING
+ワウッ！ワウッ！！
+
+ワォン！！
+> CONTEXT: Map289/events/1/pages/0/190/Dialogue/バーゲスト
+Waoof! Waoof!!Wow! !#MTLed
+> END STRING
+
+> BEGIN STRING
+そうか………
+
+これもう、マジで考えちゃだめなヤツだ……
+> CONTEXT: Map289/events/1/pages/0/197/Dialogue/kazuya-a
+Really………. It's a really bad guy to think about
+this ...#MTLed
+> END STRING
+
+> BEGIN STRING
+ボクは立ち木……ただの石ころ……
+
+ボクは\\C[10]傍観者\\C[0]………
+> CONTEXT: Map289/events/1/pages/0/201/Dialogue/kazuya-a
+I am a standing tree ...... just a stone ......
+I am\\C[10] bystander\\C[0] .........#MTLed
+> END STRING
+
+> BEGIN STRING
+くっ……なんてこと！！
+
+こんなにハッキリ見られていたなんて…！！
+> CONTEXT: Map289/events/1/pages/0/207/Dialogue/other5
+Kuh ...... What!!What was clearly seen like
+this ...! !#MTLed
+> END STRING
+
+> BEGIN STRING
+裁判長、これにて証言は充分かと思われます。
+
+さっそく、判決の方を……
+> CONTEXT: Map289/events/1/pages/0/211/Dialogue/enemy20
+The presiding judge, I think this is enough
+testimony. Soon, the decision is ...#MTLed
+> END STRING
+
+> BEGIN STRING
+弁護側、なにか言う事はありませんか？
+
+なければ、このまま死刑が確定してしまいますが……
+> CONTEXT: Map289/events/1/pages/0/217/Dialogue/クッション君
+On the defense side, do you have anything to say?
+Without it, the death penalty will be decided as
+it is ...#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[1]！！しっかりして！！
+
+このままだとユウマが！！！
+> CONTEXT: Map289/events/1/pages/0/223/Dialogue/other5
+\\N[1]!!Firmly!!Yuuma is in this situation! !
+!#MTLed
+> END STRING
+
+> BEGIN STRING
+完璧な証言すぎて、戦意喪失……
+
+といったところかな？\\N[1]くん。
+ファファファ
+> CONTEXT: Map289/events/1/pages/0/231/Dialogue/enemy20
+A perfect testimony too, Loss of Heart ......
+Is it such a place? \\N[1]-kun.
+Fafa#MTLed
+> END STRING
+
+> BEGIN STRING
+……………なさそうですね。
+
+では、被告人を再度こちらのほうへ。
+> CONTEXT: Map289/events/1/pages/0/236/Dialogue/クッション君
+..... seems not to be. Then, to the accused
+person again here.#MTLed
+> END STRING
+
+> BEGIN STRING
+被告人、あなたの刑が確定しました。
+
+何か言うことはありませんか？
+> CONTEXT: Map289/events/1/pages/0/248/Dialogue/クッション君
+Defendant, your punishment has been fixed.
+Do you have anything to say?#MTLed
+> END STRING
+
+> BEGIN STRING
+そうだな……
+
+ひとつ、ある。
+> CONTEXT: Map289/events/1/pages/0/255/Dialogue/yuuma
+That's right...There is one.#MTLed
+> END STRING
+
+> BEGIN STRING
+お前らの死に場所は
+
+たった今からここになった…！
+> CONTEXT: Map289/events/1/pages/0/259/Dialogue/other6
+Where are the death of you. It has been here
+since just now ...!#MTLed
+> END STRING
+
+> BEGIN STRING
+ユウマ！！！
+
+それは……\\C[10]『地球破壊爆弾！！』
+> CONTEXT: Map289/events/1/pages/0/267/Dialogue/other5
+Yuuma!!! that is……\\C[10] "Earth destruction bomb!!"#MTLed
+> END STRING
+
+> BEGIN STRING
+被告！血迷ってはいけません！！
+
+ちゃんとあなたの罪を償いなさい！！！
+> CONTEXT: Map289/events/1/pages/0/271/Dialogue/クッション君
+defendant! Don't get lost!!Atone your sins
+properly!!!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\{\\C[10]『懺悔（SHRIFT）』を
+
+ちゃんとするのです！
+> CONTEXT: Map289/events/1/pages/0/275/Dialogue/クッション君
+\\{\\C[10]"Sorry (SHRIFT)". I will do it
+properly!#MTLed
+> END STRING
+
+> BEGIN STRING
+へっ！！やなこった！！
+
+\\C[10]じゃなきゃ、最初からこんな難易度は選ばねぇよ！！
+> CONTEXT: Map289/events/1/pages/0/281/Dialogue/other6
+Heh!!It's weird!!\\C[10]If not, you should choose
+this difficulty from the beginning! !#MTLed
+> END STRING
+
+> BEGIN STRING
+これ以上お前たちの茶番に付き合ってられねぇ！！
+
+ひゃあ！！限界だ！！押すね！！
+あばよ！！！
+> CONTEXT: Map289/events/1/pages/0/285/Dialogue/other6
+No more to accompany you in your tea ceremony! !
+Hey!!It's the limit!!I'll press it! !
+Bye!!!#MTLed
+> END STRING
+
+> BEGIN STRING
+これは、夢……………
+
+そう、悪い夢なんだ……
+> CONTEXT: Map289/events/1/pages/0/292/Dialogue/kazuya-a
+This is a dream ..... Yes, it's a bad dream
+......#MTLed
+> END STRING
+
+> BEGIN STRING
+早く覚めてくれ……
+
+割とマジで………
+> CONTEXT: Map289/events/1/pages/0/296/Dialogue/kazuya-a
+Wake up soon...It is relative and is serious
+.........#MTLed
+> END STRING

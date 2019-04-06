@@ -1,0 +1,167 @@
+﻿> GAIJINIZER PATCH FILE
+> BEGIN STRING
+「オーディエンス」使っちゃう？
+
+それじゃあ、マイルームのみんなに聞いてみよっか！
+> CONTEXT: CommonEvents_322/16/Dialogue/enemy11
+> CONTEXT: CommonEvents_342/1/Dialogue/enemy11
+> CONTEXT: CommonEvents_343/1/Dialogue/enemy11
+「ask the audience」Do you use it?
+Well then, ask everyone in my room!#MTLed
+> END STRING
+
+> BEGIN STRING
+"ぁ　の　ァ"
+> CONTEXT: CommonEvents_322/24/InlineScript/4:2
+> CONTEXT: CommonEvents_342/9/InlineScript/4:2
+> CONTEXT: CommonEvents_343/9/InlineScript/4:2
+"Oh no"#MTLed
+> END STRING
+
+> BEGIN STRING
+"ぷ　ぅ　　き　ぇ"
+> CONTEXT: CommonEvents_322/28/InlineScript/4:1
+> CONTEXT: CommonEvents_342/13/InlineScript/4:1
+> CONTEXT: CommonEvents_343/13/InlineScript/4:1
+"English version"#MTLed
+> END STRING
+
+> BEGIN STRING
+"ぉ　え　ぃあ"
+> CONTEXT: CommonEvents_322/32/InlineScript/4:2
+> CONTEXT: CommonEvents_342/17/InlineScript/4:2
+> CONTEXT: CommonEvents_343/17/InlineScript/4:2
+"ぃ ぃ ぃ"#MTLed
+> END STRING
+
+> BEGIN STRING
+"ぇ　　あ"
+> CONTEXT: CommonEvents_322/36/InlineScript/4:1
+> CONTEXT: CommonEvents_342/21/InlineScript/4:1
+> CONTEXT: CommonEvents_343/21/InlineScript/4:1
+"ぇ"#MTLed
+> END STRING
+
+> BEGIN STRING
+"かのじょ"
+> CONTEXT: CommonEvents_322/46/InlineScript/4:1
+"Kanoyou"#MTLed
+> END STRING
+
+> BEGIN STRING
+"ふね"
+> CONTEXT: CommonEvents_322/50/InlineScript/4:1
+> CONTEXT: CommonEvents_322/71/InlineScript/4:1
+"boat"#MTLed
+> END STRING
+
+> BEGIN STRING
+"ぶっく"
+> CONTEXT: CommonEvents_322/54/InlineScript/4:1
+"Butt"#MTLed
+> END STRING
+
+> BEGIN STRING
+"こっぷ"
+> CONTEXT: CommonEvents_322/58/InlineScript/4:1
+"Cup"#MTLed
+> END STRING
+
+> BEGIN STRING
+"ほん"
+> CONTEXT: CommonEvents_322/75/InlineScript/4:2
+"Japanese"#MTLed
+> END STRING
+
+> BEGIN STRING
+"みず"
+> CONTEXT: CommonEvents_322/79/InlineScript/4:1
+"Water"#MTLed
+> END STRING
+
+> BEGIN STRING
+"odi/バーゲスト"
+> CONTEXT: CommonEvents_322/97/InlineScript/2:10
+> CONTEXT: CommonEvents_342/82/InlineScript/2:10
+> CONTEXT: CommonEvents_343/82/InlineScript/2:10
+"odi/バーゲスト"#NoTL
+> END STRING
+
+> BEGIN STRING
+"odi/ランパス"
+> CONTEXT: CommonEvents_322/107/InlineScript/2:10
+> CONTEXT: CommonEvents_342/92/InlineScript/2:10
+> CONTEXT: CommonEvents_343/92/InlineScript/2:10
+"odi/ランパス"#NoTL
+> END STRING
+
+> BEGIN STRING
+"odi/メイデン"
+> CONTEXT: CommonEvents_322/117/InlineScript/2:10
+> CONTEXT: CommonEvents_342/102/InlineScript/2:10
+> CONTEXT: CommonEvents_343/102/InlineScript/2:10
+"odi/メイデン"#NoTL
+> END STRING
+
+> BEGIN STRING
+"odi/エンプ"
+> CONTEXT: CommonEvents_322/127/InlineScript/2:10
+> CONTEXT: CommonEvents_342/112/InlineScript/2:10
+> CONTEXT: CommonEvents_343/112/InlineScript/2:10
+"odi/エンプ"#NoTL
+> END STRING
+
+> BEGIN STRING
+"odi/ママ"
+> CONTEXT: CommonEvents_322/137/InlineScript/2:10
+> CONTEXT: CommonEvents_342/122/InlineScript/2:10
+> CONTEXT: CommonEvents_343/122/InlineScript/2:10
+"odi/ママ"#NoTL
+> END STRING
+
+> BEGIN STRING
+"odi/ハルリズ"
+> CONTEXT: CommonEvents_322/147/InlineScript/2:10
+> CONTEXT: CommonEvents_342/132/InlineScript/2:10
+> CONTEXT: CommonEvents_343/132/InlineScript/2:10
+"odi/ハルリズ"#NoTL
+> END STRING
+
+> BEGIN STRING
+"odi/躯"
+> CONTEXT: CommonEvents_322/157/InlineScript/2:10
+> CONTEXT: CommonEvents_342/142/InlineScript/2:10
+> CONTEXT: CommonEvents_343/142/InlineScript/2:10
+"odi/躯"#NoTL
+> END STRING
+
+> BEGIN STRING
+"odi/ニーナ"
+> CONTEXT: CommonEvents_322/167/InlineScript/2:10
+> CONTEXT: CommonEvents_342/152/InlineScript/2:10
+> CONTEXT: CommonEvents_343/152/InlineScript/2:10
+"odi/ニーナ"#NoTL
+> END STRING
+
+> BEGIN STRING
+じゃーん！！！
+
+こんな結果になりました！！
+> CONTEXT: CommonEvents_322/173/Dialogue/enemy11
+> CONTEXT: CommonEvents_342/158/Dialogue/enemy11
+> CONTEXT: CommonEvents_343/158/Dialogue/enemy11
+Shazam!!! It became such a result!!#MTLed
+> END STRING
+
+> BEGIN STRING
+少しは参考になったかなぁ？
+
+もしバラけたっていう場合は
+\\C[2]それぞれの悪魔の性格を考えれば良いと思うよ？
+> CONTEXT: CommonEvents_322/178/Dialogue/enemy11
+> CONTEXT: CommonEvents_342/163/Dialogue/enemy11
+> CONTEXT: CommonEvents_343/163/Dialogue/enemy11
+Did a little help? If you say it was broken
+\\C[2]I think you should consider the character of each
+demon?#MTLed
+> END STRING

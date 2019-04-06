@@ -1,0 +1,186 @@
+﻿> GAIJINIZER PATCH FILE
+> BEGIN STRING
+『身を慎み、目をさましていなさい。
+　あなたがたの敵である悪魔が、ほえたける獅子のように、
+　食い尽くすべきものを捜し求めながら、歩き回っています。』
+> CONTEXT: Map028/events/2/pages/0/0/Dialogue
+> CONTEXT: Map028/events/2/pages/2/0/Dialogue
+"Watch yourself, keep your eyes open.
+Your demonic enemies pace about roaring like lions,
+looking for something to consume."#Ron
+> END STRING
+
+> BEGIN STRING
+………ペテロの手紙よりの引用です。
+
+ですが、これは貴方への『警告』でもあります。
+> CONTEXT: Map028/events/2/pages/0/7/Dialogue
+> CONTEXT: Map028/events/2/pages/2/7/Dialogue
+......a quote from Peter's letter. But this is also a
+"warning" to you.#MTLed
+> END STRING
+
+> BEGIN STRING
+初めまして、それともお久しぶりでしょうか…？
+
+いずれにせよ、自己紹介をしなければなりませんね。
+> CONTEXT: Map028/events/2/pages/0/14/Dialogue/other1
+> CONTEXT: Map028/events/2/pages/2/14/Dialogue/other1
+Nice to meet you, or rather, long time no see?
+Either way, I should introduce myself.#Ron
+> END STRING
+
+> BEGIN STRING
+私の名前は『冥羅（メイラ）』。
+
+『冥府の間』の主の、秘書をさせて頂いております。
+> CONTEXT: Map028/events/2/pages/0/18/Dialogue/other1
+> CONTEXT: Map028/events/2/pages/2/18/Dialogue/other1
+My name is Meira. I'm the secretary
+of the main "Hell's Gate".#Ron
+> END STRING
+
+> BEGIN STRING
+主の命により、貴方のサポートを仰せつかりました。
+
+理由などは、また然るべき時に主から直接お話があるかと…。
+> CONTEXT: Map028/events/2/pages/0/22/Dialogue/other1
+> CONTEXT: Map028/events/2/pages/2/22/Dialogue/other1
+By the Lord's decree, I've obtained your help.
+I wonder why there's been direct communication 
+from the Lord at such an opportune time.#Ron
+> END STRING
+
+> BEGIN STRING
+それでは、まずは貴方の名前をお聞かせください……。
+> CONTEXT: Map028/events/2/pages/0/26/Dialogue/other1
+> CONTEXT: Map028/events/2/pages/2/26/Dialogue/other1
+So, first of all, would you please tell me your
+name?#Ron
+> END STRING
+
+> BEGIN STRING
+結構でございます。
+
+このまどろみの中で、自分の名前をハッキリと名乗れるのは
+運命に対する『決意』の強さに相違ありません。
+> CONTEXT: Map028/events/2/pages/0/48/Dialogue/other1
+> CONTEXT: Map028/events/2/pages/2/48/Dialogue/other1
+Great. Being able to clearly give me your 
+name in this slumber is surely your strength
+of determination against fate.#Ron
+> END STRING
+
+> BEGIN STRING
+それでは次に、『基本チュートリアル』を行います。
+
+しかしこれは、『体験版』でやるものと全く同一なので
+すでにプレイされている方は、スキップすることも可能です。
+> CONTEXT: Map028/events/2/pages/0/53/Dialogue/other1
+> CONTEXT: Map028/events/2/pages/2/53/Dialogue/other1
+Next, we'll do a basic tutorial. It's exactly
+the same as the trial version, so you can
+skip it if you've already done it.#Ron
+> END STRING
+
+> BEGIN STRING
+『基本チュートリアル』を開始しますか？
+> CONTEXT: Map028/events/2/pages/0/60/Dialogue/other1
+> CONTEXT: Map028/events/2/pages/2/60/Dialogue/other1
+Begin the Basics Tutorial?#Dargoth
+> END STRING
+
+> BEGIN STRING
+受ける
+> CONTEXT: Map028/events/2/pages/0/62/Choice/0
+> CONTEXT: Map028/events/2/pages/2/62/Choice/0
+Begin Tutorial#Dargoth
+> END STRING
+
+> BEGIN STRING
+スキップする
+> CONTEXT: Map028/events/2/pages/0/62/Choice/1
+> CONTEXT: Map028/events/2/pages/2/62/Choice/1
+Skip Tutorial#Dargoth
+> END STRING
+
+> BEGIN STRING
+……それでは、そろそろ時間となります。
+
+しばしのお別れですが、またいずれ会うことになるでしょう。
+> CONTEXT: Map028/events/2/pages/0/77/Dialogue/other1
+> CONTEXT: Map028/events/2/pages/2/77/Dialogue/other1
+...I see, it's time then.
+
+For now, I'll take my leave.#DargothPR
+> END STRING
+
+> BEGIN STRING
+貴方の名を呼ぶ声が聞こえます……。
+
+さぁ、ゆめゆめ、聞き逃さぬように……。
+> CONTEXT: Map028/events/2/pages/0/82/Dialogue/other1
+> CONTEXT: Map028/events/2/pages/2/82/Dialogue/other1
+I hear a voice calling your name.......
+Go on, you mustn't ignore it.......#RonIffy
+> END STRING
+
+> BEGIN STRING
+…………お待ちしておりました。
+
+\\N[1]様。
+> CONTEXT: Map028/events/2/pages/1/10/Dialogue
+…………I have been waiting for you. Mr. \\N[1].#MTLed
+> END STRING
+
+> BEGIN STRING
+もう、貴方に言うことは何もありません。
+
+再度ここを訪れたということは、そう言う事でしょうから…
+> CONTEXT: Map028/events/2/pages/1/17/Dialogue/other1
+There is nothing to tell you anymore.
+I would say that I visited here again ...#MTLed
+> END STRING
+
+> BEGIN STRING
+この物語の主人公の名前は、
+
+\\N[1]のままでよろしいですか？
+> CONTEXT: Map028/events/2/pages/1/23/Dialogue/other1
+The main character of this story is
+Are you sure you want to leave \\N[1]?#MTLed
+> END STRING
+
+> BEGIN STRING
+…………………………では、最後に
+
+ひとつ、個人的な忠告を………
+> CONTEXT: Map028/events/2/pages/1/53/Dialogue/other1
+> CONTEXT: Map284/events/1/pages/0/57/Dialogue/other1
+......................... Finally,
+One, personal advice......#MTLed
+> END STRING
+
+> BEGIN STRING
+貴方はあの世界で、悪魔の他にも
+様々な人物と出会うことになります。
+
+それは、今回も同じです。
+> CONTEXT: Map028/events/2/pages/1/58/Dialogue/other1
+> CONTEXT: Map284/events/1/pages/0/61/Dialogue/other1
+You are in that world, besides demon
+You will meet various people. 
+That's the same again.#MTLed
+> END STRING
+
+> BEGIN STRING
+ですが、\\C[10]彼らを『死の運命』から救うことはできません。
+ 貴方が何を知っていようと、それは同じです。
+
+\\C[0]ゆめゆめ、お忘れなきように…………
+> CONTEXT: Map028/events/2/pages/1/63/Dialogue/other1
+> CONTEXT: Map284/events/1/pages/0/66/Dialogue/other1
+but,\\C[10] We can not save them from "the destiny of
+death". It is the same no matter what you know.
+\\C[0]absolutely, never forget .........#MTLed
+> END STRING

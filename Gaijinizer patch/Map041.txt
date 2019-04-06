@@ -1,0 +1,1644 @@
+﻿> GAIJINIZER PATCH FILE
+> BEGIN STRING
+これはこれは、\\N[1]様。
+
+お待ちしておりましたよ。
+> CONTEXT: Map041/events/5/pages/0/19/Dialogue/yuuma
+oh look at this, Mr. \\N[1]. I was waiting for
+you.#MTLed
+> END STRING
+
+> BEGIN STRING
+雑談する en(v[42] \>= 25) 
+> CONTEXT: Map041/events/5/pages/0/31/Choice/0
+Chat en(v[42] \>= 25) #Dargoth
+> END STRING
+
+> BEGIN STRING
+搾精（前から）en(v[42] \>= 25) 
+> CONTEXT: Map041/events/5/pages/0/31/Choice/1
+Milking (Frontal) en(v[42] \>= 25) #Dargoth
+> END STRING
+
+> BEGIN STRING
+搾精（後ろから）en(v[42] \>= 60) 
+> CONTEXT: Map041/events/5/pages/0/31/Choice/2
+Milking (Rear) en(v[42] \>= 60) #Dargoth
+> END STRING
+
+> BEGIN STRING
+【アイアンメイデン】種族：妖魔
+> CONTEXT: Map041/events/5/pages/0/33/ChoiceHelp
+【Iron Maiden】 Tribe: monster#MTLed
+> END STRING
+
+> BEGIN STRING
+申し訳ございません…。
+
+そのようなものを渡されても、私には
+何の役にも立ちませんので…
+> CONTEXT: Map041/events/5/pages/0/199/Dialogue/yuuma
+I'm sorry…. Even if such a thing is handed over
+to me. Because it does not serve any purpose ...#MTLed
+> END STRING
+
+> BEGIN STRING
+女性へのプレゼントは、もう少し考えてからのほうが
+
+よろしいかと……フフフ。
+> CONTEXT: Map041/events/5/pages/0/204/Dialogue/yuuma
+It is better to think about the present for women
+a little more. I wonder if it's ...... Hihihi.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]プレゼントは受け取ってもらえなかった…
+> CONTEXT: Map041/events/5/pages/0/208/Dialogue
+> CONTEXT: Map062/events/5/pages/0/193/Dialogue
+> CONTEXT: Map070/events/5/pages/0/203/Dialogue
+> CONTEXT: Map080/events/5/pages/0/244/Dialogue
+> CONTEXT: Map085/events/5/pages/0/207/Dialogue
+> CONTEXT: Map119/events/5/pages/0/200/Dialogue
+> CONTEXT: Map120/events/5/pages/0/271/Dialogue
+> CONTEXT: Map121/events/5/pages/0/215/Dialogue
+> CONTEXT: Map122/events/5/pages/0/192/Dialogue
+> CONTEXT: Map215/events/5/pages/0/200/Dialogue
+> CONTEXT: Map216/events/5/pages/0/345/Dialogue
+> CONTEXT: Map217/events/5/pages/0/163/Dialogue
+\\C[2]The gift could not be received ...#afrg
+> END STRING
+
+> BEGIN STRING
+心蝕を消すif(v[42] \>= 100) 
+> CONTEXT: Map041/events/5/pages/0/216/Choice/0
+Remove mind corruption if(v[42] \>= 100) #Dargoth
+> END STRING
+
+> BEGIN STRING
+あらあら…
+
+今日はいやに甘えてきますね…？♡
+> CONTEXT: Map041/events/5/pages/0/227/Dialogue/yuuma
+oh no...You'll be careless today ...? Moth#MTLed
+> END STRING
+
+> BEGIN STRING
+"アイアンメイデンの心蝕が治った！！"
+> CONTEXT: Map041/events/5/pages/0/238/InlineScript/1:12
+"アイアンメイデン's mind corruption cured!!"#MTLed
+> END STRING
+
+> BEGIN STRING
+ええ、よろしいですよ。
+
+どんなお話を致しましょうか。
+> CONTEXT: Map041/events/5/pages/1/1/Dialogue/yuuma
+Yes, it's ok. What kind of story will you do?#MTLed
+> END STRING
+
+> BEGIN STRING
+真意en(v[42] \>= 30) 
+> CONTEXT: Map041/events/5/pages/1/7/Choice/0
+True intentionen(v[42] \>= 30)#MTLed
+> END STRING
+
+> BEGIN STRING
+過去の姿en(v[42] \>= 40) 
+> CONTEXT: Map041/events/5/pages/1/7/Choice/1
+Past figureen(v[42] \>= 40)#MTLed
+> END STRING
+
+> BEGIN STRING
+黒いドレスen(v[42] \>= 60) 
+> CONTEXT: Map041/events/5/pages/1/7/Choice/2
+Black dressen(v[42] \>= 60)#MTLed
+> END STRING
+
+> BEGIN STRING
+普段の食事と好みについてen(v[42] \>= 80) 
+> CONTEXT: Map041/events/5/pages/1/7/Choice/3
+About usual meal and preferenceen(v[42] \>= 80)#MTLed
+> END STRING
+
+> BEGIN STRING
+真意…といわれましても
+
+とてもつまらない理由ですよ。よろしいのですか？
+> CONTEXT: Map041/events/5/pages/1/12/Dialogue/yuuma
+Even if it is said that the true intention ...
+That's a very boring reason. Are you sure?#MTLed
+> END STRING
+
+> BEGIN STRING
+ある程度想像はできるけど……
+
+やっぱり本人の口から真実を聞いておきたいと思って…
+> CONTEXT: Map041/events/5/pages/1/16/Dialogue/kazuya
+I can imagine to some extent ...
+After all I want to hear the truth from the
+person's mouth ...#MTLed
+> END STRING
+
+> BEGIN STRING
+それに、あの時は君の身体が崩れ始めて、
+
+僕も驚いてあれ以上は聞けなかったしさ。
+> CONTEXT: Map041/events/5/pages/1/20/Dialogue/kazuya
+Besides, at that time your body starts to
+collapse, I was also surprised that I could not
+hear more than that.#MTLed
+> END STRING
+
+> BEGIN STRING
+………いいでしょう。
+> CONTEXT: Map041/events/5/pages/1/24/Dialogue/yuuma
+......that's fine.#MTLed
+> END STRING
+
+> BEGIN STRING
+私が『Ｍ.Ｏ.Ｗ』から渡されていた情報は２つ……
+
+１つは、私が『あなた専用』生物兵器として使用されること。
+> CONTEXT: Map041/events/5/pages/1/26/Dialogue/yuuma
+There are two pieces of information I have passed
+from "M.O.W.". One is that I will be used as a
+'you only' biological weapon.#MTLed
+> END STRING
+
+> BEGIN STRING
+そしてもう一つは、貴方の魂を取り込めなかった場合…
+
+私の身体は自己崩壊を起こして、消えてしまうということ。
+> CONTEXT: Map041/events/5/pages/1/30/Dialogue/yuuma
+And one more thing, if you can not capture your
+soul...My body is self-destructing and
+disappearing.#MTLed
+> END STRING
+
+> BEGIN STRING
+私は最初、彼らの思惑通りに動くつもりでした。
+
+だって貴方は、本当に可愛らしい御方でしたもので…。
+> CONTEXT: Map041/events/5/pages/1/36/Dialogue/yuuma
+At first, I intended to move according to their
+expectations. Because you were a really pretty
+person ....#MTLed
+> END STRING
+
+> BEGIN STRING
+しかし、あの施設にいた悪魔たちを見て…
+
+少々、気が変わりました。
+> CONTEXT: Map041/events/5/pages/1/40/Dialogue/yuuma
+However, I saw the demons who were in that
+facility...I changed my mind a little.#MTLed
+> END STRING
+
+> BEGIN STRING
+あの施設の悪魔？
+
+ランパスや、バーゲストのことか？
+> CONTEXT: Map041/events/5/pages/1/44/Dialogue/kazuya
+The demon of that facility? Is it Lampas or
+barghest?#MTLed
+> END STRING
+
+> BEGIN STRING
+もはやご存じかと思いますが、どちらもヘカーテの従者…。
+
+ということは『ヘカーテ』自身も遊びに来ている…。
+> CONTEXT: Map041/events/5/pages/1/48/Dialogue/yuuma
+As you may already know, both of Hecate's
+followers .... That means "Hecate" is also coming
+to play ....#MTLed
+> END STRING
+
+> BEGIN STRING
+つまり……貴方がどんなに必死に脱出しようとしても
+
+最終的には彼女に対峙することになってしまう…。
+> CONTEXT: Map041/events/5/pages/1/52/Dialogue/yuuma
+In other words...no matter how desperately you
+try to escape. Eventually you will face her ....#MTLed
+> END STRING
+
+> BEGIN STRING
+そんな出来試合が待っているとも知らずに、
+必死に生きようとする貴方を見て…
+少し彼女の『シナリオ』を変えてやろうと思ったんです。
+> CONTEXT: Map041/events/5/pages/1/56/Dialogue/yuuma
+Without knowing that such a successful game is
+waiting, Seeing you trying to live desperately
+... I wanted to change her 'script' a little.#MTLed
+> END STRING
+
+> BEGIN STRING
+私はあの、昔から生命をオモチャ同然に扱う彼女が
+
+少々……好きではなかったものですから。
+> CONTEXT: Map041/events/5/pages/1/60/Dialogue/yuuma
+I treat her as a toy from the old days
+A little...because I did not like it.#MTLed
+> END STRING
+
+> BEGIN STRING
+まさか………
+
+最後に僕を助けるために、わざと力を温存したのか？
+> CONTEXT: Map041/events/5/pages/1/64/Dialogue/kazuya
+No way ......... Lastly, did you intentionally
+save your power to help me?#MTLed
+> END STRING
+
+> BEGIN STRING
+あの時も話しましたが…
+
+この身体は、過度の魔力放出には耐えられないのです。
+> CONTEXT: Map041/events/5/pages/1/68/Dialogue/yuuma
+I also talked about that time ...
+This body can not stand excessive magic release.#MTLed
+> END STRING
+
+> BEGIN STRING
+彼女をビビらせて、なおかつ彼女が去るまで……
+
+この身体は維持しておかねばなりませんでした。
+> CONTEXT: Map041/events/5/pages/1/72/Dialogue/yuuma
+Let her beat and until she leaves ...
+This body had to be maintained.#MTLed
+> END STRING
+
+> BEGIN STRING
+ですが、あの直前の通路では少し本気を出しましたよ？
+
+あわよくば貴方が諦めて、私のものになればと…
+> CONTEXT: Map041/events/5/pages/1/77/Dialogue/yuuma
+But, did you get a little serious in the aisle
+just before that? If you do well, you will give
+up and it will be mine ...#MTLed
+> END STRING
+
+> BEGIN STRING
+ああ……♡あの時の貴方の抱き心地…♡
+
+もしよろしかったら、また私に抱かせてくださいませ♡
+> CONTEXT: Map041/events/5/pages/1/81/Dialogue/yuuma
+Oh ...... your Hug comfort of that time...♡
+If it's wrong, please let me have it again#MTLed
+> END STRING
+
+> BEGIN STRING
+ねぇ、アイア…\\|\\^
+> CONTEXT: Map041/events/5/pages/1/90/Dialogue/kazuya
+Hey, Ia ...\\|\\^#MTLed
+> END STRING
+
+> BEGIN STRING
+………じゃなかった！ルシィ！
+> CONTEXT: Map041/events/5/pages/1/94/Dialogue/kazuya
+………Was not! Lucy!#MTLed
+> END STRING
+
+> BEGIN STRING
+………る、ルシィってさ、
+
+その姿になる前は、どんな悪魔だったの？
+> CONTEXT: Map041/events/5/pages/1/96/Dialogue/kazuya
+... ...... Rusy, What kind of demon was it before
+it became that figure?#MTLed
+> END STRING
+
+> BEGIN STRING
+なんだか聞いた感じだと
+
+ずいぶんと嫌ってるみたいだけど……
+> CONTEXT: Map041/events/5/pages/1/100/Dialogue/kazuya
+I felt like I heard something. 
+I seem to dislike it a lot.#MTLed
+> END STRING
+
+> BEGIN STRING
+あ、いや！！話したくないんだったらいいんだ！
+
+プライベートなことだし……！
+> CONTEXT: Map041/events/5/pages/1/106/Dialogue/kazuya
+Oh no!!I wish I did not want to talk!
+Spongebob It is......!#MTLed
+> END STRING
+
+> BEGIN STRING
+構いませんよ。隠すようなことでもありませんし。
+
+どのみち、いずれ貴方には話そうと思っておりました。
+> CONTEXT: Map041/events/5/pages/1/110/Dialogue/yuuma
+I do not mind. It's not like hiding.
+I was thinking of talking to you anyway.#MTLed
+> END STRING
+
+> BEGIN STRING
+私の以前の種族は『サキュバス』……
+
+誘惑する悪魔の代名詞のような種族ですが
+私は他のサキュバスにはない、ある特徴がありました。
+> CONTEXT: Map041/events/5/pages/1/115/Dialogue/yuuma
+My previous race is "Succubus" ...
+It's a kind of pronoun of demon that tempts
+I had certain features that other Succubus do not
+have.#MTLed
+> END STRING
+
+> BEGIN STRING
+特徴…？
+> CONTEXT: Map041/events/5/pages/1/120/Dialogue/kazuya
+Feature…?#MTLed
+> END STRING
+
+> BEGIN STRING
+私は、一瞬触れただけで相手の精気をすべて吸ったのです。
+
+いえ……正確には、体液も魂もすべて、皮と骨だけを残して…
+> CONTEXT: Map041/events/5/pages/1/122/Dialogue/yuuma
+I just touched for a moment and sucked all the
+other's energy. No .... To be precise, all body
+fluids and souls, leaving only skin and bones ...#MTLed
+> END STRING
+
+> BEGIN STRING
+………『吸えた』のではありません、『吸った』のです。
+
+この力は、私の意志では全く抑えられませんでした。
+> CONTEXT: Map041/events/5/pages/1/126/Dialogue/yuuma
+......not "breathed", "sucked".
+This power was not suppressed at all by my will.#MTLed
+> END STRING
+
+> BEGIN STRING
+小さいときは、魔力の制御の問題だと言われました。
+
+ですが、いくら訓練をしても、改善はされませんでした。
+> CONTEXT: Map041/events/5/pages/1/130/Dialogue/yuuma
+When I was small, I was told that it was a matter
+of magical power control. However, no matter how
+much training was done, there was no improvement.#MTLed
+> END STRING
+
+> BEGIN STRING
+やがて、人を文字通り抱いたことがない私とは話が合わず
+
+同世代のサキュバス達は、次第に距離を取り始めました。
+> CONTEXT: Map041/events/5/pages/1/134/Dialogue/yuuma
+Before long, I have never held a person literally
+Succubus of the same generation gradually began
+to take distance.#MTLed
+> END STRING
+
+> BEGIN STRING
+親族たちは、この能力は魔力の高い証拠だと
+
+私に自信を持つように言ってきました。
+> CONTEXT: Map041/events/5/pages/1/138/Dialogue/yuuma
+Relatives say that this ability is high evidence
+of magic. I told you to have confidence.#MTLed
+> END STRING
+
+> BEGIN STRING
+実際、私の魔力はどんどん高まっていき…
+
+恐れ多くも高位な階位まで頂いたのですが……。
+それでも私の心は、ただただ乾いていました…。
+> CONTEXT: Map041/events/5/pages/1/142/Dialogue/yuuma
+In fact, my magic is growing more and more ...
+Many fears gave me a high rank ...
+Still my heart was only dry ....#MTLed
+> END STRING
+
+> BEGIN STRING
+人で言えば、『食べること』が存在理由の種族なのに
+
+味覚や食感を味わうこともできずに、
+ただただ胃袋に入ってゆくような生活……。
+> CONTEXT: Map041/events/5/pages/1/149/Dialogue/yuuma
+In human beings, although "eating" is a race of
+reason for existence. Without being able to taste
+the taste and texture, Only life like going into
+the stomach ....#MTLed
+> END STRING
+
+> BEGIN STRING
+そんな生活が、何年、何十年、何百年……。
+> CONTEXT: Map041/events/5/pages/1/154/Dialogue/yuuma
+Such a life is for years, decades, hundreds of
+years ....#MTLed
+> END STRING
+
+> BEGIN STRING
+自分のことを、嫌いにならないわけがないです。
+
+なぜ、私はサキュバスなのかと……
+> CONTEXT: Map041/events/5/pages/1/156/Dialogue/yuuma
+There is no reason not to dislike myself.
+Why am I a succubus ...#MTLed
+> END STRING
+
+> BEGIN STRING
+そんななかで、あの人間たち……
+
+貴方の言う『Ｍ.Ｏ.Ｗ』に声をかけられたのです。
+> CONTEXT: Map041/events/5/pages/1/161/Dialogue/yuuma
+Among such people, those humans ...
+I was called out to you saying "M.O.W.".#MTLed
+> END STRING
+
+> BEGIN STRING
+向こうは私を捕まえたと喜んでいましたが…
+
+当時の私は単に、脱出する気も、理由もなかったもので
+私にどんなことをするのだろうと、観察しておりました。
+> CONTEXT: Map041/events/5/pages/1/165/Dialogue/yuuma
+The other side was glad to catch me ...
+At that time, I simply had no intention to
+escape, nor was there any reason
+I was observing what kind of thing I would do.#MTLed
+> END STRING
+
+> BEGIN STRING
+だって、私を捕らえていた機器はとっても陳腐で
+
+いつでも吹き飛ばせるような代物でしたから…。
+> CONTEXT: Map041/events/5/pages/1/170/Dialogue/yuuma
+Because the equipment that was catching me was so
+stale. Because it was a substitute that could be
+blown away anytime ....#MTLed
+> END STRING
+
+> BEGIN STRING
+ですがそんなとき…
+
+幹部であろう人間の一人が、私にこう提案したのです。
+> CONTEXT: Map041/events/5/pages/1/174/Dialogue/yuuma
+But such time...One of the people who would be
+the executive suggested to me:#MTLed
+> END STRING
+
+> BEGIN STRING
+『人間の身体に触れられるような身体にしたいか？』とね…。
+> CONTEXT: Map041/events/5/pages/1/178/Dialogue/yuuma
+"Do you want a body that can touch the human
+body? ] And ....#MTLed
+> END STRING
+
+> BEGIN STRING
+な、なんかごめん
+
+予想以上に重たい過去だった……。
+> CONTEXT: Map041/events/5/pages/1/180/Dialogue/kazuya
+Nah, what a basket noodle. It was a past that was
+heavier than expected ....#MTLed
+> END STRING
+
+> BEGIN STRING
+なぜ、\\N[1]様が謝るのです？
+
+フフフ……自棄を起こしたサキュバスの話をしただけですよ。
+> CONTEXT: Map041/events/5/pages/1/184/Dialogue/yuuma
+Why does \\N[1] apologize? Hihihi...I just
+talked about the succubus that gave up.#MTLed
+> END STRING
+
+> BEGIN STRING
+それに、今は貴方と好きなだけ触れ合いができる
+
+この部屋での生活に満足していますし。
+> CONTEXT: Map041/events/5/pages/1/188/Dialogue/yuuma
+And now I can interact with you as much as I like
+I am satisfied with the life in this room.#MTLed
+> END STRING
+
+> BEGIN STRING
+もっとも……私としては
+
+もっと深く、キツく、触れあいたいものですけど……♡
+> CONTEXT: Map041/events/5/pages/1/193/Dialogue/yuuma
+But...for me. Deeper, tougher, but I would like
+to touch...♡#MTLed
+> END STRING
+
+> BEGIN STRING
+か、考えておくよ……！
+
+ルシィ………目が怖いってば！！
+> CONTEXT: Map041/events/5/pages/1/197/Dialogue/kazuya-a
+Do you think about it ......! 
+Lucy .... If you are scared of eyes! !#MTLed
+> END STRING
+
+> BEGIN STRING
+ルシィの着ているそれって、一体どんな材質なの？
+
+部位っていうか…。
+> CONTEXT: Map041/events/5/pages/1/206/Dialogue/kazuya
+What kind of material is Lucy wearing?
+I say the part ....#MTLed
+> END STRING
+
+> BEGIN STRING
+最初の戦闘の時、その黒いドレスって
+
+攻撃をほとんど弾いてた気がするけど……。
+> CONTEXT: Map041/events/5/pages/1/210/Dialogue/kazuya
+At the time of the first battle, that black dress
+I feel I played most of the Attack ....#MTLed
+> END STRING
+
+> BEGIN STRING
+フフフ、これは悪魔の『翼』と同じ性質ですよ。
+> CONTEXT: Map041/events/5/pages/1/214/Dialogue/yuuma
+Hihihi, this is the same nature as demon's
+"wing".#MTLed
+> END STRING
+
+> BEGIN STRING
+私は以前はサキュバスでしたから、その部位を利用して
+
+服として再構築してあるみたいですね。
+> CONTEXT: Map041/events/5/pages/1/216/Dialogue/yuuma
+I used to be a succubus, so use that site
+It looks like you're rebuilding as clothes.#MTLed
+> END STRING
+
+> BEGIN STRING
+とはいえ、体への接続部位は背中のままですから
+
+翼の時と、勝手はそこまで変わりませんが。
+> CONTEXT: Map041/events/5/pages/1/220/Dialogue/yuuma
+However, the connection to the body remains at
+the back. The time of the wing and selfishness
+are not so different.#MTLed
+> END STRING
+
+> BEGIN STRING
+実際に物理的に飛ぶときも使いますし、盾にも使うので
+
+もとより翼は、他の部位に比べて頑丈に出来てるんですよ。
+> CONTEXT: Map041/events/5/pages/1/224/Dialogue/yuuma
+I also use it when I physically fly, and I also
+use it as a shield. From the beginning wings are
+made more robust than other parts.#MTLed
+> END STRING
+
+> BEGIN STRING
+へぇ……どおりで……
+> CONTEXT: Map041/events/5/pages/1/228/Dialogue/kazuya
+Hee...as it is......#MTLed
+> END STRING
+
+> BEGIN STRING
+………見るだけでなく、実際に触ってみてはいかが？
+
+悪魔の翼なんて、そうそう自分で触れるものではありませんよ？
+> CONTEXT: Map041/events/5/pages/1/231/Dialogue/yuuma
+......not just looking at it, but why not try
+touching it? The wings of the demon aren't
+something that you touch yourself, right?#MTLed
+> END STRING
+
+> BEGIN STRING
+えっ？ちょっ……！
+> CONTEXT: Map041/events/5/pages/1/235/Dialogue/kazuya-a
+eh? Hey ...!#MTLed
+> END STRING
+
+> BEGIN STRING
+僕の返事も聞かぬ間に、アイアンメイデンは僕の手をつかみ
+
+強引に自分の胸部へ導き、押しつける。
+> CONTEXT: Map041/events/5/pages/1/238/Dialogue
+Iron Maiden grabbed my hand before I heard my reply
+Force your chest into your chest and push it.#MTLed
+> END STRING
+
+> BEGIN STRING
+あまりに突然な彼女の行動に動揺しながらも
+
+その見た目以上の気持ち良い肌触りに、思考が乱れる…！
+> CONTEXT: Map041/events/5/pages/1/242/Dialogue
+While being upset by her behavior too sudden
+The feeling is disturbed by the pleasant touch beyond its
+appearance ...!#MTLed
+> END STRING
+
+> BEGIN STRING
+ああっ………き、気持ちいい……！
+> CONTEXT: Map041/events/5/pages/1/246/Dialogue/kazuya-0
+AAh......, I feel good ...!#MTLed
+> END STRING
+
+> BEGIN STRING
+フフ……仮にも元サキュバスの翼ですからね
+
+獲物を大事に包み込む、なんて用途もあるくらいですから…。
+> CONTEXT: Map041/events/5/pages/1/248/Dialogue/yuuma
+Fuhu...Because it is the wings of the original
+Succubus. Because it has so many uses to envelop
+prey carefully ....#MTLed
+> END STRING
+
+> BEGIN STRING
+魔力を多少有している\\N[1]様でも
+
+少し刺激が強かったですかしら？
+> CONTEXT: Map041/events/5/pages/1/252/Dialogue/yuuma
+Even \\N[1] who has some magic power
+Did you stimulate a little?#MTLed
+> END STRING
+
+> BEGIN STRING
+僕はその感触に夢中になり
+
+静かに息を荒げながら、彼女の身体を撫で回していた。
+> CONTEXT: Map041/events/5/pages/1/258/Dialogue
+I'm crazy about that feeling. I calmly breathed her and
+turned her body.#MTLed
+> END STRING
+
+> BEGIN STRING
+
+そして、彼女を抱き寄せるために、腰に手を……
+> CONTEXT: Map041/events/5/pages/1/262/Dialogue
+And, in order to bring her to Hug, a hand on the waist ...#MTLed
+> END STRING
+
+> BEGIN STRING
+……………はっ！？
+> CONTEXT: Map041/events/5/pages/1/266/Dialogue/kazuya
+...... Hah! ?#MTLed
+> END STRING
+
+> BEGIN STRING
+あら………残念。
+
+そのまま正気を失っていてくれれば良かったのに……
+> CONTEXT: Map041/events/5/pages/1/276/Dialogue/yuuma
+Oh...... sorry. I wish I had just lost my
+sanity ...#MTLed
+> END STRING
+
+> BEGIN STRING
+あ、あぶなかった……！
+
+またそのゆったりとした口調に安心しきってた…！
+> CONTEXT: Map041/events/5/pages/1/280/Dialogue/kazuya
+Oh, I didn't do it ......! Also I was relieved to
+the loose tone ...!#MTLed
+> END STRING
+
+> BEGIN STRING
+あら、そうなのですか？
+
+これは昔と全く変わらないしゃべり方なのですけどね。
+> CONTEXT: Map041/events/5/pages/1/284/Dialogue/yuuma
+Oh, is that so? This is the same way of talking
+as before.#MTLed
+> END STRING
+
+> BEGIN STRING
+魔力も込めていないのに……
+
+不思議ですね、フフ……
+> CONTEXT: Map041/events/5/pages/1/288/Dialogue/yuuma
+I have not even put the magic ...
+It's strange, Fufu ...#MTLed
+> END STRING
+
+> BEGIN STRING
+（……絶対わかってやってるな……！）
+> CONTEXT: Map041/events/5/pages/1/292/Dialogue/kazuya
+(... I know I'm absolutely ......!)#MTLed
+> END STRING
+
+> BEGIN STRING
+そうだ、せっかく台所があるのですから
+
+料理のひとつでもつくって差し上げましょうか？
+> CONTEXT: Map041/events/5/pages/1/299/Dialogue/yuuma
+Yes, because there is a kitchen
+Shall I cook even one of the dishes?#MTLed
+> END STRING
+
+> BEGIN STRING
+え……？
+
+ルシィって、料理できるの？
+> CONTEXT: Map041/events/5/pages/1/303/Dialogue/kazuya
+Huh……? Lucy, can you cook?#MTLed
+> END STRING
+
+> BEGIN STRING
+周りのサキュバス達が性技や男の人体の知識を得ている間は
+
+私はずっと人間界の趣味雑誌ばかり読んでいまして…
+> CONTEXT: Map041/events/5/pages/1/307/Dialogue/yuuma
+While the surrounding succubus is getting
+knowledge of sexual skills and man's human body
+I have always read hobby magazines of the human
+realm ...#MTLed
+> END STRING
+
+> BEGIN STRING
+特に人間の『食事』は、悪魔には不要な習慣ですから
+
+なおさら、興味を惹かれたのです。
+> CONTEXT: Map041/events/5/pages/1/311/Dialogue/yuuma
+In particular, human "meal" is an unnecessary
+custom for demons. Furthermore, I was attracted
+interest.#MTLed
+> END STRING
+
+> BEGIN STRING
+わざわざ、人間界から材料を取り寄せたり調達したりして
+
+キッチン用品も、用途を調べて一通り揃えたんですのよ。
+> CONTEXT: Map041/events/5/pages/1/315/Dialogue/yuuma
+Stocking and sourcing materials from expressly
+and the human realm. Kitchen utensils were also
+prepared in one pass after examining their uses.#MTLed
+> END STRING
+
+> BEGIN STRING
+ほ、本格的だな……。
+> CONTEXT: Map041/events/5/pages/1/319/Dialogue/kazuya
+Well, I'm serious ....#MTLed
+> END STRING
+
+> BEGIN STRING
+ええ、なにせ形からはいる性格でしたもので。
+
+ですが残念な事に、魔界には振る舞う相手がいませんでした。
+> CONTEXT: Map041/events/5/pages/1/321/Dialogue/yuuma
+Yes, it was a character that was out of shape.
+Unfortunately, however, Demon Realm did not have
+anyone to act on.#MTLed
+> END STRING
+
+> BEGIN STRING
+ですので、よろしければ……振る舞うのは貴方が初めてですが
+
+私の料理を御賞味くださいな。
+> CONTEXT: Map041/events/5/pages/1/325/Dialogue/yuuma
+So if you like...you are the first to behave
+Please taste my food.#MTLed
+> END STRING
+
+> BEGIN STRING
+（………ああ、ここまで聞いただけでも嫌な予感……）
+> CONTEXT: Map041/events/5/pages/1/329/Dialogue/kazuya
+(......Oh, there is a bad feeling that you have
+heard so far ...)#MTLed
+> END STRING
+
+> BEGIN STRING
+あら、卵に御飯……意外に日保ちしないものまで…。
+
+他は缶詰めばかりですが、これならば……
+> CONTEXT: Map041/events/5/pages/1/340/Dialogue/yuuma
+Oh, I'm eating eggs...... surprisingly
+something to keep a day .... The others are just
+cans, but if this is ......#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[1]様、オムライスなどいかがでしょう？
+
+お嫌いではありませんか？
+> CONTEXT: Map041/events/5/pages/1/345/Dialogue/yuuma
+Mr. \\N[1], how about omelet rice?
+Do not you dislike?#MTLed
+> END STRING
+
+> BEGIN STRING
+い、いや、好きな方だよ…………。
+
+それじゃあ、それをお願いしようかな……。
+> CONTEXT: Map041/events/5/pages/1/349/Dialogue/kazuya
+No, no, I like it ....... Well then, I would like
+to ask for it ....#MTLed
+> END STRING
+
+> BEGIN STRING
+どうしたんです？
+
+椅子に座ったままそんなに固まって……
+> CONTEXT: Map041/events/5/pages/1/360/Dialogue/yuuma
+What's up? I'm sitting so hard in the chair ...#MTLed
+> END STRING
+
+> BEGIN STRING
+別に席を立ったからといって、ものを投げたりはしませんよ？
+> CONTEXT: Map041/events/5/pages/1/364/Dialogue/yuuma
+You won't throw things just because you've got
+another seat, right?#MTLed
+> END STRING
+
+> BEGIN STRING
+い、いや、そうじゃなくて……
+
+他人が料理してるのを待つって、なんだか落ち着かなくて…
+> CONTEXT: Map041/events/5/pages/1/366/Dialogue/kazuya
+No, no, not so...Waiting for someone else to
+cook, I feel restless ...#MTLed
+> END STRING
+
+> BEGIN STRING
+大学に入って一人暮らしを始めてから
+彼女のレイナがよく料理を作りに来てくれるんだけど
+だいたい致命的な失敗をして、僕が手を貸すことになるから…
+> CONTEXT: Map041/events/5/pages/1/370/Dialogue/kazuya
+Since I entered university and started living
+alone. Her Reina often comes to cook
+It's about a fatal failure and I'll be helping
+you ...#MTLed
+> END STRING
+
+> BEGIN STRING
+……………つまり私が『失敗』すると？
+> CONTEXT: Map041/events/5/pages/1/374/Dialogue/yuuma
+...... In other words if I "fail"?#MTLed
+> END STRING
+
+> BEGIN STRING
+い、いや！そうじゃなくて！
+
+僕が落ち着いてない理由がそのクセってだけで！
+> CONTEXT: Map041/events/5/pages/1/376/Dialogue/kazuya
+No! that's not it! The only reason I have not
+settled down is that habit!#MTLed
+> END STRING
+
+> BEGIN STRING
+っていうか……ごめん。
+
+女性に料理作ってもらってるのに、自分の彼女の話なんか…
+> CONTEXT: Map041/events/5/pages/1/385/Dialogue/kazuya
+I mean...I'm sorry. I have a woman cook, but my
+story ...#MTLed
+> END STRING
+
+> BEGIN STRING
+…………構いませんよ。
+
+悪魔には恋愛関係など無縁ですから。
+> CONTEXT: Map041/events/5/pages/1/389/Dialogue/yuuma
+...... I do not mind. Because there is no love
+relationship in demon.#MTLed
+> END STRING
+
+> BEGIN STRING
+ごく一部の悪魔が、この『料理』のように
+
+興味をもって、憧れていたりはしますけど
+> CONTEXT: Map041/events/5/pages/1/393/Dialogue/yuuma
+Only a few demons like this "cooking"
+I'm interested in it and I'm drowned#MTLed
+> END STRING
+
+> BEGIN STRING
+…………失礼、手が滑りました。
+
+大丈夫です、小さな穴ですので………
+> CONTEXT: Map041/events/5/pages/1/403/Dialogue/yuuma
+............ Excuse me, my hand slipped.
+All right, because it's a small hole .........#MTLed
+> END STRING
+
+> BEGIN STRING
+絶対その『ごく一部の悪魔』だ、ルシィってー…！！
+> CONTEXT: Map041/events/5/pages/1/407/Dialogue/kazuya
+Absolutely that "Only a few demons", Lucy ...! !#MTLed
+> END STRING
+
+> BEGIN STRING
+えー、えっと…………
+
+今まで作った料理のなかで、自分が好きな料理とかある…？
+> CONTEXT: Map041/events/5/pages/1/410/Dialogue/kazuya
+Eh, uh ......... Among the dishes I've made so
+far, is it my favorite dish ...?#MTLed
+> END STRING
+
+> BEGIN STRING
+そうですね………
+
+卵料理なんかは私も好きで、何度も調理しています。
+> CONTEXT: Map041/events/5/pages/1/414/Dialogue/yuuma
+I agree………. I also like egg cooking and cook it
+many times.#MTLed
+> END STRING
+
+> BEGIN STRING
+特に卵は、割るときがとても楽しいですから。
+> CONTEXT: Map041/events/5/pages/1/418/Dialogue/yuuma
+Eggs are especially fun to break.#MTLed
+> END STRING
+
+> BEGIN STRING
+ああー…。
+
+綺麗に割れたときとかに、テンション上がるとか？
+> CONTEXT: Map041/events/5/pages/1/420/Dialogue/kazuya
+Oh .... Tension goes up when it breaks
+beautifully?#MTLed
+> END STRING
+
+> BEGIN STRING
+いいえ…？
+
+仮にも生命の元となる物体を、自分で割り
+良いようにかき混ぜていくのが、です。
+> CONTEXT: Map041/events/5/pages/1/424/Dialogue/yuuma
+No…? Temporarily divide the object that is the
+source of life by yourself. Stir in a good way.#MTLed
+> END STRING
+
+> BEGIN STRING
+ウフフフフフフ……
+
+アハハハハハハハ…！
+> CONTEXT: Map041/events/5/pages/1/429/Dialogue/yuuma
+Hihihihihihihi ...... Ahahahahahahaha ...!#MTLed
+> END STRING
+
+> BEGIN STRING
+………たのしそうだなー…。
+> CONTEXT: Map041/events/5/pages/1/433/Dialogue/kazuya
+... ...... Good luck ....#MTLed
+> END STRING
+
+> BEGIN STRING
+さぁ、出来上がりましたよ。
+
+どうぞ、召し上がってください。
+> CONTEXT: Map041/events/5/pages/1/442/Dialogue/yuuma
+Well, it's done. Please, have a meal.#MTLed
+> END STRING
+
+> BEGIN STRING
+…………どうされました？\\N[1]様
+> CONTEXT: Map041/events/5/pages/1/448/Dialogue/yuuma
+...... What happened? Mr. \\N[1]#MTLed
+> END STRING
+
+> BEGIN STRING
+こっ、これはっ！！『ふわとろ』オムライス……！？
+
+しかも僕が何回やっても出来ないタイプだぞこれ…！？
+> CONTEXT: Map041/events/5/pages/1/450/Dialogue/kazuya
+Koh, this is it!!"Fuwatoro" omelet rice ...! ?
+What's more, I can't do it many times. ?#MTLed
+> END STRING
+
+> BEGIN STRING
+私はオムライスは、この見た目が一番好きなもので…
+
+ダメでしたでしょうか？
+> CONTEXT: Map041/events/5/pages/1/454/Dialogue/yuuma
+I like omelet rice, this look is the most
+favorite thing...Was it useless?#MTLed
+> END STRING
+
+> BEGIN STRING
+いっいや…逆だよ！！
+
+すごすぎて驚いてんの！！
+> CONTEXT: Map041/events/5/pages/1/458/Dialogue/kazuya
+Anyway...it's the opposite! !
+It's too great to be surprised! !#MTLed
+> END STRING
+
+> BEGIN STRING
+（あっ…でも待てよ…
+
+　『見た目は良くても』ってパターンも考えないと駄目か！）
+> CONTEXT: Map041/events/5/pages/1/462/Dialogue/kazuya
+(Ah...but wait..."Don't you think it looks
+good" if you don't think about patterns too! )#MTLed
+> END STRING
+
+> BEGIN STRING
+（それに、あんまり解説めいたことばかり言ってると
+
+　グルメ番組みたいになっちゃうし……）
+> CONTEXT: Map041/events/5/pages/1/466/Dialogue/kazuya
+(And, I'm just saying that I'm explaining too
+much. It will be like a gourmet show ......)#MTLed
+> END STRING
+
+> BEGIN STRING
+……オムライスを凝視して、何を考えてらっしゃるのかしら？
+
+冷めてしまいますよ…？
+> CONTEXT: Map041/events/5/pages/1/472/Dialogue/yuuma
+......staring at the omelet and what do you
+think? You will cool ...?#MTLed
+> END STRING
+
+> BEGIN STRING
+ああっ…！？そ、そうだね！！ごめん！！
+> CONTEXT: Map041/events/5/pages/1/476/Dialogue/kazuya
+AAh ...! ? That's right!!sorry! !#MTLed
+> END STRING
+
+> BEGIN STRING
+じ、じゃあ………
+
+いただきます………
+> CONTEXT: Map041/events/5/pages/1/478/Dialogue/kazuya
+Well then ......... You will receive .........#MTLed
+> END STRING
+
+> BEGIN STRING
+………どうでしょうか？
+> CONTEXT: Map041/events/5/pages/1/484/Dialogue/yuuma
+………How about that?#MTLed
+> END STRING
+
+> BEGIN STRING
+め………
+
+メチャクチャ美味い！！
+> CONTEXT: Map041/events/5/pages/1/487/Dialogue/kazuya-a
+Mm ......... It's delicious! !#MTLed
+> END STRING
+
+> BEGIN STRING
+ていうかこれ！！
+
+ホントに人に振る舞うの初めてなの！？
+ぜってー違うでしょ！！この味加減…！！！
+> CONTEXT: Map041/events/5/pages/1/491/Dialogue/kazuya-a
+I mean this!!It is the first time to truly act
+on people! ? All right-not different!!This
+taste is ...!!!#MTLed
+> END STRING
+
+> BEGIN STRING
+………正真正銘、貴方が初めてです。
+
+ですから、そうやって喜んで頂けたのが素直に嬉しいですよ。
+> CONTEXT: Map041/events/5/pages/1/496/Dialogue/yuuma
+......genuinely true, you are the first time.
+So I'm happy to be so pleased with it.#MTLed
+> END STRING
+
+> BEGIN STRING
+……『舌』を通らない以前の身体を呪ってはいましたが…。
+
+むしろ精気の味を知らなかったからこそ
+変に味覚に影響を与えることはなかったようですね。
+> CONTEXT: Map041/events/5/pages/1/500/Dialogue/yuuma
+...... I cursed the body before I did not go
+through the tongue .... Rather, I did not know
+the taste of the spirit. It did not seem to
+affect the taste strangely.#MTLed
+> END STRING
+
+> BEGIN STRING
+（やばい…！手が止まんない……！
+
+　お店のオムライスでもこうはならないぞ…！？）
+> CONTEXT: Map041/events/5/pages/1/505/Dialogue/kazuya-a
+(Don't wait ...! I can not stop my hands ...!
+You can't do this with omelet rice in the shop
+...! ? )#MTLed
+> END STRING
+
+> BEGIN STRING
+フフフ…
+
+その様子だと、本当に気に入って貰えたようですね。
+> CONTEXT: Map041/events/5/pages/1/509/Dialogue/yuuma
+Hihihi...That's how you liked it and it seemed
+like you could get it.#MTLed
+> END STRING
+
+> BEGIN STRING
+どうでしょう……♡
+
+『失敗』ばかりの彼女から、私に乗り換える気はありません？
+> CONTEXT: Map041/events/5/pages/1/514/Dialogue/yuuma
+How about...♡. From her only "failed", are you
+willing to switch to me?#MTLed
+> END STRING
+
+> BEGIN STRING
+身の周り世話もいたしますし、もちろん、夜の方だって…
+
+きっと御満足頂けると思いますよ…♡
+> CONTEXT: Map041/events/5/pages/1/518/Dialogue/yuuma
+I will take care of my surroundings and, of
+course, even at night...I think I'm sure you
+will be satisfied...♡#MTLed
+> END STRING
+
+> BEGIN STRING
+（ううっ…卑怯だ……！！
+
+　少し心が揺らいじゃうぞ、これは…！）
+> CONTEXT: Map041/events/5/pages/1/522/Dialogue/kazuya-a
+(Uugh...it is......... You can shake your
+mind a little, this is ...! )#MTLed
+> END STRING
+
+> BEGIN STRING
+【キズナイベント】if(v[42] \>= 99) 
+> CONTEXT: Map041/events/5/pages/1/545/Choice/0
+Bonding Event if(v[42] \>= 99) #Dargoth
+> END STRING
+
+> BEGIN STRING
+フフフ……、こんなに喜んで頂けるなら
+
+卵料理以外ももっと練習しておくべきでしたね…♡
+> CONTEXT: Map041/events/5/pages/1/558/Dialogue/yuuma
+Hihihi ...... If you are so pleased
+You should have practiced more than just egg
+cooking...♡#MTLed
+> END STRING
+
+> BEGIN STRING
+（一回オムライスを作ってもらって以来
+
+　ほぼ通いつめみたいに料理作ってもらっちゃってる……。）
+> CONTEXT: Map041/events/5/pages/1/562/Dialogue/kazuya-a
+(Since I made omelet rice once
+I'm almost asked to make dishes like you would
+like...)#MTLed
+> END STRING
+
+> BEGIN STRING
+（いけない…『彼女持ち』でこの状況……
+
+　分かっちゃいるんだけど………）
+> CONTEXT: Map041/events/5/pages/1/566/Dialogue/kazuya-a
+(Don't...this situation in "her own" ...
+I know that...but ...)#MTLed
+> END STRING
+
+> BEGIN STRING
+（このスクランブルエッグですら…この絶妙加減…！！
+
+　く、クセになる……！）
+> CONTEXT: Map041/events/5/pages/1/570/Dialogue/kazuya-a
+(Even this scrambled egg...this exquisite
+addiction...!! It becomes a habit......! )#MTLed
+> END STRING
+
+> BEGIN STRING
+『料理』というのは楽しいですね…
+
+魅了魔法を使わずとも、こうも相手の心を捕らえられる…♡
+> CONTEXT: Map041/events/5/pages/1/577/Dialogue/yuuma
+"Cooking" is fun...Charmed Even if you don't
+use magic, you can capture the other person's
+heart...♡#MTLed
+> END STRING
+
+> BEGIN STRING
+や、やっぱり使ってないんだ？
+> CONTEXT: Map041/events/5/pages/1/581/Dialogue/kazuya
+Well, after all you are not using it?#MTLed
+> END STRING
+
+> BEGIN STRING
+ご、ごめんなさい！！
+
+使ってるわけないですよねっ！！
+> CONTEXT: Map041/events/5/pages/1/585/Dialogue/kazuya-a
+I'm sorry!!I'm not using it! !#MTLed
+> END STRING
+
+> BEGIN STRING
+アイアンメイデンはスッと\\N[1]の
+
+後ろに回り込み、両腕で\\N[1]の首を挟んだ…
+> CONTEXT: Map041/events/5/pages/1/589/Dialogue
+Iron Maiden's a su and \\N[1]. I went around behind me and
+pinched \\N[1]'s neck with my arms ...#MTLed
+> END STRING
+
+> BEGIN STRING
+あ、あの……
+
+ルシィ……さん？
+> CONTEXT: Map041/events/5/pages/1/593/Dialogue/kazuya-a
+Oh, that ...... Lucy...Mr.?#MTLed
+> END STRING
+
+> BEGIN STRING
+さぁ……お食事は済みましたね……\\N[1]。
+> CONTEXT: Map041/events/5/pages/1/598/Dialogue/yuuma
+Well...I finished eating...\\N[1].#MTLed
+> END STRING
+
+> BEGIN STRING
+今度は…私が『食べる』番ですよ……
+> CONTEXT: Map041/events/5/pages/1/600/Dialogue/yuuma
+This time...it is my turn to "eat" ...#MTLed
+> END STRING
+
+> BEGIN STRING
+
+
+不意に\\N[1]の周囲が暗くなる……！！
+> CONTEXT: Map041/events/5/pages/1/602/Dialogue
+Suddenly the surroundings of \\N[1] darken ......! !#MTLed
+> END STRING
+
+> BEGIN STRING
+誘い方ホラーなんだけどーーーーー！！
+> CONTEXT: Map041/events/5/pages/1/606/Dialogue/kazuya-a
+It is a horror how to invite me butーーーーーー!
+!#MTLed
+> END STRING
+
+> BEGIN STRING
+気がつきましたか。\\N[1]。
+
+ふふふ…美味しかったですよ…♡
+> CONTEXT: Map041/events/5/pages/1/628/Dialogue/yuuma
+Did you notice? \\N[1]. Fufu...It was delicious
+... ♡#MTLed
+> END STRING
+
+> BEGIN STRING
+美味しすぎて、少々長く搾精しすぎてしまいました…。
+
+気分はいかがです？
+> CONTEXT: Map041/events/5/pages/1/632/Dialogue/yuuma
+It's too delicious and it has been milking a
+little too long...How are you feeling?#MTLed
+> END STRING
+
+> BEGIN STRING
+うぅ…身体が重い……
+
+股もヒリヒリする……
+> CONTEXT: Map041/events/5/pages/1/636/Dialogue/kazuya-0
+Uh...your body is heavy...
+Crotch also hot ...#MTLed
+> END STRING
+
+> BEGIN STRING
+ど、どれくらい……僕はルシィに……
+> CONTEXT: Map041/events/5/pages/1/640/Dialogue/kazuya-0
+How much...I am Lucy ...#MTLed
+> END STRING
+
+> BEGIN STRING
+１時間ほど、でしょうか。
+
+ちゃんと加減はしていたのですが、
+あなたが脱水症状になるまで、止められませんでした…
+> CONTEXT: Map041/events/5/pages/1/642/Dialogue/yuuma
+Is it about one hour? I was modest, but
+I could not stop until you got dehydrated ...#MTLed
+> END STRING
+
+> BEGIN STRING
+いち……じか…ん………
+> CONTEXT: Map041/events/5/pages/1/647/Dialogue/kazuya-0
+one hour………#MTLed
+> END STRING
+
+> BEGIN STRING
+………この感情は、変なのでしょうか。
+> CONTEXT: Map041/events/5/pages/1/651/Dialogue/yuuma
+... Is this feeling strange?#MTLed
+> END STRING
+
+> BEGIN STRING
+私は、貴方を離したくない……
+
+出来れば、この部屋に閉じ込めてしまいたい……
+> CONTEXT: Map041/events/5/pages/1/653/Dialogue/yuuma
+I do not want to release you ...
+If possible, I would like to be locked in this
+room ...#MTLed
+> END STRING
+
+> BEGIN STRING
+人間である貴方の『彼女』にすら……
+
+私は嫉妬しているような気がします。
+> CONTEXT: Map041/events/5/pages/1/657/Dialogue/yuuma
+Even your 'her' who is human ...
+I feel like I'm jealous.#MTLed
+> END STRING
+
+> BEGIN STRING
+こんなに、１つのものに『執着』するのは……
+
+初めてなものですから……
+> CONTEXT: Map041/events/5/pages/1/661/Dialogue/yuuma
+So, what is "sticking" to one thing ...
+Because it is the first time ...#MTLed
+> END STRING
+
+> BEGIN STRING
+もしかしたらこれが…
+
+私が長年、失っていたものなのでしょうね……
+> CONTEXT: Map041/events/5/pages/1/666/Dialogue/yuuma
+Maybe this is...I guess I have lost for many
+years ...#MTLed
+> END STRING
+
+> BEGIN STRING
+精気の味も知らず、獲物を抱くこともできず
+
+虚無に生きて、ただなんとなくただよっていた……。
+> CONTEXT: Map041/events/5/pages/1/670/Dialogue/yuuma
+I do not know the taste of the spirit, I can not
+hold the prey. Living in vain, just wandering
+somehow ....#MTLed
+> END STRING
+
+> BEGIN STRING
+『鋼鉄の処女（アイアンメイデン）』とは……
+
+Ｍ.Ｏ.Ｗも皮肉が効いていますよね…。
+> CONTEXT: Map041/events/5/pages/1/674/Dialogue/yuuma
+What is "iron Maiden"...M.O.W. also works well
+....#MTLed
+> END STRING
+
+> BEGIN STRING
+大丈夫ですよ……
+
+本当に貴方を閉じ込めたりはしませんから
+> CONTEXT: Map041/events/5/pages/1/681/Dialogue/yuuma
+No problem……. I won't really lock you up#MTLed
+> END STRING
+
+> BEGIN STRING
+今はただ……
+
+貴方の傍らに、居させてください……。
+> CONTEXT: Map041/events/5/pages/1/685/Dialogue/yuuma
+Right now...Please stay by your side ......#MTLed
+> END STRING
+
+> BEGIN STRING
+アイアンメイデンとの『キズナ』が生まれた！！
+
+友好度が『１００』になった！！
+> CONTEXT: Map041/events/5/pages/1/699/Dialogue
+"Kizuna" with Iron Maiden was born!!The degree of
+friendship has reached "100"! !#MTLed
+> END STRING
+
+> BEGIN STRING
+………あれ……？
+
+ 意外に無反応…
+> CONTEXT: Map041/events/5/pages/2/6/Dialogue/kazuya
+………that……? Unexpectedly no reaction ...#MTLed
+> END STRING
+
+> BEGIN STRING
+………………分かっているのですか？
+
+ 私に『この指輪』を渡すことが、どういう意味か……
+> CONTEXT: Map041/events/5/pages/2/11/Dialogue/yuuma
+...... Do you know? What does it mean to give me
+this ring?#MTLed
+> END STRING
+
+> BEGIN STRING
+私は元サキュバスではありますが
+
+生い立ち上、他の者のように『遊びの愛』を知りません。
+> CONTEXT: Map041/events/5/pages/2/15/Dialogue/yuuma
+I am a former succubus. In the beginning, I do
+not know "love of play" like other people.#MTLed
+> END STRING
+
+> BEGIN STRING
+下手をすれば、名前の通り……
+
+束縛愛という『檻』で、あなたを閉じ込めるかもしれません
+> CONTEXT: Map041/events/5/pages/2/19/Dialogue/yuuma
+If you do poorly, as the name ......
+You may be locked in "coffin" of bondage love#MTLed
+> END STRING
+
+> BEGIN STRING
+それに、もし万が一……貴方が他の女性に
+身も心も浮気をしてしまったら……
+
+私は自分を抑えられる自信がありません。
+> CONTEXT: Map041/events/5/pages/2/23/Dialogue/yuuma
+Besides, if by any chance...you are another
+woman. If my body and mind cheat ...
+I am not confident I can control myself.#MTLed
+> END STRING
+
+> BEGIN STRING
+『遊びの愛』を知らない者というのは……
+
+想像以上に厄介かもしれませんよ？\\N[1]…
+> CONTEXT: Map041/events/5/pages/2/28/Dialogue/yuuma
+If you do not know "love of play" ...
+It may be more annoying than you think? \\N[1]
+...#MTLed
+> END STRING
+
+> BEGIN STRING
+それでも……それを知ってなお、
+
+ 私と誓いをたてようというのですか？
+> CONTEXT: Map041/events/5/pages/2/32/Dialogue/yuuma
+Still...know it, Are you going to make an oath
+with me?#MTLed
+> END STRING
+
+> BEGIN STRING
+……………僕の気持ちは、そう簡単には揺らがないよ。
+
+この指輪を差し出した時点で、心は決まってる。
+> CONTEXT: Map041/events/5/pages/2/37/Dialogue/kazuya
+..... My feelings don't shake so easily.
+The heart is fixed when this ring is presented.#MTLed
+> END STRING
+
+> BEGIN STRING
+確かにこれまで、いろんな女悪魔に快楽攻めをされて
+時には屈服しそうになったりもしたけど……
+
+最終的に思い浮かべるのは、君の姿だった。
+> CONTEXT: Map041/events/5/pages/2/41/Dialogue/kazuya
+Certainly until now, various girls demon have
+been attacked pleasure. Sometimes I was about to
+give in but...What I finally think of was your
+figure.#MTLed
+> END STRING
+
+> BEGIN STRING
+だから、君にこの指輪を受け取ってもらって
+
+『正式な』僕のパートナーになってほしい。
+> CONTEXT: Map041/events/5/pages/2/46/Dialogue/kazuya
+So, have you received this ring
+I want you to be my "official" partner.#MTLed
+> END STRING
+
+> BEGIN STRING
+…………しょうがない人ですね、\\N[1]。
+
+ 変わらずそんな真っ直ぐな目で告白されては
+警告した私が馬鹿のようではないですか…
+> CONTEXT: Map041/events/5/pages/2/54/Dialogue/yuuma
+............ You're not good, \\N[1].
+If it is confessed with such a straight eye
+without change. I warned I was not like an idiot
+...#MTLed
+> END STRING
+
+> BEGIN STRING
+分かりました……あなたの誓い、受けましょう。
+
+ 私も、伴侶として貴方の傍にいることを誓います。
+> CONTEXT: Map041/events/5/pages/2/59/Dialogue/yuuma
+Okay...let's take your oath.
+I swear that I will be by your side as a
+companion.#MTLed
+> END STRING
+
+> BEGIN STRING
+フフフ……
+
+卵以外の料理も勉強しないといけませんね…♡
+> CONTEXT: Map041/events/5/pages/2/63/Dialogue/yuuma
+Hihihi ...... I have to study dishes other than
+eggs ...#MTLed
+> END STRING
+
+> BEGIN STRING
+エンゲージリングを受け取ってもらったことで
+
+\\C[2]アイアンメイデンと婚約した！
+> CONTEXT: Map041/events/5/pages/2/73/Dialogue
+By receiving the engagement ring. \\C[2]Engaged with Iron Maiden!#MTLed
+> END STRING
+
+> BEGIN STRING
+親密度が２５以上必要。
+（現在の値：\\V[42]）
+> CONTEXT: Map041/events/4/pages/0/0/Dialogue
+> CONTEXT: Map089/events/4/pages/0/0/Dialogue
+25 or more intimacy is required. (Current value: \\V[42] )#MTLed
+> END STRING
+
+> BEGIN STRING
+親密度が５０以上必要。
+（現在の値：\\V[42]）
+> CONTEXT: Map041/events/6/pages/0/0/Dialogue
+> CONTEXT: Map089/events/6/pages/0/0/Dialogue
+50 or more intimacy is required. (Current value: \\V[42] )#MTLed
+> END STRING
+
+> BEGIN STRING
+親密度が１００必要。
+（現在の値：\\V[42]）
+> CONTEXT: Map041/events/3/pages/0/18/Dialogue
+> CONTEXT: Map089/events/3/pages/0/18/Dialogue
+100 intimacy required. (Current value: \\V[42] )#MTLed
+> END STRING
+
+> BEGIN STRING
+ごきげんよう、\\N[1]様。
+
+また、お会いできましたね。
+> CONTEXT: Map041/events/7/pages/0/0/Dialogue/yuuma
+Thank you, Mr. \\N[1]. See you again.#MTLed
+> END STRING
+
+> BEGIN STRING
+アイアンメイデン……！
+> CONTEXT: Map041/events/7/pages/0/4/Dialogue/kazuya
+Iron Maiden ......!#MTLed
+> END STRING
+
+> BEGIN STRING
+フフ……その名前は長くて呼びにくいでしょう。
+
+私はもう貴方様を狙う『生物兵器』ではありませんし…。
+> CONTEXT: Map041/events/7/pages/0/6/Dialogue/yuuma
+Fuhu...The name is long and hard to call.
+I am not a "biological weapon" to aim at you
+anymore ....#MTLed
+> END STRING
+
+> BEGIN STRING
+私のことは、『ルシィ』と呼んでください。
+
+この姿になる前の、私の名前です。
+> CONTEXT: Map041/events/7/pages/0/10/Dialogue/yuuma
+Call me "Lucie". It is my name before this
+appearance.#MTLed
+> END STRING
+
+> BEGIN STRING
+その………だ、大丈夫なのか？
+
+え、えっと………なんていえばいいか……身体とか……
+> CONTEXT: Map041/events/7/pages/0/14/Dialogue/kazuya
+That ...... is it alright? Eh, uh...... what
+should I do...body......#MTLed
+> END STRING
+
+> BEGIN STRING
+脳裏によぎるのは、目に焼き付いた彼女の最後の瞬間。
+
+灰になり、風に流されるようにサラサラと消えたあの姿だ。
+> CONTEXT: Map041/events/7/pages/0/18/Dialogue
+It is her last moment I got burned in my mind.
+It looks ashes and fades away as it is swept away by the
+wind.#MTLed
+> END STRING
+
+> BEGIN STRING
+フフフ……ここは冥府の間。
+
+言ってみれば、人間界と魔界の境目のような場所。
+> CONTEXT: Map041/events/7/pages/0/22/Dialogue/yuuma
+Hihihi...This is Hell's Gate.
+In a word, a place like the border between the
+human realm and the demon realm.#MTLed
+> END STRING
+
+> BEGIN STRING
+私もあなたも、今は実体を持つ必要はありません。
+
+あなただって、いわゆる精神体なのですから
+> CONTEXT: Map041/events/7/pages/0/26/Dialogue/yuuma
+Neither I nor you now need to have an entity.
+Because you are a so-called mental body#MTLed
+> END STRING
+
+> BEGIN STRING
+しかし…いくらあなたに会うためとはいえこの姿……。
+
+フフッ、私はよっぽど昔の姿が嫌いみたいですね。
+> CONTEXT: Map041/events/7/pages/0/31/Dialogue/yuuma
+But...how much to meet you, though ...
+Hihih, I like to dislike the old figure.#MTLed
+> END STRING
+
+> BEGIN STRING
+というわけで、今後ここに暫く滞在いたします。
+
+気が向いたら、お声をかけてくださいませ。
+> CONTEXT: Map041/events/7/pages/0/35/Dialogue/yuuma
+So I will stay here for a while.
+If you feel like it, please speak to me.#MTLed
+> END STRING

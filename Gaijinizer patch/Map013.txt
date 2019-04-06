@@ -1,0 +1,63 @@
+﻿> GAIJINIZER PATCH FILE
+> BEGIN STRING
+うっ……！！
+> CONTEXT: Map013/events/1/pages/0/0/Dialogue/kazuya
+> CONTEXT: Map047/events/38/pages/0/227/Dialogue/kazuya-0
+ugh......!!#MTLed
+> END STRING
+
+> BEGIN STRING
+………ここの警備員らしいな。
+もう既に息はないが……。
+> CONTEXT: Map013/events/1/pages/0/2/Dialogue/yuuma
+....He used to be a security guard here.
+He's not breathing anymore....#Aesthetic
+> END STRING
+
+> BEGIN STRING
+外傷からしておそらく失血死だろう。
+
+………人として、最後まで足掻いたんだな。
+> CONTEXT: Map013/events/1/pages/0/5/Dialogue/yuuma
+He probably died from blood loss....
+He most likely struggled until the end.#Aesthetic
+> END STRING
+
+> BEGIN STRING
+だが、このままではこの先に進めない。
+ホトケさんには悪いが、ちょっとどいてもらおうか。
+> CONTEXT: Map013/events/1/pages/0/11/Dialogue/yuuma
+Still, I can't move forward like this.
+I feel bad for Mr. Victim, but I have to move him.#Aesthetic
+> END STRING
+
+> BEGIN STRING
+死体をどかす
+> CONTEXT: Map013/events/1/pages/0/16/Choice/0
+Move the corpse#Dargoth
+> END STRING
+
+> BEGIN STRING
+今はやめておく
+> CONTEXT: Map013/events/1/pages/0/16/Choice/1
+Leave it alone#Dargoth
+> END STRING
+
+> BEGIN STRING
+………ここに繋がっていたのか。
+> CONTEXT: Map013/events/5/pages/0/3/Dialogue/kazuya
+......was it connected to here?#MTLed
+> END STRING
+
+> BEGIN STRING
+降りるには、高さは問題なさそうだな…
+> CONTEXT: Map013/events/5/pages/0/7/Dialogue/kazuya
+I can jump down from this height.#Aesthetic
+> END STRING
+
+> BEGIN STRING
+飛び降りる
+> CONTEXT: Map013/events/5/pages/1/4/Choice/1
+> CONTEXT: Map013/events/5/pages/2/4/Choice/1
+Jump down#Dargoth
+> END STRING

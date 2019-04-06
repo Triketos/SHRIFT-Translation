@@ -1,0 +1,1573 @@
+﻿> GAIJINIZER PATCH FILE
+> BEGIN STRING
+雑談する en(v[51] \>= 25) 
+> CONTEXT: Map120/events/5/pages/0/31/Choice/0
+Chaten(v[51] \>= 25)#MTLed
+> END STRING
+
+> BEGIN STRING
+搾精（キス）en(v[51] \>= 25) 
+> CONTEXT: Map120/events/5/pages/0/31/Choice/1
+milkingen(v[51] \>= 25)#MTLed
+> END STRING
+
+> BEGIN STRING
+搾精（パイズリ）en(v[51] \>= 50) 
+> CONTEXT: Map120/events/5/pages/0/31/Choice/2
+milking (tit-fuck)en(v[51] \>= 50)#MTLed
+> END STRING
+
+> BEGIN STRING
+搾精（フェラ）en(v[51] \>= 50) 
+> CONTEXT: Map120/events/5/pages/0/31/Choice/3
+milkingen(v[51] \>= 50)#MTLed
+> END STRING
+
+> BEGIN STRING
+【スフィンクス】種族：魔獣
+> CONTEXT: Map120/events/5/pages/0/33/ChoiceHelp
+[Sphinx] Race: Beast#MTLed
+> END STRING
+
+> BEGIN STRING
+搾精（プレス）en(v[51] \>= 100) 
+> CONTEXT: Map120/events/5/pages/0/144/Choice/0
+milking (press)en(v[51] \>= 100)#MTLed
+> END STRING
+
+> BEGIN STRING
+条件【\\C[2]友好度１００以上\\C[0]】
+> CONTEXT: Map120/events/5/pages/0/146/ChoiceHelp
+conditions【\\C[2] Friendship degree 100 or more\\C[0] ]#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[1]くん……
+
+ボクはそういうのもらっても、うれしくないなぁ……
+> CONTEXT: Map120/events/5/pages/0/263/Dialogue/enemy11
+\\N[1]-kun...I'm not happy to receive such a
+thing ...#MTLed
+> END STRING
+
+> BEGIN STRING
+ボクが好きそうなものっていったら…ねぇ？
+
+ほら、分かるでしょ？ホラホラ
+> CONTEXT: Map120/events/5/pages/0/267/Dialogue/enemy11
+If it seems that I like you...hey?
+You see, right?look here#MTLed
+> END STRING
+
+> BEGIN STRING
+心蝕を消すif(v[51] \>= 100) 
+> CONTEXT: Map120/events/5/pages/0/279/Choice/0
+clear the mind corruptionif(v[51] \>= 100)#MTLed
+> END STRING
+
+> BEGIN STRING
+わーい♡\\N[1]くんが遊んでくれるのー？
+
+うれしいー♪
+> CONTEXT: Map120/events/5/pages/0/290/Dialogue/enemy11
+Wow, \\N[1]-kun will play? I'm happy♪#MTLed
+> END STRING
+
+> BEGIN STRING
+あれ……？
+
+でもそれって普段と何か違う…？
+> CONTEXT: Map120/events/5/pages/0/294/Dialogue/enemy9
+that……? But that is something different from
+usual ...?#MTLed
+> END STRING
+
+> BEGIN STRING
+"スフィンクスの心蝕が治った！！"
+> CONTEXT: Map120/events/5/pages/0/305/InlineScript/1:12
+"スフィンクス's mind corruption cured!!"#MTLed
+> END STRING
+
+> BEGIN STRING
+おはなし！いいよ！！
+
+なに話す！？
+> CONTEXT: Map120/events/5/pages/1/1/Dialogue/enemy11
+There is no story!OK!! What do you talk about!?#MTLed
+> END STRING
+
+> BEGIN STRING
+公園に居た理由en(v[51] \>= 30) 
+> CONTEXT: Map120/events/5/pages/1/7/Choice/0
+The reason I was in the parken(v[51] \>= 30)#MTLed
+> END STRING
+
+> BEGIN STRING
+スフィンクスの身体en(v[51] \>= 40) 
+> CONTEXT: Map120/events/5/pages/1/7/Choice/1
+Sphinx's bodyen(v[51] \>= 40)#MTLed
+> END STRING
+
+> BEGIN STRING
+スフィンクスの翼en(v[51] \>= 60) 
+> CONTEXT: Map120/events/5/pages/1/7/Choice/2
+Sphinx's wingsen(v[51] \>= 60)#MTLed
+> END STRING
+
+> BEGIN STRING
+そもそも、スフィンクスは何故あの場所で
+
+何の門番をやっていたの…？
+> CONTEXT: Map120/events/5/pages/1/12/Dialogue/kazuya
+First of all, why is Sphinx in that place
+What gatekeeper did you ...?#MTLed
+> END STRING
+
+> BEGIN STRING
+確かにあの方角は、僕の目的地である
+
+港への道ではあったけども……
+> CONTEXT: Map120/events/5/pages/1/16/Dialogue/kazuya
+Certainly that direction is my purpose place
+It was a road to the harbor but ...#MTLed
+> END STRING
+
+> BEGIN STRING
+実は、特に理由なくあそこに居たんだ。
+
+人ももう来ないものだと思ってたから……。
+> CONTEXT: Map120/events/5/pages/1/20/Dialogue/enemy11
+Actually, I was there for no reason.
+I thought that people would not come anymore
+......#MTLed
+> END STRING
+
+> BEGIN STRING
+ていうか、隠す必要もないから、この際言っちゃうけど…
+
+ボク、迷子だったんだよ。
+> CONTEXT: Map120/events/5/pages/1/24/Dialogue/enemy11
+I mean, I don't have to hide it, so I'll say it
+on this occasion...I was lost.#MTLed
+> END STRING
+
+> BEGIN STRING
+えっ……？
+> CONTEXT: Map120/events/5/pages/1/28/Dialogue/kazuya
+eh……?#MTLed
+> END STRING
+
+> BEGIN STRING
+ボクさぁ、ご主人のヘラ様に言われて
+
+『ヘカーテ』って言う別の魔王さまのお供をしてたんだ。
+> CONTEXT: Map120/events/5/pages/1/30/Dialogue/enemy11
+I am told by my husband, Lady Hera
+He was accompanied by another Demon Queen called
+"Hecate".#MTLed
+> END STRING
+
+> BEGIN STRING
+そんで、彼女が人間界に遊びに行くっていうから
+
+ ボクもこの世界につれてこられたんだけど……
+> CONTEXT: Map120/events/5/pages/1/34/Dialogue/enemy11
+So she says she's going to play in the human
+realm. I came to this world, too ...#MTLed
+> END STRING
+
+> BEGIN STRING
+公園にあった砂場で夢中になって遊んでたら
+
+いつのまにかヘカーテさま、どっか行っちゃってて……
+> CONTEXT: Map120/events/5/pages/1/38/Dialogue/enemy11
+If you are crazy about playing in the sandbox in
+the park. Before you know Hecate-sama, I'm going
+somewhere ...#MTLed
+> END STRING
+
+> BEGIN STRING
+まぁ、そのうち帰ってくるかなって待ってたんだけど
+
+だんだん武器を持った怖そうな人間が集まってきて
+出るに出られなくなってきたんだよね……
+> CONTEXT: Map120/events/5/pages/1/44/Dialogue/enemy11
+Well, I was waiting to come back soon
+A scary human with a weapon gathers
+You've been out of it, right?#MTLed
+> END STRING
+
+> BEGIN STRING
+ほら、ボクってガチの戦闘は向いてないから
+基本タイマンで組伏せないと勝てないからさ…
+
+みんなが移動するまで、じっと隠れてた。
+> CONTEXT: Map120/events/5/pages/1/49/Dialogue/enemy11
+You see, I'm not going to fight Gachi
+Because I can not win if I can not assemble with
+the basic tieman...It was still hidden until
+everyone moved.#MTLed
+> END STRING
+
+> BEGIN STRING
+んで、誰もいなくなったのを確認したあとに
+
+周りを草木を生い茂らせて、好き勝手遊んでたんだよ。
+> CONTEXT: Map120/events/5/pages/1/54/Dialogue/enemy11
+Well, after confirming that no one was gone
+I planted the plants around and I played for
+myself.#MTLed
+> END STRING
+
+> BEGIN STRING
+港の方角を背にしたのは、それまで居た人間が
+
+集団で向かうのを見てたから、そっちかなーって思って。
+> CONTEXT: Map120/events/5/pages/1/58/Dialogue/enemy11
+The people who had been in the back of the harbor
+direction. I saw it going at gangbang, so I
+thought it would be that way.#MTLed
+> END STRING
+
+> BEGIN STRING
+でも、待てど人は通らないし……
+
+ヘカーテさまも帰ってこない……
+> CONTEXT: Map120/events/5/pages/1/63/Dialogue/enemy11
+But I can not wait for people to wait ...
+Hecate-sama will not come back ...#MTLed
+> END STRING
+
+> BEGIN STRING
+しばらくは一人で遊んで
+
+気を紛らわしていたんだけど……
+> CONTEXT: Map120/events/5/pages/1/67/Dialogue/enemy11
+Play alone for a while. I was confusing but ...#MTLed
+> END STRING
+
+> BEGIN STRING
+さ、寂しかったよう………
+
+\\N[1]くんが来てくれて、よかった……
+> CONTEXT: Map120/events/5/pages/1/72/Dialogue/enemy11
+Well, it seems lonely .........
+It was good that \\N[1]-kun came#MTLed
+> END STRING
+
+> BEGIN STRING
+分かったから！
+
+そうやってすぐ泣くなよ！もう！
+> CONTEXT: Map120/events/5/pages/1/76/Dialogue/kazuya
+I understand! Don't cry so soon! Already!#MTLed
+> END STRING
+
+> BEGIN STRING
+まったく……
+君って本当にあのギリシャ神話のスフィンクスなの…？
+
+ 色々と想像とは全然違うんだけど……
+> CONTEXT: Map120/events/5/pages/1/81/Dialogue/kazuya
+Totally...Are you really Sphinx of that Greek
+myth ...? Though it is completely different from
+imagination in various ways ......#MTLed
+> END STRING
+
+> BEGIN STRING
+んー、正確には違うのかなぁ？
+
+ボク、大昔に一度倒されて、創り直されたわけだし……
+> CONTEXT: Map120/events/5/pages/1/86/Dialogue/enemy11
+Hm, isn't it exactly? I was beaten once in a long
+time ago, and it has been recreated ......#MTLed
+> END STRING
+
+> BEGIN STRING
+ヘラ様に創り直してもらうついでに
+
+『相手から知識を吸う能力』と
+『搾精器官』も付けてもらったんだ！
+> CONTEXT: Map120/events/5/pages/1/90/Dialogue/enemy11
+In addition to having Lady Hera recreate it
+With "the ability to suck knowledge from the
+other party". I also got a "milking organ"!#MTLed
+> END STRING
+
+> BEGIN STRING
+もちろん！相手が女の人だった場合も対策済み！！
+
+いつでも出れるように、名乗り文句もいっぱい練習したよ！！
+> CONTEXT: Map120/events/5/pages/1/95/Dialogue/enemy11
+of course! Even if your opponent is a woman, it's
+already done!!I practiced a lot of talks about
+myself so I could get out anytime! !#MTLed
+> END STRING
+
+> BEGIN STRING
+でも……それから一回も声がかかることはなくて…
+
+ようやく呼ばれたと思ったら、他の魔王様の『おとも』……
+> CONTEXT: Map120/events/5/pages/1/100/Dialogue/enemy11
+But...I never heard a voice from then on ...
+When I thought that it was finally called, “Don't
+you” of another Demon Queen ...#MTLed
+> END STRING
+
+> BEGIN STRING
+挙げ句の果てには、見知らぬ土地で迷子……
+
+ヘカーテ様も、ヘラ様も探しに来ない…
+> CONTEXT: Map120/events/5/pages/1/104/Dialogue/enemy11
+At the end of the list, I got lost in a strange
+land...Neither Hecate-sama nor Lady Hera come
+to search ...#MTLed
+> END STRING
+
+> BEGIN STRING
+あれっ…？
+
+これってボク、捨てられ………たの……？
+> CONTEXT: Map120/events/5/pages/1/118/Dialogue/enemy11
+Oh ...? I'm gonna get rid of this ...........?#MTLed
+> END STRING
+
+> BEGIN STRING
+………やっぱり、気付いてなかったのか……。
+> CONTEXT: Map120/events/5/pages/1/122/Dialogue/kazuya
+... After all, did you not notice ....#MTLed
+> END STRING
+
+> BEGIN STRING
+……………っ！！！
+> CONTEXT: Map120/events/5/pages/1/124/Dialogue/enemy12
+......!!!#MTLed
+> END STRING
+
+> BEGIN STRING
+ああもう！！
+
+だから泣くなよ！
+> CONTEXT: Map120/events/5/pages/1/126/Dialogue/kazuya
+Oh no!!So don't cry!#MTLed
+> END STRING
+
+> BEGIN STRING
+スフィンクスは、そ、その………
+
+身体に対しての胸が……けっこう大きいね……
+> CONTEXT: Map120/events/5/pages/1/135/Dialogue/kazuya
+Sphinx is that ......... My heart against my body
+is pretty big ...#MTLed
+> END STRING
+
+> BEGIN STRING
+んー、そう？
+
+スフィンクスって種族のメスは、大人になると
+大体これくらいになるもんだけど……
+> CONTEXT: Map120/events/5/pages/1/140/Dialogue/enemy11
+Hm, right? Sphinx is a tribe of females and
+adults. It will probably be about this but ...#MTLed
+> END STRING
+
+> BEGIN STRING
+あっ、でもボクは転生するときに
+身体を人間サイズまで小さくしてもらったから
+
+ ちょっと胸に比重がいったかも…？
+> CONTEXT: Map120/events/5/pages/1/145/Dialogue/enemy11
+Oh, but when I reincarnate. Because I got my body
+down to human size. Did the specific gravity go
+to the chest for a moment ...?#MTLed
+> END STRING
+
+> BEGIN STRING
+へぇ………
+
+本来のスフィンクスのサイズって、どれくらいなの？
+> CONTEXT: Map120/events/5/pages/1/150/Dialogue/kazuya
+Hey ......... How big is the size of the original
+Sphinx?#MTLed
+> END STRING
+
+> BEGIN STRING
+んーとね……
+
+だいたい寝そべって、この部屋にギチギチに収まるくらい？
+> CONTEXT: Map120/events/5/pages/1/154/Dialogue/enemy9
+Hmmm...About to lie down, can you fit creakily
+in this room?#MTLed
+> END STRING
+
+> BEGIN STRING
+デカいな…！？
+
+それじゃあ、あのエジプトにあるスフィンクス像って
+ わりと等身大なのか……
+> CONTEXT: Map120/events/5/pages/1/159/Dialogue/kazuya
+Big one ...! ? Well then, that Sphinx statue in
+Egypt. Is it rather life-size ...#MTLed
+> END STRING
+
+> BEGIN STRING
+あー…正確にはあれは違う種族だけど……
+
+まぁそうだね、あれぐらいだよ。
+> CONTEXT: Map120/events/5/pages/1/164/Dialogue/enemy9
+Uh...that's exactly a different race ...
+Well, that's about that.#MTLed
+> END STRING
+
+> BEGIN STRING
+スフィンクスは魔界種だから、繁殖のための膣はなくて
+
+ ボクも昔は、なぞなぞに答えられなかった人間を
+ ひょいと摘まんでゴクリってしてたんだ。
+> CONTEXT: Map120/events/5/pages/1/168/Dialogue/enemy11
+Sphinx is a demon Realm species, so there is no
+vagina for breeding. I used to be a man who
+couldn't answer riddles. I used to pick it up and
+googling.#MTLed
+> END STRING
+
+> BEGIN STRING
+丸呑みなら、挑んできた人間の数や性別は
+
+ ぜーんぜん関係ないからね！
+> CONTEXT: Map120/events/5/pages/1/173/Dialogue/enemy11
+If you're Marin, the number and gender of the
+people you challenged. It has nothing to do with
+me!#MTLed
+> END STRING
+
+> BEGIN STRING
+……………
+
+じゃあ、どうしてわざわざ人間サイズに…？
+> CONTEXT: Map120/events/5/pages/1/177/Dialogue/kazuya
+................ Well then why expressly human
+size ...?#MTLed
+> END STRING
+
+> BEGIN STRING
+……昔のボクはね、ナゾナゾに答えられた人間の望みを
+
+称賛の意味も込めて、ひとつだけ叶えてたんだ。
+> CONTEXT: Map120/events/5/pages/1/182/Dialogue/enemy11
+...... I'm old, human's hope answered riddle
+I also praised only one with the meaning of
+praise.#MTLed
+> END STRING
+
+> BEGIN STRING
+もちろん妖魔じゃないし、魔力はそこまでなかったから
+
+ ボクのできる範囲で、だけどね。
+> CONTEXT: Map120/events/5/pages/1/186/Dialogue/enemy11
+Of course not a monster, because there was no
+magic there. As far as I can, but.#MTLed
+> END STRING
+
+> BEGIN STRING
+最期………『ボクの命』を望む男が現れる少し前に…
+
+もう一人だけ、ナゾナゾに正解した男がいたんだ。
+> CONTEXT: Map120/events/5/pages/1/190/Dialogue/enemy9
+The end...... a little before the appearance of
+a man who wants "my life"...
+Only one other man had a correct answer to
+riddle.#MTLed
+> END STRING
+
+> BEGIN STRING
+その男の願いはね……
+
+『ボクを抱きたい』だったんだよ
+> CONTEXT: Map120/events/5/pages/1/194/Dialogue/enemy9
+That man's wish..."I want to Hug me"#MTLed
+> END STRING
+
+> BEGIN STRING
+そんなこと言われたって、当時のボクに生殖器官はないし
+『交尾』の気持ちよさも、やり方も知らない…………
+
+ サイズだって無理がある、って伝えたんだけどね…
+> CONTEXT: Map120/events/5/pages/1/200/Dialogue/enemy9
+I said that, I have no reproductive organs at
+that time. I do not know the feeling or the way
+of "mating" ...... I told you that it's
+impossible even for the size ...#MTLed
+> END STRING
+
+> BEGIN STRING
+彼、ボクのおっぱいに埋もれて、自慰して
+
+最後には、『食べてくれ』って……
+> CONTEXT: Map120/events/5/pages/1/205/Dialogue/enemy11
+He is buried in my tits and masturbates
+At the end, "Eat me" ...#MTLed
+> END STRING
+
+> BEGIN STRING
+……………なんていうか
+
+ いたんだね…その時代にも、『そういう』人……
+> CONTEXT: Map120/events/5/pages/1/209/Dialogue/kazuya
+......... what. It was...... "that kind of
+person" in that age ...#MTLed
+> END STRING
+
+> BEGIN STRING
+まぁ、勝者の願いだからちゃんと叶えてあげたけどさぁ
+
+なにも感じれないボクの方からしたら、不完全燃焼だよ…
+> CONTEXT: Map120/events/5/pages/1/213/Dialogue/enemy12
+Well, I wish you the winner's wish, but I'll give
+it to you. If I can not feel anything, it is
+incomplete combustion ...#MTLed
+> END STRING
+
+> BEGIN STRING
+気持ち良さそうにしてたから、
+すぐに呑まずに、じっくり舌で転がしてあげたけど……
+
+結局不正解と同じ結末じゃないかー、ってね。
+> CONTEXT: Map120/events/5/pages/1/217/Dialogue/enemy12
+Because I looked comfortable, I quickly rolled up
+my tongue slowly, though...After all, it may
+not be the same end as an incorrect answer.#MTLed
+> END STRING
+
+> BEGIN STRING
+長く人間界にいたってのもあって
+ボクをそういう目で見る人がいても特に驚かなかったけど
+
+勝者の願い事にされるのは予想外だったかなぁ。
+> CONTEXT: Map120/events/5/pages/1/222/Dialogue/enemy11
+It's been a long time in the human realm
+Even though there were people who saw me with
+that kind of eyes, I was not particularly
+surprised. It was unexpected to be made a
+winner's wish.#MTLed
+> END STRING
+
+> BEGIN STRING
+でも……この出来事がきっかけで、ボクの人間への興味が
+
+『そっち方面』にも湧いてきたんだ。
+> CONTEXT: Map120/events/5/pages/1/228/Dialogue/enemy11
+But...this event is the cause, my interest in
+human beings. I'm also talking about "where".#MTLed
+> END STRING
+
+> BEGIN STRING
+『交尾ってそんなに気持ちいいんだろうか？』
+
+『相手と同サイズなら、見方が変わるんじゃないか？』
+> CONTEXT: Map120/events/5/pages/1/232/Dialogue/enemy11
+"Will mating feel so good? ". 
+"If it's the same size as your opponent, then
+your perspective will not change? "#MTLed
+> END STRING
+
+> BEGIN STRING
+ってなわけで！
+
+ 転生ついでに、ヘラ様にお願いして
+ もろもろ創り直してもらったんだ！！
+> CONTEXT: Map120/events/5/pages/1/236/Dialogue/enemy12
+What is it? I would like to ask Lady Hera
+I was allowed to recreate it! !#MTLed
+> END STRING
+
+> BEGIN STRING
+な、なるほど……
+> CONTEXT: Map120/events/5/pages/1/241/Dialogue/kazuya
+Nah, I see ...#MTLed
+> END STRING
+
+> BEGIN STRING
+フフフッ、なぁに？\\N[1]くん。急にそんなこと聞いて…
+
+ 大きなおっぱいが好きなの？
+> CONTEXT: Map120/events/5/pages/1/244/Dialogue/enemy11
+Hihihih, what? \\N[1]-kun. Suddenly ask such a
+thing...Do you like big tits?#MTLed
+> END STRING
+
+> BEGIN STRING
+い、いや…！
+
+そういう意味で言ったわけじゃ……！！
+> CONTEXT: Map120/events/5/pages/1/248/Dialogue/kazuya-a
+No…! That's why I said ......! !#MTLed
+> END STRING
+
+> BEGIN STRING
+えー？
+
+でも 、話の切り出しが『胸が大きいね』って
+ あきらかにそういう意図なんじゃないの～？
+> CONTEXT: Map120/events/5/pages/1/252/Dialogue/enemy11
+Eh? But, the excerpt of the story is "I have a
+big heart". Apparently, that's what that
+intention is-?#MTLed
+> END STRING
+
+> BEGIN STRING
+うっ……！
+> CONTEXT: Map120/events/5/pages/1/257/Dialogue/kazuya-a
+ugh......!#MTLed
+> END STRING
+
+> BEGIN STRING
+いいんだよぉ？いつ飛び付いてきても…♡
+
+いっぱいぎゅーってして、ナデナデしながら
+抱きつつんだまま何度も犯してあげるから…♡
+> CONTEXT: Map120/events/5/pages/1/259/Dialogue/enemy11
+Is that okay? Whenever you jump in ...
+A lot of people are doing it, while doing
+Nadenade. Hug Because I'll commit many times
+while crawling...♡#MTLed
+> END STRING
+
+> BEGIN STRING
+今の身体のボクだったら、気持ち良さも共有できるし
+
+いくらだって搾ってあげられるよぉ？
+> CONTEXT: Map120/events/5/pages/1/264/Dialogue/enemy11
+If it is my current body, I can share the comfort
+How much can you squeeze?#MTLed
+> END STRING
+
+> BEGIN STRING
+……わ、わかったよ……話題を振ったのは謝るから……
+
+おっぱいをそんなに押し当てないで……
+> CONTEXT: Map120/events/5/pages/1/268/Dialogue/kazuya-a
+...... I understand, ...... I apologize for
+shaking the topic...Don't push your boobs so
+much ...#MTLed
+> END STRING
+
+> BEGIN STRING
+…………はーい。
+
+フフフッ♡
+> CONTEXT: Map120/events/5/pages/1/272/Dialogue/enemy11
+…………Yes. Hihihih ♡#MTLed
+> END STRING
+
+> BEGIN STRING
+えっと……\\N[1]くんゴメン……
+
+ちょ、ちょっとお願いがあるんだけどさ……
+> CONTEXT: Map120/events/5/pages/1/282/Dialogue/enemy12
+Hmmm ..... \\N[1]-kun, I'm sorry ...
+I have a little asking, but ...#MTLed
+> END STRING
+
+> BEGIN STRING
+………？どうしたんだよ。
+
+ 目の焦点が合ってないぞ……？
+> CONTEXT: Map120/events/5/pages/1/286/Dialogue/kazuya
+.........? What's wrong. The eyes are not in
+focus ...?#MTLed
+> END STRING
+
+> BEGIN STRING
+せ、背中の真ん中が……かゆいんだけど……
+
+翼がじゃまで………脚が微妙に届かなくて……
+> CONTEXT: Map120/events/5/pages/1/290/Dialogue/enemy12
+Well, the middle of my back is...itchy but ...
+Until the wings are tight...... The legs do not
+reach well ...#MTLed
+> END STRING
+
+> BEGIN STRING
+か、かいて……
+
+し、じにぞう……
+> CONTEXT: Map120/events/5/pages/1/294/Dialogue/enemy12
+Is it ...? Shiji Nizai ...#MTLed
+> END STRING
+
+> BEGIN STRING
+あぁー！スッキリした！
+
+ありがとう\\N[1]くん！
+> CONTEXT: Map120/events/5/pages/1/304/Dialogue/enemy11
+Ah! It was refreshing! Thank you \\N[1]!#MTLed
+> END STRING
+
+> BEGIN STRING
+ははは……
+
+どういたしまして……
+> CONTEXT: Map120/events/5/pages/1/308/Dialogue/kazuya
+Hahaha...... You are welcome ......#MTLed
+> END STRING
+
+> BEGIN STRING
+いやー、このサイズになってからというもの
+
+毛繕いの勝手が以前とえらい違っててね……
+> CONTEXT: Map120/events/5/pages/1/312/Dialogue/enemy9
+No, I'm from this size. The selfishness of hair
+growth is very different from before ...#MTLed
+> END STRING
+
+> BEGIN STRING
+特に翼は以前よりも小さくなっちゃって
+
+ちょっと片脚を上げたらバランス崩しちゃうんだ……
+> CONTEXT: Map120/events/5/pages/1/316/Dialogue/enemy9
+Especially the wings are smaller than before
+If you raise one leg for a while, you will lose
+balance ......#MTLed
+> END STRING
+
+> BEGIN STRING
+搾精器官を付けて、魔力を使う部分が増えたから
+
+必然的に小さくなったってヘラ様に言われたよ……
+> CONTEXT: Map120/events/5/pages/1/320/Dialogue/enemy9
+Because there are more parts that use milk power
+with milking organs. It was told by Lady Hera
+that it was inevitably smaller ...#MTLed
+> END STRING
+
+> BEGIN STRING
+『前より小さくなった』って……
+
+もしかして、今はもう飛べないとか……？
+> CONTEXT: Map120/events/5/pages/1/324/Dialogue/kazuya
+"It became smaller than before" ...
+Maybe I can not fly now ...?#MTLed
+> END STRING
+
+> BEGIN STRING
+ううん！低空で、短時間なら平気！
+
+ 別に飛び方を忘れたわけじゃないからさ！
+> CONTEXT: Map120/events/5/pages/1/328/Dialogue/enemy11
+No! It's low and it's okay for a short time!
+I did not forget how to fly separately!#MTLed
+> END STRING
+
+> BEGIN STRING
+スフィンクスって種族は、もともと山とか峡谷とか
+高い場所が好きな悪魔だから、飛ぶのは得意なの。
+
+ていうか、まぁ、飛べないと死んじゃうしね。
+> CONTEXT: Map120/events/5/pages/1/332/Dialogue/enemy11
+The Sphinx is originally a mountain or a gorge
+I like high places demon So I'm good at flying.
+I mean, you can't fly and you'll die.#MTLed
+> END STRING
+
+> BEGIN STRING
+それに、知性と身体能力に魔力が回ってて
+純正のスフィンクスは、『結界』が張れないんだ。
+
+ボクが結界張りが苦手だったのは、それが理由。
+> CONTEXT: Map120/events/5/pages/1/337/Dialogue/enemy11
+Besides, magic power is turning to intelligence
+and physical ability. A genuine Sphinx can't hold
+a "boundary". That's why I was not good at
+barrier tension.#MTLed
+> END STRING
+
+> BEGIN STRING
+だから、万が一『不正解者』を取り逃がしたときは
+
+自分の翼や脚で追いかけないと逃げられちゃうんだよ。
+> CONTEXT: Map120/events/5/pages/1/342/Dialogue/enemy11
+So, by any chance when you miss the "incorrect
+person". If you don't chase with your wings and
+legs, you can get away.#MTLed
+> END STRING
+
+> BEGIN STRING
+………『魔獣』は大体がそうだな。
+
+ 主に『身体能力』を使って相手を捕獲する。
+> CONTEXT: Map120/events/5/pages/1/349/Dialogue/other1
+......"The Beast" is generally so.
+Mainly use the "physical ability" to capture the
+opponent.#MTLed
+> END STRING
+
+> BEGIN STRING
+逆に『妖魔』は、自身はあまり動かずに
+
+ ツタや影なんかを使って相手を捕獲するんだ。
+> CONTEXT: Map120/events/5/pages/1/353/Dialogue/other1
+Conversely, "monster" does not move much by
+itself. I use the ivy and shadows to capture the
+opponent.#MTLed
+> END STRING
+
+> BEGIN STRING
+まぁ……もともと違う種族だったり、上位悪魔になると
+
+例外も結構あるけどな……
+> CONTEXT: Map120/events/5/pages/1/357/Dialogue/other1
+Maa...originally from a different race, or
+become a higher demon. There are many exceptions,
+though ...#MTLed
+> END STRING
+
+> BEGIN STRING
+お前も、これまで色々戦ってきたから
+
+結構種族ごとの戦い方が分かってるんじゃねぇか？
+> CONTEXT: Map120/events/5/pages/1/361/Dialogue/other1
+You have also fought so much. 
+You know quite how to fight each race, right?#MTLed
+> END STRING
+
+> BEGIN STRING
+でも、この身体になって『結界』も使えるようになったし
+結界内なら、人間に脚で十分追いつけるから
+
+ボク自身は、もう滅多に翼は使わないね。
+> CONTEXT: Map120/events/5/pages/1/368/Dialogue/enemy11
+But this body became able to use "boundary"
+If within the boundaries, you can catch up with
+humans with your legs enough. 
+I myself rarely use wings anymore.#MTLed
+> END STRING
+
+> BEGIN STRING
+確かに、ライオンの身体だし
+
+普通に速そうだもんね……
+> CONTEXT: Map120/events/5/pages/1/373/Dialogue/kazuya
+Certainly, it is the body of a lion
+It looks fast as usual ...#MTLed
+> END STRING
+
+> BEGIN STRING
+フッフッフッ……でもね\\N[1]くん……
+
+この翼は、飛ぶためだけのものじゃないって
+ もう知ってるはずだよね……？
+> CONTEXT: Map120/events/5/pages/1/378/Dialogue/enemy11
+hehehe ...... But \\N[1] kun ...
+This wing is not just for flying
+You should already know ...?#MTLed
+> END STRING
+
+> BEGIN STRING
+うわっ……！！
+> CONTEXT: Map120/events/5/pages/1/385/Dialogue/kazuya-a
+> CONTEXT: Map165/events/10/pages/0/19/Dialogue/kazuya
+> CONTEXT: Map165/events/12/pages/0/19/Dialogue/kazuya
+> CONTEXT: Map215/events/5/pages/1/622/Dialogue/kazuya
+> CONTEXT: Map220/events/1/pages/0/99/Dialogue/kazuya
+> CONTEXT: Troops/286/pages/0/42/Dialogue/kazuya-0
+Wow……! !#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[1]は、スフィンクスの翼に
+
+一瞬にして抱き包まれてしまった……！
+> CONTEXT: Map120/events/5/pages/1/389/Dialogue
+\\N[1] is on the wing of the Sphinx. In an instant Hug has
+been wrapped ...!#MTLed
+> END STRING
+
+> BEGIN STRING
+んふふ♡
+ ボクの翼、フワフワで気持ちいいでしょ？
+
+このサイズ、人間を抱き包むのに丁度いいんだぁ♡
+> CONTEXT: Map120/events/5/pages/1/393/Dialogue/enemy11
+Unfu. My wings, fluffy and feel good, aren't
+they? This size is just good for wrapping Hug on
+humans#MTLed
+> END STRING
+
+> BEGIN STRING
+それに、この密着感、『二人だけの空間』って感じがして
+
+ ボク大好きなんだぁ…♡
+> CONTEXT: Map120/events/5/pages/1/398/Dialogue/enemy11
+Besides, this feeling of closeness feels like "a
+space for only two people". I love you...♡#MTLed
+> END STRING
+
+> BEGIN STRING
+ちょっ……！！
+> CONTEXT: Map120/events/5/pages/1/402/Dialogue/kazuya-a
+Hey ...! !#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[1]は、身体に完全に組み付かれる直前に
+
+翼の中から抜け出した！
+> CONTEXT: Map120/events/5/pages/1/406/Dialogue
+\\N[1] is about to be fully assembled in the body
+I got out of the wings!#MTLed
+> END STRING
+
+> BEGIN STRING
+むぅ……
+
+惜しい…あとちょっとだったのに……
+> CONTEXT: Map120/events/5/pages/1/410/Dialogue/enemy11
+Mum...I'm lonely...I was a little more ...#MTLed
+> END STRING
+
+> BEGIN STRING
+そ、そういう風に、会話の途中で
+
+急に襲うのはやめなさい！！
+> CONTEXT: Map120/events/5/pages/1/414/Dialogue/kazuya-a
+Well, in that way, in the middle of a
+conversation. Stop attacking suddenly! !#MTLed
+> END STRING
+
+> BEGIN STRING
+フッフッフッ
+
+スフィンクスであるボクと問答している時点で
+油断したら負けなんだよ、\\N[1]くん？
+> CONTEXT: Map120/events/5/pages/1/418/Dialogue/enemy12
+hehehe. At the time when I'm asking questions
+about Sphinx. If you're offended, you'll lose,
+\\N[1]-kun?#MTLed
+> END STRING
+
+> BEGIN STRING
+ボクに背中を見せたら最期……
+
+頭も身体も、干からびるまで吸ってあげるから…♡
+> CONTEXT: Map120/events/5/pages/1/423/Dialogue/enemy11
+The end is when I show my back ...
+I will suck my head and body until I get dry ...
+♡#MTLed
+> END STRING
+
+> BEGIN STRING
+………そんな事ばっかり言ってると
+
+ もう僕、遊びに来ないかもしれないよ…？
+> CONTEXT: Map120/events/5/pages/1/428/Dialogue/kazuya
+......... saying that's all right
+I may not come to play anymore ...?#MTLed
+> END STRING
+
+> BEGIN STRING
+それは………ちょっと困る……
+
+ゴメンナサイ……
+> CONTEXT: Map120/events/5/pages/1/434/Dialogue/enemy11
+That is...... a little trouble ...
+Gomenasai ...#MTLed
+> END STRING
+
+> BEGIN STRING
+【キズナイベント】if(v[51] \>= 99) 
+> CONTEXT: Map120/events/5/pages/1/442/Choice/0
+【Bonding】if(v[51] \>= 99)#MTLed
+> END STRING
+
+> BEGIN STRING
+えへへ～♡
+
+\\N[1]くん～♡
+> CONTEXT: Map120/events/5/pages/1/448/Dialogue/enemy11
+ehehe ♡. \\N[1]-♡#MTLed
+> END STRING
+
+> BEGIN STRING
+スフィンクスは喉をゴロゴロ言わせながら
+
+\\N[1]に身体を擦り付けている……
+> CONTEXT: Map120/events/5/pages/1/452/Dialogue
+Sphinx makes the throat thundering. I am rubbing my body on
+\\N[1] ......#MTLed
+> END STRING
+
+> BEGIN STRING
+スフィンクス……どうしたの…？
+
+なんかでっかい猫みたいになっちゃってるぞ…？
+> CONTEXT: Map120/events/5/pages/1/456/Dialogue/kazuya
+Sphinx...What happened ...? 
+It looks like a huge cat ...?#MTLed
+> END STRING
+
+> BEGIN STRING
+いいじゃーん♡
+
+獅子だって猫科だもーん♡
+> CONTEXT: Map120/events/5/pages/1/460/Dialogue/enemy12
+It is good. Even Junko is a cat department#MTLed
+> END STRING
+
+> BEGIN STRING
+このまま、\\N[1]くんの飼い猫になるー♪
+> CONTEXT: Map120/events/5/pages/1/464/Dialogue/enemy11
+As it is, it becomes \\N[1]-kun's cat♪#MTLed
+> END STRING
+
+> BEGIN STRING
+う、うわっ……！！？
+> CONTEXT: Map120/events/5/pages/1/466/Dialogue/kazuya
+Uh, wow ...!!?#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[1]は、スフィンクスに押し倒された……
+> CONTEXT: Map120/events/5/pages/1/470/Dialogue
+\\N[1] was overthrown by Sphinx ...#MTLed
+> END STRING
+
+> BEGIN STRING
+あ？それともぉ……♡
+
+\\N[1]くんが、ボクのペットになる？
+> CONTEXT: Map120/events/5/pages/1/473/Dialogue/enemy11
+Ah? Or just...ぉ. \\N[1]-kun, will you be my
+pet?#MTLed
+> END STRING
+
+> BEGIN STRING
+毎日、昼夜問わずに好きなだけ交尾して……
+
+お互いの事だけしか頭になくなって……
+> CONTEXT: Map120/events/5/pages/1/477/Dialogue/enemy11
+Every day, regardless of day and night, I mate as
+much as I want...I lost my mind only to each
+other ...#MTLed
+> END STRING
+
+> BEGIN STRING
+ずーっと、ボクのおっぱいで甘え続けるんだよ…♡
+
+悪くないでしょ？
+> CONTEXT: Map120/events/5/pages/1/481/Dialogue/enemy11
+After all, I keep sweetening with my boobs...♡
+Not bad, right?#MTLed
+> END STRING
+
+> BEGIN STRING
+う、ううっ……♡
+> CONTEXT: Map120/events/5/pages/1/485/Dialogue/kazuya-0
+Uh uugh...... ♡#MTLed
+> END STRING
+
+> BEGIN STRING
+目の前には、柔らかそうに波打つ大きな乳房……
+
+口元に、母乳のような液体で湿った乳首が迫る……
+> CONTEXT: Map120/events/5/pages/1/487/Dialogue
+In front of you, a big breast that squeaks softly ...
+A moist teat with a milk-like liquid comes close to her
+mouth ...#MTLed
+> END STRING
+
+> BEGIN STRING
+僕は……
+
+もう誘惑に抗う理性が吹き飛んでしまっていた……
+> CONTEXT: Map120/events/5/pages/1/491/Dialogue
+I……. The reason for fighting against temptation has already
+blown away ......#MTLed
+> END STRING
+
+> BEGIN STRING
+ん………
+> CONTEXT: Map120/events/5/pages/1/509/Dialogue/kazuya-2
+Hmm………#MTLed
+> END STRING
+
+> BEGIN STRING
+あ！目が覚めた？\\N[1]くん。
+
+おはよう！
+> CONTEXT: Map120/events/5/pages/1/511/Dialogue/enemy11
+Ah! Woke up? \\N[1]-kun. Good morning!#MTLed
+> END STRING
+
+> BEGIN STRING
+あまりに気持ち良さそうに寝るもんだからさぁ
+
+ ずっと抱いたまま、寝顔を楽しんでたよ
+> CONTEXT: Map120/events/5/pages/1/515/Dialogue/enemy11
+I'm going to sleep too comfortably
+I enjoyed my sleeping face while holding it for a
+long time#MTLed
+> END STRING
+
+> BEGIN STRING
+………？
+
+どうして、悲しそうな顔をしてるの？
+> CONTEXT: Map120/events/5/pages/1/522/Dialogue/kazuya-2
+.........? Why do you have a sad face?#MTLed
+> END STRING
+
+> BEGIN STRING
+え…！？顔に出てた…！？
+
+結構平静を装ってたつもりだったんだけど…
+> CONTEXT: Map120/events/5/pages/1/527/Dialogue/enemy11
+Huh…! ? It came out to the face ...! ?
+I was supposed to be dressed as calm but ...#MTLed
+> END STRING
+
+> BEGIN STRING
+まいったなあ……
+
+\\N[1]くんに、隠し事はムリかぁ…
+> CONTEXT: Map120/events/5/pages/1/531/Dialogue/enemy9
+I'm sorry...\\N[1]-kun, the secret is a muri
+...#MTLed
+> END STRING
+
+> BEGIN STRING
+…………思い出したんだ。
+
+ボク、なんで『バカ』に生まれ変わったのか……
+> CONTEXT: Map120/events/5/pages/1/536/Dialogue/enemy11
+...... I remembered. I, why I was reborn as
+"idiot" ...#MTLed
+> END STRING
+
+> BEGIN STRING
+スフィンクスは、謎かけが好きな、知性の高い魔獣。
+
+ 昔のボクも同様に、謎かけが大好きだったから
+ ヘラ様に従って、人間界に来たんだ。
+> CONTEXT: Map120/events/5/pages/1/540/Dialogue/enemy11
+Sphinx is a highly intelligent monster that likes
+mystery. Likewise, I used to love the mystery
+According to Lady Hera, I came to the human
+realm.#MTLed
+> END STRING
+
+> BEGIN STRING
+いろんな人間に会って、………食べたよ、物理的に。
+
+それがヘラ様の命令だったし………
+> CONTEXT: Map120/events/5/pages/1/545/Dialogue/enemy11
+I met a lot of people...I ate, physically.
+That was the order of Lady Hera .........#MTLed
+> END STRING
+
+> BEGIN STRING
+でも、ボクを倒そうとしたり、出し抜こうとしたり
+屁理屈をこねる人間に会ったりして、
+
+ボクの興味は、だんだん人間そのものになっていった……
+> CONTEXT: Map120/events/5/pages/1/551/Dialogue/enemy12
+But I tried to beat me, I tried to get out
+I met a human being who insisted,
+My interest turned to human beings ......#MTLed
+> END STRING
+
+> BEGIN STRING
+謎かけはわからなくても、ボクをどうにかしようとする
+
+人間の多種多様さが、愚かしくて、楽しくて、可愛くて…
+> CONTEXT: Map120/events/5/pages/1/556/Dialogue/enemy12
+Even if I don't understand the mystery, I try to
+manage it. The variety of human beings is stupid,
+fun and cute ...#MTLed
+> END STRING
+
+> BEGIN STRING
+でも、最期に会った、あの男だけは違った。
+
+ボクに向けられたのは、明確な『殺意』だけ……
+> CONTEXT: Map120/events/5/pages/1/561/Dialogue/enemy11
+But only that man who met the end was different.
+It was only clear "killing intent" that was
+directed to me ...#MTLed
+> END STRING
+
+> BEGIN STRING
+まぁ、当たり前だよね。
+
+ボクはそれ相応の人間を食べてきた。当然の報いだ。
+> CONTEXT: Map120/events/5/pages/1/565/Dialogue/enemy11
+Well, it is natural. I have eaten the
+corresponding human. It was a natural reward.#MTLed
+> END STRING
+
+> BEGIN STRING
+だけどボクは、死ぬときにこう願ったんだよ。
+
+ 『バカになりたい』って……
+> CONTEXT: Map120/events/5/pages/1/570/Dialogue/enemy12
+But I wished that when I died.
+"I want to be an idiot" ...#MTLed
+> END STRING
+
+> BEGIN STRING
+人間を理屈や知識で『理解』するんじゃなくて
+
+ ただただ、『愛したい』って……
+> CONTEXT: Map120/events/5/pages/1/574/Dialogue/enemy12
+I do not "understand" humans with reasoning and
+knowledge. only, "I want to love" ...#MTLed
+> END STRING
+
+> BEGIN STRING
+まぁ！結果バカになりすぎて使い物にならず
+
+飼い殺しにされた挙げ句に捨てられましたけど！
+> CONTEXT: Map120/events/5/pages/1/580/Dialogue/enemy11
+Well! It becomes too stupid to be a result and is
+useless. Though it was thrown away by the
+confession that was made to be domesticated!#MTLed
+> END STRING
+
+> BEGIN STRING
+アハハハハハーーー！！
+
+アハ……ハ……ハ…
+> CONTEXT: Map120/events/5/pages/1/584/Dialogue/enemy11
+Ahaha Ha ha ha ha!!Ah...Ha...Ha ...#MTLed
+> END STRING
+
+> BEGIN STRING
+……………よがっだ…………
+
+\\N[1]くんに会えて……本当に………
+> CONTEXT: Map120/events/5/pages/1/589/Dialogue/enemy12
+........... it is ...............
+Meet \\N[1]-kun...really......#MTLed
+> END STRING
+
+> BEGIN STRING
+ボクの『愛したい』を
+
+素直に受け止めてくれる人で、よがっだよぉ…
+> CONTEXT: Map120/events/5/pages/1/593/Dialogue/enemy12
+I want to love you. A man who accepts me
+honestly.#MTLed
+> END STRING
+
+> BEGIN STRING
+わかった！わかったよ！
+
+だから泣くなってば！！
+> CONTEXT: Map120/events/5/pages/1/597/Dialogue/kazuya-0
+all right! understood! So if you get crying! !#MTLed
+> END STRING
+
+> BEGIN STRING
+あと、人の身体に鼻水をこすりつけるな！！
+
+たのむから！！！
+> CONTEXT: Map120/events/5/pages/1/601/Dialogue/kazuya-0
+Also, don't rub your runny nose on people's
+bodies!!It's fun!!!#MTLed
+> END STRING
+
+> BEGIN STRING
+スフィンクスとの『キズナ』が生まれた！！
+
+友好度が『１００』になった！！
+> CONTEXT: Map120/events/5/pages/1/615/Dialogue
+"Kizuna" with Sphinx is born!!The degree of friendship
+has reached "100"! !#MTLed
+> END STRING
+
+> BEGIN STRING
+\\{\\{いーよー！！
+> CONTEXT: Map120/events/5/pages/2/1/Dialogue/enemy11
+\\{\\{Hey! !#MTLed
+> END STRING
+
+> BEGIN STRING
+\\{\\{ノリ軽っ！？
+> CONTEXT: Map120/events/5/pages/2/3/Dialogue/kazuya
+\\{\\{Nori light! ?#MTLed
+> END STRING
+
+> BEGIN STRING
+え？だって………断る理由なくない？
+
+ボク、人間を愛したいからこの姿になったって
+\\N[1]くんには話したよね？
+> CONTEXT: Map120/events/5/pages/2/6/Dialogue/enemy11
+Huh? Because...... there is no reason to
+decline? I'm in this form because I want to love
+humans. Did you talk to \\N[1]?#MTLed
+> END STRING
+
+> BEGIN STRING
+それにホラ、\\N[1]くんにはさ
+
+ ボクの『はじめて』の相手だし、
+ 泣き顔とか、いろいろと恥ずかしい所も見られたし……
+> CONTEXT: Map120/events/5/pages/2/11/Dialogue/enemy9
+Besides that, it's good to \\N[1]
+It is my "first time" partner,
+I could see a crying face and various
+embarrassing places ...#MTLed
+> END STRING
+
+> BEGIN STRING
+たぶん、ここでボクを選んでくれてなくても
+
+勝手にあちこちつきまとってた気がするよ！！
+> CONTEXT: Map120/events/5/pages/2/16/Dialogue/enemy11
+Maybe even if you don't choose me here
+I feel like I've taken it here and there! !#MTLed
+> END STRING
+
+> BEGIN STRING
+うわぁ………
+> CONTEXT: Map120/events/5/pages/2/20/Dialogue/kazuya
+Wow………#MTLed
+> END STRING
+
+> BEGIN STRING
+あっ、でもあれかぁ……
+
+\\N[1]くんとコンヤクってことは
+人間界で一緒に暮らすって事になるのかぁ
+> CONTEXT: Map120/events/5/pages/2/23/Dialogue/enemy11
+Oh, but that ...... What is \\N[1]-kun and
+Konyaku? Will we live together in the human
+realm?#MTLed
+> END STRING
+
+> BEGIN STRING
+人間に化ける練習しなきゃなぁ………
+
+結界もろくに張れないのに、できるかなぁ………
+> CONTEXT: Map120/events/5/pages/2/28/Dialogue/enemy11
+I have to practice to be human.
+Even though the boundaries can not be stretched,
+I can do it .........#MTLed
+> END STRING
+
+> BEGIN STRING
+たしかに……
+
+平原を森林にするだけの魔力はあるのにね……
+> CONTEXT: Map120/events/5/pages/2/32/Dialogue/kazuya
+Certainly……. Even though there is magic to make
+plains a forest ...#MTLed
+> END STRING
+
+> BEGIN STRING
+あっ、そーだ☆
+
+いざってときはでっかい置物として客間の隅に座って
+ ボクが一切動かないようにするのは！？
+> CONTEXT: Map120/events/5/pages/2/37/Dialogue/enemy11
+Oh, oh yeah ☆. When it happens, sit in the corner
+of the customer as a huge figurine
+It is to keep me from moving at all! ?#MTLed
+> END STRING
+
+> BEGIN STRING
+…………こんなに胸がブルンブルン揺れるような
+
+置物を置く人だって、逆に怪しまれるからヤメテ…
+> CONTEXT: Map120/events/5/pages/2/43/Dialogue/kazuya
+............ such a heart shakes Brun Brun
+Even those who put on figurines are suspicious
+because they are suspicious ...#MTLed
+> END STRING
+
+> BEGIN STRING
+まぁ………あとのことは、その時考えよう…。
+
+とりあえず、指輪を受け取ってくれてありがとう。
+> CONTEXT: Map120/events/5/pages/2/47/Dialogue/kazuya
+Well...... Let's think about that later ....
+First of all, thank you for receiving the ring.#MTLed
+> END STRING
+
+> BEGIN STRING
+愛してるよ、スフィンクス……
+> CONTEXT: Map120/events/5/pages/2/51/Dialogue/kazuya
+I love you, Sphinx ......#MTLed
+> END STRING
+
+> BEGIN STRING
+もーー！I・MA・SA・RA☆
+
+そんな当たり前の事を言わないでよー！
+> CONTEXT: Map120/events/5/pages/2/55/Dialogue/enemy11
+Well! I · MA · SA · RA ☆. Don't say such an
+obvious thing!#MTLed
+> END STRING
+
+> BEGIN STRING
+あ、でもそのかわりぃ……
+
+日々の搾精はモチロン覚悟しといてね…？♡
+> CONTEXT: Map120/events/5/pages/2/60/Dialogue/enemy11
+Oh, but instead. Are you ready for your daily
+milking of course ...? Moth#MTLed
+> END STRING
+
+> BEGIN STRING
+悪魔の中でも魔獸は精に貪欲だから……
+
+気が済むまで離さないよ？♡
+> CONTEXT: Map120/events/5/pages/2/64/Dialogue/enemy11
+Among demons, sorcery is so greedy.
+Don't let go until you feel like it? Moth#MTLed
+> END STRING
+
+> BEGIN STRING
+あ、あまり『知識』は吸わないようにしてね……
+
+君のお世話ができなくなるから……
+> CONTEXT: Map120/events/5/pages/2/69/Dialogue/kazuya
+Oh, don't smoke too much 'knowledge' ...
+Because I can not take care of you ......#MTLed
+> END STRING
+
+> BEGIN STRING
+エンゲージリングを受け取ってもらったことで
+
+\\C[2]スフィンクスと婚約した！
+> CONTEXT: Map120/events/5/pages/2/79/Dialogue
+By receiving the engagement ring. \\C[2]Engaged with Sphinx!#MTLed
+> END STRING
+
+> BEGIN STRING
+親密度が２５以上必要。
+（現在の値：\\V[51]）
+> CONTEXT: Map120/events/4/pages/0/0/Dialogue
+25 or more intimacy is required. (Current value: \\V[51] )#MTLed
+> END STRING
+
+> BEGIN STRING
+親密度が５０以上必要。
+（現在の値：\\V[51]）
+> CONTEXT: Map120/events/6/pages/0/0/Dialogue
+50 or more intimacy is required. (Current value: \\V[51] )#MTLed
+> END STRING
+
+> BEGIN STRING
+親密度が１００必要。
+（現在の値：\\V[51]）
+> CONTEXT: Map120/events/3/pages/0/18/Dialogue
+100 intimacy required. (Current value: \\V[51] )#MTLed
+> END STRING
+
+> BEGIN STRING
+がおー！
+
+よくきたな！ニンゲン！
+> CONTEXT: Map120/events/7/pages/0/7/Dialogue/enemy11
+Roar! Well done!'human'!#MTLed
+> END STRING
+
+> BEGIN STRING
+\\{\\{帰らないで！？
+> CONTEXT: Map120/events/7/pages/0/16/Dialogue/enemy12
+\\{\\{Don't go home!?#MTLed
+> END STRING
+
+> BEGIN STRING
+えっと、何の用……？
+> CONTEXT: Map120/events/7/pages/0/23/Dialogue/kazuya
+Oh, what's for ...?#MTLed
+> END STRING
+
+> BEGIN STRING
+え、何の用？って……ひどくない？
+
+ここに来るの結構苦労したんだけど……
+> CONTEXT: Map120/events/7/pages/0/26/Dialogue/enemy11
+Eh, what is it for?Well...not bad?
+I had a hard time coming here, but ...#MTLed
+> END STRING
+
+> BEGIN STRING
+ま、まあいいや！
+
+ 目的はもちろん！なぞなぞリベンジたよ！！
+> CONTEXT: Map120/events/7/pages/0/30/Dialogue/enemy11
+Oh, so good! Of course not!Riddles are revenge!!#MTLed
+> END STRING
+
+> BEGIN STRING
+復讐するはわれにあり！
+
+ここを通りたければ、なんじのえーちを……
+> CONTEXT: Map120/events/7/pages/0/34/Dialogue/enemy11
+I am in revenge! If you want to pass here, you
+will have a feeling of ......#MTLed
+> END STRING
+
+> BEGIN STRING
+………君の後ろ、道ないんだけど……
+> CONTEXT: Map120/events/7/pages/0/38/Dialogue/kazuya
+......behind you, there is no way ...#MTLed
+> END STRING
+
+> BEGIN STRING
+\\{\\{ホントだ！
+> CONTEXT: Map120/events/7/pages/0/49/Dialogue/enemy12
+\\{\\{It's true!#MTLed
+> END STRING
+
+> BEGIN STRING
+じ、じゃあ、君は門番で忙しそうだし
+
+僕は大人しく引き返すよ……
+> CONTEXT: Map120/events/7/pages/0/52/Dialogue/kazuya
+Well then you are likely to be busy at the
+gatekeeper. I'll return with ease ......#MTLed
+> END STRING
+
+> BEGIN STRING
+うわっ！！！
+> CONTEXT: Map120/events/7/pages/0/64/Dialogue/kazuya
+whah!!#MTLed
+> END STRING
+
+> BEGIN STRING
+
+スフィンクスは、\\N[1]の腰に抱き付いてきた……
+> CONTEXT: Map120/events/7/pages/0/66/Dialogue
+Sphinx has Hug on \\N[1]'s waist ...#MTLed
+> END STRING
+
+> BEGIN STRING
+う"そ"で"す"ご"め"ん"な"さ"い！
+
+ほ"ん"と"は"会"い"に"き"た"ん"で"す"!！
+> CONTEXT: Map120/events/7/pages/0/69/Dialogue/enemy12
+"S" "S" "S" "S" "S"! "H" and "" are "" in "" ""
+"" "" ""#MTLed
+> END STRING
+
+> BEGIN STRING
+だ"か"ら"も"っ"と"ぼ"く"に"か"ま"っ"て"！？
+
+い"っ"ぱ"い"遊"ぼ"う"よ"ぉ"！！
+> CONTEXT: Map120/events/7/pages/0/73/Dialogue/enemy12
+"I" or "M" or "M" or "M" or "M" or "!"
+"I" "P" "Y" "Y" "Y" "ぉ" !!#MTLed
+> END STRING
+
+> BEGIN STRING
+わ、分かったから……！
+
+鼻水をこすりつけるなって！
+> CONTEXT: Map120/events/7/pages/0/77/Dialogue/kazuya
+I understand, ......! Rub a runny nose!#MTLed
+> END STRING

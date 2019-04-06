@@ -1,0 +1,53 @@
+﻿> GAIJINIZER PATCH FILE
+> BEGIN STRING
+
+　　　　　　部隊員の避難任務報告書
+> CONTEXT: Map053/events/13/pages/0/2/Dialogue
+Task force evacuation mission report#MTLed
+> END STRING
+
+> BEGIN STRING
+被害
+ 一般人　負傷者５２名　死者１２名　行方不明４名
+ 備考
+ 避難誘導にあたっていた部隊員が２名軽傷。
+> CONTEXT: Map053/events/13/pages/0/6/Dialogue
+damage. General injured 52 people dead 12 people missing 4
+people missing. Remarks. Two members of the team who were
+involved in evacuation guidance were slightly injured.#MTLed
+> END STRING
+
+> BEGIN STRING
+１年前に発生した、同規模の都市襲撃に比べると
+全体の被害人数は約１０％にまで減少しました。
+ 理由としては、やはり『悪魔彈』の軍全体への普及による
+悪魔への有効な対処法の確立が大きいと思われます。
+> CONTEXT: Map053/events/13/pages/0/12/Dialogue
+Compared to the same-sized urban raid that occurred a year
+ago. The total number of victims decreased to about 10%.
+The reason is, too, that the "demon 彈" spread throughout
+the military. It seems that the establishment of effective
+measures for demon is great.#MTLed
+> END STRING
+
+> BEGIN STRING
+また、今回はユウマ隊長のような悪魔との戦闘に
+知識と経験で冷静に対処できる人物がいたおかげで
+避難する人々や、我々部隊にも大きな混乱が起きず
+安全に誘導することができました。
+> CONTEXT: Map053/events/13/pages/0/18/Dialogue
+Also this time on battling with demons like Yuuma captain
+Thanks to the person who can cope calmly with knowledge and
+experience. There is no big confusion in the people we
+evacuated or in our unit. I was able to guide safely.#MTLed
+> END STRING
+
+> BEGIN STRING
+やはり悪魔との実戦経験のある人物が一人現地に配属されれば
+我々の士気にも大きな影響があらわれると実感しました。
+ 今後の作戦に関して、検討していただければと思います。
+> CONTEXT: Map053/events/13/pages/0/24/Dialogue
+After all if one person who has a real battle with demon is
+assigned to the field. I realized that our morale also has
+a big impact. I hope you will consider the future strategy.#MTLed
+> END STRING

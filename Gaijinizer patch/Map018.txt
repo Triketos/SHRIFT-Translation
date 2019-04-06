@@ -1,0 +1,282 @@
+﻿> GAIJINIZER PATCH FILE
+> BEGIN STRING
+"体験版"
+> CONTEXT: Map018/events/1/pages/0/1/InlineScript/1:22
+"Trial version"#MTLed
+> END STRING
+
+> BEGIN STRING
+よう、よく来たな。
+> CONTEXT: Map018/events/1/pages/0/26/Dialogue/クッション君
+Well, you came well.#MTLed
+> END STRING
+
+> BEGIN STRING
+ようこそ、『ＳＨＲＩＦＴ』の体験版へ。
+
+ここではストーリーの一部と、各種システムを体験できます。
+> CONTEXT: Map018/events/1/pages/0/28/Dialogue/other1
+Welcome to the trial version of "SHRIFT".
+Here you can experience part of the story and
+various systems.#MTLed
+> END STRING
+
+> BEGIN STRING
+俺らの自己紹介は……
+
+まぁ、また縁があったときに改めてすればいいか。
+> CONTEXT: Map018/events/1/pages/0/32/Dialogue/クッション君
+Our self introduction is ......
+Well, should I do it again when I have a border
+again?#MTLed
+> END STRING
+
+> BEGIN STRING
+とりあえずその目の前の本を読めば
+
+チュートリアルと、３体の悪魔と順番に戦える。
+> CONTEXT: Map018/events/1/pages/0/36/Dialogue/クッション君
+First of all, if you read the book in front of
+you. You can fight with tutorial and 3 demons in
+order.#MTLed
+> END STRING
+
+> BEGIN STRING
+それぞれの悪魔との戦いの直前では
+
+私がそれぞれのイベントのあらすじを説明致します。
+> CONTEXT: Map018/events/1/pages/0/40/Dialogue/other1
+Just before the battle with each demon
+I will explain the outline of each event.#MTLed
+> END STRING
+
+> BEGIN STRING
+もともとがそこまで長くはないシナリオですから
+
+物語のおおすじの流れはこれで把握できると思いますよ。
+> CONTEXT: Map018/events/1/pages/0/44/Dialogue/other1
+Because originally it is a script that is not so
+long. I think that the flow of the story of the
+story can be grasped by this.#MTLed
+> END STRING
+
+> BEGIN STRING
+読み終わるか、一区切りついたら
+
+この部屋も見て回ってみるといい
+> CONTEXT: Map018/events/1/pages/0/48/Dialogue/クッション君
+If you finish reading or have a break
+You should look around this room#MTLed
+> END STRING
+
+> BEGIN STRING
+最初はセーブポイントくらいで何もないところだが
+
+本を読んでいくことで、使える場所が増えていくだろう。
+> CONTEXT: Map018/events/1/pages/0/52/Dialogue/クッション君
+At first there is nothing like save points but
+nothing. Reading books will increase the number
+of places you can use.#MTLed
+> END STRING
+
+> BEGIN STRING
+こちらではコンテニュー時の『救済措置』を承っております。
+
+【救済可能数】：\\V[102]
+> CONTEXT: Map018/events/2/pages/0/0/Dialogue/other1
+Here we are accepting "Assistance" at the time of
+the continuation. 【Number of assistants】: \\V[102]#MTLed
+> END STRING
+
+> BEGIN STRING
+ただし、お気を付け下さいませ…。
+
+本編中では、\\C[2]救済を受けた回数もエンディングに影響します。
+> CONTEXT: Map018/events/2/pages/0/22/Dialogue/other1
+However, please be careful. In the main story,\\C[2]
+The number of remedies also affects the ending.#MTLed
+> END STRING
+
+> BEGIN STRING
+今回は体験版なので、特にデメリットはありませんが…。
+
+製品版で遊ぶ際は、あまりアテになさりすぎないように…
+> CONTEXT: Map018/events/2/pages/0/26/Dialogue/other1
+As this is a trial version, there is no
+limitation. When playing the full version, don't
+overdo it too much ...#MTLed
+> END STRING
+
+> BEGIN STRING
+心蝕を消したい【消費２】en(v[102] \>= 2) 
+> CONTEXT: Map018/events/2/pages/0/81/Choice/1
+Remove mind corruption [Cost: 2] en(v[102] \>= 2) #Dargoth
+> END STRING
+
+> BEGIN STRING
+チュートリアル
+> CONTEXT: Map018/events/4/pages/0/0/Choice/0
+Tutorial#Dargoth
+> END STRING
+
+> BEGIN STRING
+バーゲストen(s[53])
+> CONTEXT: Map018/events/4/pages/0/0/Choice/1
+barghesten(s[53])#MTLed
+> END STRING
+
+> BEGIN STRING
+ランパスen(s[54])
+> CONTEXT: Map018/events/4/pages/0/0/Choice/2
+Lampasen(s[54])#MTLed
+> END STRING
+
+> BEGIN STRING
+アイアンメイデンen(s[55])
+> CONTEXT: Map018/events/4/pages/0/0/Choice/3
+Iron Maidenen(s[55])#MTLed
+> END STRING
+
+> BEGIN STRING
+チュートリアルを開始しますか？
+> CONTEXT: Map018/events/4/pages/0/4/Dialogue/other1
+Do you want to start tutorial?#MTLed
+> END STRING
+
+> BEGIN STRING
+開始
+> CONTEXT: Map018/events/4/pages/0/6/Choice/0
+> CONTEXT: Map018/events/4/pages/0/53/Choice/0
+> CONTEXT: Map018/events/4/pages/0/70/Choice/0
+> CONTEXT: Map018/events/4/pages/0/90/Choice/0
+Start#Dargoth
+> END STRING
+
+> BEGIN STRING
+おっ、無事にチュートリアルを終えてきたようだな。
+> CONTEXT: Map018/events/4/pages/0/15/Dialogue/クッション君
+Oh, it seems that you have finished the tutorial
+safely.#MTLed
+> END STRING
+
+> BEGIN STRING
+それじゃあ、次ページからは『悪魔との戦闘』になるわけだ。
+
+ホレ、これやるよ。
+> CONTEXT: Map018/events/4/pages/0/17/Dialogue/クッション君
+Then, from the next page it will be "battling
+with demons". Hole, I'll do this.#MTLed
+> END STRING
+
+> BEGIN STRING
+ \\C[2]敗北が確定した際に、この免罪符を装備していたら
+
+ お前の魂をここに呼び戻してやる。
+つまり『コンテニュー』だな。
+> CONTEXT: Map018/events/4/pages/0/23/Dialogue/クッション君
+\\C[2] If you are equipped with this insult when defeat
+is finalized. I will bring your soul back here.
+In other words, it is "continent".#MTLed
+> END STRING
+
+> BEGIN STRING
+ヤられるたびに、ながーい搾精シーンや
+
+タイトル画面を経由しなくてもいいってわけさ。
+> CONTEXT: Map018/events/4/pages/0/28/Dialogue/クッション君
+Every time she is eaten, long milking scene and
+You don't have to go through the title screen.#MTLed
+> END STRING
+
+> BEGIN STRING
+もっとも、\\C[2]お前が相手のエサになりたかったら
+
+それは無用の産物になるけどな。
+> CONTEXT: Map018/events/4/pages/0/32/Dialogue/クッション君
+Though\\C[2] If you want to be your partner's food
+It will be a useless product.#MTLed
+> END STRING
+
+> BEGIN STRING
+魔獣『バーゲスト』との初遭遇イベントですね。
+
+こちらを体験なされますか？
+> CONTEXT: Map018/events/4/pages/0/49/Dialogue/other1
+It is the first encounter event with the beast
+"barghest". Would you like to experience this?#MTLed
+> END STRING
+
+> BEGIN STRING
+妖魔『ランパス』との初遭遇イベントですね。
+
+こちらを体験なされますか？
+> CONTEXT: Map018/events/4/pages/0/66/Dialogue/other1
+It is the first encounter event with monster
+"Lampas". Would you like to experience this?#MTLed
+> END STRING
+
+> BEGIN STRING
+妖魔『アイアンメイデン』との初遭遇イベントですね。
+> CONTEXT: Map018/events/4/pages/0/82/Dialogue/other1
+monster It is the first encounter event with
+"Iron Maiden".#MTLed
+> END STRING
+
+> BEGIN STRING
+………こちらの悪魔は、\\C[2]チャプター１の中ボスとなります。
+
+相当の準備をして御挑戦下さい。
+> CONTEXT: Map018/events/4/pages/0/84/Dialogue/other1
+......... This demon is\\C[2] It will be the middle
+boss of Chapter 1. Please prepare enough and
+challenge.#MTLed
+> END STRING
+
+> BEGIN STRING
+こちらを体験なされますか？
+> CONTEXT: Map018/events/4/pages/0/88/Dialogue/other1
+Would you like to experience this?#MTLed
+> END STRING
+
+> BEGIN STRING
+ここ、緑色のエリアがあるでしょ？
+
+ 歩き回ると、私やバーゲストとエンカウントできるよ
+> CONTEXT: Map018/events/7/pages/1/1/Dialogue/enemy
+There is a green area here, right?
+When I walk around, I can count with me and the
+barghest#MTLed
+> END STRING
+
+> BEGIN STRING
+ ここでなら、わざわざイベントを見る必要もないし
+
+ すぐに休憩所にも行けるよ。
+> CONTEXT: Map018/events/7/pages/1/5/Dialogue/enemy
+You don't need to see the expressly event here
+I can go to the rest area soon.#MTLed
+> END STRING
+
+> BEGIN STRING
+ただし、心蝕やアクシデント戦闘も起きるから
+
+気を付けて戦ってね
+> CONTEXT: Map018/events/7/pages/1/9/Dialogue/enemy
+However, mind corruption and accident battle also
+occur. Take care and fight#MTLed
+> END STRING
+
+> BEGIN STRING
+私たちに搾精されたくないって気分の時は
+
+ ちゃんと免罪符を装備しておくんだよ？
+> CONTEXT: Map018/events/7/pages/1/13/Dialogue/enemy
+When you feel like you don't want us to be
+milking. You're properly equipped with innocence?#MTLed
+> END STRING
+
+> BEGIN STRING
+ 何か聞きたいことはある？
+> CONTEXT: Map018/events/7/pages/1/18/Dialogue/enemy
+What do you want to ask?#MTLed
+> END STRING

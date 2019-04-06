@@ -364,6 +364,13 @@ Bronze Box [Iron Maiden]#Dargoth
 Bronze Box [Empuse]#Dargoth
 > END STRING
 
+> BEGIN STRING
+ナイトエッジ
+> CONTEXT: Skills/710/name/
+> CONTEXT: Armors/20/name/
+Night Edge#Dargoth
+> END STRING
+
 > SHORTENED: Classes.txt
 
 > BEGIN STRING
@@ -387,169 +394,7 @@ Human (Half-Maiden)#Dargoth
 Dog#Dargoth
 > END STRING
 
-> SHORTENED: Commonevents.txt
-
-> BEGIN STRING
-\\N[1]は興奮するあまり、服を脱ぎ始めた！！
-> CONTEXT: Commonevents/1/163/Dialogue
-\\N[1] is so aroused he takes off his own clothes!#Dargoth
-> END STRING
-
-> BEGIN STRING
-\\N[1]は逆に神経が敏感になってしまい性欲が増してしまった！！
-> CONTEXT: Commonevents/7/4/Dialogue
-> CONTEXT: Commonevents/7/14/Dialogue
-\\N[1] is so sensitive that his lust goes up instead!#Dargoth
-> END STRING
-
-> BEGIN STRING
-\\N[1]は疲労して上手く息が整えられない…
-> CONTEXT: Commonevents/7/22/Dialogue
-\\N[1] is too fatigued to control his breath well...#Dargoth
-> END STRING
-
-> BEGIN STRING
-\\N[1]は抵抗する意志が弱まっている…
-> CONTEXT: Commonevents/7/28/Dialogue
-\\N[1]'s will to resist is weakening...#Dargoth
-> END STRING
-
-> BEGIN STRING
-\\N[1]は出血の痛みで集中できない…
-> CONTEXT: Commonevents/7/34/Dialogue
-\\N[1] can't concentrate from the bleeding pain...#Dargoth
-> END STRING
-
-> BEGIN STRING
-\\N[1]は恍惚に浸っていて上手く集中できない…
-> CONTEXT: Commonevents/7/40/Dialogue
-\\N[1] is drowning in ecstasy and can't concentrate...#Dargoth
-> END STRING
-
-> BEGIN STRING
-\\N[1]は魅了されていて上手く集中できない…
-> CONTEXT: Commonevents/7/46/Dialogue
-\\N[1] is charmed and can't concentrate...#Dargoth
-> END STRING
-
-> BEGIN STRING
-深呼吸で性欲が\\V[5]下がった！
-> CONTEXT: Commonevents/7/57/Dialogue
-Deep breathing reduced \\N[1]'s lust by \\V[5]!#Dargoth
-> END STRING
-
-> BEGIN STRING
-続ける
-> CONTEXT: Commonevents/15/111/Choice/0
-> CONTEXT: Commonevents/15/217/Choice/0
-> CONTEXT: Commonevents/56/79/Choice/0
-> CONTEXT: Commonevents/56/213/Choice/0
-> CONTEXT: Commonevents/81/104/Choice/0
-> CONTEXT: Commonevents/81/221/Choice/0
-> CONTEXT: Commonevents/81/339/Choice/0
-> CONTEXT: Commonevents/114/145/Choice/0
-> CONTEXT: Commonevents/114/270/Choice/0
-> CONTEXT: Commonevents/203/87/Choice/0
-> CONTEXT: Commonevents/203/219/Choice/0
-> CONTEXT: Commonevents/212/92/Choice/0
-> CONTEXT: Commonevents/212/221/Choice/0
-> CONTEXT: Commonevents/212/348/Choice/0
-> CONTEXT: Commonevents/233/73/Choice/0
-> CONTEXT: Commonevents/233/182/Choice/0
-> CONTEXT: Commonevents/233/274/Choice/0
-> CONTEXT: Commonevents/233/370/Choice/0
-> CONTEXT: Commonevents/233/460/Choice/0
-> CONTEXT: Commonevents/250/66/Choice/0
-> CONTEXT: Commonevents/250/461/Choice/0
-> CONTEXT: Commonevents/289/85/Choice/0
-> CONTEXT: Commonevents/289/217/Choice/0
-> CONTEXT: Commonevents/313/77/Choice/0
-> CONTEXT: Commonevents/313/197/Choice/0
-> CONTEXT: Commonevents/313/317/Choice/0
-> CONTEXT: Commonevents/313/449/Choice/0
-> CONTEXT: Commonevents/354/74/Choice/0
-> CONTEXT: Commonevents/354/205/Choice/0
-> CONTEXT: Commonevents/369/74/Choice/0
-> CONTEXT: Commonevents/410/78/Choice/0
-> CONTEXT: Commonevents/410/204/Choice/0
-> CONTEXT: Commonevents/454/78/Choice/0
-> CONTEXT: Commonevents/454/196/Choice/0
-> CONTEXT: Commonevents/471/86/Choice/0
-> CONTEXT: Commonevents/471/197/Choice/0
-> CONTEXT: Commonevents/471/323/Choice/0
-> CONTEXT: Commonevents/471/442/Choice/0
-> CONTEXT: Commonevents/471/607/Choice/0
-> CONTEXT: Commonevents/471/731/Choice/0
-> CONTEXT: Commonevents/559/64/Choice/0
-> CONTEXT: Commonevents/559/175/Choice/0
-Continue#Dargoth
-> END STRING
-
-> BEGIN STRING
-\\N[1]は相手に徐々に心を奪われていく……。
-> CONTEXT: Commonevents/53/8/Dialogue
-> CONTEXT: Commonevents/53/26/Dialogue
-> CONTEXT: Commonevents/53/44/Dialogue
-> CONTEXT: Commonevents/53/62/Dialogue
-> CONTEXT: Commonevents/53/80/Dialogue
-> CONTEXT: Commonevents/199/18/Dialogue
-\\N[1] is gradually becoming captivated by his opponent...#Dargoth
-> END STRING
-
-> BEGIN STRING
-揉む
-> CONTEXT: Commonevents/85/34/Choice/0
-Massage#Dargoth
-> END STRING
-
-> BEGIN STRING
-揉まない
-> CONTEXT: Commonevents/85/34/Choice/1
-Refuse#Dargoth
-> END STRING
-
-> BEGIN STRING
-"リロード完了！！"
-> CONTEXT: Commonevents/170/2/InlineScript/1:13
-> CONTEXT: Commonevents/171/4/InlineScript/1:13
-> CONTEXT: Commonevents/171/24/InlineScript/1:13
-> CONTEXT: Commonevents/171/42/InlineScript/1:13
-> CONTEXT: Commonevents/176/3/InlineScript/1:13
-> CONTEXT: Commonevents/177/4/InlineScript/1:13
-> CONTEXT: Commonevents/177/24/InlineScript/1:13
-> CONTEXT: Commonevents/177/44/InlineScript/1:13
-> CONTEXT: Commonevents/178/3/InlineScript/1:13
-> CONTEXT: Commonevents/179/2/InlineScript/1:13
-> CONTEXT: Commonevents/194/3/InlineScript/1:13
-> CONTEXT: Commonevents/219/4/InlineScript/1:13
-> CONTEXT: Commonevents/219/24/InlineScript/1:13
-> CONTEXT: Commonevents/220/4/InlineScript/1:13
-> CONTEXT: Commonevents/220/22/InlineScript/1:13
-> CONTEXT: Commonevents/374/4/InlineScript/1:13
-> CONTEXT: Commonevents/374/24/InlineScript/1:13
-> CONTEXT: Commonevents/441/2/InlineScript/1:13
-"Reload complete!"#Dargoth
-> END STRING
-
 > SHORTENED: Enemies.txt
-
-> BEGIN STRING
-バーゲスト
-> CONTEXT: Enemies/1/name/
-> CONTEXT: Enemies/2/name/
-> CONTEXT: Enemies/3/name/
-> CONTEXT: Enemies/4/name/
-> CONTEXT: Enemies/5/name/
-> CONTEXT: Enemies/6/name/
-> CONTEXT: Enemies/7/name/
-> CONTEXT: Enemies/8/name/
-> CONTEXT: Enemies/9/name/
-> CONTEXT: Enemies/10/name/
-> CONTEXT: Enemies/11/name/
-> CONTEXT: Enemies/13/name/
-> CONTEXT: Enemies/231/name/
-Barghest#Dargoth
-> END STRING
 
 > BEGIN STRING
 ユウマ
@@ -730,13 +575,51 @@ Hecate#Dargoth
 ■■■Chapter 4#Dargoth
 > END STRING
 
-> SHORTENED: GameINI.txt
+> BEGIN STRING
+アイアンメイデン
+> CONTEXT: Troops/10/name/
+> CONTEXT: Troops/11/name/
+> CONTEXT: Troops/12/name/
+> CONTEXT: Enemies/15/name/
+> CONTEXT: Enemies/16/name/
+> CONTEXT: Enemies/17/name/
+> CONTEXT: Enemies/18/name/
+> CONTEXT: Enemies/19/name/
+> CONTEXT: Enemies/20/name/
+> CONTEXT: Enemies/225/name/
+Iron Maiden#Dargoth
+> END STRING
 
 > BEGIN STRING
-SHRIFT
-> CONTEXT: GameINI/Title
-> CONTEXT: System/game_title/
-SHRIFT#Dargoth
+ランパス
+> CONTEXT: Troops/20/name/
+> CONTEXT: Enemies/28/name/
+> CONTEXT: Enemies/30/name/
+> CONTEXT: Enemies/31/name/
+> CONTEXT: Enemies/32/name/
+> CONTEXT: Enemies/33/name/
+> CONTEXT: Enemies/34/name/
+> CONTEXT: Enemies/35/name/
+> CONTEXT: Enemies/36/name/
+> CONTEXT: Enemies/37/name/
+> CONTEXT: Enemies/39/name/
+> CONTEXT: Enemies/40/name/
+> CONTEXT: Enemies/42/name/
+Lampas#Dargoth
+> END STRING
+
+> BEGIN STRING
+エンプーサ
+> CONTEXT: Troops/45/name/
+> CONTEXT: Troops/52/name/
+> CONTEXT: Enemies/45/name/
+> CONTEXT: Enemies/47/name/
+> CONTEXT: Enemies/48/name/
+> CONTEXT: Enemies/49/name/
+> CONTEXT: Enemies/50/name/
+> CONTEXT: Enemies/52/name/
+> CONTEXT: Enemies/232/name/
+Empuse#Dargoth
 > END STRING
 
 > SHORTENED: Items.txt
@@ -1088,6 +971,30 @@ Empuse Arm#Dargoth
 A giant insect arm ripped off Empuse.#DargothPR
 > END STRING
 
+> BEGIN STRING
+スタングレネード
+> CONTEXT: Skills/589/name/
+Stun Grenade#afrg
+> CONTEXT: Items/14/name/
+Stun Grenade#Dargoth
+> END STRING
+
+> BEGIN STRING
+モルヒネ
+> CONTEXT: States/37/name/
+> CONTEXT: Items/6/name/
+> CONTEXT: Items/505/name/
+Morphine#Dargoth
+> END STRING
+
+> BEGIN STRING
+ハーブ
+> CONTEXT: States/56/name/
+> CONTEXT: Items/2/name/
+> CONTEXT: Items/501/name/
+Herb#Dargoth
+> END STRING
+
 > SHORTENED: Map002.txt
 
 > BEGIN STRING
@@ -1375,24 +1282,6 @@ Barghest if(s[22])#Dargoth
 > END STRING
 
 > BEGIN STRING
-\\l[0]
-> CONTEXT: Map002/events/1/pages/1/19/Dialogue
-\\l[0]#DargothPR
-> END STRING
-
-> BEGIN STRING
-\\l[7].
-> CONTEXT: Map002/events/1/pages/1/27/Dialogue
-\\l[7].#Dargoth
-> END STRING
-
-> BEGIN STRING
-\\l[9]
-> CONTEXT: Map002/events/1/pages/1/35/Dialogue
-\\l[9]#Dargoth
-> END STRING
-
-> BEGIN STRING
 ■■チャプター１－２■■ en(s[23])
 > CONTEXT: Map002/events/1/pages/1/98/Choice/0
 > CONTEXT: Map002/events/1/pages/3/43/Choice/0
@@ -1443,414 +1332,12 @@ Title#Dargoth
 Empuse if(s[24])#Dargoth
 > END STRING
 
-> SHORTENED: Map003.txt
-
-> BEGIN STRING
-アドバイスが欲しい
-> CONTEXT: Map003/events/1/pages/2/4/Choice/0
-Ask for advice#Dargoth
-> END STRING
-
-> BEGIN STRING
-リベンジデータ
-> CONTEXT: Map003/events/1/pages/2/4/Choice/1
-Revenge data#Dargoth
-> END STRING
-
-> BEGIN STRING
-難易度を変更したい
-> CONTEXT: Map003/events/1/pages/2/4/Choice/2
-Change difficulty#Dargoth
-> END STRING
-
-> BEGIN STRING
-バーゲスト if(v[21] \>= 1)
-> CONTEXT: Map003/events/1/pages/2/12/Choice/0
-Barghest if(v[21] \>= 1)#Dargoth
-> END STRING
-
-> BEGIN STRING
-ランパス if(v[22] \>= 1)
-> CONTEXT: Map003/events/1/pages/2/12/Choice/1
-Lampas if(v[22] \>= 1)#Dargoth
-> END STRING
-
-> BEGIN STRING
-アイアンメイデン if(v[23] \>= 1)
-> CONTEXT: Map003/events/1/pages/2/12/Choice/2
-Iron Maiden if(v[23] \>= 1)#Dargoth
-> END STRING
-
-> BEGIN STRING
-エンプーサ if(v[24] \>= 1)
-> CONTEXT: Map003/events/1/pages/2/12/Choice/3
-Empuse if(v[24] \>= 1)#Dargoth
-> END STRING
-
 > BEGIN STRING
 戻る
 > CONTEXT: Map003/events/1/pages/2/573/Choice/0
 > CONTEXT: Map002/events/1/pages/0/1646/Choice/0
 Return#Dargoth
 > END STRING
-
-> BEGIN STRING
-リベンジしない
-> CONTEXT: Map003/events/1/pages/2/584/Choice/0
-Don't get revenge#Dargoth
-> END STRING
-
-> BEGIN STRING
-データを削除する
-> CONTEXT: Map003/events/1/pages/2/584/Choice/2
-Erase data#Dargoth
-> END STRING
-
-> BEGIN STRING
-心蝕を消す【消費？】
-> CONTEXT: Map003/events/2/pages/2/91/Choice/1
-> CONTEXT: Map003/events/2/pages/5/91/Choice/1
-Remove mind corruption [Cost: ?]#Dargoth
-> END STRING
-
-> BEGIN STRING
-アイアンメイデンif(v[23] \>= 1)
-> CONTEXT: Map003/events/2/pages/2/139/Choice/2
-> CONTEXT: Map003/events/2/pages/5/139/Choice/2
-Iron Maiden if(v[23] \>= 1)#Dargoth
-> END STRING
-
-> BEGIN STRING
-エンプーサif(v[24] \>= 1)
-> CONTEXT: Map003/events/2/pages/2/139/Choice/3
-> CONTEXT: Map003/events/2/pages/5/139/Choice/3
-Empuse if(v[24] \>= 1)#Dargoth
-> END STRING
-
-> SHORTENED: Map012.txt
-
-> BEGIN STRING
-電源を入れる
-> CONTEXT: Map012/events/5/pages/3/2/Choice/1
-Switch on the power#Dargoth
-> END STRING
-
-> SHORTENED: Map013.txt
-
-> BEGIN STRING
-死体をどかす
-> CONTEXT: Map013/events/1/pages/0/16/Choice/0
-Move the corpse#Dargoth
-> END STRING
-
-> BEGIN STRING
-今はやめておく
-> CONTEXT: Map013/events/1/pages/0/16/Choice/1
-Leave it alone#Dargoth
-> END STRING
-
-> BEGIN STRING
-飛び降りる
-> CONTEXT: Map013/events/5/pages/1/4/Choice/1
-> CONTEXT: Map013/events/5/pages/2/4/Choice/1
-Jump down#Dargoth
-> END STRING
-
-> SHORTENED: Map018.txt
-
-> BEGIN STRING
-『救済措置って？』
-> CONTEXT: Map018/events/2/pages/0/4/Choice/0
-> CONTEXT: Map003/events/2/pages/2/14/Choice/0
-> CONTEXT: Map003/events/2/pages/5/14/Choice/0
-[Choose Assistance]#Dargoth
-> END STRING
-
-> BEGIN STRING
-お金が欲しい【消費１】en(v[102] \>= 1)
-> CONTEXT: Map018/events/2/pages/0/4/Choice/1
-> CONTEXT: Map003/events/2/pages/2/14/Choice/1
-> CONTEXT: Map003/events/2/pages/5/14/Choice/1
-Money [Cost: 1] en(v[102] \>= 1)#Dargoth
-> END STRING
-
-> BEGIN STRING
-ＳＰが欲しい【消費２】en(v[102] \>= 2)
-> CONTEXT: Map018/events/2/pages/0/4/Choice/2
-> CONTEXT: Map003/events/2/pages/2/14/Choice/2
-> CONTEXT: Map003/events/2/pages/5/14/Choice/2
-Skill Points [Cost: 2] en(v[102] \>= 2)#Dargoth
-> END STRING
-
-> BEGIN STRING
-弾薬が欲しい【消費１】en(v[102] \>= 1)
-> CONTEXT: Map018/events/2/pages/0/4/Choice/3
-> CONTEXT: Map003/events/2/pages/2/14/Choice/3
-> CONTEXT: Map003/events/2/pages/5/14/Choice/3
-Ammo [Cost: 1] en(v[102] \>= 1)#Dargoth
-> END STRING
-
-> BEGIN STRING
-回復アイテムが欲しい【消費１】en(v[102] \>= 1)
-> CONTEXT: Map018/events/2/pages/0/81/Choice/0
-> CONTEXT: Map003/events/2/pages/2/91/Choice/0
-> CONTEXT: Map003/events/2/pages/5/91/Choice/0
-Recovery Items [Cost: 1] en(v[102] \>= 1)#Dargoth
-> END STRING
-
-> BEGIN STRING
-心蝕を消したい【消費２】en(v[102] \>= 2)
-> CONTEXT: Map018/events/2/pages/0/81/Choice/1
-Remove mind corruption [Cost: 2] en(v[102] \>= 2)#Dargoth
-> END STRING
-
-> BEGIN STRING
-なんでもない
-> CONTEXT: Map018/events/2/pages/0/81/Choice/2
-> CONTEXT: Map018/events/2/pages/0/115/Choice/2
-> CONTEXT: Map014/events/92/pages/1/192/Choice/1
-> CONTEXT: Map003/events/2/pages/2/91/Choice/2
-> CONTEXT: Map003/events/2/pages/2/355/Choice/0
-> CONTEXT: Map003/events/2/pages/5/91/Choice/2
-> CONTEXT: Map003/events/2/pages/5/393/Choice/0
-Nothing#Dargoth
-> END STRING
-
-> BEGIN STRING
-チュートリアル
-> CONTEXT: Map018/events/4/pages/0/0/Choice/0
-Tutorial#Dargoth
-> END STRING
-
-> BEGIN STRING
-開始
-> CONTEXT: Map018/events/4/pages/0/6/Choice/0
-> CONTEXT: Map018/events/4/pages/0/53/Choice/0
-> CONTEXT: Map018/events/4/pages/0/70/Choice/0
-> CONTEXT: Map018/events/4/pages/0/90/Choice/0
-Start#Dargoth
-> END STRING
-
-> SHORTENED: Map019.txt
-
-> BEGIN STRING
-雑談する en(v[41] \>= 25)
-> CONTEXT: Map019/events/5/pages/0/29/Choice/0
-Chat en(v[41] \>= 25)#DargothPR
-> END STRING
-
-> BEGIN STRING
-搾精（誘惑）en(v[41] \>= 25)
-> CONTEXT: Map019/events/5/pages/0/29/Choice/1
-Milking (Temptation) en(v[41] \>= 25)#Dargoth
-> END STRING
-
-> BEGIN STRING
-搾精（騎乗位）en(v[41] \>= 50)
-> CONTEXT: Map019/events/5/pages/0/29/Choice/2
-Milking (Cowgirl) en(v[41] \>= 50)#Dargoth
-> END STRING
-
-> BEGIN STRING
-心蝕を消すif(v[41] \>= 100)
-> CONTEXT: Map019/events/5/pages/0/188/Choice/0
-Remove mind corruption if(v[41] \>= 100)#Dargoth
-> END STRING
-
-> BEGIN STRING
-足のケガen(v[41] \>= 30)
-> CONTEXT: Map019/events/5/pages/1/5/Choice/0
-Foot Injury en(v[41] \>= 30)#Dargoth
-> END STRING
-
-> BEGIN STRING
-【キズナイベント】if(v[41] \>= 99)
-> CONTEXT: Map019/events/5/pages/1/327/Choice/0
-Bonding Event if(v[41] \>= 99)#Dargoth
-> END STRING
-
-> SHORTENED: Map020.txt
-
-> BEGIN STRING
-包帯で治療するen(v[5] \>= 1)
-> CONTEXT: Map020/events/10/pages/2/19/Choice/0
-> CONTEXT: Map005/events/10/pages/2/19/Choice/0
-Treat her with a bandage en(v[5] \>= 1)#Dargoth
-> END STRING
-
-> BEGIN STRING
-放置する
-> CONTEXT: Map020/events/10/pages/2/19/Choice/1
-> CONTEXT: Map005/events/10/pages/2/19/Choice/1
-Leave her be#Dargoth
-> END STRING
-
-> SHORTENED: Map022.txt
-
-> BEGIN STRING
-買い物がしたい
-> CONTEXT: Map022/events/1/pages/0/84/Choice/1
-Show me your goods#Dargoth
-> END STRING
-
-> SHORTENED: Map027.txt
-
-> BEGIN STRING
-搾精（足コキ）en(v[43] \>= 25)
-> CONTEXT: Map027/events/5/pages/0/55/Choice/1
-Milking (Footjob) en(v[43] \>= 25)#Dargoth
-> END STRING
-
-> BEGIN STRING
-搾精（騎乗位）en(v[43] \>= 50)
-> CONTEXT: Map027/events/5/pages/0/55/Choice/2
-Milking (Cowgirl) en(v[43] \>= 50)#Dargoth
-> END STRING
-
-> BEGIN STRING
-搾精（抱きしめ）en(v[43] \>=75)
-> CONTEXT: Map027/events/5/pages/0/55/Choice/3
-Milking (Embrace) en(v[43] \>=75)#Dargoth
-> END STRING
-
-> BEGIN STRING
-心蝕を消すif(v[43] \>= 100)
-> CONTEXT: Map027/events/5/pages/0/268/Choice/0
-Remove mind corruption if(v[43] \>= 100)#Dargoth
-> END STRING
-
-> BEGIN STRING
-【キズナイベント】if(v[43] \>= 99)
-> CONTEXT: Map027/events/5/pages/1/276/Choice/0
-Bonding Event if(v[43] \>= 99)#Dargoth
-> END STRING
-
-> SHORTENED: Map028.txt
-
-> BEGIN STRING
-『基本チュートリアル』を開始しますか？
-> CONTEXT: Map028/events/2/pages/0/60/Dialogue
-Begin the Basics Tutorial?#Dargoth
-> END STRING
-
-> BEGIN STRING
-受ける
-> CONTEXT: Map028/events/2/pages/0/62/Choice/0
-Begin Tutorial#Dargoth
-> END STRING
-
-> BEGIN STRING
-スキップする
-> CONTEXT: Map028/events/2/pages/0/62/Choice/1
-Skip Tutorial#Dargoth
-> END STRING
-
-> BEGIN STRING
-……それでは、そろそろ時間となります。
-
-しばしのお別れですが、またいずれ会うことになるでしょう。
-> CONTEXT: Map028/events/2/pages/0/77/Dialogue
-...I see, it's time then.
-
-For now, I'll take my leave.#DargothPR
-> END STRING
-
-> SHORTENED: Map030.txt
-
-> BEGIN STRING
-プロローグ
-> CONTEXT: Map030/events/1/pages/0/16/Choice/0
-Prologue#Dargoth
-> END STRING
-
-> SHORTENED: Map041.txt
-
-> BEGIN STRING
-雑談する en(v[42] \>= 25)
-> CONTEXT: Map041/events/5/pages/0/31/Choice/0
-Chat en(v[42] \>= 25)#Dargoth
-> END STRING
-
-> BEGIN STRING
-搾精（前から）en(v[42] \>= 25)
-> CONTEXT: Map041/events/5/pages/0/31/Choice/1
-Milking (Frontal) en(v[42] \>= 25)#Dargoth
-> END STRING
-
-> BEGIN STRING
-搾精（後ろから）en(v[42] \>= 60)
-> CONTEXT: Map041/events/5/pages/0/31/Choice/2
-Milking (Rear) en(v[42] \>= 60)#Dargoth
-> END STRING
-
-> BEGIN STRING
-心蝕を消すif(v[42] \>= 100)
-> CONTEXT: Map041/events/5/pages/0/216/Choice/0
-Remove mind corruption if(v[42] \>= 100)#Dargoth
-> END STRING
-
-> BEGIN STRING
-【キズナイベント】if(v[42] \>= 99)
-> CONTEXT: Map041/events/5/pages/1/545/Choice/0
-Bonding Event if(v[42] \>= 99)#Dargoth
-> END STRING
-
-> SHORTENED: Map042.txt
-
-> BEGIN STRING
-雑談する
-> CONTEXT: Map042/events/5/pages/0/48/Choice/0
-> CONTEXT: Map027/events/5/pages/0/55/Choice/0
-Chat#Dargoth
-> END STRING
-
-> BEGIN STRING
-搾精（フェラ）en(v[44] \>= 25)
-> CONTEXT: Map042/events/5/pages/0/48/Choice/1
-Milking (Fellatio) en(v[44] \>= 25)#Dargoth
-> END STRING
-
-> BEGIN STRING
-搾精（抱き）en(v[44] \>= 60)
-> CONTEXT: Map042/events/5/pages/0/48/Choice/2
-Milking (Hug) en(v[44] \>= 60)#Dargoth
-> END STRING
-
-> BEGIN STRING
-搾精（昇天フェラ）en(v[44] \>= 80)
-> CONTEXT: Map042/events/5/pages/0/48/Choice/3
-Milking (Supreme Fellatio) en(v[44] \>= 80)#Dargoth
-> END STRING
-
-> BEGIN STRING
-プレゼントを渡す
-> CONTEXT: Map042/events/5/pages/0/159/Choice/0
-> CONTEXT: Map027/events/5/pages/0/164/Choice/0
-Give a present#Dargoth
-> END STRING
-
-> BEGIN STRING
-心蝕を消すif(v[44] \>= 100)
-> CONTEXT: Map042/events/5/pages/0/252/Choice/0
-Remove mind corruption if(v[44] \>= 100)#Dargoth
-> END STRING
-
-> BEGIN STRING
-【キズナイベント】if(v[44] \>= 99)
-> CONTEXT: Map042/events/5/pages/1/332/Choice/0
-Bonding Event if(v[44] \>= 99)#Dargoth
-> END STRING
-
-> SHORTENED: Map083.txt
-
-> BEGIN STRING
-冥府の間に行く
-> CONTEXT: Map083/events/1/pages/0/17/Choice/1
-> CONTEXT: Map039/events/1/pages/0/15/Choice/1
-Travel to Hell#Dargoth
-> END STRING
-
-> SHORTENED: Map094.txt
 
 > BEGIN STRING
 易しい
@@ -1874,17 +1361,6 @@ Normal#Dargoth
 > CONTEXT: Map002/events/1/pages/0/78/Choice/2
 > CONTEXT: Map003/events/1/pages/2/615/Choice/2
 Hard#Dargoth
-> END STRING
-
-> BEGIN STRING
-難易度：\\C[3]易しい
-\\C[0]アイテムの量が倍になり、被ダメージが半減します。
-とりあえず苦労せずにクリアしたい方向けの難易度です。
-> CONTEXT: Map094/events/13/pages/0/81/Dialogue
-> CONTEXT: Map003/events/1/pages/2/617/Dialogue
-Difficulty：\\C[3] Easy
-\\C[0]Find double items; receive only half damage.
-For people who are only masochists sexually.#Dargoth
 > END STRING
 
 > BEGIN STRING
@@ -1930,26 +1406,75 @@ raised by \\C[2]1.5x\\C[0]. It's not impossible, so they say.
 Strongly not recommended for your first play.#Dargoth
 > END STRING
 
-> SHORTENED: Map142.txt
+> SHORTENED: Map003.txt
 
 > BEGIN STRING
-チャプター選択へ
-> CONTEXT: Map142/events/1/pages/0/17/Choice/2
-> CONTEXT: Map083/events/1/pages/0/17/Choice/2
-> CONTEXT: Map039/events/1/pages/0/15/Choice/2
-To chapter select#Dargoth
+アドバイスが欲しい
+> CONTEXT: Map003/events/1/pages/2/4/Choice/0
+Ask for advice#Dargoth
 > END STRING
 
 > BEGIN STRING
-タイトルに戻る
-> CONTEXT: Map142/events/1/pages/0/17/Choice/3
-> CONTEXT: Map083/events/1/pages/0/17/Choice/3
-> CONTEXT: Map039/events/1/pages/0/15/Choice/3
-> CONTEXT: Map030/events/1/pages/0/308/Choice/0
-Return to title#Dargoth
+リベンジデータ
+> CONTEXT: Map003/events/1/pages/2/4/Choice/1
+Revenge data#Dargoth
 > END STRING
 
-> SHORTENED: Map195.txt
+> BEGIN STRING
+難易度を変更したい
+> CONTEXT: Map003/events/1/pages/2/4/Choice/2
+Change difficulty#Dargoth
+> END STRING
+
+> BEGIN STRING
+リベンジしない
+> CONTEXT: Map003/events/1/pages/2/584/Choice/0
+Don't get revenge#Dargoth
+> END STRING
+
+> BEGIN STRING
+データを削除する
+> CONTEXT: Map003/events/1/pages/2/584/Choice/2
+Erase data#Dargoth
+> END STRING
+
+> BEGIN STRING
+心蝕を消す【消費？】
+> CONTEXT: Map003/events/2/pages/2/91/Choice/1
+> CONTEXT: Map003/events/2/pages/5/91/Choice/1
+Remove mind corruption [Cost: ?]#Dargoth
+> END STRING
+
+> BEGIN STRING
+『救済措置って？』
+> CONTEXT: Map018/events/2/pages/0/4/Choice/0
+> CONTEXT: Map003/events/2/pages/2/14/Choice/0
+> CONTEXT: Map003/events/2/pages/5/14/Choice/0
+[Choose Assistance]#Dargoth
+> END STRING
+
+> BEGIN STRING
+なんでもない
+> CONTEXT: Map018/events/2/pages/0/81/Choice/2
+> CONTEXT: Map018/events/2/pages/0/115/Choice/2
+> CONTEXT: Map014/events/92/pages/1/192/Choice/1
+> CONTEXT: Map003/events/2/pages/2/91/Choice/2
+> CONTEXT: Map003/events/2/pages/2/355/Choice/0
+> CONTEXT: Map003/events/2/pages/5/91/Choice/2
+> CONTEXT: Map003/events/2/pages/5/393/Choice/0
+Nothing#Dargoth
+> END STRING
+
+> BEGIN STRING
+難易度：\\C[3]易しい
+\\C[0]アイテムの量が倍になり、被ダメージが半減します。
+とりあえず苦労せずにクリアしたい方向けの難易度です。
+> CONTEXT: Map094/events/13/pages/0/81/Dialogue
+> CONTEXT: Map003/events/1/pages/2/617/Dialogue
+Difficulty：\\C[3] Easy
+\\C[0]Find double items; receive only half damage.
+For people who are only masochists sexually.#Dargoth
+> END STRING
 
 > BEGIN STRING
 ばっちり聞いてた。
@@ -1990,255 +1515,82 @@ Leave#Dargoth
 　　　　　　　　 Is '\\N[1]' correct?#Dargoth
 > END STRING
 
-> SHORTENED: Map217.txt
-
 > BEGIN STRING
-プレゼントする
-> CONTEXT: Map217/events/5/pages/0/31/Choice/3
-> CONTEXT: Map215/events/5/pages/0/31/Choice/3
-> CONTEXT: Map216/events/5/pages/0/248/Choice/0
-> CONTEXT: Map122/events/5/pages/0/33/Choice/3
-> CONTEXT: Map121/events/5/pages/0/31/Choice/3
-> CONTEXT: Map120/events/5/pages/0/182/Choice/0
-> CONTEXT: Map119/events/5/pages/0/24/Choice/3
-> CONTEXT: Map085/events/5/pages/0/31/Choice/3
-> CONTEXT: Map080/events/5/pages/0/141/Choice/0
-> CONTEXT: Map070/events/5/pages/0/50/Choice/3
-> CONTEXT: Map062/events/5/pages/0/31/Choice/3
-> CONTEXT: Map070/events/9/pages/0/170/Choice/0
-> CONTEXT: Map041/events/5/pages/0/31/Choice/3
-> CONTEXT: Map019/events/5/pages/0/29/Choice/3
-Give a present#Dargoth
-> END STRING
-
-> SHORTENED: Map278.txt
-
-> BEGIN STRING
-中に入る
-> CONTEXT: Map278/events/12/pages/2/6/Choice/1
-> CONTEXT: Map278/events/13/pages/2/6/Choice/1
-> CONTEXT: Map173/events/3/pages/1/4/Choice/0
-> CONTEXT: Map165/events/10/pages/0/4/Choice/0
-> CONTEXT: Map165/events/12/pages/0/4/Choice/0
-> CONTEXT: Map161/events/2/pages/1/4/Choice/0
-> CONTEXT: Map161/events/2/pages/2/4/Choice/0
-> CONTEXT: Map161/events/3/pages/1/4/Choice/0
-> CONTEXT: Map161/events/3/pages/2/4/Choice/0
-> CONTEXT: Map007/events/12/pages/2/6/Choice/1
-> CONTEXT: Map007/events/13/pages/2/6/Choice/1
-Enter#Dargoth
-> END STRING
-
-> SHORTENED: Map279.txt
-
-> BEGIN STRING
-ランパスの火を消す
-> CONTEXT: Map279/events/3/pages/2/88/Choice/0
-> CONTEXT: Map033/events/3/pages/3/88/Choice/0
-Douse the flaming lampas#Dargoth
+バーゲスト if(v[21] \>= 1) 
+> CONTEXT: Map003/events/1/pages/2/12/Choice/0
+Barghest if(v[21] \>= 1) #Dargoth
 > END STRING
 
 > BEGIN STRING
-部屋から逃げ出す
-> CONTEXT: Map279/events/3/pages/2/88/Choice/1
-> CONTEXT: Map033/events/3/pages/3/88/Choice/1
-Run out of the room#Dargoth
-> END STRING
-
-> SHORTENED: Map280.txt
-
-> BEGIN STRING
-回復アイテム
-> CONTEXT: Map280/events/14/pages/0/7/Choice/0
-> CONTEXT: Map280/events/14/pages/1/7/Choice/0
-> CONTEXT: Map280/events/14/pages/2/6/Choice/0
-> CONTEXT: Map280/events/14/pages/3/6/Choice/0
-> CONTEXT: Map274/events/14/pages/0/0/Choice/0
-> CONTEXT: Map261/events/40/pages/1/7/Choice/0
-> CONTEXT: Map261/events/40/pages/2/6/Choice/0
-> CONTEXT: Map261/events/40/pages/3/7/Choice/0
-> CONTEXT: Map263/events/11/pages/2/12/Choice/0
-> CONTEXT: Map263/events/11/pages/3/7/Choice/0
-> CONTEXT: Map193/events/42/pages/0/0/Choice/0
-> CONTEXT: Map190/events/1/pages/0/0/Choice/0
-> CONTEXT: Map174/events/14/pages/0/0/Choice/0
-> CONTEXT: Map163/events/14/pages/0/0/Choice/0
-> CONTEXT: Map157/events/9/pages/0/0/Choice/0
-> CONTEXT: Map155/events/11/pages/0/0/Choice/0
-> CONTEXT: Map158/events/14/pages/0/0/Choice/0
-> CONTEXT: Map141/events/14/pages/0/0/Choice/0
-> CONTEXT: Map136/events/11/pages/0/0/Choice/0
-> CONTEXT: Map110/events/110/pages/1/11/Choice/0
-> CONTEXT: Map109/events/109/pages/1/11/Choice/0
-> CONTEXT: Map108/events/103/pages/1/11/Choice/0
-> CONTEXT: Map106/events/59/pages/1/11/Choice/0
-> CONTEXT: Map110/events/110/pages/2/11/Choice/0
-> CONTEXT: Map109/events/109/pages/2/11/Choice/0
-> CONTEXT: Map108/events/103/pages/2/11/Choice/0
-> CONTEXT: Map106/events/59/pages/2/11/Choice/0
-> CONTEXT: Map109/events/109/pages/3/6/Choice/0
-> CONTEXT: Map110/events/110/pages/3/6/Choice/0
-> CONTEXT: Map108/events/103/pages/3/6/Choice/0
-> CONTEXT: Map106/events/59/pages/3/6/Choice/0
-> CONTEXT: Map107/events/10/pages/1/11/Choice/0
-> CONTEXT: Map107/events/10/pages/2/11/Choice/0
-> CONTEXT: Map107/events/10/pages/3/6/Choice/0
-> CONTEXT: Map094/events/11/pages/0/10/Choice/0
-> CONTEXT: Map094/events/11/pages/1/7/Choice/0
-> CONTEXT: Map074/events/40/pages/0/7/Choice/0
-> CONTEXT: Map074/events/40/pages/1/6/Choice/0
-> CONTEXT: Map074/events/40/pages/2/7/Choice/0
-> CONTEXT: Map063/events/72/pages/1/7/Choice/0
-> CONTEXT: Map063/events/72/pages/2/6/Choice/0
-> CONTEXT: Map063/events/72/pages/3/7/Choice/0
-> CONTEXT: Map047/events/40/pages/1/7/Choice/0
-> CONTEXT: Map047/events/40/pages/2/6/Choice/0
-> CONTEXT: Map047/events/40/pages/3/7/Choice/0
-> CONTEXT: Map054/events/11/pages/2/12/Choice/0
-> CONTEXT: Map035/events/14/pages/0/7/Choice/0
-> CONTEXT: Map054/events/11/pages/3/7/Choice/0
-> CONTEXT: Map035/events/14/pages/1/7/Choice/0
-> CONTEXT: Map035/events/14/pages/2/6/Choice/0
-> CONTEXT: Map035/events/14/pages/3/6/Choice/0
-> CONTEXT: Map022/events/1/pages/0/105/Choice/0
-> CONTEXT: Map012/events/8/pages/1/5/Choice/0
-> CONTEXT: Map012/events/8/pages/2/6/Choice/0
-> CONTEXT: Map012/events/8/pages/3/5/Choice/0
-> CONTEXT: Map012/events/8/pages/5/6/Choice/0
-> CONTEXT: Map014/events/14/pages/0/5/Choice/0
-> CONTEXT: Map014/events/14/pages/1/5/Choice/0
-> CONTEXT: Map014/events/14/pages/2/6/Choice/0
-> CONTEXT: Map014/events/14/pages/3/6/Choice/0
-Recovery Items#Dargoth
+ランパス if(v[22] \>= 1) 
+> CONTEXT: Map003/events/1/pages/2/12/Choice/1
+Lampas if(v[22] \>= 1) #Dargoth
 > END STRING
 
 > BEGIN STRING
-武器・弾薬
-> CONTEXT: Map280/events/14/pages/0/7/Choice/1
-> CONTEXT: Map280/events/14/pages/1/7/Choice/1
-> CONTEXT: Map280/events/14/pages/2/6/Choice/1
-> CONTEXT: Map280/events/14/pages/3/6/Choice/1
-> CONTEXT: Map274/events/14/pages/0/0/Choice/1
-> CONTEXT: Map261/events/40/pages/1/7/Choice/1
-> CONTEXT: Map261/events/40/pages/2/6/Choice/1
-> CONTEXT: Map261/events/40/pages/3/7/Choice/1
-> CONTEXT: Map263/events/11/pages/2/12/Choice/1
-> CONTEXT: Map263/events/11/pages/3/7/Choice/1
-> CONTEXT: Map193/events/42/pages/0/0/Choice/1
-> CONTEXT: Map190/events/1/pages/0/0/Choice/1
-> CONTEXT: Map174/events/14/pages/0/0/Choice/1
-> CONTEXT: Map163/events/14/pages/0/0/Choice/1
-> CONTEXT: Map157/events/9/pages/0/0/Choice/1
-> CONTEXT: Map155/events/11/pages/0/0/Choice/1
-> CONTEXT: Map158/events/14/pages/0/0/Choice/1
-> CONTEXT: Map141/events/14/pages/0/0/Choice/1
-> CONTEXT: Map136/events/11/pages/0/0/Choice/1
-> CONTEXT: Map109/events/109/pages/1/11/Choice/1
-> CONTEXT: Map110/events/110/pages/1/11/Choice/1
-> CONTEXT: Map108/events/103/pages/1/11/Choice/1
-> CONTEXT: Map106/events/59/pages/1/11/Choice/1
-> CONTEXT: Map110/events/110/pages/2/11/Choice/1
-> CONTEXT: Map109/events/109/pages/2/11/Choice/1
-> CONTEXT: Map108/events/103/pages/2/11/Choice/1
-> CONTEXT: Map106/events/59/pages/2/11/Choice/1
-> CONTEXT: Map110/events/110/pages/3/6/Choice/1
-> CONTEXT: Map109/events/109/pages/3/6/Choice/1
-> CONTEXT: Map108/events/103/pages/3/6/Choice/1
-> CONTEXT: Map106/events/59/pages/3/6/Choice/1
-> CONTEXT: Map107/events/10/pages/1/11/Choice/1
-> CONTEXT: Map107/events/10/pages/2/11/Choice/1
-> CONTEXT: Map107/events/10/pages/3/6/Choice/1
-> CONTEXT: Map094/events/11/pages/0/10/Choice/1
-> CONTEXT: Map094/events/11/pages/1/7/Choice/1
-> CONTEXT: Map074/events/40/pages/0/7/Choice/1
-> CONTEXT: Map074/events/40/pages/1/6/Choice/1
-> CONTEXT: Map074/events/40/pages/2/7/Choice/1
-> CONTEXT: Map063/events/72/pages/1/7/Choice/1
-> CONTEXT: Map063/events/72/pages/2/6/Choice/1
-> CONTEXT: Map063/events/72/pages/3/7/Choice/1
-> CONTEXT: Map047/events/40/pages/1/7/Choice/1
-> CONTEXT: Map047/events/40/pages/2/6/Choice/1
-> CONTEXT: Map047/events/40/pages/3/7/Choice/1
-> CONTEXT: Map054/events/11/pages/2/12/Choice/1
-> CONTEXT: Map035/events/14/pages/0/7/Choice/1
-> CONTEXT: Map054/events/11/pages/3/7/Choice/1
-> CONTEXT: Map035/events/14/pages/1/7/Choice/1
-> CONTEXT: Map035/events/14/pages/2/6/Choice/1
-> CONTEXT: Map035/events/14/pages/3/6/Choice/1
-> CONTEXT: Map022/events/1/pages/0/105/Choice/1
-> CONTEXT: Map012/events/8/pages/1/5/Choice/1
-> CONTEXT: Map012/events/8/pages/2/6/Choice/1
-> CONTEXT: Map012/events/8/pages/3/5/Choice/1
-> CONTEXT: Map012/events/8/pages/5/6/Choice/1
-> CONTEXT: Map014/events/14/pages/0/5/Choice/1
-> CONTEXT: Map014/events/14/pages/1/5/Choice/1
-> CONTEXT: Map014/events/14/pages/2/6/Choice/1
-> CONTEXT: Map014/events/14/pages/3/6/Choice/1
-Weapons & Ammo#Dargoth
+アイアンメイデン if(v[23] \>= 1) 
+> CONTEXT: Map003/events/1/pages/2/12/Choice/2
+Iron Maiden if(v[23] \>= 1) #Dargoth
 > END STRING
 
 > BEGIN STRING
-その他
-> CONTEXT: Map280/events/14/pages/0/7/Choice/3
-> CONTEXT: Map280/events/14/pages/1/7/Choice/3
-> CONTEXT: Map280/events/14/pages/2/6/Choice/3
-> CONTEXT: Map280/events/14/pages/3/6/Choice/3
-> CONTEXT: Map274/events/14/pages/0/0/Choice/2
-> CONTEXT: Map261/events/40/pages/1/7/Choice/3
-> CONTEXT: Map261/events/40/pages/2/6/Choice/3
-> CONTEXT: Map261/events/40/pages/3/7/Choice/3
-> CONTEXT: Map263/events/11/pages/2/12/Choice/3
-> CONTEXT: Map263/events/11/pages/3/7/Choice/3
-> CONTEXT: Map193/events/42/pages/0/0/Choice/2
-> CONTEXT: Map190/events/1/pages/0/0/Choice/2
-> CONTEXT: Map174/events/14/pages/0/0/Choice/2
-> CONTEXT: Map163/events/14/pages/0/0/Choice/2
-> CONTEXT: Map157/events/9/pages/0/0/Choice/2
-> CONTEXT: Map155/events/11/pages/0/0/Choice/2
-> CONTEXT: Map158/events/14/pages/0/0/Choice/2
-> CONTEXT: Map141/events/14/pages/0/0/Choice/2
-> CONTEXT: Map136/events/11/pages/0/0/Choice/2
-> CONTEXT: Map110/events/110/pages/1/11/Choice/3
-> CONTEXT: Map109/events/109/pages/1/11/Choice/3
-> CONTEXT: Map108/events/103/pages/1/11/Choice/3
-> CONTEXT: Map106/events/59/pages/1/11/Choice/3
-> CONTEXT: Map110/events/110/pages/2/11/Choice/3
-> CONTEXT: Map109/events/109/pages/2/11/Choice/3
-> CONTEXT: Map108/events/103/pages/2/11/Choice/3
-> CONTEXT: Map106/events/59/pages/2/11/Choice/3
-> CONTEXT: Map110/events/110/pages/3/6/Choice/3
-> CONTEXT: Map109/events/109/pages/3/6/Choice/3
-> CONTEXT: Map108/events/103/pages/3/6/Choice/3
-> CONTEXT: Map106/events/59/pages/3/6/Choice/3
-> CONTEXT: Map107/events/10/pages/1/11/Choice/3
-> CONTEXT: Map107/events/10/pages/2/11/Choice/3
-> CONTEXT: Map107/events/10/pages/3/6/Choice/3
-> CONTEXT: Map094/events/11/pages/1/7/Choice/3
-> CONTEXT: Map074/events/40/pages/0/7/Choice/3
-> CONTEXT: Map074/events/40/pages/1/6/Choice/3
-> CONTEXT: Map074/events/40/pages/2/7/Choice/3
-> CONTEXT: Map063/events/72/pages/1/7/Choice/3
-> CONTEXT: Map063/events/72/pages/2/6/Choice/3
-> CONTEXT: Map063/events/72/pages/3/7/Choice/3
-> CONTEXT: Map047/events/40/pages/1/7/Choice/3
-> CONTEXT: Map047/events/40/pages/2/6/Choice/3
-> CONTEXT: Map047/events/40/pages/3/7/Choice/3
-> CONTEXT: Map054/events/11/pages/2/12/Choice/3
-> CONTEXT: Map035/events/14/pages/0/7/Choice/3
-> CONTEXT: Map054/events/11/pages/3/7/Choice/3
-> CONTEXT: Map035/events/14/pages/1/7/Choice/3
-> CONTEXT: Map035/events/14/pages/2/6/Choice/3
-> CONTEXT: Map035/events/14/pages/3/6/Choice/3
-> CONTEXT: Map022/events/1/pages/0/105/Choice/3
-> CONTEXT: Map012/events/8/pages/1/5/Choice/3
-> CONTEXT: Map012/events/8/pages/2/6/Choice/3
-> CONTEXT: Map012/events/8/pages/3/5/Choice/3
-> CONTEXT: Map012/events/8/pages/5/6/Choice/3
-> CONTEXT: Map014/events/14/pages/0/5/Choice/3
-> CONTEXT: Map014/events/14/pages/1/5/Choice/3
-> CONTEXT: Map014/events/14/pages/2/6/Choice/3
-> CONTEXT: Map014/events/14/pages/3/6/Choice/3
-Other#Dargoth
+エンプーサ if(v[24] \>= 1) 
+> CONTEXT: Map003/events/1/pages/2/12/Choice/3
+Empuse if(v[24] \>= 1) #Dargoth
+> END STRING
+
+> BEGIN STRING
+アイアンメイデンif(v[23] \>= 1) 
+> CONTEXT: Map003/events/2/pages/2/139/Choice/2
+> CONTEXT: Map003/events/2/pages/5/139/Choice/2
+Iron Maiden if(v[23] \>= 1) #Dargoth
+> END STRING
+
+> BEGIN STRING
+エンプーサif(v[24] \>= 1) 
+> CONTEXT: Map003/events/2/pages/2/139/Choice/3
+> CONTEXT: Map003/events/2/pages/5/139/Choice/3
+Empuse if(v[24] \>= 1) #Dargoth
+> END STRING
+
+> BEGIN STRING
+お金が欲しい【消費１】en(v[102] \>= 1) 
+> CONTEXT: Map018/events/2/pages/0/4/Choice/1
+> CONTEXT: Map003/events/2/pages/2/14/Choice/1
+> CONTEXT: Map003/events/2/pages/5/14/Choice/1
+Money [Cost: 1] en(v[102] \>= 1) #Dargoth
+> END STRING
+
+> BEGIN STRING
+ＳＰが欲しい【消費２】en(v[102] \>= 2) 
+> CONTEXT: Map018/events/2/pages/0/4/Choice/2
+> CONTEXT: Map003/events/2/pages/2/14/Choice/2
+> CONTEXT: Map003/events/2/pages/5/14/Choice/2
+Skill Points [Cost: 2] en(v[102] \>= 2) #Dargoth
+> END STRING
+
+> BEGIN STRING
+弾薬が欲しい【消費１】en(v[102] \>= 1) 
+> CONTEXT: Map018/events/2/pages/0/4/Choice/3
+> CONTEXT: Map003/events/2/pages/2/14/Choice/3
+> CONTEXT: Map003/events/2/pages/5/14/Choice/3
+Ammo [Cost: 1] en(v[102] \>= 1) #Dargoth
+> END STRING
+
+> BEGIN STRING
+回復アイテムが欲しい【消費１】en(v[102] \>= 1) 
+> CONTEXT: Map018/events/2/pages/0/81/Choice/0
+> CONTEXT: Map003/events/2/pages/2/91/Choice/0
+> CONTEXT: Map003/events/2/pages/5/91/Choice/0
+Recovery Items [Cost: 1] en(v[102] \>= 1) #Dargoth
+> END STRING
+
+> SHORTENED: Map012.txt
+
+> BEGIN STRING
+電源を入れる
+> CONTEXT: Map012/events/5/pages/3/2/Choice/1
+Switch on the power#Dargoth
 > END STRING
 
 > BEGIN STRING
@@ -2398,911 +1750,557 @@ Equipment#Dargoth
 Need something?#Dargoth
 > END STRING
 
-> SHORTENED: Map283.txt
-
 > BEGIN STRING
-休憩する
-> CONTEXT: Map283/events/25/pages/1/3/Choice/0
-> CONTEXT: Map283/events/25/pages/2/3/Choice/0
-> CONTEXT: Map274/events/5/pages/0/3/Choice/0
-> CONTEXT: Map193/events/25/pages/0/3/Choice/0
-> CONTEXT: Map163/events/5/pages/0/3/Choice/0
-> CONTEXT: Map158/events/5/pages/0/3/Choice/0
-> CONTEXT: Map157/events/5/pages/0/3/Choice/0
-> CONTEXT: Map155/events/5/pages/0/3/Choice/0
-> CONTEXT: Map141/events/5/pages/0/3/Choice/0
-> CONTEXT: Map135/events/5/pages/0/3/Choice/0
-> CONTEXT: Map123/events/5/pages/0/3/Choice/0
-> CONTEXT: Map100/events/5/pages/0/3/Choice/0
-> CONTEXT: Map094/events/9/pages/0/3/Choice/0
-> CONTEXT: Map076/events/5/pages/1/3/Choice/0
-> CONTEXT: Map076/events/5/pages/2/3/Choice/0
-> CONTEXT: Map064/events/5/pages/1/3/Choice/0
-> CONTEXT: Map064/events/5/pages/2/3/Choice/0
-> CONTEXT: Map066/events/25/pages/1/3/Choice/0
-> CONTEXT: Map066/events/25/pages/2/3/Choice/0
-> CONTEXT: Map053/events/5/pages/1/3/Choice/0
-> CONTEXT: Map053/events/5/pages/2/3/Choice/0
-> CONTEXT: Map048/events/5/pages/1/3/Choice/0
-> CONTEXT: Map048/events/5/pages/2/3/Choice/0
-> CONTEXT: Map036/events/5/pages/1/3/Choice/0
-> CONTEXT: Map036/events/5/pages/2/3/Choice/0
-> CONTEXT: Map032/events/8/pages/0/3/Choice/0
-> CONTEXT: Map032/events/8/pages/1/3/Choice/0
-> CONTEXT: Map022/events/17/pages/0/3/Choice/0
-> CONTEXT: Map015/events/5/pages/1/3/Choice/0
-> CONTEXT: Map015/events/5/pages/2/3/Choice/0
-> CONTEXT: Map011/events/16/pages/1/3/Choice/0
-> CONTEXT: Map011/events/16/pages/2/3/Choice/0
-Rest#Dargoth
+商品を見たい
+> CONTEXT: Map109/events/109/pages/1/9/Choice/0
+> CONTEXT: Map110/events/110/pages/1/9/Choice/0
+> CONTEXT: Map108/events/103/pages/1/9/Choice/0
+> CONTEXT: Map106/events/59/pages/1/9/Choice/0
+> CONTEXT: Map109/events/109/pages/2/9/Choice/0
+> CONTEXT: Map110/events/110/pages/2/9/Choice/0
+> CONTEXT: Map108/events/103/pages/2/9/Choice/0
+> CONTEXT: Map106/events/59/pages/2/9/Choice/0
+> CONTEXT: Map109/events/109/pages/3/4/Choice/0
+> CONTEXT: Map110/events/110/pages/3/4/Choice/0
+> CONTEXT: Map108/events/103/pages/3/4/Choice/0
+> CONTEXT: Map106/events/59/pages/3/4/Choice/0
+> CONTEXT: Map107/events/10/pages/1/9/Choice/0
+> CONTEXT: Map107/events/10/pages/2/9/Choice/0
+> CONTEXT: Map107/events/10/pages/3/4/Choice/0
+> CONTEXT: Map094/events/11/pages/0/8/Choice/0
+> CONTEXT: Map094/events/11/pages/1/5/Choice/0
+> CONTEXT: Map074/events/40/pages/0/5/Choice/0
+> CONTEXT: Map074/events/40/pages/1/4/Choice/0
+> CONTEXT: Map074/events/40/pages/2/5/Choice/0
+> CONTEXT: Map063/events/72/pages/1/5/Choice/0
+> CONTEXT: Map063/events/72/pages/2/4/Choice/0
+> CONTEXT: Map063/events/72/pages/3/5/Choice/0
+> CONTEXT: Map047/events/40/pages/1/5/Choice/0
+> CONTEXT: Map047/events/40/pages/2/4/Choice/0
+> CONTEXT: Map047/events/40/pages/3/5/Choice/0
+> CONTEXT: Map054/events/11/pages/2/10/Choice/0
+> CONTEXT: Map054/events/11/pages/3/5/Choice/0
+> CONTEXT: Map035/events/14/pages/0/5/Choice/0
+> CONTEXT: Map035/events/14/pages/1/5/Choice/0
+> CONTEXT: Map035/events/14/pages/2/4/Choice/0
+> CONTEXT: Map035/events/14/pages/3/4/Choice/0
+> CONTEXT: Map012/events/8/pages/1/3/Choice/0
+> CONTEXT: Map012/events/8/pages/2/4/Choice/0
+> CONTEXT: Map012/events/8/pages/3/3/Choice/0
+> CONTEXT: Map012/events/8/pages/5/4/Choice/0
+> CONTEXT: Map014/events/14/pages/0/3/Choice/0
+> CONTEXT: Map014/events/14/pages/1/3/Choice/0
+> CONTEXT: Map014/events/14/pages/2/4/Choice/0
+> CONTEXT: Map014/events/14/pages/3/4/Choice/0
+Show me your goods#Dargoth
 > END STRING
 
 > BEGIN STRING
-教えて欲しい
-> CONTEXT: Map283/events/26/pages/0/26/Choice/0
-> CONTEXT: Map066/events/26/pages/0/26/Choice/0
-> CONTEXT: Map032/events/9/pages/0/26/Choice/0
-Please enlighten me#Dargoth
+用はない
+> CONTEXT: Map109/events/109/pages/1/9/Choice/1
+> CONTEXT: Map110/events/110/pages/1/9/Choice/1
+> CONTEXT: Map108/events/103/pages/1/9/Choice/1
+> CONTEXT: Map106/events/59/pages/1/9/Choice/1
+> CONTEXT: Map109/events/109/pages/2/9/Choice/1
+> CONTEXT: Map110/events/110/pages/2/9/Choice/1
+> CONTEXT: Map108/events/103/pages/2/9/Choice/1
+> CONTEXT: Map106/events/59/pages/2/9/Choice/1
+> CONTEXT: Map109/events/109/pages/3/4/Choice/1
+> CONTEXT: Map110/events/110/pages/3/4/Choice/1
+> CONTEXT: Map108/events/103/pages/3/4/Choice/1
+> CONTEXT: Map106/events/59/pages/3/4/Choice/1
+> CONTEXT: Map107/events/10/pages/1/9/Choice/1
+> CONTEXT: Map107/events/10/pages/2/9/Choice/1
+> CONTEXT: Map107/events/10/pages/3/4/Choice/1
+> CONTEXT: Map094/events/11/pages/0/8/Choice/1
+> CONTEXT: Map094/events/11/pages/1/5/Choice/1
+> CONTEXT: Map094/events/13/pages/0/40/Choice/3
+> CONTEXT: Map074/events/40/pages/0/5/Choice/1
+> CONTEXT: Map074/events/40/pages/1/4/Choice/1
+> CONTEXT: Map074/events/40/pages/2/5/Choice/1
+> CONTEXT: Map063/events/72/pages/1/5/Choice/1
+> CONTEXT: Map063/events/72/pages/2/4/Choice/1
+> CONTEXT: Map063/events/72/pages/3/5/Choice/1
+> CONTEXT: Map047/events/40/pages/1/5/Choice/1
+> CONTEXT: Map047/events/40/pages/2/4/Choice/1
+> CONTEXT: Map047/events/40/pages/3/5/Choice/1
+> CONTEXT: Map054/events/11/pages/2/10/Choice/2
+> CONTEXT: Map054/events/11/pages/3/5/Choice/1
+> CONTEXT: Map035/events/14/pages/0/5/Choice/1
+> CONTEXT: Map035/events/14/pages/1/5/Choice/1
+> CONTEXT: Map035/events/14/pages/2/4/Choice/1
+> CONTEXT: Map035/events/14/pages/3/4/Choice/1
+> CONTEXT: Map012/events/8/pages/1/3/Choice/1
+> CONTEXT: Map012/events/8/pages/2/4/Choice/1
+> CONTEXT: Map012/events/8/pages/3/3/Choice/1
+> CONTEXT: Map012/events/8/pages/5/4/Choice/1
+> CONTEXT: Map014/events/14/pages/0/3/Choice/1
+> CONTEXT: Map014/events/14/pages/1/3/Choice/1
+> CONTEXT: Map014/events/14/pages/2/4/Choice/1
+> CONTEXT: Map014/events/14/pages/3/4/Choice/1
+Never mind#Dargoth
 > END STRING
 
 > BEGIN STRING
-今は大丈夫
-> CONTEXT: Map283/events/26/pages/0/26/Choice/1
-> CONTEXT: Map066/events/26/pages/0/26/Choice/1
-> CONTEXT: Map032/events/9/pages/0/26/Choice/1
-I'm good#Dargoth
+回復アイテム
+> CONTEXT: Map280/events/14/pages/0/7/Choice/0
+> CONTEXT: Map280/events/14/pages/1/7/Choice/0
+> CONTEXT: Map280/events/14/pages/2/6/Choice/0
+> CONTEXT: Map280/events/14/pages/3/6/Choice/0
+> CONTEXT: Map274/events/14/pages/0/0/Choice/0
+> CONTEXT: Map261/events/40/pages/1/7/Choice/0
+> CONTEXT: Map261/events/40/pages/2/6/Choice/0
+> CONTEXT: Map261/events/40/pages/3/7/Choice/0
+> CONTEXT: Map263/events/11/pages/2/12/Choice/0
+> CONTEXT: Map263/events/11/pages/3/7/Choice/0
+> CONTEXT: Map193/events/42/pages/0/0/Choice/0
+> CONTEXT: Map190/events/1/pages/0/0/Choice/0
+> CONTEXT: Map174/events/14/pages/0/0/Choice/0
+> CONTEXT: Map163/events/14/pages/0/0/Choice/0
+> CONTEXT: Map157/events/9/pages/0/0/Choice/0
+> CONTEXT: Map155/events/11/pages/0/0/Choice/0
+> CONTEXT: Map158/events/14/pages/0/0/Choice/0
+> CONTEXT: Map141/events/14/pages/0/0/Choice/0
+> CONTEXT: Map136/events/11/pages/0/0/Choice/0
+> CONTEXT: Map110/events/110/pages/1/11/Choice/0
+> CONTEXT: Map109/events/109/pages/1/11/Choice/0
+> CONTEXT: Map108/events/103/pages/1/11/Choice/0
+> CONTEXT: Map106/events/59/pages/1/11/Choice/0
+> CONTEXT: Map110/events/110/pages/2/11/Choice/0
+> CONTEXT: Map109/events/109/pages/2/11/Choice/0
+> CONTEXT: Map108/events/103/pages/2/11/Choice/0
+> CONTEXT: Map106/events/59/pages/2/11/Choice/0
+> CONTEXT: Map109/events/109/pages/3/6/Choice/0
+> CONTEXT: Map110/events/110/pages/3/6/Choice/0
+> CONTEXT: Map108/events/103/pages/3/6/Choice/0
+> CONTEXT: Map106/events/59/pages/3/6/Choice/0
+> CONTEXT: Map107/events/10/pages/1/11/Choice/0
+> CONTEXT: Map107/events/10/pages/2/11/Choice/0
+> CONTEXT: Map107/events/10/pages/3/6/Choice/0
+> CONTEXT: Map094/events/11/pages/0/10/Choice/0
+> CONTEXT: Map094/events/11/pages/1/7/Choice/0
+> CONTEXT: Map074/events/40/pages/0/7/Choice/0
+> CONTEXT: Map074/events/40/pages/1/6/Choice/0
+> CONTEXT: Map074/events/40/pages/2/7/Choice/0
+> CONTEXT: Map063/events/72/pages/1/7/Choice/0
+> CONTEXT: Map063/events/72/pages/2/6/Choice/0
+> CONTEXT: Map063/events/72/pages/3/7/Choice/0
+> CONTEXT: Map047/events/40/pages/1/7/Choice/0
+> CONTEXT: Map047/events/40/pages/2/6/Choice/0
+> CONTEXT: Map047/events/40/pages/3/7/Choice/0
+> CONTEXT: Map054/events/11/pages/2/12/Choice/0
+> CONTEXT: Map035/events/14/pages/0/7/Choice/0
+> CONTEXT: Map054/events/11/pages/3/7/Choice/0
+> CONTEXT: Map035/events/14/pages/1/7/Choice/0
+> CONTEXT: Map035/events/14/pages/2/6/Choice/0
+> CONTEXT: Map035/events/14/pages/3/6/Choice/0
+> CONTEXT: Map022/events/1/pages/0/105/Choice/0
+> CONTEXT: Map012/events/8/pages/1/5/Choice/0
+> CONTEXT: Map012/events/8/pages/2/6/Choice/0
+> CONTEXT: Map012/events/8/pages/3/5/Choice/0
+> CONTEXT: Map012/events/8/pages/5/6/Choice/0
+> CONTEXT: Map014/events/14/pages/0/5/Choice/0
+> CONTEXT: Map014/events/14/pages/1/5/Choice/0
+> CONTEXT: Map014/events/14/pages/2/6/Choice/0
+> CONTEXT: Map014/events/14/pages/3/6/Choice/0
+Recovery Items#Dargoth
 > END STRING
 
 > BEGIN STRING
-『抵抗力』を半分にして欲しい
-> CONTEXT: Map283/events/26/pages/0/26/Choice/2
-> CONTEXT: Map066/events/26/pages/0/26/Choice/2
-> CONTEXT: Map032/events/9/pages/0/26/Choice/2
-Set my willpower to half#Dargoth
-> END STRING
-
-> SHORTENED: Map286.txt
-
-> BEGIN STRING
-はい
-> CONTEXT: Map286/events/4/pages/1/6/Choice/0
-> CONTEXT: Map286/events/4/pages/1/31/Choice/0
-> CONTEXT: Map286/events/4/pages/2/6/Choice/0
-> CONTEXT: Map286/events/4/pages/2/31/Choice/0
-> CONTEXT: Map286/events/5/pages/1/6/Choice/0
-> CONTEXT: Map286/events/5/pages/1/31/Choice/0
-> CONTEXT: Map286/events/5/pages/2/6/Choice/0
-> CONTEXT: Map286/events/5/pages/2/31/Choice/0
-> CONTEXT: Map286/events/6/pages/1/6/Choice/0
-> CONTEXT: Map286/events/6/pages/1/31/Choice/0
-> CONTEXT: Map286/events/6/pages/2/6/Choice/0
-> CONTEXT: Map286/events/6/pages/2/31/Choice/0
-> CONTEXT: Map284/events/1/pages/0/112/Choice/0
-> CONTEXT: Map282/events/56/pages/1/6/Choice/0
-> CONTEXT: Map282/events/56/pages/1/33/Choice/0
-> CONTEXT: Map282/events/56/pages/2/6/Choice/0
-> CONTEXT: Map282/events/56/pages/2/31/Choice/0
-> CONTEXT: Map282/events/56/pages/3/6/Choice/0
-> CONTEXT: Map281/events/4/pages/0/259/Choice/0
-> CONTEXT: Map282/events/56/pages/3/31/Choice/0
-> CONTEXT: Map285/events/7/pages/1/6/Choice/0
-> CONTEXT: Map282/events/58/pages/1/6/Choice/0
-> CONTEXT: Map285/events/7/pages/1/32/Choice/0
-> CONTEXT: Map282/events/58/pages/1/33/Choice/0
-> CONTEXT: Map285/events/7/pages/2/6/Choice/0
-> CONTEXT: Map282/events/58/pages/2/6/Choice/0
-> CONTEXT: Map283/events/19/pages/0/6/Choice/0
-> CONTEXT: Map285/events/7/pages/2/32/Choice/0
-> CONTEXT: Map282/events/58/pages/2/31/Choice/0
-> CONTEXT: Map283/events/19/pages/0/32/Choice/0
-> CONTEXT: Map282/events/58/pages/3/6/Choice/0
-> CONTEXT: Map283/events/23/pages/0/6/Choice/0
-> CONTEXT: Map282/events/58/pages/3/31/Choice/0
-> CONTEXT: Map283/events/23/pages/0/32/Choice/0
-> CONTEXT: Map282/events/59/pages/1/6/Choice/0
-> CONTEXT: Map283/events/24/pages/0/6/Choice/0
-> CONTEXT: Map282/events/59/pages/1/33/Choice/0
-> CONTEXT: Map283/events/24/pages/0/32/Choice/0
-> CONTEXT: Map282/events/59/pages/2/6/Choice/0
-> CONTEXT: Map282/events/59/pages/2/31/Choice/0
-> CONTEXT: Map285/events/9/pages/1/6/Choice/0
-> CONTEXT: Map282/events/59/pages/3/6/Choice/0
-> CONTEXT: Map285/events/9/pages/1/32/Choice/0
-> CONTEXT: Map282/events/59/pages/3/31/Choice/0
-> CONTEXT: Map285/events/9/pages/2/6/Choice/0
-> CONTEXT: Map285/events/9/pages/2/32/Choice/0
-> CONTEXT: Map285/events/10/pages/1/6/Choice/0
-> CONTEXT: Map285/events/10/pages/1/32/Choice/0
-> CONTEXT: Map285/events/10/pages/2/6/Choice/0
-> CONTEXT: Map285/events/10/pages/2/32/Choice/0
-> CONTEXT: Map278/events/26/pages/1/53/Choice/0
-> CONTEXT: Map278/events/26/pages/2/174/Choice/0
-> CONTEXT: Map272/events/1/pages/0/159/Choice/0
-> CONTEXT: Map278/events/26/pages/3/177/Choice/0
-> CONTEXT: Map278/events/26/pages/4/76/Choice/0
-> CONTEXT: Map216/events/5/pages/0/315/Choice/0
-> CONTEXT: Map215/events/5/pages/0/171/Choice/0
-> CONTEXT: Map200/events/1/pages/0/139/Choice/0
-> CONTEXT: Map189/events/1/pages/0/296/Choice/0
-> CONTEXT: Map195/events/19/pages/0/153/Choice/0
-> CONTEXT: Map188/events/56/pages/1/6/Choice/0
-> CONTEXT: Map188/events/56/pages/1/33/Choice/0
-> CONTEXT: Map188/events/56/pages/2/6/Choice/0
-> CONTEXT: Map188/events/56/pages/2/31/Choice/0
-> CONTEXT: Map188/events/56/pages/3/6/Choice/0
-> CONTEXT: Map188/events/56/pages/3/31/Choice/0
-> CONTEXT: Map188/events/58/pages/1/6/Choice/0
-> CONTEXT: Map188/events/58/pages/1/33/Choice/0
-> CONTEXT: Map188/events/58/pages/2/6/Choice/0
-> CONTEXT: Map188/events/58/pages/2/31/Choice/0
-> CONTEXT: Map188/events/58/pages/3/6/Choice/0
-> CONTEXT: Map188/events/58/pages/3/31/Choice/0
-> CONTEXT: Map188/events/59/pages/1/6/Choice/0
-> CONTEXT: Map188/events/59/pages/1/33/Choice/0
-> CONTEXT: Map188/events/59/pages/2/6/Choice/0
-> CONTEXT: Map188/events/59/pages/2/31/Choice/0
-> CONTEXT: Map188/events/59/pages/3/6/Choice/0
-> CONTEXT: Map188/events/59/pages/3/31/Choice/0
-> CONTEXT: Map166/events/19/pages/0/153/Choice/0
-> CONTEXT: Map159/events/3/pages/1/6/Choice/0
-> CONTEXT: Map159/events/3/pages/1/31/Choice/0
-> CONTEXT: Map159/events/3/pages/2/6/Choice/0
-> CONTEXT: Map159/events/3/pages/2/31/Choice/0
-> CONTEXT: Map154/events/4/pages/0/193/Choice/0
-> CONTEXT: Map154/events/4/pages/1/94/Choice/0
-> CONTEXT: Map153/events/2/pages/3/297/Choice/0
-> CONTEXT: Map153/events/7/pages/1/6/Choice/0
-> CONTEXT: Map153/events/7/pages/1/31/Choice/0
-> CONTEXT: Map153/events/8/pages/1/6/Choice/0
-> CONTEXT: Map153/events/8/pages/1/31/Choice/0
-> CONTEXT: Map153/events/10/pages/1/6/Choice/0
-> CONTEXT: Map153/events/10/pages/1/31/Choice/0
-> CONTEXT: Map134/events/10/pages/0/182/Choice/0
-> CONTEXT: Map134/events/10/pages/1/174/Choice/0
-> CONTEXT: Map133/events/1/pages/1/4/Choice/0
-> CONTEXT: Map133/events/2/pages/1/4/Choice/0
-> CONTEXT: Map133/events/3/pages/1/4/Choice/0
-> CONTEXT: Map134/events/10/pages/2/147/Choice/0
-> CONTEXT: Map153/events/16/pages/3/298/Choice/0
-> CONTEXT: Map131/events/5/pages/1/92/Choice/0
-> CONTEXT: Map125/events/4/pages/1/6/Choice/0
-> CONTEXT: Map125/events/4/pages/1/31/Choice/0
-> CONTEXT: Map153/events/17/pages/3/298/Choice/0
-> CONTEXT: Map131/events/8/pages/1/92/Choice/0
-> CONTEXT: Map125/events/4/pages/2/6/Choice/0
-> CONTEXT: Map125/events/4/pages/2/31/Choice/0
-> CONTEXT: Map125/events/5/pages/1/6/Choice/0
-> CONTEXT: Map125/events/5/pages/1/31/Choice/0
-> CONTEXT: Map125/events/5/pages/2/6/Choice/0
-> CONTEXT: Map125/events/5/pages/2/31/Choice/0
-> CONTEXT: Map122/events/5/pages/0/166/Choice/0
-> CONTEXT: Map125/events/6/pages/1/6/Choice/0
-> CONTEXT: Map125/events/6/pages/1/31/Choice/0
-> CONTEXT: Map125/events/6/pages/2/6/Choice/0
-> CONTEXT: Map125/events/6/pages/2/31/Choice/0
-> CONTEXT: Map121/events/5/pages/0/185/Choice/0
-> CONTEXT: Map125/events/8/pages/0/2/Choice/0
-> CONTEXT: Map120/events/5/pages/0/242/Choice/0
-> CONTEXT: Map131/events/9/pages/1/92/Choice/0
-> CONTEXT: Map119/events/5/pages/0/171/Choice/0
-> CONTEXT: Map131/events/10/pages/0/6/Choice/0
-> CONTEXT: Map131/events/10/pages/0/31/Choice/0
-> CONTEXT: Map131/events/11/pages/0/6/Choice/0
-> CONTEXT: Map131/events/11/pages/0/31/Choice/0
-> CONTEXT: Map131/events/12/pages/0/6/Choice/0
-> CONTEXT: Map131/events/12/pages/0/31/Choice/0
-> CONTEXT: Map131/events/16/pages/0/2/Choice/0
-> CONTEXT: Map111/events/7/pages/1/4/Choice/0
-> CONTEXT: Map107/events/6/pages/1/4/Choice/0
-> CONTEXT: Map101/events/15/pages/0/38/Choice/0
-> CONTEXT: Map101/events/16/pages/0/38/Choice/0
-> CONTEXT: Map101/events/17/pages/0/38/Choice/0
-> CONTEXT: Map094/events/1/pages/0/96/Choice/0
-> CONTEXT: Map094/events/4/pages/1/20/Choice/0
-> CONTEXT: Map094/events/4/pages/1/80/Choice/0
-> CONTEXT: Map094/events/4/pages/1/127/Choice/0
-> CONTEXT: Map094/events/4/pages/1/173/Choice/0
-> CONTEXT: Map094/events/4/pages/1/218/Choice/0
-> CONTEXT: Map094/events/4/pages/1/263/Choice/0
-> CONTEXT: Map094/events/4/pages/1/308/Choice/0
-> CONTEXT: Map094/events/4/pages/1/364/Choice/0
-> CONTEXT: Map085/events/5/pages/0/178/Choice/0
-> CONTEXT: Map094/events/7/pages/0/21/Choice/0
-> CONTEXT: Map097/events/7/pages/1/6/Choice/0
-> CONTEXT: Map097/events/7/pages/1/32/Choice/0
-> CONTEXT: Map097/events/7/pages/2/6/Choice/0
-> CONTEXT: Map097/events/7/pages/2/32/Choice/0
-> CONTEXT: Map082/events/7/pages/0/141/Choice/0
-> CONTEXT: Map082/events/7/pages/1/146/Choice/0
-> CONTEXT: Map097/events/9/pages/1/6/Choice/0
-> CONTEXT: Map097/events/9/pages/1/32/Choice/0
-> CONTEXT: Map097/events/9/pages/2/6/Choice/0
-> CONTEXT: Map080/events/5/pages/0/215/Choice/0
-> CONTEXT: Map097/events/9/pages/2/32/Choice/0
-> CONTEXT: Map097/events/10/pages/1/6/Choice/0
-> CONTEXT: Map097/events/10/pages/1/32/Choice/0
-> CONTEXT: Map097/events/10/pages/2/6/Choice/0
-> CONTEXT: Map097/events/10/pages/2/32/Choice/0
-> CONTEXT: Map075/events/4/pages/1/20/Choice/0
-> CONTEXT: Map071/events/1/pages/0/188/Choice/0
-> CONTEXT: Map075/events/4/pages/1/79/Choice/0
-> CONTEXT: Map070/events/5/pages/0/176/Choice/0
-> CONTEXT: Map075/events/4/pages/1/122/Choice/0
-> CONTEXT: Map075/events/4/pages/1/168/Choice/0
-> CONTEXT: Map075/events/4/pages/1/214/Choice/0
-> CONTEXT: Map075/events/4/pages/1/261/Choice/0
-> CONTEXT: Map075/events/4/pages/1/307/Choice/0
-> CONTEXT: Map075/events/4/pages/1/352/Choice/0
-> CONTEXT: Map075/events/4/pages/1/397/Choice/0
-> CONTEXT: Map075/events/4/pages/1/442/Choice/0
-> CONTEXT: Map075/events/4/pages/1/488/Choice/0
-> CONTEXT: Map075/events/4/pages/1/544/Choice/0
-> CONTEXT: Map075/events/4/pages/1/600/Choice/0
-> CONTEXT: Map062/events/5/pages/0/164/Choice/0
-> CONTEXT: Map066/events/19/pages/0/6/Choice/0
-> CONTEXT: Map066/events/19/pages/0/32/Choice/0
-> CONTEXT: Map066/events/23/pages/0/6/Choice/0
-> CONTEXT: Map066/events/23/pages/0/32/Choice/0
-> CONTEXT: Map066/events/24/pages/0/6/Choice/0
-> CONTEXT: Map066/events/24/pages/0/32/Choice/0
-> CONTEXT: Map050/events/56/pages/1/6/Choice/0
-> CONTEXT: Map050/events/56/pages/1/33/Choice/0
-> CONTEXT: Map050/events/56/pages/2/6/Choice/0
-> CONTEXT: Map050/events/56/pages/2/31/Choice/0
-> CONTEXT: Map050/events/56/pages/3/6/Choice/0
-> CONTEXT: Map050/events/56/pages/3/31/Choice/0
-> CONTEXT: Map041/events/5/pages/0/178/Choice/0
-> CONTEXT: Map042/events/5/pages/0/219/Choice/0
-> CONTEXT: Map050/events/58/pages/1/6/Choice/0
-> CONTEXT: Map050/events/58/pages/1/33/Choice/0
-> CONTEXT: Map038/events/4/pages/0/554/Choice/0
-> CONTEXT: Map050/events/58/pages/2/6/Choice/0
-> CONTEXT: Map050/events/58/pages/2/31/Choice/0
-> CONTEXT: Map050/events/58/pages/3/6/Choice/0
-> CONTEXT: Map050/events/58/pages/3/31/Choice/0
-> CONTEXT: Map050/events/59/pages/1/6/Choice/0
-> CONTEXT: Map050/events/59/pages/1/33/Choice/0
-> CONTEXT: Map050/events/59/pages/2/6/Choice/0
-> CONTEXT: Map050/events/59/pages/2/31/Choice/0
-> CONTEXT: Map050/events/59/pages/3/6/Choice/0
-> CONTEXT: Map050/events/59/pages/3/31/Choice/0
-> CONTEXT: Map030/events/1/pages/0/22/Choice/0
-> CONTEXT: Map030/events/1/pages/0/41/Choice/0
-> CONTEXT: Map030/events/1/pages/0/60/Choice/0
-> CONTEXT: Map030/events/1/pages/0/80/Choice/0
-> CONTEXT: Map028/events/2/pages/0/41/Choice/0
-> CONTEXT: Map030/events/1/pages/0/105/Choice/0
-> CONTEXT: Map030/events/1/pages/0/124/Choice/0
-> CONTEXT: Map027/events/5/pages/0/231/Choice/0
-> CONTEXT: Map030/events/1/pages/0/144/Choice/0
-> CONTEXT: Map028/events/2/pages/1/27/Choice/0
-> CONTEXT: Map028/events/2/pages/1/44/Choice/0
-> CONTEXT: Map030/events/1/pages/0/169/Choice/0
-> CONTEXT: Map030/events/1/pages/0/195/Choice/0
-> CONTEXT: Map030/events/1/pages/0/215/Choice/0
-> CONTEXT: Map030/events/1/pages/0/246/Choice/0
-> CONTEXT: Map030/events/1/pages/0/278/Choice/0
-> CONTEXT: Map030/events/1/pages/0/313/Choice/0
-> CONTEXT: Map018/events/2/pages/0/36/Choice/0
-> CONTEXT: Map018/events/2/pages/0/51/Choice/0
-> CONTEXT: Map018/events/2/pages/0/66/Choice/0
-> CONTEXT: Map019/events/5/pages/0/155/Choice/0
-> CONTEXT: Map018/events/2/pages/0/87/Choice/0
-> CONTEXT: Map018/events/2/pages/0/121/Choice/0
-> CONTEXT: Map018/events/2/pages/0/137/Choice/0
-> CONTEXT: Map007/events/26/pages/1/53/Choice/0
-> CONTEXT: Map007/events/26/pages/2/174/Choice/0
-> CONTEXT: Map007/events/26/pages/3/177/Choice/0
-> CONTEXT: Map007/events/26/pages/4/76/Choice/0
-> CONTEXT: Map002/events/1/pages/0/344/Choice/0
-> CONTEXT: Map002/events/1/pages/0/360/Choice/0
-> CONTEXT: Map002/events/1/pages/0/376/Choice/0
-> CONTEXT: Map002/events/1/pages/0/428/Choice/0
-> CONTEXT: Map002/events/1/pages/0/444/Choice/0
-> CONTEXT: Map002/events/1/pages/0/460/Choice/0
-> CONTEXT: Map002/events/1/pages/0/504/Choice/0
-> CONTEXT: Map002/events/1/pages/0/520/Choice/0
-> CONTEXT: Map002/events/1/pages/0/572/Choice/0
-> CONTEXT: Map002/events/1/pages/0/588/Choice/0
-> CONTEXT: Map002/events/1/pages/0/604/Choice/0
-> CONTEXT: Map002/events/1/pages/0/652/Choice/0
-> CONTEXT: Map003/events/2/pages/2/46/Choice/0
-> CONTEXT: Map002/events/1/pages/0/668/Choice/0
-> CONTEXT: Map003/events/2/pages/2/61/Choice/0
-> CONTEXT: Map003/events/2/pages/2/76/Choice/0
-> CONTEXT: Map002/events/1/pages/0/712/Choice/0
-> CONTEXT: Map003/events/2/pages/2/97/Choice/0
-> CONTEXT: Map002/events/1/pages/0/728/Choice/0
-> CONTEXT: Map014/events/112/pages/0/18/Choice/0
-> CONTEXT: Map002/events/1/pages/0/788/Choice/0
-> CONTEXT: Map003/events/2/pages/2/145/Choice/0
-> CONTEXT: Map002/events/1/pages/0/804/Choice/0
-> CONTEXT: Map003/events/2/pages/2/162/Choice/0
-> CONTEXT: Map002/events/1/pages/0/820/Choice/0
-> CONTEXT: Map003/events/2/pages/2/179/Choice/0
-> CONTEXT: Map003/events/2/pages/2/196/Choice/0
-> CONTEXT: Map002/events/1/pages/0/880/Choice/0
-> CONTEXT: Map003/events/2/pages/2/217/Choice/0
-> CONTEXT: Map002/events/1/pages/0/896/Choice/0
-> CONTEXT: Map003/events/2/pages/2/234/Choice/0
-> CONTEXT: Map002/events/1/pages/0/912/Choice/0
-> CONTEXT: Map003/events/2/pages/2/251/Choice/0
-> CONTEXT: Map002/events/1/pages/0/928/Choice/0
-> CONTEXT: Map003/events/2/pages/2/268/Choice/0
-> CONTEXT: Map003/events/2/pages/2/289/Choice/0
-> CONTEXT: Map002/events/1/pages/0/976/Choice/0
-> CONTEXT: Map003/events/2/pages/2/306/Choice/0
-> CONTEXT: Map002/events/1/pages/0/992/Choice/0
-> CONTEXT: Map003/events/2/pages/2/323/Choice/0
-> CONTEXT: Map003/events/2/pages/2/340/Choice/0
-> CONTEXT: Map002/events/1/pages/0/1052/Choice/0
-> CONTEXT: Map002/events/1/pages/0/1068/Choice/0
-> CONTEXT: Map002/events/1/pages/0/1084/Choice/0
-> CONTEXT: Map003/events/2/pages/5/46/Choice/0
-> CONTEXT: Map002/events/1/pages/0/1100/Choice/0
-> CONTEXT: Map003/events/2/pages/5/61/Choice/0
-> CONTEXT: Map003/events/2/pages/5/76/Choice/0
-> CONTEXT: Map002/events/1/pages/0/1152/Choice/0
-> CONTEXT: Map003/events/2/pages/5/97/Choice/0
-> CONTEXT: Map002/events/1/pages/0/1184/Choice/0
-> CONTEXT: Map002/events/1/pages/0/1200/Choice/0
-> CONTEXT: Map003/events/2/pages/5/145/Choice/0
-> CONTEXT: Map003/events/2/pages/5/162/Choice/0
-> CONTEXT: Map002/events/1/pages/0/1244/Choice/0
-> CONTEXT: Map003/events/2/pages/5/179/Choice/0
-> CONTEXT: Map002/events/1/pages/0/1276/Choice/0
-> CONTEXT: Map003/events/2/pages/5/196/Choice/0
-> CONTEXT: Map003/events/2/pages/5/217/Choice/0
-> CONTEXT: Map002/events/1/pages/0/1324/Choice/0
-> CONTEXT: Map003/events/2/pages/5/234/Choice/0
-> CONTEXT: Map002/events/1/pages/0/1340/Choice/0
-> CONTEXT: Map003/events/2/pages/5/251/Choice/0
-> CONTEXT: Map003/events/2/pages/5/268/Choice/0
-> CONTEXT: Map002/events/1/pages/0/1376/Choice/0
-> CONTEXT: Map003/events/2/pages/5/289/Choice/0
-> CONTEXT: Map003/events/2/pages/5/306/Choice/0
-> CONTEXT: Map002/events/1/pages/0/1428/Choice/0
-> CONTEXT: Map003/events/2/pages/5/323/Choice/0
-> CONTEXT: Map002/events/1/pages/0/1444/Choice/0
-> CONTEXT: Map003/events/2/pages/5/340/Choice/0
-> CONTEXT: Map002/events/1/pages/0/1460/Choice/0
-> CONTEXT: Map003/events/2/pages/5/361/Choice/0
-> CONTEXT: Map002/events/1/pages/0/1496/Choice/0
-> CONTEXT: Map003/events/2/pages/5/378/Choice/0
-> CONTEXT: Map002/events/1/pages/0/1536/Choice/0
-> CONTEXT: Map003/events/6/pages/3/2/Choice/0
-> CONTEXT: Map002/events/1/pages/0/1580/Choice/0
-> CONTEXT: Map002/events/1/pages/0/1612/Choice/0
-> CONTEXT: Map003/events/19/pages/0/153/Choice/0
-> CONTEXT: Commonevents/180/148/Choice/0
-> CONTEXT: Commonevents/180/191/Choice/0
-Yes#Dargoth
+武器・弾薬
+> CONTEXT: Map280/events/14/pages/0/7/Choice/1
+> CONTEXT: Map280/events/14/pages/1/7/Choice/1
+> CONTEXT: Map280/events/14/pages/2/6/Choice/1
+> CONTEXT: Map280/events/14/pages/3/6/Choice/1
+> CONTEXT: Map274/events/14/pages/0/0/Choice/1
+> CONTEXT: Map261/events/40/pages/1/7/Choice/1
+> CONTEXT: Map261/events/40/pages/2/6/Choice/1
+> CONTEXT: Map261/events/40/pages/3/7/Choice/1
+> CONTEXT: Map263/events/11/pages/2/12/Choice/1
+> CONTEXT: Map263/events/11/pages/3/7/Choice/1
+> CONTEXT: Map193/events/42/pages/0/0/Choice/1
+> CONTEXT: Map190/events/1/pages/0/0/Choice/1
+> CONTEXT: Map174/events/14/pages/0/0/Choice/1
+> CONTEXT: Map163/events/14/pages/0/0/Choice/1
+> CONTEXT: Map157/events/9/pages/0/0/Choice/1
+> CONTEXT: Map155/events/11/pages/0/0/Choice/1
+> CONTEXT: Map158/events/14/pages/0/0/Choice/1
+> CONTEXT: Map141/events/14/pages/0/0/Choice/1
+> CONTEXT: Map136/events/11/pages/0/0/Choice/1
+> CONTEXT: Map109/events/109/pages/1/11/Choice/1
+> CONTEXT: Map110/events/110/pages/1/11/Choice/1
+> CONTEXT: Map108/events/103/pages/1/11/Choice/1
+> CONTEXT: Map106/events/59/pages/1/11/Choice/1
+> CONTEXT: Map110/events/110/pages/2/11/Choice/1
+> CONTEXT: Map109/events/109/pages/2/11/Choice/1
+> CONTEXT: Map108/events/103/pages/2/11/Choice/1
+> CONTEXT: Map106/events/59/pages/2/11/Choice/1
+> CONTEXT: Map110/events/110/pages/3/6/Choice/1
+> CONTEXT: Map109/events/109/pages/3/6/Choice/1
+> CONTEXT: Map108/events/103/pages/3/6/Choice/1
+> CONTEXT: Map106/events/59/pages/3/6/Choice/1
+> CONTEXT: Map107/events/10/pages/1/11/Choice/1
+> CONTEXT: Map107/events/10/pages/2/11/Choice/1
+> CONTEXT: Map107/events/10/pages/3/6/Choice/1
+> CONTEXT: Map094/events/11/pages/0/10/Choice/1
+> CONTEXT: Map094/events/11/pages/1/7/Choice/1
+> CONTEXT: Map074/events/40/pages/0/7/Choice/1
+> CONTEXT: Map074/events/40/pages/1/6/Choice/1
+> CONTEXT: Map074/events/40/pages/2/7/Choice/1
+> CONTEXT: Map063/events/72/pages/1/7/Choice/1
+> CONTEXT: Map063/events/72/pages/2/6/Choice/1
+> CONTEXT: Map063/events/72/pages/3/7/Choice/1
+> CONTEXT: Map047/events/40/pages/1/7/Choice/1
+> CONTEXT: Map047/events/40/pages/2/6/Choice/1
+> CONTEXT: Map047/events/40/pages/3/7/Choice/1
+> CONTEXT: Map054/events/11/pages/2/12/Choice/1
+> CONTEXT: Map035/events/14/pages/0/7/Choice/1
+> CONTEXT: Map054/events/11/pages/3/7/Choice/1
+> CONTEXT: Map035/events/14/pages/1/7/Choice/1
+> CONTEXT: Map035/events/14/pages/2/6/Choice/1
+> CONTEXT: Map035/events/14/pages/3/6/Choice/1
+> CONTEXT: Map022/events/1/pages/0/105/Choice/1
+> CONTEXT: Map012/events/8/pages/1/5/Choice/1
+> CONTEXT: Map012/events/8/pages/2/6/Choice/1
+> CONTEXT: Map012/events/8/pages/3/5/Choice/1
+> CONTEXT: Map012/events/8/pages/5/6/Choice/1
+> CONTEXT: Map014/events/14/pages/0/5/Choice/1
+> CONTEXT: Map014/events/14/pages/1/5/Choice/1
+> CONTEXT: Map014/events/14/pages/2/6/Choice/1
+> CONTEXT: Map014/events/14/pages/3/6/Choice/1
+Weapons & Ammo#Dargoth
 > END STRING
 
 > BEGIN STRING
-いいえ
-> CONTEXT: Map286/events/4/pages/1/6/Choice/1
-> CONTEXT: Map286/events/4/pages/1/31/Choice/1
-> CONTEXT: Map286/events/4/pages/2/6/Choice/1
-> CONTEXT: Map286/events/4/pages/2/31/Choice/1
-> CONTEXT: Map286/events/5/pages/1/6/Choice/1
-> CONTEXT: Map286/events/5/pages/1/31/Choice/1
-> CONTEXT: Map286/events/5/pages/2/6/Choice/1
-> CONTEXT: Map286/events/5/pages/2/31/Choice/1
-> CONTEXT: Map286/events/6/pages/1/6/Choice/1
-> CONTEXT: Map286/events/6/pages/1/31/Choice/1
-> CONTEXT: Map286/events/6/pages/2/6/Choice/1
-> CONTEXT: Map286/events/6/pages/2/31/Choice/1
-> CONTEXT: Map284/events/1/pages/0/112/Choice/1
-> CONTEXT: Map282/events/56/pages/1/6/Choice/1
-> CONTEXT: Map282/events/56/pages/1/33/Choice/1
-> CONTEXT: Map282/events/56/pages/2/6/Choice/1
-> CONTEXT: Map282/events/56/pages/2/31/Choice/1
-> CONTEXT: Map282/events/56/pages/3/6/Choice/1
-> CONTEXT: Map281/events/4/pages/0/259/Choice/1
-> CONTEXT: Map282/events/56/pages/3/31/Choice/1
-> CONTEXT: Map285/events/7/pages/1/6/Choice/1
-> CONTEXT: Map282/events/58/pages/1/6/Choice/1
-> CONTEXT: Map285/events/7/pages/1/32/Choice/1
-> CONTEXT: Map282/events/58/pages/1/33/Choice/1
-> CONTEXT: Map285/events/7/pages/2/6/Choice/1
-> CONTEXT: Map282/events/58/pages/2/6/Choice/1
-> CONTEXT: Map283/events/19/pages/0/6/Choice/1
-> CONTEXT: Map285/events/7/pages/2/32/Choice/1
-> CONTEXT: Map282/events/58/pages/2/31/Choice/1
-> CONTEXT: Map283/events/19/pages/0/32/Choice/1
-> CONTEXT: Map282/events/58/pages/3/6/Choice/1
-> CONTEXT: Map283/events/23/pages/0/6/Choice/1
-> CONTEXT: Map282/events/58/pages/3/31/Choice/1
-> CONTEXT: Map283/events/23/pages/0/32/Choice/1
-> CONTEXT: Map282/events/59/pages/1/6/Choice/1
-> CONTEXT: Map283/events/24/pages/0/6/Choice/1
-> CONTEXT: Map282/events/59/pages/1/33/Choice/1
-> CONTEXT: Map283/events/24/pages/0/32/Choice/1
-> CONTEXT: Map282/events/59/pages/2/6/Choice/1
-> CONTEXT: Map282/events/59/pages/2/31/Choice/1
-> CONTEXT: Map285/events/9/pages/1/6/Choice/1
-> CONTEXT: Map282/events/59/pages/3/6/Choice/1
-> CONTEXT: Map285/events/9/pages/1/32/Choice/1
-> CONTEXT: Map282/events/59/pages/3/31/Choice/1
-> CONTEXT: Map285/events/9/pages/2/6/Choice/1
-> CONTEXT: Map285/events/9/pages/2/32/Choice/1
-> CONTEXT: Map285/events/10/pages/1/6/Choice/1
-> CONTEXT: Map285/events/10/pages/1/32/Choice/1
-> CONTEXT: Map285/events/10/pages/2/6/Choice/1
-> CONTEXT: Map285/events/10/pages/2/32/Choice/1
-> CONTEXT: Map278/events/26/pages/1/53/Choice/1
-> CONTEXT: Map278/events/26/pages/2/174/Choice/1
-> CONTEXT: Map272/events/1/pages/0/159/Choice/1
-> CONTEXT: Map278/events/26/pages/3/177/Choice/1
-> CONTEXT: Map278/events/26/pages/4/76/Choice/1
-> CONTEXT: Map215/events/5/pages/0/171/Choice/1
-> CONTEXT: Map216/events/5/pages/0/315/Choice/1
-> CONTEXT: Map200/events/1/pages/0/139/Choice/1
-> CONTEXT: Map189/events/1/pages/0/296/Choice/1
-> CONTEXT: Map195/events/19/pages/0/153/Choice/1
-> CONTEXT: Map188/events/56/pages/1/6/Choice/1
-> CONTEXT: Map188/events/56/pages/1/33/Choice/1
-> CONTEXT: Map188/events/56/pages/2/6/Choice/1
-> CONTEXT: Map188/events/56/pages/2/31/Choice/1
-> CONTEXT: Map188/events/56/pages/3/6/Choice/1
-> CONTEXT: Map188/events/56/pages/3/31/Choice/1
-> CONTEXT: Map188/events/58/pages/1/6/Choice/1
-> CONTEXT: Map188/events/58/pages/1/33/Choice/1
-> CONTEXT: Map188/events/58/pages/2/6/Choice/1
-> CONTEXT: Map188/events/58/pages/2/31/Choice/1
-> CONTEXT: Map188/events/58/pages/3/6/Choice/1
-> CONTEXT: Map188/events/58/pages/3/31/Choice/1
-> CONTEXT: Map188/events/59/pages/1/6/Choice/1
-> CONTEXT: Map188/events/59/pages/1/33/Choice/1
-> CONTEXT: Map188/events/59/pages/2/6/Choice/1
-> CONTEXT: Map188/events/59/pages/2/31/Choice/1
-> CONTEXT: Map188/events/59/pages/3/6/Choice/1
-> CONTEXT: Map188/events/59/pages/3/31/Choice/1
-> CONTEXT: Map166/events/19/pages/0/153/Choice/1
-> CONTEXT: Map159/events/3/pages/1/6/Choice/1
-> CONTEXT: Map159/events/3/pages/1/31/Choice/1
-> CONTEXT: Map159/events/3/pages/2/6/Choice/1
-> CONTEXT: Map159/events/3/pages/2/31/Choice/1
-> CONTEXT: Map154/events/4/pages/0/193/Choice/1
-> CONTEXT: Map154/events/4/pages/1/94/Choice/1
-> CONTEXT: Map153/events/2/pages/3/297/Choice/1
-> CONTEXT: Map153/events/7/pages/1/6/Choice/1
-> CONTEXT: Map153/events/7/pages/1/31/Choice/1
-> CONTEXT: Map153/events/8/pages/1/6/Choice/1
-> CONTEXT: Map153/events/8/pages/1/31/Choice/1
-> CONTEXT: Map153/events/10/pages/1/6/Choice/1
-> CONTEXT: Map153/events/10/pages/1/31/Choice/1
-> CONTEXT: Map134/events/10/pages/0/182/Choice/1
-> CONTEXT: Map134/events/10/pages/1/174/Choice/1
-> CONTEXT: Map133/events/1/pages/1/4/Choice/1
-> CONTEXT: Map133/events/2/pages/1/4/Choice/1
-> CONTEXT: Map133/events/3/pages/1/4/Choice/1
-> CONTEXT: Map134/events/10/pages/2/147/Choice/1
-> CONTEXT: Map153/events/16/pages/3/298/Choice/1
-> CONTEXT: Map131/events/5/pages/1/92/Choice/1
-> CONTEXT: Map125/events/4/pages/1/6/Choice/1
-> CONTEXT: Map125/events/4/pages/1/31/Choice/1
-> CONTEXT: Map153/events/17/pages/3/298/Choice/1
-> CONTEXT: Map131/events/8/pages/1/92/Choice/1
-> CONTEXT: Map125/events/4/pages/2/6/Choice/1
-> CONTEXT: Map125/events/4/pages/2/31/Choice/1
-> CONTEXT: Map125/events/5/pages/1/6/Choice/1
-> CONTEXT: Map125/events/5/pages/1/31/Choice/1
-> CONTEXT: Map125/events/5/pages/2/6/Choice/1
-> CONTEXT: Map125/events/5/pages/2/31/Choice/1
-> CONTEXT: Map122/events/5/pages/0/166/Choice/1
-> CONTEXT: Map125/events/6/pages/1/6/Choice/1
-> CONTEXT: Map125/events/6/pages/1/31/Choice/1
-> CONTEXT: Map125/events/6/pages/2/6/Choice/1
-> CONTEXT: Map125/events/6/pages/2/31/Choice/1
-> CONTEXT: Map121/events/5/pages/0/185/Choice/1
-> CONTEXT: Map125/events/8/pages/0/2/Choice/1
-> CONTEXT: Map120/events/5/pages/0/242/Choice/1
-> CONTEXT: Map131/events/9/pages/1/92/Choice/1
-> CONTEXT: Map119/events/5/pages/0/171/Choice/1
-> CONTEXT: Map131/events/10/pages/0/6/Choice/1
-> CONTEXT: Map131/events/10/pages/0/31/Choice/1
-> CONTEXT: Map131/events/11/pages/0/6/Choice/1
-> CONTEXT: Map131/events/11/pages/0/31/Choice/1
-> CONTEXT: Map131/events/12/pages/0/6/Choice/1
-> CONTEXT: Map131/events/12/pages/0/31/Choice/1
-> CONTEXT: Map131/events/16/pages/0/2/Choice/1
-> CONTEXT: Map111/events/7/pages/1/4/Choice/1
-> CONTEXT: Map107/events/6/pages/1/4/Choice/1
-> CONTEXT: Map101/events/15/pages/0/38/Choice/1
-> CONTEXT: Map101/events/16/pages/0/38/Choice/1
-> CONTEXT: Map101/events/17/pages/0/38/Choice/1
-> CONTEXT: Map094/events/1/pages/0/96/Choice/1
-> CONTEXT: Map094/events/4/pages/1/20/Choice/1
-> CONTEXT: Map094/events/4/pages/1/80/Choice/1
-> CONTEXT: Map094/events/4/pages/1/127/Choice/1
-> CONTEXT: Map094/events/4/pages/1/173/Choice/1
-> CONTEXT: Map094/events/4/pages/1/218/Choice/1
-> CONTEXT: Map094/events/4/pages/1/263/Choice/1
-> CONTEXT: Map094/events/4/pages/1/308/Choice/1
-> CONTEXT: Map094/events/4/pages/1/364/Choice/1
-> CONTEXT: Map085/events/5/pages/0/178/Choice/1
-> CONTEXT: Map094/events/7/pages/0/21/Choice/1
-> CONTEXT: Map097/events/7/pages/1/6/Choice/1
-> CONTEXT: Map097/events/7/pages/1/32/Choice/1
-> CONTEXT: Map097/events/7/pages/2/6/Choice/1
-> CONTEXT: Map097/events/7/pages/2/32/Choice/1
-> CONTEXT: Map082/events/7/pages/0/141/Choice/1
-> CONTEXT: Map082/events/7/pages/1/146/Choice/1
-> CONTEXT: Map097/events/9/pages/1/6/Choice/1
-> CONTEXT: Map097/events/9/pages/1/32/Choice/1
-> CONTEXT: Map097/events/9/pages/2/6/Choice/1
-> CONTEXT: Map080/events/5/pages/0/215/Choice/1
-> CONTEXT: Map097/events/9/pages/2/32/Choice/1
-> CONTEXT: Map097/events/10/pages/1/6/Choice/1
-> CONTEXT: Map097/events/10/pages/1/32/Choice/1
-> CONTEXT: Map097/events/10/pages/2/6/Choice/1
-> CONTEXT: Map097/events/10/pages/2/32/Choice/1
-> CONTEXT: Map075/events/4/pages/1/20/Choice/1
-> CONTEXT: Map071/events/1/pages/0/188/Choice/1
-> CONTEXT: Map075/events/4/pages/1/79/Choice/1
-> CONTEXT: Map070/events/5/pages/0/176/Choice/1
-> CONTEXT: Map075/events/4/pages/1/122/Choice/1
-> CONTEXT: Map075/events/4/pages/1/168/Choice/1
-> CONTEXT: Map075/events/4/pages/1/214/Choice/1
-> CONTEXT: Map075/events/4/pages/1/261/Choice/1
-> CONTEXT: Map075/events/4/pages/1/307/Choice/1
-> CONTEXT: Map075/events/4/pages/1/352/Choice/1
-> CONTEXT: Map075/events/4/pages/1/397/Choice/1
-> CONTEXT: Map075/events/4/pages/1/442/Choice/1
-> CONTEXT: Map075/events/4/pages/1/488/Choice/1
-> CONTEXT: Map075/events/4/pages/1/544/Choice/1
-> CONTEXT: Map075/events/4/pages/1/600/Choice/1
-> CONTEXT: Map062/events/5/pages/0/164/Choice/1
-> CONTEXT: Map066/events/19/pages/0/6/Choice/1
-> CONTEXT: Map066/events/19/pages/0/32/Choice/1
-> CONTEXT: Map066/events/23/pages/0/6/Choice/1
-> CONTEXT: Map066/events/23/pages/0/32/Choice/1
-> CONTEXT: Map066/events/24/pages/0/6/Choice/1
-> CONTEXT: Map066/events/24/pages/0/32/Choice/1
-> CONTEXT: Map050/events/56/pages/1/6/Choice/1
-> CONTEXT: Map050/events/56/pages/1/33/Choice/1
-> CONTEXT: Map050/events/56/pages/2/6/Choice/1
-> CONTEXT: Map050/events/56/pages/2/31/Choice/1
-> CONTEXT: Map050/events/56/pages/3/6/Choice/1
-> CONTEXT: Map050/events/56/pages/3/31/Choice/1
-> CONTEXT: Map041/events/5/pages/0/178/Choice/1
-> CONTEXT: Map042/events/5/pages/0/219/Choice/1
-> CONTEXT: Map050/events/58/pages/1/6/Choice/1
-> CONTEXT: Map050/events/58/pages/1/33/Choice/1
-> CONTEXT: Map038/events/4/pages/0/554/Choice/1
-> CONTEXT: Map050/events/58/pages/2/6/Choice/1
-> CONTEXT: Map050/events/58/pages/2/31/Choice/1
-> CONTEXT: Map050/events/58/pages/3/6/Choice/1
-> CONTEXT: Map050/events/58/pages/3/31/Choice/1
-> CONTEXT: Map050/events/59/pages/1/6/Choice/1
-> CONTEXT: Map050/events/59/pages/1/33/Choice/1
-> CONTEXT: Map050/events/59/pages/2/6/Choice/1
-> CONTEXT: Map050/events/59/pages/2/31/Choice/1
-> CONTEXT: Map050/events/59/pages/3/6/Choice/1
-> CONTEXT: Map050/events/59/pages/3/31/Choice/1
-> CONTEXT: Map030/events/1/pages/0/22/Choice/1
-> CONTEXT: Map030/events/1/pages/0/41/Choice/1
-> CONTEXT: Map030/events/1/pages/0/60/Choice/1
-> CONTEXT: Map030/events/1/pages/0/80/Choice/1
-> CONTEXT: Map028/events/2/pages/0/41/Choice/1
-> CONTEXT: Map030/events/1/pages/0/105/Choice/1
-> CONTEXT: Map030/events/1/pages/0/124/Choice/1
-> CONTEXT: Map027/events/5/pages/0/231/Choice/1
-> CONTEXT: Map030/events/1/pages/0/144/Choice/1
-> CONTEXT: Map028/events/2/pages/1/27/Choice/1
-> CONTEXT: Map028/events/2/pages/1/44/Choice/1
-> CONTEXT: Map030/events/1/pages/0/169/Choice/1
-> CONTEXT: Map030/events/1/pages/0/195/Choice/1
-> CONTEXT: Map030/events/1/pages/0/215/Choice/1
-> CONTEXT: Map030/events/1/pages/0/246/Choice/1
-> CONTEXT: Map030/events/1/pages/0/278/Choice/1
-> CONTEXT: Map030/events/1/pages/0/313/Choice/1
-> CONTEXT: Map018/events/2/pages/0/36/Choice/1
-> CONTEXT: Map018/events/2/pages/0/51/Choice/1
-> CONTEXT: Map018/events/2/pages/0/66/Choice/1
-> CONTEXT: Map019/events/5/pages/0/155/Choice/1
-> CONTEXT: Map018/events/2/pages/0/87/Choice/1
-> CONTEXT: Map018/events/2/pages/0/121/Choice/1
-> CONTEXT: Map018/events/2/pages/0/137/Choice/1
-> CONTEXT: Map007/events/26/pages/1/53/Choice/1
-> CONTEXT: Map007/events/26/pages/2/174/Choice/1
-> CONTEXT: Map007/events/26/pages/3/177/Choice/1
-> CONTEXT: Map007/events/26/pages/4/76/Choice/1
-> CONTEXT: Map002/events/1/pages/0/344/Choice/1
-> CONTEXT: Map002/events/1/pages/0/360/Choice/1
-> CONTEXT: Map002/events/1/pages/0/376/Choice/1
-> CONTEXT: Map002/events/1/pages/0/428/Choice/1
-> CONTEXT: Map002/events/1/pages/0/444/Choice/1
-> CONTEXT: Map002/events/1/pages/0/460/Choice/1
-> CONTEXT: Map002/events/1/pages/0/504/Choice/1
-> CONTEXT: Map002/events/1/pages/0/520/Choice/1
-> CONTEXT: Map002/events/1/pages/0/572/Choice/1
-> CONTEXT: Map002/events/1/pages/0/588/Choice/1
-> CONTEXT: Map002/events/1/pages/0/604/Choice/1
-> CONTEXT: Map002/events/1/pages/0/652/Choice/1
-> CONTEXT: Map003/events/2/pages/2/46/Choice/1
-> CONTEXT: Map002/events/1/pages/0/668/Choice/1
-> CONTEXT: Map003/events/2/pages/2/61/Choice/1
-> CONTEXT: Map003/events/2/pages/2/76/Choice/1
-> CONTEXT: Map002/events/1/pages/0/712/Choice/1
-> CONTEXT: Map003/events/2/pages/2/97/Choice/1
-> CONTEXT: Map002/events/1/pages/0/728/Choice/1
-> CONTEXT: Map014/events/112/pages/0/18/Choice/1
-> CONTEXT: Map002/events/1/pages/0/788/Choice/1
-> CONTEXT: Map003/events/2/pages/2/145/Choice/1
-> CONTEXT: Map002/events/1/pages/0/804/Choice/1
-> CONTEXT: Map003/events/2/pages/2/162/Choice/1
-> CONTEXT: Map002/events/1/pages/0/820/Choice/1
-> CONTEXT: Map003/events/2/pages/2/179/Choice/1
-> CONTEXT: Map003/events/2/pages/2/196/Choice/1
-> CONTEXT: Map002/events/1/pages/0/880/Choice/1
-> CONTEXT: Map003/events/2/pages/2/217/Choice/1
-> CONTEXT: Map002/events/1/pages/0/896/Choice/1
-> CONTEXT: Map003/events/2/pages/2/234/Choice/1
-> CONTEXT: Map002/events/1/pages/0/912/Choice/1
-> CONTEXT: Map003/events/2/pages/2/251/Choice/1
-> CONTEXT: Map002/events/1/pages/0/928/Choice/1
-> CONTEXT: Map003/events/2/pages/2/268/Choice/1
-> CONTEXT: Map003/events/2/pages/2/289/Choice/1
-> CONTEXT: Map002/events/1/pages/0/976/Choice/1
-> CONTEXT: Map003/events/2/pages/2/306/Choice/1
-> CONTEXT: Map002/events/1/pages/0/992/Choice/1
-> CONTEXT: Map003/events/2/pages/2/323/Choice/1
-> CONTEXT: Map003/events/2/pages/2/340/Choice/1
-> CONTEXT: Map002/events/1/pages/0/1052/Choice/1
-> CONTEXT: Map002/events/1/pages/0/1068/Choice/1
-> CONTEXT: Map002/events/1/pages/0/1084/Choice/1
-> CONTEXT: Map003/events/2/pages/5/46/Choice/1
-> CONTEXT: Map002/events/1/pages/0/1100/Choice/1
-> CONTEXT: Map003/events/2/pages/5/61/Choice/1
-> CONTEXT: Map003/events/2/pages/5/76/Choice/1
-> CONTEXT: Map002/events/1/pages/0/1152/Choice/1
-> CONTEXT: Map003/events/2/pages/5/97/Choice/1
-> CONTEXT: Map002/events/1/pages/0/1184/Choice/1
-> CONTEXT: Map002/events/1/pages/0/1200/Choice/1
-> CONTEXT: Map003/events/2/pages/5/145/Choice/1
-> CONTEXT: Map003/events/2/pages/5/162/Choice/1
-> CONTEXT: Map002/events/1/pages/0/1244/Choice/1
-> CONTEXT: Map003/events/2/pages/5/179/Choice/1
-> CONTEXT: Map002/events/1/pages/0/1276/Choice/1
-> CONTEXT: Map003/events/2/pages/5/196/Choice/1
-> CONTEXT: Map003/events/2/pages/5/217/Choice/1
-> CONTEXT: Map002/events/1/pages/0/1324/Choice/1
-> CONTEXT: Map003/events/2/pages/5/234/Choice/1
-> CONTEXT: Map002/events/1/pages/0/1340/Choice/1
-> CONTEXT: Map003/events/2/pages/5/251/Choice/1
-> CONTEXT: Map003/events/2/pages/5/268/Choice/1
-> CONTEXT: Map002/events/1/pages/0/1376/Choice/1
-> CONTEXT: Map003/events/2/pages/5/289/Choice/1
-> CONTEXT: Map003/events/2/pages/5/306/Choice/1
-> CONTEXT: Map002/events/1/pages/0/1428/Choice/1
-> CONTEXT: Map003/events/2/pages/5/323/Choice/1
-> CONTEXT: Map002/events/1/pages/0/1444/Choice/1
-> CONTEXT: Map003/events/2/pages/5/340/Choice/1
-> CONTEXT: Map002/events/1/pages/0/1460/Choice/1
-> CONTEXT: Map003/events/2/pages/5/361/Choice/1
-> CONTEXT: Map002/events/1/pages/0/1496/Choice/1
-> CONTEXT: Map003/events/2/pages/5/378/Choice/1
-> CONTEXT: Map002/events/1/pages/0/1536/Choice/1
-> CONTEXT: Map003/events/6/pages/3/2/Choice/1
-> CONTEXT: Map002/events/1/pages/0/1580/Choice/1
-> CONTEXT: Map002/events/1/pages/0/1612/Choice/1
-> CONTEXT: Map003/events/19/pages/0/153/Choice/1
-> CONTEXT: Commonevents/180/148/Choice/1
-> CONTEXT: Commonevents/180/191/Choice/1
-No#Dargoth
+装備品
+> CONTEXT: Map109/events/109/pages/1/11/Choice/2
+> CONTEXT: Map110/events/110/pages/1/11/Choice/2
+> CONTEXT: Map108/events/103/pages/1/11/Choice/2
+> CONTEXT: Map106/events/59/pages/1/11/Choice/2
+> CONTEXT: Map109/events/109/pages/2/11/Choice/2
+> CONTEXT: Map110/events/110/pages/2/11/Choice/2
+> CONTEXT: Map108/events/103/pages/2/11/Choice/2
+> CONTEXT: Map106/events/59/pages/2/11/Choice/2
+> CONTEXT: Map109/events/109/pages/3/6/Choice/2
+> CONTEXT: Map110/events/110/pages/3/6/Choice/2
+> CONTEXT: Map108/events/103/pages/3/6/Choice/2
+> CONTEXT: Map106/events/59/pages/3/6/Choice/2
+> CONTEXT: Map107/events/10/pages/1/11/Choice/2
+> CONTEXT: Map107/events/10/pages/2/11/Choice/2
+> CONTEXT: Map107/events/10/pages/3/6/Choice/2
+> CONTEXT: Map094/events/11/pages/1/7/Choice/2
+> CONTEXT: Map074/events/40/pages/0/7/Choice/2
+> CONTEXT: Map074/events/40/pages/1/6/Choice/2
+> CONTEXT: Map074/events/40/pages/2/7/Choice/2
+> CONTEXT: Map063/events/72/pages/1/7/Choice/2
+> CONTEXT: Map063/events/72/pages/2/6/Choice/2
+> CONTEXT: Map063/events/72/pages/3/7/Choice/2
+> CONTEXT: Map047/events/40/pages/1/7/Choice/2
+> CONTEXT: Map047/events/40/pages/2/6/Choice/2
+> CONTEXT: Map047/events/40/pages/3/7/Choice/2
+> CONTEXT: Map054/events/11/pages/2/12/Choice/2
+> CONTEXT: Map054/events/11/pages/3/7/Choice/2
+> CONTEXT: Map035/events/14/pages/0/7/Choice/2
+> CONTEXT: Map035/events/14/pages/1/7/Choice/2
+> CONTEXT: Map035/events/14/pages/2/6/Choice/2
+> CONTEXT: Map035/events/14/pages/3/6/Choice/2
+> CONTEXT: Map022/events/1/pages/0/105/Choice/2
+> CONTEXT: Map012/events/8/pages/1/5/Choice/2
+> CONTEXT: Map012/events/8/pages/2/6/Choice/2
+> CONTEXT: Map012/events/8/pages/3/5/Choice/2
+> CONTEXT: Map012/events/8/pages/5/6/Choice/2
+> CONTEXT: Map014/events/14/pages/0/5/Choice/2
+> CONTEXT: Map014/events/14/pages/1/5/Choice/2
+> CONTEXT: Map014/events/14/pages/2/6/Choice/2
+> CONTEXT: Map014/events/14/pages/3/6/Choice/2
+Equipment#Dargoth
 > END STRING
 
 > BEGIN STRING
-これまでの進行状況をセーブしますか？
-> CONTEXT: Map286/events/4/pages/1/29/Dialogue
-> CONTEXT: Map286/events/4/pages/2/29/Dialogue
-> CONTEXT: Map286/events/5/pages/1/29/Dialogue
-> CONTEXT: Map286/events/5/pages/2/29/Dialogue
-> CONTEXT: Map286/events/6/pages/1/29/Dialogue
-> CONTEXT: Map286/events/6/pages/2/29/Dialogue
-> CONTEXT: Map284/events/1/pages/0/110/Dialogue
-> CONTEXT: Map282/events/56/pages/1/31/Dialogue
-> CONTEXT: Map282/events/56/pages/2/29/Dialogue
-> CONTEXT: Map281/events/4/pages/0/257/Dialogue
-> CONTEXT: Map282/events/56/pages/3/29/Dialogue
-> CONTEXT: Map285/events/7/pages/1/30/Dialogue
-> CONTEXT: Map282/events/58/pages/1/31/Dialogue
-> CONTEXT: Map285/events/7/pages/2/30/Dialogue
-> CONTEXT: Map282/events/58/pages/2/29/Dialogue
-> CONTEXT: Map283/events/19/pages/0/30/Dialogue
-> CONTEXT: Map282/events/58/pages/3/29/Dialogue
-> CONTEXT: Map283/events/23/pages/0/30/Dialogue
-> CONTEXT: Map282/events/59/pages/1/31/Dialogue
-> CONTEXT: Map283/events/24/pages/0/30/Dialogue
-> CONTEXT: Map282/events/59/pages/2/29/Dialogue
-> CONTEXT: Map285/events/9/pages/1/30/Dialogue
-> CONTEXT: Map282/events/59/pages/3/29/Dialogue
-> CONTEXT: Map285/events/9/pages/2/30/Dialogue
-> CONTEXT: Map285/events/10/pages/1/30/Dialogue
-> CONTEXT: Map285/events/10/pages/2/30/Dialogue
-> CONTEXT: Map278/events/26/pages/1/51/Dialogue
-> CONTEXT: Map278/events/26/pages/2/172/Dialogue
-> CONTEXT: Map272/events/1/pages/0/157/Dialogue
-> CONTEXT: Map278/events/26/pages/3/175/Dialogue
-> CONTEXT: Map278/events/26/pages/4/74/Dialogue
-> CONTEXT: Map189/events/1/pages/0/294/Dialogue
-> CONTEXT: Map188/events/56/pages/1/31/Dialogue
-> CONTEXT: Map188/events/56/pages/2/29/Dialogue
-> CONTEXT: Map188/events/56/pages/3/29/Dialogue
-> CONTEXT: Map188/events/58/pages/1/31/Dialogue
-> CONTEXT: Map188/events/58/pages/2/29/Dialogue
-> CONTEXT: Map188/events/58/pages/3/29/Dialogue
-> CONTEXT: Map188/events/59/pages/1/31/Dialogue
-> CONTEXT: Map188/events/59/pages/2/29/Dialogue
-> CONTEXT: Map188/events/59/pages/3/29/Dialogue
-> CONTEXT: Map159/events/3/pages/1/29/Dialogue
-> CONTEXT: Map159/events/3/pages/2/29/Dialogue
-> CONTEXT: Map154/events/4/pages/0/191/Dialogue
-> CONTEXT: Map154/events/4/pages/1/92/Dialogue
-> CONTEXT: Map153/events/2/pages/3/295/Dialogue
-> CONTEXT: Map153/events/7/pages/1/29/Dialogue
-> CONTEXT: Map153/events/8/pages/1/29/Dialogue
-> CONTEXT: Map153/events/10/pages/1/29/Dialogue
-> CONTEXT: Map134/events/10/pages/0/180/Dialogue
-> CONTEXT: Map134/events/10/pages/1/172/Dialogue
-> CONTEXT: Map134/events/10/pages/2/145/Dialogue
-> CONTEXT: Map153/events/16/pages/3/296/Dialogue
-> CONTEXT: Map131/events/5/pages/1/90/Dialogue
-> CONTEXT: Map125/events/4/pages/1/29/Dialogue
-> CONTEXT: Map153/events/17/pages/3/296/Dialogue
-> CONTEXT: Map131/events/8/pages/1/90/Dialogue
-> CONTEXT: Map125/events/4/pages/2/29/Dialogue
-> CONTEXT: Map125/events/5/pages/1/29/Dialogue
-> CONTEXT: Map125/events/5/pages/2/29/Dialogue
-> CONTEXT: Map125/events/6/pages/1/29/Dialogue
-> CONTEXT: Map125/events/6/pages/2/29/Dialogue
-> CONTEXT: Map131/events/9/pages/1/90/Dialogue
-> CONTEXT: Map131/events/10/pages/0/29/Dialogue
-> CONTEXT: Map131/events/11/pages/0/29/Dialogue
-> CONTEXT: Map131/events/12/pages/0/29/Dialogue
-> CONTEXT: Map097/events/7/pages/1/30/Dialogue
-> CONTEXT: Map097/events/7/pages/2/30/Dialogue
-> CONTEXT: Map082/events/7/pages/0/139/Dialogue
-> CONTEXT: Map082/events/7/pages/1/144/Dialogue
-> CONTEXT: Map097/events/9/pages/1/30/Dialogue
-> CONTEXT: Map097/events/9/pages/2/30/Dialogue
-> CONTEXT: Map097/events/10/pages/1/30/Dialogue
-> CONTEXT: Map097/events/10/pages/2/30/Dialogue
-> CONTEXT: Map066/events/19/pages/0/30/Dialogue
-> CONTEXT: Map066/events/23/pages/0/30/Dialogue
-> CONTEXT: Map066/events/24/pages/0/30/Dialogue
-> CONTEXT: Map050/events/56/pages/1/31/Dialogue
-> CONTEXT: Map050/events/56/pages/2/29/Dialogue
-> CONTEXT: Map050/events/56/pages/3/29/Dialogue
-> CONTEXT: Map050/events/58/pages/1/31/Dialogue
-> CONTEXT: Map038/events/4/pages/0/552/Dialogue
-> CONTEXT: Map050/events/58/pages/2/29/Dialogue
-> CONTEXT: Map050/events/58/pages/3/29/Dialogue
-> CONTEXT: Map050/events/59/pages/1/31/Dialogue
-> CONTEXT: Map050/events/59/pages/2/29/Dialogue
-> CONTEXT: Map050/events/59/pages/3/29/Dialogue
-> CONTEXT: Map007/events/26/pages/1/51/Dialogue
-> CONTEXT: Map007/events/26/pages/2/172/Dialogue
-> CONTEXT: Map007/events/26/pages/3/175/Dialogue
-> CONTEXT: Map007/events/26/pages/4/74/Dialogue
-> CONTEXT: Map014/events/112/pages/0/16/Dialogue
-Save your progress up to this point?#Dargoth
-> END STRING
-
-> SHORTENED: Map288.txt
-
-> BEGIN STRING
-休憩する【所持ハーブ\\v[5]個】en(v[5] \>= 1)
-> CONTEXT: Map288/events/4/pages/0/4/Choice/0
-> CONTEXT: Map274/events/8/pages/0/4/Choice/0
-> CONTEXT: Map193/events/27/pages/0/4/Choice/0
-> CONTEXT: Map192/events/8/pages/0/4/Choice/0
-> CONTEXT: Map187/events/26/pages/0/4/Choice/0
-> CONTEXT: Map163/events/8/pages/0/4/Choice/0
-> CONTEXT: Map158/events/8/pages/0/4/Choice/0
-> CONTEXT: Map157/events/8/pages/0/4/Choice/0
-> CONTEXT: Map155/events/8/pages/0/4/Choice/0
-> CONTEXT: Map152/events/4/pages/0/4/Choice/0
-> CONTEXT: Map141/events/8/pages/0/4/Choice/0
-> CONTEXT: Map136/events/9/pages/0/4/Choice/0
-> CONTEXT: Map135/events/9/pages/0/4/Choice/0
-> CONTEXT: Map123/events/8/pages/0/4/Choice/0
-> CONTEXT: Map117/events/8/pages/0/4/Choice/0
-> CONTEXT: Map100/events/8/pages/0/4/Choice/0
-> CONTEXT: Map094/events/8/pages/0/4/Choice/0
-> CONTEXT: Map076/events/8/pages/2/4/Choice/0
-> CONTEXT: Map065/events/26/pages/0/4/Choice/0
-> CONTEXT: Map064/events/8/pages/0/4/Choice/0
-> CONTEXT: Map053/events/8/pages/0/4/Choice/0
-> CONTEXT: Map048/events/8/pages/0/4/Choice/0
-> CONTEXT: Map036/events/8/pages/2/4/Choice/0
-> CONTEXT: Map022/events/2/pages/2/4/Choice/0
-> CONTEXT: Map015/events/8/pages/2/4/Choice/0
-> CONTEXT: Map011/events/6/pages/2/4/Choice/0
-Take a break [Herbs: \\v[5]] en(v[5] \>= 1)#Dargoth
+その他
+> CONTEXT: Map280/events/14/pages/0/7/Choice/3
+> CONTEXT: Map280/events/14/pages/1/7/Choice/3
+> CONTEXT: Map280/events/14/pages/2/6/Choice/3
+> CONTEXT: Map280/events/14/pages/3/6/Choice/3
+> CONTEXT: Map274/events/14/pages/0/0/Choice/2
+> CONTEXT: Map261/events/40/pages/1/7/Choice/3
+> CONTEXT: Map261/events/40/pages/2/6/Choice/3
+> CONTEXT: Map261/events/40/pages/3/7/Choice/3
+> CONTEXT: Map263/events/11/pages/2/12/Choice/3
+> CONTEXT: Map263/events/11/pages/3/7/Choice/3
+> CONTEXT: Map193/events/42/pages/0/0/Choice/2
+> CONTEXT: Map190/events/1/pages/0/0/Choice/2
+> CONTEXT: Map174/events/14/pages/0/0/Choice/2
+> CONTEXT: Map163/events/14/pages/0/0/Choice/2
+> CONTEXT: Map157/events/9/pages/0/0/Choice/2
+> CONTEXT: Map155/events/11/pages/0/0/Choice/2
+> CONTEXT: Map158/events/14/pages/0/0/Choice/2
+> CONTEXT: Map141/events/14/pages/0/0/Choice/2
+> CONTEXT: Map136/events/11/pages/0/0/Choice/2
+> CONTEXT: Map110/events/110/pages/1/11/Choice/3
+> CONTEXT: Map109/events/109/pages/1/11/Choice/3
+> CONTEXT: Map108/events/103/pages/1/11/Choice/3
+> CONTEXT: Map106/events/59/pages/1/11/Choice/3
+> CONTEXT: Map110/events/110/pages/2/11/Choice/3
+> CONTEXT: Map109/events/109/pages/2/11/Choice/3
+> CONTEXT: Map108/events/103/pages/2/11/Choice/3
+> CONTEXT: Map106/events/59/pages/2/11/Choice/3
+> CONTEXT: Map110/events/110/pages/3/6/Choice/3
+> CONTEXT: Map109/events/109/pages/3/6/Choice/3
+> CONTEXT: Map108/events/103/pages/3/6/Choice/3
+> CONTEXT: Map106/events/59/pages/3/6/Choice/3
+> CONTEXT: Map107/events/10/pages/1/11/Choice/3
+> CONTEXT: Map107/events/10/pages/2/11/Choice/3
+> CONTEXT: Map107/events/10/pages/3/6/Choice/3
+> CONTEXT: Map094/events/11/pages/1/7/Choice/3
+> CONTEXT: Map074/events/40/pages/0/7/Choice/3
+> CONTEXT: Map074/events/40/pages/1/6/Choice/3
+> CONTEXT: Map074/events/40/pages/2/7/Choice/3
+> CONTEXT: Map063/events/72/pages/1/7/Choice/3
+> CONTEXT: Map063/events/72/pages/2/6/Choice/3
+> CONTEXT: Map063/events/72/pages/3/7/Choice/3
+> CONTEXT: Map047/events/40/pages/1/7/Choice/3
+> CONTEXT: Map047/events/40/pages/2/6/Choice/3
+> CONTEXT: Map047/events/40/pages/3/7/Choice/3
+> CONTEXT: Map054/events/11/pages/2/12/Choice/3
+> CONTEXT: Map035/events/14/pages/0/7/Choice/3
+> CONTEXT: Map054/events/11/pages/3/7/Choice/3
+> CONTEXT: Map035/events/14/pages/1/7/Choice/3
+> CONTEXT: Map035/events/14/pages/2/6/Choice/3
+> CONTEXT: Map035/events/14/pages/3/6/Choice/3
+> CONTEXT: Map022/events/1/pages/0/105/Choice/3
+> CONTEXT: Map012/events/8/pages/1/5/Choice/3
+> CONTEXT: Map012/events/8/pages/2/6/Choice/3
+> CONTEXT: Map012/events/8/pages/3/5/Choice/3
+> CONTEXT: Map012/events/8/pages/5/6/Choice/3
+> CONTEXT: Map014/events/14/pages/0/5/Choice/3
+> CONTEXT: Map014/events/14/pages/1/5/Choice/3
+> CONTEXT: Map014/events/14/pages/2/6/Choice/3
+> CONTEXT: Map014/events/14/pages/3/6/Choice/3
+Other#Dargoth
 > END STRING
 
 > BEGIN STRING
-何もしない
-> CONTEXT: Map288/events/4/pages/0/4/Choice/1
-> CONTEXT: Map283/events/25/pages/1/3/Choice/1
-> CONTEXT: Map283/events/25/pages/2/3/Choice/1
-> CONTEXT: Map278/events/12/pages/2/6/Choice/0
-> CONTEXT: Map278/events/13/pages/2/6/Choice/0
-> CONTEXT: Map274/events/5/pages/0/3/Choice/1
-> CONTEXT: Map274/events/8/pages/0/4/Choice/1
-> CONTEXT: Map193/events/25/pages/0/3/Choice/1
-> CONTEXT: Map193/events/27/pages/0/4/Choice/1
-> CONTEXT: Map192/events/8/pages/0/4/Choice/1
-> CONTEXT: Map187/events/26/pages/0/4/Choice/1
-> CONTEXT: Map163/events/5/pages/0/3/Choice/1
-> CONTEXT: Map163/events/8/pages/0/4/Choice/1
-> CONTEXT: Map158/events/5/pages/0/3/Choice/1
-> CONTEXT: Map158/events/8/pages/0/4/Choice/1
-> CONTEXT: Map157/events/5/pages/0/3/Choice/1
-> CONTEXT: Map155/events/5/pages/0/3/Choice/1
-> CONTEXT: Map157/events/8/pages/0/4/Choice/1
-> CONTEXT: Map155/events/8/pages/0/4/Choice/1
-> CONTEXT: Map152/events/4/pages/0/4/Choice/1
-> CONTEXT: Map143/events/11/pages/0/10/Choice/1
-> CONTEXT: Map141/events/5/pages/0/3/Choice/1
-> CONTEXT: Map143/events/17/pages/0/10/Choice/1
-> CONTEXT: Map141/events/8/pages/0/4/Choice/1
-> CONTEXT: Map138/events/3/pages/0/10/Choice/1
-> CONTEXT: Map136/events/9/pages/0/4/Choice/1
-> CONTEXT: Map135/events/5/pages/0/3/Choice/1
-> CONTEXT: Map135/events/9/pages/0/4/Choice/1
-> CONTEXT: Map130/events/3/pages/0/10/Choice/1
-> CONTEXT: Map123/events/5/pages/0/3/Choice/1
-> CONTEXT: Map123/events/8/pages/0/4/Choice/1
-> CONTEXT: Map118/events/11/pages/0/21/Choice/0
-> CONTEXT: Map117/events/8/pages/0/4/Choice/1
-> CONTEXT: Map105/events/11/pages/0/10/Choice/1
-> CONTEXT: Map105/events/17/pages/0/10/Choice/1
-> CONTEXT: Map100/events/5/pages/0/3/Choice/1
-> CONTEXT: Map100/events/8/pages/0/4/Choice/1
-> CONTEXT: Map094/events/7/pages/0/4/Choice/0
-> CONTEXT: Map094/events/8/pages/0/4/Choice/1
-> CONTEXT: Map094/events/9/pages/0/3/Choice/1
-> CONTEXT: Map076/events/5/pages/1/3/Choice/1
-> CONTEXT: Map076/events/5/pages/2/3/Choice/1
-> CONTEXT: Map076/events/8/pages/2/4/Choice/1
-> CONTEXT: Map065/events/26/pages/0/4/Choice/1
-> CONTEXT: Map064/events/5/pages/1/3/Choice/1
-> CONTEXT: Map064/events/5/pages/2/3/Choice/1
-> CONTEXT: Map064/events/8/pages/0/4/Choice/1
-> CONTEXT: Map066/events/25/pages/1/3/Choice/1
-> CONTEXT: Map066/events/25/pages/2/3/Choice/1
-> CONTEXT: Map053/events/5/pages/1/3/Choice/1
-> CONTEXT: Map053/events/5/pages/2/3/Choice/1
-> CONTEXT: Map053/events/8/pages/0/4/Choice/1
-> CONTEXT: Map048/events/5/pages/1/3/Choice/1
-> CONTEXT: Map048/events/5/pages/2/3/Choice/1
-> CONTEXT: Map048/events/8/pages/0/4/Choice/1
-> CONTEXT: Map036/events/5/pages/1/3/Choice/1
-> CONTEXT: Map036/events/5/pages/2/3/Choice/1
-> CONTEXT: Map036/events/8/pages/2/4/Choice/1
-> CONTEXT: Map032/events/8/pages/0/3/Choice/1
-> CONTEXT: Map032/events/8/pages/1/3/Choice/1
-> CONTEXT: Map022/events/2/pages/2/4/Choice/1
-> CONTEXT: Map022/events/17/pages/0/3/Choice/1
-> CONTEXT: Map015/events/5/pages/1/3/Choice/1
-> CONTEXT: Map015/events/5/pages/2/3/Choice/1
-> CONTEXT: Map015/events/8/pages/2/4/Choice/1
-> CONTEXT: Map013/events/5/pages/1/4/Choice/0
-> CONTEXT: Map013/events/5/pages/2/4/Choice/0
-> CONTEXT: Map011/events/6/pages/2/4/Choice/1
-> CONTEXT: Map012/events/5/pages/3/2/Choice/0
-> CONTEXT: Map007/events/12/pages/2/6/Choice/0
-> CONTEXT: Map007/events/13/pages/2/6/Choice/0
-> CONTEXT: Map011/events/16/pages/1/3/Choice/1
-> CONTEXT: Map011/events/16/pages/2/3/Choice/1
-> CONTEXT: Commonevents/294/32/Choice/1
-> CONTEXT: Commonevents/294/58/Choice/1
-Nothing#Dargoth
+…………
+
+何か用かい？
+> CONTEXT: Map109/events/109/pages/3/0/Dialogue
+> CONTEXT: Map110/events/110/pages/3/0/Dialogue
+> CONTEXT: Map108/events/103/pages/3/0/Dialogue
+> CONTEXT: Map106/events/59/pages/3/0/Dialogue
+> CONTEXT: Map107/events/10/pages/3/0/Dialogue
+> CONTEXT: Map074/events/40/pages/1/0/Dialogue
+> CONTEXT: Map063/events/72/pages/2/0/Dialogue
+> CONTEXT: Map047/events/40/pages/2/0/Dialogue
+> CONTEXT: Map035/events/14/pages/2/0/Dialogue
+> CONTEXT: Map035/events/14/pages/3/0/Dialogue
+> CONTEXT: Map012/events/8/pages/2/0/Dialogue
+> CONTEXT: Map012/events/8/pages/5/0/Dialogue
+> CONTEXT: Map014/events/14/pages/2/0/Dialogue
+> CONTEXT: Map014/events/14/pages/3/0/Dialogue
+Need something?#Dargoth
+> END STRING
+
+> SHORTENED: Map013.txt
+
+> BEGIN STRING
+死体をどかす
+> CONTEXT: Map013/events/1/pages/0/16/Choice/0
+Move the corpse#Dargoth
+> END STRING
+
+> BEGIN STRING
+今はやめておく
+> CONTEXT: Map013/events/1/pages/0/16/Choice/1
+Leave it alone#Dargoth
+> END STRING
+
+> BEGIN STRING
+飛び降りる
+> CONTEXT: Map013/events/5/pages/1/4/Choice/1
+> CONTEXT: Map013/events/5/pages/2/4/Choice/1
+Jump down#Dargoth
+> END STRING
+
+> SHORTENED: Map018.txt
+
+> BEGIN STRING
+チュートリアル
+> CONTEXT: Map018/events/4/pages/0/0/Choice/0
+Tutorial#Dargoth
+> END STRING
+
+> BEGIN STRING
+開始
+> CONTEXT: Map018/events/4/pages/0/6/Choice/0
+> CONTEXT: Map018/events/4/pages/0/53/Choice/0
+> CONTEXT: Map018/events/4/pages/0/70/Choice/0
+> CONTEXT: Map018/events/4/pages/0/90/Choice/0
+Start#Dargoth
+> END STRING
+
+> BEGIN STRING
+心蝕を消したい【消費２】en(v[102] \>= 2) 
+> CONTEXT: Map018/events/2/pages/0/81/Choice/1
+Remove mind corruption [Cost: 2] en(v[102] \>= 2) #Dargoth
+> END STRING
+
+> SHORTENED: Map019.txt
+
+> BEGIN STRING
+プレゼントする
+> CONTEXT: Map217/events/5/pages/0/31/Choice/3
+> CONTEXT: Map215/events/5/pages/0/31/Choice/3
+> CONTEXT: Map216/events/5/pages/0/248/Choice/0
+> CONTEXT: Map122/events/5/pages/0/33/Choice/3
+> CONTEXT: Map121/events/5/pages/0/31/Choice/3
+> CONTEXT: Map120/events/5/pages/0/182/Choice/0
+> CONTEXT: Map119/events/5/pages/0/24/Choice/3
+> CONTEXT: Map085/events/5/pages/0/31/Choice/3
+> CONTEXT: Map080/events/5/pages/0/141/Choice/0
+> CONTEXT: Map070/events/5/pages/0/50/Choice/3
+> CONTEXT: Map062/events/5/pages/0/31/Choice/3
+> CONTEXT: Map070/events/9/pages/0/170/Choice/0
+> CONTEXT: Map041/events/5/pages/0/31/Choice/3
+> CONTEXT: Map019/events/5/pages/0/29/Choice/3
+Give a present#Dargoth
+> END STRING
+
+> BEGIN STRING
+雑談する en(v[41] \>= 25) 
+> CONTEXT: Map019/events/5/pages/0/29/Choice/0
+Chat en(v[41] \>= 25) #DargothPR
+> END STRING
+
+> BEGIN STRING
+搾精（誘惑）en(v[41] \>= 25) 
+> CONTEXT: Map019/events/5/pages/0/29/Choice/1
+Milking (Temptation) en(v[41] \>= 25) #Dargoth
+> END STRING
+
+> BEGIN STRING
+搾精（騎乗位）en(v[41] \>= 50) 
+> CONTEXT: Map019/events/5/pages/0/29/Choice/2
+Milking (Cowgirl) en(v[41] \>= 50) #Dargoth
+> END STRING
+
+> BEGIN STRING
+心蝕を消すif(v[41] \>= 100) 
+> CONTEXT: Map019/events/5/pages/0/188/Choice/0
+Remove mind corruption if(v[41] \>= 100) #Dargoth
+> END STRING
+
+> BEGIN STRING
+足のケガen(v[41] \>= 30) 
+> CONTEXT: Map019/events/5/pages/1/5/Choice/0
+Foot Injury en(v[41] \>= 30) #Dargoth
+> END STRING
+
+> BEGIN STRING
+【キズナイベント】if(v[41] \>= 99) 
+> CONTEXT: Map019/events/5/pages/1/327/Choice/0
+Bonding Event if(v[41] \>= 99) #Dargoth
+> END STRING
+
+> SHORTENED: Map022.txt
+
+> BEGIN STRING
+買い物がしたい
+> CONTEXT: Map022/events/1/pages/0/84/Choice/1
+Show me your goods#Dargoth
+> END STRING
+
+> SHORTENED: Map027.txt
+
+> BEGIN STRING
+雑談する
+> CONTEXT: Map042/events/5/pages/0/48/Choice/0
+> CONTEXT: Map027/events/5/pages/0/55/Choice/0
+Chat#Dargoth
+> END STRING
+
+> BEGIN STRING
+プレゼントを渡す
+> CONTEXT: Map042/events/5/pages/0/159/Choice/0
+> CONTEXT: Map027/events/5/pages/0/164/Choice/0
+Give a present#Dargoth
+> END STRING
+
+> BEGIN STRING
+搾精（足コキ）en(v[43] \>= 25) 
+> CONTEXT: Map027/events/5/pages/0/55/Choice/1
+Milking (Footjob) en(v[43] \>= 25) #Dargoth
+> END STRING
+
+> BEGIN STRING
+搾精（騎乗位）en(v[43] \>= 50) 
+> CONTEXT: Map027/events/5/pages/0/55/Choice/2
+Milking (Cowgirl) en(v[43] \>= 50) #Dargoth
+> END STRING
+
+> BEGIN STRING
+搾精（抱きしめ）en(v[43] \>=75) 
+> CONTEXT: Map027/events/5/pages/0/55/Choice/3
+Milking (Embrace) en(v[43] \>=75) #Dargoth
+> END STRING
+
+> BEGIN STRING
+心蝕を消すif(v[43] \>= 100) 
+> CONTEXT: Map027/events/5/pages/0/268/Choice/0
+Remove mind corruption if(v[43] \>= 100) #Dargoth
+> END STRING
+
+> BEGIN STRING
+【キズナイベント】if(v[43] \>= 99) 
+> CONTEXT: Map027/events/5/pages/1/276/Choice/0
+Bonding Event if(v[43] \>= 99) #Dargoth
+> END STRING
+
+> SHORTENED: Map028.txt
+
+> BEGIN STRING
+『基本チュートリアル』を開始しますか？
+> CONTEXT: Map028/events/2/pages/0/60/Dialogue
+Begin the Basics Tutorial?#Dargoth
+> END STRING
+
+> BEGIN STRING
+受ける
+> CONTEXT: Map028/events/2/pages/0/62/Choice/0
+Begin Tutorial#Dargoth
+> END STRING
+
+> BEGIN STRING
+スキップする
+> CONTEXT: Map028/events/2/pages/0/62/Choice/1
+Skip Tutorial#Dargoth
+> END STRING
+
+> BEGIN STRING
+……それでは、そろそろ時間となります。
+
+しばしのお別れですが、またいずれ会うことになるでしょう。
+> CONTEXT: Map028/events/2/pages/0/77/Dialogue
+...I see, it's time then.
+
+For now, I'll take my leave.#DargothPR
+> END STRING
+
+> SHORTENED: Map030.txt
+
+> BEGIN STRING
+プロローグ
+> CONTEXT: Map030/events/1/pages/0/16/Choice/0
+Prologue#Dargoth
+> END STRING
+
+> BEGIN STRING
+タイトルに戻る
+> CONTEXT: Map142/events/1/pages/0/17/Choice/3
+> CONTEXT: Map083/events/1/pages/0/17/Choice/3
+> CONTEXT: Map039/events/1/pages/0/15/Choice/3
+> CONTEXT: Map030/events/1/pages/0/308/Choice/0
+Return to title#Dargoth
 > END STRING
 
 > SHORTENED: Scripts.txt
@@ -3575,85 +2573,89 @@ Nothing#Dargoth
 > END STRING
 
 > BEGIN STRING
-""
-> CONTEXT: Scripts/Game_Message/40:18
-> CONTEXT: Scripts/Game_Message/99:19
-> CONTEXT: Scripts/Game_ActionResult/142:7
-> CONTEXT: Scripts/Game_ActionResult/156:7
-> CONTEXT: Scripts/Game_Picture/37:13
-> CONTEXT: Scripts/Game_Picture/116:13
-> CONTEXT: Scripts/Game_Enemy/28:15
-> CONTEXT: Scripts/Game_Enemy/71:42
-> CONTEXT: Scripts/Game_Enemy/159:17
-> CONTEXT: Scripts/Game_Party/131:12
-> CONTEXT: Scripts/Game_BattlerBase/629:12
-> CONTEXT: Scripts/Game_Follower/23:57
-> CONTEXT: Scripts/Game_CharacterBase/52:23
-> CONTEXT: Scripts/Game_Battler/46:21
-> CONTEXT: Scripts/Game_Player/39:54
-> CONTEXT: Scripts/Game_Event/243:25
-> CONTEXT: Scripts/Window_Help/27:14
-> CONTEXT: Scripts/Window_Help/34:40
-> CONTEXT: Scripts/Window_EquipSlot/74:56
-> CONTEXT: Scripts/Window_NameEdit/117:37
-> CONTEXT: Scripts/Window_Base/244:26
-> CONTEXT: Scripts/Window_Base/251:26
-> CONTEXT: Scripts/Window_NameInput/83:42
-> CONTEXT: Scripts/Window_DebugRight/49:12
-> CONTEXT: Scripts/Window_BattleLog/363:16
-> CONTEXT: Scripts/Scene_File/45:12
-> CONTEXT: Scripts/エネミー判別ＡＢＣ無効/28:34
-> CONTEXT: Scripts/立ち絵/255:33
-> CONTEXT: Scripts/立ち絵/274:50
-> CONTEXT: Scripts/立ち絵/277:44
-> CONTEXT: Scripts/立ち絵/280:29
-> CONTEXT: Scripts/セーブ画面カスタマイズ/45:28
-> CONTEXT: Scripts/セーブ画面カスタマイズ/58:28
-> CONTEXT: Scripts/セーブ画面カスタマイズ/304:38
-> CONTEXT: Scripts/足音/88:68
-> CONTEXT: Scripts/ステート前提ステート/73:81
-> CONTEXT: Scripts/悪魔全書【本体】/651:24
-> CONTEXT: Scripts/簡易メッセージ/158:33
-> CONTEXT: Scripts/animation_1.03/55:13
-> CONTEXT: Scripts/animation_1.03/61:17
-> CONTEXT: Scripts/使用者にステート解除/402:80
-> CONTEXT: Scripts/スキル表示/314:17
-> CONTEXT: Scripts/スキルツリー/101:18
-> CONTEXT: Scripts/スキルツリー/104:18
-> CONTEXT: Scripts/スキルツリー/1487:25
-> CONTEXT: Scripts/スキルツリー/1503:12
-> CONTEXT: Scripts/スキルツリー/1517:12
-> CONTEXT: Scripts/スキルツリー/1531:12
-> CONTEXT: Scripts/スキルコスト拡張/1137:12
-> CONTEXT: Scripts/スキルコスト拡張/1139:16
-> CONTEXT: Scripts/スキルコスト拡張/1144:56
-> CONTEXT: Scripts/スキルコスト拡張/1159:18
-> CONTEXT: Scripts/スキルコスト拡張/1163:56
-> CONTEXT: Scripts/スキルコスト拡張/1178:18
-> CONTEXT: Scripts/スキルコスト拡張/1182:56
-> CONTEXT: Scripts/戦闘レイアウト/222:23
-> CONTEXT: Scripts/戦闘レイアウト/835:14
-> CONTEXT: Scripts/戦闘レイアウト/2364:42
-> CONTEXT: Scripts/戦闘レイアウト/2902:29
-> CONTEXT: Scripts/戦闘レイアウト/2978:23
-> CONTEXT: Scripts/戦闘レイアウト/3888:28
-> CONTEXT: Map118/events/4/pages/1/14/InlineScript/1:25
-> CONTEXT: Map118/events/4/pages/2/15/InlineScript/1:25
-> CONTEXT: Map116/events/4/pages/1/14/InlineScript/1:25
-> CONTEXT: Map116/events/4/pages/2/15/InlineScript/1:25
-> CONTEXT: Map105/events/10/pages/6/1/InlineScript/1:25
-> CONTEXT: Map105/events/10/pages/6/3/InlineScript/1:25
-> CONTEXT: Map105/events/10/pages/6/5/InlineScript/1:25
-> CONTEXT: Map105/events/10/pages/6/7/InlineScript/1:25
-> CONTEXT: Map104/events/2/pages/0/4/InlineScript/1:25
-> CONTEXT: Map104/events/2/pages/0/6/InlineScript/1:25
-> CONTEXT: Map104/events/2/pages/0/8/InlineScript/1:25
-> CONTEXT: Map104/events/2/pages/0/10/InlineScript/1:25
-> CONTEXT: Map104/events/4/pages/1/14/InlineScript/1:25
-> CONTEXT: Map102/events/4/pages/1/14/InlineScript/1:25
-> CONTEXT: Map102/events/4/pages/2/15/InlineScript/1:25
-> CONTEXT: Map104/events/4/pages/2/15/InlineScript/1:25
-""#Dargoth
+"特徴"
+> CONTEXT: Scripts/悪魔全書【設定】/111:29
+"Traits"#Dargoth
+> END STRING
+
+> BEGIN STRING
+"経験値"
+> CONTEXT: Scripts/悪魔全書【設定】/119:29
+"XP"#Dargoth
+> END STRING
+
+> BEGIN STRING
+"お金"
+> CONTEXT: Scripts/悪魔全書【設定】/126:29
+"Money"#Dargoth
+> END STRING
+
+> BEGIN STRING
+"ドロップアイテム"
+> CONTEXT: Scripts/悪魔全書【設定】/133:29
+"Item Drops"#Dargoth
+> END STRING
+
+> BEGIN STRING
+"説明"
+> CONTEXT: Scripts/悪魔全書【設定】/141:29
+"Details"#Dargoth
+> END STRING
+
+> BEGIN STRING
+"撃破数"
+> CONTEXT: Scripts/悪魔全書【設定】/149:29
+"Number Killed"#Dargoth
+> END STRING
+
+> BEGIN STRING
+"自動改ページモード"
+> CONTEXT: Scripts/立ち絵/147:74
+"Auto Page Mode"#Dargoth
+> END STRING
+
+> BEGIN STRING
+"所持制限"
+> CONTEXT: Scripts/アイテム個数制限/38:12
+"Carry Limit"#Dargoth
+> END STRING
+
+> BEGIN STRING
+"通常攻撃"
+> CONTEXT: Scripts/スキル表示/47:18
+> CONTEXT: Scripts/スキルツリー/89:38
+> CONTEXT: Scripts/スキルツリー/1485:12
+"Regular Attack"#Dargoth
+> END STRING
+
+> BEGIN STRING
+"- 未習得 -"
+> CONTEXT: Scripts/スキルツリー/1020:35
+"- Unlearned -"#Dargoth
+> END STRING
+
+> BEGIN STRING
+"LR　：アクター切り替え"
+> CONTEXT: Scripts/スキルツリー/1216:78
+"LR　： Change party member"#Dargoth
+> END STRING
+
+> BEGIN STRING
+"←→：項目選択"
+> CONTEXT: Scripts/スキルツリー/1217:78
+"←→： Navigate"#Dargoth
+> END STRING
+
+> BEGIN STRING
+"物理攻撃"
+> CONTEXT: Scripts/スキルツリー/1456:21
+"Physical Attack"#Dargoth
+> END STRING
+
+> BEGIN STRING
+"魔法攻撃"
+> CONTEXT: Scripts/スキルツリー/1457:21
+"Magic Attack"#Dargoth
 > END STRING
 
 > BEGIN STRING
@@ -3687,66 +2689,6 @@ Nothing#Dargoth
 > CONTEXT: Scripts/ロード/44:32
 > CONTEXT: Scripts/ロード/48:17
 "Load"#Dargoth
-> END STRING
-
-> BEGIN STRING
-"特徴"
-> CONTEXT: Scripts/悪魔全書【設定】/111:29
-"Traits"#Dargoth
-> END STRING
-
-> BEGIN STRING
-"経験値"
-> CONTEXT: Scripts/悪魔全書【設定】/119:29
-"XP"#Dargoth
-> END STRING
-
-> BEGIN STRING
-"お金"
-> CONTEXT: Scripts/悪魔全書【設定】/126:29
-"Money"#Dargoth
-> END STRING
-
-> BEGIN STRING
-"ドロップアイテム"
-> CONTEXT: Scripts/悪魔全書【設定】/133:29
-"Item Drops"#Dargoth
-> END STRING
-
-> BEGIN STRING
-"なし"
-> CONTEXT: Scripts/悪魔全書【設定】/134:29
-> CONTEXT: Troops/59/pages/0/2/InlineScript/1:25
-> CONTEXT: Troops/71/pages/0/7/InlineScript/1:25
-> CONTEXT: Troops/72/pages/0/8/InlineScript/1:25
-> CONTEXT: Troops/110/pages/0/16/InlineScript/1:25
-> CONTEXT: Troops/111/pages/0/16/InlineScript/1:25
-> CONTEXT: Troops/112/pages/0/16/InlineScript/1:25
-> CONTEXT: Troops/113/pages/0/16/InlineScript/1:25
-> CONTEXT: Map088/events/1/pages/0/127/InlineScript/1:25
-> CONTEXT: Map067/events/1/pages/0/130/InlineScript/1:25
-> CONTEXT: Map067/events/1/pages/1/129/InlineScript/1:25
-> CONTEXT: Commonevents/342/43/InlineScript/4:1
-> CONTEXT: Commonevents/342/64/InlineScript/4:1
-"None"#Dargoth
-> END STRING
-
-> BEGIN STRING
-"説明"
-> CONTEXT: Scripts/悪魔全書【設定】/141:29
-"Details"#Dargoth
-> END STRING
-
-> BEGIN STRING
-"撃破数"
-> CONTEXT: Scripts/悪魔全書【設定】/149:29
-"Number Killed"#Dargoth
-> END STRING
-
-> BEGIN STRING
-"自動改ページモード"
-> CONTEXT: Scripts/立ち絵/147:74
-"Auto Page Mode"#Dargoth
 > END STRING
 
 > BEGIN STRING
@@ -3787,20 +2729,6 @@ Nothing#Dargoth
 > END STRING
 
 > BEGIN STRING
-"所持制限"
-> CONTEXT: Scripts/アイテム個数制限/38:12
-"Carry Limit"#Dargoth
-> END STRING
-
-> BEGIN STRING
-"通常攻撃"
-> CONTEXT: Scripts/スキル表示/47:18
-> CONTEXT: Scripts/スキルツリー/89:38
-> CONTEXT: Scripts/スキルツリー/1485:12
-"Regular Attack"#Dargoth
-> END STRING
-
-> BEGIN STRING
 "身体能力"
 > CONTEXT: Scripts/スキルツリー/841:17
 "Physical"#Dargoth
@@ -3810,36 +2738,6 @@ Nothing#Dargoth
 "魔法"
 > CONTEXT: Scripts/スキルツリー/842:17
 "Spells"#Dargoth
-> END STRING
-
-> BEGIN STRING
-"- 未習得 -"
-> CONTEXT: Scripts/スキルツリー/1020:35
-"- Unlearned -"#Dargoth
-> END STRING
-
-> BEGIN STRING
-"LR　：アクター切り替え"
-> CONTEXT: Scripts/スキルツリー/1216:78
-"LR　： Change party member"#Dargoth
-> END STRING
-
-> BEGIN STRING
-"←→：項目選択"
-> CONTEXT: Scripts/スキルツリー/1217:78
-"←→： Navigate"#Dargoth
-> END STRING
-
-> BEGIN STRING
-"物理攻撃"
-> CONTEXT: Scripts/スキルツリー/1456:21
-"Physical Attack"#Dargoth
-> END STRING
-
-> BEGIN STRING
-"魔法攻撃"
-> CONTEXT: Scripts/スキルツリー/1457:21
-"Magic Attack"#Dargoth
 > END STRING
 
 > SHORTENED: Skills.txt
@@ -3907,12 +2805,6 @@ and reduces lust.\\C[10] Not recommended when aroused or inserted.#Dargoth
 > CONTEXT: Skills/498/message1/
 > CONTEXT: Skills/507/message1/
  attempts to clear his mind.#Dargoth
-> END STRING
-
-> BEGIN STRING
-深呼吸
-> CONTEXT: Skills/4/name/
-Deep Breathing#Dargoth
 > END STRING
 
 > BEGIN STRING
@@ -4396,13 +3288,6 @@ Energy Drain#Dargoth
 身体の精気も共に奪われていくのを感じる。
 > CONTEXT: Skills/24/message2/
 He feels the life being sucked out of his body as well...#Dargoth
-> END STRING
-
-> BEGIN STRING
---------------------
-> CONTEXT: Skills/25/name/
-> CONTEXT: Skills/79/name/
---------------------#Dargoth
 > END STRING
 
 > BEGIN STRING
@@ -5357,70 +4242,6 @@ Eye Rape#Dargoth
 > END STRING
 
 > BEGIN STRING
-。
-> CONTEXT: Skills/133/description/
-> CONTEXT: Skills/134/description/
-> CONTEXT: Skills/135/description/
-> CONTEXT: Skills/136/description/
-> CONTEXT: Skills/138/description/
-> CONTEXT: Skills/139/description/
-> CONTEXT: Skills/151/description/
-> CONTEXT: Skills/152/description/
-> CONTEXT: Skills/172/description/
-> CONTEXT: Skills/178/description/
-> CONTEXT: Skills/182/description/
-> CONTEXT: Skills/192/description/
-> CONTEXT: Skills/194/description/
-> CONTEXT: Skills/301/description/
-> CONTEXT: Skills/303/description/
-> CONTEXT: Skills/331/description/
-> CONTEXT: Skills/335/description/
-> CONTEXT: Skills/338/description/
-> CONTEXT: Skills/340/description/
-> CONTEXT: Skills/360/description/
-> CONTEXT: Skills/365/description/
-> CONTEXT: Skills/369/description/
-> CONTEXT: Skills/395/description/
-> CONTEXT: Skills/396/description/
-> CONTEXT: Skills/397/description/
-> CONTEXT: Skills/398/description/
-> CONTEXT: Skills/411/description/
-> CONTEXT: Skills/412/description/
-> CONTEXT: Skills/413/description/
-> CONTEXT: Skills/414/description/
-> CONTEXT: Skills/418/description/
-> CONTEXT: Skills/419/description/
-> CONTEXT: Skills/468/description/
-> CONTEXT: Skills/515/description/
-> CONTEXT: Skills/520/description/
-> CONTEXT: Skills/521/description/
-> CONTEXT: Skills/554/description/
-> CONTEXT: Skills/645/description/
-> CONTEXT: Skills/646/description/
-> CONTEXT: Skills/654/description/
-> CONTEXT: Skills/659/description/
-> CONTEXT: Skills/660/description/
-> CONTEXT: Skills/670/description/
-> CONTEXT: Skills/673/description/
-> CONTEXT: Skills/674/description/
-> CONTEXT: Skills/675/description/
-> CONTEXT: Skills/676/description/
-> CONTEXT: Skills/681/description/
-> CONTEXT: Skills/683/description/
-> CONTEXT: Skills/686/description/
-> CONTEXT: Skills/687/description/
-> CONTEXT: Skills/690/description/
-> CONTEXT: Skills/693/description/
-> CONTEXT: Skills/694/description/
-> CONTEXT: Skills/700/description/
-> CONTEXT: Skills/721/description/
-> CONTEXT: Skills/767/description/
-> CONTEXT: Skills/791/description/
-> CONTEXT: Skills/792/description/
-.#Dargoth
-> END STRING
-
-> BEGIN STRING
 は吟味するようないやらしい視線を送った！
 > CONTEXT: Skills/133/message1/
 > CONTEXT: Skills/681/message1/
@@ -5884,12 +4705,6 @@ Feather Shake#Dargoth
 > CONTEXT: Skills/381/message2/
 > CONTEXT: Skills/769/message2/
 Her delicate fingers deftly stimulate his penis...#Dargoth
-> END STRING
-
-> BEGIN STRING
-檻から抜け出す
-> CONTEXT: Skills/164/name/
-Coffin Breakout#Dargoth
 > END STRING
 
 > BEGIN STRING
@@ -6912,26 +5727,203 @@ Increases the caster's physical attack for 3 turns.#Dargoth
 > END STRING
 
 > BEGIN STRING
-スタングレネード
-> CONTEXT: Skills/589/name/
-Stun Grenade#afrg
-> CONTEXT: Items/14/name/
-Stun Grenade#Dargoth
-> END STRING
-
-> BEGIN STRING
-ナイトエッジ
-> CONTEXT: Skills/710/name/
-> CONTEXT: Armors/20/name/
-Night Edge#Dargoth
-> END STRING
-
-> BEGIN STRING
 ３ターンの間、使用者の先制確率を上げる。
 重ね掛け可能。
 > CONTEXT: Skills/750/description/
 Increases the caster's chance of acting first for 3 turns.
 Can overlap duration.#Dargoth
+> END STRING
+
+> BEGIN STRING
+シルフストーム
+> CONTEXT: States/55/name/
+> CONTEXT: Skills/115/name/
+> CONTEXT: Skills/116/name/
+> CONTEXT: Skills/117/name/
+> CONTEXT: Skills/118/name/
+> CONTEXT: Skills/119/name/
+Sylph Storm#Dargoth
+> END STRING
+
+> BEGIN STRING
+クールカーム
+> CONTEXT: States/57/name/
+> CONTEXT: Skills/110/name/
+> CONTEXT: Skills/111/name/
+> CONTEXT: Skills/112/name/
+> CONTEXT: Skills/113/name/
+> CONTEXT: Skills/114/name/
+Cool Calm#Dargoth
+> END STRING
+
+> BEGIN STRING
+空間歪曲（淫乱）
+> CONTEXT: States/70/name/
+> CONTEXT: Skills/203/name/
+> CONTEXT: Skills/256/name/
+Spatial Perversion (Lewd)#Dargoth
+> END STRING
+
+> BEGIN STRING
+空間歪曲（状態異常）
+> CONTEXT: States/71/name/
+> CONTEXT: Skills/204/name/
+> CONTEXT: Skills/255/name/
+Spatial Perversion (Bad Status)#Dargoth
+> END STRING
+
+> BEGIN STRING
+空間歪曲（気力）
+> CONTEXT: States/72/name/
+> CONTEXT: Skills/205/name/
+Spatial Perversion (Vitality)#Dargoth
+> END STRING
+
+> BEGIN STRING
+空間歪曲（銃）
+> CONTEXT: States/73/name/
+> CONTEXT: Skills/206/name/
+Spatial Perversion (Gun)#Dargoth
+> END STRING
+
+> BEGIN STRING
+空間歪曲（魔法）
+> CONTEXT: States/74/name/
+> CONTEXT: Skills/207/name/
+Spatial Perversion (Magic)#Dargoth
+> END STRING
+
+> BEGIN STRING
+ハンドガン
+> CONTEXT: Weapons/1/name/
+> CONTEXT: Skills/80/name/
+Handgun#Dargoth
+> END STRING
+
+> BEGIN STRING
+マシンピストル
+> CONTEXT: Weapons/2/name/
+> CONTEXT: Skills/82/name/
+Machine Pistol#Dargoth
+> END STRING
+
+> BEGIN STRING
+ショットガン
+> CONTEXT: Weapons/3/name/
+> CONTEXT: Skills/90/name/
+Shotgun#Dargoth
+> END STRING
+
+> BEGIN STRING
+抵抗力アップLv1
+> CONTEXT: Weapons/9/name/
+> CONTEXT: Weapons/19/name/
+> CONTEXT: Skills/26/name/
+Will Up Lv1#Dargoth
+> END STRING
+
+> BEGIN STRING
+抵抗力アップLv2
+> CONTEXT: Weapons/10/name/
+> CONTEXT: Weapons/20/name/
+> CONTEXT: Skills/27/name/
+Will Up Lv2#Dargoth
+> END STRING
+
+> BEGIN STRING
+抵抗力アップLv3
+> CONTEXT: Weapons/11/name/
+> CONTEXT: Weapons/21/name/
+> CONTEXT: Skills/28/name/
+Will Up Lv3#Dargoth
+> END STRING
+
+> BEGIN STRING
+抵抗力アップLv4
+> CONTEXT: Weapons/12/name/
+> CONTEXT: Weapons/22/name/
+> CONTEXT: Skills/29/name/
+Will Up Lv4#Dargoth
+> END STRING
+
+> BEGIN STRING
+抵抗力アップLv5
+> CONTEXT: Weapons/13/name/
+> CONTEXT: Weapons/23/name/
+> CONTEXT: Skills/30/name/
+Will Up Lv5#Dargoth
+> END STRING
+
+> BEGIN STRING
+抵抗力アップLv6
+> CONTEXT: Weapons/14/name/
+> CONTEXT: Weapons/24/name/
+> CONTEXT: Skills/31/name/
+Will Up Lv6#Dargoth
+> END STRING
+
+> BEGIN STRING
+抵抗力アップLv7
+> CONTEXT: Weapons/15/name/
+> CONTEXT: Weapons/25/name/
+> CONTEXT: Skills/32/name/
+Will Up Lv7#Dargoth
+> END STRING
+
+> BEGIN STRING
+抵抗力アップLv8
+> CONTEXT: Weapons/16/name/
+> CONTEXT: Weapons/26/name/
+> CONTEXT: Skills/33/name/
+Will Up Lv8#Dargoth
+> END STRING
+
+> BEGIN STRING
+抵抗力アップLv9
+> CONTEXT: Weapons/17/name/
+> CONTEXT: Weapons/27/name/
+> CONTEXT: Skills/34/name/
+Will Up Lv9#Dargoth
+> END STRING
+
+> BEGIN STRING
+デスサイズ
+> CONTEXT: Weapons/31/name/
+> CONTEXT: Skills/250/name/
+Death Scythe#Dargoth
+> END STRING
+
+> BEGIN STRING
+攻撃アップLv1
+> CONTEXT: Weapons/46/name/
+> CONTEXT: Weapons/47/name/
+> CONTEXT: Weapons/48/name/
+> CONTEXT: Weapons/49/name/
+> CONTEXT: Weapons/50/name/
+> CONTEXT: Skills/46/name/
+Attack Up Lv1#Dargoth
+> END STRING
+
+> BEGIN STRING
+魔法アップLv1
+> CONTEXT: Weapons/51/name/
+> CONTEXT: Weapons/52/name/
+> CONTEXT: Weapons/53/name/
+> CONTEXT: Weapons/54/name/
+> CONTEXT: Weapons/55/name/
+> CONTEXT: Skills/51/name/
+Magic Up Lv1#Dargoth
+> END STRING
+
+> BEGIN STRING
+敏捷アップLv1
+> CONTEXT: Weapons/56/name/
+> CONTEXT: Weapons/57/name/
+> CONTEXT: Weapons/58/name/
+> CONTEXT: Weapons/59/name/
+> CONTEXT: Weapons/60/name/
+> CONTEXT: Skills/56/name/
+Agility Up Lv1#Dargoth
 > END STRING
 
 > SHORTENED: States.txt
@@ -7402,12 +6394,6 @@ Soaked#Dargoth
 > END STRING
 
 > BEGIN STRING
-口塞ぎ
-> CONTEXT: States/28/name/
-Gagged#Dargoth
-> END STRING
-
-> BEGIN STRING
 は口を塞がれてしまった！！
 > CONTEXT: States/28/message1/
 's mouth has been plugged up!#Dargoth
@@ -7570,14 +6556,6 @@ Aroused#Dargoth
 > END STRING
 
 > BEGIN STRING
-モルヒネ
-> CONTEXT: States/37/name/
-> CONTEXT: Items/6/name/
-> CONTEXT: Items/505/name/
-Morphine#Dargoth
-> END STRING
-
-> BEGIN STRING
 のモルヒネの効果が切れた！！
 > CONTEXT: States/37/message4/
 's morphine effect ends.#Dargoth
@@ -7714,17 +6692,6 @@ Food (Meal)#Dargoth
 > END STRING
 
 > BEGIN STRING
-シルフストーム
-> CONTEXT: States/55/name/
-> CONTEXT: Skills/115/name/
-> CONTEXT: Skills/116/name/
-> CONTEXT: Skills/117/name/
-> CONTEXT: Skills/118/name/
-> CONTEXT: Skills/119/name/
-Sylph Storm#Dargoth
-> END STRING
-
-> BEGIN STRING
 の回避率が上がった！！
 > CONTEXT: States/55/message1/
 > CONTEXT: States/93/message1/
@@ -7741,28 +6708,9 @@ Sylph Storm#Dargoth
 > END STRING
 
 > BEGIN STRING
-ハーブ
-> CONTEXT: States/56/name/
-> CONTEXT: Items/2/name/
-> CONTEXT: Items/501/name/
-Herb#Dargoth
-> END STRING
-
-> BEGIN STRING
 のハーブティーの効果が切れた。
 > CONTEXT: States/56/message4/
 's herbal tea effect ends.#Dargoth
-> END STRING
-
-> BEGIN STRING
-クールカーム
-> CONTEXT: States/57/name/
-> CONTEXT: Skills/110/name/
-> CONTEXT: Skills/111/name/
-> CONTEXT: Skills/112/name/
-> CONTEXT: Skills/113/name/
-> CONTEXT: Skills/114/name/
-Cool Calm#Dargoth
 > END STRING
 
 > BEGIN STRING
@@ -7802,14 +6750,6 @@ One turn rest#Dargoth
 > END STRING
 
 > BEGIN STRING
-空間歪曲（淫乱）
-> CONTEXT: States/70/name/
-> CONTEXT: Skills/203/name/
-> CONTEXT: Skills/256/name/
-Spatial Perversion (Lewd)#Dargoth
-> END STRING
-
-> BEGIN STRING
 は性欲が高まってしまった！！
 > CONTEXT: States/70/message1/
 's lust went up!#Dargoth
@@ -7832,14 +6772,6 @@ Spatial Perversion (Lewd)#Dargoth
 > END STRING
 
 > BEGIN STRING
-空間歪曲（状態異常）
-> CONTEXT: States/71/name/
-> CONTEXT: Skills/204/name/
-> CONTEXT: Skills/255/name/
-Spatial Perversion (Bad Status)#Dargoth
-> END STRING
-
-> BEGIN STRING
 は相手に拘束されやすくなってしまった！
 > CONTEXT: States/71/message1/
  has become more susceptible to being bound!#Dargoth
@@ -7849,13 +6781,6 @@ Spatial Perversion (Bad Status)#Dargoth
 は空間の影響で拘束されやすくなっている…
 > CONTEXT: States/71/message3/
  is susceptible to being bound due to the perversion in the air.#Dargoth
-> END STRING
-
-> BEGIN STRING
-空間歪曲（気力）
-> CONTEXT: States/72/name/
-> CONTEXT: Skills/205/name/
-Spatial Perversion (Vitality)#Dargoth
 > END STRING
 
 > BEGIN STRING
@@ -7871,13 +6796,6 @@ Spatial Perversion (Vitality)#Dargoth
 > END STRING
 
 > BEGIN STRING
-空間歪曲（銃）
-> CONTEXT: States/73/name/
-> CONTEXT: Skills/206/name/
-Spatial Perversion (Gun)#Dargoth
-> END STRING
-
-> BEGIN STRING
 の銃での攻撃力が極端に低下した！
 > CONTEXT: States/73/message1/
 's guns are significantly weakened!#Dargoth
@@ -7887,13 +6805,6 @@ Spatial Perversion (Gun)#Dargoth
 は空間の影響で銃が弱体化している…
 > CONTEXT: States/73/message3/
 's guns are weakened due to the perversion in the air.#Dargoth
-> END STRING
-
-> BEGIN STRING
-空間歪曲（魔法）
-> CONTEXT: States/74/name/
-> CONTEXT: Skills/207/name/
-Spatial Perversion (Magic)#Dargoth
 > END STRING
 
 > BEGIN STRING
@@ -7961,13 +6872,6 @@ Crotch Assault#Dargoth
 は股間への攻めを振り払った！！
 > CONTEXT: States/77/message4/
  gets his opponent off his crotch!#Dargoth
-> END STRING
-
-> BEGIN STRING
-搾精
-> CONTEXT: States/85/name/
-> CONTEXT: Map119/events/8/pages/1/4/Choice/0
-Milking#Dargoth
 > END STRING
 
 > BEGIN STRING
@@ -8039,67 +6943,22 @@ Dreaming (Light)#Dargoth
 Dreaming (Heavy)#Dargoth
 > END STRING
 
+> BEGIN STRING
+プレゼント
+> CONTEXT: System/terms/commands/14/
+Present#afrg
+> CONTEXT: States/92/name/
+Present#Dargoth
+> END STRING
+
+> BEGIN STRING
+夢の中
+> CONTEXT: System/skill_types/10/
+> CONTEXT: States/98/name/
+Dream#Dargoth
+> END STRING
+
 > SHORTENED: System.txt
-
-> BEGIN STRING
-物理
-> CONTEXT: System/elements/1/
-Physical#Dargoth
-> END STRING
-
-> BEGIN STRING
-吸収
-> CONTEXT: System/elements/2/
-Absorb#Dargoth
-> END STRING
-
-> BEGIN STRING
-炎
-> CONTEXT: System/elements/3/
-Fire#Dargoth
-> END STRING
-
-> BEGIN STRING
-氷
-> CONTEXT: System/elements/4/
-Ice#Dargoth
-> END STRING
-
-> BEGIN STRING
-雷
-> CONTEXT: System/elements/5/
-Lightning#Dargoth
-> END STRING
-
-> BEGIN STRING
-水
-> CONTEXT: System/elements/6/
-Water#Dargoth
-> END STRING
-
-> BEGIN STRING
-大地
-> CONTEXT: System/elements/7/
-Earth#Dargoth
-> END STRING
-
-> BEGIN STRING
-風
-> CONTEXT: System/elements/8/
-Wind#Dargoth
-> END STRING
-
-> BEGIN STRING
-神聖
-> CONTEXT: System/elements/9/
-Holy#Dargoth
-> END STRING
-
-> BEGIN STRING
-暗黒
-> CONTEXT: System/elements/10/
-Dark#Dargoth
-> END STRING
 
 > BEGIN STRING
 最大ＨＰ
@@ -8241,14 +7100,6 @@ Items#Dargoth
 > END STRING
 
 > BEGIN STRING
-プレゼント
-> CONTEXT: System/terms/commands/14/
-Present#afrg
-> CONTEXT: States/92/name/
-Present#Dargoth
-> END STRING
-
-> BEGIN STRING
 装備変更
 > CONTEXT: System/terms/commands/15/
 Change Equip#Dargoth
@@ -8267,90 +7118,15 @@ Remove All#Dargoth
 > END STRING
 
 > BEGIN STRING
-ＳＴＡＲＴ
-> CONTEXT: System/terms/commands/18/
-> CONTEXT: Commonevents/294/420/Choice/0
-Start#Dargoth
-> END STRING
-
-> BEGIN STRING
 コンティニュー
 > CONTEXT: System/terms/commands/19/
 Continue#Dargoth
 > END STRING
 
 > BEGIN STRING
-ＧＡＭＥ ＥＮＤ
-> CONTEXT: System/terms/commands/20/
-Quit Game#Dargoth
-> END STRING
-
-> BEGIN STRING
 タイトルへ
 > CONTEXT: System/terms/commands/21/
 To Title#Dargoth
-> END STRING
-
-> BEGIN STRING
-やめる
-> CONTEXT: System/terms/commands/22/
-> CONTEXT: Map094/events/13/pages/0/85/Choice/1
-> CONTEXT: Map094/events/13/pages/0/104/Choice/1
-> CONTEXT: Map094/events/13/pages/0/123/Choice/1
-> CONTEXT: Map018/events/4/pages/0/6/Choice/1
-> CONTEXT: Map018/events/4/pages/0/53/Choice/1
-> CONTEXT: Map018/events/4/pages/0/70/Choice/1
-> CONTEXT: Map018/events/4/pages/0/90/Choice/1
-> CONTEXT: Map002/events/1/pages/0/84/Choice/1
-> CONTEXT: Map002/events/1/pages/0/107/Choice/1
-> CONTEXT: Map002/events/1/pages/0/127/Choice/1
-> CONTEXT: Map002/events/1/pages/0/156/Choice/1
-> CONTEXT: Commonevents/15/111/Choice/1
-> CONTEXT: Commonevents/15/217/Choice/1
-> CONTEXT: Map003/events/1/pages/2/621/Choice/1
-> CONTEXT: Map003/events/1/pages/2/640/Choice/1
-> CONTEXT: Map003/events/1/pages/2/659/Choice/1
-> CONTEXT: Commonevents/56/79/Choice/1
-> CONTEXT: Commonevents/56/213/Choice/1
-> CONTEXT: Commonevents/81/104/Choice/1
-> CONTEXT: Commonevents/81/221/Choice/1
-> CONTEXT: Commonevents/81/339/Choice/1
-> CONTEXT: Commonevents/114/145/Choice/1
-> CONTEXT: Commonevents/114/270/Choice/1
-> CONTEXT: Commonevents/203/87/Choice/1
-> CONTEXT: Commonevents/203/219/Choice/1
-> CONTEXT: Commonevents/212/92/Choice/1
-> CONTEXT: Commonevents/212/221/Choice/1
-> CONTEXT: Commonevents/212/348/Choice/1
-> CONTEXT: Commonevents/233/73/Choice/1
-> CONTEXT: Commonevents/233/182/Choice/1
-> CONTEXT: Commonevents/233/274/Choice/1
-> CONTEXT: Commonevents/233/370/Choice/1
-> CONTEXT: Commonevents/233/460/Choice/1
-> CONTEXT: Commonevents/250/66/Choice/1
-> CONTEXT: Commonevents/250/461/Choice/1
-> CONTEXT: Commonevents/289/85/Choice/1
-> CONTEXT: Commonevents/289/217/Choice/1
-> CONTEXT: Commonevents/313/77/Choice/1
-> CONTEXT: Commonevents/313/197/Choice/1
-> CONTEXT: Commonevents/313/317/Choice/1
-> CONTEXT: Commonevents/313/449/Choice/1
-> CONTEXT: Commonevents/354/74/Choice/1
-> CONTEXT: Commonevents/354/205/Choice/1
-> CONTEXT: Commonevents/369/74/Choice/1
-> CONTEXT: Commonevents/410/78/Choice/1
-> CONTEXT: Commonevents/410/204/Choice/1
-> CONTEXT: Commonevents/454/78/Choice/1
-> CONTEXT: Commonevents/454/196/Choice/1
-> CONTEXT: Commonevents/471/86/Choice/1
-> CONTEXT: Commonevents/471/197/Choice/1
-> CONTEXT: Commonevents/471/323/Choice/1
-> CONTEXT: Commonevents/471/442/Choice/1
-> CONTEXT: Commonevents/471/607/Choice/1
-> CONTEXT: Commonevents/471/731/Choice/1
-> CONTEXT: Commonevents/559/64/Choice/1
-> CONTEXT: Commonevents/559/175/Choice/1
-Cancel#Dargoth
 > END STRING
 
 > BEGIN STRING
@@ -8395,6 +7171,66 @@ Lust#Dargoth
 > END STRING
 
 > BEGIN STRING
+物理
+> CONTEXT: System/elements/1/
+Physical#Dargoth
+> END STRING
+
+> BEGIN STRING
+吸収
+> CONTEXT: System/elements/2/
+Absorb#Dargoth
+> END STRING
+
+> BEGIN STRING
+炎
+> CONTEXT: System/elements/3/
+Fire#Dargoth
+> END STRING
+
+> BEGIN STRING
+氷
+> CONTEXT: System/elements/4/
+Ice#Dargoth
+> END STRING
+
+> BEGIN STRING
+雷
+> CONTEXT: System/elements/5/
+Lightning#Dargoth
+> END STRING
+
+> BEGIN STRING
+水
+> CONTEXT: System/elements/6/
+Water#Dargoth
+> END STRING
+
+> BEGIN STRING
+大地
+> CONTEXT: System/elements/7/
+Earth#Dargoth
+> END STRING
+
+> BEGIN STRING
+風
+> CONTEXT: System/elements/8/
+Wind#Dargoth
+> END STRING
+
+> BEGIN STRING
+神聖
+> CONTEXT: System/elements/9/
+Holy#Dargoth
+> END STRING
+
+> BEGIN STRING
+暗黒
+> CONTEXT: System/elements/10/
+Dark#Dargoth
+> END STRING
+
+> BEGIN STRING
 魔法
 > CONTEXT: System/skill_types/2/
 Magic#Dargoth
@@ -8408,13 +7244,6 @@ Actions#Dargoth
 > END STRING
 
 > BEGIN STRING
-屈服
-> CONTEXT: System/skill_types/5/
-> CONTEXT: System/skill_types/9/
-Submissions#Dargoth
-> END STRING
-
-> BEGIN STRING
 パッシブ
 > CONTEXT: System/skill_types/6/
 Passive#Dargoth
@@ -8425,13 +7254,6 @@ Passive#Dargoth
 > CONTEXT: System/skill_types/7/
 > CONTEXT: System/armor_types/6/
 Special#Dargoth
-> END STRING
-
-> BEGIN STRING
-夢の中
-> CONTEXT: System/skill_types/10/
-> CONTEXT: States/98/name/
-Dream#Dargoth
 > END STRING
 
 > BEGIN STRING
@@ -8584,6 +7406,1440 @@ Let her go#Dargoth
 > END STRING
 
 > BEGIN STRING
+見逃す en(s[1000000])
+> CONTEXT: Troops/8/pages/3/5/Choice/0
+Let her go en(s[1000000])#Dargoth
+> END STRING
+
+> BEGIN STRING
+とどめを刺す
+> CONTEXT: Troops/21/pages/2/23/Choice/0
+> CONTEXT: Troops/30/pages/2/12/Choice/0
+> CONTEXT: Troops/31/pages/2/12/Choice/0
+> CONTEXT: Troops/34/pages/2/15/Choice/0
+> CONTEXT: Troops/35/pages/2/15/Choice/0
+> CONTEXT: Troops/36/pages/2/15/Choice/0
+> CONTEXT: Troops/43/pages/2/15/Choice/0
+> CONTEXT: Troops/44/pages/2/15/Choice/0
+> CONTEXT: Troops/46/pages/2/15/Choice/0
+Finish her off#Dargoth
+> END STRING
+
+> BEGIN STRING
+足の先端にキスをする
+> CONTEXT: Troops/22/pages/0/40/Choice/0
+Kiss the end of her foot#Dargoth
+> END STRING
+
+> BEGIN STRING
+口に含めてむしゃぶりつく
+> CONTEXT: Troops/22/pages/0/40/Choice/1
+Suck on her foot in your mouth#Dargoth
+> END STRING
+
+> BEGIN STRING
+ランパス(夢)
+> CONTEXT: Troops/27/name/
+Lampas (Dream)#Dargoth
+> END STRING
+
+> BEGIN STRING
+エンプーサ（G）
+> CONTEXT: Troops/47/name/
+Empuse(G)#Dargoth
+> END STRING
+
+> SHORTENED: Weapons.txt
+
+> BEGIN STRING
+威力は低いが携帯性に優れる火器。
+装弾数　\\V[7]/10
+> CONTEXT: Weapons/1/description/
+What it lacks in power it makes up for in convenience.
+Rounds　\\V[7]/10#Dargoth
+> END STRING
+
+> BEGIN STRING
+５発連続発射できるマシンガン。反動が大きい。
+装弾数　\\V[18]/15
+> CONTEXT: Weapons/2/description/
+Pistol that fires 5 round bursts. High recoil.
+Rounds \\V[18]/15#Dargoth
+> END STRING
+
+> BEGIN STRING
+【両手】狩猟用の二連装散弾銃。長物のため取り回しが遅い
+装弾数　\\V[19]/2
+> CONTEXT: Weapons/3/description/
+[Two-Handed] Double barrel hunting shotgun.
+Shells \\V[19]/2#Dargoth
+> END STRING
+
+> BEGIN STRING
+カスタムハンドガン
+> CONTEXT: Weapons/4/name/
+Custom Handgun#Dargoth
+> END STRING
+
+> BEGIN STRING
+単発の威力は落ちるが、3連射が可能になったハンドガン。
+装弾数　\\V[7]/10
+> CONTEXT: Weapons/4/description/
+Reduced power, but now fires a 3 round burst.
+Rounds　\\V[7]/10#Dargoth
+> END STRING
+
+> BEGIN STRING
+ソードオフ
+> CONTEXT: Weapons/5/name/
+Sawed-off#Dargoth
+> END STRING
+
+> BEGIN STRING
+【両手】銃身を切り詰め、２発動時発射が可能になったショットガン。
+装弾数　\\V[19]/2
+> CONTEXT: Weapons/5/description/
+[Two-Handed] Barrel shortened. Fires both barrels at once.
+Shells　\\V[19]/2#Dargoth
+> END STRING
+
+> BEGIN STRING
+抵抗力アップLv10
+> CONTEXT: Weapons/18/name/
+> CONTEXT: Weapons/28/name/
+Will Up Lv10#Dargoth
+> END STRING
+
+> BEGIN STRING
+練気の刀
+> CONTEXT: Weapons/30/name/
+Invigorating Sword#Dargoth
+> END STRING
+
+> BEGIN STRING
+所持者の魔力を刃に変えて刀身を具現化する武器。
+物理属性。
+> CONTEXT: Weapons/30/description/
+This sword manifests the wielder's own magical power
+into the blade. Does physical damage.#Dargoth
+> END STRING
+
+> BEGIN STRING
+疾風をまとって、真空波で魔力を断つ大鎌。
+風属性。
+> CONTEXT: Weapons/31/description/
+A scythe that severs magical power with gale force
+vacuum waves. Wind element.#Dargoth
+> END STRING
+
+> BEGIN STRING
+バーゲストクロー
+> CONTEXT: Weapons/65/name/
+Barghest Claw#Dargoth
+> END STRING
+
+> BEGIN STRING
+バーゲストの爪から練成された鉤爪グローブ。
+低確率で相手を出血させる
+> CONTEXT: Weapons/65/description/
+Claw-like glove made from a barghest's paw.
+Low probability of causing target to bleed.#Dargoth
+> END STRING
+
+> BEGIN STRING
+ランパスウィップ
+> CONTEXT: Weapons/66/name/
+Lampas Whip#Dargoth
+> END STRING
+
+> BEGIN STRING
+ランパスの一部から練成されたトゲの付いたムチ。
+『リバースストーム』を使用可能
+> CONTEXT: Weapons/66/description/
+Thorn whip made from a lampas vine.
+Enables [Reverse Storm].#Dargoth
+> END STRING
+
+> BEGIN STRING
+ヘルサイズ
+> CONTEXT: Weapons/67/name/
+Hell Scythe#Dargoth
+> END STRING
+
+> BEGIN STRING
+エンプーサの腕から練成した血濡れの大鎌。
+『恐怖』にかからなくなる。
+> CONTEXT: Weapons/67/description/
+Bloody scythe made from an empuse arm.
+Makes wielder immune to [Fear].#Dargoth
+> END STRING
+
+> SHORTENED: CommonEvents_1.txt
+
+> BEGIN STRING
+\\N[1]は興奮するあまり、服を脱ぎ始めた！！
+> CONTEXT: Commonevents/1/163/Dialogue
+\\N[1] is so aroused he takes off his own clothes!#Dargoth
+> END STRING
+
+> SHORTENED: CommonEvents_7.txt
+
+> BEGIN STRING
+\\N[1]は逆に神経が敏感になってしまい性欲が増してしまった！！
+> CONTEXT: Commonevents/7/4/Dialogue
+> CONTEXT: Commonevents/7/14/Dialogue
+\\N[1] is so sensitive that his lust goes up instead!#Dargoth
+> END STRING
+
+> BEGIN STRING
+\\N[1]は疲労して上手く息が整えられない…
+> CONTEXT: Commonevents/7/22/Dialogue
+\\N[1] is too fatigued to control his breath well...#Dargoth
+> END STRING
+
+> BEGIN STRING
+\\N[1]は抵抗する意志が弱まっている…
+> CONTEXT: Commonevents/7/28/Dialogue
+\\N[1]'s will to resist is weakening...#Dargoth
+> END STRING
+
+> BEGIN STRING
+\\N[1]は出血の痛みで集中できない…
+> CONTEXT: Commonevents/7/34/Dialogue
+\\N[1] can't concentrate from the bleeding pain...#Dargoth
+> END STRING
+
+> BEGIN STRING
+\\N[1]は恍惚に浸っていて上手く集中できない…
+> CONTEXT: Commonevents/7/40/Dialogue
+\\N[1] is drowning in ecstasy and can't concentrate...#Dargoth
+> END STRING
+
+> BEGIN STRING
+\\N[1]は魅了されていて上手く集中できない…
+> CONTEXT: Commonevents/7/46/Dialogue
+\\N[1] is charmed and can't concentrate...#Dargoth
+> END STRING
+
+> BEGIN STRING
+深呼吸で性欲が\\V[5]下がった！
+> CONTEXT: Commonevents/7/57/Dialogue
+Deep breathing reduced \\N[1]'s lust by \\V[5]!#Dargoth
+> END STRING
+
+> BEGIN STRING
+深呼吸
+> CONTEXT: Skills/4/name/
+Deep Breathing#Dargoth
+> END STRING
+
+> SHORTENED: CommonEvents_15.txt
+
+> BEGIN STRING
+続ける
+> CONTEXT: Commonevents/15/111/Choice/0
+> CONTEXT: Commonevents/15/217/Choice/0
+> CONTEXT: Commonevents/56/79/Choice/0
+> CONTEXT: Commonevents/56/213/Choice/0
+> CONTEXT: Commonevents/81/104/Choice/0
+> CONTEXT: Commonevents/81/221/Choice/0
+> CONTEXT: Commonevents/81/339/Choice/0
+> CONTEXT: Commonevents/114/145/Choice/0
+> CONTEXT: Commonevents/114/270/Choice/0
+> CONTEXT: Commonevents/203/87/Choice/0
+> CONTEXT: Commonevents/203/219/Choice/0
+> CONTEXT: Commonevents/212/92/Choice/0
+> CONTEXT: Commonevents/212/221/Choice/0
+> CONTEXT: Commonevents/212/348/Choice/0
+> CONTEXT: Commonevents/233/73/Choice/0
+> CONTEXT: Commonevents/233/182/Choice/0
+> CONTEXT: Commonevents/233/274/Choice/0
+> CONTEXT: Commonevents/233/370/Choice/0
+> CONTEXT: Commonevents/233/460/Choice/0
+> CONTEXT: Commonevents/250/66/Choice/0
+> CONTEXT: Commonevents/250/461/Choice/0
+> CONTEXT: Commonevents/289/85/Choice/0
+> CONTEXT: Commonevents/289/217/Choice/0
+> CONTEXT: Commonevents/313/77/Choice/0
+> CONTEXT: Commonevents/313/197/Choice/0
+> CONTEXT: Commonevents/313/317/Choice/0
+> CONTEXT: Commonevents/313/449/Choice/0
+> CONTEXT: Commonevents/354/74/Choice/0
+> CONTEXT: Commonevents/354/205/Choice/0
+> CONTEXT: Commonevents/369/74/Choice/0
+> CONTEXT: Commonevents/410/78/Choice/0
+> CONTEXT: Commonevents/410/204/Choice/0
+> CONTEXT: Commonevents/454/78/Choice/0
+> CONTEXT: Commonevents/454/196/Choice/0
+> CONTEXT: Commonevents/471/86/Choice/0
+> CONTEXT: Commonevents/471/197/Choice/0
+> CONTEXT: Commonevents/471/323/Choice/0
+> CONTEXT: Commonevents/471/442/Choice/0
+> CONTEXT: Commonevents/471/607/Choice/0
+> CONTEXT: Commonevents/471/731/Choice/0
+> CONTEXT: Commonevents/559/64/Choice/0
+> CONTEXT: Commonevents/559/175/Choice/0
+Continue#Dargoth
+> END STRING
+
+> BEGIN STRING
+やめる
+> CONTEXT: System/terms/commands/22/
+> CONTEXT: Map094/events/13/pages/0/85/Choice/1
+> CONTEXT: Map094/events/13/pages/0/104/Choice/1
+> CONTEXT: Map094/events/13/pages/0/123/Choice/1
+> CONTEXT: Map018/events/4/pages/0/6/Choice/1
+> CONTEXT: Map018/events/4/pages/0/53/Choice/1
+> CONTEXT: Map018/events/4/pages/0/70/Choice/1
+> CONTEXT: Map018/events/4/pages/0/90/Choice/1
+> CONTEXT: Map002/events/1/pages/0/84/Choice/1
+> CONTEXT: Map002/events/1/pages/0/107/Choice/1
+> CONTEXT: Map002/events/1/pages/0/127/Choice/1
+> CONTEXT: Map002/events/1/pages/0/156/Choice/1
+> CONTEXT: Commonevents/15/111/Choice/1
+> CONTEXT: Commonevents/15/217/Choice/1
+> CONTEXT: Map003/events/1/pages/2/621/Choice/1
+> CONTEXT: Map003/events/1/pages/2/640/Choice/1
+> CONTEXT: Map003/events/1/pages/2/659/Choice/1
+> CONTEXT: Commonevents/56/79/Choice/1
+> CONTEXT: Commonevents/56/213/Choice/1
+> CONTEXT: Commonevents/81/104/Choice/1
+> CONTEXT: Commonevents/81/221/Choice/1
+> CONTEXT: Commonevents/81/339/Choice/1
+> CONTEXT: Commonevents/114/145/Choice/1
+> CONTEXT: Commonevents/114/270/Choice/1
+> CONTEXT: Commonevents/203/87/Choice/1
+> CONTEXT: Commonevents/203/219/Choice/1
+> CONTEXT: Commonevents/212/92/Choice/1
+> CONTEXT: Commonevents/212/221/Choice/1
+> CONTEXT: Commonevents/212/348/Choice/1
+> CONTEXT: Commonevents/233/73/Choice/1
+> CONTEXT: Commonevents/233/182/Choice/1
+> CONTEXT: Commonevents/233/274/Choice/1
+> CONTEXT: Commonevents/233/370/Choice/1
+> CONTEXT: Commonevents/233/460/Choice/1
+> CONTEXT: Commonevents/250/66/Choice/1
+> CONTEXT: Commonevents/250/461/Choice/1
+> CONTEXT: Commonevents/289/85/Choice/1
+> CONTEXT: Commonevents/289/217/Choice/1
+> CONTEXT: Commonevents/313/77/Choice/1
+> CONTEXT: Commonevents/313/197/Choice/1
+> CONTEXT: Commonevents/313/317/Choice/1
+> CONTEXT: Commonevents/313/449/Choice/1
+> CONTEXT: Commonevents/354/74/Choice/1
+> CONTEXT: Commonevents/354/205/Choice/1
+> CONTEXT: Commonevents/369/74/Choice/1
+> CONTEXT: Commonevents/410/78/Choice/1
+> CONTEXT: Commonevents/410/204/Choice/1
+> CONTEXT: Commonevents/454/78/Choice/1
+> CONTEXT: Commonevents/454/196/Choice/1
+> CONTEXT: Commonevents/471/86/Choice/1
+> CONTEXT: Commonevents/471/197/Choice/1
+> CONTEXT: Commonevents/471/323/Choice/1
+> CONTEXT: Commonevents/471/442/Choice/1
+> CONTEXT: Commonevents/471/607/Choice/1
+> CONTEXT: Commonevents/471/731/Choice/1
+> CONTEXT: Commonevents/559/64/Choice/1
+> CONTEXT: Commonevents/559/175/Choice/1
+Cancel#Dargoth
+> END STRING
+
+> SHORTENED: CommonEvents_53.txt
+
+> BEGIN STRING
+\\N[1]は相手に徐々に心を奪われていく……。
+> CONTEXT: Commonevents/53/8/Dialogue
+> CONTEXT: Commonevents/53/26/Dialogue
+> CONTEXT: Commonevents/53/44/Dialogue
+> CONTEXT: Commonevents/53/62/Dialogue
+> CONTEXT: Commonevents/53/80/Dialogue
+> CONTEXT: Commonevents/199/18/Dialogue
+\\N[1] is gradually becoming captivated by his opponent...#Dargoth
+> END STRING
+
+> SHORTENED: CommonEvents_85.txt
+
+> BEGIN STRING
+揉む
+> CONTEXT: Commonevents/85/34/Choice/0
+Massage#Dargoth
+> END STRING
+
+> BEGIN STRING
+揉まない
+> CONTEXT: Commonevents/85/34/Choice/1
+Refuse#Dargoth
+> END STRING
+
+> SHORTENED: CommonEvents_170.txt
+
+> BEGIN STRING
+"リロード完了！！"
+> CONTEXT: Commonevents/170/2/InlineScript/1:13
+> CONTEXT: Commonevents/171/4/InlineScript/1:13
+> CONTEXT: Commonevents/171/24/InlineScript/1:13
+> CONTEXT: Commonevents/171/42/InlineScript/1:13
+> CONTEXT: Commonevents/176/3/InlineScript/1:13
+> CONTEXT: Commonevents/177/4/InlineScript/1:13
+> CONTEXT: Commonevents/177/24/InlineScript/1:13
+> CONTEXT: Commonevents/177/44/InlineScript/1:13
+> CONTEXT: Commonevents/178/3/InlineScript/1:13
+> CONTEXT: Commonevents/179/2/InlineScript/1:13
+> CONTEXT: Commonevents/194/3/InlineScript/1:13
+> CONTEXT: Commonevents/219/4/InlineScript/1:13
+> CONTEXT: Commonevents/219/24/InlineScript/1:13
+> CONTEXT: Commonevents/220/4/InlineScript/1:13
+> CONTEXT: Commonevents/220/22/InlineScript/1:13
+> CONTEXT: Commonevents/374/4/InlineScript/1:13
+> CONTEXT: Commonevents/374/24/InlineScript/1:13
+> CONTEXT: Commonevents/441/2/InlineScript/1:13
+"Reload complete!"#Dargoth
+> END STRING
+
+> SHORTENED: CommonEvents_27.txt
+
+> BEGIN STRING
+バーゲスト
+> CONTEXT: Enemies/1/name/
+> CONTEXT: Enemies/2/name/
+> CONTEXT: Enemies/3/name/
+> CONTEXT: Enemies/4/name/
+> CONTEXT: Enemies/5/name/
+> CONTEXT: Enemies/6/name/
+> CONTEXT: Enemies/7/name/
+> CONTEXT: Enemies/8/name/
+> CONTEXT: Enemies/9/name/
+> CONTEXT: Enemies/10/name/
+> CONTEXT: Enemies/11/name/
+> CONTEXT: Enemies/13/name/
+> CONTEXT: Enemies/231/name/
+Barghest#Dargoth
+> END STRING
+
+> SHORTENED: Map005.txt
+
+> BEGIN STRING
+包帯で治療するen(v[5] \>= 1)
+> CONTEXT: Map020/events/10/pages/2/19/Choice/0
+> CONTEXT: Map005/events/10/pages/2/19/Choice/0
+Treat her with a bandage en(v[5] \>= 1)#Dargoth
+> END STRING
+
+> BEGIN STRING
+放置する
+> CONTEXT: Map020/events/10/pages/2/19/Choice/1
+> CONTEXT: Map005/events/10/pages/2/19/Choice/1
+Leave her be#Dargoth
+> END STRING
+
+> SHORTENED: Map039.txt
+
+> BEGIN STRING
+冥府の間に行く
+> CONTEXT: Map083/events/1/pages/0/17/Choice/1
+> CONTEXT: Map039/events/1/pages/0/15/Choice/1
+Travel to Hell#Dargoth
+> END STRING
+
+> BEGIN STRING
+チャプター選択へ
+> CONTEXT: Map142/events/1/pages/0/17/Choice/2
+> CONTEXT: Map083/events/1/pages/0/17/Choice/2
+> CONTEXT: Map039/events/1/pages/0/15/Choice/2
+To chapter select#Dargoth
+> END STRING
+
+> SHORTENED: Map007.txt
+
+> BEGIN STRING
+中に入る
+> CONTEXT: Map278/events/12/pages/2/6/Choice/1
+> CONTEXT: Map278/events/13/pages/2/6/Choice/1
+> CONTEXT: Map173/events/3/pages/1/4/Choice/0
+> CONTEXT: Map165/events/10/pages/0/4/Choice/0
+> CONTEXT: Map165/events/12/pages/0/4/Choice/0
+> CONTEXT: Map161/events/2/pages/1/4/Choice/0
+> CONTEXT: Map161/events/2/pages/2/4/Choice/0
+> CONTEXT: Map161/events/3/pages/1/4/Choice/0
+> CONTEXT: Map161/events/3/pages/2/4/Choice/0
+> CONTEXT: Map007/events/12/pages/2/6/Choice/1
+> CONTEXT: Map007/events/13/pages/2/6/Choice/1
+Enter#Dargoth
+> END STRING
+
+> BEGIN STRING
+これまでの進行状況をセーブしますか？
+> CONTEXT: Map286/events/4/pages/1/29/Dialogue
+> CONTEXT: Map286/events/4/pages/2/29/Dialogue
+> CONTEXT: Map286/events/5/pages/1/29/Dialogue
+> CONTEXT: Map286/events/5/pages/2/29/Dialogue
+> CONTEXT: Map286/events/6/pages/1/29/Dialogue
+> CONTEXT: Map286/events/6/pages/2/29/Dialogue
+> CONTEXT: Map284/events/1/pages/0/110/Dialogue
+> CONTEXT: Map282/events/56/pages/1/31/Dialogue
+> CONTEXT: Map282/events/56/pages/2/29/Dialogue
+> CONTEXT: Map281/events/4/pages/0/257/Dialogue
+> CONTEXT: Map282/events/56/pages/3/29/Dialogue
+> CONTEXT: Map285/events/7/pages/1/30/Dialogue
+> CONTEXT: Map282/events/58/pages/1/31/Dialogue
+> CONTEXT: Map285/events/7/pages/2/30/Dialogue
+> CONTEXT: Map282/events/58/pages/2/29/Dialogue
+> CONTEXT: Map283/events/19/pages/0/30/Dialogue
+> CONTEXT: Map282/events/58/pages/3/29/Dialogue
+> CONTEXT: Map283/events/23/pages/0/30/Dialogue
+> CONTEXT: Map282/events/59/pages/1/31/Dialogue
+> CONTEXT: Map283/events/24/pages/0/30/Dialogue
+> CONTEXT: Map282/events/59/pages/2/29/Dialogue
+> CONTEXT: Map285/events/9/pages/1/30/Dialogue
+> CONTEXT: Map282/events/59/pages/3/29/Dialogue
+> CONTEXT: Map285/events/9/pages/2/30/Dialogue
+> CONTEXT: Map285/events/10/pages/1/30/Dialogue
+> CONTEXT: Map285/events/10/pages/2/30/Dialogue
+> CONTEXT: Map278/events/26/pages/1/51/Dialogue
+> CONTEXT: Map278/events/26/pages/2/172/Dialogue
+> CONTEXT: Map272/events/1/pages/0/157/Dialogue
+> CONTEXT: Map278/events/26/pages/3/175/Dialogue
+> CONTEXT: Map278/events/26/pages/4/74/Dialogue
+> CONTEXT: Map189/events/1/pages/0/294/Dialogue
+> CONTEXT: Map188/events/56/pages/1/31/Dialogue
+> CONTEXT: Map188/events/56/pages/2/29/Dialogue
+> CONTEXT: Map188/events/56/pages/3/29/Dialogue
+> CONTEXT: Map188/events/58/pages/1/31/Dialogue
+> CONTEXT: Map188/events/58/pages/2/29/Dialogue
+> CONTEXT: Map188/events/58/pages/3/29/Dialogue
+> CONTEXT: Map188/events/59/pages/1/31/Dialogue
+> CONTEXT: Map188/events/59/pages/2/29/Dialogue
+> CONTEXT: Map188/events/59/pages/3/29/Dialogue
+> CONTEXT: Map159/events/3/pages/1/29/Dialogue
+> CONTEXT: Map159/events/3/pages/2/29/Dialogue
+> CONTEXT: Map154/events/4/pages/0/191/Dialogue
+> CONTEXT: Map154/events/4/pages/1/92/Dialogue
+> CONTEXT: Map153/events/2/pages/3/295/Dialogue
+> CONTEXT: Map153/events/7/pages/1/29/Dialogue
+> CONTEXT: Map153/events/8/pages/1/29/Dialogue
+> CONTEXT: Map153/events/10/pages/1/29/Dialogue
+> CONTEXT: Map134/events/10/pages/0/180/Dialogue
+> CONTEXT: Map134/events/10/pages/1/172/Dialogue
+> CONTEXT: Map134/events/10/pages/2/145/Dialogue
+> CONTEXT: Map153/events/16/pages/3/296/Dialogue
+> CONTEXT: Map131/events/5/pages/1/90/Dialogue
+> CONTEXT: Map125/events/4/pages/1/29/Dialogue
+> CONTEXT: Map153/events/17/pages/3/296/Dialogue
+> CONTEXT: Map131/events/8/pages/1/90/Dialogue
+> CONTEXT: Map125/events/4/pages/2/29/Dialogue
+> CONTEXT: Map125/events/5/pages/1/29/Dialogue
+> CONTEXT: Map125/events/5/pages/2/29/Dialogue
+> CONTEXT: Map125/events/6/pages/1/29/Dialogue
+> CONTEXT: Map125/events/6/pages/2/29/Dialogue
+> CONTEXT: Map131/events/9/pages/1/90/Dialogue
+> CONTEXT: Map131/events/10/pages/0/29/Dialogue
+> CONTEXT: Map131/events/11/pages/0/29/Dialogue
+> CONTEXT: Map131/events/12/pages/0/29/Dialogue
+> CONTEXT: Map097/events/7/pages/1/30/Dialogue
+> CONTEXT: Map097/events/7/pages/2/30/Dialogue
+> CONTEXT: Map082/events/7/pages/0/139/Dialogue
+> CONTEXT: Map082/events/7/pages/1/144/Dialogue
+> CONTEXT: Map097/events/9/pages/1/30/Dialogue
+> CONTEXT: Map097/events/9/pages/2/30/Dialogue
+> CONTEXT: Map097/events/10/pages/1/30/Dialogue
+> CONTEXT: Map097/events/10/pages/2/30/Dialogue
+> CONTEXT: Map066/events/19/pages/0/30/Dialogue
+> CONTEXT: Map066/events/23/pages/0/30/Dialogue
+> CONTEXT: Map066/events/24/pages/0/30/Dialogue
+> CONTEXT: Map050/events/56/pages/1/31/Dialogue
+> CONTEXT: Map050/events/56/pages/2/29/Dialogue
+> CONTEXT: Map050/events/56/pages/3/29/Dialogue
+> CONTEXT: Map050/events/58/pages/1/31/Dialogue
+> CONTEXT: Map038/events/4/pages/0/552/Dialogue
+> CONTEXT: Map050/events/58/pages/2/29/Dialogue
+> CONTEXT: Map050/events/58/pages/3/29/Dialogue
+> CONTEXT: Map050/events/59/pages/1/31/Dialogue
+> CONTEXT: Map050/events/59/pages/2/29/Dialogue
+> CONTEXT: Map050/events/59/pages/3/29/Dialogue
+> CONTEXT: Map007/events/26/pages/1/51/Dialogue
+> CONTEXT: Map007/events/26/pages/2/172/Dialogue
+> CONTEXT: Map007/events/26/pages/3/175/Dialogue
+> CONTEXT: Map007/events/26/pages/4/74/Dialogue
+> CONTEXT: Map014/events/112/pages/0/16/Dialogue
+Save your progress up to this point?#Dargoth
+> END STRING
+
+> SHORTENED: Map033.txt
+
+> BEGIN STRING
+ランパスの火を消す
+> CONTEXT: Map279/events/3/pages/2/88/Choice/0
+> CONTEXT: Map033/events/3/pages/3/88/Choice/0
+Douse the flaming lampas#Dargoth
+> END STRING
+
+> BEGIN STRING
+部屋から逃げ出す
+> CONTEXT: Map279/events/3/pages/2/88/Choice/1
+> CONTEXT: Map033/events/3/pages/3/88/Choice/1
+Run out of the room#Dargoth
+> END STRING
+
+> SHORTENED: Map011.txt
+
+> BEGIN STRING
+休憩する
+> CONTEXT: Map283/events/25/pages/1/3/Choice/0
+> CONTEXT: Map283/events/25/pages/2/3/Choice/0
+> CONTEXT: Map274/events/5/pages/0/3/Choice/0
+> CONTEXT: Map193/events/25/pages/0/3/Choice/0
+> CONTEXT: Map163/events/5/pages/0/3/Choice/0
+> CONTEXT: Map158/events/5/pages/0/3/Choice/0
+> CONTEXT: Map157/events/5/pages/0/3/Choice/0
+> CONTEXT: Map155/events/5/pages/0/3/Choice/0
+> CONTEXT: Map141/events/5/pages/0/3/Choice/0
+> CONTEXT: Map135/events/5/pages/0/3/Choice/0
+> CONTEXT: Map123/events/5/pages/0/3/Choice/0
+> CONTEXT: Map100/events/5/pages/0/3/Choice/0
+> CONTEXT: Map094/events/9/pages/0/3/Choice/0
+> CONTEXT: Map076/events/5/pages/1/3/Choice/0
+> CONTEXT: Map076/events/5/pages/2/3/Choice/0
+> CONTEXT: Map064/events/5/pages/1/3/Choice/0
+> CONTEXT: Map064/events/5/pages/2/3/Choice/0
+> CONTEXT: Map066/events/25/pages/1/3/Choice/0
+> CONTEXT: Map066/events/25/pages/2/3/Choice/0
+> CONTEXT: Map053/events/5/pages/1/3/Choice/0
+> CONTEXT: Map053/events/5/pages/2/3/Choice/0
+> CONTEXT: Map048/events/5/pages/1/3/Choice/0
+> CONTEXT: Map048/events/5/pages/2/3/Choice/0
+> CONTEXT: Map036/events/5/pages/1/3/Choice/0
+> CONTEXT: Map036/events/5/pages/2/3/Choice/0
+> CONTEXT: Map032/events/8/pages/0/3/Choice/0
+> CONTEXT: Map032/events/8/pages/1/3/Choice/0
+> CONTEXT: Map022/events/17/pages/0/3/Choice/0
+> CONTEXT: Map015/events/5/pages/1/3/Choice/0
+> CONTEXT: Map015/events/5/pages/2/3/Choice/0
+> CONTEXT: Map011/events/16/pages/1/3/Choice/0
+> CONTEXT: Map011/events/16/pages/2/3/Choice/0
+Rest#Dargoth
+> END STRING
+
+> BEGIN STRING
+休憩する【所持ハーブ\\v[5]個】en(v[5] \>= 1)
+> CONTEXT: Map288/events/4/pages/0/4/Choice/0
+> CONTEXT: Map274/events/8/pages/0/4/Choice/0
+> CONTEXT: Map193/events/27/pages/0/4/Choice/0
+> CONTEXT: Map192/events/8/pages/0/4/Choice/0
+> CONTEXT: Map187/events/26/pages/0/4/Choice/0
+> CONTEXT: Map163/events/8/pages/0/4/Choice/0
+> CONTEXT: Map158/events/8/pages/0/4/Choice/0
+> CONTEXT: Map157/events/8/pages/0/4/Choice/0
+> CONTEXT: Map155/events/8/pages/0/4/Choice/0
+> CONTEXT: Map152/events/4/pages/0/4/Choice/0
+> CONTEXT: Map141/events/8/pages/0/4/Choice/0
+> CONTEXT: Map136/events/9/pages/0/4/Choice/0
+> CONTEXT: Map135/events/9/pages/0/4/Choice/0
+> CONTEXT: Map123/events/8/pages/0/4/Choice/0
+> CONTEXT: Map117/events/8/pages/0/4/Choice/0
+> CONTEXT: Map100/events/8/pages/0/4/Choice/0
+> CONTEXT: Map094/events/8/pages/0/4/Choice/0
+> CONTEXT: Map076/events/8/pages/2/4/Choice/0
+> CONTEXT: Map065/events/26/pages/0/4/Choice/0
+> CONTEXT: Map064/events/8/pages/0/4/Choice/0
+> CONTEXT: Map053/events/8/pages/0/4/Choice/0
+> CONTEXT: Map048/events/8/pages/0/4/Choice/0
+> CONTEXT: Map036/events/8/pages/2/4/Choice/0
+> CONTEXT: Map022/events/2/pages/2/4/Choice/0
+> CONTEXT: Map015/events/8/pages/2/4/Choice/0
+> CONTEXT: Map011/events/6/pages/2/4/Choice/0
+Take a break [Herbs: \\v[5]] en(v[5] \>= 1)#Dargoth
+> END STRING
+
+> SHORTENED: Map032.txt
+
+> BEGIN STRING
+教えて欲しい
+> CONTEXT: Map283/events/26/pages/0/26/Choice/0
+> CONTEXT: Map066/events/26/pages/0/26/Choice/0
+> CONTEXT: Map032/events/9/pages/0/26/Choice/0
+Please enlighten me#Dargoth
+> END STRING
+
+> BEGIN STRING
+今は大丈夫
+> CONTEXT: Map283/events/26/pages/0/26/Choice/1
+> CONTEXT: Map066/events/26/pages/0/26/Choice/1
+> CONTEXT: Map032/events/9/pages/0/26/Choice/1
+I'm good#Dargoth
+> END STRING
+
+> BEGIN STRING
+『抵抗力』を半分にして欲しい
+> CONTEXT: Map283/events/26/pages/0/26/Choice/2
+> CONTEXT: Map066/events/26/pages/0/26/Choice/2
+> CONTEXT: Map032/events/9/pages/0/26/Choice/2
+Set my willpower to half#Dargoth
+> END STRING
+
+> SHORTENED: CommonEvents_180.txt
+
+> BEGIN STRING
+はい
+> CONTEXT: Map286/events/4/pages/1/6/Choice/0
+> CONTEXT: Map286/events/4/pages/1/31/Choice/0
+> CONTEXT: Map286/events/4/pages/2/6/Choice/0
+> CONTEXT: Map286/events/4/pages/2/31/Choice/0
+> CONTEXT: Map286/events/5/pages/1/6/Choice/0
+> CONTEXT: Map286/events/5/pages/1/31/Choice/0
+> CONTEXT: Map286/events/5/pages/2/6/Choice/0
+> CONTEXT: Map286/events/5/pages/2/31/Choice/0
+> CONTEXT: Map286/events/6/pages/1/6/Choice/0
+> CONTEXT: Map286/events/6/pages/1/31/Choice/0
+> CONTEXT: Map286/events/6/pages/2/6/Choice/0
+> CONTEXT: Map286/events/6/pages/2/31/Choice/0
+> CONTEXT: Map284/events/1/pages/0/112/Choice/0
+> CONTEXT: Map282/events/56/pages/1/6/Choice/0
+> CONTEXT: Map282/events/56/pages/1/33/Choice/0
+> CONTEXT: Map282/events/56/pages/2/6/Choice/0
+> CONTEXT: Map282/events/56/pages/2/31/Choice/0
+> CONTEXT: Map282/events/56/pages/3/6/Choice/0
+> CONTEXT: Map281/events/4/pages/0/259/Choice/0
+> CONTEXT: Map282/events/56/pages/3/31/Choice/0
+> CONTEXT: Map285/events/7/pages/1/6/Choice/0
+> CONTEXT: Map282/events/58/pages/1/6/Choice/0
+> CONTEXT: Map285/events/7/pages/1/32/Choice/0
+> CONTEXT: Map282/events/58/pages/1/33/Choice/0
+> CONTEXT: Map285/events/7/pages/2/6/Choice/0
+> CONTEXT: Map282/events/58/pages/2/6/Choice/0
+> CONTEXT: Map283/events/19/pages/0/6/Choice/0
+> CONTEXT: Map285/events/7/pages/2/32/Choice/0
+> CONTEXT: Map282/events/58/pages/2/31/Choice/0
+> CONTEXT: Map283/events/19/pages/0/32/Choice/0
+> CONTEXT: Map282/events/58/pages/3/6/Choice/0
+> CONTEXT: Map283/events/23/pages/0/6/Choice/0
+> CONTEXT: Map282/events/58/pages/3/31/Choice/0
+> CONTEXT: Map283/events/23/pages/0/32/Choice/0
+> CONTEXT: Map282/events/59/pages/1/6/Choice/0
+> CONTEXT: Map283/events/24/pages/0/6/Choice/0
+> CONTEXT: Map282/events/59/pages/1/33/Choice/0
+> CONTEXT: Map283/events/24/pages/0/32/Choice/0
+> CONTEXT: Map282/events/59/pages/2/6/Choice/0
+> CONTEXT: Map282/events/59/pages/2/31/Choice/0
+> CONTEXT: Map285/events/9/pages/1/6/Choice/0
+> CONTEXT: Map282/events/59/pages/3/6/Choice/0
+> CONTEXT: Map285/events/9/pages/1/32/Choice/0
+> CONTEXT: Map282/events/59/pages/3/31/Choice/0
+> CONTEXT: Map285/events/9/pages/2/6/Choice/0
+> CONTEXT: Map285/events/9/pages/2/32/Choice/0
+> CONTEXT: Map285/events/10/pages/1/6/Choice/0
+> CONTEXT: Map285/events/10/pages/1/32/Choice/0
+> CONTEXT: Map285/events/10/pages/2/6/Choice/0
+> CONTEXT: Map285/events/10/pages/2/32/Choice/0
+> CONTEXT: Map278/events/26/pages/1/53/Choice/0
+> CONTEXT: Map278/events/26/pages/2/174/Choice/0
+> CONTEXT: Map272/events/1/pages/0/159/Choice/0
+> CONTEXT: Map278/events/26/pages/3/177/Choice/0
+> CONTEXT: Map278/events/26/pages/4/76/Choice/0
+> CONTEXT: Map216/events/5/pages/0/315/Choice/0
+> CONTEXT: Map215/events/5/pages/0/171/Choice/0
+> CONTEXT: Map200/events/1/pages/0/139/Choice/0
+> CONTEXT: Map189/events/1/pages/0/296/Choice/0
+> CONTEXT: Map195/events/19/pages/0/153/Choice/0
+> CONTEXT: Map188/events/56/pages/1/6/Choice/0
+> CONTEXT: Map188/events/56/pages/1/33/Choice/0
+> CONTEXT: Map188/events/56/pages/2/6/Choice/0
+> CONTEXT: Map188/events/56/pages/2/31/Choice/0
+> CONTEXT: Map188/events/56/pages/3/6/Choice/0
+> CONTEXT: Map188/events/56/pages/3/31/Choice/0
+> CONTEXT: Map188/events/58/pages/1/6/Choice/0
+> CONTEXT: Map188/events/58/pages/1/33/Choice/0
+> CONTEXT: Map188/events/58/pages/2/6/Choice/0
+> CONTEXT: Map188/events/58/pages/2/31/Choice/0
+> CONTEXT: Map188/events/58/pages/3/6/Choice/0
+> CONTEXT: Map188/events/58/pages/3/31/Choice/0
+> CONTEXT: Map188/events/59/pages/1/6/Choice/0
+> CONTEXT: Map188/events/59/pages/1/33/Choice/0
+> CONTEXT: Map188/events/59/pages/2/6/Choice/0
+> CONTEXT: Map188/events/59/pages/2/31/Choice/0
+> CONTEXT: Map188/events/59/pages/3/6/Choice/0
+> CONTEXT: Map188/events/59/pages/3/31/Choice/0
+> CONTEXT: Map166/events/19/pages/0/153/Choice/0
+> CONTEXT: Map159/events/3/pages/1/6/Choice/0
+> CONTEXT: Map159/events/3/pages/1/31/Choice/0
+> CONTEXT: Map159/events/3/pages/2/6/Choice/0
+> CONTEXT: Map159/events/3/pages/2/31/Choice/0
+> CONTEXT: Map154/events/4/pages/0/193/Choice/0
+> CONTEXT: Map154/events/4/pages/1/94/Choice/0
+> CONTEXT: Map153/events/2/pages/3/297/Choice/0
+> CONTEXT: Map153/events/7/pages/1/6/Choice/0
+> CONTEXT: Map153/events/7/pages/1/31/Choice/0
+> CONTEXT: Map153/events/8/pages/1/6/Choice/0
+> CONTEXT: Map153/events/8/pages/1/31/Choice/0
+> CONTEXT: Map153/events/10/pages/1/6/Choice/0
+> CONTEXT: Map153/events/10/pages/1/31/Choice/0
+> CONTEXT: Map134/events/10/pages/0/182/Choice/0
+> CONTEXT: Map134/events/10/pages/1/174/Choice/0
+> CONTEXT: Map133/events/1/pages/1/4/Choice/0
+> CONTEXT: Map133/events/2/pages/1/4/Choice/0
+> CONTEXT: Map133/events/3/pages/1/4/Choice/0
+> CONTEXT: Map134/events/10/pages/2/147/Choice/0
+> CONTEXT: Map153/events/16/pages/3/298/Choice/0
+> CONTEXT: Map131/events/5/pages/1/92/Choice/0
+> CONTEXT: Map125/events/4/pages/1/6/Choice/0
+> CONTEXT: Map125/events/4/pages/1/31/Choice/0
+> CONTEXT: Map153/events/17/pages/3/298/Choice/0
+> CONTEXT: Map131/events/8/pages/1/92/Choice/0
+> CONTEXT: Map125/events/4/pages/2/6/Choice/0
+> CONTEXT: Map125/events/4/pages/2/31/Choice/0
+> CONTEXT: Map125/events/5/pages/1/6/Choice/0
+> CONTEXT: Map125/events/5/pages/1/31/Choice/0
+> CONTEXT: Map125/events/5/pages/2/6/Choice/0
+> CONTEXT: Map125/events/5/pages/2/31/Choice/0
+> CONTEXT: Map122/events/5/pages/0/166/Choice/0
+> CONTEXT: Map125/events/6/pages/1/6/Choice/0
+> CONTEXT: Map125/events/6/pages/1/31/Choice/0
+> CONTEXT: Map125/events/6/pages/2/6/Choice/0
+> CONTEXT: Map125/events/6/pages/2/31/Choice/0
+> CONTEXT: Map121/events/5/pages/0/185/Choice/0
+> CONTEXT: Map125/events/8/pages/0/2/Choice/0
+> CONTEXT: Map120/events/5/pages/0/242/Choice/0
+> CONTEXT: Map131/events/9/pages/1/92/Choice/0
+> CONTEXT: Map119/events/5/pages/0/171/Choice/0
+> CONTEXT: Map131/events/10/pages/0/6/Choice/0
+> CONTEXT: Map131/events/10/pages/0/31/Choice/0
+> CONTEXT: Map131/events/11/pages/0/6/Choice/0
+> CONTEXT: Map131/events/11/pages/0/31/Choice/0
+> CONTEXT: Map131/events/12/pages/0/6/Choice/0
+> CONTEXT: Map131/events/12/pages/0/31/Choice/0
+> CONTEXT: Map131/events/16/pages/0/2/Choice/0
+> CONTEXT: Map111/events/7/pages/1/4/Choice/0
+> CONTEXT: Map107/events/6/pages/1/4/Choice/0
+> CONTEXT: Map101/events/15/pages/0/38/Choice/0
+> CONTEXT: Map101/events/16/pages/0/38/Choice/0
+> CONTEXT: Map101/events/17/pages/0/38/Choice/0
+> CONTEXT: Map094/events/1/pages/0/96/Choice/0
+> CONTEXT: Map094/events/4/pages/1/20/Choice/0
+> CONTEXT: Map094/events/4/pages/1/80/Choice/0
+> CONTEXT: Map094/events/4/pages/1/127/Choice/0
+> CONTEXT: Map094/events/4/pages/1/173/Choice/0
+> CONTEXT: Map094/events/4/pages/1/218/Choice/0
+> CONTEXT: Map094/events/4/pages/1/263/Choice/0
+> CONTEXT: Map094/events/4/pages/1/308/Choice/0
+> CONTEXT: Map094/events/4/pages/1/364/Choice/0
+> CONTEXT: Map085/events/5/pages/0/178/Choice/0
+> CONTEXT: Map094/events/7/pages/0/21/Choice/0
+> CONTEXT: Map097/events/7/pages/1/6/Choice/0
+> CONTEXT: Map097/events/7/pages/1/32/Choice/0
+> CONTEXT: Map097/events/7/pages/2/6/Choice/0
+> CONTEXT: Map097/events/7/pages/2/32/Choice/0
+> CONTEXT: Map082/events/7/pages/0/141/Choice/0
+> CONTEXT: Map082/events/7/pages/1/146/Choice/0
+> CONTEXT: Map097/events/9/pages/1/6/Choice/0
+> CONTEXT: Map097/events/9/pages/1/32/Choice/0
+> CONTEXT: Map097/events/9/pages/2/6/Choice/0
+> CONTEXT: Map080/events/5/pages/0/215/Choice/0
+> CONTEXT: Map097/events/9/pages/2/32/Choice/0
+> CONTEXT: Map097/events/10/pages/1/6/Choice/0
+> CONTEXT: Map097/events/10/pages/1/32/Choice/0
+> CONTEXT: Map097/events/10/pages/2/6/Choice/0
+> CONTEXT: Map097/events/10/pages/2/32/Choice/0
+> CONTEXT: Map075/events/4/pages/1/20/Choice/0
+> CONTEXT: Map071/events/1/pages/0/188/Choice/0
+> CONTEXT: Map075/events/4/pages/1/79/Choice/0
+> CONTEXT: Map070/events/5/pages/0/176/Choice/0
+> CONTEXT: Map075/events/4/pages/1/122/Choice/0
+> CONTEXT: Map075/events/4/pages/1/168/Choice/0
+> CONTEXT: Map075/events/4/pages/1/214/Choice/0
+> CONTEXT: Map075/events/4/pages/1/261/Choice/0
+> CONTEXT: Map075/events/4/pages/1/307/Choice/0
+> CONTEXT: Map075/events/4/pages/1/352/Choice/0
+> CONTEXT: Map075/events/4/pages/1/397/Choice/0
+> CONTEXT: Map075/events/4/pages/1/442/Choice/0
+> CONTEXT: Map075/events/4/pages/1/488/Choice/0
+> CONTEXT: Map075/events/4/pages/1/544/Choice/0
+> CONTEXT: Map075/events/4/pages/1/600/Choice/0
+> CONTEXT: Map062/events/5/pages/0/164/Choice/0
+> CONTEXT: Map066/events/19/pages/0/6/Choice/0
+> CONTEXT: Map066/events/19/pages/0/32/Choice/0
+> CONTEXT: Map066/events/23/pages/0/6/Choice/0
+> CONTEXT: Map066/events/23/pages/0/32/Choice/0
+> CONTEXT: Map066/events/24/pages/0/6/Choice/0
+> CONTEXT: Map066/events/24/pages/0/32/Choice/0
+> CONTEXT: Map050/events/56/pages/1/6/Choice/0
+> CONTEXT: Map050/events/56/pages/1/33/Choice/0
+> CONTEXT: Map050/events/56/pages/2/6/Choice/0
+> CONTEXT: Map050/events/56/pages/2/31/Choice/0
+> CONTEXT: Map050/events/56/pages/3/6/Choice/0
+> CONTEXT: Map050/events/56/pages/3/31/Choice/0
+> CONTEXT: Map041/events/5/pages/0/178/Choice/0
+> CONTEXT: Map042/events/5/pages/0/219/Choice/0
+> CONTEXT: Map050/events/58/pages/1/6/Choice/0
+> CONTEXT: Map050/events/58/pages/1/33/Choice/0
+> CONTEXT: Map038/events/4/pages/0/554/Choice/0
+> CONTEXT: Map050/events/58/pages/2/6/Choice/0
+> CONTEXT: Map050/events/58/pages/2/31/Choice/0
+> CONTEXT: Map050/events/58/pages/3/6/Choice/0
+> CONTEXT: Map050/events/58/pages/3/31/Choice/0
+> CONTEXT: Map050/events/59/pages/1/6/Choice/0
+> CONTEXT: Map050/events/59/pages/1/33/Choice/0
+> CONTEXT: Map050/events/59/pages/2/6/Choice/0
+> CONTEXT: Map050/events/59/pages/2/31/Choice/0
+> CONTEXT: Map050/events/59/pages/3/6/Choice/0
+> CONTEXT: Map050/events/59/pages/3/31/Choice/0
+> CONTEXT: Map030/events/1/pages/0/22/Choice/0
+> CONTEXT: Map030/events/1/pages/0/41/Choice/0
+> CONTEXT: Map030/events/1/pages/0/60/Choice/0
+> CONTEXT: Map030/events/1/pages/0/80/Choice/0
+> CONTEXT: Map028/events/2/pages/0/41/Choice/0
+> CONTEXT: Map030/events/1/pages/0/105/Choice/0
+> CONTEXT: Map030/events/1/pages/0/124/Choice/0
+> CONTEXT: Map027/events/5/pages/0/231/Choice/0
+> CONTEXT: Map030/events/1/pages/0/144/Choice/0
+> CONTEXT: Map028/events/2/pages/1/27/Choice/0
+> CONTEXT: Map028/events/2/pages/1/44/Choice/0
+> CONTEXT: Map030/events/1/pages/0/169/Choice/0
+> CONTEXT: Map030/events/1/pages/0/195/Choice/0
+> CONTEXT: Map030/events/1/pages/0/215/Choice/0
+> CONTEXT: Map030/events/1/pages/0/246/Choice/0
+> CONTEXT: Map030/events/1/pages/0/278/Choice/0
+> CONTEXT: Map030/events/1/pages/0/313/Choice/0
+> CONTEXT: Map018/events/2/pages/0/36/Choice/0
+> CONTEXT: Map018/events/2/pages/0/51/Choice/0
+> CONTEXT: Map018/events/2/pages/0/66/Choice/0
+> CONTEXT: Map019/events/5/pages/0/155/Choice/0
+> CONTEXT: Map018/events/2/pages/0/87/Choice/0
+> CONTEXT: Map018/events/2/pages/0/121/Choice/0
+> CONTEXT: Map018/events/2/pages/0/137/Choice/0
+> CONTEXT: Map007/events/26/pages/1/53/Choice/0
+> CONTEXT: Map007/events/26/pages/2/174/Choice/0
+> CONTEXT: Map007/events/26/pages/3/177/Choice/0
+> CONTEXT: Map007/events/26/pages/4/76/Choice/0
+> CONTEXT: Map002/events/1/pages/0/344/Choice/0
+> CONTEXT: Map002/events/1/pages/0/360/Choice/0
+> CONTEXT: Map002/events/1/pages/0/376/Choice/0
+> CONTEXT: Map002/events/1/pages/0/428/Choice/0
+> CONTEXT: Map002/events/1/pages/0/444/Choice/0
+> CONTEXT: Map002/events/1/pages/0/460/Choice/0
+> CONTEXT: Map002/events/1/pages/0/504/Choice/0
+> CONTEXT: Map002/events/1/pages/0/520/Choice/0
+> CONTEXT: Map002/events/1/pages/0/572/Choice/0
+> CONTEXT: Map002/events/1/pages/0/588/Choice/0
+> CONTEXT: Map002/events/1/pages/0/604/Choice/0
+> CONTEXT: Map002/events/1/pages/0/652/Choice/0
+> CONTEXT: Map003/events/2/pages/2/46/Choice/0
+> CONTEXT: Map002/events/1/pages/0/668/Choice/0
+> CONTEXT: Map003/events/2/pages/2/61/Choice/0
+> CONTEXT: Map003/events/2/pages/2/76/Choice/0
+> CONTEXT: Map002/events/1/pages/0/712/Choice/0
+> CONTEXT: Map003/events/2/pages/2/97/Choice/0
+> CONTEXT: Map002/events/1/pages/0/728/Choice/0
+> CONTEXT: Map014/events/112/pages/0/18/Choice/0
+> CONTEXT: Map002/events/1/pages/0/788/Choice/0
+> CONTEXT: Map003/events/2/pages/2/145/Choice/0
+> CONTEXT: Map002/events/1/pages/0/804/Choice/0
+> CONTEXT: Map003/events/2/pages/2/162/Choice/0
+> CONTEXT: Map002/events/1/pages/0/820/Choice/0
+> CONTEXT: Map003/events/2/pages/2/179/Choice/0
+> CONTEXT: Map003/events/2/pages/2/196/Choice/0
+> CONTEXT: Map002/events/1/pages/0/880/Choice/0
+> CONTEXT: Map003/events/2/pages/2/217/Choice/0
+> CONTEXT: Map002/events/1/pages/0/896/Choice/0
+> CONTEXT: Map003/events/2/pages/2/234/Choice/0
+> CONTEXT: Map002/events/1/pages/0/912/Choice/0
+> CONTEXT: Map003/events/2/pages/2/251/Choice/0
+> CONTEXT: Map002/events/1/pages/0/928/Choice/0
+> CONTEXT: Map003/events/2/pages/2/268/Choice/0
+> CONTEXT: Map003/events/2/pages/2/289/Choice/0
+> CONTEXT: Map002/events/1/pages/0/976/Choice/0
+> CONTEXT: Map003/events/2/pages/2/306/Choice/0
+> CONTEXT: Map002/events/1/pages/0/992/Choice/0
+> CONTEXT: Map003/events/2/pages/2/323/Choice/0
+> CONTEXT: Map003/events/2/pages/2/340/Choice/0
+> CONTEXT: Map002/events/1/pages/0/1052/Choice/0
+> CONTEXT: Map002/events/1/pages/0/1068/Choice/0
+> CONTEXT: Map002/events/1/pages/0/1084/Choice/0
+> CONTEXT: Map003/events/2/pages/5/46/Choice/0
+> CONTEXT: Map002/events/1/pages/0/1100/Choice/0
+> CONTEXT: Map003/events/2/pages/5/61/Choice/0
+> CONTEXT: Map003/events/2/pages/5/76/Choice/0
+> CONTEXT: Map002/events/1/pages/0/1152/Choice/0
+> CONTEXT: Map003/events/2/pages/5/97/Choice/0
+> CONTEXT: Map002/events/1/pages/0/1184/Choice/0
+> CONTEXT: Map002/events/1/pages/0/1200/Choice/0
+> CONTEXT: Map003/events/2/pages/5/145/Choice/0
+> CONTEXT: Map003/events/2/pages/5/162/Choice/0
+> CONTEXT: Map002/events/1/pages/0/1244/Choice/0
+> CONTEXT: Map003/events/2/pages/5/179/Choice/0
+> CONTEXT: Map002/events/1/pages/0/1276/Choice/0
+> CONTEXT: Map003/events/2/pages/5/196/Choice/0
+> CONTEXT: Map003/events/2/pages/5/217/Choice/0
+> CONTEXT: Map002/events/1/pages/0/1324/Choice/0
+> CONTEXT: Map003/events/2/pages/5/234/Choice/0
+> CONTEXT: Map002/events/1/pages/0/1340/Choice/0
+> CONTEXT: Map003/events/2/pages/5/251/Choice/0
+> CONTEXT: Map003/events/2/pages/5/268/Choice/0
+> CONTEXT: Map002/events/1/pages/0/1376/Choice/0
+> CONTEXT: Map003/events/2/pages/5/289/Choice/0
+> CONTEXT: Map003/events/2/pages/5/306/Choice/0
+> CONTEXT: Map002/events/1/pages/0/1428/Choice/0
+> CONTEXT: Map003/events/2/pages/5/323/Choice/0
+> CONTEXT: Map002/events/1/pages/0/1444/Choice/0
+> CONTEXT: Map003/events/2/pages/5/340/Choice/0
+> CONTEXT: Map002/events/1/pages/0/1460/Choice/0
+> CONTEXT: Map003/events/2/pages/5/361/Choice/0
+> CONTEXT: Map002/events/1/pages/0/1496/Choice/0
+> CONTEXT: Map003/events/2/pages/5/378/Choice/0
+> CONTEXT: Map002/events/1/pages/0/1536/Choice/0
+> CONTEXT: Map003/events/6/pages/3/2/Choice/0
+> CONTEXT: Map002/events/1/pages/0/1580/Choice/0
+> CONTEXT: Map002/events/1/pages/0/1612/Choice/0
+> CONTEXT: Map003/events/19/pages/0/153/Choice/0
+> CONTEXT: Commonevents/180/148/Choice/0
+> CONTEXT: Commonevents/180/191/Choice/0
+Yes#Dargoth
+> END STRING
+
+> BEGIN STRING
+いいえ
+> CONTEXT: Map286/events/4/pages/1/6/Choice/1
+> CONTEXT: Map286/events/4/pages/1/31/Choice/1
+> CONTEXT: Map286/events/4/pages/2/6/Choice/1
+> CONTEXT: Map286/events/4/pages/2/31/Choice/1
+> CONTEXT: Map286/events/5/pages/1/6/Choice/1
+> CONTEXT: Map286/events/5/pages/1/31/Choice/1
+> CONTEXT: Map286/events/5/pages/2/6/Choice/1
+> CONTEXT: Map286/events/5/pages/2/31/Choice/1
+> CONTEXT: Map286/events/6/pages/1/6/Choice/1
+> CONTEXT: Map286/events/6/pages/1/31/Choice/1
+> CONTEXT: Map286/events/6/pages/2/6/Choice/1
+> CONTEXT: Map286/events/6/pages/2/31/Choice/1
+> CONTEXT: Map284/events/1/pages/0/112/Choice/1
+> CONTEXT: Map282/events/56/pages/1/6/Choice/1
+> CONTEXT: Map282/events/56/pages/1/33/Choice/1
+> CONTEXT: Map282/events/56/pages/2/6/Choice/1
+> CONTEXT: Map282/events/56/pages/2/31/Choice/1
+> CONTEXT: Map282/events/56/pages/3/6/Choice/1
+> CONTEXT: Map281/events/4/pages/0/259/Choice/1
+> CONTEXT: Map282/events/56/pages/3/31/Choice/1
+> CONTEXT: Map285/events/7/pages/1/6/Choice/1
+> CONTEXT: Map282/events/58/pages/1/6/Choice/1
+> CONTEXT: Map285/events/7/pages/1/32/Choice/1
+> CONTEXT: Map282/events/58/pages/1/33/Choice/1
+> CONTEXT: Map285/events/7/pages/2/6/Choice/1
+> CONTEXT: Map282/events/58/pages/2/6/Choice/1
+> CONTEXT: Map283/events/19/pages/0/6/Choice/1
+> CONTEXT: Map285/events/7/pages/2/32/Choice/1
+> CONTEXT: Map282/events/58/pages/2/31/Choice/1
+> CONTEXT: Map283/events/19/pages/0/32/Choice/1
+> CONTEXT: Map282/events/58/pages/3/6/Choice/1
+> CONTEXT: Map283/events/23/pages/0/6/Choice/1
+> CONTEXT: Map282/events/58/pages/3/31/Choice/1
+> CONTEXT: Map283/events/23/pages/0/32/Choice/1
+> CONTEXT: Map282/events/59/pages/1/6/Choice/1
+> CONTEXT: Map283/events/24/pages/0/6/Choice/1
+> CONTEXT: Map282/events/59/pages/1/33/Choice/1
+> CONTEXT: Map283/events/24/pages/0/32/Choice/1
+> CONTEXT: Map282/events/59/pages/2/6/Choice/1
+> CONTEXT: Map282/events/59/pages/2/31/Choice/1
+> CONTEXT: Map285/events/9/pages/1/6/Choice/1
+> CONTEXT: Map282/events/59/pages/3/6/Choice/1
+> CONTEXT: Map285/events/9/pages/1/32/Choice/1
+> CONTEXT: Map282/events/59/pages/3/31/Choice/1
+> CONTEXT: Map285/events/9/pages/2/6/Choice/1
+> CONTEXT: Map285/events/9/pages/2/32/Choice/1
+> CONTEXT: Map285/events/10/pages/1/6/Choice/1
+> CONTEXT: Map285/events/10/pages/1/32/Choice/1
+> CONTEXT: Map285/events/10/pages/2/6/Choice/1
+> CONTEXT: Map285/events/10/pages/2/32/Choice/1
+> CONTEXT: Map278/events/26/pages/1/53/Choice/1
+> CONTEXT: Map278/events/26/pages/2/174/Choice/1
+> CONTEXT: Map272/events/1/pages/0/159/Choice/1
+> CONTEXT: Map278/events/26/pages/3/177/Choice/1
+> CONTEXT: Map278/events/26/pages/4/76/Choice/1
+> CONTEXT: Map215/events/5/pages/0/171/Choice/1
+> CONTEXT: Map216/events/5/pages/0/315/Choice/1
+> CONTEXT: Map200/events/1/pages/0/139/Choice/1
+> CONTEXT: Map189/events/1/pages/0/296/Choice/1
+> CONTEXT: Map195/events/19/pages/0/153/Choice/1
+> CONTEXT: Map188/events/56/pages/1/6/Choice/1
+> CONTEXT: Map188/events/56/pages/1/33/Choice/1
+> CONTEXT: Map188/events/56/pages/2/6/Choice/1
+> CONTEXT: Map188/events/56/pages/2/31/Choice/1
+> CONTEXT: Map188/events/56/pages/3/6/Choice/1
+> CONTEXT: Map188/events/56/pages/3/31/Choice/1
+> CONTEXT: Map188/events/58/pages/1/6/Choice/1
+> CONTEXT: Map188/events/58/pages/1/33/Choice/1
+> CONTEXT: Map188/events/58/pages/2/6/Choice/1
+> CONTEXT: Map188/events/58/pages/2/31/Choice/1
+> CONTEXT: Map188/events/58/pages/3/6/Choice/1
+> CONTEXT: Map188/events/58/pages/3/31/Choice/1
+> CONTEXT: Map188/events/59/pages/1/6/Choice/1
+> CONTEXT: Map188/events/59/pages/1/33/Choice/1
+> CONTEXT: Map188/events/59/pages/2/6/Choice/1
+> CONTEXT: Map188/events/59/pages/2/31/Choice/1
+> CONTEXT: Map188/events/59/pages/3/6/Choice/1
+> CONTEXT: Map188/events/59/pages/3/31/Choice/1
+> CONTEXT: Map166/events/19/pages/0/153/Choice/1
+> CONTEXT: Map159/events/3/pages/1/6/Choice/1
+> CONTEXT: Map159/events/3/pages/1/31/Choice/1
+> CONTEXT: Map159/events/3/pages/2/6/Choice/1
+> CONTEXT: Map159/events/3/pages/2/31/Choice/1
+> CONTEXT: Map154/events/4/pages/0/193/Choice/1
+> CONTEXT: Map154/events/4/pages/1/94/Choice/1
+> CONTEXT: Map153/events/2/pages/3/297/Choice/1
+> CONTEXT: Map153/events/7/pages/1/6/Choice/1
+> CONTEXT: Map153/events/7/pages/1/31/Choice/1
+> CONTEXT: Map153/events/8/pages/1/6/Choice/1
+> CONTEXT: Map153/events/8/pages/1/31/Choice/1
+> CONTEXT: Map153/events/10/pages/1/6/Choice/1
+> CONTEXT: Map153/events/10/pages/1/31/Choice/1
+> CONTEXT: Map134/events/10/pages/0/182/Choice/1
+> CONTEXT: Map134/events/10/pages/1/174/Choice/1
+> CONTEXT: Map133/events/1/pages/1/4/Choice/1
+> CONTEXT: Map133/events/2/pages/1/4/Choice/1
+> CONTEXT: Map133/events/3/pages/1/4/Choice/1
+> CONTEXT: Map134/events/10/pages/2/147/Choice/1
+> CONTEXT: Map153/events/16/pages/3/298/Choice/1
+> CONTEXT: Map131/events/5/pages/1/92/Choice/1
+> CONTEXT: Map125/events/4/pages/1/6/Choice/1
+> CONTEXT: Map125/events/4/pages/1/31/Choice/1
+> CONTEXT: Map153/events/17/pages/3/298/Choice/1
+> CONTEXT: Map131/events/8/pages/1/92/Choice/1
+> CONTEXT: Map125/events/4/pages/2/6/Choice/1
+> CONTEXT: Map125/events/4/pages/2/31/Choice/1
+> CONTEXT: Map125/events/5/pages/1/6/Choice/1
+> CONTEXT: Map125/events/5/pages/1/31/Choice/1
+> CONTEXT: Map125/events/5/pages/2/6/Choice/1
+> CONTEXT: Map125/events/5/pages/2/31/Choice/1
+> CONTEXT: Map122/events/5/pages/0/166/Choice/1
+> CONTEXT: Map125/events/6/pages/1/6/Choice/1
+> CONTEXT: Map125/events/6/pages/1/31/Choice/1
+> CONTEXT: Map125/events/6/pages/2/6/Choice/1
+> CONTEXT: Map125/events/6/pages/2/31/Choice/1
+> CONTEXT: Map121/events/5/pages/0/185/Choice/1
+> CONTEXT: Map125/events/8/pages/0/2/Choice/1
+> CONTEXT: Map120/events/5/pages/0/242/Choice/1
+> CONTEXT: Map131/events/9/pages/1/92/Choice/1
+> CONTEXT: Map119/events/5/pages/0/171/Choice/1
+> CONTEXT: Map131/events/10/pages/0/6/Choice/1
+> CONTEXT: Map131/events/10/pages/0/31/Choice/1
+> CONTEXT: Map131/events/11/pages/0/6/Choice/1
+> CONTEXT: Map131/events/11/pages/0/31/Choice/1
+> CONTEXT: Map131/events/12/pages/0/6/Choice/1
+> CONTEXT: Map131/events/12/pages/0/31/Choice/1
+> CONTEXT: Map131/events/16/pages/0/2/Choice/1
+> CONTEXT: Map111/events/7/pages/1/4/Choice/1
+> CONTEXT: Map107/events/6/pages/1/4/Choice/1
+> CONTEXT: Map101/events/15/pages/0/38/Choice/1
+> CONTEXT: Map101/events/16/pages/0/38/Choice/1
+> CONTEXT: Map101/events/17/pages/0/38/Choice/1
+> CONTEXT: Map094/events/1/pages/0/96/Choice/1
+> CONTEXT: Map094/events/4/pages/1/20/Choice/1
+> CONTEXT: Map094/events/4/pages/1/80/Choice/1
+> CONTEXT: Map094/events/4/pages/1/127/Choice/1
+> CONTEXT: Map094/events/4/pages/1/173/Choice/1
+> CONTEXT: Map094/events/4/pages/1/218/Choice/1
+> CONTEXT: Map094/events/4/pages/1/263/Choice/1
+> CONTEXT: Map094/events/4/pages/1/308/Choice/1
+> CONTEXT: Map094/events/4/pages/1/364/Choice/1
+> CONTEXT: Map085/events/5/pages/0/178/Choice/1
+> CONTEXT: Map094/events/7/pages/0/21/Choice/1
+> CONTEXT: Map097/events/7/pages/1/6/Choice/1
+> CONTEXT: Map097/events/7/pages/1/32/Choice/1
+> CONTEXT: Map097/events/7/pages/2/6/Choice/1
+> CONTEXT: Map097/events/7/pages/2/32/Choice/1
+> CONTEXT: Map082/events/7/pages/0/141/Choice/1
+> CONTEXT: Map082/events/7/pages/1/146/Choice/1
+> CONTEXT: Map097/events/9/pages/1/6/Choice/1
+> CONTEXT: Map097/events/9/pages/1/32/Choice/1
+> CONTEXT: Map097/events/9/pages/2/6/Choice/1
+> CONTEXT: Map080/events/5/pages/0/215/Choice/1
+> CONTEXT: Map097/events/9/pages/2/32/Choice/1
+> CONTEXT: Map097/events/10/pages/1/6/Choice/1
+> CONTEXT: Map097/events/10/pages/1/32/Choice/1
+> CONTEXT: Map097/events/10/pages/2/6/Choice/1
+> CONTEXT: Map097/events/10/pages/2/32/Choice/1
+> CONTEXT: Map075/events/4/pages/1/20/Choice/1
+> CONTEXT: Map071/events/1/pages/0/188/Choice/1
+> CONTEXT: Map075/events/4/pages/1/79/Choice/1
+> CONTEXT: Map070/events/5/pages/0/176/Choice/1
+> CONTEXT: Map075/events/4/pages/1/122/Choice/1
+> CONTEXT: Map075/events/4/pages/1/168/Choice/1
+> CONTEXT: Map075/events/4/pages/1/214/Choice/1
+> CONTEXT: Map075/events/4/pages/1/261/Choice/1
+> CONTEXT: Map075/events/4/pages/1/307/Choice/1
+> CONTEXT: Map075/events/4/pages/1/352/Choice/1
+> CONTEXT: Map075/events/4/pages/1/397/Choice/1
+> CONTEXT: Map075/events/4/pages/1/442/Choice/1
+> CONTEXT: Map075/events/4/pages/1/488/Choice/1
+> CONTEXT: Map075/events/4/pages/1/544/Choice/1
+> CONTEXT: Map075/events/4/pages/1/600/Choice/1
+> CONTEXT: Map062/events/5/pages/0/164/Choice/1
+> CONTEXT: Map066/events/19/pages/0/6/Choice/1
+> CONTEXT: Map066/events/19/pages/0/32/Choice/1
+> CONTEXT: Map066/events/23/pages/0/6/Choice/1
+> CONTEXT: Map066/events/23/pages/0/32/Choice/1
+> CONTEXT: Map066/events/24/pages/0/6/Choice/1
+> CONTEXT: Map066/events/24/pages/0/32/Choice/1
+> CONTEXT: Map050/events/56/pages/1/6/Choice/1
+> CONTEXT: Map050/events/56/pages/1/33/Choice/1
+> CONTEXT: Map050/events/56/pages/2/6/Choice/1
+> CONTEXT: Map050/events/56/pages/2/31/Choice/1
+> CONTEXT: Map050/events/56/pages/3/6/Choice/1
+> CONTEXT: Map050/events/56/pages/3/31/Choice/1
+> CONTEXT: Map041/events/5/pages/0/178/Choice/1
+> CONTEXT: Map042/events/5/pages/0/219/Choice/1
+> CONTEXT: Map050/events/58/pages/1/6/Choice/1
+> CONTEXT: Map050/events/58/pages/1/33/Choice/1
+> CONTEXT: Map038/events/4/pages/0/554/Choice/1
+> CONTEXT: Map050/events/58/pages/2/6/Choice/1
+> CONTEXT: Map050/events/58/pages/2/31/Choice/1
+> CONTEXT: Map050/events/58/pages/3/6/Choice/1
+> CONTEXT: Map050/events/58/pages/3/31/Choice/1
+> CONTEXT: Map050/events/59/pages/1/6/Choice/1
+> CONTEXT: Map050/events/59/pages/1/33/Choice/1
+> CONTEXT: Map050/events/59/pages/2/6/Choice/1
+> CONTEXT: Map050/events/59/pages/2/31/Choice/1
+> CONTEXT: Map050/events/59/pages/3/6/Choice/1
+> CONTEXT: Map050/events/59/pages/3/31/Choice/1
+> CONTEXT: Map030/events/1/pages/0/22/Choice/1
+> CONTEXT: Map030/events/1/pages/0/41/Choice/1
+> CONTEXT: Map030/events/1/pages/0/60/Choice/1
+> CONTEXT: Map030/events/1/pages/0/80/Choice/1
+> CONTEXT: Map028/events/2/pages/0/41/Choice/1
+> CONTEXT: Map030/events/1/pages/0/105/Choice/1
+> CONTEXT: Map030/events/1/pages/0/124/Choice/1
+> CONTEXT: Map027/events/5/pages/0/231/Choice/1
+> CONTEXT: Map030/events/1/pages/0/144/Choice/1
+> CONTEXT: Map028/events/2/pages/1/27/Choice/1
+> CONTEXT: Map028/events/2/pages/1/44/Choice/1
+> CONTEXT: Map030/events/1/pages/0/169/Choice/1
+> CONTEXT: Map030/events/1/pages/0/195/Choice/1
+> CONTEXT: Map030/events/1/pages/0/215/Choice/1
+> CONTEXT: Map030/events/1/pages/0/246/Choice/1
+> CONTEXT: Map030/events/1/pages/0/278/Choice/1
+> CONTEXT: Map030/events/1/pages/0/313/Choice/1
+> CONTEXT: Map018/events/2/pages/0/36/Choice/1
+> CONTEXT: Map018/events/2/pages/0/51/Choice/1
+> CONTEXT: Map018/events/2/pages/0/66/Choice/1
+> CONTEXT: Map019/events/5/pages/0/155/Choice/1
+> CONTEXT: Map018/events/2/pages/0/87/Choice/1
+> CONTEXT: Map018/events/2/pages/0/121/Choice/1
+> CONTEXT: Map018/events/2/pages/0/137/Choice/1
+> CONTEXT: Map007/events/26/pages/1/53/Choice/1
+> CONTEXT: Map007/events/26/pages/2/174/Choice/1
+> CONTEXT: Map007/events/26/pages/3/177/Choice/1
+> CONTEXT: Map007/events/26/pages/4/76/Choice/1
+> CONTEXT: Map002/events/1/pages/0/344/Choice/1
+> CONTEXT: Map002/events/1/pages/0/360/Choice/1
+> CONTEXT: Map002/events/1/pages/0/376/Choice/1
+> CONTEXT: Map002/events/1/pages/0/428/Choice/1
+> CONTEXT: Map002/events/1/pages/0/444/Choice/1
+> CONTEXT: Map002/events/1/pages/0/460/Choice/1
+> CONTEXT: Map002/events/1/pages/0/504/Choice/1
+> CONTEXT: Map002/events/1/pages/0/520/Choice/1
+> CONTEXT: Map002/events/1/pages/0/572/Choice/1
+> CONTEXT: Map002/events/1/pages/0/588/Choice/1
+> CONTEXT: Map002/events/1/pages/0/604/Choice/1
+> CONTEXT: Map002/events/1/pages/0/652/Choice/1
+> CONTEXT: Map003/events/2/pages/2/46/Choice/1
+> CONTEXT: Map002/events/1/pages/0/668/Choice/1
+> CONTEXT: Map003/events/2/pages/2/61/Choice/1
+> CONTEXT: Map003/events/2/pages/2/76/Choice/1
+> CONTEXT: Map002/events/1/pages/0/712/Choice/1
+> CONTEXT: Map003/events/2/pages/2/97/Choice/1
+> CONTEXT: Map002/events/1/pages/0/728/Choice/1
+> CONTEXT: Map014/events/112/pages/0/18/Choice/1
+> CONTEXT: Map002/events/1/pages/0/788/Choice/1
+> CONTEXT: Map003/events/2/pages/2/145/Choice/1
+> CONTEXT: Map002/events/1/pages/0/804/Choice/1
+> CONTEXT: Map003/events/2/pages/2/162/Choice/1
+> CONTEXT: Map002/events/1/pages/0/820/Choice/1
+> CONTEXT: Map003/events/2/pages/2/179/Choice/1
+> CONTEXT: Map003/events/2/pages/2/196/Choice/1
+> CONTEXT: Map002/events/1/pages/0/880/Choice/1
+> CONTEXT: Map003/events/2/pages/2/217/Choice/1
+> CONTEXT: Map002/events/1/pages/0/896/Choice/1
+> CONTEXT: Map003/events/2/pages/2/234/Choice/1
+> CONTEXT: Map002/events/1/pages/0/912/Choice/1
+> CONTEXT: Map003/events/2/pages/2/251/Choice/1
+> CONTEXT: Map002/events/1/pages/0/928/Choice/1
+> CONTEXT: Map003/events/2/pages/2/268/Choice/1
+> CONTEXT: Map003/events/2/pages/2/289/Choice/1
+> CONTEXT: Map002/events/1/pages/0/976/Choice/1
+> CONTEXT: Map003/events/2/pages/2/306/Choice/1
+> CONTEXT: Map002/events/1/pages/0/992/Choice/1
+> CONTEXT: Map003/events/2/pages/2/323/Choice/1
+> CONTEXT: Map003/events/2/pages/2/340/Choice/1
+> CONTEXT: Map002/events/1/pages/0/1052/Choice/1
+> CONTEXT: Map002/events/1/pages/0/1068/Choice/1
+> CONTEXT: Map002/events/1/pages/0/1084/Choice/1
+> CONTEXT: Map003/events/2/pages/5/46/Choice/1
+> CONTEXT: Map002/events/1/pages/0/1100/Choice/1
+> CONTEXT: Map003/events/2/pages/5/61/Choice/1
+> CONTEXT: Map003/events/2/pages/5/76/Choice/1
+> CONTEXT: Map002/events/1/pages/0/1152/Choice/1
+> CONTEXT: Map003/events/2/pages/5/97/Choice/1
+> CONTEXT: Map002/events/1/pages/0/1184/Choice/1
+> CONTEXT: Map002/events/1/pages/0/1200/Choice/1
+> CONTEXT: Map003/events/2/pages/5/145/Choice/1
+> CONTEXT: Map003/events/2/pages/5/162/Choice/1
+> CONTEXT: Map002/events/1/pages/0/1244/Choice/1
+> CONTEXT: Map003/events/2/pages/5/179/Choice/1
+> CONTEXT: Map002/events/1/pages/0/1276/Choice/1
+> CONTEXT: Map003/events/2/pages/5/196/Choice/1
+> CONTEXT: Map003/events/2/pages/5/217/Choice/1
+> CONTEXT: Map002/events/1/pages/0/1324/Choice/1
+> CONTEXT: Map003/events/2/pages/5/234/Choice/1
+> CONTEXT: Map002/events/1/pages/0/1340/Choice/1
+> CONTEXT: Map003/events/2/pages/5/251/Choice/1
+> CONTEXT: Map003/events/2/pages/5/268/Choice/1
+> CONTEXT: Map002/events/1/pages/0/1376/Choice/1
+> CONTEXT: Map003/events/2/pages/5/289/Choice/1
+> CONTEXT: Map003/events/2/pages/5/306/Choice/1
+> CONTEXT: Map002/events/1/pages/0/1428/Choice/1
+> CONTEXT: Map003/events/2/pages/5/323/Choice/1
+> CONTEXT: Map002/events/1/pages/0/1444/Choice/1
+> CONTEXT: Map003/events/2/pages/5/340/Choice/1
+> CONTEXT: Map002/events/1/pages/0/1460/Choice/1
+> CONTEXT: Map003/events/2/pages/5/361/Choice/1
+> CONTEXT: Map002/events/1/pages/0/1496/Choice/1
+> CONTEXT: Map003/events/2/pages/5/378/Choice/1
+> CONTEXT: Map002/events/1/pages/0/1536/Choice/1
+> CONTEXT: Map003/events/6/pages/3/2/Choice/1
+> CONTEXT: Map002/events/1/pages/0/1580/Choice/1
+> CONTEXT: Map002/events/1/pages/0/1612/Choice/1
+> CONTEXT: Map003/events/19/pages/0/153/Choice/1
+> CONTEXT: Commonevents/180/148/Choice/1
+> CONTEXT: Commonevents/180/191/Choice/1
+No#Dargoth
+> END STRING
+
+> SHORTENED: CommonEvents_294.txt
+
+> BEGIN STRING
+何もしない
+> CONTEXT: Map288/events/4/pages/0/4/Choice/1
+> CONTEXT: Map283/events/25/pages/1/3/Choice/1
+> CONTEXT: Map283/events/25/pages/2/3/Choice/1
+> CONTEXT: Map278/events/12/pages/2/6/Choice/0
+> CONTEXT: Map278/events/13/pages/2/6/Choice/0
+> CONTEXT: Map274/events/5/pages/0/3/Choice/1
+> CONTEXT: Map274/events/8/pages/0/4/Choice/1
+> CONTEXT: Map193/events/25/pages/0/3/Choice/1
+> CONTEXT: Map193/events/27/pages/0/4/Choice/1
+> CONTEXT: Map192/events/8/pages/0/4/Choice/1
+> CONTEXT: Map187/events/26/pages/0/4/Choice/1
+> CONTEXT: Map163/events/5/pages/0/3/Choice/1
+> CONTEXT: Map163/events/8/pages/0/4/Choice/1
+> CONTEXT: Map158/events/5/pages/0/3/Choice/1
+> CONTEXT: Map158/events/8/pages/0/4/Choice/1
+> CONTEXT: Map157/events/5/pages/0/3/Choice/1
+> CONTEXT: Map155/events/5/pages/0/3/Choice/1
+> CONTEXT: Map157/events/8/pages/0/4/Choice/1
+> CONTEXT: Map155/events/8/pages/0/4/Choice/1
+> CONTEXT: Map152/events/4/pages/0/4/Choice/1
+> CONTEXT: Map143/events/11/pages/0/10/Choice/1
+> CONTEXT: Map141/events/5/pages/0/3/Choice/1
+> CONTEXT: Map143/events/17/pages/0/10/Choice/1
+> CONTEXT: Map141/events/8/pages/0/4/Choice/1
+> CONTEXT: Map138/events/3/pages/0/10/Choice/1
+> CONTEXT: Map136/events/9/pages/0/4/Choice/1
+> CONTEXT: Map135/events/5/pages/0/3/Choice/1
+> CONTEXT: Map135/events/9/pages/0/4/Choice/1
+> CONTEXT: Map130/events/3/pages/0/10/Choice/1
+> CONTEXT: Map123/events/5/pages/0/3/Choice/1
+> CONTEXT: Map123/events/8/pages/0/4/Choice/1
+> CONTEXT: Map118/events/11/pages/0/21/Choice/0
+> CONTEXT: Map117/events/8/pages/0/4/Choice/1
+> CONTEXT: Map105/events/11/pages/0/10/Choice/1
+> CONTEXT: Map105/events/17/pages/0/10/Choice/1
+> CONTEXT: Map100/events/5/pages/0/3/Choice/1
+> CONTEXT: Map100/events/8/pages/0/4/Choice/1
+> CONTEXT: Map094/events/7/pages/0/4/Choice/0
+> CONTEXT: Map094/events/8/pages/0/4/Choice/1
+> CONTEXT: Map094/events/9/pages/0/3/Choice/1
+> CONTEXT: Map076/events/5/pages/1/3/Choice/1
+> CONTEXT: Map076/events/5/pages/2/3/Choice/1
+> CONTEXT: Map076/events/8/pages/2/4/Choice/1
+> CONTEXT: Map065/events/26/pages/0/4/Choice/1
+> CONTEXT: Map064/events/5/pages/1/3/Choice/1
+> CONTEXT: Map064/events/5/pages/2/3/Choice/1
+> CONTEXT: Map064/events/8/pages/0/4/Choice/1
+> CONTEXT: Map066/events/25/pages/1/3/Choice/1
+> CONTEXT: Map066/events/25/pages/2/3/Choice/1
+> CONTEXT: Map053/events/5/pages/1/3/Choice/1
+> CONTEXT: Map053/events/5/pages/2/3/Choice/1
+> CONTEXT: Map053/events/8/pages/0/4/Choice/1
+> CONTEXT: Map048/events/5/pages/1/3/Choice/1
+> CONTEXT: Map048/events/5/pages/2/3/Choice/1
+> CONTEXT: Map048/events/8/pages/0/4/Choice/1
+> CONTEXT: Map036/events/5/pages/1/3/Choice/1
+> CONTEXT: Map036/events/5/pages/2/3/Choice/1
+> CONTEXT: Map036/events/8/pages/2/4/Choice/1
+> CONTEXT: Map032/events/8/pages/0/3/Choice/1
+> CONTEXT: Map032/events/8/pages/1/3/Choice/1
+> CONTEXT: Map022/events/2/pages/2/4/Choice/1
+> CONTEXT: Map022/events/17/pages/0/3/Choice/1
+> CONTEXT: Map015/events/5/pages/1/3/Choice/1
+> CONTEXT: Map015/events/5/pages/2/3/Choice/1
+> CONTEXT: Map015/events/8/pages/2/4/Choice/1
+> CONTEXT: Map013/events/5/pages/1/4/Choice/0
+> CONTEXT: Map013/events/5/pages/2/4/Choice/0
+> CONTEXT: Map011/events/6/pages/2/4/Choice/1
+> CONTEXT: Map012/events/5/pages/3/2/Choice/0
+> CONTEXT: Map007/events/12/pages/2/6/Choice/0
+> CONTEXT: Map007/events/13/pages/2/6/Choice/0
+> CONTEXT: Map011/events/16/pages/1/3/Choice/1
+> CONTEXT: Map011/events/16/pages/2/3/Choice/1
+> CONTEXT: Commonevents/294/32/Choice/1
+> CONTEXT: Commonevents/294/58/Choice/1
+Nothing#Dargoth
+> END STRING
+
+> SHORTENED: CommonEvents_342.txt
+
+> BEGIN STRING
+"なし"
+> CONTEXT: Scripts/悪魔全書【設定】/134:29
+> CONTEXT: Troops/59/pages/0/2/InlineScript/1:25
+> CONTEXT: Troops/71/pages/0/7/InlineScript/1:25
+> CONTEXT: Troops/72/pages/0/8/InlineScript/1:25
+> CONTEXT: Troops/110/pages/0/16/InlineScript/1:25
+> CONTEXT: Troops/111/pages/0/16/InlineScript/1:25
+> CONTEXT: Troops/112/pages/0/16/InlineScript/1:25
+> CONTEXT: Troops/113/pages/0/16/InlineScript/1:25
+> CONTEXT: Map088/events/1/pages/0/127/InlineScript/1:25
+> CONTEXT: Map067/events/1/pages/0/130/InlineScript/1:25
+> CONTEXT: Map067/events/1/pages/1/129/InlineScript/1:25
+> CONTEXT: Commonevents/342/43/InlineScript/4:1
+> CONTEXT: Commonevents/342/64/InlineScript/4:1
+"None"#Dargoth
+> END STRING
+
+> SHORTENED: CommonEvents_62.txt
+
+> BEGIN STRING
+檻から抜け出す
+> CONTEXT: Skills/164/name/
+Coffin Breakout#Dargoth
+> END STRING
+
+> SHORTENED: CommonEvents_79.txt
+
+> BEGIN STRING
+口塞ぎ
+> CONTEXT: States/28/name/
+Gagged#Dargoth
+> END STRING
+
+> SHORTENED: Map119.txt
+
+> BEGIN STRING
+搾精
+> CONTEXT: States/85/name/
+> CONTEXT: Map119/events/8/pages/1/4/Choice/0
+Milking#Dargoth
+> END STRING
+
+> SHORTENED: Map050.txt
+
+> BEGIN STRING
 トドメを刺す
 > CONTEXT: Troops/1/pages/2/24/Choice/1
 > CONTEXT: Troops/2/pages/3/23/Choice/1
@@ -8668,373 +8924,275 @@ Let her go#Dargoth
 Finish her off#Dargoth
 > END STRING
 
+> SHORTENED: Map041.txt
+
 > BEGIN STRING
-見逃す en(s[1000000])
-> CONTEXT: Troops/8/pages/3/5/Choice/0
-Let her go en(s[1000000])#Dargoth
+雑談する en(v[42] \>= 25) 
+> CONTEXT: Map041/events/5/pages/0/31/Choice/0
+Chat en(v[42] \>= 25) #Dargoth
 > END STRING
 
 > BEGIN STRING
-アイアンメイデン
-> CONTEXT: Troops/10/name/
-> CONTEXT: Troops/11/name/
-> CONTEXT: Troops/12/name/
-> CONTEXT: Enemies/15/name/
-> CONTEXT: Enemies/16/name/
-> CONTEXT: Enemies/17/name/
-> CONTEXT: Enemies/18/name/
-> CONTEXT: Enemies/19/name/
-> CONTEXT: Enemies/20/name/
-> CONTEXT: Enemies/225/name/
-Iron Maiden#Dargoth
+搾精（前から）en(v[42] \>= 25) 
+> CONTEXT: Map041/events/5/pages/0/31/Choice/1
+Milking (Frontal) en(v[42] \>= 25) #Dargoth
 > END STRING
 
 > BEGIN STRING
-ランパス
-> CONTEXT: Troops/20/name/
-> CONTEXT: Enemies/28/name/
-> CONTEXT: Enemies/30/name/
-> CONTEXT: Enemies/31/name/
-> CONTEXT: Enemies/32/name/
-> CONTEXT: Enemies/33/name/
-> CONTEXT: Enemies/34/name/
-> CONTEXT: Enemies/35/name/
-> CONTEXT: Enemies/36/name/
-> CONTEXT: Enemies/37/name/
-> CONTEXT: Enemies/39/name/
-> CONTEXT: Enemies/40/name/
-> CONTEXT: Enemies/42/name/
-Lampas#Dargoth
+搾精（後ろから）en(v[42] \>= 60) 
+> CONTEXT: Map041/events/5/pages/0/31/Choice/2
+Milking (Rear) en(v[42] \>= 60) #Dargoth
 > END STRING
 
 > BEGIN STRING
-とどめを刺す
-> CONTEXT: Troops/21/pages/2/23/Choice/0
-> CONTEXT: Troops/30/pages/2/12/Choice/0
-> CONTEXT: Troops/31/pages/2/12/Choice/0
-> CONTEXT: Troops/34/pages/2/15/Choice/0
-> CONTEXT: Troops/35/pages/2/15/Choice/0
-> CONTEXT: Troops/36/pages/2/15/Choice/0
-> CONTEXT: Troops/43/pages/2/15/Choice/0
-> CONTEXT: Troops/44/pages/2/15/Choice/0
-> CONTEXT: Troops/46/pages/2/15/Choice/0
-Finish her off#Dargoth
+心蝕を消すif(v[42] \>= 100) 
+> CONTEXT: Map041/events/5/pages/0/216/Choice/0
+Remove mind corruption if(v[42] \>= 100) #Dargoth
 > END STRING
 
 > BEGIN STRING
-足の先端にキスをする
-> CONTEXT: Troops/22/pages/0/40/Choice/0
-Kiss the end of her foot#Dargoth
+【キズナイベント】if(v[42] \>= 99) 
+> CONTEXT: Map041/events/5/pages/1/545/Choice/0
+Bonding Event if(v[42] \>= 99) #Dargoth
+> END STRING
+
+> SHORTENED: Map042.txt
+
+> BEGIN STRING
+搾精（フェラ）en(v[44] \>= 25) 
+> CONTEXT: Map042/events/5/pages/0/48/Choice/1
+Milking (Fellatio) en(v[44] \>= 25) #Dargoth
 > END STRING
 
 > BEGIN STRING
-口に含めてむしゃぶりつく
-> CONTEXT: Troops/22/pages/0/40/Choice/1
-Suck on her foot in your mouth#Dargoth
+搾精（抱き）en(v[44] \>= 60) 
+> CONTEXT: Map042/events/5/pages/0/48/Choice/2
+Milking (Hug) en(v[44] \>= 60) #Dargoth
 > END STRING
 
 > BEGIN STRING
-ランパス(夢)
-> CONTEXT: Troops/27/name/
-Lampas (Dream)#Dargoth
+搾精（昇天フェラ）en(v[44] \>= 80) 
+> CONTEXT: Map042/events/5/pages/0/48/Choice/3
+Milking (Supreme Fellatio) en(v[44] \>= 80) #Dargoth
 > END STRING
 
 > BEGIN STRING
-エンプーサ
-> CONTEXT: Troops/45/name/
-> CONTEXT: Troops/52/name/
-> CONTEXT: Enemies/45/name/
-> CONTEXT: Enemies/47/name/
-> CONTEXT: Enemies/48/name/
-> CONTEXT: Enemies/49/name/
-> CONTEXT: Enemies/50/name/
-> CONTEXT: Enemies/52/name/
-> CONTEXT: Enemies/232/name/
-Empuse#Dargoth
+心蝕を消すif(v[44] \>= 100) 
+> CONTEXT: Map042/events/5/pages/0/252/Choice/0
+Remove mind corruption if(v[44] \>= 100) #Dargoth
 > END STRING
 
 > BEGIN STRING
-エンプーサ（G）
-> CONTEXT: Troops/47/name/
-Empuse(G)#Dargoth
+【キズナイベント】if(v[44] \>= 99) 
+> CONTEXT: Map042/events/5/pages/1/332/Choice/0
+Bonding Event if(v[44] \>= 99) #Dargoth
 > END STRING
 
-> SHORTENED: Weapons.txt
+> SHORTENED: CommonEvents_463.txt
 
 > BEGIN STRING
-ハンドガン
-> CONTEXT: Weapons/1/name/
-> CONTEXT: Skills/80/name/
-Handgun#Dargoth
-> END STRING
-
-> BEGIN STRING
-威力は低いが携帯性に優れる火器。
-装弾数　\\V[7]/10
-> CONTEXT: Weapons/1/description/
-What it lacks in power it makes up for in convenience.
-Rounds　\\V[7]/10#Dargoth
-> END STRING
-
-> BEGIN STRING
-マシンピストル
-> CONTEXT: Weapons/2/name/
-> CONTEXT: Skills/82/name/
-Machine Pistol#Dargoth
-> END STRING
-
-> BEGIN STRING
-５発連続発射できるマシンガン。反動が大きい。
-装弾数　\\V[18]/15
-> CONTEXT: Weapons/2/description/
-Pistol that fires 5 round bursts. High recoil.
-Rounds \\V[18]/15#Dargoth
-> END STRING
-
-> BEGIN STRING
-ショットガン
-> CONTEXT: Weapons/3/name/
-> CONTEXT: Skills/90/name/
-Shotgun#Dargoth
-> END STRING
-
-> BEGIN STRING
-【両手】狩猟用の二連装散弾銃。長物のため取り回しが遅い
-装弾数　\\V[19]/2
-> CONTEXT: Weapons/3/description/
-[Two-Handed] Double barrel hunting shotgun.
-Shells \\V[19]/2#Dargoth
-> END STRING
-
-> BEGIN STRING
-カスタムハンドガン
-> CONTEXT: Weapons/4/name/
-Custom Handgun#Dargoth
-> END STRING
-
-> BEGIN STRING
-単発の威力は落ちるが、3連射が可能になったハンドガン。
-装弾数　\\V[7]/10
-> CONTEXT: Weapons/4/description/
-Reduced power, but now fires a 3 round burst.
-Rounds　\\V[7]/10#Dargoth
-> END STRING
-
-> BEGIN STRING
-ソードオフ
-> CONTEXT: Weapons/5/name/
-Sawed-off#Dargoth
-> END STRING
-
-> BEGIN STRING
-【両手】銃身を切り詰め、２発動時発射が可能になったショットガン。
-装弾数　\\V[19]/2
-> CONTEXT: Weapons/5/description/
-[Two-Handed] Barrel shortened. Fires both barrels at once.
-Shells　\\V[19]/2#Dargoth
-> END STRING
-
-> BEGIN STRING
-抵抗力アップLv1
-> CONTEXT: Weapons/9/name/
-> CONTEXT: Weapons/19/name/
-> CONTEXT: Skills/26/name/
-Will Up Lv1#Dargoth
-> END STRING
-
-> BEGIN STRING
-抵抗力アップLv2
-> CONTEXT: Weapons/10/name/
-> CONTEXT: Weapons/20/name/
-> CONTEXT: Skills/27/name/
-Will Up Lv2#Dargoth
-> END STRING
-
-> BEGIN STRING
-抵抗力アップLv3
-> CONTEXT: Weapons/11/name/
-> CONTEXT: Weapons/21/name/
-> CONTEXT: Skills/28/name/
-Will Up Lv3#Dargoth
-> END STRING
-
-> BEGIN STRING
-抵抗力アップLv4
-> CONTEXT: Weapons/12/name/
-> CONTEXT: Weapons/22/name/
-> CONTEXT: Skills/29/name/
-Will Up Lv4#Dargoth
-> END STRING
-
-> BEGIN STRING
-抵抗力アップLv5
-> CONTEXT: Weapons/13/name/
-> CONTEXT: Weapons/23/name/
-> CONTEXT: Skills/30/name/
-Will Up Lv5#Dargoth
-> END STRING
-
-> BEGIN STRING
-抵抗力アップLv6
-> CONTEXT: Weapons/14/name/
-> CONTEXT: Weapons/24/name/
-> CONTEXT: Skills/31/name/
-Will Up Lv6#Dargoth
-> END STRING
-
-> BEGIN STRING
-抵抗力アップLv7
-> CONTEXT: Weapons/15/name/
-> CONTEXT: Weapons/25/name/
-> CONTEXT: Skills/32/name/
-Will Up Lv7#Dargoth
-> END STRING
-
-> BEGIN STRING
-抵抗力アップLv8
-> CONTEXT: Weapons/16/name/
-> CONTEXT: Weapons/26/name/
-> CONTEXT: Skills/33/name/
-Will Up Lv8#Dargoth
-> END STRING
-
-> BEGIN STRING
-抵抗力アップLv9
-> CONTEXT: Weapons/17/name/
-> CONTEXT: Weapons/27/name/
-> CONTEXT: Skills/34/name/
-Will Up Lv9#Dargoth
-> END STRING
-
-> BEGIN STRING
-抵抗力アップLv10
-> CONTEXT: Weapons/18/name/
-> CONTEXT: Weapons/28/name/
-Will Up Lv10#Dargoth
-> END STRING
-
-> BEGIN STRING
-練気の刀
-> CONTEXT: Weapons/30/name/
-Invigorating Sword#Dargoth
-> END STRING
-
-> BEGIN STRING
-所持者の魔力を刃に変えて刀身を具現化する武器。
-物理属性。
-> CONTEXT: Weapons/30/description/
-This sword manifests the wielder's own magical power
-into the blade. Does physical damage.#Dargoth
-> END STRING
-
-> BEGIN STRING
-デスサイズ
-> CONTEXT: Weapons/31/name/
-> CONTEXT: Skills/250/name/
-Death Scythe#Dargoth
-> END STRING
-
-> BEGIN STRING
-疾風をまとって、真空波で魔力を断つ大鎌。
-風属性。
-> CONTEXT: Weapons/31/description/
-A scythe that severs magical power with gale force
-vacuum waves. Wind element.#Dargoth
-> END STRING
-
-> BEGIN STRING
-攻撃アップLv1
-> CONTEXT: Weapons/46/name/
-> CONTEXT: Weapons/47/name/
-> CONTEXT: Weapons/48/name/
-> CONTEXT: Weapons/49/name/
-> CONTEXT: Weapons/50/name/
-> CONTEXT: Skills/46/name/
-Attack Up Lv1#Dargoth
-> END STRING
-
-> BEGIN STRING
-魔法アップLv1
-> CONTEXT: Weapons/51/name/
-> CONTEXT: Weapons/52/name/
-> CONTEXT: Weapons/53/name/
-> CONTEXT: Weapons/54/name/
-> CONTEXT: Weapons/55/name/
-> CONTEXT: Skills/51/name/
-Magic Up Lv1#Dargoth
-> END STRING
-
-> BEGIN STRING
-敏捷アップLv1
-> CONTEXT: Weapons/56/name/
-> CONTEXT: Weapons/57/name/
-> CONTEXT: Weapons/58/name/
-> CONTEXT: Weapons/59/name/
-> CONTEXT: Weapons/60/name/
-> CONTEXT: Skills/56/name/
-Agility Up Lv1#Dargoth
-> END STRING
-
-> BEGIN STRING
-バーゲストクロー
-> CONTEXT: Weapons/65/name/
-Barghest Claw#Dargoth
-> END STRING
-
-> BEGIN STRING
-バーゲストの爪から練成された鉤爪グローブ。
-低確率で相手を出血させる
-> CONTEXT: Weapons/65/description/
-Claw-like glove made from a barghest's paw.
-Low probability of causing target to bleed.#Dargoth
-> END STRING
-
-> BEGIN STRING
-ランパスウィップ
-> CONTEXT: Weapons/66/name/
-Lampas Whip#Dargoth
-> END STRING
-
-> BEGIN STRING
-ランパスの一部から練成されたトゲの付いたムチ。
-『リバースストーム』を使用可能
-> CONTEXT: Weapons/66/description/
-Thorn whip made from a lampas vine.
-Enables [Reverse Storm].#Dargoth
-> END STRING
-
-> BEGIN STRING
-ヘルサイズ
-> CONTEXT: Weapons/67/name/
-Hell Scythe#Dargoth
-> END STRING
-
-> BEGIN STRING
-エンプーサの腕から練成した血濡れの大鎌。
-『恐怖』にかからなくなる。
-> CONTEXT: Weapons/67/description/
-Bloody scythe made from an empuse arm.
-Makes wielder immune to [Fear].#Dargoth
+屈服
+> CONTEXT: System/skill_types/5/
+> CONTEXT: System/skill_types/9/
+Submissions#Dargoth
 > END STRING
 
 > SHORTENED: NOT_FOUND_.txt
 
 > BEGIN STRING
+SHRIFT
+> CONTEXT: GameINI/Title
+> CONTEXT: System/game_title/
+SHRIFT#Dargoth
+> END STRING
+
+> BEGIN STRING
+\\l[0]
+> CONTEXT: Map002/events/1/pages/1/19/Dialogue
+\\l[0]#DargothPR
+> END STRING
+
+> BEGIN STRING
+\\l[7].
+> CONTEXT: Map002/events/1/pages/1/27/Dialogue
+\\l[7].#Dargoth
+> END STRING
+
+> BEGIN STRING
+\\l[9]
+> CONTEXT: Map002/events/1/pages/1/35/Dialogue
+\\l[9]#Dargoth
+> END STRING
+
+> BEGIN STRING
+""
+> CONTEXT: Scripts/Game_Message/40:18
+> CONTEXT: Scripts/Game_Message/99:19
+> CONTEXT: Scripts/Game_ActionResult/142:7
+> CONTEXT: Scripts/Game_ActionResult/156:7
+> CONTEXT: Scripts/Game_Picture/37:13
+> CONTEXT: Scripts/Game_Picture/116:13
+> CONTEXT: Scripts/Game_Enemy/28:15
+> CONTEXT: Scripts/Game_Enemy/71:42
+> CONTEXT: Scripts/Game_Enemy/159:17
+> CONTEXT: Scripts/Game_Party/131:12
+> CONTEXT: Scripts/Game_BattlerBase/629:12
+> CONTEXT: Scripts/Game_Follower/23:57
+> CONTEXT: Scripts/Game_CharacterBase/52:23
+> CONTEXT: Scripts/Game_Battler/46:21
+> CONTEXT: Scripts/Game_Player/39:54
+> CONTEXT: Scripts/Game_Event/243:25
+> CONTEXT: Scripts/Window_Help/27:14
+> CONTEXT: Scripts/Window_Help/34:40
+> CONTEXT: Scripts/Window_EquipSlot/74:56
+> CONTEXT: Scripts/Window_NameEdit/117:37
+> CONTEXT: Scripts/Window_Base/244:26
+> CONTEXT: Scripts/Window_Base/251:26
+> CONTEXT: Scripts/Window_NameInput/83:42
+> CONTEXT: Scripts/Window_DebugRight/49:12
+> CONTEXT: Scripts/Window_BattleLog/363:16
+> CONTEXT: Scripts/Scene_File/45:12
+> CONTEXT: Scripts/エネミー判別ＡＢＣ無効/28:34
+> CONTEXT: Scripts/立ち絵/255:33
+> CONTEXT: Scripts/立ち絵/274:50
+> CONTEXT: Scripts/立ち絵/277:44
+> CONTEXT: Scripts/立ち絵/280:29
+> CONTEXT: Scripts/セーブ画面カスタマイズ/45:28
+> CONTEXT: Scripts/セーブ画面カスタマイズ/58:28
+> CONTEXT: Scripts/セーブ画面カスタマイズ/304:38
+> CONTEXT: Scripts/足音/88:68
+> CONTEXT: Scripts/ステート前提ステート/73:81
+> CONTEXT: Scripts/悪魔全書【本体】/651:24
+> CONTEXT: Scripts/簡易メッセージ/158:33
+> CONTEXT: Scripts/animation_1.03/55:13
+> CONTEXT: Scripts/animation_1.03/61:17
+> CONTEXT: Scripts/使用者にステート解除/402:80
+> CONTEXT: Scripts/スキル表示/314:17
+> CONTEXT: Scripts/スキルツリー/101:18
+> CONTEXT: Scripts/スキルツリー/104:18
+> CONTEXT: Scripts/スキルツリー/1487:25
+> CONTEXT: Scripts/スキルツリー/1503:12
+> CONTEXT: Scripts/スキルツリー/1517:12
+> CONTEXT: Scripts/スキルツリー/1531:12
+> CONTEXT: Scripts/スキルコスト拡張/1137:12
+> CONTEXT: Scripts/スキルコスト拡張/1139:16
+> CONTEXT: Scripts/スキルコスト拡張/1144:56
+> CONTEXT: Scripts/スキルコスト拡張/1159:18
+> CONTEXT: Scripts/スキルコスト拡張/1163:56
+> CONTEXT: Scripts/スキルコスト拡張/1178:18
+> CONTEXT: Scripts/スキルコスト拡張/1182:56
+> CONTEXT: Scripts/戦闘レイアウト/222:23
+> CONTEXT: Scripts/戦闘レイアウト/835:14
+> CONTEXT: Scripts/戦闘レイアウト/2364:42
+> CONTEXT: Scripts/戦闘レイアウト/2902:29
+> CONTEXT: Scripts/戦闘レイアウト/2978:23
+> CONTEXT: Scripts/戦闘レイアウト/3888:28
+> CONTEXT: Map118/events/4/pages/1/14/InlineScript/1:25
+> CONTEXT: Map118/events/4/pages/2/15/InlineScript/1:25
+> CONTEXT: Map116/events/4/pages/1/14/InlineScript/1:25
+> CONTEXT: Map116/events/4/pages/2/15/InlineScript/1:25
+> CONTEXT: Map105/events/10/pages/6/1/InlineScript/1:25
+> CONTEXT: Map105/events/10/pages/6/3/InlineScript/1:25
+> CONTEXT: Map105/events/10/pages/6/5/InlineScript/1:25
+> CONTEXT: Map105/events/10/pages/6/7/InlineScript/1:25
+> CONTEXT: Map104/events/2/pages/0/4/InlineScript/1:25
+> CONTEXT: Map104/events/2/pages/0/6/InlineScript/1:25
+> CONTEXT: Map104/events/2/pages/0/8/InlineScript/1:25
+> CONTEXT: Map104/events/2/pages/0/10/InlineScript/1:25
+> CONTEXT: Map104/events/4/pages/1/14/InlineScript/1:25
+> CONTEXT: Map102/events/4/pages/1/14/InlineScript/1:25
+> CONTEXT: Map102/events/4/pages/2/15/InlineScript/1:25
+> CONTEXT: Map104/events/4/pages/2/15/InlineScript/1:25
+""#Dargoth
+> END STRING
+
+> BEGIN STRING
+--------------------
+> CONTEXT: Skills/25/name/
+> CONTEXT: Skills/79/name/
+--------------------#Dargoth
+> END STRING
+
+> BEGIN STRING
 ３ターンの間、使用者の物理攻撃力を2段階上げる。
-> CONTEXT: Map109/events/109/pages/3/0/Dialogue
-> CONTEXT: Map110/events/110/pages/3/0/Dialogue
-> CONTEXT: Map108/events/103/pages/3/0/Dialogue
-> CONTEXT: Map106/events/59/pages/3/0/Dialogue
-> CONTEXT: Map107/events/10/pages/3/0/Dialogue
-> CONTEXT: Map074/events/40/pages/1/0/Dialogue
-> CONTEXT: Map063/events/72/pages/2/0/Dialogue
-> CONTEXT: Map047/events/40/pages/2/0/Dialogue
-> CONTEXT: Map035/events/14/pages/2/0/Dialogue
-> CONTEXT: Map035/events/14/pages/3/0/Dialogue
-> CONTEXT: Map012/events/8/pages/2/0/Dialogue
-> CONTEXT: Map012/events/8/pages/5/0/Dialogue
-> CONTEXT: Map014/events/14/pages/2/0/Dialogue
-> CONTEXT: Map014/events/14/pages/3/0/Dialogue
-Need something?#Dargoth
+> CONTEXT: Skills/108/description/
+Increases the caster's physical attack two steps for 3 turns.#Dargoth
+> END STRING
+
+> BEGIN STRING
+。
+> CONTEXT: Skills/133/description/
+> CONTEXT: Skills/134/description/
+> CONTEXT: Skills/135/description/
+> CONTEXT: Skills/136/description/
+> CONTEXT: Skills/138/description/
+> CONTEXT: Skills/139/description/
+> CONTEXT: Skills/151/description/
+> CONTEXT: Skills/152/description/
+> CONTEXT: Skills/172/description/
+> CONTEXT: Skills/178/description/
+> CONTEXT: Skills/182/description/
+> CONTEXT: Skills/192/description/
+> CONTEXT: Skills/194/description/
+> CONTEXT: Skills/301/description/
+> CONTEXT: Skills/303/description/
+> CONTEXT: Skills/331/description/
+> CONTEXT: Skills/335/description/
+> CONTEXT: Skills/338/description/
+> CONTEXT: Skills/340/description/
+> CONTEXT: Skills/360/description/
+> CONTEXT: Skills/365/description/
+> CONTEXT: Skills/369/description/
+> CONTEXT: Skills/395/description/
+> CONTEXT: Skills/396/description/
+> CONTEXT: Skills/397/description/
+> CONTEXT: Skills/398/description/
+> CONTEXT: Skills/411/description/
+> CONTEXT: Skills/412/description/
+> CONTEXT: Skills/413/description/
+> CONTEXT: Skills/414/description/
+> CONTEXT: Skills/418/description/
+> CONTEXT: Skills/419/description/
+> CONTEXT: Skills/468/description/
+> CONTEXT: Skills/515/description/
+> CONTEXT: Skills/520/description/
+> CONTEXT: Skills/521/description/
+> CONTEXT: Skills/554/description/
+> CONTEXT: Skills/645/description/
+> CONTEXT: Skills/646/description/
+> CONTEXT: Skills/654/description/
+> CONTEXT: Skills/659/description/
+> CONTEXT: Skills/660/description/
+> CONTEXT: Skills/670/description/
+> CONTEXT: Skills/673/description/
+> CONTEXT: Skills/674/description/
+> CONTEXT: Skills/675/description/
+> CONTEXT: Skills/676/description/
+> CONTEXT: Skills/681/description/
+> CONTEXT: Skills/683/description/
+> CONTEXT: Skills/686/description/
+> CONTEXT: Skills/687/description/
+> CONTEXT: Skills/690/description/
+> CONTEXT: Skills/693/description/
+> CONTEXT: Skills/694/description/
+> CONTEXT: Skills/700/description/
+> CONTEXT: Skills/721/description/
+> CONTEXT: Skills/767/description/
+> CONTEXT: Skills/791/description/
+> CONTEXT: Skills/792/description/
+.#Dargoth
+> END STRING
+
+> BEGIN STRING
+ＳＴＡＲＴ
+> CONTEXT: System/terms/commands/18/
+> CONTEXT: Commonevents/294/420/Choice/0
+Start#Dargoth
+> END STRING
+
+> BEGIN STRING
+ＧＡＭＥ ＥＮＤ
+> CONTEXT: System/terms/commands/20/
+Quit Game#Dargoth
 > END STRING
 

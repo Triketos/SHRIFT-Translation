@@ -1,0 +1,3214 @@
+﻿> GAIJINIZER PATCH FILE
+> BEGIN STRING
+"購入する"
+> CONTEXT: Scripts/Vocab/11:21
+"Purchase"#Dargoth
+> END STRING
+
+> BEGIN STRING
+"売却する"
+> CONTEXT: Scripts/Vocab/12:21
+"Sell"#Dargoth
+> END STRING
+
+> BEGIN STRING
+"やめる"
+> CONTEXT: Scripts/Vocab/13:21
+"Leave"#Dargoth
+> END STRING
+
+> BEGIN STRING
+"持っている数"
+> CONTEXT: Scripts/Vocab/14:21
+"Owned: "#Dargoth
+> END STRING
+
+> BEGIN STRING
+"現在の経験値"
+> CONTEXT: Scripts/Vocab/17:21
+"Current XP"#Dargoth
+> END STRING
+
+> BEGIN STRING
+"次の%sまで"
+> CONTEXT: Scripts/Vocab/18:21
+"To next %s"#Dargoth
+> END STRING
+
+> BEGIN STRING
+"どのファイルにセーブしますか？"
+> CONTEXT: Scripts/Vocab/21:21
+"Save in which file?"#Dargoth
+> END STRING
+
+> BEGIN STRING
+"どのファイルをロードしますか？"
+> CONTEXT: Scripts/Vocab/22:21
+"Load which file?"#Dargoth
+> END STRING
+
+> BEGIN STRING
+"ファイル"
+> CONTEXT: Scripts/Vocab/23:21
+"File"#Dargoth
+> END STRING
+
+> BEGIN STRING
+"%sたち"
+> CONTEXT: Scripts/Vocab/26:21
+"%s's Party"#Lvl1
+> END STRING
+
+> BEGIN STRING
+"%sが出現！"
+> CONTEXT: Scripts/Vocab/29:21
+"%s appears!"#Dargoth
+> END STRING
+
+> BEGIN STRING
+"%sは先手を取った！"
+> CONTEXT: Scripts/Vocab/30:21
+"%s has the initiative!"#Dargoth
+> END STRING
+
+> BEGIN STRING
+"%sは不意をつかれた！"
+> CONTEXT: Scripts/Vocab/31:21
+"%s was taken by surprise!"#Dargoth
+> END STRING
+
+> BEGIN STRING
+"%sは逃げ出した！"
+> CONTEXT: Scripts/Vocab/32:21
+"%s runs away!"#Dargoth
+> END STRING
+
+> BEGIN STRING
+"しかし逃げることはできなかった！"
+> CONTEXT: Scripts/Vocab/33:21
+"But wasn't able to escape!"#Dargoth
+> END STRING
+
+> BEGIN STRING
+"%sの勝利！"
+> CONTEXT: Scripts/Vocab/36:21
+"%s is victorious!"#Dargoth
+> END STRING
+
+> BEGIN STRING
+"%sは戦いに敗れた。"
+> CONTEXT: Scripts/Vocab/37:21
+"%s was defeated in battle."#Dargoth
+> END STRING
+
+> BEGIN STRING
+"%s の経験値を獲得！"
+> CONTEXT: Scripts/Vocab/38:21
+"%s XP gained!"#Dargoth
+> END STRING
+
+> BEGIN STRING
+"お金を %s\\\\G 手に入れた！"
+> CONTEXT: Scripts/Vocab/39:21
+"%s\\\\G obtained!"#Dargoth
+> END STRING
+
+> BEGIN STRING
+"%sを手に入れた！"
+> CONTEXT: Scripts/Vocab/40:21
+"%s found!"#Dargoth
+> END STRING
+
+> BEGIN STRING
+"%sは%s %s に上がった！"
+> CONTEXT: Scripts/Vocab/41:21
+"%s's %s went up by %s!"#Dargoth
+> END STRING
+
+> BEGIN STRING
+"%sを覚えた！"
+> CONTEXT: Scripts/Vocab/42:21
+"%s learned!"#Dargoth
+> END STRING
+
+> BEGIN STRING
+"%sは%sを使った！"
+> CONTEXT: Scripts/Vocab/45:21
+"%s used %s!"#Dargoth
+> END STRING
+
+> BEGIN STRING
+"会心の一撃！！"
+> CONTEXT: Scripts/Vocab/48:21
+"Critical hit!"#Dargoth
+> END STRING
+
+> BEGIN STRING
+"痛恨の一撃！！"
+> CONTEXT: Scripts/Vocab/49:21
+"Crushing blow!"#Dargoth
+> END STRING
+
+> BEGIN STRING
+"%sは %s のダメージを受けた！"
+> CONTEXT: Scripts/Vocab/52:21
+"%s loses %s willpower!"#Dargoth
+> END STRING
+
+> BEGIN STRING
+"%sの%sが %s 回復した！"
+> CONTEXT: Scripts/Vocab/53:21
+> CONTEXT: Scripts/Vocab/62:21
+"%s's %s recovers by %s!"#Dargoth
+> END STRING
+
+> BEGIN STRING
+"%sの%sが %s 増えた！"
+> CONTEXT: Scripts/Vocab/54:21
+> CONTEXT: Scripts/Vocab/63:21
+"%s's %s increases by %s!"#Dargoth
+> END STRING
+
+> BEGIN STRING
+"%sの%sが %s 減った！"
+> CONTEXT: Scripts/Vocab/55:21
+> CONTEXT: Scripts/Vocab/64:21
+"%s's %s decreases by %s!"#Dargoth
+> END STRING
+
+> BEGIN STRING
+"%sは%sを %s 奪われた！"
+> CONTEXT: Scripts/Vocab/56:21
+"%s's %s was weakened by %s"#Dargoth
+> END STRING
+
+> BEGIN STRING
+"%sはダメージを受けていない！"
+> CONTEXT: Scripts/Vocab/57:21
+"%s took no damage!"#Dargoth
+> END STRING
+
+> BEGIN STRING
+"ミス！　%sはダメージを受けていない！"
+> CONTEXT: Scripts/Vocab/58:21
+"Miss! %s took no damage!"#Dargoth
+> END STRING
+
+> BEGIN STRING
+"%sに %s のダメージを与えた！"
+> CONTEXT: Scripts/Vocab/61:21
+"%s　takes %s damage!"#Dargoth
+> END STRING
+
+> BEGIN STRING
+"%sの%sを %s 奪った！"
+> CONTEXT: Scripts/Vocab/65:21
+"%s's %s was weakened by %s!"#Dargoth
+> END STRING
+
+> BEGIN STRING
+"%sにダメージを与えられない！"
+> CONTEXT: Scripts/Vocab/66:21
+"%s took no damage!"#Dargoth
+> END STRING
+
+> BEGIN STRING
+"ミス！　%sにダメージを与えられない！"
+> CONTEXT: Scripts/Vocab/67:21
+"Miss! %s took no damage!"#Dargoth
+> END STRING
+
+> BEGIN STRING
+"%sは攻撃をかわした！"
+> CONTEXT: Scripts/Vocab/70:21
+"%s dodged the attack!"#Dargoth
+> END STRING
+
+> BEGIN STRING
+"%sは魔法を打ち消した！"
+> CONTEXT: Scripts/Vocab/71:21
+"%s negated the spell!"#Dargoth
+> END STRING
+
+> BEGIN STRING
+"%sは魔法を跳ね返した！"
+> CONTEXT: Scripts/Vocab/72:21
+"%s reflected the spell!"#Dargoth
+> END STRING
+
+> BEGIN STRING
+"%sの反撃！"
+> CONTEXT: Scripts/Vocab/73:21
+"%s counterattacks!"#Dargoth
+> END STRING
+
+> BEGIN STRING
+"%sが%sをかばった！"
+> CONTEXT: Scripts/Vocab/74:21
+"%s protected %s!"#Dargoth
+> END STRING
+
+> BEGIN STRING
+"%sの%sが上がった！"
+> CONTEXT: Scripts/Vocab/77:21
+"%s's %s has increased!"#Dargoth
+> END STRING
+
+> BEGIN STRING
+"%sの%sが下がった！"
+> CONTEXT: Scripts/Vocab/78:21
+"%s's %s has decreased!"#Dargoth
+> END STRING
+
+> BEGIN STRING
+"%sの%sが元に戻った！"
+> CONTEXT: Scripts/Vocab/79:21
+"%s's %s returns to normal!"#Dargoth
+> END STRING
+
+> BEGIN STRING
+"%sには効かなかった！"
+> CONTEXT: Scripts/Vocab/82:21
+"It had no effect on %s!"#Dargoth
+> END STRING
+
+> BEGIN STRING
+"プレイヤーの初期位置が設定されていません。"
+> CONTEXT: Scripts/Vocab/85:21
+"Player's starting position is not set."#Lvl1
+> END STRING
+
+> BEGIN STRING
+"コモンイベントの呼び出しが上限を超えました。"
+> CONTEXT: Scripts/Vocab/86:21
+"Common event calls exceeded the limit."#Lvl1
+> END STRING
+
+> BEGIN STRING
+"なまえ？"
+> CONTEXT: Scripts/Window_Base/442:41
+"なまえ？"#NoTL
+> END STRING
+
+> BEGIN STRING
+"ていこう"
+> CONTEXT: Scripts/Window_Base/504:36
+"ていこう"#NoTL
+> END STRING
+
+> BEGIN STRING
+"ひくこう"
+> CONTEXT: Scripts/Window_Base/509:36
+"ひくこう"#NoTL
+> END STRING
+
+> BEGIN STRING
+"あらがう"
+> CONTEXT: Scripts/Window_Base/514:37
+"あらがう"#NoTL
+> END STRING
+
+> BEGIN STRING
+"がんばる"
+> CONTEXT: Scripts/Window_Base/519:36
+"がんばる"#NoTL
+> END STRING
+
+> BEGIN STRING
+"ぁんぇ　"
+> CONTEXT: Scripts/Window_Base/524:36
+"ぁんぇ　"#NoTL
+> END STRING
+
+> BEGIN STRING
+"あ"
+> CONTEXT: Scripts/Window_Base/525:46
+> CONTEXT: Scripts/Window_NameEdit/68:40
+"あ"#NoTL
+> END STRING
+
+> BEGIN STRING
+"きりょく"
+> CONTEXT: Scripts/Window_Base/543:38
+"きりょく"#NoTL
+> END STRING
+
+> BEGIN STRING
+"きちから"
+> CONTEXT: Scripts/Window_Base/549:38
+"きちから"#NoTL
+> END STRING
+
+> BEGIN STRING
+"げんき"
+> CONTEXT: Scripts/Window_Base/555:38
+"げんき"#NoTL
+> END STRING
+
+> BEGIN STRING
+"ちから"
+> CONTEXT: Scripts/Window_Base/561:38
+"ちから"#NoTL
+> END STRING
+
+> BEGIN STRING
+"ぁ　く"
+> CONTEXT: Scripts/Window_Base/567:38
+"ぁ　く"#NoTL
+> END STRING
+
+> BEGIN STRING
+"せいよく"
+> CONTEXT: Scripts/Window_Base/585:38
+"せいよく"#NoTL
+> END STRING
+
+> BEGIN STRING
+"こうふん"
+> CONTEXT: Scripts/Window_Base/591:38
+"こうふん"#NoTL
+> END STRING
+
+> BEGIN STRING
+"きもちいい"
+> CONTEXT: Scripts/Window_Base/597:38
+"きもちいい"#NoTL
+> END STRING
+
+> BEGIN STRING
+"きもち　ぃ"
+> CONTEXT: Scripts/Window_Base/603:38
+"きもち　ぃ"#NoTL
+> END STRING
+
+> BEGIN STRING
+"もぅだ　め"
+> CONTEXT: Scripts/Window_Base/609:38
+"もぅだ　め"#NoTL
+> END STRING
+
+> BEGIN STRING
+'あ'
+> CONTEXT: Scripts/Window_NameInput/32:14
+'あ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'い'
+> CONTEXT: Scripts/Window_NameInput/32:18
+'い'#NoTL
+> END STRING
+
+> BEGIN STRING
+'う'
+> CONTEXT: Scripts/Window_NameInput/32:22
+'う'#NoTL
+> END STRING
+
+> BEGIN STRING
+'え'
+> CONTEXT: Scripts/Window_NameInput/32:26
+'え'#NoTL
+> END STRING
+
+> BEGIN STRING
+'お'
+> CONTEXT: Scripts/Window_NameInput/32:30
+'お'#NoTL
+> END STRING
+
+> BEGIN STRING
+'が'
+> CONTEXT: Scripts/Window_NameInput/32:36
+'が'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ぎ'
+> CONTEXT: Scripts/Window_NameInput/32:40
+'ぎ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ぐ'
+> CONTEXT: Scripts/Window_NameInput/32:44
+'ぐ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'げ'
+> CONTEXT: Scripts/Window_NameInput/32:48
+'げ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ご'
+> CONTEXT: Scripts/Window_NameInput/32:52
+'ご'#NoTL
+> END STRING
+
+> BEGIN STRING
+'か'
+> CONTEXT: Scripts/Window_NameInput/33:14
+'か'#NoTL
+> END STRING
+
+> BEGIN STRING
+'き'
+> CONTEXT: Scripts/Window_NameInput/33:18
+'き'#NoTL
+> END STRING
+
+> BEGIN STRING
+'く'
+> CONTEXT: Scripts/Window_NameInput/33:22
+'く'#NoTL
+> END STRING
+
+> BEGIN STRING
+'け'
+> CONTEXT: Scripts/Window_NameInput/33:26
+'け'#NoTL
+> END STRING
+
+> BEGIN STRING
+'こ'
+> CONTEXT: Scripts/Window_NameInput/33:30
+'こ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ざ'
+> CONTEXT: Scripts/Window_NameInput/33:36
+'ざ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'じ'
+> CONTEXT: Scripts/Window_NameInput/33:40
+'じ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ず'
+> CONTEXT: Scripts/Window_NameInput/33:44
+'ず'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ぜ'
+> CONTEXT: Scripts/Window_NameInput/33:48
+'ぜ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ぞ'
+> CONTEXT: Scripts/Window_NameInput/33:52
+'ぞ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'さ'
+> CONTEXT: Scripts/Window_NameInput/34:14
+'さ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'し'
+> CONTEXT: Scripts/Window_NameInput/34:18
+'し'#NoTL
+> END STRING
+
+> BEGIN STRING
+'す'
+> CONTEXT: Scripts/Window_NameInput/34:22
+'す'#NoTL
+> END STRING
+
+> BEGIN STRING
+'せ'
+> CONTEXT: Scripts/Window_NameInput/34:26
+'せ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'そ'
+> CONTEXT: Scripts/Window_NameInput/34:30
+'そ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'だ'
+> CONTEXT: Scripts/Window_NameInput/34:36
+'だ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ぢ'
+> CONTEXT: Scripts/Window_NameInput/34:40
+'ぢ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'づ'
+> CONTEXT: Scripts/Window_NameInput/34:44
+'づ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'で'
+> CONTEXT: Scripts/Window_NameInput/34:48
+'で'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ど'
+> CONTEXT: Scripts/Window_NameInput/34:52
+'ど'#NoTL
+> END STRING
+
+> BEGIN STRING
+'た'
+> CONTEXT: Scripts/Window_NameInput/35:14
+'た'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ち'
+> CONTEXT: Scripts/Window_NameInput/35:18
+'ち'#NoTL
+> END STRING
+
+> BEGIN STRING
+'つ'
+> CONTEXT: Scripts/Window_NameInput/35:22
+'つ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'て'
+> CONTEXT: Scripts/Window_NameInput/35:26
+'て'#NoTL
+> END STRING
+
+> BEGIN STRING
+'と'
+> CONTEXT: Scripts/Window_NameInput/35:30
+'と'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ば'
+> CONTEXT: Scripts/Window_NameInput/35:36
+'ば'#NoTL
+> END STRING
+
+> BEGIN STRING
+'び'
+> CONTEXT: Scripts/Window_NameInput/35:40
+'び'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ぶ'
+> CONTEXT: Scripts/Window_NameInput/35:44
+'ぶ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'べ'
+> CONTEXT: Scripts/Window_NameInput/35:48
+'べ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ぼ'
+> CONTEXT: Scripts/Window_NameInput/35:52
+'ぼ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'な'
+> CONTEXT: Scripts/Window_NameInput/36:14
+'な'#NoTL
+> END STRING
+
+> BEGIN STRING
+'に'
+> CONTEXT: Scripts/Window_NameInput/36:18
+'に'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ぬ'
+> CONTEXT: Scripts/Window_NameInput/36:22
+'ぬ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ね'
+> CONTEXT: Scripts/Window_NameInput/36:26
+'ね'#NoTL
+> END STRING
+
+> BEGIN STRING
+'の'
+> CONTEXT: Scripts/Window_NameInput/36:30
+'の'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ぱ'
+> CONTEXT: Scripts/Window_NameInput/36:36
+'ぱ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ぴ'
+> CONTEXT: Scripts/Window_NameInput/36:40
+'ぴ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ぷ'
+> CONTEXT: Scripts/Window_NameInput/36:44
+'ぷ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ぺ'
+> CONTEXT: Scripts/Window_NameInput/36:48
+'ぺ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ぽ'
+> CONTEXT: Scripts/Window_NameInput/36:52
+'ぽ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'は'
+> CONTEXT: Scripts/Window_NameInput/37:14
+'は'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ひ'
+> CONTEXT: Scripts/Window_NameInput/37:18
+'ひ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ふ'
+> CONTEXT: Scripts/Window_NameInput/37:22
+'ふ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'へ'
+> CONTEXT: Scripts/Window_NameInput/37:26
+'へ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ほ'
+> CONTEXT: Scripts/Window_NameInput/37:30
+'ほ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ぁ'
+> CONTEXT: Scripts/Window_NameInput/37:36
+'ぁ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ぃ'
+> CONTEXT: Scripts/Window_NameInput/37:40
+'ぃ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ぅ'
+> CONTEXT: Scripts/Window_NameInput/37:44
+'ぅ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ぇ'
+> CONTEXT: Scripts/Window_NameInput/37:48
+'ぇ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ぉ'
+> CONTEXT: Scripts/Window_NameInput/37:52
+'ぉ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ま'
+> CONTEXT: Scripts/Window_NameInput/38:14
+'ま'#NoTL
+> END STRING
+
+> BEGIN STRING
+'み'
+> CONTEXT: Scripts/Window_NameInput/38:18
+'み'#NoTL
+> END STRING
+
+> BEGIN STRING
+'む'
+> CONTEXT: Scripts/Window_NameInput/38:22
+'む'#NoTL
+> END STRING
+
+> BEGIN STRING
+'め'
+> CONTEXT: Scripts/Window_NameInput/38:26
+'め'#NoTL
+> END STRING
+
+> BEGIN STRING
+'も'
+> CONTEXT: Scripts/Window_NameInput/38:30
+'も'#NoTL
+> END STRING
+
+> BEGIN STRING
+'っ'
+> CONTEXT: Scripts/Window_NameInput/38:36
+'っ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ゃ'
+> CONTEXT: Scripts/Window_NameInput/38:40
+'ゃ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ゅ'
+> CONTEXT: Scripts/Window_NameInput/38:44
+'ゅ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ょ'
+> CONTEXT: Scripts/Window_NameInput/38:48
+'ょ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ゎ'
+> CONTEXT: Scripts/Window_NameInput/38:52
+'ゎ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'や'
+> CONTEXT: Scripts/Window_NameInput/39:14
+'や'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ゆ'
+> CONTEXT: Scripts/Window_NameInput/39:18
+'ゆ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'よ'
+> CONTEXT: Scripts/Window_NameInput/39:22
+'よ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'わ'
+> CONTEXT: Scripts/Window_NameInput/39:26
+'わ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ん'
+> CONTEXT: Scripts/Window_NameInput/39:30
+'ん'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ら'
+> CONTEXT: Scripts/Window_NameInput/40:14
+'ら'#NoTL
+> END STRING
+
+> BEGIN STRING
+'り'
+> CONTEXT: Scripts/Window_NameInput/40:18
+'り'#NoTL
+> END STRING
+
+> BEGIN STRING
+'る'
+> CONTEXT: Scripts/Window_NameInput/40:22
+'る'#NoTL
+> END STRING
+
+> BEGIN STRING
+'れ'
+> CONTEXT: Scripts/Window_NameInput/40:26
+'れ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ろ'
+> CONTEXT: Scripts/Window_NameInput/40:30
+'ろ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ゔ'
+> CONTEXT: Scripts/Window_NameInput/40:36
+'ゔ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'を'
+> CONTEXT: Scripts/Window_NameInput/40:40
+'を'#NoTL
+> END STRING
+
+> BEGIN STRING
+'カナ'
+> CONTEXT: Scripts/Window_NameInput/40:48
+'kana'#Dargoth
+> END STRING
+
+> BEGIN STRING
+'決定'
+> CONTEXT: Scripts/Window_NameInput/40:53
+> CONTEXT: Scripts/Window_NameInput/49:53
+> CONTEXT: Scripts/Window_NameInput/58:53
+'OK'#Dargoth
+> END STRING
+
+> BEGIN STRING
+'ア'
+> CONTEXT: Scripts/Window_NameInput/41:14
+'ア'#NoTL
+> END STRING
+
+> BEGIN STRING
+'イ'
+> CONTEXT: Scripts/Window_NameInput/41:18
+'イ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ウ'
+> CONTEXT: Scripts/Window_NameInput/41:22
+'ウ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'エ'
+> CONTEXT: Scripts/Window_NameInput/41:26
+'エ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'オ'
+> CONTEXT: Scripts/Window_NameInput/41:30
+'オ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ガ'
+> CONTEXT: Scripts/Window_NameInput/41:36
+'ガ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ギ'
+> CONTEXT: Scripts/Window_NameInput/41:40
+'ギ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'グ'
+> CONTEXT: Scripts/Window_NameInput/41:44
+'グ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ゲ'
+> CONTEXT: Scripts/Window_NameInput/41:48
+'ゲ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ゴ'
+> CONTEXT: Scripts/Window_NameInput/41:52
+'ゴ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'カ'
+> CONTEXT: Scripts/Window_NameInput/42:14
+'カ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'キ'
+> CONTEXT: Scripts/Window_NameInput/42:18
+'キ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ク'
+> CONTEXT: Scripts/Window_NameInput/42:22
+'ク'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ケ'
+> CONTEXT: Scripts/Window_NameInput/42:26
+'ケ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'コ'
+> CONTEXT: Scripts/Window_NameInput/42:30
+'コ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ザ'
+> CONTEXT: Scripts/Window_NameInput/42:36
+'ザ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ジ'
+> CONTEXT: Scripts/Window_NameInput/42:40
+'ジ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ズ'
+> CONTEXT: Scripts/Window_NameInput/42:44
+'ズ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ゼ'
+> CONTEXT: Scripts/Window_NameInput/42:48
+'ゼ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ゾ'
+> CONTEXT: Scripts/Window_NameInput/42:52
+'ゾ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'サ'
+> CONTEXT: Scripts/Window_NameInput/43:14
+'サ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'シ'
+> CONTEXT: Scripts/Window_NameInput/43:18
+'シ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ス'
+> CONTEXT: Scripts/Window_NameInput/43:22
+'ス'#NoTL
+> END STRING
+
+> BEGIN STRING
+'セ'
+> CONTEXT: Scripts/Window_NameInput/43:26
+'セ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ソ'
+> CONTEXT: Scripts/Window_NameInput/43:30
+'ソ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ダ'
+> CONTEXT: Scripts/Window_NameInput/43:36
+'ダ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ヂ'
+> CONTEXT: Scripts/Window_NameInput/43:40
+'ヂ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ヅ'
+> CONTEXT: Scripts/Window_NameInput/43:44
+'ヅ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'デ'
+> CONTEXT: Scripts/Window_NameInput/43:48
+'デ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ド'
+> CONTEXT: Scripts/Window_NameInput/43:52
+'ド'#NoTL
+> END STRING
+
+> BEGIN STRING
+'タ'
+> CONTEXT: Scripts/Window_NameInput/44:14
+'タ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'チ'
+> CONTEXT: Scripts/Window_NameInput/44:18
+'チ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ツ'
+> CONTEXT: Scripts/Window_NameInput/44:22
+'ツ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'テ'
+> CONTEXT: Scripts/Window_NameInput/44:26
+'テ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ト'
+> CONTEXT: Scripts/Window_NameInput/44:30
+'ト'#NoTL
+> END STRING
+
+> BEGIN STRING
+'バ'
+> CONTEXT: Scripts/Window_NameInput/44:36
+'バ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ビ'
+> CONTEXT: Scripts/Window_NameInput/44:40
+'ビ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ブ'
+> CONTEXT: Scripts/Window_NameInput/44:44
+'ブ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ベ'
+> CONTEXT: Scripts/Window_NameInput/44:48
+'ベ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ボ'
+> CONTEXT: Scripts/Window_NameInput/44:52
+'ボ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ナ'
+> CONTEXT: Scripts/Window_NameInput/45:14
+'ナ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ニ'
+> CONTEXT: Scripts/Window_NameInput/45:18
+'ニ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ヌ'
+> CONTEXT: Scripts/Window_NameInput/45:22
+'ヌ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ネ'
+> CONTEXT: Scripts/Window_NameInput/45:26
+'ネ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ノ'
+> CONTEXT: Scripts/Window_NameInput/45:30
+'ノ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'パ'
+> CONTEXT: Scripts/Window_NameInput/45:36
+'パ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ピ'
+> CONTEXT: Scripts/Window_NameInput/45:40
+'ピ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'プ'
+> CONTEXT: Scripts/Window_NameInput/45:44
+'プ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ペ'
+> CONTEXT: Scripts/Window_NameInput/45:48
+'ペ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ポ'
+> CONTEXT: Scripts/Window_NameInput/45:52
+'ポ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ハ'
+> CONTEXT: Scripts/Window_NameInput/46:14
+'ハ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ヒ'
+> CONTEXT: Scripts/Window_NameInput/46:18
+'ヒ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'フ'
+> CONTEXT: Scripts/Window_NameInput/46:22
+'フ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ヘ'
+> CONTEXT: Scripts/Window_NameInput/46:26
+'ヘ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ホ'
+> CONTEXT: Scripts/Window_NameInput/46:30
+'ホ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ァ'
+> CONTEXT: Scripts/Window_NameInput/46:36
+'ァ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ィ'
+> CONTEXT: Scripts/Window_NameInput/46:40
+'ィ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ゥ'
+> CONTEXT: Scripts/Window_NameInput/46:44
+'ゥ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ェ'
+> CONTEXT: Scripts/Window_NameInput/46:48
+'ェ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ォ'
+> CONTEXT: Scripts/Window_NameInput/46:52
+'ォ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'マ'
+> CONTEXT: Scripts/Window_NameInput/47:14
+'マ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ミ'
+> CONTEXT: Scripts/Window_NameInput/47:18
+'ミ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ム'
+> CONTEXT: Scripts/Window_NameInput/47:22
+'ム'#NoTL
+> END STRING
+
+> BEGIN STRING
+'メ'
+> CONTEXT: Scripts/Window_NameInput/47:26
+'メ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'モ'
+> CONTEXT: Scripts/Window_NameInput/47:30
+'モ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ッ'
+> CONTEXT: Scripts/Window_NameInput/47:36
+'ッ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ャ'
+> CONTEXT: Scripts/Window_NameInput/47:40
+'ャ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ュ'
+> CONTEXT: Scripts/Window_NameInput/47:44
+'ュ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ョ'
+> CONTEXT: Scripts/Window_NameInput/47:48
+'ョ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ヮ'
+> CONTEXT: Scripts/Window_NameInput/47:52
+'ヮ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ヤ'
+> CONTEXT: Scripts/Window_NameInput/48:14
+'ヤ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ユ'
+> CONTEXT: Scripts/Window_NameInput/48:18
+'ユ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ヨ'
+> CONTEXT: Scripts/Window_NameInput/48:22
+'ヨ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ワ'
+> CONTEXT: Scripts/Window_NameInput/48:26
+'ワ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ン'
+> CONTEXT: Scripts/Window_NameInput/48:30
+'ン'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ラ'
+> CONTEXT: Scripts/Window_NameInput/49:14
+'ラ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'リ'
+> CONTEXT: Scripts/Window_NameInput/49:18
+'リ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ル'
+> CONTEXT: Scripts/Window_NameInput/49:22
+'ル'#NoTL
+> END STRING
+
+> BEGIN STRING
+'レ'
+> CONTEXT: Scripts/Window_NameInput/49:26
+'レ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ロ'
+> CONTEXT: Scripts/Window_NameInput/49:30
+'ロ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ヴ'
+> CONTEXT: Scripts/Window_NameInput/49:36
+'ヴ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'ヲ'
+> CONTEXT: Scripts/Window_NameInput/49:40
+'ヲ'#NoTL
+> END STRING
+
+> BEGIN STRING
+'英数'
+> CONTEXT: Scripts/Window_NameInput/49:48
+'EN'#Dargoth
+> END STRING
+
+> BEGIN STRING
+'かな'
+> CONTEXT: Scripts/Window_NameInput/58:48
+'かな'#NoTL
+> END STRING
+
+> BEGIN STRING
+"たたかう"
+> CONTEXT: Scripts/Window_PartyCommand/33:17
+"たたかう"#NoTL
+> END STRING
+
+> BEGIN STRING
+"にげる"
+> CONTEXT: Scripts/Window_PartyCommand/34:17
+"にげる"#NoTL
+> END STRING
+
+> BEGIN STRING
+"限界変動"
+> CONTEXT: Scripts/能力限界突破/54:11
+"限界変動"#NoTL
+> END STRING
+
+> BEGIN STRING
+"判別ワード付与無効"
+> CONTEXT: Scripts/エネミー判別ＡＢＣ無効/17:10
+"判別ワード付与無効"#NoTL
+> END STRING
+
+> BEGIN STRING
+"スクリーンノイズ"
+> CONTEXT: Scripts/ノイズ天候/30:6
+"スクリーンノイズ"#NoTL
+> END STRING
+
+> BEGIN STRING
+"イベントスキップ先"
+> CONTEXT: Scripts/立ち絵/93:16
+"イベントスキップ先"#NoTL
+> END STRING
+
+> BEGIN STRING
+"自動改ページモード"
+> CONTEXT: Scripts/立ち絵/147:74
+"Auto Page Mode"#Dargoth
+> END STRING
+
+> BEGIN STRING
+"ゲーム内共有変数"
+> CONTEXT: Scripts/共通セーブ変数/69:6
+"ゲーム内共有変数"#NoTL
+> END STRING
+
+> BEGIN STRING
+"Ｑ・ロード"
+> CONTEXT: Scripts/クイックロード/41:10
+> CONTEXT: Scripts/クイックロード/41:26
+"Quick Load"#Dargoth
+> END STRING
+
+> BEGIN STRING
+"Ｑ・セーブ"
+> CONTEXT: Scripts/クイックロード/41:18
+"Quick Save"#Dargoth
+> END STRING
+
+> BEGIN STRING
+"はい"
+> CONTEXT: Scripts/クイックロード/56:10
+"Yes"#Dargoth
+> END STRING
+
+> BEGIN STRING
+"いいえ"
+> CONTEXT: Scripts/クイックロード/56:15
+"No"#Dargoth
+> END STRING
+
+> BEGIN STRING
+"クイックセーブを行いますか？"
+> CONTEXT: Scripts/クイックロード/66:10
+"Make a quick save?"#Dargoth
+> END STRING
+
+> BEGIN STRING
+"クイックロードを行いますか？"
+> CONTEXT: Scripts/クイックロード/66:27
+"Perform a quick load?"#Dargoth
+> END STRING
+
+> BEGIN STRING
+"ロードメニュー"
+> CONTEXT: Scripts/ロード/21:6
+"Load Menu"#Dargoth
+> END STRING
+
+> BEGIN STRING
+"ロード"
+> CONTEXT: Scripts/ロード/44:32
+> CONTEXT: Scripts/ロード/48:17
+"Load"#Dargoth
+> END STRING
+
+> BEGIN STRING
+"セーブ処理で異常が発生しました。ゲームを再インストールして下さい。"
+> CONTEXT: Scripts/セーブ画面カスタマイズ/93:16
+"セーブ処理で異常が発生しました。ゲームを再インストールして下さい。"#NoTL
+> END STRING
+
+> BEGIN STRING
+"セーブに失敗しました。HDDの空き容量等を確認して下さい。"
+> CONTEXT: Scripts/セーブ画面カスタマイズ/98:16
+"セーブに失敗しました。HDDの空き容量等を確認して下さい。"#NoTL
+> END STRING
+
+> BEGIN STRING
+"特徴"
+> CONTEXT: Scripts/悪魔全書【設定】/111:29
+"Traits"#Dargoth
+> END STRING
+
+> BEGIN STRING
+"経験値"
+> CONTEXT: Scripts/悪魔全書【設定】/119:29
+"XP"#Dargoth
+> END STRING
+
+> BEGIN STRING
+"お金"
+> CONTEXT: Scripts/悪魔全書【設定】/126:29
+"Money"#Dargoth
+> END STRING
+
+> BEGIN STRING
+"ドロップアイテム"
+> CONTEXT: Scripts/悪魔全書【設定】/133:29
+"Item Drops"#Dargoth
+> END STRING
+
+> BEGIN STRING
+"説明"
+> CONTEXT: Scripts/悪魔全書【設定】/141:29
+"Details"#Dargoth
+> END STRING
+
+> BEGIN STRING
+"撃破数"
+> CONTEXT: Scripts/悪魔全書【設定】/149:29
+"Number Killed"#Dargoth
+> END STRING
+
+> BEGIN STRING
+"全書完成度: \#{monster_dictionary_perfection} %"
+> CONTEXT: Scripts/悪魔全書【本体】/382:44
+"Book Completion: \#{monster_dictionary_perfection} %"#afrg
+> END STRING
+
+> BEGIN STRING
+"スキルツリーシステム"
+> CONTEXT: Scripts/スキルツリー/9:3
+"Skill tree system"#MTLed
+> END STRING
+
+> BEGIN STRING
+"%s のスキルポイントを獲得！"
+> CONTEXT: Scripts/スキルツリー/42:21
+"%s Earn skill points for！"#MTLed
+> END STRING
+
+> BEGIN STRING
+"% 回復"
+> CONTEXT: Scripts/スキルツリー/75:18
+"% recovery"#MTLed
+> END STRING
+
+> BEGIN STRING
+"% 減少"
+> CONTEXT: Scripts/スキルツリー/76:18
+"% Decrease"#MTLed
+> END STRING
+
+> BEGIN STRING
+" 回復"
+> CONTEXT: Scripts/スキルツリー/80:18
+" recovery"#MTLed
+> END STRING
+
+> BEGIN STRING
+" 減少"
+> CONTEXT: Scripts/スキルツリー/81:18
+" Decrease"#MTLed
+> END STRING
+
+> BEGIN STRING
+" 付与 "
+> CONTEXT: Scripts/スキルツリー/86:25
+" Grant "#MTLed
+> END STRING
+
+> BEGIN STRING
+" 解除 "
+> CONTEXT: Scripts/スキルツリー/87:25
+" Cancel "#MTLed
+> END STRING
+
+> BEGIN STRING
+"通常攻撃"
+> CONTEXT: Scripts/スキルツリー/89:38
+> CONTEXT: Scripts/スキルツリー/1485:12
+> CONTEXT: Scripts/スキル表示/47:18
+"Regular Attack"#Dargoth
+> END STRING
+
+> BEGIN STRING
+" 強化付与 "
+> CONTEXT: Scripts/スキルツリー/94:17
+" Strengthening "#MTLed
+> END STRING
+
+> BEGIN STRING
+"ターン"
+> CONTEXT: Scripts/スキルツリー/95:46
+> CONTEXT: Scripts/スキルツリー/98:46
+"turn"#MTLed
+> END STRING
+
+> BEGIN STRING
+" 弱体付与 "
+> CONTEXT: Scripts/スキルツリー/97:17
+" Weakness grant "#MTLed
+> END STRING
+
+> BEGIN STRING
+" 強化解除"
+> CONTEXT: Scripts/スキルツリー/100:17
+" Reinforcement release"#MTLed
+> END STRING
+
+> BEGIN STRING
+" 弱体解除"
+> CONTEXT: Scripts/スキルツリー/103:17
+" Weak release"#MTLed
+> END STRING
+
+> BEGIN STRING
+"逃走効果"
+> CONTEXT: Scripts/スキルツリー/108:23
+"Runaway effect"#MTLed
+> END STRING
+
+> BEGIN STRING
+" 成長("
+> CONTEXT: Scripts/スキルツリー/110:54
+" growth("#MTLed
+> END STRING
+
+> BEGIN STRING
+" 習得"
+> CONTEXT: Scripts/スキルツリー/112:59
+" Mastering"#MTLed
+> END STRING
+
+> BEGIN STRING
+"特殊効果"
+> CONTEXT: Scripts/スキルツリー/114:23
+"Special effects"#MTLed
+> END STRING
+
+> BEGIN STRING
+"<スキルポイントリセット\>"
+> CONTEXT: Scripts/スキルツリー/176:20
+"<スキルポイントリセット\>"#NoTL
+> END STRING
+
+> BEGIN STRING
+"<非公開表示\>"
+> CONTEXT: Scripts/スキルツリー/182:20
+"<非公開表示\>"#NoTL
+> END STRING
+
+> BEGIN STRING
+"アクターの基礎能力＆スキルを習得します。"
+> CONTEXT: Scripts/スキルツリー/830:31
+"Acquire basic skills & skills of actors。"#MTLed
+> END STRING
+
+> BEGIN STRING
+"魔法を習得します。"
+> CONTEXT: Scripts/スキルツリー/832:31
+"Learn magic。"#MTLed
+> END STRING
+
+> BEGIN STRING
+"身体能力"
+> CONTEXT: Scripts/スキルツリー/841:17
+"Physical"#Dargoth
+> END STRING
+
+> BEGIN STRING
+"魔法"
+> CONTEXT: Scripts/スキルツリー/842:17
+"Spells"#Dargoth
+> END STRING
+
+> BEGIN STRING
+"- 未習得 -"
+> CONTEXT: Scripts/スキルツリー/1020:35
+"- Unlearned -"#Dargoth
+> END STRING
+
+> BEGIN STRING
+"前提未修得"
+> CONTEXT: Scripts/スキルツリー/1040:26
+"Prerequisite not acquired"#MTLed
+> END STRING
+
+> BEGIN STRING
+"前提Lv不足"
+> CONTEXT: Scripts/スキルツリー/1045:26
+"PremiseLvShortage"#MTLed
+> END STRING
+
+> BEGIN STRING
+"熟練度不足"
+> CONTEXT: Scripts/スキルツリー/1050:26
+"Insufficient skill"#MTLed
+> END STRING
+
+> BEGIN STRING
+"選択不可"
+> CONTEXT: Scripts/スキルツリー/1055:26
+"It can not be selected"#MTLed
+> END STRING
+
+> BEGIN STRING
+"操作説明"
+> CONTEXT: Scripts/スキルツリー/1215:57
+"Operation explanation"#MTLed
+> END STRING
+
+> BEGIN STRING
+"LR　：アクター切り替え"
+> CONTEXT: Scripts/スキルツリー/1216:78
+"LR　： Change party member"#Dargoth
+> END STRING
+
+> BEGIN STRING
+"←→：項目選択"
+> CONTEXT: Scripts/スキルツリー/1217:78
+"←→： Navigate"#Dargoth
+> END STRING
+
+> BEGIN STRING
+"スキルツリー情報"
+> CONTEXT: Scripts/スキルツリー/1224:57
+"Skill tree information"#MTLed
+> END STRING
+
+> BEGIN STRING
+"Nextスキル情報"
+> CONTEXT: Scripts/スキルツリー/1264:59
+> CONTEXT: Scripts/スキルツリー/1339:59
+> CONTEXT: Scripts/スキルツリー/1378:59
+"NextSkill information"#MTLed
+> END STRING
+
+> BEGIN STRING
+"スキル情報"
+> CONTEXT: Scripts/スキルツリー/1266:59
+> CONTEXT: Scripts/スキルツリー/1341:59
+> CONTEXT: Scripts/スキルツリー/1380:59
+"Skill information"#MTLed
+> END STRING
+
+> BEGIN STRING
+"スキル情報不明"
+> CONTEXT: Scripts/スキルツリー/1277:83
+"Skill information unknown"#MTLed
+> END STRING
+
+> BEGIN STRING
+"命中タイプ"
+> CONTEXT: Scripts/スキルツリー/1288:59
+"Hit type"#MTLed
+> END STRING
+
+> BEGIN STRING
+"消費TP"
+> CONTEXT: Scripts/スキルツリー/1290:59
+"consumptionTP"#MTLed
+> END STRING
+
+> BEGIN STRING
+"消費MP"
+> CONTEXT: Scripts/スキルツリー/1291:59
+"consumptionMP"#MTLed
+> END STRING
+
+> BEGIN STRING
+"消費HP"
+> CONTEXT: Scripts/スキルツリー/1294:61
+"consumptionHP"#MTLed
+> END STRING
+
+> BEGIN STRING
+"消費金額"
+> CONTEXT: Scripts/スキルツリー/1295:61
+"Consumption amount"#MTLed
+> END STRING
+
+> BEGIN STRING
+"属性"
+> CONTEXT: Scripts/スキルツリー/1298:59
+"attribute"#MTLed
+> END STRING
+
+> BEGIN STRING
+"範囲"
+> CONTEXT: Scripts/スキルツリー/1299:59
+"range"#MTLed
+> END STRING
+
+> BEGIN STRING
+"威力"
+> CONTEXT: Scripts/スキルツリー/1301:60
+"power"#MTLed
+> END STRING
+
+> BEGIN STRING
+"タイプ"
+> CONTEXT: Scripts/スキルツリー/1302:84
+"type"#MTLed
+> END STRING
+
+> BEGIN STRING
+"連続"
+> CONTEXT: Scripts/スキルツリー/1304:60
+"Continuous"#MTLed
+> END STRING
+
+> BEGIN STRING
+"成功率"
+> CONTEXT: Scripts/スキルツリー/1305:84
+"success rate"#MTLed
+> END STRING
+
+> BEGIN STRING
+"スキル効果不明"
+> CONTEXT: Scripts/スキルツリー/1352:83
+"Skill effect unknown"#MTLed
+> END STRING
+
+> BEGIN STRING
+"スキル効果"
+> CONTEXT: Scripts/スキルツリー/1362:71
+"Skill effect"#MTLed
+> END STRING
+
+> BEGIN STRING
+"必要レベル"
+> CONTEXT: Scripts/スキルツリー/1396:60
+"Required level"#MTLed
+> END STRING
+
+> BEGIN STRING
+"前提"
+> CONTEXT: Scripts/スキルツリー/1397:59
+"Premise"#MTLed
+> END STRING
+
+> BEGIN STRING
+" 熟練度"
+> CONTEXT: Scripts/スキルツリー/1421:92
+" Proficiency"#MTLed
+> END STRING
+
+> BEGIN STRING
+"前提無し"
+> CONTEXT: Scripts/スキルツリー/1426:71
+"No premise"#MTLed
+> END STRING
+
+> BEGIN STRING
+"無"
+> CONTEXT: Scripts/スキルツリー/1436:22
+"Nothing"#MTLed
+> END STRING
+
+> BEGIN STRING
+"敵単体"
+> CONTEXT: Scripts/スキルツリー/1437:22
+"Enemy alone"#MTLed
+> END STRING
+
+> BEGIN STRING
+"敵全体"
+> CONTEXT: Scripts/スキルツリー/1438:22
+"Whole enemy"#MTLed
+> END STRING
+
+> BEGIN STRING
+"敵１体ランダム"
+> CONTEXT: Scripts/スキルツリー/1439:22
+"enemy１Body random"#MTLed
+> END STRING
+
+> BEGIN STRING
+"敵２体ランダム"
+> CONTEXT: Scripts/スキルツリー/1440:22
+"enemy２Body random"#MTLed
+> END STRING
+
+> BEGIN STRING
+"敵３体ランダム"
+> CONTEXT: Scripts/スキルツリー/1441:22
+"enemy３Body random"#MTLed
+> END STRING
+
+> BEGIN STRING
+"敵４体ランダム"
+> CONTEXT: Scripts/スキルツリー/1442:22
+"enemy４Body random"#MTLed
+> END STRING
+
+> BEGIN STRING
+"味方単体"
+> CONTEXT: Scripts/スキルツリー/1443:22
+"Allies alone"#MTLed
+> END STRING
+
+> BEGIN STRING
+"味方全体"
+> CONTEXT: Scripts/スキルツリー/1444:22
+"All friends"#MTLed
+> END STRING
+
+> BEGIN STRING
+"味単(戦不) "
+> CONTEXT: Scripts/スキルツリー/1445:22
+"Taste only(Infidelity) "#MTLed
+> END STRING
+
+> BEGIN STRING
+"味全(戦不) "
+> CONTEXT: Scripts/スキルツリー/1446:23
+"Taste all(Infidelity) "#MTLed
+> END STRING
+
+> BEGIN STRING
+"本人"
+> CONTEXT: Scripts/スキルツリー/1447:23
+"Principal"#MTLed
+> END STRING
+
+> BEGIN STRING
+"必中攻撃"
+> CONTEXT: Scripts/スキルツリー/1455:21
+"aim Attack"#MTLed
+> END STRING
+
+> BEGIN STRING
+"物理攻撃"
+> CONTEXT: Scripts/スキルツリー/1456:21
+"Physical Attack"#Dargoth
+> END STRING
+
+> BEGIN STRING
+"魔法攻撃"
+> CONTEXT: Scripts/スキルツリー/1457:21
+"Magic Attack"#Dargoth
+> END STRING
+
+> BEGIN STRING
+"ダメージ無"
+> CONTEXT: Scripts/スキルツリー/1472:21
+"No damage"#MTLed
+> END STRING
+
+> BEGIN STRING
+"ダメージ"
+> CONTEXT: Scripts/スキルツリー/1473:35
+> CONTEXT: Scripts/スキルツリー/1474:35
+"damage"#MTLed
+> END STRING
+
+> BEGIN STRING
+"回復"
+> CONTEXT: Scripts/スキルツリー/1475:35
+> CONTEXT: Scripts/スキルツリー/1476:35
+"recovery"#MTLed
+> END STRING
+
+> BEGIN STRING
+"吸収"
+> CONTEXT: Scripts/スキルツリー/1477:35
+> CONTEXT: Scripts/スキルツリー/1478:35
+"absorption"#MTLed
+> END STRING
+
+> BEGIN STRING
+"無し"
+> CONTEXT: Scripts/スキルツリー/1486:12
+"None"#MTLed
+> END STRING
+
+> BEGIN STRING
+"LR：表示切替("
+> CONTEXT: Scripts/スキルツリー/1561:85
+"LR：Display switching("#MTLed
+> END STRING
+
+> BEGIN STRING
+"「[hzm]メモ欄拡張共通部分 for RGSS3」が導入されています．\\n「[hzm]メモ欄拡張共通部分 for RGSS3」は既に不要なので，\\n削除してください．"
+> CONTEXT: Scripts/Unamed_Script_(10)/42:7
+"「[hzm]メモ欄拡張共通部分 for RGSS3」が導入されています．\\n「[hzm]メモ欄拡張共通部分 for RGSS3」は既に不要なので，\\n削除してください．"#NoTL
+> END STRING
+
+> BEGIN STRING
+"「[hzm]メモ欄拡張共通部分さん＋ for RGSS3」を導入してください"
+> CONTEXT: Scripts/ターン消費無しスキル/104:7
+"「[hzm]メモ欄拡張共通部分さん＋ for RGSS3」を導入してください"#NoTL
+> END STRING
+
+> BEGIN STRING
+"「[hzm]メモ欄拡張共通部分さん＋ for RGSS3」のバージョンが一致しません"
+> CONTEXT: Scripts/ターン消費無しスキル/105:7
+"「[hzm]メモ欄拡張共通部分さん＋ for RGSS3」のバージョンが一致しません"#NoTL
+> END STRING
+
+> BEGIN STRING
+'ターン消費無し'
+> CONTEXT: Scripts/ターン消費無しスキル/110:19
+'ターン消費無し'#NoTL
+> END STRING
+
+> BEGIN STRING
+'即発動'
+> CONTEXT: Scripts/ターン消費無しスキル/110:30
+'即発動'#NoTL
+> END STRING
+
+> BEGIN STRING
+"戦闘時非表示"
+> CONTEXT: Scripts/非表示アイテム/63:3
+"戦闘時非表示"#NoTL
+> END STRING
+
+> BEGIN STRING
+"戦闘時のみ表示"
+> CONTEXT: Scripts/非表示アイテム/64:3
+"戦闘時のみ表示"#NoTL
+> END STRING
+
+> BEGIN STRING
+"アイテム時非表示"
+> CONTEXT: Scripts/非表示アイテム/65:3
+"アイテム時非表示"#NoTL
+> END STRING
+
+> BEGIN STRING
+"アイテム時のみ表示"
+> CONTEXT: Scripts/非表示アイテム/66:3
+"アイテム時のみ表示"#NoTL
+> END STRING
+
+> BEGIN STRING
+"装備時非表示"
+> CONTEXT: Scripts/非表示アイテム/67:3
+"装備時非表示"#NoTL
+> END STRING
+
+> BEGIN STRING
+"装備時のみ表示"
+> CONTEXT: Scripts/非表示アイテム/68:3
+"装備時のみ表示"#NoTL
+> END STRING
+
+> BEGIN STRING
+"マップ時非表示"
+> CONTEXT: Scripts/非表示アイテム/69:3
+"マップ時非表示"#NoTL
+> END STRING
+
+> BEGIN STRING
+"マップ時のみ表示"
+> CONTEXT: Scripts/非表示アイテム/70:3
+"マップ時のみ表示"#NoTL
+> END STRING
+
+> BEGIN STRING
+"常時非表示"
+> CONTEXT: Scripts/非表示アイテム/71:3
+"常時非表示"#NoTL
+> END STRING
+
+> BEGIN STRING
+"選択肢ヘルプ"
+> CONTEXT: Scripts/選択肢拡張/91:10
+"選択肢ヘルプ"#NoTL
+> END STRING
+
+> BEGIN STRING
+"以下の条件判定でエラーが出ました。\\n\\n"
+> CONTEXT: Scripts/選択肢拡張/333:14
+"以下の条件判定でエラーが出ました。\\n\\n"#NoTL
+> END STRING
+
+> BEGIN STRING
+"\#{@num}個"
+> CONTEXT: Scripts/簡易メッセージ/158:20
+"\#{@num}"#NoTL
+> END STRING
+
+> BEGIN STRING
+"\\\\I[\#{$data_items[@msg].icon_index}]\\\\C[\#{c}]\#{$data_items[@msg].name}\\\\C[0]を\#{n}入手"
+> CONTEXT: Scripts/簡易メッセージ/161:21
+"\#{n} \\\\I[\#{$data_items[@msg].icon_index}] \\\\C[\#{c}]\#{$data_items[@msg].name}\\\\C[0] obtained."#MTLed
+> END STRING
+
+> BEGIN STRING
+"\\\\I[\#{$data_weapons[@msg].icon_index}]\\\\C[\#{c}]\#{$data_weapons[@msg].name}\\\\C[0]を\#{n}入手"
+> CONTEXT: Scripts/簡易メッセージ/162:21
+"\#{n} \\\\I[\#{$data_weapons[@msg].icon_index}] \\\\C[\#{c}]\#{$data_weapons[@msg].name}\\\\C[0] obtained."#MTLed
+> END STRING
+
+> BEGIN STRING
+"\\\\I[\#{$data_armors[@msg].icon_index}]\\\\C[\#{c}]\#{$data_armors[@msg].name}\\\\C[0]を\#{n}入手"
+> CONTEXT: Scripts/簡易メッセージ/163:21
+"\#{n} \\\\I[\#{$data_armors[@msg].icon_index}] \\\\C[\#{c}]\#{$data_armors[@msg].name}\\\\C[0] obtained."#MTLed
+> END STRING
+
+> BEGIN STRING
+"\\\\C[\#{c}]\#{$data_skills[@msg].name}\\\\C[0]を習得"
+> CONTEXT: Scripts/簡易メッセージ/164:21
+"\\\\C[\#{c}]\#{$data_skills[@msg].name}\\\\C[0] Learned"#afrg
+> END STRING
+
+> BEGIN STRING
+"\\\\C[\#{c}]\#{$game_actors[@msg].name}\\\\C[0]がレベルアップ"
+> CONTEXT: Scripts/簡易メッセージ/165:21
+"\\\\C[\#{c}]\#{$game_actors[@msg].name}\\\\C[0] Level Up"#afrg
+> END STRING
+
+> BEGIN STRING
+"\\\\C[\#{c}]\#{$game_actors[@msg].name}\\\\C[0]が仲間になった"
+> CONTEXT: Scripts/簡易メッセージ/166:21
+"\\\\C[\#{c}]\#{$game_actors[@msg].name}\\\\C[0] was befriended"#afrg
+> END STRING
+
+> BEGIN STRING
+"\\\\C[\#{c}]\#{$game_actors[@msg].name}\\\\C[0]が離脱した…"
+> CONTEXT: Scripts/簡易メッセージ/167:21
+"\\\\C[\#{c}]\#{$game_actors[@msg].name}\\\\C[0] ran away..."#afrg
+> END STRING
+
+> BEGIN STRING
+"\\\\C[\#{c}]\#{@msg}\#{Vocab::currency_unit}\\\\C[0]入手"
+> CONTEXT: Scripts/簡易メッセージ/168:21
+"\\\\C[\#{c}]\#{@msg}\#{Vocab::currency_unit}\\\\C[0] acquired"#afrg
+> END STRING
+
+> BEGIN STRING
+"『\\\\C[\#{c}]\#{$game_system.quest[@msg].name}\\\\C[0]』開始"
+> CONTEXT: Scripts/簡易メッセージ/169:21
+"『\\\\C[\#{c}]\#{$game_system.quest[@msg].name}\\\\C[0]』 started"#afrg
+> END STRING
+
+> BEGIN STRING
+"『\\\\C[\#{c}]\#{$game_system.quest[@msg].name}\\\\C[0]』クリア"
+> CONTEXT: Scripts/簡易メッセージ/170:21
+"『\\\\C[\#{c}]\#{$game_system.quest[@msg].name}\\\\C[0]』 completed"#afrg
+> END STRING
+
+> BEGIN STRING
+"新語『\\\\C[\#{c}]\#{$game_system.dictionary[@msg][@num].name}\\\\C[0]』"
+> CONTEXT: Scripts/簡易メッセージ/171:21
+"new word『\\\\C[\#{c}]\#{$game_system.dictionary[@msg][@num].name}\\\\C[0]』"#MTLed
+> END STRING
+
+> BEGIN STRING
+"逃走成功率増加"
+> CONTEXT: Scripts/逃走可否変更/85:11
+"逃走成功率増加"#NoTL
+> END STRING
+
+> BEGIN STRING
+"逃走成功率減少"
+> CONTEXT: Scripts/逃走可否変更/89:11
+"逃走成功率減少"#NoTL
+> END STRING
+
+> BEGIN STRING
+"アイテム消費"
+> CONTEXT: Scripts/スキルコスト拡張/193:13
+"アイテム消費"#NoTL
+> END STRING
+
+> BEGIN STRING
+"武器消費"
+> CONTEXT: Scripts/スキルコスト拡張/197:13
+"武器消費"#NoTL
+> END STRING
+
+> BEGIN STRING
+"防具消費"
+> CONTEXT: Scripts/スキルコスト拡張/201:13
+"防具消費"#NoTL
+> END STRING
+
+> BEGIN STRING
+"所持金固定消費"
+> CONTEXT: Scripts/スキルコスト拡張/205:12
+"所持金固定消費"#NoTL
+> END STRING
+
+> BEGIN STRING
+"所持金割合消費"
+> CONTEXT: Scripts/スキルコスト拡張/209:12
+"所持金割合消費"#NoTL
+> END STRING
+
+> BEGIN STRING
+"所持金消費式"
+> CONTEXT: Scripts/スキルコスト拡張/213:12
+"所持金消費式"#NoTL
+> END STRING
+
+> BEGIN STRING
+"変数固定消費"
+> CONTEXT: Scripts/スキルコスト拡張/217:12
+"変数固定消費"#NoTL
+> END STRING
+
+> BEGIN STRING
+"変数割合消費"
+> CONTEXT: Scripts/スキルコスト拡張/221:12
+"変数割合消費"#NoTL
+> END STRING
+
+> BEGIN STRING
+"変数消費式"
+> CONTEXT: Scripts/スキルコスト拡張/225:12
+"変数消費式"#NoTL
+> END STRING
+
+> BEGIN STRING
+"HP固定消費"
+> CONTEXT: Scripts/スキルコスト拡張/229:12
+"HP固定消費"#NoTL
+> END STRING
+
+> BEGIN STRING
+"HP割合消費"
+> CONTEXT: Scripts/スキルコスト拡張/233:12
+"HP割合消費"#NoTL
+> END STRING
+
+> BEGIN STRING
+"最大HP割合消費"
+> CONTEXT: Scripts/スキルコスト拡張/237:12
+"最大HP割合消費"#NoTL
+> END STRING
+
+> BEGIN STRING
+"HP消費式"
+> CONTEXT: Scripts/スキルコスト拡張/241:12
+"HP消費式"#NoTL
+> END STRING
+
+> BEGIN STRING
+"MP固定消費"
+> CONTEXT: Scripts/スキルコスト拡張/245:12
+"MP固定消費"#NoTL
+> END STRING
+
+> BEGIN STRING
+"MP割合消費"
+> CONTEXT: Scripts/スキルコスト拡張/249:12
+"MP割合消費"#NoTL
+> END STRING
+
+> BEGIN STRING
+"最大MP割合消費"
+> CONTEXT: Scripts/スキルコスト拡張/253:12
+"最大MP割合消費"#NoTL
+> END STRING
+
+> BEGIN STRING
+"MP消費式"
+> CONTEXT: Scripts/スキルコスト拡張/257:12
+"MP消費式"#NoTL
+> END STRING
+
+> BEGIN STRING
+"TP固定消費"
+> CONTEXT: Scripts/スキルコスト拡張/261:12
+"TP固定消費"#NoTL
+> END STRING
+
+> BEGIN STRING
+"TP割合消費"
+> CONTEXT: Scripts/スキルコスト拡張/265:12
+"TP割合消費"#NoTL
+> END STRING
+
+> BEGIN STRING
+"最大TP割合消費"
+> CONTEXT: Scripts/スキルコスト拡張/269:12
+"最大TP割合消費"#NoTL
+> END STRING
+
+> BEGIN STRING
+"TP消費式"
+> CONTEXT: Scripts/スキルコスト拡張/273:12
+"TP消費式"#NoTL
+> END STRING
+
+> BEGIN STRING
+"消費HP軽減割合"
+> CONTEXT: Scripts/スキルコスト拡張/277:12
+"消費HP軽減割合"#NoTL
+> END STRING
+
+> BEGIN STRING
+"消費HP軽減無効"
+> CONTEXT: Scripts/スキルコスト拡張/281:12
+"消費HP軽減無効"#NoTL
+> END STRING
+
+> BEGIN STRING
+"消費MP軽減無効"
+> CONTEXT: Scripts/スキルコスト拡張/285:12
+"消費MP軽減無効"#NoTL
+> END STRING
+
+> BEGIN STRING
+"消費TP軽減割合"
+> CONTEXT: Scripts/スキルコスト拡張/289:12
+"消費TP軽減割合"#NoTL
+> END STRING
+
+> BEGIN STRING
+"消費TP軽減無効"
+> CONTEXT: Scripts/スキルコスト拡張/293:12
+"消費TP軽減無効"#NoTL
+> END STRING
+
+> BEGIN STRING
+"戦闘不能許可"
+> CONTEXT: Scripts/スキルコスト拡張/297:12
+"戦闘不能許可"#NoTL
+> END STRING
+
+> BEGIN STRING
+"<アイテム封印\>"
+> CONTEXT: Scripts/アイテムコマンド封印/30:11
+"<アイテム封印\>"#NoTL
+> END STRING
+
+> BEGIN STRING
+"<アイテム扱い\>"
+> CONTEXT: Scripts/アイテムコマンド封印/34:11
+"<アイテム扱い\>"#NoTL
+> END STRING
+
+> BEGIN STRING
+"効果前提ステート"
+> CONTEXT: Scripts/ステート前提ステート/27:11
+"効果前提ステート"#NoTL
+> END STRING
+
+> BEGIN STRING
+"不発時効果"
+> CONTEXT: Scripts/ステート前提ステート/27:22
+"不発時効果"#NoTL
+> END STRING
+
+> BEGIN STRING
+"所持制限"
+> CONTEXT: Scripts/アイテム個数制限/38:12
+"Carry Limit"#Dargoth
+> END STRING
+
+> BEGIN STRING
+"所持装備制限タイプ"
+> CONTEXT: Scripts/アイテム個数制限/43:12
+"所持装備制限タイプ"#NoTL
+> END STRING
+
+> BEGIN STRING
+"預かり所込所持制限"
+> CONTEXT: Scripts/アイテム個数制限/48:12
+"預かり所込所持制限"#NoTL
+> END STRING
+
+> BEGIN STRING
+"所持品モードに切り替えます"
+> CONTEXT: Scripts/アイテム預かり所/116:15
+"所持品モードに切り替えます"#NoTL
+> END STRING
+
+> BEGIN STRING
+"預かり所モードに切り替えます"
+> CONTEXT: Scripts/アイテム預かり所/120:15
+"預かり所モードに切り替えます"#NoTL
+> END STRING
+
+> BEGIN STRING
+"預けている数"
+> CONTEXT: Scripts/アイテム預かり所/129:15
+"預けている数"#NoTL
+> END STRING
+
+> BEGIN STRING
+"保存禁止"
+> CONTEXT: Scripts/アイテム預かり所/147:15
+"保存禁止"#NoTL
+> END STRING
+
+> BEGIN STRING
+"保存制限"
+> CONTEXT: Scripts/アイテム預かり所/151:15
+"保存制限"#NoTL
+> END STRING
+
+> BEGIN STRING
+"下キー"
+> CONTEXT: Scripts/アイテム預かり所/182:4
+"Down key"#MTLed
+> END STRING
+
+> BEGIN STRING
+":1個引き出す"
+> CONTEXT: Scripts/アイテム預かり所/182:10
+":1Pull out pieces"#MTLed
+> END STRING
+
+> BEGIN STRING
+"上キー"
+> CONTEXT: Scripts/アイテム預かり所/183:4
+"Up key"#MTLed
+> END STRING
+
+> BEGIN STRING
+":1個預ける"
+> CONTEXT: Scripts/アイテム預かり所/183:10
+":1Deposit individual"#MTLed
+> END STRING
+
+> BEGIN STRING
+"左キー"
+> CONTEXT: Scripts/アイテム預かり所/184:4
+"Left key"#MTLed
+> END STRING
+
+> BEGIN STRING
+":10個引き出す"
+> CONTEXT: Scripts/アイテム預かり所/184:10
+":10Pull out pieces"#MTLed
+> END STRING
+
+> BEGIN STRING
+"右キー"
+> CONTEXT: Scripts/アイテム預かり所/185:4
+"Right key"#MTLed
+> END STRING
+
+> BEGIN STRING
+":10個預ける"
+> CONTEXT: Scripts/アイテム預かり所/185:10
+":10Deposit individual"#MTLed
+> END STRING
+
+> BEGIN STRING
+"CTRLキー"
+> CONTEXT: Scripts/アイテム預かり所/186:4
+"CTRLKey"#MTLed
+> END STRING
+
+> BEGIN STRING
+":100個引き出す"
+> CONTEXT: Scripts/アイテム預かり所/186:13
+":100Pull out pieces"#MTLed
+> END STRING
+
+> BEGIN STRING
+"SHIFTキー"
+> CONTEXT: Scripts/アイテム預かり所/187:4
+"SHIFTKey"#MTLed
+> END STRING
+
+> BEGIN STRING
+":100個預ける"
+> CONTEXT: Scripts/アイテム預かり所/187:14
+":100Deposit individual"#MTLed
+> END STRING
+
+> BEGIN STRING
+"所持"
+> CONTEXT: Scripts/アイテム預かり所/601:46
+> CONTEXT: Scripts/アイテム預かり所/789:52
+"Possession"#MTLed
+> END STRING
+
+> BEGIN STRING
+"倉庫"
+> CONTEXT: Scripts/アイテム預かり所/607:46
+> CONTEXT: Scripts/アイテム預かり所/790:75
+"Warehouse"#MTLed
+> END STRING
+
+> BEGIN STRING
+"必要素材"
+> CONTEXT: Scripts/アイテム合成/758:21
+"Required material"#MTLed
+> END STRING
+
+> BEGIN STRING
+"Z: 素材 ⇔ ステータス 表示切り替え"
+> CONTEXT: Scripts/アイテム合成/893:12
+"Z: Material Moth status Display switching"#MTLed
+> END STRING
+
+> BEGIN STRING
+"素手"
+> CONTEXT: Scripts/スキル表示/43:26
+"素手"#NoTL
+> END STRING
+
+> BEGIN STRING
+"ミス!"
+> CONTEXT: Scripts/戦闘レイアウト/311:19
+"Miss!"#MTLed
+> END STRING
+
+> BEGIN STRING
+"反撃！"
+> CONTEXT: Scripts/戦闘レイアウト/312:19
+"Counterattack！"#MTLed
+> END STRING
+
+> BEGIN STRING
+"反射！"
+> CONTEXT: Scripts/戦闘レイアウト/313:19
+"Reflection！"#MTLed
+> END STRING
+
+> BEGIN STRING
+"身代わり！"
+> CONTEXT: Scripts/戦闘レイアウト/314:19
+"Replacement！"#MTLed
+> END STRING
+
+> BEGIN STRING
+"レベルアップ!"
+> CONTEXT: Scripts/戦闘レイアウト/315:19
+"Level up!"#MTLed
+> END STRING
+
+> BEGIN STRING
+"LNX11a:バトラーグラフィックを変更しました:ID\#{id} \#{filename}"
+> CONTEXT: Scripts/戦闘レイアウト/512:9
+"LNX11a:バトラーグラフィックを変更しました:ID\#{id} \#{filename}"#NoTL
+> END STRING
+
+> BEGIN STRING
+"LNX11a:バトラーグラフィック指定の引数が正しくありません。"
+> CONTEXT: Scripts/戦闘レイアウト/515:18
+"LNX11a:バトラーグラフィック指定の引数が正しくありません。"#NoTL
+> END STRING
+
+> BEGIN STRING
+"LNX11a:バトラーグラフィックの指定は行われませんでした。"
+> CONTEXT: Scripts/戦闘レイアウト/516:19
+"LNX11a:バトラーグラフィックの指定は行われませんでした。"#NoTL
+> END STRING
+
+> BEGIN STRING
+"LNX11a:数字ビットマップのキャッシュを作成しました。"
+> CONTEXT: Scripts/戦闘レイアウト/1350:7
+"LNX11a:数字ビットマップのキャッシュを作成しました。"#NoTL
+> END STRING
+
+> BEGIN STRING
+"LNX11a:カーソルビットマップを作成しました。"
+> CONTEXT: Scripts/戦闘レイアウト/1806:9
+"LNX11a:カーソルビットマップを作成しました。"#NoTL
+> END STRING
+
+> BEGIN STRING
+"行動開始前コモン"
+> CONTEXT: Scripts/行動前コモンイベント/26:10
+"行動開始前コモン"#NoTL
+> END STRING
+
+> BEGIN STRING
+"使用者ステート"
+> CONTEXT: Scripts/使用者にステート解除/96:11
+"使用者ステート"#NoTL
+> END STRING
+
+> BEGIN STRING
+"使用者強化"
+> CONTEXT: Scripts/使用者にステート解除/100:11
+"使用者強化"#NoTL
+> END STRING
+
+> BEGIN STRING
+"使用者弱体"
+> CONTEXT: Scripts/使用者にステート解除/104:11
+"使用者弱体"#NoTL
+> END STRING
+
+> BEGIN STRING
+"使用者ステート解除"
+> CONTEXT: Scripts/使用者にステート解除/108:11
+"使用者ステート解除"#NoTL
+> END STRING
+
+> BEGIN STRING
+"使用者強化解除"
+> CONTEXT: Scripts/使用者にステート解除/112:11
+"使用者強化解除"#NoTL
+> END STRING
+
+> BEGIN STRING
+"使用者弱体解除"
+> CONTEXT: Scripts/使用者にステート解除/116:11
+"使用者弱体解除"#NoTL
+> END STRING
+
+> BEGIN STRING
+"発動前"
+> CONTEXT: Scripts/使用者にステート解除/120:8
+"発動前"#NoTL
+> END STRING
+
+> BEGIN STRING
+"シンボルエンカウント補助"
+> CONTEXT: Scripts/シンボルエンカウント/180:6
+"シンボルエンカウント補助"#NoTL
+> END STRING
+
+> BEGIN STRING
+"必中絶対命中"
+> CONTEXT: Scripts/絶対命中・絶対回避/61:13
+"必中絶対命中"#NoTL
+> END STRING
+
+> BEGIN STRING
+"物理絶対命中"
+> CONTEXT: Scripts/絶対命中・絶対回避/61:22
+"物理絶対命中"#NoTL
+> END STRING
+
+> BEGIN STRING
+"魔法絶対命中"
+> CONTEXT: Scripts/絶対命中・絶対回避/61:31
+"魔法絶対命中"#NoTL
+> END STRING
+
+> BEGIN STRING
+"全絶対命中"
+> CONTEXT: Scripts/絶対命中・絶対回避/61:40
+"全絶対命中"#NoTL
+> END STRING
+
+> BEGIN STRING
+"必中絶対回避"
+> CONTEXT: Scripts/絶対命中・絶対回避/65:13
+"必中絶対回避"#NoTL
+> END STRING
+
+> BEGIN STRING
+"物理絶対回避"
+> CONTEXT: Scripts/絶対命中・絶対回避/65:22
+"物理絶対回避"#NoTL
+> END STRING
+
+> BEGIN STRING
+"魔法絶対回避"
+> CONTEXT: Scripts/絶対命中・絶対回避/65:31
+"魔法絶対回避"#NoTL
+> END STRING
+
+> BEGIN STRING
+"全絶対回避"
+> CONTEXT: Scripts/絶対命中・絶対回避/65:40
+"全絶対回避"#NoTL
+> END STRING
+
+> BEGIN STRING
+"絶対命中"
+> CONTEXT: Scripts/絶対命中・絶対回避/69:10
+"絶対命中"#NoTL
+> END STRING
+
+> BEGIN STRING
+"件名：理由
+ 　　　送信者【Richard】
+
+ 《本文》==========================================
+私は罪を犯した
+ あろうことか、神は彼女を巻き込んだ
+彼女を裏切るように仕向けられた
+裏切りのユダ
+彼女は悪くない
+彼女は幸せであるべきだ
+私の肉体が滅びようと
+ ブドウ酒のワイン
+ ちぐはぐな思念だけになろうと
+ この使命だけは全うする
+13
+あの邪教は言葉巧みだ
+悪魔め
+ ああ、無理だ
+君に伝えようと思ったが、固まらない
+ パンが、パンが、固まらないんだ
+ かのじょ！かのじょ？
+もう限界だ
+ ああ、私のなをよぶな
+ うんざりだ
+ =================================================="
+> CONTEXT: Scripts/テキスト出力/5:12
+"Subject: Reason
+ Sender [Richard]
+
+ 《Text》==========================================
+I sinned
+ God got her involved
+I was sent to betray her
+Judas of betrayal
+She is not bad
+She should be happy
+My body is going to die
+ Wine wine
+ Let's just be a little thought
+ Only this mission is complete
+13
+That evil religion is skillful in words
+demon
+ Oh, it is impossible
+I thought to tell you, but I can not fix it
+ Bread is not firm
+ Kanoh! Can you?
+It is already a limit
+ Oh, I don't call me
+ Fed up
+ =================================================="#MTLed
+> END STRING
+
+> BEGIN STRING
+"件名：やったネ！！
+ 送信者【百鬼】
+
+ 《本文》==========================================
+………これでいいのかな？
+ 結博士が、『介入者』のアンタに直接メッセージを送れる
+ へんちくりんな装置を発明したってんで、試してるよ。
+アンタにはテキスト形式のメールみたいに届くんだってサ。
+
+さて、お祝いの言葉を先に言わないとね。
+アンタにとっちゃ『ゲームクリア』おめでとう！かな？
+アンタが介入に使った『装置』が、どんな形式をとっているか
+ なんとなくだけど、分かるよ。
+ 以前にも似たような介入を受けた世界があったからネ。
+そして、『介入する側』に選ばれるのは
+ いつだって、アンタのいる『その世界』だ。
+
+…………ここから先は、アイツには内緒だヨ♪
+お祝いの言葉ついでに、なんでアンタが『介入者』になったのか…
+それを教えておきたくてね。
+
+まず、あの結末に至るためには、アンタがプレイ中に
+『魔力を蓄えてる』ことが知られてはいけなかった。
+だから、魔界との縁が一番遠いその世界が選ばれる。
+ 『魔力』という概念が、ファンタジーにすぎないその世界が、ネ。
+
+あ！
+ 魔力を蓄えるっていっても、それは『装置』が肩代わりしてたから
+今後アンタの魂が変質することはないよ。
+ゲームをプレイしただけで虚無空間行きなんてシャレになってないだろ？
+
+そして、もっと重要なことが……
+その装置の『ジャンル』さ。
+
+アンタは、どうしてこの装置を起動したんだい？
+もちろん、根本の動機は十人十色だとは思うが
+『好みのシチュエーションがありそうだったから』じゃないかい？
+
+ 介入者のアンタだって人間だ、神様じゃない。
+ 『アイツ』が結末まで行き着くためには、介入者であるアンタがまず
+最後のエンディングまで行き着く『適性』が必要だった。
+
+ 女悪魔に犯されても楽しめる……むしろ悦ぶ『M気質』
+ 登場する悪魔の人外具合を許容できる『人外好き』
+
+そして何より……この難易度に耐え、何度も立ち上がれる『根性』
+
+ただのゲームなら、敵を弱くして、操作キャラを強くすればいい
+ だけど『装置』は、そういうわけにはいかないんだよ。
+ある程度補正はかけられるが、それだけだ。
+ 特に、アンタが変えたのは、普遍と言われたはずの『死の運命』
+そんじょそこらのヤツができる芸当じゃない。
+
+その『適性』を見極めるために
+介入装置のプロトタイプが『体験版』として配布された。
+もう大分前になるだろうけど、内容覚えてるかい？
+あれは『どの場所』で『どういう形式』で、
+あの世界に『介入』していたか…………
+おそらく、まだまだ試験的な装置だったから
+ あんなに断片的だったんだろうネ。
+
+………ええ？もう時間かい？
+じゃあ、最後にひとつだけ！
+ 勘違いしそうだけど、『この装置を仕組んだ人物』と
+『このゲームの制作者』は、おそらく別人だよ。
+ 後者はただ単に『ニッチなエロゲを作った』としか思ってない。
+
+ 『装置を仕込んだヤツ』が誰かまでは分からないケド
+単なる愉快犯じゃなければ、たぶん『こちらの世界』の住人だ。
+ 冥府の間のやつらは、そいつに協力したにすぎない。
+そいつは自分の世界を変えて、アンタに何かをさせようとしてる。
+
+でも、アイツの旅が無事に終わったのだとするなら……
+今回のは、その『前準備』……なのかもね。
+
+
+さて！なにはともあれお疲れ様だよ！
+アンタは見事に、このゲームをクリアした！
+ 深読みはナシにして、そこは純粋に喜ぼうじゃないか！
+
+……また別の場所で会うようなことがあったら
+ その時は、また仲良くしようネ！
+ 約束だよ！
+ =================================================="
+> CONTEXT: Scripts/テキスト出力/36:12
+"Subject: I did it! !
+ Sender [Hyakki]
+
+ 《Text》==========================================
+………Is this OK?
+ Dr. Kurosawa. Can send messages directly to 'Intermediate'
+ I have invented a strange device and I am trying it out.
+It will be delivered to you like text mail.
+
+Well, I have to say the words of congratulations first.
+Congratulations on 'game clear' to you! Wonder?
+What form does the 'device' you use for intervention take?
+ Somehow, I know.
+ There was a world that received similar interventions before.
+And it is chosen as 'intervening side'
+ It is always 'that world' with you.
+
+............ From here on, I'm secret to the guy ♪ ♪
+In addition to the words of congratulations, why did you become an 'intervener' ...
+I want to teach you that.
+
+First, in order to reach that end, you are playing
+It must not be known that 'we are storing magic.'
+So, the world with the farthest relationship with Demon Realm is chosen.
+ The world where the concept of 'magic' is only fantasy is Ne.
+
+Ah!
+ Even if you store magic, it is because the 'device' took over
+Your soul will never change in the future.
+Just playing the game isn't it going to be empty?
+
+And more important things ...
+The 'genre' of that device.
+
+Why did you start this device?
+Of course, I think that the underlying motive is dozens of colors
+'Because you were likely to have a favorite state'?
+
+ Even the actors are human beings, not gods.
+ In order for 'Heiz' to reach the end, you, the intermediator, must first
+We needed the 'ability' to reach the final ending.
+
+ It can be enjoyed even if she is committed by a woman demon...but rather, 'M temperament'
+ 'Extra love' that can tolerate the appearance of the appearing demon
+
+And above all...'The gut' that can stand up to this difficulty and rise up again and again
+
+If it's just a game, you can weaken the enemy and strengthen the operation character
+ But the 'device' is not that good.
+Although correction can be applied to some extent, it is only that.
+ In particular, what you changed was 'the destiny of death' which should have been said to be universal
+It is not a play that can be the guy of that day.
+
+In order to identify that “ability”
+A prototype of the intervention device was distributed as a 'trial version'.
+It will be a long time ago, but do you remember the contents?
+That is 'where' and 'what format',
+Did you 'intervene' in that world .........
+Probably because it was still an experimental device
+ I wonder how fragmented it was.
+
+... yeah? Is it time?
+Well then, one last thing!
+ It's likely to be misunderstood, but with 'a person who has organized this device'
+'The creator of this game' is probably another person.
+ The latter only thinks 'I made a niche eroge'.
+
+ 'The guy who put in the equipment' is a que do not know who
+It's probably a resident of 'this world' if it's not a mere entertainer.
+ The guys at Hell's Gate have only worked with them.
+It changes her world and tries to let you do something.
+
+But if you say that his journey is over safely ...
+This time, that 'preparing'...may be.
+
+
+Now! Anyway, I'm tired!
+You have successfully completed this game!
+ Let's make deep reading a pear, and let's be purely pleased there!
+
+...... If I have something to meet in another place
+ At that time, let's get along well again!
+ It's a promise!
+ =================================================="#MTLed
+> END STRING
+
+> BEGIN STRING
+"件名：『介入者』へ
+　　　送信者【＿＿＿】
+
+ 《本文》==========================================
+…………ちゃんと届いているのかな？
+ 結博士が『介入者』に直接メッセージを送る機械を発明して
+半信半疑で僕が使っているわけなんだけど……
+これ、届いてなかったら、僕の壮大な独り言だな…
+
+僕の名前は、知っているよね。
+ 君が、メイラさんを通じて、幼い時に付けてくれた…
+君が、僕をあの街から脱出させてくれた。
+ 感謝してもしきれないよ。
+
+ 僕は、君を責めるつもりなんてない。
+あれはレイナが望んだことだ。
+そして彼女の言う通り……僕では引き金は引けなかった。
+それにもし、あと少しでも決断が遅れていたら、
+ 僕もレイナもサマエルに取り込まれていた。
+ 彼女の覚悟が、無駄になるところだったんだ。
+
+でも、後悔がないと言えば……嘘になる。
+ 僕はもちろん、自分に悔いがないように行動したつもりだ。
+だけど、もし、彼女を救える手段があったのならば……
+
+ひとつ、お願いしたいことがある。
+もし、君が世界を巻き戻り、この結末とはまた別の結末を
+見る勇気があるというなら……今度こそ彼女も救ってほしい。
+
+ 『この世界』の僕は、そのハッピーエンドを見ることはできない。
+だけど、君がその可能性を見出だしてくれるだけで
+僕にとっては、大きな力になるはずだから……
+
+残念ながら僕は力を貸せないけど、心配しないで。
+きっとマイルームの『彼女たち』が、君を助けてくれる
+君が紡いだキズナの力は、きっと無駄にはならない。
+
+それじゃあ………君とはもうお別れだと思うけど…
+次の世界の『僕』に、よろしくね。
+ =================================================="
+> CONTEXT: Scripts/テキスト出力/126:12
+"Subject: To 'interventor'
+sender【___】
+
+ 《Text》==========================================
+...... Is it properly received?
+ Invents a machine that sends messages directly to Dr. Kurosawa.
+I'm skeptical and I am using it ...
+If this has not arrived, it's my grand soliloquy ...
+
+You know my name, right?
+ You gave me a little through Meira when I was young ...
+You made me escape from that city.
+ I can not thank you.
+
+ I have no intention to blame you.
+That is what Reina wanted.
+And as she says...I couldn't close the trigger.
+Well, if the decision was a little late,
+ I and Reina were also included in Samael.
+ Her resolution was about to be wasted.
+
+But if you say that there is no regret...it will be a lie.
+ Of course, I intended to act so as not to regret myself.
+But if there was a way to save her ...
+
+One thing I would like to ask.
+If you roll around the world, you have another end to this end
+If you have the courage to see...I want you to save her again this time.
+
+ I of 'this world' can not see the happy ending.
+But you just find out the possibility
+For me, it should be a big power ......
+
+Unfortunately I can not help but do not worry.
+'My girls' in my room will help you
+The power of Kizuna that you have spun up will surely not be wasted.
+
+Well then...I think that you are goodbye already ...
+Thank you to the next world 's' I'.
+ =================================================="#MTLed
+> END STRING
+
+> BEGIN STRING
+"件名：『あなた』へ
+　　　送信者【レイナ】】
+
+ 《本文》==========================================
+………ちゃんと届いてる？
+ 結博士の発明したこの機械を使えば、『介入者』である
+ あなたに連絡がとれるって聞いて、試しているの。
+ 音声入力だから、うまく伝わるか分からないけど…
+
+まずは……ありがとう。私を助けてくれて…
+あなたを責めるつもりはないわ、
+あなたは、彼の『決意』に応えて行動しただけ…
+あの場面で私を犠牲にしてしまったら、彼が決死の思いで
+ サマエルに取り込まれた意味がなくなってしまう…
+きっと、そう考えたのよね。
+
+いつになるかは分からないけど……
+MOWは、きっと私が根絶やしにしてみせる。
+ 私や彼を苦しめた元凶……この戦争の核心……
+ヤツらと決着をつけることが、私の罪滅ぼし…
+だから、『この世界』のことは心配しないで……
+
+でも、もし……
+もしあなたに、もう一度やり直す勇気があるなら…
+その世界では彼も、救ってあげてほしい。
+
+ 私はこの世界で生きていくしかないし、たとえあなたが
+ より良い結末を導いたとしても、今の私には関係ない。
+だけど、マイルームの『彼女たち』なら……
+きっとあなたの助けになってくれるはず。
+
+あなたが『介入』している事は、きっと何か意味があるはず。
+ 最後まで、決意を捨てないで……
+ =================================================="
+> CONTEXT: Scripts/テキスト出力/172:12
+"Subject: To 'you'
+Sender [Reina]]
+
+ 《Text》==========================================
+......... Has it arrived properly?
+ If you use this machine invented by Dr. Kurosawa.
+ I hear that I can reach you and I'm trying.
+ I do not know whether it can be transmitted well because of voice input ...
+
+First of all...Thank you. Help me ...
+I'm not going to blame you,
+You just acted in response to his 'determination' ...
+If I sacrifice me in that scene, he will die
+ The meaning taken in by Samael is gone ...
+Surely, I thought so.
+
+I do not know when it will be ...
+M.O.W. will surely make me eradicate.
+ A forger who afflicted me and him...the heart of this war ...
+It is my guilty to end up with them ...
+So don't worry about 'this world' ...
+
+But what if ...
+If you have the courage to do it again ...
+He also wants me to save him in the world.
+
+ I can not but live in this world, even if you
+ Having a better end does not matter to me now.
+But if they are 'my girls' in my room ...
+It will surely help you.
+
+What you are doing 'intervention' should have something to do with it.
+ Do not throw out the determination until the end ...
+ =================================================="#MTLed
+> END STRING
+
+> BEGIN STRING
+"件名：おめでとうございます
+　　　送信者【メイラ】
+
+ 《本文》==========================================
+ 結博士が、『装置』とは別の連絡手段を発明したとのことで
+ こちらにて、メッセージを送らせていただきます。
+
+まずは『物語の完結』おめでとうございます。
+ 結果がどうであれ、彼はあの街を脱出して
+ あなたがあの世界でできる『手助け』は終わりました。
+しかし……あなたも薄々感じているとは思いますが
+ どうやら、我々の望んだ結末とは程遠いようです。
+
+もし、あなたがこの結末にどうしても納得がいかず
+ よりよい結末を目指したいという覚悟があるのなら…
+我々は、あなたが再度あの世界を覗き見るための
+用意があります。
+もちろん、『同じ世界』ではありません。
+あなたは『最初から始める』を選ぶ必要があるでしょう。
+
+ですが、あなたは最初の時とは違う……
+ひとつの物語を結末に導いたことにより
+ マイルームの『彼女たち』が、きっと力を貸してくれるはずです。
+あなたの経験や心蝕は引き継がれ、助けとなります。
+どうか勇気をもって、またあの世界に踏み込んでください。
+ 我々は、その時を心待ちにしております。
+ =================================================="
+> CONTEXT: Scripts/テキスト出力/212:12
+"Subject: Congratulations
+Sender [Meira]
+
+ 《Text》==========================================
+ Dr. Kurosawa. Has invented another means of communication than the 'device'
+ We will send you a message here.
+
+First of all, congratulations on 'completion of the story'.
+ Whatever the outcome, he escaped that city
+ The 'help' you can do in the world is over.
+But...I think you feel thin
+ Apparently, it seems far from our hope of ending.
+
+If you are not convinced by this end
+ If you are prepared to aim for a better end ...
+We are for you to see that world again
+There is a preparation.
+Of course, it is not 'the same world.'
+You will need to choose 'Start from scratch'.
+
+But you are different from the first time ...
+By leading one story to the end
+ 'The girls' in my room will surely help you.
+Your experience and mind corruption will be taken over and helpful.
+Please be courageous and step into that world again.
+ We look forward to that time.
+ =================================================="#MTLed
+> END STRING
+
+> BEGIN STRING
+"件名：私のミスだ
+ 　　　送信者【Richard】
+
+ 《本文》==========================================
+君を適任だと勘違いしていた。
+あの『ゲーム』に潜ませれば、手に取るのは
+『そういう人間』だけだとタカをくくっていた。
+
+だが君が手にした。
+そして、プレイしてしまった。
+あの世界は、君にとって無縁だが、確かに存在する。
+ 君は、あの世界の運命を滅茶苦茶にした。
+
+もう、『それ』は破壊されてしまった。
+ 『ゲーム』としても『装置』としても、機能しない。
+ 君が、あの世界に未練があるというなら
+新しい『装置』を使うしかない。
+あるいは………いや、やめておこう。
+この方法は、君にとってもマイナスばかりだ。
+
+ただ……ひとつ、約束してほしい。
+
+この結末の世界は、これっきりにしてほしい。
+=================================================="
+> CONTEXT: Scripts/テキスト出力/245:12
+"Subject: My mistake
+ Sender [Richard]
+
+ 《Text》==========================================
+I misunderstood that you are the right person.
+If you dive in that 'game', you will pick it up
+If it was only 'that kind of person', he would wear a hawk.
+
+But you got it.
+And I've played.
+That world is irrelevant to you, but it does exist.
+ You made that world's destiny worse.
+
+'It' has already been destroyed.
+ It does not function as a 'game' or 'apparatus'.
+ If you say that you have some trouble in that world
+I have no choice but to use a new 'device'.
+Or...... No, let's stop.
+This method is only negative for you.
+
+Just...One, I want you to promise.
+
+I want this world in the end to be clear.
+=================================================="#MTLed
+> END STRING
+
+> BEGIN STRING
+"ひきも記は閉鎖しました。"
+> CONTEXT: Scripts/クレジットリンク/33:6
+> CONTEXT: Scripts/クレジットリンク/34:6
+> CONTEXT: Scripts/クレジットリンク/35:6
+"The story was closed。"#MTLed
+> END STRING
+
+> BEGIN STRING
+"制作"
+> CONTEXT: Scripts/クレジットリンク/33:22
+"Production"#MTLed
+> END STRING
+
+> BEGIN STRING
+"スクリプト"
+> CONTEXT: Scripts/クレジットリンク/34:22
+"script"#MTLed
+> END STRING
+
+> BEGIN STRING
+"グラフィック"
+> CONTEXT: Scripts/クレジットリンク/35:22
+"graphic"#MTLed
+> END STRING
+
+> BEGIN STRING
+"\\n\\\\C[2](決定ボタンでサイトにアクセスできます)"
+> CONTEXT: Scripts/クレジットリンク/139:13
+"\\n\\\\C[2](You can access the site with the decision button)"#MTLed
+> END STRING

@@ -1,0 +1,145 @@
+﻿> GAIJINIZER PATCH FILE
+> BEGIN STRING
+猫「休憩所のことで分からないことがあったら
+　　僕に聞いてね。」
+> CONTEXT: Map022/events/1/pages/0/3/Dialogue
+Cat「If you do not understand about the rest area
+Ask me.」#MTLed
+> END STRING
+
+> BEGIN STRING
+さっきまで君がいたあの空間…『冥府の間』だけど
+
+本編中は、本当はここから入っていく異次元空間なんだ。
+> CONTEXT: Map022/events/1/pages/0/12/Dialogue
+That space where you had been a while ago...'Hell's Gate'
+In the main story, it's really a different dimensional
+space that enters from here.#MTLed
+> END STRING
+
+> BEGIN STRING
+悪魔との戦いで減ってしまった抵抗力や気力の回復はもちろん
+
+\\C[2]セーブなんかも本来は休憩所でしか出来ないんだよ。
+> CONTEXT: Map022/events/1/pages/0/16/Dialogue
+Not to mention the recovery of willpower and vitality lost
+in the battle with demon. \\C[2]You can only save at the rest
+area.#MTLed
+> END STRING
+
+> BEGIN STRING
+いつイベント戦やボス戦が始まるか分からないからね。
+
+ここで十分に休憩して、体勢を整えるといいよ。
+> CONTEXT: Map022/events/1/pages/0/20/Dialogue
+I do not know when the event game or boss game will start.
+Take a break here and get better.#MTLed
+> END STRING
+
+> BEGIN STRING
+『ベッド』は抵抗力や気力を全快、性欲を0にするんだ。
+
+この部屋だと、右隅にあるね。
+> CONTEXT: Map022/events/1/pages/0/27/Dialogue
+"Bed" is completely willpower and vitality, lust to 0.
+In this room, it's in the right corner.#MTLed
+> END STRING
+
+> BEGIN STRING
+何かを消費するわけでもないから、例え少しの減少でも
+
+休憩所に寄ったら利用していくといいよ。
+> CONTEXT: Map022/events/1/pages/0/31/Dialogue
+It does not consume anything, so even a slight reduction
+You should use it when you come to the rest area.#MTLed
+> END STRING
+
+> BEGIN STRING
+ただ………休憩所のベッドは確かに安全だけど……
+
+\\C[2]休憩所以外の部屋にあるベッドは、休んだら危険だよ。
+> CONTEXT: Map022/events/1/pages/0/35/Dialogue
+Just...... but the bed in the rest area is safe ...
+\\C[2]The beds in the rooms other than the rest area are
+dangerous if you rest.#MTLed
+> END STRING
+
+> BEGIN STRING
+体力や性欲のたまり具合にもよるけど…
+
+\\C[2]寝ている最中に、襲われる危険があるからね。
+> CONTEXT: Map022/events/1/pages/0/39/Dialogue
+It depends on your strength and lust buildup ...
+\\C[2]There is a risk of being attacked while sleeping.#MTLed
+> END STRING
+
+> BEGIN STRING
+セーブ端末の横にあるやつだね。
+
+基本的には『ベッド』と同じ効果だよ
+> CONTEXT: Map022/events/1/pages/0/46/Dialogue
+It's the thing next to the save terminal.
+Basically, it has the same effect as using the
+bed.#Ron
+> END STRING
+
+> BEGIN STRING
+ボス戦の前だったり、ハーブが余っているようだったら
+
+積極的に利用するといいよ。
+> CONTEXT: Map022/events/1/pages/0/58/Dialogue
+If it was before the boss game or if there were enough
+herbs. You should use it positively.#MTLed
+> END STRING
+
+> BEGIN STRING
+『カプセル』は、軍が色んな休憩所にお置いていった
+
+\\C[2]体内の潜在能力を引き出す装置だね。
+> CONTEXT: Map022/events/1/pages/0/65/Dialogue
+The "capsule" was put in various rest areas by the military
+\\C[2]It is a device that brings out the potential in the body.#MTLed
+> END STRING
+
+> BEGIN STRING
+ちゃんと安全性に考慮してセフティがかけられてる
+
+だから上げられる能力には限りがあるよ。
+> CONTEXT: Map022/events/1/pages/0/69/Dialogue
+Safety has been put in consideration of safety properly
+So the ability to be raised is limited.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]習得するためには『決定』か『→キー』。
+
+魔法の場合は、やり直したい時は『←キー』を押すといいよ。
+> CONTEXT: Map022/events/1/pages/0/77/Dialogue
+\\C[2]"Decision" or "→ key" to learn. In the case of magic, if
+you want to start over, press the ← key.#MTLed
+> END STRING
+
+> BEGIN STRING
+買い物がしたい
+> CONTEXT: Map022/events/1/pages/0/84/Choice/1
+Show me your goods#Dargoth
+> END STRING
+
+> BEGIN STRING
+『作業台』はその名の通り
+
+道具関連の色々な作業をする場所だよ。
+> CONTEXT: Map022/events/1/pages/0/86/Dialogue
+"Working platform" is as its name. It's a place to do
+various work related to tools.#MTLed
+> END STRING
+
+> BEGIN STRING
+特に弾関連は、最大所持数が99だから。
+
+こまめに弾倉に戻しておかないと持ちきれなくなるかもね。
+> CONTEXT: Map022/events/1/pages/0/98/Dialogue
+Especially for bullets, the maximum number of possessions
+is 99. You may not be able to carry it back unless you
+return to magazine frequently.#MTLed
+> END STRING

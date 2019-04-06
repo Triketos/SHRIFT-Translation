@@ -1,0 +1,96 @@
+﻿> GAIJINIZER PATCH FILE
+> BEGIN STRING
+
+　　　　　　居住区画のセキュリティについて
+> CONTEXT: Map010/events/4/pages/0/2/Dialogue
+
+About Security of the Residential Block#Ron
+> END STRING
+
+> BEGIN STRING
+　　　　　居住区画に例のカマキリの化け物が侵入した。
+　　　　　　　病棟区画に続くこの通路は封鎖する。
+> CONTEXT: Map010/events/4/pages/0/6/Dialogue
+After the mantis invasion in the living quarters,
+the passage leading to the hospital section has been
+blocked off.#Ron
+> END STRING
+
+> BEGIN STRING
+マスターキーを持つもの以外の、外部からの解除を防ぐため
+扉のパスワードは手動で簡易的なものに変更した。
+> CONTEXT: Map010/events/4/pages/0/10/Dialogue
+In order to prevent a door release from the outside by
+anyone other than those with the master key, The
+password of the door was manually changed to something
+simple.#Ron
+> END STRING
+
+> BEGIN STRING
+とっさにいいものが思い付かなかったから
+\\C[2]警察が私物化している隣の保管庫に押収された
+『銀の弾丸』の数をそのままパスワードに使っている。
+> CONTEXT: Map010/events/4/pages/0/14/Dialogue
+I couldn't think of anything good off the top of my head so
+\\C[2]I've used the number of silver rounds seized by the
+police as the password.#Ron
+> END STRING
+
+> BEGIN STRING
+やむを得ない場合はともかく
+外の化け物どもをどうにかする自信がなければ
+患者の安全のためにも、開けないでほしい。
+> CONTEXT: Map010/events/4/pages/0/19/Dialogue
+Unless it's unavoidable, if you don't have confidence to
+manage the monsters outside, for the safety of the patients
+please do not open that door.#Ron
+> END STRING
+
+> BEGIN STRING
+現在、居住区への入場は制限されています。
+管理者の場合、パスワードを入力してください。
+> CONTEXT: Map010/events/6/pages/0/1/Dialogue
+Admission to the residential area is currently restricted.
+If you are an administrator, please enter your password.#Ron
+> END STRING
+
+> BEGIN STRING
+
+　　　　　パスワード確認、ロックを解除します。
+> CONTEXT: Map010/events/6/pages/0/9/Dialogue
+> CONTEXT: Map010/events/6/pages/1/8/Dialogue
+
+Password confirmed, unlocking.#Ron
+> END STRING
+
+> BEGIN STRING
+よし、開いたぞ。
+> CONTEXT: Map010/events/6/pages/0/38/Dialogue/kazuya
+> CONTEXT: Map010/events/6/pages/1/37/Dialogue/kazuya
+> CONTEXT: Map011/events/10/pages/1/8/Dialogue/kazuya
+OK, it's open.#Ron
+> END STRING
+
+> BEGIN STRING
+………ダメか。
+> CONTEXT: Map010/events/6/pages/0/50/Dialogue/kazuya
+> CONTEXT: Map010/events/6/pages/1/49/Dialogue/kazuya
+> CONTEXT: Map011/events/10/pages/1/18/Dialogue/kazuya
+... No good.#Ron
+> END STRING
+
+> BEGIN STRING
+パスワードか…、近くに何か手がかりはないかな…。
+> CONTEXT: Map010/events/6/pages/0/52/Dialogue/kazuya
+> CONTEXT: Map010/events/6/pages/1/51/Dialogue/kazuya
+Password or ..., there are no clues nearby ....#MTLed
+> END STRING
+
+> BEGIN STRING
+現在、居住区への入場は制限されていますが
+パスワードとか入力するのはメンドウでしょうから
+ロックを解除します。
+> CONTEXT: Map010/events/6/pages/1/1/Dialogue
+Admission to the residence area is currently restricted
+It will be a pain to enter a password. Unlock it.#MTLed
+> END STRING

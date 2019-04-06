@@ -1,0 +1,19 @@
+﻿> GAIJINIZER PATCH FILE
+> BEGIN STRING
+何か公園の方が騒がしいネ。
+
+ここを突っ切って行くっていうなら
+準備は怠らないようにするんだよ？
+> CONTEXT: Map074/events/40/pages/0/0/Dialogue/hyakki
+> CONTEXT: Map074/events/40/pages/2/0/Dialogue/hyakki
+> CONTEXT: Map094/events/11/pages/1/0/Dialogue/hyakki
+There is something more noisy in the park.
+If you say that we go here. Are you ready for the
+preparation?#MTLed
+> END STRING
+
+> BEGIN STRING
+"Chapter2-3　『舞台』　プレイ中"
+> CONTEXT: Map074/events/3/pages/0/6/InlineScript/2:1
+"Chapter2-3　『stage』 starts"#MTLed
+> END STRING
