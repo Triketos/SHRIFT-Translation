@@ -1,5 +1,11 @@
 # SHRIFT Translation
 
+Use the Gaijinizer folder instead of the RPGMTrans folder to translate.
+
+
+-----------------------------------------------------
+Outdated:
+
 The following files are not compatible with RPG Maker Trans:
 
 -Graphics.txt
