@@ -1,11 +1,12 @@
 ﻿# TextLine [Tab] Message: Incorrect Length XX/XX, Incorrect Line Numbers XX/XX, Possible wrong translations [Japanese list], [Tab] Line length, [Tab] Line Number
 Kazuya
 Hospital Gown
-A special hospital gown that protects against viruses. Obviously not effective if removed and direct contact is made with skin.
+A special hospital gown that protects the skin against viruses. It becomes ineffective went taken off.
 Hospital Gown (Easy)
 Hospital Gown (Hard)
 Hell's Indulgence
 With this equipped, you will return to Mr. Cushion's office in hell instead of getting a game over.
+Hospital Gown (Spectator)
 Lantern
 Provides light in dark areas. Cannot be held with a two-handed weapon.
 Scope
@@ -15,7 +16,6 @@ Combines two magazines when reloading in battle only. Will maintain bullet count
 High-capacity Mag (Machine Gun)
 Stock
 A stock made to increase stability. Raises machine pistol accuracy.
-Night Edge
 Ceremonial dagger that repels demons. Its effect is negligible, however.
 Silver Ring
 A ring of pure silver that represents strength of will. Restores 5% willpower per turn.
@@ -28,15 +28,13 @@ A green scarf. Raises maximum vitality.
 Gauntlet
 A rather sturdy guantlet. Reduces physical damage and chances of bleeding.
 Barghest Collar
-Treasured collar given by Master Hecate. Increases gun attack by 30.
 Good Luck Charm
-A lucky charm. 10% chance to remain alert after ejaculating.
 Will Charm
 A lucky charm. Protects from repetition of [Enslaved] to [Food].
 Monster Warding Bell
 Bell that rings with a pure sound to drive off evil. Reduces encounter rate.
 Fighting Spirit Choker
-A choker that makes your body crave battle. Increases weapon attack but raises lust.
+A choker that makes your body craves for battle. Increases weapon attack but raises lust.
 Magic Magatama
 A magatama with mysterious magical power. Slightly increases magic attack.
 Agile Magatama
@@ -48,28 +46,15 @@ Black clothes made from a part of the Iron Maiden.
 Succubus Bell
 Guarantees that you'll be attacked when you sleep in a pink bed.
 Bronze Box [Barghest]
+No escape from the fight and mind corruption still applies.
 There is no escape.
 Bronze Box [Lampas]
 Bronze Box [Iron Maiden]
 Bronze Box [Empuse]
-Hospital Gown (Spectator)
+Night Edge
 Human
 Human (Half-Maiden)
 Dog
-Continue
-Massage
-Refuse
-"Reload complete!"
-Oliver (random string) is so aroused he takes off his own clothes!
-Oliver (random string) is so sensitive that his lust goes up instead!
-Oliver (random string) is too fatigued to control his breath well...
-Oliver (random string)'s will to resist is weakening...
-Oliver (random string) can't concentrate from the bleeding pain...
-Oliver (random string) is drowning in ecstasy and can't concentrate...
-Oliver (random string) is charmed and can't concentrate...
-100 (random string)!
-Oliver (random string) is gradually becoming captivated by his opponent...
-Barghest
 Yuuma
 Meira
 Hecate
@@ -95,13 +80,13 @@ Hecate
 (Embrace)
 (Embraced Milking)
 ■■■Chapter 2
-■???
 ■■■Chapter 3
 ■■■Chapter 4
-SHRIFT
+Iron Maiden
+Lampas
+Empuse
 Energy Drink
 Recovers 50% willpower and vitality.
-Herb
 Edible herb, recovers all vitality if eaten. Can be used to make tea in a safe room.
 Vitamins
 Packed with essential nutrients. Heals 100% willpower and prevents weakness for 5 turns.
@@ -117,10 +102,9 @@ Heals 20% willpower and vitality and cures mental status effects.
 Lampas Drop
 Candy made from hardened lampas nectar. Restores 75% vitality and prevents ecstasy for a short time.
 Lampas Syrup
-Syrup made from refined lampas nectar. Combat use only. Fully restores willpower and vitality, but exhausts you.
+Syrup made from refined lampas nectar. Combat use only. Fully restores willpower and vitality, but debilitate you.
 Tattered Bandage
 Why do you hold on to such a useless item?
-Stun Grenade
 Military issue flashbang. Used to escape from battles, except for bosses and events.
 Battery
 A large battery. Needed to open the shutters in the residential quarters.
@@ -135,8 +119,6 @@ Used to reload machine pistols.
 Shotgun Shells
 Holster
 Once swapped, cannot swap again in that battle.
-Lucky Doll
-A lucky doll. Don't do anything unconscionable with it. Sells for a decent amount of money.
 Diamond
 A very expensive rock. Sells for a lot. Or you could use it to express your eternal love...
 Custom Kit
@@ -153,19 +135,19 @@ A large, sturdy leaf ripped off a lampas.
 Jewel[Broken Heart]
 A jewel dropped by the Iron Maiden. It has lost its luster.
 Empuse Arm
-A giant insect arm ripped off an empuse.
+A giant insect arm ripped off Empuse.
+Stun Grenade
+Stun Grenade
+Morphine
+Herb
 Start from the Beginning
 Continue en(s[9])
 Chapter Select en(s[9])
 Loss Scenes en(s[14])
 Choose a Difficulty
-Easy
-Normal
-Hard
-Find double items; receive only half damage. For people who are only masochists sexually.
-Start Game
-Items and damage as intended by the developer. For people who want to feel as utterly fucked as the protagonist.
-. It's not impossible, so they say. Strongly not recommended for your first play.
+Spectator
+Find double items; receive only half damage. For people who are only masochists sexually. Highly recommended for a first play.
+Joke ending, and some events and scenes are unavailable.
 100 (random string)】 Revenge data exists. Do you want to load this file?
 To the regular load screen
 Get revenge
@@ -194,7 +176,6 @@ Secret Scene en(s[115])
 ■■Chapter 1-1■■ en(s[22])
 Mr. Cushion if(s[22])
 Barghest if(s[22])
-\\l[7].
 ■■Chapter 1-2■■ en(s[23])
 Iron Maiden if(s[23])
 ■■Chapter 1-3■■ en(s[24])
@@ -202,64 +183,41 @@ Empuse and Hecate if(s[24])
 Return to Previous Menu
 Title
 Empuse if(s[24])
-Spectator
-Find double items; receive only half damage. For people who are only masochists sexually. Highly recommended for a first play.
-Joke ending, and some events and scenes are unavailable.
-I understood just fine.
-Sorry, can you repeat all that?
+Return
+Easy
+Normal
+Hard
+Start Game
+Items and damage as intended by the developer. For people who want to feel as utterly fucked as the protagonist.
+. It's not impossible, so they say. Strongly not recommended for your first play.
 Ask for advice
 Revenge data
 Change difficulty
-Barghest if(v[21] \>= 1)
-Lampas if(v[22] \>= 1)
-Iron Maiden if(v[23] \>= 1)
-Empuse if(v[24] \>= 1)
-Return
 Don't get revenge
 Erase data
 Remove mind corruption [Cost: ?]
-Iron Maiden if(v[23] \>= 1)
-Empuse if(v[24] \>= 1)
-Enter
-Switch on the power
-Move the corpse
-Leave it alone
-Jump down
 [Choose Assistance]
-Money [Cost: 1] en(v[102] \>= 1)
-Skill Points [Cost: 2] en(v[102] \>= 2)
-Ammo [Cost: 1] en(v[102] \>= 1)
-Recovery Items [Cost: 1] en(v[102] \>= 1)
-Remove mind corruption [Cost: 2] en(v[102] \>= 2)
 Nothing
-Tutorial
-Start
-Chat
-Milking (Temptation) en(v[41] \>= 25)
-Milking (Cowgirl) en(v[41] \>= 50)
-Foot Injury en(v[41] \>= 30)
-Bonding Event if(v[41] \>= 99)
-Remove mind corruption if(v[41] \>= 100)
-Treat her with a bandage en(v[5] \>= 1)
-Leave her be
+Find double items; receive only half damage. For people who are only masochists sexually.
+I understood just fine.
+Sorry, can you repeat all that?
+Leave
+　　　　　　　　 Is 'Example' correct?
+Barghest if(v[21] \>= 1) 
+Lampas if(v[22] \>= 1) 
+Iron Maiden if(v[23] \>= 1) 
+Empuse if(v[24] \>= 1) 
+Iron Maiden if(v[23] \>= 1) 
+Empuse if(v[24] \>= 1) 
+Money [Cost: 1] en(v[102] \>= 1) 
+Skill Points [Cost: 2] en(v[102] \>= 2) 
+Ammo [Cost: 1] en(v[102] \>= 1) 
+Recovery Items [Cost: 1] en(v[102] \>= 1) 
+Switch on the power
 Show me your goods
-Milking (Footjob) en(v[43] \>= 25)
-Milking (Cowgirl) en(v[43] \>= 50)
-Milking (Embrace) en(v[43] \>=75)
-Bonding Event if(v[43] \>= 99)
-Remove mind corruption if(v[43] \>= 100)
-　　　　　　　Please name the main character.
-Oliver (random string)' correct?
-Begin the Basics Tutorial?
-Begin Tutorial
-Skip Tutorial
-Yeah, it's not translated anyway. ……それでは、そろそろ時間となります。 しばしのお別れですが、またいずれ会うことになるでしょう。
-Prologue
-Please enlighten me
-I'm good
-Set my willpower to half
-Douse the flaming lampas
-Run out of the room
+Never mind
+Equipment
+Need something?
 Show me your goods
 Never mind
 Recovery Items
@@ -267,30 +225,33 @@ Weapons & Ammo
 Equipment
 Other
 Need something?
-Rest
-Nothing
-100 (random string)] en(v[5] \>= 1)
-Save your progress up to this point?
-Yes
-No
-The next chapter is currently under development. I hope you're looking forward to it!
-Travel to Hell
-To chapter select
-Return to title
-Chat en(v[42] \>= 25)
-Milking (Frontal) en(v[42] \>= 25)
-Milking (Rear) en(v[42] \>= 60)
+Move the corpse
+Leave it alone
+Jump down
+Tutorial
+Start
+Remove mind corruption [Cost: 2] en(v[102] \>= 2) 
 Give a present
-Bonding Event if(v[42] \>= 99)
-Remove mind corruption if(v[42] \>= 100)
+Chat en(v[41] \>= 25) 
+Milking (Temptation) en(v[41] \>= 25) 
+Milking (Cowgirl) en(v[41] \>= 50) 
+Remove mind corruption if(v[41] \>= 100) 
+Foot Injury en(v[41] \>= 30) 
+Bonding Event if(v[41] \>= 99) 
+Show me your goods
 Chat
-Milking (Fellatio) en(v[44] \>= 25)
-Milking (Hug) en(v[44] \>= 60)
-Milking (Supreme Fellatio) en(v[44] \>= 80)
 Give a present
-Leave
-Bonding Event if(v[44] \>= 99)
-Remove mind corruption if(v[44] \>= 100)
+Milking (Footjob) en(v[43] \>= 25) 
+Milking (Cowgirl) en(v[43] \>= 50) 
+Milking (Embrace) en(v[43] \>=75) 
+Remove mind corruption if(v[43] \>= 100) 
+Bonding Event if(v[43] \>= 99) 
+Begin the Basics Tutorial?
+Begin Tutorial
+Skip Tutorial
+...I see, it's time then. For now, I'll take my leave.
+Prologue
+Return to title
 "Purchase"
 "Sell"
 "Leave"
@@ -339,12 +300,9 @@ Remove mind corruption if(v[44] \>= 100)
 "XP"
 "Money"
 "Item Drops"
-"None"
 "Details"
 "Number Killed"
 "Regular Attack"
-"Physical"
-"Spells"
 "- Unlearned -"
 "LR　： Change party member"
 "←→： Navigate"
@@ -359,7 +317,6 @@ Focus on defense and reduce willpower lost.
 Concentrate
  Not recommended when aroused or inserted.
  attempts to clear his mind.
-Deep Breathing
  Hampered by [Bleed], [Exhaustion], and [Weakness].
  calms down and takes a deep breath.
 Face Slap
@@ -415,7 +372,6 @@ Teleport
  is bathed in a brilliant light!
 Energy Drain
 He feels the life being sucked out of his body as well...
---------------------
 Increases maximum willpower.
 .
 Will Up MAX
@@ -459,6 +415,7 @@ Reload
 Reload your handgun. Remaining rounds in the old magazine are placed in your inventory.
  loads ammo into his firearm.
 100 (random string)/15
+ fires his machine pistol!
 Reload your machine pistol. Remaining rounds in the old magazine are placed in your inventory.
 [Barghest Mating]Lv1
 The pleasure of being raped by a barghest sticks in your mind. Increases damage taken from this monster by 20%.
@@ -500,140 +457,135 @@ Psi Thunder
 Psi Volt Tackle
  casts Psi Volt Tackle!
 Limit Break
-Increases the caster's physical attack for 3 turns.
  casts Limit Break!
-Increases the caster's physical attack two steps for 3 turns.
-Makes the caster less susceptible to ecstasy for 5 turns.
  casts Cool Calm! 
 Raises evasion 50% for 5 turns. Very effective against physical attackers.
  casts Sylph Storm!
 Raises evasion 70% for 5 turns. Very effective against physical attackers.
 Raises evasion 90% for 5 turns. Very effective against physical attackers.
 Voltaic Step
-Increases the caster's chance of acting first for 3 turns. Can overlap duration.
  charges his legs with the power of lightning!
 Watch Attentively
-Oliver (random string) attentively...
+ watches Example attentively...
 Energy Suck
 Perform a powerful attack against one foe.
-Oliver (random string)'s and begins to suck out his energy!
+ puts her lips on Example's and begins to suck out his energy!
 Pure pleasure courses through his veins and saps his strength...
-Oliver (random string)...
-■■Barghest\#\#\#
+ is enjoying watching Example...
+$ (random string)
 Beast Claw
  casts Beast Claw!
+ uses Beast Claw!
 Roar
 Causes your opponent to lose their balance.
  lets out a loud roar!
 Eye Rape
-.
-Oliver (random string) from head to toe!
+ lewdly stares at Example from head to toe!
 Mating Invitation
-Oliver (random string)...
+ shakes her body in clear desire for Example...
 Mating Invitation (Failure)
 Pin Down
-Oliver (random string)!
+ forcefully leaps on top of Example!
 Wild Hip Thrusts
  wildly bucks her hips!
 Ear Suck
-Oliver (random string)'s ear!
-Oliver (random string)'s ear!
+ is engrossed in sucking on Example's ear!
+Her tongue probes all the nooks and crannies of Example's ear!
 Copulation Hold
  tightens her vagina to stimulate an ejaculation!
-Oliver (random string)'s body...
+She tightens the grip her legs have around Example's body...
 Snuggle
-Oliver (random string)!
-Oliver (random string)'s legs!
+ innocently snuggles up to Example!
+She relentlessly rubs her face between Example's legs!
 Neck Bite
-Oliver (random string)'s neck!
+ sensually play bites Example's neck!
 Her fangs prick the skin as her tongue licks his neck!
 Tongue Play
-Oliver (random string) and forces her tongue past his lips!
+ kisses Example and forces her tongue past his lips!
 The barghest's long, wet tongue raids his mouth!
 Squeezing Pressure
-Oliver (random string)'s penis deep into her pussy!
+ submerges Example's penis deep into her pussy!
 Her tight canal presses hard against it from all sides!
 Milking Feast
 s greedily indulge in their prey...
 Tongue Sex
 's tongue raids even deeper...
 The mixture of tongues and saliva make lewd squishing noises.
-■■Iron Maiden\#\#\#
+$ (random string)
 Erotic Tentacles
  reaches out with a mass of tentacles!
-Oliver (random string)!
+They wiggle and squirm, attempting to capture Example!
 Seductive Breath
  blows a breath laced with magical power!
 Deals wind damage. Also doubles as Kick Away.
 Breasts of Submission
-Oliver (random string)'s face between her huge fruits!
-Oliver (random string) is losing vitality...
+ smothers Example's face between her huge fruits!
+They feel so good, Example is losing vitality...
 Titillating Pulsation
 's fleshy walls pulse lasciviously.
-Oliver (random string)'s resistance...
+The gentle embrace wears down Example's resistance...
 Nipple Tease
-Oliver (random string)'s nipples!
+ gently toys with Example's nipples!
 She pulls at them and gives them little twists...
 Affectionate Kiss
-Oliver (random string)'s cheek!
-Oliver (random string) is hit with a strong urge to surrender!
+ plants a tender kiss on Example's cheek!
+Example is hit with a strong urge to surrender!
 Feminizing Nipple Assault
-Oliver (random string)'s nipples!
-Oliver (random string)'s body!
+ plays intensely with Example's nipples!
+It sends a shock of pleasure through Example's body!
 Enticement to Surrender
-Oliver (random string)'s ear.
-Oliver (random string)'s skull...
+ whispers seductively into Example's ear.
+Her honeyed words echo within Example's skull...
 Feather Shake
-Oliver (random string)'s penis!
+ gently strokes Example's penis!
 Her delicate fingers deftly stimulate his penis...
-Coffin Breakout
  Ignore everything but trying to free your legs to escape.
 Heaven Shake
 Pleasure Prison Crucifixion
-Oliver (random string)'s arms across his chest.
-Oliver (random string) up!
+ folds Example's arms across his chest.
+Her arm-like clothing wraps Example up!
 Backstab
-Oliver (random string)'s ass!
+ screws a slimy tentacle into Example's ass!
 It assaults his prostate with intense pleasure!
-■■Lampas\#\#\#
+$ (random string)
 Intoxicating Pollen
 's ivy delivers a sweet-smelling gas...
-Oliver (random string) is losing his ability to reason...
+Example is losing his ability to reason...
  releases a sweet smell that wafts through the air...
-Oliver (random string) feels an irresistible urge to surrender...
+Example feels an irresistible urge to surrender...
 Sweet Nothings
-Oliver (random string) with words of affection!
+ tries to seduce Example with words of affection!
 Kissing Ivy
-Oliver (random string)'s face!
+'s ivy opens wide and attaches itself to Example's face!
 Sucking Ivy
-Oliver (random string)'s body!
+'s ivy opens wide and latches onto Example's body!
 Two strands of ivy greedily suck on his nipples...
 Nectar Feeding
-Oliver (random string)'s.
-Oliver (random string) gulps down every last drop...
+ dribbles sweet nectar from her mouth into Example's.
+Example gulps down every last drop...
 Erotic Ivy
  reaches out with several vines of ivy!
 Drain Pollen
 Milking Ivy
-Oliver (random string)'s crotch!
+'s wriggling ivy attach to Example's crotch!
 Nipple Suck
-Oliver (random string)'s nipples! 
+'s ivy greedily sucks on Example's nipples! 
 They focus on licking the most sensitive places!
 Ivy Shackles
-Oliver (random string)'s arms!
+Ivy tightly coils around Example's arms!
 Strip
-Oliver (random string)!
+ tears the clothes off Example!
 Foot Scissors
-Oliver (random string) and squishes his penis between her feet!
+ mounts Example and squishes his penis between her feet!
 Stamen Play
-Oliver (random string)'s penis!
+'s feet grind against Example's penis!
 Her sticky sap makes lewd squishing sounds!
 Pollination Press
 Hip Press
-Oliver (random string)'s face with her ass!
+ squashes Example's face with her ass!
 She presses down hard and gyrates her hips!
 Foot Play
-Oliver (random string) on the head with another leg!
+ strokes Example on the head with another leg!
 Its sensation and mellow smell is making him dizzy...
 [Lampas Fertilizer]Lv1
 The pleasure of being raped by a lampas sticks in your mind. Increases damage taken from this monster by 20%.
@@ -665,52 +617,52 @@ The pleasure given by the Iron Maiden sticks in your mind. Special accident batt
 There's no time to hesitate!
  struggles with all his might!
 Nectar Suckling
-Oliver (random string) tightly against her breast!
+ cradles Example tightly against her breast!
 He deliriously sucks the rich nectar from her nipple.
-Oliver (random string)'s willpower...
-■■Empuse\#\#\#
-Oliver (random string)'s with downward swipes!
+An overload of pleasure is crushing Example's willpower...
+$ (random string)
+ aims vacuum waves at Example's with downward swipes!
 Capture Fall
-Oliver (random string) with her scythe arms!
+ captures Example with her scythe arms!
 Stun Impact
-Oliver (random string)!
+ slashes her scythes directly towards Example!
 Funeral Dance
  flourishes her arms as if she's dancing!
 Soul-hunting Funeral March
-Oliver (random string)!
+ rapidly swings her scythes down at Example!
 Hip Hold
-Oliver (random string)...
+ twines her tongue round and round Example...
 Heaven Suck
-Oliver (random string)'s penis!
-Oliver (random string)'s body!
+ intensely sucks on Example's penis!
+Constant waves of pleasure run through Example's body!
 Hunting Hold
 Most of his body ends up enveloped by her tongue!
 Brain Suck
-Oliver (random string)'s head!
+ furiously sucks on Example's head!
 Loss of Heart
  has lost the will to fight...
 [Empuse's Partner]Lv1
 The pleasure of being raped by an empuse sticks in your mind. Increases damage taken from this monster by 20%.
 [Empuse's Partner]Lv2
-The pleasure of being raped by an empuse sticks in your mind. Increases lust 5% every turn when fighting this monster.
+The pleasure of being raped by Empuse sticks in your mind. Increases lust 5% every turn when fighting this monster.
 [Empuse's Partner]Lv3
-The pleasure of being raped by an empuse sticks in your mind. Maximum willpower reduced to 80% when fighting this monster.
+The pleasure of being raped by Empuse sticks in your mind. Maximum willpower reduced to 80% when fighting this monster.
 [Empuse's Partner]Lv4
-The pleasure of being raped by an empuse sticks in your mind. Maximum vitality reduced to 80% when fighting this monster.
+The pleasure of being raped by Empuse sticks in your mind. Maximum vitality reduced to 80% when fighting this monster.
 [Empuse's Partner]MAX
-The pleasure of being raped by an empuse sticks in your mind. Special accident battles can occur against this monster.
+The pleasure of being raped by Empuse sticks in your mind. Special accident battles can occur against this monster.
 Master's Orders (Down)
-Oliver (random string)!
-Oliver (random string)'s body can't disobey!
+ gives a command to Example!
+Strangely, Example's body can't disobey!
 Master's Orders (Strip)
 Master's Orders (Penis)
 Master's Orders (Bark)
 Punishment
-Oliver (random string) with her foot!
-Oliver (random string)!
+ kicks Example with her foot!
+For some reason, it arouses Example!
 Soothing Cradle
  begins rhythmically rocking her waist back and forth...
-Oliver (random string)'s penis is gently stroked inside her vagina...
+Example's penis is gently stroked inside her vagina...
 Reverse Storm
 Cancels the effect of your opponent's [Sylph Storm].
  casts Reverse Storm!
@@ -734,7 +686,31 @@ Try to wake yourself up from the dream. Pray that it works.
 Good Luck Charm
 's good luck charm shines!
 It overflows with a strange power!
- fires his machine pistol!
+Increases the caster's physical attack for 3 turns.
+Increases the caster's chance of acting first for 3 turns. Can overlap duration.
+Sylph Storm
+Cool Calm
+Spatial Perversion (Lewd)
+Spatial Perversion (Bad Status)
+Spatial Perversion (Vitality)
+Spatial Perversion (Gun)
+Spatial Perversion (Magic)
+Handgun
+Machine Pistol
+Shotgun
+Will Up Lv1
+Will Up Lv2
+Will Up Lv3
+Will Up Lv4
+Will Up Lv5
+Will Up Lv6
+Will Up Lv7
+Will Up Lv8
+Will Up Lv9
+Death Scythe
+Attack Up Lv1
+Magic Up Lv1
+Agility Up Lv1
 Incapacitated
  can no longer fight!
  can no longer fight!
@@ -806,7 +782,6 @@ Soaked
 's body is bathed in sexual fluids!
  is being aroused by sexual fluids...
  wipes off the sexual fluids!
-Gagged
 's mouth has been plugged up!
 's mouth is plugged up...
  has freed up his mouth!
@@ -816,11 +791,11 @@ Debilitated
  manages to will his body back into action!
 Combat Stance
  assumes a combat stance!
-Oliver (random string) menacingly...
+ looks at Example menacingly...
  relaxes her guard...
 Temptation Position
-Oliver (random string)...
-Oliver (random string).
+ is seducing Example...
+ stops trying to seduce Example.
 Nipple Assault
 's nipples are being played with!
 's nipples are still being molested...
@@ -834,7 +809,6 @@ Heavy Bind (Legs)
 Aroused
  is aroused...
  calms his lust down a bit!
-Morphine
 's morphine effect ends.
 Weakness Prevention
 's weakness prevention effect ends.
@@ -852,33 +826,24 @@ Lust Increased
 Willpower Lowered
 Vitality Lowered
 Food (Meal)
-Sylph Storm
 's evasion has increased!
 's power of the wind fades.
-Herb
 's herbal tea effect ends.
-Cool Calm
- is better able to restrain himself!
 's cool and calm effect ends.
 Dead
 Loss (Offense)
 Loss (Opponent)
 Guard
 One turn rest
-Spatial Perversion (Lewd)
 's lust went up!
 's lust is rising due to the perversion in the air.
 's surroundings return to their normal state.
-Spatial Perversion (Bad Status)
  has become more susceptible to being bound!
  is susceptible to being bound due to the perversion in the air.
-Spatial Perversion (Vitality)
  is getting fatigued more quickly!
 's vitality use is increased due to the perversion in the air.
-Spatial Perversion (Gun)
 's guns are significantly weakened!
 's guns are weakened due to the perversion in the air.
-Spatial Perversion (Magic)
 's magical ability is sealed!
  can't use magic due to the perversion in the air.
 Dog Servant
@@ -890,28 +855,19 @@ Crotch Assault
 's opponent focuses on assaulting his crotch!
 's crotch is still being played with...
  gets his opponent off his crotch!
-Milking
  has his semen milked.
 Enhanced
 Drop
 's lampas drop effect has ended.
-Present
 Sylph Storm Lv2
 Sylph Storm Lv3
 Dreaming (Light)
  wakes up from the dream!
  gets closer to waking up from the dream!
 Dreaming (Heavy)
-Physical
-Absorb
-Fire
-Ice
-Lightning
-Water
-Earth
-Wind
-Holy
-Dark
+Present
+Present
+Dream
 Max HP
 Max MP
 Attack
@@ -922,6 +878,7 @@ Agility
 Luck
 Weapon
 Offhand
+Indulgence
 Body
 Accessory
 Fight
@@ -934,15 +891,11 @@ Formation
 Save
 Quit Game
 Items
-Presents
 Change Equip
 Equip Best
 Remove All
-Start
 Continue
-Quit Game
 To Title
-Cancel
 M. level
 M.Lv
 Willpower
@@ -951,12 +904,102 @@ Struggle
 Vitality
 Vit
 Lust
+Let her go
+Let her go en(s[1000000])
+Finish her off
+Kiss the end of her foot
+Suck on her foot in your mouth
+Lampas (Dream)
+Empuse(G)
+100 (random string)/10
+100 (random string)/15
+100 (random string)/2
+Custom Handgun
+100 (random string)/10
+Sawed-off
+100 (random string)/2
+Will Up Lv10
+Invigorating Sword
+This sword manifests the wielder's own magical power into the blade. Does physical damage.
+A scythe that severs magical power with gale force vacuum waves. Wind element.
+Barghest Claw
+Claw-like glove made from a barghest's paw. Low probability of causing target to bleed.
+Lampas Whip
+Thorn whip made from a lampas vine. Enables [Reverse Storm].
+Hell Scythe
+Bloody scythe made from an empuse arm. Makes wielder immune to [Fear].
+Example is so aroused he takes off his own clothes!
+Example is so sensitive that his lust goes up instead!
+Example is too fatigued to control his breath well...
+Example's will to resist is weakening...
+Example can't concentrate from the bleeding pain...
+Example is drowning in ecstasy and can't concentrate...
+Example is charmed and can't concentrate...
+100 (random string)!
+Deep Breathing
+Continue
+Cancel
+Example is gradually becoming captivated by his opponent...
+Massage
+Refuse
+"Reload complete!"
+Barghest
+Treat her with a bandage en(v[5] \>= 1)
+Leave her be
+Travel to Hell
+To chapter select
+Enter
+Save your progress up to this point?
+Douse the flaming lampas
+Run out of the room
+Rest
+100 (random string)] en(v[5] \>= 1)
+Please enlighten me
+I'm good
+Set my willpower to half
+Yes
+No
+Nothing
+"None"
+Coffin Breakout
+Gagged
+Milking
+Finish her off
+Chat en(v[42] \>= 25) 
+Milking (Frontal) en(v[42] \>= 25) 
+Milking (Rear) en(v[42] \>= 60) 
+Remove mind corruption if(v[42] \>= 100) 
+Bonding Event if(v[42] \>= 99) 
+Milking (Fellatio) en(v[44] \>= 25) 
+Milking (Hug) en(v[44] \>= 60) 
+Milking (Supreme Fellatio) en(v[44] \>= 80) 
+Remove mind corruption if(v[44] \>= 100) 
+Bonding Event if(v[44] \>= 99) 
+SHRIFT
+\\l[7].
+""
+"Physical"
+"Spells"
+--------------------
+Increases the caster's physical attack two steps for 3 turns.
+.
+Physical
+Absorb
+Fire
+Ice
+Lightning
+Water
+Earth
+Wind
+Holy
+Dark
+Start
+Quit Game
 Magic
 Actions
 Submissions
 Passive
 Special
-Dream
 Axe
 Claw
 Spear
@@ -969,50 +1012,3 @@ Staff
 Gun
 General Items
 Melee
-Indulgence
-Let her go en(s[1000000])
-Iron Maiden
-Lampas
-Finish her off
-Kiss the end of her foot
-Suck on her foot in your mouth
-Lampas (Dream)
-Empuse
-Empuse(G)
-Let her go
-Finish her off
-Handgun
-100 (random string)/10
-Machine Pistol
-100 (random string)/15
-Shotgun
-100 (random string)/2
-Custom Handgun
-100 (random string)/10
-Sawed-off
-100 (random string)/2
-Will Up Lv1
-Will Up Lv2
-Will Up Lv3
-Will Up Lv4
-Will Up Lv5
-Will Up Lv6
-Will Up Lv7
-Will Up Lv8
-Will Up Lv9
-Will Up Lv10
-Invigorating Sword
-This sword manifests the wielder's own magical power into the blade. Does physical damage.
-Death Scythe
-A scythe that severs magical power with gale force vacuum waves. Wind element.
-Magic Bow Artemis
-Mace
-Attack Up Lv1
-Magic Up Lv1
-Agility Up Lv1
-Barghest Claw
-Claw-like glove made from a barghest's paw. Low probability of causing target to bleed.
-Lampas Whip
-Thorn whip made from a lampas vine. Enables [Reverse Storm].
-Hell Scythe
-Bloody scythe made from an empuse arm. Makes wielder immune to [Fear].

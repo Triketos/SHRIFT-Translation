@@ -1,0 +1,1625 @@
+﻿> GAIJINIZER PATCH FILE
+> BEGIN STRING
+を倒した！
+> CONTEXT: States/1/message2
+ can no longer fight!#Dargoth
+> END STRING
+
+> BEGIN STRING
+戦闘不能
+> CONTEXT: States/1/name
+Incapacitated#Dargoth
+> END STRING
+
+> BEGIN STRING
+は倒れた！
+> CONTEXT: States/1/message1
+ can no longer fight!#Dargoth
+> END STRING
+
+> BEGIN STRING
+は立ち上がった！
+> CONTEXT: States/1/message4
+ regains the ability to fight!#Dargoth
+> END STRING
+
+> BEGIN STRING
+出血
+> CONTEXT: States/2/name
+Bleeding#Dargoth
+> END STRING
+
+> BEGIN STRING
+は出血してしまった！！
+> CONTEXT: States/2/message1
+ is bleeding!#Dargoth
+> END STRING
+
+> BEGIN STRING
+の出血が治まった！
+> CONTEXT: States/2/message4
+'s bleeding stopped!#Dargoth
+> END STRING
+
+> BEGIN STRING
+の傷口の血が止まらない・・・
+> CONTEXT: States/2/message3
+ can't stop the bleeding...#Dargoth
+> END STRING
+
+> BEGIN STRING
+は動揺した！
+> CONTEXT: States/3/message2
+ is shaken!#Dargoth
+> END STRING
+
+> BEGIN STRING
+パニック
+> CONTEXT: States/3/name
+Panic#Dargoth
+> END STRING
+
+> BEGIN STRING
+はパニックに陥った！！！
+> CONTEXT: States/3/message1
+ is consumed by panic!#Dargoth
+> END STRING
+
+> BEGIN STRING
+は平静を取り戻した！！
+> CONTEXT: States/3/message4
+ regains their composure!#Dargoth
+> END STRING
+
+> BEGIN STRING
+はパニックに陥っている…
+> CONTEXT: States/3/message3
+ is still panicking...#Dargoth
+> END STRING
+
+> BEGIN STRING
+疲労
+> CONTEXT: States/4/name
+Exhaustion#Dargoth
+> END STRING
+
+> BEGIN STRING
+は息が乱れている…
+> CONTEXT: States/4/message3
+'s breath is labored...#Dargoth
+> END STRING
+
+> BEGIN STRING
+衰弱
+> CONTEXT: States/5/name
+Weakness#Dargoth
+> END STRING
+
+> BEGIN STRING
+の抵抗の意志は弱まっている・・・
+> CONTEXT: States/5/message3
+'s will to resist is weakening...#Dargoth
+> END STRING
+
+> BEGIN STRING
+拘束（手）
+> CONTEXT: States/6/name
+> CONTEXT: States/142/name
+Bound (Arms)#Dargoth
+> END STRING
+
+> BEGIN STRING
+は手の自由がきかなくなった！！
+> CONTEXT: States/6/message1
+> CONTEXT: States/34/message1
+> CONTEXT: States/142/message1
+ loses the use of his arms!#Dargoth
+> END STRING
+
+> BEGIN STRING
+はなんとか手の拘束を逃れた！！
+> CONTEXT: States/6/message4
+> CONTEXT: States/34/message4
+> CONTEXT: States/142/message4
+ manages to free his arms!#Dargoth
+> END STRING
+
+> BEGIN STRING
+は手を拘束されている・・・
+> CONTEXT: States/6/message3
+> CONTEXT: States/34/message3
+> CONTEXT: States/142/message3
+'s arms are still bound...#Dargoth
+> END STRING
+
+> BEGIN STRING
+拘束（足）
+> CONTEXT: States/7/name
+> CONTEXT: States/141/name
+Bound (Legs)#Dargoth
+> END STRING
+
+> BEGIN STRING
+は足の自由を奪われた！！
+> CONTEXT: States/7/message1
+> CONTEXT: States/35/message1
+> CONTEXT: States/141/message1
+'s legs are tied up!#Dargoth
+> END STRING
+
+> BEGIN STRING
+は何とか足の拘束を逃れた！！
+> CONTEXT: States/7/message4
+> CONTEXT: States/35/message4
+> CONTEXT: States/141/message4
+ manages to free his legs!#Dargoth
+> END STRING
+
+> BEGIN STRING
+の足は拘束されている…
+> CONTEXT: States/7/message3
+> CONTEXT: States/35/message3
+> CONTEXT: States/141/message3
+'s legs are still tied up...#Dargoth
+> END STRING
+
+> BEGIN STRING
+はバランスを崩した！
+> CONTEXT: States/8/message2
+> CONTEXT: States/8/message1
+ loses his balance!#Dargoth
+> END STRING
+
+> BEGIN STRING
+スタン
+> CONTEXT: States/8/name
+Stun#Dargoth
+> END STRING
+
+> BEGIN STRING
+は体勢を立て直した！
+> CONTEXT: States/8/message4
+ manages to steady himself!#Dargoth
+> END STRING
+
+> BEGIN STRING
+はバランスを崩している……
+> CONTEXT: States/8/message3
+'s balance is still unsteady...#Dargoth
+> END STRING
+
+> BEGIN STRING
+防御
+> CONTEXT: States/9/name
+Defend#Dargoth
+> END STRING
+
+> BEGIN STRING
+不死身
+> CONTEXT: States/10/name
+> CONTEXT: States/18/name
+Invincible#Dargoth
+> END STRING
+
+> BEGIN STRING
+搾精体勢
+> CONTEXT: States/11/name
+> CONTEXT: States/145/name
+Milking Position#Dargoth
+> END STRING
+
+> BEGIN STRING
+は誘惑に負けてしまった！！
+> CONTEXT: States/11/message1
+> CONTEXT: States/145/message1
+ succumbs to temptation!#Dargoth
+> END STRING
+
+> BEGIN STRING
+は何とか身体を引き離した！！
+> CONTEXT: States/11/message4
+> CONTEXT: States/19/message4
+> CONTEXT: States/143/message4
+> CONTEXT: States/145/message4
+ manages to get free!#Dargoth
+> END STRING
+
+> BEGIN STRING
+はなすがままに犯されている・・・
+> CONTEXT: States/11/message3
+> CONTEXT: States/145/message3
+ is being freely raped...#Dargoth
+> END STRING
+
+> BEGIN STRING
+恍惚
+> CONTEXT: States/12/name
+> CONTEXT: States/21/name
+> CONTEXT: States/144/name
+Ecstasy#Dargoth
+> END STRING
+
+> BEGIN STRING
+の精神が性欲に蝕まれていく…
+> CONTEXT: States/12/message1
+> CONTEXT: States/21/message1
+> CONTEXT: States/144/message1
+'s mind is being consumed by lust...#Dargoth
+> END STRING
+
+> BEGIN STRING
+は恍惚状態から正気を取り戻した！！
+> CONTEXT: States/12/message4
+> CONTEXT: States/144/message4
+ regains his composure from lustful thoughts!#Dargoth
+> END STRING
+
+> BEGIN STRING
+は恍惚に浸っている・・・
+> CONTEXT: States/12/message3
+> CONTEXT: States/21/message3
+> CONTEXT: States/144/message3
+ is still immersed in ecstasy...#Dargoth
+> END STRING
+
+> BEGIN STRING
+魅了
+> CONTEXT: States/13/name
+Charmed#Dargoth
+> END STRING
+
+> BEGIN STRING
+は魅了状態から正気を取り戻した！
+> CONTEXT: States/13/message4
+ regains his composure and is no longer charmed!#Dargoth
+> END STRING
+
+> BEGIN STRING
+は魅了されている・・・
+> CONTEXT: States/13/message3
+ is charmed...#Dargoth
+> END STRING
+
+> BEGIN STRING
+虜
+> CONTEXT: States/14/name
+Enslaved#Dargoth
+> END STRING
+
+> BEGIN STRING
+は目の前の相手に夢中になっている・・・
+> CONTEXT: States/14/message3
+ is infatuated with his opponent...#Dargoth
+> END STRING
+
+> BEGIN STRING
+エサ
+> CONTEXT: States/15/name
+Food#Dargoth
+> END STRING
+
+> BEGIN STRING
+はもう抵抗の意志を失っている・・・
+> CONTEXT: States/15/message3
+ loses all will to resist...#Dargoth
+> END STRING
+
+> BEGIN STRING
+武器をしまっている。
+> CONTEXT: States/16/name
+Weapon Sheathed#afrg
+> END STRING
+
+> BEGIN STRING
+全裸
+> CONTEXT: States/17/name
+> CONTEXT: States/140/name
+Naked#Dargoth
+> END STRING
+
+> BEGIN STRING
+は服を脱いでしまった！
+> CONTEXT: States/17/message1
+> CONTEXT: States/140/message1
+ is now naked!#Dargoth
+> END STRING
+
+> BEGIN STRING
+は裸になっている・・・
+> CONTEXT: States/17/message3
+> CONTEXT: States/140/message3
+ is completely naked...#Dargoth
+> END STRING
+
+> BEGIN STRING
+拘束（身体）
+> CONTEXT: States/19/name
+> CONTEXT: States/143/name
+Bound (Body)#Dargoth
+> END STRING
+
+> BEGIN STRING
+は組み付かれてしまった！！
+> CONTEXT: States/19/message1
+> CONTEXT: States/143/message1
+ is being restrained!#Dargoth
+> END STRING
+
+> BEGIN STRING
+は相手に組み付かれている・・・
+> CONTEXT: States/19/message3
+> CONTEXT: States/143/message3
+ is still restrained by his opponent...#Dargoth
+> END STRING
+
+> BEGIN STRING
+朦朧
+> CONTEXT: States/20/name
+Dazed#Dargoth
+> END STRING
+
+> BEGIN STRING
+はまともな思考が出来なくなってしまった！
+> CONTEXT: States/20/message1
+ is no longer able to think straight!#Dargoth
+> END STRING
+
+> BEGIN STRING
+は正気を取り戻した！！
+> CONTEXT: States/20/message4
+ has regained his composure!#Dargoth
+> END STRING
+
+> BEGIN STRING
+は意識がもうろうとして動けない…
+> CONTEXT: States/20/message3
+ is in a daze and can't move...#Dargoth
+> END STRING
+
+> BEGIN STRING
+即死
+> CONTEXT: States/22/name
+Instant Death#Dargoth
+> END STRING
+
+> BEGIN STRING
+魔法チュートリアル
+> CONTEXT: States/23/name
+Magic Tutorial#Dargoth
+> END STRING
+
+> BEGIN STRING
+疲労（重）
+> CONTEXT: States/24/name
+Heavy Exhaustion#Dargoth
+> END STRING
+
+> BEGIN STRING
+は息が切れて上手く動けない…
+> CONTEXT: States/24/message3
+ is out of breath and can barely move...#Dargoth
+> END STRING
+
+> BEGIN STRING
+衰弱（重）
+> CONTEXT: States/25/name
+Heavy Weakness#Dargoth
+> END STRING
+
+> BEGIN STRING
+は今にも屈服してしまいそうだ…！
+> CONTEXT: States/25/message3
+ looks ready to give up at any second!#Dargoth
+> END STRING
+
+> BEGIN STRING
+は恐れおののいた！！
+> CONTEXT: States/26/message2
+> CONTEXT: States/194/message2
+ shudders in fear!#Dargoth
+> END STRING
+
+> BEGIN STRING
+恐怖
+> CONTEXT: States/26/name
+Afraid#Dargoth
+> END STRING
+
+> BEGIN STRING
+は恐怖で抵抗できなくなった！！
+> CONTEXT: States/26/message1
+> CONTEXT: States/194/message1
+ is afraid and can't resist!#Dargoth
+> END STRING
+
+> BEGIN STRING
+の恐怖心は消え去った！
+> CONTEXT: States/26/message4
+> CONTEXT: States/194/message4
+'s fear has subsided!#Dargoth
+> END STRING
+
+> BEGIN STRING
+は相手を怖がっている…
+> CONTEXT: States/26/message3
+> CONTEXT: States/194/message3
+ is terrified of his opponent...#Dargoth
+> END STRING
+
+> BEGIN STRING
+愛液まみれ
+> CONTEXT: States/27/name
+Soaked#Dargoth
+> END STRING
+
+> BEGIN STRING
+は全身に愛液を浴びてしまった！！
+> CONTEXT: States/27/message1
+'s body is bathed in sexual fluids!#Dargoth
+> END STRING
+
+> BEGIN STRING
+は全身の愛液を拭き取った！！
+> CONTEXT: States/27/message4
+ wipes off the sexual fluids!#Dargoth
+> END STRING
+
+> BEGIN STRING
+は愛液にまみれて興奮している…
+> CONTEXT: States/27/message3
+ is being aroused by sexual fluids...#Dargoth
+> END STRING
+
+> BEGIN STRING
+は口を塞がれてしまった！！
+> CONTEXT: States/28/message1
+'s mouth has been plugged up!#Dargoth
+> END STRING
+
+> BEGIN STRING
+の口は自由になった！！
+> CONTEXT: States/28/message4
+ has freed up his mouth!#Dargoth
+> END STRING
+
+> BEGIN STRING
+は口を塞がれてしまっている…
+> CONTEXT: States/28/message3
+'s mouth is plugged up...#Dargoth
+> END STRING
+
+> BEGIN STRING
+脱力
+> CONTEXT: States/29/name
+Debilitated#Dargoth
+> END STRING
+
+> BEGIN STRING
+は全身の力が抜けてしまった！！
+> CONTEXT: States/29/message1
+'s body has been sapped of all strength!#Dargoth
+> END STRING
+
+> BEGIN STRING
+はなんとか全身に力を入れた！
+> CONTEXT: States/29/message4
+ manages to will his body back into action!#Dargoth
+> END STRING
+
+> BEGIN STRING
+は身体に力が入らない……
+> CONTEXT: States/29/message3
+'s body is hanging limp...#Dargoth
+> END STRING
+
+> BEGIN STRING
+は戦闘態勢に入った！
+> CONTEXT: States/30/message2
+ assumes a combat stance!#Dargoth
+> END STRING
+
+> BEGIN STRING
+戦闘態勢
+> CONTEXT: States/30/name
+Combat Stance#Dargoth
+> END STRING
+
+> BEGIN STRING
+の警戒は解けたようだ…。
+> CONTEXT: States/30/message4
+ relaxes her guard...#Dargoth
+> END STRING
+
+> BEGIN STRING
+はこちらを威嚇している…
+> CONTEXT: States/30/message3
+ looks at \\N[1] menacingly...#Dargoth
+> END STRING
+
+> BEGIN STRING
+誘惑態勢
+> CONTEXT: States/31/name
+Temptation Position#Dargoth
+> END STRING
+
+> BEGIN STRING
+は誘惑の姿勢を解いた！！
+> CONTEXT: States/31/message4
+ stops trying to seduce \\N[1].#Dargoth
+> END STRING
+
+> BEGIN STRING
+は誘っている・・・
+> CONTEXT: States/31/message3
+ is seducing \\N[1]...#Dargoth
+> END STRING
+
+> BEGIN STRING
+乳首攻め
+> CONTEXT: States/32/name
+Nipple Assault#Dargoth
+> END STRING
+
+> BEGIN STRING
+は乳首に組み付かれてしまった！！
+> CONTEXT: States/32/message1
+'s nipples are being played with!#Dargoth
+> END STRING
+
+> BEGIN STRING
+は乳首から相手を引きはがした！！
+> CONTEXT: States/32/message4
+ tears his opponent away from his nipples!#Dargoth
+> END STRING
+
+> BEGIN STRING
+は乳首を攻められて続けている…
+> CONTEXT: States/32/message3
+'s nipples are still being molested...#Dargoth
+> END STRING
+
+> BEGIN STRING
+傀儡
+> CONTEXT: States/33/name
+Puppet#Dargoth
+> END STRING
+
+> BEGIN STRING
+は相手の誘惑に敏感になってしまった！
+> CONTEXT: States/33/message1
+ loses himself to his opponent's temptation!#Dargoth
+> END STRING
+
+> BEGIN STRING
+は傀儡状態から正気を持ち直した！！
+> CONTEXT: States/33/message4
+ regains sanity and is no longer a puppet!#Dargoth
+> END STRING
+
+> BEGIN STRING
+は傀儡と化している…
+> CONTEXT: States/33/message3
+ is a mere puppet...#Dargoth
+> END STRING
+
+> BEGIN STRING
+拘束（手）重度
+> CONTEXT: States/34/name
+Heavy Bind (Arms)#Dargoth
+> END STRING
+
+> BEGIN STRING
+拘束（足）重度
+> CONTEXT: States/35/name
+Heavy Bind (Legs)#Dargoth
+> END STRING
+
+> BEGIN STRING
+興奮
+> CONTEXT: States/36/name
+Aroused#Dargoth
+> END STRING
+
+> BEGIN STRING
+は少し落ち着きを取り戻した！
+> CONTEXT: States/36/message4
+ calms his lust down a bit!#Dargoth
+> END STRING
+
+> BEGIN STRING
+は興奮している…
+> CONTEXT: States/36/message3
+ is aroused...#Dargoth
+> END STRING
+
+> BEGIN STRING
+のモルヒネの効果が切れた！！
+> CONTEXT: States/37/message4
+'s morphine effect ends.#Dargoth
+> END STRING
+
+> BEGIN STRING
+衰弱無効
+> CONTEXT: States/38/name
+Weakness Prevention#Dargoth
+> END STRING
+
+> BEGIN STRING
+の衰弱無効の効果が切れた！
+> CONTEXT: States/38/message4
+'s weakness prevention effect ends.#Dargoth
+> END STRING
+
+> BEGIN STRING
+疲労無効
+> CONTEXT: States/39/name
+Exhaustion Prevention#Dargoth
+> END STRING
+
+> BEGIN STRING
+の疲労無効の効果が切れた！
+> CONTEXT: States/39/message4
+'s exhaustion prevention effect ends.#Dargoth
+> END STRING
+
+> BEGIN STRING
+アドレナリン状態
+> CONTEXT: States/40/name
+Adrenaline#Dargoth
+> END STRING
+
+> BEGIN STRING
+のアドレナリンの効果が切れた！
+> CONTEXT: States/40/message4
+'s adrenaline effect ends.#Dargoth
+> END STRING
+
+> BEGIN STRING
+服従
+> CONTEXT: States/41/name
+Submissive#Dargoth
+> END STRING
+
+> BEGIN STRING
+必中（攻撃側）
+> CONTEXT: States/42/name
+Aim (Offense)#Dargoth
+> END STRING
+
+> BEGIN STRING
+の能力値が相手に奪われてしまった！
+> CONTEXT: States/43/message1
+> CONTEXT: States/44/message1
+> CONTEXT: States/45/message1
+> CONTEXT: States/46/message1
+> CONTEXT: States/78/message1
+> CONTEXT: States/79/message1
+> CONTEXT: States/80/message1
+> CONTEXT: States/81/message1
+> CONTEXT: States/170/message1
+> CONTEXT: States/171/message1
+> CONTEXT: States/172/message1
+> CONTEXT: States/173/message1
+> CONTEXT: States/174/message1
+> CONTEXT: States/175/message1
+> CONTEXT: States/176/message1
+> CONTEXT: States/177/message1
+> CONTEXT: States/178/message1
+> CONTEXT: States/179/message1
+'s stats have been drained!#Dargoth
+> END STRING
+
+> BEGIN STRING
+の能力値が元に戻った！！
+> CONTEXT: States/43/message4
+> CONTEXT: States/44/message4
+> CONTEXT: States/45/message4
+> CONTEXT: States/46/message4
+> CONTEXT: States/78/message4
+> CONTEXT: States/79/message4
+> CONTEXT: States/80/message4
+> CONTEXT: States/81/message4
+> CONTEXT: States/170/message4
+> CONTEXT: States/171/message4
+> CONTEXT: States/172/message4
+> CONTEXT: States/173/message4
+> CONTEXT: States/174/message4
+> CONTEXT: States/175/message4
+> CONTEXT: States/176/message4
+> CONTEXT: States/177/message4
+> CONTEXT: States/178/message4
+> CONTEXT: States/179/message4
+'s stats return to normal!#Dargoth
+> END STRING
+
+> BEGIN STRING
+チュートリアル１
+> CONTEXT: States/47/name
+Tutorial 1#afrg
+> END STRING
+
+> BEGIN STRING
+チュートリアル２
+> CONTEXT: States/48/name
+Tutorial 2#afrg
+> END STRING
+
+> BEGIN STRING
+必中（相手側）
+> CONTEXT: States/49/name
+Aim (Opponent)#Dargoth
+> END STRING
+
+> BEGIN STRING
+ダメージ増加
+> CONTEXT: States/50/name
+Damage Increased#Dargoth
+> END STRING
+
+> BEGIN STRING
+性欲増加
+> CONTEXT: States/51/name
+Lust Increased#Dargoth
+> END STRING
+
+> BEGIN STRING
+抵抗力低下
+> CONTEXT: States/52/name
+Willpower Lowered#Dargoth
+> END STRING
+
+> BEGIN STRING
+気力低下
+> CONTEXT: States/53/name
+Vitality Lowered#Dargoth
+> END STRING
+
+> BEGIN STRING
+エサ（蝕）
+> CONTEXT: States/54/name
+Food (Meal)#Dargoth
+> END STRING
+
+> BEGIN STRING
+の回避率が上がった！！
+> CONTEXT: States/55/message1
+> CONTEXT: States/93/message1
+> CONTEXT: States/94/message1
+'s evasion has increased!#Dargoth
+> END STRING
+
+> BEGIN STRING
+の風の力が収まった。
+> CONTEXT: States/55/message4
+> CONTEXT: States/93/message4
+> CONTEXT: States/94/message4
+'s power of the wind fades.#Dargoth
+> END STRING
+
+> BEGIN STRING
+のハーブティーの効果が切れた。
+> CONTEXT: States/56/message4
+'s herbal tea effect ends.#Dargoth
+> END STRING
+
+> BEGIN STRING
+は精神攻撃にかかりにくくなった！
+> CONTEXT: States/57/message1
+ became resistant to mental attacks!#afrg
+> END STRING
+
+> BEGIN STRING
+のクールカームの効果が切れた。
+> CONTEXT: States/57/message4
+'s cool and calm effect ends.#Dargoth
+> END STRING
+
+> BEGIN STRING
+チュートリアル３
+> CONTEXT: States/58/name
+Tutorial 3#afrg
+> END STRING
+
+> BEGIN STRING
+チュートリアル４
+> CONTEXT: States/59/name
+Tutorial 4#afrg
+> END STRING
+
+> BEGIN STRING
+チュートリアル５
+> CONTEXT: States/60/name
+Tutorial 5#afrg
+> END STRING
+
+> BEGIN STRING
+チュートリアル６
+> CONTEXT: States/61/name
+Tutorial 6#afrg
+> END STRING
+
+> BEGIN STRING
+全書用バインド
+> CONTEXT: States/62/name
+Bound for Book#afrg -- used for 'recollection' scenes
+> END STRING
+
+> BEGIN STRING
+死亡
+> CONTEXT: States/63/name
+Dead#Dargoth
+> END STRING
+
+> BEGIN STRING
+チュートリアル７
+> CONTEXT: States/64/name
+Tutorial 7#afrg
+> END STRING
+
+> BEGIN STRING
+説得終了
+> CONTEXT: States/65/name
+Persuasion End#afrg
+> END STRING
+
+> BEGIN STRING
+スカ（攻撃側）
+> CONTEXT: States/66/name
+Loss (Offense)#Dargoth
+> END STRING
+
+> BEGIN STRING
+スカ（相手側）
+> CONTEXT: States/67/name
+Loss (Opponent)#Dargoth
+> END STRING
+
+> BEGIN STRING
+ガード
+> CONTEXT: States/68/name
+Guard#Dargoth
+> END STRING
+
+> BEGIN STRING
+１回休み
+> CONTEXT: States/69/name
+One turn rest#Dargoth
+> END STRING
+
+> BEGIN STRING
+は性欲が高まってしまった！！
+> CONTEXT: States/70/message1
+'s lust went up!#Dargoth
+> END STRING
+
+> BEGIN STRING
+の周りの空間は正常値に戻った！！
+> CONTEXT: States/70/message4
+> CONTEXT: States/71/message4
+> CONTEXT: States/72/message4
+> CONTEXT: States/73/message4
+> CONTEXT: States/74/message4
+'s surroundings return to their normal state.#Dargoth
+> END STRING
+
+> BEGIN STRING
+は空間の影響で性欲が高まっている…
+> CONTEXT: States/70/message3
+'s lust is rising due to the perversion in the air.#Dargoth
+> END STRING
+
+> BEGIN STRING
+は相手に拘束されやすくなってしまった！
+> CONTEXT: States/71/message1
+ has become more susceptible to being bound!#Dargoth
+> END STRING
+
+> BEGIN STRING
+は空間の影響で拘束されやすくなっている…
+> CONTEXT: States/71/message3
+ is susceptible to being bound due to the perversion in the air.#Dargoth
+> END STRING
+
+> BEGIN STRING
+は息切れしやすくなってしまった！
+> CONTEXT: States/72/message1
+ is getting fatigued more quickly!#Dargoth
+> END STRING
+
+> BEGIN STRING
+は空間の影響で消費気力が増加している…
+> CONTEXT: States/72/message3
+'s vitality use is increased due to the perversion in the air.#Dargoth
+> END STRING
+
+> BEGIN STRING
+の銃での攻撃力が極端に低下した！
+> CONTEXT: States/73/message1
+'s guns are significantly weakened!#Dargoth
+> END STRING
+
+> BEGIN STRING
+は空間の影響で銃が弱体化している…
+> CONTEXT: States/73/message3
+'s guns are weakened due to the perversion in the air.#Dargoth
+> END STRING
+
+> BEGIN STRING
+の魔法が封じられてしまった！
+> CONTEXT: States/74/message1
+'s magical ability is sealed!#Dargoth
+> END STRING
+
+> BEGIN STRING
+は空間の影響で魔法が使えない…
+> CONTEXT: States/74/message3
+ can't use magic due to the perversion in the air.#Dargoth
+> END STRING
+
+> BEGIN STRING
+【なし】
+> CONTEXT: States/75/message2
+> CONTEXT: States/75/message4
+[None]#Dargoth
+> END STRING
+
+> BEGIN STRING
+下僕犬
+> CONTEXT: States/75/name
+Dog Servant#Dargoth
+> END STRING
+
+> BEGIN STRING
+はヘカーテの言いなりになってしまった！
+> CONTEXT: States/75/message1
+ will do whatever Hecate says!#Dargoth
+> END STRING
+
+> BEGIN STRING
+はヘカーテの命令を待っている…。
+> CONTEXT: States/75/message3
+ awaits Hecate's command...#Dargoth
+> END STRING
+
+> BEGIN STRING
+メイデン後半戦
+> CONTEXT: States/76/name
+Maiden Second Half Battle#Dargoth
+> END STRING
+
+> BEGIN STRING
+股間攻め
+> CONTEXT: States/77/name
+Crotch Assault#Dargoth
+> END STRING
+
+> BEGIN STRING
+は股間を相手に委ねる体勢になってしまった！
+> CONTEXT: States/77/message1
+'s opponent focuses on assaulting his crotch!#Dargoth
+> END STRING
+
+> BEGIN STRING
+は股間への攻めを振り払った！！
+> CONTEXT: States/77/message4
+ gets his opponent off his crotch!#Dargoth
+> END STRING
+
+> BEGIN STRING
+は股間をいじられ続けている…
+> CONTEXT: States/77/message3
+'s crotch is still being played with...#Dargoth
+> END STRING
+
+> BEGIN STRING
+攻撃オンリー無敵
+> CONTEXT: States/82/name
+Attack Only Invincible#afrg
+> END STRING
+
+> BEGIN STRING
+リロード完了
+> CONTEXT: States/84/name
+Reload Complete#afrg
+> END STRING
+
+> BEGIN STRING
+は相手に精を搾られた。
+> CONTEXT: States/85/message1
+ has his semen milked.#Dargoth
+> END STRING
+
+> BEGIN STRING
+高揚
+> CONTEXT: States/86/name
+> CONTEXT: States/87/name
+> CONTEXT: States/88/name
+> CONTEXT: States/89/name
+> CONTEXT: States/90/name
+Enhanced#Dargoth
+> END STRING
+
+> BEGIN STRING
+ドロップ
+> CONTEXT: States/91/name
+Drop#Dargoth
+> END STRING
+
+> BEGIN STRING
+のランパスドロップの効果が切れた。
+> CONTEXT: States/91/message4
+'s lampas drop effect has ended.#Dargoth
+> END STRING
+
+> BEGIN STRING
+プレゼント
+> CONTEXT: States/92/name
+> CONTEXT: System/terms/commands/14
+Present#Dargoth
+> END STRING
+
+> BEGIN STRING
+シルフストームLv2
+> CONTEXT: States/93/name
+Sylph Storm Lv2#Dargoth
+> END STRING
+
+> BEGIN STRING
+シルフストームLv3
+> CONTEXT: States/94/name
+Sylph Storm Lv3#Dargoth
+> END STRING
+
+> BEGIN STRING
+ボルテクステップ（小）
+> CONTEXT: States/95/name
+Voltaic Step (Minor)#afrg
+> END STRING
+
+> BEGIN STRING
+の物理命中率が上がった！！
+> CONTEXT: States/95/message1
+> CONTEXT: States/181/message1
+'s physical accuracy was improved!!#afrg
+> END STRING
+
+> BEGIN STRING
+の雷の力が収まった。
+> CONTEXT: States/95/message4
+> CONTEXT: States/181/message4
+'s thunder power calms down.#afrg
+> END STRING
+
+> BEGIN STRING
+夢の中（まどろみ）
+> CONTEXT: States/96/name
+> CONTEXT: States/97/name
+Dreaming (Light)#Dargoth
+> END STRING
+
+> BEGIN STRING
+完全に夢から覚めた！！
+> CONTEXT: States/96/message4
+ wakes up from the dream!#Dargoth
+> END STRING
+
+> BEGIN STRING
+少し夢から覚めた！
+> CONTEXT: States/97/message4
+> CONTEXT: States/98/message4
+> CONTEXT: States/99/message4
+> CONTEXT: States/100/message4
+ gets closer to waking up from the dream!#Dargoth
+> END STRING
+
+> BEGIN STRING
+夢の中
+> CONTEXT: States/98/name
+> CONTEXT: System/skill_types/10
+Dream#Dargoth
+> END STRING
+
+> BEGIN STRING
+夢の中（危険域）
+> CONTEXT: States/99/name
+> CONTEXT: States/100/name
+Dreaming (Heavy)#Dargoth
+> END STRING
+
+> BEGIN STRING
+シルフストーム感知
+> CONTEXT: States/102/name
+Sylph Storm Noticed#afrg
+> END STRING
+
+> BEGIN STRING
+傀儡中
+> CONTEXT: States/103/name
+Puppet#afrg
+> END STRING
+
+> BEGIN STRING
+ボウヤ
+> CONTEXT: States/105/name
+Boy#afrg
+> END STRING
+
+> BEGIN STRING
+はマザーラビットに甘える子供になった！
+> CONTEXT: States/105/message1
+ became like Mother Rabbit's child!#afrg
+> END STRING
+
+> BEGIN STRING
+はマザーラビットのハグに夢中になっている…
+> CONTEXT: States/105/message3
+ is in a trance due to Mother Rabbit's hug...#afrg
+> END STRING
+
+> BEGIN STRING
+射精禁止
+> CONTEXT: States/106/name
+Ejaculation Inhibition#afrg
+> END STRING
+
+> BEGIN STRING
+の射精直前の高揚感が消え去ってしまった！
+> CONTEXT: States/106/message1
+'s pleasure vanished just before his ejaculation!#afrg
+> END STRING
+
+> BEGIN STRING
+時間停止クールタイム
+> CONTEXT: States/107/name
+Time Stop Cooldown#afrg
+> END STRING
+
+> BEGIN STRING
+拘束がゆるい
+> CONTEXT: States/108/name
+Restraint Loosened#afrg
+> END STRING
+
+> BEGIN STRING
+の怪力の薬の効果が切れた！！
+> CONTEXT: States/109/message4
+'s superhuman medicine wore off!#afrg
+> END STRING
+
+> BEGIN STRING
+ＣＭあけまで残り２ターン
+> CONTEXT: States/111/name
+2 turns left before the end of commercials#afrg
+> END STRING
+
+> BEGIN STRING
+へ通知：【ＣＭあけまで残り２ターン】
+> CONTEXT: States/111/message4
+Notice: 【2 turns left before the end of commercials】#afrg
+> END STRING
+
+> BEGIN STRING
+ＣＭあけまで残り１ターン
+> CONTEXT: States/112/name
+Last turn before commercial break end#afrg
+> END STRING
+
+> BEGIN STRING
+へ通知：【ＣＭあけまで残り１ターン】
+> CONTEXT: States/112/message4
+Notice: 【Last turn before commercial break end】#afrg
+> END STRING
+
+> BEGIN STRING
+ＣＭあけまーす
+> CONTEXT: States/113/name
+Commercial Break#afrg
+> END STRING
+
+> BEGIN STRING
+へ通知：【ＣＭあけまーす】
+> CONTEXT: States/113/message4
+Notice: 【Commercial break】#afrg
+> END STRING
+
+> BEGIN STRING
+毒
+> CONTEXT: States/115/name
+Poison#afrg
+> END STRING
+
+> BEGIN STRING
+は毒にかかってしまった！
+> CONTEXT: States/115/message1
+ suffers from poison!#afrg
+> END STRING
+
+> BEGIN STRING
+の毒がなんとか収まった！！
+> CONTEXT: States/115/message4
+ recovered from the poison!#afrg
+> END STRING
+
+> BEGIN STRING
+は毒のせいで身体がフラフラする…
+> CONTEXT: States/115/message3
+'s body is unsteady due to the poison!#afrg
+> END STRING
+
+> BEGIN STRING
+躯（ボス）
+> CONTEXT: States/117/name
+> CONTEXT: Troops/82/name
+Mukuro (Boss)#afrg
+> END STRING
+
+> BEGIN STRING
+躯（G）
+> CONTEXT: States/118/name
+> CONTEXT: Troops/84/name
+Mukuro (G)#afrg
+> END STRING
+
+> BEGIN STRING
+拘束（糸）
+> CONTEXT: States/120/name
+Bound (Web)#afrg
+> END STRING
+
+> BEGIN STRING
+は糸で身動きがとれなくなった！！
+> CONTEXT: States/120/message1
+ was immobilized by a web!#afrg
+> END STRING
+
+> BEGIN STRING
+は糸の拘束をふりほどいた！
+> CONTEXT: States/120/message4
+ untangled himself from the web!#afrg
+> END STRING
+
+> BEGIN STRING
+は糸でがんじがらめになっている…
+> CONTEXT: States/120/message3
+ is bound in a web...#afrg
+> END STRING
+
+> BEGIN STRING
+愛液糸（軽度）
+> CONTEXT: States/121/name
+Slimy Web (Light)#afrg
+> END STRING
+
+> BEGIN STRING
+愛液糸（重度）
+> CONTEXT: States/122/name
+Slimy Web (Heavy)#afrg
+> END STRING
+
+> BEGIN STRING
+愛液糸（致死域）
+> CONTEXT: States/123/name
+Slimy Web (Lethal)#afrg
+> END STRING
+
+> BEGIN STRING
+糸射出状態
+> CONTEXT: States/124/name
+Shooting Web#afrg
+> END STRING
+
+> BEGIN STRING
+は全身に炎の力を纏った！
+> CONTEXT: States/126/message1
+'s body is infused with the power of fire!#afrg
+> END STRING
+
+> BEGIN STRING
+はヘル・ブレイクの効果が切れた！
+> CONTEXT: States/126/message4
+'s Hell Break wore off!#afrg
+> END STRING
+
+> BEGIN STRING
+は全身に氷の力を纏った！
+> CONTEXT: States/127/message1
+'s body is infused with the power of ice!#afrg
+> END STRING
+
+> BEGIN STRING
+はフローズンの効果が切れた！
+> CONTEXT: States/127/message4
+'s Frozen wore off!#afrg
+> END STRING
+
+> BEGIN STRING
+は全身に風の力を纏った！
+> CONTEXT: States/128/message1
+'s body is infused with the power of wind!#afrg
+> END STRING
+
+> BEGIN STRING
+はシルフトリックの効果が切れた！
+> CONTEXT: States/128/message4
+'s Sylph Trick wore off!#afrg
+> END STRING
+
+> BEGIN STRING
+は全身に雷の力を纏った！
+> CONTEXT: States/129/message1
+'s body is infused with the power of thunder!#afrg
+> END STRING
+
+> BEGIN STRING
+はライジングの効果が切れた！
+> CONTEXT: States/129/message4
+'s Rising wore off!#afrg
+> END STRING
+
+> BEGIN STRING
+粘液まみれ
+> CONTEXT: States/131/name
+Covered in Mucus#afrg
+> END STRING
+
+> BEGIN STRING
+は全身が粘液まみれになってしまった！
+> CONTEXT: States/131/message1
+'s entire body was covered in mucus!#afrg
+> END STRING
+
+> BEGIN STRING
+はなんとか粘液を取り除いた！！
+> CONTEXT: States/131/message4
+ wiped off the mucus!#afrg
+> END STRING
+
+> BEGIN STRING
+は粘液で全身ヌルヌルだ……
+> CONTEXT: States/131/message3
+'s entire body is slimy with mucus...#afrg
+> END STRING
+
+> BEGIN STRING
+知能低下
+> CONTEXT: States/134/name
+Intelligence Loss#afrg
+> END STRING
+
+> BEGIN STRING
+は頭の中がフワフワになってしまった！
+> CONTEXT: States/134/message1
+'s head feels fluffy!#afrg
+> END STRING
+
+> BEGIN STRING
+知能低下１
+> CONTEXT: States/135/name
+Intelligence Loss 1#afrg
+> END STRING
+
+> BEGIN STRING
+は知識を吸い取られてしまった！
+> CONTEXT: States/135/message1
+> CONTEXT: States/136/message1
+> CONTEXT: States/137/message1
+> CONTEXT: States/138/message1
+> CONTEXT: States/139/message1
+> CONTEXT: States/185/message1
+> CONTEXT: States/186/message1
+> CONTEXT: States/187/message1
+> CONTEXT: States/188/message1
+> CONTEXT: States/189/message1
+> CONTEXT: States/196/message1
+ has sucked up knowledge!#afrg
+> END STRING
+
+> BEGIN STRING
+知能低下２
+> CONTEXT: States/136/name
+Intelligence Loss 2#afrg
+> END STRING
+
+> BEGIN STRING
+知能低下３
+> CONTEXT: States/137/name
+Intelligence Loss 3#afrg
+> END STRING
+
+> BEGIN STRING
+知能低下４
+> CONTEXT: States/138/name
+Intelligence Loss 4#afrg
+> END STRING
+
+> BEGIN STRING
+知能低下５
+> CONTEXT: States/139/name
+Intelligence Loss 5#afrg
+> END STRING
+
+> BEGIN STRING
+１問目
+> CONTEXT: States/147/name
+1st Question#afrg
+> END STRING
+
+> BEGIN STRING
+２問目
+> CONTEXT: States/148/name
+2nd Question#afrg
+> END STRING
+
+> BEGIN STRING
+３問目
+> CONTEXT: States/149/name
+3rd Question#afrg
+> END STRING
+
+> BEGIN STRING
+４問目
+> CONTEXT: States/150/name
+4th Question#afrg
+> END STRING
+
+> BEGIN STRING
+【済】オーディエンス
+> CONTEXT: States/152/name
+[End] Audience#afrg
+> END STRING
+
+> BEGIN STRING
+【済】テレフォン
+> CONTEXT: States/153/name
+[End] Phone-A-Friend#afrg
+> END STRING
+
+> BEGIN STRING
+【済】５０：５０
+> CONTEXT: States/154/name
+[End] 50:50#afrg
+> END STRING
+
+> BEGIN STRING
+【使用】５０：５０
+> CONTEXT: States/155/name
+[Use] 50:50#afrg
+> END STRING
+
+> BEGIN STRING
+攻撃力アップEX
+> CONTEXT: States/160/name
+Attack Up EX#afrg
+> END STRING
+
+> BEGIN STRING
+は攻撃力が急激に上昇した。
+> CONTEXT: States/160/message1
+'s Attack power rose sharply.#afrg
+> END STRING
+
+> BEGIN STRING
+防御力アップEX
+> CONTEXT: States/161/name
+Defence Up EX#afrg
+> END STRING
+
+> BEGIN STRING
+は防御力が急激に上昇した。
+> CONTEXT: States/161/message1
+'s Defense power rose sharply.#afrg
+> END STRING
+
+> BEGIN STRING
+能力アップEX
+> CONTEXT: States/162/name
+Agility Up EX#afrg
+> END STRING
+
+> BEGIN STRING
+は抵抗・気力最大値が急激に上昇した。
+> CONTEXT: States/162/message1
+'s maximum Willpower and Vitality rose sharply.#afrg
+> END STRING
+
+> BEGIN STRING
+寄生
+> CONTEXT: States/163/name
+Parasite#afrg
+> END STRING
+
+> BEGIN STRING
+はカマソッソに寄生されてしまった！！
+> CONTEXT: States/163/message1
+ has been infested by Camazotz!!#afrg
+> END STRING
+
+> BEGIN STRING
+の意思はカマソッソに完全に乗っ取られている…
+> CONTEXT: States/163/message3
+'s consciousness has been completely hijacked by Camazotz...#afrg
+> END STRING
+
+> BEGIN STRING
+無敵
+> CONTEXT: States/165/name
+Invincible#afrg
+> END STRING
+
+> BEGIN STRING
+ボルテクステップ（大）
+> CONTEXT: States/181/name
+Voltaic Step (Major)#afrg
+> END STRING
+
+> BEGIN STRING
+知能低下Ａ
+> CONTEXT: States/185/name
+Intelligence Lowered A#afrg
+> END STRING
+
+> BEGIN STRING
+知能低下Ｂ
+> CONTEXT: States/186/name
+Intelligence Lowered B#afrg
+> END STRING
+
+> BEGIN STRING
+知能低下Ｃ
+> CONTEXT: States/187/name
+Intelligence Lowered C#afrg
+> END STRING
+
+> BEGIN STRING
+知能低下Ｄ
+> CONTEXT: States/188/name
+Intelligence Lowered D#afrg
+> END STRING
+
+> BEGIN STRING
+知能低下Ｅ
+> CONTEXT: States/189/name
+Intelligence Lowered E#afrg
+> END STRING
+
+> BEGIN STRING
+ランパスドロップ使用
+> CONTEXT: States/190/name
+Lampas Drop#afrg
+> END STRING
+
+> BEGIN STRING
+性欲上がらない
+> CONTEXT: States/192/name
+No Arousal Increase#afrg
+> END STRING
+
+> BEGIN STRING
+恐怖（永続）
+> CONTEXT: States/194/name
+Afraid (Permanent)#afrg
+> END STRING
+
+> BEGIN STRING
+妲己（G）
+> CONTEXT: States/195/name
+Daiji (G)#afrg
+> END STRING
+
+> BEGIN STRING
+知能低下Ｂ２
+> CONTEXT: States/196/name
+Intelligence Lowered B2#afrg
+> END STRING
+
+> BEGIN STRING
+サマエル１
+> CONTEXT: States/198/name
+Samael 1#afrg
+> END STRING
+
+> BEGIN STRING
+サマエル２
+> CONTEXT: States/199/name
+Samael 2#afrg
+> END STRING

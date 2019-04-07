@@ -1,0 +1,348 @@
+﻿> GAIJINIZER PATCH FILE
+> BEGIN STRING
+テレフォン使っちゃう？
+
+それじゃあ、キミの親友のユウマ君に繋いじゃおう！
+> CONTEXT: CommonEvents_324/16/Dialogue/enemy11
+> CONTEXT: CommonEvents_335/1/Dialogue/enemy11
+> CONTEXT: CommonEvents_341/1/Dialogue/enemy11
+Phone-A-Friend? Well then, let's connect to your
+best friend Yuuma!#MTLed
+> END STRING
+
+> BEGIN STRING
+…………こっちはいつでもいいぞ。
+> CONTEXT: CommonEvents_324/20/Dialogue/yuuma
+> CONTEXT: CommonEvents_335/5/Dialogue/yuuma
+> CONTEXT: CommonEvents_341/5/Dialogue/yuuma
+............ you can always go here.#MTLed
+> END STRING
+
+> BEGIN STRING
+さぁ、\\N[1]くん。
+
+\\C[2]制限時間内に、正確に問題内容を伝えてね？
+> CONTEXT: CommonEvents_324/22/Dialogue/enemy11
+> CONTEXT: CommonEvents_335/7/Dialogue/enemy11
+> CONTEXT: CommonEvents_341/7/Dialogue/enemy11
+Well, \\N[1]-kun. \\C[2]Tell the problem exactly in the
+time limit, right?#MTLed
+> END STRING
+
+> BEGIN STRING
+上手く伝えられないと、
+
+簡単ななぞなぞでも、分からないかもしれないよ？
+> CONTEXT: CommonEvents_324/26/Dialogue/enemy11
+> CONTEXT: CommonEvents_335/11/Dialogue/enemy11
+> CONTEXT: CommonEvents_341/11/Dialogue/enemy11
+If you can not communicate well,
+Even a simple riddle, you may not understand?#MTLed
+> END STRING
+
+> BEGIN STRING
+それじゃ、スタート！！
+> CONTEXT: CommonEvents_324/30/Dialogue/enemy11
+> CONTEXT: CommonEvents_335/15/Dialogue/enemy11
+> CONTEXT: CommonEvents_341/15/Dialogue/enemy11
+Well then, start! !#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[1]、どうした！？
+
+早く問題を言え！！時間がないぞ！！
+> CONTEXT: CommonEvents_324/42/Dialogue/yuuma
+> CONTEXT: CommonEvents_335/27/Dialogue/yuuma
+\\N[1], what's wrong! ? Say the problem fast!!I
+have no time! !#MTLed
+> END STRING
+
+> BEGIN STRING
+あ………うぅ………
+> CONTEXT: CommonEvents_324/46/Dialogue/kazuya-0
+> CONTEXT: CommonEvents_335/31/Dialogue/kazuya-0
+Oh...... Uh...... ...#MTLed
+> END STRING
+
+> BEGIN STRING
+\\N[1]は、\\C[2]問題の読み方を忘れてしまった……
+> CONTEXT: CommonEvents_324/48/Dialogue
+> CONTEXT: CommonEvents_335/33/Dialogue
+\\N[1] is\\C[2] I forgot to read the problem ...#MTLed
+> END STRING
+
+> BEGIN STRING
+え…えっと…
+> CONTEXT: CommonEvents_324/53/Dialogue/kazuya-0
+> CONTEXT: CommonEvents_335/42/Dialogue/kazuya-0
+Let me see…#MTLed
+> END STRING
+
+> BEGIN STRING
+うってもうっても
+> CONTEXT: CommonEvents_324/55/Choice/0
+By the way#MTLed
+> END STRING
+
+> BEGIN STRING
+よんでもよんでも
+> CONTEXT: CommonEvents_324/55/Choice/1
+Even if you read#MTLed
+> END STRING
+
+> BEGIN STRING
+はってもはっても
+> CONTEXT: CommonEvents_324/55/Choice/2
+Even if it is#MTLed
+> END STRING
+
+> BEGIN STRING
+みてもみても
+> CONTEXT: CommonEvents_324/55/Choice/3
+Even if#MTLed
+> END STRING
+
+> BEGIN STRING
+"うってもうっても"
+> CONTEXT: CommonEvents_324/57/InlineScript/1:23
+"By the way"#MTLed
+> END STRING
+
+> BEGIN STRING
+"よんでもよんでも"
+> CONTEXT: CommonEvents_324/61/InlineScript/1:23
+"Even if you read"#MTLed
+> END STRING
+
+> BEGIN STRING
+"はってもはっても"
+> CONTEXT: CommonEvents_324/65/InlineScript/1:23
+"Even if it is"#MTLed
+> END STRING
+
+> BEGIN STRING
+"みてもみても"
+> CONTEXT: CommonEvents_324/69/InlineScript/1:23
+"Even if"#MTLed
+> END STRING
+
+> BEGIN STRING
+へんじを
+> CONTEXT: CommonEvents_324/79/Choice/0
+Mind#MTLed
+> END STRING
+
+> BEGIN STRING
+こたえを
+> CONTEXT: CommonEvents_324/79/Choice/1
+Answer#MTLed
+> END STRING
+
+> BEGIN STRING
+みんなを
+> CONTEXT: CommonEvents_324/79/Choice/2
+Everyone#MTLed
+> END STRING
+
+> BEGIN STRING
+じかんを
+> CONTEXT: CommonEvents_324/79/Choice/3
+time#MTLed
+> END STRING
+
+> BEGIN STRING
+"へんじを"
+> CONTEXT: CommonEvents_324/81/InlineScript/1:23
+"Mind"#MTLed
+> END STRING
+
+> BEGIN STRING
+"こたえを"
+> CONTEXT: CommonEvents_324/85/InlineScript/1:23
+"Answer"#MTLed
+> END STRING
+
+> BEGIN STRING
+"みんなを"
+> CONTEXT: CommonEvents_324/89/InlineScript/1:23
+"Everyone"#MTLed
+> END STRING
+
+> BEGIN STRING
+"じかんを"
+> CONTEXT: CommonEvents_324/93/InlineScript/1:23
+"time"#MTLed
+> END STRING
+
+> BEGIN STRING
+するのは
+> CONTEXT: CommonEvents_324/104/Choice/0
+To do#MTLed
+> END STRING
+
+> BEGIN STRING
+ないのは
+> CONTEXT: CommonEvents_324/104/Choice/1
+There is no#MTLed
+> END STRING
+
+> BEGIN STRING
+しないのは
+> CONTEXT: CommonEvents_324/104/Choice/2
+What is not#MTLed
+> END STRING
+
+> BEGIN STRING
+かろやかなのは
+> CONTEXT: CommonEvents_324/104/Choice/3
+It is a mild thing#MTLed
+> END STRING
+
+> BEGIN STRING
+"するのは"
+> CONTEXT: CommonEvents_324/106/InlineScript/1:23
+"To do"#MTLed
+> END STRING
+
+> BEGIN STRING
+"ないのは"
+> CONTEXT: CommonEvents_324/110/InlineScript/1:23
+"There is no"#MTLed
+> END STRING
+
+> BEGIN STRING
+"しないのは"
+> CONTEXT: CommonEvents_324/114/InlineScript/1:23
+"What is not"#MTLed
+> END STRING
+
+> BEGIN STRING
+"かろやかなのは"
+> CONTEXT: CommonEvents_324/118/InlineScript/1:23
+"It is a mild thing"#MTLed
+> END STRING
+
+> BEGIN STRING
+どれ？
+> CONTEXT: CommonEvents_324/130/Choice/0
+which one?#MTLed
+> END STRING
+
+> BEGIN STRING
+いつ？
+> CONTEXT: CommonEvents_324/130/Choice/1
+When?#MTLed
+> END STRING
+
+> BEGIN STRING
+なに？
+> CONTEXT: CommonEvents_324/130/Choice/2
+what?#MTLed
+> END STRING
+
+> BEGIN STRING
+だれ？
+> CONTEXT: CommonEvents_324/130/Choice/3
+Who?#MTLed
+> END STRING
+
+> BEGIN STRING
+"どれ？"
+> CONTEXT: CommonEvents_324/132/InlineScript/1:23
+"which one?"#MTLed
+> END STRING
+
+> BEGIN STRING
+"いつ？"
+> CONTEXT: CommonEvents_324/136/InlineScript/1:23
+"When?"#MTLed
+> END STRING
+
+> BEGIN STRING
+"なに？"
+> CONTEXT: CommonEvents_324/140/InlineScript/1:23
+"what?"#MTLed
+> END STRING
+
+> BEGIN STRING
+"だれ？"
+> CONTEXT: CommonEvents_324/144/InlineScript/1:23
+"Who?"#MTLed
+> END STRING
+
+> BEGIN STRING
+なるほど、なんとなく分かったぞ…
+> CONTEXT: CommonEvents_324/170/Dialogue/yuuma
+> CONTEXT: CommonEvents_335/159/Dialogue/yuuma
+I see, I understand somehow ...#MTLed
+> END STRING
+
+> BEGIN STRING
+「よんでもよんでも」というのは『呼んでも』じゃない
+
+「読んでも」だ。
+> CONTEXT: CommonEvents_324/176/Dialogue/yuuma
+「Even if you read」It's not "I will call you"
+「Read」It is.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]つまり、『本』だ。
+
+よんだりできるし、返事はしない。
+> CONTEXT: CommonEvents_324/184/Dialogue/yuuma
+\\C[2]In other words, it is a "book".
+I can do it, I will not reply.#MTLed
+> END STRING
+
+> BEGIN STRING
+わ、わかった…！！
+
+ありがとう、ユウマ。
+> CONTEXT: CommonEvents_324/192/Dialogue/kazuya-0
+> CONTEXT: CommonEvents_335/181/Dialogue/kazuya-0
+I understand ...!! Thank you Yuuma.#MTLed
+> END STRING
+
+> BEGIN STRING
+…………生きて帰ってこい。
+
+一緒に脱出するぞ、\\N[1]。
+> CONTEXT: CommonEvents_324/200/Dialogue/yuuma
+> CONTEXT: CommonEvents_335/189/Dialogue/yuuma
+............ come back alive. 
+I will escape together, \\N[1].#MTLed
+> END STRING
+
+> BEGIN STRING
+すまん………
+
+ぜんっっっっっぜんわからん……！
+> CONTEXT: CommonEvents_324/206/Dialogue/yuuma
+> CONTEXT: CommonEvents_335/195/Dialogue/yuuma
+sorry………. I do not know at all.........!#MTLed
+> END STRING
+
+> BEGIN STRING
+はーい！！そこまでぇ！！
+
+ちゃんと答えは分かったかなぁ？
+> CONTEXT: CommonEvents_324/216/Dialogue/enemy11
+> CONTEXT: CommonEvents_335/205/Dialogue/enemy11
+> CONTEXT: CommonEvents_341/45/Dialogue/enemy11
+Yes!!That's it!! Did you understand the answer
+properly?#MTLed
+> END STRING
+
+> BEGIN STRING
+私としては、分からずに答えてくれなくてもいいんだけど…
+
+さぁ\\N[1]くん、そろそろカクゴを決めて？
+> CONTEXT: CommonEvents_324/220/Dialogue/enemy11
+> CONTEXT: CommonEvents_335/209/Dialogue/enemy11
+> CONTEXT: CommonEvents_341/49/Dialogue/enemy11
+As for me, it doesn't have to be an answer
+without knowing it...Now \\N[1]-kun, soon
+decide on Kakgo?#MTLed
+> END STRING

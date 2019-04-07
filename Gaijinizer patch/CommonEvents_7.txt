@@ -1,0 +1,49 @@
+﻿> GAIJINIZER PATCH FILE
+> BEGIN STRING
+深呼吸
+> CONTEXT: Skills/4/name
+Deep Breathing#Dargoth
+> END STRING
+
+> BEGIN STRING
+\\N[1]は逆に神経が敏感になってしまい性欲が増してしまった！！
+> CONTEXT: CommonEvents_7/4/Dialogue
+> CONTEXT: CommonEvents_7/14/Dialogue
+\\N[1] is so sensitive that his lust goes up instead!#Dargoth
+> END STRING
+
+> BEGIN STRING
+\\N[1]は疲労して上手く息が整えられない…
+> CONTEXT: CommonEvents_7/22/Dialogue
+\\N[1] is too fatigued to control his breath well...#Dargoth
+> END STRING
+
+> BEGIN STRING
+\\N[1]は抵抗する意志が弱まっている…
+> CONTEXT: CommonEvents_7/28/Dialogue
+\\N[1]'s will to resist is weakening...#Dargoth
+> END STRING
+
+> BEGIN STRING
+\\N[1]は出血の痛みで集中できない…
+> CONTEXT: CommonEvents_7/34/Dialogue
+\\N[1] can't concentrate from the bleeding pain...#Dargoth
+> END STRING
+
+> BEGIN STRING
+\\N[1]は恍惚に浸っていて上手く集中できない…
+> CONTEXT: CommonEvents_7/40/Dialogue
+\\N[1] is drowning in ecstasy and can't concentrate...#Dargoth
+> END STRING
+
+> BEGIN STRING
+\\N[1]は魅了されていて上手く集中できない…
+> CONTEXT: CommonEvents_7/46/Dialogue
+\\N[1] is charmed and can't concentrate...#Dargoth
+> END STRING
+
+> BEGIN STRING
+深呼吸で性欲が\\V[5]下がった！
+> CONTEXT: CommonEvents_7/57/Dialogue
+Deep breathing reduced \\N[1]'s lust by \\V[5]!#Dargoth
+> END STRING

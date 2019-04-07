@@ -1,0 +1,572 @@
+﻿> GAIJINIZER PATCH FILE
+> BEGIN STRING
+\\N[1]か………
+
+どうした？
+> CONTEXT: Map162/events/2/pages/0/0/Dialogue/yuuma
+\\N[1] or ......... What happened?#MTLed
+> END STRING
+
+> BEGIN STRING
+ユウマ、何か問題があったの？
+
+ずいぶんと時間がかかってるみたいだけど……
+> CONTEXT: Map162/events/2/pages/0/4/Dialogue/kazuya
+Yuuma, did you have any problems?
+It seems like it takes a long time ...#MTLed
+> END STRING
+
+> BEGIN STRING
+ああ……ちょっとな。
+> CONTEXT: Map162/events/2/pages/0/8/Dialogue/yuuma
+Oh...hey.#MTLed
+> END STRING
+
+> BEGIN STRING
+海底トンネルの安全装置なんだが…
+
+どうもその一部が、解除できない状態になっている。
+> CONTEXT: Map162/events/2/pages/0/13/Dialogue/yuuma
+It is a safety device of the submarine tunnel ...
+Some of them are in a state where they can not be
+released.#MTLed
+> END STRING
+
+> BEGIN STRING
+今まではこんな表示は出ていなかったんだが……
+
+爆撃のために、軍本部が変更したのかもしれん…
+> CONTEXT: Map162/events/2/pages/0/17/Dialogue/yuuma
+Until now, such a display did not appear but ...
+The military headquarters may have changed for
+the bombing ...#MTLed
+> END STRING
+
+> BEGIN STRING
+だ、大丈夫なのか！？それ……
+
+最悪、『列車が動かない』とか無いよな…？
+> CONTEXT: Map162/events/2/pages/0/22/Dialogue/kazuya
+Is that okay? ? That……. Worst, "I can't move the
+train" or something ...?#MTLed
+> END STRING
+
+> BEGIN STRING
+ああ、それはないから大丈夫だ。
+
+ 避難が完了して生存者がいないと思ってるのか
+ こちら側から解除されることは想定していないらしい。
+> CONTEXT: Map162/events/2/pages/0/26/Dialogue/yuuma
+Oh, it's okay because it's not.
+Do you think that evacuation is complete and
+there are no survivors? It does not seem to be
+canceled from this side.#MTLed
+> END STRING
+
+> BEGIN STRING
+大部分はこの部屋の操作で解除できるが……
+
+車両へのロックは、一階下の『車両制御室』で
+直接解除するしかなさそうだ……
+> CONTEXT: Map162/events/2/pages/0/31/Dialogue/yuuma
+Most can be canceled by the operation of this
+room...The lock to the vehicle is in the
+"Vehicle control room" below the first floor
+It seems that I can only cancel directly ...#MTLed
+> END STRING
+
+> BEGIN STRING
+ここでの作業が終わったら
+一回、ここより地下に降りる必要がある。
+
+もう少し、時間がかかりそうだ……
+> CONTEXT: Map162/events/2/pages/0/36/Dialogue/yuuma
+When the work here is over. It is necessary to go
+down underground from here once.
+It will take some more time ...#MTLed
+> END STRING
+
+> BEGIN STRING
+一階下の『車両制御室』だな……
+
+よし、僕が行ってくる。
+> CONTEXT: Map162/events/2/pages/0/42/Dialogue/kazuya
+It is "Vehicle control room" of the first floor
+lower...OK, I will come.#MTLed
+> END STRING
+
+> BEGIN STRING
+すまない……助かるよ、\\N[1]
+> CONTEXT: Map162/events/2/pages/0/49/Dialogue/yuuma
+I'm sorry...I will save, \\N[1]#MTLed
+> END STRING
+
+> BEGIN STRING
+ 俺はここで、発車の準備を進めてる。
+
+ 何かあったら、無線で連絡してくれ。
+> CONTEXT: Map162/events/2/pages/0/51/Dialogue/yuuma
+Here I am preparing for the departure.
+Please contact me by radio if there is anything.#MTLed
+> END STRING
+
+> BEGIN STRING
+どうした？
+
+何か聞きたい事でもあるのか？
+> CONTEXT: Map162/events/2/pages/1/0/Dialogue/yuuma
+> CONTEXT: Map162/events/2/pages/2/0/Dialogue/yuuma
+What happened? Is it something you want to hear?#MTLed
+> END STRING
+
+> BEGIN STRING
+車両制御室について
+> CONTEXT: Map162/events/2/pages/1/4/Choice/0
+About vehicle control room#MTLed
+> END STRING
+
+> BEGIN STRING
+コールドスリープ解除
+> CONTEXT: Map162/events/2/pages/1/4/Choice/1
+> CONTEXT: Map162/events/2/pages/2/4/Choice/0
+cancellation of cryogenic stasis#MTLed
+> END STRING
+
+> BEGIN STRING
+ミカについて
+> CONTEXT: Map162/events/2/pages/1/4/Choice/2
+> CONTEXT: Map162/events/2/pages/2/4/Choice/1
+About Micah#MTLed
+> END STRING
+
+> BEGIN STRING
+生存者について
+> CONTEXT: Map162/events/2/pages/1/4/Choice/3
+> CONTEXT: Map162/events/2/pages/2/4/Choice/2
+About survivors#MTLed
+> END STRING
+
+> BEGIN STRING
+車両制御室は、\\C[2]この部屋のすぐ近くにある
+
+階段を降りて、道なりに進んだ先だ。
+> CONTEXT: Map162/events/2/pages/1/6/Dialogue/yuuma
+The vehicle control room is\\C[2] Close to this room
+Get off the stairs and follow the road.#MTLed
+> END STRING
+
+> BEGIN STRING
+この通信室から、スタッフ専用通路を進むだけだから
+
+迷うほど入り組んではいないだろう。
+> CONTEXT: Map162/events/2/pages/1/10/Dialogue/yuuma
+From this communication room, it is just going
+through the staff dedicated passage
+It may not be so complicated as lost.#MTLed
+> END STRING
+
+> BEGIN STRING
+操作も、パネルを見ればすぐ分かるはずだ。
+
+ 分からなければ、無線で指示をする。
+> CONTEXT: Map162/events/2/pages/1/14/Dialogue/yuuma
+The operation should be understood immediately by
+looking at the panel. If you do not know, give
+instructions by radio.#MTLed
+> END STRING
+
+> BEGIN STRING
+ユウマ、さっきエレベーター内で話してた
+
+『僕のコールドスリープが解除されたのは偶然じゃない』
+　っていうのは……？
+> CONTEXT: Map162/events/2/pages/1/20/Dialogue/kazuya
+> CONTEXT: Map162/events/2/pages/2/6/Dialogue/kazuya
+Yuuma, I just talked in the elevator
+"It's no accident that my cryogenic stasis has
+been lifted". Is that ...?#MTLed
+> END STRING
+
+> BEGIN STRING
+……………避難が完了したら、各施設の主要電源を落とし
+通信網もオフラインにする。
+
+それが、本来の手順だ。
+> CONTEXT: Map162/events/2/pages/1/25/Dialogue/yuuma
+> CONTEXT: Map162/events/2/pages/2/11/Dialogue/yuuma
+...................... After the evacuation is
+complete, turn off the main power of each
+facility. Make the communication network offline.
+That is the original procedure.#MTLed
+> END STRING
+
+> BEGIN STRING
+だが、ミカはこの通信室で
+密かにシェルターの機能を遠隔でオンラインに戻し
+
+ なにか細工を行っているようだった……。
+> CONTEXT: Map162/events/2/pages/1/30/Dialogue/yuuma
+> CONTEXT: Map162/events/2/pages/2/16/Dialogue/yuuma
+But, in this communication room Micah
+Secretly put the shelter function back online
+remotely. It seemed to be doing some work ....#MTLed
+> END STRING
+
+> BEGIN STRING
+俺は彼女を問いただそうとしたが……
+
+彼女はただひたすら、謝りながら逃げていった……
+> CONTEXT: Map162/events/2/pages/1/35/Dialogue/yuuma
+> CONTEXT: Map162/events/2/pages/2/21/Dialogue/yuuma
+I tried to ask her, but...She just ran away
+while apologizing ...#MTLed
+> END STRING
+
+> BEGIN STRING
+『こんなはずじゃなかった』
+ 『こうするしかなかった』……
+
+そして、『許して』と……
+> CONTEXT: Map162/events/2/pages/1/39/Dialogue/yuuma
+> CONTEXT: Map162/events/2/pages/2/25/Dialogue/yuuma
+"it was not supposed to be like this"
+"I had no choice but to do this ..."
+And "forgive me" and ...#MTLed
+> END STRING
+
+> BEGIN STRING
+じゃあ、ミカは
+
+ その時に僕のコールドスリープを……？
+> CONTEXT: Map162/events/2/pages/1/44/Dialogue/kazuya
+> CONTEXT: Map162/events/2/pages/2/30/Dialogue/kazuya
+Well, Micah is. At that time my cryogenic stasis
+...?#MTLed
+> END STRING
+
+> BEGIN STRING
+おそらくな………
+
+彼女はすぐに接続を切ってしまったから
+その時はどんな細工をしたのか分からなかったんだ。
+> CONTEXT: Map162/events/2/pages/1/48/Dialogue/yuuma
+> CONTEXT: Map162/events/2/pages/2/34/Dialogue/yuuma
+Probably ......... Because she disconnected soon
+At that time, I had no idea what kind of work I
+did.#MTLed
+> END STRING
+
+> BEGIN STRING
+だが、俺は万が一に備え、
+シェルターとの通信をオンラインのままにしていた。
+
+そしたら、案の定………というわけだ。
+> CONTEXT: Map162/events/2/pages/1/53/Dialogue/yuuma
+> CONTEXT: Map162/events/2/pages/2/39/Dialogue/yuuma
+But I prepare for the event, Communication with
+the shelter was left online. Then, it is the rule
+of the plan.......#MTLed
+> END STRING
+
+> BEGIN STRING
+だから、僕が目覚めたとき
+
+港へのライフラインだけが光っていたのか……
+> CONTEXT: Map162/events/2/pages/1/58/Dialogue/kazuya
+> CONTEXT: Map162/events/2/pages/2/44/Dialogue/kazuya
+So, when I wake up. Is only the lifeline to the
+port shining?#MTLed
+> END STRING
+
+> BEGIN STRING
+今だから推測できるが……
+
+彼女は、街の悪魔にお前を始末させたかったんだろうな…
+> CONTEXT: Map162/events/2/pages/1/62/Dialogue/yuuma
+> CONTEXT: Map162/events/2/pages/2/48/Dialogue/yuuma
+I can guess now, but...She would have wanted
+the city's demon to get rid of you ...#MTLed
+> END STRING
+
+> BEGIN STRING
+避難が終わったシェルターでの、不慮の事故…
+
+俺に見つからなければ、そうなっていただろう…
+> CONTEXT: Map162/events/2/pages/1/66/Dialogue/yuuma
+> CONTEXT: Map162/events/2/pages/2/52/Dialogue/yuuma
+An accidental accident at a shelter where
+evacuation is over...If I didn't find it, I
+would have been so ...#MTLed
+> END STRING
+
+> BEGIN STRING
+ミカが、MOWの工作員だと分かったのは
+
+カマソッソに拐われた後に残された
+彼女のUSBメモリを調べたときだ。
+> CONTEXT: Map162/events/2/pages/1/74/Dialogue/yuuma
+> CONTEXT: Map162/events/2/pages/2/60/Dialogue/yuuma
+It turned out that Micah was a M.O.W. agent
+It was left after being caught in Camazotz
+It was time to check her USB memory.#MTLed
+> END STRING
+
+> BEGIN STRING
+その中には、大学時代からの俺の記録……
+
+特に軍に入ってからの様子を事細かに記載した
+ メール転送用のデータがあった……
+> CONTEXT: Map162/events/2/pages/1/79/Dialogue/yuuma
+> CONTEXT: Map162/events/2/pages/2/65/Dialogue/yuuma
+Among them is my record from college ...
+In particular, the situation after entering the
+military was described in detail
+There was data for mail forwarding ...#MTLed
+> END STRING
+
+> BEGIN STRING
+転送先アドレスは文字化けしていて分からなかったが…
+
+送信者の欄には、彼女のＭ.Ｏ.Ｗでの
+ メンバーコードが記載されていたよ…
+> CONTEXT: Map162/events/2/pages/1/84/Dialogue/yuuma
+> CONTEXT: Map162/events/2/pages/2/70/Dialogue/yuuma
+I did not know the forwarding address was garbled
+but...In the Sender field, her M.O.W.
+The member code was listed ...#MTLed
+> END STRING
+
+> BEGIN STRING
+…………笑えるだろ。
+
+ 彼女が軍に入ったのは、俺が好きだったからじゃない
+俺を監視するためだったんだ。
+> CONTEXT: Map162/events/2/pages/1/89/Dialogue/yuuma
+> CONTEXT: Map162/events/2/pages/2/75/Dialogue/yuuma
+............ You can laugh. She entered the army
+not because I liked it. It was to watch me.#MTLed
+> END STRING
+
+> BEGIN STRING
+だから、無理して俺と同じく実動部隊に入隊して……
+
+不馴れな銃を持って……
+> CONTEXT: Map162/events/2/pages/1/94/Dialogue/yuuma
+> CONTEXT: Map162/events/2/pages/2/80/Dialogue/yuuma
+So, I forced myself to join a production unit
+like me...I got an unfamiliar gun ...#MTLed
+> END STRING
+
+> BEGIN STRING
+…………だが、後から気になって調べてみたが
+
+『お前を始末する理由』はどこにも記載がなかった。
+> CONTEXT: Map162/events/2/pages/1/102/Dialogue/yuuma
+> CONTEXT: Map162/events/2/pages/2/88/Dialogue/yuuma
+...... but I was worried later and I checked
+"Why you kill you" was not mentioned anywhere.#MTLed
+> END STRING
+
+> BEGIN STRING
+彼女にとってもお前や、あるいは俺が危険だと知ったのは
+
+ つい最近なのかもしれないな……
+> CONTEXT: Map162/events/2/pages/1/106/Dialogue/yuuma
+> CONTEXT: Map162/events/2/pages/2/92/Dialogue/yuuma
+I also found that you and I are dangerous for her
+Maybe just recently ...#MTLed
+> END STRING
+
+> BEGIN STRING
+この街を脱出する生存者っていうのは
+
+ユウマたちの部隊が最後だったの？
+> CONTEXT: Map162/events/2/pages/1/112/Dialogue/kazuya
+> CONTEXT: Map162/events/2/pages/2/98/Dialogue/kazuya
+Survivors who escape from this city are
+Was Yuuma's unit last?#MTLed
+> END STRING
+
+> BEGIN STRING
+いや………正確には違う。
+
+ 俺の部隊は『市民の避難誘導の最後尾』ってだけだ。
+> CONTEXT: Map162/events/2/pages/1/116/Dialogue/yuuma
+> CONTEXT: Map162/events/2/pages/2/102/Dialogue/yuuma
+No .... Not exactly. My unit is just "the tail
+end of the evacuation guidance of citizens".#MTLed
+> END STRING
+
+> BEGIN STRING
+別任務でこの街に派遣された部隊もいたが
+
+彼らはヘリや輸送機など、別の脱出手段を独自に持っている。
+> CONTEXT: Map162/events/2/pages/1/120/Dialogue/yuuma
+> CONTEXT: Map162/events/2/pages/2/106/Dialogue/yuuma
+Some units were dispatched to this town on
+separate missions. They have their own escape
+means, such as helicopters and transport planes.#MTLed
+> END STRING
+
+> BEGIN STRING
+だがどれも、あまり安全な脱出手段とも言えない……
+
+実際、消息が途絶えた部隊も少なくないからな……
+> CONTEXT: Map162/events/2/pages/1/124/Dialogue/yuuma
+> CONTEXT: Map162/events/2/pages/2/110/Dialogue/yuuma
+But none of them can be said to be a very safe
+way to escape...In fact, there are not many
+troops who have lost news ...#MTLed
+> END STRING
+
+> BEGIN STRING
+市民の避難に、地上から港へ向かうルートが使われたのは
+
+空がハーピーモドキで溢れていたからだ。
+> CONTEXT: Map162/events/2/pages/1/128/Dialogue/yuuma
+> CONTEXT: Map162/events/2/pages/2/114/Dialogue/yuuma
+The route from the ground to the port was used to
+evacuate citizens. The sky was full of Beetle
+Harpy.#MTLed
+> END STRING
+
+> BEGIN STRING
+軍の戦闘ヘリならともかく、市民を乗せた輸送機なんかは
+
+真っ先に標的にされかねないからな。
+> CONTEXT: Map162/events/2/pages/1/132/Dialogue/yuuma
+> CONTEXT: Map162/events/2/pages/2/118/Dialogue/yuuma
+Aside from military battle helicopters, transport
+aircraft carrying citizens. It could be targeted
+for the first time.#MTLed
+> END STRING
+
+> BEGIN STRING
+ああ………
+
+無防備な弱いやつを狙うんだっけ、ハーピーモドキ……
+> CONTEXT: Map162/events/2/pages/1/140/Dialogue/kazuya
+> CONTEXT: Map162/events/2/pages/2/126/Dialogue/kazuya
+Oh………. Don't aim at the weak and unprotected,
+Beetle Harpy ......#MTLed
+> END STRING
+
+> BEGIN STRING
+そういえば……\\N[1]。
+
+お前、公園で誰か生存者に会わなかったか？
+> CONTEXT: Map162/events/2/pages/1/145/Dialogue/yuuma
+> CONTEXT: Map162/events/2/pages/2/131/Dialogue/yuuma
+Speaking of which...\\N[1]. 
+Did you not see any survivors in the park?#MTLed
+> END STRING
+
+> BEGIN STRING
+市民の避難誘導をしていた１部隊と……
+
+トシアキ隊長の部隊とも、そこで連絡が途絶えたんだ。
+> CONTEXT: Map162/events/2/pages/1/149/Dialogue/yuuma
+> CONTEXT: Map162/events/2/pages/2/135/Dialogue/yuuma
+With one unit that was giving evacuation guidance
+for citizens...There was no contact with the
+Toshiaki captain's unit either.#MTLed
+> END STRING
+
+> BEGIN STRING
+トシアキ…？
+> CONTEXT: Map162/events/2/pages/1/153/Dialogue/kazuya
+> CONTEXT: Map162/events/2/pages/2/139/Dialogue/kazuya
+Toshiaki ...?#MTLed
+> END STRING
+
+> BEGIN STRING
+少し老けた顔の、銀髪の男だ。
+
+ 彼がそう簡単にやられる男だとは思えない。
+ 公園の中で見かけなかったか？
+> CONTEXT: Map162/events/2/pages/1/155/Dialogue/yuuma
+> CONTEXT: Map162/events/2/pages/2/141/Dialogue/yuuma
+A silver-haired man with a slightly old face.
+I do not think that he is a man who can do it so
+easily. Did you see it in the park?#MTLed
+> END STRING
+
+> BEGIN STRING
+黙っておく
+> CONTEXT: Map162/events/2/pages/1/170/Choice/0
+> CONTEXT: Map162/events/2/pages/2/156/Choice/0
+Keep silent#MTLed
+> END STRING
+
+> BEGIN STRING
+真実を話す
+> CONTEXT: Map162/events/2/pages/1/170/Choice/1
+> CONTEXT: Map162/events/2/pages/2/156/Choice/1
+Speak the truth#MTLed
+> END STRING
+
+> BEGIN STRING
+いや…………知らない。
+
+ 公園では、生きた人間には出会わなかったよ。
+> CONTEXT: Map162/events/2/pages/1/172/Dialogue/kazuya
+> CONTEXT: Map162/events/2/pages/2/158/Dialogue/kazuya
+No...I do not know. In the park, I did not meet
+living people.#MTLed
+> END STRING
+
+> BEGIN STRING
+そうか……
+> CONTEXT: Map162/events/2/pages/1/177/Dialogue/yuuma
+> CONTEXT: Map162/events/2/pages/2/163/Dialogue/yuuma
+Really……#MTLed
+> END STRING
+
+> BEGIN STRING
+彼は………死んだよ。
+
+ 悪魔に喰われた……。
+> CONTEXT: Map162/events/2/pages/1/181/Dialogue/kazuya-b
+> CONTEXT: Map162/events/2/pages/2/167/Dialogue/kazuya-b
+He is...dead. I was captured by demon ....#MTLed
+> END STRING
+
+> BEGIN STRING
+助けようとしたけど……身体が溶けてて……
+
+手遅れだった………
+> CONTEXT: Map162/events/2/pages/1/185/Dialogue/kazuya-b
+> CONTEXT: Map162/events/2/pages/2/171/Dialogue/kazuya-b
+I tried to help...but my body melted ...
+It was too late .........#MTLed
+> END STRING
+
+> BEGIN STRING
+そうか………
+
+彼も軍人だ、覚悟はしていただろうさ。
+> CONTEXT: Map162/events/2/pages/1/190/Dialogue/yuuma
+> CONTEXT: Map162/events/2/pages/2/176/Dialogue/yuuma
+Really………. He is also a soldier, I was prepared.#MTLed
+> END STRING
+
+> BEGIN STRING
+彼は………トシアキ隊長は、俺の師匠だ。
+
+ 軍に入りたての頃、彼の部隊に配属され、鍛えられた。
+> CONTEXT: Map162/events/2/pages/1/196/Dialogue/yuuma
+> CONTEXT: Map162/events/2/pages/2/182/Dialogue/yuuma
+He is ......... Captain Toshiaki is my teacher.
+When I was in the military, I was assigned to his
+unit and trained.#MTLed
+> END STRING
+
+> BEGIN STRING
+俺が自分の部隊を持ったあとも、世話を焼いてくれて
+
+相棒のような人だったよ……
+> CONTEXT: Map162/events/2/pages/1/200/Dialogue/yuuma
+> CONTEXT: Map162/events/2/pages/2/186/Dialogue/yuuma
+Even after I have my own unit, he will take care
+of me. I was like a buddy ...#MTLed
+> END STRING

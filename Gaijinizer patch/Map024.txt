@@ -1,0 +1,504 @@
+﻿> GAIJINIZER PATCH FILE
+> BEGIN STRING
+心を閉ざした
+> CONTEXT: Map024/events/4/pages/2/0/NamePop
+> CONTEXT: Map024/events/1/pages/2/0/NamePop
+> CONTEXT: Map024/events/8/pages/2/0/NamePop
+> CONTEXT: Map024/events/28/pages/2/0/NamePop
+> CONTEXT: Map024/events/9/pages/2/0/NamePop
+> CONTEXT: Map024/events/11/pages/2/0/NamePop
+> CONTEXT: Map024/events/12/pages/2/0/NamePop
+> CONTEXT: Map024/events/13/pages/2/0/NamePop
+> CONTEXT: Map024/events/30/pages/2/0/NamePop
+> CONTEXT: Map024/events/14/pages/2/0/NamePop
+> CONTEXT: Map024/events/15/pages/2/0/NamePop
+> CONTEXT: Map024/events/5/pages/2/0/NamePop
+> CONTEXT: Map024/events/3/pages/2/0/NamePop
+> CONTEXT: Map193/events/4/pages/2/0/NamePop
+> CONTEXT: Map193/events/1/pages/2/0/NamePop
+> CONTEXT: Map193/events/8/pages/2/0/NamePop
+> CONTEXT: Map193/events/28/pages/2/0/NamePop
+> CONTEXT: Map193/events/9/pages/2/0/NamePop
+> CONTEXT: Map193/events/11/pages/2/0/NamePop
+> CONTEXT: Map193/events/12/pages/2/0/NamePop
+> CONTEXT: Map193/events/13/pages/2/0/NamePop
+> CONTEXT: Map193/events/30/pages/2/0/NamePop
+> CONTEXT: Map193/events/14/pages/2/0/NamePop
+> CONTEXT: Map193/events/15/pages/2/0/NamePop
+> CONTEXT: Map193/events/17/pages/2/0/NamePop
+> CONTEXT: Map193/events/18/pages/2/0/NamePop
+> CONTEXT: Map193/events/19/pages/2/0/NamePop
+> CONTEXT: Map194/events/8/pages/2/0/NamePop
+> CONTEXT: Map194/events/28/pages/2/0/NamePop
+> CONTEXT: Map194/events/9/pages/2/0/NamePop
+> CONTEXT: Map194/events/11/pages/2/0/NamePop
+> CONTEXT: Map194/events/12/pages/2/0/NamePop
+> CONTEXT: Map194/events/13/pages/2/0/NamePop
+> CONTEXT: Map194/events/30/pages/2/0/NamePop
+> CONTEXT: Map194/events/14/pages/2/0/NamePop
+> CONTEXT: Map194/events/15/pages/2/0/NamePop
+I_closed_my_heart#MTLed
+> END STRING
+
+> BEGIN STRING
+猫「ようこそ、『マイルーム』へ。」
+> CONTEXT: Map024/events/25/pages/0/2/Dialogue
+Cat「Welcome to "My Room"」#Ron
+> END STRING
+
+> BEGIN STRING
+『マイルーム』とは？
+> CONTEXT: Map024/events/25/pages/0/4/Choice/0
+What is "my room"?#MTLed
+> END STRING
+
+> BEGIN STRING
+『マイルーム』で出来ること
+> CONTEXT: Map024/events/25/pages/0/4/Choice/1
+Things you can do in "my room"#MTLed
+> END STRING
+
+> BEGIN STRING
+『青銅の箱』について
+> CONTEXT: Map024/events/25/pages/0/4/Choice/2
+About “Bronze box”#MTLed
+> END STRING
+
+> BEGIN STRING
+『キズナイベント』について
+> CONTEXT: Map024/events/25/pages/0/4/Choice/3
+About bonding#MTLed
+> END STRING
+
+> BEGIN STRING
+マイルームは、君を訪ねてきた悪魔たちが集う
+
+君専用の悪魔住居施設さ。
+> CONTEXT: Map024/events/25/pages/0/6/Dialogue
+My Room is your exclusive demonic residence where
+demons who've come to visit you gather.#Ron
+> END STRING
+
+> BEGIN STRING
+\\C[2]ストーリー中で君に優しくされたり、助けられたりすると
+
+登場チャプターが終わったタイミングでここに来る。
+> CONTEXT: Map024/events/25/pages/0/10/Dialogue
+\\C[2]If you treat them kindly and help them out,
+they will come here when the chapter finishes.#Ron
+> END STRING
+
+> BEGIN STRING
+ 逆に\\C[2]対象の悪魔を一定数殺したり、助けなかったりすると
+
+彼女たちはこの部屋にはやってこない。
+> CONTEXT: Map024/events/25/pages/0/14/Dialogue
+Conversely, \\C[2]if you don't help them or you kill
+too many of them, they won't end up making their way
+to one of these rooms.#Ron
+> END STRING
+
+> BEGIN STRING
+ただし後者……\\C[2]単純にイベントを見逃したりしただけで
+
+友好度は０ではない場合、チャプター選択でまたやり直せば来てくれる。
+> CONTEXT: Map024/events/25/pages/0/18/Dialogue
+However... \\C[2]if you simply missed a certain event and
+your friendship level is not at zero, you can redo the
+chapter and try again.#Ron
+> END STRING
+
+> BEGIN STRING
+マイルームで、相手の悪魔にできることは三種類。
+
+ 『会話』『搾精』『プレゼント』だよ。
+> CONTEXT: Map024/events/25/pages/0/25/Dialogue
+There are three things you can do with demons in "My Room".
+"Chat", "Milking", "Give a present".#Ron
+> END STRING
+
+> BEGIN STRING
+ 『会話』は、そのまんまだね。
+
+ 襲われてたときとは違った、意外な話が聞けるかも。
+> CONTEXT: Map024/events/25/pages/0/29/Dialogue
+"Chat" is just that. You might be able to hear a
+surprisingly different story from when you were attacked.#Ron
+> END STRING
+
+> BEGIN STRING
+ただ、踏み込んだ話を聞くとするなら
+
+ それなりの『友好度』が必要になるだろうけど。
+> CONTEXT: Map024/events/25/pages/0/33/Dialogue
+However, you're going to need a certain "Friendship Level"
+in order to talk about some things.#Ron
+> END STRING
+
+> BEGIN STRING
+ 『プレゼント』は、自分の所持品の中から
+
+悪魔に与えることで、『友好度』を上げるんだ。
+> CONTEXT: Map024/events/25/pages/0/37/Dialogue
+"Give a present" is giving something from your inventory to
+a demon, this will raise your friendship level.#Ron
+> END STRING
+
+> BEGIN STRING
+ 種族によって好き嫌いがあるし、ものによっては
+
+受け取ってもらえないこともある。
+> CONTEXT: Map024/events/25/pages/0/41/Dialogue
+Each kind of demon has their own likes and dislikes. And
+depending on what you try to give them, they might not
+accept it.#Ron
+> END STRING
+
+> BEGIN STRING
+プレゼント専用のアイテムもあるって噂だし
+
+無理に自分の使うアイテムをあげる必要はないよ。
+> CONTEXT: Map024/events/25/pages/0/45/Dialogue
+It's rumored that there's items specifically made to be
+gifts. You don't have to give them items that are useful
+to you.#Ron
+> END STRING
+
+> BEGIN STRING
+そして最後に『搾精』。
+
+ 内容は負けたときのやつだけど、『友好度』が上がるよ
+> CONTEXT: Map024/events/25/pages/0/49/Dialogue
+And finally, "milking". Although it's the sort of thing you
+see when you're defeated, it'll raise your friendship
+level.#Ron
+> END STRING
+
+> BEGIN STRING
+強引に犯されるわけじゃないから、前戯があったり
+
+ ある程度スピードや、イくタイミングを決められる。
+> CONTEXT: Map024/events/25/pages/0/53/Dialogue
+It's not like you'll be being raped or anything, so
+there'll be foreplay, and you'll be able to control the
+speed and timing to an extent.#Ron
+> END STRING
+
+> BEGIN STRING
+ 一度に５回までイくことができて、その都度友好度が
+
+大きく上がっていくよ。
+> CONTEXT: Map024/events/25/pages/0/57/Dialogue
+You'll be able to cum up to five times, and each time your
+friendship level will go up significantly.#Ron
+> END STRING
+
+> BEGIN STRING
+…………え？そんなことをしたら、悪魔に魂を
+
+渡すことになるんじゃないかって？
+> CONTEXT: Map024/events/25/pages/0/61/Dialogue
+Now then, are you wondering about whether doing that kind
+of thing will mean giving your soul to a demon?#Ron
+> END STRING
+
+> BEGIN STRING
+この『冥府の間』にいる限り、君の魂はこの空間の主……
+
+\\C[2]メインホールにいるクッション君の管轄下なんだ。
+> CONTEXT: Map024/events/25/pages/0/65/Dialogue
+As long as you're in this "Hell's Gate", \\C[2]your soul is
+under the jurisdiction of the lord of this place, Lord
+Cushion.#Ron
+> END STRING
+
+> BEGIN STRING
+だから他者が既に保有する君の魂を、悪魔が奪うことはできないし
+
+負けたときみたいに、心を蝕まれる心配もない。
+> CONTEXT: Map024/events/25/pages/0/69/Dialogue
+So demons won't be able to take your soul as it's already
+owned by another. You will also not gain any demonic
+corruption like you normally do when you lose.#Ron
+> END STRING
+
+> BEGIN STRING
+悪魔達も、それは承知でマイルームに来ているはずさ
+
+だから、素直に離してくれると思うよ。
+> CONTEXT: Map024/events/25/pages/0/73/Dialogue
+The demons will be coming here knowing that as well. So I
+think they will obediently release you when asked.#Ron
+> END STRING
+
+> BEGIN STRING
+『青銅の箱』は、それぞれの悪魔の友好度が
+
+２５以上になったら宝箱からもらえるアイテムだね。
+> CONTEXT: Map024/events/25/pages/0/80/Dialogue
+"Bronze box" is an item you can get from a demon's treasure
+box when your friendship level is 25 or higher.#Ron
+> END STRING
+
+> BEGIN STRING
+\\C[2]それを装備した状態で休憩所のベッドで寝ると
+
+該当の悪魔と戦うことになるんだ。
+> CONTEXT: Map024/events/25/pages/0/84/Dialogue
+\\C[2]When you go to bed in a rest area with this item
+equipped, you will fight against that demon.#Ron
+> END STRING
+
+> BEGIN STRING
+友好度や心蝕度はそのままだし
+なにより、夢ではないから、お金も普通に手に入る。
+\\C[2]エンカウントで戦う状況を、休憩室にいるままで
+体験できるってワケだね。
+> CONTEXT: Map024/events/25/pages/0/88/Dialogue
+Friendship and corruption levels won't change, and best of
+all, it's not a dream so you'll get money from the
+encounter like you normally would. \\C[2]You'll have the
+experience of a proper encounter fight without leaving
+the rest area.#Ron
+> END STRING
+
+> BEGIN STRING
+でも、気をつけてね、その悪魔は\\C[2]マイルームで会っている
+あなたを襲わない悪魔とは別種だから。
+
+普通に襲ってくるし、搾精を狙ってくるよ。
+> CONTEXT: Map024/events/25/pages/0/93/Dialogue
+But be careful, those demons\\C[2] will be different from the
+ones you meet here. They'll attack you like a demon
+normally would, and try to milk you.#Ron
+> END STRING
+
+> BEGIN STRING
+厳密に言えば、それは希望の悪魔と会うための箱じゃなく
+
+キミの記憶の奥底にいる『敵としての』悪魔を
+呼び出して、箱の中で戦わせているんだ。
+> CONTEXT: Map024/events/25/pages/0/98/Dialogue
+Strictly speaking, it's not an item you use to meet your
+ideal demon. It's something you use to call forth a memory
+of an enemy demon from the depths of your mind, and fight
+it.#Ron
+> END STRING
+
+> BEGIN STRING
+だから、ボスはきっと
+
+\\C[2]『キミが現実世界で戦った時と同じ状況』で出てくるよ。
+> CONTEXT: Map024/events/25/pages/0/103/Dialogue
+So if you summon a boss, \\C[2]you'll be fighting it in the same
+circumstances you fought that boss in the real world.#Ron
+> END STRING
+
+> BEGIN STRING
+マイルームに来た悪魔との友好度が９９まで溜まると
+
+\\C[2]キズナイベント\\C[0]っていう特殊な雑談が出来るよ。
+> CONTEXT: Map024/events/25/pages/0/110/Dialogue
+If your friendship level with a demon here reaches 99,
+you'll be able to have a special \\C[2]bonding\\C[0] chat.#Ron
+> END STRING
+
+> BEGIN STRING
+これは、その悪魔とキミとの信頼を確固たるモノにするため
+
+特殊な搾精で、お互いに強く結ばれるんだ。
+> CONTEXT: Map024/events/25/pages/0/114/Dialogue
+Through a special milking session, the trust between you
+and that demon will be solidified. And you'll both be
+strongly bonded together.#Ron
+> END STRING
+
+> BEGIN STRING
+これを閲覧すれば、友好度が１００まで上がるようになる。
+
+つまり、最後の宝箱を空けることが出来るんだよ。
+> CONTEXT: Map024/events/25/pages/0/118/Dialogue
+When you do this, your friendship level will increase to
+100. In other words, you'll be able to empty the last
+treasure box.#Ron
+> END STRING
+
+> BEGIN STRING
+『見逃す』の自動発動
+> CONTEXT: Map024/events/25/pages/0/127/Choice/0
+Can only "Let her go"#Ron
+> END STRING
+
+> BEGIN STRING
+マイルームに来た悪魔と戦うとき
+
+『最後の２択』がなくなってることに気付いた？
+> CONTEXT: Map024/events/25/pages/0/129/Dialogue
+When fighting a demon who has come to "My Room", did you
+notice that the two choices you get at the end of a battle
+have disappeared?#Ron
+> END STRING
+
+> BEGIN STRING
+マイルームに来た時点で
+
+その悪魔に『トドメを刺す』事は出来なくなるんだ。
+> CONTEXT: Map024/events/25/pages/0/133/Dialogue
+You aren't able to finish off any demons who have come
+to "My Room".#Ron
+> END STRING
+
+> BEGIN STRING
+経験値も手に入らないし、お金も半分になっちゃうけど
+
+\\C[2]友好度が高まれば、きっと『説得』で良い結果になるよ。
+友好度が高まったら、試してみても良いんじゃないかな？
+> CONTEXT: Map024/events/25/pages/0/137/Dialogue
+You won't get any experience, and you'll only get half the
+money, but \\C[2]if friendship level gets higher, you'll be able
+to use "Persuade" more effectively. Give it a try if you
+get your friendship levels higher.#Ron
+> END STRING
+
+> BEGIN STRING
+ここは……？
+> CONTEXT: Map024/events/27/pages/0/0/Dialogue/kazuya
+What is this place?#Ron
+> END STRING
+
+> BEGIN STRING
+あなたを求め、悪魔たちが訪れる住居………
+
+あなた専用の『マイルーム』といったところでしょうか……
+> CONTEXT: Map024/events/27/pages/0/2/Dialogue/other1
+These are the residences of demons who wish to
+seek you out. They can be thought of as places
+for your own exclusive use, called "My Rooms".#Ron
+> END STRING
+
+> BEGIN STRING
+貴方はこの先、幾多の女悪魔と出会い、襲われ
+
+犯され、エサになることもあるでしょう。
+> CONTEXT: Map024/events/27/pages/0/6/Dialogue/other1
+You've encountered and been attacked by numerous
+demons up to this point. You've probably also
+been raped and made into food.#Ron
+> END STRING
+
+> BEGIN STRING
+しかし心に留めていただきたいのが
+
+彼女たちは\\C[2]殺意をもって貴方を襲うわけではない事です。
+> CONTEXT: Map024/events/27/pages/0/10/Dialogue/other1
+But what I'd like you to keep in mind is \\C[2]they
+aren't attacking you with murderous intent.#Ron
+> END STRING
+
+> BEGIN STRING
+彼女たちに、\\C[2]慈しみの心で接してあげれば
+
+彼女たちもそれに応えてくれるでしょう。
+> CONTEXT: Map024/events/27/pages/0/14/Dialogue/other1
+\\C[2]If you treat them with affection, they
+will probably respond in kind.#Ron
+> END STRING
+
+> BEGIN STRING
+ここは、そんな彼女たちが何らかの理由で
+
+『貴方ともう一度会いたい』と強く想い、たどり着く場所。
+> CONTEXT: Map024/events/27/pages/0/18/Dialogue/other1
+This place is where those girls who, for one
+reason or another strongly wish to meet you
+again, make their way to.#Ron
+> END STRING
+
+> BEGIN STRING
+その想いは、\\C[2]たとえ人間界で実体を失っていようとも
+
+この場で姿を成すでしょう。
+> CONTEXT: Map024/events/27/pages/0/22/Dialogue/other1
+That wish is, \\C[2]even if I lose my physical form
+in the human world, I will create my form in
+this place.#Ron
+> END STRING
+
+> BEGIN STRING
+誰かが入室した部屋は、\\C[2]扉上の看板が『？？？』から
+
+対象の悪魔の名前に変わっているはずです。
+> CONTEXT: Map024/events/27/pages/0/26/Dialogue/other1
+The rooms that have someone in them \\C[2]have the
+sign over the door changed from "???" to the
+name of the demon in question.#Ron
+> END STRING
+
+> BEGIN STRING
+そのほかに、なにかご不明な点がありましたら
+
+そこにいる白猫に、なんなりとお聞きください。
+> CONTEXT: Map024/events/27/pages/0/30/Dialogue/other1
+Other than that, please inquire with the white
+cat over there if there's anything you're not
+sure about.#Ron
+> END STRING
+
+> BEGIN STRING
+ハル＆リズ
+> CONTEXT: Map024/events/9/pages/1/0/NamePop
+> CONTEXT: Map193/events/9/pages/1/0/NamePop
+> CONTEXT: Map194/events/9/pages/1/0/NamePop
+Haru_&_Liz#MTLed
+> END STRING
+
+> BEGIN STRING
+【←】チャプター２
+> CONTEXT: Map024/events/10/pages/0/0/Dialogue
+> CONTEXT: Map193/events/10/pages/0/0/Dialogue
+【←】 Chapter 2#MTLed
+> END STRING
+
+> BEGIN STRING
+【→】チャプター３・４
+> CONTEXT: Map024/events/29/pages/0/0/Dialogue
+> CONTEXT: Map193/events/29/pages/0/0/Dialogue
+【→】 Chapters 3 and 4#MTLed
+> END STRING
+
+> BEGIN STRING
+猫「………………もしかして君
+
+　　\\C[2]何回も婚約してない？」
+> CONTEXT: Map024/events/42/pages/1/1/Dialogue
+> CONTEXT: Map194/events/42/pages/1/1/Dialogue
+Cat「.......... maybe you. \\C[2] How many times have you not
+been engaged?」#MTLed
+> END STRING
+
+> BEGIN STRING
+猫「知らないよ……
+
+　\\C[2]人間界を移動できる彼女たちに対して、そんな事して…」
+> CONTEXT: Map024/events/42/pages/1/5/Dialogue
+> CONTEXT: Map194/events/42/pages/1/5/Dialogue
+Cat「I do not know ...... \\C[2] So for those who can move the
+human realm ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+猫「\\C[2]もし本当に結ばれたい相手がいるなら
+
+　　クリアまで１人に決めておいた方が良いかもしれないよ……」
+> CONTEXT: Map024/events/42/pages/1/9/Dialogue
+> CONTEXT: Map194/events/42/pages/1/9/Dialogue
+Cat「\\C[2]If there is someone you really want
+It may be better to decide to one person until clear ...」#MTLed
+> END STRING
+
+> BEGIN STRING
+猫「警告は、したからね…」
+> CONTEXT: Map024/events/42/pages/1/13/Dialogue
+> CONTEXT: Map194/events/42/pages/1/13/Dialogue
+Cat「The warning is ...」#MTLed
+> END STRING

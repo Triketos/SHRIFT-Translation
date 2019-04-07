@@ -1,0 +1,135 @@
+﻿> GAIJINIZER PATCH FILE
+> BEGIN STRING
+\\N[1]は何とか正気を取り戻した！
+> CONTEXT: Map029/events/3/pages/1/8/Dialogue
+> CONTEXT: Map029/events/4/pages/1/8/Dialogue
+> CONTEXT: Map029/events/9/pages/1/8/Dialogue
+> CONTEXT: Map029/events/10/pages/1/8/Dialogue
+> CONTEXT: Map029/events/16/pages/1/8/Dialogue
+> CONTEXT: Map029/events/17/pages/1/8/Dialogue
+> CONTEXT: Map029/events/18/pages/1/8/Dialogue
+> CONTEXT: Map029/events/20/pages/1/8/Dialogue
+> CONTEXT: Map029/events/21/pages/1/8/Dialogue
+> CONTEXT: Map029/events/22/pages/1/8/Dialogue
+> CONTEXT: Map029/events/28/pages/1/8/Dialogue
+> CONTEXT: Map029/events/29/pages/1/8/Dialogue
+> CONTEXT: Map029/events/34/pages/1/8/Dialogue
+> CONTEXT: Map029/events/35/pages/1/8/Dialogue
+> CONTEXT: Map029/events/36/pages/1/8/Dialogue
+> CONTEXT: Map029/events/43/pages/1/8/Dialogue
+> CONTEXT: Map029/events/44/pages/1/8/Dialogue
+> CONTEXT: Map029/events/45/pages/1/8/Dialogue
+> CONTEXT: Map029/events/46/pages/1/8/Dialogue
+> CONTEXT: Map029/events/47/pages/1/8/Dialogue
+> CONTEXT: Map029/events/48/pages/1/8/Dialogue
+\\N[1] managed to regain his sanity!#Ron
+> END STRING
+
+> BEGIN STRING
+照明を操作する機械のようだが
+
+めちゃめちゃに壊されている…
+> CONTEXT: Map029/events/8/pages/0/0/Dialogue
+Like a machine operating a light. smashed up is broken ...#MTLed
+> END STRING
+
+> BEGIN STRING
+クスクス………　　　　　　　　逃げちゃダメ♡
+
+　待ってよぉ♡　　　　　　　　　　　　クスクス………
+> CONTEXT: Map029/events/31/pages/1/3/Dialogue
+*Giggle* ..... Don't run away! ♡ 
+Waaaait ♡ *Giggle* .........#Ron
+> END STRING
+
+> BEGIN STRING
+後ろの方が騒がしい………
+
+どうやら\\C[2]後方のランパスが動き出したようだ……
+> CONTEXT: Map029/events/31/pages/1/7/Dialogue
+It's getting noisy behind you.........
+Looks like \\C[2]the Lampas' behind you have started
+to move...#Ron
+> END STRING
+
+> BEGIN STRING
+"バッテリーを入手"
+> CONTEXT: Map029/events/42/pages/0/0/InlineScript/1:12
+> CONTEXT: Map029/events/60/pages/1/0/InlineScript/1:12
+> CONTEXT: Map031/events/42/pages/0/0/InlineScript/1:12
+> CONTEXT: Map031/events/42/pages/1/0/InlineScript/1:12
+> CONTEXT: Map031/events/28/pages/1/0/InlineScript/1:12
+> CONTEXT: Map032/events/3/pages/0/0/InlineScript/1:12
+> CONTEXT: Map033/events/3/pages/0/9/InlineScript/1:12
+> CONTEXT: Map033/events/3/pages/1/1/InlineScript/1:12
+> CONTEXT: Map279/events/3/pages/0/1/InlineScript/1:12
+"Get Battery"#MTLed
+> END STRING
+
+> BEGIN STRING
+
+　　　　　　            メモの切れ端
+> CONTEXT: Map029/events/57/pages/0/2/Dialogue
+
+Some Notes#Ron
+> END STRING
+
+> BEGIN STRING
+居住区はもうだめだ。
+いたるところに、あの植物の悪魔がいる。
+居住区の動力室から、ドアを壊して抜け出したはいいが
+この区画で身を潜めても、すぐに見つかるだろう。
+> CONTEXT: Map029/events/57/pages/0/6/Dialogue
+The residential section's no good anymore. Those plant
+demons are everywhere you look. It'd be nice to break in
+the power room door in the residential area and escape, 
+but they'll quickly find me even if I conceal myself.#Ron
+> END STRING
+
+> BEGIN STRING
+やつらは、他の悪魔に比べて知性が高いらしい。
+
+ 俺たちは、通電も兼ねてる通路のバッテリーを抜いて
+ シャッターを、パネル操作で開閉できないようにする。
+> CONTEXT: Map029/events/57/pages/0/12/Dialogue
+They say they have a higher intelligence compared to
+other demons. We've gone ahead and removed the battery
+that powers the shutters so they can't operate the
+panel and open or close the shutters.#Ron
+> END STRING
+
+> BEGIN STRING
+もし、この予備バッテリーを取りに来て、
+地上を目指そうとする生存者がこのメモを読んだなら
+
+ あんたの幸運を祈らせてくれ。
+> CONTEXT: Map029/events/57/pages/0/18/Dialogue
+If you're a survivor reading this note who's come to
+pick up this spare battery, and you're trying to
+reach the surface, I pray for your good fortune.#Ron
+> END STRING
+
+> BEGIN STRING
+この先には、もっと恐ろしい化け物がいる。
+
+兄が、自身を犠牲にしてシャッターの向こうで食い止めている。
+> CONTEXT: Map029/events/57/pages/0/24/Dialogue
+There's a more terrible monster ahead.
+My brother's sacrificing himself holding the thing
+at bay on the other side of the shutter.#Ron
+> END STRING
+
+> BEGIN STRING
+すまない兄さん……みんなをまもれなくて
+> CONTEXT: Map029/events/57/pages/0/29/Dialogue
+I'm sorry, my brother... I couldn't protect everyone.#Ron
+> END STRING
+
+> BEGIN STRING
+あま　　　　いに　お
+
+　　　　　　い
+> CONTEXT: Map029/events/57/pages/0/35/Dialogue
+Swee        t sm el
+        l#Ron
+> END STRING

@@ -1,0 +1,266 @@
+﻿> GAIJINIZER PATCH FILE
+> BEGIN STRING
+全書完成率が３０％以上必要。
+（現在の値：\\V[20]％）
+> CONTEXT: Map025/events/8/pages/0/0/Dialogue
+30% or more complete writing rate is required.
+(Current value: \\V[20] %)#MTLed
+> END STRING
+
+> BEGIN STRING
+全書完成率が４０％以上必要。
+（現在の値：\\V[20]％）
+> CONTEXT: Map025/events/3/pages/0/0/Dialogue
+40% or more complete writing rate is required.
+(Current value: \\V[20] %)#MTLed
+> END STRING
+
+> BEGIN STRING
+全書完成率が５０以上必要。
+（現在の値：\\V[20]％）
+> CONTEXT: Map025/events/7/pages/0/0/Dialogue
+A complete book completion rate of 50 or more is required.
+(Current value: \\V[20] %)#MTLed
+> END STRING
+
+> BEGIN STRING
+全書完成率が５５以上必要。
+（現在の値：\\V[20]％）
+> CONTEXT: Map025/events/10/pages/0/0/Dialogue
+A complete book completion rate of 55 or more is required.
+(Current value: \\V[20] %)#MTLed
+> END STRING
+
+> BEGIN STRING
+全書完成率が６５以上必要。
+（現在の値：\\V[20]％）
+> CONTEXT: Map025/events/11/pages/0/0/Dialogue
+The complete book completion rate needs 65 or more.
+(Current value: \\V[20] %)#MTLed
+> END STRING
+
+> BEGIN STRING
+全書完成率が７５以上必要。
+（現在の値：\\V[20]％）
+> CONTEXT: Map025/events/12/pages/0/0/Dialogue
+A complete book completion rate of 75 or more is required.
+(Current value: \\V[20] %)#MTLed
+> END STRING
+
+> BEGIN STRING
+全書完成率が５％以上必要。
+（現在の値：\\V[20]％）
+> CONTEXT: Map025/events/9/pages/0/0/Dialogue
+A completeness rate of 5% or more is required.
+(Current value: \\V[20] %)#MTLed
+> END STRING
+
+> BEGIN STRING
+全書完成率が１５％以上必要。
+（現在の値：\\V[20]％）
+> CONTEXT: Map025/events/13/pages/0/0/Dialogue
+A completeness rate of 15% or more is required.
+(Current value: \\V[20] %)#MTLed
+> END STRING
+
+> BEGIN STRING
+全書完成率が２５％以上必要。
+（現在の値：\\V[20]％）
+> CONTEXT: Map025/events/14/pages/0/0/Dialogue
+25% or more complete writing rate is required.
+(Current value: \\V[20] %)#MTLed
+> END STRING
+
+> BEGIN STRING
+全書完成率が８０％以上必要。
+（現在の値：\\V[20]％）
+> CONTEXT: Map025/events/15/pages/0/0/Dialogue
+80% or more complete writing rate is required.
+(Current value: \\V[20] %)#MTLed
+> END STRING
+
+> BEGIN STRING
+全書完成率が９０％以上必要。
+（現在の値：\\V[20]％）
+> CONTEXT: Map025/events/16/pages/0/0/Dialogue
+90% or more complete writing rate is required.
+(Current value: \\V[20] %)#MTLed
+> END STRING
+
+> BEGIN STRING
+全書完成率が１００％必要。
+（現在の値：\\V[20]％）
+> CONTEXT: Map025/events/17/pages/0/0/Dialogue
+100% complete book completion rate is required.
+(Current value: \\V[20] %)#MTLed
+> END STRING
+
+> BEGIN STRING
+"ＳＰが５０増加！！"
+> CONTEXT: Map025/events/17/pages/1/7/InlineScript/1:12
+> CONTEXT: Map216/events/3/pages/1/8/InlineScript/1:12
+"SP increased by 50!!"#MTLed
+> END STRING
+
+> BEGIN STRING
+お待ちしておりました。\\N[1]様。
+> CONTEXT: Map025/events/28/pages/0/0/Dialogue/other1
+I've been expecting you, \\N[1]-sama.#Ron
+> END STRING
+
+> BEGIN STRING
+ここは………！？
+> CONTEXT: Map025/events/28/pages/0/2/Dialogue/kazuya
+What is this place...!?#Ron
+> END STRING
+
+> BEGIN STRING
+ここは記憶の書庫。
+
+人の生涯が、本として記録され保管されていく場所…
+> CONTEXT: Map025/events/28/pages/0/4/Dialogue/other1
+This is a memory library. Where people's lives
+are recorded and kept as books...#Ron
+> END STRING
+
+> BEGIN STRING
+我が主のような、魂を選別する立場の者は
+
+ここで生前の行いを見定め、判断材料とします。
+> CONTEXT: Map025/events/28/pages/0/8/Dialogue/other1
+Those in charge of sorting souls, such as Our
+Lord, come here to ascertain the actions taken
+in a person's lifetime, and use that to decide
+their fate.#Ron
+> END STRING
+
+> BEGIN STRING
+いうなれば、『閻魔帳』……というものですかね。
+
+私は秘書として、ここの管理を任されています。
+> CONTEXT: Map025/events/28/pages/0/12/Dialogue/other1
+You could call it a "Gradebook" of sorts.
+As a secretary, I am assigned to manage this
+place.#Ron
+> END STRING
+
+> BEGIN STRING
+そして、貴方に『たのみたい事』がこちらです…。
+
+この『悪魔全書』を是非、利用して欲しいのです。
+> CONTEXT: Map025/events/28/pages/0/16/Dialogue/other1
+And the thing I want you to do, is here...
+I would like you to utilize this "Complete Book
+of Demons".#Ron
+> END STRING
+
+> BEGIN STRING
+『悪魔全書』？
+
+その赤い本のことか？
+> CONTEXT: Map025/events/28/pages/0/20/Dialogue/kazuya
+"Complete Book of Demons"? Do you mean that red
+book?#Ron
+> END STRING
+
+> BEGIN STRING
+この本は、もともと貴方の人生が記録されていた本でした。
+
+しかし先も説明があったように、貴方は理から外れた魂。
+もはや、この冥府の間で裁かれることもありません。
+> CONTEXT: Map025/events/28/pages/0/24/Dialogue/other1
+This book was originally recorded as a book of
+your life. But as explained earlier, you are a
+a soul beyond reason. It can no longer be judged
+by this Hell's Gate.#Ron
+> END STRING
+
+> BEGIN STRING
+そこで、私が不要になったこの本に少々手を加えまして…。
+
+この本には\\C[2]貴方が出会った悪魔の記録がされていきます。
+> CONTEXT: Map025/events/28/pages/0/29/Dialogue/other1
+So I've made some small revisions to this book
+that is no longer necessary. In this book \\C[2]
+your encounters with demons will be recorded.#Ron
+> END STRING
+
+> BEGIN STRING
+ただ会うだけではなく、様々な彼女たちの姿を見れば
+
+それだけ深く、この全書は書き込まれてゆくでしょう。
+> CONTEXT: Map025/events/28/pages/0/33/Dialogue/other1
+And it's more than just meeting them, only by
+seeing all their various forms will you complete
+the entire book.#Ron
+> END STRING
+
+> BEGIN STRING
+貴方には是非、この全書を隅々まで埋めて頂き
+
+私に『証明』して欲しいのです。
+> CONTEXT: Map025/events/28/pages/0/37/Dialogue/other1
+Please fill in this whole book to every corner by
+all means. I want you to "prove" me.#MTLed
+> END STRING
+
+> BEGIN STRING
+『証明』って………一体何を？
+> CONTEXT: Map025/events/28/pages/0/41/Dialogue/kazuya
+"Proof"... What on earth?#Ron
+> END STRING
+
+> BEGIN STRING
+いずれ、お話しします。
+
+ですがそれは、きっと貴方が『悪魔とともに歩む』事を
+選択しなければ、無に帰すのでしょうが……。
+> CONTEXT: Map025/events/28/pages/0/43/Dialogue/other1
+That's a conversation for another day. But if
+you do not choose to "Walk with demons", it
+will surely all be for nothing...#Ron
+> END STRING
+
+> BEGIN STRING
+それでは、私は業務に戻ります。
+
+\\C[2]現実世界へのお帰りは、先程の部屋にある『穴』からどうぞ…
+> CONTEXT: Map025/events/28/pages/0/49/Dialogue/other1
+Well then, I will return to work.
+\\C[2]Please return to the real world using the
+hole in the room before...#Ron
+> END STRING
+
+> BEGIN STRING
+それと、次回よりこの冥府の間へいらっしゃる場合は
+
+\\C[2]休憩所にある、『青い扉』からいつでもどうぞ…。
+> CONTEXT: Map025/events/28/pages/0/53/Dialogue/other1
+Also, if you want to come back to this Hell's
+Gate, feel free to use \\C[2]the "blue door" in
+the rest area...#Ron
+> END STRING
+
+> BEGIN STRING
+私はいつでも見ております。
+
+あなたにとって、この短い旅が
+なにかしらの実りのあるものになりますよう……。
+> CONTEXT: Map025/events/28/pages/0/57/Dialogue/other1
+I'm always keeping an eye on it. I hope this
+short trip was fruitful for you in some way...#Ron
+> END STRING
+
+> BEGIN STRING
+…………………
+
+『悪魔全書』……か。
+> CONTEXT: Map025/events/28/pages/0/71/Dialogue/kazuya
+.............. "Complete Book of Demons"...?#Ron
+> END STRING
+
+> BEGIN STRING
+とりあえず、中身を見てみようかな……。
+> CONTEXT: Map025/events/28/pages/0/75/Dialogue/kazuya
+For now, let's see the contents ....#MTLed
+> END STRING

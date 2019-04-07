@@ -1,0 +1,99 @@
+﻿> GAIJINIZER PATCH FILE
+> BEGIN STRING
+電力室で、居住区の一部の電源を復旧した\\N[1]。
+
+だが、大部分は各部屋の予備電源を手動で動かす必要があった。
+> CONTEXT: Map026/events/1/pages/0/0/Dialogue
+\\N[1] who restored part of the power supply in the
+residential area at the power room. But for the most part,
+it was necessary to manually turn on the backup power in
+each room.#MTLed
+> END STRING
+
+> BEGIN STRING
+そのために、バッテリーを求めて入った部屋には
+
+花粉に引き寄せられるオスを待つ、ランパス達の姿があった。
+> CONTEXT: Map026/events/1/pages/0/4/Dialogue
+For that reason, in the room that I entered for the Battery
+There was a figure of Lampas waiting for a male to be
+attracted to the pollen.#MTLed
+> END STRING
+
+> BEGIN STRING
+加えて、真っ暗闇な部屋を進むのは危険と判断した二人は
+
+いったん部屋を出て、途方にくれていた……。
+> CONTEXT: Map026/events/1/pages/0/8/Dialogue
+In addition, two people who judged it to be dangerous to go
+through a dark room. Once out of the room, I was rude ....#MTLed
+> END STRING
+
+> BEGIN STRING
+ともかく、あのランタンは普通に使えるようだな。
+
+\\C[2]『拾って』『装備して』、さっきの部屋に戻ろう。
+> CONTEXT: Map026/events/1/pages/0/193/Dialogue/yuuma
+Anyway, that lantern seems to be usable normally.
+\\C[2]Pick it up, equip it, and return to your room.#MTLed
+> END STRING
+
+> BEGIN STRING
+…お帰りなさいませ。
+
+アイアンメイデンの撃破、おめでとうございます。
+> CONTEXT: Map026/events/1/pages/0/205/Dialogue/other1
+…Welcome, home. Congratulations on defeating Iron
+Maiden.#MTLed
+> END STRING
+
+> BEGIN STRING
+以上で、体験版の『ストーリー』は終了でございます。
+
+ですが、ゲームのシステムは、もう少し遊べますよ。
+> CONTEXT: Map026/events/1/pages/0/209/Dialogue/other1
+This is the end of the trial version of "Story".
+However, the game system can play a little more.#MTLed
+> END STRING
+
+> BEGIN STRING
+『悪魔全書』の部屋と『マイルーム』を解放しました。
+
+\\C[2]この部屋の左右上部にある場所ですね。
+> CONTEXT: Map026/events/1/pages/0/213/Dialogue/other1
+Freed the rooms of 'all demons' and 'my room'.
+\\C[2]It is a place in the upper left and right of this
+room.#MTLed
+> END STRING
+
+> BEGIN STRING
+マイルームは、内容がかなり制限されていますが
+
+『こういう機能がある』という目安になればと…。
+> CONTEXT: Map026/events/1/pages/0/217/Dialogue/other1
+My room is quite limited in content
+If it becomes a standard called "Include that
+function".#MTLed
+> END STRING
+
+> BEGIN STRING
+『悪魔全書』は\\C[2]この体験版で出来る内容で
+１００％まで埋めることが出来ます。
+\\C[0]コンプリートを目指すのもありですが、体験版内容は
+\\C[2]本編に引き継げないのでご注意くださいませ…。
+> CONTEXT: Map026/events/1/pages/0/221/Dialogue/other1
+'All demons'\\C[2] With what can be done with this
+trial version. You can fill up to 100%.
+\\C[0]There is also a goal to complete, but the trial
+version. \\C[2]Please keep in mind that it can not be
+taken over to the main part.#MTLed
+> END STRING
+
+> BEGIN STRING
+それじゃあ、あとは好き勝手遊んでくれ。
+
+製品版で、また会えたときはよろしくな。
+> CONTEXT: Map026/events/1/pages/0/226/Dialogue/クッション君
+Well then play around yourself.
+Nice to meet you again in the product version.#MTLed
+> END STRING

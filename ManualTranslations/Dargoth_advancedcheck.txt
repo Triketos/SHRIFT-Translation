@@ -1,164 +1,703 @@
 ﻿# TextLine [Tab] Message: Incorrect Length XX/XX, Incorrect Line Numbers XX/XX, Possible wrong translations [Japanese list], [Tab] Line length, [Tab] Line Number
-Warning char limit	64/60' in Armors/5/description/:	A special hospital gown that protects against viruses. Obviously
-Warning char limit	62/60' in Armors/5/description/:	not effective if removed and direct contact is made with skin.
-Warning char limit	27/24' in Armors/11/name/:	High-capacity Mag (Handgun)
-Warning char limit	31/24' in Armors/12/name/:	High-capacity Mag (Machine Gun)
-Warning short line	42/50' in Armors/44/description/:	A rather sturdy guantlet. Reduces physical
-Warning Name	'バーゲスト' found but not:'barghest' in text:	Treasured collar given by Master Hecate.¶Increases gun attack by 30.
-Warning short line	35/50' in Armors/46/description/:	A lucky charm. 10% chance to remain
-Warning Name	'朦朧' found but not:'Dazed' in text:	A lucky charm. 10% chance to remain¶alert after ejaculating.
-Warning short line	39/50' in Armors/47/description/:	A lucky charm. Protects from repetition
-Warning short line	42/50' in Armors/48/description/:	Bell that rings with a pure sound to drive
-Warning short line	39/50' in Armors/54/description/:	Guarantees that you'll be attacked when
-Warning short line	37/50' in Armors/205/description/:	Upon sleeping, the named monster will
+Info line length	6	in Actors/1/name/	1	Kazuya
+Info line length	13	in Armors/1/name/	1	Hospital Gown
+Info line length	54	in Armors/5/description/	1	A special hospital gown that protects the skin against
+Info line length	47	in Armors/5/description/	2	viruses. It becomes ineffective went taken off.
+Info line length	20	in Armors/2/name/	1	Hospital Gown (Easy)
+Info line length	20	in Armors/3/name/	1	Hospital Gown (Hard)
+Info line length	17	in Armors/4/name/	1	Hell's Indulgence
+Info line length	52	in Armors/4/description/	1	With this equipped, you will return to Mr. Cushion's
+Info line length	46	in Armors/4/description/	2	office in hell instead of getting a game over.
+Info line length	25	in Armors/5/name/	1	Hospital Gown (Spectator)
+Info line length	7	in Armors/9/name/	1	Lantern
+Info line length	29	in Armors/9/description/	1	Provides light in dark areas.
+Info line length	40	in Armors/9/description/	2	Cannot be held with a two-handed weapon.
+Info line length	5	in Armors/10/name/	1	Scope
+Info line length	36	in Armors/10/description/	1	Simple scope with a crosshair sight.
+Info line length	33	in Armors/10/description/	2	Slightly raises handgun accuracy.
+Info line length	27	in Armors/11/name/	1	High-capacity Mag (Handgun)
+Info line length	53	in Armors/12/description/	1	Combines two magazines when reloading in battle only.
+Info line length	52	in Armors/12/description/	2	Will maintain bullet count even if unequipped after.
+Info line length	31	in Armors/12/name/	1	High-capacity Mag (Machine Gun)
+Info line length	5	in Armors/13/name/	1	Stock
+Info line length	35	in Armors/13/description/	1	A stock made to increase stability.
+Info line length	31	in Armors/13/description/	2	Raises machine pistol accuracy.
+Info line length	37	in Armors/20/description/	1	Ceremonial dagger that repels demons.
+Info line length	34	in Armors/20/description/	2	Its effect is negligible, however.
+Info line length	11	in Armors/40/name/	1	Silver Ring
+Info line length	55	in Armors/40/description/	1	A ring of pure silver that represents strength of will.
+Info line length	31	in Armors/40/description/	2	Restores 5% willpower per turn.
+Info line length	8	in Armors/41/name/	1	Old ring
+Info line length	55	in Armors/41/description/	1	A ring so tarnished you can't guess its original color.
+Info line length	30	in Armors/41/description/	2	Restores 5% vitality per turn.
+Info line length	9	in Armors/42/name/	1	Red Scarf
+Info line length	17	in Armors/42/description/	1	Bright red scarf.
+Info line length	25	in Armors/42/description/	2	Raises maximum willpower.
+Info line length	11	in Armors/43/name/	1	Green Scarf
+Info line length	14	in Armors/43/description/	1	A green scarf.
+Info line length	24	in Armors/43/description/	2	Raises maximum vitality.
+Info line length	8	in Armors/44/name/	1	Gauntlet
+Info line length	25	in Armors/44/description/	1	A rather sturdy guantlet.
+Info line length	48	in Armors/44/description/	2	Reduces physical damage and chances of bleeding.
+Info line length	15	in Armors/45/name/	1	Barghest Collar
+Info line length	15	in Armors/46/name/	1	Good Luck Charm
+Info line length	10	in Armors/47/name/	1	Will Charm
+Info line length	14	in Armors/47/description/	1	A lucky charm.
+Info line length	49	in Armors/47/description/	2	Protects from repetition of [Enslaved] to [Food].
+Info line length	20	in Armors/48/name/	1	Monster Warding Bell
+Info line length	42	in Armors/48/description/	1	Bell that rings with a pure sound to drive
+Info line length	33	in Armors/48/description/	2	off evil. Reduces encounter rate.
+Info line length	22	in Armors/49/name/	1	Fighting Spirit Choker
+Info line length	48	in Armors/49/description/	1	A choker that makes your body craves for battle.
+Info line length	40	in Armors/49/description/	2	Increases weapon attack but raises lust.
+Info line length	14	in Armors/50/name/	1	Magic Magatama
+Info line length	41	in Armors/50/description/	1	A magatama with mysterious magical power.
+Info line length	32	in Armors/50/description/	2	Slightly increases magic attack.
+Info line length	14	in Armors/51/name/	1	Agile Magatama
+Info line length	41	in Armors/51/description/	1	A magatama with mysterious magical power.
+Info line length	27	in Armors/51/description/	2	Slightly increases agility.
+Info line length	12	in Armors/52/name/	1	Orange Scarf
+Info line length	16	in Armors/52/description/	1	An orange scarf.
+Info line length	43	in Armors/52/description/	2	Raises both maximum willpower and vitality.
+Info line length	17	in Armors/53/name/	1	Condemned Clothes
+Info line length	50	in Armors/53/description/	1	Black clothes made from a part of the Iron Maiden.
+Info line length	13	in Armors/54/name/	1	Succubus Bell
+Info line length	39	in Armors/54/description/	1	Guarantees that you'll be attacked when
+Info line length	24	in Armors/54/description/	2	you sleep in a pink bed.
+Info line length	21	in Armors/200/name/	1	Bronze Box [Barghest]
+Info line length	59	in Armors/205/description/	1	Locks you in a closed space with the monster upon sleeping.
+Info line length	59	in Armors/205/description/	2	\\C[2]No escape from the fight and mind corruption still applies.
+Info line length	37	in Armors/211/description/	1	Upon sleeping, the named monster will
+Info line length	42	in Armors/211/description/	2	attack and devour you. \\C[2]There is no escape.
 Warning Name	'心蝕' found but not:'mind corruption' in text:	Upon sleeping, the named monster will¶attack and devour you. \\C[2]There is no escape.
-Warning char limit	25/24' in Armors/5/name/:	Hospital Gown (Spectator)
-Warning char limit	62/60' in Commonevents/199/18/Dialogue:	\\N[1] is gradually becoming captivated by his opponent...
+Info line length	19	in Armors/201/name/	1	Bronze Box [Lampas]
+Info line length	24	in Armors/202/name/	1	Bronze Box [Iron Maiden]
+Info line length	19	in Armors/203/name/	1	Bronze Box [Empuse]
+Info line length	10	in Armors/20/name/	1	Night Edge
+Info line length	5	in Classes/15/name/	1	Human
+Info line length	19	in Classes/2/name/	1	Human (Half-Maiden)
+Info line length	3	in Classes/3/name/	1	Dog
+Info line length	5	in Enemies/12/name/	1	Yuuma
+Info line length	5	in Enemies/14/name/	1	Meira
+Info line length	6	in Enemies/51/name/	1	Hecate
+Info line length	12	in Enemies/499/name/	1	■■■Chapter 1
+Info line length	9	in Enemies/500/name/	1	■Barghest
+Info line length	17	in Enemies/531/name/	1	(Temptation Pose)
+Info line length	23	in Enemies/502/name/	1	(Insertion: Temptation)
+Info line length	20	in Enemies/510/name/	1	(Insertion: Cowgirl)
+Info line length	21	in Enemies/504/name/	1	(Insertion: Gangbang)
+Info line length	8	in Enemies/586/name/	1	(Bonded)
+Info line length	7	in Enemies/506/name/	1	■Lampas
+Info line length	9	in Enemies/508/name/	1	(Footjob)
+Info line length	20	in Enemies/509/name/	1	(Insertion: Embrace)
+Info line length	12	in Enemies/512/name/	1	■Iron Maiden
+Info line length	18	in Enemies/514/name/	1	(Insertion: Bound)
+Info line length	20	in Enemies/515/name/	1	(Insertion: Milking)
+Info line length	15	in Enemies/516/name/	1	(Behind: Bound)
+Info line length	17	in Enemies/517/name/	1	(Behind: Milking)
+Info line length	7	in Enemies/519/name/	1	■Empuse
+Info line length	8	in Enemies/520/name/	1	(Caught)
+Info line length	15	in Enemies/521/name/	1	(Blowjob Ready)
+Info line length	17	in Enemies/522/name/	1	(Blowjob Milking)
+Info line length	9	in Enemies/583/name/	1	(Embrace)
+Info line length	18	in Enemies/597/name/	1	(Embraced Milking)
+Info line length	12	in Enemies/529/name/	1	■■■Chapter 2
+Info line length	12	in Enemies/559/name/	1	■■■Chapter 3
+Info line length	12	in Enemies/587/name/	1	■■■Chapter 4
+Info line length	11	in Enemies/225/name/	1	Iron Maiden
+Info line length	6	in Enemies/42/name/	1	Lampas
+Info line length	6	in Enemies/232/name/	1	Empuse
+Info line length	12	in Items/1/name/	1	Energy Drink
+Info line length	36	in Items/1/description/	1	Recovers 50% willpower and vitality.
+Info line length	44	in Items/2/description/	1	Edible herb, recovers all vitality if eaten.
+Info line length	39	in Items/2/description/	2	Can be used to make tea in a safe room.
 Warning Name	'抵抗力' found but not:'will ' (or any other translation) in text:	Edible herb, recovers all vitality if eaten.¶Can be used to make tea in a safe room.
 Warning Name	'性欲' found but not:'lust' in text:	Edible herb, recovers all vitality if eaten.¶Can be used to make tea in a safe room.
+Info line length	8	in Items/3/name/	1	Vitamins
+Info line length	43	in Items/3/description/	1	Packed with essential nutrients. Heals 100%
+Info line length	44	in Items/3/description/	2	willpower and prevents weakness for 5 turns.
+Info line length	10	in Items/503/name/	1	Adrenaline
+Info line length	45	in Items/4/description/	1	Removes [Ecstasy], [Charmed], and [Enslaved].
+Info line length	53	in Items/4/description/	2	Recovers 20% willpower and vitality for a short time.
 Warning Name	'状態異常' found but not:'status ' (or any other translation) in text:	Removes [Ecstasy], [Charmed], and [Enslaved].¶Recovers 20% willpower and vitality for a short time.
-Warning short line	42/50' in Items/6/description/:	Stops [Bleed] and reduces lust by 10 for 5
-Warning short line	49/50' in Items/8/description/:	Heals 20% willpower and vitality and cures mental
-Warning short line	48/50' in Items/9/description/:	Candy made from hardened lampas nectar. Restores
-Warning char limit	31/24' in Items/83/name/:	Rare Vintage [Corrupt Pleasure]
+Info line length	7	in Items/5/name/	1	Bandage
+Info line length	14	in Items/5/description/	1	Stops [Bleed].
+Info line length	42	in Items/6/description/	1	Stops [Bleed] and reduces lust by 10 for 5
+Info line length	37	in Items/6/description/	2	turns. Also prevents ecstasy effects.
+Info line length	6	in Items/506/name/	1	Ration
+Info line length	51	in Items/7/description/	1	Army rations. Nutritious, but bland. Fully restores
+Info line length	45	in Items/7/description/	2	vitality and prevents exhaustion for 5 turns.
+Info line length	10	in Items/8/name/	1	Painkiller
+Info line length	49	in Items/8/description/	1	Heals 20% willpower and vitality and cures mental
+Info line length	15	in Items/8/description/	2	status effects.
+Info line length	11	in Items/508/name/	1	Lampas Drop
+Info line length	48	in Items/9/description/	1	Candy made from hardened lampas nectar. Restores
+Info line length	51	in Items/9/description/	2	75% vitality and prevents ecstasy for a short time.
+Info line length	12	in Items/509/name/	1	Lampas Syrup
+Info line length	55	in Items/10/description/	1	Syrup made from refined lampas nectar. Combat use only.
+Info line length	58	in Items/10/description/	2	Fully restores willpower and vitality, but debilitate you.
+Info line length	16	in Items/13/name/	1	Tattered Bandage
+Info line length	42	in Items/13/description/	1	\\C[10]Why do you hold on to such a useless item?
+Info line length	54	in Items/14/description/	1	Military issue flashbang. Used to escape from battles,
+Info line length	29	in Items/14/description/	2	except for bosses and events.
+Info line length	7	in Items/15/name/	1	Battery
+Info line length	51	in Items/15/description/	1	A large battery. Needed to open the shutters in the
+Info line length	21	in Items/15/description/	2	residential quarters.
+Info line length	14	in Items/20/name/	1	Handgun Rounds
+Info line length	21	in Items/21/name/	1	9mm Parabellum Rounds
+Info line length	52	in Items/36/description/	1	Unused rounds from old magazines. Can be combined to
+Info line length	37	in Items/36/description/	2	create full magazines in a safe room.
+Info line length	12	in Items/22/name/	1	Handgun Mag.
+Info line length	24	in Items/22/description/	1	Used to reload handguns.
+Info line length	21	in Items/23/name/	1	Machine Pistol Rounds
+Info line length	19	in Items/24/name/	1	Machine Pistol Mag.
+Info line length	31	in Items/24/description/	1	Used to reload machine pistols.
+Info line length	14	in Items/34/name/	1	Shotgun Shells
+Info line length	7	in Items/520/name/	1	Holster
+Info line length	51	in Items/28/description/	1	Used to switch to the Invigorating Sword in battle.
+Info line length	47	in Items/28/description/	2	\\C[2]Once swapped, cannot swap again in that battle.
+Info line length	7	in Items/45/name/	1	Diamond
+Info line length	52	in Items/45/description/	1	A very expensive rock. Sells for a lot. Or you could
+Info line length	38	in Items/45/description/	2	use it to express your eternal love...
+Info line length	10	in Items/60/name/	1	Custom Kit
+Info line length	35	in Items/60/description/	1	A kit used for modifying a firearm.
+Info line length	15	in Items/80/name/	1	Engagement Ring
+Info line length	12	in Items/81/name/	1	Monster Meat
+Info line length	10	in Items/82/name/	1	Magic Rock
+Info line length	31	in Items/83/name/	1	Rare Vintage [Corrupt Pleasure]
+Info line length	7	in Items/85/name/	1	Emerald
+Info line length	12	in Items/100/name/	1	Barghest Paw
 Warning Name	'鋭爪' found but not:'claw' in text:	Barghest Paw
-Warning short line	47/50' in Items/102/description/:	A jewel dropped by the Iron Maiden. It has lost
-Warning short line	16/40' in Map003/events/1/pages/2/313/Dialogue:	Difficulty：\\C[3] Easy
-Warning short line	18/40' in Map003/events/1/pages/2/331/Dialogue:	Difficulty:\\C[14] Normal
+Info line length	45	in Items/100/description/	1	A paw with sharp nails ripped off a barghest.
+Info line length	16	in Items/101/name/	1	Lampas Head Leaf
+Info line length	41	in Items/101/description/	1	A large, sturdy leaf ripped off a lampas.
+Info line length	19	in Items/102/name/	1	Jewel[Broken Heart]
+Info line length	47	in Items/102/description/	1	A jewel dropped by the Iron Maiden. It has lost
+Info line length	11	in Items/102/description/	2	its luster.
+Info line length	10	in Items/103/name/	1	Empuse Arm
+Info line length	37	in Items/103/description/	1	A giant insect arm ripped off Empuse.
+Info line length	12	in Items/14/name/	1	Stun Grenade
+Info line length	12	in Items/14/name/	1	Stun Grenade
+Info line length	8	in Items/505/name/	1	Morphine
+Info line length	4	in Items/501/name/	1	Herb
+Warning Name	'心蝕' found but not:'mind corruption' in text:	Difficulty: \\C[24]Spectator Mode\\C[0]¶For people who want to see the H-scenes but have their¶spirits broken even on easy. Not even a game anymore.¶\\C[10]Joke ending, and some events and scenes are unavailable.
+Warning text does not match structure (*if(**)*) in Map002/events/1/pages/0/305/Choice/0
+Warning text does not match structure (*if(**)*) in Map002/events/1/pages/0/305/Choice/1
+Warning text does not match structure (*if(**)*) in Map002/events/1/pages/0/305/Choice/2
+Warning text does not match structure (*if(**)*) in Map002/events/1/pages/0/305/Choice/3
+Warning text does not match structure ("Hint: *") in Map002/events/1/pages/0/1565/InlineScript/1:25
+Warning short line	18/40' in Map003/events/1/pages/2/635/Dialogue:	Difficulty:\\C[14] Normal
 Warning Name	'状態異常' found but not:'status ' (or any other translation) in text:	Difficulty:\\C[14] Normal¶\\C[0]Items and damage as intended by the developer.¶For people who want to feel as utterly fucked as the¶protagonist.
 Warning Name	'出来ないことはない' found but not:'Nothing is impossible' in text:	Difficulty：\\C[30] Hard\\C[0]¶Damage taken, vitality consumption, and lust increases¶raised by \\C[2]1.5x\\C[0]. It's not impossible, so they say.¶Strongly not recommended for your first play.
-Warning text does not match structure (*if(**)*) in Map002/events/1/pages/0/238/Choice/0
-Warning text does not match structure (*if(**)*) in Map002/events/1/pages/0/238/Choice/1
-Warning text does not match structure (*if(**)*) in Map002/events/1/pages/0/238/Choice/2
-Warning text does not match structure (*if(**)*) in Map002/events/1/pages/0/238/Choice/3
-Warning text does not match structure ("Hint: *") in Map002/events/1/pages/0/797/InlineScript/1:25
-Warning Name	'心蝕' found but not:'mind corruption' in text:	Difficulty: \\C[24]Spectator Mode\\C[0]¶For people who want to see the H-scenes but have their¶spirits broken even on easy. Not even a game anymore.¶\\C[10]Joke ending, and some events and scenes are unavailable.
 Warning Name	'救済措置って？' found but not:'What assistance?' in text:	[Choose Assistance]
-Warning text does not match structure (*en(**)*) in Map019/events/5/pages/0/29/Choice/0
-Warning Name	'そろそろ' found but not:'soon' in text:	Yeah, it's not translated anyway.¶……それでは、そろそろ時間となります。¶しばしのお別れですが、またいずれ会うことになるでしょう。
+Warning short line	16/40' in Map003/events/1/pages/2/617/Dialogue:	Difficulty：\\C[3] Easy
+Warning Name	'そろそろ' found but not:'soon' in text:	...I see, it's time then.¶For now, I'll take my leave.
 Info line length	10	in Scripts/Vocab/11:21	1	"Purchase"
 Info line length	1	in Scripts/Vocab/61:21	1	"%s　takes %s damage!"
-Info line length	8	in Scripts/悪魔全書【設定】/111:29	1	"Traits"
-Info line length	9	in Scripts/悪魔全書【設定】/141:29	1	"Details"
 Info line length	16	in Scripts/スキルツリー/1485:12	1	"Regular Attack"
 Info line length	1	in Scripts/スキルツリー/1216:78	1	"LR　： Change party member"
+Info line length	23	in Skills/1/description/	1	Deal damage to one foe.
+Info line length	43	in Skills/2/description/	1	Focus on defense and reduce willpower lost.
+Info line length	11	in Skills/3/name/	1	Concentrate
+Info line length	57	in Skills/3/description/	1	Close your eyes and hone your resolve. Restores willpower
+Info line length	59	in Skills/3/description/	2	and reduces lust.\\C[10] Not recommended when aroused or inserted.
 Warning Name	'押し倒し' found but not:'pinned down ' (or any other translation) in text:	Close your eyes and hone your resolve. Restores willpower¶and reduces lust.\\C[10] Not recommended when aroused or inserted.
 Warning Name	'やめて' found but not:'leave ' (or any other translation) in text:	Close your eyes and hone your resolve. Restores willpower¶and reduces lust.\\C[10] Not recommended when aroused or inserted.
 Warning Name	'挿入' found but not:'Insertion' in text:	Close your eyes and hone your resolve. Restores willpower¶and reduces lust.\\C[10] Not recommended when aroused or inserted.
 Warning Name	'精神統一' found but not:'concentrate' in text:	 attempts to clear his mind.
-Warning char limit	61/60' in Skills/5/description/:	Slap yourself to try and regain composure. Gives a 50% chance
+Info line length	55	in Skills/4/description/	1	Take a deep breath to restore vitality based on current
+Info line length	60	in Skills/4/description/	2	vitality.\\C[10] Hampered by [Bleed], [Exhaustion], and [Weakness].
+Info line length	9	in Skills/5/name/	1	Face Slap
+Info line length	61	in Skills/5/description/	1	Slap yourself to try and regain composure. Gives a 50% chance
+Info line length	58	in Skills/5/description/	2	to recover from [Puppet], [Panic], [Ecstasy], and [Charm].
+Info line length	10	in Skills/6/name/	1	Face Punch
+Info line length	54	in Skills/318/description/	1	Punch yourself to try and regain composure. Guaranteed
+Info line length	56	in Skills/318/description/	2	recovery from [Puppet], [Panic], [Ecstasy], and [Charm].
+Info line length	8	in Skills/502/name/	1	Struggle
+Info line length	44	in Skills/7/description/	1	Try to escape from bindings and impairments.
+Info line length	25	in Skills/7/description/	2	Lowest chance of success.
+Info line length	12	in Skills/8/name/	1	Violent Rage
+Info line length	57	in Skills/8/description/	1	Try your hardest to escape from bindings and impairments.
+Info line length	57	in Skills/8/description/	2	Tires you out more, but is nearly guaranteed to free you.
 Warning Name	'暴れる' found but not:'Violent Rage' in text:	Try your hardest to escape from bindings and impairments.¶Tires you out more, but is nearly guaranteed to free you.
 Warning Name	'気力' found but not:'vitality' in text:	Try your hardest to escape from bindings and impairments.¶Tires you out more, but is nearly guaranteed to free you.
+Info line length	8	in Skills/9/name/	1	Persuade
+Info line length	57	in Skills/9/description/	1	Try to talk your opponent into leaving you alone once per
+Info line length	50	in Skills/9/description/	2	battle. Success rate depends on friendship rating.
 Warning Name	'悪魔' found but not:'monster ' (or any other translation) in text:	Try to talk your opponent into leaving you alone once per¶battle. Success rate depends on friendship rating.
 Warning Name	'説得' found but not:'dissuade' in text:	 tries to persuade his opponent.
+Info line length	48	in Skills/10/description/	1	Put away your gun to show that you mean no harm.
+Info line length	48	in Skills/10/description/	2	Must first perform in order to use [\\I[842]Persuade].
+Info line length	44	in Skills/11/description/	1	Draw your gun and point it at your opponent.
+Info line length	46	in Skills/11/description/	2	Opponent may assume combat stance in response.
+Info line length	7	in Skills/12/name/	1	Give Up
+Info line length	43	in Skills/12/description/	1	Yield to temptation and offer up your body.
+Info line length	36	in Skills/12/description/	2	\\C[10]No tactical use whatsoever. Suicide.
+Info line length	14	in Skills/13/name/	1	Remove Clothes
+Info line length	60	in Skills/712/description/	1	Get naked and show you mean no harm. Opponent may invite you
+Info line length	59	in Skills/712/description/	2	you to have sex. No effect if opponent is in combat stance.
 Warning Name	'誘惑状態' found but not:'temptation pose' in text:	Get naked and show you mean no harm. Opponent may invite you¶you to have sex. No effect if opponent is in combat stance.
+Info line length	11	in Skills/14/name/	1	Get Dressed
+Info line length	54	in Skills/14/description/	1	Put on your clothes to better resist pleasure attacks.
+Info line length	35	in Skills/14/description/	2	Opponent may give up on temptation.
 Warning Name	'誘惑状態' found but not:'temptation pose' in text:	Put on your clothes to better resist pleasure attacks.¶Opponent may give up on temptation.
+Info line length	11	in Skills/243/name/	1	Become Food
+Info line length	48	in Skills/243/description/	1	Stop resisting and resign yourself to your fate.
+Info line length	39	in Skills/243/description/	2	\\C[10]No changing your mind. This is suicide.
+Info line length	10	in Skills/16/name/	1	Hip Thrust
+Info line length	48	in Skills/671/description/	1	Give in to your mating instincts and pound away.
+Info line length	45	in Skills/671/description/	2	\\C[10]Greatly reduces willpower and increases lust.
+Info line length	15	in Skills/17/name/	1	Evasive Posture
+Info line length	47	in Skills/519/description/	1	Prepare yourself to avoid attacks for the turn.
+Info line length	52	in Skills/519/description/	2	Depending on status ailments, safety not guaranteed.
+Info line length	9	in Skills/18/name/	1	Kick Away
+Info line length	52	in Skills/18/description/	1	\\C[2]Use your legs\\C[0] to free yourself from binds and holds.
+Info line length	54	in Skills/18/description/	2	Reliably frees your arms and pushes opponents off you.
 Warning Name	'蹴り飛ばし' found but not:'Kick Away' in text:	\\C[2]Use your legs\\C[0] to free yourself from binds and holds.¶Reliably frees your arms and pushes opponents off you.
 Warning Name	'押し倒し' found but not:'pinned down ' (or any other translation) in text:	\\C[2]Use your legs\\C[0] to free yourself from binds and holds.¶Reliably frees your arms and pushes opponents off you.
+Info line length	9	in Skills/437/name/	1	Shake Off
+Info line length	50	in Skills/19/description/	1	\\C[2]Use your hands\\C[0] to pry off restraints and bindings.
+Info line length	45	in Skills/19/description/	2	Reliably frees your legs, nipples, and mouth.
 Warning Name	'拘束' found but not:'bind ' (or any other translation) in text:	 tries to pry his opponent away from him!
-Warning short line	37/50' in Skills/81/description/:	Reload your handgun. Remaining rounds
+Info line length	17	in Skills/20/name/	1	Defensive Posture
+Info line length	55	in Skills/20/description/	1	Prepare yourself to greatly reduce damage for the turn.
+Info line length	53	in Skills/20/description/	2	Saves your willpower, but won't stop status ailments.
+Info line length	12	in Skills/21/name/	1	Melee Attack
+Info line length	26	in Skills/21/description/	1	Damages a single opponent.
+Info line length	51	in Skills/21/description/	2	\\C[10]If opponent is luring you in, this move is suicide.
+Info line length	10	in Skills/22/name/	1	Love Drain
+Info line length	8	in Skills/23/name/	1	Teleport
+Info line length	12	in States/179/name/	1	Energy Drain
+Info line length	28	in Skills/35/description/	1	Increases maximum willpower.
+Info line length	11	in Skills/35/name/	1	Will Up MAX
+Info line length	10	in Skills/36/name/	1	Vit Up Lv1
+Info line length	27	in Skills/45/description/	1	Increases maximum vitality.
+Info line length	10	in Skills/37/name/	1	Vit Up Lv2
+Info line length	10	in Skills/38/name/	1	Vit Up Lv3
+Info line length	10	in Skills/39/name/	1	Vit Up Lv4
+Info line length	10	in Skills/40/name/	1	Vit Up Lv5
+Info line length	10	in Skills/41/name/	1	Vit Up Lv6
+Info line length	10	in Skills/42/name/	1	Vit Up Lv7
+Info line length	10	in Skills/43/name/	1	Vit Up Lv8
+Info line length	10	in Skills/44/name/	1	Vit Up Lv9
+Info line length	11	in Skills/45/name/	1	Vit Up Lv10
+Info line length	31	in Skills/46/description/	1	Physical attack strength up 5%.
+Info line length	13	in Skills/47/name/	1	Attack Up Lv2
+Info line length	32	in Skills/47/description/	1	Physical attack strength up 10%.
+Info line length	13	in Skills/48/name/	1	Attack Up Lv3
+Info line length	32	in Skills/48/description/	1	Physical attack strength up 15%.
+Info line length	13	in Skills/49/name/	1	Attack Up Lv4
+Info line length	32	in Skills/49/description/	1	Physical attack strength up 20%.
+Info line length	13	in Skills/50/name/	1	Attack Up MAX
+Info line length	32	in Skills/50/description/	1	Physical attack strength up 25%.
+Info line length	30	in Skills/51/description/	1	Magical attack strength up 5%.
+Info line length	12	in Skills/52/name/	1	Magic Up Lv2
+Info line length	31	in Skills/52/description/	1	Magical attack strength up 10%.
+Info line length	12	in Skills/53/name/	1	Magic Up Lv3
+Info line length	31	in Skills/53/description/	1	Magical attack strength up 15%.
+Info line length	12	in Skills/54/name/	1	Magic Up Lv4
+Info line length	31	in Skills/54/description/	1	Magical attack strength up 20%.
+Info line length	12	in Skills/55/name/	1	Magic Up MAX
+Info line length	31	in Skills/55/description/	1	Magical attack strength up 25%.
+Info line length	15	in Skills/56/description/	1	Agility up 10%?
+Info line length	14	in Skills/57/name/	1	Agility Up Lv2
+Info line length	14	in Skills/58/name/	1	Agility Up Lv3
+Info line length	14	in Skills/59/name/	1	Agility Up Lv4
+Info line length	14	in Skills/60/name/	1	Agility Up MAX
+Info line length	51	in Skills/80/description/	1	Deals low physical damage to one foe. Rounds \\V[7]/10
+Info line length	6	in Skills/346/name/	1	Reload
+Info line length	37	in Skills/81/description/	1	Reload your handgun. Remaining rounds
+Info line length	49	in Skills/81/description/	2	in the old magazine are placed in your inventory.
 Warning Name	'パラベラム弾' found but not:'Parabellum Rounds' in text:	Reload your handgun. Remaining rounds¶in the old magazine are placed in your inventory.
-Warning short line	44/50' in Skills/84/description/:	Reload your machine pistol. Remaining rounds
+Info line length	51	in Skills/329/description/	1	Deals low physical damage to one foe. Rounds \\V[18]/15
+Info line length	44	in Skills/84/description/	1	Reload your machine pistol. Remaining rounds
+Info line length	49	in Skills/84/description/	2	in the old magazine are placed in your inventory.
 Warning Name	'パラベラム弾' found but not:'Parabellum Rounds' in text:	Reload your machine pistol. Remaining rounds¶in the old magazine are placed in your inventory.
-Warning char limit	62/60' in Skills/85/description/:	\\C[10]The pleasure of being raped by a barghest sticks in your mind.
+Info line length	20	in Skills/85/name/	1	[Barghest Mating]Lv1
+Info line length	62	in Skills/85/description/	1	\\C[10]The pleasure of being raped by a barghest sticks in your mind.
+Info line length	48	in Skills/85/description/	2	Increases damage taken from this monster by 20%.
 Warning Name	'悪魔との戦闘' found but not:'battling with demons' in text:	\\C[10]The pleasure of being raped by a barghest sticks in your mind.¶Increases damage taken from this monster by 20%.
 Warning Name	'増加' found but not:'increased' in text:	\\C[10]The pleasure of being raped by a barghest sticks in your mind.¶Increases damage taken from this monster by 20%.
-Warning char limit	62/60' in Skills/86/description/:	\\C[10]The pleasure of being raped by a barghest sticks in your mind.
+Info line length	20	in Skills/86/name/	1	[Barghest Mating]Lv2
+Info line length	62	in Skills/86/description/	1	\\C[10]The pleasure of being raped by a barghest sticks in your mind.
+Info line length	56	in Skills/86/description/	2	Increases lust 5% every turn when fighting this monster.
 Warning Name	'悪魔との戦闘' found but not:'battling with demons' in text:	\\C[10]The pleasure of being raped by a barghest sticks in your mind.¶Increases lust 5% every turn when fighting this monster.
-Warning char limit	62/60' in Skills/87/description/:	\\C[10]The pleasure of being raped by a barghest sticks in your mind.
+Info line length	20	in Skills/87/name/	1	[Barghest Mating]Lv3
+Info line length	62	in Skills/87/description/	1	\\C[10]The pleasure of being raped by a barghest sticks in your mind.
+Info line length	60	in Skills/87/description/	2	Maximum willpower reduced to 80% when fighting this monster.
 Warning Name	'悪魔との戦闘' found but not:'battling with demons' in text:	\\C[10]The pleasure of being raped by a barghest sticks in your mind.¶Maximum willpower reduced to 80% when fighting this monster.
-Warning char limit	62/60' in Skills/88/description/:	\\C[10]The pleasure of being raped by a barghest sticks in your mind.
+Info line length	20	in Skills/88/name/	1	[Barghest Mating]Lv4
+Info line length	62	in Skills/88/description/	1	\\C[10]The pleasure of being raped by a barghest sticks in your mind.
+Info line length	59	in Skills/88/description/	2	Maximum vitality reduced to 80% when fighting this monster.
 Warning Name	'悪魔との戦闘' found but not:'battling with demons' in text:	\\C[10]The pleasure of being raped by a barghest sticks in your mind.¶Maximum vitality reduced to 80% when fighting this monster.
-Warning char limit	62/60' in Skills/89/description/:	\\C[10]The pleasure of being raped by a barghest sticks in your mind.
+Info line length	20	in Skills/89/name/	1	[Barghest Mating]MAX
+Info line length	62	in Skills/89/description/	1	\\C[10]The pleasure of being raped by a barghest sticks in your mind.
+Info line length	56	in Skills/89/description/	2	Special accident battles can occur against this monster.
 Warning Name	'悪魔との戦闘' found but not:'battling with demons' in text:	\\C[10]The pleasure of being raped by a barghest sticks in your mind.¶Special accident battles can occur against this monster.
+Info line length	53	in Skills/90/description/	1	Deals medium physical damage to one foe. Rounds \\V[19]/2
+Info line length	9	in Skills/154/name/	1	Psi Arrow
+Info line length	18	in Skills/651/description/	1	Deals wind damage.
+Info line length	53	in Skills/651/description/	2	Blows opponent back and removes most flimsy bindings.
+Info line length	9	in Skills/651/name/	1	Psi Blast
 Warning Name	'ラスト' found but not:'final' in text:	Psi Blast
 Warning Name	'ラスト' found but not:'final' in text:	 casts Psi Blast!
+Info line length	11	in Skills/95/name/	1	Psi Tornado
+Info line length	8	in Skills/96/name/	1	Psi Frei
+Info line length	18	in Skills/740/description/	1	Deals fire damage.
+Info line length	40	in Skills/740/description/	2	Strongest of all elements in base power.
 Warning Name	'攻撃' found but not:'Attack' in text:	Deals fire damage.¶Strongest of all elements in base power.
-Warning char limit	61/60' in Skills/109/description/:	Increases the caster's physical attack two steps for 3 turns.
+Info line length	10	in Skills/97/name/	1	Psi Freila
+Info line length	10	in Skills/740/name/	1	Psi Megido
+Info line length	7	in Skills/253/name/	1	Psi Ice
+Info line length	17	in Skills/745/description/	1	Deals ice damage.
+Info line length	27	in Skills/745/description/	2	Reduces opponent's agility.
+Info line length	10	in Skills/742/name/	1	Psi Icicle
+Info line length	12	in Skills/745/name/	1	Psi Blizzard
+Info line length	8	in Skills/102/name/	1	Psi Jolt
+Info line length	23	in Skills/746/description/	1	Deals lightning damage.
+Info line length	28	in Skills/746/description/	2	Low chance to stun opponent.
+Info line length	11	in Skills/103/name/	1	Psi Thunder
+Info line length	15	in Skills/746/name/	1	Psi Volt Tackle
+Info line length	11	in Skills/109/name/	1	Limit Break
+Info line length	31	in Skills/116/description/	1	Raises evasion 50% for 5 turns.
+Info line length	42	in Skills/116/description/	2	Very effective against physical attackers.
+Info line length	31	in Skills/118/description/	1	Raises evasion 70% for 5 turns.
+Info line length	42	in Skills/118/description/	2	Very effective against physical attackers.
+Info line length	31	in Skills/119/description/	1	Raises evasion 90% for 5 turns.
+Info line length	42	in Skills/119/description/	2	Very effective against physical attackers.
+Info line length	12	in Skills/124/name/	1	Voltaic Step
 Warning Name	'ボルテクステップ' found but not:'Vortex Steps' in text:	Voltaic Step
-Warning char limit	65/60' in Skills/127/message1/:	 puts her lips on \\n[1]'s and begins to suck out his energy!
+Info line length	17	in Skills/261/name/	1	Watch Attentively
+Info line length	11	in Skills/127/name/	1	Energy Suck
+Info line length	42	in Skills/789/description/	1	Perform a powerful attack against one foe.
+Warning char limit	62/60' in Skills/127/message1/:	 puts her lips on Example's and begins to suck out his energy!
 Warning char limit	64/60' in Skills/127/message2/:	Pure pleasure courses through his veins and saps his strength...
-Warning char limit	27/24' in Skills/139/name/:	Mating Invitation (Failure)
-Warning char limit	65/60' in Skills/176/message2/:	Her tongue probes all the nooks and crannies of \\N[1]'s ear!
-Warning char limit	63/60' in Skills/141/message2/:	She tightens the grip her legs have around \\N[1]'s body...
+Info line length	11	in Skills/130/name/	1	■■Barghest\#\#\#
+Info line length	10	in Skills/630/name/	1	Beast Claw
+Info line length	4	in Skills/132/name/	1	Roar
+Info line length	43	in Skills/768/description/	1	Causes your opponent to lose their balance.
+Info line length	8	in Skills/681/name/	1	Eye Rape
+Info line length	17	in Skills/138/name/	1	Mating Invitation
+Info line length	27	in Skills/139/name/	1	Mating Invitation (Failure)
+Info line length	8	in Skills/767/name/	1	Pin Down
+Info line length	16	in Skills/402/name/	1	Wild Hip Thrusts
+Info line length	8	in Skills/176/name/	1	Ear Suck
+Warning char limit	62/60' in Skills/176/message2/:	Her tongue probes all the nooks and crannies of Example's ear!
+Info line length	15	in Skills/141/name/	1	Copulation Hold
+Info line length	7	in Skills/142/name/	1	Snuggle
+Info line length	9	in Skills/143/name/	1	Neck Bite
 Warning Name	'バーゲスト' found but not:'barghest' in text:	Her fangs prick the skin as her tongue licks his neck!
+Info line length	11	in Skills/145/name/	1	Tongue Play
+Info line length	18	in Skills/648/name/	1	Squeezing Pressure
 Warning Name	'ギュウギュウ' found but not:'*squeeze*' in text:	Her tight canal presses hard against it from all sides!
+Info line length	13	in Skills/147/name/	1	Milking Feast
+Info line length	10	in Skills/148/name/	1	Tongue Sex
 Warning char limit	61/60' in Skills/148/message2/:	The mixture of tongues and saliva make lewd squishing noises.
+Info line length	14	in Skills/150/name/	1	■■Iron Maiden\#\#\#
+Info line length	16	in Skills/554/name/	1	Erotic Tentacles
+Info line length	16	in Skills/550/name/	1	Seductive Breath
+Info line length	18	in Skills/154/description/	1	Deals wind damage.
+Info line length	26	in Skills/154/description/	2	Also doubles as Kick Away.
+Info line length	21	in Skills/793/name/	1	Breasts of Submission
 Warning Name	'どんどん' found but not:'more and more' in text:	They feel so good, \\N[1] is losing vitality...
+Info line length	21	in Skills/723/name/	1	Titillating Pulsation
 Warning Name	'みるみる' found but not:'before my eyes' in text:	The gentle embrace wears down \\N[1]'s resistance...
+Info line length	12	in Skills/682/name/	1	Nipple Tease
 Warning Name	'クリクリ' found but not:'roll them' in text:	She pulls at them and gives them little twists...
-Warning char limit	25/24' in Skills/161/name/:	Feminizing Nipple Assault
+Info line length	17	in Skills/160/name/	1	Affectionate Kiss
+Info line length	25	in Skills/161/name/	1	Feminizing Nipple Assault
 Warning Name	'興奮' found but not:'Aroused' in text:	It sends a shock of pleasure through \\N[1]'s body!
+Info line length	23	in Skills/162/name/	1	Enticement to Surrender
 Warning Name	'クラクラ' found but not:'feel dizzy' in text:	Her honeyed words echo within \\n[1]'s skull...
-Warning char limit	27/24' in Skills/167/name/:	Pleasure Prison Crucifixion
+Info line length	13	in Skills/517/name/	1	Feather Shake
+Info line length	25	in Skills/164/description/	1	\\C[2]Only used in this battle.\\C[0]
+Info line length	57	in Skills/164/description/	2	Ignore everything but trying to free your legs to escape.
+Info line length	12	in Skills/769/name/	1	Heaven Shake
+Info line length	27	in Skills/167/name/	1	Pleasure Prison Crucifixion
+Info line length	8	in Skills/168/name/	1	Backstab
 Warning Name	'グリグリ' found but not:'pressing' in text:	 screws a slimy tentacle into \\N[1]'s ass!
+Info line length	9	in Skills/169/name/	1	■■Lampas\#\#\#
+Info line length	19	in Skills/171/name/	1	Intoxicating Pollen
 Warning Name	'どんどん' found but not:'more and more' in text:	\\N[1] is losing his ability to reason...
+Info line length	14	in Skills/660/name/	1	Sweet Nothings
+Info line length	11	in Skills/193/name/	1	Kissing Ivy
+Info line length	11	in Skills/174/name/	1	Sucking Ivy
 Warning Name	'チュウチュウ' found but not:'kiss' in text:	Two strands of ivy greedily suck on his nipples...
+Info line length	14	in Skills/175/name/	1	Nectar Feeding
+Info line length	10	in Skills/694/name/	1	Erotic Ivy
+Info line length	12	in Skills/696/name/	1	Drain Pollen
+Info line length	11	in Skills/180/name/	1	Milking Ivy
+Info line length	11	in Skills/181/name/	1	Nipple Suck
+Info line length	12	in Skills/182/name/	1	Ivy Shackles
 Warning Name	'ギチギチ' found but not:'creakily' in text:	Ivy tightly coils around \\N[1]'s arms!
+Info line length	5	in Skills/712/name/	1	Strip
+Info line length	13	in Skills/185/name/	1	Foot Scissors
+Info line length	11	in Skills/186/name/	1	Stamen Play
 Warning Name	'グリグリ' found but not:'pressing' in text:	's feet grind against \\N[1]'s penis!
+Info line length	17	in Skills/188/name/	1	Pollination Press
+Info line length	9	in Skills/189/name/	1	Hip Press
 Warning Name	'グリグリ' found but not:'pressing' in text:	She presses down hard and gyrates her hips!
+Info line length	9	in Skills/190/name/	1	Foot Play
 Warning Name	'クラクラ' found but not:'feel dizzy' in text:	Its sensation and mellow smell is making him dizzy...
+Info line length	22	in Skills/196/name/	1	[Lampas Fertilizer]Lv1
+Info line length	60	in Skills/196/description/	1	\\C[10]The pleasure of being raped by a lampas sticks in your mind.
+Info line length	48	in Skills/196/description/	2	Increases damage taken from this monster by 20%.
 Warning Name	'悪魔との戦闘' found but not:'battling with demons' in text:	\\C[10]The pleasure of being raped by a lampas sticks in your mind.¶Increases damage taken from this monster by 20%.
 Warning Name	'増加' found but not:'increased' in text:	\\C[10]The pleasure of being raped by a lampas sticks in your mind.¶Increases damage taken from this monster by 20%.
+Info line length	22	in Skills/197/name/	1	[Lampas Fertilizer]Lv2
+Info line length	60	in Skills/197/description/	1	\\C[10]The pleasure of being raped by a lampas sticks in your mind.
+Info line length	56	in Skills/197/description/	2	Increases lust 5% every turn when fighting this monster.
 Warning Name	'悪魔との戦闘' found but not:'battling with demons' in text:	\\C[10]The pleasure of being raped by a lampas sticks in your mind.¶Increases lust 5% every turn when fighting this monster.
+Info line length	22	in Skills/198/name/	1	[Lampas Fertilizer]Lv3
+Info line length	60	in Skills/198/description/	1	\\C[10]The pleasure of being raped by a lampas sticks in your mind.
+Info line length	60	in Skills/198/description/	2	Maximum willpower reduced to 80% when fighting this monster.
 Warning Name	'悪魔との戦闘' found but not:'battling with demons' in text:	\\C[10]The pleasure of being raped by a lampas sticks in your mind.¶Maximum willpower reduced to 80% when fighting this monster.
+Info line length	22	in Skills/199/name/	1	[Lampas Fertilizer]Lv4
+Info line length	60	in Skills/199/description/	1	\\C[10]The pleasure of being raped by a lampas sticks in your mind.
+Info line length	59	in Skills/199/description/	2	Maximum vitality reduced to 80% when fighting this monster.
 Warning Name	'悪魔との戦闘' found but not:'battling with demons' in text:	\\C[10]The pleasure of being raped by a lampas sticks in your mind.¶Maximum vitality reduced to 80% when fighting this monster.
+Info line length	22	in Skills/200/name/	1	[Lampas Fertilizer]MAX
+Info line length	60	in Skills/200/description/	1	\\C[10]The pleasure of being raped by a lampas sticks in your mind.
+Info line length	56	in Skills/200/description/	2	Special accident battles can occur against this monster.
 Warning Name	'悪魔との戦闘' found but not:'battling with demons' in text:	\\C[10]The pleasure of being raped by a lampas sticks in your mind.¶Special accident battles can occur against this monster.
+Info line length	18	in Skills/211/name/	1	Reload (High Cap.)
 Warning Name	'大容量' found but not:'High-capacity ' (or any other translation) in text:	Reload (High Cap.)
+Info line length	54	in Skills/210/description/	1	Reload your handgun with 2 magazines. Remaining rounds
+Info line length	49	in Skills/210/description/	2	in the old magazine are placed in your inventory.
 Warning Name	'パラベラム弾' found but not:'Parabellum Rounds' in text:	Reload your handgun with 2 magazines. Remaining rounds¶in the old magazine are placed in your inventory.
-Warning char limit	61/60' in Skills/211/description/:	Reload your machine pistol with 2 magazines. Remaining rounds
+Info line length	61	in Skills/447/description/	1	Reload your machine pistol with 2 magazines. Remaining rounds
+Info line length	49	in Skills/447/description/	2	in the old magazine are placed in your inventory.
 Warning Name	'パラベラム弾' found but not:'Parabellum Rounds' in text:	Reload your machine pistol with 2 magazines. Remaining rounds¶in the old magazine are placed in your inventory.
-Warning short line	49/50' in Skills/212/description/:	Fire 3 low damage shots at one foe. Rounds \\V[7]/10
-Warning short line	12/50' in Skills/213/description/:	Rounds \\V[19]/2
+Info line length	10	in Skills/327/name/	1	Burst Shot
+Info line length	49	in Skills/212/description/	1	Fire 3 low damage shots at one foe. Rounds \\V[7]/10
+Info line length	44	in Skills/213/description/	1	Blast foe with both barrels for high damage.
+Info line length	12	in Skills/213/description/	2	Rounds \\V[19]/2
+Info line length	22	in Skills/215/name/	1	[Maiden's Prisoner]Lv1
+Info line length	58	in Skills/215/description/	1	\\C[10]The pleasure given by the Iron Maiden sticks in your mind.
+Info line length	48	in Skills/215/description/	2	Increases damage taken from this monster by 20%.
 Warning Name	'悪魔との戦闘' found but not:'battling with demons' in text:	\\C[10]The pleasure given by the Iron Maiden sticks in your mind.¶Increases damage taken from this monster by 20%.
 Warning Name	'増加' found but not:'increased' in text:	\\C[10]The pleasure given by the Iron Maiden sticks in your mind.¶Increases damage taken from this monster by 20%.
+Info line length	22	in Skills/216/name/	1	[Maiden's Prisoner]Lv2
+Info line length	58	in Skills/216/description/	1	\\C[10]The pleasure given by the Iron Maiden sticks in your mind.
+Info line length	56	in Skills/216/description/	2	Increases lust 5% every turn when fighting this monster.
 Warning Name	'悪魔との戦闘' found but not:'battling with demons' in text:	\\C[10]The pleasure given by the Iron Maiden sticks in your mind.¶Increases lust 5% every turn when fighting this monster.
+Info line length	22	in Skills/217/name/	1	[Maiden's Prisoner]Lv3
+Info line length	58	in Skills/217/description/	1	\\C[10]The pleasure given by the Iron Maiden sticks in your mind.
+Info line length	60	in Skills/217/description/	2	Maximum willpower reduced to 80% when fighting this monster.
 Warning Name	'悪魔との戦闘' found but not:'battling with demons' in text:	\\C[10]The pleasure given by the Iron Maiden sticks in your mind.¶Maximum willpower reduced to 80% when fighting this monster.
+Info line length	22	in Skills/218/name/	1	[Maiden's Prisoner]Lv4
+Info line length	58	in Skills/218/description/	1	\\C[10]The pleasure given by the Iron Maiden sticks in your mind.
+Info line length	59	in Skills/218/description/	2	Maximum vitality reduced to 80% when fighting this monster.
 Warning Name	'悪魔との戦闘' found but not:'battling with demons' in text:	\\C[10]The pleasure given by the Iron Maiden sticks in your mind.¶Maximum vitality reduced to 80% when fighting this monster.
+Info line length	22	in Skills/219/name/	1	[Maiden's Prisoner]MAX
+Info line length	58	in Skills/219/description/	1	\\C[10]The pleasure given by the Iron Maiden sticks in your mind.
+Info line length	56	in Skills/219/description/	2	Special accident battles can occur against this monster.
 Warning Name	'悪魔との戦闘' found but not:'battling with demons' in text:	\\C[10]The pleasure given by the Iron Maiden sticks in your mind.¶Special accident battles can occur against this monster.
+Info line length	54	in Skills/233/description/	1	\\C[2]Muster your last bit of strength and show the power of
+Info line length	44	in Skills/233/description/	2	the human will. \\C[10]There's no time to hesitate!
+Info line length	15	in Skills/245/name/	1	Nectar Suckling
 Warning Name	'グリグリ' found but not:'pressing' in text:	 cradles \\N[1] tightly against her breast!
-Warning char limit	61/60' in Skills/361/message2/:	An overload of pleasure is crushing \\N[1]'s willpower...
 Warning Name	'どんどん' found but not:'more and more' in text:	An overload of pleasure is crushing \\N[1]'s willpower...
-Warning char limit	26/24' in Skills/270/name/:	Soul-hunting Funeral March
+Info line length	9	in Skills/249/name/	1	■■Empuse\#\#\#
+Info line length	12	in Skills/251/name/	1	Capture Fall
+Info line length	11	in Skills/252/name/	1	Stun Impact
+Info line length	13	in Skills/748/name/	1	Funeral Dance
+Info line length	26	in Skills/270/name/	1	Soul-hunting Funeral March
+Info line length	8	in Skills/258/name/	1	Hip Hold
 Warning Name	'どんどん' found but not:'more and more' in text:	 twines her tongue round and round \\N[1]...
+Info line length	11	in Skills/590/name/	1	Heaven Suck
 Warning Name	'ゾクゾク' found but not:'tremble' in text:	Constant waves of pleasure run through \\N[1]'s body!
-Warning char limit	61/60' in Skills/265/description/:	\\C[10]The pleasure of being raped by an empuse sticks in your mind.
+Info line length	12	in Skills/260/name/	1	Hunting Hold
+Info line length	10	in Skills/262/name/	1	Brain Suck
+Info line length	13	in Skills/264/name/	1	Loss of Heart
+Info line length	21	in Skills/265/name/	1	[Empuse's Partner]Lv1
+Info line length	61	in Skills/265/description/	1	\\C[10]The pleasure of being raped by an empuse sticks in your mind.
+Info line length	48	in Skills/265/description/	2	Increases damage taken from this monster by 20%.
 Warning Name	'悪魔との戦闘' found but not:'battling with demons' in text:	\\C[10]The pleasure of being raped by an empuse sticks in your mind.¶Increases damage taken from this monster by 20%.
 Warning Name	'増加' found but not:'increased' in text:	\\C[10]The pleasure of being raped by an empuse sticks in your mind.¶Increases damage taken from this monster by 20%.
-Warning char limit	61/60' in Skills/266/description/:	\\C[10]The pleasure of being raped by an empuse sticks in your mind.
-Warning Name	'悪魔との戦闘' found but not:'battling with demons' in text:	\\C[10]The pleasure of being raped by an empuse sticks in your mind.¶Increases lust 5% every turn when fighting this monster.
-Warning char limit	61/60' in Skills/267/description/:	\\C[10]The pleasure of being raped by an empuse sticks in your mind.
-Warning Name	'悪魔との戦闘' found but not:'battling with demons' in text:	\\C[10]The pleasure of being raped by an empuse sticks in your mind.¶Maximum willpower reduced to 80% when fighting this monster.
-Warning char limit	61/60' in Skills/268/description/:	\\C[10]The pleasure of being raped by an empuse sticks in your mind.
-Warning Name	'悪魔との戦闘' found but not:'battling with demons' in text:	\\C[10]The pleasure of being raped by an empuse sticks in your mind.¶Maximum vitality reduced to 80% when fighting this monster.
-Warning char limit	61/60' in Skills/269/description/:	\\C[10]The pleasure of being raped by an empuse sticks in your mind.
-Warning Name	'悪魔との戦闘' found but not:'battling with demons' in text:	\\C[10]The pleasure of being raped by an empuse sticks in your mind.¶Special accident battles can occur against this monster.
+Info line length	21	in Skills/266/name/	1	[Empuse's Partner]Lv2
+Info line length	58	in Skills/266/description/	1	\\C[10]The pleasure of being raped by Empuse sticks in your mind.
+Info line length	56	in Skills/266/description/	2	Increases lust 5% every turn when fighting this monster.
+Warning Name	'悪魔との戦闘' found but not:'battling with demons' in text:	\\C[10]The pleasure of being raped by Empuse sticks in your mind.¶Increases lust 5% every turn when fighting this monster.
+Info line length	21	in Skills/267/name/	1	[Empuse's Partner]Lv3
+Info line length	58	in Skills/267/description/	1	\\C[10]The pleasure of being raped by Empuse sticks in your mind.
+Info line length	60	in Skills/267/description/	2	Maximum willpower reduced to 80% when fighting this monster.
+Warning Name	'悪魔との戦闘' found but not:'battling with demons' in text:	\\C[10]The pleasure of being raped by Empuse sticks in your mind.¶Maximum willpower reduced to 80% when fighting this monster.
+Info line length	21	in Skills/268/name/	1	[Empuse's Partner]Lv4
+Info line length	58	in Skills/268/description/	1	\\C[10]The pleasure of being raped by Empuse sticks in your mind.
+Info line length	59	in Skills/268/description/	2	Maximum vitality reduced to 80% when fighting this monster.
+Warning Name	'悪魔との戦闘' found but not:'battling with demons' in text:	\\C[10]The pleasure of being raped by Empuse sticks in your mind.¶Maximum vitality reduced to 80% when fighting this monster.
+Info line length	21	in Skills/269/name/	1	[Empuse's Partner]MAX
+Info line length	58	in Skills/269/description/	1	\\C[10]The pleasure of being raped by Empuse sticks in your mind.
+Info line length	56	in Skills/269/description/	2	Special accident battles can occur against this monster.
+Warning Name	'悪魔との戦闘' found but not:'battling with demons' in text:	\\C[10]The pleasure of being raped by Empuse sticks in your mind.¶Special accident battles can occur against this monster.
+Info line length	22	in Skills/271/name/	1	Master's Orders (Down)
+Info line length	23	in Skills/272/name/	1	Master's Orders (Strip)
+Info line length	23	in Skills/273/name/	1	Master's Orders (Penis)
+Info line length	22	in Skills/274/name/	1	Master's Orders (Bark)
+Info line length	10	in Skills/275/name/	1	Punishment
 Warning Name	'興奮' found but not:'Aroused' in text:	For some reason, it arouses \\N[1]!
+Info line length	15	in Skills/276/name/	1	Soothing Cradle
+Info line length	13	in Skills/278/name/	1	Reverse Storm
+Info line length	52	in Skills/751/description/	1	Cancels the effect of your opponent's [Sylph Storm].
+Info line length	11	in Skills/279/name/	1	Wake Up [1]
+Info line length	39	in Skills/688/description/	1	Try to wake yourself up from the dream.
+Info line length	44	in Skills/688/description/	2	This will finally wake you up if successful.
+Info line length	11	in Skills/280/name/	1	Wake Up [2]
+Info line length	39	in Skills/280/description/	1	Try to wake yourself up from the dream.
+Info line length	44	in Skills/280/description/	2	You're looking good, but don't get careless.
+Info line length	11	in Skills/281/name/	1	Wake Up [3]
+Info line length	39	in Skills/281/description/	1	Try to wake yourself up from the dream.
+Info line length	50	in Skills/281/description/	2	You still have leeway, but you better not mess up.
+Info line length	11	in Skills/282/name/	1	Wake Up [4]
+Info line length	39	in Skills/282/description/	1	Try to wake yourself up from the dream.
+Info line length	48	in Skills/282/description/	2	You're in grave danger of never waking up again.
+Info line length	16	in Skills/283/name/	1	Indulge Yourself
+Info line length	50	in Skills/283/description/	1	Relax and let your partner spoil you rotten. It'll
+Info line length	26	in Skills/283/description/	2	probably feel really good.
+Info line length	7	in Skills/284/name/	1	Entrust
+Info line length	51	in Skills/284/description/	1	Surrender your body to your partner and just relax.
+Info line length	30	in Skills/284/description/	2	It's all just a dream, anyway.
+Info line length	11	in Skills/285/name/	1	Wake Up [5]
+Info line length	39	in Skills/285/description/	1	Try to wake yourself up from the dream.
+Info line length	19	in Skills/285/description/	2	Pray that it works.
+Info line length	15	in Skills/287/name/	1	Good Luck Charm
+Info line length	51	in Skills/679/description/	1	Increases the caster's physical attack for 3 turns.
+Info line length	58	in Skills/750/description/	1	Increases the caster's chance of acting first for 3 turns.
+Info line length	21	in Skills/750/description/	2	Can overlap duration.
+Info line length	11	in Skills/119/name/	1	Sylph Storm
+Info line length	9	in Skills/114/name/	1	Cool Calm
+Info line length	25	in Skills/256/name/	1	Spatial Perversion (Lewd)
+Info line length	31	in Skills/255/name/	1	Spatial Perversion (Bad Status)
+Info line length	29	in Skills/205/name/	1	Spatial Perversion (Vitality)
+Info line length	24	in Skills/206/name/	1	Spatial Perversion (Gun)
+Info line length	26	in Skills/207/name/	1	Spatial Perversion (Magic)
+Info line length	7	in Skills/80/name/	1	Handgun
+Info line length	14	in Skills/82/name/	1	Machine Pistol
+Info line length	7	in Skills/90/name/	1	Shotgun
+Info line length	11	in Skills/26/name/	1	Will Up Lv1
+Info line length	11	in Skills/27/name/	1	Will Up Lv2
+Info line length	11	in Skills/28/name/	1	Will Up Lv3
+Info line length	11	in Skills/29/name/	1	Will Up Lv4
+Info line length	11	in Skills/30/name/	1	Will Up Lv5
+Info line length	11	in Skills/31/name/	1	Will Up Lv6
+Info line length	11	in Skills/32/name/	1	Will Up Lv7
+Info line length	11	in Skills/33/name/	1	Will Up Lv8
+Info line length	11	in Skills/34/name/	1	Will Up Lv9
+Info line length	12	in Skills/250/name/	1	Death Scythe
+Info line length	13	in Skills/46/name/	1	Attack Up Lv1
+Info line length	12	in Skills/51/name/	1	Magic Up Lv1
+Info line length	14	in Skills/56/name/	1	Agility Up Lv1
+Info line length	13	in States/1/name/	1	Incapacitated
+Info line length	8	in States/2/name/	1	Bleeding
+Info line length	5	in States/3/name/	1	Panic
+Info line length	10	in States/4/name/	1	Exhaustion
+Info line length	8	in States/5/name/	1	Weakness
+Info line length	12	in States/142/name/	1	Bound (Arms)
 Warning Name	'拘束' found but not:'bind ' (or any other translation) in text:	 manages to free his arms!
+Info line length	12	in States/141/name/	1	Bound (Legs)
 Warning Name	'拘束' found but not:'bind ' (or any other translation) in text:	's legs are still tied up...
 Warning Name	'拘束' found but not:'bind ' (or any other translation) in text:	 manages to free his legs!
+Info line length	4	in States/8/name/	1	Stun
+Info line length	6	in States/9/name/	1	Defend
+Info line length	10	in States/18/name/	1	Invincible
+Info line length	16	in States/145/name/	1	Milking Position
+Info line length	7	in States/144/name/	1	Ecstasy
 Warning Name	'蝕' found but not:'Meal' in text:	's mind is being consumed by lust...
 Warning Name	'恍惚' found but not:'ecstasy' in text:	 regains his composure from lustful thoughts!
+Info line length	7	in States/13/name/	1	Charmed
+Info line length	8	in States/14/name/	1	Enslaved
+Info line length	4	in States/15/name/	1	Food
+Info line length	5	in States/140/name/	1	Naked
+Info line length	12	in States/143/name/	1	Bound (Body)
+Info line length	5	in States/20/name/	1	Dazed
+Info line length	13	in States/22/name/	1	Instant Death
+Info line length	14	in States/23/name/	1	Magic Tutorial
+Info line length	16	in States/24/name/	1	Heavy Exhaustion
+Info line length	14	in States/25/name/	1	Heavy Weakness
+Info line length	6	in States/26/name/	1	Afraid
+Info line length	6	in States/27/name/	1	Soaked
 Warning Name	'愛液まみれ' found but not:'Soaked with love juices' in text:	Soaked
-Warning Name	'恍惚' found but not:'ecstasy' in text:	 is better able to restrain himself!
-Warning char limit	25/24' in Skills/256/name/:	Spatial Perversion (Lewd)
-Warning char limit	31/24' in Skills/255/name/:	Spatial Perversion (Bad Status)
+Info line length	11	in States/29/name/	1	Debilitated
+Info line length	13	in States/30/name/	1	Combat Stance
+Info line length	19	in States/31/name/	1	Temptation Position
+Info line length	14	in States/32/name/	1	Nipple Assault
+Info line length	6	in States/33/name/	1	Puppet
+Info line length	17	in States/34/name/	1	Heavy Bind (Arms)
+Info line length	17	in States/35/name/	1	Heavy Bind (Legs)
+Info line length	7	in States/36/name/	1	Aroused
+Info line length	19	in States/38/name/	1	Weakness Prevention
+Info line length	21	in States/39/name/	1	Exhaustion Prevention
+Info line length	10	in States/40/name/	1	Adrenaline
+Info line length	10	in States/41/name/	1	Submissive
+Info line length	13	in States/42/name/	1	Aim (Offense)
+Info line length	14	in States/49/name/	1	Aim (Opponent)
+Info line length	16	in States/50/name/	1	Damage Increased
+Info line length	14	in States/51/name/	1	Lust Increased
+Info line length	17	in States/52/name/	1	Willpower Lowered
+Info line length	16	in States/53/name/	1	Vitality Lowered
+Info line length	11	in States/54/name/	1	Food (Meal)
+Info line length	4	in States/63/name/	1	Dead
+Info line length	14	in States/66/name/	1	Loss (Offense)
+Info line length	15	in States/67/name/	1	Loss (Opponent)
+Info line length	5	in States/68/name/	1	Guard
+Info line length	13	in States/69/name/	1	One turn rest
 Warning char limit	64/60' in States/71/message3/:	 is susceptible to being bound due to the perversion in the air.
-Warning char limit	29/24' in Skills/205/name/:	Spatial Perversion (Vitality)
 Warning char limit	62/60' in States/72/message3/:	's vitality use is increased due to the perversion in the air.
 Warning Name	'攻撃' found but not:'Attack' in text:	's guns are significantly weakened!
-Warning char limit	26/24' in Skills/207/name/:	Spatial Perversion (Magic)
-Warning char limit	25/24' in States/76/name/:	Maiden Second Half Battle
+Info line length	11	in States/75/name/	1	Dog Servant
+Info line length	25	in States/76/name/	1	Maiden Second Half Battle
 Warning Name	'メイデン後半戦' found but not:'Half-Maiden battle' in text:	Maiden Second Half Battle
+Info line length	14	in States/77/name/	1	Crotch Assault
+Info line length	8	in States/90/name/	1	Enhanced
+Info line length	4	in States/91/name/	1	Drop
+Info line length	15	in States/93/name/	1	Sylph Storm Lv2
+Info line length	15	in States/94/name/	1	Sylph Storm Lv3
+Info line length	16	in States/97/name/	1	Dreaming (Light)
+Info line length	16	in States/100/name/	1	Dreaming (Heavy)
+Info line length	7	in States/92/name/	1	Present
+Info line length	7	in States/92/name/	1	Present
+Info line length	5	in States/98/name/	1	Dream
 Warning Name	'気力' found but not:'vitality' in text:	Vit
-Warning Name	'見逃す' found but not:'Let her off' in text:	Let her go en(s[1000000])
-Info line length	10	in Troops/108/pages/2/22/Label	1	Let her go
 Warning Name	'見逃す' found but not:'Let her off' in text:	Let her go
-Warning Name	'トドメを刺す' found but not:'finish move' in text:	Finish her off
-Warning short line	13/50' in Weapons/1/description/:	Rounds　\\V[7]/10
-Warning short line	13/50' in Weapons/2/description/:	Rounds \\V[18]/15
-Warning short line	12/50' in Weapons/3/description/:	Shells \\V[19]/2
-Warning short line	13/50' in Weapons/4/description/:	Rounds　\\V[7]/10
+Warning Name	'見逃す' found but not:'Let her off' in text:	Let her go en(s[1000000])
+Info line length	14	in Troops/27/name/	1	Lampas (Dream)
+Info line length	9	in Troops/47/name/	1	Empuse(G)
+Info line length	54	in Weapons/1/description/	1	What it lacks in power it makes up for in convenience.
+Info line length	13	in Weapons/1/description/	2	Rounds　\\V[7]/10
+Info line length	46	in Weapons/2/description/	1	Pistol that fires 5 round bursts. High recoil.
+Info line length	13	in Weapons/2/description/	2	Rounds \\V[18]/15
+Info line length	43	in Weapons/3/description/	1	[Two-Handed] Double barrel hunting shotgun.
+Info line length	12	in Weapons/3/description/	2	Shells \\V[19]/2
+Info line length	14	in Weapons/4/name/	1	Custom Handgun
+Info line length	45	in Weapons/4/description/	1	Reduced power, but now fires a 3 round burst.
+Info line length	13	in Weapons/4/description/	2	Rounds　\\V[7]/10
 Warning Name	'ハンドガン' found but not:'Handgun' in text:	Reduced power, but now fires a 3 round burst.¶Rounds　\\V[7]/10
-Warning short line	12/50' in Weapons/5/description/:	Shells　\\V[19]/2
+Info line length	9	in Weapons/5/name/	1	Sawed-off
+Info line length	58	in Weapons/5/description/	1	[Two-Handed] Barrel shortened. Fires both barrels at once.
+Info line length	12	in Weapons/5/description/	2	Shells　\\V[19]/2
+Info line length	12	in Weapons/28/name/	1	Will Up Lv10
+Info line length	18	in Weapons/30/name/	1	Invigorating Sword
+Info line length	52	in Weapons/30/description/	1	This sword manifests the wielder's own magical power
+Info line length	37	in Weapons/30/description/	2	into the blade. Does physical damage.
+Info line length	50	in Weapons/31/description/	1	A scythe that severs magical power with gale force
+Info line length	27	in Weapons/31/description/	2	vacuum waves. Wind element.
+Info line length	13	in Weapons/65/name/	1	Barghest Claw
 Warning Name	'バーゲストクロー' found but not:'barghest claw gauntlet' in text:	Barghest Claw
+Info line length	43	in Weapons/65/description/	1	Claw-like glove made from a barghest's paw.
+Info line length	43	in Weapons/65/description/	2	Low probability of causing target to bleed.
+Info line length	11	in Weapons/66/name/	1	Lampas Whip
+Info line length	35	in Weapons/66/description/	1	Thorn whip made from a lampas vine.
+Info line length	24	in Weapons/66/description/	2	Enables [Reverse Storm].
+Info line length	11	in Weapons/67/name/	1	Hell Scythe
+Info line length	38	in Weapons/67/description/	1	Bloody scythe made from an empuse arm.
+Info line length	31	in Weapons/67/description/	2	Makes wielder immune to [Fear].
+Info line length	14	in Skills/4/name/	1	Deep Breathing
+Info line length	8	in Enemies/231/name/	1	Barghest
+Info line length	15	in Skills/164/name/	1	Coffin Breakout
+Info line length	6	in States/28/name/	1	Gagged
+Warning Name	'トドメを刺す' found but not:'finish move' in text:	Finish her off
+Info line length	2	in Map104/events/4/pages/2/15/InlineScript/1:25	1	""
+Info line length	10	in Scripts/スキルツリー/841:17	1	"Physical"
+Info line length	61	in Skills/108/description/	1	Increases the caster's physical attack two steps for 3 turns.
+Info line length	1	in Skills/792/description/	1	.

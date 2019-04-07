@@ -182,18 +182,20 @@ Continue#Lvl1
 To Title#Lvl1
 > END STRING
 
-> BEGIN STRING
-やめる
-> CONTEXT: NONE < UNUSED
-Cancel#Lvl1
-> END STRING
-
 > SHORTENED: States.txt
 
 > BEGIN STRING
 防御
 > CONTEXT: NONE < UNUSED
 Guard#Lvl1
+> END STRING
+
+> SHORTENED: CommonEvents_15.txt
+
+> BEGIN STRING
+やめる
+> CONTEXT: NONE < UNUSED
+Cancel#Lvl1
 > END STRING
 
 > SHORTENED: Scripts.txt
@@ -512,1463 +514,1571 @@ A circular club with metal spikes.#Lvl1
 
 > BEGIN STRING
 REPLACE ME
-
+> CONTEXT: Armors/1/name/
+Casual Clothes#Lvl1
 > END STRING
 
 > BEGIN STRING
 REPLACE ME
-
+> CONTEXT: Armors/1/name/
+Casual Clothes#Lvl1
 > END STRING
 
 > BEGIN STRING
 REPLACE ME
-
+> CONTEXT: Armors/1/name/
+Casual Clothes#Lvl1
 > END STRING
 
 > BEGIN STRING
 REPLACE ME
-
+> CONTEXT: Armors/1/name/
+Casual Clothes#Lvl1
 > END STRING
 
 > BEGIN STRING
 REPLACE ME
-
+> CONTEXT: Armors/1/name/
+Casual Clothes#Lvl1
 > END STRING
 
 > BEGIN STRING
 REPLACE ME
-
+> CONTEXT: Armors/1/name/
+Casual Clothes#Lvl1
 > END STRING
 
 > BEGIN STRING
 REPLACE ME
-
+> CONTEXT: Armors/1/name/
+Casual Clothes#Lvl1
 > END STRING
 
 > BEGIN STRING
 REPLACE ME
-
+> CONTEXT: Armors/1/name/
+Casual Clothes#Lvl1
 > END STRING
 
 > BEGIN STRING
 ブリガンダイン
-
+> CONTEXT: Armors/5/name/
+Brigandine#Lvl1
 > END STRING
 
 > BEGIN STRING
 鋼板で補強したなめし皮製の服。
-
+> CONTEXT: Armors/5/description/
+Clothing made with reinforced steel.#Lvl1
 > END STRING
 
 > BEGIN STRING
 バンダナ
-
+> CONTEXT: Armors/6/name/
+Bandana#Lvl1
 > END STRING
 
 > BEGIN STRING
 額を守る布製のハチマキ。
-
+> CONTEXT: Armors/6/description/
+Headband cloth that protects the head.#Lvl1
 > END STRING
 
 > BEGIN STRING
 レザーバンダナ
-
+> CONTEXT: Armors/7/name/
+Leather Bandana#Lvl1
 > END STRING
 
 > BEGIN STRING
 額を守る皮製のハチマキ。
-
+> CONTEXT: Armors/7/description/
+Headband made of leather to protect the head.#Lvl1
 > END STRING
 
 > BEGIN STRING
 毛皮の帽子
-
+> CONTEXT: Armors/8/name/
+Fur Hat#Lvl1
 > END STRING
 
 > BEGIN STRING
 毛皮で作られた帽子。
-
+> CONTEXT: Armors/8/description/
+Hat made of fur.#Lvl1
 > END STRING
 
 > BEGIN STRING
 ターバン
-
+> CONTEXT: Armors/9/name/
+Turban#Lvl1
 > END STRING
 
 > BEGIN STRING
 重ねて巻きつけて頭を守る厚手の布。
-
+> CONTEXT: Armors/9/description/
+Thick cloth wrapped repeatedly around one's head.#Lvl1
 > END STRING
 
 > BEGIN STRING
 羽根付き帽子
-
+> CONTEXT: Armors/10/name/
+Feather Cap#Lvl1
 > END STRING
 
 > BEGIN STRING
 極楽鳥の羽がついたオシャレな帽子。
-
+> CONTEXT: Armors/10/description/
+Stylish hat with feathers from many beautiful birds.#Lvl1
 > END STRING
 
 > BEGIN STRING
 木綿のローブ
-
+> CONTEXT: Armors/11/name/
+Cotton Robe#Lvl1
 > END STRING
 
 > BEGIN STRING
 木綿で作られた厚手のローブ。
-
+> CONTEXT: Armors/11/description/
+A robe made of thick cotton.#Lvl1
 > END STRING
 
 > BEGIN STRING
 絹のマント
-
+> CONTEXT: Armors/12/name/
+Silk Cloak#Lvl1
 > END STRING
 
 > BEGIN STRING
 絹で作られた上質なマント。
-
+> CONTEXT: Armors/12/description/
+A cloak made of fine silk.#Lvl1
 > END STRING
 
 > BEGIN STRING
 術士のローブ
-
+> CONTEXT: Armors/13/name/
+Runed Robe#Lvl1
 > END STRING
 
 > BEGIN STRING
 裏地にルーン文字が刻まれたローブ。
-
+> CONTEXT: Armors/13/description/
+A lined robe engraved with runes.#Lvl1
 > END STRING
 
 > BEGIN STRING
 ハーミットローブ
-
+> CONTEXT: Armors/14/name/
+Hermit Robe#Lvl1
 > END STRING
 
 > BEGIN STRING
 古の老賢者が身につけていたローブ。
-
+> CONTEXT: Armors/14/description/
+Robe worn by a wise old man.#Lvl1
 > END STRING
 
 > BEGIN STRING
 エレメンタルマント
-
+> CONTEXT: Armors/15/name/
+Elemental Cloak#Lvl1
 > END STRING
 
 > BEGIN STRING
 精霊王の力が宿る究極のマント。
-
+> CONTEXT: Armors/15/description/
+The power of the spirit king dwells in this robe.#Lvl1
 > END STRING
 
 > BEGIN STRING
 銅の髪飾り
-
+> CONTEXT: Armors/16/name/
+Copper Brace#Lvl1
 > END STRING
 
 > BEGIN STRING
 青銅で作られた髪飾り。
-
+> CONTEXT: Armors/16/description/
+Hair ornaments made of copper.#Lvl1
 > END STRING
 
 > BEGIN STRING
 サークレット
-
+> CONTEXT: Armors/17/name/
+Circlet#Lvl1
 > END STRING
 
 > BEGIN STRING
 鉄で作られたリング状の額飾り。
-
+> CONTEXT: Armors/17/description/
+A ring-shaped ornament made of iron.#Lvl1
 > END STRING
 
 > BEGIN STRING
 銀の髪飾り
-
+> CONTEXT: Armors/18/name/
+Silver Hairpin#Lvl1
 > END STRING
 
 > BEGIN STRING
 身につけた者の魔力を高める髪飾り。
-
+> CONTEXT: Armors/18/description/
+Hair accessory that enhances magic.#Lvl1
 > END STRING
 
 > BEGIN STRING
 ミスリルサークレット
-
+> CONTEXT: Armors/19/name/
+Mithril Circlet#Lvl1
 > END STRING
 
 > BEGIN STRING
 魔法の金属ミスリルで作られた額飾り。
-
+> CONTEXT: Armors/19/description/
+Mithril circlet made of the magic mineral.#Lvl1
 > END STRING
 
 > BEGIN STRING
 賢者の額冠
-
+> CONTEXT: Armors/20/name/
+Magi's Crown#Lvl1
 > END STRING
 
 > BEGIN STRING
 古代魔法文明の技術で作られた額飾り。
-
+> CONTEXT: Armors/20/description/
+Empowered by an ancient magical civilization's power.#Lvl1
 > END STRING
 
 > BEGIN STRING
 レザーアーマー
-
+> CONTEXT: Armors/21/name/
+Leather Mail#Lvl1
 > END STRING
 
 > BEGIN STRING
 なめし皮を重ねて組んだ鎧。
 
-
+> CONTEXT: Armors/21/description/
+Armour made with overlapping leather.#Lvl1
 > END STRING
 
 > BEGIN STRING
 ブロンズブレスト
-
+> CONTEXT: Armors/22/name/
+Bronze Plate#Lvl1
 > END STRING
 
 > BEGIN STRING
 青銅で作られた粗末な胸当て。
-
+> CONTEXT: Armors/22/description/
+A breastplate made of bronze.#Lvl1
 > END STRING
 
 > BEGIN STRING
 アイアンブレスト
-
+> CONTEXT: Armors/23/name/
+Iron Plate#Lvl1
 > END STRING
 
 > BEGIN STRING
 鋼板から打ち出した鉄の胸当て。
-
+> CONTEXT: Armors/23/description/
+A breastplate made of iron.#Lvl1
 > END STRING
 
 > BEGIN STRING
 ミスリルブレスト
-
+> CONTEXT: Armors/24/name/
+Mithril Plate#Lvl1
 > END STRING
 
 > BEGIN STRING
 魔法の金属ミスリルで作られた胸当て。
-
+> CONTEXT: Armors/24/description/
+Mithril breastplate made of the magic mineral.#Lvl1
 > END STRING
 
 > BEGIN STRING
 ドラゴンスケイル
-
+> CONTEXT: Armors/25/name/
+Dragon Plate#Lvl1
 > END STRING
 
 > BEGIN STRING
 竜の鱗から作られた胸当て。
-
+> CONTEXT: Armors/25/description/
+A breastplate made from dragon scales.#Lvl1
 > END STRING
 
 > BEGIN STRING
 レザーキャップ
-
+> CONTEXT: Armors/26/name/
+Leather Hap#Lvl1
 > END STRING
 
 > BEGIN STRING
 なめし皮で作られた帽子。
-
+> CONTEXT: Armors/26/description/
+A hat made out of leather.#Lvl1
 > END STRING
 
 > BEGIN STRING
 ブロンズキャップ
-
+> CONTEXT: Armors/27/name/
+Bronze Cap#Lvl1
 > END STRING
 
 > BEGIN STRING
 青銅で補強された帽子。
-
+> CONTEXT: Armors/27/description/
+A reinforced hat made with bronze.#Lvl1
 > END STRING
 
 > BEGIN STRING
 サレット
-
+> CONTEXT: Armors/28/name/
+Sallet#Lvl1
 > END STRING
 
 > BEGIN STRING
 鋼板を加工して作った帽子。
-
+> CONTEXT: Armors/28/description/
+A hat made with steel.#Lvl1
 > END STRING
 
 > BEGIN STRING
 ミスリルキャップ
-
+> CONTEXT: Armors/29/name/
+Mithril Cap#Lvl1
 > END STRING
 
 > BEGIN STRING
 ミスリル銀糸で編まれた帽子。
-
+> CONTEXT: Armors/29/description/
+Mithril cap made of the magic mineral.#Lvl1
 > END STRING
 
 > BEGIN STRING
 ドラゴンスキン
-
+> CONTEXT: Armors/30/name/
+Dragon Cap#Lvl1
 > END STRING
 
 > BEGIN STRING
 竜の皮膚から作られた帽子。
-
+> CONTEXT: Armors/30/description/
+A hat made of dragon scales.#Lvl1
 > END STRING
 
 > BEGIN STRING
 チェインメイル
-
+> CONTEXT: Armors/31/name/
+Chain Mail#Lvl1
 > END STRING
 
 > BEGIN STRING
 鉄の鎖を組み上げて作った鎧。
-
+> CONTEXT: Armors/31/description/
+Armour made with iron chains.#Lvl1
 > END STRING
 
 > BEGIN STRING
 アイアンメイル
-
+> CONTEXT: Armors/32/name/
+Iron Armour#Lvl1
 > END STRING
 
 > BEGIN STRING
 鋼鉄製の鎧。
-
+> CONTEXT: Armors/32/description/
+Armour made of steel.#Lvl1
 > END STRING
 
 > BEGIN STRING
 プレートメイル
-
+> CONTEXT: Armors/33/name/
+Plate Mail#Lvl1
 > END STRING
 
 > BEGIN STRING
 騎士が身につける板金鎧。
-
+> CONTEXT: Armors/33/description/
+Knights wear plate mail.#Lvl1
 > END STRING
 
 > BEGIN STRING
 ミスリルメイル
-
+> CONTEXT: Armors/34/name/
+Mithril Armour#Lvl1
 > END STRING
 
 > BEGIN STRING
 魔法の金属ミスリルで作られた鎧。
-
+> CONTEXT: Armors/34/description/
+Mithril armour made of the magic mineral.#Lvl1
 > END STRING
 
 > BEGIN STRING
 竜鱗の鎧
-
+> CONTEXT: Armors/35/name/
+Dragon Armour#Lvl1
 > END STRING
 
 > BEGIN STRING
 竜の鱗から作られた鎧。
-
+> CONTEXT: Armors/35/description/
+Armour made from dragon scales.#Lvl1
 > END STRING
 
 > BEGIN STRING
 チェインコイフ
-
+> CONTEXT: Armors/36/name/
+Chain Helm#Lvl1
 > END STRING
 
 > BEGIN STRING
 頭部を覆う鉄鎖で編まれたフード。
-
+> CONTEXT: Armors/36/description/
+Helmet made of iron chains.#Lvl1
 > END STRING
 
 > BEGIN STRING
 アイアンヘルム
-
+> CONTEXT: Armors/37/name/
+Iron Helm#Lvl1
 > END STRING
 
 > BEGIN STRING
 鋼鉄製の兜。
-
+> CONTEXT: Armors/37/description/
+Helmet made of steel.#Lvl1
 > END STRING
 
 > BEGIN STRING
 ナイトヘルム
-
+> CONTEXT: Armors/38/name/
+Knight Helm#Lvl1
 > END STRING
 
 > BEGIN STRING
 騎士が身につける装飾された兜。
-
+> CONTEXT: Armors/38/description/
+Knights wear this helm.#Lvl1
 > END STRING
 
 > BEGIN STRING
 ミスリルヘルム
-
+> CONTEXT: Armors/39/name/
+Mithril Helm#Lvl1
 > END STRING
 
 > BEGIN STRING
 魔法の金属ミスリルで作られた兜。
-
+> CONTEXT: Armors/39/description/
+Mithril helm made of the magic mineral.#Lvl1
 > END STRING
 
 > BEGIN STRING
 竜鱗の兜
-
+> CONTEXT: Armors/40/name/
+Dragon Helm#Lvl1
 > END STRING
 
 > BEGIN STRING
 竜の鱗から作られた兜。
-
+> CONTEXT: Armors/40/description/
+Helmet made of dragon scales.#Lvl1
 > END STRING
 
 > BEGIN STRING
 バックラー
-
+> CONTEXT: Armors/41/name/
+Buckler#Lvl1
 > END STRING
 
 > BEGIN STRING
 攻撃を受け流すための小型盾。
-
+> CONTEXT: Armors/41/description/
+A small shield used to fend off attacks.#Lvl1
 > END STRING
 
 > BEGIN STRING
 ラウンドシールド
-
+> CONTEXT: Armors/42/name/
+Round Shield#Lvl1
 > END STRING
 
 > BEGIN STRING
 鉄の枠で補強した木製の円盾。
-
+> CONTEXT: Armors/42/description/
+A circular shield with a reinforced steel frame.#Lvl1
 > END STRING
 
 > BEGIN STRING
 スパイクシールド
-
+> CONTEXT: Armors/43/name/
+Spike Shield#Lvl1
 > END STRING
 
 > BEGIN STRING
 表面に攻撃用のトゲがついた円盾。
-
+> CONTEXT: Armors/43/description/
+A shield with spikes on its surface for offense.#Lvl1
 > END STRING
 
 > BEGIN STRING
 ミスリルバックラー
-
+> CONTEXT: Armors/44/name/
+Mithril Buckler#Lvl1
 > END STRING
 
 > BEGIN STRING
 魔法の金属ミスリルで作られた小型盾。
-
+> CONTEXT: Armors/44/description/
+Mithril buckler made of the magic mineral.#Lvl1
 > END STRING
 
 > BEGIN STRING
 ドラゴンバックラー
-
+> CONTEXT: Armors/45/name/
+Dragon Buckler#Lvl1
 > END STRING
 
 > BEGIN STRING
 竜の鱗から作られた小型盾。
-
+> CONTEXT: Armors/45/description/
+Buckler made of dragon scales.#Lvl1
 > END STRING
 
 > BEGIN STRING
 ウッドシールド
-
+> CONTEXT: Armors/46/name/
+Wood Shield#Lvl1
 > END STRING
 
 > BEGIN STRING
 堅木を重ね合わせて作った盾。
-
+> CONTEXT: Armors/46/description/
+A shield made with hard wood.#Lvl1
 > END STRING
 
 > BEGIN STRING
 アイアンシールド
-
+> CONTEXT: Armors/47/name/
+Iron Shield#Lvl1
 > END STRING
 
 > BEGIN STRING
 鋼鉄製の盾。
-
+> CONTEXT: Armors/47/description/
+Shield made of steel.#Lvl1
 > END STRING
 
 > BEGIN STRING
 ナイトシールド
-
+> CONTEXT: Armors/48/name/
+Knight Shield#Lvl1
 > END STRING
 
 > BEGIN STRING
 グリフォンの紋章が刻まれた鋼の盾。
-
+> CONTEXT: Armors/48/description/
+Knights use this shield.#Lvl1
 > END STRING
 
 > BEGIN STRING
 ミスリルシールド
-
+> CONTEXT: Armors/49/name/
+Mithril Shield#Lvl1
 > END STRING
 
 > BEGIN STRING
 魔法の金属ミスリルで作られた盾。
-
+> CONTEXT: Armors/49/description/
+Mithril shield made of the magic mineral.#Lvl1
 > END STRING
 
 > BEGIN STRING
 竜鱗の盾
-
+> CONTEXT: Armors/50/name/
+Dragon Shield#Lvl1
 > END STRING
 
 > BEGIN STRING
 竜の鱗を組み合わせて作った盾。
-
+> CONTEXT: Armors/50/description/
+Shield made of dragon scales.#Lvl1
 > END STRING
 
 > BEGIN STRING
 闘神のベルト
-
+> CONTEXT: Armors/51/name/
+War God's Belt#Lvl1
 > END STRING
 
 > BEGIN STRING
 闘神の名が刻まれた金属のベルト。
 
-
+> CONTEXT: Armors/51/description/
+Metal belt engraved with the War God's name.#Lvl1
 > END STRING
 
 > BEGIN STRING
 守りのピアス
-
+> CONTEXT: Armors/52/name/
+Defense Piece#Lvl1
 > END STRING
 
 > BEGIN STRING
 守りの魔法がかけられたピアス。
 
-
+> CONTEXT: Armors/52/description/
+Hung at the magic forest for defense.#Lvl1
 > END STRING
 
 > BEGIN STRING
 ウィングブーツ
-
+> CONTEXT: Armors/53/name/
+Winged Boots#Lvl1
 > END STRING
 
 > BEGIN STRING
 風の精霊の力が宿るブーツ。
 
-
+> CONTEXT: Armors/53/description/
+The holy spirit of the wind dwell in these boots.#Lvl1
 > END STRING
 
 > BEGIN STRING
 大地のアミュレット
-
+> CONTEXT: Armors/54/name/
+Earth's Embrace#Lvl1
 > END STRING
 
 > BEGIN STRING
 大地の精霊の力が宿るお守り。
 
-
+> CONTEXT: Armors/54/description/
+The power of the earth protects the wearer.#Lvl1
 > END STRING
 
 > BEGIN STRING
 幸運の女神の名が刻まれたお守り。
 
-> CONTEXT: Armors/55/name/
-Lucky Charm#Lvl1
+> CONTEXT: Armors/55/description/
+A charm engraved with the name of the goddess of luck.#Lvl1
 > END STRING
 
 > BEGIN STRING
 ホーリーシンボル
-> CONTEXT: Armors/55/name/
-Lucky Charm#Lvl1
+> CONTEXT: Armors/56/name/
+Holy Symbol#Lvl1
 > END STRING
 
 > BEGIN STRING
 神に仕える者がもつ聖なるシンボル。
 
-> CONTEXT: Armors/55/name/
-Lucky Charm#Lvl1
+> CONTEXT: Armors/56/description/
+A symbol worn by those who serve God.#Lvl1
 > END STRING
 
 > BEGIN STRING
 ソロモンの指輪
-> CONTEXT: Armors/55/name/
-Lucky Charm#Lvl1
+> CONTEXT: Armors/57/name/
+Solomon's Ring#Lvl1
 > END STRING
 
 > BEGIN STRING
 魔神の力を秘めた指輪。
 
-> CONTEXT: Armors/55/name/
-Lucky Charm#Lvl1
+> CONTEXT: Armors/57/description/
+A ring with the hidden power of a genie.#Lvl1
 > END STRING
 
 > BEGIN STRING
 戦乙女の首飾り
-> CONTEXT: Armors/55/name/
-Lucky Charm#Lvl1
+> CONTEXT: Armors/58/name/
+Odin's Necklace#Lvl1
 > END STRING
 
 > BEGIN STRING
 持つ者に戦う力を与える魔法の首飾り。
 
-> CONTEXT: Armors/55/name/
-Lucky Charm#Lvl1
+> CONTEXT: Armors/58/description/
+A magic necklace that empowers those who fight.#Lvl1
 > END STRING
 
 > BEGIN STRING
 狂戦士の眼帯
-> CONTEXT: Armors/55/name/
-Lucky Charm#Lvl1
+> CONTEXT: Armors/59/name/
+Eyepatch of Fury#Lvl1
 > END STRING
 
 > BEGIN STRING
 狂戦士の力が得られるアイパッチ。
 
-> CONTEXT: Armors/55/name/
-Lucky Charm#Lvl1
+> CONTEXT: Armors/59/description/
+An eyepatch worn by powerful berserkers.#Lvl1
 > END STRING
 
 > BEGIN STRING
 光のタリスマン
-> CONTEXT: Armors/55/name/
-Lucky Charm#Lvl1
+> CONTEXT: Armors/60/name/
+Talisman of Light#Lvl1
 > END STRING
 
 > BEGIN STRING
 神々の王の力が宿るお守り。
-> CONTEXT: Armors/55/name/
-Lucky Charm#Lvl1
+> CONTEXT: Armors/60/description/
+The king of gods dwell in this talisman.#Lvl1
 > END STRING
 
 > BEGIN STRING
 JAP MISSING REPLACE ME
-> CONTEXT: Armors/55/name/
-Lucky Charm#Lvl1
+> CONTEXT: Classes/1/name/
+Soldier#Lvl1
 > END STRING
 
 > BEGIN STRING
 JAP MISSING REPLACE ME
-> CONTEXT: Armors/55/name/
-Lucky Charm#Lvl1
+> CONTEXT: Classes/1/name/
+Soldier#Lvl1
 > END STRING
 
 > BEGIN STRING
 JAP MISSING REPLACE ME
-> CONTEXT: Armors/55/name/
-Lucky Charm#Lvl1
+> CONTEXT: Classes/1/name/
+Soldier#Lvl1
 > END STRING
 
 > BEGIN STRING
 JAP MISSING REPLACE ME
-> CONTEXT: Armors/55/name/
-Lucky Charm#Lvl1
+> CONTEXT: Classes/1/name/
+Soldier#Lvl1
 > END STRING
 
 > BEGIN STRING
 サムライ
-> CONTEXT: Armors/55/name/
-Lucky Charm#Lvl1
+> CONTEXT: Classes/5/name/
+Samurai#Lvl1
 > END STRING
 
 > BEGIN STRING
 アーチャー
-> CONTEXT: Armors/55/name/
-Lucky Charm#Lvl1
+> CONTEXT: Classes/6/name/
+Archer#Lvl1
 > END STRING
 
 > BEGIN STRING
 シーフ
-> CONTEXT: Armors/55/name/
-Lucky Charm#Lvl1
+> CONTEXT: Classes/7/name/
+Thief#Lvl1
 > END STRING
 
 > BEGIN STRING
 僧侶
-> CONTEXT: Armors/55/name/
-Lucky Charm#Lvl1
+> CONTEXT: Classes/8/name/
+Priestess#Lvl1
 > END STRING
 
 > BEGIN STRING
 魔道士
-> CONTEXT: Armors/55/name/
-Lucky Charm#Lvl1
+> CONTEXT: Classes/9/name/
+Witch#Lvl1
 > END STRING
 
 > BEGIN STRING
 賢者
-> CONTEXT: Armors/55/name/
-Lucky Charm#Lvl1
+> CONTEXT: Classes/10/name/
+Sage#Lvl1
 > END STRING
 
 > BEGIN STRING
 レベル
-> CONTEXT: Armors/55/name/
-Lucky Charm#Lvl1
+> CONTEXT: NONE < UNUSED
+Level#Lvl1
 > END STRING
 
 > BEGIN STRING
 Lv
-> CONTEXT: Armors/55/name/
-Lucky Charm#Lvl1
+> CONTEXT: NONE < UNUSED
+Lv.#Lvl1
 > END STRING
 
 > BEGIN STRING
 ＨＰ
-> CONTEXT: Armors/55/name/
-Lucky Charm#Lvl1
+> CONTEXT: NONE < UNUSED
+HP#Lvl1
 > END STRING
 
 > BEGIN STRING
 HP
-> CONTEXT: Armors/55/name/
-Lucky Charm#Lvl1
+> CONTEXT: NONE < UNUSED
+HP#Lvl1
 > END STRING
 
 > BEGIN STRING
 ＭＰ
-> CONTEXT: Armors/55/name/
-Lucky Charm#Lvl1
+> CONTEXT: NONE < UNUSED
+MP#Lvl1
 > END STRING
 
 > BEGIN STRING
 MP
-> CONTEXT: Armors/55/name/
-Lucky Charm#Lvl1
+> CONTEXT: NONE < UNUSED
+MP#Lvl1
 > END STRING
 
 > BEGIN STRING
 ＴＰ
-> CONTEXT: Armors/55/name/
-Lucky Charm#Lvl1
+> CONTEXT: NONE < UNUSED
+TP#Lvl1
 > END STRING
 
 > BEGIN STRING
 TP
-> CONTEXT: Armors/55/name/
-Lucky Charm#Lvl1
+> CONTEXT: NONE < UNUSED
+TP#Lvl1
 > END STRING
 
 > BEGIN STRING
 唐
 > CONTEXT: NONE < UNUSED
-Weapon#Lvl1
+Shield#Lvl1
 > END STRING
 
 > BEGIN STRING
 頭
 > CONTEXT: NONE < UNUSED
-Weapon#Lvl1
+Head#Lvl1
 > END STRING
 
 > BEGIN STRING
 大事なもの
 > CONTEXT: NONE < UNUSED
-Armours#Lvl1
+Key Items#Lvl1
 > END STRING
 
 > BEGIN STRING
 ニューゲーム
 > CONTEXT: NONE < UNUSED
-Clear#Lvl1
+New Game#Lvl1
 > END STRING
 
 > BEGIN STRING
 シャットダウン
 > CONTEXT: NONE < UNUSED
-Continue#Lvl1
+Shutdown#Lvl1
 > END STRING
 
 > BEGIN STRING
 "しかし逃げることはできなかった"
 > CONTEXT: NONE < UNUSED
-"%s has started to escape!"#Lvl1
+"However, it failed!"#Lvl1
 > END STRING
 
 > BEGIN STRING
 "お金を %s\\G 手に入れた！"
 > CONTEXT: NONE < UNUSED
-"%s EXP received!"#Lvl1
+"%s\\G found!"#Lvl1
 > END STRING
 
 > BEGIN STRING
 "%sに %s のダメージを与えた！	"
 > CONTEXT: NONE < UNUSED
-"Miss! %s took no damage!"#Lvl1
+"%s took %s damage!"#Lvl1
 > END STRING
 
 > BEGIN STRING
 "%sの%sが下がった！	"
 > CONTEXT: NONE < UNUSED
-"%s's %s went up!"#Lvl1
+"%s's %s went down!"#Lvl1
 > END STRING
 
 > BEGIN STRING
 ハンドアクス
-> CONTEXT: NONE < UNUSED
-"Common event calls exceeded the limit."#Lvl1
+> CONTEXT: Weapons/1/name/
+Hand Ax#Lvl1
 > END STRING
 
 > BEGIN STRING
 伐採に使う小型の斧。
-> CONTEXT: NONE < UNUSED
-"Common event calls exceeded the limit."#Lvl1
+> CONTEXT: Weapons/1/description/
+Small ax used for harvesting wood.#Lvl1
 > END STRING
 
 > BEGIN STRING
 JAP MISSING REPLACE ME
-> CONTEXT: NONE < UNUSED
-"Common event calls exceeded the limit."#Lvl1
+> CONTEXT: Weapons/2/name/
+Battle Axe#Lvl1
 > END STRING
 
 > BEGIN STRING
 JAP MISSING REPLACE ME
-> CONTEXT: NONE < UNUSED
-"Common event calls exceeded the limit."#Lvl1
+> CONTEXT: Weapons/2/name/
+Battle Axe#Lvl1
 > END STRING
 
 > BEGIN STRING
 バルディッシュ
-> CONTEXT: NONE < UNUSED
-"Common event calls exceeded the limit."#Lvl1
+> CONTEXT: Weapons/3/name/
+Bardiche#Lvl1
 > END STRING
 
 > BEGIN STRING
 ミスリルアクス
-> CONTEXT: NONE < UNUSED
-"Common event calls exceeded the limit."#Lvl1
+> CONTEXT: Weapons/4/name/
+Mithril Axe#Lvl1
 > END STRING
 
 > BEGIN STRING
 魔法の金属ミスリルで作られた斧。
-> CONTEXT: NONE < UNUSED
-"Common event calls exceeded the limit."#Lvl1
+> CONTEXT: Weapons/4/description/
+Mithril axe made of the magic mineral.#Lvl1
 > END STRING
 
 > BEGIN STRING
 クリムゾンアクス
-> CONTEXT: NONE < UNUSED
-"Common event calls exceeded the limit."#Lvl1
+> CONTEXT: Weapons/5/name/
+Crimson Axe#Lvl1
 > END STRING
 
 > BEGIN STRING
 真紅に染め上げられた戦斧。
-> CONTEXT: NONE < UNUSED
-"Common event calls exceeded the limit."#Lvl1
+> CONTEXT: Weapons/5/description/
+Crimson soaked battle axe.#Lvl1
 > END STRING
 
 > BEGIN STRING
 魔斧ギガンテス
-> CONTEXT: NONE < UNUSED
-"Common event calls exceeded the limit."#Lvl1
+> CONTEXT: Weapons/6/name/
+Gigantes Axe#Lvl1
 > END STRING
 
 > BEGIN STRING
 巨人族の英雄が使ったとされる重斧。
-> CONTEXT: NONE < UNUSED
-"Common event calls exceeded the limit."#Lvl1
+> CONTEXT: Weapons/6/description/
+Heavy axe used by giants.#Lvl1
 > END STRING
 
 > BEGIN STRING
 セスタス
-> CONTEXT: NONE < UNUSED
-"Common event calls exceeded the limit."#Lvl1
+> CONTEXT: Weapons/7/name/
+Cestus#Lvl1
 > END STRING
 
 > BEGIN STRING
 拳頭にトゲがついたグローブ。
-> CONTEXT: NONE < UNUSED
-"Common event calls exceeded the limit."#Lvl1
+> CONTEXT: Weapons/7/description/
+Spikes appear on the head of this glove.#Lvl1
 > END STRING
 
 > BEGIN STRING
 バグナウ
-> CONTEXT: NONE < UNUSED
-"Common event calls exceeded the limit."#Lvl1
+> CONTEXT: Weapons/8/name/
+Bagna#Lvl1
 > END STRING
 
 > BEGIN STRING
 短い４本の爪が取りつけられた格闘武器。
-> CONTEXT: NONE < UNUSED
-"Common event calls exceeded the limit."#Lvl1
+> CONTEXT: Weapons/8/description/
+Fighting weapon with four short nails.#Lvl1
 > END STRING
 
 > BEGIN STRING
 アイアンクロウ
-> CONTEXT: NONE < UNUSED
-"Common event calls exceeded the limit."#Lvl1
+> CONTEXT: Weapons/9/name/
+Iron Claw#Lvl1
 > END STRING
 
 > BEGIN STRING
 鋼鉄のかぎ爪が仕込まれた手甲。
-> CONTEXT: NONE < UNUSED
-"Common event calls exceeded the limit."#Lvl1
+> CONTEXT: Weapons/9/description/
+Its claws are made of steel.#Lvl1
 > END STRING
 
 > BEGIN STRING
 ミスリルクロウ
-> CONTEXT: NONE < UNUSED
-"Common event calls exceeded the limit."#Lvl1
+> CONTEXT: Weapons/10/name/
+Mithril Claw#Lvl1
 > END STRING
 
 > BEGIN STRING
 ミスリルのかぎ爪が仕込まれた手甲。
-> CONTEXT: NONE < UNUSED
-"Common event calls exceeded the limit."#Lvl1
+> CONTEXT: Weapons/10/description/
+Mithril claw made of the magic mineral.#Lvl1
 > END STRING
 
 > BEGIN STRING
 竜牙の拳頭をもつ手甲。
-> CONTEXT: Weapons/11/name/
-Dragon Fang#Lvl1
+> CONTEXT: Weapons/11/description/
+The claw head is made of dragon fangs.#Lvl1
 > END STRING
 
 > BEGIN STRING
 魔爪ゼファー
-> CONTEXT: Weapons/11/name/
-Dragon Fang#Lvl1
+> CONTEXT: Weapons/12/name/
+Zephyrus Claw#Lvl1
 > END STRING
 
 > BEGIN STRING
 西風の名を冠する魔法の爪。
-> CONTEXT: Weapons/11/name/
-Dragon Fang#Lvl1
+> CONTEXT: Weapons/12/description/
+Four winds empower this claw.#Lvl1
 > END STRING
 
 > BEGIN STRING
 スピア
-> CONTEXT: Weapons/11/name/
-Dragon Fang#Lvl1
+> CONTEXT: Weapons/13/name/
+Spear#Lvl1
 > END STRING
 
 > BEGIN STRING
 突きに特化させた短めの槍。
-> CONTEXT: Weapons/11/name/
-Dragon Fang#Lvl1
+> CONTEXT: Weapons/13/description/
+A short spear.#Lvl1
 > END STRING
 
 > BEGIN STRING
 パルチザン
-> CONTEXT: Weapons/11/name/
-Dragon Fang#Lvl1
+> CONTEXT: Weapons/14/name/
+Partisan#Lvl1
 > END STRING
 
 > BEGIN STRING
 幅広の刃をもった鋼鉄製の長槍。
-> CONTEXT: Weapons/11/name/
-Dragon Fang#Lvl1
+> CONTEXT: Weapons/14/description/
+A long spear with a long blade.#Lvl1
 > END STRING
 
 > BEGIN STRING
 ハルバード
-> CONTEXT: Weapons/11/name/
-Dragon Fang#Lvl1
+> CONTEXT: Weapons/15/name/
+Halberd#Lvl1
 > END STRING
 
 > BEGIN STRING
 穂先に斧頭の取りつけられた槍。
-> CONTEXT: Weapons/11/name/
-Dragon Fang#Lvl1
+> CONTEXT: Weapons/15/description/
+An axe is mounted on this spear.#Lvl1
 > END STRING
 
 > BEGIN STRING
 ミスリルスピア
-> CONTEXT: Weapons/11/name/
-Dragon Fang#Lvl1
+> CONTEXT: Weapons/16/name/
+Mithril Spear#Lvl1
 > END STRING
 
 > BEGIN STRING
 魔法の金属ミスリルで作られた長槍。
-> CONTEXT: Weapons/11/name/
-Dragon Fang#Lvl1
+> CONTEXT: Weapons/16/description/
+Mithril spear made of the magic mineral.#Lvl1
 > END STRING
 
 > BEGIN STRING
 ホーリーランス
-> CONTEXT: Weapons/11/name/
-Dragon Fang#Lvl1
+> CONTEXT: Weapons/17/name/
+Holy Lance#Lvl1
 > END STRING
 
 > BEGIN STRING
 白き神の祝福を受けた聖なる槍。
-> CONTEXT: Weapons/11/name/
-Dragon Fang#Lvl1
+> CONTEXT: Weapons/17/description/
+A white spirit blessed this holy spear.#Lvl1
 > END STRING
 
 > BEGIN STRING
 魔槍ゲイボルグ
-> CONTEXT: Weapons/11/name/
-Dragon Fang#Lvl1
+> CONTEXT: Weapons/18/name/
+Gaebulg Spear#Lvl1
 > END STRING
 
 > BEGIN STRING
 影の国に伝わる魔力を帯びた槍。
-> CONTEXT: Weapons/11/name/
-Dragon Fang#Lvl1
+> CONTEXT: Weapons/18/description/
+Contains deeply engraved shadow magic.#Lvl1
 > END STRING
 
 > BEGIN STRING
 ショートソード
-> CONTEXT: Weapons/11/name/
-Dragon Fang#Lvl1
+> CONTEXT: Weapons/19/name/
+Short Sword#Lvl1
 > END STRING
 
 > BEGIN STRING
 軽くて扱いやすい刀身の短い剣。
-> CONTEXT: Weapons/11/name/
-Dragon Fang#Lvl1
+> CONTEXT: Weapons/19/description/
+Light and easy-to-use short sword.#Lvl1
 > END STRING
 
 > BEGIN STRING
 ロングソード
-> CONTEXT: Weapons/11/name/
-Dragon Fang#Lvl1
+> CONTEXT: Weapons/20/name/
+Long Sword#Lvl1
 > END STRING
 
 > BEGIN STRING
 鋭い切れ味を誇る戦闘用の長剣。
-> CONTEXT: Weapons/11/name/
-Dragon Fang#Lvl1
+> CONTEXT: Weapons/20/description/
+The strength of the longest combat sword.#Lvl1
 > END STRING
 
 > BEGIN STRING
 ファルシオン
-> CONTEXT: Weapons/11/name/
-Dragon Fang#Lvl1
+> CONTEXT: Weapons/21/name/
+Falcion#Lvl1
 > END STRING
 
 > BEGIN STRING
 反りのある刀身をもつ幅広の剣。
-> CONTEXT: Weapons/11/name/
-Dragon Fang#Lvl1
+> CONTEXT: Weapons/21/description/
+A broad sword with a crescent blade.#Lvl1
 > END STRING
 
 > BEGIN STRING
 ミスリルソード
-> CONTEXT: Weapons/11/name/
-Dragon Fang#Lvl1
+> CONTEXT: Weapons/22/name/
+Mithril Sword#Lvl1
 > END STRING
 
 > BEGIN STRING
 魔法の金属ミスリルで作られた長剣。
-> CONTEXT: Weapons/11/name/
-Dragon Fang#Lvl1
+> CONTEXT: Weapons/22/description/
+Mithril sword made of the magic mineral.#Lvl1
 > END STRING
 
 > BEGIN STRING
 ルーンブレード
-> CONTEXT: Weapons/11/name/
-Dragon Fang#Lvl1
+> CONTEXT: Weapons/23/name/
+Rune Blade#Lvl1
 > END STRING
 
 > BEGIN STRING
 刀身にルーン文字の刻まれた剣。
-> CONTEXT: Weapons/11/name/
-Dragon Fang#Lvl1
+> CONTEXT: Weapons/23/description/
+Engraved with magical runes.#Lvl1
 > END STRING
 
 > BEGIN STRING
 魔剣ティルヴィング
-> CONTEXT: Weapons/11/name/
-Dragon Fang#Lvl1
+> CONTEXT: Weapons/24/name/
+Tyrfing Sword#Lvl1
 > END STRING
 
 > BEGIN STRING
 勝利と災厄をもたらす魔剣。
-> CONTEXT: Weapons/11/name/
-Dragon Fang#Lvl1
+> CONTEXT: Weapons/24/description/
+The magic sword that brings triumph over evil.#Lvl1
 > END STRING
 
 > BEGIN STRING
 無銘の刀
-> CONTEXT: Weapons/11/name/
-Dragon Fang#Lvl1
+> CONTEXT: Weapons/25/name/
+Katana#Lvl1
 > END STRING
 
 > BEGIN STRING
 銘をもたない細身の刀。
-> CONTEXT: Weapons/11/name/
-Dragon Fang#Lvl1
+> CONTEXT: Weapons/25/description/
+Has a slender sword inscription.#Lvl1
 > END STRING
 
 > BEGIN STRING
 斬馬刀
-> CONTEXT: Weapons/11/name/
-Dragon Fang#Lvl1
+> CONTEXT: Weapons/26/name/
+Zanbatou#Lvl1
 > END STRING
 
 > BEGIN STRING
 破壊力に優れた太刀。
-> CONTEXT: Weapons/11/name/
-Dragon Fang#Lvl1
+> CONTEXT: Weapons/26/description/
+Excellent sword with destructive power.#Lvl1
 > END STRING
 
 > BEGIN STRING
 虎徹
-> CONTEXT: Weapons/11/name/
-Dragon Fang#Lvl1
+> CONTEXT: Weapons/27/name/
+Toratouru#Lvl1
 > END STRING
 
 > BEGIN STRING
 名のある刀匠に鍛えられた業物の刀。
-> CONTEXT: Weapons/11/name/
-Dragon Fang#Lvl1
+> CONTEXT: Weapons/27/description/
+A short sword tempered with frost.#Lvl1
 > END STRING
 
 > BEGIN STRING
 霊銀の太刀
-> CONTEXT: Weapons/11/name/
-Dragon Fang#Lvl1
+> CONTEXT: Weapons/28/name/
+Reigin no Tachi#Lvl1
 > END STRING
 
 > BEGIN STRING
 魔法の金属で作られた太刀。
-> CONTEXT: Weapons/11/name/
-Dragon Fang#Lvl1
+> CONTEXT: Weapons/28/description/
+Magic katana made of the magic mineral.#Lvl1
 > END STRING
 
 > BEGIN STRING
 七支刀
-> CONTEXT: Weapons/11/name/
-Dragon Fang#Lvl1
+> CONTEXT: Weapons/29/name/
+Shichishitou#Lvl1
 > END STRING
 
 > BEGIN STRING
 破邪の力を秘めた古代刀。
-> CONTEXT: Weapons/11/name/
-Dragon Fang#Lvl1
+> CONTEXT: Weapons/29/description/
+An ancient sword with hidden power.#Lvl1
 > END STRING
 
 > BEGIN STRING
 妖刀ムラマサ
-> CONTEXT: Weapons/11/name/
-Dragon Fang#Lvl1
+> CONTEXT: Weapons/30/name/
+Muramasa Katana#Lvl1
 > END STRING
 
 > BEGIN STRING
 剣士たちの生き血を吸ってきた魔性の刀。
-> CONTEXT: Weapons/11/name/
-Dragon Fang#Lvl1
+> CONTEXT: Weapons/30/description/
+A demonic sword that sucks the life of the wielder.#Lvl1
 > END STRING
 
 > BEGIN STRING
 ショートボウ
-> CONTEXT: Weapons/11/name/
-Dragon Fang#Lvl1
+> CONTEXT: Weapons/31/name/
+Shortbow#Lvl1
 > END STRING
 
 > BEGIN STRING
 狩猟用に作られた短めの弓。
-> CONTEXT: Weapons/11/name/
-Dragon Fang#Lvl1
+> CONTEXT: Weapons/31/description/
+A shortbow made for hunting.#Lvl1
 > END STRING
 
 > BEGIN STRING
 ロングボウ
-> CONTEXT: Weapons/11/name/
-Dragon Fang#Lvl1
+> CONTEXT: Weapons/32/name/
+Longbow#Lvl1
 > END STRING
 
 > BEGIN STRING
 威力を高めた戦闘用の長弓。
-> CONTEXT: Weapons/11/name/
-Dragon Fang#Lvl1
+> CONTEXT: Weapons/32/description/
+The circular shape grants it strength.#Lvl1
 > END STRING
 
 > BEGIN STRING
 クロスボウ
-> CONTEXT: Weapons/11/name/
-Dragon Fang#Lvl1
+> CONTEXT: Weapons/33/name/
+Crossbow#Lvl1
 > END STRING
 
 > BEGIN STRING
 強力なバネで矢を射出する石弓。
-> CONTEXT: Weapons/11/name/
-Dragon Fang#Lvl1
+> CONTEXT: Weapons/33/description/
+Shoots a crossbow arrow from a strong string.#Lvl1
 > END STRING
 
 > BEGIN STRING
 ミスリルボウ
-> CONTEXT: Weapons/11/name/
-Dragon Fang#Lvl1
+> CONTEXT: Weapons/34/name/
+Mithril Bow#Lvl1
 > END STRING
 
 > BEGIN STRING
 魔法の金属ミスリルで作られた弓。
-> CONTEXT: Weapons/11/name/
-Dragon Fang#Lvl1
+> CONTEXT: Weapons/34/description/
+Mithril bow made of the magic mineral.#Lvl1
 > END STRING
 
 > BEGIN STRING
 エルブンボウ
-> CONTEXT: Weapons/11/name/
-Dragon Fang#Lvl1
+> CONTEXT: Weapons/35/name/
+Ebon Bow#Lvl1
 > END STRING
 
 > BEGIN STRING
 妖精の森に生える霊木から作られた弓。
-> CONTEXT: Weapons/11/name/
-Dragon Fang#Lvl1
+> CONTEXT: Weapons/35/description/
+A bow made from the earth spirits.#Lvl1
 > END STRING
 
 > BEGIN STRING
 ナイフ
-> CONTEXT: Weapons/36/description/
-A bow that bears the name of the Moon Goddess.#Lvl1
+> CONTEXT: Weapons/37/name/
+Knife#Lvl1
 > END STRING
 
 > BEGIN STRING
 日常生活にも使えるナイフ。
-> CONTEXT: Weapons/36/description/
-A bow that bears the name of the Moon Goddess.#Lvl1
+> CONTEXT: Weapons/37/description/
+Your run-of-the-mill knife.#Lvl1
 > END STRING
 
 > BEGIN STRING
 ダガー
-> CONTEXT: Weapons/36/description/
-A bow that bears the name of the Moon Goddess.#Lvl1
+> CONTEXT: Weapons/38/name/
+Dagger#Lvl1
 > END STRING
 
 > BEGIN STRING
 幅広の刀身をもつ戦闘用の短刀。
-> CONTEXT: Weapons/36/description/
-A bow that bears the name of the Moon Goddess.#Lvl1
+> CONTEXT: Weapons/38/description/
+A dagger with a large blade made for combat.#Lvl1
 > END STRING
 
 > BEGIN STRING
 マインゴーシュ
-> CONTEXT: Weapons/36/description/
-A bow that bears the name of the Moon Goddess.#Lvl1
+> CONTEXT: Weapons/39/name/
+Main Gauche#Lvl1
 > END STRING
 
 > BEGIN STRING
 攻撃を受け流すこともできる短剣。
-> CONTEXT: Weapons/36/description/
-A bow that bears the name of the Moon Goddess.#Lvl1
+> CONTEXT: Weapons/39/description/
+Knife used for fending off attacks.#Lvl1
 > END STRING
 
 > BEGIN STRING
 ミスリルナイフ
-> CONTEXT: Weapons/36/description/
-A bow that bears the name of the Moon Goddess.#Lvl1
+> CONTEXT: Weapons/40/name/
+Mithril Knife#Lvl1
 > END STRING
 
 > BEGIN STRING
 魔法の金属ミスリルで作られたナイフ。
-> CONTEXT: Weapons/36/description/
-A bow that bears the name of the Moon Goddess.#Lvl1
+> CONTEXT: Weapons/40/description/
+Mithril knife made of the magic mineral.#Lvl1
 > END STRING
 
 > BEGIN STRING
 アサシンダガー
-> CONTEXT: Weapons/36/description/
-A bow that bears the name of the Moon Goddess.#Lvl1
+> CONTEXT: Weapons/41/name/
+Assassin's Dagger#Lvl1
 > END STRING
 
 > BEGIN STRING
 暗殺者が好んで使う漆黒の短刀。
-> CONTEXT: Weapons/36/description/
-A bow that bears the name of the Moon Goddess.#Lvl1
+> CONTEXT: Weapons/41/description/
+Used for assassinations.#Lvl1
 > END STRING
 
 > BEGIN STRING
 魔刃ヴォーテクス
-> CONTEXT: Weapons/36/description/
-A bow that bears the name of the Moon Goddess.#Lvl1
+> CONTEXT: Weapons/42/name/
+Vortex Blade#Lvl1
 > END STRING
 
 > BEGIN STRING
 竜巻の名を冠する魔法の短剣。
-> CONTEXT: Weapons/36/description/
-A bow that bears the name of the Moon Goddess.#Lvl1
+> CONTEXT: Weapons/42/description/
+Bears the name of an intense maelstrom.#Lvl1
 > END STRING
 
 > BEGIN STRING
 フレイル
-> CONTEXT: Weapons/43/description/
-A circular club with metal spikes.#Lvl1
+> CONTEXT: Weapons/44/name/
+Flail#Lvl1
 > END STRING
 
 > BEGIN STRING
 柄の先に鎖で鉄球をつないだ打撃武器。
-> CONTEXT: Weapons/43/description/
-A circular club with metal spikes.#Lvl1
+> CONTEXT: Weapons/44/description/
+An iron ball dangling from a chain.#Lvl1
 > END STRING
 
 > BEGIN STRING
 ウォーハンマー
-> CONTEXT: Weapons/43/description/
-A circular club with metal spikes.#Lvl1
+> CONTEXT: Weapons/45/name/
+War Hammer#Lvl1
 > END STRING
 
 > BEGIN STRING
 戦闘用に作られた鋼鉄のハンマー。
-> CONTEXT: Weapons/43/description/
-A circular club with metal spikes.#Lvl1
+> CONTEXT: Weapons/45/description/
+A steel hammer made for battle.#Lvl1
 > END STRING
 
 > BEGIN STRING
 ミスリルメイス
-> CONTEXT: Weapons/43/description/
-A circular club with metal spikes.#Lvl1
+> CONTEXT: Weapons/46/name/
+Mithril Mace#Lvl1
 > END STRING
 
 > BEGIN STRING
 魔法の金属ミスリルで作られた戦槌。
-> CONTEXT: Weapons/43/description/
-A circular club with metal spikes.#Lvl1
+> CONTEXT: Weapons/46/description/
+Mithril mace made of the magic mineral.#Lvl1
 > END STRING
 
 > BEGIN STRING
 アースブレイカー
-> CONTEXT: Weapons/43/description/
-A circular club with metal spikes.#Lvl1
+> CONTEXT: Weapons/47/name/
+Ground Breaker#Lvl1
 > END STRING
 
 > BEGIN STRING
 大地の力を秘めた魔法のハンマー。
-> CONTEXT: Weapons/43/description/
-A circular club with metal spikes.#Lvl1
+> CONTEXT: Weapons/47/description/
+The earth can crack from this magical hammer.#Lvl1
 > END STRING
 
 > BEGIN STRING
 魔槌ミョルニル
-> CONTEXT: Weapons/43/description/
-A circular club with metal spikes.#Lvl1
+> CONTEXT: Weapons/48/name/
+Mourner Hammer #Lvl1
 > END STRING
 
 > BEGIN STRING
 “打ち砕くもの”の異名をもつ戦神の槌。
-> CONTEXT: Weapons/43/description/
-A circular club with metal spikes.#Lvl1
+> CONTEXT: Weapons/48/description/
+The "Crusher" is what the God of War nicknamed this.#Lvl1
 > END STRING
 
 > BEGIN STRING
 ウッドスタッフ
-> CONTEXT: Weapons/43/description/
-A circular club with metal spikes.#Lvl1
+> CONTEXT: Weapons/49/name/
+Wood Staff#Lvl1
 > END STRING
 
 > BEGIN STRING
 樫の木で作られた堅い杖。
-> CONTEXT: Weapons/43/description/
-A circular club with metal spikes.#Lvl1
+> CONTEXT: Weapons/49/description/
+Sturdy staff made of oak.#Lvl1
 > END STRING
 
 > BEGIN STRING
 魔道士の杖
-> CONTEXT: Weapons/43/description/
-A circular club with metal spikes.#Lvl1
+> CONTEXT: Weapons/50/name/
+Magic Staff#Lvl1
 > END STRING
 
 > BEGIN STRING
 精神集中を助ける宝珠のついた杖。
-> CONTEXT: Weapons/43/description/
-A circular club with metal spikes.#Lvl1
+> CONTEXT: Weapons/50/description/
+An orb attached to this staff helps with casting magic.#Lvl1
 > END STRING
 
 > BEGIN STRING
 フォースワンド
-> CONTEXT: Weapons/43/description/
-A circular club with metal spikes.#Lvl1
+> CONTEXT: Weapons/51/name/
+Force Wand#Lvl1
 > END STRING
 
 > BEGIN STRING
 術者の魔力を増幅させる銀製の杖。
-> CONTEXT: Weapons/43/description/
-A circular club with metal spikes.#Lvl1
+> CONTEXT: Weapons/51/description/
+Silver amplifies the magic cast from this wand.#Lvl1
 > END STRING
 
 > BEGIN STRING
 ミスリルロッド
-> CONTEXT: Weapons/43/description/
-A circular club with metal spikes.#Lvl1
+> CONTEXT: Weapons/52/name/
+Mithril Rod#Lvl1
 > END STRING
 
 > BEGIN STRING
 魔法の金属ミスリルで作られた杖。
-> CONTEXT: Weapons/43/description/
-A circular club with metal spikes.#Lvl1
+> CONTEXT: Weapons/52/description/
+Mithril rod made of the magic mineral.#Lvl1
 > END STRING
 
 > BEGIN STRING
 霊木の杖
-> CONTEXT: Weapons/43/description/
-A circular club with metal spikes.#Lvl1
+> CONTEXT: Weapons/53/name/
+Spirit Staff#Lvl1
 > END STRING
 
 > BEGIN STRING
 ヤドリギの老木から作られた杖。
-> CONTEXT: Weapons/43/description/
-A circular club with metal spikes.#Lvl1
+> CONTEXT: Weapons/53/description/
+A cane made from an old tree of mistletoe.#Lvl1
 > END STRING
 
 > BEGIN STRING
 魔杖アゾット
-> CONTEXT: Weapons/43/description/
-A circular club with metal spikes.#Lvl1
+> CONTEXT: Weapons/54/name/
+Magic Wand Azert#Lvl1
 > END STRING
 
 > BEGIN STRING
 賢者の石が埋め込まれた魔杖。
-> CONTEXT: Weapons/43/description/
-A circular club with metal spikes.#Lvl1
+> CONTEXT: Weapons/54/description/
+A magic wand embedded with the Philosopher's Stone.#Lvl1
 > END STRING
 
 > BEGIN STRING
 フリントロック
-> CONTEXT: Weapons/43/description/
-A circular club with metal spikes.#Lvl1
+> CONTEXT: Weapons/55/name/
+Flint Lock#Lvl1
 > END STRING
 
 > BEGIN STRING
 火打ち式の旧式拳銃。
-> CONTEXT: Weapons/43/description/
-A circular club with metal spikes.#Lvl1
+> CONTEXT: Weapons/55/description/
+Antique pistol with a funky brace.#Lvl1
 > END STRING
 
 > BEGIN STRING
 マスケット
-> CONTEXT: Weapons/43/description/
-A circular club with metal spikes.#Lvl1
+> CONTEXT: Weapons/56/name/
+Musket#Lvl1
 > END STRING
 
 > BEGIN STRING
 銃士に支給される歩兵銃。
-> CONTEXT: Weapons/43/description/
-A circular club with metal spikes.#Lvl1
+> CONTEXT: Weapons/56/description/
+A gun used by musketeers.#Lvl1
 > END STRING
 
 > BEGIN STRING
 ドラグーン
-> CONTEXT: Weapons/43/description/
-A circular club with metal spikes.#Lvl1
+> CONTEXT: Weapons/57/name/
+Dragoon#Lvl1
 > END STRING
 
 > BEGIN STRING
 騎兵が使用するカービン銃。
-> CONTEXT: Weapons/43/description/
-A circular club with metal spikes.#Lvl1
+> CONTEXT: Weapons/57/description/
+Used by the cavalry.#Lvl1
 > END STRING
 
 > BEGIN STRING
 霊銀銃
-> CONTEXT: Weapons/43/description/
-A circular club with metal spikes.#Lvl1
+> CONTEXT: Weapons/58/name/
+Mithril Gun#Lvl1
 > END STRING
 
 > BEGIN STRING
 魔法の金属ミスリルの銃身をもつ銃。
-> CONTEXT: Weapons/43/description/
-A circular club with metal spikes.#Lvl1
+> CONTEXT: Weapons/58/description/
+Mithril gun made of the magic mineral.#Lvl1
 > END STRING
 
 > BEGIN STRING
 ピースメイカー
-> CONTEXT: Weapons/43/description/
-A circular club with metal spikes.#Lvl1
+> CONTEXT: Weapons/59/name/
+Peacemaker#Lvl1
 > END STRING
 
 > BEGIN STRING
 黒色火薬を用いたリボルバー式拳銃。
-> CONTEXT: Weapons/43/description/
-A circular club with metal spikes.#Lvl1
+> CONTEXT: Weapons/59/description/
+Revolving pistol that uses black powder.#Lvl1
 > END STRING
 
 > BEGIN STRING
 魔銃エーテルブラスト
-> CONTEXT: Weapons/43/description/
-A circular club with metal spikes.#Lvl1
+> CONTEXT: Weapons/60/name/
+Etherblast Gun#Lvl1
 > END STRING
 
 > BEGIN STRING
 霊子を弾丸に換えて撃ち出す魔銃。
-> CONTEXT: Weapons/43/description/
-A circular club with metal spikes.#Lvl1
+> CONTEXT: Weapons/60/description/
+A magical gun that shoots bullets from nothing.#Lvl1
 > END STRING
 

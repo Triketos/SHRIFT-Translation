@@ -1,0 +1,64 @@
+﻿> GAIJINIZER PATCH FILE
+> BEGIN STRING
+…………さっさとくたばれよ
+
+バケモノめ
+> CONTEXT: Map023/events/6/pages/0/1/Dialogue/kazuya-3
+...... さ く く. monster#MTLed
+> END STRING
+
+> BEGIN STRING
+バーゲストの群れる警備エリアを抜け
+
+なんとか地上へ出口に繋がる居住地区に来た\\N[1]。
+> CONTEXT: Map023/events/6/pages/0/5/Dialogue
+Go through the flocking security area of barghest
+\\N[1] who came to the residence area somehow connected to
+the exit to the ground.#MTLed
+> END STRING
+
+> BEGIN STRING
+居住地区は、電力が全く来ておらず。
+
+重い防災シャッターは、手では開けられない……
+> CONTEXT: Map023/events/6/pages/0/9/Dialogue
+In the residential area, no power comes.
+Heavy disaster prevention shutter can not be opened by hand
+...#MTLed
+> END STRING
+
+> BEGIN STRING
+電力が来ていない理由を探るべく
+
+\\N[1]は、裕真の指示に従い、電力室へ向かうのだが……。
+> CONTEXT: Map023/events/6/pages/0/13/Dialogue
+To find out why power is not coming. \\N[1] follows the
+directions of Yuuma and goes to the power room ....#MTLed
+> END STRING
+
+> BEGIN STRING
+…お帰りなさいませ。
+> CONTEXT: Map023/events/6/pages/0/234/Dialogue/other1
+…Welcome, home.#MTLed
+> END STRING
+
+> BEGIN STRING
+この部屋の左側に、\\C[2]色の違う床があるのはご存じでしょうか。
+
+ここを歩き回ると『エンカウント』できるようになりました。
+> CONTEXT: Map023/events/6/pages/0/236/Dialogue/other1
+On the left side of this room\\C[2] Do you know that
+there are different colored floors?
+It is possible to "encount" by walking around
+here.#MTLed
+> END STRING
+
+> BEGIN STRING
+今までの本の中の戦闘とは少しだけ勝手が違います。
+
+詳しくは、近くにいるランパスに話しかけてください。
+> CONTEXT: Map023/events/6/pages/0/240/Dialogue/other1
+The battle in the book so far is slightly
+different. For more information, talk to nearby
+Lampas.#MTLed
+> END STRING

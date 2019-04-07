@@ -1,0 +1,24 @@
+﻿> GAIJINIZER PATCH FILE
+> BEGIN STRING
+運命の始まり
+> CONTEXT: Map193/events/20/pages/1/0/NamePop
+The_beginning_of_fate#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[2]認証エラー：肉体ステータスが一致しません
+
+自身の能力安定値を初期化してください。
+> CONTEXT: Map193/events/24/pages/1/0/Dialogue
+\\C[2]Authentication error: physical status does not match
+Please initialize your own stable value.#MTLed
+> END STRING
+
+> BEGIN STRING
+『能力安定値を初期化』…？
+
+\\C[2]黒イモリでリセット…とかかな？
+> CONTEXT: Map193/events/24/pages/1/4/Dialogue/kazuya
+"Initialize stable capacity value" ...?
+\\C[2]Reset with black newt...Toka?#MTLed
+> END STRING

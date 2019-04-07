@@ -1,0 +1,3293 @@
+﻿> GAIJINIZER PATCH FILE
+> BEGIN STRING
+最初から始める
+> CONTEXT: Map002/events/1/pages/0/72/Choice/0
+Start from the Beginning#Dargoth
+> END STRING
+
+> BEGIN STRING
+続きから始めるen(s[9])
+> CONTEXT: Map002/events/1/pages/0/72/Choice/1
+Continue en(s[9])#Dargoth
+> END STRING
+
+> BEGIN STRING
+チャプター選択en(s[9])
+> CONTEXT: Map002/events/1/pages/0/72/Choice/2
+Chapter Select en(s[9])#Dargoth
+> END STRING
+
+> BEGIN STRING
+敗北シーンen(s[14])
+> CONTEXT: Map002/events/1/pages/0/72/Choice/3
+Loss Scenes en(s[14])#Dargoth
+> END STRING
+
+> BEGIN STRING
+最初から本編を始めます。
+> CONTEXT: Map002/events/1/pages/0/74/ChoiceHelp
+Start the main story from the beginning.#MTLed
+> END STRING
+
+> BEGIN STRING
+難易度を選択してください。
+> CONTEXT: Map002/events/1/pages/0/76/Dialogue
+Choose a Difficulty#Dargoth
+> END STRING
+
+> BEGIN STRING
+易しい
+> CONTEXT: Map002/events/1/pages/0/78/Choice/0
+> CONTEXT: Map003/events/1/pages/2/624/Choice/0
+> CONTEXT: Map094/events/13/pages/0/79/Choice/0
+Easy#Dargoth
+> END STRING
+
+> BEGIN STRING
+普通
+> CONTEXT: Map002/events/1/pages/0/78/Choice/1
+> CONTEXT: Map003/events/1/pages/2/624/Choice/1
+> CONTEXT: Map094/events/13/pages/0/79/Choice/1
+Normal#Dargoth
+> END STRING
+
+> BEGIN STRING
+難しい
+> CONTEXT: Map002/events/1/pages/0/78/Choice/2
+> CONTEXT: Map003/events/1/pages/2/624/Choice/2
+> CONTEXT: Map094/events/13/pages/0/79/Choice/2
+Hard#Dargoth
+> END STRING
+
+> BEGIN STRING
+【傍観者】
+> CONTEXT: Map002/events/1/pages/0/78/Choice/3
+Spectator#Dargoth
+> END STRING
+
+> BEGIN STRING
+難易度：\\C[3]易しい
+\\C[0]アイテムの量が倍になり、被ダメージが半減します。
+ある程度は苦労せずにクリアしたい方向けの難易度です。
+> CONTEXT: Map002/events/1/pages/0/80/Dialogue
+Difficulty：\\C[3]Easy
+\\C[0]Find double items; receive only half damage.
+For people who are only masochists sexually.
+Highly recommended for a first play.#Dargoth
+> END STRING
+
+> BEGIN STRING
+始める
+> CONTEXT: Map002/events/1/pages/0/84/Choice/0
+> CONTEXT: Map002/events/1/pages/0/107/Choice/0
+> CONTEXT: Map002/events/1/pages/0/127/Choice/0
+> CONTEXT: Map002/events/1/pages/0/161/Choice/0
+> CONTEXT: Map003/events/1/pages/2/630/Choice/0
+> CONTEXT: Map003/events/1/pages/2/649/Choice/0
+> CONTEXT: Map003/events/1/pages/2/668/Choice/0
+> CONTEXT: Map094/events/13/pages/0/85/Choice/0
+> CONTEXT: Map094/events/13/pages/0/104/Choice/0
+> CONTEXT: Map094/events/13/pages/0/123/Choice/0
+Start Game#Dargoth
+> END STRING
+
+> BEGIN STRING
+難易度：\\C[14]普通
+\\C[0]アイテムやダメージ量が標準の、制作者想定難易度です。
+エロい状態異常で追い詰められるのが好きだったり
+逆境や根気の必要な場面が燃える人向けになります。
+> CONTEXT: Map002/events/1/pages/0/102/Dialogue
+> CONTEXT: Map003/events/1/pages/2/644/Dialogue
+> CONTEXT: Map094/events/13/pages/0/99/Dialogue
+Difficulty:\\C[14] Normal
+\\C[0]Items and damage as intended by the developer.
+For people who want to feel as utterly fucked as the
+protagonist.#Dargoth
+> END STRING
+
+> BEGIN STRING
+難易度：\\C[30]難しい\\C[0]
+ダメージ量・気力消費、性欲上昇率\\C[2]１．５倍\\C[0]の激ムズモードです。
+制作者の過去作の『出来ないことはない』の信条に則った難易度です。
+正直、相当の手練れでなければオススメしません。
+> CONTEXT: Map002/events/1/pages/0/122/Dialogue
+> CONTEXT: Map003/events/1/pages/2/663/Dialogue
+> CONTEXT: Map094/events/13/pages/0/118/Dialogue
+Difficulty：\\C[30] Hard\\C[0]
+Damage taken, vitality consumption, and lust increases
+raised by \\C[2]1.5x\\C[0]. It's not impossible, so they say.
+Strongly not recommended for your first play.#Dargoth
+> END STRING
+
+> BEGIN STRING
+２周目には傍観者は選べません。
+> CONTEXT: Map002/events/1/pages/0/149/Dialogue
+You can not choose an onlooker on the second lap.#MTLed
+> END STRING
+
+> BEGIN STRING
+難易度：\\C[24]傍観者\\C[0]
+ＥＡＳＹでも心が折れた…でもエロシーンは見てみたい…
+そんなワガママを叶える、もはやゲームですらない難易度です。
+\\C[10]ギャグED固定、難易度変更不可、一部イベントや心蝕が起きません。
+> CONTEXT: Map002/events/1/pages/0/156/Dialogue
+Difficulty: \\C[24]Spectator Mode\\C[0]
+For people who want to see the H-scenes but have their
+spirits broken even on easy. Not even a game anymore.
+\\C[10]Joke ending, and some events and scenes are unavailable.#Dargoth
+> END STRING
+
+> BEGIN STRING
+ゲーム中にセーブした場所から始めます。
+> CONTEXT: Map002/events/1/pages/0/186/ChoiceHelp
+Start from the location saved during the game.#MTLed
+> END STRING
+
+> BEGIN STRING
+内容：【\\V[108]】
+
+リベンジデータが存在します。このデータをロードしますか？
+> CONTEXT: Map002/events/1/pages/0/189/Dialogue
+> CONTEXT: Map003/events/1/pages/2/589/Dialogue
+Location：【\\V[108]】
+
+Revenge data exists. Do you want to load this file?#Dargoth
+> END STRING
+
+> BEGIN STRING
+通常ロード画面へ
+> CONTEXT: Map002/events/1/pages/0/193/Choice/0
+To the regular load screen#Dargoth
+> END STRING
+
+> BEGIN STRING
+リベンジする
+> CONTEXT: Map002/events/1/pages/0/193/Choice/1
+> CONTEXT: Map003/events/1/pages/2/593/Choice/1
+Get revenge#Dargoth
+> END STRING
+
+> BEGIN STRING
+データを削除する（通常ロード画面へ）
+> CONTEXT: Map002/events/1/pages/0/193/Choice/2
+Delete file mode (opens load screen)#Dargoth
+> END STRING
+
+> BEGIN STRING
+選択したセーブデータの状態から
+> CONTEXT: Map002/events/1/pages/0/214/ChoiceHelp
+From the state of the selected save data#MTLed
+> END STRING
+
+> BEGIN STRING
+チャプター開始するデータを選んでください。
+> CONTEXT: Map002/events/1/pages/0/218/Dialogue
+Please choose a save to load from#Dargoth
+> END STRING
+
+> BEGIN STRING
+一度見た搾精シーンを見ることが出来ます。（免罪符無効）
+> CONTEXT: Map002/events/1/pages/0/228/ChoiceHelp
+You can see the milking scene you saw once. (Donation for
+preemption)#MTLed
+> END STRING
+
+> BEGIN STRING
+関連ノベルリンク en(s[22])
+> CONTEXT: Map002/events/1/pages/0/234/Choice/0
+Open links to related novel en(s[22])#Dargoth
+> END STRING
+
+> BEGIN STRING
+ギャラリー【公式】 en(s[22])
+> CONTEXT: Map002/events/1/pages/0/234/Choice/1
+Gallery [Official] en(s[22])#Dargoth
+> END STRING
+
+> BEGIN STRING
+プレイヤーの方が執筆した、『SHRIFT』関連の小説を紹介しています。
+> CONTEXT: Map002/events/1/pages/0/236/ChoiceHelp
+Introduces 'SHRIFT' related novels written by players.#MTLed
+> END STRING
+
+> BEGIN STRING
+ゲームで登場した人物の立ち絵や一枚絵などが閲覧できます。
+> CONTEXT: Map002/events/1/pages/0/244/ChoiceHelp
+You can view the stand-up pictures and single pictures of
+the characters who appeared in the game.#MTLed
+> END STRING
+
+> BEGIN STRING
+ギャラリー【ゲスト】 en(s[22])
+> CONTEXT: Map002/events/1/pages/0/251/Choice/0
+Gallery [Fan Art] en(s[22])#Dargoth
+> END STRING
+
+> BEGIN STRING
+サウンド
+> CONTEXT: Map002/events/1/pages/0/251/Choice/1
+Music#Dargoth
+> END STRING
+
+> BEGIN STRING
+おまけen(s[13])
+> CONTEXT: Map002/events/1/pages/0/251/Choice/2
+Bonus (not implemented yet) en(s[13])#Dargoth
+> END STRING
+
+> BEGIN STRING
+タイトルへ戻る
+> CONTEXT: Map002/events/1/pages/0/251/Choice/3
+Return to Title#Dargoth
+> END STRING
+
+> BEGIN STRING
+プレイヤーの方により贈られたイラストを掲載しています。
+> CONTEXT: Map002/events/1/pages/0/253/ChoiceHelp
+I have posted the final i was given by the player.#MTLed
+> END STRING
+
+> BEGIN STRING
+ゲーム中で流れる音楽が鑑賞できます。
+> CONTEXT: Map002/events/1/pages/0/261/ChoiceHelp
+You can watch the music flowing in the game.#MTLed
+> END STRING
+
+> BEGIN STRING
+ゲームを楽しんでくれた人に対してのおまけです。
+> CONTEXT: Map002/events/1/pages/0/268/ChoiceHelp
+It is a bonus for those who enjoyed the game.#MTLed
+> END STRING
+
+> BEGIN STRING
+２周目要素リセット
+> CONTEXT: Map002/events/1/pages/0/271/Choice/0
+Element reset on 2nd lap#MTLed
+> END STRING
+
+> BEGIN STRING
+想ひ魂番外編　en(s[9999])
+> CONTEXT: Map002/events/1/pages/0/271/Choice/1
+Memento extra editionen(s[9999])#MTLed
+> END STRING
+
+> BEGIN STRING
+ゲームクリアすると、自動的に始まる２周目要素を無効化して
+> CONTEXT: Map002/events/1/pages/0/273/ChoiceHelp
+When the game is cleared, the second lap element that
+starts automatically is changed to prevention#MTLed
+> END STRING
+
+> BEGIN STRING
+『２周目要素』を無効化しますか？
+\\C[4][無効化されるもの]
+・専用ショップ・マイルーム状況
+・専用イベント・強制見逃し
+> CONTEXT: Map002/events/1/pages/0/278/Dialogue
+Do you want to make "previous element of 2nd lap"
+prevention?
+\\C[4][prevention]
+・ Only shop ・ my room situation
+・ Dedicated event ・ Forced missed#MTLed
+> END STRING
+
+> BEGIN STRING
+無効化する
+> CONTEXT: Map002/events/1/pages/0/283/Choice/0
+Become a prevention#MTLed
+> END STRING
+
+> BEGIN STRING
+キャンセルする
+> CONTEXT: Map002/events/1/pages/0/283/Choice/1
+woof cell#MTLed
+> END STRING
+
+> BEGIN STRING
+タイトル画面に戻ります。
+> CONTEXT: Map002/events/1/pages/0/301/ChoiceHelp
+You will return to the title screen.#MTLed
+> END STRING
+
+> BEGIN STRING
+バーゲスト if(s[101])
+> CONTEXT: Map002/events/1/pages/0/310/Choice/0
+Barghest#Dargoth
+> END STRING
+
+> BEGIN STRING
+ランパス if(s[105])
+> CONTEXT: Map002/events/1/pages/0/310/Choice/1
+Lampas#Dargoth
+> END STRING
+
+> BEGIN STRING
+アイアンメイデン if(s[109])
+> CONTEXT: Map002/events/1/pages/0/310/Choice/2
+Iron Maiden#Dargoth
+> END STRING
+
+> BEGIN STRING
+エンプーサ if(s[112])
+> CONTEXT: Map002/events/1/pages/0/310/Choice/3
+Empuse#Dargoth
+> END STRING
+
+> BEGIN STRING
+"【開放済み】"
+> CONTEXT: Map002/events/1/pages/0/317/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/325/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/333/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/401/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/409/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/417/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/486/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/494/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/546/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/554/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/562/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/633/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/641/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/693/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/701/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/763/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/771/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/779/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/847/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/855/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/863/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/871/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/959/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/967/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/1019/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/1027/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/1035/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/1043/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/1127/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/1135/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/1143/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/1227/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/1235/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/1307/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/1315/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/1367/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/1403/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/1411/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/1419/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/1487/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/1527/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/1563/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/1571/InlineScript/1:24
+"[Unlocked]"#Dargoth
+> END STRING
+
+> BEGIN STRING
+"ヒント：誘惑状態に屈服する。"
+> CONTEXT: Map002/events/1/pages/0/320/InlineScript/2:1
+> CONTEXT: Map002/events/1/pages/0/636/InlineScript/2:1
+"Hint: I succumb to the temptation pose."#MTLed
+> END STRING
+
+> BEGIN STRING
+"ヒント：押し倒された状態で屈服する。"
+> CONTEXT: Map002/events/1/pages/0/328/InlineScript/2:1
+> CONTEXT: Map002/events/1/pages/0/644/InlineScript/2:1
+"Hint: I succumb in a state of overthrow."#MTLed
+> END STRING
+
+> BEGIN STRING
+"ヒント：ボイラー室からの追いかけっこ。"
+> CONTEXT: Map002/events/1/pages/0/336/InlineScript/2:1
+"Hint: Follow-up from the boiler room."#MTLed
+> END STRING
+
+> BEGIN STRING
+誘惑 en(s[102])
+> CONTEXT: Map002/events/1/pages/0/341/Choice/0
+Temptation en(s[102])#Dargoth
+> END STRING
+
+> BEGIN STRING
+騎乗位 en(s[103])
+> CONTEXT: Map002/events/1/pages/0/341/Choice/1
+Cowgirl en(s[103])#Dargoth
+> END STRING
+
+> BEGIN STRING
+集団 en(s[104])
+> CONTEXT: Map002/events/1/pages/0/341/Choice/2
+Gangbang en(s[104])#Dargoth
+> END STRING
+
+> BEGIN STRING
+\\V[110]
+> CONTEXT: Map002/events/1/pages/0/343/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/427/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/503/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/571/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/651/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/711/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/788/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/880/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/976/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/1052/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/1152/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/1244/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/1324/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/1376/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/1428/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/1496/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/1536/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/1580/ChoiceHelp
+\\V[110]#NoTL
+> END STRING
+
+> BEGIN STRING
+【バーゲスト】：誘惑敗北シーン
+
+この戦闘を閲覧しますか？
+> CONTEXT: Map002/events/1/pages/0/345/Dialogue
+【Barghest】: Temptation defeat scene
+
+Do you want to view this battle?#MTLed
+> END STRING
+
+> BEGIN STRING
+\\V[111]
+> CONTEXT: Map002/events/1/pages/0/359/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/443/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/519/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/587/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/667/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/727/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/804/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/896/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/992/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/1068/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/1184/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/1276/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/1340/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/1444/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/1612/ChoiceHelp
+\\V[111]#NoTL
+> END STRING
+
+> BEGIN STRING
+【バーゲスト】：騎乗位敗北シーン
+
+この戦闘を閲覧しますか？
+> CONTEXT: Map002/events/1/pages/0/361/Dialogue
+【Barghest】: Cowgirl defeat scene
+
+Do you want to view this battle?#MTLed
+> END STRING
+
+> BEGIN STRING
+\\V[112]
+> CONTEXT: Map002/events/1/pages/0/375/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/459/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/603/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/820/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/912/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/1084/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/1200/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/1460/ChoiceHelp
+\\V[112]#NoTL
+> END STRING
+
+> BEGIN STRING
+【バーゲスト】：集団敗北シーン
+
+この戦闘を閲覧しますか？
+> CONTEXT: Map002/events/1/pages/0/377/Dialogue
+【Barghest】: gangbang defeat scene
+
+Do you want to view this battle?#MTLed
+> END STRING
+
+> BEGIN STRING
+"ヒント：通常状態で口塞ぎを受け続ける。"
+> CONTEXT: Map002/events/1/pages/0/404/InlineScript/2:1
+"Hint: Continue to receive Gagged under normal conditions."#MTLed
+> END STRING
+
+> BEGIN STRING
+"ヒント：甘い口車。"
+> CONTEXT: Map002/events/1/pages/0/412/InlineScript/2:1
+"Hint: Sweet Nothings."#MTLed
+> END STRING
+
+> BEGIN STRING
+"ヒント：誘惑状態で口塞ぎを受け続ける。"
+> CONTEXT: Map002/events/1/pages/0/420/InlineScript/2:1
+"Hint: Continue to receive Gagged in temptation pose."#MTLed
+> END STRING
+
+> BEGIN STRING
+足コキ en(s[106])
+> CONTEXT: Map002/events/1/pages/0/425/Choice/0
+Footjob en(s[106])#Dargoth
+> END STRING
+
+> BEGIN STRING
+抱きしめ en(s[107])
+> CONTEXT: Map002/events/1/pages/0/425/Choice/1
+Embrace en(s[107])#Dargoth
+> END STRING
+
+> BEGIN STRING
+騎乗位 en(s[108])
+> CONTEXT: Map002/events/1/pages/0/425/Choice/2
+Cowgirl en(s[108])#Dargoth
+> END STRING
+
+> BEGIN STRING
+【ランパス】：足コキ敗北シーン
+
+この戦闘を閲覧しますか？
+> CONTEXT: Map002/events/1/pages/0/429/Dialogue
+【Lampas】: footjob defeat scene
+
+Do you want to view this battle?#MTLed
+> END STRING
+
+> BEGIN STRING
+【ランパス】：抱きしめ敗北シーン
+
+この戦闘を閲覧しますか？
+> CONTEXT: Map002/events/1/pages/0/445/Dialogue
+【Lampas】: Embrace defeat scene
+
+Do you want to view this battle?#MTLed
+> END STRING
+
+> BEGIN STRING
+【ランパス】：騎乗位敗北シーン
+
+この戦闘を閲覧しますか？
+> CONTEXT: Map002/events/1/pages/0/461/Dialogue
+【Lampas】: Cowgirl defeat scene
+
+Do you want to view this battle?#MTLed
+> END STRING
+
+> BEGIN STRING
+"ヒント：前半戦。"
+> CONTEXT: Map002/events/1/pages/0/489/InlineScript/2:1
+"Hint: The first half of the game."#MTLed
+> END STRING
+
+> BEGIN STRING
+"ヒント：後半戦。"
+> CONTEXT: Map002/events/1/pages/0/497/InlineScript/2:1
+"Hint: Second half."#MTLed
+> END STRING
+
+> BEGIN STRING
+正面から en(s[110])
+> CONTEXT: Map002/events/1/pages/0/501/Choice/0
+From the front en(s[110])#Dargoth
+> END STRING
+
+> BEGIN STRING
+背後から en(s[111])
+> CONTEXT: Map002/events/1/pages/0/501/Choice/1
+From behind en(s[111])#Dargoth
+> END STRING
+
+> BEGIN STRING
+【アイアンメイデン】：正面から敗北シーン
+
+この戦闘を閲覧しますか？
+> CONTEXT: Map002/events/1/pages/0/505/Dialogue
+【Iron Maiden】: The defeat scene from the front
+
+Do you want to view this battle?#MTLed
+> END STRING
+
+> BEGIN STRING
+【アイアンメイデン】：背後から敗北シーン
+
+この戦闘を閲覧しますか？
+> CONTEXT: Map002/events/1/pages/0/521/Dialogue
+【Iron Maiden】: A defeat scene from behind
+
+Do you want to view this battle?#MTLed
+> END STRING
+
+> BEGIN STRING
+"ヒント：口を開けたらなすがまま。"
+> CONTEXT: Map002/events/1/pages/0/549/InlineScript/2:1
+"Hint: When you open your mouth, it's just like you"#MTLed
+> END STRING
+
+> BEGIN STRING
+"ヒント：大技をわざと受ける"
+> CONTEXT: Map002/events/1/pages/0/557/InlineScript/2:1
+"Hint: To receive the great skill on purpose"#MTLed
+> END STRING
+
+> BEGIN STRING
+"ヒント：あるヘカーテ関連の装備をして戦いに挑む"
+> CONTEXT: Map002/events/1/pages/0/565/InlineScript/2:1
+"Hint: Challenge the battle with some Hecate-related equipment"#MTLed
+> END STRING
+
+> BEGIN STRING
+昇天フェラ en(s[113])
+> CONTEXT: Map002/events/1/pages/0/569/Choice/0
+Supreme Fellatioen(s[113])#MTLed
+> END STRING
+
+> BEGIN STRING
+ベロチュー en(s[114])
+> CONTEXT: Map002/events/1/pages/0/569/Choice/1
+deep kissen(s[114])#MTLed
+> END STRING
+
+> BEGIN STRING
+特殊 en(s[115])
+> CONTEXT: Map002/events/1/pages/0/569/Choice/2
+Secret Scene en(s[115])#Dargoth
+> END STRING
+
+> BEGIN STRING
+【エンプーサ】：昇天フェラ
+
+この戦闘を閲覧しますか？
+> CONTEXT: Map002/events/1/pages/0/573/Dialogue
+【Empuse】: Supreme Fellatio
+
+Do you want to view this battle?#MTLed
+> END STRING
+
+> BEGIN STRING
+【エンプーサ】：昇天ベロチュー
+
+この戦闘を閲覧しますか？
+> CONTEXT: Map002/events/1/pages/0/589/Dialogue
+【Empuse】: Ascension deep kiss
+
+Do you want to view this battle?#MTLed
+> END STRING
+
+> BEGIN STRING
+【エンプーサ】：わんわん
+
+この戦闘を閲覧しますか？
+> CONTEXT: Map002/events/1/pages/0/605/Dialogue
+【Empuse】: bow-wow
+
+Do you want to view this battle?#MTLed
+> END STRING
+
+> BEGIN STRING
+マザーラビット if(s[116])
+> CONTEXT: Map002/events/1/pages/0/626/Choice/0
+Mother Rabbitif(s[116])#MTLed
+> END STRING
+
+> BEGIN STRING
+ハル＆リズ if(s[119])
+> CONTEXT: Map002/events/1/pages/0/626/Choice/1
+Haru & Lizif(s[119])#MTLed
+> END STRING
+
+> BEGIN STRING
+躯 if(s[382])
+> CONTEXT: Map002/events/1/pages/0/626/Choice/2
+Mukuroif(s[382])#MTLed
+> END STRING
+
+> BEGIN STRING
+ニーナ if(s[386])
+> CONTEXT: Map002/events/1/pages/0/626/Choice/3
+Ninaif(s[386])#MTLed
+> END STRING
+
+> BEGIN STRING
+授乳 en(s[117])
+> CONTEXT: Map002/events/1/pages/0/649/Choice/0
+Breastfeedingen(s[117])#MTLed
+> END STRING
+
+> BEGIN STRING
+毛づくろい en(s[118])
+> CONTEXT: Map002/events/1/pages/0/649/Choice/1
+Groomingen(s[118])#MTLed
+> END STRING
+
+> BEGIN STRING
+【マザーラビット】：授乳敗北シーン
+
+この戦闘を閲覧しますか？
+> CONTEXT: Map002/events/1/pages/0/653/Dialogue
+【Mother Rabbit】: Lactating defeat scene
+
+Do you want to view this battle?#MTLed
+> END STRING
+
+> BEGIN STRING
+【マザーラビット】：毛づくろい敗北シーン
+
+この戦闘を閲覧しますか？
+> CONTEXT: Map002/events/1/pages/0/669/Dialogue
+【Mother Rabbit】: Hairdressing defeat scene
+
+Do you want to view this battle?#MTLed
+> END STRING
+
+> BEGIN STRING
+"ヒント：ハルのパーカーの中で"
+> CONTEXT: Map002/events/1/pages/0/696/InlineScript/2:1
+"Hint: Inside Haru's Hoodie"#MTLed
+> END STRING
+
+> BEGIN STRING
+"ヒント：最期まで貢いで３０００円以上余裕がある"
+> CONTEXT: Map002/events/1/pages/0/704/InlineScript/2:1
+"Hint: There is room over 3000 yen in the contribution until the end"#MTLed
+> END STRING
+
+> BEGIN STRING
+搾精 en(s[120])
+> CONTEXT: Map002/events/1/pages/0/709/Choice/0
+milkingen(s[120])#MTLed
+> END STRING
+
+> BEGIN STRING
+財布 en(s[381])
+> CONTEXT: Map002/events/1/pages/0/709/Choice/1
+money bagen(s[381])#MTLed
+> END STRING
+
+> BEGIN STRING
+【ハル＆リズ】：搾精敗北シーン
+
+この戦闘を閲覧しますか？
+> CONTEXT: Map002/events/1/pages/0/713/Dialogue
+【Haru & Liz】: milking defeat scene
+
+Do you want to view this battle?#MTLed
+> END STRING
+
+> BEGIN STRING
+【ハル＆リズ】：財布敗北シーン
+
+この戦闘を閲覧しますか？
+> CONTEXT: Map002/events/1/pages/0/729/Dialogue
+【Haru & Liz】: money bag defeat scene
+
+Do you want to view this battle?#MTLed
+> END STRING
+
+> BEGIN STRING
+"ヒント：相手の拘束を潔く受ける。"
+> CONTEXT: Map002/events/1/pages/0/766/InlineScript/2:1
+"Hint: Receive the other party's bounds innocence."#MTLed
+> END STRING
+
+> BEGIN STRING
+"ヒント：後半戦の時止めの１つ。"
+> CONTEXT: Map002/events/1/pages/0/774/InlineScript/2:1
+"Hint: One of the closing points in the second half."#MTLed
+> END STRING
+
+> BEGIN STRING
+"ヒント：口車に乗る"
+> CONTEXT: Map002/events/1/pages/0/782/InlineScript/2:1
+> CONTEXT: Map002/events/1/pages/0/1310/InlineScript/2:1
+> CONTEXT: Map002/events/1/pages/0/1406/InlineScript/2:1
+> CONTEXT: Map002/events/1/pages/0/1530/InlineScript/2:1
+"Hint: Take a car"#MTLed
+> END STRING
+
+> BEGIN STRING
+騎乗位 en(s[383])
+> CONTEXT: Map002/events/1/pages/0/786/Choice/0
+Cowgirlen(s[383])#MTLed
+> END STRING
+
+> BEGIN STRING
+後背位 en(s[384])
+> CONTEXT: Map002/events/1/pages/0/786/Choice/1
+doggy styleen(s[384])#MTLed
+> END STRING
+
+> BEGIN STRING
+誘惑 en(s[385])
+> CONTEXT: Map002/events/1/pages/0/786/Choice/2
+Temptationen(s[385])#MTLed
+> END STRING
+
+> BEGIN STRING
+【躯】：騎乗位
+
+この戦闘を閲覧しますか？
+> CONTEXT: Map002/events/1/pages/0/790/Dialogue
+【Mukuro】: Cowgirl
+
+Do you want to view this battle?#MTLed
+> END STRING
+
+> BEGIN STRING
+【躯】：後背位
+
+この戦闘を閲覧しますか？
+> CONTEXT: Map002/events/1/pages/0/806/Dialogue
+【Mukuro】: doggy style
+
+Do you want to view this battle?#MTLed
+> END STRING
+
+> BEGIN STRING
+【躯】：誘惑
+
+この戦闘を閲覧しますか？
+> CONTEXT: Map002/events/1/pages/0/822/Dialogue
+【Mukuro】: Temptation
+
+Do you want to view this battle?#MTLed
+> END STRING
+
+> BEGIN STRING
+"エボニーのダンスに見とれる"
+> CONTEXT: Map002/events/1/pages/0/850/InlineScript/2:1
+"Hint: You can see in the dance of Ebony"#MTLed
+> END STRING
+
+> BEGIN STRING
+"ヒント：レイジーのダンスに見とれる"
+> CONTEXT: Map002/events/1/pages/0/858/InlineScript/2:1
+"Hint: You can see the dance of Lazy"#MTLed
+> END STRING
+
+> BEGIN STRING
+"ヒント：ニーナのダンスに見とれる"
+> CONTEXT: Map002/events/1/pages/0/866/InlineScript/2:1
+"Hint: Seen in the dance of Nina"#MTLed
+> END STRING
+
+> BEGIN STRING
+"ヒント：視聴率が０になる"
+> CONTEXT: Map002/events/1/pages/0/874/InlineScript/2:1
+"Hint: view rate becomes 0"#MTLed
+> END STRING
+
+> BEGIN STRING
+エボニー en(s[387])
+> CONTEXT: Map002/events/1/pages/0/878/Choice/0
+Ebonyen(s[387])#MTLed
+> END STRING
+
+> BEGIN STRING
+レイジー en(s[388])
+> CONTEXT: Map002/events/1/pages/0/878/Choice/1
+Lazyen(s[388])#MTLed
+> END STRING
+
+> BEGIN STRING
+初体験 en(s[389])
+> CONTEXT: Map002/events/1/pages/0/878/Choice/2
+First experienceen(s[389])#MTLed
+> END STRING
+
+> BEGIN STRING
+視聴率 en(s[390])
+> CONTEXT: Map002/events/1/pages/0/878/Choice/3
+view rateen(s[390])#MTLed
+> END STRING
+
+> BEGIN STRING
+【ニーナ】：エボニー
+
+この戦闘を閲覧しますか？
+> CONTEXT: Map002/events/1/pages/0/882/Dialogue
+【Nina】: Ebony
+
+Do you want to view this battle?#MTLed
+> END STRING
+
+> BEGIN STRING
+【ニーナ】：レイジー
+
+この戦闘を閲覧しますか？
+> CONTEXT: Map002/events/1/pages/0/898/Dialogue
+【Nina】: Lazy
+
+Do you want to view this battle?#MTLed
+> END STRING
+
+> BEGIN STRING
+【ニーナ】：初体験
+
+この戦闘を閲覧しますか？
+> CONTEXT: Map002/events/1/pages/0/914/Dialogue
+【Nina】: First Experience
+
+Do you want to view this battle?#MTLed
+> END STRING
+
+> BEGIN STRING
+\\V[113]
+> CONTEXT: Map002/events/1/pages/0/928/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/1100/ChoiceHelp
+\\V[113]#NoTL
+> END STRING
+
+> BEGIN STRING
+【ニーナ】：視聴率０
+
+この戦闘を閲覧しますか？
+> CONTEXT: Map002/events/1/pages/0/930/Dialogue
+【Nina】: view rate 0
+
+Do you want to view this battle?#MTLed
+> END STRING
+
+> BEGIN STRING
+エコー if(s[391])
+> CONTEXT: Map002/events/1/pages/0/951/Choice/0
+Echoif(s[391])#MTLed
+> END STRING
+
+> BEGIN STRING
+スフィンクス if(s[394])
+> CONTEXT: Map002/events/1/pages/0/951/Choice/1
+Sphinxif(s[394])#MTLed
+> END STRING
+
+> BEGIN STRING
+アルケニー if(s[399])
+> CONTEXT: Map002/events/1/pages/0/951/Choice/2
+Archenyif(s[399])#MTLed
+> END STRING
+
+> BEGIN STRING
+ティタノボア if(s[483])
+> CONTEXT: Map002/events/1/pages/0/951/Choice/3
+Titanoboaif(s[483])#MTLed
+> END STRING
+
+> BEGIN STRING
+"ヒント：人魚形態のエコーに犯される"
+> CONTEXT: Map002/events/1/pages/0/962/InlineScript/2:1
+"Hint: Committed to mermaid form of Echo"#MTLed
+> END STRING
+
+> BEGIN STRING
+"ヒント：蛞蝓状態のエコーに犯される"
+> CONTEXT: Map002/events/1/pages/0/970/InlineScript/2:1
+"Hint: Committed to intoxicated Echo"#MTLed
+> END STRING
+
+> BEGIN STRING
+キス搾精 en(s[392])
+> CONTEXT: Map002/events/1/pages/0/974/Choice/0
+Kiss milkingen(s[392])#MTLed
+> END STRING
+
+> BEGIN STRING
+洗脳搾精 en(s[393])
+> CONTEXT: Map002/events/1/pages/0/974/Choice/1
+Brainwashing milkingen(s[393])#MTLed
+> END STRING
+
+> BEGIN STRING
+【エコー】：キス搾精
+
+この戦闘を閲覧しますか？
+> CONTEXT: Map002/events/1/pages/0/978/Dialogue
+【Echo】: Kissing milking
+
+Do you want to view this battle?#MTLed
+> END STRING
+
+> BEGIN STRING
+【エコー】：洗脳搾精
+
+この戦闘を閲覧しますか？
+> CONTEXT: Map002/events/1/pages/0/994/Dialogue
+【Echo】: Brainwashing milking
+
+Do you want to view this battle?#MTLed
+> END STRING
+
+> BEGIN STRING
+"ヒント：第1問目"
+> CONTEXT: Map002/events/1/pages/0/1022/InlineScript/2:1
+> CONTEXT: Map002/events/1/pages/0/1370/InlineScript/2:1
+"Hint: First question"#MTLed
+> END STRING
+
+> BEGIN STRING
+"ヒント：第3問"
+> CONTEXT: Map002/events/1/pages/0/1030/InlineScript/2:1
+"Hint: 3rd question"#MTLed
+> END STRING
+
+> BEGIN STRING
+"ヒント：第2問"
+> CONTEXT: Map002/events/1/pages/0/1038/InlineScript/2:1
+"Hint: 2nd question"#MTLed
+> END STRING
+
+> BEGIN STRING
+"ヒント：第4問"
+> CONTEXT: Map002/events/1/pages/0/1046/InlineScript/2:1
+"Hint: 4th question"#MTLed
+> END STRING
+
+> BEGIN STRING
+キス en(s[395])
+> CONTEXT: Map002/events/1/pages/0/1050/Choice/0
+kissen(s[395])#MTLed
+> END STRING
+
+> BEGIN STRING
+パイズリ en(s[396])
+> CONTEXT: Map002/events/1/pages/0/1050/Choice/1
+tit-fucken(s[396])#MTLed
+> END STRING
+
+> BEGIN STRING
+フェラ en(s[397])
+> CONTEXT: Map002/events/1/pages/0/1050/Choice/2
+Blowjoben(s[397])#MTLed
+> END STRING
+
+> BEGIN STRING
+種搾りプレス en(s[398])
+> CONTEXT: Map002/events/1/pages/0/1050/Choice/3
+reverse piledriveren(s[398])#MTLed
+> END STRING
+
+> BEGIN STRING
+【スフィンクス】：キス
+
+この戦闘を閲覧しますか？
+> CONTEXT: Map002/events/1/pages/0/1054/Dialogue
+【Sphinx】: Kiss
+
+Do you want to view this battle?#MTLed
+> END STRING
+
+> BEGIN STRING
+【スフィンクス】：パイズリ
+
+この戦闘を閲覧しますか？
+> CONTEXT: Map002/events/1/pages/0/1070/Dialogue
+【Sphinx】: tit-fuck
+
+Do you want to view this battle?#MTLed
+> END STRING
+
+> BEGIN STRING
+【スフィンクス】：フェラ
+
+この戦闘を閲覧しますか？
+> CONTEXT: Map002/events/1/pages/0/1086/Dialogue
+【Sphinx】: Blow
+
+Do you want to view this battle?#MTLed
+> END STRING
+
+> BEGIN STRING
+【スフィンクス】：種搾りプレス
+
+この戦闘を閲覧しますか？
+> CONTEXT: Map002/events/1/pages/0/1102/Dialogue
+【Sphinx】: reverse piledriver
+
+Do you want to view this battle?#MTLed
+> END STRING
+
+> BEGIN STRING
+"ヒント：おとなしく蜘蛛の糸に引っ張られる"
+> CONTEXT: Map002/events/1/pages/0/1130/InlineScript/2:1
+"Hint: Be gently pulled by the silk thread"#MTLed
+> END STRING
+
+> BEGIN STRING
+"ヒント：恐怖に負け、オナニーする"
+> CONTEXT: Map002/events/1/pages/0/1138/InlineScript/2:1
+"Hint: Lose to Afraid and Masturbate"#MTLed
+> END STRING
+
+> BEGIN STRING
+"ヒント：アコニートゥムに負ける"
+> CONTEXT: Map002/events/1/pages/0/1146/InlineScript/2:1
+"Hint: Lose to Aconitum"#MTLed
+> END STRING
+
+> BEGIN STRING
+抱き＆呑み en(s[400])
+> CONTEXT: Map002/events/1/pages/0/1150/Choice/0
+Hug & Itchen(s[400])#MTLed
+> END STRING
+
+> BEGIN STRING
+押し倒し en(s[481])
+> CONTEXT: Map002/events/1/pages/0/1150/Choice/1
+Pin Downen(s[481])#MTLed
+> END STRING
+
+> BEGIN STRING
+アコニートゥム en(s[482])
+> CONTEXT: Map002/events/1/pages/0/1150/Choice/2
+Aconitumen(s[482])#MTLed
+> END STRING
+
+> BEGIN STRING
+【アルケニー】：抱き＆呑み
+
+この戦闘を閲覧しますか？
+> CONTEXT: Map002/events/1/pages/0/1154/Dialogue
+【Archeny】: Hug & Itch
+
+Do you want to view this battle?#MTLed
+> END STRING
+
+> BEGIN STRING
+『丸呑みフィルター』の設定を指定してください
+> CONTEXT: Map002/events/1/pages/0/1163/Dialogue
+> CONTEXT: Map002/events/1/pages/0/1255/Dialogue
+> CONTEXT: Map002/events/1/pages/0/1591/Dialogue
+> CONTEXT: Map002/events/1/pages/0/1623/Dialogue
+Please specify the setting of "Smoothing filter"#MTLed
+> END STRING
+
+> BEGIN STRING
+フィルターなし
+> CONTEXT: Map002/events/1/pages/0/1165/Choice/0
+> CONTEXT: Map002/events/1/pages/0/1257/Choice/0
+> CONTEXT: Map002/events/1/pages/0/1593/Choice/0
+> CONTEXT: Map002/events/1/pages/0/1625/Choice/0
+No filter#MTLed
+> END STRING
+
+> BEGIN STRING
+フィルター軽
+> CONTEXT: Map002/events/1/pages/0/1165/Choice/1
+> CONTEXT: Map002/events/1/pages/0/1257/Choice/1
+> CONTEXT: Map002/events/1/pages/0/1593/Choice/1
+> CONTEXT: Map002/events/1/pages/0/1625/Choice/1
+Filter light#MTLed
+> END STRING
+
+> BEGIN STRING
+フィルター重
+> CONTEXT: Map002/events/1/pages/0/1165/Choice/2
+> CONTEXT: Map002/events/1/pages/0/1257/Choice/2
+> CONTEXT: Map002/events/1/pages/0/1593/Choice/2
+> CONTEXT: Map002/events/1/pages/0/1625/Choice/2
+Filter weight#MTLed
+> END STRING
+
+> BEGIN STRING
+【アルケニー】：押し倒し
+
+この戦闘を閲覧しますか？
+> CONTEXT: Map002/events/1/pages/0/1186/Dialogue
+【Archeny】: Pin Down
+
+Do you want to view this battle?#MTLed
+> END STRING
+
+> BEGIN STRING
+【アルケニー】：アコニートゥム
+
+この戦闘を閲覧しますか？
+> CONTEXT: Map002/events/1/pages/0/1202/Dialogue
+【Archeny】: Aconitum
+
+Do you want to view this battle?#MTLed
+> END STRING
+
+> BEGIN STRING
+"ヒント：チャプター3-1"
+> CONTEXT: Map002/events/1/pages/0/1230/InlineScript/2:1
+> CONTEXT: Map002/events/1/pages/0/1490/InlineScript/2:1
+"Hint: Chapter 3-1"#MTLed
+> END STRING
+
+> BEGIN STRING
+"ヒント：チャプター3-3"
+> CONTEXT: Map002/events/1/pages/0/1238/InlineScript/2:1
+"Hint: Chapter 3-3"#MTLed
+> END STRING
+
+> BEGIN STRING
+搾精＆呑み en(s[484])
+> CONTEXT: Map002/events/1/pages/0/1242/Choice/0
+milking & itchingen(s[484])#MTLed
+> END STRING
+
+> BEGIN STRING
+巻き付き en(s[485])
+> CONTEXT: Map002/events/1/pages/0/1242/Choice/1
+Wrappeden(s[485])#MTLed
+> END STRING
+
+> BEGIN STRING
+【ティタノボア】：抱き＆呑み
+
+この戦闘を閲覧しますか？
+> CONTEXT: Map002/events/1/pages/0/1246/Dialogue
+【Titanoboa】: Hug & Itch
+
+Do you want to view this battle?#MTLed
+> END STRING
+
+> BEGIN STRING
+【ティタノボア】：巻き付き
+
+この戦闘を閲覧しますか？
+> CONTEXT: Map002/events/1/pages/0/1278/Dialogue
+【Titanoboa】: Wrapped
+
+Do you want to view this battle?#MTLed
+> END STRING
+
+> BEGIN STRING
+カマソッソ if(s[486])
+> CONTEXT: Map002/events/1/pages/0/1299/Choice/0
+Camazotzif(s[486])#MTLed
+> END STRING
+
+> BEGIN STRING
+ミカ if(s[489])
+> CONTEXT: Map002/events/1/pages/0/1299/Choice/1
+Micahif(s[489])#MTLed
+> END STRING
+
+> BEGIN STRING
+妲己（ノーマル） if(s[490])
+> CONTEXT: Map002/events/1/pages/0/1299/Choice/2
+Daiji (Normal)if(s[490])#MTLed
+> END STRING
+
+> BEGIN STRING
+妲己（アルラウネ） if(s[494])
+> CONTEXT: Map002/events/1/pages/0/1299/Choice/3
+Daiji (Alraune)if(s[494])#MTLed
+> END STRING
+
+> BEGIN STRING
+"ヒント：口車を拒絶した後に何もしない"
+> CONTEXT: Map002/events/1/pages/0/1318/InlineScript/2:1
+"Hint: Cancel after rejecting the car"#MTLed
+> END STRING
+
+> BEGIN STRING
+空中誘拐搾精 en(s[487])
+> CONTEXT: Map002/events/1/pages/0/1322/Choice/0
+Air kidnapping milkingen(s[487])#MTLed
+> END STRING
+
+> BEGIN STRING
+尻尾搾精 en(s[488])
+> CONTEXT: Map002/events/1/pages/0/1322/Choice/1
+Tail milkingen(s[488])#MTLed
+> END STRING
+
+> BEGIN STRING
+【カマソッソ】：誘拐搾精
+
+この戦闘を閲覧しますか？
+> CONTEXT: Map002/events/1/pages/0/1326/Dialogue
+> CONTEXT: Map002/events/1/pages/0/1538/Dialogue
+【Camazotz】: Abduction milking
+
+Do you want to view this battle?#MTLed
+> END STRING
+
+> BEGIN STRING
+【カマソッソ】：尻尾搾精
+
+この戦闘を閲覧しますか？
+> CONTEXT: Map002/events/1/pages/0/1342/Dialogue
+【Camazotz】: Tail milking
+
+Do you want to view this battle?#MTLed
+> END STRING
+
+> BEGIN STRING
+逆寝取られ en(s[489])
+> CONTEXT: Map002/events/1/pages/0/1374/Choice/0
+Reverse cuckolden(s[489])#MTLed
+> END STRING
+
+> BEGIN STRING
+【ミカ】：逆寝取られ
+
+この戦闘を閲覧しますか？
+> CONTEXT: Map002/events/1/pages/0/1378/Dialogue
+【Micah】: Cuckold reverse
+
+Do you want to view this battle?#MTLed
+> END STRING
+
+> BEGIN STRING
+"ヒント：時止め攻撃"
+> CONTEXT: Map002/events/1/pages/0/1414/InlineScript/2:1
+"Hint: Censored Attack"#MTLed
+> END STRING
+
+> BEGIN STRING
+"ヒント：手足拘束を放置する"
+> CONTEXT: Map002/events/1/pages/0/1422/InlineScript/2:1
+"Hint: Leave limbs bound"#MTLed
+> END STRING
+
+> BEGIN STRING
+誘惑搾精 en(s[491])
+> CONTEXT: Map002/events/1/pages/0/1426/Choice/0
+Temptation milkingen(s[491])#MTLed
+> END STRING
+
+> BEGIN STRING
+足コキ en(s[492])
+> CONTEXT: Map002/events/1/pages/0/1426/Choice/1
+footjoben(s[492])#MTLed
+> END STRING
+
+> BEGIN STRING
+尻尾まみれ en(s[493])
+> CONTEXT: Map002/events/1/pages/0/1426/Choice/2
+Tail covereden(s[493])#MTLed
+> END STRING
+
+> BEGIN STRING
+【妲己】：誘惑搾精
+
+この戦闘を閲覧しますか？
+> CONTEXT: Map002/events/1/pages/0/1430/Dialogue
+【Daiji】: Tempting milking
+
+Do you want to view this battle?#MTLed
+> END STRING
+
+> BEGIN STRING
+【妲己】：足コキ
+
+この戦闘を閲覧しますか？
+> CONTEXT: Map002/events/1/pages/0/1446/Dialogue
+【Daiji】: footjob
+
+Do you want to view this battle?#MTLed
+> END STRING
+
+> BEGIN STRING
+【妲己】：尻尾包み
+
+この戦闘を閲覧しますか？
+> CONTEXT: Map002/events/1/pages/0/1462/Dialogue
+【Daiji】: Tail Wrap
+
+Do you want to view this battle?#MTLed
+> END STRING
+
+> BEGIN STRING
+搾精＆呑み en(s[494])
+> CONTEXT: Map002/events/1/pages/0/1494/Choice/0
+milking & itchingen(s[494])#MTLed
+> END STRING
+
+> BEGIN STRING
+【妲己（アルラウネ）】：授蜜搾精
+
+この戦闘を閲覧しますか？
+> CONTEXT: Map002/events/1/pages/0/1498/Dialogue
+【Daiji (Alraune)】: Nectarizing milking
+
+Do you want to view this battle?#MTLed
+> END STRING
+
+> BEGIN STRING
+妲己（ビースト） if(s[495])
+> CONTEXT: Map002/events/1/pages/0/1519/Choice/0
+Daiji (Beast)if(s[495])#MTLed
+> END STRING
+
+> BEGIN STRING
+妲己（ジェル） if(s[496])
+> CONTEXT: Map002/events/1/pages/0/1519/Choice/1
+Daiji (gel)if(s[496])#MTLed
+> END STRING
+
+> BEGIN STRING
+強制種付け交尾 en(s[495])
+> CONTEXT: Map002/events/1/pages/0/1534/Choice/0
+forced seeding matingen(s[495])#MTLed
+> END STRING
+
+> BEGIN STRING
+"ヒント：ボタン入力をミスる"
+> CONTEXT: Map002/events/1/pages/0/1566/InlineScript/2:1
+"Hint: Miss button input"#MTLed
+> END STRING
+
+> BEGIN STRING
+"ヒント：キスを受ける"
+> CONTEXT: Map002/events/1/pages/0/1574/InlineScript/2:1
+"Hint: Get a kiss"#MTLed
+> END STRING
+
+> BEGIN STRING
+ダンス en(s[497])
+> CONTEXT: Map002/events/1/pages/0/1578/Choice/0
+danceen(s[497])#MTLed
+> END STRING
+
+> BEGIN STRING
+キス en(s[498])
+> CONTEXT: Map002/events/1/pages/0/1578/Choice/1
+kissen(s[498])#MTLed
+> END STRING
+
+> BEGIN STRING
+【妲己（ジェル）】：ダンス
+
+この戦闘を閲覧しますか？
+> CONTEXT: Map002/events/1/pages/0/1582/Dialogue
+【Daiji (gel)】: Dance
+
+Do you want to view this battle?#MTLed
+> END STRING
+
+> BEGIN STRING
+【妲己（ジェル）】：キス
+
+この戦闘を閲覧しますか？
+> CONTEXT: Map002/events/1/pages/0/1614/Dialogue
+【Daiji (gel)】: Kiss
+
+Do you want to view this battle?#MTLed
+> END STRING
+
+> BEGIN STRING
+戻る
+> CONTEXT: Map002/events/1/pages/0/1651/Choice/0
+> CONTEXT: Map003/events/1/pages/2/582/Choice/0
+Return#Dargoth
+> END STRING
+
+> BEGIN STRING
+■■チャプター１－１■■ en(s[22])
+> CONTEXT: Map002/events/1/pages/1/7/Choice/0
+> CONTEXT: Map002/events/1/pages/3/7/Choice/0
+> CONTEXT: Map002/events/1/pages/4/29/Choice/0
+■■Chapter 1-1■■ en(s[22])#Dargoth
+> END STRING
+
+> BEGIN STRING
+\\\>\\r[del]
+> CONTEXT: Map002/events/1/pages/1/9/ChoiceHelp
+\\\> R r [del]#MTLed
+> END STRING
+
+> BEGIN STRING
+クッション君 if(s[22])
+> CONTEXT: Map002/events/1/pages/1/14/Choice/0
+Mr. Cushion if(s[22])#Dargoth
+> END STRING
+
+> BEGIN STRING
+バーゲスト if(s[22])
+> CONTEXT: Map002/events/1/pages/1/14/Choice/1
+> CONTEXT: Map002/events/1/pages/1/14/Choice/2
+> CONTEXT: Map002/events/1/pages/1/40/Choice/0
+> CONTEXT: Map002/events/1/pages/1/50/Choice/0
+> CONTEXT: Map002/events/1/pages/1/60/Choice/0
+> CONTEXT: Map002/events/1/pages/1/70/Choice/0
+> CONTEXT: Map002/events/1/pages/1/80/Choice/0
+> CONTEXT: Map002/events/1/pages/1/80/Choice/1
+Barghest if(s[22])#Dargoth
+> END STRING
+
+> BEGIN STRING
+\\\>\\r[0]作者：P.T.O
+> CONTEXT: Map002/events/1/pages/1/16/ChoiceHelp
+\\\> R r [0] author: P. T. O#MTLed
+> END STRING
+
+> BEGIN STRING
+\\\>\\r[7]作者：P.T.O
+> CONTEXT: Map002/events/1/pages/1/24/ChoiceHelp
+\\\> R r [7] Author: P. T. O#MTLed
+> END STRING
+
+> BEGIN STRING
+\\\>\\r[9]作者：苺大福
+> CONTEXT: Map002/events/1/pages/1/32/ChoiceHelp
+\\\> R r [9] author: 苺 福#MTLed
+> END STRING
+
+> BEGIN STRING
+\\\>\\r[33]作者：P.T.O
+> CONTEXT: Map002/events/1/pages/1/42/ChoiceHelp
+\\\> R r [33] Author: P. T. O#MTLed
+> END STRING
+
+> BEGIN STRING
+\\\>\\r[51]作者：苺大福
+> CONTEXT: Map002/events/1/pages/1/52/ChoiceHelp
+\\\> [R [51] Author: 苺 福#MTLed
+> END STRING
+
+> BEGIN STRING
+\\\>\\r[18]作者：謎の【空洞練物】T
+> CONTEXT: Map002/events/1/pages/1/62/ChoiceHelp
+\\\> [R [18] Author: Mysterious [hollow paste] T#MTLed
+> END STRING
+
+> BEGIN STRING
+\\\>\\r[38]作者：カスガイ様
+> CONTEXT: Map002/events/1/pages/1/72/ChoiceHelp
+\\\> R r [38] Author: Kasgai#MTLed
+> END STRING
+
+> BEGIN STRING
+\\\>\\r[11]作者：謎の【空洞練物】T
+> CONTEXT: Map002/events/1/pages/1/82/ChoiceHelp
+\\\> \\r[11] Author: Mysterious [hollow paste] T#MTLed
+> END STRING
+
+> BEGIN STRING
+\\\>\\r[12]作者：Lasso様
+> CONTEXT: Map002/events/1/pages/1/90/ChoiceHelp
+\\\> R r [12] Author: Lasso#MTLed
+> END STRING
+
+> BEGIN STRING
+■■チャプター１－２■■ en(s[23])
+> CONTEXT: Map002/events/1/pages/1/98/Choice/0
+> CONTEXT: Map002/events/1/pages/3/43/Choice/0
+> CONTEXT: Map002/events/1/pages/4/80/Choice/0
+■■Chapter 1-2■■ en(s[23])#Dargoth
+> END STRING
+
+> BEGIN STRING
+\\r[del]\\\>
+> CONTEXT: Map002/events/1/pages/1/100/ChoiceHelp
+R r [del] \\\>#MTLed
+> END STRING
+
+> BEGIN STRING
+ランパス if(s[23])
+> CONTEXT: Map002/events/1/pages/1/105/Choice/0
+> CONTEXT: Map002/events/1/pages/1/105/Choice/1
+> CONTEXT: Map002/events/1/pages/1/105/Choice/2
+> CONTEXT: Map002/events/1/pages/1/105/Choice/3
+> CONTEXT: Map002/events/1/pages/1/139/Choice/0
+> CONTEXT: Map002/events/1/pages/1/149/Choice/0
+> CONTEXT: Map002/events/1/pages/1/159/Choice/0
+> CONTEXT: Map002/events/1/pages/1/169/Choice/0
+> CONTEXT: Map002/events/1/pages/1/179/Choice/0
+> CONTEXT: Map002/events/1/pages/1/189/Choice/0
+> CONTEXT: Map002/events/1/pages/1/199/Choice/0
+> CONTEXT: Map002/events/1/pages/4/85/Choice/0
+Lampasif(s[23])#MTLed
+> END STRING
+
+> BEGIN STRING
+\\\>\\r[1]作者：苺大福
+> CONTEXT: Map002/events/1/pages/1/107/ChoiceHelp
+\\\> R r [1] author: 苺 福#MTLed
+> END STRING
+
+> BEGIN STRING
+\\\>\\r[2]作者：苺大福
+> CONTEXT: Map002/events/1/pages/1/115/ChoiceHelp
+\\\> R r [2] author: 苺 福#MTLed
+> END STRING
+
+> BEGIN STRING
+\\\>\\r[3]作者：P.T.O
+> CONTEXT: Map002/events/1/pages/1/123/ChoiceHelp
+\\\> R r [3] author: P. T. O#MTLed
+> END STRING
+
+> BEGIN STRING
+\\\>\\r[8]作者：謎の【空洞練物】T
+> CONTEXT: Map002/events/1/pages/1/131/ChoiceHelp
+\\\> [R [8] Author: Mysterious [hollow paste] T#MTLed
+> END STRING
+
+> BEGIN STRING
+\\\>\\r[10]作者：カスガイ様
+> CONTEXT: Map002/events/1/pages/1/141/ChoiceHelp
+\\\> R r [10] Author: Kasgai#MTLed
+> END STRING
+
+> BEGIN STRING
+\\\>\\r[16]作者：剥製チーズ様
+> CONTEXT: Map002/events/1/pages/1/151/ChoiceHelp
+\\\> [R [16] Author: stuffed cheese#MTLed
+> END STRING
+
+> BEGIN STRING
+\\\>\\r[15]作者：美彩様
+> CONTEXT: Map002/events/1/pages/1/161/ChoiceHelp
+\\\> R r [15] Author: Mr. beauty#MTLed
+> END STRING
+
+> BEGIN STRING
+\\\>\\r[17]作者：謎の【空洞練物】T様
+> CONTEXT: Map002/events/1/pages/1/171/ChoiceHelp
+\\\> R r [17] Author: Mysterious [hollow paste] T#MTLed
+> END STRING
+
+> BEGIN STRING
+\\\>\\r[29]作者：三池
+> CONTEXT: Map002/events/1/pages/1/181/ChoiceHelp
+\\\> \\r[29] Author: Miike#MTLed
+> END STRING
+
+> BEGIN STRING
+\\\>\\r[39]作者：カスガイ様
+> CONTEXT: Map002/events/1/pages/1/191/ChoiceHelp
+\\\> \\r[39] Author: Kasgai#MTLed
+> END STRING
+
+> BEGIN STRING
+\\\>\\r[48]作者：カスガイ様
+> CONTEXT: Map002/events/1/pages/1/201/ChoiceHelp
+\\\> R r [48] Author: Kasgai#MTLed
+> END STRING
+
+> BEGIN STRING
+アイアンメイデン if(s[23])
+> CONTEXT: Map002/events/1/pages/1/212/Choice/0
+> CONTEXT: Map002/events/1/pages/1/212/Choice/1
+> CONTEXT: Map002/events/1/pages/1/212/Choice/2
+> CONTEXT: Map002/events/1/pages/4/85/Choice/1
+Iron Maiden if(s[23])#Dargoth
+> END STRING
+
+> BEGIN STRING
+\\\>\\r[4]作者：P.T.O
+> CONTEXT: Map002/events/1/pages/1/214/ChoiceHelp
+\\\> R r [4] author: P. T. O#MTLed
+> END STRING
+
+> BEGIN STRING
+\\\>\\r[5]作者：P.T.O
+> CONTEXT: Map002/events/1/pages/1/222/ChoiceHelp
+\\\> R r [5] author: P. T. O#MTLed
+> END STRING
+
+> BEGIN STRING
+\\\>\\r[56]作者：光合成ひろし様
+> CONTEXT: Map002/events/1/pages/1/230/ChoiceHelp
+\\\> [R [56] Author: Hiroshi Photosynthesis#MTLed
+> END STRING
+
+> BEGIN STRING
+ヘカーテ＆バーゲスト if(s[23])
+> CONTEXT: Map002/events/1/pages/1/238/Choice/0
+Hecate & barghestif(s[23])#MTLed
+> END STRING
+
+> BEGIN STRING
+\\\>\\r[13]作者：ピルリンΣ様
+> CONTEXT: Map002/events/1/pages/1/240/ChoiceHelp
+\\\> [R [13] Author: Pirlin 様#MTLed
+> END STRING
+
+> BEGIN STRING
+■■チャプター１－３■■ en(s[24])
+> CONTEXT: Map002/events/1/pages/1/248/Choice/0
+> CONTEXT: Map002/events/1/pages/3/135/Choice/0
+> CONTEXT: Map002/events/1/pages/4/104/Choice/0
+■■Chapter 1-3■■ en(s[24])#Dargoth
+> END STRING
+
+> BEGIN STRING
+\\r[del]
+> CONTEXT: Map002/events/1/pages/1/250/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/1/307/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/1/348/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/1/441/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/1/468/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/1/521/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/1/598/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/1/625/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/1/642/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/1/659/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/1/689/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/3/9/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/3/45/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/3/137/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/3/193/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/3/260/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/3/318/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/3/365/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/3/441/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/3/530/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/3/595/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/3/622/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/3/687/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/3/723/ChoiceHelp
+\\r[del]#NoTL
+> END STRING
+
+> BEGIN STRING
+エンプーサ＆ヘカーテ if(s[24])
+> CONTEXT: Map002/events/1/pages/1/255/Choice/0
+Empuse and Hecate if(s[24])#Dargoth
+> END STRING
+
+> BEGIN STRING
+\\\>\\r[6]作者：P.T.O
+> CONTEXT: Map002/events/1/pages/1/257/ChoiceHelp
+\\\> R r [6] Author: P. T. O#MTLed
+> END STRING
+
+> BEGIN STRING
+ヘカーテ＆カズヤ＋＠ if(s[24])
+> CONTEXT: Map002/events/1/pages/1/265/Choice/0
+Hecate & N N [1] + @if(s[24])#MTLed
+> END STRING
+
+> BEGIN STRING
+\\\>\\r[47]作者：ピルリンΣ様
+> CONTEXT: Map002/events/1/pages/1/267/ChoiceHelp
+\\\> [R [47] Author: Pillin Σ#MTLed
+> END STRING
+
+> BEGIN STRING
+チャプター１登場悪魔 if(s[24])
+> CONTEXT: Map002/events/1/pages/1/275/Choice/0
+Chapter 1 appeared demonif(s[24])#MTLed
+> END STRING
+
+> BEGIN STRING
+\\\>\\r[14]作者：カスガイ様
+> CONTEXT: Map002/events/1/pages/1/277/ChoiceHelp
+\\\> R r [14] Author: Kasgai#MTLed
+> END STRING
+
+> BEGIN STRING
+アイアンメイデン（マイルーム） if(s[24])
+> CONTEXT: Map002/events/1/pages/1/285/Choice/0
+Iron Maiden (my room)if(s[24])#MTLed
+> END STRING
+
+> BEGIN STRING
+\\\>\\r[40]作者：カスガイ様
+> CONTEXT: Map002/events/1/pages/1/287/ChoiceHelp
+\\\> R r [40] Author: Kasgai#MTLed
+> END STRING
+
+> BEGIN STRING
+エンプーサ（マイルーム） if(s[24])
+> CONTEXT: Map002/events/1/pages/1/295/Choice/0
+Empuse (my room)if(s[24])#MTLed
+> END STRING
+
+> BEGIN STRING
+\\\>\\r[41]作者：カスガイ様
+> CONTEXT: Map002/events/1/pages/1/297/ChoiceHelp
+\\\> \\r[41] Author: Kasgai#MTLed
+> END STRING
+
+> BEGIN STRING
+■■チャプター２－１■■ en(s[25])
+> CONTEXT: Map002/events/1/pages/1/305/Choice/0
+> CONTEXT: Map002/events/1/pages/3/191/Choice/0
+> CONTEXT: Map002/events/1/pages/4/116/Choice/0
+■ ■ Chapter 2-1 ■ ■en(s[25])#MTLed
+> END STRING
+
+> BEGIN STRING
+マザーラビット if(s[25])
+> CONTEXT: Map002/events/1/pages/1/312/Choice/0
+> CONTEXT: Map002/events/1/pages/1/312/Choice/3
+Mother Rabbitif(s[25])#MTLed
+> END STRING
+
+> BEGIN STRING
+ハーピーモドキ if(s[25])
+> CONTEXT: Map002/events/1/pages/1/312/Choice/1
+> CONTEXT: Map002/events/1/pages/1/312/Choice/2
+Beetle Harpyif(s[25])#MTLed
+> END STRING
+
+> BEGIN STRING
+\\\>\\r[25]作者：P.T.O様
+> CONTEXT: Map002/events/1/pages/1/314/ChoiceHelp
+\\\> R r [25] Author: P. T. O#MTLed
+> END STRING
+
+> BEGIN STRING
+\\\>\\r[23]作者：P.T.O様
+> CONTEXT: Map002/events/1/pages/1/322/ChoiceHelp
+\\\> R r [23] Author: P. T. O#MTLed
+> END STRING
+
+> BEGIN STRING
+\\\>\\r[24]作者：P.T.O様
+> CONTEXT: Map002/events/1/pages/1/330/ChoiceHelp
+\\\> R r [24] Author: P. T. O#MTLed
+> END STRING
+
+> BEGIN STRING
+\\\>\\r[52]作者：光合成ひろし様
+> CONTEXT: Map002/events/1/pages/1/338/ChoiceHelp
+\\\> [R [52] Author: Hiroshi Photosynthesis#MTLed
+> END STRING
+
+> BEGIN STRING
+■■チャプター２－２■■ en(s[26])
+> CONTEXT: Map002/events/1/pages/1/346/Choice/0
+> CONTEXT: Map002/events/1/pages/3/258/Choice/0
+> CONTEXT: Map002/events/1/pages/4/163/Choice/0
+■ ■ Chapter 2-2 ■ ■en(s[26])#MTLed
+> END STRING
+
+> BEGIN STRING
+躯 if(s[26])
+> CONTEXT: Map002/events/1/pages/1/353/Choice/0
+> CONTEXT: Map002/events/1/pages/1/363/Choice/0
+> CONTEXT: Map002/events/1/pages/1/373/Choice/0
+> CONTEXT: Map002/events/1/pages/4/168/Choice/0
+Mukuroif(s[26])#MTLed
+> END STRING
+
+> BEGIN STRING
+\\\>\\r[26]作者：P.T.O様
+> CONTEXT: Map002/events/1/pages/1/355/ChoiceHelp
+\\\> R r [26] Author: P. T. O#MTLed
+> END STRING
+
+> BEGIN STRING
+\\\>\\r[31]作者：光合成ひろし様
+> CONTEXT: Map002/events/1/pages/1/365/ChoiceHelp
+\\\> [R [31] Author: Hiroshi Hikaru#MTLed
+> END STRING
+
+> BEGIN STRING
+\\\>\\r[55]作者：光合成ひろし様
+> CONTEXT: Map002/events/1/pages/1/375/ChoiceHelp
+\\\> [R [55] Author: Hiroshi Hikaru#MTLed
+> END STRING
+
+> BEGIN STRING
+バーゲスト＋＠ if(s[26])
+> CONTEXT: Map002/events/1/pages/1/383/Choice/0
+barghest + @if(s[26])#MTLed
+> END STRING
+
+> BEGIN STRING
+\\\>\\r[27]作者：カスガイ様
+> CONTEXT: Map002/events/1/pages/1/385/ChoiceHelp
+\\\> [R [27] Author: Kasgai#MTLed
+> END STRING
+
+> BEGIN STRING
+双子 if(s[267])
+> CONTEXT: Map002/events/1/pages/1/395/Choice/0
+> CONTEXT: Map002/events/1/pages/1/395/Choice/1
+> CONTEXT: Map002/events/1/pages/1/395/Choice/2
+> CONTEXT: Map002/events/1/pages/1/395/Choice/3
+twinsif(s[267])#MTLed
+> END STRING
+
+> BEGIN STRING
+\\\>\\r[19]作者：ピルリンΣ様
+> CONTEXT: Map002/events/1/pages/1/397/ChoiceHelp
+\\\> [R [19] Author: Pillin Σ#MTLed
+> END STRING
+
+> BEGIN STRING
+\\\>\\r[20]作者：ピルリンΣ様
+> CONTEXT: Map002/events/1/pages/1/405/ChoiceHelp
+\\\> [R [20] Author: Pillin Σ#MTLed
+> END STRING
+
+> BEGIN STRING
+\\\>\\r[21]作者：ピルリンΣ様
+> CONTEXT: Map002/events/1/pages/1/413/ChoiceHelp
+\\\> [R [21] Author: Pirlin 様#MTLed
+> END STRING
+
+> BEGIN STRING
+\\\>\\r[22]作者：ピルリンΣ様
+> CONTEXT: Map002/events/1/pages/1/421/ChoiceHelp
+\\\> [R [22] Author: Pirlin 様#MTLed
+> END STRING
+
+> BEGIN STRING
+双子＋主人公 if(s[267])
+> CONTEXT: Map002/events/1/pages/1/429/Choice/0
+twins + heroif(s[267])#MTLed
+> END STRING
+
+> BEGIN STRING
+\\\>\\r[50]作者：ピルリンΣ様
+> CONTEXT: Map002/events/1/pages/1/431/ChoiceHelp
+\\\> [R [50] Author: Pillin Σ#MTLed
+> END STRING
+
+> BEGIN STRING
+■■チャプター２－３■■ en(s[27])
+> CONTEXT: Map002/events/1/pages/1/439/Choice/0
+> CONTEXT: Map002/events/1/pages/3/316/Choice/0
+> CONTEXT: Map002/events/1/pages/4/196/Choice/0
+■ ■ Chapter 2-3 ■ ■en(s[27])#MTLed
+> END STRING
+
+> BEGIN STRING
+ニーナ if(s[27])
+> CONTEXT: Map002/events/1/pages/1/446/Choice/0
+> CONTEXT: Map002/events/1/pages/1/456/Choice/0
+Ninaif(s[27])#MTLed
+> END STRING
+
+> BEGIN STRING
+\\\>\\r[28]作者：苺大福
+> CONTEXT: Map002/events/1/pages/1/448/ChoiceHelp
+\\\> [R [28] author: 苺 福#MTLed
+> END STRING
+
+> BEGIN STRING
+\\\>\\r[30]作者：剥製チーズ様
+> CONTEXT: Map002/events/1/pages/1/458/ChoiceHelp
+\\\> [R [30] Author: stuffed cheese#MTLed
+> END STRING
+
+> BEGIN STRING
+■■チャプター３－１■■ en(s[28])
+> CONTEXT: Map002/events/1/pages/1/466/Choice/0
+> CONTEXT: Map002/events/1/pages/3/363/Choice/0
+> CONTEXT: Map002/events/1/pages/4/215/Choice/0
+■ ■ Chapter 3-1 ■ ■en(s[28])#MTLed
+> END STRING
+
+> BEGIN STRING
+スフィンクス＆バーゲスト if(s[28])
+> CONTEXT: Map002/events/1/pages/1/473/Choice/0
+Sphinx & barghestif(s[28])#MTLed
+> END STRING
+
+> BEGIN STRING
+\\\>\\r[32]作者：P.T.O
+> CONTEXT: Map002/events/1/pages/1/475/ChoiceHelp
+\\\> R r [32] Author: P. T. O#MTLed
+> END STRING
+
+> BEGIN STRING
+エコー if(s[28])
+> CONTEXT: Map002/events/1/pages/1/483/Choice/0
+Echoif(s[28])#MTLed
+> END STRING
+
+> BEGIN STRING
+\\\>\\r[53]作者：ランゲルハンス様
+> CONTEXT: Map002/events/1/pages/1/485/ChoiceHelp
+\\\> [R [53] Author: Mr. Langerhans#MTLed
+> END STRING
+
+> BEGIN STRING
+スフィンクス① if(s[28])
+> CONTEXT: Map002/events/1/pages/1/493/Choice/0
+Sphinx 1if(s[28])#MTLed
+> END STRING
+
+> BEGIN STRING
+\\\>\\r[43]作者：タロー様
+> CONTEXT: Map002/events/1/pages/1/495/ChoiceHelp
+\\\> [R [43] Author: Taro#MTLed
+> END STRING
+
+> BEGIN STRING
+スフィンクス② if(s[28])
+> CONTEXT: Map002/events/1/pages/1/506/Choice/0
+Sphinx 2if(s[28])#MTLed
+> END STRING
+
+> BEGIN STRING
+\\\>\\r[45]作者：タロー様
+> CONTEXT: Map002/events/1/pages/1/508/ChoiceHelp
+\\\> [R [45] Author: Taro#MTLed
+> END STRING
+
+> BEGIN STRING
+■■チャプター３－２■■ en(s[29])
+> CONTEXT: Map002/events/1/pages/1/519/Choice/0
+> CONTEXT: Map002/events/1/pages/3/439/Choice/0
+> CONTEXT: Map002/events/1/pages/4/234/Choice/0
+■ ■ Chapter 3-2 ■ ■en(s[29])#MTLed
+> END STRING
+
+> BEGIN STRING
+アルケニー if(s[29])
+> CONTEXT: Map002/events/1/pages/1/526/Choice/0
+> CONTEXT: Map002/events/1/pages/1/536/Choice/0
+> CONTEXT: Map002/events/1/pages/1/556/Choice/0
+> CONTEXT: Map002/events/1/pages/4/253/Choice/0
+Archenyif(s[29])#MTLed
+> END STRING
+
+> BEGIN STRING
+\\\>\\r[34]作者：P.T.O
+> CONTEXT: Map002/events/1/pages/1/528/ChoiceHelp
+\\\> R r [34] Author: P. T. O#MTLed
+> END STRING
+
+> BEGIN STRING
+\\\>\\r[35]作者：P.T.O
+> CONTEXT: Map002/events/1/pages/1/538/ChoiceHelp
+\\\> R r [35] Author: P. T. O#MTLed
+> END STRING
+
+> BEGIN STRING
+\\\>\\r[59]作者：ロール様
+> CONTEXT: Map002/events/1/pages/1/558/ChoiceHelp
+\\\> R r [59] Author: Role#MTLed
+> END STRING
+
+> BEGIN STRING
+スフィンクス＋＠ if(s[29])
+> CONTEXT: Map002/events/1/pages/1/573/Choice/0
+Sphinx + @if(s[29])#MTLed
+> END STRING
+
+> BEGIN STRING
+\\\>\\r[42]作者：カスガイ様
+> CONTEXT: Map002/events/1/pages/1/575/ChoiceHelp
+\\\> R r [42] Author: Kasgai#MTLed
+> END STRING
+
+> BEGIN STRING
+ランパス if(s[29])
+> CONTEXT: Map002/events/1/pages/1/585/Choice/0
+Lampasif(s[29])#MTLed
+> END STRING
+
+> BEGIN STRING
+\\\>\\r[65]作者：剥製チーズ様
+> CONTEXT: Map002/events/1/pages/1/587/ChoiceHelp
+\\\> [R [65] Author: stuffed cheese#MTLed
+> END STRING
+
+> BEGIN STRING
+■■チャプター３－３■■ en(s[30])
+> CONTEXT: Map002/events/1/pages/1/596/Choice/0
+> CONTEXT: Map002/events/1/pages/3/528/Choice/0
+> CONTEXT: Map002/events/1/pages/4/260/Choice/0
+■ ■ Chapter 3-3 ■ ■en(s[30])#MTLed
+> END STRING
+
+> BEGIN STRING
+ティタノボア if(s[30])
+> CONTEXT: Map002/events/1/pages/1/603/Choice/0
+> CONTEXT: Map002/events/1/pages/4/265/Choice/0
+Titanoboaif(s[30])#MTLed
+> END STRING
+
+> BEGIN STRING
+\\\>\\r[36]作者：P.T.O
+> CONTEXT: Map002/events/1/pages/1/605/ChoiceHelp
+\\\> R r [36] Author: P. T. O#MTLed
+> END STRING
+
+> BEGIN STRING
+チャプター３悪魔 if(s[30])
+> CONTEXT: Map002/events/1/pages/1/613/Choice/0
+Chapter 3 demonif(s[30])#MTLed
+> END STRING
+
+> BEGIN STRING
+\\\>\\r[37]作者：P.T.O
+> CONTEXT: Map002/events/1/pages/1/615/ChoiceHelp
+\\\> R r [37] Author: P. T. O#MTLed
+> END STRING
+
+> BEGIN STRING
+■■チャプター４－１■■ en(s[31])
+> CONTEXT: Map002/events/1/pages/1/623/Choice/0
+> CONTEXT: Map002/events/1/pages/3/593/Choice/0
+> CONTEXT: Map002/events/1/pages/4/272/Choice/0
+■ ■ Chapter 4-1 ■ ■en(s[31])#MTLed
+> END STRING
+
+> BEGIN STRING
+ミカ if(s[31])
+> CONTEXT: Map002/events/1/pages/1/630/Choice/0
+Micahif(s[31])#MTLed
+> END STRING
+
+> BEGIN STRING
+\\\>\\r[54]作者：光合成ひろし様
+> CONTEXT: Map002/events/1/pages/1/632/ChoiceHelp
+\\\> [R [54] Author: Hiroshi Photosynthesis#MTLed
+> END STRING
+
+> BEGIN STRING
+■■チャプター４－２■■ en(s[32])
+> CONTEXT: Map002/events/1/pages/1/640/Choice/0
+> CONTEXT: Map002/events/1/pages/3/620/Choice/0
+> CONTEXT: Map002/events/1/pages/4/284/Choice/0
+■ ■ Chapter 4-2 ■ ■en(s[32])#MTLed
+> END STRING
+
+> BEGIN STRING
+ユウマ＆主人公 if(s[32])
+> CONTEXT: Map002/events/1/pages/1/647/Choice/0
+Yuuma & Heroif(s[32])#MTLed
+> END STRING
+
+> BEGIN STRING
+\\\>\\r[57]作者：カスガイ様
+> CONTEXT: Map002/events/1/pages/1/649/ChoiceHelp
+\\\> [R [57] Author: Kasgai#MTLed
+> END STRING
+
+> BEGIN STRING
+■■ラストチャプター■■ en(s[33])
+> CONTEXT: Map002/events/1/pages/1/657/Choice/0
+> CONTEXT: Map002/events/1/pages/3/685/Choice/0
+> CONTEXT: Map002/events/1/pages/4/311/Choice/0
+■■ Final Chapter ■■en(s[33])#MTLed
+> END STRING
+
+> BEGIN STRING
+真慈悲ラスボス if(s[33])
+> CONTEXT: Map002/events/1/pages/1/664/Choice/0
+True Mercy Lass Bossif(s[33])#MTLed
+> END STRING
+
+> BEGIN STRING
+\\\>\\r[63]作者：P.T.O様
+> CONTEXT: Map002/events/1/pages/1/666/ChoiceHelp
+\\\> R r [63] Author: P. T. O#MTLed
+> END STRING
+
+> BEGIN STRING
+妲己＆メイデン＆アルケニー if(s[33])
+> CONTEXT: Map002/events/1/pages/1/677/Choice/0
+Daiji & Maiden & Archenyif(s[33])#MTLed
+> END STRING
+
+> BEGIN STRING
+\\\>\\r[58]作者：カスガイ様
+> CONTEXT: Map002/events/1/pages/1/679/ChoiceHelp
+\\\> [R [58] Author: Kasgai#MTLed
+> END STRING
+
+> BEGIN STRING
+メニュー画面に戻る
+> CONTEXT: Map002/events/1/pages/1/687/Choice/0
+> CONTEXT: Map002/events/1/pages/2/351/Choice/0
+> CONTEXT: Map002/events/1/pages/3/721/Choice/0
+> CONTEXT: Map002/events/1/pages/4/337/Choice/0
+Return to Previous Menu#Dargoth
+> END STRING
+
+> BEGIN STRING
+\\C[29]【チャプター１】 en(s[22]) 
+> CONTEXT: Map002/events/1/pages/2/6/Choice/0
+\\C[29][Chapter 1]en(s[22])#MTLed
+> END STRING
+
+> BEGIN STRING
+\\l[del]
+> CONTEXT: Map002/events/1/pages/2/8/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/2/81/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/2/183/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/2/260/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/2/353/ChoiceHelp
+\\l[del]#NoTL
+> END STRING
+
+> BEGIN STRING
+\\C[27]〔Ｈ〕\\C[0]『侵されし心と体』
+> CONTEXT: Map002/events/1/pages/2/15/Choice/0
+\\C[27][H]\\C[0] "The broken mind and body"#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[27]〔Ｈ〕\\C[0]『生と、死と、光と……永遠。』
+> CONTEXT: Map002/events/1/pages/2/15/Choice/1
+\\C[27][H]\\C[0] Under life, under death, under light...for all eternity.#MTLed
+> END STRING
+
+> BEGIN STRING
+\\\>作者　　　　　　：天海翡翠
+> CONTEXT: Map002/events/1/pages/2/17/ChoiceHelp
+\\\> Author: Amami Aoi#MTLed
+> END STRING
+
+> BEGIN STRING
+\\\>作者　　　　　　：ザハーク
+> CONTEXT: Map002/events/1/pages/2/26/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/2/49/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/2/58/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/2/102/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/2/113/ChoiceHelp
+\\\> Author: The Haak#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[27]〔Ｈ〕\\C[0]『黒衣の秘密』
+> CONTEXT: Map002/events/1/pages/2/35/Choice/0
+\\C[27][H]\\C[0] "The Secret of Black Coat"#MTLed
+> END STRING
+
+> BEGIN STRING
+\\\>作者　　　　　　：ユーリア
+> CONTEXT: Map002/events/1/pages/2/37/ChoiceHelp
+\\\> Author: Yulia#MTLed
+> END STRING
+
+> BEGIN STRING
+『とある平和主義者の日常』
+> CONTEXT: Map002/events/1/pages/2/47/Choice/0
+"The everyday life of a certain pacifist"#MTLed
+> END STRING
+
+> BEGIN STRING
+『彼は『悪魔の』虐殺者』
+> CONTEXT: Map002/events/1/pages/2/47/Choice/1
+"He is a demon's slaughterer"#MTLed
+> END STRING
+
+> BEGIN STRING
+『傍観者とランパス』
+> CONTEXT: Map002/events/1/pages/2/67/Choice/0
+"Bystanders and Lampas"#MTLed
+> END STRING
+
+> BEGIN STRING
+\\\>作者　　　　　　：カスガイ
+> CONTEXT: Map002/events/1/pages/2/69/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/2/249/ChoiceHelp
+\\\> Author: Kasgai#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]【チャプター２】 en(s[25]) 
+> CONTEXT: Map002/events/1/pages/2/79/Choice/0
+\\C[29][Chapter 2]en(s[25])#MTLed
+> END STRING
+
+> BEGIN STRING
+『命無き者たちへ、命ある者から』
+> CONTEXT: Map002/events/1/pages/2/88/Choice/0
+"To those without life, from those with life"#MTLed
+> END STRING
+
+> BEGIN STRING
+\\\>作者　　　　　　：少佐
+> CONTEXT: Map002/events/1/pages/2/90/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/2/136/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/2/172/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/2/192/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/2/216/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/2/227/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/2/238/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/2/269/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/2/281/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/2/293/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/2/305/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/2/317/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/2/329/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/2/341/ChoiceHelp
+\\\> Author: Major#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[27]〔Ｈ〕\\C[0]『Death by Glamour ニーナの寝起きドッキリタイム』
+> CONTEXT: Map002/events/1/pages/2/100/Choice/0
+\\C[27][H]\\C[0] "Death by Glamor Nina's wake up to sleep"#MTLed
+> END STRING
+
+> BEGIN STRING
+『選択と誘惑』
+> CONTEXT: Map002/events/1/pages/2/123/Choice/0
+"Selection and temptation"#MTLed
+> END STRING
+
+> BEGIN STRING
+\\\>作者　　　　　　：江村テツヤ
+> CONTEXT: Map002/events/1/pages/2/125/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/2/148/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/2/160/ChoiceHelp
+\\\> Author: Emura Tetsuya#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[27]〔Ｈ〕\\C[0]『ロマンティック・オーヴァドライブ』
+> CONTEXT: Map002/events/1/pages/2/146/Choice/0
+\\C[27][H]\\C[0] "Romantic Overdrive"#MTLed
+> END STRING
+
+> BEGIN STRING
+『新連載！雷刃シュリフト！！（嘘予告）』
+> CONTEXT: Map002/events/1/pages/2/158/Choice/0
+"New series!Thunder blade shrift!!(Leice notice) "#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]【チャプター３】 en(s[28]) 
+> CONTEXT: Map002/events/1/pages/2/181/Choice/0
+\\C[29][Chapter 3]en(s[28])#MTLed
+> END STRING
+
+> BEGIN STRING
+『真心を込めて』
+> CONTEXT: Map002/events/1/pages/2/190/Choice/0
+"With all my heart"#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[27]〔Ｈ〕\\C[0]『機織女の懐柔』
+> CONTEXT: Map002/events/1/pages/2/202/Choice/0
+\\C[27][H]\\C[0] "Woman of the woven woman"#MTLed
+> END STRING
+
+> BEGIN STRING
+\\\>作者　　　　　　：ロール
+> CONTEXT: Map002/events/1/pages/2/204/ChoiceHelp
+\\\> Author: Role#MTLed
+> END STRING
+
+> BEGIN STRING
+『アコニーな日々』
+> CONTEXT: Map002/events/1/pages/2/214/Choice/0
+"Aconitum days"#MTLed
+> END STRING
+
+> BEGIN STRING
+『お風呂はお好き？』
+> CONTEXT: Map002/events/1/pages/2/247/Choice/0
+"Do you like baths?"#MTLed
+> END STRING
+
+> BEGIN STRING
+\\C[29]【チャプター４】 en(s[31]) 
+> CONTEXT: Map002/events/1/pages/2/258/Choice/0
+\\C[29][Chapter 4]en(s[31])#MTLed
+> END STRING
+
+> BEGIN STRING
+『悪魔の館』
+> CONTEXT: Map002/events/1/pages/2/291/Choice/0
+"The hall of demon"#MTLed
+> END STRING
+
+> BEGIN STRING
+『名前を付けよう！』
+> CONTEXT: Map002/events/1/pages/2/303/Choice/0
+"Let's name it!"#MTLed
+> END STRING
+
+> BEGIN STRING
+『蛇と少女の物語』
+> CONTEXT: Map002/events/1/pages/2/327/Choice/0
+"The story of snakes and girls"#MTLed
+> END STRING
+
+> BEGIN STRING
+『ボーダーライン』
+> CONTEXT: Map002/events/1/pages/2/339/Choice/0
+"Borderline"#MTLed
+> END STRING
+
+> BEGIN STRING
+【立ち絵】バーゲスト if(s[22])
+> CONTEXT: Map002/events/1/pages/3/7/Choice/1
+【Standing picture】 barghestif(s[22])#MTLed
+> END STRING
+
+> BEGIN STRING
+【立ち絵】百鬼 if(s[22])
+> CONTEXT: Map002/events/1/pages/3/7/Choice/2
+【Handling picture】 Hyakkiif(s[22])#MTLed
+> END STRING
+
+> BEGIN STRING
+\\r[c]
+> CONTEXT: Map002/events/1/pages/3/14/ChoiceHelp
+\\r[c]#NoTL
+> END STRING
+
+> BEGIN STRING
+\\r[h]
+> CONTEXT: Map002/events/1/pages/3/23/ChoiceHelp
+\\r[h]#NoTL
+> END STRING
+
+> BEGIN STRING
+【資料】『悪魔弾』 if(s[22])
+> CONTEXT: Map002/events/1/pages/3/32/Choice/0
+【Material】 "Demon rounds"if(s[22])#MTLed
+> END STRING
+
+> BEGIN STRING
+\\r[a4]
+> CONTEXT: Map002/events/1/pages/3/34/ChoiceHelp
+\\r[a4]#NoTL
+> END STRING
+
+> BEGIN STRING
+【立ち絵】ランパス if(s[23])
+> CONTEXT: Map002/events/1/pages/3/43/Choice/1
+> CONTEXT: Map002/events/1/pages/3/43/Choice/2
+【Painting】 Lampasif(s[23])#MTLed
+> END STRING
+
+> BEGIN STRING
+【立ち絵】アイアンメイデン if(s[23])
+> CONTEXT: Map002/events/1/pages/3/43/Choice/3
+【Standby】 Iron Maidenif(s[23])#MTLed
+> END STRING
+
+> BEGIN STRING
+\\r[a]
+> CONTEXT: Map002/events/1/pages/3/50/ChoiceHelp
+\\r[a]#NoTL
+> END STRING
+
+> BEGIN STRING
+\\r[b]
+> CONTEXT: Map002/events/1/pages/3/59/ChoiceHelp
+\\r[b]#NoTL
+> END STRING
+
+> BEGIN STRING
+\\r[d]
+> CONTEXT: Map002/events/1/pages/3/68/ChoiceHelp
+\\r[d]#NoTL
+> END STRING
+
+> BEGIN STRING
+【資料】ランパス if(s[23])
+> CONTEXT: Map002/events/1/pages/3/77/Choice/0
+> CONTEXT: Map002/events/1/pages/3/77/Choice/1
+> CONTEXT: Map002/events/1/pages/3/77/Choice/2
+【Data】 Lampasif(s[23])#MTLed
+> END STRING
+
+> BEGIN STRING
+\\r[a1]
+> CONTEXT: Map002/events/1/pages/3/79/ChoiceHelp
+\\r[a1]#NoTL
+> END STRING
+
+> BEGIN STRING
+\\r[a2]
+> CONTEXT: Map002/events/1/pages/3/88/ChoiceHelp
+\\r[a2]#NoTL
+> END STRING
+
+> BEGIN STRING
+\\r[a3]
+> CONTEXT: Map002/events/1/pages/3/97/ChoiceHelp
+\\r[a3]#NoTL
+> END STRING
+
+> BEGIN STRING
+【資料】アイアンメイデン if(s[23])
+> CONTEXT: Map002/events/1/pages/3/106/Choice/0
+> CONTEXT: Map002/events/1/pages/3/106/Choice/1
+> CONTEXT: Map002/events/1/pages/3/106/Choice/2
+【Material】 Iron Maidenif(s[23])#MTLed
+> END STRING
+
+> BEGIN STRING
+\\r[d1]
+> CONTEXT: Map002/events/1/pages/3/108/ChoiceHelp
+\\r[d1]#NoTL
+> END STRING
+
+> BEGIN STRING
+\\r[d2]
+> CONTEXT: Map002/events/1/pages/3/117/ChoiceHelp
+\\r[d2]#NoTL
+> END STRING
+
+> BEGIN STRING
+\\r[d3]
+> CONTEXT: Map002/events/1/pages/3/126/ChoiceHelp
+\\r[d3]#NoTL
+> END STRING
+
+> BEGIN STRING
+【立ち絵】エンプーサ if(s[24])
+> CONTEXT: Map002/events/1/pages/3/135/Choice/1
+【Handling picture】 Empuseif(s[24])#MTLed
+> END STRING
+
+> BEGIN STRING
+\\r[e]
+> CONTEXT: Map002/events/1/pages/3/142/ChoiceHelp
+\\r[e]#NoTL
+> END STRING
+
+> BEGIN STRING
+【資料】エンプーサ if(s[24])
+> CONTEXT: Map002/events/1/pages/3/151/Choice/0
+【Data】 Empuseif(s[24])#MTLed
+> END STRING
+
+> BEGIN STRING
+【資料２】エンプーサ if(s[24])
+> CONTEXT: Map002/events/1/pages/3/151/Choice/1
+[Document 2] Empuseif(s[24])#MTLed
+> END STRING
+
+> BEGIN STRING
+\\r[e1]
+> CONTEXT: Map002/events/1/pages/3/153/ChoiceHelp
+\\r[e1]#NoTL
+> END STRING
+
+> BEGIN STRING
+\\r[e2]
+> CONTEXT: Map002/events/1/pages/3/162/ChoiceHelp
+\\r[e2]#NoTL
+> END STRING
+
+> BEGIN STRING
+ヘカーテ【立ち絵】 if(s[24])
+> CONTEXT: Map002/events/1/pages/3/171/Choice/0
+Hecate 【standing picture】if(s[24])#MTLed
+> END STRING
+
+> BEGIN STRING
+ヘカーテ【立ち絵２】 if(s[24])
+> CONTEXT: Map002/events/1/pages/3/171/Choice/1
+Hecate 【Standby 2】if(s[24])#MTLed
+> END STRING
+
+> BEGIN STRING
+\\r[f]
+> CONTEXT: Map002/events/1/pages/3/173/ChoiceHelp
+\\r[f]#NoTL
+> END STRING
+
+> BEGIN STRING
+\\r[g]
+> CONTEXT: Map002/events/1/pages/3/182/ChoiceHelp
+\\r[g]#NoTL
+> END STRING
+
+> BEGIN STRING
+【立ち絵】マザーラビット if(s[25])
+> CONTEXT: Map002/events/1/pages/3/198/Choice/0
+【Standby】 Mother Rabbitif(s[25])#MTLed
+> END STRING
+
+> BEGIN STRING
+【資料】マザーラビット if(s[25])
+> CONTEXT: Map002/events/1/pages/3/198/Choice/1
+> CONTEXT: Map002/events/1/pages/3/198/Choice/2
+> CONTEXT: Map002/events/1/pages/3/227/Choice/0
+【Data】 Mother Rabbitif(s[25])#MTLed
+> END STRING
+
+> BEGIN STRING
+\\r[i1]
+> CONTEXT: Map002/events/1/pages/3/200/ChoiceHelp
+\\r[i1]#NoTL
+> END STRING
+
+> BEGIN STRING
+\\r[i2]
+> CONTEXT: Map002/events/1/pages/3/209/ChoiceHelp
+\\r[i2]#NoTL
+> END STRING
+
+> BEGIN STRING
+\\r[i3]
+> CONTEXT: Map002/events/1/pages/3/218/ChoiceHelp
+\\r[i3]#NoTL
+> END STRING
+
+> BEGIN STRING
+\\r[i4]
+> CONTEXT: Map002/events/1/pages/3/229/ChoiceHelp
+\\r[i4]#NoTL
+> END STRING
+
+> BEGIN STRING
+【立ち絵】ハル if(s[25])
+> CONTEXT: Map002/events/1/pages/3/238/Choice/0
+【Handling picture】 Haruif(s[25])#MTLed
+> END STRING
+
+> BEGIN STRING
+【立ち絵】リズ if(s[25])
+> CONTEXT: Map002/events/1/pages/3/238/Choice/1
+【Standby】 Lizif(s[25])#MTLed
+> END STRING
+
+> BEGIN STRING
+\\r[j]
+> CONTEXT: Map002/events/1/pages/3/240/ChoiceHelp
+\\r[j]#NoTL
+> END STRING
+
+> BEGIN STRING
+\\r[k]
+> CONTEXT: Map002/events/1/pages/3/249/ChoiceHelp
+\\r[k]#NoTL
+> END STRING
+
+> BEGIN STRING
+【立ち絵】躯 if(s[26])
+> CONTEXT: Map002/events/1/pages/3/265/Choice/0
+【Hands-off】 Mukuroif(s[26])#MTLed
+> END STRING
+
+> BEGIN STRING
+【立ち絵２】躯 if(s[26])
+> CONTEXT: Map002/events/1/pages/3/265/Choice/1
+【Mixed picture 2】 Mukuroif(s[26])#MTLed
+> END STRING
+
+> BEGIN STRING
+【資料】躯 if(s[26])
+> CONTEXT: Map002/events/1/pages/3/265/Choice/2
+【Data】 Mukuroif(s[26])#MTLed
+> END STRING
+
+> BEGIN STRING
+\\r[l]
+> CONTEXT: Map002/events/1/pages/3/267/ChoiceHelp
+\\r[l]#NoTL
+> END STRING
+
+> BEGIN STRING
+\\r[l1]
+> CONTEXT: Map002/events/1/pages/3/276/ChoiceHelp
+\\r[l1]#NoTL
+> END STRING
+
+> BEGIN STRING
+\\r[l2]
+> CONTEXT: Map002/events/1/pages/3/285/ChoiceHelp
+\\r[l2]#NoTL
+> END STRING
+
+> BEGIN STRING
+【立ち絵】結 if(s[26])
+> CONTEXT: Map002/events/1/pages/3/294/Choice/0
+【Standing picture】 Yuiif(s[26])#MTLed
+> END STRING
+
+> BEGIN STRING
+\\r[m]
+> CONTEXT: Map002/events/1/pages/3/296/ChoiceHelp
+\\r[m]#NoTL
+> END STRING
+
+> BEGIN STRING
+【立ち絵】双子 if(s[26])
+> CONTEXT: Map002/events/1/pages/3/305/Choice/0
+【Standing picture】 twinsif(s[26])#MTLed
+> END STRING
+
+> BEGIN STRING
+\\r[m2]
+> CONTEXT: Map002/events/1/pages/3/307/ChoiceHelp
+\\r[m2]#NoTL
+> END STRING
+
+> BEGIN STRING
+【立ち絵】ニーナ if(s[27])
+> CONTEXT: Map002/events/1/pages/3/323/Choice/0
+【Handling picture】 Ninaif(s[27])#MTLed
+> END STRING
+
+> BEGIN STRING
+【立ち絵】エボニー if(s[27])
+> CONTEXT: Map002/events/1/pages/3/323/Choice/1
+【Handling picture】 Ebonyif(s[27])#MTLed
+> END STRING
+
+> BEGIN STRING
+【立ち絵】レイジー if(s[27])
+> CONTEXT: Map002/events/1/pages/3/323/Choice/2
+【Standby】 Lazyif(s[27])#MTLed
+> END STRING
+
+> BEGIN STRING
+\\r[n]
+> CONTEXT: Map002/events/1/pages/3/325/ChoiceHelp
+\\r[n]#NoTL
+> END STRING
+
+> BEGIN STRING
+\\r[n1]
+> CONTEXT: Map002/events/1/pages/3/334/ChoiceHelp
+\\r[n1]#NoTL
+> END STRING
+
+> BEGIN STRING
+\\r[n2]
+> CONTEXT: Map002/events/1/pages/3/343/ChoiceHelp
+\\r[n2]#NoTL
+> END STRING
+
+> BEGIN STRING
+【資料】ニーナ if(s[27])
+> CONTEXT: Map002/events/1/pages/3/352/Choice/0
+【Data】 Ninaif(s[27])#MTLed
+> END STRING
+
+> BEGIN STRING
+\\r[n3]
+> CONTEXT: Map002/events/1/pages/3/354/ChoiceHelp
+\\r[n3]#NoTL
+> END STRING
+
+> BEGIN STRING
+【資料】黒棺 if(s[28])
+> CONTEXT: Map002/events/1/pages/3/370/Choice/0
+【Material】 Ebonyif(s[28])#MTLed
+> END STRING
+
+> BEGIN STRING
+\\r[s]
+> CONTEXT: Map002/events/1/pages/3/372/ChoiceHelp
+\\r[s]#NoTL
+> END STRING
+
+> BEGIN STRING
+【立ち絵】エコー（人魚） if(s[28])
+> CONTEXT: Map002/events/1/pages/3/381/Choice/0
+【Handling picture】 Echo (mermaid)if(s[28])#MTLed
+> END STRING
+
+> BEGIN STRING
+【立ち絵】エコー（蛞蝓） if(s[28])
+> CONTEXT: Map002/events/1/pages/3/381/Choice/1
+【Handling picture】 Echo (蛞蝓)if(s[28])#MTLed
+> END STRING
+
+> BEGIN STRING
+【資料】エコー if(s[28])
+> CONTEXT: Map002/events/1/pages/3/381/Choice/2
+> CONTEXT: Map002/events/1/pages/3/381/Choice/3
+【Data】 Echoif(s[28])#MTLed
+> END STRING
+
+> BEGIN STRING
+\\r[o]
+> CONTEXT: Map002/events/1/pages/3/383/ChoiceHelp
+\\r[o]#NoTL
+> END STRING
+
+> BEGIN STRING
+\\r[o1]
+> CONTEXT: Map002/events/1/pages/3/392/ChoiceHelp
+\\r[o1]#NoTL
+> END STRING
+
+> BEGIN STRING
+\\r[o2]
+> CONTEXT: Map002/events/1/pages/3/401/ChoiceHelp
+\\r[o2]#NoTL
+> END STRING
+
+> BEGIN STRING
+\\r[o3]
+> CONTEXT: Map002/events/1/pages/3/410/ChoiceHelp
+\\r[o3]#NoTL
+> END STRING
+
+> BEGIN STRING
+【立ち絵】スフィンクス if(s[28])
+> CONTEXT: Map002/events/1/pages/3/419/Choice/0
+> CONTEXT: Map002/events/1/pages/3/419/Choice/1
+【Handling picture】 Sphinxif(s[28])#MTLed
+> END STRING
+
+> BEGIN STRING
+\\r[p]
+> CONTEXT: Map002/events/1/pages/3/421/ChoiceHelp
+\\r[p]#NoTL
+> END STRING
+
+> BEGIN STRING
+\\r[p1]
+> CONTEXT: Map002/events/1/pages/3/430/ChoiceHelp
+\\r[p1]#NoTL
+> END STRING
+
+> BEGIN STRING
+【立ち絵】アルケニー if(s[29])
+> CONTEXT: Map002/events/1/pages/3/446/Choice/0
+【Arrangement】 Archenyif(s[29])#MTLed
+> END STRING
+
+> BEGIN STRING
+【資料】アルケニー if(s[29])
+> CONTEXT: Map002/events/1/pages/3/446/Choice/1
+> CONTEXT: Map002/events/1/pages/3/446/Choice/2
+> CONTEXT: Map002/events/1/pages/3/446/Choice/3
+> CONTEXT: Map002/events/1/pages/3/484/Choice/0
+> CONTEXT: Map002/events/1/pages/3/517/Choice/0
+【Data】 Archenyif(s[29])#MTLed
+> END STRING
+
+> BEGIN STRING
+\\r[q]
+> CONTEXT: Map002/events/1/pages/3/448/ChoiceHelp
+\\r[q]#NoTL
+> END STRING
+
+> BEGIN STRING
+\\r[q1]
+> CONTEXT: Map002/events/1/pages/3/457/ChoiceHelp
+\\r[q1]#NoTL
+> END STRING
+
+> BEGIN STRING
+\\r[q2]
+> CONTEXT: Map002/events/1/pages/3/466/ChoiceHelp
+\\r[q2]#NoTL
+> END STRING
+
+> BEGIN STRING
+\\r[q3]
+> CONTEXT: Map002/events/1/pages/3/475/ChoiceHelp
+\\r[q3]#NoTL
+> END STRING
+
+> BEGIN STRING
+\\r[q5]
+> CONTEXT: Map002/events/1/pages/3/486/ChoiceHelp
+\\r[q5]#NoTL
+> END STRING
+
+> BEGIN STRING
+【立ち絵】アコニートゥム if(s[29])
+> CONTEXT: Map002/events/1/pages/3/495/Choice/0
+> CONTEXT: Map002/events/1/pages/3/506/Choice/0
+【Handling picture】 Aconitumif(s[29])#MTLed
+> END STRING
+
+> BEGIN STRING
+\\r[q6]
+> CONTEXT: Map002/events/1/pages/3/497/ChoiceHelp
+\\r[q6]#NoTL
+> END STRING
+
+> BEGIN STRING
+\\r[q7]
+> CONTEXT: Map002/events/1/pages/3/508/ChoiceHelp
+\\r[q7]#NoTL
+> END STRING
+
+> BEGIN STRING
+\\r[q4]
+> CONTEXT: Map002/events/1/pages/3/519/ChoiceHelp
+\\r[q4]#NoTL
+> END STRING
+
+> BEGIN STRING
+【立ち絵】ティタノボア if(s[30])
+> CONTEXT: Map002/events/1/pages/3/535/Choice/0
+> CONTEXT: Map002/events/1/pages/3/535/Choice/1
+【Handling picture】 Titanoboaif(s[30])#MTLed
+> END STRING
+
+> BEGIN STRING
+【資料】ティタノボア if(s[30])
+> CONTEXT: Map002/events/1/pages/3/535/Choice/2
+> CONTEXT: Map002/events/1/pages/3/535/Choice/3
+> CONTEXT: Map002/events/1/pages/3/573/Choice/0
+> CONTEXT: Map002/events/1/pages/3/573/Choice/1
+【Data】 Titanoboaif(s[30])#MTLed
+> END STRING
+
+> BEGIN STRING
+\\r[r]
+> CONTEXT: Map002/events/1/pages/3/537/ChoiceHelp
+\\r[r]#NoTL
+> END STRING
+
+> BEGIN STRING
+\\r[r1]
+> CONTEXT: Map002/events/1/pages/3/546/ChoiceHelp
+\\r[r1]#NoTL
+> END STRING
+
+> BEGIN STRING
+\\r[r2]
+> CONTEXT: Map002/events/1/pages/3/555/ChoiceHelp
+\\r[r2]#NoTL
+> END STRING
+
+> BEGIN STRING
+\\r[r3]
+> CONTEXT: Map002/events/1/pages/3/564/ChoiceHelp
+\\r[r3]#NoTL
+> END STRING
+
+> BEGIN STRING
+\\r[r4]
+> CONTEXT: Map002/events/1/pages/3/575/ChoiceHelp
+\\r[r4]#NoTL
+> END STRING
+
+> BEGIN STRING
+\\r[r5]
+> CONTEXT: Map002/events/1/pages/3/584/ChoiceHelp
+\\r[r5]#NoTL
+> END STRING
+
+> BEGIN STRING
+【立ち絵】カマソッソ if(s[31])
+> CONTEXT: Map002/events/1/pages/3/600/Choice/0
+> CONTEXT: Map002/events/1/pages/3/600/Choice/1
+【Standing picture】 Camazotzif(s[31])#MTLed
+> END STRING
+
+> BEGIN STRING
+\\r[t]
+> CONTEXT: Map002/events/1/pages/3/602/ChoiceHelp
+\\r[t]#NoTL
+> END STRING
+
+> BEGIN STRING
+\\r[t1]
+> CONTEXT: Map002/events/1/pages/3/611/ChoiceHelp
+\\r[t1]#NoTL
+> END STRING
+
+> BEGIN STRING
+【立ち絵】妲己（ノーマル） if(s[32])
+> CONTEXT: Map002/events/1/pages/3/627/Choice/0
+【Handling picture】 Daiji (Normal)if(s[32])#MTLed
+> END STRING
+
+> BEGIN STRING
+【立ち絵】妲己（初期案） if(s[32])
+> CONTEXT: Map002/events/1/pages/3/627/Choice/1
+【Draft】 Daiji (Initial plan)if(s[32])#MTLed
+> END STRING
+
+> BEGIN STRING
+【立ち絵】妲己（アルラウネ） if(s[32])
+> CONTEXT: Map002/events/1/pages/3/627/Choice/2
+【Draft】 Daiji (Alraune)if(s[32])#MTLed
+> END STRING
+
+> BEGIN STRING
+【立ち絵】妲己（ビースト） if(s[32])
+> CONTEXT: Map002/events/1/pages/3/627/Choice/3
+【Handling picture】 Daiji (Beast)if(s[32])#MTLed
+> END STRING
+
+> BEGIN STRING
+\\r[u]
+> CONTEXT: Map002/events/1/pages/3/629/ChoiceHelp
+\\r[u]#NoTL
+> END STRING
+
+> BEGIN STRING
+\\r[u1]
+> CONTEXT: Map002/events/1/pages/3/638/ChoiceHelp
+\\r[u1]#NoTL
+> END STRING
+
+> BEGIN STRING
+\\r[u2]
+> CONTEXT: Map002/events/1/pages/3/647/ChoiceHelp
+\\r[u2]#NoTL
+> END STRING
+
+> BEGIN STRING
+\\r[u3]
+> CONTEXT: Map002/events/1/pages/3/656/ChoiceHelp
+\\r[u3]#NoTL
+> END STRING
+
+> BEGIN STRING
+【立ち絵】妲己（ジェル） if(s[32])
+> CONTEXT: Map002/events/1/pages/3/665/Choice/0
+【Draft】 Daiji (gel)if(s[32])#MTLed
+> END STRING
+
+> BEGIN STRING
+【イラスト】丸呑みフィルター if(s[32])
+> CONTEXT: Map002/events/1/pages/3/665/Choice/1
+【I final】 Round filterif(s[32])#MTLed
+> END STRING
+
+> BEGIN STRING
+\\r[u4]
+> CONTEXT: Map002/events/1/pages/3/667/ChoiceHelp
+\\r[u4]#NoTL
+> END STRING
+
+> BEGIN STRING
+\\r[u5]
+> CONTEXT: Map002/events/1/pages/3/676/ChoiceHelp
+\\r[u5]#NoTL
+> END STRING
+
+> BEGIN STRING
+【立ち絵】サマエル if(s[33])
+> CONTEXT: Map002/events/1/pages/3/692/Choice/0
+【Handling picture】 Samaelif(s[33])#MTLed
+> END STRING
+
+> BEGIN STRING
+【立ち絵】レミエル if(s[33])
+> CONTEXT: Map002/events/1/pages/3/692/Choice/1
+【Standing picture】 Remielif(s[33])#MTLed
+> END STRING
+
+> BEGIN STRING
+真慈悲ルート主題歌歌詞 if(s[531])
+> CONTEXT: Map002/events/1/pages/3/692/Choice/2
+True Mercy route theme song lyricsif(s[531])#MTLed
+> END STRING
+
+> BEGIN STRING
+\\r[v]
+> CONTEXT: Map002/events/1/pages/3/694/ChoiceHelp
+\\r[v]#NoTL
+> END STRING
+
+> BEGIN STRING
+\\r[v2]
+> CONTEXT: Map002/events/1/pages/3/703/ChoiceHelp
+\\r[v2]#NoTL
+> END STRING
+
+> BEGIN STRING
+\\r[w]
+> CONTEXT: Map002/events/1/pages/3/712/ChoiceHelp
+\\r[w]#NoTL
+> END STRING
+
+> BEGIN STRING
+デフォルト（時計音）
+> CONTEXT: Map002/events/1/pages/4/7/Choice/0
+Default (clock sound)#MTLed
+> END STRING
+
+> BEGIN STRING
+タイトル
+> CONTEXT: Map002/events/1/pages/4/7/Choice/1
+Title#Dargoth
+> END STRING
+
+> BEGIN STRING
+デフォルト２（風）if(s[24])
+> CONTEXT: Map002/events/1/pages/4/7/Choice/2
+Default 2 (Wind)if(s[24])#MTLed
+> END STRING
+
+> BEGIN STRING
+デフォルト３（森）if(s[28])
+> CONTEXT: Map002/events/1/pages/4/7/Choice/3
+Default 3 (Forest)if(s[28])#MTLed
+> END STRING
+
+> BEGIN STRING
+夢の中 if(s[22])
+> CONTEXT: Map002/events/1/pages/4/34/Choice/0
+dreamingif(s[22])#MTLed
+> END STRING
+
+> BEGIN STRING
+平和だった過去 if(s[22])
+> CONTEXT: Map002/events/1/pages/4/34/Choice/1
+The past was peacefulif(s[22])#MTLed
+> END STRING
+
+> BEGIN STRING
+休憩所 if(s[22])
+> CONTEXT: Map002/events/1/pages/4/46/Choice/0
+Rest areaif(s[22])#MTLed
+> END STRING
+
+> BEGIN STRING
+研究所 if(s[22])
+> CONTEXT: Map002/events/1/pages/4/46/Choice/1
+Laboratoryif(s[22])#MTLed
+> END STRING
+
+> BEGIN STRING
+通常戦闘 if(s[22])
+> CONTEXT: Map002/events/1/pages/4/46/Choice/2
+Normal battleif(s[22])#MTLed
+> END STRING
+
+> BEGIN STRING
+緊急事態 if(s[22])
+> CONTEXT: Map002/events/1/pages/4/46/Choice/3
+Emergencyif(s[22])#MTLed
+> END STRING
+
+> BEGIN STRING
+冥府の間 if(s[22])
+> CONTEXT: Map002/events/1/pages/4/68/Choice/0
+Hell's Gateif(s[22])#MTLed
+> END STRING
+
+> BEGIN STRING
+悪魔全書 if(s[22])
+> CONTEXT: Map002/events/1/pages/4/68/Choice/1
+all demonsif(s[22])#MTLed
+> END STRING
+
+> BEGIN STRING
+夢の中 if(s[23])
+> CONTEXT: Map002/events/1/pages/4/97/Choice/0
+dreamingif(s[23])#MTLed
+> END STRING
+
+> BEGIN STRING
+エンプーサ if(s[24])
+> CONTEXT: Map002/events/1/pages/4/109/Choice/0
+Empuse if(s[24])#Dargoth
+> END STRING
+
+> BEGIN STRING
+荒廃した街 if(s[25])
+> CONTEXT: Map002/events/1/pages/4/121/Choice/0
+A devastated cityif(s[25])#MTLed
+> END STRING
+
+> BEGIN STRING
+レッツダンス！ if(s[25])
+> CONTEXT: Map002/events/1/pages/4/128/Choice/0
+Let's dance!if(s[25])#MTLed
+> END STRING
+
+> BEGIN STRING
+コンビニ if(s[25])
+> CONTEXT: Map002/events/1/pages/4/135/Choice/0
+convenience storeif(s[25])#MTLed
+> END STRING
+
+> BEGIN STRING
+出会い if(s[25])
+> CONTEXT: Map002/events/1/pages/4/142/Choice/0
+Encounterif(s[25])#MTLed
+> END STRING
+
+> BEGIN STRING
+異変 if(s[25])
+> CONTEXT: Map002/events/1/pages/4/149/Choice/0
+Unusualif(s[25])#MTLed
+> END STRING
+
+> BEGIN STRING
+母性の行く先 if(s[336])
+> CONTEXT: Map002/events/1/pages/4/156/Choice/0
+Where Motherhood Goesif(s[336])#MTLed
+> END STRING
+
+> BEGIN STRING
+社 if(s[26])
+> CONTEXT: Map002/events/1/pages/4/175/Choice/0
+Companyif(s[26])#MTLed
+> END STRING
+
+> BEGIN STRING
+エスケープ if(s[26])
+> CONTEXT: Map002/events/1/pages/4/182/Choice/0
+Escapeif(s[26])#MTLed
+> END STRING
+
+> BEGIN STRING
+双子 if(s[329])
+> CONTEXT: Map002/events/1/pages/4/189/Choice/0
+twinsif(s[329])#MTLed
+> END STRING
+
+> BEGIN STRING
+オンエア！！ if(s[27])
+> CONTEXT: Map002/events/1/pages/4/201/Choice/0
+On Air!!if(s[27])#MTLed
+> END STRING
+
+> BEGIN STRING
+『キラキラ』 if(s[335])
+> CONTEXT: Map002/events/1/pages/4/208/Choice/0
+"Glitter"if(s[335])#MTLed
+> END STRING
+
+> BEGIN STRING
+人外の森 if(s[28])
+> CONTEXT: Map002/events/1/pages/4/220/Choice/0
+Forest outsideif(s[28])#MTLed
+> END STRING
+
+> BEGIN STRING
+スフィンクス if(s[28])
+> CONTEXT: Map002/events/1/pages/4/227/Choice/0
+Sphinxif(s[28])#MTLed
+> END STRING
+
+> BEGIN STRING
+百鬼の本気 if(s[29])
+> CONTEXT: Map002/events/1/pages/4/239/Choice/0
+Seriousness of Hyakkiif(s[29])#MTLed
+> END STRING
+
+> BEGIN STRING
+アルケニーの巣 if(s[29])
+> CONTEXT: Map002/events/1/pages/4/246/Choice/0
+Archeny's Nestif(s[29])#MTLed
+> END STRING
+
+> BEGIN STRING
+駐車場 if(s[32])
+> CONTEXT: Map002/events/1/pages/4/277/Choice/0
+Parking Lotif(s[32])#MTLed
+> END STRING
+
+> BEGIN STRING
+空港 if(s[32])
+> CONTEXT: Map002/events/1/pages/4/289/Choice/0
+Airportif(s[32])#MTLed
+> END STRING
+
+> BEGIN STRING
+妲己 if(s[32])
+> CONTEXT: Map002/events/1/pages/4/289/Choice/1
+Daijiif(s[32])#MTLed
+> END STRING
+
+> BEGIN STRING
+リニアランチャー if(s[32])
+> CONTEXT: Map002/events/1/pages/4/289/Choice/2
+Linear launcherif(s[32])#MTLed
+> END STRING
+
+> BEGIN STRING
+脱出 if(s[32])
+> CONTEXT: Map002/events/1/pages/4/289/Choice/3
+Escapeif(s[32])#MTLed
+> END STRING
+
+> BEGIN STRING
+サマエル if(s[33])
+> CONTEXT: Map002/events/1/pages/4/316/Choice/0
+Samaelif(s[33])#MTLed
+> END STRING
+
+> BEGIN STRING
+僕の物語 if(s[531])
+> CONTEXT: Map002/events/1/pages/4/323/Choice/0
+My storyif(s[531])#MTLed
+> END STRING
+
+> BEGIN STRING
+真慈悲ルート主題歌 if(s[531])
+> CONTEXT: Map002/events/1/pages/4/330/Choice/0
+True mercy route theme songif(s[531])#MTLed
+> END STRING
