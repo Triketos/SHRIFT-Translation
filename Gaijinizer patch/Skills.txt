@@ -4171,7 +4171,7 @@ Increases the caster's physical attack for 3 turns.#Dargoth
 > BEGIN STRING
 スペル・カーズ
 > CONTEXT: Skills/362/name
-Kazu Spell#afrg
+Binding Spell#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -4233,7 +4233,7 @@ Tongue Assault#afrg
 > BEGIN STRING
 は必死に舌で目の前のアソコに舌を入れた！
 > CONTEXT: Skills/367/message1
- frantically licks the dick in front of her!#afrg
+ frantically licks the pussy in front of him!#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -7043,13 +7043,13 @@ Cannot be used unless the weapon is fully charged.#afrg
 > CONTEXT: Skills/720/name
 > CONTEXT: Skills/752/name
 > CONTEXT: Weapons/80/name
-Linear cannon#MTLed
+Linear Cannon#Triketos
 > END STRING
 
 > BEGIN STRING
 はリニアランチャーを放った！
 > CONTEXT: Skills/720/message1
- fired the Linear Launcher!#afrg
+ fired the Linear Cannon!#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -7395,14 +7395,14 @@ Inflicts small physical damage to a single enemy.
 ∞ハンドガン
 > CONTEXT: Skills/771/name
 > CONTEXT: Weapons/85/name
-∞ Handgun#MTLed
+∞ Handgun#Triketos
 > END STRING
 
 > BEGIN STRING
 ∞マシンガン
 > CONTEXT: Skills/772/name
 > CONTEXT: Weapons/86/name
-マ シ ン machine gun#MTLed
+∞ Machine Gun#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -7415,7 +7415,7 @@ Deals moderate damage to an opponent.#afrg
 ∞ショットガン
 > CONTEXT: Skills/773/name
 > CONTEXT: Weapons/87/name
-シ ョ ッ ト shotgun#MTLed
+∞ Shotgun#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -7557,7 +7557,7 @@ Deals light damage, three times. Wind attribute.#afrg
 ∞アサルトライフル
 > CONTEXT: Skills/783/name
 > CONTEXT: Weapons/91/name
-ア assault rifle#MTLed
+∞ Assault Rifle#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -7570,7 +7570,7 @@ Deals light damage, three times. Wind attribute.#afrg
 ∞キャリコ
 > CONTEXT: Skills/786/name
 > CONTEXT: Weapons/89/name
-∞ Calico#MTLed
+∞ Calico#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -7590,7 +7590,7 @@ Great physical damage to a single enemy.
 ∞マグナム
 > CONTEXT: Skills/787/name
 > CONTEXT: Weapons/90/name
-マ グ Magnum#MTLed
+∞ Magnum#Triketos
 > END STRING
 
 > BEGIN STRING
