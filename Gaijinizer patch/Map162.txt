@@ -4,7 +4,9 @@
 
 どうした？
 > CONTEXT: Map162/events/2/pages/0/0/Dialogue/yuuma
-\\N[1] or ......... What happened?#MTLed
+Yes, \\N[1]...?
+
+What is it?#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -12,14 +14,14 @@
 
 ずいぶんと時間がかかってるみたいだけど……
 > CONTEXT: Map162/events/2/pages/0/4/Dialogue/kazuya
-Yuuma, did you have any problems?
-It seems like it takes a long time ...#MTLed
+Yuuma, are you having any problmes?
+It seems like you're taking an awfully long time ...#Triketos
 > END STRING
 
 > BEGIN STRING
 ああ……ちょっとな。
 > CONTEXT: Map162/events/2/pages/0/8/Dialogue/yuuma
-Oh...hey.#MTLed
+Ah... just a few more minutes.#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -27,9 +29,10 @@ Oh...hey.#MTLed
 
 どうもその一部が、解除できない状態になっている。
 > CONTEXT: Map162/events/2/pages/0/13/Dialogue/yuuma
-It is a safety device of the submarine tunnel ...
-Some of them are in a state where they can not be
-released.#MTLed
+It's the safety device of the submarine tunnel...
+
+I can't seem to release one part of it from it's
+current state.#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -37,9 +40,10 @@ released.#MTLed
 
 爆撃のために、軍本部が変更したのかもしれん…
 > CONTEXT: Map162/events/2/pages/0/17/Dialogue/yuuma
-Until now, such a display did not appear but ...
-The military headquarters may have changed for
-the bombing ...#MTLed
+Until now, it displayed that it was ready
+to leave, but....
+The military headquarters may have changed that
+for the bombing...#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -47,8 +51,9 @@ the bombing ...#MTLed
 
 最悪、『列車が動かない』とか無いよな…？
 > CONTEXT: Map162/events/2/pages/0/22/Dialogue/kazuya
-Is that okay? ? That……. Worst, "I can't move the
-train" or something ...?#MTLed
+Is that okay!? That...
+
+That doesn't mean the train won't move, will it?#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -57,10 +62,11 @@ train" or something ...?#MTLed
  避難が完了して生存者がいないと思ってるのか
  こちら側から解除されることは想定していないらしい。
 > CONTEXT: Map162/events/2/pages/0/26/Dialogue/yuuma
-Oh, it's okay because it's not.
-Do you think that evacuation is complete and
-there are no survivors? It does not seem to be
-canceled from this side.#MTLed
+Yeah, that's because it's not supposed to.
+
+I think after they completed the evacuation of
+this area they'd assumed there'd be no
+survivors left, and sealed it off.#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -69,10 +75,12 @@ canceled from this side.#MTLed
 車両へのロックは、一階下の『車両制御室』で
 直接解除するしかなさそうだ……
 > CONTEXT: Map162/events/2/pages/0/31/Dialogue/yuuma
-Most can be canceled by the operation of this
-room...The lock to the vehicle is in the
-"Vehicle control room" below the first floor
-It seems that I can only cancel directly ...#MTLed
+I can remove most of the locks here on this
+terminal, but....
+
+The lock on the railcar can only be lifted
+in the "Vehicle Control Room" in the
+basement downstairs.#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -81,9 +89,10 @@ It seems that I can only cancel directly ...#MTLed
 
 もう少し、時間がかかりそうだ……
 > CONTEXT: Map162/events/2/pages/0/36/Dialogue/yuuma
-When the work here is over. It is necessary to go
-down underground from here once.
-It will take some more time ...#MTLed
+Once I finish the work here, someone will
+need to go downstairs to find it.
+Heh, it looks like it will take me
+a while longer...#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -91,14 +100,14 @@ It will take some more time ...#MTLed
 
 よし、僕が行ってくる。
 > CONTEXT: Map162/events/2/pages/0/42/Dialogue/kazuya
-It is "Vehicle control room" of the first floor
-lower...OK, I will come.#MTLed
+The "Vehicle Control Room" in the basement...
+...OK, I'll go do it.#Triketos
 > END STRING
 
 > BEGIN STRING
 すまない……助かるよ、\\N[1]
 > CONTEXT: Map162/events/2/pages/0/49/Dialogue/yuuma
-I'm sorry...I will save, \\N[1]#MTLed
+Sorry for asking you, \\N[1].#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -106,8 +115,9 @@ I'm sorry...I will save, \\N[1]#MTLed
 
  何かあったら、無線で連絡してくれ。
 > CONTEXT: Map162/events/2/pages/0/51/Dialogue/yuuma
-Here I am preparing for the departure.
-Please contact me by radio if there is anything.#MTLed
+I'm going to prepare for our departure.
+
+If anything happens, contact me on the radio.#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -116,34 +126,36 @@ Please contact me by radio if there is anything.#MTLed
 何か聞きたい事でもあるのか？
 > CONTEXT: Map162/events/2/pages/1/0/Dialogue/yuuma
 > CONTEXT: Map162/events/2/pages/2/0/Dialogue/yuuma
-What happened? Is it something you want to hear?#MTLed
+What is it? 
+
+Is there something you want to ask me about?#Triketos
 > END STRING
 
 > BEGIN STRING
 車両制御室について
 > CONTEXT: Map162/events/2/pages/1/4/Choice/0
-About vehicle control room#MTLed
+About the Vehicle Control Room#Triketos
 > END STRING
 
 > BEGIN STRING
 コールドスリープ解除
 > CONTEXT: Map162/events/2/pages/1/4/Choice/1
 > CONTEXT: Map162/events/2/pages/2/4/Choice/0
-cancellation of cryogenic stasis#MTLed
+Cancellation of cryogenic stasis#Triketos
 > END STRING
 
 > BEGIN STRING
 ミカについて
 > CONTEXT: Map162/events/2/pages/1/4/Choice/2
 > CONTEXT: Map162/events/2/pages/2/4/Choice/1
-About Micah#MTLed
+About Micah#Triketos
 > END STRING
 
 > BEGIN STRING
 生存者について
 > CONTEXT: Map162/events/2/pages/1/4/Choice/3
 > CONTEXT: Map162/events/2/pages/2/4/Choice/2
-About survivors#MTLed
+About the survivors#Triketos
 > END STRING
 
 > BEGIN STRING
