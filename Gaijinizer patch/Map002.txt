@@ -26,7 +26,7 @@ Loss Scenes en(s[14])#Dargoth
 > BEGIN STRING
 最初から本編を始めます。
 > CONTEXT: Map002/events/1/pages/0/74/ChoiceHelp
-Start the main story from the beginning.#MTLed
+Start the main story from the beginning.#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -140,7 +140,7 @@ spirits broken even on easy. Not even a game anymore.
 > BEGIN STRING
 ゲーム中にセーブした場所から始めます。
 > CONTEXT: Map002/events/1/pages/0/186/ChoiceHelp
-Start from the location saved during the game.#MTLed
+Continue from the place you last saved.#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -188,8 +188,8 @@ Please choose a save to load from#Dargoth
 > BEGIN STRING
 一度見た搾精シーンを見ることが出来ます。（免罪符無効）
 > CONTEXT: Map002/events/1/pages/0/228/ChoiceHelp
-You can see the milking scene you saw once. (Donation for
-preemption)#MTLed
+You can see the loss scenes you have already
+seen before. (Hell's Indulgence is unavailable)#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -213,8 +213,8 @@ Introduces 'SHRIFT' related novels written by players.#MTLed
 > BEGIN STRING
 ゲームで登場した人物の立ち絵や一枚絵などが閲覧できます。
 > CONTEXT: Map002/events/1/pages/0/244/ChoiceHelp
-You can view the stand-up pictures and single pictures of
-the characters who appeared in the game.#MTLed
+You can browse the full images and concept art of
+the characters who appeared in this game.#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -244,25 +244,25 @@ Return to Title#Dargoth
 > BEGIN STRING
 プレイヤーの方により贈られたイラストを掲載しています。
 > CONTEXT: Map002/events/1/pages/0/253/ChoiceHelp
-I have posted the final i was given by the player.#MTLed
+Here are images and art given to me by players.#Triketos
 > END STRING
 
 > BEGIN STRING
 ゲーム中で流れる音楽が鑑賞できます。
 > CONTEXT: Map002/events/1/pages/0/261/ChoiceHelp
-You can watch the music flowing in the game.#MTLed
+You can listen to the music played in the game.#Triketos
 > END STRING
 
 > BEGIN STRING
 ゲームを楽しんでくれた人に対してのおまけです。
 > CONTEXT: Map002/events/1/pages/0/268/ChoiceHelp
-It is a bonus for those who enjoyed the game.#MTLed
+Special bonuses for those who enjoyed the game.#Triketos
 > END STRING
 
 > BEGIN STRING
 ２周目要素リセット
 > CONTEXT: Map002/events/1/pages/0/271/Choice/0
-Element reset on 2nd lap#MTLed
+Remove NG+ Benefits#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -284,23 +284,23 @@ starts automatically is changed to prevention#MTLed
 ・専用ショップ・マイルーム状況
 ・専用イベント・強制見逃し
 > CONTEXT: Map002/events/1/pages/0/278/Dialogue
-Do you want to make "previous element of 2nd lap"
-prevention?
-\\C[4][prevention]
-・ Only shop ・ my room situation
-・ Dedicated event ・ Forced missed#MTLed
+Are you sure you want to deactivate the new
+game+ bonuses?
+\\C[4][Disabled]
+・ Exclusive shop ・ My Room Progress
+・ Special events ・ Forced misses#Triketos
 > END STRING
 
 > BEGIN STRING
 無効化する
 > CONTEXT: Map002/events/1/pages/0/283/Choice/0
-Become a prevention#MTLed
+Disable#Triketos
 > END STRING
 
 > BEGIN STRING
 キャンセルする
 > CONTEXT: Map002/events/1/pages/0/283/Choice/1
-woof cell#MTLed
+Cancel#Triketos
 > END STRING
 
 > BEGIN STRING

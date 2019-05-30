@@ -2,7 +2,7 @@
 > BEGIN STRING
 ………レイナの様子はどうだ、\\N[1]。
 > CONTEXT: Map160/events/1/pages/0/22/Dialogue/yuuma
-......... How is the state of Reina, \\N[1].#MTLed
+......... How's Reina doing, \\N[1].#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -10,8 +10,8 @@
 
 呼吸や、脈拍は普通みたいだけど……
 > CONTEXT: Map160/events/1/pages/0/25/Dialogue/kazuya
-I still lost my mind .........
-Breath and pulse seem to be normal but ...#MTLed
+I'm still really worried....
+Her breathing and pulse is still normal, but...#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -19,8 +19,10 @@ Breath and pulse seem to be normal but ...#MTLed
 
 『悪魔弾』に撃たれると、こんな感じになるのか…
 > CONTEXT: Map160/events/1/pages/0/29/Dialogue/kazuya
-Looks like it's asleep...If it is shot by
-"Demon rounds", it will be like this ...#MTLed
+She looks completely asleep...
+
+If a person gets shot by "Demon Rounds",
+would they really look like this....?#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -28,9 +30,9 @@ Looks like it's asleep...If it is shot by
 
 しばらくすれば、ゆっくりと目覚めるはずだ。
 > CONTEXT: Map160/events/1/pages/0/33/Dialogue/yuuma
-The stun effect by Demon rounds is close to the
-impact of a concussion. After a while, you should
-wake up slowly.#MTLed
+The stunning effect of Demon Rounds is close to
+the impact of a concussion. After a while, they
+should slowly wake up.#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -39,22 +41,22 @@ wake up slowly.#MTLed
  俺は、脱出の最終チェックをしている、
  何かあったら、近くの通信室まできてくれ。
 > CONTEXT: Map160/events/1/pages/0/37/Dialogue/yuuma
-Until then, it would be nice to be by your side.
-I am doing a final check of the escape,
-If there is anything, please let us go to a
-nearby communication room.#MTLed
+Until then, it would be good to stay by her side.
+I'm going to do a final check before we escape.
+If you need me for anything, please come to the
+nearby communication room.#Triketos
 > END STRING
 
 > BEGIN STRING
 ユウマ…………
 > CONTEXT: Map160/events/1/pages/0/48/Dialogue/kazuya
-Yuuma ............#MTLed
+Yuuma............#Triketos
 > END STRING
 
 > BEGIN STRING
 ん？
 > CONTEXT: Map160/events/1/pages/0/52/Dialogue/yuuma
-Hmm?#MTLed
+Hmm?#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -62,7 +64,9 @@ Hmm?#MTLed
 
 レイナのこと……僕に任せてくれて。
 > CONTEXT: Map160/events/1/pages/0/55/Dialogue/kazuya
-Thank you. About Reina...leave it to me.#MTLed
+Thank you. 
+
+About Reina...leave it to me.#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -100,8 +104,8 @@ I hope she talks about everything ...#MTLed
 レイナは約束してくれたんだ。
 すべてを話すって……
 > CONTEXT: Map160/events/1/pages/0/73/Dialogue/kazuya
-I'm fine, Yuuma. Reina promised.
-I'm talking about everything ......#MTLed
+It's all right, Yuuma. Reina promised
+she'd tell me everything......#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -109,7 +113,9 @@ I'm talking about everything ......#MTLed
 
 どんなことがあっても……
 > CONTEXT: Map160/events/1/pages/0/78/Dialogue/kazuya
-I believe in her. Whatever happens ...#MTLed
+I have faith in her.
+
+Whatever's happened...#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -117,7 +123,9 @@ I believe in her. Whatever happens ...#MTLed
 
 変わらないな、本当に……
 > CONTEXT: Map160/events/1/pages/0/82/Dialogue/yuuma
-............ It does not change, really ...#MTLed
+............
+
+You really haven't changed, have you...#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -125,8 +133,9 @@ I believe in her. Whatever happens ...#MTLed
 
 お前が無事で、本当に良かったよ。
 > CONTEXT: Map160/events/1/pages/0/86/Dialogue/yuuma
-\\N[1] ...... You were safe and it was really
-good.#MTLed
+\\N[1]......
+
+I'm really glad you're safe.#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -134,8 +143,10 @@ good.#MTLed
 
 どうする？\\N[1]
 > CONTEXT: Map160/events/1/pages/0/107/Dialogue/other2
-............ There is no sign of waking up for a
-while...what will you do? \\N[1]#MTLed
+.....It doesn't look like she's going to
+wake up for a while...
+
+What do you want to do, \\N[1]?#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -145,8 +156,11 @@ while...what will you do? \\N[1]#MTLed
 何か問題があったのかも。
 > CONTEXT: Map160/events/1/pages/0/112/Dialogue/kazuya
 Let's go see what Yuuma is doing.
-It's been a while since that, but I haven't come
-back yet...Maybe there was something wrong.#MTLed
+
+It's been a while since he left, but he still
+hasn't come back yet......
+
+Maybe he's having some trouble with something.#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -160,8 +174,9 @@ back yet...Maybe there was something wrong.#MTLed
 
 声が暗い気がするけど………
 > CONTEXT: Map160/events/1/pages/0/122/Dialogue/kazuya
-......? What's wrong. I feel my voice is dark ...
-...#MTLed
+What's wrong...?
+
+You sound like you're depressed...#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -169,7 +184,9 @@ back yet...Maybe there was something wrong.#MTLed
 
 べ、別に………
 > CONTEXT: Map160/events/1/pages/0/128/Dialogue/other2
-Disagreeable………. Beside,...... ...#MTLed
+No...
+
+It's nothing...#Triketos
 > END STRING
 
 > BEGIN STRING

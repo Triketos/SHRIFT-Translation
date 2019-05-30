@@ -4,8 +4,8 @@
 
 てっきり、もう制御室にいったものかと……
 > CONTEXT: Map172/events/2/pages/0/13/Dialogue/yuuma
-\\N[1] ......! ? I wonder if it's already been in
-the control room ...#MTLed
+\\N[1]......!? I thought you were already in
+the control room...#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -13,8 +13,9 @@ the control room ...#MTLed
 
 どうした、通路で迷ったのか？
 > CONTEXT: Map172/events/2/pages/0/17/Dialogue/yuuma
-The work here is just over. What did you get lost
-in the aisle?#MTLed
+The work here is just about to end. 
+
+Did you get lost in the hallways down there?#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -22,8 +23,9 @@ in the aisle?#MTLed
 
 ひとつ、頼みを聞いてくれないか？
 > CONTEXT: Map172/events/2/pages/0/23/Dialogue/kazuya-b
-......................... Yuuma.
-One, can you ask me a question?#MTLed
+.........................Yuuma.
+
+Can I ask you a favor?#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -31,7 +33,9 @@ One, can you ask me a question?#MTLed
 
 いったいなんだ？\\N[1]。
 > CONTEXT: Map172/events/2/pages/0/27/Dialogue/yuuma
-Ask me ...? What the hell is that? \\N[1].#MTLed
+A favor...?
+
+What in the world is the matter, \\N[1]?#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -39,8 +43,9 @@ Ask me ...? What the hell is that? \\N[1].#MTLed
 
 『車両制御室は、安全だ』って…………
 > CONTEXT: Map172/events/2/pages/0/33/Dialogue/kazuya-b
-\\C[2]Make a "promise"..."The vehicle control room is
-safe" .........#MTLed
+\\C[2]Promise me...
+
+"The Vehicle Control Room is safe.".........#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -48,8 +53,9 @@ safe" .........#MTLed
 
 それに何の意味が…？
 > CONTEXT: Map172/events/2/pages/0/38/Dialogue/yuuma
-…What does it mean? \\N[1]. What does that mean
-to you ...?#MTLed
+...What do you mean, \\N[1]? 
+
+What does that mean to you...?#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -58,9 +64,9 @@ to you ...?#MTLed
  悪魔は\\C[2]『人間との約束を破れない』だけであって
 『人間に嘘をつけない』わけじゃない………
 > CONTEXT: Map172/events/2/pages/0/42/Dialogue/kazuya-b
-Yuuma ...... Do you know? demon is\\C[2] Only "do not
-break the promise with man". It does not mean
-"don't lie to humans" .........#MTLed
+Yuuma ...... Don't you know? 
+Demons \\C[2]"cannot break promises with humans".
+It doesn't mean they can't lie.#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -69,8 +75,8 @@ break the promise with man". It does not mean
 \\C[2]『一緒に脱出しよう』という『提案』なら……
 嘘をつけるんだ………
 > CONTEXT: Map172/events/2/pages/0/47/Dialogue/kazuya-b
-For example ......... \\C[2]"Proposal" "Let's escape
-together"...I tell a lie .........#MTLed
+For example......... \\C[2]If you say "Let's escape
+together", you can still be lying.....#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -78,8 +84,9 @@ together"...I tell a lie .........#MTLed
 
 『約束を破れるか、破れない』か……
 > CONTEXT: Map172/events/2/pages/0/54/Dialogue/kazuya-b
-So there is only one difference between human and
-demon..."Can I break my promise or not?"#MTLed
+So there's only one difference between a human 
+and a demon... 
+It's whether they can break their promises....#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -87,8 +94,9 @@ demon..."Can I break my promise or not?"#MTLed
 
  僕に『約束』してくれるだけでいい。
 > CONTEXT: Map172/events/2/pages/0/58/Dialogue/kazuya-b
-Please......... Yuuma. All you have to do is
-make a promise to me.#MTLed
+Please......... Yuuma.
+
+All you have to do is make a promise to me.#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -97,8 +105,9 @@ make a promise to me.#MTLed
 いや、ついていなくても………できるはずだ。
  君が『人間』なら……！！
 > CONTEXT: Map172/events/2/pages/0/62/Dialogue/kazuya
-If you are lying...No, I should be able to ....
-If you are "human" ...! !#MTLed
+If you're lying...
+No, even if you're not....
+If you are human...!!#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -107,17 +116,16 @@ If you are "human" ...! !#MTLed
 
 この地下に、休憩所と同様の結界が張られていたからだ。
 > CONTEXT: Map172/events/2/pages/0/68/Dialogue/yuuma
-... while I am waiting for you
-It was survived without being attacked by demon
-This underground is the same barrier as the rest
-area.#MTLed
+...The reason why I was able to survive
+without being attacked by demons while I was
+waiting for you was that a barrier like the rest
+areas was stretched along the basement.#Triketos
 > END STRING
 
 > BEGIN STRING
 その証拠だけでは、足りないというワケか…？
 > CONTEXT: Map172/events/2/pages/0/73/Dialogue/yuuma
-Is that why it is not enough just with the
-evidence?#MTLed
+Is that not enough evidence for you..?#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -125,8 +133,9 @@ evidence?#MTLed
 
 なるほど、お前が生き延びた理由がわかったよ。
 > CONTEXT: Map172/events/2/pages/0/81/Dialogue/yuuma
-..... I'm sorry, that pity. Well, I know why you
-survived.#MTLed
+..... I give up, you're quite the cautious one.
+
+Of course, that's how you've survived so long.#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -134,7 +143,9 @@ survived.#MTLed
 
 お前がそれで納得するというなら………
 > CONTEXT: Map172/events/2/pages/0/85/Dialogue/yuuma
-all right………. If you agree with that .........#MTLed
+I see... 
+
+Well, if that's truly what you believe....#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -142,8 +153,7 @@ all right………. If you agree with that .........#MTLed
 
  たった今から、ココになった……！！
 > CONTEXT: Map172/events/2/pages/0/89/Dialogue/other6
-Where is your death. It has been here since just
-now ...! !#MTLed
+This will be your final resting place...!!#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -151,7 +161,9 @@ now ...! !#MTLed
 
 ユウマ！？
 > CONTEXT: Map172/events/2/pages/0/99/Dialogue/kazuya
-............!!? Yuuma! ?#MTLed
+...!! 
+
+Y-Yuuma?!#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -159,8 +171,9 @@ now ...! !#MTLed
 
 そろそろ本当のことを教えてやろう、\\N[1]。
 > CONTEXT: Map172/events/2/pages/0/103/Dialogue/other6
-Yuuma ......? soon I will tell you the real
-thing, \\N[1].#MTLed
+Yuuma......? 
+
+Soon, I'll you the truth real, \\N[1].#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -169,8 +182,10 @@ thing, \\N[1].#MTLed
 やがて、狐のような女悪魔へと変貌した……！！
 > CONTEXT: Map172/events/2/pages/0/120/Dialogue
 > CONTEXT: Map172/events/2/pages/1/296/Dialogue
-Yuuma's appearance changes before my eyes...... ...
-Eventually, it turned into a woman like a wolf demon ...! !#MTLed
+Before my eyes, Yuuma's appearance was 
+cast off... In the blink of an eye, it 
+transformed into a woman that looked like a
+demonic fox...!!#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -178,7 +193,10 @@ Eventually, it turned into a woman like a wolf demon ...! !#MTLed
 
 慎重すぎるのも考えものじゃのう、\\N[1]。
 > CONTEXT: Map172/events/2/pages/0/124/Dialogue/enemy17
-Hohoho...... Pity...\\N[1] is too cautious.#MTLed
+Hohoho...... 
+
+It's a pity that you were so cautious and
+saw through my trap, \\N[1].#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -186,16 +204,16 @@ Hohoho...... Pity...\\N[1] is too cautious.#MTLed
 
 妾が正体を知らずに逝けたというに……
 > CONTEXT: Map172/events/2/pages/0/128/Dialogue/enemy17
-If you enter the vehicle control room quietly
-It is said that the wolf got out without knowing
-the true identity ......#MTLed
+If you had just quietly gone into the Vehicle
+Control Room like I had asked, you would have
+died without knowing my true form...#Triketos
 > END STRING
 
 > BEGIN STRING
 お、お前は…！？
 > CONTEXT: Map172/events/2/pages/0/132/Dialogue/kazuya
 > CONTEXT: Map172/events/2/pages/1/305/Dialogue/kazuya-3
-Oh, you are ...! ?#MTLed
+W-who are you...?!#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -204,8 +222,8 @@ Oh, you are ...! ?#MTLed
 \\C[2]『妲己（だっき）』\\C[0]とよく呼ばれておる……
 > CONTEXT: Map172/events/2/pages/0/134/Dialogue/enemy17
 > CONTEXT: Map172/events/2/pages/1/307/Dialogue/enemy17
-妾 is......... yes...in this world
-\\C[2]"Daiji"\\C[0] It is often called ...#MTLed
+I am.... that's right....
+In this world, I was known as \\C[2]Daiji\\C[0]...#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -214,8 +232,8 @@ Oh, you are ...! ?#MTLed
 いちいち覚えてもいられぬわ
 > CONTEXT: Map172/events/2/pages/0/138/Dialogue/enemy17
 > CONTEXT: Map172/events/2/pages/1/311/Dialogue/enemy17
-The name and figure are changing each time ...
-I can not remember one by one#MTLed
+My names and forms have changed many times...
+I can't remember each single one.#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -224,8 +242,9 @@ I can not remember one by one#MTLed
 よくぞ妾のもとまで、無事にたどり着いた……
 > CONTEXT: Map172/events/2/pages/0/144/Dialogue/enemy17
 > CONTEXT: Map172/events/2/pages/1/317/Dialogue/enemy17
-\\N[1], I'm...It was so long ...
-I've arrived safely, well under my eyes ...#MTLed
+\\N[1].. It's been a long journey...
+
+You've finally arrived safely before me...#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -234,8 +253,8 @@ I've arrived safely, well under my eyes ...#MTLed
 そこでおヌシの旅は終わる……
 > CONTEXT: Map172/events/2/pages/0/148/Dialogue/enemy17
 > CONTEXT: Map172/events/2/pages/1/321/Dialogue/enemy17
-After that, just be embraced by a wolf and
-scolded...So your journey is over ......#MTLed
+Now your journey will end after I rape
+you and eat you up......#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -244,7 +263,9 @@ scolded...So your journey is over ......#MTLed
 ユウマはどこだ………！？
 > CONTEXT: Map172/events/2/pages/0/153/Dialogue/kazuya
 > CONTEXT: Map172/events/2/pages/1/326/Dialogue/kazuya-3
-Yuuma is ......... Where is Yuuma .........! ?#MTLed
+Yuuma is......... 
+
+Where is Yuuma.........?!#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -400,8 +421,9 @@ No wonder...It was unavoidable, \\N[1]#MTLed
 ますます喰い甲斐がある…♡
 > CONTEXT: Map172/events/2/pages/0/232/Dialogue/enemy17
 > CONTEXT: Map172/events/2/pages/1/417/Dialogue/enemy17
-I'm fine...I'm fine. There is more and more
-worthwhile...♡#MTLed
+Ohohoho... You're so lively.
+
+You're just looking more and more tastier...♡#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -409,8 +431,10 @@ worthwhile...♡#MTLed
 
 妾の腹の中でな……
 > CONTEXT: Map172/events/2/pages/0/236/Dialogue/enemy17
-Do not plan, let's meet the real thing soon ...
-In the belly of a wolf ...#MTLed
+No need to worry, you'll get to see the real
+deal soon...
+
+Inside of me...#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -419,8 +443,9 @@ In the belly of a wolf ...#MTLed
  『食事』の時間じゃ……♡
 > CONTEXT: Map172/events/2/pages/0/241/Dialogue/enemy17
 > CONTEXT: Map172/events/2/pages/1/426/Dialogue/enemy17
-Well...let's get started. It's time for "meal"
-... ♡#MTLed
+Now... let's get started. 
+
+It's time to eat~...♡#Triketos
 > END STRING
 
 > BEGIN STRING
