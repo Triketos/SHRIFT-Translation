@@ -49,6 +49,17 @@ Hospital Gown (Spectator)#Dargoth
 > END STRING
 
 > BEGIN STRING
+これを装備してゲームオーバーになると
+敗北シーンに入る前に『クリア部屋』へ転送される。
+> CONTEXT: Armors/6/description < UNTRANSLATED
+> END STRING
+
+> BEGIN STRING
+白金の免罪符
+> CONTEXT: Armors/6/name < UNTRANSLATED
+> END STRING
+
+> BEGIN STRING
 装備すると能力値増加
 > CONTEXT: Armors/7/description
 Increases abilites when equipped.#afrgPR
@@ -223,6 +234,29 @@ from "gel form".#MTLed
 > CONTEXT: Armors/25/name
 Dance card#MTLed
 > END STRING
+
+> BEGIN STRING
+戦闘開始時に、武器を自動的にしまう。免罪符枠に装備可。
+交渉時の服を脱ぐターンでの事故を防ぎたい人向け。
+> CONTEXT: Armors/30/description < UNTRANSLATED
+> END STRING
+
+> BEGIN STRING
+友愛の腕輪
+> CONTEXT: Armors/30/name < UNTRANSLATED
+> END STRING
+
+> BEGIN STRING
+戦闘開始時に、自動的に全裸になる。免罪符枠に装備可能。
+負ける工程で服を脱ぐのが面倒くさい人向け。
+> CONTEXT: Armors/31/description < UNTRANSLATED
+> END STRING
+
+> BEGIN STRING
+服従の腕輪
+> CONTEXT: Armors/31/name < UNTRANSLATED
+> END STRING
+
 
 > BEGIN STRING
 純銀で出来た指輪。意志の強さを表す。
@@ -740,6 +774,23 @@ Parasitic juice#MTLed
 > END STRING
 
 > BEGIN STRING
+ニーナが昔、何故か大事に持っていたものらしい。
+手元にあるだけで、不思議と力が湧いてくる。
+> CONTEXT: Armors/78/description < UNTRANSLATED
+> END STRING
+
+> BEGIN STRING
+ハーピーモドキ・クイーンの力が秘められた羽根。
+魔法・気力が上昇するが、物理ダメージに弱くなる。
+> CONTEXT: Armors/79/description < UNTRANSLATED
+> END STRING
+
+> BEGIN STRING
+母鳥の聖羽
+> CONTEXT: Armors/79/name < UNTRANSLATED
+> END STRING
+
+> BEGIN STRING
 これを装備してベッドで眠ると、箱の閉鎖空間に引き込まれる。
 該当の悪魔が\\C[2]襲ってくる。逃げ場はない。敗北時は心蝕される。
 > CONTEXT: Armors/200/description
@@ -821,4 +872,14 @@ Bronze box 【Camazotz】#MTLed
 青銅の箱【妲己】
 > CONTEXT: Armors/211/name
 Bronze box 【Daiji】#MTLed
+> END STRING
+
+> BEGIN STRING
+白金の箱【モドキ】
+> CONTEXT: Armors/213/name < UNTRANSLATED
+> END STRING
+
+> BEGIN STRING
+白金の箱【クイーン】
+> CONTEXT: Armors/214/name < UNTRANSLATED
 > END STRING

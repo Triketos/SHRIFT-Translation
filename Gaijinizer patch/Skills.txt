@@ -2931,6 +2931,12 @@ An overload of pleasure is crushing \\N[1]'s willpower...#Dargoth
 > END STRING
 
 > BEGIN STRING
+相手に大ダメージ。出血付与。
+> CONTEXT: Skills/250/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
 デスサイズ
 > CONTEXT: Skills/250/name
 > CONTEXT: Weapons/31/name
@@ -2941,6 +2947,13 @@ Death Scythe#Dargoth
 の腕鎌が真空波をまとい\\N[1]に振り下ろされた！
 > CONTEXT: Skills/250/message1
  aims vacuum waves at \\N[1]'s with downward swipes!#Dargoth
+> END STRING
+
+> BEGIN STRING
+相手を拘束する技。
+戦闘態勢での使用時、希に出血することがある
+> CONTEXT: Skills/251/description < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -2956,6 +2969,13 @@ Capture Fall#Dargoth
 > END STRING
 
 > BEGIN STRING
+打撃系の小ダメージを与える。
+高確率でスタン付与
+> CONTEXT: Skills/252/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
 スタン・インパクト
 > CONTEXT: Skills/252/name
 Stun Impact#Dargoth
@@ -2965,6 +2985,13 @@ Stun Impact#Dargoth
 は直接鎌を\\N[1]に向けて叩き付けた！
 > CONTEXT: Skills/252/message1
  slashes her scythes directly towards \\N[1]!#Dargoth
+> END STRING
+
+> BEGIN STRING
+エンプーサの必殺技。
+５回連続の大ダメージ、高確率で出血付与。
+> CONTEXT: Skills/254/description < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -2981,6 +3008,13 @@ Funeral Dance#Dargoth
 > CONTEXT: Skills/342/message1
 > CONTEXT: Skills/748/message1
  flourishes her arms as if she's dancing!#Dargoth
+> END STRING
+
+> BEGIN STRING
+相手を搾精目的で捕まえる技。
+高確率でパニックを付与する。
+> CONTEXT: Skills/257/description < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -3057,6 +3091,13 @@ Brain Suck#Dargoth
 は\\n[1]の頭を激しくしゃぶった！！
 > CONTEXT: Skills/262/message1
  furiously sucks on \\N[1]'s head!#Dargoth
+> END STRING
+
+> BEGIN STRING
+相手に甘い吐息を吹きかける
+小確率で相手を恍惚にする
+> CONTEXT: Skills/263/description < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -3702,6 +3743,13 @@ Spell#afrg
 > END STRING
 
 > BEGIN STRING
+相手に優しくキスをする。大切な人のためにとっておこう
+小ダメージを与え、高確率で相手を魅了状態にする。
+> CONTEXT: Skills/310/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
 天使の接吻
 > CONTEXT: Skills/310/name
 Angel's Kiss#afrg
@@ -3744,6 +3792,12 @@ It's an innocent but refined movement!#afrg
 > END STRING
 
 > BEGIN STRING
+腰をクイクイと可愛らしく振る、ニーナのオリジナルダンス。
+> CONTEXT: Skills/313/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
 ハニー・ダンス
 > CONTEXT: Skills/313/name
 Honey Dance#afrg
@@ -3759,6 +3813,12 @@ Honey Dance#afrg
 艶やかなエボニーの身体が\\N[1]の前に迫る…！！
 > CONTEXT: Skills/314/message2
 Her glamorous ebony body draws close to \\N[1]!#afrg
+> END STRING
+
+> BEGIN STRING
+ゆっくりとした艶めかしい、エボニー使用時のダンス。
+> CONTEXT: Skills/314/description < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -3778,6 +3838,12 @@ Sexy Dance#afrg
 クネクネと魅惑的に小刻みな動きをさせている…
 > CONTEXT: Skills/315/message2
 She wiggles and shakes her body...#afrgPR
+> END STRING
+
+> BEGIN STRING
+激しく腰を動かし相手に見せつける、レイジー使用時のダンス。
+> CONTEXT: Skills/315/description < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -3828,6 +3894,31 @@ Haste#afrg
 はうまくステップが踏めずに困惑している…！
 > CONTEXT: Skills/318/message1
  cannot follow the skillful moves due to sheer bewilderment!#afrg
+> END STRING
+
+> BEGIN STRING
+６発のミサイルを連続で撃ち、相手に特大ダメージを与える。
+
+> CONTEXT: Skills/319/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ジェノサイドショット
+> CONTEXT: Skills/319/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はジェノサイドショットを放った！
+> CONTEXT: Skills/319/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+リロードを行う。
+> CONTEXT: Skills/320/description < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -5989,6 +6080,58 @@ Wind Burst#afrg
 > END STRING
 
 > BEGIN STRING
+敵単体に火属性ダメージを与える。
+\\C[10]相手が誘惑している時に選択する事は死を意味する。
+> CONTEXT: Skills/544/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+火炎剣
+> CONTEXT: Skills/544/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敵単体に氷属性ダメージを与える。
+\\C[10]相手が誘惑している時に選択する事は死を意味する。
+> CONTEXT: Skills/545/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+氷結剣
+> CONTEXT: Skills/545/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敵単体に雷属性のダメージを与える。
+\\C[10]相手が誘惑している時に選択する事は死を意味する。
+> CONTEXT: Skills/546/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+雷撃剣
+> CONTEXT: Skills/546/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敵単体に風属性ダメージを与える。
+\\C[10]相手が誘惑している時に選択する事は死を意味する。
+> CONTEXT: Skills/547/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+疾風剣
+> CONTEXT: Skills/547/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
 感電
 > CONTEXT: Skills/553/name
 > CONTEXT: Skills/557/name
@@ -7103,6 +7246,18 @@ Power of Atonement#afrg
 > END STRING
 
 > BEGIN STRING
+ハーピーモドキの長い舌が、ねっとりと侵入してくる…！
+> CONTEXT: Skills/733/message2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+相手の全能力を２段階下げる。
+> CONTEXT: Skills/735/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
 オール・デルテカ
 > CONTEXT: Skills/735/name
 All Delteca#afrg
@@ -7161,6 +7316,13 @@ Advance#afrg
 > CONTEXT: Skills/740/message2
 > CONTEXT: Skills/742/message2
 Mother Rabbit wraps \\N[1] in a hug! !#afrg
+> END STRING
+
+> BEGIN STRING
+雷属性の超特大ダメージを与える。
+これを覚えるのには強大な魔力を操れる必要がある。
+> CONTEXT: Skills/741/description < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -7594,6 +7756,12 @@ Great physical damage to a single enemy.
 > END STRING
 
 > BEGIN STRING
+ハーピーモドキの舌が容赦なく\\N[1]の口内を犯していく……
+> CONTEXT: Skills/797/message2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
 だが、ミオは変わらず平然とした顔をしている……
 > CONTEXT: Skills/798/message2
 But Mio still has a plain face ...#MTLed
@@ -7610,3 +7778,384 @@ Desperate waist swing#MTLed
 > CONTEXT: Skills/798/message1
 Shook her to Mio hard!!#MTLed
 > END STRING
+
+> BEGIN STRING
+妖鳥の抱擁
+> CONTEXT: Skills/799/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は、\\N[1]を両脚で抱きしめた！
+> CONTEXT: Skills/799/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+耳から入った音波が、頭の中で官能的に響く……
+> CONTEXT: Skills/800/message2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+オス誘いの音激
+> CONTEXT: Skills/800/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は、興奮した様子で奇声を発した！！
+> CONTEXT: Skills/800/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+供物選びの鉤爪
+> CONTEXT: Skills/801/name < UNTRANSLATED
+> CONTEXT: Skills/811/name < UNTRANSLATED
+> CONTEXT: Skills/827/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の鉤爪が、\\N[1]を捕まえようと襲いかかった！
+> CONTEXT: Skills/801/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ハーピーモドキの舌が、にゅるりと侵入してくる……
+> CONTEXT: Skills/802/message2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+屈服の接吻
+> CONTEXT: Skills/802/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は、ハーピーモドキの誘惑に負け、口を開けてしまった！
+> CONTEXT: Skills/802/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[1]はもう、快楽に身を任せることしかできない……
+> CONTEXT: Skills/803/message2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+淫靡な口交尾
+> CONTEXT: Skills/803/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の口がじゅるじゅると音をたて、吸い付いてくる……
+> CONTEXT: Skills/803/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[1]の眼には、もはや彼女以外見えなくなっている…
+> CONTEXT: Skills/804/message2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+つがい誓いの抱擁
+> CONTEXT: Skills/804/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ハーピーモドキは\\N[1]を優しく抱き締めた……
+> CONTEXT: Skills/804/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+各々が貪欲に、凄まじい勢いで吸いついてくる…！
+> CONTEXT: Skills/806/message2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+えさのじかん
+> CONTEXT: Skills/806/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+たちが一斉に\\N[1]のペニスをしゃぶり始めた！！
+> CONTEXT: Skills/806/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+仲間を呼ぶ
+> CONTEXT: Skills/807/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は嬉しそうに仲間を呼んだ！！
+> CONTEXT: Skills/807/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+貪欲の乳首しゃぶり
+> CONTEXT: Skills/808/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+たちは\\N[1]の乳首に夢中でしゃぶりついた！
+> CONTEXT: Skills/808/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+落下
+> CONTEXT: Skills/809/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は落下の衝撃で体勢を崩した！
+> CONTEXT: Skills/809/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+母なる言葉
+> CONTEXT: Skills/810/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は\\N[1]の頭の中に優しく呼びかけてきた
+> CONTEXT: Skills/810/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ハーピーモドキの鉤爪が、\\N[1]を捕まえようと襲いかかった！
+> CONTEXT: Skills/811/message2 < UNTRANSLATED
+> CONTEXT: Skills/827/message2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+がハーピーモドキに号令をかけた！
+> CONTEXT: Skills/811/message1 < UNTRANSLATED
+> CONTEXT: Skills/827/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[1]はもう、クイーンのなすがままだ……
+> CONTEXT: Skills/812/message2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+聖母の抱擁
+> CONTEXT: Skills/812/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は\\N[1]を抱きしめながら、頭をしゃぶっている…
+> CONTEXT: Skills/812/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もがけばもがくほど、気持ち良い心地になってゆく……
+> CONTEXT: Skills/813/message2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+乳房の揺り籠
+> CONTEXT: Skills/813/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は\\N[1]を乳房の揺り籠で可愛がった
+> CONTEXT: Skills/813/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[1]はとうとう、手足も全く動かせなくなってしまった！
+> CONTEXT: Skills/815/message2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+母の撫手
+> CONTEXT: Skills/815/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の触手が更に伸び、執拗に絡みついてくる…
+> CONTEXT: Skills/815/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+抗いがたい快楽が全身を駆け巡る……！
+> CONTEXT: Skills/816/message2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+全てを許す浄化の手
+> CONTEXT: Skills/816/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の触手が容赦なく身体中に襲いかかった！
+> CONTEXT: Skills/816/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[10]ハーピーモドキに犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、ダメージが２０％増加する。
+> CONTEXT: Skills/817/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+【ハーピーモドキの餌食】Lv1
+> CONTEXT: Skills/817/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[10]ハーピーモドキに犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、勝手に毎ターン性欲が５％上昇する。
+> CONTEXT: Skills/818/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+【ハーピーモドキの餌食】Lv2
+> CONTEXT: Skills/818/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[10]ハーピーモドキに犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、最大抵抗力が８０％になる。
+> CONTEXT: Skills/819/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+【ハーピーモドキの餌食】Lv3
+> CONTEXT: Skills/819/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[10]ハーピーモドキに犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、最大気力が８０％になる。
+> CONTEXT: Skills/820/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+【ハーピーモドキの餌食】Lv4
+> CONTEXT: Skills/820/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[10]ハーピーモドキに犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、特殊アクシデント戦闘が発生する事がある。
+> CONTEXT: Skills/821/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+【ハーピーモドキの餌食】LvMAX
+> CONTEXT: Skills/821/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[10]クイーンに犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、ダメージが２０％増加する。
+> CONTEXT: Skills/822/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+【クイーンの信者】Lv1
+> CONTEXT: Skills/822/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[10]クイーンに犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、勝手に毎ターン性欲が５％上昇する。
+> CONTEXT: Skills/823/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+【クイーンの信者】Lv2
+> CONTEXT: Skills/823/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[10]クイーンに犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、最大抵抗力が８０％になる。
+> CONTEXT: Skills/824/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+【クイーンの信者】Lv3
+> CONTEXT: Skills/824/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[10]クイーンに犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、最大気力が８０％になる。
+> CONTEXT: Skills/825/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+【クイーンの信者】Lv4
+> CONTEXT: Skills/825/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[10]クイーンに犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、特殊アクシデント戦闘が発生する事がある。
+> CONTEXT: Skills/826/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+【クイーンの信者】LvMAX
+> CONTEXT: Skills/826/name < UNTRANSLATED
+
+> END STRING
+
