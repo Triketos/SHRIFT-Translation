@@ -10613,15 +10613,15 @@ Ah...ah...ah ...!!#MTLed
 
 > BEGIN STRING
 ハーピーモドキ（通常）
-> CONTEXT: Troops/291/name < UNTRANSLATED
-
+> CONTEXT: Troops/291/name
+Beetle Harpy(Normal)#Triketos
 > END STRING
 
 > BEGIN STRING
 ギャッ！！！ギャアアッ！！
-> CONTEXT: Troops/291/pages/2/5/Dialogue/enemy21 < UNTRANSLATED
-> CONTEXT: Troops/295/pages/2/5/Dialogue/enemy21 < UNTRANSLATED
-
+> CONTEXT: Troops/291/pages/2/5/Dialogue/enemy21
+> CONTEXT: Troops/295/pages/2/5/Dialogue/enemy21
+Gya~tsu! ! ! Gyaaa~tsu! !#GT
 > END STRING
 
 > BEGIN STRING
@@ -10649,28 +10649,28 @@ Ah...ah...ah ...!!#MTLed
 
 > BEGIN STRING
 ハーピーモドキは飛び去っていった……
-> CONTEXT: Troops/291/pages/3/78/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/293/pages/2/35/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/295/pages/3/69/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/291/pages/3/78/Dialogue
+> CONTEXT: Troops/293/pages/2/35/Dialogue
+> CONTEXT: Troops/295/pages/3/69/Dialogue
+Beetle Harpy flew away...#Triketos
 > END STRING
 
 > BEGIN STRING
 【敗北】ハーピーモドキ
-> CONTEXT: Troops/292/name < UNTRANSLATED
-
+> CONTEXT: Troops/292/name
+Beetle Harpy (Loss 1)#Triketos
 > END STRING
 
 > BEGIN STRING
 【敗北２】ハーピーモドキ
-> CONTEXT: Troops/293/name < UNTRANSLATED
-
+> CONTEXT: Troops/293/name
+Beetle Harpy (Loss 2)#Triketos
 > END STRING
 
 > BEGIN STRING
 【敗北３】ハーピーモドキ
-> CONTEXT: Troops/294/name < UNTRANSLATED
-
+> CONTEXT: Troops/294/name
+Beetle Harpy (Loss 3)#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -10769,26 +10769,28 @@ Ah...ah...ah ...!!#MTLed
 > BEGIN STRING
 戦闘に勝利したことにより
 \\C[2]クイーンに対しての気丈な精神を少し取り戻した…
-> CONTEXT: Troops/300/pages/2/45/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/303/pages/2/30/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/300/pages/2/45/Dialogue
+> CONTEXT: Troops/303/pages/2/30/Dialogue
+By winning the battle
+\\C[2] I regained a little fighting spirit
+against the Harpy Queen...#Triketos
 > END STRING
 
 > BEGIN STRING
 【敗北１】クイーン
-> CONTEXT: Troops/301/name < UNTRANSLATED
-
+> CONTEXT: Troops/301/name
+Harpy Queen(Loss 1)#Triketos
 > END STRING
 
 > BEGIN STRING
 【敗北２】クイーン
-> CONTEXT: Troops/302/name < UNTRANSLATED
-
+> CONTEXT: Troops/302/name
+Harpy Queen(Loss 2)#Triketos
 > END STRING
 
 > BEGIN STRING
 クイーン（通常）
-> CONTEXT: Troops/303/name < UNTRANSLATED
-
+> CONTEXT: Troops/303/name
+Beetle Harpy(Defeat)#Triketos
 > END STRING
 

@@ -3,8 +3,10 @@
 隊員「セーフルーム内に生存者発見。
 
 　　　脚を負傷していますが、命に別状はなさそうです。」
-> CONTEXT: Map307/events/11/pages/0/17/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map307/events/11/pages/0/17/Dialogue 
+Member: Found survivors in the safe room.
+The leg is injured, but there seems to be
+no life-threatening.#GT
 > END STRING
 
 > BEGIN STRING
@@ -12,14 +14,17 @@
 
 　　　周囲に悪魔の存在は確認できません。
 　　　このまま、周辺を捜索します。」
-> CONTEXT: Map307/events/11/pages/0/21/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map307/events/11/pages/0/21/Dialogue 
+Member: ......Yes.
+You cannot see the presence of demons around you.
+We will search the area as it is.
 > END STRING
 
 > BEGIN STRING
 隊員「おい、この子を護送車まで運ぶ。
 
 　　　手伝ってくれ！」
-> CONTEXT: Map307/events/11/pages/0/26/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map307/events/11/pages/0/26/Dialogue 
+Member: Hey, I'll carry this child to the convoy.
+Help me! 
 > END STRING

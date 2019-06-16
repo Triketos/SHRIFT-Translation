@@ -2,32 +2,39 @@
 > BEGIN STRING
 
 鍵がかかっている………
-> CONTEXT: Map300/events/4/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map300/events/4/pages/0/2/Dialogue 
+It's locked...#Triketos
 > END STRING
 
 > BEGIN STRING
 ……………中にいるんだろう？
 
  君を助けに来たんだ、返事をしてくれ。
-> CONTEXT: Map300/events/4/pages/0/10/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map300/events/4/pages/0/10/Dialogue/kazuya 
+............... You're in there, aren't you?
+ 
+I'm here to help you, answer me.#GT
 > END STRING
 
 > BEGIN STRING
 しばらく待ってみたが、中から返事はない……
 
 鍵が開く様子もない……
-> CONTEXT: Map300/events/4/pages/0/17/Dialogue < UNTRANSLATED
+> CONTEXT: Map300/events/4/pages/0/17/Dialogue 
+I waited for a while, but there was no
+answer from inside......
 
+The door doesn't seem to open...#GT
 > END STRING
 
 > BEGIN STRING
 …………なぁ、\\N[1]。
 
 オレ、なんか嫌な予感がするんだ……
-> CONTEXT: Map300/events/4/pages/0/22/Dialogue/other2 < UNTRANSLATED
+> CONTEXT: Map300/events/4/pages/0/22/Dialogue/other2 
+............ Hey, \\N[1].
 
+I have a bad feeling about something...#GT
 > END STRING
 
 > BEGIN STRING
@@ -35,8 +42,11 @@
  マザーラビットがセーフルームまで運ぼうとしたのに
 
  ここの女の子は、助からなかったんだよな…？
-> CONTEXT: Map300/events/4/pages/0/26/Dialogue/other2 < UNTRANSLATED
-
+> CONTEXT: Map300/events/4/pages/0/26/Dialogue/other2 
+After this, the girl here, though the military
+guys like Yuuma passed through the corps and
+tried to carry the mother rabbit to
+the safe room, she didn't survive...?#GT
 > END STRING
 
 > BEGIN STRING
@@ -44,8 +54,11 @@
 
 マザーラビットが『言った』事を書いてあっただけで
 会話している風には思えなかった……
-> CONTEXT: Map300/events/4/pages/0/31/Dialogue/other2 < UNTRANSLATED
+> CONTEXT: Map300/events/4/pages/0/31/Dialogue/other2 
+Besides, that diary ...
 
+Just because Mother Rabbit wrote "I said"
+I didn't think it was like talking...#GT
 > END STRING
 
 > BEGIN STRING
@@ -53,68 +66,85 @@
 『日記しか書けない状態』だったとしたら……
 
 \\C[0]ちょっとマズくねぇか……？
-> CONTEXT: Map300/events/4/pages/0/36/Dialogue/other2 < UNTRANSLATED
+> CONTEXT: Map300/events/4/pages/0/36/Dialogue/other2 
+\\C[2] well, I was quite weak at this stage
+If it was "a state where only a diary
+can be written"...
 
+\\C[0] a little bit weird...?#GT
 > END STRING
 
 > BEGIN STRING
 \\N[1]は、静かに練気の刀を取り出し
 
 扉の隙間に刃先を差し込み、カギを壊した……
-> CONTEXT: Map300/events/4/pages/0/46/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map300/events/4/pages/0/46/Dialogue 
+\\N[1] quietly pulled out the sword of the
+kneading mind, inserted the cutting edge
+into the gap of the door, and broke the lock...#GT
 > END STRING
 
 > BEGIN STRING
 おいっ、大丈夫か……！？
-> CONTEXT: Map300/events/4/pages/0/91/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map300/events/4/pages/0/91/Dialogue/kazuya 
+Hey, are you okay!?#Triketos
 > END STRING
 
 > BEGIN STRING
 女の子「う…………
 
 　　　　おにいちゃん、だれ……？」
-> CONTEXT: Map300/events/4/pages/0/94/Dialogue < UNTRANSLATED
+> CONTEXT: Map300/events/4/pages/0/94/Dialogue 
+Girl: "Uh .........
 
+Old man, who? "#GT
 > END STRING
 
 > BEGIN STRING
 僕の名前は\\N[1]。
 
  安心して………君を助けに来たんだ。
-> CONTEXT: Map300/events/4/pages/0/98/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map300/events/4/pages/0/98/Dialogue/kazuya 
+My name is \\N[1].
 
+You don't have to be scared......
+I'm here to help you.#GT
 > END STRING
 
 > BEGIN STRING
 女の子「たす……け…？」
-> CONTEXT: Map300/events/4/pages/0/102/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map300/events/4/pages/0/102/Dialogue 
+Girl: "Tsu ........?"#GT
 > END STRING
 
 > BEGIN STRING
 \\N[1]………見てみろ、この子の足。
 
 その腫れ具合だと、たぶん骨が折れてる。
-> CONTEXT: Map300/events/4/pages/0/104/Dialogue/other2 < UNTRANSLATED
+> CONTEXT: Map300/events/4/pages/0/104/Dialogue/other2 
+\\N[1].......... Look at this child's feet.
 
+The swelling is probably a broken bone.#GT
 > END STRING
 
 > BEGIN STRING
 なるほどな……ここを動かなかったわけだ。
 
 ここに逃げ込む前にこんな大怪我してたんじゃあな……
-> CONTEXT: Map300/events/4/pages/0/108/Dialogue/other2 < UNTRANSLATED
-
+> CONTEXT: Map300/events/4/pages/0/108/Dialogue/other2 
+I see... I didn't move here. 
+I've been hurt like this before I run into here.#GT
 > END STRING
 
 > BEGIN STRING
 まずい……
 
 正面入り口の鍵が壊されたみたいだ……
-> CONTEXT: Map300/events/4/pages/0/127/Dialogue/other2 < UNTRANSLATED
+> CONTEXT: Map300/events/4/pages/0/127/Dialogue/other2 
+This is bad...... 
 
+It looks like the door to the front
+entrance was broken.#GT
 > END STRING
 
 > BEGIN STRING
@@ -122,8 +152,14 @@
 この部屋の窓の鍵も、そう長く保ちそうにない。
 
 この子を連れた状態で、包囲されると厄介だ。
-> CONTEXT: Map300/events/4/pages/0/131/Dialogue/other2 < UNTRANSLATED
+> CONTEXT: Map300/events/4/pages/0/131/Dialogue/other2 
+\\N[1], let's leave this building for
+the time being.
 
+
+The key to the window in this room is not
+likely to be kept so long.
+It's awkward to be surrounded with her.#GT
 > END STRING
 
 > BEGIN STRING
@@ -131,17 +167,25 @@
 シェルター方面にもう１つセーフルームがあったよな？
 
  少し遠いが、あっちへ彼女をつれていこう。
-> CONTEXT: Map300/events/4/pages/0/146/Dialogue/other1 < UNTRANSLATED
-
+> CONTEXT: Map300/events/4/pages/0/146/Dialogue/other1 
+\\N[1], a little change of strategy. There's one
+more safe room in the shelter area, right?
+Let's take her to the other
+direction a little farther.#GT
 > END STRING
 
 > BEGIN STRING
 ハーピーモドキ自体の戦闘能力は驚異じゃないが…
 問題はヤツらが『集団で行動している』という点だ。
 
- １体に見つかると、数で押される危険がある。
-> CONTEXT: Map300/events/4/pages/0/151/Dialogue/other1 < UNTRANSLATED
+１体に見つかると、数で押される危険がある。
+> CONTEXT: Map300/events/4/pages/0/151/Dialogue/other1 
+Beetle Harpy's own fighting ability
+is not amazing...  The problem is that
+they are "acting in a group."
 
+If one is found, there is a risk
+of being pushed by the number.#GT
 > END STRING
 
 > BEGIN STRING
@@ -149,24 +193,30 @@
 こっちは今、負傷者を抱えてる身だ。
 
 なるべく遭遇や戦闘は避けていけよ。
-> CONTEXT: Map300/events/4/pages/0/156/Dialogue/other1 < UNTRANSLATED
+> CONTEXT: Map300/events/4/pages/0/156/Dialogue/other1 
+You may escape if you are alone, but we are now
+in the hands of the wounded.
 
+Avoid encounters and battles as much as possible.#GT
 > END STRING
 
 > BEGIN STRING
 ２階は誰も居ないのか、不気味に静まりかえっている。
 
 今は寄り道している暇はない。
-> CONTEXT: Map300/events/8/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map300/events/1/pages/0/0/Dialogue < UNTRANSLATED
-> CONTEXT: Map300/events/2/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map300/events/8/pages/0/0/Dialogue 
+> CONTEXT: Map300/events/1/pages/0/0/Dialogue 
+> CONTEXT: Map300/events/2/pages/0/0/Dialogue 
+There's no one on the second floor,
+it's eerily quiet.
 
+I don't have time to detour now.#GT
 > END STRING
 
 > BEGIN STRING
 ………っ！
-> CONTEXT: Map300/events/3/pages/1/7/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map300/events/3/pages/1/7/Dialogue/kazuya 
+...Tch!#GT
 > END STRING
 
 > BEGIN STRING
@@ -174,8 +224,11 @@
 
 複数のハーピーモドキたちが一斉に押しては離してを繰り返し
 鍵のかかった扉が大きく揺れ動いている………
-> CONTEXT: Map300/events/3/pages/1/9/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map300/events/3/pages/1/9/Dialogue 
+A large black glass at the entrance of the
+building is swung a lot of Beetle Harpies,
+and the door where the key hangs repeatedly
+is greatly pushed away.#GT
 > END STRING
 
 > BEGIN STRING
@@ -183,14 +236,18 @@
 どんだけ長い間揺らしてたんだ…？
 
 もう扉のカギがバカになりかけてるぞ……
-> CONTEXT: Map300/events/3/pages/1/20/Dialogue/other2 < UNTRANSLATED
-
+> CONTEXT: Map300/events/3/pages/1/20/Dialogue/other2 
+C'mon...... How long did you rock...?
+The key to the door is already becoming stupid.#GT
 > END STRING
 
 > BEGIN STRING
 中に入られたら、面倒なことになる…
 
 急ごう、\\N[1]。
-> CONTEXT: Map300/events/3/pages/1/25/Dialogue/other2 < UNTRANSLATED
+> CONTEXT: Map300/events/3/pages/1/25/Dialogue/other2 
+If they get inside, it's going
+to be troublesome...
 
+Hurry, \\N[1].#GT
 > END STRING
