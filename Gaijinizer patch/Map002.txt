@@ -274,8 +274,9 @@ Memento extra editionen(s[9999])#MTLed
 > BEGIN STRING
 ゲームクリアすると、自動的に始まる２周目要素を無効化して
 > CONTEXT: Map002/events/1/pages/0/273/ChoiceHelp
-When the game is cleared, the second lap element that
-starts automatically is changed to prevention#MTLed
+Once you've cleared the game, you can turn off
+the bonuses you automatically get during your
+next playthough#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -306,7 +307,7 @@ Cancel#Triketos
 > BEGIN STRING
 タイトル画面に戻ります。
 > CONTEXT: Map002/events/1/pages/0/301/ChoiceHelp
-You will return to the title screen.#MTLed
+Go back to the Title Screen.#Triketos
 > END STRING
 
 > BEGIN STRING

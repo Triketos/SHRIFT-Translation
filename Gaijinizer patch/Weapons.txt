@@ -41,8 +41,8 @@ Custom Handgun#Dargoth
 【両手】銃身を切り詰め、２発動時発射が可能になったショットガン。
 装弾数　\\V[19]/2
 > CONTEXT: Weapons/5/description
-[Two-Handed] Barrel shortened. Fires both barrels at once.
-Shells　\\V[19]/2#Dargoth
+[Two-Handed] Barrel shortened. Fires both barrels at 
+once. Shells　\\V[19]/2#Dargoth
 > END STRING
 
 > BEGIN STRING
@@ -71,8 +71,8 @@ Shells \\V[137]/5#afrg
 【両手】軍用のアサルトライフル。威力が高いうえ、3連射も可能。
 装弾数　\\V[134]/15
 > CONTEXT: Weapons/8/description
-\\}[Hands] Military assault rifle. In addition to its high
-power, three-stroke firing is also possible. Number of bullets \\V[134] / 15#MTLed
+\\}[Two-Handed] Military assault rifle. In addition to its high stopping
+power, it can also fire three shot bursts. Number of bullets \\V[134]/15#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -121,7 +121,7 @@ receiving it, I realized that I could not hold it with my front leg.#MTLed
 > BEGIN STRING
 博識の杖
 > CONTEXT: Weapons/33/name
-Wand of the Sage#afrg
+Sage's Wand#afrg
 > END STRING
 
 > BEGIN STRING
@@ -142,14 +142,14 @@ Adikos#afrg
 妲己からもらった、浄化の作用を持つ魔具。
 装備しているだけで、魔法ダメージを半減する。
 > CONTEXT: Weapons/35/description
-A magic tool from Daiji that has the function of
-purification. Just equip it, halve the magic damage.#MTLed
+Given to you by Daiji, it possesses the power to exorcise
+demons. Halves magic damage while you have it equipped.#Triketos
 > END STRING
 
 > BEGIN STRING
 魔浄扇
 > CONTEXT: Weapons/35/name
-Magic fan#MTLed
+Exorcist's Fan#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -199,7 +199,7 @@ Shells \\V[137]/5#afrg
 装弾数　\\V[18]/90
 > CONTEXT: Weapons/41/description
 Machine gun with a 90 rounds magazine.
-Can fires 9 shots at once. Capacity:　\\V[18]/90.#afrgPR
+Can fire 9 shots at once. Capacity:　\\V[18]/90.#afrgPR
 > END STRING
 
 > BEGIN STRING
@@ -246,14 +246,14 @@ Modded Assault Rifle#afrgPR
 【両手】怒濤の６連装ショットガン。リロードは２発ずつ
 装弾数　\\V[19]/6
 > CONTEXT: Weapons/61/description
-[Both hands] 6 series shotgun of fury. Two reloads each. 
-Number of bullets \\V[19] / 6#MTLed
+[2-Handed] 6 shot shotgun of fury. Reloads two shells at once. 
+Capacity: \\V[19]/6#Triketos
 > END STRING
 
 > BEGIN STRING
 ミリオンダラー
 > CONTEXT: Weapons/61/name
-Million Dollar#MTLed
+Million Dollars#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -376,8 +376,8 @@ Physical hit#MTLed
 悪魔を人間界から消滅させる最終兵器。
 チャージには相当の時間が必要。
 > CONTEXT: Weapons/80/description
-The final weapon to extinguish the demon from the human
-realm. It takes a considerable amount of time to charge.#MTLed
+The ultimate weapon to annihilate demons from the human
+world. It takes a considerable amount of time to charge.#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -468,7 +468,7 @@ EX Rebellion#Triketos
 ＥＸ用に強化されたキャリコ。
 装弾数　\\V[18]/90
 > CONTEXT: Weapons/95/description
-Enhanced EX version of Calico.
+Enhanced EX Version of Calico.
 Capacity: \\V[18]/90#Triketos
 > END STRING
 
@@ -509,25 +509,25 @@ EX Assault Rifle#Triketos
 > BEGIN STRING
 ＥＸ用の霊幻刀。
 > CONTEXT: Weapons/98/description
-Spectral Sword for EX.#Triketos
+EX Version of the Shining Sword.#Triketos
 > END STRING
 
 > BEGIN STRING
 霊幻刀【極】
 > CONTEXT: Weapons/98/name
-EX Spectral Sword#Triketos
+EX Shining Sword#Triketos
 > END STRING
 
 > BEGIN STRING
 ＥＸ用の博識の杖。
-> CONTEXT: Weapons/99/description < UNTRANSLATED
-
+> CONTEXT: Weapons/99/description
+EX Version of Sage's Wand.#Triketos
 > END STRING
 
 > BEGIN STRING
 博識の杖【極】
-> CONTEXT: Weapons/99/name < UNTRANSLATED
-
+> CONTEXT: Weapons/99/name
+EX Sage's Wand#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -536,27 +536,26 @@ EX Spectral Sword#Triketos
 > CONTEXT: Weapons/100/description
 > CONTEXT: Weapons/101/description
 > CONTEXT: Weapons/102/description
-A skillful sword that has been strengthened using
-the magical power amplification effect of gems.
-It also improves some physical abilities.#GT
+\\}A sword that has been reforged and strengthened by inlaying it
+with magical gemstones. It also improves your physical strength.#Triketos
 > END STRING
 
 > BEGIN STRING
 練気の刀・弐式
 > CONTEXT: Weapons/100/name
-Master's Sword:弐 Style#TriketosPartial
+Tempered Blade#Triketos
 > END STRING
 
 > BEGIN STRING
 練気の刀・参式
 > CONTEXT: Weapons/101/name
-Master's Sword:参 Style#TriketosPartial
+Twice Tempered Blade#Triketos
 > END STRING
 
 > BEGIN STRING
 練気の刀・肆式
 > CONTEXT: Weapons/102/name
-Master's Sword:肆 Style#TriketosPartial
+Thrice Tempered Blade#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -568,8 +567,8 @@ Master's Sword:肆 Style#TriketosPartial
 
 > BEGIN STRING
 霊幻刀
-> CONTEXT: Weapons/103/name < UNTRANSLATED
-
+> CONTEXT: Weapons/103/name
+Shining Sword#Triketos
 > END STRING
 
 > BEGIN STRING
