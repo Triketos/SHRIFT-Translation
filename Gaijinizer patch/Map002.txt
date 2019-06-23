@@ -24,6 +24,32 @@ Loss Scenes en(s[14])#Dargoth
 > END STRING
 
 > BEGIN STRING
+本編中でキズナになった悪魔達のサイドストーリーです。
+> CONTEXT: Map002/events/1/pages/0/303/ChoiceHelp
+Side stories of demons who you have bonded
+with in the main story.#Triketos
+> END STRING
+
+> BEGIN STRING
+想ひ魂番外編
+> CONTEXT: Map002/events/1/pages/0/281/Choice/1
+Extra Stories#TriketosPartial
+> END STRING
+
+> BEGIN STRING
+プレイヤーがYoutubeに投稿した二次創作や実況プレイの動画です。
+> CONTEXT: Map002/events/1/pages/0/236/ChoiceHelp
+Videos of the secondary creations and
+playthroughs that players have posted to Youtube.
+> END STRING
+
+> BEGIN STRING
+関連Youtubeリンク en(s[22])
+> CONTEXT: Map002/events/1/pages/0/234/Choice/0
+Youtube Links en(s[22])
+> END STRING
+
+> BEGIN STRING
 最初から本編を始めます。
 > CONTEXT: Map002/events/1/pages/0/74/ChoiceHelp
 Start the main story from the beginning.#Triketos
@@ -194,50 +220,50 @@ seen before. (Hell's Indulgence is unavailable)#Triketos
 
 > BEGIN STRING
 関連ノベルリンク en(s[22])
-> CONTEXT: Map002/events/1/pages/0/234/Choice/0
+> CONTEXT: Map002/events/1/pages/0/244/Choice/0
 Open links to related novel en(s[22])#Dargoth
 > END STRING
 
 > BEGIN STRING
 ギャラリー【公式】 en(s[22])
-> CONTEXT: Map002/events/1/pages/0/234/Choice/1
+> CONTEXT: Map002/events/1/pages/0/244/Choice/1
 Gallery [Official] en(s[22])#Dargoth
 > END STRING
 
 > BEGIN STRING
 プレイヤーの方が執筆した、『SHRIFT』関連の小説を紹介しています。
-> CONTEXT: Map002/events/1/pages/0/236/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/246/ChoiceHelp
 Introduces 'SHRIFT' related novels written by players.#MTLed
 > END STRING
 
 > BEGIN STRING
 ゲームで登場した人物の立ち絵や一枚絵などが閲覧できます。
-> CONTEXT: Map002/events/1/pages/0/244/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/254/ChoiceHelp
 You can browse the full images and concept art of
 the characters who appeared in this game.#Triketos
 > END STRING
 
 > BEGIN STRING
 ギャラリー【ゲスト】 en(s[22])
-> CONTEXT: Map002/events/1/pages/0/251/Choice/0
+> CONTEXT: Map002/events/1/pages/0/261/Choice/0
 Gallery [Fan Art] en(s[22])#Dargoth
 > END STRING
 
 > BEGIN STRING
 サウンド
-> CONTEXT: Map002/events/1/pages/0/251/Choice/1
+> CONTEXT: Map002/events/1/pages/0/261/Choice/1
 Music#Dargoth
 > END STRING
 
 > BEGIN STRING
 おまけen(s[13])
-> CONTEXT: Map002/events/1/pages/0/251/Choice/2
-Bonus (not implemented yet) en(s[13])#Dargoth
+> CONTEXT: Map002/events/1/pages/0/261/Choice/2
+Bonus en(s[13])#Dargoth
 > END STRING
 
 > BEGIN STRING
 タイトルへ戻る
-> CONTEXT: Map002/events/1/pages/0/251/Choice/3
+> CONTEXT: Map002/events/1/pages/0/261/Choice/3
 Return to Title#Dargoth
 > END STRING
 
