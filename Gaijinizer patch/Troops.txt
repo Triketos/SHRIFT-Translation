@@ -10637,22 +10637,23 @@ Gya~tsu! ! ! Gyaaa~tsu! !#GT
 もう一匹のハーピーモドキが現れた！！
 > CONTEXT: Troops/291/pages/2/19/Dialogue
 > CONTEXT: Troops/295/pages/2/19/Dialogue
-Another Harpy appeared, called
-by the cry of the Beetle Harpy!!#Triketos
+Another Harpy appeared, called by the cry!!#Triketos
 > END STRING
 
 > BEGIN STRING
 ダメージを受けたハーピーモドキは飛び去っていった…
-> CONTEXT: Troops/291/pages/3/42/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/295/pages/3/42/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/291/pages/3/42/Dialogue
+> CONTEXT: Troops/295/pages/3/42/Dialogue
+The damaged Beetle Harpy flew away...#Triketos
 > END STRING
 
 > BEGIN STRING
 戦闘に勝利したことにより
 \\C[2]ハーピーモドキに対しての気丈な精神を少し取り戻した…
-> CONTEXT: Troops/291/pages/3/71/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/291/pages/3/71/Dialogue
+By winning the battle
+\\C[2] regained a little fighting spirit
+against Beetle Harpy...#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -10683,22 +10684,24 @@ Beetle Harpy (Loss 3)#Triketos
 
 > BEGIN STRING
 ハーピーモドキ（イベント）
-> CONTEXT: Troops/295/name < UNTRANSLATED
-
+> CONTEXT: Troops/295/name
+Beetle Harpy (Event)#Triketos
 > END STRING
 
 > BEGIN STRING
 クイーン（ボス）
-> CONTEXT: Troops/300/name < UNTRANSLATED
-
+> CONTEXT: Troops/300/name
+Queen (Boss)#Triketos
 > END STRING
 
 > BEGIN STRING
 さあ………
 
 母の胎へ………おいで………
-> CONTEXT: Troops/300/pages/1/30/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/300/pages/1/30/Dialogue
+Who knows......... 
+To my mother's womb......... 
+Come on.........#GT
 > END STRING
 
 > BEGIN STRING
@@ -10706,24 +10709,30 @@ Beetle Harpy (Loss 3)#Triketos
 不安………なく…………
 
 ただあなたに…………魂の安寧を………
-> CONTEXT: Troops/300/pages/1/34/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/300/pages/1/34/Dialogue
+Fear............ Not......... Anxiety.........
+Not............ Just to you............
+The well-being of the soul.........#GT
 > END STRING
 
 > BEGIN STRING
 ……………っ！？
 
  今の声は………！？
-> CONTEXT: Troops/300/pages/1/40/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Troops/300/pages/1/40/Dialogue/kazuya
+............... tsu!?
 
+Now the voice is....!?!?#GT
 > END STRING
 
 > BEGIN STRING
 こいつ、知能が低くて無口かと思ったら……！
 
 なるほど……信者がいるわけだよ……
-> CONTEXT: Troops/300/pages/1/44/Dialogue/other2 < UNTRANSLATED
-
+> CONTEXT: Troops/300/pages/1/44/Dialogue/other2
+This guy is low intelligence and I
+think it's silent.
+I see...... There are believers.#GT
 > END STRING
 
 > BEGIN STRING
@@ -10731,8 +10740,11 @@ Beetle Harpy (Loss 3)#Triketos
 
 こいつの声は脳内に直接響いてくる！
 \\C[2]『恍惚』にさせる効果があるぞ！
-> CONTEXT: Troops/300/pages/1/48/Dialogue/other1 < UNTRANSLATED
+> CONTEXT: Troops/300/pages/1/48/Dialogue/other1
+\\N[1], be careful!!
 
+This voice echoes directly in the brain!
+\\C[2] There is an effect to make it "Ecstacy"!#GT
 > END STRING
 
 > BEGIN STRING
@@ -10740,38 +10752,47 @@ Beetle Harpy (Loss 3)#Triketos
 
 『恍惚』の対策は常に意識したほうがいい！！
 強い精神を保つんだ！！
-> CONTEXT: Troops/300/pages/1/53/Dialogue/other1 < UNTRANSLATED
-
+> CONTEXT: Troops/300/pages/1/53/Dialogue/other1
+It's probably a brainwashing that can't resist
+the state of the \\C[2] prime... It is better to
+always be aware of the measures of ecstasy!!#GT
+Keep a strong spirit!!
 > END STRING
 
 > BEGIN STRING
 虚無へ向かう魂………
 
 なぜ………母を拒む…………
-> CONTEXT: Troops/300/pages/2/20/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/300/pages/2/20/Dialogue
+The soul towards nothing.........
+Why......... I refuse my mother......#GT
 > END STRING
 
 > BEGIN STRING
 あなたが母を受け入れれば………
 
 死んだ後も………魂は…………永遠に………
-> CONTEXT: Troops/300/pages/2/24/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/300/pages/2/24/Dialogue
+If you accept my mother.........
+Even after he died......... 
+The soul is...... Forever.........#GT
 > END STRING
 
 > BEGIN STRING
 永遠に、『お前の眷族として働く』……だろ？
 
 苦しみや……不安から解き放たれ……何も考えず…
-> CONTEXT: Troops/300/pages/2/29/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Troops/300/pages/2/29/Dialogue/kazuya
+Forever, "work as your barbarian" ... right?
 
+Suffering and... from liberty...
+without thinking about anything...#GT
 > END STRING
 
 > BEGIN STRING
 悪いけど、他を当たってくれ……！！
-> CONTEXT: Troops/300/pages/2/33/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Troops/300/pages/2/33/Dialogue/kazuya
+I'm sorry, but hit me elsewhere..!!#GT
 > END STRING
 
 > BEGIN STRING

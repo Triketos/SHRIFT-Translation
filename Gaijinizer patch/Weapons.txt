@@ -561,8 +561,9 @@ Thrice Tempered Blade#Triketos
 > BEGIN STRING
 人間界の森羅万象の加護を得て強化された練気の刀。
 属性攻撃が可能になる。
-> CONTEXT: Weapons/103/description < UNTRANSLATED
-
+> CONTEXT: Weapons/103/description
+A shining sword imbuned with the power of all living
+things. Attribute attacks become possible.#TriketosPartial
 > END STRING
 
 > BEGIN STRING
@@ -574,12 +575,13 @@ Shining Sword#Triketos
 > BEGIN STRING
 装甲車に積むタイプの武器。人の扱える代物ではない。
 その重さ故に、能力値にマイナスが付く。
-> CONTEXT: Weapons/105/description < UNTRANSLATED
-
+> CONTEXT: Weapons/105/description
+\\}Normally mounted on armored vehicles, it's not meant to be carried by a
+single person. You will take penalties due to its sheer weight.#Triketos
 > END STRING
 
 > BEGIN STRING
 多弾頭ランチャー
-> CONTEXT: Weapons/105/name < UNTRANSLATED
-
+> CONTEXT: Weapons/105/name
+Multi-Warhead Launcher#Triketos
 > END STRING
