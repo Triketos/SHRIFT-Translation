@@ -3908,26 +3908,27 @@ Haste#afrg
 > BEGIN STRING
 ６発のミサイルを連続で撃ち、相手に特大ダメージを与える。
 
-> CONTEXT: Skills/319/description < UNTRANSLATED
-
+> CONTEXT: Skills/319/description
+Fire six rockets in a row, 
+causing extra damage to your opponent.#Triketos
 > END STRING
 
 > BEGIN STRING
 ジェノサイドショット
-> CONTEXT: Skills/319/name < UNTRANSLATED
-
+> CONTEXT: Skills/319/name
+Genocide Shot#Triketos
 > END STRING
 
 > BEGIN STRING
 はジェノサイドショットを放った！
-> CONTEXT: Skills/319/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/319/message1
+Fire the almighty Genocide Shot.#Triketos
 > END STRING
 
 > BEGIN STRING
 リロードを行う。
-> CONTEXT: Skills/320/description < UNTRANSLATED
-
+> CONTEXT: Skills/320/description
+Reload#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -7767,8 +7768,7 @@ Great physical damage to a single enemy.
 > BEGIN STRING
 ハーピーモドキの舌が容赦なく\\N[1]の口内を犯していく……
 > CONTEXT: Skills/797/message2
-Beetle Harpy's tongue violates
-Kazuya's mouth mercilessly......#Triketos
+Beetle Harpy's tongue violates \\N[1]'s mouth mercilessly......#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -7964,7 +7964,7 @@ The Beetle Harpies try to catch \\N[1] in their talons!#Triketos
 がハーピーモドキに号令をかけた！
 > CONTEXT: Skills/811/message1
 > CONTEXT: Skills/827/message1
-orders the other Harpies to grab him!#Triketos
+ orders the other Harpies to grab him!#Triketos
 > END STRING
 
 > BEGIN STRING

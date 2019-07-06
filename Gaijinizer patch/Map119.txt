@@ -76,7 +76,7 @@ Instead "Afraid". Do you plant it a lot?#MTLed
 > BEGIN STRING
 心蝕を消す（クイーン）if(v[36] \>= 2) 
 > CONTEXT: Map119/events/5/pages/0/239/Choice/0 
-Erase caries (queen)if(v[36] \>= 2)#GT
+Remove mind corruption (Queen)if(v[36] \>= 2)#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -130,15 +130,14 @@ Well, I'm coming here ...#GT
 
 クイーンの心蝕は軽減されたようだ……。
 > CONTEXT: Map119/events/5/pages/0/269/Dialogue 
-By being in touch with her
-
-Queen's caries seems to have been reduced ....#GT
+By spending some intimate time with her,
+the Queen's mind corruption has been reduced....#Triketos
 > END STRING
 
 > BEGIN STRING
 "クイーンの心蝕がLv１になった！！"
 > CONTEXT: Map119/events/5/pages/0/273/InlineScript/1:12 
-"Queen's caries have become Lv1!"#GT
+"Queen's mind corruption is now Lv1!"#Triketos
 > END STRING
 
 > BEGIN STRING

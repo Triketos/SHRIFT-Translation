@@ -78,7 +78,7 @@ We make out much?♡#afrg
 > BEGIN STRING
 心蝕を消す（モドキ）if(v[35] \>= 2) 
 > CONTEXT: Map215/events/5/pages/0/238/Choice/0
-Erase the caries (Beetle)if(v[35] \>= 2)#GT
+Remove mind corruption (Harpy)if(v[35] \>= 2)#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -121,8 +121,8 @@ Watermelon Mitai Decaino Skika! ?#GT
 
 このまま挑んじゃうと、また負けちゃうから…………
 > CONTEXT: Map215/events/5/pages/0/275/Dialogue/kazuya 
-Oh, calm down ... Camassoso ...
-Apart from Beetle Harpt who likes it...
+Oh, calm down ... Camzotz ...
+Apart from Beetle Harpy who likes it...
 
 If you try as it is, you will lose again.........#GT
 > END STRING
@@ -158,16 +158,15 @@ I'm asking you to get rid of my caries ...#GT
 
 ハーピーモドキの心蝕は軽減されたようだ……。
 > CONTEXT: Map215/events/5/pages/0/296/Dialogue 
-By being in touch with her
-
-Beetle Harpy's caries seems to have
-been alleviated....#GT
+By spending some intimate time with her,
+the Beetle Harpy's mind corruption has
+been reduced....#Triketos
 > END STRING
 
 > BEGIN STRING
 "モドキの心蝕がLv１になった！！"
 > CONTEXT: Map215/events/5/pages/0/300/InlineScript/1:12 
-"Harpy's caries has become Lv1!"#GT
+"Harpy's mind corruption has become Lv1!"#Triketos
 > END STRING
 
 > BEGIN STRING
