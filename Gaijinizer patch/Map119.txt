@@ -74,6 +74,73 @@ Instead "Afraid". Do you plant it a lot?#MTLed
 > END STRING
 
 > BEGIN STRING
+心蝕を消す（クイーン）if(v[36] \>= 2) 
+> CONTEXT: Map119/events/5/pages/0/239/Choice/0 
+Remove mind corruption (Queen)if(v[36] \>= 2)#Triketos
+> END STRING
+
+> BEGIN STRING
+心蝕を直してもらうには友好度が足りない…
+
+\\C[2]キズナを結んでいる状態でないとダメなようだ…
+> CONTEXT: Map119/events/5/pages/0/245/Dialogue
+> CONTEXT: Map215/events/5/pages/0/244/Dialogue
+The degree of friendship is not enough to get
+your caries fixed ...
+
+\\C[2] It seems to be useless unless it is in the
+state of connecting Kizuna ...#GT
+> END STRING
+
+> BEGIN STRING
+ククク……分かってるよ
+
+ あの腹ボテ野郎の心蝕を消してほしいんだろう？
+> CONTEXT: Map119/events/5/pages/0/253/Dialogue/enemy10
+I understand ... I know
+
+I would like to get rid of that carious glutes
+of bastard bastards?#GT
+> END STRING
+
+> BEGIN STRING
+アイツの腹の中はどうだった？
+ 溶かされていく心地はさぞ気持ちよかっただろうねぇ
+
+ だけど、あたいの腹の中の方が極上さ
+> CONTEXT: Map119/events/5/pages/0/257/Dialogue/enemy10 
+How was the inside of the guy's belly?
+The comfort to be melted would have been pleasant
+
+But the inside of my belly is the best#GT
+> END STRING
+
+> BEGIN STRING
+お前さんには、それを思い出させてやるよ……
+
+さぁ、こっちに来るんだ……
+> CONTEXT: Map119/events/5/pages/0/262/Dialogue/enemy10 
+I will remind you of that ...
+
+Well, I'm coming here ...#GT
+> END STRING
+
+> BEGIN STRING
+彼女と親しく触れ合ったことで
+
+クイーンの心蝕は軽減されたようだ……。
+> CONTEXT: Map119/events/5/pages/0/269/Dialogue 
+By spending some intimate time with her,
+the Queen's mind corruption has been reduced....#Triketos
+> END STRING
+
+> BEGIN STRING
+"クイーンの心蝕がLv１になった！！"
+> CONTEXT: Map119/events/5/pages/0/273/InlineScript/1:12 
+"Queen's mind corruption is now Lv1!"#Triketos
+> END STRING
+
+> BEGIN STRING
 ふん…！話、ねぇ………
 
 まぁいいさ、何が聞きたいんだい？

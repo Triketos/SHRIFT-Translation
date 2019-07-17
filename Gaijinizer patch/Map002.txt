@@ -24,6 +24,32 @@ Loss Scenes en(s[14])#Dargoth
 > END STRING
 
 > BEGIN STRING
+本編中でキズナになった悪魔達のサイドストーリーです。
+> CONTEXT: Map002/events/1/pages/0/303/ChoiceHelp
+Side stories of demons who you have bonded
+with in the main story.#Triketos
+> END STRING
+
+> BEGIN STRING
+想ひ魂番外編
+> CONTEXT: Map002/events/1/pages/0/281/Choice/1
+Extra Stories#TriketosPartial
+> END STRING
+
+> BEGIN STRING
+プレイヤーがYoutubeに投稿した二次創作や実況プレイの動画です。
+> CONTEXT: Map002/events/1/pages/0/236/ChoiceHelp
+Videos of the secondary creations and
+playthroughs that players have posted to Youtube.
+> END STRING
+
+> BEGIN STRING
+関連Youtubeリンク en(s[22])
+> CONTEXT: Map002/events/1/pages/0/234/Choice/0
+Youtube Links en(s[22])
+> END STRING
+
+> BEGIN STRING
 最初から本編を始めます。
 > CONTEXT: Map002/events/1/pages/0/74/ChoiceHelp
 Start the main story from the beginning.#Triketos
@@ -194,50 +220,50 @@ seen before. (Hell's Indulgence is unavailable)#Triketos
 
 > BEGIN STRING
 関連ノベルリンク en(s[22])
-> CONTEXT: Map002/events/1/pages/0/234/Choice/0
+> CONTEXT: Map002/events/1/pages/0/244/Choice/0
 Open links to related novel en(s[22])#Dargoth
 > END STRING
 
 > BEGIN STRING
 ギャラリー【公式】 en(s[22])
-> CONTEXT: Map002/events/1/pages/0/234/Choice/1
+> CONTEXT: Map002/events/1/pages/0/244/Choice/1
 Gallery [Official] en(s[22])#Dargoth
 > END STRING
 
 > BEGIN STRING
 プレイヤーの方が執筆した、『SHRIFT』関連の小説を紹介しています。
-> CONTEXT: Map002/events/1/pages/0/236/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/246/ChoiceHelp
 Introduces 'SHRIFT' related novels written by players.#MTLed
 > END STRING
 
 > BEGIN STRING
 ゲームで登場した人物の立ち絵や一枚絵などが閲覧できます。
-> CONTEXT: Map002/events/1/pages/0/244/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/254/ChoiceHelp
 You can browse the full images and concept art of
 the characters who appeared in this game.#Triketos
 > END STRING
 
 > BEGIN STRING
 ギャラリー【ゲスト】 en(s[22])
-> CONTEXT: Map002/events/1/pages/0/251/Choice/0
+> CONTEXT: Map002/events/1/pages/0/261/Choice/0
 Gallery [Fan Art] en(s[22])#Dargoth
 > END STRING
 
 > BEGIN STRING
 サウンド
-> CONTEXT: Map002/events/1/pages/0/251/Choice/1
+> CONTEXT: Map002/events/1/pages/0/261/Choice/1
 Music#Dargoth
 > END STRING
 
 > BEGIN STRING
 おまけen(s[13])
-> CONTEXT: Map002/events/1/pages/0/251/Choice/2
-Bonus (not implemented yet) en(s[13])#Dargoth
+> CONTEXT: Map002/events/1/pages/0/261/Choice/2
+Bonus en(s[13])#Dargoth
 > END STRING
 
 > BEGIN STRING
 タイトルへ戻る
-> CONTEXT: Map002/events/1/pages/0/251/Choice/3
+> CONTEXT: Map002/events/1/pages/0/261/Choice/3
 Return to Title#Dargoth
 > END STRING
 
@@ -274,8 +300,9 @@ Memento extra editionen(s[9999])#MTLed
 > BEGIN STRING
 ゲームクリアすると、自動的に始まる２周目要素を無効化して
 > CONTEXT: Map002/events/1/pages/0/273/ChoiceHelp
-When the game is cleared, the second lap element that
-starts automatically is changed to prevention#MTLed
+Once you've cleared the game, you can turn off
+the bonuses you automatically get during your
+next playthough.#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -306,7 +333,7 @@ Cancel#Triketos
 > BEGIN STRING
 タイトル画面に戻ります。
 > CONTEXT: Map002/events/1/pages/0/301/ChoiceHelp
-You will return to the title screen.#MTLed
+Go back to the Title Screen.#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -335,49 +362,54 @@ Empuse#Dargoth
 
 > BEGIN STRING
 "【開放済み】"
-> CONTEXT: Map002/events/1/pages/0/317/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/325/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/333/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/401/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/409/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/417/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/486/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/494/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/546/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/554/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/562/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/633/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/641/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/693/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/701/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/763/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/771/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/779/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/847/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/855/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/863/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/871/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/959/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/967/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/1019/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/1027/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/1035/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/1043/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/1127/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/1135/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/1143/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/1227/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/1235/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/1307/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/1315/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/1367/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/1403/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/1411/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/1419/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/1487/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/1527/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/1563/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/1571/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/473/InlineScript/1:24 
+> CONTEXT: Map002/events/1/pages/0/481/InlineScript/1:24 
+> CONTEXT: Map002/events/1/pages/0/489/InlineScript/1:24 
+> CONTEXT: Map002/events/1/pages/0/557/InlineScript/1:24 
+> CONTEXT: Map002/events/1/pages/0/565/InlineScript/1:24 
+> CONTEXT: Map002/events/1/pages/0/573/InlineScript/1:24 
+> CONTEXT: Map002/events/1/pages/0/642/InlineScript/1:24 
+> CONTEXT: Map002/events/1/pages/0/650/InlineScript/1:24 
+> CONTEXT: Map002/events/1/pages/0/702/InlineScript/1:24 
+> CONTEXT: Map002/events/1/pages/0/710/InlineScript/1:24 
+> CONTEXT: Map002/events/1/pages/0/718/InlineScript/1:24 
+> CONTEXT: Map002/events/1/pages/0/789/InlineScript/1:24 
+> CONTEXT: Map002/events/1/pages/0/797/InlineScript/1:24 
+> CONTEXT: Map002/events/1/pages/0/849/InlineScript/1:24 
+> CONTEXT: Map002/events/1/pages/0/857/InlineScript/1:24 
+> CONTEXT: Map002/events/1/pages/0/919/InlineScript/1:24 
+> CONTEXT: Map002/events/1/pages/0/927/InlineScript/1:24 
+> CONTEXT: Map002/events/1/pages/0/935/InlineScript/1:24 
+> CONTEXT: Map002/events/1/pages/0/1003/InlineScript/1:24 
+> CONTEXT: Map002/events/1/pages/0/1011/InlineScript/1:24 
+> CONTEXT: Map002/events/1/pages/0/1019/InlineScript/1:24 
+> CONTEXT: Map002/events/1/pages/0/1027/InlineScript/1:24 
+> CONTEXT: Map002/events/1/pages/0/1115/InlineScript/1:24 
+> CONTEXT: Map002/events/1/pages/0/1123/InlineScript/1:24 
+> CONTEXT: Map002/events/1/pages/0/1175/InlineScript/1:24 
+> CONTEXT: Map002/events/1/pages/0/1183/InlineScript/1:24 
+> CONTEXT: Map002/events/1/pages/0/1191/InlineScript/1:24 
+> CONTEXT: Map002/events/1/pages/0/1199/InlineScript/1:24 
+> CONTEXT: Map002/events/1/pages/0/1283/InlineScript/1:24 
+> CONTEXT: Map002/events/1/pages/0/1291/InlineScript/1:24 
+> CONTEXT: Map002/events/1/pages/0/1299/InlineScript/1:24 
+> CONTEXT: Map002/events/1/pages/0/1383/InlineScript/1:24 
+> CONTEXT: Map002/events/1/pages/0/1391/InlineScript/1:24 
+> CONTEXT: Map002/events/1/pages/0/1463/InlineScript/1:24 
+> CONTEXT: Map002/events/1/pages/0/1471/InlineScript/1:24 
+> CONTEXT: Map002/events/1/pages/0/1523/InlineScript/1:24 
+> CONTEXT: Map002/events/1/pages/0/1559/InlineScript/1:24 
+> CONTEXT: Map002/events/1/pages/0/1567/InlineScript/1:24 
+> CONTEXT: Map002/events/1/pages/0/1575/InlineScript/1:24 
+> CONTEXT: Map002/events/1/pages/0/1643/InlineScript/1:24 
+> CONTEXT: Map002/events/1/pages/0/1683/InlineScript/1:24 
+> CONTEXT: Map002/events/1/pages/0/1719/InlineScript/1:24 
+> CONTEXT: Map002/events/1/pages/0/1727/InlineScript/1:24 
+> CONTEXT: Map002/events/1/pages/0/1815/InlineScript/1:24 
+> CONTEXT: Map002/events/1/pages/0/1823/InlineScript/1:24 
+> CONTEXT: Map002/events/1/pages/0/1831/InlineScript/1:24 
+> CONTEXT: Map002/events/1/pages/0/1899/InlineScript/1:24 
+> CONTEXT: Map002/events/1/pages/0/1907/InlineScript/1:24 
 "[Unlocked]"#Dargoth
 > END STRING
 
@@ -421,24 +453,26 @@ Gangbang en(s[104])#Dargoth
 
 > BEGIN STRING
 \\V[110]
-> CONTEXT: Map002/events/1/pages/0/343/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/0/427/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/0/503/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/0/571/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/0/651/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/0/711/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/0/788/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/0/880/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/0/976/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/0/1052/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/0/1152/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/0/1244/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/0/1324/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/0/1376/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/0/1428/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/0/1496/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/0/1536/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/0/1580/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/499/ChoiceHelp 
+> CONTEXT: Map002/events/1/pages/0/583/ChoiceHelp 
+> CONTEXT: Map002/events/1/pages/0/659/ChoiceHelp 
+> CONTEXT: Map002/events/1/pages/0/727/ChoiceHelp 
+> CONTEXT: Map002/events/1/pages/0/807/ChoiceHelp 
+> CONTEXT: Map002/events/1/pages/0/867/ChoiceHelp 
+> CONTEXT: Map002/events/1/pages/0/944/ChoiceHelp 
+> CONTEXT: Map002/events/1/pages/0/1036/ChoiceHelp 
+> CONTEXT: Map002/events/1/pages/0/1132/ChoiceHelp 
+> CONTEXT: Map002/events/1/pages/0/1208/ChoiceHelp 
+> CONTEXT: Map002/events/1/pages/0/1308/ChoiceHelp 
+> CONTEXT: Map002/events/1/pages/0/1400/ChoiceHelp 
+> CONTEXT: Map002/events/1/pages/0/1480/ChoiceHelp 
+> CONTEXT: Map002/events/1/pages/0/1532/ChoiceHelp 
+> CONTEXT: Map002/events/1/pages/0/1584/ChoiceHelp 
+> CONTEXT: Map002/events/1/pages/0/1652/ChoiceHelp 
+> CONTEXT: Map002/events/1/pages/0/1692/ChoiceHelp 
+> CONTEXT: Map002/events/1/pages/0/1736/ChoiceHelp 
+> CONTEXT: Map002/events/1/pages/0/1840/ChoiceHelp 
+> CONTEXT: Map002/events/1/pages/0/1916/ChoiceHelp 
 \\V[110]#NoTL
 > END STRING
 
@@ -454,21 +488,23 @@ Do you want to view this battle?#MTLed
 
 > BEGIN STRING
 \\V[111]
-> CONTEXT: Map002/events/1/pages/0/359/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/0/443/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/0/519/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/0/587/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/0/667/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/0/727/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/0/804/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/0/896/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/0/992/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/0/1068/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/0/1184/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/0/1276/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/0/1340/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/0/1444/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/0/1612/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/515/ChoiceHelp 
+> CONTEXT: Map002/events/1/pages/0/599/ChoiceHelp 
+> CONTEXT: Map002/events/1/pages/0/675/ChoiceHelp 
+> CONTEXT: Map002/events/1/pages/0/743/ChoiceHelp 
+> CONTEXT: Map002/events/1/pages/0/823/ChoiceHelp 
+> CONTEXT: Map002/events/1/pages/0/883/ChoiceHelp 
+> CONTEXT: Map002/events/1/pages/0/960/ChoiceHelp 
+> CONTEXT: Map002/events/1/pages/0/1052/ChoiceHelp 
+> CONTEXT: Map002/events/1/pages/0/1148/ChoiceHelp 
+> CONTEXT: Map002/events/1/pages/0/1224/ChoiceHelp 
+> CONTEXT: Map002/events/1/pages/0/1340/ChoiceHelp 
+> CONTEXT: Map002/events/1/pages/0/1432/ChoiceHelp 
+> CONTEXT: Map002/events/1/pages/0/1496/ChoiceHelp 
+> CONTEXT: Map002/events/1/pages/0/1600/ChoiceHelp 
+> CONTEXT: Map002/events/1/pages/0/1768/ChoiceHelp 
+> CONTEXT: Map002/events/1/pages/0/1856/ChoiceHelp 
+> CONTEXT: Map002/events/1/pages/0/1948/ChoiceHelp 
 \\V[111]#NoTL
 > END STRING
 
@@ -484,14 +520,15 @@ Do you want to view this battle?#MTLed
 
 > BEGIN STRING
 \\V[112]
-> CONTEXT: Map002/events/1/pages/0/375/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/0/459/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/0/603/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/0/820/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/0/912/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/0/1084/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/0/1200/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/0/1460/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/531/ChoiceHelp 
+> CONTEXT: Map002/events/1/pages/0/615/ChoiceHelp 
+> CONTEXT: Map002/events/1/pages/0/759/ChoiceHelp 
+> CONTEXT: Map002/events/1/pages/0/976/ChoiceHelp 
+> CONTEXT: Map002/events/1/pages/0/1068/ChoiceHelp 
+> CONTEXT: Map002/events/1/pages/0/1240/ChoiceHelp 
+> CONTEXT: Map002/events/1/pages/0/1356/ChoiceHelp 
+> CONTEXT: Map002/events/1/pages/0/1616/ChoiceHelp 
+> CONTEXT: Map002/events/1/pages/0/1872/ChoiceHelp 
 \\V[112]#NoTL
 > END STRING
 
@@ -2282,20 +2319,20 @@ Return to Previous Menu#Dargoth
 
 > BEGIN STRING
 \\\>作者　　　　　　：少佐
-> CONTEXT: Map002/events/1/pages/2/90/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/2/136/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/2/172/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/2/192/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/2/216/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/2/227/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/2/238/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/2/269/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/2/281/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/2/293/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/2/305/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/2/317/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/2/329/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/2/341/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/2/90/ChoiceHelp 
+> CONTEXT: Map002/events/1/pages/2/136/ChoiceHelp 
+> CONTEXT: Map002/events/1/pages/2/172/ChoiceHelp 
+> CONTEXT: Map002/events/1/pages/2/192/ChoiceHelp 
+> CONTEXT: Map002/events/1/pages/2/216/ChoiceHelp 
+> CONTEXT: Map002/events/1/pages/2/227/ChoiceHelp 
+> CONTEXT: Map002/events/1/pages/2/238/ChoiceHelp 
+> CONTEXT: Map002/events/1/pages/2/291/ChoiceHelp 
+> CONTEXT: Map002/events/1/pages/2/303/ChoiceHelp 
+> CONTEXT: Map002/events/1/pages/2/315/ChoiceHelp 
+> CONTEXT: Map002/events/1/pages/2/327/ChoiceHelp 
+> CONTEXT: Map002/events/1/pages/2/339/ChoiceHelp 
+> CONTEXT: Map002/events/1/pages/2/351/ChoiceHelp 
+> CONTEXT: Map002/events/1/pages/2/363/ChoiceHelp 
 \\\> Author: Major#MTLed
 > END STRING
 
@@ -3290,4 +3327,23 @@ My storyif(s[531])#MTLed
 真慈悲ルート主題歌 if(s[531])
 > CONTEXT: Map002/events/1/pages/4/330/Choice/0
 True mercy route theme songif(s[531])#MTLed
+> END STRING
+
+> BEGIN STRING
+＜未実装＞en(s[9999])
+> CONTEXT: Map002/events/1/pages/0/435/Choice/0
+> CONTEXT: Map002/events/1/pages/0/435/Choice/1
+> CONTEXT: Map002/events/1/pages/0/435/Choice/2
+> CONTEXT: Map002/events/1/pages/0/435/Choice/3
+> CONTEXT: Map002/events/1/pages/0/425/Choice/0
+> CONTEXT: Map002/events/1/pages/0/425/Choice/1
+> CONTEXT: Map002/events/1/pages/0/425/Choice/2
+> CONTEXT: Map002/events/1/pages/0/425/Choice/3
+> CONTEXT: Map002/events/1/pages/0/375/Choice/0 
+> CONTEXT: Map002/events/1/pages/0/375/Choice/1 
+> CONTEXT: Map002/events/1/pages/0/375/Choice/2
+> CONTEXT: Map002/events/1/pages/0/325/Choice/0
+> CONTEXT: Map002/events/1/pages/0/325/Choice/1
+> CONTEXT: Map002/events/1/pages/0/325/Choice/2
+<Not Implemented>en(s[9999])#Triketos
 > END STRING

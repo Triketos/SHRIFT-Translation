@@ -1,0 +1,39 @@
+﻿> GAIJINIZER PATCH FILE
+> BEGIN STRING
+ハーピーモドキ・クイーンは体勢を戻した……
+
+\\C[2]戦闘態勢になったようだ…
+> CONTEXT: CommonEvents_600/35/Dialogue 
+> CONTEXT: CommonEvents_606/48/Dialogue 
+> CONTEXT: CommonEvents_606/118/Dialogue 
+Beetle Harpy Queen is back in shape......
+
+\\C[2] seems to be in battle ...#GT
+> END STRING
+
+> BEGIN STRING
+\\N[1]はハーピーモドキに肩を掴まれて、
+徐々にクイーンの胸元に運ばれていく……！
+
+\\C[2]もう後が無い……！！
+> CONTEXT: CommonEvents_600/70/Dialogue 
+\\N[1] is grabbed by Beetle Harpy,
+It will be carried to the chest of the
+queen gradually ...!
+
+\\C[2] There are no more ......! !#GT
+
+> END STRING
+
+> BEGIN STRING
+\\N[1]はハーピーモドキに肩を掴まれて、
+
+徐々にクイーンの胸元に運ばれていく……！
+> CONTEXT: CommonEvents_600/81/Dialogue 
+> CONTEXT: CommonEvents_600/91/Dialogue 
+> CONTEXT: CommonEvents_601/50/Dialogue 
+\\N[1] is grabbed by Beetle Harpy,
+
+It will be carried to the chest of the
+queen gradually ...!#GT
+> END STRING

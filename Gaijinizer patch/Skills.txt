@@ -1737,10 +1737,19 @@ Pure pleasure courses through his veins and saps his strength...#Dargoth
 > CONTEXT: Skills/730/description
 > CONTEXT: Skills/731/description
 > CONTEXT: Skills/732/description
+> CONTEXT: Skills/733/description
+> CONTEXT: Skills/734/description
 > CONTEXT: Skills/743/description
 > CONTEXT: Skills/747/description
 > CONTEXT: Skills/769/description
 > CONTEXT: Skills/789/description
+> CONTEXT: Skills/797/description
+> CONTEXT: Skills/802/description
+> CONTEXT: Skills/803/description
+> CONTEXT: Skills/804/description
+> CONTEXT: Skills/806/description
+> CONTEXT: Skills/812/description
+> CONTEXT: Skills/813/description
 Perform a powerful attack against one foe.#Dargoth
 > END STRING
 
@@ -2931,6 +2940,12 @@ An overload of pleasure is crushing \\N[1]'s willpower...#Dargoth
 > END STRING
 
 > BEGIN STRING
+相手に大ダメージ。出血付与。
+> CONTEXT: Skills/250/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
 デスサイズ
 > CONTEXT: Skills/250/name
 > CONTEXT: Weapons/31/name
@@ -2941,6 +2956,13 @@ Death Scythe#Dargoth
 の腕鎌が真空波をまとい\\N[1]に振り下ろされた！
 > CONTEXT: Skills/250/message1
  aims vacuum waves at \\N[1]'s with downward swipes!#Dargoth
+> END STRING
+
+> BEGIN STRING
+相手を拘束する技。
+戦闘態勢での使用時、希に出血することがある
+> CONTEXT: Skills/251/description < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -2956,6 +2978,13 @@ Capture Fall#Dargoth
 > END STRING
 
 > BEGIN STRING
+打撃系の小ダメージを与える。
+高確率でスタン付与
+> CONTEXT: Skills/252/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
 スタン・インパクト
 > CONTEXT: Skills/252/name
 Stun Impact#Dargoth
@@ -2965,6 +2994,13 @@ Stun Impact#Dargoth
 は直接鎌を\\N[1]に向けて叩き付けた！
 > CONTEXT: Skills/252/message1
  slashes her scythes directly towards \\N[1]!#Dargoth
+> END STRING
+
+> BEGIN STRING
+エンプーサの必殺技。
+５回連続の大ダメージ、高確率で出血付与。
+> CONTEXT: Skills/254/description < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -2981,6 +3017,13 @@ Funeral Dance#Dargoth
 > CONTEXT: Skills/342/message1
 > CONTEXT: Skills/748/message1
  flourishes her arms as if she's dancing!#Dargoth
+> END STRING
+
+> BEGIN STRING
+相手を搾精目的で捕まえる技。
+高確率でパニックを付与する。
+> CONTEXT: Skills/257/description < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -3060,6 +3103,13 @@ Brain Suck#Dargoth
 > END STRING
 
 > BEGIN STRING
+相手に甘い吐息を吹きかける
+小確率で相手を恍惚にする
+> CONTEXT: Skills/263/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
 戦意喪失
 > CONTEXT: Skills/264/name
 Loss of Heart#Dargoth
@@ -3075,7 +3125,7 @@ Loss of Heart#Dargoth
 \\C[10]エンプーサに犯され、精神に快感を擦り込まれたパッシブスキル。
 対象悪魔との戦闘時、ダメージが２０％増加する。
 > CONTEXT: Skills/265/description
-\\C[10]The pleasure of being raped by an empuse sticks in your mind.
+\\C[10]The pleasure of being raped by Empuse sticks in your mind.
 Increases damage taken from this monster by 20%.#Dargoth
 > END STRING
 
@@ -3702,6 +3752,13 @@ Spell#afrg
 > END STRING
 
 > BEGIN STRING
+相手に優しくキスをする。大切な人のためにとっておこう
+小ダメージを与え、高確率で相手を魅了状態にする。
+> CONTEXT: Skills/310/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
 天使の接吻
 > CONTEXT: Skills/310/name
 Angel's Kiss#afrg
@@ -3744,6 +3801,12 @@ It's an innocent but refined movement!#afrg
 > END STRING
 
 > BEGIN STRING
+腰をクイクイと可愛らしく振る、ニーナのオリジナルダンス。
+> CONTEXT: Skills/313/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
 ハニー・ダンス
 > CONTEXT: Skills/313/name
 Honey Dance#afrg
@@ -3759,6 +3822,12 @@ Honey Dance#afrg
 艶やかなエボニーの身体が\\N[1]の前に迫る…！！
 > CONTEXT: Skills/314/message2
 Her glamorous ebony body draws close to \\N[1]!#afrg
+> END STRING
+
+> BEGIN STRING
+ゆっくりとした艶めかしい、エボニー使用時のダンス。
+> CONTEXT: Skills/314/description < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -3778,6 +3847,12 @@ Sexy Dance#afrg
 クネクネと魅惑的に小刻みな動きをさせている…
 > CONTEXT: Skills/315/message2
 She wiggles and shakes her body...#afrgPR
+> END STRING
+
+> BEGIN STRING
+激しく腰を動かし相手に見せつける、レイジー使用時のダンス。
+> CONTEXT: Skills/315/description < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -3828,6 +3903,32 @@ Haste#afrg
 はうまくステップが踏めずに困惑している…！
 > CONTEXT: Skills/318/message1
  cannot follow the skillful moves due to sheer bewilderment!#afrg
+> END STRING
+
+> BEGIN STRING
+６発のミサイルを連続で撃ち、相手に特大ダメージを与える。
+
+> CONTEXT: Skills/319/description
+Fires a bundle of six rockets, 
+causing extra damage to your opponent.#Triketos
+> END STRING
+
+> BEGIN STRING
+ジェノサイドショット
+> CONTEXT: Skills/319/name
+Genocide Shot#Triketos
+> END STRING
+
+> BEGIN STRING
+はジェノサイドショットを放った！
+> CONTEXT: Skills/319/message1
+ fired the almighty Genocide Shot!#Triketos
+> END STRING
+
+> BEGIN STRING
+リロードを行う。
+> CONTEXT: Skills/320/description
+Reload#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -4364,7 +4465,7 @@ Maximum willpower reduced to 80% when fighting this monster.#afrg
 \\C[10]マザーラビットに犯され、精神に快感を擦り込まれたパッシブスキル。
 対象悪魔との戦闘時、最大気力が８０％になる。
 > CONTEXT: Skills/378/description
-\\C[10]The pleasure of being raped by Mother Rabbit in your mind.
+\\C[10]The pleasure of being raped by Mother Rabbit sticks in your mind.
 Maximum vitality reduced to 80% when fighting this monster.#afrg
 > END STRING
 
@@ -5241,7 +5342,7 @@ Beast Sex#afrg
 > BEGIN STRING
 は\\N[1]を強く抱きしめがなら腰を振った！
 > CONTEXT: Skills/471/message1
-hugs \\N[1] close and moves her waist!#afrg
+ hugs \\N[1] close and moves her waist!#afrg
 > END STRING
 
 > BEGIN STRING
@@ -5986,6 +6087,58 @@ Wind Burst#afrg
 > CONTEXT: Skills/543/message1
 > CONTEXT: Skills/782/message1
  uses Wind Burst!#afrg
+> END STRING
+
+> BEGIN STRING
+敵単体に火属性ダメージを与える。
+\\C[10]相手が誘惑している時に選択する事は死を意味する。
+> CONTEXT: Skills/544/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+火炎剣
+> CONTEXT: Skills/544/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敵単体に氷属性ダメージを与える。
+\\C[10]相手が誘惑している時に選択する事は死を意味する。
+> CONTEXT: Skills/545/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+氷結剣
+> CONTEXT: Skills/545/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敵単体に雷属性のダメージを与える。
+\\C[10]相手が誘惑している時に選択する事は死を意味する。
+> CONTEXT: Skills/546/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+雷撃剣
+> CONTEXT: Skills/546/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敵単体に風属性ダメージを与える。
+\\C[10]相手が誘惑している時に選択する事は死を意味する。
+> CONTEXT: Skills/547/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+疾風剣
+> CONTEXT: Skills/547/name < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -7103,6 +7256,18 @@ Power of Atonement#afrg
 > END STRING
 
 > BEGIN STRING
+ハーピーモドキの長い舌が、ねっとりと侵入してくる…！
+> CONTEXT: Skills/733/message2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+相手の全能力を２段階下げる。
+> CONTEXT: Skills/735/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
 オール・デルテカ
 > CONTEXT: Skills/735/name
 All Delteca#afrg
@@ -7161,6 +7326,13 @@ Advance#afrg
 > CONTEXT: Skills/740/message2
 > CONTEXT: Skills/742/message2
 Mother Rabbit wraps \\N[1] in a hug! !#afrg
+> END STRING
+
+> BEGIN STRING
+雷属性の超特大ダメージを与える。
+これを覚えるのには強大な魔力を操れる必要がある。
+> CONTEXT: Skills/741/description < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -7594,6 +7766,12 @@ Great physical damage to a single enemy.
 > END STRING
 
 > BEGIN STRING
+ハーピーモドキの舌が容赦なく\\N[1]の口内を犯していく……
+> CONTEXT: Skills/797/message2
+Beetle Harpy's tongue violates \\N[1]'s mouth mercilessly......#Triketos
+> END STRING
+
+> BEGIN STRING
 だが、ミオは変わらず平然とした顔をしている……
 > CONTEXT: Skills/798/message2
 But Mio still has a plain face ...#MTLed
@@ -7610,3 +7788,394 @@ Desperate waist swing#MTLed
 > CONTEXT: Skills/798/message1
 Shook her to Mio hard!!#MTLed
 > END STRING
+
+> BEGIN STRING
+妖鳥の抱擁
+> CONTEXT: Skills/799/name
+Bewitching Bird's Embrace#Triketos
+> END STRING
+
+> BEGIN STRING
+は、\\N[1]を両脚で抱きしめた！
+> CONTEXT: Skills/799/message1
+ wraps her legs tightly around \\N[1]!#Triketos
+> END STRING
+
+> BEGIN STRING
+耳から入った音波が、頭の中で官能的に響く……
+> CONTEXT: Skills/800/message2
+His ears are filled with arousing, lewd noises...#Triketos
+> END STRING
+
+> BEGIN STRING
+オス誘いの音激
+> CONTEXT: Skills/800/name
+Mating Call#Triketos
+> END STRING
+
+> BEGIN STRING
+は、興奮した様子で奇声を発した！！
+> CONTEXT: Skills/800/message1
+ let out a strange cry, as she looks excited!!#Triketos
+> END STRING
+
+> BEGIN STRING
+供物選びの鉤爪
+> CONTEXT: Skills/801/name
+> CONTEXT: Skills/811/name
+> CONTEXT: Skills/827/name
+Talon Grab#Triketos, odd translations...
+> END STRING
+
+> BEGIN STRING
+の鉤爪が、\\N[1]を捕まえようと襲いかかった！
+> CONTEXT: Skills/801/message1
+ tries to catch \\N[1] in its talons!#Triketos
+> END STRING
+
+> BEGIN STRING
+ハーピーモドキの舌が、にゅるりと侵入してくる……
+> CONTEXT: Skills/802/message2
+Beetle Harpy's tongue wriggles as it invades his mouth...#Triketos
+> END STRING
+
+> BEGIN STRING
+屈服の接吻
+> CONTEXT: Skills/802/name
+Kiss of Surrender#Triketos
+> END STRING
+
+> BEGIN STRING
+は、ハーピーモドキの誘惑に負け、口を開けてしまった！
+> CONTEXT: Skills/802/message1
+ succumbed to the temptation of the Beetle Harpy...!#Triketos
+> END STRING
+
+> BEGIN STRING
+\\N[1]はもう、快楽に身を任せることしかできない……
+> CONTEXT: Skills/803/message2
+\\N[1] entrusts his body to the pleasure...#Triketos
+> END STRING
+
+> BEGIN STRING
+淫靡な口交尾
+> CONTEXT: Skills/803/name
+Lewd Beast's Tongue#Triketos
+> END STRING
+
+> BEGIN STRING
+の口がじゅるじゅると音をたて、吸い付いてくる……
+> CONTEXT: Skills/803/message1
+'s mouth makes a sucking noise as it kisses you...#Triketos
+> END STRING
+
+> BEGIN STRING
+\\N[1]の眼には、もはや彼女以外見えなくなっている…
+> CONTEXT: Skills/804/message2
+\\N[1] gazes longingly at her, unable to look away...#Triketos
+> END STRING
+
+> BEGIN STRING
+つがい誓いの抱擁
+> CONTEXT: Skills/804/name
+Couple's Embrace#Triketos
+> END STRING
+
+> BEGIN STRING
+ハーピーモドキは\\N[1]を優しく抱き締めた……
+> CONTEXT: Skills/804/message1
+ Beetle Harpy gently embraces \\N[1]...
+> END STRING
+
+> BEGIN STRING
+各々が貪欲に、凄まじい勢いで吸いついてくる…！
+> CONTEXT: Skills/806/message2
+Each of them greedily sucks it with tremendous vigor...!
+> END STRING
+
+> BEGIN STRING
+えさのじかん
+> CONTEXT: Skills/806/name
+Feeding Time#Triketos
+> END STRING
+
+> BEGIN STRING
+たちが一斉に\\N[1]のペニスをしゃぶり始めた！！
+> CONTEXT: Skills/806/message1
+ all suck on \\N[1]'s penis at the same time!!
+> END STRING
+
+> BEGIN STRING
+仲間を呼ぶ
+> CONTEXT: Skills/807/name
+Call a Friend
+> END STRING
+
+> BEGIN STRING
+は嬉しそうに仲間を呼んだ！！
+> CONTEXT: Skills/807/message1
+ happily invited a friend!!#Triketos
+> END STRING
+
+> BEGIN STRING
+貪欲の乳首しゃぶり
+> CONTEXT: Skills/808/name
+Greedy Nipple Suck#Triketos
+> END STRING
+
+> BEGIN STRING
+たちは\\N[1]の乳首に夢中でしゃぶりついた！
+> CONTEXT: Skills/808/message1
+ were absorbed in sucking \\N[1]'s nipples!#Triketos
+> END STRING
+
+> BEGIN STRING
+落下
+> CONTEXT: Skills/809/name
+Fall#Triketos
+> END STRING
+
+> BEGIN STRING
+は落下の衝撃で体勢を崩した！
+> CONTEXT: Skills/809/message1
+ feels the impact of the fall causing him to lose his balance!#Triketos
+> END STRING
+
+> BEGIN STRING
+母なる言葉
+> CONTEXT: Skills/810/name
+Mother's Words#Triketos
+> END STRING
+
+> BEGIN STRING
+は\\N[1]の頭の中に優しく呼びかけてきた
+> CONTEXT: Skills/810/message1
+ gently whispered into \\N[1]'s head.#Triketos
+> END STRING
+
+> BEGIN STRING
+ハーピーモドキの鉤爪が、\\N[1]を捕まえようと襲いかかった！
+> CONTEXT: Skills/811/message2
+> CONTEXT: Skills/827/message2
+The Beetle Harpies try to catch \\N[1] in their talons!#Triketos
+> END STRING
+
+> BEGIN STRING
+がハーピーモドキに号令をかけた！
+> CONTEXT: Skills/811/message1
+> CONTEXT: Skills/827/message1
+ orders the other Harpies to grab him!#Triketos
+> END STRING
+
+> BEGIN STRING
+\\N[1]はもう、クイーンのなすがままだ……
+> CONTEXT: Skills/812/message2
+\\N[1]'s is already at the Queen's mercy...#Triketos
+> END STRING
+
+> BEGIN STRING
+聖母の抱擁
+> CONTEXT: Skills/812/name
+Holy Mother's Embrace#Triketos
+> END STRING
+
+> BEGIN STRING
+は\\N[1]を抱きしめながら、頭をしゃぶっている…
+> CONTEXT: Skills/812/message1
+ sucks on \\N[1]'s head while hugging him...#Triketos
+> END STRING
+
+> BEGIN STRING
+もがけばもがくほど、気持ち良い心地になってゆく……
+> CONTEXT: Skills/813/message2
+The more you struggle, the more comfortable you feel...#Triketos
+> END STRING
+
+> BEGIN STRING
+乳房の揺り籠
+> CONTEXT: Skills/813/name
+Breast Cradle#Triketos
+> END STRING
+
+> BEGIN STRING
+は\\N[1]を乳房の揺り籠で可愛がった
+> CONTEXT: Skills/813/message1
+ loved Kazuya with a swaying breast...#GT
+> END STRING
+
+> BEGIN STRING
+\\N[1]はとうとう、手足も全く動かせなくなってしまった！
+> CONTEXT: Skills/815/message2
+\\N[1]'s hands and feet have finally been immobilized!#Triketos
+> END STRING
+
+> BEGIN STRING
+母の撫手
+> CONTEXT: Skills/815/name
+Holy Mother's Caress#Triketos
+> END STRING
+
+> BEGIN STRING
+の触手が更に伸び、執拗に絡みついてくる…
+> CONTEXT: Skills/815/message1
+The tentacles grow further, relentlessly coiling around...#Triketos
+> END STRING
+
+> BEGIN STRING
+抗いがたい快楽が全身を駆け巡る……！
+> CONTEXT: Skills/816/message2
+The irresistible pleasure runs through your body......!#Triketos
+> END STRING
+
+> BEGIN STRING
+全てを許す浄化の手
+> CONTEXT: Skills/816/name
+Purifying Touch#Triketos
+> END STRING
+
+> BEGIN STRING
+の触手が容赦なく身体中に襲いかかった！
+> CONTEXT: Skills/816/message1
+The tentacles relentlessly attack your entire body!#Triketos
+> END STRING
+
+> BEGIN STRING
+\\C[10]ハーピーモドキに犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、ダメージが２０％増加する。
+> CONTEXT: Skills/817/description
+\\C[10]The pleasure of being raped by Beetle Harpy sticks in your mind.
+Increases damage taken from this monster by 20%.#Triketos
+> END STRING
+
+> BEGIN STRING
+【ハーピーモドキの餌食】Lv1
+> CONTEXT: Skills/817/name
+【Beetle Harpy's Prey】Lv1#Triketos
+> END STRING
+
+> BEGIN STRING
+\\C[10]ハーピーモドキに犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、勝手に毎ターン性欲が５％上昇する。
+> CONTEXT: Skills/818/description
+\\C[10]The pleasure of being raped by Beetle Harpy sticks in your mind.
+Increases lust 5% every turn when fighting this monster.#Triketos
+> END STRING
+
+> BEGIN STRING
+【ハーピーモドキの餌食】Lv2
+> CONTEXT: Skills/818/name
+【Beetle Harpy's Prey】Lv2#Triketos
+> END STRING
+
+> BEGIN STRING
+\\C[10]ハーピーモドキに犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、最大抵抗力が８０％になる。
+> CONTEXT: Skills/819/description
+\\C[10]The pleasure of being raped by Beetle Harpy sticks in your mind.
+Maximum willpower reduced to 80% when fighting this monster.#Triketos
+> END STRING
+
+> BEGIN STRING
+【ハーピーモドキの餌食】Lv3
+> CONTEXT: Skills/819/name
+【Beetle Harpy's Prey】Lv3#Triketos
+> END STRING
+
+> BEGIN STRING
+\\C[10]ハーピーモドキに犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、最大気力が８０％になる。
+> CONTEXT: Skills/820/description
+\\C[10]The pleasure of being raped by Beetle Harpy sticks in your mind.
+Maximum vitality reduced to 80% when fighting this monster.#Triketos
+> END STRING
+
+> BEGIN STRING
+【ハーピーモドキの餌食】Lv4
+> CONTEXT: Skills/820/name
+【Beetle Harpy's Prey】Lv4#Triketos
+> END STRING
+
+> BEGIN STRING
+\\C[10]ハーピーモドキに犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、特殊アクシデント戦闘が発生する事がある。
+> CONTEXT: Skills/821/description
+\\C[10]The pleasure of being raped by Beetle Harpy sticks in your mind.
+Special accident battles can occur against this monster.#Triketos
+> END STRING
+
+> BEGIN STRING
+【ハーピーモドキの餌食】LvMAX
+> CONTEXT: Skills/821/name
+【Beetle Harpy's Prey】LvMAX#Triketos
+> END STRING
+
+> BEGIN STRING
+\\C[10]クイーンに犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、ダメージが２０％増加する。
+> CONTEXT: Skills/822/description
+\\C[10]The pleasure given by the Queen sticks in your mind.
+Increases damage taken from this monster by 20%.#Triketos
+> END STRING
+
+> BEGIN STRING
+【クイーンの信者】Lv1
+> CONTEXT: Skills/822/name
+【Queen's Follower】Lv1#Triketos
+> END STRING
+
+> BEGIN STRING
+\\C[10]クイーンに犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、勝手に毎ターン性欲が５％上昇する。
+> CONTEXT: Skills/823/description
+\\C[10]The pleasure given by the Queen sticks in your mind.
+Increases lust 5% every turn when fighting this monster.#Triketos
+> END STRING
+
+> BEGIN STRING
+【クイーンの信者】Lv2
+> CONTEXT: Skills/823/name
+【Queen's Follower】Lv2#Triketos
+> END STRING
+
+> BEGIN STRING
+\\C[10]クイーンに犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、最大抵抗力が８０％になる。
+> CONTEXT: Skills/824/description
+\\C[10]The pleasure given by the Queen sticks in your mind.
+Maximum willpower reduced to 80% when fighting this monster.#Triketos
+> END STRING
+
+> BEGIN STRING
+【クイーンの信者】Lv3
+> CONTEXT: Skills/824/name
+【Queen's Follower】Lv3#Triketos
+> END STRING
+
+> BEGIN STRING
+\\C[10]クイーンに犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、最大気力が８０％になる。
+> CONTEXT: Skills/825/description
+\\C[10]The pleasure given by the Queen sticks in your mind.
+Maximum vitality reduced to 80% when fighting this monster.#Triketos
+> END STRING
+
+> BEGIN STRING
+【クイーンの信者】Lv4
+> CONTEXT: Skills/825/name
+【Queen's Follower】Lv4#Triketos
+> END STRING
+
+> BEGIN STRING
+\\C[10]クイーンに犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、特殊アクシデント戦闘が発生する事がある。
+> CONTEXT: Skills/826/description
+\\C[10]The pleasure given by the Queen sticks in your mind.
+Special accident battles can occur against this monster.#Triketos
+> END STRING
+
+> BEGIN STRING
+【クイーンの信者】LvMAX
+> CONTEXT: Skills/826/name
+【Queen's Follower】LvMAX#Triketos
+> END STRING
+

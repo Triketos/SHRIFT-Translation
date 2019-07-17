@@ -1,0 +1,39 @@
+﻿> GAIJINIZER PATCH FILE
+> BEGIN STRING
+この先に強大な悪魔の気配がする……
+
+先に進みますか？
+> CONTEXT: Map303/events/29/pages/0/2/Dialogue 
+> CONTEXT: Map303/events/1/pages/0/2/Dialogue 
+> CONTEXT: Map303/events/2/pages/0/2/Dialogue 
+There is a sign of a mighty demon ahead......
+Do you want to proceed?#GT
+> END STRING
+
+> BEGIN STRING
+先に進む
+> CONTEXT: Map303/events/29/pages/0/6/Choice/0 
+> CONTEXT: Map303/events/1/pages/0/6/Choice/0 
+> CONTEXT: Map303/events/2/pages/0/6/Choice/0 
+Go ahead#GT
+> END STRING
+
+> BEGIN STRING
+まだ準備する
+> CONTEXT: Map303/events/29/pages/0/6/Choice/1 
+> CONTEXT: Map303/events/1/pages/0/6/Choice/1 
+> CONTEXT: Map303/events/2/pages/0/6/Choice/1 
+Not ready yet#GT
+> END STRING
+
+> BEGIN STRING
+この先にハーピーモドキ・クイーンが居るヨ。
+
+おそらく、戦闘力だけならかなりの強敵だから
+準備は怠らないようにね。
+> CONTEXT: Map303/events/6/pages/0/0/Dialogue/hyakki 
+There is a Beetle Harpy queen in the future.
+Perhaps, because it is a considerable enemy
+if only the combat power, do not
+neglect preparations.#GT
+> END STRING
