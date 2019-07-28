@@ -193,7 +193,7 @@ What?!? What are you!? Where'd you come from?#Ron
 俺も『悪魔』ってやつだよ。どっから出てきたって勝手だろ
 > CONTEXT: Troops/2/pages/2/17/Dialogue/other1
 What a rude guy you are.
-I'm a demon too. Where'd I come from? Where ever
+I'm a demon too. Where'd I come from? Wherever
 I feel like coming from.#Ron
 > END STRING
 
@@ -458,7 +458,7 @@ Like I'd be interested in that thing...!!#Ron
 > CONTEXT: Troops/2/pages/5/26/Dialogue/other1
 Now, now, don't be embarrassed.
 It's only natural you'd feel that way. \\C[2]Their
-body is designed to tempt you.\\C[0].#Ron
+body is designed to tempt you.\\C[0]#Ron
 > END STRING
 
 > BEGIN STRING
@@ -468,7 +468,7 @@ body is designed to tempt you.\\C[0].#Ron
 > CONTEXT: Troops/2/pages/5/30/Dialogue/other1
 If you've got your clothes off and you're
 thinking "Oh man I can't hold back", \\C[2]you can
-jump her bones with the "submit" command.#Ron
+jump her bones with the "Submit" command.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1380,7 +1380,7 @@ Now then, I'll start the tutorial.#Ron
 『\\C[20]抵抗力\\C[0]』『\\C[23]気力\\C[0]』『\\C[27]性欲\\C[0]』が表示されています。
 > CONTEXT: Troops/19/pages/0/8/Dialogue/other1
 Please look at the bottom of the screen.
-\\C[20]Willpower\\C[0], \\C[23] Vitality\\C[0], and \\C[27]Lust\\C[0] are displayed.#Ron
+\\C[20]Willpower\\C[0], \\C[23]Vitality\\C[0], and \\C[27]Lust\\C[0] are displayed.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1399,8 +1399,8 @@ out actions.#Ron
 \\C[2]極端な話、０になっても死にはしません。
 > CONTEXT: Troops/19/pages/0/16/Dialogue/other1
 It will be disadvantageous if both are reduced.
-\\C[2]Though worst case, you will not die even 
-if they're reduced to zero.#Ron
+\\C[2]Though even in the worst case, you will not
+die even if they're both reduced to zero.#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -1408,9 +1408,9 @@ if they're reduced to zero.#Ron
 
 これは基本的に\\C[2]抵抗力が減る攻撃を受けると増加します。
 > CONTEXT: Troops/19/pages/0/20/Dialogue/other1
-The problem is"\\C[27] lust\\C[0] ] Bar.
-This is basically\\C[2] Decreases willpower will
-increase when it receives an Attack.#MTLed
+The problem is the\\C[27] Lust\\C[0] Bar.
+Basically, it will \\C[2]increase
+as your Willpower takes damage.#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -1429,7 +1429,7 @@ back. \\C[1]You will ejaculate.#Ron
 > CONTEXT: Troops/19/pages/0/28/Dialogue/other1
 This symbol, \\I[1557]\\C[2] milking state\\C[0], means you are being
 fucked or semen squeezed by an opponent. If you
-fall into this state, it's \\C[18]Game over\\C[0].#Ron
+fall into this state, it's \\C[18]Game Over\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1457,8 +1457,8 @@ accumulating \\C[27]Lust\\C[0].#Ron
 
 それでは次に、基本的なスキルを解説していきましょう。
 > CONTEXT: Troops/19/pages/0/40/Dialogue/other1
-Did you understand so far? Next, let's explain
-the basic skills.#MTLed
+Do you understand everything so far? Next,
+let's explain the basic skills.#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -1473,9 +1473,9 @@ you need in order to take actions.#Ron
 
 『行動』コマンドの中にある\\C[2]「\\I[1034]深呼吸」\\C[0]を選んでください
 > CONTEXT: Troops/19/pages/0/46/Dialogue/other1
-Command of\\C[2]「cancel」\\C[0]Or
-In the 'action' command\\C[2]「\\I[1034] Deep breathing」\\C[0]Please
-choose#MTLed
+Please choose \\C[2]「\\I[1034] Deep Breathing」\\C[0]
+in the "Action" menu, or choose
+\\C[2]"Rest"\\C[0].#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -1503,7 +1503,8 @@ suppresses \\C[27]Lust\\C[0] at the same time.\\C[0]#Ron
 > CONTEXT: Troops/19/pages/1/14/Dialogue/other1
 However, certain situations will hinder
 Concentrate or make it counterproductive...\\C[2]
-For example, when being pushed down by an opponent.#Ron
+For example, when being pushed down
+by an opponent.#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -1513,7 +1514,7 @@ For example, when being pushed down by an opponent.#Ron
 > CONTEXT: Troops/19/pages/1/23/Dialogue/other1
 Well, next I will explain the "Struggle"
 skill. This will be hard to understand if there's
-no opponent to fight ....#Ron
+no opponent to fight....#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1538,8 +1539,9 @@ this is a tutorial after all.#Ron
 
 もっとも、この子が『抵抗』しなかったら、話は別だけど？
 > CONTEXT: Troops/19/pages/1/35/Dialogue/enemy
-I understand that. However, if this child does
-not "struggle", the story is different?#MTLed
+I know, I know~♡
+But things might go differently if this boy
+doesn't choose to "Struggle".#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -1558,7 +1560,7 @@ will attack for\\C[2] all sorts of reasons.#RonIffy
 > CONTEXT: Troops/19/pages/1/43/Dialogue/other1
 Your opponents are entities with inhuman powers...
 You cannot survive unless you choose the right
-"struggle".#Ron
+"Struggle".#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1566,7 +1568,7 @@ You cannot survive unless you choose the right
 
 大きく分ければ２種に分類されます。
 > CONTEXT: Troops/19/pages/1/48/Dialogue/other1
-There are 4 "struggle" skills in all.
+There are 4 "Struggle" skills in all.
 They can be broadly classified into two different
 types.#Ron
 > END STRING
@@ -1587,9 +1589,9 @@ body part has been bound by your opponent.#Ron
 
 解除しますが、\\C[2]手や足を拘束されていると使えません。
 > CONTEXT: Troops/19/pages/1/56/Dialogue/other1
-"Kick Off" and "Shake Off" will reliably free you
-but there is a caveat, \\C[2]you cannot use them if
-your hands and feet are both bound.#Ron
+"Kick Off" and "Shake Off" will reliably free you.
+There is a catch, though: \\C[2]you cannot use them if
+your hands and feet are both bound.#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -1613,7 +1615,7 @@ what happens after I do this anyway weren't you?#Ron
 > BEGIN STRING
 適切な『抵抗』スキルを使用して、切り抜けてみてください。
 > CONTEXT: Troops/19/pages/1/73/Dialogue/other1
-Try using the appropriate "struggle" skill.#Ron
+Try using the appropriate "Struggle" skill.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1705,7 +1707,7 @@ him, I think he needs this kind of practice. ♡#Ron
 > CONTEXT: Troops/19/pages/2/21/Dialogue/other1
 ......There's nothing for it I suppose. Then 
 please try to find your way out of this
-situation using the "struggle" skill.#Ron
+situation using the "Struggle" skill.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1732,7 +1734,9 @@ you too much.#Ron
 
 いっぱいチュウチュウさせてもらったよぉ♡
 > CONTEXT: Troops/19/pages/3/17/Dialogue/enemy
-Ahaha, that was a real treat, I got lots of kisses.#Ron
+Ahaha, that was a real treat...
+
+I got a lot of kisses♡#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -1750,7 +1754,7 @@ I'll play with you more next time we meet. ♡#Ron
 ともあれ、無事に『抵抗』スキルを使いこなせたようですね。
 > CONTEXT: Troops/19/pages/3/29/Dialogue/other1
 Good grief...... Anyway, you seem to have been
-able to master the "struggle" skills successfully.#Ron
+able to master the "Struggle" skills successfully.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1767,8 +1771,8 @@ to tell you another important thing.#Ron
 
 おそらく、さっきのランパスの花粉を吸ったせいです。
 > CONTEXT: Troops/19/pages/3/37/Dialogue/other1
-Right now you probably have the "\\I[122] Ecstasy" bad
-status. It's probably because you inhaled that
+Right now you probably have the "\\I[122] Ecstasy"
+debuff. It's probably because you inhaled that
 Lampas pollen from just before.#Ron
 > END STRING
 
@@ -1779,7 +1783,7 @@ Lampas pollen from just before.#Ron
 > CONTEXT: Troops/19/pages/3/42/Dialogue/other1
 \\C[2]\\I[122] Ecstasy levels can stack up.
 Its effects get worse as it stacks, it's a very
-dangerous bad status.#Ron
+dangerous debuff.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1827,7 +1831,7 @@ bind and bad status attacks in a variety of ways.#Ron
 
 執拗に状態異常を重ね、追い詰めてくるでしょう。
 > CONTEXT: Troops/19/pages/4/11/Dialogue/other1
-Sometimes, as if to ridicule your struggle
+Sometimes, as if to ridicule your struggling
 they will relentlessly stack bad status effects
 and try to corner you.#Ron
 > END STRING

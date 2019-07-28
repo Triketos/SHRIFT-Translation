@@ -17,7 +17,7 @@ Can you hear me?」#Ron
 > CONTEXT: Map021/events/2/pages/0/3/Dialogue/kazuya
 Oh, it's clearer than before.
 Could you quickly explain this all to me, my 
-head's still mixed up from before.#Ron
+head's still mixed up....#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -83,8 +83,6 @@ Five whole years!?#Ron
 裕真「あの事故の日から間もなくして、世界も大きく変わった
 　　ほどなくして、『悪魔』との戦争が始まったんだ。」
 > CONTEXT: Map006/events/2/pages/0/24/Dialogue
-Yuuma「After the day of the accident, the world changed a lot. 
-The war with 『demons』 began.」#Aesthetic
 > CONTEXT: Map006/events/2/pages/1/24/Dialogue
 Yuuma「Soon after the day of the accident, the world also
 changed massively. The war with the "demons" began.」#Ron
@@ -96,8 +94,9 @@ changed massively. The war with the "demons" began.」#Ron
 > CONTEXT: Map006/events/2/pages/0/27/Dialogue
 > CONTEXT: Map006/events/2/pages/1/27/Dialogue
 > CONTEXT: Map021/events/2/pages/0/27/Dialogue
-Yuuma「Mankind was dominant at first, but was gradually pushed
-back. That district was occupied recently by demons.」#Ron
+Yuuma「Mankind was dominant at first, but was gradually
+pushed back. That district was occupied recently
+by demons.」#Ron
 > END STRING
 
 > BEGIN STRING
@@ -116,9 +115,6 @@ the underground shelter.」#Ron
 　　どうやらお前が何かしらの拍子に意識を取り戻したのを確認して
 　　機械が自動的に解凍してしまったんだろう。」
 > CONTEXT: Map006/events/2/pages/0/33/Dialogue
-Yuuma「I originally set up the cryogenic stasis for a long 
-period of time. If it detected you regained consciousness, 
-the machine would open automatically.」#Aesthetic
 > CONTEXT: Map006/events/2/pages/1/33/Dialogue
 Yuuma「It was supposed to be set up for long-term 
 cryogenic stasis. The machine you were in must have
@@ -144,7 +140,7 @@ stranded here in this zone?#Ron
 > CONTEXT: Map006/events/2/pages/0/40/Dialogue
 > CONTEXT: Map006/events/2/pages/1/40/Dialogue
 Yuuma「To put it simply, yeah pretty much.
-But barghests invaded there a little while ago.
+But Barghests invaded there a little while ago.
 You'll need to be guided to a safe place.」#Ron
 > END STRING
 
@@ -864,10 +860,10 @@ If it recovers it might attack again.#Aesthetic
 
 \\C[0]まぁ、そのうち分かるだろうさ。
 > CONTEXT: Map006/events/3/pages/1/72/Dialogue/other1
-Well,\\C[2]It's not like those guys come at you with the
-intent to kill. If you're gentle, maybe they'll
-respond to some extent. \\C[0]Well, you'll understand
-eventually.#Aesthetic
+Well,\\C[2]It's not like those guys come at you
+with the intent to kill. If you're gentle, maybe
+they'll respond to some extent. \\C[0]Well, you'll
+understand eventually.#Aesthetic
 > END STRING
 
 > BEGIN STRING
@@ -876,8 +872,8 @@ eventually.#Aesthetic
 まぁ、今後のことを考えれば始末しておいた方がいいけどよ。
 > CONTEXT: Map006/events/3/pages/1/79/Dialogue/other1
 ...Brutal. 
-Well, if we're thinking about the future, it'll be easier
-to finish them off.#Aesthetic
+Well, if we're thinking about the future, it'll
+be easier to finish them off.#Aesthetic
 > END STRING
 
 > BEGIN STRING
@@ -895,7 +891,8 @@ But don't forget.
 あの悪魔、お前の銃撃でどっか傷ついたり血出てたりしたか？
 > CONTEXT: Map006/events/3/pages/1/89/Dialogue/other1
 More importantly, did you notice?
-That demon, didn't bleed or get hurt with your shot right?#Aesthetic
+That demon didn't bleed or get hurt
+from your fire, did it?#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -914,8 +911,8 @@ instead.#Ron
 今の銃も、鉛玉を撃ち出す物理的な道具じゃなくなった。
 > CONTEXT: Map006/events/3/pages/1/97/Dialogue/other1
 A lot's changed in the 5 years you've been asleep.
-The gun you're using isn't a physical tool that shoots
-out a lead ball.#Aesthetic
+The gun you're using isn't a physical tool
+that shoots out a lead ball.#Aesthetic
 > END STRING
 
 > BEGIN STRING
@@ -924,7 +921,8 @@ out a lead ball.#Aesthetic
 いったい何者なんだよ！？
 > CONTEXT: Map006/events/3/pages/1/101/Dialogue/kazuya
 Wa!Wait a minute!! 
-From a little while ago, you've been talking like you know everything...
+From a little while ago, you've been talking like
+you know everything...
 Who the hell are you!?#Aesthetic
 > END STRING
 
@@ -934,7 +932,7 @@ Who the hell are you!?#Aesthetic
 まぁ、また近いうちに会えるさ。
 > CONTEXT: Map006/events/3/pages/1/105/Dialogue/other1
 ...That's true. We've talked too much.
-Well, we will be able to meet again soon.#Aesthetic
+Well, we'll be able to meet again soon.#Aesthetic
 > END STRING
 
 > BEGIN STRING
@@ -943,13 +941,13 @@ Well, we will be able to meet again soon.#Aesthetic
 犯られんじゃねぇぞ？
 > CONTEXT: Map006/events/3/pages/1/109/Dialogue/other1
 Until then,\\C[2]Save frequently?\\C[0]
-Wait...you cannot be killed can you?#Aesthetic
+Wait... you can't be killed can you?#Aesthetic
 > END STRING
 
 > BEGIN STRING
 お、おい！！！
 > CONTEXT: Map006/events/3/pages/1/114/Dialogue/kazuya
-Hey,HEY!!!#Aesthetic
+Hey, HEY!!!#Aesthetic
 > END STRING
 
 > BEGIN STRING
@@ -1025,9 +1023,10 @@ A Researcher's Scribblings#Ron
 
 俺は………恐らく時間の問題だと思う。
 > CONTEXT: Map006/events/5/pages/1/6/Dialogue
-It seems like this underground shelter was noticed by the demons
-I want to isolate and hide just this partition of the ward.
-I...I think it's probably just a matter of time.#Aesthetic
+It seems the demons sensed the location of this 
+underground shelter. I'd like to completely isolate
+and conceal this hospital section but...
+I guess it's probably just a matter of time.#Ron
 > END STRING
 
 > BEGIN STRING
