@@ -119,7 +119,7 @@ noticed.」#MTLed
 > BEGIN STRING
 "Chapter1-1　バーゲスト戦"
 > CONTEXT: Map005/events/10/pages/1/2/InlineScript/1:24
-"Chapter1-1Battle against barghest"#Aesthetic
+"Chapter1-1 Battle against Barghest"#Aesthetic
 > END STRING
 
 > BEGIN STRING
@@ -146,7 +146,8 @@ balance and clambered on top of me.#Ron
 　　　　　　　　　　僕は拍子に銃を放り投げてしまったのだ！
 > CONTEXT: Map005/events/10/pages/1/33/Dialogue
 > CONTEXT: Map020/events/10/pages/1/30/Dialogue
-And the worst thing is. I threw a gun to the beat!#MTLed
+And worst of all.
+I accidently threw my gun off somewhere!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -196,8 +197,8 @@ Hahhh...! Hahhh...!! Wh- what was that just now?#Ron
 　　　　　　　　　　　僕の身体の異変は収まっていた
 > CONTEXT: Map005/events/10/pages/1/65/Dialogue
 > CONTEXT: Map020/events/10/pages/1/59/Dialogue
-While keeping a breath. My physical abnormality has settled
-down#MTLed
+The abnormality in my body subsided as I steadied my
+breathing.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -502,7 +503,7 @@ What on earth happened?#Ron
 > CONTEXT: Map005/events/12/pages/2/17/Dialogue/kazuya
 > CONTEXT: Map020/events/10/pages/4/17/Dialogue/kazuya
 > CONTEXT: Map020/events/12/pages/1/17/Dialogue/kazuya
-There was one of those barghest demons on the
+There was one of those Barghest demons on the
 other side of the door, it suddenly jumped on
 me. I managed somehow, but I guess it was kind
 of a close call...#Ron
@@ -546,7 +547,7 @@ talk after you get there.#Ron
 もう、区画全域に悪魔達が跋扈しているかもしれない。
 > CONTEXT: Map005/events/10/pages/4/33/Dialogue/yuuma
 > CONTEXT: Map020/events/10/pages/4/33/Dialogue/yuuma
-If barghests are over there, demons might be
+If Barghests are over there, demons might be
 spread all throughout that zone.#Ron
 > END STRING
 
@@ -671,9 +672,10 @@ shelter.#MTLed
 
 その先が警備エリア、そして次が居住エリアになる。
 > CONTEXT: Map005/events/13/pages/1/3/Dialogue/yuuma
-First, you should head for door in the left corner of this floor. 
-The destination is the security area. After that will 
-be the residential area.#Aesthetic
+First, you should head for the door in the left
+corner of this floor. Your destination will be
+the security area. After that will 
+be the living quarters.#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -681,9 +683,9 @@ be the residential area.#Aesthetic
 
 悪魔の進行は居住エリアの前で止めたはずだったんだが……。
 > CONTEXT: Map005/events/13/pages/1/7/Dialogue/yuuma
-The elevator we're aiming for is in the residential area.
-The demon's advance was supposed to stop in front
-of the residential area but...#Aesthetic
+The elevator we're aiming for is in the living
+quarters. The demon's advance was supposed to stop
+in front of there, but...#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -691,8 +693,9 @@ of the residential area but...#Aesthetic
 
 もうこの先は安全じゃない、ってことか…？
 > CONTEXT: Map005/events/13/pages/1/13/Dialogue/kazuya
-However, considering that demon, that barghest, came
-by a while ago, it is probably not safe in the next area.#Aesthetic
+However, considering that demon, that Barghest,
+came by a while ago, it is probably
+not safe over there...?#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -700,6 +703,7 @@ by a while ago, it is probably not safe in the next area.#Aesthetic
 
 慎重に進め、\\N[1]。
 > CONTEXT: Map005/events/13/pages/1/17/Dialogue/yuuma
-They usually don't flock together, but the possibility isn't 0. 
-Proceed with caution、\\N[1]。#Aesthetic
+They usually don't stick together in packs...
+but we can't be sure. 
+Proceed with caution, \\N[1].#Triketos
 > END STRING
