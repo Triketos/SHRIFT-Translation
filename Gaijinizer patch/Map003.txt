@@ -2430,8 +2430,8 @@ Do you wish to treat Titanoboa's mind corruption?#MTLed
 
 あなたに『お客様』 が会いに来られたようですね。
 > CONTEXT: Map003/events/2/pages/3/0/Dialogue/other1
-......It seems 
-A 『Customer』 has come to see you.#Aesthetic
+......It looks like a 『Visitor』 has
+come to see you.#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -2446,25 +2446,25 @@ It's this way...#Aesthetic
 > BEGIN STRING
 カマソッソif(v[33] \>= 1) 
 > CONTEXT: Map003/events/2/pages/5/355/Choice/0
-Camazotzif(v[33] \>= 1)#MTLed
+Camazotzif(v[33] \>= 1)#Triketos
 > END STRING
 
 > BEGIN STRING
 妲己if(v[34] \>= 1) 
 > CONTEXT: Map003/events/2/pages/5/355/Choice/1
-Daijiif(v[34] \>= 1)#MTLed
+Daijiif(v[34] \>= 1)#Triketos
 > END STRING
 
 > BEGIN STRING
 カマソッソの心蝕の治療を希望しますか？
 > CONTEXT: Map003/events/2/pages/5/359/Dialogue/other1
-Do you want to treat Camazotz's mind corruption?#MTLed
+Do you want to treat Camazotz's mind corruption?#Triketos
 > END STRING
 
 > BEGIN STRING
 妲己の心蝕の治療を希望しますか？
 > CONTEXT: Map003/events/2/pages/5/376/Dialogue/other1
-Do you wish to treat Daiji's mind corruption?#MTLed
+Do you wish to treat Daiji's mind corruption?#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -2474,7 +2474,7 @@ Do you wish to treat Daiji's mind corruption?#MTLed
 > CONTEXT: Map003/events/6/pages/0/0/Dialogue
 If you fall into this hole, you can return to your original
 world. But for now, I think it would be better to follow
-Meira.#MTLed
+Meira.#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -2483,7 +2483,7 @@ Meira.#MTLed
 …………………たぶんね。
 > CONTEXT: Map003/events/6/pages/0/4/Dialogue
 It's alright, she won't eat you. 
-.......probably.#Aesthetic
+.......Probably.#Aesthetic
 > END STRING
 
 > BEGIN STRING

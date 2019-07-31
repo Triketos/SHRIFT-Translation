@@ -45,7 +45,8 @@ Give a present#Dargoth
 > BEGIN STRING
 【バーゲスト】種族：魔獣
 > CONTEXT: Map019/events/5/pages/0/31/ChoiceHelp
-【Barghest】 tribe: Beast#MTLed
+【Barghest】 Tribe: Beast
+Current Friendship: \\C[2]\\v[41]\\C[0]#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -67,7 +68,7 @@ Give a present#Dargoth
 > CONTEXT: Map215/events/5/pages/0/40/ChoiceHelp
 > CONTEXT: Map216/events/5/pages/0/44/ChoiceHelp
 > CONTEXT: Map217/events/5/pages/0/47/ChoiceHelp
-conditions【\\C[2] Friendship degree 25 or more\\C[0] ]#MTLed
+Requires:【\\C[2] Friendship 25+\\C[0]】#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -141,7 +142,7 @@ a little while longer before returning.#afrg
 > CONTEXT: Map122/events/5/pages/0/75/ChoiceHelp
 > CONTEXT: Map215/events/5/pages/0/73/ChoiceHelp
 > CONTEXT: Map216/events/5/pages/0/77/ChoiceHelp
-conditions【\\C[2] Friendship degree 50 or more\\C[0] ]#MTLed
+Requires:【\\C[2] Friendship 50+\\C[0]】#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -269,7 +270,7 @@ Remove mind corruption if(v[41] \>= 100) #Dargoth
 > CONTEXT: Map122/events/5/pages/0/202/ChoiceHelp
 > CONTEXT: Map215/events/5/pages/0/210/ChoiceHelp
 > CONTEXT: Map216/events/5/pages/0/355/ChoiceHelp
-conditions【\\C[2] Friendship level 100\\C[0] ]#MTLed
+Requires:【\\C[2] Friendship 100\\C[0]】#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -370,7 +371,7 @@ About usual meal and preferenceen(v[41] \>= 80)#MTLed
 > CONTEXT: Map216/events/5/pages/1/9/ChoiceHelp
 > CONTEXT: Map217/events/5/pages/1/9/ChoiceHelp
 > CONTEXT: Map217/events/5/pages/2/9/ChoiceHelp
-conditions【\\C[2] Degree of friendship over 30\\C[0] ]#MTLed
+Requires【\\C[2] Friendship 30+\\C[0]】#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -1581,7 +1582,7 @@ By receiving the engagement ring. \\C[2]Engaged with barghest!#MTLed
 > BEGIN STRING
 ワウッ！♡
 > CONTEXT: Map019/events/7/pages/0/7/Dialogue/バーゲスト2
-Waoof!Moth#MTLed
+Woof!♡#Triketos
 > END STRING
 
 > BEGIN STRING

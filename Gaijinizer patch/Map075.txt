@@ -338,51 +338,6 @@ Place of discovery: The company of production#MTLed
 > END STRING
 
 > BEGIN STRING
-投影結界、展開完了。
-
-対象者の精神を分離します。
-> CONTEXT: Map075/events/4/pages/1/27/Dialogue
-> CONTEXT: Map075/events/4/pages/1/86/Dialogue
-> CONTEXT: Map075/events/4/pages/1/129/Dialogue
-> CONTEXT: Map075/events/4/pages/1/175/Dialogue
-> CONTEXT: Map075/events/4/pages/1/221/Dialogue
-> CONTEXT: Map075/events/4/pages/1/268/Dialogue
-> CONTEXT: Map075/events/4/pages/1/314/Dialogue
-> CONTEXT: Map075/events/4/pages/1/359/Dialogue
-> CONTEXT: Map075/events/4/pages/1/404/Dialogue
-> CONTEXT: Map075/events/4/pages/1/449/Dialogue
-> CONTEXT: Map075/events/4/pages/1/495/Dialogue
-> CONTEXT: Map075/events/4/pages/1/551/Dialogue
-> CONTEXT: Map075/events/4/pages/1/607/Dialogue
-> CONTEXT: Map075/events/4/pages/1/652/Dialogue
-> CONTEXT: Map075/events/4/pages/2/27/Dialogue
-> CONTEXT: Map075/events/4/pages/2/86/Dialogue
-> CONTEXT: Map075/events/4/pages/2/129/Dialogue
-> CONTEXT: Map075/events/4/pages/2/175/Dialogue
-> CONTEXT: Map075/events/4/pages/2/221/Dialogue
-> CONTEXT: Map075/events/4/pages/2/268/Dialogue
-> CONTEXT: Map075/events/4/pages/2/314/Dialogue
-> CONTEXT: Map075/events/4/pages/2/359/Dialogue
-> CONTEXT: Map075/events/4/pages/2/404/Dialogue
-> CONTEXT: Map075/events/4/pages/2/449/Dialogue
-> CONTEXT: Map075/events/4/pages/2/495/Dialogue
-> CONTEXT: Map075/events/4/pages/2/551/Dialogue
-> CONTEXT: Map075/events/4/pages/2/607/Dialogue
-> CONTEXT: Map075/events/4/pages/2/652/Dialogue
-> CONTEXT: Map094/events/1/pages/0/103/Dialogue
-> CONTEXT: Map094/events/4/pages/1/27/Dialogue
-> CONTEXT: Map094/events/4/pages/1/87/Dialogue
-> CONTEXT: Map094/events/4/pages/1/134/Dialogue
-> CONTEXT: Map094/events/4/pages/1/180/Dialogue
-> CONTEXT: Map094/events/4/pages/1/225/Dialogue
-> CONTEXT: Map094/events/4/pages/1/270/Dialogue
-> CONTEXT: Map094/events/4/pages/1/315/Dialogue
-> CONTEXT: Map094/events/4/pages/1/371/Dialogue
-Projected boundaries, deployment complete.
-Separate the subject's spirit.#MTLed
-> END STRING
-
-> BEGIN STRING
 どうやら、真実が見えてきた……
 
 \\C[2]どうにかこの事を躯に伝えられればいいのだが…
@@ -607,8 +562,10 @@ Memento (plant dream)if(s[369])#MTLed
 発見場所　　：ピンクベッド
 > CONTEXT: Map075/events/4/pages/1/478/ChoiceHelp
 > CONTEXT: Map075/events/4/pages/1/534/ChoiceHelp
+> CONTEXT: Map075/events/4/pages/1/590/ChoiceHelp
 > CONTEXT: Map075/events/4/pages/2/478/ChoiceHelp
 > CONTEXT: Map075/events/4/pages/2/534/ChoiceHelp
+> CONTEXT: Map075/events/4/pages/2/590/ChoiceHelp
 > CONTEXT: Map094/events/4/pages/1/298/ChoiceHelp
 > CONTEXT: Map094/events/4/pages/1/354/ChoiceHelp
 Place of discovery: Pink bed#MTLed
@@ -642,40 +599,56 @@ Memento (cat dream)if(s[370])#MTLed
 > END STRING
 
 > BEGIN STRING
-想ひ魂（朧）if(s[375])
+想ひ魂（夢人魚）if(s[377])
 > CONTEXT: Map075/events/4/pages/1/588/Choice/0
 > CONTEXT: Map075/events/4/pages/2/588/Choice/0
+Memento(Echo)if(s[377])#Triketos
+> END STRING
+
+> BEGIN STRING
+【想ひ魂（夢人魚）】
+この想ひ魂を投影しますか？
+> CONTEXT: Map075/events/4/pages/1/597/Dialogue
+> CONTEXT: Map075/events/4/pages/2/597/Dialogue
+【Memento(Echo)】
+Do you want to project this Memento?#Triketos
+> END STRING
+
+> BEGIN STRING
+想ひ魂（朧）if(s[375])
+> CONTEXT: Map075/events/4/pages/1/648/Choice/0
+> CONTEXT: Map075/events/4/pages/2/648/Choice/0
 Memento (朧)if(s[375])#MTLed
 > END STRING
 
 > BEGIN STRING
 発見場所　　：？？？
-> CONTEXT: Map075/events/4/pages/1/590/ChoiceHelp
-> CONTEXT: Map075/events/4/pages/1/635/ChoiceHelp
-> CONTEXT: Map075/events/4/pages/2/590/ChoiceHelp
-> CONTEXT: Map075/events/4/pages/2/635/ChoiceHelp
+> CONTEXT: Map075/events/4/pages/1/650/ChoiceHelp
+> CONTEXT: Map075/events/4/pages/1/695/ChoiceHelp
+> CONTEXT: Map075/events/4/pages/2/650/ChoiceHelp
+> CONTEXT: Map075/events/4/pages/2/695/ChoiceHelp
 Discovery location:???#MTLed
 > END STRING
 
 > BEGIN STRING
 【想ひ魂（朧）】
 この想ひ魂を投影しますか？
-> CONTEXT: Map075/events/4/pages/1/597/Dialogue
-> CONTEXT: Map075/events/4/pages/2/597/Dialogue
+> CONTEXT: Map075/events/4/pages/1/657/Dialogue
+> CONTEXT: Map075/events/4/pages/2/657/Dialogue
 【Memento (朧)】. Do you want to project this Memento?#MTLed
 > END STRING
 
 > BEGIN STRING
 想ひ魂（虚）if(s[376])
-> CONTEXT: Map075/events/4/pages/1/633/Choice/0
-> CONTEXT: Map075/events/4/pages/2/633/Choice/0
+> CONTEXT: Map075/events/4/pages/1/693/Choice/0
+> CONTEXT: Map075/events/4/pages/2/693/Choice/0
 Memento (Imaginary)if(s[376])#MTLed
 > END STRING
 
 > BEGIN STRING
 【想ひ魂（虚）】
 この想ひ魂を投影しますか？
-> CONTEXT: Map075/events/4/pages/1/642/Dialogue
-> CONTEXT: Map075/events/4/pages/2/642/Dialogue
+> CONTEXT: Map075/events/4/pages/1/702/Dialogue
+> CONTEXT: Map075/events/4/pages/2/702/Dialogue
 【Memento (虚)】. Do you want to project this Memento?#MTLed
 > END STRING

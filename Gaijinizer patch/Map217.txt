@@ -1216,62 +1216,70 @@ destiny of death itself.#MTLed
 
 > BEGIN STRING
 夜深についてif(s[375]) 
-> CONTEXT: Map217/events/5/pages/2/414/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Map217/events/5/pages/2/414/Choice/0
+About the nightif(s[375])#GT
 > END STRING
 
 > BEGIN STRING
 条件【\\C[2]想ひ魂【朧】を所持している\\C[0]】
-> CONTEXT: Map217/events/5/pages/2/416/ChoiceHelp < UNTRANSLATED
-
+> CONTEXT: Map217/events/5/pages/2/416/ChoiceHelp
+Condition 【\\C[2]\\C[0] possessing the soul [朧]】#GT
 > END STRING
 
 > BEGIN STRING
 夜深のことについて、まだ何か知りたいのかい？
-> CONTEXT: Map217/events/5/pages/2/421/Dialogue/hyakki < UNTRANSLATED
-
+> CONTEXT: Map217/events/5/pages/2/421/Dialogue/hyakki
+Do you still want to know anything
+about the night?#GT
 > END STRING
 
 > BEGIN STRING
 なぜ僕に？
-> CONTEXT: Map217/events/5/pages/2/423/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Map217/events/5/pages/2/423/Choice/0
+Why me?#Triketos
 > END STRING
 
 > BEGIN STRING
 暴走の原因
-> CONTEXT: Map217/events/5/pages/2/423/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Map217/events/5/pages/2/423/Choice/1
+Cause of runaway
 > END STRING
 
 > BEGIN STRING
 今の彼女は？
-> CONTEXT: Map217/events/5/pages/2/423/Choice/2 < UNTRANSLATED
-
+> CONTEXT: Map217/events/5/pages/2/423/Choice/2
+What is she now?#Triketos
 > END STRING
 
 > BEGIN STRING
 事情はよく分かったけど………
 
 なぜ彼女は、僕に接触してきたんだろう？
-> CONTEXT: Map217/events/5/pages/2/425/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map217/events/5/pages/2/425/Dialogue/kazuya
+I understand the circumstances well.........
 
+Why did she come in contact with me?#GT
 > END STRING
 
 > BEGIN STRING
  虚数空間って、結界を展開するのにも使われるんだろう？
 
  他にも接触する人はいたかもしれないのに……
-> CONTEXT: Map217/events/5/pages/2/429/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map217/events/5/pages/2/429/Dialogue/kazuya
+Is the imaginary space also used to develop the
+bounds? There might have been someone else in
+contact with me.#GT
 > END STRING
 
 > BEGIN STRING
 ああ……
 
 そういや一番重要なことを伝え忘れてたヨ。
-> CONTEXT: Map217/events/5/pages/2/434/Dialogue/hyakki < UNTRANSLATED
+> CONTEXT: Map217/events/5/pages/2/434/Dialogue/hyakki
+Oh……
 
+Oh, I forgot to tell you the most
+important thing.#GT
 > END STRING
 
 > BEGIN STRING
@@ -1279,16 +1287,21 @@ destiny of death itself.#MTLed
 
 『夜深の世界の\\N[1]』は、
 彼女の飼い主の人間だったのさ。
-> CONTEXT: Map217/events/5/pages/2/438/Dialogue/hyakki < UNTRANSLATED
+> CONTEXT: Map217/events/5/pages/2/438/Dialogue/hyakki
+\\N[1], you are......
 
+"The world at night \\N[1]" is
+It was a man of her owner.#GT
 > END STRING
 
 > BEGIN STRING
 はあっ！？
 
 ぼ、僕が…！？
-> CONTEXT: Map217/events/5/pages/2/444/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map217/events/5/pages/2/444/Dialogue/kazuya
+What!?
 
+I am...!?#GT
 > END STRING
 
 > BEGIN STRING
@@ -1296,8 +1309,11 @@ destiny of death itself.#MTLed
  彼女にエサをやってた男ってだけなんだけど……
 
 どういうわけか、その後に消息を絶っている。
-> CONTEXT: Map217/events/5/pages/2/448/Dialogue/hyakki < UNTRANSLATED
+> CONTEXT: Map217/events/5/pages/2/448/Dialogue/hyakki
+To be precise, it's just the guy who was feeding
+her for months before she was still demonized.
 
+Somehow, it has been lost since then.#GT
 > END STRING
 
 > BEGIN STRING
