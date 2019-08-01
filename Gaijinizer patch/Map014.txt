@@ -1071,7 +1071,9 @@ Don't let it get close!!#Ron
 > CONTEXT: Map014/events/33/pages/1/156/Dialogue/kazuya
 > CONTEXT: Map014/events/33/pages/2/148/Dialogue/kazuya
 > CONTEXT: Map026/events/1/pages/0/159/Dialogue/kazuya
-* pant * ...! It somehow...became ...#MTLed
+*wheeze*...! 
+
+Somehow... I won...#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -1081,9 +1083,9 @@ Don't let it get close!!#Ron
 > CONTEXT: Map014/events/33/pages/1/160/Dialogue/yuuma
 > CONTEXT: Map014/events/33/pages/2/152/Dialogue/yuuma
 > CONTEXT: Map026/events/1/pages/0/163/Dialogue/yuuma
-Was it safe again this time ...
-The radio will be cut off each time in battle, so
-I'm anxious.#MTLed
+Are you safe now...?
+I get so nervous everytime you get into a fight
+and the radio cuts off.#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -1093,8 +1095,9 @@ I'm anxious.#MTLed
 > CONTEXT: Map014/events/33/pages/1/166/Dialogue/yuuma
 > CONTEXT: Map014/events/33/pages/2/158/Dialogue/yuuma
 > CONTEXT: Map026/events/1/pages/0/169/Dialogue/yuuma
-What happened? \\N[1]. It seems that something is
-being considered ....#MTLed
+What happened, \\N[1]? 
+
+Is there something you're thinking about....?#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -1104,9 +1107,9 @@ being considered ....#MTLed
 > CONTEXT: Map014/events/33/pages/1/170/Dialogue/kazuya
 > CONTEXT: Map014/events/33/pages/2/162/Dialogue/kazuya
 > CONTEXT: Map026/events/1/pages/0/173/Dialogue/kazuya
-No ..... I mentioned the Iron Maiden guy ...
-Even though I could still afford it, I was very
-clean.#MTLed
+No..... That "Iron Maiden" just now...
+She seemed awfully nice for someone who's trying
+to kill me...#TriketosIffy
 > END STRING
 
 > BEGIN STRING
@@ -1116,9 +1119,9 @@ clean.#MTLed
 > CONTEXT: Map014/events/33/pages/1/174/Dialogue/kazuya
 > CONTEXT: Map014/events/33/pages/2/166/Dialogue/kazuya
 > CONTEXT: Map026/events/1/pages/0/177/Dialogue/kazuya
-When I tried to get me in, I was really crazy
-It feels like I didn't really want to attack me
-....#MTLed
+We she tried to capture me, she seemed so scary,
+but it felt like in her heart she didn't really
+want to attack me....#TriketosIffy
 > END STRING
 
 > BEGIN STRING
@@ -1128,9 +1131,9 @@ It feels like I didn't really want to attack me
 > CONTEXT: Map014/events/33/pages/1/178/Dialogue/yuuma
 > CONTEXT: Map014/events/33/pages/2/170/Dialogue/yuuma
 > CONTEXT: Map026/events/1/pages/0/181/Dialogue/yuuma
-Certainly it seemed to have left much more power
-.... Don't forget the first thing, the guy made a
-surprise on you.#MTLed
+It looked like she was holding back some of her
+power... Don't forget, she caught you completely
+by surprise with those tentacles....#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -1140,8 +1143,9 @@ surprise on you.#MTLed
 > CONTEXT: Map014/events/33/pages/1/182/Dialogue/yuuma
 > CONTEXT: Map014/events/33/pages/2/174/Dialogue/yuuma
 > CONTEXT: Map026/events/1/pages/0/185/Dialogue/yuuma
-If you really didn't want to attack you
-I wouldn't do that kind of jealousy.#MTLed
+If she really didn't want to attack you,
+she wouldn't have hit you with that surprise
+attack.#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -1151,7 +1155,9 @@ I wouldn't do that kind of jealousy.#MTLed
 > CONTEXT: Map014/events/33/pages/1/186/Dialogue/kazuya
 > CONTEXT: Map014/events/33/pages/2/178/Dialogue/kazuya
 > CONTEXT: Map026/events/1/pages/0/189/Dialogue/kazuya
-Really……. That's right.#MTLed
+I see....
+
+You're probably right....#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -1160,9 +1166,10 @@ Really……. That's right.#MTLed
 \\C[2]拾って『装備して』、さっきの部屋に戻ろう。
 > CONTEXT: Map014/events/33/pages/1/190/Dialogue/yuuma
 > CONTEXT: Map014/events/33/pages/2/182/Dialogue/yuuma
-Anyway, that lantern seems to be usable normally.
-\\C[2]pick it up "equipped", let's return to the room
-just before.#MTLed
+Anyway, it looks like you can use that lantern
+without any problems.
+\\C[2]Don't forget to equip it before you
+go back in that room.#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -1237,49 +1244,50 @@ interested in you...#Ron
 
 もうこっちから危害は加えないからさ、安心してよ。
 > CONTEXT: Map014/events/92/pages/1/20/Dialogue/enemy
-It wouldn't be a bad idea to understand my
-opponent better before we become one. ♡ 
-You can relax, I won't try to harm you anymore.#Ron
+It wouldn't be a bad idea to understand your
+opponents better before we become one. ♡ 
+You can relax, I won't try to harm you anymore.#Ron/Triketos
 > END STRING
 
 > BEGIN STRING
 まぁ、最終的には襲うんですけどねぇ♡
 > CONTEXT: Map014/events/92/pages/1/24/Dialogue/enemy
-Well, I will attack in the end though#MTLed
+You'll just have to wait a bit before I
+come after you~♡#Triketos
 > END STRING
 
 > BEGIN STRING
  何か聞きたいこととかある？
 > CONTEXT: Map014/events/92/pages/1/29/Dialogue/enemy
-Is there something I want to hear?#MTLed
+Do you have any questions you'd like to ask?#Triketos
 > END STRING
 
 > BEGIN STRING
 『心蝕』について
 > CONTEXT: Map014/events/92/pages/1/31/Choice/0
 > CONTEXT: Map018/events/7/pages/1/20/Choice/0
-About 'mind corruption'#MTLed
+About 『Mind Corruption』#Triketos
 > END STRING
 
 > BEGIN STRING
 戦闘での『選択肢』
 > CONTEXT: Map014/events/92/pages/1/31/Choice/1
 > CONTEXT: Map018/events/7/pages/1/20/Choice/1
-"Options" in battle#MTLed
+"Options" in battle#Triketos
 > END STRING
 
 > BEGIN STRING
 『友好度』について
 > CONTEXT: Map014/events/92/pages/1/31/Choice/2
 > CONTEXT: Map018/events/7/pages/1/20/Choice/2
-About "degree of friendship"#MTLed
+About 『Friendship』#Triketos
 > END STRING
 
 > BEGIN STRING
 『アクシデント戦闘』について
 > CONTEXT: Map014/events/92/pages/1/31/Choice/3
 > CONTEXT: Map018/events/7/pages/1/20/Choice/3
-About "Accident Battle"#MTLed
+About 『Accident Battles』#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -1438,9 +1446,9 @@ think they'll let it escape so easily.#Ron
 \\C[0]運に左右される、ってそういうことよ。
 > CONTEXT: Map014/events/92/pages/1/93/Dialogue/enemy
 > CONTEXT: Map018/events/7/pages/1/82/Dialogue/enemy
-\\C[2]Sometimes you'll escape first time, other
+\\C[2]Sometimes you'll escape the first time, other
 times you'll try over and over while getting 
-attacked. \\C[0]It's really all down to luck.#Ron
+attacked. \\C[0]It's really all down to luck.#Ron/Triketos
 > END STRING
 
 > BEGIN STRING
@@ -1656,10 +1664,10 @@ disadvantage.#Ron
 > CONTEXT: Map014/events/92/pages/1/178/Dialogue/enemy
 > CONTEXT: Map018/events/7/pages/1/167/Dialogue/enemy
 The probability of these events happening is
-influenced by your "Friendship level" and
-"Mind corruption". \\C[2]The higher your friendship
+influenced by your "Friendship Level" and
+"Mind Corruption". \\C[2]The higher your friendship
 level, the lower the probability. The higher
-your "Mind corruption", the higher the
+your "Mind Corruption", the higher the
 probability.#Ron
 > END STRING
 
@@ -1678,7 +1686,7 @@ careful.#Ron
 > BEGIN STRING
 『ルート心蝕』について
 > CONTEXT: Map014/events/92/pages/1/192/Choice/0
-About 'route dedication'#MTLed
+About 『Routes』#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -1708,7 +1716,9 @@ you're one step before now......#Ron
 
 \\C[10]『あなたが悪魔を殺している世界』も……
 > CONTEXT: Map014/events/92/pages/1/204/Dialogue/enemy
-And... Maybe also, \\C[10]a world where you kill demons#Ron
+And... Maybe also,
+
+\\C[10]a world where you kill demons...#Ron
 > END STRING
 
 > BEGIN STRING
