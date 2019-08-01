@@ -338,19 +338,19 @@ Foot Injury en(v[41] \>= 30) #Dargoth
 > BEGIN STRING
 バーゲストの知能についてen(v[41] \>= 40) 
 > CONTEXT: Map019/events/5/pages/1/5/Choice/1
-About barghest's intelligenceen(v[41] \>= 40)#MTLed
+About Barghest's Intelligenceen(v[41] \>= 40)#Triketos
 > END STRING
 
 > BEGIN STRING
 バーゲストの目的en(v[41] \>= 60) 
 > CONTEXT: Map019/events/5/pages/1/5/Choice/2
-barghest's purposeen(v[41] \>= 60)#MTLed
+Barghest's Purposeen(v[41] \>= 60)#Triketos
 > END STRING
 
 > BEGIN STRING
 普段の食事と好みについてen(v[41] \>= 80) 
 > CONTEXT: Map019/events/5/pages/1/5/Choice/3
-About usual meal and preferenceen(v[41] \>= 80)#MTLed
+What Do You Eat?en(v[41] \>= 80)#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -519,7 +519,7 @@ No... rubbing my crotch!#Ron
 > CONTEXT: Map122/events/5/pages/1/115/ChoiceHelp
 > CONTEXT: Map215/events/5/pages/1/144/ChoiceHelp
 > CONTEXT: Map216/events/5/pages/1/141/ChoiceHelp
-conditions【\\C[2] Degree of friendship 40 or more\\C[0] ]#MTLed
+Requires:【\\C[2] Friendship 40+\\C[0]】#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -693,7 +693,7 @@ use!!!#RonIffy
 > CONTEXT: Map216/events/5/pages/1/241/ChoiceHelp
 > CONTEXT: Map217/events/5/pages/1/133/ChoiceHelp
 > CONTEXT: Map217/events/5/pages/2/133/ChoiceHelp
-conditions【\\C[2] Degree of friendship 60 or more\\C[0] ]#MTLed
+Requires:【\\C[2] Friendship 60+\\C[0]】#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -831,7 +831,7 @@ this barghest.#Ron
 > CONTEXT: Map216/events/5/pages/0/180/ChoiceHelp
 > CONTEXT: Map216/events/5/pages/0/213/ChoiceHelp
 > CONTEXT: Map217/events/5/pages/0/80/ChoiceHelp
-conditions【\\C[2] Degree of friendship 80 or more\\C[0] ]#MTLed
+Requires:【\\C[2] Friendship 80+\\C[0]】#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -1061,7 +1061,7 @@ Bonding Event if(v[41] \>= 99) #Dargoth
 > CONTEXT: Map215/events/5/pages/1/559/ChoiceHelp
 > CONTEXT: Map216/events/5/pages/1/369/ChoiceHelp
 > CONTEXT: Map217/events/5/pages/1/416/ChoiceHelp
-conditions【\\C[2] Friendship degree 99 or more\\C[0] ]#MTLed
+Requires:【\\C[2] Friendship 99+\\C[0]】#Triketos
 > END STRING
 
 > BEGIN STRING
