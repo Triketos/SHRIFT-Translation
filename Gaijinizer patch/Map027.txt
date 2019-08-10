@@ -73,14 +73,15 @@ Milking (Embrace) en(v[43] \>=75) #Dargoth
 > BEGIN STRING
 【ランパス】種族：妖魔
 > CONTEXT: Map027/events/5/pages/0/57/ChoiceHelp
-【Lampas】 Tribe: monster#MTLed
+【Lampas】 Tribe: Demon
+Current Friendship: \\C[2]\\v[43]\\C[0]#Triketos
 > END STRING
 
 > BEGIN STRING
 条件【\\C[2]友好度７５以上\\C[0]】
 > CONTEXT: Map027/events/5/pages/0/131/ChoiceHelp
 > CONTEXT: Map070/events/9/pages/0/135/ChoiceHelp
-conditions【\\C[2] Friendship degree 75 or more\\C[0] ]#MTLed
+Requires:【\\C[2] Friendship 75+\\C[0]】#Triketos
 > END STRING
 
 > BEGIN STRING
