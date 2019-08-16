@@ -19,6 +19,10 @@ Attack#Dargoth
 > CONTEXT: Skills/1/message1
 > CONTEXT: Skills/21/message1
 > CONTEXT: Skills/453/message1
+> CONTEXT: Skills/544/message1
+> CONTEXT: Skills/545/message1
+> CONTEXT: Skills/546/message1
+> CONTEXT: Skills/547/message1
  attacks!#Dargoth
 > END STRING
 
@@ -1098,6 +1102,7 @@ in the old magazine are placed in your inventory.#Dargoth
 > CONTEXT: Skills/84/name
 > CONTEXT: Skills/91/name
 > CONTEXT: Skills/92/name
+> CONTEXT: Skills/320/name
 > CONTEXT: Skills/328/name
 > CONTEXT: Skills/346/name
 Reload#Dargoth
@@ -1112,6 +1117,7 @@ Reload#Dargoth
 > CONTEXT: Skills/92/message1
 > CONTEXT: Skills/210/message1
 > CONTEXT: Skills/211/message1
+> CONTEXT: Skills/320/message1
 > CONTEXT: Skills/322/message1
 > CONTEXT: Skills/323/message1
 > CONTEXT: Skills/328/message1
@@ -1442,7 +1448,6 @@ Psi Blizzard#Dargoth
 > CONTEXT: Skills/104/description
 > CONTEXT: Skills/553/description
 > CONTEXT: Skills/557/description
-> CONTEXT: Skills/741/description
 > CONTEXT: Skills/744/description
 > CONTEXT: Skills/746/description
 Deals lightning damage.
@@ -1702,8 +1707,6 @@ Pure pleasure courses through his veins and saps his strength...#Dargoth
 > CONTEXT: Skills/381/description
 > CONTEXT: Skills/392/description
 > CONTEXT: Skills/393/description
-> CONTEXT: Skills/399/description
-> CONTEXT: Skills/400/description
 > CONTEXT: Skills/402/description
 > CONTEXT: Skills/415/description
 > CONTEXT: Skills/416/description
@@ -1750,6 +1753,11 @@ Pure pleasure courses through his veins and saps his strength...#Dargoth
 > CONTEXT: Skills/806/description
 > CONTEXT: Skills/812/description
 > CONTEXT: Skills/813/description
+> CONTEXT: Skills/828/description
+> CONTEXT: Skills/829/description
+> CONTEXT: Skills/830/description
+> CONTEXT: Skills/834/description
+> CONTEXT: Skills/835/description
 Perform a powerful attack against one foe.#Dargoth
 > END STRING
 
@@ -1803,7 +1811,6 @@ Beast Claw#Dargoth
 > CONTEXT: Skills/175/description
 > CONTEXT: Skills/179/description
 > CONTEXT: Skills/183/description
-> CONTEXT: Skills/263/description
 > CONTEXT: Skills/300/description
 > CONTEXT: Skills/307/description
 > CONTEXT: Skills/336/description
@@ -1828,6 +1835,12 @@ Beast Claw#Dargoth
 > CONTEXT: Skills/696/description
 > CONTEXT: Skills/768/description
 > CONTEXT: Skills/796/description
+> CONTEXT: Skills/799/description
+> CONTEXT: Skills/800/description
+> CONTEXT: Skills/801/description
+> CONTEXT: Skills/810/description
+> CONTEXT: Skills/811/description
+> CONTEXT: Skills/827/description
 Causes your opponent to lose their balance.#Dargoth
 > END STRING
 
@@ -1932,6 +1945,7 @@ Wild Hip Thrusts#Dargoth
 > CONTEXT: Skills/140/message2
 > CONTEXT: Skills/166/message2
 > CONTEXT: Skills/176/message2
+> CONTEXT: Skills/833/message2
 Her tongue probes all the nooks and crannies of \\N[1]'s ear!#Dargoth
 > END STRING
 
@@ -1940,6 +1954,7 @@ Her tongue probes all the nooks and crannies of \\N[1]'s ear!#Dargoth
 > CONTEXT: Skills/140/name
 > CONTEXT: Skills/166/name
 > CONTEXT: Skills/176/name
+> CONTEXT: Skills/833/name
 Ear Suck#Dargoth
 > END STRING
 
@@ -1948,6 +1963,7 @@ Ear Suck#Dargoth
 > CONTEXT: Skills/140/message1
 > CONTEXT: Skills/166/message1
 > CONTEXT: Skills/176/message1
+> CONTEXT: Skills/833/message1
  is engrossed in sucking on \\N[1]'s ear!#Dargoth
 > END STRING
 
@@ -2015,12 +2031,14 @@ The barghest's long, wet tongue raids his mouth!#Dargoth
 > BEGIN STRING
 舌遊び
 > CONTEXT: Skills/145/name
+> CONTEXT: Skills/733/name
 Tongue Play#Dargoth
 > END STRING
 
 > BEGIN STRING
 は\\n[1]と唇を重ね、口内を舐め回した！
 > CONTEXT: Skills/145/message1
+> CONTEXT: Skills/733/message1
  kisses \\N[1] and forces her tongue past his lips!#Dargoth
 > END STRING
 
@@ -2063,18 +2081,21 @@ s greedily indulge in their prey...#Dargoth
 > BEGIN STRING
 這い回る舌と唾液が、口内でいやらしい音を立てている
 > CONTEXT: Skills/148/message2
+> CONTEXT: Skills/734/message2
 The mixture of tongues and saliva make lewd squishing noises.#Dargoth
 > END STRING
 
 > BEGIN STRING
 舌まぐわい
 > CONTEXT: Skills/148/name
+> CONTEXT: Skills/734/name
 Tongue Sex#Dargoth
 > END STRING
 
 > BEGIN STRING
 の舌が、さらに深く侵入してくる…
 > CONTEXT: Skills/148/message1
+> CONTEXT: Skills/734/message1
 's tongue raids even deeper...#Dargoth
 > END STRING
 
@@ -2105,6 +2126,7 @@ Tongue Sex#Dargoth
 > CONTEXT: Skills/690/message2
 > CONTEXT: Skills/693/message2
 > CONTEXT: Skills/694/message2
+> CONTEXT: Skills/814/message2
 They wiggle and squirm, attempting to capture \\N[1]!#Dargoth
 > END STRING
 
@@ -2113,6 +2135,7 @@ They wiggle and squirm, attempting to capture \\N[1]!#Dargoth
 > CONTEXT: Skills/151/name
 > CONTEXT: Skills/152/name
 > CONTEXT: Skills/554/name
+> CONTEXT: Skills/814/name
 Erotic Tentacles#Dargoth
 > END STRING
 
@@ -2121,6 +2144,7 @@ Erotic Tentacles#Dargoth
 > CONTEXT: Skills/151/message1
 > CONTEXT: Skills/152/message1
 > CONTEXT: Skills/554/message1
+> CONTEXT: Skills/814/message1
  reaches out with a mass of tentacles!#Dargoth
 > END STRING
 
@@ -2159,6 +2183,7 @@ Also doubles as Kick Away.#Dargoth
 > BEGIN STRING
 あまりの気持ちよさに\\N[1]の気力がどんどん失われていく…
 > CONTEXT: Skills/155/message2
+> CONTEXT: Skills/794/message2
 They feel so good, \\N[1] is losing vitality...#Dargoth
 > END STRING
 
@@ -2174,6 +2199,7 @@ They feel so good, \\N[1] is losing vitality...#Dargoth
 > CONTEXT: Skills/678/name
 > CONTEXT: Skills/727/name
 > CONTEXT: Skills/793/name
+> CONTEXT: Skills/794/name
 Breasts of Submission#Dargoth
 > END STRING
 
@@ -2182,6 +2208,7 @@ Breasts of Submission#Dargoth
 > CONTEXT: Skills/155/message1
 > CONTEXT: Skills/246/message1
 > CONTEXT: Skills/361/message1
+> CONTEXT: Skills/794/message1
  smothers \\N[1]'s face between her huge fruits!#Dargoth
 > END STRING
 
@@ -2217,6 +2244,8 @@ Titillating Pulsation#Dargoth
 胸の上でつままれ、クリクリと弄ばれてる…
 > CONTEXT: Skills/159/message2
 > CONTEXT: Skills/682/message2
+> CONTEXT: Skills/828/message2
+> CONTEXT: Skills/834/message2
 She pulls at them and gives them little twists...#Dargoth
 > END STRING
 
@@ -2225,6 +2254,8 @@ She pulls at them and gives them little twists...#Dargoth
 > CONTEXT: Skills/159/name
 > CONTEXT: Skills/518/name
 > CONTEXT: Skills/682/name
+> CONTEXT: Skills/828/name
+> CONTEXT: Skills/834/name
 Nipple Tease#Dargoth
 > END STRING
 
@@ -2233,6 +2264,8 @@ Nipple Tease#Dargoth
 > CONTEXT: Skills/159/message1
 > CONTEXT: Skills/518/message1
 > CONTEXT: Skills/682/message1
+> CONTEXT: Skills/828/message1
+> CONTEXT: Skills/834/message1
  gently toys with \\N[1]'s nipples!#Dargoth
 > END STRING
 
@@ -2258,18 +2291,21 @@ Affectionate Kiss#Dargoth
 > BEGIN STRING
 興奮した\\N[1]の身体に、電流のように快感が走る…！！
 > CONTEXT: Skills/161/message2
+> CONTEXT: Skills/835/message2
 It sends a shock of pleasure through \\N[1]'s body!#Dargoth
 > END STRING
 
 > BEGIN STRING
 男堕としの乳首攻め
 > CONTEXT: Skills/161/name
+> CONTEXT: Skills/835/name
 Feminizing Nipple Assault#Dargoth
 > END STRING
 
 > BEGIN STRING
 は\\n[1]の乳首を激しく弄んだ！
 > CONTEXT: Skills/161/message1
+> CONTEXT: Skills/835/message1
  plays intensely with \\N[1]'s nipples!#Dargoth
 > END STRING
 
@@ -2419,6 +2455,7 @@ Intoxicating Pollen#Dargoth
 > CONTEXT: Skills/331/name
 > CONTEXT: Skills/645/name
 > CONTEXT: Skills/660/name
+> CONTEXT: Skills/805/name
 Sweet Nothings#Dargoth
 > END STRING
 
@@ -2428,6 +2465,7 @@ Sweet Nothings#Dargoth
 > CONTEXT: Skills/331/message1
 > CONTEXT: Skills/645/message1
 > CONTEXT: Skills/660/message1
+> CONTEXT: Skills/805/message1
  tries to seduce \\N[1] with words of affection!#Dargoth
 > END STRING
 
@@ -2526,6 +2564,7 @@ Milking Ivy#Dargoth
 > BEGIN STRING
 敏感な部分を重点的に舐められ続けている…
 > CONTEXT: Skills/181/message2
+> CONTEXT: Skills/808/message2
 They focus on licking the most sensitive places!#Dargoth
 > END STRING
 
@@ -2923,6 +2962,7 @@ Nectar Suckling#Dargoth
 は\\N[1]に乳房を押し当て、グリグリと体重をかけてきた！
 > CONTEXT: Skills/245/message1
 > CONTEXT: Skills/304/message1
+> CONTEXT: Skills/831/message1
  cradles \\N[1] tightly against her breast!#Dargoth
 > END STRING
 
@@ -3433,9 +3473,6 @@ Good Luck Charm#Dargoth
 リズムに合わせて足を動かす、基本的な初級ダンス。
 \\c[2]【ボタン数】３【制限時間】５秒\\}\\C[0]【前回ダンス】\\V[130]
 > CONTEXT: Skills/288/description
-> CONTEXT: Skills/313/description
-> CONTEXT: Skills/314/description
-> CONTEXT: Skills/315/description
 > CONTEXT: Skills/702/description
 > CONTEXT: Skills/703/description
 Rythmic leg move, beginner dance figure.
@@ -3691,6 +3728,7 @@ Hug Invitation#afrg
 > BEGIN STRING
 彼女の乳首から出てくる母乳を夢中で飲んでしまう……
 > CONTEXT: Skills/304/message2
+> CONTEXT: Skills/831/message2
 He drinks the milk that comes out in a trance...#afrg
 > END STRING
 
@@ -3734,6 +3772,7 @@ Grooming#afrg
 彼女の声を聞いていると、身体の力が抜けていく……
 > CONTEXT: Skills/307/message2
 > CONTEXT: Skills/551/message2
+> CONTEXT: Skills/810/message2
 His body loses strength as he hears her voice...#afrg
 > END STRING
 
@@ -4690,6 +4729,13 @@ Erotic Shadow#afrg
 > END STRING
 
 > BEGIN STRING
+エボニーのトドメの搾精ダンス。
+相手に３回中ダメージを与える
+> CONTEXT: Skills/399/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
 ダンスレッスン
 > CONTEXT: Skills/399/name
 Dance Lesson#afrg
@@ -4699,6 +4745,13 @@ Dance Lesson#afrg
 は\\N[1]の手を繋いだまま、ゆっくりと踊り始めた…
 > CONTEXT: Skills/399/message1
  joins hands with \\N[1], starting off slowly...#afrg
+> END STRING
+
+> BEGIN STRING
+レイジーのトドメの激しい搾精ダンス。
+相手に８回中ダメージを与える。
+> CONTEXT: Skills/400/description < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -6784,12 +6837,14 @@ Camazotz's tongue relentlessly violates \\N[1]'s mouth...#afrg
 > BEGIN STRING
 貪欲の接吻
 > CONTEXT: Skills/647/name
+> CONTEXT: Skills/797/name
 Greedy Kiss#afrg
 > END STRING
 
 > BEGIN STRING
 は\\N[1]と、激しく濃密なキスをした…
 > CONTEXT: Skills/647/message1
+> CONTEXT: Skills/797/message1
  fiercely kisses \\N[1]!#afrg
 > END STRING
 
@@ -7000,7 +7055,6 @@ Footjob Paradise#afrg
 ダメージ自体は高くないが、魔法耐性を無視できる。
 > CONTEXT: Skills/685/description
 > CONTEXT: Skills/701/description
-> CONTEXT: Skills/735/description
 > CONTEXT: Skills/754/description
 Deals non-attribute magical damage to your opponent. 
 Does little damage, but ignores magic resistance.#afrg

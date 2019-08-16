@@ -10,7 +10,9 @@
 
 うれしい、会いに来てくれたんだ♪
 > CONTEXT: Map027/events/5/pages/0/24/Dialogue/enemy
-Ah, little human ♡. I'm glad I came to see you♪#MTLed
+Ah, little human ♡. 
+
+I'm happy you came to see me♪#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -18,8 +20,9 @@ Ah, little human ♡. I'm glad I came to see you♪#MTLed
 
 ねぇねぇ、今日はどんな用なの？
 > CONTEXT: Map027/events/5/pages/0/28/Dialogue/enemy
-... actually I was bored if I did not come soon♪
-Hey, what kind of use is it today?#MTLed
+...Honestly, I was going to get bored in here
+if you didn't come soon♪
+So, what do you want to do today?#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -27,7 +30,9 @@ Hey, what kind of use is it today?#MTLed
 
 元気そうだねぇ
 > CONTEXT: Map027/events/5/pages/0/35/Dialogue/enemy
-Hey little human. I look fine.#MTLed
+Hey little human♡
+
+You look like you're brimming with energy.#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -35,14 +40,15 @@ Hey little human. I look fine.#MTLed
 
 もちろん、養分として♡
 > CONTEXT: Map027/events/5/pages/0/39/Dialogue/enemy
-If you're happy, how about that, can you give me
-a little? Of course, as a nutrient#MTLed
+If you want to, can you give me a little?
+
+As nutrients, of course♡#Triketos
 > END STRING
 
 > BEGIN STRING
 ………………なによ
 > CONTEXT: Map027/events/5/pages/0/45/Dialogue/enemy
-………………What#MTLed
+.......What is it?#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -126,14 +132,15 @@ Remove mind corruption if(v[43] \>= 100) #Dargoth
 
 他のランパスに浮気なんかしたら許さないんだから♪
 > CONTEXT: Map027/events/5/pages/0/279/Dialogue/enemy
-Fu...♡. I will not forgive you if you cheat on
-other Lampas♪#MTLed
+Fufu...♡ 
+I won't forgive you if you cheat on
+me with other Lampas♪#Triketos
 > END STRING
 
 > BEGIN STRING
 "ランパスの心蝕が治った！！"
 > CONTEXT: Map027/events/5/pages/0/290/InlineScript/1:12
-"ランパス's mind corruption cured!!"#MTLed
+"Lampas's mind corruption cured!!"#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -147,19 +154,19 @@ Okay. What would you like to talk about?#Ron
 > BEGIN STRING
 居住区での出来事 en(v[43] \>= 30) 
 > CONTEXT: Map027/events/5/pages/1/7/Choice/0
-Events in the residence areaen(v[43] \>= 30)#MTLed
+Events in the Residential Areaen(v[43] \>= 30)#Triketos
 > END STRING
 
 > BEGIN STRING
 ツタについて en(v[43] \>= 40) 
 > CONTEXT: Map027/events/5/pages/1/7/Choice/1
-About ivyen(v[43] \>= 40)#MTLed
+About Ivyen(v[43] \>= 40)#Triketos
 > END STRING
 
 > BEGIN STRING
 ランパスの目的 en(v[43] \>= 60) 
 > CONTEXT: Map027/events/5/pages/1/7/Choice/2
-Lampas' purposeen(v[43] \>= 60)#MTLed
+Lampas' Purposeen(v[43] \>= 60)#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -896,13 +903,15 @@ By receiving the engagement ring. \\C[2]Engaged with Lampas!#MTLed
 
 会いたかったよ、養分クン。
 > CONTEXT: Map027/events/7/pages/0/0/Dialogue/enemy
-Yes? ♡. I wanted to see you, Norikun.#MTLed
+Hiii ♡
+
+I wanted to see you, Nutrients-kun.#TriketosIffy
 > END STRING
 
 > BEGIN STRING
 き、君は……！
 > CONTEXT: Map027/events/7/pages/0/4/Dialogue/kazuya
-You are ......!#MTLed
+Y-you are......!#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -910,9 +919,9 @@ You are ......!#MTLed
 
 燃やされそうなところを君に助けてもらったランパスだよ♪
 > CONTEXT: Map027/events/7/pages/0/6/Dialogue/enemy
-Because everyone faces together, do you
-understand? It's Lampas who helped you with
-something that was likely to be burned♪#MTLed
+Are you confused because we all look the
+same? I'm the Lampas you helped when I was
+about to be burned♪#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -920,9 +929,9 @@ something that was likely to be burned♪#MTLed
 
 ここなら君に会えるって聞いて、来ちゃった♪
 > CONTEXT: Map027/events/7/pages/0/10/Dialogue/enemy
-Ehehe, I would like to say thank you for the
-help. I heard that I could see you here and I
-came♪#MTLed
+Ehehe... 
+I just wanted to say thank you for your help.
+I came as soon as I heard I could see you here♪#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -930,8 +939,9 @@ came♪#MTLed
 
 そのぶん、君とイチャイチャできるなら悪くないかなって。
 > CONTEXT: Map027/events/7/pages/0/14/Dialogue/enemy
-Due to space, I can not light the tail light
-That's probably bad if you can be cozy with you.#MTLed
+Because of this space, I probably can't light
+my light, but that's not a bad thing if I can
+flirt and be with you.#TriketosIffy
 > END STRING
 
 > BEGIN STRING
@@ -940,7 +950,8 @@ That's probably bad if you can be cozy with you.#MTLed
 しばらくここに居つかせてもらうから、
 用があるときはどんどん話しかけてねぇ♥
 > CONTEXT: Map027/events/7/pages/0/18/Dialogue/enemy
-so♪. I will stay here for a while,
+So that's why I'm here♪
+ I will stay here for a while,
 When there is a need to talk more and more please
 用#MTLed
 > END STRING
