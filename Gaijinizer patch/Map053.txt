@@ -3,7 +3,7 @@
 
 　　　　　　部隊員の避難任務報告書
 > CONTEXT: Map053/events/13/pages/0/2/Dialogue
-Task force evacuation mission report#MTLed
+Evacuation Task Force Mission Report#Ron
 > END STRING
 
 > BEGIN STRING
@@ -12,9 +12,10 @@ Task force evacuation mission report#MTLed
  備考
  避難誘導にあたっていた部隊員が２名軽傷。
 > CONTEXT: Map053/events/13/pages/0/6/Dialogue
-damage. General injured 52 people dead 12 people missing 4
-people missing. Remarks. Two members of the team who were
-involved in evacuation guidance were slightly injured.#MTLed
+Damage
+Civilians: 52 injured, 12 dead, 4 missing.
+Notes: Two members of the evacuation team have minor
+injuries.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -23,11 +24,11 @@ involved in evacuation guidance were slightly injured.#MTLed
  理由としては、やはり『悪魔彈』の軍全体への普及による
 悪魔への有効な対処法の確立が大きいと思われます。
 > CONTEXT: Map053/events/13/pages/0/12/Dialogue
-Compared to the same-sized urban raid that occurred a year
-ago. The total number of victims decreased to about 10%.
-The reason is, too, that the "demon 彈" spread throughout
-the military. It seems that the establishment of effective
-measures for demon is great.#MTLed
+Compared to an attack on a similar-sized city a year ago,
+casualties this time were no more than about 10% of that.
+The reason for this is thought to be mainly the widespread
+usage of "Demon Rounds" by the military, established as an
+effective countermeasure against demons.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -36,10 +37,10 @@ measures for demon is great.#MTLed
 避難する人々や、我々部隊にも大きな混乱が起きず
 安全に誘導することができました。
 > CONTEXT: Map053/events/13/pages/0/18/Dialogue
-Also this time on battling with demons like Yuuma captain
-Thanks to the person who can cope calmly with knowledge and
-experience. There is no big confusion in the people we
-evacuated or in our unit. I was able to guide safely.#MTLed
+Also, thanks to Captain Yuuma's extensive knowledge and 
+experience battling demons, along with his ability to remain
+calm under pressure, our unit was able to lead the civilians
+to safety without creating huge chaos in the process.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -47,7 +48,8 @@ evacuated or in our unit. I was able to guide safely.#MTLed
 我々の士気にも大きな影響があらわれると実感しました。
  今後の作戦に関して、検討していただければと思います。
 > CONTEXT: Map053/events/13/pages/0/24/Dialogue
-After all if one person who has a real battle with demon is
-assigned to the field. I realized that our morale also has
-a big impact. I hope you will consider the future strategy.#MTLed
+It really felt like having a person with actual fighting 
+experience assigned to the area had a huge effect on our
+morale. I hope they consider the benefits of this for 
+future operations.#Ron
 > END STRING
