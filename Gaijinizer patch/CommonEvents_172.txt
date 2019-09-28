@@ -4,14 +4,16 @@
 
 貴方がくださるというなら、お受け取り致しますが……
 > CONTEXT: CommonEvents_172/9/Dialogue/yuuma
-calm calm...If you give me, I will receive it
-...#MTLed
+Oh my...
+
+If you're giving this to me, I'll accept...#Ron
 > END STRING
 
 > BEGIN STRING
 次はもっと気が利いたものをお願い致しますね？
 > CONTEXT: CommonEvents_172/13/Dialogue/yuuma
-Next would you like something more clever?#MTLed
+Could I ask for something more thoughtful next
+time?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -78,8 +80,8 @@ Thank you, \\N[1]#MTLed
 
 \\C[2]少しだけ仲が深まった気がした。
 > CONTEXT: CommonEvents_172/64/Dialogue
-I received a present. \\C[2]I felt I was getting along a little
-bit.#MTLed
+She accepted my gift. \\C[2]It felt like we got a little
+bit closer.#Ron
 > END STRING
 
 > BEGIN STRING
