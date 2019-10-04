@@ -2,7 +2,7 @@
 > BEGIN STRING
 目ぇ覚めたか？\\N[1]君。
 > CONTEXT: Map059/events/1/pages/0/14/Dialogue/other3
-Did you wake up? \\N[1] you.#MTLed
+Are you awake, \\N[1]-kun?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -10,15 +10,17 @@ Did you wake up? \\N[1] you.#MTLed
 
 これなら、安心して飲めるじゃろ。
 > CONTEXT: Map059/events/1/pages/0/24/Dialogue/other3
-Well, I bought a canned coffee at an outside
-vending machine. With this, you can drink with
-confidence.#MTLed
+Here, I bought this canned coffee from a vending
+machine outside.
+
+If it's from a vending machine you won't have to
+worry about what's in it so drink up.#Ron
 > END STRING
 
 > BEGIN STRING
 あ、ありがとう……
 > CONTEXT: Map059/events/1/pages/0/28/Dialogue/kazuya
-Oh, thank you ......#MTLed
+T- thanks...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -26,9 +28,9 @@ Oh, thank you ......#MTLed
 
  転送されるとひどく酔うっちうデメリットがあっての。
 > CONTEXT: Map059/events/1/pages/0/36/Dialogue/other3
-......Oh, that transfer device,
-I have a limitation that makes me drunk heavily
-when transferred.#MTLed
+... T- that transfer device...
+
+It can make you pretty nauseous when you use it.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -36,9 +38,10 @@ when transferred.#MTLed
 
 実用化に調整を進めてた試作品だったんよ……
 > CONTEXT: Map059/events/1/pages/0/40/Dialogue/other3
-Even a short distance, as you see from the
-stunning levels and. It was a prototype that had
-been adjusted for commercialization ...#MTLed
+As you now know, even very short distance travel's
+enough to knock you off your feet. It's a
+prototype I've been working on with an eye to
+commercialize...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -46,8 +49,9 @@ been adjusted for commercialization ...#MTLed
 
 あれ以上待ったら、きっとお前さん………
 > CONTEXT: Map059/events/1/pages/0/44/Dialogue/other3
-But this time, I did an emergency situation ...
-If you wait more than that, surely you .........#MTLed
+But since you were really in a pinch I had to use
+it. If I'd waited any longer, you would've been
+done for...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -55,9 +59,9 @@ If you wait more than that, surely you .........#MTLed
 
 …シェルターで目覚めた時から、お前さんを見てた。
 > CONTEXT: Map059/events/1/pages/0/52/Dialogue/other3
-I will not speak even if I can escape it and
-speak honestly....I watched you since I woke up
-at the shelter.#MTLed
+I'm not gonna give you the runaround, I'll be
+honest with you. I've been watching you since you
+woke up in the shelter.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -66,11 +70,10 @@ at the shelter.#MTLed
 
 んで、監視カメラ覗いたら、お前さんがおった。
 > CONTEXT: Map059/events/1/pages/0/57/Dialogue/other3
-In an underground shelter in this area where
-evacuation should have been completed
-Suddenly the power in the medical area was fully
-open and I thought it was suspicious.
-Well, when I saw a surveillance camera, you came.#MTLed
+That shelter was supposed to have been fully
+evacuated and then all of a sudden the power in
+the medical unit came on, so I got suspicious. And
+when I peeked through the camera, there you were.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -79,10 +82,10 @@ Well, when I saw a surveillance camera, you came.#MTLed
 こうやって地下で毎日、地上の監視カメラ覗き見して
 人間観察することしか趣味がなかったもんじゃから…。
 > CONTEXT: Map059/events/1/pages/0/62/Dialogue/other3
-...... Eagle, exiled, dangerous person specified?
-In this way every day in the underground, peeping
-on the ground surveillance camera
-I only had hobbies to observe people ...#MTLed
+... Little old exiled me's a dangerous person, you
+know. All I had to do with my spare time was watch
+the surveillance cameras above and below ground.
+Human observation's the only thing to do here...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -91,9 +94,9 @@ I only had hobbies to observe people ...#MTLed
 あのカルテも、シェルターに記録されてた登録データを
  ハッキングしてプリントアウトしたものなんよ…。
 > CONTEXT: Map059/events/1/pages/0/67/Dialogue/other3
-So I was following the trend of you casually ....
-That chart also registered data recorded in the
-shelter. What hacked and printed out ....#MTLed
+So I ended up following your movements... Those
+medical records are data from the shelter I hacked
+and printed out...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -102,15 +105,15 @@ shelter. What hacked and printed out ....#MTLed
 だけどそれ以上に、お前さんには期待してんのよ
 \\N[1]君。
 > CONTEXT: Map059/events/1/pages/0/73/Dialogue/other3
-If you are not interested in research, of course,
-you will lie. But more than that, I'm expecting
-you. \\N[1] you.#MTLed
+Of course I'd be lying if I said I weren't
+interested in studying you. But more than that, I
+have high expectations of you, \\N[1]-kun.#Ron
 > END STRING
 
 > BEGIN STRING
 期待…？
 > CONTEXT: Map059/events/1/pages/0/78/Dialogue/kazuya
-Expectations ...?#MTLed
+Expectations...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -118,8 +121,9 @@ Expectations ...?#MTLed
 
 こんな血生臭い戦争を望んでいるわけじゃないんよ。
 > CONTEXT: Map059/events/1/pages/0/80/Dialogue/other3
-I know already, but all the demons in this world
-are. I do not want such a bloody war.#MTLed
+I think you know already, but it's not like all
+the demons in the world actually want to fight
+this bloody war.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -128,10 +132,10 @@ are. I do not want such a bloody war.#MTLed
 
  しかも魔法が撃てる、特別な『力』があるときたもんだ。
 > CONTEXT: Map059/events/1/pages/0/84/Dialogue/other3
-Like demon, you see demon not as a target but as
-a partner. People who do "struggle" in a sense of
-meaning are not valuable. And when there's a
-special "power" that the magic shoots.#MTLed
+Someone like you, who sees demons as "partners"
+rather than "targets", someone who in a certain
+sense "struggles", is precious. Someone who can
+fire off demon magic has a special "power".#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -140,10 +144,10 @@ special "power" that the magic shoots.#MTLed
 お前さんなら、きっとこの戦争を止められる。
  悪魔と人間の『在り方』を元に戻せると期待しとる。
 > CONTEXT: Map059/events/1/pages/0/90/Dialogue/other3
-I also know a little Otsuki but ...
-If you are, you can surely stop this war.
-We hope that we can get back demons and human
-"means".#MTLed
+This might be an exaggeration... but I think you
+can stop this war. I think you can make things
+between humans and demons go back to the way they
+were.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -151,9 +155,10 @@ We hope that we can get back demons and human
 
 ていうか、あれ見られた後やと難しいって分かっとる……
 > CONTEXT: Map059/events/1/pages/0/95/Dialogue/other3
-Credit is ...... even if you have the worst.
-In other words, after seeing it, I understand
-that it is difficult ...#MTLed
+If you don't trust me... well that's okay.
+
+I mean I get that it'd be difficult to after what
+you've seen...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -161,9 +166,10 @@ that it is difficult ...#MTLed
 
 役に立ちそうな発明品は、結構あるけんな……。
 > CONTEXT: Map059/events/1/pages/0/99/Dialogue/other3
-But I want you to support the escape
-There are quite a few inventive items that are
-likely to be useful.#MTLed
+But I want to help you escape.
+
+I have quite a few inventions I think will come in
+real handy.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -171,8 +177,9 @@ likely to be useful.#MTLed
 
  果たして\\N[1]くんの心境は如何に……！？
 > CONTEXT: Map059/events/1/pages/0/117/Dialogue/enemy6
-Suddenly a collaborator, Karasu Tengu's union.
-What does \\N[1]-kun's mentality really mean??#MTLed
+Suddenly a wild helper appears, it's Yui the
+Karasu Tengu. What will this mean for \\N[1]-kun's
+state of mind...?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -180,14 +187,14 @@ What does \\N[1]-kun's mentality really mean??#MTLed
 
  インタビューをしてみたいと思いまーす！
 > CONTEXT: Map059/events/1/pages/0/121/Dialogue/enemy6
-So here it seems that the story is exactly one
-I would like to interview you!#MTLed
+Since your conversation seems to have come to a
+natural lull, I'd like to do an interview!#Ron
 > END STRING
 
 > BEGIN STRING
 に、ニーナ！？
 > CONTEXT: Map059/events/1/pages/0/125/Dialogue/kazuya
-To the Nina!?#MTLed
+N- Nina?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -195,8 +202,8 @@ To the Nina!?#MTLed
 
  軍用の魔除魔方陣を発動させとるはずなんに……！
 > CONTEXT: Map059/events/1/pages/0/127/Dialogue/other3
-A lie!?Why not get in here! What should I do to
-activate the military devil square ...!#MTLed
+No way!! How'd you get in here?! You managed to
+bypass that military-grade magic warding...!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -205,8 +212,10 @@ activate the military devil square ...!#MTLed
  だって今の私には、\\N[1]くんを襲う意思なんて
 微塵もないからねー♪
 > CONTEXT: Map059/events/1/pages/0/134/Dialogue/enemy6
-Naturally it is ☆. 'Cause I'm now willing to
-attack \\N[1]-kun. Because there is no fine dust♪#MTLed
+Well of course. ☆ 
+
+'Cause I don't have the slightest intention of
+harming \\N[1]-kun right now. ♪#Ron
 > END STRING
 
 > BEGIN STRING
@@ -215,15 +224,15 @@ attack \\N[1]-kun. Because there is no fine dust♪#MTLed
 ゲストの\\N[1]くんの素顔に迫る
 密着ドキュメンタリーなんだから！！
 > CONTEXT: Map059/events/1/pages/0/139/Dialogue/enemy6
-This is a special number before "Reverse rape
-SHOW"! Close to the true face of Fan Art's \\N[1]
-Because it is close coverage!!#MTLed
+This is a special pre-show before the "Reverse
+Rape SHOW"! It's a documentary where we'll get a
+close-up look at our guest \\N[1]-kun!!#Ron
 > END STRING
 
 > BEGIN STRING
 み、密着ドキュメンタリー………？
 > CONTEXT: Map059/events/1/pages/0/144/Dialogue/kazuya
-M, adhesion coverage .........?#MTLed
+C- close-up look...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -232,14 +241,16 @@ M, adhesion coverage .........?#MTLed
  正直に話すとおっしゃっていましたが
  あの『人形』については、いつ切り出す予定で！？
 > CONTEXT: Map059/events/1/pages/0/155/Dialogue/enemy6
-By the way doctor!! I told you to speak honestly
-About that "doll" will be cut out!?#MTLed
+By the way doctor...!!
+
+This is a bit direct but, when are you gonna bring
+up that "doll"?!#Ron
 > END STRING
 
 > BEGIN STRING
 えっ……！！！
 > CONTEXT: Map059/events/1/pages/0/161/Dialogue/other3
-eh……!!!#MTLed
+Huh...?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -247,14 +258,15 @@ eh……!!!#MTLed
 
 さっきの悪魔の『躯』のことか……？
 > CONTEXT: Map059/events/1/pages/0/163/Dialogue/kazuya
-"doll"……? What about the previous demon "Mukuro"
-...?#MTLed
+"Doll"...?
+
+You mean that "Mukuro" demon from before...?#Ron
 > END STRING
 
 > BEGIN STRING
 まさか……
 > CONTEXT: Map059/events/1/pages/0/170/Dialogue/kazuya
-No way ...#MTLed
+Don't tell me...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -262,8 +274,9 @@ No way ...#MTLed
 
 私としたことが、ウッカリウッカリ♪
 > CONTEXT: Map059/events/1/pages/0/172/Dialogue/enemy6
-Oh, did you notice \\N[1]-kun?
-Being carelessly with me♪#MTLed
+Whooops, have you realised now, \\N[1]-kun?
+
+How careless of me. ♪#Ron
 > END STRING
 
 > BEGIN STRING
@@ -271,8 +284,8 @@ Being carelessly with me♪#MTLed
 
 今のうちに白状した方がいいぞー？博士！
 > CONTEXT: Map059/events/1/pages/0/176/Dialogue/enemy6
-But anyway, it's because I'm going to barre
-Should I confess it right now? Doctor!#MTLed
+But now that it's all out in the open, maybe you
+should fess up while you have the chance, doctor!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -280,27 +293,27 @@ Should I confess it right now? Doctor!#MTLed
 
 あの人形、ワシの発明品なんよ………
 > CONTEXT: Map059/events/1/pages/0/186/Dialogue/other3
-Well, uh, \\N[1] you .........
-That doll, what an invention of an eagle
-.........#MTLed
+Well, uh, \\N[1]-kun...
+
+That doll, is an invention of mine...#Ron
 > END STRING
 
 > BEGIN STRING
 ワシの作った、『搾精人形』……
 > CONTEXT: Map059/events/1/pages/0/190/Dialogue/other3
-"A milking doll" made by eagle ...#MTLed
+A "milking doll" I made...#Ron
 > END STRING
 
 > BEGIN STRING
 \\{\\{あ゛あ゛！？
 > CONTEXT: Map059/events/1/pages/0/200/Dialogue/kazuya-3
-\\{\\{AH AH! ?#MTLed
+\\{\\{What?! WHAT?!#Ron
 > END STRING
 
 > BEGIN STRING
 ひいいいいっ！！
 > CONTEXT: Map059/events/1/pages/0/202/Dialogue/other3
-eeeeep!#MTLed
+Eeeeep!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -308,7 +321,9 @@ eeeeep!#MTLed
 
  本番中だよ！
 > CONTEXT: Map059/events/1/pages/0/204/Dialogue/enemy6
-\\N[1]-kun! Camera Camera! It's in production!#MTLed
+\\N[1]-kun! The camera! The camera!
+
+We're on live, you know!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -316,14 +331,15 @@ eeeeep!#MTLed
 
 どういうことですか？結博士。
 > CONTEXT: Map059/events/1/pages/0/216/Dialogue/kazuya-3
-......so? what do you mean? Dr. Kurosawa.#MTLed
+... So...
+
+Whatever do you mean, Doctor Yui?#Ron
 > END STRING
 
 > BEGIN STRING
 そ、その笑顔は別の意味で怖い……！！
 > CONTEXT: Map059/events/1/pages/0/220/Dialogue/other3
-Well, that smile is scary in another way ......!
-!#MTLed
+T- that smile's kinda scary in its own way...!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -332,9 +348,9 @@ Well, that smile is scary in another way ......!
 ワシはさっきも言ったように追放された身じゃけん……
 個人で莫大な研究費用とかを稼がないかんのよ……
 > CONTEXT: Map059/events/1/pages/0/223/Dialogue/other3
-Well, yeah, The eagle was exiled as I said before
-... I do not earn huge research expenses
-individually ...#MTLed
+Well, you see... Like I said before I was exiled,
+and I had to find a way to cover all my huge
+research expenses...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -342,9 +358,9 @@ individually ...#MTLed
 
 ワシが密かに開発してた『搾精人形』なんよ……アレ。
 > CONTEXT: Map059/events/1/pages/0/228/Dialogue/other3
-So I'm trying to make money by selling high for
-human sweets. The "milking doll" secretly
-developed by the eagle...What.#MTLed
+So I told everyone I was trying to sell human
+candy for a high price but secretly was I working
+on that milking doll...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -352,14 +368,16 @@ developed by the eagle...What.#MTLed
 
 べらぼうに強い怨念が人形に執り憑いてしまってん……。
 > CONTEXT: Map059/events/1/pages/0/232/Dialogue/other3
-But when it's almost finished ...
-I have a strong condolences over the dolls.#MTLed
+But then when I was almost finished...
+
+It got possessed by some extreme grude and became
+haunted.#Ron
 > END STRING
 
 > BEGIN STRING
 『怨念』……？
 > CONTEXT: Map059/events/1/pages/0/236/Dialogue/kazuya
-"Plenary" ...?#MTLed
+"Grude"...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -367,8 +385,9 @@ I have a strong condolences over the dolls.#MTLed
 
 しかもありゃあ相当の業を背負ってるレベルやった…
 > CONTEXT: Map059/events/1/pages/0/238/Dialogue/other3
-It looks like a ghost...Besides, I did a level
-of carrying a considerable amount of work ...#MTLed
+It seems to be a ghost of some kind..
+
+And I'd put so much work into it as well...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -376,9 +395,9 @@ of carrying a considerable amount of work ...#MTLed
 
 ワシに『男はどこだ』って脅してきたから、とっさに…
 > CONTEXT: Map059/events/1/pages/0/242/Dialogue/other3
-Moreover, I realize that the puppet is "purpose"
-... As I threatened to the eagle "Who is the
-man?"#MTLed
+And I think you've realised the "purpose" of that
+doll's grude... She menacingly asked "Where is the
+man" and then suddenly...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -386,27 +405,27 @@ man?"#MTLed
 
  さっきの現場に至る！ってわけ！
 > CONTEXT: Map059/events/1/pages/0/246/Dialogue/enemy6
-Suddenly, I named \\N[1]-kun who was reflected on
-the monitor. Lead to the scene of the moment!
-What!#MTLed
+Then suddenly, you named \\N[1]-kun who you had up
+that monitor over there. And that lead to the
+scene from just before, right?!#Ron
 > END STRING
 
 > BEGIN STRING
 バカじゃないの！？
 > CONTEXT: Map059/events/1/pages/0/250/Dialogue/kazuya
-you are stupid! ?#MTLed
+Are you an idiot?!#Ron
 > END STRING
 
 > BEGIN STRING
 \\{\\{バカじゃないの！？
 > CONTEXT: Map059/events/1/pages/0/253/Dialogue/kazuya
-\\{\\{you are stupid! ?#MTLed
+\\{\\{Are you an idiot?!#Ron
 > END STRING
 
 > BEGIN STRING
 二回言わんとって！？
 > CONTEXT: Map059/events/1/pages/0/255/Dialogue/other3
-I have to say twice! ?#MTLed
+You don't have to say it twice!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -414,9 +433,10 @@ I have to say twice! ?#MTLed
 
 あんな怖い顔で迫られて、仕方がなかったんよぉ…！
 > CONTEXT: Map059/events/1/pages/0/257/Dialogue/other3
-slithering while stretching creakily necked with
-hair. I was pressed by such a scary face and I
-couldn't help it ...!#MTLed
+Her hair was slithering all over the place and her
+neck was making all these weird noises and
+movements... And that face... I couldn't help it,
+okay?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -424,9 +444,9 @@ couldn't help it ...!#MTLed
 
 搾精されれば、『契約』は成立しちゃうよ♪
 > CONTEXT: Map059/events/1/pages/0/261/Dialogue/enemy6
-By the way, even originally a doll, so now it is
-a splendid demon. If milking is done, the
-contract will be established♪#MTLed
+By the way, she might have originally been a doll
+but now she's a splendid demon. If you get milked,
+that'll count as establishing a contract. ♪#Ron
 > END STRING
 
 > BEGIN STRING
@@ -434,15 +454,16 @@ contract will be established♪#MTLed
 
 さぁ、どう立ち向かう！？\\N[1]くん！！
 > CONTEXT: Map059/events/1/pages/0/265/Dialogue/enemy6
-And the other party is the "milking doll" with
-the features of that hand...
-Well, how do you stand up! ? \\N[1]-kun! !#MTLed
+And on top of that she's a "milking doll" equipped
+with those amazing hand functions.
+
+So how're you going to defeat her, \\N[1]-kun?!#Ron
 > END STRING
 
 > BEGIN STRING
 …………行こう、ユウマ。
 > CONTEXT: Map059/events/1/pages/0/289/Dialogue/kazuya
-...... Let's go, Yuuma.#MTLed
+... Let's go, Yuuma.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -450,8 +471,8 @@ Well, how do you stand up! ? \\N[1]-kun! !#MTLed
 
 ワシの発明品、見ていかんの！？
 > CONTEXT: Map059/events/1/pages/0/293/Dialogue/other3
-Hey ...!!\\N[1] you! ? An invention of an
-eagle, you see! ?#MTLed
+Hey wait, \\N[1]-kun!! You've gotta take a look
+at some of my inventions!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -459,12 +480,14 @@ eagle, you see! ?#MTLed
 
  役に立つ保証はないし、僕は急いでるんだ。
 > CONTEXT: Map059/events/1/pages/0/297/Dialogue/kazuya
-Stop. There is no guarantee that it will be
-useful, I'm in a hurry.#MTLed
+Give it a rest.
+
+There's no guarantee they'll be useful, and I'm in
+a hurry here.#Ron
 > END STRING
 
 > BEGIN STRING
 そ、そんなぁ……
 > CONTEXT: Map059/events/1/pages/0/303/Dialogue/other3
-That's right ...#MTLed
+O- oh dear...#Ron
 > END STRING
