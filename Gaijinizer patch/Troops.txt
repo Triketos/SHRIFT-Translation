@@ -956,8 +956,8 @@ I'll come back to visit you in a bit...#Triketos
 \\C[2]アイアンメイデンに対しての気丈な精神を少し取り戻した…
 > CONTEXT: Troops/10/pages/2/23/Dialogue
 > CONTEXT: Troops/11/pages/2/23/Dialogue
-By winning the battle. \\C[2]I have regained some of the noble
-spirit against Iron Maiden ...#MTLed
+By winning the battle, \\C[2]I have reduced some of Iron
+Maiden's corruption...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -2633,8 +2633,8 @@ This useful work! I will never come back again!
 \\C[2]エンプーサに対しての気丈な精神を少し取り戻した…
 > CONTEXT: Troops/45/pages/2/92/Dialogue
 > CONTEXT: Troops/52/pages/2/95/Dialogue
-By winning the battle. \\C[2]I have regained some of the noble
-spirit against the Empuse ...#MTLed
+By winning the battle, \\C[2]I have reduced some of Empuse's
+corruption...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -3842,8 +3842,8 @@ There are bullet marks on the floor ...#MTLed
 > CONTEXT: Troops/107/pages/2/57/Dialogue
 > CONTEXT: Troops/108/pages/2/57/Dialogue
 > CONTEXT: Troops/162/pages/2/52/Dialogue
-By winning the battle. \\C[2]I have regained some spirit of
-Mukuro ...#MTLed
+By winning the battle, \\C[2]I have reduced some of Mukuro's
+corruption...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -3857,7 +3857,7 @@ Mukuro (first encounter)#MTLed
 \\N[1]は絡み付いてくる髪を振りほどいた！！
 > CONTEXT: Troops/82/pages/1/32/Dialogue
 > CONTEXT: Troops/84/pages/1/31/Dialogue
-\\N[1] shook his entangled hair! !#MTLed
+\\N[1] shook free from the hair entangling him!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -3866,7 +3866,9 @@ Mukuro (first encounter)#MTLed
  一体、何をされているんだ！？僕は。
 > CONTEXT: Troops/82/pages/1/37/Dialogue
 > CONTEXT: Troops/84/pages/1/36/Dialogue
-Again ...!!What the hell are you doing! ? I.#MTLed
+This again...!!
+
+What the hell are you trying to do to me?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -3876,8 +3878,10 @@ Again ...!!What the hell are you doing! ? I.#MTLed
 これじゃまるで………
 > CONTEXT: Troops/82/pages/1/41/Dialogue
 > CONTEXT: Troops/84/pages/1/40/Dialogue
-I am not losing my consciousness...It's not just a
-momentary move...This is all .........#MTLed
+It's not like I lost conciousness or anything...
+And it's not some kind of teleport move...
+
+It's as if...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -3885,8 +3889,9 @@ momentary move...This is all .........#MTLed
 
 あれは、\\C[2]『時間停止』の能力だ。
 > CONTEXT: Troops/82/pages/1/49/Dialogue/other1
-\\N[1], I understand. That is,\\C[2] It is the ability
-of "time stop".#MTLed
+I've got it, \\N[1].
+
+It's \\C[2] an ability called "Time Stop".#Ron
 > END STRING
 
 > BEGIN STRING
@@ -3894,8 +3899,8 @@ of "time stop".#MTLed
 
 だから集中してるときに突然出て………！
 > CONTEXT: Troops/82/pages/1/53/Dialogue/kazuya
-wah! I was surprised! So when you are
-concentrating, you suddenly come out .........!#MTLed
+Whoa! You gave me a fright popping out so suddenly
+when I was concentrating...!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -3903,7 +3908,9 @@ concentrating, you suddenly come out .........!#MTLed
 
 \\C[0]さっきの攻撃がか！？
 > CONTEXT: Troops/82/pages/1/57/Dialogue/kazuya
-Oh,\\C[2] "Time Stop"! ? \\C[0]The last Attack! ?#MTLed
+So,\\C[2] "T- Time Stop"!? \\C[0]
+
+That's what that attack just before was?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -3911,8 +3918,10 @@ Oh,\\C[2] "Time Stop"! ? \\C[0]The last Attack! ?#MTLed
 
  俺の主が、大昔に似たような能力の妖怪と戦った事がある。
 > CONTEXT: Troops/82/pages/1/61/Dialogue/other1
-Oh no. My lord has fought against youkai-like
-abilities of a long time ago.#MTLed
+Yep, without a doubt.
+
+My master has fought against youkei with abilities
+like that since ancient times.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -3921,9 +3930,10 @@ abilities of a long time ago.#MTLed
 
  一瞬のうちでな。
 > CONTEXT: Troops/82/pages/1/65/Dialogue/other1
-You know, but if things move, the air moves.
-I can not feel it because the wind does not come
-up, but it is moving. It's in a moment.#MTLed
+You probably already know this, but when things
+move, the air around them also moves. Because
+there's no wind you can't sense her moving, but
+she definitely is. It's just in that instant.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -3932,9 +3942,10 @@ up, but it is moving. It's in a moment.#MTLed
 ヤツはおそらく、\\C[2]時空の時間そのものを停止させて
  その間自由に動けるみたいだな。
 > CONTEXT: Troops/82/pages/1/70/Dialogue/other1
-I do not know what the principle is ...
-The guy is probably\\C[2] Stop the space-time itself
-It seems that I can move freely in the meantime.#MTLed
+I don't know how she does it though...
+
+She can probably \\C[2] stop space-time itself and
+freely act while it's stopped.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -3942,7 +3953,9 @@ It seems that I can move freely in the meantime.#MTLed
 
  防ぎようがないじゃないか！！
 > CONTEXT: Troops/82/pages/1/75/Dialogue/kazuya
-That's it! I can not prevent it! !#MTLed
+O- oh crap!
+
+I can't do anything about that!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -3950,8 +3963,8 @@ That's it! I can not prevent it! !#MTLed
 
 \\C[2]避けることもできないだろう。
 > CONTEXT: Troops/82/pages/1/79/Dialogue/other1
-Nah...Certainly time stop itself can not be
-prevented. \\C[2]It can not be avoided either.#MTLed
+No, you certainly can't stop her from using that
+move. \\C[2]You can't evade it either.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -3960,10 +3973,10 @@ prevented. \\C[2]It can not be avoided either.#MTLed
 
  悪魔でも相当の筋力と、慣れがいる。
 > CONTEXT: Troops/82/pages/1/83/Dialogue/other1
-But this ability has limitation.
-It's difficult to move because the air is off
-while the time is down. Even demons are
-accustomed to considerable muscle strength.#MTLed
+But this ability has limitations. Time Stop also
+stops the flow of air, so moving is difficult.
+Even demons with considerable strength need to
+get themselves accustomed to it.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -3972,10 +3985,10 @@ accustomed to considerable muscle strength.#MTLed
 \\C[2] 時間停止が終わった直後なら、拘束を振りほどくのは
  そう難しくないはずだ。
 > CONTEXT: Troops/82/pages/1/88/Dialogue/other1
-He has not been able to use this ability to see
-the above trend. \\C[2]As soon as the time stop is
-over, it is better to shake off bound
-It should not be so difficult.#MTLed
+Going off what I just saw, she hasn't mastered the
+ability yet.\\C[2] It shouldn't be too difficult
+to shake off her bindings after she's used Time
+Stop.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -3984,9 +3997,9 @@ It should not be so difficult.#MTLed
 \\C[2]ヤツの時間停止の使い方は、拘束だけとは限らない。
  無防備な状態で搾精なんてされてたら一大事だ。
 > CONTEXT: Troops/82/pages/1/93/Dialogue/other1
-But watch out, \\C[2]The usage of the time stop of the
-guy is not limited to bound. It's important if
-you're milking in an unprotected state.#MTLed
+But watch out. \\C[2]She's not limited to just
+binding you when she uses Time Stop. It's bad news
+if she uses it when you're being milked.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -3994,8 +4007,10 @@ you're milking in an unprotected state.#MTLed
 
 いいな？
 > CONTEXT: Troops/82/pages/1/98/Dialogue/other1
-\\C[2]If you feel that the big trick will come, get
-ready without hesitation. Is that okay?#MTLed
+\\C[2]If you sense she's about to use a powerful
+ability, make sure you prepare yourself.
+
+Do you understand?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -4003,7 +4018,9 @@ ready without hesitation. Is that okay?#MTLed
 
 やってみる…！！
 > CONTEXT: Troops/82/pages/1/102/Dialogue/kazuya
-I understand...Try…! !#MTLed
+I- I understand...
+
+I'll try!!#Ron
 > END STRING
 
 > BEGIN STRING
