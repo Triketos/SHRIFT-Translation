@@ -4,7 +4,9 @@
 
 ふふ、今日は何のご用かしら？
 > CONTEXT: Map062/events/5/pages/0/19/Dialogue/enemy4
-You've come. Fu, what should I use today?#MTLed
+You came. ♡
+
+Fufu, what can I do for you today?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -16,13 +18,13 @@ Chaten(v[45] \>= 25)#MTLed
 > BEGIN STRING
 搾精（授乳）en(v[45] \>= 25) 
 > CONTEXT: Map062/events/5/pages/0/31/Choice/1
-milkingen(v[45] \>= 25)#MTLed
+Milking (Breastfeed)en(v[45] \>= 25)#Ron
 > END STRING
 
 > BEGIN STRING
 搾精（毛繕い）en(v[45] \>= 50) 
 > CONTEXT: Map062/events/5/pages/0/31/Choice/2
-milkingen(v[45] \>= 50)#MTLed
+Milking (Grooming)en(v[45] \>= 50)#Ron
 > END STRING
 
 > BEGIN STRING
@@ -36,8 +38,10 @@ milkingen(v[45] \>= 50)#MTLed
 
 こういうものを貰っても、私には使い道がないものだから…
 > CONTEXT: Map062/events/5/pages/0/185/Dialogue/enemy4
-………Sorry. Even if you ask something like this, it
-has no use for me ...#MTLed
+... I'm sorry, dear.
+
+Even if you give me something like this, I don't
+have any use for it...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -74,25 +78,27 @@ Welcome...boy ♡. I will heal...♡#MTLed
 
 いっぱいお話ししましょうか。
 > CONTEXT: Map062/events/5/pages/1/1/Dialogue/enemy4
-Yes, it's fine...♡. Shall we talk a lot?#MTLed
+Yes, that's fine... ♡
+
+Let's talk a lot.#Ron
 > END STRING
 
 > BEGIN STRING
 呼び方についてen(v[45] \>= 30) 
 > CONTEXT: Map062/events/5/pages/1/7/Choice/0
-About callingen(v[45] \>= 30)#MTLed
+Calling to heren(v[45] \>= 30)#Ron
 > END STRING
 
 > BEGIN STRING
 種族についてen(v[45] \>= 40) 
 > CONTEXT: Map062/events/5/pages/1/7/Choice/1
-About the raceen(v[45] \>= 40)#MTLed
+Her raceen(v[45] \>= 40)#Ron
 > END STRING
 
 > BEGIN STRING
 体毛についてen(v[45] \>= 60) 
 > CONTEXT: Map062/events/5/pages/1/7/Choice/2
-About body hairen(v[45] \>= 60)#MTLed
+Her furen(v[45] \>= 60)#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1045,7 +1051,7 @@ Rabbit!#MTLed
 > BEGIN STRING
 …………待っていたわ。ボウヤ。
 > CONTEXT: Map062/events/7/pages/0/0/Dialogue/enemy4
-...... I was waiting. boy.#MTLed
+... I've been waiting for you, little boy.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1053,7 +1059,9 @@ Rabbit!#MTLed
 
 な、なんでここに……！？
 > CONTEXT: Map062/events/7/pages/0/3/Dialogue/kazuya
-Mother Rabbit ...! Nah, why not here ...! ?#MTLed
+Mother Rabbit...!
+
+W- why are you here?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1061,7 +1069,9 @@ Mother Rabbit ...! Nah, why not here ...! ?#MTLed
 
  私は『そういう』悪魔なのよ。
 > CONTEXT: Map062/events/7/pages/0/7/Dialogue/enemy4
-Hihihi...you said that? I'm a "done" demon.#MTLed
+Fufufu... I told you didn't I?
+
+I'm "that kind" of demon.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1069,9 +1079,8 @@ Hihihi...you said that? I'm a "done" demon.#MTLed
 
 独りじゃないと、安心させるための悪魔……。
 > CONTEXT: Map062/events/7/pages/0/18/Dialogue/enemy4
-Like you, to a lonely crying boy
-If you're not alone, you're a demon to be
-relieved .......#MTLed
+I'm a demon who comes to take care of little boys
+like you who are crying all alone...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1079,8 +1088,8 @@ relieved .......#MTLed
 
  昔ならまだしも、今はユウマやレイナがいる。
 > CONTEXT: Map062/events/7/pages/0/23/Dialogue/kazuya
-... I do not think I am alone.
-In the old days, there are still Yuuma and Reina.#MTLed
+I don't really think I'm all alone.
+Even back in the old days I had Yuuma and Reina.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1088,20 +1097,21 @@ In the old days, there are still Yuuma and Reina.#MTLed
 
 今の貴方には、頼れる人たちがいる。
 > CONTEXT: Map062/events/7/pages/0/27/Dialogue/enemy4
-...... Well, I'm not alone. There are people you
-can count on now.#MTLed
+... That's right, you're not "alone".
+
+You have people you can rely on now.#Ron
 > END STRING
 
 > BEGIN STRING
 でも私が言っているのは、もっと奥のことよ…
 > CONTEXT: Map062/events/7/pages/0/31/Dialogue/enemy4
-But what I'm saying is more back then ...#MTLed
+But what I'm talking about, is way before that...#Ron
 > END STRING
 
 > BEGIN STRING
 奥…？
 > CONTEXT: Map062/events/7/pages/0/33/Dialogue/kazuya
-Back ...?#MTLed
+Before that...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1109,14 +1119,17 @@ Back ...?#MTLed
 
 しかし市街地の時のように強引ではなく、ゆっくりと……
 > CONTEXT: Map062/events/7/pages/0/36/Dialogue
-Mother Rabbit brings my body gently Hug.
-But not as aggressive as in the city, slowly ...#MTLed
+Mother Rabbit gently brings me into a hug.
+
+But it's not as forceful as it was back in the
+city, it's slower...#Ron
 > END STRING
 
 > BEGIN STRING
 ………両親が『死んだ』は、ウソね…？
 > CONTEXT: Map062/events/7/pages/0/40/Dialogue/enemy4
-......my parents say "dead" is a lie ...?#MTLed
+What you said about your parents being dead, that
+was a lie wasn't it...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1124,8 +1137,9 @@ But not as aggressive as in the city, slowly ...#MTLed
 
 今は嘘だと知っている。そうでしょう？
 > CONTEXT: Map062/events/7/pages/0/43/Dialogue/enemy4
-No, but exactly...you were so explained around
-I know it's a lie now. do not you?#MTLed
+Well to be precise... it's what you were told by
+those around you at the time. But you now know
+it's not true, isn't that right?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1133,8 +1147,9 @@ I know it's a lie now. do not you?#MTLed
 
 なぜ自分は、『捨てられた』のかって…。
 > CONTEXT: Map062/events/7/pages/0/49/Dialogue/enemy4
-Your back 'boy' is still crying.
-Why I am "got thrown away" ....#MTLed
+The little boy deep within you is still crying.
+
+He's saying "Why was I abandoned?"...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1143,15 +1158,15 @@ Why I am "got thrown away" ....#MTLed
 
 そう叫び続けてる………。
 > CONTEXT: Map062/events/7/pages/0/53/Dialogue/enemy4
-"Because I wasn't a good girl ...?"
-"I was not the kind of child they wanted ...?"
-I keep shouting so.........#MTLed
+He keeps shouting,
+"Was it because I was bad...?"
+"Was it because they didn't want me...?"#Ron
 > END STRING
 
 > BEGIN STRING
 …っ！！！
 > CONTEXT: Map062/events/7/pages/0/58/Dialogue/kazuya
-... Oh!!!#MTLed
+...!!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1159,9 +1174,9 @@ I keep shouting so.........#MTLed
 
 突き放そうと、抱きしめられている身体に力をこめる。
 > CONTEXT: Map062/events/7/pages/0/60/Dialogue
-She seemed to read her heart without permission, and she
-was embarrassed and angry. Empress the body that is Embrace
-to push it out.#MTLed
+It seems she went ahead and read my heart, feelings of
+embarrassment and anger welled up inside me. I put my
+strength into trying to push her away.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1169,8 +1184,8 @@ to push it out.#MTLed
 
 僕は結局、彼女を拒絶することは出来なかった………。
 > CONTEXT: Map062/events/7/pages/0/64/Dialogue
-But it's more powerful and gentle Embrace
-I could not reject her after all .....#MTLed
+But she was holding me in a powerful yet gentle embrace
+and I ultimately couldn't refuse her...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1179,9 +1194,9 @@ I could not reject her after all .....#MTLed
 ここは精神と意識の空間だから、そういう『声』は
 私にはハッキリ聞こえてしまうの……。
 > CONTEXT: Map062/events/7/pages/0/68/Dialogue/enemy4
-……Sorry. Because this is a space of mind and
-consciousness, such "voice" is
-It sounds clear to me ....#MTLed
+... I'm sorry, dear. Because this space is one of
+spirits and consciousness, these kinds of "voices"
+sound out to me clearly.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -1189,8 +1204,9 @@ It sounds clear to me ....#MTLed
 
 私にも、あなたを支えさせてほしいのよ。
 > CONTEXT: Map062/events/7/pages/0/73/Dialogue/enemy4
-But as you helped me...I also want you to
-support you.#MTLed
+But just as you helped me...
+
+I also want to support you.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1199,9 +1215,9 @@ support you.#MTLed
 でも辛くなったとき、恋しくなったときに
 私を『ママ』と頼って甘えてちょうだい…
 > CONTEXT: Map062/events/7/pages/0/77/Dialogue/enemy4
-Don't say it's your mother's ......
-But when it gets tough, when you get lost
-Please trust me to be a "Mama" ...#MTLed
+I won't say I'm any replacement for your mother...
+But when things get tough, when you yearn for me,
+Please let me be your "mommy"...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1209,6 +1225,7 @@ Please trust me to be a "Mama" ...#MTLed
 
 だから、会いたくなったらいつでも来てね、ボウヤ…
 > CONTEXT: Map062/events/7/pages/0/84/Dialogue/enemy4
-I am always here...So if you want to see me,
-please come and go, boy ...#MTLed
+I'll always be here...
+
+So come visit anytime you like, little boy...#Ron
 > END STRING
