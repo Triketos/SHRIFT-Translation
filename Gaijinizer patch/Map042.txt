@@ -2,7 +2,7 @@
 > BEGIN STRING
 まってた　\\N[1]…♡
 > CONTEXT: Map042/events/5/pages/0/20/Dialogue/enemy2
-I've been... waiting... \\N[1]...♡#Ron
+It was addicted \\N[1]...♡#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -10,8 +10,8 @@ I've been... waiting... \\N[1]...♡#Ron
 
 うれしい
 > CONTEXT: Map042/events/5/pages/0/25/Dialogue/enemy2
-\\N[1]... did you come... just to see me?
-That makes me... so happy...#Ron
+\\N[1], did you come to see me?
+Happy#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -19,9 +19,7 @@ That makes me... so happy...#Ron
 
 わたし、なにかようか？
 > CONTEXT: Map042/events/5/pages/0/32/Dialogue/enemy2
-\\N[1]...
-
-What... can I do... for you...?#Ron
+\\N[1] ...... What am I?#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -74,9 +72,8 @@ Remove mind corruption if(v[44] \>= 100) #Dargoth
 
 また　狩りごっこ　するか？
 > CONTEXT: Map042/events/5/pages/0/263/Dialogue/enemy2
-What wrong... \\N[1]...?
-
-Do you... want to... play again...?#Ron
+What happened?\\N[1]. Do you want to pretend play
+again?#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -90,35 +87,31 @@ Do you... want to... play again...?#Ron
 
 しゃべるの　なれてない　けど　が　がんばる
 > CONTEXT: Map042/events/5/pages/1/0/Dialogue/enemy2
-O-... okay...
-
-I'm not good... at talking... but...
-
-I'll d-... do my best...#Ron
+Oh oh. I can not talk but I do my best#MTLed
 > END STRING
 
 > BEGIN STRING
 シェルターのその後 en(v[44] \>= 25) 
 > CONTEXT: Map042/events/5/pages/1/6/Choice/0
-After The Shelteren(v[44] \>= 25)#Ron
+After the shelteren(v[44] \>= 25)#MTLed
 > END STRING
 
 > BEGIN STRING
 『オス』について en(v[44] \>= 40) 
 > CONTEXT: Map042/events/5/pages/1/6/Choice/1
-That "Male"en(v[44] \>= 40)#Ron
+About "male"en(v[44] \>= 40)#MTLed
 > END STRING
 
 > BEGIN STRING
 『バーゲスト』 en(v[44] \>= 60) 
 > CONTEXT: Map042/events/5/pages/1/6/Choice/2
-Barghestsen(v[44] \>= 60)#Ron
+"Barghest"en(v[44] \>= 60)#MTLed
 > END STRING
 
 > BEGIN STRING
 さんぽ en(v[44] \>= 80) 
 > CONTEXT: Map042/events/5/pages/1/6/Choice/3
-Go For A Walken(v[44] \>= 80)#Ron
+Sanpoen(v[44] \>= 80)#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -126,8 +119,7 @@ Go For A Walken(v[44] \>= 80)#Ron
 
  ヘカーテ　さま　よんだ。
 > CONTEXT: Map042/events/5/pages/1/11/Dialogue/enemy2
-A-, after that... I... called out to...
-Hecate-sama.#Ron
+Oh, after that I. Hecate I am.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -135,9 +127,7 @@ Hecate-sama.#Ron
 
  カクゴ　して　出てきた。
 > CONTEXT: Map042/events/5/pages/1/15/Dialogue/enemy2
-I thought... I would be... erased...
-
-I had... prepared... myself... for that...#Ron
+I will be erased. It has come out.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -145,9 +135,8 @@ I had... prepared... myself... for that...#Ron
 
  わたし　しゃべる　ようにした
 > CONTEXT: Map042/events/5/pages/1/19/Dialogue/enemy2
-But... Hecate-sama... had this... amazing...
-
-smile... I tried my best... to speak...#Ron
+But Hecate-sama is amazing * smile *
+I was supposed to talk#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -155,15 +144,13 @@ smile... I tried my best... to speak...#Ron
 
 『にどと　もどる　ダメ』って……
 > CONTEXT: Map042/events/5/pages/1/24/Dialogue/enemy3
-And... she said... 
-
-"You can... never come... back home."#Ron
+And said. What's "Don't Back"#MTLed
 > END STRING
 
 > BEGIN STRING
 ………要するに、捨てられちゃったのか……。
 > CONTEXT: Map042/events/5/pages/1/28/Dialogue/kazuya
-... In other words, she abandoned you...#Ron
+... In short, has it been abandoned ....#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -171,9 +158,8 @@ And... she said...
 
 もっと滑らかに喋れるようにしてくれても良かっただろうに…
 > CONTEXT: Map042/events/5/pages/1/30/Dialogue/kazuya
-Not only that but you've got that broken speech...
-It would've been nice if she'd given you the
-ability to speak normally...#Ron
+Even so, it's a word. It would have been nice to
+be able to drown more smoothly ...#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -181,8 +167,7 @@ ability to speak normally...#Ron
 
  しゃべる　コウゾウ　できて　ない。
 > CONTEXT: Map042/events/5/pages/1/34/Dialogue/enemy2
-Ugh... I was not... originally... constructed...
-with the... ability... to speak...#Ron
+Wow ...... originally I. I can't talk.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -190,8 +175,7 @@ with the... ability... to speak...#Ron
 
  たくさん　ベロ　からまる……
 > CONTEXT: Map042/events/5/pages/1/38/Dialogue/enemy2
-When I... speak... too quickly... my tongues...
-get twisted up...#Ron
+I talk too fast. Lots of Vero ...#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -199,10 +183,8 @@ get twisted up...#Ron
 
 あの大量の舌が、むしろ邪魔してるのか…。
 > CONTEXT: Map042/events/5/pages/1/42/Dialogue/kazuya
-Oh...
-
-I guess having that many tongues is actually quite
-a nuisance for you...#Ron
+Oh………. Is that a lot of tongue rather disturbing
+....#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -210,8 +192,8 @@ a nuisance for you...#Ron
 
  ヘカーテも言ってたしなぁ……
 > CONTEXT: Map042/events/5/pages/1/46/Dialogue/kazuya
-Well, she did say she made you "specially" to
-attack the shelter...#Ron
+Well, I made it "specially made" for shelter
+attack. He also said Hecate ...#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -220,9 +202,8 @@ attack the shelter...#Ron
 『にんげん　いっぱい　なめる　できる　からだに　する』
  言った……。
 > CONTEXT: Map042/events/5/pages/1/50/Dialogue/enemy2
-Before Hecate-sama... remade me... She said...
-"I'll make you... into something... that can...
-lick lots of... human bodies..."#Ron
+Before Hecate-sama. "I can make a lot of licks
+because I can do it.". Said…….#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -230,9 +211,7 @@ lick lots of... human bodies..."#Ron
 
 カイゾウ　よろこんで　うけた
 > CONTEXT: Map042/events/5/pages/1/55/Dialogue/enemy2
-I was... happy...
-
-Happy to... be remade...#Ron
+I am glad. I received a calligraphic call#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -240,9 +219,8 @@ Happy to... be remade...#Ron
 
 カマ　つかう　斬る　メイレイ　ばかり
 > CONTEXT: Map042/events/5/pages/1/60/Dialogue/enemy3
-But after... arriving at... the shelter... 
-she only... ordered me... to kill with...
-my sickles...#Ron
+But most of "Shelter"...Kama Use Kill Meira
+Only#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -250,9 +228,8 @@ my sickles...#Ron
 
  ユウワク　できる　カラダ　に　もどりたい……
 > CONTEXT: Map042/events/5/pages/1/64/Dialogue/enemy3
-...Ughh...
-
-I want... my old... seductive body... back...#Ron
+..... w. I would like to return to a body that I
+can do#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -260,8 +237,9 @@ I want... my old... seductive body... back...#Ron
 
 一番可哀想なの、この子なんじゃ……）
 > CONTEXT: Map042/events/5/pages/1/68/Dialogue/kazuya
-(... Don't tell me she was that miserable back in
-the shelter as Hecate's subordinate)#RonIffy
+(... by chance, in the Hecate's subordinate who
+was in that shelter. It's the most disappointing,
+this girl .........)#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -269,9 +247,8 @@ the shelter as Hecate's subordinate)#RonIffy
 
 『オス』を殺されて怒り狂ったって聞いたけど……
 > CONTEXT: Map042/events/5/pages/1/77/Dialogue/kazuya
-Oh yeah, I remember hearing that there was a
-"male" who was killed and it'd driven you into a
-rage...#Ron
+Speaking of that, it's certainly Empuse
+I heard that I was killed and angry at "male" ...#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -279,9 +256,8 @@ rage...#Ron
 
  気持ちの整理的なやつは………。
 > CONTEXT: Map042/events/5/pages/1/81/Dialogue/kazuya
-Are you... okay?
-
-You seem to be fine now...#Ron
+That ...... Are you okay? The feeling of
+organizing is ....#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -289,9 +265,7 @@ You seem to be fine now...#Ron
 
 その　はなし　よく　わからない
 > CONTEXT: Map042/events/5/pages/1/85/Dialogue/enemy3
-W- Well I...
-
-I'm not... sure I... understand...#Ron
+Well, that's ......... That is what I don't know#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -299,8 +273,8 @@ I'm not... sure I... understand...#Ron
 
  オス　いない　はず………
 > CONTEXT: Map042/events/5/pages/1/89/Dialogue/enemy3
-There was... originally... not supposed...
-to be... a male... version of me...#Ron
+First of all, to Empuse. Male not supposed to be
+.........#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -316,8 +290,8 @@ What!?#afrg
 
  とくべつな　エンプーサ　創られた。
 > CONTEXT: Map042/events/5/pages/1/95/Dialogue/enemy2
-Certainly... there were... two Empuses...
-specially made... to attack... the shelter...#Ron
+Certainly for Me "Shelter" I and another one
+A special kind of empuse was created.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -325,9 +299,7 @@ specially made... to attack... the shelter...#Ron
 
 つぎ　もっと　するどく　こわい　エンプーサ。
 > CONTEXT: Map042/events/5/pages/1/99/Dialogue/enemy2
-First... me...
-
-Then... a more... scary version... of me...#Ron
+I am. Next more and more fearful Empuse.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -335,15 +307,15 @@ Then... a more... scary version... of me...#Ron
 
 オス　いなかった　はず……
 > CONTEXT: Map042/events/5/pages/1/103/Dialogue/enemy2
-But... I'm certain... there never... used to be...
-a male version...#Ron
+But I am looking forward to it ...
+There should have been no male ......#MTLed
 > END STRING
 
 > BEGIN STRING
 じ、じゃあ、君がオスが死んで怒り狂ったってのは…？
 > CONTEXT: Map042/events/5/pages/1/107/Dialogue/kazuya
-S- so why did you fly into a rage when that male
-died?#Ron
+Well then, why did you get mad when your male
+died ...?#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -351,8 +323,8 @@ died?#Ron
 
  怒った　のは　たしか。
 > CONTEXT: Map042/events/5/pages/1/109/Dialogue/enemy2
-It's true... seeing one... of me... taken down...
-made... me angry...#Ron
+I'm looking forward to another one
+It is true that I was angry.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -360,9 +332,8 @@ made... me angry...#Ron
 
  ヘカーテ　さま　怒る　ように　創った……
 > CONTEXT: Map042/events/5/pages/1/113/Dialogue/enemy3
-But the... thing is... Hectate-sama... created
-us... to be angry... if the... other one...
-died...#Ron
+I'm Tabun...but I need to tell each other
+Hecate was created to be angry ...#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -370,8 +341,8 @@ died...#Ron
 
 怒る　ように……
 > CONTEXT: Map042/events/5/pages/1/117/Dialogue/enemy3
-Just like... a mating pair... of animals... get
-angry... if their mate... is killed...#Ron
+The same as when you are killed.
+Get angry ...#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -379,10 +350,8 @@ angry... if their mate... is killed...#Ron
 
  部下の感情すら、意のままにしてたってのか……！？
 > CONTEXT: Map042/events/5/pages/1/121/Dialogue/kazuya
-The hell is that...!
-
-She can even control the emotions of her
-subordinates?#Ron
+What is it......! Even the emotions of his
+subordinates were left as they intended? ?#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -390,10 +359,8 @@ subordinates?#Ron
 
 ニンゲン　きりきざむ　は　ヘカーテ　さま　メイレイ……
 > CONTEXT: Map042/events/5/pages/1/125/Dialogue/enemy3
-I was... definitely... angry but...
-
-Slicing up... humans was... on Hectate-sama's...
-orders...#MTLed
+I was wrong but...'human' Mr. Hecate Mr. Meira
+...#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -401,8 +368,8 @@ orders...#MTLed
 
 \\N[1]　死んだら　きっと　ほんとう　怒る
 > CONTEXT: Map042/events/5/pages/1/129/Dialogue/enemy2
-But I would... probably... get quite... angry
-if... \\N[1] died...#Ron
+But tabun...If \\N[1] is dead I will surely get
+really angry#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -410,9 +377,8 @@ if... \\N[1] died...#Ron
 
 だから　\\N[1]　は　わたし　の　オス……
 > CONTEXT: Map042/events/5/pages/1/133/Dialogue/enemy2
-I don't... fully get... why but...
-
-\\N[1] is... my male...#Ron
+Well I don't know but...So \\N[1] is my male
+......#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -420,16 +386,15 @@ I don't... fully get... why but...
 
 いじめ　されたら　いつでも　言って。
 > CONTEXT: Map042/events/5/pages/1/137/Dialogue/enemy2
-\\N[1]... you're not... being... picked on... are
-you...? Please tell me... if someone... is
-picking... on you...#Ron
+\\N[1] Are you bullying? Whenever I get bullied,
+say it.#MTLed
 > END STRING
 
 > BEGIN STRING
 
 わたし　そいつ　きりきざむ　から
 > CONTEXT: Map042/events/5/pages/1/141/Dialogue/enemy2
-I'll slice... them up...#Ron
+Because I#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -437,10 +402,8 @@ I'll slice... them up...#Ron
 
  大丈夫！！大丈夫だから！！
 > CONTEXT: Map042/events/5/pages/1/144/Dialogue/kazuya
-P- please don't say something so terrifying with
-such a straight face! 
-
-I'm fine! I'm absolutly fine!!#Ron
+Oh, don't tell me not to be serious! ?
+All right!!Like I said, I'm fine! !#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -448,9 +411,9 @@ I'm fine! I'm absolutly fine!!#Ron
 
 バーゲストみたいに…………
 > CONTEXT: Map042/events/5/pages/1/153/Dialogue/kazuya
-Your tongues have charm magic in them, right?
-
-Just like barghests...#Ron
+The tongue of the Empuse, Charmed There is
+magical power of magic, right?
+Like barghest ............#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -458,9 +421,8 @@ Just like barghests...#Ron
 
 グオォ！！
 > CONTEXT: Map042/events/5/pages/1/159/Dialogue/enemy3
-Ugh...!!! BARGHESTS!! BARGHESTS!!
-
-Gaaah!!#Ron
+Wow .........!!! barghest!!barghest! !
+Guo! !#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -468,9 +430,7 @@ Gaaah!!#Ron
 
 どうしたの！エンプーサ！？
 > CONTEXT: Map042/events/5/pages/1/168/Dialogue/kazuya
-W- what?!
-
-What's wrong, Empuse?!#Ron
+What! ? What's wrong! Empuse! ?#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -478,9 +438,7 @@ What's wrong, Empuse?!#Ron
 
 フーッ………！！！
 > CONTEXT: Map042/events/5/pages/1/172/Dialogue/enemy3
-Fogghh!!
-
-Fogghh...!!#Ron
+Foo!!Whoa .........!!!#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -488,9 +446,7 @@ Fogghh...!!#Ron
 
 こりゃ、俺から説明した方がよさげか？
 > CONTEXT: Map042/events/5/pages/1/179/Dialogue/other2
-Ah...
-
-Better that I explain that to ya, 'kay?#Ron
+Ah………. Well, is it better to explain from me?#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -498,10 +454,8 @@ Better that I explain that to ya, 'kay?#Ron
 
 シェルターの時でも見たことないぞ、こんな暴れ方……。
 > CONTEXT: Map042/events/5/pages/1/183/Dialogue/kazuya
-W- what the hell's going on?
-
-I've never seen her go nuts like this before, even
-back in the shelter...#Ron
+How are you all...I've never seen it even in
+the shelter, how it's going to go wild ...#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -509,8 +463,8 @@ back in the shelter...#Ron
 
  犬悪魔のバーゲストとヤバいくらい仲悪いんだよ。
 > CONTEXT: Map042/events/5/pages/1/187/Dialogue/other2
-Yeah the thing is... Empuses and dog demons like
-barghests really don't get along.#Ron
+Actually...... Empuse, I'm so weird as to
+barghest of the dog demon.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -518,9 +472,9 @@ barghests really don't get along.#Ron
 
 びっくりして興奮してるみたいだぜ……。
 > CONTEXT: Map042/events/5/pages/1/191/Dialogue/other2
-And hearing that name coming outta the mouth of
-the guy she's got her heart set her on really
-startled and riled her up...#Ron
+Well, that's because the name came out from my
+favorite mouth. It looks like I'm surprised and
+aroused ....#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -528,9 +482,8 @@ startled and riled her up...#Ron
 
 なのに　ヘカーテ　さまっ　おこった　言う！！
 > CONTEXT: Map042/events/5/pages/1/195/Dialogue/enemy3
-Rrgh...!! I am... not... A DOG...!!
-
-No matter... what Hectate-sama... says...!!#RonIffy
+Wow ...!!I am a dog!!Though Hecate says it
+happened! !#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -538,8 +491,8 @@ No matter... what Hectate-sama... says...!!#RonIffy
 
  『バーゲスト　より　せっそう　なし』！！
 > CONTEXT: Map042/events/5/pages/1/199/Dialogue/enemy3
-"Barghests... don't... disappont me..." 
-"Barghests... are more... faithful... than you..."#Ron
+"Budget worse than barghest". 
+"Beyond the barghest!" !#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -547,20 +500,20 @@ No matter... what Hectate-sama... says...!!#RonIffy
 
  『コカン』　だって　かくしてるっ！！
 > CONTEXT: Map042/events/5/pages/1/203/Dialogue/enemy3
-Rrgh...!!! I don't... stick my... tongues out...
-like that! I don't... expose... my crotch!!#Ron
+Wow ...!!! I don't like Bello!
+Even if it is "Kokan", it is all right! !#MTLed
 > END STRING
 
 > BEGIN STRING
 く、比べるところ、そこなんだ……？
 > CONTEXT: Map042/events/5/pages/1/207/Dialogue/kazuya
-I- is that how she's gonna compare herself...?#Ron
+Kuh, comparing, there is.........?#MTLed
 > END STRING
 
 > BEGIN STRING
 お、落ち着いた？エンプーサ…
 > CONTEXT: Map042/events/5/pages/1/226/Dialogue/kazuya
-H- have you calmed down, Empuse?#Ron
+Oh, did you settle down? Empuse ...#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -568,10 +521,8 @@ H- have you calmed down, Empuse?#Ron
 
 シツモン　意味　リカイ　してなかた…　
 > CONTEXT: Map042/events/5/pages/1/228/Dialogue/enemy3
-Uggh... I'm sorry...
-
-I didn't... understand... what you... were
-asking... me about...#Ron
+Wow...I'm sorry...Shitsumon Meaning Rikai How
+... ...#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -579,9 +530,7 @@ asking... me about...#Ron
 
 もともと　私の　マリョク　が　おおい
 > CONTEXT: Map042/events/5/pages/1/232/Dialogue/enemy2
-We're both... similiar... and different...
-
-I originally... had more... magical... power...#Ron
+barghest the same. Originally my malok is covered#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -589,9 +538,8 @@ I originally... had more... magical... power...#Ron
 
 それで　だいたい　バーゲスト　おなじ
 > CONTEXT: Map042/events/5/pages/1/236/Dialogue/enemy2
-But now... that power is... distributed...
-between all... my tongues...
-And so... now we... are similiar...#Ron
+Bello Kazu only a few Bunsan. 
+And so, about the same barghest#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -599,10 +547,8 @@ And so... now we... are similiar...#Ron
 
 そんなに　マリョク　当てない。　ニンゲン　こわれる。
 > CONTEXT: Map042/events/5/pages/1/240/Dialogue/enemy2
-But... when I lick... a human...
-
-It doesn't... hit them... with that... much magic...
-But humans... still break...#Ron
+Just...'human' when lick ...
+I don't know so much. 'Human' is broken.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -611,10 +557,10 @@ But humans... still break...#Ron
 舌の数だけ分散しただけで、
 そもそも人間相手だと、そんなに魔力は要らないと…
 > CONTEXT: Map042/events/5/pages/1/244/Dialogue/kazuya
-I- in other words, you originally had more magic
-power than them. But even though your magic is now
-dispersed across all your tongues, you don't need
-to use much magic against humans...#RonIffy
+In other words, originally you have higher magic
+power. Just by the number of tongues,
+If you're a human opponent in the first place,
+you don't need so much magic ...#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -622,15 +568,14 @@ to use much magic against humans...#RonIffy
 
 ……スキ。
 > CONTEXT: Map042/events/5/pages/1/250/Dialogue/enemy2
-... \\N[1], you really... get me...
-
-...I love you.#Ron
+............ \\N[1], I understand very well.
+……Love.#MTLed
 > END STRING
 
 > BEGIN STRING
 （な、なんで勝ち誇ったような顔なんだろう…？）
 > CONTEXT: Map042/events/5/pages/1/254/Dialogue/kazuya
-(W- why does she look so triumphant?)#Ron
+(Why, why is it a face that won?)#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -638,16 +583,13 @@ to use much magic against humans...#RonIffy
 
 わたし　バーゲスト　どっち　すきか？
 > CONTEXT: Map042/events/5/pages/1/257/Dialogue/enemy2
-\\N[1].
-
-Barghests... or me... which... do you...like
-more...?#Ron
+\\N[1]. I like barghest which one?#MTLed
 > END STRING
 
 > BEGIN STRING
 （ダイレクトな２択で聞いてきたなー！！）
 > CONTEXT: Map042/events/5/pages/1/261/Dialogue/kazuya
-(Uh oh, she's only giving me the two options!!)#Ron
+(Have heard it in a direct 2 options !!)#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -655,20 +597,20 @@ more...?#Ron
 
 そもそも種族がちがうし、どっちにも良いとこ……ろ…-
 > CONTEXT: Map042/events/5/pages/1/263/Dialogue/kazuya
-L- let me see... Both races have their good points
-so I don't think... I could...#Ron
+Let me see……. In the first place, the races are
+different, and both are good.#MTLed
 > END STRING
 
 > BEGIN STRING
 ……が…-
 > CONTEXT: Map042/events/5/pages/1/267/Dialogue/kazuya
-... BUT...#Ron
+……But…-#MTLed
 > END STRING
 
 > BEGIN STRING
 も、もちろん………！君さ！エンプーサ！
 > CONTEXT: Map042/events/5/pages/1/271/Dialogue/kazuya
-N- naturally I pick you, Empuse!#Ron
+Well, of course......! You are! Empuse!#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -676,8 +618,8 @@ N- naturally I pick you, Empuse!#Ron
 
 　そうとしか言えないじゃんか……！！）
 > CONTEXT: Map042/events/5/pages/1/275/Dialogue/kazuya
-(Of course I'm gonna pick her if she raises
-her sickles like that...!!)#Ron
+(If you can raise your ax like that
+I can only say so.........!!)#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -685,9 +627,8 @@ her sickles like that...!!)#Ron
 
 交尾　でも　いいぞ？
 > CONTEXT: Map042/events/5/pages/1/279/Dialogue/enemy2
-... \\N[1]... what would... you like to... talk
-about... next...? We can... mate... if you...
-want to...#Ron
+............ \\N[1] What would you like to do
+next? Mating But is it okay?#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -695,8 +636,8 @@ want to...#Ron
 
 　持っていこうとはしないんだな………？）
 > CONTEXT: Map042/events/5/pages/1/283/Dialogue/kazuya
-(Ah, but maybe I shouldn't try to get into any
-really deep topics of conversation...)#Ron
+(Oh, but in the specifics and in-depth stories
+You don't want to bring it......? )#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -704,8 +645,8 @@ really deep topics of conversation...)#Ron
 
 　自分を持ち上げさせようとするけど……。）
 > CONTEXT: Map042/events/5/pages/1/287/Dialogue/kazuya
-(Normally, that kind of topic is something you use
-to flatter the other person...)#RonIffy
+(Normally, such a topic is further compared with
+the other party. I try to lift myself .... )#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -713,9 +654,7 @@ to flatter the other person...)#RonIffy
 
  バーゲスト　ちがう♪
 > CONTEXT: Map042/events/5/pages/1/291/Dialogue/enemy2
-\\N[1]... I like you...
-
-Not like... Barghest...♪#Ron
+\\N[1] I like it. barghest♪#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -732,9 +671,8 @@ yourself. I just wanted it to me ...? )#MTLed
 
 ここ　へや　おく　茂み　なってる。
 > CONTEXT: Map042/events/5/pages/1/306/Dialogue/enemy2
-\\N[1]... would you... like to go... for a
-walk...? There's a... thicket... further ahead...
-in this room...#Ron
+\\N[1] Would you like to walk a little?
+The bushes are here.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -742,8 +680,8 @@ in this room...#Ron
 
  ホントに奥があったんだね。
 > CONTEXT: Map042/events/5/pages/1/310/Dialogue/kazuya
-Looks like there really is a path going deeper
-into the room...#Ron
+It looked like something was going on
+I really had a back.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -751,16 +689,14 @@ into the room...#Ron
 
  一緒に散歩しよう。
 > CONTEXT: Map042/events/5/pages/1/314/Dialogue/kazuya
-Okay! I'm down.
-
-Let's take a walk together.#Ron
+Good! OK. Let's take a walk together.#MTLed
 > END STRING
 
 > BEGIN STRING
 …………って言って、一緒に歩いてたはずなのに……
 > CONTEXT: Map042/events/5/pages/1/325/Dialogue/kazuya
-... At least that's what we were supposed to be
-doing...#Ron
+...... saying that I should have walked together
+...#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -774,8 +710,8 @@ Bonding Event if(v[44] \>= 99) #Dargoth
 
 あれ　とっても　たのしい！
 > CONTEXT: Map042/events/5/pages/1/337/Dialogue/enemy2
-\\N[1]... let's play... that hunting... game
-again...! I really... enjoy it!#Ron
+\\N[1] Let's do hunting pretend play again!
+That's very fun!#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -783,15 +719,15 @@ again...! I really... enjoy it!#Ron
 
 　すごく笑顔だもんなぁ…）
 > CONTEXT: Map042/events/5/pages/1/341/Dialogue/kazuya
-(She certainly looks pretty happy when she
-manages to catch me...)#Ron
+(Surely, the face of Empuse when catching me
+It's really a smile ...)#MTLed
 > END STRING
 
 > BEGIN STRING
 （まだ突然出られてくるのにちょっと驚いちゃうけど……）
 > CONTEXT: Map042/events/5/pages/1/345/Dialogue/kazuya
-(I still get a bit of a fright when she suddenly
-pops out at me though...)#Ron
+(I'm a little surprised though I'm still coming
+out suddenly ...)#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -799,9 +735,7 @@ pops out at me though...)#Ron
 
 狩りごっこ、やろうか！
 > CONTEXT: Map042/events/5/pages/1/347/Dialogue/kazuya
-O- okay, Empuse!
-
-Let's play that hunting game!#Ron
+No, good! Empuse! Let's do hunting pretend play!#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -809,9 +743,8 @@ Let's play that hunting game!#Ron
 
 あまり嬉しそうじゃないけど……
 > CONTEXT: Map042/events/5/pages/2/4/Dialogue/kazuya
-H- huh? What's up, Empuse...?
-
-You don't seem too happy...#Ron
+Oh yeah? What's up Empuse ......
+I am not very happy but ...#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1001,9 +934,7 @@ By receiving the engagement ring. \\C[2]Engaged with Empuse!#MTLed
 
 えっと確か…きみは……
 > CONTEXT: Map042/events/7/pages/0/2/Dialogue/kazuya
-Ah!!
-
-Umm, your name was...#Ron
+Ah! Oh sure...you are ...#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1011,14 +942,14 @@ Umm, your name was...#Ron
 
 『えんぷーさ』……
 > CONTEXT: Map042/events/7/pages/0/6/Dialogue/enemy2
-...E-... E- e- mpuse...
-"Empuse"...#Ron
+......... Hm...Hm Empuuuse ...
+"Empuuuse" ......#MTLed
 > END STRING
 
 > BEGIN STRING
 \\{喋れるんかい！？
 > CONTEXT: Map042/events/7/pages/0/10/Dialogue/kazuya
-\\{You can talk!?#Ron
+\\{Don't get scolded!?#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1026,9 +957,7 @@ Umm, your name was...#Ron
 
 しゃべる　のうりょく　ない　かた
 > CONTEXT: Map042/events/7/pages/0/12/Dialogue/enemy2
-No... back then...
-
-I... could... not... speak#Ron
+When it is different...How to talk#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1036,9 +965,7 @@ I... could... not... speak#Ron
 
 ここ　くる　ぜったい　いや　って…
 > CONTEXT: Map042/events/7/pages/0/16/Dialogue/enemy2
-Hectate-sama...
-
-Said... "I don't... want ... you... back..."#Ron
+Mr. "Hate". It's going to come here ...#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1046,9 +973,7 @@ Said... "I don't... want ... you... back..."#Ron
 
 わたし　むりやり　しゃ、しゃべべる　ように　した
 > CONTEXT: Map042/events/7/pages/0/20/Dialogue/enemy2
-So that's... why...
-
-I tried to... f- force myself... to speak...#Ron
+So ...... I was so nervous, I tried to talk#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1056,10 +981,8 @@ I tried to... f- force myself... to speak...#Ron
 
 あんな別れ方だったしね…そりゃ怒ってるのか……
 > CONTEXT: Map042/events/7/pages/0/24/Dialogue/kazuya
-Oh... Well...
-
-With the way you left it's no wonder she got
-mad...#Ron
+Oh......... Well...It was that kind of
+farewell...Is it so angry ...?#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1067,9 +990,7 @@ mad...#Ron
 
 わたし　かえる　ばしょ　ない
 > CONTEXT: Map042/events/7/pages/0/28/Dialogue/enemy3
-... I have...
-
-No-where... to go... home to...#Ron
+………Already. I have no choice#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1077,6 +998,6 @@ No-where... to go... home to...#Ron
 
 \\N[1]　すき　じかん　ここ　きて
 > CONTEXT: Map042/events/7/pages/0/32/Dialogue/enemy2
-I'll... stay here... from... now on... 
-Stop by... whenever... you like, \\N[1].#Ron
+I have been here all the time. 
+\\N[1] I am here#MTLed
 > END STRING

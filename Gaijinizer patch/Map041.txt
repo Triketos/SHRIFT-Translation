@@ -4,9 +4,8 @@
 
 お待ちしておりましたよ。
 > CONTEXT: Map041/events/5/pages/0/19/Dialogue/yuuma
-Oh hello \\N[1]-sama.
-
-I've been waiting for you.#Ron
+oh look at this, Mr. \\N[1]. I was waiting for
+you.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -30,7 +29,7 @@ Milking (Rear) en(v[42] \>= 60) #Dargoth
 > BEGIN STRING
 【アイアンメイデン】種族：妖魔
 > CONTEXT: Map041/events/5/pages/0/33/ChoiceHelp
-【Iron Maiden】 Tribe: Apparition#Ron
+【Iron Maiden】 Tribe: monster#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -80,15 +79,13 @@ Remove mind corruption if(v[42] \>= 100) #Dargoth
 
 今日はいやに甘えてきますね…？♡
 > CONTEXT: Map041/events/5/pages/0/227/Dialogue/yuuma
-Oh dear...
-
-Have you been overpampered today...? ♡#Ron
+oh no...You'll be careless today ...? Moth#MTLed
 > END STRING
 
 > BEGIN STRING
 "アイアンメイデンの心蝕が治った！！"
 > CONTEXT: Map041/events/5/pages/0/238/InlineScript/1:12
-"Iron Maiden's mind corruption has been cured!!"#Ron
+"アイアンメイデン's mind corruption cured!!"#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -96,31 +93,31 @@ Have you been overpampered today...? ♡#Ron
 
 どんなお話を致しましょうか。
 > CONTEXT: Map041/events/5/pages/1/1/Dialogue/yuuma
-With pleasure. What would you like to talk about?#Ron
+Yes, it's ok. What kind of story will you do?#MTLed
 > END STRING
 
 > BEGIN STRING
 真意en(v[42] \>= 30) 
 > CONTEXT: Map041/events/5/pages/1/7/Choice/0
-Her Reasonsen(v[42] \>= 30)#MTLed
+True intentionen(v[42] \>= 30)#MTLed
 > END STRING
 
 > BEGIN STRING
 過去の姿en(v[42] \>= 40) 
 > CONTEXT: Map041/events/5/pages/1/7/Choice/1
-Previous Formen(v[42] \>= 40)#Ron
+Past figureen(v[42] \>= 40)#MTLed
 > END STRING
 
 > BEGIN STRING
 黒いドレスen(v[42] \>= 60) 
 > CONTEXT: Map041/events/5/pages/1/7/Choice/2
-Her Dressen(v[42] \>= 60)#Ron
+Black dressen(v[42] \>= 60)#MTLed
 > END STRING
 
 > BEGIN STRING
 普段の食事と好みについてen(v[42] \>= 80) 
 > CONTEXT: Map041/events/5/pages/1/7/Choice/3
-What Do You Eat?en(v[42] \>= 80)#Ron
+About usual meal and preferenceen(v[42] \>= 80)#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -128,8 +125,8 @@ What Do You Eat?en(v[42] \>= 80)#Ron
 
 とてもつまらない理由ですよ。よろしいのですか？
 > CONTEXT: Map041/events/5/pages/1/12/Dialogue/yuuma
-My reasons aren't overly interesting. Are you sure
-you want to talk about that?#Ron
+Even if it is said that the true intention ...
+That's a very boring reason. Are you sure?#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -137,9 +134,9 @@ you want to talk about that?#Ron
 
 やっぱり本人の口から真実を聞いておきたいと思って…
 > CONTEXT: Map041/events/5/pages/1/16/Dialogue/kazuya
-I can imagine what they might be to an extent...
-But I really do want to hear it straight from the
-horse's mouth...#Ron
+I can imagine to some extent ...
+After all I want to hear the truth from the
+person's mouth ...#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -147,15 +144,15 @@ horse's mouth...#Ron
 
 僕も驚いてあれ以上は聞けなかったしさ。
 > CONTEXT: Map041/events/5/pages/1/20/Dialogue/kazuya
-And also, your body started to fall apart back
-there, I was so shocked by that I wasn't able to
-ask about anything else.#Ron
+Besides, at that time your body starts to
+collapse, I was also surprised that I could not
+hear more than that.#MTLed
 > END STRING
 
 > BEGIN STRING
 ………いいでしょう。
 > CONTEXT: Map041/events/5/pages/1/24/Dialogue/yuuma
-... Okay then.#Ron
+......that's fine.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -163,9 +160,9 @@ ask about anything else.#Ron
 
 １つは、私が『あなた専用』生物兵器として使用されること。
 > CONTEXT: Map041/events/5/pages/1/26/Dialogue/yuuma
-I only knew two things from M.O.W...
-The first is that I was to be used as a biological
-weapon against you and you alone.#Ron
+There are two pieces of information I have passed
+from "M.O.W.". One is that I will be used as a
+'you only' biological weapon.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -173,9 +170,9 @@ weapon against you and you alone.#Ron
 
 私の身体は自己崩壊を起こして、消えてしまうということ。
 > CONTEXT: Map041/events/5/pages/1/30/Dialogue/yuuma
-The second is that in the event I could not absorb
-your soul... They would make my body self-destruct
-and I would disappear.#Ron
+And one more thing, if you can not capture your
+soul...My body is self-destructing and
+disappearing.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -183,9 +180,9 @@ and I would disappear.#Ron
 
 だって貴方は、本当に可愛らしい御方でしたもので…。
 > CONTEXT: Map041/events/5/pages/1/36/Dialogue/yuuma
-At first, I fully intended to comply with their
-wishes. I mean, you really were a lovely gentleman
-after all....#Ron
+At first, I intended to move according to their
+expectations. Because you were a really pretty
+person ....#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -193,8 +190,8 @@ after all....#Ron
 
 少々、気が変わりました。
 > CONTEXT: Map041/events/5/pages/1/40/Dialogue/yuuma
-However, after seeing the demons in that facility
-my mind started to change little by little.#Ron
+However, I saw the demons who were in that
+facility...I changed my mind a little.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -202,8 +199,8 @@ my mind started to change little by little.#Ron
 
 ランパスや、バーゲストのことか？
 > CONTEXT: Map041/events/5/pages/1/44/Dialogue/kazuya
-Demons in the facility? You mean the Barghests and
-Lampas?#Ron
+The demon of that facility? Is it Lampas or
+barghest?#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -211,9 +208,9 @@ Lampas?#Ron
 
 ということは『ヘカーテ』自身も遊びに来ている…。
 > CONTEXT: Map041/events/5/pages/1/48/Dialogue/yuuma
-You may already know, but they're both Hectate's
-minions... That meant Hectate herself had come to
-play...#Ron
+As you may already know, both of Hecate's
+followers .... That means "Hecate" is also coming
+to play ....#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -221,8 +218,8 @@ play...#Ron
 
 最終的には彼女に対峙することになってしまう…。
 > CONTEXT: Map041/events/5/pages/1/52/Dialogue/yuuma
-In other words... No matter how hard you tried to
-escape, you would eventually have to face her...#Ron
+In other words...no matter how desperately you
+try to escape. Eventually you will face her ....#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -230,9 +227,9 @@ escape, you would eventually have to face her...#Ron
 必死に生きようとする貴方を見て…
 少し彼女の『シナリオ』を変えてやろうと思ったんです。
 > CONTEXT: Map041/events/5/pages/1/56/Dialogue/yuuma
-Seeing you desperately trying to live without
-knowing what kind of odds you were up against...
-I thought I'd try changing her "script".#Ron
+Without knowing that such a successful game is
+waiting, Seeing you trying to live desperately
+... I wanted to change her 'script' a little.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -240,9 +237,8 @@ I thought I'd try changing her "script".#Ron
 
 少々……好きではなかったものですから。
 > CONTEXT: Map041/events/5/pages/1/60/Dialogue/yuuma
-From long ago she's treated lives as though they
-were no more than her playthings, and I...
-I slowly grew to dislike that.#Ron
+I treat her as a toy from the old days
+A little...because I did not like it.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -250,10 +246,8 @@ I slowly grew to dislike that.#Ron
 
 最後に僕を助けるために、わざと力を温存したのか？
 > CONTEXT: Map041/events/5/pages/1/64/Dialogue/kazuya
-No way...
-
-So in the end there did you intentionally retain
-your power so you could save me?#Ron
+No way ......... Lastly, did you intentionally
+save your power to help me?#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -261,10 +255,8 @@ your power so you could save me?#Ron
 
 この身体は、過度の魔力放出には耐えられないのです。
 > CONTEXT: Map041/events/5/pages/1/68/Dialogue/yuuma
-I mentioned this before but...
-
-This body cannot withstand an excessive discharge
-of magical power.#Ron
+I also talked about that time ...
+This body can not stand excessive magic release.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -272,8 +264,8 @@ of magical power.#Ron
 
 この身体は維持しておかねばなりませんでした。
 > CONTEXT: Map041/events/5/pages/1/72/Dialogue/yuuma
-I had to maintain that amount of energy so I could
-frighten and drive off Hectate.#Ron
+Let her beat and until she leaves ...
+This body had to be maintained.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -281,9 +273,9 @@ frighten and drive off Hectate.#Ron
 
 あわよくば貴方が諦めて、私のものになればと…
 > CONTEXT: Map041/events/5/pages/1/77/Dialogue/yuuma
-But I did put in a bit of effort when you faced me
-in that hallway just before. With a bit of luck, I
-would have been able to make you mine.#Ron
+But, did you get a little serious in the aisle
+just before that? If you do well, you will give
+up and it will be mine ...#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -291,20 +283,20 @@ would have been able to make you mine.#Ron
 
 もしよろしかったら、また私に抱かせてくださいませ♡
 > CONTEXT: Map041/events/5/pages/1/81/Dialogue/yuuma
-Aaah... ♡ The feeling of holding you... ♡
-If you'd like, please let me hold you again. ♡#Ron
+Oh ...... your Hug comfort of that time...♡
+If it's wrong, please let me have it again#MTLed
 > END STRING
 
 > BEGIN STRING
 ねぇ、アイア…\\|\\^
 > CONTEXT: Map041/events/5/pages/1/90/Dialogue/kazuya
-Hey, Lily...\\|\\^#Ron
+Hey, Ia ...\\|\\^#MTLed
 > END STRING
 
 > BEGIN STRING
 ………じゃなかった！ルシィ！
 > CONTEXT: Map041/events/5/pages/1/94/Dialogue/kazuya
-... Sorry! I mean Lucy!#Ron
+………Was not! Lucy!#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -312,8 +304,8 @@ Hey, Lily...\\|\\^#Ron
 
 その姿になる前は、どんな悪魔だったの？
 > CONTEXT: Map041/events/5/pages/1/96/Dialogue/kazuya
-L- Lucy... What sort of demon were you before you
-had this form?#Ron
+... ...... Rusy, What kind of demon was it before
+it became that figure?#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -321,8 +313,8 @@ had this form?#Ron
 
 ずいぶんと嫌ってるみたいだけど……
 > CONTEXT: Map041/events/5/pages/1/100/Dialogue/kazuya
-It kinda feels like you really don't want me
-asking about that.#Ron
+I felt like I heard something. 
+I seem to dislike it a lot.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -330,8 +322,8 @@ asking about that.#Ron
 
 プライベートなことだし……！
 > CONTEXT: Map041/events/5/pages/1/106/Dialogue/kazuya
-No, I mean...!! You don't have to talk about it if
-you don't want to! It's private info and all that.#MTLed
+Oh no!!I wish I did not want to talk!
+Spongebob It is......!#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -339,9 +331,8 @@ you don't want to! It's private info and all that.#MTLed
 
 どのみち、いずれ貴方には話そうと思っておりました。
 > CONTEXT: Map041/events/5/pages/1/110/Dialogue/yuuma
-I do not mind. It's not as though I mean to keep
-it hidden. I had thought about telling you at some
-point anyway.#Ron
+I do not mind. It's not like hiding.
+I was thinking of talking to you anyway.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -350,16 +341,16 @@ point anyway.#Ron
 誘惑する悪魔の代名詞のような種族ですが
 私は他のサキュバスにはない、ある特徴がありました。
 > CONTEXT: Map041/events/5/pages/1/115/Dialogue/yuuma
-I used to be part of the "Succubus" tribe. It's a
-tribe whose name has become the byword for
-seduction, but I had certain characteristics that
-separated me from the other Succubi.#Ron
+My previous race is "Succubus" ...
+It's a kind of pronoun of demon that tempts
+I had certain features that other Succubus do not
+have.#MTLed
 > END STRING
 
 > BEGIN STRING
 特徴…？
 > CONTEXT: Map041/events/5/pages/1/120/Dialogue/kazuya
-Characteristics...?#Ron
+Feature…?#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -367,10 +358,9 @@ Characteristics...?#Ron
 
 いえ……正確には、体液も魂もすべて、皮と骨だけを残して…
 > CONTEXT: Map041/events/5/pages/1/122/Dialogue/yuuma
-I could absorb all the energy from another with
-just a single touch. Well, to be precise, both
-their soul and body fluids, leaving only skin and
-bones behind...#Ron
+I just touched for a moment and sucked all the
+other's energy. No .... To be precise, all body
+fluids and souls, leaving only skin and bones ...#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -378,9 +368,8 @@ bones behind...#Ron
 
 この力は、私の意志では全く抑えられませんでした。
 > CONTEXT: Map041/events/5/pages/1/126/Dialogue/yuuma
-... And it wasn't that I "could" do this, I "did"
-do this. This power wasn't something I could
-restrain.#Ron
+......not "breathed", "sucked".
+This power was not suppressed at all by my will.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -388,9 +377,9 @@ restrain.#Ron
 
 ですが、いくら訓練をしても、改善はされませんでした。
 > CONTEXT: Map041/events/5/pages/1/130/Dialogue/yuuma
-When I was small, I was told it was simply a
-matter of self-control. But no matter how much I
-trained, I could not control it.#Ron
+When I was small, I was told that it was a matter
+of magical power control. However, no matter how
+much training was done, there was no improvement.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -398,10 +387,9 @@ trained, I could not control it.#Ron
 
 同世代のサキュバス達は、次第に距離を取り始めました。
 > CONTEXT: Map041/events/5/pages/1/134/Dialogue/yuuma
-Before long, succubi from the same generation
-began increasingly keeping their distance from me.
-We had nothing in common, I had literally never
-held a person before.#Ron
+Before long, I have never held a person literally
+Succubus of the same generation gradually began
+to take distance.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -409,9 +397,8 @@ held a person before.#Ron
 
 私に自信を持つように言ってきました。
 > CONTEXT: Map041/events/5/pages/1/138/Dialogue/yuuma
-My relatives tried to give me confidence by saying
-that this ability was proof I had powerful magical
-power.#Ron
+Relatives say that this ability is high evidence
+of magic. I told you to have confidence.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -420,9 +407,9 @@ power.#Ron
 恐れ多くも高位な階位まで頂いたのですが……。
 それでも私の心は、ただただ乾いていました…。
 > CONTEXT: Map041/events/5/pages/1/142/Dialogue/yuuma
-And in fact, my magic was steadily growing in
-power... And I graciously received a high rank...
-But still my heart was empty...#Ron
+In fact, my magic is growing more and more ...
+Many fears gave me a high rank ...
+Still my heart was only dry ....#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -431,17 +418,17 @@ But still my heart was empty...#Ron
 味覚や食感を味わうこともできずに、
 ただただ胃袋に入ってゆくような生活……。
 > CONTEXT: Map041/events/5/pages/1/149/Dialogue/yuuma
-Even though the reason humans eat is to survive,
-without the ability to taste or feel the texture
-of your food, you're simply dumping food into your
-stomach.#Ron
+In human beings, although "eating" is a race of
+reason for existence. Without being able to taste
+the taste and texture, Only life like going into
+the stomach ....#MTLed
 > END STRING
 
 > BEGIN STRING
 そんな生活が、何年、何十年、何百年……。
 > CONTEXT: Map041/events/5/pages/1/154/Dialogue/yuuma
-Imagine living like that for years, decades,
-centuries...#Ron
+Such a life is for years, decades, hundreds of
+years ....#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -449,8 +436,8 @@ centuries...#Ron
 
 なぜ、私はサキュバスなのかと……
 > CONTEXT: Map041/events/5/pages/1/156/Dialogue/yuuma
-I had ample reason to hate myself.
-"Why was I born a succubus"...#Ron
+There is no reason not to dislike myself.
+Why am I a succubus ...#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -458,10 +445,8 @@ I had ample reason to hate myself.
 
 貴方の言う『Ｍ.Ｏ.Ｗ』に声をかけられたのです。
 > CONTEXT: Map041/events/5/pages/1/161/Dialogue/yuuma
-Amongst all that, those humans...
-
-The ones you call "M.O.W.", they called out to
-me.#Ron
+Among such people, those humans ...
+I was called out to you saying "M.O.W.".#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -470,10 +455,10 @@ me.#Ron
 当時の私は単に、脱出する気も、理由もなかったもので
 私にどんなことをするのだろうと、観察しておりました。
 > CONTEXT: Map041/events/5/pages/1/165/Dialogue/yuuma
-They were pleased to have caught me...
-But at that time, I simply had no intention or
-reason to escape. I wanted to observe them to see
-what they would do with me.#Ron
+The other side was glad to catch me ...
+At that time, I simply had no intention to
+escape, nor was there any reason
+I was observing what kind of thing I would do.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -481,9 +466,9 @@ what they would do with me.#Ron
 
 いつでも吹き飛ばせるような代物でしたから…。
 > CONTEXT: Map041/events/5/pages/1/170/Dialogue/yuuma
-I mean, the equipment they used to catch me was so
-cliched. I could have blown away all their
-"high-class" equipment any time I wished...#Ron
+Because the equipment that was catching me was so
+stale. Because it was a substitute that could be
+blown away anytime ....#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -491,15 +476,15 @@ cliched. I could have blown away all their
 
 幹部であろう人間の一人が、私にこう提案したのです。
 > CONTEXT: Map041/events/5/pages/1/174/Dialogue/yuuma
-But then... One of the humans who looked like he
-was some kind of leader made me an offer.#Ron
+But such time...One of the people who would be
+the executive suggested to me:#MTLed
 > END STRING
 
 > BEGIN STRING
 『人間の身体に触れられるような身体にしたいか？』とね…。
 > CONTEXT: Map041/events/5/pages/1/178/Dialogue/yuuma
-"Would you like to have a body that can touch a
-human?", he asked...#Ron
+"Do you want a body that can touch the human
+body? ] And ....#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -507,9 +492,8 @@ human?", he asked...#Ron
 
 予想以上に重たい過去だった……。
 > CONTEXT: Map041/events/5/pages/1/180/Dialogue/kazuya
-I- I'm sorry.
-
-Some pretty heavy stuff happened in your past...#Ron
+Nah, what a basket noodle. It was a past that was
+heavier than expected ....#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -517,10 +501,8 @@ Some pretty heavy stuff happened in your past...#Ron
 
 フフフ……自棄を起こしたサキュバスの話をしただけですよ。
 > CONTEXT: Map041/events/5/pages/1/184/Dialogue/yuuma
-Why are you apologizing \\N[1]-sama?
-
-Fufufu... we're only talking about a succubus who
-abandoned herself in despair.#Ron
+Why does \\N[1] apologize? Hihihi...I just
+talked about the succubus that gave up.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -528,8 +510,8 @@ abandoned herself in despair.#Ron
 
 この部屋での生活に満足していますし。
 > CONTEXT: Map041/events/5/pages/1/188/Dialogue/yuuma
-And now we can touch each other as much as we
-like. I'm content with my life in this room.#Ron
+And now I can interact with you as much as I like
+I am satisfied with the life in this room.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -537,9 +519,8 @@ like. I'm content with my life in this room.#Ron
 
 もっと深く、キツく、触れあいたいものですけど……♡
 > CONTEXT: Map041/events/5/pages/1/193/Dialogue/yuuma
-But I want more...
-
-I want us to go deeper, tighter... ♡#Ron
+But...for me. Deeper, tougher, but I would like
+to touch...♡#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -547,9 +528,8 @@ I want us to go deeper, tighter... ♡#Ron
 
 ルシィ………目が怖いってば！！
 > CONTEXT: Map041/events/5/pages/1/197/Dialogue/kazuya-a
-I- I'll think about it...!
-
-Those are some scary eyes, Lucy!!#Ron
+Do you think about it ......! 
+Lucy .... If you are scared of eyes! !#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -557,9 +537,8 @@ Those are some scary eyes, Lucy!!#Ron
 
 部位っていうか…。
 > CONTEXT: Map041/events/5/pages/1/206/Dialogue/kazuya
-What kind of material is that thing you're wearing
-made out of? Is it a part of your body or
-something...?#Ron
+What kind of material is Lucy wearing?
+I say the part ....#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -567,15 +546,15 @@ something...?#Ron
 
 攻撃をほとんど弾いてた気がするけど……。
 > CONTEXT: Map041/events/5/pages/1/210/Dialogue/kazuya
-When we had that first fight, that black dress
-seemed to play the biggest part...#Ron
+At the time of the first battle, that black dress
+I feel I played most of the Attack ....#MTLed
 > END STRING
 
 > BEGIN STRING
 フフフ、これは悪魔の『翼』と同じ性質ですよ。
 > CONTEXT: Map041/events/5/pages/1/214/Dialogue/yuuma
-Fufufu, this is essentially the same thing as a
-demon's wings.#Ron
+Hihihi, this is the same nature as demon's
+"wing".#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -583,8 +562,8 @@ demon's wings.#Ron
 
 服として再構築してあるみたいですね。
 > CONTEXT: Map041/events/5/pages/1/216/Dialogue/yuuma
-I used to be a succubus, so I can use this part of
-me to reconstruct what appear to be clothes.#Ron
+I used to be a succubus, so use that site
+It looks like you're rebuilding as clothes.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -592,9 +571,9 @@ me to reconstruct what appear to be clothes.#Ron
 
 翼の時と、勝手はそこまで変わりませんが。
 > CONTEXT: Map041/events/5/pages/1/220/Dialogue/yuuma
-However, they're still connected to my back. When
-they were wings, I wasn't able to freely transform
-them to this extent.#Ron
+However, the connection to the body remains at
+the back. The time of the wing and selfishness
+are not so different.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -602,15 +581,15 @@ them to this extent.#Ron
 
 もとより翼は、他の部位に比べて頑丈に出来てるんですよ。
 > CONTEXT: Map041/events/5/pages/1/224/Dialogue/yuuma
-I can actually also use them to physically fly,
-and also as a shield. My wings have always been
-far sturdier than the other parts of my body.#Ron
+I also use it when I physically fly, and I also
+use it as a shield. From the beginning wings are
+made more robust than other parts.#MTLed
 > END STRING
 
 > BEGIN STRING
 へぇ……どおりで……
 > CONTEXT: Map041/events/5/pages/1/228/Dialogue/kazuya
-Heh... As I discovered...#Ron
+Hee...as it is......#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -618,15 +597,15 @@ Heh... As I discovered...#Ron
 
 悪魔の翼なんて、そうそう自分で触れるものではありませんよ？
 > CONTEXT: Map041/events/5/pages/1/231/Dialogue/yuuma
-... Instead of just looking, why don't you try
-touching them? It's not often you get the chance
-to touch demon wings.#Ron
+......not just looking at it, but why not try
+touching it? The wings of the demon aren't
+something that you touch yourself, right?#MTLed
 > END STRING
 
 > BEGIN STRING
 えっ？ちょっ……！
 > CONTEXT: Map041/events/5/pages/1/235/Dialogue/kazuya-a
-Huh? That's...!#Ron
+eh? Hey ...!#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -634,9 +613,8 @@ Huh? That's...!#Ron
 
 強引に自分の胸部へ導き、押しつける。
 > CONTEXT: Map041/events/5/pages/1/238/Dialogue
-Without waiting for my reply, Iron Maiden grabbed my hand
-and forcefully guided it to her chest, pressing it on her
-body.#Ron
+Iron Maiden grabbed my hand before I heard my reply
+Force your chest into your chest and push it.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -644,17 +622,15 @@ body.#Ron
 
 その見た目以上の気持ち良い肌触りに、思考が乱れる…！
 > CONTEXT: Map041/events/5/pages/1/242/Dialogue
-I was shocked by her sudden action, but the feel of her
-wings was better than it looked and my thoughts
-scattered!#Ron
+While being upset by her behavior too sudden
+The feeling is disturbed by the pleasant touch beyond its
+appearance ...!#MTLed
 > END STRING
 
 > BEGIN STRING
 ああっ………き、気持ちいい……！
 > CONTEXT: Map041/events/5/pages/1/246/Dialogue/kazuya-0
-AAh...
-
-That feels good...!#Ron
+AAh......, I feel good ...!#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -662,9 +638,9 @@ That feels good...!#Ron
 
 獲物を大事に包み込む、なんて用途もあるくらいですから…。
 > CONTEXT: Map041/events/5/pages/1/248/Dialogue/yuuma
-Fufu... That's because they're the wings of a
-former succubus. Their purpose is to
-affectionately envelop prey.#Ron
+Fuhu...Because it is the wings of the original
+Succubus. Because it has so many uses to envelop
+prey carefully ....#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -672,8 +648,8 @@ affectionately envelop prey.#Ron
 
 少し刺激が強かったですかしら？
 > CONTEXT: Map041/events/5/pages/1/252/Dialogue/yuuma
-Was that a little too stimulating even for you,
-\\N[1]-sama? Even with all your magical power?#Ron
+Even \\N[1] who has some magic power
+Did you stimulate a little?#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -681,24 +657,21 @@ Was that a little too stimulating even for you,
 
 静かに息を荒げながら、彼女の身体を撫で回していた。
 > CONTEXT: Map041/events/5/pages/1/258/Dialogue
-I can't stop thinking about that texture...
-
-While gently breathing raggedly, I found myself
-caressing her entire body.#Ron
+I'm crazy about that feeling. I calmly breathed her and
+turned her body.#MTLed
 > END STRING
 
 > BEGIN STRING
 
 そして、彼女を抱き寄せるために、腰に手を……
 > CONTEXT: Map041/events/5/pages/1/262/Dialogue
-Then so I could bring her into a hug, I put my hand on
-her waist and...#Ron
+And, in order to bring her to Hug, a hand on the waist ...#MTLed
 > END STRING
 
 > BEGIN STRING
 ……………はっ！？
 > CONTEXT: Map041/events/5/pages/1/266/Dialogue/kazuya
-... What the!?#Ron
+...... Hah! ?#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -706,10 +679,8 @@ her waist and...#Ron
 
 そのまま正気を失っていてくれれば良かったのに……
 > CONTEXT: Map041/events/5/pages/1/276/Dialogue/yuuma
-Oh dear... what a shame.
-
-And here I thought you were about to go crazy for
-me...#Ron
+Oh...... sorry. I wish I had just lost my
+sanity ...#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -717,8 +688,8 @@ me...#Ron
 
 またそのゆったりとした口調に安心しきってた…！
 > CONTEXT: Map041/events/5/pages/1/280/Dialogue/kazuya
-T- that was close...! That calm tone of voice
-lulled me in...!#Ron
+Oh, I didn't do it ......! Also I was relieved to
+the loose tone ...!#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -726,9 +697,8 @@ lulled me in...!#Ron
 
 これは昔と全く変わらないしゃべり方なのですけどね。
 > CONTEXT: Map041/events/5/pages/1/284/Dialogue/yuuma
-Oh, is that so?
-
-This is how I always speak, though.#Ron
+Oh, is that so? This is the same way of talking
+as before.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -736,15 +706,14 @@ This is how I always speak, though.#Ron
 
 不思議ですね、フフ……
 > CONTEXT: Map041/events/5/pages/1/288/Dialogue/yuuma
-There's not even any magic behind my words...
-
-How strange, fufu...#Ron
+I have not even put the magic ...
+It's strange, Fufu ...#MTLed
 > END STRING
 
 > BEGIN STRING
 （……絶対わかってやってるな……！）
 > CONTEXT: Map041/events/5/pages/1/292/Dialogue/kazuya
-(... You definitely knew what you were doing...!)#Ron
+(... I know I'm absolutely ......!)#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -752,8 +721,8 @@ How strange, fufu...#Ron
 
 料理のひとつでもつくって差し上げましょうか？
 > CONTEXT: Map041/events/5/pages/1/299/Dialogue/yuuma
-Oh, since there's a kitchen here why don't I cook
-you something?#Ron
+Yes, because there is a kitchen
+Shall I cook even one of the dishes?#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -761,9 +730,7 @@ you something?#Ron
 
 ルシィって、料理できるの？
 > CONTEXT: Map041/events/5/pages/1/303/Dialogue/kazuya
-Huh...?
-
-You can cook, Lucy?#Ron
+Huh……? Lucy, can you cook?#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -771,10 +738,10 @@ You can cook, Lucy?#Ron
 
 私はずっと人間界の趣味雑誌ばかり読んでいまして…
 > CONTEXT: Map041/events/5/pages/1/307/Dialogue/yuuma
-While the succubi around me were honing their
-knowledge of sexual techniques and the male body,
-I spent all my time reading hobby magazines from
-the human world...#Ron
+While the surrounding succubus is getting
+knowledge of sexual skills and man's human body
+I have always read hobby magazines of the human
+realm ...#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -782,9 +749,9 @@ the human world...#Ron
 
 なおさら、興味を惹かれたのです。
 > CONTEXT: Map041/events/5/pages/1/311/Dialogue/yuuma
-I was attracted to the idea of human "meals" in
-particular because to demons it's an unnecessary
-custom.#Ron
+In particular, human "meal" is an unnecessary
+custom for demons. Furthermore, I was attracted
+interest.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -792,15 +759,15 @@ custom.#Ron
 
 キッチン用品も、用途を調べて一通り揃えたんですのよ。
 > CONTEXT: Map041/events/5/pages/1/315/Dialogue/yuuma
-I went out of my way to order and procure
-ingredients from the human world. And I researched
-the purpose of every kitchen utensil there is.#Ron
+Stocking and sourcing materials from expressly
+and the human realm. Kitchen utensils were also
+prepared in one pass after examining their uses.#MTLed
 > END STRING
 
 > BEGIN STRING
 ほ、本格的だな……。
 > CONTEXT: Map041/events/5/pages/1/319/Dialogue/kazuya
-Y- you were pretty serious, huh...#Ron
+Well, I'm serious ....#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -808,10 +775,9 @@ Y- you were pretty serious, huh...#Ron
 
 ですが残念な事に、魔界には振る舞う相手がいませんでした。
 > CONTEXT: Map041/events/5/pages/1/321/Dialogue/yuuma
-Yes, as you know, I had that kind of personality.
-
-But unfortunately, there was no one in the demon
-realm I could cook for.#RonIffy
+Yes, it was a character that was out of shape.
+Unfortunately, however, Demon Realm did not have
+anyone to act on.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -819,17 +785,15 @@ realm I could cook for.#RonIffy
 
 私の料理を御賞味くださいな。
 > CONTEXT: Map041/events/5/pages/1/325/Dialogue/yuuma
-So, if you wouldn't mind... Please have some of my
-cooking.
-
-You'll be the first person I've ever cooked for.#Ron
+So if you like...you are the first to behave
+Please taste my food.#MTLed
 > END STRING
 
 > BEGIN STRING
 （………ああ、ここまで聞いただけでも嫌な予感……）
 > CONTEXT: Map041/events/5/pages/1/329/Dialogue/kazuya
-(...Hm, I'm getting a bad feeling from what I've
-heard so far...)#Ron
+(......Oh, there is a bad feeling that you have
+heard so far ...)#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -837,10 +801,9 @@ heard so far...)#Ron
 
 他は缶詰めばかりですが、これならば……
 > CONTEXT: Map041/events/5/pages/1/340/Dialogue/yuuma
-Oh my, it's surprising how quickly rice with eggs
-goes off... 
-There's nothing but canned goods here... But I
-think I can work with this...#RonIffy
+Oh, I'm eating eggs...... surprisingly
+something to keep a day .... The others are just
+cans, but if this is ......#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -848,9 +811,8 @@ think I can work with this...#RonIffy
 
 お嫌いではありませんか？
 > CONTEXT: Map041/events/5/pages/1/345/Dialogue/yuuma
-\\N[1]-sama, how would you like omelet rice?
-
-Do you dislike that dish?#Ron
+Mr. \\N[1], how about omelet rice?
+Do not you dislike?#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -858,9 +820,8 @@ Do you dislike that dish?#Ron
 
 それじゃあ、それをお願いしようかな……。
 > CONTEXT: Map041/events/5/pages/1/349/Dialogue/kazuya
-No, no, I like it...
-
-Please make it for me...#Ron
+No, no, I like it ....... Well then, I would like
+to ask for it ....#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -868,16 +829,14 @@ Please make it for me...#Ron
 
 椅子に座ったままそんなに固まって……
 > CONTEXT: Map041/events/5/pages/1/360/Dialogue/yuuma
-What's the matter?
-
-You're sitting quite stiffly over there...#Ron
+What's up? I'm sitting so hard in the chair ...#MTLed
 > END STRING
 
 > BEGIN STRING
 別に席を立ったからといって、ものを投げたりはしませんよ？
 > CONTEXT: Map041/events/5/pages/1/364/Dialogue/yuuma
-It's not as though I'll throw something at you
-if you leave your seat, you know.#Ron
+You won't throw things just because you've got
+another seat, right?#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -885,10 +844,8 @@ if you leave your seat, you know.#Ron
 
 他人が料理してるのを待つって、なんだか落ち着かなくて…
 > CONTEXT: Map041/events/5/pages/1/366/Dialogue/kazuya
-N- no, that's not it...
-
-I just get a bit restless waiting for someone to
-cook for me...#Ron
+No, no, not so...Waiting for someone else to
+cook, I feel restless ...#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -896,16 +853,16 @@ cook for me...#Ron
 彼女のレイナがよく料理を作りに来てくれるんだけど
 だいたい致命的な失敗をして、僕が手を貸すことになるから…
 > CONTEXT: Map041/events/5/pages/1/370/Dialogue/kazuya
-When I started university and began living alone,
-my girlfriend Reina would often come to cook for
-me. But she'd mess up a lot and I ended up having
-to help her...#Ron
+Since I entered university and started living
+alone. Her Reina often comes to cook
+It's about a fatal failure and I'll be helping
+you ...#MTLed
 > END STRING
 
 > BEGIN STRING
 ……………つまり私が『失敗』すると？
 > CONTEXT: Map041/events/5/pages/1/374/Dialogue/yuuma
-... In other words, if I "mess up"...#Ron
+...... In other words if I "fail"?#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -913,8 +870,8 @@ to help her...#Ron
 
 僕が落ち着いてない理由がそのクセってだけで！
 > CONTEXT: Map041/events/5/pages/1/376/Dialogue/kazuya
-N- no! That's not it! It's just that that's the
-reason I'm so restless!#Ron
+No! that's not it! The only reason I have not
+settled down is that habit!#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -922,10 +879,8 @@ reason I'm so restless!#Ron
 
 女性に料理作ってもらってるのに、自分の彼女の話なんか…
 > CONTEXT: Map041/events/5/pages/1/385/Dialogue/kazuya
-I mean... I'm sorry.
-
-I'm talking about another girl while you're here
-cooking for me...#Ron
+I mean...I'm sorry. I have a woman cook, but my
+story ...#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -933,10 +888,8 @@ cooking for me...#Ron
 
 悪魔には恋愛関係など無縁ですから。
 > CONTEXT: Map041/events/5/pages/1/389/Dialogue/yuuma
-... I do not mind.
-
-Demons have no interest in things like romantic
-relationships.#Ron
+...... I do not mind. Because there is no love
+relationship in demon.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -944,8 +897,8 @@ relationships.#Ron
 
 興味をもって、憧れていたりはしますけど
 > CONTEXT: Map041/events/5/pages/1/393/Dialogue/yuuma
-I do wish even just a small fraction of demons
-were interested in this "cooking", though.#Ron
+Only a few demons like this "cooking"
+I'm interested in it and I'm drowned#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -953,16 +906,14 @@ were interested in this "cooking", though.#Ron
 
 大丈夫です、小さな穴ですので………
 > CONTEXT: Map041/events/5/pages/1/403/Dialogue/yuuma
-... Oh pardon me, my hand slipped.
-
-It's okay, though. It's just a small hole...#Ron
+............ Excuse me, my hand slipped.
+All right, because it's a small hole .........#MTLed
 > END STRING
 
 > BEGIN STRING
 絶対その『ごく一部の悪魔』だ、ルシィってー…！！
 > CONTEXT: Map041/events/5/pages/1/407/Dialogue/kazuya
-You're definitely one of that "small fraction",
-Lucy...!!#Ron
+Absolutely that "Only a few demons", Lucy ...! !#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -970,10 +921,8 @@ Lucy...!!#Ron
 
 今まで作った料理のなかで、自分が好きな料理とかある…？
 > CONTEXT: Map041/events/5/pages/1/410/Dialogue/kazuya
-Er, ummm...
-
-Out of all the dishes you've made, do you have a
-favorite...?#Ron
+Eh, uh ......... Among the dishes I've made so
+far, is it my favorite dish ...?#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -981,16 +930,14 @@ favorite...?#Ron
 
 卵料理なんかは私も好きで、何度も調理しています。
 > CONTEXT: Map041/events/5/pages/1/414/Dialogue/yuuma
-Hmmmm...
-
-I like cooking egg dishes, I've prepared those
-many times.#Ron
+I agree………. I also like egg cooking and cook it
+many times.#MTLed
 > END STRING
 
 > BEGIN STRING
 特に卵は、割るときがとても楽しいですから。
 > CONTEXT: Map041/events/5/pages/1/418/Dialogue/yuuma
-Eggs are especially fun to break.#Ron
+Eggs are especially fun to break.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -998,9 +945,8 @@ Eggs are especially fun to break.#Ron
 
 綺麗に割れたときとかに、テンション上がるとか？
 > CONTEXT: Map041/events/5/pages/1/420/Dialogue/kazuya
-Oh...
-You mean like how nice it feels when you perfectly
-crack an egg?#Ron
+Oh .... Tension goes up when it breaks
+beautifully?#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1009,10 +955,8 @@ crack an egg?#Ron
 仮にも生命の元となる物体を、自分で割り
 良いようにかき混ぜていくのが、です。
 > CONTEXT: Map041/events/5/pages/1/424/Dialogue/yuuma
-No...
-
-It's that even if for just an instant, you're
-breaking and churning the source of life.#Ron
+No…? Temporarily divide the object that is the
+source of life by yourself. Stir in a good way.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1020,15 +964,13 @@ breaking and churning the source of life.#Ron
 
 アハハハハハハハ…！
 > CONTEXT: Map041/events/5/pages/1/429/Dialogue/yuuma
-Ufufufufufufu...
-
-Ahahahahahahaha...!#Ron
+Hihihihihihihi ...... Ahahahahahahaha ...!#MTLed
 > END STRING
 
 > BEGIN STRING
 ………たのしそうだなー…。
 > CONTEXT: Map041/events/5/pages/1/433/Dialogue/kazuya
-... You really seem to enjoy that, huh...#Ron
+... ...... Good luck ....#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1036,15 +978,13 @@ Ahahahahahahaha...!#Ron
 
 どうぞ、召し上がってください。
 > CONTEXT: Map041/events/5/pages/1/442/Dialogue/yuuma
-Okay, all done.
-
-Please, eat up.#Ron
+Well, it's done. Please, have a meal.#MTLed
 > END STRING
 
 > BEGIN STRING
 …………どうされました？\\N[1]様
 > CONTEXT: Map041/events/5/pages/1/448/Dialogue/yuuma
-... Whatever is the matter, \\N[1]-sama?#Ron
+...... What happened? Mr. \\N[1]#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1052,9 +992,8 @@ Please, eat up.#Ron
 
 しかも僕が何回やっても出来ないタイプだぞこれ…！？
 > CONTEXT: Map041/events/5/pages/1/450/Dialogue/kazuya
-Th- this is...!! Super fluffy omelet rice...!
-I've tried making this so many times but I've
-never been able to do it...!#Ron
+Koh, this is it!!"Fuwatoro" omelet rice ...! ?
+What's more, I can't do it many times. ?#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1062,8 +1001,8 @@ never been able to do it...!#Ron
 
 ダメでしたでしょうか？
 > CONTEXT: Map041/events/5/pages/1/454/Dialogue/yuuma
-I like this kind of omelet rice the most.
-Is it no good?#Ron
+I like omelet rice, this look is the most
+favorite thing...Was it useless?#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1071,8 +1010,8 @@ Is it no good?#Ron
 
 すごすぎて驚いてんの！！
 > CONTEXT: Map041/events/5/pages/1/458/Dialogue/kazuya
-N- no, it's the opposite!!
-I'm shocked at how good it turned out!!#Ron
+Anyway...it's the opposite! !
+It's too great to be surprised! !#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1080,9 +1019,8 @@ I'm shocked at how good it turned out!!#Ron
 
 　『見た目は良くても』ってパターンも考えないと駄目か！）
 > CONTEXT: Map041/events/5/pages/1/462/Dialogue/kazuya
-(Ah... but wait... I have to keep in mind that
-this might be one of those "It looks good but
-tastes horrible" situations!)#Ron
+(Ah...but wait..."Don't you think it looks
+good" if you don't think about patterns too! )#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1090,9 +1028,8 @@ tastes horrible" situations!)#Ron
 
 　グルメ番組みたいになっちゃうし……）
 > CONTEXT: Map041/events/5/pages/1/466/Dialogue/kazuya
-(And if I sit here commenting on everything so
-much, I'll risk sounding like I'm on some gourmet
-TV show...)#Ron
+(And, I'm just saying that I'm explaining too
+much. It will be like a gourmet show ......)#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1100,18 +1037,14 @@ TV show...)#Ron
 
 冷めてしまいますよ…？
 > CONTEXT: Map041/events/5/pages/1/472/Dialogue/yuuma
-... You seem fixated on that omelet rice, what are
-thinking about I wonder.
-
-It's going to go cold...#Ron
+......staring at the omelet and what do you
+think? You will cool ...?#MTLed
 > END STRING
 
 > BEGIN STRING
 ああっ…！？そ、そうだね！！ごめん！！
 > CONTEXT: Map041/events/5/pages/1/476/Dialogue/kazuya
-AAh...!? T- that's right!!
-
-Sorry!!#Ron
+AAh ...! ? That's right!!sorry! !#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1119,15 +1052,13 @@ Sorry!!#Ron
 
 いただきます………
 > CONTEXT: Map041/events/5/pages/1/478/Dialogue/kazuya
-W- well then...
-
-Here I go...#Ron
+Well then ......... You will receive .........#MTLed
 > END STRING
 
 > BEGIN STRING
 ………どうでしょうか？
 > CONTEXT: Map041/events/5/pages/1/484/Dialogue/yuuma
-... How is it?#Ron
+………How about that?#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1135,9 +1066,7 @@ Here I go...#Ron
 
 メチャクチャ美味い！！
 > CONTEXT: Map041/events/5/pages/1/487/Dialogue/kazuya-a
-Sss-...
-
-Super delicious!!#Ron
+Mm ......... It's delicious! !#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1146,9 +1075,9 @@ Super delicious!!#Ron
 ホントに人に振る舞うの初めてなの！？
 ぜってー違うでしょ！！この味加減…！！！
 > CONTEXT: Map041/events/5/pages/1/491/Dialogue/kazuya-a
-I mean, honestly!! Is this really the first time
-you've cooked for someone?! There's nooo way!! Not
-if you can make something that tastes like this!!!#Ron
+I mean this!!It is the first time to truly act
+on people! ? All right-not different!!This
+taste is ...!!!#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1156,9 +1085,8 @@ if you can make something that tastes like this!!!#Ron
 
 ですから、そうやって喜んで頂けたのが素直に嬉しいですよ。
 > CONTEXT: Map041/events/5/pages/1/496/Dialogue/yuuma
-... It's really true, you're my first.
-I'm honestly so happy that you're enjoying my
-cooking that much.#Ron
+......genuinely true, you are the first time.
+So I'm happy to be so pleased with it.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1167,10 +1095,10 @@ cooking that much.#Ron
 むしろ精気の味を知らなかったからこそ
 変に味覚に影響を与えることはなかったようですね。
 > CONTEXT: Map041/events/5/pages/1/500/Dialogue/yuuma
-I cursed my old body whose tongue could not taste
-anything... But actually it appears that it was
-because I hadn't tasted energy that my sense of
-taste was not influenced in strange ways.#RonIffy
+...... I cursed the body before I did not go
+through the tongue .... Rather, I did not know
+the taste of the spirit. It did not seem to
+affect the taste strangely.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1178,9 +1106,9 @@ taste was not influenced in strange ways.#RonIffy
 
 　お店のオムライスでもこうはならないぞ…！？）
 > CONTEXT: Map041/events/5/pages/1/505/Dialogue/kazuya-a
-(Oh man...! My hands won't stop...!
-You'd never find omelet rice this good at a
-store...! )#Ron
+(Don't wait ...! I can not stop my hands ...!
+You can't do this with omelet rice in the shop
+...! ? )#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1188,9 +1116,8 @@ store...! )#Ron
 
 その様子だと、本当に気に入って貰えたようですね。
 > CONTEXT: Map041/events/5/pages/1/509/Dialogue/yuuma
-Fufufu...
-
-It looks like you're enjoying my food.#Ron
+Hihihi...That's how you liked it and it seemed
+like you could get it.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1198,10 +1125,8 @@ It looks like you're enjoying my food.#Ron
 
 『失敗』ばかりの彼女から、私に乗り換える気はありません？
 > CONTEXT: Map041/events/5/pages/1/514/Dialogue/yuuma
-How about it... ♡
-
-Do you feel like moving on from that bumbling
-girlfriend of yours... and on to me?#Ron
+How about...♡. From her only "failed", are you
+willing to switch to me?#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1209,9 +1134,9 @@ girlfriend of yours... and on to me?#Ron
 
 きっと御満足頂けると思いますよ…♡
 > CONTEXT: Map041/events/5/pages/1/518/Dialogue/yuuma
-I'll take care of everything around the house, and
-of course at night... I'm sure I can more than
-keep you satisfied... ♡#Ron
+I will take care of my surroundings and, of
+course, even at night...I think I'm sure you
+will be satisfied...♡#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1219,8 +1144,8 @@ keep you satisfied... ♡#Ron
 
 　少し心が揺らいじゃうぞ、これは…！）
 > CONTEXT: Map041/events/5/pages/1/522/Dialogue/kazuya-a
-(Whoa... That's underhanded... I almost gave in
-just now...! )#Ron
+(Uugh...it is......... You can shake your
+mind a little, this is ...! )#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1234,9 +1159,9 @@ Bonding Event if(v[42] \>= 99) #Dargoth
 
 卵料理以外ももっと練習しておくべきでしたね…♡
 > CONTEXT: Map041/events/5/pages/1/558/Dialogue/yuuma
-Fufufu... If I'd known someone would be so happy
-to eat my cooking, I would have practised more
-than just egg dishes...♡#Ron
+Hihihi ...... If you are so pleased
+You should have practiced more than just egg
+cooking...♡#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1244,9 +1169,9 @@ than just egg dishes...♡#Ron
 
 　ほぼ通いつめみたいに料理作ってもらっちゃってる……。）
 > CONTEXT: Map041/events/5/pages/1/562/Dialogue/kazuya-a
-(Since asking her to make me omelet rice that one
-time, I've ended up frequently dropping in to have
-some of her cooking...)#Ron
+(Since I made omelet rice once
+I'm almost asked to make dishes like you would
+like...)#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1254,8 +1179,8 @@ some of her cooking...)#Ron
 
 　分かっちゃいるんだけど………）
 > CONTEXT: Map041/events/5/pages/1/566/Dialogue/kazuya-a
-(I know I've gotten myself into a pickle here,
-this is kinda like a girlfriend situation...)#Ron
+(Don't...this situation in "her own" ...
+I know that...but ...)#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1263,8 +1188,8 @@ this is kinda like a girlfriend situation...)#Ron
 
 　く、クセになる……！）
 > CONTEXT: Map041/events/5/pages/1/570/Dialogue/kazuya-a
-(But these scrambled eggs alone... this exquisite
-balance...!! I- it's become a bad habit...!)#Ron
+(Even this scrambled egg...this exquisite
+addiction...!! It becomes a habit......! )#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1272,14 +1197,15 @@ balance...!! I- it's become a bad habit...!)#Ron
 
 魅了魔法を使わずとも、こうも相手の心を捕らえられる…♡
 > CONTEXT: Map041/events/5/pages/1/577/Dialogue/yuuma
-Cooking is fun... You can steal someone's heart
-without even having to use magic...♡#Ron
+"Cooking" is fun...Charmed Even if you don't
+use magic, you can capture the other person's
+heart...♡#MTLed
 > END STRING
 
 > BEGIN STRING
 や、やっぱり使ってないんだ？
 > CONTEXT: Map041/events/5/pages/1/581/Dialogue/kazuya
-S- so you really aren't using any?#Ron
+Well, after all you are not using it?#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1287,9 +1213,7 @@ S- so you really aren't using any?#Ron
 
 使ってるわけないですよねっ！！
 > CONTEXT: Map041/events/5/pages/1/585/Dialogue/kazuya-a
-S- sorry!!
-
-There's no way you'd be using any!!#Ron
+I'm sorry!!I'm not using it! !#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1297,9 +1221,8 @@ There's no way you'd be using any!!#Ron
 
 後ろに回り込み、両腕で\\N[1]の首を挟んだ…
 > CONTEXT: Map041/events/5/pages/1/589/Dialogue
-From behind \\N[1], Iron Maiden softly drapes both
-her arms over his back, sandwiching his neck
-between them.#Ron
+Iron Maiden's a su and \\N[1]. I went around behind me and
+pinched \\N[1]'s neck with my arms ...#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1307,21 +1230,19 @@ between them.#Ron
 
 ルシィ……さん？
 > CONTEXT: Map041/events/5/pages/1/593/Dialogue/kazuya-a
-U- ummm...
-
-Miss Lucy...?#Ron
+Oh, that ...... Lucy...Mr.?#MTLed
 > END STRING
 
 > BEGIN STRING
 さぁ……お食事は済みましたね……\\N[1]。
 > CONTEXT: Map041/events/5/pages/1/598/Dialogue/yuuma
-Hmm, looks like you've finished eating, \\N[1]...#Ron
+Well...I finished eating...\\N[1].#MTLed
 > END STRING
 
 > BEGIN STRING
 今度は…私が『食べる』番ですよ……
 > CONTEXT: Map041/events/5/pages/1/600/Dialogue/yuuma
-Now it's my turn to eat this time...#Ron
+This time...it is my turn to "eat" ...#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1329,13 +1250,14 @@ Now it's my turn to eat this time...#Ron
 
 不意に\\N[1]の周囲が暗くなる……！！
 > CONTEXT: Map041/events/5/pages/1/602/Dialogue
-Suddenly everything around \\N[1] goes dark...!!#Ron
+Suddenly the surroundings of \\N[1] darken ......! !#MTLed
 > END STRING
 
 > BEGIN STRING
 誘い方ホラーなんだけどーーーーー！！
 > CONTEXT: Map041/events/5/pages/1/606/Dialogue/kazuya-a
-She lured me inーーーーーー!!#Ron
+It is a horror how to invite me butーーーーーー!
+!#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1343,9 +1265,8 @@ She lured me inーーーーーー!!#Ron
 
 ふふふ…美味しかったですよ…♡
 > CONTEXT: Map041/events/5/pages/1/628/Dialogue/yuuma
-Have you come to, \\N[1]?
-
-Fufu... You were delicious... ♡#Ron
+Did you notice? \\N[1]. Fufu...It was delicious
+... ♡#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1353,10 +1274,8 @@ Fufu... You were delicious... ♡#Ron
 
 気分はいかがです？
 > CONTEXT: Map041/events/5/pages/1/632/Dialogue/yuuma
-You were so delicious I ended up milking you a
-little too long...
-
-How are you feeling?#Ron
+It's too delicious and it has been milking a
+little too long...How are you feeling?#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1364,14 +1283,14 @@ How are you feeling?#Ron
 
 股もヒリヒリする……
 > CONTEXT: Map041/events/5/pages/1/636/Dialogue/kazuya-0
-Ugh... I feel so heavy...
-And my crotch is tingling...#Ron
+Uh...your body is heavy...
+Crotch also hot ...#MTLed
 > END STRING
 
 > BEGIN STRING
 ど、どれくらい……僕はルシィに……
 > CONTEXT: Map041/events/5/pages/1/640/Dialogue/kazuya-0
-H- how long... was I in you...?#Ron
+How much...I am Lucy ...#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1380,20 +1299,20 @@ H- how long... was I in you...?#Ron
 ちゃんと加減はしていたのですが、
 あなたが脱水症状になるまで、止められませんでした…
 > CONTEXT: Map041/events/5/pages/1/642/Dialogue/yuuma
-It was about an hour. I tried to stay moderate but
-I couldn't stop myself until you got dehydrated...#Ron
+Is it about one hour? I was modest, but
+I could not stop until you got dehydrated ...#MTLed
 > END STRING
 
 > BEGIN STRING
 いち……じか…ん………
 > CONTEXT: Map041/events/5/pages/1/647/Dialogue/kazuya-0
-An... hour...#Ron
+one hour………#MTLed
 > END STRING
 
 > BEGIN STRING
 ………この感情は、変なのでしょうか。
 > CONTEXT: Map041/events/5/pages/1/651/Dialogue/yuuma
-... Is this feeling I have strange?#Ron
+... Is this feeling strange?#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1401,9 +1320,9 @@ An... hour...#Ron
 
 出来れば、この部屋に閉じ込めてしまいたい……
 > CONTEXT: Map041/events/5/pages/1/653/Dialogue/yuuma
-I don't want to let you go...
-If possible, I would like to keep you locked
-inside this room...#Ron
+I do not want to release you ...
+If possible, I would like to be locked in this
+room ...#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1411,8 +1330,8 @@ inside this room...#Ron
 
 私は嫉妬しているような気がします。
 > CONTEXT: Map041/events/5/pages/1/657/Dialogue/yuuma
-I even feel something like jealousy toward that
-human "girlfriend" of yours.#Ron
+Even your 'her' who is human ...
+I feel like I'm jealous.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1420,8 +1339,8 @@ human "girlfriend" of yours.#Ron
 
 初めてなものですから……
 > CONTEXT: Map041/events/5/pages/1/661/Dialogue/yuuma
-It's the first time I've felt a "fixation" on one
-particular thing...#Ron
+So, what is "sticking" to one thing ...
+Because it is the first time ...#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1429,9 +1348,8 @@ particular thing...#Ron
 
 私が長年、失っていたものなのでしょうね……
 > CONTEXT: Map041/events/5/pages/1/666/Dialogue/yuuma
-Maybe this is just...
-
-Something I had lost for a very long time...#Ron
+Maybe this is...I guess I have lost for many
+years ...#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1439,9 +1357,9 @@ Something I had lost for a very long time...#Ron
 
 虚無に生きて、ただなんとなくただよっていた……。
 > CONTEXT: Map041/events/5/pages/1/670/Dialogue/yuuma
-Not knowing the taste of essence, having never
-embraced prey. Living a pointless, empty
-existence...#Ron
+I do not know the taste of the spirit, I can not
+hold the prey. Living in vain, just wandering
+somehow ....#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1449,8 +1367,8 @@ existence...#Ron
 
 Ｍ.Ｏ.Ｗも皮肉が効いていますよね…。
 > CONTEXT: Map041/events/5/pages/1/674/Dialogue/yuuma
-Being called "Iron Maiden"... I suppose M.O.W.
-also had a sense of irony.#Ron
+What is "iron Maiden"...M.O.W. also works well
+....#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1458,9 +1376,7 @@ also had a sense of irony.#Ron
 
 本当に貴方を閉じ込めたりはしませんから
 > CONTEXT: Map041/events/5/pages/1/681/Dialogue/yuuma
-Don't worry...
-
-I won't actually lock you up in here.#Ron
+No problem……. I won't really lock you up#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1468,9 +1384,7 @@ I won't actually lock you up in here.#Ron
 
 貴方の傍らに、居させてください……。
 > CONTEXT: Map041/events/5/pages/1/685/Dialogue/yuuma
-For now...
-
-Please just let me stay by your side...#Ron
+Right now...Please stay by your side ......#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1647,13 +1561,13 @@ By receiving the engagement ring. \\C[2]Engaged with Iron Maiden!#MTLed
 
 また、お会いできましたね。
 > CONTEXT: Map041/events/7/pages/0/0/Dialogue/yuuma
-Good day, \\N[1]-sama, we meet again.#Ron
+Thank you, Mr. \\N[1]. See you again.#MTLed
 > END STRING
 
 > BEGIN STRING
 アイアンメイデン……！
 > CONTEXT: Map041/events/7/pages/0/4/Dialogue/kazuya
-Iron Maiden...?!#Ron
+Iron Maiden ......!#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1661,9 +1575,9 @@ Iron Maiden...?!#Ron
 
 私はもう貴方様を狙う『生物兵器』ではありませんし…。
 > CONTEXT: Map041/events/7/pages/0/6/Dialogue/yuuma
-Fuhu... That name's long and hard to pronounce is
-it not? I'm no longer a biological weapon set to
-hunt you...#Ron
+Fuhu...The name is long and hard to call.
+I am not a "biological weapon" to aim at you
+anymore ....#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1671,8 +1585,8 @@ hunt you...#Ron
 
 この姿になる前の、私の名前です。
 > CONTEXT: Map041/events/7/pages/0/10/Dialogue/yuuma
-Please call me "Lucy". It was my name before this
-form was taken.#Ron
+Call me "Lucie". It is my name before this
+appearance.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1680,10 +1594,8 @@ form was taken.#Ron
 
 え、えっと………なんていえばいいか……身体とか……
 > CONTEXT: Map041/events/7/pages/0/14/Dialogue/kazuya
-Umm... A- are you okay?
-
-U- uhmm, how do I say this...? I mean, your
-body...#Ron
+That ...... is it alright? Eh, uh...... what
+should I do...body......#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1691,9 +1603,9 @@ body...#Ron
 
 灰になり、風に流されるようにサラサラと消えたあの姿だ。
 > CONTEXT: Map041/events/7/pages/0/18/Dialogue
-Her last moments flash into my head, burnt into
-my retinas. The visage of her disappearing as ash
-flowing in the wind.#Ron
+It is her last moment I got burned in my mind.
+It looks ashes and fades away as it is swept away by the
+wind.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1701,9 +1613,9 @@ flowing in the wind.#Ron
 
 言ってみれば、人間界と魔界の境目のような場所。
 > CONTEXT: Map041/events/7/pages/0/22/Dialogue/yuuma
-Fufufu... This is Hell's Gate.
-In a word, it's like a place lying on the border
-between the human realm and the demon realm.#Ron
+Hihihi...This is Hell's Gate.
+In a word, a place like the border between the
+human realm and the demon realm.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1711,9 +1623,8 @@ between the human realm and the demon realm.#Ron
 
 あなただって、いわゆる精神体なのですから
 > CONTEXT: Map041/events/7/pages/0/26/Dialogue/yuuma
-There's no need for either of us to have an actual
-body. Your body is what could be called a
-"spiritual form".#Ron
+Neither I nor you now need to have an entity.
+Because you are a so-called mental body#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1721,9 +1632,8 @@ body. Your body is what could be called a
 
 フフッ、私はよっぽど昔の姿が嫌いみたいですね。
 > CONTEXT: Map041/events/7/pages/0/31/Dialogue/yuuma
-Still... for me to have this form in order to meet
-you...
-Fufu, it seems I very much dislike my old form.#Ron
+But...how much to meet you, though ...
+Hihih, I like to dislike the old figure.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1731,8 +1641,6 @@ Fufu, it seems I very much dislike my old form.#Ron
 
 気が向いたら、お声をかけてくださいませ。
 > CONTEXT: Map041/events/7/pages/0/35/Dialogue/yuuma
-So with all that, I'll be staying here awhile from
-now on.
-If you should ever feel so inclined, please come
-and chat with me.#Ron
+So I will stay here for a while.
+If you feel like it, please speak to me.#MTLed
 > END STRING
