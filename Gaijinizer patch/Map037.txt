@@ -394,7 +394,7 @@ a barghest.#Ron
 相手がヘカーテじゃ、人間のお前はかないっこない！！
 > CONTEXT: Map037/events/4/pages/0/247/Dialogue/other1
 > CONTEXT: Map037/events/4/pages/1/288/Dialogue/other1
-\\N[1]!! Stay back from her for now!!
+Stay back from her for now, \\N[1]!!
 A human like you is no match for her!!#Ron
 > END STRING
 
@@ -425,8 +425,9 @@ She doesn't look it but she's the demon king!!#Ron
 \\N[1]は体が固まって、ピクリとも動けなくなった！
 > CONTEXT: Map037/events/4/pages/0/260/Dialogue
 > CONTEXT: Map037/events/4/pages/1/301/Dialogue
-\\N[1]'s body has gone stiff, he can't move even
-an inch!#Ron
+\\N[1]'s body goes stiff...
+
+\\C[2]He can't even move an inch!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -929,7 +930,7 @@ Please go on ahead.#Ron
 
  早くいこうぜ……！
 > CONTEXT: Map037/events/4/pages/1/430/Dialogue/other2
-... H- hey \\N[1].
+... H- hey, \\N[1].
 
 Let's go already...!#Ron
 > END STRING
@@ -1104,10 +1105,11 @@ before.#Ron
 与えた余裕すら最後に潰し、抵抗の希望を奪いました。
 > CONTEXT: Map037/events/4/pages/1/501/Dialogue/yuuma
 At the time, I was convinced I'd win.
+
 I tried to corrupt you with love and kindness,
-\\N[1]. Even with all the leeway you had, I was
-going to steal away any hope of resistance from
-you.#Ron
+\\N[1]. Even with all the leeway you had,
+I was going to steal away any hope of resistance
+from you.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1124,8 +1126,8 @@ impossible, even though you knew...#Ron
 
 貴方の『人としての意志』に。
 > CONTEXT: Map037/events/4/pages/1/510/Dialogue/yuuma
-At that point, my "Iron Maiden" was beaten by your
-"will as a person".#Ron
+At that point, my will as an "Iron Maiden" lost...
+...to your "Determination" as a human being.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1134,9 +1136,10 @@ At that point, my "Iron Maiden" was beaten by your
 
 私はこれにて…
 > CONTEXT: Map037/events/4/pages/1/519/Dialogue/yuuma
-Well then, I won't try to maintain this form much
-longer, I won't go and grotesquely collapse...
-Like this I'll...#RonIffy
+Well then, I won't try to maintain this
+form much longer. I'm not going to let myself
+gruesomely fall to bits in front of you...
+I- I'm...#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -1147,8 +1150,9 @@ Like this I'll...#RonIffy
 > CONTEXT: Map037/events/4/pages/1/524/Dialogue/yuuma
 I enjoyed our brief time together.
 
-Whatever happens, I was able to "touch"
-\\N[1]-sama a lot...#Ron
+Whatever happens, I was able to feel and
+experience so many new things with you,
+\\N[1]-sama.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1166,8 +1170,8 @@ I will pray for your good fortune...#Ron
 
 まるで風にさらわれる灰のように消滅した………
 > CONTEXT: Map037/events/4/pages/1/542/Dialogue
-Iron Maiden disappeared like wind blowing away
-ash...#Ron
+Iron Maiden's body disappeared, like ash blown away by
+the wind...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1185,8 +1189,8 @@ toyed with by M.O.W.#Ron
 失敗すれば消されると分かっていながら、お前を見逃した。
 > CONTEXT: Map037/events/4/pages/1/552/Dialogue/yuuma
 They can be forced to change their form for
-whatever reason. Even though she knew they'd make
-her disappear if she failed, she still helped you.#Ron
+whatever reason. Even though she knew she'd be
+erased if she failed, she still helped you..#Ron
 > END STRING
 
 > BEGIN STRING
