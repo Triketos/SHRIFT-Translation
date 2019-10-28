@@ -90,21 +90,21 @@ Mother Rabbit (Missed)#afrg
 
 > BEGIN STRING
 マザーラビット
-> CONTEXT: Enemies/60/name
-> CONTEXT: Enemies/61/name
-> CONTEXT: Enemies/62/name
-> CONTEXT: Enemies/63/name
-> CONTEXT: Enemies/64/name
-> CONTEXT: Enemies/65/name
-> CONTEXT: MapInfos/62/name
-> CONTEXT: MapInfos/233/name
-> CONTEXT: MapInfos/234/name
-> CONTEXT: Troops/60/name
-Mother Rabbit#MTLed
-> CONTEXT: Map024/events/28/pages/1/0/NamePop
-> CONTEXT: Map193/events/28/pages/1/0/NamePop
-> CONTEXT: Map194/events/28/pages/1/0/NamePop
-Mother_Rabbit#MTLed
+> CONTEXT: Enemies/60/name 
+> CONTEXT: Enemies/61/name 
+> CONTEXT: Enemies/62/name 
+> CONTEXT: Enemies/63/name 
+> CONTEXT: Enemies/64/name 
+> CONTEXT: Enemies/65/name 
+> CONTEXT: Map024/events/28/pages/1/0/NamePop 
+> CONTEXT: Map193/events/28/pages/1/0/NamePop 
+> CONTEXT: Map194/events/28/pages/1/0/NamePop 
+> CONTEXT: MapInfos/62/name 
+> CONTEXT: MapInfos/233/name 
+> CONTEXT: MapInfos/234/name 
+> CONTEXT: MapInfos/322/name 
+> CONTEXT: Troops/60/name 
+Mother Rabbit#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -149,22 +149,21 @@ Lazy#afrg
 
 > BEGIN STRING
 躯
-> CONTEXT: Enemies/80/name
-> CONTEXT: Enemies/81/name
-> CONTEXT: Enemies/82/name
-> CONTEXT: Enemies/83/name
-> CONTEXT: Enemies/84/name
-> CONTEXT: Enemies/86/name
-> CONTEXT: Enemies/89/name
-> CONTEXT: MapInfos/80/name
-> CONTEXT: MapInfos/221/name
-> CONTEXT: MapInfos/222/name
-> CONTEXT: Troops/80/name
-Mukuro#MTLed
-> CONTEXT: Map024/events/11/pages/1/0/NamePop
-> CONTEXT: Map193/events/11/pages/1/0/NamePop
-> CONTEXT: Map194/events/11/pages/1/0/NamePop
-Mukuro#MTLed
+> CONTEXT: Enemies/80/name 
+> CONTEXT: Enemies/81/name 
+> CONTEXT: Enemies/82/name 
+> CONTEXT: Enemies/83/name 
+> CONTEXT: Enemies/84/name 
+> CONTEXT: Enemies/86/name 
+> CONTEXT: Enemies/89/name 
+> CONTEXT: Map024/events/11/pages/1/0/NamePop 
+> CONTEXT: Map193/events/11/pages/1/0/NamePop 
+> CONTEXT: Map194/events/11/pages/1/0/NamePop 
+> CONTEXT: MapInfos/80/name 
+> CONTEXT: MapInfos/221/name 
+> CONTEXT: MapInfos/222/name 
+> CONTEXT: Troops/80/name 
+Mukuro#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -249,20 +248,22 @@ Sphinx#afrg
 
 > BEGIN STRING
 エコー
-> CONTEXT: Enemies/140/name
-> CONTEXT: Enemies/141/name
-> CONTEXT: Enemies/142/name
-> CONTEXT: Enemies/143/name
-> CONTEXT: Enemies/144/name
-> CONTEXT: MapInfos/121/name
-> CONTEXT: MapInfos/241/name
-> CONTEXT: MapInfos/242/name
-> CONTEXT: Troops/160/name
-Echo#MTLed
-> CONTEXT: Map024/events/30/pages/1/0/NamePop
-> CONTEXT: Map193/events/30/pages/1/0/NamePop
-> CONTEXT: Map194/events/30/pages/1/0/NamePop
-Echo#MTLed
+> CONTEXT: Enemies/140/name 
+> CONTEXT: Enemies/141/name 
+> CONTEXT: Enemies/142/name 
+> CONTEXT: Enemies/143/name 
+> CONTEXT: Enemies/144/name 
+> CONTEXT: Enemies/253/name 
+> CONTEXT: Enemies/285/name 
+> CONTEXT: Enemies/286/name 
+> CONTEXT: Map024/events/30/pages/1/0/NamePop 
+> CONTEXT: Map193/events/30/pages/1/0/NamePop 
+> CONTEXT: Map194/events/30/pages/1/0/NamePop 
+> CONTEXT: MapInfos/121/name 
+> CONTEXT: MapInfos/241/name 
+> CONTEXT: MapInfos/242/name 
+> CONTEXT: Troops/160/name 
+Echo#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -325,64 +326,62 @@ Micah#MTLed
 
 > BEGIN STRING
 カマソッソ
-> CONTEXT: Enemies/174/name
-> CONTEXT: Enemies/175/name
-> CONTEXT: Enemies/176/name
-> CONTEXT: Enemies/177/name
-> CONTEXT: Enemies/178/name
-> CONTEXT: Enemies/179/name
-> CONTEXT: Enemies/180/name
-> CONTEXT: Enemies/181/name
-> CONTEXT: Enemies/236/name
-> CONTEXT: MapInfos/215/name
-> CONTEXT: MapInfos/247/name
-> CONTEXT: MapInfos/248/name
-Camazotz#MTLed
-> CONTEXT: Map024/events/5/pages/1/0/NamePop
-> CONTEXT: Map193/events/17/pages/1/0/NamePop
-Camazotz#MTLed
+> CONTEXT: Enemies/174/name 
+> CONTEXT: Enemies/175/name 
+> CONTEXT: Enemies/176/name 
+> CONTEXT: Enemies/177/name 
+> CONTEXT: Enemies/178/name 
+> CONTEXT: Enemies/179/name 
+> CONTEXT: Enemies/180/name 
+> CONTEXT: Enemies/181/name 
+> CONTEXT: Enemies/236/name 
+> CONTEXT: Map024/events/5/pages/1/0/NamePop 
+> CONTEXT: Map193/events/17/pages/1/0/NamePop 
+> CONTEXT: MapInfos/215/name 
+> CONTEXT: MapInfos/247/name 
+> CONTEXT: MapInfos/248/name 
+Camazotz#Triketos
 > END STRING
 
 > BEGIN STRING
 妲己
-> CONTEXT: Enemies/185/name
-> CONTEXT: Enemies/186/name
-> CONTEXT: Enemies/187/name
-> CONTEXT: Enemies/188/name
-> CONTEXT: Enemies/189/name
-> CONTEXT: Enemies/190/name
-> CONTEXT: Enemies/191/name
-> CONTEXT: Enemies/192/name
-> CONTEXT: Enemies/193/name
-> CONTEXT: Enemies/195/name
-> CONTEXT: Enemies/196/name
-> CONTEXT: Enemies/197/name
-> CONTEXT: Enemies/198/name
-> CONTEXT: Enemies/199/name
-> CONTEXT: Enemies/201/name
-> CONTEXT: Enemies/202/name
-> CONTEXT: Enemies/203/name
-> CONTEXT: Enemies/204/name
-> CONTEXT: Enemies/206/name
-> CONTEXT: Enemies/207/name
-> CONTEXT: Enemies/208/name
-> CONTEXT: Enemies/209/name
-> CONTEXT: Enemies/211/name
-> CONTEXT: Enemies/212/name
-> CONTEXT: Enemies/213/name
-> CONTEXT: Enemies/214/name
-> CONTEXT: Enemies/215/name
-> CONTEXT: Enemies/216/name
-> CONTEXT: Enemies/255/name
-> CONTEXT: Enemies/256/name
-> CONTEXT: MapInfos/216/name
-> CONTEXT: MapInfos/243/name
-> CONTEXT: MapInfos/244/name
-> CONTEXT: Troops/240/name
-Daiji#MTLed
-> CONTEXT: Map024/events/3/pages/1/0/NamePop
-> CONTEXT: Map193/events/18/pages/1/0/NamePop
-Daiji#MTLed
+> CONTEXT: Enemies/185/name 
+> CONTEXT: Enemies/186/name 
+> CONTEXT: Enemies/187/name 
+> CONTEXT: Enemies/188/name 
+> CONTEXT: Enemies/189/name 
+> CONTEXT: Enemies/190/name 
+> CONTEXT: Enemies/191/name 
+> CONTEXT: Enemies/192/name 
+> CONTEXT: Enemies/193/name 
+> CONTEXT: Enemies/195/name 
+> CONTEXT: Enemies/196/name 
+> CONTEXT: Enemies/197/name 
+> CONTEXT: Enemies/198/name 
+> CONTEXT: Enemies/199/name 
+> CONTEXT: Enemies/201/name 
+> CONTEXT: Enemies/202/name 
+> CONTEXT: Enemies/203/name 
+> CONTEXT: Enemies/204/name 
+> CONTEXT: Enemies/206/name 
+> CONTEXT: Enemies/207/name 
+> CONTEXT: Enemies/208/name 
+> CONTEXT: Enemies/209/name 
+> CONTEXT: Enemies/211/name 
+> CONTEXT: Enemies/212/name 
+> CONTEXT: Enemies/213/name 
+> CONTEXT: Enemies/214/name 
+> CONTEXT: Enemies/215/name 
+> CONTEXT: Enemies/216/name 
+> CONTEXT: Enemies/255/name 
+> CONTEXT: Enemies/256/name 
+> CONTEXT: Map024/events/3/pages/1/0/NamePop 
+> CONTEXT: Map193/events/18/pages/1/0/NamePop 
+> CONTEXT: MapInfos/216/name 
+> CONTEXT: MapInfos/243/name 
+> CONTEXT: MapInfos/244/name 
+> CONTEXT: Troops/240/name 
+Daiji#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -399,7 +398,7 @@ Daiji#MTLed
 > CONTEXT: Enemies/238/name
 > CONTEXT: Enemies/239/name
 > CONTEXT: Troops/250/name
-Samael#MTLed
+Samael#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -432,6 +431,31 @@ Daiji (from the dress)#MTLed
 > CONTEXT: Enemies/261/name
 > CONTEXT: Troops/290/name
 Mio#MTLed
+> END STRING
+
+> BEGIN STRING
+ハーピーモドキ
+> CONTEXT: Enemies/265/name 
+> CONTEXT: Enemies/266/name 
+> CONTEXT: Enemies/267/name 
+> CONTEXT: Enemies/269/name 
+> CONTEXT: Enemies/270/name 
+> CONTEXT: Enemies/271/name 
+> CONTEXT: Map193/events/2/pages/1/0/NamePop 
+Harpy Spawn#Triketos
+> END STRING
+
+> BEGIN STRING
+ハーピーモドキ・クイーン
+> CONTEXT: Enemies/275/name 
+> CONTEXT: Enemies/276/name 
+> CONTEXT: Enemies/277/name 
+> CONTEXT: Enemies/278/name 
+> CONTEXT: Enemies/279/name 
+> CONTEXT: Enemies/280/name 
+> CONTEXT: Enemies/281/name 
+> CONTEXT: Enemies/283/name 
+Harpy Queen#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -692,15 +716,16 @@ with the protagonist.#Ron
 
 > BEGIN STRING
 魔法に強い
-> CONTEXT: Enemies/512/BookAttribute/2
-> CONTEXT: Enemies/530/BookAttribute/2
-> CONTEXT: Enemies/560/BookAttribute/2
-> CONTEXT: Enemies/594/BookAttribute/2
-> CONTEXT: Enemies/616/BookAttribute/2
-> CONTEXT: Enemies/617/BookAttribute/2
-> CONTEXT: Enemies/618/BookAttribute/2
-> CONTEXT: Enemies/622/BookAttribute/2
-> CONTEXT: Enemies/623/BookAttribute/2
+> CONTEXT: Enemies/512/BookAttribute/2 
+> CONTEXT: Enemies/530/BookAttribute/2 
+> CONTEXT: Enemies/560/BookAttribute/2 
+> CONTEXT: Enemies/594/BookAttribute/2 
+> CONTEXT: Enemies/615/BookAttribute/0 
+> CONTEXT: Enemies/616/BookAttribute/2 
+> CONTEXT: Enemies/617/BookAttribute/2 
+> CONTEXT: Enemies/618/BookAttribute/2 
+> CONTEXT: Enemies/622/BookAttribute/2 
+> CONTEXT: Enemies/623/BookAttribute/2 
 Strong against magic#MTLed
 > END STRING
 
@@ -2456,7 +2481,7 @@ number of tails were sit tass.#MTLed
 > BEGIN STRING
 ●アルラウネ・Ｆ
 > CONTEXT: Enemies/600/name
-● Alraune ・ F#MTLed
+● Alraune Form#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -2513,7 +2538,7 @@ eventually it will be an abandoned man.#MTLed
 > BEGIN STRING
 ●ビースト・Ｆ
 > CONTEXT: Enemies/603/name
-● Beast F#MTLed
+● Beast Form#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -2566,7 +2591,7 @@ Once assembled, the escape will be difficult.#MTLed
 > BEGIN STRING
 ●ジェル・Ｆ
 > CONTEXT: Enemies/605/name
-● gel · F#MTLed
+● Gel Form#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -2733,7 +2758,7 @@ It is a dead demon.#MTLed
 > BEGIN STRING
 ■百鬼
 > CONTEXT: Enemies/612/name
-■ Hyakki#MTLed
+■ Hyakki#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -2824,10 +2849,30 @@ It is probably a place like the demon race.#MTLed
 > END STRING
 
 > BEGIN STRING
-脱出中に、主人公とは直接的には関わらない悪魔達です。
-> CONTEXT: Enemies/615/BookDescription/2
-During the escape, there are demons who are not directly
-involved with the main character.#MTLed
+【EX】ﾊｰﾋﾟｰﾓﾄﾞｷ・クイーン
+> CONTEXT: Enemies/615/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ハーピーモドキの繁殖期に現れる親玉。
+人間の精気や肉体を糧にし、一度に複数の産卵を行う
+回帰された魂は二度と開放されることは無い。
+> CONTEXT: Enemies/615/BookDescription/3 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+その風貌や、胎内回帰の特性から
+クイーンを崇める宗教団体もいるのだとか。
+> CONTEXT: Enemies/615/BookDescription/6 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+■双子
+> CONTEXT: Enemies/619/name < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -2849,7 +2894,7 @@ space-time.#MTLed
 > BEGIN STRING
 ハーピーモドキ
 > CONTEXT: Enemies/620/name
-Beetle Harpy#afrgPR
+Harpy Spawn#Triketos
 > END STRING
 
 > BEGIN STRING
