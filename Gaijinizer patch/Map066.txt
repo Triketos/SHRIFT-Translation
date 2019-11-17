@@ -389,7 +389,7 @@ You and I will die together...!!#Ron
 > BEGIN STRING
 ………………来たか。
 > CONTEXT: Map066/events/16/pages/1/9/Dialogue/enemy4
-............... came?#MTLed
+...You came.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -688,15 +688,15 @@ It may be too late ...#MTLed
 躯に差し出した………
 > CONTEXT: Map066/events/16/pages/2/9/Dialogue
 > CONTEXT: Map091/events/16/pages/0/9/Dialogue
-\\N[1] was wearing a kimono wrapped by Memento
-Offer to Mukuro .........#MTLed
+\\N[1] presents the memento wrapped in a kimono
+to Mukuro.#Ron
 > END STRING
 
 > BEGIN STRING
 ………なんのつもりだ？それは。
 > CONTEXT: Map066/events/16/pages/2/14/Dialogue/enemy4
 > CONTEXT: Map091/events/16/pages/0/14/Dialogue/enemy4
-... What are you going to do? that is.#MTLed
+...What are you planning to do with that?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -706,25 +706,23 @@ Offer to Mukuro .........#MTLed
 君なら思い出せるはずだ………
 > CONTEXT: Map066/events/16/pages/2/16/Dialogue/kazuya
 > CONTEXT: Map091/events/16/pages/0/16/Dialogue/kazuya
-...... Time has passed, It has been tattered so
-much that I do not know the original shape
-anymore...You should be able to remember
-.........#MTLed
+...So much time has passed. It's so tattered that
+you can't even tell what it was supposed to
+look like. But you should be able to recognise it.#Ron
 > END STRING
 
 > BEGIN STRING
 これが『誰』が着ていた『着物』なのか……！
 > CONTEXT: Map066/events/16/pages/2/21/Dialogue/kazuya
 > CONTEXT: Map091/events/16/pages/0/21/Dialogue/kazuya
-This is the "kimono" that "who" was wearing
-......!#MTLed
+This is the kimono "that" person was wearing!#Ron
 > END STRING
 
 > BEGIN STRING
 まさか……兄様……？
 > CONTEXT: Map066/events/16/pages/2/27/Dialogue/enemy4
 > CONTEXT: Map091/events/16/pages/0/27/Dialogue/enemy4
-No way...brother......?#MTLed
+Don't tell me... My brother's...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -734,9 +732,9 @@ No way...brother......?#MTLed
 来れなかったんだ。
 > CONTEXT: Map066/events/16/pages/2/29/Dialogue/kazuya
 > CONTEXT: Map091/events/16/pages/0/29/Dialogue/kazuya
-The day you fall in "abyss" ...
-Your older brother didn't come ...
-I couldn't come.#MTLed
+That day you fell into the "abyss"...
+It's not that your brother didn't come...
+It's that he couldn't come.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -745,9 +743,10 @@ I couldn't come.#MTLed
 知ってしまったがゆえに、殺されたんだ…！
 > CONTEXT: Map066/events/16/pages/2/34/Dialogue/kazuya
 > CONTEXT: Map091/events/16/pages/0/34/Dialogue/kazuya
-The story of the sacrifice...... that all the
-disaster of the village was also structured
-I was killed because I knew it ...!#MTLed
+Your brother learned that the story about the
+human sacrifice and the disasters befalling your
+village were all part of a scheme, and he was
+killed...!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -756,7 +755,9 @@ I was killed because I knew it ...!#MTLed
 いったい誰に………
 > CONTEXT: Map066/events/16/pages/2/39/Dialogue/enemy4
 > CONTEXT: Map091/events/16/pages/0/39/Dialogue/enemy4
-killed………? Who to all .........#MTLed
+Killed...?
+
+Who on earth by...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -765,16 +766,18 @@ killed………? Who to all .........#MTLed
 理由も含めて、本人から直接聞いた方が早いと思う。
 > CONTEXT: Map066/events/16/pages/2/45/Dialogue/kazuya
 > CONTEXT: Map091/events/16/pages/0/45/Dialogue/kazuya
-that is………. I think it would be faster to ask the
-person directly, including the reason.#MTLed
+For that...
+
+I think it would be faster to ask the person
+directly.#RonIffy
 > END STRING
 
 > BEGIN STRING
 今も君の後ろで楽しそうに覗いている、そいつらに…！
 > CONTEXT: Map066/events/16/pages/2/49/Dialogue/kazuya
 > CONTEXT: Map091/events/16/pages/0/49/Dialogue/kazuya
-I'm still looking forward to you behind you, to
-them ...!#MTLed
+Even now they're peeping out from behind you
+looking pretty satisfied with themselves!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -783,7 +786,9 @@ them ...!#MTLed
 そこまで分かっちゃったんだ。
 > CONTEXT: Map066/events/16/pages/2/61/Dialogue/enemy7
 > CONTEXT: Map091/events/16/pages/0/61/Dialogue/enemy7
-That's great onii-chan. I knew that far.#MTLed
+You've done so well.
+
+You found out about all that.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -792,8 +797,10 @@ That's great onii-chan. I knew that far.#MTLed
 たまにいるよね、そういう人間。
 > CONTEXT: Map066/events/16/pages/2/65/Dialogue/enemy7
 > CONTEXT: Map091/events/16/pages/0/65/Dialogue/enemy7
-Surely I saw the memory of the previous
-onii-chan. Sometimes I'm such a person.#MTLed
+I'm sure you've seen the memories of the previous
+one.
+
+Some like you appear from time to time.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -803,8 +810,9 @@ onii-chan. Sometimes I'm such a person.#MTLed
 > CONTEXT: Map066/events/16/pages/2/69/Dialogue/enemy7
 > CONTEXT: Map079/events/1/pages/0/9/Dialogue/enemy7
 > CONTEXT: Map091/events/16/pages/0/69/Dialogue/enemy7
-* Giggle * That's right. I'll be there once in a
-while.#MTLed
+*Giggle* That's right.
+
+From time to time.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -813,7 +821,9 @@ while.#MTLed
 確か村長と一緒にいた………
 > CONTEXT: Map066/events/16/pages/2/73/Dialogue/enemy4
 > CONTEXT: Map091/events/16/pages/0/73/Dialogue/enemy4
-you……. Certainly with the mayor......#MTLed
+You two...
+
+You two were with the village head...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -822,8 +832,9 @@ you……. Certainly with the mayor......#MTLed
 ちょっと事故が続くと、何かのせいにしたがる。
 > CONTEXT: Map066/events/16/pages/2/78/Dialogue/enemy7
 > CONTEXT: Map091/events/16/pages/0/78/Dialogue/enemy7
-It's weak, human beings. If the accident
-continues for a while, I want to blame something.#MTLed
+You humans are weak. When accidents keep happening
+for a little while, you always look for something
+to blame.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -832,8 +843,8 @@ continues for a while, I want to blame something.#MTLed
 どうしようもない病が流行ると、何かにすがりたくなる。
 > CONTEXT: Map066/events/16/pages/2/82/Dialogue/enemy7
 > CONTEXT: Map091/events/16/pages/0/82/Dialogue/enemy7
-It's weak, human beings. When a sickness comes to
-an end, you become addicted to something.#MTLed
+You humans are weak. When sickness spreads, you
+look for something to cling to.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -842,9 +853,9 @@ an end, you become addicted to something.#MTLed
 嘘だとも知らずに、生け贄の話を広めてくれたから。
 > CONTEXT: Map066/events/16/pages/2/86/Dialogue/enemy7
 > CONTEXT: Map091/events/16/pages/0/86/Dialogue/enemy7
-The mayor was very honest. Because he spread the
-story of sacrifice without knowing that it was a
-lie.#MTLed
+Th village head was very cooperative. He spread
+the story of the sacrifice without even knowing it
+was a lie.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -853,8 +864,9 @@ lie.#MTLed
 おねえちゃんは、本当は生け贄なんかじゃなかったんだよ。
 > CONTEXT: Map066/events/16/pages/2/90/Dialogue/enemy7
 > CONTEXT: Map091/events/16/pages/0/90/Dialogue/enemy7
-good for you. Onee-chan was not really a
-sacrifice.#MTLed
+Lucky you.
+
+You weren't really sacrificed after all.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -863,8 +875,8 @@ sacrifice.#MTLed
  このおにいちゃんと『遊ぶ』ために選ばれたんだよ。
 > CONTEXT: Map066/events/16/pages/2/94/Dialogue/enemy7
 > CONTEXT: Map091/events/16/pages/0/94/Dialogue/enemy7
-A lot of evil is stored until this time
-It was chosen to "play" with this onii-chan.#MTLed
+A lot of evil has been stored until this era so
+that it can be chosen to "play" with him.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -873,7 +885,9 @@ It was chosen to "play" with this onii-chan.#MTLed
 それじゃあ、私は………
 > CONTEXT: Map066/events/16/pages/2/99/Dialogue/enemy4
 > CONTEXT: Map091/events/16/pages/0/99/Dialogue/enemy4
-That's right ......... Well then, I am .........#MTLed
+N- no, that's...
+
+Then, I'm...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -883,9 +897,9 @@ That's right ......... Well then, I am .........#MTLed
 もうおねえちゃんと戦う気がないんでしょう？
 > CONTEXT: Map066/events/16/pages/2/103/Dialogue/enemy7
 > CONTEXT: Map091/events/16/pages/0/103/Dialogue/enemy7
-But I wish I had been Barre. onii-chan is
-You have no intention of fighting onee-chan
-anymore?#MTLed
+But we've been found out, so there goes that idea.
+You have no intention of fighting each other
+anymore, right?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -894,8 +908,8 @@ anymore?#MTLed
  おねえちゃんより、私たちと遊びたいよね？
 > CONTEXT: Map066/events/16/pages/2/108/Dialogue/enemy7
 > CONTEXT: Map091/events/16/pages/0/108/Dialogue/enemy7
-Because I knew the facts. You want to play with
-us than onee-chan, right?#MTLed
+Now that you know the truth, you'd much rather
+play with us, right?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -904,7 +918,9 @@ us than onee-chan, right?#MTLed
 な……に…………こ……れ…
 > CONTEXT: Map066/events/16/pages/2/112/Dialogue/enemy4
 > CONTEXT: Map091/events/16/pages/0/112/Dialogue/enemy4
-............!!what's this…#MTLed
+...!!
+
+Wh... at... is... th... is...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -919,16 +935,18 @@ us than onee-chan, right?#MTLed
 さっきの様子は、どう考えてもおかしい…！
 > CONTEXT: Map066/events/16/pages/2/127/Dialogue
 > CONTEXT: Map091/events/16/pages/0/123/Dialogue
-She did the same thing as a momentary move, but ...
-The situation of the previous time is strange by any means
-...!#MTLed
+She disappeared the same way she does with her teleport
+move...
+
+But no matter how you look at it, something's not
+right!#Ron
 > END STRING
 
 > BEGIN STRING
 …………お前たち、彼女に何をした！？
 > CONTEXT: Map066/events/16/pages/2/131/Dialogue/kazuya
 > CONTEXT: Map091/events/16/pages/0/127/Dialogue/kazuya
-............ What did you do to her! ?#MTLed
+...What did you do to her?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -937,8 +955,9 @@ The situation of the previous time is strange by any means
 だって、あれはもともと『我』だもん。
 > CONTEXT: Map066/events/16/pages/2/133/Dialogue/enemy7
 > CONTEXT: Map091/events/16/pages/0/129/Dialogue/enemy7
-You just got it back? Because, originally it was
-"I".#MTLed
+She just returned to us.
+
+Because, she was originally a part of "me".#Ron
 > END STRING
 
 > BEGIN STRING
@@ -947,8 +966,9 @@ You just got it back? Because, originally it was
 ………分かってるよね？
 > CONTEXT: Map066/events/16/pages/2/137/Dialogue/enemy7
 > CONTEXT: Map091/events/16/pages/0/133/Dialogue/enemy7
-The ability to manipulate onee-chan's time is
-part of Me....... you know?#MTLed
+Her ability to manipulate time is a part of "me".
+
+You understand, don't you?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -957,8 +977,9 @@ part of Me....... you know?#MTLed
 私たちと遊ぶんだから、もっとこっちを見て……
 > CONTEXT: Map066/events/16/pages/2/143/Dialogue/enemy7
 > CONTEXT: Map091/events/16/pages/0/139/Dialogue/enemy7
-* Giggle *, or better...I'm playing with us, so
-watch more here ......#MTLed
+*Giggle* Or rather...
+
+Since you're playing with us, watch closely...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -967,8 +988,7 @@ watch more here ......#MTLed
 私たちと、いっぱい遊びたいでしょう……？
 > CONTEXT: Map066/events/16/pages/2/148/Dialogue/enemy7
 > CONTEXT: Map091/events/16/pages/0/144/Dialogue/enemy7
-* Giggle *, onii-chan. You want to play with us a
-lot ...?#MTLed
+*Giggle* Do you want to play with us lots...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -977,7 +997,7 @@ lot ...?#MTLed
  楽しもうね……♡
 > CONTEXT: Map066/events/16/pages/2/152/Dialogue/enemy7
 > CONTEXT: Map091/events/16/pages/0/148/Dialogue/enemy7
-I will show you all of us. Have fun...♡#MTLed
+I will show you all of us. Enjoy it... ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -986,7 +1006,9 @@ I will show you all of us. Have fun...♡#MTLed
  『我』を倒しちゃうんだ。
 > CONTEXT: Map066/events/16/pages/2/187/Dialogue/enemy6
 > CONTEXT: Map091/events/16/pages/0/199/Dialogue/enemy6
-That's great, onii-chan. I'll beat "I".#MTLed
+Well done.
+
+You beat "me".#Ron
 > END STRING
 
 > BEGIN STRING
@@ -995,8 +1017,8 @@ That's great, onii-chan. I'll beat "I".#MTLed
 滅多にいないよ、こんな人間は。
 > CONTEXT: Map066/events/16/pages/2/191/Dialogue/enemy6
 > CONTEXT: Map091/events/16/pages/0/203/Dialogue/enemy6
-Ahaha, I have been done for a long time
-It's rare, this kind of person.#MTLed
+Ahaha, I haven't been beaten in a long time.
+This kind of human is rare.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1005,14 +1027,17 @@ It's rare, this kind of person.#MTLed
  滅多にいないよね。
 > CONTEXT: Map066/events/16/pages/2/195/Dialogue/enemy6
 > CONTEXT: Map091/events/16/pages/0/207/Dialogue/enemy6
-Ehehe, that's right. It is not rare.#MTLed
+Ehehe, that's right.
+
+Rare.#Ron
 > END STRING
 
 > BEGIN STRING
 双子は、首だけになりながら、なおも喋り続けている…
 > CONTEXT: Map066/events/16/pages/2/199/Dialogue
 > CONTEXT: Map091/events/16/pages/0/211/Dialogue
-twins are still scolding while being the neck only ...#MTLed
+The twins continue to toy with me even though
+all that's left of them are their heads...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1021,8 +1046,9 @@ twins are still scolding while being the neck only ...#MTLed
 なおさら食べたかったなぁ、おにいちゃん
 > CONTEXT: Map066/events/16/pages/2/201/Dialogue/enemy6
 > CONTEXT: Map091/events/16/pages/0/213/Dialogue/enemy6
-It was lonely. I also wanted to eat more,
-onii-chan#MTLed
+We were so close.
+
+We wanted to eat some more.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1031,8 +1057,9 @@ onii-chan#MTLed
 その時はよろしくね、おにいちゃん。
 > CONTEXT: Map066/events/16/pages/2/205/Dialogue/enemy6
 > CONTEXT: Map091/events/16/pages/0/217/Dialogue/enemy6
-I will see you again someday. 
-Thank you so much, onii-chan.#MTLed
+We'll meet again "someday".
+
+See you then, onii-chan.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1041,8 +1068,7 @@ Thank you so much, onii-chan.#MTLed
 おにいちゃん
 > CONTEXT: Map066/events/16/pages/2/209/Dialogue/enemy6
 > CONTEXT: Map091/events/16/pages/0/221/Dialogue/enemy6
-* Giggle *, let's play again. 
-onii-chan#MTLed
+*Giggle* Let's play again, onii-chan.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1051,14 +1077,16 @@ onii-chan#MTLed
 無事だったんだね…！
 > CONTEXT: Map066/events/16/pages/2/218/Dialogue/kazuya
 > CONTEXT: Map091/events/16/pages/0/230/Dialogue/kazuya
-Akane .........!!It was safe ...!#MTLed
+Akane...!!
+
+You're safe...!#Ron
 > END STRING
 
 > BEGIN STRING
 ………私を、その名で呼ぶな……！！
 > CONTEXT: Map066/events/16/pages/2/222/Dialogue/enemy4
 > CONTEXT: Map091/events/16/pages/0/234/Dialogue/enemy4
-......don't call me by that name ...! !#MTLed
+...Don't call me by that name...!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1068,8 +1096,9 @@ Akane .........!!It was safe ...!#MTLed
 私をこの世に留まらせた……？
 > CONTEXT: Map066/events/16/pages/2/226/Dialogue/enemy6
 > CONTEXT: Map091/events/16/pages/0/238/Dialogue/enemy6
-Why helped me ......... Tell me why I do not want
-to know. Have you kept me in this world ...?#MTLed
+Why did you help me...? Why did you tell me
+something I didn't want to know? Why have you kept
+me in this world...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1079,10 +1108,9 @@ to know. Have you kept me in this world ...?#MTLed
 やっと、やっと終わるのだと安堵すらしていた…
 > CONTEXT: Map066/events/16/pages/2/231/Dialogue/enemy6
 > CONTEXT: Map091/events/16/pages/0/243/Dialogue/enemy6
-When they are captured...I felt my
-consciousness disappearing ...
-Finally, I was even relieved when it was finally
-over ...#MTLed
+When they consumed me... I felt my consciousness
+disappearing... I could at least be relieved that
+it was all finally over...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1092,9 +1120,10 @@ over ...#MTLed
 兄様のためと身を挺したのに…結局は……私は…
 > CONTEXT: Map066/events/16/pages/2/236/Dialogue/enemy6
 > CONTEXT: Map091/events/16/pages/0/248/Dialogue/enemy6
-I wanted to finish...My soul who has gone to
-such a useless death...Although I cheated
-because of my brother...after all...I ...#MTLed
+I wanted it to end... My soul, the soul of someone
+who'd died in such a pointless way...
+Even though I'd put my life on the line for my
+brother, in the end... I...#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -1104,9 +1133,10 @@ because of my brother...after all...I ...#MTLed
 そんな気安い事は言わない。
 > CONTEXT: Map066/events/16/pages/2/242/Dialogue/kazuya
 > CONTEXT: Map091/events/16/pages/0/254/Dialogue/kazuya
-"Ready" when you are alive. And you can see the
-Afraid and despair you felt in "abyss"
-I do not say such a cheap thing.#MTLed
+I won't give any platitudes about your
+"resolution" when you became a human sacrifice...
+Or that I understand your fear and despair when
+you were in the "abyss".#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1115,8 +1145,8 @@ I do not say such a cheap thing.#MTLed
  あんなヤツの思い通りにはさせたくなかったんだよ。
 > CONTEXT: Map066/events/16/pages/2/247/Dialogue/kazuya
 > CONTEXT: Map091/events/16/pages/0/259/Dialogue/kazuya
-But your brother will be with you forever
-I didn't want to do what the guy wanted.#MTLed
+But your brother didn't want to let that thing do
+whatever it wanted with you.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -1126,9 +1156,9 @@ I didn't want to do what the guy wanted.#MTLed
  まさにここの『奈落』だった。
 > CONTEXT: Map066/events/16/pages/2/252/Dialogue/kazuya
 > CONTEXT: Map091/events/16/pages/0/264/Dialogue/kazuya
-I had a dream after fighting with you for the
-first time. The other party was my lover but her
-hole was. It was exactly "abyss" here.#MTLed
+I had a dream after fighting you the first time.
+I saw my girlfriend fall into a hole, it was
+definitely this "abyss" here.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1138,10 +1168,10 @@ hole was. It was exactly "abyss" here.#MTLed
 僕が影響を受けたんだと思う…。
 > CONTEXT: Map066/events/16/pages/2/257/Dialogue/kazuya
 > CONTEXT: Map091/events/16/pages/0/269/Dialogue/kazuya
-My brothers were enshrined by them, and you were
-part of them. Maybe, it's not a big deal with
-your brother's thought that you touched you
-I think I was affected ....#MTLed
+Your brother was killed by them, and you were made
+into a part of them. I think maybe when I touched
+you, I was influenced in no small part by your
+brother's thoughts...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1151,9 +1181,10 @@ I think I was affected ....#MTLed
  『自分の命と引き換えでもいい』
 > CONTEXT: Map066/events/16/pages/2/264/Dialogue/kazuya
 > CONTEXT: Map091/events/16/pages/0/276/Dialogue/kazuya
-"Why is she a victim". "Why I couldn't protect"
-"I'm scared, I don't want to die."
-"You can exchange your own life"#MTLed
+"Why is she the sacrifice?"
+"Why couldn't I protect her?"
+"I can't let her die."
+"If only I could give my life for her's."#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1162,8 +1193,9 @@ I think I was affected ....#MTLed
 そんな『未練』ばかりだった。
 > CONTEXT: Map066/events/16/pages/2/269/Dialogue/kazuya
 > CONTEXT: Map091/events/16/pages/0/281/Dialogue/kazuya
-I was not ready for my dreaming.
-It was only such "unfinished".#MTLed
+The me inside the dream wasn't prepared for it.
+
+For so many "regrets".#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1172,8 +1204,9 @@ It was only such "unfinished".#MTLed
  そして彼が最期に見た、『真実』を知らされた……。
 > CONTEXT: Map066/events/16/pages/2/273/Dialogue/kazuya
 > CONTEXT: Map091/events/16/pages/0/285/Dialogue/kazuya
-And, as guided, I found his Memento.
-And he was told the "truth" he saw at the end ...#MTLed
+And, as guided, I found his memento.
+
+And he showed me the "truth"...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1184,7 +1217,7 @@ And he was told the "truth" he saw at the end ...#MTLed
 > CONTEXT: Map066/events/16/pages/2/277/Dialogue/kazuya
 > CONTEXT: Map091/events/16/pages/0/289/Dialogue/kazuya
 I was entrusted. "Ready" that I could not do ...
-Forgive your life, but save you.#MTLed
+Forgive your life, but save you.#CheckLater
 > END STRING
 
 > BEGIN STRING
@@ -1193,8 +1226,8 @@ Forgive your life, but save you.#MTLed
  君のお兄さんのためにも……
 > CONTEXT: Map066/events/16/pages/2/282/Dialogue/kazuya
 > CONTEXT: Map091/events/16/pages/0/294/Dialogue/kazuya
-So you should mature in a proper way.
-Also for your brother ......#MTLed
+So you should rest in peace properly. For your
+brother's sake...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1203,8 +1236,9 @@ Also for your brother ......#MTLed
  私も、もうお前を追わない。
 > CONTEXT: Map066/events/16/pages/2/289/Dialogue/enemy6
 > CONTEXT: Map091/events/16/pages/0/301/Dialogue/enemy6
-...... Do not mind me anymore.
-I will not follow you any longer.#MTLed
+... Don't worry about me anymore.
+
+I will not follow you any longer.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1213,16 +1247,15 @@ I will not follow you any longer.#MTLed
 好きなところへ行くといいさ……
 > CONTEXT: Map066/events/16/pages/2/293/Dialogue/enemy6
 > CONTEXT: Map091/events/16/pages/0/305/Dialogue/enemy6
-At least, I can not turn to you anymore "I'm
-sorry"...It is good to go to a favorite place
-...#MTLed
+At the very least, I can't hold a "grudge" against
+you anymore... Go off and do whatever you want...#Ron
 > END STRING
 
 > BEGIN STRING
 躯はフラフラとした足取りで去っていった………
 > CONTEXT: Map066/events/16/pages/2/302/Dialogue
 > CONTEXT: Map091/events/16/pages/0/314/Dialogue
-Mukuro was leaving with dizzy's steps .........#MTLed
+Mukuro walked off unsteadily...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1231,7 +1264,10 @@ Mukuro was leaving with dizzy's steps .........#MTLed
 すっかり勢い無くなっちゃってたぞ…
 > CONTEXT: Map066/events/16/pages/2/304/Dialogue/other2
 > CONTEXT: Map091/events/16/pages/0/316/Dialogue/other2
-hey you, okay? I was totally lost.#MTLed
+Oi, is she gonna be okay?
+
+It looked like the strength had gone right out of
+her.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1240,9 +1276,9 @@ hey you, okay? I was totally lost.#MTLed
 もう誰かを怨む力も、必要もないからね。
 > CONTEXT: Map066/events/16/pages/2/308/Dialogue/kazuya
 > CONTEXT: Map091/events/16/pages/0/320/Dialogue/kazuya
-It's too hurry, I just can not organize my
-feelings now. There is no need to hate someone
-anymore.#MTLed
+It's too much, she just can't organise her
+feelings right now. She doesn't need the strength
+to hate someone anymore.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1251,16 +1287,16 @@ anymore.#MTLed
 それが、お兄さんの願いなんだから。きっとね。
 > CONTEXT: Map066/events/16/pages/2/312/Dialogue/kazuya
 > CONTEXT: Map091/events/16/pages/0/324/Dialogue/kazuya
-I will surely get into adulthood once my feelings
-are organized. That's the wish of my brother.
-surely.#MTLed
+I'm sure she'll pass on once she sorts her
+feelings out. That was her brother's wish, I'm
+sure of it.#Ron
 > END STRING
 
 > BEGIN STRING
 ………そうだといいな。
 > CONTEXT: Map066/events/16/pages/2/316/Dialogue/other2
 > CONTEXT: Map091/events/16/pages/0/328/Dialogue/other2
-......... That's fine.#MTLed
+...If you're sure.#Ron
 > END STRING
 
 > BEGIN STRING

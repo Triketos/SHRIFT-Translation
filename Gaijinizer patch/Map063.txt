@@ -524,8 +524,8 @@ I'd go ahead and keep it in your item storage box!#Ron
 奥の社までの転移魔方陣だよ。
 > CONTEXT: Map063/events/76/pages/1/8/Dialogue/hyakki
 > CONTEXT: Map063/events/76/pages/2/8/Dialogue/hyakki
-Oh, do you mind it? It is a transfer magic square
-to the company of the back.#MTLed
+Oh, are you wondering what this is? It's a magic
+square that transfers you straight to the shrine.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -533,21 +533,22 @@ to the company of the back.#MTLed
 
 試してみるかい？一回５００円だよ。
 > CONTEXT: Map063/events/76/pages/1/15/Dialogue/hyakki
-\\$ With it, you can escape through this dimly
-lit cave in an instant. Do you try it?It is 500
-yen once.#MTLed
+\\$ Using this, you can get through this dimly
+lit cave in an instant. Do ya wanna give it a try?
+
+One go is 500 yen.#Ron
 > END STRING
 
 > BEGIN STRING
 転移魔方陣を使う en(v[1] \>= 500) 
 > CONTEXT: Map063/events/76/pages/1/19/Choice/0
-Use the transition magic squareen(v[1] \>= 500)#MTLed
+Use the magic squareen(v[1] \>= 500)#Ron
 > END STRING
 
 > BEGIN STRING
 まいどありーー♪
 > CONTEXT: Map063/events/76/pages/1/23/Dialogue/hyakki
-My way♪#MTLed
+Thanks for your business. ♪#Ron
 > END STRING
 
 > BEGIN STRING
