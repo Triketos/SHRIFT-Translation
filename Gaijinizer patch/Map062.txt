@@ -4,9 +4,7 @@
 
 ふふ、今日は何のご用かしら？
 > CONTEXT: Map062/events/5/pages/0/19/Dialogue/enemy4
-You came. ♡
-
-Fufu, what can I do for you today?#Ron
+You've come. Fu, what should I use today?#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -18,13 +16,13 @@ Chaten(v[45] \>= 25)#MTLed
 > BEGIN STRING
 搾精（授乳）en(v[45] \>= 25) 
 > CONTEXT: Map062/events/5/pages/0/31/Choice/1
-Milking (Breastfeed)en(v[45] \>= 25)#Ron
+milkingen(v[45] \>= 25)#MTLed
 > END STRING
 
 > BEGIN STRING
 搾精（毛繕い）en(v[45] \>= 50) 
 > CONTEXT: Map062/events/5/pages/0/31/Choice/2
-Milking (Grooming)en(v[45] \>= 50)#Ron
+milkingen(v[45] \>= 50)#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -38,10 +36,8 @@ Milking (Grooming)en(v[45] \>= 50)#Ron
 
 こういうものを貰っても、私には使い道がないものだから…
 > CONTEXT: Map062/events/5/pages/0/185/Dialogue/enemy4
-... I'm sorry, dear.
-
-Even if you give me something like this, I don't
-have any use for it...#Ron
+………Sorry. Even if you ask something like this, it
+has no use for me ...#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -78,27 +74,25 @@ Welcome...boy ♡. I will heal...♡#MTLed
 
 いっぱいお話ししましょうか。
 > CONTEXT: Map062/events/5/pages/1/1/Dialogue/enemy4
-Yes, that's fine... ♡
-
-Let's talk a lot.#Ron
+Yes, it's fine...♡. Shall we talk a lot?#MTLed
 > END STRING
 
 > BEGIN STRING
 呼び方についてen(v[45] \>= 30) 
 > CONTEXT: Map062/events/5/pages/1/7/Choice/0
-Calling to heren(v[45] \>= 30)#Ron
+About callingen(v[45] \>= 30)#MTLed
 > END STRING
 
 > BEGIN STRING
 種族についてen(v[45] \>= 40) 
 > CONTEXT: Map062/events/5/pages/1/7/Choice/1
-Her raceen(v[45] \>= 40)#Ron
+About the raceen(v[45] \>= 40)#MTLed
 > END STRING
 
 > BEGIN STRING
 体毛についてen(v[45] \>= 60) 
 > CONTEXT: Map062/events/5/pages/1/7/Choice/2
-Her furen(v[45] \>= 60)#Ron
+About body hairen(v[45] \>= 60)#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -106,8 +100,8 @@ Her furen(v[45] \>= 60)#Ron
 
 『ママ』から『私』になってるような……？
 > CONTEXT: Map062/events/5/pages/1/12/Dialogue/kazuya
-By the way, when did you go from referring to
-yourself as "Mommy" to just using "I"...?#Ron
+Speaking of which, the first person is
+It's like being a mama from a mama ...?#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -115,9 +109,8 @@ yourself as "Mommy" to just using "I"...?#Ron
 
  私は、ボウヤをあやすときに自分を『ママ』と言うの。
 > CONTEXT: Map062/events/5/pages/1/16/Dialogue/enemy4
-Fufufu... Now that you mention it, I did call
-myself "mommy" when I was cuddling you that
-time.#Ron
+Hihihi ...... Speaking of which.
+I say myself when I am a boy, "Mom."#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -125,10 +118,8 @@ time.#Ron
 
 あなたをどうにか大人しく甘えさせようと……
 > CONTEXT: Map062/events/5/pages/1/20/Dialogue/enemy4
-At that time, I was particularly desperate...
-
-I was trying to do everything I could to comfort
-you...#Ron
+Especially at that time, I was desperate ...
+Somehow to make you carelessly sweetened ...#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -136,14 +127,14 @@ you...#Ron
 
  あなたにも『ボウヤ』呼びではなくなっているでしょう？
 > CONTEXT: Map062/events/5/pages/1/24/Dialogue/enemy4
-But since we've been talking normally like this, I
-haven't been calling you my "little boy", have I?#Ron
+So, so long as you speak normally
+You are no longer calling you a "boy"?#MTLed
 > END STRING
 
 > BEGIN STRING
 あ、ほんとだ…
 > CONTEXT: Map062/events/5/pages/1/28/Dialogue/kazuya
-Oh, you're right...#Ron
+Oh, it's true ...#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -151,9 +142,9 @@ Oh, you're right...#Ron
 
 最初は軽いスキンシップで、ゆっくりお話をするの。
 > CONTEXT: Map062/events/5/pages/1/30/Dialogue/enemy4
-Originally, the name I used depended on the age
-of the person who summoned me... At first I would
-leisurely chat while softly caressing them.#Ron
+The original I, the name depends on the age of
+the other...The first is a light skinship and I
+talk slowly.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -161,29 +152,27 @@ leisurely chat while softly caressing them.#Ron
 
 『ボウヤ』と呼んで、お乳を飲ませるのよ。
 > CONTEXT: Map062/events/5/pages/1/34/Dialogue/enemy4
-If they let me spoil them, I'll call them my
-"little boy" and feed them my milk.#Ron
+And if the other party is sweet to me
+Call it "boy" and have it milked.#MTLed
 > END STRING
 
 > BEGIN STRING
 ああ……それはコンビニで聞いた通り……
 > CONTEXT: Map062/events/5/pages/1/38/Dialogue/kazuya
-Yeah...
-
-That's what I heard at convenience store...#Ron
+Oh...as I heard at the convenience store ...#MTLed
 > END STRING
 
 > BEGIN STRING
 でもお乳を飲んだ人間は確か、ウサギになって…
 > CONTEXT: Map062/events/5/pages/1/41/Dialogue/kazuya
-But doesn't a human who drinks your milk turn into
-a rabbit?#Ron
+But the human who drank milk is certainly a
+rabbit ...#MTLed
 > END STRING
 
 > BEGIN STRING
 ええ………そうよ。
 > CONTEXT: Map062/events/5/pages/1/44/Dialogue/enemy4
-Yes... That's right.#Ron
+Yeah...yeah.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -191,10 +180,9 @@ Yes... That's right.#Ron
 
 人間の母性愛の、歪んだ部分から生まれた悪魔……。
 > CONTEXT: Map062/events/5/pages/1/46/Dialogue/enemy4
-I'm a demon after all...
-
-A demon looking for her little boy, a demon born
-from a warped part of human maternal love.#Ron
+I'm a demon...what a boy ask
+Demon ...... born from the distorted part of
+human maternal love.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -203,11 +191,9 @@ from a warped part of human maternal love.#Ron
 どんなに甘えてくれる…私を受け入れてくれる『ボウヤ』も
  ほんの僅かにしか、一緒にいられない……。
 > CONTEXT: Map062/events/5/pages/1/50/Dialogue/enemy4
-I'm certain I cannot be satisfied...
-
-No matter how many let me spoil them, there are
-very few "little boys" who will accept me and stay
-together with me...#RonIffy
+I'm sure I'm not satisfied. No matter how sweet
+you are..."boy" who accepts me
+Only a few, I can not be together ....#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -215,16 +201,15 @@ together with me...#RonIffy
 
 どんな子だったか、どんな声だったか、どんな事を話したか…
 > CONTEXT: Map062/events/5/pages/1/57/Dialogue/enemy4
-So at the very least... I always remember them.
-
-What kind of child they were, their voices, what
-kind of things we talked about...#Ron
+So, at least...I remember forever.
+What kind of child, what kind of voice, what kind
+of thing did you talk about ...#MTLed
 > END STRING
 
 > BEGIN STRING
 そして、どんな苦しみを持っていたか……。
 > CONTEXT: Map062/events/5/pages/1/61/Dialogue/enemy4
-And what kind of pain they were in...#Ron
+And what kind of suffering did you have ....#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -232,9 +217,8 @@ And what kind of pain they were in...#Ron
 
 言ったでしょう？私はそういう悪魔なのよ。
 > CONTEXT: Map062/events/5/pages/1/65/Dialogue/enemy4
-Don't give me that look...
-
-I told you before, I'm that kind of demon.#Ron
+Don't face me like that...Did you say that? I'm
+such a demon.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -242,16 +226,15 @@ I told you before, I'm that kind of demon.#Ron
 
 少しでも忘れるのは、許されないことだと思っていた。
 > CONTEXT: Map062/events/5/pages/1/69/Dialogue/enemy4
-Along with memories of these little boys, I also
-have the "regrets" they confided to me. I thought
-that forgetting those even a little would be
-unforgivable.#Ron
+So the memories with these boys are forgiven for
+me, "Ment"...I thought that forgetting even a
+little was an unforgivable thing.#MTLed
 > END STRING
 
 > BEGIN STRING
 ………あなたに出会うまではね。
 > CONTEXT: Map062/events/5/pages/1/73/Dialogue/enemy4
-... Until I met you, that is.#Ron
+......until I meet you.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -259,9 +242,9 @@ unforgivable.#Ron
 
 ずっと引きずってた痛みが、スッと消えてしまったような
 > CONTEXT: Map062/events/5/pages/1/77/Dialogue/enemy4
-I felt like something was lifted off me when you
-said "thank you". The pain I'd been dragging
-around with me forever, gently disappeared.#Ron
+I felt something was released with your "thank
+you". The pain I have been dragging all along
+seems to have disappeared#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -269,9 +252,8 @@ around with me forever, gently disappeared.#Ron
 
 私は誰かに『許して』欲しかったのね……。
 > CONTEXT: Map062/events/5/pages/1/81/Dialogue/enemy4
-I wasn't able to forgive myself...
-
-So I wanted someone else to forgive me...#Ron
+I myself can not forgive me ...
+I wanted someone to "forgive" ....#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -279,8 +261,8 @@ So I wanted someone else to forgive me...#Ron
 
 思いっきり甘えてほしいの。
 > CONTEXT: Map062/events/5/pages/1/86/Dialogue/enemy4
-So that's why I call myself "mommy" when I spoil
-you. I want to spoil you rotten.#Ron
+So you too, Indulge Yourself when you say "Mom"
+I want you to be at your disposal.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -288,10 +270,8 @@ you. I want to spoil you rotten.#Ron
 
 ぜーんぶ、ママに注いでちょうだい
 > CONTEXT: Map062/events/5/pages/1/90/Dialogue/enemy4
-Your anxieties, your troubles, your various
-urges...
-
-Pour them aaaalll into mommy.#Ron
+Your anxiety, troubles and various desires ......
+Well, let me pour it to my mom#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -299,10 +279,8 @@ Pour them aaaalll into mommy.#Ron
 
 今なら、素直な感情で受け止めることができるから…♡
 > CONTEXT: Map062/events/5/pages/1/94/Dialogue/enemy4
-It'll be different from how it was before...
-
-Now I'll be able to accept them all with honest
-feelings... ♡#Ron
+Surely unlike me at that time ...
+Now I can accept it with honest feelings...♡#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -310,10 +288,8 @@ feelings... ♡#Ron
 
 ママだけのボウヤになってね…♡
 > CONTEXT: Map062/events/5/pages/1/98/Dialogue/enemy4
-When you're being held by me... you'll be my one
-and only...
-
-Mommy's one and only little boy... ♡#Ron
+When I am embraced by me, I am only ...
+Become a mom-only boy...♡#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -321,9 +297,9 @@ Mommy's one and only little boy... ♡#Ron
 
 人間の感情から直接生まれたものだって聞いたけど……
 > CONTEXT: Map062/events/5/pages/1/107/Dialogue/kazuya
-If I remember correctly, I heard you weren't a
-demon born in the demon realm, that you were
-born directly from human emotion...#Ron
+Mother Rabbit is certainly not a demon living in
+Demon Realm. I heard it was born directly from
+human emotions ...#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -332,9 +308,9 @@ born directly from human emotion...#Ron
 だから魔界についてはなにも知らないし、
 逆に人間界のことはよく知ってるの。
 > CONTEXT: Map062/events/5/pages/1/111/Dialogue/enemy4
-Yes, that's right. I don't know anything about the
-demon realm, but I know a lot about the human
-world.#Ron
+Yeah, yes. So I don't know anything about Demon
+Realm, Conversely, I know about the human realm
+well.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -342,9 +318,9 @@ world.#Ron
 
 マザーラビットみたいなのを『具現種』と呼んでるな。
 > CONTEXT: Map062/events/5/pages/1/119/Dialogue/other1
-The guys in the demon realm call themselves "pure
-demons". Ones like Mother Rabbit are called
-"embodiments".#Ron
+The guys in Demon Realm are "Genuine" for
+themselves. Don't call something like Mother
+Rabbit 'tranformed species'.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -352,9 +328,9 @@ demons". Ones like Mother Rabbit are called
 
 人間界で直接悪魔化したものは全部『具現種』だ。
 > CONTEXT: Map062/events/5/pages/1/123/Dialogue/other1
-Also things like the nekomata and folk spirits
-that are directly turned into demons in the human
-world are all "embodiments".#Ron
+Besides, nekomata and ninety-nine gods
+The direct demonizations of the human realm are
+all tranformed species.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -363,10 +339,10 @@ world are all "embodiments".#Ron
  依り代もなく、感情自体が具現化した悪魔だからな。
 魔力も執念も、一際デカい悪魔さ。
 > CONTEXT: Map062/events/5/pages/1/127/Dialogue/other1
-But the ones like Mother Rabbit are in a class of
-their own. She's not drawn to or from any object,
-she's an embodiment demon created from emotion
-itself. Her magic power and tenacity are huge.#RonIffy
+However, among them, Mother Rabbit is not the
+same. There is no substitute, it is a demon that
+the emotion itself is embodied.
+Magic and obsessiveness is a huge demon.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -374,10 +350,8 @@ itself. Her magic power and tenacity are huge.#RonIffy
 
 だから、話しかけられた人は誘惑に勝てないのかな…？
 > CONTEXT: Map062/events/5/pages/1/132/Dialogue/kazuya
-Huh...
-
-So anyone who talks to her won't be able to resist
-her temptations, then...?#Ron
+Hea ...... So, can't the person talked be able to
+beat temptation ...?#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -385,10 +359,8 @@ her temptations, then...?#Ron
 
  誘惑したことを、後で一番後悔するのは彼女なんだぞ？
 > CONTEXT: Map062/events/5/pages/1/140/Dialogue/other1
-Hey... \\N[1]. 
-
-She's the one who later regrets having tempted
-someone, you know.#Ron
+...... ?\\N[1]. It is her who regrets the
+temptation later in the first place?#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -396,9 +368,7 @@ someone, you know.#Ron
 
 そんなつもりで言ったわけじゃ……！
 > CONTEXT: Map062/events/5/pages/1/145/Dialogue/kazuya
-S- sorry!
-
-I didn't mean it like that...!#Ron
+Sorry! That's why I said that ......!#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -407,16 +377,15 @@ I didn't mean it like that...!#Ron
 それに、貴方にはその哀しみから救ってもらったんですもの。
 もう迷ってなんかいないわ。
 > CONTEXT: Map062/events/5/pages/1/149/Dialogue/enemy4
-... That's okay. It's true, after all.
-
-Besides, you were the one who saved me from that
-sorrow. I'm not lost anymore.#Ron
+...... Good, because it's true.
+Besides, I asked you to save from that hate.
+I'm not lost anymore.#MTLed
 > END STRING
 
 > BEGIN STRING
 …………………え、えっと……
 > CONTEXT: Map062/events/5/pages/1/155/Dialogue/kazuya
-...U- ummm...#Ron
+…………………Let me see……#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -424,9 +393,8 @@ sorrow. I'm not lost anymore.#Ron
 
 もっと別の事をお話ししましょうか。
 > CONTEXT: Map062/events/5/pages/1/157/Dialogue/enemy4
-Fufufu... The air gets quite heavy whenever we
-talk about me, doesn't it? Shall we talk about
-something else?#Ron
+Hihihi...It tends to be dark when it comes to
+my topic. Shall I tell you more?#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -434,10 +402,9 @@ something else?#Ron
 
 実体化していなくても人間に干渉できるの。
 > CONTEXT: Map062/events/5/pages/1/162/Dialogue/enemy4
-We "embodiments" are different from pure demons.
-
-We can interfere with humans even without first
-materializing.#Ron
+We "tranformed species" are different from pure
+species. Even if it is not materialized, it can
+interfere with humans.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -445,15 +412,15 @@ materializing.#Ron
 
 私たちの仕業だってこともあるんだから。
 > CONTEXT: Map062/events/5/pages/1/166/Dialogue/enemy4
-Even for things you normally wouldn't care about,
-sometimes we get involved.#Ron
+Even things that you don't usually care about
+Sometimes it is our job.#MTLed
 > END STRING
 
 > BEGIN STRING
 そ、そうなんだ…？
 > CONTEXT: Map062/events/5/pages/1/170/Dialogue/kazuya
 > CONTEXT: Troops/23/pages/0/22/Dialogue/kazuya
-I- is that right...?#Ron
+That's right ...?#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -461,10 +428,9 @@ I- is that right...?#Ron
 
 おおかた眠りに関する事象に多く干渉している。
 > CONTEXT: Map062/events/5/pages/1/172/Dialogue/other1
-Well... Mother Rabbit is a succubus after all.
-
-She interferes in a lot of things related to
-sleeping.#Ron
+Maa ...... Mother Rabbit is because it is "Yuma".
+There is a lot of interference with events
+related to sleep.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -472,9 +438,9 @@ sleeping.#Ron
 
 中でも一番関わりが深いのは、夢精とかかな。
 > CONTEXT: Map062/events/5/pages/1/176/Dialogue/other1
-Like when you're dozing off and suddenly your body
-"jolts"... But I'd say the biggest part of sleep
-she's involved in is wet dreams.#Ron
+When I was asleep, my body was "jolting" ...
+Among them, the most deeply involved are Yumesei
+and Kana.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -482,9 +448,8 @@ she's involved in is wet dreams.#Ron
 
 搾精膣があるのって、もしかしてそういう…
 > CONTEXT: Map062/events/5/pages/1/181/Dialogue/kazuya
-Aah... The maternal Mother Rabbit does have a
-vagina for milking, don't tell me it's that kind
-of thing...#Ron
+Oh......... Mother Rabbit's supposedly Mother
+Rabbit. I wonder if there is a milking vagina.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -493,10 +458,8 @@ of thing...#Ron
 ほら、サキュバスとかも夢魔の類いだろ…？
 そういうことだよ…
 > CONTEXT: Map062/events/5/pages/1/185/Dialogue/other2
-Y- yeah that's about the size of it... 
-
-I mean, a succubus is a kind of dream demon,
-right...? So it's that kind of thing...#Ron
+Maa ...... You see, Succubus is a kind of dream
+magic ...? That's all…#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -504,9 +467,8 @@ right...? So it's that kind of thing...#Ron
 
 貴方は『二度寝』って経験したことあるかしら？
 > CONTEXT: Map062/events/5/pages/1/191/Dialogue/enemy4
-Fufufu...
-
-Have you ever gone back to sleep after waking up?#Ron
+Hihihi...still there? Have you ever experienced
+"sleeping twice"?#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -514,15 +476,15 @@ Have you ever gone back to sleep after waking up?#Ron
 
 起きてもなかなか今日の予定が思い出せない……
 > CONTEXT: Map062/events/5/pages/1/195/Dialogue/enemy4
-It's very pleasant, and your sense of time goes a
-bit off... Even after you get up you can't really
-remember what you were supposed to do that day...#Ron
+Very comfortable, my sense of time is crazy
+...... Even if I get up, I can not remember
+today's schedule ...#MTLed
 > END STRING
 
 > BEGIN STRING
 ………分かるかしら？
 > CONTEXT: Map062/events/5/pages/1/199/Dialogue/enemy4
-... Do you understand?#Ron
+......do you understand?#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -531,9 +493,8 @@ remember what you were supposed to do that day...#Ron
  待って！！まさかあれって……！！？
 ていうか、それ言いたくてこの話題を…！？
 > CONTEXT: Map062/events/5/pages/1/208/Dialogue/kazuya
-!!! Wait!! Don't tell me that was...?!
-
-And was that what you wanted to talk about...?!#RonIffy
+!!! wait!!No way......!!?
+I mean, I want to say that and this topic ...! ?#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -541,9 +502,7 @@ And was that what you wanted to talk about...?!#RonIffy
 
 さぁ、どうかしらね………♡
 > CONTEXT: Map062/events/5/pages/1/214/Dialogue/enemy4
-Fufufu...
-
-Hmm, I wonder... ♡#Ron
+Hihihi ......... Well, let's see...... ♡#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -551,9 +510,8 @@ Hmm, I wonder... ♡#Ron
 
 なんというか、不思議な感じだよね……
 > CONTEXT: Map062/events/5/pages/1/223/Dialogue/kazuya
-Your body... how do I put it...
-
-It feels kinda strange...#Ron
+What is Mother Rabbit's body? 
+It is a strange feeling ...#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -561,11 +519,9 @@ It feels kinda strange...#Ron
 
 温もりだけがぎゅうと包んでくる感じ……
 > CONTEXT: Map062/events/5/pages/1/227/Dialogue/kazuya
-Even when you're holding me, it doesn't feel
-suffocatingly hot...
-
-It just feels like I'm tightly wrapped in
-warmth...#Ron
+Hug I'm tight, but I'm not hot ...
+Feeling that only warmth is wrapped and wrapped
+...#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -574,10 +530,9 @@ warmth...#Ron
  人間界の動物と違って、毛の生え替わりがないから
 私の体毛は熱の出し入れが調整できるの。
 > CONTEXT: Map062/events/5/pages/1/231/Dialogue/enemy4
-Fufufu... That's right. Unlike animals in the
-human world, I can't grow my coat to different
-lengths. Instead I can adjust how much heat I
-retain.#Ron
+Hihihi...That's right. Unlike animals in the
+human realm, there is no hair change
+My hair can adjust the heat in and out.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -585,15 +540,14 @@ retain.#Ron
 
 暑苦しくなくて、丁度良い温かさになるのよ。
 > CONTEXT: Map062/events/5/pages/1/236/Dialogue/enemy4
-So even if I'm holding a little boy in the summer,
-he won't feel oppressively hot, but rather he'll
-feel perfectly warm.#Ron
+So, even if you ember the boy in summer
+It's not hot, it's just good warmth.#MTLed
 > END STRING
 
 > BEGIN STRING
 ……具現種ならではだな……
 > CONTEXT: Map062/events/5/pages/1/240/Dialogue/other2
-That's embodiments for you...#Ron
+...... tranformed species only ...#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -601,9 +555,9 @@ That's embodiments for you...#Ron
 
 心から思う環境でなければ、成り立たないから。
 > CONTEXT: Map062/events/5/pages/1/242/Dialogue/enemy4
-In my case, I can't keep it going unless the boy
-I'm holding wants to be "held forever" by me from
-the bottom of his heart.#RonIffy
+In my case, the boy "wants to be held forever"
+If it is not the environment that I think from
+the heart, it does not hold.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -611,15 +565,14 @@ the bottom of his heart.#RonIffy
 
 私の性質や目的が全く変わってくるでしょう？
 > CONTEXT: Map062/events/5/pages/1/246/Dialogue/enemy4
-Otherwise I'd be a demon who'd be inflicting a
-hellish summer heat with her hug. That would be
-quite a departure from my nature and purpose.#RonIffy
+"Summer is torn with a hug of hell" demon
+Will my nature and purpose change completely?#MTLed
 > END STRING
 
 > BEGIN STRING
 た、確かに……
 > CONTEXT: Map062/events/5/pages/1/250/Dialogue/kazuya
-It c- certainly would...#Ron
+Oh, indeed ...#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -628,10 +581,9 @@ It c- certainly would...#Ron
  この巨体にこの量でしょう？
 なかなか手が回らなくてね…
 > CONTEXT: Map062/events/5/pages/1/252/Dialogue/enemy4
-That's why I like to be scrupulous about
-grooming... But there's a lot here to groom on
-this large body of mine. I have to make sure I do
-it properly...#Ron
+So I would like to be careful about my hair
+Is this amount to this huge body?
+I have not been able to get around my hands ...#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -639,9 +591,9 @@ it properly...#Ron
 
 他はあんまり手が行き届いてないのよ。
 > CONTEXT: Map062/events/5/pages/1/257/Dialogue/enemy4
-Before I hug a little boy, I pay special attention
-to my hands and the inside of my ears, I can't
-really reach any other parts of my body.#Ron
+Hug on the front of the boy and the inside of the
+hand and ear are given priority
+Others are not very well at hand.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -649,9 +601,9 @@ really reach any other parts of my body.#Ron
 
 別にいいんじゃね。
 > CONTEXT: Map062/events/5/pages/1/261/Dialogue/other1
-Well, the fur on the outer parts of your body is
-there to protect against enemies, so it doesn't
-really matter does it?#Ron
+Well, the outside part is a body hair to protect
+itself from the outside enemy. 
+Another thing is not good.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -659,8 +611,9 @@ really matter does it?#Ron
 
 異常なまでの耐性を持っているからな。
 > CONTEXT: Map062/events/5/pages/1/266/Dialogue/other1
-Mother Rabbit's fur is resistant to things like
-magical environmental changes.#Ron
+Mother Rabbit's body hair is a magic and
+environmental change. It is because it has an
+abnormal resistance.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -668,8 +621,8 @@ magical environmental changes.#Ron
 
  ちょっとしたシェルターみたいなもんになる。
 > CONTEXT: Map062/events/5/pages/1/270/Dialogue/other1
-By holding someone and taking a firm low stance,
-she kinda turns herself into a shelter.#Ron
+If you hold the other person and lower your
+attitude. It looks like a little shelter.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -677,9 +630,8 @@ she kinda turns herself into a shelter.#Ron
 
 ………なんというか……万能だね。
 > CONTEXT: Map062/events/5/pages/1/275/Dialogue/kazuya
-Wow...
-
-That's like... the swiss army knife of fur, huh.#Ron
+Wow.........what is it...... it is all
+purpose.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -688,9 +640,9 @@ That's like... the swiss army knife of fur, huh.#Ron
 私はある意味、相手を堕落させちゃう悪魔ですもの
 他の要因で『ボウヤ』を逃すことがあってはダメなのよ
 > CONTEXT: Map062/events/5/pages/1/279/Dialogue/enemy4
-Fufufu... In a way, because I'm a demon who
-corrupts her opponent, I've never let one of my
-"little boys" escape from me.#RonIffy
+Hihihi ...... I'm in a way a demon that will make
+the other person crash. It is useless to miss
+"boy" due to other factors.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -698,9 +650,7 @@ corrupts her opponent, I've never let one of my
 
 脱出者が一人もいないわけだね……
 > CONTEXT: Map062/events/5/pages/1/284/Dialogue/kazuya
-I see...
-
-No one's ever escaped from you...#Ron
+I see……. There are no escapers ...#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -712,7 +662,7 @@ No one's ever escaped from you...#Ron
 > BEGIN STRING
 \\N[1]は、マザーラビットに力なく抱きついた…
 > CONTEXT: Map062/events/5/pages/1/299/Dialogue
-\\N[1] weakly clings to Mother Rabbit...#Ron
+\\N[1] was lavishly hug on Mother Rabbit ...#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -720,9 +670,7 @@ No one's ever escaped from you...#Ron
 
 どうしたの？ボウヤ。
 > CONTEXT: Map062/events/5/pages/1/302/Dialogue/enemy4
-...?
-
-What's the matter, little boy?#Ron
+......? What's wrong? boy.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -730,9 +678,8 @@ What's the matter, little boy?#Ron
 
 ただ………ちょっと疲れて………
 > CONTEXT: Map062/events/5/pages/1/306/Dialogue/kazuya-a
-Nothing...
-
-I'm just... a little tired...#Ron
+Apart from ......... Just...... a little tired
+... ...#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -740,9 +687,8 @@ I'm just... a little tired...#Ron
 
 『ママ』……
 > CONTEXT: Map062/events/5/pages/1/310/Dialogue/kazuya-a
-It's okay... for you to indulge me, right?
-
-"Mommy"...#Ron
+Even if you are sweet...good, right?
+"Mom" ......#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -750,15 +696,13 @@ It's okay... for you to indulge me, right?
 
 いっぱい甘えてちょうだい♡
 > CONTEXT: Map062/events/5/pages/1/315/Dialogue/enemy4
-... Of course.
-
-Let me spoil you lots... ♡#Ron
+...... Of course. A lot of sweetened rice cake#MTLed
 > END STRING
 
 > BEGIN STRING
 \\N[1]はマザーラビットを強く抱きしめている……
 > CONTEXT: Map062/events/5/pages/1/325/Dialogue
-\\N[1] strongly embraces Mother Rabbit...#Ron
+\\N[1] has a strong Embrace with Mother Rabbit ......#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -766,9 +710,8 @@ Let me spoil you lots... ♡#Ron
 
 僕はまだ、心の奥底で…『孤独』を持ってる……
 > CONTEXT: Map062/events/5/pages/1/329/Dialogue/kazuya-a
-It's like you said...
-
-I still have some "loneliness" in my heart...#Ron
+As you say ......... I still have "loneliness" in
+my heart ...#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -777,10 +720,10 @@ I still have some "loneliness" in my heart...#Ron
 ユウマの元へたどり着けるのかどうか、不安になる度に
 その『孤独』が顔を覗かせる……
 > CONTEXT: Map062/events/5/pages/1/333/Dialogue/kazuya-a
-Until now, I've lived without thinking about it...
-But every time I get worried about whether I'll
-actually be able to get to Yuuma, the loneliness
-rears its head...#Ron
+Until now, I have lived without thinking ...
+Every time I'm worried about whether I can get to
+Yuuma's origin. The "loneliness" makes her face
+look ...#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -789,9 +732,9 @@ rears its head...#Ron
 ひょっとしたら
 途中で悪魔のエサになったほうがいいんじゃないか…
 > CONTEXT: Map062/events/5/pages/1/338/Dialogue/kazuya-a
-I wonder if I'm really worth the trouble...
-Maybe it'd be better if I became demon food
-somewhere along the way...#Ron
+I'm really "necessary" ...... 
+Maybe. Shouldn't it be better to feed demons
+along the way ...#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -799,9 +742,9 @@ somewhere along the way...#Ron
 
 でも……ひょっとしたら僕にはそれほど…
 > CONTEXT: Map062/events/5/pages/1/343/Dialogue/kazuya-a
-It's too late to find out why I was abandoned...
-
-But maybe... if I was...#Ron
+got thrown away The reason...I can not
+understand it now. But...maybe so much for me
+...#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -809,9 +752,7 @@ But maybe... if I was...#Ron
 
 おはよう。
 > CONTEXT: Map062/events/5/pages/1/367/Dialogue/enemy4
-Are you awake, little boy?
-
-Good morning.#Ron
+noticed? boy. Good morning.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -819,16 +760,14 @@ Good morning.#Ron
 
 ボウヤの可愛い寝顔が堪能できて、幸せだったわ。
 > CONTEXT: Map062/events/5/pages/1/373/Dialogue/enemy4
-You had a good sleep, didn't you...? ♡
-I'm so happy I got to see my cute little boy's
-sleeping face.#Ron
+I slept well...♡. I was happy to see the cute
+sleeping face of boy.#MTLed
 > END STRING
 
 > BEGIN STRING
 僕は……いっそこのままママのボウヤになりたかった…
 > CONTEXT: Map062/events/5/pages/1/379/Dialogue/kazuya-2
-I... wanted to stay like that and become mommy's
-little boy...#Ron
+I wanted to be a mama's boy...all the way ...#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -837,10 +776,9 @@ little boy...#Ron
 そんなの許されない…僕はユウマの元に行かなきゃいけない…
 僕自身だって、行きたいと思ってるはずなんだ……
 > CONTEXT: Map062/events/5/pages/1/383/Dialogue/kazuya-2
-I know...
-
-That's not allowed... and I have to get to Yuuma.
-I'm supposed to want to get to Yuuma.#Ron
+I know……. I can not forgive you...I have to go
+to Yuuma...Even myself, I think I want to go
+...#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -849,10 +787,10 @@ I'm supposed to want to get to Yuuma.#Ron
 楽になりたい…気持ちよくなりたい……
 女悪魔の誘惑に、乗ってしまいたい……
 > CONTEXT: Map062/events/5/pages/1/388/Dialogue/kazuya-2
-But sometimes I'm hit with the opposite idea...
-I want to be comforted, I want to feel good...
-I want to be led astray by the temptations of the
-female demons.#Ron
+But sometimes, the idea of ​​this truth is
+attacking...I want to be comfortable...I want
+to be comfortable...I want to get in the
+temptation of a woman demon ...#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -860,9 +798,8 @@ female demons.#Ron
 
 だから捨てられて……当然だったのかな……？
 > CONTEXT: Map062/events/5/pages/1/393/Dialogue/kazuya-2
-Does that make me a "weak child"...?
-
-Is that why I was abandoned...?#Ron
+I am..."a weak child" ...? So it was thrown
+away...was it natural ...?#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -871,9 +808,9 @@ Is that why I was abandoned...?#Ron
 みんな、誰かに愛されている。
 必要ない『ボウヤ』なんていない。
 > CONTEXT: Map062/events/5/pages/1/398/Dialogue/enemy4
-... There's no "little boy" like that in the whole
-world. Everyone is loved by someone. There's no
-such thing as an unwanted "little boy".#Ron
+... There is no such boy in this world.
+Everyone is loved by someone. There is no need
+for a 'boy'.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -882,9 +819,9 @@ such thing as an unwanted "little boy".#Ron
 
 それは、大人になっても一緒……
 > CONTEXT: Map062/events/5/pages/1/403/Dialogue/enemy4
-But everyone gets lonely from time to time.
-That strange sense of "loneliness" is something
-everyone has, even after they're adults.#Ron
+But sometimes, anyone attacked
+"Loneliness" which is unknown. 
+It's together, even if you grow up ...#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -892,9 +829,8 @@ everyone has, even after they're adults.#Ron
 
 だから、私が生まれるの。
 > CONTEXT: Map062/events/5/pages/1/408/Dialogue/enemy4
-Even those with parents are no exception.
-
-That's why I am born.#Ron
+...... "Parent" is no exception.
+So I am born.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -903,10 +839,9 @@ That's why I am born.#Ron
 
 でも、それでもママはボウヤを愛しているわよ♡
 > CONTEXT: Map062/events/5/pages/1/414/Dialogue/enemy4
-Mommy can't replace your parents, so I'm not able
-to heal that little boy inside you...
-
-But even so, mommy loves you. ♡#Ron
+I can not say to my mom's "parent" ...
+So I can not heal boy from the bottom of my heart
+... But my mom still loves boy#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -915,10 +850,10 @@ But even so, mommy loves you. ♡#Ron
 
 ボウヤは、たくさんの人に愛されるために生まれてきたの。
 > CONTEXT: Map062/events/5/pages/1/419/Dialogue/enemy4
-Whether as your lover, as your friend, as your
-acquaintance, or even as someone who only met you
-once... you were born into this world to be loved
-by many people.#Ron
+Even a lover...a friend...even an
+acquaintance...Even if it was a one-off
+relationship...boy was born to be loved by many
+people.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -926,9 +861,8 @@ by many people.#Ron
 
 疲れたら、ママがいつでも抱きしめてあげる♡
 > CONTEXT: Map062/events/5/pages/1/424/Dialogue/enemy4
-Keep going for those people.
-
-Mommy will hold you whenever you're tired.#Ron
+Keep walking for those people.
+When I'm tired, my mom always gives me Embrace#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -936,9 +870,8 @@ Mommy will hold you whenever you're tired.#Ron
 
 ね？
 > CONTEXT: Map062/events/5/pages/1/428/Dialogue/enemy4
-Mommy will always be here for you... ♡
-
-Okay?#Ron
+Because mom is always here...♡
+?#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -946,9 +879,7 @@ Okay?#Ron
 
 ママ……
 > CONTEXT: Map062/events/5/pages/1/433/Dialogue/kazuya-0
-... Thank you...
-
-Mommy...#Ron
+……………Thank you…. Mom ......#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -967,9 +898,8 @@ has reached 100!#Triketos
 
  急にそんな高価なもの……
 > CONTEXT: Map062/events/5/pages/2/1/Dialogue/enemy4
-Oh my... What's wrong, little boy?
-
-You're suddenly giving me such expensive things...#Ron
+oh no ...... what happened? boy.
+Suddenly such expensive things ...#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -977,9 +907,8 @@ You're suddenly giving me such expensive things...#Ron
 
  他の子に贈ってあげてちょうだい？
 > CONTEXT: Map062/events/5/pages/2/5/Dialogue/enemy4
-It's a waste giving that to me.
-
-Please give it to another.#Ron
+It is a shame to give it to me.
+Can you give it to another child?#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -987,7 +916,8 @@ Please give it to another.#Ron
 
 受け取ってほしいんだ、『ママ』。
 > CONTEXT: Map062/events/5/pages/2/10/Dialogue/kazuya
-No... I want you to have it, "mommy"...#Ron
+Disagreeable………. I want you to receive it,
+"Mama".#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1115,7 +1045,7 @@ Rabbit!#MTLed
 > BEGIN STRING
 …………待っていたわ。ボウヤ。
 > CONTEXT: Map062/events/7/pages/0/0/Dialogue/enemy4
-... I've been waiting for you, little boy.#Ron
+...... I was waiting. boy.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1123,9 +1053,7 @@ Rabbit!#MTLed
 
 な、なんでここに……！？
 > CONTEXT: Map062/events/7/pages/0/3/Dialogue/kazuya
-Mother Rabbit...!
-
-W- why are you here?!#Ron
+Mother Rabbit ...! Nah, why not here ...! ?#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1133,9 +1061,7 @@ W- why are you here?!#Ron
 
  私は『そういう』悪魔なのよ。
 > CONTEXT: Map062/events/7/pages/0/7/Dialogue/enemy4
-Fufufu... I told you didn't I?
-
-I'm "that kind" of demon.#Ron
+Hihihi...you said that? I'm a "done" demon.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1143,8 +1069,9 @@ I'm "that kind" of demon.#Ron
 
 独りじゃないと、安心させるための悪魔……。
 > CONTEXT: Map062/events/7/pages/0/18/Dialogue/enemy4
-I'm a demon who comes to take care of little boys
-like you who are crying all alone...#Ron
+Like you, to a lonely crying boy
+If you're not alone, you're a demon to be
+relieved .......#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1152,8 +1079,8 @@ like you who are crying all alone...#Ron
 
  昔ならまだしも、今はユウマやレイナがいる。
 > CONTEXT: Map062/events/7/pages/0/23/Dialogue/kazuya
-I don't really think I'm all alone.
-Even back in the old days I had Yuuma and Reina.#Ron
+... I do not think I am alone.
+In the old days, there are still Yuuma and Reina.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1161,21 +1088,20 @@ Even back in the old days I had Yuuma and Reina.#Ron
 
 今の貴方には、頼れる人たちがいる。
 > CONTEXT: Map062/events/7/pages/0/27/Dialogue/enemy4
-... That's right, you're not "alone".
-
-You have people you can rely on now.#Ron
+...... Well, I'm not alone. There are people you
+can count on now.#MTLed
 > END STRING
 
 > BEGIN STRING
 でも私が言っているのは、もっと奥のことよ…
 > CONTEXT: Map062/events/7/pages/0/31/Dialogue/enemy4
-But what I'm talking about, is way before that...#Ron
+But what I'm saying is more back then ...#MTLed
 > END STRING
 
 > BEGIN STRING
 奥…？
 > CONTEXT: Map062/events/7/pages/0/33/Dialogue/kazuya
-Before that...?#Ron
+Back ...?#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1183,17 +1109,14 @@ Before that...?#Ron
 
 しかし市街地の時のように強引ではなく、ゆっくりと……
 > CONTEXT: Map062/events/7/pages/0/36/Dialogue
-Mother Rabbit gently brings me into a hug.
-
-But it's not as forceful as it was back in the
-city, it's slower...#Ron
+Mother Rabbit brings my body gently Hug.
+But not as aggressive as in the city, slowly ...#MTLed
 > END STRING
 
 > BEGIN STRING
 ………両親が『死んだ』は、ウソね…？
 > CONTEXT: Map062/events/7/pages/0/40/Dialogue/enemy4
-What you said about your parents being dead, that
-was a lie wasn't it...?#Ron
+......my parents say "dead" is a lie ...?#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1201,9 +1124,8 @@ was a lie wasn't it...?#Ron
 
 今は嘘だと知っている。そうでしょう？
 > CONTEXT: Map062/events/7/pages/0/43/Dialogue/enemy4
-Well to be precise... it's what you were told by
-those around you at the time. But you now know
-it's not true, isn't that right?#Ron
+No, but exactly...you were so explained around
+I know it's a lie now. do not you?#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1211,9 +1133,8 @@ it's not true, isn't that right?#Ron
 
 なぜ自分は、『捨てられた』のかって…。
 > CONTEXT: Map062/events/7/pages/0/49/Dialogue/enemy4
-The little boy deep within you is still crying.
-
-He's saying "Why was I abandoned?"...#Ron
+Your back 'boy' is still crying.
+Why I am "got thrown away" ....#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1222,15 +1143,15 @@ He's saying "Why was I abandoned?"...#Ron
 
 そう叫び続けてる………。
 > CONTEXT: Map062/events/7/pages/0/53/Dialogue/enemy4
-He keeps shouting,
-"Was it because I was bad...?"
-"Was it because they didn't want me...?"#Ron
+"Because I wasn't a good girl ...?"
+"I was not the kind of child they wanted ...?"
+I keep shouting so.........#MTLed
 > END STRING
 
 > BEGIN STRING
 …っ！！！
 > CONTEXT: Map062/events/7/pages/0/58/Dialogue/kazuya
-...!!!#Ron
+... Oh!!!#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1238,9 +1159,9 @@ He keeps shouting,
 
 突き放そうと、抱きしめられている身体に力をこめる。
 > CONTEXT: Map062/events/7/pages/0/60/Dialogue
-It seems she went ahead and read my heart, feelings of
-embarrassment and anger welled up inside me. I put my
-strength into trying to push her away.#Ron
+She seemed to read her heart without permission, and she
+was embarrassed and angry. Empress the body that is Embrace
+to push it out.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1248,8 +1169,8 @@ strength into trying to push her away.#Ron
 
 僕は結局、彼女を拒絶することは出来なかった………。
 > CONTEXT: Map062/events/7/pages/0/64/Dialogue
-But she was holding me in a powerful yet gentle embrace
-and I ultimately couldn't refuse her...#Ron
+But it's more powerful and gentle Embrace
+I could not reject her after all .....#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1258,9 +1179,9 @@ and I ultimately couldn't refuse her...#Ron
 ここは精神と意識の空間だから、そういう『声』は
 私にはハッキリ聞こえてしまうの……。
 > CONTEXT: Map062/events/7/pages/0/68/Dialogue/enemy4
-... I'm sorry, dear. Because this space is one of
-spirits and consciousness, these kinds of "voices"
-sound out to me clearly.#RonIffy
+……Sorry. Because this is a space of mind and
+consciousness, such "voice" is
+It sounds clear to me ....#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1268,9 +1189,8 @@ sound out to me clearly.#RonIffy
 
 私にも、あなたを支えさせてほしいのよ。
 > CONTEXT: Map062/events/7/pages/0/73/Dialogue/enemy4
-But just as you helped me...
-
-I also want to support you.#Ron
+But as you helped me...I also want you to
+support you.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1279,9 +1199,9 @@ I also want to support you.#Ron
 でも辛くなったとき、恋しくなったときに
 私を『ママ』と頼って甘えてちょうだい…
 > CONTEXT: Map062/events/7/pages/0/77/Dialogue/enemy4
-I won't say I'm any replacement for your mother...
-But when things get tough, when you yearn for me,
-Please let me be your "mommy"...#Ron
+Don't say it's your mother's ......
+But when it gets tough, when you get lost
+Please trust me to be a "Mama" ...#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1289,7 +1209,6 @@ Please let me be your "mommy"...#Ron
 
 だから、会いたくなったらいつでも来てね、ボウヤ…
 > CONTEXT: Map062/events/7/pages/0/84/Dialogue/enemy4
-I'll always be here...
-
-So come visit anytime you like, little boy...#Ron
+I am always here...So if you want to see me,
+please come and go, boy ...#MTLed
 > END STRING
