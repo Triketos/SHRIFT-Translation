@@ -8,15 +8,16 @@ If a passage starts with ellipses, have no space, like this:
 >_**"...Yeah."**_
 
 #### Stuttering:
-No spaces between stutter characters....
->_**"T-thanks..."**_
+If a character is feared or stressed, use hyphens: (No spaces between stutter characters....)
+>_**"T-t-thanks..."**_
+
+Otherwise, use ellipses:
+>_**I su... suppose that's okay.**_
 
 #### No Portrait Textboxes:
-For one line of text, use square brackets:
+Use square brackets. Align them to the first letter of text for multiple lines:
 >_**Researcher: [Lorem Ipsum]**_
 
-For multiple lines, use one space angle brackets, aligned to first letters:
-(word wrap makes this look weird...)
 >_**XXXX: 「Lorem ipsum dolor sit amet, consectetur
         adipiscing elit, sed do eiusmod tempor.」**_
         
