@@ -35,7 +35,7 @@ So was there originally a rest area here...?#Ron
 > BEGIN STRING
 ………いきなり開けた場所に出たな……
 > CONTEXT: Map065/events/12/pages/0/1/Dialogue/yuuma
-... You've suddenly come out in some open space...#Ron
+...You've suddenly come out in some open space...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -82,15 +82,15 @@ But why would...#Ron
 ？？？
  「……本当に良いのか？茜（あかね）」
 > CONTEXT: Map065/events/32/pages/0/5/Dialogue
-? ? ? 「... Is that really okay, Akane?」#Ron
+???: 「... Is that really okay, Akane?」#Ron
 > END STRING
 
 > BEGIN STRING
 茜と呼ばれた娘
  「はい、村長。…私が自分で決めたことです。」
 > CONTEXT: Map065/events/32/pages/0/9/Dialogue
-Girl called Akane 「Yes, mayor... this is something
-I have decided to do of my own accord.」#Ron
+Girl Called Akane: 「Yes, mayor... this is something
+					I have decided to do of my own accord.」#Ron
 > END STRING
 
 > BEGIN STRING
@@ -99,9 +99,10 @@ I have decided to do of my own accord.」#Ron
 
 　兄様を災厄から救えるのであれば……。」
 > CONTEXT: Map065/events/32/pages/0/12/Dialogue
-Girl called Akane 「If becoming a "human sacrifice"
-means my brother and the other villagers will be
-saved from calamity...」#Ron
+Girl called Akane: 「If becoming a "human sacrifice"
+				    means my brother and the other
+				    villagers will be saved from
+					calamity...」#Ron
 > END STRING
 
 > BEGIN STRING
@@ -110,10 +111,9 @@ saved from calamity...」#Ron
 　代わりに約束する。封印が二度と解けないように、
 　この場所には絶対に誰も立ち入らせねぇからよ！」
 > CONTEXT: Map065/events/32/pages/0/18/Dialogue
-Villager 「I'm sorry...
-
-I promise you... No one will ever be allowed in here
-again, the seal will never again be broken.」#Ron
+Villager: 「I'm sorry...
+		   I promise you... No one will ever be allowed in
+		   here again, the seal will never again be broken.」#Ron
 > END STRING
 
 > BEGIN STRING
@@ -121,15 +121,15 @@ again, the seal will never again be broken.」#Ron
  「あとのことはわしらに任せてくれ。
  　茜ちゃんの『覚悟』は、無駄にはしないよ。」
 > CONTEXT: Map065/events/32/pages/0/24/Dialogue
-Villager 「Please leave the rest to us. We won't
-waste Akane-chan's "Resolution".」#Ron
+Villager: 「Please leave the rest to us. We won't
+		   waste Akane-chan's "Resolution".」#Ron
 > END STRING
 
 > BEGIN STRING
 茜
  「……………………では、行って参ります……」
 > CONTEXT: Map065/events/32/pages/0/29/Dialogue
-Akane 「Now then, I shall go...」#Ron
+Akane: 「Now then, I shall go...」#Ron
 > END STRING
 
 > BEGIN STRING
@@ -147,7 +147,7 @@ You just stopped in your tracks...#Ron
 
 べつに…
 > CONTEXT: Map065/events/32/pages/0/44/Dialogue/kazuya
-N- no!
+N-no!
 
 It's nothing...#Ron
 > END STRING
