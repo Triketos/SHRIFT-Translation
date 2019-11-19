@@ -3576,7 +3576,7 @@ The P Twist#afrg
 \\c[2]【ボタン数】６【制限時間】３秒\\}\\C[0]【前回ダンス】\\V[130]
 > CONTEXT: Skills/293/description
 An intermediate level variation on the Spongebob Shuffle.
-\\c[2]【Button Count】5【Time Limit】3\\}\\C[0]【Previous Dance】\\V[130]#afrg
+\\c[2]Button Count:5 Time Limit:3\\}\\C[0] Previous Move:\\V[130]#afrg
 > END STRING
 
 > BEGIN STRING
@@ -3596,7 +3596,7 @@ Special Shuffle#afrg
 \\c[2]【ボタン数】７【制限時間】３秒\\}\\C[0]【前回ダンス】\\V[130]
 > CONTEXT: Skills/294/description
 Breakdance where you support your body with only your wrists.
-c[2]【Button Count】7【Time Limit】3\\}\\C[0]【Previous Dance】\\V[130]#afrg
+\\c[2]Button Count:7 Time Limit:3\\}\\C[0] Previous Move:\\V[130]#afrg
 > END STRING
 
 > BEGIN STRING
@@ -3615,9 +3615,8 @@ The Chair#afrg
 手を軸に足を大きく回転させるブレイクダンス。
 \\c[2]【ボタン数】７【制限時間】２秒\\}\\C[0]【前回ダンス】\\V[130]
 > CONTEXT: Skills/295/description
-A breakdance where you spin your legs in the air like a
-windmill using your hands as an axis.
-\\c[2]【Button Count】7【Time Limit】2\\}\\C[0]【Previous Dance】\\V[130]#afrg
+Breakdance where you spin your legs in the air.
+\\c[2]Button Count:5 Time Limit:2\\}\\C[0] Previous Move:\\V[130]#afrg
 > END STRING
 
 > BEGIN STRING
