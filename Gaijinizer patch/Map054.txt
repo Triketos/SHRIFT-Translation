@@ -1045,8 +1045,9 @@ Go get it already, let's warm up together♡#Triketos
 ふふふ、やっぱり頼んで正解だったなぁ♡
 > CONTEXT: Map054/events/5/pages/2/9/Dialogue/enemy5
 > CONTEXT: Map086/events/5/pages/2/9/Dialogue/enemy5
-You bought it for me! \\N[1]-kun...♪. Hehe,
-I knew you would get it for me~ ♡#Triketos
+You bought it for me! \\N[1]-kun...♪
+ 
+Hehe, I knew you would get it for me~ ♡#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -1087,7 +1088,7 @@ to eat one of these again!#Triketos
 \\N[1]君は、見返りにまず何が欲しいのかな？
 > CONTEXT: Map054/events/5/pages/2/42/Dialogue/enemy7
 > CONTEXT: Map086/events/5/pages/2/42/Dialogue/enemy7
-So \\N[1]...? First, what do you want
+So, \\N[1]...? First, what do you want
 in return?#Triketos
 > END STRING
 
@@ -1324,8 +1325,8 @@ the end~ ♡#Triketos
 > CONTEXT: Map086/events/5/pages/2/160/Dialogue/enemy5
 Or what~...? 
 Maybe in this confined back alley, in such a
-horny state... You don't want to ejaculate
-forever, and want to stay here with us..?#Triketos
+horny state... You want to ejaculate
+forever, and stay here with us..?#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -1359,10 +1360,10 @@ I'll be waiting~ ♡#Triketos
 
 > BEGIN STRING
 うう………っ！！♡♡
-> CONTEXT: Map054/events/5/pages/2/188/Dialogue/kazuya-0
-> CONTEXT: Map054/events/5/pages/6/104/Dialogue/kazuya-0
-> CONTEXT: Map086/events/5/pages/2/188/Dialogue/kazuya-0
-> CONTEXT: Map086/events/5/pages/5/104/Dialogue/kazuya-0
+> CONTEXT: Map054/events/5/pages/2/188/Dialogue/kazuya-0 
+> CONTEXT: Map054/events/5/pages/6/93/Dialogue/kazuya-0 
+> CONTEXT: Map086/events/5/pages/2/188/Dialogue/kazuya-0 
+> CONTEXT: Map086/events/5/pages/5/107/Dialogue/kazuya-0 
 Uu.........!! ♡♡#Triketos
 > END STRING
 
@@ -1535,10 +1536,10 @@ Lets go, Liz.#Triketos
 \\C[2]『飲み物』\\C[0]買ってきたら続きをやらせてあげる…♡
 
 待ってるからね、\\N[1]くん…♡
-> CONTEXT: Map054/events/5/pages/3/0/Dialogue/enemy5
-> CONTEXT: Map054/events/5/pages/5/246/Dialogue/enemy5
-> CONTEXT: Map086/events/5/pages/3/0/Dialogue/enemy5
-> CONTEXT: Map086/events/5/pages/4/259/Dialogue/enemy5
+> CONTEXT: Map054/events/5/pages/3/0/Dialogue/enemy5 
+> CONTEXT: Map054/events/5/pages/5/245/Dialogue/enemy5 
+> CONTEXT: Map086/events/5/pages/3/0/Dialogue/enemy5 
+> CONTEXT: Map086/events/5/pages/4/258/Dialogue/enemy5 
 If you just get me a \\C[2]"drink"\\C[0] I'll let
 you enjoy the rest of our fun~...♡
 
@@ -2285,123 +2286,52 @@ Ehehe...I'm looking forward to it...♡
 > END STRING
 
 > BEGIN STRING
-おはよっ、\\N[1]くん。
+おかえりー、リズ♪
 
-目が覚めた？
-> CONTEXT: Map054/events/5/pages/6/17/Dialogue/enemy5
-> CONTEXT: Map086/events/5/pages/5/17/Dialogue/enemy5
-Good morning, \\N[1]-kun. 
+\\N[1]くんも、目が覚めてるよー
+> CONTEXT: Map054/events/5/pages/6/38/Dialogue/enemy5 < UNTRANSLATED
+> CONTEXT: Map086/events/5/pages/5/52/Dialogue/enemy5 < UNTRANSLATED
 
-You awake?#Triketos
 > END STRING
 
 > BEGIN STRING
-あ、ああ……
+あ……あぁぁ…♡♡
+> CONTEXT: Map054/events/5/pages/6/42/Dialogue/kazuya-4 < UNTRANSLATED
+> CONTEXT: Map086/events/5/pages/5/56/Dialogue/kazuya-4 < UNTRANSLATED
 
-こ……これは…
-> CONTEXT: Map054/events/5/pages/6/21/Dialogue/kazuya-0
-> CONTEXT: Map086/events/5/pages/5/21/Dialogue/kazuya-0
-Oh, oh...
-
-Th-This is...#Triketos
 > END STRING
 
 > BEGIN STRING
-僕の身体は、完全に\\N[2]のパーカーの中だった。
+ふふふ、すっかり「仲良く」なったみたいじゃないか
 
-彼女に背中を向けて、上半身を抱えられた状態で
-パーカーのジッパーは、肩部分までほとんど閉じられている…
-> CONTEXT: Map054/events/5/pages/6/25/Dialogue
-> CONTEXT: Map086/events/5/pages/5/25/Dialogue
-My body was completely inside of \\N[2]'s hoodie.
-My back was to her as her upper body was pressed up
-against mine. The hoodie's zipper was closed almost
-up to the shoulder...#Triketos
+その姿、ニンゲンの尊厳の欠片もないね。
+> CONTEXT: Map054/events/5/pages/6/45/Dialogue/enemy7 < UNTRANSLATED
+> CONTEXT: Map086/events/5/pages/5/59/Dialogue/enemy7 < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
-ごめんねぇ、ちょっと強引な感じで…
+でもそろそろ服を着て、もう一回だけ頼まれてよ。
 
-私のこの手だと、\\N[1]くんに服着せれなくてさ…。
-> CONTEXT: Map054/events/5/pages/6/30/Dialogue/enemy5
-> CONTEXT: Map086/events/5/pages/5/30/Dialogue/enemy5
-I'm sorry, I feel a bit forced ...
-If it is my hand, I can not get dressed with
-\\N[1] ....#MTLed
+また欲しいものができたからさ。
+> CONTEXT: Map054/events/5/pages/6/49/Dialogue/enemy7 < UNTRANSLATED
+> CONTEXT: Map086/events/5/pages/5/63/Dialogue/enemy7 < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
-リズにも頼んだんだけど、彼女服に触るのもイヤって言うし…
-> CONTEXT: Map054/events/5/pages/6/34/Dialogue/enemy5
-> CONTEXT: Map086/events/5/pages/5/34/Dialogue/enemy5
-I also asked Liz, but I said she didn't like
-touching her clothes ...#MTLed
-> END STRING
+ほ…欲しいもの…？
+> CONTEXT: Map054/events/5/pages/6/53/Dialogue/kazuya-4 < UNTRANSLATED
+> CONTEXT: Map086/events/5/pages/5/67/Dialogue/kazuya-4 < UNTRANSLATED
 
-> BEGIN STRING
-でも裸のまんま放置しておくと風邪引いちゃうから
-
-せめて身体温めておかなきゃなーっておもってさ…
-> CONTEXT: Map054/events/5/pages/6/36/Dialogue/enemy5
-> CONTEXT: Map086/events/5/pages/5/36/Dialogue/enemy5
-But if you leave it naked, you will catch a cold
-You have to warm your body at least.#MTLed
-> END STRING
-
-> BEGIN STRING
-背中に、彼女の温もりと、やわらかいおっぱいの感触を感じる…
-
-耳に吐息がかかって、さらに全身の力が抜けてしまった…
-> CONTEXT: Map054/events/5/pages/6/40/Dialogue
-> CONTEXT: Map086/events/5/pages/5/40/Dialogue
-I feel her warmth and soft tits feeling on my back ...
-My ear got a sigh and my whole body's strength dropped ...#MTLed
-> END STRING
-
-> BEGIN STRING
-ふあぁ…♡
-
-あったかい…♡
-> CONTEXT: Map054/events/5/pages/6/47/Dialogue/kazuya-0
-> CONTEXT: Map086/events/5/pages/5/47/Dialogue/kazuya-0
-ahnn...♡. It was warm...♡#MTLed
-> END STRING
-
-> BEGIN STRING
-ワタシもだよ、\\N[1]くん♡
-
-ホントはもっともっとこうやって抱いていたいけど……♡
-> CONTEXT: Map054/events/5/pages/6/51/Dialogue/enemy5
-> CONTEXT: Map086/events/5/pages/5/51/Dialogue/enemy5
-'I' too, \\N[1]-kun, I really want to hold this
-way more and more...♡#MTLed
-> END STRING
-
-> BEGIN STRING
-リズがね…もうひとつだけ
-
-おつかいを頼みたいんだって…♡
-> CONTEXT: Map054/events/5/pages/6/55/Dialogue/enemy5
-> CONTEXT: Map086/events/5/pages/5/55/Dialogue/enemy5
-Liz Gane...only one more. I would like to ask
-for help...♡#MTLed
-> END STRING
-
-> BEGIN STRING
-お……
-
-おつかい………？
-> CONTEXT: Map054/events/5/pages/6/59/Dialogue/kazuya-0
-> CONTEXT: Map086/events/5/pages/5/59/Dialogue/kazuya-0
-Oh ...... Are you .........?#MTLed
 > END STRING
 
 > BEGIN STRING
 食後の\\C[2]『お菓子』\\C[0]が欲しいんだよ。
 
-それを買ってきてくれたら、あとは好きにしていいよ。
-> CONTEXT: Map054/events/5/pages/6/66/Dialogue/enemy7
-> CONTEXT: Map086/events/5/pages/5/66/Dialogue/enemy7
+それを買ってきてくれたら、あとは好きにしていいから。
+> CONTEXT: Map054/events/5/pages/6/55/Dialogue/enemy7 
+> CONTEXT: Map086/events/5/pages/5/69/Dialogue/enemy7 
 After meals\\C[2] "Sweets"\\C[0] I want you.
 If you buy it, you may like it.#MTLed
 > END STRING
@@ -2410,8 +2340,8 @@ If you buy it, you may like it.#MTLed
 ハルとそうやってイチャつくなり
 
 ここから出ていくなり、ね。
-> CONTEXT: Map054/events/5/pages/6/70/Dialogue/enemy7
-> CONTEXT: Map086/events/5/pages/5/70/Dialogue/enemy7
+> CONTEXT: Map054/events/5/pages/6/59/Dialogue/enemy7 
+> CONTEXT: Map086/events/5/pages/5/73/Dialogue/enemy7 
 That's how it works with Haru. 
 I'm getting out of here, isn't it?#MTLed
 > END STRING
@@ -2420,8 +2350,8 @@ I'm getting out of here, isn't it?#MTLed
 ねぇ\\N[1]くん…♡ちゃっちゃと買ってきてよ…♡
 
 帰ってきたら、またこうやってイチャイチャしよ…？♡
-> CONTEXT: Map054/events/5/pages/6/82/Dialogue/enemy5
-> CONTEXT: Map086/events/5/pages/5/82/Dialogue/enemy5
+> CONTEXT: Map054/events/5/pages/6/71/Dialogue/enemy5 
+> CONTEXT: Map086/events/5/pages/5/85/Dialogue/enemy5 
 Hey \\N[1]-kun...you've been buying it for a
 long time...When I come back, I'll try cozy
 again ...? Moth#MTLed
@@ -2429,8 +2359,8 @@ again ...? Moth#MTLed
 
 > BEGIN STRING
 あ、ああっ……♡♡
-> CONTEXT: Map054/events/5/pages/6/86/Dialogue/kazuya-0
-> CONTEXT: Map086/events/5/pages/5/86/Dialogue/kazuya-0
+> CONTEXT: Map054/events/5/pages/6/75/Dialogue/kazuya-0 
+> CONTEXT: Map086/events/5/pages/5/89/Dialogue/kazuya-0 
 Ah, AAh...... ♡♡#MTLed
 > END STRING
 
@@ -2438,8 +2368,8 @@ Ah, AAh...... ♡♡#MTLed
 \\N[2]に耳元で甘く囁かれ、優しく抱きしめられると
 
 僕の身体は、条件反射のように興奮し始めた……
-> CONTEXT: Map054/events/5/pages/6/88/Dialogue
-> CONTEXT: Map086/events/5/pages/5/88/Dialogue
+> CONTEXT: Map054/events/5/pages/6/77/Dialogue 
+> CONTEXT: Map086/events/5/pages/5/91/Dialogue 
 It is sweetened in \\N[2]'s ear and sweetly Embrace with
 \\N[2]. My body started being aroused like a conditional
 reflex ...#MTLed
@@ -2449,8 +2379,8 @@ reflex ...#MTLed
 買ってこなきゃ…♡
 
 は、\\N[2]……\\N[2]…♡
-> CONTEXT: Map054/events/5/pages/6/106/Dialogue/kazuya-0
-> CONTEXT: Map086/events/5/pages/5/106/Dialogue/kazuya-0
+> CONTEXT: Map054/events/5/pages/6/95/Dialogue/kazuya-0 
+> CONTEXT: Map086/events/5/pages/5/109/Dialogue/kazuya-0 
 I have to buy it...♡. , \\N[2]...\\N[2]...♡#MTLed
 > END STRING
 
@@ -2850,7 +2780,7 @@ Hihihi ...#MTLed
  治療薬は買わなかったのかい？
 > CONTEXT: Map054/events/11/pages/1/0/Dialogue/hyakki
 > CONTEXT: Map263/events/11/pages/1/0/Dialogue/hyakki
-Oh! \\N[1]! It looks like you're in pain
+Oh! \\N[1]! It looks like you're in pain,
 but I don't see anything wrong with you...
  
 Didn't you buy the cure already?#Triketos
@@ -2907,8 +2837,8 @@ You're not a "Furry", are you \\N[1]?#Triketos
 > CONTEXT: Map263/events/11/pages/1/29/Dialogue/kazuya-0
 Oh, please stop bugging me like that...!
 My head is pounding, my heart's beating fast......
-I feel like I'm going to die if I don't get rid of
-this...!#Triketos
+I feel like I'm going to die if I don't get rid
+of this...!#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -3241,7 +3171,7 @@ to deal with it.#Triketos
 > CONTEXT: Map054/events/11/pages/1/204/Dialogue/yuuma
 > CONTEXT: Map263/events/11/pages/1/204/Dialogue/yuuma
 ...This is also a very old magic spell.
-Imma's beginner-class curse "Ejaculation
+A beginner Succubus's curse called "Ejaculation
 Sealing"?#Triketos
 > END STRING
 

@@ -72,25 +72,29 @@ Security room#MTLed
 
 > BEGIN STRING
 休憩室
-> CONTEXT: MapInfos/11/name
-> CONTEXT: MapInfos/15/name
-> CONTEXT: MapInfos/22/name
-> CONTEXT: MapInfos/36/name
-> CONTEXT: MapInfos/48/name
-> CONTEXT: MapInfos/53/name
-> CONTEXT: MapInfos/64/name
-> CONTEXT: MapInfos/76/name
-> CONTEXT: MapInfos/100/name
-> CONTEXT: MapInfos/117/name
-> CONTEXT: MapInfos/123/name
-> CONTEXT: MapInfos/135/name
-> CONTEXT: MapInfos/136/name
-> CONTEXT: MapInfos/141/name
-> CONTEXT: MapInfos/155/name
-> CONTEXT: MapInfos/157/name
-> CONTEXT: MapInfos/163/name
-> CONTEXT: MapInfos/192/name
-> CONTEXT: MapInfos/274/name
+> CONTEXT: MapInfos/11/name 
+> CONTEXT: MapInfos/15/name 
+> CONTEXT: MapInfos/22/name 
+> CONTEXT: MapInfos/36/name 
+> CONTEXT: MapInfos/48/name 
+> CONTEXT: MapInfos/53/name 
+> CONTEXT: MapInfos/64/name 
+> CONTEXT: MapInfos/76/name 
+> CONTEXT: MapInfos/100/name 
+> CONTEXT: MapInfos/117/name 
+> CONTEXT: MapInfos/123/name 
+> CONTEXT: MapInfos/135/name 
+> CONTEXT: MapInfos/136/name 
+> CONTEXT: MapInfos/141/name 
+> CONTEXT: MapInfos/155/name 
+> CONTEXT: MapInfos/157/name 
+> CONTEXT: MapInfos/163/name 
+> CONTEXT: MapInfos/192/name 
+> CONTEXT: MapInfos/274/name 
+> CONTEXT: MapInfos/299/name 
+> CONTEXT: MapInfos/302/name 
+> CONTEXT: MapInfos/304/name 
+> CONTEXT: MapInfos/307/name 
 Rest rooms#MTLed
 > END STRING
 
@@ -236,16 +240,21 @@ Shelter exit#MTLed
 
 > BEGIN STRING
 市街地１
-> CONTEXT: MapInfos/46/name
+> CONTEXT: MapInfos/46/name 
+> CONTEXT: MapInfos/296/name 
+> CONTEXT: MapInfos/294/name 
+> CONTEXT: MapInfos/303/name 
 City area 1#MTLed
 > END STRING
 
 > BEGIN STRING
 市街地２
-> CONTEXT: MapInfos/47/name
-> CONTEXT: MapInfos/208/name
-> CONTEXT: MapInfos/211/name
-> CONTEXT: MapInfos/261/name
+> CONTEXT: MapInfos/47/name 
+> CONTEXT: MapInfos/208/name 
+> CONTEXT: MapInfos/211/name 
+> CONTEXT: MapInfos/261/name 
+> CONTEXT: MapInfos/301/name 
+> CONTEXT: MapInfos/306/name 
 Urban area 2#MTLed
 > END STRING
 
@@ -264,29 +273,34 @@ Urban area 3#MTLed
 
 > BEGIN STRING
 マンション
-> CONTEXT: MapInfos/51/name
+> CONTEXT: MapInfos/51/name 
+> CONTEXT: MapInfos/300/name 
 Apartment#MTLed
 > END STRING
 
 > BEGIN STRING
 工場
-> CONTEXT: MapInfos/52/name
+> CONTEXT: MapInfos/52/name 
+> CONTEXT: MapInfos/298/name 
 Factory#MTLed
 > END STRING
 
 > BEGIN STRING
 路地裏
-> CONTEXT: MapInfos/54/name
-> CONTEXT: MapInfos/86/name
-> CONTEXT: MapInfos/182/name
-> CONTEXT: MapInfos/263/name
+> CONTEXT: MapInfos/54/name 
+> CONTEXT: MapInfos/86/name 
+> CONTEXT: MapInfos/182/name 
+> CONTEXT: MapInfos/263/name 
+> CONTEXT: MapInfos/295/name 
+> CONTEXT: MapInfos/308/name 
 Alley#MTLed
 > END STRING
 
 > BEGIN STRING
 コンビニ
-> CONTEXT: MapInfos/55/name
-> CONTEXT: MapInfos/87/name
+> CONTEXT: MapInfos/55/name 
+> CONTEXT: MapInfos/87/name 
+> CONTEXT: MapInfos/297/name 
 Convenience store#MTLed
 > END STRING
 
@@ -871,8 +885,14 @@ Wise men#MTLed
 
 > BEGIN STRING
 待合室
-> CONTEXT: MapInfos/214/name
+> CONTEXT: MapInfos/214/name 
 Waiting room#MTLed
+> END STRING
+
+> BEGIN STRING
+レミエル
+> CONTEXT: MapInfos/218/name 
+Remiel#MTLed
 > END STRING
 
 > BEGIN STRING
