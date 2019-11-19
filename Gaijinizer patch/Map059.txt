@@ -12,14 +12,14 @@ Are you awake, \\N[1]-kun?#Ron
 > CONTEXT: Map059/events/1/pages/0/24/Dialogue/other3
 Here, I bought this canned coffee from a vending
 machine outside. If it's from a vending machine
-you won't have to worry about what's in it so
+you won't have to worry about what's in it, so
 drink up.#Ron
 > END STRING
 
 > BEGIN STRING
 あ、ありがとう……
 > CONTEXT: Map059/events/1/pages/0/28/Dialogue/kazuya
-T- thanks...#Ron
+T-thanks...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -27,7 +27,7 @@ T- thanks...#Ron
 
  転送されるとひどく酔うっちうデメリットがあっての。
 > CONTEXT: Map059/events/1/pages/0/36/Dialogue/other3
-... T- that transfer device...
+...T-that transfer device...
 
 It can make you pretty nauseous when you use it.#Ron
 > END STRING
@@ -37,9 +37,9 @@ It can make you pretty nauseous when you use it.#Ron
 
 実用化に調整を進めてた試作品だったんよ……
 > CONTEXT: Map059/events/1/pages/0/40/Dialogue/other3
-As you now know, even very short distance travel's
-enough to knock you off your feet. It's a
-prototype I've been working on with an eye to
+As you now know, even very short distance
+travel's enough to knock you off your feet. It's
+a prototype I've been working on with an eye to
 commercialize...#Ron
 > END STRING
 
@@ -58,9 +58,9 @@ done for...#Ron
 
 …シェルターで目覚めた時から、お前さんを見てた。
 > CONTEXT: Map059/events/1/pages/0/52/Dialogue/other3
-I'm not gonna give you the runaround, I'll be
-honest with you. I've been watching you since you
-woke up in the shelter.#Ron
+I'm not gonna give you the runaround.
+I'll be honest with you: I've been watching you
+since you woke up in the shelter.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -70,9 +70,12 @@ woke up in the shelter.#Ron
 んで、監視カメラ覗いたら、お前さんがおった。
 > CONTEXT: Map059/events/1/pages/0/57/Dialogue/other3
 That shelter was supposed to have been fully
-evacuated and then all of a sudden the power in
-the medical unit came on, so I got suspicious. And
-when I peeked through the camera, there you were.#Ron
+evacuated, and then all of a sudden the power in
+the medical unit came on.
+
+I got suspicious, so I started looking
+through the camera footage...
+and there you were.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -81,7 +84,7 @@ when I peeked through the camera, there you were.#Ron
 こうやって地下で毎日、地上の監視カメラ覗き見して
 人間観察することしか趣味がなかったもんじゃから…。
 > CONTEXT: Map059/events/1/pages/0/62/Dialogue/other3
-... Little old exiled me's a dangerous person, you
+...Little old exiled me's a dangerous person, you
 know. All I had to do with my spare time was watch
 the surveillance cameras above and below ground.
 Human observation's the only thing to do here...#Ron
@@ -93,9 +96,9 @@ Human observation's the only thing to do here...#Ron
 あのカルテも、シェルターに記録されてた登録データを
  ハッキングしてプリントアウトしたものなんよ…。
 > CONTEXT: Map059/events/1/pages/0/67/Dialogue/other3
-So I ended up following your movements... Those
-medical records are data from the shelter I hacked
-and printed out...#Ron
+So, I ended up following your movements.
+Those medical records are data from the shelter
+I hacked and printed out...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -167,8 +170,8 @@ you've seen...#Ron
 > CONTEXT: Map059/events/1/pages/0/99/Dialogue/other3
 But I want to help you escape.
 
-I have quite a few inventions I think will come in
-real handy.#Ron
+I have quite a few inventions I think will come
+in real handy.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -193,7 +196,7 @@ natural lull, I'd like to do an interview!#Ron
 > BEGIN STRING
 に、ニーナ！？
 > CONTEXT: Map059/events/1/pages/0/125/Dialogue/kazuya
-N- Nina?!#Ron
+N-Nina?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -231,7 +234,7 @@ close-up look at our guest \\N[1]-kun!!#Ron
 > BEGIN STRING
 み、密着ドキュメンタリー………？
 > CONTEXT: Map059/events/1/pages/0/144/Dialogue/kazuya
-C- close-up look...?#Ron
+C-close-up look...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -242,8 +245,8 @@ C- close-up look...?#Ron
 > CONTEXT: Map059/events/1/pages/0/155/Dialogue/enemy6
 By the way doctor...!!
 
-This is a bit direct but, when are you gonna bring
-up that "doll"?!#Ron
+This is a bit direct but, when are you gonna
+bring up that "doll"?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -330,7 +333,7 @@ We're on live, you know!#Ron
 
 どういうことですか？結博士。
 > CONTEXT: Map059/events/1/pages/0/216/Dialogue/kazuya-3
-... So...
+...So...
 
 Whatever do you mean, Doctor Yui?#Ron
 > END STRING
@@ -338,7 +341,7 @@ Whatever do you mean, Doctor Yui?#Ron
 > BEGIN STRING
 そ、その笑顔は別の意味で怖い……！！
 > CONTEXT: Map059/events/1/pages/0/220/Dialogue/other3
-T- that smile's kinda scary in its own way...!!#Ron
+T-that smile's kinda scary in its own way...!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -369,8 +372,8 @@ on that milking doll...#Ron
 > CONTEXT: Map059/events/1/pages/0/232/Dialogue/other3
 But then when I was almost finished...
 
-It got possessed by some extreme grudge and became
-haunted.#Ron
+It got possessed by some extreme grudge and
+became haunted.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -394,9 +397,9 @@ And I'd put so much work into it as well...#Ron
 
 ワシに『男はどこだ』って脅してきたから、とっさに…
 > CONTEXT: Map059/events/1/pages/0/242/Dialogue/other3
-And I think you've realised the "purpose" of that
-doll's grudge... She menacingly asked "Where is the
-man" and then suddenly...#Ron
+By now I think you've realized the reason
+behind that doll's grudge... She menacingly asked
+"Where is that man?" and then suddenly...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -432,8 +435,8 @@ You don't have to say it twice!!#Ron
 
 あんな怖い顔で迫られて、仕方がなかったんよぉ…！
 > CONTEXT: Map059/events/1/pages/0/257/Dialogue/other3
-Her hair was slithering all over the place and her
-neck was making all these weird noises and
+Her hair was slithering all over the place and
+her neck was making all these weird noises and
 movements... And that face... I couldn't help it,
 okay?!#Ron
 > END STRING
@@ -453,8 +456,8 @@ that'll count as establishing a contract. ♪#Ron
 
 さぁ、どう立ち向かう！？\\N[1]くん！！
 > CONTEXT: Map059/events/1/pages/0/265/Dialogue/enemy6
-And on top of that she's a "milking doll" equipped
-with those amazing hand functions.
+And on top of that she's a "milking doll"
+equipped with those amazing hand functions.
 
 So how're you going to defeat her, \\N[1]-kun?!#Ron
 > END STRING
@@ -462,7 +465,7 @@ So how're you going to defeat her, \\N[1]-kun?!#Ron
 > BEGIN STRING
 …………行こう、ユウマ。
 > CONTEXT: Map059/events/1/pages/0/289/Dialogue/kazuya
-... Let's go, Yuuma.#Ron
+...Let's go, Yuuma.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -481,12 +484,12 @@ at some of my inventions!!#Ron
 > CONTEXT: Map059/events/1/pages/0/297/Dialogue/kazuya
 Give it a rest.
 
-There's no guarantee they'll be useful, and I'm in
-a hurry here.#Ron
+There's no guarantee they'll be useful, and I'm
+in a hurry here.#Ron
 > END STRING
 
 > BEGIN STRING
 そ、そんなぁ……
 > CONTEXT: Map059/events/1/pages/0/303/Dialogue/other3
-O- oh dear...#Ron
+O-oh dear...#Ron
 > END STRING
