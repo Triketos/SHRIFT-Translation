@@ -4,7 +4,9 @@
 
 私にも構ってよぉ♪
 > CONTEXT: Map070/events/5/pages/0/19/Dialogue/enemy5
-Hey hey, \\N[1]-kun. Let me know♪#MTLed
+Heeeey, \\N[1]-kun. ♡
+
+Spend some time with me too... ♪#Ron
 > END STRING
 
 > BEGIN STRING
@@ -17,7 +19,7 @@ Change of callen(v[46] \>= 25)#MTLed
 > BEGIN STRING
 現在の呼び方【\\N[2]】
 > CONTEXT: Map070/events/5/pages/0/33/ChoiceHelp
-How to call now [\\N[2]]#MTLed
+Change how you address Haru, currently [\\N[2]].#Ron
 > END STRING
 
 > BEGIN STRING
@@ -52,7 +54,7 @@ Haru-sama#MTLed
 > BEGIN STRING
 彼女の呼び方を『\\N[2]』に変えた。
 > CONTEXT: Map070/events/5/pages/0/46/Dialogue
-I changed her name to "\\N[2]".#MTLed
+I'll call her "\\N[2]" from now on.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -65,19 +67,19 @@ Chaten(v[46] \>= 25)#MTLed
 > BEGIN STRING
 搾精（パーカー）en(v[46] \>= 25) 
 > CONTEXT: Map070/events/5/pages/0/50/Choice/1
-milking (Hoodie)en(v[46] \>= 25)#MTLed
+Milking (Hoodie)en(v[46] \>= 25)#Ron
 > END STRING
 
 > BEGIN STRING
 搾精（６９）en(v[46] \>= 50) 
 > CONTEXT: Map070/events/5/pages/0/50/Choice/2
-milking (69)en(v[46] \>= 50)#MTLed
+Milking (69)en(v[46] \>= 50)#Ron
 > END STRING
 
 > BEGIN STRING
 【ハル】種族：魔獣
 > CONTEXT: Map070/events/5/pages/0/52/ChoiceHelp
-[Haru] Tribe: Beast#MTLed
+[Haru] Tribe: Magical Beast#Ron
 > END STRING
 
 > BEGIN STRING
@@ -99,7 +101,7 @@ good, how ...#MTLed
 > BEGIN STRING
 心蝕を消すif(v[46] \>= 100) 
 > CONTEXT: Map070/events/5/pages/0/211/Choice/0
-clear the mind corruptionif(v[46] \>= 100)#MTLed
+Clear Haru and Liz's corruptionif(v[46] \>= 100)#Ron
 > END STRING
 
 > BEGIN STRING
@@ -114,31 +116,31 @@ Let's play a lot?#MTLed
 > BEGIN STRING
 "ハル＆リズの心蝕が治った！！"
 > CONTEXT: Map070/events/5/pages/0/233/InlineScript/1:12
-"ハル＆リズ's mind corruption cured!!"#MTLed
+"Haru and Liz's corruption has been cured!!"#Ron
 > END STRING
 
 > BEGIN STRING
 それじゃあ、何お話ししよっか？
 > CONTEXT: Map070/events/5/pages/1/1/Dialogue/enemy5
-Well then, what are you talking about?#MTLed
+Okay, what should we talk about?#Ron
 > END STRING
 
 > BEGIN STRING
 リズとの関係en(v[46] \>= 30) 
 > CONTEXT: Map070/events/5/pages/1/5/Choice/0
-Relationship with Lizen(v[46] \>= 30)#MTLed
+Relationship with Lizen(v[46] \>= 30)#Ron
 > END STRING
 
 > BEGIN STRING
 パーカーについてen(v[46] \>= 40) 
 > CONTEXT: Map070/events/5/pages/1/5/Choice/1
-About Hoodieen(v[46] \>= 40)#MTLed
+Hoodieen(v[46] \>= 40)#Ron
 > END STRING
 
 > BEGIN STRING
 嗜好品en(v[46] \>= 60) 
 > CONTEXT: Map070/events/5/pages/1/5/Choice/2
-Favorite itemsen(v[46] \>= 60)#MTLed
+Favorite Foodsen(v[46] \>= 60)#Ron
 > END STRING
 
 > BEGIN STRING
@@ -146,8 +148,7 @@ Favorite itemsen(v[46] \>= 60)#MTLed
 
 前に話したことあるっけ？
 > CONTEXT: Map070/events/5/pages/1/10/Dialogue/enemy5
-If 'I' was originally a domestic cat
-Have you talked before?#MTLed
+Did I ever tell you I used to be a housecat?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -155,9 +156,8 @@ Have you talked before?#MTLed
 
 自分で言うのもなんだけど、不自由なく暮らしてた。
 > CONTEXT: Map070/events/5/pages/1/14/Dialogue/enemy5
-'I' has been raised by human owners since small
-It is something I say by myself, but I lived
-without inconvenience.#MTLed
+I was raised by human owners since I was little,
+I lived a life without any want or worry.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -165,9 +165,10 @@ without inconvenience.#MTLed
 
 そして、争う必要のない自分だけの縄張り……
 > CONTEXT: Map070/events/5/pages/1/18/Dialogue/enemy5
-Eat if you want to eat, a master who will boil
-you without saying. And, you don't have to fight
-yourself.#MTLed
+Masters who would feed me if I begged, and who
+would give me pats without me having to ask. And
+I had a territory all to myself that I didn't
+have to fight for.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -175,8 +176,8 @@ yourself.#MTLed
 
 完全に自由ってワケではなかったけどね。
 > CONTEXT: Map070/events/5/pages/1/22/Dialogue/enemy5
-... ...... even though I have never been outside
-I was not completely free, though.#MTLed
+...Buuut, I had never been outside once, so it's
+not like I was completely free.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -184,14 +185,14 @@ I was not completely free, though.#MTLed
 
 あの時が一番、気楽に過ごしてた時期かもしれないなぁ。
 > CONTEXT: Map070/events/5/pages/1/26/Dialogue/enemy5
-But it was fun ...... That may be the time when I
-was most comfortable.#MTLed
+But it was so fun... That might have been the
+most comfortable time of my life.#Ron
 > END STRING
 
 > BEGIN STRING
 ………そんな\\N[2]が、どうして野良に？
 > CONTEXT: Map070/events/5/pages/1/31/Dialogue/kazuya
-......... That's why \\N[2] is so good.#MTLed
+...How did you end up a stray then, \\N[2].#Ron
 > END STRING
 
 > BEGIN STRING
@@ -199,9 +200,8 @@ was most comfortable.#MTLed
 
 ホントに急だったよ、なんの前触れもなく。
 > CONTEXT: Map070/events/5/pages/1/33/Dialogue/enemy5
-One day after the day, my husband did not come
-home suddenly. It was really sudden, without any
-warning.#MTLed
+One day my masters suddenly stopped coming home.
+It was real sudden, no warning whatsoever.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -210,9 +210,9 @@ warning.#MTLed
 
 外から声をかけてくれたのが、リズだったんだ。
 > CONTEXT: Map070/events/5/pages/1/37/Dialogue/enemy5
-It was after about 5 days...I'm out of food,
-it's lonely and crooked 'I'. It was Liz who spoke
-from outside.#MTLed
+It was about five days later I think... I was out
+of food, lonely, and cowering. That's when I
+heard someone's voice from outside, it was Liz.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -221,9 +221,9 @@ from outside.#MTLed
 でも、外の世界の右も左もわからないワタシは、
 リズの後ろをついて回るしかなかった。
 > CONTEXT: Map070/events/5/pages/1/44/Dialogue/enemy5
-Liz took 'I' out and said, 'Free' ...
-But the right and left of the outside world, I
-don't know 'I'. I had to go around behind Liz.#MTLed
+Liz let me outside and said, "You're free"...
+But I didn't know my left from my right in the
+outside world. So I just followed behind Liz.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -231,8 +231,8 @@ don't know 'I'. I had to go around behind Liz.#MTLed
 
 今に至る、って感じかなぁ。
 > CONTEXT: Map070/events/5/pages/1/49/Dialogue/enemy5
-And eventually, 'I' is also demonized to become
-nekomata. It feels like it's up to now.#MTLed
+And eventually, I turned into a demon and became
+a nekomata. And that brings us to today.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -240,8 +240,8 @@ nekomata. It feels like it's up to now.#MTLed
 
 まだ\\N[2]は普通の猫だったんだ。
 > CONTEXT: Map070/events/5/pages/1/53/Dialogue/kazuya
-Well then, when I first met. Still \\N[2] was an
-ordinary cat.#MTLed
+So when you two first met, you were still an
+ordinary cat, \\N[2]?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -249,8 +249,9 @@ ordinary cat.#MTLed
 
 第二の産みの親で、育ての親でもあるんだ。
 > CONTEXT: Map070/events/5/pages/1/57/Dialogue/enemy5
-Oh yeah, so Liz is 'I'. I am the second parent
-and my parent.#MTLed
+That's right, so Liz is like the second parent
+to bring me into the world, and to teach me
+everything I know.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -258,8 +259,9 @@ and my parent.#MTLed
 
 ネコマタになってからも、色々と教えてもらったよ！
 > CONTEXT: Map070/events/5/pages/1/61/Dialogue/enemy5
-Not just know-how as a stray cat
-Even after becoming nekomata, I was taught a lot!#MTLed
+And not just on how to survive as a stray. Ever
+since I became a nekomata, she's taught me all
+sorts of things!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -269,7 +271,7 @@ Even after becoming nekomata, I was taught a lot!#MTLed
 > CONTEXT: Map070/events/5/pages/1/66/Dialogue/enemy5
 Well, there are also people who like 'I' and keep
 up. Basically, it is absolutely human-kun because
-I am scared when I get angry.#MTLed
+I am scared when I get angry.#CheckLater
 > END STRING
 
 > BEGIN STRING
@@ -277,9 +279,9 @@ I am scared when I get angry.#MTLed
 
 実際に何回か、危険な場面も回避できたしね…
 > CONTEXT: Map070/events/5/pages/1/70/Dialogue/enemy5
-What Liz says is almost exactly what it says
-You could actually avoid dangerous scenes several
-times ...#MTLed
+Liz is almost always right. There's been so many
+times we've been able to get out of tight
+spots...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1421,7 +1423,7 @@ By receiving the engagement ring. \\C[2]I got engaged with Haru!#MTLed
 > BEGIN STRING
 やっと来たね、\\N[1]くん♪
 > CONTEXT: Map070/events/7/pages/0/1/Dialogue/enemy5
-Finally came, \\N[1]♪#MTLed
+You finally came, \\N[1]-kun. ♪#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1429,8 +1431,9 @@ Finally came, \\N[1]♪#MTLed
 
 ハルが、どうしてもアンタを諦めきれないっていうの。
 > CONTEXT: Map070/events/7/pages/0/4/Dialogue/enemy7
-I calmed down from there and was preparing to go
-to another city. Haru just can't give up on you.#MTLed
+I'd got her calmed down and ready to go to
+another city, but Haru just can't seem to give
+up on you.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1439,9 +1442,9 @@ to another city. Haru just can't give up on you.#MTLed
 ここだったら、いくらアンタがハルと『遊んで』も
 大丈夫だっていうじゃないか。
 > CONTEXT: Map070/events/7/pages/0/8/Dialogue/enemy7
-At that time, listen to the story here.
-If you are here, how much you are playing with
-Haru. I mean I'm fine.#MTLed
+That's when she heard about this place.
+Here she can "play" with you all she wants and it
+won't cause any problems, right?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1449,8 +1452,8 @@ Haru. I mean I'm fine.#MTLed
 
  少なくとも、ハルの気が済むまでは…ね。
 > CONTEXT: Map070/events/7/pages/0/13/Dialogue/enemy7
-It's bad, but I will stay here for a while.
-At least until Haru's feeling ....#MTLed
+Also sorry but I'm gonna be staying here for a
+while too. At least until Haru's satisfied...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1458,8 +1461,9 @@ At least until Haru's feeling ....#MTLed
 
  時間があるときでいいからさ…いっぱい遊ぼう？
 > CONTEXT: Map070/events/7/pages/0/18/Dialogue/enemy5
-Hey, \\N[1]-kun. It's good when you have time ...
-Let's play a lot?#MTLed
+Hey, \\N[1]-kun. ♡
+
+Let's play a lot when you have time, okay?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1467,8 +1471,9 @@ Let's play a lot?#MTLed
 
 きっとこの部屋から出たくなくなっちゃうから…♡
 > CONTEXT: Map070/events/7/pages/0/22/Dialogue/enemy5
-Let's entertain with 'I' and Liz ...
-I'm sure I don't want to leave this room...♡#MTLed
+Liz and I will make sure you have lots of fun...
+
+You won't wanna ever leave this room... ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1476,9 +1481,9 @@ I'm sure I don't want to leave this room...♡#MTLed
 
 需要があるだろうと思って、こっちに出張してきちまいました。
 > CONTEXT: Map070/events/11/pages/0/0/Dialogue/J_Animal
-hehehe. It is a human being during this time.
-I went on a business trip, thinking there would
-be demand.#MTLed
+Heh heh. Thanks for before, Mr Human.
+
+I'm here on a business trip to make some sales.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1486,31 +1491,33 @@ be demand.#MTLed
 
 私に虐めて欲しいのかしら？
 > CONTEXT: Map070/events/9/pages/0/19/Dialogue/enemy7
-What's wrong? I wonder if you want me to squeeze?#MTLed
+What's up?
+
+Do you want me to tease you?#Ron
 > END STRING
 
 > BEGIN STRING
 現在の呼び方【\\N[3]】
 > CONTEXT: Map070/events/9/pages/0/33/ChoiceHelp
-Current Call [\\N[3]]#MTLed
+Change how you address Liz, currently [\\N[3]].#Ron
 > END STRING
 
 > BEGIN STRING
 リズちゃん
 > CONTEXT: Map070/events/9/pages/0/35/Choice/1
-Liz-san#MTLed
+Liz-chan#Ron
 > END STRING
 
 > BEGIN STRING
 リズさま
 > CONTEXT: Map070/events/9/pages/0/35/Choice/2
-Liz-sama#MTLed
+Liz-sama#Ron
 > END STRING
 
 > BEGIN STRING
 却下。
 > CONTEXT: Map070/events/9/pages/0/40/Dialogue/enemy7
-Rejected.#MTLed
+Rejected.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1518,7 +1525,9 @@ Rejected.#MTLed
 
 私が『ちゃん』ってナリしてると思うの？
 > CONTEXT: Map070/events/9/pages/0/42/Dialogue/enemy7
-You know……. Do you think that I am nari?#MTLed
+Listen here...
+
+Do you think "chan" suits me?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1526,8 +1535,9 @@ You know……. Do you think that I am nari?#MTLed
 
 それ以外は却下だよ。
 > CONTEXT: Map070/events/9/pages/0/46/Dialogue/enemy7
-I'll either call you away or make something like
-Anything else is a rejection.#MTLed
+Either use "sama", or use nothing.
+
+I'll reject anything else.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1539,31 +1549,31 @@ Anything else is a rejection.#MTLed
 > BEGIN STRING
 彼女の呼び方を『\\N[3]』に変えた。
 > CONTEXT: Map070/events/9/pages/0/56/Dialogue
-I changed her name to "\\N[3]".#MTLed
+I'll call her "\\N[3]" from now on.#Ron
 > END STRING
 
 > BEGIN STRING
 搾精（尻尾）en(v[46] \>= 25) 
 > CONTEXT: Map070/events/9/pages/0/60/Choice/1
-milking (tail)en(v[46] \>= 25)#MTLed
+Milking (Tail)en(v[46] \>= 25)#Ron
 > END STRING
 
 > BEGIN STRING
 搾精（手コキ）en(v[46] \>= 50) 
 > CONTEXT: Map070/events/9/pages/0/60/Choice/2
-milking (handjob)en(v[46] \>= 50)#MTLed
+Milking (Handjob)en(v[46] \>= 50)#Ron
 > END STRING
 
 > BEGIN STRING
 搾精（フェラ）en(v[46] \>= 75) 
 > CONTEXT: Map070/events/9/pages/0/60/Choice/3
-milkingen(v[46] \>= 75)#MTLed
+Milkingen(v[46] \>= 75)#Ron
 > END STRING
 
 > BEGIN STRING
 【リズ】種族：魔獣
 > CONTEXT: Map070/events/9/pages/0/62/ChoiceHelp
-[Liz] Tribe: Beast#MTLed
+[Liz] Tribe: Magical Beast#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1590,19 +1600,21 @@ If it is a tribute, I will go through Haru.#MTLed
 
 私と何を話すって言うのよ？
 > CONTEXT: Map070/events/9/pages/1/1/Dialogue/enemy7
-......what? What do you say to talk to me?#MTLed
+So...
+
+What do you wanna talk to me about?#Ron
 > END STRING
 
 > BEGIN STRING
 ハルとの関係 en(v[46] \>= 30) 
 > CONTEXT: Map070/events/9/pages/1/7/Choice/0
-Relationship to Haruen(v[46] \>= 30)#MTLed
+Relationship with Haruen(v[46] \>= 30)#Ron
 > END STRING
 
 > BEGIN STRING
 リズの魔法 en(v[46] \>= 50) 
 > CONTEXT: Map070/events/9/pages/1/7/Choice/1
-The magic of Lizen(v[46] \>= 50)#MTLed
+Liz's Magicen(v[46] \>= 50)#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1616,8 +1628,9 @@ Two people's toneen(v[46] \>= 70)#MTLed
 
  私が普通の猫だったハルを見つけたんだ。
 > CONTEXT: Map070/events/9/pages/1/12/Dialogue/enemy7
-There is nothing wrong with meeting Haru with me.
-I found Haru, an ordinary cat.#MTLed
+Nothing really amazing about how I met Haru.
+
+She was an ordinary cat when I found her.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1625,10 +1638,10 @@ I found Haru, an ordinary cat.#MTLed
 
 やつれ具合から見るに、大分日にちも経ってた。
 > CONTEXT: Map070/events/9/pages/1/16/Dialogue/enemy7
-Even though it is a house cat, you must be locked
-up in the absence of your master.
-Oita days have also passed to see from the
-condition.#MTLed
+She was a housecat but her owners had left her
+locked up in the house. I could see from her
+emaciated condition that she'd been in there for
+quite a while.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1636,9 +1649,10 @@ condition.#MTLed
 
  仕方なく世話してやってたら、今じゃ立派なネコマタだよ。
 > CONTEXT: Map070/events/9/pages/1/20/Dialogue/enemy7
-Well, if you help me with a whim, I will follow
-you, If you take care of it without help, it is a
-good nekomata now.#MTLed
+And then after I'd helped her out on whim, she
+started following me. I didn't have much of a
+choice so I took care of her, and now she's
+turned into a fine nekomata.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1646,21 +1660,21 @@ good nekomata now.#MTLed
 
  一人だった頃より、話し相手がいる分楽しかった。
 > CONTEXT: Map070/events/9/pages/1/24/Dialogue/enemy7
-Well, it is a stray cat life that has no
-atmosphere at first. From the time I was alone,
-it was fun to have a talker.#MTLed
+I've always lived the life of an aimless stray
+cat. It's been fun having someone to talk to now
+that I'm not alone.#Ron
 > END STRING
 
 > BEGIN STRING
 ………ただまぁ、『やんちゃ』はできなくなったね。
 > CONTEXT: Map070/events/9/pages/1/29/Dialogue/enemy7
-... Just, I can not do "Yancha".#MTLed
+...It's just, I'm not good with "naughty kids".#Ron
 > END STRING
 
 > BEGIN STRING
 『やんちゃ』？
 > CONTEXT: Map070/events/9/pages/1/31/Dialogue/kazuya
-"Yancha"?#MTLed
+"Naughty kids"?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1671,7 +1685,7 @@ it was fun to have a talker.#MTLed
 > CONTEXT: Map070/events/9/pages/1/33/Dialogue/enemy7
 What a human hate cat who learns to change
 Isn't it hard to imagine that?
-I was threatened. I am human.#MTLed
+I was threatened. I am human.#CheckLater
 > END STRING
 
 > BEGIN STRING
@@ -1680,10 +1694,10 @@ I was threatened. I am human.#MTLed
 
  古風な妖怪って感じだろ？
 > CONTEXT: Map070/events/9/pages/1/38/Dialogue/enemy7
-At the corner of a road without lights in the
-middle of the night. I liked to watch my opponent
-bumble and run away to me. You feel like an
-old-fashioned monster?#MTLed
+On the corner of a road without street lights in
+the middle of the night, I liked seeing my
+opponent run away all scared. It kinda felt like
+being an old-fashioned monster, you know?#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -1691,9 +1705,8 @@ old-fashioned monster?#MTLed
 
 今のハルの『おねだり』方式に変わった。
 > CONTEXT: Map070/events/9/pages/1/43/Dialogue/enemy7
-But, since Haru came, how to get along with
-humans. It has changed to Haru's "Betting"
-method.#MTLed
+But now since Haru came along, my method for
+dealing with humans changed to Haru's "Begging".#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1702,10 +1715,10 @@ method.#MTLed
 意外にハルを抱く人間が多くて、ボロかったよ。
  驚きだったね。
 > CONTEXT: Map070/events/9/pages/1/47/Dialogue/enemy7
-I laughed at first that it was laughable to get
-along with humans. There were a lot of people who
-had Haru unexpectedly, and it was tedious.
-I was surprised.#MTLed
+At first I laughed at the idea of getting along
+with humans, it sounded stupid. But there were a
+surprising number of humans who'd fuck Haru, and
+it was pretty profitable. Very surprising.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1713,14 +1726,14 @@ I was surprised.#MTLed
 
  そういうの、『ケモナー』って言うんだって？
 > CONTEXT: Map070/events/9/pages/1/52/Dialogue/enemy7
-I just heard it but I don't know in detail
-That's why you say "Furry"?#MTLed
+I've only heard the word so I'm not too familiar
+with it... I believe you call them "Furries"?#Ron
 > END STRING
 
 > BEGIN STRING
 業の深い性癖だね、まったく。
 > CONTEXT: Map070/events/9/pages/1/56/Dialogue/enemy7
-It's a deep sex of work, not at all.#MTLed
+Such a sinful fetish.#Ron
 > END STRING
 
 > BEGIN STRING
