@@ -4,37 +4,39 @@
 
 待っていたぞ。
 > CONTEXT: Map080/events/5/pages/0/19/Dialogue/enemy4
-Did you come...I was waiting.#MTLed
+You came...
+
+I've been waiting for you.#Ron
 > END STRING
 
 > BEGIN STRING
 雑談する en(v[47] \>= 25) 
 > CONTEXT: Map080/events/5/pages/0/31/Choice/0
-Chaten(v[47] \>= 25)#MTLed
+Chaten(v[47] \>= 25)#Ron
 > END STRING
 
 > BEGIN STRING
 搾精（後背位）en(v[47] \>= 25) 
 > CONTEXT: Map080/events/5/pages/0/31/Choice/1
-milking (doggy style)en(v[47] \>= 25)#MTLed
+Milking (Doggy style)en(v[47] \>= 25)#Ron
 > END STRING
 
 > BEGIN STRING
 搾精（騎乗位）en(v[47] \>= 50) 
 > CONTEXT: Map080/events/5/pages/0/31/Choice/2
-milking (Cowgirl)en(v[47] \>= 50)#MTLed
+Milking (Cowgirl)en(v[47] \>= 50)#Ron
 > END STRING
 
 > BEGIN STRING
 搾精（誘惑）en(v[47] \>= 50) 
 > CONTEXT: Map080/events/5/pages/0/31/Choice/3
-milkingen(v[47] \>= 50)#MTLed
+Milkingen(v[47] \>= 50)#Ron
 > END STRING
 
 > BEGIN STRING
 【躯】種族：妖魔
 > CONTEXT: Map080/events/5/pages/0/33/ChoiceHelp
-[Mukuro] Tribe: monster#MTLed
+[Mukuro] Tribe: Ghost#Ron
 > END STRING
 
 > BEGIN STRING
@@ -42,8 +44,9 @@ milkingen(v[47] \>= 50)#MTLed
 
 そんなものをもらっても、使い道がない。
 > CONTEXT: Map080/events/5/pages/0/236/Dialogue/enemy6
-No. Even if you receive such a thing, there is no
-use.#MTLed
+I'll pass.
+
+I have no use for this thing you've given me.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -58,7 +61,7 @@ more? Anyway, I will struggle with others ...?#MTLed
 > BEGIN STRING
 心蝕を消すif(v[47] \>= 100) 
 > CONTEXT: Map080/events/5/pages/0/252/Choice/0
-clear the mind corruptionif(v[47] \>= 100)#MTLed
+Clear corruptionif(v[47] \>= 100)#Ron
 > END STRING
 
 > BEGIN STRING
@@ -67,39 +70,40 @@ clear the mind corruptionif(v[47] \>= 100)#MTLed
 ほら、来い。
 作り物の胸だが、こんなもので癒やせるならな…。
 > CONTEXT: Map080/events/5/pages/0/263/Dialogue/enemy6
-It can not be helped...You see, come.
-Although it is a chest of making things, if you
-can heal with such things ....#MTLed
+You really are hopeless...
+Okay, come here then.
+My breasts might be artificial, but they should
+be able to cure you...#Ron
 > END STRING
 
 > BEGIN STRING
 "躯の心蝕が治った！！"
 > CONTEXT: Map080/events/5/pages/0/275/InlineScript/1:12
-"躯's mind corruption cured!!"#MTLed
+Mukuro's corruption has been removed!!#Ron
 > END STRING
 
 > BEGIN STRING
 …………何を話す？
 > CONTEXT: Map080/events/5/pages/1/1/Dialogue/enemy4
-............ what do you speak?#MTLed
+...What do you want to talk about?#Ron
 > END STRING
 
 > BEGIN STRING
 躯の身体についてen(v[47] \>= 30) 
 > CONTEXT: Map080/events/5/pages/1/5/Choice/0
-About the body of Mukuroen(v[47] \>= 30)#MTLed
+Her bodyen(v[47] \>= 30)#Ron
 > END STRING
 
 > BEGIN STRING
 『時止めの能力』en(v[47] \>= 40) 
 > CONTEXT: Map080/events/5/pages/1/5/Choice/1
-"The ability of time keeping"en(v[47] \>= 40)#MTLed
+Her time abilitiesen(v[47] \>= 40)#Ron
 > END STRING
 
 > BEGIN STRING
 双子についてen(v[47] \>= 60) 
 > CONTEXT: Map080/events/5/pages/1/5/Choice/2
-About twinsen(v[47] \>= 60)#MTLed
+The Twinsen(v[47] \>= 60)#Ron
 > END STRING
 
 > BEGIN STRING
@@ -108,9 +112,10 @@ About twinsen(v[47] \>= 60)#MTLed
  人間だった頃と差がない程度には勝手よく動くぞ。
 あまり早く動くとカタカタいうのが少し気になるが。
 > CONTEXT: Map080/events/5/pages/1/10/Dialogue/enemy4
-Is this body ...? It works selfishly to the
-extent that it was human. If it moves too fast,
-rattling will be a bit annoying.#MTLed
+This body...? It moves well with little to no
+difference from when I was human. Though if I
+move too quickly it starts making rattling
+noises which bugs me a little.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -118,15 +123,15 @@ rattling will be a bit annoying.#MTLed
 
  慣れてしまえば、とても楽しい身体だ。
 > CONTEXT: Map080/events/5/pages/1/15/Dialogue/enemy4
-Besides, it has various functions to play you.
-Once you get used to it, it is a very enjoyable
-body.#MTLed
+It's also equipped with various functions that
+enable me to toy with you. It's a very enjoyable
+body once you get used to it.#Ron
 > END STRING
 
 > BEGIN STRING
 も、玩ぶって…
 > CONTEXT: Map080/events/5/pages/1/19/Dialogue/kazuya
-Well, let's play ...#MTLed
+"T-toy with me"...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -135,9 +140,10 @@ Well, let's play ...#MTLed
  生前の私は、こんな事に喜びを感じる性格ではなかった。
 どちらかといえば、内気な感じだった気がする。
 > CONTEXT: Map080/events/5/pages/1/22/Dialogue/enemy6
-......yes...weird. I was not a character who
-felt pleasure in such things. If anything, I feel
-shy.#MTLed
+...That's right...
+It's strange... I never used to be the kind of
+person to enjoy that sort of thing. If anything,
+I get the feeling I was rather shy.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -145,9 +151,9 @@ shy.#MTLed
 
 今の私であれば、そんなことを心配する必要もない。
 > CONTEXT: Map080/events/5/pages/1/27/Dialogue/enemy6
-Or maybe your body was weak and you were sick ...
-If I am now, there is no need to worry about
-that.#MTLed
+Or maybe it was because I was weak and sickly...
+As I am now, that's not something I need to be
+concerned with.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -155,9 +161,9 @@ that.#MTLed
 
  お前に『礼をしたい』という気持ちは、僅かに存在している。
 > CONTEXT: Map080/events/5/pages/1/31/Dialogue/enemy4
-Besides, I certainly do not hate you
-There is a slight feeling that you want to thank
-you.#MTLed
+And I certainly don't hate you.
+There's this tiny feeling inside me that makes me
+want to thank you.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -165,8 +171,9 @@ you.#MTLed
 
 そして、兄様の『想い』を救ってくれたことに対して……
 > CONTEXT: Map080/events/5/pages/1/35/Dialogue/enemy4
-That saved me from the darkness of abyss ......
-And for saving my brother's "thought" ...#MTLed
+For saving me from the darkness of the abyss...
+
+And for saving my brother's "thoughts"...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -175,16 +182,16 @@ And for saving my brother's "thought" ...#MTLed
 
 単純にお前の快楽のために使われるのも、悪くない。
 > CONTEXT: Map080/events/5/pages/1/39/Dialogue/enemy4
-First of all, to suck your soul and to be in your
-heart. It was the body of this doll that was envy
-but...It is not bad that it is simply used for
-your pleasure.#MTLed
+Of course at first I had possessed the body of
+this doll for the very purpose of sucking up your
+soul so we could die together. But being able to
+use it purely for your pleasure isn't bad either.#Ron
 > END STRING
 
 > BEGIN STRING
 でも、搾精は強引なままと……
 > CONTEXT: Map080/events/5/pages/1/45/Dialogue/kazuya
-But, milking is forced to remain ...#MTLed
+But, forced milking is still...#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -192,7 +199,9 @@ But, milking is forced to remain ...#MTLed
 
  私は『呪いの』人形なのだからな。
 > CONTEXT: Map080/events/5/pages/1/47/Dialogue/enemy4
-………No wonder. Because I am a "curse" doll.#MTLed
+...I know.
+
+I am a "cursed doll" after all.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -200,9 +209,10 @@ But, milking is forced to remain ...#MTLed
 
 そこは覚悟しておけよ、\\N[1]。
 > CONTEXT: Map080/events/5/pages/1/51/Dialogue/enemy4
-Once you've started milking, don't let go of the
-evil spirit until I'm satisfied.
-Get ready there, \\N[1].#MTLed
+Once I start milking, I won't let go until my
+evil spirit is satisfied.
+
+Prepare yourself for that, \\N[1].#Ron
 > END STRING
 
 > BEGIN STRING
@@ -210,15 +220,16 @@ Get ready there, \\N[1].#MTLed
 
 そこを勘違いしないようにな。
 > CONTEXT: Map080/events/5/pages/1/55/Dialogue/enemy4
-I'm not a normal thank-you, not just a milking
-doll. Don't get me wrong.#MTLed
+Don't get the wrong idea. I'm not just some
+ordinary milking doll, and my way of thanking
+you won't be what you'd expect.#RonIffy
 > END STRING
 
 > BEGIN STRING
 わ、わかった……
 > CONTEXT: Map080/events/5/pages/1/59/Dialogue/kazuya
 > CONTEXT: Map251/events/10/pages/0/58/Dialogue/other4
-I understand ...#MTLed
+I-I understand...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -226,8 +237,9 @@ I understand ...#MTLed
 
 そうか、あれはあの双子の能力だったのか……
 > CONTEXT: Map080/events/5/pages/1/66/Dialogue/enemy6
-"The ability to stop the time" .........
-Oh, that was that twins ability ...#MTLed
+"The ability to stop time"...
+
+That was the Twins' ability I believe...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -235,8 +247,9 @@ Oh, that was that twins ability ...#MTLed
 
 まさしく人形らしい………
 > CONTEXT: Map080/events/5/pages/1/70/Dialogue/enemy6
-I was dancing in the palm of their hands ...
-Just like a doll .........#MTLed
+I was completely in the palms of their hands...
+
+As though I really was their doll...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -244,8 +257,8 @@ Just like a doll .........#MTLed
 
  いつ頃のタイミングだったの？
 > CONTEXT: Map080/events/5/pages/1/76/Dialogue/kazuya
-...... Mukuro notices his "ability to stop time"
-When was it time?#MTLed
+...When did you realize you had the power to stop
+time?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -254,9 +267,9 @@ When was it time?#MTLed
 あの時点で、私にとって『時間』が
 意味をなしていないことに気づいた。
 > CONTEXT: Map080/events/5/pages/1/80/Dialogue/enemy4
-As an evil spirit, since it was released from
-that abyss. At that time, "time" is for me
-I realized that I didn't make sense.#MTLed
+It was after I was released from the abyss as an
+evil spirit. It was then that I realised the
+concept of "time" held no meaning for me.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -264,9 +277,9 @@ I realized that I didn't make sense.#MTLed
 
  いざ人形の身体で時を止めると、思うように動けなくてな。
 > CONTEXT: Map080/events/5/pages/1/85/Dialogue/enemy4
-I did not feel that when I did not have an entity
-When you stop the time with the body of the
-emergency doll, you can not move as you think.#MTLed
+That's how it felt for me without a true form,
+but when I stopped time in my doll body, I wasn't
+able to move freely.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -274,8 +287,9 @@ emergency doll, you can not move as you think.#MTLed
 
 案の定、見事に外して、逃げられてしまったな。
 > CONTEXT: Map080/events/5/pages/1/89/Dialogue/enemy4
-That was the first challenge that you met with
-you. Sure enough, I took it off and ran away.#MTLed
+When I fought you that first time, that was also
+the first time I'd used that ability. And sure
+enough, you were able to break free and escape.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -284,11 +298,10 @@ you. Sure enough, I took it off and ran away.#MTLed
  お前を拘束するので手一杯で、搾精を最後まで行うのは
 事前動作で服も乱れるし、なかなか難しかった……。
 > CONTEXT: Map080/events/5/pages/1/93/Dialogue/enemy4
-It was only a few minutes to stop at once
-Because you bound you, it's full of hands, it's
-all about milking to finish. The clothes were
-also disturbed by the advance operation, and it
-was quite difficult ....#MTLed
+I only had a few minutes once time had stopped.
+I had my hands full binding you, my clothes were
+getting disheveled trying to finish milking you,
+it was all quite difficult.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -297,10 +310,9 @@ was quite difficult ....#MTLed
 
 以外に弱点だらけの能力だったのかもな…
 > CONTEXT: Map080/events/5/pages/1/98/Dialogue/enemy4
-Besides, that ability has concentration.
-It can not be used continuously.
-It may be the ability full of weak points besides
-...#MTLed
+That ability also requires concentration. It
+can't be freely used over and over. It's an
+ability full of shortcomings...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -308,9 +320,9 @@ It may be the ability full of weak points besides
 
 あれでもし君が使いこなしていたらと思うと尚更……
 > CONTEXT: Map080/events/5/pages/1/103/Dialogue/kazuya
-No......... but it was quite a wonder ...
-But if you think that you are good at using it,
-it will be even more ...#MTLed
+Well... it was still pretty amazing...
+It could be even more amazing if you managed to
+get really good with it...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -319,9 +331,8 @@ it will be even more ...#MTLed
 自分の『業』が生んだものだと思っていた。
 だから、あまり疑問には思わなかった。
 > CONTEXT: Map080/events/5/pages/1/108/Dialogue/enemy6
-......I have that "ability to stop time"
-I thought that my "work" was born.
-So I didn't think too much about it.#MTLed
+...I thought the ability to stop time was mine
+alone, so I didn't think too much about it.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -330,10 +341,10 @@ So I didn't think too much about it.#MTLed
 延々と、恐怖や虚無、冷たさや孤独に襲われて、
  時間の流れなど気にしている余裕はなかった。
 > CONTEXT: Map080/events/5/pages/1/113/Dialogue/enemy6
-While falling to abyss...Endlessly attacked by
-Afraid, null, cold and lonely,
-I could not afford to worry about the flow of
-time.#MTLed
+While falling in the abyss... assailed endlessly
+by fear, nothingness, cold, loneliness...
+I didn't have the luxury of worrying about the
+flow of time.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -341,9 +352,9 @@ time.#MTLed
 
 最後辺りは、私もそんなことばかりを考えていたからな。
 > CONTEXT: Map080/events/5/pages/1/118/Dialogue/enemy6
-"If time stops, it can be easier" ...
-The last part is because I was thinking about
-just that.#MTLed
+"It would be easier if time stopped."
+
+At the end, that's all I thought about.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -352,10 +363,10 @@ just that.#MTLed
  周りの時間が止まっても、結局虚無や孤独は襲ってくる。
  『自分の時間』は止まらないんだからな。
 > CONTEXT: Map080/events/5/pages/1/122/Dialogue/enemy4
-... but actually it wasn't too good.
-Even if the time around has stopped, in the end
-nullity and loneliness will attack.
-I can not stop my time.#MTLed
+...But that didn't turn out to be a good thing.
+Even with the time around me stopped, I was still
+left with the nothingness and loneliness. I'd
+only managed to stop "my time".#Ron
 > END STRING
 
 > BEGIN STRING
@@ -363,8 +374,9 @@ I can not stop my time.#MTLed
 
 きっとあの空間を動くことすら嫌だったろう。
 > CONTEXT: Map080/events/5/pages/1/127/Dialogue/enemy4
-Without the goal of committing \\N[1],
-Surely I would not like to move that space.#MTLed
+If I hadn't had the goal of raping you, \\N[1],
+I'm sure I wouldn't have had the will to move out
+of that space.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -372,9 +384,9 @@ Surely I would not like to move that space.#MTLed
 
 もともと、私には無用の産物だったのさ。
 > CONTEXT: Map080/events/5/pages/1/131/Dialogue/enemy6
-Well...now I'm released from twins and I don't
-have that ability. Originally, it was a useless
-product to me.#MTLed
+Well... I don't have that ability now that I'm
+free of the Twins. It was always a useless
+ability for me anyway.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -382,9 +394,9 @@ product to me.#MTLed
 
 もし憑依するものがなかったらどうするつもりだったの？
 > CONTEXT: Map080/events/5/pages/1/140/Dialogue/kazuya
-This is because there was the doll that Dr.
-Kurosawa. Made...What were you going to do if
-there weren't anything to do?#MTLed
+This all happened because the Professor made that
+doll, so what would have happened if there hadn't
+been an object for you to possess?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -392,9 +404,10 @@ there weren't anything to do?#MTLed
 
 だが、\\N[1]は魔力に耐性を持つからダメだ。
 > CONTEXT: Map080/events/5/pages/1/144/Dialogue/enemy6
-You're a demon and you've been cursed and killed.
-However, \\N[1] is useless because he resists
-magic.#MTLed
+Like an evil spirit, I would've had to do it the
+hard way and curse you to death. But since you're
+resistant to magic, that probably wouldn't have
+worked.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -402,9 +415,10 @@ magic.#MTLed
 
 呪い殺しやすい対象でなければ。
 > CONTEXT: Map080/events/5/pages/1/148/Dialogue/enemy6
-More resistant to magic...easy to be swept away
-by emotion...If it is not an object easy to
-curse.#MTLed
+If I wasn't able find someone without magic
+resistance, someone easily swept up in their
+emotions, a target I could easily curse to
+death...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -412,8 +426,8 @@ curse.#MTLed
 
 あの双子は、僕を始末するために君を解き放ったと言った。
 > CONTEXT: Map080/events/5/pages/1/153/Dialogue/kazuya
-......? Well, that's weird. That twins said that
-he had released you to kill me.#MTLed
+...? Wait, that's weird. The Twins said they
+released you to deal with me.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -421,8 +435,9 @@ he had released you to kill me.#MTLed
 
 僕を襲うことができなかっただろうに……
 > CONTEXT: Map080/events/5/pages/1/157/Dialogue/kazuya
-If the doctor did not make that doll by chance
-I could not attack me ...#MTLed
+If the Professor hadn't happened to make that
+doll then you wouldn't have been able to attack
+me...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -431,9 +446,10 @@ I could not attack me ...#MTLed
 そこまで時間を越えた計画を立てた奴らなら
 事前にこの時代の状況も知れたのではないか？
 > CONTEXT: Map080/events/5/pages/1/162/Dialogue/enemy4
-It is my prediction ...... If they made plans
-beyond time to that. Did not you know the
-situation of this era in advance?#MTLed
+This is just a guess but...
+If those two could make plans for events so far
+in advance, it's not a stretch to imagine they
+had advance knowledge of recent events.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -441,9 +457,9 @@ situation of this era in advance?#MTLed
 
 実際に奴らがいつの時代の悪魔かは、知る由もない。
 > CONTEXT: Map080/events/5/pages/1/167/Dialogue/enemy4
-Because of that dress, the people in my village
-were also deceived...In fact, there is no way
-to know when they were a demon.#MTLed
+Their style of dress fooled the people of my
+village... There's actually no way of knowing
+just what era those demons are from.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -451,8 +467,9 @@ to know when they were a demon.#MTLed
 
 『我』がどうとか……
 > CONTEXT: Map080/events/5/pages/1/171/Dialogue/kazuya
-The story was a mystery too ...
-"I" is how .........#MTLed
+The way they spoke was mysterious too...
+
+Like why they always emphasized the word "I"...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -460,8 +477,8 @@ The story was a mystery too ...
 
  あんな邪悪な悪魔は見たことがねぇな。
 > CONTEXT: Map080/events/5/pages/1/177/Dialogue/other2
-I too, the familiar life is quite long
-I have never seen such a wicked demon.#MTLed
+I've lived quite a long life as a familiar, and
+even I've never seen such wicked demons before.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -469,9 +486,10 @@ I have never seen such a wicked demon.#MTLed
 
 なんていうか…本当に『邪悪』だった。
 > CONTEXT: Map080/events/5/pages/1/181/Dialogue/other2
-Like Hecate and Nina, it's not unusual for
-demonic magic to do so...I mean...it was
-really "evil".#MTLed
+It's not unusual for demons with power on par
+with Demon Lords like Hectate and Nina to go off
+the rails... But I mean... those two really were
+"evil".#Ron
 > END STRING
 
 > BEGIN STRING
@@ -479,9 +497,9 @@ really "evil".#MTLed
 
  あれを作ったやつがいるなら、相当ヤバイやつだな。
 > CONTEXT: Map080/events/5/pages/1/185/Dialogue/other2
-The appearance of a true character was like a
-puppet but...If there is a guy who made that,
-it's quite a bad guy.#MTLed
+The true form they showed us looked kinda like an
+actual string puppet... Whoever made that body
+is gotta be a real piece of work.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -489,8 +507,9 @@ it's quite a bad guy.#MTLed
 
  彼女も双子に踊らされた被害者だったわけだ。
 > CONTEXT: Map080/events/5/pages/1/189/Dialogue/kazuya
-.... Dr. is also a disaster. She was also a
-victim of twins dancing.#MTLed
+...The Professor had it rough too.
+
+She was a victim of the Twins' schemes.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -498,9 +517,10 @@ victim of twins dancing.#MTLed
 
 慌てて僕を指名するのも、仕組まれてたわけか……
 > CONTEXT: Map080/events/5/pages/1/193/Dialogue/kazuya
-Suddenly my doll started moving ...
-It wasn't for sure that I was nominated to
-nominate me ...#MTLed
+Her doll suddenly coming to life...
+Ratting me out in her panic...
+
+Was it all part of their plan...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -508,7 +528,9 @@ nominate me ...#MTLed
 
  慌てていたのか？あれは。
 > CONTEXT: Map080/events/5/pages/1/198/Dialogue/enemy4
-......? Were you angry? That is.#MTLed
+...?
+
+She was panicked?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -516,9 +538,9 @@ nominate me ...#MTLed
 
 動き出した私を見て、あいつは喜んでるように見えたが。
 > CONTEXT: Map080/events/5/pages/1/203/Dialogue/enemy4
-It is a fact that I have threatened you to find
-out about you...Looking at me who started
-moving, it seemed that he was pleased.#MTLed
+It is true that I threatened her to get
+information about you... But she seemed quite
+pleased that I was moving around.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -527,14 +549,14 @@ moving, it seemed that he was pleased.#MTLed
 
 そんなことを言っていた気がするぞ。
 > CONTEXT: Map080/events/5/pages/1/207/Dialogue/enemy4
-"Freestanding! "And……. "Gappo gapo! "And…
-I feel like I was saying that.#MTLed
+She was saying things like "YAY IT'S STANDING ON
+ITS OWN!", and, "WHOO HOOO YEAH BABY!!"...#Ron
 > END STRING
 
 > BEGIN STRING
 あの天狗野郎…………！！
 > CONTEXT: Map080/events/5/pages/1/213/Dialogue/kazuya-a
-That heavenly bastard ............! !#MTLed
+That god-damned Professor...!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -548,7 +570,9 @@ That heavenly bastard ............! !#MTLed
 
 元気しとるかぁ、若者よぉ
 > CONTEXT: Map080/events/5/pages/1/229/Dialogue/other3
-Yah!!I'm fine, young people#MTLed
+Yahey!!
+
+How're you doing, young fellas?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -556,7 +580,9 @@ Yah!!I'm fine, young people#MTLed
 
 どうしてここに？
 > CONTEXT: Map080/events/5/pages/1/236/Dialogue/kazuya
-Is a doctor! ? Why are you here?#MTLed
+P-Professor?!
+
+What are you doing here?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -565,9 +591,9 @@ Is a doctor! ? Why are you here?#MTLed
 ここは精神の空間やけど
 その悪魔の身体だけは人形ベースやからなぁ。
 > CONTEXT: Map080/events/5/pages/1/240/Dialogue/other3
-Why did you come to doll maintenance?
-Here's a mental burn. Only the body of the demon
-is a doll base or something.#MTLed
+What do you mean? I'm here for doll maintenance.
+This place might be spiritual but this demon's
+body is rooted in that doll.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -575,14 +601,16 @@ is a doll base or something.#MTLed
 
 ほんの１時間くらいや、大丈夫大丈夫。
 > CONTEXT: Map080/events/5/pages/1/247/Dialogue/other3
-I'm going to give you a glimpse of the contents
-of my body. Only about an hour, all right okay.#MTLed
+So anyways, let me have a little peek at what's
+inside that body.
+It'll be fine, it'll be fine, it'll take barely
+an hour.#Ron
 > END STRING
 
 > BEGIN STRING
 ………わかった。
 > CONTEXT: Map080/events/5/pages/1/252/Dialogue/enemy6
-………all right.#MTLed
+...Fine.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -590,9 +618,9 @@ of my body. Only about an hour, all right okay.#MTLed
 
 時間停止の中を移動したってのもあるんやろうけど……
 > CONTEXT: Map080/events/5/pages/1/257/Dialogue/other3
-Uh...After all the driving part takes a lot of
-load...I'm going to move in the time stop but I
-will ...#MTLed
+Ah... Just as I thought, the drive train's taken
+a beating... Probably from you trying to move
+while time was stopped...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -600,16 +628,16 @@ will ...#MTLed
 
 ここの塗装とか色あせとるし…
 > CONTEXT: Map080/events/5/pages/1/261/Dialogue/other3
-After all it was unfinished but it was funny that
-it started to move...Painting or fading here
-...#MTLed
+Hmm, moving around while you were unfinished
+really did a number... And the paint here's
+fading too...#Ron
 > END STRING
 
 > BEGIN STRING
 と、とりあえず、今回はヤバそうな部分だけ……
 > CONTEXT: Map080/events/5/pages/1/268/Dialogue/other3
-Well, for now, this time only the part that seems
-to be idiot ...#MTLed
+W-Well, those are the only parts in need of
+fixing up this time...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -617,7 +645,9 @@ to be idiot ...#MTLed
 
 これでピッッカピカじゃ！！
 > CONTEXT: Map080/events/5/pages/1/277/Dialogue/other3
-Good!!did it!!Now it's picky! !#MTLed
+Right!! All done!!
+
+You're all shiny now!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -625,8 +655,10 @@ Good!!did it!!Now it's picky! !#MTLed
 
 躯とやら！！
 > CONTEXT: Map080/events/5/pages/1/281/Dialogue/other3
-Your physical and motion comfort is completely
-different!!Mukuro Toya! !#MTLed
+Your body's movements should feel much better
+now!!
+
+Mukuro Person!!#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -634,7 +666,9 @@ different!!Mukuro Toya! !#MTLed
 
 動かない……？
 > CONTEXT: Map080/events/5/pages/1/294/Dialogue/other3
-Oh yeah .........? ? It does not move ...?#MTLed
+H-Huh...??
+
+You can't move...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -643,9 +677,9 @@ Oh yeah .........? ? It does not move ...?#MTLed
 部品とかは交換したけど、そういう除霊的なものは
 一切しとらんぞ！！？
 > CONTEXT: Map080/events/5/pages/1/300/Dialogue/other3
-What, that eye!!No!!I replaced parts and
-components, but such spiritual ones
-Let's do it!!?#MTLed
+W-Why're you looking at me like that?! It's not
+my fault!! I just swapped some parts out, none of
+them should've affected you like this!#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -654,8 +688,9 @@ Let's do it!!?#MTLed
 そう、多分寝てるだけじゃから！！
 もう少ししたら起きるって！！
 > CONTEXT: Map080/events/5/pages/1/307/Dialogue/other3
-Hey, just sleeping!!! Yes, maybe I'm just
-sleeping!!I will wake up a little more! !#MTLed
+Y-You're just sleeping!!!
+That's right, you're probably just sleeping!!
+You'll wake up in a little bit!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -663,19 +698,22 @@ sleeping!!I will wake up a little more! !#MTLed
 
 じゃあの！！！
 > CONTEXT: Map080/events/5/pages/1/312/Dialogue/other3
-Well, that's why!!Well then!!!#MTLed
+O-Okay then!!
+
+I'll see you around!!!#Ron
 > END STRING
 
 > BEGIN STRING
 結博士は、逃げるようにそそくさと去っていった……
 > CONTEXT: Map080/events/5/pages/1/324/Dialogue
-Dr. Kurosawa. Went away as fast as he could ...#MTLed
+The Professor left in a hurry like she was trying
+to escape...#Ron
 > END STRING
 
 > BEGIN STRING
 ……………躯？
 > CONTEXT: Map080/events/5/pages/1/329/Dialogue/kazuya
-......... Mukuro?#MTLed
+...Mukuro?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -683,33 +721,33 @@ Dr. Kurosawa. Went away as fast as he could ...#MTLed
 
 君がここに来た目的は、僕に覚えて貰うことだったもんな…
 > CONTEXT: Map080/events/5/pages/1/337/Dialogue/kazuya-a
-that's true……. The purpose you came here was to
-remember and ask me ...#MTLed
+That's right...
+
+The reason you came here was to learn about me.#RonIffy
 > END STRING
 
 > BEGIN STRING
 君が無事に……成仏出来たならよかった……
 > CONTEXT: Map080/events/5/pages/1/341/Dialogue/kazuya-a
-You're safe....I wish I could have a mature
-Buddha ...#MTLed
+I hope you can pass on peacefully...#Ron
 > END STRING
 
 > BEGIN STRING
 \\N[1]は、躯の身体を抱きしめた……
 > CONTEXT: Map080/events/5/pages/1/344/Dialogue
-\\N[1] Embrace the body of Mukuro ...#MTLed
+\\N[1] embraces Mukuro...#Ron
 > END STRING
 
 > BEGIN STRING
 ……………茜………
 > CONTEXT: Map080/events/5/pages/1/346/Dialogue/kazuya-a
-...... Akane .........#MTLed
+...Akane...#Ron
 > END STRING
 
 > BEGIN STRING
 何故泣く。\\N[1]。
 > CONTEXT: Map080/events/5/pages/1/352/Dialogue/enemy4
-Why cry. \\N[1].#MTLed
+Why are you crying, \\N[1]?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -717,14 +755,14 @@ Why cry. \\N[1].#MTLed
 
 彼女はぱっと僕を離して、僕は地面に倒れ込んだ。
 > CONTEXT: Map080/events/5/pages/1/375/Dialogue
-Just before I lost my mind, She took me away and I fell to
-the ground.#MTLed
+Just as I was about to lose conciousness, she suddenly
+released me and I fell to the ground.#Ron
 > END STRING
 
 > BEGIN STRING
 彼女は僕の傍らに座り込んで、話を続ける…
 > CONTEXT: Map080/events/5/pages/1/379/Dialogue
-She sits down beside me and continues talking ...#MTLed
+She sat down next to me and continued speaking...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -732,8 +770,9 @@ She sits down beside me and continues talking ...#MTLed
 
 今後私のことを、『茜』と呼ぶな。
 > CONTEXT: Map080/events/5/pages/1/381/Dialogue/enemy4
-............ One, I want you to promise, \\N[1].
-Don't call me "Akane" in the future.#MTLed
+...I want you to promise me something, \\N[1].
+
+Don't call me "Akane" anymore.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -741,8 +780,9 @@ Don't call me "Akane" in the future.#MTLed
 
 そしてお前に覚えられて、成仏した。
 > CONTEXT: Map080/events/5/pages/1/385/Dialogue/enemy4
-"Akane" is dead. A long time ago.
-And I remembered you and I was born.#MTLed
+"Akane" died, a long time ago.
+
+She was remembered by you, and passed on.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -750,8 +790,10 @@ And I remembered you and I was born.#MTLed
 
 『躯』という、人形に取り憑いた悪霊だ。
 > CONTEXT: Map080/events/5/pages/1/389/Dialogue/enemy4
-Being with you now...It's an evil spirit called
-"Mukuro", who handles a doll.#MTLed
+The one together with you now...
+
+Her name is "Mukuro", an evil spirit haunting a
+doll.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -759,8 +801,9 @@ Being with you now...It's an evil spirit called
 
 お前を搾り取るだけの、悪魔人形だ…
 > CONTEXT: Map080/events/5/pages/1/393/Dialogue/enemy4
-More even no less……. It is a demon doll that only
-squeezes you ...#MTLed
+Just a demon doll who milks you...
+
+Nothing more, nothing less...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -768,14 +811,14 @@ squeezes you ...#MTLed
 
 私の生前の過去とか、すべてを忘れてくれ。
 > CONTEXT: Map080/events/5/pages/1/397/Dialogue/enemy4
-So why I came here...Forget about my lifetime
-past and everything.#MTLed
+So forget all about my reasons for coming here
+and my past life.#Ron
 > END STRING
 
 > BEGIN STRING
 …ただただ、ここに居させ続けてくれ…。
 > CONTEXT: Map080/events/5/pages/1/401/Dialogue/enemy6
-... only, keep me here ....#MTLed
+...Just... keep letting me stay here...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -783,14 +826,16 @@ past and everything.#MTLed
 
 ぼ、僕も不意打ちは今回限りにして欲しいな……
 > CONTEXT: Map080/events/5/pages/1/403/Dialogue/kazuya-2
-I understand, but...I also want me to make
-surprises only this time ...#MTLed
+I-I understand...
+
+B-But can we make those surprise attacks of yours
+a one-time thing...?#Ron
 > END STRING
 
 > BEGIN STRING
 た、立てない……
 > CONTEXT: Map080/events/5/pages/1/407/Dialogue/kazuya-2
-I can not stand ...#MTLed
+I c-can't stand up...#Ron
 > END STRING
 
 > BEGIN STRING
