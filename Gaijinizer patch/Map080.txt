@@ -991,13 +991,15 @@ By receiving the engagement ring. \\C[2]Engaged with Mukuro!#MTLed
 
 あかっ……む、躯！？なんでここに！？
 > CONTEXT: Map080/events/7/pages/0/2/Dialogue/kazuya
-! ? Hmmm...Mumu! ? Why is it here! ?#MTLed
+!?
+
+Akan-... M-Mukuro? Why are you here?!#Ron
 > END STRING
 
 > BEGIN STRING
 ……ほぅら、やっぱりなぁ
 > CONTEXT: Map080/events/7/pages/0/6/Dialogue/other2
-...... Hmm, after all#MTLed
+...Aah, just as I suspected.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1005,9 +1007,9 @@ By receiving the engagement ring. \\C[2]Engaged with Mukuro!#MTLed
 
  気持ちも落ち着いて、成仏しようとも考えた。
 > CONTEXT: Map080/events/7/pages/0/9/Dialogue/enemy6
-...... I thought about it from that point on.
-I felt calm and I thought that I would like to
-see the Buddha.#MTLed
+...I thought about a lot of things after what
+happened. After I'd calmed down, I also thought
+about maybe passing on.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1015,7 +1017,9 @@ see the Buddha.#MTLed
 
  私には、まだ『未練』があると……。
 > CONTEXT: Map080/events/7/pages/0/13/Dialogue/enemy4
-But I noticed. If I still have "raw" ....#MTLed
+But then I suddenly realised.
+
+If I still have "unfinished business" then I...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1023,7 +1027,9 @@ But I noticed. If I still have "raw" ....#MTLed
 
 いったいどんな…？
 > CONTEXT: Map080/events/7/pages/0/17/Dialogue/kazuya
-Mi, "unfinished"? What the hell ...?#MTLed
+"U-Unfinished business"?
+
+What on earth...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1031,8 +1037,9 @@ Mi, "unfinished"? What the hell ...?#MTLed
 
 安らかに成仏する理由を知っているか？
 > CONTEXT: Map080/events/7/pages/0/21/Dialogue/enemy4
-\\N[1], a person who is seen and heard by a close
-person. Do You Know The Reasons To Peacefully?#MTLed
+\\N[1], do you know the reason why you pass on
+more peacefully when there's someone close to you
+who cares for you?#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -1041,10 +1048,10 @@ person. Do You Know The Reasons To Peacefully?#MTLed
  自分が死んでも、誰かの記憶に自分は永らく居続けると
 安心できるからだ。
 > CONTEXT: Map080/events/7/pages/0/25/Dialogue/enemy4
-It is because one's own living testimony
-"leaves". Even if you are dead, if you keep
-staying in someone's memory for a long time
-You can rest assured.#MTLed
+It's because that way you leave behind "proof"
+that you were alive. Because you can rest assured
+that even though you may be dead, you will
+continue on in someone's memories.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1052,7 +1059,9 @@ You can rest assured.#MTLed
 
 お前に覚えていてもらいたい。
 > CONTEXT: Map080/events/7/pages/0/30/Dialogue/enemy4
-I am ......... \\N[1]. I want you to remember.#MTLed
+\\N[1]... I...
+
+I want to be remembered by you.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1060,8 +1069,10 @@ I am ......... \\N[1]. I want you to remember.#MTLed
 
 お前と触れ合いたいんだ…
 > CONTEXT: Map080/events/7/pages/0/34/Dialogue/enemy4
-More more...to remember...
-I want to touch you ...#MTLed
+More than that... I want us to touch each
+other...
+
+So that I can remain in your memories...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1069,8 +1080,10 @@ I want to touch you ...#MTLed
 
 きっと、強烈に印象付けるまで離してもらえないぞ…
 > CONTEXT: Map080/events/7/pages/0/39/Dialogue/other2
-............ Good, \\N[1]. Surely, I can not let
-you get away until I make a strong impression ...#MTLed
+...Aren't you glad, \\N[1]?
+
+She won't leave until she's made a strong
+impression on you...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1078,6 +1091,7 @@ you get away until I make a strong impression ...#MTLed
 
 ちょっと複雑な気分………
 > CONTEXT: Map080/events/7/pages/0/43/Dialogue/kazuya
-...................... Feeling a little
-complicated .........#MTLed
+...........
+
+I'm not sure how I feel about this...#Ron
 > END STRING
