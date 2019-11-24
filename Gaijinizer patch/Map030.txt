@@ -65,39 +65,40 @@ Do you want to start the story from
 > BEGIN STRING
 2-1　『奔走』 en(s[224])
 > CONTEXT: Map030/events/1/pages/0/96/Choice/1
-2-1 "Feasting"en(s[224])#MTLed
+2-1 『Scurry』en(s[224])#Triketos
 > END STRING
 
 > BEGIN STRING
 2-2　『覚悟』 en(s[225])
 > CONTEXT: Map030/events/1/pages/0/96/Choice/2
-2-2 "Ready"en(s[225])#MTLed
+2-2 『Resolution』en(s[225])#Triketos
 > END STRING
 
 > BEGIN STRING
 2-3　『舞台』 en(s[226])
 > CONTEXT: Map030/events/1/pages/0/96/Choice/3
-2-3 "the stage"en(s[226])#MTLed
+2-3 『Showtime』en(s[226])#Triketos
 > END STRING
 
 > BEGIN STRING
 『チャプター２－１　『奔走』』から物語を開始しますか？
 > CONTEXT: Map030/events/1/pages/0/103/Dialogue
-Do you want to start the story from "Chapter 2-1" Shopping
-"?#MTLed
+Do you want to start the story from
+『Chapter 2-1: Scurry』?#Triketos
 > END STRING
 
 > BEGIN STRING
 『チャプター２－２　『覚悟』』から物語を開始しますか？
 > CONTEXT: Map030/events/1/pages/0/122/Dialogue
-Do you want to start the story from "Chapter 2-2" Ready "?#MTLed
+Do you want to start the story from
+『Chapter 2-2: Resolution』?#Triketos
 > END STRING
 
 > BEGIN STRING
 『チャプター２－３　『舞台』』から物語を開始しますか？
 > CONTEXT: Map030/events/1/pages/0/142/Dialogue
-Do you want to start the story from "Chapter 2-3 The
-Stage"?#MTLed
+Do you want to start the story
+『Chapter 2-3: Showtime』?#Triketos
 > END STRING
 
 > BEGIN STRING
