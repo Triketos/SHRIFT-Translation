@@ -907,7 +907,7 @@ You're still here...?#Ron
  好きなだけ、お外で遊んでらっしゃい……。
 > CONTEXT: Map050/events/57/pages/1/24/Dialogue/enemy4
 > CONTEXT: Map188/events/57/pages/1/24/Dialogue/enemy4
-... It's all right, I won't chase you anymore.
+...It's all right, I won't chase you anymore.
 
 Go on and run off and play as much as you like...#Ron
 > END STRING
@@ -959,10 +959,10 @@ devastated. But there's not a single corpse.#Ron
 遺体はおろか、食い散らかされた血痕や肉片すらない事が。
 > CONTEXT: Map050/events/57/pages/1/46/Dialogue/kazuya
 > CONTEXT: Map188/events/57/pages/1/46/Dialogue/kazuya
-So I asked Yuuma about it earlier. Seems he also
-thought it was strange. Forget about the bodies,
-there aren't even any bloodstains of eaten bodies,
-no hunks of flesh lying around.#Ron
+So, I asked Yuuma about it earlier...
+Seems he also thought it was strange.
+Forget about the bodies, there aren't even
+any hunks of flesh or bloodstains around#Ron
 > END STRING
 
 > BEGIN STRING
@@ -971,9 +971,10 @@ no hunks of flesh lying around.#Ron
 先行部隊は、とんでもなく迅速で優秀だ、って……。
 > CONTEXT: Map050/events/57/pages/1/51/Dialogue/kazuya
 > CONTEXT: Map188/events/57/pages/1/51/Dialogue/kazuya
-Clearing up all the bodies at the same time as
-evacuating civlians. The unit that passed through
-here must've been one hell of a group.#Ron
+If the unit who passed through here cleaned up
+all the bodies while evacuating the civilians...
+
+They must have been one hell of a group.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -982,7 +983,7 @@ here must've been one hell of a group.#Ron
 ハーピーモドキに食い散らかされないように…。
 > CONTEXT: Map050/events/57/pages/1/62/Dialogue/kazuya
 > CONTEXT: Map188/events/57/pages/1/62/Dialogue/kazuya
-You buried them all here, didn't you?
+...You buried them all here, didn't you?
 
 So that the Harpy Spawn didn't feast on them.#Ron
 > END STRING
@@ -993,8 +994,8 @@ So that the Harpy Spawn didn't feast on them.#Ron
 『守る』ために………。
 > CONTEXT: Map050/events/57/pages/1/66/Dialogue/kazuya
 > CONTEXT: Map188/events/57/pages/1/66/Dialogue/kazuya
-And in order to "protect" those who couldn't
-evacuate in time from the Harpy Spawn...#Ron
+You did it in order to protect those who
+couldn't evacuate in time from the Harpy Spawn...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1185,9 +1186,10 @@ you.#Ron
 あなたが気に病む必要はないんだよ。
 > CONTEXT: Map050/events/57/pages/1/157/Dialogue/kazuya
 > CONTEXT: Map188/events/57/pages/1/157/Dialogue/kazuya
-... "Thank you". Thanks to you, those people at
-least passed on peacefully. You don't need to
-worry about it.#Ron
+...Thank you.
+Thanks to you, those people at least passed on
+peacefully. You don't need to worry about them
+any longer...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1326,7 +1328,7 @@ You're a soft touch like always.#Ron
 お前はいつだって『独り』じゃない。
 > CONTEXT: Map050/events/57/pages/1/219/Dialogue/yuuma
 > CONTEXT: Map188/events/57/pages/1/219/Dialogue/yuuma
-But don't forget. You aren't ever alone.#Ron
+Don't forget: You aren't alone, \N[1].#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1335,8 +1337,9 @@ But don't forget. You aren't ever alone.#Ron
 どんなに望みが薄くなろうとも、な。
 > CONTEXT: Map050/events/57/pages/1/223/Dialogue/yuuma
 > CONTEXT: Map188/events/57/pages/1/223/Dialogue/yuuma
-Even when our comms get cut, I keep waiting and
-believing in you, no matter how grim things get.#Ron
+Even when our comms get cut, I'll keep waiting
+and believing in you, no matter how
+grim things get.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1403,8 +1406,8 @@ This is-#Ron
 > CONTEXT: Map188/events/57/pages/5/34/Dialogue/kazuya-3
 Misunderstanding?!
 
-You'd actually say that after you tried turning me
-into a rabbit!#Ron
+To think you'd actually say that after you tried
+turning me into a rabbit!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1427,7 +1430,7 @@ Just what am I misunderstanding here?!#Ron
  この子達をボウヤにしている……。
 > CONTEXT: Map050/events/57/pages/5/45/Dialogue/enemy4
 > CONTEXT: Map188/events/57/pages/5/45/Dialogue/enemy4
-... I suppose that's right. I turn these children
+...I suppose that's right. I turn these children
 into my "little boys" for my own satisfaction...#Ron
 > END STRING
 
@@ -1448,8 +1451,8 @@ There's no changing that fact...#Ron
 悪魔を『悪』としているように………
 > CONTEXT: Map050/events/57/pages/5/54/Dialogue/enemy4
 > CONTEXT: Map188/events/57/pages/5/54/Dialogue/enemy4
-To continue existing as "human", you've been
-marking demons as "evil"...#Ron
+To continue existing as a "human", you've
+kept thinking of demons as evil...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1466,7 +1469,7 @@ What...?#Ron
  消えかかってる、小さな『ボウヤ』の声が………
 > CONTEXT: Map050/events/57/pages/5/66/Dialogue/enemy4
 > CONTEXT: Map188/events/57/pages/5/66/Dialogue/enemy4
-... I'm sorry. I could just make out a little of
+...I'm sorry. I could just make out a little of
 the voice in your heart. The voice of a "little
 boy" who's about to start disappearing...#Ron
 > END STRING
@@ -1492,7 +1495,7 @@ cruel than demons...?#Ron
 > CONTEXT: Map188/events/57/pages/5/76/Dialogue/enemy4
 "I'm not like demons."
 "Demons who rob humans of their lives are the evil
-ones"
+ones."
 You keep telling yourself these things...#Ron
 > END STRING
 
@@ -1523,8 +1526,8 @@ You mustn't let this person use "you"...#Ron
 > CONTEXT: Map050/events/57/pages/5/89/Dialogue/enemy4
 > CONTEXT: Map188/events/57/pages/5/89/Dialogue/enemy4
 I'm positive the real you is kind...
-That's why the words of that nekomata duo you just
-ran into still resound within you...#Ron
+That's why the words of that Nekomata duo you
+just ran into still resound within you...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1697,7 +1700,7 @@ Finish her off#Dargoth
 飲むものか
 > CONTEXT: Map050/events/57/pages/5/144/Choice/0
 > CONTEXT: Map188/events/57/pages/5/144/Choice/0
-What to drink#MTLed
+As if I'd drink that.#Ron
 > END STRING
 
 > BEGIN STRING
