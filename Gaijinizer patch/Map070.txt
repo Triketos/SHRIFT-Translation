@@ -1975,7 +1975,7 @@ Teach her all sorts of things.#RonIffy
 > BEGIN STRING
 搾られて、仲良くなりながらで良いからさ…♡
 > CONTEXT: Map070/events/9/pages/1/169/Dialogue/enemy7
-It's good to get closer to her while getting
+You should get closer to her while getting
 milked... ♡#Ron
 > END STRING
 
@@ -1983,7 +1983,7 @@ milked... ♡#Ron
 条件【\\C[2]友好度７０以上\\C[0]】
 > CONTEXT: Map070/events/9/pages/1/175/ChoiceHelp
 > CONTEXT: Map216/events/5/pages/0/110/ChoiceHelp
-conditions【\\C[2] Degree of friendship 70 or more\\C[0] ]#MTLed
+Requires:【\\C[2] Friendship 70+\\C[0] ]#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1991,8 +1991,9 @@ conditions【\\C[2] Degree of friendship 70 or more\\C[0] ]#MTLed
 
 \\N[3]の影響なんだっけ…？
 > CONTEXT: Map070/events/9/pages/1/178/Dialogue/kazuya
-When \\N[2] gets angry she changes her tone and
-tone. What is the influence of \\N[3] ...?#MTLed
+When \\N[2] gets angry her expression and tone
+changes... Is that something she picked up from
+you, \\N[3]?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -2000,9 +2001,9 @@ tone. What is the influence of \\N[3] ...?#MTLed
 
 これほどそれを実感する話はないね……
 > CONTEXT: Map070/events/9/pages/1/182/Dialogue/enemy7
-......says, "Child will grow up looking at
-parents". There is no talk to realize it so much
-...#MTLed
+...They say children grow up watching their
+parents, I never realised just how true that
+is...#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -2011,10 +2012,10 @@ parents". There is no talk to realize it so much
  あの笑顔で、私みたいな暴言混じりの喋りをしたときは
 心臓が飛び出るかと思うくらいビビったよ……
 > CONTEXT: Map070/events/9/pages/1/186/Dialogue/enemy7
-Haru who became nekomata and began to learn words
-When I smiled like that with a smile and I said
-I was brave enough to think if my heart jumped
-out ...#MTLed
+When she became a nekomata and started learning
+words, she was mixing in my foul language with
+her words and that characteristic smile of her's.
+It startled the hell out of me.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -2022,9 +2023,9 @@ out ...#MTLed
 具合が悪いだろうってことで、普通のしゃべり方を
 教え直したってワケさ。
 > CONTEXT: Map070/events/9/pages/1/191/Dialogue/enemy7
-In order to seduce human beings, its violent tone
-is. I would not feel sick, how to talk normal
-I told you to reteach it.#MTLed
+It's pretty hard to seduce humans with that kind
+of violent tone, so I had to re-teach her how to
+talk normally.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -2033,10 +2034,10 @@ I told you to reteach it.#MTLed
 
 ハルが自然に変な言葉を覚えたりしないようにね。
 > CONTEXT: Map070/events/9/pages/1/195/Dialogue/enemy7
-If I compare myself to the days of the wild alive
-alone. It has a pretty polite tone.
-I hope Haru doesn't learn strange words
-naturally.#MTLed
+Even I've toned down my language compared to how
+I used to be when I was a stray by myself.
+I hope Haru doesn't pick up any strange words
+on her own.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -2045,10 +2046,10 @@ naturally.#MTLed
 １度何かに夢中になると、その辺の『あとで教えたこと』が
 全部頭から吹きとんじまうのさ、ハルは。
 > CONTEXT: Map070/events/9/pages/1/200/Dialogue/enemy7
-But as you already know, so is the emotional
-aspect. Once you become obsessed with something,
-the things that you taught me later
-The whole thing is blowing from your head, Haru.#MTLed
+I did the same with her emotional side too, but
+as you now know, when she gets obsessed with
+something, everything you taught her goes out the
+window.#RonIffy
 > END STRING
 
 > BEGIN STRING
