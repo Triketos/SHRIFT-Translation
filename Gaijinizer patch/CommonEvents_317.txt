@@ -4,14 +4,15 @@
 
 全然分かんないんだけど…
 > CONTEXT: CommonEvents_317/0/Dialogue/enemy11
-…………What are you saying?\\N[1]-kun ...
-I do not know at all ...#MTLed
+...What are you saying, \\N[1]-kun...?
+
+I can't understand you at all...#Ron
 > END STRING
 
 > BEGIN STRING
 うぅ……あ……あぁ……
 > CONTEXT: CommonEvents_317/4/Dialogue/kazuya-2
-Uh...ah...Ah......#MTLed
+Uh...ah...Ah......#Ron
 > END STRING
 
 > BEGIN STRING
@@ -19,8 +20,8 @@ Uh...ah...Ah......#MTLed
 
 \\C[2]うまく答えを思い出せない……
 > CONTEXT: CommonEvents_317/6/Dialogue
-\\N[1] is trying to say the answer. \\C[2]I can not remember the
-answer well ...#MTLed
+\\N[1] is trying to give the answer \\C[2]but he can't remember
+it properly...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -28,7 +29,9 @@ answer well ...#MTLed
 
 えと……ぉ……
 > CONTEXT: CommonEvents_317/10/Dialogue/kazuya-2
-wha...eh...and ...... Eh......... ......#MTLed
+Er... Ummm...
+
+Uuuummm... oh...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -36,8 +39,9 @@ wha...eh...and ...... Eh......... ......#MTLed
 
 問題の答え…
 > CONTEXT: CommonEvents_317/14/Dialogue/enemy11
-...... Have you already forgotten?\\N[1]-kun.
-Answer to the problem ...#MTLed
+...Have you already forgotten, \\N[1]-kun?
+
+The answer to the question...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -45,7 +49,7 @@ Answer to the problem ...#MTLed
 
 \\C[2]私に正解が伝わらないと「答え」にならないよ？
 > CONTEXT: CommonEvents_317/18/Dialogue/enemy11
-I think I understand, but「answer」More than to say
-\\C[2]I have to tell you the correct answer「answer」It
-will not be?#MTLed
+I think you already know this, but you can't just
+make a noise, \\C[2]if you can't communicate the
+correct answer to me, it doesn't count.#Ron
 > END STRING
