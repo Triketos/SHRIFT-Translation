@@ -23,8 +23,8 @@ W-Wha...?!#Ron
 > CONTEXT: CommonEvents_336/6/Dialogue/enemy11
 Fufufu...
 
-Though you haven't forgotten letters, how does it
-feel to\\C[2]to forget how to respond?#Ron
+Though you haven't forgotten words, how does it
+feel \\C[2]to forget how to respond?#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -73,7 +73,7 @@ Answer slowly#Ron
 > BEGIN STRING
 『ばんごう』でこたえる
 > CONTEXT: CommonEvents_336/28/Choice/1
-Answer with "Number"#Ron
+Answer using numbers#Ron
 > END STRING
 
 > BEGIN STRING
@@ -123,8 +123,8 @@ there.#Ron
 
 それはもう『答え』じゃない……
 > CONTEXT: CommonEvents_336/43/Dialogue/enemy11
-Having said that, if you can't recognize it as a
-word, it's no longer an answer...#Ron
+Having said that, if I can't make out the word,
+it doesn't count as an answer...#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -150,8 +150,9 @@ Guh...!!#Ron
 
  『こたえ』にばんごうをつけてくれ！！
 > CONTEXT: CommonEvents_336/55/Dialogue/kazuya-0
-Let's go!!Please give me a response to the
-"answer"! !#MTLed
+N-Numbers!!
+
+Please put numbers next to each possible answer!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -159,8 +160,8 @@ Let's go!!Please give me a response to the
 
 \\C[2]『よっつのせんたくしのなかから』といった……！
 > CONTEXT: CommonEvents_336/61/Dialogue/kazuya-0
-Before you do the riddle. \\C[2]"From the inside of
-another"......!#MTLed
+Before you started this riddle match, you said I
+could choose from four options!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -169,8 +170,10 @@ another"......!#MTLed
 \\C[2]きみはたしかに、よっつのこたえを
  ぼくのまえにならべているんだ……！！
 > CONTEXT: CommonEvents_336/65/Dialogue/kazuya-0
-I do not see it...but...\\C[2]Surely, you respond
-to. I'm in front of me ...! !#MTLed
+I can't see them... but...
+
+\\C[2]I'm sure you said you'd put four options in
+front of me!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -178,7 +181,9 @@ to. I'm in front of me ...! !#MTLed
 
 しまった……！！ボク、それ言ってた…！？
 > CONTEXT: CommonEvents_336/70/Dialogue/enemy11
-.........!!! Oops……!!I said that ...! ?#MTLed
+.........!!!
+
+Whoops...!! Did I say that...?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -186,8 +191,9 @@ to. I'm in front of me ...! !#MTLed
 
 \\C[2]『せんたくし』に、ばんごうをつけるんだ！！
 > CONTEXT: CommonEvents_336/74/Dialogue/kazuya-0
-Well, I can not say "No" ...! !
-\\C[2]I'm going to put some money on "Sentakushi"! !#MTLed
+Come on, I won't let you refuse...!
+
+\\C[2]Put numbers next to each option!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -196,15 +202,15 @@ Well, I can not say "No" ...! !
 \\C[2]ぼくはそれからせいかいを『ふくしょう』すれば
  それが『せいかい』になる……！！！
 > CONTEXT: CommonEvents_336/78/Dialogue/kazuya-0
-Or does it mean that you say "sendaku" now?
-\\C[2]If I "do" from then on, I will
-That would be the "good" ...!!!#MTLed
+Or are you gonna tell me my options?
+\\C[2]Then I'll just say each one until I get the
+right answer...!!!#RonIffy
 > END STRING
 
 > BEGIN STRING
 う、うぐぐ……！！
 > CONTEXT: CommonEvents_336/83/Dialogue/enemy12
-Ugh, ugh...!#MTLed
+Ugh, uughh...!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -213,16 +219,16 @@ Ugh, ugh...!#MTLed
 　もうそんなこと思い付かないくらいには
 　知識は吸ってるはずなのに……！！！）
 > CONTEXT: CommonEvents_336/85/Dialogue/enemy12
-(What's ......... \\N[1]-kun ...
-I can not think of that anymore
-Knowledge should be sucking ...!!! )#MTLed
+(What's with this guy... I should've sucked out
+enough knowledge so he wouldn't be able to think
+up stuff like that...!!! )#Ron
 > END STRING
 
 > BEGIN STRING
 
 問題の選択肢に、\\C[2]番号が付与された！！
 > CONTEXT: CommonEvents_336/90/Dialogue
-In the choice of the problem,\\C[2] A number has been assigned! !#MTLed
+\\C[2]Numbers have now been assigned to each option!!#Ron
 > END STRING
 
 > BEGIN STRING

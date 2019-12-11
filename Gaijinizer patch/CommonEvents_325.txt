@@ -4,8 +4,9 @@
 
 これで確率は２分の１！！
 > CONTEXT: CommonEvents_325/0/Dialogue/enemy11
-Good!Then let's halve the choices available!
-Now the probability is half!!#MTLed
+Alright! Let's halve the choices available!
+
+Now you've got a two in one chance!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -14,10 +15,10 @@ Now the probability is half!!#MTLed
 いくら選択肢が合ってても、\\C[2]答えじゃなきゃ意味が無い。
 \\C[0]言ってること分かるかな？
 > CONTEXT: CommonEvents_325/5/Dialogue/enemy11
-But you are not relieved ...? 
-No matter how many choices you have,\\C[2] If it is not
-an answer, there is no meaning.
-\\C[0]Do you understand what you are saying?#MTLed
+But don't relax just yet...
+No matter how few choices you have, \\C[2]it's all
+pointless if you don't answer. \\C[0]Do you understand
+what I'm trying to tell you?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -25,6 +26,7 @@ an answer, there is no meaning.
 
 じゃあ\\N[1]くん、正解を当ててみてよ！
 > CONTEXT: CommonEvents_325/10/Dialogue/enemy11
-Hihihi ...... Then \\N[1]-kun, try to guess the
-correct answer!#MTLed
+Fufufu...
+
+Okay \\N[1]-kun, try to guess the answer!#Ron
 > END STRING

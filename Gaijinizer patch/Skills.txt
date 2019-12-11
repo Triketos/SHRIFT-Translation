@@ -5636,13 +5636,13 @@ Call and hear the answer.#afrg
 > BEGIN STRING
 【ヘルプ】テレフォン
 > CONTEXT: Skills/489/name
-【Help】 Phone-A-Friend#afrg
+Phone-A-Friend#afrg
 > END STRING
 
 > BEGIN STRING
 は【ヘルプ】テレフォンを使った！
 > CONTEXT: Skills/489/message1
-uses [Help] Phone-A-Friend!#afrg
+ uses Phone-A-Friend!#afrg/Ron
 > END STRING
 
 > BEGIN STRING
