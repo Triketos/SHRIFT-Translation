@@ -4,13 +4,15 @@
 
 に■げん……！！
 > CONTEXT: CommonEvents_336/0/Dialogue/kazuya-0
-To ......... ■ ■.........! !#MTLed
+P-...
+
+P■■s■n...!!#Ron
 > END STRING
 
 > BEGIN STRING
 あ、あれ……！？
 > CONTEXT: CommonEvents_336/4/Dialogue/kazuya-0
-Oh yeah ...! ?#MTLed
+W-Wha...?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -19,9 +21,10 @@ Oh yeah ...! ?#MTLed
 文字自体を忘れたワケじゃないのに
 \\C[2]『答えの言い方を忘れた』気分はどんなかんじ？
 > CONTEXT: CommonEvents_336/6/Dialogue/enemy11
-Hihihi ...... I'm not forgetting the letters
-themselves. \\C[2]'I forgot to say the answer' How do
-you feel?#MTLed
+Fufufu...
+
+Though you haven't forgotten letters, how does it
+feel to\\C[2]to forget how to respond?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -30,15 +33,15 @@ you feel?#MTLed
 \\C[2]正解をボクに提示できない限り
 ピンポーン♪は鳴らないからね？
 > CONTEXT: CommonEvents_336/11/Dialogue/enemy9
-I think I understand, but. \\C[2]Unless you can present
-the correct answer to me. Ping pong♪It won't
-sound, right?#MTLed
+I think you know this, but \\C[2]unless you can present
+the correct answer to me, that correct answer
+"ding" won't ring out.#Ron
 > END STRING
 
 > BEGIN STRING
 うううっ………！！
 > CONTEXT: CommonEvents_336/16/Dialogue/kazuya-0
-uuugh.........! !#MTLed
+Uuuugh...!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -46,7 +49,9 @@ uuugh.........! !#MTLed
 
 こたえはわかっているのに………！！
 > CONTEXT: CommonEvents_336/18/Dialogue
-After a while......!!I know the answer......! !#MTLed
+I just need a little time...!!
+
+I know the answer...!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -54,32 +59,33 @@ After a while......!!I know the answer......! !#MTLed
 
 \\C[2]こたえをあいてにつたえる、『べつのほうほう』が…！
 > CONTEXT: CommonEvents_336/24/Dialogue
-There should be something ......... \\C[2]"The other side of the
-world" who will answer the questions ...!#MTLed
+There should be a way...
+\\C[2]There should be a way to communicate my answer
+to her...!#Ron
 > END STRING
 
 > BEGIN STRING
 ゆっくりこたえる
 > CONTEXT: CommonEvents_336/28/Choice/0
-Respond slowly#MTLed
+Answer slowly#Ron
 > END STRING
 
 > BEGIN STRING
 『ばんごう』でこたえる
 > CONTEXT: CommonEvents_336/28/Choice/1
-Answer with "Bungo"#MTLed
+Answer with "Number"#Ron
 > END STRING
 
 > BEGIN STRING
 『ぼく』とこたえる
 > CONTEXT: CommonEvents_336/28/Choice/2
-Answer "I"#MTLed
+Answer "I"#Ron
 > END STRING
 
 > BEGIN STRING
 『ひ●』とこたえる
 > CONTEXT: CommonEvents_336/28/Choice/3
-Answer "Hi ●"#MTLed
+Answer "Pers●"#Ron
 > END STRING
 
 > BEGIN STRING
@@ -87,8 +93,9 @@ Answer "Hi ●"#MTLed
 
 げ………ん………！！
 > CONTEXT: CommonEvents_336/30/Dialogue/kazuya-0
-To .....................................
-... ...... ...... ......! !#MTLed
+Pe........■.....
+
+s.......on.......!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -96,8 +103,8 @@ To .....................................
 
 に………………………■……………！？
 > CONTEXT: CommonEvents_336/34/Dialogue/kazuya-0
-.........! ? In
-.........................................! ?#MTLed
+.........?!
+Per............■..............?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -106,8 +113,9 @@ To .....................................
 \\C[2]ボクの用意した答えの『単語』の言い方は、
  絶対に思い出せない。
 > CONTEXT: CommonEvents_336/38/Dialogue/enemy11
-Is it useless? \\C[2]How to say "word" of the answer
-that I prepared. I will never remember.#MTLed
+Can't do it, right? \\C[2]You absolutely can't remember
+how to say the word you've got rattling around in
+there.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -115,8 +123,8 @@ that I prepared. I will never remember.#MTLed
 
 それはもう『答え』じゃない……
 > CONTEXT: CommonEvents_336/43/Dialogue/enemy11
-If not recognized as "word". It's not an "answer"
-anymore ...#MTLed
+Having said that, if you can't recognize it as a
+word, it's no longer an answer...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -124,8 +132,9 @@ anymore ...#MTLed
 
 それじゃあ、答えになってないなぁ。
 > CONTEXT: CommonEvents_336/47/Dialogue/enemy11
-It was a pity, \\N[1]-kun...
-Well then, it's not an answer.#MTLed
+What a shame, \\N[1]-kun...
+
+That's not an answer, then...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -133,7 +142,7 @@ Well then, it's not an answer.#MTLed
 > CONTEXT: CommonEvents_336/51/Dialogue/kazuya-0
 > CONTEXT: Map158/events/9/pages/0/124/Dialogue/kazuya
 > CONTEXT: Map225/events/1/pages/0/79/Dialogue/kazuya-1
-Good ......! !#MTLed
+Guh...!!#Ron
 > END STRING
 
 > BEGIN STRING
