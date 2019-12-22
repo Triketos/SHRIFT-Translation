@@ -54,14 +54,15 @@ Current Friendship: \\C[2]\\V[44]\\C[0]#Triketos
 
 それ　もらっても　わたし　使う　できない…
 > CONTEXT: Map042/events/5/pages/0/240/Dialogue/enemy3
-Sorry, \\N[1]. Even if I get it, I can not use it
-...#MTLed
+S-Sorry... \\N[1]...
+
+I can't... use something... like that...#Ron
 > END STRING
 
 > BEGIN STRING
 エンプーサは\\C[2]プレゼントを受け取らなかった…
 > CONTEXT: Map042/events/5/pages/0/244/Dialogue
-Empuse is\\C[2] I did not receive a present ...#MTLed
+Empuse \\C[2]did not accept the gift...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -290,7 +291,7 @@ You seem to be fine now...#Ron
 
 その　はなし　よく　わからない
 > CONTEXT: Map042/events/5/pages/1/85/Dialogue/enemy3
-W- Well I...
+W-Well I...
 
 I'm not... sure I... understand...#Ron
 > END STRING
@@ -343,7 +344,7 @@ a male version...#Ron
 > BEGIN STRING
 じ、じゃあ、君がオスが死んで怒り狂ったってのは…？
 > CONTEXT: Map042/events/5/pages/1/107/Dialogue/kazuya
-S- so why did you fly into a rage when that male
+S-So why did you fly into a rage when that male
 died?#Ron
 > END STRING
 
@@ -438,7 +439,7 @@ I'll slice... them up...#Ron
 
  大丈夫！！大丈夫だから！！
 > CONTEXT: Map042/events/5/pages/1/144/Dialogue/kazuya
-P- please don't say something so terrifying with
+P-Please don't say something so terrifying with
 such a straight face! 
 
 I'm fine! I'm absolutly fine!!#Ron
@@ -469,7 +470,7 @@ Gaaah!!#Ron
 
 どうしたの！エンプーサ！？
 > CONTEXT: Map042/events/5/pages/1/168/Dialogue/kazuya
-W- what?!
+W-What?!
 
 What's wrong, Empuse?!#Ron
 > END STRING
@@ -499,7 +500,7 @@ Better that I explain that to ya, 'kay?#Ron
 
 シェルターの時でも見たことないぞ、こんな暴れ方……。
 > CONTEXT: Map042/events/5/pages/1/183/Dialogue/kazuya
-W- what the hell's going on?
+W-What the hell's going on?
 
 I've never seen her go nuts like this before, even
 back in the shelter...#Ron
@@ -555,13 +556,13 @@ like that! I don't... expose... my crotch!!#Ron
 > BEGIN STRING
 く、比べるところ、そこなんだ……？
 > CONTEXT: Map042/events/5/pages/1/207/Dialogue/kazuya
-I- is that how she's gonna compare herself...?#Ron
+I-Is that how she's gonna compare herself...?#Ron
 > END STRING
 
 > BEGIN STRING
 お、落ち着いた？エンプーサ…
 > CONTEXT: Map042/events/5/pages/1/226/Dialogue/kazuya
-H- have you calmed down, Empuse?#Ron
+H-Have you calmed down, Empuse?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -612,7 +613,7 @@ But humans... still break...#Ron
 舌の数だけ分散しただけで、
 そもそも人間相手だと、そんなに魔力は要らないと…
 > CONTEXT: Map042/events/5/pages/1/244/Dialogue/kazuya
-I- in other words, you originally had more magic
+I-In other words, you originally had more magic
 power than them. But even though your magic is now
 dispersed across all your tongues, you don't need
 to use much magic against humans...#RonIffy
@@ -656,7 +657,7 @@ more...?#Ron
 
 そもそも種族がちがうし、どっちにも良いとこ……ろ…-
 > CONTEXT: Map042/events/5/pages/1/263/Dialogue/kazuya
-L- let me see... Both races have their good points
+L-Let me see... Both races have their good points
 so I don't think... I could...#Ron
 > END STRING
 
@@ -669,7 +670,7 @@ so I don't think... I could...#Ron
 > BEGIN STRING
 も、もちろん………！君さ！エンプーサ！
 > CONTEXT: Map042/events/5/pages/1/271/Dialogue/kazuya
-N- naturally I pick you, Empuse!#Ron
+N-Naturally I pick you, Empuse!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -800,7 +801,7 @@ pops out at me though...)#Ron
 
 狩りごっこ、やろうか！
 > CONTEXT: Map042/events/5/pages/1/347/Dialogue/kazuya
-O- okay, Empuse!
+O-Okay, Empuse!
 
 Let's play that hunting game!#Ron
 > END STRING
@@ -810,7 +811,7 @@ Let's play that hunting game!#Ron
 
 あまり嬉しそうじゃないけど……
 > CONTEXT: Map042/events/5/pages/2/4/Dialogue/kazuya
-H- huh? What's up, Empuse...?
+H-Huh? What's up, Empuse...?
 
 You don't seem too happy...#Ron
 > END STRING
@@ -1012,7 +1013,7 @@ Umm, your name was...#Ron
 
 『えんぷーさ』……
 > CONTEXT: Map042/events/7/pages/0/6/Dialogue/enemy2
-...E-... E- e- mpuse...
+...E-... E-E-Empuse...
 "Empuse"...#Ron
 > END STRING
 
@@ -1049,7 +1050,7 @@ Said... "I don't... want ... you... back..."#Ron
 > CONTEXT: Map042/events/7/pages/0/20/Dialogue/enemy2
 So that's... why...
 
-I tried to... f- force myself... to speak...#Ron
+I tried to... f-force myself... to speak...#Ron
 > END STRING
 
 > BEGIN STRING
