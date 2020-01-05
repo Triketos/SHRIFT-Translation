@@ -1,0 +1,179 @@
+﻿> GAIJINIZER PATCH FILE
+> BEGIN STRING
+デバッグモードen(s[999999999])
+> CONTEXT: Map370/events/1/pages/0/12/Choice/0 < UNTRANSLATED
+> CONTEXT: Map370/events/1/pages/0/112/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ウイルススキャン
+> CONTEXT: Map370/events/1/pages/0/12/Choice/1 < UNTRANSLATED
+> CONTEXT: Map370/events/1/pages/0/112/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+『介入』システム管理
+> CONTEXT: Map370/events/1/pages/0/12/Choice/2 < UNTRANSLATED
+> CONTEXT: Map370/events/1/pages/0/112/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+チートコードen(s[999999999])
+> CONTEXT: Map370/events/1/pages/0/12/Choice/3 < UNTRANSLATED
+> CONTEXT: Map370/events/1/pages/0/112/Choice/3 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+デバッグモード：【警告】
+> CONTEXT: Map370/events/1/pages/0/14/ChoiceHelp < UNTRANSLATED
+> CONTEXT: Map370/events/1/pages/0/114/ChoiceHelp < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ウイルススキャンを開始します
+> CONTEXT: Map370/events/1/pages/0/21/ChoiceHelp < UNTRANSLATED
+> CONTEXT: Map370/events/1/pages/0/119/ChoiceHelp < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"[SYSTEM]\\nウイルススキャン、開始"
+> CONTEXT: Map370/events/1/pages/0/25/InlineScript/1:6 < UNTRANSLATED
+> CONTEXT: Map370/events/1/pages/0/122/InlineScript/1:6 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"[SYSTEM]\\n異常は検出されませんでした"
+> CONTEXT: Map370/events/1/pages/0/29/InlineScript/1:6 < UNTRANSLATED
+> CONTEXT: Map370/events/1/pages/0/125/InlineScript/1:6 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+『介入』システムに異常がある場合
+> CONTEXT: Map370/events/1/pages/0/33/ChoiceHelp < UNTRANSLATED
+> CONTEXT: Map370/events/1/pages/0/129/ChoiceHelp < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+【介入】：ID System\\RGSS301.dll
+> CONTEXT: Map370/events/1/pages/0/36/Choice/0 < UNTRANSLATED
+> CONTEXT: Map370/events/1/pages/0/132/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+【莉句?】：ID 縺雁燕繧定ｦ九※縺?ｋ縺
+> CONTEXT: Map370/events/1/pages/0/36/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アクセスID：System\\RGSS301.dll
+ステータス：\\C[18]異常\\C[0]
+診断：外部の要因によりアクセス権が停止しています
+> CONTEXT: Map370/events/1/pages/0/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アクセスID：縺雁燕繧定ｦ九※縺?ｋ縺
+ステータス：\\C[18]異常\\C[0]
+診断：不正なアクセスです。
+\\C[2]『クイックスタート』にて、早急に対処してください。
+> CONTEXT: Map370/events/1/pages/0/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+各種チートコード一覧です
+> CONTEXT: Map370/events/1/pages/0/56/ChoiceHelp < UNTRANSLATED
+> CONTEXT: Map370/events/1/pages/0/144/ChoiceHelp < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フラグ管理en(s[999999999])
+> CONTEXT: Map370/events/1/pages/0/61/Choice/0 < UNTRANSLATED
+> CONTEXT: Map370/events/1/pages/0/149/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+クイックスタートen(s[570])
+> CONTEXT: Map370/events/1/pages/0/61/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+介入同調率調整en(s[999999999])
+> CONTEXT: Map370/events/1/pages/0/61/Choice/2 < UNTRANSLATED
+> CONTEXT: Map370/events/1/pages/0/149/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+各種フラグ一覧です
+> CONTEXT: Map370/events/1/pages/0/63/ChoiceHelp < UNTRANSLATED
+> CONTEXT: Map370/events/1/pages/0/151/ChoiceHelp < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+システム側が座標を指定した場合
+> CONTEXT: Map370/events/1/pages/0/68/ChoiceHelp < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"[SYSTEM]\\n介入対象がロストしました"
+> CONTEXT: Map370/events/1/pages/0/73/InlineScript/1:6 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"[SYSTEM]\\n異常対処用の操作媒体を検索中…"
+> CONTEXT: Map370/events/1/pages/0/76/InlineScript/1:6 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+『介入』システムの干渉具合を調整します
+> CONTEXT: Map370/events/1/pages/0/93/ChoiceHelp < UNTRANSLATED
+> CONTEXT: Map370/events/1/pages/0/161/ChoiceHelp < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+タイトル画面に戻る
+> CONTEXT: Map370/events/1/pages/0/100/Choice/0 < UNTRANSLATED
+> CONTEXT: Map370/events/1/pages/0/168/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アクセスID：System\\RGSS301.dll
+ステータス：\\C[11]通常\\C[0]
+診断：問題なく動作しています
+> CONTEXT: Map370/events/1/pages/0/134/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+クイックスタートen(s[999999999])
+> CONTEXT: Map370/events/1/pages/0/149/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+規定の場所よりスタートできます
+> CONTEXT: Map370/events/1/pages/0/156/ChoiceHelp < UNTRANSLATED
+
+> END STRING
