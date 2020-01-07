@@ -135,6 +135,7 @@ Face Punch#Dargoth
 拘束や障害を取り除こうと試みる。
 抜け出せる可能性は一番低い。
 > CONTEXT: Skills/7/description
+> CONTEXT: Skills/67/description
 Try to escape from bindings and impairments.
 Lowest chance of success.#Dargoth
 > END STRING
@@ -142,6 +143,7 @@ Lowest chance of success.#Dargoth
 > BEGIN STRING
 もがく
 > CONTEXT: Skills/7/name
+> CONTEXT: Skills/67/name
 > CONTEXT: Skills/434/name
 > CONTEXT: Skills/502/name
 Struggle#Dargoth
@@ -150,6 +152,7 @@ Struggle#Dargoth
 > BEGIN STRING
 は身体をよじらせた！
 > CONTEXT: Skills/7/message1
+> CONTEXT: Skills/67/message1
 > CONTEXT: Skills/434/message1
 > CONTEXT: Skills/502/message1
 > CONTEXT: Skills/511/message1
@@ -160,6 +163,7 @@ Struggle#Dargoth
 拘束や障害を取り除こうと暴れる。
 気力を大きく消費するが、ほぼ確実に脱出できる。
 > CONTEXT: Skills/8/description
+> CONTEXT: Skills/68/description
 Try your hardest to escape from bindings and impairments.
 Tires you out more, but is nearly guaranteed to free you.#Dargoth
 > END STRING
@@ -174,6 +178,7 @@ Violent Rage#Dargoth
 は思いきり暴れた！
 > CONTEXT: Skills/8/message1
 > CONTEXT: Skills/61/message1
+> CONTEXT: Skills/68/message1
 > CONTEXT: Skills/164/message1
 > CONTEXT: Skills/435/message1
 > CONTEXT: Skills/503/message1
@@ -266,7 +271,6 @@ Give Up#Dargoth
 自ら服を脱ぎ、文字通り身を張って相手に敵意が無いことを示す。
 相手によっては誘惑状態になるが、相手が戦闘体勢では効果無し。
 > CONTEXT: Skills/13/description
-> CONTEXT: Skills/184/description
 > CONTEXT: Skills/466/description
 > CONTEXT: Skills/704/description
 > CONTEXT: Skills/712/description
@@ -1065,6 +1069,74 @@ Indomitable Fighting Spirit#afrg
 > END STRING
 
 > BEGIN STRING
+あばれる
+> CONTEXT: Skills/68/name
+> CONTEXT: Skills/435/name
+> CONTEXT: Skills/503/name
+Violent Rage#afrg
+> END STRING
+
+> BEGIN STRING
+足元に気をつけながら逃げる
+成功率は確実ではないが、かなり気力を抑えられる
+> CONTEXT: Skills/69/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+にげる
+> CONTEXT: Skills/69/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は必死で逃げた！
+> CONTEXT: Skills/69/message1 < UNTRANSLATED
+> CONTEXT: Skills/70/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+必死に逃げる
+確実に逃げられるが、気力を大きく消費する。
+> CONTEXT: Skills/70/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+全力でにげる
+> CONTEXT: Skills/70/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+恐怖に耐えきれずに助けを求める
+感情が恐怖に支配されてしまいとても危険
+> CONTEXT: Skills/71/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は泣き叫んだ！
+> CONTEXT: Skills/71/message1 < UNTRANSLATED
+> CONTEXT: Skills/72/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+相手に見逃してもらうように懇願する
+相手のＳ心を刺激する結果にしかならないだろう
+> CONTEXT: Skills/72/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+命乞いをする
+> CONTEXT: Skills/72/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
 敵単体に物理の小ダメージを与える。装弾数\\V[7]/10
 > CONTEXT: Skills/80/description
 Deals low physical damage to one foe. Rounds \\V[7]/10#Dargoth
@@ -1284,6 +1356,9 @@ Deals medium physical damage to one foe. Rounds \\V[19]/2#afrg
 > CONTEXT: Skills/94/description
 > CONTEXT: Skills/95/description
 > CONTEXT: Skills/651/description
+> CONTEXT: Skills/847/description
+> CONTEXT: Skills/848/description
+> CONTEXT: Skills/849/description
 Deals wind damage.
 Blows opponent back and removes most flimsy bindings.#Dargoth
 > END STRING
@@ -1292,6 +1367,9 @@ Blows opponent back and removes most flimsy bindings.#Dargoth
 サイ・エアロ
 > CONTEXT: Skills/93/name
 > CONTEXT: Skills/154/name
+> CONTEXT: Skills/847/name
+> CONTEXT: Skills/848/name
+> CONTEXT: Skills/849/name
 Psi Arrow#Dargoth
 > END STRING
 
@@ -1299,6 +1377,9 @@ Psi Arrow#Dargoth
 はサイ・エアロを放った！
 > CONTEXT: Skills/93/message1
 > CONTEXT: Skills/154/message1
+> CONTEXT: Skills/847/message1
+> CONTEXT: Skills/848/message1
+> CONTEXT: Skills/849/message1
  casts Psi Arrow!#Dargoth
 > END STRING
 
@@ -1668,16 +1749,15 @@ Watch Attentively#Dargoth
 > BEGIN STRING
 全身を走り抜ける快感に、思わず身体の力が抜けていく……
 > CONTEXT: Skills/127/message2
+> CONTEXT: Skills/525/message2
+> CONTEXT: Skills/526/message2
 Pure pleasure courses through his veins and saps his strength...#Dargoth
 > END STRING
 
 > BEGIN STRING
 敵単体に対して強力な攻撃を行う。
 > CONTEXT: Skills/127/description
-> CONTEXT: Skills/131/description
-> CONTEXT: Skills/137/description
 > CONTEXT: Skills/141/description
-> CONTEXT: Skills/142/description
 > CONTEXT: Skills/144/description
 > CONTEXT: Skills/145/description
 > CONTEXT: Skills/146/description
@@ -1692,7 +1772,6 @@ Pure pleasure courses through his veins and saps his strength...#Dargoth
 > CONTEXT: Skills/165/description
 > CONTEXT: Skills/168/description
 > CONTEXT: Skills/177/description
-> CONTEXT: Skills/186/description
 > CONTEXT: Skills/187/description
 > CONTEXT: Skills/188/description
 > CONTEXT: Skills/259/description
@@ -1708,17 +1787,15 @@ Pure pleasure courses through his veins and saps his strength...#Dargoth
 > CONTEXT: Skills/392/description
 > CONTEXT: Skills/393/description
 > CONTEXT: Skills/402/description
+> CONTEXT: Skills/404/description
 > CONTEXT: Skills/415/description
 > CONTEXT: Skills/416/description
 > CONTEXT: Skills/417/description
-> CONTEXT: Skills/467/description
-> CONTEXT: Skills/469/description
-> CONTEXT: Skills/470/description
-> CONTEXT: Skills/471/description
 > CONTEXT: Skills/517/description
 > CONTEXT: Skills/518/description
-> CONTEXT: Skills/522/description
 > CONTEXT: Skills/524/description
+> CONTEXT: Skills/525/description
+> CONTEXT: Skills/526/description
 > CONTEXT: Skills/590/description
 > CONTEXT: Skills/625/description
 > CONTEXT: Skills/630/description
@@ -1743,7 +1820,6 @@ Pure pleasure courses through his veins and saps his strength...#Dargoth
 > CONTEXT: Skills/733/description
 > CONTEXT: Skills/734/description
 > CONTEXT: Skills/743/description
-> CONTEXT: Skills/747/description
 > CONTEXT: Skills/769/description
 > CONTEXT: Skills/789/description
 > CONTEXT: Skills/797/description
@@ -1758,12 +1834,17 @@ Pure pleasure courses through his veins and saps his strength...#Dargoth
 > CONTEXT: Skills/830/description
 > CONTEXT: Skills/834/description
 > CONTEXT: Skills/835/description
+> CONTEXT: Skills/841/description
+> CONTEXT: Skills/843/description
+> CONTEXT: Skills/853/description
+> CONTEXT: Skills/854/description
 Perform a powerful attack against one foe.#Dargoth
 > END STRING
 
 > BEGIN STRING
 吸精
 > CONTEXT: Skills/127/name
+> CONTEXT: Skills/525/name
 Energy Suck#Dargoth
 > END STRING
 
@@ -1783,6 +1864,13 @@ Energy Suck#Dargoth
 ■■バーゲスト\#\#\#
 > CONTEXT: Skills/130/name
 ■■Barghest\#\#\##Dargoth
+> END STRING
+
+> BEGIN STRING
+敵単体に対して物理ダメージを与える。
+あまり爪は立てないようにしているが、まれに出血する。
+> CONTEXT: Skills/131/description < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -1806,7 +1894,6 @@ Beast Claw#Dargoth
 > CONTEXT: Skills/132/description
 > CONTEXT: Skills/153/description
 > CONTEXT: Skills/158/description
-> CONTEXT: Skills/170/description
 > CONTEXT: Skills/171/description
 > CONTEXT: Skills/175/description
 > CONTEXT: Skills/179/description
@@ -1841,6 +1928,8 @@ Beast Claw#Dargoth
 > CONTEXT: Skills/810/description
 > CONTEXT: Skills/811/description
 > CONTEXT: Skills/827/description
+> CONTEXT: Skills/836/description
+> CONTEXT: Skills/845/description
 Causes your opponent to lose their balance.#Dargoth
 > END STRING
 
@@ -1873,6 +1962,13 @@ Eye Rape#Dargoth
 > END STRING
 
 > BEGIN STRING
+身体をくねらせ、相手を交尾に誘う。
+中確率で相手を搾精状態にできる。
+> CONTEXT: Skills/134/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
 交尾の誘い
 > CONTEXT: Skills/134/name
 > CONTEXT: Skills/138/name
@@ -1898,6 +1994,14 @@ Mating Invitation (Failure)#Dargoth
 > END STRING
 
 > BEGIN STRING
+徐々に体重をかけ、相手を押し倒す。
+相手をまれにスタンさせる。
+> CONTEXT: Skills/136/description < UNTRANSLATED
+> CONTEXT: Skills/840/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
 押し倒し
 > CONTEXT: Skills/136/name
 > CONTEXT: Skills/468/name
@@ -1916,7 +2020,14 @@ Pin Down#Dargoth
 > CONTEXT: Skills/520/message1
 > CONTEXT: Skills/521/message1
 > CONTEXT: Skills/767/message1
+> CONTEXT: Skills/840/message1
  forcefully leaps on top of \\N[1]!#Dargoth
+> END STRING
+
+> BEGIN STRING
+相手に3回、快楽ダメージを与える
+> CONTEXT: Skills/137/description < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -1925,6 +2036,7 @@ Pin Down#Dargoth
 > CONTEXT: Skills/144/name
 > CONTEXT: Skills/366/name
 > CONTEXT: Skills/402/name
+> CONTEXT: Skills/854/name
 Wild Hip Thrusts#Dargoth
 > END STRING
 
@@ -1937,6 +2049,8 @@ Wild Hip Thrusts#Dargoth
 > CONTEXT: Skills/366/message1
 > CONTEXT: Skills/402/message1
 > CONTEXT: Skills/522/message1
+> CONTEXT: Skills/523/message1
+> CONTEXT: Skills/854/message1
  wildly bucks her hips!#Dargoth
 > END STRING
 
@@ -1946,6 +2060,7 @@ Wild Hip Thrusts#Dargoth
 > CONTEXT: Skills/166/message2
 > CONTEXT: Skills/176/message2
 > CONTEXT: Skills/833/message2
+> CONTEXT: Skills/842/message2
 Her tongue probes all the nooks and crannies of \\N[1]'s ear!#Dargoth
 > END STRING
 
@@ -1955,6 +2070,7 @@ Her tongue probes all the nooks and crannies of \\N[1]'s ear!#Dargoth
 > CONTEXT: Skills/166/name
 > CONTEXT: Skills/176/name
 > CONTEXT: Skills/833/name
+> CONTEXT: Skills/842/name
 Ear Suck#Dargoth
 > END STRING
 
@@ -1964,6 +2080,7 @@ Ear Suck#Dargoth
 > CONTEXT: Skills/166/message1
 > CONTEXT: Skills/176/message1
 > CONTEXT: Skills/833/message1
+> CONTEXT: Skills/842/message1
  is engrossed in sucking on \\N[1]'s ear!#Dargoth
 > END STRING
 
@@ -1990,6 +2107,13 @@ Copulation Hold#Dargoth
 執拗に頭を股間に擦りつけてくる…！
 > CONTEXT: Skills/142/message2
 She relentlessly rubs her face between \\N[1]'s legs!#Dargoth
+> END STRING
+
+> BEGIN STRING
+相手に無邪気にすり寄る。
+まれに相手の心が溶けて、喜んで交尾してくれる
+> CONTEXT: Skills/142/description < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -2047,6 +2171,7 @@ Tongue Play#Dargoth
 > CONTEXT: Skills/146/message2
 > CONTEXT: Skills/156/message2
 > CONTEXT: Skills/648/message2
+> CONTEXT: Skills/843/message2
 Her tight canal presses hard against it from all sides!#Dargoth
 > END STRING
 
@@ -2055,6 +2180,7 @@ Her tight canal presses hard against it from all sides!#Dargoth
 > CONTEXT: Skills/146/name
 > CONTEXT: Skills/156/name
 > CONTEXT: Skills/648/name
+> CONTEXT: Skills/843/name
 Squeezing Pressure#Dargoth
 > END STRING
 
@@ -2063,6 +2189,7 @@ Squeezing Pressure#Dargoth
 > CONTEXT: Skills/146/message1
 > CONTEXT: Skills/156/message1
 > CONTEXT: Skills/648/message1
+> CONTEXT: Skills/843/message1
  submerges \\N[1]'s penis deep into her pussy!#Dargoth
 > END STRING
 
@@ -2127,6 +2254,7 @@ Tongue Sex#Dargoth
 > CONTEXT: Skills/693/message2
 > CONTEXT: Skills/694/message2
 > CONTEXT: Skills/814/message2
+> CONTEXT: Skills/844/message2
 They wiggle and squirm, attempting to capture \\N[1]!#Dargoth
 > END STRING
 
@@ -2184,6 +2312,7 @@ Also doubles as Kick Away.#Dargoth
 あまりの気持ちよさに\\N[1]の気力がどんどん失われていく…
 > CONTEXT: Skills/155/message2
 > CONTEXT: Skills/794/message2
+> CONTEXT: Skills/839/message2
 They feel so good, \\N[1] is losing vitality...#Dargoth
 > END STRING
 
@@ -2200,6 +2329,7 @@ They feel so good, \\N[1] is losing vitality...#Dargoth
 > CONTEXT: Skills/727/name
 > CONTEXT: Skills/793/name
 > CONTEXT: Skills/794/name
+> CONTEXT: Skills/839/name
 Breasts of Submission#Dargoth
 > END STRING
 
@@ -2209,6 +2339,7 @@ Breasts of Submission#Dargoth
 > CONTEXT: Skills/246/message1
 > CONTEXT: Skills/361/message1
 > CONTEXT: Skills/794/message1
+> CONTEXT: Skills/839/message1
  smothers \\N[1]'s face between her huge fruits!#Dargoth
 > END STRING
 
@@ -2246,6 +2377,7 @@ Titillating Pulsation#Dargoth
 > CONTEXT: Skills/682/message2
 > CONTEXT: Skills/828/message2
 > CONTEXT: Skills/834/message2
+> CONTEXT: Skills/841/message2
 She pulls at them and gives them little twists...#Dargoth
 > END STRING
 
@@ -2256,6 +2388,7 @@ She pulls at them and gives them little twists...#Dargoth
 > CONTEXT: Skills/682/name
 > CONTEXT: Skills/828/name
 > CONTEXT: Skills/834/name
+> CONTEXT: Skills/841/name
 Nipple Tease#Dargoth
 > END STRING
 
@@ -2266,6 +2399,7 @@ Nipple Tease#Dargoth
 > CONTEXT: Skills/682/message1
 > CONTEXT: Skills/828/message1
 > CONTEXT: Skills/834/message1
+> CONTEXT: Skills/841/message1
  gently toys with \\N[1]'s nipples!#Dargoth
 > END STRING
 
@@ -2422,6 +2556,12 @@ Backstab#Dargoth
 > END STRING
 
 > BEGIN STRING
+『口塞ぎ』状態の相手を確実に恍惚にさせる。
+> CONTEXT: Skills/170/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
 気狂いの花粉
 > CONTEXT: Skills/170/name
 > CONTEXT: Skills/171/name
@@ -2450,6 +2590,13 @@ Intoxicating Pollen#Dargoth
 > END STRING
 
 > BEGIN STRING
+相手を甘い言葉で誘惑する。
+成功率は相手の性欲蓄積に依存する。
+> CONTEXT: Skills/172/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
 甘い口車
 > CONTEXT: Skills/172/name
 > CONTEXT: Skills/331/name
@@ -2470,6 +2617,14 @@ Sweet Nothings#Dargoth
 > END STRING
 
 > BEGIN STRING
+ツタを飛ばし、相手に小ダメージを与え
+中確率で『口塞ぎ』状態にする。
+> CONTEXT: Skills/173/description < UNTRANSLATED
+> CONTEXT: Skills/838/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
 接吻ツタ
 > CONTEXT: Skills/173/name
 > CONTEXT: Skills/193/name
@@ -2487,6 +2642,13 @@ Kissing Ivy#Dargoth
 乳首にチュウチュウと貪欲に吸い付いてくる…
 > CONTEXT: Skills/174/message2
 Two strands of ivy greedily suck on his nipples...#Dargoth
+> END STRING
+
+> BEGIN STRING
+ツタを飛ばし、相手に小ダメージを与え
+中確率で『乳首攻め』状態にする。
+> CONTEXT: Skills/174/description < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -2526,6 +2688,7 @@ Nectar Feeding#Dargoth
 > CONTEXT: Skills/194/name
 > CONTEXT: Skills/693/name
 > CONTEXT: Skills/694/name
+> CONTEXT: Skills/844/name
 Erotic Ivy#Dargoth
 > END STRING
 
@@ -2537,6 +2700,7 @@ Erotic Ivy#Dargoth
 > CONTEXT: Skills/194/message1
 > CONTEXT: Skills/693/message1
 > CONTEXT: Skills/694/message1
+> CONTEXT: Skills/844/message1
  reaches out with several vines of ivy!#Dargoth
 > END STRING
 
@@ -2547,6 +2711,13 @@ Erotic Ivy#Dargoth
 > CONTEXT: Skills/695/name
 > CONTEXT: Skills/696/name
 Drain Pollen#Dargoth
+> END STRING
+
+> BEGIN STRING
+相手の陰部にツタを伸ばし、『搾精状態』にする。
+ランパス自身はこの技を使うのは好きではない。
+> CONTEXT: Skills/180/description < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -2593,6 +2764,13 @@ Ivy Shackles#Dargoth
 > END STRING
 
 > BEGIN STRING
+相手の服を剥ぐ。
+相手を確実に『全裸』の状態にする。
+> CONTEXT: Skills/184/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
 服を剥ぐ
 > CONTEXT: Skills/184/name
 > CONTEXT: Skills/466/name
@@ -2608,6 +2786,13 @@ Strip#Dargoth
 > CONTEXT: Skills/704/message1
 > CONTEXT: Skills/712/message1
  tears the clothes off \\N[1]!#Dargoth
+> END STRING
+
+> BEGIN STRING
+相手の顔面に乗り、両脚でペニスをしごく技
+相手を確実に搾精状態にし、手足を重度の拘束状態にする
+> CONTEXT: Skills/185/description < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -2629,6 +2814,14 @@ Her sticky sap makes lewd squishing sounds!#Dargoth
 > END STRING
 
 > BEGIN STRING
+強い力で相手に足コキをする。
+相手に３回中ダメージを与える。
+> CONTEXT: Skills/186/description < UNTRANSLATED
+> CONTEXT: Skills/850/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
 葯戯れ
 > CONTEXT: Skills/186/name
 Stamen Play#Dargoth
@@ -2637,6 +2830,7 @@ Stamen Play#Dargoth
 > BEGIN STRING
 の足でペニスがグリグリと刺激される！
 > CONTEXT: Skills/186/message1
+> CONTEXT: Skills/850/message1
 's feet grind against \\N[1]'s penis!#Dargoth
 > END STRING
 
@@ -2651,6 +2845,13 @@ Pollination Press#Dargoth
 さらにグリグリと腰をくねらせて体重をかけられる…
 > CONTEXT: Skills/189/message2
 She presses down hard and gyrates her hips!#Dargoth
+> END STRING
+
+> BEGIN STRING
+相手の顔面に乗せている尻に更に体重をかける
+相手に大ダメージを与え『口塞ぎ』状態を重ね掛けする
+> CONTEXT: Skills/189/description < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -2669,6 +2870,13 @@ Hip Press#Dargoth
 芳醇な匂いも相まって頭がクラクラする…
 > CONTEXT: Skills/190/message2
 Its sensation and mellow smell is making him dizzy...#Dargoth
+> END STRING
+
+> BEGIN STRING
+服従して足元にいる相手に対して、脚で頭を撫でる
+確実に『傀儡』と『朦朧』状態にする。
+> CONTEXT: Skills/190/description < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -3021,6 +3229,7 @@ Capture Fall#Dargoth
 打撃系の小ダメージを与える。
 高確率でスタン付与
 > CONTEXT: Skills/252/description < UNTRANSLATED
+> CONTEXT: Skills/851/description < UNTRANSLATED
 
 > END STRING
 
@@ -4284,6 +4493,35 @@ Reload (Drum)#afrg
 > END STRING
 
 > BEGIN STRING
+\\N[1]の身体に何とも言えない悪寒が走る！！
+> CONTEXT: Skills/359/message2
+> CONTEXT: Skills/362/message2
+An indescribable chill runs through his body!#afrg
+> END STRING
+
+> BEGIN STRING
+３ターンの間、使用者の物理攻撃力を上げる。
+> CONTEXT: Skills/359/description
+> CONTEXT: Skills/362/description
+> CONTEXT: Skills/679/description
+> CONTEXT: Skills/852/description
+Increases the caster's physical attack for 3 turns.#Dargoth
+> END STRING
+
+> BEGIN STRING
+スペル・カーズ
+> CONTEXT: Skills/359/name
+> CONTEXT: Skills/362/name
+Binding Spell#Triketos
+> END STRING
+
+> BEGIN STRING
+は\\N[1]の後頭部をベロリと嘗めた…
+> CONTEXT: Skills/359/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
 だんだんと彼女の胸に視線が集中してしまう…
 > CONTEXT: Skills/360/message2
 His eyes fixate on her breasts...#afrg
@@ -4293,25 +4531,6 @@ His eyes fixate on her breasts...#afrg
 小悪魔の誘い
 > CONTEXT: Skills/360/name
 Impish Lure#afrg
-> END STRING
-
-> BEGIN STRING
-\\N[1]の身体に何とも言えない悪寒が走る！！
-> CONTEXT: Skills/362/message2
-An indescribable chill runs through his body!#afrg
-> END STRING
-
-> BEGIN STRING
-３ターンの間、使用者の物理攻撃力を上げる。
-> CONTEXT: Skills/362/description
-> CONTEXT: Skills/679/description
-Increases the caster's physical attack for 3 turns.#Dargoth
-> END STRING
-
-> BEGIN STRING
-スペル・カーズ
-> CONTEXT: Skills/362/name
-Binding Spell#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -4767,6 +4986,24 @@ Wild Fuck#afrg
 > END STRING
 
 > BEGIN STRING
+ゆっくりとした刺激が、だんだんと心地よくなってくる…
+> CONTEXT: Skills/404/message2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ソフトタッチ
+> CONTEXT: Skills/404/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は\\n[1]のペニスを優しくいじり始めた！
+> CONTEXT: Skills/404/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
 \\C[2]手足を使って\\C[0]粘着糸を引き離し、状態異常を解除する。
 手足が自由でなければこのスキルは使用出来ない。
 > CONTEXT: Skills/410/description
@@ -5067,13 +5304,6 @@ Struggle with all your might.#afrg
 > END STRING
 
 > BEGIN STRING
-あばれる
-> CONTEXT: Skills/435/name
-> CONTEXT: Skills/503/name
-Violent Rage#afrg
-> END STRING
-
-> BEGIN STRING
 かはんしんのてきをけりとばす。
 > CONTEXT: Skills/436/description
 > CONTEXT: Skills/504/description
@@ -5324,6 +5554,13 @@ Magic Electricity#afrg
 > END STRING
 
 > BEGIN STRING
+相手から知識を吸いとる
+最大５段階まで重ねることができ、最後は赤ん坊になる。
+> CONTEXT: Skills/465/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
 ブレインドレイン
 > CONTEXT: Skills/465/name
 > CONTEXT: Skills/705/name
@@ -5345,6 +5582,12 @@ Brain Drain#afrg
 > END STRING
 
 > BEGIN STRING
+相手を拘束し、３回連続で快楽小ダメージを与える
+> CONTEXT: Skills/467/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
 魔獣のゆりかご
 > CONTEXT: Skills/467/name
 Beast Cradle#afrg
@@ -5354,6 +5597,13 @@ Beast Cradle#afrg
 は優しく\\N[1]を抱き包んだ…
 > CONTEXT: Skills/467/message1
  tenderly embraces \\N[1]...#afrg
+> END STRING
+
+> BEGIN STRING
+相手を拘束（足）状態にし、快楽小ダメージを与える。
+次のターンで搾精体勢にする確率が３倍になる。
+> CONTEXT: Skills/469/description < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -5375,6 +5625,12 @@ Piledriver Hold#afrgPR
 > END STRING
 
 > BEGIN STRING
+中確率で相手を搾精体勢にする
+> CONTEXT: Skills/470/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
 交尾固め
 > CONTEXT: Skills/470/name
 Copulation Tightening#afrg
@@ -5384,6 +5640,12 @@ Copulation Tightening#afrg
 は膨張した\\N[1]のペニスを膣に擦りつけた！
 > CONTEXT: Skills/470/message1
  rubs her vagina against \\N[1]'s expanding penis.#afrg
+> END STRING
+
+> BEGIN STRING
+相手に９回の快楽中ダメージを与える。
+> CONTEXT: Skills/471/description < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -5402,6 +5664,13 @@ Beast Sex#afrg
 それに応えるように、\\N[1]は時折嬉しそうに喘ぎ声を上げる…
 > CONTEXT: Skills/472/message2
 In response, \\N[1] makes delighted sounds...#afrg
+> END STRING
+
+> BEGIN STRING
+相手に９回の快楽中ダメージを与える。
+高確率で相手を恍惚にし、MPを最大まで吸収する。
+> CONTEXT: Skills/472/description < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -5923,13 +6192,34 @@ Evasion#afrg
 > BEGIN STRING
 膣内が吸いつくように貪欲に、精を奪おうと脈動する…！！
 > CONTEXT: Skills/522/message2
+> CONTEXT: Skills/523/message2
 Her vagina greedily vagina greedily drains \\N[1]!!#afrgPR
+> END STRING
+
+> BEGIN STRING
+スフィンクスの必殺技（自称）
+相手に対して5回連続大ダメージを与えて、まれに恍惚にする
+> CONTEXT: Skills/522/description < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
 種搾りプレス
 > CONTEXT: Skills/522/name
 Reverse Piledriver#afrgPR
+> END STRING
+
+> BEGIN STRING
+相手に対してなぞなぞを問いかける。
+例の問題以外、あんまり難しいのは出せない
+> CONTEXT: Skills/523/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なぞかけ
+> CONTEXT: Skills/523/name < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -5948,6 +6238,24 @@ Snake's Cruel Play#afrgPR
 は\\N[1]のペニスを弄ぶように締め付けた
 > CONTEXT: Skills/524/message1
  tightens to play with \\N[1]'s penis.#afrg
+> END STRING
+
+> BEGIN STRING
+は\\n[1]の首筋に牙を立て、精気を吸い始めた…！
+> CONTEXT: Skills/525/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+吸血
+> CONTEXT: Skills/526/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は\\n[1]の首筋に牙を立て、血を吸い始めた…！
+> CONTEXT: Skills/526/message1 < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -6805,9 +7113,9 @@ Male Corrupting Demon Vagina#afrg
 > END STRING
 
 > BEGIN STRING
-の膣が、\\N[1]のペニスを優しく蠢き、きつく締め付けてきた…
+の膣が、\\N[1]のペニスを優しく包み、きつく締め付けてきた…
 > CONTEXT: Skills/640/message1
-'s vagina wriggles and tightents around \\N[1]'s penis...#afrg
+'s vagina gently tightens around \\N[1]'s penis...#afrg/Ron
 > END STRING
 
 > BEGIN STRING
@@ -7023,18 +7331,21 @@ Desire Tail Wrapping#afrg
 > BEGIN STRING
 相手の周囲に魔力が集まっていく…！！
 > CONTEXT: Skills/679/message2
+> CONTEXT: Skills/852/message2
 Magical Power gathers around her...! !#afrg
 > END STRING
 
 > BEGIN STRING
 マジック・チャージ
 > CONTEXT: Skills/679/name
+> CONTEXT: Skills/852/name
 Magic Charge#afrg
 > END STRING
 
 > BEGIN STRING
 はマジック・チャージを放った！
 > CONTEXT: Skills/679/message1
+> CONTEXT: Skills/852/message1
  used Magic Charge!#afrg
 > END STRING
 
@@ -7056,6 +7367,7 @@ Footjob Paradise#afrg
 > CONTEXT: Skills/685/description
 > CONTEXT: Skills/701/description
 > CONTEXT: Skills/754/description
+> CONTEXT: Skills/846/description
 Deals non-attribute magical damage to your opponent. 
 Does little damage, but ignores magic resistance.#afrg
 > END STRING
@@ -7064,6 +7376,7 @@ Does little damage, but ignores magic resistance.#afrg
 エル・ピリオド
 > CONTEXT: Skills/685/name
 > CONTEXT: Skills/754/name
+> CONTEXT: Skills/846/name
 El Period#afrg
 > END STRING
 
@@ -7071,6 +7384,7 @@ El Period#afrg
 はエル・ピリオドを放った！
 > CONTEXT: Skills/685/message1
 > CONTEXT: Skills/754/message1
+> CONTEXT: Skills/846/message1
  casts El Period!#afrg
 > END STRING
 
@@ -7411,6 +7725,13 @@ Haru and Liz carry \\N[1] and jump up together!#afrg
 はその巨体を大きく唸らせて、相手に叩き付けた！
 > CONTEXT: Skills/744/message1
 Made his huge body crawl and hit his opponent!#MTLed
+> END STRING
+
+> BEGIN STRING
+相手に5回の物理大ダメージ。
+とても疲れるので滅多にやらない
+> CONTEXT: Skills/747/description < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -8275,5 +8596,119 @@ Sea Mother's Funeral March
 > BEGIN STRING
 は、エコーにしがみついて、必死に乳を吸っている…
 > CONTEXT: Skills/832/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[1]の身体に強烈な刺激が電撃のように走る…！！
+> CONTEXT: Skills/836/message2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+狂乱の淫靡吐息
+> CONTEXT: Skills/836/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はパーカーの中に吐息を吹き込んだ！
+> CONTEXT: Skills/836/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+全身にゾクゾクと快感が巡ってくる…！
+> CONTEXT: Skills/837/message2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+吟味の舌技
+> CONTEXT: Skills/837/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は\\N[1]の首筋をねっとりと舐めた…
+> CONTEXT: Skills/837/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おいはらう
+> CONTEXT: Skills/838/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はバーゲストの足元に向かってツタを振った！
+> CONTEXT: Skills/838/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+とびかかり
+> CONTEXT: Skills/840/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+身体全体の精気が、気持ちよく吸われているを感じる…
+> CONTEXT: Skills/845/message2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+夢魔の棺桶
+> CONTEXT: Skills/845/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の衣服が、ぎゅうぎゅうと心地よい締め付けをする
+> CONTEXT: Skills/845/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+容赦ないヘカーテの攻めが、程よい痛さと快感を与える…！
+> CONTEXT: Skills/850/message2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+脚戯れ
+> CONTEXT: Skills/850/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+蹴り
+> CONTEXT: Skills/851/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は\\N[1]のペニスを思いっきり蹴った！
+> CONTEXT: Skills/851/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+プニプニとした柔らかい何かが、ペニスをゆっくりと刺激する…
+> CONTEXT: Skills/853/message2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔王の戯れ
+> CONTEXT: Skills/853/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は\\n[1]に跨がって、身体を揺らし始めた…
+> CONTEXT: Skills/853/message1 < UNTRANSLATED
 
 > END STRING

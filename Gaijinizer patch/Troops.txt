@@ -11645,8 +11645,8 @@ Beetle Harpy(Defeat)#Triketos
 
 > BEGIN STRING
 モルモー１
-> CONTEXT: Troops/305/name < UNTRANSLATED
-
+> CONTEXT: Troops/305/name
+Mormo 1#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -11654,9 +11654,12 @@ Beetle Harpy(Defeat)#Triketos
 番組の進め方は、もう知ってるよね？
 
 \\C[2]ダンスして、番組の最後まで生き残ったら君の勝ち！
-> CONTEXT: Troops/305/pages/1/12/Dialogue/enemy23 < UNTRANSLATED
-> CONTEXT: Troops/309/pages/1/12/Dialogue/enemy23 < UNTRANSLATED
-
+> CONTEXT: Troops/305/pages/1/12/Dialogue/enemy23
+> CONTEXT: Troops/309/pages/1/12/Dialogue/enemy23
+Here we go, \\N[1]-kun! Do you already know
+how to proceed with the program?
+\\C[2]If you dance and survive until the
+end of the show, you win!#GT
 > END STRING
 
 > BEGIN STRING
@@ -11664,27 +11667,35 @@ Beetle Harpy(Defeat)#Triketos
 \\N[1]くんは、しっかりついてきてね！
 
 仮にも経験者だから、最初から飛ばしていくよー？
-> CONTEXT: Troops/305/pages/1/17/Dialogue/enemy23 < UNTRANSLATED
-> CONTEXT: Troops/309/pages/1/17/Dialogue/enemy23 < UNTRANSLATED
-
+> CONTEXT: Troops/305/pages/1/17/Dialogue/enemy23
+> CONTEXT: Troops/309/pages/1/17/Dialogue/enemy23
+First of all, I'll show you an example,
+so \\N[1]-kun will follow you!
+Even if you are an experienced person,
+you will skip it from the beginning?#GT
 > END STRING
 
 > BEGIN STRING
 落ち着け……あの時と同じだ…
 
 制限時間内に、指定されたボタンを押せば…
-> CONTEXT: Troops/305/pages/1/24/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/309/pages/1/24/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/305/pages/1/24/Dialogue
+> CONTEXT: Troops/309/pages/1/24/Dialogue
+Calm down... same as that time...
 
+Press the designated button
+within the time limit...#GT
 > END STRING
 
 > BEGIN STRING
 えっ！！？
 
 ちょっ………ちょっと！！！
-> CONTEXT: Troops/305/pages/1/32/Dialogue/kazuya < UNTRANSLATED
-> CONTEXT: Troops/309/pages/1/32/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Troops/305/pages/1/32/Dialogue/kazuya
+> CONTEXT: Troops/309/pages/1/32/Dialogue/kazuya
+Eh!!?
 
+A little... a little!!!#GT
 > END STRING
 
 > BEGIN STRING
@@ -11692,18 +11703,21 @@ Beetle Harpy(Defeat)#Triketos
 すさまじくキレのいい、洗練されたものだった
 
 \\C[2]とてもじゃないが、人間がマネ出来るスピードではない…！
-> CONTEXT: Troops/305/pages/1/39/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/309/pages/1/39/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/305/pages/1/39/Dialogue
+> CONTEXT: Troops/309/pages/1/39/Dialogue
+Mormo's dance, apart from choreography,
+was very sharp and sophisticated.
+\\C[2] Not really, but not at the
+speed of human beings...!#GT
 > END STRING
 
 > BEGIN STRING
 僕は、足がもつれて
 
 その場に転んで倒れてしまった……
-> CONTEXT: Troops/305/pages/1/44/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/309/pages/1/44/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/305/pages/1/44/Dialogue
+> CONTEXT: Troops/309/pages/1/44/Dialogue
+I got my legs tangled and fell down on the spot...#GT
 > END STRING
 
 > BEGIN STRING
@@ -11711,9 +11725,12 @@ Beetle Harpy(Defeat)#Triketos
 久々のダンスで、身体が鈍っちゃってた？
 
 まだまだ肩慣らしだったのに……
-> CONTEXT: Troops/305/pages/1/49/Dialogue/enemy25 < UNTRANSLATED
-> CONTEXT: Troops/309/pages/1/49/Dialogue/enemy25 < UNTRANSLATED
+> CONTEXT: Troops/305/pages/1/49/Dialogue/enemy25
+> CONTEXT: Troops/309/pages/1/49/Dialogue/enemy25
+Are you okay, \\N[1]-kun?
+Did you get dull after a long time of dancing?
 
+I was still getting used to the shoulders...#GT
 > END STRING
 
 > BEGIN STRING
@@ -11721,36 +11738,45 @@ Beetle Harpy(Defeat)#Triketos
 さっさとヤられちゃいたいの？♡
 
 僕は別に、それでも構わないけどー？♡
-> CONTEXT: Troops/305/pages/1/54/Dialogue/enemy25 < UNTRANSLATED
-> CONTEXT: Troops/309/pages/1/54/Dialogue/enemy25 < UNTRANSLATED
+> CONTEXT: Troops/305/pages/1/54/Dialogue/enemy25
+> CONTEXT: Troops/309/pages/1/54/Dialogue/enemy25
+Or do you want me to lose as soon as I
+can in a dance game? ♡
 
+I don't mind, though... ♡#GT
 > END STRING
 
 > BEGIN STRING
 …………？？
 
 あ、あれ………！？
-> CONTEXT: Troops/305/pages/1/59/Dialogue/kazuya-0 < UNTRANSLATED
-> CONTEXT: Troops/309/pages/1/59/Dialogue/kazuya-0 < UNTRANSLATED
+> CONTEXT: Troops/305/pages/1/59/Dialogue/kazuya-0
+> CONTEXT: Troops/309/pages/1/59/Dialogue/kazuya-0
+...??
 
+Ah....!?#GT
 > END STRING
 
 > BEGIN STRING
 立とうとしたが、身体が動かない……
 
 痛みはないので、怪我をしたわけではないはずだ……
-> CONTEXT: Troops/305/pages/1/63/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/309/pages/1/63/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/305/pages/1/63/Dialogue
+> CONTEXT: Troops/309/pages/1/63/Dialogue
+I tried to stand, but my body didn't move...
 
+I shouldn't have been injured because there was no pain...#GT
 > END STRING
 
 > BEGIN STRING
 なにかがおかしい………
 
 \\C[2]自分の身体が、まるで言うことを聞いてくれない…！？
-> CONTEXT: Troops/305/pages/1/67/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/309/pages/1/67/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/305/pages/1/67/Dialogue
+> CONTEXT: Troops/309/pages/1/67/Dialogue
+Something is wrong...
 
+\\C[2] My body doesn't hear what I say...!?#GT
 > END STRING
 
 > BEGIN STRING
@@ -11758,9 +11784,12 @@ Beetle Harpy(Defeat)#Triketos
 しょうがないなぁ、\\N[1]くんは
 
 ほら、手を貸してあげるから、はやく立って？
-> CONTEXT: Troops/305/pages/1/71/Dialogue/enemy25 < UNTRANSLATED
-> CONTEXT: Troops/309/pages/1/71/Dialogue/enemy25 < UNTRANSLATED
+> CONTEXT: Troops/305/pages/1/71/Dialogue/enemy25
+> CONTEXT: Troops/309/pages/1/71/Dialogue/enemy25
+Alright!
+There is no help for it, \\N[1]-kun.
 
+Look, I'll lend you a hand, stand up fast?#GT
 > END STRING
 
 > BEGIN STRING
@@ -11768,72 +11797,89 @@ Beetle Harpy(Defeat)#Triketos
 はやく続きを始めないと、視聴率下がっちゃうからね
 
 みんな、\\N[1]くんを待ってるよ？
-> CONTEXT: Troops/305/pages/1/76/Dialogue/enemy25 < UNTRANSLATED
-> CONTEXT: Troops/309/pages/1/76/Dialogue/enemy25 < UNTRANSLATED
-
+> CONTEXT: Troops/305/pages/1/76/Dialogue/enemy25
+> CONTEXT: Troops/309/pages/1/76/Dialogue/enemy25
+I also got the butt mochi a little while ago,
+so I can not say much about people, but if I do
+not start quickly, the audience rating will drop.
+Are you waiting for Kazuya-kun?#GT
 > END STRING
 
 > BEGIN STRING
 あ、ああ…♡
 
 う、うああぁ……！！
-> CONTEXT: Troops/305/pages/1/84/Dialogue/kazuya-0 < UNTRANSLATED
-> CONTEXT: Troops/309/pages/1/84/Dialogue/kazuya-0 < UNTRANSLATED
+> CONTEXT: Troops/305/pages/1/84/Dialogue/kazuya-0
+> CONTEXT: Troops/309/pages/1/84/Dialogue/kazuya-0
+Ah, ahhh... ♡
 
+Uh, uaahh...!!#GT
 > END STRING
 
 > BEGIN STRING
 \\N[1]は、裸になってモルモーに抱きつき
 
 逆に捕まってしまった…！！
-> CONTEXT: Troops/305/pages/1/120/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/309/pages/1/120/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/305/pages/1/120/Dialogue
+> CONTEXT: Troops/309/pages/1/120/Dialogue
+Kazuya was stripped naked and hugged by 
+Mormo and caught in reverse...!!#GT
 > END STRING
 
 > BEGIN STRING
 あんっ♡♡
 
 \\N[1]くんてば、意外に情熱的……♡
-> CONTEXT: Troops/305/pages/1/124/Dialogue/enemy25 < UNTRANSLATED
-> CONTEXT: Troops/309/pages/1/124/Dialogue/enemy25 < UNTRANSLATED
+> CONTEXT: Troops/305/pages/1/124/Dialogue/enemy25
+> CONTEXT: Troops/309/pages/1/124/Dialogue/enemy25
+Ah♡♡
 
+Kazuya-kun is surprisingly passionate...♡#GT
 > END STRING
 
 > BEGIN STRING
 う、あぁぁ……♡♡
 
 モルモー……ちゃん……♡
-> CONTEXT: Troops/305/pages/1/128/Dialogue/kazuya-0 < UNTRANSLATED
-> CONTEXT: Troops/309/pages/1/128/Dialogue/kazuya-0 < UNTRANSLATED
+> CONTEXT: Troops/305/pages/1/128/Dialogue/kazuya-0
+> CONTEXT: Troops/309/pages/1/128/Dialogue/kazuya-0
+Ahhh...
 
+Mormo......... chan... ♡#GT
 > END STRING
 
 > BEGIN STRING
 彼女の髪から、ふんわりあまい臭いがする………
 
 はっきりしていた意識が、どんどん蕩けてくる……
-> CONTEXT: Troops/305/pages/1/135/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/309/pages/1/135/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/305/pages/1/135/Dialogue
+> CONTEXT: Troops/309/pages/1/135/Dialogue
+Her hair smells soft and sweet...
 
+The consciousness that was clear is becoming
+more and more fascinating...#GT
 > END STRING
 
 > BEGIN STRING
 その気はなかったはずなのに……
 
 だんだんと、モルモーに身体を預けたくなってきた……
-> CONTEXT: Troops/305/pages/1/139/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/309/pages/1/139/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/305/pages/1/139/Dialogue
+> CONTEXT: Troops/309/pages/1/139/Dialogue
+I shouldn't have felt like that...
 
+Gradually, I want to leave my body to Mormo...#GT
 > END STRING
 
 > BEGIN STRING
 なんだ………？
 
 僕のからだに、何が起こってるんだ……？
-> CONTEXT: Troops/305/pages/1/143/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/309/pages/1/143/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/305/pages/1/143/Dialogue
+> CONTEXT: Troops/309/pages/1/143/Dialogue
+What.........?
 
+What's going on my body...?#GT
 > END STRING
 
 > BEGIN STRING
@@ -11841,9 +11887,12 @@ Beetle Harpy(Defeat)#Triketos
 しょうがないなぁ\\N[1]くんは…
 
 そんなに僕に食べられたいんだね……♡
-> CONTEXT: Troops/305/pages/1/149/Dialogue/enemy25 < UNTRANSLATED
-> CONTEXT: Troops/309/pages/1/149/Dialogue/enemy25 < UNTRANSLATED
+> CONTEXT: Troops/305/pages/1/149/Dialogue/enemy25
+> CONTEXT: Troops/309/pages/1/149/Dialogue/enemy25
+Hey~♪
+I can't help it \\N[1]-kun...
 
+I want to eat it so much...♡#GT
 > END STRING
 
 > BEGIN STRING
@@ -11851,18 +11900,23 @@ Beetle Harpy(Defeat)#Triketos
 
 視聴者のみなさんがお待ちかねの、逆レイプタイムと
 いきましょーかねぇ♡
-> CONTEXT: Troops/305/pages/1/154/Dialogue/enemy25 < UNTRANSLATED
-> CONTEXT: Troops/309/pages/1/154/Dialogue/enemy25 < UNTRANSLATED
+> CONTEXT: Troops/305/pages/1/154/Dialogue/enemy25
+> CONTEXT: Troops/309/pages/1/154/Dialogue/enemy25
+Then the dance game is my win...
 
+The reverse rape time that viewers are
+waiting for... Let's go live~ ♡#GT
 > END STRING
 
 > BEGIN STRING
 う、あぁぁ……♡♡
 
 ち、ちが……こんなはずじゃ…
-> CONTEXT: Troops/305/pages/1/161/Dialogue/kazuya-0 < UNTRANSLATED
-> CONTEXT: Troops/309/pages/1/161/Dialogue/kazuya-0 < UNTRANSLATED
+> CONTEXT: Troops/305/pages/1/161/Dialogue/kazuya-0
+> CONTEXT: Troops/309/pages/1/161/Dialogue/kazuya-0
+Ah, ahhh...♡♡
 
+W-what...? It's not supposed to be like this...#TriketosPartial
 > END STRING
 
 > BEGIN STRING
@@ -11870,25 +11924,30 @@ Beetle Harpy(Defeat)#Triketos
 
 本格的に吸う前に、キミの身体
 ちょっとだけ味見しちゃおうかなぁ…♡
-> CONTEXT: Troops/305/pages/1/165/Dialogue/enemy25 < UNTRANSLATED
-> CONTEXT: Troops/309/pages/1/165/Dialogue/enemy25 < UNTRANSLATED
+> CONTEXT: Troops/305/pages/1/165/Dialogue/enemy25
+> CONTEXT: Troops/309/pages/1/165/Dialogue/enemy25
+Hehe...... Neck that looks good... ♡♡
 
+Before you smoke in earnest, you might taste
+a little bit of your body... ♡#GT
 > END STRING
 
 > BEGIN STRING
 ああああっ…♡
 
 うぁぁぁぁああっ…！！♡
-> CONTEXT: Troops/305/pages/1/204/Dialogue/kazuya-0 < UNTRANSLATED
-> CONTEXT: Troops/309/pages/1/204/Dialogue/kazuya-0 < UNTRANSLATED
+> CONTEXT: Troops/305/pages/1/204/Dialogue/kazuya-0
+> CONTEXT: Troops/309/pages/1/204/Dialogue/kazuya-0
+Ahhhhh...♡
 
+Ahhhhhhh...!!♡#GT
 > END STRING
 
 > BEGIN STRING
 \\N[1]は、モルモーの素股で射精してしまった…
-> CONTEXT: Troops/305/pages/1/237/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/309/pages/1/237/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/305/pages/1/237/Dialogue
+> CONTEXT: Troops/309/pages/1/237/Dialogue
+\\N[1] has ejaculated with Mormo's intercrural sex...#GT
 > END STRING
 
 > BEGIN STRING
@@ -11896,27 +11955,34 @@ Beetle Harpy(Defeat)#Triketos
 どうしたの\\N[1]くん？
 
 まだ挿れてもいないのに…♡
-> CONTEXT: Troops/305/pages/1/239/Dialogue/enemy25 < UNTRANSLATED
-> CONTEXT: Troops/309/pages/1/239/Dialogue/enemy25 < UNTRANSLATED
+> CONTEXT: Troops/305/pages/1/239/Dialogue/enemy25
+> CONTEXT: Troops/309/pages/1/239/Dialogue/enemy25
+Oh...♡
+What happened, \\N[1]-kun?
 
+Even though it has not been inserted yet... ♡#GT
 > END STRING
 
 > BEGIN STRING
 そんなに首筋舐められるの興奮した？
 
 それとも、僕の身体を気に入ってくれたのかな？
-> CONTEXT: Troops/305/pages/1/244/Dialogue/enemy25 < UNTRANSLATED
-> CONTEXT: Troops/309/pages/1/244/Dialogue/enemy25 < UNTRANSLATED
+> CONTEXT: Troops/305/pages/1/244/Dialogue/enemy25
+> CONTEXT: Troops/309/pages/1/244/Dialogue/enemy25
+Are you so excited that you can lick your neck?
 
+Or did you like my body?#GT
 > END STRING
 
 > BEGIN STRING
 はあっ…はあっ…
 
 う、ウソだ……こんな……！
-> CONTEXT: Troops/305/pages/1/248/Dialogue/kazuya-0 < UNTRANSLATED
-> CONTEXT: Troops/309/pages/1/248/Dialogue/kazuya-0 < UNTRANSLATED
+> CONTEXT: Troops/305/pages/1/248/Dialogue/kazuya-0
+> CONTEXT: Troops/309/pages/1/248/Dialogue/kazuya-0
+Hah.. Haah...
 
+T-that's... not true...!#TriketosPartial
 > END STRING
 
 > BEGIN STRING
@@ -11924,9 +11990,12 @@ Beetle Harpy(Defeat)#Triketos
 身体は正直なんだからさ、もっと楽になりなよ♪
 
 力を抜いて、リラックスリラックス♡
-> CONTEXT: Troops/305/pages/1/270/Dialogue/enemy25 < UNTRANSLATED
-> CONTEXT: Troops/309/pages/1/270/Dialogue/enemy25 < UNTRANSLATED
-
+> CONTEXT: Troops/305/pages/1/270/Dialogue/enemy25
+> CONTEXT: Troops/309/pages/1/270/Dialogue/enemy25
+I wish I could stop being strong... ♡
+My body is honest, so I'm going
+to be more comfortable♪
+Relax and relax ♡#GT
 > END STRING
 
 > BEGIN STRING
@@ -11934,9 +12003,11 @@ Beetle Harpy(Defeat)#Triketos
 
 吸血鬼の僕としては、このままガブッっていきたいんだけど
 最近だと、割と痛いのキライな子も多くてね……
-> CONTEXT: Troops/305/pages/1/275/Dialogue/enemy25 < UNTRANSLATED
-> CONTEXT: Troops/309/pages/1/275/Dialogue/enemy25 < UNTRANSLATED
-
+> CONTEXT: Troops/305/pages/1/275/Dialogue/enemy25
+> CONTEXT: Troops/309/pages/1/275/Dialogue/enemy25
+Well... As a vampire servant,
+I'd like to keep going as it is, but recently,
+there are a lot of pretty painful kids...#GT
 > END STRING
 
 > BEGIN STRING
@@ -11944,9 +12015,12 @@ Beetle Harpy(Defeat)#Triketos
 牙だけ非物質化して、精気を吸うこともできるんだぁ♡
 
 \\C[0]血を吸われたいっていうなら、そのままでもいいけど…
-> CONTEXT: Troops/305/pages/1/280/Dialogue/enemy25 < UNTRANSLATED
-> CONTEXT: Troops/309/pages/1/280/Dialogue/enemy25 < UNTRANSLATED
-
+> CONTEXT: Troops/305/pages/1/280/Dialogue/enemy25
+> CONTEXT: Troops/309/pages/1/280/Dialogue/enemy25
+\\C[2]Originally, because it's a demon, you can
+dematerialize only the fangs and breathe energy.
+\\C[0]If you want to suck blood,
+you can leave it as it is...#GT
 > END STRING
 
 > BEGIN STRING
@@ -11954,32 +12028,37 @@ Beetle Harpy(Defeat)#Triketos
 好きな吸われ方を選ばせてあげる…♡
 
 さぁ、どっちがいい？
-> CONTEXT: Troops/305/pages/1/287/Dialogue/enemy25 < UNTRANSLATED
-> CONTEXT: Troops/309/pages/1/287/Dialogue/enemy25 < UNTRANSLATED
+> CONTEXT: Troops/305/pages/1/287/Dialogue/enemy25
+> CONTEXT: Troops/309/pages/1/287/Dialogue/enemy25
+\\N[1]-kun is a special guest, so I'll let him
+choose his favorite way of sucking...♡
 
+Now, which is better?#GT
 > END STRING
 
 > BEGIN STRING
 精気を吸われて負けたい
-> CONTEXT: Troops/305/pages/1/292/Choice/0 < UNTRANSLATED
-> CONTEXT: Troops/309/pages/1/292/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Troops/305/pages/1/292/Choice/0
+> CONTEXT: Troops/309/pages/1/292/Choice/0
+I want to lose because I'm sucked#GT
 > END STRING
 
 > BEGIN STRING
 血を吸われて負けたい
-> CONTEXT: Troops/305/pages/1/292/Choice/1 < UNTRANSLATED
-> CONTEXT: Troops/309/pages/1/292/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Troops/305/pages/1/292/Choice/1
+> CONTEXT: Troops/309/pages/1/292/Choice/1
+I want to lose because of my blood#GT
 > END STRING
 
 > BEGIN STRING
 ふふふ……おっけー任せて♪
 
 吸精に関しては僕、得意分野だから…♡
-> CONTEXT: Troops/305/pages/1/294/Dialogue/enemy26 < UNTRANSLATED
-> CONTEXT: Troops/309/pages/1/294/Dialogue/enemy26 < UNTRANSLATED
+> CONTEXT: Troops/305/pages/1/294/Dialogue/enemy26
+> CONTEXT: Troops/309/pages/1/294/Dialogue/enemy26
+Fufufu ... Ok, leave it to me♪
 
+I'm good at insemination...♡#GT
 > END STRING
 
 > BEGIN STRING
@@ -11987,9 +12066,12 @@ Beetle Harpy(Defeat)#Triketos
 \\N[1]くん、実はそっちのクチだったんだ？
 
 吸血鬼の僕としては嬉しい限りだけどね♡
-> CONTEXT: Troops/305/pages/1/304/Dialogue/enemy26 < UNTRANSLATED
-> CONTEXT: Troops/309/pages/1/304/Dialogue/enemy26 < UNTRANSLATED
+> CONTEXT: Troops/305/pages/1/304/Dialogue/enemy26
+> CONTEXT: Troops/309/pages/1/304/Dialogue/enemy26
+Huh ...?
+\\N[1]-kun, was that actually your cut?
 
+As long as I'm a vampire I'm happy ♡#GT
 > END STRING
 
 > BEGIN STRING
@@ -11997,18 +12079,23 @@ Beetle Harpy(Defeat)#Triketos
 
 ちょっと血が出るかもしれないけど、大丈夫
 感じるのは痛みじゃなくて快感だから…♡
-> CONTEXT: Troops/305/pages/1/309/Dialogue/enemy26 < UNTRANSLATED
-> CONTEXT: Troops/309/pages/1/309/Dialogue/enemy26 < UNTRANSLATED
+> CONTEXT: Troops/305/pages/1/309/Dialogue/enemy26
+> CONTEXT: Troops/309/pages/1/309/Dialogue/enemy26
+Then... don't hesitate to go ahead?
 
+It may be a little bloody,
+but it's not a pain but a pleasure...#GT
 > END STRING
 
 > BEGIN STRING
 ぐっ……誰が…っ…！！
 
 こんなの…ズルい…！！
-> CONTEXT: Troops/305/pages/1/322/Dialogue/kazuya-0 < UNTRANSLATED
-> CONTEXT: Troops/309/pages/1/320/Dialogue/kazuya-0 < UNTRANSLATED
+> CONTEXT: Troops/305/pages/1/322/Dialogue/kazuya-0
+> CONTEXT: Troops/309/pages/1/320/Dialogue/kazuya-0
+Guy... who...!!
 
+This is... sloppy...!!#GT
 > END STRING
 
 > BEGIN STRING
@@ -12016,9 +12103,12 @@ Beetle Harpy(Defeat)#Triketos
 こんな状況になっても、まだ諦めがつかないの？
 
 あとは僕に吸いとられるだけだっていうのに……
-> CONTEXT: Troops/305/pages/1/326/Dialogue/enemy24 < UNTRANSLATED
-> CONTEXT: Troops/309/pages/1/324/Dialogue/enemy24 < UNTRANSLATED
+> CONTEXT: Troops/305/pages/1/326/Dialogue/enemy24
+> CONTEXT: Troops/309/pages/1/324/Dialogue/enemy24
+Mm... It ’s pretty strong. \\N[1]-kun...
+Can you still give up in such a situation?
 
+The rest is just sucked by me...#GT
 > END STRING
 
 > BEGIN STRING
@@ -12026,9 +12116,11 @@ Beetle Harpy(Defeat)#Triketos
 こんなの、どう考えたっておかしい……
 
 ダンスが始まる前から、おかしな事だらけだ…
-> CONTEXT: Troops/305/pages/1/334/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/309/pages/1/332/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/305/pages/1/334/Dialogue
+> CONTEXT: Troops/309/pages/1/332/Dialogue
+That's it... It's strange how you think about this...
+Before the dance began,
+there were lots of weird things...#GT
 > END STRING
 
 > BEGIN STRING
@@ -12036,9 +12128,12 @@ Beetle Harpy(Defeat)#Triketos
 急に使えなくなった、クリスタルとセーブ端末…
 
 ありえないほど派手になった、ステージとモルモーのダンス…
-> CONTEXT: Troops/305/pages/1/339/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/309/pages/1/337/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/305/pages/1/339/Dialogue
+> CONTEXT: Troops/309/pages/1/337/Dialogue
+Suddenly disappeared, Lampas and Empusa...
+Crystal and save terminal suddenly became unusable...
 
+The stage and the Mormoux dance have become so flashy...#GT
 > END STRING
 
 > BEGIN STRING
@@ -12046,39 +12141,44 @@ Beetle Harpy(Defeat)#Triketos
 
 \\C[2]全く言う事を聞かない、僕の身体……
 まるで、モルモーの思い通りに……
-> CONTEXT: Troops/305/pages/1/344/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/309/pages/1/342/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/305/pages/1/344/Dialogue
+> CONTEXT: Troops/309/pages/1/342/Dialogue
+And more than anything...
 
+\\C[2] I don't hear anything at all, my body...
+Just like Mormo...#GT
 > END STRING
 
 > BEGIN STRING
 そうか……ここは……！！
-> CONTEXT: Troops/305/pages/1/351/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/309/pages/1/349/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/305/pages/1/351/Dialogue
+> CONTEXT: Troops/309/pages/1/349/Dialogue
+Well... here...!!#GT
 > END STRING
 
 > BEGIN STRING
 夢の中だ！
-> CONTEXT: Troops/305/pages/1/353/Choice/0 < UNTRANSLATED
-> CONTEXT: Troops/309/pages/1/351/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Troops/305/pages/1/353/Choice/0
+> CONTEXT: Troops/309/pages/1/351/Choice/0
+In a dream!#GT
 > END STRING
 
 > BEGIN STRING
 モルモーの腕の中だ！
-> CONTEXT: Troops/305/pages/1/353/Choice/1 < UNTRANSLATED
-> CONTEXT: Troops/309/pages/1/351/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Troops/305/pages/1/353/Choice/1
+> CONTEXT: Troops/309/pages/1/351/Choice/1
+In Mormo's arm!#GT
 > END STRING
 
 > BEGIN STRING
 ああもうガマンできない…♡
 
 \\{\\{いただきまーす♡
-> CONTEXT: Troops/305/pages/1/361/Dialogue/enemy25 < UNTRANSLATED
-> CONTEXT: Troops/309/pages/1/359/Dialogue/enemy25 < UNTRANSLATED
+> CONTEXT: Troops/305/pages/1/361/Dialogue/enemy25
+> CONTEXT: Troops/309/pages/1/359/Dialogue/enemy25
+Oh, I can't do it anymore... ♡
 
+\\{\\{I'm glad ♡#GT
 > END STRING
 
 > BEGIN STRING
@@ -12086,18 +12186,23 @@ Beetle Harpy(Defeat)#Triketos
 
 \\C[2]ここは夢の中なんだろう！？
 だからこんなに変なことばかり起こるんだ！！！
-> CONTEXT: Troops/305/pages/1/370/Dialogue/kazuya-0 < UNTRANSLATED
-> CONTEXT: Troops/309/pages/1/368/Dialogue/kazuya-0 < UNTRANSLATED
+> CONTEXT: Troops/305/pages/1/370/Dialogue/kazuya-0
+> CONTEXT: Troops/309/pages/1/368/Dialogue/kazuya-0
+...!!! Really!! \\C[2]You are a demon!
 
+\\C[2]This is a dream!?
+So all the weird things happen!!!#GT
 > END STRING
 
 > BEGIN STRING
 げげっ！！！もうバレた！？
 
 いつもより現実味を増し増しでやってたのに……！！
-> CONTEXT: Troops/305/pages/1/375/Dialogue/enemy24 < UNTRANSLATED
-> CONTEXT: Troops/309/pages/1/373/Dialogue/enemy24 < UNTRANSLATED
+> CONTEXT: Troops/305/pages/1/375/Dialogue/enemy24
+> CONTEXT: Troops/309/pages/1/373/Dialogue/enemy24
+Gege!!! It's already gone!?
 
+I was doing it with more reality than usual...!#GT
 > END STRING
 
 > BEGIN STRING
@@ -12105,36 +12210,45 @@ Beetle Harpy(Defeat)#Triketos
 ここまで来たならもう勢いで押し切っちゃうもんね！
 
 一気に意識をひきずりこんでやるんだから…！！！
-> CONTEXT: Troops/305/pages/1/379/Dialogue/enemy25 < UNTRANSLATED
-> CONTEXT: Troops/309/pages/1/377/Dialogue/enemy25 < UNTRANSLATED
+> CONTEXT: Troops/305/pages/1/379/Dialogue/enemy25
+> CONTEXT: Troops/309/pages/1/377/Dialogue/enemy25
+But, but! If you've come this far,
+you're going to push it out!
 
+I'm going to drag my consciousness at once...!!!#GT
 > END STRING
 
 > BEGIN STRING
 ぐっ……！！
 
 そうはいくか…！！
-> CONTEXT: Troops/305/pages/1/384/Dialogue/kazuya-0 < UNTRANSLATED
-> CONTEXT: Troops/309/pages/1/382/Dialogue/kazuya-0 < UNTRANSLATED
+> CONTEXT: Troops/305/pages/1/384/Dialogue/kazuya-0
+> CONTEXT: Troops/309/pages/1/382/Dialogue/kazuya-0
+Guh...!!
 
+Is that so...!!#GT
 > END STRING
 
 > BEGIN STRING
 こっちも、『夢の中』だと分かったのなら
 
 やることは、ただひとつだ…！！
-> CONTEXT: Troops/305/pages/1/388/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/309/pages/1/386/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/305/pages/1/388/Dialogue
+> CONTEXT: Troops/309/pages/1/386/Dialogue
+If you find that it's "in a dream"
 
+There is only one thing to do...!!#GT
 > END STRING
 
 > BEGIN STRING
 僕は朦朧とした意識を一気に集中させた…！
 
 \\C[2]目を覚まして、この状況から脱出しなければ！！
-> CONTEXT: Troops/305/pages/1/392/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/309/pages/1/390/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/305/pages/1/392/Dialogue
+> CONTEXT: Troops/309/pages/1/390/Dialogue
+I concentrated my stunned consciousness at once...!
 
+\\C[2]You must wake up and escape from this situation!!#GT
 > END STRING
 
 > BEGIN STRING
