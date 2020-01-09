@@ -1079,34 +1079,36 @@ Violent Rage#afrg
 > BEGIN STRING
 足元に気をつけながら逃げる
 成功率は確実ではないが、かなり気力を抑えられる
-> CONTEXT: Skills/69/description < UNTRANSLATED
-
+> CONTEXT: Skills/69/description
+Run away while watching your step. Success not
+guaranteed, but preserves vitality.#CheckLater
 > END STRING
 
 > BEGIN STRING
 にげる
-> CONTEXT: Skills/69/name < UNTRANSLATED
-
+> CONTEXT: Skills/69/name
+Run Away#Ron
 > END STRING
 
 > BEGIN STRING
 は必死で逃げた！
-> CONTEXT: Skills/69/message1 < UNTRANSLATED
-> CONTEXT: Skills/70/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/69/message1
+> CONTEXT: Skills/70/message1
+ desperately runs away!
 > END STRING
 
 > BEGIN STRING
 必死に逃げる
 確実に逃げられるが、気力を大きく消費する。
-> CONTEXT: Skills/70/description < UNTRANSLATED
-
+> CONTEXT: Skills/70/description
+Run for your life. Success is guaranteed but uses
+up a large amount of vitality.#Ron
 > END STRING
 
 > BEGIN STRING
 全力でにげる
-> CONTEXT: Skills/70/name < UNTRANSLATED
-
+> CONTEXT: Skills/70/name
+Desperate Dash#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1118,22 +1120,22 @@ Violent Rage#afrg
 
 > BEGIN STRING
 は泣き叫んだ！
-> CONTEXT: Skills/71/message1 < UNTRANSLATED
-> CONTEXT: Skills/72/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/71/message1
+> CONTEXT: Skills/72/message1
+ screams out!#Ron
 > END STRING
 
 > BEGIN STRING
 相手に見逃してもらうように懇願する
 相手のＳ心を刺激する結果にしかならないだろう
-> CONTEXT: Skills/72/description < UNTRANSLATED
-
+> CONTEXT: Skills/72/description
+Plead with your opponent to spare your life.#CheckLater
 > END STRING
 
 > BEGIN STRING
 命乞いをする
-> CONTEXT: Skills/72/name < UNTRANSLATED
-
+> CONTEXT: Skills/72/name
+Beg For Your Life#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1869,8 +1871,9 @@ Energy Suck#Dargoth
 > BEGIN STRING
 敵単体に対して物理ダメージを与える。
 あまり爪は立てないようにしているが、まれに出血する。
-> CONTEXT: Skills/131/description < UNTRANSLATED
-
+> CONTEXT: Skills/131/description
+Deal physical damage to a single enemy. Your
+claws don't go too deep but can inflict bleeding.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1964,8 +1967,9 @@ Eye Rape#Dargoth
 > BEGIN STRING
 身体をくねらせ、相手を交尾に誘う。
 中確率で相手を搾精状態にできる。
-> CONTEXT: Skills/134/description < UNTRANSLATED
-
+> CONTEXT: Skills/134/description
+Wiggle your body and invite your opponent to mate.
+Moderate chance to get them into milking position.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1996,9 +2000,10 @@ Mating Invitation (Failure)#Dargoth
 > BEGIN STRING
 徐々に体重をかけ、相手を押し倒す。
 相手をまれにスタンさせる。
-> CONTEXT: Skills/136/description < UNTRANSLATED
-> CONTEXT: Skills/840/description < UNTRANSLATED
-
+> CONTEXT: Skills/136/description
+> CONTEXT: Skills/840/description
+Steadily put your weight on your opponent,
+pinning them down. Small chance to inflict stun.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -2026,8 +2031,9 @@ Pin Down#Dargoth
 
 > BEGIN STRING
 相手に3回、快楽ダメージを与える
-> CONTEXT: Skills/137/description < UNTRANSLATED
-
+> CONTEXT: Skills/137/description
+Inflicts pleasure damage on your opponent three
+times.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -2112,8 +2118,9 @@ She relentlessly rubs her face between \\N[1]'s legs!#Dargoth
 > BEGIN STRING
 相手に無邪気にすり寄る。
 まれに相手の心が溶けて、喜んで交尾してくれる
-> CONTEXT: Skills/142/description < UNTRANSLATED
-
+> CONTEXT: Skills/142/description
+Innocently snuggle up to your opponent. Small chance to
+melt their heart and have them mate with you.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -2557,8 +2564,8 @@ Backstab#Dargoth
 
 > BEGIN STRING
 『口塞ぎ』状態の相手を確実に恍惚にさせる。
-> CONTEXT: Skills/170/description < UNTRANSLATED
-
+> CONTEXT: Skills/170/description
+Puts a gagged opponent in an ecstatic trance.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -2592,8 +2599,9 @@ Intoxicating Pollen#Dargoth
 > BEGIN STRING
 相手を甘い言葉で誘惑する。
 成功率は相手の性欲蓄積に依存する。
-> CONTEXT: Skills/172/description < UNTRANSLATED
-
+> CONTEXT: Skills/172/description
+Seduces your opponent with sweet words. The chance of
+success depends on how much lust they've accumulated.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -2619,9 +2627,10 @@ Sweet Nothings#Dargoth
 > BEGIN STRING
 ツタを飛ばし、相手に小ダメージを与え
 中確率で『口塞ぎ』状態にする。
-> CONTEXT: Skills/173/description < UNTRANSLATED
-> CONTEXT: Skills/838/description < UNTRANSLATED
-
+> CONTEXT: Skills/173/description
+> CONTEXT: Skills/838/description
+Shoots out ivy, dealing a small amount of damage.
+Moderate chance of inflicting "Gagged".#Ron
 > END STRING
 
 > BEGIN STRING
@@ -2647,8 +2656,9 @@ Two strands of ivy greedily suck on his nipples...#Dargoth
 > BEGIN STRING
 ツタを飛ばし、相手に小ダメージを与え
 中確率で『乳首攻め』状態にする。
-> CONTEXT: Skills/174/description < UNTRANSLATED
-
+> CONTEXT: Skills/174/description
+Shoots out ivy, dealing a small amount of damage.
+Moderate chance of inflicting "Nipple Assault".#Ron
 > END STRING
 
 > BEGIN STRING
@@ -2716,8 +2726,9 @@ Drain Pollen#Dargoth
 > BEGIN STRING
 相手の陰部にツタを伸ばし、『搾精状態』にする。
 ランパス自身はこの技を使うのは好きではない。
-> CONTEXT: Skills/180/description < UNTRANSLATED
-
+> CONTEXT: Skills/180/description
+Stretches your ivy out to your opponent's crotch, milking
+them. Lampas herself isn't fond of this method.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -2766,8 +2777,9 @@ Ivy Shackles#Dargoth
 > BEGIN STRING
 相手の服を剥ぐ。
 相手を確実に『全裸』の状態にする。
-> CONTEXT: Skills/184/description < UNTRANSLATED
-
+> CONTEXT: Skills/184/description
+Strips off your opponent's clothes.
+Will put your opponent in "Naked" state.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -2791,8 +2803,9 @@ Strip#Dargoth
 > BEGIN STRING
 相手の顔面に乗り、両脚でペニスをしごく技
 相手を確実に搾精状態にし、手足を重度の拘束状態にする
-> CONTEXT: Skills/185/description < UNTRANSLATED
-
+> CONTEXT: Skills/185/description
+Ride your opponent's face and stroke their penis with both
+your feet. Milks them and strongly binds arms and legs.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -2816,9 +2829,10 @@ Her sticky sap makes lewd squishing sounds!#Dargoth
 > BEGIN STRING
 強い力で相手に足コキをする。
 相手に３回中ダメージを与える。
-> CONTEXT: Skills/186/description < UNTRANSLATED
-> CONTEXT: Skills/850/description < UNTRANSLATED
-
+> CONTEXT: Skills/186/description
+> CONTEXT: Skills/850/description
+Gives your opponent a powerful footjob.
+Does damage three times to your opponent.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -2850,8 +2864,9 @@ She presses down hard and gyrates her hips!#Dargoth
 > BEGIN STRING
 相手の顔面に乗せている尻に更に体重をかける
 相手に大ダメージを与え『口塞ぎ』状態を重ね掛けする
-> CONTEXT: Skills/189/description < UNTRANSLATED
-
+> CONTEXT: Skills/189/description
+Pushes your ass harder down on your opponent's face.
+Deals heavy damage and stacks the "Gagged" status.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -2875,8 +2890,9 @@ Its sensation and mellow smell is making him dizzy...#Dargoth
 > BEGIN STRING
 服従して足元にいる相手に対して、脚で頭を撫でる
 確実に『傀儡』と『朦朧』状態にする。
-> CONTEXT: Skills/190/description < UNTRANSLATED
-
+> CONTEXT: Skills/190/description
+Rubs your obediently kneeling opponent's head with your
+feet. Inflicts "Puppet" and "Dazed".#Ron
 > END STRING
 
 > BEGIN STRING
@@ -3189,8 +3205,8 @@ An overload of pleasure is crushing \\N[1]'s willpower...#Dargoth
 
 > BEGIN STRING
 相手に大ダメージ。出血付与。
-> CONTEXT: Skills/250/description < UNTRANSLATED
-
+> CONTEXT: Skills/250/description
+Inflicts heavy damage, causes "Bleeding".
 > END STRING
 
 > BEGIN STRING
@@ -3209,8 +3225,9 @@ Death Scythe#Dargoth
 > BEGIN STRING
 相手を拘束する技。
 戦闘態勢での使用時、希に出血することがある
-> CONTEXT: Skills/251/description < UNTRANSLATED
-
+> CONTEXT: Skills/251/description
+A technique to capture your opponent.
+Small chance to inflict "Bleeding".#CheckLater
 > END STRING
 
 > BEGIN STRING
@@ -3228,9 +3245,10 @@ Capture Fall#Dargoth
 > BEGIN STRING
 打撃系の小ダメージを与える。
 高確率でスタン付与
-> CONTEXT: Skills/252/description < UNTRANSLATED
-> CONTEXT: Skills/851/description < UNTRANSLATED
-
+> CONTEXT: Skills/252/description
+> CONTEXT: Skills/851/description
+Deals a small amount of damage.
+High chance to inflict "Stun".#CheckLater
 > END STRING
 
 > BEGIN STRING
@@ -3249,7 +3267,8 @@ Stun Impact#Dargoth
 エンプーサの必殺技。
 ５回連続の大ダメージ、高確率で出血付与。
 > CONTEXT: Skills/254/description < UNTRANSLATED
-
+Empuse's killer technique. Deals heavy damage five times
+in a row, has a high chance of inflicting "Bleeding".#Ron
 > END STRING
 
 > BEGIN STRING
@@ -3271,8 +3290,9 @@ Funeral Dance#Dargoth
 > BEGIN STRING
 相手を搾精目的で捕まえる技。
 高確率でパニックを付与する。
-> CONTEXT: Skills/257/description < UNTRANSLATED
-
+> CONTEXT: Skills/257/description
+Captures your opponent with the goal of milking them.
+Has a high chance to inflict "Panic".#Ron
 > END STRING
 
 > BEGIN STRING
@@ -3354,8 +3374,9 @@ Brain Suck#Dargoth
 > BEGIN STRING
 相手に甘い吐息を吹きかける
 小確率で相手を恍惚にする
-> CONTEXT: Skills/263/description < UNTRANSLATED
-
+> CONTEXT: Skills/263/description
+Blows a sweet breath onto your opponent.
+Has a small chance to inflict "Ecstasy".#Ron
 > END STRING
 
 > BEGIN STRING
@@ -4002,8 +4023,9 @@ Spell#afrg
 > BEGIN STRING
 相手に優しくキスをする。大切な人のためにとっておこう
 小ダメージを与え、高確率で相手を魅了状態にする。
-> CONTEXT: Skills/310/description < UNTRANSLATED
-
+> CONTEXT: Skills/310/description
+Softly kisses your opponent. Deals a small amount of
+damage and has a high chance to inflict "Charmed".#CheckLater
 > END STRING
 
 > BEGIN STRING
@@ -4050,8 +4072,8 @@ It's an innocent but refined movement!#afrg
 
 > BEGIN STRING
 腰をクイクイと可愛らしく振る、ニーナのオリジナルダンス。
-> CONTEXT: Skills/313/description < UNTRANSLATED
-
+> CONTEXT: Skills/313/description
+One of Nina's dances where she cutely shakes her hips.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -4074,8 +4096,9 @@ Her glamorous ebony body draws close to \\N[1]!#afrg
 
 > BEGIN STRING
 ゆっくりとした艶めかしい、エボニー使用時のダンス。
-> CONTEXT: Skills/314/description < UNTRANSLATED
-
+> CONTEXT: Skills/314/description
+One of Ebony's dance moves where she moves slowly and
+seductively.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -4099,8 +4122,9 @@ She wiggles and shakes her body...#afrgPR
 
 > BEGIN STRING
 激しく腰を動かし相手に見せつける、レイジー使用時のダンス。
-> CONTEXT: Skills/315/description < UNTRANSLATED
-
+> CONTEXT: Skills/315/description
+One of Ivory's dances where she furiously gyrates her hips
+to show off to her opponent.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -4517,8 +4541,8 @@ Binding Spell#Triketos
 
 > BEGIN STRING
 は\\N[1]の後頭部をベロリと嘗めた…
-> CONTEXT: Skills/359/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/359/message1
+ greedily savors the back of \\N[1]'s head...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -4950,8 +4974,9 @@ Erotic Shadow#afrg
 > BEGIN STRING
 エボニーのトドメの搾精ダンス。
 相手に３回中ダメージを与える
-> CONTEXT: Skills/399/description < UNTRANSLATED
-
+> CONTEXT: Skills/399/description
+Ebony's milking finishing dance move.
+Inflicts moderate damage three times.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -4969,8 +4994,9 @@ Dance Lesson#afrg
 > BEGIN STRING
 レイジーのトドメの激しい搾精ダンス。
 相手に８回中ダメージを与える。
-> CONTEXT: Skills/400/description < UNTRANSLATED
-
+> CONTEXT: Skills/400/description
+Ivory's finishing, violent, milking dance move.
+Inflicts moderate damage eight times.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -4987,20 +5013,20 @@ Wild Fuck#afrg
 
 > BEGIN STRING
 ゆっくりとした刺激が、だんだんと心地よくなってくる…
-> CONTEXT: Skills/404/message2 < UNTRANSLATED
-
+> CONTEXT: Skills/404/message2
+The stimulation is gentle, but feels steadily better.#RonIffy
 > END STRING
 
 > BEGIN STRING
 ソフトタッチ
-> CONTEXT: Skills/404/name < UNTRANSLATED
-
+> CONTEXT: Skills/404/name
+Soft Touch#Ron
 > END STRING
 
 > BEGIN STRING
 は\\n[1]のペニスを優しくいじり始めた！
-> CONTEXT: Skills/404/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/404/message1
+ has started to gently play with \\N[1]'s penis!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -5556,8 +5582,9 @@ Magic Electricity#afrg
 > BEGIN STRING
 相手から知識を吸いとる
 最大５段階まで重ねることができ、最後は赤ん坊になる。
-> CONTEXT: Skills/465/description < UNTRANSLATED
-
+> CONTEXT: Skills/465/description
+Suck knowledge out of your opponent. Can stack up to five
+times, at which point they become a baby.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -5583,8 +5610,9 @@ Brain Drain#afrg
 
 > BEGIN STRING
 相手を拘束し、３回連続で快楽小ダメージを与える
-> CONTEXT: Skills/467/description < UNTRANSLATED
-
+> CONTEXT: Skills/467/description
+Bind your opponent, and deal a small amount of pleasure
+damage three times in a row.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -5602,8 +5630,9 @@ Beast Cradle#afrg
 > BEGIN STRING
 相手を拘束（足）状態にし、快楽小ダメージを与える。
 次のターンで搾精体勢にする確率が３倍になる。
-> CONTEXT: Skills/469/description < UNTRANSLATED
-
+> CONTEXT: Skills/469/description
+Binds your opponent's legs and deals a small amount of
+pleasure damage. Increases chances of milking threefold.#CheckLater
 > END STRING
 
 > BEGIN STRING
@@ -5626,8 +5655,8 @@ Piledriver Hold#afrgPR
 
 > BEGIN STRING
 中確率で相手を搾精体勢にする
-> CONTEXT: Skills/470/description < UNTRANSLATED
-
+> CONTEXT: Skills/470/description
+Moderate chance to put your opponent in a milking state.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -5644,8 +5673,8 @@ Copulation Tightening#afrg
 
 > BEGIN STRING
 相手に９回の快楽中ダメージを与える。
-> CONTEXT: Skills/471/description < UNTRANSLATED
-
+> CONTEXT: Skills/471/description
+Deals moderate pleasure damage to your opponent nine times.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -5669,8 +5698,9 @@ In response, \\N[1] makes delighted sounds...#afrg
 > BEGIN STRING
 相手に９回の快楽中ダメージを与える。
 高確率で相手を恍惚にし、MPを最大まで吸収する。
-> CONTEXT: Skills/472/description < UNTRANSLATED
-
+> CONTEXT: Skills/472/description
+Deals moderate pleasure damage nine times. High chance of
+inflicting "Charmed", and absorbs up to your max vitality.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -6199,8 +6229,9 @@ Her vagina greedily vagina greedily drains \\N[1]!!#afrgPR
 > BEGIN STRING
 スフィンクスの必殺技（自称）
 相手に対して5回連続大ダメージを与えて、まれに恍惚にする
-> CONTEXT: Skills/522/description < UNTRANSLATED
-
+> CONTEXT: Skills/522/description
+Sphinx's (self-proclaimed) killer technique. Deals heavy
+damage five times, small chance to inflict "Ecstacy".#Ron
 > END STRING
 
 > BEGIN STRING
@@ -6212,14 +6243,15 @@ Reverse Piledriver#afrgPR
 > BEGIN STRING
 相手に対してなぞなぞを問いかける。
 例の問題以外、あんまり難しいのは出せない
-> CONTEXT: Skills/523/description < UNTRANSLATED
-
+> CONTEXT: Skills/523/description
+Asks your opponent a riddle.
+Apart from "that" riddle, it can't be too hard.#RonIffy
 > END STRING
 
 > BEGIN STRING
 なぞかけ
-> CONTEXT: Skills/523/name < UNTRANSLATED
-
+> CONTEXT: Skills/523/name
+Ask a Riddle#Ron
 > END STRING
 
 > BEGIN STRING
@@ -6242,20 +6274,20 @@ Snake's Cruel Play#afrgPR
 
 > BEGIN STRING
 は\\n[1]の首筋に牙を立て、精気を吸い始めた…！
-> CONTEXT: Skills/525/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/525/message1
+ buries her fangs in \\N[1]'s neck, sucking his essence!#Ron
 > END STRING
 
 > BEGIN STRING
 吸血
-> CONTEXT: Skills/526/name < UNTRANSLATED
-
+> CONTEXT: Skills/526/name
+Blood Suck#Ron
 > END STRING
 
 > BEGIN STRING
 は\\n[1]の首筋に牙を立て、血を吸い始めた…！
 > CONTEXT: Skills/526/message1 < UNTRANSLATED
-
+ buries her fangs in \\N[1]'s neck, sucking his blood!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -6453,53 +6485,57 @@ Wind Burst#afrg
 > BEGIN STRING
 敵単体に火属性ダメージを与える。
 \\C[10]相手が誘惑している時に選択する事は死を意味する。
-> CONTEXT: Skills/544/description < UNTRANSLATED
-
+> CONTEXT: Skills/544/description
+Deals fire damage to a single enemy.
+\\C[10]Means death when used while an enemy is tempting you.#CheckLater
 > END STRING
 
 > BEGIN STRING
 火炎剣
-> CONTEXT: Skills/544/name < UNTRANSLATED
-
+> CONTEXT: Skills/544/name
+Flame Sword#Ron
 > END STRING
 
 > BEGIN STRING
 敵単体に氷属性ダメージを与える。
 \\C[10]相手が誘惑している時に選択する事は死を意味する。
-> CONTEXT: Skills/545/description < UNTRANSLATED
-
+> CONTEXT: Skills/545/description
+Deals ice damage to a single enemy.
+\\C[10]Means death when used while an enemy is tempting you.#CheckLater
 > END STRING
 
 > BEGIN STRING
 氷結剣
-> CONTEXT: Skills/545/name < UNTRANSLATED
-
+> CONTEXT: Skills/545/name
+Frozen Sword#Ron
 > END STRING
 
 > BEGIN STRING
 敵単体に雷属性のダメージを与える。
 \\C[10]相手が誘惑している時に選択する事は死を意味する。
-> CONTEXT: Skills/546/description < UNTRANSLATED
-
+> CONTEXT: Skills/546/description
+Deals eletric damage to a single enemy.
+\\C[10]Means death when used while an enemy is tempting you.#CheckLater
 > END STRING
 
 > BEGIN STRING
 雷撃剣
-> CONTEXT: Skills/546/name < UNTRANSLATED
-
+> CONTEXT: Skills/546/name
+Shock Sword
 > END STRING
 
 > BEGIN STRING
 敵単体に風属性ダメージを与える。
 \\C[10]相手が誘惑している時に選択する事は死を意味する。
-> CONTEXT: Skills/547/description < UNTRANSLATED
-
+> CONTEXT: Skills/547/description
+Deals wind damage to a single enemy.
+\\C[10]Means death when used while an enemy is tempting you.#CheckLater
 > END STRING
 
 > BEGIN STRING
 疾風剣
-> CONTEXT: Skills/547/name < UNTRANSLATED
-
+> CONTEXT: Skills/547/name
+Wind Sword#Ron
 > END STRING
 
 > BEGIN STRING
@@ -7625,14 +7661,14 @@ Power of Atonement#afrg
 
 > BEGIN STRING
 ハーピーモドキの長い舌が、ねっとりと侵入してくる…！
-> CONTEXT: Skills/733/message2 < UNTRANSLATED
-
+> CONTEXT: Skills/733/message2
+The Harpy Spawn's long, sticky tongue invades his mouth!#Ron
 > END STRING
 
 > BEGIN STRING
 相手の全能力を２段階下げる。
-> CONTEXT: Skills/735/description < UNTRANSLATED
-
+> CONTEXT: Skills/735/description
+Lowers your opponent's full capacity by two levels.#CheckLater
 > END STRING
 
 > BEGIN STRING
@@ -7699,8 +7735,9 @@ Mother Rabbit wraps \\N[1] in a hug! !#afrg
 > BEGIN STRING
 雷属性の超特大ダメージを与える。
 これを覚えるのには強大な魔力を操れる必要がある。
-> CONTEXT: Skills/741/description < UNTRANSLATED
-
+> CONTEXT: Skills/741/description
+Deals huge electric damage. Being able to wield powerful
+magic is necessary in order to learn this.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -7730,8 +7767,9 @@ Made his huge body crawl and hit his opponent!#MTLed
 > BEGIN STRING
 相手に5回の物理大ダメージ。
 とても疲れるので滅多にやらない
-> CONTEXT: Skills/747/description < UNTRANSLATED
-
+> CONTEXT: Skills/747/description
+Deals heavy physical damage five times.
+Will wear you out so don't use this recklessly.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -8556,15 +8594,15 @@ Special accident battles can occur against this monster.#Triketos
 
 > BEGIN STRING
 身体を左右から抱きしめられ、全く逃れられない……！！
-> CONTEXT: Skills/829/message2 < UNTRANSLATED
-> CONTEXT: Skills/830/message2 < UNTRANSLATED
+> CONTEXT: Skills/829/message2
+> CONTEXT: Skills/830/message2
 Pressed between the two bodies, he is unable to escape!#Triketos
 > END STRING
 
 > BEGIN STRING
 人魚たちの重奏曲
-> CONTEXT: Skills/829/name < UNTRANSLATED
-> CONTEXT: Skills/830/name < UNTRANSLATED
+> CONTEXT: Skills/829/name
+> CONTEXT: Skills/830/name
 Mermaid's Quartet#Triketos
 > END STRING
 
@@ -8601,114 +8639,114 @@ Sea Mother's Funeral March
 
 > BEGIN STRING
 \\N[1]の身体に強烈な刺激が電撃のように走る…！！
-> CONTEXT: Skills/836/message2 < UNTRANSLATED
-
+> CONTEXT: Skills/836/message2
+\\N[1]'s body is hit with a surge of pleasure!!#Ron
 > END STRING
 
 > BEGIN STRING
 狂乱の淫靡吐息
-> CONTEXT: Skills/836/name < UNTRANSLATED
-
+> CONTEXT: Skills/836/name
+Breath of Debauchery#Ron
 > END STRING
 
 > BEGIN STRING
 はパーカーの中に吐息を吹き込んだ！
-> CONTEXT: Skills/836/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/836/message1
+ blows into the hoodie!#Ron
 > END STRING
 
 > BEGIN STRING
 全身にゾクゾクと快感が巡ってくる…！
-> CONTEXT: Skills/837/message2 < UNTRANSLATED
-
+> CONTEXT: Skills/837/message2
+Giddy pleasure swirls through his whole body!!#Ron
 > END STRING
 
 > BEGIN STRING
 吟味の舌技
-> CONTEXT: Skills/837/name < UNTRANSLATED
-
+> CONTEXT: Skills/837/name
+Probing Tongue Technique#RonLocalisation
 > END STRING
 
 > BEGIN STRING
 は\\N[1]の首筋をねっとりと舐めた…
-> CONTEXT: Skills/837/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/837/message1
+ messily licks the nape of \\N[1]'s neck...#Ron
 > END STRING
 
 > BEGIN STRING
 おいはらう
-> CONTEXT: Skills/838/name < UNTRANSLATED
-
+> CONTEXT: Skills/838/name
+Disperse#Ron
 > END STRING
 
 > BEGIN STRING
 はバーゲストの足元に向かってツタを振った！
-> CONTEXT: Skills/838/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/838/message1
+ throws ivy out toward Barghest's feet!#Ron
 > END STRING
 
 > BEGIN STRING
 とびかかり
-> CONTEXT: Skills/840/name < UNTRANSLATED
-
+> CONTEXT: Skills/840/name
+Leap At#Ron
 > END STRING
 
 > BEGIN STRING
 身体全体の精気が、気持ちよく吸われているを感じる…
-> CONTEXT: Skills/845/message2 < UNTRANSLATED
-
+> CONTEXT: Skills/845/message2
+He feels his essence pleasurably sucked out!#Ron
 > END STRING
 
 > BEGIN STRING
 夢魔の棺桶
-> CONTEXT: Skills/845/name < UNTRANSLATED
-
+> CONTEXT: Skills/845/name
+Demon Coffin#Ron
 > END STRING
 
 > BEGIN STRING
 の衣服が、ぎゅうぎゅうと心地よい締め付けをする
-> CONTEXT: Skills/845/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/845/message1
+'s clothes become pleasurably tighter.#Ron
 > END STRING
 
 > BEGIN STRING
 容赦ないヘカーテの攻めが、程よい痛さと快感を与える…！
-> CONTEXT: Skills/850/message2 < UNTRANSLATED
-
+> CONTEXT: Skills/850/message2
+Her merciless attack brings both pleasure and pain.#CheckLater
 > END STRING
 
 > BEGIN STRING
 脚戯れ
-> CONTEXT: Skills/850/name < UNTRANSLATED
-
+> CONTEXT: Skills/850/name
+Leg Play#RonIffy
 > END STRING
 
 > BEGIN STRING
 蹴り
-> CONTEXT: Skills/851/name < UNTRANSLATED
-
+> CONTEXT: Skills/851/name
+Kick
 > END STRING
 
 > BEGIN STRING
 は\\N[1]のペニスを思いっきり蹴った！
-> CONTEXT: Skills/851/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/851/message1
+ kicks \\N[1] in the crotch with all her strength!#CheckLater
 > END STRING
 
 > BEGIN STRING
 プニプニとした柔らかい何かが、ペニスをゆっくりと刺激する…
-> CONTEXT: Skills/853/message2 < UNTRANSLATED
-
+> CONTEXT: Skills/853/message2
+Something squishy and soft gently stimulates his penis.#Ron
 > END STRING
 
 > BEGIN STRING
 魔王の戯れ
-> CONTEXT: Skills/853/name < UNTRANSLATED
-
+> CONTEXT: Skills/853/name
+Demon Queen's Play#Ron
 > END STRING
 
 > BEGIN STRING
 は\\n[1]に跨がって、身体を揺らし始めた…
-> CONTEXT: Skills/853/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/853/message1
+ mounts \\N[1] and starts rocking her body...#Ron
 > END STRING
