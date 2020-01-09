@@ -6487,13 +6487,13 @@ Wind Burst#afrg
 \\C[10]相手が誘惑している時に選択する事は死を意味する。
 > CONTEXT: Skills/544/description
 Deals fire damage to a single enemy.
-\\C[10]Means death when used while an enemy is tempting you.#CheckLater
+\\C[10]If opponent is luring you in, this move is suicide.#Dargoth/Ron
 > END STRING
 
 > BEGIN STRING
 火炎剣
 > CONTEXT: Skills/544/name
-Flame Sword#Ron
+Inferno Slash#Ron
 > END STRING
 
 > BEGIN STRING
@@ -6501,27 +6501,27 @@ Flame Sword#Ron
 \\C[10]相手が誘惑している時に選択する事は死を意味する。
 > CONTEXT: Skills/545/description
 Deals ice damage to a single enemy.
-\\C[10]Means death when used while an enemy is tempting you.#CheckLater
+\\C[10]If opponent is luring you in, this move is suicide.#Dargoth/Ron
 > END STRING
 
 > BEGIN STRING
 氷結剣
 > CONTEXT: Skills/545/name
-Frozen Sword#Ron
+Piercing Hail#Ron/Triketos
 > END STRING
 
 > BEGIN STRING
 敵単体に雷属性のダメージを与える。
 \\C[10]相手が誘惑している時に選択する事は死を意味する。
 > CONTEXT: Skills/546/description
-Deals eletric damage to a single enemy.
-\\C[10]Means death when used while an enemy is tempting you.#CheckLater
+Deals electric damage to a single enemy.
+\\C[10]If opponent is luring you in, this move is suicide.#Dargoth/Ron
 > END STRING
 
 > BEGIN STRING
 雷撃剣
 > CONTEXT: Skills/546/name
-Shock Sword
+Lightning Strike#Ron
 > END STRING
 
 > BEGIN STRING
@@ -6529,13 +6529,13 @@ Shock Sword
 \\C[10]相手が誘惑している時に選択する事は死を意味する。
 > CONTEXT: Skills/547/description
 Deals wind damage to a single enemy.
-\\C[10]Means death when used while an enemy is tempting you.#CheckLater
+\\C[10]If opponent is luring you in, this move is suicide.#Dargoth/Ron
 > END STRING
 
 > BEGIN STRING
 疾風剣
 > CONTEXT: Skills/547/name
-Wind Sword#Ron
+Aether Slice#Ron
 > END STRING
 
 > BEGIN STRING
