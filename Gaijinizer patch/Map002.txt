@@ -375,7 +375,7 @@ with in the main story.#Triketos
 > CONTEXT: Map002/events/1/pages/0/549/Choice/1
 > CONTEXT: Map002/events/1/pages/0/549/Choice/2
 > CONTEXT: Map002/events/1/pages/0/549/Choice/3
-<Not Implemented\>en(s[9999])#Triketos
+<Not Implemented>en(s[9999])#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -560,6 +560,7 @@ Empuse#Dargoth
 > CONTEXT: Map002/events/1/pages/0/781/InlineScript/1:24
 > CONTEXT: Map002/events/1/pages/0/833/InlineScript/1:24
 > CONTEXT: Map002/events/1/pages/0/841/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/849/InlineScript/1:24 < UNTRANSLATED
 > CONTEXT: Map002/events/1/pages/0/920/InlineScript/1:24
 > CONTEXT: Map002/events/1/pages/0/928/InlineScript/1:24
 > CONTEXT: Map002/events/1/pages/0/980/InlineScript/1:24
@@ -2246,7 +2247,7 @@ Hecate & barghestif(s[23])#MTLed
 > CONTEXT: Map002/events/1/pages/1/970/ChoiceHelp
 > CONTEXT: Map002/events/1/pages/1/1021/ChoiceHelp
 > CONTEXT: Map002/events/1/pages/1/1074/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/1/1174/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/1/1184/ChoiceHelp
 > CONTEXT: Map002/events/1/pages/3/9/ChoiceHelp 
 > CONTEXT: Map002/events/1/pages/3/45/ChoiceHelp 
 > CONTEXT: Map002/events/1/pages/3/137/ChoiceHelp 
@@ -3059,6 +3060,7 @@ Daiji & Maiden & Archenyif(s[33])#MTLed
 > BEGIN STRING
 ヘカーテ if(s[537])
 > CONTEXT: Map002/events/1/pages/1/1152/Choice/0 < UNTRANSLATED
+> CONTEXT: Map002/events/1/pages/1/1162/Choice/0 < UNTRANSLATED
 > CONTEXT: Map002/events/1/pages/4/337/Choice/1 < UNTRANSLATED
 
 > END STRING
@@ -3070,20 +3072,26 @@ Daiji & Maiden & Archenyif(s[33])#MTLed
 > END STRING
 
 > BEGIN STRING
-クイーン＆悪役ボス if(s[33])
-> CONTEXT: Map002/events/1/pages/1/1162/Choice/0 < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-\\\>\\r[104]作者：飛鳥暮人様
+\\\>\\r[118]作者：遊見 鏡様
 > CONTEXT: Map002/events/1/pages/1/1164/ChoiceHelp < UNTRANSLATED
 
 > END STRING
 
 > BEGIN STRING
+クイーン＆悪役ボス if(s[33])
+> CONTEXT: Map002/events/1/pages/1/1172/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\\>\\r[104]作者：飛鳥暮人様
+> CONTEXT: Map002/events/1/pages/1/1174/ChoiceHelp < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
 メニュー画面に戻る
-> CONTEXT: Map002/events/1/pages/1/1172/Choice/0
+> CONTEXT: Map002/events/1/pages/1/1182/Choice/0
 > CONTEXT: Map002/events/1/pages/2/508/Choice/0
 > CONTEXT: Map002/events/1/pages/3/721/Choice/0
 > CONTEXT: Map002/events/1/pages/4/356/Choice/0
@@ -3413,8 +3421,20 @@ chapter9　枯渇　-depletion-
 > END STRING
 
 > BEGIN STRING
-『ニーナちゃんとカズヤくんがイチャイチャするだけ』
-> CONTEXT: Map002/events/1/pages/2/479/Choice/0 < UNTRANSLATED
+\\C[27]〔Ｈ〕\\C[0]『ニーナちゃんとカズヤくんがイチャイチャするだけ』
+> CONTEXT: Map002/events/1/pages/2/486/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[27]〔Ｈ〕\\C[0]『『母なる悪魔』へようこそ』
+> CONTEXT: Map002/events/1/pages/2/497/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\\>作者　　　　　　：湧水
+> CONTEXT: Map002/events/1/pages/2/499/ChoiceHelp < UNTRANSLATED
 
 > END STRING
 
