@@ -1080,8 +1080,8 @@ Violent Rage#afrg
 足元に気をつけながら逃げる
 成功率は確実ではないが、かなり気力を抑えられる
 > CONTEXT: Skills/69/description
-Run away while watching your step. Success not
-guaranteed, but preserves vitality.#CheckLater
+Carefully tries to flee from combat. Success not
+guaranteed, but preserves vitality.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1129,7 +1129,8 @@ Desperate Dash#Ron
 相手に見逃してもらうように懇願する
 相手のＳ心を刺激する結果にしかならないだろう
 > CONTEXT: Skills/72/description
-Plead with your opponent to spare your life.#CheckLater
+Plead with your opponent to spare your life.
+May only excite particularly sadistic opponents.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -3226,8 +3227,8 @@ Death Scythe#Dargoth
 相手を拘束する技。
 戦闘態勢での使用時、希に出血することがある
 > CONTEXT: Skills/251/description
-A technique to capture your opponent.
-Small chance to inflict "Bleeding".#CheckLater
+A technique to bind your opponent. When used in combat
+stance, has a small chance to inflict "Bleeding".#Ron
 > END STRING
 
 > BEGIN STRING
@@ -3247,8 +3248,8 @@ Capture Fall#Dargoth
 高確率でスタン付与
 > CONTEXT: Skills/252/description
 > CONTEXT: Skills/851/description
-Deals a small amount of damage.
-High chance to inflict "Stun".#CheckLater
+Deals a small amount of physical damage.
+High chance to inflict "Stun".#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -4024,8 +4025,8 @@ Spell#afrg
 相手に優しくキスをする。大切な人のためにとっておこう
 小ダメージを与え、高確率で相手を魅了状態にする。
 > CONTEXT: Skills/310/description
-Softly kisses your opponent. Deals a small amount of
-damage and has a high chance to inflict "Charmed".#CheckLater
+Softly kisses your opponent, keep this in reserve for that
+special someone. Deals a small amount of damage and has a high chance to inflict "Charmed".#CheckLater
 > END STRING
 
 > BEGIN STRING
@@ -5632,7 +5633,7 @@ Beast Cradle#afrg
 次のターンで搾精体勢にする確率が３倍になる。
 > CONTEXT: Skills/469/description
 Binds your opponent's legs and deals a small amount of
-pleasure damage. Increases chances of milking threefold.#CheckLater
+pleasure damage. Increases chances of milking threefold.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -8712,7 +8713,7 @@ Demon Coffin#Ron
 > BEGIN STRING
 容赦ないヘカーテの攻めが、程よい痛さと快感を与える…！
 > CONTEXT: Skills/850/message2
-Her merciless attack brings both pleasure and pain.#CheckLater
+Her merciless attack brings both pleasure and pain.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -8730,7 +8731,7 @@ Kick
 > BEGIN STRING
 は\\N[1]のペニスを思いっきり蹴った！
 > CONTEXT: Skills/851/message1
- kicks \\N[1] in the crotch with all her strength!#CheckLater
+ kicks \\N[1] in the crotch with all her strength!#Ron
 > END STRING
 
 > BEGIN STRING
