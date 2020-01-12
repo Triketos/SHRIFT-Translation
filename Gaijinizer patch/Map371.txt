@@ -1,8 +1,8 @@
 ﻿> GAIJINIZER PATCH FILE
 > BEGIN STRING
 届かない……
-> CONTEXT: Map371/events/1/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map371/events/1/pages/0/1/Dialogue
+Not going to reach...#GT
 > END STRING
 
 > BEGIN STRING
@@ -10,6 +10,9 @@
 
 \\C[2]別のクリスタルを探して触れなければ
 この世界軸から脱出することはできない…
-> CONTEXT: Map371/events/70/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map371/events/70/pages/0/1/Dialogue
+This crystal has been disabled ...
 
+\\C[2]You can't escape from this world axis
+without finding and touching another crystal...#GT
 > END STRING
