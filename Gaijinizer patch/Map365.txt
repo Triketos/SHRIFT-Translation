@@ -3,16 +3,20 @@
 来たね、\\N[1]くん♪
 
 ようこそ！アタシの部屋に！
-> CONTEXT: Map365/events/1/pages/0/8/Dialogue/enemy2 < UNTRANSLATED
+> CONTEXT: Map365/events/1/pages/0/8/Dialogue/enemy2
+You came, \\N[1]-kun ♪
 
+Welcome to my room!#TriketosPartial
 > END STRING
 
 > BEGIN STRING
 女の子の部屋だからって、遠慮はいらないよ？
 
 ゆっくり、くつろいでいってね！
-> CONTEXT: Map365/events/1/pages/0/12/Dialogue/enemy2 < UNTRANSLATED
+> CONTEXT: Map365/events/1/pages/0/12/Dialogue/enemy2
+Don't be shy about being in a girl's room.
 
+Please relax slowly!#TriketosPartial
 > END STRING
 
 > BEGIN STRING
@@ -20,8 +24,11 @@
 
 \\N[1]くん、ゆっくりなんてしたくないって顔してるね
 分かるよ、アタシを倒したいんでしょ？
-> CONTEXT: Map365/events/1/pages/0/21/Dialogue/enemy2 < UNTRANSLATED
+> CONTEXT: Map365/events/1/pages/0/21/Dialogue/enemy2
+...
 
+\\N[1]-kun, you don't want to take it slow...
+You want to beat me, don't you?#TriketosPartial
 > END STRING
 
 > BEGIN STRING
@@ -29,7 +36,9 @@
 
 最近は魔力を利用した弾丸を作って、マシになった方だけど
 妲己なんか見てると、よく分かるでしょ？
-> CONTEXT: Map365/events/1/pages/0/26/Dialogue/enemy2 < UNTRANSLATED
+> CONTEXT: Map365/events/1/pages/0/26/Dialogue/enemy2
+But honestly, human weapons don't work on me.#TriketosPartial
+
 
 > END STRING
 
@@ -38,8 +47,11 @@
 
 でも、それじゃあフェアじゃない、って思わない？
 せっかくの自分の実力を全然出せないなんて、さ。
-> CONTEXT: Map365/events/1/pages/0/31/Dialogue/enemy2 < UNTRANSLATED
-
+> CONTEXT: Map365/events/1/pages/0/31/Dialogue/enemy2
+So with the weapons of the human world today,
+you can't beat me. 
+But don't you think it's not fair?
+I can't show my skills at all.#TriketosPartial
 > END STRING
 
 > BEGIN STRING
@@ -47,8 +59,11 @@
 『勝負』ってなるからには、駆け引きが必要だと思うの。
 
 だから、ちょっとハンデをあげる♪
-> CONTEXT: Map365/events/1/pages/0/36/Dialogue/enemy2 < UNTRANSLATED
+> CONTEXT: Map365/events/1/pages/0/36/Dialogue/enemy2
+I like to play with weak guys, but I think
+bargaining is necessary for it to be a "game".
 
+Therefore, I'll give myself a little handicap♪#TriketosPartial
 > END STRING
 
 > BEGIN STRING
@@ -56,8 +71,11 @@
 
 うちの実家に伝わる聖剣から、趣味で集めた妖刀まで
 魔力を備えた武器をいろいろ揃えてあげたの！
-> CONTEXT: Map365/events/1/pages/0/44/Dialogue/enemy2 < UNTRANSLATED
-
+> CONTEXT: Map365/events/1/pages/0/44/Dialogue/enemy2
+Jan~♪ We have a variety of weapons with
+magical powers, from the holy sword passed
+down to our parents' home to the swords
+collected for hobbies!#TriketosPartial
 > END STRING
 
 > BEGIN STRING
@@ -65,22 +83,27 @@
 
 これを使えば、いくら\\N[1]くんが人間であっても
 私に一矢報いることぐらいはできるんじゃないの？
-> CONTEXT: Map365/events/1/pages/0/49/Dialogue/enemy2 < UNTRANSLATED
-
+> CONTEXT: Map365/events/1/pages/0/49/Dialogue/enemy2
+All of them are powerful enough to counter the 
+magic of the Demon King! If you use these, you
+can fight against me even though \\N[1]-kun
+is a human being.#TriketosPartial
 > END STRING
 
 > BEGIN STRING
 さっきも言ったとおり、遠慮なんてしなくていいわよ？
 
 さぁ…どれで私を攻撃する？
-> CONTEXT: Map365/events/1/pages/0/54/Dialogue/enemy2 < UNTRANSLATED
+> CONTEXT: Map365/events/1/pages/0/54/Dialogue/enemy2
+As I said, don't be shy.
 
+Now... how will you attack me?#TriketosPartial
 > END STRING
 
 > BEGIN STRING
 ……………僕は\\C[2]攻撃しない
-> CONTEXT: Map365/events/1/pages/0/63/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map365/events/1/pages/0/63/Dialogue/kazuya
+......I'm \\C[2]not going to attack.#TriketosPartial
 > END STRING
 
 > BEGIN STRING
@@ -88,22 +111,26 @@
 
 自分の銃でも、魔法でも。
 その剣たちを使ったりもしない
-> CONTEXT: Map365/events/1/pages/0/67/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map365/events/1/pages/0/67/Dialogue/kazuya
+.......I'm not \\C[2]attacking you\\C[0],
+whether it's my own guns and magic,
+or your swords.#TriketosPartial
 > END STRING
 
 > BEGIN STRING
 理由は、キミが一番よく分かっているはずだ、ヘカーテ。
 
 \\C[2]それこそが、狙いなんだろう？
-> CONTEXT: Map365/events/1/pages/0/72/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map365/events/1/pages/0/72/Dialogue/kazuya
+You should know the reason best, Hecate. 
 
+\\C[2]"That" is what you're trying to do, isn't it?#TriketosPartial
 > END STRING
 
 > BEGIN STRING
 ど、どういうことだよ、\\N[1]…！？
-> CONTEXT: Map365/events/1/pages/0/78/Dialogue/other2 < UNTRANSLATED
-
+> CONTEXT: Map365/events/1/pages/0/78/Dialogue/other2
+W-what do you mean, \\N[1]...!?#TriketosPartial
 > END STRING
 
 > BEGIN STRING
@@ -111,8 +138,11 @@
 
 \\C[2]『僕が敵意をもって悪魔を傷つける』という行為自体が
 \\C[10]『あれ』\\C[2]が僕を堕とすために必要なトリガー
-> CONTEXT: Map365/events/1/pages/0/81/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map365/events/1/pages/0/81/Dialogue/kazuya
+I'm not sure yet, but...
+\\C[2]The act of me "hurting a demon with hostility"
+is a necessary trigger so that \\C[10]"That"\\C[2] can
+corrupt me.#TriketosPartial
 > END STRING
 
 > BEGIN STRING
@@ -120,8 +150,11 @@
 
 モルモーは、その媒体に利用されたにすぎない
 そして、僕を引きずり込む試みは失敗した…
-> CONTEXT: Map365/events/1/pages/0/86/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map365/events/1/pages/0/86/Dialogue/kazuya
+Yeah... \\C[10]"That"\\C[2] was her target
+from the beginning.
+Mormo was only used for that medium and her
+attempt to drag me in failed...#TriketosPartial
 > END STRING
 
 > BEGIN STRING
@@ -129,8 +162,11 @@
 
 僕が現時点で『敵意を持って攻撃する悪魔』となると
 自分が一番適役だと思ったんだろう。
-> CONTEXT: Map365/events/1/pages/0/91/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map365/events/1/pages/0/91/Dialogue/kazuya
+That's why \\C[2]you fought this time.
 
+If I need to "attack a devil with hostility",
+you probably thought you were the most suitable.#TriketosPartial
 > END STRING
 
 > BEGIN STRING
@@ -138,8 +174,11 @@
 
 キミが僕を恨む理由はいくつかあるだろうけど…
 \\C[2]僕が君を恨む理由は１つもない
-> CONTEXT: Map365/events/1/pages/0/98/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map365/events/1/pages/0/98/Dialogue/kazuya
+But there is one problem to achieve that.
 
+There may be several reasons why you hate me...
+\\C[2]But I have no reason to hate you.#TriketosPartial
 > END STRING
 
 > BEGIN STRING
@@ -147,16 +186,21 @@
 多かれ少なかれ『つながり』を持たせること……
 
 そして\\C[10]『あれ』\\C[2]がモルモーを欲しがるように…
-> CONTEXT: Map365/events/1/pages/0/103/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map365/events/1/pages/0/103/Dialogue/kazuya
+What made Mormo meet me was that \\C[2]I got along
+with her and had a "connection"...
 
+And \\C[10]"That"\\C[2] wanted Mormo...#TriketosPartial
 > END STRING
 
 > BEGIN STRING
 その後、キミは、モルモーの命を軽んずる自分を見せ、
 
 僕を怒らせて、『敵意を向けて』キミを攻撃させる…
-> CONTEXT: Map365/events/1/pages/0/108/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map365/events/1/pages/0/108/Dialogue/kazuya
+After that, you show yourself to disrespect
+Mormo's life, make me angry enough to attack you
+and 'be hostile'...#TriketosPartial
 > END STRING
 
 > BEGIN STRING
@@ -164,8 +208,11 @@
 モルモーは\\C[2]お前を本気にさせるための材料…
 
 それで悪魔に敵意を持たせる事自体が、目的…
-> CONTEXT: Map365/events/1/pages/0/113/Dialogue/other2 < UNTRANSLATED
-
+> CONTEXT: Map365/events/1/pages/0/113/Dialogue/other2
+What do you mean......
+Mormo is \\C[2]the reason to make you take this
+seriously... So the reason of making you hostile
+towards her is...#TriketosPartial
 > END STRING
 
 > BEGIN STRING
@@ -173,8 +220,11 @@
 モルモーを使ったトリガーは失敗して…
 
 今度はヘカーテ自身がそのトリガーってことか…！
-> CONTEXT: Map365/events/1/pages/0/118/Dialogue/other2 < UNTRANSLATED
+> CONTEXT: Map365/events/1/pages/0/118/Dialogue/other2
+\\N[1] tried to help Mormo until the end,
+so using Mormo as a trigger failed...
 
+This time, Hecate herself is the trigger...!#TriketosPartial
 > END STRING
 
 > BEGIN STRING
@@ -182,8 +232,11 @@
 『僕の存在の抹消』……
 
 おおかたそんな感じだろう
-> CONTEXT: Map365/events/1/pages/0/123/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map365/events/1/pages/0/123/Dialogue/kazuya
+\\C[0]The condition that you cooperated with 
+\\C[10]"that"\\C[0] is "the elimination of my
+ existence"......
+It's probably like that.#TriketosPartial
 > END STRING
 
 > BEGIN STRING
@@ -191,14 +244,17 @@
 
 でもあえて、\\C[10]『あれ』\\C[0]に協力したのは
 僕を、徹底的に再起不能にするためなんじゃないか？
-> CONTEXT: Map365/events/1/pages/0/128/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map365/events/1/pages/0/128/Dialogue/kazuya
+If you're going to get revenge on me, 
+your ability is enough... But if I dared to
+cooperate with \\C[10]'that'\\C[0], it would make
+me impossible to recover thoroughly, wouldn't it?#TriketosPartial
 > END STRING
 
 > BEGIN STRING
 …………ムカつく。
-> CONTEXT: Map365/events/1/pages/0/136/Dialogue/enemy3 < UNTRANSLATED
-
+> CONTEXT: Map365/events/1/pages/0/136/Dialogue/enemy3
+......I'm angry.#TriketosPartial
 > END STRING
 
 > BEGIN STRING
@@ -206,8 +262,11 @@
 その『相手のことなんでも分かってます』みたいな態度。
 
 だからあんなキモいのにも手を貸してやってるの
-> CONTEXT: Map365/events/1/pages/0/138/Dialogue/enemy3 < UNTRANSLATED
+> CONTEXT: Map365/events/1/pages/0/138/Dialogue/enemy3
+That "I know everything about everyone else"
+attitude is so annoying.
 
+That's why I'm helping out with such a bad thing.#TriketosPartial
 > END STRING
 
 > BEGIN STRING
@@ -215,8 +274,11 @@
 相手の一手先を読むのは
 
 何度惨めにやられても、何度だって立ち上がれるのは
-> CONTEXT: Map365/events/1/pages/0/143/Dialogue/enemy3 < UNTRANSLATED
-
+> CONTEXT: Map365/events/1/pages/0/143/Dialogue/enemy3
+You'll feel good, no matter how hard it is to
+read your opponent's minions.
+No how many times you have to get up to
+your feet.#TriketosPartial
 > END STRING
 
 > BEGIN STRING
@@ -224,16 +286,21 @@
 
 まぁ、結局倒せるような実力は持ってないでしょうけど
 なにか秘策でもあるのかしら？
-> CONTEXT: Map365/events/1/pages/0/151/Dialogue/enemy2 < UNTRANSLATED
-
+> CONTEXT: Map365/events/1/pages/0/151/Dialogue/enemy2
+But... how are you going to defeat me if
+you aren't going to attack?
+Well, you probably don't have the ability to
+defeat me, but do you have a secret plan?#TriketosPartial
 > END STRING
 
 > BEGIN STRING
 アハハハッ！！！♪
 
 流石にそこまでは考えられなかったみたいね？
-> CONTEXT: Map365/events/1/pages/0/160/Dialogue/enemy2 < UNTRANSLATED
+> CONTEXT: Map365/events/1/pages/0/160/Dialogue/enemy2
+Ahahaha!!! ♪
 
+Sounds like you couldn't think of one, right?#TriketosPartial
 > END STRING
 
 > BEGIN STRING
@@ -241,18 +308,21 @@
 虫みたいに息絶えるアンタが見たかったんだけど……
 
 いいわ、『相手』してあげる♡
-> CONTEXT: Map365/events/1/pages/0/164/Dialogue/enemy2 < UNTRANSLATED
+> CONTEXT: Map365/events/1/pages/0/164/Dialogue/enemy2
+I really wanted to see you bleeding and
+crawling like an insect...
 
+Okay then, I'll do it the "other" way... ♡#TriketosPartial
 > END STRING
 
 > BEGIN STRING
 \\N[1]くん好みの、愉しーい方法でね♡
-> CONTEXT: Map365/events/1/pages/0/169/Dialogue/enemy2 < UNTRANSLATED
-
+> CONTEXT: Map365/events/1/pages/0/169/Dialogue/enemy2
+\\N[1]-kun's favorite, fun way~ ♡#TriketosPartial
 > END STRING
 
 > BEGIN STRING
 剣
-> CONTEXT: System/weapon_types/4 < UNTRANSLATED
-
+> CONTEXT: System/weapon_types/4
+Sword#Triketos
 > END STRING

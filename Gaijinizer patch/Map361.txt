@@ -1,24 +1,28 @@
 ﻿> GAIJINIZER PATCH FILE
 > BEGIN STRING
 ワウッ！！ワウッ！！！
-> CONTEXT: Map361/events/10/pages/0/26/Dialogue/バーゲスト < UNTRANSLATED
-
+> CONTEXT: Map361/events/10/pages/0/26/Dialogue/バーゲスト
+Bark!! Bark!!#TriketosPartial
 > END STRING
 
 > BEGIN STRING
 も、モルモー…！！！
 
 待って…！！！
-> CONTEXT: Map361/events/10/pages/0/28/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map361/events/10/pages/0/28/Dialogue/kazuya
+M-Mormo...!!!
 
+W-wait...!!!#Triketos
 > END STRING
 
 > BEGIN STRING
 モルモーは、バーゲストや\\N[1]に気付かないまま
 
 一目散にゲストとは反対側の楽屋に入っていった…
-> CONTEXT: Map361/events/10/pages/0/34/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map361/events/10/pages/0/34/Dialogue
+Mormo went into the dressing room on the other
+side of the guest without noticing the
+Barghest or \\N[1]...#TriketosPartial
 > END STRING
 
 > BEGIN STRING
@@ -26,6 +30,9 @@
 さすがにこれは僕にも分かる……
 
 早く彼女を止めないと、何かマズいことになる…！
-> CONTEXT: Map361/events/10/pages/0/43/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map361/events/10/pages/0/43/Dialogue/kazuya
+Oh, Barghest...
+As expected, you knew this...
+If I don't stop her soon,
+something will go wrong...!#GT
 > END STRING
