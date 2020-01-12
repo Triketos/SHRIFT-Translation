@@ -12658,8 +12658,10 @@ Lampas(Normal)#Triketos
 私も手荒なことしないって『約束』してあげるから
 
 あなたも、ひとつ約束してもらっていい？
-> CONTEXT: Troops/314/pages/1/32/Dialogue/enemy2 < UNTRANSLATED
-
+> CONTEXT: Troops/314/pages/1/32/Dialogue/enemy2
+Oh, that's right....
+I'll make a "promise" that I won't do anything
+rough, so can I have one promise from you, too?#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -12667,8 +12669,12 @@ Lampas(Normal)#Triketos
 『リセット』したり、『ゲームを閉じる』の禁止！
 
 \\C[0]負けそうになったときとか、絶対にダメだからね？
-> CONTEXT: Troops/314/pages/1/39/Dialogue/enemy2 < UNTRANSLATED
+> CONTEXT: Troops/314/pages/1/39/Dialogue/enemy2
+\\C[10]Before you game over, you can't "Reset" or
+"Close the Game"!
 
+\\C[0]It's absolutely useless when you're about
+to lose, right?#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -12676,8 +12682,11 @@ Lampas(Normal)#Triketos
 　なんで自分が守らなきゃならないんだ！』
 
 そんな顔してるわね……
-> CONTEXT: Troops/314/pages/1/45/Dialogue/enemy2 < UNTRANSLATED
+> CONTEXT: Troops/314/pages/1/45/Dialogue/enemy2
+You look like you want to say,
 
+"You've broken your promise before,
+why should I agree?"#Triketos
 > END STRING
 
 > BEGIN STRING
