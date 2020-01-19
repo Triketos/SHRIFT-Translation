@@ -130,7 +130,7 @@ It's coming...!!#Ron
 "Chapter2-1　ニーナ戦"
 > CONTEXT: Map050/events/46/pages/0/89/InlineScript/1:24
 > CONTEXT: Map188/events/46/pages/0/89/InlineScript/1:24
-"Chapter 2-1 Nina War"#MTLed
+"Chapter 2-1 Nina Battle"#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -271,7 +271,7 @@ Nice to meet you!#Ron
 あ、『アイドル』…？
 > CONTEXT: Map050/events/46/pages/0/164/Dialogue/kazuya
 > CONTEXT: Map188/events/46/pages/0/164/Dialogue/kazuya
-"I- Idol"...?#Ron
+"I-Idol"...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -879,7 +879,7 @@ Do you want to proceed? (You will go to the next chapter.)#MTLed
 > CONTEXT: Map282/events/59/pages/1/22/InlineScript/2:1
 > CONTEXT: Map282/events/59/pages/2/20/InlineScript/2:1
 > CONTEXT: Map282/events/59/pages/3/20/InlineScript/2:1
-"Clear to Chapter 2-1"#MTLed
+"Chapter 2-1 Cleared"#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -888,7 +888,9 @@ Do you want to proceed? (You will go to the next chapter.)#MTLed
  あなたの『ボウヤ』たちなんだな。
 > CONTEXT: Map050/events/57/pages/1/9/Dialogue/kazuya
 > CONTEXT: Map188/events/57/pages/1/9/Dialogue/kazuya
-……………that is. What are your "boys"?#MTLed
+Those are...
+
+Those are your "little boys", aren't they?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -896,7 +898,7 @@ Do you want to proceed? (You will go to the next chapter.)#MTLed
 まだ行っていなかったのね……。
 > CONTEXT: Map050/events/57/pages/1/21/Dialogue/enemy4
 > CONTEXT: Map188/events/57/pages/1/21/Dialogue/enemy4
-......... I did not go yet ....#MTLed
+You're still here...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -905,8 +907,9 @@ Do you want to proceed? (You will go to the next chapter.)#MTLed
  好きなだけ、お外で遊んでらっしゃい……。
 > CONTEXT: Map050/events/57/pages/1/24/Dialogue/enemy4
 > CONTEXT: Map188/events/57/pages/1/24/Dialogue/enemy4
-………All right. I won't chase anymore ...
-As much as you like, please play outside ....#MTLed
+...It's all right, I won't chase you anymore.
+
+Go on and run off and play as much as you like...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -915,8 +918,9 @@ As much as you like, please play outside ....#MTLed
 だから、少しここで休んでいくわ…。
 > CONTEXT: Map050/events/57/pages/1/28/Dialogue/enemy4
 > CONTEXT: Map188/events/57/pages/1/28/Dialogue/enemy4
-Mom a little...I got tired. 
-So I'll take a break here a little ....#MTLed
+Mommy's a little... worn out.
+
+So she's having a rest here...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -925,16 +929,16 @@ So I'll take a break here a little ....#MTLed
 でも、怪我や病気には気をつけるのよ…？
 > CONTEXT: Map050/events/57/pages/1/32/Dialogue/enemy4
 > CONTEXT: Map188/events/57/pages/1/32/Dialogue/enemy4
-If you are fine, I am sure it will be fine for
-the future. But do you care about injuries and
-illness ...?#MTLed
+If you've got this much energy, I'm sure you'll be
+fine from here on, as well. But do be careful not
+to hurt yourself or get sick.#Ron
 > END STRING
 
 > BEGIN STRING
 …………ずっと不思議だったんだ。
 > CONTEXT: Map050/events/57/pages/1/40/Dialogue/kazuya
 > CONTEXT: Map188/events/57/pages/1/40/Dialogue/kazuya
-............ It has always been strange.#MTLed
+It's been bugging me for a while now...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -943,9 +947,9 @@ illness ...?#MTLed
 荒廃した市街地なのに『死体』が１つもない。
 > CONTEXT: Map050/events/57/pages/1/42/Dialogue/kazuya
 > CONTEXT: Map188/events/57/pages/1/42/Dialogue/kazuya
-Only this is a mess, Beetle Harpy also flies a
-lot. Even though it is a devastated city, there
-is no corpse.#MTLed
+This whole place is a mess, there's Harpy Spawn
+flying all over the place, the city's utterly
+devastated. But there's not a single corpse.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -955,10 +959,10 @@ is no corpse.#MTLed
 遺体はおろか、食い散らかされた血痕や肉片すらない事が。
 > CONTEXT: Map050/events/57/pages/1/46/Dialogue/kazuya
 > CONTEXT: Map188/events/57/pages/1/46/Dialogue/kazuya
-So I asked Yuuma a little earlier.
-It seems that Yuuma was also strange.
-Don't let the dead, eat away bloodstains and
-shreds of meat.#MTLed
+So, I asked Yuuma about it earlier...
+Seems he also thought it was strange.
+Forget about the bodies, there aren't even
+any hunks of flesh or bloodstains around.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -967,10 +971,10 @@ shreds of meat.#MTLed
 先行部隊は、とんでもなく迅速で優秀だ、って……。
 > CONTEXT: Map050/events/57/pages/1/51/Dialogue/kazuya
 > CONTEXT: Map188/events/57/pages/1/51/Dialogue/kazuya
-At the same time as evacuation guidance, if
-recovery was done to the body recovery
-The leading unit is extremely quick and
-excellent.#MTLed
+If the unit who passed through here cleaned up
+all the bodies while evacuating the civilians...
+
+They must have been one hell of a group.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -979,8 +983,9 @@ excellent.#MTLed
 ハーピーモドキに食い散らかされないように…。
 > CONTEXT: Map050/events/57/pages/1/62/Dialogue/kazuya
 > CONTEXT: Map188/events/57/pages/1/62/Dialogue/kazuya
-You're all buried there. Don't get eaten by
-Beetle Harpy ....#MTLed
+...You buried them all here, didn't you?
+
+So that the Harpy Spawn didn't feast on them.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -989,8 +994,8 @@ Beetle Harpy ....#MTLed
 『守る』ために………。
 > CONTEXT: Map050/events/57/pages/1/66/Dialogue/kazuya
 > CONTEXT: Map188/events/57/pages/1/66/Dialogue/kazuya
-And those who ran behind and were attacked by
-Beetle Harpy. "In order to protect……….#MTLed
+You did it in order to protect those who
+couldn't evacuate in time from the Harpy Spawn...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -999,9 +1004,10 @@ Beetle Harpy. "In order to protect……….#MTLed
  帰らない両親を待って、ずっと言い付けを守っていた。
 > CONTEXT: Map050/events/57/pages/1/72/Dialogue/enemy4
 > CONTEXT: Map188/events/57/pages/1/72/Dialogue/enemy4
-...... "I summoned me first" is a little girl.
-I waited for my parents who didn't go home, and
-kept protecting me.#MTLed
+The one who "called out" to me first was a little
+girl. She was waiting for her parents who by that
+time couldn't go back home. She'd been doing as
+she was told the whole time.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1010,9 +1016,9 @@ kept protecting me.#MTLed
 窓ガラスを激しく叩かれて、彼女は怯えていた……
 > CONTEXT: Map050/events/57/pages/1/76/Dialogue/enemy4
 > CONTEXT: Map188/events/57/pages/1/76/Dialogue/enemy4
-But I already noticed Beetle Harpy.
-She was scared because she was struck hard at the
-window glass ...#MTLed
+But she'd already been spotted by the Harpy Spawn.
+They'd been throwing themselves at the windows
+trying to get in, she was terrified...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1021,8 +1027,10 @@ window glass ...#MTLed
 でも……彼女は………彼女は……。
 > CONTEXT: Map050/events/57/pages/1/80/Dialogue/enemy4
 > CONTEXT: Map188/events/57/pages/1/80/Dialogue/enemy4
-I held her in a safe place ...
-But...she...... she......#MTLed
+I took her in my arms and carried her to a safe
+place but...
+
+But... she... she...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1031,8 +1039,9 @@ But...she...... she......#MTLed
 彼女の孤独を、感じさせないように……
 > CONTEXT: Map050/events/57/pages/1/85/Dialogue/enemy4
 > CONTEXT: Map188/events/57/pages/1/85/Dialogue/enemy4
-That's right...I was summoned to "for that"
-.... Do not let her feel loneliness ...#MTLed
+That's right... I was summoned here "for that"...
+
+To take away her loneliness...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1042,10 +1051,10 @@ That's right...I was summoned to "for that"
 兵隊さん達には届かなかったみたい……。
 > CONTEXT: Map050/events/57/pages/1/94/Dialogue/enemy4
 > CONTEXT: Map188/events/57/pages/1/94/Dialogue/enemy4
-The voice heard next is the upper floor of the
-building...I was buried in the rubble and I
-didn't have a decent voice. It seems that they
-did not reach the soldiers ....#MTLed
+The next voice I heard was in an upper floor of
+that building... They were buried in rubble, and
+couldn't really speak. It seems the soldiers
+weren't able to hear them...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1055,9 +1064,10 @@ did not reach the soldiers ....#MTLed
 ずっと、お母さん、お母さんって……。
 > CONTEXT: Map050/events/57/pages/1/99/Dialogue/enemy4
 > CONTEXT: Map188/events/57/pages/1/99/Dialogue/enemy4
-And finally the boy of the soldier who got his
-leg injured .... I feel sorry...alone in such a
-place...Mother, mother forever ....#MTLed
+And then finally there was the boy soldier with
+the injured leg. Sadly he... all alone in
+such a place... he called for his mother over and
+over...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1067,9 +1077,9 @@ place...Mother, mother forever ....#MTLed
 お乳を飲ませることしかできない…。
 > CONTEXT: Map050/events/57/pages/1/106/Dialogue/enemy4
 > CONTEXT: Map188/events/57/pages/1/106/Dialogue/enemy4
-To me .... What else did you do ...?
-I just feel relieved that I'm Embrace and not
-alone. I can only drink milk ....#MTLed
+What else could I have done...? I held him in my
+arms and reassured him he wasn't alone. All I
+could do was feed him some milk...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1078,9 +1088,9 @@ alone. I can only drink milk ....#MTLed
 大丈夫だってささやいて、恐怖を取り除くことしかできない…
 > CONTEXT: Map050/events/57/pages/1/111/Dialogue/enemy4
 > CONTEXT: Map188/events/57/pages/1/111/Dialogue/enemy4
-In the voice of "monmon" for me
-All right, whisper, you can only get rid of
-Afraid ...#MTLed
+To those voices who "call out" for me, all I can
+do is whisper "It's okay" to them, and take away
+their fear.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1089,8 +1099,9 @@ Afraid ...#MTLed
 だってみんな、私のかわいい『ボウヤ』だもの……
 > CONTEXT: Map050/events/57/pages/1/115/Dialogue/enemy4
 > CONTEXT: Map188/events/57/pages/1/115/Dialogue/enemy4
-I can not pretend to see .....
-Because everyone is my pretty 'boy' ...#MTLed
+I can't turn a blind eye to their suffering...
+
+That's why everyone's my cute "little boy"...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1099,7 +1110,7 @@ Because everyone is my pretty 'boy' ...#MTLed
 背中から優しく抱きしめた……
 > CONTEXT: Map050/events/57/pages/1/123/Dialogue
 > CONTEXT: Map188/events/57/pages/1/123/Dialogue
-\\N[1], Mother Rabbit. Gently Embrace from the back ......#MTLed
+\\N[1] gently embraces Mother Rabbit from behind...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1108,8 +1119,9 @@ Because everyone is my pretty 'boy' ...#MTLed
 そんなに一人で背負いこまなくて……。
 > CONTEXT: Map050/events/57/pages/1/129/Dialogue/kazuya-a
 > CONTEXT: Map188/events/57/pages/1/129/Dialogue/kazuya-a
-it's fine……. I don't have to take my back alone
-so much ....#MTLed
+It's okay...
+
+You don't have to bear it all by yourself...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1119,9 +1131,9 @@ so much ....#MTLed
 小さいときは、ずっと独りだった。
 > CONTEXT: Map050/events/57/pages/1/133/Dialogue/kazuya-a
 > CONTEXT: Map188/events/57/pages/1/133/Dialogue/kazuya-a
-I have been in the orphanage since I was born.
-Parents are told they died in an accident ...
-When I was small, I was alone.#MTLed
+I was in an orphanage ever since I was born. I was
+told that my parents both died in an accident.
+When I was little I was always alone.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1131,9 +1143,10 @@ When I was small, I was alone.#MTLed
 心のなかで泣き叫んでた……。
 > CONTEXT: Map050/events/57/pages/1/138/Dialogue/kazuya-a
 > CONTEXT: Map188/events/57/pages/1/138/Dialogue/kazuya-a
-The insolent loneliness and anxiety that the feet
-shaky...Let's go ahead and not think about
-anything around you. I cried in my heart ....#MTLed
+That strange sense of loneliness and anxiety made
+me so uncertain. My heart was screaming out so
+much I couldn't think about anything else,
+let alone my future.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1142,8 +1155,9 @@ anything around you. I cried in my heart ....#MTLed
 僕はここまで生きていなかったとすら思うよ。
 > CONTEXT: Map050/events/57/pages/1/143/Dialogue/kazuya-a
 > CONTEXT: Map188/events/57/pages/1/143/Dialogue/kazuya-a
-That time, if you can not get to know Yuuma ...
-I even think that I had not lived to here.#MTLed
+If I hadn't met Yuuma back then...
+
+I don't think I would've made it even this far.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1152,17 +1166,16 @@ I even think that I had not lived to here.#MTLed
 差し伸べられる手が、どんなに温かいかも知ってる。
 > CONTEXT: Map050/events/57/pages/1/149/Dialogue/kazuya
 > CONTEXT: Map188/events/57/pages/1/149/Dialogue/kazuya
-So, when you are caught by "loneliness" or
-"death". I also know how warm the hands to be
-extended.#MTLed
+So when I found myself seized by "loneliness"
+or "death", I also learnt just how warm someone's
+extended hand can be.#Ron
 > END STRING
 
 > BEGIN STRING
 それが、なににも代え難い救いの手だって事も…。
 > CONTEXT: Map050/events/57/pages/1/153/Dialogue/kazuya
 > CONTEXT: Map188/events/57/pages/1/153/Dialogue/kazuya
-It is also a helping hand that is hard to replace
-anything.#MTLed
+A hand that can help save a person's life...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1172,9 +1185,10 @@ anything.#MTLed
 あなたが気に病む必要はないんだよ。
 > CONTEXT: Map050/events/57/pages/1/157/Dialogue/kazuya
 > CONTEXT: Map188/events/57/pages/1/157/Dialogue/kazuya
-…………"Thank you". Thanks to you, at least they
-should have been at peace. You don't have to
-worry about it.#MTLed
+...Thank you.
+Thanks to you, those people at least passed on
+peacefully. You don't need to worry about them
+any longer...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1183,22 +1197,23 @@ worry about it.#MTLed
 独りで泣かないでくれ………。
 > CONTEXT: Map050/events/57/pages/1/162/Dialogue/kazuya-a
 > CONTEXT: Map188/events/57/pages/1/162/Dialogue/kazuya-a
-So, please rest slowly...Don't cry alone
-..........#MTLed
+So please, rest...
+
+Please don't cry all alone...#Ron
 > END STRING
 
 > BEGIN STRING
 …………『ありがとう』。
 > CONTEXT: Map050/events/57/pages/1/167/Dialogue/enemy4
 > CONTEXT: Map188/events/57/pages/1/167/Dialogue/enemy4
-…………"Thank you".#MTLed
+..."Thank you".#Ron
 > END STRING
 
 > BEGIN STRING
 マザーラビットは、そのままスウッと消えていった……
 > CONTEXT: Map050/events/57/pages/1/174/Dialogue
 > CONTEXT: Map188/events/57/pages/1/174/Dialogue
-Mother Rabbit went out of its way ...#MTLed
+Just like that, Mother Rabbit softly disappeared...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1208,10 +1223,10 @@ Mother Rabbit went out of its way ...#MTLed
  魔界の悪魔より、人間に近しい感情を持つ悪魔だ。
 > CONTEXT: Map050/events/57/pages/1/177/Dialogue/yuuma
 > CONTEXT: Map188/events/57/pages/1/177/Dialogue/yuuma
-...... "Mother Rabbit" is not a genuine Demon
-Realm. Directly born from negative human
-emotions, It is a demon with emotions closer to
-human beings than Demon Realm's demon.#MTLed
+"Mother Rabbit" isn't actually from the Demon
+Realm. She's born directly from negative human
+emotions. Because of this, she's has emotions
+much closer to humans than other demons.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1220,9 +1235,9 @@ human beings than Demon Realm's demon.#MTLed
 この地区の多くの『声』は、なるほど気が狂うのも納得だ。
 > CONTEXT: Map050/events/57/pages/1/182/Dialogue/yuuma
 > CONTEXT: Map188/events/57/pages/1/182/Dialogue/yuuma
-If she is a demon born of feelings related to
-'maternal love'. Many of the "voices" in this
-area are just as convincing as to be crazy.#MTLed
+If she really is a demon born of feelings of
+maternal love, I can understand why the many
+"voices" in this area drove her mad.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1231,8 +1246,9 @@ area are just as convincing as to be crazy.#MTLed
  たぶん、彼女の魔力のせいだけじゃなかった。
 > CONTEXT: Map050/events/57/pages/1/186/Dialogue/kazuya
 > CONTEXT: Map188/events/57/pages/1/186/Dialogue/kazuya
-... First of all, I couldn't avoid her hug
-Maybe not just because of her magic.#MTLed
+When I wasn't able to avoid her hugging me that
+first time I ran into her, I don't think that was
+entirely because of her demonic magic.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1242,10 +1258,10 @@ Maybe not just because of her magic.#MTLed
 こんな荒廃した市街地を目の当たりにして、途方に暮れてた。
 > CONTEXT: Map050/events/57/pages/1/190/Dialogue/kazuya
 > CONTEXT: Map188/events/57/pages/1/190/Dialogue/kazuya
-I think that I was "reliable" from the bottom of
-my heart .... I'm going to leave the shelter and
-be relieved soon. I was at a loss when I saw such
-a devastated city area.#MTLed
+I think from the bottom of my heart, she made me
+feel "secure". I'd left the shelter and without
+even a moment of relief, I saw the devastation of
+this city. I was at a loss.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1254,8 +1270,8 @@ a devastated city area.#MTLed
 一瞬でも考えたから……。
 > CONTEXT: Map050/events/57/pages/1/195/Dialogue/kazuya
 > CONTEXT: Map188/events/57/pages/1/195/Dialogue/kazuya
-Hug wrapped in this demon as it is
-I thought even for a moment ....#MTLed
+I thought for just a moment that maybe I should
+just let her hold me.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1264,9 +1280,10 @@ I thought even for a moment ....#MTLed
 それに、彼女はそんな孤独の『声』に喚ばれてきたんだ。
 > CONTEXT: Map050/events/57/pages/1/199/Dialogue/yuuma
 > CONTEXT: Map188/events/57/pages/1/199/Dialogue/yuuma
-It is such a situation, it is not impossible.
-Besides, she has been summoned in such
-"loneliness".#MTLed
+I can understand that in your kind of situation.
+
+Besides, she was summoned here by those kinds of
+"lonely" voices.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1276,9 +1293,10 @@ Besides, she has been summoned in such
 彼女自身の『声』のせいだったのかもな……
 > CONTEXT: Map050/events/57/pages/1/203/Dialogue/yuuma
 > CONTEXT: Map188/events/57/pages/1/203/Dialogue/yuuma
-And already, there should be no "voice" for her.
-Even so she echoed in her. Maybe because of her
-own "voice" ...#MTLed
+And by the time she got here there wouldn't have
+been any more "voices" calling to her. The only
+voices she heard would've been the ones rattling
+around inside her, driving her crazy.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1287,8 +1305,10 @@ own "voice" ...#MTLed
  急いでるのに、寄り道しちゃって……
 > CONTEXT: Map050/events/57/pages/1/211/Dialogue/kazuya
 > CONTEXT: Map188/events/57/pages/1/211/Dialogue/kazuya
-............ I am sorry, Yuuma.
-Even if I hurry up, I'm getting off ...#MTLed
+Anyway... Sorry, Yuuma.
+
+I should have been in a hurry to leave, but I
+took a detour...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1297,7 +1317,9 @@ Even if I hurry up, I'm getting off ...#MTLed
 お前のお人好しは、いつものことだ。
 > CONTEXT: Map050/events/57/pages/1/215/Dialogue/yuuma
 > CONTEXT: Map188/events/57/pages/1/215/Dialogue/yuuma
-dont 'worry. Your kindness is always with you.#MTLed
+Don't worry about it.
+
+You're a soft touch like always.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1306,7 +1328,7 @@ dont 'worry. Your kindness is always with you.#MTLed
 お前はいつだって『独り』じゃない。
 > CONTEXT: Map050/events/57/pages/1/219/Dialogue/yuuma
 > CONTEXT: Map188/events/57/pages/1/219/Dialogue/yuuma
-... but do not forget. You are not always alone.#MTLed
+Don't forget: You aren't alone, \N[1].#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1315,9 +1337,9 @@ dont 'worry. Your kindness is always with you.#MTLed
 どんなに望みが薄くなろうとも、な。
 > CONTEXT: Map050/events/57/pages/1/223/Dialogue/yuuma
 > CONTEXT: Map188/events/57/pages/1/223/Dialogue/yuuma
-I will wait for you to believe in you no matter
-when the radio is broken. No matter how thin the
-hope is.#MTLed
+Even when our comms get cut, I'll keep waiting
+and believing in you, no matter how
+grim things get.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1326,8 +1348,9 @@ hope is.#MTLed
  俺のためにも、レイナのためにも………
 > CONTEXT: Map050/events/57/pages/1/227/Dialogue/yuuma
 > CONTEXT: Map188/events/57/pages/1/227/Dialogue/yuuma
-So stay alive and get here. For me, for Reina
-.........#MTLed
+So stay alive and get yourself over here.
+
+For me, and for Reina.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1336,8 +1359,9 @@ So stay alive and get here. For me, for Reina
 貴様の殺した人間の墓か。
 > CONTEXT: Map050/events/57/pages/5/9/Dialogue/kazuya-3
 > CONTEXT: Map188/events/57/pages/5/9/Dialogue/kazuya-3
-that is………. The tomb of the human being you
-killed?#MTLed
+Are these...
+
+The graves of the humans you've killed?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1346,9 +1370,10 @@ killed?#MTLed
  墓を作ってやれば、自分の罪が消えると思っているのか？
 > CONTEXT: Map050/events/57/pages/5/21/Dialogue/kazuya-3
 > CONTEXT: Map188/events/57/pages/5/21/Dialogue/kazuya-3
-It is a great way of thinking.
-If you make a tomb, do you think that your sin
-will disappear?#MTLed
+You've got a funny way of thinking, don't you?
+
+You think your sins will go away if you make a
+little gravestone for them?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1357,8 +1382,9 @@ will disappear?#MTLed
 今までで、一体どれだけの人間を犠牲にしてきたんだ！？
 > CONTEXT: Map050/events/57/pages/5/25/Dialogue/kazuya-3
 > CONTEXT: Map188/events/57/pages/5/25/Dialogue/kazuya-3
-It's not just this town .........
-So far, how many people have been sacrificed! ?#MTLed
+It's probably not just this town, either...
+
+Just how many victims have you left in your wake?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1367,8 +1393,9 @@ So far, how many people have been sacrificed! ?#MTLed
 これは………
 > CONTEXT: Map050/events/57/pages/5/30/Dialogue/enemy4
 > CONTEXT: Map188/events/57/pages/5/30/Dialogue/enemy4
-......misunderstanding, boy.
-this is………#MTLed
+This is a misunderstanding, little boy.
+
+This is-#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1377,8 +1404,10 @@ this is………#MTLed
  僕をウサギにしようとして、よくそんなことが言えるな！
 > CONTEXT: Map050/events/57/pages/5/34/Dialogue/kazuya-3
 > CONTEXT: Map188/events/57/pages/5/34/Dialogue/kazuya-3
-Misunderstanding! ? If you try to make me a
-rabbit, you can often say that!#MTLed
+Misunderstanding?!
+
+To think you'd actually say that after you tried
+turning me into a rabbit!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1388,9 +1417,10 @@ rabbit, you can often say that!#MTLed
 それを誤解だと！？
 > CONTEXT: Map050/events/57/pages/5/38/Dialogue/kazuya-3
 > CONTEXT: Map188/events/57/pages/5/38/Dialogue/kazuya-3
-You make a human rabbit to meet your desires! !
-Innocent, runaway weak man!!
-It's a misunderstanding! ?#MTLed
+You turn people into rabbits for your own
+satisfaction!! Weak, innocent people who couldn't
+escape in time.
+Just what am I misunderstanding here?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1400,8 +1430,8 @@ It's a misunderstanding! ?#MTLed
  この子達をボウヤにしている……。
 > CONTEXT: Map050/events/57/pages/5/45/Dialogue/enemy4
 > CONTEXT: Map188/events/57/pages/5/45/Dialogue/enemy4
-...... That's right. I meet my desires
-I am making these children boy ....#MTLed
+...I suppose that's right. I turn these children
+into my "little boys" for my own satisfaction...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1410,8 +1440,9 @@ I am making these children boy ....#MTLed
 その事実には変わりはないものね……
 > CONTEXT: Map050/events/57/pages/5/50/Dialogue/enemy4
 > CONTEXT: Map188/events/57/pages/5/50/Dialogue/enemy4
-Whatever the reason is...There is no change in
-that fact ...#MTLed
+Whatever reason I give...
+
+There's no changing that fact...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1420,15 +1451,15 @@ that fact ...#MTLed
 悪魔を『悪』としているように………
 > CONTEXT: Map050/events/57/pages/5/54/Dialogue/enemy4
 > CONTEXT: Map188/events/57/pages/5/54/Dialogue/enemy4
-To keep yourself...as a "human"
-Like demon as "evil" .........#MTLed
+To continue existing as a "human", you've
+kept thinking of demons as evil...#Ron
 > END STRING
 
 > BEGIN STRING
 何……？
 > CONTEXT: Map050/events/57/pages/5/64/Dialogue/kazuya-3
 > CONTEXT: Map188/events/57/pages/5/64/Dialogue/kazuya-3
-what……?#MTLed
+What...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1438,9 +1469,9 @@ what……?#MTLed
  消えかかってる、小さな『ボウヤ』の声が………
 > CONTEXT: Map050/events/57/pages/5/66/Dialogue/enemy4
 > CONTEXT: Map188/events/57/pages/5/66/Dialogue/enemy4
-………Sorry. I heard a little voice of your heart.
-The voice of a small "boy" is about to disappear
-.........#MTLed
+...I'm sorry. I could just make out a little of
+the voice in your heart. The voice of a "little
+boy" who's about to start disappearing...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1450,9 +1481,9 @@ The voice of a small "boy" is about to disappear
 ひょっとしたら、悪魔よりも酷い事をしていないか……
 > CONTEXT: Map050/events/57/pages/5/71/Dialogue/enemy4
 > CONTEXT: Map188/events/57/pages/5/71/Dialogue/enemy4
-You are lost, right? Is it really right what you
-do? Maybe you're not doing anything worse than
-demon ......#MTLed
+You're hesitant, aren't you? Are you really doing
+the right thing? Could your actions be even more
+cruel than demons...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1462,16 +1493,17 @@ demon ......#MTLed
 そう自分に言い聞かせ続けてる……。
 > CONTEXT: Map050/events/57/pages/5/76/Dialogue/enemy4
 > CONTEXT: Map188/events/57/pages/5/76/Dialogue/enemy4
-"Demons have a different way of thinking"
-"The bad demons are those who take human lives"
-So I keep telling myself ....#MTLed
+"I'm not like demons."
+"Demons who rob humans of their lives are the evil
+ones."
+You keep telling yourself these things...#Ron
 > END STRING
 
 > BEGIN STRING
 黙れ………
 > CONTEXT: Map050/events/57/pages/5/82/Dialogue/kazuya-3
 > CONTEXT: Map188/events/57/pages/5/82/Dialogue/kazuya-3
-Shut up .........#MTLed
+Shut up...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1481,9 +1513,9 @@ Shut up .........#MTLed
 そんな奴に『あなた』を任せてはダメ……
 > CONTEXT: Map050/events/57/pages/5/84/Dialogue/enemy4
 > CONTEXT: Map188/events/57/pages/5/84/Dialogue/enemy4
-But there is another one of you .........
-Someone is exploiting your curiosity ......
-It is no good to leave "you" to such a person ...#MTLed
+But there's someone else inside you...
+Someone exploiting your curiosity...
+You mustn't let this person use "you"...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1493,23 +1525,23 @@ It is no good to leave "you" to such a person ...#MTLed
 頭に残り続けているのよね……
 > CONTEXT: Map050/events/57/pages/5/89/Dialogue/enemy4
 > CONTEXT: Map188/events/57/pages/5/89/Dialogue/enemy4
-Real you are surely kind child ...
-So just the words of nekomata. I keep staying in
-my head ...#MTLed
+I'm positive the real you is kind...
+That's why the words of that Nekomata duo you
+just ran into still resound within you...#Ron
 > END STRING
 
 > BEGIN STRING
 悪魔も人間も同じ………
 > CONTEXT: Map050/events/57/pages/5/94/Dialogue/enemy4
 > CONTEXT: Map188/events/57/pages/5/94/Dialogue/enemy4
-The same is true for demons and humans .......#MTLed
+Humans and demons are the same...#Ron
 > END STRING
 
 > BEGIN STRING
 黙れ！！
 > CONTEXT: Map050/events/57/pages/5/103/Dialogue/kazuya-3
 > CONTEXT: Map188/events/57/pages/5/103/Dialogue/kazuya-3
-Shut up!!#MTLed
+Shut up!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1518,8 +1550,8 @@ Shut up!!#MTLed
 \\N[1]を両腕で包み込み、抱きしめた……
 > CONTEXT: Map050/events/57/pages/5/112/Dialogue
 > CONTEXT: Map188/events/57/pages/5/112/Dialogue
-Mother Rabbit is cut while. Wraps \\N[1] in both arms, and
-Embrace ...#MTLed
+Even while he kills her with his blade, Mother Rabbit
+wraps both her arms around \\N[1] and embraces him...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1528,8 +1560,9 @@ Embrace ...#MTLed
 今度は、私が助ける番………
 > CONTEXT: Map050/events/57/pages/5/116/Dialogue/enemy4
 > CONTEXT: Map188/events/57/pages/5/116/Dialogue/enemy4
-I'm fine ...... boy.........
-This time, it is my turn to help .........#MTLed
+It's okay... little boy...
+
+It's my turn to save you... this time...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1537,7 +1570,7 @@ This time, it is my turn to help .........#MTLed
 んぐっ……！！？
 > CONTEXT: Map050/events/57/pages/5/120/Dialogue/kazuya-2
 > CONTEXT: Map188/events/57/pages/5/120/Dialogue/kazuya-2
-ungh ......!!?#MTLed
+Ngghh...?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1547,9 +1580,10 @@ ungh ......!!?#MTLed
 今まで色々、考えてた末の行動ですものね……
 > CONTEXT: Map050/events/57/pages/5/123/Dialogue/enemy4
 > CONTEXT: Map188/events/57/pages/5/123/Dialogue/enemy4
-It was tough...It was painful ...
-It's the last action I've been thinking about
-until now ...#MTLed
+It's been so hard for you... So painful...
+
+I've been thinking a lot, about the final thing
+I could do...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1558,22 +1592,23 @@ until now ...#MTLed
 もう……こんな事を考えてはダメ……
 > CONTEXT: Map050/events/57/pages/5/128/Dialogue/enemy4
 > CONTEXT: Map188/events/57/pages/5/128/Dialogue/enemy4
-Well...drink milk...forget everything ...
-No longer...thinking about such things ...#MTLed
+Go on... drink up... Forget everything...
+You don't... have to think about... all that
+anymore...#Ron
 > END STRING
 
 > BEGIN STRING
 飲む en(s[1000000])
 > CONTEXT: Map050/events/57/pages/5/132/Choice/0
 > CONTEXT: Map188/events/57/pages/5/132/Choice/0
-Drinken(s[1000000])#MTLed
+Drinken(s[1000000])#Ron
 > END STRING
 
 > BEGIN STRING
 飲まない
 > CONTEXT: Map050/events/57/pages/5/132/Choice/1
 > CONTEXT: Map188/events/57/pages/5/132/Choice/1
-do not drink#MTLed
+Don't#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1665,21 +1700,21 @@ Finish her off#Dargoth
 飲むものか
 > CONTEXT: Map050/events/57/pages/5/144/Choice/0
 > CONTEXT: Map188/events/57/pages/5/144/Choice/0
-What to drink#MTLed
+As if I'd drink that.#Ron
 > END STRING
 
 > BEGIN STRING
 貴様は敵だ
 > CONTEXT: Map050/events/57/pages/5/144/Choice/1
 > CONTEXT: Map188/events/57/pages/5/144/Choice/1
-You are the enemy#MTLed
+You're my enemy.#Ron
 > END STRING
 
 > BEGIN STRING
 お前を殺す
 > CONTEXT: Map050/events/57/pages/5/144/Choice/2
 > CONTEXT: Map188/events/57/pages/5/144/Choice/2
-Kill you#MTLed
+I'll kill you.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1692,7 +1727,10 @@ Kill you#MTLed
 > CONTEXT: Map188/events/57/pages/5/155/Choice/1
 > CONTEXT: Map188/events/57/pages/5/155/Choice/2
 > CONTEXT: Map188/events/57/pages/5/155/Choice/3
-I'll kill you I'll kill you I'll kill you I'll kill you#MTLed
+I'll kill you!
+I'll kill you!
+I'll kill you!
+I'll kill you!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1701,8 +1739,8 @@ I'll kill you I'll kill you I'll kill you I'll kill you#MTLed
 墓石にもたれかかった…
 > CONTEXT: Map050/events/57/pages/5/175/Dialogue
 > CONTEXT: Map188/events/57/pages/5/175/Dialogue
-Mother Rabbit releases \\N[1] without force
-I leaned on the tombstone ...#MTLed
+Mother Rabbit weakly releases \\N[1] and leans
+on a tombstone...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1711,7 +1749,9 @@ I leaned on the tombstone ...#MTLed
 元気な………ボウヤ…………
 > CONTEXT: Map050/events/57/pages/5/179/Dialogue/enemy4
 > CONTEXT: Map188/events/57/pages/5/179/Dialogue/enemy4
-Fu ......... I'm fine ......... boy ...... ...#MTLed
+Fufu...
+
+Such an... energetic little boy...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1720,8 +1760,8 @@ Fu ......... I'm fine ......... boy ...... ...#MTLed
 いつでも………見守ってるから………
 > CONTEXT: Map050/events/57/pages/5/183/Dialogue/enemy4
 > CONTEXT: Map188/events/57/pages/5/183/Dialogue/enemy4
-I love you...I love you...
-Anytime...... Because I watch over......#MTLed
+I love you... I really love you...
+I'll always... be watching over you...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1731,13 +1771,14 @@ Anytime...... Because I watch over......#MTLed
 黙れ黙れ！！！
 > CONTEXT: Map050/events/57/pages/5/192/Dialogue/kazuya-3
 > CONTEXT: Map188/events/57/pages/5/192/Dialogue/kazuya-3
-Shut up, shut up, shut up, shut up, shut up, shut
-up, shut up, shut up, shut up, shut up
-Shut up, shut up, shut up, shut up, shut up, shut
-up, shut up, shut up, shut up, shut up
-Shut up, shut up, shut up, shut up, shut up, shut
-up, shut up, shut up, shut up, shut up
-shut up shut up!!!#MTLed
+Shut up, shut up, shut up, shut up, shut up,
+shut up, shut up, shut up, shut up, shut up,
+shut up, shut up, shut up, shut up, shut up,
+shut up, shut up, shut up, shut up, shut up,
+shut up, shut up, shut up, shut up, shut up,
+shut up, shut up, shut up, shut up, shut up,
+shut up, shut up, shut up, shut up, shut up,
+shut up, shut up!!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1746,8 +1787,8 @@ shut up shut up!!!#MTLed
 そのまま崩れ落ちた…
 > CONTEXT: Map050/events/57/pages/5/203/Dialogue
 > CONTEXT: Map188/events/57/pages/5/203/Dialogue
-Mother Rabbit is in a posture that Hug wrapped the grave
-It just crumbled ...#MTLed
+Mother Rabbit crumbles into dust hugging one of
+the graves...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1756,8 +1797,7 @@ It just crumbled ...#MTLed
 よかった……………
 > CONTEXT: Map050/events/57/pages/5/207/Dialogue/enemy4
 > CONTEXT: Map188/events/57/pages/5/207/Dialogue/enemy4
-Everyone...... safe...... ...
-Was good……………#MTLed
+I'm glad... everyone's... safe...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1766,7 +1806,9 @@ Was good……………#MTLed
 この子は、怖がっているだけ………
 > CONTEXT: Map050/events/57/pages/5/211/Dialogue/enemy4
 > CONTEXT: Map188/events/57/pages/5/211/Dialogue/enemy4
-All right………. This child is only scared .........#MTLed
+It's alright...
+
+This one's just a little scared...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1775,8 +1817,10 @@ All right………. This child is only scared .........#MTLed
 自分の行いが、ただの『人殺し』になってしまうから…
 > CONTEXT: Map050/events/57/pages/5/215/Dialogue/enemy4
 > CONTEXT: Map188/events/57/pages/5/215/Dialogue/enemy4
-If I accept my words...Because my actions
-become just "killers" ...#MTLed
+Because if he accepts what I've said...
+
+His actions would make him little more than a
+mere "killer"...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1785,8 +1829,8 @@ become just "killers" ...#MTLed
 すぐに、ママもそっちへ行くわ…………
 > CONTEXT: Map050/events/57/pages/5/219/Dialogue/enemy4
 > CONTEXT: Map188/events/57/pages/5/219/Dialogue/enemy4
-Yeah, pretty boys ......... Soon, mom will go to
-that ............#MTLed
+That's right, my little boys... Mommy will be with
+you all soon...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1795,5 +1839,7 @@ that ............#MTLed
 ああああああああああああ！！！？
 > CONTEXT: Map050/events/57/pages/5/233/Dialogue/kazuya-3
 > CONTEXT: Map188/events/57/pages/5/233/Dialogue/kazuya-3
-Oh………. AAAAAAAAAAAAAA!!!?#MTLed
+Aaa...
+
+AAAAAAAAAAAAAA!!#Ron
 > END STRING

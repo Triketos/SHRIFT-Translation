@@ -4,7 +4,7 @@
 
 さっき飲んだのは何かなぁ？
 > CONTEXT: CommonEvents_242/12/Dialogue/enemy6
-Oh?\\N[1]-kun! What did you drink earlier?#MTLed
+Hmm? \\N[1]-kun! What did you just drink?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -12,7 +12,9 @@ Oh?\\N[1]-kun! What did you drink earlier?#MTLed
 
 な、何って…ドリンクだけど……
 > CONTEXT: CommonEvents_242/16/Dialogue/kazuya
-??? Nah, what's...it's a drink ...#MTLed
+???
+
+I-It was just a drink...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -20,14 +22,14 @@ Oh?\\N[1]-kun! What did you drink earlier?#MTLed
 
 だからさ…ほら………
 > CONTEXT: CommonEvents_242/20/Dialogue/enemy6
-\\}......... That's the product sponsor of this show ...
-That's why...here......#MTLed
+\\}.........That's this show's sponsored product...
+Here... read this......#Ron
 > END STRING
 
 > BEGIN STRING
 …………『宣伝しろ』って事なんじゃねぇの…？
 > CONTEXT: CommonEvents_242/30/Dialogue/other2
-............ What's "Promotion" ...?#MTLed
+...Looks like ya gotta promote it...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -37,19 +39,20 @@ That's why...here......#MTLed
 \\C[0]お求めはお近くのコンビニ・薬局で！
 > CONTEXT: CommonEvents_242/38/Dialogue/kazuya-a
 > CONTEXT: Troops/59/pages/0/8/Dialogue/kazuya-a
-Bo, my key to survival! Nourishing, nourishing
-Energy Drink! \\C[2]" \\I[765] Astron 』"!
-\\C[0]Shop at a convenience store or pharmacy near you!#MTLed
+T-This product is the key to my survival! It's an
+energy drink packed with nutrients that refreshes
+and revitalises. \\C[2]"\\I[765] Astron"!\\C[0]Look for it
+in a convenience store or pharmacy near you!#Ron
 > END STRING
 
 > BEGIN STRING
 みんなよろしくねー！
 > CONTEXT: CommonEvents_242/58/Dialogue/other3
-Nice to meet you all!#MTLed
+Thanks so much everyone!#Ron
 > END STRING
 
 > BEGIN STRING
 \\{\\{お前の商品かいっ！！！
 > CONTEXT: CommonEvents_242/60/Dialogue/kazuya
-\\{\\{Your product!!!#MTLed
+\\{\\{This is your product?!#Ron
 > END STRING

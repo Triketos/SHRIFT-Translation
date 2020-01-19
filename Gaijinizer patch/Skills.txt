@@ -3475,109 +3475,108 @@ Good Luck Charm#Dargoth
 > CONTEXT: Skills/288/description
 > CONTEXT: Skills/702/description
 > CONTEXT: Skills/703/description
-Rythmic leg move, beginner dance figure.
+Move your legs to the beat. A simple dance.
 \\c[2]Button Count:3 Time Limit:5\\}\\C[0] Previous Move:\\V[130]#afrgPR
 > END STRING
 
 > BEGIN STRING
 インアウト
 > CONTEXT: Skills/288/name
-In out#MTLed
+The In 'n Out#Ron
 > END STRING
 
 > BEGIN STRING
 は、インアウトでリズムに乗った！
 > CONTEXT: Skills/288/message1
-Got on Liz in in and out!#MTLed
+ does the In 'n Out to the beat!#Ron
 > END STRING
 
 > BEGIN STRING
 リズムに合わせて足と一緒に腰もひねる、初級ダンス。
 \\c[2]【ボタン数】３【制限時間】３秒\\}\\C[0]【前回ダンス】\\V[130]
 > CONTEXT: Skills/289/description
-Rythmic hip twist, beginner dance figure.
-Beginner dance move where you twist your hips together with your feet.
+Twist your hips and feet to the beat. A simple dance.
 \\c[2]Button Count:3 Time Limit:3\\}\\C[0] Previous Move:\\V[130]#afrgPR
 > END STRING
 
 > BEGIN STRING
 ツイスト
 > CONTEXT: Skills/289/name
-Twist#afrg
+The Twist#afrg
 > END STRING
 
 > BEGIN STRING
 は、ツイストでリズムに乗った！
 > CONTEXT: Skills/289/message1
- got into a Twist rhythm!#afrg
+ does the Twist to the beat!#afrg
 > END STRING
 
 > BEGIN STRING
 リズムに合わせて足を激しく動かす。消費気力が多い。
 \\c[2]【ボタン数】３【制限時間】３秒\\}\\C[0]【前回ダンス】\\V[130]
 > CONTEXT: Skills/290/description
-Violent leg move, consumes a lot of stamina.
+Wildly move your legs to the beat, uses a lot of stamina.
 \\c[2]Button Count:3 Time Limit:3\\}\\C[0] Previous Move:\\V[130]#afrgPR
 > END STRING
 
 > BEGIN STRING
 スポンジボブ
 > CONTEXT: Skills/290/name
-Spongebob#afrg
+The Spongebob Shuffle#afrg
 > END STRING
 
 > BEGIN STRING
 は、スポンジボブでリズムに乗った！
 > CONTEXT: Skills/290/message1
- got into a Spongebob rhythm!#afrg
+ does the Spongebob Shuffle to the beat!#afrg
 > END STRING
 
 > BEGIN STRING
 弓を引くような動作を左右交互に行う中級ダンス。
 \\c[2]【ボタン数】５【制限時間】５秒\\}\\C[0]【前回ダンス】\\V[130]
 > CONTEXT: Skills/291/description
-Mimics drowing a bow, intermediate dance figure.
+Mimics drawing a bow. Not too tricky.
 \\c[2]Button Count:5 Time Limit:5\\}\\C[0] Previous Move:\\V[130]#afrgPR
 > END STRING
 
 > BEGIN STRING
 アロー
 > CONTEXT: Skills/291/name
-Arrow#afrg
+The Arrow#afrg
 > END STRING
 
 > BEGIN STRING
 は、アローでリズムに乗った！
 > CONTEXT: Skills/291/message1
- got into an Arrow rhythm!#afrg
+ does the Arrow to the beat!#afrg
 > END STRING
 
 > BEGIN STRING
 ツイストの動作に腕の振りを加えた中級ダンス。
 \\c[2]【ボタン数】５【制限時間】２秒\\}\\C[0]【前回ダンス】\\V[130]
 > CONTEXT: Skills/292/description
-Rythmic arm swing, intermediate dance figure.
+Swing your arms to the beat. Not too tricky.
 \\c[2]Button Count:5 Time Limit:2\\}\\C[0] Previous Move:\\V[130]#afrgPR
 > END STRING
 
 > BEGIN STRING
 Ｐツイスト
 > CONTEXT: Skills/292/name
-P Twist#afrg
+The P Twist#afrg
 > END STRING
 
 > BEGIN STRING
 は、Ｐツイストでリズムに乗った！
 > CONTEXT: Skills/292/message1
- got into a P Twist rhythm!#afrg
+ does the P Twist to the beat!#afrg
 > END STRING
 
 > BEGIN STRING
 スポンジボブを応用した動きの激しい中級ダンス。
 \\c[2]【ボタン数】６【制限時間】３秒\\}\\C[0]【前回ダンス】\\V[130]
 > CONTEXT: Skills/293/description
-Intermediate level Sponge Bob variety
-\\c[2]【Button Count】5【Time Limit】3\\}\\C[0]【Previous Dance】\\V[130]#afrg
+The Spongebob Shuffle, but special. A bit harder...
+\\c[2]Button Count:5 Time Limit:3\\}\\C[0] Previous Move:\\V[130]#afrg
 > END STRING
 
 > BEGIN STRING
@@ -3589,47 +3588,47 @@ Special Shuffle#afrg
 > BEGIN STRING
 は、スペシャルシャッフルでリズムに乗った！
 > CONTEXT: Skills/293/message1
- got into a Special Shuffle rhythm!#afrg
+ does the Special Shuffle to the beat!#afrg
 > END STRING
 
 > BEGIN STRING
 手首だけで全身を支えるブレイクダンス。
 \\c[2]【ボタン数】７【制限時間】３秒\\}\\C[0]【前回ダンス】\\V[130]
 > CONTEXT: Skills/294/description
-Break dance where you support your body with only your wrist.
-c[2]【Button Count】7【Time Limit】3\\}\\C[0]【Previous Dance】\\V[130]#afrg
+Breakdance where you support your body with only your wrists.
+\\c[2]Button Count:7 Time Limit:3\\}\\C[0] Previous Move:\\V[130]#afrg
 > END STRING
 
 > BEGIN STRING
 チェアー
 > CONTEXT: Skills/294/name
-Chair#afrg
+The Chair#afrg
 > END STRING
 
 > BEGIN STRING
 はチェアーでリズムに乗った！！
 > CONTEXT: Skills/294/message1
- pulled off a Chair!#afrg
+ does the Chair to the beat!#afrg
 > END STRING
 
 > BEGIN STRING
 手を軸に足を大きく回転させるブレイクダンス。
 \\c[2]【ボタン数】７【制限時間】２秒\\}\\C[0]【前回ダンス】\\V[130]
 > CONTEXT: Skills/295/description
-Break dance: swing your legs, standing on your hands.
-\\c[2]【Button Count】7【Time Limit】2\\}\\C[0]【Previous Dance】\\V[130]#afrg
+Breakdance where you spin your legs in the air.
+\\c[2]Button Count:5 Time Limit:2\\}\\C[0] Previous Move:\\V[130]#afrg
 > END STRING
 
 > BEGIN STRING
 ウィンドミル
 > CONTEXT: Skills/295/name
-Windmill#afrg
+The Windmill#afrg
 > END STRING
 
 > BEGIN STRING
 はウィンドミルでリズムに乗った！！
 > CONTEXT: Skills/295/message1
- pulled off a Windmill!#afrg
+ does the Windmill to the beat!#afrg
 > END STRING
 
 > BEGIN STRING
