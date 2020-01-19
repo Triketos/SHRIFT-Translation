@@ -13,13 +13,13 @@ Spend some time with me too... ♪#Ron
 呼び方の変更 en(v[46] \>= 25) 
 > CONTEXT: Map070/events/5/pages/0/31/Choice/0
 > CONTEXT: Map070/events/9/pages/0/31/Choice/0
-Change of callen(v[46] \>= 25)#MTLed
+Change Her Titleen(v[46] \>= 25)#Ron
 > END STRING
 
 > BEGIN STRING
 現在の呼び方【\\N[2]】
 > CONTEXT: Map070/events/5/pages/0/33/ChoiceHelp
-Change how you address Haru, currently [\\N[2]].#Ron
+Change how you address Haru. Currently [\\N[2]].#Ron
 > END STRING
 
 > BEGIN STRING
@@ -251,8 +251,8 @@ ordinary cat, \\N[2]?#Ron
 
 第二の産みの親で、育ての親でもあるんだ。
 > CONTEXT: Map070/events/5/pages/1/57/Dialogue/enemy5
-That's right, so Liz is like the second parent
-to bring me into the world, and to teach me
+That's right. Liz is like a second parent who
+brought me into the world, and taught me
 everything I know.#RonIffy
 > END STRING
 
@@ -271,9 +271,9 @@ sorts of things!#Ron
 
 怒ると怖いから、基本的に言うことは絶対聞くんだ。
 > CONTEXT: Map070/events/5/pages/1/66/Dialogue/enemy5
-Well I also followed her because I like her. And
-she's real scary when she gets mad, so I always
-listen to her.#RonIffy
+Well... I also followed her because I like her.
+And she's real scary when she gets mad, so I
+always listen to her.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -443,8 +443,8 @@ Was that your idea?#Ron
  『ミオ』様っていう先輩ネコマタの真似をしたんだよ！
 > CONTEXT: Map070/events/5/pages/1/146/Dialogue/enemy5
 Nope, I got the idea from a senior Nekomata
-called Mio who compared to me, has amazing magic
-power!#Ron
+called Mio. Compared to me, she has amazing
+magic power!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -604,8 +604,8 @@ with just the movements of her tongue.)#RonIffy
  　バーゲストは加減するが、こいつは無理だろ……。）
 > CONTEXT: Map070/events/5/pages/1/222/Dialogue/other2
 (...You couldn't say the same for this Haru.
-Barghest knows when to hold back, but one would
-be a nightmare...)#Ron
+Barghest knows when to hold back, but this one
+would be a nightmare...)#Ron
 > END STRING
 
 > BEGIN STRING
@@ -662,8 +662,8 @@ eating everything!!#Ron
 > CONTEXT: Map070/events/5/pages/1/257/Dialogue/enemy5
 When I was a cat, I couldn't have this, couldn't
 have that... they wouldn't let me eat any human
-food. So I always had this strong yearning to
-have some one day.#RonIffyWording
+food. So I've always had a strong yearning
+to have some one day.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1127,8 +1127,8 @@ fainted in the bathroom.#Ron
 今のうちに、少しアンタに聞いてほしいことがあってね…
 > CONTEXT: Map070/events/5/pages/1/577/Dialogue/enemy7
 If I'm being honest, I was about to continue
-milking you, but in the meantime, there's
-something I want to hear...#RonIffy
+milking you. But right now, there's something
+I want you to hear...#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -1137,9 +1137,9 @@ something I want to hear...#RonIffy
 急に居なくなったって話だったじゃないか。
 私、知ってるんだよ。そいつのこと。
 > CONTEXT: Map070/events/5/pages/1/584/Dialogue/enemy7
-....Haru's owner. You've heard the story about
-how they suddenly disappeared. Well, I know about
-them.#Ron
+...It's about Haru's owner. You've heard the
+story about they suddenly disappeared, right?
+Well, I knew about them.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1148,9 +1148,9 @@ them.#Ron
 悪魔を狩る仕事をしているヤツだった。
 とはいっても、実力はからっきしだったけどね。
 > CONTEXT: Map070/events/5/pages/1/592/Dialogue/enemy7
-He was a demon hunter... He was a guy whose job
-it was to hunt demons. That said, he didn't
-really have any actual power.#Ron
+He was a demon hunter... a guy whose job it was
+to hunt demons. That said, he didn't really have
+any actual power.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1202,9 +1202,9 @@ instinctively used my claws on him...#Ron
 アイツが猫の匂いをさせていたから、気になったんだ。
 だからその匂いを辿って来た。
 > CONTEXT: Map070/events/5/pages/1/621/Dialogue/enemy7
-And it was no accident that I passed by Haru's
-house. The guy smelled like a cat, so I got
-curious and followed the smell.#Ron
+...So it was no accident that I passed by
+Haru's house. The guy smelled like a cat, so I
+got curious and followed the smell.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1496,8 +1496,10 @@ won't cause any problems, right?#Ron
 
  少なくとも、ハルの気が済むまでは…ね。
 > CONTEXT: Map070/events/7/pages/0/13/Dialogue/enemy7
-Also sorry but I'm gonna be staying here for a
-while too. At least until Haru's satisfied...#Ron
+Sorry, but it looks I'm going to be
+staying here for a while too.
+
+At least until Haru's satisfied...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1543,7 +1545,7 @@ Do you want me to tease you?#Ron
 > BEGIN STRING
 現在の呼び方【\\N[3]】
 > CONTEXT: Map070/events/9/pages/0/33/ChoiceHelp
-Change how you address Liz, currently [\\N[3]].#Ron
+Change how you address Liz. Currently [\\N[3]].#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1626,7 +1628,7 @@ Milkingen(v[46] \>= 75)#Ron
 言っただろう？この部屋に来たがったのはハルなんだ。
 > CONTEXT: Map070/events/9/pages/0/172/Dialogue/enemy7
 Uhh... Haru's probably the one you should be
-giving stuff to. Remember it was Haru who wanted
+giving stuff to. Remember, it was Haru who wanted
 to come here.#Ron
 > END STRING
 
@@ -1673,7 +1675,8 @@ Their Tonesen(v[46] \>= 70)#RonIffy
 
  私が普通の猫だったハルを見つけたんだ。
 > CONTEXT: Map070/events/9/pages/1/12/Dialogue/enemy7
-Nothing really amazing about how I met Haru.
+There was nothing really special about
+how I met Haru.
 
 She was an ordinary cat when I found her.#Ron
 > END STRING
@@ -1683,7 +1686,7 @@ She was an ordinary cat when I found her.#Ron
 
 やつれ具合から見るに、大分日にちも経ってた。
 > CONTEXT: Map070/events/9/pages/1/16/Dialogue/enemy7
-She was a housecat but her owners had left her
+She was a housecat, but her owners had left her
 locked up in the house. I could see from her
 emaciated condition that she'd been in there for
 quite a while.#Ron
