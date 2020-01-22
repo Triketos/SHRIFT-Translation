@@ -1,20 +1,20 @@
 ﻿> GAIJINIZER PATCH FILE
 > BEGIN STRING
 バグベア【敗北】
-> CONTEXT: Troops/311/name < UNTRANSLATED
-
+> CONTEXT: Troops/311/name
+Bug Bear [Defeat]#GT
 > END STRING
 
 > BEGIN STRING
 うぁぁぁ……ぁ……ぁ……ぁ……
-> CONTEXT: CommonEvents_634/5/Dialogue/kazuya-c < UNTRANSLATED
-
+> CONTEXT: CommonEvents_634/5/Dialogue/kazuya-c
+Uaaaaah...aa...aa..#GT
 > END STRING
 
 > BEGIN STRING
 \\C[2]\\N[1]は、もう抵抗できる気力が残っていない……
-> CONTEXT: CommonEvents_634/7/Dialogue < UNTRANSLATED
-
+> CONTEXT: CommonEvents_634/7/Dialogue
+\\C[2]\\N[1] has no more energy to resist...#GT
 > END STRING
 
 > BEGIN STRING
@@ -22,8 +22,11 @@
 なかにくるときに、あばれてケガしたらたいへんたいへん
 
 ゆっくりひきずりこんであげるあげあぁ
-> CONTEXT: CommonEvents_634/9/Dialogue/enemy26 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_634/9/Dialogue/enemy26
+\\N[1]-kun is quiet...
+When you come inside, it is very difficult
+if you get hurt...
+I'll take you slowly...#GT
 > END STRING
 
 > BEGIN STRING
@@ -31,16 +34,21 @@
 
 どうしてそんな……こわいことするの……？
 ぼく……おうちにかえりたいよぉ……
-> CONTEXT: CommonEvents_634/14/Dialogue/kazuya-c < UNTRANSLATED
+> CONTEXT: CommonEvents_634/14/Dialogue/kazuya-c
+Yeah... Yeah...
 
+Why do you do such a scary thing?
+I want to go home...#GT
 > END STRING
 
 > BEGIN STRING
 帰さないよ、\\N[1]くん
 
 キミは今から、ボクのものだから
-> CONTEXT: CommonEvents_634/29/Dialogue/enemy26 < UNTRANSLATED
+> CONTEXT: CommonEvents_634/29/Dialogue/enemy26
+I won't return, \\N[1]-kun.
 
+You are my thing now.#GT
 > END STRING
 
 > BEGIN STRING
@@ -48,24 +56,30 @@
 
 いっぱいいっぱい、たのしいことするんだからああああ
 ああはははははははああははははへぁ！！！
-> CONTEXT: CommonEvents_634/33/Dialogue/enemy26 < UNTRANSLATED
+> CONTEXT: CommonEvents_634/33/Dialogue/enemy26
+From now on, I'm doing a lot of fun.
 
+Ohhahahahahahahahaha!!!#GT
 > END STRING
 
 > BEGIN STRING
 うあああああ……！！
 
 あああああぁぁぁぁぁ…！！！
-> CONTEXT: CommonEvents_634/38/Dialogue/kazuya-c < UNTRANSLATED
+> CONTEXT: CommonEvents_634/38/Dialogue/kazuya-c
+Waaahhhh...!!
 
+AAAAHHHHHhhhhh...!!!#GT
 > END STRING
 
 > BEGIN STRING
 \\C[10]………ああ、キミかぁ
 
 \\N[1]くんをボクにくれて、ありがとう
-> CONTEXT: CommonEvents_634/99/Dialogue/enemy25 < UNTRANSLATED
+> CONTEXT: CommonEvents_634/99/Dialogue/enemy25
+\\C[10]...Oh, you?
 
+Thank you for giving me \\N[1]-kun.#GT
 > END STRING
 
 > BEGIN STRING
@@ -73,8 +87,11 @@
 
 もちろん、ボクの中で楽しく遊んでるよ
 あんなに嫌がってたのに、やっぱり男の子だね
-> CONTEXT: CommonEvents_634/103/Dialogue/enemy25 < UNTRANSLATED
+> CONTEXT: CommonEvents_634/103/Dialogue/enemy25
+What happened to \\N[1]-kun?
 
+Of course, I'm having fun playing with me
+I was a boy though I hated that much#GT
 > END STRING
 
 > BEGIN STRING
@@ -82,8 +99,12 @@
 中で目一杯ベタベタ触って怖がらせるのがボクの仕事だけど…
 
 ホントは、いつもこうやって喜ばせてあげたいんだ…
-> CONTEXT: CommonEvents_634/108/Dialogue/enemy25 < UNTRANSLATED
+> CONTEXT: CommonEvents_634/108/Dialogue/enemy25
+In fact, scare the child with "that figure"
+It's my job to scare me by touching it
+all the way inside...
 
+I always want to please this way...#GT
 > END STRING
 
 > BEGIN STRING
@@ -91,8 +112,11 @@
 
 じゃあ、キミだけ特別だよ。
 \\N[1]くんの様子を、少しだけ見せてあげる。
-> CONTEXT: CommonEvents_634/114/Dialogue/enemy25 < UNTRANSLATED
+> CONTEXT: CommonEvents_634/114/Dialogue/enemy25
+...Concerned?
 
+Then, only you are special.
+I'll show you a little bit about \\N[1]-kun.#GT
 > END STRING
 
 > BEGIN STRING
@@ -100,24 +124,31 @@
 本当に怖いことされてないか、気になるんだもんね？
 
 ふふふ、証拠を見せてあげる
-> CONTEXT: CommonEvents_634/119/Dialogue/enemy25 < UNTRANSLATED
+> CONTEXT: CommonEvents_634/119/Dialogue/enemy25
+Because you're really scared of your important
+\\N[1]-kun, are you worried?
 
+I'll show you the proof.#GT
 > END STRING
 
 > BEGIN STRING
 ああぁぁぁ……♡♡
 
 ふぁあぁぁぁぁ……♡♡
-> CONTEXT: CommonEvents_634/148/Dialogue/kazuya-c < UNTRANSLATED
+> CONTEXT: CommonEvents_634/148/Dialogue/kazuya-c
+Aaahhh...♡♡
 
+Fuahhhhh...♡♡#GT
 > END STRING
 
 > BEGIN STRING
 どう？\\N[1]くん
 
 ボクのおなかのなか、スゴクきもちがいいでしょ？
-> CONTEXT: CommonEvents_634/152/Dialogue/enemy25 < UNTRANSLATED
+> CONTEXT: CommonEvents_634/152/Dialogue/enemy25
+How? \\N[1]-kun
 
+Isn't it nice to be in my stomach?#GT
 > END STRING
 
 > BEGIN STRING
@@ -125,8 +156,11 @@
 すごくきもちいいのに………むずむずするぅぅ…♡
 
 はずかしいのに…きもちいい……
-> CONTEXT: CommonEvents_634/156/Dialogue/kazuya-c < UNTRANSLATED
+> CONTEXT: CommonEvents_634/156/Dialogue/kazuya-c
+What is this... this is... ♡♡
+It ’s really good...♡
 
+Though it's ridiculous...#GT
 > END STRING
 
 > BEGIN STRING
@@ -134,8 +168,11 @@
 そんなっ……ぐちょぐちょされたら……♡
 
 がまんっ……できなっ……♡
-> CONTEXT: CommonEvents_634/163/Dialogue/kazuya-c < UNTRANSLATED
+> CONTEXT: CommonEvents_634/163/Dialogue/kazuya-c
+Oh... pee...
+That's it... if it's choppy... ♡
 
+I'm sorry... I can't... ♡#GT
 > END STRING
 
 > BEGIN STRING
@@ -143,8 +180,11 @@
 それはキミの知ってるおしっこじゃないんだ
 
 きもちいいときに出る、とくべつなものなんだよ！
-> CONTEXT: CommonEvents_634/168/Dialogue/enemy25 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_634/168/Dialogue/enemy25
+You don't have to do it, \\N[1]-kun!
+It's not the pee you know.
+It's a special thing that comes out
+when you feel good!#GT
 > END STRING
 
 > BEGIN STRING
@@ -152,16 +192,21 @@
 ボク、それがだいすきなんだ！
 
 えんりょなく、ボクの中にだしてイイよ
-> CONTEXT: CommonEvents_634/173/Dialogue/enemy25 < UNTRANSLATED
+> CONTEXT: CommonEvents_634/173/Dialogue/enemy25
+You're going to be 'entertaining' in me,
+so I don't like it!
 
+It's all right in me. I can't... ♡#GT
 > END STRING
 
 > BEGIN STRING
 うあっ……あああああっ……♡
 
 あああああああああああああああっ…！！♡♡♡
-> CONTEXT: CommonEvents_634/187/Dialogue/kazuya-c < UNTRANSLATED
+> CONTEXT: CommonEvents_634/187/Dialogue/kazuya-c
+Uahhh... Ahhhhhhh... ♡
 
+Aaahhhhhhhhhhhhhhh...!! ♡♡♡#GT
 > END STRING
 
 > BEGIN STRING
@@ -169,8 +214,11 @@
 
 もっと……もっとしてぇ…♡♡
 いっぱい、ぼくをなでてぇ……♡
-> CONTEXT: CommonEvents_634/233/Dialogue/kazuya-c < UNTRANSLATED
+> CONTEXT: CommonEvents_634/233/Dialogue/kazuya-c
+Ahhhh... ♡ Kimochii... ♡
 
+More... More... ♡♡
+Stroke me a lot... ♡#GT
 > END STRING
 
 > BEGIN STRING
@@ -178,8 +226,11 @@
 いやなことはわすれて、ずっとそこにいたいでしょ？
 
 \\N[1]くんが、きがすむまで、ずっといていいからね！
-> CONTEXT: CommonEvents_634/240/Dialogue/enemy25 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_634/240/Dialogue/enemy25
+Fufufu... Did you like it?
+Forget about the bad things and want to stay
+there forever, right?
+\\N[1]-kun can stay forever until he feels good!#GT
 > END STRING
 
 > BEGIN STRING
@@ -187,8 +238,11 @@
 
 ぼく……ぼくぅ…おかしくなっちゃう……♡
 きもち……よすぎ…てぇ…♡
-> CONTEXT: CommonEvents_634/245/Dialogue/kazuya-c < UNTRANSLATED
+> CONTEXT: CommonEvents_634/245/Dialogue/kazuya-c
+Ahhhhh... ♡♡♡
 
+I... I...I'm going crazy... ♡
+Feelings... too good... Tee... ♡#GT
 > END STRING
 
 > BEGIN STRING
@@ -196,8 +250,11 @@
 
 クマさんのなか…すごくきもちいい……♡
 もっとぉ……もっとぉ……♡♡
-> CONTEXT: CommonEvents_634/250/Dialogue/kazuya-c < UNTRANSLATED
+> CONTEXT: CommonEvents_634/250/Dialogue/kazuya-c
+I...
 
+Among the bears… It ’s really exciting... ♡
+More... More... ♡♡#GT
 > END STRING
 
 > BEGIN STRING
@@ -205,8 +262,11 @@
 
 \\N[1]くんは、すっごく楽しんでくれてるよ
 ……元の世界に帰りたくなくなるくらいにね。
-> CONTEXT: CommonEvents_634/312/Dialogue/enemy25 < UNTRANSLATED
+> CONTEXT: CommonEvents_634/312/Dialogue/enemy25
+Did you understand?
 
+\\N[1]-kun really enjoys it
+...I don't want to go back to the original world.#GT
 > END STRING
 
 > BEGIN STRING
@@ -214,8 +274,11 @@
 \\N[1]くんは子供だからね
 
 その代わり、時間をかけて可愛がってあげるつもりだよ
-> CONTEXT: CommonEvents_634/317/Dialogue/enemy25 < UNTRANSLATED
+> CONTEXT: CommonEvents_634/317/Dialogue/enemy25
+Of course, you can do it even harder...
+\\N[1] is a child...
 
+Instead, I'll take care of you over time.#GT
 > END STRING
 
 > BEGIN STRING
@@ -223,8 +286,11 @@
 
 \\N[1]くんが、ボクのことを
 完全に受け入れてくれたって証拠だよ。
-> CONTEXT: CommonEvents_634/324/Dialogue/enemy25 < UNTRANSLATED
+> CONTEXT: CommonEvents_634/324/Dialogue/enemy25
+...The light of the lantern has disappeared.
 
+\\N[1], that's proof that you've accepted me
+completely.#GT
 > END STRING
 
 > BEGIN STRING
@@ -232,8 +298,11 @@
 キミの知ってる\\N[1]くんじゃない
 
 子供の、無力で、快楽しか考えられないおサルさん…
-> CONTEXT: CommonEvents_634/329/Dialogue/enemy25 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_634/329/Dialogue/enemy25
+\\N[1]-kun in me already.
+It's not \\N[1]-kun you know...
+A monkey who can only think of pleasure
+with helplessness of a child...#GT
 > END STRING
 
 > BEGIN STRING
@@ -241,14 +310,17 @@
 ずーーーーーーっと、ボクの中で遊び続けるんだ…
 
 もちろん、苦痛なんて感じさせないよ
-> CONTEXT: CommonEvents_634/334/Dialogue/enemy25 < UNTRANSLATED
+> CONTEXT: CommonEvents_634/334/Dialogue/enemy25
+As it is, until you die debilitated in reality,
+I'm going to keep playing in me...
 
+Of course, I won't let you feel pain.#GT
 > END STRING
 
 > BEGIN STRING
 ボク、いつかキミとも一緒に遊びたいなぁ
-> CONTEXT: CommonEvents_634/340/Dialogue/enemy25 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_634/340/Dialogue/enemy25
+I want to play with you someday#GT
 > END STRING
 
 > BEGIN STRING
@@ -256,22 +328,29 @@
 だって\\N[1]くんをくれたって事は、そういうことだもんね？
 
 ボクと一緒に遊んでくれるよね？
-> CONTEXT: CommonEvents_634/342/Dialogue/enemy25 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_634/342/Dialogue/enemy25
+It's okay, right? 
+That's what it's like to have given me
+\\N[1]-kun, right?
+You're going to play with me, won't you?#GT
 > END STRING
 
 > BEGIN STRING
 いつか、夢の中で会おうね
 
 ボクが必ず会いに行くから
-> CONTEXT: CommonEvents_634/347/Dialogue/enemy25 < UNTRANSLATED
+> CONTEXT: CommonEvents_634/347/Dialogue/enemy25
+Someday, let's meet in a dream.
 
+I'm always going to see you...#GT
 > END STRING
 
 > BEGIN STRING
 そのときはははは
 
 ぼくのすがたをみてもにげないでね
-> CONTEXT: CommonEvents_634/352/Dialogue/enemy26 < UNTRANSLATED
+> CONTEXT: CommonEvents_634/352/Dialogue/enemy26
+At that time...
 
+Don't be angry at me...#GT
 > END STRING
