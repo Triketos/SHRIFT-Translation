@@ -3525,19 +3525,6 @@ Nina (dance)#MTLed
 > END STRING
 
 > BEGIN STRING
-さあ！本日もやって参りました！！
-
- 魔界で随一の人気を誇るリアル・エンターテイメント番組
- 『魔界TV　人間逆レイプSHOW』！！
-> CONTEXT: Troops/71/pages/0/14/Dialogue/enemy6
-> CONTEXT: Troops/72/pages/0/15/Dialogue/enemy6
-Alright! Coming at you again today!!
-It's the most-watched reality TV show in the demon
-realm. It's Demon Realm TV's \\C[27]☆Human Reverse Rape
-Show☆\\C[0]!!#Ron
-> END STRING
-
-> BEGIN STRING
 ここで、ゲストの\\N[1]くんには
 
  この番組の『進行』を決めてもらいましょーー！
@@ -6855,24 +6842,6 @@ Gaa!!!#MTLed
 > END STRING
 
 > BEGIN STRING
-戦闘に勝利したことにより
-\\C[2]エコーに対しての気丈な精神を少し取り戻した…
-> CONTEXT: Troops/160/pages/2/54/Dialogue
-> CONTEXT: Troops/161/pages/2/51/Dialogue
-> CONTEXT: Troops/163/pages/2/55/Dialogue
-> CONTEXT: Troops/169/pages/2/50/Dialogue
-> CONTEXT: Troops/171/pages/2/50/Dialogue
-> CONTEXT: Troops/192/pages/2/50/Dialogue
-> CONTEXT: Troops/193/pages/2/50/Dialogue
-> CONTEXT: Troops/204/pages/2/50/Dialogue
-> CONTEXT: Troops/205/pages/2/50/Dialogue
-> CONTEXT: Troops/214/pages/2/50/Dialogue
-> CONTEXT: Troops/221/pages/2/50/Dialogue
-By winning the battle. \\C[2]I have regained some of the noble
-spirit against Echo ...#MTLed
-> END STRING
-
-> BEGIN STRING
 エコー（初戦）
 > CONTEXT: Troops/161/name
 Echo (First Battle)#MTLed
@@ -9454,12 +9423,6 @@ If you decide, decide at once! !#MTLed
 > END STRING
 
 > BEGIN STRING
-ワウッ！！！！
-> CONTEXT: Troops/251/pages/5/27/Dialogue/バーゲスト2
-Waoof!!! !#MTLed
-> END STRING
-
-> BEGIN STRING
 …………！！！
 
 レイナ！！！！！！！！！
@@ -11214,14 +11177,6 @@ All right……. My "Assassination" is very pleasant
 > END STRING
 
 > BEGIN STRING
-あっ……あっ……♡
-
-あはぁ……ぁ♡♡
-> CONTEXT: Troops/290/pages/1/127/Dialogue/kazuya-0
-Oh ...... uh...♡. AHh......#MTLed
-> END STRING
-
-> BEGIN STRING
 ふふふ、そうそう……♡
 
 必死でガマンする\\N[1]くんより
@@ -12579,6 +12534,7 @@ Mormo(G)#Triketos
 > BEGIN STRING
 あ、危ない！！\\N[1]！！
 > CONTEXT: Troops/310/pages/0/6/Dialogue/other2 < UNTRANSLATED
+> CONTEXT: Troops/310/pages/0/36/Dialogue/other2 < UNTRANSLATED
 
 > END STRING
 
@@ -12587,12 +12543,14 @@ Mormo(G)#Triketos
 
 うわあああああああああああああ！！！！
 > CONTEXT: Troops/310/pages/0/8/Dialogue/kazuya-0 < UNTRANSLATED
+> CONTEXT: Troops/310/pages/0/38/Dialogue/kazuya-0 < UNTRANSLATED
 
 > END STRING
 
 > BEGIN STRING
 "[SYSTEM]\\n予期せぬエラーが発生しました"
 > CONTEXT: Troops/310/pages/0/27/InlineScript/1:6 < UNTRANSLATED
+> CONTEXT: Troops/310/pages/0/57/InlineScript/1:6 < UNTRANSLATED
 
 > END STRING
 
