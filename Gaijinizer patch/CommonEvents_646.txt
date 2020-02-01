@@ -438,8 +438,11 @@ You can do that without attacking, right?#Triketos
 
 \\C[2]アタシが手に魔力を溜めただけじゃ
 耐えようだなんて考えないはずよね？
-> CONTEXT: CommonEvents_646/239/Dialogue/enemy3 < UNTRANSLATED
+> CONTEXT: CommonEvents_646/239/Dialogue/enemy3
+After all......
 
+\\C[2]Just because I have the magic in my hand
+You shouldn't think you'll endure it, right?#TriketosPartial
 > END STRING
 
 > BEGIN STRING
@@ -447,7 +450,10 @@ You can do that without attacking, right?#Triketos
 
 選択肢が少ないにしたって、少しは勘ぐるはず……
 > CONTEXT: CommonEvents_646/244/Dialogue/enemy3 < UNTRANSLATED
-
+Even more so, right after I said,
+'Think you can take this?'...
+You had a few choices, I'm surprised
+you weren't suspicious of me...#TriketosPartial
 > END STRING
 
 > BEGIN STRING
@@ -456,13 +462,16 @@ You can do that without attacking, right?#Triketos
 
 癪にさわるけど、認めるしかないわね……
 > CONTEXT: CommonEvents_646/248/Dialogue/enemy3 < UNTRANSLATED
+This is... quite odd... even so...
 
+You are incredibly irritating, but I have to
+recognize your skill...#TriketosPartial
 > END STRING
 
 > BEGIN STRING
 ヘカーテは、何やらブツブツ呟いている………
 > CONTEXT: CommonEvents_646/255/Dialogue < UNTRANSLATED
-
+Hecate is muttering something...#TriketosPartial
 > END STRING
 
 > BEGIN STRING
@@ -471,7 +480,10 @@ You can do that without attacking, right?#Triketos
 
 アンタがこれを避けられたら、見逃してあげる
 > CONTEXT: CommonEvents_646/258/Dialogue/enemy2 < UNTRANSLATED
+Alright...
+This is the last one.
 
+If you can dodge this, I'll let you go.#TriketosPartial
 > END STRING
 
 > BEGIN STRING
@@ -479,19 +491,21 @@ You can do that without attacking, right?#Triketos
 
 回避した方がよさそうだ…
 > CONTEXT: CommonEvents_646/263/Dialogue < UNTRANSLATED
+Hecate \\C[2]concentrates her magic...
 
+It seems better to avoid it ...#TriketosPartial
 > END STRING
 
 > BEGIN STRING
 あ……うぁ……ぁ…♡
-> CONTEXT: CommonEvents_646/277/Dialogue/kazuya-0 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_646/277/Dialogue/kazuya-0
+Ah... ahh... ah...♡
 > END STRING
 
 > BEGIN STRING
 \\N[1]は、ヘカーテに魅了されてしまった……
-> CONTEXT: CommonEvents_646/279/Dialogue < UNTRANSLATED
-
+> CONTEXT: CommonEvents_646/279/Dialogue
+\\N[1] was charmed by Hectate...#TriketosPartial
 > END STRING
 
 > BEGIN STRING
@@ -499,8 +513,11 @@ You can do that without attacking, right?#Triketos
 そんなにアタシの顔を見つめて、気があるのかしら？
 
 でも、悪魔相手だと、それは命取りなんだよ？♡
-> CONTEXT: CommonEvents_646/281/Dialogue/enemy2 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_646/281/Dialogue/enemy2
+Kyahahaha♡
+Do you like staring at me that much?
+If you're up against a demon,
+isn't that very dangerous♡?#TriketosPartial
 > END STRING
 
 > BEGIN STRING
@@ -508,22 +525,28 @@ You can do that without attacking, right?#Triketos
 無理矢理犯されるのが好きなんだね♡
 
 それじゃあ、望み通りやってあげる♡
-> CONTEXT: CommonEvents_646/286/Dialogue/enemy2 < UNTRANSLATED
+> CONTEXT: CommonEvents_646/286/Dialogue/enemy2
+After all, Kazuya-kun likes to be raped against
+his will instead of being tempted♡
 
+Well then, I'll do exactly as you wish♡#TriketosPartial
 > END STRING
 
 > BEGIN STRING
 …………それよ
-> CONTEXT: CommonEvents_646/297/Dialogue/enemy3 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_646/297/Dialogue/enemy3
+......That's enough.#TriketosPartial
 > END STRING
 
 > BEGIN STRING
 なんなの？その『的確に対処できる』行動……
 
 まるで\\C[2]直前に誰かに教えられてるみたいに……
-> CONTEXT: CommonEvents_646/299/Dialogue/enemy3 < UNTRANSLATED
+> CONTEXT: CommonEvents_646/299/Dialogue/enemy3
+What's going on...? It's like you know exactly
+what to do against my moves...
 
+It's like \\C[2]someone's told you what to do....#TriketosPartial
 > END STRING
 
 > BEGIN STRING
@@ -531,30 +554,39 @@ You can do that without attacking, right?#Triketos
 
 アンタが危機一髪を余裕をもって回避するとき
 いつだって不自然な『間』があった………
-> CONTEXT: CommonEvents_646/303/Dialogue/enemy3 < UNTRANSLATED
+> CONTEXT: CommonEvents_646/303/Dialogue/enemy3
+For just a second...
 
+Whenever you just barely evade something,
+there was always an unnatural "gap"....#TriketosPartial
 > END STRING
 
 > BEGIN STRING
 ……………ふーん、そういうことね？
 
 なんだか、だいたい分かってきたわ………
-> CONTEXT: CommonEvents_646/309/Dialogue/enemy2 < UNTRANSLATED
+> CONTEXT: CommonEvents_646/309/Dialogue/enemy2
+......Hmmm, that's what it is, isn't it?
 
+I think I'm beginning to understand.......#TriketosPartial
 > END STRING
 
 > BEGIN STRING
 じゃあ、次はこんなのとか………
 
 アンタに耐えられるかしら？
-> CONTEXT: CommonEvents_646/313/Dialogue/enemy2 < UNTRANSLATED
+> CONTEXT: CommonEvents_646/313/Dialogue/enemy2
+Well then, next time...
 
+Think you can take this?#TriketosPartial
 > END STRING
 
 > BEGIN STRING
 ヘカーテは、手に魔力を集中させた……
 
 \\C[2]身を守ったほうがよさそうだ………
-> CONTEXT: CommonEvents_646/318/Dialogue < UNTRANSLATED
+> CONTEXT: CommonEvents_646/318/Dialogue
+Hecate concentrated her magic into her hands...
 
+\\C[2]It seems like a good idea to protect yourself....#TriketosPartial
 > END STRING

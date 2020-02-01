@@ -328,3 +328,29 @@ I don't want to say anything in detail...#GT
 
 I have a bad feeling...#GT
 > END STRING
+
+> BEGIN STRING
+
+　　　　　　　　\\C[10]元に戻った主人公に関する注意
+> CONTEXT: Map359/events/10/pages/0/218/Dialogue
+\\C[10]A Warning About \\N[1] Recovering#TriketosPartial
+> END STRING
+
+> BEGIN STRING
+
+ショタ状態から元に戻った\\N[1]は
+\\C[2]装備が全て外れていますので、注意してください
+> CONTEXT: Map359/events/10/pages/0/221/Dialogue
+\\N[1] has recoverd from his child state.
+\\C[2]Please note that all equipment has been removed.#TriketosPartial
+> END STRING
+
+> BEGIN STRING
+また、装備中だった特定の武器は
+\\C[2]アイテムボックスに格納されている場合があります
+手元にない場合は、アイテムボックスを確認してみてください。
+> CONTEXT: Map359/events/10/pages/0/225/Dialogue
+Also, certain weapons that were being equipped
+may be stored in the item box.
+\\C[2]If you don't have it, check the item box.#TriketosPartial
+> END STRING

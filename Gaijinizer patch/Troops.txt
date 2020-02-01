@@ -12465,8 +12465,8 @@ It f-feels... good...♡#GT
 > CONTEXT: Troops/308/pages/1/106/Dialogue/enemy
 The source of my "energy" ...
 
-\\N[1] When you feel a lot.
-From here it will come out as a white thing ♡#GT
+\\N[1], when you feel a lot...
+White stuff will come out of here... ♡#GT
 > END STRING
 
 > BEGIN STRING
@@ -12533,50 +12533,56 @@ Mormo(G)#Triketos
 
 > BEGIN STRING
 あ、危ない！！\\N[1]！！
-> CONTEXT: Troops/310/pages/0/6/Dialogue/other2 < UNTRANSLATED
-> CONTEXT: Troops/310/pages/0/36/Dialogue/other2 < UNTRANSLATED
-
+> CONTEXT: Troops/310/pages/0/6/Dialogue/other2
+> CONTEXT: Troops/310/pages/0/36/Dialogue/other2
+L-look out!! \\N[1]!!#TriketosPartial
 > END STRING
 
 > BEGIN STRING
 う………
 
 うわあああああああああああああ！！！！
-> CONTEXT: Troops/310/pages/0/8/Dialogue/kazuya-0 < UNTRANSLATED
-> CONTEXT: Troops/310/pages/0/38/Dialogue/kazuya-0 < UNTRANSLATED
+> CONTEXT: Troops/310/pages/0/8/Dialogue/kazuya-0
+> CONTEXT: Troops/310/pages/0/38/Dialogue/kazuya-0
+W-ww...
 
+AHHHHHHHHHHHHHHH!!!!#TriketosPartial
 > END STRING
 
 > BEGIN STRING
 "[SYSTEM]\\n予期せぬエラーが発生しました"
-> CONTEXT: Troops/310/pages/0/27/InlineScript/1:6 < UNTRANSLATED
-> CONTEXT: Troops/310/pages/0/57/InlineScript/1:6 < UNTRANSLATED
-
+> CONTEXT: Troops/310/pages/0/27/InlineScript/1:6
+> CONTEXT: Troops/310/pages/0/57/InlineScript/1:6
+"[SYSTEM]\\nAn unexpected error has occurred."
 > END STRING
 
 > BEGIN STRING
 ミテ……ミテ……
 
 ボクノ……ゼンブ……
-> CONTEXT: Troops/310/pages/2/1/Dialogue/Gface2 < UNTRANSLATED
-> CONTEXT: Troops/310/pages/2/11/Dialogue/Gface2 < UNTRANSLATED
+> CONTEXT: Troops/310/pages/2/1/Dialogue/Gface2
+> CONTEXT: Troops/310/pages/2/11/Dialogue/Gface2
+Look... look...
 
+Look at me...#TriketosPartial
 > END STRING
 
 > BEGIN STRING
 モルモーの特性が変化した！
-> CONTEXT: Troops/310/pages/2/6/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/310/pages/2/16/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/310/pages/2/6/Dialogue
+> CONTEXT: Troops/310/pages/2/16/Dialogue
+Mormo's characteristics have changed!#TriketosPartial
 > END STRING
 
 > BEGIN STRING
 見つけたよ、\\N[1]くん
 
 さぁ、ボクといっしょにあそぼう！！！
-> CONTEXT: Troops/311/pages/1/8/Dialogue/enemy25 < UNTRANSLATED
-> CONTEXT: Troops/313/pages/1/7/Dialogue/enemy25 < UNTRANSLATED
+> CONTEXT: Troops/311/pages/1/8/Dialogue/enemy25
+> CONTEXT: Troops/313/pages/1/7/Dialogue/enemy25
+I found you, \\N[1].
 
+Now, come play with me!!!#TriketosPartial
 > END STRING
 
 > BEGIN STRING
@@ -12666,7 +12672,7 @@ to lose, right?#Triketos
 You look like you want to say,
 
 "You've broken your promises before,
-why should I agree?"#Triketos
+why should I agree?"#TriketosPartial
 > END STRING
 
 > BEGIN STRING
@@ -12674,8 +12680,11 @@ why should I agree?"#Triketos
 
 その時は、アンタが絶対に勝てないようにするだけだから
 どんなにアタシが嫌いでも、絶対抵抗させてあげない
-> CONTEXT: Troops/314/pages/1/50/Dialogue/enemy2 < UNTRANSLATED
+> CONTEXT: Troops/314/pages/1/50/Dialogue/enemy2
+Is that okay? I hope you won't reset.
 
+If you do, I'll never let you win. No matter
+how much I hate you, I'll hold back.#TriketosPartial
 > END STRING
 
 > BEGIN STRING
@@ -12683,8 +12692,11 @@ why should I agree?"#Triketos
 アンタが勝てる見込みなんて、一切ないけどね？
 
 試してみる？
-> CONTEXT: Troops/314/pages/1/55/Dialogue/enemy2 < UNTRANSLATED
+> CONTEXT: Troops/314/pages/1/55/Dialogue/enemy2
+...Well anyways, you have no chance of winning
+if you're going to stand there, right?
 
+Want to give it a try?#TriketosPartial
 > END STRING
 
 > BEGIN STRING
