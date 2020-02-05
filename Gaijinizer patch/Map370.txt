@@ -1,58 +1,58 @@
 ﻿> GAIJINIZER PATCH FILE
 > BEGIN STRING
 デバッグモードen(s[999999999])
-> CONTEXT: Map370/events/1/pages/0/12/Choice/0 < UNTRANSLATED
-> CONTEXT: Map370/events/1/pages/0/112/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Map370/events/1/pages/0/12/Choice/0
+> CONTEXT: Map370/events/1/pages/0/112/Choice/0
+Debug Modeen(s[999999999])#Triketos
 > END STRING
 
 > BEGIN STRING
 ウイルススキャン
-> CONTEXT: Map370/events/1/pages/0/12/Choice/1 < UNTRANSLATED
-> CONTEXT: Map370/events/1/pages/0/112/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Map370/events/1/pages/0/12/Choice/1
+> CONTEXT: Map370/events/1/pages/0/112/Choice/1
+Virus Scan#Triketos
 > END STRING
 
 > BEGIN STRING
 『介入』システム管理
-> CONTEXT: Map370/events/1/pages/0/12/Choice/2 < UNTRANSLATED
-> CONTEXT: Map370/events/1/pages/0/112/Choice/2 < UNTRANSLATED
-
+> CONTEXT: Map370/events/1/pages/0/12/Choice/2
+> CONTEXT: Map370/events/1/pages/0/112/Choice/2
+Intervention System Settings#Triketos
 > END STRING
 
 > BEGIN STRING
 チートコードen(s[999999999])
-> CONTEXT: Map370/events/1/pages/0/12/Choice/3 < UNTRANSLATED
-> CONTEXT: Map370/events/1/pages/0/112/Choice/3 < UNTRANSLATED
-
+> CONTEXT: Map370/events/1/pages/0/12/Choice/3
+> CONTEXT: Map370/events/1/pages/0/112/Choice/3
+Cheat Codesen(s[999999999])#Triketos
 > END STRING
 
 > BEGIN STRING
 デバッグモード：【警告】
-> CONTEXT: Map370/events/1/pages/0/14/ChoiceHelp < UNTRANSLATED
-> CONTEXT: Map370/events/1/pages/0/114/ChoiceHelp < UNTRANSLATED
-
+> CONTEXT: Map370/events/1/pages/0/14/ChoiceHelp
+> CONTEXT: Map370/events/1/pages/0/114/ChoiceHelp
+Debug mode:[Warning]#Triketos
 > END STRING
 
 > BEGIN STRING
 ウイルススキャンを開始します
-> CONTEXT: Map370/events/1/pages/0/21/ChoiceHelp < UNTRANSLATED
-> CONTEXT: Map370/events/1/pages/0/119/ChoiceHelp < UNTRANSLATED
-
+> CONTEXT: Map370/events/1/pages/0/21/ChoiceHelp
+> CONTEXT: Map370/events/1/pages/0/119/ChoiceHelp
+Start Virus Scan#Triketos
 > END STRING
 
 > BEGIN STRING
 "[SYSTEM]\\nウイルススキャン、開始"
-> CONTEXT: Map370/events/1/pages/0/25/InlineScript/1:6 < UNTRANSLATED
-> CONTEXT: Map370/events/1/pages/0/122/InlineScript/1:6 < UNTRANSLATED
-
+> CONTEXT: Map370/events/1/pages/0/25/InlineScript/1:6
+> CONTEXT: Map370/events/1/pages/0/122/InlineScript/1:6
+"[SYSTEM]\\nVirus scan started."#Triketos
 > END STRING
 
 > BEGIN STRING
 "[SYSTEM]\\n異常は検出されませんでした"
-> CONTEXT: Map370/events/1/pages/0/29/InlineScript/1:6 < UNTRANSLATED
-> CONTEXT: Map370/events/1/pages/0/125/InlineScript/1:6 < UNTRANSLATED
-
+> CONTEXT: Map370/events/1/pages/0/29/InlineScript/1:6
+> CONTEXT: Map370/events/1/pages/0/125/InlineScript/1:6
+"[SYSTEM]\\nNo anomalies detected."#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -64,9 +64,9 @@
 
 > BEGIN STRING
 【介入】：ID System\\RGSS301.dll
-> CONTEXT: Map370/events/1/pages/0/36/Choice/0 < UNTRANSLATED
-> CONTEXT: Map370/events/1/pages/0/132/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Map370/events/1/pages/0/36/Choice/0
+> CONTEXT: Map370/events/1/pages/0/132/Choice/0
+Intervention ID: System\\RGSS301.dll
 > END STRING
 
 > BEGIN STRING
@@ -79,8 +79,11 @@
 アクセスID：System\\RGSS301.dll
 ステータス：\\C[18]異常\\C[0]
 診断：外部の要因によりアクセス権が停止しています
-> CONTEXT: Map370/events/1/pages/0/38/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map370/events/1/pages/0/38/Dialogue
+Access ID: System\\RGSS301.dll
+Status:\\C[18]Abnormal\\C[0]
+Diagnosis: Authorization has been revoked
+due to external access.#TriketosLocalize
 > END STRING
 
 > BEGIN STRING
@@ -88,42 +91,45 @@
 ステータス：\\C[18]異常\\C[0]
 診断：不正なアクセスです。
 \\C[2]『クイックスタート』にて、早急に対処してください。
-> CONTEXT: Map370/events/1/pages/0/44/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map370/events/1/pages/0/44/Dialogue
+Access ID: System\\RGSS301.dll
+Status:\\C[18]Abnormal\\C[0]
+Diagnosis: Invalid access.
+\\C[2]Please take immiedate action in "Quick Start".#Triketos
 > END STRING
 
 > BEGIN STRING
 各種チートコード一覧です
-> CONTEXT: Map370/events/1/pages/0/56/ChoiceHelp < UNTRANSLATED
-> CONTEXT: Map370/events/1/pages/0/144/ChoiceHelp < UNTRANSLATED
-
+> CONTEXT: Map370/events/1/pages/0/56/ChoiceHelp
+> CONTEXT: Map370/events/1/pages/0/144/ChoiceHelp
+List of Cheat Codes#Triketos
 > END STRING
 
 > BEGIN STRING
 フラグ管理en(s[999999999])
-> CONTEXT: Map370/events/1/pages/0/61/Choice/0 < UNTRANSLATED
-> CONTEXT: Map370/events/1/pages/0/149/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Map370/events/1/pages/0/61/Choice/0
+> CONTEXT: Map370/events/1/pages/0/149/Choice/0
+Flag Managementen(s[999999999])#Triketos
 > END STRING
 
 > BEGIN STRING
 クイックスタートen(s[570])
-> CONTEXT: Map370/events/1/pages/0/61/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Map370/events/1/pages/0/61/Choice/1
+Quick Starten(s[570])#Triketos
 > END STRING
 
 > BEGIN STRING
 介入同調率調整en(s[999999999])
-> CONTEXT: Map370/events/1/pages/0/61/Choice/2 < UNTRANSLATED
-> CONTEXT: Map370/events/1/pages/0/149/Choice/2 < UNTRANSLATED
-
+> CONTEXT: Map370/events/1/pages/0/61/Choice/2
+> CONTEXT: Map370/events/1/pages/0/149/Choice/2
+Intervention Synch Rate Tuningen(s[999999999])#Triketos
 > END STRING
 
 > BEGIN STRING
 各種フラグ一覧です
-> CONTEXT: Map370/events/1/pages/0/63/ChoiceHelp < UNTRANSLATED
-> CONTEXT: Map370/events/1/pages/0/151/ChoiceHelp < UNTRANSLATED
-
+> CONTEXT: Map370/events/1/pages/0/63/ChoiceHelp
+> CONTEXT: Map370/events/1/pages/0/151/ChoiceHelp
+List of System Flags#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -135,13 +141,13 @@
 > BEGIN STRING
 "[SYSTEM]\\n介入対象がロストしました"
 > CONTEXT: Map370/events/1/pages/0/73/InlineScript/1:6 < UNTRANSLATED
-
+"[SYSTEM]\\nThe intevention target has been lost."
 > END STRING
 
 > BEGIN STRING
 "[SYSTEM]\\n異常対処用の操作媒体を検索中…"
 > CONTEXT: Map370/events/1/pages/0/76/InlineScript/1:6 < UNTRANSLATED
-
+"[SYSTEM]\\nSearching for media on how to handle abnormality..."
 > END STRING
 
 > BEGIN STRING
@@ -153,27 +159,29 @@
 
 > BEGIN STRING
 タイトル画面に戻る
-> CONTEXT: Map370/events/1/pages/0/100/Choice/0 < UNTRANSLATED
-> CONTEXT: Map370/events/1/pages/0/168/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Map370/events/1/pages/0/100/Choice/0
+> CONTEXT: Map370/events/1/pages/0/168/Choice/0
+Return to Title Screen#Triketos
 > END STRING
 
 > BEGIN STRING
 アクセスID：System\\RGSS301.dll
 ステータス：\\C[11]通常\\C[0]
 診断：問題なく動作しています
-> CONTEXT: Map370/events/1/pages/0/134/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map370/events/1/pages/0/134/Dialogue
+Access ID: System\\RGSS301.dll
+Status:\\C[11]Normal\\C[0]
+Diagnosis: No problems found.#Triketos
 > END STRING
 
 > BEGIN STRING
 クイックスタートen(s[999999999])
-> CONTEXT: Map370/events/1/pages/0/149/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Map370/events/1/pages/0/149/Choice/1
+Quick Starten(s[999999999])#Triketos
 > END STRING
 
 > BEGIN STRING
 規定の場所よりスタートできます
-> CONTEXT: Map370/events/1/pages/0/156/ChoiceHelp < UNTRANSLATED
-
+> CONTEXT: Map370/events/1/pages/0/156/ChoiceHelp
+Start From Designated Location#TriketosIffy
 > END STRING
