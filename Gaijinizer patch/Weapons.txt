@@ -412,7 +412,7 @@ number of attribute bullets#MTLed
 > BEGIN STRING
 ∞リベリオン
 > CONTEXT: Weapons/88/name
-リ Rebellion#MTLed
+∞ Rebellion#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -584,4 +584,17 @@ single person. You will take penalties due to its sheer weight.#Triketos
 多弾頭ランチャー
 > CONTEXT: Weapons/105/name
 MIRV Launcher#Triketos
+> END STRING
+
+> BEGIN STRING
+かつては相反していたものがひとつとなり
+立ち塞がる者を粉砕する斧となる
+> CONTEXT: Weapons/106/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+冥砕牙断
+> CONTEXT: Weapons/106/name < UNTRANSLATED
+
 > END STRING
