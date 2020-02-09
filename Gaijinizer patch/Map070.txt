@@ -39,7 +39,6 @@ Haru-sama#MTLed
 > BEGIN STRING
 "ハルちゃん"
 > CONTEXT: Map070/events/5/pages/0/40/InlineScript/1:23
-"Haru-chan"#MTLed
 > CONTEXT: Troops/90/pages/1/88/InlineScript/1:23
 "Haru-chan"#MTLed
 > END STRING
@@ -86,7 +85,7 @@ Milking (69)en(v[46] \>= 50)#Ron
 あー…ごめんね、\\N[1]くん。
 
 そういうのを貰っても、使い道に困るっていうか…
-> CONTEXT: Map070/events/5/pages/0/197/Dialogue/enemy5
+> CONTEXT: Map070/events/5/pages/0/227/Dialogue/enemy5
 Aah... sorry, \\N[1]-kun.
 
 Even if I took that, I don't really have
@@ -95,14 +94,14 @@ a use for it.#Ron
 
 > BEGIN STRING
 やっぱり貢ぎ物は、お弁当系の食べ物がいいなー、なんて…
-> CONTEXT: Map070/events/5/pages/0/201/Dialogue/enemy5
+> CONTEXT: Map070/events/5/pages/0/231/Dialogue/enemy5
 If you really want to offer us up something,
 it should be some lunchbox food.#RonIffy
 > END STRING
 
 > BEGIN STRING
 心蝕を消すif(v[46] \>= 100) 
-> CONTEXT: Map070/events/5/pages/0/211/Choice/0
+> CONTEXT: Map070/events/5/pages/0/241/Choice/0
 Clear Haru and Liz's corruptionif(v[46] \>= 100)#Ron
 > END STRING
 
@@ -110,14 +109,14 @@ Clear Haru and Liz's corruptionif(v[46] \>= 100)#Ron
 エヘヘ…♡おいで、\\N[1]くん…
 
 いっぱい遊ぼう？
-> CONTEXT: Map070/events/5/pages/0/222/Dialogue/enemy5
+> CONTEXT: Map070/events/5/pages/0/252/Dialogue/enemy5
 Ehehe...yeah, \\N[1]-kun ...
 Let's play a lot?#MTLed
 > END STRING
 
 > BEGIN STRING
 "ハル＆リズの心蝕が治った！！"
-> CONTEXT: Map070/events/5/pages/0/233/InlineScript/1:12
+> CONTEXT: Map070/events/5/pages/0/263/InlineScript/1:12
 "Haru and Liz's corruption has been cured!!"#Ron
 > END STRING
 
@@ -765,7 +764,7 @@ The cake \\N[2] was holding fell to the floor...#Ron
 > CONTEXT: Map153/events/2/pages/2/50/Dialogue/kazuya
 > CONTEXT: Map153/events/16/pages/0/51/Dialogue/kazuya
 > CONTEXT: Map153/events/16/pages/2/51/Dialogue/kazuya
-> CONTEXT: Map291/events/5/pages/1/351/Dialogue/kazuya-2
+> CONTEXT: Map291/events/5/pages/1/356/Dialogue/kazuya-2
 Huh...?#Ron
 > END STRING
 
@@ -835,8 +834,660 @@ finish off that bento or put it away!!!#Ron
 > END STRING
 
 > BEGIN STRING
+ミオについてif(s[376]) 
+> CONTEXT: Map070/events/5/pages/1/333/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+条件【\\C[2]想ひ魂【虚】を所持している\\C[0]】
+> CONTEXT: Map070/events/5/pages/1/335/ChoiceHelp < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+知らなかった………
+
+ミオ様に、そんな過去があったなんて……
+> CONTEXT: Map070/events/5/pages/1/338/Dialogue/enemy7 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ホントは、人間が大好きなのに、
+よりによって自分の飼い主を殺すだなんて……
+
+ワタシだったら、正気じゃいられないよ。
+> CONTEXT: Map070/events/5/pages/1/342/Dialogue/enemy7 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そういえば、自然すぎて気付かなかったけど……
+
+\\N[2]、『死』を理解してるの？
+> CONTEXT: Map070/events/5/pages/1/348/Dialogue/kazuya < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うん……ここに来てからしばらくして
+ リズが教えてくれたんだよ。
+
+でもホントは、前から薄々そんな感じてたんだ。
+> CONTEXT: Map070/events/5/pages/1/352/Dialogue/enemy7 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だって、人間がいなくなるのは
+決まってワタシが離れたほんの数分だったし……
+
+リズの態度も、なんだか変だったからさ……
+> CONTEXT: Map070/events/5/pages/1/357/Dialogue/enemy7 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+私が教えなくても、時間の問題だったさ
+
+ だってこの空間は、アンタの精神なんだから。
+> CONTEXT: Map070/events/5/pages/1/365/Dialogue/enemy7 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アンタが『死』を感じるたび、
+ 私たちの感情にも、じかに響いてくる。
+
+ 黙ってても、感覚で理解してただろうね。
+> CONTEXT: Map070/events/5/pages/1/369/Dialogue/enemy7 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…………それに、悪いことばかりじゃないよ
+『アンタの精神と同調してる』状態ってのは
+
+ ほら、ハル。さっき言ってたやつ
+> CONTEXT: Map070/events/5/pages/1/375/Dialogue/enemy7 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ、そうだった！！
+じゃんっ♪
+
+見て見て！\\N[1]くん！
+> CONTEXT: Map070/events/5/pages/1/381/Dialogue/enemy5 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ちょっ、ちょっと！\\N[2]！！？
+
+そんな野外露出狂みたいにパーカー大開きしないで！！
+> CONTEXT: Map070/events/5/pages/1/387/Dialogue/kazuya-a < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+………って、あれ？
+
+なんか、パーカーの感じが違う…？
+> CONTEXT: Map070/events/5/pages/1/392/Dialogue/kazuya < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ 気付いた？
+
+ 実はね、パーカーの変化を少し変えたんだ！
+ 内側にうすーく、フワフワの毛があるの！
+> CONTEXT: Map070/events/5/pages/1/396/Dialogue/enemy5 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アンタ、毎度ハルに抱かれるとき、
+ 決まってハルの毛並みに夢中になってただろ？
+
+だからハル、少しだけ服の材質にこだわったんだよ。
+> CONTEXT: Map070/events/5/pages/1/401/Dialogue/enemy7 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ワタシの変化じゃ、どんなに背伸びしたって
+ミオ様みたいなムチムチ肌にはなれないからさ……
+
+ならいっそのこと、モフモフに特化させようと思って…
+> CONTEXT: Map070/events/5/pages/1/406/Dialogue/enemy5 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+かなりこだわったから、きっと気に入ってくれるよ…♡
+
+いつでも飛び込んできてね、\\N[1]くん♡
+> CONTEXT: Map070/events/5/pages/1/412/Dialogue/enemy5 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うぅ………
+マイルームの仕様とはいえ、なんか恥ずかしいな……
+
+それ、頭のなかが筒抜けみたいなものじゃん……
+> CONTEXT: Map070/events/5/pages/1/417/Dialogue/kazuya-a < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+まあ、そう言うなって。
+ 私らだって、アンタの精神に必要以上は干渉しない。
+
+ 『そういう悪魔』でもなけりゃ、ね。
+> CONTEXT: Map070/events/5/pages/1/422/Dialogue/enemy7 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アンタが『嘘偽りなく、ハルを受け入れてくれている』
+
+私には、それが分かるだけで十分さ
+> CONTEXT: Map070/events/5/pages/1/427/Dialogue/enemy7 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アンタみたいな人間が、ハルのそばにいてやれば
+今のミオみたいに、闇を抱えて生きることもない。
+
+………これからも、ハルのことを頼んだよ。
+> CONTEXT: Map070/events/5/pages/1/431/Dialogue/enemy7 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[1]くん……
+
+ミオ様に会ったの？
+> CONTEXT: Map070/events/5/pages/1/445/Dialogue/enemy7 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+う、うん………
+
+ほぼ問答無用で搾られたよ……
+> CONTEXT: Map070/events/5/pages/1/452/Dialogue/kazuya < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+やっぱりね
+
+ ミオのやつ、ハルがアンタのこと嬉しそうに話した時
+ 終始不満そうな顔をしてたから、そうなると思ったよ
+> CONTEXT: Map070/events/5/pages/1/459/Dialogue/enemy7 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+でも、良かったじゃないか
+
+本来ならそのまま本物の天国に行っちまう搾精を
+文字通り骨の髄まで味わったんだろう？
+> CONTEXT: Map070/events/5/pages/1/464/Dialogue/enemy7 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+今のミオは、はずみで相手を殺してしまわぬように
+
+普通の人間相手でも手加減するらしいから
+香水を使って、そこまで死ぬほど搾られることはないはずだよ
+> CONTEXT: Map070/events/5/pages/1/469/Dialogue/enemy7 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ねぇ……\\N[1]くん……
+
+もしかして、ミオ様に心変わりとか…してないよね？
+> CONTEXT: Map070/events/5/pages/1/475/Dialogue/enemy7 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+テクニックや魔力じゃあ、負けるのは認めるけど……
+
+ワタシだって、\\N[1]くんを
+死ぬほど愛してあげられるから……
+> CONTEXT: Map070/events/5/pages/1/479/Dialogue/enemy7 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だ、大丈夫だよ……
+
+あんな意識飛び飛びの激しい攻めは
+ さすがにそう何度も受けようとは思わないから……
+> CONTEXT: Map070/events/5/pages/1/485/Dialogue/kazuya-a < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…………でも、そういえば……
+> CONTEXT: Map070/events/5/pages/1/490/Dialogue/kazuya < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+……どうしたんだい？
+
+なんか、引っ掛かることがあるって表情してるじゃない
+> CONTEXT: Map070/events/5/pages/1/494/Dialogue/enemy7 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+う、うん……
+
+あのミオって悪魔………なんていうか…
+僕の知り合いの女の子にそっくりだったんだ。
+> CONTEXT: Map070/events/5/pages/1/498/Dialogue/kazuya < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いや、顔が瓜二つってわけじゃなくて
+よく見たら、髪形以外はさして似てないはずなんだけど
+
+ なんだか、初めて会ったような気がしなくて……
+> CONTEXT: Map070/events/5/pages/1/503/Dialogue/kazuya < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…………まぁ、不思議には思わないよ。
+
+ 特にアイツの場合は、生い立ちがアレだからね
+> CONTEXT: Map070/events/5/pages/1/509/Dialogue/enemy7 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ふ、不思議じゃないって……
+
+彼女について、何か知ってるの？
+> CONTEXT: Map070/events/5/pages/1/516/Dialogue/kazuya < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そりゃあ、生きた年数で言えば
+私とミオはほとんど同年代みたいなもんだからね
+
+当時から、同族のネコマタの間で噂になってたよ。
+> CONTEXT: Map070/events/5/pages/1/520/Dialogue/enemy7 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ 『人間の組織に加担して、男ばかりを殺してる
+
+　暗殺屋のネコマタがいる』ってね……
+> CONTEXT: Map070/events/5/pages/1/525/Dialogue/enemy7 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ミオや私がいた世界は
+当時、人間と悪魔の戦争の真っ最中……
+
+人の命令で人を殺す彼女に、みんな興味津々だったのさ
+> CONTEXT: Map070/events/5/pages/1/529/Dialogue/enemy7 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+その中で……
+ミオの容姿について、印象深い噂があったんだよ
+
+ あくまで噂だから、真偽は分からないけどね。
+> CONTEXT: Map070/events/5/pages/1/537/Dialogue/enemy7 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ミオのあの人間の姿はね……
+
+\\C[2]自分が最初に殺した、飼い主の彼女だって話さ。
+> CONTEXT: Map070/events/5/pages/1/542/Dialogue/enemy7 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+え………！？
+
+そんな話、ワタシ聞いたことない…！
+> CONTEXT: Map070/events/5/pages/1/551/Dialogue/enemy7 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そりゃそうさ
+こんな事、アイツの性格上、自分からは絶対話さないよ。
+
+壮絶すぎて、変に同情されたくないだろうしね。
+> CONTEXT: Map070/events/5/pages/1/555/Dialogue/enemy7 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+特にハル、アンタは元飼い猫なんだ。
+
+アンタが楽しそうにする話を遮ってまで、
+話題を暗い方向に持って行く理由もないだろ？
+> CONTEXT: Map070/events/5/pages/1/560/Dialogue/enemy7 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なんでも、ヤツは元々人間の飼い猫で
+
+魔力を持ち、ネコマタになったときは、
+まだ産まれて一年もない、未熟な仔猫だったらしい。
+> CONTEXT: Map070/events/5/pages/1/567/Dialogue/enemy7 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+半端な変化の『怪猫』としてではなく
+
+言語も解せる、話せる、完全なネコマタとして変化した。
+> CONTEXT: Map070/events/5/pages/1/572/Dialogue/enemy7 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+え……？
+
+でも確かネコマタって、
+ 『長生きした猫が化ける妖怪』じゃなかった？
+> CONTEXT: Map070/events/5/pages/1/577/Dialogue/kazuya < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そうだよ。
+
+でもまれに、私のそばにいたハルみたいに
+周囲の魔力を吸収して、早く変化するヤツもいる。
+> CONTEXT: Map070/events/5/pages/1/582/Dialogue/enemy7 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+当時は悪魔と戦争中だったからね。
+
+ 通りすがりの悪魔の気まぐれで
+変化するだけの魔力を分け与えられたのかもしれない。
+> CONTEXT: Map070/events/5/pages/1/587/Dialogue/enemy7 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それでも、仔猫だった当時のミオは、とても喜んだらしいよ
+
+ まだ甘え盛りで好奇心旺盛だったからね
+飼い主に『対等に』気持ちを伝えられると思ったんだ
+> CONTEXT: Map070/events/5/pages/1/592/Dialogue/enemy7 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どうも、勘違いしたらしいんだよ……
+
+人間の言葉がしゃべれて、人の形になれたから
+自分は\\C[2]『人間』\\C[0]になれたんだって。
+> CONTEXT: Map070/events/5/pages/1/598/Dialogue/enemy7 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+まず、彼女を最初に発見したのが、飼い主の恋人……
+
+今のミオの姿のオリジナルの人間だった。
+> CONTEXT: Map070/events/5/pages/1/605/Dialogue/enemy7 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さっきも言ったけど、当時は『悪魔との』戦争中だ。
+そんな中で、部屋に悪魔がいたら、どう反応する？
+
+ 結果を想像するのは、難しくないはずさ……
+> CONTEXT: Map070/events/5/pages/1/609/Dialogue/enemy7 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ミオのほうも、殺すつもりはなかっただろうさ
+ なんせ、飼い主同様可愛がってくれただろう相手だ。
+
+だけど、悪魔の力加減なんてすぐ分かるもんじゃない
+> CONTEXT: Map070/events/5/pages/1/614/Dialogue/enemy7 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+しばらくして、当の飼い主も帰宅したわけだが
+
+部屋の中は一面血で染まり、無惨な姿になった恋人と
+一体の悪魔が佇んでいた。
+> CONTEXT: Map070/events/5/pages/1/621/Dialogue/enemy7 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ミオは、弁明しようとしたんだと思うよ。
+
+ 逃げる事を考えないほど、人間を慕っていたんだろうし
+愚かなほどに無垢だったんだ。
+> CONTEXT: Map070/events/5/pages/1/626/Dialogue/enemy7 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+結局、彼女は自分の飼い主すら殺して、裏社会に逃げ…
+
+今もなお、定住する場所を持たずに
+放浪の生活を送ってるらしいよ。
+> CONTEXT: Map070/events/5/pages/1/631/Dialogue/enemy7 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+つまり、\\C[2]あの顔はもともと人間がオリジナル\\C[0]なんだよ
+ しかもこの世界とは別の『パラレル』のね。
+
+だから、同じ顔の人間がいたって不思議じゃないのさ。
+> CONTEXT: Map070/events/5/pages/1/636/Dialogue/enemy7 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+………彼女の姿についての理由はわかった
+
+ でもどうして、彼女は最初に自分が殺した
+恋人の姿に化けたりしてるんだ…？
+> CONTEXT: Map070/events/5/pages/1/642/Dialogue/kazuya < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うん……
+
+そんなに好きだったなら、むしろ早くそんな生い立ち
+忘れたいんじゃないの……？
+> CONTEXT: Map070/events/5/pages/1/647/Dialogue/enemy7 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+………『呪い』だよ。
+
+ 一言で言えばね。
+> CONTEXT: Map070/events/5/pages/1/653/Dialogue/enemy7 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+弁明する最中、ミオは飼い主に色々言われたらしい
+
+今まで愛でられた自分を、すべて否定されたんだ。
+> CONTEXT: Map070/events/5/pages/1/657/Dialogue/enemy7 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+その時、彼女は思い知らされたんだよ。
+
+\\C[2]自分は『人間』になったわけじゃなかった
+人を殺す『バケモノ』になったんだ\\C[0]と
+> CONTEXT: Map070/events/5/pages/1/661/Dialogue/enemy7 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それでも、人間が好きな自分を捨てきれなくて
+
+完全に狂うこともできなくなった彼女は
+その『バケモノ』の仮面を、自ら付ける事を選んだ。
+> CONTEXT: Map070/events/5/pages/1/666/Dialogue/enemy7 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+最初のうちは、好きだから傷付けないように
+自衛するために仕方なくだったんだろうけど……
+
+ ……時代は戦時中だ、人間は見逃してくれない。
+> CONTEXT: Map070/events/5/pages/1/671/Dialogue/enemy7 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いつしか、その『バケモノ』の仮面は剥がれなくなり
+彼女の無垢だったんだ精神は、現実で荒みつづけ……
+
+かくして\\C[10]『人間を愛しながら殺すバケモノ』\\C[0]が生まれた。
+> CONTEXT: Map070/events/5/pages/1/676/Dialogue/enemy7 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+飼い主の恋人の姿を模しているのは
+最初に自分が殺した人間だから……
+
+\\C[2]人を殺す『バケモノ』であるという自身への証明……
+> CONTEXT: Map070/events/5/pages/1/681/Dialogue/enemy7 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男をターゲットにして、決まって搾り殺すのは
+人を殺すバケモノの、ねじれ曲がった『愛情表現』
+
+\\C[2]好きで好きでたまらないから喰っちまう……
+> CONTEXT: Map070/events/5/pages/1/686/Dialogue/enemy7 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ …………『呪い』だよ。
+そうとしか表現できないだろ？
+
+『自分はバケモノ』という呪いに、自分で縛られてる
+> CONTEXT: Map070/events/5/pages/1/691/Dialogue/enemy7 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+大好きだった、一番信頼していた飼い主から言われたんだ
+
+今さら誰が許そうが、彼女は自分自身を許さないよ。
+> CONTEXT: Map070/events/5/pages/1/696/Dialogue/enemy7 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+………おっと、悪いね。
+
+こんな重苦しい空気にするために
+ この話を始めたワケじゃなかったんだけどさ。
+> CONTEXT: Map070/events/5/pages/1/709/Dialogue/enemy7 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+まぁ、胸くそ悪い噂話だけじゃないよ
+
+一番最初に言っただろ？
+ 『今のミオは、相手を殺さないよう加減してる』って
+> CONTEXT: Map070/events/5/pages/1/714/Dialogue/enemy7 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ なんでも、戦争が終わったあとに出会った人間がいて
+ そいつと『人を殺さない』って約束をしたかららしい。
+
+だから、暗殺業からも足を洗ったって話さ。
+> CONTEXT: Map070/events/5/pages/1/719/Dialogue/enemy7 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+その人間も、裏家業の人間だったみたいで
+『男』だって話くらいしか噂が入ってこなかったけど
+
+アイツの心の闇を動かすんだから、相当強かったんだろうね。
+> CONTEXT: Map070/events/5/pages/1/724/Dialogue/enemy7 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ふぅ……変に長話になっちゃったね。
+
+お礼といっちゃぁ何だけど、これをやるよ。
+> CONTEXT: Map070/events/5/pages/1/730/Dialogue/enemy7 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+今度ミオに会うとき、それを付けていくといい
+
+きっと、もっと『可愛がって』もらえるはずさ
+死ぬ程ね。
+> CONTEXT: Map070/events/5/pages/1/736/Dialogue/enemy7 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そう……
+
+それなら、いいんだけど……
+> CONTEXT: Map070/events/5/pages/1/743/Dialogue/enemy7 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
 【キズナイベント】if(v[46] \>= 99) 
-> CONTEXT: Map070/events/5/pages/1/333/Choice/0
+> CONTEXT: Map070/events/5/pages/1/761/Choice/0
 【Bonding】if(v[46] \>= 99)#MTLed
 > END STRING
 
@@ -845,7 +1496,7 @@ finish off that bento or put it away!!!#Ron
 
 せっかくこの部屋お風呂がついてるんだからさ
 一回体を洗ったらどうだい？
-> CONTEXT: Map070/events/5/pages/1/340/Dialogue/enemy7
+> CONTEXT: Map070/events/5/pages/1/768/Dialogue/enemy7
 Oh yeah, Haru. Since we've got a bath in here and
 all, why don't you go wash yourself?#Ron
 > END STRING
@@ -854,7 +1505,7 @@ all, why don't you go wash yourself?#Ron
 えー…必要ないよー
 
 ワタシ、ちゃんと毎日毛繕いしてるもん。
-> CONTEXT: Map070/events/5/pages/1/346/Dialogue/enemy5
+> CONTEXT: Map070/events/5/pages/1/774/Dialogue/enemy5
 Meh, I don't really need to.
 
 I groom myself every day, you know.#Ron
@@ -864,7 +1515,7 @@ I groom myself every day, you know.#Ron
 毎回舌での毛繕いじゃ、そのうち獣くさくなるよ
 
 私はいいけど、誘惑するアンタは問題じゃないのかい？
-> CONTEXT: Map070/events/5/pages/1/350/Dialogue/enemy7
+> CONTEXT: Map070/events/5/pages/1/778/Dialogue/enemy7
 If you only groom yourself with your tongue,
 sooner or later you're gonna look like a beast.
 That's not a problem for me, but it's gonna be
@@ -876,7 +1527,7 @@ an issue if you want to seduce people, right?#Ron
 いいんだもん…
 
 \\N[1]くんは好きって言ってくれるし…
-> CONTEXT: Map070/events/5/pages/1/354/Dialogue/enemy7
+> CONTEXT: Map070/events/5/pages/1/782/Dialogue/enemy7
 Ngh... That's fine...
 
 \\N[1] says he likes it...#Ron
@@ -886,14 +1537,14 @@ Ngh... That's fine...
 ……ほら、アンタの大好きな\\N[1]くんが
 
 丁寧に洗ってくれるってさ。
-> CONTEXT: Map070/events/5/pages/1/361/Dialogue/enemy7
+> CONTEXT: Map070/events/5/pages/1/789/Dialogue/enemy7
 ...Come on now, your precious \\N[1]-kun said
 he'd give you a thorough wash.#Ron
 > END STRING
 
 > BEGIN STRING
 え！？
-> CONTEXT: Map070/events/5/pages/1/365/Dialogue/kazuya-a
+> CONTEXT: Map070/events/5/pages/1/793/Dialogue/kazuya-a
 Huh?!#Ron
 > END STRING
 
@@ -901,7 +1552,7 @@ Huh?!#Ron
 それなら、風呂に行く気になれるだろう？
 
 どうだい？ハル。
-> CONTEXT: Map070/events/5/pages/1/367/Dialogue/enemy7
+> CONTEXT: Map070/events/5/pages/1/795/Dialogue/enemy7
 So now then, do you feel like taking a bath?
 
 Well, Haru?#Ron
@@ -911,7 +1562,7 @@ Well, Haru?#Ron
 ………ホント？\\N[1]くん♡
 
  ワタシの身体、洗ってくれるの？
-> CONTEXT: Map070/events/5/pages/1/372/Dialogue/enemy5
+> CONTEXT: Map070/events/5/pages/1/800/Dialogue/enemy5
 ...Is that true, \\N[1]-kun? Are you really gonna
 wash my body?#Ron
 > END STRING
@@ -920,7 +1571,7 @@ wash my body?#Ron
 あっ………う、うん………
 
 別にいいけど……
-> CONTEXT: Map070/events/5/pages/1/376/Dialogue/kazuya-a
+> CONTEXT: Map070/events/5/pages/1/804/Dialogue/kazuya-a
 Uh... Y-Yeah...
 
 I don't really mind...#Ron
@@ -930,7 +1581,7 @@ I don't really mind...#Ron
 ほら、いいってさ。
 
  早いとこ風呂場にいくよ、ハル。
-> CONTEXT: Map070/events/5/pages/1/382/Dialogue/enemy7
+> CONTEXT: Map070/events/5/pages/1/810/Dialogue/enemy7
 See? He said he'd do it.
 
 Hurry along and head into the bathroom, Haru.#Ron
@@ -938,7 +1589,8 @@ Hurry along and head into the bathroom, Haru.#Ron
 
 > BEGIN STRING
 はーい♪
-> CONTEXT: Map070/events/5/pages/1/386/Dialogue/enemy5
+> CONTEXT: Map070/events/5/pages/1/814/Dialogue/enemy5
+> CONTEXT: Map319/events/5/pages/0/35/Dialogue/enemy19
 Okaaay. ♪#Ron
 > END STRING
 
@@ -946,7 +1598,7 @@ Okaaay. ♪#Ron
 あ………あの……
 
 そしてこれは……どういう状況で…？
-> CONTEXT: Map070/events/5/pages/1/421/Dialogue/kazuya-4
+> CONTEXT: Map070/events/5/pages/1/849/Dialogue/kazuya-4
 U-Ummmm...
 
 What exactly's going on now...?#Ron
@@ -956,7 +1608,7 @@ What exactly's going on now...?#Ron
 アンタも察しが悪いねぇ。
 
 私が何の気なしにあんな事言うと思ってるのかい？
-> CONTEXT: Map070/events/5/pages/1/425/Dialogue/enemy7
+> CONTEXT: Map070/events/5/pages/1/853/Dialogue/enemy7
 You're pretty slow, aren't you?
 
 What did you think I was getting at before?#Ron
@@ -967,7 +1619,7 @@ What did you think I was getting at before?#Ron
 
 っていっても、今回はハルはアンタが拒否しても
 強引に連れて行く気だったみたいだけどね。
-> CONTEXT: Map070/events/5/pages/1/429/Dialogue/enemy7
+> CONTEXT: Map070/events/5/pages/1/857/Dialogue/enemy7
 You got taken in by one of Haru's tricks again.
 But this time I don't think she's going to take
 no for an answer.#RonIffy
@@ -978,7 +1630,7 @@ no for an answer.#RonIffy
 
 私の身体の匂いって、そんなに気になるぅ…？
 洗わなきゃダメ…？♡
-> CONTEXT: Map070/events/5/pages/1/434/Dialogue/enemy5
+> CONTEXT: Map070/events/5/pages/1/862/Dialogue/enemy5
 Hey... \\N[1]-kun... ♡
 Are you that interested in the smell of my body?
 Should I wash it...? ♡#Ron
@@ -988,7 +1640,7 @@ Should I wash it...? ♡#Ron
 ああ……ああああ♡♡
 
 いぃ……♡いぃ…にお…い…です…ぅ♡
-> CONTEXT: Map070/events/5/pages/1/444/Dialogue/kazuya-4
+> CONTEXT: Map070/events/5/pages/1/872/Dialogue/kazuya-4
 Aaah... Aaaaaaah. ♡♡
 
 It's great... ♡ It smells... great... ♡#Ron
@@ -999,7 +1651,7 @@ It's great... ♡ It smells... great... ♡#Ron
 
 \\N[1]がこのまま射精しちゃったら
 ハルはシャワーを浴びずに済むってことで。
-> CONTEXT: Map070/events/5/pages/1/448/Dialogue/enemy7
+> CONTEXT: Map070/events/5/pages/1/876/Dialogue/enemy7
 Fufufu... I know, let's try this.
 If \\N[1] ejaculates like this, Haru won't have
 to take a shower.#Ron
@@ -1009,7 +1661,7 @@ to take a shower.#Ron
 エヘヘヘヘ…♪
 
 そんなのもう無理だよ、リズぅ…♡
-> CONTEXT: Map070/events/5/pages/1/453/Dialogue/enemy5
+> CONTEXT: Map070/events/5/pages/1/881/Dialogue/enemy5
 Hehehehe... ♪
 
 That's impossible, Liz... ♡#Ron
@@ -1019,7 +1671,7 @@ That's impossible, Liz... ♡#Ron
 \\N[1]くんの顔、覗いてみなよ…♡
 
 もう限界そうだよ…？
-> CONTEXT: Map070/events/5/pages/1/457/Dialogue/enemy5
+> CONTEXT: Map070/events/5/pages/1/885/Dialogue/enemy5
 Take a peek at \\N[1]-kun's face... ♡
 
 Looks like he's already at his limit...#Ron
@@ -1030,7 +1682,7 @@ Looks like he's already at his limit...#Ron
 
 だめぇぇぇ…♡
 出ちゃうよおぉ……♡♡
-> CONTEXT: Map070/events/5/pages/1/472/Dialogue/kazuya-4
+> CONTEXT: Map070/events/5/pages/1/900/Dialogue/kazuya-4
 Nhaaaaaaah... ♡
 
 I caaaan't...♡
@@ -1042,7 +1694,7 @@ I'm gonna cuuumm... ♡♡#Ron
 
 今回はハルにシャワー浴びてもらう
 いい機会だと思ったのに…
-> CONTEXT: Map070/events/5/pages/1/498/Dialogue/enemy7
+> CONTEXT: Map070/events/5/pages/1/926/Dialogue/enemy7
 Hey you... that was too quick...!
 I thought this would be a great opportunity to
 get Haru to take a shower...#Ron
@@ -1052,7 +1704,7 @@ get Haru to take a shower...#Ron
 あーさっきのはナシで。
 
 ５回だ！、５回イったらってことにしよう。
-> CONTEXT: Map070/events/5/pages/1/503/Dialogue/enemy7
+> CONTEXT: Map070/events/5/pages/1/931/Dialogue/enemy7
 Okay, that time didn't count.
 
 Five times! Let's make it only if he ejaculates
@@ -1064,7 +1716,7 @@ five times.#Ron
 
 \\N[1]くんは、この匂いが好きなんだもんね…♡
 洗ってなんか欲しくないもんね…？
-> CONTEXT: Map070/events/5/pages/1/508/Dialogue/enemy5
+> CONTEXT: Map070/events/5/pages/1/936/Dialogue/enemy5
 It'll be the same no matter how many times... ♡
 \\N[1]-kun likes this smell... ♡
 He doesn't want me to wash...#Ron
@@ -1074,7 +1726,7 @@ He doesn't want me to wash...#Ron
 んああああああああぇ…♡
 
 いいぃぃぃ…♡さいこおぉぉ…♡
-> CONTEXT: Map070/events/5/pages/1/517/Dialogue/kazuya-4
+> CONTEXT: Map070/events/5/pages/1/945/Dialogue/kazuya-4
 Nhaaaaaaah... ♡
 
 So gooooood... ♡
@@ -1085,7 +1737,7 @@ This is the best... ♡#Ron
 やれやれ……
 
 こりゃ今回は説得するのは無理そうかな……
-> CONTEXT: Map070/events/5/pages/1/521/Dialogue/enemy7
+> CONTEXT: Map070/events/5/pages/1/949/Dialogue/enemy7
 Good grief...
 
 Looks like it might be impossible to persaude her
@@ -1094,7 +1746,7 @@ this time...#Ron
 
 > BEGIN STRING
 気が付いたかい、\\N[1]。
-> CONTEXT: Map070/events/5/pages/1/564/Dialogue/enemy7
+> CONTEXT: Map070/events/5/pages/1/992/Dialogue/enemy7
 You awake, \\N[1]?#Ron
 > END STRING
 
@@ -1102,7 +1754,7 @@ You awake, \\N[1]?#Ron
 まったく……まさか１０分も保たないとはねぇ……
 
 情けない…
-> CONTEXT: Map070/events/5/pages/1/566/Dialogue/enemy7
+> CONTEXT: Map070/events/5/pages/1/994/Dialogue/enemy7
 Jeez... You couldn't even last 10 minutes...
 
 Pathetic...#Ron
@@ -1110,7 +1762,7 @@ Pathetic...#Ron
 
 > BEGIN STRING
 \\N[2]……は……？
-> CONTEXT: Map070/events/5/pages/1/570/Dialogue/kazuya-2
+> CONTEXT: Map070/events/5/pages/1/998/Dialogue/kazuya-2
 Where's... \\N[2]...?#Ron
 > END STRING
 
@@ -1118,7 +1770,7 @@ Where's... \\N[2]...?#Ron
 自分の寝床で寝てるよ。
 
  風呂場でアンタが気絶したあと、おねむになっちまった。
-> CONTEXT: Map070/events/5/pages/1/572/Dialogue/enemy7
+> CONTEXT: Map070/events/5/pages/1/1000/Dialogue/enemy7
 She's asleep in her bed. She got sleepy after you
 fainted in the bathroom.#Ron
 > END STRING
@@ -1127,7 +1779,7 @@ fainted in the bathroom.#Ron
 ホントだったら、続けて私が搾精するところだけど
 
 今のうちに、少しアンタに聞いてほしいことがあってね…
-> CONTEXT: Map070/events/5/pages/1/577/Dialogue/enemy7
+> CONTEXT: Map070/events/5/pages/1/1005/Dialogue/enemy7
 If I'm being honest, I was about to continue
 milking you. But right now, there's something
 I want you to hear...#RonIffy
@@ -1138,7 +1790,7 @@ I want you to hear...#RonIffy
 
 急に居なくなったって話だったじゃないか。
 私、知ってるんだよ。そいつのこと。
-> CONTEXT: Map070/events/5/pages/1/584/Dialogue/enemy7
+> CONTEXT: Map070/events/5/pages/1/1012/Dialogue/enemy7
 ...It's about Haru's owner. You've heard the
 story about they suddenly disappeared, right?
 Well, I knew about them.#Ron
@@ -1149,7 +1801,7 @@ Well, I knew about them.#Ron
 
 悪魔を狩る仕事をしているヤツだった。
 とはいっても、実力はからっきしだったけどね。
-> CONTEXT: Map070/events/5/pages/1/592/Dialogue/enemy7
+> CONTEXT: Map070/events/5/pages/1/1020/Dialogue/enemy7
 He was a demon hunter... a guy whose job it was
 to hunt demons. That said, he didn't really have
 any actual power.#Ron
@@ -1160,7 +1812,7 @@ any actual power.#Ron
 
 
 私に殺されるくらいだったんだから…
-> CONTEXT: Map070/events/5/pages/1/597/Dialogue/enemy7
+> CONTEXT: Map070/events/5/pages/1/1025/Dialogue/enemy7
 I know because...
 
 I killed him...#Ron
@@ -1170,7 +1822,7 @@ I killed him...#Ron
 ほら…私、ハルに会う前は
 
 人を脅かしたりして、ヤンチャやってたって話したろ。
-> CONTEXT: Map070/events/5/pages/1/605/Dialogue/enemy7
+> CONTEXT: Map070/events/5/pages/1/1033/Dialogue/enemy7
 I mean... it's like I told you. Before I met Haru
 I intimidated people and got up to mischief.#Ron
 > END STRING
@@ -1180,7 +1832,7 @@ I intimidated people and got up to mischief.#Ron
 
 馬鹿な話だよ。
 私は驚かすだけで、何も危害は出してなかったのに…
-> CONTEXT: Map070/events/5/pages/1/609/Dialogue/enemy7
+> CONTEXT: Map070/events/5/pages/1/1037/Dialogue/enemy7
 But because of that, it seems someone put in a
 request to have me dealt with...
 They were being so stupid, I was only scaring
@@ -1192,7 +1844,7 @@ people, I didn't hurt anyone.#Ron
 
 向こうが本気で私を殺そうとしてきたから
 ついつい爪が飛び出てしまって……
-> CONTEXT: Map070/events/5/pages/1/614/Dialogue/enemy7
+> CONTEXT: Map070/events/5/pages/1/1042/Dialogue/enemy7
 But I was also being stupid back then...
 He was seriously coming to kill me, and I
 instinctively used my claws on him...#Ron
@@ -1203,7 +1855,7 @@ instinctively used my claws on him...#Ron
 
 アイツが猫の匂いをさせていたから、気になったんだ。
 だからその匂いを辿って来た。
-> CONTEXT: Map070/events/5/pages/1/621/Dialogue/enemy7
+> CONTEXT: Map070/events/5/pages/1/1049/Dialogue/enemy7
 ...So it was no accident that I passed by
 Haru's house. The guy smelled like a cat, so I
 got curious and followed the smell.#Ron
@@ -1214,7 +1866,7 @@ got curious and followed the smell.#Ron
 
 本当は、あの子に一番ふさわしくないのは…
 私なんだよ…
-> CONTEXT: Map070/events/5/pages/1/626/Dialogue/enemy7
+> CONTEXT: Map070/events/5/pages/1/1054/Dialogue/enemy7
 As a result of all that, I'm taking care of
 her... But the truth is, I'm the least suitable
 one to be taking care of her...#Ron
@@ -1225,7 +1877,7 @@ one to be taking care of her...#Ron
 
 私は、アンタが好きってワケじゃない。
 ハルが寄り添ってるから、嫌いじゃないだけだ。
-> CONTEXT: Map070/events/5/pages/1/632/Dialogue/enemy7
+> CONTEXT: Map070/events/5/pages/1/1060/Dialogue/enemy7
 Again, let me emphasise this...
 I don't really like you all that much.
 I just don't hate you because Haru likes to
@@ -1237,7 +1889,7 @@ cuddle with you.#RonIffy
 
 私の代わりに、世話をして可愛がって…
 逆にアンタが可愛がられたりしてやって欲しいんだよ。
-> CONTEXT: Map070/events/5/pages/1/637/Dialogue/enemy7
+> CONTEXT: Map070/events/5/pages/1/1065/Dialogue/enemy7
 But I want you to support Haru.
 Take care of her and love her in my place.
 Conversely, I want you to be loved by her, too.#RonIffy
@@ -1247,7 +1899,7 @@ Conversely, I want you to be loved by her, too.#RonIffy
 …………おかしいかい？
 
 あの子の飼い主の仇が、あの子の心配するだなんて…
-> CONTEXT: Map070/events/5/pages/1/644/Dialogue/enemy7
+> CONTEXT: Map070/events/5/pages/1/1072/Dialogue/enemy7
 ...Is it weird? That her owner's enemy is so
 worried about her...?#Ron
 > END STRING
@@ -1256,7 +1908,7 @@ worried about her...?#Ron
 それだけ、アンタを信用してるって事だよ。
 
 頼んだよ……\\N[1]。
-> CONTEXT: Map070/events/5/pages/1/648/Dialogue/enemy7
+> CONTEXT: Map070/events/5/pages/1/1076/Dialogue/enemy7
 It's just because I trust you...
 
 That I'm asking you... \\N[1].#Ron
@@ -1266,7 +1918,7 @@ That I'm asking you... \\N[1].#Ron
 ハルとリズとの『キズナ』が生まれた！！
 
 友好度が『１００』になった！！
-> CONTEXT: Map070/events/5/pages/1/663/Dialogue
+> CONTEXT: Map070/events/5/pages/1/1091/Dialogue
 A Bond with Haru and Liz was born!!
 
 The level of friendship with them
