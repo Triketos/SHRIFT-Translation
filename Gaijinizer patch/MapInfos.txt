@@ -25,6 +25,7 @@ Cryogenic stasis room#MTLed
 > CONTEXT: MapInfos/5/name
 > CONTEXT: MapInfos/20/name
 > CONTEXT: MapInfos/256/name
+> CONTEXT: MapInfos/331/name
 Laboratory 1#MTLed
 > END STRING
 
@@ -46,6 +47,7 @@ Communication room#MTLed
 > BEGIN STRING
 研究所２
 > CONTEXT: MapInfos/7/name
+> CONTEXT: MapInfos/330/name
 Laboratory 2#MTLed
 > END STRING
 
@@ -107,6 +109,9 @@ Boiler Room#MTLed
 > BEGIN STRING
 ダクト
 > CONTEXT: MapInfos/13/name
+> CONTEXT: MapInfos/372/name
+> CONTEXT: MapInfos/373/name
+> CONTEXT: MapInfos/374/name
 Vent#MTLed
 > END STRING
 
@@ -406,6 +411,12 @@ Memories (abyss)#MTLed
 > BEGIN STRING
 舞台
 > CONTEXT: MapInfos/81/name
+> CONTEXT: MapInfos/345/name
+> CONTEXT: MapInfos/348/name
+> CONTEXT: MapInfos/351/name
+> CONTEXT: MapInfos/354/name
+> CONTEXT: MapInfos/358/name
+> CONTEXT: MapInfos/360/name
 Stage#MTLed
 > END STRING
 
@@ -521,6 +532,9 @@ Irrigation channel 15#MTLed
 用水路２
 > CONTEXT: MapInfos/111/name
 > CONTEXT: MapInfos/124/name
+> CONTEXT: MapInfos/335/name
+> CONTEXT: MapInfos/336/name
+> CONTEXT: MapInfos/338/name
 Canal 2#MTLed
 > END STRING
 
@@ -904,6 +918,7 @@ Each demon ED (branch)#MTLed
 > BEGIN STRING
 Ｇルート最後
 > CONTEXT: MapInfos/236/name
+> CONTEXT: MapInfos/362/name
 G route last#MTLed
 > END STRING
 
@@ -1059,15 +1074,117 @@ The Story of The Soul#GT
 > END STRING
 
 > BEGIN STRING
-ヘラ
-> CONTEXT: MapInfos/312/name 
-Hera#GT
-> END STRING
-
-> BEGIN STRING
 ニーナ自室
 > CONTEXT: MapInfos/316/name 
 > CONTEXT: MapInfos/318/name 
 > CONTEXT: MapInfos/320/name 
-Nina's room#GT
+> CONTEXT: MapInfos/327/name
+> CONTEXT: MapInfos/342/name
+> CONTEXT: MapInfos/363/name
+> CONTEXT: MapInfos/368/name
+Nina's room#MTLed
+> END STRING
+
+> BEGIN STRING
+楽屋（ショタ）
+> CONTEXT: MapInfos/322/name
+Dressing room (shota)#GT
+> END STRING
+
+> BEGIN STRING
+物置
+> CONTEXT: MapInfos/337/name
+Shed#GT
+> END STRING
+
+> BEGIN STRING
+物置（洗濯機）
+> CONTEXT: MapInfos/339/name
+Shed (washing machine)#GT
+> END STRING
+
+> BEGIN STRING
+物置（置物）
+> CONTEXT: MapInfos/340/name
+Storeroom (Figurine)#GT
+> END STRING
+
+> BEGIN STRING
+物置（タンス）
+> CONTEXT: MapInfos/341/name
+Shed (closet)#GT
+> END STRING
+
+> BEGIN STRING
+封印の間
+> CONTEXT: MapInfos/343/name
+During the seal#GT
+> END STRING
+
+> BEGIN STRING
+舞台前
+> CONTEXT: MapInfos/344/name
+> CONTEXT: MapInfos/347/name
+> CONTEXT: MapInfos/350/name
+> CONTEXT: MapInfos/359/name
+> CONTEXT: MapInfos/361/name
+Before the stage#GT
+> END STRING
+
+> BEGIN STRING
+楽屋１
+> CONTEXT: MapInfos/346/name
+Dressing room 1#GT
+> END STRING
+
+> BEGIN STRING
+楽屋２
+> CONTEXT: MapInfos/349/name
+Dressing room 2#GT
+> END STRING
+
+> BEGIN STRING
+ダンジョン１
+> CONTEXT: MapInfos/352/name
+> CONTEXT: MapInfos/353/name
+> CONTEXT: MapInfos/355/name
+> CONTEXT: MapInfos/357/name
+Dungeon 1#GT
+> END STRING
+
+> BEGIN STRING
+ダンジョン２
+> CONTEXT: MapInfos/356/name
+Dungeon 2#GT
+> END STRING
+
+> BEGIN STRING
+ヘカーテ門前
+> CONTEXT: MapInfos/364/name
+> CONTEXT: MapInfos/371/name
+Hecate gate#GT
+> END STRING
+
+> BEGIN STRING
+暗転用
+> CONTEXT: MapInfos/366/name
+For darkening#GT
+> END STRING
+
+> BEGIN STRING
+ヘカーテ２
+> CONTEXT: MapInfos/367/name
+Hecate 2#GT
+> END STRING
+
+> BEGIN STRING
+舞台（クリア後）
+> CONTEXT: MapInfos/375/name
+Stage (after clearing)#GT
+> END STRING
+
+> BEGIN STRING
+ヘカーテ（無限ループ）
+> CONTEXT: MapInfos/376/name
+Hecate (infinite loop)#GT
 > END STRING

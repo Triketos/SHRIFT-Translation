@@ -1,9 +1,38 @@
 ﻿> GAIJINIZER PATCH FILE
 > BEGIN STRING
+ううううう……！！
+
+あとちょっとで、\\N[1]くんを
+僕のモノにできたのに……！！
+> CONTEXT: CommonEvents_130/11/Dialogue/enemy25
+Uuuuuuu...!!
+
+Soon, \\N[1]-kun could be my thing...!#GT
+> END STRING
+
+> BEGIN STRING
+と、とりあえず一旦ＣＭにします！！
+
+まだまだ終わらないよ…\\N[1]くん！！
+> CONTEXT: CommonEvents_130/16/Dialogue/enemy25
+And for the time being, 
+I'll make it a commercial!!
+
+It's not over yet, \\N[1]-kun...!!#GT
+> END STRING
+
+> BEGIN STRING
+
+モルモーは暗闇の中に消えていった…
+> CONTEXT: CommonEvents_130/24/Dialogue
+Mormo disappeared into the darkness...#GT
+> END STRING
+
+> BEGIN STRING
  …………そんなに嫌だった…？
 
  私たちと一緒に堕ちるのが……
-> CONTEXT: CommonEvents_130/22/Dialogue/enemy12
+> CONTEXT: CommonEvents_130/46/Dialogue/enemy12
 ...Was it really that bad...?
 
 Falling with us...#CheckLater
@@ -14,7 +43,7 @@ Falling with us...#CheckLater
 
 たしかに、人間の『好き』とは違うけど……
 あなたの望む快楽は、何でも与えてあげるつもりなのに…
-> CONTEXT: CommonEvents_130/26/Dialogue/enemy12
+> CONTEXT: CommonEvents_130/50/Dialogue/enemy12
 It's not a lie that I want you...
 Though certainly it's different from how humans
 understand it... I only wanted to give you the
@@ -26,7 +55,7 @@ pleasure you've been looking for.#Ron
 
 貴方みたいに、『エコー』を受け入れてくれる
 優しい人間を……
-> CONTEXT: CommonEvents_130/32/Dialogue/enemy12
+> CONTEXT: CommonEvents_130/56/Dialogue/enemy12
 I guess... I'll have to wait...
 
 For a kind human like you who accepts us Echos.#Ron
@@ -36,7 +65,7 @@ For a kind human like you who accepts us Echos.#Ron
 
 水面が見える……！
 あともう少しだ……！
-> CONTEXT: CommonEvents_130/40/Dialogue
+> CONTEXT: CommonEvents_130/64/Dialogue
 I can see the surface of the water.
 
 Just a little further.#Ron
@@ -45,7 +74,7 @@ Just a little further.#Ron
 > BEGIN STRING
 戦闘に勝利したことにより
 \\C[2]エコーに対しての気丈な精神を少し取り戻した…
-> CONTEXT: CommonEvents_130/48/Dialogue
+> CONTEXT: CommonEvents_130/72/Dialogue
 > CONTEXT: Troops/160/pages/2/54/Dialogue
 > CONTEXT: Troops/161/pages/2/51/Dialogue
 > CONTEXT: Troops/163/pages/2/55/Dialogue
@@ -65,7 +94,7 @@ Echo's corruption...#Ron
 ………
 
 やっぱりダメ？\\N[1]くん…
-> CONTEXT: CommonEvents_130/62/Dialogue/enemy7
+> CONTEXT: CommonEvents_130/87/Dialogue/enemy7
 ......After all that you still don't want
 me? \\N[1]-kun…#Triketos
 > END STRING
@@ -75,7 +104,7 @@ me? \\N[1]-kun…#Triketos
 
 絶対にこの身体で、いつか\\N[1]くんを
 完全に堕としてみせるよ…
-> CONTEXT: CommonEvents_130/66/Dialogue/enemy7
+> CONTEXT: CommonEvents_130/91/Dialogue/enemy7
 Haru will not give up... With my body
 body, someday... I will make you
 want me... \\N[1]-kun.#Triketos
@@ -84,14 +113,14 @@ want me... \\N[1]-kun.#Triketos
 > BEGIN STRING
 
 ハルは暗闇の中に消えていった…
-> CONTEXT: CommonEvents_130/75/Dialogue
+> CONTEXT: CommonEvents_130/100/Dialogue
 Haru faded into the darkness...#Triketos
 > END STRING
 
 > BEGIN STRING
 戦闘に勝利したことにより
 \\C[2]ハルに対しての気丈な精神を少し取り戻した…
-> CONTEXT: CommonEvents_130/80/Dialogue
+> CONTEXT: CommonEvents_130/105/Dialogue
 By winning against her in battle, \\C[2]I've gotten back
 some of my fighting spirit against Haru...#Triketos
 > END STRING
@@ -100,7 +129,7 @@ some of my fighting spirit against Haru...#Triketos
 えー？もう覚めちゃうの……？
 
 あーあ、残念……
-> CONTEXT: CommonEvents_130/94/Dialogue/enemy
+> CONTEXT: CommonEvents_130/120/Dialogue/enemy
 Eeh? You've already woken up...?
 Awww, what a shame...#Ron
 > END STRING
@@ -109,7 +138,7 @@ Awww, what a shame...#Ron
 でも…キミの精、やっぱり美味しいなぁ…♡
 
 私は諦めないからね…♪
-> CONTEXT: CommonEvents_130/98/Dialogue/enemy
+> CONTEXT: CommonEvents_130/124/Dialogue/enemy
 But... your semen really is delicious... ♡
 I won't give up...♪#Ron
 > END STRING
@@ -117,7 +146,7 @@ I won't give up...♪#Ron
 > BEGIN STRING
 戦闘に勝利したことにより
 \\C[2]ランパスに対しての気丈な精神を少し取り戻した…
-> CONTEXT: CommonEvents_130/111/Dialogue
+> CONTEXT: CommonEvents_130/137/Dialogue
 > CONTEXT: Troops/20/pages/2/55/Dialogue
 > CONTEXT: Troops/21/pages/2/45/Dialogue
 > CONTEXT: Troops/25/pages/2/78/Dialogue
@@ -130,6 +159,8 @@ I won't give up...♪#Ron
 > CONTEXT: Troops/46/pages/2/36/Dialogue
 > CONTEXT: Troops/86/pages/2/51/Dialogue
 > CONTEXT: Troops/297/pages/2/51/Dialogue
+> CONTEXT: Troops/305/pages/2/51/Dialogue
+> CONTEXT: Troops/309/pages/2/51/Dialogue
 By winning against her in battle, \\C[2]I've reduced some
 Lampas' corruption...#Ron
 > END STRING

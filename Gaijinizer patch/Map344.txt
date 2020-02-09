@@ -1,0 +1,107 @@
+﻿> GAIJINIZER PATCH FILE
+> BEGIN STRING
+中で話し声が聞こえる…………
+
+聞き耳を立ててみますか？
+> CONTEXT: Map344/events/4/pages/2/2/Dialogue
+I can hear a voice inside......
+
+Do you want to listen?#GT
+> END STRING
+
+> BEGIN STRING
+拙い文字で
+『ゲストの楽屋』
+と書かれている
+> CONTEXT: Map344/events/5/pages/0/0/Dialogue
+> CONTEXT: Map347/events/5/pages/0/0/Dialogue
+> CONTEXT: Map350/events/5/pages/0/0/Dialogue
+> CONTEXT: Map359/events/5/pages/0/0/Dialogue
+> CONTEXT: Map361/events/5/pages/0/0/Dialogue
+In poor writing,
+『 Guest's Dressing Room 』
+is written on the door.#Triketos
+> END STRING
+
+> BEGIN STRING
+拙い文字で
+『司会の楽屋』
+と書かれている
+> CONTEXT: Map344/events/7/pages/0/0/Dialogue
+> CONTEXT: Map347/events/7/pages/0/0/Dialogue
+> CONTEXT: Map350/events/7/pages/0/0/Dialogue
+> CONTEXT: Map359/events/7/pages/0/0/Dialogue
+> CONTEXT: Map361/events/7/pages/0/0/Dialogue
+In dazzling writing,
+『 MC's Dressing Room 』
+is written on the door.#Triketos
+> END STRING
+
+> BEGIN STRING
+中からとんでもなく邪悪な気配がする……
+
+中に入りますか？
+> CONTEXT: Map344/events/11/pages/1/2/Dialogue
+There is a terrible evil sign from inside...
+
+Go inside?#GT
+> END STRING
+
+> BEGIN STRING
+………今回は、このまま
+出番はないもんだと思ったんだけどネ……
+
+なんだか嫌な予感がして、来てみたよ
+> CONTEXT: Map344/events/13/pages/1/0/Dialogue/hyakki
+...This time, I thought it wouldn’t be
+the turn, but...
+
+Somehow I had a bad feeling and tried to come#GT
+> END STRING
+
+> BEGIN STRING
+特に真新しいもんはないけど、見ていくかい？
+
+………必要になるかもしれないだろ
+> CONTEXT: Map344/events/13/pages/1/5/Dialogue/hyakki
+There is nothing particularly brand new,
+but do you want to see it?
+
+......You may need it.#GT
+> END STRING
+
+> BEGIN STRING
+\\C[10]そういえば……\\N[1]
+
+メールの確認の仕方、覚えてるかい？
+> CONTEXT: Map344/events/13/pages/1/53/Dialogue/hyakki
+\\C[10] By the way, \\N[1]...
+
+Do you remember how to check your email?#Triketos
+> END STRING
+
+> BEGIN STRING
+…………？
+
+メール？何の？
+> CONTEXT: Map344/events/13/pages/1/57/Dialogue/kazuya
+…………?
+
+Email? What?#GT
+> END STRING
+
+> BEGIN STRING
+い、いや、何でもないよ！
+
+悪いね、ひき止めて
+> CONTEXT: Map344/events/13/pages/1/61/Dialogue/hyakki2
+No, no, nothing!
+
+Bad, stop it.#GT
+> END STRING
+
+> BEGIN STRING
+\\C[10]………………アンタが、意味が分かればいいヨ
+> CONTEXT: Map344/events/13/pages/1/66/Dialogue/hyakki
+\\C[10]......You just need to understand the meaning.#GT
+> END STRING

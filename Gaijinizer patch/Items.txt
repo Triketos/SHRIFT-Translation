@@ -329,7 +329,7 @@ be loaded with the Reload skill.#afrg
 > END STRING
 
 > BEGIN STRING
-武器を練気の刀に持ち替える。
+武器を練気の刀（その強化刀）に持ち替える。
 \\C[2]一度持ち替えると戦闘中二度と変更できないので注意
 > CONTEXT: Items/28/description
 Used to switch to the Invigorating Sword in battle.
@@ -469,6 +469,21 @@ Great Buddha Statue#afrg
 > END STRING
 
 > BEGIN STRING
+多弾頭ロケットランチャーのリロードに必要なアイテム。
+通常では手に入らない弾頭のため、かなり高価。
+> CONTEXT: Items/41/description
+\\}Ammunition needed to reload the MIRV Rocket Launcher.
+Incredibly expensive due to how hard they are to obtain.#Triketos
+> END STRING
+
+> BEGIN STRING
+ロケット弾
+> CONTEXT: Items/41/name
+> CONTEXT: Items/42/name
+Box of Rockets#Triketos
+> END STRING
+
+> BEGIN STRING
 高価な宝石。かなり高値で売れる。
 他にも、永遠の愛を意味するこの石には使い道があるとか…
 > CONTEXT: Items/45/description
@@ -516,6 +531,20 @@ Fortunately, \\N[1] does not know how to use this item.#afrg
 > CONTEXT: Items/51/name
 > CONTEXT: Items/52/name
 Zero-Dimensional Expansion Device#afrg
+> END STRING
+
+> BEGIN STRING
+モルモー宛に届いていた大きな荷物。
+丁寧に包装されている。
+> CONTEXT: Items/53/description
+A large package addressed to Mormo.
+It's been carefully wrapped.#Ron
+> END STRING
+
+> BEGIN STRING
+配達物
+> CONTEXT: Items/53/name
+Package#Ron
 > END STRING
 
 > BEGIN STRING
@@ -699,6 +728,34 @@ Custom Parts F#afrg
 > END STRING
 
 > BEGIN STRING
+EX用の装備を作る時に使用するオーパーツ。
+百鬼から買えるほか、EX世界に落ちている場合がある。
+> CONTEXT: Items/71/description
+Otherworldy metal used to craft EX equipment.
+May also be found in EX worlds.#Triketos
+> END STRING
+
+> BEGIN STRING
+Ωマテリアル
+> CONTEXT: Items/71/name
+Ω Material#Triketos
+> END STRING
+
+> BEGIN STRING
+このアイテムで、特定のアイテムを掛け合わせることで
+作業台で新たな武器を創り出すことができる
+> CONTEXT: Items/72/description
+You can use this item to make a new weapon at a
+workbench.#RonIffy
+> END STRING
+
+> BEGIN STRING
+反逆の証
+> CONTEXT: Items/72/name
+Proof of Treachery#Ron
+> END STRING
+
+> BEGIN STRING
 人間にとって、特別な意味が込められた指輪。
 \\C[14]キズナ状態の悪魔に対して\\C[0]愛の誓いを立てることができる。
 > CONTEXT: Items/80/description
@@ -826,6 +883,20 @@ Ruby#afrg
 > END STRING
 
 > BEGIN STRING
+天狗と人間のお姫様の悲恋を描いたマンガ。
+特定の悪魔にプレゼントすると……
+> CONTEXT: Items/90/description
+A manga depicting the sad love story of a Tengu and
+human princess. If you give it to a specific demon...#Triketos
+> END STRING
+
+> BEGIN STRING
+天狗の王子様
+> CONTEXT: Items/90/name
+The Tengu Prince#Triketos
+> END STRING
+
+> BEGIN STRING
 ホットリミットLvMAXの効果を一度だけ発動させる
 > CONTEXT: Items/96/description
 Applies Limit Break LvMAX once only.#afrg
@@ -877,8 +948,7 @@ Tasty Thunder God Candy#afrg
 バーゲストから剥ぎ取った、鋭い切れ味を持つ爪。
 
 > CONTEXT: Items/100/description
-A paw with sharp nails ripped off a barghest.
-#Dargoth
+A paw with sharp nails ripped off a barghest.#Dargoth
 > END STRING
 
 > BEGIN STRING
@@ -891,8 +961,7 @@ Barghest Paw#Dargoth
 ランパスから剥ぎ取った、大きい丈夫な葉。
 
 > CONTEXT: Items/101/description
-A large, sturdy leaf ripped off a lampas.
-#Dargoth
+A large, sturdy leaf ripped off a lampas.#Dargoth
 > END STRING
 
 > BEGIN STRING
@@ -1401,6 +1470,7 @@ Canned Coffee (Cold)#afrg
 > CONTEXT: Items/200/description
 > CONTEXT: Items/201/description
 > CONTEXT: Items/202/description
+> CONTEXT: Items/203/description
 Ball of solidified thoughts of a demon.#afrg
 > END STRING
 
@@ -1496,6 +1566,12 @@ Memento (Dream Cat)#afrg
 > END STRING
 
 > BEGIN STRING
+想ひ魂（夢人魚）
+> CONTEXT: Items/203/name
+Memento (Dream Fish)#Ron
+> END STRING
+
+> BEGIN STRING
 人や悪魔の想いが固まって実体化した珠。
 その外観はボロボロだ……
 > CONTEXT: Items/210/description
@@ -1514,6 +1590,34 @@ Memento (Faint)#afrg
 想ひ魂（虚）
 > CONTEXT: Items/211/name
 Memento (Imaginary)#MTLed
+> END STRING
+
+> BEGIN STRING
+もはや勾玉の形すら留めていない邪悪な想ひ魂
+これは使用する前に結博士に見てもらう必要がある…
+> CONTEXT: Items/215/description
+An evil memento that's no longer even in it's original
+shape. You need to talk to Professor Yui before using it.#RonIffy
+> END STRING
+
+> BEGIN STRING
+想ひ魂（禍）
+> CONTEXT: Items/215/name
+Memento (Calamity)#Ron
+> END STRING
+
+> BEGIN STRING
+邪悪なものが全て除去された、モルモーの想ひ魂
+マイルームで使用すると、モルモーの部屋を生成できる。
+> CONTEXT: Items/216/description
+Mormo's memento, cleansed of all its evil. If used in My
+Room, it will generate a room for Mormo.#Ron
+> END STRING
+
+> BEGIN STRING
+想ひ魂（望）
+> CONTEXT: Items/216/name
+Memento (Hope)#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1784,47 +1888,4 @@ Hundreds form
 しぇるろーだー
 > CONTEXT: Items/526/name
 I'm sorry#MTLed
-> END STRING
-
-> BEGIN STRING
-多弾頭ロケットランチャーのリロードに必要なアイテム。
-通常では手に入らない弾頭のため、かなり高価。
-> CONTEXT: Items/41/description
-\\}Ammunition needed to reload the MIRV Rocket Launcher.
-Incredibly expensive due to how hard they are to obtain.#Triketos
-> END STRING
-
-> BEGIN STRING
-ロケット弾
-> CONTEXT: Items/41/name
-> CONTEXT: Items/42/name
-Box of Rockets#Triketos
-> END STRING
-
-> BEGIN STRING
-EX用の装備を作る時に使用するオーパーツ。
-百鬼から買えるほか、EX世界に落ちている場合がある。
-> CONTEXT: Items/71/description
-Otherworldy metal used to craft EX equipment.
-May also be found in EX worlds.#Triketos
-> END STRING
-
-> BEGIN STRING
-Ωマテリアル
-> CONTEXT: Items/71/name
-Ω Material#Triketos
-> END STRING
-
-> BEGIN STRING
-天狗と人間のお姫様の悲恋を描いたマンガ。
-特定の悪魔にプレゼントすると……
-> CONTEXT: Items/90/description
-A manga depicting the sad love story of a Tengu and
-human princess. If you give it to a specific demon...#Triketos
-> END STRING
-
-> BEGIN STRING
-天狗の王子様
-> CONTEXT: Items/90/name
-The Tengu Prince#Triketos
 > END STRING
