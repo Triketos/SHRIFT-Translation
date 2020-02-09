@@ -71,6 +71,7 @@ Increases abilites when equipped.#afrgPR
 > BEGIN STRING
 デバッグ
 > CONTEXT: Armors/7/name
+> CONTEXT: MapInfos/370/name
 > CONTEXT: Skills/636/name
 > CONTEXT: Troops/220/name
 Debug#afrg
@@ -270,7 +271,6 @@ taking off their clothes in the process of losing.#GT
 > CONTEXT: Armors/31/name
 Obedience bracelet#GT
 > END STRING
-
 
 > BEGIN STRING
 純銀で出来た指輪。意志の強さを表す。
@@ -788,6 +788,19 @@ Parasitic juice#MTLed
 > END STRING
 
 > BEGIN STRING
+ヘラ様に買ってもらった、人間の児童向けの本
+最近隠れて読むのに慣れてきた
+> CONTEXT: Armors/77/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なぞなぞ大百科
+> CONTEXT: Armors/77/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
 ニーナが昔、何故か大事に持っていたものらしい。
 手元にあるだけで、不思議と力が湧いてくる。
 > CONTEXT: Armors/78/description
@@ -812,6 +825,19 @@ Holy Harpy's Feather#GT
 > END STRING
 
 > BEGIN STRING
+リズから渡された、とても古い小動物用の首輪。
+今にも形が崩れそうだ。
+> CONTEXT: Armors/80/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+古ぼけた首輪
+> CONTEXT: Armors/80/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
 これを装備してベッドで眠ると、箱の閉鎖空間に引き込まれる。
 該当の悪魔が\\C[2]襲ってくる。逃げ場はない。敗北時は心蝕される。
 > CONTEXT: Armors/200/description
@@ -825,6 +851,8 @@ Holy Harpy's Feather#GT
 > CONTEXT: Armors/209/description
 > CONTEXT: Armors/210/description
 > CONTEXT: Armors/211/description
+> CONTEXT: Armors/213/description
+> CONTEXT: Armors/214/description
 Upon sleeping, the named monster will
 attack and devour you. \\C[2]There is no escape.#Dargoth
 > END STRING
@@ -898,11 +926,24 @@ Bronze box 【Daiji】#MTLed
 > BEGIN STRING
 白金の箱【モドキ】
 > CONTEXT: Armors/213/name
-Platinum Box[Modoki]#GT
+Platinum Box[Harpy Spawn]#Triketos
 > END STRING
 
 > BEGIN STRING
 白金の箱【クイーン】
 > CONTEXT: Armors/214/name
-Platinum box[Queen]#GT
+Platinum box[Harpy Queen]#Triketos
+> END STRING
+
+> BEGIN STRING
+これを装備してベッドで眠ると、箱の閉鎖空間に引き込まれる。
+バグベアに襲われるが、どうも相手には敵意は無いようだ…
+> CONTEXT: Armors/215/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+白金の箱【バグベア】
+> CONTEXT: Armors/215/name < UNTRANSLATED
+
 > END STRING
