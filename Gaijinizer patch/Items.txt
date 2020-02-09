@@ -331,8 +331,9 @@ be loaded with the Reload skill.#afrg
 > BEGIN STRING
 武器を練気の刀（その強化刀）に持ち替える。
 \\C[2]一度持ち替えると戦闘中二度と変更できないので注意
-> CONTEXT: Items/28/description < UNTRANSLATED
-
+> CONTEXT: Items/28/description
+Used to switch to the Invigorating Sword in battle.
+\\C[2]Once swapped, cannot swap again in that battle.#Dargoth
 > END STRING
 
 > BEGIN STRING
@@ -535,14 +536,15 @@ Zero-Dimensional Expansion Device#afrg
 > BEGIN STRING
 モルモー宛に届いていた大きな荷物。
 丁寧に包装されている。
-> CONTEXT: Items/53/description < UNTRANSLATED
-
+> CONTEXT: Items/53/description
+A large package addressed to Mormo.
+It's been carefully wrapped.#Ron
 > END STRING
 
 > BEGIN STRING
 配達物
-> CONTEXT: Items/53/name < UNTRANSLATED
-
+> CONTEXT: Items/53/name
+Package#Ron
 > END STRING
 
 > BEGIN STRING
@@ -742,14 +744,15 @@ May also be found in EX worlds.#Triketos
 > BEGIN STRING
 このアイテムで、特定のアイテムを掛け合わせることで
 作業台で新たな武器を創り出すことができる
-> CONTEXT: Items/72/description < UNTRANSLATED
-
+> CONTEXT: Items/72/description
+You can use this item to make a new weapon at a
+workbench.#RonIffy
 > END STRING
 
 > BEGIN STRING
 反逆の証
-> CONTEXT: Items/72/name < UNTRANSLATED
-
+> CONTEXT: Items/72/name
+Proof of Treachery#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1564,8 +1567,8 @@ Memento (Dream Cat)#afrg
 
 > BEGIN STRING
 想ひ魂（夢人魚）
-> CONTEXT: Items/203/name < UNTRANSLATED
-
+> CONTEXT: Items/203/name
+Memento (Dream Fish)#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1592,27 +1595,29 @@ Memento (Imaginary)#MTLed
 > BEGIN STRING
 もはや勾玉の形すら留めていない邪悪な想ひ魂
 これは使用する前に結博士に見てもらう必要がある…
-> CONTEXT: Items/215/description < UNTRANSLATED
-
+> CONTEXT: Items/215/description
+An evil memento that's no longer even in it's original
+shape. You need to talk to Professor Yui before using it.#RonIffy
 > END STRING
 
 > BEGIN STRING
 想ひ魂（禍）
-> CONTEXT: Items/215/name < UNTRANSLATED
-
+> CONTEXT: Items/215/name
+Memento (Calamity)#Ron
 > END STRING
 
 > BEGIN STRING
 邪悪なものが全て除去された、モルモーの想ひ魂
 マイルームで使用すると、モルモーの部屋を生成できる。
-> CONTEXT: Items/216/description < UNTRANSLATED
-
+> CONTEXT: Items/216/description
+Mormo's memento, cleansed of all its evil. If used in My
+Room, it will generate a room for Mormo.#Ron
 > END STRING
 
 > BEGIN STRING
 想ひ魂（望）
-> CONTEXT: Items/216/name < UNTRANSLATED
-
+> CONTEXT: Items/216/name
+Memento (Hope)#Ron
 > END STRING
 
 > BEGIN STRING
