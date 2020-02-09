@@ -1049,15 +1049,15 @@ Gives a 30% chance to nullify magical attacks.#afrg
 > BEGIN STRING
 魔法回避上昇
 > CONTEXT: Skills/65/name
-Magic Evation Boost#afrg
+Magic Evasion Boost#afrg
 > END STRING
 
 > BEGIN STRING
 戦闘中に１回だけ、朦朧状態を即回復し、抵抗・気力を５０％回復する。
 搾精体勢中の射精では効果を発揮しない。
 > CONTEXT: Skills/66/description
-Once per battle, recover from Faint. Recovers 50% Willpower and Vitality.
-Does not work while fucking.#afrg
+\\}Once per battle, recover from Faint. Recovers 50% Willpower and Vitality.
+Does not work while fucking.#afrg/
 > END STRING
 
 > BEGIN STRING
@@ -5186,7 +5186,7 @@ Submissive Masturbation#afrgPR
 １０ターンの間、疲労・衰弱・スタン・脱力・出血無効。
 更に毎ターン抵抗と気力が５０％回復する。
 > CONTEXT: Skills/425/description
-Prevents Exhaustion, Weakness, Stun, Debilitated and Bleeding
+\\}Prevents Exhaustion, Weakness, Stun, Debilitated and Bleeding
 for 10 turns, and grants 50% Willpower and Vitality recovery per turn.#afrg
 > END STRING
 
