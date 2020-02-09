@@ -12,7 +12,6 @@ Kazuya#Dargoth
 > CONTEXT: Enemies/100/name
 > CONTEXT: Enemies/102/name
 > CONTEXT: Enemies/113/name
-Haru#MTLed
 > CONTEXT: Map070/events/5/pages/0/35/Choice/0
 Haru#MTLed
 > END STRING
@@ -35,7 +34,6 @@ Nickname.
 > CONTEXT: Actors/3/name
 > CONTEXT: Enemies/101/name
 > CONTEXT: Enemies/103/name
-Liz#MTLed
 > CONTEXT: Map070/events/9/pages/0/35/Choice/0
 Liz#MTLed
 > END STRING
@@ -56,7 +54,6 @@ Hamper
 > BEGIN STRING
 フィルター【OFF】
 > CONTEXT: Actors/5/name
-Filter 【OFF】#MTLed
 > CONTEXT: Map003/events/6/pages/3/6/Choice/0
 > CONTEXT: Map094/events/1/pages/0/64/Choice/0
 > CONTEXT: Map101/events/15/pages/0/42/Choice/0
@@ -72,7 +69,6 @@ Filter 【OFF】#MTLed
 > CONTEXT: Actors/6/name
 2nd lap hero#MTLed
 > END STRING
-
 
 > BEGIN STRING
 エンプーサ
@@ -96,7 +92,7 @@ Filter 【OFF】#MTLed
 > CONTEXT: MapInfos/314/name
 > CONTEXT: Troops/45/name
 > CONTEXT: Troops/52/name
-Empuse
+Empuse#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -116,7 +112,7 @@ Empuse
 > CONTEXT: MapInfos/220/name
 > CONTEXT: MapInfos/315/name
 > CONTEXT: MapInfos/317/name
-Nina
+Nina#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -129,4 +125,90 @@ Light#GT
 行商人
 > CONTEXT: Actors/13/nickname
 Hawk#GT
+> END STRING
+
+> BEGIN STRING
+バーゲスト
+> CONTEXT: Actors/14/name
+> CONTEXT: Classes/23/name
+> CONTEXT: Enemies/1/name
+> CONTEXT: Enemies/2/name
+> CONTEXT: Enemies/3/name
+> CONTEXT: Enemies/4/name
+> CONTEXT: Enemies/5/name
+> CONTEXT: Enemies/6/name
+> CONTEXT: Enemies/7/name
+> CONTEXT: Enemies/8/name
+> CONTEXT: Enemies/9/name
+> CONTEXT: Enemies/10/name
+> CONTEXT: Enemies/11/name
+> CONTEXT: Enemies/13/name
+> CONTEXT: Enemies/231/name
+> CONTEXT: Map024/events/4/pages/1/0/NamePop
+> CONTEXT: Map193/events/4/pages/1/0/NamePop
+> CONTEXT: MapInfos/19/name
+> CONTEXT: MapInfos/239/name
+> CONTEXT: MapInfos/240/name
+> CONTEXT: MapInfos/324/name
+> CONTEXT: MapInfos/325/name
+> CONTEXT: MapInfos/329/name
+> CONTEXT: MapInfos/332/name
+Barghest#Triketos
+> END STRING
+
+> BEGIN STRING
+スフィンクス
+> CONTEXT: Actors/15/name
+> CONTEXT: Classes/24/name
+> CONTEXT: Enemies/130/name
+> CONTEXT: Enemies/131/name
+> CONTEXT: Enemies/132/name
+> CONTEXT: Enemies/133/name
+> CONTEXT: Enemies/134/name
+> CONTEXT: Enemies/136/name
+> CONTEXT: Enemies/137/name
+> CONTEXT: Enemies/138/name
+> CONTEXT: Enemies/139/name
+> CONTEXT: Enemies/235/name
+> CONTEXT: Map024/events/13/pages/1/0/NamePop
+> CONTEXT: Map193/events/13/pages/1/0/NamePop
+> CONTEXT: Map194/events/13/pages/1/0/NamePop
+> CONTEXT: MapInfos/97/name
+> CONTEXT: MapInfos/120/name
+> CONTEXT: MapInfos/139/name
+> CONTEXT: MapInfos/180/name
+> CONTEXT: MapInfos/229/name
+> CONTEXT: MapInfos/230/name
+> CONTEXT: MapInfos/266/name
+> CONTEXT: MapInfos/333/name
+> CONTEXT: MapInfos/334/name
+Sphinx#Triketos
+> END STRING
+
+> BEGIN STRING
+ランパス
+> CONTEXT: Actors/16/name
+> CONTEXT: Classes/25/name
+> CONTEXT: Enemies/28/name
+> CONTEXT: Enemies/30/name
+> CONTEXT: Enemies/31/name
+> CONTEXT: Enemies/32/name
+> CONTEXT: Enemies/33/name
+> CONTEXT: Enemies/34/name
+> CONTEXT: Enemies/35/name
+> CONTEXT: Enemies/36/name
+> CONTEXT: Enemies/37/name
+> CONTEXT: Enemies/39/name
+> CONTEXT: Enemies/40/name
+> CONTEXT: Enemies/42/name
+> CONTEXT: Enemies/292/name
+> CONTEXT: Enemies/296/name
+> CONTEXT: Enemies/297/name
+> CONTEXT: Map024/events/1/pages/1/0/NamePop
+> CONTEXT: Map193/events/1/pages/1/0/NamePop
+> CONTEXT: MapInfos/27/name
+> CONTEXT: MapInfos/224/name
+> CONTEXT: MapInfos/225/name
+> CONTEXT: Troops/20/name
+Lampas#Triketos
 > END STRING
