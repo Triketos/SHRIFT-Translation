@@ -88,7 +88,7 @@ Requires:【\\C[2] Friendship 25+\\C[0]】#Triketos
 > CONTEXT: Map062/events/5/pages/0/48/Dialogue
 > CONTEXT: Map062/events/5/pages/0/81/Dialogue
 > CONTEXT: Map070/events/5/pages/0/67/Dialogue
-> CONTEXT: Map070/events/5/pages/0/100/Dialogue
+> CONTEXT: Map070/events/5/pages/0/123/Dialogue
 > CONTEXT: Map070/events/9/pages/0/77/Dialogue
 > CONTEXT: Map070/events/9/pages/0/110/Dialogue
 > CONTEXT: Map070/events/9/pages/0/143/Dialogue
@@ -118,6 +118,9 @@ Requires:【\\C[2] Friendship 25+\\C[0]】#Triketos
 > CONTEXT: Map216/events/5/pages/0/221/Dialogue
 > CONTEXT: Map217/events/5/pages/0/55/Dialogue
 > CONTEXT: Map217/events/5/pages/0/88/Dialogue
+> CONTEXT: Map369/events/5/pages/0/22/Dialogue
+> CONTEXT: Map369/events/5/pages/0/54/Dialogue
+> CONTEXT: Map369/events/5/pages/0/86/Dialogue
 
 Having been recently milked, I am still
 completely exhausted. I should wait
@@ -129,7 +132,7 @@ a little while longer before returning.#afrg
 > CONTEXT: Map019/events/5/pages/0/71/ChoiceHelp
 > CONTEXT: Map027/events/5/pages/0/98/ChoiceHelp
 > CONTEXT: Map062/events/5/pages/0/73/ChoiceHelp
-> CONTEXT: Map070/events/5/pages/0/92/ChoiceHelp
+> CONTEXT: Map070/events/5/pages/0/115/ChoiceHelp
 > CONTEXT: Map070/events/9/pages/0/102/ChoiceHelp
 > CONTEXT: Map070/events/9/pages/1/62/ChoiceHelp
 > CONTEXT: Map080/events/5/pages/0/73/ChoiceHelp
@@ -154,7 +157,7 @@ Requires:【\\C[2] Friendship 50+\\C[0]】#Triketos
 > CONTEXT: Map041/events/5/pages/0/108/Dialogue
 > CONTEXT: Map042/events/5/pages/0/163/Dialogue
 > CONTEXT: Map062/events/5/pages/0/108/Dialogue
-> CONTEXT: Map070/events/5/pages/0/127/Dialogue
+> CONTEXT: Map070/events/5/pages/0/150/Dialogue
 > CONTEXT: Map080/events/5/pages/0/145/Dialogue
 > CONTEXT: Map085/events/5/pages/0/108/Dialogue
 > CONTEXT: Map119/events/5/pages/0/101/Dialogue
@@ -178,7 +181,7 @@ I should wait a while before giving another.#afrg
 > CONTEXT: Map041/events/5/pages/0/115/Dialogue
 > CONTEXT: Map042/events/5/pages/0/170/Dialogue
 > CONTEXT: Map062/events/5/pages/0/115/Dialogue
-> CONTEXT: Map070/events/5/pages/0/134/Dialogue
+> CONTEXT: Map070/events/5/pages/0/157/Dialogue
 > CONTEXT: Map080/events/5/pages/0/152/Dialogue
 > CONTEXT: Map085/events/5/pages/0/115/Dialogue
 > CONTEXT: Map119/events/5/pages/0/108/Dialogue
@@ -198,16 +201,16 @@ I should wait a while before giving another.#afrg
 
 お互いに深く理解した上で、渡した方がいいだろう。
 > CONTEXT: Map019/events/5/pages/0/142/Dialogue
-> CONTEXT: Map027/events/5/pages/0/218/Dialogue
+> CONTEXT: Map027/events/5/pages/0/225/Dialogue
 > CONTEXT: Map041/events/5/pages/0/165/Dialogue
 > CONTEXT: Map042/events/5/pages/0/206/Dialogue
-> CONTEXT: Map062/events/5/pages/0/151/Dialogue
-> CONTEXT: Map070/events/5/pages/0/163/Dialogue
+> CONTEXT: Map062/events/5/pages/0/158/Dialogue
+> CONTEXT: Map070/events/5/pages/0/193/Dialogue
 > CONTEXT: Map080/events/5/pages/0/202/Dialogue
 > CONTEXT: Map085/events/5/pages/0/165/Dialogue
 > CONTEXT: Map119/events/5/pages/0/158/Dialogue
 > CONTEXT: Map120/events/5/pages/0/229/Dialogue
-> CONTEXT: Map121/events/5/pages/0/172/Dialogue
+> CONTEXT: Map121/events/5/pages/0/179/Dialogue
 > CONTEXT: Map122/events/5/pages/0/153/Dialogue
 > CONTEXT: Map215/events/5/pages/0/158/Dialogue
 > CONTEXT: Map216/events/5/pages/0/302/Dialogue
@@ -221,16 +224,16 @@ then try to give it again.#afrg
 
 彼女に、本当にプロポーズしますか？
 > CONTEXT: Map019/events/5/pages/0/151/Dialogue
-> CONTEXT: Map027/events/5/pages/0/227/Dialogue
+> CONTEXT: Map027/events/5/pages/0/234/Dialogue
 > CONTEXT: Map041/events/5/pages/0/174/Dialogue
 > CONTEXT: Map042/events/5/pages/0/215/Dialogue
-> CONTEXT: Map062/events/5/pages/0/160/Dialogue
-> CONTEXT: Map070/events/5/pages/0/172/Dialogue
+> CONTEXT: Map062/events/5/pages/0/167/Dialogue
+> CONTEXT: Map070/events/5/pages/0/202/Dialogue
 > CONTEXT: Map080/events/5/pages/0/211/Dialogue
 > CONTEXT: Map085/events/5/pages/0/174/Dialogue
 > CONTEXT: Map119/events/5/pages/0/167/Dialogue
 > CONTEXT: Map120/events/5/pages/0/238/Dialogue
-> CONTEXT: Map121/events/5/pages/0/181/Dialogue
+> CONTEXT: Map121/events/5/pages/0/188/Dialogue
 > CONTEXT: Map122/events/5/pages/0/162/Dialogue
 > CONTEXT: Map215/events/5/pages/0/167/Dialogue
 > CONTEXT: Map216/events/5/pages/0/311/Dialogue
@@ -259,18 +262,20 @@ Remove mind corruption if(v[41] \>= 100) #Dargoth
 > BEGIN STRING
 条件【\\C[2]友好度１００\\C[0]】
 > CONTEXT: Map019/events/5/pages/0/190/ChoiceHelp
-> CONTEXT: Map027/events/5/pages/0/270/ChoiceHelp
+> CONTEXT: Map027/events/5/pages/0/277/ChoiceHelp
 > CONTEXT: Map041/events/5/pages/0/218/ChoiceHelp
 > CONTEXT: Map042/events/5/pages/0/254/ChoiceHelp
-> CONTEXT: Map062/events/5/pages/0/203/ChoiceHelp
-> CONTEXT: Map070/events/5/pages/0/213/ChoiceHelp
+> CONTEXT: Map062/events/5/pages/0/210/ChoiceHelp
+> CONTEXT: Map070/events/5/pages/0/243/ChoiceHelp
 > CONTEXT: Map080/events/5/pages/0/254/ChoiceHelp
 > CONTEXT: Map085/events/5/pages/0/217/ChoiceHelp
 > CONTEXT: Map119/events/5/pages/0/210/ChoiceHelp
+> CONTEXT: Map119/events/5/pages/0/241/ChoiceHelp
 > CONTEXT: Map120/events/5/pages/0/281/ChoiceHelp
-> CONTEXT: Map121/events/5/pages/0/225/ChoiceHelp
+> CONTEXT: Map121/events/5/pages/0/232/ChoiceHelp
 > CONTEXT: Map122/events/5/pages/0/202/ChoiceHelp
 > CONTEXT: Map215/events/5/pages/0/210/ChoiceHelp
+> CONTEXT: Map215/events/5/pages/0/240/ChoiceHelp
 > CONTEXT: Map216/events/5/pages/0/355/ChoiceHelp
 Requires:【\\C[2] Friendship 100\\C[0]】#Triketos
 > END STRING
@@ -278,18 +283,17 @@ Requires:【\\C[2] Friendship 100\\C[0]】#Triketos
 > BEGIN STRING
 彼女との戦闘における心蝕は無いようだ…
 > CONTEXT: Map019/events/5/pages/0/194/Dialogue
-> CONTEXT: Map027/events/5/pages/0/274/Dialogue
+> CONTEXT: Map027/events/5/pages/0/281/Dialogue
 > CONTEXT: Map041/events/5/pages/0/222/Dialogue
 > CONTEXT: Map042/events/5/pages/0/258/Dialogue
-> CONTEXT: Map062/events/5/pages/0/207/Dialogue
-> CONTEXT: Map070/events/5/pages/0/217/Dialogue
+> CONTEXT: Map062/events/5/pages/0/214/Dialogue
+> CONTEXT: Map070/events/5/pages/0/247/Dialogue
 > CONTEXT: Map080/events/5/pages/0/258/Dialogue
 > CONTEXT: Map085/events/5/pages/0/221/Dialogue
 > CONTEXT: Map119/events/5/pages/0/214/Dialogue
 > CONTEXT: Map120/events/5/pages/0/285/Dialogue
-> CONTEXT: Map121/events/5/pages/0/229/Dialogue
+> CONTEXT: Map121/events/5/pages/0/236/Dialogue
 > CONTEXT: Map122/events/5/pages/0/206/Dialogue
-There seems to be no mind corruption in battles with her...#afrg
 > CONTEXT: Map215/events/5/pages/0/214/Dialogue
 > CONTEXT: Map216/events/5/pages/0/359/Dialogue
 There seems to be no mind corruption in battles
@@ -301,16 +305,16 @@ with her...#afrg
 
 戦闘での心蝕は治まったようだ……。
 > CONTEXT: Map019/events/5/pages/0/204/Dialogue
-> CONTEXT: Map027/events/5/pages/0/286/Dialogue
+> CONTEXT: Map027/events/5/pages/0/293/Dialogue
 > CONTEXT: Map041/events/5/pages/0/234/Dialogue
 > CONTEXT: Map042/events/5/pages/0/270/Dialogue
-> CONTEXT: Map062/events/5/pages/0/219/Dialogue
-> CONTEXT: Map070/events/5/pages/0/229/Dialogue
+> CONTEXT: Map062/events/5/pages/0/226/Dialogue
+> CONTEXT: Map070/events/5/pages/0/259/Dialogue
 > CONTEXT: Map080/events/5/pages/0/271/Dialogue
 > CONTEXT: Map085/events/5/pages/0/233/Dialogue
 > CONTEXT: Map119/events/5/pages/0/227/Dialogue
 > CONTEXT: Map120/events/5/pages/0/301/Dialogue
-> CONTEXT: Map121/events/5/pages/0/241/Dialogue
+> CONTEXT: Map121/events/5/pages/0/248/Dialogue
 > CONTEXT: Map122/events/5/pages/0/218/Dialogue
 > CONTEXT: Map215/events/5/pages/0/226/Dialogue
 > CONTEXT: Map216/events/5/pages/0/371/Dialogue
@@ -409,7 +413,7 @@ Because that was your "kindness" to her.#Ron
 
 もう怪我もしてなさそうだし、動きにくいだけじゃ…
 > CONTEXT: Map019/events/5/pages/1/24/Dialogue/kazuya
-B- but, she doesn't look like she's hurt
+B-But, she doesn't look like she's hurt
 anymore, and it'd just making it difficult for
 her to move...#Ron
 > END STRING
@@ -451,7 +455,7 @@ wall.#Ron
 
 あのときは、自分でも何がなんだか………
 > CONTEXT: Map019/events/5/pages/1/45/Dialogue/kazuya
-S- sorry... It just sort of happened.#Ron
+S-Sorry... It just sort of happened.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -477,7 +481,7 @@ it hard for her to move.#Ron
 
 普段、犬の後ろ脚に包帯を巻くだなんてしないだろ！
 > CONTEXT: Map019/events/5/pages/1/58/Dialogue/kazuya-a
-W- well sorry...! I don't normally spend a lot
+W-Well sorry...! I don't normally spend a lot
 of time bandaging dog legs!#Ron
 > END STRING
 
@@ -501,7 +505,7 @@ really made an impression on her.#Ron
 
 股間に頭スリスリは………ダメっ……！
 > CONTEXT: Map019/events/5/pages/1/72/Dialogue/kazuya-a
-B- Barghest...! You know better than that...!
+B-Barghest...! You know better than that...!
 No rubbing my crotch!#Ron
 > END STRING
 
@@ -720,6 +724,7 @@ listen to my story.#Ron
 ワウッ！ワウッ！
 > CONTEXT: Map019/events/5/pages/1/159/Dialogue/バーゲスト
 > CONTEXT: Map019/events/5/pages/1/210/Dialogue/バーゲスト
+> CONTEXT: Map345/events/1/pages/0/153/Dialogue/バーゲスト2
 WOOF! WOOF!#Ron
 > END STRING
 
@@ -772,6 +777,12 @@ time to listen to me...#Ron
 > BEGIN STRING
 ワオンッ！
 > CONTEXT: Map019/events/5/pages/1/183/Dialogue/バーゲスト
+> CONTEXT: Map326/events/20/pages/0/3/Dialogue/バーゲスト2
+> CONTEXT: Map326/events/20/pages/1/3/Dialogue/バーゲスト2
+> CONTEXT: Map326/events/20/pages/2/3/Dialogue/バーゲスト2
+> CONTEXT: Map327/events/3/pages/0/42/Dialogue/バーゲスト
+> CONTEXT: Map328/events/20/pages/0/3/Dialogue/バーゲスト2
+> CONTEXT: Map342/events/3/pages/0/42/Dialogue/バーゲスト
 Wooff!#Ron
 > END STRING
 
@@ -796,7 +807,7 @@ than mating, it won't be so effective.#Ron
 > BEGIN STRING
 れ、冷静な分析をどうも…！
 > CONTEXT: Map019/events/5/pages/1/193/Dialogue/kazuya
-T- thank you so very much for your clinical
+T-Thank you so very much for your clinical
 analysis!#Ron
 > END STRING
 
@@ -865,7 +876,7 @@ don't eat. By "something" she probably means...#Ron
 
 ほら、バーゲストも冷蔵庫の方向いてるし！
 > CONTEXT: Map019/events/5/pages/1/229/Dialogue/kazuya-a
-S- she might not mean that...! Look, she's even
+S-She might not mean that...! Look, she's even
 facing the refrigerator!#Ron
 > END STRING
 
@@ -899,7 +910,7 @@ it together with you", is what she said.#Ron
 
 僕、一人暮らししてたから、簡単なものなら作れると思う…
 > CONTEXT: Map019/events/5/pages/1/244/Dialogue/kazuya
-D- do you have a favorite food, Barghest?
+D-Do you have a favorite food, Barghest?
 I used to live by myself, so I think I'd be able
 to make something simple...#Ron
 > END STRING
@@ -1012,7 +1023,7 @@ burnt, fried rice." Hohn hohn hohn.#RonIffy
 
 冷凍された米の扱いなんて、は、初めてだったし……！
 > CONTEXT: Map019/events/5/pages/1/302/Dialogue/kazuya-a
-W- what else could I do?! Almost all the
+W-What else could I do?! Almost all the
 ingredients were out of a can, and I'd never
 dealt with frozen rice before......!#Ron
 > END STRING
@@ -1037,7 +1048,7 @@ Hohn hohn hohn!#Ron
 > BEGIN STRING
 つ、次はもっと上手くやるからな！ちくしょう！
 > CONTEXT: Map019/events/5/pages/1/314/Dialogue/kazuya-a
-I- I'll do better next time! Damn it!#Ron
+I-I'll do better next time! Damn it!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1053,7 +1064,7 @@ Bonding Event if(v[41] \>= 99) #Dargoth
 > CONTEXT: Map041/events/5/pages/1/547/ChoiceHelp
 > CONTEXT: Map042/events/5/pages/1/334/ChoiceHelp
 > CONTEXT: Map062/events/5/pages/1/294/ChoiceHelp
-> CONTEXT: Map070/events/5/pages/1/335/ChoiceHelp
+> CONTEXT: Map070/events/5/pages/1/763/ChoiceHelp
 > CONTEXT: Map080/events/5/pages/1/221/ChoiceHelp
 > CONTEXT: Map085/events/5/pages/1/259/ChoiceHelp
 > CONTEXT: Map119/events/5/pages/1/379/ChoiceHelp
@@ -1120,7 +1131,7 @@ Alright then, enjooy♪#Ron
 > BEGIN STRING
 お、おい……！
 > CONTEXT: Map019/events/5/pages/1/358/Dialogue/kazuya
-H- hey...!#Ron
+H-Hey...!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1134,7 +1145,7 @@ H- hey...!#Ron
 
 おしりグイグイ押さないでって…！
 > CONTEXT: Map019/events/5/pages/1/362/Dialogue/kazuya-a
-I- I know, Barghest! Don't shove my butt!#Ron
+I-I know, Barghest! Don't shove my butt!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1218,7 +1229,7 @@ I'm in the middle of washing you!! No mating!!#Ron
 それじゃ、寝るとき！寝るときイチャイチャしよう！ね！
 それまでガマンしてて！
 > CONTEXT: Map019/events/5/pages/1/419/Dialogue/kazuya-a
-O- okay, okay! When we go to bed! Let's flirt
+O-Okay, okay! When we go to bed! Let's flirt
 when we go to bed, okay? Be patient until then!#Ron
 > END STRING
 
@@ -1456,6 +1467,9 @@ I do not understand the meaning......?#MTLed
 > CONTEXT: Map019/events/5/pages/2/29/Dialogue/バーゲスト
 > CONTEXT: Map239/events/1/pages/0/18/Dialogue/バーゲスト
 > CONTEXT: Map240/events/1/pages/0/13/Dialogue/バーゲスト
+> CONTEXT: Map323/events/1/pages/1/57/Dialogue/バーゲスト
+> CONTEXT: Map323/events/1/pages/2/19/Dialogue/バーゲスト
+> CONTEXT: Map359/events/10/pages/0/27/Dialogue/バーゲスト
 Waoof! !#MTLed
 > END STRING
 
@@ -1592,7 +1606,7 @@ Woof!♡#Triketos
 
 ば、バーゲスト！？
 > CONTEXT: Map019/events/7/pages/0/9/Dialogue/kazuya
-Uh, whah! B- Barghest!?#Ron
+Uh, whah! B-Barghest!?#Ron
 > END STRING
 
 > BEGIN STRING

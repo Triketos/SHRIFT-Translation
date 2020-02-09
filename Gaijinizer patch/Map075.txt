@@ -5,9 +5,9 @@
 \\N[1]君には迷惑かけたけん、特別価格にするからさ。
 > CONTEXT: Map075/events/1/pages/0/0/Dialogue/other3
 > CONTEXT: Map075/events/1/pages/2/0/Dialogue/other3
-If you have something you want, buy it.
-\\N[1] has troubled you, because it is a special
-price.#MTLed
+If there's something you're after, go ahead and
+buy it up. I'll give you a special price since
+I've caused you a bit of trouble.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -15,7 +15,9 @@ price.#MTLed
 
 ひょっとして、\\C[2]『想ひ魂』\\C[0]じゃないかい！？
 > CONTEXT: Map075/events/1/pages/1/1/Dialogue/other3
-That……. By chance,\\C[2] Memento\\C[0] Is not it? ?#MTLed
+That's...
+
+That's a \\C[2]Memento\\C[0] you've got there, isn't it?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -23,8 +25,9 @@ That……. By chance,\\C[2] Memento\\C[0] Is not it? ?#MTLed
 
 この勾玉みたいな形をしたやつのことか？
 > CONTEXT: Map075/events/1/pages/1/5/Dialogue/kazuya
-.........? Is it a guy that looks like this
-Magatama?#MTLed
+...? 
+
+You mean this tear-shaped thing?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -32,9 +35,9 @@ Magatama?#MTLed
 
  悪魔や人間のつよい思念が固まって物質化した珍品やん！
 > CONTEXT: Map075/events/1/pages/1/10/Dialogue/other3
-Yes Yes! A rare item made of materialized
-materialized by good thoughts of demons and
-humans!#MTLed
+Yes yes! It's a powerful item made of the
+materialized powerful thoughts of demons and
+humans!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -43,9 +46,10 @@ humans!#MTLed
 
 さすが特異体質の\\N[1]くん……
 > CONTEXT: Map075/events/1/pages/1/14/Dialogue/other3
-But you...well I can hold it with bare hands
-... It is usually inspired and mentally weird if
-... As expected, idiosyncratic \\N[1]-kun ...#MTLed
+But you... you're able to hold it so normally with
+your bare hands... Normally your mind would be
+driven insane by it. That's our idiosyncratic
+\\N[1]-kun for you...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -53,8 +57,8 @@ But you...well I can hold it with bare hands
 
  『これ』の内容、覗いてみるかい？
 > CONTEXT: Map075/events/1/pages/1/21/Dialogue/other3
-Yes! \\N[1] you! Do you want to look into the
-contents of "this"?#MTLed
+I know! \\N[1]-kun, do you want try having a peek
+into it?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -62,7 +66,9 @@ contents of "this"?#MTLed
 
 そんなことができるのか！？
 > CONTEXT: Map075/events/1/pages/1/26/Dialogue/kazuya
-No wonder ...! ? Can you do that? ?#MTLed
+P-Peek...?!
+
+You can do that?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -70,8 +76,8 @@ No wonder ...! ? Can you do that? ?#MTLed
 
 ホレ、こっちじゃ！
 > CONTEXT: Map075/events/1/pages/1/30/Dialogue/other3
-This is also not possible, if it's a finished
-device! Hole, here!#MTLed
+It's possible if we use this device I completed
+just the other day! Come on, it's over here!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -79,7 +85,9 @@ device! Hole, here!#MTLed
 
 軍用カプセル……？
 > CONTEXT: Map075/events/1/pages/1/43/Dialogue/kazuya
-this is………. Military capsule ...?#MTLed
+Is this...
+
+A military capsule...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -87,27 +95,26 @@ this is………. Military capsule ...?#MTLed
 
  名付けて\\C[2]『妄想カプセル』\\C[0]じゃ！！
 > CONTEXT: Map075/events/1/pages/1/47/Dialogue/other3
-The appearance is the same but the contents are
-completely different! Name\\C[2] "Deusion Capsule"\\C[0]
-Well! !#MTLed
+It looks like one but it works completely
+differently! I call it the \\C[2]"Delusion Capsule"\\C[0]!!#Ron
 > END STRING
 
 > BEGIN STRING
 ………はいぃ？
 > CONTEXT: Map075/events/1/pages/1/52/Dialogue/kazuya
-......yes?#MTLed
+...What?#Ron
 > END STRING
 
 > BEGIN STRING
 \\{\\{『妄想カプセル』！！
 > CONTEXT: Map075/events/1/pages/1/54/Dialogue/other3
-\\{\\{"Deusion Capsule"! !#MTLed
+\\{\\{"The Delusion Capsule"!!#Ron
 > END STRING
 
 > BEGIN STRING
 二回言わなくていいよ……
 > CONTEXT: Map075/events/1/pages/1/56/Dialogue/kazuya
-You do not need to say twice ...#MTLed
+You didn't need to say it twice...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -115,9 +122,9 @@ You do not need to say twice ...#MTLed
 
  そのまま虚数空間に結界として投影し、生成する。
 > CONTEXT: Map075/events/1/pages/1/58/Dialogue/other3
-This is a delusion drawn in my head when I go to
-bed in a capsule. Project as a boundary to the
-imaginary space as it is and generate it.#MTLed
+When you sleep inside the capsule, delusions
+generated inside your head are projected within a
+boundary in imaginary space.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -125,8 +132,9 @@ imaginary space as it is and generate it.#MTLed
 
 妄想通りのシチュエーションを楽しむことができる！
 > CONTEXT: Map075/events/1/pages/1/62/Dialogue/other3
-And in the space, the user gets in with the
-psychic body. You can enjoy the delusional state!#MTLed
+And in that space, the user enters the delusion
+with their psychic body and can enjoy whatever
+situation is there!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -134,21 +142,22 @@ psychic body. You can enjoy the delusional state!#MTLed
 
  文字どおり夢のような装置なんじゃ！！
 > CONTEXT: Map075/events/1/pages/1/66/Dialogue/other3
-Exactly! Exactly! Taku Taku delight! !
-It's literally a device like a dream! !#MTLed
+That's right! It's an otaku's wet dream!!
+
+It's literally a dream-like apparatus!!#Ron
 > END STRING
 
 > BEGIN STRING
 （…………あんまりよく分からない……）
 > CONTEXT: Map075/events/1/pages/1/71/Dialogue/kazuya
-(............ I do not know very well ...)#MTLed
+(...I don't know if I really understand...)#Ron
 > END STRING
 
 > BEGIN STRING
 それで、どうやってこの装置でこの魂の『中身』を…？
 > CONTEXT: Map075/events/1/pages/1/73/Dialogue/kazuya
-So how does this device "the content" of this
-soul ...?#MTLed
+So, how does this device show the contents of this
+soul...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -157,8 +166,9 @@ soul ...?#MTLed
  専門的な話をするとメチャクチャ長くなるんで
 簡潔に、図を使って説明するぞ！！
 > CONTEXT: Map075/events/1/pages/1/75/Dialogue/other3
-Hm! If you talk technically, it will be longer
-Briefly, I will explain using figures! !#MTLed
+Hm! If we get into the technical details it'll
+take forever, so I'll briefly explain it using
+diagrams!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -166,9 +176,8 @@ Briefly, I will explain using figures! !#MTLed
 
 『投影式結界』というものがある。
 > CONTEXT: Map075/events/1/pages/1/83/Dialogue/other3
-First of all, to the standard method of
-"boundary" used by demon. There is something
-called "Projection Boundaries".#MTLed
+First, the standard "boundaries" used by demons
+are called "Projection Boundaries.".#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -176,9 +185,10 @@ called "Projection Boundaries".#MTLed
  虚数空間………つまり目に見えない異次元の空間に
  そっくりそのまま生成する。
 > CONTEXT: Map075/events/1/pages/1/87/Dialogue/other3
-This is a copy of the real space
-Imaginary space...... in other words invisible
-space invisible. Produce exactly as it is.#MTLed
+It's a copy of real space into imaginary space.
+In other words, it generates a perfect copy of
+real space into an alternate dimension invisible
+to the eye.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -187,10 +197,10 @@ space invisible. Produce exactly as it is.#MTLed
  結界である物を壊しても、実際のそれは壊れていない。
  無線が繋がらないのも、この隔離のせいじゃ。
 > CONTEXT: Map075/events/1/pages/1/91/Dialogue/other3
-This space is completely isolated from reality,
-Even if you break something that is the boundary,
-it is not broken. It is also because of this
-isolation that the radio can not connect.#MTLed
+This space is completely isolated from reality.
+If you smash an object inside the boundary, that
+object will not be affected in reality. That's why
+your radio is cut off during battles.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -198,8 +208,8 @@ isolation that the radio can not connect.#MTLed
 
 ずばりこの『妄想カプセル』！！
 > CONTEXT: Map075/events/1/pages/1/99/Dialogue/other3
-And what applied this projection type boundary is
-It's all about this "Deusion Capsule"! !#MTLed
+This "Delusion Capsule" is putting that projection
+boundary to practical use.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -208,9 +218,9 @@ It's all about this "Deusion Capsule"! !#MTLed
 
 その妄想を実際に中で体験することができるのじゃ！
 > CONTEXT: Map075/events/1/pages/1/103/Dialogue/other3
-Rather than projecting "the real space"
-By projecting "in the user's head"
-You can actually experience the delusion in it!#MTLed
+It's not projecting real space, it's projecting
+the inside of the user's head. And by doing that
+the user can actually experience the delusion!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -218,9 +228,10 @@ You can actually experience the delusion in it!#MTLed
 
 中での出来事が如何なるものでも安全性100％！！
 > CONTEXT: Map075/events/1/pages/1/108/Dialogue/other3
-Moreover! Because it is only a mental experience
-and an ultra-realistic dream. 
-100% safety whatsoever happening inside! !#MTLed
+Not just that! Because it's just an
+ultra-realistic dream that you're experiencing at
+a mental level, no matter what happens you're 100%
+safe!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -229,9 +240,9 @@ and an ultra-realistic dream.
 『こいつホントロクなことに使わないなー』って目は…
 ロマンの分からんヤツやなぁ…
 > CONTEXT: Map075/events/1/pages/1/114/Dialogue/other3
-......what, that. "I don't use it for something
-like syrup ...". I do not know romance of romance
-...#MTLed
+...What? What's with that "she's definitely up to
+no good" look on your face? Where's your sense of
+adventure...?#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -239,8 +250,8 @@ like syrup ...". I do not know romance of romance
 
 この空間を投影する部分を、『想ひ魂』にするんよ。
 > CONTEXT: Map075/events/1/pages/1/122/Dialogue/other3
-Well, in a nutshell a simple story,
-The part that projects this space is "Memento".#MTLed
+Well to put it simply, the thing that's doing the
+projecting into space is the "Memento".#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -248,9 +259,9 @@ The part that projects this space is "Memento".#MTLed
 
 \\N[1]君は精神体として、中を体験できるわけ。
 > CONTEXT: Map075/events/1/pages/1/126/Dialogue/other3
-Then the contents of "Memento" are projected as a
-barrier. \\N[1] can not experience the inside as
-a psychic body.#MTLed
+The contents of "Memento" are projected as a
+boundary. And you'll be able to experience the
+inside of it as a psychic body.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -258,7 +269,9 @@ a psychic body.#MTLed
 
  分かってもらえたかい！？
 > CONTEXT: Map075/events/1/pages/1/133/Dialogue/other3
-Well, that's why! Did you understand? ?#MTLed
+And, that's about it!
+
+Do you understand now?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -266,7 +279,9 @@ Well, that's why! Did you understand? ?#MTLed
 
 原理はなんとなく……
 > CONTEXT: Map075/events/1/pages/1/137/Dialogue/kazuya
-Well...The principle is somehow ......#MTLed
+W-well...
+
+I kinda get the idea...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -274,9 +289,9 @@ Well...The principle is somehow ......#MTLed
 
  あとは普通のカプセルと同様、中に入ればええよ。
 > CONTEXT: Map075/events/1/pages/1/141/Dialogue/other3
-How to use\\C[2] Set Memento here to see
-The rest is the same as a normal capsule, if you
-get inside it is yeah.#MTLed
+This is how you use it. \\C[2]Set the Memento you want
+to see here, and then just get in like you would
+in a normal capsule.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -285,15 +300,15 @@ get inside it is yeah.#MTLed
 いくら他人の思念とはいえ夢の世界！
  １００％無事に帰ってこれるんじゃから！！
 > CONTEXT: Map075/events/1/pages/1/145/Dialogue/other3
-For now, try it once! No matter how much other
-people's thoughts are, the world of dreams!
-I'm 100% back home safely!!#MTLed
+Why don't you just give it a try! Even if it's
+the thoughts of someone else, it's a dream world!
+You'll be able to get back 100% safe!#Ron
 > END STRING
 
 > BEGIN STRING
 \\}…たぶん
 > CONTEXT: Map075/events/1/pages/1/150/Dialogue/other3
-\\}…maybe#MTLed
+\\}...Maybe#Ron
 > END STRING
 
 > BEGIN STRING
@@ -317,7 +332,7 @@ Leave this place#MTLed
 > CONTEXT: Map075/events/4/pages/1/9/Choice/0
 > CONTEXT: Map075/events/4/pages/2/9/Choice/0
 > CONTEXT: Map094/events/4/pages/1/9/Choice/0
-Memento (abyss)if(s[363])#MTLed
+Memento (Abyss)if(s[363])#Ron
 > END STRING
 
 > BEGIN STRING
@@ -325,7 +340,7 @@ Memento (abyss)if(s[363])#MTLed
 > CONTEXT: Map075/events/4/pages/1/11/ChoiceHelp
 > CONTEXT: Map075/events/4/pages/2/11/ChoiceHelp
 > CONTEXT: Map094/events/4/pages/1/11/ChoiceHelp
-Place of discovery: The company of production#MTLed
+Found: Sacrifice's Shrine#Ron
 > END STRING
 
 > BEGIN STRING
@@ -334,7 +349,7 @@ Place of discovery: The company of production#MTLed
 > CONTEXT: Map075/events/4/pages/1/17/Dialogue
 > CONTEXT: Map075/events/4/pages/2/17/Dialogue
 > CONTEXT: Map094/events/4/pages/1/17/Dialogue
-【Memento (abyss)】. Do you want to project this Memento?#MTLed
+【Memento (Abyss)】. Do you want to project this Memento?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -344,8 +359,9 @@ Place of discovery: The company of production#MTLed
 > CONTEXT: Map075/events/4/pages/1/39/Dialogue
 > CONTEXT: Map075/events/4/pages/2/39/Dialogue
 > CONTEXT: Map094/events/4/pages/1/39/Dialogue
-Apparently, the truth has been seen...
-\\C[2]I hope I can convey this to Mukuro ...#MTLed
+It seems I've seen the truth...
+
+\\C[2]I hope I can convey this to Mukuro...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -355,7 +371,8 @@ Apparently, the truth has been seen...
 > CONTEXT: Map075/events/4/pages/1/43/Dialogue
 > CONTEXT: Map075/events/4/pages/2/43/Dialogue
 > CONTEXT: Map094/events/4/pages/1/43/Dialogue
-\\C[2]Try that scene again. If I can see her ...#MTLed
+\\C[2]If I could just get back to there and meet
+her again...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -445,7 +462,7 @@ Memento (nekomata)if(s[364])#MTLed
 > CONTEXT: Map094/events/4/pages/1/117/ChoiceHelp
 > CONTEXT: Map094/events/4/pages/1/208/ChoiceHelp
 > CONTEXT: Map094/events/4/pages/1/253/ChoiceHelp
-Place of discovery: my room#MTLed
+Found: In My Room#Ron
 > END STRING
 
 > BEGIN STRING
@@ -555,7 +572,7 @@ Memento?#MTLed
 > CONTEXT: Map075/events/4/pages/1/476/Choice/0
 > CONTEXT: Map075/events/4/pages/2/476/Choice/0
 > CONTEXT: Map094/events/4/pages/1/296/Choice/0
-Memento (plant dream)if(s[369])#MTLed
+Memento (Plant Dream)if(s[369])#Ron
 > END STRING
 
 > BEGIN STRING
@@ -568,7 +585,7 @@ Memento (plant dream)if(s[369])#MTLed
 > CONTEXT: Map075/events/4/pages/2/590/ChoiceHelp
 > CONTEXT: Map094/events/4/pages/1/298/ChoiceHelp
 > CONTEXT: Map094/events/4/pages/1/354/ChoiceHelp
-Place of discovery: Pink bed#MTLed
+Found: After using a pink bed#Ron
 > END STRING
 
 > BEGIN STRING
@@ -577,8 +594,8 @@ Place of discovery: Pink bed#MTLed
 > CONTEXT: Map075/events/4/pages/1/485/Dialogue
 > CONTEXT: Map075/events/4/pages/2/485/Dialogue
 > CONTEXT: Map094/events/4/pages/1/305/Dialogue
-【Memento (plant dream)】. Do you want to project this
-Memento?#MTLed
+【Memento (Plant Dream)】. Do you want to project this
+Memento?#Ron
 > END STRING
 
 > BEGIN STRING

@@ -538,8 +538,9 @@ She's scary when she's mad.#Aesthetic
 
 どうした？
 > CONTEXT: Map003/events/1/pages/2/0/Dialogue/クッション君
-Yo. 
-What happened?#Aesthetic
+Yo.
+
+What's up?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -730,8 +731,8 @@ interacted with so far.#Aesthetic
 > CONTEXT: Map003/events/1/pages/2/64/Dialogue/クッション君
 First of all, \\C[2]give up on freeing your feet.
 Her tentacle attacks have a set order,
-『leg』→『hand』. This order is set in stone so your
-hands will never be bound first.#Aesthetic
+『leg』→『hand』. This order is set in stone so
+your hands will never be bound first.#Aesthetic
 > END STRING
 
 > BEGIN STRING
@@ -743,8 +744,8 @@ hands will never be bound first.#Aesthetic
 \\C[2]If you think that your vitality is getting
 low, prioritize recovering your position first.
 If you're being dragged towards her to the point
-that you're right in front of her you have an
-『Opportunity to take your distance at once』#Aesthetic
+that you're right in front of her, you'll have an
+opportunity to take your distance in one go.#Aesthetic
 > END STRING
 
 > BEGIN STRING
@@ -863,8 +864,7 @@ Physical attacks won't do much to Empuse.
 \\C[2]銃と違って、魔法は気力を大幅に消費する。
 > CONTEXT: Map003/events/1/pages/2/125/Dialogue/クッション君
 Still, be careful. 
-\\C[2]Unlike guns, Magic consumes a lot of
-vitality.#Aesthetic
+\\C[2]Unlike guns, Magic consumes a lot of vitality.#Aesthetic
 > END STRING
 
 > BEGIN STRING
@@ -872,8 +872,9 @@ vitality.#Aesthetic
 
 \\C[2]魔法の『シルフストーム』大活躍ってわけだ。
 > CONTEXT: Map003/events/1/pages/2/129/Dialogue/クッション君
-Fortunately, Empuse mainly has physical attacks
-\\C[2]The magic ability 『Sylph Storm』 would help tremendously.#Aesthetic
+Fortunately, Empuse mainly has physical attacks.
+\\C[2]The magic ability 『Sylph Storm』 would help
+tremendously.#Aesthetic
 > END STRING
 
 > BEGIN STRING
@@ -882,9 +883,9 @@ Fortunately, Empuse mainly has physical attacks
 『ガントレット』を装備するのも効果的だぞ。
 『出血』の確率がダンチで下がる。
 > CONTEXT: Map003/events/1/pages/2/133/Dialogue/クッション君
-\\C[2]If you managed to find the item
-『Gauntlet』, it's also effective to equip it.
-It significantly decreases the probability of 『bleeding』.#Aesthetic
+\\C[2]If you manage to find the item "Gauntlet",
+it's also helpful to equip it. It significantly
+decreases the probability of "bleeding".#Aesthetic
 > END STRING
 
 > BEGIN STRING
@@ -892,8 +893,8 @@ It significantly decreases the probability of 『bleeding』.#Aesthetic
 
 \\C[2]必死で蹴れ
 > CONTEXT: Map003/events/1/pages/2/138/Dialogue/クッション君
-If she manages to bind you with 『capture・Fall』
-\\C[2]Desperately Kick her.#Aesthetic
+If she manages to bind you with "Capture Fall",
+\\C[2]desperately kick her.#Aesthetic
 > END STRING
 
 > BEGIN STRING
@@ -901,9 +902,10 @@ If she manages to bind you with 『capture・Fall』
 
 \\C[2]『出血』していなくても、最低４５以上気力は維持しておけ
 > CONTEXT: Map003/events/1/pages/2/142/Dialogue/クッション君
-If you manage to kick her 3 times, she will probably let you go. 
-\\C[2]Even if you aren't 『bleeding』, keep your vitality above 45
-at all times.#Aesthetic
+If you manage to kick her 3 times, she will
+probably let go of you. \\C[2]Even if you aren't
+"bleeding", keep your vitality above 45 at all
+times.#Aesthetic
 > END STRING
 
 > BEGIN STRING
@@ -912,10 +914,10 @@ at all times.#Aesthetic
 その間に攻撃しても良いし、回復してもいいだろう。
 まぁ、回復が無難かな…
 > CONTEXT: Map003/events/1/pages/2/146/Dialogue/クッション君
-If you escape from her grab by kicking her, she will surely
-be stunned. You can attack when that happens or you can
-You can heal yourself. Well, It's probably better to recover
-yourself.#Aesthetic
+If you escape from her grab by kicking her, she'll
+be stunned. You can attack when that happens or
+you can heal yourself. Well, it's probably better
+to heal.#Aesthetic
 > END STRING
 
 > BEGIN STRING
@@ -923,9 +925,9 @@ yourself.#Aesthetic
 
 実はこのとき\\C[2]『物理ダメージが２倍』なんだ。
 > CONTEXT: Map003/events/1/pages/2/151/Dialogue/クッション君
-Also, When she's about to use a big skill she 『opens
-her body』. Truth is, when she does that her \\C[2]『Physical
-damage Doubles』. It's pretty crazy.#Aesthetic
+Also, when she's about to use a big skill she
+"opens her body". When she does that, \\C[2]physical
+attacks deal double damage to her".#Aesthetic
 > END STRING
 
 > BEGIN STRING
@@ -934,9 +936,10 @@ damage Doubles』. It's pretty crazy.#Aesthetic
 それともシルフストームを信じるか…
 武器に自信あるなら、賭けに出ても良いかもなぁ
 > CONTEXT: Map003/events/1/pages/2/155/Dialogue/クッション君
-\\C[2]Maybe you think she's low on health? Or maybe you believe in Sylph Storm. 
-If you are confident in your weapon, You could place a bet and attack her
-when she opens up like that.#Aesthetic
+\\C[2]Maybe you think she's low on health, or
+maybe you trust in Sylph Storm to keep you safe.
+If you're confident, you can take a gamble and
+attack when she's vulnerable like that.#Aesthetic
 > END STRING
 
 > BEGIN STRING
@@ -969,7 +972,7 @@ Ninaif(v[28] \>= 1)#MTLed
 \\C[2]拘束も、(身体)を解除すれば全部離してくれるし
 逃げた際に見逃す確率も高い。
 > CONTEXT: Map003/events/1/pages/2/164/Dialogue/クッション君
-Mother Rabbit is a gentle demon。
+Mother Rabbit is a gentle demon.
 \\C[2]You can probably convince her to leave if you
 aren't bound. The probability of successfully
 running away from her is also high.#Aesthetic
@@ -989,7 +992,7 @@ body, you can't use "Kick Away".#Ron
 
 確かお前、持ってたんじゃないっけ？
 > CONTEXT: Map003/events/1/pages/2/173/Dialogue/クッション君
-\\C[2]Other than 『Shake Off』, there aren't any
+\\C[2]Other than "Shake Off", there aren't any
 other skills you can use to free yourself.#Aesthetic
 > END STRING
 
@@ -1114,8 +1117,9 @@ you'll probably want to act before she does.#Aesthetic
 
 これがないと踊れない。
 > CONTEXT: Map003/events/1/pages/2/232/Dialogue/クッション君
-When it comes to dancing, you have to remember to keep up
-your vitality. You can't dance without it.#Aesthetic
+When it comes to dancing, you have to remember to
+keep up your vitality. You can't dance without
+it.#Aesthetic
 > END STRING
 
 > BEGIN STRING
@@ -1124,8 +1128,8 @@ your vitality. You can't dance without it.#Aesthetic
 自分が確実にできる最高の技を２種類、交互にやるといい。
 > CONTEXT: Map003/events/1/pages/2/236/Dialogue/クッション君
 \\C[2]If you're mostly concerned about winning,
-The best strategy should be to alternate between 2 dances
-you're comfortable with.#Aesthetic
+the best strategy should be to alternate between
+two dances you're comfortable with.#Aesthetic
 > END STRING
 
 > BEGIN STRING
@@ -1134,8 +1138,8 @@ you're comfortable with.#Aesthetic
 転んだりパニックになれば、たちどころに不利になるからな。
 > CONTEXT: Map003/events/1/pages/2/240/Dialogue/クッション君
 \\C[2]No matter the technique don't mess up.
-If you fall or panic, you'll be in a disadvantageous
-position.#Aesthetic
+If you fall or panic, you'll be in a
+disadvantageous position.#Aesthetic
 > END STRING
 
 > BEGIN STRING
@@ -1144,10 +1148,11 @@ position.#Aesthetic
 敵のダンスで徐々に消えてく矢印があるだろ？
 \\C[2]あの消える時間に影響してるんだよ。実は。
 > CONTEXT: Map003/events/1/pages/2/244/Dialogue/クッション君
-Also, there's one more aspect to the battle to consider, 
-and that is\\C[2] Willpower\\C[0]. There are arrows that 
-gradually disappear on the enemy's turn right? \\C[2]Your 
-Willpower affects the time it takes for those arrows to disappear.#Aesthetic
+Also, there's one more aspect to the battle to
+consider, and that's \\C[2] Willpower\\C[0]. There are
+arrows that gradually disappear on the enemy's
+turn right? \\C[2]Your Willpower affects the time it
+takes for those arrows to disappear.#Aesthetic
 > END STRING
 
 > BEGIN STRING
@@ -1156,10 +1161,10 @@ Willpower affects the time it takes for those arrows to disappear.#Aesthetic
 \\C[2]衰弱していなければ、入力が始まるまで
 最初の矢印がギリギリ見えているはずだ。
 > CONTEXT: Map003/events/1/pages/2/249/Dialogue/クッション君
-Be careful to never get weakened especially for the fight
-against Nina herself. \\C[2]If you're not weakened, then until
-the input starts, the first arrow should be visible even if it's
-barely.#Aesthetic
+Be careful to never get weakened, especially for
+the fight against Nina herself. \\C[2]If you're not
+weakened, the first arrow will stay visible, if
+barely, until you start inputting.#Aesthetic
 > END STRING
 
 > BEGIN STRING
@@ -1167,8 +1172,8 @@ barely.#Aesthetic
 
 とりあえず\\C[2]裸になるな。
 > CONTEXT: Map003/events/1/pages/2/254/Dialogue/クッション君
-If you fight normally, then it's like that.
-I mean...\\C[2] Try not to get naked.#Aesthetic
+If you fight normally, then it's the usual.
+Just \\C[2]try not to get naked.#Aesthetic
 > END STRING
 
 > BEGIN STRING
@@ -1176,10 +1181,10 @@ I mean...\\C[2] Try not to get naked.#Aesthetic
 
 \\C[2]裸にならない装備品とか、あればいいかもな。
 > CONTEXT: Map003/events/1/pages/2/258/Dialogue/クッション君
-If you're naked, their temptation dance has a high probability
-of becoming a milking dance.
-\\C[2]Equipment that keeps you from getting naked sounds pretty good
-doesn't it.#Aesthetic
+If you're naked, their temptation dance has a
+high probability of becoming a milking dance.
+\\C[2]Equipment that keeps you from getting naked
+would seem like a pretty good idea.#Aesthetic
 > END STRING
 
 > BEGIN STRING
@@ -1188,9 +1193,10 @@ doesn't it.#Aesthetic
 普通に戦う場合は、これといって苦戦はしないだろうが、
 視聴率はダンスと比べて上がりにくいとは思うぜ。
 > CONTEXT: Map003/events/1/pages/2/262/Dialogue/クッション君
-All that's left is to be careful of ecstasy.
-Also, I'm pretty sure it's harder to increase the viewer
-ratings in a normal fight compared to a dance fight.#Aesthetic
+All that's left is to just watch out for ecstasy
+effects. Also, unless it's a close fight, I think
+it'll be harder to get ratings up than in a dance
+battle.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1951,9 +1957,9 @@ Erase data#Dargoth
 \\C[2]ボス戦のあとにどこかしらでセーブすると
 リベンジデータは消えるから注意するんだな。
 > CONTEXT: Map003/events/1/pages/2/607/Dialogue/クッション君
-It seems that there is no revenge data.
-\\C[2]If you save somewhere after the boss game
-I'm careful because revenge data disappears.#MTLed
+It doesn't look like there's any revenge data.
+\\C[2]Be careful, if you save somewhere after a
+boss battle their revenge data will disappear.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1994,9 +2000,9 @@ Mr. Bystander?#MTLed
 【救済使用ポイント】：\\V[168]
 > CONTEXT: Map003/events/2/pages/2/9/Dialogue/other1
 > CONTEXT: Map003/events/2/pages/5/9/Dialogue/other1
-Here we are accepting "Assistance" at the time of
-the continuation. 【Number of assistants】: \\V[102]
-【Relief Use Points】: \\V[168]#MTLed
+You can request "Assists" from here.
+【Assist Points Left】: \\V[102]
+【Assist Points Used】: \\V[168]#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -2038,9 +2044,9 @@ Ammo [Cost: 1] en(v[102] \>= 1) #Dargoth
 > CONTEXT: Map003/events/2/pages/2/16/Dialogue/other1
 > CONTEXT: Map003/events/2/pages/5/16/Dialogue/other1
 > CONTEXT: Map018/events/2/pages/0/6/Dialogue/other1
-When you come back here to contend with the
-"donate". \\C[2]Items and bullets consumed in battle
-are the same.#MTLed
+When you come back here via the "Indulgence" we
+gave you, \\C[2]items and bullets consumed in that
+battle you lost are not returned to you.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -2050,10 +2056,9 @@ are the same.#MTLed
 > CONTEXT: Map003/events/2/pages/2/20/Dialogue/other1
 > CONTEXT: Map003/events/2/pages/5/20/Dialogue/other1
 > CONTEXT: Map018/events/2/pages/0/10/Dialogue/other1
-Furthermore, if you lose the encounter, it will
-be accompanied by the mind corruption
-It will only be a situation where this is at a
-disadvantage.#MTLed
+Furthermore, if you lose the encounter, you will
+receive demonic corruption from the demon you lost
+to. This is to no one's benefit here.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -2063,8 +2068,8 @@ disadvantage.#MTLed
 > CONTEXT: Map003/events/2/pages/2/24/Dialogue/other1
 > CONTEXT: Map003/events/2/pages/5/24/Dialogue/other1
 > CONTEXT: Map018/events/2/pages/0/14/Dialogue/other1
-So I\\C[2] Depending on the number of times you have
-subscribed. I will do some kind of assistance.#MTLed
+So \\C[2]depending on the number of times you've
+revived, I will provde some level of assistance.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -2074,9 +2079,9 @@ subscribed. I will do some kind of assistance.#MTLed
 > CONTEXT: Map003/events/2/pages/2/28/Dialogue/other1
 > CONTEXT: Map003/events/2/pages/5/28/Dialogue/other1
 > CONTEXT: Map018/events/2/pages/0/18/Dialogue/other1
-If the item is missing, recover the item ...
-If you are genuinely in short of money, please
-seek money.#MTLed
+If you don't have enough items, I can replenish
+some. If you are genuinely short of money, please
+request more from me.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -2086,7 +2091,7 @@ seek money.#MTLed
 > CONTEXT: Map003/events/2/pages/2/32/Dialogue/other1
 > CONTEXT: Map003/events/2/pages/5/32/Dialogue/other1
 However, please be careful. \\C[2]The number of
-bailouts affects the end of the story.#MTLed
+assists can affect the ending.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -2095,9 +2100,9 @@ bailouts affects the end of the story.#MTLed
 戦略的には、あまりアテになさりすぎないように…
 > CONTEXT: Map003/events/2/pages/2/36/Dialogue/other1
 > CONTEXT: Map003/events/2/pages/5/36/Dialogue/other1
-Because it is an assistance to avoid getting
-stuck. Strategically, don't overdo it too much
-...#MTLed
+These are here to help you avoid getting stuck.
+
+Be strategic, and don't overdo it too much...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -3314,8 +3319,8 @@ Cushion-kun is...Who are you ...#MTLed
 > CONTEXT: Map003/events/18/pages/1/0/Dialogue/other1
 > CONTEXT: Map166/events/18/pages/1/0/Dialogue/other1
 > CONTEXT: Map195/events/18/pages/1/0/Dialogue/other1
-......... I have trouble. If such a "road" is
-connected without permission ...#MTLed
+...I don't like this one bit. You can't just go
+off and decide to connect a route like that...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -3325,8 +3330,8 @@ connected without permission ...#MTLed
 > CONTEXT: Map003/events/18/pages/1/6/Dialogue/other3
 > CONTEXT: Map166/events/18/pages/1/6/Dialogue/other3
 > CONTEXT: Map195/events/18/pages/1/6/Dialogue/other3
-Do it okay! The invention of eagle is absolutely
-useful for \\N[1]!#MTLed
+It's fine, don't worry! My inventions will
+definitely help \\N[1]-kun!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -3336,8 +3341,9 @@ useful for \\N[1]!#MTLed
 > CONTEXT: Map003/events/18/pages/1/12/Dialogue/other3
 > CONTEXT: Map166/events/18/pages/1/12/Dialogue/other3
 > CONTEXT: Map195/events/18/pages/1/12/Dialogue/other3
-Besides, if \\N[1] you have a eagle
-expressly It takes time to return to that place!#MTLed
+Also, supposing \\N[1]-kun has a need for me, now
+he won't have to slog it all the way back to my
+lab!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -3346,7 +3352,7 @@ expressly It takes time to return to that place!#MTLed
 > CONTEXT: Map003/events/18/pages/1/16/Dialogue/other1
 > CONTEXT: Map166/events/18/pages/1/16/Dialogue/other1
 > CONTEXT: Map195/events/18/pages/1/16/Dialogue/other1
-Just because you are saying that .........#MTLed
+Even so...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -3356,8 +3362,9 @@ Just because you are saying that .........#MTLed
 > CONTEXT: Map003/events/18/pages/1/22/Dialogue/other3
 > CONTEXT: Map166/events/18/pages/1/22/Dialogue/other3
 > CONTEXT: Map195/events/18/pages/1/22/Dialogue/other3
-Oh! If you make a rumor, it is weird! !
-hey !, \\N[1] you!#MTLed
+Oh! Speak of the devil!!
+
+Heyo, \\N[1]-kun!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -3367,7 +3374,9 @@ hey !, \\N[1] you!#MTLed
 > CONTEXT: Map003/events/18/pages/1/31/Dialogue/other3
 > CONTEXT: Map166/events/18/pages/1/31/Dialogue/other3
 > CONTEXT: Map195/events/18/pages/1/31/Dialogue/other3
-Oh, uh? What kind of unwelcome Kandhi ...?#MTLed
+C-come on now.
+
+You're not exactly making me feel welcome here...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -3378,9 +3387,9 @@ Oh, uh? What kind of unwelcome Kandhi ...?#MTLed
 > CONTEXT: Map003/events/18/pages/1/35/Dialogue/other3
 > CONTEXT: Map166/events/18/pages/1/35/Dialogue/other3
 > CONTEXT: Map195/events/18/pages/1/35/Dialogue/other3
-Oh, if I'm angry about that doll, I'm sorry ...
-Is an eagle a weak inventor? That is force
-majeure ...#MTLed
+I-I already said I was sorry about that doll...
+I'm just a helpless inventor, the whole thing was
+an act of God...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -3390,9 +3399,10 @@ majeure ...#MTLed
 > CONTEXT: Map003/events/18/pages/1/41/Dialogue/other1
 > CONTEXT: Map166/events/18/pages/1/41/Dialogue/other1
 > CONTEXT: Map195/events/18/pages/1/41/Dialogue/other1
-......... In the case of you, including the
-matter of surveillance and the conviction
-I think that bad things are usually big.#MTLed
+...In your case, I think you were suspicious
+enough even before all of this happened. What
+with your surveillance of \\N[1], prior
+criminal record and all your usual bad behaviour.#Triketos/RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -3402,7 +3412,9 @@ I think that bad things are usually big.#MTLed
 > CONTEXT: Map003/events/18/pages/1/45/Dialogue/other3
 > CONTEXT: Map166/events/18/pages/1/45/Dialogue/other3
 > CONTEXT: Map195/events/18/pages/1/45/Dialogue/other3
-Ah, Ahaha ...... After all ...?#MTLed
+Ah, ahaha...
+
+Is that how it is...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -3413,9 +3425,8 @@ Ah, Ahaha ...... After all ...?#MTLed
 > CONTEXT: Map003/events/18/pages/1/52/Dialogue/other3
 > CONTEXT: Map166/events/18/pages/1/52/Dialogue/other3
 > CONTEXT: Map195/events/18/pages/1/52/Dialogue/other3
-And anyway!!The path to the laboratory of the
-eagle, I was connected here! Come and see me in
-your spare time, yes!#MTLed
+A-anyway!! This here will take you directly to my
+lab! Come see me when you've got some time!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -3426,10 +3437,10 @@ your spare time, yes!#MTLed
 > CONTEXT: Map003/events/18/pages/1/57/Dialogue/other3
 > CONTEXT: Map166/events/18/pages/1/57/Dialogue/other3
 > CONTEXT: Map195/events/18/pages/1/57/Dialogue/other3
-There is also a research fund, but as it is, I'm
-free. As I said before, in the invention of eagle
-There are a lot of things that may help you
-\\N[1]!#MTLed
+Like I said before, I have a bunch of inventions,
+I'm sure lots of them will be useful, \\N[1]-kun!
+Oh but research isn't cheap, so I can't exactly
+give them to you for free.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -3437,7 +3448,7 @@ There are a lot of things that may help you
 > CONTEXT: Map003/events/18/pages/1/66/Dialogue
 > CONTEXT: Map166/events/18/pages/1/66/Dialogue
 > CONTEXT: Map195/events/18/pages/1/66/Dialogue
-Yui went down the ladder to escape ...#MTLed
+The Professor escaped down the ladder...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -3447,7 +3458,9 @@ Yui went down the ladder to escape ...#MTLed
 > CONTEXT: Map003/events/18/pages/1/71/Dialogue/other1
 > CONTEXT: Map166/events/18/pages/1/71/Dialogue/other1
 > CONTEXT: Map195/events/18/pages/1/71/Dialogue/other1
-dear me...I'm in trouble. Let me know, my Lord.#MTLed
+Dear me... this is going to be a hassle.
+
+What will you do, my Lord?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -3458,9 +3471,9 @@ dear me...I'm in trouble. Let me know, my Lord.#MTLed
 > CONTEXT: Map003/events/18/pages/1/75/Dialogue/クッション君
 > CONTEXT: Map166/events/18/pages/1/75/Dialogue/クッション君
 > CONTEXT: Map195/events/18/pages/1/75/Dialogue/クッション君
-Another thing is not good. I'm not saying I'm
-coming from here. It doesn't affect much on this
-"business".#MTLed
+What's the problem? It's not like she's going to
+be turning up here from her side. I don't see it
+affecting our "operations" very much.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -3471,9 +3484,9 @@ coming from here. It doesn't affect much on this
 > CONTEXT: Map003/events/18/pages/1/80/Dialogue/クッション君
 > CONTEXT: Map166/events/18/pages/1/80/Dialogue/クッション君
 > CONTEXT: Map195/events/18/pages/1/80/Dialogue/クッション君
-Besides, that doll is my arm, I'm sure.
-One or two things that are useful for \\N[1]
-It may not be serious.#MTLed
+Besides, going by that doll, she's got some skill.
+She might actually have one or two things that
+could help out \\N[1].#Ron
 > END STRING
 
 > BEGIN STRING
@@ -3483,7 +3496,9 @@ It may not be serious.#MTLed
 > CONTEXT: Map003/events/18/pages/1/85/Dialogue/other1
 > CONTEXT: Map166/events/18/pages/1/85/Dialogue/other1
 > CONTEXT: Map195/events/18/pages/1/85/Dialogue/other1
-Yeah, you are right……. If one or two...... ...#MTLed
+Yes, that's true.
+
+If she's got one or two...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -3493,8 +3508,8 @@ Yeah, you are right……. If one or two...... ...#MTLed
 > CONTEXT: Map003/events/18/pages/1/90/Dialogue/kazuya
 > CONTEXT: Map166/events/18/pages/1/90/Dialogue/kazuya
 > CONTEXT: Map195/events/18/pages/1/90/Dialogue/kazuya
-That doctor ......... You're quite hated in other
-places ....#MTLed
+That Professor... She's got a reputation even in
+this place...#Ron
 > END STRING
 
 > BEGIN STRING

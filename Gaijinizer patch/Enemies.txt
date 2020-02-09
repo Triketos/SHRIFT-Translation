@@ -34,51 +34,15 @@ Iron Maiden#Dargoth
 > END STRING
 
 > BEGIN STRING
-ランパス
-> CONTEXT: Enemies/28/name
-> CONTEXT: Enemies/30/name
-> CONTEXT: Enemies/31/name
-> CONTEXT: Enemies/32/name
-> CONTEXT: Enemies/33/name
-> CONTEXT: Enemies/34/name
-> CONTEXT: Enemies/35/name
-> CONTEXT: Enemies/36/name
-> CONTEXT: Enemies/37/name
-> CONTEXT: Enemies/39/name
-> CONTEXT: Enemies/40/name
-> CONTEXT: Enemies/42/name
-> CONTEXT: Map024/events/1/pages/1/0/NamePop
-> CONTEXT: Map193/events/1/pages/1/0/NamePop
-> CONTEXT: MapInfos/27/name
-> CONTEXT: MapInfos/224/name
-> CONTEXT: MapInfos/225/name
-> CONTEXT: Troops/20/name
-Lampas#Dargoth
-> END STRING
-
-> BEGIN STRING
-エンプーサ
-> CONTEXT: Enemies/45/name
-> CONTEXT: Enemies/47/name
-> CONTEXT: Enemies/48/name
-> CONTEXT: Enemies/49/name
-> CONTEXT: Enemies/50/name
-> CONTEXT: Enemies/52/name
-> CONTEXT: Enemies/232/name
-> CONTEXT: Map024/events/8/pages/1/0/NamePop
-> CONTEXT: Map193/events/8/pages/1/0/NamePop
-> CONTEXT: Map194/events/8/pages/1/0/NamePop
-> CONTEXT: MapInfos/42/name
-> CONTEXT: MapInfos/235/name
-> CONTEXT: Troops/45/name
-> CONTEXT: Troops/52/name
-Empuse#Dargoth
-> END STRING
-
-> BEGIN STRING
 ヘカーテ
 > CONTEXT: Enemies/46/name
 > CONTEXT: Enemies/51/name
+> CONTEXT: Enemies/298/name
+> CONTEXT: Enemies/299/name
+> CONTEXT: Enemies/300/name
+> CONTEXT: Enemies/301/name
+> CONTEXT: MapInfos/365/name
+> CONTEXT: Troops/314/name
 Hecate#Dargoth
 > END STRING
 
@@ -102,26 +66,8 @@ Mother Rabbit (Missed)#afrg
 > CONTEXT: MapInfos/62/name 
 > CONTEXT: MapInfos/233/name 
 > CONTEXT: MapInfos/234/name 
-> CONTEXT: MapInfos/322/name 
 > CONTEXT: Troops/60/name 
 Mother Rabbit#Triketos
-> END STRING
-
-> BEGIN STRING
-ニーナ
-> CONTEXT: Enemies/70/name
-> CONTEXT: Enemies/74/name
-> CONTEXT: Enemies/75/name
-> CONTEXT: Enemies/78/name
-> CONTEXT: Enemies/79/name
-> CONTEXT: Enemies/105/name
-> CONTEXT: Enemies/237/name
-> CONTEXT: Map024/events/12/pages/1/0/NamePop
-> CONTEXT: Map193/events/12/pages/1/0/NamePop
-> CONTEXT: Map194/events/12/pages/1/0/NamePop
-> CONTEXT: MapInfos/85/name
-> CONTEXT: MapInfos/220/name
-Nina#afrg
 > END STRING
 
 > BEGIN STRING
@@ -144,7 +90,7 @@ Ebony#afrg
 > CONTEXT: Enemies/107/name
 > CONTEXT: Enemies/109/name
 > CONTEXT: Enemies/229/name
-Lazy#afrg
+Ivory#afrg
 > END STRING
 
 > BEGIN STRING
@@ -175,7 +121,6 @@ Mukuro (Missed)#afrg
 > BEGIN STRING
 双子
 > CONTEXT: Enemies/87/name
-> CONTEXT: Enemies/619/name
 Twins#afrg
 > END STRING
 
@@ -219,31 +164,6 @@ Nina#MTLed
 > CONTEXT: MapInfos/226/name
 > CONTEXT: MapInfos/228/name
 Archeny#afrgPR
-> END STRING
-
-> BEGIN STRING
-スフィンクス
-> CONTEXT: Enemies/130/name
-> CONTEXT: Enemies/131/name
-> CONTEXT: Enemies/132/name
-> CONTEXT: Enemies/133/name
-> CONTEXT: Enemies/134/name
-> CONTEXT: Enemies/136/name
-> CONTEXT: Enemies/137/name
-> CONTEXT: Enemies/138/name
-> CONTEXT: Enemies/139/name
-> CONTEXT: Enemies/235/name
-> CONTEXT: Map024/events/13/pages/1/0/NamePop
-> CONTEXT: Map193/events/13/pages/1/0/NamePop
-> CONTEXT: Map194/events/13/pages/1/0/NamePop
-> CONTEXT: MapInfos/97/name
-> CONTEXT: MapInfos/120/name
-> CONTEXT: MapInfos/139/name
-> CONTEXT: MapInfos/180/name
-> CONTEXT: MapInfos/229/name
-> CONTEXT: MapInfos/230/name
-> CONTEXT: MapInfos/266/name
-Sphinx#afrg
 > END STRING
 
 > BEGIN STRING
@@ -459,6 +379,32 @@ Harpy Queen#Triketos
 > END STRING
 
 > BEGIN STRING
+モルモー
+> CONTEXT: Enemies/288/name
+> CONTEXT: Enemies/289/name
+> CONTEXT: Map193/events/23/pages/1/0/NamePop
+> CONTEXT: Map193/events/23/pages/2/0/NamePop
+> CONTEXT: MapInfos/369/name
+Mormo#Triketos
+> END STRING
+
+> BEGIN STRING
+闇囚夢魔
+> CONTEXT: Enemies/290/name
+> CONTEXT: Enemies/291/name
+
+> END STRING
+
+> BEGIN STRING
+バグベア
+> CONTEXT: Enemies/293/name
+> CONTEXT: Enemies/294/name
+> CONTEXT: Enemies/295/name
+> CONTEXT: Troops/313/name
+Bugbear#Triketos
+> END STRING
+
+> BEGIN STRING
 ■■■チャプター１
 > CONTEXT: Enemies/499/name
 ■■■Chapter 1#Dargoth
@@ -615,7 +561,7 @@ more than a "Girl Demon" who can't disobey her instincts.#Ron
 火に弱い
 > CONTEXT: Enemies/506/BookAttribute/2
 > CONTEXT: Enemies/600/BookAttribute/2
-Vulnerable to fire#MTLed
+Vulnerable to Fire#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -720,13 +666,12 @@ with the protagonist.#Ron
 > CONTEXT: Enemies/530/BookAttribute/2 
 > CONTEXT: Enemies/560/BookAttribute/2 
 > CONTEXT: Enemies/594/BookAttribute/2 
-> CONTEXT: Enemies/615/BookAttribute/0 
-> CONTEXT: Enemies/616/BookAttribute/2 
+> CONTEXT: Enemies/615/BookAttribute/0  
 > CONTEXT: Enemies/617/BookAttribute/2 
 > CONTEXT: Enemies/618/BookAttribute/2 
 > CONTEXT: Enemies/622/BookAttribute/2 
 > CONTEXT: Enemies/623/BookAttribute/2 
-Strong against magic#MTLed
+Strong against Magic#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -735,7 +680,6 @@ Strong against magic#MTLed
 自らすすんで改造に志願したと噂されているが、真偽は定かではない。
 彼女の物静かな容姿と口調は、相手を安心させ、油断させる。
 > CONTEXT: Enemies/512/BookDescription/4
-> CONTEXT: Enemies/616/BookDescription/4
 > CONTEXT: Enemies/617/BookDescription/4
 > CONTEXT: Enemies/618/BookDescription/4
 > CONTEXT: Enemies/622/BookDescription/4
@@ -1373,7 +1317,7 @@ Slightly strong in physics#MTLed
 > BEGIN STRING
 炎に強い
 > CONTEXT: Enemies/546/BookAttribute/3
-Resistant to flames#MTLed
+Resistant to Fire#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -1521,7 +1465,7 @@ This is also a kind of kind, is it one of the gentle "raw"?#MTLed
 > BEGIN STRING
 すべてに強い
 > CONTEXT: Enemies/553/BookAttribute/2
-Strong at all#MTLed
+Strong against All#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -1561,7 +1505,7 @@ I am invited to make a mistake in the dance.#MTLed
 > BEGIN STRING
 （レイジー：ダンス搾精）
 > CONTEXT: Enemies/555/name
-(Lazy: Dancing Milking)#afrg
+(Ivory: Dancing Milking)#afrg
 > END STRING
 
 > BEGIN STRING
@@ -2850,29 +2794,56 @@ It is probably a place like the demon race.#MTLed
 
 > BEGIN STRING
 【EX】ﾊｰﾋﾟｰﾓﾄﾞｷ・クイーン
-> CONTEXT: Enemies/615/name < UNTRANSLATED
-
+> CONTEXT: Enemies/615/name
+[EX]Harpy Spawn Queen#Triketos
 > END STRING
 
 > BEGIN STRING
 ハーピーモドキの繁殖期に現れる親玉。
 人間の精気や肉体を糧にし、一度に複数の産卵を行う
 回帰された魂は二度と開放されることは無い。
-> CONTEXT: Enemies/615/BookDescription/3 < UNTRANSLATED
+> CONTEXT: Enemies/615/BookDescription/3
 
 > END STRING
 
 > BEGIN STRING
 その風貌や、胎内回帰の特性から
 クイーンを崇める宗教団体もいるのだとか。
-> CONTEXT: Enemies/615/BookDescription/6 < UNTRANSLATED
+> CONTEXT: Enemies/615/BookDescription/6
+
+> END STRING
+
+> BEGIN STRING
+【EX】モルモー
+> CONTEXT: Enemies/616/name
+[EX] Mormo#Triketos
+> END STRING
+
+> BEGIN STRING
+力が弱い
+> CONTEXT: Enemies/616/BookAttribute/0
+
+> END STRING
+
+> BEGIN STRING
+ヘカーテ配下の吸血鬼
+夢の中に潜み、相手が眠りについた際、
+夢を見せながら生き血を啜る。
+> CONTEXT: Enemies/616/BookDescription/2
+
+> END STRING
+
+> BEGIN STRING
+物理的には非力だが、夢魔としては非常に危険で
+寝たままミイラにされてしまうほど搾られる事もあるとか
+> CONTEXT: Enemies/616/BookDescription/5
 
 > END STRING
 
 > BEGIN STRING
 ■双子
-> CONTEXT: Enemies/619/name < UNTRANSLATED
-
+> CONTEXT: Enemies/619/name
+■Twins#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -2892,7 +2863,7 @@ space-time.#MTLed
 > END STRING
 
 > BEGIN STRING
-ハーピーモドキ
+■ハーピーモドキ
 > CONTEXT: Enemies/620/name
 Harpy Spawn#Triketos
 > END STRING
@@ -2914,27 +2885,23 @@ brings it to hell.#MTLed
 > END STRING
 
 > BEGIN STRING
-レミエル
+■ヘカーテ
 > CONTEXT: Enemies/621/name
-> CONTEXT: MapInfos/218/name
-Remiel#MTLed
+■Hectate#MTLed
 > END STRING
 
 > BEGIN STRING
-『神の雷霆』と呼ばれる大天使。
-その役割は、人の弱い心につけこもうとする邪を払い
-神の威厳を下界に示し続けること。
+『死者の王女』の異名を持つ、自由奔放な女神
+魔力と女性に深く関わる女神として
 > CONTEXT: Enemies/621/BookDescription/2
-Archangel called "The Thunder of God".
-Its role is to pay the evil that tries to keep people weak
-To show the dignity of God to the lower world.#MTLed
+
 > END STRING
 
 > BEGIN STRING
-災厄や不幸な死を遂げた魂を更正させたり冥界に導く
-魂の管理者の側面も持つ。
-> CONTEXT: Enemies/621/BookDescription/5
-Lead the evil and unfortunate dead souls to correction and
-to the underworld
-It also has the aspect of managing the soul.#MTLed
+魔女たちの崇拝対象にもなっている。
+魔界のいざこざに嫌気がさし、子供の姿で
+魔界や人間界を散策する生活を送っていたが
+いつしか性格まで、我が儘な子供になってしまった
+> CONTEXT: Enemies/621/BookDescription/4
+
 > END STRING

@@ -271,7 +271,7 @@ Nice to meet you!#Ron
 あ、『アイドル』…？
 > CONTEXT: Map050/events/46/pages/0/164/Dialogue/kazuya
 > CONTEXT: Map188/events/46/pages/0/164/Dialogue/kazuya
-"I- Idol"...?#Ron
+"I-Idol"...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -847,7 +847,13 @@ something?#Ron
 > CONTEXT: Map286/events/4/pages/2/2/Dialogue
 > CONTEXT: Map286/events/6/pages/1/2/Dialogue
 > CONTEXT: Map286/events/6/pages/2/2/Dialogue
-Do you want to proceed? (You will go to the next chapter.)#MTLed
+> CONTEXT: Map334/events/10/pages/1/2/Dialogue
+> CONTEXT: Map334/events/10/pages/2/2/Dialogue
+> CONTEXT: Map334/events/7/pages/1/2/Dialogue
+> CONTEXT: Map334/events/7/pages/2/2/Dialogue
+> CONTEXT: Map334/events/9/pages/1/2/Dialogue
+> CONTEXT: Map334/events/9/pages/2/2/Dialogue
+Do you want to proceed? (You will go to the next chapter.)#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -1693,6 +1699,25 @@ Don't#Ron
 > CONTEXT: Troops/261/pages/2/22/Choice/1
 > CONTEXT: Troops/262/pages/2/27/Choice/1
 > CONTEXT: Troops/271/pages/2/22/Choice/1
+> CONTEXT: Troops/291/pages/3/45/Choice/1
+> CONTEXT: Troops/292/pages/2/8/Choice/1
+> CONTEXT: Troops/293/pages/2/11/Choice/1
+> CONTEXT: Troops/294/pages/2/8/Choice/1
+> CONTEXT: Troops/295/pages/3/45/Choice/1
+> CONTEXT: Troops/297/pages/2/23/Choice/1
+> CONTEXT: Troops/301/pages/2/26/Choice/1
+> CONTEXT: Troops/302/pages/2/26/Choice/1
+> CONTEXT: Troops/305/pages/2/23/Choice/1
+> CONTEXT: Troops/306/pages/2/24/Choice/1
+> CONTEXT: Troops/307/pages/2/24/Choice/1
+> CONTEXT: Troops/309/pages/2/23/Choice/1
+> CONTEXT: Troops/311/pages/2/45/Choice/1
+> CONTEXT: Troops/312/pages/2/45/Choice/1
+> CONTEXT: Troops/313/pages/2/45/Choice/1
+> CONTEXT: Troops/314/pages/2/45/Choice/1
+> CONTEXT: Troops/320/pages/2/45/Choice/1
+> CONTEXT: Troops/321/pages/2/45/Choice/1
+> CONTEXT: Troops/322/pages/2/45/Choice/1
 Finish her off#Dargoth
 > END STRING
 
