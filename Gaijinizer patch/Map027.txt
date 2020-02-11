@@ -55,6 +55,7 @@ As nutrients, of course♡#Triketos
 雑談する
 > CONTEXT: Map027/events/5/pages/0/55/Choice/0
 > CONTEXT: Map042/events/5/pages/0/48/Choice/0
+> CONTEXT: Map369/events/5/pages/0/6/Choice/0
 Chat#Dargoth
 > END STRING
 
@@ -101,7 +102,7 @@ Give a present#Dargoth
 あー…悪いんだけどさ。
 
 そういうの、私あんまり欲しくないんだわ。
-> CONTEXT: Map027/events/5/pages/0/252/Dialogue/enemy
+> CONTEXT: Map027/events/5/pages/0/259/Dialogue/enemy
 Haah, sorry but...
 
 I don't really want something like that.#Ron
@@ -111,20 +112,20 @@ I don't really want something like that.#Ron
 私に尽くしたいってのは分かるけどさ
 
 もうちょっと気の利くモノでお願いね。
-> CONTEXT: Map027/events/5/pages/0/256/Dialogue/enemy
+> CONTEXT: Map027/events/5/pages/0/263/Dialogue/enemy
 I get that you're devoted to me, but please give
 me something a little more tasteful.#Ron
 > END STRING
 
 > BEGIN STRING
 ランパスは\\C[2]プレゼントを受け取らなかった…
-> CONTEXT: Map027/events/5/pages/0/260/Dialogue
+> CONTEXT: Map027/events/5/pages/0/267/Dialogue
 Lampas \\C[2]did not accept the gift...#Ron
 > END STRING
 
 > BEGIN STRING
 心蝕を消すif(v[43] \>= 100) 
-> CONTEXT: Map027/events/5/pages/0/268/Choice/0
+> CONTEXT: Map027/events/5/pages/0/275/Choice/0
 Remove mind corruption if(v[43] \>= 100) #Dargoth
 > END STRING
 
@@ -132,7 +133,7 @@ Remove mind corruption if(v[43] \>= 100) #Dargoth
 ふふ…♡
 
 他のランパスに浮気なんかしたら許さないんだから♪
-> CONTEXT: Map027/events/5/pages/0/279/Dialogue/enemy
+> CONTEXT: Map027/events/5/pages/0/286/Dialogue/enemy
 Fufu...♡ 
 I won't forgive you if you cheat on
 me with other Lampas♪#Triketos
@@ -140,7 +141,7 @@ me with other Lampas♪#Triketos
 
 > BEGIN STRING
 "ランパスの心蝕が治った！！"
-> CONTEXT: Map027/events/5/pages/0/290/InlineScript/1:12
+> CONTEXT: Map027/events/5/pages/0/297/InlineScript/1:12
 "Lampas's mind corruption cured!!"#Triketos
 > END STRING
 
