@@ -110,7 +110,7 @@ Do you want to start the story
 > BEGIN STRING
 3-1　『抱擁』 en(s[227])
 > CONTEXT: Map030/events/1/pages/0/160/Choice/1
-3-1 "Hug"en(s[227])#MTLed
+3-1 『Embrace』en(s[227])#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -128,7 +128,8 @@ Do you want to start the story
 > BEGIN STRING
 『チャプター３－１　『抱擁』』から物語を開始しますか？
 > CONTEXT: Map030/events/1/pages/0/167/Dialogue
-Do you want to start the story from "Chapter 3-1" Hug "?#MTLed
+Do you want to start the story from
+『Chapter 3-1: Embrace』?#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -188,5 +189,5 @@ Return to title#Dargoth
 
 タイトルに戻りますか？
 > CONTEXT: Map030/events/1/pages/0/310/Dialogue
-Do you want to return to the title?#MTLed
+Do you want to return to the title screen?#Triketos
 > END STRING
