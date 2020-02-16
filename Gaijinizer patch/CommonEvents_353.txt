@@ -74,13 +74,13 @@ TheN I migHt just haVe to anYwAy...!#Ron
 エコーは戦闘態勢に入った…！
 > CONTEXT: CommonEvents_353/72/Dialogue
 > CONTEXT: CommonEvents_353/133/Dialogue
-Echo has entered Combat Stance ...!#MTLed
+Echo has entered a combat stance...!#Ron
 > END STRING
 
 > BEGIN STRING
 エコーは、\\N[1]にしがみついて離れない…！！
 > CONTEXT: CommonEvents_353/86/Dialogue
-Echo keeps clinging to \\N[1] ...!!#MTLed
+Echo doesn't let go of \\N[1]...!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -88,7 +88,9 @@ Echo keeps clinging to \\N[1] ...!!#MTLed
 
 絶対離さない…！
 > CONTEXT: CommonEvents_353/90/Dialogue/enemy12
-Disagreeable…!! I will never let go ...!#MTLed
+No...!!
+
+I'll never let you go...!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -96,7 +98,9 @@ Disagreeable…!! I will never let go ...!#MTLed
 
 また独りになる…！
 > CONTEXT: CommonEvents_353/94/Dialogue/enemy12
-If you let go of...I. Become alone again ...!#MTLed
+If I let you go I'll...
+
+I'll be all alone again...!#Ron
 > END STRING
 
 > BEGIN STRING
