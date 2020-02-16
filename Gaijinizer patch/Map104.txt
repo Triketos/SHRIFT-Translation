@@ -12,14 +12,14 @@ It might be a good idea not to step in it...#Ron
 > BEGIN STRING
 ポンプＡのステータス：\\C[3]正常に作動中
 > CONTEXT: Map104/events/4/pages/1/0/Dialogue
-Pump A Status:\\C[3] Normal operation#MTLed
+Pump A Status:\\C[3] Normal#Triketos
 > END STRING
 
 > BEGIN STRING
 ポンプＡのステータス：\\C[2]稼働停止中
 > CONTEXT: Map104/events/4/pages/2/0/Dialogue
 > CONTEXT: Map116/events/4/pages/2/0/Dialogue
-Pump A Status:\\C[2] Out of service#MTLed
+Pump A Status:\\C[2] Shut Down#Triketos
 > END STRING
 
 > BEGIN STRING

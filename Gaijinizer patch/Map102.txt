@@ -8,9 +8,9 @@
 > CONTEXT: Map104/events/1/pages/0/1/Dialogue
 > CONTEXT: Map116/events/1/pages/0/1/Dialogue
 > CONTEXT: Map118/events/1/pages/0/1/Dialogue
-Waterway water circulation function:\\C[3] Normal operation
-\\C[0]A pump:\\C[3] \\V[151]\\C[2] \\V[152] \\C[0] B pump:\\C[3] \\V[153]\\C[2] \\V[154]
-\\C[0]C pump:\\C[3] \\V[155]\\C[2] \\V[156] \\C[0] D pump:\\C[3] \\V[157]\\C[2] \\V[158]#MTLed
+Waterway water Circulation Status:\\C[3] Normal
+\\C[0]Pump A:\\C[3] \\V[151]\\C[2] \\V[152] \\C[0] Pump B:\\C[3] \\V[153]\\C[2] \\V[154]
+\\C[0]Pump C:\\C[3] \\V[155]\\C[2] \\V[156] \\C[0] Pump D:\\C[3] \\V[157]\\C[2] \\V[158]#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -23,8 +23,8 @@ Waterway water circulation function:\\C[3] Normal operation
 > CONTEXT: Map116/events/1/pages/0/10/Dialogue
 > CONTEXT: Map118/events/1/pages/0/10/Dialogue
 Waterway water circulation function:\\C[2] Ground water level is
-being lowered. \\C[0]A pump:\\C[3] \\V[151]\\C[2] \\V[152] \\C[0] B pump:\\C[3] \\V[153]\\C[2] \\V[154]
-\\C[0]C pump:\\C[3] \\V[155]\\C[2] \\V[156] \\C[0] D pump:\\C[3] \\V[157]\\C[2] \\V[158]#MTLed
+being lowered. \\C[0]Pump A:\\C[3] \\V[151]\\C[2] \\V[152] \\C[0] Pump B:\\C[3] \\V[153]\\C[2] \\V[154]
+\\C[0]Pump C:\\C[3] \\V[155]\\C[2] \\V[156] \\C[0] Pump D:\\C[3] \\V[157]\\C[2] \\V[158]#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -36,15 +36,15 @@ being lowered. \\C[0]A pump:\\C[3] \\V[151]\\C[2] \\V[152] \\C[0] B pump:\\C[3] 
 > CONTEXT: Map104/events/1/pages/0/19/Dialogue
 > CONTEXT: Map116/events/1/pages/0/19/Dialogue
 > CONTEXT: Map118/events/1/pages/0/19/Dialogue
-Waterway water circulation function:\\C[18] In complete stop
-\\C[0]A pump:\\C[3] \\V[151]\\C[2] \\V[152] \\C[0] B pump:\\C[3] \\V[153]\\C[2] \\V[154]
-\\C[0]C pump:\\C[3] \\V[155]\\C[2] \\V[156] \\C[0] D pump:\\C[3] \\V[157]\\C[2] \\V[158]#MTLed
+Waterway water circulation function:\\C[18] Non-Functional
+\\C[0]Pump A:\\C[3] \\V[151]\\C[2] \\V[152] \\C[0] Pump B:\\C[3] \\V[153]\\C[2] \\V[154]
+\\C[0]Pump C:\\C[3] \\V[155]\\C[2] \\V[156] \\C[0] Pump D:\\C[3] \\V[157]\\C[2] \\V[158]#Triketos
 > END STRING
 
 > BEGIN STRING
 ポンプＣのステータス：\\C[3]正常に作動中
 > CONTEXT: Map102/events/4/pages/1/0/Dialogue
-Status of pump C:\\C[3] Normal operation#MTLed
+Status of Pump C:\\C[3] Normal#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -57,7 +57,7 @@ Status of pump C:\\C[3] Normal operation#MTLed
 > CONTEXT: Map116/events/4/pages/2/2/Choice/0
 > CONTEXT: Map118/events/4/pages/1/2/Choice/0
 > CONTEXT: Map118/events/4/pages/2/2/Choice/0
-Leave as it is#MTLed
+Leave as it is#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -66,7 +66,7 @@ Leave as it is#MTLed
 > CONTEXT: Map104/events/4/pages/1/2/Choice/1
 > CONTEXT: Map116/events/4/pages/1/2/Choice/1
 > CONTEXT: Map118/events/4/pages/1/2/Choice/1
-Turn off#MTLed
+Turn off#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -88,13 +88,13 @@ The pump seems to have stopped.#Ron
 > CONTEXT: Map105/events/10/pages/6/8/InlineScript/1:24
 > CONTEXT: Map116/events/4/pages/1/15/InlineScript/1:24
 > CONTEXT: Map118/events/4/pages/1/15/InlineScript/1:24
-"Stopped"#MTLed
+"Stopped"#Triketos
 > END STRING
 
 > BEGIN STRING
 ポンプＣのステータス：\\C[2]稼働停止中
 > CONTEXT: Map102/events/4/pages/2/0/Dialogue
-Status of pump C:\\C[2] Out of service#MTLed
+Status of Pump C:\\C[2] Shut Down#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -103,7 +103,7 @@ Status of pump C:\\C[2] Out of service#MTLed
 > CONTEXT: Map104/events/4/pages/2/2/Choice/1
 > CONTEXT: Map116/events/4/pages/2/2/Choice/1
 > CONTEXT: Map118/events/4/pages/2/2/Choice/1
-turn on#MTLed
+Turn on#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -126,7 +126,7 @@ resumed.#MTLed
 > CONTEXT: Map104/events/4/pages/2/14/InlineScript/1:24
 > CONTEXT: Map116/events/4/pages/2/14/InlineScript/1:24
 > CONTEXT: Map118/events/4/pages/2/14/InlineScript/1:24
-"In operation"#MTLed
+"Normal"#Triketos
 > END STRING
 
 > BEGIN STRING
