@@ -2372,7 +2372,7 @@
 > BEGIN STRING
 "所持制限"
 > CONTEXT: Scripts/アイテム個数制限/38:12
-"Carry Limit"#Dargoth
+"所持制限"#NoTL
 > END STRING
 
 > BEGIN STRING
@@ -2420,73 +2420,73 @@
 > BEGIN STRING
 "下キー"
 > CONTEXT: Scripts/アイテム預かり所/182:4
-"Down key"#MTLed
+"Down Key"#Triketos
 > END STRING
 
 > BEGIN STRING
 ":1個引き出す"
 > CONTEXT: Scripts/アイテム預かり所/182:10
-":1Pull out pieces"#MTLed
+":Take 1"#Triketos
 > END STRING
 
 > BEGIN STRING
 "上キー"
 > CONTEXT: Scripts/アイテム預かり所/183:4
-"Up key"#MTLed
+"Up Key"#Triketos
 > END STRING
 
 > BEGIN STRING
 ":1個預ける"
 > CONTEXT: Scripts/アイテム預かり所/183:10
-":1Deposit individual"#MTLed
+":Deposit 1"#Triketos
 > END STRING
 
 > BEGIN STRING
 "左キー"
 > CONTEXT: Scripts/アイテム預かり所/184:4
-"Left key"#MTLed
+"Left Key"#Triketos
 > END STRING
 
 > BEGIN STRING
 ":10個引き出す"
 > CONTEXT: Scripts/アイテム預かり所/184:10
-":10Pull out pieces"#MTLed
+":Take 10"#Triketos
 > END STRING
 
 > BEGIN STRING
 "右キー"
 > CONTEXT: Scripts/アイテム預かり所/185:4
-"Right key"#MTLed
+"Right Key"#Triketos
 > END STRING
 
 > BEGIN STRING
 ":10個預ける"
 > CONTEXT: Scripts/アイテム預かり所/185:10
-":10Deposit individual"#MTLed
+":Deposit 10"#Triketos
 > END STRING
 
 > BEGIN STRING
 "CTRLキー"
 > CONTEXT: Scripts/アイテム預かり所/186:4
-"CTRLKey"#MTLed
+"CTRL Key"#Triketos
 > END STRING
 
 > BEGIN STRING
 ":100個引き出す"
 > CONTEXT: Scripts/アイテム預かり所/186:13
-":100Pull out pieces"#MTLed
+":Take 100"#Triketos
 > END STRING
 
 > BEGIN STRING
 "SHIFTキー"
 > CONTEXT: Scripts/アイテム預かり所/187:4
-"SHIFTKey"#MTLed
+"SHIFT Key"#Triketos
 > END STRING
 
 > BEGIN STRING
 ":100個預ける"
 > CONTEXT: Scripts/アイテム預かり所/187:14
-":100Deposit individual"#MTLed
+":Deposit 100"#Triketos
 > END STRING
 
 > BEGIN STRING
