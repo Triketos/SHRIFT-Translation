@@ -187,7 +187,7 @@ def self.update_note(note, index_array, to_hash, var, regex = @note_regex)
 			if a[-2] == "BookAttribute"
 			  tled_text = "#{@book_attribute_start}#{tled_text}>"
 			else#if a[-1] == "BookDescription"
-			  tled_text = "#{@book_description_start}#{tled_text.gsub(/\n/, ">\r\n#{@book_description_start}")}"
+			  tled_text = "#{@book_description_start}#{tled_text.gsub(/\n/, ">\r\n#{@book_description_start}")}>"
 			end
 		  end
 		  note[raw_data[i][1][0]..(raw_data[i][1][1] - 1)] = tled_text if tled_text #mutating
