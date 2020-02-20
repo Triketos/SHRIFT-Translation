@@ -1,0 +1,142 @@
+################## HOW TO APPLY THE PATCH #######################
+To apply this patch you need:
+
+> RPG Maker XP / VX / VX Ace Decrypter by Falo (or any other RPG Maker unpacker)
+> Gaijinizer Patch translation files
+> an untranslated version of the game (SHRIFT)
+
+How to apply this patch:
+
+Decrypt RPG Maker data and delete the Game RGSS Encrypted Archive (*)
+>Skip to 'Put the Patch files into the Game files' if you've already deleted the Game RGSS Encrypted Archive and want to apply a new patch
+>Run RPG Maker XP / VX / VX Ace Decrypter by Falo
+>Go to File/Open File
+>Select the Game RGSS Encrypted Archive (Game.rgss3a) that is in the same folder as game.exe (don't mistake it for System\RGSS301.dll).
+>Go to Tools/Extract Selected
+This will create an 'Extract' folder with all the decrypted files in your game folder
+>Merge the contents of the Extract folder with your Game Folder (you don't need to overwrite them)
+>Delete or Rename (ex:Game_.rgss3a) the Game RGSS Encrypted Archive you selected previously
+The game plays the same, its data is just no longer encrypted. These steps delete any duplicate in the RGSS Encrypted Archive and the non encrypted files which may cause RPG Trans to never finish
+
+>Put the Patch files into the Game files
+If this is the first patch you apply, you will be asked to overwrite Game.ini (accept)
+Else, you will be asked to also overwrite some of the previous patch files (accept)
+
+>Run Game.exe, a window called Gaijinizer will appear.
+>Select Patch Game in the menu. The patching will take a few seconds (about 20) during which the screen will freeze.
+>Click Ok to the message box telling you the Game was patched successfully, the game will quit automatically
+>Run Game.exe and play the game (the title screen should mention you are playing a translated version)
+
+################## HOW TO REMOVE THE PATCH #######################
+Edit Game.ini with any text editor and change back:
+Scripts=Gaijinizer\Scripts\Scripts.rvdata2
+to:
+Scripts=Data\Scripts.rvdata2
+
+###################### COMPATIBILITY ###########################
+All vesions of the game are compatible.
+Added content will be left untranslated.
+
+################## MAKING YOUR OWN PATCH ########################
+Generate a new patch in "Gaijinizer\New_patch" with "Create Untranslated Files" to start fresh
+Generate an updated patch in "Gaijinizer\Patch_en_updated" with "Patch Game" if the game updates. Check Log.txt for more information about the changes.
+Edit the current patch in "Gaijinizer\Patch"
+
+The patch uses a syntax very similar to RPGMT4.5.
+The main differences are:
+Dialogues:
+ Dialogue use the default syntax */Dialogue
+ Ex: CommonEvents_1/163/Dialogue
+ Except when a face appears next to the dialogue box
+ Ex: Troops/40/pages/1/94/Dialogue/kazuya-0
+Additional translation:
+ */ScrollText : translates scrolling text command (105/405)
+ */Rename/* : translates rename character command (320)
+ */NamePop : translates Name Pop command in comments (108/408)
+ */BookDescription/* : translates ennemy book description command in Ennemy note (.note)
+ */BookAttribute/* : translates ennemy book attribute command in comments (.note)
+
+If you want to make your translation compatible with the machine translation, replace #MTLed by #Yourname.
+Ex:
+> BEGIN STRING
+\\N[1]‚Í‚±‚Ý‚ ‚°‚é«—~‚ÉR‚¦‚¸AŽË¸‚µ‚Ä‚µ‚Ü‚Á‚½II
+> CONTEXT: CommonEvents_1/216/Dialogue
+> CONTEXT: CommonEvents_122/88/Dialogue
+> CONTEXT: Troops/40/pages/1/90/Dialogue
+\\N[1] couldn't resist the building lust and has
+ejaculated!!#Ron
+> END STRING
+
+Translated pictures are stored in "Gaijinizer\Pictures_en"
+
+Gaijinizer is highly customizable so try to edit "Gaijinizer\Scripts\Scripts.rvdata" or make suggestions in its thread if you think something could be improved.
+Try to understand how it works, there are multiple ways to do exactly the same thing.
+The patch can be made to be compatible with RPGMT4.5 (with the loss of the additional translation).
+
+####################### REPORT AN ASSUE ########################
+If the game crashes:
+ -Send a screen with the error message
+ -Tell what version of the patch you are using
+ (-)If possible add the text / key words of the last displayed text (so I can look into the patch file to find the bad machine translation)
+ -Be courteous and check if there's already a solution (you can even report a fix)
+
+Be aware that most missing files issues are due to pirated versions of the games (missing sound file, missing save folder, etc).
+Most issues that are not due to missing files are due to Script translation.
+If they just block your progress, you can unpatch the game to avoid the issue.
+If unavoidable, they can be resolved by deleting the patch Scripts.txt before applying the patch.
+
+######################### KNOWN ISSUES #########################
+
+system language not set in Japanese:
+manipulating files named in Japanese with a non Japanese system language comes with the risk of messing up encodings and accidentally renaming files
+pirated versions:
+Some may include incorrectly named files, thus crashing when trying to access it.
+
+####################### ADDITIONAL SCRIPTS #####################
+The following scripts were added to the game.
+
+-Simple Variable Updater:
+The Lvl1VillagerA's Simple variable updater is used to update game variables stored in save files for translation purpose.
+If needed, it can execute ruby code stored in a text file (You can find next to the game exe, you'll need to enter a password).
+Change the script parameters by adding the following in the Game .ini file:
+[lvl1_script]
+svu_disable=X
+svu_password=X
+>Use the Password option to select how you want the script to work
+ X=0, don't use script, not even the default method;
+ X=1,[default, recommended] only use the script's default method;
+ X=????, use a custom script stored in txt file if you know what you are doing, ???? is a password you'll find on the forum
+>Use the Disable option to prevent ruby code execution from txt file
+ X=0,[default, recommended] not disabled
+ X=1, permanently disabled, if you don't want to be tempted to cheat or really don't like the idea of executing a script from a txt file
+
+-Faster Skip:
+Skips messages, shortens waits, speeds up routes,...
+Skip with Ctrl
+Enables in-game with Ctrl+Shift
+[lvl1_script]
+fs_enable=X (X=1 enabled)
+fs_speed=X (X=1..8, recommended:4)
+
+-Fullscreen++ by Zeus81:
+Press F6 to switch window size
+Press F5 to switch to full screen
+A nice addition for those, like me, who complain about RPGMVXAce small window.
+
+###################### TO DO (NEXT PATCH) ######################
+Check credits translation (ScrollText).
+Edit manual translations (lost translations and bad translations).
+Find and remove bugs due to the new patcher.
+
+#################### ADDITIONAL CREDITS #########################
+Manual translations:
+-Dargoth (ver1.0 partial) 		https://dargoth.com/
+-afrg (ver3.0 partial) 			https://ulmf.org/members/afrg.359415/
+-Ron
+-Aesthetic
+-Triketos
+
+Machine translation: Google Translation
+OCR: Capture2Text/Tesseract 		http://capture2text.sourceforge.net/
+
+Note: RPGMT4.5 dev did not participate in the developement of the patcher and none of his code appears in Gaijjinizer source code.
