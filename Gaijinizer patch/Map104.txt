@@ -4,34 +4,35 @@
 
 あまり踏まない方がいいかもしれない……
 > CONTEXT: Map104/events/3/pages/0/0/Dialogue
-A slimy mucus is dumped on the ground ...
-It may be better not to step too much ...#MTLed
+Slimy mucus is pooled on the ground...
+
+It might be a good idea not to step in it...#Ron
 > END STRING
 
 > BEGIN STRING
 ポンプＡのステータス：\\C[3]正常に作動中
 > CONTEXT: Map104/events/4/pages/1/0/Dialogue
-Pump A Status:\\C[3] Normal operation#MTLed
+Pump A Status:\\C[3] Normal#Triketos
 > END STRING
 
 > BEGIN STRING
 ポンプＡのステータス：\\C[2]稼働停止中
 > CONTEXT: Map104/events/4/pages/2/0/Dialogue
 > CONTEXT: Map116/events/4/pages/2/0/Dialogue
-Pump A Status:\\C[2] Out of service#MTLed
+Pump A Status:\\C[2] Shut Down#Triketos
 > END STRING
 
 > BEGIN STRING
 今上へ上がるのは危険だ………
 > CONTEXT: Map104/events/5/pages/0/0/Dialogue
-It's dangerous to go up now .........#MTLed
+It's dangerous to go up now...#Ron
 > END STRING
 
 > BEGIN STRING
 
 　　　　　　水路管理者のメモ１
 > CONTEXT: Map104/events/7/pages/0/2/Dialogue
-Waterway manager's note 1#MTLed
+Waterway Manager's Note 1#Ron
 > END STRING
 
 > BEGIN STRING
@@ -40,8 +41,8 @@ Waterway manager's note 1#MTLed
 このメモを発見したということは、
 君はこの公園の水路の責任者になった人だろう。
 > CONTEXT: Map104/events/7/pages/0/6/Dialogue
-Hi! Lucky person! The fact that I found this memo is
-You will be the head of the waterways in this park.#MTLed
+Hi, lucky person! If you're reading this, you're probably
+the person in charge of this park's waterways.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -49,8 +50,9 @@ You will be the head of the waterways in this park.#MTLed
 
 この水路には……人魚が住んでいる！！
 > CONTEXT: Map104/events/7/pages/0/12/Dialogue
-Please listen not to be surprised ... There are mermaids
-living in this water channel! !#MTLed
+Don't be surprised when you read this...
+
+But living in these waterways... are mermaids!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -58,8 +60,9 @@ living in this water channel! !#MTLed
 
 水槽の中から突然彼女が現れ、話しかけてきた。
 > CONTEXT: Map104/events/7/pages/0/17/Dialogue
-One day, if I was working in the underground water tank
-Suddenly she appeared from the tank and talked.#MTLed
+One day, I was working in the underground water tanks when
+suddenly she appeared from inside the cistern and started
+talking to me.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -68,9 +71,9 @@ Suddenly she appeared from the tank and talked.#MTLed
 
  （ひどい人間もいるもんだ）
 > CONTEXT: Map104/events/7/pages/0/22/Dialogue
-If you ask, you will be chased by the demon punifier of the
-prize purpose. It seems that he has fled here.
-(There are awful people.)#MTLed
+She said she'd been chased into here by demon hunters
+who were after some reward money.
+(There are some truly awful people.)#Ron
 > END STRING
 
 > BEGIN STRING
@@ -79,9 +82,9 @@ prize purpose. It seems that he has fled here.
 水の中で優しく抱擁してくれた。
 これまでに感じた事のない安心感と、快感だった。
 > CONTEXT: Map104/events/7/pages/0/28/Dialogue
-She promised to keep quiet what is hidden here
-I gently embraced in the water. It was a sense of security
-and pleasure that I had never felt before.#MTLed
+I promised to keep her presence here a secret, and she
+gently held me in her arms in the water. I felt a sense of
+security and pleasure I'd never felt before.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -90,9 +93,10 @@ and pleasure that I had never felt before.#MTLed
 あれから数週間経って、その間にも数回繰り返しているが
 身体に異常はない、むしろ元気なくらいだ。
 > CONTEXT: Map104/events/7/pages/0/34/Dialogue
-...... Oh, okay! It has been several weeks since then, and
-has been repeated several times in the meantime
-There is no abnormality in the body, but rather it is fine.#MTLed
+Oh... but it's okay! It's been several weeks since then,
+and I've done it several more times in that period, but
+there's no abnormalities in my body.
+If anything I feel even better.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -101,9 +105,9 @@ There is no abnormality in the body, but rather it is fine.#MTLed
 
 彼女に会ったら、優しく接してあげてくれ。
 > CONTEXT: Map104/events/7/pages/0/40/Dialogue
-Until I see her, what is demon? I thought it was more
-horrible, but it was misunderstood. If you see her, treat
-me gently.#MTLed
+Until I met her, I thought demons were terrifying things,
+but it looks like I misunderstood. Treat her nicely if you
+run into her.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -111,7 +115,7 @@ me gently.#MTLed
 
 彼女の身体の表面は鱗だから、保護膜みたいなもんか？
 > CONTEXT: Map104/events/7/pages/0/46/Dialogue
-...... Just touch her and your body won't stick a little.
-The surface of her body is wrinkled, so is it like a
-protective film?#MTLed
+...But if you touch her, your body will get a little
+sticky. The surface of her body's covered in scales, so
+it's kind of like a protective coating I guess.#RonIffy
 > END STRING
