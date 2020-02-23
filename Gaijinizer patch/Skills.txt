@@ -1049,15 +1049,15 @@ Gives a 30% chance to nullify magical attacks.#afrg
 > BEGIN STRING
 魔法回避上昇
 > CONTEXT: Skills/65/name
-Magic Evation Boost#afrg
+Magic Evasion Boost#afrg
 > END STRING
 
 > BEGIN STRING
 戦闘中に１回だけ、朦朧状態を即回復し、抵抗・気力を５０％回復する。
 搾精体勢中の射精では効果を発揮しない。
 > CONTEXT: Skills/66/description
-Once per battle, recover from Faint. Recovers 50% Willpower and Vitality.
-Does not work while fucking.#afrg
+\\}Once per battle, recover from Faint. Recovers 50% Willpower and Vitality.
+Does not work while fucking.#afrg/
 > END STRING
 
 > BEGIN STRING
@@ -3267,7 +3267,7 @@ Stun Impact#Dargoth
 > BEGIN STRING
 エンプーサの必殺技。
 ５回連続の大ダメージ、高確率で出血付与。
-> CONTEXT: Skills/254/description < UNTRANSLATED
+> CONTEXT: Skills/254/description
 Empuse's killer technique. Deals heavy damage five times
 in a row, has a high chance of inflicting "Bleeding".#Ron
 > END STRING
@@ -5186,7 +5186,7 @@ Submissive Masturbation#afrgPR
 １０ターンの間、疲労・衰弱・スタン・脱力・出血無効。
 更に毎ターン抵抗と気力が５０％回復する。
 > CONTEXT: Skills/425/description
-Prevents Exhaustion, Weakness, Stun, Debilitated and Bleeding
+\\}Prevents Exhaustion, Weakness, Stun, Debilitated and Bleeding
 for 10 turns, and grants 50% Willpower and Vitality recovery per turn.#afrg
 > END STRING
 
@@ -6286,7 +6286,7 @@ Blood Suck#Ron
 
 > BEGIN STRING
 は\\n[1]の首筋に牙を立て、血を吸い始めた…！
-> CONTEXT: Skills/526/message1 < UNTRANSLATED
+> CONTEXT: Skills/526/message1
  buries her fangs in \\N[1]'s neck, sucking his blood!#Ron
 > END STRING
 
@@ -6574,7 +6574,7 @@ Fake Love Play#afrg
 は\\N[1]に優しく身体を擦りつけてきた…
 > CONTEXT: Skills/555/message1
 > CONTEXT: Skills/639/message1
- tenderly rubs her body against \\N[1]'s#afrg
+ tenderly rubs her body against \\N[1]'s...#afrg
 > END STRING
 
 > BEGIN STRING
@@ -6766,7 +6766,7 @@ Increases damage taken from this monster by 20%.#afrg -- quite a liberal transla
 > BEGIN STRING
 【エコーの眷属】Lv1
 > CONTEXT: Skills/595/name
-[Echo's Relative]Lvl1#afrgPR
+[Echo's Follower]Lvl1#Ron
 > END STRING
 
 > BEGIN STRING
@@ -6780,7 +6780,7 @@ Increases lust 5% every turn when fighting this monster.#afrg
 > BEGIN STRING
 【エコーの眷属】Lv2
 > CONTEXT: Skills/596/name
-[Echo's Relative]Lvl2#afrgPR
+[Echo's Follower]Lvl2#Ron
 > END STRING
 
 > BEGIN STRING
@@ -6794,7 +6794,7 @@ Maximum willpower reduced to 80% when fighting this monster.#afrg
 > BEGIN STRING
 【エコーの眷属】Lv3
 > CONTEXT: Skills/597/name
-[Echo's Relative]Lvl3#afrgPR
+[Echo's Follower]Lvl3#Ron
 > END STRING
 
 > BEGIN STRING
@@ -6808,7 +6808,7 @@ Maximum vitality reduced to 80% when fighting this monster.#afrg
 > BEGIN STRING
 【エコーの眷属】Lv4
 > CONTEXT: Skills/598/name
-[Echo's Relative]Lvl4#afrgPR
+[Echo's Follower]Lvl4#Ron
 > END STRING
 
 > BEGIN STRING
@@ -6822,7 +6822,7 @@ Special accident battles can occur against this monster.#afrg
 > BEGIN STRING
 【エコーの眷属】LvMAX
 > CONTEXT: Skills/599/name
-[Echo's Relative]LvlMAX#afrgPR
+[Echo's Follower]LvlMAX#Ron
 > END STRING
 
 > BEGIN STRING
@@ -8608,9 +8608,9 @@ Mermaid's Quartet#Triketos
 
 > BEGIN STRING
 は 、左右お互いに絶妙な強弱をつけて耳を舐め回してきた！
-> CONTEXT: Skills/829/message1 < UNTRANSLATED
-> CONTEXT: Skills/830/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/829/message1
+> CONTEXT: Skills/830/message1
+s are licking his ears all over from both sides!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -8621,20 +8621,20 @@ Mermaid's Nursing#Triketos
 
 > BEGIN STRING
 エコーは、ゆっくり頭をなでて、愛しそうに抱きしめる……
-> CONTEXT: Skills/832/message2 < UNTRANSLATED
-
+> CONTEXT: Skills/832/message2
+Echo gently holds him while stroking his head.#Ron
 > END STRING
 
 > BEGIN STRING
 母なる海の葬送曲
-> CONTEXT: Skills/832/name < UNTRANSLATED
-Sea Mother's Funeral March
+> CONTEXT: Skills/832/name
+Sea Mother's Funeral March#Ron
 > END STRING
 
 > BEGIN STRING
 は、エコーにしがみついて、必死に乳を吸っている…
-> CONTEXT: Skills/832/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/832/message1
+ clings to Echo while desperately sucking up her milk.#Ron
 > END STRING
 
 > BEGIN STRING

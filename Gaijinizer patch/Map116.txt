@@ -2,14 +2,14 @@
 > BEGIN STRING
 ポンプＢのステータス：\\C[3]正常に作動中
 > CONTEXT: Map116/events/4/pages/1/0/Dialogue
-Pump B Status:\\C[3] Normal operation#MTLed
+Pump B Status:\\C[3] Normal#Triketos
 > END STRING
 
 > BEGIN STRING
 
 　　　　　　水路管理者のメモ２
 > CONTEXT: Map116/events/3/pages/1/2/Dialogue
-Waterway manager's note 2#MTLed
+Waterway Manager's Note 2#Ron
 > END STRING
 
 > BEGIN STRING
@@ -18,7 +18,7 @@ Waterway manager's note 2#MTLed
  俺はどうすればいいのか分からない……
 > CONTEXT: Map116/events/3/pages/1/6/Dialogue
 A lot of unexpected things are happening.
-I do not know what to do ......#MTLed
+I don't know what to do...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -26,8 +26,10 @@ I do not know what to do ......#MTLed
 
 この原因は分かっている。『彼女』だ。
 > CONTEXT: Map116/events/3/pages/1/11/Dialogue
-One was that all the fish that had been released to the
-waterways were gone. The cause is known. 'She'.#MTLed
+One thing is that all the fish we released into
+the waterways are now gone.
+
+I know why, it's her.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -36,10 +38,10 @@ waterways were gone. The cause is known. 'She'.#MTLed
 
  どうも変換効率が悪いらしく、少し大食いだ。
 > CONTEXT: Map116/events/3/pages/1/16/Dialogue
-She eats fish instead of not requiring human spirit.
-It seems that there is no leftover or excrement because it
-converts to all magic power ... It seems that conversion
-efficiency is bad, so I eat a little bit.#MTLed
+Instead of needing human essence, she can eat fish.
+Everything she eats gets converted to magic energy so
+there's no excrement or leftovers. It seems this method
+of getting energy is inefficient so she has to eat a lot.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -48,9 +50,9 @@ efficiency is bad, so I eat a little bit.#MTLed
  俺がスーパーで買う魚の数パックで
 彼女は満足してくれていたんだ……。
 > CONTEXT: Map116/events/3/pages/1/22/Dialogue
-However, if I give her her own energy, she doesn't need
-fish, A few packs of fish I buy at the supermarket
-She was happy ....#MTLed
+Apparently she doesn't need to eat fish if I offer up
+my essence to her. I bought her a few packs of fish from
+the supermarket and she was satisfied with that...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -58,8 +60,9 @@ She was happy ....#MTLed
 
 ……そう、彼女は繁殖し始めたんだ……！！
 > CONTEXT: Map116/events/3/pages/1/28/Dialogue
-However, it seems that she was not enough for her "people"
-.... ...... Yes, she has begun to breed ......! !#MTLed
+But it seems that won't be enough for "them".
+
+That's right, she's begun to multiply...!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -68,8 +71,8 @@ However, it seems that she was not enough for her "people"
  悪魔は搾精する搾精膣は存在しても、
  生殖はしないんじゃなかったのか……！？
 > CONTEXT: Map116/events/3/pages/1/33/Dialogue
-What the hell is that ...! ? demon milking milking even if
-the vagina exists. Didn't you not reproduce? ?#MTLed
+What the hell's with that...?! Yeah they have a vagina for
+milking but that shouldn't make them reproduce, right?!#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -78,9 +81,9 @@ the vagina exists. Didn't you not reproduce? ?#MTLed
 
  魚の件もあるし、バレるのは時間の問題だ……
 > CONTEXT: Map116/events/3/pages/1/39/Dialogue
-The manager of the park. They seem to be suspicious of me
-who often comes here outside of work. There is a fish case,
-and it is a matter of time to barre ......#MTLed
+It looks like the park manager's gotten suspicious of me
+coming and going outside of work hours. With this fish
+problem, it's only a matter of time before I'm caught.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -88,8 +91,10 @@ and it is a matter of time to barre ......#MTLed
 
 正直に打ち明けて、彼女を討伐士に明け渡すか…？
 > CONTEXT: Map116/events/3/pages/1/45/Dialogue
-What should I do ...... Honestly, do you give her a
-punisher ...?#MTLed
+I don't know what to do...
+
+Should I fess up and hand her over to the the demon
+hunters...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -97,5 +102,7 @@ punisher ...?#MTLed
 
  彼女は……なにも悪くないんだ……
 > CONTEXT: Map116/events/3/pages/1/50/Dialogue
-No!I can not do that! She is not bad at all ...#MTLed
+No! I can't do that!
+
+She's... not done anything wrong...#Ron
 > END STRING

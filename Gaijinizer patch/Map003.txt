@@ -2513,7 +2513,7 @@ You can use them to come here any time.#Aesthetic
 > CONTEXT: Map003/events/6/pages/3/0/Dialogue
 > CONTEXT: Map125/events/8/pages/0/0/Dialogue
 > CONTEXT: Map131/events/16/pages/0/0/Dialogue
-*「Do you want to change the vore filter settings?」#Ron
+*「Are you going to change the setting of the vore filter?」#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -2524,7 +2524,7 @@ You can use them to come here any time.#Aesthetic
 > CONTEXT: Map101/events/17/pages/0/40/Dialogue
 > CONTEXT: Map125/events/8/pages/0/4/Dialogue
 > CONTEXT: Map131/events/16/pages/0/4/Dialogue
-Currently set to: \\N[5]#Ron
+Currently set as: \\N[5]#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -2536,7 +2536,7 @@ Currently set to: \\N[5]#Ron
 > CONTEXT: Map101/events/17/pages/0/42/Choice/1
 > CONTEXT: Map125/events/8/pages/0/6/Choice/1
 > CONTEXT: Map131/events/16/pages/0/6/Choice/1
-Filter [Partial] Vore events will be censored.#Ron
+Filter [Light]: Scene happens with filter.#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -2548,7 +2548,7 @@ Filter [Partial] Vore events will be censored.#Ron
 > CONTEXT: Map101/events/17/pages/0/42/Choice/2
 > CONTEXT: Map125/events/8/pages/0/6/Choice/2
 > CONTEXT: Map131/events/16/pages/0/6/Choice/2
-Filter [Complete] Vore events will be skipped.#Ron
+Filter [Heavy]: Scene is skipped.#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -2563,7 +2563,7 @@ Filter [Complete] Vore events will be skipped.#Ron
 > CONTEXT: Map101/events/17/pages/0/44/InlineScript/1:23
 > CONTEXT: Map125/events/8/pages/0/8/InlineScript/1:23
 > CONTEXT: Map131/events/16/pages/0/8/InlineScript/1:23
-"Filter [OFF]"#Ron
+"Filter [OFF]"#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -2591,7 +2591,8 @@ Filter [Complete] Vore events will be skipped.#Ron
 > CONTEXT: Map131/events/16/pages/0/10/Dialogue
 > CONTEXT: Map131/events/16/pages/0/18/Dialogue
 > CONTEXT: Map131/events/16/pages/0/26/Dialogue
-Vore filter settings have been changed to "\\N[5]"#Ron
+The filter settings were changed to
+"\\N[5]".#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -2603,7 +2604,7 @@ Vore filter settings have been changed to "\\N[5]"#Ron
 > CONTEXT: Map101/events/17/pages/0/52/InlineScript/1:23
 > CONTEXT: Map125/events/8/pages/0/16/InlineScript/1:23
 > CONTEXT: Map131/events/16/pages/0/16/InlineScript/1:23
-"Filter [Partial]"#Ron
+"Filter [Light]"#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -2615,7 +2616,7 @@ Vore filter settings have been changed to "\\N[5]"#Ron
 > CONTEXT: Map101/events/17/pages/0/60/InlineScript/1:23
 > CONTEXT: Map125/events/8/pages/0/24/InlineScript/1:23
 > CONTEXT: Map131/events/16/pages/0/24/InlineScript/1:23
-"Filter [Complete]"#Ron
+"Filter [Heavy]"#Triketos
 > END STRING
 
 > BEGIN STRING

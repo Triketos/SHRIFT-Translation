@@ -67,8 +67,10 @@ To♪. ♪Reina's family is a farmer#MTLed
 気分が落ち着いたら、外でお話ししましょう？
 > CONTEXT: Map107/events/5/pages/0/0/Dialogue/enemy13
 > CONTEXT: Map107/events/5/pages/3/0/Dialogue/enemy13
-In the tent, rest slowly...If you feel calm,
-let's talk outside?#MTLed
+Take your time and rest in the tent...
+
+Let's talk here when you've calmed down a little,
+okay?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -76,7 +78,9 @@ let's talk outside?#MTLed
 
 ねぇ、大丈夫？
 > CONTEXT: Map107/events/5/pages/4/2/Dialogue/enemy12
-..... The complexion is bad. Hey, okay?#MTLed
+...You don't look so good.
+
+Hey, are you okay?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -84,7 +88,9 @@ let's talk outside?#MTLed
 
 ちょっと頭の整理が追い付いてないんだ……
 > CONTEXT: Map107/events/5/pages/4/6/Dialogue/kazuya-a
-sorry……. I just can not catch up with my mind ...#MTLed
+Sorry...
+
+I just can't sort my thoughts out...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -92,8 +98,8 @@ sorry……. I just can not catch up with my mind ...#MTLed
 
 見るのは初めてだったから……
 > CONTEXT: Map107/events/5/pages/4/10/Dialogue/kazuya-a
-"The moment a person dies in front of you"
-Because it was the first time to see ......#MTLed
+It's the first time I've seen someone die right
+in front of my eyes...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -101,8 +107,9 @@ Because it was the first time to see ......#MTLed
 
 可哀想に、よっぽど怖い目に遭ってきたのね……
 > CONTEXT: Map107/events/5/pages/4/14/Dialogue/enemy12
-......my body is shaking. I feel sorry for me,
-I'm getting scared ...#MTLed
+...You're shaking.
+
+Poor you, you saw something so scary...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -110,8 +117,9 @@ I'm getting scared ...#MTLed
 
  危ないところを助けてくれて……。
 > CONTEXT: Map107/events/5/pages/4/19/Dialogue/kazuya
-...... Oh, thank you again earlier.
-Help me in a dangerous place ....#MTLed
+...Oh, thanks again for before.
+
+You helped me out of a dangerous situation...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -119,9 +127,9 @@ Help me in a dangerous place ....#MTLed
 
 あなたの前に二人も喰われていたから……
 > CONTEXT: Map107/events/5/pages/4/23/Dialogue/enemy13
-Good, it was good to be in time.
-Because two people were also enshrined before you
-...#MTLed
+That's okay, I'm glad I got there in time.
+
+There were two people before you who got eaten...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -131,18 +139,18 @@ Because two people were also enshrined before you
 助けようとしたんだけど、彼は私を怖がって逃げ出したわ…
 > CONTEXT: Map107/events/5/pages/4/27/Dialogue/enemy12
 > CONTEXT: Map107/events/5/pages/7/10/Dialogue/enemy12
-He, from the crashed helicopter
-If you think that suddenly appeared, attack the
-pilot...I was trying to help, but he scared me
-and ran away ...#MTLed
+That thing suddenly appeared out of the crashed
+helicopter and attacked the pilot...
+
+I tried to help but he got scared and ran away...#Ron
 > END STRING
 
 > BEGIN STRING
 あなたが、ちゃんと話を聞いてくれる人でよかった…
 > CONTEXT: Map107/events/5/pages/4/32/Dialogue/enemy12
 > CONTEXT: Map107/events/5/pages/7/15/Dialogue/enemy12
-It was good that you listened to the story
-properly ...#MTLed
+I'm glad you're the sort of person who actually
+heard me out...#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -151,9 +159,9 @@ properly ...#MTLed
 ねぇ、あなた名前は？
 そういえば聞くのをすっかり忘れていたわ。
 > CONTEXT: Map107/events/5/pages/4/35/Dialogue/enemy13
-We look like we can get along well ......
-Hey, what is your name? Speaking of which, I
-totally forgot to listen.#MTLed
+Looks like we're gonna get along just fine...
+
+Hey, what's your name? I totally forgot to ask.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -161,7 +169,7 @@ totally forgot to listen.#MTLed
 
 僕の名前は、\\N[1]。
 > CONTEXT: Map107/events/5/pages/4/40/Dialogue/kazuya
-Oh, it's \\N[1]. My name is \\N[1].#MTLed
+Oh, it's \\N[1]. My name is \\N[1].#Ron
 > END STRING
 
 > BEGIN STRING
@@ -170,8 +178,8 @@ Oh, it's \\N[1]. My name is \\N[1].#MTLed
 といっても、種族名だから、『名前』とは違うけど…
 > CONTEXT: Map107/events/5/pages/4/46/Dialogue/enemy13
 > CONTEXT: Map107/events/5/pages/7/18/Dialogue/enemy13
-I say "Echo". However, because it is a tribal
-name, it is different from "name" ...#MTLed
+I'm called "Echo". Though since it's the name of
+my tribe, it's not really my "name"...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -182,8 +190,9 @@ name, it is different from "name" ...#MTLed
 > CONTEXT: Map107/events/5/pages/7/22/Dialogue/enemy13
 > CONTEXT: Map107/events/5/pages/8/0/Dialogue/enemy13
 > CONTEXT: Map107/events/5/pages/11/0/Dialogue/enemy13
-If you understand me, ask me anything?
-Surely, because it helps you ...#MTLed
+If there's anything I help with, ask away.
+
+I'm sure I can be of use to you...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -380,31 +389,31 @@ enshrined before you ...#MTLed
 > BEGIN STRING
 エコーについて
 > CONTEXT: Map107/events/5/pages/8/4/Choice/0
-About Echo#MTLed
+About Echo#Ron
 > END STRING
 
 > BEGIN STRING
 港への道について
 > CONTEXT: Map107/events/5/pages/8/4/Choice/1
-About the way to the port#MTLed
+The way to the port#Ron
 > END STRING
 
 > BEGIN STRING
 この森林の発生について
 > CONTEXT: Map107/events/5/pages/8/4/Choice/2
-About outbreak of this forest#MTLed
+This strange forest#Ron
 > END STRING
 
 > BEGIN STRING
 この場を去る
 > CONTEXT: Map107/events/5/pages/8/4/Choice/3
-Leave this place#MTLed
+Leave#Ron
 > END STRING
 
 > BEGIN STRING
 エコーは、ずっと一人でここにいるの？
 > CONTEXT: Map107/events/5/pages/8/6/Dialogue/kazuya
-Is Echo always here alone?#MTLed
+Are you always here by yourself?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -412,9 +421,9 @@ Is Echo always here alone?#MTLed
 
 この水路に、私と同じ『エコー』がいるよ。
 > CONTEXT: Map107/events/5/pages/8/8/Dialogue/enemy13
-Yeah, I mentioned earlier, but "Echo" is a tribal
-name. In this channel there is the same 'Echo' as
-me.#MTLed
+Nope, like I said before, "Echo" is the name of
+my tribe. There are other "Echos" like me in this
+waterway.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -422,8 +431,9 @@ me.#MTLed
 
 大丈夫、そのうちみんなも姿を現すと思うわ。
 > CONTEXT: Map107/events/5/pages/8/12/Dialogue/enemy13
-I'm out there because everyone is watching you
-Okay, I think everyone will come up with it.#MTLed
+I came out because everyone is cautious of you,
+but once they know you're okay, I think everyone
+will come out before long.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -431,9 +441,9 @@ Okay, I think everyone will come up with it.#MTLed
 
 \\N[1]もきっと、みんなのこと好きになるわ…♡
 > CONTEXT: Map107/events/5/pages/8/16/Dialogue/enemy13
-Everyone is as interested in me as I am, I am
-interested in you. \\N[1] will surely love
-everyone...♡#MTLed
+Like me, everyone loves humans, so they're
+interested in you. I'm sure you'll come to love
+everyone here too... ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -441,8 +451,10 @@ everyone...♡#MTLed
 
 港に抜けるためには、どう進んだらいい？
 > CONTEXT: Map107/events/5/pages/8/22/Dialogue/kazuya
-Hmmm ......... How do I proceed in order to get
-out of the harbor?#MTLed
+Ummm...
+
+How do I get out of here so I can get to the
+port?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -451,8 +463,8 @@ out of the harbor?#MTLed
 生い茂ったこの草木の中を進むのは危険だわ。
 > CONTEXT: Map107/events/5/pages/8/26/Dialogue/enemy12
 If you slide down to the other side of this hill,
-it's right there...It's dangerous to travel
-through the overgrown plants.#MTLed
+it's right there... But it's dangerous to go
+through these overgrown plants.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -460,14 +472,15 @@ through the overgrown plants.#MTLed
 
 避けて進むのは不可能よ………
 > CONTEXT: Map107/events/5/pages/8/30/Dialogue/enemy12
-In the plants,\\C[2] Archeny is putting a "hole" ...\\C[0]
-It is impossible to avoid and proceed .........#MTLed
+\\C[2]Archeny is making burrows in the woods...\\C[0]
+It's impossible to avoid them while you're
+walking through...#Ron
 > END STRING
 
 > BEGIN STRING
 ……アルケニー？
 > CONTEXT: Map107/events/5/pages/8/34/Dialogue/kazuya
-...... Archeny?#MTLed
+...Archeny?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -475,8 +488,10 @@ It is impossible to avoid and proceed .........#MTLed
 
 足元に自分の『巣』へ落とすための『巣穴』を作るの…
 > CONTEXT: Map107/events/5/pages/8/36/Dialogue/enemy12
-A horrible wolf demon...Make a 'Have' at your
-feet to drop into your 'Nave' ...#MTLed
+She's a horrible spider demon...
+
+She builds burrows that your feet fall through
+to trap you in her nest...#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -484,8 +499,9 @@ feet to drop into your 'Nave' ...#MTLed
 
  『巣』から生還した人間は一人もいないって話……
 > CONTEXT: Map107/events/5/pages/8/40/Dialogue/enemy12
-Archeny is cruel and thinks only of human beings.
-There is no one who survived from "The Nest" ...#MTLed
+Archeny is cruel and thinks of humans only as
+food. They say not a single human has ever
+escaped one of her nests...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -493,8 +509,9 @@ There is no one who survived from "The Nest" ...#MTLed
 
 エコーの仕業………じゃないよね……？
 > CONTEXT: Map107/events/5/pages/8/48/Dialogue/kazuya
-What causes the growth of this plant ...
-Echo's work...... is not......?#MTLed
+What's the cause of this plant overgrowth...?
+
+Did you do it...? No, that can't be right...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -503,9 +520,9 @@ Echo's work...... is not......?#MTLed
 この規模の魔力放出は完全に魔力の無駄だし
 仮にそうだとしても、私には何のメリットもないわ。
 > CONTEXT: Map107/events/5/pages/8/52/Dialogue/enemy12
-No way! The magic release of this scale is
-completely a waste of magic. Even so, I have no
-merit.#MTLed
+No way! The release of this much magic is such a
+waste, and even if I did do it, it wouldn't
+benefit me at all.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -513,7 +530,9 @@ merit.#MTLed
 
 水の中に住んでるんだし……
 > CONTEXT: Map107/events/5/pages/8/57/Dialogue/kazuya
-Well, that's right...I live in the water ...#MTLed
+Yeah, I guess you're right...
+
+You live in the water, after all...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -521,9 +540,9 @@ Well, that's right...I live in the water ...#MTLed
 
 人をいっぱい連れて港に向かった直後辺りだったかしら…。
 > CONTEXT: Map107/events/5/pages/8/61/Dialogue/enemy12
-The sudden expansion of plants and plants is due
-to human soldiers. Right after I went to the
-harbor with lots of people, I wondered ....#MTLed
+The sudden plant growth was right after the human
+soldiers had led all these people in the
+direction of the port...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -532,9 +551,10 @@ harbor with lots of people, I wondered ....#MTLed
 何が原因で、誰の仕業かまでは分からないわ……
 ごめんなさい。
 > CONTEXT: Map107/events/5/pages/8/65/Dialogue/enemy12
-In the blink of an eye it turned like a forest
-but...I don't know what caused it or who it was
-... I'm sorry.#MTLed
+In a flash it all turned into a forest...
+
+I don't know what caused it or who it was...
+I'm sorry.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -586,7 +606,7 @@ There is a tent, so take a break.#MTLed
 っ…
 > CONTEXT: Map107/events/86/pages/1/3/Dialogue/kazuya
 > CONTEXT: Map107/events/7/pages/1/3/Dialogue/kazuya
-Hm ...#MTLed
+Gh...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -595,8 +615,9 @@ Hm ...#MTLed
 テントの中で、ちゃんと休めた…？
 > CONTEXT: Map107/events/86/pages/1/6/Dialogue/enemy12
 > CONTEXT: Map107/events/7/pages/1/6/Dialogue/enemy12
-...... yeah, really okay? In the tent, did you
-rest ...?#MTLed
+...Hey, are you really okay?
+
+Did you have a proper rest inside the tent...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -605,8 +626,9 @@ rest ...?#MTLed
 ベッドが寝れるような状態じゃなかったんだ。
 > CONTEXT: Map107/events/86/pages/1/10/Dialogue/kazuya
 > CONTEXT: Map107/events/7/pages/1/10/Dialogue/kazuya
-......In fact, some inside was ruined ...
-I was not in a state where my bed could sleep.#MTLed
+...Actually, some of the inside's wrecked...
+
+The bed's not in any condition to sleep in.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -616,8 +638,8 @@ I was not in a state where my bed could sleep.#MTLed
  そのうち元に戻るから……
 > CONTEXT: Map107/events/86/pages/1/14/Dialogue/kazuya
 > CONTEXT: Map107/events/7/pages/1/14/Dialogue/kazuya
-But I'm fine. Maybe this is from shock
-I'll return to it earlier ...#MTLed
+But I'm fine. I'm probably just in shock, it'll
+pass before long...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -626,7 +648,9 @@ I'll return to it earlier ...#MTLed
 私が癒してあげようか…？
 > CONTEXT: Map107/events/86/pages/1/20/Dialogue/enemy13
 > CONTEXT: Map107/events/7/pages/1/20/Dialogue/enemy13
-Hey, if it is good ......... Shall I heal ...?#MTLed
+Hey, if it's okay with you...
+
+Should I heal you...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -635,8 +659,10 @@ Hey, if it is good ......... Shall I heal ...?#MTLed
 ヌいてリラックスさせることくらいなら出来るから♡
 > CONTEXT: Map107/events/86/pages/1/28/Dialogue/enemy13
 > CONTEXT: Map107/events/7/pages/1/28/Dialogue/enemy13
-I can't use healing magic, or something great ...
-I can do it as much as I can relax and relax#MTLed
+I can't use healing magic or anything that
+amazing...
+
+But I can at least help you relax... ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -646,22 +672,24 @@ I can do it as much as I can relax and relax#MTLed
 約束する…
 > CONTEXT: Map107/events/86/pages/1/32/Dialogue/enemy13
 > CONTEXT: Map107/events/7/pages/1/32/Dialogue/enemy13
-Okay...♡ You should not notice here for a while
-I also do not harm you. promise…#MTLed
+It's okay... ♡ You won't be noticed here for a
+while, and I won't cause you any harm...
+
+I promise...#Ron
 > END STRING
 
 > BEGIN STRING
 癒やしてもらう
 > CONTEXT: Map107/events/86/pages/1/41/Choice/0
 > CONTEXT: Map107/events/7/pages/1/41/Choice/0
-Get healed#MTLed
+Get healed#Ron
 > END STRING
 
 > BEGIN STRING
 断る
 > CONTEXT: Map107/events/86/pages/1/41/Choice/1
 > CONTEXT: Map107/events/7/pages/1/41/Choice/1
-turn down#MTLed
+Refuse#Ron
 > END STRING
 
 > BEGIN STRING
@@ -670,7 +698,9 @@ turn down#MTLed
 ふふふ、任せて♡
 > CONTEXT: Map107/events/86/pages/1/43/Dialogue/enemy13
 > CONTEXT: Map107/events/7/pages/1/43/Dialogue/enemy13
-......!!Moth. Fufufu, leave it to me#MTLed
+......!! ♡
+
+Fufufu, leave it to me. ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -680,9 +710,10 @@ turn down#MTLed
 どうやって性行為するのかも…
 > CONTEXT: Map107/events/86/pages/1/47/Dialogue/enemy13
 > CONTEXT: Map107/events/7/pages/1/47/Dialogue/enemy13
-I'm not a demon but. I know the sexual organs of
-human man properly...How to do sexual activity
-...#MTLed
+I'm not a succubus, but I know my way around male
+sexual organs... ♡ 
+
+And how to have sexual intercourse...#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -691,8 +722,9 @@ human man properly...How to do sexual activity
 リラックスさせてあげる…♡
 > CONTEXT: Map107/events/86/pages/1/52/Dialogue/enemy13
 > CONTEXT: Map107/events/7/pages/1/52/Dialogue/enemy13
-Well, get in the water...I'll let you relax ...
-♡#MTLed
+Okay, get in the water...
+
+I'll help you relax... ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -701,8 +733,9 @@ Well, get in the water...I'll let you relax ...
 こればっかりは、気持ちの問題だから…。
 > CONTEXT: Map107/events/86/pages/1/59/Dialogue/kazuya
 > CONTEXT: Map107/events/7/pages/1/59/Dialogue/kazuya
-No, no...all right. This is a matter of feeling
-....#MTLed
+N-No, that's okay.
+
+It's just my feelings...#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -711,15 +744,15 @@ No, no...all right. This is a matter of feeling
 これ以上時間をかけるわけにもいかないんだ。
 > CONTEXT: Map107/events/86/pages/1/63/Dialogue/kazuya
 > CONTEXT: Map107/events/7/pages/1/63/Dialogue/kazuya
-I am happy to care but. I can not afford to spend
-more time than this.#MTLed
+I'm happy you're worried about me, but I can't
+afford to waste any more time.#Ron
 > END STRING
 
 > BEGIN STRING
 …………………そう。
 > CONTEXT: Map107/events/86/pages/1/67/Dialogue/enemy12
 > CONTEXT: Map107/events/7/pages/1/67/Dialogue/enemy12
-…………………so.#MTLed
+...I see.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -735,7 +768,9 @@ more time than this.#MTLed
 
  大丈夫？
 > CONTEXT: Map107/events/9/pages/0/31/Dialogue/enemy12
-What's wrong? \\N[1]. All right?#MTLed
+What's wrong, \\N[1]?
+
+Are you okay?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -743,7 +778,9 @@ What's wrong? \\N[1]. All right?#MTLed
 
 ちょっと転んだだけ！
 > CONTEXT: Map107/events/9/pages/0/38/Dialogue/kazuya
-It's alright! I just fell a little!#MTLed
+I-I'm okay!
+
+I just slipped a little!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -754,10 +791,9 @@ It's alright! I just fell a little!#MTLed
 > CONTEXT: Map107/events/9/pages/0/43/Dialogue/kazuya
 > CONTEXT: Map107/events/9/pages/1/37/Dialogue/kazuya
 > CONTEXT: Map107/events/9/pages/2/39/Dialogue/kazuya
-what's this……? If you think it's a puddle, I'm
-doing something slime...It feels like a
-minamata that is warm enough to be human skin
-......#MTLed
+What is this...? I thought it was a puddle but
+it's kinda slimy... It feels like skin
+temperature corn syrup...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -767,8 +803,9 @@ minamata that is warm enough to be human skin
 > CONTEXT: Map107/events/9/pages/0/49/Dialogue/kazuya
 > CONTEXT: Map107/events/9/pages/1/43/Dialogue/kazuya
 > CONTEXT: Map107/events/9/pages/2/45/Dialogue/kazuya
-...... That's right, like ......
-When I was caught by Lucy ...#MTLed
+...That's right, it's like...
+
+Back when I was caught by Lucy...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -778,8 +815,9 @@ When I was caught by Lucy ...#MTLed
 > CONTEXT: Map107/events/9/pages/0/55/Dialogue/kazuya
 > CONTEXT: Map107/events/9/pages/1/49/Dialogue/kazuya
 > CONTEXT: Map107/events/9/pages/2/51/Dialogue/kazuya
-...... That's right, like ......
-When caught in Iron Maiden ...#MTLed
+...That's right, it's like...
+
+Back when I was caught by Iron Maiden...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -788,9 +826,9 @@ When caught in Iron Maiden ...#MTLed
 
 なんだか息も荒くなってきてるわよ？
 > CONTEXT: Map107/events/9/pages/0/66/Dialogue/enemy13
-What's up, \\N[1]. Disrupting the clothes so as
-to disturb...Somehow my breath is getting
-rough, too?#MTLed
+What's wrong, \\N[1]? You're getting all fiddly
+like your clothes are in the way... And your
+breathing's getting all ragged, too.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -798,8 +836,10 @@ rough, too?#MTLed
 
 私の粘液に触りすぎて、興奮してきた…？
 > CONTEXT: Map107/events/9/pages/0/73/Dialogue/enemy13
-Maybe...You touch my mucus too much, have you
-been Aroused ...?#MTLed
+Don't tell me...
+
+You've touched too much of my mucus and gotten
+aroused?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -807,7 +847,9 @@ been Aroused ...?#MTLed
 
 エコー…！？まさか君が……！！
 > CONTEXT: Map107/events/9/pages/0/77/Dialogue/kazuya-0
-! ? Echo ...! ? No way you are ......! !#MTLed
+?!
+
+Echo...?! Was this your...!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -815,8 +857,9 @@ been Aroused ...?#MTLed
 
 \\N[1]が、そこでちゃんと転んでくれて……
 > CONTEXT: Map107/events/9/pages/0/81/Dialogue/enemy12
-……………Was good. \\N[1] falls over there properly
-...#MTLed
+...I'm happy.
+
+Happy you slipped over there...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -824,9 +867,9 @@ been Aroused ...?#MTLed
 
 でも、あなたが港へ着いてしまったら、私はまた独り…
 > CONTEXT: Map107/events/9/pages/0/85/Dialogue/enemy12
-... I really want to get along with \\N[1].
-But when you get to the harbor, I am alone again
-...#MTLed
+You know, I really wanna get along with you,
+\\N[1]. But if you go to the port, I'll be all
+alone again...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -835,9 +878,10 @@ But when you get to the harbor, I am alone again
 
 私、またすぐ独りになるのはイヤ……
 > CONTEXT: Map107/events/9/pages/0/89/Dialogue/enemy12
-......I apologize for doing the rough thing ...
-But...if you do not do this ...
-I hate to be alone again soon ...#MTLed
+...I apologize for getting rough with you...
+But if I don't do this you'll...
+
+I don't wanna be alone again...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -845,8 +889,9 @@ I hate to be alone again soon ...#MTLed
 
 私を抱いて………
 > CONTEXT: Map107/events/9/pages/0/94/Dialogue/enemy12
-Please ..... one time is good ...
-Hug me .........#MTLed
+Please... just once...
+
+Hold me...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -855,9 +900,9 @@ Hug me .........#MTLed
 君には感謝してるし、その気持ちに応えたいけど……
 ユウマが港で待っているんだ。
 > CONTEXT: Map107/events/9/pages/0/99/Dialogue/kazuya-0
-sorry………. I am grateful to you and I want to
-respond to that feeling...Yuuma is waiting in
-the harbor.#MTLed
+I'm sorry... I'm grateful to you and I wish I
+could answer your feelings, but Yuuma's waiting
+for me at the port.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -865,16 +910,16 @@ the harbor.#MTLed
 
 これ以上、君を巻き込むわけには……
 > CONTEXT: Map107/events/9/pages/0/104/Dialogue/kazuya-0
-And the demon of the previous biological weapon
-is aiming at me. More than this, why not involve
-you ...#MTLed
+And that biological weapon demon from before is
+coming for me. I can't drag you into this any
+more than I already have.#Ron
 > END STRING
 
 > BEGIN STRING
 うわっ！！？
 > CONTEXT: Map107/events/9/pages/0/110/Dialogue/kazuya-0
 > CONTEXT: Map107/events/9/pages/1/72/Dialogue/kazuya-0
-whah! ?#MTLed
+Uwah?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -883,8 +928,8 @@ whah! ?#MTLed
 触手のように足に巻き付き、僕の身体を引っ張った…！
 > CONTEXT: Map107/events/9/pages/0/112/Dialogue
 > CONTEXT: Map107/events/9/pages/2/76/Dialogue
-Before I'm over, part of Echo's hair. I wound around my
-legs like a tentacle and pulled my body ...!#MTLed
+Before I could finish talking, part of Echo's hair wound
+around my leg like a tentacle and pulled me towards her!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -893,9 +938,8 @@ legs like a tentacle and pulled my body ...!#MTLed
  みるみるエコーの元へと引き寄せられていく……！！
 > CONTEXT: Map107/events/9/pages/0/120/Dialogue
 > CONTEXT: Map107/events/9/pages/2/84/Dialogue
-I who was slime attached to the whole body at the beat that
-fell. Being drawn to the source of before my eyes Echo ...!
-!#MTLed
+I was covered in slime the moment I fell, and before I
+knew it, I was being pulled towards her...!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -905,7 +949,9 @@ fell. Being drawn to the source of before my eyes Echo ...!
 > CONTEXT: Map107/events/9/pages/0/124/Dialogue/kazuya-0
 > CONTEXT: Map107/events/9/pages/1/86/Dialogue/kazuya-0
 > CONTEXT: Map107/events/9/pages/2/88/Dialogue/kazuya-0
-ugh......!!uugh......!!!#MTLed
+Ugh...!!
+
+Uuugh...!!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -913,8 +959,9 @@ ugh......!!uugh......!!!#MTLed
 
 あなたなら、堕とせると思ったのに……
 > CONTEXT: Map107/events/9/pages/0/133/Dialogue/enemy12
-............ It is useless even if you ask so
-much...I thought you would be reminiscent ...#MTLed
+...I guess it's pointless to try just asking you.
+
+I thought I could make you fall for me...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -922,8 +969,10 @@ much...I thought you would be reminiscent ...#MTLed
 
 それとも、私の容姿が気に入らなかった？
 > CONTEXT: Map107/events/9/pages/0/137/Dialogue/enemy12
-Are so important people waiting?
-Or did you not like my appearance?#MTLed
+Is there really someone that important waiting
+for you?
+
+Or do you not like my appearance?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -931,8 +980,9 @@ Or did you not like my appearance?#MTLed
 
 だって………
 > CONTEXT: Map107/events/9/pages/0/147/Dialogue/enemy13
-Maa...now either one is better ...
-Because ...#MTLed
+Well... it doesn't matter either way...
+
+That's because...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -941,7 +991,9 @@ Because ...#MTLed
 私に病ミ付きになルんでスもの……！
 > CONTEXT: Map107/events/9/pages/0/151/Dialogue/enemy13
 > CONTEXT: Map107/events/9/pages/2/118/Dialogue/enemy13
-Are you now. I'm sorry for being sick to me ...!#MTLed
+From NOW on, you're
+
+going to FALL head over HEELS for me...!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -950,8 +1002,8 @@ Are you now. I'm sorry for being sick to me ...!#MTLed
  彼女の身体が、恐ろしい姿へと変貌した……！！
 > CONTEXT: Map107/events/9/pages/0/161/Dialogue
 > CONTEXT: Map107/events/9/pages/2/128/Dialogue
-The moment I thought that Echo got on the ground
-Her body has transformed into a horrible figure ...! !#MTLed
+The moment Echo clambered onto land, her body transformed
+into a hideous form...!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -960,8 +1012,10 @@ Her body has transformed into a horrible figure ...! !#MTLed
 まーた厄介な悪魔に好かれちゃったネ、\\N[1]。
 > CONTEXT: Map107/events/9/pages/0/188/Dialogue/hyakki
 > CONTEXT: Map107/events/9/pages/1/142/Dialogue/hyakki
-dear me. Mr. \\N[1], who has been liked by the
-nasty demon.#MTLed
+Dear oh dear.
+
+Yet another troublesome demon who's fallen for
+ya, \\N[1].#Ron
 > END STRING
 
 > BEGIN STRING
@@ -970,8 +1024,9 @@ nasty demon.#MTLed
 タオル買う？安くしとくヨ。
 > CONTEXT: Map107/events/9/pages/0/202/Dialogue/hyakki
 > CONTEXT: Map107/events/9/pages/1/156/Dialogue/hyakki
-Ah, ah ー, Hisan ...... Do you buy towels? It's
-cheap.#MTLed
+Oh my, look at the state of you...
+
+Can I sell you a towel? They're cheap.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -980,8 +1035,9 @@ cheap.#MTLed
 彼女は一体…！？
 > CONTEXT: Map107/events/9/pages/0/206/Dialogue/kazuya-0
 > CONTEXT: Map107/events/9/pages/1/160/Dialogue/kazuya-0
-I'm going to do a great slime ......
-She is one ...! ?#MTLed
+G-Good god I'm slimy...
+
+What on earth was she...?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -990,10 +1046,10 @@ She is one ...! ?#MTLed
  普段は優しくて大人しい奴なんだけど
  いかんせん、ちょいと『独占欲』が強くてサ……
 > CONTEXT: Map107/events/9/pages/0/210/Dialogue/hyakki
-You already know the name "Echo".
-It's usually kind and gentle person
-I'm sorry, a little bit "exclusive desire" is
-strong ...#MTLed
+Ya already know her name, "Echo".
+She's normally gentle and meek, but unfortunately
+her desire to "monopolize" a mate has
+intensified.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1003,9 +1059,9 @@ strong ...#MTLed
  自分から一生離れないようにネ。
 > CONTEXT: Map107/events/9/pages/0/215/Dialogue/hyakki
 > CONTEXT: Map107/events/9/pages/1/169/Dialogue/hyakki
-As I said earlier, when the other party tries to
-leave. Comes trying to "brainwash" with mucus and
-tentacles. I will not leave you forever.#MTLed
+Just like before, if her partner tries to leave,
+she'll try to brainwash them with her tentacles
+and mucus. That way you'll never leave her.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1014,9 +1070,10 @@ tentacles. I will not leave you forever.#MTLed
 
 その事がよほど嬉しかったんだろうさ
 > CONTEXT: Map107/events/9/pages/0/220/Dialogue/hyakki
-Especially \\N[1], though it was Nayuki
-You followed the instructions of Echo gently and
-thank you? I would be very happy about that#MTLed
+In your case she was especially attached because
+you followed her instructions and thanked her.
+
+That probably made her really happy.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1025,9 +1082,10 @@ thank you? I would be very happy about that#MTLed
  一連のやり取りを見て、他のエコーたちも
 \\N[1]のこと、『脈アリ』だと思ってる。
 > CONTEXT: Map107/events/9/pages/0/228/Dialogue/hyakki
-But...you got too good handsome, right?
-Seeing a series of interactions, the other Echos
-I think it's \\N[1], it's a "pulse ant."#MTLed
+But... maybe ya were acting just a little too
+cool. The other Echos were watching your exchange
+with her, and they probably have their hopes up
+that you'll stay with them too.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1037,9 +1095,10 @@ I think it's \\N[1], it's a "pulse ant."#MTLed
 気を付けて先に進むんだよ？
 > CONTEXT: Map107/events/9/pages/0/233/Dialogue/hyakki
 > CONTEXT: Map107/events/9/pages/1/182/Dialogue/hyakki
-If you try to cross the watercourse, you will
-find many other Echoes. It is likely to get in
-the way or get fucked♪. Be careful and go ahead?#MTLed
+I'm sure that if you try crossing the waterway, a
+whole bunch more Echos will get in ya way, or try
+and rape ya. ♪
+Be careful on the way ahead, okay?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1049,9 +1108,9 @@ the way or get fucked♪. Be careful and go ahead?#MTLed
 マジでタオルあげようか？
 > CONTEXT: Map107/events/9/pages/0/242/Dialogue/hyakki
 > CONTEXT: Map107/events/9/pages/1/191/Dialogue/hyakki
-..... Are you serious enough? 
-Stensen slippery from the beginning ...
-Shall I give you a towel?#MTLed
+...Oh and, are you really okay?
+You had quite a slip there.
+Do you actually need a towel?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1060,8 +1119,9 @@ Shall I give you a towel?#MTLed
 さっきので全部取れた…………
 > CONTEXT: Map107/events/9/pages/0/247/Dialogue/kazuya-a
 > CONTEXT: Map107/events/9/pages/1/196/Dialogue/kazuya-a
-…………All right. I got all of it a while ago
-.........#MTLed
+...I'm okay.
+
+It was a while ago so it's all come off now...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1071,9 +1131,9 @@ Shall I give you a towel?#MTLed
 マザーラビットの時もそうだったけど！！
 > CONTEXT: Map107/events/9/pages/0/252/Dialogue/kazuya-a
 > CONTEXT: Map107/events/9/pages/1/201/Dialogue/kazuya-a
-I mean! Hyakki!!Basically, if you look at it,
-help me! That was also the case with Mother
-Rabbit! !#MTLed
+I mean come on, Hyakki!! If you could see I was
+in trouble you should've helped me! This is just
+like that time with Mother Rabbit!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1083,9 +1143,9 @@ Rabbit! !#MTLed
 中立のスタンスじゃなきゃダメなもんでサ。
 > CONTEXT: Map107/events/9/pages/0/257/Dialogue/hyakki
 > CONTEXT: Map107/events/9/pages/1/206/Dialogue/hyakki
-No, not bad ☆. For business reasons, 'I' is for
-humans and demons. If it's a neutral stun, it's
-no good.#MTLed
+Yeah, sorry about that. ☆
+For business reasons, I have to stay neutral
+in conflicts between humans and demons.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1095,9 +1155,10 @@ no good.#MTLed
 \\N[1]だけをそこまで贔屓にはできないの！
 > CONTEXT: Map107/events/9/pages/0/262/Dialogue/hyakki
 > CONTEXT: Map107/events/9/pages/1/211/Dialogue/hyakki
-Certainly, \\N[1] is a 'I' customer
-Any demon may be your business partner someday
-Only \\N[1] can not be beaten up there!#MTLed
+Certainly, you're one of my valued customers,
+but any demon might someday become my customer as
+well. I can't just play favorites with ya like
+that, you know!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1107,10 +1168,9 @@ Only \\N[1] can not be beaten up there!#MTLed
 アイツに関してだけは、ちょっと話が違うかな。
 > CONTEXT: Map107/events/9/pages/0/269/Dialogue/hyakki
 > CONTEXT: Map107/events/9/pages/1/218/Dialogue/hyakki
-But...that black snake demon...... ...
-"M.O.W.'s Biological Weapons"......?
-As for the guy only, the story might be a little
-different.#MTLed
+But... that black snake demon...
+That, "M.O.W. Biological Weapon", was it...?
+That one's a different story.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1120,10 +1180,9 @@ different.#MTLed
 アイツは悪魔じゃない……もはや『災害』だよ。
 > CONTEXT: Map107/events/9/pages/0/274/Dialogue/hyakki
 > CONTEXT: Map107/events/9/pages/1/223/Dialogue/hyakki
-............ Hey, before you ask the pilot,
-I'm playing two Echos that I was trying to help.
-The guy is not a demon...it's no longer a
-disaster.#MTLed
+...That thing ate two Echos that were trying to
+help before it ate the pilot. That thing's no
+demon... it's a natural disaster.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1133,9 +1192,9 @@ disaster.#MTLed
 行く手に立ちふさがってくるはずだ。
 > CONTEXT: Map107/events/9/pages/0/281/Dialogue/hyakki
 > CONTEXT: Map107/events/9/pages/1/230/Dialogue/hyakki
-\\N[1], the guy's purpose is you?
-If you go ahead, then you must
-I'm supposed to stand up on my way.#MTLed
+\\N[1], you're that thing's target, right?
+So when you move on ahead, that thing will
+definitely be standing in your way.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1144,8 +1203,9 @@ I'm supposed to stand up on my way.#MTLed
 アタシもちょっと加勢するかもね。
 > CONTEXT: Map107/events/9/pages/0/286/Dialogue/hyakki
 > CONTEXT: Map107/events/9/pages/1/235/Dialogue/hyakki
-At that time………. 'I' may be a little more
-involved.#MTLed
+When that happens...
+
+I might just give ya a hand...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1155,8 +1215,10 @@ involved.#MTLed
 だったら\\C[2]代わりにハーブティーがおすすめだヨ！
 > CONTEXT: Map107/events/9/pages/0/293/Dialogue/hyakki
 > CONTEXT: Map107/events/9/pages/1/242/Dialogue/hyakki
-Oh yeah♪. I can't use my bed? 
-If\\C[2] I recommend herbal tea instead!#MTLed
+Oh yeah! ♪
+
+You can't use the bed in there, right? In that 
+case, \\C[2]I recommend using herbal tea instead!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1165,8 +1227,9 @@ If\\C[2] I recommend herbal tea instead!#MTLed
 保管ボックスに預けておくと安心かもネ！
 > CONTEXT: Map107/events/9/pages/0/298/Dialogue/hyakki
 > CONTEXT: Map107/events/9/pages/1/247/Dialogue/hyakki
-Considering the future, more herbs are in stock.
-It is safe if you leave it in the storage box!#MTLed
+Keeping the future in mind, I've stocked up on a
+lot of herbs. You can safely leave them in the
+storage box, too!#Ron
 > END STRING
 
 > BEGIN STRING

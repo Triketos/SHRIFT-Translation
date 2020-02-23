@@ -2,20 +2,20 @@
 > BEGIN STRING
 ポンプＤのステータス：\\C[3]正常に作動中
 > CONTEXT: Map118/events/4/pages/1/0/Dialogue
-Status of pump D:\\C[3] Normal operation#MTLed
+Status of Pump D:\\C[3] Normal#Triketos
 > END STRING
 
 > BEGIN STRING
 ポンプＤのステータス：\\C[2]稼働停止中
 > CONTEXT: Map118/events/4/pages/2/0/Dialogue
-Status of pump D:\\C[2] Out of service#MTLed
+Status of Pump D:\\C[2] Shut Down#Triketos
 > END STRING
 
 > BEGIN STRING
 
 　　　　　　水路管理者のメモ４
 > CONTEXT: Map118/events/3/pages/1/2/Dialogue
-Waterway manager's note 4#MTLed
+Waterway Manager's Note 4#Ron
 > END STRING
 
 > BEGIN STRING
@@ -24,9 +24,9 @@ Waterway manager's note 4#MTLed
 どうやら街の方で、大量の悪魔が出現したらしい。
 ここには前から居たってのにな。
 > CONTEXT: Map118/events/3/pages/1/6/Dialogue
-An evacuation order has been issued. Apparently a lot of
-demons appeared in the town. I have been here for a long
-time.#MTLed
+An evacuation order's been issued. Apparently a lot of
+demons have appeared in the town. Well, there's been
+plenty in here too for a while.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -34,9 +34,9 @@ time.#MTLed
 
 そうなると、軍が拠点に使うのは間違いなくココだ。
 > CONTEXT: Map118/events/3/pages/1/12/Dialogue
-Harbor ships and trains will be used for evacuation.
-Then it is definitely here that the military use it for
-bases.#MTLed
+They'll probably use trains and the ships in the harbor to
+evacuate people. If that's the case, I have no doubt the
+military will use this place as a base.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -44,8 +44,9 @@ bases.#MTLed
 
  彼女たちが、軍や市民に手を出さない保証があるか？
 > CONTEXT: Map118/events/3/pages/1/17/Dialogue
-What if they find out in the military? Is there a guarantee
-that they will not reach out to the military or the public?#MTLed
+What'll happen if the military finds the girls here? Is
+there any guarantee they won't do anything to the military
+or the townsfolk who pass through?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -54,9 +55,9 @@ that they will not reach out to the military or the public?#MTLed
 
  悪魔から逃れるための拠点に住まう彼女たちを……
 > CONTEXT: Map118/events/3/pages/1/22/Dialogue
-No, even if they don't take out their hands
-Will the military people miss it? We live in base to escape
-from demon ...#MTLed
+No, even if they don't do anything, it's not like the
+military will let the girls live. People will be fleeing
+here to get away from demons...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -66,9 +67,9 @@ from demon ...#MTLed
 退魔水として、水と混ぜて撒く用途らしい。
 > CONTEXT: Map118/events/3/pages/1/28/Dialogue
 A few days ago I bought something from an antique shop.
-Powder-like deodorant that neutralizes magic ...
-It seems to be used to mix with water and boil it as an
-evil water.#MTLed
+It's a powder that neutralizes magic...
+Apparently, by mixing it into water it'll cleanse it of
+evil spirits.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -77,9 +78,9 @@ evil water.#MTLed
 だが、水路の水を止めた状態で、地下の貯水池に流せば
 無事ではすまないのは確かだろう。
 > CONTEXT: Map118/events/3/pages/1/34/Dialogue
-A waterway of this size does not necessarily mean that they
-will die. However, if the water in the water channel is
-stopped, it will. I'm sure I can't be safe.#MTLed
+Given the size of this waterway, it won't necessarily kill
+them. But if I stop the pumps and drain the underground
+reservoir, I can make it hard for them to live here.#CheckLater
 > END STRING
 
 > BEGIN STRING
@@ -88,9 +89,10 @@ stopped, it will. I'm sure I can't be safe.#MTLed
 
 だが正直、そこは問題じゃない。
 > CONTEXT: Map118/events/3/pages/1/40/Dialogue
-If they know that they are thinking about such things
-Without a doubt I will be killed...But honestly, that is
-not a problem.#MTLed
+If those girls found out what I'm thinking of doing, I'm
+sure they'd kill me...
+
+But honestly, that's not the problem.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -99,9 +101,10 @@ not a problem.#MTLed
  ３つのポンプを停止して、あとは彼女たちが気づく前に
  この袋をぶちまけて、最後のポンプを止める。
 > CONTEXT: Map118/events/3/pages/1/46/Dialogue
-The problem is that I am still lost. Stop the three pumps,
-and before they notice. Bump this bag and stop the last
-pump.#MTLed
+...I'm still conflicted about this. Once I stop
+the first three pumps, they'll realize what's happening.
+I've got to get to the final pump before they
+show themselves...#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -109,14 +112,14 @@ pump.#MTLed
 
 間に合わせる気がないようだ。
 > CONTEXT: Map118/events/3/pages/1/52/Dialogue
-I have to hurry, but now I am. It does not seem to make it
-in time.#MTLed
+I have to hurry, but it's like my body
+doesn't seem to want do it...#Ron/Triketos
 > END STRING
 
 > BEGIN STRING
 愛しているんだ、彼女を………。
 > CONTEXT: Map118/events/3/pages/1/60/Dialogue
-I love you, she .....#MTLed
+I love her... that girl...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -124,8 +127,9 @@ I love you, she .....#MTLed
 
 もう、疲れた………
 > CONTEXT: Map118/events/3/pages/1/63/Dialogue
-Quickly...... I want to be comfortable......
-I've got tired………#MTLed
+Quickly... I want this to end...
+
+I'm already... so tired...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -133,7 +137,9 @@ I've got tired………#MTLed
 
 すでに事切れているようだ。
 > CONTEXT: Map118/events/10/pages/0/0/Dialogue
-A man is falling. It seems that I have already run out.#MTLed
+A man has collapsed.
+
+Looks like he's already expired.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -141,8 +147,9 @@ A man is falling. It seems that I have already run out.#MTLed
 
 肌の色の艶やかさを保っている………
 > CONTEXT: Map118/events/10/pages/0/4/Dialogue
-Covered the whole body with mucus, it seems to start moving
-now. Keeping the color of the skin glossy......#MTLed
+His whole body's covered in mucus, keeping his skin
+color lifelike. He looks as though he's about to spring
+back to life at any moment.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -151,8 +158,9 @@ now. Keeping the color of the skin glossy......#MTLed
 袋に注意書きが書かれているようだ。
 > CONTEXT: Map118/events/11/pages/0/0/Dialogue
 > CONTEXT: Map118/events/11/pages/1/0/Dialogue
-A bag of salty powder is placed. It seems that a note is
-written on the bag.#MTLed
+There's a bag here filled with what looks like salt.
+
+Looks like there's some instructions on the bag.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -162,21 +170,22 @@ written on the bag.#MTLed
 粉の状態では人間に対しても猛毒。
 > CONTEXT: Map118/events/11/pages/0/4/Dialogue
 > CONTEXT: Map118/events/11/pages/1/4/Dialogue
-【Caution】 退 demon for demon powder. Use extreme caution
-until dissolved in water. It is also highly poisonous to
-humans in the state of powder.#MTLed
+【Caution】 Demon Repelling Magic Powder.
+Be very careful until this powder is fully dissolved in
+water. This substance is highly poisonous to humans in
+its powder form.#Ron
 > END STRING
 
 > BEGIN STRING
 袋の中身を水路に流す
 > CONTEXT: Map118/events/11/pages/0/21/Choice/1
-Pour the contents of the bag into the water channel#MTLed
+Pour the contents of the bag into the water#Ron
 > END STRING
 
 > BEGIN STRING
 袋の中身は空っぽだ
 > CONTEXT: Map118/events/11/pages/2/0/Dialogue
-The contents of the bag are empty#MTLed
+The bag's empty.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -185,7 +194,7 @@ The contents of the bag are empty#MTLed
 > CONTEXT: Map118/events/14/pages/1/2/InlineScript/2:1
 > CONTEXT: Map118/events/16/pages/1/2/InlineScript/2:1
 > CONTEXT: Map118/events/17/pages/1/2/InlineScript/2:1
-"Chapter 3-1 Echo War (Reservoir)"#MTLed
+"Chapter 3-1 Echo Battle (Reservoir)"#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -198,7 +207,7 @@ The contents of the bag are empty#MTLed
 > CONTEXT: Map118/events/16/pages/6/0/Dialogue/enemy12
 > CONTEXT: Map118/events/17/pages/1/6/Dialogue/enemy12
 > CONTEXT: Map118/events/17/pages/6/0/Dialogue/enemy12
-……………why?#MTLed
+...Why?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -209,7 +218,7 @@ The contents of the bag are empty#MTLed
 > CONTEXT: Map118/events/14/pages/1/21/Dialogue/enemy12
 > CONTEXT: Map118/events/16/pages/1/21/Dialogue/enemy12
 > CONTEXT: Map118/events/17/pages/1/21/Dialogue/enemy12
-why………. Did not use that bag ...?#MTLed
+Why... didn't you use that bag...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -221,10 +230,9 @@ why………. Did not use that bag ...?#MTLed
 > CONTEXT: Map118/events/14/pages/1/25/Dialogue/enemy12
 > CONTEXT: Map118/events/16/pages/1/25/Dialogue/enemy12
 > CONTEXT: Map118/events/17/pages/1/25/Dialogue/enemy12
-Certainly that powder is a temporary thing, even
-if it has the effect of repelling ...
-But even if we do not kill us,
-I and everyone are the reason to "give up" ...#MTLed
+Certainly that powder has anti-demon effects, if
+only temporarily... But even if it won't kill us,
+it would give us a reason to leave you alone...#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -235,8 +243,9 @@ I and everyone are the reason to "give up" ...#MTLed
 > CONTEXT: Map118/events/14/pages/1/30/Dialogue/enemy12
 > CONTEXT: Map118/events/16/pages/1/30/Dialogue/enemy12
 > CONTEXT: Map118/events/17/pages/1/30/Dialogue/enemy12
-I did the wildest things that you wanted so much
-... I should be angry.#MTLed
+I wanted you so much I did some violent things...
+
+You have every right to be angry.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -247,8 +256,10 @@ I did the wildest things that you wanted so much
 > CONTEXT: Map118/events/14/pages/1/35/Dialogue/kazuya
 > CONTEXT: Map118/events/16/pages/1/35/Dialogue/kazuya
 > CONTEXT: Map118/events/17/pages/1/35/Dialogue/kazuya
-...... separately. He only made his decision ...
-respect his will.#MTLed
+...I'm not really angry.
+
+I was just respecting the decision of that man
+over there.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -259,8 +270,8 @@ respect his will.#MTLed
 > CONTEXT: Map118/events/14/pages/1/44/Dialogue/kazuya
 > CONTEXT: Map118/events/16/pages/1/44/Dialogue/kazuya
 > CONTEXT: Map118/events/17/pages/1/44/Dialogue/kazuya
-He is ...... because I thought about you guys
-Just before, I stopped using that bag.#MTLed
+It's because he loved you guys so much, that at
+the last minute he decided not to use the bag.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -272,10 +283,10 @@ Just before, I stopped using that bag.#MTLed
 > CONTEXT: Map118/events/14/pages/1/48/Dialogue/kazuya
 > CONTEXT: Map118/events/16/pages/1/48/Dialogue/kazuya
 > CONTEXT: Map118/events/17/pages/1/48/Dialogue/kazuya
-Besides, his corpse...even though it is covered
-with Echo mucus. Traces of trying to take off
-your clothes as I did. There is no trauma or
-disturbance that I have struggled.#MTLed
+And even though his body's covered with your
+mucus, I can't see any traces of his clothes
+being torn off like you did to me, or any signs
+of a struggle.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -286,8 +297,8 @@ disturbance that I have struggled.#MTLed
 > CONTEXT: Map118/events/14/pages/1/53/Dialogue/kazuya
 > CONTEXT: Map118/events/16/pages/1/53/Dialogue/kazuya
 > CONTEXT: Map118/events/17/pages/1/53/Dialogue/kazuya
-He is ............ drinking that powder
-\\C[2]You made a choice to "cut your own life"#MTLed
+He... consumed that powder, \\C[2]he made the decision
+to end his own life.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -299,9 +310,10 @@ He is ............ drinking that powder
 > CONTEXT: Map118/events/14/pages/1/57/Dialogue/kazuya
 > CONTEXT: Map118/events/16/pages/1/57/Dialogue/kazuya
 > CONTEXT: Map118/events/17/pages/1/57/Dialogue/kazuya
-He said, until the military evacuated the
-citizens. I think I wanted to keep you guys here
-... So the reservoir here was...locked.#MTLed
+Until the military started evacuating citizens,
+I think he wanted to shelter you guys here...
+
+So that's why the reservoir here was locked.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -312,8 +324,10 @@ citizens. I think I wanted to keep you guys here
 > CONTEXT: Map118/events/14/pages/1/64/Dialogue/kazuya
 > CONTEXT: Map118/events/16/pages/1/64/Dialogue/kazuya
 > CONTEXT: Map118/events/17/pages/1/64/Dialogue/kazuya
-And that mass of mucus covering him ...
-I lost my life after him\\C[2] "Original" Echo ...#MTLed
+And that mass of mucus covering him...
+
+That's the remains of the \\C[2]original Echo\\C[0], who
+followed him here and took her own life...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -325,9 +339,9 @@ I lost my life after him\\C[2] "Original" Echo ...#MTLed
 > CONTEXT: Map118/events/14/pages/1/73/Dialogue/kazuya
 > CONTEXT: Map118/events/16/pages/1/73/Dialogue/kazuya
 > CONTEXT: Map118/events/17/pages/1/73/Dialogue/kazuya
-...... Even if I was angry with you
-His and his 'original' Echo's. I can not imitate
-the word "determination".#MTLed
+...Even if I were angry at you, there's no way I
+could disregard the "determination" of that man
+and the original Echo who choose him.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -338,8 +352,9 @@ the word "determination".#MTLed
 > CONTEXT: Map118/events/14/pages/1/78/Dialogue/kazuya
 > CONTEXT: Map118/events/16/pages/1/78/Dialogue/kazuya
 > CONTEXT: Map118/events/17/pages/1/78/Dialogue/kazuya
-Here are two of them .........
-It's the one and only, 'special place' ...#MTLed
+This was, for them...
+
+Their one and only special place...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -348,7 +363,7 @@ It's the one and only, 'special place' ...#MTLed
 > CONTEXT: Map118/events/14/pages/1/84/Dialogue/enemy13
 > CONTEXT: Map118/events/16/pages/1/84/Dialogue/enemy13
 > CONTEXT: Map118/events/17/pages/1/84/Dialogue/enemy13
-............ That's kind, \\N[1].#MTLed
+...\\N[1], you're really nice, huh.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -359,8 +374,9 @@ It's the one and only, 'special place' ...#MTLed
 > CONTEXT: Map118/events/14/pages/1/86/Dialogue/enemy13
 > CONTEXT: Map118/events/16/pages/1/86/Dialogue/enemy13
 > CONTEXT: Map118/events/17/pages/1/86/Dialogue/enemy13
-But...... no good...... Do it again, let me
-like you .........#MTLed
+But... that's no good...
+
+Let me like you, like before...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -371,7 +387,9 @@ like you .........#MTLed
 > CONTEXT: Map118/events/14/pages/1/90/Dialogue/enemy13
 > CONTEXT: Map118/events/16/pages/1/90/Dialogue/enemy13
 > CONTEXT: Map118/events/17/pages/1/90/Dialogue/enemy13
-more and more………. I want you want...♡#MTLed
+You've made me want you...
+
+More and more... ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -383,9 +401,10 @@ more and more………. I want you want...♡#MTLed
 > CONTEXT: Map118/events/14/pages/1/99/Dialogue/enemy13
 > CONTEXT: Map118/events/16/pages/1/99/Dialogue/enemy13
 > CONTEXT: Map118/events/17/pages/1/99/Dialogue/enemy13
-Oh ......... \\N[1] ...!!Moth
-Good luck...love you...♡. I want a cat ......
-loneliness Sitai...♡#MTLed
+Aah... \\N[1]...!! ♡
+
+I loVe yoU... I lOvE yOu...♡
+I wANT yoU... aLl to mYsELf... ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -397,9 +416,10 @@ loneliness Sitai...♡#MTLed
 > CONTEXT: Map118/events/14/pages/1/104/Dialogue/enemy13
 > CONTEXT: Map118/events/16/pages/1/104/Dialogue/enemy13
 > CONTEXT: Map118/events/17/pages/1/104/Dialogue/enemy13
-I want to look at it I want it...♡
-I want you to think about me...♡
-I'm a keno thing...\\N[1]! !#MTLed
+I waNt yoU TO loOk onLy at ME...♡
+I wANt yOu to thInK aBOut oNLY ME...♡
+
+BeCoME miNe anD onLy MiNE... \\N[1]!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -408,7 +428,7 @@ I'm a keno thing...\\N[1]! !#MTLed
 > CONTEXT: Map118/events/14/pages/1/127/Dialogue/other2
 > CONTEXT: Map118/events/16/pages/1/127/Dialogue/other2
 > CONTEXT: Map118/events/17/pages/1/127/Dialogue/other2
-............ Was this all right? \\N[1]#MTLed
+...Was it okay to say all that, \\N[1]?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -419,9 +439,10 @@ I'm a keno thing...\\N[1]! !#MTLed
 > CONTEXT: Map118/events/14/pages/1/129/Dialogue/kazuya
 > CONTEXT: Map118/events/16/pages/1/129/Dialogue/kazuya
 > CONTEXT: Map118/events/17/pages/1/129/Dialogue/kazuya
-... First of all, what you want to tell her
-should have been transmitted. 
-She also believed in me.#MTLed
+...Well anyway, I think I managed to get across
+what I wanted to tell her.
+
+She also trusted me.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -432,7 +453,9 @@ She also believed in me.#MTLed
 > CONTEXT: Map118/events/14/pages/1/133/Dialogue/kazuya
 > CONTEXT: Map118/events/16/pages/1/133/Dialogue/kazuya
 > CONTEXT: Map118/events/17/pages/1/133/Dialogue/kazuya
-"Promise"...I have to protect myself too ...#MTLed
+I made a promise...
+
+I have to make sure I keep it...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -443,8 +466,9 @@ She also believed in me.#MTLed
 > CONTEXT: Map118/events/14/pages/1/137/Dialogue/other2
 > CONTEXT: Map118/events/16/pages/1/137/Dialogue/other2
 > CONTEXT: Map118/events/17/pages/1/137/Dialogue/other2
-Totally...While doing things every time, I'm
-going to go mad, you ...#MTLed
+Good grief...
+
+You're always doing something reckless...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -455,7 +479,9 @@ going to go mad, you ...#MTLed
 > CONTEXT: Map118/events/14/pages/6/16/Dialogue/enemy12
 > CONTEXT: Map118/events/16/pages/6/16/Dialogue/enemy12
 > CONTEXT: Map118/events/17/pages/6/16/Dialogue/enemy12
-Why are you ......... Stir up to there......?#MTLed
+How...
+
+How can you hate us so much...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -466,8 +492,10 @@ Why are you ......... Stir up to there......?#MTLed
 > CONTEXT: Map118/events/14/pages/6/20/Dialogue/enemy12
 > CONTEXT: Map118/events/16/pages/6/20/Dialogue/enemy12
 > CONTEXT: Map118/events/17/pages/6/20/Dialogue/enemy12
-I...I can not understand humans ...
-Some people like you, like demons ...#MTLed
+I... I really can't understand humans...
+
+The fact there are people like you, people who
+are like demons...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -478,8 +506,9 @@ Some people like you, like demons ...#MTLed
 > CONTEXT: Map118/events/14/pages/6/24/Dialogue/enemy12
 > CONTEXT: Map118/events/16/pages/6/24/Dialogue/enemy12
 > CONTEXT: Map118/events/17/pages/6/24/Dialogue/enemy12
-No, you are worse than demon ...
-"Demon is able to face you"#MTLed
+No, you're worse than a demon...
+
+Demons can face their opponents head-on.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -488,8 +517,8 @@ No, you are worse than demon ...
 > CONTEXT: Map118/events/14/pages/6/29/Dialogue/kazuya-3
 > CONTEXT: Map118/events/16/pages/6/29/Dialogue/kazuya-3
 > CONTEXT: Map118/events/17/pages/6/29/Dialogue/kazuya-3
-............ Deathless, but what are you talking
-about?#MTLed
+...You're still alive and kicking? What the hell
+are you babbling about?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -500,8 +529,9 @@ about?#MTLed
 > CONTEXT: Map118/events/14/pages/6/31/Dialogue/kazuya-3
 > CONTEXT: Map118/events/16/pages/6/31/Dialogue/kazuya-3
 > CONTEXT: Map118/events/17/pages/6/31/Dialogue/kazuya-3
-If you're willing to stop me, how fast would you
-be. Your body is already at its limit.#MTLed
+If you want to stop me, then go ahead and try.
+
+Your body's at its limit, though.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -513,9 +543,9 @@ be. Your body is already at its limit.#MTLed
 > CONTEXT: Map118/events/14/pages/6/36/Dialogue/enemy12
 > CONTEXT: Map118/events/16/pages/6/36/Dialogue/enemy12
 > CONTEXT: Map118/events/17/pages/6/36/Dialogue/enemy12
-...... That's right. I can not cancel the mimic
-anymore...If you release it, your body will be
-broken down.#MTLed
+...You're right. I can't undo my camouflage
+anymore... If I did, my body would crumble into
+pieces.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -526,8 +556,9 @@ broken down.#MTLed
 > CONTEXT: Map118/events/14/pages/6/41/Dialogue/enemy12
 > CONTEXT: Map118/events/16/pages/6/41/Dialogue/enemy12
 > CONTEXT: Map118/events/17/pages/6/41/Dialogue/enemy12
-So I can not stop you anymore ...
-But I want you to tell me one .........#MTLed
+So, I don't have the power to stop you anymore.
+
+But there's just one thing I want you to tell me.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -538,8 +569,8 @@ But I want you to tell me one .........#MTLed
 > CONTEXT: Map118/events/14/pages/6/45/Dialogue/enemy12
 > CONTEXT: Map118/events/16/pages/6/45/Dialogue/enemy12
 > CONTEXT: Map118/events/17/pages/6/45/Dialogue/enemy12
-.......... why are you from whom you kill
-Do you always look away?#MTLed
+...Why do you always look away from the ones
+you've killed?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -551,8 +582,8 @@ Do you always look away?#MTLed
 > CONTEXT: Map118/events/16/pages/6/50/Dialogue/enemy12
 > CONTEXT: Map118/events/17/pages/6/50/Dialogue/enemy12
 I have seen a lot of other demons kill humans.
-On the contrary, there are places where humans
-kill demons ...#MTLed
+
+And I've also seen the opposite.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -563,8 +594,9 @@ kill demons ...#MTLed
 > CONTEXT: Map118/events/14/pages/6/54/Dialogue/enemy12
 > CONTEXT: Map118/events/16/pages/6/54/Dialogue/enemy12
 > CONTEXT: Map118/events/17/pages/6/54/Dialogue/enemy12
-But everyone was facing the other's "death".
-I received the fact that I "killed".#MTLed
+None of them turned away from death.
+
+They all accepted that they had killed another.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -575,8 +607,10 @@ I received the fact that I "killed".#MTLed
 > CONTEXT: Map118/events/14/pages/6/58/Dialogue/enemy12
 > CONTEXT: Map118/events/16/pages/6/58/Dialogue/enemy12
 > CONTEXT: Map118/events/17/pages/6/58/Dialogue/enemy12
-But...... you do not have it.
-Your eyes always point in the other direction.#MTLed
+But... you don't have that in you.
+
+Your eyes are always pointed in another
+direction.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -587,8 +621,9 @@ Your eyes always point in the other direction.#MTLed
 > CONTEXT: Map118/events/14/pages/6/62/Dialogue/enemy12
 > CONTEXT: Map118/events/16/pages/6/62/Dialogue/enemy12
 > CONTEXT: Map118/events/17/pages/6/62/Dialogue/enemy12
-This is not the story of "gaze"
-You know ...?#MTLed
+It's your eyes telling a different story.
+
+I'm sure you know that.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -599,8 +634,9 @@ You know ...?#MTLed
 > CONTEXT: Map118/events/14/pages/6/68/Dialogue/kazuya
 > CONTEXT: Map118/events/16/pages/6/68/Dialogue/kazuya
 > CONTEXT: Map118/events/17/pages/6/68/Dialogue/kazuya
-............................................
-If you want to know so much, I will tell you.#MTLed
+.......
+
+If you want to know so bad, I'll tell you.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -612,9 +648,9 @@ If you want to know so much, I will tell you.#MTLed
 > CONTEXT: Map118/events/14/pages/6/72/Dialogue/kazuya
 > CONTEXT: Map118/events/16/pages/6/72/Dialogue/kazuya
 > CONTEXT: Map118/events/17/pages/6/72/Dialogue/kazuya
-When I wake up ...... You guys demon was a
-"threat" for me. The purpose of Yuuma to reach
-the source of ......#MTLed
+After I woke up... You lot were a threat to me.
+
+To my goal of reaching Yuuma.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -626,10 +662,10 @@ the source of ......#MTLed
 > CONTEXT: Map118/events/14/pages/6/77/Dialogue/kazuya
 > CONTEXT: Map118/events/16/pages/6/77/Dialogue/kazuya
 > CONTEXT: Map118/events/17/pages/6/77/Dialogue/kazuya
-Counterpower, Afraid mind, curiosity, whimsical
-...... I don't remember what the reason was at
-first, though. I feel that the reason for killing
-the demon was trivial.#MTLed
+Resistance, fear, curiousity, sheer whim...
+I don't remember what the reason was at first,
+but I get the feeling the reason for killing
+demons was some trivial thing.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -640,8 +676,9 @@ the demon was trivial.#MTLed
 > CONTEXT: Map118/events/14/pages/6/82/Dialogue/kazuya
 > CONTEXT: Map118/events/16/pages/6/82/Dialogue/kazuya
 > CONTEXT: Map118/events/17/pages/6/82/Dialogue/kazuya
-The more I kill, the more my strength gets
-stronger...My current power is surging "demo".#MTLed
+The more I kill, the stronger I become...
+
+My power now surpasses that of demons.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -653,8 +690,9 @@ stronger...My current power is surging "demo".#MTLed
 > CONTEXT: Map118/events/14/pages/6/86/Dialogue/kazuya
 > CONTEXT: Map118/events/16/pages/6/86/Dialogue/kazuya
 > CONTEXT: Map118/events/17/pages/6/86/Dialogue/kazuya
-But it is at the same time. demon is no longer a
-"threat"...The reason why I kill demon is gone.#MTLed
+But at the same time, demons have become less
+and less of a threat... I don't have a reason to
+kill them anymore.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -665,8 +703,10 @@ But it is at the same time. demon is no longer a
 > CONTEXT: Map118/events/14/pages/6/95/Dialogue/kazuya-3
 > CONTEXT: Map118/events/16/pages/6/95/Dialogue/kazuya-3
 > CONTEXT: Map118/events/17/pages/6/95/Dialogue/kazuya-3
-So, you are now pebbles of just disturbing feet.
-To kick a pebble, expressly you can't face it.#MTLed
+You all are now just annoying pebbles in my way.
+
+You don't need to look at pebbles when you kick
+them out of your way.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -675,8 +715,7 @@ To kick a pebble, expressly you can't face it.#MTLed
 > CONTEXT: Map118/events/14/pages/6/99/Dialogue/kazuya-3
 > CONTEXT: Map118/events/16/pages/6/99/Dialogue/kazuya-3
 > CONTEXT: Map118/events/17/pages/6/99/Dialogue/kazuya-3
-Take a walk around yourself...... just a pebble
-feeling.#MTLed
+Know your place... you worthless pebble.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -688,8 +727,10 @@ feeling.#MTLed
 > CONTEXT: Map118/events/14/pages/6/102/Dialogue/enemy12
 > CONTEXT: Map118/events/16/pages/6/102/Dialogue/enemy12
 > CONTEXT: Map118/events/17/pages/6/102/Dialogue/enemy12
-......................... so sorry……………
-\\N[1] is ............ not a bad person ...#MTLed
+....
+
+That's... too bad...
+\\N[1] isn't... supposed to be a bad person...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -700,6 +741,7 @@ feeling.#MTLed
 > CONTEXT: Map118/events/14/pages/6/107/Dialogue/enemy12
 > CONTEXT: Map118/events/16/pages/6/107/Dialogue/enemy12
 > CONTEXT: Map118/events/17/pages/6/107/Dialogue/enemy12
-Even good people ......... It should have been
-done .........#MTLed
+You should've been able...
+
+To be a good person...#Ron
 > END STRING

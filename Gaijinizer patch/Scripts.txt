@@ -1441,7 +1441,7 @@
 
 > BEGIN STRING
 "ゲーム内共有変数"
-> CONTEXT: Scripts/共通セーブ変数/69:6
+> CONTEXT: Scripts/共通セーブ変数/71:6
 "ゲーム内共有変数"#NoTL
 > END STRING
 
@@ -1705,7 +1705,7 @@
 > BEGIN STRING
 "前提未修得"
 > CONTEXT: Scripts/スキルツリー/1040:26
-"Prerequisite not acquired"#MTLed
+"Locked"#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -1747,7 +1747,7 @@
 > BEGIN STRING
 "スキルツリー情報"
 > CONTEXT: Scripts/スキルツリー/1224:57
-"Skill tree information"#MTLed
+"Skill Tree"#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -1763,7 +1763,7 @@
 > CONTEXT: Scripts/スキルツリー/1266:59
 > CONTEXT: Scripts/スキルツリー/1341:59
 > CONTEXT: Scripts/スキルツリー/1380:59
-"Skill information"#MTLed
+"Skill Information"#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -1775,25 +1775,25 @@
 > BEGIN STRING
 "命中タイプ"
 > CONTEXT: Scripts/スキルツリー/1288:59
-"Hit type"#MTLed
+"Skill Type"#TriketosLocalize
 > END STRING
 
 > BEGIN STRING
 "消費TP"
 > CONTEXT: Scripts/スキルツリー/1290:59
-"consumptionTP"#MTLed
+"TP Cost"#Triketos
 > END STRING
 
 > BEGIN STRING
 "消費MP"
 > CONTEXT: Scripts/スキルツリー/1291:59
-"consumptionMP"#MTLed
+"VT Cost"#TriketosLocalize
 > END STRING
 
 > BEGIN STRING
 "消費HP"
 > CONTEXT: Scripts/スキルツリー/1294:61
-"consumptionHP"#MTLed
+"HP Cost"#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -1805,37 +1805,37 @@
 > BEGIN STRING
 "属性"
 > CONTEXT: Scripts/スキルツリー/1298:59
-"attribute"#MTLed
+"Element"#Triketos
 > END STRING
 
 > BEGIN STRING
 "範囲"
 > CONTEXT: Scripts/スキルツリー/1299:59
-"range"#MTLed
+"Range"#Triketos
 > END STRING
 
 > BEGIN STRING
 "威力"
 > CONTEXT: Scripts/スキルツリー/1301:60
-"power"#MTLed
+"Power"#Triketos
 > END STRING
 
 > BEGIN STRING
 "タイプ"
 > CONTEXT: Scripts/スキルツリー/1302:84
-"type"#MTLed
+"Type"#Triketos
 > END STRING
 
 > BEGIN STRING
 "連続"
 > CONTEXT: Scripts/スキルツリー/1304:60
-"Continuous"#MTLed
+"Duration"#Triketos
 > END STRING
 
 > BEGIN STRING
 "成功率"
 > CONTEXT: Scripts/スキルツリー/1305:84
-"success rate"#MTLed
+"Success%"#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -1859,7 +1859,7 @@
 > BEGIN STRING
 "前提"
 > CONTEXT: Scripts/スキルツリー/1397:59
-"Premise"#MTLed
+"Pre-Req"#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -1871,13 +1871,13 @@
 > BEGIN STRING
 "前提無し"
 > CONTEXT: Scripts/スキルツリー/1426:71
-"No premise"#MTLed
+"No Prerequisite"#Triketos
 > END STRING
 
 > BEGIN STRING
 "無"
 > CONTEXT: Scripts/スキルツリー/1436:22
-"Nothing"#MTLed
+"N/A"#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -1889,7 +1889,7 @@
 > BEGIN STRING
 "敵全体"
 > CONTEXT: Scripts/スキルツリー/1438:22
-"Whole enemy"#MTLed
+"All Enemies"#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -1925,7 +1925,7 @@
 > BEGIN STRING
 "味方全体"
 > CONTEXT: Scripts/スキルツリー/1444:22
-"All friends"#MTLed
+"All Allies"#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -1943,13 +1943,13 @@
 > BEGIN STRING
 "本人"
 > CONTEXT: Scripts/スキルツリー/1447:23
-"Principal"#MTLed
+"Self"#TriketosLocalize
 > END STRING
 
 > BEGIN STRING
 "必中攻撃"
 > CONTEXT: Scripts/スキルツリー/1455:21
-"aim Attack"#MTLed
+"Self Buff"#TriketosLocalize
 > END STRING
 
 > BEGIN STRING
@@ -1967,7 +1967,7 @@
 > BEGIN STRING
 "ダメージ無"
 > CONTEXT: Scripts/スキルツリー/1472:21
-"No damage"#MTLed
+"Buff"#TriketosLocalize
 > END STRING
 
 > BEGIN STRING
@@ -2000,7 +2000,7 @@
 > BEGIN STRING
 "LR：表示切替("
 > CONTEXT: Scripts/スキルツリー/1561:85
-"LR：Display switching("#MTLed
+"L&R：Switch Display("#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -2372,7 +2372,7 @@
 > BEGIN STRING
 "所持制限"
 > CONTEXT: Scripts/アイテム個数制限/38:12
-"Carry Limit"#Dargoth
+"所持制限"#NoTL
 > END STRING
 
 > BEGIN STRING
@@ -2420,99 +2420,99 @@
 > BEGIN STRING
 "下キー"
 > CONTEXT: Scripts/アイテム預かり所/182:4
-"Down key"#MTLed
+"Down Key"#Triketos
 > END STRING
 
 > BEGIN STRING
 ":1個引き出す"
 > CONTEXT: Scripts/アイテム預かり所/182:10
-":1Pull out pieces"#MTLed
+":Take 1"#Triketos
 > END STRING
 
 > BEGIN STRING
 "上キー"
 > CONTEXT: Scripts/アイテム預かり所/183:4
-"Up key"#MTLed
+"Up Key"#Triketos
 > END STRING
 
 > BEGIN STRING
 ":1個預ける"
 > CONTEXT: Scripts/アイテム預かり所/183:10
-":1Deposit individual"#MTLed
+":Deposit 1"#Triketos
 > END STRING
 
 > BEGIN STRING
 "左キー"
 > CONTEXT: Scripts/アイテム預かり所/184:4
-"Left key"#MTLed
+"Left Key"#Triketos
 > END STRING
 
 > BEGIN STRING
 ":10個引き出す"
 > CONTEXT: Scripts/アイテム預かり所/184:10
-":10Pull out pieces"#MTLed
+":Take 10"#Triketos
 > END STRING
 
 > BEGIN STRING
 "右キー"
 > CONTEXT: Scripts/アイテム預かり所/185:4
-"Right key"#MTLed
+"Right Key"#Triketos
 > END STRING
 
 > BEGIN STRING
 ":10個預ける"
 > CONTEXT: Scripts/アイテム預かり所/185:10
-":10Deposit individual"#MTLed
+":Deposit 10"#Triketos
 > END STRING
 
 > BEGIN STRING
 "CTRLキー"
 > CONTEXT: Scripts/アイテム預かり所/186:4
-"CTRLKey"#MTLed
+"CTRL Key"#Triketos
 > END STRING
 
 > BEGIN STRING
 ":100個引き出す"
 > CONTEXT: Scripts/アイテム預かり所/186:13
-":100Pull out pieces"#MTLed
+":Take 100"#Triketos
 > END STRING
 
 > BEGIN STRING
 "SHIFTキー"
 > CONTEXT: Scripts/アイテム預かり所/187:4
-"SHIFTKey"#MTLed
+"SHIFT Key"#Triketos
 > END STRING
 
 > BEGIN STRING
 ":100個預ける"
 > CONTEXT: Scripts/アイテム預かり所/187:14
-":100Deposit individual"#MTLed
+":Deposit 100"#Triketos
 > END STRING
 
 > BEGIN STRING
 "所持"
 > CONTEXT: Scripts/アイテム預かり所/601:46
 > CONTEXT: Scripts/アイテム預かり所/789:52
-"Possession"#MTLed
+"Held"#Triketos
 > END STRING
 
 > BEGIN STRING
 "倉庫"
 > CONTEXT: Scripts/アイテム預かり所/607:46
 > CONTEXT: Scripts/アイテム預かり所/790:75
-"Warehouse"#MTLed
+"Box"#Triketos
 > END STRING
 
 > BEGIN STRING
 "必要素材"
-> CONTEXT: Scripts/アイテム合成/758:21
-"Required material"#MTLed
+> CONTEXT: Scripts/アイテム合成/769:21
+"Required Materials"#Triketos
 > END STRING
 
 > BEGIN STRING
 "Z: 素材 ⇔ ステータス 表示切り替え"
-> CONTEXT: Scripts/アイテム合成/893:12
-"Z: Material Moth status Display switching"#MTLed
+> CONTEXT: Scripts/アイテム合成/904:12
+"Z: Material ⇔ Status Switch Display"#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -2631,7 +2631,7 @@
 
 > BEGIN STRING
 "シンボルエンカウント補助"
-> CONTEXT: Scripts/シンボルエンカウント/180:6
+> CONTEXT: Scripts/シンボルエンカウント/210:6
 "シンボルエンカウント補助"#NoTL
 > END STRING
 

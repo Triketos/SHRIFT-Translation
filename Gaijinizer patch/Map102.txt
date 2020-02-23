@@ -8,9 +8,9 @@
 > CONTEXT: Map104/events/1/pages/0/1/Dialogue
 > CONTEXT: Map116/events/1/pages/0/1/Dialogue
 > CONTEXT: Map118/events/1/pages/0/1/Dialogue
-Waterway water circulation function:\\C[3] Normal operation
-\\C[0]A pump:\\C[3] \\V[151]\\C[2] \\V[152] \\C[0] B pump:\\C[3] \\V[153]\\C[2] \\V[154]
-\\C[0]C pump:\\C[3] \\V[155]\\C[2] \\V[156] \\C[0] D pump:\\C[3] \\V[157]\\C[2] \\V[158]#MTLed
+Waterway water Circulation Status:\\C[3] Normal
+\\C[0]Pump A:\\C[3] \\V[151]\\C[2] \\V[152] \\C[0] Pump B:\\C[3] \\V[153]\\C[2] \\V[154]
+\\C[0]Pump C:\\C[3] \\V[155]\\C[2] \\V[156] \\C[0] Pump D:\\C[3] \\V[157]\\C[2] \\V[158]#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -23,8 +23,8 @@ Waterway water circulation function:\\C[3] Normal operation
 > CONTEXT: Map116/events/1/pages/0/10/Dialogue
 > CONTEXT: Map118/events/1/pages/0/10/Dialogue
 Waterway water circulation function:\\C[2] Ground water level is
-being lowered. \\C[0]A pump:\\C[3] \\V[151]\\C[2] \\V[152] \\C[0] B pump:\\C[3] \\V[153]\\C[2] \\V[154]
-\\C[0]C pump:\\C[3] \\V[155]\\C[2] \\V[156] \\C[0] D pump:\\C[3] \\V[157]\\C[2] \\V[158]#MTLed
+being lowered. \\C[0]Pump A:\\C[3] \\V[151]\\C[2] \\V[152] \\C[0] Pump B:\\C[3] \\V[153]\\C[2] \\V[154]
+\\C[0]Pump C:\\C[3] \\V[155]\\C[2] \\V[156] \\C[0] Pump D:\\C[3] \\V[157]\\C[2] \\V[158]#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -36,15 +36,15 @@ being lowered. \\C[0]A pump:\\C[3] \\V[151]\\C[2] \\V[152] \\C[0] B pump:\\C[3] 
 > CONTEXT: Map104/events/1/pages/0/19/Dialogue
 > CONTEXT: Map116/events/1/pages/0/19/Dialogue
 > CONTEXT: Map118/events/1/pages/0/19/Dialogue
-Waterway water circulation function:\\C[18] In complete stop
-\\C[0]A pump:\\C[3] \\V[151]\\C[2] \\V[152] \\C[0] B pump:\\C[3] \\V[153]\\C[2] \\V[154]
-\\C[0]C pump:\\C[3] \\V[155]\\C[2] \\V[156] \\C[0] D pump:\\C[3] \\V[157]\\C[2] \\V[158]#MTLed
+Waterway water circulation function:\\C[18] Non-Functional
+\\C[0]Pump A:\\C[3] \\V[151]\\C[2] \\V[152] \\C[0] Pump B:\\C[3] \\V[153]\\C[2] \\V[154]
+\\C[0]Pump C:\\C[3] \\V[155]\\C[2] \\V[156] \\C[0] Pump D:\\C[3] \\V[157]\\C[2] \\V[158]#Triketos
 > END STRING
 
 > BEGIN STRING
 ポンプＣのステータス：\\C[3]正常に作動中
 > CONTEXT: Map102/events/4/pages/1/0/Dialogue
-Status of pump C:\\C[3] Normal operation#MTLed
+Status of Pump C:\\C[3] Normal#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -57,7 +57,7 @@ Status of pump C:\\C[3] Normal operation#MTLed
 > CONTEXT: Map116/events/4/pages/2/2/Choice/0
 > CONTEXT: Map118/events/4/pages/1/2/Choice/0
 > CONTEXT: Map118/events/4/pages/2/2/Choice/0
-Leave as it is#MTLed
+Leave as it is#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -66,7 +66,7 @@ Leave as it is#MTLed
 > CONTEXT: Map104/events/4/pages/1/2/Choice/1
 > CONTEXT: Map116/events/4/pages/1/2/Choice/1
 > CONTEXT: Map118/events/4/pages/1/2/Choice/1
-Turn off#MTLed
+Turn off#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -75,7 +75,7 @@ Turn off#MTLed
 > CONTEXT: Map104/events/4/pages/1/10/Dialogue
 > CONTEXT: Map116/events/4/pages/1/10/Dialogue
 > CONTEXT: Map118/events/4/pages/1/10/Dialogue
-............ It seems that the water suction stopped.#MTLed
+The pump seems to have stopped.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -88,13 +88,13 @@ Turn off#MTLed
 > CONTEXT: Map105/events/10/pages/6/8/InlineScript/1:24
 > CONTEXT: Map116/events/4/pages/1/15/InlineScript/1:24
 > CONTEXT: Map118/events/4/pages/1/15/InlineScript/1:24
-"Stopped"#MTLed
+"Stopped"#Triketos
 > END STRING
 
 > BEGIN STRING
 ポンプＣのステータス：\\C[2]稼働停止中
 > CONTEXT: Map102/events/4/pages/2/0/Dialogue
-Status of pump C:\\C[2] Out of service#MTLed
+Status of Pump C:\\C[2] Shut Down#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -103,7 +103,7 @@ Status of pump C:\\C[2] Out of service#MTLed
 > CONTEXT: Map104/events/4/pages/2/2/Choice/1
 > CONTEXT: Map116/events/4/pages/2/2/Choice/1
 > CONTEXT: Map118/events/4/pages/2/2/Choice/1
-turn on#MTLed
+Turn on#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -126,14 +126,14 @@ resumed.#MTLed
 > CONTEXT: Map104/events/4/pages/2/14/InlineScript/1:24
 > CONTEXT: Map116/events/4/pages/2/14/InlineScript/1:24
 > CONTEXT: Map118/events/4/pages/2/14/InlineScript/1:24
-"In operation"#MTLed
+"Normal"#Triketos
 > END STRING
 
 > BEGIN STRING
 
 　　　　　　水路管理者のメモ３
 > CONTEXT: Map102/events/3/pages/1/2/Dialogue
-Waterway manager's note 3#MTLed
+Waterway Manager's Note 3#Ron
 > END STRING
 
 > BEGIN STRING
@@ -141,7 +141,9 @@ Waterway manager's note 3#MTLed
 
  彼女の『正体』を
 > CONTEXT: Map102/events/3/pages/1/6/Dialogue
-I saw it. Her "identity"#MTLed
+I saw it.
+
+Her true form.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -149,8 +151,8 @@ I saw it. Her "identity"#MTLed
 
 人間をあの部分で完全に覆ってしまう。
 > CONTEXT: Map102/events/3/pages/1/11/Dialogue
-The lower body, like a mermaid, is really like a slug
-It completely covers human beings in that part.#MTLed
+Her mermaid-like lower half is actually more like a slug,
+and she uses it to completely engulf humans.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -158,8 +160,8 @@ It completely covers human beings in that part.#MTLed
 
 俺は彼女が人喰いだと思い、怖くなって逃げ出した、
 > CONTEXT: Map102/events/3/pages/1/16/Dialogue
-Seeing the park manager is swallowed by her
-I thought she was jealous, and I got scared and ran away,#MTLed
+I saw her engulf the park manager and thought she'd
+turned into a man-eater, so I got scared and ran off.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -168,9 +170,9 @@ I thought she was jealous, and I got scared and ran away,#MTLed
 昨日喰われたと思っていた公園の管理人は、
  何事もなかったように俺の前に現れた。
 > CONTEXT: Map102/events/3/pages/1/21/Dialogue
-But next day ... The manager of the park that I thought was
-captured yesterday. It appeared in front of me as if
-nothing happened.#MTLed
+But the next day... That park manager I thought had been
+eaten the previous day appeared alive and well, like
+nothing had happened.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -179,9 +181,9 @@ nothing happened.#MTLed
 
 引き続きこの水路の管理を任せたいと言ってきたのだ！
 > CONTEXT: Map102/events/3/pages/1/27/Dialogue
-What's more frightening is. I apologize for the doubts that
-he had made me doubtless as if nothing happened
-I have been told to leave the management of this waterway!#MTLed
+What's more frightening is he apologized to me for being
+suspicious, like nothing had happened. And then he said he
+wanted to take charge of the waterways from now on!#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -190,9 +192,9 @@ I have been told to leave the management of this waterway!#MTLed
 
  彼女にはそういう『能力』があるのか？
 > CONTEXT: Map102/events/3/pages/1/33/Dialogue
-Is that manager another person?Is it fake?
-Or did you rewrite your mind? Does she have that kind of
-ability?#MTLed
+Is that manager a different person? An imposter?
+Or has something rewritten his mind? Does she have that
+kind of ability?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -201,8 +203,9 @@ ability?#MTLed
 
 心当たりがないわけではない………。
 > CONTEXT: Map102/events/3/pages/1/39/Dialogue
-Maybe ... Am I already "rewritten" ...? 
-It is not that I have no idea .....#MTLed
+Could it be...
+Was I also "rewritten"...?
+I have no idea...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -211,10 +214,10 @@ It is not that I have no idea .....#MTLed
  見た目も声も、話し方もまったく同じなはずなのに
 一目見ただけで、彼女が分かるのだ……。
 > CONTEXT: Map102/events/3/pages/1/45/Dialogue
-For example, among her who is more than one, I am not lost
-I can distinguish her from 'Original'. The look, the voice
-and the way of speaking should be exactly the same
-I can see her at first glance ....#MTLed
+For example, among all the many in there now, I can tell
+which one is the original. Even though they all look,
+talk, and sound the same, I can tell at a glance which
+one is her...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -223,7 +226,6 @@ I can see her at first glance ....#MTLed
 
 なぜ俺は今、彼女たちを『怖い』と思っているんだ…？
 > CONTEXT: Map102/events/3/pages/1/51/Dialogue
-But if it were ......... If she was "rewritten"
-conveniently for her ... Why am I thinking of them as
-'scared' now ...?#MTLed
+But if that's the case... If I was rewritten to suit her
+purposes... Why am I still able to be scared of them?#Ron
 > END STRING
