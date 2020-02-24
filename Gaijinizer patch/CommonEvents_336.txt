@@ -237,7 +237,9 @@ up stuff like that...!!! )#Ron
 
 ボク、きみが言いたいことはわかるんだよね……
 > CONTEXT: CommonEvents_336/104/Dialogue/enemy11
-\\N[1]-kun...I know what you want to say ...#MTLed
+\\N[1]-kun...
+
+I know what you're trying to say...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -245,8 +247,9 @@ up stuff like that...!!! )#Ron
 
  今後なるかどうかもわからない
 > CONTEXT: CommonEvents_336/109/Dialogue/enemy11
-But\\C[2] You are not yet "three legs".
-I don't know if it will come#MTLed
+But \\C[2] you aren't that old yet.
+
+Maybe that day will come.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -255,15 +258,15 @@ I don't know if it will come#MTLed
 君の言いたいことも、まぁ分かるから…………
 さっきの回答はノーカンにしといてあげる。
 > CONTEXT: CommonEvents_336/113/Dialogue/enemy9
-It's definitely not correct, though
-I know what you want to say, too.........
-The previous answer is Nokan.#MTLed
+It's definitely not correct but since I know what
+you were trying to say, I won't count that last
+answer against you.#Ron
 > END STRING
 
 > BEGIN STRING
 ひ…………ひ●！！
 > CONTEXT: CommonEvents_336/120/Dialogue/kazuya-0
-HI ......... HI ●!!#MTLed
+Pe... Pe●!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -272,9 +275,8 @@ HI ......... HI ●!!#MTLed
 \\N[1]くんならそー来ると思ったから
 \\C[2]すでに別回答も吸いとり済みなのだー！！
 > CONTEXT: CommonEvents_336/124/Dialogue/enemy11
-Bwa ha hah! Because I thought that \\N[1]-kun
-would come. \\C[2]I have already absorbed another
-answer too!!#MTLed
+Bwahahah! I thought you might try that approach.
+\\C[2]So I've already absorbed another answer!!#CheckLater
 > END STRING
 
 > BEGIN STRING
@@ -282,9 +284,9 @@ answer too!!#MTLed
 
 言語を変えても同じ結果なのだー！
 > CONTEXT: CommonEvents_336/129/Dialogue/enemy11
-\\C[2]So no matter how you say it, it's no use!!
-It is the same result even if I change the
-language!#MTLed
+\\C[2]So it's no use no matter how you try to say it!!
+Even if I changed the language it'll still end
+up the same!#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -293,5 +295,5 @@ language!#MTLed
 > CONTEXT: CommonEvents_520/96/Dialogue/kazuya-0
 > CONTEXT: CommonEvents_575/71/Dialogue/kazuya-0
 > CONTEXT: Map037/events/4/pages/2/190/Dialogue/kazuya-3
-nghuh......!!!#MTLed
+Gugh...!!#Ron
 > END STRING
