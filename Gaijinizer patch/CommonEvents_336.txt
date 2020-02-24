@@ -83,9 +83,9 @@ Answer "I"#Ron
 > END STRING
 
 > BEGIN STRING
-『ひ●』とこたえる
+ほかのいいかたをする
 > CONTEXT: CommonEvents_336/28/Choice/3
-Answer "Pers●"#Ron
+Say another way#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -140,6 +140,7 @@ That's not an answer, then...#Ron
 > BEGIN STRING
 ぐっ……！！
 > CONTEXT: CommonEvents_336/51/Dialogue/kazuya-0
+> CONTEXT: CommonEvents_648/83/Dialogue/kazuya-0
 > CONTEXT: Map158/events/9/pages/0/124/Dialogue/kazuya
 > CONTEXT: Map225/events/1/pages/0/79/Dialogue/kazuya-1
 Guh...!!#Ron
