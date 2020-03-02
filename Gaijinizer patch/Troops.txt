@@ -6690,23 +6690,25 @@ Sphinx (Normal)#MTLed
 
 \\C[2]選択肢は４つ用意するから、その中から選んでね！！
 > CONTEXT: Troops/150/pages/1/12/Dialogue/enemy11
-Come on!!Well then first question!!Let's go!
-! \\C[2]There are 4 options available, so choose from
-them! !#MTLed
+Here's question number one!! Let's go!!
+
+\\C[2]Choose from one of the following four
+answers!#Ron
 > END STRING
 
 > BEGIN STRING
 問題！！
 \\C[2]「よんでもよんでも、返事をしないものはなぁに？」
 > CONTEXT: Troops/150/pages/1/19/Dialogue/enemy11
-problem!!\\C[2]「If you don't reply, what do you do?」#MTLed
+Question!! \\C[2]"What doesn't give you an answer
+no matter how many times you read it?"#Ron
 > END STRING
 
 > BEGIN STRING
 （………本当になぞなぞのレベルが一気に落ちた…
 > CONTEXT: Troops/150/pages/1/22/Dialogue/kazuya
-(......... The level of riddle really fell at a
-stretch ...#MTLed
+(...The quality of these riddles has really
+declined...)#Ron
 > END STRING
 
 > BEGIN STRING
@@ -6714,8 +6716,8 @@ stretch ...#MTLed
 
 この悪魔のナゾナゾに答えなければならないようだ…
 > CONTEXT: Troops/150/pages/1/24/Dialogue
-Apparently, to go ahead. It seems that you have to answer
-this demon riddle ...#MTLed
+It seems I have to answer this riddle if I want to
+proceed...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -6723,14 +6725,15 @@ this demon riddle ...#MTLed
 
 さっさとナゾナゾに答えて、先に進んでしまおう……
 > CONTEXT: Troops/150/pages/1/28/Dialogue
-However, I felt that I did not see the intelligence so high
-... Answer riddle right away and let's move on ...#MTLed
+But this riddle doesn't seem that clever...
+
+Let's quickly answer this one and move on...#Ron
 > END STRING
 
 > BEGIN STRING
 じー･･････････････････････…
 > CONTEXT: Troops/150/pages/1/32/Dialogue/enemy11
-Ji ······················#MTLed
+*staaaaaaaaaare*#Ron
 > END STRING
 
 > BEGIN STRING
@@ -6738,7 +6741,7 @@ Ji ······················#MTLed
 
 それじゃあ、答えは……
 > CONTEXT: Troops/150/pages/1/34/Dialogue/kazuya
-... well, enough, Well then the answer is ...#MTLed
+...W-Well whatever, here's my answer...#Ron
 > END STRING
 
 > BEGIN STRING

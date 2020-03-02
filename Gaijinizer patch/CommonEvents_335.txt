@@ -2,193 +2,193 @@
 > BEGIN STRING
 まかいにある
 > CONTEXT: CommonEvents_335/44/Choice/0
-It is serious#MTLed
+In the demon realm#Ron
 > END STRING
 
 > BEGIN STRING
 げいのうかいにある
 > CONTEXT: CommonEvents_335/44/Choice/1
-It's in#MTLed
+In the showbiz world#Ron
 > END STRING
 
 > BEGIN STRING
 にんげんかいにある
 > CONTEXT: CommonEvents_335/44/Choice/2
-It's in Japan#MTLed
+In the human realm#Ron
 > END STRING
 
 > BEGIN STRING
 のうないにある
 > CONTEXT: CommonEvents_335/44/Choice/3
-There is no#MTLed
+In the brain#Ron
 > END STRING
 
 > BEGIN STRING
 "まかいにある"
 > CONTEXT: CommonEvents_335/46/InlineScript/1:23
-"It is serious"#MTLed
+"In the demon realm"#Ron
 > END STRING
 
 > BEGIN STRING
 "げいのうかいにある"
 > CONTEXT: CommonEvents_335/50/InlineScript/1:23
-"It's in"#MTLed
+"In the showbiz world"#Ron
 > END STRING
 
 > BEGIN STRING
 "にんげんかいにある"
 > CONTEXT: CommonEvents_335/54/InlineScript/1:23
-"It's in Japan"#MTLed
+"In the human realm"#Ron
 > END STRING
 
 > BEGIN STRING
 "のうないにある"
 > CONTEXT: CommonEvents_335/58/InlineScript/1:23
-"There is no"#MTLed
+"In the brain"#Ron
 > END STRING
 
 > BEGIN STRING
 はなのなかで
 > CONTEXT: CommonEvents_335/68/Choice/0
-In \\N[2]#MTLed
+what plants have#Ron
 > END STRING
 
 > BEGIN STRING
 はかのなかで
 > CONTEXT: CommonEvents_335/68/Choice/1
-In the middle#MTLed
+what graves have#Ron
 > END STRING
 
 > BEGIN STRING
 あなのなかで
 > CONTEXT: CommonEvents_335/68/Choice/2
-In your life#MTLed
+what holds have#Ron
 > END STRING
 
 > BEGIN STRING
 いどのなかで
 > CONTEXT: CommonEvents_335/68/Choice/3
-In the middle of nowhere#MTLed
+what wells have#Ron
 > END STRING
 
 > BEGIN STRING
 "はなのなかで"
 > CONTEXT: CommonEvents_335/70/InlineScript/1:23
-"In \\N[2]"#MTLed
+"what plants have"#Ron
 > END STRING
 
 > BEGIN STRING
 "はかのなかで"
 > CONTEXT: CommonEvents_335/74/InlineScript/1:23
-"In the middle"#MTLed
+"what graves have"#Ron
 > END STRING
 
 > BEGIN STRING
 "あなのなかで"
 > CONTEXT: CommonEvents_335/78/InlineScript/1:23
-"In your life"#MTLed
+"what holes have"#Ron
 > END STRING
 
 > BEGIN STRING
 "いどのなかで"
 > CONTEXT: CommonEvents_335/82/InlineScript/1:23
-"In the middle of nowhere"#MTLed
+"what wells have"#Ron
 > END STRING
 
 > BEGIN STRING
 はなに
 > CONTEXT: CommonEvents_335/93/Choice/0
-What#MTLed
+thorns#Ron
 > END STRING
 
 > BEGIN STRING
 ゆびに
 > CONTEXT: CommonEvents_335/93/Choice/1
-To the next#MTLed
+fingers#Ron
 > END STRING
 
 > BEGIN STRING
 くちに
 > CONTEXT: CommonEvents_335/93/Choice/2
-To the mouth#MTLed
+mouths#Ron
 > END STRING
 
 > BEGIN STRING
 みみに
 > CONTEXT: CommonEvents_335/93/Choice/3
-Mimi#MTLed
+ears#Ron
 > END STRING
 
 > BEGIN STRING
 "はなに"
 > CONTEXT: CommonEvents_335/95/InlineScript/1:23
-"What"#MTLed
+"thorns"#Ron
 > END STRING
 
 > BEGIN STRING
 "ゆびに"
 > CONTEXT: CommonEvents_335/99/InlineScript/1:23
-"To the next"#MTLed
+"fingers"#Ron
 > END STRING
 
 > BEGIN STRING
 "くちに"
 > CONTEXT: CommonEvents_335/103/InlineScript/1:23
-"To the mouth"#MTLed
+"mouths"#Ron
 > END STRING
 
 > BEGIN STRING
 "みみに"
 > CONTEXT: CommonEvents_335/107/InlineScript/1:23
-"Mimi"#MTLed
+"ears"#Ron
 > END STRING
 
 > BEGIN STRING
 しみがあるのは？
 > CONTEXT: CommonEvents_335/119/Choice/0
-Is there a stain?#MTLed
+on their stems?#Ron
 > END STRING
 
 > BEGIN STRING
 ぼうがあるのは？
 > CONTEXT: CommonEvents_335/119/Choice/1
-Is there a burdock?#MTLed
+on their poles?#Ron
 > END STRING
 
 > BEGIN STRING
 あわがあるのは？
 > CONTEXT: CommonEvents_335/119/Choice/2
-What's up there?#MTLed
+on their froth?#Ron
 > END STRING
 
 > BEGIN STRING
 とげがあるのは？
 > CONTEXT: CommonEvents_335/119/Choice/3
-Do you have thorns?#MTLed
+on their flowers?#Ron
 > END STRING
 
 > BEGIN STRING
 "しみがあるのは？"
 > CONTEXT: CommonEvents_335/121/InlineScript/1:23
-"Is there a stain?"#MTLed
+"on their stems?"#Ron
 > END STRING
 
 > BEGIN STRING
 "ぼうがあるのは？"
 > CONTEXT: CommonEvents_335/125/InlineScript/1:23
-"Is there a burdock?"#MTLed
+"on their poles?"#Ron
 > END STRING
 
 > BEGIN STRING
 "あわがあるのは？"
 > CONTEXT: CommonEvents_335/129/InlineScript/1:23
-"What's up there?"#MTLed
+"on their froth?"#Ron
 > END STRING
 
 > BEGIN STRING
 "とげがあるのは？"
 > CONTEXT: CommonEvents_335/133/InlineScript/1:23
-"Do you have thorns?"#MTLed
+"on their flowers?"#Ron
 > END STRING
 
 > BEGIN STRING
@@ -196,8 +196,9 @@ Do you have thorns?#MTLed
 
 「花」にトゲがある植物なんて存在しない。
 > CONTEXT: CommonEvents_335/165/Dialogue/yuuma
-\\C[2]Among plants, it is thorn「Stem」It is.
-「flower」There is no plant with thorns.#MTLed
+\\C[2]There are plants that have thorns on their
+stems, but there's no such thing as a plant with
+thorns on its flowers.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -205,6 +206,7 @@ Do you have thorns?#MTLed
 
 答えは「なし」だ！
 > CONTEXT: CommonEvents_335/173/Dialogue/yuuma
-\\C[2]This is a hack problem, \\N[1].
-The answer is「None」It is!#MTLed
+\\C[2]It's a trick question, \\N[1].
+
+The answer is "None"!#Ron
 > END STRING

@@ -4,13 +4,15 @@
 
 に■げん……！！
 > CONTEXT: CommonEvents_336/0/Dialogue/kazuya-0
-To ......... ■ ■.........! !#MTLed
+P-...
+
+P■■s■n...!!#Ron
 > END STRING
 
 > BEGIN STRING
 あ、あれ……！？
 > CONTEXT: CommonEvents_336/4/Dialogue/kazuya-0
-Oh yeah ...! ?#MTLed
+W-Wha...?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -19,9 +21,10 @@ Oh yeah ...! ?#MTLed
 文字自体を忘れたワケじゃないのに
 \\C[2]『答えの言い方を忘れた』気分はどんなかんじ？
 > CONTEXT: CommonEvents_336/6/Dialogue/enemy11
-Hihihi ...... I'm not forgetting the letters
-themselves. \\C[2]'I forgot to say the answer' How do
-you feel?#MTLed
+Fufufu...
+
+Though you haven't forgotten the answers, how
+does it feel \\C[2]to forget how to say them?#Ron/Triketos
 > END STRING
 
 > BEGIN STRING
@@ -30,15 +33,15 @@ you feel?#MTLed
 \\C[2]正解をボクに提示できない限り
 ピンポーン♪は鳴らないからね？
 > CONTEXT: CommonEvents_336/11/Dialogue/enemy9
-I think I understand, but. \\C[2]Unless you can present
-the correct answer to me. Ping pong♪It won't
-sound, right?#MTLed
+I think you know this already, but \\C[2]unless you
+can say the correct answer to me, that correct
+answer "ding" won't ring out.#Ron/Triketos
 > END STRING
 
 > BEGIN STRING
 うううっ………！！
 > CONTEXT: CommonEvents_336/16/Dialogue/kazuya-0
-uuugh.........! !#MTLed
+Uuuugh...!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -46,7 +49,9 @@ uuugh.........! !#MTLed
 
 こたえはわかっているのに………！！
 > CONTEXT: CommonEvents_336/18/Dialogue
-After a while......!!I know the answer......! !#MTLed
+I just need a little time...!!
+
+I know the answer...!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -54,32 +59,33 @@ After a while......!!I know the answer......! !#MTLed
 
 \\C[2]こたえをあいてにつたえる、『べつのほうほう』が…！
 > CONTEXT: CommonEvents_336/24/Dialogue
-There should be something ......... \\C[2]"The other side of the
-world" who will answer the questions ...!#MTLed
+There should be a way...
+\\C[2]There should be a way to communicate my answer
+to her...!#Ron
 > END STRING
 
 > BEGIN STRING
 ゆっくりこたえる
 > CONTEXT: CommonEvents_336/28/Choice/0
-Respond slowly#MTLed
+Answer slowly#Ron
 > END STRING
 
 > BEGIN STRING
 『ばんごう』でこたえる
 > CONTEXT: CommonEvents_336/28/Choice/1
-Answer with "Bungo"#MTLed
+Answer using numbers#Ron
 > END STRING
 
 > BEGIN STRING
 『ぼく』とこたえる
 > CONTEXT: CommonEvents_336/28/Choice/2
-Answer "I"#MTLed
+Answer "I"#Ron
 > END STRING
 
 > BEGIN STRING
-『ひ●』とこたえる
+ほかのいいかたをする
 > CONTEXT: CommonEvents_336/28/Choice/3
-Answer "Hi ●"#MTLed
+Say another way#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -87,8 +93,9 @@ Answer "Hi ●"#MTLed
 
 げ………ん………！！
 > CONTEXT: CommonEvents_336/30/Dialogue/kazuya-0
-To .....................................
-... ...... ...... ......! !#MTLed
+Pe........■.....
+
+s.......on.......!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -96,8 +103,8 @@ To .....................................
 
 に………………………■……………！？
 > CONTEXT: CommonEvents_336/34/Dialogue/kazuya-0
-.........! ? In
-.........................................! ?#MTLed
+.........?!
+Per............■..............?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -106,8 +113,9 @@ To .....................................
 \\C[2]ボクの用意した答えの『単語』の言い方は、
  絶対に思い出せない。
 > CONTEXT: CommonEvents_336/38/Dialogue/enemy11
-Is it useless? \\C[2]How to say "word" of the answer
-that I prepared. I will never remember.#MTLed
+Can't do it, right? \\C[2]You absolutely can't remember
+how to say the word you've got rattling around in
+there.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -115,8 +123,8 @@ that I prepared. I will never remember.#MTLed
 
 それはもう『答え』じゃない……
 > CONTEXT: CommonEvents_336/43/Dialogue/enemy11
-If not recognized as "word". It's not an "answer"
-anymore ...#MTLed
+Having said that, if I can't make out the word,
+it doesn't count as an answer...#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -124,16 +132,18 @@ anymore ...#MTLed
 
 それじゃあ、答えになってないなぁ。
 > CONTEXT: CommonEvents_336/47/Dialogue/enemy11
-It was a pity, \\N[1]-kun...
-Well then, it's not an answer.#MTLed
+What a shame, \\N[1]-kun...
+
+That's not an answer, then...#Ron
 > END STRING
 
 > BEGIN STRING
 ぐっ……！！
 > CONTEXT: CommonEvents_336/51/Dialogue/kazuya-0
+> CONTEXT: CommonEvents_648/83/Dialogue/kazuya-0
 > CONTEXT: Map158/events/9/pages/0/124/Dialogue/kazuya
 > CONTEXT: Map225/events/1/pages/0/79/Dialogue/kazuya-1
-Good ......! !#MTLed
+Guh...!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -141,8 +151,9 @@ Good ......! !#MTLed
 
  『こたえ』にばんごうをつけてくれ！！
 > CONTEXT: CommonEvents_336/55/Dialogue/kazuya-0
-Let's go!!Please give me a response to the
-"answer"! !#MTLed
+N-Numbers!!
+
+Please put numbers next to each possible answer!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -150,8 +161,8 @@ Let's go!!Please give me a response to the
 
 \\C[2]『よっつのせんたくしのなかから』といった……！
 > CONTEXT: CommonEvents_336/61/Dialogue/kazuya-0
-Before you do the riddle. \\C[2]"From the inside of
-another"......!#MTLed
+Before you started this riddle match, \\C[2]you said I
+could choose from four options!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -160,8 +171,10 @@ another"......!#MTLed
 \\C[2]きみはたしかに、よっつのこたえを
  ぼくのまえにならべているんだ……！！
 > CONTEXT: CommonEvents_336/65/Dialogue/kazuya-0
-I do not see it...but...\\C[2]Surely, you respond
-to. I'm in front of me ...! !#MTLed
+I can't see them... but...
+
+\\C[2]I'm sure you said you'd put four options in
+front of me!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -169,7 +182,9 @@ to. I'm in front of me ...! !#MTLed
 
 しまった……！！ボク、それ言ってた…！？
 > CONTEXT: CommonEvents_336/70/Dialogue/enemy11
-.........!!! Oops……!!I said that ...! ?#MTLed
+.........!!!
+
+Whoops...!! Did I say that...?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -177,8 +192,9 @@ to. I'm in front of me ...! !#MTLed
 
 \\C[2]『せんたくし』に、ばんごうをつけるんだ！！
 > CONTEXT: CommonEvents_336/74/Dialogue/kazuya-0
-Well, I can not say "No" ...! !
-\\C[2]I'm going to put some money on "Sentakushi"! !#MTLed
+Come on, I won't let you refuse...!
+
+\\C[2]Put numbers next to each option!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -187,15 +203,16 @@ Well, I can not say "No" ...! !
 \\C[2]ぼくはそれからせいかいを『ふくしょう』すれば
  それが『せいかい』になる……！！！
 > CONTEXT: CommonEvents_336/78/Dialogue/kazuya-0
-Or does it mean that you say "sendaku" now?
-\\C[2]If I "do" from then on, I will
-That would be the "good" ...!!!#MTLed
+Or are you not going to tell me my options?
+
+\\C[2]Then I'll just say each one until I get the
+right answer...!!!#Ron/Triketos
 > END STRING
 
 > BEGIN STRING
 う、うぐぐ……！！
 > CONTEXT: CommonEvents_336/83/Dialogue/enemy12
-Ugh, ugh...!#MTLed
+Ugh, uughh...!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -204,16 +221,16 @@ Ugh, ugh...!#MTLed
 　もうそんなこと思い付かないくらいには
 　知識は吸ってるはずなのに……！！！）
 > CONTEXT: CommonEvents_336/85/Dialogue/enemy12
-(What's ......... \\N[1]-kun ...
-I can not think of that anymore
-Knowledge should be sucking ...!!! )#MTLed
+(What's with this guy... I should've sucked out
+enough knowledge so he wouldn't be able to think
+up stuff like that...!!! )#Ron
 > END STRING
 
 > BEGIN STRING
 
 問題の選択肢に、\\C[2]番号が付与された！！
 > CONTEXT: CommonEvents_336/90/Dialogue
-In the choice of the problem,\\C[2] A number has been assigned! !#MTLed
+\\C[2]Numbers have now been assigned to each option!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -221,7 +238,9 @@ In the choice of the problem,\\C[2] A number has been assigned! !#MTLed
 
 ボク、きみが言いたいことはわかるんだよね……
 > CONTEXT: CommonEvents_336/104/Dialogue/enemy11
-\\N[1]-kun...I know what you want to say ...#MTLed
+\\N[1]-kun...
+
+I know what you're trying to say...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -229,8 +248,9 @@ In the choice of the problem,\\C[2] A number has been assigned! !#MTLed
 
  今後なるかどうかもわからない
 > CONTEXT: CommonEvents_336/109/Dialogue/enemy11
-But\\C[2] You are not yet "three legs".
-I don't know if it will come#MTLed
+But \\C[2]you aren't that old yet.
+
+Maybe that day will come.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -239,15 +259,15 @@ I don't know if it will come#MTLed
 君の言いたいことも、まぁ分かるから…………
 さっきの回答はノーカンにしといてあげる。
 > CONTEXT: CommonEvents_336/113/Dialogue/enemy9
-It's definitely not correct, though
-I know what you want to say, too.........
-The previous answer is Nokan.#MTLed
+It's definitely not correct, but since I know
+what you were trying to say, I won't count that
+last answer against you.#Ron
 > END STRING
 
 > BEGIN STRING
 ひ…………ひ●！！
 > CONTEXT: CommonEvents_336/120/Dialogue/kazuya-0
-HI ......... HI ●!!#MTLed
+Pe... Pe●!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -256,9 +276,8 @@ HI ......... HI ●!!#MTLed
 \\N[1]くんならそー来ると思ったから
 \\C[2]すでに別回答も吸いとり済みなのだー！！
 > CONTEXT: CommonEvents_336/124/Dialogue/enemy11
-Bwa ha hah! Because I thought that \\N[1]-kun
-would come. \\C[2]I have already absorbed another
-answer too!!#MTLed
+Bwahahah! I thought you might try that approach.
+\\C[2]So I've already absorbed another answer!!#CheckLater
 > END STRING
 
 > BEGIN STRING
@@ -266,9 +285,9 @@ answer too!!#MTLed
 
 言語を変えても同じ結果なのだー！
 > CONTEXT: CommonEvents_336/129/Dialogue/enemy11
-\\C[2]So no matter how you say it, it's no use!!
-It is the same result even if I change the
-language!#MTLed
+\\C[2]There's no difference no matter how you try to
+say it!! Even if you change the way the way you
+answer it'll still be the same!#Ron/Triketos
 > END STRING
 
 > BEGIN STRING
@@ -277,5 +296,5 @@ language!#MTLed
 > CONTEXT: CommonEvents_520/96/Dialogue/kazuya-0
 > CONTEXT: CommonEvents_575/71/Dialogue/kazuya-0
 > CONTEXT: Map037/events/4/pages/2/190/Dialogue/kazuya-3
-nghuh......!!!#MTLed
+Gugh...!!#Ron
 > END STRING
