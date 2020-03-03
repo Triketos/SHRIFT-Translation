@@ -6,8 +6,10 @@
 > CONTEXT: CommonEvents_324/16/Dialogue/enemy11
 > CONTEXT: CommonEvents_335/1/Dialogue/enemy11
 > CONTEXT: CommonEvents_341/1/Dialogue/enemy11
-Phone-A-Friend? Well then, let's connect to your
-best friend Yuuma!#MTLed
+You want to use Phone-A-Friend?
+
+Okay, let's connect you to your best friend,
+Yuuma!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -15,7 +17,7 @@ best friend Yuuma!#MTLed
 > CONTEXT: CommonEvents_324/20/Dialogue/yuuma
 > CONTEXT: CommonEvents_335/5/Dialogue/yuuma
 > CONTEXT: CommonEvents_341/5/Dialogue/yuuma
-............ you can always go here.#MTLed
+...You can always count on me.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -25,8 +27,8 @@ best friend Yuuma!#MTLed
 > CONTEXT: CommonEvents_324/22/Dialogue/enemy11
 > CONTEXT: CommonEvents_335/7/Dialogue/enemy11
 > CONTEXT: CommonEvents_341/7/Dialogue/enemy11
-Well, \\N[1]-kun. \\C[2]Tell the problem exactly in the
-time limit, right?#MTLed
+Okay \\N[1]-kun, \\C[2]repeat the question back
+within the time limit.#Ron/Triketos
 > END STRING
 
 > BEGIN STRING
@@ -36,8 +38,9 @@ time limit, right?#MTLed
 > CONTEXT: CommonEvents_324/26/Dialogue/enemy11
 > CONTEXT: CommonEvents_335/11/Dialogue/enemy11
 > CONTEXT: CommonEvents_341/11/Dialogue/enemy11
-If you can not communicate well,
-Even a simple riddle, you may not understand?#MTLed
+If you can't properly communicate the question,
+he won't be able to help, even if it's a really
+simple riddle.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -45,7 +48,7 @@ Even a simple riddle, you may not understand?#MTLed
 > CONTEXT: CommonEvents_324/30/Dialogue/enemy11
 > CONTEXT: CommonEvents_335/15/Dialogue/enemy11
 > CONTEXT: CommonEvents_341/15/Dialogue/enemy11
-Well then, start! !#MTLed
+Okay, BEGIN!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -54,8 +57,10 @@ Well then, start! !#MTLed
 早く問題を言え！！時間がないぞ！！
 > CONTEXT: CommonEvents_324/42/Dialogue/yuuma
 > CONTEXT: CommonEvents_335/27/Dialogue/yuuma
-\\N[1], what's wrong! ? Say the problem fast!!I
-have no time! !#MTLed
+What's wrong, \\N[1]?!
+
+Tell me the question. quickly!! We don't have
+time!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -69,213 +74,213 @@ Oh...... Uh...... ...#MTLed
 \\N[1]は、\\C[2]問題の読み方を忘れてしまった……
 > CONTEXT: CommonEvents_324/48/Dialogue
 > CONTEXT: CommonEvents_335/33/Dialogue
-\\N[1] is\\C[2] I forgot to read the problem ...#MTLed
+\\N[1] \\C[2]forgot how to read the question...#Ron
 > END STRING
 
 > BEGIN STRING
 え…えっと…
 > CONTEXT: CommonEvents_324/53/Dialogue/kazuya-0
 > CONTEXT: CommonEvents_335/42/Dialogue/kazuya-0
-Let me see…#MTLed
+L-Let me see…#Ron
 > END STRING
 
 > BEGIN STRING
 うってもうっても
 > CONTEXT: CommonEvents_324/55/Choice/0
-By the way#MTLed
+What doesn't bark back at you#Ron
 > END STRING
 
 > BEGIN STRING
 よんでもよんでも
 > CONTEXT: CommonEvents_324/55/Choice/1
-Even if you read#MTLed
+What doesn't give you an answer#Ron
 > END STRING
 
 > BEGIN STRING
 はってもはっても
 > CONTEXT: CommonEvents_324/55/Choice/2
-Even if it is#MTLed
+What doesn't shout at you#Ron
 > END STRING
 
 > BEGIN STRING
 みてもみても
 > CONTEXT: CommonEvents_324/55/Choice/3
-Even if#MTLed
+What doesn't look at you#Ron
 > END STRING
 
 > BEGIN STRING
 "うってもうっても"
 > CONTEXT: CommonEvents_324/57/InlineScript/1:23
-"By the way"#MTLed
+"What doesn't bark back at you"#Ron
 > END STRING
 
 > BEGIN STRING
 "よんでもよんでも"
 > CONTEXT: CommonEvents_324/61/InlineScript/1:23
-"Even if you read"#MTLed
+"What doesn't give you an answer"#Ron
 > END STRING
 
 > BEGIN STRING
 "はってもはっても"
 > CONTEXT: CommonEvents_324/65/InlineScript/1:23
-"Even if it is"#MTLed
+"What doesn't shout at you"#Ron
 > END STRING
 
 > BEGIN STRING
 "みてもみても"
 > CONTEXT: CommonEvents_324/69/InlineScript/1:23
-"Even if"#MTLed
+"What doesn't look at you"#Ron
 > END STRING
 
 > BEGIN STRING
 へんじを
 > CONTEXT: CommonEvents_324/79/Choice/0
-Mind#MTLed
+no matter how many times#Ron
 > END STRING
 
 > BEGIN STRING
 こたえを
 > CONTEXT: CommonEvents_324/79/Choice/1
-Answer#MTLed
+every time#Ron
 > END STRING
 
 > BEGIN STRING
 みんなを
 > CONTEXT: CommonEvents_324/79/Choice/2
-Everyone#MTLed
+whenever you#Ron
 > END STRING
 
 > BEGIN STRING
 じかんを
 > CONTEXT: CommonEvents_324/79/Choice/3
-time#MTLed
+if you#Ron
 > END STRING
 
 > BEGIN STRING
 "へんじを"
 > CONTEXT: CommonEvents_324/81/InlineScript/1:23
-"Mind"#MTLed
+"no matter how many times"#Ron
 > END STRING
 
 > BEGIN STRING
 "こたえを"
 > CONTEXT: CommonEvents_324/85/InlineScript/1:23
-"Answer"#MTLed
+"every time"#Ron
 > END STRING
 
 > BEGIN STRING
 "みんなを"
 > CONTEXT: CommonEvents_324/89/InlineScript/1:23
-"Everyone"#MTLed
+"whenever"#Ron
 > END STRING
 
 > BEGIN STRING
 "じかんを"
 > CONTEXT: CommonEvents_324/93/InlineScript/1:23
-"time"#MTLed
+"if"#Ron
 > END STRING
 
 > BEGIN STRING
 するのは
 > CONTEXT: CommonEvents_324/104/Choice/0
-To do#MTLed
+they#Ron
 > END STRING
 
 > BEGIN STRING
 ないのは
 > CONTEXT: CommonEvents_324/104/Choice/1
-There is no#MTLed
+it#Ron
 > END STRING
 
 > BEGIN STRING
 しないのは
 > CONTEXT: CommonEvents_324/104/Choice/2
-What is not#MTLed
+you#Ron
 > END STRING
 
 > BEGIN STRING
 かろやかなのは
 > CONTEXT: CommonEvents_324/104/Choice/3
-It is a mild thing#MTLed
+those things#Ron
 > END STRING
 
 > BEGIN STRING
 "するのは"
 > CONTEXT: CommonEvents_324/106/InlineScript/1:23
-"To do"#MTLed
+"they"#Ron
 > END STRING
 
 > BEGIN STRING
 "ないのは"
 > CONTEXT: CommonEvents_324/110/InlineScript/1:23
-"There is no"#MTLed
+"it"#Ron
 > END STRING
 
 > BEGIN STRING
 "しないのは"
 > CONTEXT: CommonEvents_324/114/InlineScript/1:23
-"What is not"#MTLed
+"you"#Ron
 > END STRING
 
 > BEGIN STRING
 "かろやかなのは"
 > CONTEXT: CommonEvents_324/118/InlineScript/1:23
-"It is a mild thing"#MTLed
+"those things"#Ron
 > END STRING
 
 > BEGIN STRING
 どれ？
 > CONTEXT: CommonEvents_324/130/Choice/0
-which one?#MTLed
+feed it?#Ron
 > END STRING
 
 > BEGIN STRING
 いつ？
 > CONTEXT: CommonEvents_324/130/Choice/1
-When?#MTLed
+kick it?#Ron
 > END STRING
 
 > BEGIN STRING
 なに？
 > CONTEXT: CommonEvents_324/130/Choice/2
-what?#MTLed
+read it?#Ron
 > END STRING
 
 > BEGIN STRING
 だれ？
 > CONTEXT: CommonEvents_324/130/Choice/3
-Who?#MTLed
+milks it?#Ron
 > END STRING
 
 > BEGIN STRING
 "どれ？"
 > CONTEXT: CommonEvents_324/132/InlineScript/1:23
-"which one?"#MTLed
+"feed it?"#Ron
 > END STRING
 
 > BEGIN STRING
 "いつ？"
 > CONTEXT: CommonEvents_324/136/InlineScript/1:23
-"When?"#MTLed
+"kick it?"#Ron
 > END STRING
 
 > BEGIN STRING
 "なに？"
 > CONTEXT: CommonEvents_324/140/InlineScript/1:23
-"what?"#MTLed
+"read it?"#Ron
 > END STRING
 
 > BEGIN STRING
 "だれ？"
 > CONTEXT: CommonEvents_324/144/InlineScript/1:23
-"Who?"#MTLed
+"asks it?"#Ron
 > END STRING
 
 > BEGIN STRING
 なるほど、なんとなく分かったぞ…
 > CONTEXT: CommonEvents_324/170/Dialogue/yuuma
 > CONTEXT: CommonEvents_335/159/Dialogue/yuuma
-I see, I understand somehow ...#MTLed
+I see, I think I get it...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -283,8 +288,8 @@ I see, I understand somehow ...#MTLed
 
 「読んでも」だ。
 > CONTEXT: CommonEvents_324/176/Dialogue/yuuma
-「Even if you read」It's not "I will call you"
-「Read」It is.#MTLed
+It's a trick question designed to make you think
+the answer's more complicated than it really is.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -292,8 +297,8 @@ I see, I understand somehow ...#MTLed
 
 よんだりできるし、返事はしない。
 > CONTEXT: CommonEvents_324/184/Dialogue/yuuma
-\\C[2]In other words, it is a "book".
-I can do it, I will not reply.#MTLed
+\\C[2]Don't overthink it too much, the answer's just
+"Book".#Ron
 > END STRING
 
 > BEGIN STRING
@@ -302,7 +307,9 @@ I can do it, I will not reply.#MTLed
 ありがとう、ユウマ。
 > CONTEXT: CommonEvents_324/192/Dialogue/kazuya-0
 > CONTEXT: CommonEvents_335/181/Dialogue/kazuya-0
-I understand ...!! Thank you Yuuma.#MTLed
+G-Got it...!!
+
+Thanks, Yuuma.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -311,8 +318,9 @@ I understand ...!! Thank you Yuuma.#MTLed
 一緒に脱出するぞ、\\N[1]。
 > CONTEXT: CommonEvents_324/200/Dialogue/yuuma
 > CONTEXT: CommonEvents_335/189/Dialogue/yuuma
-............ come back alive. 
-I will escape together, \\N[1].#MTLed
+...Come back alive. 
+
+Let's escape together, \\N[1].#Ron
 > END STRING
 
 > BEGIN STRING
@@ -321,7 +329,9 @@ I will escape together, \\N[1].#MTLed
 ぜんっっっっっぜんわからん……！
 > CONTEXT: CommonEvents_324/206/Dialogue/yuuma
 > CONTEXT: CommonEvents_335/195/Dialogue/yuuma
-sorry………. I do not know at all.........!#MTLed
+I'm sorry...
+
+I have absolutely no idea...!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -331,8 +341,9 @@ sorry………. I do not know at all.........!#MTLed
 > CONTEXT: CommonEvents_324/216/Dialogue/enemy11
 > CONTEXT: CommonEvents_335/205/Dialogue/enemy11
 > CONTEXT: CommonEvents_341/45/Dialogue/enemy11
-Yes!!That's it!! Did you understand the answer
-properly?#MTLed
+Okaaay!! Time's up!!
+
+Do you know the answer?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -342,7 +353,7 @@ properly?#MTLed
 > CONTEXT: CommonEvents_324/220/Dialogue/enemy11
 > CONTEXT: CommonEvents_335/209/Dialogue/enemy11
 > CONTEXT: CommonEvents_341/49/Dialogue/enemy11
-As for me, it doesn't have to be an answer
-without knowing it...Now \\N[1]-kun, soon
-decide on Kakgo?#MTLed
+I don't mind if you don't know the answer...
+
+Now \\N[1]-kun, are you ready?#Ron
 > END STRING

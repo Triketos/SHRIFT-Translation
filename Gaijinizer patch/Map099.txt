@@ -4,7 +4,9 @@
 
 御呼びでしょうか、大主教様。
 > CONTEXT: Map099/events/1/pages/0/13/Dialogue/other2
-............ Call it Lord Archbishop.#MTLed
+.........
+
+You called, Lord Archbishop?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -12,7 +14,7 @@
 
 　　若き主導者よ。」
 > CONTEXT: Map099/events/1/pages/0/20/Dialogue
-*「Did you come ...... Young leader.」#MTLed
+*「You came... Young Leader.」#Ron
 > END STRING
 
 > BEGIN STRING
@@ -20,7 +22,8 @@
 
 　　……………少し、話がしたい。」
 > CONTEXT: Map099/events/1/pages/0/26/Dialogue
-*「sit down. ......... I want to talk a little.」#MTLed
+*「Have a seat...
+   I'd like to chat a little.」#Ron
 > END STRING
 
 > BEGIN STRING
@@ -29,7 +32,8 @@
 　　多くの人の血が流れている………」
 > CONTEXT: Map099/events/1/pages/0/38/Dialogue
 *「On the other side of this mountain, demons and humans
-kill each other. Many people's blood is flowing .........」#MTLed
+   are killing each other even as we speak. The blood of
+   many is flowing...」#Ron
 > END STRING
 
 > BEGIN STRING
@@ -38,9 +42,10 @@ kill each other. Many people's blood is flowing .........」#MTLed
 
 　　この争いの後には、人々に大きな傷跡が残るだろう…」
 > CONTEXT: Map099/events/1/pages/0/42/Dialogue
-*「Injured and survived...Those who leave the important
-person and die and are left...After this battle, people
-will have a big scar ...」#MTLed
+*「The injured survivors...
+   The ones separated from their loved ones by death...
+   This conflict will leave great scars upon its
+   conclusion...」#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -49,15 +54,15 @@ will have a big scar ...」#MTLed
 　　お互いに無事で済まないと分かっていながら
 　　古来より人間の『争い』は絶えない。」
 > CONTEXT: Map099/events/1/pages/0/47/Dialogue
-*「But in essence, that's what a fight is like.
-While knowing that we can not finish each other safely
-Since ancient times, human "strike" has not ceased.」#MTLed
+*「But that is the essence of conflict. Knowing that we
+   cannot live together peacefully, human conflict has
+   continued without end since time immemorial.」#Ron
 > END STRING
 
 > BEGIN STRING
 ＊「それは、何故だと思う？」
 > CONTEXT: Map099/events/1/pages/0/54/Dialogue
-*「Why do you think that?」#MTLed
+*「Why do you think that is the case?」#Ron
 > END STRING
 
 > BEGIN STRING
@@ -65,9 +70,10 @@ Since ancient times, human "strike" has not ceased.」#MTLed
 
  性格、外見、人種、思考、所属する国家……。
 > CONTEXT: Map099/events/1/pages/0/57/Dialogue/other2
-......because people are "different".
-Personality, appearance, race, thinking,
-belonging nation ....#MTLed
+...Because people are all different.
+
+In personality, appearance, race, thought, and
+nation...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -75,15 +81,16 @@ belonging nation ....#MTLed
 
 だから、無くならないのだと思います。
 > CONTEXT: Map099/events/1/pages/0/61/Dialogue/other2
-Human conflict is a means to bring the other
-party to your own convenience.
-So I think it won't disappear.#MTLed
+Human conflict is a means to bring others to your
+way of life.
+
+So I don't think it will disappear.#RonIffy
 > END STRING
 
 > BEGIN STRING
 ＊「うむ………」
 > CONTEXT: Map099/events/1/pages/0/65/Dialogue
-*「Hm .........」#MTLed
+*「Yes...」#Ron
 > END STRING
 
 > BEGIN STRING
@@ -92,9 +99,9 @@ So I think it won't disappear.#MTLed
 
 　　悪魔という『絶対悪』に、矛の向きを揃えた。」
 > CONTEXT: Map099/events/1/pages/0/69/Dialogue
-*「............ 5 years ago, when demon occupied the first
-city. The world has become one. The direction of the stern
-was aligned with the "absolute evil" of demon.」#MTLed
+*「...Five years ago, when demons occupied the first city,
+   the world united as one. Everyone pointed their weapons
+   at the "absolute evil"... The threat of demonkind.」#Ron
 > END STRING
 
 > BEGIN STRING
@@ -103,9 +110,10 @@ was aligned with the "absolute evil" of demon.」#MTLed
 　　繰り返してきた人同士の『争い』がいかに稚拙だったか
 　　後世まで深く、傷跡として刻まれるのだから……」
 > CONTEXT: Map099/events/1/pages/0/74/Dialogue
-*「They will thank us one day. How naive the "strike"
-between people who have repeated. Deep for future
-generations, because it is engraved as a scar ...」#MTLed
+*「They will thank us one day.
+   They will realise how foolish it was to fight against
+   their fellow man, and future generations will bear that
+   knowledge as scars engraved upon their souls...」#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -113,8 +121,9 @@ generations, because it is engraved as a scar ...」#MTLed
 
  　　一体、どういう心境の変化だ？」
 > CONTEXT: Map099/events/1/pages/0/82/Dialogue
-*「............ It seems to have released "E-003".
-What kind of change in your mind?」#MTLed
+*「...I hear "E-003" was released.
+
+   Why the change of heart?」#Ron
 > END STRING
 
 > BEGIN STRING
@@ -122,8 +131,8 @@ What kind of change in your mind?」#MTLed
 
 　　責任者の君が、何より一番慎重だったじゃないか…」
 > CONTEXT: Map099/events/1/pages/0/87/Dialogue
-*「To treat her as a "new disaster", Perhaps the most
-responsible person was the most cautious ...」#MTLed
+*「Was it not you, the one who carefully oversaw her
+   creation, who treated her as a "Blight" on humanity?」#Ron/Triketos
 > END STRING
 
 > BEGIN STRING
@@ -131,8 +140,8 @@ responsible person was the most cautious ...」#MTLed
 
 どうやら、不備があったようですね。
 > CONTEXT: Map099/events/1/pages/0/91/Dialogue/other2
-..... I thought that the report was already in
-good condition. Apparently, there was a defect.#MTLed
+...I thought the original report was complete,
+but it appears we have overlooked something.#Ron/Triketos
 > END STRING
 
 > BEGIN STRING
@@ -140,8 +149,9 @@ good condition. Apparently, there was a defect.#MTLed
 
 例のプロジェクトの、候補者の１人です。
 > CONTEXT: Map099/events/1/pages/0/95/Dialogue/other2
-..... "He" that I mentioned earlier awoke.
-One of the candidates for the example project.#MTLed
+...The "man" I spoke of earlier has awoken.
+
+One of the candidates for that project.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -149,9 +159,9 @@ One of the candidates for the example project.#MTLed
 
  更なる情報収集のため、彼女の解放は妥当と判断しました。
 > CONTEXT: Map099/events/1/pages/0/102/Dialogue/other2
-We have already introduced E-001 and 002, but
-both are defeated. Her release was judged
-appropriate for further information gathering.#MTLed
+We already deployed E-001 and E-002, but both
+were defeated. Her release was judged appropriate
+for the purpose of gathering further information.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -160,10 +170,10 @@ appropriate for further information gathering.#MTLed
 常人にはない特異な能力が、予定通り発現しており
 計画は、おおむね順調かと……
 > CONTEXT: Map099/events/1/pages/0/106/Dialogue/other2
-"He" is somewhat different from our assumption
-A unique ability not found in ordinary people is
-expressed as scheduled. The plan is, on the
-whole, good.#MTLed
+Though this man has varied from our assumptions,
+unique abilities not found in ordinary people
+have manifested in him. The plan is, on the
+whole, proceeding nicely.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -171,7 +181,9 @@ whole, good.#MTLed
 
 　　あのプロジェクトの……」
 > CONTEXT: Map099/events/1/pages/0/112/Dialogue
-*「Really………....of that project」#MTLed
+*「Is that so...
+   
+   That project's...」#Ron
 > END STRING
 
 > BEGIN STRING
@@ -179,8 +191,8 @@ whole, good.#MTLed
 
 　　君が『人間』に、興味を失っているのではないかとね…」
 > CONTEXT: Map099/events/1/pages/0/116/Dialogue
-*「..... Sometimes I feel anxious. I wonder if you have
-lost interest in "humans" ...」#MTLed
+*「...I worry sometimes.
+   I wonder if you have lost interest in humans...」#Ron
 > END STRING
 
 > BEGIN STRING
@@ -189,9 +201,9 @@ lost interest in "humans" ...」#MTLed
 　　あのプロジェクトも凍結したかと思っていた…。
 　　安心したよ………。」
 > CONTEXT: Map099/events/1/pages/0/120/Dialogue
-*「Recently, especially, I'm crazy about remodeling and
-experiment of demon...I thought that project was also
-frozen .... I was relieved……….」#MTLed
+*「You have been quite focused on your demon
+   modification experiments lately...
+   I thought that project was frozen. I'm relieved...」#Ron
 > END STRING
 
 > BEGIN STRING
@@ -199,8 +211,9 @@ frozen .... I was relieved……….」#MTLed
 
 　　各地の主教にも、私からこの事は伝えておくよ。」
 > CONTEXT: Map099/events/1/pages/0/130/Dialogue
-*「Continue to leave the organization's authority to you.
-I will tell this to my bishops everywhere.」#MTLed
+*「I will continue to leave the organization to you.
+
+   I will inform my bishops everywhere.」#Ron
 > END STRING
 
 > BEGIN STRING
@@ -209,14 +222,14 @@ I will tell this to my bishops everywhere.」#MTLed
 
 　　若き指導者………」
 > CONTEXT: Map099/events/1/pages/0/134/Dialogue
-*「Well, let's go. I will guide this organization correctly
-Young leader .........」#MTLed
+*「Now, off you go. Lead this organization down the correct
+   path, Young Leader...」#Ron
 > END STRING
 
 > BEGIN STRING
 …………彼はE-003と接触したか？
 > CONTEXT: Map099/events/1/pages/0/148/Dialogue/J_People1
-............ Did he touch E-003?#MTLed
+...Has he made contact with E-003?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -225,9 +238,9 @@ Young leader .........」#MTLed
 
 若干迂回し、ヘリの墜落現場に到着する辺りです。
 > CONTEXT: Map099/events/1/pages/0/150/Dialogue/J_People1
-House………. Anomalous growth of plants in the
-square. A little detour is about to arrive at the
-crash site of the helicopter.#MTLed
+No... We've detected anomalous growth of plants
+in the clearing. He's now circling around and is
+about to arrive at the helicopter crash site.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -236,9 +249,9 @@ crash site of the helicopter.#MTLed
 時間からして、そろそろ『前菜』が終わる頃だ。
 タイミングでいえば丁度いい……
 > CONTEXT: Map099/events/1/pages/0/155/Dialogue/J_People1
-Really……. From time to time, it's about time the
-appetizer is over. In terms of timing, it's just
-fine ...#MTLed
+I see...
+Judging by the time, it should be about done with
+its appetizer. Perfect timing...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -246,7 +259,9 @@ fine ...#MTLed
 
 大主教さまは、どのような……？
 > CONTEXT: Map099/events/1/pages/0/161/Dialogue/J_People1
-……………………that………. What is Archbishop-sama ...?#MTLed
+......That's...
+
+Why was the Archbishop not-#Ron
 > END STRING
 
 > BEGIN STRING
@@ -254,9 +269,9 @@ fine ...#MTLed
 
 E-003に関する報告が彼の耳に入っていなかったらしい。
 > CONTEXT: Map099/events/1/pages/0/165/Dialogue/J_People1
-...... Oh, the plan was a little too early.
-It seems that reports on E-003 were not in his
-ear.#MTLed
+...Ah, the plan's advanced a little too fast.
+So it seems there wasn't enough time to keep him
+informed.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -264,15 +279,16 @@ ear.#MTLed
 
 ……相変わらず、この世界を憂いていたよ。
 > CONTEXT: Map099/events/1/pages/0/169/Dialogue/J_People1
-He said that he would leave the command of the
-organization to me....as usual, I was looking
-into this world.#MTLed
+He said that he would leave command of the
+organization to me.
+
+...He frets over the world as always...#RonIffy
 > END STRING
 
 > BEGIN STRING
 憂い………ですか。
 > CONTEXT: Map099/events/1/pages/0/173/Dialogue/J_People1
-It's ugly......?#MTLed
+He... frets...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -281,10 +297,10 @@ It's ugly......?#MTLed
 
 ……長生きし過ぎた、愚かな老人が考えそうな事だ。
 > CONTEXT: Map099/events/1/pages/0/175/Dialogue/J_People1
-"Appearance of demons brought people together"
-"The world will be grateful to us"
-...... I think that a foolish old man who has
-lived too long thinks.#MTLed
+"The demons have united humanity..."
+"The day will come when people will thank us..."
+...Those are the thoughts of a foolish old man
+who's lived too long.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -293,9 +309,9 @@ lived too long thinks.#MTLed
 
 本気でそう思っているらしい。
 > CONTEXT: Map099/events/1/pages/0/180/Dialogue/J_People1
-Finally, in the war with demon, let humanity win
-at just barely. Humanity can be united by the
-unity...It seems that I really think so.#MTLed
+He truly believes that if we allow humanity to
+barely win this war against demonkind, that will
+ultimately unite us all.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -303,8 +319,9 @@ unity...It seems that I really think so.#MTLed
 
 時代錯誤も甚だしい……
 > CONTEXT: Map099/events/1/pages/0/185/Dialogue/J_People1
-Totally...a foolish idea. Anecdotal errors are
-also terrible ...#MTLed
+Good grief... What a foolish notion.
+
+His outdated ideas are terrible...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -312,6 +329,7 @@ also terrible ...#MTLed
 
 とうの昔に終わっているのに……。
 > CONTEXT: Map099/events/1/pages/0/190/Dialogue/J_People1
-The times when humans show "strength" .........
-It has been over to long ago ....#MTLed
+The time for humanity to show its strength...
+
+Has long faded...#Ron
 > END STRING

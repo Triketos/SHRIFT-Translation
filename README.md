@@ -3,6 +3,9 @@
 #### Style Guide:
 For regular textboxes, max of 50 characters to a line (They can hold 51, but we want a tiny bit of extra space.)
 
+#### Compendium Entries:
+Keep lines to 50 characters long, and no more then 6 lines per entire entry. They may be split up into several "parts" in the translation files, you should double check that everything is okay in-game.
+
 #### Ellipses:
 If a passage starts with ellipses, have no space, like this:
 >_**"...Yeah."**_

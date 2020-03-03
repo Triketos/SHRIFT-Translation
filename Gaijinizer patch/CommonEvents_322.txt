@@ -6,8 +6,9 @@
 > CONTEXT: CommonEvents_322/16/Dialogue/enemy11
 > CONTEXT: CommonEvents_342/1/Dialogue/enemy11
 > CONTEXT: CommonEvents_343/1/Dialogue/enemy11
-「ask the audience」Do you use it?
-Well then, ask everyone in my room!#MTLed
+You want to ask the audience?
+
+Well then, let's ask everyone in My Room!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -52,7 +53,7 @@ Well then, ask everyone in my room!#MTLed
 "ふね"
 > CONTEXT: CommonEvents_322/50/InlineScript/4:1
 > CONTEXT: CommonEvents_322/71/InlineScript/4:1
-"boat"#MTLed
+"Boat"#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -70,7 +71,7 @@ Well then, ask everyone in my room!#MTLed
 > BEGIN STRING
 "ほん"
 > CONTEXT: CommonEvents_322/75/InlineScript/4:2
-"Japanese"#MTLed
+"Book"#Ron
 > END STRING
 
 > BEGIN STRING
@@ -150,7 +151,9 @@ Well then, ask everyone in my room!#MTLed
 > CONTEXT: CommonEvents_322/173/Dialogue/enemy11
 > CONTEXT: CommonEvents_342/158/Dialogue/enemy11
 > CONTEXT: CommonEvents_343/158/Dialogue/enemy11
-Shazam!!! It became such a result!!#MTLed
+TAA DAA!!!
+
+These are the results!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -161,7 +164,7 @@ Shazam!!! It became such a result!!#MTLed
 > CONTEXT: CommonEvents_322/178/Dialogue/enemy11
 > CONTEXT: CommonEvents_342/163/Dialogue/enemy11
 > CONTEXT: CommonEvents_343/163/Dialogue/enemy11
-Did a little help? If you say it was broken
-\\C[2]I think you should consider the character of each
-demon?#MTLed
+I wonder if it helped you a little.
+If you can't make sense of the answers here,
+\\C[2]try thinking about each demon's personality.#RonIffy
 > END STRING

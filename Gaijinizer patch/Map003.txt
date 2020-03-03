@@ -2514,7 +2514,7 @@ You can use them to come here any time.#Aesthetic
 > CONTEXT: Map003/events/6/pages/3/0/Dialogue
 > CONTEXT: Map125/events/8/pages/0/0/Dialogue
 > CONTEXT: Map131/events/16/pages/0/0/Dialogue
-*「Are you going to change the setting of the round filter?」#MTLed
+*「Are you going to change the setting of the vore filter?」#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -2525,7 +2525,7 @@ You can use them to come here any time.#Aesthetic
 > CONTEXT: Map101/events/17/pages/0/40/Dialogue
 > CONTEXT: Map125/events/8/pages/0/4/Dialogue
 > CONTEXT: Map131/events/16/pages/0/4/Dialogue
-Currently set of: \\N[5]#MTLed
+Currently set as: \\N[5]#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -2537,7 +2537,7 @@ Currently set of: \\N[5]#MTLed
 > CONTEXT: Map101/events/17/pages/0/42/Choice/1
 > CONTEXT: Map125/events/8/pages/0/6/Choice/1
 > CONTEXT: Map131/events/16/pages/0/6/Choice/1
-Filter [Light] The event itself progresses with the filter applied#MTLed
+Filter [Light]: Scene happens with filter.#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -2549,7 +2549,7 @@ Filter [Light] The event itself progresses with the filter applied#MTLed
 > CONTEXT: Map101/events/17/pages/0/42/Choice/2
 > CONTEXT: Map125/events/8/pages/0/6/Choice/2
 > CONTEXT: Map131/events/16/pages/0/6/Choice/2
-Filter [Heavy] The event will end as soon as the filter is applied#MTLed
+Filter [Heavy]: Scene is skipped.#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -2564,7 +2564,7 @@ Filter [Heavy] The event will end as soon as the filter is applied#MTLed
 > CONTEXT: Map101/events/17/pages/0/44/InlineScript/1:23
 > CONTEXT: Map125/events/8/pages/0/8/InlineScript/1:23
 > CONTEXT: Map131/events/16/pages/0/8/InlineScript/1:23
-"Filter 【OFF】"#MTLed
+"Filter [OFF]"#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -2592,7 +2592,8 @@ Filter [Heavy] The event will end as soon as the filter is applied#MTLed
 > CONTEXT: Map131/events/16/pages/0/10/Dialogue
 > CONTEXT: Map131/events/16/pages/0/18/Dialogue
 > CONTEXT: Map131/events/16/pages/0/26/Dialogue
-Filter settings. " \\N[5] ". It was changed to#MTLed
+The filter settings were changed to
+"\\N[5]".#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -2604,7 +2605,7 @@ Filter settings. " \\N[5] ". It was changed to#MTLed
 > CONTEXT: Map101/events/17/pages/0/52/InlineScript/1:23
 > CONTEXT: Map125/events/8/pages/0/16/InlineScript/1:23
 > CONTEXT: Map131/events/16/pages/0/16/InlineScript/1:23
-"Filter [Light]"#MTLed
+"Filter [Light]"#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -2616,7 +2617,7 @@ Filter settings. " \\N[5] ". It was changed to#MTLed
 > CONTEXT: Map101/events/17/pages/0/60/InlineScript/1:23
 > CONTEXT: Map125/events/8/pages/0/24/InlineScript/1:23
 > CONTEXT: Map131/events/16/pages/0/24/InlineScript/1:23
-"Filter 【Heavy】"#MTLed
+"Filter [Heavy]"#Triketos
 > END STRING
 
 > BEGIN STRING
