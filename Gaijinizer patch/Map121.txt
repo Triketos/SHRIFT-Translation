@@ -4,31 +4,33 @@
 
 うれしい…♡
 > CONTEXT: Map121/events/5/pages/0/19/Dialogue/enemy13
-You came to see me, \\N[1]. I'm glad...♡#MTLed
+You came to see me, \\N[1].
+
+I'm so happy... ♡#Ron
 > END STRING
 
 > BEGIN STRING
 雑談する en(v[50] \>= 25) 
 > CONTEXT: Map121/events/5/pages/0/31/Choice/0
-Chaten(v[50] \>= 25)#MTLed
+Chaten(v[50] \>= 25)#Ron
 > END STRING
 
 > BEGIN STRING
 搾精（人魚）en(v[50] \>= 25) 
 > CONTEXT: Map121/events/5/pages/0/31/Choice/1
-milking (mermaid)en(v[50] \>= 25)#MTLed
+Milking (mermaid)en(v[50] \>= 25)#Ron
 > END STRING
 
 > BEGIN STRING
 搾精（蛞蝓）en(v[50] \>= 50) 
 > CONTEXT: Map121/events/5/pages/0/31/Choice/2
-milkingen(v[50] \>= 50)#MTLed
+Milking (slug)en(v[50] \>= 50)#Ron
 > END STRING
 
 > BEGIN STRING
 【エコー】種族：妖魔
 > CONTEXT: Map121/events/5/pages/0/33/ChoiceHelp
-【Echo】 Tribe: monster#MTLed
+【Echo】 Tribe: Apparition#Ron
 > END STRING
 
 > BEGIN STRING
@@ -37,9 +39,9 @@ milkingen(v[50] \>= 50)#MTLed
 あなたの気持ちはとっても嬉しいのだけど
 私……こんなのもらっても使い道がないの……
 > CONTEXT: Map121/events/5/pages/0/206/Dialogue/enemy12
-I'm sorry...\\N[1]. I am very happy about your
-feelings. I ........ I can not use it even if I
-receive this ...#MTLed
+I'm sorry, \\N[1]. I'm happy you want to give
+me a present, but I don't really know what to do
+with this...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -47,7 +49,9 @@ receive this ...#MTLed
 
 ごめんなさい……
 > CONTEXT: Map121/events/5/pages/0/211/Dialogue/enemy12
-I only receive my feelings. I'm sorry……#MTLed
+I'll just appreciate the thought.
+
+Sorry...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -76,26 +80,27 @@ Because I will heal a lot...♡#MTLed
 
 もっと私のことを知って欲しい…♡
 > CONTEXT: Map121/events/5/pages/1/1/Dialogue/enemy13
-Well...let's talk. I want you to know more
-about me...♡#MTLed
+Okay, let's talk.
+
+I want you to know more about me... ♡#Ron
 > END STRING
 
 > BEGIN STRING
 エコーについてen(v[50] \>= 30) 
 > CONTEXT: Map121/events/5/pages/1/7/Choice/0
-About Echoen(v[50] \>= 30)#MTLed
+About Echoen(v[50] \>= 30)#Ron
 > END STRING
 
 > BEGIN STRING
 水路での出来事en(v[50] \>= 40) 
 > CONTEXT: Map121/events/5/pages/1/7/Choice/1
-Waterway eventsen(v[50] \>= 40)#MTLed
+Waterway Eventsen(v[50] \>= 40)#Ron
 > END STRING
 
 > BEGIN STRING
 『料理』en(v[50] \>= 60) 
 > CONTEXT: Map121/events/5/pages/1/7/Choice/2
-"cuisine"en(v[50] \>= 60)#MTLed
+Cookingen(v[50] \>= 60)#Ron
 > END STRING
 
 > BEGIN STRING
@@ -103,7 +108,9 @@ Waterway eventsen(v[50] \>= 40)#MTLed
 
 私たち『エコー』のことを知りたいの？
 > CONTEXT: Map121/events/5/pages/1/12/Dialogue/enemy13
-Hihihi ...... Do we want to know about 'Echo'?#MTLed
+Fufufu...
+
+You want to know about us Echos?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -112,8 +119,8 @@ Hihihi ...... Do we want to know about 'Echo'?#MTLed
  \\N[1]は、『エコー』って言葉を聞いて
  まずどんな状況を思い浮かべる？
 > CONTEXT: Map121/events/5/pages/1/16/Dialogue/enemy13
-Well then...yeah. \\N[1] hears the word "Echo"
-First, what kind of situation do you think of?#MTLed
+Well... okay. What springs to mind when you hear
+the word "Echo"?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -122,8 +129,10 @@ First, what kind of situation do you think of?#MTLed
  『エコー』………
 『声の反響』………とか？
 > CONTEXT: Map121/events/5/pages/1/22/Dialogue/kazuya
-Huh……? "Echo" ......... "The echo of voice" ...
-...?#MTLed
+Umm...
+
+"Echo"...
+Maybe the echo of someone's voice...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -132,9 +141,10 @@ Huh……? "Echo" ......... "The echo of voice" ...
  私たちは、発せられた音を真似して、返す…
 『やまびこ』や『こだま』も、私たちの仕業。
 > CONTEXT: Map121/events/5/pages/1/28/Dialogue/enemy13
-Yes, "echo". We imitate the sound emitted and
-return..."Yamabiko" and "Kodama" are also our
-work.#MTLed
+That's right, an "echo". We imitate and repeat
+sounds that are emitted. We're the ones
+responsible for the myths around mountain gods
+and forest spirits.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -142,10 +152,9 @@ work.#MTLed
 
 自然に聞こえるように、つぎはぎで話してるだけなのよ。
 > CONTEXT: Map121/events/5/pages/1/33/Dialogue/enemy13
-Even this voice of mine now, from the sound and
-voice that has been echoed for many years
-Just as you hear it naturally, I'm just talking
-with patchwork.#MTLed
+Even this voice of mine now is cobbled together
+from many years of reverberated sounds and
+voices, all stitched together to sound natural.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -153,8 +162,8 @@ with patchwork.#MTLed
 
 そうは思えないくらい滑らかなしゃべり方だね。
 > CONTEXT: Map121/events/5/pages/1/37/Dialogue/kazuya
-is that so……. It is such a smooth way of talking
-that I can not think so.#MTLed
+Wow, really...? Your voice sounds so natural, I
+would never have guessed.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -163,9 +172,9 @@ that I can not think so.#MTLed
 もう一方の形態の時に、声の抑揚がちぐはぐなのって
  そうやって繋ぎ合わせた声だから…？
 > CONTEXT: Map121/events/5/pages/1/41/Dialogue/kazuya
-Well then, maybe...In the other form, it's like
-the voice's intonation. Because it is the voice
-that united in this way ...?#MTLed
+So then... When you're in your other form, and
+your voice sounds all mismatched, is that because
+of all those voices you've patched together...?#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -174,10 +183,10 @@ that united in this way ...?#MTLed
 
  この姿の時みたいには、喋りに意識が集中できないの。
 > CONTEXT: Map121/events/5/pages/1/47/Dialogue/enemy12
-When you release the. To disperse awareness in
-moving the tentacles of the hair
-I can not concentrate on resentment like this
-time.#MTLed
+When I'm in that form, I have to divide my
+attention between things like mucus secretion and
+controlling my tentacles, so I can't focus so
+much on maintaining my voice.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -185,9 +194,9 @@ time.#MTLed
 
  できるだけ人の前に姿を現すときは、こっちの姿なのよ。
 > CONTEXT: Map121/events/5/pages/1/52/Dialogue/enemy12
-Because they fit well, they often scare you
-When you appear in front of people as much as
-possible, it is the figure of here.#MTLed
+Because that voice and that form's appearance
+together can be quite frightening, I try to stay
+like this when I appear in front of people.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -196,11 +205,10 @@ possible, it is the figure of here.#MTLed
 
  このしゃべり方はできるけど……意味無いわよね。
 > CONTEXT: Map121/events/5/pages/1/60/Dialogue/enemy13
-Anyway...even in this figure,
-"If you keep the mucus secretion stationary"
-"concentrate your awareness". 
-I can speak this way, but...it doesn't make
-sense.#MTLed
+Though even in this form, if I don't move, hold
+back mucus secretions, and focus, I can still
+talk normally. But there wouldn't be much point
+in doing all that.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -208,9 +216,9 @@ sense.#MTLed
 
 『捕獲できると確信した場合』のみだから……
 > CONTEXT: Map121/events/5/pages/1/65/Dialogue/enemy13
-When exposing this form to the other party, in
-most cases. It is only "if you are convinced that
-you can capture" ...#MTLed
+In the majority of cases, I only reaveal this
+form when I'm pretty sure I can capture my
+opponent...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -218,8 +226,9 @@ you can capture" ...#MTLed
 
 もともとエコーは、こんなにしゃべらないのよ……
 > CONTEXT: Map121/events/5/pages/1/72/Dialogue/enemy12
-In addition...... I can not imagine from now
-... Originally Echo does not talk like this ...#MTLed
+Also, it might be hard to imagine talking to me
+now, but Echos originally can't speak like
+this...#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -227,8 +236,8 @@ In addition...... I can not imagine from now
 
  普通におしゃべり好きなのかと思ってた……
 > CONTEXT: Map121/events/5/pages/1/77/Dialogue/kazuya
-eh…? Is that so? I thought I would like to talk
-normally ...#MTLed
+Huh...? Really? I thought you guys were naturally
+chatty...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -237,9 +246,9 @@ normally ...#MTLed
 普通は、人間の方が私に自然と寄ってくるの
 興味本意でね……
 > CONTEXT: Map121/events/5/pages/1/81/Dialogue/enemy12
-Did you say that? I just imitated "Two people"
-... Normally, people come to me naturally
-I'm really interested in it ...#MTLed
+I told you, remember? I just imitated those two
+from the waterway. Usually its humans approaching
+us out of curiosity...#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -247,9 +256,10 @@ I'm really interested in it ...#MTLed
 
 触手で脳をいじくって、『私が大好き』でいっぱいにする…
 > CONTEXT: Map121/events/5/pages/1/86/Dialogue/enemy13
-"Bakuri there! And get caught...♡
-Play with your brain with tentacles and fill it
-with "I love you" ...#MTLed
+And that's when we get 'em...♡
+
+From there we use our tentacles to mess with
+their mind and make them fall in love with us...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -257,15 +267,15 @@ with "I love you" ...#MTLed
 
  ひとときの『疑似恋愛』を楽しむのよ…♡
 > CONTEXT: Map121/events/5/pages/1/90/Dialogue/enemy13
-And, hold the human of "barbarian" who finished
-I enjoy the "fake love" of the moment...♡#MTLed
+After that, we have sex with our new human
+follower and enjoy our momentary fake love
+affair... ♡#Ron
 > END STRING
 
 > BEGIN STRING
 け、『眷族』にされた人間は、そのあとどうなるの…？
 > CONTEXT: Map121/events/5/pages/1/94/Dialogue/kazuya
-Well, what happens to the human beings who are
-made "barbars" ...?#MTLed
+W-What happens to your "followers" after that...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -273,9 +283,9 @@ made "barbars" ...?#MTLed
 
 だいたいは衰弱して苦しむ前に、相手の魂を吸い取るの。
 > CONTEXT: Map121/events/5/pages/1/96/Dialogue/enemy13
-Though it depends on the "degree" that I made a
-mess...Most of the time, weak up the other's
-soul before suffering Weakness.#MTLed
+It depends on how much we messed with them...
+Most of the time, their soul's sucked up before
+they become weak and suffer too much.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -283,9 +293,8 @@ soul before suffering Weakness.#MTLed
 
 自分の元に通わせてる仲間もいたわ♡
 > CONTEXT: Map121/events/5/pages/1/100/Dialogue/enemy13
-Sometimes, keep it down to a level that does not
-affect everyday life. Some of my friends are
-letting me go#MTLed
+Sometimes some of us restrain ourselves enough so
+they can go home and life an ordinary life. ♡#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -293,8 +302,8 @@ letting me go#MTLed
 
 水の精霊みたいな恐ろしさだなぁ………
 > CONTEXT: Map121/events/5/pages/1/105/Dialogue/kazuya
-......... per europe. It's scary like water
-spirits .........#MTLed
+You sound like those scary water spirits they
+have in Europe...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -302,7 +311,9 @@ spirits .........#MTLed
 
 幻滅しちゃったかしら……
 > CONTEXT: Map121/events/5/pages/1/110/Dialogue/enemy12
-I'm sorry……. I wonder if I was disillusioned ...#MTLed
+I'm sorry...
+
+Did I put you off...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -311,9 +322,8 @@ I'm sorry……. I wonder if I was disillusioned ...#MTLed
  ただ、今までの私たちの人間への接し方って
  これが主流だったから………
 > CONTEXT: Map121/events/5/pages/1/114/Dialogue/enemy12
-I was not going to scare. However, how to treat
-our humanity so far. Because this was mainstream
-.........#MTLed
+I didn't mean to scare you. That's just the way
+we've always interacted with humanity up til now.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -322,9 +332,9 @@ our humanity so far. Because this was mainstream
  『人間の恋愛』に興味を持ってる理由が
  これではっきり理解できたし！
 > CONTEXT: Map121/events/5/pages/1/119/Dialogue/kazuya
-No! That's not true! The reason why you are
-interested in "human love". I understood this
-clearly!#MTLed
+N-No I'm not scared of you or anything! I fully
+understand why you have an interest in human
+love!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -332,8 +342,8 @@ clearly!#MTLed
 
 　タダじゃ済まなさそう、ってことも………）
 > CONTEXT: Map121/events/5/pages/1/125/Dialogue/kazuya
-(At the same time, if it is something you do not
-want to. I'm sorry I'm sorry, I guess......)#MTLed
+(But at the same time, it's a pretty big deal
+to have an affair...)#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -341,15 +351,16 @@ want to. I'm sorry I'm sorry, I guess......)#MTLed
 
 どうしてエコーは、あの水路で数が増えたの？
 > CONTEXT: Map121/events/5/pages/1/134/Dialogue/kazuya
-Speaking of which, I was always worried about ...
-Why did Echo get more in that channel?#MTLed
+That reminds me, there's something that's always
+bugged me...
+
+How did so many Echos end up in those waterways?#Ron
 > END STRING
 
 > BEGIN STRING
 やっぱり、オリジナルが『繁殖』………したとか？
 > CONTEXT: Map121/events/5/pages/1/138/Dialogue/kazuya
-After all, the original "breeding"...... did
-it?#MTLed
+Don't tell me the original one... reproduced.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -357,8 +368,9 @@ it?#MTLed
 
 …………私たち『エコー』は、単独では存在できない…
 > CONTEXT: Map121/events/5/pages/1/141/Dialogue/enemy12
-............ It is different. 
-............ We “Echo” can not exist alone ...#MTLed
+...Not quite.
+ 
+We Echos can't exist alone...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -367,10 +379,10 @@ it?#MTLed
 複数鳴らせば、その数がきちんと返ってくるでしょう？
 あれは、『その数の私たちがいる』って証拠……
 > CONTEXT: Map121/events/5/pages/1/145/Dialogue/enemy12
-You see, where Echo is...where the sound echoes
-If you ring more than one, that number will be
-returned properly? That is the proof that "there
-is that number of us" ...#MTLed
+You see, when Echos exist somewhere, if you
+call out multiple times, you'll get that number
+responses back, right? That number is proof that
+Echos are around...#CheckLater
 > END STRING
 
 > BEGIN STRING
@@ -379,9 +391,9 @@ is that number of us" ...#MTLed
 あなたが『オリジナル』って呼んでるエコーは
  この水路に住み着くことを決めた……
 > CONTEXT: Map121/events/5/pages/1/150/Dialogue/enemy12
-Whatever happened, Echo first came here ...
-Echo you call "original" is. I decided to live in
-this waterway ......#MTLed
+Whatever happened, when that first Echo arrived,
+the one you call the "original", she decided to
+make her home in those waterways...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -389,8 +401,9 @@ this waterway ......#MTLed
 
 多分『オリジナル』も、困惑したんじゃないかしら…
 > CONTEXT: Map121/events/5/pages/1/155/Dialogue/enemy12
-But from that moment on, another "Echo" was born
-around. Maybe "original" is also puzzled ...#MTLed
+But just after that happened, another "Echo" was
+born in the area. Maybe even that "original" was
+also perplexed by this...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -398,16 +411,16 @@ around. Maybe "original" is also puzzled ...#MTLed
 
 そんな性質だから、私達に特別な個体は元々存在しないのよ。
 > CONTEXT: Map121/events/5/pages/1/159/Dialogue/enemy12
-Now I call it "original" to suit you
-Because of that nature, there are no special
-individuals originally from us.#MTLed
+Now I'm calling her the "original" like you are,
+but you should know that among us there are no
+individuals with any kind of special qualities.#Ron
 > END STRING
 
 > BEGIN STRING
 なるほど………
 > CONTEXT: Map121/events/5/pages/1/163/Dialogue/kazuya
 > CONTEXT: Map122/events/5/pages/1/180/Dialogue/kazuya
-I see………#MTLed
+I see...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -415,8 +428,8 @@ I see………#MTLed
 
 何で君の周囲には、他のエコーが現れないの？
 > CONTEXT: Map121/events/5/pages/1/166/Dialogue/kazuya
-that……? But if it were. Why is no other Echo
-appearing around you?#MTLed
+But hang on... If that's what happened, why
+aren't any other Echos appearing around you?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -424,7 +437,9 @@ appearing around you?#MTLed
 
  不思議よね……♪
 > CONTEXT: Map121/events/5/pages/1/171/Dialogue/enemy13
-That, I was also worried. It is strange ...♪#MTLed
+That's something I've been wondering about too.
+
+It's strange, isn't it...? ♪#Ron
 > END STRING
 
 > BEGIN STRING
@@ -432,8 +447,10 @@ That, I was also worried. It is strange ...♪#MTLed
 
 多分、この部屋が『場所』じゃないからじゃない？
 > CONTEXT: Map121/events/5/pages/1/175/Dialogue/enemy13
-Probably...Maybe not because this room is not a
-place.#MTLed
+This is just a guess but...
+
+Maybe it's because this room isn't actually a
+"place".#Ron
 > END STRING
 
 > BEGIN STRING
@@ -441,8 +458,9 @@ place.#MTLed
 
 私を受け入れてくれるために、あなたが用意した部屋……
 > CONTEXT: Map121/events/5/pages/1/179/Dialogue/enemy13
-Here is part of your spirit world ...
-A room that you have prepared to accept me ...#MTLed
+This place is part of your inner world...
+
+You prepared this room as part of accepting me...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -450,8 +468,9 @@ A room that you have prepared to accept me ...#MTLed
 
 『場所』じゃないから、音が反響するわけでもない。
 > CONTEXT: Map121/events/5/pages/1/183/Dialogue/enemy13
-So, the other Echo is not here
-It's not a place, so the sound doesn't echo.#MTLed
+So other Echos can't come in here, and because
+this isn't really a "place", sound doesn't echo
+in here either.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -460,9 +479,10 @@ It's not a place, so the sound doesn't echo.#MTLed
 さっき私が自分で『特別な個体は存在しない』って
 言ったばかりなのに……
 > CONTEXT: Map121/events/5/pages/1/188/Dialogue/enemy13
-...... ...... really, weird ...
-Just as I said "no special individuals exist"
-I just said that ...#MTLed
+...It really is strange...
+
+Even though I said that there are no special
+individuals...#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -470,8 +490,8 @@ I just said that ...#MTLed
 
 こんな感情を持っていたのね……♡
 > CONTEXT: Map121/events/5/pages/1/193/Dialogue/enemy13
-Surely "original" Echo too. I had such feelings
-... ♡#MTLed
+I'm sure the "original" Echo felt the same way
+as me... ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -479,8 +499,10 @@ Surely "original" Echo too. I had such feelings
 
 聞いていい？
 > CONTEXT: Map121/events/5/pages/1/199/Dialogue/enemy12
-...... Well, I have been worried about there too.
-May I ask you?#MTLed
+Hey... there's something about that place that's
+been on my mind too.
+
+Do you mind if I ask you about it?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -488,8 +510,8 @@ May I ask you?#MTLed
 
  分かってると思うけど、私たちエコーは外見が同じ……
 > CONTEXT: Map121/events/5/pages/1/203/Dialogue/enemy12
-Why did you understand "me"? I know that we,
-Echo, have the same appearance ...#MTLed
+How were you able to tell it was me? As we both
+know, we Echos all have the same appearance...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -497,10 +519,10 @@ Echo, have the same appearance ...#MTLed
 
 それどころか、声やしゃべり方だって全く一緒。
 > CONTEXT: Map121/events/5/pages/1/207/Dialogue/enemy12
-There is no difference in ability, and just
-looking at it can not be distinguished absolutely
-On the contrary, the voice and the way of
-speaking are completely the same.#MTLed
+We all have the same abilities, so it's not
+possible to tell us apart just by looking.
+In fact both our voices and way of speaking are
+all the same too.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -508,8 +530,7 @@ speaking are completely the same.#MTLed
 
 呼ぶところすら同じだったのに…
 > CONTEXT: Map121/events/5/pages/1/211/Dialogue/enemy12
-"\\N[1]" you. Even the place I called was the
-same ...#MTLed
+Even the way we called your name was identical...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -517,8 +538,8 @@ same ...#MTLed
 
 『私』だって見抜いたの……？
 > CONTEXT: Map121/events/5/pages/1/215/Dialogue/enemy12
-How are you talking in the reservoir
-Did you even see "I" ...?#MTLed
+How were you able to tell it was me when I called
+out to you in the reservoir...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -527,10 +548,10 @@ Did you even see "I" ...?#MTLed
 でも、水路の彼が『オリジナル』を区別できた事を
 考えると、特殊能力とかではない…気がする……。
 > CONTEXT: Map121/events/5/pages/1/221/Dialogue/kazuya
-I do not understand……. But that he in the water
-channel could distinguish "original"
-If you think about it, it's not a special ability
-...#MTLed
+I don't know... But thinking about that guy who
+could also tell the "original" from the others,
+I get the feeling it's not some kind of special
+ability.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -538,9 +559,9 @@ If you think about it, it's not a special ability
 
 『人間』ならではの感覚なのかも………
 > CONTEXT: Map121/events/5/pages/1/226/Dialogue/kazuya
-Surely we identify favorite person by gesture and
-atmosphere. It may be a sense unique to "human"
-.........#MTLed
+I think humans have a way of recognizing the ones
+we like by their mannerisms and the way they
+carry themselves.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -548,8 +569,9 @@ atmosphere. It may be a sense unique to "human"
 
 私たちエコーには、きっとない感覚だわ……
 > CONTEXT: Map121/events/5/pages/1/231/Dialogue/enemy13
-Fu ..... After all, humans are also mostly
-strange...We do not feel like Echo#MTLed
+Fufu... Humans really are so strange...
+
+We Echos don't have anything like that.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -557,8 +579,9 @@ strange...We do not feel like Echo#MTLed
 
 いいえ、絶対に理解するから……♡
 > CONTEXT: Map121/events/5/pages/1/235/Dialogue/enemy13
-I want to understand that feeling someday ...
-No, I understand it absolutely...♡#MTLed
+I want to understand that feeling someday...
+
+No, I definitely will understand it... ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -566,8 +589,9 @@ No, I understand it absolutely...♡#MTLed
 
  『リョウリ』って、やったことある？
 > CONTEXT: Map121/events/5/pages/1/244/Dialogue/enemy12
-Hey, \\N[1]. Have you ever done something about
-Ryouri?#MTLed
+Hey, \\N[1].
+
+Have you ever "cooked" before?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -576,9 +600,9 @@ Ryouri?#MTLed
 そりゃあ、一人暮らしだから、ある程度は……
 でも、どうしてまた急に……！？
 > CONTEXT: Map121/events/5/pages/1/249/Dialogue/kazuya
-Ryo...Cooking ...! ? Well, because I live
-alone, to some extent...But why suddenly again
-...! ?#MTLed
+C-Cooking...?! Well I lived alone so I kinda had
+to cook a little... Why are you asking about that
+all of a sudden?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -586,9 +610,10 @@ alone, to some extent...But why suddenly again
 
 生魚じゃなくて、いつか魚の料理を食べさせたいって…
 > CONTEXT: Map121/events/5/pages/1/254/Dialogue/enemy12
-The person who said "original" was saying ...
-I would like to have fish dishes someday, not raw
-fish ...#MTLed
+The "original" who talked with the human
+mentioned it. She said someday she wanted to eat
+cooked fish instead of having it raw all the
+time.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -596,9 +621,9 @@ fish ...#MTLed
 
 傍らで聞いてた私も、どんな物かとても気になったわ
 > CONTEXT: Map121/events/5/pages/1/258/Dialogue/enemy12
-"Original" Echo was also curious
-I was listening by the side, I was very worried
-about what kind of thing#MTLed
+The "original" Echo was really interested in it.
+And when I overheard her talking about it, it got
+me curious about what it's like too.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -606,8 +631,8 @@ about what kind of thing#MTLed
 
 私も食べてみたいなって………
 > CONTEXT: Map121/events/5/pages/1/262/Dialogue/enemy12
-If \\N[1] can prepare it...I want to eat too
-... ...#MTLed
+If you could make something for me, I'd like to
+try it...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -615,8 +640,7 @@ If \\N[1] can prepare it...I want to eat too
 
 近くに台所とかもないし……
 > CONTEXT: Map121/events/5/pages/1/267/Dialogue/kazuya
-No, no...but...... I have no kitchen nearby
-.......#MTLed
+O-Oh b-but... there's no kitchen around here...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -625,8 +649,9 @@ No, no...but...... I have no kitchen nearby
  ひょっとして台所か？
  良かったな\\N[1]
 > CONTEXT: Map121/events/5/pages/1/277/Dialogue/other2
-Oh? What is the door at this timing?
-Is it probably a kitchen? It was good \\N[1]#MTLed
+What's this? Don't tell me that doorway that's
+appeared with such incredible timing is a
+kitchen. Aren't you glad, \\N[1]?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -635,9 +660,9 @@ Is it probably a kitchen? It was good \\N[1]#MTLed
 で、でも、ここは現実世界じゃないんだろ？
  味覚なんて、認知次第なんじゃないのか…！？
 > CONTEXT: Map121/events/5/pages/1/283/Dialogue/kazuya
-Eh.........? Well, but this is not the real
-world, isn't it? What a taste, it depends on the
-cognition ...! ?#MTLed
+W-Wha-...? B-But this isn't the real world,
+right? Things like taste might not work like they
+do in reality.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -646,9 +671,10 @@ cognition ...! ?#MTLed
  確かにお前の精神世界だが、そこで用意される材料が
  お前の認知ってだけで、調理の味は現実忠実だぜ？
 > CONTEXT: Map121/events/5/pages/1/288/Dialogue/other2
-No? Certainly the spirit world, but the materials
-prepared there are. Is your taste true to life
-just by your recognition?#MTLed
+I think it'll be fine. Though this isn't the real
+world, the taste of whatever you make should line
+up with your perception of how the food should
+taste in reality.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -657,9 +683,10 @@ just by your recognition?#MTLed
 嫌なら、無理に用意しなくてもいいのよ……？
 もともと、私のわがままだし………
 > CONTEXT: Map121/events/5/pages/1/296/Dialogue/enemy12
-\\N[1] ......... If you don't like it, you don't
-have to prepare it by force ...?
-Originally, my selfishness .........#MTLed
+\\N[1]... You don't have to do it if you don't
+want to...
+
+I was just being selfish...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -667,21 +694,22 @@ Originally, my selfishness .........#MTLed
 
 ちくしょう！魚料理苦手だけど、やってやるぞ！
 > CONTEXT: Map121/events/5/pages/1/306/Dialogue/kazuya-a
-Yeah! create! I will make it! 
-Let's go! I am not good at cooking fish, but I
-will do it!#MTLed
+No no, I'll do it! I'll make it for you!
+
+I don't know what I'm doing but dammit I'll give
+it a go!#Ron
 > END STRING
 
 > BEGIN STRING
  \\N[1]、これは………？
 > CONTEXT: Map121/events/5/pages/1/320/Dialogue/enemy12
-\\N[1], is this .........?#MTLed
+\\N[1], what's this...?#Ron
 > END STRING
 
 > BEGIN STRING
 さ、サンマの塩焼き………
 > CONTEXT: Map121/events/5/pages/1/322/Dialogue/kazuya-a
-Well, salt-grilled saury .........#MTLed
+I-It's salt-grilled mackerel...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -689,9 +717,9 @@ Well, salt-grilled saury .........#MTLed
 
 塩焼きのどこをどうやったら、こうなるんだよ……
 > CONTEXT: Map121/events/5/pages/1/324/Dialogue/other2
-hey you ......... * mrrmph hmph * not ......
-What do you do with salt-baking and what will you
-do ...#MTLed
+Hey, isn't it a bit dry...?
+
+That's what happens if you overcook it...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -699,40 +727,39 @@ do ...#MTLed
 
  おそるおそる、口にした…………。
 > CONTEXT: Map121/events/5/pages/1/330/Dialogue
-Echo grilled salt in front of you. I felt sorry, I said
-.........#MTLed
+Echo gingerly tastes the salt-grilled fish before her.#Ron
 > END STRING
 
 > BEGIN STRING
 ど、どう………？
 > CONTEXT: Map121/events/5/pages/1/336/Dialogue/kazuya
-How and how .........?#MTLed
+H-How is it...?#Ron
 > END STRING
 
 > BEGIN STRING
 ………………まずいか？
 > CONTEXT: Map121/events/5/pages/1/338/Dialogue/other2
-............... what's wrong?#MTLed
+...Is it bad?#Ron
 > END STRING
 
 > BEGIN STRING
 
 \\{おい！！
 > CONTEXT: Map121/events/5/pages/1/340/Dialogue/kazuya
-\\{Hey! !#MTLed
+\\{Hey!!#Ron
 > END STRING
 
 > BEGIN STRING
 …………………まずい………
 > CONTEXT: Map121/events/5/pages/1/343/Dialogue/enemy9
-…………………Unpalatable………#MTLed
+...It's bad...#Ron
 > END STRING
 
 > BEGIN STRING
 
 \\{\\{泣くほど！？
 > CONTEXT: Map121/events/5/pages/1/345/Dialogue/kazuya-a
-\\{\\{As I cry! ?#MTLed
+\\{\\{Enough to make you cry?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -740,8 +767,9 @@ How and how .........?#MTLed
 
  今すぐ作り直すから……！！
 > CONTEXT: Map121/events/5/pages/1/348/Dialogue/kazuya-a
-Sorry, Echo!!I'll rebuild it right away ......!
-!#MTLed
+S-Sorry, Echo!!
+
+I'll make you another one...!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -749,8 +777,8 @@ Sorry, Echo!!I'll rebuild it right away ......!
 
 泣いてるのは別に、まずいからじゃないの……
 > CONTEXT: Map121/events/5/pages/1/352/Dialogue/enemy9
-It's different ............ Apart from crying,
-it's not bad either ...#MTLed
+It's not that... I'm not crying because it
+tastes bad...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -759,9 +787,9 @@ it's not bad either ...#MTLed
 この魚は、\\N[1]が私に食べさせようとして
 焼いてくれたんだと思うと……嬉しくて……
 > CONTEXT: Map121/events/5/pages/1/356/Dialogue/enemy9
-It is the first time for me to get someone to do
-something...This fish is trying to make \\N[1]
-eat me. I think I baked it...I'm happy ...#MTLed
+This is the first time I've asked someone to do
+something for me. When I thought about how you
+prepared this for me, it made me really happy...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -769,14 +797,15 @@ eat me. I think I baked it...I'm happy ...#MTLed
 
 私のわがままのために…頑張ってくれて…
 > CONTEXT: Map121/events/5/pages/1/361/Dialogue/enemy9
-Thank you \\N[1] ............ 
-For my selfishness...Good luck ...#MTLed
+Thank you, \\N[1].
+
+You worked hard for me...#Ron
 > END STRING
 
 > BEGIN STRING
 エコー…………………
 > CONTEXT: Map121/events/5/pages/1/365/Dialogue/kazuya
-Echo .....................#MTLed
+Echo...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -785,9 +814,9 @@ Echo .....................#MTLed
 これで料理の味の『初めて』も美味かったら
 文句なしだったろうになぁ……
 > CONTEXT: Map121/events/5/pages/1/367/Dialogue/other2
-Ah, ah...... If this is the first taste of the
-food tastes delicious. I would not have
-complained ...#MTLed
+God grief... If the food had actually been tasty
+this would've been a perfect "first time" for
+her...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -795,8 +824,9 @@ complained ...#MTLed
 
 ちゃんと料理の練習するから！！
 > CONTEXT: Map121/events/5/pages/1/372/Dialogue/kazuya-a
-understood!!Already!!Because you practice
-cooking properly! !#MTLed
+I get it already!!
+
+I'll practice cooking more!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -811,8 +841,10 @@ cooking properly! !#MTLed
 私、なんとなく分かった気がするの。
  人間の『愛し方』……
 > CONTEXT: Map121/events/5/pages/1/389/Dialogue/enemy13
-\\N[1] ......... I feel somehow understood.
-Human 'love' ...#MTLed
+\\N[1]...
+
+I think I understand the way humans love each
+other now...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -821,10 +853,10 @@ Human 'love' ...#MTLed
  『人間の考える恋愛』と『私たちの好意』は
 根本から考え方が違うんだと思ってた。
 > CONTEXT: Map121/events/5/pages/1/395/Dialogue/enemy13
-I'm sure...I misunderstood. 
-"The love of humanity" and "Our favor" are
-I thought that the way of thinking was
-fundamentally different.#MTLed
+I had the wrong impression. I thought that the
+difference between the way humans think of love,
+and our kind of affection was just a different
+way of thinking about it.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -832,8 +864,10 @@ fundamentally different.#MTLed
 
 『人間の愛し方』を……『愛の考え方』を
 > CONTEXT: Map121/events/5/pages/1/400/Dialogue/enemy13
-So I wanted to know..."The Man's Love"..."The
-Way of Love"#MTLed
+So I wanted to understand...
+
+Understand how humans love...
+Understand what humans think about love...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -841,8 +875,9 @@ Way of Love"#MTLed
 
 ただほんの少し、『自信』を持てばよかったのよ
 > CONTEXT: Map121/events/5/pages/1/404/Dialogue/enemy13
-But...not. Just a little bit, I wish I had
-"confidence"#MTLed
+But that wasn't it at all.
+
+I just needed a little bit of self-confidence.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -850,9 +885,10 @@ But...not. Just a little bit, I wish I had
 
 だから相手を洗脳して、眷族にするしかない……
 > CONTEXT: Map121/events/5/pages/1/408/Dialogue/enemy13
-I can not be loved because I am demon ...
-So I have to brainwash my opponent and make it a
-barbarian ......#MTLed
+I'm unloveable because I'm a demon...
+
+So I had no other option but to brainwash my
+opponent and make them my follower...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -861,9 +897,9 @@ barbarian ......#MTLed
 『あの二人』が……そして\\N[1]が
 身をもって教えてくれた……
 > CONTEXT: Map121/events/5/pages/1/412/Dialogue/enemy13
-But I can love you without doing that
-"Two of them"...and \\N[1]. Teach me with my
-own ......#MTLed
+But after seeing those two who could love each
+other without doing that, and having firsthand
+experience of that with you...#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -871,7 +907,9 @@ own ......#MTLed
 
 私を受け入れてくれて……
 > CONTEXT: Map121/events/5/pages/1/418/Dialogue/enemy13
-Thank you \\N[1] ♡. Accept me ...#MTLed
+Thank you, \\N[1]. ♡
+
+For accepting me...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -879,8 +917,9 @@ Thank you \\N[1] ♡. Accept me ...#MTLed
 
 今度こそ、愛し合って、癒してあげるから…
 > CONTEXT: Map121/events/5/pages/1/425/Dialogue/enemy13
-Come...♡. This time, I will love you and heal
-you ...#MTLed
+Come here... ♡
+
+This time I'll love and heal you...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -888,13 +927,13 @@ you ...#MTLed
 
 水の中へと入った……
 > CONTEXT: Map121/events/5/pages/1/430/Dialogue
-\\N[1] remains to be led by Echo. I went into the water ...#MTLed
+Echo leads \\N[1] into the water with her...#Ron
 > END STRING
 
 > BEGIN STRING
 キヒッ……！♡
 > CONTEXT: Map121/events/5/pages/1/439/Dialogue/enemy13
-Kihi.........! Moth#MTLed
+Kihi...! ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -902,8 +941,9 @@ Kihi.........! Moth#MTLed
 
 私の『愛』、しっかり感じてくれた…？
 > CONTEXT: Map121/events/5/pages/1/471/Dialogue/enemy13
-How? \\N[1] ......... You felt my "love" firmly
-...?#MTLed
+How did it feel, \\N[1]...?
+
+Did my "love" get through to you...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -911,7 +951,9 @@ How? \\N[1] ......... You felt my "love" firmly
 
 死ぬかと思うくらいには……
 > CONTEXT: Map121/events/5/pages/1/475/Dialogue/kazuya-2
-No………. I think I will die ...#MTLed
+Y-Yeah...
+
+So much so I thought I was a goner...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -919,8 +961,7 @@ No………. I think I will die ...#MTLed
 
 これっきりに………して………
 > CONTEXT: Map121/events/5/pages/1/479/Dialogue/kazuya-2
-And if you can...this method ...
-Just this............ ...#MTLed
+I'd like to never do that again if possible...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1115,7 +1156,7 @@ By receiving the engagement ring. \\C[2]Engaged with Echo!#MTLed
 > BEGIN STRING
 え、エコー…！
 > CONTEXT: Map121/events/7/pages/0/5/Dialogue/kazuya
-Eh, Echo ...!#MTLed
+E-Echo...!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1124,8 +1165,9 @@ Eh, Echo ...!#MTLed
 
 私、待ちきれなくて……
 > CONTEXT: Map121/events/7/pages/0/7/Dialogue/enemy12
-I'm sorry……. Even though \\N[1] promised me ...
-I can not wait ...#MTLed
+I'm sorry... I know you promised me but...
+
+I got so impatient...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1133,8 +1175,8 @@ I can not wait ...#MTLed
 
  それで………
 > CONTEXT: Map121/events/7/pages/0/12/Dialogue/enemy12
-When you come here, ask me that I can see you
-anytime. So .........#MTLed
+I heard that if I came here, I could see you all
+the time, so I...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1142,8 +1184,7 @@ anytime. So .........#MTLed
 
 あなたが欲しいって気持ちは今も変わらない…
 > CONTEXT: Map121/events/7/pages/0/18/Dialogue/enemy12
-\\N[1], I am ......... Feeling that you want does
-not change now ...#MTLed
+\\N[1], I still want you as much as ever...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1151,8 +1192,8 @@ not change now ...#MTLed
 
 私は迷っていたのかもしれない……
 > CONTEXT: Map121/events/7/pages/0/22/Dialogue/enemy12
-But as you say, look at "Two people" ...
-Maybe I was lost ...#MTLed
+But like you said, maybe I'd gotten weird ideas
+after seeing those two at the park...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1160,9 +1201,9 @@ Maybe I was lost ...#MTLed
 
  頭の中は、全く書き換えられていないはずなのに……
 > CONTEXT: Map121/events/7/pages/0/26/Dialogue/enemy12
-He was able to distinguish "Echo" that he
-thought. The mind should not have been rewritten
-at all ...#MTLed
+That human was able to tell his Echo apart from
+the others, and I don't think his mind had even
+been overwritten.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1170,8 +1211,9 @@ at all ...#MTLed
 
 少しも頭の中を書き換えようとはしなかった……
 > CONTEXT: Map121/events/7/pages/0/30/Dialogue/enemy12
-Even that 'Echo', I want him to be unbearable
-I did not try to rewrite my mind a little ...#MTLed
+And even though that Echo wanted him so badly,
+she didn't try overwriting his mind even a
+little...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1179,7 +1221,8 @@ I did not try to rewrite my mind a little ...#MTLed
 
 あの二人の『愛し方』を……
 > CONTEXT: Map121/events/7/pages/0/34/Dialogue/enemy12
-I want to know. Those two 'love's ...#MTLed
+I want to understand the kind of love those two
+had...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1187,8 +1230,8 @@ I want to know. Those two 'love's ...#MTLed
 
 だけど、私は『書き換えて』手に入れる方法しか知らない
 > CONTEXT: Map121/events/7/pages/0/40/Dialogue/enemy12
-Surely, it is a natural way in the human world.
-But I only know how to get it 'rewritten'#MTLed
+I'm sure for humans its obvious, but all I know
+how to do is rewrite someone's mind.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1196,8 +1239,9 @@ But I only know how to get it 'rewritten'#MTLed
 
  話をしたい、抱き合いたい……
 > CONTEXT: Map121/events/7/pages/0/44/Dialogue/enemy12
-So, I want to touch you more. 
-I want to talk, Hug I want to meet ...#MTLed
+So I want us to touch each other more.
+
+I want to talk, I want us to hold each other...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1205,5 +1249,5 @@ I want to talk, Hug I want to meet ...#MTLed
 
 待ってるから………
 > CONTEXT: Map121/events/7/pages/0/49/Dialogue/enemy13
-.... I am always here...I'm waiting ...#MTLed
+I'll always be here waiting for you...#Ron
 > END STRING
