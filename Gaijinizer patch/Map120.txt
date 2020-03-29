@@ -2,43 +2,43 @@
 > BEGIN STRING
 雑談する en(v[51] \>= 25) 
 > CONTEXT: Map120/events/5/pages/0/31/Choice/0
-Chaten(v[51] \>= 25)#MTLed
+Chaten(v[51] \>= 25)#Ron
 > END STRING
 
 > BEGIN STRING
 搾精（キス）en(v[51] \>= 25) 
 > CONTEXT: Map120/events/5/pages/0/31/Choice/1
-milkingen(v[51] \>= 25)#MTLed
+Milking (kiss)en(v[51] \>= 25)#Ron
 > END STRING
 
 > BEGIN STRING
 搾精（パイズリ）en(v[51] \>= 50) 
 > CONTEXT: Map120/events/5/pages/0/31/Choice/2
-milking (tit-fuck)en(v[51] \>= 50)#MTLed
+Milking (paizuri)en(v[51] \>= 50)#Ron
 > END STRING
 
 > BEGIN STRING
 搾精（フェラ）en(v[51] \>= 50) 
 > CONTEXT: Map120/events/5/pages/0/31/Choice/3
-milkingen(v[51] \>= 50)#MTLed
+Milking (blowjob)en(v[51] \>= 50)#Ron
 > END STRING
 
 > BEGIN STRING
 【スフィンクス】種族：魔獣
 > CONTEXT: Map120/events/5/pages/0/33/ChoiceHelp
-[Sphinx] Race: Beast#MTLed
+[Sphinx] Tribe: Legendary Beast#Ron
 > END STRING
 
 > BEGIN STRING
 搾精（プレス）en(v[51] \>= 100) 
 > CONTEXT: Map120/events/5/pages/0/144/Choice/0
-milking (press)en(v[51] \>= 100)#MTLed
+Milking (press)en(v[51] \>= 100)#Ron
 > END STRING
 
 > BEGIN STRING
 条件【\\C[2]友好度１００以上\\C[0]】
 > CONTEXT: Map120/events/5/pages/0/146/ChoiceHelp
-conditions【\\C[2] Friendship degree 100 or more\\C[0] ]#MTLed
+Requires 【\\C[2] Friendship 100\\C[0]】#Ron
 > END STRING
 
 > BEGIN STRING
@@ -46,8 +46,8 @@ conditions【\\C[2] Friendship degree 100 or more\\C[0] ]#MTLed
 
 ボクはそういうのもらっても、うれしくないなぁ……
 > CONTEXT: Map120/events/5/pages/0/263/Dialogue/enemy11
-\\N[1]-kun...I'm not happy to receive such a
-thing ...#MTLed
+\\N[1]-kun... being given this kind of thing
+doesn't make me happy at all...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -55,14 +55,15 @@ thing ...#MTLed
 
 ほら、分かるでしょ？ホラホラ
 > CONTEXT: Map120/events/5/pages/0/267/Dialogue/enemy11
-If it seems that I like you...hey?
-You see, right?look here#MTLed
+Maybe try giving me something I might like, okay?
+
+Do you get it? Come on now.#Ron
 > END STRING
 
 > BEGIN STRING
 心蝕を消すif(v[51] \>= 100) 
 > CONTEXT: Map120/events/5/pages/0/279/Choice/0
-clear the mind corruptionif(v[51] \>= 100)#MTLed
+Clear corruptionif(v[51] \>= 100)#Ron
 > END STRING
 
 > BEGIN STRING
@@ -70,7 +71,9 @@ clear the mind corruptionif(v[51] \>= 100)#MTLed
 
 うれしいー♪
 > CONTEXT: Map120/events/5/pages/0/290/Dialogue/enemy11
-Wow, \\N[1]-kun will play? I'm happy♪#MTLed
+Wow, are you gonna play with me?
+
+I'm so happy. ♪#Ron
 > END STRING
 
 > BEGIN STRING
@@ -78,14 +81,13 @@ Wow, \\N[1]-kun will play? I'm happy♪#MTLed
 
 でもそれって普段と何か違う…？
 > CONTEXT: Map120/events/5/pages/0/294/Dialogue/enemy9
-that……? But that is something different from
-usual ...?#MTLed
+Huh...? Something's different from usual...#Ron
 > END STRING
 
 > BEGIN STRING
 "スフィンクスの心蝕が治った！！"
 > CONTEXT: Map120/events/5/pages/0/305/InlineScript/1:12
-"スフィンクス's mind corruption cured!!"#MTLed
+"Sphinx's corruption has been cleared!!"#Ron
 > END STRING
 
 > BEGIN STRING
@@ -93,25 +95,27 @@ usual ...?#MTLed
 
 なに話す！？
 > CONTEXT: Map120/events/5/pages/1/1/Dialogue/enemy11
-There is no story!OK!! What do you talk about!?#MTLed
+Chatting! Let's do it!!
+
+What do you wanna talk about?!#Ron
 > END STRING
 
 > BEGIN STRING
 公園に居た理由en(v[51] \>= 30) 
 > CONTEXT: Map120/events/5/pages/1/7/Choice/0
-The reason I was in the parken(v[51] \>= 30)#MTLed
+Why she was in the parken(v[51] \>= 30)#RonIffyWording
 > END STRING
 
 > BEGIN STRING
 スフィンクスの身体en(v[51] \>= 40) 
 > CONTEXT: Map120/events/5/pages/1/7/Choice/1
-Sphinx's bodyen(v[51] \>= 40)#MTLed
+Her bodyen(v[51] \>= 40)#Ron
 > END STRING
 
 > BEGIN STRING
 スフィンクスの翼en(v[51] \>= 60) 
 > CONTEXT: Map120/events/5/pages/1/7/Choice/2
-Sphinx's wingsen(v[51] \>= 60)#MTLed
+Her wingsen(v[51] \>= 60)#Ron
 > END STRING
 
 > BEGIN STRING
@@ -119,8 +123,8 @@ Sphinx's wingsen(v[51] \>= 60)#MTLed
 
 何の門番をやっていたの…？
 > CONTEXT: Map120/events/5/pages/1/12/Dialogue/kazuya
-First of all, why is Sphinx in that place
-What gatekeeper did you ...?#MTLed
+So why were you in that spot in the first place
+being a gatekeeper?#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -128,8 +132,8 @@ What gatekeeper did you ...?#MTLed
 
 港への道ではあったけども……
 > CONTEXT: Map120/events/5/pages/1/16/Dialogue/kazuya
-Certainly that direction is my purpose place
-It was a road to the harbor but ...#MTLed
+I mean, that was the direction I needed to go to
+reach the harbor...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -137,9 +141,9 @@ It was a road to the harbor but ...#MTLed
 
 人ももう来ないものだと思ってたから……。
 > CONTEXT: Map120/events/5/pages/1/20/Dialogue/enemy11
-Actually, I was there for no reason.
-I thought that people would not come anymore
-......#MTLed
+To tell you the truth, I wasn't there for any
+particular reason. I didn't think anyone would
+actually come through there...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -147,14 +151,15 @@ I thought that people would not come anymore
 
 ボク、迷子だったんだよ。
 > CONTEXT: Map120/events/5/pages/1/24/Dialogue/enemy11
-I mean, I don't have to hide it, so I'll say it
-on this occasion...I was lost.#MTLed
+I guess I don't have to hide it anymore...
+
+I'd gotten myself a little lost.#Ron
 > END STRING
 
 > BEGIN STRING
 えっ……？
 > CONTEXT: Map120/events/5/pages/1/28/Dialogue/kazuya
-eh……?#MTLed
+Come again...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -162,9 +167,8 @@ eh……?#MTLed
 
 『ヘカーテ』って言う別の魔王さまのお供をしてたんだ。
 > CONTEXT: Map120/events/5/pages/1/30/Dialogue/enemy11
-I am told by my husband, Lady Hera
-He was accompanied by another Demon Queen called
-"Hecate".#MTLed
+I was told by my master Lady Hera that I had to
+accompany another Demon King called "Hecate".#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -172,8 +176,8 @@ He was accompanied by another Demon Queen called
 
  ボクもこの世界につれてこられたんだけど……
 > CONTEXT: Map120/events/5/pages/1/34/Dialogue/enemy11
-So she says she's going to play in the human
-realm. I came to this world, too ...#MTLed
+So when she went to the human realm to play, I
+was brought along to this world as well...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -181,9 +185,8 @@ realm. I came to this world, too ...#MTLed
 
 いつのまにかヘカーテさま、どっか行っちゃってて……
 > CONTEXT: Map120/events/5/pages/1/38/Dialogue/enemy11
-If you are crazy about playing in the sandbox in
-the park. Before you know Hecate-sama, I'm going
-somewhere ...#MTLed
+We were playing in the sand pit in the park when
+she went off somewhere all of the sudden...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -192,9 +195,10 @@ somewhere ...#MTLed
 だんだん武器を持った怖そうな人間が集まってきて
 出るに出られなくなってきたんだよね……
 > CONTEXT: Map120/events/5/pages/1/44/Dialogue/enemy11
-Well, I was waiting to come back soon
-A scary human with a weapon gathers
-You've been out of it, right?#MTLed
+So then I was waiting around thinking about maybe
+going back home when all these scary-looking
+humans with weapons started turning up. So I
+wasn't sure if I'd be able to leave, after all.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -203,10 +207,10 @@ You've been out of it, right?#MTLed
 
 みんなが移動するまで、じっと隠れてた。
 > CONTEXT: Map120/events/5/pages/1/49/Dialogue/enemy11
-You see, I'm not going to fight Gachi
-Because I can not win if I can not assemble with
-the basic tieman...It was still hidden until
-everyone moved.#MTLed
+You see, I'm not really made to go head-on in a
+fight. If I can't pin them down in a one-on-one
+fight, I can't win. So I quietly hid until they'd
+all moved on.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -214,9 +218,9 @@ everyone moved.#MTLed
 
 周りを草木を生い茂らせて、好き勝手遊んでたんだよ。
 > CONTEXT: Map120/events/5/pages/1/54/Dialogue/enemy11
-Well, after confirming that no one was gone
-I planted the plants around and I played for
-myself.#MTLed
+And after I'd confirmed everyone was gone, I
+planted a bunch of trees around and just played
+around by myself.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -224,9 +228,9 @@ myself.#MTLed
 
 集団で向かうのを見てたから、そっちかなーって思って。
 > CONTEXT: Map120/events/5/pages/1/58/Dialogue/enemy11
-The people who had been in the back of the harbor
-direction. I saw it going at gangbang, so I
-thought it would be that way.#MTLed
+I'd seen a group of humans head toward the harbor
+behind me, so I thought for sure there'd be more
+coming.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -234,8 +238,9 @@ thought it would be that way.#MTLed
 
 ヘカーテさまも帰ってこない……
 > CONTEXT: Map120/events/5/pages/1/63/Dialogue/enemy11
-But I can not wait for people to wait ...
-Hecate-sama will not come back ...#MTLed
+But I waited for ages and no one turned up...
+
+And Hecate-sama hadn't come back either...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -243,7 +248,8 @@ Hecate-sama will not come back ...#MTLed
 
 気を紛らわしていたんだけど……
 > CONTEXT: Map120/events/5/pages/1/67/Dialogue/enemy11
-Play alone for a while. I was confusing but ...#MTLed
+Playing by myself distracted me for a while
+but...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -251,8 +257,9 @@ Play alone for a while. I was confusing but ...#MTLed
 
 \\N[1]くんが来てくれて、よかった……
 > CONTEXT: Map120/events/5/pages/1/72/Dialogue/enemy11
-Well, it seems lonely .........
-It was good that \\N[1]-kun came#MTLed
+I-I got real lonely...
+
+I was so glad when you came, \\N[1]-kun...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -260,7 +267,9 @@ It was good that \\N[1]-kun came#MTLed
 
 そうやってすぐ泣くなよ！もう！
 > CONTEXT: Map120/events/5/pages/1/76/Dialogue/kazuya
-I understand! Don't cry so soon! Already!#MTLed
+Okay, okay!
+
+Stop with the waterworks all the time!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -269,9 +278,9 @@ I understand! Don't cry so soon! Already!#MTLed
 
  色々と想像とは全然違うんだけど……
 > CONTEXT: Map120/events/5/pages/1/81/Dialogue/kazuya
-Totally...Are you really Sphinx of that Greek
-myth ...? Though it is completely different from
-imagination in various ways ......#MTLed
+Good grief... Are you the actual Sphinx from
+Greek mythology? You're pretty different from
+what I imagined you'd be...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -279,8 +288,8 @@ imagination in various ways ......#MTLed
 
 ボク、大昔に一度倒されて、創り直されたわけだし……
 > CONTEXT: Map120/events/5/pages/1/86/Dialogue/enemy11
-Hm, isn't it exactly? I was beaten once in a long
-time ago, and it has been recreated ......#MTLed
+Hmm, I'm not exactly the same one. I was defeated
+once a long time ago, and then recreated...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -289,9 +298,9 @@ time ago, and it has been recreated ......#MTLed
 『相手から知識を吸う能力』と
 『搾精器官』も付けてもらったんだ！
 > CONTEXT: Map120/events/5/pages/1/90/Dialogue/enemy11
-In addition to having Lady Hera recreate it
-With "the ability to suck knowledge from the
-other party". I also got a "milking organ"!#MTLed
+While Lady Hera was recreating me, she gave me
+the ability to suck out knowledge and put in a
+"milking organ"!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -299,9 +308,9 @@ other party". I also got a "milking organ"!#MTLed
 
 いつでも出れるように、名乗り文句もいっぱい練習したよ！！
 > CONTEXT: Map120/events/5/pages/1/95/Dialogue/enemy11
-of course! Even if your opponent is a woman, it's
-already done!!I practiced a lot of talks about
-myself so I could get out anytime! !#MTLed
+Naturally, I've got ways to take care of female
+opponents, too!! I practiced my lines lots and
+lots so I'd be ready to jump out whenever!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -309,9 +318,10 @@ myself so I could get out anytime! !#MTLed
 
 ようやく呼ばれたと思ったら、他の魔王様の『おとも』……
 > CONTEXT: Map120/events/5/pages/1/100/Dialogue/enemy11
-But...I never heard a voice from then on ...
-When I thought that it was finally called, “Don't
-you” of another Demon Queen ...#MTLed
+But I never heard another voice after that even
+once. When I thought I'd finally heard someone
+calling me, it was to be another Demon King's
+"companion"...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -319,9 +329,9 @@ you” of another Demon Queen ...#MTLed
 
 ヘカーテ様も、ヘラ様も探しに来ない…
 > CONTEXT: Map120/events/5/pages/1/104/Dialogue/enemy11
-At the end of the list, I got lost in a strange
-land...Neither Hecate-sama nor Lady Hera come
-to search ...#MTLed
+And on top of all that, I got lost in some
+strange land... Neither Hecate-sama nor Lady Hera
+came looking for me...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -329,19 +339,21 @@ to search ...#MTLed
 
 これってボク、捨てられ………たの……？
 > CONTEXT: Map120/events/5/pages/1/118/Dialogue/enemy11
-Oh ...? I'm gonna get rid of this ...........?#MTLed
+Wait a sec...
+
+Does that mean they... ditched me...?#Ron
 > END STRING
 
 > BEGIN STRING
 ………やっぱり、気付いてなかったのか……。
 > CONTEXT: Map120/events/5/pages/1/122/Dialogue/kazuya
-... After all, did you not notice ....#MTLed
+You never realized that...?#Ron
 > END STRING
 
 > BEGIN STRING
 ……………っ！！！
 > CONTEXT: Map120/events/5/pages/1/124/Dialogue/enemy12
-......!!!#MTLed
+...!!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -349,7 +361,9 @@ Oh ...? I'm gonna get rid of this ...........?#MTLed
 
 だから泣くなよ！
 > CONTEXT: Map120/events/5/pages/1/126/Dialogue/kazuya
-Oh no!!So don't cry!#MTLed
+Oh no!!
+
+Don't start crying again!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -357,8 +371,10 @@ Oh no!!So don't cry!#MTLed
 
 身体に対しての胸が……けっこう大きいね……
 > CONTEXT: Map120/events/5/pages/1/135/Dialogue/kazuya
-Sphinx is that ......... My heart against my body
-is pretty big ...#MTLed
+Hey Sphinx, your umm...
+
+You have have pretty big breasts considering the
+size of your body...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -367,8 +383,9 @@ is pretty big ...#MTLed
 スフィンクスって種族のメスは、大人になると
 大体これくらいになるもんだけど……
 > CONTEXT: Map120/events/5/pages/1/140/Dialogue/enemy11
-Hm, right? Sphinx is a tribe of females and
-adults. It will probably be about this but ...#MTLed
+Hmm? I do? The Sphinx are a tribe of females and
+when we reach adulthood, our bodies get all big
+like this...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -377,9 +394,9 @@ adults. It will probably be about this but ...#MTLed
 
  ちょっと胸に比重がいったかも…？
 > CONTEXT: Map120/events/5/pages/1/145/Dialogue/enemy11
-Oh, but when I reincarnate. Because I got my body
-down to human size. Did the specific gravity go
-to the chest for a moment ...?#MTLed
+Oh, but when I reincarnated, my body went down
+to about the size of a human. My boobs might
+still be the same proportions, though...#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -387,8 +404,9 @@ to the chest for a moment ...?#MTLed
 
 本来のスフィンクスのサイズって、どれくらいなの？
 > CONTEXT: Map120/events/5/pages/1/150/Dialogue/kazuya
-Hey ......... How big is the size of the original
-Sphinx?#MTLed
+I see...
+
+How big were you in your original form?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -396,8 +414,8 @@ Sphinx?#MTLed
 
 だいたい寝そべって、この部屋にギチギチに収まるくらい？
 > CONTEXT: Map120/events/5/pages/1/154/Dialogue/enemy9
-Hmmm...About to lie down, can you fit creakily
-in this room?#MTLed
+Hmm, let's see... If I spread myself out, I'd
+probably only just fit in this room.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -406,8 +424,8 @@ in this room?#MTLed
 それじゃあ、あのエジプトにあるスフィンクス像って
  わりと等身大なのか……
 > CONTEXT: Map120/events/5/pages/1/159/Dialogue/kazuya
-Big one ...! ? Well then, that Sphinx statue in
-Egypt. Is it rather life-size ...#MTLed
+That's massive...! So that Sphinx statue of you
+in Egypt is about life-sized...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -415,8 +433,10 @@ Egypt. Is it rather life-size ...#MTLed
 
 まぁそうだね、あれぐらいだよ。
 > CONTEXT: Map120/events/5/pages/1/164/Dialogue/enemy9
-Uh...that's exactly a different race ...
-Well, that's about that.#MTLed
+Well to be precise, that one's a different
+species...
+
+But yeah, it's about the right size.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -425,10 +445,10 @@ Well, that's about that.#MTLed
  ボクも昔は、なぞなぞに答えられなかった人間を
  ひょいと摘まんでゴクリってしてたんだ。
 > CONTEXT: Map120/events/5/pages/1/168/Dialogue/enemy11
-Sphinx is a demon Realm species, so there is no
-vagina for breeding. I used to be a man who
-couldn't answer riddles. I used to pick it up and
-googling.#MTLed
+The Sphinx are from the Demon Realm, so 
+we didn't have a vagina for breeding. In the old
+days, if a human couldn't answer my riddles I'd
+scoop 'em up and eat them in one gulp.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -436,9 +456,9 @@ googling.#MTLed
 
  ぜーんぜん関係ないからね！
 > CONTEXT: Map120/events/5/pages/1/173/Dialogue/enemy11
-If you're Marin, the number and gender of the
-people you challenged. It has nothing to do with
-me!#MTLed
+If you're swallowing them whole, it doesn't
+matter how many challengers there are or what
+their gender is!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -446,8 +466,10 @@ me!#MTLed
 
 じゃあ、どうしてわざわざ人間サイズに…？
 > CONTEXT: Map120/events/5/pages/1/177/Dialogue/kazuya
-................ Well then why expressly human
-size ...?#MTLed
+.....
+
+So then why did you go down to the size of a
+human...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -455,9 +477,9 @@ size ...?#MTLed
 
 称賛の意味も込めて、ひとつだけ叶えてたんだ。
 > CONTEXT: Map120/events/5/pages/1/182/Dialogue/enemy11
-...... I'm old, human's hope answered riddle
-I also praised only one with the meaning of
-praise.#MTLed
+...Back then, if there was someone who could
+answer my riddles, I could only grant them a
+single wish.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -465,8 +487,8 @@ praise.#MTLed
 
  ボクのできる範囲で、だけどね。
 > CONTEXT: Map120/events/5/pages/1/186/Dialogue/enemy11
-Of course not a monster, because there was no
-magic there. As far as I can, but.#MTLed
+Of course I'm not an apparition, and my magic
+power could only go so far...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -474,10 +496,9 @@ magic there. As far as I can, but.#MTLed
 
 もう一人だけ、ナゾナゾに正解した男がいたんだ。
 > CONTEXT: Map120/events/5/pages/1/190/Dialogue/enemy9
-The end...... a little before the appearance of
-a man who wants "my life"...
-Only one other man had a correct answer to
-riddle.#MTLed
+In the end... just before that man who wished
+for "my life", there was only one other man who
+answered my riddles correctly.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -485,7 +506,9 @@ riddle.#MTLed
 
 『ボクを抱きたい』だったんだよ
 > CONTEXT: Map120/events/5/pages/1/194/Dialogue/enemy9
-That man's wish..."I want to Hug me"#MTLed
+That man's wish was...
+
+To have sex with me...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -494,10 +517,10 @@ That man's wish..."I want to Hug me"#MTLed
 
  サイズだって無理がある、って伝えたんだけどね…
 > CONTEXT: Map120/events/5/pages/1/200/Dialogue/enemy9
-I said that, I have no reproductive organs at
-that time. I do not know the feeling or the way
-of "mating" ...... I told you that it's
-impossible even for the size ...#MTLed
+I told him I didn't have any sexual organs,
+didn't have any notion of "mating" or how to do
+it... And that's not even factoring in how my
+size made it impossible...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -505,8 +528,9 @@ impossible even for the size ...#MTLed
 
 最後には、『食べてくれ』って……
 > CONTEXT: Map120/events/5/pages/1/205/Dialogue/enemy11
-He is buried in my tits and masturbates
-At the end, "Eat me" ...#MTLed
+So he buried himself in my tits and masturbated.
+
+After that he said, "Please eat me"...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -514,8 +538,8 @@ At the end, "Eat me" ...#MTLed
 
  いたんだね…その時代にも、『そういう』人……
 > CONTEXT: Map120/events/5/pages/1/209/Dialogue/kazuya
-......... what. It was...... "that kind of
-person" in that age ...#MTLed
+...What the hell? You had "those kinds of people"
+even back then...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -523,9 +547,9 @@ person" in that age ...#MTLed
 
 なにも感じれないボクの方からしたら、不完全燃焼だよ…
 > CONTEXT: Map120/events/5/pages/1/213/Dialogue/enemy12
-Well, I wish you the winner's wish, but I'll give
-it to you. If I can not feel anything, it is
-incomplete combustion ...#MTLed
+Well, it was his wish so I had to fulfill it, but
+since I couldn't feel anything, I didn't get much
+out of it...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -534,9 +558,10 @@ incomplete combustion ...#MTLed
 
 結局不正解と同じ結末じゃないかー、ってね。
 > CONTEXT: Map120/events/5/pages/1/217/Dialogue/enemy12
-Because I looked comfortable, I quickly rolled up
-my tongue slowly, though...After all, it may
-not be the same end as an incorrect answer.#MTLed
+Because he looked like he was enjoying himself, I
+slowly rolled him around with my tongue without
+swallowing him right away. I thought he was
+getting the same result as if he'd lost.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -545,11 +570,10 @@ not be the same end as an incorrect answer.#MTLed
 
 勝者の願い事にされるのは予想外だったかなぁ。
 > CONTEXT: Map120/events/5/pages/1/222/Dialogue/enemy11
-It's been a long time in the human realm
-Even though there were people who saw me with
-that kind of eyes, I was not particularly
-surprised. It was unexpected to be made a
-winner's wish.#MTLed
+I'd been in the human realm for a long time, and
+it didn't surprise me that there were people who
+looked at me like that. But this guy's wish was
+really unexpected.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -557,8 +581,8 @@ winner's wish.#MTLed
 
 『そっち方面』にも湧いてきたんだ。
 > CONTEXT: Map120/events/5/pages/1/228/Dialogue/enemy11
-But...this event is the cause, my interest in
-human beings. I'm also talking about "where".#MTLed
+But thanks to that my interest in humans was
+born.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -566,9 +590,9 @@ human beings. I'm also talking about "where".#MTLed
 
 『相手と同サイズなら、見方が変わるんじゃないか？』
 > CONTEXT: Map120/events/5/pages/1/232/Dialogue/enemy11
-"Will mating feel so good? ". 
-"If it's the same size as your opponent, then
-your perspective will not change? "#MTLed
+"Does mating really feel that good?"
+"Will my perspective change if I'm the same size
+as my opponent?"#Ron
 > END STRING
 
 > BEGIN STRING
@@ -577,14 +601,15 @@ your perspective will not change? "#MTLed
  転生ついでに、ヘラ様にお願いして
  もろもろ創り直してもらったんだ！！
 > CONTEXT: Map120/events/5/pages/1/236/Dialogue/enemy12
-What is it? I would like to ask Lady Hera
-I was allowed to recreate it! !#MTLed
+I started wondering about things like that. When
+Lady Hera was recreating me, I got her to change
+all sorts of things!!#Ron
 > END STRING
 
 > BEGIN STRING
 な、なるほど……
 > CONTEXT: Map120/events/5/pages/1/241/Dialogue/kazuya
-Nah, I see ...#MTLed
+I-I see...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -592,8 +617,8 @@ Nah, I see ...#MTLed
 
  大きなおっぱいが好きなの？
 > CONTEXT: Map120/events/5/pages/1/244/Dialogue/enemy11
-Hihihih, what? \\N[1]-kun. Suddenly ask such a
-thing...Do you like big tits?#MTLed
+Fufufu, sooo \\N[1]-kun? Why'd you ask about
+that all of a sudden...? Do you like big tits?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -601,7 +626,9 @@ thing...Do you like big tits?#MTLed
 
 そういう意味で言ったわけじゃ……！！
 > CONTEXT: Map120/events/5/pages/1/248/Dialogue/kazuya-a
-No…! That's why I said ......! !#MTLed
+N-No I...!
+
+That's not what I meant...!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -610,15 +637,16 @@ No…! That's why I said ......! !#MTLed
 でも 、話の切り出しが『胸が大きいね』って
  あきらかにそういう意図なんじゃないの～？
 > CONTEXT: Map120/events/5/pages/1/252/Dialogue/enemy11
-Eh? But, the excerpt of the story is "I have a
-big heart". Apparently, that's what that
-intention is-?#MTLed
+Hmmmm? But the first thing you said was how I had
+big boobs.
+
+It's obvious what you were getting at.#Ron
 > END STRING
 
 > BEGIN STRING
 うっ……！
 > CONTEXT: Map120/events/5/pages/1/257/Dialogue/kazuya-a
-ugh......!#MTLed
+Ugh...!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -627,10 +655,10 @@ ugh......!#MTLed
 いっぱいぎゅーってして、ナデナデしながら
 抱きつつんだまま何度も犯してあげるから…♡
 > CONTEXT: Map120/events/5/pages/1/259/Dialogue/enemy11
-Is that okay? Whenever you jump in ...
-A lot of people are doing it, while doing
-Nadenade. Hug Because I'll commit many times
-while crawling...♡#MTLed
+But that's okay, you can jump in 'em whenever you
+like... ♡ You can rub them and squeeze them to
+your heart's content while I hold you tight and
+rape you over and over... ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -638,8 +666,8 @@ while crawling...♡#MTLed
 
 いくらだって搾ってあげられるよぉ？
 > CONTEXT: Map120/events/5/pages/1/264/Dialogue/enemy11
-If it is my current body, I can share the comfort
-How much can you squeeze?#MTLed
+In this body we can both enjoy the pleasure, and
+you can be milked as much as you like.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -647,9 +675,9 @@ How much can you squeeze?#MTLed
 
 おっぱいをそんなに押し当てないで……
 > CONTEXT: Map120/events/5/pages/1/268/Dialogue/kazuya-a
-...... I understand, ...... I apologize for
-shaking the topic...Don't push your boobs so
-much ...#MTLed
+I-I get it... I'm sorry for bringing it up...
+
+Stop trying to push your boobs on me so much...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -657,7 +685,9 @@ much ...#MTLed
 
 フフフッ♡
 > CONTEXT: Map120/events/5/pages/1/272/Dialogue/enemy11
-…………Yes. Hihihih ♡#MTLed
+...Okaaaay.
+
+Fufufu. ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1473,19 +1503,21 @@ By receiving the engagement ring. \\C[2]Engaged with Sphinx!#MTLed
 
 よくきたな！ニンゲン！
 > CONTEXT: Map120/events/7/pages/0/7/Dialogue/enemy11
-Roar! Well done!'human'!#MTLed
+Roar!
+
+So you've come, human!#Ron
 > END STRING
 
 > BEGIN STRING
 \\{\\{帰らないで！？
 > CONTEXT: Map120/events/7/pages/0/16/Dialogue/enemy12
-\\{\\{Don't go home!?#MTLed
+\\{\\{Hey don't leave!!#Ron
 > END STRING
 
 > BEGIN STRING
 えっと、何の用……？
 > CONTEXT: Map120/events/7/pages/0/23/Dialogue/kazuya
-Oh, what's for ...?#MTLed
+Umm, is there something you needed...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1493,8 +1525,9 @@ Oh, what's for ...?#MTLed
 
 ここに来るの結構苦労したんだけど……
 > CONTEXT: Map120/events/7/pages/0/26/Dialogue/enemy11
-Eh, what is it for?Well...not bad?
-I had a hard time coming here, but ...#MTLed
+Why're you being so cold?
+
+I was really worried about coming here...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1502,7 +1535,10 @@ I had a hard time coming here, but ...#MTLed
 
  目的はもちろん！なぞなぞリベンジたよ！！
 > CONTEXT: Map120/events/7/pages/0/30/Dialogue/enemy11
-Oh, so good! Of course not!Riddles are revenge!!#MTLed
+W-Well, whatever!
+
+The reason I'm here is obvious! I've come for
+vengence!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1510,20 +1546,22 @@ Oh, so good! Of course not!Riddles are revenge!!#MTLed
 
 ここを通りたければ、なんじのえーちを……
 > CONTEXT: Map120/events/7/pages/0/34/Dialogue/enemy11
-I am in revenge! If you want to pass here, you
-will have a feeling of ......#MTLed
+And this is how I'll do it!
+
+If you want to pass through here, you'll have to
+undergo hours of brutal-...#Ron
 > END STRING
 
 > BEGIN STRING
 ………君の後ろ、道ないんだけど……
 > CONTEXT: Map120/events/7/pages/0/38/Dialogue/kazuya
-......behind you, there is no way ...#MTLed
+There's no path behind you, though...#Ron
 > END STRING
 
 > BEGIN STRING
 \\{\\{ホントだ！
 > CONTEXT: Map120/events/7/pages/0/49/Dialogue/enemy12
-\\{\\{It's true!#MTLed
+\\{\\{You're right!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1531,21 +1569,21 @@ will have a feeling of ......#MTLed
 
 僕は大人しく引き返すよ……
 > CONTEXT: Map120/events/7/pages/0/52/Dialogue/kazuya
-Well then you are likely to be busy at the
-gatekeeper. I'll return with ease ......#MTLed
+W-Well then, you seem to have your hands full
+as the gatekeeper, so I'll just be on my way...#Ron
 > END STRING
 
 > BEGIN STRING
 うわっ！！！
 > CONTEXT: Map120/events/7/pages/0/64/Dialogue/kazuya
-whah!!#MTLed
+Whoa!!#Ron
 > END STRING
 
 > BEGIN STRING
 
 スフィンクスは、\\N[1]の腰に抱き付いてきた……
 > CONTEXT: Map120/events/7/pages/0/66/Dialogue
-Sphinx has Hug on \\N[1]'s waist ...#MTLed
+Sphinx is clinging to \\N[1]'s waist...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1553,8 +1591,7 @@ Sphinx has Hug on \\N[1]'s waist ...#MTLed
 
 ほ"ん"と"は"会"い"に"き"た"ん"で"す"!！
 > CONTEXT: Map120/events/7/pages/0/69/Dialogue/enemy12
-"S" "S" "S" "S" "S"! "H" and "" are "" in "" ""
-"" "" ""#MTLed
+IwaslyingI'msosorryIactuallycameheretoseeyou!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1562,8 +1599,7 @@ Sphinx has Hug on \\N[1]'s waist ...#MTLed
 
 い"っ"ぱ"い"遊"ぼ"う"よ"ぉ"！！
 > CONTEXT: Map120/events/7/pages/0/73/Dialogue/enemy12
-"I" or "M" or "M" or "M" or "M" or "!"
-"I" "P" "Y" "Y" "Y" "ぉ" !!#MTLed
+Prettypleasespendsomemoretimewithmeandplaylots!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1571,5 +1607,7 @@ Sphinx has Hug on \\N[1]'s waist ...#MTLed
 
 鼻水をこすりつけるなって！
 > CONTEXT: Map120/events/7/pages/0/77/Dialogue/kazuya
-I understand, ......! Rub a runny nose!#MTLed
+O-Okay, I get it...!
+
+Now go wipe your nose!#Ron
 > END STRING
