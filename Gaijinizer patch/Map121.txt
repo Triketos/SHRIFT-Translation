@@ -57,7 +57,7 @@ Sorry...#Ron
 > BEGIN STRING
 心蝕を消すif(v[50] \>= 100) 
 > CONTEXT: Map121/events/5/pages/0/223/Choice/0
-clear the mind corruptionif(v[50] \>= 100)#MTLed
+Clear corruptionif(v[50] \>= 100)#Ron
 > END STRING
 
 > BEGIN STRING
@@ -65,14 +65,15 @@ clear the mind corruptionif(v[50] \>= 100)#MTLed
 
 いっぱい癒やしてあげるから…♡
 > CONTEXT: Map121/events/5/pages/0/234/Dialogue/enemy13
-\\N[1], seeking me more...♡. 
-Because I will heal a lot...♡#MTLed
+I want you to want me more, \\N[1]... ♡
+
+So I'll give you lots of healing... ♡#Ron
 > END STRING
 
 > BEGIN STRING
 "エコーの心蝕が治った！！"
 > CONTEXT: Map121/events/5/pages/0/245/InlineScript/1:12
-"エコー's mind corruption cured!!"#MTLed
+"Echo's corruption has been cleared!!"#Ron
 > END STRING
 
 > BEGIN STRING
