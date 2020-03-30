@@ -981,7 +981,9 @@ has reached 100!#Triketos
 
  本気……なの？\\N[1]……
 > CONTEXT: Map121/events/5/pages/2/2/Dialogue/enemy12
-............!!Really ...? \\N[1] ......#MTLed
+...!!
+
+Are you sure about this, \\N[1]?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -989,9 +991,9 @@ has reached 100!#Triketos
 
 これから素敵な人とたくさん出会うかもしれないのに…
 > CONTEXT: Map121/events/5/pages/2/6/Dialogue/enemy12
-You are a good person, you're human and you're
-still very young...I may meet lots of nice
-people from now on ...#MTLed
+You're a good person, and still pretty young
+for a human... You might still meet lots of
+wonderful people in the future...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -999,7 +1001,9 @@ people from now on ...#MTLed
 
 『自信を持つ』………だろ？
 > CONTEXT: Map121/events/5/pages/2/11/Dialogue/kazuya
-Echo ......... "Having confidence"...... right?#MTLed
+Echo...
+
+You have confidence in yourself, right?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1007,8 +1011,9 @@ Echo ......... "Having confidence"...... right?#MTLed
 
 僕は、君がいいって決めたから、こうしてるんだ。
 > CONTEXT: Map121/events/5/pages/2/15/Dialogue/kazuya
-My future, that's not something you care about
-now. That's because I decided that you are good.#MTLed
+My future isn't something you need to worry about
+right now. I'm doing this because I decided I
+like who you are.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1017,9 +1022,10 @@ now. That's because I decided that you are good.#MTLed
 だって、この姿は本当の私じゃないもの……
 知っているでしょう……？
 > CONTEXT: Map121/events/5/pages/2/20/Dialogue/enemy12
-\\N[1]...misunderstanding ...
-Because this figure is not true me ...
-You know ...?#MTLed
+\\N[1], you're misunderstanding something...
+
+This form isn't the real me, you know that, don't
+you...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1027,8 +1033,9 @@ You know ...?#MTLed
 
 コンな……！！
 > CONTEXT: Map121/events/5/pages/2/28/Dialogue/enemy13
-This figure de, there is Tomoko standing before
-you ...! Con.........! !#MTLed
+ThiS fORm beFoRe yOU is aLsO wHo I aM...!
+
+ThIs thInG...!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1036,7 +1043,9 @@ you ...! Con.........! !#MTLed
 
 そっちの姿も好きだよ、エコー。
 > CONTEXT: Map121/events/5/pages/2/32/Dialogue/kazuya
-I do not care. I also like that figure, Echo.#MTLed
+I'm not bothered by it.
+
+I like that form too, Echo.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1044,9 +1053,9 @@ I do not care. I also like that figure, Echo.#MTLed
 
 そりゃ、最初の時はパニックを起こしてたけど……
 > CONTEXT: Map121/events/5/pages/2/39/Dialogue/kazuya
-In a word, did you think that I disliked that
-figure ...? Well, in the first time I had Panic
-...#MTLed
+I mean, did you think I hated that form...?
+
+I guess I was a bit panicked by it at first...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1054,8 +1063,8 @@ figure ...? Well, in the first time I had Panic
 
  ああやって『会話』を重ねてきたんじゃないか。
 > CONTEXT: Map121/events/5/pages/2/43/Dialogue/kazuya
-We do not create such "prejudice"
-Oh, I guess you've done a lot of conversations.#MTLed
+Haven't we gone past that kind of prejudice
+through all conversations we've had?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1064,10 +1073,10 @@ Oh, I guess you've done a lot of conversations.#MTLed
 
 全部引っくるめて、大好きな『エコー』だよ
 > CONTEXT: Map121/events/5/pages/2/47/Dialogue/kazuya
-You who care about me usually ...
-Some of you who have a strong monopoly
-It's my favorite 'Echo' that I'm all hooked up
-with#MTLed
+The fact that you're always worrying about me...
+That fact that you want to keep me to yourself...
+All those kinds of things together are what I
+like about you, Echo.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1075,14 +1084,13 @@ with#MTLed
 
 首まで完全に浸かってしまった……
 > CONTEXT: Map121/events/5/pages/2/59/Dialogue
-Echo quietly sinks in the water. I'm completely soaked up
-to my neck ...#MTLed
+Echo quietly sinks into the water up to her neck...#Ron
 > END STRING
 
 > BEGIN STRING
 まるで、火照った身体を冷ましているようにも見える…
 > CONTEXT: Map121/events/5/pages/2/63/Dialogue
-It looks like it's just chilling a battered body ...#MTLed
+Almost like she's trying to cool herself off...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1090,8 +1098,9 @@ It looks like it's just chilling a battered body ...#MTLed
 
  本当は、とっても嬉しいの………
 > CONTEXT: Map121/events/5/pages/2/65/Dialogue/enemy12
-...... Thank you, \\N[1]. Actually, I'm very
-happy......#MTLed
+...Thank you, \\N[1].
+
+I'm actually really happy...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1099,8 +1108,9 @@ happy......#MTLed
 
 できれば人間の夫婦のように…………
 > CONTEXT: Map121/events/5/pages/2/69/Dialogue/enemy12
-I also want to be with you forever ...
-Like a human couple if possible .........#MTLed
+I want to be with you forever as well...
+
+Like a human couple, if possible...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1109,10 +1119,11 @@ Like a human couple if possible .........#MTLed
 
 そんな事言われたら、また襲ってしまいそうで……
 > CONTEXT: Map121/events/5/pages/2/73/Dialogue/enemy12
-But I, even "I can get it like"
-It is a demon that I just learned recently ...
-If such a thing is said, it is likely to attack
-again ...#MTLed
+But a demon who's only just learned how to get
+someone to like me...
+
+I might end up attacking you if you say things
+like that to me...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1120,9 +1131,10 @@ again ...#MTLed
 
 ただすこし、冷静になる時間をちょうだい……
 > CONTEXT: Map121/events/5/pages/2/79/Dialogue/enemy12
-I will receive a proposal, and of course also
-receive a ring...Just a little, give me time to
-cool down ...#MTLed
+I accept your proposal, and of course the ring,
+too...
+
+Just give me a little time to cool off...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1130,7 +1142,8 @@ cool down ...#MTLed
 
 \\C[2]エコーと婚約した！
 > CONTEXT: Map121/events/5/pages/2/91/Dialogue
-By receiving the engagement ring. \\C[2]Engaged with Echo!#MTLed
+By giving her the engagement ring, \\C[2]you're now
+engaged to Echo!#Ron
 > END STRING
 
 > BEGIN STRING
