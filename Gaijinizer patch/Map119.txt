@@ -4,32 +4,33 @@
 
 どうしたんだい？喰われに来たのかい？
 > CONTEXT: Map119/events/5/pages/0/18/Dialogue/enemy10
-Hehehe ...... what's up? Have you come to
-captivity?#MTLed
+Kukuku...
+
+What's the matter? Have you come to be eaten?#Ron
 > END STRING
 
 > BEGIN STRING
 雑談する en(v[49] \>= 25) 
 > CONTEXT: Map119/events/5/pages/0/24/Choice/0
-Chaten(v[49] \>= 25)#MTLed
+Chaten(v[49] \>= 25)#Ron
 > END STRING
 
 > BEGIN STRING
 搾精（抱き）en(v[49] \>= 25) 
 > CONTEXT: Map119/events/5/pages/0/24/Choice/1
-milking (Hug)en(v[49] \>= 25)#MTLed
+Milking (Hug)en(v[49] \>= 25)#Ron
 > END STRING
 
 > BEGIN STRING
 搾精（倒し）en(v[49] \>= 50) 
 > CONTEXT: Map119/events/5/pages/0/24/Choice/2
-milkingen(v[49] \>= 50)#MTLed
+Milking (Pinned)en(v[49] \>= 50)#Ron
 > END STRING
 
 > BEGIN STRING
 【アルケニー】種族：妖魔
 > CONTEXT: Map119/events/5/pages/0/26/ChoiceHelp
-【Archeny】 Tribe: monster#MTLed
+【Archeny】 Tribe: Apparition#Ron
 > END STRING
 
 > BEGIN STRING
@@ -70,7 +71,7 @@ Instead "Afraid". Do you plant it a lot?#MTLed
 > BEGIN STRING
 "アルケニーの心蝕が治った！！"
 > CONTEXT: Map119/events/5/pages/0/231/InlineScript/1:12
-"アルケニー's mind corruption cured!!"#MTLed
+"Archeny's corruption has been cleared!!"#Ron
 > END STRING
 
 > BEGIN STRING
@@ -85,11 +86,10 @@ Remove mind corruption (Queen)if(v[36] \>= 2)#Triketos
 \\C[2]キズナを結んでいる状態でないとダメなようだ…
 > CONTEXT: Map119/events/5/pages/0/245/Dialogue
 > CONTEXT: Map215/events/5/pages/0/244/Dialogue
-The degree of friendship is not enough to get
-your caries fixed ...
-
-\\C[2] It seems to be useless unless it is in the
-state of connecting Kizuna ...#GT
+Your friendship isn't high enough to have her clear your
+corruption...
+\\C[2]It seems like it'll be impossible unless you build a
+bond with her...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -145,26 +145,27 @@ the Queen's mind corruption has been reduced....#Triketos
 
 まぁいいさ、何が聞きたいんだい？
 > CONTEXT: Map119/events/5/pages/1/1/Dialogue/enemy10
-Hmm…! Talk, hey ......... very well, what do you
-want to ask?#MTLed
+Hmph...! You want to talk, do you...?
+
+Very well, what would you like to ask me?#Ron
 > END STRING
 
 > BEGIN STRING
 アルケニーについてen(v[49] \>= 30) 
 > CONTEXT: Map119/events/5/pages/1/7/Choice/0
-About Archenyen(v[49] \>= 30)#MTLed
+About heren(v[49] \>= 30)#Ron
 > END STRING
 
 > BEGIN STRING
 アルケニーの糸en(v[49] \>= 40) 
 > CONTEXT: Map119/events/5/pages/1/7/Choice/1
-Archeny threaden(v[49] \>= 40)#MTLed
+Her threaden(v[49] \>= 40)#Ron
 > END STRING
 
 > BEGIN STRING
 使い魔en(v[49] \>= 60) 
 > CONTEXT: Map119/events/5/pages/1/7/Choice/2
-Familiaren(v[49] \>= 60)#MTLed
+Her familiarsen(v[49] \>= 60)#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1248,7 +1249,7 @@ By receiving the engagement ring. \\C[2]Engaged with Archeny!#MTLed
 
 この部屋って………
 > CONTEXT: Map119/events/7/pages/0/2/Dialogue/kazuya
-No way ......... This room .........#MTLed
+No way...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1256,8 +1257,10 @@ No way ......... This room .........#MTLed
 
 怖がることはないよ、もう襲ったりはしないから。
 > CONTEXT: Map119/events/7/pages/0/6/Dialogue/enemy10
-That 's right. I'm not afraid, I won't attack you
-anymore.#MTLed
+That's right.
+
+There's nothing to be afraid of, I won't attack
+you anymore.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1265,7 +1268,9 @@ anymore.#MTLed
 
 その顔を、もっとよく見せておくれよ…♡
 > CONTEXT: Map119/events/7/pages/0/10/Dialogue/enemy10
-Come on, here. Show me your face better...よ く#MTLed
+Come on, come over here.
+
+Let me get a good look at that face of yours...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1273,8 +1278,8 @@ Come on, here. Show me your face better...よ く#MTLed
 
  いい顔つきをしてるじゃないか。
 > CONTEXT: Map119/events/7/pages/0/23/Dialogue/enemy10
-Hehehe ...... If you look closely
-You have a good look.#MTLed
+Kukuku... When you look closely, you've got some
+nice features, don't you?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1282,9 +1287,9 @@ You have a good look.#MTLed
 
  なるほど、女悪魔が放っておかないわけだね。
 > CONTEXT: Map119/events/7/pages/0/27/Dialogue/enemy10
-In the nest, I only thought it was a healthy food
-to move around. I see, a woman demon can not
-leave it alone.#MTLed
+In the nest, I only thought of you as energetic
+prey running all over the place. Now I see why
+the female demons won't leave you alone.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1292,8 +1297,10 @@ leave it alone.#MTLed
 
 でも絶対食べる前提の話でしょ…それ……
 > CONTEXT: Map119/events/7/pages/0/31/Dialogue/kazuya
-Thank you, flattering...But it is a story of
-the premise to eat absolutely...it ...#MTLed
+T-Thanks for the flattery...
+
+But this definitely isn't just the build-up to
+you trying to eat me again, is it...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1301,8 +1308,8 @@ the premise to eat absolutely...it ...#MTLed
 
 でも確かに、それで味も格別だってんだから、最高だね…♡
 > CONTEXT: Map119/events/7/pages/0/35/Dialogue/enemy10
-Kuku, I'm a flatterer. But it is true that the
-taste is exceptional, so it's the best...♡#MTLed
+Kuku, it's no mere flattery. It is true that you
+possess an exceptional flavor, however... ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1311,10 +1318,10 @@ taste is exceptional, so it's the best...♡#MTLed
 
 断然、お前さんみたいな成長した男が好みさ。
 > CONTEXT: Map119/events/7/pages/0/39/Dialogue/enemy10
-Recently, I prefer irritated girls who don't go
-year-end, or immature women. It seems that the
-number of attacking players has increased ...
-By all means, a grown man like you likes it.#MTLed
+It seems recently that the number of us who
+prefer attacking young brats and immature women
+are on the increase. But I much prefer an older
+male like you.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -1322,8 +1329,9 @@ By all means, a grown man like you likes it.#MTLed
 
 あたいに屈服する姿を見るのは、本当に愉快だからねぇ…♡
 > CONTEXT: Map119/events/7/pages/0/44/Dialogue/enemy10
-The guy who looks and loves in front of others
-It's really fun to see him giving in on his face.#MTLed
+It's so much more amusing to see someone break
+who's stubborn, someone who puts on airs in front
+of others.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -1331,7 +1339,9 @@ It's really fun to see him giving in on his face.#MTLed
 
 それで……？どうしてこんな場所に…？
 > CONTEXT: Map119/events/7/pages/0/49/Dialogue/kazuya
-................ So ...? Why in such a place ...?#MTLed
+So...
+
+Why are you here, then...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1339,8 +1349,10 @@ It's really fun to see him giving in on his face.#MTLed
 
 興味が湧いたのさ、悪魔の心を惹かせるお前さんに。
 > CONTEXT: Map119/events/7/pages/0/53/Dialogue/enemy10
-Hehehe ......... I'm interested in you, for your
-demon's attention.#MTLed
+Kukuku...
+
+Your ability to win over the hearts of demons has
+piqued my interest.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1349,9 +1361,10 @@ demon's attention.#MTLed
 
 そこまでは自然な流れさ。
 > CONTEXT: Map119/events/7/pages/0/59/Dialogue/enemy10
-You ran away from the nest to survive.
-I was caught up with you to meet him.
-It is a natural flow up to that point.#MTLed
+You escaped my nest in order to survive.
+I stood in your way in order to eat you.
+That was the natural flow of things up to that
+point.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1360,8 +1373,9 @@ It is a natural flow up to that point.#MTLed
 
 ………そうなるのが普通だったのさ。
 > CONTEXT: Map119/events/7/pages/0/64/Dialogue/enemy10
-But, when I beat my heart, You should have killed
-her....It was normal for that to happen.#MTLed
+You should've killed me after defeating me...
+
+That would've been the normal thing to do.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1370,8 +1384,10 @@ her....It was normal for that to happen.#MTLed
 
 それは何故だい？
 > CONTEXT: Map119/events/7/pages/0/69/Dialogue/enemy10
-But you missed him. I did not kill the baby that
-attacked with murder intent. Why is that?#MTLed
+But you let me go. Even though I had every
+intention of killing you, you didn't kill me.
+
+Why was that?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1380,10 +1396,10 @@ attacked with murder intent. Why is that?#MTLed
 君の言う『自然の流れ』に従ってしまうと、
 僕は君の『人間を喰う理由』を正当化してしまうことになる。
 > CONTEXT: Map119/events/7/pages/0/75/Dialogue/kazuya
-The reason is that I should have spoken at that
-time...If you follow the flow of nature you
-say, I will justify your "why to worship human
-beings".#MTLed
+I thought I gave you the reason why back there...
+Following along with what you call the natural
+way of things would've only legitimized your
+eating of humans.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1392,9 +1408,9 @@ beings".#MTLed
 たとえ君の言うことの方が正しいのだとしても
 それを『自分の行動』で認めてしまうわけにはいかなかった。
 > CONTEXT: Map119/events/7/pages/0/80/Dialogue/kazuya
-I can not do what you want. Even if what you say
-is correct. I could not admit that in my own
-actions.#MTLed
+I won't go along with your ideas. Even if what
+you said were correct, I can't bring myself to
+accept any of them.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1402,8 +1418,9 @@ actions.#MTLed
 
 本当に面白いヤツだよ、\\N[1]。
 > CONTEXT: Map119/events/7/pages/0/86/Dialogue/enemy10
-That's not your "struggle" ...
-It's a really interesting guy, \\N[1].#MTLed
+So that's how you struggle against this.
+
+You're quite the interesting one, \\N[1].#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1412,9 +1429,9 @@ It's a really interesting guy, \\N[1].#MTLed
 それに、お前さんに興味が湧いたからってこんな所に来た
  あたいも、相当普通じゃないからね。
 > CONTEXT: Map119/events/7/pages/0/90/Dialogue/enemy10
-Hehehe ...... very well. Besides, I came to this
-place because I got interested in you
-It's not quite normal.#MTLed
+Kukuku... very well. I suppose it's not very
+normal for me to come to a place like this just
+because you've drawn my interest.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1423,10 +1440,10 @@ It's not quite normal.#MTLed
 そしてもしそれが、あたいの興味に見合うものなら
 ……まぁ、ペットぐらいには考えてやってもいいよ。
 > CONTEXT: Map119/events/7/pages/0/95/Dialogue/enemy10
-If I could understand you a little more ...
-And if it is something that suits your interest
-...... Well, you can think about doing as much as
-a pet.#MTLed
+If I could understand you just a little more...
+
+And if it suits me, I might even start
+considering you my little pet.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1434,9 +1451,8 @@ a pet.#MTLed
 
 こんな部屋から出て、また外で襲ってやるからね…
 > CONTEXT: Map119/events/7/pages/0/101/Dialogue/enemy10
-Conversely, if you feel that you are boring ...
-I'm going out of such a room and attacking
-outside again ...#MTLed
+Conversely, if you bore me I might just leave
+this room and start attacking you outside...#Ron
 > END STRING
 
 > BEGIN STRING
