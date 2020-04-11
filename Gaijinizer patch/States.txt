@@ -221,6 +221,8 @@ Milking Position#Dargoth
 > CONTEXT: States/19/message4
 > CONTEXT: States/143/message4
 > CONTEXT: States/145/message4
+> CONTEXT: States/202/message4
+> CONTEXT: States/206/message4
  manages to get free!#Dargoth
 > END STRING
 
@@ -335,6 +337,7 @@ Naked#Dargoth
 拘束（身体）
 > CONTEXT: States/19/name
 > CONTEXT: States/143/name
+> CONTEXT: States/206/name
 Bound (Body)#Dargoth
 > END STRING
 
@@ -342,6 +345,8 @@ Bound (Body)#Dargoth
 は組み付かれてしまった！！
 > CONTEXT: States/19/message1
 > CONTEXT: States/143/message1
+> CONTEXT: States/202/message1
+> CONTEXT: States/206/message1
  is being restrained!#Dargoth
 > END STRING
 
@@ -349,6 +354,8 @@ Bound (Body)#Dargoth
 は相手に組み付かれている・・・
 > CONTEXT: States/19/message3
 > CONTEXT: States/143/message3
+> CONTEXT: States/202/message3
+> CONTEXT: States/206/message3
  is still restrained by his opponent...#Dargoth
 > END STRING
 
@@ -1052,13 +1059,6 @@ Drop#Dargoth
 > END STRING
 
 > BEGIN STRING
-プレゼント
-> CONTEXT: States/92/name
-> CONTEXT: System/terms/commands/14
-Present#Dargoth
-> END STRING
-
-> BEGIN STRING
 シルフストームLv2
 > CONTEXT: States/93/name
 Sylph Storm Lv2#Dargoth
@@ -1549,7 +1549,25 @@ Invincible#afrg
 > BEGIN STRING
 ボルテクステップ（大）
 > CONTEXT: States/181/name
-Voltaic Step (Major)#afrg
+
+> END STRING
+
+> BEGIN STRING
+母乳中毒
+> CONTEXT: States/182/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はエコーに甘える子供になった！
+> CONTEXT: States/182/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はエコーのおっぱいに夢中になっている…
+> CONTEXT: States/182/message3 < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -1676,4 +1694,28 @@ Lower Body Swarm#Triketos
 はなんとか下半身に群がる敵を払いのけた！
 > CONTEXT: States/203/message4
  chased away the demons around his waist!#Triketos
+> END STRING
+
+> BEGIN STRING
+メイデン手加減
+> CONTEXT: States/204/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+から逃げることに成功した！
+> CONTEXT: States/205/message2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+逃走成功
+> CONTEXT: States/205/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+攻撃できない
+> CONTEXT: States/207/name < UNTRANSLATED
+
 > END STRING
