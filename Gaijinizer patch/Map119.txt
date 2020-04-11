@@ -64,14 +64,16 @@ Clear Corruptionif(v[49] \>= 100)#Ron
 いいさ……その代わりに『恐怖』を
 たっぷり植え付けてやるかね…？
 > CONTEXT: Map119/events/5/pages/0/219/Dialogue/enemy10
-Oh, I wish I could do it...That's good ......
-Instead "Afraid". Do you plant it a lot?#MTLed
+Aaah, I'd rather not...
+
+Well alright, but in exchange I get to instil
+plenty of fear into you, okay?#Ron
 > END STRING
 
 > BEGIN STRING
 "アルケニーの心蝕が治った！！"
 > CONTEXT: Map119/events/5/pages/0/231/InlineScript/1:12
-"Archeny's corruption has been cleared!!"#Ron
+"Archeny's corruption is cleared!!"#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1041,9 +1043,9 @@ yourself...?#Ron
 
 まだ身体が戻ってないから、もう少し寝てると思ったよ。
 > CONTEXT: Map119/events/5/pages/1/446/Dialogue/enemy10
-Hey, did you notice? I thought I was going to
-sleep a little more because my body has not
-returned yet.#MTLed
+Oh, are you awake? Your body hadn't returned yet,
+so I thought you'd be sleeping for a while
+longer.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1051,9 +1053,9 @@ returned yet.#MTLed
 
  こいつを使って再構築したほうが、幾分か早いだろう。
 > CONTEXT: Map119/events/5/pages/1/450/Dialogue/enemy10
-After all, nature and body will be back to the
-original. It would be somewhat faster to rebuild
-using this.#MTLed
+I expected your body would naturally return to
+its normal state, but I thought it'd be faster if
+I used this to reconstruct you.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1061,8 +1063,9 @@ using this.#MTLed
 
  憎たらしいやつだよ、本当に………
 > CONTEXT: Map119/events/5/pages/1/456/Dialogue/enemy10
-………………"why? ] It seems that I heard it.
-It's a crazy guy, really .........#MTLed
+...You look like you want to ask me why I did it.
+
+You really are a revolting one...#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -1070,8 +1073,8 @@ It's a crazy guy, really .........#MTLed
 
  呑まれる直前になっても、お前さんはあたいを信じた。
 > CONTEXT: Map119/events/5/pages/1/460/Dialogue/enemy10
-You are too honest. Even before I was scolded,
-you believed in the heat.#MTLed
+You're too honest. You believed in me even right
+until I swallowed you.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1079,8 +1082,9 @@ you believed in the heat.#MTLed
 
 恐怖に震えた声が、それを証明してた。
 > CONTEXT: Map119/events/5/pages/1/464/Dialogue/enemy10
-But that doesn't come from getting used to
-A trembling voice to Afraid proved it.#MTLed
+But that's not something that comes from pride or
+experience, you proved that with that voice of
+yours trembling with fear.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1088,9 +1092,9 @@ A trembling voice to Afraid proved it.#MTLed
 
 何を成すのか、見る前に喰うのは勿体無いと思ったんだよ。
 > CONTEXT: Map119/events/5/pages/1/468/Dialogue/enemy10
-Such a foolish honesty...A human being who can
-not save. I thought it would be a shame to come
-before seeing what I would do.#MTLed
+Such foolish honesty... I thought devouring such
+a hopeless human being wouldn't accomplish
+anything.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1099,15 +1103,18 @@ before seeing what I would do.#MTLed
 他の悪魔と同じく、あたいもお前さんの魅力とやらに
  やられちまったのかねぇ…………
 > CONTEXT: Map119/events/5/pages/1/474/Dialogue/enemy10
-Totally...When the day to endure that I come is
-coming...Like other demons, I love you and your
-charm. I wonder if I've been done .........#MTLed
+Good grief... To think the day would come when
+I'd exercise some self-control. It seems I've
+been taken in by your charms just like all the
+other demons...#Ron
 > END STRING
 
 > BEGIN STRING
 気に入らないよ……あぁ、気に入らない……
 > CONTEXT: Map119/events/5/pages/1/479/Dialogue/enemy10
-I don't like it ...... Oh, I don't like it ......#MTLed
+I'm not happy about this...
+
+Aaargh, I'm not happy about this at all...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1126,8 +1133,9 @@ has reached 100!#Triketos
 
  恐怖に耐えられなくなって、とうとう狂ったかい。
 > CONTEXT: Map119/events/5/pages/2/2/Dialogue/enemy10
-...... Are you sane? You can't stand Afraid and
-you're crazy.#MTLed
+...Are you insane?
+
+Has the fear finally driven you mad?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1135,8 +1143,9 @@ you're crazy.#MTLed
 
  お前さんは結局エサより上にはなりえない。
 > CONTEXT: Map119/events/5/pages/2/6/Dialogue/enemy10
-I'll tell you, but even if you get close
-You can not be better than food after all.#MTLed
+I'll tell you this now, no matter how close you
+get to me, you'll never be anything more than my
+food.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1145,16 +1154,16 @@ You can not be better than food after all.#MTLed
 
 結婚したいだなんて思うのかい？って話さね。
 > CONTEXT: Map119/events/5/pages/2/10/Dialogue/enemy10
-Compare to human beings. Even if there is
-attachment to treat specially with chicken of
-chicken farming facility. Do you think you wanted
-to get married? I told you.#MTLed
+Using humans as an example, it'd be like growing
+attached to a chicken on a poultry farm and
+deciding to marry it.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
 …………手を下げる気はない、って顔だね。
 > CONTEXT: Map119/events/5/pages/2/19/Dialogue/enemy10
-............ I have no desire to lower my hand.#MTLed
+...You don't look like you're going to give up
+on this idea.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1163,9 +1172,10 @@ to get married? I told you.#MTLed
 お前さんをそこまで駆り立てる
  あたいの『魅力』って、いったい何なわけさ？
 > CONTEXT: Map119/events/5/pages/2/21/Dialogue/enemy10
-Let's hear it. Drive you up there
-What's the difference between what you want to do
-with "charm"?#MTLed
+Then let me ask you this...
+
+Just what is it that attracts you to someone like
+me who's hunted you all this time?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1173,9 +1183,9 @@ with "charm"?#MTLed
 
 まさかあたいの、この姿に惚れたとか言わないだろうね？
 > CONTEXT: Map119/events/5/pages/2/26/Dialogue/enemy10
-Do you feel the yarn? How tight is your vagina?
-No way I would say that I was in love with this
-figure, right?#MTLed
+Is it the feel of my thread? The tightness of my
+vagina? Or don't tell me you're madly in love
+with me.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1183,8 +1193,9 @@ figure, right?#MTLed
 
 今まで触れてきた場所、全部だ。
 > CONTEXT: Map119/events/5/pages/2/31/Dialogue/kazuya
-It's all ...... All the places I've mentioned
-before.#MTLed
+It's all of those things...
+
+It's all those things you touched on...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1192,8 +1203,9 @@ before.#MTLed
 
 きっとこれからも、それは変わらないだろう。
 > CONTEXT: Map119/events/5/pages/2/35/Dialogue/kazuya
-Certainly you only think of humans as food.
-Surely it will not change from now on.#MTLed
+It's true you only think of humans as food.
+
+I'm sure that won't change now or in the future.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1201,9 +1213,10 @@ Surely it will not change from now on.#MTLed
 
  今こうしてるときも、完全に『平気』じゃあない……
 > CONTEXT: Map119/events/5/pages/2/39/Dialogue/kazuya
-Actually, I always had "Afraid" when I met you.
-Even when I'm doing this, it's not completely
-"well" ...#MTLed
+I'm actually afraid when I talk to you.
+
+Even now like this, I'm still not totally okay
+with it...#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -1212,10 +1225,10 @@ Even when I'm doing this, it's not completely
 
 恐怖と一緒に、だんだんと惹かれるものがあった。
 > CONTEXT: Map119/events/5/pages/2/45/Dialogue/kazuya
-Even when you were tied up with a thread and
-pulled in...Even when you were swallowed by you
-and you were in your stomach. 
-Along with Afraid, there was something attracted.#MTLed
+When you tied me up and pulled me toward you...
+And even when you swallowed me and I was inside
+your belly, along with the fear there was
+something attracting me to you.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -1223,15 +1236,16 @@ Along with Afraid, there was something attracted.#MTLed
 
 僕は君に喰われてもいいとすら思ってるよ。
 > CONTEXT: Map119/events/5/pages/2/50/Dialogue/kazuya
-When everything is over ......
-I even think that it is okay to be scolded by
-you.#MTLed
+When this is all over...
+
+I don't think I'd mind even if you decided to eat
+me.#Ron
 > END STRING
 
 > BEGIN STRING
 これが、僕の気持ちだ……
 > CONTEXT: Map119/events/5/pages/2/54/Dialogue/kazuya
-This is my feeling ...#MTLed
+That's how I feel...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1239,8 +1253,10 @@ This is my feeling ...#MTLed
 
  素面で喰われ願望があるエサとは恐れ入ったね！！
 > CONTEXT: Map119/events/5/pages/2/57/Dialogue/enemy10
-He He He Heh ..... Ah! ! I was afraid that it was
-a raw and hopeful food! !#MTLed
+Kukuku... Ahahahahahaha!!
+
+I'm amazed you can say that with a straight
+face!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1248,9 +1264,8 @@ a raw and hopeful food! !#MTLed
 
 あたいも、素っ気なく突き放す事ができないじゃあないか……
 > CONTEXT: Map119/events/5/pages/2/61/Dialogue/enemy10
-If you are prepared to get there
-Aida, I guess I can't let it go away without
-hesitation ......#MTLed
+If you're really prepared to go that far, then I
+suppose I can't very well flatly reject you...#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -1258,9 +1273,9 @@ hesitation ......#MTLed
 
 お前さんは将来、あたいが最高の状態で喰ってやる。
 > CONTEXT: Map119/events/5/pages/2/66/Dialogue/enemy10
-It's ok .... I will accept it.
-In the future, you will meet in the best
-condition.#MTLed
+That's fine... I accept.
+
+I'll be sure to gobble you up in the future.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -1268,8 +1283,8 @@ condition.#MTLed
 
 死んだりするんじゃないよ…♡
 > CONTEXT: Map119/events/5/pages/2/70/Dialogue/enemy10
-Until then, it is wronged by other demons
-I'm not dying.#MTLed
+Until then, don't go and get yourself killed by
+some other demon... ♡#Ron
 > END STRING
 
 > BEGIN STRING
