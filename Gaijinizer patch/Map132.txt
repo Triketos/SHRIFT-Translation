@@ -3,7 +3,7 @@
 "Chapter3-3　『介入』　プレイ中"
 > CONTEXT: Map132/events/10/pages/0/9/InlineScript/2:1
 > CONTEXT: Map133/events/6/pages/0/9/InlineScript/2:1
-"Chapter3-3　『intervention』 starts"#MTLed
+"Chapter 3-3:　『Intervention』"#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -11,7 +11,7 @@
 > CONTEXT: Map132/events/1/pages/0/12/Dialogue/yuuma
 > CONTEXT: Map132/events/1/pages/1/12/Dialogue/yuuma
 > CONTEXT: Map145/events/1/pages/0/12/Dialogue/yuuma
-........... Can you hear me, \\N[1]?#MTLed
+...Can you hear me, \\N[1]?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -21,15 +21,17 @@
 > CONTEXT: Map132/events/1/pages/0/14/Dialogue/kazuya
 > CONTEXT: Map132/events/1/pages/1/14/Dialogue/kazuya
 > CONTEXT: Map145/events/1/pages/0/14/Dialogue/kazuya
-Yuuma!!Finally the radio has returned ......! !#MTLed
+Yuuma!!
+
+The radio's finally working...!!#Ron
 > END STRING
 
 > BEGIN STRING
 （色々ありすぎて忘れてたとか言えない…！！）
 > CONTEXT: Map132/events/1/pages/0/18/Dialogue/kazuya
 > CONTEXT: Map145/events/1/pages/0/18/Dialogue/kazuya
-(There are so many things that I can not say I
-forgot......)#MTLed
+(So much has happened I don't even know where to
+begin...)#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -39,8 +41,10 @@ forgot......)#MTLed
 > CONTEXT: Map132/events/1/pages/0/20/Dialogue/yuuma
 > CONTEXT: Map132/events/1/pages/1/18/Dialogue/yuuma
 > CONTEXT: Map145/events/1/pages/0/20/Dialogue/yuuma
-Oh...I was alright. I was about to give up half
-here .........#MTLed
+Phew... I'm glad you're okay.
+
+And here I was starting to think about giving up
+on you...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -50,7 +54,9 @@ here .........#MTLed
 > CONTEXT: Map132/events/1/pages/0/24/Dialogue/kazuya
 > CONTEXT: Map132/events/1/pages/1/22/Dialogue/kazuya
 > CONTEXT: Map145/events/1/pages/0/24/Dialogue/kazuya
-Sorry, I'm sorry. It's all right ....#MTLed
+S-Sorry, I'm always making you worry...
+
+It's all okay now...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -60,9 +66,9 @@ Sorry, I'm sorry. It's all right ....#MTLed
 > CONTEXT: Map132/events/1/pages/0/28/Dialogue/yuuma
 > CONTEXT: Map132/events/1/pages/1/26/Dialogue/yuuma
 > CONTEXT: Map145/events/1/pages/0/28/Dialogue/yuuma
-That's right...location information has been
-confirmed. Apparently, it seems to have escaped
-the park safely.#MTLed
+Seems that way... I'm just confirming your
+position. It looks like you've safely made it
+clear of the park.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -72,9 +78,9 @@ the park safely.#MTLed
 > CONTEXT: Map132/events/1/pages/0/32/Dialogue/yuuma
 > CONTEXT: Map132/events/1/pages/1/30/Dialogue/yuuma
 > CONTEXT: Map145/events/1/pages/0/32/Dialogue/yuuma
-After that, I will leave the parking lot and
-enter the harbor building. Then I will pick you
-up to the entrance.#MTLed
+Get through the parking lot next, and then head
+inside the harbor building. I'll meet you at the
+entrance once you're inside.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -84,8 +90,9 @@ up to the entrance.#MTLed
 > CONTEXT: Map132/events/1/pages/0/37/Dialogue/yuuma
 > CONTEXT: Map132/events/1/pages/1/35/Dialogue/yuuma
 > CONTEXT: Map145/events/1/pages/0/37/Dialogue/yuuma
-......finally I'm here ...! 
-One more breath .....#MTLed
+You're almost at the finish line...!
+
+Just a little further...#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -93,7 +100,7 @@ One more breath .....#MTLed
 > CONTEXT: Map132/events/1/pages/0/45/Dialogue/kazuya
 > CONTEXT: Map132/events/1/pages/1/43/Dialogue/kazuya
 > CONTEXT: Map145/events/1/pages/0/45/Dialogue/kazuya
-............ Yuuma ......! ?#MTLed
+Yuuma...?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -102,14 +109,15 @@ One more breath .....#MTLed
 嘘だろ………まさか………
 > CONTEXT: Map132/events/1/pages/0/53/Dialogue/other2
 > CONTEXT: Map145/events/1/pages/0/48/Dialogue/other2
-hey you ......... It's a lie......... no way
-... ...#MTLed
+Oh come on...
+
+You've got to be kidding me...#Ron
 > END STRING
 
 > BEGIN STRING
 びゃ、百鬼！！？
 > CONTEXT: Map132/events/1/pages/0/91/Dialogue/kazuya-0
-Bye, Hyakki!!?#MTLed
+Hy-Hyakki?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -117,9 +125,9 @@ Bye, Hyakki!!?#MTLed
 
 だがそれは瞬く間にティタノボアの蛇体に包まれていった！！
 > CONTEXT: Map132/events/1/pages/0/93/Dialogue
-A glimpse of flashlights, a figure of Hyakki seen for a
-moment...! But it was instantly wrapped in a snake of
-Titanoboa! !#MTLed
+For just an instant, I could make out Hyakki's figure in
+the bright flashes. But my vision was blocked up just as
+quickly as I was wrapped up in Titanoboa's coils!!#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -127,9 +135,10 @@ Titanoboa! !#MTLed
 
  同じ戦法が、二度通じるとでも思ったのかい！？
 > CONTEXT: Map132/events/1/pages/0/99/Dialogue/enemy14
-From now on, clever little onions ...!
-Did you think that the same tactics would be
-passed twice! ?#MTLed
+You're that insolent Oni from before...!
+
+Did you really think the same tricks would work
+on me twice?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -137,8 +146,9 @@ passed twice! ?#MTLed
 
 『通じたらいいなー』くらいには思ってたヨ……
 > CONTEXT: Map132/events/1/pages/0/103/Dialogue/hyakki2
-The haha ​​......"I wish I could communicate"
-Yo I thought......#MTLed
+H-Ha ha...
+
+I was kinda hoping they would, actually...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -146,9 +156,8 @@ Yo I thought......#MTLed
 
 今度は、本当の『奥の手』を用意してきてるけどね……。
 > CONTEXT: Map132/events/1/pages/0/107/Dialogue/hyakki2
-But...for the time of emergency
-This time, I have prepared a real "back hand"
-....#MTLed
+But I do have a last resort prepared for times
+like this...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -156,7 +165,9 @@ This time, I have prepared a real "back hand"
 
 いまさら、どうやって私を倒そうってんだい！？
 > CONTEXT: Map132/events/1/pages/0/111/Dialogue/enemy14
-Hmm………!!! Now how are you going to beat me! ?#MTLed
+Hmph...!!
+
+And just how do you think you'll defeat me?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -164,8 +175,8 @@ Hmm………!!! Now how are you going to beat me! ?#MTLed
 
 私がその身体、ペチャンコにしてあげるよ…！！！
 > CONTEXT: Map132/events/1/pages/0/115/Dialogue/enemy14
-Soon to use that "back hand" and ...
-I'll make that body, Pechanko ...!!!#MTLed
+The moment you use that "last resort" of yours,
+I'll crush that body of yours flat!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -173,8 +184,7 @@ I'll make that body, Pechanko ...!!!#MTLed
 
 もう『ピン』は抜いてあるよ………
 > CONTEXT: Map132/events/1/pages/0/123/Dialogue/hyakki
-I'm a bad kid...I have already pulled out the
-"pin"......#MTLed
+S-sorry but... I've already pulled the pin.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -182,9 +192,8 @@ I'm a bad kid...I have already pulled out the
 
 外すことは許されないからネ……♪
 > CONTEXT: Map132/events/1/pages/0/127/Dialogue/hyakki
-This "back hand" is .......... by its nature
-......... I can not remove it because I can not
-...♪#MTLed
+This "last resort"... by its very nature... can't
+be undone... ♪#Ron
 > END STRING
 
 > BEGIN STRING
@@ -192,8 +201,8 @@ This "back hand" is .......... by its nature
 
 最初から自分を犠牲に……！？
 > CONTEXT: Map132/events/1/pages/0/132/Dialogue/enemy14
-No way ......... Sacrificing yourself from the
-beginning ...! ?#MTLed
+Don't tell me... you were planning on sacrificing
+yourself from the very beginning...?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -201,7 +210,9 @@ beginning ...! ?#MTLed
 
  百鬼………………！！
 > CONTEXT: Map132/events/1/pages/0/136/Dialogue/kazuya-2
-No, no.........!!Hyakki ............! !#MTLed
+D-Don't do it...!!
+
+Hyakki...!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -210,8 +221,9 @@ No, no.........!!Hyakki ............! !#MTLed
  今度はちゃんと目を瞑っておくんだヨ！！
  目に悪いとか、そういう次元じゃないからね！！
 > CONTEXT: Map132/events/1/pages/0/141/Dialogue/hyakki
-\\N[1]!!I'll keep my eyes closed this time yo!
-! It's not a bad eye or a dimension like that! !#MTLed
+Keep your eyes closed this time, \\N[1]!!
+
+This'll do a lot worse than just hurt your eyes!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -219,8 +231,10 @@ No, no.........!!Hyakki ............! !#MTLed
 
 アンタとの旅路、退屈しなかったヨ。
 > CONTEXT: Map132/events/1/pages/0/148/Dialogue/hyakki
-…………See ya. Traveling with you, I was not bored
-Yo.#MTLed
+...See ya.
+
+There was never a dull moment travelling with
+you.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -228,7 +242,10 @@ Yo.#MTLed
 
 百鬼………………
 > CONTEXT: Map132/events/1/pages/0/169/Dialogue/kazuya-b
-............................ Hyakki ............#MTLed
+.............
+
+
+Hyakki...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -295,7 +312,9 @@ It is my only "power" ...#MTLed
 
 思ったより早かったじゃないか。
 > CONTEXT: Map132/events/1/pages/2/9/Dialogue/hyakki
-Follow♪. I think it was faster than I thought.#MTLed
+Heya. ♪
+
+You were faster than I thought.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -303,7 +322,7 @@ Follow♪. I think it was faster than I thought.#MTLed
 > CONTEXT: Map132/events/1/pages/2/13/Dialogue/kazuya
 > CONTEXT: Map164/events/2/pages/0/11/Dialogue/kazuya
 > CONTEXT: Map164/events/7/pages/0/14/Dialogue/kazuya
-Hyakki .........#MTLed
+Hyakki...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -312,10 +331,10 @@ Hyakki .........#MTLed
 ティタノボアがアタシの見てない場所で
  それほどの状況を作れるのは、ココしかなくてネ。
 > CONTEXT: Map132/events/1/pages/2/16/Dialogue/hyakki
-A place where 'I' uses that 'back hand' .....
-Where Titanoboa is not looking at 'I'
-There is only one here that can make such a
-situation.#MTLed
+This is the place where I use that trump card...
+
+This is the place I let the situation get out of
+control...#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -324,9 +343,10 @@ situation.#MTLed
 アルケニーの巣から駐車場までの、こんな短距離で
 \\N[1]に追い付けるワケないって……
 > CONTEXT: Map132/events/1/pages/2/21/Dialogue/hyakki
-I was off guard...... In such a short distance
-from the Archeny's nest to the parking lot
-I can not catch up with \\N[1] ...#MTLed
+I let my guard down... I thought there was no
+way she'd be able to catch up to you from
+Archeny's nest to the parking lot in such a short
+space of time...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -334,8 +354,9 @@ I can not catch up with \\N[1] ...#MTLed
 
 どういうわけか、私の奇襲はお見通しだったって事かい…
 > CONTEXT: Map132/events/1/pages/2/27/Dialogue/enemy14
-............ I do not know what to say well ...
-Somehow, my ambush was a prospect ...#MTLed
+...I don't know what you're both talking about...
+
+But it seems you've managed to avoid my ambush...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -343,9 +364,10 @@ Somehow, my ambush was a prospect ...#MTLed
 
 アンタたちが港へ辿り着けないのは変わらないんだよ…？
 > CONTEXT: Map132/events/1/pages/2/31/Dialogue/enemy14
-But ...... So what did you say?
-It will not change that you can not reach the
-port ...?#MTLed
+But nothing you say can change anything.
+
+It doesn't change the fact that neither of you
+will make it to the harbor...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -353,9 +375,8 @@ port ...?#MTLed
 
 一言一句、間違えずにティタノボアに言うんだ……
 > CONTEXT: Map132/events/1/pages/2/35/Dialogue/hyakki
-\\N[1], from now on what 'I' says
-One word, I tell the Titanoboa without mistake
-...#MTLed
+\\N[1], from here on repeat everything I say to
+Titanoboa word for word with no mistakes...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -364,8 +385,8 @@ One word, I tell the Titanoboa without mistake
 どうしても、ここを通す気はないんだな？
 僕が、君を倒さない限り………
 > CONTEXT: Map132/events/1/pages/2/46/Dialogue/kazuya
-Titanoboa ......... By any means, I do not want
-to go through here? Unless I beat you .........#MTLed
+Titanoboa... Do you have no intention at all of
+letting us pass? Do I have to defeat you...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -373,8 +394,10 @@ to go through here? Unless I beat you .........#MTLed
 
 当たり前だろう？
 > CONTEXT: Map132/events/1/pages/2/52/Dialogue/enemy14
-Hmm! If you think of what to say suddenly ...
-Is it natural?#MTLed
+Hmph! What are you babbling on about all of a
+sudden...?
+
+Of course you'll have to defeat me.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -382,8 +405,8 @@ Is it natural?#MTLed
 
 万に一つもないだろうがね……！
 > CONTEXT: Map132/events/1/pages/2/56/Dialogue/enemy14
-Well...how likely you could beat me
-Even if there is not one, it is ......!#MTLed
+Of course... the chances of you beating me are
+one in a million...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -392,9 +415,10 @@ Even if there is not one, it is ......!#MTLed
 『僕たちが、君を一度でも戦いでダウンさせたら
 　敗けを認めてくれる』って………
 > CONTEXT: Map132/events/1/pages/2/61/Dialogue/kazuya
-Well then……\\C[2] Make a promise
-"If we bring you down in the battle once
-I will admit the defeat. "... ...#MTLed
+Then promise me this...
+
+\\C[2]If we manage to take you down even once,
+you'll admit defeat...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -402,8 +426,9 @@ I will admit the defeat. "... ...#MTLed
 
 そんな約束、するわけないだろう。
 > CONTEXT: Map132/events/1/pages/2/67/Dialogue/enemy14
-...... What a stupid thing. Such a promise will
-not be made.#MTLed
+...What is this nonsense?
+
+As if I'd make that kind of promise.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -411,8 +436,7 @@ not be made.#MTLed
 
 私に何のメリットがあるってんだい？
 > CONTEXT: Map132/events/1/pages/2/71/Dialogue/enemy14
-Mostly, make such a promise. What benefits do you
-have for me?#MTLed
+What'd be in it for me?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -420,8 +444,9 @@ have for me?#MTLed
 
  もしかして、その『万が一』にビビってるのー？
 > CONTEXT: Map132/events/1/pages/2/76/Dialogue/hyakki
-Oh? There is also a Titanoboa-san tomober demon
-Maybe you are blessed in that "Everything"?#MTLed
+What's this? ♪ Don't tell me the great demon
+Titanoboa is afraid of that one in a million
+chance of losing?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -430,15 +455,16 @@ Maybe you are blessed in that "Everything"?#MTLed
 
 それでどうだい？
 > CONTEXT: Map132/events/1/pages/2/83/Dialogue/hyakki
-Well then...if \\N[1] loses to you,
-I will give you all the magic of 'I'.
-How about that?#MTLed
+Okay then... If \\N[1] loses to you, I'll
+give you all my magic power.
+
+How's that sound?#Ron
 > END STRING
 
 > BEGIN STRING
 ちょっ……百鬼！？
 > CONTEXT: Map132/events/1/pages/2/92/Dialogue/kazuya
-Hm...Hyakki! ?#MTLed
+Hey... Hyakki?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -446,8 +472,10 @@ Hm...Hyakki! ?#MTLed
 
 その人間の何が、オニのアンタををそこまでさせるんだよ？
 > CONTEXT: Map132/events/1/pages/2/94/Dialogue/enemy14
-Hea...... I think I'm a lot of stuff ...
-What's that person that makes Oni get you there?#MTLed
+Hmmm... you seem pretty confident...
+
+What's that human done to make you go that far
+for him?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -455,7 +483,9 @@ What's that person that makes Oni get you there?#MTLed
 
 『可能性』、かな………
 > CONTEXT: Map132/events/1/pages/2/99/Dialogue/hyakki
-Well .... "Possibility", Kana .........#MTLed
+Well if I had to say...
+
+I guess it'd be his potential...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -463,8 +493,9 @@ Well .... "Possibility", Kana .........#MTLed
 
 『可能性』……ねぇ……
 > CONTEXT: Map132/events/1/pages/2/103/Dialogue/enemy14
-................ Hmm? "Possibility" ...... Hey
-...#MTLed
+...Hmm?
+
+His "potential"...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -473,9 +504,9 @@ Well .... "Possibility", Kana .........#MTLed
 
 だけどその代わり、『お遊び』はもうナシだ……！
 > CONTEXT: Map132/events/1/pages/2/107/Dialogue/enemy14
-Isn't it funny ......... I'll ride, that
-'contract' ...!!But instead, "play" is no
-longer ......!#MTLed
+How amusing... I'll agree to those terms.
+
+But that means playtime is over...!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -483,8 +514,8 @@ longer ......!#MTLed
 
 魂と魔力だけ頂くことにするよ！！
 > CONTEXT: Map132/events/1/pages/2/113/Dialogue/enemy14
-I'm all over the body, I beat you guys
-I will receive only the soul and magic! !#MTLed
+I'll crush you both with everything I have, and
+take both your souls and magic power!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -493,14 +524,16 @@ I will receive only the soul and magic! !#MTLed
 アタシが援護する。
 アンタはいつも通りに戦うんだ！！
 > CONTEXT: Map132/events/1/pages/2/126/Dialogue/hyakki2
-\\N[1], I'm not sorry. Supported by 'I'.
-You fight as usual! !#MTLed
+Don't lose your nerve, \\N[1]! I'll be here to
+support you.
+
+Just fight like you normally do!!#Ron
 > END STRING
 
 > BEGIN STRING
 ………大丈夫、勝てるさ☆
 > CONTEXT: Map132/events/1/pages/2/131/Dialogue/hyakki
-......okay, you can win ☆#MTLed
+...It's okay, you can win this. ☆#Ron
 > END STRING
 
 > BEGIN STRING
@@ -509,9 +542,10 @@ You fight as usual! !#MTLed
 \\C[2]『悪魔は約束を破れない』\\C[0]
 ………それを利用した作戦だ。
 > CONTEXT: Map132/events/1/pages/2/135/Dialogue
-The strategy of Hyakki is profitable for the time being.
-\\C[2]"The demon does not break the promise"\\C[0]
-... It is a strategy that uses it.#MTLed
+Hyakki's strategy is working out for now.
+\\C[2]Demons can't break promises.\\C[0]
+
+I can use that against them.#Ron/Triketos
 > END STRING
 
 > BEGIN STRING
@@ -519,14 +553,14 @@ The strategy of Hyakki is profitable for the time being.
 
 ヘカーテのように『約束を破る』性格だったら……！？
 > CONTEXT: Map132/events/1/pages/2/140/Dialogue
-But that Titanoboa is...If you have the character "break
-the promise" like Hecate ...! ?#MTLed
+But what if Titanoboa is like Hecate and doesn't care
+about keeping her promises...?!#Ron
 > END STRING
 
 > BEGIN STRING
 \\N[1]、来るぞ！
 > CONTEXT: Map132/events/1/pages/2/151/Dialogue/other1
-\\N[1], I will come!#MTLed
+She's coming, \\N[1]!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -534,8 +568,9 @@ the promise" like Hecate ...! ?#MTLed
 
 まだ私は、負けちゃいない……！！！
 > CONTEXT: Map132/events/1/pages/2/168/Dialogue/enemy14
-Uh......... still.........! !
-I still do not lose.........!!!#MTLed
+Gggh... Not yet...!!
+
+I haven't lost yet...!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -543,7 +578,9 @@ I still do not lose.........!!!#MTLed
 
 負けるはずがないんだよ！！
 > CONTEXT: Map132/events/1/pages/2/172/Dialogue/enemy14
-I ......... I ......... I can not lose it! !#MTLed
+I... I...
+
+I can't lose!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -552,10 +589,10 @@ I ......... I ......... I can not lose it! !#MTLed
 アンタは『約束』したはずだ。
 \\C[2]『戦いで一度でもダウンさせたら、敗けを認める』と。
 > CONTEXT: Map132/events/1/pages/2/177/Dialogue/hyakki2
-It's bad when it comes to life ...
-You should have made a promise.
-\\C[2]"If I let it go down in the battle, I admit
-defeat."#MTLed
+Ya need to learn when to give up...
+A promise is a promise.
+\\C[2]"If we manage to take you down even once,
+you'll admit defeat"\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
@@ -564,9 +601,9 @@ defeat."#MTLed
 ヘカーテみたいに、平然と約束を破るのかい？
  生物兵器になって誇りすら失っちまったかい？
 > CONTEXT: Map132/events/1/pages/2/182/Dialogue/hyakki2
-Or what? Like Hecate, do you calmly break a
-promise? Have you lost your pride as a biological
-weapon?#MTLed
+Or what? Are ya gonna casually break your
+promises like Hecate? Have ya lost your pride
+as a biological weapon?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -574,7 +611,7 @@ weapon?#MTLed
 
 ……………『ラミアー』。
 > CONTEXT: Map132/events/1/pages/2/187/Dialogue/hyakki2
-Did not it fall to there? ..... 'lamia'.#MTLed
+Is that how far you've fallen, Lamia.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -582,7 +619,9 @@ Did not it fall to there? ..... 'lamia'.#MTLed
 
 何でその名前を………
 > CONTEXT: Map132/events/1/pages/2/193/Dialogue/enemy14
-You ......... Why its name .........#MTLed
+You...
+
+Why are you using my name...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -591,10 +630,10 @@ You ......... Why its name .........#MTLed
 
 だから、ごり押し以外の突破法を見つける必要があった。
 > CONTEXT: Map132/events/1/pages/2/198/Dialogue/hyakki
-I knew that when I first did a "Koedoku-in".
-"With this regeneration ability, 'I' have no
-wins.". So I had to find a breakthrough other
-than a push.#MTLed
+I knew when I fought ya that first time that
+it'd be impossible to win with those regeneration
+abilities of yours. So I had to find a way other
+than brute force.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -603,10 +642,10 @@ than a push.#MTLed
 \\C[0]生物兵器に改造される前のアンタの事について
 悪いケド色々調べさせてもらったヨ。
 > CONTEXT: Map132/events/1/pages/2/203/Dialogue/hyakki
-That's why 'I' caught eye\\C[2] "Feature".
-\\C[0]About you before being converted into a
-biological weapon. Yo who let me investigate
-various bad habits.#MTLed
+So instead I focused on ya \\C[2]past\\C[0].
+Now I don't mean to pry, but I found all sorts
+of things out about ya from before ya were
+converted into a biological weapon.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -614,8 +653,9 @@ various bad habits.#MTLed
 
  ここで一から説明したりはしないよ。
 > CONTEXT: Map132/events/1/pages/2/210/Dialogue/hyakki
-...... Apart from now, you're a lonesome "myth"
-I will not explain it from scratch here.#MTLed
+...It's bit late to say this now, so I won't
+ramble on here about all the annoying myths
+surrounding ya.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -624,10 +664,10 @@ I will not explain it from scratch here.#MTLed
 
 その自分の存在の否定までは、したくないはずだろう？
 > CONTEXT: Map132/events/1/pages/2/214/Dialogue/hyakki
-But......... no matter how you kill
-It will be pronoun of a monster, but its essence
-is pure 'demon'...You wouldn't want to do that
-until the denial of your own existence?#MTLed
+But... no matter how many yer slaughter, no
+matter what monster ya become the byword for, at
+your core you're still a demon. I'm sure ya
+don't want to deny who ya are that much, right?#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -635,9 +675,8 @@ until the denial of your own existence?#MTLed
 
 \\C[2]『契約を必ず守る悪魔』\\C[0]だと信じたから、こうしたんだ。
 > CONTEXT: Map132/events/1/pages/2/219/Dialogue/hyakki
-'I' looks at you's 'lifeline',
-\\C[2]"Be sure to keep the contract demon"\\C[0] That's
-because I believed that.#MTLed
+I've seen your history, and I believe you're a demon
+\\C[2]who doesn't break her promises\\C[0].#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -645,8 +684,10 @@ because I believed that.#MTLed
 
 アタシのアイテムも、もう在庫切れさ……。
 > CONTEXT: Map132/events/1/pages/2/224/Dialogue/hyakki
-If that was a misplacement, please like it after
-that. Items of 'I' are also out of stock ....#MTLed
+If I'm wrong about that, then ya can do whatever
+ya like.
+
+Also I'm all out of stock of items...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -654,8 +695,10 @@ that. Items of 'I' are also out of stock ....#MTLed
 
 手のひらの上だったってワケかい………
 > CONTEXT: Map132/events/1/pages/2/231/Dialogue/enemy14
-……………From the beginning. I wonder if it was on
-the palm .........#MTLed
+From the beginning...
+
+Did you have me in the palm of your hand from the
+very beginning...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -663,14 +706,15 @@ the palm .........#MTLed
 
  私の敗けだ………
 > CONTEXT: Map132/events/1/pages/2/235/Dialogue/enemy14
-...... I understand, I admit. 
-It is my defeat .........#MTLed
+...Fine, I'll admit defeat.
+
+I lose...#Ron
 > END STRING
 
 > BEGIN STRING
 それじゃあ……！！
 > CONTEXT: Map132/events/1/pages/2/240/Dialogue/kazuya
-Well then……! !#MTLed
+So then...?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -678,8 +722,9 @@ Well then……! !#MTLed
 
 さっさと先に進むんだね。
 > CONTEXT: Map132/events/1/pages/2/242/Dialogue/enemy14
-Hmm...I will not disturb you anymore.
-I'm going forward soon.#MTLed
+Hmph... I won't get in your way anymore.
+
+Hurry up and go.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -687,15 +732,16 @@ I'm going forward soon.#MTLed
 
 今回は退いてやるけど、次会ったときは……
 > CONTEXT: Map132/events/1/pages/2/246/Dialogue/enemy14
-\\N[1] ...... I remember the name.
-I'll leave this time, but when I see you next
-time ...#MTLed
+I'll remember your name, \\N[1].
+
+I'll let you go this time, but the next time we
+meet might be a different story...#Ron
 > END STRING
 
 > BEGIN STRING
 っ……！！！？
 > CONTEXT: Map132/events/1/pages/2/255/Dialogue/enemy14
-............!!! ?#MTLed
+...?!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -703,14 +749,14 @@ time ...#MTLed
 
  そこからボロボロと崩れ去っている……！！
 > CONTEXT: Map132/events/1/pages/2/259/Dialogue
-When I look, the body of Titanoboa turns white and
-It's broken away from there ...! !#MTLed
+Titanoboa's body is turning white and starting to crumble
+into pieces...!!#Ron
 > END STRING
 
 > BEGIN STRING
 『安全装置』…か……
 > CONTEXT: Map132/events/1/pages/2/263/Dialogue/hyakki
-"Safety device"...or......#MTLed
+So that's... the safety device...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -719,9 +765,10 @@ It's broken away from there ...! !#MTLed
 私の『再生能力』を上回るものを、既に完成させてたのかい…
 油断もスキもないね……
 > CONTEXT: Map132/events/1/pages/2/265/Dialogue/enemy14
-That guys...Have you already completed
-something that surpasses my "playing ability" ...
-I'm not afraid or sorry ...#MTLed
+Those guys... looks like they managed to find a
+way to surpass my regeneration abilities.
+
+I suppose they couldn't be too careful with me...#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -729,7 +776,9 @@ I'm not afraid or sorry ...#MTLed
 
 この『安全装置』を止める方法は…！？
 > CONTEXT: Map132/events/1/pages/2/270/Dialogue/kazuya
-Hyakki!!How to stop this "safety device" ...! ?#MTLed
+Hyakki!!
+
+Is there a way to stop this safety device...?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -738,9 +787,9 @@ Hyakki!!How to stop this "safety device" ...! ?#MTLed
 実体を構成する魔力に組み込まれた、いわば『ナノマシン』…
 一度発動したら、もう……
 > CONTEXT: Map132/events/1/pages/2/274/Dialogue/hyakki
-It is muri...The so-called "nano machine" that
-is incorporated in the magic that composes the
-entity...Once triggered, it's already ......#MTLed
+There's not... Once the so-called "nanomachines"
+in her body that make up her magic power are
+activated, there's no stopping them...#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -749,9 +798,10 @@ entity...Once triggered, it's already ......#MTLed
 この姿になった時から、
 ロクな死に方は出来ないと思ってたよ……
 > CONTEXT: Map132/events/1/pages/2/280/Dialogue/enemy14
-Hm...good...this. From this time on,
-I thought it would not be possible to die hard
-...#MTLed
+Hmph... That's fine.
+
+Ever since I took this form I never expected to
+die a nice death...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -759,8 +809,8 @@ I thought it would not be possible to die hard
 
 地上で抱き止めた。
 > CONTEXT: Map132/events/1/pages/2/292/Dialogue
-\\N[1] crumbled and lost the body of Titanoboa
-Hug stopped on the ground.#MTLed
+\\N[1] holds Titanoboa's fallen, crumbling body in his
+arms.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -768,7 +818,9 @@ Hug stopped on the ground.#MTLed
 
 なんだい、アンタ……泣いてるのかい。
 > CONTEXT: Map132/events/1/pages/2/297/Dialogue/enemy14
-......? What, you...are you crying?#MTLed
+...?
+
+Are you... crying?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -776,9 +828,9 @@ Hug stopped on the ground.#MTLed
 
 今の今まで、アンタを喰おうとしていたのを忘れたかい？
 > CONTEXT: Map132/events/1/pages/2/301/Dialogue/enemy14
-I'm not a human being, I'm a demon to envy human
-beings ...... Have you forgotten that you have
-been trying to get rid of you?#MTLed
+I'm not a human being, I'm a demon who eats human
+beings... Did you forget that I've been trying
+to eat you up til now?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -786,9 +838,9 @@ been trying to get rid of you?#MTLed
 
 私のために泣くのは、筋違いってもんだ…………
 > CONTEXT: Map132/events/1/pages/2/305/Dialogue/enemy14
-Besides, even in front of you, you should have
-met alone...Crying for me is a bit wrong
-.........#MTLed
+I even ate someone right in front of you...
+
+Crying for me is absurd...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -796,8 +848,9 @@ met alone...Crying for me is a bit wrong
 
 もう\\N[1]にとって、アンタは『敵』じゃないんだよ。
 > CONTEXT: Map132/events/1/pages/2/310/Dialogue/hyakki
-I don't know, lamia. For \\N[1], you are no
-longer an enemy.#MTLed
+Ya don't understand him, Lamia.
+
+He doesn't see ya as an enemy anymore.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -805,8 +858,8 @@ longer an enemy.#MTLed
 
 だけど、その『約束』のせいで、アンタは消滅する。
 > CONTEXT: Map132/events/1/pages/2/314/Dialogue/hyakki
-You have kept the promise. But because of that
-"promise", you disappear.#MTLed
+You kept your promise, but now you're being
+annihilated because of it.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -815,9 +868,10 @@ You have kept the promise. But because of that
 だけど、アタシの言う通りに戦うしかなかった。
 アンタを説き伏せる、唯一の方法だと理解していたからね。
 > CONTEXT: Map132/events/1/pages/2/318/Dialogue/hyakki
-As expected, \\N[1] also knew this time.
-But I had to fight as I said. I understood it was
-the only way to talk over you.#MTLed
+\\N[1] understands what's happening this time.
+But just like ya said, there was no other way
+through other than fighting ya. He knew there
+was only one way to persuade ya.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -826,9 +880,9 @@ the only way to talk over you.#MTLed
  いろんなものを見て、傷付いてきているんだ。
 今はそいつの好きにささせてやりなヨ、ラミアー。
 > CONTEXT: Map132/events/1/pages/2/323/Dialogue/hyakki
-............ By the way so far, \\N[1] is
-I have been looking at various things and getting
-hurt. I'll let you like it now, yo, lamia.#MTLed
+...\\N[1]'s seen a lot and been hurt a lot on
+the road to get here. So just let him do his
+thing, Lamia.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -836,8 +890,9 @@ hurt. I'll let you like it now, yo, lamia.#MTLed
 
 本当におかしな奴だね、アンタは……
 > CONTEXT: Map132/events/1/pages/2/329/Dialogue/enemy14
-......................... \\N[1], .........
-It's a really funny guy, you are ...#MTLed
+\\N[1]...
+
+You're a strange one...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -845,8 +900,8 @@ It's a really funny guy, you are ...#MTLed
 
 人間でも悪魔でも、おかまいなしかい……
 > CONTEXT: Map132/events/1/pages/2/333/Dialogue/enemy14
-You's "Mercy" is. I don't mind if it's human or
-demon.#MTLed
+You're prepared to show "mercy" to both demon and
+human alike.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -854,8 +909,8 @@ demon.#MTLed
 
 『誰かに、真剣に想われる』ってのも。
 > CONTEXT: Map132/events/1/pages/2/340/Dialogue/hyakki
-......but I feel good. "Sometimes seriously
-considered".#MTLed
+But having someone really thinking about ya
+feels kinda nice, right?#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -863,7 +918,9 @@ considered".#MTLed
 
 そうだね…………悪くない………
 > CONTEXT: Map132/events/1/pages/2/344/Dialogue/enemy14
-Oh………. That's right...... not bad......#MTLed
+Yeah...
+
+You're right... It's kind of nice......#Ron
 > END STRING
 
 > BEGIN STRING
@@ -871,13 +928,17 @@ Oh………. That's right...... not bad......#MTLed
 
 くらいだよ…………
 > CONTEXT: Map132/events/1/pages/2/349/Dialogue/enemy14
-It is a shame ......... It's about ............#MTLed
+What a shame...
+
+It's getting dark...#Ron
 > END STRING
 
 > BEGIN STRING
 ……………立てるかい？\\N[1]。
 > CONTEXT: Map132/events/1/pages/2/362/Dialogue/hyakki
-...... Do you want to make it? \\N[1].#MTLed
+...
+
+Can ya stand, \\N[1]?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -885,8 +946,10 @@ It is a shame ......... It's about ............#MTLed
 
 出口はすぐそこ、ってところまで来てるんだろ？
 > CONTEXT: Map132/events/1/pages/2/364/Dialogue/hyakki
-Now I am sorry, I regret, I am angry.
-The exit is just around the corner, isn't it?#MTLed
+Leave all that sadness, regret, and anger, for
+later.
+
+You're almost out of here.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -894,8 +957,10 @@ The exit is just around the corner, isn't it?#MTLed
 
 ここで挫けちゃダメだよ。
 > CONTEXT: Map132/events/1/pages/2/368/Dialogue/hyakki
-First of all, if you do not help, nothing starts.
-You can't get lost here.#MTLed
+If ya don't save yourself first, ya won't be able
+to save anyone else.
+
+Ya can't give up here.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -903,7 +968,9 @@ You can't get lost here.#MTLed
 
 わかってるさ…！
 > CONTEXT: Map132/events/1/pages/2/373/Dialogue/kazuya
-Oh……. I know ...!#MTLed
+Yeah...
+
+I know...!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -913,9 +980,10 @@ Oh……. I know ...!#MTLed
 長年生きてきたアタシも、こんなの初めてだヨ。
 > CONTEXT: Map132/events/9/pages/1/1/Dialogue/hyakki
 > CONTEXT: Map132/events/9/pages/2/1/Dialogue/hyakki
-"Intervention" by your own will ...
-And when people appear...'I', which has lived
-for many years, is also the first such yo.#MTLed
+To think you'd carry out an \\C[14]"Intervention"\\C[0] of
+your own volition... and for a human to do it at
+that... I've lived for a long time and never seen
+anything like it.#Ron/Triketos
 > END STRING
 
 > BEGIN STRING
@@ -924,10 +992,9 @@ for many years, is also the first such yo.#MTLed
  今の状況と、そして僕に関係あることなのか…？
 > CONTEXT: Map132/events/9/pages/1/7/Dialogue/kazuya
 > CONTEXT: Map132/events/9/pages/2/7/Dialogue/kazuya
-Hyakki ...... The 'intervention' I mentioned
-earlier is gradually ...? What is the current
-situation, and something that I am concerned
-about?#MTLed
+Hyakki... What's this "intervention" you
+mentioned earlier? Does it have anything to do
+with me or this situation we're in now?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -936,8 +1003,10 @@ about?#MTLed
 \\N[1]も知っておいても良いかもしれないね。
 > CONTEXT: Map132/events/9/pages/1/12/Dialogue/hyakki
 > CONTEXT: Map132/events/9/pages/2/12/Dialogue/hyakki
-...... That's right, I'm here.
-You may know \\N[1] too.#MTLed
+Hmm...
+
+Well, you've come this far.
+I should probably tell you about it.#Ron/Triketos
 > END STRING
 
 > BEGIN STRING
@@ -946,10 +1015,10 @@ You may know \\N[1] too.#MTLed
 さっきから色々あって疲れたろう？
 休憩所で『セーブ』とかしておいた方がいいんじゃない？
 > CONTEXT: Map132/events/9/pages/1/16/Dialogue/hyakki
-......Before that...... ...
-You're tired from there a while ago?
-Wouldn't it be better to say "save" at the rest
-area?#MTLed
+But before that...
+
+You've been through quite a bit, aren't you
+tired? Shouldn't you "save" in a safe area?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -957,21 +1026,21 @@ area?#MTLed
 
 アタシはここで待ってるからサ。
 > CONTEXT: Map132/events/9/pages/1/23/Dialogue/hyakki
-It will be a conversation after the battle, it
-will be a long story. 'I' is waiting for you
-here.#MTLed
+It's a long conversation to have just after a
+battle. I'll still be waiting here after you're
+done.#Ron
 > END STRING
 
 > BEGIN STRING
 少し待ってもらう
 > CONTEXT: Map132/events/9/pages/1/27/Choice/0
-Get some wait#MTLed
+Make her wait#Ron
 > END STRING
 
 > BEGIN STRING
 話を続けてもらう
 > CONTEXT: Map132/events/9/pages/1/27/Choice/1
-Keep talking#MTLed
+Keep talking#Ron
 > END STRING
 
 > BEGIN STRING
@@ -979,8 +1048,9 @@ Keep talking#MTLed
 
 さて、それじゃあ、どこから話すか………
 > CONTEXT: Map132/events/9/pages/1/36/Dialogue/hyakki
-......................................
-Well then, where do you talk from...... ...#MTLed
+.....
+
+Well then, where do I even start...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -989,9 +1059,10 @@ Well then, where do you talk from...... ...#MTLed
  アタシたち悪魔が\\C[2]『魔界を通して人間界を移動できる』\\C[0]
 ってのは知ってるかい？
 > CONTEXT: Map132/events/9/pages/1/40/Dialogue/hyakki
-First of all, as a major premise
-'I' our demon is\\C[2] "You can move the human realm
-through Demon Realm"\\C[0]. Do you know that?#MTLed
+Let's start with the basics...
+
+Ya know that \\C[2]demons can move to the human realm
+through the demon realm\\C[0], right?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1000,10 +1071,10 @@ through Demon Realm"\\C[0]. Do you know that?#MTLed
  アタシたちの悩みの種の、MOWが存在しなかったり
 悪魔が認知されていなかったり、種類だけでも凄まじい
 > CONTEXT: Map132/events/9/pages/1/45/Dialogue/hyakki
-The "the human realm" is from a mere parallel
-world. There is no M.O.W. of the kind of trouble of
-'I's. The demon is not recognized, even the type
-alone is terrific#MTLed
+Because the "human realm" is just a parallel
+world, there are an endless variety of them. Some
+have no M.O.W., some have no demons, and some
+don't even have a concept of demons.#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -1012,9 +1083,9 @@ alone is terrific#MTLed
 
  ひょっとしたら、宇宙よりも広大かもしれないネ。
 > CONTEXT: Map132/events/9/pages/1/50/Dialogue/hyakki
-In addition to that, in "time axis error"
-Because the same "the human realm" is divided
-Perhaps it is bigger than the universe.#MTLed
+On top of that, because of a "timeline error",
+there are ones that are divided into identical
+copies of themselves.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -1023,9 +1094,10 @@ Perhaps it is bigger than the universe.#MTLed
 
 だから、実際に移動できる世界は限られてる。
 > CONTEXT: Map132/events/9/pages/1/55/Dialogue/hyakki
-However, demon is basic, time of the same world
-can not go back. Even if affected, it is trivial.
-So the world you can actually move is limited.#MTLed
+But fundamentally, demons can't reverse time
+within the same world. Even if they can affect
+it, the impact will be minor. So the worlds they
+can shift into are actually limited.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1034,9 +1106,8 @@ So the world you can actually move is limited.#MTLed
  この\\C[2]『\\N[1]のいる世界』\\C[0]なのサ。
  割とありきたりな、よくある人間界……
 > CONTEXT: Map132/events/9/pages/1/60/Dialogue/hyakki
-Well, one of them is. this\\C[2] "The world where
-\\N[1] is"\\C[0] What's up? Average ordinary, common
-the human realm ......#MTLed
+Of course, among those worlds is \\C[2]the one where
+you exist\\C[0]. A fairly common, ordinary world...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1044,14 +1115,14 @@ the human realm ......#MTLed
 
 最近、ある『変化』が始まった……
 > CONTEXT: Map132/events/9/pages/1/66/Dialogue/hyakki
-But in this world ......... Recently, a "change"
-has begun ...#MTLed
+But recently this world has started...
+"changing".#Ron
 > END STRING
 
 > BEGIN STRING
 『変化』……？
 > CONTEXT: Map132/events/9/pages/1/70/Dialogue/kazuya
-"change"……?#MTLed
+"Changing"...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1059,8 +1130,7 @@ has begun ...#MTLed
 
  こんなこと言うのも、なんだか変な話だけど……
 > CONTEXT: Map132/events/9/pages/1/72/Dialogue/hyakki
-.......................... To today's \\N[1]
-It's strange to say something like this ...#MTLed
+This might sound strange to you now but...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1068,14 +1138,13 @@ It's strange to say something like this ...#MTLed
 
 \\C[2] シェルターにいた時点で、死ぬ運命だったのさ。
 > CONTEXT: Map132/events/9/pages/1/76/Dialogue/hyakki
-\\N[1], you. \\C[2]When I was in the shelter, I was
-destined to die.#MTLed
+\\C[2]I was destined to die in that shelter\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
 ど、どういうことだよ、それ…！！
 > CONTEXT: Map132/events/9/pages/1/81/Dialogue/kazuya
-What kind of thing is that ...! !#MTLed
+W-What're talking about...?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1084,9 +1153,8 @@ What kind of thing is that ...! !#MTLed
 シェルターの出口手前で
 アイアンメイデンに襲われたときの事。
 > CONTEXT: Map132/events/9/pages/1/86/Dialogue/hyakki
-...... Do you remember? In front of the exit of
-the shelter. Things when it was attacked by Iron
-Maiden.#MTLed
+...Do you remember? You were attacked by Iron
+Maiden at the shelter's exit.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1095,10 +1163,9 @@ Maiden.#MTLed
 兵器になる前も、強大な力を持つサキュバスだった。
 そりゃもう、人間が敵うはずもないくらいね。
 > CONTEXT: Map132/events/9/pages/1/91/Dialogue/hyakki
-Lucy is Iron Maiden. Even before becoming a
-weapon, it was a powerful Succubus.
-Well, it's almost impossible for humans to be
-enemies.#MTLed
+Iron Maiden... Lucy, was a powerful succubus
+before becoming a weapon. Even back then a human
+would've been no match for her.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1107,10 +1174,10 @@ enemies.#MTLed
 
 \\C[2]最終的に『エサになる』選択肢しか与えられなかった…
 > CONTEXT: Map132/events/9/pages/1/98/Dialogue/hyakki
-No matter how hard \\N[1] works ...
-Where exactly I coped .........
-\\C[2]In the end, only the "Become Food" option was
-given ...#MTLed
+No matter how hard you tried, no matter how hard
+you fought...
+\\C[2]In the end your only option was to become
+her food...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1118,8 +1185,10 @@ given ...#MTLed
 
 それこそが、この人間界の『流れ』だったんだ。
 > CONTEXT: Map132/events/9/pages/1/103/Dialogue/hyakki
-\\C[2]It is the same in any parallel world ...
-That was the "flow" of this human realm.#MTLed
+\\C[2]It was the same in every parallel world...
+
+That outcome was also part of the "flow" of this
+world too.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1127,8 +1196,10 @@ That was the "flow" of this human realm.#MTLed
 
 \\C[10]アンタは、『本来無いはずの選択肢』を選んだ。
 > CONTEXT: Map132/events/9/pages/1/109/Dialogue/hyakki
-...... but something happened.
-\\C[10]You chose "a choice that should not be."#MTLed
+...But something happened.
+
+\\C[14]You made a choice that shouldn't have been
+there\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1137,9 +1208,9 @@ That was the "flow" of this human realm.#MTLed
 
 これはこの『人間界』にとっては、おおごとだ。
 > CONTEXT: Map132/events/9/pages/1/116/Dialogue/hyakki
-Well, from \\N[1] personally. There is no real
-feeling because it is a major premise to live ...
-This is a big deal for this "the human realm".#MTLed
+Well, from your perspective you want to live so
+it'd be an obvious choice. But it's a big deal
+for that to happen in a human realm.#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -1147,9 +1218,9 @@ This is a big deal for this "the human realm".#MTLed
 
 それより以前のボイラー室で、アンタに接触したってワケさ♪
 > CONTEXT: Map132/events/9/pages/1/121/Dialogue/hyakki
-'I' is also interested in this 'change' at that
-stage. In the boiler room earlier than that, it
-would be funny to contact you♪#MTLed
+At that stage, I got quite interested in what
+was going on with this "change", which is why
+I contacted you in the boiler room. ♪#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1157,9 +1228,9 @@ would be funny to contact you♪#MTLed
 
 時間差のパラレルワールドなら、探せばあるからネ。
 > CONTEXT: Map132/events/9/pages/1/125/Dialogue/hyakki
-I can not go back the time of "the world" itself
-If it is the parallel world of the time
-difference, it is because it will look for.#MTLed
+I can't reverse time in these worlds but if I
+look, I can find an identical parallel world
+with a time lag from this one.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -1167,8 +1238,8 @@ difference, it is because it will look for.#MTLed
 
 アタシが介入した世界も\\C[2]『いくつかは』\\C[0]変化した。
 > CONTEXT: Map132/events/9/pages/1/130/Dialogue/hyakki
-And the draft plan ......... The world where 'I'
-intervened\\C[2] "Some"\\C[0] changed.#MTLed
+And sure enough... there were \\C[2]some\\C[0] worlds
+that had changed when I intervened.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -1176,8 +1247,8 @@ intervened\\C[2] "Some"\\C[0] changed.#MTLed
 
 ダメだった世界もあったって事？
 > CONTEXT: Map132/events/9/pages/1/135/Dialogue/kazuya
-............\\C[2] "some"? Was there a world that was
-useless?#MTLed
+...\\C[2]Only some? Were there worlds where it all
+went badly?#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -1185,8 +1256,8 @@ useless?#MTLed
 
 そこが、この『変化』の興味深いところサ。
 > CONTEXT: Map132/events/9/pages/1/139/Dialogue/hyakki
-Such thing. That's the interesting part of this
-"change".#MTLed
+That's right. That's the interesting part of this
+"change".#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1194,9 +1265,9 @@ Such thing. That's the interesting part of this
 
 何かの『意思』により、起きたり起こらなかったりしている。
 > CONTEXT: Map132/events/9/pages/1/143/Dialogue/hyakki
-In other words, this "change" is\\C[10] Not the world
-axis itself. It happens or does not happen
-because of the "intention" of something.#MTLed
+In other words, this change \\C[10]isn't a function of
+the timeline itself. Things happen or don't
+happen because of some "will".#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1204,8 +1275,9 @@ because of the "intention" of something.#MTLed
 
 ただ一人、アンタの運命だけが『変化』している。
 > CONTEXT: Map132/events/9/pages/1/147/Dialogue/hyakki
-\\C[10]Moreover, the scale of the whole world is
-nothing. Only one, your fate "changes".#MTLed
+\\C[10]And it's not something that happens across the
+entire world. Only your fate and yours alone is
+being changed.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1214,15 +1286,16 @@ nothing. Only one, your fate "changes".#MTLed
 そんなアンタの『変化』に、興味を持った悪魔が
  もう一体、あらわれたんだ……。
 > CONTEXT: Map132/events/9/pages/1/152/Dialogue/hyakki
-And ......... There is a demon who is interested
-in "change" of such anta. One more thing, it has
-appeared ....#MTLed
+And... another demon has appeared that's very
+interested in this change of yours...#Ron
 > END STRING
 
 > BEGIN STRING
 アンタに躯を差し向けた……\\C[2]『双子』だヨ。
 > CONTEXT: Map132/events/9/pages/1/157/Dialogue/hyakki
-I sent Mukuro to you ...\\C[2] 'Twins' yo.#MTLed
+The ones who sent Mukuro after you...
+
+\\C[2]The Twins\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1231,10 +1304,10 @@ I sent Mukuro to you ...\\C[2] 'Twins' yo.#MTLed
 
  正直、アタシも奴らの正体は分からない。
 > CONTEXT: Map132/events/9/pages/1/162/Dialogue/hyakki
-Those demons are somehow different from ordinary
-demons. \\C[2]Even the same world time can go
-backwards.\\C[0]. To be honest, neither 'I' nor their
-true identity is known.#MTLed
+For some reason those two are different from
+normal demons. \\C[2]They can reverse time even within
+the same world\\C[0]. To be honest, even I don't know
+who they really are.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1242,9 +1315,9 @@ true identity is known.#MTLed
 
 人々をだまし、茜の魂を幽閉し、『躯』を創りあげた。
 > CONTEXT: Map132/events/9/pages/1/167/Dialogue/hyakki
-They go back to the great age of this world
-I deceived people, shut up the soul of Akane, and
-created "Mukuro".#MTLed
+They went way back in time, tricked a bunch of
+people, imprisoned Akane's soul, and created
+Mukuro.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1253,10 +1326,9 @@ created "Mukuro".#MTLed
 
  真実にたどり着き、見事に奴らの呪縛から躯を救った。
 > CONTEXT: Map132/events/9/pages/1/171/Dialogue/hyakki
-And the result ......... As you are led, you find
-Amento's older brother Memento and
-Arriving to the truth, I saved Mukuro from their
-curse.#MTLed
+And the result...? You were led to find Akane's
+older brother's memento, arrived at the truth,
+and managed to save Mukuro from their curse.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1265,9 +1337,10 @@ curse.#MTLed
 再び仕掛けてこないところを見ると
 満足の結果だったんじゃないかナ……？
 > CONTEXT: Map132/events/9/pages/1/176/Dialogue/hyakki
-I don't know if this was their script but
-If you look at a place that doesn't come back
-again. Wasn't it the result of satisfaction?#MTLed
+I don't know whether or not that was all part of
+their plan, but I don't think they would've been
+pleased if you hadn't come back to challenge
+them again.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -1275,9 +1348,10 @@ again. Wasn't it the result of satisfaction?#MTLed
 
 \\C[10]アンタはまたそこで『本来できないこと』をしたんだヨ
 > CONTEXT: Map132/events/9/pages/1/183/Dialogue/hyakki
-Surely, Persuade Mukuro...and when you beat
-twins...\\C[10]You have also done "a thing you can not
-do"#MTLed
+Convincing Mukuro... Defeating the Twins...
+
+\\C[10]You've been doing things I'm sure you shouldn't
+have been able to do...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1286,10 +1360,10 @@ do"#MTLed
 \\C[10]アンタはその『変化』を味方にして
  いろいろな『本来できないはずの事』をやってきた。
 > CONTEXT: Map132/events/9/pages/1/192/Dialogue/hyakki
-It's the time of Sphinx and even the nest of
-Archeny. \\C[10]You are on the side of that "change"
-I have done a lot of things that should not be
-possible.#MTLed
+It's the same as when you dealt with Sphinx and
+when you were in Archeny's nest. \\C[10]By having that
+"change" on your side, you've been doing things
+you shouldn't be able to.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1297,8 +1371,10 @@ possible.#MTLed
 
  \\C[10]『心蝕』\\C[0]とかネ……。
 > CONTEXT: Map132/events/9/pages/1/197/Dialogue/hyakki
-......... Well, though it wasn't even a perfect
-ally. \\C[10] "Mind corruption"\\C[0] Toka Ne ....#MTLed
+...Well, I guess it's not been the perfect ally.
+
+\\C[10]That corruption \\C[0]you tend to pick up comes
+to mind...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1306,9 +1382,9 @@ ally. \\C[10] "Mind corruption"\\C[0] Toka Ne ....#MTLed
 
 『魔神』『神』ですら、持ち合わせていないものなんだよ。
 > CONTEXT: Map132/events/9/pages/1/201/Dialogue/hyakki
-The power of this change is, of course, “human”,
-“demon”, “angel”...Even 'Devil' and 'God' are
-something that you don't have.#MTLed
+The power of this change is something even God
+and the Devil don't have, let alone humans,
+demons, or angels...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1316,8 +1392,9 @@ something that you don't have.#MTLed
 
 \\C[10]なにかの『意思』が、アンタを動かしているんだ。
 > CONTEXT: Map132/events/9/pages/1/205/Dialogue/hyakki
-So, 'I' calls this power 'intervention'.
-\\C[10]Some "intentions" move you.#MTLed
+So, that's why I call this power \\C[14]Intervention\\C[0].
+
+\\C[10]Some kind of "will" is moving you.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1326,10 +1403,10 @@ So, 'I' calls this power 'intervention'.
 それじゃあ、『介入』してる意思って、何なんだ！？
  一体僕に何をさせる気なんだよ……！！
 > CONTEXT: Map132/events/9/pages/1/210/Dialogue/kazuya
-I understood the meaning of "intervention" ...
-... Well then what is your intention to do
-'intervention'! ? What on earth do you want me to
-do ......! !#MTLed
+I get this whole \\C[14]Intervention\\C[0] thing, but what
+the hell's this "will" that's driving it?!
+
+What the hell are they trying to make me do?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1337,8 +1414,10 @@ do ......! !#MTLed
 
 それが分かってれば、アタシもここまで興味を持たないよ
 > CONTEXT: Map132/events/9/pages/1/217/Dialogue/hyakki
-Well ...? If you know that, 'I' is not interested
-so far#MTLed
+Beats me...
+
+I wouldn't be nearly as interested if I knew
+that.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1346,8 +1425,9 @@ so far#MTLed
 
 　\\C[2]『誰の差し金か』\\C[0]くらいは、何となく分かるケド。）
 > CONTEXT: Map132/events/9/pages/1/221/Dialogue/hyakki
-(Tamaa ...... \\C[2] "Who's the payoff?"\\C[0] Somehow, I
-know Ked somehow. )#MTLed
+(But then again...
+\\C[14]I've got a bit of an idea of whose suggestions
+its following...\\C[0])#Ron/Triketos
 > END STRING
 
 > BEGIN STRING
@@ -1355,9 +1435,8 @@ know Ked somehow. )#MTLed
 
   一番最初に、『介入する意思』に呼び掛けた、誰か………）
 > CONTEXT: Map132/events/9/pages/1/225/Dialogue/hyakki
-\\C[10](Before the beginning of this world,
-First of all, someone who called for "the
-intention to intervene"......)#MTLed
+\\C[10](Before this world began, somebody first called
+out for "the will to intervene"...)#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -1366,9 +1445,9 @@ intention to intervene"......)#MTLed
 本来がどうであれ、\\N[1]はこうやって
 港の目の前まで来たんじゃないか！！
 > CONTEXT: Map132/events/9/pages/1/234/Dialogue/hyakki
-Sorry!!You can't mess around here! !
-Whatever the way it is, \\N[1] does
-You may have come to the front of the harbor!!#MTLed
+Well then!! That's enough spoilers for now!!
+Forget about what should or shouldn't be,
+shouldn't ya be heading for the harbor?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1376,15 +1455,15 @@ You may have come to the front of the harbor!!#MTLed
 
 それは、紛れもなく\\N[1]が決めることだヨ
 > CONTEXT: Map132/events/9/pages/1/239/Dialogue/hyakki
-What kind of ending will we end up in the future?
-It is unmistakable that \\N[1] will decide.#MTLed
+Make no mistake, how this whole thing ends is all
+gonna be down to you, \\N[1].#Ron
 > END STRING
 
 > BEGIN STRING
 最後まで気を抜くんじゃないよ…\\N[1]！
 > CONTEXT: Map132/events/9/pages/1/243/Dialogue/hyakki
 > CONTEXT: Map132/events/9/pages/2/44/Dialogue/hyakki
-I'm not distracting until the end...\\N[1]!#MTLed
+I won't bug ya until ya get to the end...!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1392,8 +1471,9 @@ I'm not distracting until the end...\\N[1]!#MTLed
 
 そのおかげで、僕はここまで生き延びた…
 > CONTEXT: Map132/events/9/pages/1/250/Dialogue/kazuya
-"Intervention" intention...Thanks to that, I
-survived to here ...#MTLed
+A will that can \\C[14]"intervene"\\C[0]...
+
+I've survived thanks to that...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1401,8 +1481,9 @@ survived to here ...#MTLed
 
 僕に、何を見せる気なんだ…？
 > CONTEXT: Map132/events/9/pages/1/254/Dialogue/kazuya
-But...is that "intention" ally my friend?
-What do you want to show me ...?#MTLed
+But is this "will" actually on my side?
+
+What does it want to show me...?#Ron
 > END STRING
 
 > BEGIN STRING

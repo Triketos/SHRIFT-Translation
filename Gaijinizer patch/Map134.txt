@@ -6,8 +6,8 @@
 > CONTEXT: Map134/events/10/pages/0/8/Dialogue/kazuya
 > CONTEXT: Map134/events/10/pages/1/8/Dialogue/kazuya
 > CONTEXT: Map134/events/10/pages/2/8/Dialogue/kazuya
-...... Yuuma, do you hear? We arrived at the
-parking lot in the harbor.#MTLed
+...Yuuma, can you hear me? I've arrived at the
+harbor parking lot.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -17,8 +17,9 @@ parking lot in the harbor.#MTLed
 > CONTEXT: Map134/events/10/pages/0/12/Dialogue/yuuma
 > CONTEXT: Map134/events/10/pages/1/12/Dialogue/yuuma
 > CONTEXT: Map134/events/10/pages/2/12/Dialogue/yuuma
-Oh, I can confirm it. Let's meet in the building
-ahead where we went straight.#MTLed
+Yeah, I've confirmed your location. Keep going
+straight and let's rendezvous in the building up
+ahead of you.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -28,7 +29,9 @@ ahead where we went straight.#MTLed
 > CONTEXT: Map134/events/10/pages/0/16/Dialogue/kazuya
 > CONTEXT: Map134/events/10/pages/1/16/Dialogue/kazuya
 > CONTEXT: Map134/events/10/pages/2/16/Dialogue/kazuya
-I understood. It is straight as it is.#MTLed
+Understood.
+
+Just keeping going straight ahead...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -38,7 +41,7 @@ I understood. It is straight as it is.#MTLed
 > CONTEXT: Map134/events/10/pages/2/21/Dialogue/kazuya
 > CONTEXT: Map172/events/2/pages/0/8/Dialogue/kazuya
 > CONTEXT: Map172/events/2/pages/1/9/Dialogue/kazuya
-............ Yuuma.#MTLed
+...Yuuma.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -46,7 +49,7 @@ I understood. It is straight as it is.#MTLed
 > CONTEXT: Map134/events/10/pages/0/23/Dialogue/yuuma
 > CONTEXT: Map134/events/10/pages/1/23/Dialogue/yuuma
 > CONTEXT: Map134/events/10/pages/2/23/Dialogue/yuuma
-Hmm? What happened?#MTLed
+Hmm? What's up?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -55,8 +58,9 @@ Hmm? What happened?#MTLed
 最後まで、諦めずに待っていてくれて……
 > CONTEXT: Map134/events/10/pages/0/25/Dialogue/kazuya
 > CONTEXT: Map134/events/10/pages/2/25/Dialogue/kazuya
-Thank you……. Please wait without giving up until
-the end ...#MTLed
+Thanks...
+
+For not giving up on me...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -65,8 +69,8 @@ the end ...#MTLed
 連絡が途絶えた時間が、めちゃくちゃ長かったのに…
 > CONTEXT: Map134/events/10/pages/0/29/Dialogue/kazuya
 > CONTEXT: Map134/events/10/pages/2/29/Dialogue/kazuya
-Especially, the park before. The time when I lost
-contact was very long ...#MTLed
+Especially before in the park. We lost contact
+for a hell of a long time...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -75,8 +79,9 @@ contact was very long ...#MTLed
 ここまで来てお前を置いていったら、それこそ後味が悪い。
 > CONTEXT: Map134/events/10/pages/0/33/Dialogue/yuuma
 > CONTEXT: Map134/events/10/pages/2/33/Dialogue/yuuma
-Haha, it is natural. If you come here and leave
-you, that's a bad taste.#MTLed
+Haha, of course. Leaving you behind after you've
+gotten this far would leave a bad taste in my
+mouth.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -85,8 +90,8 @@ you, that's a bad taste.#MTLed
 …………違うか？
 > CONTEXT: Map134/events/10/pages/0/37/Dialogue/yuuma
 > CONTEXT: Map134/events/10/pages/2/37/Dialogue/yuuma
-Besides, if you are in my position, you will do
-the same. …………Different?#MTLed
+Besides, you'd do the same for me if our
+situations were reversed, right?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -95,8 +100,7 @@ the same. …………Different?#MTLed
 確かに僕でも、お前を待つと思うよ…
 > CONTEXT: Map134/events/10/pages/0/42/Dialogue/kazuya
 > CONTEXT: Map134/events/10/pages/2/42/Dialogue/kazuya
-That's right. Certainly I think I will wait for
-you ...#MTLed
+That's right. I'm pretty sure I'd wait for you...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -106,9 +110,9 @@ you ...#MTLed
  今のうちに、建物に入っておくんだ。\\|\\|\\|\\|\\^
 > CONTEXT: Map134/events/10/pages/0/47/Dialogue/yuuma
 > CONTEXT: Map134/events/10/pages/2/47/Dialogue/yuuma
-Well, hurry up. As the night gets deeper, the
-demon becomes more active. I'm going into the
-building now.\\|\\|\\|\\|\\^#MTLed
+Let's hurry, then. Demons get more active later
+on at night. Let's get you inside while we have
+the chance.\\|\\|\\|\\|\\^#Ron
 > END STRING
 
 > BEGIN STRING
@@ -117,7 +121,9 @@ building now.\\|\\|\\|\\|\\^#MTLed
 待っててくれ、ユウマ。\\|\\|\\|\\^
 > CONTEXT: Map134/events/10/pages/0/52/Dialogue/kazuya
 > CONTEXT: Map134/events/10/pages/2/52/Dialogue/kazuya
-Oh, I'm going now...Wait, Yuuma.\\|\\|\\|\\^#MTLed
+Yeah, I'm going...
+
+Wait up for me, Yuuma...\\|\\|\\|\\^#Ron
 > END STRING
 
 > BEGIN STRING
@@ -125,8 +131,9 @@ Oh, I'm going now...Wait, Yuuma.\\|\\|\\|\\^#MTLed
 
  今の音はなんだ！？
 > CONTEXT: Map134/events/10/pages/0/91/Dialogue/yuuma
-What happened!!\\N[1]!!What is the current
-sound! ?#MTLed
+What happened, \\N[1]?!
+
+What were those sounds just now?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -134,8 +141,10 @@ sound! ?#MTLed
 
  当たらなかったけど、急に誰かに撃たれた！！
 > CONTEXT: Map134/events/10/pages/0/95/Dialogue/kazuya
-Ju...It's shooting!!I did not hit, but
-someone suddenly shot me! !#MTLed
+I-It's gunfire!!
+
+Someone suddenly started shooting, they didn't
+hit me though!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -143,7 +152,9 @@ someone suddenly shot me! !#MTLed
 
  一体誰から………！
 > CONTEXT: Map134/events/10/pages/0/99/Dialogue/yuuma
-Gun shooting ...! ? Who the hell......!#MTLed
+Gunfire...?!
+
+Who the hell...?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -151,8 +162,8 @@ Gun shooting ...! ? Who the hell......!#MTLed
 
 これでも私、軍に入ってから相当上手くなったんだけどなぁ
 > CONTEXT: Map134/events/10/pages/0/108/Dialogue/other3
-Did I remove it ......... Even this, I got pretty
-well after I entered the army#MTLed
+Did I miss...? That's weird, I got pretty good
+at shooting after joining the army.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -161,15 +172,15 @@ well after I entered the army#MTLed
 
 『旧世代』だから、ラクに逝けるよ…？
 > CONTEXT: Map134/events/10/pages/0/112/Dialogue/other3
-\\N[1] is also ...... Do you read the air and hit
-it properly? 'Outdated', so you can earn with
-ease ...?#MTLed
+Hey \\N[1]... Do you understand what's happening?
+These are "outdated" rounds so it's pretty easy
+to put you out of your misery with them.#RonIffy
 > END STRING
 
 > BEGIN STRING
 み、ミカ！？
 > CONTEXT: Map134/events/10/pages/0/117/Dialogue/kazuya
-Mi, Micah! ?#MTLed
+M-Micah?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -177,7 +188,9 @@ Mi, Micah! ?#MTLed
 
 ミカがそこにいるのか？
 > CONTEXT: Map134/events/10/pages/0/119/Dialogue/yuuma
-Micah .........? Is Micah there?#MTLed
+Did you say Micah...?
+
+Is Micah there with you?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -187,8 +200,8 @@ Micah .........? Is Micah there?#MTLed
 なんでお前の彼女が、僕を撃ってくるんだよ！！
 > CONTEXT: Map134/events/10/pages/0/123/Dialogue/kazuya
 > CONTEXT: Map151/events/1/pages/0/5/Dialogue/kazuya
-How is that! Yuuma! ? Why is she here? !
-Why is your girlfriend shooting me! !#MTLed
+W-What the hell's going on, Yuuma?! Why is she
+here?! Why is your girlfriend shooting at me!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -196,7 +209,9 @@ Why is your girlfriend shooting me! !#MTLed
 
 ユウマと話してるの…？
 > CONTEXT: Map134/events/10/pages/0/129/Dialogue/other3
-Yuuma ......? ? Are you talking to Yuuma ...?#MTLed
+Yuuma...?
+
+Are you talking to Yuuma...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -205,8 +220,10 @@ Yuuma ......? ? Are you talking to Yuuma ...?#MTLed
 ユウマと同じように………
 > CONTEXT: Map134/events/10/pages/0/133/Dialogue/other3
 > CONTEXT: Map151/events/1/pages/0/11/Dialogue/other3
-I see ..... \\N[1], too, is going to abandon it
-... Same as Yuuma .........#MTLed
+I see... so you're planning on abandoning me too,
+\\N[1].
+
+Just like Yuuma did...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -216,16 +233,17 @@ I see ..... \\N[1], too, is going to abandon it
 \\C[0]このままだと、お前は殺される。
 > CONTEXT: Map134/events/10/pages/0/139/Dialogue/yuuma
 > CONTEXT: Map151/events/1/pages/0/16/Dialogue/yuuma
-............ \\N[1], shoot Micah.
-\\C[10]Then stick with Finish her off.
-\\C[0]If you keep this, you will be killed.#MTLed
+\\N[1], shoot Micah. \\C[10]Then make sure you
+finish her off.
+
+\\C[0]You'll be killed if this keeps up.#Ron
 > END STRING
 
 > BEGIN STRING
 ゆ、ユウマまで……！？
 > CONTEXT: Map134/events/10/pages/0/144/Dialogue/kazuya
 > CONTEXT: Map151/events/1/pages/0/21/Dialogue/kazuya
-Yu, Yuuma to ......! ?#MTLed
+W-What're you saying...?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -234,15 +252,16 @@ Yu, Yuuma to ......! ?#MTLed
 あんなに仲の良い恋人同士だったじゃないか！！？
 > CONTEXT: Map134/events/10/pages/0/146/Dialogue/kazuya
 > CONTEXT: Map151/events/1/pages/0/23/Dialogue/kazuya
-Well, we both did it! I guess you were such good
-friends!!?#MTLed
+W-What happened between you two?
+
+Didn't you have such a happy relationship?!#Ron
 > END STRING
 
 > BEGIN STRING
 ……バイバイ、\\N[1]
 > CONTEXT: Map134/events/10/pages/0/158/Dialogue/other3
 > CONTEXT: Map151/events/1/pages/0/28/Dialogue/other3
-...... bye bye, \\N[1]#MTLed
+...Bye bye, \\N[1].#Ron
 > END STRING
 
 > BEGIN STRING
@@ -258,7 +277,7 @@ friends!!?#MTLed
 > CONTEXT: Map134/events/10/pages/0/172/InlineScript/2:1
 > CONTEXT: Map134/events/10/pages/1/164/InlineScript/2:1
 > CONTEXT: Map134/events/10/pages/2/137/InlineScript/2:1
-"Clear to Chapter 3"#MTLed
+"Chapter 3 Cleared"#Triketos
 > END STRING
 
 > BEGIN STRING
