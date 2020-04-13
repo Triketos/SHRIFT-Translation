@@ -504,8 +504,7 @@ His "potential"...#Ron
 
 だけどその代わり、『お遊び』はもうナシだ……！
 > CONTEXT: Map132/events/1/pages/2/107/Dialogue/enemy14
-How amusing... I'll go along with this
-"contract"...!!
+How amusing... I'll agree to those terms.
 
 But that means playtime is over...!#Ron
 > END STRING
@@ -981,10 +980,10 @@ I know...!#Ron
 長年生きてきたアタシも、こんなの初めてだヨ。
 > CONTEXT: Map132/events/9/pages/1/1/Dialogue/hyakki
 > CONTEXT: Map132/events/9/pages/2/1/Dialogue/hyakki
-To think you'd carry out an "intervention" of
-your own volition... and for a human to do it
-too... I've lived for a long time and never seen
-anything like that before.#Ron
+To think you'd carry out an \\C[14]"Intervention"\\C[0] of
+your own volition... and for a human to do it at
+that... I've lived for a long time and never seen
+anything like it.#Ron/Triketos
 > END STRING
 
 > BEGIN STRING
@@ -1004,9 +1003,10 @@ with me or this situation we're in now?#Ron
 \\N[1]も知っておいても良いかもしれないね。
 > CONTEXT: Map132/events/9/pages/1/12/Dialogue/hyakki
 > CONTEXT: Map132/events/9/pages/2/12/Dialogue/hyakki
-...Hmmm, well you've come this far.
+Hmm...
 
-I might as well tell you about it.#Ron
+Well, you've come this far.
+I should probably tell you about it.#Ron/Triketos
 > END STRING
 
 > BEGIN STRING
@@ -1016,6 +1016,7 @@ I might as well tell you about it.#Ron
 休憩所で『セーブ』とかしておいた方がいいんじゃない？
 > CONTEXT: Map132/events/9/pages/1/16/Dialogue/hyakki
 But before that...
+
 You've been through quite a bit, aren't you
 tired? Shouldn't you "save" in a safe area?#Ron
 > END STRING
@@ -1197,7 +1198,7 @@ world too.#Ron
 > CONTEXT: Map132/events/9/pages/1/109/Dialogue/hyakki
 ...But something happened.
 
-\\C[10]You made a choice that shouldn't have been
+\\C[14]You made a choice that shouldn't have been
 there\\C[0].#Ron
 > END STRING
 
@@ -1391,7 +1392,7 @@ demons, or angels...#Ron
 
 \\C[10]なにかの『意思』が、アンタを動かしているんだ。
 > CONTEXT: Map132/events/9/pages/1/205/Dialogue/hyakki
-So that's why I call that power "intervention".
+So, that's why I call this power \\C[14]Intervention\\C[0].
 
 \\C[10]Some kind of "will" is moving you.#Ron
 > END STRING
@@ -1402,7 +1403,7 @@ So that's why I call that power "intervention".
 それじゃあ、『介入』してる意思って、何なんだ！？
  一体僕に何をさせる気なんだよ……！！
 > CONTEXT: Map132/events/9/pages/1/210/Dialogue/kazuya
-I get this whole intervention thing but what
+I get this whole \\C[14]Intervention\\C[0] thing, but what
 the hell's this "will" that's driving it?!
 
 What the hell are they trying to make me do?#Ron
@@ -1424,9 +1425,9 @@ that.#Ron
 
 　\\C[2]『誰の差し金か』\\C[0]くらいは、何となく分かるケド。）
 > CONTEXT: Map132/events/9/pages/1/221/Dialogue/hyakki
-(But then...
-I've got a bit of an idea of \\C[2]whose suggestions
-its following\\C[0])#RonIffy
+(But then again...
+\\C[14]I've got a bit of an idea of whose suggestions
+its following...\\C[0])#Ron/Triketos
 > END STRING
 
 > BEGIN STRING
@@ -1470,7 +1471,7 @@ I won't bug ya until ya get to the end...!#Ron
 
 そのおかげで、僕はここまで生き延びた…
 > CONTEXT: Map132/events/9/pages/1/250/Dialogue/kazuya
-A will that "intervenes"...
+A will that can \\C[14]"intervene"\\C[0]...
 
 I've survived thanks to that...#Ron
 > END STRING
