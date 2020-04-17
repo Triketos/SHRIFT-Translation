@@ -78,7 +78,8 @@ Milking (69)en(v[46] \>= 50)#Ron
 > BEGIN STRING
 【ハル】種族：魔獣
 > CONTEXT: Map070/events/5/pages/0/52/ChoiceHelp
-[Haru] Tribe: Magical Beast#Ron
+[Haru] Tribe: Magical Beast
+Current Friendship: \\C[2]\\v[46]\\C[0]#Ron
 > END STRING
 
 > BEGIN STRING
@@ -2274,6 +2275,7 @@ Milkingen(v[46] \>= 75)#Ron
 【リズ】種族：魔獣
 > CONTEXT: Map070/events/9/pages/0/62/ChoiceHelp
 [Liz] Tribe: Magical Beast#Ron
+Current Friendship: \\C[2]\\v[46]\\C[0]#Ron
 > END STRING
 
 > BEGIN STRING
