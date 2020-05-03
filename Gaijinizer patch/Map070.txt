@@ -836,22 +836,24 @@ finish off that bento or put it away!!!#Ron
 
 > BEGIN STRING
 ミオについてif(s[376]) 
-> CONTEXT: Map070/events/5/pages/1/333/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Map070/events/5/pages/1/333/Choice/0
+More About Mioif(s[376])#Triketos
 > END STRING
 
 > BEGIN STRING
 条件【\\C[2]想ひ魂【虚】を所持している\\C[0]】
-> CONTEXT: Map070/events/5/pages/1/335/ChoiceHelp < UNTRANSLATED
-
+> CONTEXT: Map070/events/5/pages/1/335/ChoiceHelp
+Requires:【\\C[2]Have Memento(Imaginary)\\C[0]】#Triketos
 > END STRING
 
 > BEGIN STRING
 知らなかった………
 
 ミオ様に、そんな過去があったなんて……
-> CONTEXT: Map070/events/5/pages/1/338/Dialogue/enemy7 < UNTRANSLATED
+> CONTEXT: Map070/events/5/pages/1/338/Dialogue/enemy7
+I didn't know.........
 
+I can't believe Mio had such a past.#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -859,16 +861,22 @@ finish off that bento or put it away!!!#Ron
 よりによって自分の飼い主を殺すだなんて……
 
 ワタシだったら、正気じゃいられないよ。
-> CONTEXT: Map070/events/5/pages/1/342/Dialogue/enemy7 < UNTRANSLATED
+> CONTEXT: Map070/events/5/pages/1/342/Dialogue/enemy7
+Actually, I love people,
+More than that, i'm going to kill my owner.
 
+If I were you, I wouldn't be sane.#GT
 > END STRING
 
 > BEGIN STRING
 そういえば、自然すぎて気付かなかったけど……
 
 \\N[2]、『死』を理解してるの？
-> CONTEXT: Map070/events/5/pages/1/348/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map070/events/5/pages/1/348/Dialogue/kazuya
+Come to think of it, it was too natural
+to notice, but......
 
+\\N[2], do you understand death?#GT
 > END STRING
 
 > BEGIN STRING
@@ -876,8 +884,10 @@ finish off that bento or put it away!!!#Ron
  リズが教えてくれたんだよ。
 
 でもホントは、前から薄々そんな感じてたんだ。
-> CONTEXT: Map070/events/5/pages/1/352/Dialogue/enemy7 < UNTRANSLATED
-
+> CONTEXT: Map070/events/5/pages/1/352/Dialogue/enemy7
+Yes...... After a while of coming here,
+Liz taught me. But the truth is, I've been
+feeling that kind of thing for a long time.#GT
 > END STRING
 
 > BEGIN STRING
@@ -885,16 +895,20 @@ finish off that bento or put it away!!!#Ron
 決まってワタシが離れたほんの数分だったし……
 
 リズの態度も、なんだか変だったからさ……
-> CONTEXT: Map070/events/5/pages/1/357/Dialogue/enemy7 < UNTRANSLATED
+> CONTEXT: Map070/events/5/pages/1/357/Dialogue/enemy7
+Because there are no humans
+It was only a few minutes away from me.
 
+Liz's attitude was kind of weird.#GT
 > END STRING
 
 > BEGIN STRING
 私が教えなくても、時間の問題だったさ
 
  だってこの空間は、アンタの精神なんだから。
-> CONTEXT: Map070/events/5/pages/1/365/Dialogue/enemy7 < UNTRANSLATED
-
+> CONTEXT: Map070/events/5/pages/1/365/Dialogue/enemy7
+It was only a matter of time before I learned
+about it because this space is your spirit.#GT
 > END STRING
 
 > BEGIN STRING
@@ -902,8 +916,11 @@ finish off that bento or put it away!!!#Ron
  私たちの感情にも、じかに響いてくる。
 
  黙ってても、感覚で理解してただろうね。
-> CONTEXT: Map070/events/5/pages/1/369/Dialogue/enemy7 < UNTRANSLATED
-
+> CONTEXT: Map070/events/5/pages/1/369/Dialogue/enemy7
+Every time you feel death,
+it resonates in our emotions.
+Even if you kept silent,
+we would have understood it by your senses.#GT
 > END STRING
 
 > BEGIN STRING
@@ -911,8 +928,11 @@ finish off that bento or put it away!!!#Ron
 『アンタの精神と同調してる』状態ってのは
 
  ほら、ハル。さっき言ってたやつ
-> CONTEXT: Map070/events/5/pages/1/375/Dialogue/enemy7 < UNTRANSLATED
+> CONTEXT: Map070/events/5/pages/1/375/Dialogue/enemy7
+............ And it's not all bad,
+I'm in tune with your spirit.
 
+Come on, Haru. The one I mentioned earlier.#GT
 > END STRING
 
 > BEGIN STRING
@@ -920,24 +940,32 @@ finish off that bento or put it away!!!#Ron
 じゃんっ♪
 
 見て見て！\\N[1]くん！
-> CONTEXT: Map070/events/5/pages/1/381/Dialogue/enemy5 < UNTRANSLATED
+> CONTEXT: Map070/events/5/pages/1/381/Dialogue/enemy5
+Oh, that's right!!
+Hey♪
 
+Look, look, \\N[1]-kun!#TriketosPartial
 > END STRING
 
 > BEGIN STRING
 ちょっ、ちょっと！\\N[2]！！？
 
 そんな野外露出狂みたいにパーカー大開きしないで！！
-> CONTEXT: Map070/events/5/pages/1/387/Dialogue/kazuya-a < UNTRANSLATED
+> CONTEXT: Map070/events/5/pages/1/387/Dialogue/kazuya-a
+Hey... Hey! \\N[2]!!?
 
+Don't open your hoodie like you're an
+outdoor flasher!!#GT
 > END STRING
 
 > BEGIN STRING
 ………って、あれ？
 
 なんか、パーカーの感じが違う…？
-> CONTEXT: Map070/events/5/pages/1/392/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map070/events/5/pages/1/392/Dialogue/kazuya
+......... What's this?
 
+Something feels different about her hoodie...#TriketosPartial
 > END STRING
 
 > BEGIN STRING
@@ -945,22 +973,26 @@ finish off that bento or put it away!!!#Ron
 
  実はね、パーカーの変化を少し変えたんだ！
  内側にうすーく、フワフワの毛があるの！
-> CONTEXT: Map070/events/5/pages/1/396/Dialogue/enemy5 < UNTRANSLATED
+> CONTEXT: Map070/events/5/pages/1/396/Dialogue/enemy5
+You see?
 
+I changed my hoodie a little bit!
+There's now fluffy hair on the inside!#TriketosPartial
 > END STRING
 
 > BEGIN STRING
-アンタ、毎度ハルに抱かれるとき、
- 決まってハルの毛並みに夢中になってただろ？
+アンタ、毎度ハルに抱かれるとき、決まってハルの毛並みに夢中になってただろ？
 
 だからハル、少しだけ服の材質にこだわったんだよ。
-> CONTEXT: Map070/events/5/pages/1/401/Dialogue/enemy7 < UNTRANSLATED
-
+> CONTEXT: Map070/events/5/pages/1/401/Dialogue/enemy7
+You were always obsessed with Haru's hair
+every time you held her, right?
+That's why Haru stuck it to the inside of
+the clothes a little bit.#GT
 > END STRING
 
 > BEGIN STRING
-ワタシの変化じゃ、どんなに背伸びしたって
-ミオ様みたいなムチムチ肌にはなれないからさ……
+ワタシの変化じゃ、どんなに背伸びしたってミオ様みたいなムチムチ肌にはなれないからさ……
 
 ならいっそのこと、モフモフに特化させようと思って…
 > CONTEXT: Map070/events/5/pages/1/406/Dialogue/enemy5 < UNTRANSLATED
@@ -2037,7 +2069,7 @@ For now, "Congratulations". Should I say that?
 
 結構、気合い入れてプロポーズしたんだけどな……
 > CONTEXT: Map070/events/5/pages/2/71/Dialogue/kazuya
-The haha ​​......I'm pretty tempted to propose
+The haha ......I'm pretty tempted to propose
 it ...#MTLed
 > END STRING
 
