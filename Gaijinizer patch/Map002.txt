@@ -1982,19 +1982,19 @@ Do you want to watch this battle?#Triketos
 > BEGIN STRING
 \\\>\\r[del]
 > CONTEXT: Map002/events/1/pages/1/9/ChoiceHelp
-\\\> R r [del]#MTLed
+\\\>\\r[del]#Triketos
 > END STRING
 
 > BEGIN STRING
 冥羅 if(s[22])
 > CONTEXT: Map002/events/1/pages/1/14/Choice/0
-
+Meira if(s[22])#Triketos
 > END STRING
 
 > BEGIN STRING
 \\\>\\r[106]作者：ていていあてとら様
 > CONTEXT: Map002/events/1/pages/1/16/ChoiceHelp
-
+\\\>\\r[106]Created by: ていていあてとら様#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -2022,73 +2022,73 @@ Barghest if(s[22])#Dargoth
 > BEGIN STRING
 \\\>\\r[0]作者：P.T.O
 > CONTEXT: Map002/events/1/pages/1/26/ChoiceHelp
-\\\> R r [0] author: P. T. O#MTLed
+\\\>\\r[0]Created by: P.T.O#Triketos
 > END STRING
 
 > BEGIN STRING
 \\\>\\r[7]作者：P.T.O
 > CONTEXT: Map002/events/1/pages/1/34/ChoiceHelp
-\\\> R r [7] Author: P. T. O#MTLed
+\\\>\\r[7]Created by: P.T.O#Triketos
 > END STRING
 
 > BEGIN STRING
 \\\>\\r[9]作者：苺大福
 > CONTEXT: Map002/events/1/pages/1/42/ChoiceHelp
-\\\> R r [9] author: 苺 福#MTLed
+\\\>\\r[9]Created by: 苺大福#Triketos
 > END STRING
 
 > BEGIN STRING
 \\\>\\r[33]作者：P.T.O
 > CONTEXT: Map002/events/1/pages/1/52/ChoiceHelp
-\\\> R r [33] Author: P. T. O#MTLed
+\\\>\\r[33]Created by: P.T.O#Triketos
 > END STRING
 
 > BEGIN STRING
 \\\>\\r[76]作者：P.T.O
 > CONTEXT: Map002/events/1/pages/1/62/ChoiceHelp
-
+\\\>\\r[76]Created by: P.T.O#Triketos
 > END STRING
 
 > BEGIN STRING
 \\\>\\r[85]作者：P.T.O
 > CONTEXT: Map002/events/1/pages/1/72/ChoiceHelp
-
+\\\>\\r[85]Created by: P.T.O#Triketos
 > END STRING
 
 > BEGIN STRING
 \\\>\\r[51]作者：苺大福
 > CONTEXT: Map002/events/1/pages/1/82/ChoiceHelp
-\\\> [R [51] Author: 苺 福#MTLed
+\\\>\\r[51]Created by: 苺大福#Triketos
 > END STRING
 
 > BEGIN STRING
 \\\>\\r[18]作者：謎の【空洞練物】T
 > CONTEXT: Map002/events/1/pages/1/92/ChoiceHelp
-\\\> [R [18] Author: Mysterious [hollow paste] T#MTLed
+\\\>\\r[18]Created by:謎の【空洞練物】T#Triketos
 > END STRING
 
 > BEGIN STRING
 \\\>\\r[38]作者：カスガイ様
 > CONTEXT: Map002/events/1/pages/1/102/ChoiceHelp
-\\\> R r [38] Author: Kasgai#MTLed
+\\\>\\r[38]Created by: カスガイ様#Triketos
 > END STRING
 
 > BEGIN STRING
 \\\>\\r[11]作者：謎の【空洞練物】T
 > CONTEXT: Map002/events/1/pages/1/112/ChoiceHelp
-\\\> \\r[11] Author: Mysterious [hollow paste] T#MTLed
+\\\>\\r[11]Created by: 謎の【空洞練物】T#Triketos
 > END STRING
 
 > BEGIN STRING
 \\\>\\r[12]作者：Lasso様
 > CONTEXT: Map002/events/1/pages/1/120/ChoiceHelp
-\\\> R r [12] Author: Lasso#MTLed
+\\\>\\r[12]Created by: Lasso#Triketos
 > END STRING
 
 > BEGIN STRING
 \\\>\\r[70]作者：アザレア様
 > CONTEXT: Map002/events/1/pages/1/130/ChoiceHelp
-
+\\\>\\r[70]Created by: アザレア様#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -2126,67 +2126,67 @@ Lampasif(s[23])#MTLed
 > BEGIN STRING
 \\\>\\r[1]作者：苺大福
 > CONTEXT: Map002/events/1/pages/1/147/ChoiceHelp
-\\\> R r [1] author: 苺 福#MTLed
+\\\> R r [1] Created by: 苺 福#MTLed
 > END STRING
 
 > BEGIN STRING
 \\\>\\r[2]作者：苺大福
 > CONTEXT: Map002/events/1/pages/1/155/ChoiceHelp
-\\\> R r [2] author: 苺 福#MTLed
+\\\> R r [2] Created by: 苺 福#MTLed
 > END STRING
 
 > BEGIN STRING
 \\\>\\r[3]作者：P.T.O
 > CONTEXT: Map002/events/1/pages/1/163/ChoiceHelp
-\\\> R r [3] author: P. T. O#MTLed
+\\\> R r [3] Created by: P. T. O#MTLed
 > END STRING
 
 > BEGIN STRING
 \\\>\\r[8]作者：謎の【空洞練物】T
 > CONTEXT: Map002/events/1/pages/1/171/ChoiceHelp
-\\\> [R [8] Author: Mysterious [hollow paste] T#MTLed
+\\\> [R [8] Created by: Mysterious [hollow paste] T#MTLed
 > END STRING
 
 > BEGIN STRING
 \\\>\\r[10]作者：カスガイ様
 > CONTEXT: Map002/events/1/pages/1/181/ChoiceHelp
-\\\> R r [10] Author: Kasgai#MTLed
+\\\> R r [10] Created by: Kasgai#MTLed
 > END STRING
 
 > BEGIN STRING
 \\\>\\r[16]作者：剥製チーズ様
 > CONTEXT: Map002/events/1/pages/1/191/ChoiceHelp
-\\\> [R [16] Author: stuffed cheese#MTLed
+\\\> [R [16] Created by: stuffed cheese#MTLed
 > END STRING
 
 > BEGIN STRING
 \\\>\\r[15]作者：美彩様
 > CONTEXT: Map002/events/1/pages/1/201/ChoiceHelp
-\\\> R r [15] Author: Mr. beauty#MTLed
+\\\> R r [15] Created by: Mr. beauty#MTLed
 > END STRING
 
 > BEGIN STRING
 \\\>\\r[17]作者：謎の【空洞練物】T様
 > CONTEXT: Map002/events/1/pages/1/211/ChoiceHelp
-\\\> R r [17] Author: Mysterious [hollow paste] T#MTLed
+\\\> R r [17] Created by: Mysterious [hollow paste] T#MTLed
 > END STRING
 
 > BEGIN STRING
 \\\>\\r[29]作者：三池
 > CONTEXT: Map002/events/1/pages/1/221/ChoiceHelp
-\\\> \\r[29] Author: Miike#MTLed
+\\\> \\r[29] Created by: Miike#MTLed
 > END STRING
 
 > BEGIN STRING
 \\\>\\r[39]作者：カスガイ様
 > CONTEXT: Map002/events/1/pages/1/231/ChoiceHelp
-\\\> \\r[39] Author: Kasgai#MTLed
+\\\> \\r[39] Created by: Kasgai#MTLed
 > END STRING
 
 > BEGIN STRING
 \\\>\\r[48]作者：カスガイ様
 > CONTEXT: Map002/events/1/pages/1/241/ChoiceHelp
-\\\> R r [48] Author: Kasgai#MTLed
+\\\> R r [48] Created by: Kasgai#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -2209,19 +2209,19 @@ Iron Maiden if(s[23])#Dargoth
 > BEGIN STRING
 \\\>\\r[4]作者：P.T.O
 > CONTEXT: Map002/events/1/pages/1/264/ChoiceHelp
-\\\> R r [4] author: P. T. O#MTLed
+\\\> R r [4] Created by: P. T. O#MTLed
 > END STRING
 
 > BEGIN STRING
 \\\>\\r[5]作者：P.T.O
 > CONTEXT: Map002/events/1/pages/1/272/ChoiceHelp
-\\\> R r [5] author: P. T. O#MTLed
+\\\> R r [5] Created by: P. T. O#MTLed
 > END STRING
 
 > BEGIN STRING
 \\\>\\r[56]作者：光合成ひろし様
 > CONTEXT: Map002/events/1/pages/1/280/ChoiceHelp
-\\\> [R [56] Author: Hiroshi Photosynthesis#MTLed
+\\\> [R [56] Created by: Hiroshi Photosynthesis#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -2245,7 +2245,7 @@ Hecate & barghestif(s[23])#MTLed
 > BEGIN STRING
 \\\>\\r[13]作者：ピルリンΣ様
 > CONTEXT: Map002/events/1/pages/1/308/ChoiceHelp
-\\\> [R [13] Author: Pirlin 様#MTLed
+\\\> [R [13] Created by: Pirlin 様#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -2294,7 +2294,7 @@ Empuse and Hecate if(s[24])#Dargoth
 > BEGIN STRING
 \\\>\\r[6]作者：P.T.O
 > CONTEXT: Map002/events/1/pages/1/325/ChoiceHelp
-\\\> R r [6] Author: P. T. O#MTLed
+\\\> R r [6] Created by: P. T. O#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -2306,7 +2306,7 @@ Hecate & N N [1] + @if(s[24])#MTLed
 > BEGIN STRING
 \\\>\\r[47]作者：ピルリンΣ様
 > CONTEXT: Map002/events/1/pages/1/335/ChoiceHelp
-\\\> [R [47] Author: Pillin Σ#MTLed
+\\\> [R [47] Created by: Pillin Σ#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -2346,7 +2346,7 @@ Chapter 1 appeared demonif(s[24])#MTLed
 > BEGIN STRING
 \\\>\\r[14]作者：カスガイ様
 > CONTEXT: Map002/events/1/pages/1/372/ChoiceHelp
-\\\> R r [14] Author: Kasgai#MTLed
+\\\> R r [14] Created by: Kasgai#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -2358,7 +2358,7 @@ Iron Maiden (my room)if(s[24])#MTLed
 > BEGIN STRING
 \\\>\\r[40]作者：カスガイ様
 > CONTEXT: Map002/events/1/pages/1/382/ChoiceHelp
-\\\> R r [40] Author: Kasgai#MTLed
+\\\> R r [40] Created by: Kasgai#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -2370,7 +2370,7 @@ Empuse (my room)if(s[24])#MTLed
 > BEGIN STRING
 \\\>\\r[41]作者：カスガイ様
 > CONTEXT: Map002/events/1/pages/1/392/ChoiceHelp
-\\\> \\r[41] Author: Kasgai#MTLed
+\\\> \\r[41] Created by: Kasgai#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -2417,25 +2417,25 @@ Beetle Harpyif(s[25])#MTLed
 > BEGIN STRING
 \\\>\\r[25]作者：P.T.O様
 > CONTEXT: Map002/events/1/pages/1/439/ChoiceHelp
-\\\> R r [25] Author: P. T. O#MTLed
+\\\> R r [25] Created by: P. T. O#MTLed
 > END STRING
 
 > BEGIN STRING
 \\\>\\r[23]作者：P.T.O様
 > CONTEXT: Map002/events/1/pages/1/447/ChoiceHelp
-\\\> R r [23] Author: P. T. O#MTLed
+\\\> R r [23] Created by: P. T. O#MTLed
 > END STRING
 
 > BEGIN STRING
 \\\>\\r[24]作者：P.T.O様
 > CONTEXT: Map002/events/1/pages/1/455/ChoiceHelp
-\\\> R r [24] Author: P. T. O#MTLed
+\\\> R r [24] Created by: P. T. O#MTLed
 > END STRING
 
 > BEGIN STRING
 \\\>\\r[52]作者：光合成ひろし様
 > CONTEXT: Map002/events/1/pages/1/463/ChoiceHelp
-\\\> [R [52] Author: Hiroshi Photosynthesis#MTLed
+\\\> [R [52] Created by: Hiroshi Photosynthesis#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -2506,7 +2506,7 @@ Mukuroif(s[26])#MTLed
 > BEGIN STRING
 \\\>\\r[26]作者：P.T.O様
 > CONTEXT: Map002/events/1/pages/1/530/ChoiceHelp
-\\\> R r [26] Author: P. T. O#MTLed
+\\\> R r [26] Created by: P. T. O#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -2518,13 +2518,13 @@ Mukuroif(s[26])#MTLed
 > BEGIN STRING
 \\\>\\r[31]作者：光合成ひろし様
 > CONTEXT: Map002/events/1/pages/1/550/ChoiceHelp
-\\\> [R [31] Author: Hiroshi Hikaru#MTLed
+\\\> [R [31] Created by: Hiroshi Hikaru#MTLed
 > END STRING
 
 > BEGIN STRING
 \\\>\\r[55]作者：光合成ひろし様
 > CONTEXT: Map002/events/1/pages/1/560/ChoiceHelp
-\\\> [R [55] Author: Hiroshi Hikaru#MTLed
+\\\> [R [55] Created by: Hiroshi Hikaru#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -2566,7 +2566,7 @@ barghest + @ if(s[26])#MTLed
 > BEGIN STRING
 \\\>\\r[27]作者：カスガイ様
 > CONTEXT: Map002/events/1/pages/1/610/ChoiceHelp
-\\\> [R [27] Author: Kasgai#MTLed
+\\\> [R [27] Created by: Kasgai#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -2581,25 +2581,25 @@ twinsif(s[267])#MTLed
 > BEGIN STRING
 \\\>\\r[19]作者：ピルリンΣ様
 > CONTEXT: Map002/events/1/pages/1/622/ChoiceHelp
-\\\> [R [19] Author: Pillin Σ#MTLed
+\\\> [R [19] Created by: Pillin Σ#MTLed
 > END STRING
 
 > BEGIN STRING
 \\\>\\r[20]作者：ピルリンΣ様
 > CONTEXT: Map002/events/1/pages/1/630/ChoiceHelp
-\\\> [R [20] Author: Pillin Σ#MTLed
+\\\> [R [20] Created by: Pillin Σ#MTLed
 > END STRING
 
 > BEGIN STRING
 \\\>\\r[21]作者：ピルリンΣ様
 > CONTEXT: Map002/events/1/pages/1/638/ChoiceHelp
-\\\> [R [21] Author: Pirlin 様#MTLed
+\\\> [R [21] Created by: Pirlin 様#MTLed
 > END STRING
 
 > BEGIN STRING
 \\\>\\r[22]作者：ピルリンΣ様
 > CONTEXT: Map002/events/1/pages/1/646/ChoiceHelp
-\\\> [R [22] Author: Pirlin 様#MTLed
+\\\> [R [22] Created by: Pirlin 様#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -2611,7 +2611,7 @@ twins + heroif(s[267])#MTLed
 > BEGIN STRING
 \\\>\\r[50]作者：ピルリンΣ様
 > CONTEXT: Map002/events/1/pages/1/656/ChoiceHelp
-\\\> [R [50] Author: Pillin Σ#MTLed
+\\\> [R [50] Created by: Pillin Σ#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -2634,13 +2634,13 @@ Ninaif(s[27])#MTLed
 > BEGIN STRING
 \\\>\\r[28]作者：苺大福
 > CONTEXT: Map002/events/1/pages/1/673/ChoiceHelp
-\\\> [R [28] author: 苺 福#MTLed
+\\\> [R [28] Created by: 苺 福#MTLed
 > END STRING
 
 > BEGIN STRING
 \\\>\\r[30]作者：剥製チーズ様
 > CONTEXT: Map002/events/1/pages/1/683/ChoiceHelp
-\\\> [R [30] Author: stuffed cheese#MTLed
+\\\> [R [30] Created by: stuffed cheese#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -2685,7 +2685,7 @@ Sphinx & barghestif(s[28])#MTLed
 > BEGIN STRING
 \\\>\\r[32]作者：P.T.O
 > CONTEXT: Map002/events/1/pages/1/730/ChoiceHelp
-\\\> R r [32] Author: P. T. O#MTLed
+\\\> R r [32] Created by: P. T. O#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -2716,7 +2716,7 @@ Echoif(s[28])#MTLed
 > BEGIN STRING
 \\\>\\r[53]作者：ランゲルハンス様
 > CONTEXT: Map002/events/1/pages/1/760/ChoiceHelp
-\\\> [R [53] Author: Mr. Langerhans#MTLed
+\\\> [R [53] Created by: Mr. Langerhans#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -2734,7 +2734,7 @@ Sphinx 1if(s[28])#MTLed
 > BEGIN STRING
 \\\>\\r[43]作者：タロー様
 > CONTEXT: Map002/events/1/pages/1/780/ChoiceHelp
-\\\> [R [43] Author: Taro#MTLed
+\\\> [R [43] Created by: Taro#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -2746,7 +2746,7 @@ Sphinx 2if(s[28])#MTLed
 > BEGIN STRING
 \\\>\\r[45]作者：タロー様
 > CONTEXT: Map002/events/1/pages/1/793/ChoiceHelp
-\\\> [R [45] Author: Taro#MTLed
+\\\> [R [45] Created by: Taro#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -2790,7 +2790,7 @@ Archenyif(s[29])#MTLed
 > BEGIN STRING
 \\\>\\r[34]作者：P.T.O
 > CONTEXT: Map002/events/1/pages/1/833/ChoiceHelp
-\\\> R r [34] Author: P. T. O#MTLed
+\\\> R r [34] Created by: P. T. O#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -2802,13 +2802,13 @@ Archenyif(s[29])#MTLed
 > BEGIN STRING
 \\\>\\r[35]作者：P.T.O
 > CONTEXT: Map002/events/1/pages/1/853/ChoiceHelp
-\\\> R r [35] Author: P. T. O#MTLed
+\\\> R r [35] Created by: P. T. O#MTLed
 > END STRING
 
 > BEGIN STRING
 \\\>\\r[59]作者：ロール様
 > CONTEXT: Map002/events/1/pages/1/873/ChoiceHelp
-\\\> R r [59] Author: Role#MTLed
+\\\> R r [59] Created by: Role#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -2820,7 +2820,7 @@ Sphinx + @if(s[29])#MTLed
 > BEGIN STRING
 \\\>\\r[42]作者：カスガイ様
 > CONTEXT: Map002/events/1/pages/1/890/ChoiceHelp
-\\\> R r [42] Author: Kasgai#MTLed
+\\\> R r [42] Created by: Kasgai#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -2832,7 +2832,7 @@ Lampasif(s[29])#MTLed
 > BEGIN STRING
 \\\>\\r[65]作者：剥製チーズ様
 > CONTEXT: Map002/events/1/pages/1/902/ChoiceHelp
-\\\> [R [65] Author: stuffed cheese#MTLed
+\\\> [R [65] Created by: stuffed cheese#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -2856,7 +2856,7 @@ Titanoboaif(s[30])#MTLed
 > BEGIN STRING
 \\\>\\r[36]作者：P.T.O
 > CONTEXT: Map002/events/1/pages/1/920/ChoiceHelp
-\\\> R r [36] Author: P. T. O#MTLed
+\\\> R r [36] Created by: P. T. O#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -2886,7 +2886,7 @@ Chapter 3 demonif(s[30])#MTLed
 > BEGIN STRING
 \\\>\\r[37]作者：P.T.O
 > CONTEXT: Map002/events/1/pages/1/960/ChoiceHelp
-\\\> R r [37] Author: P. T. O#MTLed
+\\\> R r [37] Created by: P. T. O#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -2906,7 +2906,7 @@ Micahif(s[31])#MTLed
 > BEGIN STRING
 \\\>\\r[54]作者：光合成ひろし様
 > CONTEXT: Map002/events/1/pages/1/977/ChoiceHelp
-\\\> [R [54] Author: Hiroshi Photosynthesis#MTLed
+\\\> [R [54] Created by: Hiroshi Photosynthesis#MTLed
 > END STRING
 
 > BEGIN STRING
