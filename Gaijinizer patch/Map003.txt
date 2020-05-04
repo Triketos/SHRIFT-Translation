@@ -1349,9 +1349,8 @@ Titanoboaif(v[32] \>= 1)#MTLed
 
 行動パターンや有効な攻撃方法が変わる厄介な相手だ。
 > CONTEXT: Map003/events/1/pages/2/327/Dialogue/クッション君
-Echo is by form. It's a nasty opponent whose
-behavior patterns and effective attack methods
-change.#MTLed
+Echo's an annoying opponent whose attack patterns
+and resistances change depending on her form.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1359,9 +1358,10 @@ change.#MTLed
 \\C[2]人魚形態では物理攻撃に弱く、魔法に強い
 逆にナメクジ形態は魔法に弱く、物理に強い。
 > CONTEXT: Map003/events/1/pages/2/331/Dialogue/クッション君
-In the extreme. \\C[2]In mermaid form weak to physics
-attack, strong to magic. On the contrary, slug
-forms are weak to magic and strong to physics.#MTLed
+To put it simply, \\C[2]when she's in her mermaid form,
+she's vulnerable to physical damage, but resists
+magical damage. And it's the opposite when she's
+in her slug form\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1370,9 +1370,9 @@ forms are weak to magic and strong to physics.#MTLed
 …といきたいところなんだが、人魚形態の時は
 \\C[2]エコーはかなりの敏捷性を持ってる。
 > CONTEXT: Map003/events/1/pages/2/335/Dialogue/クッション君
-In the case of mermaid form, deal with physics
-attack...... I want to go there, but in the
-mermaid form. \\C[2]Echo has considerable agility.#MTLed
+Now though you might be tempted to use physical
+attacks on her when she's in her mermaid form,
+keep in mind that \\C[2]she has quite high agility\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1381,10 +1381,9 @@ mermaid form. \\C[2]Echo has considerable agility.#MTLed
 
 \\C[2]気力が少ない場合は、『なにもしない』も対策の一つかもな。
 > CONTEXT: Map003/events/1/pages/2/340/Dialogue/クッション君
-With a fairly high probability
-Because you will get caught before attacking
-\\C[2]If the vitality is low, "rest" may be one of the
-measures.#MTLed
+Since there's a pretty high chance that she'll
+end up pinning you down, \\C[2]you may want to increase
+your vitality if it's running low\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1393,10 +1392,10 @@ measures.#MTLed
 ただし、彼女にのしかかられているときは
 こっちも『感電』してダメージを受けるぞ。
 > CONTEXT: Map003/events/1/pages/2/345/Dialogue/クッション君
-In the case of a slug form\\C[2] Lightning magic is
-effective. However, when she is jealous of her
-I'll get an "electric shock" and damage here as
-well.#MTLed
+When she's in her slug form, \\C[2]Lightning magic is
+pretty effective. But be careful, if you use it
+on her while you're engulfed, you'll end up
+taking damage too\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1404,9 +1403,10 @@ well.#MTLed
 
 攻撃のチャンスではあるが、あまり無茶するなよ？
 > CONTEXT: Map003/events/1/pages/2/350/Dialogue/クッション君
-However, when it is insane, lightning damage is\\C[2]
-It is three times. It's an Attack chance, but
-don't you go crazy?#MTLed
+Having said that, when you use Lightning magic on
+her while she's engulfing you, \\C[2]she takes triple
+the damage. So it's a good opportunity to attack,
+just don't go too crazy with it\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1414,9 +1414,10 @@ don't you go crazy?#MTLed
 
 \\C[2]物理的な抵抗以外の抵抗手段を使うしかない。
 > CONTEXT: Map003/events/1/pages/2/354/Dialogue/クッション君
-Her mucus makes most physical struggles
-preventive. \\C[2]There is no alternative but to use
-physical means of struggle other than struggle.#MTLed
+Her mucus makes physically struggling against it
+pretty ineffective. \\C[2]You've got no choice but to
+find another non-physical method of struggling
+free from her\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1425,10 +1426,10 @@ physical means of struggle other than struggle.#MTLed
 \\C[2]『衰弱』しないように抵抗力を常に回復するか
 ビタミン剤とかで衰弱無効を付けておくと戦いやすいぞ。
 > CONTEXT: Map003/events/1/pages/2/358/Dialogue/クッション君
-If you stun or debilitated, your opponent will
-soon get over. \\C[2]Do you always recover willpower to
-not 'weakness'. It is easy to fight with Vitamins
-or something with Weakness prevention.#MTLed
+She'll quickly overwhelm you if you get stunned
+or exhausted. \\C[2]Try to avoid that happening by
+always keeping your willpower up. Keeping items
+like vitamins handy will make the fight easier\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
