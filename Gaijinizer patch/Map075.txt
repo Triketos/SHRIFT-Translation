@@ -825,11 +825,13 @@ Memento (Plant Dream)if(s[369])#Ron
 > BEGIN STRING
 発見場所　　：ピンクベッド
 > CONTEXT: Map075/events/4/pages/1/478/ChoiceHelp
-> CONTEXT: Map075/events/4/pages/1/534/ChoiceHelp
-> CONTEXT: Map075/events/4/pages/1/590/ChoiceHelp
+> CONTEXT: Map075/events/4/pages/1/535/ChoiceHelp
+> CONTEXT: Map075/events/4/pages/1/592/ChoiceHelp
+> CONTEXT: Map075/events/4/pages/1/652/ChoiceHelp
 > CONTEXT: Map075/events/4/pages/2/478/ChoiceHelp
 > CONTEXT: Map075/events/4/pages/2/534/ChoiceHelp
 > CONTEXT: Map075/events/4/pages/2/590/ChoiceHelp
+> CONTEXT: Map075/events/4/pages/2/650/ChoiceHelp
 > CONTEXT: Map094/events/4/pages/1/298/ChoiceHelp
 > CONTEXT: Map094/events/4/pages/1/354/ChoiceHelp
 Found: After using a pink bed#Ron
@@ -847,7 +849,7 @@ Memento?#Ron
 
 > BEGIN STRING
 想ひ魂（夢猫）if(s[370])
-> CONTEXT: Map075/events/4/pages/1/532/Choice/0
+> CONTEXT: Map075/events/4/pages/1/533/Choice/0
 > CONTEXT: Map075/events/4/pages/2/532/Choice/0
 > CONTEXT: Map094/events/4/pages/1/352/Choice/0
 Memento (cat dream)if(s[370])#MTLed
@@ -856,7 +858,7 @@ Memento (cat dream)if(s[370])#MTLed
 > BEGIN STRING
 【想ひ魂（夢猫）】
 この想ひ魂を投影しますか？
-> CONTEXT: Map075/events/4/pages/1/541/Dialogue
+> CONTEXT: Map075/events/4/pages/1/542/Dialogue
 > CONTEXT: Map075/events/4/pages/2/541/Dialogue
 > CONTEXT: Map094/events/4/pages/1/361/Dialogue
 【Memento (cat dream)】. Do you want to project this Memento?#MTLed
@@ -864,7 +866,7 @@ Memento (cat dream)if(s[370])#MTLed
 
 > BEGIN STRING
 想ひ魂（夢人魚）if(s[377])
-> CONTEXT: Map075/events/4/pages/1/588/Choice/0
+> CONTEXT: Map075/events/4/pages/1/590/Choice/0
 > CONTEXT: Map075/events/4/pages/2/588/Choice/0
 Memento(Echo)if(s[377])#Triketos
 > END STRING
@@ -872,47 +874,62 @@ Memento(Echo)if(s[377])#Triketos
 > BEGIN STRING
 【想ひ魂（夢人魚）】
 この想ひ魂を投影しますか？
-> CONTEXT: Map075/events/4/pages/1/597/Dialogue
+> CONTEXT: Map075/events/4/pages/1/599/Dialogue
 > CONTEXT: Map075/events/4/pages/2/597/Dialogue
 【Memento(Echo)】
 Do you want to project this Memento?#Triketos
 > END STRING
 
 > BEGIN STRING
-想ひ魂（朧）if(s[375])
-> CONTEXT: Map075/events/4/pages/1/648/Choice/0
+想ひ魂（夢狐） if(s[378])
+> CONTEXT: Map075/events/4/pages/1/650/Choice/0 < UNTRANSLATED
 > CONTEXT: Map075/events/4/pages/2/648/Choice/0
-Memento (朧)if(s[375])#MTLed
+
+> END STRING
+
+> BEGIN STRING
+【想ひ魂（夢狐）】
+この想ひ魂を投影しますか？
+> CONTEXT: Map075/events/4/pages/1/659/Dialogue < UNTRANSLATED
+> CONTEXT: Map075/events/4/pages/2/657/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+想ひ魂（朧）if(s[375])
+> CONTEXT: Map075/events/4/pages/1/710/Choice/0 < UNTRANSLATED
+> CONTEXT: Map075/events/4/pages/2/708/Choice/0 < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
 発見場所　　：？？？
-> CONTEXT: Map075/events/4/pages/1/650/ChoiceHelp
-> CONTEXT: Map075/events/4/pages/1/695/ChoiceHelp
-> CONTEXT: Map075/events/4/pages/2/650/ChoiceHelp
-> CONTEXT: Map075/events/4/pages/2/695/ChoiceHelp
+> CONTEXT: Map075/events/4/pages/1/712/ChoiceHelp
+> CONTEXT: Map075/events/4/pages/1/757/ChoiceHelp
+> CONTEXT: Map075/events/4/pages/2/710/ChoiceHelp
+> CONTEXT: Map075/events/4/pages/2/755/ChoiceHelp
 Discovery location:???#MTLed
 > END STRING
 
 > BEGIN STRING
 【想ひ魂（朧）】
 この想ひ魂を投影しますか？
-> CONTEXT: Map075/events/4/pages/1/657/Dialogue
-> CONTEXT: Map075/events/4/pages/2/657/Dialogue
+> CONTEXT: Map075/events/4/pages/1/719/Dialogue
+> CONTEXT: Map075/events/4/pages/2/717/Dialogue
 【Memento (朧)】. Do you want to project this Memento?#MTLed
 > END STRING
 
 > BEGIN STRING
 想ひ魂（虚）if(s[376])
-> CONTEXT: Map075/events/4/pages/1/693/Choice/0
-> CONTEXT: Map075/events/4/pages/2/693/Choice/0
+> CONTEXT: Map075/events/4/pages/1/755/Choice/0
+> CONTEXT: Map075/events/4/pages/2/753/Choice/0
 Memento (Imaginary)if(s[376])#MTLed
 > END STRING
 
 > BEGIN STRING
 【想ひ魂（虚）】
 この想ひ魂を投影しますか？
-> CONTEXT: Map075/events/4/pages/1/702/Dialogue
-> CONTEXT: Map075/events/4/pages/2/702/Dialogue
+> CONTEXT: Map075/events/4/pages/1/764/Dialogue
+> CONTEXT: Map075/events/4/pages/2/762/Dialogue
 【Memento (虚)】. Do you want to project this Memento?#MTLed
 > END STRING
