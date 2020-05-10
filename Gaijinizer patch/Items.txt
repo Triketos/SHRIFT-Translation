@@ -259,6 +259,7 @@ Handgun Rounds#Dargoth
 > CONTEXT: Items/21/description
 > CONTEXT: Items/32/description
 > CONTEXT: Items/36/description
+> CONTEXT: Items/42/description
 Unused rounds from old magazines. Can be combined to
 create full magazines in a safe room.#Dargoth
 > END STRING
@@ -1471,6 +1472,7 @@ Canned Coffee (Cold)#afrg
 > CONTEXT: Items/201/description
 > CONTEXT: Items/202/description
 > CONTEXT: Items/203/description
+> CONTEXT: Items/204/description
 Ball of solidified thoughts of a demon.#afrg
 > END STRING
 
@@ -1544,31 +1546,37 @@ Memento (Snake's Pursuit)#afrgPR
 > BEGIN STRING
 想ひ魂（蛇待伏）
 > CONTEXT: Items/150/name
-Memento (Snake Bondage)#afrg
+Memento (Snake's Ambush)#Triketos
 > END STRING
 
 > BEGIN STRING
 想ひ魂（夢植物）
 > CONTEXT: Items/200/name
-Memento (Dream Plant)#afrg
+Memento (Plant Dream)#Triketos
 > END STRING
 
 > BEGIN STRING
 想ひ魂（夢人形）
 > CONTEXT: Items/201/name
-Memento (Dream Doll)#afrg
+Memento (Doll Dream)#Triketos
 > END STRING
 
 > BEGIN STRING
 想ひ魂（夢猫）
 > CONTEXT: Items/202/name
-Memento (Dream Cat)#afrg
+Memento (Cat Dream)#Triketos
 > END STRING
 
 > BEGIN STRING
 想ひ魂（夢人魚）
 > CONTEXT: Items/203/name
-Memento (Dream Fish)#Ron
+Memento (Fish Dream)#Ron
+> END STRING
+
+> BEGIN STRING
+想ひ魂（夢狐）
+> CONTEXT: Items/204/name
+Memento (Kitsune Dream)#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -1874,7 +1882,7 @@ Maru Gaga
 > BEGIN STRING
 どらむまがじん
 > CONTEXT: Items/525/name
-む ま#MTLed
+どらむまがじん#MTLed
 > END STRING
 
 > BEGIN STRING
