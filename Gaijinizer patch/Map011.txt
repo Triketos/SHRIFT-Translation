@@ -523,8 +523,8 @@ Take a break [Herbs: \\v[5]] en(v[5] \>= 1)#Dargoth
 > CONTEXT: Map299/events/8/pages/0/25/Dialogue 
 > CONTEXT: Map302/events/8/pages/0/25/Dialogue 
 > CONTEXT: Map304/events/8/pages/0/25/Dialogue 
-Due to the effect of the herbal tea, it's harder \\N[1]\\C[2]
-to increase lust for a short time!#Triketos
+Due to the effect of the herbal tea, it's \\C[2]harder for
+\\N[1]'s lust to increase for a short time!#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -551,6 +551,8 @@ to increase lust for a short time!#Triketos
 > CONTEXT: Map076/events/5/pages/2/0/Dialogue 
 > CONTEXT: Map094/events/9/pages/0/0/Dialogue 
 > CONTEXT: Map100/events/5/pages/0/0/Dialogue 
+> CONTEXT: Map118/events/20/pages/0/0/Dialogue
+> CONTEXT: Map118/events/20/pages/1/0/Dialogue
 > CONTEXT: Map123/events/5/pages/0/0/Dialogue 
 > CONTEXT: Map135/events/5/pages/0/0/Dialogue 
 > CONTEXT: Map141/events/5/pages/0/0/Dialogue 
@@ -595,6 +597,8 @@ tired body.#Ron
 > CONTEXT: Map076/events/5/pages/2/3/Choice/0 
 > CONTEXT: Map094/events/9/pages/0/3/Choice/0 
 > CONTEXT: Map100/events/5/pages/0/3/Choice/0 
+> CONTEXT: Map118/events/20/pages/0/3/Choice/0
+> CONTEXT: Map118/events/20/pages/1/3/Choice/0
 > CONTEXT: Map123/events/5/pages/0/3/Choice/0 
 > CONTEXT: Map135/events/5/pages/0/3/Choice/0 
 > CONTEXT: Map141/events/5/pages/0/3/Choice/0 
@@ -612,6 +616,7 @@ tired body.#Ron
 > CONTEXT: Map302/events/5/pages/2/3/Choice/0 
 > CONTEXT: Map304/events/5/pages/1/3/Choice/0 
 > CONTEXT: Map304/events/5/pages/2/3/Choice/0 
+> CONTEXT: Map378/events/1/pages/0/3/Choice/0
 Rest#Dargoth
 > END STRING
 
@@ -650,6 +655,8 @@ Slowly open your eyes ....#Ron
 > CONTEXT: Map076/events/5/pages/2/24/Dialogue
 > CONTEXT: Map094/events/9/pages/0/24/Dialogue
 > CONTEXT: Map100/events/5/pages/0/24/Dialogue
+> CONTEXT: Map118/events/20/pages/0/74/Dialogue
+> CONTEXT: Map118/events/20/pages/1/17/Dialogue
 > CONTEXT: Map123/events/5/pages/0/24/Dialogue
 > CONTEXT: Map135/events/5/pages/0/24/Dialogue
 > CONTEXT: Map141/events/5/pages/0/24/Dialogue
@@ -661,6 +668,10 @@ Slowly open your eyes ....#Ron
 > CONTEXT: Map274/events/5/pages/0/24/Dialogue
 > CONTEXT: Map283/events/25/pages/1/70/Dialogue
 > CONTEXT: Map283/events/25/pages/2/17/Dialogue
+> CONTEXT: Map299/events/5/pages/2/24/Dialogue
+> CONTEXT: Map302/events/5/pages/2/24/Dialogue
+> CONTEXT: Map304/events/5/pages/2/24/Dialogue
+> CONTEXT: Map378/events/1/pages/0/36/Dialogue
 
 \\n[1] has completely recovered!#Ron
 > END STRING
@@ -915,14 +926,14 @@ that you've activated.
 > CONTEXT: Map011/events/12/pages/1/93/Choice/0
 > CONTEXT: Map022/events/1/pages/0/84/Choice/0
 > CONTEXT: Map036/events/14/pages/2/93/Choice/0
-"Workbench"#MTLed
+Workbench#Triketos
 > END STRING
 
 > BEGIN STRING
 『保管ボックス』
 > CONTEXT: Map011/events/12/pages/1/93/Choice/1
 > CONTEXT: Map036/events/14/pages/2/93/Choice/1
-"Storage box"#MTLed
+Storage Box#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -939,7 +950,7 @@ Nothing#Ron
 カプセルの上にある、机みたいなところだな。
 > CONTEXT: Map011/events/12/pages/1/95/Dialogue/other1
 > CONTEXT: Map036/events/14/pages/2/95/Dialogue/other1
-The workbench is a place to do a variety of work
+The workbench is a place to do a variety of work,
 as its name suggests. It's the desk-like thing
 located up from the capsule.#Ron
 > END STRING
