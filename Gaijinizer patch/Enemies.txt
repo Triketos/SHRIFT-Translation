@@ -208,7 +208,7 @@ Sphinx (Down)#afrg
 > CONTEXT: MapInfos/122/name
 > CONTEXT: MapInfos/245/name
 > CONTEXT: MapInfos/246/name
-Titanaboa#afrgPR
+Titanoboa#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -297,6 +297,9 @@ Camazotz#Triketos
 > CONTEXT: Enemies/216/name 
 > CONTEXT: Enemies/255/name 
 > CONTEXT: Enemies/256/name 
+> CONTEXT: Enemies/257/name
+> CONTEXT: Enemies/258/name
+> CONTEXT: Enemies/259/name
 > CONTEXT: Map024/events/3/pages/1/0/NamePop 
 > CONTEXT: Map193/events/18/pages/1/0/NamePop 
 > CONTEXT: MapInfos/216/name 
@@ -405,6 +408,13 @@ Mormo#Triketos
 > CONTEXT: Enemies/295/name
 > CONTEXT: Troops/313/name
 Bugbear#Triketos
+> END STRING
+
+> BEGIN STRING
+マイ
+> CONTEXT: Enemies/303/name < UNTRANSLATED
+> CONTEXT: Enemies/304/name < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
