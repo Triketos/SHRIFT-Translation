@@ -815,6 +815,7 @@ Hey♪. Do ya need something?#Ron
 > CONTEXT: Map280/events/14/pages/3/4/Choice/0 
 > CONTEXT: Map301/events/7/pages/0/4/Choice/0 
 > CONTEXT: Map303/events/6/pages/0/5/Choice/0 
+> CONTEXT: Map344/events/13/pages/1/9/Choice/0
 Show me your goods#Dargoth
 > END STRING
 
@@ -872,6 +873,7 @@ Show me your goods#Dargoth
 > CONTEXT: Map280/events/14/pages/3/4/Choice/1 
 > CONTEXT: Map301/events/7/pages/0/4/Choice/1 
 > CONTEXT: Map303/events/6/pages/0/5/Choice/1 
+> CONTEXT: Map344/events/13/pages/1/9/Choice/1
 Never mind#Dargoth
 > END STRING
 
@@ -940,6 +942,7 @@ Never mind#Dargoth
 > CONTEXT: Map280/events/14/pages/3/6/Choice/0 
 > CONTEXT: Map301/events/7/pages/0/6/Choice/0 
 > CONTEXT: Map303/events/6/pages/0/7/Choice/0
+> CONTEXT: Map344/events/13/pages/1/11/Choice/0
 Recovery Items#Dargoth
 > END STRING
 
@@ -1008,6 +1011,7 @@ Recovery Items#Dargoth
 > CONTEXT: Map280/events/14/pages/3/6/Choice/1 
 > CONTEXT: Map301/events/7/pages/0/6/Choice/1 
 > CONTEXT: Map303/events/6/pages/0/7/Choice/1 
+> CONTEXT: Map344/events/13/pages/1/11/Choice/1
 Weapons & Ammo#Dargoth
 > END STRING
 
@@ -1115,7 +1119,7 @@ Equipment#Dargoth
 > CONTEXT: Map163/events/14/pages/0/0/Choice/2
 > CONTEXT: Map174/events/14/pages/0/0/Choice/2
 > CONTEXT: Map190/events/1/pages/0/0/Choice/2
-> CONTEXT: Map193/events/42/pages/0/0/Choice/2
+> CONTEXT: Map193/events/42/pages/0/16/Choice/2
 > CONTEXT: Map261/events/40/pages/1/7/Choice/3
 > CONTEXT: Map261/events/40/pages/2/6/Choice/3
 > CONTEXT: Map261/events/40/pages/3/7/Choice/3
@@ -1179,7 +1183,7 @@ I want you to sell the "Trump Card"if(s[423])#Triketos
 > CONTEXT: Map157/events/9/pages/0/35/Choice/0 
 > CONTEXT: Map163/events/14/pages/0/35/Choice/0 
 > CONTEXT: Map190/events/1/pages/0/35/Choice/0 
-2nd lap exclusive shopif(s[562])#MTLed
+NG+ Shopif(s[562])#Triketos
 > END STRING
 
 > BEGIN STRING

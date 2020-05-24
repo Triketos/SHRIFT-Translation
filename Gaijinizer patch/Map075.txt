@@ -563,7 +563,7 @@ You'll be able to get back 100% safe!#Ron
 > CONTEXT: Map075/events/4/pages/1/2/Dialogue
 > CONTEXT: Map075/events/4/pages/2/2/Dialogue
 > CONTEXT: Map094/events/4/pages/1/2/Dialogue
-Select a Memento to set.#MTLed
+Select a Memento to set.#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -571,7 +571,7 @@ Select a Memento to set.#MTLed
 > CONTEXT: Map075/events/4/pages/1/5/Choice/0
 > CONTEXT: Map075/events/4/pages/2/5/Choice/0
 > CONTEXT: Map094/events/4/pages/1/5/Choice/0
-Leave this place#MTLed
+Leave#TriketosLocalization
 > END STRING
 
 > BEGIN STRING
@@ -587,7 +587,7 @@ Memento (Abyss)if(s[363])#Ron
 > CONTEXT: Map075/events/4/pages/1/11/ChoiceHelp
 > CONTEXT: Map075/events/4/pages/2/11/ChoiceHelp
 > CONTEXT: Map094/events/4/pages/1/11/ChoiceHelp
-Found: Sacrifice's Shrine#Ron
+Found In: Sacrifice's Shrine#Ron
 > END STRING
 
 > BEGIN STRING
@@ -596,7 +596,8 @@ Found: Sacrifice's Shrine#Ron
 > CONTEXT: Map075/events/4/pages/1/17/Dialogue
 > CONTEXT: Map075/events/4/pages/2/17/Dialogue
 > CONTEXT: Map094/events/4/pages/1/17/Dialogue
-【Memento (Abyss)】. Do you want to project this Memento?#Ron
+【Memento (Abyss)】
+Do you want to project this Memento?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -626,14 +627,14 @@ her again...#Ron
 想ひ魂（蜘蛛糸）if(s[372])
 > CONTEXT: Map075/events/4/pages/1/68/Choice/0
 > CONTEXT: Map075/events/4/pages/2/68/Choice/0
-Memento (蜘蛛)if(s[372])#MTLed
+Memento (Spider Web)if(s[372])#Triketos
 > END STRING
 
 > BEGIN STRING
 発見場所　　：アルケニーの巣
 > CONTEXT: Map075/events/4/pages/1/70/ChoiceHelp
 > CONTEXT: Map075/events/4/pages/2/70/ChoiceHelp
-Location: Archeny's Nest#MTLed
+Found In: Archeny's Nest#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -641,14 +642,15 @@ Location: Archeny's Nest#MTLed
 この想ひ魂を投影しますか？
 > CONTEXT: Map075/events/4/pages/1/76/Dialogue
 > CONTEXT: Map075/events/4/pages/2/76/Dialogue
-【Memento (蜘蛛)】. Do you want to project this Memento?#MTLed
+【Memento (Spider Web)】
+Do you want to project this Memento?#Triketos
 > END STRING
 
 > BEGIN STRING
 想ひ魂（蛇追跡）if(s[373])
 > CONTEXT: Map075/events/4/pages/1/110/Choice/0
 > CONTEXT: Map075/events/4/pages/2/110/Choice/0
-Memento (snake's pursuit)if(s[373])#MTLed
+Memento (Snake's Pursuit)if(s[373])#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -657,7 +659,7 @@ Memento (snake's pursuit)if(s[373])#MTLed
 > CONTEXT: Map075/events/4/pages/1/158/ChoiceHelp
 > CONTEXT: Map075/events/4/pages/2/112/ChoiceHelp
 > CONTEXT: Map075/events/4/pages/2/158/ChoiceHelp
-Discovery place: Park#MTLed
+Found In: Park#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -665,15 +667,15 @@ Discovery place: Park#MTLed
 この想ひ魂を投影しますか？
 > CONTEXT: Map075/events/4/pages/1/119/Dialogue
 > CONTEXT: Map075/events/4/pages/2/119/Dialogue
-【Memento (snake's pursuit)】. Do you want to project this
-Memento?#MTLed
+【Memento (Snake's Pursuit)】
+Do you want to project this Memento?#Triketos
 > END STRING
 
 > BEGIN STRING
 想ひ魂（蛇待伏）if(s[374])
 > CONTEXT: Map075/events/4/pages/1/156/Choice/0
 > CONTEXT: Map075/events/4/pages/2/156/Choice/0
-Memento (snake's assault)if(s[374])#MTLed
+Memento (Snake's Ambush)if(s[374])#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -681,8 +683,8 @@ Memento (snake's assault)if(s[374])#MTLed
 この想ひ魂を投影しますか？
 > CONTEXT: Map075/events/4/pages/1/165/Dialogue
 > CONTEXT: Map075/events/4/pages/2/165/Dialogue
-【Memento (snake's assault)】. Do you want to project this
-Memento?#MTLed
+【Memento (Snake's Ambush)】
+Do you want to project this Memento?#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -690,7 +692,7 @@ Memento?#MTLed
 > CONTEXT: Map075/events/4/pages/1/202/Choice/0
 > CONTEXT: Map075/events/4/pages/2/202/Choice/0
 > CONTEXT: Map094/events/4/pages/1/68/Choice/0
-Memento (nekomata)if(s[364])#MTLed
+Memento (Nekomata)if(s[364])#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -709,7 +711,7 @@ Memento (nekomata)if(s[364])#MTLed
 > CONTEXT: Map094/events/4/pages/1/117/ChoiceHelp
 > CONTEXT: Map094/events/4/pages/1/208/ChoiceHelp
 > CONTEXT: Map094/events/4/pages/1/253/ChoiceHelp
-Found: In My Room#Ron
+Found In: My Room#Ron
 > END STRING
 
 > BEGIN STRING
@@ -718,7 +720,8 @@ Found: In My Room#Ron
 > CONTEXT: Map075/events/4/pages/1/211/Dialogue
 > CONTEXT: Map075/events/4/pages/2/211/Dialogue
 > CONTEXT: Map094/events/4/pages/1/77/Dialogue
-【Memento (nekomata)】. Do you want to project this Memento?#MTLed
+【Memento (Nekomata)】
+Do you want to project this Memento?#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -726,7 +729,7 @@ Found: In My Room#Ron
 > CONTEXT: Map075/events/4/pages/1/249/Choice/0
 > CONTEXT: Map075/events/4/pages/2/249/Choice/0
 > CONTEXT: Map094/events/4/pages/1/115/Choice/0
-Memento (the stage)if(s[365])#MTLed
+Memento (Stage)if(s[365])#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -735,7 +738,8 @@ Memento (the stage)if(s[365])#MTLed
 > CONTEXT: Map075/events/4/pages/1/258/Dialogue
 > CONTEXT: Map075/events/4/pages/2/258/Dialogue
 > CONTEXT: Map094/events/4/pages/1/124/Dialogue
-【Memento (the stage)】. Do you want to project this Memento?#MTLed
+【Memento (Stage)】
+Do you want to project this Memento?#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -743,7 +747,7 @@ Memento (the stage)if(s[365])#MTLed
 > CONTEXT: Map075/events/4/pages/1/295/Choice/0
 > CONTEXT: Map075/events/4/pages/2/295/Choice/0
 > CONTEXT: Map094/events/4/pages/1/161/Choice/0
-Memento (twins)if(s[366])#MTLed
+Memento (Twins)if(s[366])#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -751,7 +755,7 @@ Memento (twins)if(s[366])#MTLed
 > CONTEXT: Map075/events/4/pages/1/297/ChoiceHelp
 > CONTEXT: Map075/events/4/pages/2/297/ChoiceHelp
 > CONTEXT: Map094/events/4/pages/1/163/ChoiceHelp
-Place of discovery: The company of the birthplace#MTLed
+Found in: Sacrifice's Shrine#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -760,7 +764,8 @@ Place of discovery: The company of the birthplace#MTLed
 > CONTEXT: Map075/events/4/pages/1/304/Dialogue
 > CONTEXT: Map075/events/4/pages/2/304/Dialogue
 > CONTEXT: Map094/events/4/pages/1/170/Dialogue
-【Memento (twins)】. Do you want to project this Memento?#MTLed
+【Memento (Twins)】
+Do you want to project this Memento?#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -768,7 +773,7 @@ Place of discovery: The company of the birthplace#MTLed
 > CONTEXT: Map075/events/4/pages/1/340/Choice/0
 > CONTEXT: Map075/events/4/pages/2/340/Choice/0
 > CONTEXT: Map094/events/4/pages/1/206/Choice/0
-Memento (doll)if(s[367])#MTLed
+Memento (Doll)if(s[367])#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -777,7 +782,8 @@ Memento (doll)if(s[367])#MTLed
 > CONTEXT: Map075/events/4/pages/1/349/Dialogue
 > CONTEXT: Map075/events/4/pages/2/349/Dialogue
 > CONTEXT: Map094/events/4/pages/1/215/Dialogue
-【Memento (doll). Do you want to project this Memento?#MTLed
+【Memento (Doll)】
+Do you want to project this Memento?#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -785,7 +791,7 @@ Memento (doll)if(s[367])#MTLed
 > CONTEXT: Map075/events/4/pages/1/385/Choice/0
 > CONTEXT: Map075/events/4/pages/2/385/Choice/0
 > CONTEXT: Map094/events/4/pages/1/251/Choice/0
-Memento (Iron Maiden)if(s[368])#MTLed
+Memento (Iron Maiden)if(s[368])#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -794,15 +800,15 @@ Memento (Iron Maiden)if(s[368])#MTLed
 > CONTEXT: Map075/events/4/pages/1/394/Dialogue
 > CONTEXT: Map075/events/4/pages/2/394/Dialogue
 > CONTEXT: Map094/events/4/pages/1/260/Dialogue
-【Memento (Iron Maiden)】. Do you want to project this
-Memento?#MTLed
+【Memento (Iron Maiden)】
+Do you want to project this Memento?#Triketos
 > END STRING
 
 > BEGIN STRING
 想ひ魂（謎掛獅子）if(s[371])
 > CONTEXT: Map075/events/4/pages/1/430/Choice/0
 > CONTEXT: Map075/events/4/pages/2/430/Choice/0
-Memento (Lion riddler)if(s[371])#MTLed
+Memento (Lion Riddler)if(s[371])#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -810,8 +816,8 @@ Memento (Lion riddler)if(s[371])#MTLed
 この想ひ魂を投影しますか？
 > CONTEXT: Map075/events/4/pages/1/439/Dialogue
 > CONTEXT: Map075/events/4/pages/2/439/Dialogue
-【Memento (Lion riddler)】. Do you want to project this
-Memento?#MTLed
+【Memento (Lion Riddler)】
+Do you want to project this Memento?#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -825,11 +831,13 @@ Memento (Plant Dream)if(s[369])#Ron
 > BEGIN STRING
 発見場所　　：ピンクベッド
 > CONTEXT: Map075/events/4/pages/1/478/ChoiceHelp
-> CONTEXT: Map075/events/4/pages/1/534/ChoiceHelp
-> CONTEXT: Map075/events/4/pages/1/590/ChoiceHelp
+> CONTEXT: Map075/events/4/pages/1/535/ChoiceHelp
+> CONTEXT: Map075/events/4/pages/1/592/ChoiceHelp
+> CONTEXT: Map075/events/4/pages/1/652/ChoiceHelp
 > CONTEXT: Map075/events/4/pages/2/478/ChoiceHelp
 > CONTEXT: Map075/events/4/pages/2/534/ChoiceHelp
 > CONTEXT: Map075/events/4/pages/2/590/ChoiceHelp
+> CONTEXT: Map075/events/4/pages/2/650/ChoiceHelp
 > CONTEXT: Map094/events/4/pages/1/298/ChoiceHelp
 > CONTEXT: Map094/events/4/pages/1/354/ChoiceHelp
 Found: After using a pink bed#Ron
@@ -847,24 +855,25 @@ Memento?#Ron
 
 > BEGIN STRING
 想ひ魂（夢猫）if(s[370])
-> CONTEXT: Map075/events/4/pages/1/532/Choice/0
+> CONTEXT: Map075/events/4/pages/1/533/Choice/0
 > CONTEXT: Map075/events/4/pages/2/532/Choice/0
 > CONTEXT: Map094/events/4/pages/1/352/Choice/0
-Memento (cat dream)if(s[370])#MTLed
+Memento (Cat Dream)if(s[370])#Triketos
 > END STRING
 
 > BEGIN STRING
 【想ひ魂（夢猫）】
 この想ひ魂を投影しますか？
-> CONTEXT: Map075/events/4/pages/1/541/Dialogue
+> CONTEXT: Map075/events/4/pages/1/542/Dialogue
 > CONTEXT: Map075/events/4/pages/2/541/Dialogue
 > CONTEXT: Map094/events/4/pages/1/361/Dialogue
-【Memento (cat dream)】. Do you want to project this Memento?#MTLed
+【Memento (Cat Dream)】
+Do you want to project this Memento?#Triketos
 > END STRING
 
 > BEGIN STRING
 想ひ魂（夢人魚）if(s[377])
-> CONTEXT: Map075/events/4/pages/1/588/Choice/0
+> CONTEXT: Map075/events/4/pages/1/590/Choice/0
 > CONTEXT: Map075/events/4/pages/2/588/Choice/0
 Memento(Echo)if(s[377])#Triketos
 > END STRING
@@ -872,47 +881,65 @@ Memento(Echo)if(s[377])#Triketos
 > BEGIN STRING
 【想ひ魂（夢人魚）】
 この想ひ魂を投影しますか？
-> CONTEXT: Map075/events/4/pages/1/597/Dialogue
+> CONTEXT: Map075/events/4/pages/1/599/Dialogue
 > CONTEXT: Map075/events/4/pages/2/597/Dialogue
-【Memento(Echo)】
+【Memento (Echo)】
+Do you want to project this Memento?#Triketos
+> END STRING
+
+> BEGIN STRING
+想ひ魂（夢狐） if(s[378])
+> CONTEXT: Map075/events/4/pages/1/650/Choice/0
+> CONTEXT: Map075/events/4/pages/2/648/Choice/0
+Memento (Kitsune Dream) if(s[378])#Triketos
+> END STRING
+
+> BEGIN STRING
+【想ひ魂（夢狐）】
+この想ひ魂を投影しますか？
+> CONTEXT: Map075/events/4/pages/1/659/Dialogue
+> CONTEXT: Map075/events/4/pages/2/657/Dialogue
+【Memento (Kitsune Dream)】
 Do you want to project this Memento?#Triketos
 > END STRING
 
 > BEGIN STRING
 想ひ魂（朧）if(s[375])
-> CONTEXT: Map075/events/4/pages/1/648/Choice/0
-> CONTEXT: Map075/events/4/pages/2/648/Choice/0
-Memento (朧)if(s[375])#MTLed
+> CONTEXT: Map075/events/4/pages/1/710/Choice/0
+> CONTEXT: Map075/events/4/pages/2/708/Choice/0
+Memento (Faint)if(s[375])#Triketos
 > END STRING
 
 > BEGIN STRING
 発見場所　　：？？？
-> CONTEXT: Map075/events/4/pages/1/650/ChoiceHelp
-> CONTEXT: Map075/events/4/pages/1/695/ChoiceHelp
-> CONTEXT: Map075/events/4/pages/2/650/ChoiceHelp
-> CONTEXT: Map075/events/4/pages/2/695/ChoiceHelp
-Discovery location:???#MTLed
+> CONTEXT: Map075/events/4/pages/1/712/ChoiceHelp
+> CONTEXT: Map075/events/4/pages/1/757/ChoiceHelp
+> CONTEXT: Map075/events/4/pages/2/710/ChoiceHelp
+> CONTEXT: Map075/events/4/pages/2/755/ChoiceHelp
+Found In:???#Triketos
 > END STRING
 
 > BEGIN STRING
 【想ひ魂（朧）】
 この想ひ魂を投影しますか？
-> CONTEXT: Map075/events/4/pages/1/657/Dialogue
-> CONTEXT: Map075/events/4/pages/2/657/Dialogue
-【Memento (朧)】. Do you want to project this Memento?#MTLed
+> CONTEXT: Map075/events/4/pages/1/719/Dialogue
+> CONTEXT: Map075/events/4/pages/2/717/Dialogue
+【Memento (Faint)】
+Do you want to project this Memento?#Triketos
 > END STRING
 
 > BEGIN STRING
 想ひ魂（虚）if(s[376])
-> CONTEXT: Map075/events/4/pages/1/693/Choice/0
-> CONTEXT: Map075/events/4/pages/2/693/Choice/0
-Memento (Imaginary)if(s[376])#MTLed
+> CONTEXT: Map075/events/4/pages/1/755/Choice/0
+> CONTEXT: Map075/events/4/pages/2/753/Choice/0
+Memento (Imaginary)if(s[376])#Triketos
 > END STRING
 
 > BEGIN STRING
 【想ひ魂（虚）】
 この想ひ魂を投影しますか？
-> CONTEXT: Map075/events/4/pages/1/702/Dialogue
-> CONTEXT: Map075/events/4/pages/2/702/Dialogue
-【Memento (虚)】. Do you want to project this Memento?#MTLed
+> CONTEXT: Map075/events/4/pages/1/764/Dialogue
+> CONTEXT: Map075/events/4/pages/2/762/Dialogue
+【Memento (Imaginary)】
+Do you want to project this Memento?#Triketos
 > END STRING

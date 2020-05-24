@@ -3,103 +3,103 @@
 全書完成率が３０％以上必要。
 （現在の値：\\V[20]％）
 > CONTEXT: Map025/events/8/pages/0/0/Dialogue
-30% or more complete writing rate is required.
-(Current value: \\V[20] %)#MTLed
+Book completion rate must be 30% or higher to open.
+(Currently: \\V[20]%)#Triketos
 > END STRING
 
 > BEGIN STRING
 全書完成率が４０％以上必要。
 （現在の値：\\V[20]％）
 > CONTEXT: Map025/events/3/pages/0/0/Dialogue
-40% or more complete writing rate is required.
-(Current value: \\V[20] %)#MTLed
+Book completion rate must be 40% or higher to open.
+(Currently: \\V[20]%)#Triketos
 > END STRING
 
 > BEGIN STRING
 全書完成率が５０以上必要。
 （現在の値：\\V[20]％）
 > CONTEXT: Map025/events/7/pages/0/0/Dialogue
-A complete book completion rate of 50 or more is required.
-(Current value: \\V[20] %)#MTLed
+Book completion rate must be 50% or higher to open.
+(Currently: \\V[20]%)#Triketos
 > END STRING
 
 > BEGIN STRING
 全書完成率が５５以上必要。
 （現在の値：\\V[20]％）
 > CONTEXT: Map025/events/10/pages/0/0/Dialogue
-A complete book completion rate of 55 or more is required.
-(Current value: \\V[20] %)#MTLed
+Book completion rate must be 55% or higher to open.
+(Currently: \\V[20]%)#Triketos
 > END STRING
 
 > BEGIN STRING
 全書完成率が６５以上必要。
 （現在の値：\\V[20]％）
 > CONTEXT: Map025/events/11/pages/0/0/Dialogue
-The complete book completion rate needs 65 or more.
-(Current value: \\V[20] %)#MTLed
+Book completion rate must be 65% or higher to open.
+(Currently: \\V[20]%)#Triketos
 > END STRING
 
 > BEGIN STRING
 全書完成率が７５以上必要。
 （現在の値：\\V[20]％）
 > CONTEXT: Map025/events/12/pages/0/0/Dialogue
-A complete book completion rate of 75 or more is required.
-(Current value: \\V[20] %)#MTLed
+Book completion rate must be 75% or higher to open.
+(Currently: \\V[20]%)#Triketos
 > END STRING
 
 > BEGIN STRING
 全書完成率が５％以上必要。
 （現在の値：\\V[20]％）
 > CONTEXT: Map025/events/9/pages/0/0/Dialogue
-A completeness rate of 5% or more is required.
-(Current value: \\V[20] %)#MTLed
+Book completion rate must be 5% or higher to open.
+(Currently: \\V[20]%)#Triketos
 > END STRING
 
 > BEGIN STRING
 全書完成率が１５％以上必要。
 （現在の値：\\V[20]％）
 > CONTEXT: Map025/events/13/pages/0/0/Dialogue
-A completeness rate of 15% or more is required.
-(Current value: \\V[20] %)#MTLed
+Book completion rate must be 15% or higher to open.
+(Currently: \\V[20]%)#Triketos
 > END STRING
 
 > BEGIN STRING
 全書完成率が２５％以上必要。
 （現在の値：\\V[20]％）
 > CONTEXT: Map025/events/14/pages/0/0/Dialogue
-25% or more complete writing rate is required.
-(Current value: \\V[20] %)#MTLed
+Book completion rate must be 25% or higher to open.
+(Currently: \\V[20]%))#Triketos
 > END STRING
 
 > BEGIN STRING
 全書完成率が８０％以上必要。
 （現在の値：\\V[20]％）
 > CONTEXT: Map025/events/15/pages/0/0/Dialogue
-80% or more complete writing rate is required.
-(Current value: \\V[20] %)#MTLed
+Book completion rate must be 80% or higher to open.
+(Currently: \\V[20]%)#Triketos
 > END STRING
 
 > BEGIN STRING
 全書完成率が９０％以上必要。
 （現在の値：\\V[20]％）
 > CONTEXT: Map025/events/16/pages/0/0/Dialogue
-90% or more complete writing rate is required.
-(Current value: \\V[20] %)#MTLed
+Book completion rate must be 90% or higher to open.
+(Currently: \\V[20]%)#Triketos
 > END STRING
 
 > BEGIN STRING
 全書完成率が１００％必要。
 （現在の値：\\V[20]％）
 > CONTEXT: Map025/events/17/pages/0/0/Dialogue
-100% complete book completion rate is required.
-(Current value: \\V[20] %)#MTLed
+Complete the entire Compendium to open.
+(Currently: \\V[20]%)#Triketos
 > END STRING
 
 > BEGIN STRING
 "ＳＰが５０増加！！"
 > CONTEXT: Map025/events/17/pages/1/7/InlineScript/1:12
 > CONTEXT: Map216/events/3/pages/1/8/InlineScript/1:12
-"SP increased by 50!!"#MTLed
+"SP increased by 50!!"#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -264,4 +264,77 @@ short trip was fruitful for you in some way...#Ron
 とりあえず、中身を見てみようかな……。
 > CONTEXT: Map025/events/28/pages/0/75/Dialogue/kazuya
 Let's try looking inside for now...#Triketos
+> END STRING
+
+> BEGIN STRING
+ようこそ、\\N[1]様
+> CONTEXT: Map025/events/28/pages/2/0/Dialogue/other1
+> CONTEXT: Map025/events/28/pages/3/0/Dialogue/other1
+Welcome, \\N[1]-sama.#Triketos
+> END STRING
+
+> BEGIN STRING
+難易度の変更
+> CONTEXT: Map025/events/28/pages/2/2/Choice/0
+> CONTEXT: Map025/events/28/pages/3/2/Choice/0
+Change Difficulty#Triketos
+> END STRING
+
+> BEGIN STRING
+あなたの全書も、ずいぶんと埋まってきました…
+
+私の思ったとおり……
+あなたはきっと、私に『証明』してくれることでしょう…
+> CONTEXT: Map025/events/28/pages/2/67/Dialogue/other1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…その『証明』って、
+レイナを救ったときのあの事象じゃないのか？
+
+あの時も、この本がなければ実現しなかったし…
+> CONTEXT: Map025/events/28/pages/2/73/Dialogue/kazuya < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それとも、まだ他に僕に何か起きるの…？
+> CONTEXT: Map025/events/28/pages/2/78/Dialogue/kazuya < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いいえ……
+
+仰る通り、本来の全書の役割は
+あの『介入』を最後に終わりました。
+> CONTEXT: Map025/events/28/pages/2/80/Dialogue/other1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ですが、あれは私に『依頼された』事象……
+
+それとは別に、私自身が貴方に
+『証明』して頂きたいことがあるのです
+> CONTEXT: Map025/events/28/pages/2/85/Dialogue/other1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…………そうですね。
+
+全書をここまで埋めた貴方になら
+もう話しても大丈夫でしょう。
+> CONTEXT: Map025/events/28/pages/2/93/Dialogue/other1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+では、私について来てください……
+
+貴方に、見せたいものがあります。
+> CONTEXT: Map025/events/28/pages/2/98/Dialogue/other1 < UNTRANSLATED
+
 > END STRING

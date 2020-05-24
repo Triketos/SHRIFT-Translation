@@ -13,6 +13,13 @@ Meira#Dargoth
 
 > BEGIN STRING
 アイアンメイデン
+> CONTEXT: Map024/events/7/pages/1/0/NamePop
+> CONTEXT: Map024/events/7/pages/2/0/NamePop
+> CONTEXT: Map193/events/7/pages/1/0/NamePop
+> CONTEXT: Map193/events/7/pages/2/0/NamePop
+> CONTEXT: Map194/events/7/pages/1/0/NamePop
+> CONTEXT: Map194/events/7/pages/2/0/NamePop
+Iron_Maiden#Triketos
 > CONTEXT: Enemies/15/name
 > CONTEXT: Enemies/16/name
 > CONTEXT: Enemies/17/name
@@ -20,12 +27,6 @@ Meira#Dargoth
 > CONTEXT: Enemies/19/name
 > CONTEXT: Enemies/20/name
 > CONTEXT: Enemies/225/name
-> CONTEXT: Map024/events/7/pages/1/0/NamePop
-> CONTEXT: Map024/events/7/pages/2/0/NamePop
-> CONTEXT: Map193/events/7/pages/1/0/NamePop
-> CONTEXT: Map193/events/7/pages/2/0/NamePop
-> CONTEXT: Map194/events/7/pages/1/0/NamePop
-> CONTEXT: Map194/events/7/pages/2/0/NamePop
 > CONTEXT: MapInfos/41/name
 > CONTEXT: Troops/10/name
 > CONTEXT: Troops/11/name
@@ -54,15 +55,16 @@ Mother Rabbit (Missed)#afrg
 
 > BEGIN STRING
 マザーラビット
+> CONTEXT: Map024/events/28/pages/1/0/NamePop 
+> CONTEXT: Map193/events/28/pages/1/0/NamePop 
+> CONTEXT: Map194/events/28/pages/1/0/NamePop
+Mother_Rabbit#Triketos
 > CONTEXT: Enemies/60/name 
 > CONTEXT: Enemies/61/name 
 > CONTEXT: Enemies/62/name 
 > CONTEXT: Enemies/63/name 
 > CONTEXT: Enemies/64/name 
 > CONTEXT: Enemies/65/name 
-> CONTEXT: Map024/events/28/pages/1/0/NamePop 
-> CONTEXT: Map193/events/28/pages/1/0/NamePop 
-> CONTEXT: Map194/events/28/pages/1/0/NamePop 
 > CONTEXT: MapInfos/62/name 
 > CONTEXT: MapInfos/233/name 
 > CONTEXT: MapInfos/234/name 
@@ -206,7 +208,7 @@ Sphinx (Down)#afrg
 > CONTEXT: MapInfos/122/name
 > CONTEXT: MapInfos/245/name
 > CONTEXT: MapInfos/246/name
-Titanaboa#afrgPR
+Titanoboa#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -295,6 +297,9 @@ Camazotz#Triketos
 > CONTEXT: Enemies/216/name 
 > CONTEXT: Enemies/255/name 
 > CONTEXT: Enemies/256/name 
+> CONTEXT: Enemies/257/name
+> CONTEXT: Enemies/258/name
+> CONTEXT: Enemies/259/name
 > CONTEXT: Map024/events/3/pages/1/0/NamePop 
 > CONTEXT: Map193/events/18/pages/1/0/NamePop 
 > CONTEXT: MapInfos/216/name 
@@ -355,13 +360,14 @@ Mio#MTLed
 
 > BEGIN STRING
 ハーピーモドキ
+> CONTEXT: Map193/events/2/pages/1/0/NamePop
+Harpy_Spawn#Triketos
 > CONTEXT: Enemies/265/name 
 > CONTEXT: Enemies/266/name 
 > CONTEXT: Enemies/267/name 
 > CONTEXT: Enemies/269/name 
 > CONTEXT: Enemies/270/name 
 > CONTEXT: Enemies/271/name 
-> CONTEXT: Map193/events/2/pages/1/0/NamePop 
 Harpy Spawn#Triketos
 > END STRING
 
@@ -402,6 +408,13 @@ Mormo#Triketos
 > CONTEXT: Enemies/295/name
 > CONTEXT: Troops/313/name
 Bugbear#Triketos
+> END STRING
+
+> BEGIN STRING
+マイ
+> CONTEXT: Enemies/303/name < UNTRANSLATED
+> CONTEXT: Enemies/304/name < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING

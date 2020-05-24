@@ -1,8 +1,30 @@
 ﻿> GAIJINIZER PATCH FILE
 > BEGIN STRING
+開放条件：
+【真慈悲ルートクリア済み】
+【マザーラビット入室済み・キズナ状態】
+> CONTEXT: Map193/events/2/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+開放条件：
+【真慈悲ルートクリア済み】
+【ランパス・エンプーサ・バーゲスト入室済み・キズナ状態】
+> CONTEXT: Map193/events/5/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヘカーテ？
+> CONTEXT: Map193/events/5/pages/1/0/NamePop
+Hecate?#Triketos
+> END STRING
+
+> BEGIN STRING
 運命の始まり
 > CONTEXT: Map193/events/20/pages/1/0/NamePop
-The_beginning_of_fate#MTLed
+Fate's_Origin#TriketosLocalizedToFit
 > END STRING
 
 > BEGIN STRING
@@ -20,5 +42,5 @@ Please initialize your own stable value.#MTLed
 \\C[2]黒イモリでリセット…とかかな？
 > CONTEXT: Map193/events/24/pages/1/4/Dialogue/kazuya
 "Initialize stable capacity value" ...?
-\\C[2]Reset with black newt...Toka?#MTLed
+\\C[2]Reset with charred Salamander...Toka?#MTLed
 > END STRING

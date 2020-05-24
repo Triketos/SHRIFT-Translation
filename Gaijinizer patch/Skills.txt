@@ -473,6 +473,7 @@ Reliably frees your legs, nipples, and mouth.#Dargoth
 ふりはらう
 > CONTEXT: Skills/19/name
 > CONTEXT: Skills/437/name
+> CONTEXT: Troops/298/pages/1/213/Choice/1
 Shake Off#Dargoth
 > END STRING
 
@@ -1915,6 +1916,8 @@ Beast Claw#Dargoth
 > CONTEXT: Skills/552/description
 > CONTEXT: Skills/555/description
 > CONTEXT: Skills/556/description
+> CONTEXT: Skills/581/description
+> CONTEXT: Skills/582/description
 > CONTEXT: Skills/620/description
 > CONTEXT: Skills/621/description
 > CONTEXT: Skills/622/description
@@ -1934,6 +1937,7 @@ Beast Claw#Dargoth
 > CONTEXT: Skills/827/description
 > CONTEXT: Skills/836/description
 > CONTEXT: Skills/845/description
+> CONTEXT: Skills/856/description
 Causes your opponent to lose their balance.#Dargoth
 > END STRING
 
@@ -2338,6 +2342,7 @@ They feel so good, \\N[1] is losing vitality...#Dargoth
 > CONTEXT: Skills/793/name
 > CONTEXT: Skills/794/name
 > CONTEXT: Skills/839/name
+> CONTEXT: Skills/858/name
 Breasts of Submission#Dargoth
 > END STRING
 
@@ -2612,6 +2617,7 @@ success depends on how much lust they've accumulated.#Ron
 > CONTEXT: Skills/645/name
 > CONTEXT: Skills/660/name
 > CONTEXT: Skills/805/name
+> CONTEXT: Skills/861/name
 Sweet Nothings#Dargoth
 > END STRING
 
@@ -2622,6 +2628,7 @@ Sweet Nothings#Dargoth
 > CONTEXT: Skills/645/message1
 > CONTEXT: Skills/660/message1
 > CONTEXT: Skills/805/message1
+> CONTEXT: Skills/861/message1
  tries to seduce \\N[1] with words of affection!#Dargoth
 > END STRING
 
@@ -3645,6 +3652,10 @@ Indulge Yourself#Dargoth
 > BEGIN STRING
 は相手に思いっきり甘えた…
 > CONTEXT: Skills/283/message1
+> CONTEXT: Skills/354/message1
+> CONTEXT: Skills/355/message1
+> CONTEXT: Skills/356/message1
+> CONTEXT: Skills/357/message1 
  indulges himself for a while...#Dargoth
 > END STRING
 
@@ -4303,7 +4314,8 @@ Full Burst#afrg
 > CONTEXT: Skills/403/message2
 > CONTEXT: Skills/678/message2
 > CONTEXT: Skills/727/message2
-\\N[1]'s hand doesn't move as if drawn to her breasts...#afrgPR
+> CONTEXT: Skills/858/message2
+\\N[1]'s hand doesn't move, as if drawn to her breasts...#afrgPR
 > END STRING
 
 > BEGIN STRING
@@ -4312,6 +4324,7 @@ Full Burst#afrg
 > CONTEXT: Skills/403/message1
 > CONTEXT: Skills/678/message1
 > CONTEXT: Skills/727/message1
+> CONTEXT: Skills/858/message1
 's breasts are rubbed by an entranced \\N[1]!#afrg
 > END STRING
 
@@ -4517,6 +4530,38 @@ Reload (Drum)#afrg
 > END STRING
 
 > BEGIN STRING
+ビーストフォームに甘えようとする。
+きっと獣のように激しく犯してもらえるだろう。
+> CONTEXT: Skills/354/description
+Let Daiji's Beast form spoil you rotton.
+You will most certainly be violently fucked.#DL
+> END STRING
+
+> BEGIN STRING
+ジェルフォームに甘えようとする。
+きっと踊るように優しく犯してもらえるだろう。
+> CONTEXT: Skills/355/description
+Let Daiji's Gel form spoil you rotton.
+You will be raped as they gently dance.#DL
+> END STRING
+
+> BEGIN STRING
+アルラウネフォームに甘えようとする。
+きっと養分のように容赦なく犯してもらえるだろう。
+> CONTEXT: Skills/356/description
+Let Daiji's Alraune form spoil you rotton.
+You will most certainly be squeezed for nutrients.#DL
+> END STRING
+
+> BEGIN STRING
+通常フォームに甘えようとする。
+きっとあの胸で包まれながら犯してもらえるだろう。
+> CONTEXT: Skills/357/description < UNTRANSLATED
+Let Daiji's Normal form spoil you rotton.
+You will be fucked while being wrapped in her chest.#DL
+> END STRING
+
+> BEGIN STRING
 \\N[1]の身体に何とも言えない悪寒が走る！！
 > CONTEXT: Skills/359/message2
 > CONTEXT: Skills/362/message2
@@ -4628,6 +4673,7 @@ Feather Tail#afrg
 > BEGIN STRING
 \\N[1]の身体は完全に身動きが取れなくなってしまった！
 > CONTEXT: Skills/369/message2
+> CONTEXT: Skills/405/message2
 \\N[1] cannot move his body at all like this!#afrg
 > END STRING
 
@@ -5030,6 +5076,18 @@ Soft Touch#Ron
 > END STRING
 
 > BEGIN STRING
+狐の檻籠
+> CONTEXT: Skills/405/name
+Kitsune's Cage#DL
+> END STRING
+
+> BEGIN STRING
+は\\N[1]の身体を服の中に閉じ込めた！
+> CONTEXT: Skills/405/message1
+has trapped Kazuya's body inside her clothes!#DL
+> END STRING
+
+> BEGIN STRING
 \\C[2]手足を使って\\C[0]粘着糸を引き離し、状態異常を解除する。
 手足が自由でなければこのスキルは使用出来ない。
 > CONTEXT: Skills/410/description
@@ -5154,6 +5212,7 @@ Surrender Gaze#afrg
 > CONTEXT: Skills/670/message1
 > CONTEXT: Skills/791/message1
 > CONTEXT: Skills/792/message1
+> CONTEXT: Skills/857/message1
  glared at \\N[1] with magical eyes!#afrg
 > END STRING
 
@@ -6692,6 +6751,43 @@ Brain Refill#afrgPR
 > END STRING
 
 > BEGIN STRING
+\\N[1]は喰われる以外にもはや為す術はない…
+> CONTEXT: Skills/581/message2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+かぶりつく
+> CONTEXT: Skills/581/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は本能のまま、貪欲に\\N[1]を貪っている！
+> CONTEXT: Skills/581/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[1]は思わず喘ぎ声を上げてしまっている…
+> CONTEXT: Skills/582/message2
+> CONTEXT: Skills/640/message2
+\\N[1] unconciously starts breathing heavily...#DL
+> END STRING
+
+> BEGIN STRING
+スパイラル・ヘヴン
+> CONTEXT: Skills/582/name
+Spiral Heaven#Triketos
+> END STRING
+
+> BEGIN STRING
+の胸が大きくねじれるように、きつく締め付けてきた！
+> CONTEXT: Skills/582/message1
+'s chest twisted wide and tight!#DL
+> END STRING
+
+> BEGIN STRING
 火之迦具土焔
 > CONTEXT: Skills/585/name
 > CONTEXT: Skills/623/name
@@ -7137,12 +7233,6 @@ Magic Love Game#afrg
 > END STRING
 
 > BEGIN STRING
-\\N[1]は思わず喘ぎ声を上げてしまっている…
-> CONTEXT: Skills/640/message2
-\\N[1] pants involuntarily...#afrg
-> END STRING
-
-> BEGIN STRING
 オス堕としの魔膣
 > CONTEXT: Skills/640/name
 Male Corrupting Demon Vagina#afrg
@@ -7297,6 +7387,7 @@ Virtue: Ayashi Ayaka#MTLed
 > BEGIN STRING
 誘惑の魔眼
 > CONTEXT: Skills/670/name
+> CONTEXT: Skills/857/name
 Magic Eye of Seduction#afrg
 > END STRING
 
@@ -8749,4 +8840,58 @@ Demon Queen's Play#Ron
 は\\n[1]に跨がって、身体を揺らし始めた…
 > CONTEXT: Skills/853/message1
  mounts \\N[1] and starts rocking her body...#Ron
+> END STRING
+
+> BEGIN STRING
+フワフワとした気持ち良い匂いが\\N[1]を包み込む……
+> CONTEXT: Skills/856/message2
+A pleasant, fluffy smell envelops \\N[1]........#DL
+> END STRING
+
+> BEGIN STRING
+誘惑の鱗粉
+> CONTEXT: Skills/856/name
+Tempting Scales#Triketos
+> END STRING
+
+> BEGIN STRING
+はピンク色の鱗粉を周囲に拡散させた！
+> CONTEXT: Skills/856/message1
+ spread pink scales all around!#DL
+> END STRING
+
+> BEGIN STRING
+着物の振り袖は、まるで生き物のように\\N[1]へ迫ってくる…！！
+> CONTEXT: Skills/859/message2
+The kimono is closing in on \\N[1] like it's alive...!#DL
+> END STRING
+
+> BEGIN STRING
+束縛の振袖
+> CONTEXT: Skills/859/name
+Kimono of Binding#Triketos
+> END STRING
+
+> BEGIN STRING
+は自分の着物の袖をムチのように飛ばしてきた！
+> CONTEXT: Skills/859/message1
+ sent their own kimono sleeves flying like a whip!#DL
+> END STRING
+
+> BEGIN STRING
+\\N[1]の身体は、さらにぐるぐる巻きに拘束されていく…！
+> CONTEXT: Skills/860/message2
+\\N[1]'s body is further restrained by it winding around him...!#DL
+> END STRING
+
+> BEGIN STRING
+驚喜の振袖
+> CONTEXT: Skills/860/name
+Surprise Kimono#Triketos
+> END STRING
+
+> BEGIN STRING
+は振り袖を操り、\\N[1]を手元まで寄せた！
+> CONTEXT: Skills/860/message1
+ manipulates the kimono and pulls Kazuya to her side!#DL
 > END STRING

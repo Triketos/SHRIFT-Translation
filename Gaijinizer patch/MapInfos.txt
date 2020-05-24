@@ -140,7 +140,7 @@ Trial version#MTLed
 > BEGIN STRING
 マイルーム通路
 > CONTEXT: MapInfos/24/name
-My room aisle#MTLed
+My room Passageway#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -1187,4 +1187,10 @@ Stage (after clearing)#GT
 ヘカーテ（無限ループ）
 > CONTEXT: MapInfos/376/name
 Hecate (infinite loop)#GT
+> END STRING
+
+> BEGIN STRING
+ピンクベッド
+> CONTEXT: MapInfos/378/name
+Pink Bed#Triketos
 > END STRING
