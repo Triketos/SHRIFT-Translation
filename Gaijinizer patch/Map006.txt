@@ -149,7 +149,7 @@ You'll need to be guided to a safe place.」#Ron
 > CONTEXT: Map006/events/2/pages/0/44/Dialogue
 > CONTEXT: Map006/events/2/pages/1/44/Dialogue
 > CONTEXT: Map021/events/2/pages/0/44/Dialogue
-Yuuma「I see ...」#MTLed
+Yuuma「I see...」#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -590,7 +590,7 @@ Please be careful.#Ron
 > CONTEXT: Map006/events/2/pages/0/194/Dialogue/kazuya
 > CONTEXT: Map006/events/2/pages/1/197/Dialogue/kazuya
 > CONTEXT: Map006/events/2/pages/3/127/Dialogue/kazuya
-... If you can't move from where you are then
+...If you can't move from where you are then
 there's no other way.
 Understood, I'll give it a try.#Ron
 > END STRING
@@ -845,8 +845,8 @@ Haaaaah! Haaaah!!#Ron
 
 体勢が整ったらまた襲ってくるかもしんないのによ。
 > CONTEXT: Map006/events/3/pages/1/68/Dialogue/other1
-Eh, you let it go? Well aren't you the nice guy.
-If it recovers it might attack again.#Aesthetic
+Oh, you let it go? Well aren't you a nice guy.
+She might attacks us again once she's recovered.#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -855,10 +855,10 @@ If it recovers it might attack again.#Aesthetic
 
 \\C[0]まぁ、そのうち分かるだろうさ。
 > CONTEXT: Map006/events/3/pages/1/72/Dialogue/other1
-Well, \\C[2]it's not like those guys come at you
-with the intent to kill. If you're gentle, maybe
+Well, \\C[2]it's not like those guys are trying
+to kill you either. If you're gentle, maybe
 they'll respond to some extent. \\C[0]Well, you'll
-understand eventually.#Aesthetic
+understand eventually.#Aesthetic/Triketos
 > END STRING
 
 > BEGIN STRING
@@ -866,7 +866,8 @@ understand eventually.#Aesthetic
 
 まぁ、今後のことを考えれば始末しておいた方がいいけどよ。
 > CONTEXT: Map006/events/3/pages/1/79/Dialogue/other1
-...Brutal. 
+...Brutal.
+
 Well, if we're thinking about the future, it'll
 be easier to finish them off.#Aesthetic
 > END STRING
@@ -1059,5 +1060,5 @@ as a diversion.#Ron
 I've got a shotgun now. So to whoever's reading this
 memo, I leave to you a peashooter I've been keeping
 as a precious emergency weapon.
-Yoshihiro#Ron
+-Yoshihiro#Ron
 > END STRING
