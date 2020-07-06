@@ -679,9 +679,9 @@ Gangbang en(s[104])#Dargoth
 
 この戦闘を閲覧しますか？
 > CONTEXT: Map002/events/1/pages/0/613/Dialogue
-【Barghest】: Temptation defeat scene
+[Barghest]: Temptation
 
-Do you want to view this battle?#MTLed
+Do you want to view this scene?#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -713,9 +713,9 @@ Do you want to view this battle?#MTLed
 
 この戦闘を閲覧しますか？
 > CONTEXT: Map002/events/1/pages/0/629/Dialogue
-【Barghest】: Cowgirl defeat scene
+[Barghest]: Cowgirl
 
-Do you want to view this battle?#MTLed
+Do you want to view this scene?#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -737,27 +737,27 @@ Do you want to view this battle?#MTLed
 
 この戦闘を閲覧しますか？
 > CONTEXT: Map002/events/1/pages/0/645/Dialogue
-【Barghest】: gangbang defeat scene
+[Barghest]: Gangbang
 
-Do you want to view this battle?#MTLed
+Do you want to view this scene?#Triketos
 > END STRING
 
 > BEGIN STRING
 "ヒント：通常状態で口塞ぎを受け続ける。"
 > CONTEXT: Map002/events/1/pages/0/672/InlineScript/2:1
-"Hint: Allow yourself to continue to be gagged."#Ron
+"Hint: Don't break the gagged condition."#Triketos
 > END STRING
 
 > BEGIN STRING
 "ヒント：甘い口車。"
 > CONTEXT: Map002/events/1/pages/0/680/InlineScript/2:1
-"Hint: Sweet Nothings."#MTLed
+"Hint: Be tempted by Sweet Nothings."#TriketosLocalize
 > END STRING
 
 > BEGIN STRING
 "ヒント：誘惑状態で口塞ぎを受け続ける。"
 > CONTEXT: Map002/events/1/pages/0/688/InlineScript/2:1
-"Hint: Continue to receive Gagged in temptation pose."#MTLed
+"Hint: Don't break the gagged condition while being tempted."#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -783,9 +783,9 @@ Cowgirl en(s[108])#Dargoth
 
 この戦闘を閲覧しますか？
 > CONTEXT: Map002/events/1/pages/0/697/Dialogue
-【Lampas】: footjob defeat scene
+[Lampas]: Footjob
 
-Do you want to view this battle?#MTLed
+Do you want to view this scene?#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -793,9 +793,9 @@ Do you want to view this battle?#MTLed
 
 この戦闘を閲覧しますか？
 > CONTEXT: Map002/events/1/pages/0/713/Dialogue
-【Lampas】: Embrace defeat scene
+[Lampas]: Embrace
 
-Do you want to view this battle?#MTLed
+Do you want to view this scene?#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -803,9 +803,9 @@ Do you want to view this battle?#MTLed
 
 この戦闘を閲覧しますか？
 > CONTEXT: Map002/events/1/pages/0/729/Dialogue
-【Lampas】: Cowgirl defeat scene
+[Lampas]: Cowgirl
 
-Do you want to view this battle?#MTLed
+Do you want to view this scene?#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -819,21 +819,21 @@ Child if(s[613])#Triketos
 
 この戦闘を閲覧しますか？
 > CONTEXT: Map002/events/1/pages/0/748/Dialogue
-【Lampas】: Child
+【Lampas】: Child Defeat Scene
 
-Do you want to watch this battle?#Triketos
+Do you want to watch this scene?#Triketos
 > END STRING
 
 > BEGIN STRING
 "ヒント：前半戦。"
 > CONTEXT: Map002/events/1/pages/0/776/InlineScript/2:1
-"Hint: The first half of the game."#MTLed
+"Hint: First encounter."#TriketosLocalize
 > END STRING
 
 > BEGIN STRING
 "ヒント：後半戦。"
 > CONTEXT: Map002/events/1/pages/0/784/InlineScript/2:1
-"Hint: Second half."#MTLed
+"Hint: Second encounter."#TriketosLocalize
 > END STRING
 
 > BEGIN STRING
@@ -853,9 +853,9 @@ From behind en(s[111])#Dargoth
 
 この戦闘を閲覧しますか？
 > CONTEXT: Map002/events/1/pages/0/792/Dialogue
-【Iron Maiden】: The defeat scene from the front
+[Iron Maiden]: From the Front
 
-Do you want to view this battle?#MTLed
+Do you want to view this battle?#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -863,9 +863,9 @@ Do you want to view this battle?#MTLed
 
 この戦闘を閲覧しますか？
 > CONTEXT: Map002/events/1/pages/0/808/Dialogue
-【Iron Maiden】: A defeat scene from behind
+[Iron Maiden]: From Behind
 
-Do you want to view this battle?#MTLed
+Do you want to view this scene?#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -890,13 +890,13 @@ equipment"#Ron
 > BEGIN STRING
 昇天フェラ en(s[113])
 > CONTEXT: Map002/events/1/pages/0/856/Choice/0
-Supreme Fellatioen(s[113])#MTLed
+Heavenly Fellatioen(s[113])#Triketos
 > END STRING
 
 > BEGIN STRING
 ベロチュー en(s[114])
 > CONTEXT: Map002/events/1/pages/0/856/Choice/1
-deep kissen(s[114])#MTLed
+Deep Kissen(s[114])#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -910,9 +910,9 @@ Secret Scene en(s[115])#Dargoth
 
 この戦闘を閲覧しますか？
 > CONTEXT: Map002/events/1/pages/0/860/Dialogue
-【Empuse】: Supreme Fellatio
+[Empuse]: Heavenly Fellatio
 
-Do you want to view this battle?#MTLed
+Do you want to view this scene?#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -920,9 +920,9 @@ Do you want to view this battle?#MTLed
 
 この戦闘を閲覧しますか？
 > CONTEXT: Map002/events/1/pages/0/876/Dialogue
-【Empuse】: Ascension deep kiss
+[Empuse]: Deep Kiss
 
-Do you want to view this battle?#MTLed
+Do you want to view this scene?#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -930,45 +930,45 @@ Do you want to view this battle?#MTLed
 
 この戦闘を閲覧しますか？
 > CONTEXT: Map002/events/1/pages/0/892/Dialogue
-【Empuse】: bow-wow
+[Empuse]: Bow-Wow
 
-Do you want to view this battle?#MTLed
+Do you want to view this battle?#Triketos
 > END STRING
 
 > BEGIN STRING
 マザーラビット if(s[116])
 > CONTEXT: Map002/events/1/pages/0/913/Choice/0
-Mother Rabbitif(s[116])#MTLed
+Mother Rabbitif(s[116])#Triketos
 > END STRING
 
 > BEGIN STRING
 ハル＆リズ if(s[119])
 > CONTEXT: Map002/events/1/pages/0/913/Choice/1
-Haru & Lizif(s[119])#MTLed
+Haru & Lizif(s[119])#Triketos
 > END STRING
 
 > BEGIN STRING
 躯 if(s[382])
 > CONTEXT: Map002/events/1/pages/0/913/Choice/2
-Mukuroif(s[382])#MTLed
+Mukuroif(s[382])#Triketos
 > END STRING
 
 > BEGIN STRING
 ニーナ if(s[386])
 > CONTEXT: Map002/events/1/pages/0/913/Choice/3
-Ninaif(s[386])#MTLed
+Ninaif(s[386])#Triketos
 > END STRING
 
 > BEGIN STRING
 授乳 en(s[117])
 > CONTEXT: Map002/events/1/pages/0/936/Choice/0
-Breastfeedingen(s[117])#MTLed
+Breastfeedingen(s[117])#Triketos
 > END STRING
 
 > BEGIN STRING
 毛づくろい en(s[118])
 > CONTEXT: Map002/events/1/pages/0/936/Choice/1
-Groomingen(s[118])#MTLed
+Groomingen(s[118])#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -976,9 +976,9 @@ Groomingen(s[118])#MTLed
 
 この戦闘を閲覧しますか？
 > CONTEXT: Map002/events/1/pages/0/940/Dialogue
-【Mother Rabbit】: Lactating defeat scene
+[Mother Rabbit]: Breastfeeding
 
-Do you want to view this battle?#MTLed
+Do you want to view this scene?#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -986,39 +986,39 @@ Do you want to view this battle?#MTLed
 
 この戦闘を閲覧しますか？
 > CONTEXT: Map002/events/1/pages/0/956/Dialogue
-【Mother Rabbit】: Hairdressing defeat scene
+[Mother Rabbit]: Grooming
 
-Do you want to view this battle?#MTLed
+Do you want to view this scene?#Triketos
 > END STRING
 
 > BEGIN STRING
 "ヒント：ハルのパーカーの中で"
 > CONTEXT: Map002/events/1/pages/0/983/InlineScript/2:1
-"Hint: Inside Haru's Hoodie"#MTLed
+"Hint: Inside Haru's Hoodie"#Triketos
 > END STRING
 
 > BEGIN STRING
 "ヒント：最期まで貢いで３０００円以上余裕がある"
 > CONTEXT: Map002/events/1/pages/0/991/InlineScript/2:1
-"Hint: There is room over 3000 yen in the contribution until the end"#MTLed
+"Hint: Have over 3000 yen left."#Triketos
 > END STRING
 
 > BEGIN STRING
 "ヒント：リズがいない時にハルに負ける"
 > CONTEXT: Map002/events/1/pages/0/999/InlineScript/2:1
-
+"Hint: Give in to Haru when Liz isn't around..."#Triketos
 > END STRING
 
 > BEGIN STRING
 搾精 en(s[120])
 > CONTEXT: Map002/events/1/pages/0/1004/Choice/0
-milkingen(s[120])#MTLed
+Milkingen(s[120])#Triketos
 > END STRING
 
 > BEGIN STRING
 財布 en(s[381])
 > CONTEXT: Map002/events/1/pages/0/1004/Choice/1
-money bagen(s[381])#MTLed
+Money Bagen(s[381])#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -1033,9 +1033,9 @@ Psuedoregression en(s[606])#Triketos
 この戦闘を閲覧しますか？
 > CONTEXT: Map002/events/1/pages/0/1008/Dialogue
 > CONTEXT: Map002/events/1/pages/0/1049/Dialogue
-【Haru & Liz】: milking defeat scene
+[Haru & Liz]: Milking
 
-Do you want to view this battle?#MTLed
+Do you want to view this scene?#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -1043,21 +1043,21 @@ Do you want to view this battle?#MTLed
 
 この戦闘を閲覧しますか？
 > CONTEXT: Map002/events/1/pages/0/1024/Dialogue
-【Haru & Liz】: money bag defeat scene
+[Haru & Liz]: Money Bag
 
-Do you want to view this battle?#MTLed
+Do you want to view this scene?#Triketos
 > END STRING
 
 > BEGIN STRING
 "ヒント：相手の拘束を潔く受ける。"
 > CONTEXT: Map002/events/1/pages/0/1080/InlineScript/2:1
-"Hint: Receive the other party's bounds innocence."#MTLed
+"Hint: Don't break her restraints."#Triketos
 > END STRING
 
 > BEGIN STRING
 "ヒント：後半戦の時止めの１つ。"
 > CONTEXT: Map002/events/1/pages/0/1088/InlineScript/2:1
-"Hint: One of the closing points in the second half."#MTLed
+"Hint: The time stop in the second fight."#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -1072,19 +1072,19 @@ Do you want to view this battle?#MTLed
 > BEGIN STRING
 騎乗位 en(s[383])
 > CONTEXT: Map002/events/1/pages/0/1100/Choice/0
-Cowgirlen(s[383])#MTLed
+Cowgirlen(s[383])#Triketos
 > END STRING
 
 > BEGIN STRING
 後背位 en(s[384])
 > CONTEXT: Map002/events/1/pages/0/1100/Choice/1
-doggy styleen(s[384])#MTLed
+Doggy Styleen(s[384])#Triketos
 > END STRING
 
 > BEGIN STRING
 誘惑 en(s[385])
 > CONTEXT: Map002/events/1/pages/0/1100/Choice/2
-Temptationen(s[385])#MTLed
+Temptationen(s[385])#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -1092,9 +1092,9 @@ Temptationen(s[385])#MTLed
 
 この戦闘を閲覧しますか？
 > CONTEXT: Map002/events/1/pages/0/1104/Dialogue
-【Mukuro】: Cowgirl
+[Mukuro]: Cowgirl
 
-Do you want to view this battle?#MTLed
+Do you want to view this scene?#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -1102,9 +1102,9 @@ Do you want to view this battle?#MTLed
 
 この戦闘を閲覧しますか？
 > CONTEXT: Map002/events/1/pages/0/1120/Dialogue
-【Mukuro】: doggy style
+[Mukuro]: Doggy Style
 
-Do you want to view this battle?#MTLed
+Do you want to view this scene?#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -1112,57 +1112,57 @@ Do you want to view this battle?#MTLed
 
 この戦闘を閲覧しますか？
 > CONTEXT: Map002/events/1/pages/0/1136/Dialogue
-【Mukuro】: Temptation
+[Mukuro]: Temptation
 
-Do you want to view this battle?#MTLed
+Do you want to view this scene?#Triketos
 > END STRING
 
 > BEGIN STRING
 "エボニーのダンスに見とれる"
 > CONTEXT: Map002/events/1/pages/0/1164/InlineScript/2:1
-"Hint: You can see in the dance of Ebony"#MTLed
+"Hint: Be charmed by Ebony's dance."#Triketos
 > END STRING
 
 > BEGIN STRING
 "ヒント：レイジーのダンスに見とれる"
 > CONTEXT: Map002/events/1/pages/0/1172/InlineScript/2:1
-"Hint: You can see the dance of Lazy"#MTLed
+"Hint: Be charmed by Ivory's dance."#Triketos
 > END STRING
 
 > BEGIN STRING
 "ヒント：ニーナのダンスに見とれる"
 > CONTEXT: Map002/events/1/pages/0/1180/InlineScript/2:1
-"Hint: Seen in the dance of Nina"#MTLed
+"Hint: Be charmed by Nina's dance."#Triketos
 > END STRING
 
 > BEGIN STRING
 "ヒント：視聴率が０になる"
 > CONTEXT: Map002/events/1/pages/0/1188/InlineScript/2:1 
-"Hint: view rate becomes 0"#MTLed
+"Hint: Ratings hit 0."#Triketos
 > END STRING
 
 > BEGIN STRING
 エボニー en(s[387])
 > CONTEXT: Map002/events/1/pages/0/1192/Choice/0
-Ebonyen(s[387])#MTLed
+Ebonyen(s[387])#Triketos
 > END STRING
 
 > BEGIN STRING
 レイジー en(s[388])
 > CONTEXT: Map002/events/1/pages/0/1192/Choice/1
-Lazyen(s[388])#MTLed
+Lazyen(s[388])#Triketos
 > END STRING
 
 > BEGIN STRING
 初体験 en(s[389])
 > CONTEXT: Map002/events/1/pages/0/1192/Choice/2
-First experienceen(s[389])#MTLed
+First Timeen(s[389])#Triketos
 > END STRING
 
 > BEGIN STRING
 視聴率 en(s[390])
 > CONTEXT: Map002/events/1/pages/0/1192/Choice/3
-view rateen(s[390])#MTLed
+Ratingsen(s[390])#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -1170,9 +1170,9 @@ view rateen(s[390])#MTLed
 
 この戦闘を閲覧しますか？
 > CONTEXT: Map002/events/1/pages/0/1196/Dialogue
-【Nina】: Ebony
+[Nina]: Ebony
 
-Do you want to view this battle?#MTLed
+Do you want to view this scene?#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -1180,9 +1180,9 @@ Do you want to view this battle?#MTLed
 
 この戦闘を閲覧しますか？
 > CONTEXT: Map002/events/1/pages/0/1212/Dialogue
-【Nina】: Lazy
+[Nina]: Ivory
 
-Do you want to view this battle?#MTLed
+Do you want to view this scene?#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -1190,9 +1190,9 @@ Do you want to view this battle?#MTLed
 
 この戦闘を閲覧しますか？
 > CONTEXT: Map002/events/1/pages/0/1228/Dialogue
-【Nina】: First Experience
+[Nina]: First Time
 
-Do you want to view this battle?#MTLed
+Do you want to view this scene?#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -1207,57 +1207,57 @@ Do you want to view this battle?#MTLed
 
 この戦闘を閲覧しますか？
 > CONTEXT: Map002/events/1/pages/0/1244/Dialogue
-【Nina】: view rate 0
+[Nina]: 0 Ratings
 
-Do you want to view this battle?#MTLed
+Do you want to view this scene?#Triketos
 > END STRING
 
 > BEGIN STRING
 エコー if(s[391])
 > CONTEXT: Map002/events/1/pages/0/1265/Choice/0
-Echoif(s[391])#MTLed
+Echoif(s[391])#Triketos
 > END STRING
 
 > BEGIN STRING
 スフィンクス if(s[394])
 > CONTEXT: Map002/events/1/pages/0/1265/Choice/1
-Sphinxif(s[394])#MTLed
+Sphinxif(s[394])#Triketos
 > END STRING
 
 > BEGIN STRING
 アルケニー if(s[399])
 > CONTEXT: Map002/events/1/pages/0/1265/Choice/2
-Archenyif(s[399])#MTLed
+Archenyif(s[399])#Triketos
 > END STRING
 
 > BEGIN STRING
 ティタノボア if(s[483])
 > CONTEXT: Map002/events/1/pages/0/1265/Choice/3
-Titanoboaif(s[483])#MTLed
+Titanoboaif(s[483])#Triketos
 > END STRING
 
 > BEGIN STRING
 "ヒント：人魚形態のエコーに犯される"
 > CONTEXT: Map002/events/1/pages/0/1276/InlineScript/2:1
-"Hint: Committed to mermaid form of Echo"#MTLed
+"Hint: Get raped by Echo's mermaid form."#Triketos
 > END STRING
 
 > BEGIN STRING
 "ヒント：蛞蝓状態のエコーに犯される"
 > CONTEXT: Map002/events/1/pages/0/1284/InlineScript/2:1
-"Hint: Committed to intoxicated Echo"#MTLed
+"Hint: Get raped by Echo's slug form."#Triketos
 > END STRING
 
 > BEGIN STRING
 キス搾精 en(s[392])
 > CONTEXT: Map002/events/1/pages/0/1288/Choice/0
-Kiss milkingen(s[392])#MTLed
+Kiss Milkingen(s[392])#Triketos
 > END STRING
 
 > BEGIN STRING
 洗脳搾精 en(s[393])
 > CONTEXT: Map002/events/1/pages/0/1288/Choice/1
-Brainwashing milkingen(s[393])#MTLed
+Brainwash Milkingen(s[393])#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -1265,9 +1265,9 @@ Brainwashing milkingen(s[393])#MTLed
 
 この戦闘を閲覧しますか？
 > CONTEXT: Map002/events/1/pages/0/1292/Dialogue
-【Echo】: Kissing milking
+[Echo]: Kissing Milking
 
-Do you want to view this battle?#MTLed
+Do you want to view this scene?#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -1275,9 +1275,9 @@ Do you want to view this battle?#MTLed
 
 この戦闘を閲覧しますか？
 > CONTEXT: Map002/events/1/pages/0/1308/Dialogue
-【Echo】: Brainwashing milking
+[Echo]: Brainwash Milking
 
-Do you want to view this battle?#MTLed
+Do you want to view this scene?#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -1308,19 +1308,19 @@ Do you want to view this battle?#MTLed
 > BEGIN STRING
 キス en(s[395])
 > CONTEXT: Map002/events/1/pages/0/1364/Choice/0
-kissen(s[395])#MTLed
+Kissen(s[395])#Triketos
 > END STRING
 
 > BEGIN STRING
 パイズリ en(s[396])
 > CONTEXT: Map002/events/1/pages/0/1364/Choice/1
-tit-fucken(s[396])#MTLed
+Tit-fucken(s[396])#Triketos
 > END STRING
 
 > BEGIN STRING
 フェラ en(s[397])
 > CONTEXT: Map002/events/1/pages/0/1364/Choice/2
-Blowjoben(s[397])#MTLed
+Blowjoben(s[397])#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -1334,9 +1334,9 @@ reverse piledriveren(s[398])#MTLed
 
 この戦闘を閲覧しますか？
 > CONTEXT: Map002/events/1/pages/0/1368/Dialogue
-【Sphinx】: Kiss
+[Sphinx]: Kiss
 
-Do you want to view this battle?#MTLed
+Do you want to view this scene?#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -1344,9 +1344,9 @@ Do you want to view this battle?#MTLed
 
 この戦闘を閲覧しますか？
 > CONTEXT: Map002/events/1/pages/0/1384/Dialogue
-【Sphinx】: tit-fuck
+[Sphinx]: Tit-fuck
 
-Do you want to view this battle?#MTLed
+Do you want to view this scene?#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -1354,9 +1354,9 @@ Do you want to view this battle?#MTLed
 
 この戦闘を閲覧しますか？
 > CONTEXT: Map002/events/1/pages/0/1400/Dialogue
-【Sphinx】: Blow
+[Sphinx]: Blowjob
 
-Do you want to view this battle?#MTLed
+Do you want to view this scene?#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -1366,7 +1366,7 @@ Do you want to view this battle?#MTLed
 > CONTEXT: Map002/events/1/pages/0/1416/Dialogue
 【Sphinx】: reverse piledriver
 
-Do you want to view this battle?#MTLed
+Do you want to view this scene?#MTLed
 > END STRING
 
 > BEGIN STRING
