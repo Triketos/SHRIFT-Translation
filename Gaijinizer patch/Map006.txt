@@ -149,7 +149,7 @@ You'll need to be guided to a safe place.」#Ron
 > CONTEXT: Map006/events/2/pages/0/44/Dialogue
 > CONTEXT: Map006/events/2/pages/1/44/Dialogue
 > CONTEXT: Map021/events/2/pages/0/44/Dialogue
-Yuuma「I see ...」#MTLed
+Yuuma「I see...」#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -313,7 +313,7 @@ a pretty rough time.#Ron
 > CONTEXT: Map006/events/2/pages/1/106/Dialogue/yuuma
 > CONTEXT: Map006/events/2/pages/3/36/Dialogue/yuuma
 > CONTEXT: Map021/events/2/pages/2/36/Dialogue/yuuma
-Hey don't say that. In fact it's thanks to that
+Hey, don't say that. In fact, it's thanks to that
 that I was able to safely evacuate you there.#Ron
 > END STRING
 
@@ -325,7 +325,7 @@ that I was able to safely evacuate you there.#Ron
 > CONTEXT: Map006/events/2/pages/1/112/Dialogue/yuuma
 > CONTEXT: Map006/events/2/pages/3/42/Dialogue/yuuma
 > CONTEXT: Map021/events/2/pages/2/42/Dialogue/yuuma
-... That's right. Securing your safety is now
+...That's right. Securing your safety is now
 top priorty. Listen carefully to what I'm
 about to say.#Ron
 > END STRING
@@ -336,7 +336,7 @@ about to say.#Ron
 > CONTEXT: Map006/events/2/pages/1/116/Dialogue/kazuya
 > CONTEXT: Map006/events/2/pages/3/46/Dialogue/kazuya
 > CONTEXT: Map021/events/2/pages/2/46/Dialogue/kazuya
-... Okay.#Ron
+...Okay.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -381,7 +381,7 @@ up right now but...#Aesthetic
 > CONTEXT: Map006/events/2/pages/1/130/Dialogue/kazuya
 > CONTEXT: Map006/events/2/pages/3/60/Dialogue/kazuya
 > CONTEXT: Map021/events/2/pages/2/60/Dialogue/kazuya
-... I really was here just in time.#Ron
+...I really did just wake up in time.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -391,7 +391,10 @@ up right now but...#Aesthetic
 > CONTEXT: Map006/events/2/pages/0/129/Dialogue/yuuma
 > CONTEXT: Map006/events/2/pages/1/132/Dialogue/yuuma
 > CONTEXT: Map006/events/2/pages/3/62/Dialogue/yuuma
-I'm needed here to keep things safe.#Aesthetic
+I'm needed to stay here to keep things safe.
+
+I'm sorry, but I can't come over there to
+rescue you.#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -479,7 +482,7 @@ first time.#Ron
 > CONTEXT: Map006/events/2/pages/0/159/Dialogue/kazuya
 > CONTEXT: Map006/events/2/pages/1/162/Dialogue/kazuya
 > CONTEXT: Map006/events/2/pages/3/92/Dialogue/kazuya
-G-gee... thanks for the warning!#Ron
+G-geez, thanks for the warning...!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -527,7 +530,7 @@ vibrations.#Ron
 > CONTEXT: Map006/events/2/pages/1/176/Dialogue/yuuma
 > CONTEXT: Map006/events/2/pages/3/106/Dialogue/yuuma
 My voice is also transmitted directly via your
-ear bones. Only you can hear it. Or at least
+ear bones. Only you can hear it. ...Or at least
 that's what's supposed to happen. Apparently
 demons around you can somehow hear it.#Ron
 > END STRING
@@ -587,7 +590,7 @@ Please be careful.#Ron
 > CONTEXT: Map006/events/2/pages/0/194/Dialogue/kazuya
 > CONTEXT: Map006/events/2/pages/1/197/Dialogue/kazuya
 > CONTEXT: Map006/events/2/pages/3/127/Dialogue/kazuya
-... If you can't move from where you are then
+...If you can't move from where you are then
 there's no other way.
 Understood, I'll give it a try.#Ron
 > END STRING
@@ -798,7 +801,7 @@ Raaaarr.........#Ron
 　　　　　　こちらの存在を認識するやいなや、駆け寄ってくる
 > CONTEXT: Map006/events/3/pages/1/45/Dialogue
 > CONTEXT: Map021/events/3/pages/1/42/Dialogue
-A demon called a barghest. It rushed up to me the
+It was a demon called a Barghest. It rushed up the
 moment it noticed me.#Ron
 > END STRING
 
@@ -842,8 +845,8 @@ Haaaaah! Haaaah!!#Ron
 
 体勢が整ったらまた襲ってくるかもしんないのによ。
 > CONTEXT: Map006/events/3/pages/1/68/Dialogue/other1
-Eh, you let it go? Well aren't you the nice guy.
-If it recovers it might attack again.#Aesthetic
+Oh, you let it go? Well aren't you a nice guy.
+She might attack us again once she's recovered.#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -852,10 +855,10 @@ If it recovers it might attack again.#Aesthetic
 
 \\C[0]まぁ、そのうち分かるだろうさ。
 > CONTEXT: Map006/events/3/pages/1/72/Dialogue/other1
-Well, \\C[2]it's not like those guys come at you
-with the intent to kill. If you're gentle, maybe
+Well, \\C[2]it's not like those guys are trying
+to kill you either. If you're gentle, maybe
 they'll respond to some extent. \\C[0]Well, you'll
-understand eventually.#Aesthetic
+understand eventually.#Aesthetic/Triketos
 > END STRING
 
 > BEGIN STRING
@@ -863,7 +866,8 @@ understand eventually.#Aesthetic
 
 まぁ、今後のことを考えれば始末しておいた方がいいけどよ。
 > CONTEXT: Map006/events/3/pages/1/79/Dialogue/other1
-...Brutal. 
+...Brutal.
+
 Well, if we're thinking about the future, it'll
 be easier to finish them off.#Aesthetic
 > END STRING
@@ -912,10 +916,10 @@ that shoots out a lead ball.#Aesthetic
 さっきからお前、何でも知ってるみたいに言ってるけど…
 いったい何者なんだよ！？
 > CONTEXT: Map006/events/3/pages/1/101/Dialogue/kazuya
-Wa!Wait a minute!! 
-From a little while ago, you've been talking like
-you know everything...
-Who the hell are you!?#Aesthetic
+W-Wait a minute!!
+
+You just got here and are acting like you know
+everything... Who the hell are you!?#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -932,8 +936,9 @@ Well, we'll be able to meet again soon.#Aesthetic
 
 犯られんじゃねぇぞ？
 > CONTEXT: Map006/events/3/pages/1/109/Dialogue/other1
-Until then, \\C[2]Save frequently?\\C[0]
-Wait... you can't be killed can you?#Aesthetic
+Until then, \\C[2]don't forget to Save.\\C[0]
+
+Don't get raped, eh?#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -1055,5 +1060,5 @@ as a diversion.#Ron
 I've got a shotgun now. So to whoever's reading this
 memo, I leave to you a peashooter I've been keeping
 as a precious emergency weapon.
-Yoshihiro#Ron
+-Yoshihiro#Ron
 > END STRING

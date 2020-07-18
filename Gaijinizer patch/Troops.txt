@@ -287,8 +287,9 @@ at something that doesn't want to fight?#Ron
 
 \\C[2]あいつはお前と『交尾』したがってるだけなんだからな
 > CONTEXT: Troops/2/pages/2/49/Dialogue/other1
-Well of course. \\C[2]She only wants to mate
-with you.#Ron
+Well, of course. 
+
+\\C[2]She only wants to mate with you.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -341,7 +342,7 @@ in this darkness!!#Ron
 > BEGIN STRING
 ウウウゥ……
 > CONTEXT: Troops/2/pages/4/9/Dialogue/バーゲスト
-Raaar ......#MTLed
+Raaar......#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -355,7 +356,8 @@ Ah rats... it's been spooked away.#Ron
 ま、まずい……
 完全に姿を見失った……
 > CONTEXT: Troops/2/pages/4/16/Dialogue/kazuya
-This... is bad. I've completely lost sight of it.#Ron
+This is bad...
+I've completely lost sight of it.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -424,7 +426,7 @@ What're you saying!!?#Ron
 > BEGIN STRING
 ワォン♡♡
 > CONTEXT: Troops/2/pages/5/0/Dialogue/バーゲスト2
-Woof ♡ ♡#Ron
+Woof ♡♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -447,8 +449,9 @@ Y-Yeah but...#Ron
 
 『\\C[27]あのおっぱい達に埋もれたい\\C[0]』とか思ってるな？
 > CONTEXT: Troops/2/pages/5/14/Dialogue/other1
-... Riiight, I see what's happening.
-\\C[27]I want to be buried in those boobs\\C[0], is that it?#Ron
+...Riiight, I see what's happening.
+\\C[27]You want to be buried in those boobs\\C[0],
+is that it?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -456,7 +459,7 @@ Y-Yeah but...#Ron
 
 やっぱり無抵抗な奴を撃つのはためらうんだ！
 > CONTEXT: Troops/2/pages/5/18/Dialogue/kazuya-0
-I-, idiot!! Stop saying weird stuff!!
+I-idiot!! Stop saying weird things!!
 I really can't shoot something that isn't
 fighting back!#Ron
 > END STRING
@@ -466,7 +469,7 @@ fighting back!#Ron
 
 そ、そこばっかり気になるじゃないか…！！
 > CONTEXT: Troops/2/pages/5/22/Dialogue/kazuya-0
-I mean stop saying such weird stuff...!
+I mean, stop saying such weird stuff...!
 Like I'd be interested in that thing...!!#Ron
 > END STRING
 
@@ -486,7 +489,7 @@ body is designed to tempt you.\\C[0]#Ron
 服を脱いだ状態だと\\C[2]『屈服』コマンドで飛びつけるからな。
 > CONTEXT: Troops/2/pages/5/30/Dialogue/other1
 If you've got your clothes off and you're
-thinking "Oh man I can't hold back", \\C[2]you can
+thinking "Oh man, I can't hold back", \\C[2]you can
 jump her bones with the "Submit" command.#Ron
 > END STRING
 
@@ -517,7 +520,7 @@ Barghest (ambush)#MTLed
 > BEGIN STRING
 はあーっ…！はあーっ…
 > CONTEXT: Troops/3/pages/1/6/Dialogue/kazuya-0
-AHHH ...!AHHH ...#MTLed
+Ahhh...! Ah....#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -655,7 +658,7 @@ the moment I give in to the pleasure.#Ron
 > BEGIN STRING
 ……おっと、お取り込み中だったか？
 > CONTEXT: Troops/3/pages/2/84/Dialogue/other1
-... Whoops, were you in the middle of something?#Ron
+...Whoops, were you in the middle of something?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -712,13 +715,15 @@ Hey!! Are you listening to me!?#Ron
 
 \\{集中できるかぁ！！
 > CONTEXT: Troops/3/pages/2/121/Dialogue/kazuya-0
-As, as if I could focus!!! \\{In this situation!!#Ron
+As, as if I could focus!!! 
+
+\\{In this situation!!#Ron
 > END STRING
 
 > BEGIN STRING
 ………それもそうか。
 > CONTEXT: Troops/3/pages/2/126/Dialogue/other1
-... Oh, fair enough.#Ron
+...Oh, fair enough.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1476,8 +1481,8 @@ back. \\C[1]You will ejaculate.#Ron
 『\\I[1557]\\C[2]搾精状態\\C[0]』の状態異常に陥っていた場合……
 あなたは\\C[18]ゲームオーバー\\C[0]になってしまいます。
 > CONTEXT: Troops/19/pages/0/28/Dialogue/other1
-This symbol, \\I[1557]\\C[2] milking state\\C[0], means you are being
-fucked or semen squeezed by an opponent. If you
+This symbol, \\I[1557]\\C[2] milking state\\C[0], means you are
+being fucked or milked by an opponent. If you
 fall into this state, it's \\C[18]Game Over\\C[0].#Ron
 > END STRING
 
@@ -1522,7 +1527,7 @@ you need in order to take actions.#Ron
 
 『行動』コマンドの中にある\\C[2]「\\I[1034]深呼吸」\\C[0]を選んでください
 > CONTEXT: Troops/19/pages/0/46/Dialogue/other1
-Please choose \\C[2]「\\I[1034] Deep Breathing」\\C[0]
+Please choose \\C[2]"\\I[1034] Deep Breathing"\\C[0]
 in the "Action" menu, or choose
 \\C[2]"Rest"\\C[0].#Triketos
 > END STRING
@@ -1638,9 +1643,10 @@ body part has been bound by your opponent.#Ron
 
 解除しますが、\\C[2]手や足を拘束されていると使えません。
 > CONTEXT: Troops/19/pages/1/56/Dialogue/other1
-"Kick Off" and "Shake Off" will reliably free you.
-There is a catch, though: \\C[2]you cannot use them if
-your hands and feet are both bound.#Triketos
+"Kick Off" and "Shake Off" will reliably
+free you. There is a catch, though: \\C[2]you
+cannot use them if your hands and feet are
+both bound.#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -1657,7 +1663,8 @@ what happens after I do this anyway weren't you?#Ron
 
 あなたは今、\\C[2]足が拘束されています。
 > CONTEXT: Troops/19/pages/1/69/Dialogue/other1
-............ Well I guess that's fine.
+......Well I guess that's fine.
+
 \\C[2]Your feet are now bound.#Ron
 > END STRING
 
@@ -1728,7 +1735,7 @@ Well then, how about THIS?#Ron
 > BEGIN STRING
 ………ランパス、度が過ぎていますよ。
 > CONTEXT: Troops/19/pages/2/11/Dialogue/other1
-......... Lampas, you're going a bit far.#Ron
+......Lampas, you're going a bit far.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1754,7 +1761,7 @@ him, I think he needs this kind of practice. ♡#Ron
 
 それでは、『抵抗スキル』で切り抜けてみてください。
 > CONTEXT: Troops/19/pages/2/21/Dialogue/other1
-......There's nothing for it I suppose. Then 
+......There's nothing for it I suppose. Then, 
 please try to find your way out of this
 situation using the "Struggle" skill.#Ron
 > END STRING
@@ -1802,8 +1809,10 @@ I'll play with you more next time we meet. ♡#Ron
 
 ともあれ、無事に『抵抗』スキルを使いこなせたようですね。
 > CONTEXT: Troops/19/pages/3/29/Dialogue/other1
-Good grief...... Anyway, you seem to have been
-able to master the "Struggle" skills successfully.#Ron
+Good grief...... 
+
+Anyways, you seem to have been able to master
+the "Struggle" skills successfully.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1911,9 +1920,9 @@ moments for struggling and recovery.#Ron
 \\C[2]何より『立ち向かう決意』を捨ててしまわぬように……
 > CONTEXT: Troops/19/pages/4/24/Dialogue/other1
 Of course it is important to want to have a
-quick, decisive battle by dealing a lot of damage,
-\\C[2]but above all make sure you don't throw
-away your "Determination to fight"......#Ron
+quick, decisive battle by dealing a lot of
+damage, \\C[2]but above all make sure you don't
+throw away your "Determination" to fight......#Ron
 > END STRING
 
 > BEGIN STRING
