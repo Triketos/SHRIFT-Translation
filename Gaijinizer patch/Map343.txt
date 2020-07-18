@@ -79,7 +79,10 @@ to drag you down...#DL
 
 たとえ、『あれ』とは無縁な結末を迎えたあなたでも…
 > CONTEXT: Map343/events/4/pages/1/30/Dialogue/other1 < UNTRANSLATED
+Just as Hecate tried to get you to kill her,
+there are more ways for it to get in.
 
+Even if you've ended up with no connection to that...
 > END STRING
 
 > BEGIN STRING
@@ -348,7 +351,9 @@ all the time. Who are you, really!?#DL
 
 封印した張本人さんとしては！！
 > CONTEXT: Map343/events/8/pages/0/119/Dialogue/kazuya < UNTRANSLATED
+I mean, you can't allow that to happen!
 
+As the person who sealed it!
 > END STRING
 
 > BEGIN STRING
@@ -357,11 +362,10 @@ all the time. Who are you, really!?#DL
 
 けど、人間界には特に影響でないからいいんじゃね？
 > CONTEXT: Map343/events/8/pages/0/124/Dialogue/クッション君 < UNTRANSLATED
-
-
-Well, I guess the Tartarus will be noisy for a while, so it'll be a bit of a hassle to write a cleanup letter.
-
-But it's okay because it doesn't really affect the human world, right?
+Well, I guess the Tartarus will be noisy for a
+while, so it'll be a bit of a hassle to write a
+cleanup letter. But it's okay because it won't
+really affect the human world.#DL
 > END STRING
 
 > BEGIN STRING
@@ -526,8 +530,8 @@ trying to get back to the Human World...?#DL
 
 理性での感覚でしか予想はできませんが……
 > CONTEXT: Map343/events/8/pages/0/200/Dialogue/other1
-Although I'm one half of her, I didn't inherit her
-'desire'.
+Although I'm one half of her, I didn't inherit
+her 'desire'.
 
 I can only predict what she's thinking, but...#DL
 > END STRING
@@ -560,8 +564,11 @@ for humans.#DL
 憧れは趣向へと変わり、恋心は食欲と成り果て……
 
 暴走する魔力と共に、彼女はどんどん狂っていきました
-> CONTEXT: Map343/events/8/pages/0/218/Dialogue/other1 < UNTRANSLATED
+> CONTEXT: Map343/events/8/pages/0/218/Dialogue/other1
+Longing turned to taste, and love turned to
+appetite....
 
+She went crazy with the runaway magical power...#DL
 > END STRING
 
 > BEGIN STRING
@@ -569,16 +576,21 @@ for humans.#DL
 
 いまの自分が、遠い昔に人間の絵本で読んだ
 『わるいやつ』と同じだということに……
-> CONTEXT: Map343/events/8/pages/0/222/Dialogue/other1 < UNTRANSLATED
-
+> CONTEXT: Map343/events/8/pages/0/222/Dialogue/other1
+But I think she knew deep down that she was the
+same as the "bad guy" she read about in human
+books a long time ago.#DL
 > END STRING
 
 > BEGIN STRING
 \\C[2]人間に憧れていた幼心との葛藤……
 
 彼女の心の底には、それが未練として残っています
-> CONTEXT: Map343/events/8/pages/0/227/Dialogue/other1 < UNTRANSLATED
-
+> CONTEXT: Map343/events/8/pages/0/227/Dialogue/other1
+\\C[2]Conflict with a young heart that longed to
+be human.......
+Deep down in her heart, it remains an
+unresolved issue.#DL
 > END STRING
 
 > BEGIN STRING
@@ -586,16 +598,23 @@ for humans.#DL
 
 果敢に立ち向かう『人間』に滅ぼされたいのです。
 かつて憧れていた、『悪に立ち向かう人間』に…
-> CONTEXT: Map343/events/8/pages/0/231/Dialogue/other1 < UNTRANSLATED
-
+> CONTEXT: Map343/events/8/pages/0/231/Dialogue/other1
+\\C[2]She's not an angel with great power, nor is she
+a demon...
+She wants to be destroyed by the humans who dare
+to stand up to them. 
+She has always wanted to be destroyed by a human
+who stands up against evil.#DL
 > END STRING
 
 > BEGIN STRING
 俺も一回は反対したんだけどな
 
 あの『黒狐』に、普通の人間が敵うはずねぇってさ
-> CONTEXT: Map343/events/8/pages/0/241/Dialogue/クッション君 < UNTRANSLATED
-
+> CONTEXT: Map343/events/8/pages/0/241/Dialogue/クッション君
+I was against it at one time, because there is
+no way a normal person can match the
+Black Fox.#DL
 > END STRING
 
 > BEGIN STRING
@@ -603,8 +622,13 @@ for humans.#DL
 実力もだいぶバカにできないレベルになってきたから
 
 もうちょっと力をつければ、あるいはって思ってる
-> CONTEXT: Map343/events/8/pages/0/245/Dialogue/クッション君 < UNTRANSLATED
+> CONTEXT: Map343/events/8/pages/0/245/Dialogue/クッション君
+But you, you've been filling up the Compendium
+somehow, and you're getting to a rather unusal
+level of skill.
 
+If you're able to get just a bit more
+power, maybe...#DL
 > END STRING
 
 > BEGIN STRING
@@ -612,8 +636,11 @@ for humans.#DL
 一度倒されて、半分以上魔力も失われている状態だ
 
 まっ、力試しにやってみりゃいいんじゃね？
-> CONTEXT: Map343/events/8/pages/0/250/Dialogue/クッション君 < UNTRANSLATED
-
+> CONTEXT: Map343/events/8/pages/0/250/Dialogue/クッション君
+I don't care if it's the Black Fox in its prime,
+it was defeated once and has lost more than half
+of its magic power.
+Well, why don't you just try your hand at it?#DL
 > END STRING
 
 > BEGIN STRING
@@ -682,7 +709,7 @@ And the one who created the Intervention Device...#DL
 会っても大したことは教えてくれないと思うけどな
 
 \\C[0]実際、俺らもよく知らねぇんだ。
-> CONTEXT: Map343/events/8/pages/0/288/Dialogue/クッション君 < UNTRANSLATED
+> CONTEXT: Map343/events/8/pages/0/288/Dialogue/クッション君
 Well, \\C[2]he's a guy who doesn't want his fate
 to change on his own terms, so I don't think he'd
 be able to tell you much about it if you met him.
@@ -707,10 +734,9 @@ of things to ask them.#DL
 
 その時に、私はこの『黒狐』を解放いたしましょう。
 > CONTEXT: Map343/events/8/pages/0/299/Dialogue/other1
-\\C[2Please speak to me again after releasing all
-the EX crystals.\\C[0]
-
-Once you've done it, I will release this "Black Fox".#DL
+\\C[2]Please speak to me again after releasing all
+the EX crystals.\\C[0] Once you've done it, I will
+release the Black Fox.#DL
 > END STRING
 
 > BEGIN STRING
