@@ -145,6 +145,12 @@ The Barghest is trying to escape...#Ron
 > CONTEXT: Troops/320/pages/2/45/Choice/0
 > CONTEXT: Troops/321/pages/2/45/Choice/0
 > CONTEXT: Troops/322/pages/2/45/Choice/0
+> CONTEXT: Troops/329/pages/2/26/Choice/0
+> CONTEXT: Troops/330/pages/2/36/Choice/0
+> CONTEXT: Troops/331/pages/2/36/Choice/0
+> CONTEXT: Troops/338/pages/2/36/Choice/0
+> CONTEXT: Troops/339/pages/2/36/Choice/0
+> CONTEXT: Troops/340/pages/2/36/Choice/0
 Let her go#Dargoth
 > END STRING
 
@@ -1677,7 +1683,7 @@ Try using the appropriate "Struggle" skill.#Ron
 > BEGIN STRING
 ………無事に気力を回復できたようですね。
 > CONTEXT: Troops/19/pages/1/90/Dialogue/other1
-......... It looks like you were able to recover
+.........It looks like you were able to recover
 your \\C[23]Vitality\\C[0] without issue.#Ron
 > END STRING
 
@@ -1960,7 +1966,7 @@ Crap...!! I've gotta get outta here...!!#Ron
 > CONTEXT: Troops/298/pages/2/21/Dialogue
 > CONTEXT: Troops/305/pages/2/21/Dialogue
 > CONTEXT: Troops/309/pages/2/21/Dialogue
-Lampas is about to run away .........#MTLed
+Lampas is about to get away......#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -2304,7 +2310,7 @@ that high. ♪#Ron
 > CONTEXT: Troops/24/pages/0/33/Dialogue/enemy
 Buuuut... ♡
 Since I'm a plant I can release lots of sweeeet
-necatr. ♡#Ron
+nectar. ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -3908,7 +3914,7 @@ Do not get in the way……!!Little fish stunts
 > CONTEXT: Troops/107/pages/2/18/Dialogue
 > CONTEXT: Troops/108/pages/2/18/Dialogue
 > CONTEXT: Troops/162/pages/2/18/Dialogue
-Mukuro is about to run away .........#MTLed
+Mukuro is about to run away......#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -6705,7 +6711,7 @@ Sphinx (Normal)#MTLed
 さぁ！！それじゃあ第一問！！いくよぉ！！
 
 \\C[2]選択肢は４つ用意するから、その中から選んでね！！
-> CONTEXT: Troops/150/pages/1/12/Dialogue/enemy11
+> CONTEXT: Troops/150/pages/1/17/Dialogue/enemy11
 Here's question number one!! Let's go!!
 
 \\C[2]Choose from one of the following four
@@ -6715,14 +6721,14 @@ answers!#Ron
 > BEGIN STRING
 問題！！
 \\C[2]「よんでもよんでも、返事をしないものはなぁに？」
-> CONTEXT: Troops/150/pages/1/19/Dialogue/enemy11
+> CONTEXT: Troops/150/pages/1/24/Dialogue/enemy11
 Question!! \\C[2]"What doesn't give you an answer
 no matter how many times you read it?"#Ron
 > END STRING
 
 > BEGIN STRING
 （………本当になぞなぞのレベルが一気に落ちた…
-> CONTEXT: Troops/150/pages/1/22/Dialogue/kazuya
+> CONTEXT: Troops/150/pages/1/27/Dialogue/kazuya
 (...The quality of these riddles has really
 declined...)#Ron
 > END STRING
@@ -6731,7 +6737,7 @@ declined...)#Ron
 どうやら、この先に進むには
 
 この悪魔のナゾナゾに答えなければならないようだ…
-> CONTEXT: Troops/150/pages/1/24/Dialogue
+> CONTEXT: Troops/150/pages/1/29/Dialogue
 It seems I have to answer this riddle if I want to
 proceed...#Ron
 > END STRING
@@ -6740,7 +6746,7 @@ proceed...#Ron
 だが、見た感じ、そこまで知能は高そうに見えない…
 
 さっさとナゾナゾに答えて、先に進んでしまおう……
-> CONTEXT: Troops/150/pages/1/28/Dialogue
+> CONTEXT: Troops/150/pages/1/33/Dialogue
 But this riddle doesn't seem that clever...
 
 Let's quickly answer this one and move on...#Ron
@@ -6748,7 +6754,7 @@ Let's quickly answer this one and move on...#Ron
 
 > BEGIN STRING
 じー･･････････････････････…
-> CONTEXT: Troops/150/pages/1/32/Dialogue/enemy11
+> CONTEXT: Troops/150/pages/1/37/Dialogue/enemy11
 *staaaaaaaaaare*#Ron
 > END STRING
 
@@ -6756,7 +6762,7 @@ Let's quickly answer this one and move on...#Ron
 …ま、まぁいいや、
 
 それじゃあ、答えは……
-> CONTEXT: Troops/150/pages/1/34/Dialogue/kazuya
+> CONTEXT: Troops/150/pages/1/39/Dialogue/kazuya
 ...W-Well whatever, here's my answer...#Ron
 > END STRING
 
@@ -8586,7 +8592,7 @@ Camazotz (Normal)#MTLed
 > CONTEXT: Troops/271/pages/2/6/Dialogue/enemy16
 > CONTEXT: Troops/301/pages/2/6/Dialogue/enemy16
 > CONTEXT: Troops/302/pages/2/6/Dialogue/enemy16
-> CONTEXT: Troops/324/pages/2/6/Dialogue/enemy16
+> CONTEXT: Troops/329/pages/2/6/Dialogue/enemy16
 Gaaah!!
 
 Why! Hate me!!#afrg
@@ -8602,7 +8608,12 @@ Why! Hate me!!#afrg
 > CONTEXT: Troops/271/pages/2/20/Dialogue
 > CONTEXT: Troops/301/pages/2/24/Dialogue
 > CONTEXT: Troops/302/pages/2/24/Dialogue
-> CONTEXT: Troops/324/pages/2/24/Dialogue
+> CONTEXT: Troops/329/pages/2/24/Dialogue
+> CONTEXT: Troops/330/pages/2/34/Dialogue
+> CONTEXT: Troops/331/pages/2/34/Dialogue
+> CONTEXT: Troops/338/pages/2/34/Dialogue
+> CONTEXT: Troops/339/pages/2/34/Dialogue
+> CONTEXT: Troops/340/pages/2/34/Dialogue
 Camazotz is trying to escape .........#afrg
 > END STRING
 
@@ -8617,7 +8628,12 @@ Camazotz is trying to escape .........#afrg
 > CONTEXT: Troops/271/pages/2/39/Dialogue/enemy16
 > CONTEXT: Troops/301/pages/2/43/Dialogue/enemy16
 > CONTEXT: Troops/302/pages/2/43/Dialogue/enemy16
-> CONTEXT: Troops/324/pages/2/43/Dialogue/enemy16
+> CONTEXT: Troops/329/pages/2/43/Dialogue/enemy16
+> CONTEXT: Troops/330/pages/2/53/Dialogue/enemy16
+> CONTEXT: Troops/331/pages/2/53/Dialogue/enemy16
+> CONTEXT: Troops/338/pages/2/53/Dialogue/enemy16
+> CONTEXT: Troops/339/pages/2/53/Dialogue/enemy16
+> CONTEXT: Troops/340/pages/2/53/Dialogue/enemy16
 Gaah!!!#afrg
 > END STRING
 
@@ -8635,7 +8651,7 @@ Gaah!!!#afrg
 > CONTEXT: Troops/271/pages/2/55/Dialogue
 > CONTEXT: Troops/301/pages/2/54/Dialogue
 > CONTEXT: Troops/302/pages/2/54/Dialogue
-> CONTEXT: Troops/324/pages/2/54/Dialogue
+> CONTEXT: Troops/329/pages/2/54/Dialogue
 By achieving victory in battle, \\C[2]I regained
 
 some confidence in fighting Camazotz...#afrg
@@ -11699,13 +11715,10 @@ Daiji(Dream)#Triketos
 > END STRING
 
 > BEGIN STRING
-………………
-
 気が付くと、フワフワとした絨毯のような場所に
-仰向けに埋もれている……
-> CONTEXT: Troops/298/pages/1/34/Dialogue
-.........
 
+仰向けに埋もれている……
+> CONTEXT: Troops/298/pages/1/33/Dialogue
 Before you know it, you're buried on your back
 in a place that looks like a fluffy carpet........#DL
 > END STRING
@@ -11714,7 +11727,7 @@ in a place that looks like a fluffy carpet........#DL
 ハーーッ………♡
 
 ハーーッ………
-> CONTEXT: Troops/298/pages/1/40/Dialogue/enemy18
+> CONTEXT: Troops/298/pages/1/38/Dialogue/enemy18
 Haaaah......♡
 
 Haaaaah......#DL
@@ -11725,7 +11738,7 @@ Haaaaah......#DL
 その絨毯が、呼吸に合わせて上下している事に気付く。
 
 頭の上から、荒々しい息遣いが聞こえる……
-> CONTEXT: Troops/298/pages/1/44/Dialogue
+> CONTEXT: Troops/298/pages/1/42/Dialogue
 After letting my body sit for a while, I noticed
 that the carpet was moving up and down
 with my breathing. From above my head,
@@ -11736,7 +11749,7 @@ I can hear ragged breathing........#DL
 この感触は、触り覚えがある………
 
 これは確か、\\C[2]妲己の『ビーストフォーム』の…
-> CONTEXT: Troops/298/pages/1/49/Dialogue
+> CONTEXT: Troops/298/pages/1/47/Dialogue
 This feeling is familiar......
 
 I'm pretty sure this is\\C[2] Daiji's "Beast" form...#DL
@@ -11747,7 +11760,7 @@ I'm pretty sure this is\\C[2] Daiji's "Beast" form...#DL
 
 ニンゲンの夢の中ならではの射精地獄SHOW！！
 まどろみの無限絶頂タイムがやってまいりました！！
-> CONTEXT: Troops/298/pages/1/68/Dialogue/enemy28
+> CONTEXT: Troops/298/pages/1/62/Dialogue/enemy28
 It's what you all have been waiting for!
 The ejaculation hell show that only a human's
 dream can provide!!
@@ -11759,7 +11772,7 @@ The endless climax time of slumber has arrived!!#DL
 
 人の全ての快楽のツボを知り尽くしたド淫乱妖狐こと
 傾国のアイドル、妲己ちゃんがお送りしますー！！
-> CONTEXT: Troops/298/pages/1/73/Dialogue/enemy28
+> CONTEXT: Troops/298/pages/1/67/Dialogue/enemy28
 The opponent is me!
 This time around, we're going to show you
 Daiji-chan, the lewd courtsean kitsune who knows
@@ -11770,8 +11783,8 @@ every weak point of pleasure~!#DL
 そ、し、てぇ……
 今回犠牲になる、幸運で憐れなニンゲンくんはぁ♡
 
-皆さんご存知！\\n[1]くんでーす！！
-> CONTEXT: Troops/298/pages/1/79/Dialogue/enemy28
+皆さんご存知！\\N[1]くんでーす！！
+> CONTEXT: Troops/298/pages/1/72/Dialogue/enemy28
 The lucky and pitiful victim who will be
 sacrificed this time is...♡
 
@@ -11780,16 +11793,16 @@ Everyone knows who! It's \\n[1]-kun!!#DL
 
 > BEGIN STRING
 アオオォォォォォン！！
-> CONTEXT: Troops/298/pages/1/86/Dialogue/enemy18
+> CONTEXT: Troops/298/pages/1/79/Dialogue/enemy18
 Awoooooo!!
 > END STRING
 
 > BEGIN STRING
-………あれぇ？どうしたのかな、\\n[1]くん。
+………あれぇ？どうしたのかな、\\N[1]くん。
 鳩が豆鉄砲くらったような顔しちゃって。
 
 私が誰だか分かってない感じかなぁ？
-> CONTEXT: Troops/298/pages/1/107/Dialogue/enemy28
+> CONTEXT: Troops/298/pages/1/81/Dialogue/enemy28
 ...Something wrong? What's the matter,
 \\n[1]-kun? You look like a bird that just
 got shot down... Do you not know who I am?#DL
@@ -11800,7 +11813,7 @@ got shot down... Do you not know who I am?#DL
 \\C[0]ジェルフォームみたいに、人格すらも変化してるの
 
 キミの前に現れる姿としては、５体目の姿…………
-> CONTEXT: Troops/298/pages/1/112/Dialogue/enemy28
+> CONTEXT: Troops/298/pages/1/86/Dialogue/enemy28
 Yes, I'm \\C[2]Daiji\\C[0].
 Like my "Gel" form, even my personality changes.
 
@@ -11812,7 +11825,7 @@ This is the fifth figure to appear before you...#DL
 
 アハハッ
 まぁ、どうでもいいか！！
-> CONTEXT: Troops/298/pages/1/117/Dialogue/enemy28
+> CONTEXT: Troops/298/pages/1/91/Dialogue/enemy28
 Oh, if you add Yuuma, I'm the sixth one, right?
 
 Ahahaha.
@@ -11820,18 +11833,11 @@ Well, I don't care!#DL
 > END STRING
 
 > BEGIN STRING
-
-ヘッ♡ヘッ♡ヘッ♡ヘッ♡
-> CONTEXT: Troops/298/pages/1/122/Dialogue/enemy18
-Hehehehehe♡#DL
-> END STRING
-
-> BEGIN STRING
-んー？なぁに、\\n[1]くん
+んー？なぁに、\\N[1]くん
 もしかして『妲己』が二人いることが不思議？
 
 さすがに夢の中とはいえ、あり得ないって？
-> CONTEXT: Troops/298/pages/1/127/Dialogue/enemy28
+> CONTEXT: Troops/298/pages/1/98/Dialogue/enemy28
 Hmm? What did you say, Kazuya?
 Is it strange that there are two "Daiji's"?
 
@@ -11843,7 +11849,7 @@ How is that possible, even though it's a dream?#DL
 『人格』をブレさせるのは、『個』の消失をまねく……
 
 人の『多重人格』が、毎回一人ずつ出てくるのと一緒。
-> CONTEXT: Troops/298/pages/1/132/Dialogue/enemy28
+> CONTEXT: Troops/298/pages/1/103/Dialogue/enemy28
 ...It's true, even for a shape-shifting demon, to
 alter their personality is to lose their
 individuality... It is the same as when "multiple
@@ -11854,7 +11860,7 @@ personalities" of a person appear one by one.#DL
 でも、それこそが『この姿』の私の能力…
 
 この赤い糸が見える？\\n[1]くん。
-> CONTEXT: Troops/298/pages/1/140/Dialogue/enemy28
+> CONTEXT: Troops/298/pages/1/126/Dialogue/enemy28
 But that's exactly what I'm capable of in
 this form...
 
@@ -11866,7 +11872,7 @@ Do you see this red thread, \\n[1]-kun?#DL
 私はこの糸で『他の妲己』を操っている……
 
 \\C[0]そういう『理由付け』で、この空間は成り立ってるの。
-> CONTEXT: Troops/298/pages/1/144/Dialogue/enemy28
+> CONTEXT: Troops/298/pages/1/130/Dialogue/enemy28
 This are my \\C[2]"strings"...
 I'm using this thread to control the other Daiji.....
 
@@ -11878,7 +11884,7 @@ I'm using this thread to control the other Daiji.....
 キミを抱きかかえているビーストの『妲己』も
 
 ちゃんと『個』として存在できているのよ
-> CONTEXT: Troops/298/pages/1/149/Dialogue/enemy28
+> CONTEXT: Troops/298/pages/1/135/Dialogue/enemy28
 In other words, the "Daiji" that I am describing
 now is also the Beast that's
 holding you, "Daiji".
@@ -11887,7 +11893,7 @@ I can exist as an individual.#DL
 
 > BEGIN STRING
 ワウッ！！！♡
-> CONTEXT: Troops/298/pages/1/154/Dialogue/enemy18
+> CONTEXT: Troops/298/pages/1/140/Dialogue/enemy18
 Wan!!!♡#DL
 > END STRING
 
@@ -11896,7 +11902,7 @@ Wan!!!♡#DL
 
 ビーストの私は、だいぶ性欲に従順な単細胞だから
 そろそろ『待て』が限界みたい
-> CONTEXT: Troops/298/pages/1/182/Dialogue/enemy28
+> CONTEXT: Troops/298/pages/1/168/Dialogue/enemy28
 Ah... I'm sorry.
 Beast-chan's a fairly submissive simple-minded
 person, so I guess it's about time I stopped
@@ -11908,7 +11914,7 @@ saying "Wait".#DL
 
 彼女の獣毛は、１本１本こだわり抜いた
 触るだけでも感じちゃう、最高級のモフモフだよ♡
-> CONTEXT: Troops/298/pages/1/190/Dialogue/enemy28
+> CONTEXT: Troops/298/pages/1/174/Dialogue/enemy28
 Does it feel good?
 Every single one of her animal hairs was
 carefully crafted. It's the highest grade
@@ -11920,7 +11926,7 @@ fluffiness, you can feel it just by touching it♡#DL
 イイトコロばかりを掛け合わせてるの
 
 まさに、\\n[1]くんキラーの寝床ってワケ♡
-> CONTEXT: Troops/298/pages/1/195/Dialogue/enemy28
+> CONTEXT: Troops/298/pages/1/179/Dialogue/enemy28
 Plus, it's a combination of all the fur from
 all the demons you've ever met.
 
@@ -11932,7 +11938,7 @@ It's the perfect bed to kill \\n[1]-kun♡#DL
 
 キミは本当に、分かりやすい表情するなぁ
 ゴタクはいいから、はやくイきたいって顔してる♡
-> CONTEXT: Troops/298/pages/1/201/Dialogue/enemy28
+> CONTEXT: Troops/298/pages/1/185/Dialogue/enemy28
 ...It looks like you're feeling a lot more
 relaxed. You have a really easy to read
 expression on your face...
@@ -11944,7 +11950,7 @@ You look like you want to cum soon♡#DL
 ショーを始める前に、一発ヌいとく？
 
 ビーストちゃんが、手でシてくれるってさ
-> CONTEXT: Troops/298/pages/1/208/Dialogue/enemy28
+> CONTEXT: Troops/298/pages/1/192/Dialogue/enemy28
 What will you do?
 Before we start the show, do you want to
 have a quick shot?
@@ -11953,8 +11959,14 @@ Beast-chan will give you a hand-job...#DL
 
 > BEGIN STRING
 身を預ける
-> CONTEXT: Troops/298/pages/1/213/Choice/0
+> CONTEXT: Troops/298/pages/1/197/Choice/0
 Let it happen#DL
+> END STRING
+
+> BEGIN STRING
+我慢する
+> CONTEXT: Troops/298/pages/1/197/Choice/1
+Endure#DL
 > END STRING
 
 > BEGIN STRING
@@ -11962,7 +11974,7 @@ Let it happen#DL
 
 そうそう、我慢はよくないよ
 夢の中くらい、自分に正直にならなきゃ♪
-> CONTEXT: Troops/298/pages/1/215/Dialogue/enemy28
+> CONTEXT: Troops/298/pages/1/199/Dialogue/enemy28
 Ahahahahaha♡
 You know, it's not good to be impatient, but you
 have to be honest with yourself, at least
@@ -11973,7 +11985,7 @@ in your dreams♪#DL
 それじゃぁ、ビーストちゃん？
 
 いっぱい気持ち良くしてあげてね♡
-> CONTEXT: Troops/298/pages/1/220/Dialogue/enemy28
+> CONTEXT: Troops/298/pages/1/204/Dialogue/enemy28
 Well, then, Beast?
 
 Make him feel good as good as you can~♡#DL
@@ -11981,13 +11993,13 @@ Make him feel good as good as you can~♡#DL
 
 > BEGIN STRING
 アオオォォォォォン！♡
-> CONTEXT: Troops/298/pages/1/224/Dialogue/enemy18
+> CONTEXT: Troops/298/pages/1/208/Dialogue/enemy18
 Awooooo!♡#DL
 > END STRING
 
 > BEGIN STRING
 アオオオオオオオオオオオオオオオン！♡♡
-> CONTEXT: Troops/298/pages/1/264/Dialogue/enemy18
+> CONTEXT: Troops/298/pages/1/256/Dialogue/enemy18
 Awooooooooooooooooo!♡♡#DL
 > END STRING
 
@@ -11995,7 +12007,7 @@ Awooooooooooooooooo!♡♡#DL
 妲己に射精させられたことによって
 
 \\C[2]意識が夢に引き込まれていく……！
-> CONTEXT: Troops/298/pages/1/270/Dialogue
+> CONTEXT: Troops/298/pages/1/258/Dialogue
 > CONTEXT: Troops/298/pages/1/443/Dialogue
 By ejaculating from Daiji,\\C[2] \\N[1]'s consciousness 
 is drawn deeper into the dream...!#Triketos
@@ -12006,7 +12018,7 @@ is drawn deeper into the dream...!#Triketos
 
 まだこの先でいっぱい虐められるっていうのに
 最初からそんなにトばしちゃって…♡
-> CONTEXT: Troops/298/pages/1/290/Dialogue/enemy28
+> CONTEXT: Troops/298/pages/1/262/Dialogue/enemy28
 Fufufu♡ I wonder if that was okay?
 There's still a lot of bullying ahead.
 I didn't mean to go on so much
@@ -12014,11 +12026,17 @@ from the beginning...♡#DL
 > END STRING
 
 > BEGIN STRING
+ウゥゥゥ…
+> CONTEXT: Troops/298/pages/1/275/Dialogue/enemy18
+Wooo...#DL
+> END STRING
+
+> BEGIN STRING
 ビーストちゃん、ガマン、ガマン♪
 
 どうせ\\N[1]くんは私たちから逃れることはできないし
 私たちは全員『妲己』なんだから♡
-> CONTEXT: Troops/298/pages/1/299/Dialogue/enemy28
+> CONTEXT: Troops/298/pages/1/277/Dialogue/enemy28
 Patience, Beast, patience♪
 
 \\N[1]-kun won't be able to escape from us
@@ -12029,7 +12047,7 @@ anyway. Because we are all "Daiji" ♡#DL
 焦る必要なんてないよ……
 
 これからじっくり、みんなでイジメていこう…♡
-> CONTEXT: Troops/298/pages/1/304/Dialogue/enemy28
+> CONTEXT: Troops/298/pages/1/282/Dialogue/enemy28
 There's no need to rush....
 
 Let's take our time and and slowly
@@ -12041,7 +12059,7 @@ break him down...♡#DL
 今の状況をバッチリ分かってもらったところで！
 
 そろそろショーを始めるとしましょーか！！
-> CONTEXT: Troops/298/pages/1/311/Dialogue/enemy28
+> CONTEXT: Troops/298/pages/1/303/Dialogue/enemy28
 Come on!
 Now that you know exactly what we're up against!
 
@@ -12053,7 +12071,7 @@ Let's get this show on the road, shall we?#DL
 気がすむまで堪能してもらいたいところだけど……
 
 今回のメインは、それだけじゃないからね♪
-> CONTEXT: Troops/298/pages/1/316/Dialogue/enemy28
+> CONTEXT: Troops/298/pages/1/308/Dialogue/enemy28
 I'm sure you'd enjoy a little more of Beast's
 Fluffy Heaven until you're satisified, but...
 
@@ -12064,7 +12082,7 @@ That's not the only main thing this time around!#DL
 夢の中のアイドル、『妲己』ちゃんの本気の力！！
 
 とくとご覧あれーー！！
-> CONTEXT: Troops/298/pages/1/324/Dialogue/enemy28
+> CONTEXT: Troops/298/pages/1/313/Dialogue/enemy28
 The real power of the idol in your dream,
 Daiji-chan!
 
@@ -12076,7 +12094,7 @@ Take a good look!#DL
 
 おヌシはもう、妾たちのの身体から離れることは出来ぬ…
 観念して、快楽に溺れてしまうがよい♡
-> CONTEXT: Troops/298/pages/1/349/Dialogue/enemy17
+> CONTEXT: Troops/298/pages/1/339/Dialogue/enemy17
 Hohoho... I've caught you, \\n[1].
 He can no longer leave his mistress's body...
 It is better for him to give up and indulge
@@ -12088,7 +12106,7 @@ in the pleasure ♡#DL
 おヌシはすでに、言われずとも妾たちに屈している……
 
 そうであろう？\\n[1]
-> CONTEXT: Troops/298/pages/1/364/Dialogue/enemy18
+> CONTEXT: Troops/298/pages/1/353/Dialogue/enemy18
 No......
 He has already succumbed to his mistresses
 without being told........
@@ -12101,7 +12119,7 @@ Isn't that right, \\n[1]?#DL
 
 これからおヌシの身体に聞いてやる
 すでに身悶えが止まっておらぬ、この正直な身体にな……♡
-> CONTEXT: Troops/298/pages/1/369/Dialogue/enemy18
+> CONTEXT: Troops/298/pages/1/358/Dialogue/enemy18
 No... you don't have to open your
 mouth to answer. I only have to ask
 your body from now on...♡#DL
@@ -12112,7 +12130,7 @@ your body from now on...♡#DL
 初めからそんなに激しく攻められては、
 
 \\n[1]様が早々に壊れてしまいます♡
-> CONTEXT: Troops/298/pages/1/383/Dialogue/enemy18
+> CONTEXT: Troops/298/pages/1/372/Dialogue/enemy18
 No, both of you...
 If you're both so aggressive from the beginning,
 \\n[1]-sama will be broken soon ♡#DL
@@ -12123,7 +12141,7 @@ If you're both so aggressive from the beginning,
 
 殿方とのダンスは、ペース配分が重要なのですから
 たっぷり可愛がって差し上げないと……♡
-> CONTEXT: Troops/298/pages/1/388/Dialogue/enemy18
+> CONTEXT: Troops/298/pages/1/377/Dialogue/enemy18
 There's more to the show.......
 As for dancing with my Lord, it's important to
 distribute the pace, so you have to
@@ -12135,7 +12153,7 @@ take good care of him... ♡#DL
 これこそ、私の妖術の奥義\\C[2]『あやかし糸』！\\C[0]
 
 全員、見覚えあるでしょ？\\n[1]くん
-> CONTEXT: Troops/298/pages/1/394/Dialogue/enemy28
+> CONTEXT: Troops/298/pages/1/383/Dialogue/enemy28
 Mmm-hmm...
 This is my secret sorcery, the magic thread!
 
@@ -12147,7 +12165,7 @@ They all look familiar, don't they, \\n[1]?#DL
 タイマンでは勝てたみたいだけど…
 
 今度は４体同時、しかも身動きがとれない夢の中…
-> CONTEXT: Troops/298/pages/1/399/Dialogue/enemy28
+> CONTEXT: Troops/298/pages/1/388/Dialogue/enemy28
 In the real world, it looks like you could beat
 any form of Daiji in a match...
 This time, in a dream where all four of them are
@@ -12159,7 +12177,7 @@ here at the same time...#DL
 キミが私たちに『勝てるかどうか』じゃない…
 
 『どんなブザマな姿を見せるかどうか』だから……♡
-> CONTEXT: Troops/298/pages/1/404/Dialogue/enemy28
+> CONTEXT: Troops/298/pages/1/393/Dialogue/enemy28
 The whole point of this show isn't if you
 can beat us... It's about "whether or not you
 can show your ugly appearance..." ♡#DL
@@ -12170,7 +12188,7 @@ can show your ugly appearance..." ♡#DL
 
 認めるがいい、おヌシの身体は
 妾たちからの快楽を欲しておるのだ……♡
-> CONTEXT: Troops/298/pages/1/463/Dialogue/enemy17
+> CONTEXT: Troops/298/pages/1/447/Dialogue/enemy17
 Oh, I'm just saying...
 
 Admit it, his body craves pleasure from his
@@ -12181,12 +12199,12 @@ mistresses.... ♡#DL
 それとも、パイズリで逝くのは未練が残るか？
 
 せっかく四人もいるのだ、誰で逝きたいかぐらいは
-決めさせてやろうではないか
-> CONTEXT: Troops/298/pages/1/469/Dialogue/enemy18
+決めさせてやろうではないか♡
+> CONTEXT: Troops/298/pages/1/452/Dialogue/enemy18
 Maybe he's reluctant to cum from a tit-fuck?
 
 Now that there are four of us,
-let them decide who they want to play with.#DL
+let them decide who they want to play with.♡#DL
 > END STRING
 
 > BEGIN STRING
@@ -12194,7 +12212,7 @@ let them decide who they want to play with.#DL
 
 \\C[2]私たちの誰かに『甘えれ』ば、
 そのフォームの私が、貴方を逝かせて差し上げます
-> CONTEXT: Troops/298/pages/1/475/Dialogue/enemy18
+> CONTEXT: Troops/298/pages/1/457/Dialogue/enemy18
 That sounds like a good idea...
 
 \\C[2]If you want to "Indulge" in one of us, we'll
@@ -12205,17 +12223,17 @@ let you cum with that form.#DL
 \\C[2]このまま妾の胸で最期まで果てたいのならば
 妾に『身を委ねる』がよかろう
 
-最高の極楽浄土に連れていってやるぞ…
-> CONTEXT: Troops/298/pages/1/480/Dialogue/enemy17
+最高の極楽浄土に連れていってやるぞ…♡♡
+> CONTEXT: Troops/298/pages/1/462/Dialogue/enemy17
 \\C[2]If you want to spend your last days in the
 breasts of your mistress, you should
 "Entrust" yourself to her.
-I'll take you to the highest paradise...#DL
+I'll take you to the highest paradise...♡♡#DL
 > END STRING
 
 > BEGIN STRING
 アオオオオオオン！！！♡
-> CONTEXT: Troops/298/pages/1/485/Dialogue/enemy18
+> CONTEXT: Troops/298/pages/1/467/Dialogue/enemy18
 Awooooooo!!!♡#DL
 > END STRING
 
@@ -12224,7 +12242,7 @@ Awooooooo!!!♡#DL
 
 結局どれも『妲己』だから、誰が搾精しても
 君の魂は私のものになるんだから♡
-> CONTEXT: Troops/298/pages/1/488/Dialogue/enemy28
+> CONTEXT: Troops/298/pages/1/476/Dialogue/enemy28
 You don't have to worry, \\N[1]-kun.
 
 In the end, they are all 'Daiji', so no matter
@@ -12235,7 +12253,7 @@ who squeezes you, your soul will be mine ♡#DL
 『欲望に忠実に』…♡
 
 それがこの妲己ちゃんのモットーなのです♪
-> CONTEXT: Troops/298/pages/1/493/Dialogue/enemy28
+> CONTEXT: Troops/298/pages/1/481/Dialogue/enemy28
 'Be true to your desires'...♡
 
 That's Daiji's motto!♪#DL
@@ -12243,7 +12261,7 @@ That's Daiji's motto!♪#DL
 
 > BEGIN STRING
 さぁ…どうする\\N[1]くん？
-> CONTEXT: Troops/298/pages/1/497/Dialogue/enemy28
+> CONTEXT: Troops/298/pages/1/485/Dialogue/enemy28
 So... what will you do now, \\N[1]-kun?#DL
 > END STRING
 
@@ -13851,21 +13869,1980 @@ Mormo[Book] Bond#Triketos
 > END STRING
 
 > BEGIN STRING
+ほら、アタシとやりたいんでしょ？
+
+さっさとベッドに行くわよ♪
+> CONTEXT: Troops/320/pages/1/207/Dialogue/enemy2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
 ヘカーテ【敗北】足コキ
 > CONTEXT: Troops/321/name < UNTRANSLATED
 
 > END STRING
 
 > BEGIN STRING
-マイ（等身大）
+チェシャ（初戦）
 > CONTEXT: Troops/324/name < UNTRANSLATED
 
 > END STRING
 
 > BEGIN STRING
-い……いた…！\\N[1]くん…♡
+フフフフ
+そんな攻撃ができるなんて驚いたなぁ
 
-ふふふ……うふふふ…♡
-> CONTEXT: Troops/324/pages/1/7/Dialogue/enemy27 < UNTRANSLATED
+随分と魔力の扱いに慣れてきてるみたいだね
+> CONTEXT: Troops/324/pages/2/0/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Troops/335/pages/2/0/Dialogue/enemy29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もう、人間ながらに、人間が出来ることを軽く超越してる…
+
+成長も早いし、筋もいい……
+オマケに『トンカツ』ときたもんだ……
+> CONTEXT: Troops/324/pages/2/5/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Troops/335/pages/2/5/Dialogue/enemy29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+………それじゃあボクも、そろそろ動こうかな
+
+『キミ好みのやり方』でね♡
+> CONTEXT: Troops/324/pages/2/11/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Troops/335/pages/2/11/Dialogue/enemy29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さっきからキミが期待の眼差しでガン見してる場所……♡
+
+分かってるよ、気になるんでしょ？♡
+> CONTEXT: Troops/324/pages/2/15/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Troops/335/pages/2/15/Dialogue/enemy29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+
+……………それっ！！！
+> CONTEXT: Troops/324/pages/2/19/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Troops/335/pages/2/19/Dialogue/enemy29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はーい♡
+
+おゆうぎセッティングかんりょー♡♡
+> CONTEXT: Troops/324/pages/2/88/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Troops/335/pages/2/88/Dialogue/enemy29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…………！！！？
+
+なっぁあっ……！？
+> CONTEXT: Troops/324/pages/2/92/Dialogue/kazuya-1 < UNTRANSLATED
+> CONTEXT: Troops/335/pages/2/92/Dialogue/kazuya-1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+頭が抜けないので確認できないが……
+
+\\C[2]僕はいつの間にか服を脱がされ
+勃起しきっていないぺニスは、チェシャの膣に喰われている…！
+> CONTEXT: Troops/324/pages/2/96/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/335/pages/2/96/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あの大きな手で、こんな一瞬で
+そんな細かい作業ができるなんてあり得ない……
+
+いったいなにが……！？
+> CONTEXT: Troops/324/pages/2/101/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/335/pages/2/101/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おどろいた？
+これが、ボクの能力……♡
+
+\\C[2]『シュレティンガーの猫』って知ってる？
+> CONTEXT: Troops/324/pages/2/106/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Troops/335/pages/2/106/Dialogue/enemy29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+詳しく話すとややこしくなるから、かいつまんで言うと
+
+\\C[2]認識できるのがボクだけになった相手の存在を
+\\C[10]都合のいい認識\\C[2]に収束できる能力だよ
+> CONTEXT: Troops/324/pages/2/111/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Troops/335/pages/2/111/Dialogue/enemy29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[2]『対象が服を着ているか、裸か』
+『挿入してるか、してないか』
+
+\\C[0]キミもボクのおっぱいに埋もれて、視認できないでしょ？
+> CONTEXT: Troops/324/pages/2/116/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Troops/335/pages/2/116/Dialogue/enemy29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[2]ボクが認識を『そうだ』と思えば
+相手が『その通り』の状態になってしまう……
+
+\\C[0]それが、ボクの能力さ♡
+> CONTEXT: Troops/324/pages/2/121/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Troops/335/pages/2/121/Dialogue/enemy29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+んんんっ………！！
+
+ぐぅうっ……！！
+> CONTEXT: Troops/324/pages/2/126/Dialogue/kazuya-6 < UNTRANSLATED
+> CONTEXT: Troops/335/pages/2/126/Dialogue/kazuya-6 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アハハッ、無駄ムダ♡
+ボクのおっぱいは、服で常に内側に押し上げられてるんだ
+
+一度ハマったら、\\C[2]手や足じゃ絶対抜けないよ
+> CONTEXT: Troops/324/pages/2/138/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Troops/335/pages/2/138/Dialogue/enemy29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さっきボクがついでに『イった』って認識にしちゃえば
+それだけでキミはゲームオーバーだったんだけど……
+
+キミにも『選択肢』がないとフェアじゃないでしょ？
+> CONTEXT: Troops/324/pages/2/143/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Troops/335/pages/2/143/Dialogue/enemy29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だから、ちょっとだけキミにも
+『抵抗』するチャンスをあげる……
+
+\\C[2]手足じゃダメな拘束を抜けるには、どうするんだっけ？
+> CONTEXT: Troops/324/pages/2/148/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Troops/335/pages/2/148/Dialogue/enemy29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ほらほらぁ……あんまりゆっくり考えてると
+おっぱいで頭が真っ白になっちゃうよ
+
+\\N[1]くんのカッコいいとこ、見てみたいなー？
+> CONTEXT: Troops/324/pages/2/173/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Troops/335/pages/2/173/Dialogue/enemy29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+マイエナ（イベント）
+> CONTEXT: Troops/325/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…………………
+
+行かせないよ、\\N[1]
+> CONTEXT: Troops/325/pages/0/2/Dialogue/enemy30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+また君たちか………
+
+悪いけど、君たちと遊んでいる時間はない。
+僕は、スフィンクスを助けに来ただけなんだ。
+> CONTEXT: Troops/325/pages/0/6/Dialogue/kazuya < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+君たちに敵意がないのは分かってる。
+だからこそ、むやみに傷付けたくない……
+
+分かってくれ……
+> CONTEXT: Troops/325/pages/0/11/Dialogue/kazuya < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…………ダメ。
+
+ここは絶対に通さない。
+> CONTEXT: Troops/325/pages/0/16/Dialogue/enemy30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+……どうしても、分かってくれないのか…？
+> CONTEXT: Troops/325/pages/0/20/Dialogue/kazuya < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\{分かってないのは
+\\N[1]のほうだよ！
+> CONTEXT: Troops/325/pages/0/23/Dialogue/enemy30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さっきの広場の人間たちを見たでしょ！？
+
+ティターニア様に連れていかれた人間は
+みんなあの姿になって戻ってくるんだよ！！
+> CONTEXT: Troops/325/pages/0/26/Dialogue/enemy30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[1]みたいに、話し合いをするために
+奥の遺跡に誘われた人間たちも、過去にいたけど…
+
+みんな…………戻ってこなかった………
+> CONTEXT: Troops/325/pages/0/31/Dialogue/enemy30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[1]くん……
+
+私たちと一緒に暮らそう……？
+ティターニア様に見つからない、森の奥の方で……
+> CONTEXT: Troops/325/pages/0/36/Dialogue/enemy27 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+私たちは、人間が短い命だって知ってる。
+だからこそ、一生懸命二人で愛してあげるから……
+
+幸せにしてあげるから……
+> CONTEXT: Troops/325/pages/0/41/Dialogue/enemy27 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…………知ってるよ。
+
+どうせ\\N[1]は、ここまで言っても
+アタシたちと一緒に来てくれないんでしょ
+> CONTEXT: Troops/325/pages/0/49/Dialogue/enemy30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…………マイちゃん！！！
+> CONTEXT: Troops/325/pages/0/54/Dialogue/enemy30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+う、うんっ！！
+> CONTEXT: Troops/325/pages/0/56/Dialogue/enemy27 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+っ！！！？
+> CONTEXT: Troops/325/pages/0/62/Dialogue/enemy27 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+急に伸びてきた赤い袖が
+
+\\N[1]の目元を覆ってきた！！
+> CONTEXT: Troops/325/pages/0/64/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+………えいっ！！
+> CONTEXT: Troops/325/pages/0/68/Dialogue/enemy30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+マイエナ（初戦）
+> CONTEXT: Troops/326/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+やったぁ♪
+
+\\N[1]は優しいね♡
+急いでるのに、アタシたちと一緒に遊んでくれるなんて！
+> CONTEXT: Troops/326/pages/0/13/Dialogue/enemy30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+え、エナちゃんの予想、本当だったね……
+
+私も、なんだか……\\N[1]くんとなら
+楽しく遊べそう…♡
+> CONTEXT: Troops/326/pages/0/18/Dialogue/enemy27 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ、遊ぶのはいいけど……
+
+何をして遊ぶの…？
+鬼ごっことか、かくれんぼ？
+> CONTEXT: Troops/326/pages/0/23/Dialogue/kazuya < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+やー、それは\\N[1]がいなくても出来るからいいよ。
+
+それに、土地勘あるアタシたちが、この大きさじゃあ
+\\N[1]が圧倒的に不利でしょ？
+> CONTEXT: Troops/326/pages/0/28/Dialogue/enemy30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アタシたちが\\N[1]と一緒にやりたいのは…
+
+『がまんゲーム』♡
+> CONTEXT: Troops/326/pages/0/33/Dialogue/enemy30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+２人は、僕の顔に身体を密着させて
+
+頬に身体を擦りつけてきている……
+> CONTEXT: Troops/326/pages/0/57/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/333/pages/0/63/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/333/pages/0/83/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+マイちゃんはおっぱいを、エナちゃんは太ももを
+
+それぞれ主張するかのように強く押し当ててくる…
+> CONTEXT: Troops/326/pages/0/61/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/333/pages/0/67/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/333/pages/0/87/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+え…！？ちょ…
+
+な、なにを…！
+> CONTEXT: Troops/326/pages/0/65/Dialogue/kazuya-0 < UNTRANSLATED
+> CONTEXT: Troops/333/pages/0/91/Dialogue/kazuya-0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[1]は、人間のオスだから
+ちゃんと付いてるんだよね？『チンポ』ってやつ♡
+
+あれって、興奮すると膨らんじゃうんでしょう？
+> CONTEXT: Troops/326/pages/0/69/Dialogue/enemy30 < UNTRANSLATED
+> CONTEXT: Troops/333/pages/0/95/Dialogue/enemy30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+『がまんゲーム』は、アタシたちのオサワリで
+５分間、興奮しないようにガマンするゲームだよ♡
+
+ウソついても、膨らみで分かっちゃうってワケ♪
+> CONTEXT: Troops/326/pages/0/74/Dialogue/enemy30 < UNTRANSLATED
+> CONTEXT: Troops/333/pages/0/100/Dialogue/enemy30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+わ、私……このゲーム、好きなんだ…♡
+
+胸が大きいだけで、何の取り柄もない、この身体……
+みんなすごく良い反応してくれるから…♡
+> CONTEXT: Troops/326/pages/0/79/Dialogue/enemy27 < UNTRANSLATED
+> CONTEXT: Troops/333/pages/0/105/Dialogue/enemy27 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[1]くん…胸、おおきいの…すき？
+
+いっぱい触らせてあげるよ…♡♡
+> CONTEXT: Troops/326/pages/0/84/Dialogue/enemy27 < UNTRANSLATED
+> CONTEXT: Troops/333/pages/0/110/Dialogue/enemy27 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あ、ちなみに
+もし膨らんじゃったら、\\C[2]罰ゲーム\\C[0]だからね？
+
+すぐ終わっちゃったらつまんないから、頑張って♪
+> CONTEXT: Troops/326/pages/0/88/Dialogue/enemy30 < UNTRANSLATED
+> CONTEXT: Troops/333/pages/0/114/Dialogue/enemy30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ば、罰ゲームって…
+
+ちょっ…待っ…！！
+> CONTEXT: Troops/326/pages/0/93/Dialogue/kazuya-0 < UNTRANSLATED
+> CONTEXT: Troops/333/pages/0/119/Dialogue/kazuya-0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+マイとエナは、\\N[1]の耳を
+
+それぞれ片側ずつ咥えて、舐めだした！
+> CONTEXT: Troops/326/pages/0/131/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/333/pages/0/158/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[1]くん……感じやすいんだね…♡
+
+クールそうな顔して、すごくえっちなんだ…♡
+> CONTEXT: Troops/326/pages/0/140/Dialogue/enemy27 < UNTRANSLATED
+> CONTEXT: Troops/333/pages/0/167/Dialogue/enemy27 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フツーの人間は、驚いて私たちに手を添えちゃうんだけど
+
+\\N[1]、もしかしてこういうの好き？
+それとも、アタシたちが小さいから遠慮してるのかな？
+> CONTEXT: Troops/326/pages/0/144/Dialogue/enemy30 < UNTRANSLATED
+> CONTEXT: Troops/333/pages/0/171/Dialogue/enemy30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アタシたちは、小さくてもやるときはやるんだよ…♡
+
+こんなふうにぃ…♡♡
+> CONTEXT: Troops/326/pages/0/149/Dialogue/enemy30 < UNTRANSLATED
+> CONTEXT: Troops/333/pages/0/176/Dialogue/enemy30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あああ…♡♡♡うあああ…♡
+> CONTEXT: Troops/326/pages/0/153/Dialogue/kazuya-0 < UNTRANSLATED
+> CONTEXT: Troops/333/pages/0/180/Dialogue/kazuya-0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+マイとエナは、\\N[1]の顔に抱きついて
+
+身体を擦りつけながら、耳をしゃぶり続けている…
+> CONTEXT: Troops/326/pages/0/157/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/333/pages/0/184/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[1]くん、私とエナちゃん…どっちが気持ちいい？♡
+
+あとでこっそり…２人きりで遊ぼう…？♡
+このまま負けてくれたら…いっぱい遊べるよ…♡
+> CONTEXT: Troops/326/pages/0/161/Dialogue/enemy27 < UNTRANSLATED
+> CONTEXT: Troops/333/pages/0/188/Dialogue/enemy27 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+すごーい、\\N[1]♪
+こんなに攻められてるのに、まだ立っていられるんだね♡
+
+息や表情はこんなに苦しそうなのに♡
+> CONTEXT: Troops/326/pages/0/167/Dialogue/enemy30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+大人しく私たちに負けちゃいなよぉ♡
+
+ほれほれぇ♡
+> CONTEXT: Troops/326/pages/0/172/Dialogue/enemy30 < UNTRANSLATED
+> CONTEXT: Troops/333/pages/0/194/Dialogue/enemy30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[1]は、膝をついて
+
+そのままへたりこんでしまった……
+> CONTEXT: Troops/326/pages/0/184/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+マイエナ（二戦目）
+> CONTEXT: Troops/327/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ただいまー！
+
+マイちゃん！\\N[1]！
+仲良く待ってたー？
+> CONTEXT: Troops/327/pages/0/15/Dialogue/enemy30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エナちゃん、おかえり……
+
+\\N[1]くん、ちょうど今
+『落ち着いた』ところだよ……♡
+> CONTEXT: Troops/327/pages/0/20/Dialogue/enemy27 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+わぁ……♪
+それが\\N[1]くんの服？
+
+エナちゃん、やっぱりスゴいね……手先の器用さ…
+> CONTEXT: Troops/327/pages/0/26/Dialogue/enemy27 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ふふーん！
+
+アタシ、こういう小物作るのが趣味だから
+昔はティターニア様にも、いろんな物を頼まれたんだよ♪
+> CONTEXT: Troops/327/pages/0/31/Dialogue/enemy30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さっそく、サイズ確認といきたいところだけど……
+
+その前に、脱いでる状態でしかできない『遊び』…
+じっくり楽しんじゃおっか♡
+> CONTEXT: Troops/327/pages/0/36/Dialogue/enemy30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+………♡♡
+
+そうだね♡♡
+> CONTEXT: Troops/327/pages/0/41/Dialogue/enemy27 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+んぐぅ………♡
+> CONTEXT: Troops/327/pages/0/61/Dialogue/kazuya-0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ほらほらぁ♡
+\\N[1]、しっかりマイちゃんの方見て？
+
+アタシが頭を支えておいてあげるからさぁ♡♡
+> CONTEXT: Troops/327/pages/0/64/Dialogue/enemy30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+今からマイちゃんが、あの大きなおっぱいで
+\\N[1]のチンコを気持ちよくするって♡
+
+『パイズリ』って言うんだっけ？
+> CONTEXT: Troops/327/pages/0/69/Dialogue/enemy30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アタシもマイちゃんも、同サイズの相手は初めてだから
+\\N[1]くんへの搾精に興味深々なの♪
+
+よそ見したら、このまま首を絞めてやるから♡
+> CONTEXT: Troops/327/pages/0/74/Dialogue/enemy30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[1]…………くん
+き、気持ちよくなかったら、ごめんね……
+
+初めて………だから…
+> CONTEXT: Troops/327/pages/0/80/Dialogue/enemy27 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は、はぅぅ……♡
+> CONTEXT: Troops/327/pages/0/85/Dialogue/kazuya-0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あれれ？
+もしかして、頭を太ももに挟まれてるだけで興奮してる？
+
+やっだー\\N[1]♡へんたーい♡
+> CONTEXT: Troops/327/pages/0/87/Dialogue/enemy30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ほらほら、マイちゃんも自信もって♡
+
+今の\\N[1]なら、
+きっといっぱい感じてくれるよ♡
+> CONTEXT: Troops/327/pages/0/92/Dialogue/enemy30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+……………
+
+う、うん…
+それじゃあ、いくよ…？
+> CONTEXT: Troops/327/pages/0/97/Dialogue/enemy27 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[1]のペニスは、マイの大きな胸に沈み込んでしまった！
+> CONTEXT: Troops/327/pages/0/112/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どーお、\\N[1]。
+
+マイちゃんのパイズリは？♡
+今にも飛び跳ねそうなくらい、すごく身悶えしてるけど♡
+> CONTEXT: Troops/327/pages/0/136/Dialogue/enemy30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はっ…♡はっ…！♡
+
+き、きもちぃぃ…♡♡
+とけるぅぅ…♡♡
+> CONTEXT: Troops/327/pages/0/141/Dialogue/kazuya-0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ほ、ほんと…？♡
+
+うれしいな…♡♡
+\\N[1]くんが…私の胸で…♡
+> CONTEXT: Troops/327/pages/0/146/Dialogue/enemy27 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ニンゲンって、胸でも射精しちゃうのかなぁ？♡
+
+ね、ね！マイちゃん！♡
+もっと激しくしちゃおーよ♡
+> CONTEXT: Troops/327/pages/0/151/Dialogue/enemy30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+う、うん…！♡
+> CONTEXT: Troops/327/pages/0/156/Dialogue/enemy27 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[1]はマイのおっぱいに中出ししてしまった…
+> CONTEXT: Troops/327/pages/0/208/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+わぁ……♡
+> CONTEXT: Troops/327/pages/0/210/Dialogue/enemy27 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+すごーい！♡
+
+\\N[1]、人間同士のセックスじゃなくても
+こんなにいっぱい出しちゃうんだぁ♡
+> CONTEXT: Troops/327/pages/0/212/Dialogue/enemy30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+やっぱり、ニンゲンについてはサイズ比が違いすぎるから
+
+聞いた知識だけじゃなくて
+実際にやって見てみるのが一番だねぇ♡
+> CONTEXT: Troops/327/pages/0/217/Dialogue/enemy30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フフフ……♡
+
+これは『搾精膣』を使ったエッチがとても楽しみだねぇ
+マイちゃん♡♡
+> CONTEXT: Troops/327/pages/0/222/Dialogue/enemy30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そ、そうだね…♡♡
+
+それだけじゃなくて…エナちゃんの太ももを使ったり…
+いろんなやり方…試してみたいね…♡♡
+> CONTEXT: Troops/327/pages/0/227/Dialogue/enemy27 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+今まで聞いただけだった
+『ニンゲンのセックス』ってやつ……
+
+\\N[1]くんで、いっぱい試しちゃおう…♡♡
+> CONTEXT: Troops/327/pages/0/232/Dialogue/enemy27 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+こうして……僕は彼女たちに飼われて
+『等身大のオスに対しての性行為』の実験台になった…
+
+貴重な『同じ大きさの、人間のオス』として…
+> CONTEXT: Troops/327/pages/0/261/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どれほどの月日が経っただろうか……
+
+僕は寿命が尽きるそのときまで……
+彼女たちと生活することになるのだろう……
+> CONTEXT: Troops/327/pages/0/266/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+目が覚めたとたん、彼女たちは今まで聞き知った
+『ニンゲンの性行為』を試してくる……
+
+その度に僕は、気絶するまで搾られる…
+> CONTEXT: Troops/327/pages/0/271/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だが、逃げようと思う事はなかった…
+
+彼女たちの与える快楽は……
+どれも最高のものばかりだったからだ……
+> CONTEXT: Troops/327/pages/0/276/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+『こんな生活も悪くない……』
+
+僕の心の中には…後悔はなかった……
+> CONTEXT: Troops/327/pages/0/281/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ティターニア（敗北イベ）
+> CONTEXT: Troops/328/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フフフ………物分かりが良いですね。
+
+そういう人間は、嫌いではないですよ。
+> CONTEXT: Troops/328/pages/0/12/Dialogue/enemy28 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さぁ、もっとこちらへ……
+
+私にその凛々しい顔を、間近で見せてください。
+> CONTEXT: Troops/328/pages/0/16/Dialogue/enemy28 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+う、うわっ……！
+> CONTEXT: Troops/328/pages/0/35/Dialogue/kazuya-0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[1]は、ティターニアに抱き寄せられた！
+> CONTEXT: Troops/328/pages/0/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なっ、なにを………！？
+> CONTEXT: Troops/328/pages/0/39/Dialogue/kazuya-0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+恥ずかしがることはありませんよ。
+
+貴方は、私に『誠意』を見せた……
+これはそれに対する『褒美』のようなものです
+> CONTEXT: Troops/328/pages/0/41/Dialogue/enemy28 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+女王としての『褒美』……
+
+受け取ってくれますね？\\N[1]
+> CONTEXT: Troops/328/pages/0/46/Dialogue/enemy28 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+んんっ………！！？
+> CONTEXT: Troops/328/pages/0/71/Dialogue/kazuya-9 < UNTRANSLATED
+> CONTEXT: Troops/328/pages/0/177/Dialogue/kazuya-9 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ん…………ごっ………♡♡
+
+んんっ………♡♡♡
+> CONTEXT: Troops/328/pages/0/76/Dialogue/kazuya-9 < UNTRANSLATED
+> CONTEXT: Troops/328/pages/0/182/Dialogue/kazuya-9 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+まるで僕の口の中を、エサを求めるヘビのように
+
+彼女の舌がねっとりと這い回る……
+> CONTEXT: Troops/328/pages/0/82/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+口の中だけでなく、頭の中もぐちゃぐちゃになって…
+
+なにか重要なことを………吸いとられて……
+ちゅうちゅうと……吸いとられて……
+> CONTEXT: Troops/328/pages/0/86/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はぁっ………はぁっ………
+> CONTEXT: Troops/328/pages/0/109/Dialogue/kazuya-0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フフフ………♡
+貴方の精気は、とても美味ですね♡♡
+
+スフィンクスや、あの二人組が躍起になるわけです。
+> CONTEXT: Troops/328/pages/0/111/Dialogue/enemy28 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+貴方のような上質な人間は
+あんな阿呆な魔獣には相応しくない……♡♡♡
+
+私の側に置かれるのが、真の幸せというもの♡
+> CONTEXT: Troops/328/pages/0/116/Dialogue/enemy28 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+貴方は今後、女王たる私の
+従順な『ペット』として、生きてゆきなさい。
+
+いいですね？\\N[1]
+> CONTEXT: Troops/328/pages/0/123/Dialogue/enemy28 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なる
+> CONTEXT: Troops/328/pages/0/128/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なりたい
+> CONTEXT: Troops/328/pages/0/128/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フフフ、いい返事ですね、\\N[1]
+
+スフィンクスや、他の者どものことなど一切忘れて
+私と共に、この国で暮らすのです♡
+> CONTEXT: Troops/328/pages/0/134/Dialogue/enemy28 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それこそが、貴方の幸せ…
+私に可愛がられることが、貴方の勤め……
+
+分かりましたね？\\N[1]
+> CONTEXT: Troops/328/pages/0/141/Dialogue/enemy28 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+わかった
+> CONTEXT: Troops/328/pages/0/146/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いい子ですね……♡♡
+
+従順なペットには、ご褒美をあげましょう……♡♡
+> CONTEXT: Troops/328/pages/0/152/Dialogue/enemy28 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おかしい………意識はハッキリしているのに
+\\C[2]彼女の言葉に逆らう意思が消えている……
+
+最初のキスで、何かを吸いとられてしまったらしい……
+> CONTEXT: Troops/328/pages/0/188/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+『彼女への反抗の意思』……
+
+『目的のための選択肢』が……\\C[2]頭から消えてしまった……
+> CONTEXT: Troops/328/pages/0/193/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さぁ……\\N[1]
+私からの最後の『要求』です。
+
+これを受けてくれれば、スフィンクスを解放しましょう
+> CONTEXT: Troops/328/pages/0/206/Dialogue/enemy28 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+………私を抱き、『中出し』しなさい
+
+そして、この女王に永遠の忠誠を誓うのです。
+> CONTEXT: Troops/328/pages/0/213/Dialogue/enemy28 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+喜んで
+> CONTEXT: Troops/328/pages/0/217/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+仰せのままに
+> CONTEXT: Troops/328/pages/0/217/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+んんんっ……！！♡♡
+
+んんんんっ……！！♡♡♡
+> CONTEXT: Troops/328/pages/0/237/Dialogue/kazuya-9 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[1]の下半身は
+
+ティターニアのスカートに完全に包まれてしまった！
+> CONTEXT: Troops/328/pages/0/241/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ふっ…！♡♡♡ふうっ…！♡♡
+
+んっ…！♡うぅ…！！♡
+> CONTEXT: Troops/328/pages/0/266/Dialogue/kazuya-9 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[1]はティターニアに身を捧げてしまった…
+> CONTEXT: Troops/328/pages/0/328/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[1]は、一心不乱に
+
+ティターニアに腰を振り続けている……
+> CONTEXT: Troops/328/pages/0/330/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ああっ……♡♡その調子……！！♡
+
+もっとケダモノのように……！♡
+> CONTEXT: Troops/328/pages/0/344/Dialogue/enemy28 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+私を満足させるまで中出しできたら……っ♡
+
+もっと気持ちいいキスをしてあげますよ……っ♡♡
+> CONTEXT: Troops/328/pages/0/348/Dialogue/enemy28 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ああっ……素晴らしい……♡♡
+
+もっと………もっと盛りなさい……♡♡
+もっと……もっとぉ……♡
+> CONTEXT: Troops/328/pages/0/405/Dialogue/enemy28 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ティターニア【敗北2】
+> CONTEXT: Troops/329/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アナオン【通常】
+> CONTEXT: Troops/330/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+………あら、珍しい
+
+まだピクシーたちに捕まってないニンゲンが
+こんなところを歩き回ってるなんて
+> CONTEXT: Troops/330/pages/1/11/Dialogue/enemy33 < UNTRANSLATED
+> CONTEXT: Troops/331/pages/1/10/Dialogue/enemy33 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どうしたの？
+小さいやつらの相手がイヤで逃げ出してきたの？
+
+よかったら、私が相手をしてあげるわよ…♡
+> CONTEXT: Troops/330/pages/1/16/Dialogue/enemy33 < UNTRANSLATED
+> CONTEXT: Troops/331/pages/1/15/Dialogue/enemy33 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アハハッ、その顔…♡
+今から自分が『どんな目的で』襲われるのか知ってるのね？
+
+大丈夫、私のはとっても優しいから……♡♡
+> CONTEXT: Troops/330/pages/1/23/Dialogue/enemy33 < UNTRANSLATED
+> CONTEXT: Troops/331/pages/1/22/Dialogue/enemy33 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ただ、私は暴力は好きじゃないの
+
+あんまり抵抗したら、その後の扱いは保証しないから
+おとなしく私に『捕食』されなさい……♡♡
+> CONTEXT: Troops/330/pages/1/28/Dialogue/enemy33 < UNTRANSLATED
+> CONTEXT: Troops/331/pages/1/27/Dialogue/enemy33 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ちっ………
+
+なかなか素直じゃないわね…
+> CONTEXT: Troops/330/pages/2/6/Dialogue/enemy33 < UNTRANSLATED
+> CONTEXT: Troops/331/pages/2/6/Dialogue/enemy33 < UNTRANSLATED
+> CONTEXT: Troops/338/pages/2/6/Dialogue/enemy33 < UNTRANSLATED
+> CONTEXT: Troops/339/pages/2/6/Dialogue/enemy33 < UNTRANSLATED
+> CONTEXT: Troops/340/pages/2/6/Dialogue/enemy33 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+まぁいいわ……
+この辺の森の中は、私のテリトリー…
+
+あなたは、私の巣の中にいるのも同然だもの♡
+> CONTEXT: Troops/330/pages/2/10/Dialogue/enemy33 < UNTRANSLATED
+> CONTEXT: Troops/331/pages/2/10/Dialogue/enemy33 < UNTRANSLATED
+> CONTEXT: Troops/338/pages/2/10/Dialogue/enemy33 < UNTRANSLATED
+> CONTEXT: Troops/339/pages/2/10/Dialogue/enemy33 < UNTRANSLATED
+> CONTEXT: Troops/340/pages/2/10/Dialogue/enemy33 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+また襲いに来てあげるわ…♡
+
+フフフ…♡
+> CONTEXT: Troops/330/pages/2/15/Dialogue/enemy33 < UNTRANSLATED
+> CONTEXT: Troops/331/pages/2/15/Dialogue/enemy33 < UNTRANSLATED
+> CONTEXT: Troops/338/pages/2/15/Dialogue/enemy33 < UNTRANSLATED
+> CONTEXT: Troops/339/pages/2/15/Dialogue/enemy33 < UNTRANSLATED
+> CONTEXT: Troops/340/pages/2/15/Dialogue/enemy33 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+戦闘に勝利したことにより
+\\C[2]アナオンに対しての気丈な精神を少し取り戻した…
+> CONTEXT: Troops/330/pages/2/64/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/331/pages/2/64/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/338/pages/2/64/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/339/pages/2/64/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/340/pages/2/64/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アナオン【敗北】
+> CONTEXT: Troops/331/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ティターニア【通常】
+> CONTEXT: Troops/332/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+こ、これは………！？
+
+この姿、蝶っていうより、まるで…！！
+> CONTEXT: Troops/332/pages/1/10/Dialogue/kazuya < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ああ……だが、だからこそ警戒しろ！
+
+\\C[2]ハエの飛行能力は、超能力の有無すら疑われるほど
+昆虫界でトップレベルと言われているんだ
+> CONTEXT: Troops/332/pages/1/14/Dialogue/other1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[2]目に追えないほど加速したら、回避に専念しろ！
+
+その間に攻撃しても、どうせ当たらない！
+> CONTEXT: Troops/332/pages/1/19/Dialogue/other1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+マイエナ【通常】
+> CONTEXT: Troops/333/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ぐっ…！？
+> CONTEXT: Troops/333/pages/0/16/Dialogue/kazuya-0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[1]は、身体が痺れて
+
+その場に倒れ込んでしまった！
+> CONTEXT: Troops/333/pages/0/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+やりぃ♪
+
+我ながら、正確な突きだねぇ
+> CONTEXT: Troops/333/pages/0/22/Dialogue/enemy30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+な、なにを…！？
+> CONTEXT: Troops/333/pages/0/26/Dialogue/kazuya-0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ふ、ふふ……♡
+
+エナちゃんの持ってる針は、『妖精の針』…
+人間に、いろんな影響を与える魔力があるの……
+> CONTEXT: Troops/333/pages/0/28/Dialogue/enemy27 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+い、今、エナちゃんはその針を使って
+\\C[2]\\N[1]くんの身体を麻痺させた……\\C[0]
+
+大丈夫……暴れなければ、痛くないよ……
+> CONTEXT: Troops/333/pages/0/33/Dialogue/enemy27 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[1]
+あんたが遊んでくれる気がなくても構わないよ
+
+私たちで、勝手に遊んじゃうから♡
+> CONTEXT: Troops/333/pages/0/38/Dialogue/enemy30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それじゃ、早速はじめよっか♪
+
+『がまんゲーム』♡
+> CONTEXT: Troops/333/pages/0/71/Dialogue/enemy30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ルールは、説明しなくても分かってるよね？
+
+\\N[1]♡
+> CONTEXT: Troops/333/pages/0/75/Dialogue/enemy30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+チェシャ（２戦目）
+> CONTEXT: Troops/334/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フフフ、腹は決まったみたいだね
+
+そう緊張しなくても大丈夫だよ？
+これは別に戦闘ってワケじゃないんだから。
+> CONTEXT: Troops/334/pages/0/11/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Troops/336/pages/0/12/Dialogue/enemy29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+これからボクは、キミをいじくり回すけど
+\\C[2]３ターンの間は、決して『搾精』したりしない
+
+極端な話、射精を我慢する必要もない
+> CONTEXT: Troops/334/pages/0/16/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Troops/336/pages/0/17/Dialogue/enemy29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[2]もし仮に３ターン目に『朦朧』だったとしても
+『やめて』ぐらいなら言えるだろう？
+
+それができれば、キミの勝ちさ♪
+> CONTEXT: Troops/334/pages/0/21/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Troops/336/pages/0/22/Dialogue/enemy29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だから……ホラ、リラックスして♡♡
+
+感じるままに喘いでくれないと
+ボクだって遊び甲斐がないからね♡
+> CONTEXT: Troops/334/pages/0/26/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Troops/336/pages/0/27/Dialogue/enemy29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[1]は、チェシャの両手に挟み込まれ
+
+掌だけで完全に抱き包まれてしまった！
+> CONTEXT: Troops/334/pages/0/45/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/336/pages/0/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+わぁ\\N[1]くん、思ったより軽いねえ♪
+
+二十代の大事な時期を眠り続けてたんだから
+今後はしっかり食べなくちゃダメだよ？
+> CONTEXT: Troops/334/pages/0/49/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Troops/336/pages/0/50/Dialogue/enemy29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+まずは、準備運動もかねて
+キミの身体をほぐしてあげる♡
+
+そのまま、じっとしてて……
+> CONTEXT: Troops/334/pages/0/54/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Troops/336/pages/0/55/Dialogue/enemy29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もう…ボクの好きにさせてっていったのに
+\\C[2]ガードしちゃったら約束違反じゃないか……
+
+\\C[0]普段のクセが出ちゃったんだろうけど…
+> CONTEXT: Troops/334/pages/1/1/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Troops/334/pages/2/1/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Troops/334/pages/3/1/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Troops/336/pages/1/1/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Troops/336/pages/2/1/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Troops/336/pages/3/1/Dialogue/enemy29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+でもまぁ、ボクには関係ないんですけどねぇ♡
+> CONTEXT: Troops/334/pages/1/6/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Troops/334/pages/2/6/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Troops/334/pages/3/6/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Troops/336/pages/1/6/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Troops/336/pages/2/6/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Troops/336/pages/3/6/Dialogue/enemy29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あれ？さっそくお漏らししちゃった？
+
+ちゃんとボクの言った通り、リラックスしてたんだね
+えらいえらい♡
+> CONTEXT: Troops/334/pages/1/15/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Troops/336/pages/1/15/Dialogue/enemy29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+濡れたままの服も、気持ち悪いだけでしょ？
+
+どうせだから、このまま脱がしてあげる……♡
+> CONTEXT: Troops/334/pages/1/20/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Troops/336/pages/1/20/Dialogue/enemy29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はぁっ………♡
+
+はあっ………♡
+> CONTEXT: Troops/334/pages/1/27/Dialogue/kazuya-0 < UNTRANSLATED
+> CONTEXT: Troops/336/pages/1/27/Dialogue/kazuya-0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さぁ…大分ほぐれてきたみたいだね♪
+
+身体に力が入らなくなってきたかな？
+> CONTEXT: Troops/334/pages/1/31/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Troops/336/pages/1/31/Dialogue/enemy29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そんなに強張らなくても大丈夫だよ♡
+
+不意打ちで襲ったりしないってぇ♪
+> CONTEXT: Troops/334/pages/1/35/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Troops/336/pages/1/35/Dialogue/enemy29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それじゃあ……
+
+そろそろ、ハグしちゃおっかなぁ…♡
+> CONTEXT: Troops/334/pages/1/39/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Troops/336/pages/1/39/Dialogue/enemy29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[1]は、チェシャに抱きしめられてしまった！！
+> CONTEXT: Troops/334/pages/1/56/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/336/pages/1/56/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+大丈夫だよ
+
+今回は、胸の中に頭が入らないでしょ？
+ちゃんとボタンのヒモを調整して来たんだから。
+> CONTEXT: Troops/334/pages/1/81/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Troops/336/pages/1/81/Dialogue/enemy29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ああ、それにしても……♡
+
+何の小細工もないハグって、気持ちいいなぁ
+直に相手の体温を感じられるっていうか…♡
+> CONTEXT: Troops/334/pages/1/86/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Troops/336/pages/1/86/Dialogue/enemy29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ん……あぁ…♡♡
+
+あ…♡
+> CONTEXT: Troops/334/pages/1/91/Dialogue/kazuya-0 < UNTRANSLATED
+> CONTEXT: Troops/336/pages/1/91/Dialogue/kazuya-0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[1]くんもホラ、あと２ターン楽しんで♡
+
+ボクの温もりを感じてよ♡
+> CONTEXT: Troops/334/pages/1/95/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Troops/336/pages/1/95/Dialogue/enemy29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フフフ、太ももにいっぱいかかっちゃった♡♡
+
+\\N[1]くん、元気だなぁ♪
+> CONTEXT: Troops/334/pages/2/15/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Troops/336/pages/2/15/Dialogue/enemy29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+これが全部、膣の中に入っていたかもって想像すると
+
+なんだかこっちまでドキドキしてきちゃうよ♡
+> CONTEXT: Troops/334/pages/2/19/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Troops/336/pages/2/19/Dialogue/enemy29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ふっ………♡
+
+んっ……♡♡
+> CONTEXT: Troops/334/pages/2/26/Dialogue/kazuya-2 < UNTRANSLATED
+> CONTEXT: Troops/336/pages/2/26/Dialogue/kazuya-2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+んー？
+おっぱいに顔を着けてから、トローンとしてるね？
+
+やっぱり\\N[1]くん、おっぱい好き？
+> CONTEXT: Troops/334/pages/2/30/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Troops/336/pages/2/30/Dialogue/enemy29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ボクのおっぱいは、能力関係なしに
+柔らかさと張りのバランスは悪魔のなかでも至高級だよ♡
+
+たっぷり堪能してくれた？
+> CONTEXT: Troops/334/pages/2/35/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Troops/336/pages/2/35/Dialogue/enemy29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それじゃあ……♡
+
+そろそろ、メインといきますかぁ……♡
+> CONTEXT: Troops/334/pages/2/40/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Troops/336/pages/2/40/Dialogue/enemy29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[1]は、チェシャに押し倒され
+
+下半身に組み付かれてしまった！！
+> CONTEXT: Troops/334/pages/2/57/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/336/pages/2/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アハハッ♡
+全身はふにゃふにゃなのに、ここだけビンビン♡♡
+
+\\N[1]くん、分かってるなぁ♡
+> CONTEXT: Troops/334/pages/2/61/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Troops/336/pages/2/61/Dialogue/enemy29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それじゃあ、最後の仕上げ…♡
+
+下半身を重点的にモミモミして
+股間への血行を良くしてあげる♡♡
+> CONTEXT: Troops/334/pages/2/68/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Troops/336/pages/2/68/Dialogue/enemy29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あわよくば、このまま顔面にぶっかけてほしいけど
+ボクはこうやってペロペロするだけでもいいよ♡
+
+キミを自由に弄ぶのが主目的だからさ♡
+> CONTEXT: Troops/334/pages/2/73/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Troops/336/pages/2/73/Dialogue/enemy29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[1]くん、ほらほら、あと1ターン♡
+
+ボクに好き勝手されるのも、もう少しで終わりだよ♡
+気をしっかりもって♪
+> CONTEXT: Troops/334/pages/2/103/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Troops/336/pages/2/103/Dialogue/enemy29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アハハッ♡
+まさか本当にぶっかけてくれるなんて♡♡
+
+\\N[1]くんは優しいなぁ♡
+> CONTEXT: Troops/334/pages/3/19/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Troops/336/pages/3/19/Dialogue/enemy29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アハッ、まだビクビクしてる♡
+マッサージの成果か、萎える気配もなさそうだ…♡
+
+楽しいなぁ♡
+> CONTEXT: Troops/334/pages/3/24/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Troops/336/pages/3/24/Dialogue/enemy29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はぁっ……
+
+はぁっ……
+> CONTEXT: Troops/334/pages/3/36/Dialogue/kazuya-0 < UNTRANSLATED
+> CONTEXT: Troops/336/pages/3/36/Dialogue/kazuya-0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+性的興奮で、正確に数えてはいないが……
+\\C[2]チェシャの要求した時間に達したはずだ……\\C[0]
+
+いやらしいチェシャの手の動きが、ピタリと止まる…
+> CONTEXT: Troops/334/pages/3/40/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/336/pages/3/40/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+………なんだか触れてれば触れてるほど
+反応が可愛くて、ついついテンション上げちゃうなぁ♡
+
+普通の人間なら壊れるレベルだから、なおさらね♡
+> CONTEXT: Troops/334/pages/3/45/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Troops/336/pages/3/45/Dialogue/enemy29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+でも、約束は約束だからね…
+
+ボクが好き勝手出来るのはここまで……
+> CONTEXT: Troops/334/pages/3/52/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Troops/336/pages/3/52/Dialogue/enemy29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+キミが『やめて』って言えば、そこでおしまい。
+
+ボクは即座にキミを離して
+キミは先に進めるようになる…
+> CONTEXT: Troops/334/pages/3/56/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Troops/336/pages/3/56/Dialogue/enemy29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+………で、モノは相談なんだけどぉ……♡
+
+このままボクにフェラされちゃうのってどお？♡
+いっぱい気持ちよくしてあげるから♡
+> CONTEXT: Troops/334/pages/3/64/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Troops/336/pages/3/64/Dialogue/enemy29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+『やめて』と言う
+> CONTEXT: Troops/334/pages/3/73/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+『やめないで』と言う
+> CONTEXT: Troops/334/pages/3/73/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+や、やめ…
+> CONTEXT: Troops/334/pages/3/75/Dialogue/kazuya-0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フフフ、ホントに良いのかなぁ？
+
+このまま抜け出せば、\\C[10]ボクの【フェラ搾精】は、
+敗北回想に載らないよ？
+> CONTEXT: Troops/334/pages/3/77/Dialogue/enemy29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[2]本来、ボクはここにいないはずの悪魔なんだ
+全書にだって載らないし、想ひ魂も存在しない。
+
+\\C[10]ここで見逃したら、項目自体が存在しなくなる。
+> CONTEXT: Troops/334/pages/3/82/Dialogue/enemy29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+でももしこの場でボクのフェラを受けて負けてくれるなら…
+
+ボクが特別に載せてあげる♪
+> CONTEXT: Troops/334/pages/3/87/Dialogue/enemy29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どうする？
+
+それでも、ボクのフェラをやめて欲しいの？
+> CONTEXT: Troops/334/pages/3/95/Dialogue/enemy29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+やめて
+> CONTEXT: Troops/334/pages/3/99/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+やめないで
+> CONTEXT: Troops/334/pages/3/99/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+チェシャ【敗北1】
+> CONTEXT: Troops/335/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+チェシャ【敗北2】
+> CONTEXT: Troops/336/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+マイ【敗北】
+> CONTEXT: Troops/337/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エナ【敗北】
+> CONTEXT: Troops/338/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エナ2【敗北】
+> CONTEXT: Troops/339/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アナオン【敗北2】
+> CONTEXT: Troops/340/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+巨スフィンクス【敗北】
+> CONTEXT: Troops/341/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エナ【通常】
+> CONTEXT: Troops/343/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+まっ、待って！！！\\N[1]！！
+
+こ、降参！！！私の負け！！
+> CONTEXT: Troops/343/pages/2/8/Dialogue/enemy30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お、おねがい…これ以上痛いことしないで？
+
+私も、ホラ、針は捨てるから…ね…♡
+> CONTEXT: Troops/343/pages/2/12/Dialogue/enemy30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そんな怖い顔しないでよぉ♡
+
+ほんのお茶目でしょ…？ね？ね？♡♡
+> CONTEXT: Troops/343/pages/2/16/Dialogue/enemy30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エナは、妖精の針を捨てて
+
+こちらにゆっくりと近付いてきている……
+> CONTEXT: Troops/343/pages/2/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+どうする…？
+
+彼女を信用するのか…？
+それとも…
+> CONTEXT: Troops/343/pages/2/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+マイ【通常】
+> CONTEXT: Troops/344/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+
+『行動』に\\C[2]『集中する』\\C[0]が追加されました。
+> CONTEXT: Troops/344/pages/1/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+……\\C[2]早く魔法が使えるようにならないと…！
+
+彼女に押し切られて、抵抗できなくなってしまう…
+> CONTEXT: Troops/344/pages/1/20/Dialogue/kazuya < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+『集中』だ……
+
+とにかく、精神を集中させるんだ…！
+> CONTEXT: Troops/344/pages/1/24/Dialogue/kazuya < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+巨スフィンクス【通常】
+> CONTEXT: Troops/345/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[1]！！やめろ！
+今のお前じゃ、このスフィンクスに敵いっこない！！
+
+ここはひとまず逃げるんだ！！
+> CONTEXT: Troops/345/pages/1/9/Dialogue/other2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+分かっている……………雰囲気で分かる……
+
+この悪魔は、今までの相手とはケタが違う……！
+\\C[2]とても今の装備では太刀打ちできそうにない……
+> CONTEXT: Troops/345/pages/1/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+何か………何か方法はないか……
+
+\\C[2]彼女に宝玉を手放させる方法は……！！
+> CONTEXT: Troops/345/pages/1/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ほう……………\\N[1]というのか。
+
+そのただならぬ魔力、相当の手練れと見える……
+汝に１つ問いかけよう
+> CONTEXT: Troops/345/pages/1/26/Dialogue/enemy32 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+前身の我は、汝に相当惚れ込んでいたらしい
+
+………………が、そちらはどうだったのだ？
+前身の我は、汝と相思相愛であったのか？
+> CONTEXT: Troops/345/pages/1/31/Dialogue/enemy32 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…………答えたくはないか、それもよかろう
+
+誰であれ、自身の色恋沙汰など打ち明け難いものだ……
+> CONTEXT: Troops/345/pages/1/38/Dialogue/enemy32 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ならば、我が自分の手で確かめてみるのみ……
+
+\\N[1]よ、大人しく我に従え…！！
+> CONTEXT: Troops/345/pages/1/42/Dialogue/enemy32 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[1]、\\C[2]やっぱり逃げよう！
+
+この状況じゃあ、お前にどうやっても勝ち目はない！
+> CONTEXT: Troops/345/pages/2/2/Dialogue/other2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+伝承の通りなら、\\C[2]スフィンクスは問答に答える前なら
+引き返す人間を追うことを禁じられていたはず
+
+お前はまだ、やつの問いかけに答えていない！
+> CONTEXT: Troops/345/pages/2/6/Dialogue/other2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+今は逃げて、対策を考えよう！
+
+ヤツも、お前を蹂躙するのが目的である以上
+捕まえる動作以上の事は、なにもできないはずだ！
+> CONTEXT: Troops/345/pages/2/11/Dialogue/other2 < UNTRANSLATED
 
 > END STRING
