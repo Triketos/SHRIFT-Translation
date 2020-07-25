@@ -6671,6 +6671,36 @@ Aether Slice#Ron
 > END STRING
 
 > BEGIN STRING
+\\N[1]の『状態異常』の認識が変わっていく！！
+> CONTEXT: Skills/548/message2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ステート・イリュージョン
+> CONTEXT: Skills/548/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[1]の『抵抗力』の認識が絶望的になる！！
+> CONTEXT: Skills/549/message2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フィナーレ・イリュージョン
+> CONTEXT: Skills/549/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は、大きな手で\\N[1]をシェイクした
+> CONTEXT: Skills/549/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
 感電
 > CONTEXT: Skills/553/name
 > CONTEXT: Skills/557/name
@@ -6826,12 +6856,16 @@ Brain Refill#afrgPR
 > BEGIN STRING
 \\N[1]は喰われる以外にもはや為す術はない…
 > CONTEXT: Skills/581/message2 < UNTRANSLATED
+> CONTEXT: Skills/877/message2 < UNTRANSLATED
+> CONTEXT: Skills/878/message2 < UNTRANSLATED
 
 > END STRING
 
 > BEGIN STRING
 かぶりつく
 > CONTEXT: Skills/581/name < UNTRANSLATED
+> CONTEXT: Skills/877/name < UNTRANSLATED
+> CONTEXT: Skills/878/name < UNTRANSLATED
 
 > END STRING
 
@@ -7205,6 +7239,71 @@ Special accident battles can occur against this monster.#afrgPR
 > END STRING
 
 > BEGIN STRING
+\\C[10]アナオンに犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、ダメージが２０％増加する。
+> CONTEXT: Skills/615/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+【アナオンの美容エキス】Lv1
+> CONTEXT: Skills/615/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[10]アナオンに犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、勝手に毎ターン性欲が５％上昇する。
+> CONTEXT: Skills/616/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+【アナオンの美容エキス】Lv2
+> CONTEXT: Skills/616/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[10]アナオンに犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、最大抵抗力が８０％になる。
+> CONTEXT: Skills/617/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+【アナオンの美容エキス】Lv3
+> CONTEXT: Skills/617/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[10]アナオンに犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、最大気力が８０％になる。
+> CONTEXT: Skills/618/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+【アナオンの美容エキス】Lv4
+> CONTEXT: Skills/618/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[10]アナオンに犯され、精神に快感を擦り込まれたパッシブスキル。
+対象悪魔との戦闘時、特殊アクシデント戦闘が発生する事がある。
+> CONTEXT: Skills/619/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+【アナオンの美容エキス】LvMAX
+> CONTEXT: Skills/619/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
 猛攻の巻物
 > CONTEXT: Skills/620/name
 Assault Scroll#afrgPR
@@ -7531,7 +7630,9 @@ Desire Tail Wrapping#afrg
 > BEGIN STRING
 相手の周囲に魔力が集まっていく…！！
 > CONTEXT: Skills/679/message2
+> CONTEXT: Skills/709/message2
 > CONTEXT: Skills/852/message2
+> CONTEXT: Skills/884/message2
 Magical Power gathers around her...! !#afrg
 > END STRING
 
@@ -7568,6 +7669,7 @@ Footjob Paradise#afrg
 > CONTEXT: Skills/701/description
 > CONTEXT: Skills/754/description
 > CONTEXT: Skills/846/description
+> CONTEXT: Skills/862/description
 Deals non-attribute magical damage to your opponent. 
 Does little damage, but ignores magic resistance.#afrg
 > END STRING
@@ -7577,6 +7679,7 @@ Does little damage, but ignores magic resistance.#afrg
 > CONTEXT: Skills/685/name
 > CONTEXT: Skills/754/name
 > CONTEXT: Skills/846/name
+> CONTEXT: Skills/862/name
 El Period#afrg
 > END STRING
 
@@ -7585,6 +7688,7 @@ El Period#afrg
 > CONTEXT: Skills/685/message1
 > CONTEXT: Skills/754/message1
 > CONTEXT: Skills/846/message1
+> CONTEXT: Skills/862/message1
  casts El Period!#afrg
 > END STRING
 
@@ -7688,6 +7792,37 @@ Elegant Dance#afrg
 > END STRING
 
 > BEGIN STRING
+妖精針の奇跡
+> CONTEXT: Skills/707/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は妖精の針を\\N[1]にチクリと刺した！
+> CONTEXT: Skills/707/message1 < UNTRANSLATED
+> CONTEXT: Skills/708/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+麻痺の妖精針
+> CONTEXT: Skills/708/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+チャージ
+> CONTEXT: Skills/709/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は力を溜めた！
+> CONTEXT: Skills/709/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
 はナイトエッジを振り回した！
 > CONTEXT: Skills/710/message1
  brandished Night Edge!#afrg
@@ -7724,12 +7859,14 @@ Whirlwind#afrg
 > BEGIN STRING
 サイ・ヒーリング
 > CONTEXT: Skills/715/name
+> CONTEXT: Skills/883/name
 Psi Healing#afrg
 > END STRING
 
 > BEGIN STRING
 はサイ・ヒーリングを放った！
 > CONTEXT: Skills/715/message1
+> CONTEXT: Skills/883/message1
  casts Psi Healing!#afrg
 > END STRING
 
@@ -8967,4 +9104,316 @@ Surprise Kimono#Triketos
 は振り袖を操り、\\N[1]を手元まで寄せた！
 > CONTEXT: Skills/860/message1
  manipulates the kimono and pulls Kazuya to her side!#DL
+> END STRING
+
+> BEGIN STRING
+誘虫の果実
+> CONTEXT: Skills/863/name < UNTRANSLATED
+> CONTEXT: Skills/864/name < UNTRANSLATED
+> CONTEXT: Skills/866/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は、自身のおっぱいを見せつけるように揉みだした！
+> CONTEXT: Skills/863/message1 < UNTRANSLATED
+> CONTEXT: Skills/864/message1 < UNTRANSLATED
+> CONTEXT: Skills/866/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フワフワとした心地よさが\\N[1]を包み込む……
+> CONTEXT: Skills/865/message2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+セイレーン・ボイス
+> CONTEXT: Skills/865/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は透き通った声で\\N[1]を誘惑した
+> CONTEXT: Skills/865/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[1]は、柔らかそうなおっぱいから目が離せない…！！
+> CONTEXT: Skills/866/message2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もはや\\N[1]は、その刺激的な快楽に溺れるしかない……
+> CONTEXT: Skills/867/message2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+捕食
+> CONTEXT: Skills/867/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は、\\N[1]の下半身に喰らいつき、エキスを啜っている…
+> CONTEXT: Skills/867/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[1]は、その刺激に耐えきれず、悶絶している！
+> CONTEXT: Skills/868/message2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フェアリー・ダンス
+> CONTEXT: Skills/868/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は、\\N[1]のペニスに抱きつき、激しくしごいてきた！
+> CONTEXT: Skills/868/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ティターニアの繊細な舌が、口内を蠢き、這い回る…！
+> CONTEXT: Skills/869/message2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+女王の接吻
+> CONTEXT: Skills/869/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は、\\N[1]にディープキスをした！
+> CONTEXT: Skills/869/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+防御していた腕の筋肉が揉み解されていく……
+> CONTEXT: Skills/870/message2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+猫拳マモリヤブリ
+> CONTEXT: Skills/870/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は、大きな猫の手で\\N[1]の腕を揉んだ
+> CONTEXT: Skills/870/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[1]の身体の筋肉がふにゃふにゃになっていく…
+> CONTEXT: Skills/871/message2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もみもみマッサージ
+> CONTEXT: Skills/871/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は、大きな猫の手で、\\N[1]の身体を揉んだ
+> CONTEXT: Skills/871/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[1]の下半身から緊張が抜けていく…
+> CONTEXT: Skills/872/message2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ぺろぺろマッサージ
+> CONTEXT: Skills/872/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は、大きな舌で、\\N[1]の身体を舐め回した
+> CONTEXT: Skills/872/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フェザースマッシュ
+> CONTEXT: Skills/873/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は妖精の針を大きく振りかざし、斬撃を放った！
+> CONTEXT: Skills/873/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+百烈突き
+> CONTEXT: Skills/874/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は百烈突きを放った！
+> CONTEXT: Skills/874/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+彼女のムチムチの太ももが、視界に入ってしまう…
+> CONTEXT: Skills/875/message2 < UNTRANSLATED
+> CONTEXT: Skills/880/message2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+風のイタズラ
+> CONTEXT: Skills/875/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+のスカートが、激しい動きで淫らに揺れる…
+> CONTEXT: Skills/875/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+姿が見えず、奇襲位置が把握できない…！！
+> CONTEXT: Skills/876/message2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ダンス・マカブル
+> CONTEXT: Skills/876/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は素早い動きで、\\N[1]を捕獲しようとしてきた！
+> CONTEXT: Skills/876/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は\\N[1]の頭にかぶりつき、貪欲に舐め貪っている！
+> CONTEXT: Skills/877/message1 < UNTRANSLATED
+> CONTEXT: Skills/878/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は、スカートをたくし上げ、\\N[1]を誘惑してきた！
+> CONTEXT: Skills/880/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+彼女の繊細な指が、ペニスを貪欲に刺激する…
+> CONTEXT: Skills/882/message2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ピクシー・トリック
+> CONTEXT: Skills/882/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は\\n[1]のペニスをグリグリと弄り始めた
+> CONTEXT: Skills/882/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔法を使用可能にするため、精神を集中する
+> CONTEXT: Skills/884/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は意識を集中した
+> CONTEXT: Skills/884/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+その早さは、恐ろしく素早い…！！！
+> CONTEXT: Skills/885/message2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+巨獅子の撫手
+> CONTEXT: Skills/885/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の手が、\\N[1]に襲いかかる！
+> CONTEXT: Skills/885/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+彼女の唾液と舌使いの刺激が、快楽として襲ってくる…！
+> CONTEXT: Skills/886/message2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+巨獅子の咀嚼
+> CONTEXT: Skills/886/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は\\N[1]の股間を吸い付くようにしゃぶった！
+> CONTEXT: Skills/886/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+肉球のプニプニとした柔らかさが、身体全体を包み込む…
+> CONTEXT: Skills/887/message2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+巨獅子の探求
+> CONTEXT: Skills/887/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は\\N[1]の股間を執拗にいじっている！
+> CONTEXT: Skills/887/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あまりの気持ちよさに\\N[1]の抵抗値がどんどん失われていく…
+> CONTEXT: Skills/888/message2 < UNTRANSLATED
+
 > END STRING
