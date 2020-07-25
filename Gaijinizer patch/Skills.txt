@@ -1624,6 +1624,7 @@ of the user for 5 turns.#afrg
 > CONTEXT: Skills/591/description
 > CONTEXT: Skills/626/description
 > CONTEXT: Skills/715/description
+> CONTEXT: Skills/883/description
 Makes it less likely to be affected by Ecstasy, Puppet,
 Panic, and Fear for 5 turns.#afrgPR
 > END STRING
@@ -1800,7 +1801,10 @@ Pure pleasure courses through his veins and saps his strength...#Dargoth
 > CONTEXT: Skills/524/description
 > CONTEXT: Skills/525/description
 > CONTEXT: Skills/526/description
+> CONTEXT: Skills/528/description
+> CONTEXT: Skills/529/description
 > CONTEXT: Skills/590/description
+> CONTEXT: Skills/592/description
 > CONTEXT: Skills/625/description
 > CONTEXT: Skills/630/description
 > CONTEXT: Skills/638/description
@@ -1814,6 +1818,8 @@ Pure pleasure courses through his veins and saps his strength...#Dargoth
 > CONTEXT: Skills/697/description
 > CONTEXT: Skills/698/description
 > CONTEXT: Skills/699/description
+> CONTEXT: Skills/707/description
+> CONTEXT: Skills/708/description
 > CONTEXT: Skills/710/description
 > CONTEXT: Skills/711/description
 > CONTEXT: Skills/723/description
@@ -1842,6 +1848,14 @@ Pure pleasure courses through his veins and saps his strength...#Dargoth
 > CONTEXT: Skills/843/description
 > CONTEXT: Skills/853/description
 > CONTEXT: Skills/854/description
+> CONTEXT: Skills/873/description
+> CONTEXT: Skills/874/description
+> CONTEXT: Skills/875/description
+> CONTEXT: Skills/876/description
+> CONTEXT: Skills/879/description
+> CONTEXT: Skills/880/description
+> CONTEXT: Skills/881/description
+> CONTEXT: Skills/882/description
 Perform a powerful attack against one foe.#Dargoth
 > END STRING
 
@@ -1911,6 +1925,7 @@ Beast Claw#Dargoth
 > CONTEXT: Skills/341/description
 > CONTEXT: Skills/343/description
 > CONTEXT: Skills/363/description
+> CONTEXT: Skills/548/description
 > CONTEXT: Skills/550/description
 > CONTEXT: Skills/551/description
 > CONTEXT: Skills/552/description
@@ -1938,6 +1953,11 @@ Beast Claw#Dargoth
 > CONTEXT: Skills/836/description
 > CONTEXT: Skills/845/description
 > CONTEXT: Skills/856/description
+> CONTEXT: Skills/865/description
+> CONTEXT: Skills/877/description
+> CONTEXT: Skills/878/description
+> CONTEXT: Skills/886/description
+> CONTEXT: Skills/887/description
 Causes your opponent to lose their balance.#Dargoth
 > END STRING
 
@@ -2018,6 +2038,7 @@ pinning them down. Small chance to inflict stun.#Ron
 > CONTEXT: Skills/515/name
 > CONTEXT: Skills/520/name
 > CONTEXT: Skills/521/name
+> CONTEXT: Skills/527/name
 > CONTEXT: Skills/767/name
 Pin Down#Dargoth
 > END STRING
@@ -2029,6 +2050,7 @@ Pin Down#Dargoth
 > CONTEXT: Skills/515/message1
 > CONTEXT: Skills/520/message1
 > CONTEXT: Skills/521/message1
+> CONTEXT: Skills/527/message1
 > CONTEXT: Skills/767/message1
 > CONTEXT: Skills/840/message1
  forcefully leaps on top of \\N[1]!#Dargoth
@@ -2221,6 +2243,7 @@ s greedily indulge in their prey...#Dargoth
 這い回る舌と唾液が、口内でいやらしい音を立てている
 > CONTEXT: Skills/148/message2
 > CONTEXT: Skills/734/message2
+> CONTEXT: Skills/879/message2
 The mixture of tongues and saliva make lewd squishing noises.#Dargoth
 > END STRING
 
@@ -2228,6 +2251,7 @@ The mixture of tongues and saliva make lewd squishing noises.#Dargoth
 舌まぐわい
 > CONTEXT: Skills/148/name
 > CONTEXT: Skills/734/name
+> CONTEXT: Skills/879/name
 Tongue Sex#Dargoth
 > END STRING
 
@@ -2235,6 +2259,7 @@ Tongue Sex#Dargoth
 の舌が、さらに深く侵入してくる…
 > CONTEXT: Skills/148/message1
 > CONTEXT: Skills/734/message1
+> CONTEXT: Skills/879/message1
 's tongue raids even deeper...#Dargoth
 > END STRING
 
@@ -2343,6 +2368,7 @@ They feel so good, \\N[1] is losing vitality...#Dargoth
 > CONTEXT: Skills/794/name
 > CONTEXT: Skills/839/name
 > CONTEXT: Skills/858/name
+> CONTEXT: Skills/888/name
 Breasts of Submission#Dargoth
 > END STRING
 
@@ -2353,6 +2379,7 @@ Breasts of Submission#Dargoth
 > CONTEXT: Skills/361/message1
 > CONTEXT: Skills/794/message1
 > CONTEXT: Skills/839/message1
+> CONTEXT: Skills/888/message1
  smothers \\N[1]'s face between her huge fruits!#Dargoth
 > END STRING
 
@@ -2480,6 +2507,7 @@ Enticement to Surrender#Dargoth
 > CONTEXT: Skills/165/message2
 > CONTEXT: Skills/381/message2
 > CONTEXT: Skills/769/message2
+> CONTEXT: Skills/881/message2
 Her delicate fingers deftly stimulate his penis...#Dargoth
 > END STRING
 
@@ -2498,6 +2526,7 @@ Feather Shake#Dargoth
 > CONTEXT: Skills/381/message1
 > CONTEXT: Skills/517/message1
 > CONTEXT: Skills/769/message1
+> CONTEXT: Skills/881/message1
  gently strokes \\N[1]'s penis!#Dargoth
 > END STRING
 
@@ -2514,6 +2543,7 @@ Ignore everything but trying to free your legs to escape.#Dargoth
 > CONTEXT: Skills/165/name
 > CONTEXT: Skills/381/name
 > CONTEXT: Skills/769/name
+> CONTEXT: Skills/881/name
 Heaven Shake#Dargoth
 > END STRING
 
@@ -3336,6 +3366,7 @@ Hip Hold#Dargoth
 > CONTEXT: Skills/262/message2
 > CONTEXT: Skills/393/message2
 > CONTEXT: Skills/590/message2
+> CONTEXT: Skills/592/message2
 Constant waves of pleasure run through \\N[1]'s body!#Dargoth
 > END STRING
 
@@ -3344,6 +3375,7 @@ Constant waves of pleasure run through \\N[1]'s body!#Dargoth
 > CONTEXT: Skills/259/name
 > CONTEXT: Skills/393/name
 > CONTEXT: Skills/590/name
+> CONTEXT: Skills/592/name
 Heaven Suck#Dargoth
 > END STRING
 
@@ -3352,6 +3384,7 @@ Heaven Suck#Dargoth
 > CONTEXT: Skills/259/message1
 > CONTEXT: Skills/393/message1
 > CONTEXT: Skills/590/message1
+> CONTEXT: Skills/592/message1
  intensely sucks on \\N[1]'s penis!#Dargoth
 > END STRING
 
@@ -4573,6 +4606,7 @@ An indescribable chill runs through his body!#afrg
 > CONTEXT: Skills/359/description
 > CONTEXT: Skills/362/description
 > CONTEXT: Skills/679/description
+> CONTEXT: Skills/709/description
 > CONTEXT: Skills/852/description
 Increases the caster's physical attack for 3 turns.#Dargoth
 > END STRING
@@ -4599,6 +4633,7 @@ His eyes fixate on her breasts...#afrg
 > BEGIN STRING
 小悪魔の誘い
 > CONTEXT: Skills/360/name
+> CONTEXT: Skills/880/name
 Impish Lure#afrg
 > END STRING
 
@@ -6289,6 +6324,7 @@ Her vagina greedily vagina greedily drains \\N[1]!!#afrgPR
 スフィンクスの必殺技（自称）
 相手に対して5回連続大ダメージを与えて、まれに恍惚にする
 > CONTEXT: Skills/522/description
+> CONTEXT: Skills/549/description
 Sphinx's (self-proclaimed) killer technique. Deals heavy
 damage five times, small chance to inflict "Ecstacy".#Ron
 > END STRING
@@ -6347,6 +6383,43 @@ Blood Suck#Ron
 は\\n[1]の首筋に牙を立て、血を吸い始めた…！
 > CONTEXT: Skills/526/message1
  buries her fangs in \\N[1]'s neck, sucking his blood!#Ron
+> END STRING
+
+> BEGIN STRING
+\\N[1]の『服』の認識が消えていく……！！
+> CONTEXT: Skills/528/message2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヌード・イリュージョン
+> CONTEXT: Skills/528/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は、大きな手で\\N[1]をグニグニした
+> CONTEXT: Skills/528/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[1]の『ぺニス』の認識が変わっていく……
+> CONTEXT: Skills/529/message2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+インサート・イリュージョン
+> CONTEXT: Skills/529/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は、大きな手で\\N[1]をコネコネした
+> CONTEXT: Skills/529/message1 < UNTRANSLATED
+> CONTEXT: Skills/548/message1 < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING

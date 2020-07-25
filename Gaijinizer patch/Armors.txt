@@ -17,13 +17,13 @@ Hospital Gown#Dargoth
 > END STRING
 
 > BEGIN STRING
-患者衣（ＥＡＳＹ）
+患者衣（ＳＡＦＥ）
 > CONTEXT: Armors/2/name
 Hospital Gown (Easy)#Dargoth
 > END STRING
 
 > BEGIN STRING
-患者衣（ＨＡＲＤ）
+患者衣（ＦＯＯＤ）
 > CONTEXT: Armors/3/name
 Hospital Gown (Hard)#Dargoth
 > END STRING
@@ -667,6 +667,9 @@ Mucus Cream#afrg
 宝石と反応し、様々な効果をもたらす結晶体。
 『作業台』で宝石と組み合わせると効果を発揮する。
 > CONTEXT: Armors/68/description
+> CONTEXT: Armors/81/description
+> CONTEXT: Armors/82/description
+> CONTEXT: Armors/83/description
 \\}Crystals that react with gems and produce various effects.
 It exerts an effect when it is combined with gems on the "workbench".#MTLed
 > END STRING
@@ -674,6 +677,9 @@ It exerts an effect when it is combined with gems on the "workbench".#MTLed
 > BEGIN STRING
 結晶霊石
 > CONTEXT: Armors/68/name
+> CONTEXT: Armors/81/name
+> CONTEXT: Armors/82/name
+> CONTEXT: Armors/83/name
 Magic Stone#afrg
 > END STRING
 
@@ -933,7 +939,7 @@ Platinum Box[Harpy Spawn]#Triketos
 > BEGIN STRING
 白金の箱【クイーン】
 > CONTEXT: Armors/214/name
-Platinum box[Harpy Queen]#Triketos
+Platinum Box[Harpy Queen]#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -947,5 +953,11 @@ Though apparently she won't be hostile.#RonIffy
 > BEGIN STRING
 白金の箱【バグベア】
 > CONTEXT: Armors/215/name
-Platinum box[Bugbear]#Ron
+Platinum Box[Bugbear]#Ron
+> END STRING
+
+> BEGIN STRING
+白金の箱【アナオン】
+> CONTEXT: Armors/216/name
+Platinum Box[Anaon]#Triketos
 > END STRING
