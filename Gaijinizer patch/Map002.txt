@@ -90,19 +90,19 @@ Highly recommended for a first play.#Dargoth
 
 > BEGIN STRING
 始める
-> CONTEXT: Map002/events/1/pages/0/118/Choice/0
-> CONTEXT: Map002/events/1/pages/0/141/Choice/0
-> CONTEXT: Map002/events/1/pages/0/161/Choice/0
-> CONTEXT: Map002/events/1/pages/0/195/Choice/0
-> CONTEXT: Map003/events/1/pages/2/630/Choice/0
-> CONTEXT: Map003/events/1/pages/2/649/Choice/0
-> CONTEXT: Map003/events/1/pages/2/668/Choice/0
-> CONTEXT: Map025/events/28/pages/2/10/Choice/0
-> CONTEXT: Map025/events/28/pages/2/29/Choice/0
-> CONTEXT: Map025/events/28/pages/2/48/Choice/0
-> CONTEXT: Map025/events/28/pages/3/10/Choice/0
-> CONTEXT: Map025/events/28/pages/3/29/Choice/0
-> CONTEXT: Map025/events/28/pages/3/48/Choice/0
+> CONTEXT: Map002/events/1/pages/0/119/Choice/0
+> CONTEXT: Map002/events/1/pages/0/142/Choice/0
+> CONTEXT: Map002/events/1/pages/0/162/Choice/0
+> CONTEXT: Map002/events/1/pages/0/196/Choice/0
+> CONTEXT: Map003/events/1/pages/2/631/Choice/0
+> CONTEXT: Map003/events/1/pages/2/650/Choice/0
+> CONTEXT: Map003/events/1/pages/2/669/Choice/0
+> CONTEXT: Map025/events/28/pages/2/11/Choice/0
+> CONTEXT: Map025/events/28/pages/2/30/Choice/0
+> CONTEXT: Map025/events/28/pages/2/49/Choice/0
+> CONTEXT: Map025/events/28/pages/3/11/Choice/0
+> CONTEXT: Map025/events/28/pages/3/30/Choice/0
+> CONTEXT: Map025/events/28/pages/3/49/Choice/0
 > CONTEXT: Map094/events/13/pages/0/85/Choice/0
 > CONTEXT: Map094/events/13/pages/0/104/Choice/0
 > CONTEXT: Map094/events/13/pages/0/123/Choice/0
@@ -143,8 +143,8 @@ Strongly not recommended for your first play.#Dargoth
 
 > BEGIN STRING
 ２周目には傍観者は選べません。
-> CONTEXT: Map002/events/1/pages/0/183/Dialogue
-You can not choose an onlooker on the second lap.#MTLed
+> CONTEXT: Map002/events/1/pages/0/184/Dialogue
+You can not choose Spectator in NG+.#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -161,7 +161,7 @@ spirits broken even on easy. Not even a game anymore.
 
 > BEGIN STRING
 ゲーム中にセーブした場所から始めます。
-> CONTEXT: Map002/events/1/pages/0/220/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/221/ChoiceHelp
 Continue from the place you last saved.#Triketos
 > END STRING
 
@@ -169,7 +169,7 @@ Continue from the place you last saved.#Triketos
 内容：【\\V[108]】
 
 リベンジデータが存在します。このデータをロードしますか？
-> CONTEXT: Map002/events/1/pages/0/223/Dialogue
+> CONTEXT: Map002/events/1/pages/0/224/Dialogue
 > CONTEXT: Map003/events/1/pages/2/589/Dialogue
 Location：【\\V[108]】
 
@@ -178,137 +178,137 @@ Revenge data exists. Do you want to load this file?#Dargoth
 
 > BEGIN STRING
 通常ロード画面へ
-> CONTEXT: Map002/events/1/pages/0/227/Choice/0
+> CONTEXT: Map002/events/1/pages/0/228/Choice/0
 To the regular load screen#Dargoth
 > END STRING
 
 > BEGIN STRING
 リベンジする
-> CONTEXT: Map002/events/1/pages/0/227/Choice/1
+> CONTEXT: Map002/events/1/pages/0/228/Choice/1
 > CONTEXT: Map003/events/1/pages/2/593/Choice/1
 Get revenge#Dargoth
 > END STRING
 
 > BEGIN STRING
 データを削除する（通常ロード画面へ）
-> CONTEXT: Map002/events/1/pages/0/227/Choice/2
+> CONTEXT: Map002/events/1/pages/0/228/Choice/2
 Delete file mode (opens load screen)#Dargoth
 > END STRING
 
 > BEGIN STRING
 選択したセーブデータの状態から
-> CONTEXT: Map002/events/1/pages/0/248/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/249/ChoiceHelp
 From the state of the selected save data#MTLed
 > END STRING
 
 > BEGIN STRING
 チャプター開始するデータを選んでください。
-> CONTEXT: Map002/events/1/pages/0/252/Dialogue
+> CONTEXT: Map002/events/1/pages/0/253/Dialogue
 Please choose a save to load from#Dargoth
 > END STRING
 
 > BEGIN STRING
 一度見た搾精シーンを見ることが出来ます。（免罪符無効）
-> CONTEXT: Map002/events/1/pages/0/262/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/263/ChoiceHelp
 You can see the loss scenes you have already
 seen before. (Hell's Indulgence is unavailable)#Triketos
 > END STRING
 
 > BEGIN STRING
 関連Youtubeリンク en(s[22])
-> CONTEXT: Map002/events/1/pages/0/268/Choice/0
+> CONTEXT: Map002/events/1/pages/0/269/Choice/0
 Youtube Links en(s[22])#Triketos
 > END STRING
 
 > BEGIN STRING
 プレイヤーがYoutubeに投稿した二次創作や実況プレイの動画です。
-> CONTEXT: Map002/events/1/pages/0/270/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/271/ChoiceHelp
 Videos of the secondary creations and
 playthroughs that players have posted to Youtube.#Triketos
 > END STRING
 
 > BEGIN STRING
 関連ノベルリンク en(s[22])
-> CONTEXT: Map002/events/1/pages/0/278/Choice/0
+> CONTEXT: Map002/events/1/pages/0/279/Choice/0
 Open links to related novel en(s[22])#Dargoth
 > END STRING
 
 > BEGIN STRING
 ギャラリー【公式】 en(s[22])
-> CONTEXT: Map002/events/1/pages/0/278/Choice/1
+> CONTEXT: Map002/events/1/pages/0/279/Choice/1
 Gallery [Official] en(s[22])#Dargoth
 > END STRING
 
 > BEGIN STRING
 プレイヤーの方が執筆した、『SHRIFT』関連の小説を紹介しています。
-> CONTEXT: Map002/events/1/pages/0/280/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/281/ChoiceHelp
 Introduces 'SHRIFT' related novels written by players.#MTLed
 > END STRING
 
 > BEGIN STRING
 ゲームで登場した人物の立ち絵や一枚絵などが閲覧できます。
-> CONTEXT: Map002/events/1/pages/0/288/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/289/ChoiceHelp
 You can browse the full images and concept art of
 the characters who appeared in this game.#Triketos
 > END STRING
 
 > BEGIN STRING
 ギャラリー【ゲスト】 en(s[22])
-> CONTEXT: Map002/events/1/pages/0/295/Choice/0
+> CONTEXT: Map002/events/1/pages/0/296/Choice/0
 Gallery [Fan Art] en(s[22])#Dargoth
 > END STRING
 
 > BEGIN STRING
 サウンド
-> CONTEXT: Map002/events/1/pages/0/295/Choice/1
+> CONTEXT: Map002/events/1/pages/0/296/Choice/1
 Music#Dargoth
 > END STRING
 
 > BEGIN STRING
 おまけen(s[13])
-> CONTEXT: Map002/events/1/pages/0/295/Choice/2
+> CONTEXT: Map002/events/1/pages/0/296/Choice/2
 Bonus en(s[13])#Dargoth
 > END STRING
 
 > BEGIN STRING
 タイトルへ戻る
-> CONTEXT: Map002/events/1/pages/0/295/Choice/3
+> CONTEXT: Map002/events/1/pages/0/296/Choice/3
 Return to Title#Dargoth
 > END STRING
 
 > BEGIN STRING
 プレイヤーの方により贈られたイラストを掲載しています。
-> CONTEXT: Map002/events/1/pages/0/297/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/298/ChoiceHelp
 Here are images and art given to me by players.#Triketos
 > END STRING
 
 > BEGIN STRING
 ゲーム中で流れる音楽が鑑賞できます。
-> CONTEXT: Map002/events/1/pages/0/305/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/306/ChoiceHelp
 You can listen to the music played in the game.#Triketos
 > END STRING
 
 > BEGIN STRING
 ゲームを楽しんでくれた人に対してのおまけです。
-> CONTEXT: Map002/events/1/pages/0/312/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/313/ChoiceHelp
 Special bonuses for those who enjoyed the game.#Triketos
 > END STRING
 
 > BEGIN STRING
 ２周目要素リセット
-> CONTEXT: Map002/events/1/pages/0/315/Choice/0
+> CONTEXT: Map002/events/1/pages/0/316/Choice/0
 Remove NG+ Benefits#Triketos
 > END STRING
 
 > BEGIN STRING
 想ひ魂番外編
-> CONTEXT: Map002/events/1/pages/0/315/Choice/1
+> CONTEXT: Map002/events/1/pages/0/316/Choice/1
 Extra Stories#Triketos
 > END STRING
 
 > BEGIN STRING
 ゲームクリアすると、自動的に始まる２周目要素を無効化して
-> CONTEXT: Map002/events/1/pages/0/317/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/318/ChoiceHelp
 Once you've cleared the game, you can turn off
 the bonuses you automatically get during your
 next playthough.#Triketos
@@ -319,7 +319,7 @@ next playthough.#Triketos
 \\C[4][無効化されるもの]
 ・専用ショップ・マイルーム状況
 ・専用イベント・強制見逃し
-> CONTEXT: Map002/events/1/pages/0/322/Dialogue
+> CONTEXT: Map002/events/1/pages/0/323/Dialogue
 Are you sure you want to deactivate the new
 game+ bonuses?
 \\C[4][Disabled]
@@ -329,19 +329,19 @@ game+ bonuses?
 
 > BEGIN STRING
 無効化する
-> CONTEXT: Map002/events/1/pages/0/327/Choice/0
+> CONTEXT: Map002/events/1/pages/0/328/Choice/0
 Disable#Triketos
 > END STRING
 
 > BEGIN STRING
 キャンセルする
-> CONTEXT: Map002/events/1/pages/0/327/Choice/1
+> CONTEXT: Map002/events/1/pages/0/328/Choice/1
 Cancel#Triketos
 > END STRING
 
 > BEGIN STRING
 本編中でキズナになった悪魔達のサイドストーリーです。
-> CONTEXT: Map002/events/1/pages/0/337/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/338/ChoiceHelp
 Side stories of demons who you have bonded
 with in the main story.#Triketos
 > END STRING
@@ -351,42 +351,42 @@ with in the main story.#Triketos
 \\C[2]想ひ魂はリベンジデータの格納領域で読み込むので
 この先を閲覧すると現在のリベンジデータが使用出来なくなります。
 \\C[0]よろしいですか？
-> CONTEXT: Map002/events/1/pages/0/341/Dialogue
+> CONTEXT: Map002/events/1/pages/0/342/Dialogue
 
 > END STRING
 
 > BEGIN STRING
 ＜バーゲスト＞en(s[261])
-> CONTEXT: Map002/events/1/pages/0/359/Choice/0
+> CONTEXT: Map002/events/1/pages/0/360/Choice/0
 
 > END STRING
 
 > BEGIN STRING
 ＜未実装＞en(s[9999])
-> CONTEXT: Map002/events/1/pages/0/359/Choice/1
-> CONTEXT: Map002/events/1/pages/0/359/Choice/2
-> CONTEXT: Map002/events/1/pages/0/449/Choice/0
-> CONTEXT: Map002/events/1/pages/0/449/Choice/1
-> CONTEXT: Map002/events/1/pages/0/449/Choice/2
-> CONTEXT: Map002/events/1/pages/0/499/Choice/0
-> CONTEXT: Map002/events/1/pages/0/499/Choice/2
-> CONTEXT: Map002/events/1/pages/0/499/Choice/3
-> CONTEXT: Map002/events/1/pages/0/549/Choice/0
-> CONTEXT: Map002/events/1/pages/0/549/Choice/1
-> CONTEXT: Map002/events/1/pages/0/549/Choice/2
-> CONTEXT: Map002/events/1/pages/0/549/Choice/3
+> CONTEXT: Map002/events/1/pages/0/360/Choice/1
+> CONTEXT: Map002/events/1/pages/0/360/Choice/2
+> CONTEXT: Map002/events/1/pages/0/450/Choice/0
+> CONTEXT: Map002/events/1/pages/0/450/Choice/1
+> CONTEXT: Map002/events/1/pages/0/450/Choice/2
+> CONTEXT: Map002/events/1/pages/0/500/Choice/0
+> CONTEXT: Map002/events/1/pages/0/500/Choice/2
+> CONTEXT: Map002/events/1/pages/0/500/Choice/3
+> CONTEXT: Map002/events/1/pages/0/550/Choice/0
+> CONTEXT: Map002/events/1/pages/0/550/Choice/1
+> CONTEXT: Map002/events/1/pages/0/550/Choice/2
+> CONTEXT: Map002/events/1/pages/0/550/Choice/3
 <Not Implemented>en(s[9999])#Triketos
 > END STRING
 
 > BEGIN STRING
 ＜エンプーサ＞en(s[264])
-> CONTEXT: Map002/events/1/pages/0/359/Choice/3
+> CONTEXT: Map002/events/1/pages/0/360/Choice/3 < UNTRANSLATED
 
 > END STRING
 
 > BEGIN STRING
 条件：バーゲストがキズナ状態
-> CONTEXT: Map002/events/1/pages/0/361/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/362/ChoiceHelp < UNTRANSLATED
 
 > END STRING
 
@@ -395,7 +395,7 @@ with in the main story.#Triketos
 概要：バーゲストの過去話
 
 この想ひ魂を閲覧しますか？
-> CONTEXT: Map002/events/1/pages/0/365/Dialogue
+> CONTEXT: Map002/events/1/pages/0/366/Dialogue < UNTRANSLATED
 
 > END STRING
 
@@ -403,10 +403,10 @@ with in the main story.#Triketos
 投影結界、展開完了。
 
 対象者の精神を分離します。
-> CONTEXT: Map002/events/1/pages/0/377/Dialogue
-> CONTEXT: Map002/events/1/pages/0/423/Dialogue
-> CONTEXT: Map002/events/1/pages/0/473/Dialogue
-> CONTEXT: Map002/events/1/pages/0/519/Dialogue
+> CONTEXT: Map002/events/1/pages/0/378/Dialogue
+> CONTEXT: Map002/events/1/pages/0/424/Dialogue
+> CONTEXT: Map002/events/1/pages/0/474/Dialogue
+> CONTEXT: Map002/events/1/pages/0/520/Dialogue
 > CONTEXT: Map075/events/4/pages/1/27/Dialogue
 > CONTEXT: Map075/events/4/pages/1/86/Dialogue
 > CONTEXT: Map075/events/4/pages/1/129/Dialogue
@@ -449,12 +449,12 @@ with in the main story.#Triketos
 > CONTEXT: Map094/events/4/pages/1/315/Dialogue
 > CONTEXT: Map094/events/4/pages/1/371/Dialogue
 Projected boundaries, deployment complete.
-Separate the subject's spirit.
+Separate the subject's spirit.#Triketos
 > END STRING
 
 > BEGIN STRING
 条件：エンプーサがキズナ状態
-> CONTEXT: Map002/events/1/pages/0/407/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/408/ChoiceHelp < UNTRANSLATED
 
 > END STRING
 
@@ -463,19 +463,19 @@ Separate the subject's spirit.
 概要：エンプーサの過去話
 
 この想ひ魂を閲覧しますか？
-> CONTEXT: Map002/events/1/pages/0/411/Dialogue
+> CONTEXT: Map002/events/1/pages/0/412/Dialogue < UNTRANSLATED
 
 > END STRING
 
 > BEGIN STRING
 ＜ニーナ＞en(s[268])
-> CONTEXT: Map002/events/1/pages/0/449/Choice/3
+> CONTEXT: Map002/events/1/pages/0/450/Choice/3 < UNTRANSLATED
 
 > END STRING
 
 > BEGIN STRING
 条件：ニーナがキズナ状態
-> CONTEXT: Map002/events/1/pages/0/457/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/458/ChoiceHelp < UNTRANSLATED
 
 > END STRING
 
@@ -484,19 +484,19 @@ Separate the subject's spirit.
 概要：ニーナのＭＯＷ施設での状況
 
 この想ひ魂を閲覧しますか？
-> CONTEXT: Map002/events/1/pages/0/461/Dialogue
+> CONTEXT: Map002/events/1/pages/0/462/Dialogue < UNTRANSLATED
 
 > END STRING
 
 > BEGIN STRING
 ＜スフィンクス＞en(s[269])
-> CONTEXT: Map002/events/1/pages/0/499/Choice/1
+> CONTEXT: Map002/events/1/pages/0/500/Choice/1 < UNTRANSLATED
 
 > END STRING
 
 > BEGIN STRING
 条件：スフィンクスがキズナ状態
-> CONTEXT: Map002/events/1/pages/0/503/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/504/ChoiceHelp < UNTRANSLATED
 
 > END STRING
 
@@ -505,14 +505,14 @@ Separate the subject's spirit.
 概要：スフィンクスの公園での出来事
 
 この想ひ魂を閲覧しますか？
-> CONTEXT: Map002/events/1/pages/0/507/Dialogue
+> CONTEXT: Map002/events/1/pages/0/508/Dialogue < UNTRANSLATED
 
 > END STRING
 
 > BEGIN STRING
 戻る
-> CONTEXT: Map002/events/1/pages/0/559/Choice/0
-> CONTEXT: Map002/events/1/pages/0/2266/Choice/0
+> CONTEXT: Map002/events/1/pages/0/560/Choice/0
+> CONTEXT: Map002/events/1/pages/0/2579/Choice/0
 > CONTEXT: Map002/events/1/pages/2/110/Choice/0
 > CONTEXT: Map003/events/1/pages/2/582/Choice/0
 Return#Triketos
@@ -520,7 +520,7 @@ Return#Triketos
 
 > BEGIN STRING
 タイトル画面に戻ります。
-> CONTEXT: Map002/events/1/pages/0/569/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/570/ChoiceHelp
 > CONTEXT: Map370/events/1/pages/0/102/ChoiceHelp
 > CONTEXT: Map370/events/1/pages/0/190/ChoiceHelp
 Go back to the Title Screen.#Triketos
@@ -528,149 +528,163 @@ Go back to the Title Screen.#Triketos
 
 > BEGIN STRING
 バーゲスト if(s[101])
-> CONTEXT: Map002/events/1/pages/0/578/Choice/0
+> CONTEXT: Map002/events/1/pages/0/579/Choice/0
 Barghest#Dargoth
 > END STRING
 
 > BEGIN STRING
 ランパス if(s[105])
-> CONTEXT: Map002/events/1/pages/0/578/Choice/1
+> CONTEXT: Map002/events/1/pages/0/579/Choice/1
 Lampas#Dargoth
 > END STRING
 
 > BEGIN STRING
 アイアンメイデン if(s[109])
-> CONTEXT: Map002/events/1/pages/0/578/Choice/2
+> CONTEXT: Map002/events/1/pages/0/579/Choice/2
 Iron Maiden#Dargoth
 > END STRING
 
 > BEGIN STRING
 エンプーサ if(s[112])
-> CONTEXT: Map002/events/1/pages/0/578/Choice/3
+> CONTEXT: Map002/events/1/pages/0/579/Choice/3
 Empuse#Dargoth
 > END STRING
 
 > BEGIN STRING
 "【開放済み】"
-> CONTEXT: Map002/events/1/pages/0/585/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/593/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/601/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/669/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/677/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/685/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/773/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/781/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/833/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/841/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/849/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/920/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/928/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/980/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/988/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/996/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/1077/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/1085/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/1093/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/1161/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/1169/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/1177/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/1185/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/1273/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/1281/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/1333/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/1341/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/1349/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/1357/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/1441/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/1449/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/1457/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/1541/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/1549/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/1621/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/1629/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/1681/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/1717/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/1725/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/1733/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/1801/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/1841/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/1877/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/1885/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/1973/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/1981/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/1989/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/2057/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/2065/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/2153/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/2161/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/2210/InlineScript/1:24
-> CONTEXT: Map002/events/1/pages/0/2218/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/586/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/594/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/602/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/670/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/678/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/686/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/774/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/782/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/834/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/842/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/850/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/921/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/929/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/981/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/989/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/997/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/1078/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/1086/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/1094/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/1162/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/1170/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/1178/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/1186/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/1274/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/1282/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/1334/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/1342/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/1350/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/1358/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/1463/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/1471/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/1479/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/1563/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/1571/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/1643/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/1651/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/1703/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/1739/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/1747/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/1755/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/1823/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/1863/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/1899/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/1907/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/1995/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/2003/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/2011/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/2079/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/2087/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/2175/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/2183/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/2232/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/2240/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/2296/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/2304/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/2312/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/2320/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/2417/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/2425/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/2474/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/2482/InlineScript/1:24
+> CONTEXT: Map002/events/1/pages/0/2531/InlineScript/1:24
 "[Unlocked]"#Dargoth
 > END STRING
 
 > BEGIN STRING
 "ヒント：誘惑状態に屈服する。"
-> CONTEXT: Map002/events/1/pages/0/588/InlineScript/2:1
-> CONTEXT: Map002/events/1/pages/0/923/InlineScript/2:1
+> CONTEXT: Map002/events/1/pages/0/589/InlineScript/2:1
+> CONTEXT: Map002/events/1/pages/0/924/InlineScript/2:1
 "Hint: Succumb to the temptation pose."#Ron
 > END STRING
 
 > BEGIN STRING
 "ヒント：押し倒された状態で屈服する。"
-> CONTEXT: Map002/events/1/pages/0/596/InlineScript/2:1
-> CONTEXT: Map002/events/1/pages/0/931/InlineScript/2:1
+> CONTEXT: Map002/events/1/pages/0/597/InlineScript/2:1
+> CONTEXT: Map002/events/1/pages/0/932/InlineScript/2:1
 "Hint: Submit when knocked down."#Ron
 > END STRING
 
 > BEGIN STRING
 "ヒント：ボイラー室からの追いかけっこ。"
-> CONTEXT: Map002/events/1/pages/0/604/InlineScript/2:1
+> CONTEXT: Map002/events/1/pages/0/605/InlineScript/2:1
 "Hint: Being chased from the boiler room."#Ron
 > END STRING
 
 > BEGIN STRING
 誘惑 en(s[102])
-> CONTEXT: Map002/events/1/pages/0/609/Choice/0
+> CONTEXT: Map002/events/1/pages/0/610/Choice/0
 Temptation en(s[102])#Dargoth
 > END STRING
 
 > BEGIN STRING
 騎乗位 en(s[103])
-> CONTEXT: Map002/events/1/pages/0/609/Choice/1
+> CONTEXT: Map002/events/1/pages/0/610/Choice/1
 Cowgirl en(s[103])#Dargoth
 > END STRING
 
 > BEGIN STRING
 集団 en(s[104])
-> CONTEXT: Map002/events/1/pages/0/609/Choice/2
+> CONTEXT: Map002/events/1/pages/0/610/Choice/2
 Gangbang en(s[104])#Dargoth
 > END STRING
 
 > BEGIN STRING
 \\V[110]
-> CONTEXT: Map002/events/1/pages/0/611/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/0/695/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/0/790/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/0/858/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/0/938/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/0/1006/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/0/1047/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/0/1102/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/0/1194/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/0/1290/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/0/1366/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/0/1466/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/0/1558/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/0/1638/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/0/1690/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/0/1742/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/0/1810/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/0/1850/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/0/1894/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/0/1998/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/0/2074/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/0/2170/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/0/2227/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/612/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/696/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/791/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/859/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/939/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/1007/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/1048/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/1103/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/1195/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/1291/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/1367/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/1488/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/1580/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/1660/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/1712/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/1764/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/1832/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/1872/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/1916/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/2020/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/2096/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/2192/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/2249/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/2329/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/2434/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/2491/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/2540/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/2556/ChoiceHelp
 \\V[110]#NoTL
 > END STRING
 
@@ -678,7 +692,7 @@ Gangbang en(s[104])#Dargoth
 【バーゲスト】：誘惑敗北シーン
 
 この戦闘を閲覧しますか？
-> CONTEXT: Map002/events/1/pages/0/613/Dialogue
+> CONTEXT: Map002/events/1/pages/0/614/Dialogue
 [Barghest]: Temptation
 
 Do you want to view this scene?#Triketos
@@ -686,25 +700,28 @@ Do you want to view this scene?#Triketos
 
 > BEGIN STRING
 \\V[111]
-> CONTEXT: Map002/events/1/pages/0/627/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/0/711/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/0/806/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/0/874/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/0/954/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/0/1022/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/0/1118/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/0/1210/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/0/1306/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/0/1382/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/0/1498/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/0/1590/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/0/1654/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/0/1758/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/0/1926/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/0/2014/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/0/2106/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/0/2186/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/0/2243/ChoiceHelp 
+> CONTEXT: Map002/events/1/pages/0/628/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/712/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/807/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/875/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/955/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/1023/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/1119/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/1211/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/1307/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/1383/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/1520/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/1612/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/1676/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/1780/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/1948/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/2036/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/2128/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/2208/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/2265/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/2345/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/2450/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/2507/ChoiceHelp
 \\V[111]#NoTL
 > END STRING
 
@@ -712,7 +729,7 @@ Do you want to view this scene?#Triketos
 【バーゲスト】：騎乗位敗北シーン
 
 この戦闘を閲覧しますか？
-> CONTEXT: Map002/events/1/pages/0/629/Dialogue
+> CONTEXT: Map002/events/1/pages/0/630/Dialogue
 [Barghest]: Cowgirl
 
 Do you want to view this scene?#Triketos
@@ -720,15 +737,16 @@ Do you want to view this scene?#Triketos
 
 > BEGIN STRING
 \\V[112]
-> CONTEXT: Map002/events/1/pages/0/643/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/0/727/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/0/890/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/0/1134/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/0/1226/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/0/1398/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/0/1514/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/0/1774/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/0/2030/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/644/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/728/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/891/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/1135/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/1227/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/1399/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/1536/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/1796/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/2052/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/2361/ChoiceHelp
 \\V[112]#NoTL
 > END STRING
 
@@ -736,7 +754,7 @@ Do you want to view this scene?#Triketos
 【バーゲスト】：集団敗北シーン
 
 この戦闘を閲覧しますか？
-> CONTEXT: Map002/events/1/pages/0/645/Dialogue
+> CONTEXT: Map002/events/1/pages/0/646/Dialogue
 [Barghest]: Gangbang
 
 Do you want to view this scene?#Triketos
@@ -744,37 +762,37 @@ Do you want to view this scene?#Triketos
 
 > BEGIN STRING
 "ヒント：通常状態で口塞ぎを受け続ける。"
-> CONTEXT: Map002/events/1/pages/0/672/InlineScript/2:1
+> CONTEXT: Map002/events/1/pages/0/673/InlineScript/2:1
 "Hint: Don't break the gagged condition."#Triketos
 > END STRING
 
 > BEGIN STRING
 "ヒント：甘い口車。"
-> CONTEXT: Map002/events/1/pages/0/680/InlineScript/2:1
+> CONTEXT: Map002/events/1/pages/0/681/InlineScript/2:1
 "Hint: Be tempted by Sweet Nothings."#TriketosLocalize
 > END STRING
 
 > BEGIN STRING
 "ヒント：誘惑状態で口塞ぎを受け続ける。"
-> CONTEXT: Map002/events/1/pages/0/688/InlineScript/2:1
+> CONTEXT: Map002/events/1/pages/0/689/InlineScript/2:1
 "Hint: Don't break the gagged condition while being tempted."#Triketos
 > END STRING
 
 > BEGIN STRING
 足コキ en(s[106])
-> CONTEXT: Map002/events/1/pages/0/693/Choice/0
+> CONTEXT: Map002/events/1/pages/0/694/Choice/0
 Footjob en(s[106])#Dargoth
 > END STRING
 
 > BEGIN STRING
 抱きしめ en(s[107])
-> CONTEXT: Map002/events/1/pages/0/693/Choice/1
+> CONTEXT: Map002/events/1/pages/0/694/Choice/1
 Embrace en(s[107])#Dargoth
 > END STRING
 
 > BEGIN STRING
 騎乗位 en(s[108])
-> CONTEXT: Map002/events/1/pages/0/693/Choice/2
+> CONTEXT: Map002/events/1/pages/0/694/Choice/2
 Cowgirl en(s[108])#Dargoth
 > END STRING
 
@@ -782,7 +800,7 @@ Cowgirl en(s[108])#Dargoth
 【ランパス】：足コキ敗北シーン
 
 この戦闘を閲覧しますか？
-> CONTEXT: Map002/events/1/pages/0/697/Dialogue
+> CONTEXT: Map002/events/1/pages/0/698/Dialogue
 [Lampas]: Footjob
 
 Do you want to view this scene?#Triketos
@@ -792,7 +810,7 @@ Do you want to view this scene?#Triketos
 【ランパス】：抱きしめ敗北シーン
 
 この戦闘を閲覧しますか？
-> CONTEXT: Map002/events/1/pages/0/713/Dialogue
+> CONTEXT: Map002/events/1/pages/0/714/Dialogue
 [Lampas]: Embrace
 
 Do you want to view this scene?#Triketos
@@ -802,7 +820,7 @@ Do you want to view this scene?#Triketos
 【ランパス】：騎乗位敗北シーン
 
 この戦闘を閲覧しますか？
-> CONTEXT: Map002/events/1/pages/0/729/Dialogue
+> CONTEXT: Map002/events/1/pages/0/730/Dialogue
 [Lampas]: Cowgirl
 
 Do you want to view this scene?#Triketos
@@ -810,7 +828,7 @@ Do you want to view this scene?#Triketos
 
 > BEGIN STRING
 ショタ if(s[613])
-> CONTEXT: Map002/events/1/pages/0/746/Choice/0
+> CONTEXT: Map002/events/1/pages/0/747/Choice/0
 Child if(s[613])#Triketos
 > END STRING
 
@@ -818,7 +836,7 @@ Child if(s[613])#Triketos
 【ランパス】：ショタ
 
 この戦闘を閲覧しますか？
-> CONTEXT: Map002/events/1/pages/0/748/Dialogue
+> CONTEXT: Map002/events/1/pages/0/749/Dialogue
 【Lampas】: Child Defeat Scene
 
 Do you want to watch this scene?#Triketos
@@ -826,25 +844,25 @@ Do you want to watch this scene?#Triketos
 
 > BEGIN STRING
 "ヒント：前半戦。"
-> CONTEXT: Map002/events/1/pages/0/776/InlineScript/2:1
+> CONTEXT: Map002/events/1/pages/0/777/InlineScript/2:1
 "Hint: First encounter."#TriketosLocalize
 > END STRING
 
 > BEGIN STRING
 "ヒント：後半戦。"
-> CONTEXT: Map002/events/1/pages/0/784/InlineScript/2:1
+> CONTEXT: Map002/events/1/pages/0/785/InlineScript/2:1
 "Hint: Second encounter."#TriketosLocalize
 > END STRING
 
 > BEGIN STRING
 正面から en(s[110])
-> CONTEXT: Map002/events/1/pages/0/788/Choice/0
+> CONTEXT: Map002/events/1/pages/0/789/Choice/0
 From the front en(s[110])#Dargoth
 > END STRING
 
 > BEGIN STRING
 背後から en(s[111])
-> CONTEXT: Map002/events/1/pages/0/788/Choice/1
+> CONTEXT: Map002/events/1/pages/0/789/Choice/1
 From behind en(s[111])#Dargoth
 > END STRING
 
@@ -852,7 +870,7 @@ From behind en(s[111])#Dargoth
 【アイアンメイデン】：正面から敗北シーン
 
 この戦闘を閲覧しますか？
-> CONTEXT: Map002/events/1/pages/0/792/Dialogue
+> CONTEXT: Map002/events/1/pages/0/793/Dialogue
 [Iron Maiden]: From the Front
 
 Do you want to view this battle?#Triketos
@@ -862,7 +880,7 @@ Do you want to view this battle?#Triketos
 【アイアンメイデン】：背後から敗北シーン
 
 この戦闘を閲覧しますか？
-> CONTEXT: Map002/events/1/pages/0/808/Dialogue
+> CONTEXT: Map002/events/1/pages/0/809/Dialogue
 [Iron Maiden]: From Behind
 
 Do you want to view this scene?#Triketos
@@ -870,38 +888,38 @@ Do you want to view this scene?#Triketos
 
 > BEGIN STRING
 "ヒント：口を開けたらなすがまま。"
-> CONTEXT: Map002/events/1/pages/0/836/InlineScript/2:1
+> CONTEXT: Map002/events/1/pages/0/837/InlineScript/2:1
 "Hint: At her mercy after she opens her mouth."#Ron
 > END STRING
 
 > BEGIN STRING
 "ヒント：大技をわざと受ける"
-> CONTEXT: Map002/events/1/pages/0/844/InlineScript/2:1
+> CONTEXT: Map002/events/1/pages/0/845/InlineScript/2:1
 "Hint: Intentionally receive her powerful technique."#Ron
 > END STRING
 
 > BEGIN STRING
 "ヒント：あるヘカーテ関連の装備をして戦いに挑む"
-> CONTEXT: Map002/events/1/pages/0/852/InlineScript/2:1
+> CONTEXT: Map002/events/1/pages/0/853/InlineScript/2:1
 "Hint: Challenge her while wearing particular Hecate-related
 equipment"#Ron
 > END STRING
 
 > BEGIN STRING
 昇天フェラ en(s[113])
-> CONTEXT: Map002/events/1/pages/0/856/Choice/0
+> CONTEXT: Map002/events/1/pages/0/857/Choice/0
 Heavenly Fellatioen(s[113])#Triketos
 > END STRING
 
 > BEGIN STRING
 ベロチュー en(s[114])
-> CONTEXT: Map002/events/1/pages/0/856/Choice/1
+> CONTEXT: Map002/events/1/pages/0/857/Choice/1
 Deep Kissen(s[114])#Triketos
 > END STRING
 
 > BEGIN STRING
 特殊 en(s[115])
-> CONTEXT: Map002/events/1/pages/0/856/Choice/2
+> CONTEXT: Map002/events/1/pages/0/857/Choice/2
 Secret Scene en(s[115])#Dargoth
 > END STRING
 
@@ -909,7 +927,7 @@ Secret Scene en(s[115])#Dargoth
 【エンプーサ】：昇天フェラ
 
 この戦闘を閲覧しますか？
-> CONTEXT: Map002/events/1/pages/0/860/Dialogue
+> CONTEXT: Map002/events/1/pages/0/861/Dialogue
 [Empuse]: Heavenly Fellatio
 
 Do you want to view this scene?#Triketos
@@ -919,7 +937,7 @@ Do you want to view this scene?#Triketos
 【エンプーサ】：昇天ベロチュー
 
 この戦闘を閲覧しますか？
-> CONTEXT: Map002/events/1/pages/0/876/Dialogue
+> CONTEXT: Map002/events/1/pages/0/877/Dialogue
 [Empuse]: Deep Kiss
 
 Do you want to view this scene?#Triketos
@@ -929,7 +947,7 @@ Do you want to view this scene?#Triketos
 【エンプーサ】：わんわん
 
 この戦闘を閲覧しますか？
-> CONTEXT: Map002/events/1/pages/0/892/Dialogue
+> CONTEXT: Map002/events/1/pages/0/893/Dialogue
 [Empuse]: Bow-Wow
 
 Do you want to view this battle?#Triketos
@@ -937,37 +955,37 @@ Do you want to view this battle?#Triketos
 
 > BEGIN STRING
 マザーラビット if(s[116])
-> CONTEXT: Map002/events/1/pages/0/913/Choice/0
+> CONTEXT: Map002/events/1/pages/0/914/Choice/0
 Mother Rabbitif(s[116])#Triketos
 > END STRING
 
 > BEGIN STRING
 ハル＆リズ if(s[119])
-> CONTEXT: Map002/events/1/pages/0/913/Choice/1
+> CONTEXT: Map002/events/1/pages/0/914/Choice/1
 Haru & Lizif(s[119])#Triketos
 > END STRING
 
 > BEGIN STRING
 躯 if(s[382])
-> CONTEXT: Map002/events/1/pages/0/913/Choice/2
+> CONTEXT: Map002/events/1/pages/0/914/Choice/2
 Mukuroif(s[382])#Triketos
 > END STRING
 
 > BEGIN STRING
 ニーナ if(s[386])
-> CONTEXT: Map002/events/1/pages/0/913/Choice/3
+> CONTEXT: Map002/events/1/pages/0/914/Choice/3
 Ninaif(s[386])#Triketos
 > END STRING
 
 > BEGIN STRING
 授乳 en(s[117])
-> CONTEXT: Map002/events/1/pages/0/936/Choice/0
+> CONTEXT: Map002/events/1/pages/0/937/Choice/0
 Breastfeedingen(s[117])#Triketos
 > END STRING
 
 > BEGIN STRING
 毛づくろい en(s[118])
-> CONTEXT: Map002/events/1/pages/0/936/Choice/1
+> CONTEXT: Map002/events/1/pages/0/937/Choice/1
 Groomingen(s[118])#Triketos
 > END STRING
 
@@ -975,7 +993,7 @@ Groomingen(s[118])#Triketos
 【マザーラビット】：授乳敗北シーン
 
 この戦闘を閲覧しますか？
-> CONTEXT: Map002/events/1/pages/0/940/Dialogue
+> CONTEXT: Map002/events/1/pages/0/941/Dialogue
 [Mother Rabbit]: Breastfeeding
 
 Do you want to view this scene?#Triketos
@@ -985,7 +1003,7 @@ Do you want to view this scene?#Triketos
 【マザーラビット】：毛づくろい敗北シーン
 
 この戦闘を閲覧しますか？
-> CONTEXT: Map002/events/1/pages/0/956/Dialogue
+> CONTEXT: Map002/events/1/pages/0/957/Dialogue
 [Mother Rabbit]: Grooming
 
 Do you want to view this scene?#Triketos
@@ -993,37 +1011,37 @@ Do you want to view this scene?#Triketos
 
 > BEGIN STRING
 "ヒント：ハルのパーカーの中で"
-> CONTEXT: Map002/events/1/pages/0/983/InlineScript/2:1
+> CONTEXT: Map002/events/1/pages/0/984/InlineScript/2:1
 "Hint: Inside Haru's Hoodie"#Triketos
 > END STRING
 
 > BEGIN STRING
 "ヒント：最期まで貢いで３０００円以上余裕がある"
-> CONTEXT: Map002/events/1/pages/0/991/InlineScript/2:1
+> CONTEXT: Map002/events/1/pages/0/992/InlineScript/2:1
 "Hint: Have over 3000 yen left."#Triketos
 > END STRING
 
 > BEGIN STRING
 "ヒント：リズがいない時にハルに負ける"
-> CONTEXT: Map002/events/1/pages/0/999/InlineScript/2:1
+> CONTEXT: Map002/events/1/pages/0/1000/InlineScript/2:1
 "Hint: Give in to Haru when Liz isn't around..."#Triketos
 > END STRING
 
 > BEGIN STRING
 搾精 en(s[120])
-> CONTEXT: Map002/events/1/pages/0/1004/Choice/0
+> CONTEXT: Map002/events/1/pages/0/1005/Choice/0
 Milkingen(s[120])#Triketos
 > END STRING
 
 > BEGIN STRING
 財布 en(s[381])
-> CONTEXT: Map002/events/1/pages/0/1004/Choice/1
+> CONTEXT: Map002/events/1/pages/0/1005/Choice/1
 Money Bagen(s[381])#Triketos
 > END STRING
 
 > BEGIN STRING
 擬似回帰 en(s[606])
-> CONTEXT: Map002/events/1/pages/0/1004/Choice/2
+> CONTEXT: Map002/events/1/pages/0/1005/Choice/2
 Psuedoregression en(s[606])#Triketos
 > END STRING
 
@@ -1031,8 +1049,8 @@ Psuedoregression en(s[606])#Triketos
 【ハル＆リズ】：搾精敗北シーン
 
 この戦闘を閲覧しますか？
-> CONTEXT: Map002/events/1/pages/0/1008/Dialogue
-> CONTEXT: Map002/events/1/pages/0/1049/Dialogue
+> CONTEXT: Map002/events/1/pages/0/1009/Dialogue
+> CONTEXT: Map002/events/1/pages/0/1050/Dialogue
 [Haru & Liz]: Milking
 
 Do you want to view this scene?#Triketos
@@ -1042,7 +1060,7 @@ Do you want to view this scene?#Triketos
 【ハル＆リズ】：財布敗北シーン
 
 この戦闘を閲覧しますか？
-> CONTEXT: Map002/events/1/pages/0/1024/Dialogue
+> CONTEXT: Map002/events/1/pages/0/1025/Dialogue
 [Haru & Liz]: Money Bag
 
 Do you want to view this scene?#Triketos
@@ -1050,40 +1068,40 @@ Do you want to view this scene?#Triketos
 
 > BEGIN STRING
 "ヒント：相手の拘束を潔く受ける。"
-> CONTEXT: Map002/events/1/pages/0/1080/InlineScript/2:1
+> CONTEXT: Map002/events/1/pages/0/1081/InlineScript/2:1
 "Hint: Don't break her restraints."#Triketos
 > END STRING
 
 > BEGIN STRING
 "ヒント：後半戦の時止めの１つ。"
-> CONTEXT: Map002/events/1/pages/0/1088/InlineScript/2:1
+> CONTEXT: Map002/events/1/pages/0/1089/InlineScript/2:1
 "Hint: The time stop in the second fight."#Triketos
 > END STRING
 
 > BEGIN STRING
 "ヒント：口車に乗る"
-> CONTEXT: Map002/events/1/pages/0/1096/InlineScript/2:1
-> CONTEXT: Map002/events/1/pages/0/1624/InlineScript/2:1
-> CONTEXT: Map002/events/1/pages/0/1720/InlineScript/2:1
-> CONTEXT: Map002/events/1/pages/0/1844/InlineScript/2:1
+> CONTEXT: Map002/events/1/pages/0/1097/InlineScript/2:1
+> CONTEXT: Map002/events/1/pages/0/1646/InlineScript/2:1
+> CONTEXT: Map002/events/1/pages/0/1742/InlineScript/2:1
+> CONTEXT: Map002/events/1/pages/0/1866/InlineScript/2:1
 "Hint: Take the bait."#Triketos
 > END STRING
 
 > BEGIN STRING
 騎乗位 en(s[383])
-> CONTEXT: Map002/events/1/pages/0/1100/Choice/0
+> CONTEXT: Map002/events/1/pages/0/1101/Choice/0
 Cowgirlen(s[383])#Triketos
 > END STRING
 
 > BEGIN STRING
 後背位 en(s[384])
-> CONTEXT: Map002/events/1/pages/0/1100/Choice/1
+> CONTEXT: Map002/events/1/pages/0/1101/Choice/1
 Doggy Styleen(s[384])#Triketos
 > END STRING
 
 > BEGIN STRING
 誘惑 en(s[385])
-> CONTEXT: Map002/events/1/pages/0/1100/Choice/2
+> CONTEXT: Map002/events/1/pages/0/1101/Choice/2
 Temptationen(s[385])#Triketos
 > END STRING
 
@@ -1091,7 +1109,7 @@ Temptationen(s[385])#Triketos
 【躯】：騎乗位
 
 この戦闘を閲覧しますか？
-> CONTEXT: Map002/events/1/pages/0/1104/Dialogue
+> CONTEXT: Map002/events/1/pages/0/1105/Dialogue
 [Mukuro]: Cowgirl
 
 Do you want to view this scene?#Triketos
@@ -1101,7 +1119,7 @@ Do you want to view this scene?#Triketos
 【躯】：後背位
 
 この戦闘を閲覧しますか？
-> CONTEXT: Map002/events/1/pages/0/1120/Dialogue
+> CONTEXT: Map002/events/1/pages/0/1121/Dialogue
 [Mukuro]: Doggy Style
 
 Do you want to view this scene?#Triketos
@@ -1111,7 +1129,7 @@ Do you want to view this scene?#Triketos
 【躯】：誘惑
 
 この戦闘を閲覧しますか？
-> CONTEXT: Map002/events/1/pages/0/1136/Dialogue
+> CONTEXT: Map002/events/1/pages/0/1137/Dialogue
 [Mukuro]: Temptation
 
 Do you want to view this scene?#Triketos
@@ -1119,49 +1137,49 @@ Do you want to view this scene?#Triketos
 
 > BEGIN STRING
 "エボニーのダンスに見とれる"
-> CONTEXT: Map002/events/1/pages/0/1164/InlineScript/2:1
+> CONTEXT: Map002/events/1/pages/0/1165/InlineScript/2:1
 "Hint: Be charmed by Ebony's dance."#Triketos
 > END STRING
 
 > BEGIN STRING
 "ヒント：レイジーのダンスに見とれる"
-> CONTEXT: Map002/events/1/pages/0/1172/InlineScript/2:1
+> CONTEXT: Map002/events/1/pages/0/1173/InlineScript/2:1
 "Hint: Be charmed by Ivory's dance."#Triketos
 > END STRING
 
 > BEGIN STRING
 "ヒント：ニーナのダンスに見とれる"
-> CONTEXT: Map002/events/1/pages/0/1180/InlineScript/2:1
+> CONTEXT: Map002/events/1/pages/0/1181/InlineScript/2:1
 "Hint: Be charmed by Nina's dance."#Triketos
 > END STRING
 
 > BEGIN STRING
 "ヒント：視聴率が０になる"
-> CONTEXT: Map002/events/1/pages/0/1188/InlineScript/2:1 
+> CONTEXT: Map002/events/1/pages/0/1189/InlineScript/2:1 
 "Hint: Ratings hit 0."#Triketos
 > END STRING
 
 > BEGIN STRING
 エボニー en(s[387])
-> CONTEXT: Map002/events/1/pages/0/1192/Choice/0
+> CONTEXT: Map002/events/1/pages/0/1193/Choice/0
 Ebonyen(s[387])#Triketos
 > END STRING
 
 > BEGIN STRING
 レイジー en(s[388])
-> CONTEXT: Map002/events/1/pages/0/1192/Choice/1
+> CONTEXT: Map002/events/1/pages/0/1193/Choice/1
 Lazyen(s[388])#Triketos
 > END STRING
 
 > BEGIN STRING
 初体験 en(s[389])
-> CONTEXT: Map002/events/1/pages/0/1192/Choice/2
+> CONTEXT: Map002/events/1/pages/0/1193/Choice/2
 First Timeen(s[389])#Triketos
 > END STRING
 
 > BEGIN STRING
 視聴率 en(s[390])
-> CONTEXT: Map002/events/1/pages/0/1192/Choice/3
+> CONTEXT: Map002/events/1/pages/0/1193/Choice/3
 Ratingsen(s[390])#Triketos
 > END STRING
 
@@ -1169,7 +1187,7 @@ Ratingsen(s[390])#Triketos
 【ニーナ】：エボニー
 
 この戦闘を閲覧しますか？
-> CONTEXT: Map002/events/1/pages/0/1196/Dialogue
+> CONTEXT: Map002/events/1/pages/0/1197/Dialogue
 [Nina]: Ebony
 
 Do you want to view this scene?#Triketos
@@ -1179,7 +1197,7 @@ Do you want to view this scene?#Triketos
 【ニーナ】：レイジー
 
 この戦闘を閲覧しますか？
-> CONTEXT: Map002/events/1/pages/0/1212/Dialogue
+> CONTEXT: Map002/events/1/pages/0/1213/Dialogue
 [Nina]: Ivory
 
 Do you want to view this scene?#Triketos
@@ -1189,7 +1207,7 @@ Do you want to view this scene?#Triketos
 【ニーナ】：初体験
 
 この戦闘を閲覧しますか？
-> CONTEXT: Map002/events/1/pages/0/1228/Dialogue
+> CONTEXT: Map002/events/1/pages/0/1229/Dialogue
 [Nina]: First Time
 
 Do you want to view this scene?#Triketos
@@ -1197,8 +1215,8 @@ Do you want to view this scene?#Triketos
 
 > BEGIN STRING
 \\V[113]
-> CONTEXT: Map002/events/1/pages/0/1242/ChoiceHelp 
-> CONTEXT: Map002/events/1/pages/0/1414/ChoiceHelp 
+> CONTEXT: Map002/events/1/pages/0/1243/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/1415/ChoiceHelp 
 \\V[113]#NoTL
 > END STRING
 
@@ -1206,7 +1224,7 @@ Do you want to view this scene?#Triketos
 【ニーナ】：視聴率０
 
 この戦闘を閲覧しますか？
-> CONTEXT: Map002/events/1/pages/0/1244/Dialogue
+> CONTEXT: Map002/events/1/pages/0/1245/Dialogue
 [Nina]: 0 Ratings
 
 Do you want to view this scene?#Triketos
@@ -1214,49 +1232,49 @@ Do you want to view this scene?#Triketos
 
 > BEGIN STRING
 エコー if(s[391])
-> CONTEXT: Map002/events/1/pages/0/1265/Choice/0
+> CONTEXT: Map002/events/1/pages/0/1266/Choice/0
 Echoif(s[391])#Triketos
 > END STRING
 
 > BEGIN STRING
 スフィンクス if(s[394])
-> CONTEXT: Map002/events/1/pages/0/1265/Choice/1
+> CONTEXT: Map002/events/1/pages/0/1266/Choice/1
 Sphinxif(s[394])#Triketos
 > END STRING
 
 > BEGIN STRING
 アルケニー if(s[399])
-> CONTEXT: Map002/events/1/pages/0/1265/Choice/2
+> CONTEXT: Map002/events/1/pages/0/1266/Choice/2
 Archenyif(s[399])#Triketos
 > END STRING
 
 > BEGIN STRING
 ティタノボア if(s[483])
-> CONTEXT: Map002/events/1/pages/0/1265/Choice/3
+> CONTEXT: Map002/events/1/pages/0/1266/Choice/3
 Titanoboaif(s[483])#Triketos
 > END STRING
 
 > BEGIN STRING
 "ヒント：人魚形態のエコーに犯される"
-> CONTEXT: Map002/events/1/pages/0/1276/InlineScript/2:1
+> CONTEXT: Map002/events/1/pages/0/1277/InlineScript/2:1
 "Hint: Get raped by Echo's mermaid form."#Triketos
 > END STRING
 
 > BEGIN STRING
 "ヒント：蛞蝓状態のエコーに犯される"
-> CONTEXT: Map002/events/1/pages/0/1284/InlineScript/2:1
+> CONTEXT: Map002/events/1/pages/0/1285/InlineScript/2:1
 "Hint: Get raped by Echo's slug form."#Triketos
 > END STRING
 
 > BEGIN STRING
 キス搾精 en(s[392])
-> CONTEXT: Map002/events/1/pages/0/1288/Choice/0
+> CONTEXT: Map002/events/1/pages/0/1289/Choice/0
 Kiss Milkingen(s[392])#Triketos
 > END STRING
 
 > BEGIN STRING
 洗脳搾精 en(s[393])
-> CONTEXT: Map002/events/1/pages/0/1288/Choice/1
+> CONTEXT: Map002/events/1/pages/0/1289/Choice/1
 Brainwash Milkingen(s[393])#Triketos
 > END STRING
 
@@ -1264,7 +1282,7 @@ Brainwash Milkingen(s[393])#Triketos
 【エコー】：キス搾精
 
 この戦闘を閲覧しますか？
-> CONTEXT: Map002/events/1/pages/0/1292/Dialogue
+> CONTEXT: Map002/events/1/pages/0/1293/Dialogue
 [Echo]: Kissing Milking
 
 Do you want to view this scene?#Triketos
@@ -1274,7 +1292,7 @@ Do you want to view this scene?#Triketos
 【エコー】：洗脳搾精
 
 この戦闘を閲覧しますか？
-> CONTEXT: Map002/events/1/pages/0/1308/Dialogue
+> CONTEXT: Map002/events/1/pages/0/1309/Dialogue
 [Echo]: Brainwash Milking
 
 Do you want to view this scene?#Triketos
@@ -1282,50 +1300,50 @@ Do you want to view this scene?#Triketos
 
 > BEGIN STRING
 "ヒント：第1問目"
-> CONTEXT: Map002/events/1/pages/0/1336/InlineScript/2:1
-> CONTEXT: Map002/events/1/pages/0/1684/InlineScript/2:1
+> CONTEXT: Map002/events/1/pages/0/1337/InlineScript/2:1
+> CONTEXT: Map002/events/1/pages/0/1706/InlineScript/2:1
 "Hint: Question 1"#Triketos
 > END STRING
 
 > BEGIN STRING
 "ヒント：第3問"
-> CONTEXT: Map002/events/1/pages/0/1344/InlineScript/2:1
+> CONTEXT: Map002/events/1/pages/0/1345/InlineScript/2:1
 "Hint: Question 3"#Triketos
 > END STRING
 
 > BEGIN STRING
 "ヒント：第2問"
-> CONTEXT: Map002/events/1/pages/0/1352/InlineScript/2:1
+> CONTEXT: Map002/events/1/pages/0/1353/InlineScript/2:1
 "Hint: Question 2"#Triketos
 > END STRING
 
 > BEGIN STRING
 "ヒント：第4問"
-> CONTEXT: Map002/events/1/pages/0/1360/InlineScript/2:1
+> CONTEXT: Map002/events/1/pages/0/1361/InlineScript/2:1
 "Hint: Question 4"#Triketos
 > END STRING
 
 > BEGIN STRING
 キス en(s[395])
-> CONTEXT: Map002/events/1/pages/0/1364/Choice/0
+> CONTEXT: Map002/events/1/pages/0/1365/Choice/0
 Kissen(s[395])#Triketos
 > END STRING
 
 > BEGIN STRING
 パイズリ en(s[396])
-> CONTEXT: Map002/events/1/pages/0/1364/Choice/1
+> CONTEXT: Map002/events/1/pages/0/1365/Choice/1
 Tit-fucken(s[396])#Triketos
 > END STRING
 
 > BEGIN STRING
 フェラ en(s[397])
-> CONTEXT: Map002/events/1/pages/0/1364/Choice/2
+> CONTEXT: Map002/events/1/pages/0/1365/Choice/2
 Blowjoben(s[397])#Triketos
 > END STRING
 
 > BEGIN STRING
 種搾りプレス en(s[398])
-> CONTEXT: Map002/events/1/pages/0/1364/Choice/3
+> CONTEXT: Map002/events/1/pages/0/1365/Choice/3
 reverse piledriveren(s[398])#MTLed
 > END STRING
 
@@ -1333,7 +1351,7 @@ reverse piledriveren(s[398])#MTLed
 【スフィンクス】：キス
 
 この戦闘を閲覧しますか？
-> CONTEXT: Map002/events/1/pages/0/1368/Dialogue
+> CONTEXT: Map002/events/1/pages/0/1369/Dialogue
 [Sphinx]: Kiss
 
 Do you want to view this scene?#Triketos
@@ -1343,7 +1361,7 @@ Do you want to view this scene?#Triketos
 【スフィンクス】：パイズリ
 
 この戦闘を閲覧しますか？
-> CONTEXT: Map002/events/1/pages/0/1384/Dialogue
+> CONTEXT: Map002/events/1/pages/0/1385/Dialogue
 [Sphinx]: Tit-fuck
 
 Do you want to view this scene?#Triketos
@@ -1353,7 +1371,7 @@ Do you want to view this scene?#Triketos
 【スフィンクス】：フェラ
 
 この戦闘を閲覧しますか？
-> CONTEXT: Map002/events/1/pages/0/1400/Dialogue
+> CONTEXT: Map002/events/1/pages/0/1401/Dialogue
 [Sphinx]: Blowjob
 
 Do you want to view this scene?#Triketos
@@ -1363,45 +1381,65 @@ Do you want to view this scene?#Triketos
 【スフィンクス】：種搾りプレス
 
 この戦闘を閲覧しますか？
-> CONTEXT: Map002/events/1/pages/0/1416/Dialogue
+> CONTEXT: Map002/events/1/pages/0/1417/Dialogue
 【Sphinx】: reverse piledriver
 
 Do you want to view this scene?#MTLed
 > END STRING
 
 > BEGIN STRING
+巨大化 if(s[686])
+> CONTEXT: Map002/events/1/pages/0/1434/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+【解放済み】
+> CONTEXT: Map002/events/1/pages/0/1436/ChoiceHelp < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+【スフィンクス】：巨大化
+
+この戦闘を閲覧しますか？
+> CONTEXT: Map002/events/1/pages/0/1438/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
 "ヒント：おとなしく蜘蛛の糸に引っ張られる"
-> CONTEXT: Map002/events/1/pages/0/1444/InlineScript/2:1
+> CONTEXT: Map002/events/1/pages/0/1466/InlineScript/2:1
 "Hint: Be gently pulled by the silk thread"#MTLed
 > END STRING
 
 > BEGIN STRING
 "ヒント：恐怖に負け、オナニーする"
-> CONTEXT: Map002/events/1/pages/0/1452/InlineScript/2:1
+> CONTEXT: Map002/events/1/pages/0/1474/InlineScript/2:1
 "Hint: Lose to Afraid and Masturbate"#MTLed
 > END STRING
 
 > BEGIN STRING
 "ヒント：アコニートゥムに負ける"
-> CONTEXT: Map002/events/1/pages/0/1460/InlineScript/2:1
+> CONTEXT: Map002/events/1/pages/0/1482/InlineScript/2:1
 "Hint: Lose to Aconitum"#Triketos
 > END STRING
 
 > BEGIN STRING
 抱き＆呑み en(s[400])
-> CONTEXT: Map002/events/1/pages/0/1464/Choice/0
+> CONTEXT: Map002/events/1/pages/0/1486/Choice/0
 Hug & Itchen(s[400])#MTLed
 > END STRING
 
 > BEGIN STRING
 押し倒し en(s[481])
-> CONTEXT: Map002/events/1/pages/0/1464/Choice/1
+> CONTEXT: Map002/events/1/pages/0/1486/Choice/1
 Pin Downen(s[481])#MTLed
 > END STRING
 
 > BEGIN STRING
 アコニートゥム en(s[482])
-> CONTEXT: Map002/events/1/pages/0/1464/Choice/2
+> CONTEXT: Map002/events/1/pages/0/1486/Choice/2
 Aconitumen(s[482])#MTLed
 > END STRING
 
@@ -1409,7 +1447,7 @@ Aconitumen(s[482])#MTLed
 【アルケニー】：抱き＆呑み
 
 この戦闘を閲覧しますか？
-> CONTEXT: Map002/events/1/pages/0/1468/Dialogue
+> CONTEXT: Map002/events/1/pages/0/1490/Dialogue
 【Archeny】: Hug & Itch
 
 Do you want to view this battle?#MTLed
@@ -1417,45 +1455,45 @@ Do you want to view this battle?#MTLed
 
 > BEGIN STRING
 『丸呑みフィルター』の設定を指定してください
-> CONTEXT: Map002/events/1/pages/0/1477/Dialogue
-> CONTEXT: Map002/events/1/pages/0/1569/Dialogue
-> CONTEXT: Map002/events/1/pages/0/1905/Dialogue
-> CONTEXT: Map002/events/1/pages/0/1937/Dialogue
-> CONTEXT: Map002/events/1/pages/0/2085/Dialogue
-> CONTEXT: Map002/events/1/pages/0/2117/Dialogue
+> CONTEXT: Map002/events/1/pages/0/1499/Dialogue
+> CONTEXT: Map002/events/1/pages/0/1591/Dialogue
+> CONTEXT: Map002/events/1/pages/0/1927/Dialogue
+> CONTEXT: Map002/events/1/pages/0/1959/Dialogue
+> CONTEXT: Map002/events/1/pages/0/2107/Dialogue
+> CONTEXT: Map002/events/1/pages/0/2139/Dialogue
 Please specify the setting of "Smoothing filter"#MTLed
 > END STRING
 
 > BEGIN STRING
 フィルターなし
-> CONTEXT: Map002/events/1/pages/0/1479/Choice/0
-> CONTEXT: Map002/events/1/pages/0/1571/Choice/0
-> CONTEXT: Map002/events/1/pages/0/1907/Choice/0
-> CONTEXT: Map002/events/1/pages/0/1939/Choice/0
-> CONTEXT: Map002/events/1/pages/0/2087/Choice/0
-> CONTEXT: Map002/events/1/pages/0/2119/Choice/0
+> CONTEXT: Map002/events/1/pages/0/1501/Choice/0
+> CONTEXT: Map002/events/1/pages/0/1593/Choice/0
+> CONTEXT: Map002/events/1/pages/0/1929/Choice/0
+> CONTEXT: Map002/events/1/pages/0/1961/Choice/0
+> CONTEXT: Map002/events/1/pages/0/2109/Choice/0
+> CONTEXT: Map002/events/1/pages/0/2141/Choice/0
 No filter#MTLed
 > END STRING
 
 > BEGIN STRING
 フィルター軽
-> CONTEXT: Map002/events/1/pages/0/1479/Choice/1
-> CONTEXT: Map002/events/1/pages/0/1571/Choice/1
-> CONTEXT: Map002/events/1/pages/0/1907/Choice/1
-> CONTEXT: Map002/events/1/pages/0/1939/Choice/1
-> CONTEXT: Map002/events/1/pages/0/2087/Choice/1
-> CONTEXT: Map002/events/1/pages/0/2119/Choice/1
+> CONTEXT: Map002/events/1/pages/0/1501/Choice/1
+> CONTEXT: Map002/events/1/pages/0/1593/Choice/1
+> CONTEXT: Map002/events/1/pages/0/1929/Choice/1
+> CONTEXT: Map002/events/1/pages/0/1961/Choice/1
+> CONTEXT: Map002/events/1/pages/0/2109/Choice/1
+> CONTEXT: Map002/events/1/pages/0/2141/Choice/1
 Filter light#MTLed
 > END STRING
 
 > BEGIN STRING
 フィルター重
-> CONTEXT: Map002/events/1/pages/0/1479/Choice/2
-> CONTEXT: Map002/events/1/pages/0/1571/Choice/2
-> CONTEXT: Map002/events/1/pages/0/1907/Choice/2
-> CONTEXT: Map002/events/1/pages/0/1939/Choice/2
-> CONTEXT: Map002/events/1/pages/0/2087/Choice/2
-> CONTEXT: Map002/events/1/pages/0/2119/Choice/2
+> CONTEXT: Map002/events/1/pages/0/1501/Choice/2
+> CONTEXT: Map002/events/1/pages/0/1593/Choice/2
+> CONTEXT: Map002/events/1/pages/0/1929/Choice/2
+> CONTEXT: Map002/events/1/pages/0/1961/Choice/2
+> CONTEXT: Map002/events/1/pages/0/2109/Choice/2
+> CONTEXT: Map002/events/1/pages/0/2141/Choice/2
 Filter weight#MTLed
 > END STRING
 
@@ -1463,7 +1501,7 @@ Filter weight#MTLed
 【アルケニー】：押し倒し
 
 この戦闘を閲覧しますか？
-> CONTEXT: Map002/events/1/pages/0/1500/Dialogue
+> CONTEXT: Map002/events/1/pages/0/1522/Dialogue
 【Archeny】: Pin Down
 
 Do you want to view this battle?#MTLed
@@ -1473,7 +1511,7 @@ Do you want to view this battle?#MTLed
 【アルケニー】：アコニートゥム
 
 この戦闘を閲覧しますか？
-> CONTEXT: Map002/events/1/pages/0/1516/Dialogue
+> CONTEXT: Map002/events/1/pages/0/1538/Dialogue
 【Archeny】: Aconitum
 
 Do you want to view this battle?#MTLed
@@ -1481,26 +1519,26 @@ Do you want to view this battle?#MTLed
 
 > BEGIN STRING
 "ヒント：チャプター3-1"
-> CONTEXT: Map002/events/1/pages/0/1544/InlineScript/2:1
-> CONTEXT: Map002/events/1/pages/0/1804/InlineScript/2:1
+> CONTEXT: Map002/events/1/pages/0/1566/InlineScript/2:1
+> CONTEXT: Map002/events/1/pages/0/1826/InlineScript/2:1
 "Hint: Chapter 3-1"#Triketos
 > END STRING
 
 > BEGIN STRING
 "ヒント：チャプター3-3"
-> CONTEXT: Map002/events/1/pages/0/1552/InlineScript/2:1
+> CONTEXT: Map002/events/1/pages/0/1574/InlineScript/2:1
 "Hint: Chapter 3-3"#Triketos
 > END STRING
 
 > BEGIN STRING
 搾精＆呑み en(s[484])
-> CONTEXT: Map002/events/1/pages/0/1556/Choice/0
+> CONTEXT: Map002/events/1/pages/0/1578/Choice/0
 milking & itchingen(s[484])#MTLed
 > END STRING
 
 > BEGIN STRING
 巻き付き en(s[485])
-> CONTEXT: Map002/events/1/pages/0/1556/Choice/1
+> CONTEXT: Map002/events/1/pages/0/1578/Choice/1
 Wrappeden(s[485])#MTLed
 > END STRING
 
@@ -1508,7 +1546,7 @@ Wrappeden(s[485])#MTLed
 【ティタノボア】：抱き＆呑み
 
 この戦闘を閲覧しますか？
-> CONTEXT: Map002/events/1/pages/0/1560/Dialogue
+> CONTEXT: Map002/events/1/pages/0/1582/Dialogue
 【Titanoboa】: Hug & Itch
 
 Do you want to view this battle?#MTLed
@@ -1518,7 +1556,7 @@ Do you want to view this battle?#MTLed
 【ティタノボア】：巻き付き
 
 この戦闘を閲覧しますか？
-> CONTEXT: Map002/events/1/pages/0/1592/Dialogue
+> CONTEXT: Map002/events/1/pages/0/1614/Dialogue
 【Titanoboa】: Wrapped
 
 Do you want to view this battle?#MTLed
@@ -1526,25 +1564,25 @@ Do you want to view this battle?#MTLed
 
 > BEGIN STRING
 カマソッソ if(s[486])
-> CONTEXT: Map002/events/1/pages/0/1613/Choice/0
+> CONTEXT: Map002/events/1/pages/0/1635/Choice/0
 Camazotzif(s[486])#MTLed
 > END STRING
 
 > BEGIN STRING
 ミカ if(s[489])
-> CONTEXT: Map002/events/1/pages/0/1613/Choice/1
+> CONTEXT: Map002/events/1/pages/0/1635/Choice/1
 Micahif(s[489])#MTLed
 > END STRING
 
 > BEGIN STRING
 妲己（ノーマル） if(s[490])
-> CONTEXT: Map002/events/1/pages/0/1613/Choice/2
+> CONTEXT: Map002/events/1/pages/0/1635/Choice/2
 Daiji (Normal)if(s[490])#MTLed
 > END STRING
 
 > BEGIN STRING
 妲己（アルラウネ） if(s[494])
-> CONTEXT: Map002/events/1/pages/0/1613/Choice/3
+> CONTEXT: Map002/events/1/pages/0/1635/Choice/3
 Daiji (Alraune)if(s[494])#MTLed
 > END STRING
 
