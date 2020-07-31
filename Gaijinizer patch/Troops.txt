@@ -13865,7 +13865,7 @@ Mormo[Book] Bond#Triketos
 > BEGIN STRING
 ヘカーテ【敗北】騎乗位？
 > CONTEXT: Troops/320/name < UNTRANSLATED
-
+Hecate [Defeat] Cowgirl?
 > END STRING
 
 > BEGIN STRING
@@ -13878,14 +13878,14 @@ Mormo[Book] Bond#Triketos
 
 > BEGIN STRING
 ヘカーテ【敗北】足コキ
-> CONTEXT: Troops/321/name < UNTRANSLATED
-
+> CONTEXT: Troops/321/name
+Hecate (Defeat) Footjob#Triketos
 > END STRING
 
 > BEGIN STRING
 チェシャ（初戦）
-> CONTEXT: Troops/324/name < UNTRANSLATED
-
+> CONTEXT: Troops/324/name
+Cheshire(First Round)#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -13895,7 +13895,10 @@ Mormo[Book] Bond#Triketos
 随分と魔力の扱いに慣れてきてるみたいだね
 > CONTEXT: Troops/324/pages/2/0/Dialogue/enemy29 < UNTRANSLATED
 > CONTEXT: Troops/335/pages/2/0/Dialogue/enemy29 < UNTRANSLATED
-
+Fufufu...
+I'm surprised you could attack like that.
+You seem to be getting pretty comfortable
+with your magic powers.
 > END STRING
 
 > BEGIN STRING
@@ -13914,7 +13917,9 @@ Mormo[Book] Bond#Triketos
 『キミ好みのやり方』でね♡
 > CONTEXT: Troops/324/pages/2/11/Dialogue/enemy29 < UNTRANSLATED
 > CONTEXT: Troops/335/pages/2/11/Dialogue/enemy29 < UNTRANSLATED
+...Well, I'd better get moving, too.
 
+Just the way you like it♡
 > END STRING
 
 > BEGIN STRING
@@ -14063,8 +14068,8 @@ Mormo[Book] Bond#Triketos
 
 > BEGIN STRING
 マイエナ（イベント）
-> CONTEXT: Troops/325/name < UNTRANSLATED
-
+> CONTEXT: Troops/325/name
+Mai & Ena (Event)#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -14193,8 +14198,8 @@ Mormo[Book] Bond#Triketos
 
 > BEGIN STRING
 マイエナ（初戦）
-> CONTEXT: Troops/326/name < UNTRANSLATED
-
+> CONTEXT: Troops/326/name
+Mai & Ena (First Round)#DL
 > END STRING
 
 > BEGIN STRING
@@ -14202,8 +14207,11 @@ Mormo[Book] Bond#Triketos
 
 \\N[1]は優しいね♡
 急いでるのに、アタシたちと一緒に遊んでくれるなんて！
-> CONTEXT: Troops/326/pages/0/13/Dialogue/enemy30 < UNTRANSLATED
+> CONTEXT: Troops/326/pages/0/13/Dialogue/enemy30
+Yay♪
 
+\\N[1] is very kind♡
+He's in a hurry, but he wants to play with us!#DL
 > END STRING
 
 > BEGIN STRING
@@ -14211,8 +14219,11 @@ Mormo[Book] Bond#Triketos
 
 私も、なんだか……\\N[1]くんとなら
 楽しく遊べそう…♡
-> CONTEXT: Troops/326/pages/0/18/Dialogue/enemy27 < UNTRANSLATED
+> CONTEXT: Troops/326/pages/0/18/Dialogue/enemy27
+Huh, Ena's prediction was true...
 
+I'd like... to play with you too...
+\\N[1]...♡#DL
 > END STRING
 
 > BEGIN STRING
@@ -14220,8 +14231,11 @@ Mormo[Book] Bond#Triketos
 
 何をして遊ぶの…？
 鬼ごっことか、かくれんぼ？
-> CONTEXT: Troops/326/pages/0/23/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Troops/326/pages/0/23/Dialogue/kazuya
+Ah, it's fun to play, but...
 
+What are we going to play?
+Tag or hide-and-go-seek...?#DL
 > END STRING
 
 > BEGIN STRING
@@ -14229,45 +14243,54 @@ Mormo[Book] Bond#Triketos
 
 それに、土地勘あるアタシたちが、この大きさじゃあ
 \\N[1]が圧倒的に不利でしょ？
-> CONTEXT: Troops/326/pages/0/28/Dialogue/enemy30 < UNTRANSLATED
-
+> CONTEXT: Troops/326/pages/0/28/Dialogue/enemy30
+Yeah, but we can play those games without
+\\N[1]... Additionally with our knowledge of
+the land and our size, we'd have a huge
+advantage, wouldn't we?#DL
 > END STRING
 
 > BEGIN STRING
 アタシたちが\\N[1]と一緒にやりたいのは…
 
 『がまんゲーム』♡
-> CONTEXT: Troops/326/pages/0/33/Dialogue/enemy30 < UNTRANSLATED
+> CONTEXT: Troops/326/pages/0/33/Dialogue/enemy30
+What we want to play with \\N[1] is...
 
+The "Endurance Game"♡#DL
 > END STRING
 
 > BEGIN STRING
 ２人は、僕の顔に身体を密着させて
 
 頬に身体を擦りつけてきている……
-> CONTEXT: Troops/326/pages/0/57/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/333/pages/0/63/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/333/pages/0/83/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/326/pages/0/57/Dialogue
+> CONTEXT: Troops/333/pages/0/63/Dialogue
+> CONTEXT: Troops/333/pages/0/83/Dialogue
+The two of them are pressing their bodies close to my face
+and rubbing them against my cheeks....#DL
 > END STRING
 
 > BEGIN STRING
 マイちゃんはおっぱいを、エナちゃんは太ももを
 
 それぞれ主張するかのように強く押し当ててくる…
-> CONTEXT: Troops/326/pages/0/61/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/333/pages/0/67/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/333/pages/0/87/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/326/pages/0/61/Dialogue
+> CONTEXT: Troops/333/pages/0/67/Dialogue
+> CONTEXT: Troops/333/pages/0/87/Dialogue
+Mai's breasts and Ena's thighs...
+They each press harder, as if to emphasize them...#DL
 > END STRING
 
 > BEGIN STRING
 え…！？ちょ…
 
 な、なにを…！
-> CONTEXT: Troops/326/pages/0/65/Dialogue/kazuya-0 < UNTRANSLATED
-> CONTEXT: Troops/333/pages/0/91/Dialogue/kazuya-0 < UNTRANSLATED
+> CONTEXT: Troops/326/pages/0/65/Dialogue/kazuya-0
+> CONTEXT: Troops/333/pages/0/91/Dialogue/kazuya-0
+Eh...!? H-hey...!
 
+W-what are you...!#DL
 > END STRING
 
 > BEGIN STRING
@@ -14275,9 +14298,12 @@ Mormo[Book] Bond#Triketos
 ちゃんと付いてるんだよね？『チンポ』ってやつ♡
 
 あれって、興奮すると膨らんじゃうんでしょう？
-> CONTEXT: Troops/326/pages/0/69/Dialogue/enemy30 < UNTRANSLATED
-> CONTEXT: Troops/333/pages/0/95/Dialogue/enemy30 < UNTRANSLATED
-
+> CONTEXT: Troops/326/pages/0/69/Dialogue/enemy30
+> CONTEXT: Troops/333/pages/0/95/Dialogue/enemy30
+Kazuya is a human guy, so he's got it on him,
+right? A cock...♡
+The thing that swells up when you're excited,
+right?#DL
 > END STRING
 
 > BEGIN STRING
@@ -14285,9 +14311,12 @@ Mormo[Book] Bond#Triketos
 ５分間、興奮しないようにガマンするゲームだよ♡
 
 ウソついても、膨らみで分かっちゃうってワケ♪
-> CONTEXT: Troops/326/pages/0/74/Dialogue/enemy30 < UNTRANSLATED
-> CONTEXT: Troops/333/pages/0/100/Dialogue/enemy30 < UNTRANSLATED
-
+> CONTEXT: Troops/326/pages/0/74/Dialogue/enemy30
+> CONTEXT: Troops/333/pages/0/100/Dialogue/enemy30
+The "Endurance Game" is a game where you have
+to try to hold back your arousal and not finish
+for 5 minutes♡
+If you lie, we'll know because you'll be bulging♪#DL
 > END STRING
 
 > BEGIN STRING
@@ -14295,18 +14324,23 @@ Mormo[Book] Bond#Triketos
 
 胸が大きいだけで、何の取り柄もない、この身体……
 みんなすごく良い反応してくれるから…♡
-> CONTEXT: Troops/326/pages/0/79/Dialogue/enemy27 < UNTRANSLATED
-> CONTEXT: Troops/333/pages/0/105/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Troops/326/pages/0/79/Dialogue/enemy27
+> CONTEXT: Troops/333/pages/0/105/Dialogue/enemy27
+I-I... like this game...♡
+The only good thing about my body are these
+big breasts... People seem to respond really
+well to them...♡#DL
 > END STRING
 
 > BEGIN STRING
 \\N[1]くん…胸、おおきいの…すき？
 
 いっぱい触らせてあげるよ…♡♡
-> CONTEXT: Troops/326/pages/0/84/Dialogue/enemy27 < UNTRANSLATED
-> CONTEXT: Troops/333/pages/0/110/Dialogue/enemy27 < UNTRANSLATED
+> CONTEXT: Troops/326/pages/0/84/Dialogue/enemy27
+> CONTEXT: Troops/333/pages/0/110/Dialogue/enemy27
+\\N[1]-kun... do you like big breasts?
 
+I'll let you have a lot of fun with them...♡♡#DL
 > END STRING
 
 > BEGIN STRING
@@ -14314,36 +14348,44 @@ Mormo[Book] Bond#Triketos
 もし膨らんじゃったら、\\C[2]罰ゲーム\\C[0]だからね？
 
 すぐ終わっちゃったらつまんないから、頑張って♪
-> CONTEXT: Troops/326/pages/0/88/Dialogue/enemy30 < UNTRANSLATED
-> CONTEXT: Troops/333/pages/0/114/Dialogue/enemy30 < UNTRANSLATED
-
+> CONTEXT: Troops/326/pages/0/88/Dialogue/enemy30
+> CONTEXT: Troops/333/pages/0/114/Dialogue/enemy30
+By the way...
+If it gets too big, there'll be a \\C[2]penalty\\C[0],
+okay?
+It'll be boring if it ends quickly, so good luck♪#DL
 > END STRING
 
 > BEGIN STRING
 ば、罰ゲームって…
 
 ちょっ…待っ…！！
-> CONTEXT: Troops/326/pages/0/93/Dialogue/kazuya-0 < UNTRANSLATED
-> CONTEXT: Troops/333/pages/0/119/Dialogue/kazuya-0 < UNTRANSLATED
+> CONTEXT: Troops/326/pages/0/93/Dialogue/kazuya-0
+> CONTEXT: Troops/333/pages/0/119/Dialogue/kazuya-0
+W-what's the penalty...?
 
+H-hey... wait...!!#DL
 > END STRING
 
 > BEGIN STRING
 マイとエナは、\\N[1]の耳を
 
 それぞれ片側ずつ咥えて、舐めだした！
-> CONTEXT: Troops/326/pages/0/131/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/333/pages/0/158/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/326/pages/0/131/Dialogue
+> CONTEXT: Troops/333/pages/0/158/Dialogue
+Mai and Ena each sucked on one of \\N[1]'s ears
+and started licking them!#DL
 > END STRING
 
 > BEGIN STRING
 \\N[1]くん……感じやすいんだね…♡
 
 クールそうな顔して、すごくえっちなんだ…♡
-> CONTEXT: Troops/326/pages/0/140/Dialogue/enemy27 < UNTRANSLATED
-> CONTEXT: Troops/333/pages/0/167/Dialogue/enemy27 < UNTRANSLATED
+> CONTEXT: Troops/326/pages/0/140/Dialogue/enemy27
+> CONTEXT: Troops/333/pages/0/167/Dialogue/enemy27
+\\N[1]-kun.... you're so sensitive...♡
 
+You look so cool, and you're so horny...♡#DL
 > END STRING
 
 > BEGIN STRING
@@ -14351,34 +14393,41 @@ Mormo[Book] Bond#Triketos
 
 \\N[1]、もしかしてこういうの好き？
 それとも、アタシたちが小さいから遠慮してるのかな？
-> CONTEXT: Troops/326/pages/0/144/Dialogue/enemy30 < UNTRANSLATED
-> CONTEXT: Troops/333/pages/0/171/Dialogue/enemy30 < UNTRANSLATED
-
+> CONTEXT: Troops/326/pages/0/144/Dialogue/enemy30
+> CONTEXT: Troops/333/pages/0/171/Dialogue/enemy30
+Most people would be surprised and put their
+hands on us... \\N[1], do you like this?
+Or maybe he's holding back because we're
+too small?#DL
 > END STRING
 
 > BEGIN STRING
 アタシたちは、小さくてもやるときはやるんだよ…♡
 
 こんなふうにぃ…♡♡
-> CONTEXT: Troops/326/pages/0/149/Dialogue/enemy30 < UNTRANSLATED
-> CONTEXT: Troops/333/pages/0/176/Dialogue/enemy30 < UNTRANSLATED
+> CONTEXT: Troops/326/pages/0/149/Dialogue/enemy30
+> CONTEXT: Troops/333/pages/0/176/Dialogue/enemy30
+We may be tiny, but we can do things
+like this...♡
 
+You like it...♡♡?#DL
 > END STRING
 
 > BEGIN STRING
 あああ…♡♡♡うあああ…♡
-> CONTEXT: Troops/326/pages/0/153/Dialogue/kazuya-0 < UNTRANSLATED
-> CONTEXT: Troops/333/pages/0/180/Dialogue/kazuya-0 < UNTRANSLATED
-
+> CONTEXT: Troops/326/pages/0/153/Dialogue/kazuya-0
+> CONTEXT: Troops/333/pages/0/180/Dialogue/kazuya-0
+AAAhh...♡♡♡ ahhh...♡#DL
 > END STRING
 
 > BEGIN STRING
 マイとエナは、\\N[1]の顔に抱きついて
 
 身体を擦りつけながら、耳をしゃぶり続けている…
-> CONTEXT: Troops/326/pages/0/157/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/333/pages/0/184/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/326/pages/0/157/Dialogue
+> CONTEXT: Troops/333/pages/0/184/Dialogue
+Mai and Ena continue to suck on \\N[1]'s ears as they
+hug and rub their bodies against his face...#DL
 > END STRING
 
 > BEGIN STRING
@@ -14386,9 +14435,12 @@ Mormo[Book] Bond#Triketos
 
 あとでこっそり…２人きりで遊ぼう…？♡
 このまま負けてくれたら…いっぱい遊べるよ…♡
-> CONTEXT: Troops/326/pages/0/161/Dialogue/enemy27 < UNTRANSLATED
-> CONTEXT: Troops/333/pages/0/188/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Troops/326/pages/0/161/Dialogue/enemy27
+> CONTEXT: Troops/333/pages/0/188/Dialogue/enemy27
+\\N[1], who feels better... me or Ena-chan? ♡
+Maybe we can sneak out later... to hang out
+alone...?♡ If you keep losing...
+we'll have lots of fun...♡#DL
 > END STRING
 
 > BEGIN STRING
@@ -14396,31 +14448,37 @@ Mormo[Book] Bond#Triketos
 こんなに攻められてるのに、まだ立っていられるんだね♡
 
 息や表情はこんなに苦しそうなのに♡
-> CONTEXT: Troops/326/pages/0/167/Dialogue/enemy30 < UNTRANSLATED
-
+> CONTEXT: Troops/326/pages/0/167/Dialogue/enemy30
+Amazing, \\N[1]♪
+You're still standing after being attacked
+like this♡
+Your breathing and face look so pained...♡#DL
 > END STRING
 
 > BEGIN STRING
 大人しく私たちに負けちゃいなよぉ♡
 
 ほれほれぇ♡
-> CONTEXT: Troops/326/pages/0/172/Dialogue/enemy30 < UNTRANSLATED
-> CONTEXT: Troops/333/pages/0/194/Dialogue/enemy30 < UNTRANSLATED
+> CONTEXT: Troops/326/pages/0/172/Dialogue/enemy30
+> CONTEXT: Troops/333/pages/0/194/Dialogue/enemy30
+Don't let us defeat you, now♡
 
+Come~♡#DL
 > END STRING
 
 > BEGIN STRING
 \\N[1]は、膝をついて
 
 そのままへたりこんでしまった……
-> CONTEXT: Troops/326/pages/0/184/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/326/pages/0/184/Dialogue
+\\N[1] collapsed to his knees and then
+fell down........#DL
 > END STRING
 
 > BEGIN STRING
 マイエナ（二戦目）
-> CONTEXT: Troops/327/name < UNTRANSLATED
-
+> CONTEXT: Troops/327/name
+Mai & Ena (Round 2)#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -14702,8 +14760,8 @@ Mormo[Book] Bond#Triketos
 
 > BEGIN STRING
 ティターニア（敗北イベ）
-> CONTEXT: Troops/328/name < UNTRANSLATED
-
+> CONTEXT: Troops/328/name
+Titania (Event Defeat)#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -14979,13 +15037,13 @@ Mormo[Book] Bond#Triketos
 > BEGIN STRING
 ティターニア【敗北2】
 > CONTEXT: Troops/329/name < UNTRANSLATED
-
+Titania [Defeat 2]
 > END STRING
 
 > BEGIN STRING
 アナオン【通常】
 > CONTEXT: Troops/330/name < UNTRANSLATED
-
+Anaon [Normal]#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -15078,14 +15136,14 @@ Mormo[Book] Bond#Triketos
 
 > BEGIN STRING
 アナオン【敗北】
-> CONTEXT: Troops/331/name < UNTRANSLATED
-
+> CONTEXT: Troops/331/name
+Anaon [Defeat]#Triketos
 > END STRING
 
 > BEGIN STRING
 ティターニア【通常】
-> CONTEXT: Troops/332/name < UNTRANSLATED
-
+> CONTEXT: Troops/332/name
+Titania [Normal]#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -15115,36 +15173,39 @@ Mormo[Book] Bond#Triketos
 
 > BEGIN STRING
 マイエナ【通常】
-> CONTEXT: Troops/333/name < UNTRANSLATED
-
+> CONTEXT: Troops/333/name
+Mai & Ena (Normal)
 > END STRING
 
 > BEGIN STRING
 ぐっ…！？
-> CONTEXT: Troops/333/pages/0/16/Dialogue/kazuya-0 < UNTRANSLATED
-
+> CONTEXT: Troops/333/pages/0/16/Dialogue/kazuya-0
+Gh...!?#Triketos
 > END STRING
 
 > BEGIN STRING
 \\N[1]は、身体が痺れて
 
 その場に倒れ込んでしまった！
-> CONTEXT: Troops/333/pages/0/18/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/333/pages/0/18/Dialogue
+\\N[1]'s body went numb and he
+fell on the spot!!#DL
 > END STRING
 
 > BEGIN STRING
 やりぃ♪
 
 我ながら、正確な突きだねぇ
-> CONTEXT: Troops/333/pages/0/22/Dialogue/enemy30 < UNTRANSLATED
+> CONTEXT: Troops/333/pages/0/22/Dialogue/enemy30
+Yes♪
 
+A precise stab, if I do say so myself.#DL
 > END STRING
 
 > BEGIN STRING
 な、なにを…！？
-> CONTEXT: Troops/333/pages/0/26/Dialogue/kazuya-0 < UNTRANSLATED
-
+> CONTEXT: Troops/333/pages/0/26/Dialogue/kazuya-0
+W-what the hell...!?#DL
 > END STRING
 
 > BEGIN STRING
@@ -15152,8 +15213,11 @@ Mormo[Book] Bond#Triketos
 
 エナちゃんの持ってる針は、『妖精の針』…
 人間に、いろんな影響を与える魔力があるの……
-> CONTEXT: Troops/333/pages/0/28/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Troops/333/pages/0/28/Dialogue/enemy27
+Fu, fufu...♡
+Ena has the "Fairy Needle"...
+It's a magical power that affects humans
+in many ways...#DL
 > END STRING
 
 > BEGIN STRING
@@ -15161,8 +15225,11 @@ Mormo[Book] Bond#Triketos
 \\C[2]\\N[1]くんの身体を麻痺させた……\\C[0]
 
 大丈夫……暴れなければ、痛くないよ……
-> CONTEXT: Troops/333/pages/0/33/Dialogue/enemy27 < UNTRANSLATED
+> CONTEXT: Troops/333/pages/0/33/Dialogue/enemy27
+Right now, Ena-chan used that needle to paralyze
+Kazuya-kun's body........ It's okay...
 
+It won't hurt as long as you don't flail around...#DL
 > END STRING
 
 > BEGIN STRING
@@ -15170,30 +15237,37 @@ Mormo[Book] Bond#Triketos
 あんたが遊んでくれる気がなくても構わないよ
 
 私たちで、勝手に遊んじゃうから♡
-> CONTEXT: Troops/333/pages/0/38/Dialogue/enemy30 < UNTRANSLATED
+> CONTEXT: Troops/333/pages/0/38/Dialogue/enemy30
+\\N[1]...
+We don't care if you don't want to play with us.
 
+We'll play with you as much as we like♡#DL
 > END STRING
 
 > BEGIN STRING
 それじゃ、早速はじめよっか♪
 
 『がまんゲーム』♡
-> CONTEXT: Troops/333/pages/0/71/Dialogue/enemy30 < UNTRANSLATED
+> CONTEXT: Troops/333/pages/0/71/Dialogue/enemy30
+Then let's get started♪
 
+The "Endurance Game"♡#DL
 > END STRING
 
 > BEGIN STRING
 ルールは、説明しなくても分かってるよね？
 
 \\N[1]♡
-> CONTEXT: Troops/333/pages/0/75/Dialogue/enemy30 < UNTRANSLATED
+> CONTEXT: Troops/333/pages/0/75/Dialogue/enemy30
+I don't have to explain the rules to you, do I?
 
+Kazuya~♡#DL
 > END STRING
 
 > BEGIN STRING
 チェシャ（２戦目）
 > CONTEXT: Troops/334/name < UNTRANSLATED
-
+Cheshire (Round 2)#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -15203,7 +15277,10 @@ Mormo[Book] Bond#Triketos
 これは別に戦闘ってワケじゃないんだから。
 > CONTEXT: Troops/334/pages/0/11/Dialogue/enemy29 < UNTRANSLATED
 > CONTEXT: Troops/336/pages/0/12/Dialogue/enemy29 < UNTRANSLATED
+Fufufu, you look like you've made up your mind.
 
+There's no need to be so nervous, okay?
+This isn't really a battle.
 > END STRING
 
 > BEGIN STRING
@@ -15757,8 +15834,8 @@ Mormo[Book] Bond#Triketos
 
 > BEGIN STRING
 巨スフィンクス【通常】
-> CONTEXT: Troops/345/name < UNTRANSLATED
-
+> CONTEXT: Troops/345/name
+Giant Sphinx [Normal]#Triketos
 > END STRING
 
 > BEGIN STRING

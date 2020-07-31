@@ -6387,39 +6387,39 @@ Blood Suck#Ron
 
 > BEGIN STRING
 \\N[1]の『服』の認識が消えていく……！！
-> CONTEXT: Skills/528/message2 < UNTRANSLATED
-
+> CONTEXT: Skills/528/message2
+\\N[1]'s perception of 'clothes' is disappearing...!#TriketosPartial
 > END STRING
 
 > BEGIN STRING
 ヌード・イリュージョン
-> CONTEXT: Skills/528/name < UNTRANSLATED
-
+> CONTEXT: Skills/528/name
+Nude Illusion#Triketos
 > END STRING
 
 > BEGIN STRING
 は、大きな手で\\N[1]をグニグニした
-> CONTEXT: Skills/528/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/528/message1
+grabbed \\N[1] with a big hand.#TriketosPartial
 > END STRING
 
 > BEGIN STRING
 \\N[1]の『ぺニス』の認識が変わっていく……
-> CONTEXT: Skills/529/message2 < UNTRANSLATED
-
+> CONTEXT: Skills/529/message2
+\\N[1]'s perception of "penis" is changing...#TriketosPartial
 > END STRING
 
 > BEGIN STRING
 インサート・イリュージョン
-> CONTEXT: Skills/529/name < UNTRANSLATED
-
+> CONTEXT: Skills/529/name
+Insert Illusion#TriketosPartial
 > END STRING
 
 > BEGIN STRING
 は、大きな手で\\N[1]をコネコネした
-> CONTEXT: Skills/529/message1 < UNTRANSLATED
-> CONTEXT: Skills/548/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/529/message1
+> CONTEXT: Skills/548/message1
+pulled \\N[1] with a big hand.#TriketosPartial
 > END STRING
 
 > BEGIN STRING
@@ -6672,32 +6672,32 @@ Aether Slice#Ron
 
 > BEGIN STRING
 \\N[1]の『状態異常』の認識が変わっていく！！
-> CONTEXT: Skills/548/message2 < UNTRANSLATED
-
+> CONTEXT: Skills/548/message2
+Kazuya's perception of "debuffs" is changing!!#Triketos
 > END STRING
 
 > BEGIN STRING
 ステート・イリュージョン
-> CONTEXT: Skills/548/name < UNTRANSLATED
-
+> CONTEXT: Skills/548/name
+State Illusion#Triketos
 > END STRING
 
 > BEGIN STRING
 \\N[1]の『抵抗力』の認識が絶望的になる！！
-> CONTEXT: Skills/549/message2 < UNTRANSLATED
-
+> CONTEXT: Skills/549/message2
+\\N[1]'s perception of "resistance" becomes hopeless!!#Triketos
 > END STRING
 
 > BEGIN STRING
 フィナーレ・イリュージョン
-> CONTEXT: Skills/549/name < UNTRANSLATED
-
+> CONTEXT: Skills/549/name
+The Final Illusion#Triketos
 > END STRING
 
 > BEGIN STRING
 は、大きな手で\\N[1]をシェイクした
-> CONTEXT: Skills/549/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/549/message1
+ shakes \\N[1] with her big hand.#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -6855,24 +6855,24 @@ Brain Refill#afrgPR
 
 > BEGIN STRING
 \\N[1]は喰われる以外にもはや為す術はない…
-> CONTEXT: Skills/581/message2 < UNTRANSLATED
-> CONTEXT: Skills/877/message2 < UNTRANSLATED
-> CONTEXT: Skills/878/message2 < UNTRANSLATED
-
+> CONTEXT: Skills/581/message2
+> CONTEXT: Skills/877/message2
+> CONTEXT: Skills/878/message2
+\\N[1] has no choice but to be eaten...#TriketosPartial
 > END STRING
 
 > BEGIN STRING
 かぶりつく
-> CONTEXT: Skills/581/name < UNTRANSLATED
-> CONTEXT: Skills/877/name < UNTRANSLATED
-> CONTEXT: Skills/878/name < UNTRANSLATED
-
+> CONTEXT: Skills/581/name
+> CONTEXT: Skills/877/name
+> CONTEXT: Skills/878/name
+Bite#TriketosPartial
 > END STRING
 
 > BEGIN STRING
 は本能のまま、貪欲に\\N[1]を貪っている！
-> CONTEXT: Skills/581/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/581/message1
+greedily indulges in \\N[1] out of instinct!#TriketosPartial
 > END STRING
 
 > BEGIN STRING
@@ -7241,66 +7241,71 @@ Special accident battles can occur against this monster.#afrgPR
 > BEGIN STRING
 \\C[10]アナオンに犯され、精神に快感を擦り込まれたパッシブスキル。
 対象悪魔との戦闘時、ダメージが２０％増加する。
-> CONTEXT: Skills/615/description < UNTRANSLATED
-
+> CONTEXT: Skills/615/description
+\\C[10]The pleasure of being violated by Anaon sticks in your mind.
+Increases damage taken from this monster by 20%.#Triketos
 > END STRING
 
 > BEGIN STRING
 【アナオンの美容エキス】Lv1
-> CONTEXT: Skills/615/name < UNTRANSLATED
-
+> CONTEXT: Skills/615/name
+[Anaon's Essence of Beauty]Lv1#Triketos
 > END STRING
 
 > BEGIN STRING
 \\C[10]アナオンに犯され、精神に快感を擦り込まれたパッシブスキル。
 対象悪魔との戦闘時、勝手に毎ターン性欲が５％上昇する。
-> CONTEXT: Skills/616/description < UNTRANSLATED
-
+> CONTEXT: Skills/616/description
+\\C[10]The pleasure of being violated by Anaon sticks in your mind.
+Increases lust 5% every turn when fighting this monster.#Triketos
 > END STRING
 
 > BEGIN STRING
 【アナオンの美容エキス】Lv2
-> CONTEXT: Skills/616/name < UNTRANSLATED
-
+> CONTEXT: Skills/616/name
+[Anaon's Essence of Beauty]Lv2#Triketos
 > END STRING
 
 > BEGIN STRING
 \\C[10]アナオンに犯され、精神に快感を擦り込まれたパッシブスキル。
 対象悪魔との戦闘時、最大抵抗力が８０％になる。
-> CONTEXT: Skills/617/description < UNTRANSLATED
-
+> CONTEXT: Skills/617/description
+\\C[10]The pleasure of being violated by Anaon sticks in your mind.
+Maximum willpower reduced to 80% when fighting this monster.#Triketos
 > END STRING
 
 > BEGIN STRING
 【アナオンの美容エキス】Lv3
-> CONTEXT: Skills/617/name < UNTRANSLATED
-
+> CONTEXT: Skills/617/name
+[Anaon's Essence of Beauty]Lv3#Triketos
 > END STRING
 
 > BEGIN STRING
 \\C[10]アナオンに犯され、精神に快感を擦り込まれたパッシブスキル。
 対象悪魔との戦闘時、最大気力が８０％になる。
-> CONTEXT: Skills/618/description < UNTRANSLATED
-
+> CONTEXT: Skills/618/description
+\\C[10]The pleasure of being violated by Anaon sticks in your mind.
+Maximum vitality reduced to 80% when fighting this monster.#Triketos
 > END STRING
 
 > BEGIN STRING
 【アナオンの美容エキス】Lv4
-> CONTEXT: Skills/618/name < UNTRANSLATED
-
+> CONTEXT: Skills/618/name
+[Anaon's Essence of Beauty]Lv4#Triketos
 > END STRING
 
 > BEGIN STRING
 \\C[10]アナオンに犯され、精神に快感を擦り込まれたパッシブスキル。
 対象悪魔との戦闘時、特殊アクシデント戦闘が発生する事がある。
-> CONTEXT: Skills/619/description < UNTRANSLATED
-
+> CONTEXT: Skills/619/description
+\\C[10]The pleasure of being violated by Anaon sticks in your mind.
+Special accident battles can occur against this monster.#Triketos
 > END STRING
 
 > BEGIN STRING
 【アナオンの美容エキス】LvMAX
-> CONTEXT: Skills/619/name < UNTRANSLATED
-
+> CONTEXT: Skills/619/name
+[Anaon's Essence of Beauty]LvMAX#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -7793,21 +7798,21 @@ Elegant Dance#afrg
 
 > BEGIN STRING
 妖精針の奇跡
-> CONTEXT: Skills/707/name < UNTRANSLATED
-
+> CONTEXT: Skills/707/name
+Marvelous Faerie Needle#Triketos
 > END STRING
 
 > BEGIN STRING
 は妖精の針を\\N[1]にチクリと刺した！
-> CONTEXT: Skills/707/message1 < UNTRANSLATED
-> CONTEXT: Skills/708/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/707/message1
+> CONTEXT: Skills/708/message1
+ jabbed the fairy needle into \\N[1]!#Triketos
 > END STRING
 
 > BEGIN STRING
 麻痺の妖精針
-> CONTEXT: Skills/708/name < UNTRANSLATED
-
+> CONTEXT: Skills/708/name
+Paralytic Faerie Needle#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -9111,15 +9116,15 @@ Surprise Kimono#Triketos
 > CONTEXT: Skills/863/name < UNTRANSLATED
 > CONTEXT: Skills/864/name < UNTRANSLATED
 > CONTEXT: Skills/866/name < UNTRANSLATED
-
+Insect's fruitful lure
 > END STRING
 
 > BEGIN STRING
 は、自身のおっぱいを見せつけるように揉みだした！
-> CONTEXT: Skills/863/message1 < UNTRANSLATED
-> CONTEXT: Skills/864/message1 < UNTRANSLATED
-> CONTEXT: Skills/866/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/863/message1
+> CONTEXT: Skills/864/message1
+> CONTEXT: Skills/866/message1
+ started rubbing her own tits to show them off!
 > END STRING
 
 > BEGIN STRING
@@ -9130,8 +9135,8 @@ Surprise Kimono#Triketos
 
 > BEGIN STRING
 セイレーン・ボイス
-> CONTEXT: Skills/865/name < UNTRANSLATED
-
+> CONTEXT: Skills/865/name
+Siren's Voice#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -9166,20 +9171,20 @@ Surprise Kimono#Triketos
 
 > BEGIN STRING
 \\N[1]は、その刺激に耐えきれず、悶絶している！
-> CONTEXT: Skills/868/message2 < UNTRANSLATED
-
+> CONTEXT: Skills/868/message2
+\\N[1] is writhing, unable to withstand the stimulation!#Triketos
 > END STRING
 
 > BEGIN STRING
 フェアリー・ダンス
-> CONTEXT: Skills/868/name < UNTRANSLATED
-
+> CONTEXT: Skills/868/name
+Fairy Dance#Triketos
 > END STRING
 
 > BEGIN STRING
 は、\\N[1]のペニスに抱きつき、激しくしごいてきた！
-> CONTEXT: Skills/868/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/868/message1
+ hugs \\N[1]'s cock and squeezes it hard!#Triketos
 > END STRING
 
 > BEGIN STRING

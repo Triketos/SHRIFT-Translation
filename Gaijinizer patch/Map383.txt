@@ -1,0 +1,148 @@
+﻿> GAIJINIZER PATCH FILE
+> BEGIN STRING
+この『妖精の国』こと、うっそうとした森林は
+人間の土地の感覚で歩いてもダメなんだ。
+
+\\C[2]知らず知らずに、同じ場所をグルグル回っちまう
+> CONTEXT: Map383/events/1/pages/0/0/Dialogue/enemy31
+> CONTEXT: Map386/events/1/pages/0/0/Dialogue/enemy31
+This "Fairy Realm" is a dense forest...
+You can't walk around like you normally would in
+the Human World. You'll end up going in circles
+in the same place without even knowing it.#TriketosLocalize
+> END STRING
+
+> BEGIN STRING
+おれさま達みたいな妖精なら大丈夫なんだが……
+
+一応、他種族がこの国に来訪した時とかに
+迷わないように『目印』が設置されてる。
+> CONTEXT: Map383/events/1/pages/0/5/Dialogue/enemy31
+> CONTEXT: Map386/events/1/pages/0/5/Dialogue/enemy31
+I'm sure fairies like us can handle it, but....
+Just in case other races comes to this place,
+"markers" have been set up to prevent them from
+getting lost.#DL
+> END STRING
+
+> BEGIN STRING
+あそこに不自然に置いてある建築物が見えるか？
+
+あれが\\C[2]『目印』\\C[0]だ
+> CONTEXT: Map383/events/1/pages/0/10/Dialogue/enemy31
+> CONTEXT: Map386/events/1/pages/0/10/Dialogue/enemy31
+Do you see that structure that is so unnaturally
+placed over there?
+
+That's the \\C[2]Marker\\C[0].#DL
+> END STRING
+
+> BEGIN STRING
+\\C[2]書かれている文字の通りに進めば良いらしいんだが……\\C[0]
+
+妖精はそもそもあの目印を使わないから
+おれさまも、詳しい方法は覚えてないんだ
+> CONTEXT: Map383/events/1/pages/0/14/Dialogue/enemy31
+> CONTEXT: Map386/events/1/pages/0/14/Dialogue/enemy31
+\\C[2]I was told that you should just follow the
+writing on it...\\C[0]
+
+
+Fairies don't use those markers to begin
+with, so I can't remember the details of
+how to do it myself.#DL
+> END STRING
+
+> BEGIN STRING
+まぁ、設置した張本人であるティターニアは
+『少しでも知恵があれば理解できる』って言ってたし
+
+お前ならラクショーだろ
+> CONTEXT: Map383/events/1/pages/0/19/Dialogue/enemy31
+> CONTEXT: Map386/events/1/pages/0/19/Dialogue/enemy31
+Titania, who was the one who installed it, said,
+'If you have a little bit of intelligence,
+you'll understand'.
+I guess that makes sense...#DL???
+> END STRING
+
+> BEGIN STRING
+………ちなみに、例のデカネコは
+
+この最初の柱で立ち往生しているときに
+ティターニアに捕まってたぜ
+> CONTEXT: Map383/events/1/pages/0/24/Dialogue/enemy31
+> CONTEXT: Map386/events/1/pages/0/24/Dialogue/enemy31
+...And by the way, that big cat...
+
+Titania got her while we were stuck in this
+first pillar.#DL
+> END STRING
+
+> BEGIN STRING
+『柱を照らす光へ向かって進め』
+> CONTEXT: Map383/events/4/pages/0/0/Dialogue
+> CONTEXT: Map384/events/4/pages/0/0/Dialogue
+> CONTEXT: Map385/events/4/pages/0/0/Dialogue
+> CONTEXT: Map386/events/4/pages/0/0/Dialogue
+> CONTEXT: Map387/events/4/pages/0/0/Dialogue
+> CONTEXT: Map388/events/4/pages/0/0/Dialogue
+> CONTEXT: Map389/events/4/pages/0/0/Dialogue
+> CONTEXT: Map390/events/4/pages/0/0/Dialogue
+> CONTEXT: Map391/events/4/pages/0/0/Dialogue
+"Follow the light that shines on the pillars."#Triketos
+> END STRING
+
+> BEGIN STRING
+お、おい、大丈夫か？
+
+やっぱりアイツら、諦めたわけじゃなかったな。
+> CONTEXT: Map383/events/5/pages/0/7/Dialogue/enemy31
+> CONTEXT: Map383/events/6/pages/0/7/Dialogue/enemy31
+> CONTEXT: Map383/events/7/pages/0/7/Dialogue/enemy31
+> CONTEXT: Map383/events/8/pages/0/7/Dialogue/enemy31
+O-Oi... you okay?
+
+I knew those guys weren't going to give up.#Triketos
+> END STRING
+
+> BEGIN STRING
+しかもさっきの様子を見る限り、
+隙を見せたらまた襲ってくる可能性があるな……
+
+気をつけて進むんだぜ
+> CONTEXT: Map383/events/5/pages/0/11/Dialogue/enemy31
+> CONTEXT: Map383/events/6/pages/0/11/Dialogue/enemy31
+> CONTEXT: Map383/events/7/pages/0/11/Dialogue/enemy31
+> CONTEXT: Map383/events/8/pages/0/11/Dialogue/enemy31
+And from what I saw earlier, there's a chance
+they'll attack again if they see an opening......
+
+Be careful out there.#DL
+> END STRING
+
+> BEGIN STRING
+は…はは…
+
+大丈夫、慣れてるから…
+> CONTEXT: Map383/events/5/pages/0/16/Dialogue/kazuya
+> CONTEXT: Map383/events/6/pages/0/16/Dialogue/kazuya
+> CONTEXT: Map383/events/7/pages/0/16/Dialogue/kazuya
+> CONTEXT: Map383/events/8/pages/0/16/Dialogue/kazuya
+Ha... haha...
+
+Don't worry, I'm used to it...#DL
+> END STRING
+
+> BEGIN STRING
+でもまぁ、真っ向から勝負を挑んでこないぶん
+
+あんな小さい子たちに、武器を向けなくて良いのは幸いかな…
+> CONTEXT: Map383/events/5/pages/0/20/Dialogue/kazuya
+> CONTEXT: Map383/events/6/pages/0/20/Dialogue/kazuya
+> CONTEXT: Map383/events/7/pages/0/20/Dialogue/kazuya
+> CONTEXT: Map383/events/8/pages/0/20/Dialogue/kazuya
+Well, I guess it's a good thing that I don't have
+to point my weapon at those little faeries,
+since they're not challenging me head-on...#DL
+> END STRING
