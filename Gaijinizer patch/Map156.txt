@@ -195,14 +195,14 @@ Mating!! Mating!! ♡♡#afrg
 …………なんとか、撃退できたな……
 > CONTEXT: Map156/events/1/pages/0/146/Dialogue/other2
 > CONTEXT: Map287/events/1/pages/0/170/Dialogue/yuuma
-............ Somehow, you fought it off......#afrg
+...You fought it off somehow...#afrg/Ron
 > END STRING
 
 > BEGIN STRING
 ………ミカは！？
 > CONTEXT: Map156/events/1/pages/0/149/Dialogue/kazuya
 > CONTEXT: Map287/events/1/pages/0/173/Dialogue/kazuya
-......... Micah!?#afrg
+...Micah?!#afrg
 > END STRING
 
 > BEGIN STRING
@@ -210,9 +210,10 @@ Mating!! Mating!! ♡♡#afrg
 
  いや、一旦退いたってだけなんだろうが……
 > CONTEXT: Map156/events/1/pages/0/151/Dialogue/other2
-It seems she ran away during the battle just now...
+Seems she ran away during the battle just now...
 
-No, I guess she just stepped away for a while......#afrg
+Actually no, she's probably just withdrawn for
+now...#afrg/Ron
 > END STRING
 
 > BEGIN STRING
@@ -221,10 +222,10 @@ No, I guess she just stepped away for a while......#afrg
 この程度で諦めるようには思えない……。
 きっとまだまだ仕掛けてくるぞ……
 > CONTEXT: Map156/events/1/pages/0/155/Dialogue/other2
-Be careful, \\N[1]. 
+Proceed carefully, \\N[1]. 
 
-This will not cause her to give up...
-There are undoubtedly still more fights to come...#afrg
+I don't think she'll give up that easily, she's
+bound to have more tricks up her sleeve...#afrg
 > END STRING
 
 > BEGIN STRING
@@ -360,7 +361,7 @@ I will look forward to seeing you from now on.........#afrg
 羊「カマソッソに見つからないコツを知りたい？」
 > CONTEXT: Map156/events/3/pages/1/0/Dialogue
 > CONTEXT: Map287/events/3/pages/1/0/Dialogue
-sheep「Want to know the missing tips in Camazotz?」#MTLed
+Sheep「Want some tips on how to avoid Camazotz?」#Ron
 > END STRING
 
 > BEGIN STRING
@@ -369,8 +370,8 @@ sheep「Want to know the missing tips in Camazotz?」#MTLed
 　　あれを目安にするといいよ。\\C[0]」
 > CONTEXT: Map156/events/3/pages/1/2/Dialogue
 > CONTEXT: Map287/events/3/pages/1/2/Dialogue
-sheep「\\C[2]A block behind me that separates cars.
-You should use that as a guide.\\C[0]」#MTLed
+Sheep「\\C[2]Behind me are blocks that separate the cars.
+      You should use them as a reference.\\C[0]」#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -380,9 +381,9 @@ You should use that as a guide.\\C[0]」#MTLed
 　　上下に移動するなら、このタイミングだ。\\C[0]」
 > CONTEXT: Map156/events/3/pages/1/7/Dialogue
 > CONTEXT: Map287/events/3/pages/1/7/Dialogue
-sheep「First of all\\C[2] While looking up and down
-The entire block at the corner with the light is not seen.
-This is the time to move up and down.\\C[0]」#MTLed
+Sheep「First of all, \\C[2]you won't be seen on the highlighted
+      blocks while she's looking up or down. Use that chance
+	  to time your movements up and down.\\C[0]」#Ron
 > END STRING
 
 > BEGIN STRING
@@ -392,10 +393,10 @@ This is the time to move up and down.\\C[0]」#MTLed
 　　相手が横を向いた時に、反対側に移る際に有効だ。\\C[0]」
 > CONTEXT: Map156/events/3/pages/1/13/Dialogue
 > CONTEXT: Map287/events/3/pages/1/13/Dialogue
-sheep「after,\\C[2] If the other party is not right next to you
-I can't find it even if I'm hiding in the shadow of a car.
-It is effective when moving to the opposite side when the
-other party turns to the side.\\C[0]」#MTLed
+Sheep「Also, \\C[2]as long as she's not right next to you,
+      she won't be able to spot you hiding behind a car.
+      An effective strategy is to move on the opposite
+	  side to the direction she's looking.\\C[0]」#Ron
 > END STRING
 
 > BEGIN STRING
@@ -404,8 +405,8 @@ other party turns to the side.\\C[0]」#MTLed
 　　車や遮蔽物の物陰にいれば見つからない。\\C[0]」
 > CONTEXT: Map156/events/3/pages/1/21/Dialogue
 > CONTEXT: Map287/events/3/pages/1/21/Dialogue
-sheep「And\\C[2] While the opponent is facing sideways,
-You can't find it if you are behind a car or a shield.\\C[0]」#MTLed
+Sheep「And \\C[2]when she's looking to the side, you can
+      use a car or a barrier as cover to hide yourself.\\C[0]」#Ron
 > END STRING
 
 > BEGIN STRING
@@ -414,8 +415,9 @@ You can't find it if you are behind a car or a shield.\\C[0]」#MTLed
 　　隠れるなら、真後ろにしっかりとね。\\C[0]」
 > CONTEXT: Map156/events/3/pages/1/25/Dialogue
 > CONTEXT: Map287/events/3/pages/1/25/Dialogue
-sheep「\\C[2]Because if you get out of the shadow of a car, you
-may be out. If you can hide it, just behind you.\\C[0]」#MTLed
+Sheep「\\C[2]Because you'll be spotted immediately if you
+      pop your head out of cover even a little, make sure
+      you stay directly behind it.\\C[0]」#Ron
 > END STRING
 
 > BEGIN STRING
@@ -425,9 +427,9 @@ may be out. If you can hide it, just behind you.\\C[0]」#MTLed
 　　走っても問題ないと思うよ。\\C[0]」
 > CONTEXT: Map156/events/3/pages/1/30/Dialogue
 > CONTEXT: Map287/events/3/pages/1/30/Dialogue
-sheep「And\\C[2] Camazotz is always flying away
-I can hardly hear any noise. I don't think it's okay to
-run.\\C[0]」#MTLed
+Sheep「\\C[2]Camazotz is constantly flapping its wings so it
+      probably can't hear noises that well. It should be
+      okay for you to run.\\C[0]」#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -437,7 +439,7 @@ run.\\C[0]」#MTLed
 　　『スタングレネード』を買っておくと便利かもしれないよ。」
 > CONTEXT: Map156/events/3/pages/1/35/Dialogue
 > CONTEXT: Map287/events/3/pages/1/35/Dialogue
-sheep「However, please be careful about the operation
-mistake ...... \\C[2] In case it is found
-It might be useful to buy stun Grenade.」#MTLed
+Sheep「However, be careful not to mess up and hit the wrong
+      button... \\C[2]It might pay to stock up on stun
+	  grenades in case you're caught.」#Ron
 > END STRING
