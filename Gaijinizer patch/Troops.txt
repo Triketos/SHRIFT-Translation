@@ -15036,13 +15036,13 @@ Titania (Event Defeat)#Triketos
 
 > BEGIN STRING
 ティターニア【敗北2】
-> CONTEXT: Troops/329/name < UNTRANSLATED
+> CONTEXT: Troops/329/name
 Titania [Defeat 2]
 > END STRING
 
 > BEGIN STRING
 アナオン【通常】
-> CONTEXT: Troops/330/name < UNTRANSLATED
+> CONTEXT: Troops/330/name
 Anaon [Normal]#Triketos
 > END STRING
 
@@ -15051,9 +15051,12 @@ Anaon [Normal]#Triketos
 
 まだピクシーたちに捕まってないニンゲンが
 こんなところを歩き回ってるなんて
-> CONTEXT: Troops/330/pages/1/11/Dialogue/enemy33 < UNTRANSLATED
-> CONTEXT: Troops/331/pages/1/10/Dialogue/enemy33 < UNTRANSLATED
-
+> CONTEXT: Troops/330/pages/1/11/Dialogue/enemy33
+> CONTEXT: Troops/331/pages/1/10/Dialogue/enemy33
+...Oh, that's odd.
+I can't believe there's a human walking around
+in the middle of nowhere that hasn't been
+captured by a bunch of faeries.#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -15061,9 +15064,12 @@ Anaon [Normal]#Triketos
 小さいやつらの相手がイヤで逃げ出してきたの？
 
 よかったら、私が相手をしてあげるわよ…♡
-> CONTEXT: Troops/330/pages/1/16/Dialogue/enemy33 < UNTRANSLATED
-> CONTEXT: Troops/331/pages/1/15/Dialogue/enemy33 < UNTRANSLATED
-
+> CONTEXT: Troops/330/pages/1/16/Dialogue/enemy33
+> CONTEXT: Troops/331/pages/1/15/Dialogue/enemy33
+What's the matter?
+Did you run away because you didn't want to
+deal with the little guys?
+If you want, I can keep you company... ♡#DL
 > END STRING
 
 > BEGIN STRING
@@ -15071,9 +15077,12 @@ Anaon [Normal]#Triketos
 今から自分が『どんな目的で』襲われるのか知ってるのね？
 
 大丈夫、私のはとっても優しいから……♡♡
-> CONTEXT: Troops/330/pages/1/23/Dialogue/enemy33 < UNTRANSLATED
-> CONTEXT: Troops/331/pages/1/22/Dialogue/enemy33 < UNTRANSLATED
-
+> CONTEXT: Troops/330/pages/1/23/Dialogue/enemy33
+> CONTEXT: Troops/331/pages/1/22/Dialogue/enemy33
+Hahaha, that face...♡
+You know what reason you're being attacked for,
+don't you?
+Don't worry, I'm very gentle...♡♡#DL
 > END STRING
 
 > BEGIN STRING
@@ -15081,9 +15090,12 @@ Anaon [Normal]#Triketos
 
 あんまり抵抗したら、その後の扱いは保証しないから
 おとなしく私に『捕食』されなさい……♡♡
-> CONTEXT: Troops/330/pages/1/28/Dialogue/enemy33 < UNTRANSLATED
-> CONTEXT: Troops/331/pages/1/27/Dialogue/enemy33 < UNTRANSLATED
-
+> CONTEXT: Troops/330/pages/1/28/Dialogue/enemy33
+> CONTEXT: Troops/331/pages/1/27/Dialogue/enemy33
+I don't like violence...
+If you resist too much, I can't guarantee how
+you'll be treated afterwards, so be nice and
+let me 'prey' on you... ♡♡#DL
 > END STRING
 
 > BEGIN STRING
