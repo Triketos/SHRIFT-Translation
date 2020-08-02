@@ -1204,7 +1204,7 @@ battle.#Ron
 > BEGIN STRING
 アルケニー if(v[29] \>= 1) 
 > CONTEXT: Map003/events/1/pages/2/269/Choice/0
-Archenyif(v[29] \>= 1)#MTLed
+Arachneif(v[29] \>= 1)#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1218,7 +1218,7 @@ Sphinxif(v[30] \>= 1)#MTLed
 
 真正面から挑んだら、よっぽど運が良くなけりゃ勝てない。
 > CONTEXT: Map003/events/1/pages/2/271/Dialogue/クッション君
-Archeny is a tough opponent both times in
+Arachne is a tough opponent both times in
 Chapter 3. If you face her head-on, you won't
 win unless you're really lucky.#Ron
 > END STRING
@@ -1254,7 +1254,7 @@ in addition to her other mental status effects.#Ron
 そこにクールカームの効果が重なるってワケだ。
 > CONTEXT: Map003/events/1/pages/2/285/Dialogue/クッション君
 The reason I recommend Sylph Storm is because
-\\C[2]Archeny will only use mental attacks while you
+\\C[2]Arachne will only use mental attacks while you
 have it active. And that's where Cool Calm can
 help keep you safe.#Ron
 > END STRING
@@ -1682,7 +1682,7 @@ various applications.#MTLed
 > CONTEXT: Map003/events/1/pages/2/461/Dialogue/クッション君
 > CONTEXT: Map094/events/13/pages/0/12/Dialogue/クッション君
 The dangers that normal forms of ducks use ...
-\\C[2]Archeny's "magic eyes". Mukuro's "Sports" and
+\\C[2]Arachne's "magic eyes". Mukuro's "Sports" and
 "Time Stop". And the bound of the limbs by the
 tail.#MTLed
 > END STRING
@@ -2381,7 +2381,7 @@ Do you wish to treat Nina's mind corruption?#MTLed
 アルケニーif(v[29] \>= 1) 
 > CONTEXT: Map003/events/2/pages/2/283/Choice/0
 > CONTEXT: Map003/events/2/pages/5/283/Choice/0
-Archenyif(v[29] \>= 1)#MTLed
+Arachneif(v[29] \>= 1)#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -2409,7 +2409,7 @@ Titanoboaif(v[32] \>= 1)#MTLed
 アルケニーの心蝕の治療を希望しますか？
 > CONTEXT: Map003/events/2/pages/2/287/Dialogue/other1
 > CONTEXT: Map003/events/2/pages/5/287/Dialogue/other1
-Do you want to treat Archeny's mind corruption?#MTLed
+Do you want to treat Arachne's mind corruption?#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -2711,7 +2711,7 @@ It doesn't look like I can get through it.#Ron
 > CONTEXT: Map003/events/8/pages/2/4/Dialogue
 > CONTEXT: Map166/events/8/pages/2/4/Dialogue
 \\C[2]I wonder if I could get through if I tried accessing
-this place from somewhere other than Archeny's Nest...?#Ron
+this place from somewhere other than Arachne's Nest...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -3019,7 +3019,7 @@ Moderately good, good mind#MTLed
 > CONTEXT: Map003/events/10/pages/2/210/Dialogue
 > CONTEXT: Map166/events/10/pages/2/210/Dialogue
 > CONTEXT: Map195/events/10/pages/2/210/Dialogue
-Heheheheheh!!\\C[10]Archeny\\C[0] The\\C[10] Killed\\C[0] Look at it!#MTLed
+Heheheheheh!!\\C[10]Arachne\\C[0] The\\C[10] Killed\\C[0] Look at it!#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -3029,7 +3029,7 @@ Heheheheheh!!\\C[10]Archeny\\C[0] The\\C[10] Killed\\C[0] Look at it!#MTLed
 > CONTEXT: Map003/events/10/pages/2/214/Dialogue
 > CONTEXT: Map166/events/10/pages/2/214/Dialogue
 > CONTEXT: Map195/events/10/pages/2/214/Dialogue
-It is ...... Omae, I was admitted to Archeny!#MTLed
+It is ...... Omae, I was admitted to Arachne!#MTLed
 > END STRING
 
 > BEGIN STRING
