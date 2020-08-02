@@ -4,9 +4,9 @@
 \\i[201]\\c[3]ハーブ\\c[0]があれば、心落ち着く飲み物を入れることが出来そうだ。
 > CONTEXT: Map152/events/4/pages/0/1/Dialogue
 > CONTEXT: Map288/events/4/pages/0/1/Dialogue
-There is a set of simplified tea sets for woofs.
-\\i[201]\\c[3] Herbs\\c[0] If so, it would be possible to put a soothing
-drink.#MTLed
+A tea set made for camping has been put here.
+You could make yourself a soothing drink if you have
+any \\i[201]\\c[3] Herbs\\c[0].#Ron
 > END STRING
 
 > BEGIN STRING
@@ -15,8 +15,8 @@ drink.#MTLed
 　　\\C[2]この９番駐車場を真っ直ぐ進んだ先だよ」
 > CONTEXT: Map152/events/30/pages/0/0/Dialogue
 > CONTEXT: Map288/events/30/pages/0/0/Dialogue
-sheep「Loading elevator. \\C[2] It is the point which went
-straight on this 9th parking lot」#MTLed
+Sheep「The service elevator \\C[2]is straight ahead
+       just past the Gate Nine parking lot.」#Ron
 > END STRING
 
 > BEGIN STRING
@@ -25,8 +25,9 @@ straight on this 9th parking lot」#MTLed
 　　見つからずに進むのはちょっと難しいかも…」
 > CONTEXT: Map152/events/30/pages/0/4/Dialogue
 > CONTEXT: Map288/events/30/pages/0/4/Dialogue
-sheep「Just because there are many Camazotz
-It may be a bit difficult to go without finding it ...」#MTLed
+Sheep「But since there's so many Camazotz here, it may
+       be difficult to get there without being
+       discovered...」#Ron
 > END STRING
 
 > BEGIN STRING
@@ -37,7 +38,7 @@ It may be a bit difficult to go without finding it ...」#MTLed
 > CONTEXT: Map152/events/37/pages/0/11/Dialogue/other3
 > CONTEXT: Map152/events/38/pages/0/11/Dialogue/other3
 > CONTEXT: Map152/events/39/pages/0/11/Dialogue/other3
-Hey, why are you running away? \\N[1].#MTLed
+Hey, why are you running away, \\N[1]?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -51,8 +52,9 @@ Hey, why are you running away? \\N[1].#MTLed
 > CONTEXT: Map152/events/37/pages/0/13/Dialogue/other3
 > CONTEXT: Map152/events/38/pages/0/13/Dialogue/other3
 > CONTEXT: Map152/events/39/pages/0/13/Dialogue/other3
-Everyone unlike me, with you. I just want to be
-comfortable? You should be a "friend" too ...#MTLed
+Unlike the others, I just want us to feel good
+together. You want us to be friends, don't
+you...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -64,7 +66,7 @@ comfortable? You should be a "friend" too ...#MTLed
 > CONTEXT: Map152/events/38/pages/0/18/Dialogue/kazuya
 > CONTEXT: Map152/events/39/pages/0/18/Dialogue/kazuya
 > CONTEXT: Map156/events/1/pages/0/24/Dialogue/kazuya
-Micah ......!!#afrg
+Micah...!!#afrg
 > END STRING
 
 > BEGIN STRING
@@ -77,7 +79,9 @@ Micah ......!!#afrg
 > CONTEXT: Map152/events/37/pages/0/22/Dialogue/other1
 > CONTEXT: Map152/events/38/pages/0/22/Dialogue/other1
 > CONTEXT: Map152/events/39/pages/0/22/Dialogue/other1
-\\N[1]!!Shoot!!now or never………!!!#MTLed
+Shoot her, \\N[1]!!
+
+It's now or never...!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -91,9 +95,10 @@ Micah ......!!#afrg
 > CONTEXT: Map152/events/37/pages/0/33/Dialogue
 > CONTEXT: Map152/events/38/pages/0/33/Dialogue
 > CONTEXT: Map152/events/39/pages/0/33/Dialogue
-The bullet hit...but...can not respond ...!
-The spark from hitting the demon is scattered,
-There is no sign of Micah ......#MTLed
+The bullet hit her... but nothing happened...!
+
+Normally sparks fly off when I shoot demons, but she
+didn't so much as flinch...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -104,7 +109,7 @@ There is no sign of Micah ......#MTLed
 > CONTEXT: Map152/events/37/pages/0/38/Dialogue/kazuya
 > CONTEXT: Map152/events/38/pages/0/38/Dialogue/kazuya
 > CONTEXT: Map152/events/39/pages/0/38/Dialogue/kazuya
-Th-This is…! ?#MTLed
+T-That's...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -118,10 +123,10 @@ Th-This is…! ?#MTLed
 > CONTEXT: Map152/events/37/pages/0/40/Dialogue/other2
 > CONTEXT: Map152/events/38/pages/0/40/Dialogue/other2
 > CONTEXT: Map152/events/39/pages/0/40/Dialogue/other2
-Uh, it's a lie ......... \\C[2]Even if the bullet is
-determined to be demon. Because the body is a
-human being, there is no magic to dissipate ...!
-?#MTLed
+N-No way...
+\\C[2]Even though the bullet can detect the demon
+within, because it's in a human body there's no
+magic to dissipate...?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -134,8 +139,9 @@ human being, there is no magic to dissipate ...!
 > CONTEXT: Map152/events/37/pages/0/46/Dialogue/other3
 > CONTEXT: Map152/events/38/pages/0/46/Dialogue/other3
 > CONTEXT: Map152/events/39/pages/0/46/Dialogue/other3
-I'm still going to continue struggling ...
-It is useless anyway ...#MTLed
+So you're still going to resist me...
+
+Even when there's nothing you can do...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -149,8 +155,10 @@ It is useless anyway ...#MTLed
 > CONTEXT: Map152/events/37/pages/0/50/Dialogue/other3
 > CONTEXT: Map152/events/38/pages/0/50/Dialogue/other3
 > CONTEXT: Map152/events/39/pages/0/50/Dialogue/other3
-Or...Did you get tired of being attacked by
-demons? soon, did you miss the human body?#MTLed
+Or maybe...
+
+Have you gotten sick of being attacked by demons?
+Do you miss the touch of another human body?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -164,7 +172,7 @@ demons? soon, did you miss the human body?#MTLed
 > CONTEXT: Map153/events/17/pages/3/157/Dialogue
 > CONTEXT: Map153/events/2/pages/3/156/Dialogue
 > CONTEXT: Map153/events/16/pages/3/157/Dialogue
-Micah took off his jacket in the dark ...#MTLed
+Micah slowly took off her jacket...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -178,8 +186,10 @@ Micah took off his jacket in the dark ...#MTLed
 > CONTEXT: Map152/events/37/pages/0/61/Dialogue/other4
 > CONTEXT: Map152/events/38/pages/0/61/Dialogue/other4
 > CONTEXT: Map152/events/39/pages/0/61/Dialogue/other4
-* Giggle * ......♪. Good, if it is \\N[1]
-......... ♡. Secret to Yuuma and Reina ...#MTLed
+Kusukusu... ♪
+
+I don't mind if it's you, \\N[1]... ♡
+It'll be our little secret...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -192,8 +202,9 @@ Micah took off his jacket in the dark ...#MTLed
 > CONTEXT: Map152/events/37/pages/0/66/Dialogue/other4
 > CONTEXT: Map152/events/38/pages/0/66/Dialogue/other4
 > CONTEXT: Map152/events/39/pages/0/66/Dialogue/other4
-I wonder if it's a bad relationship ......
-Fufu...I've been trembled...♡#MTLed
+We've entered a forbidden relationship... ♡♡
+
+How thrilling... fufufu... ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -206,7 +217,8 @@ Fufu...I've been trembled...♡#MTLed
 > CONTEXT: Map152/events/37/pages/0/76/Dialogue
 > CONTEXT: Map152/events/38/pages/0/76/Dialogue
 > CONTEXT: Map152/events/39/pages/0/76/Dialogue
-Micah licks his tongue. I will come to \\N[1] ...#MTLed
+Micah starts sidling up toward \\N[1] while licking
+her lips...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -219,8 +231,9 @@ Micah licks his tongue. I will come to \\N[1] ...#MTLed
 > CONTEXT: Map152/events/37/pages/0/80/Dialogue
 > CONTEXT: Map152/events/38/pages/0/80/Dialogue
 > CONTEXT: Map152/events/39/pages/0/80/Dialogue
-\\C[2]I can not afford to attack and hurt her ...
-If you do not understand it somehow.........!#MTLed
+\\C[2]I'm not going to attack and hurt her...
+
+I've got to get away somehow...!#Ron
 > END STRING
 
 > BEGIN STRING
