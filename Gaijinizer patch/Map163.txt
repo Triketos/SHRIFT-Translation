@@ -4,7 +4,7 @@
 　　　　　　リニアキャノン（対魔鉱鉄弾）について
 > CONTEXT: Map163/events/2/pages/0/2/Dialogue
 > CONTEXT: Map174/events/2/pages/0/2/Dialogue
-About Linear Cannon#MTLed
+Regarding The Railgun#Ron
 > END STRING
 
 > BEGIN STRING
@@ -14,9 +14,10 @@ About Linear Cannon#MTLed
 各ステーションに義務付けられました。
 > CONTEXT: Map163/events/2/pages/0/6/Dialogue
 > CONTEXT: Map174/events/2/pages/0/6/Dialogue
-Occurred during the construction of the submarine tunnel
-Since the battle with Uma "Levitan", installation of our
-weapons is. It was obliged to each station.#MTLed
+Ever since the battle with the ocean demon Leviathan
+that occurred during the construction of the undersea
+tunnel, the installation of railguns has been mandated
+at every station.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -26,16 +27,17 @@ weapons is. It was obliged to each station.#MTLed
 ロックが解除され、当武器が使用可能になります。
 > CONTEXT: Map163/events/2/pages/0/12/Dialogue
 > CONTEXT: Map174/events/2/pages/0/12/Dialogue
-Electronic lock is locked for a very powerful weapon
-\\C[10]Only in "Emergency of facilities",\\C[0]
-The lock is released and the weapon is available.#MTLed
+As it's a powerful weapon intended for use during
+emergencies, it's sealed with an electronic lock.
+\\C[10]Only in an emergency situation\\C[0] will the lock
+be released and the weapon be made available for use.#Ron
 > END STRING
 
 > BEGIN STRING
 使用の際には、以下の点に注意してください。
 > CONTEXT: Map163/events/2/pages/0/18/Dialogue
 > CONTEXT: Map174/events/2/pages/0/18/Dialogue
-Please note the following points when using it.#MTLed
+Please make note of the following points when using it.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -45,9 +47,9 @@ Please note the following points when using it.#MTLed
  待機時間を考慮して、チャージを開始してください。
 > CONTEXT: Map163/events/2/pages/0/21/Dialogue
 > CONTEXT: Map174/events/2/pages/0/21/Dialogue
-[1] Charge time. The time it takes to be able to fire is
-about 3 minutes. Start charging in consideration of the
-waiting time.#MTLed
+[1] Charge time. The weapon takes approximately three
+minutes to fully charge. Take that into consideration when
+deciding when to start the charging process.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -57,9 +59,9 @@ waiting time.#MTLed
 人間が耐えられる衝撃ではないため、死に至ります。
 > CONTEXT: Map163/events/2/pages/0/27/Dialogue
 > CONTEXT: Map174/events/2/pages/0/27/Dialogue
-[2] do not apply to people. Like Demon rounds, it uses
-magical ore. Because it is not an impact that human beings
-can bear, it leads to death.#MTLed
+[2] Don't fire on humans. Though it uses magical ore as
+its ammunition the same as Demon Rounds, the sheer impact
+of a single round is enough to kill a human.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -69,9 +71,9 @@ can bear, it leads to death.#MTLed
  よく狙って使用してください。
 > CONTEXT: Map163/events/2/pages/0/33/Dialogue
 > CONTEXT: Map174/events/2/pages/0/33/Dialogue
-[3] Disposable. It can not be reused once it is used for
-impossible miniaturization. Please aim at it well and use
-it.#MTLed
+[3] Single-Use. The miniaturization involved in this
+weapon's construction renders it usable for just a single
+discharge. Please aim very carefully when using it.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -79,8 +81,9 @@ it.#MTLed
 
 台座に固定され、ビクともしない。
 > CONTEXT: Map163/events/11/pages/0/0/Dialogue
-\\C[2]Linear cannon\\C[0] Is installed. 
-It is fixed to the pedestal and it doesn't make a big deal.#MTLed
+A \\C[2]railgun\\C[0] has been installed here.
+ 
+It's been fixed to the pedestal and won't budge an inch.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -88,8 +91,8 @@ It is fixed to the pedestal and it doesn't make a big deal.#MTLed
 
 手に取ってみたが、駆動部が固定されている…
 > CONTEXT: Map163/events/13/pages/0/0/Dialogue
-Various guns are placed. I tried to pick it up, but the
-drive was fixed ...#MTLed
+All sorts of guns have been put here. But they're all
+fixed in place on the racks so I can't take any...#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -97,14 +100,15 @@ drive was fixed ...#MTLed
 
 登録式なのだろうか……？
 > CONTEXT: Map163/events/13/pages/0/4/Dialogue
-Some sort of device attached such as fingerprint
-authentication. Is it a registration ceremony ......?#MTLed
+Looks like there's some kind of fingerprint scanner here.
+Maybe I have to be registered or something...#Ron
 > END STRING
 
 > BEGIN STRING
 様々な銃の弾薬が置かれている……
 > CONTEXT: Map163/events/15/pages/0/0/Dialogue
-Ammunition of various guns is put ...#MTLed
+Ammunition for various kind of firearms as been placed
+here...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -112,6 +116,6 @@ Ammunition of various guns is put ...#MTLed
 
 何個かは箱出ししてあるようだ。
 > CONTEXT: Map163/events/15/pages/0/2/Dialogue
-Most of them are in locked cases. Some of them seem to be
-out of the box.#MTLed
+Most of the cases are locked tight. But there's a couple
+here I might be able to open.#Ron
 > END STRING

@@ -15,13 +15,15 @@ What is it?#Triketos
 ずいぶんと時間がかかってるみたいだけど……
 > CONTEXT: Map162/events/2/pages/0/4/Dialogue/kazuya
 Yuuma, are you having any problems?
-It seems like you're taking an awfully long time ...#Triketos
+
+It seems like you're taking an awfully long
+time...#Triketos
 > END STRING
 
 > BEGIN STRING
 ああ……ちょっとな。
 > CONTEXT: Map162/events/2/pages/0/8/Dialogue/yuuma
-Ah... just a few more minutes.#Triketos
+Yeah... it's taking me a bit.#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -29,10 +31,9 @@ Ah... just a few more minutes.#Triketos
 
 どうもその一部が、解除できない状態になっている。
 > CONTEXT: Map162/events/2/pages/0/13/Dialogue/yuuma
-It's the safety device of the submarine tunnel...
+It's the submarine tunnel's safety device...
 
-I can't seem to release one part of it from it's
-current state.#Triketos
+I can't seem to release one part of it.#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -40,10 +41,10 @@ current state.#Triketos
 
 爆撃のために、軍本部が変更したのかもしれん…
 > CONTEXT: Map162/events/2/pages/0/17/Dialogue/yuuma
-Until now, it displayed that it was ready
-to leave, but....
-The military headquarters may have changed that
-for the bombing...#Triketos
+Nothing was displaying here until just now...
+
+But HQ might have changed that to facilitate the
+bombing...#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -51,9 +52,10 @@ for the bombing...#Triketos
 
 最悪、『列車が動かない』とか無いよな…？
 > CONTEXT: Map162/events/2/pages/0/22/Dialogue/kazuya
-Is that okay!? That...
+A-Are we gonna be alright?! I mean...
 
-That doesn't mean the train won't move, will it?#Triketos
+You're not gonna tell me that the train's stuck
+here, right...?#Triketos/Ron
 > END STRING
 
 > BEGIN STRING
@@ -62,11 +64,10 @@ That doesn't mean the train won't move, will it?#Triketos
  避難が完了して生存者がいないと思ってるのか
  こちら側から解除されることは想定していないらしい。
 > CONTEXT: Map162/events/2/pages/0/26/Dialogue/yuuma
-Yeah, that's because it's not supposed to.
-
-I think after they completed the evacuation of
-this area they'd assumed there'd be no
-survivors left, and sealed it off.#Triketos
+No it's fine, that won't happen. Maybe because
+they thought the evacuation was complete and
+no one would be here, they assumed no one would
+be around to perform the release.#Triketos/Ron
 > END STRING
 
 > BEGIN STRING
@@ -76,11 +77,9 @@ survivors left, and sealed it off.#Triketos
 直接解除するしかなさそうだ……
 > CONTEXT: Map162/events/2/pages/0/31/Dialogue/yuuma
 I can remove most of the locks here on this
-terminal, but....
-
-The lock on the railcar can only be lifted
-in the "Vehicle Control Room" in the
-basement downstairs.#Triketos
+terminal, but it looks like the lock on the
+railcar can only be lifted in the "Vehicle
+Control Room" in the basement downstairs.#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -90,9 +89,8 @@ basement downstairs.#Triketos
 もう少し、時間がかかりそうだ……
 > CONTEXT: Map162/events/2/pages/0/36/Dialogue/yuuma
 Once I finish the work here, someone will
-need to go downstairs to find it.
-Heh, it looks like it will take me
-a while longer...#Triketos
+need to go downstairs to find it. Looks like
+it's going to take a while longer...#Triketos/Ron
 > END STRING
 
 > BEGIN STRING
@@ -101,13 +99,14 @@ a while longer...#Triketos
 よし、僕が行ってくる。
 > CONTEXT: Map162/events/2/pages/0/42/Dialogue/kazuya
 The "Vehicle Control Room" in the basement...
-...OK, I'll go do it.#Triketos
+
+OK, I'll go do it.#Triketos
 > END STRING
 
 > BEGIN STRING
 すまない……助かるよ、\\N[1]
 > CONTEXT: Map162/events/2/pages/0/49/Dialogue/yuuma
-Sorry for asking you, \\N[1].#Triketos
+Thanks, \\N[1]. That'd be a great help.#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -163,8 +162,10 @@ About the survivors#Triketos
 
 階段を降りて、道なりに進んだ先だ。
 > CONTEXT: Map162/events/2/pages/1/6/Dialogue/yuuma
-The vehicle control room is\\C[2] Close to this room
-Get off the stairs and follow the road.#MTLed
+The vehicle control room is \\C[2]not far from here.
+
+Go down the stairs and follow the path, it'll be
+straight ahead of you.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -172,9 +173,9 @@ Get off the stairs and follow the road.#MTLed
 
 迷うほど入り組んではいないだろう。
 > CONTEXT: Map162/events/2/pages/1/10/Dialogue/yuuma
-From this communication room, it is just going
-through the staff dedicated passage
-It may not be so complicated as lost.#MTLed
+If you go down the staff passage from this room,
+it should be simple enough to find without you
+getting lost.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -182,9 +183,10 @@ It may not be so complicated as lost.#MTLed
 
  分からなければ、無線で指示をする。
 > CONTEXT: Map162/events/2/pages/1/14/Dialogue/yuuma
-The operation should be understood immediately by
-looking at the panel. If you do not know, give
-instructions by radio.#MTLed
+It should be obvious how to unlock the railcar by
+looking at the nearby panel. But if there's
+something you're not sure about, call me over
+the radio and I can provide instructions.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -194,9 +196,9 @@ instructions by radio.#MTLed
 　っていうのは……？
 > CONTEXT: Map162/events/2/pages/1/20/Dialogue/kazuya
 > CONTEXT: Map162/events/2/pages/2/6/Dialogue/kazuya
-Yuuma, I just talked in the elevator
-"It's no accident that my cryogenic stasis has
-been lifted". Is that ...?#MTLed
+Yuuma, about what we talked about back in the
+elevator... about how me being released from
+cryogenic stasis wasn't a coincidence...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -206,10 +208,9 @@ been lifted". Is that ...?#MTLed
 それが、本来の手順だ。
 > CONTEXT: Map162/events/2/pages/1/25/Dialogue/yuuma
 > CONTEXT: Map162/events/2/pages/2/11/Dialogue/yuuma
-...................... After the evacuation is
-complete, turn off the main power of each
-facility. Make the communication network offline.
-That is the original procedure.#MTLed
+...The procedure after evacuation was complete
+was to disable the main power and communications
+network at each facility.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -219,9 +220,10 @@ That is the original procedure.#MTLed
  なにか細工を行っているようだった……。
 > CONTEXT: Map162/events/2/pages/1/30/Dialogue/yuuma
 > CONTEXT: Map162/events/2/pages/2/16/Dialogue/yuuma
-But, in this communication room Micah
-Secretly put the shelter function back online
-remotely. It seemed to be doing some work ....#MTLed
+But Micah secretly restored your shelter's
+functionality remotely from this comms room.
+
+It seems she had some plan in mind...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -230,8 +232,9 @@ remotely. It seemed to be doing some work ....#MTLed
 彼女はただひたすら、謝りながら逃げていった……
 > CONTEXT: Map162/events/2/pages/1/35/Dialogue/yuuma
 > CONTEXT: Map162/events/2/pages/2/21/Dialogue/yuuma
-I tried to ask her, but...She just ran away
-while apologizing ...#MTLed
+I tried asking her about it but...
+
+She just ran away apologizing frantically...#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -241,9 +244,9 @@ while apologizing ...#MTLed
 そして、『許して』と……
 > CONTEXT: Map162/events/2/pages/1/39/Dialogue/yuuma
 > CONTEXT: Map162/events/2/pages/2/25/Dialogue/yuuma
-"it was not supposed to be like this"
-"I had no choice but to do this ..."
-And "forgive me" and ...#MTLed
+She was saying things like, "It wasn't supposed
+to be like this...", and "I didn't have a
+choice...", and "Please forgive me"...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -252,8 +255,8 @@ And "forgive me" and ...#MTLed
  その時に僕のコールドスリープを……？
 > CONTEXT: Map162/events/2/pages/1/44/Dialogue/kazuya
 > CONTEXT: Map162/events/2/pages/2/30/Dialogue/kazuya
-Well, Micah is. At that time my cryogenic stasis
-...?#MTLed
+So then, Micah must have been the one to disable
+it...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -263,9 +266,9 @@ Well, Micah is. At that time my cryogenic stasis
 その時はどんな細工をしたのか分からなかったんだ。
 > CONTEXT: Map162/events/2/pages/1/48/Dialogue/yuuma
 > CONTEXT: Map162/events/2/pages/2/34/Dialogue/yuuma
-Probably ......... Because she disconnected soon
-At that time, I had no idea what kind of work I
-did.#MTLed
+Probably... She quickly cut her connection off
+from me soon after, so I never found out what
+she'd been up to at the time.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -275,9 +278,10 @@ did.#MTLed
 そしたら、案の定………というわけだ。
 > CONTEXT: Map162/events/2/pages/1/53/Dialogue/yuuma
 > CONTEXT: Map162/events/2/pages/2/39/Dialogue/yuuma
-But I prepare for the event, Communication with
-the shelter was left online. Then, it is the rule
-of the plan.......#MTLed
+But I decided to leave the shelter's comms
+online just in case...
+
+Then sure enough, something came through...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -286,8 +290,8 @@ of the plan.......#MTLed
 港へのライフラインだけが光っていたのか……
 > CONTEXT: Map162/events/2/pages/1/58/Dialogue/kazuya
 > CONTEXT: Map162/events/2/pages/2/44/Dialogue/kazuya
-So, when I wake up. Is only the lifeline to the
-port shining?#MTLed
+So is that why after I woke up, the only active
+line was to the harbor?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -296,8 +300,8 @@ port shining?#MTLed
 彼女は、街の悪魔にお前を始末させたかったんだろうな…
 > CONTEXT: Map162/events/2/pages/1/62/Dialogue/yuuma
 > CONTEXT: Map162/events/2/pages/2/48/Dialogue/yuuma
-I can guess now, but...She would have wanted
-the city's demon to get rid of you ...#MTLed
+I can only guess now, but I think she wanted the
+demons in the city to deal with you...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -306,9 +310,9 @@ the city's demon to get rid of you ...#MTLed
 俺に見つからなければ、そうなっていただろう…
 > CONTEXT: Map162/events/2/pages/1/66/Dialogue/yuuma
 > CONTEXT: Map162/events/2/pages/2/52/Dialogue/yuuma
-An accidental accident at a shelter where
-evacuation is over...If I didn't find it, I
-would have been so ...#MTLed
+If I hadn't noticed, it probably would've been
+written off as a simple accident at one of the
+shelters after the evacuation...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -318,9 +322,9 @@ would have been so ...#MTLed
 彼女のUSBメモリを調べたときだ。
 > CONTEXT: Map162/events/2/pages/1/74/Dialogue/yuuma
 > CONTEXT: Map162/events/2/pages/2/60/Dialogue/yuuma
-It turned out that Micah was a M.O.W. agent
-It was left after being caught in Camazotz
-It was time to check her USB memory.#MTLed
+I found out Micah was an M.O.W agent after
+investigating a USB stick she left behind when
+she was snatched by Camazotz.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -330,10 +334,10 @@ It was time to check her USB memory.#MTLed
  メール転送用のデータがあった……
 > CONTEXT: Map162/events/2/pages/1/79/Dialogue/yuuma
 > CONTEXT: Map162/events/2/pages/2/65/Dialogue/yuuma
-Among them is my record from college ...
-In particular, the situation after entering the
-military was described in detail
-There was data for mail forwarding ...#MTLed
+On there were records about me from our college
+days. In particular, there was a very detailed
+forwarded email about me on what had happened
+after I joined the military...#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -343,9 +347,9 @@ There was data for mail forwarding ...#MTLed
  メンバーコードが記載されていたよ…
 > CONTEXT: Map162/events/2/pages/1/84/Dialogue/yuuma
 > CONTEXT: Map162/events/2/pages/2/70/Dialogue/yuuma
-I did not know the forwarding address was garbled
-but...In the Sender field, her M.O.W.
-The member code was listed ...#MTLed
+The address it'd been forwarded to was garbled,
+but her M.O.W member ID was displayed in the
+sender field...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -355,8 +359,9 @@ The member code was listed ...#MTLed
 俺を監視するためだったんだ。
 > CONTEXT: Map162/events/2/pages/1/89/Dialogue/yuuma
 > CONTEXT: Map162/events/2/pages/2/75/Dialogue/yuuma
-............ You can laugh. She entered the army
-not because I liked it. It was to watch me.#MTLed
+...It's funny, isn't it. She didn't join the army
+because she loved me, she just wanted to keep an
+eye on me.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -365,8 +370,9 @@ not because I liked it. It was to watch me.#MTLed
 不馴れな銃を持って……
 > CONTEXT: Map162/events/2/pages/1/94/Dialogue/yuuma
 > CONTEXT: Map162/events/2/pages/2/80/Dialogue/yuuma
-So, I forced myself to join a production unit
-like me...I got an unfamiliar gun ...#MTLed
+So she forced herself to join the same active
+unit as me, got her hands on an unfamiliar
+gun...#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -375,8 +381,9 @@ like me...I got an unfamiliar gun ...#MTLed
 『お前を始末する理由』はどこにも記載がなかった。
 > CONTEXT: Map162/events/2/pages/1/102/Dialogue/yuuma
 > CONTEXT: Map162/events/2/pages/2/88/Dialogue/yuuma
-...... but I was worried later and I checked
-"Why you kill you" was not mentioned anywhere.#MTLed
+...After that I got curious and tried
+investigating why she wanted to dispose of you,
+but I couldn't find any mention of that.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -385,8 +392,9 @@ like me...I got an unfamiliar gun ...#MTLed
  つい最近なのかもしれないな……
 > CONTEXT: Map162/events/2/pages/1/106/Dialogue/yuuma
 > CONTEXT: Map162/events/2/pages/2/92/Dialogue/yuuma
-I also found that you and I are dangerous for her
-Maybe just recently ...#MTLed
+I did find out that it's only very recently that
+she started considering you and me to be
+dangerous, though...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -395,8 +403,8 @@ Maybe just recently ...#MTLed
 ユウマたちの部隊が最後だったの？
 > CONTEXT: Map162/events/2/pages/1/112/Dialogue/kazuya
 > CONTEXT: Map162/events/2/pages/2/98/Dialogue/kazuya
-Survivors who escape from this city are
-Was Yuuma's unit last?#MTLed
+Were you and your unit the last survivors to
+escape from this city?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -405,8 +413,8 @@ Was Yuuma's unit last?#MTLed
  俺の部隊は『市民の避難誘導の最後尾』ってだけだ。
 > CONTEXT: Map162/events/2/pages/1/116/Dialogue/yuuma
 > CONTEXT: Map162/events/2/pages/2/102/Dialogue/yuuma
-No .... Not exactly. My unit is just "the tail
-end of the evacuation guidance of citizens".#MTLed
+No, not exactly. My unit was just the tail end
+of a group helping to evacuate civilians.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -415,9 +423,10 @@ end of the evacuation guidance of citizens".#MTLed
 彼らはヘリや輸送機など、別の脱出手段を独自に持っている。
 > CONTEXT: Map162/events/2/pages/1/120/Dialogue/yuuma
 > CONTEXT: Map162/events/2/pages/2/106/Dialogue/yuuma
-Some units were dispatched to this town on
-separate missions. They have their own escape
-means, such as helicopters and transport planes.#MTLed
+There were other units dispatched to separate
+missions in the city. They each had their own
+methods of escaping, like helicopters and
+transport planes.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -426,9 +435,9 @@ means, such as helicopters and transport planes.#MTLed
 実際、消息が途絶えた部隊も少なくないからな……
 > CONTEXT: Map162/events/2/pages/1/124/Dialogue/yuuma
 > CONTEXT: Map162/events/2/pages/2/110/Dialogue/yuuma
-But none of them can be said to be a very safe
-way to escape...In fact, there are not many
-troops who have lost news ...#MTLed
+But none of those could be said to be
+particularly safe methods. In fact we lost
+contact with more than a few squads...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -437,9 +446,9 @@ troops who have lost news ...#MTLed
 空がハーピーモドキで溢れていたからだ。
 > CONTEXT: Map162/events/2/pages/1/128/Dialogue/yuuma
 > CONTEXT: Map162/events/2/pages/2/114/Dialogue/yuuma
-The route from the ground to the port was used to
-evacuate citizens. The sky was full of Beetle
-Harpy.#MTLed
+The reason we evacuated civilians on foot was
+because the skies were infested with those Harpy
+Spawn.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -448,9 +457,9 @@ Harpy.#MTLed
 真っ先に標的にされかねないからな。
 > CONTEXT: Map162/events/2/pages/1/132/Dialogue/yuuma
 > CONTEXT: Map162/events/2/pages/2/118/Dialogue/yuuma
-Aside from military battle helicopters, transport
-aircraft carrying citizens. It could be targeted
-for the first time.#MTLed
+Combat helicopters aside, there was no way we
+could risk passenger planes carrying civilians
+being targeted by those things.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -459,8 +468,10 @@ for the first time.#MTLed
 無防備な弱いやつを狙うんだっけ、ハーピーモドキ……
 > CONTEXT: Map162/events/2/pages/1/140/Dialogue/kazuya
 > CONTEXT: Map162/events/2/pages/2/126/Dialogue/kazuya
-Oh………. Don't aim at the weak and unprotected,
-Beetle Harpy ......#MTLed
+Yeah...
+
+If I remember correctly, those Harpy Spawn
+specifically target the weak and defenseless...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -469,8 +480,9 @@ Beetle Harpy ......#MTLed
 お前、公園で誰か生存者に会わなかったか？
 > CONTEXT: Map162/events/2/pages/1/145/Dialogue/yuuma
 > CONTEXT: Map162/events/2/pages/2/131/Dialogue/yuuma
-Speaking of which...\\N[1]. 
-Did you not see any survivors in the park?#MTLed
+Speaking of which, \\N[1].
+
+Did you encounter any survivors in the park?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -479,16 +491,16 @@ Did you not see any survivors in the park?#MTLed
 トシアキ隊長の部隊とも、そこで連絡が途絶えたんだ。
 > CONTEXT: Map162/events/2/pages/1/149/Dialogue/yuuma
 > CONTEXT: Map162/events/2/pages/2/135/Dialogue/yuuma
-With one unit that was giving evacuation guidance
-for citizens...There was no contact with the
-Toshiaki captain's unit either.#MTLed
+There was a unit evacuating civilians through
+there under the command of Captain Toshiaki, but
+we ended up losing contact with the squad.#Ron
 > END STRING
 
 > BEGIN STRING
 トシアキ…？
 > CONTEXT: Map162/events/2/pages/1/153/Dialogue/kazuya
 > CONTEXT: Map162/events/2/pages/2/139/Dialogue/kazuya
-Toshiaki ...?#MTLed
+Toshiaki...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -498,23 +510,24 @@ Toshiaki ...?#MTLed
  公園の中で見かけなかったか？
 > CONTEXT: Map162/events/2/pages/1/155/Dialogue/yuuma
 > CONTEXT: Map162/events/2/pages/2/141/Dialogue/yuuma
-A silver-haired man with a slightly old face.
-I do not think that he is a man who can do it so
-easily. Did you see it in the park?#MTLed
+He's a gray-haired man with a bit of a weathered
+face. He's not the sort of guy who'd go down
+without a fight. Did you see him in the park
+anywhere?#Ron
 > END STRING
 
 > BEGIN STRING
 黙っておく
 > CONTEXT: Map162/events/2/pages/1/170/Choice/0
 > CONTEXT: Map162/events/2/pages/2/156/Choice/0
-Keep silent#MTLed
+Keep Quiet#Ron
 > END STRING
 
 > BEGIN STRING
 真実を話す
 > CONTEXT: Map162/events/2/pages/1/170/Choice/1
 > CONTEXT: Map162/events/2/pages/2/156/Choice/1
-Speak the truth#MTLed
+Be Honest#Ron
 > END STRING
 
 > BEGIN STRING
@@ -523,15 +536,16 @@ Speak the truth#MTLed
  公園では、生きた人間には出会わなかったよ。
 > CONTEXT: Map162/events/2/pages/1/172/Dialogue/kazuya
 > CONTEXT: Map162/events/2/pages/2/158/Dialogue/kazuya
-No...I do not know. In the park, I did not meet
-living people.#MTLed
+No... I didn't see anyone like that.
+
+I didn't meet a single survivor in the park.#Ron
 > END STRING
 
 > BEGIN STRING
 そうか……
 > CONTEXT: Map162/events/2/pages/1/177/Dialogue/yuuma
 > CONTEXT: Map162/events/2/pages/2/163/Dialogue/yuuma
-Really……#MTLed
+I see...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -540,7 +554,9 @@ Really……#MTLed
  悪魔に喰われた……。
 > CONTEXT: Map162/events/2/pages/1/181/Dialogue/kazuya-b
 > CONTEXT: Map162/events/2/pages/2/167/Dialogue/kazuya-b
-He is...dead. I was captured by demon ....#MTLed
+He's... dead.
+
+He was captured by a demon...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -549,8 +565,10 @@ He is...dead. I was captured by demon ....#MTLed
 手遅れだった………
 > CONTEXT: Map162/events/2/pages/1/185/Dialogue/kazuya-b
 > CONTEXT: Map162/events/2/pages/2/171/Dialogue/kazuya-b
-I tried to help...but my body melted ...
-It was too late .........#MTLed
+I tried to help him... but his body had been
+dissolved...
+
+I was too late...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -559,7 +577,10 @@ It was too late .........#MTLed
 彼も軍人だ、覚悟はしていただろうさ。
 > CONTEXT: Map162/events/2/pages/1/190/Dialogue/yuuma
 > CONTEXT: Map162/events/2/pages/2/176/Dialogue/yuuma
-Really………. He is also a soldier, I was prepared.#MTLed
+I see...
+
+I'm sure he was prepared for death, he was a
+soldier, after all.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -568,9 +589,10 @@ Really………. He is also a soldier, I was prepared.#MTLed
  軍に入りたての頃、彼の部隊に配属され、鍛えられた。
 > CONTEXT: Map162/events/2/pages/1/196/Dialogue/yuuma
 > CONTEXT: Map162/events/2/pages/2/182/Dialogue/yuuma
-He is ......... Captain Toshiaki is my teacher.
-When I was in the military, I was assigned to his
-unit and trained.#MTLed
+He... Captain Toshiaki was my instructor.
+
+I was assigned to his unit after I joined the
+military and received my training there.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -579,6 +601,6 @@ unit and trained.#MTLed
 相棒のような人だったよ……
 > CONTEXT: Map162/events/2/pages/1/200/Dialogue/yuuma
 > CONTEXT: Map162/events/2/pages/2/186/Dialogue/yuuma
-Even after I have my own unit, he will take care
-of me. I was like a buddy ...#MTLed
+Even after I got a unit of my own, he continued
+to look after me. He was like a partner...#Ron
 > END STRING
