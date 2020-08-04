@@ -7,7 +7,7 @@
 > CONTEXT: Map165/events/6/pages/0/6/Dialogue/kazuya
 > CONTEXT: Map165/events/7/pages/0/6/Dialogue/kazuya
 > CONTEXT: Map165/events/8/pages/0/6/Dialogue/kazuya
-That's it... the "Vehicle Control Room"............#Triketos
+That's it... the "Vehicle Control Room"...#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -42,7 +42,8 @@ You usually don't act like this.#Triketos
 > CONTEXT: Map165/events/6/pages/0/23/Dialogue/other2
 > CONTEXT: Map165/events/7/pages/0/23/Dialogue/other2
 > CONTEXT: Map165/events/8/pages/0/23/Dialogue/other2
-W-well......
+W-Well...
+
 \\C[2]You must absolutely not enter the control room
 ahead.#Triketos
 > END STRING
@@ -55,9 +56,9 @@ ahead.#Triketos
 > CONTEXT: Map165/events/6/pages/0/27/Dialogue/other2
 > CONTEXT: Map165/events/7/pages/0/27/Dialogue/other2
 > CONTEXT: Map165/events/8/pages/0/27/Dialogue/other2
-\\C[2]This is.... 
-It's a trap..... 
-to prevent you from running away.........#Triketos
+\\C[2]It's... a trap...
+
+To stop you from escaping...#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -68,8 +69,9 @@ to prevent you from running away.........#Triketos
 > CONTEXT: Map165/events/6/pages/0/31/Dialogue/kazuya
 > CONTEXT: Map165/events/7/pages/0/31/Dialogue/kazuya
 > CONTEXT: Map165/events/8/pages/0/31/Dialogue/kazuya
-A trap...? 
-Who in the world would do that ...?#Triketos
+A t-trap...? 
+
+Who in the world would do that...?#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -80,9 +82,9 @@ Who in the world would do that ...?#Triketos
 > CONTEXT: Map165/events/6/pages/0/42/Dialogue/kazuya
 > CONTEXT: Map165/events/7/pages/0/42/Dialogue/kazuya
 > CONTEXT: Map165/events/8/pages/0/42/Dialogue/kazuya
-No way......... 
+Don't tell me...
 
-\\C[2]You're not saying Yuuma's betraying me?!?#Triketos
+\\C[2]You're not saying Yuuma's betraying me?!#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -94,7 +96,7 @@ No way.........
 > CONTEXT: Map165/events/6/pages/0/46/Dialogue/other2
 > CONTEXT: Map165/events/7/pages/0/46/Dialogue/other2
 > CONTEXT: Map165/events/8/pages/0/46/Dialogue/other2
-.....The safety device of the railcar has already
+.....The safety device on the railcar has already
 been released. The Control Room is completely
 isolated, so it's impossible to override it's
 authority and activate it remotely.#Triketos
@@ -108,9 +110,8 @@ authority and activate it remotely.#Triketos
 > CONTEXT: Map165/events/6/pages/0/51/Dialogue/other2
 > CONTEXT: Map165/events/7/pages/0/51/Dialogue/other2
 > CONTEXT: Map165/events/8/pages/0/51/Dialogue/other2
-That guy.... he was waiting in anticipation for
-you to say "I'll do it". He acted like he was
-going to do it himself...#Triketos
+He was waiting for you to say you'd go do it. He
+acted like he was going to do it himself...#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -121,9 +122,9 @@ going to do it himself...#Triketos
 > CONTEXT: Map165/events/6/pages/0/56/Dialogue/kazuya
 > CONTEXT: Map165/events/7/pages/0/56/Dialogue/kazuya
 > CONTEXT: Map165/events/8/pages/0/56/Dialogue/kazuya
-.........
+...
 
-Do you want me to believe that....?#Triketos
+Are you saying I should believe you...?#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -134,10 +135,10 @@ Do you want me to believe that....?#Triketos
 > CONTEXT: Map165/events/6/pages/0/60/Dialogue/kazuya
 > CONTEXT: Map165/events/7/pages/0/60/Dialogue/kazuya
 > CONTEXT: Map165/events/8/pages/0/60/Dialogue/kazuya
-I didn't just me Yuuma yesterday...
+I didn't just met Yuuma yesterday...
 
-We both lived together in an orphanage since I
-was little.#Triketos
+We've been friends since we both lived together
+in an orphanage when we were little.#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -162,10 +163,10 @@ Are you seriously saying you don't trust him?#Triketos
 > CONTEXT: Map165/events/6/pages/0/69/Dialogue/other2
 > CONTEXT: Map165/events/7/pages/0/69/Dialogue/other2
 > CONTEXT: Map165/events/8/pages/0/69/Dialogue/other2
-......................................
+...
 
-I'm a familiar .........
-I must always follow orders, and never lie.#Triketos
+I'm a familiar...
+I can't do anything without orders...#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -178,8 +179,8 @@ I must always follow orders, and never lie.#Triketos
 > CONTEXT: Map165/events/8/pages/0/74/Dialogue/other2
 But just remember this...
 
-This has\\C[2] nothing to do with whether you
-believe in "Yuuma".....#Triketos
+This has \\C[2]nothing to do with whether you
+should believe in "Yuuma"...#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -188,7 +189,7 @@ believe in "Yuuma".....#Triketos
 > CONTEXT: Map165/events/6/pages/0/78/Dialogue/other2
 > CONTEXT: Map165/events/7/pages/0/78/Dialogue/other2
 > CONTEXT: Map165/events/8/pages/0/78/Dialogue/other2
-......Do you understand......\\N[1]?#Triketos
+...Do you understand, \\N[1]...?#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -197,7 +198,9 @@ believe in "Yuuma".....#Triketos
  真っ暗だ………
 > CONTEXT: Map165/events/10/pages/0/14/Dialogue/kazuya
 > CONTEXT: Map165/events/12/pages/0/14/Dialogue/kazuya
-that………? It's very dark .........#MTLed
+Huh...?
+
+It's pitch black in here...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -206,7 +209,8 @@ that………? It's very dark .........#MTLed
 勢いよく転倒した！
 > CONTEXT: Map165/events/10/pages/0/23/Dialogue
 > CONTEXT: Map165/events/12/pages/0/23/Dialogue
-\\N[1] took some foot in the dark. I overturned vigorously!#MTLed
+\\N[1] stepped on something in the darkness, and fell
+over in surprise!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -215,7 +219,9 @@ that………? It's very dark .........#MTLed
 植物の………ツタ……？
 > CONTEXT: Map165/events/10/pages/0/27/Dialogue/kazuya
 > CONTEXT: Map165/events/12/pages/0/27/Dialogue/kazuya
-What is this...Plant...... Ivy ...?#MTLed
+W-What is that...
+
+A plant...? Ivy...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -224,14 +230,16 @@ What is this...Plant...... Ivy ...?#MTLed
  お久しぶりぃ♡
 > CONTEXT: Map165/events/10/pages/0/33/Dialogue/enemy
 > CONTEXT: Map165/events/12/pages/0/33/Dialogue/enemy
-Yes? Long time no see#MTLed
+Heya, Nutrients-Kun... ♡
+
+Long time no see. ♡#Ron
 > END STRING
 
 > BEGIN STRING
 ら、ランパス………！？
 > CONTEXT: Map165/events/10/pages/0/37/Dialogue/kazuya
 > CONTEXT: Map165/events/12/pages/0/37/Dialogue/kazuya
-Et al, Lampas .........! ?#MTLed
+L-Lampas...?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -240,7 +248,9 @@ Et al, Lampas .........! ?#MTLed
  誰だお前は……！？
 > CONTEXT: Map165/events/10/pages/0/39/Dialogue/kazuya
 > CONTEXT: Map165/events/12/pages/0/39/Dialogue/kazuya
-No...... not......!!Who are you ...! ?#MTLed
+No... You're not her...!!
+
+Who are you...?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -250,8 +260,8 @@ No...... not......!!Who are you ...! ?#MTLed
 \\C[2]私が『あなたの知ってるランパス』じゃないって
 > CONTEXT: Map165/events/10/pages/0/43/Dialogue/enemy
 > CONTEXT: Map165/events/12/pages/0/43/Dialogue/enemy
-that………? It's amazing, I just understood it.
-\\C[2]I'm not "you know Lampas"#MTLed
+Hmm...? That's amazing, you can tell just by
+looking that \\C[2]I'm not the Lampas you know.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -260,22 +270,23 @@ that………? It's amazing, I just understood it.
 貴方はここで、死ぬまで搾り取られるんだよ……♡
 > CONTEXT: Map165/events/10/pages/0/48/Dialogue/enemy
 > CONTEXT: Map165/events/12/pages/0/48/Dialogue/enemy
-But...it was disappointing♪. 
-You are squeezed here until you die...♡#MTLed
+But... too bad for you...♪
+
+You're gonna be squeezed here until you die... ♡#Ron
 > END STRING
 
 > BEGIN STRING
 な……なにを……！
 > CONTEXT: Map165/events/10/pages/0/52/Dialogue/kazuya
 > CONTEXT: Map165/events/12/pages/0/52/Dialogue/kazuya
-N ...... What.........!#MTLed
+W-What...?!#Ron
 > END STRING
 
 > BEGIN STRING
 ぐっ…！！？
 > CONTEXT: Map165/events/10/pages/0/56/Dialogue/kazuya-1
 > CONTEXT: Map165/events/12/pages/0/56/Dialogue/kazuya-1
-Good ...!!?#MTLed
+Ggh...?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -284,8 +295,9 @@ Good ...!!?#MTLed
 すぐに気持ちよくしてあげるから……
 > CONTEXT: Map165/events/10/pages/0/58/Dialogue/enemy
 > CONTEXT: Map165/events/12/pages/0/58/Dialogue/enemy
-Oh yeah...it's about time.........
-I'll make you feel better soon ...#MTLed
+That's it, just hold still... ♡
+
+I'll make you feel real good...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -294,7 +306,9 @@ I'll make you feel better soon ...#MTLed
 ……ぁ……♡
 > CONTEXT: Map165/events/10/pages/0/65/Dialogue/kazuya-1
 > CONTEXT: Map165/events/12/pages/0/65/Dialogue/kazuya-1
-Hm ......... Ah...... ♡♡. ...... ...... ♡#MTLed
+Nmph... Aaah... ♡♡
+
+Aah... ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -304,10 +318,10 @@ Hm ......... Ah...... ♡♡. ...... ...... ♡#MTLed
  こうやって、負けたらダメな状況で堕ちるのが……♡
 > CONTEXT: Map165/events/10/pages/0/72/Dialogue/enemy
 > CONTEXT: Map165/events/12/pages/0/72/Dialogue/enemy
-...... Really, this has always been a hope,
-right? Safely etch more than my room
-If you lose in this way, you lose in a bad
-situation...♡#MTLed
+...Be honest, this is what you've always wanted,
+right? Rather than being safely squeezed in her
+"My Room", you'd much prefer be in this kind of
+dangerous situation... ♡#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -316,8 +330,9 @@ situation...♡#MTLed
 このまま一緒になろ？養分クン…♡
 > CONTEXT: Map165/events/10/pages/0/77/Dialogue/enemy
 > CONTEXT: Map165/events/12/pages/0/77/Dialogue/enemy
-That's fine...♡. Is it this way together?
-Nourishment Kun...♡#MTLed
+That's fine by me... ♡
+
+Shall we become one together, Nutrients-kun...? ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -326,7 +341,9 @@ Nourishment Kun...♡#MTLed
 頑張るんだねぇ…相変わらず。
 > CONTEXT: Map165/events/10/pages/0/90/Dialogue/enemy
 > CONTEXT: Map165/events/12/pages/0/90/Dialogue/enemy
-Oops……. I will do my best...as usual.#MTLed
+Oh wow...
+
+You're putting up a good fight as always...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -335,8 +352,8 @@ Oops……. I will do my best...as usual.#MTLed
  入ってきた扉は……！！？
 > CONTEXT: Map165/events/10/pages/0/94/Dialogue/kazuya-0
 > CONTEXT: Map165/events/12/pages/0/94/Dialogue/kazuya-0
-Toh...Tobi......! The door that came in
-......!!?#MTLed
+T-The door...! Where's the door I came in
+through...?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -345,8 +362,10 @@ Toh...Tobi......! The door that came in
 そんなに急いで、どこに行くの？ボウヤ…
 > CONTEXT: Map165/events/10/pages/0/105/Dialogue/enemy4
 > CONTEXT: Map165/events/12/pages/0/105/Dialogue/enemy4
-oh no ...... Hurry so much, where are you going?
-boy ...#MTLed
+My oh my...
+
+Where are you off to in such a hurry, little
+boy...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -355,8 +374,8 @@ boy ...#MTLed
 目の前の巨体に勢い余って飛び込んでしまう…！！
 > CONTEXT: Map165/events/10/pages/0/109/Dialogue
 > CONTEXT: Map165/events/12/pages/0/109/Dialogue
-\\N[1] ran out in the direction he came in
-You will jump into the huge body in front of you ...! !#MTLed
+\\N[1] ran in the direction he came, but ended up crashing
+into the huge body in front of him...!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -365,7 +384,9 @@ You will jump into the huge body in front of you ...! !#MTLed
 んんんんんんっ！！
 > CONTEXT: Map165/events/10/pages/0/113/Dialogue/kazuya-2
 > CONTEXT: Map165/events/12/pages/0/113/Dialogue/kazuya-2
-Hmmm!!? Ummmph! !#MTLed
+Nmmph?!
+
+Nnnmmmmmmph!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -374,15 +395,17 @@ Hmmm!!? Ummmph! !#MTLed
 いっぱい動いて、疲れたでしょう……？
 > CONTEXT: Map165/events/10/pages/0/117/Dialogue/enemy4
 > CONTEXT: Map165/events/12/pages/0/117/Dialogue/enemy4
-I've been working hard until now ...... boy
-...... You moved a lot and you got tired ...?#MTLed
+You worked so hard up until now, little boy...
+
+You've run around so much, aren't you all
+tuckered out...?#Ron
 > END STRING
 
 > BEGIN STRING
 ママのお乳で……ゆっくりおやすみ………♡
 > CONTEXT: Map165/events/10/pages/0/121/Dialogue/enemy4
 > CONTEXT: Map165/events/12/pages/0/121/Dialogue/enemy4
-My mom's milk...Slow night...... ♡#MTLed
+Rest easy... with mommy's milk... ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -391,15 +414,16 @@ My mom's milk...Slow night...... ♡#MTLed
  僕の『ママ』じゃない……！！
 > CONTEXT: Map165/events/10/pages/0/126/Dialogue/kazuya-0
 > CONTEXT: Map165/events/12/pages/0/126/Dialogue/kazuya-0
-You are ............ not mama.........!!!
-Not my "Mama" ......! !#MTLed
+You... You're not her...!!!
+
+You're not my mother...!!#Ron
 > END STRING
 
 > BEGIN STRING
 うわっ………！！！
 > CONTEXT: Map165/events/10/pages/0/134/Dialogue/kazuya-0
 > CONTEXT: Map165/events/12/pages/0/134/Dialogue/kazuya-0
-Wow………!!!#MTLed
+Uwah...!!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -408,15 +432,16 @@ Wow………!!!#MTLed
 手足の自由が効かなくなる………！！！
 > CONTEXT: Map165/events/10/pages/0/136/Dialogue
 > CONTEXT: Map165/events/12/pages/0/136/Dialogue
-Something around my body before my eyes. 
-Freedom of the limbs will not work......!!!#MTLed
+Something wrapped itself around my body in a flash...
+
+I can't freely move my arms or legs...!!!#Ron
 > END STRING
 
 > BEGIN STRING
 これは………『髪の毛』……！！？
 > CONTEXT: Map165/events/10/pages/0/140/Dialogue
 > CONTEXT: Map165/events/12/pages/0/140/Dialogue
-This is...... "hair" ...!!?#MTLed
+Is this... hair...?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -426,15 +451,16 @@ This is...... "hair" ...!!?#MTLed
 あきらめろ…………
 > CONTEXT: Map165/events/10/pages/0/143/Dialogue/enemy4
 > CONTEXT: Map165/events/12/pages/0/143/Dialogue/enemy4
-It doesn't matter who we are. 
-You are destined to die here. Give up .........#MTLed
+It doesn't matter what we are.
+
+You're destined to wither here. Give up...#Ron
 > END STRING
 
 > BEGIN STRING
 む、躯…………！？
 > CONTEXT: Map165/events/10/pages/0/148/Dialogue/kazuya-0
 > CONTEXT: Map165/events/12/pages/0/148/Dialogue/kazuya-0
-M, Mukuro ............! ?#MTLed
+M-Mukuro...?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -443,9 +469,9 @@ M, Mukuro ............! ?#MTLed
 今度は顔を突っ込んでみるか………？
 > CONTEXT: Map165/events/10/pages/0/153/Dialogue/enemy4
 > CONTEXT: Map165/events/12/pages/0/153/Dialogue/enemy4
-Hmmm...your favorite my heart......
-Do you want to dig into your face this time
-.........?#MTLed
+Come on, you love my breasts...
+
+Why not try sticking your face in them...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -454,15 +480,17 @@ Do you want to dig into your face this time
 顔を挟み込んでやろう……
 > CONTEXT: Map165/events/10/pages/0/157/Dialogue/enemy4
 > CONTEXT: Map165/events/12/pages/0/157/Dialogue/enemy4
-Not only hate, but it is big enough ...
-Let's pinch your face ...#MTLed
+They're plenty big enough for more than just
+rubbing...
+
+Let's sandwich your face in there...#Ron
 > END STRING
 
 > BEGIN STRING
 ううう……ぁ……♡
 > CONTEXT: Map165/events/10/pages/0/165/Dialogue/kazuya-0
 > CONTEXT: Map165/events/12/pages/0/165/Dialogue/kazuya-0
-Uh ...... ...... ♡#MTLed
+Uuuugh... ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -471,7 +499,9 @@ Uh ...... ...... ♡#MTLed
 はっ……はなせっ……！！！
 > CONTEXT: Map165/events/10/pages/0/168/Dialogue/kazuya-0
 > CONTEXT: Map165/events/12/pages/0/168/Dialogue/kazuya-0
-!!!!!!!!! Ahh...... uh.........!!!#MTLed
+!!!
+
+L-... Let me go...!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -480,8 +510,8 @@ Uh ...... ...... ♡#MTLed
 地面を這いながら逃げ続ける………！！
 > CONTEXT: Map165/events/10/pages/0/177/Dialogue
 > CONTEXT: Map165/events/12/pages/0/177/Dialogue
-\\N[1] forcibly unravels her hair. I will continue running
-away while crawling on the ground......! !#MTLed
+\\N[1] forcibly unravels her hair, and continues trying
+to escape while crawling on the ground...!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -490,8 +520,9 @@ away while crawling on the ground......! !#MTLed
 見えない……真っ暗で見えない……！！！
 > CONTEXT: Map165/events/10/pages/0/182/Dialogue/kazuya-0
 > CONTEXT: Map165/events/12/pages/0/182/Dialogue/kazuya-0
-What………!!What……!!! I can not see...I can
-not see in the dark......!!!#MTLed
+Haah...!! Haaah...!!!
+
+It's pitch black... I can't see a thing...!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -500,7 +531,9 @@ not see in the dark......!!!#MTLed
 でぐちはぁ…！！
 > CONTEXT: Map165/events/10/pages/0/186/Dialogue/kazuya-0
 > CONTEXT: Map165/events/12/pages/0/186/Dialogue/kazuya-0
-Where……!!Hmm ...! !#MTLed
+Where is it...?!
+
+Where's the exit?!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -510,9 +543,10 @@ Where……!!Hmm ...! !#MTLed
 往生際の悪いやつだ………
 > CONTEXT: Map165/events/10/pages/0/190/Dialogue/enemy4
 > CONTEXT: Map165/events/12/pages/0/190/Dialogue/enemy4
-............ Even if it becomes such a state, do
-not give up yet...It's a bad guy on a lifetime
-.........#MTLed
+...
+
+You're not giving up even in this situation? You
+need to learn when to give in...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -520,7 +554,7 @@ not give up yet...It's a bad guy on a lifetime
 > CONTEXT: Map165/events/10/pages/0/196/Dialogue/kazuya-0
 > CONTEXT: Map165/events/12/pages/0/196/Dialogue/kazuya-0
 > CONTEXT: Map169/events/4/pages/0/84/Dialogue/other5
-...... ......! ?#MTLed
+Wh-...?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -529,8 +563,8 @@ not give up yet...It's a bad guy on a lifetime
 背中から、誰かが抱えあげた………
 > CONTEXT: Map165/events/10/pages/0/198/Dialogue
 > CONTEXT: Map165/events/12/pages/0/198/Dialogue
-Suddenly, my body was lying down. Someone held up from the
-back .........#MTLed
+Something suddenly grabbed my back as I was laying
+face-down.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -539,8 +573,9 @@ back .........#MTLed
 この感触を恐ろしいほど知っている……………！！
 > CONTEXT: Map165/events/10/pages/0/202/Dialogue
 > CONTEXT: Map165/events/12/pages/0/202/Dialogue
-I am ...... I am ...... I know this feeling horribly .....!
-!#MTLed
+I... I...
+
+I know this horrible sensation all too well...!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -549,15 +584,17 @@ I am ...... I am ...... I know this feeling horribly .....!
 相変わらず、諦めが悪いですね、\\N[1]様。
 > CONTEXT: Map165/events/10/pages/0/208/Dialogue/yuuma
 > CONTEXT: Map165/events/12/pages/0/208/Dialogue/yuuma
-truly…………. As usual, I'm sorry I'm sorry, Mr.
-\\N[1].#MTLed
+Goodness gracious...
+
+You still don't know when to give up, do you,
+\\N[1]-sama.#Ron
 > END STRING
 
 > BEGIN STRING
 あああ……ああああぁぁ…！！
 > CONTEXT: Map165/events/10/pages/0/212/Dialogue/kazuya-0
 > CONTEXT: Map165/events/12/pages/0/212/Dialogue/kazuya-0
-Oh yeah...AAAAaa ...! !#MTLed
+Aaaah... Aaaaaaaah...!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -566,8 +603,9 @@ Oh yeah...AAAAaa ...! !#MTLed
 もとより、そうだったように………
 > CONTEXT: Map165/events/10/pages/0/214/Dialogue/yuuma
 > CONTEXT: Map165/events/12/pages/0/214/Dialogue/yuuma
-You are destined to die here. 
-From the beginning, as it was.........#MTLed
+You're destined to die here.
+
+That is how it always has been...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -576,8 +614,9 @@ From the beginning, as it was.........#MTLed
 私の胸の中で…………♡♡
 > CONTEXT: Map165/events/10/pages/0/218/Dialogue/yuuma
 > CONTEXT: Map165/events/12/pages/0/218/Dialogue/yuuma
-Well...... fate...... ♡. In my heart ......
-♡♡#MTLed
+Now then, as per your fate... ♡
+
+Come to my chest... ♡♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -588,7 +627,7 @@ Well...... fate...... ♡. In my heart ......
 > CONTEXT: Map165/events/12/pages/0/289/Dialogue/kazuya-0
 > CONTEXT: Map227/events/1/pages/0/179/Dialogue/kazuya-0
 > CONTEXT: Map250/events/5/pages/0/252/Dialogue/kazuya-0
-Uh ah ah ah ah ah ah!!!#MTLed
+Uwaaaaaaaaaaaaaah!!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -597,8 +636,10 @@ Uh ah ah ah ah ah ah!!!#MTLed
 イキながら泣き叫んじゃって、かーわい♡
 > CONTEXT: Map165/events/10/pages/0/252/Dialogue/enemy
 > CONTEXT: Map165/events/12/pages/0/252/Dialogue/enemy
-Well I thought, \\N[1]♪. I'm crying crying, I'm
-irritated#MTLed
+So you fiiinally gave up, \\N[1]...♪
+
+How cute, you're screaming and ejaculating at
+the same time... ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -607,8 +648,10 @@ irritated#MTLed
 寂しくなんてさせないから………♡
 > CONTEXT: Map165/events/10/pages/0/256/Dialogue/enemy4
 > CONTEXT: Map165/events/12/pages/0/256/Dialogue/enemy4
-From now on, moms will take care of boy ...
-Because I won't let you feel lonely...... ♡#MTLed
+Mommy and her friends here will take care of you
+from now on...
+
+We won't let you feel lonely again... ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -617,8 +660,8 @@ Because I won't let you feel lonely...... ♡#MTLed
 寂しさなど感じる暇もないぞ…………
 > CONTEXT: Map165/events/10/pages/0/260/Dialogue/enemy4
 > CONTEXT: Map165/events/12/pages/0/260/Dialogue/enemy4
-Even so. I have no time to feel loneliness
-.........#MTLed
+More than that, you won't have the time to feel
+lonely anymore...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -627,7 +670,9 @@ Even so. I have no time to feel loneliness
 ああぁ………♡♡
 > CONTEXT: Map165/events/10/pages/0/265/Dialogue/kazuya-0
 > CONTEXT: Map165/events/12/pages/0/265/Dialogue/kazuya-0
-Hmmm ......... ♡♡. Aah......... ♡♡#MTLed
+Uwaaaaah... ♡♡
+
+Aaaaah... ♡♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -636,9 +681,10 @@ Hmmm ......... ♡♡. Aah......... ♡♡#MTLed
  絶望と、期待の入り交じった、人間らしい表情……
 > CONTEXT: Map165/events/10/pages/0/269/Dialogue/yuuma
 > CONTEXT: Map165/events/12/pages/0/269/Dialogue/yuuma
-It is a very nice face...... Mr. \\N[1]
-A combination of despair and hope, a humanly
-expression ...#MTLed
+I love that look on your face, \\N[1]-sama.
+
+That mix of despair and expectation is so very
+human.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -647,29 +693,31 @@ expression ...#MTLed
 この……暗闇の中で………イキ続けながらね……
 > CONTEXT: Map165/events/10/pages/0/273/Dialogue/yuuma
 > CONTEXT: Map165/events/12/pages/0/273/Dialogue/yuuma
-You die here ......... This ...... in the dark
-... ...... keep on going ...#MTLed
+You'll die here...
+
+While you continue shooting out in this dark
+room...#RonIffyWording
 > END STRING
 
 > BEGIN STRING
 ウフフフ……♡
 > CONTEXT: Map165/events/10/pages/0/277/Dialogue/yuuma
 > CONTEXT: Map165/events/12/pages/0/277/Dialogue/yuuma
-Hihihihi ...... ♡#MTLed
+Hihihihi... ♡#Ron
 > END STRING
 
 > BEGIN STRING
 クスクス……♡
 > CONTEXT: Map165/events/10/pages/0/279/Dialogue/enemy
 > CONTEXT: Map165/events/12/pages/0/279/Dialogue/enemy
-* Giggle * ...... ♡#MTLed
+Kusukusu... ♡#Ron
 > END STRING
 
 > BEGIN STRING
 フフフフ……♡
 > CONTEXT: Map165/events/10/pages/0/281/Dialogue/enemy4
 > CONTEXT: Map165/events/12/pages/0/281/Dialogue/enemy4
-Hihihi F...♡#MTLed
+Fufufu... ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -678,7 +726,9 @@ Hihihi F...♡#MTLed
 だれか……ぁ…♡
 > CONTEXT: Map165/events/10/pages/0/314/Dialogue/kazuya-0
 > CONTEXT: Map165/events/12/pages/0/314/Dialogue/kazuya-0
-help ぇ ...... ぇ. Who............♡#MTLed
+Somebody... ♡
+
+Help... ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -687,13 +737,14 @@ help ぇ ...... ぇ. Who............♡#MTLed
 この……みんなぁ……ちがうぅ……
 > CONTEXT: Map165/events/10/pages/0/318/Dialogue/kazuya-0
 > CONTEXT: Map165/events/12/pages/0/318/Dialogue/kazuya-0
-Chiga......... U...♡♡. This ...... everyone
-... ...... difference ......#MTLed
+This isn't... like them... ♡♡
+
+It isn't like... these guys at all...#Ron
 > END STRING
 
 > BEGIN STRING
 ちがう………の……にぃ……♡
 > CONTEXT: Map165/events/10/pages/0/322/Dialogue/kazuya-0
 > CONTEXT: Map165/events/12/pages/0/322/Dialogue/kazuya-0
-が......... ...... ...... ♡ ♡#MTLed
+This isn't... like themmm... ♡#Ron
 > END STRING

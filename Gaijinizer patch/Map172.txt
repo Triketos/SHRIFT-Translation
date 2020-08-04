@@ -4,8 +4,9 @@
 
 てっきり、もう制御室にいったものかと……
 > CONTEXT: Map172/events/2/pages/0/13/Dialogue/yuuma
-\\N[1]......!? I thought you were already in
-the control room...#Triketos
+\\N[1]...?!
+
+I thought you were already in the control room...#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -13,7 +14,7 @@ the control room...#Triketos
 
 どうした、通路で迷ったのか？
 > CONTEXT: Map172/events/2/pages/0/17/Dialogue/yuuma
-The work here is just about to end. 
+I'm just about finished with my work here.
 
 Did you get lost in the hallways down there?#Triketos
 > END STRING
@@ -23,7 +24,7 @@ Did you get lost in the hallways down there?#Triketos
 
 ひとつ、頼みを聞いてくれないか？
 > CONTEXT: Map172/events/2/pages/0/23/Dialogue/kazuya-b
-.........................Yuuma.
+...Yuuma.
 
 Can I ask you a favor?#Triketos
 > END STRING
@@ -45,7 +46,7 @@ What in the world is the matter, \\N[1]?#Triketos
 > CONTEXT: Map172/events/2/pages/0/33/Dialogue/kazuya-b
 \\C[2]Promise me...
 
-"The Vehicle Control Room is safe.".........#Triketos
+"The Vehicle Control Room is safe."...#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -55,7 +56,7 @@ What in the world is the matter, \\N[1]?#Triketos
 > CONTEXT: Map172/events/2/pages/0/38/Dialogue/yuuma
 ...What do you mean, \\N[1]? 
 
-What does that mean to you...?#Triketos
+What are you talking about...?#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -64,9 +65,9 @@ What does that mean to you...?#Triketos
  悪魔は\\C[2]『人間との約束を破れない』だけであって
 『人間に嘘をつけない』わけじゃない………
 > CONTEXT: Map172/events/2/pages/0/42/Dialogue/kazuya-b
-Yuuma ...... Don't you know? 
-Demons \\C[2]"cannot break promises with humans".
-It doesn't mean they can't lie.#Triketos
+Yuuma... Don't you know? 
+Just because demons \\C[2]cannot break promises with
+humans, doesn't mean they can't lie.#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -75,8 +76,8 @@ It doesn't mean they can't lie.#Triketos
 \\C[2]『一緒に脱出しよう』という『提案』なら……
 嘘をつけるんだ………
 > CONTEXT: Map172/events/2/pages/0/47/Dialogue/kazuya-b
-For example......... \\C[2]If you say "Let's escape
-together", you can still be lying.....#Triketos
+For example... \\C[2]One could say "Let's escape
+together" but still be lying.....#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -85,7 +86,8 @@ together", you can still be lying.....#Triketos
 『約束を破れるか、破れない』か……
 > CONTEXT: Map172/events/2/pages/0/54/Dialogue/kazuya-b
 So there's only one difference between a human 
-and a demon... 
+and a demon...
+
 It's whether they can break their promises....#Triketos
 > END STRING
 
@@ -94,7 +96,7 @@ It's whether they can break their promises....#Triketos
 
  僕に『約束』してくれるだけでいい。
 > CONTEXT: Map172/events/2/pages/0/58/Dialogue/kazuya-b
-Please......... Yuuma.
+Please... Yuuma.
 
 All you have to do is make a promise to me.#Triketos
 > END STRING
@@ -105,7 +107,7 @@ All you have to do is make a promise to me.#Triketos
 いや、ついていなくても………できるはずだ。
  君が『人間』なら……！！
 > CONTEXT: Map172/events/2/pages/0/62/Dialogue/kazuya
-If you're lying...
+Even if you're lying...
 No, even if you're not....
 If you are human...!!#Triketos
 > END STRING
@@ -118,14 +120,14 @@ If you are human...!!#Triketos
 > CONTEXT: Map172/events/2/pages/0/68/Dialogue/yuuma
 ...The reason why I was able to survive
 without being attacked by demons while I was
-waiting for you was that a barrier like the rest
-areas was stretched along the basement.#Triketos
+waiting for you, was that a barrier like the rest
+areas was set up in this underground area.#Triketos
 > END STRING
 
 > BEGIN STRING
 その証拠だけでは、足りないというワケか…？
 > CONTEXT: Map172/events/2/pages/0/73/Dialogue/yuuma
-Is that not enough evidence for you..?#Triketos
+Is that not enough evidence for you...?#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -133,7 +135,7 @@ Is that not enough evidence for you..?#Triketos
 
 なるほど、お前が生き延びた理由がわかったよ。
 > CONTEXT: Map172/events/2/pages/0/81/Dialogue/yuuma
-..... I give up, you're quite the cautious one.
+...You got me, you're quite the cautious one.
 
 Of course, that's how you've survived so long.#Triketos
 > END STRING
@@ -145,7 +147,7 @@ Of course, that's how you've survived so long.#Triketos
 > CONTEXT: Map172/events/2/pages/0/85/Dialogue/yuuma
 I see... 
 
-Well, if that's truly what you believe....#Triketos
+Well, if that's truly what you believe...#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -171,9 +173,9 @@ Y-Yuuma?!#Triketos
 
 そろそろ本当のことを教えてやろう、\\N[1]。
 > CONTEXT: Map172/events/2/pages/0/103/Dialogue/other6
-Yuuma......? 
+Yuuma...? 
 
-Soon, I'll you the truth real, \\N[1].#Triketos
+Very well, I'll reveal the truth to you, \\N[1].#Triketos
 > END STRING
 
 > BEGIN STRING
