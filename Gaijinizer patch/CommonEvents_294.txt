@@ -4,8 +4,10 @@
 
 誰彼構わず、心の中に受け入れてるからこうなるんだ…
 > CONTEXT: CommonEvents_294/20/Dialogue/enemy10
-He He Heh, you got caught. This is because he or
-she accepts it in my heart ...#MTLed
+Kukuku, I've caught you.
+
+That's because you'll let just about anyone into
+your heart...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -13,14 +15,15 @@ she accepts it in my heart ...#MTLed
 
 今ならまだ間に合うかもしれないよ…？
 > CONTEXT: CommonEvents_294/24/Dialogue/enemy10
-Hmmm, a little bit better. It may still be in
-time...now?#MTLed
+Go on, try resisting me.
+
+There might still be time to get away...#Ron
 > END STRING
 
 > BEGIN STRING
 必死にもがく
 > CONTEXT: CommonEvents_294/32/Choice/0
-Desperately Struggle#MTLed
+Struggle Desperately#Ron
 > END STRING
 
 > BEGIN STRING
@@ -109,13 +112,13 @@ Desperately Struggle#MTLed
 > CONTEXT: Map304/events/5/pages/1/3/Choice/1 
 > CONTEXT: Map304/events/5/pages/2/3/Choice/1 
 > CONTEXT: Map304/events/8/pages/0/4/Choice/1 
-Nothing#Dargoth
+Do Nothing#Ron
 > END STRING
 
 > BEGIN STRING
 うぐっ………！？
 > CONTEXT: CommonEvents_294/34/Dialogue/kazuya-0
-aghh.........! ?#MTLed
+Ungh...!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -123,14 +126,14 @@ aghh.........! ?#MTLed
 
 今までと違ってビクともしない……！
 > CONTEXT: CommonEvents_294/36/Dialogue
-I tried to shake the thread stuck to my body
-Unlike ever, I'm not even freaking ......!#MTLed
+I tried to shake off the thread stuck to my body but
+unlike before, I can't move even an inch...!#Ron
 > END STRING
 
 > BEGIN STRING
 アルケニーは……本気だ……！
 > CONTEXT: CommonEvents_294/40/Dialogue
-Archeny is...serious ...!#MTLed
+Arachne is... serious...!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -138,7 +141,10 @@ Archeny is...serious ...!#MTLed
 
 無様に大声で助けを求めてみるかい？
 > CONTEXT: CommonEvents_294/48/Dialogue/enemy10
-Or ......... Do you want to ask for help loudly?#MTLed
+Or...
+
+Would you rather try pathetically crying out for
+help?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -146,14 +152,15 @@ Or ......... Do you want to ask for help loudly?#MTLed
 
  あるいは、誰か助けに来てくれるかもね…？
 > CONTEXT: CommonEvents_294/52/Dialogue/enemy10
-This is in your mind. Or maybe someone will come
-to help ...?#MTLed
+This is the inside of your mind...
+
+Maybe someone will come to save you...#Ron
 > END STRING
 
 > BEGIN STRING
 助けを呼ぶ
 > CONTEXT: CommonEvents_294/58/Choice/0
-Call for help#MTLed
+Call For Help#Ron
 > END STRING
 
 > BEGIN STRING
@@ -161,8 +168,8 @@ Call for help#MTLed
 
 誰かが気づいて入ってくるような気配はない……
 > CONTEXT: CommonEvents_294/64/Dialogue
-As long as power, I tried to call for help
-There is no sign that someone is aware and coming in ...#MTLed
+I tried calling for help with as much strength as I could
+muster, but there was no sign that anyone had heard me...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -178,10 +185,10 @@ Aah... Aaah...#Ron
 悪魔の誘惑に屈せずにここまで生き延びた人間が
 心を許した悪魔に食われて死ぬなんて……
 > CONTEXT: CommonEvents_294/79/Dialogue/enemy10
-......I can not do it. A human who has survived
-to here without giving in to the temptation of
-demon. Don't die from being eaten by a demon who
-forgives your heart ......#MTLed
+...How disappointing. You've survived thus far
+after never giving in to demonic temptation and
+now you're going to be eaten and killed after
+letting your guard down.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -190,10 +197,10 @@ forgives your heart ......#MTLed
 『ここまで仲良くなって、本気でやるはずがない。』
  『意識が戻れば、部屋のなかで目が覚める』
 > CONTEXT: CommonEvents_294/84/Dialogue/enemy10
-Even before this moment, you are thinking this
-way..."I'm getting along well here, I can't
-really do it. ". "If you return to consciousness,
-you will wake up in the room"#MTLed
+Up till now, you've been thinking that you'd
+actually made friends with me, that there's no
+way I would seriously hurt you. That you'd just
+wake up afterwards with no problem.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -202,8 +209,10 @@ you will wake up in the room"#MTLed
 さっき、お前さんには間違える要因があった……
 分かってるだろう？
 > CONTEXT: CommonEvents_294/89/Dialogue/enemy10
-But it was disappointing...Earlier, you had a
-factor to make mistakes...Do you understand?#MTLed
+I hate to disappoint you but...
+This is all happening because of those
+misconceptions... Do you realise what's happening
+now?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -211,7 +220,9 @@ factor to make mistakes...Do you understand?#MTLed
 
 お前さんは、見事に選択肢を誤ったのさ…！
 > CONTEXT: CommonEvents_294/94/Dialogue/enemy10
-\\C[10]"Option". You are the wrong choice of choice ...!#MTLed
+\\C[10]You had a choice...
+
+And you chose the worst one...!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -221,7 +232,7 @@ factor to make mistakes...Do you understand?#MTLed
 > CONTEXT: CommonEvents_413/15/Dialogue/kazuya-0
 > CONTEXT: Troops/185/pages/0/78/Dialogue/kazuya-0
 > CONTEXT: Troops/206/pages/0/27/Dialogue/kazuya-0
-Ah...Ah.........#MTLed
+Ah... Aah...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -229,8 +240,9 @@ Ah...Ah.........#MTLed
 
 もしかしたら、あたいの気が変わるかもね。
 > CONTEXT: CommonEvents_294/181/Dialogue/enemy10
-I will give the last chance ...
-Maybe it will change your mind.#MTLed
+I'll give you one last chance...
+
+Maybe you'll be able to change my mind.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -238,21 +250,21 @@ Maybe it will change your mind.#MTLed
 
 『生きたい』とあたいに惨めに懇願するんだよ……！！
 > CONTEXT: CommonEvents_294/185/Dialogue/enemy10
-I leave myself to Afraid and cry and scream ...!
-"I want to live" and begging for misery to hate
-...! !#MTLed
+Give yourself over to the fear, scream out...!
+
+Pathetically beg me to spare your life...!!#Ron
 > END STRING
 
 > BEGIN STRING
 泣き叫ぶ
 > CONTEXT: CommonEvents_294/191/Choice/0
-Cry out#MTLed
+Cry Out#Ron
 > END STRING
 
 > BEGIN STRING
 恐怖を堪える
 > CONTEXT: CommonEvents_294/191/Choice/1
-Bear Afraid#MTLed
+Endure The Fear#Ron
 > END STRING
 
 > BEGIN STRING
@@ -260,7 +272,9 @@ Bear Afraid#MTLed
 
 い、命だけはぁ……！！
 > CONTEXT: CommonEvents_294/193/Dialogue/kazuya-4
-whaaaa! Help me ...!!No, only life is ......! !#MTLed
+Uwaaaaaah!! Somebody help...!!
+
+I'm gonna die...!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -269,14 +283,16 @@ whaaaa! Help me ...!!No, only life is ......! !#MTLed
 まだ…ぼ、僕にはやらなきゃいけないことがぁ…！！
  死にたく……ないよぉ…！
 > CONTEXT: CommonEvents_294/197/Dialogue/kazuya-4
-No way...Still...I have to do it for me ...!
-! I do not want to die...not......!#MTLed
+Noooo...
+
+I still... h-have things I need to do...!!
+I don't... want to die...!#Ron
 > END STRING
 
 > BEGIN STRING
 うぐぐっ……！！！！
 > CONTEXT: CommonEvents_294/204/Dialogue/kazuya-4
-unghngh......!!! !#MTLed
+Unngh...!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -284,9 +300,10 @@ unghngh......!!! !#MTLed
 
 だが、沸き上がる恐怖に、身体の震えは止まらない…
 > CONTEXT: CommonEvents_294/206/Dialogue
-I squeezed my teeth and looked straight at Archeny.
-However, the shaking of the body does not stop at the
-boiling Afraid ...#MTLed
+I gritted my teeth and looked at Arachne head-on.
+
+But I couldn't stop my body shaking from the fear welling
+up inside me...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -294,8 +311,10 @@ boiling Afraid ...#MTLed
 
  『お前さんが、興味に見合う奴か見定める』って……
 > CONTEXT: CommonEvents_294/214/Dialogue/enemy10
-I must have said that. "I will see who you meet
-the interests of interest"......#MTLed
+I'm sure I already told you this... 
+
+I want to confirm whether you're even worth
+my interest in you...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -303,7 +322,7 @@ the interests of interest"......#MTLed
 
 お前さんは、不合格さ…！！
 > CONTEXT: CommonEvents_294/218/Dialogue/enemy10
-\\N[1] ......... You are rejected ...!!#MTLed
+You fail, \\N[1]...!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -311,7 +330,9 @@ the interests of interest"......#MTLed
 
 うわああああああああああっっ！
 > CONTEXT: CommonEvents_294/222/Dialogue/kazuya-4
-Uh ......... Wow ah ahh ahhhhh!#MTLed
+Ugh...
+
+Uwaaaaaah!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -319,7 +340,9 @@ Uh ......... Wow ah ahh ahhhhh!#MTLed
 
 まるで母親にでもなった気分だよ……
 > CONTEXT: CommonEvents_294/294/Dialogue/enemy10
-Hehehe ...... I feel like I was a mother ......#MTLed
+Kukuku...
+
+It kind of feels like I'm a mother...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -327,9 +350,9 @@ Hehehe ...... I feel like I was a mother ......#MTLed
 
 寂しくないように、外からいつでも撫でてやるよ
 > CONTEXT: CommonEvents_294/298/Dialogue/enemy10
-From now on, I will spend forever in the belly of
-my heart...I will always boil from the outside
-so as not to be lonely#MTLed
+You're going to live in my belly forever from
+now on... I'll be sure to rub you from the
+outside so you don't feel too lonely in there.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -337,12 +360,13 @@ so as not to be lonely#MTLed
 
 ゆっくり眠りな……
 > CONTEXT: CommonEvents_294/313/Dialogue/enemy10
-What would you like to sing with your lullaby?
-Sleep slowly ...#MTLed
+Shall I sing you a lullaby?
+
+Enjoy your sleep in there...#Ron
 > END STRING
 
 > BEGIN STRING
 哀れな\\N[1]………
 > CONTEXT: CommonEvents_294/317/Dialogue/enemy10
-It is pathetic \\N[1] .........#MTLed
+My pathetic \\N[1]...#Ron
 > END STRING

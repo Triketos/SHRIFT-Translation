@@ -4,32 +4,33 @@
 
 どうしたんだい？喰われに来たのかい？
 > CONTEXT: Map119/events/5/pages/0/18/Dialogue/enemy10
-Hehehe ...... what's up? Have you come to
-captivity?#MTLed
+Kukuku...
+
+What's the matter? Have you come to be eaten?#Ron
 > END STRING
 
 > BEGIN STRING
 雑談する en(v[49] \>= 25) 
 > CONTEXT: Map119/events/5/pages/0/24/Choice/0
-Chaten(v[49] \>= 25)#MTLed
+Chaten(v[49] \>= 25)#Ron
 > END STRING
 
 > BEGIN STRING
 搾精（抱き）en(v[49] \>= 25) 
 > CONTEXT: Map119/events/5/pages/0/24/Choice/1
-milking (Hug)en(v[49] \>= 25)#MTLed
+Milking (Hug)en(v[49] \>= 25)#Ron
 > END STRING
 
 > BEGIN STRING
 搾精（倒し）en(v[49] \>= 50) 
 > CONTEXT: Map119/events/5/pages/0/24/Choice/2
-milkingen(v[49] \>= 50)#MTLed
+Milking (Pinned)en(v[49] \>= 50)#Ron
 > END STRING
 
 > BEGIN STRING
 【アルケニー】種族：妖魔
 > CONTEXT: Map119/events/5/pages/0/26/ChoiceHelp
-【Archeny】 Tribe: monster#MTLed
+【Arachne】 Tribe: Apparition#Ron
 > END STRING
 
 > BEGIN STRING
@@ -54,7 +55,7 @@ And it's a beautiful ore.#MTLed
 > BEGIN STRING
 心蝕を消すif(v[49] \>= 100) 
 > CONTEXT: Map119/events/5/pages/0/208/Choice/0
-clear the mind corruptionif(v[49] \>= 100)#MTLed
+Clear Corruptionif(v[49] \>= 100)#Ron
 > END STRING
 
 > BEGIN STRING
@@ -63,14 +64,16 @@ clear the mind corruptionif(v[49] \>= 100)#MTLed
 いいさ……その代わりに『恐怖』を
 たっぷり植え付けてやるかね…？
 > CONTEXT: Map119/events/5/pages/0/219/Dialogue/enemy10
-Oh, I wish I could do it...That's good ......
-Instead "Afraid". Do you plant it a lot?#MTLed
+Aaah, I'd rather not...
+
+Well alright, but in exchange I get to instil
+plenty of fear into you, okay?#Ron
 > END STRING
 
 > BEGIN STRING
 "アルケニーの心蝕が治った！！"
 > CONTEXT: Map119/events/5/pages/0/231/InlineScript/1:12
-"アルケニー's mind corruption cured!!"#MTLed
+"Arachne's corruption is cleared!!"#Ron
 > END STRING
 
 > BEGIN STRING
@@ -85,11 +88,10 @@ Remove mind corruption (Queen)if(v[36] \>= 2)#Triketos
 \\C[2]キズナを結んでいる状態でないとダメなようだ…
 > CONTEXT: Map119/events/5/pages/0/245/Dialogue
 > CONTEXT: Map215/events/5/pages/0/244/Dialogue
-The degree of friendship is not enough to get
-your caries fixed ...
-
-\\C[2] It seems to be useless unless it is in the
-state of connecting Kizuna ...#GT
+Your friendship isn't high enough to have her clear your
+corruption...
+\\C[2]It seems like it'll be impossible unless you build a
+bond with her...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -145,26 +147,27 @@ the Queen's mind corruption has been reduced....#Triketos
 
 まぁいいさ、何が聞きたいんだい？
 > CONTEXT: Map119/events/5/pages/1/1/Dialogue/enemy10
-Hmm…! Talk, hey ......... very well, what do you
-want to ask?#MTLed
+Hmph...! You want to talk, do you...?
+
+Very well, what would you like to ask me?#Ron
 > END STRING
 
 > BEGIN STRING
 アルケニーについてen(v[49] \>= 30) 
 > CONTEXT: Map119/events/5/pages/1/7/Choice/0
-About Archenyen(v[49] \>= 30)#MTLed
+About Heren(v[49] \>= 30)#Ron
 > END STRING
 
 > BEGIN STRING
 アルケニーの糸en(v[49] \>= 40) 
 > CONTEXT: Map119/events/5/pages/1/7/Choice/1
-Archeny threaden(v[49] \>= 40)#MTLed
+Her Threaden(v[49] \>= 40)#Ron
 > END STRING
 
 > BEGIN STRING
 使い魔en(v[49] \>= 60) 
 > CONTEXT: Map119/events/5/pages/1/7/Choice/2
-Familiaren(v[49] \>= 60)#MTLed
+Her Familiarsen(v[49] \>= 60)#Ron
 > END STRING
 
 > BEGIN STRING
@@ -172,9 +175,9 @@ Familiaren(v[49] \>= 60)#MTLed
 
 あたいと話して、楽しい雑談になるとは思ってないよねぇ？
 > CONTEXT: Map119/events/5/pages/1/13/Dialogue/enemy10
-I think that is right, but you
-I don't think I'll talk with you and make it a
-fun chat, right?#MTLed
+I'm sure I'm just misunderstanding, but by
+"chatting", you weren't planning on making fun
+little smalltalk with me, were you?#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -183,9 +186,9 @@ fun chat, right?#MTLed
  明るく楽しいおしゃべりがしたいなら、他の女悪魔を
  あたるといいよ。
 > CONTEXT: Map119/events/5/pages/1/17/Dialogue/enemy10
-You must have understood the character of Aton?
-If you want to have a bright and entertaining
-chat, try another woman demon. I hope it hits.#MTLed
+You should know what kind of entity I am by now.
+Go talk to one of the others if you want to have
+a chitchat session.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -194,9 +197,10 @@ chat, try another woman demon. I hope it hits.#MTLed
 そこはあたいにとっては絶対に変わらないし
 人間のお前さんにとっちゃ、嫌な話題しかないよ。
 > CONTEXT: Map119/events/5/pages/1/22/Dialogue/enemy10
-For humans, humans are only food.
-There is absolutely no change for that
-There is only a bad topic for the human being.#MTLed
+Humans are nothing but food to me. Nothing has
+changed for me in that regard, so the only topics
+of conversation we can have will be unpleasant
+for a human like you.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -205,8 +209,9 @@ There is only a bad topic for the human being.#MTLed
 でも僕はアルケニーの事を、容赦ない性格って事ぐらいしか
 今のところ知らない。
 > CONTEXT: Map119/events/5/pages/1/27/Dialogue/kazuya
-I know that .... But I do not have any excuse for
-Archeny. I do not know so far.#MTLed
+I know that... But right now that merciless
+aspect of your personality is the only thing I
+know about you.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -214,8 +219,8 @@ Archeny. I do not know so far.#MTLed
 
  ただ君の事を、知りたいだけだ。
 > CONTEXT: Map119/events/5/pages/1/32/Dialogue/kazuya
-Besides, I do not want to ask for an apology or
-reason. I just want to know about you.#MTLed
+It's not like I want to hear any apologies or
+reasons. I just want to know more about you.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -223,8 +228,9 @@ reason. I just want to know about you.#MTLed
 
 本当に、変わった奴だね。お前さんは。
 > CONTEXT: Map119/events/5/pages/1/37/Dialogue/enemy10
-.........................................
-It's really strange. How about you?#MTLed
+.........
+
+You really are a strange one.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -233,10 +239,10 @@ It's really strange. How about you?#MTLed
 人間だった頃の記憶があれば、話のネタの一つにでも
  なったもんだろうけど……
 > CONTEXT: Map119/events/5/pages/1/41/Dialogue/enemy10
-However, even if you talk, what did you talk
-about ......... If you have a memory of when you
-were a human, even if it is one of the stories
-I wonder if it is...but ...#MTLed
+But what is there to talk about, anyway...?
+
+If I had any memories from when I was human,
+maybe we could work with that...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -244,7 +250,9 @@ I wonder if it is...but ...#MTLed
 
  『人間だった頃』って…！？
 > CONTEXT: Map119/events/5/pages/1/47/Dialogue/kazuya
-! ? "When I was a human being" ...! ?#MTLed
+!?
+
+What do you mean by that...?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -252,9 +260,10 @@ I wonder if it is...but ...#MTLed
 
 あるクソ女神のせいで、こんな悪魔に転生しちまったがね。
 > CONTEXT: Map119/events/5/pages/1/51/Dialogue/enemy10
-I was originally a woman who weaved
-Because of a certain fucking goddess, I was
-incarnated to such a demon.#MTLed
+I used to be a weaver-woman...
+
+But because of a certain bitch goddess, I was
+reincarnated in this form.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -263,9 +272,10 @@ incarnated to such a demon.#MTLed
  織物を司る女神が、普通の人間と勝負して負けるだなんて
  あっちゃいけないからねぇ。
 > CONTEXT: Map119/events/5/pages/1/55/Dialogue/enemy10
-...... This is a long time ago story.
-The goddess who controls the fabric can defeat an
-ordinary human and lose. I can't wait.#MTLed
+Kuku... This is a story from a long time ago.
+
+The story of a goddess being defeated by
+the weaving of a mere human.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -274,10 +284,10 @@ ordinary human and lose. I can't wait.#MTLed
 あたいの性格は、人間の頃からひねくれていたのさ
 最初に喧嘩をふっかけたのも、あたいの方からだった。
 > CONTEXT: Map119/events/5/pages/1/63/Dialogue/enemy10
-Oops! I will nail the nails before I make a
-strange mistake. I wanted to change my
-personality since I was human. It was from the
-person who wanted to wear a crab first.#MTLed
+Whoops! Let me warn you before you start getting
+any funny ideas: My personality was twisted even
+while I was human. I was the one who picked a
+fight with her.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -285,8 +295,9 @@ person who wanted to wear a crab first.#MTLed
 
 だけどあの時のあたいは、少し愚かだったのさ。
 > CONTEXT: Map119/events/5/pages/1/68/Dialogue/enemy10
-Even now, I think that I was the upper arm of the
-fabric. But that time, I was a little stupid.#MTLed
+Even now, I still think my weaving was better.
+
+But I was a little foolish back then.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -294,9 +305,10 @@ fabric. But that time, I was a little stupid.#MTLed
 
 あのクソ女神だって、最初は忠告しに来ていたんだよ。
 > CONTEXT: Map119/events/5/pages/1/72/Dialogue/enemy10
-Admired from around, self-indulgent ......
-Even that fucking goddess was coming for advice
-at first.#MTLed
+Praised by everyone, full of conceit...
+
+Even that shitty goddess was coming to me for
+advice...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -304,8 +316,9 @@ at first.#MTLed
 
 あたいを『戒める』要素がたっぷり詰まっている。
 > CONTEXT: Map119/events/5/pages/1/76/Dialogue/enemy10
-That's why this reincarnate body is
-There is a lot of elements "Keep it up" for you.#MTLed
+That's why I was reincarnated in this body...
+
+All as part of my "punishment".#Ron
 > END STRING
 
 > BEGIN STRING
@@ -313,8 +326,10 @@ There is a lot of elements "Keep it up" for you.#MTLed
 
 ヴェールみたいに、１つにまとまっていて綺麗だろう？
 > CONTEXT: Map119/events/5/pages/1/81/Dialogue/enemy10
-......Well, for example, this back hair.
-Like a veil, you're all in one and beautiful?#MTLed
+...Like this hair on my back for example...
+
+Looked at from afar it's beautiful like a veil,
+right?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -323,10 +338,10 @@ Like a veil, you're all in one and beautiful?#MTLed
 
  一見、便利な身体の一部さ。
 > CONTEXT: Map119/events/5/pages/1/85/Dialogue/enemy10
-If you wrap it up, it will be assimilated to the
-scenery around you. There is also a camouflage
-function, you can freely put in and out of your
-head. A seemingly convenient part of the body.#MTLed
+Clad in this hair, I seamlessly blend into
+the background. It also has camouflage abilities
+and I can draw and retract it as needed. At first
+glance, it's quite a convenient part of my body.#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -334,8 +349,9 @@ head. A seemingly convenient part of the body.#MTLed
 
 なぜだか分かるかい？\\N[1]。
 > CONTEXT: Map119/events/5/pages/1/90/Dialogue/enemy10
-... but I rarely use this one.
-Do you know why? \\N[1].#MTLed
+...But I rarely use it.
+
+Do you know why, \\N[1]?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -343,8 +359,10 @@ Do you know why? \\N[1].#MTLed
 
 その女神を思い出させる何かがある、とか…？
 > CONTEXT: Map119/events/5/pages/1/95/Dialogue/kazuya
-No……? Is there something that reminds me of that
-goddess?#MTLed
+N-No...
+
+Is it because it reminds you of that goddess or
+something...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -353,9 +371,9 @@ goddess?#MTLed
 例のクソ女神との織物対決の際、
 『あたいが織った織物の織り方』そのままに。
 > CONTEXT: Map119/events/5/pages/1/100/Dialogue/enemy10
-I'm knitting, this veil. At the time of the
-textile confrontation with the example fucking
-goddess, "Weaving woven fabrics" as it is.#MTLed
+It's because this veil has been knitted. It's
+been knitted the same way as I knitted back when
+I had the showdown with that bitch goddess.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -363,9 +381,9 @@ goddess, "Weaving woven fabrics" as it is.#MTLed
 
  邪な心でこんなものを織った、あの日のあたいをね。
 > CONTEXT: Map119/events/5/pages/1/105/Dialogue/enemy10
-That fucking goddess is not willing to forgive.
-I've woven such a thing with a wicked heart, I
-wish you the love of that day.#MTLed
+That fucking goddess is not willing to forgive
+me. I wove this thing with hate in my heart that
+day.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -374,9 +392,10 @@ wish you the love of that day.#MTLed
 今となっては、むしろ悪魔の生活を楽しんでいるよ。
 お前さんも知っての通りね。
 > CONTEXT: Map119/events/5/pages/1/109/Dialogue/enemy10
-So this figure is self-employed.
-Now I'm rather enjoying the life of demon.
-You know as well.#MTLed
+So this form is my just desserts.
+
+Though now I'm rather enjoying the life of a
+demon, as you well know.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -384,9 +403,10 @@ You know as well.#MTLed
 
  怖くておぞましいって気持ちが、少しでも和らいだかい？
 > CONTEXT: Map119/events/5/pages/1/116/Dialogue/enemy10
-How is it? Did you like a little love?
-Are you scared and scared, do you feel any
-relief?#MTLed
+So? Do you like me a little more now?
+
+Has your disgust and fear of me lessened
+somewhat?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -394,8 +414,10 @@ relief?#MTLed
 
 そのままくり貫いて、飾りにしたいくらいだ…
 > CONTEXT: Map119/events/5/pages/1/122/Dialogue/enemy10
-Hehehe ...! I have an honest eye ......
-As it was, it was a great deal of decoration ...#MTLed
+Kukuku...! I can see it in your eyes...
+
+How I'd love to gouge them out and use them as
+decorations...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -404,15 +426,17 @@ As it was, it was a great deal of decoration ...#MTLed
 お前さんに女悪魔たちが惹かれるのは
  その正直な『眼』のせいなのかもしれないねぇ
 > CONTEXT: Map119/events/5/pages/1/126/Dialogue/enemy10
-I see...ぇ. It is that women demons are
-attracted to you. It may be because of that
-honest 'eye'#MTLed
+I see now... ♡
+
+Perhaps those honest eyes of yours are the reason
+why the other female demons are so drawn to you.#Ron
 > END STRING
 
 > BEGIN STRING
 ああ、ますます独り占めしたい気分になってきたよ…
 > CONTEXT: Map119/events/5/pages/1/131/Dialogue/enemy10
-Oh, I feel more and more wanting to do it ...#MTLed
+Aaah, it's making me want to have you all to
+myself more and more...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -420,8 +444,9 @@ Oh, I feel more and more wanting to do it ...#MTLed
 
 　怖い……）
 > CONTEXT: Map119/events/5/pages/1/133/Dialogue/kazuya
-(Well, more and more breathlessness ...
-scared……)#MTLed
+(H-Her breathing's getting more and more ragged.
+
+It's making me nervous...)#Ron
 > END STRING
 
 > BEGIN STRING
@@ -429,9 +454,10 @@ scared……)#MTLed
 
  拘束用の頑丈な糸と、愛液が混ざったドロドロ糸。
 > CONTEXT: Map119/events/5/pages/1/142/Dialogue/enemy10
-There are two types of red threads.
-A strong yarn for bound and a muddy yarn mixed
-with love juice.#MTLed
+I have two types of thread.
+
+There's a sturdy one for binding, and a sticky
+one dripping with love juices.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -440,10 +466,10 @@ with love juice.#MTLed
 
 お腹の中でかき混ぜて、使う分だけ即座に生成するのさ。
 > CONTEXT: Map119/events/5/pages/1/146/Dialogue/enemy10
-If there is something unusual,
-Unlike ordinary demon products, it's a place that
-doesn't use magic. Stir in your stomach and
-instantly generate as much as you use.#MTLed
+If I had to say what's unusual about it, it's
+that unlike things normally created by demons,
+it doesn't use any magic. It's mixed together
+in my belly and can be used immediately.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -451,9 +477,10 @@ instantly generate as much as you use.#MTLed
 
 細かい振動を繰り返して、相手をくすぐり続ける。
 > CONTEXT: Map119/events/5/pages/1/151/Dialogue/enemy10
-So the yarn entwined with the prey stretches at
-the outside temperature. Repeat the fine
-vibration and keep tickling the other party.#MTLed
+The thread tangling around my prey expands and
+contracts from external temperature, and makes
+makes repeated fine movements, continuously
+titillating my opponent.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -461,9 +488,9 @@ vibration and keep tickling the other party.#MTLed
 
 あれは張り付いた糸が、身体中を蠢いているからなんだよ。
 > CONTEXT: Map119/events/5/pages/1/155/Dialogue/enemy10
-Wouldn't it be nice when I was caught with a
-thread? That's because the stuck thread is
-crawling around the body.#MTLed
+It feels good being caught in my thread, right?
+That's because the thread you're stuck in is
+wriggling through my body.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -471,8 +498,8 @@ crawling around the body.#MTLed
 
 糸の射出口をゆっくり開いて見せた。
 > CONTEXT: Map119/events/5/pages/1/163/Dialogue
-Archeny is here while saying so. I slowly opened the thread
-outlet and showed it.#MTLed
+While saying that, she shows me her spinneret and slowly
+opens it.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -480,15 +507,14 @@ outlet and showed it.#MTLed
 
  グロテスクながらも、いやらしく脈動している……
 > CONTEXT: Map119/events/5/pages/1/167/Dialogue
-Inside, the inside of the folds and the small tentacles are
-regularly lined up regularly. While grotesque, pulsating
-pulsating ......#MTLed
+Inside are fleshy walls full of folds and densely packed
+tentacles. Though grotesque, it pulsates lewdly...#Ron
 > END STRING
 
 > BEGIN STRING
 う、うぅ……♡
 > CONTEXT: Map119/events/5/pages/1/171/Dialogue/kazuya-0
-Uh, Uh...♡#MTLed
+U-Uggh... ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -496,9 +522,10 @@ Uh, Uh...♡#MTLed
 
  悪魔の搾精部位は、見た目でも誘惑してくるからね。
 > CONTEXT: Map119/events/5/pages/1/173/Dialogue/enemy10
-He He He Heh...I'm not so serious.
-The milking part of the demon is tempting to look
-at it.#MTLed
+Kukuku... you seem awfully interested.
+
+Just looking at a demon's milking parts is enough
+to seduce some.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -506,9 +533,9 @@ at it.#MTLed
 
 そのままくわえこんで吸収したりもできる、便利な器官さ。
 > CONTEXT: Map119/events/5/pages/1/177/Dialogue/enemy10
-In addition to milking, you have caught the prey
-"usage". It is a convenient organ that can be
-absorbed and absorbed as it is.#MTLed
+In addition to milking, I can gobble up prey
+that's been caught by my familiars and absorb
+them. It's a very convenient organ.#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -516,8 +543,9 @@ absorbed and absorbed as it is.#MTLed
 
 こっちの口で、丸呑みしてやってもいいんだよ…♡
 > CONTEXT: Map119/events/5/pages/1/181/Dialogue/enemy10
-If you want it...You can do it with your mouth,
-you can do it round ...#MTLed
+If you like...
+
+I could swallow you whole with this mouth... ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -525,8 +553,9 @@ you can do it round ...#MTLed
 
 そっちでも丸呑み………
 > CONTEXT: Map119/events/5/pages/1/185/Dialogue/kazuya
-Well, I can do it ...... Well then, it's a pity
-.........#MTLed
+S-So you really can do that...
+
+Swallow someone whole...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -535,11 +564,10 @@ Well, I can do it ...... Well then, it's a pity
  顎のポンプで呑みやすいし、ケツで呑むと身体の構造上
  消化するまで糸が出せなくなっちまうからさ。
 > CONTEXT: Map119/events/5/pages/1/189/Dialogue/enemy10
-Yes, usually from above. It is easy to swallow
-with the pump of the jaw, and when it is
-swallowed with the butt, it is on the structure
-of the body. Because you can not take out the
-thread until it is digested.#MTLed
+Yes, but normally only from above. It's easy
+enough to swallow someone using my jaw as a pump,
+but the makeup of my abdomen means I can't
+produce thread until I've digested my prey.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -547,10 +575,9 @@ thread until it is digested.#MTLed
 
 しばらく完全に動けなくなるから、滅多にしないけどね。
 > CONTEXT: Map119/events/5/pages/1/194/Dialogue/enemy10
-If you want to do it, you can get two at the same
-time at the top and bottom ...
-I'm not going to move completely for a while, so
-I won't do it often.#MTLed
+If I so desire, I can eat two people at the same
+time using both ends. Though I rarely do that as
+it means not being able to move for a while.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -558,8 +585,9 @@ I won't do it often.#MTLed
 
 なんでそんなに、搾精部位が多いんだよ！
 > CONTEXT: Map119/events/5/pages/1/202/Dialogue/other1
-Or maybe you don't need food for demons, right?
-Why so many milking parts!#MTLed
+Wait a sec, demons don't need to eat, right?
+
+Why do you have so many milking parts!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -568,10 +596,10 @@ Why so many milking parts!#MTLed
 
 あんな大規模な巣だって必要ないはずだ。
 > CONTEXT: Map119/events/5/pages/1/206/Dialogue/other1
-If it's not a dream come true, it's also possible
-to maintain the half year. The amount of energy
-does not need for one human being.
-You should not need such a large nest.#MTLed
+If you're not even a succubus, you shouldn't need
+more than a human's worth of energy to maintain
+your form for about half a year. And you
+shouldn't need a nest that big, either.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -579,8 +607,9 @@ You should not need such a large nest.#MTLed
 
  随分と生意気な口を利くじゃないか。
 > CONTEXT: Map119/events/5/pages/1/212/Dialogue/enemy10
-? Is this familiar? I think you can speak a
-lot of sassy.#MTLed
+What's this? A familiar?
+
+Aren't you a little too impertinent?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -588,21 +617,21 @@ lot of sassy.#MTLed
 
 ちょろっと尻尾から吸ってやれば、一瞬だろうねぇ
 > CONTEXT: Map119/events/5/pages/1/216/Dialogue/enemy10
-What kind of magic is your little magic, right?
-If it sucks from the tail a little, it will be a
-moment, right?#MTLed
+Mind if I have that little bit of magic inside
+you? If I just suck it up through your tail it'll
+be gone in a flash.#Ron
 > END STRING
 
 > BEGIN STRING
 うっ…ううぅ…
 > CONTEXT: Map119/events/5/pages/1/220/Dialogue/other2
-ugh...uh ...#MTLed
+Ugh... Uuugh...#Ron
 > END STRING
 
 > BEGIN STRING
 （逃げた………）
 > CONTEXT: Map119/events/5/pages/1/224/Dialogue/kazuya
-(ran away………)#MTLed
+(He ran away...)#Ron
 > END STRING
 
 > BEGIN STRING
@@ -610,9 +639,10 @@ ugh...uh ...#MTLed
 
  十中八九、あのクソ女神のあてつけだろうよ。
 > CONTEXT: Map119/events/5/pages/1/227/Dialogue/enemy10
-He He He Heh...why are you eating gluttonously?
-In all likelihood, that fucking goddess would
-call for you.#MTLed
+Kukuku... It's because I'm a glutton.
+
+In all likelihood, that's another "gift" from
+that bitch goddess.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -620,9 +650,10 @@ call for you.#MTLed
 
 その度に、あたいの身体が醜く変形して欲しいのさ。
 > CONTEXT: Map119/events/5/pages/1/231/Dialogue/enemy10
-The guy attacked people one after another ...
-Every time, I want you to make the body of your
-dream come true.#MTLed
+She wants me to continuously attack humans...
+
+And every time I do, my body is transformed into
+something uglier.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -630,8 +661,9 @@ dream come true.#MTLed
 
 呪いであたいを転生させたりしないだろうよ。
 > CONTEXT: Map119/events/5/pages/1/235/Dialogue/enemy10
-If not, leave the body part of the former person
-The curse will not incarnate you.#MTLed
+If I don't, and hold on to the remaining parts
+of my former human body, the curse will likely
+not allow me to reincarnate.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -639,9 +671,9 @@ The curse will not incarnate you.#MTLed
 
 あのクソ女神も、いい趣味してるね、まったく……
 > CONTEXT: Map119/events/5/pages/1/239/Dialogue/enemy10
-...... although I can not say the other party
-That fucking goddess also has a good hobbies,
-absolutely ...#MTLed
+Though I can't say the same for her personality,
+that shitty goddess sure has some good taste in
+curses...#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -649,8 +681,9 @@ absolutely ...#MTLed
 
 あれは、アルケニーの……子供？
 > CONTEXT: Map119/events/5/pages/1/250/Dialogue/kazuya
-It is in the nest, a familiar childlike idiot ...
-That's Archeny's...children?#MTLed
+Those baby spider things in your nest...
+
+Are those your... children?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -659,8 +692,10 @@ That's Archeny's...children?#MTLed
 お前さん、あたいのことをエイリアンか何かと
 勘違いしてるみたいだねぇ…！
 > CONTEXT: Map119/events/5/pages/1/255/Dialogue/enemy10
-Kuh ha! ! You, what you want with aliens or
-something. It looks like you misunderstood ...!#MTLed
+Kuhhahahaha!!
+
+Are you sure you haven't got me mixed up with
+some kind of alien queen...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -668,8 +703,10 @@ something. It looks like you misunderstood ...!#MTLed
 
 あたいの忠実なしもべ……
 > CONTEXT: Map119/events/5/pages/1/266/Dialogue/enemy10
-This is an enchanted genius, named Aconitum.
-A faithful faithful boy ...#MTLed
+They're a familiar produced from magic, they're
+called Aconitum.
+
+They're my faithful servants...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -678,10 +715,9 @@ A faithful faithful boy ...#MTLed
 元々の用途は、獲物が複数落ちてきて、相手しきれない時に
 こいつらを巣に放って、捕まえさせる事だったのさ。
 > CONTEXT: Map119/events/5/pages/1/270/Dialogue/enemy10
-Isn't that nest wide? The original use is when
-the prey is falling and you can not handle it
-It was about releasing them to the nest and
-getting them caught.#MTLed
+You saw how big my nest was. I originally made
+them to help round up prey when too many for me
+to handle fell in at once.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -689,9 +725,10 @@ getting them caught.#MTLed
 
 足から腹部に取り込まれて、獲物は身体を消化される。
 > CONTEXT: Map119/events/5/pages/1/275/Dialogue/enemy10
-It stuck to the lower body, but the end ...
-It is taken into the abdomen from the foot and
-the prey is digested.#MTLed
+It's all over for them once an Aconitum gets a
+firm hold. From there prey is swallowed up from
+their feet to their abdomen, and then their body
+gets digested.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -700,10 +737,10 @@ the prey is digested.#MTLed
 お前さんも、あたいの巣を通るとき、沢山見ただろう？
 天井から吊るされた、哀れなエサたちを……
 > CONTEXT: Map119/events/5/pages/1/279/Dialogue/enemy10
-After that, it's funny that I can get it at the
-timing I like. You, too, have you seen a lot when
-you go through the nest of your favorite?
-The poor food hung from the ceiling ...#MTLed
+After that, I can eat them at my leisure. I'm
+sure you saw a lot of them as you were moving
+through my nest, my pathetic prey hung up from
+the ceiling.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -712,9 +749,9 @@ The poor food hung from the ceiling ...#MTLed
 
 あの光景を見てもなお、あたいを生かしたのかい？
 > CONTEXT: Map119/events/5/pages/1/288/Dialogue/enemy10
-..... I really don't understand you well.
-Still, did you make use of your heart even if you
-saw that scene?#MTLed
+Kuku... I really don't understand you.
+
+You let me live even after seeing all that.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -723,9 +760,9 @@ saw that scene?#MTLed
 
  お前さんの眼には必ず『恐怖』がある。
 > CONTEXT: Map119/events/5/pages/1/293/Dialogue/enemy10
-Even when being committed to love
-Even when facing this way to talk
-There is always "Afraid" in your eyes.#MTLed
+When I was trying to attack you, and even when
+you approach me to talk like you are now, you
+always have a look of "fear" in your eyes.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -733,14 +770,16 @@ There is always "Afraid" in your eyes.#MTLed
 
 お前さんにとっては、あたいは憎い『敵』のはずだ。
 > CONTEXT: Map119/events/5/pages/1/298/Dialogue/enemy10
-Why do you try to understand it so far?
-For you, I must be an ugly "enemy."#MTLed
+Why are you trying so hard to understand me?
+
+There's no way I could be anything other than
+your bitter enemy.#Ron
 > END STRING
 
 > BEGIN STRING
 …………正直、僕にも分からない。
 > CONTEXT: Map119/events/5/pages/1/304/Dialogue/kazuya
-............ Honestly, I do not know.#MTLed
+...Honestly, even I don't know.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -748,8 +787,9 @@ For you, I must be an ugly "enemy."#MTLed
 
  僕の中でも、ひとつハッキリした事がある。
 > CONTEXT: Map119/events/5/pages/1/306/Dialogue/kazuya
-But I have been in contact with various demons so
-far, Among me, I have one thing that is clear.#MTLed
+But I've encountered a lot of different demons up
+till now, among them and even me, there's one
+thing I can definitely say for sure.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -757,8 +797,9 @@ far, Among me, I have one thing that is clear.#MTLed
 
 相手を殺す必要は、必ずしもあるわけではないって。
 > CONTEXT: Map119/events/5/pages/1/310/Dialogue/kazuya
-Everybody has different reasons to attack people
-It's not always necessary to kill your opponent.#MTLed
+They've all had different reasons for attacking
+people, but that doesn't mean there's necessarily
+been a reason to kill their opponents.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -766,10 +807,9 @@ It's not always necessary to kill your opponent.#MTLed
 
 理解したからって、完全に味方になるとは限らない。
 > CONTEXT: Map119/events/5/pages/1/314/Dialogue/kazuya
-Well, the other side is originally coming to
-steal this soul. Just because you understand it
-does not mean that you will be completely on your
-side.#MTLed
+I mean, at first they wanted to take my soul, and
+understanding them hasn't necessarily turned them
+completely into my allies.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -778,15 +818,15 @@ side.#MTLed
  時間はかかるかもしれないけど……
 僕も彼女たちの話を聞いて、少しでも理解したいんだ。
 > CONTEXT: Map119/events/5/pages/1/318/Dialogue/kazuya
-But everyone here has believed in me.
-It may take time but...I also want to listen to
-their stories and understand even a little.#MTLed
+But everyone here believes in me. Though it might
+take some time, I want to hear their stories and
+get to know them even just a little.#Ron
 > END STRING
 
 > BEGIN STRING
 だから、君も『ここに来た』って事は、きっと……
 > CONTEXT: Map119/events/5/pages/1/323/Dialogue/kazuya
-That's why you, "Come here," is surely ...#MTLed
+I'm sure that's why you came here, too...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -794,8 +834,9 @@ That's why you, "Come here," is surely ...#MTLed
 
 いきなり何を語り出すかと思えば………
 > CONTEXT: Map119/events/5/pages/1/326/Dialogue/enemy10
-Kuh ......... Ku! ! If you think of what to talk
-about suddenly......#MTLed
+Kuh... Kuhahahahahaha!!
+
+What on earth are you saying...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -803,9 +844,9 @@ about suddenly......#MTLed
 
 お前さんが慈悲をかけたやつらは、人を殺める立場にいる。
 > CONTEXT: Map119/events/5/pages/1/330/Dialogue/enemy10
-The guys coming to this my room ...
-The men whom you have put up with mercy are in a
-position to kill people.#MTLed
+The ones who've come here to this My Room, the
+ones you've shown mercy to, are in a position to
+kill people.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -813,8 +854,9 @@ position to kill people.#MTLed
 
 お前さんは『人殺し』と仲良くしてるんだよ。
 > CONTEXT: Map119/events/5/pages/1/334/Dialogue/enemy10
-It is no use defending what kind of language.
-You are getting along well with "killers".#MTLed
+It's pointless trying to support them with words.
+
+You've simply made friends with killers.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -823,8 +865,9 @@ You are getting along well with "killers".#MTLed
 
 受け入れることが『正しい事』ではないんだよ。
 > CONTEXT: Map119/events/5/pages/1/338/Dialogue/enemy10
-To yourselves, to hurt them. I guess it's wrong
-... Accepting is not a "right thing".#MTLed
+It might seem to you that hurting those girls is
+wrong, but accepting them is not "the right thing
+to do".#Ron
 > END STRING
 
 > BEGIN STRING
@@ -832,7 +875,9 @@ To yourselves, to hurt them. I guess it's wrong
 
 お前さんってやつは、本当に……
 > CONTEXT: Map119/events/5/pages/1/343/Dialogue/enemy10
-You're a fool...You are really ......#MTLed
+What a fool you are...
+
+You and others like you...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -840,8 +885,10 @@ You're a fool...You are really ......#MTLed
 
  誰にでも出来るようなことじゃないよ、絶対に。
 > CONTEXT: Map119/events/5/pages/1/350/Dialogue/enemy10
-...... but I am not a fool. It's not something
-anyone can do, absolutely.#MTLed
+...But you're not entirely hopeless.
+
+You've been able to accomplish things not just
+anyone can do.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -849,9 +896,9 @@ anyone can do, absolutely.#MTLed
 
  強い者が弱い者を、力で従える……。
 > CONTEXT: Map119/events/5/pages/1/354/Dialogue/enemy10
-The idea of ​​demon is basically weak and strong
-eating. A strong person follows a weak one with
-force ....#MTLed
+Demons think in terms of survival of the fittest.
+
+The strong subjugate the weak with their power...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -859,8 +906,10 @@ force ....#MTLed
 
  自分の精神に招き入れて、理解しようとしてる。
 > CONTEXT: Map119/events/5/pages/1/358/Dialogue/enemy10
-Even if you can do that, you don't dare to obey.
-Inviting into my mind and trying to understand.#MTLed
+Though you could do this too, you choose not to.
+
+You instead invite them into your psyche and try
+to understand them.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -868,8 +917,10 @@ Inviting into my mind and trying to understand.#MTLed
 
 クククッ……面白いじゃないか。
 > CONTEXT: Map119/events/5/pages/1/363/Dialogue/enemy10
-And this time, are you willing to take care of
-it? Hehe hee...isn't it funny?#MTLed
+And you're even willing to let someone like me
+rape you...
+
+Kukuku... how amusing.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -878,15 +929,16 @@ it? Hehe hee...isn't it funny?#MTLed
 
 楽しみにしてな…♡
 > CONTEXT: Map119/events/5/pages/1/367/Dialogue/enemy10
-Someday that false straight look
-I'll meet with Afraid and Submissive hearts for
-the baby...♡. Look forward to it...♡#MTLed
+One of these days I'll fill those honest, direct
+eyes of yours with fear and obedience to me... ♡
+
+I'm looking forward to it... ♡#Ron
 > END STRING
 
 > BEGIN STRING
 【キズナイベント】if(v[49] \>= 99) 
 > CONTEXT: Map119/events/5/pages/1/377/Choice/0
-【Bonding】if(v[49] \>= 99)#MTLed
+【Bonding】if(v[49] \>= 99)#Ron
 > END STRING
 
 > BEGIN STRING
@@ -894,7 +946,9 @@ the baby...♡. Look forward to it...♡#MTLed
 
 そろそろ潮時かねぇ
 > CONTEXT: Map119/events/5/pages/1/383/Dialogue/enemy10
-Now………. soon tide#MTLed
+Now then...
+
+It's about time.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -902,8 +956,9 @@ Now………. soon tide#MTLed
 
  『この部屋にいる限り、自分は死ぬことがない』
 > CONTEXT: Map119/events/5/pages/1/388/Dialogue/enemy10
-Surely you are thinking this way?
-"I will never die as long as I stay in this room"#MTLed
+"I won't die as long as I stay in this room."
+
+That's what you're thinking, aren't you?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -911,8 +966,9 @@ Surely you are thinking this way?
 
  『安心して、アルケニーに搾ってもらえる』ってね…
 > CONTEXT: Map119/events/5/pages/1/392/Dialogue/enemy10
-"There is no fear of being squeezed out. "
-"We are relieved and Archeny can squeeze" ...#MTLed
+"There's no fear of being milked to death."
+
+"I can rest easy with Arachne milking me"...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -920,8 +976,10 @@ Surely you are thinking this way?
 
 あたいは、お前さんの魂を奪うことはできない。
 > CONTEXT: Map119/events/5/pages/1/398/Dialogue/enemy10
-I don't mind it, but it's about it.
-I can not take away your soul.#MTLed
+As much as it sticks in my craw, that certainly
+is the case.
+
+I can't take your soul.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -929,8 +987,8 @@ I can not take away your soul.#MTLed
 
 永遠に溶かし続けることはできるんだよ……
 > CONTEXT: Map119/events/5/pages/1/403/Dialogue/enemy10
-But...... keep the mental body in the belly of
-warm. You can keep melting forever ...#MTLed
+But if I keep your spiritual body in my belly, I
+can keep on dissolving you for all eternity...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -938,8 +996,10 @@ warm. You can keep melting forever ...#MTLed
 
 一瞬たじろいだねぇ。さすがに初耳だったかい？
 > CONTEXT: Map119/events/5/pages/1/409/Dialogue/enemy10
-He He Heh ...... I guess it was a moment. Is it
-your first ear?#MTLed
+Kukuku...
+
+You flinched for just a moment. Is this the first
+you've heard of that possibility?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -947,9 +1007,9 @@ your first ear?#MTLed
 
  お前さんの精神世界の一部……意識の海の片隅さ。
 > CONTEXT: Map119/events/5/pages/1/413/Dialogue/enemy10
-"My room" including this room is
-Part of your spiritual world...a corner of the
-sea of ​​consciousness.#MTLed
+Including this room, this My Room is a part of
+your spirit world... A little nook in the sea of
+your consciousness.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -957,9 +1017,8 @@ sea of ​​consciousness.#MTLed
 
 干渉を望んだ悪魔を招き入れてるようなもんなんだよ。
 > CONTEXT: Map119/events/5/pages/1/417/Dialogue/enemy10
-In other words, you are in the head of yourself
-It's like bringing in a demon that wants
-interference.#MTLed
+In other words, you seem to have invited into
+your mind demons who'd love to meddle with you.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -967,15 +1026,16 @@ interference.#MTLed
 
  とんだ阿呆だってことだよ……！
 > CONTEXT: Map119/events/5/pages/1/421/Dialogue/enemy10
-Yes, you're the one who even invited you to such
-a demonic demon. Even if it is Todan Amida ...!#MTLed
+That's right, how much of a fool are you that
+you'd invite even malicious demons into
+yourself...?#Ron
 > END STRING
 
 > BEGIN STRING
 
 アルケニーは、\\N[1]に突然襲いかかってきた！！
 > CONTEXT: Map119/events/5/pages/1/427/Dialogue
-Archeny has suddenly attacked \\N[1]! !#MTLed
+\\N[1] is suddenly attacked by Arachne!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -983,9 +1043,9 @@ Archeny has suddenly attacked \\N[1]! !#MTLed
 
 まだ身体が戻ってないから、もう少し寝てると思ったよ。
 > CONTEXT: Map119/events/5/pages/1/446/Dialogue/enemy10
-Hey, did you notice? I thought I was going to
-sleep a little more because my body has not
-returned yet.#MTLed
+Oh, are you awake? Your body hadn't returned yet,
+so I thought you'd be sleeping for a while
+longer.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -993,9 +1053,9 @@ returned yet.#MTLed
 
  こいつを使って再構築したほうが、幾分か早いだろう。
 > CONTEXT: Map119/events/5/pages/1/450/Dialogue/enemy10
-After all, nature and body will be back to the
-original. It would be somewhat faster to rebuild
-using this.#MTLed
+I expected your body would naturally return to
+its normal state, but I thought it'd be faster if
+I used this to reconstruct you.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1003,8 +1063,9 @@ using this.#MTLed
 
  憎たらしいやつだよ、本当に………
 > CONTEXT: Map119/events/5/pages/1/456/Dialogue/enemy10
-………………"why? ] It seems that I heard it.
-It's a crazy guy, really .........#MTLed
+...You look like you want to ask me why I did it.
+
+You really are a revolting one...#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -1012,8 +1073,8 @@ It's a crazy guy, really .........#MTLed
 
  呑まれる直前になっても、お前さんはあたいを信じた。
 > CONTEXT: Map119/events/5/pages/1/460/Dialogue/enemy10
-You are too honest. Even before I was scolded,
-you believed in the heat.#MTLed
+You're too honest. You believed in me even right
+until I swallowed you.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1021,8 +1082,9 @@ you believed in the heat.#MTLed
 
 恐怖に震えた声が、それを証明してた。
 > CONTEXT: Map119/events/5/pages/1/464/Dialogue/enemy10
-But that doesn't come from getting used to
-A trembling voice to Afraid proved it.#MTLed
+But that's not something that comes from pride or
+experience, you proved that with that voice of
+yours trembling with fear.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1030,9 +1092,9 @@ A trembling voice to Afraid proved it.#MTLed
 
 何を成すのか、見る前に喰うのは勿体無いと思ったんだよ。
 > CONTEXT: Map119/events/5/pages/1/468/Dialogue/enemy10
-Such a foolish honesty...A human being who can
-not save. I thought it would be a shame to come
-before seeing what I would do.#MTLed
+Such foolish honesty... I thought devouring such
+a hopeless human being wouldn't accomplish
+anything.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1041,15 +1103,18 @@ before seeing what I would do.#MTLed
 他の悪魔と同じく、あたいもお前さんの魅力とやらに
  やられちまったのかねぇ…………
 > CONTEXT: Map119/events/5/pages/1/474/Dialogue/enemy10
-Totally...When the day to endure that I come is
-coming...Like other demons, I love you and your
-charm. I wonder if I've been done .........#MTLed
+Good grief... To think the day would come when
+I'd exercise some self-control. It seems I've
+been taken in by your charms just like all the
+other demons...#Ron
 > END STRING
 
 > BEGIN STRING
 気に入らないよ……あぁ、気に入らない……
 > CONTEXT: Map119/events/5/pages/1/479/Dialogue/enemy10
-I don't like it ...... Oh, I don't like it ......#MTLed
+I'm not happy about this...
+
+Aaargh, I'm not happy about this at all...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1057,7 +1122,7 @@ I don't like it ...... Oh, I don't like it ......#MTLed
 
 友好度が『１００』になった！！
 > CONTEXT: Map119/events/5/pages/1/484/Dialogue
-A bond with Archeny has been born!!
+A bond with Arachne has been born!!
 
 The level of friendship with her
 has reached 100!#Triketos
@@ -1068,8 +1133,9 @@ has reached 100!#Triketos
 
  恐怖に耐えられなくなって、とうとう狂ったかい。
 > CONTEXT: Map119/events/5/pages/2/2/Dialogue/enemy10
-...... Are you sane? You can't stand Afraid and
-you're crazy.#MTLed
+...Are you insane?
+
+Has the fear finally driven you mad?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1077,8 +1143,9 @@ you're crazy.#MTLed
 
  お前さんは結局エサより上にはなりえない。
 > CONTEXT: Map119/events/5/pages/2/6/Dialogue/enemy10
-I'll tell you, but even if you get close
-You can not be better than food after all.#MTLed
+I'll tell you this now, no matter how close you
+get to me, you'll never be anything more than my
+food.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1087,16 +1154,16 @@ You can not be better than food after all.#MTLed
 
 結婚したいだなんて思うのかい？って話さね。
 > CONTEXT: Map119/events/5/pages/2/10/Dialogue/enemy10
-Compare to human beings. Even if there is
-attachment to treat specially with chicken of
-chicken farming facility. Do you think you wanted
-to get married? I told you.#MTLed
+Using humans as an example, it'd be like growing
+attached to a chicken on a poultry farm and
+deciding to marry it.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
 …………手を下げる気はない、って顔だね。
 > CONTEXT: Map119/events/5/pages/2/19/Dialogue/enemy10
-............ I have no desire to lower my hand.#MTLed
+...You don't look like you're going to give up
+on this idea.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1105,9 +1172,10 @@ to get married? I told you.#MTLed
 お前さんをそこまで駆り立てる
  あたいの『魅力』って、いったい何なわけさ？
 > CONTEXT: Map119/events/5/pages/2/21/Dialogue/enemy10
-Let's hear it. Drive you up there
-What's the difference between what you want to do
-with "charm"?#MTLed
+Then let me ask you this...
+
+Just what is it that attracts you to someone like
+me who's hunted you all this time?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1115,9 +1183,9 @@ with "charm"?#MTLed
 
 まさかあたいの、この姿に惚れたとか言わないだろうね？
 > CONTEXT: Map119/events/5/pages/2/26/Dialogue/enemy10
-Do you feel the yarn? How tight is your vagina?
-No way I would say that I was in love with this
-figure, right?#MTLed
+Is it the feel of my thread? The tightness of my
+vagina? Or don't tell me you're madly in love
+with me.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1125,8 +1193,9 @@ figure, right?#MTLed
 
 今まで触れてきた場所、全部だ。
 > CONTEXT: Map119/events/5/pages/2/31/Dialogue/kazuya
-It's all ...... All the places I've mentioned
-before.#MTLed
+It's all of those things...
+
+It's all those things you touched on...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1134,8 +1203,9 @@ before.#MTLed
 
 きっとこれからも、それは変わらないだろう。
 > CONTEXT: Map119/events/5/pages/2/35/Dialogue/kazuya
-Certainly you only think of humans as food.
-Surely it will not change from now on.#MTLed
+It's true you only think of humans as food.
+
+I'm sure that won't change now or in the future.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1143,9 +1213,10 @@ Surely it will not change from now on.#MTLed
 
  今こうしてるときも、完全に『平気』じゃあない……
 > CONTEXT: Map119/events/5/pages/2/39/Dialogue/kazuya
-Actually, I always had "Afraid" when I met you.
-Even when I'm doing this, it's not completely
-"well" ...#MTLed
+I'm actually afraid when I talk to you.
+
+Even now like this, I'm still not totally okay
+with it...#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -1154,10 +1225,10 @@ Even when I'm doing this, it's not completely
 
 恐怖と一緒に、だんだんと惹かれるものがあった。
 > CONTEXT: Map119/events/5/pages/2/45/Dialogue/kazuya
-Even when you were tied up with a thread and
-pulled in...Even when you were swallowed by you
-and you were in your stomach. 
-Along with Afraid, there was something attracted.#MTLed
+When you tied me up and pulled me toward you...
+And even when you swallowed me and I was inside
+your belly, along with the fear there was
+something attracting me to you.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -1165,15 +1236,16 @@ Along with Afraid, there was something attracted.#MTLed
 
 僕は君に喰われてもいいとすら思ってるよ。
 > CONTEXT: Map119/events/5/pages/2/50/Dialogue/kazuya
-When everything is over ......
-I even think that it is okay to be scolded by
-you.#MTLed
+When this is all over...
+
+I don't think I'd mind even if you decided to eat
+me.#Ron
 > END STRING
 
 > BEGIN STRING
 これが、僕の気持ちだ……
 > CONTEXT: Map119/events/5/pages/2/54/Dialogue/kazuya
-This is my feeling ...#MTLed
+That's how I feel...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1181,8 +1253,10 @@ This is my feeling ...#MTLed
 
  素面で喰われ願望があるエサとは恐れ入ったね！！
 > CONTEXT: Map119/events/5/pages/2/57/Dialogue/enemy10
-He He He Heh ..... Ah! ! I was afraid that it was
-a raw and hopeful food! !#MTLed
+Kukuku... Ahahahahahaha!!
+
+I'm amazed you can say that with a straight
+face!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1190,9 +1264,8 @@ a raw and hopeful food! !#MTLed
 
 あたいも、素っ気なく突き放す事ができないじゃあないか……
 > CONTEXT: Map119/events/5/pages/2/61/Dialogue/enemy10
-If you are prepared to get there
-Aida, I guess I can't let it go away without
-hesitation ......#MTLed
+If you're really prepared to go that far, then I
+suppose I can't very well flatly reject you...#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -1200,9 +1273,9 @@ hesitation ......#MTLed
 
 お前さんは将来、あたいが最高の状態で喰ってやる。
 > CONTEXT: Map119/events/5/pages/2/66/Dialogue/enemy10
-It's ok .... I will accept it.
-In the future, you will meet in the best
-condition.#MTLed
+That's fine... I accept.
+
+I'll be sure to gobble you up in the future.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -1210,8 +1283,8 @@ condition.#MTLed
 
 死んだりするんじゃないよ…♡
 > CONTEXT: Map119/events/5/pages/2/70/Dialogue/enemy10
-Until then, it is wronged by other demons
-I'm not dying.#MTLed
+Until then, don't go and get yourself killed by
+some other demon... ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1219,7 +1292,7 @@ I'm not dying.#MTLed
 
 \\C[2]アルケニーと婚約した！
 > CONTEXT: Map119/events/5/pages/2/80/Dialogue
-By receiving the engagement ring. \\C[2]Engaged with Archeny!#MTLed
+By receiving the engagement ring. \\C[2]Engaged with Arachne!#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1248,7 +1321,7 @@ By receiving the engagement ring. \\C[2]Engaged with Archeny!#MTLed
 
 この部屋って………
 > CONTEXT: Map119/events/7/pages/0/2/Dialogue/kazuya
-No way ......... This room .........#MTLed
+No way...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1256,8 +1329,10 @@ No way ......... This room .........#MTLed
 
 怖がることはないよ、もう襲ったりはしないから。
 > CONTEXT: Map119/events/7/pages/0/6/Dialogue/enemy10
-That 's right. I'm not afraid, I won't attack you
-anymore.#MTLed
+That's right.
+
+There's nothing to be afraid of, I won't attack
+you anymore.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1265,7 +1340,9 @@ anymore.#MTLed
 
 その顔を、もっとよく見せておくれよ…♡
 > CONTEXT: Map119/events/7/pages/0/10/Dialogue/enemy10
-Come on, here. Show me your face better...よ く#MTLed
+Come on, come over here.
+
+Let me get a good look at that face of yours...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1273,8 +1350,8 @@ Come on, here. Show me your face better...よ く#MTLed
 
  いい顔つきをしてるじゃないか。
 > CONTEXT: Map119/events/7/pages/0/23/Dialogue/enemy10
-Hehehe ...... If you look closely
-You have a good look.#MTLed
+Kukuku... When you look closely, you've got some
+nice features, don't you?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1282,9 +1359,9 @@ You have a good look.#MTLed
 
  なるほど、女悪魔が放っておかないわけだね。
 > CONTEXT: Map119/events/7/pages/0/27/Dialogue/enemy10
-In the nest, I only thought it was a healthy food
-to move around. I see, a woman demon can not
-leave it alone.#MTLed
+In the nest, I only thought of you as energetic
+prey running all over the place. Now I see why
+the female demons won't leave you alone.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1292,8 +1369,10 @@ leave it alone.#MTLed
 
 でも絶対食べる前提の話でしょ…それ……
 > CONTEXT: Map119/events/7/pages/0/31/Dialogue/kazuya
-Thank you, flattering...But it is a story of
-the premise to eat absolutely...it ...#MTLed
+T-Thanks for the flattery...
+
+But this definitely isn't just the build-up to
+you trying to eat me again, is it...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1301,8 +1380,8 @@ the premise to eat absolutely...it ...#MTLed
 
 でも確かに、それで味も格別だってんだから、最高だね…♡
 > CONTEXT: Map119/events/7/pages/0/35/Dialogue/enemy10
-Kuku, I'm a flatterer. But it is true that the
-taste is exceptional, so it's the best...♡#MTLed
+Kuku, it's no mere flattery. It is true that you
+possess an exceptional flavor, however... ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1311,10 +1390,10 @@ taste is exceptional, so it's the best...♡#MTLed
 
 断然、お前さんみたいな成長した男が好みさ。
 > CONTEXT: Map119/events/7/pages/0/39/Dialogue/enemy10
-Recently, I prefer irritated girls who don't go
-year-end, or immature women. It seems that the
-number of attacking players has increased ...
-By all means, a grown man like you likes it.#MTLed
+It seems recently that the number of us who
+prefer attacking young brats and immature women
+are on the increase. But I much prefer an older
+male like you.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -1322,8 +1401,8 @@ By all means, a grown man like you likes it.#MTLed
 
 あたいに屈服する姿を見るのは、本当に愉快だからねぇ…♡
 > CONTEXT: Map119/events/7/pages/0/44/Dialogue/enemy10
-The guy who looks and loves in front of others
-It's really fun to see him giving in on his face.#MTLed
+It's so much more amusing to break someone who's
+stubborn, who puts on airs in front of others...♡#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -1331,7 +1410,9 @@ It's really fun to see him giving in on his face.#MTLed
 
 それで……？どうしてこんな場所に…？
 > CONTEXT: Map119/events/7/pages/0/49/Dialogue/kazuya
-................ So ...? Why in such a place ...?#MTLed
+So...
+
+Why are you here, then...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1339,8 +1420,10 @@ It's really fun to see him giving in on his face.#MTLed
 
 興味が湧いたのさ、悪魔の心を惹かせるお前さんに。
 > CONTEXT: Map119/events/7/pages/0/53/Dialogue/enemy10
-Hehehe ......... I'm interested in you, for your
-demon's attention.#MTLed
+Kukuku...
+
+Your ability to win over the hearts of demons has
+piqued my interest.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1349,9 +1432,10 @@ demon's attention.#MTLed
 
 そこまでは自然な流れさ。
 > CONTEXT: Map119/events/7/pages/0/59/Dialogue/enemy10
-You ran away from the nest to survive.
-I was caught up with you to meet him.
-It is a natural flow up to that point.#MTLed
+You escaped my nest in order to survive.
+I stood in your way in order to eat you.
+That was the natural flow of things up to that
+point.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1360,8 +1444,9 @@ It is a natural flow up to that point.#MTLed
 
 ………そうなるのが普通だったのさ。
 > CONTEXT: Map119/events/7/pages/0/64/Dialogue/enemy10
-But, when I beat my heart, You should have killed
-her....It was normal for that to happen.#MTLed
+You should've killed me after defeating me...
+
+That would've been the normal thing to do.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1370,8 +1455,10 @@ her....It was normal for that to happen.#MTLed
 
 それは何故だい？
 > CONTEXT: Map119/events/7/pages/0/69/Dialogue/enemy10
-But you missed him. I did not kill the baby that
-attacked with murder intent. Why is that?#MTLed
+But you let me go. Even though I had every
+intention of killing you, you didn't kill me.
+
+Why was that?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1380,10 +1467,10 @@ attacked with murder intent. Why is that?#MTLed
 君の言う『自然の流れ』に従ってしまうと、
 僕は君の『人間を喰う理由』を正当化してしまうことになる。
 > CONTEXT: Map119/events/7/pages/0/75/Dialogue/kazuya
-The reason is that I should have spoken at that
-time...If you follow the flow of nature you
-say, I will justify your "why to worship human
-beings".#MTLed
+I thought I gave you the reason why back there...
+Following along with what you call the natural
+way of things would've only legitimized your
+eating of humans.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1392,9 +1479,9 @@ beings".#MTLed
 たとえ君の言うことの方が正しいのだとしても
 それを『自分の行動』で認めてしまうわけにはいかなかった。
 > CONTEXT: Map119/events/7/pages/0/80/Dialogue/kazuya
-I can not do what you want. Even if what you say
-is correct. I could not admit that in my own
-actions.#MTLed
+I won't go along with your ideas. Even if what
+you said were correct, I can't bring myself to
+accept any of them.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1402,8 +1489,9 @@ actions.#MTLed
 
 本当に面白いヤツだよ、\\N[1]。
 > CONTEXT: Map119/events/7/pages/0/86/Dialogue/enemy10
-That's not your "struggle" ...
-It's a really interesting guy, \\N[1].#MTLed
+So that's how you struggle against this.
+
+You're quite the interesting one, \\N[1].#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1412,9 +1500,9 @@ It's a really interesting guy, \\N[1].#MTLed
 それに、お前さんに興味が湧いたからってこんな所に来た
  あたいも、相当普通じゃないからね。
 > CONTEXT: Map119/events/7/pages/0/90/Dialogue/enemy10
-Hehehe ...... very well. Besides, I came to this
-place because I got interested in you
-It's not quite normal.#MTLed
+Kukuku... very well. I suppose it's not very
+normal for me to come to a place like this just
+because you've drawn my interest.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1423,10 +1511,10 @@ It's not quite normal.#MTLed
 そしてもしそれが、あたいの興味に見合うものなら
 ……まぁ、ペットぐらいには考えてやってもいいよ。
 > CONTEXT: Map119/events/7/pages/0/95/Dialogue/enemy10
-If I could understand you a little more ...
-And if it is something that suits your interest
-...... Well, you can think about doing as much as
-a pet.#MTLed
+If I could understand you just a little more...
+
+And if it suits me, I might even start
+considering you my little pet.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1434,9 +1522,8 @@ a pet.#MTLed
 
 こんな部屋から出て、また外で襲ってやるからね…
 > CONTEXT: Map119/events/7/pages/0/101/Dialogue/enemy10
-Conversely, if you feel that you are boring ...
-I'm going out of such a room and attacking
-outside again ...#MTLed
+Conversely, if you bore me I might just leave
+this room and start attacking you outside...#Ron
 > END STRING
 
 > BEGIN STRING
