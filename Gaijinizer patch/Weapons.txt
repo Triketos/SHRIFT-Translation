@@ -4,7 +4,7 @@
 装弾数　\\V[7]/10
 > CONTEXT: Weapons/1/description
 What it lacks in power it makes up for in convenience.
-Rounds　\\V[7]/10#Dargoth
+Rounds:　\\V[7]/10#Dargoth
 > END STRING
 
 > BEGIN STRING
@@ -12,7 +12,7 @@ Rounds　\\V[7]/10#Dargoth
 装弾数　\\V[18]/15
 > CONTEXT: Weapons/2/description
 Pistol that fires 5 round bursts. High recoil.
-Rounds \\V[18]/15#Dargoth
+Rounds: \\V[18]/15#Dargoth
 > END STRING
 
 > BEGIN STRING
@@ -20,7 +20,7 @@ Rounds \\V[18]/15#Dargoth
 装弾数　\\V[19]/2
 > CONTEXT: Weapons/3/description
 [Two-Handed] Double barrel hunting shotgun.
-Shells \\V[19]/2#Dargoth
+Shells: \\V[19]/2#Dargoth
 > END STRING
 
 > BEGIN STRING
@@ -28,7 +28,7 @@ Shells \\V[19]/2#Dargoth
 装弾数　\\V[7]/10
 > CONTEXT: Weapons/4/description
 Reduced power, but now fires a 3 round burst.
-Rounds　\\V[7]/10#Dargoth
+Rounds:　\\V[7]/10#Dargoth
 > END STRING
 
 > BEGIN STRING
@@ -42,7 +42,7 @@ Custom Handgun#Dargoth
 装弾数　\\V[19]/2
 > CONTEXT: Weapons/5/description
 [Two-Handed] Barrel shortened. Fires both barrels at 
-once. Shells　\\V[19]/2#Dargoth
+once. Shells:　\\V[19]/2#Dargoth
 > END STRING
 
 > BEGIN STRING
@@ -56,7 +56,7 @@ Sawed-off#Dargoth
 装弾数　\\V[18]/15
 > CONTEXT: Weapons/6/description
 Remodelled machine pistol. Improved power and hit rate.
-Rounds \\V[18]/15#afrg
+Rounds: \\V[18]/15#afrg
 > END STRING
 
 > BEGIN STRING
@@ -64,7 +64,7 @@ Rounds \\V[18]/15#afrg
 装弾数　\\V[137]/5
 > CONTEXT: Weapons/7/description
 [Two-Handed] Pump-action shotgun. Slow to reload.
-Shells \\V[137]/5#afrg
+Shells: \\V[137]/5#afrg
 > END STRING
 
 > BEGIN STRING
@@ -72,7 +72,7 @@ Shells \\V[137]/5#afrg
 装弾数　\\V[134]/15
 > CONTEXT: Weapons/8/description
 \\}[Two-Handed] Military assault rifle. In addition to its high stopping
-power, it can also fire three shot bursts. Number of bullets \\V[134]/15#Triketos
+power, it can also fire three shot bursts. Rounds: \\V[134]/15#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -168,16 +168,16 @@ Artemis Bow#Lvl1
 人として生きようとした者の銃。壮絶な威力を誇る。
 装弾数　\\V[161]/6
 > CONTEXT: Weapons/38/description
-The gun of one who tried to live as a person. It boasts a
-tremendous power. Number of bullets \\V[161] / 6#MTLed
+A powerful weapon owned by a man who never gave
+up his humanity. Rounds: \\V[161]/6#Triketos
 > END STRING
 
 > BEGIN STRING
 かつて、神と戦った人間の使用した改造銃を模してある。
 装弾数　\\V[161]/6
 > CONTEXT: Weapons/39/description
-It used to be a modified gun used by humans who fought
-against God. Number of bullets \\V[161] / 6#MTLed
+It is modelled after the guns once used by humans
+who fought against God. Rounds: \\V[161]/6#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -191,7 +191,7 @@ MTTK Special#afrg
 装弾数　\\V[137]/5
 > CONTEXT: Weapons/40/description
 Lightweight, one-handed riot gun.
-Shells \\V[137]/5#afrg
+Shells: \\V[137]/5#afrg
 > END STRING
 
 > BEGIN STRING
@@ -199,7 +199,7 @@ Shells \\V[137]/5#afrg
 装弾数　\\V[18]/90
 > CONTEXT: Weapons/41/description
 Machine gun with a 90 round magazine.
-Can fire 9 shots at once. Capacity:　\\V[18]/90#afrgPR
+Can fire 9 shots at once. Rounds:　\\V[18]/90#afrgPR
 > END STRING
 
 > BEGIN STRING
@@ -218,8 +218,8 @@ Mace#Lvl1
 \\N[1]が使用するのに最適化されたカスタムハンドガン。
 『属性弾』『クイックリロード』が使用可能。装弾数　\\V[7]/10
 > CONTEXT: Weapons/44/description
-Custom handgun optimized for \\N[1].
-Allows [Quick Reload] and [Special Bullets]. Capacity:　\\V[7]/10.#afrgPR
+Custom handgun optimized for \\N[1]. Allows
+[Quick Reload] and [Special Bullets]. Rounds:　\\V[7]/10#afrgPR
 > END STRING
 
 > BEGIN STRING
@@ -233,7 +233,7 @@ Rebellion#afrg
 装弾数　\\V[134]/15
 > CONTEXT: Weapons/45/description
 [2-Handed] Reinforced rifle equiped with grenade launcher.
-Capacity:　\\V[134]/15#afrgPR
+Rounds:　\\V[134]/15#afrgPR
 > END STRING
 
 > BEGIN STRING
@@ -246,8 +246,8 @@ Modded Assault Rifle#afrgPR
 【両手】怒濤の６連装ショットガン。リロードは２発ずつ
 装弾数　\\V[19]/6
 > CONTEXT: Weapons/61/description
-[2-Handed] 6 shot shotgun of fury. Reloads two shells at once. 
-Capacity: \\V[19]/6#Triketos
+[2-Handed] 6-shot shotgun of fury.
+Reloads two shells at once. Shells: \\V[19]/6#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -260,7 +260,7 @@ Million Dollars#Triketos
 バーゲストの爪から練成された鉤爪グローブ。
 低確率で相手を出血させる
 > CONTEXT: Weapons/65/description
-Claw-like glove made from a barghest's paw.
+Claw-like glove made from a Barghest's paw.
 Low probability of causing target to bleed.#Dargoth
 > END STRING
 
