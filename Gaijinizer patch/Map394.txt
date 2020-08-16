@@ -129,19 +129,21 @@ I used to be a cat.
 
 思ったより早かったね。
 さすがに、こういう謎解きは得意なのかな？
-> CONTEXT: Map394/events/4/pages/0/10/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Map394/events/4/pages/0/10/Dialogue/enemy29
 Hi, Kazuya-kun♪
 
 That was quicker than I expected.
-As expected, are you good at solving riddles like this?
+Are you good at solving riddles like this?#DL
 > END STRING
 
 > BEGIN STRING
 まあまあ、そう身構えないでよ
 
 実はここで待ってたのは、戦うためじゃないんだ
-> CONTEXT: Map394/events/4/pages/0/18/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Map394/events/4/pages/0/18/Dialogue/enemy29
+Whoa, don't get all defensive.
 
+Actually, I'm not waiting here to fight.#DL
 > END STRING
 
 > BEGIN STRING
@@ -157,16 +159,19 @@ As expected, are you good at solving riddles like this?
 まあ、キミも見てみなよ
 
 きっと納得してくれるはずさ
-> CONTEXT: Map394/events/4/pages/0/27/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: Map394/events/4/pages/0/27/Dialogue/enemy29
+Well, if you look at it,
+I'm sure you'll understand...#DL
 > END STRING
 
 > BEGIN STRING
 …………！？
 
 柱が…！！
-> CONTEXT: Map394/events/4/pages/0/34/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map394/events/4/pages/0/34/Dialogue/kazuya
+......!?
 
+The pillar...!!#DL
 > END STRING
 
 > BEGIN STRING
@@ -197,8 +202,8 @@ As expected, are you good at solving riddles like this?
 
 > BEGIN STRING
 と、取引……？
-> CONTEXT: Map394/events/4/pages/0/52/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map394/events/4/pages/0/52/Dialogue/kazuya
+D... Deal...?#DL
 > END STRING
 
 > BEGIN STRING
@@ -206,8 +211,11 @@ As expected, are you good at solving riddles like this?
 でもボクは、『正解の進みかた』を知っている
 
 そしてボクは、キミともっと遊びたい……
-> CONTEXT: Map394/events/4/pages/0/56/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Map394/events/4/pages/0/56/Dialogue/enemy29
+Well, you can't go on, but I know the
+right way to go.
 
+And I want to play with you more...#DL
 > END STRING
 
 > BEGIN STRING
@@ -215,8 +223,11 @@ As expected, are you good at solving riddles like this?
 もちろん、搾精したりはしないから
 
 ただ、ボクの好きにイジらせて欲しいんだ。
-> CONTEXT: Map394/events/4/pages/0/61/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Map394/events/4/pages/0/61/Dialogue/enemy29
+\\C[2]Just give me your body for three turns♡
+Of course, I'm not going to milk you...
 
+I just want to be able to tease you all I want.#DL
 > END STRING
 
 > BEGIN STRING
@@ -224,8 +235,11 @@ As expected, are you good at solving riddles like this?
 『やめて』って一言いえれば、キミの勝ち♡
 
 『やめないで』って言っちゃったら、ボクの勝ち♡
-> CONTEXT: Map394/events/4/pages/0/67/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Map394/events/4/pages/0/67/Dialogue/enemy29
+If you can say "Stop" on turn 4 without
+conceding to me, you win!♡
 
+If I say, "Please don't stop," I win♡#DL
 > END STRING
 
 > BEGIN STRING
@@ -233,32 +247,42 @@ As expected, are you good at solving riddles like this?
 
 \\C[10]勝ち負け関係なく教えるし、一回きりの取引だよ。\\C[0]
 悪くない条件でしょ？
-> CONTEXT: Map394/events/4/pages/0/72/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: Map394/events/4/pages/0/72/Dialogue/enemy29
+Play along with this game and I'll tell you
+the right way to go. \\C[10]I'll tell you regardless
+of whether you win or lose, and it's a one-time deal.
+\\C[0] Not bad, eh?#DL
 > END STRING
 
 > BEGIN STRING
 ………ふざけるな…！
 
 そんな都合のいい取引、君に何の得があるんだ！
-> CONTEXT: Map394/events/4/pages/0/78/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map394/events/4/pages/0/78/Dialogue/kazuya
+...Is this a sick joke...?!
 
+What do you get out of all this?!#TriketosLocalizePartial
 > END STRING
 
 > BEGIN STRING
 得？もちろんあるよ♪
 
 キミと一緒に遊べるんだもん
-> CONTEXT: Map394/events/4/pages/0/82/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Map394/events/4/pages/0/82/Dialogue/enemy29
+Hm? What do I get?♪
 
+I get to play with you.#DL
 > END STRING
 
 > BEGIN STRING
 大丈夫、\\C[2]悪魔は『約束』を必ず守るよ\\C[0]
 
 それは誰より知ってるでしょ、\\N[1]くん♡
-> CONTEXT: Map394/events/4/pages/0/86/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Map394/events/4/pages/0/86/Dialogue/enemy29
+Don't worry, \\C[2]demons always keep
+their promises.\\C[0]
 
+You know that better than anyone, \\N[1]♡#DL
 > END STRING
 
 > BEGIN STRING
@@ -266,7 +290,7 @@ As expected, are you good at solving riddles like this?
 
 だけど多分、やみくもに進んでるだけじゃ
 ずっとこの周辺を歩き回ることになると思う。
-> CONTEXT: Map394/events/4/pages/0/93/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Map394/events/4/pages/0/93/Dialogue/enemy29
 
 > END STRING
 
@@ -275,8 +299,11 @@ As expected, are you good at solving riddles like this?
 ちゃっちゃと正解を聞いた方が早いと思うけどなぁ
 
 さぁ、どうする\\N[1]くん？
-> CONTEXT: Map394/events/4/pages/0/98/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: Map394/events/4/pages/0/98/Dialogue/enemy29
+I can't wait for you to have some fun with me.
+I think it would be quicker to just ask
+for the right answer.
+So, what do you think, \\N[1]?#DL
 > END STRING
 
 > BEGIN STRING

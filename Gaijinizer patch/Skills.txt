@@ -9238,7 +9238,7 @@ Teasing Massage#Triketos
 > BEGIN STRING
 は、大きな猫の手で、\\N[1]の身体を揉んだ
 > CONTEXT: Skills/871/message1
-rubs \\N[1]'s body with her big cat hands.#Triketos
+ rubs \\N[1]'s body with her big cat hands.#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -9256,7 +9256,7 @@ Licking Massage#Triketos
 > BEGIN STRING
 は、大きな舌で、\\N[1]の身体を舐め回した
 > CONTEXT: Skills/872/message1
-licked \\N[1]'s torso with her big tongue.#Triketos
+ licked \\N[1]'s torso with her big tongue.#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -9353,14 +9353,14 @@ licked \\N[1]'s torso with her big tongue.#Triketos
 
 > BEGIN STRING
 魔法を使用可能にするため、精神を集中する
-> CONTEXT: Skills/884/description < UNTRANSLATED
-
+> CONTEXT: Skills/884/description
+Focus your mind to gather your magic.#TriketosPartial
 > END STRING
 
 > BEGIN STRING
 は意識を集中した
-> CONTEXT: Skills/884/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/884/message1
+ focused his mind.#TriketosPartial
 > END STRING
 
 > BEGIN STRING
