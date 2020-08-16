@@ -2,7 +2,7 @@
 > BEGIN STRING
 レイナ……
 > CONTEXT: Map164/events/1/pages/1/6/Dialogue/kazuya
-Reina ......#MTLed
+Reina...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -11,8 +11,9 @@ Reina ......#MTLed
 アンタを幸せにするはずが、自分のせいで
  アンタを『バケモノ』にしてしまったんだ。
 > CONTEXT: Map164/events/1/pages/1/8/Dialogue/hyakki
-She is lost now. You should make you happy, but
-because of yourself. You made it a "monster".#MTLed
+She didn't know what to do. She had only ever
+wanted to make you happy, but it's because of
+her you've been turned into a monster.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -21,9 +22,10 @@ because of yourself. You made it a "monster".#MTLed
 もっとも、暴走した魔力で世界を滅亡させる
 『混沌』を呼ぶメシアだけどね。
 > CONTEXT: Map164/events/1/pages/1/13/Dialogue/hyakki
-If you leave it,\\C[2] You become "Savior (Messiah)".
-However, the world is destroyed by the runaway
-magic power. It is a messiah that calls "chaos".#MTLed
+If she left you be, \\C[2]you'd turn into this
+"Messiah" and destroy the world with your runaway
+power. The only "salvation" you would bring is
+chaos and destruction...#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -31,8 +33,9 @@ magic power. It is a messiah that calls "chaos".#MTLed
 
 だけど、それにはアンタを殺さなきゃならない。
 > CONTEXT: Map164/events/1/pages/1/18/Dialogue/hyakki
-The only way to prevent that is to remove
-"Angel's magic"...But I have to kill you.#MTLed
+The only way to prevent that is to extract the
+angelic magic out of you, but she'd have to kill
+you to do that.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -40,14 +43,16 @@ The only way to prevent that is to remove
 
 \\C[2]今のアンタには、もう一つ選択肢があるかもしれないネ
 > CONTEXT: Map164/events/1/pages/1/25/Dialogue/hyakki
-Disagreeable……. \\C[2]There may be another option for
-you now#MTLed
+Well, actually...
+
+\\C[2]The way you are now, there might be another
+option.#Ron
 > END STRING
 
 > BEGIN STRING
 もう一つの……『選択肢』？
 > CONTEXT: Map164/events/1/pages/1/29/Dialogue/kazuya
-Another..."choice"?#MTLed
+Another... "option"?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -55,9 +60,9 @@ Another..."choice"?#MTLed
 
 つまり、天使の魔力も暴走しようがないのサ。
 > CONTEXT: Map164/events/1/pages/1/31/Dialogue/hyakki
-You are\\C[2] I have not killed one of the demons I
-met.\\C[0]. In other words, the angel's magic can not
-run away.#MTLed
+\\C[2]You haven't killed a single demon you've met so
+far\\C[0]. In other words, the angelic magic can't
+run amok.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -65,8 +70,9 @@ run away.#MTLed
 
 とりあえず、丸く収まるかもしれないよ？
 > CONTEXT: Map164/events/1/pages/1/35/Dialogue/hyakki
-like this,\\C[2] If you can return the magic to Reina
-... For the moment, maybe it will fit round?#MTLed
+\\C[2]If we could return the magic to her in its
+current state, we might be able to resolve this
+peacefully.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -74,7 +80,9 @@ like this,\\C[2] If you can return the magic to Reina
 
 できるのか、そんなこと…！！
 > CONTEXT: Map164/events/1/pages/1/40/Dialogue/kazuya
-Magic..."return"! ? Can you do that ...? !#MTLed
+"Return" it?!
+
+Is that possible...?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -82,8 +90,9 @@ Magic..."return"! ? Can you do that ...? !#MTLed
 
 魂に定着してるものもあるわけだから……。
 > CONTEXT: Map164/events/1/pages/1/44/Dialogue/hyakki
-Well, it's not okay to get everything back to
-life...Some things are fixed in the soul ...#MTLed
+Well, it's not like we could return all of it...
+
+Some of it will be stuck to your soul by now...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -91,10 +100,9 @@ life...Some things are fixed in the soul ...#MTLed
 
 元の持ち主の『天使』である、レイナに返せるはずだよ。
 > CONTEXT: Map164/events/1/pages/1/48/Dialogue/hyakki
-However, to the extent that a runaway does not
-occur, even if it takes in magic power from now
-on. It should be possible to return to Reina, the
-"angel" of the original owner.#MTLed
+But we should be able to return enough of it to
+its former angelic owner that you won't have to
+worry about the magic going berserk inside you.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -102,8 +110,9 @@ on. It should be possible to return to Reina, the
 
 返しようもないんだけどサ…
 > CONTEXT: Map164/events/1/pages/1/52/Dialogue/hyakki
-But...Reina has to wake up. 
-I can't give it back, but ...#MTLed
+First off, though... Reina needs to wake up.
+
+We can't return it to her if she's asleep...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -111,8 +120,9 @@ I can't give it back, but ...#MTLed
 
 今のアンタにはどうしようもない。
 > CONTEXT: Map164/events/1/pages/1/58/Dialogue/hyakki
-But that's a matter of what she does.
-I can not help you now.#MTLed
+However, this is ultimately her decision now.
+
+There's nothing you can do at this point.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -120,8 +130,8 @@ I can not help you now.#MTLed
 
 無事に脱出することを優先するんだ。
 > CONTEXT: Map164/events/1/pages/1/64/Dialogue/hyakki
-\\N[1], than you think in various ways ...
-I give priority to getting out safely.#MTLed
+Rather than wasting time thinking about things,
+you should be focusing on getting out of here.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -129,8 +139,9 @@ I give priority to getting out safely.#MTLed
 
 アタシの『この世界での運命』を変えた、アンタならね…
 > CONTEXT: Map164/events/1/pages/1/68/Dialogue/hyakki
-All right, you can do it. You've changed the
-'I's' fate in this world', if you ...#MTLed
+It's alright, I know you can do it.
+
+You've already changed my fate, after all...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -138,14 +149,16 @@ All right, you can do it. You've changed the
 
 気をつけるんだよ！\\N[1]
 > CONTEXT: Map164/events/1/pages/1/73/Dialogue/hyakki
-Well! I also handed Mon, and 'I' is rude with
-this! ! Be careful! \\N[1]#MTLed
+Whelp! I handed over the thing I was supposed 'ta
+hand ya so I'm off!!
+
+Don't ya go getting yerself killed, \\N[1]!#Ron
 > END STRING
 
 > BEGIN STRING
 ちょっ……百鬼！！
 > CONTEXT: Map164/events/1/pages/1/84/Dialogue/kazuya
-Hm...Hyakki! !#MTLed
+Hold u-... Hyakki!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -153,14 +166,16 @@ Hm...Hyakki! !#MTLed
 
 ど……どこ行った…！？
 > CONTEXT: Map164/events/1/pages/1/103/Dialogue/kazuya
-Oh, that's ...! ? Oh...where did you go ...! ?#MTLed
+H-Huh...?!
+
+W-Where did she...?!#Ron
 > END STRING
 
 > BEGIN STRING
 とうとうここまで来たんだね……\\N[1]。
 > CONTEXT: Map164/events/2/pages/0/9/Dialogue/hyakki
 > CONTEXT: Map164/events/7/pages/0/12/Dialogue/hyakki
-You've come to here...\\N[1].#MTLed
+So you've finally gotten this far, huh \\N[1]...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -169,9 +184,9 @@ You've come to here...\\N[1].#MTLed
 まるで止まっていた時が一気に動き出すように……
 > CONTEXT: Map164/events/2/pages/0/13/Dialogue/hyakki
 > CONTEXT: Map164/events/7/pages/0/16/Dialogue/hyakki
-This world has changed dramatically in this short
-time. Just like when you were at a standstill it
-started moving at once ...#MTLed
+This world has changed so much in such a short
+period of time. It's as if time was stopped, and
+has been quickly trying to catch up...#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -181,10 +196,9 @@ started moving at once ...#MTLed
 大きく改変されようとしている…
 > CONTEXT: Map164/events/2/pages/0/17/Dialogue/hyakki
 > CONTEXT: Map164/events/7/pages/0/20/Dialogue/hyakki
-In the first place, it is hard to change your
-destiny...It is not anta itself but something
-"event" of this world. It is going to be greatly
-altered ...#MTLed
+Changing fate has always been a tricky thing to
+pull off... It's not just your fate, a massive
+"event" in this world is about to be altered...#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -194,9 +208,8 @@ altered ...#MTLed
 当然、アタシには見当がつかない。
 > CONTEXT: Map164/events/2/pages/0/22/Dialogue/hyakki
 > CONTEXT: Map164/events/7/pages/0/25/Dialogue/hyakki
-What is the "changing event"? And what kind of
-ending is where you end up. Of course, there is
-no clue to 'I'.#MTLed
+Of course, I have absolutely no clue what this
+"event" will be, or what will happen to you.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -205,8 +218,8 @@ no clue to 'I'.#MTLed
 きっと何かの意味があるはずサ
 > CONTEXT: Map164/events/2/pages/0/27/Dialogue/hyakki
 > CONTEXT: Map164/events/7/pages/0/30/Dialogue/hyakki
-But when \\N[1] has come to here
-Surely there should be some meaning#MTLed
+But I'm sure there has to be some meaning to you
+getting this far...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -215,8 +228,8 @@ Surely there should be some meaning#MTLed
 アンタにこれを渡しておくよ。
 > CONTEXT: Map164/events/2/pages/0/32/Dialogue/hyakki
 > CONTEXT: Map164/events/7/pages/0/35/Dialogue/hyakki
-I do not know how to help the "answer" but ...
-I'll give this to you.#MTLed
+I don't know if it'll help you find the answer,
+but I'll give you this.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -225,7 +238,9 @@ I'll give this to you.#MTLed
 カセットテープ……？
 > CONTEXT: Map164/events/2/pages/0/51/Dialogue/kazuya
 > CONTEXT: Map164/events/7/pages/0/54/Dialogue/kazuya
-this is……. cassette tape……?#MTLed
+This is...
+
+A cassette tape...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -234,8 +249,9 @@ this is……. cassette tape……?#MTLed
 『ある女性』に頼まれて、預かってたんだ。
 > CONTEXT: Map164/events/2/pages/0/55/Dialogue/hyakki
 > CONTEXT: Map164/events/7/pages/0/58/Dialogue/hyakki
-When you are chased by Camazotz in the parking
-lot. I was asked by "one woman" and kept it.#MTLed
+When you were being chased around by Camazotz in
+the parking lot, a certain woman gave this to me
+and asked me to hold on to it.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -245,9 +261,10 @@ lot. I was asked by "one woman" and kept it.#MTLed
 ………真実を受け入れる覚悟も、ネ。
 > CONTEXT: Map164/events/2/pages/0/59/Dialogue/hyakki
 > CONTEXT: Map164/events/7/pages/0/62/Dialogue/hyakki
-If you are now, you should have it?
-The "machine" needed to listen is also
-..... I am ready to accept the truth.#MTLed
+Seeing you now, I think you should have it.
+
+You'll need a particular device to listen to it,
+and you'll need the courage to hear the truth.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -256,7 +273,9 @@ The "machine" needed to listen is also
 きっと、今のアンタの知りたい内容サ
 > CONTEXT: Map164/events/2/pages/0/66/Dialogue/hyakki
 > CONTEXT: Map164/events/7/pages/0/69/Dialogue/hyakki
-... ...... Listen. Surely, what you want to know#MTLed
+Have a listen.
+
+I'm sure you'll want to hear it.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -265,7 +284,9 @@ The "machine" needed to listen is also
 まだ壊れてない………
 > CONTEXT: Map164/events/2/pages/0/77/Dialogue/other1
 > CONTEXT: Map164/events/7/pages/0/80/Dialogue/other1
-Was good…………. It is not broken yet .........#MTLed
+Thank goodness...
+
+It still works...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -274,9 +295,10 @@ Was good…………. It is not broken yet .........#MTLed
 ちゃんとあなたに話せる…自信が無い……
 > CONTEXT: Map164/events/2/pages/0/81/Dialogue/other5
 > CONTEXT: Map164/events/7/pages/0/84/Dialogue/other5
-\\N[1]...I promised to meet you ...
-I can talk to you properly...I'm not confident
-......#MTLed
+\\N[1]... I know I promised to meet you.
+
+But I'm not confident I'd be able to properly
+talk to you.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -285,8 +307,7 @@ I can talk to you properly...I'm not confident
 自分自身の……
 > CONTEXT: Map164/events/2/pages/0/85/Dialogue/other5
 > CONTEXT: Map164/events/7/pages/0/88/Dialogue/other5
-Not yet..."Ready" has not been made ...
-My own ......#MTLed
+I haven't... prepared myself yet...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -295,8 +316,8 @@ My own ......#MTLed
 百鬼にこのテープを渡しておく……
 > CONTEXT: Map164/events/2/pages/0/89/Dialogue/other5
 > CONTEXT: Map164/events/7/pages/0/92/Dialogue/other5
-In addition...if something happened to me ...
-Pass this tape to Hyakki ...#MTLed
+Also, please give this tape to Hyakki if anything
+happens to me...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -306,9 +327,10 @@ Pass this tape to Hyakki ...#MTLed
 すべて、話すわ……
 > CONTEXT: Map164/events/2/pages/0/93/Dialogue/other5
 > CONTEXT: Map164/events/7/pages/0/96/Dialogue/other5
-What is happening to you today ...
-And what did M.O.W. do to you ...
-I'm talking about everything ...#MTLed
+The things happening to you right now...
+And what M.O.W. did to you...
+
+I'll explain everything...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -317,7 +339,9 @@ I'm talking about everything ...#MTLed
 私はひとつ、あなたに謝らなければならないの。
 > CONTEXT: Map164/events/2/pages/0/103/Dialogue/other5
 > CONTEXT: Map164/events/7/pages/0/106/Dialogue/other5
-First of all...I have to apologize to you.#MTLed
+First of all...
+
+There's something I need to apologize for.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -327,16 +351,17 @@ First of all...I have to apologize to you.#MTLed
 だから、もう隠さないわ。
 > CONTEXT: Map164/events/2/pages/0/107/Dialogue/other5
 > CONTEXT: Map164/events/7/pages/0/110/Dialogue/other5
-Probably because it is Yuuma, you should be
-noticed...If you let go, you will surely be
-informed. So I won't hide anymore.#MTLed
+Yuuma's probably already noticed, and I'm sure
+he'll tell you when you guys meet...
+
+So I won't try hiding it anymore...#Ron
 > END STRING
 
 > BEGIN STRING
 …………\\C[2]私は、人間じゃない。
 > CONTEXT: Map164/events/2/pages/0/115/Dialogue/other5
 > CONTEXT: Map164/events/7/pages/0/118/Dialogue/other5
-............\\C[2] I am not human.#MTLed
+...\\C[2]I'm... not human.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -345,8 +370,9 @@ informed. So I won't hide anymore.#MTLed
 あなたたち人間に『天使』と呼ばれる種族……
 > CONTEXT: Map164/events/2/pages/0/117/Dialogue/other5
 > CONTEXT: Map164/events/7/pages/0/120/Dialogue/other5
-\\C[2]"God spirit"...A race called "Angel" to you
-humans ...#MTLed
+\\C[2]I'm a Divine Spirit...
+
+A race of beings you humans call "Angels"...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -356,9 +382,10 @@ humans ...#MTLed
 『神の雷霆』……
 > CONTEXT: Map164/events/2/pages/0/121/Dialogue/other5
 > CONTEXT: Map164/events/7/pages/0/124/Dialogue/other5
-Reina is also a pseudonym I gave when I
-approached you...My real name is\\C[2] "Remiel" ...
-"The Thunder of God" ......#MTLed
+The name Reina is a pseudonym I gave myself when
+I approached you... My real name is \\C[2]"Remiel"...
+
+Or "The Thunder of God"...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -368,10 +395,9 @@ approached you...My real name is\\C[2] "Remiel" ...
 その邪教の信者を正しき道に導くこと……
 > CONTEXT: Map164/events/2/pages/0/126/Dialogue/other5
 > CONTEXT: Map164/events/7/pages/0/129/Dialogue/other5
-My mission in the human realm is ...
-Destroy the 'God of God' which is about to
-replace God. Lead the wicked believer in the
-right path ......#MTLed
+My mission in the human realm is to destroy evil
+gods trying to supplant God Himself, and lead
+their wicked believers onto the right path...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -380,8 +406,8 @@ right path ......#MTLed
  急にこんなことを言われても、混乱するだけよね。
 > CONTEXT: Map164/events/2/pages/0/136/Dialogue/other5
 > CONTEXT: Map164/events/7/pages/0/139/Dialogue/other5
-……………I'm sorry. Even if you suddenly say
-something like this, you're only confused.#MTLed
+...I'm sorry. I know saying all this has probably
+just confused you.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -390,8 +416,8 @@ something like this, you're only confused.#MTLed
 きっとあなたは納得しないわ。
 > CONTEXT: Map164/events/2/pages/0/140/Dialogue/other5
 > CONTEXT: Map164/events/7/pages/0/143/Dialogue/other5
-But if you don't speak from "here",
-I will not be convinced.#MTLed
+But if I didn't start from here, then I'm sure I
+wouldn't be able to convince you.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -400,6 +426,6 @@ I will not be convinced.#MTLed
 ある農村での出来事だった……
 > CONTEXT: Map164/events/2/pages/0/144/Dialogue/other5
 > CONTEXT: Map164/events/7/pages/0/147/Dialogue/other5
-That is...not far from this city ...
-It was an event in a certain rural area ......#MTLed
+There was an event in a certain rural area not
+far from this city...#Ron
 > END STRING

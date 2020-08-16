@@ -155,26 +155,27 @@ Do you want to start the story from
 > BEGIN STRING
 4-1 『悔恨』 en(s[230])
 > CONTEXT: Map030/events/1/pages/0/237/Choice/1
-4-1 "Remorse"en(s[230])#MTLed
+4-1 『Regret』en(s[230])#Triketos
 > END STRING
 
 > BEGIN STRING
 4-2 『懺悔』 en(s[231])
 > CONTEXT: Map030/events/1/pages/0/237/Choice/2
-4-2 "Sorry"en(s[231])#MTLed
+4-2 『SHRIFT』en(s[231])#Triketos
 > END STRING
 
 > BEGIN STRING
 『チャプター４－１　『悔恨』』から物語を開始しますか？
 > CONTEXT: Map030/events/1/pages/0/244/Dialogue
-Do you want to start the story from "Chapter 4-1" Remorse
-"?#MTLed
+Do you want to start the story from
+『Chapter 4-1: Regret』?#Triketos
 > END STRING
 
 > BEGIN STRING
 『チャプター４－２　『懺悔』』から物語を開始しますか？
 > CONTEXT: Map030/events/1/pages/0/276/Dialogue
-Do you want to start the story from "Chapter 4-2" Sorry "?#MTLed
+Do you want to start the story from
+『Chapter 4-2: SHRIFT』?#Triketos
 > END STRING
 
 > BEGIN STRING

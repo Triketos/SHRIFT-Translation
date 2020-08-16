@@ -144,8 +144,8 @@ Stock#Dargoth
 悪魔弾に込められた魔力を増幅させる消音器型魔具。
 ハンドガンの威力を上げる。
 > CONTEXT: Armors/14/description
-A muzzle mod which infuse anti-monster magic into bullets.
-Increases the handgun attack power.#afrgPR
+A muzzle mod which infuses anti-monster magic into bullets.
+Increases handgun attack power.#afrgPR
 > END STRING
 
 > BEGIN STRING
@@ -158,22 +158,22 @@ Power Barrel#afrg
 術式が施されたハンドガン用装飾フレーム。
 自身の魔法攻撃力を大きく上げる。
 > CONTEXT: Armors/15/description
-A decorative frame for the handgun that has undergone a
-technique. Increase your magic Attack power greatly.#MTLed
+A handgun frame that has undergone magical rites.
+Greatly increases your magic attack power.#Triketos
 > END STRING
 
 > BEGIN STRING
 マジックフレーム
 > CONTEXT: Armors/15/name
-Magic frame#MTLed
+Magic Frame#Triketos
 > END STRING
 
 > BEGIN STRING
 ミョルニル専用強化フレーム。
 攻撃力を増加させる。
 > CONTEXT: Armors/16/description
-mjolnir dedicated reinforcement frame. Attack force
-increases.#MTLed
+A reinforced frame exclusively for the Mjolnir.
+Increases attack power.#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -346,8 +346,8 @@ Gauntlet#Dargoth
 バーゲストが大事にしている、ヘカーテとの主従関係の証。
 武器の攻撃力を上昇させる。
 > CONTEXT: Armors/45/description
-\\}Evidence of a master-detail relationship with Hecate, which barghest takes care of.
-Increase your weapon's attack power.#MTLed
+\\}A testament to Barghest's cherished, master-servant relationship
+with Hecate. Increase your weapon's attack power.#Triketos
 > END STRING
 
 > BEGIN STRING
