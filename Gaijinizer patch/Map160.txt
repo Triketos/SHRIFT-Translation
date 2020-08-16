@@ -2,7 +2,7 @@
 > BEGIN STRING
 ………レイナの様子はどうだ、\\N[1]。
 > CONTEXT: Map160/events/1/pages/0/22/Dialogue/yuuma
-......... How's Reina doing, \\N[1].#Triketos
+...How's Reina doing, \\N[1]?#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -10,8 +10,9 @@
 
 呼吸や、脈拍は普通みたいだけど……
 > CONTEXT: Map160/events/1/pages/0/25/Dialogue/kazuya
-I'm still really worried....
-Her breathing and pulse is still normal, but...#Triketos
+She's still unconscious...
+
+Her breathing and pulse are normal though...#Triketos/Ron
 > END STRING
 
 > BEGIN STRING
@@ -19,10 +20,10 @@ Her breathing and pulse is still normal, but...#Triketos
 
 『悪魔弾』に撃たれると、こんな感じになるのか…
 > CONTEXT: Map160/events/1/pages/0/29/Dialogue/kazuya
-She looks completely asleep...
+It's as if she's just sleeping...
 
-If a person gets shot by "Demon Rounds",
-would they really look like this....?#Triketos
+Is this what it's like when someone's shot with
+a Demon Round...?#Triketos/Ron
 > END STRING
 
 > BEGIN STRING
@@ -31,8 +32,8 @@ would they really look like this....?#Triketos
 しばらくすれば、ゆっくりと目覚めるはずだ。
 > CONTEXT: Map160/events/1/pages/0/33/Dialogue/yuuma
 The stunning effect of Demon Rounds is close to
-the impact of a concussion. After a while, they
-should slowly wake up.#Triketos
+the impact of a concussion. She should gradually
+wake up if we leave her for a while.#Triketos/Ron
 > END STRING
 
 > BEGIN STRING
@@ -41,16 +42,16 @@ should slowly wake up.#Triketos
  俺は、脱出の最終チェックをしている、
  何かあったら、近くの通信室まできてくれ。
 > CONTEXT: Map160/events/1/pages/0/37/Dialogue/yuuma
-Until then, it would be good to stay by her side.
-I'm going to do a final check before we escape.
-If you need me for anything, please come to the
-nearby communication room.#Triketos
+You should stay by her side until then.
+I'm going to do some final checks on our escape
+route. Come see me in the comms room nearby if
+you need anything.#Triketos
 > END STRING
 
 > BEGIN STRING
 ユウマ…………
 > CONTEXT: Map160/events/1/pages/0/48/Dialogue/kazuya
-Yuuma............#Triketos
+Yuuma...#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -66,7 +67,7 @@ Hmm?#Triketos
 > CONTEXT: Map160/events/1/pages/0/55/Dialogue/kazuya
 Thank you. 
 
-About Reina...leave it to me.#Triketos
+For leaving Reina to me...#Triketos/Ron
 > END STRING
 
 > BEGIN STRING
@@ -75,9 +76,10 @@ About Reina...leave it to me.#Triketos
  正直、自分やお前の命を狙われている以上、
  俺は今でも彼女を拘束すべきだと思ってる。
 > CONTEXT: Map160/events/1/pages/0/60/Dialogue/yuuma
-... I just believed in your words.
-Honestly, more than being targeted for your own
-life, I still think she should be bound.#MTLed
+...I just trusted in you.
+
+To be honest, I still think we should tie her up
+considering what she said about killing us.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -85,8 +87,9 @@ life, I still think she should be bound.#MTLed
 
  話を聞くのは、お前が一番適役だろう。
 > CONTEXT: Map160/events/1/pages/0/65/Dialogue/yuuma
-And Reina is your lover. You will be the best
-person to listen to.#MTLed
+Besides, she's your girlfriend. If there's
+anyone I should be listening to about this, it's
+you.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -94,8 +97,8 @@ person to listen to.#MTLed
 
 彼女がすべてを話してくれるといいんだが…
 > CONTEXT: Map160/events/1/pages/0/69/Dialogue/yuuma
-......... including the matter of identity
-I hope she talks about everything ...#MTLed
+...Hopefully she'll tell us everything,
+including about who she really is.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -104,8 +107,8 @@ I hope she talks about everything ...#MTLed
 レイナは約束してくれたんだ。
 すべてを話すって……
 > CONTEXT: Map160/events/1/pages/0/73/Dialogue/kazuya
-It's all right, Yuuma. Reina promised
-she'd tell me everything......#Triketos
+It's all right, Yuuma. Reina promised she'd tell
+me everything......#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -143,7 +146,7 @@ I'm really glad you're safe.#Triketos
 
 どうする？\\N[1]
 > CONTEXT: Map160/events/1/pages/0/107/Dialogue/other2
-.....It doesn't look like she's going to
+...It doesn't look like she's going to
 wake up for a while...
 
 What do you want to do, \\N[1]?#Triketos
@@ -155,18 +158,16 @@ What do you want to do, \\N[1]?#Triketos
 あれからしばらく経つけど、まだ戻ってこない……
 何か問題があったのかも。
 > CONTEXT: Map160/events/1/pages/0/112/Dialogue/kazuya
-Let's go see what Yuuma is doing.
-
-It's been a while since he left, but he still
-hasn't come back yet......
-
-Maybe he's having some trouble with something.#Triketos
+Let's go see what Yuuma is doing. It's been a
+while since he left, but he still hasn't come
+back yet... Maybe he's having some trouble with
+something.#Triketos
 > END STRING
 
 > BEGIN STRING
 ………………そうだな………
 > CONTEXT: Map160/events/1/pages/0/117/Dialogue/other2
-............... That's right .........#MTLed
+Yeah, maybe...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -193,7 +194,7 @@ It's nothing...#Triketos
 
 　　　　　　海底列車の点検車両マニュアル
 > CONTEXT: Map160/events/6/pages/0/2/Dialogue
-Submarine train inspection vehicle manual#MTLed
+Undersea Train Maintenance Vehicle Manual#Ron
 > END STRING
 
 > BEGIN STRING
@@ -201,9 +202,9 @@ Submarine train inspection vehicle manual#MTLed
 
  この海底列車は、おそらく世界最長です。
 > CONTEXT: Map160/events/6/pages/0/6/Dialogue
-As well as island countries, there are relay stations for
-offshore facilities. This undersea train is probably the
-longest in the world.#MTLed
+This undersea relay, with relay stations built across
+island nations and maritime facilities on the ocean's
+surface, is one of the largest in the world.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -212,9 +213,9 @@ longest in the world.#MTLed
 線路に異常を検知すると、そのレールを走行することで
 自動的に修復します。
 > CONTEXT: Map160/events/6/pages/0/11/Dialogue
-This vehicle that corresponds to the inspection vehicle
-When an abnormality is detected in the track, it is
-necessary to. It will repair automatically.#MTLed
+This locomotive with attached maintenance carriage will
+automatically dispatch itself to repair any abnormalities
+it detects on the rail line.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -223,10 +224,11 @@ necessary to. It will repair automatically.#MTLed
 車両が走行不可能な場合は、車両が自動的に停車し
  ダイヤ改正や本部連絡を適切に送信します。
 > CONTEXT: Map160/events/6/pages/0/17/Dialogue
-However, this is limited to mild distortion of the rail,
-cracks, etc. If the vehicle can not travel, the vehicle
-automatically stops. We will properly send diamond
-revisions and headquarters communications.#MTLed
+However, this functionality is limited to things like
+filling small cracks or fixing small warps on the lines.
+If it's unable to travel the lines, it will automatically
+stop and send appropriate updates such as timetable
+revisions to HQ.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -234,7 +236,7 @@ revisions and headquarters communications.#MTLed
 
 現場責任者に問題を直接報告してください。
 > CONTEXT: Map160/events/6/pages/0/23/Dialogue
-In that case, the passenger visually checks the condition
-of the track and. Report the problem directly to the site
-manager.#MTLed
+In such a case, the passenger of the vehicle should
+perform a visual inspection of the situation, and report
+the problem directly to the site manager.#Ron
 > END STRING
