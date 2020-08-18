@@ -1,0 +1,452 @@
+﻿> GAIJINIZER PATCH FILE
+> BEGIN STRING
+柱は原形を留めていない…
+
+\\C[2]目印としての機能は、すでに失っているようだ…
+> CONTEXT: Map394/events/1/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+取引をする
+> CONTEXT: Map394/events/3/pages/0/4/Choice/0
+Let's make a deal.#Triketos
+> END STRING
+
+> BEGIN STRING
+何も言わない
+> CONTEXT: Map394/events/3/pages/0/4/Choice/1
+Say nothing#Triketos
+> END STRING
+
+> BEGIN STRING
+あー、気持ちよかった♪
+やっぱり実体で、身体を擦り付けあうのは最高だね♡
+
+まるで猫になってじゃれてるみたい♡
+> CONTEXT: Map394/events/3/pages/0/12/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Map394/events/3/pages/1/5/Dialogue/enemy29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+………………あ
+
+ボク、猫だったや。
+> CONTEXT: Map394/events/3/pages/0/17/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Map394/events/3/pages/1/10/Dialogue/enemy29 < UNTRANSLATED
+......Ah.
+
+I used to be a cat.
+> END STRING
+
+> BEGIN STRING
+………じゃあまぁ、約束だからね。
+
+この先に進む方法を教えてあげるよ。
+> CONTEXT: Map394/events/3/pages/0/22/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Map394/events/3/pages/1/15/Dialogue/enemy29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もうすぐ、女王ティターニアのいる広場に着く。
+キミのさがしてるスフィンクスも、そこにいるはずだ
+
+気を付けて進むんだよ。
+> CONTEXT: Map394/events/3/pages/0/26/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Map394/events/3/pages/1/19/Dialogue/enemy29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+……………それっ！！！
+> CONTEXT: Map394/events/3/pages/0/31/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Map394/events/3/pages/1/24/Dialogue/enemy29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+………………
+
+…………………やられたな、\\N[1]。
+> CONTEXT: Map394/events/3/pages/0/48/Dialogue/other2 < UNTRANSLATED
+> CONTEXT: Map394/events/3/pages/1/41/Dialogue/other2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なるほど、『先に進む方法』か……
+確かにこれで、迷わず先に進むことができるな……
+
+\\C[2]ここには最初から、目印も分かれ道もなかった……
+> CONTEXT: Map394/events/3/pages/0/52/Dialogue/other2 < UNTRANSLATED
+> CONTEXT: Map394/events/3/pages/1/45/Dialogue/other2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なんてことない、全部チェシャの幻術だったのか…
+
+『幻影結界』………またマイナーな投影法を………
+> CONTEXT: Map394/events/3/pages/0/57/Dialogue/other2 < UNTRANSLATED
+> CONTEXT: Map394/events/3/pages/1/50/Dialogue/other2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+チェシャは、最初からここで待ち伏せするつもりだったんだ
+
+さっき自分で\\C[2]『すぐ先が目的地』\\C[0]だと教えてくれた…
+全部知っていたんだ…
+> CONTEXT: Map394/events/3/pages/0/61/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map394/events/3/pages/1/54/Dialogue/kazuya < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+取引と言いつつ、結局アイツの手のひらの上で
+まんまと遊ばれただけだったわけだな………
+
+ますます不可解で、奇妙なヤツだ………
+> CONTEXT: Map394/events/3/pages/0/66/Dialogue/other2 < UNTRANSLATED
+> CONTEXT: Map394/events/3/pages/1/59/Dialogue/other2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…………とにかく、これで先に進めるようになった。
+
+はやくスフィンクスを連れ戻して
+この『妖精の国』から脱出しよう。
+> CONTEXT: Map394/events/3/pages/0/71/Dialogue/other2 < UNTRANSLATED
+> CONTEXT: Map394/events/3/pages/1/64/Dialogue/other2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+やぁ、\\N[1]くん♪
+
+思ったより早かったね。
+さすがに、こういう謎解きは得意なのかな？
+> CONTEXT: Map394/events/4/pages/0/10/Dialogue/enemy29
+Hi, Kazuya-kun♪
+
+That was quicker than I expected.
+Are you good at solving riddles like this?#DL
+> END STRING
+
+> BEGIN STRING
+まあまあ、そう身構えないでよ
+
+実はここで待ってたのは、戦うためじゃないんだ
+> CONTEXT: Map394/events/4/pages/0/18/Dialogue/enemy29
+Whoa, don't get all defensive.
+
+Actually, I'm not waiting here to fight.#DL
+> END STRING
+
+> BEGIN STRING
+ボク、本当はもうちょっと先で
+キミを待ち伏せするつもりだったんだけど………
+
+この『柱』の状況を見て、気が変わったんだよ。
+> CONTEXT: Map394/events/4/pages/0/22/Dialogue/enemy29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+まあ、キミも見てみなよ
+
+きっと納得してくれるはずさ
+> CONTEXT: Map394/events/4/pages/0/27/Dialogue/enemy29
+Well, if you look at it,
+I'm sure you'll understand...#DL
+> END STRING
+
+> BEGIN STRING
+…………！？
+
+柱が…！！
+> CONTEXT: Map394/events/4/pages/0/34/Dialogue/kazuya
+......!?
+
+The pillar...!!#DL
+> END STRING
+
+> BEGIN STRING
+そう。
+ボクも色々試してみたんだけど、無理だったよ
+
+\\C[2]完全に目印としての機能は消えちゃってるみたいなんだ
+> CONTEXT: Map394/events/4/pages/0/38/Dialogue/enemy29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ボクはまぁ、こんなのなくても平気だけど……
+『待ち伏せ場所に、相手が道に迷って結局来なかった』…
+
+なんてことになったら、本末転倒だろう？
+> CONTEXT: Map394/events/4/pages/0/43/Dialogue/enemy29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だから、予定を変更して、ここで待つことにしたんだ。
+
+キミと\\C[2]『取引』\\C[0]するために
+> CONTEXT: Map394/events/4/pages/0/48/Dialogue/enemy29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+と、取引……？
+> CONTEXT: Map394/events/4/pages/0/52/Dialogue/kazuya
+D... Deal...?#DL
+> END STRING
+
+> BEGIN STRING
+このままだと、キミは先に進めない
+でもボクは、『正解の進みかた』を知っている
+
+そしてボクは、キミともっと遊びたい……
+> CONTEXT: Map394/events/4/pages/0/56/Dialogue/enemy29
+Well, you can't go on, but I know the
+right way to go.
+
+And I want to play with you more...#DL
+> END STRING
+
+> BEGIN STRING
+\\C[2]３ターンだけ、ボクにキミの身体をちょうだい♡
+もちろん、搾精したりはしないから
+
+ただ、ボクの好きにイジらせて欲しいんだ。
+> CONTEXT: Map394/events/4/pages/0/61/Dialogue/enemy29
+\\C[2]Just give me your body for three turns♡
+Of course, I'm not going to milk you...
+
+I just want to be able to tease you all I want.#DL
+> END STRING
+
+> BEGIN STRING
+\\C[2]4ターン目になって、キミがボクに屈服せずに
+『やめて』って一言いえれば、キミの勝ち♡
+
+『やめないで』って言っちゃったら、ボクの勝ち♡
+> CONTEXT: Map394/events/4/pages/0/67/Dialogue/enemy29
+If you can say "Stop" on turn 4 without
+conceding to me, you win!♡
+
+If I say, "Please don't stop," I win♡#DL
+> END STRING
+
+> BEGIN STRING
+この遊びに付き合ってくれたら、正解を教えてあげる
+
+\\C[10]勝ち負け関係なく教えるし、一回きりの取引だよ。\\C[0]
+悪くない条件でしょ？
+> CONTEXT: Map394/events/4/pages/0/72/Dialogue/enemy29
+Play along with this game and I'll tell you
+the right way to go. \\C[10]I'll tell you regardless
+of whether you win or lose, and it's a one-time deal.
+\\C[0] Not bad, eh?#DL
+> END STRING
+
+> BEGIN STRING
+………ふざけるな…！
+
+そんな都合のいい取引、君に何の得があるんだ！
+> CONTEXT: Map394/events/4/pages/0/78/Dialogue/kazuya
+...Is this a sick joke...?!
+
+What do you get out of all this?!#TriketosLocalizePartial
+> END STRING
+
+> BEGIN STRING
+得？もちろんあるよ♪
+
+キミと一緒に遊べるんだもん
+> CONTEXT: Map394/events/4/pages/0/82/Dialogue/enemy29
+Hm? What do I get?♪
+
+I get to play with you.#DL
+> END STRING
+
+> BEGIN STRING
+大丈夫、\\C[2]悪魔は『約束』を必ず守るよ\\C[0]
+
+それは誰より知ってるでしょ、\\N[1]くん♡
+> CONTEXT: Map394/events/4/pages/0/86/Dialogue/enemy29
+Don't worry, \\C[2]demons always keep
+their promises.\\C[0]
+
+You know that better than anyone, \\N[1]♡#DL
+> END STRING
+
+> BEGIN STRING
+…………もちろん、自力で解きたいなら邪魔はしないよ
+
+だけど多分、やみくもに進んでるだけじゃ
+ずっとこの周辺を歩き回ることになると思う。
+> CONTEXT: Map394/events/4/pages/0/93/Dialogue/enemy29
+
+> END STRING
+
+> BEGIN STRING
+早いとこ、ボクと愉しく遊んで
+ちゃっちゃと正解を聞いた方が早いと思うけどなぁ
+
+さぁ、どうする\\N[1]くん？
+> CONTEXT: Map394/events/4/pages/0/98/Dialogue/enemy29
+I can't wait for you to have some fun with me.
+I think it would be quicker to just ask
+for the right answer.
+So, what do you think, \\N[1]?#DL
+> END STRING
+
+> BEGIN STRING
+あ、それ？
+
+ボクの知り合いに、お茶会が趣味な連中がいてね。
+予備と含めて、常に２セット持ち歩いてるんだよ。
+> CONTEXT: Map394/events/5/pages/0/2/Dialogue/enemy29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+使いたいんだったら、予備のやつ使っていいよ？
+
+大丈夫、カップの底が見えなかったりするけど
+フツーに使えるから♪
+> CONTEXT: Map394/events/5/pages/0/7/Dialogue/enemy29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うーん、いい香り！
+
+人間界の葉は、魔素が含まれてない代わりに
+ピュアな風味があって、ボクは好きだなぁ
+> CONTEXT: Map394/events/5/pages/0/26/Dialogue/enemy29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それに、\\N[1]くんの入れ方もいい
+手際よく、葉の効能を損なわない完璧なやり方だ。
+
+ひょっとしてキミも、お茶や紅茶とか好きなタイプなの？
+> CONTEXT: Map394/events/5/pages/0/31/Dialogue/enemy29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いや…
+
+シェルターにあったマニュアルに従って作るまで
+葉の状態から飲み物にするなんて初めてだったよ。
+> CONTEXT: Map394/events/5/pages/0/37/Dialogue/kazuya < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ただ、あの街を脱出するまでに散々作ったから
+もう身体が入れ方を覚えてるんだ。
+
+生死に関わる状況だったし………
+> CONTEXT: Map394/events/5/pages/0/42/Dialogue/kazuya < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+半端なものを入れれば、効果は薄まる
+どんなことがあるか分からない状況下で、それは油断になる
+
+あのときは僕も必死だったから…
+> CONTEXT: Map394/events/5/pages/0/47/Dialogue/kazuya < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ふーん………
+
+『あの街を脱出するまでに』ね………
+> CONTEXT: Map394/events/5/pages/0/53/Dialogue/enemy29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…………ねぇ、\\N[1]くん。
+
+\\C[10]キミは本当に、\\N[1]くん？
+> CONTEXT: Map394/events/5/pages/0/57/Dialogue/enemy29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…………どういう意味だ。
+> CONTEXT: Map394/events/5/pages/0/62/Dialogue/kazuya < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だってキミは、レイナに魔力を返して
+最終的に普通の人間に戻ったはずだよね？
+
+じゃなきゃ、根本の問題は解決しない。
+> CONTEXT: Map394/events/5/pages/0/64/Dialogue/enemy29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だけど、今のキミは魔力を持っているどころか
+消えたはずのマイルームにすら出入りしている
+
+しかも、冥府の間を経由せずに………
+> CONTEXT: Map394/events/5/pages/0/69/Dialogue/enemy29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それに、カプセルが起こした、\\C[10]『認証エラー』\\C[0]
+
+あれは一体、なんだったんだろうね？
+> CONTEXT: Map394/events/5/pages/0/74/Dialogue/enemy29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…………なんでそんなことまで知っているんだ。
+
+君は、僕についてなにか知ってるのか……？
+> CONTEXT: Map394/events/5/pages/0/79/Dialogue/kazuya < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+べつにぃ？
+
+ただ疑問に思ったことをペラペラ喋っただけ
+戸惑わせちゃった？ゴメンね♪
+> CONTEXT: Map394/events/5/pages/0/84/Dialogue/enemy29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+でも、その入れ方は確かに
+軍事マニュアルに忠実な、的確な入れ方だ。
+
+君は間違いなく、あの街での死闘を経験してる。
+> CONTEXT: Map394/events/5/pages/0/89/Dialogue/enemy29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+キミへの興味が、また一つ増えちゃったなぁ
+
+今度のお茶会に、キミを誘ってみたいよ♡
+> CONTEXT: Map394/events/5/pages/0/94/Dialogue/enemy29 < UNTRANSLATED
+
+> END STRING
