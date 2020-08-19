@@ -16,9 +16,12 @@
 > END STRING
 
 > BEGIN STRING
-ヘカーテ？
-> CONTEXT: Map193/events/5/pages/1/0/NamePop
-Hecate?#Triketos
+開放条件：
+【真慈悲ルートクリア済み】
+【スフィンクス入室済み・キズナ状態】
+【百鬼入室済み・キズナ状態】
+> CONTEXT: Map193/events/6/pages/0/1/Dialogue < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -43,4 +46,10 @@ Please initialize your own stable value.#MTLed
 > CONTEXT: Map193/events/24/pages/1/4/Dialogue/kazuya
 "Initialize stable capacity value" ...?
 \\C[2]Reset with charred Salamander...Toka?#MTLed
+> END STRING
+
+> BEGIN STRING
+本編取りこぼし
+> CONTEXT: Map193/events/42/pages/0/0/Choice/0 < UNTRANSLATED
+
 > END STRING

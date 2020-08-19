@@ -2,8 +2,9 @@
 > BEGIN STRING
 
 この悪魔は、説得が出来るような相手ではないようだ…
-> CONTEXT: CommonEvents_180/7/Dialogue
-> CONTEXT: CommonEvents_180/14/Dialogue
+> CONTEXT: CommonEvents_180/12/Dialogue
+> CONTEXT: CommonEvents_180/19/Dialogue
+> CONTEXT: CommonEvents_180/26/Dialogue
 This devil does not seem to be a partner who
 can persuade...#GT
 > END STRING
@@ -11,8 +12,8 @@ can persuade...#GT
 > BEGIN STRING
 
 この戦闘では、説得が出来るような状況ではないようだ…
-> CONTEXT: CommonEvents_180/21/Dialogue 
-> CONTEXT: CommonEvents_180/28/Dialogue 
+> CONTEXT: CommonEvents_180/33/Dialogue
+> CONTEXT: CommonEvents_180/40/Dialogue
 It doesn't seem like that's going to work in this battle...#Ron
 > END STRING
 
@@ -20,7 +21,7 @@ It doesn't seem like that's going to work in this battle...#Ron
 エンプちゃーん、口車に乗っちゃ駄目だからねー？
 
 ガマン、ガマン♪
-> CONTEXT: CommonEvents_180/37/Dialogue/enemy2 
+> CONTEXT: CommonEvents_180/49/Dialogue/enemy2
 Empuse Chan, you can't get on the car!
 hold back, hold back♪#MTLed
 > END STRING
@@ -29,7 +30,7 @@ hold back, hold back♪#MTLed
 まさかとは思うけど……
 
 お前さん、あたい相手に『説得』をしようとしたのかい？
-> CONTEXT: CommonEvents_180/50/Dialogue/enemy10 
+> CONTEXT: CommonEvents_180/62/Dialogue/enemy10
 I think it is wrong...You, did you try to
 "dissuade" against the person you want?#MTLed
 > END STRING
@@ -38,7 +39,7 @@ I think it is wrong...You, did you try to
 その勇気だけは買ってやるけど…
 
 好奇心は、時に身を滅ぼすことになるよ…♡
-> CONTEXT: CommonEvents_180/54/Dialogue/enemy10 
+> CONTEXT: CommonEvents_180/66/Dialogue/enemy10
 I will buy only that courage but ...
 The curiosity sometimes destroys me...♡#MTLed
 > END STRING
@@ -46,7 +47,7 @@ The curiosity sometimes destroys me...♡#MTLed
 > BEGIN STRING
 
 アルケニーは\\C[2]話を聞く気がないようだ……
-> CONTEXT: CommonEvents_180/58/Dialogue 
+> CONTEXT: CommonEvents_180/70/Dialogue
 Arachne is\\C[2] I don't feel like listening to it ...#MTLed
 > END STRING
 
@@ -54,7 +55,7 @@ Arachne is\\C[2] I don't feel like listening to it ...#MTLed
 
 アコニートゥムには、どうやら
 \\C[2]会話するだけの知能が備わっていないようだ……
-> CONTEXT: CommonEvents_180/67/Dialogue 
+> CONTEXT: CommonEvents_180/79/Dialogue
 Apparently in Aconitum. \\C[2]It doesn't seem to have the
 intelligence to talk ...#MTLed
 > END STRING
@@ -62,16 +63,16 @@ intelligence to talk ...#MTLed
 > BEGIN STRING
 
 どうやら、もはや離してくれる気はないようだ…
-> CONTEXT: CommonEvents_180/90/Dialogue 
-> CONTEXT: CommonEvents_180/99/Dialogue 
-> CONTEXT: CommonEvents_180/108/Dialogue 
+> CONTEXT: CommonEvents_180/102/Dialogue
+> CONTEXT: CommonEvents_180/111/Dialogue
+> CONTEXT: CommonEvents_180/120/Dialogue
 It seems she has no intention of letting me go...#Ron
 > END STRING
 
 > BEGIN STRING
 
 説得で話を聞いてもらうには、まだ\\C[2]信頼が足りないようだ…
-> CONTEXT: CommonEvents_180/145/Dialogue 
+> CONTEXT: CommonEvents_180/157/Dialogue
 To hear the story at dissuade, still\\C[2] Trust seems to be
 lacking ...#MTLed
 > END STRING
@@ -79,73 +80,85 @@ lacking ...#MTLed
 > BEGIN STRING
 
 \\$\\V[11]円、悪魔に渡しますか？
-> CONTEXT: CommonEvents_180/159/Dialogue 
+> CONTEXT: CommonEvents_180/171/Dialogue
 She wants you to give her \\$ \\V[11] yen...#Ron
 > END STRING
 
 > BEGIN STRING
 はい
-> CONTEXT: CommonEvents_180/162/Choice/0 
-> CONTEXT: CommonEvents_180/205/Choice/0 
-> CONTEXT: Map002/events/1/pages/0/346/Choice/0
-> CONTEXT: Map002/events/1/pages/0/370/Choice/0
-> CONTEXT: Map002/events/1/pages/0/416/Choice/0
-> CONTEXT: Map002/events/1/pages/0/466/Choice/0
-> CONTEXT: Map002/events/1/pages/0/512/Choice/0
-> CONTEXT: Map002/events/1/pages/0/617/Choice/0
-> CONTEXT: Map002/events/1/pages/0/633/Choice/0
-> CONTEXT: Map002/events/1/pages/0/649/Choice/0
-> CONTEXT: Map002/events/1/pages/0/701/Choice/0
-> CONTEXT: Map002/events/1/pages/0/717/Choice/0
-> CONTEXT: Map002/events/1/pages/0/733/Choice/0 
-> CONTEXT: Map002/events/1/pages/0/752/Choice/0
-> CONTEXT: Map002/events/1/pages/0/796/Choice/0
-> CONTEXT: Map002/events/1/pages/0/812/Choice/0
-> CONTEXT: Map002/events/1/pages/0/864/Choice/0
-> CONTEXT: Map002/events/1/pages/0/880/Choice/0
-> CONTEXT: Map002/events/1/pages/0/896/Choice/0
-> CONTEXT: Map002/events/1/pages/0/944/Choice/0
-> CONTEXT: Map002/events/1/pages/0/960/Choice/0
-> CONTEXT: Map002/events/1/pages/0/1012/Choice/0
-> CONTEXT: Map002/events/1/pages/0/1028/Choice/0
-> CONTEXT: Map002/events/1/pages/0/1053/Choice/0
-> CONTEXT: Map002/events/1/pages/0/1108/Choice/0
-> CONTEXT: Map002/events/1/pages/0/1124/Choice/0
-> CONTEXT: Map002/events/1/pages/0/1140/Choice/0
-> CONTEXT: Map002/events/1/pages/0/1200/Choice/0
-> CONTEXT: Map002/events/1/pages/0/1216/Choice/0
-> CONTEXT: Map002/events/1/pages/0/1232/Choice/0
-> CONTEXT: Map002/events/1/pages/0/1248/Choice/0
-> CONTEXT: Map002/events/1/pages/0/1296/Choice/0
-> CONTEXT: Map002/events/1/pages/0/1312/Choice/0
-> CONTEXT: Map002/events/1/pages/0/1372/Choice/0
-> CONTEXT: Map002/events/1/pages/0/1388/Choice/0
-> CONTEXT: Map002/events/1/pages/0/1404/Choice/0
-> CONTEXT: Map002/events/1/pages/0/1420/Choice/0
-> CONTEXT: Map002/events/1/pages/0/1472/Choice/0
-> CONTEXT: Map002/events/1/pages/0/1504/Choice/0
-> CONTEXT: Map002/events/1/pages/0/1520/Choice/0
-> CONTEXT: Map002/events/1/pages/0/1564/Choice/0
-> CONTEXT: Map002/events/1/pages/0/1596/Choice/0
-> CONTEXT: Map002/events/1/pages/0/1644/Choice/0
-> CONTEXT: Map002/events/1/pages/0/1660/Choice/0
-> CONTEXT: Map002/events/1/pages/0/1696/Choice/0
-> CONTEXT: Map002/events/1/pages/0/1748/Choice/0
-> CONTEXT: Map002/events/1/pages/0/1764/Choice/0
-> CONTEXT: Map002/events/1/pages/0/1780/Choice/0
-> CONTEXT: Map002/events/1/pages/0/1816/Choice/0
-> CONTEXT: Map002/events/1/pages/0/1856/Choice/0
-> CONTEXT: Map002/events/1/pages/0/1900/Choice/0
-> CONTEXT: Map002/events/1/pages/0/1932/Choice/0
-> CONTEXT: Map002/events/1/pages/0/2004/Choice/0
-> CONTEXT: Map002/events/1/pages/0/2020/Choice/0
-> CONTEXT: Map002/events/1/pages/0/2036/Choice/0
-> CONTEXT: Map002/events/1/pages/0/2080/Choice/0
-> CONTEXT: Map002/events/1/pages/0/2112/Choice/0
-> CONTEXT: Map002/events/1/pages/0/2176/Choice/0
-> CONTEXT: Map002/events/1/pages/0/2192/Choice/0
-> CONTEXT: Map002/events/1/pages/0/2233/Choice/0
-> CONTEXT: Map002/events/1/pages/0/2249/Choice/0
+> CONTEXT: CommonEvents_180/174/Choice/0
+> CONTEXT: CommonEvents_180/217/Choice/0
+> CONTEXT: Map002/events/1/pages/0/347/Choice/0
+> CONTEXT: Map002/events/1/pages/0/371/Choice/0
+> CONTEXT: Map002/events/1/pages/0/417/Choice/0
+> CONTEXT: Map002/events/1/pages/0/467/Choice/0
+> CONTEXT: Map002/events/1/pages/0/513/Choice/0
+> CONTEXT: Map002/events/1/pages/0/618/Choice/0
+> CONTEXT: Map002/events/1/pages/0/634/Choice/0
+> CONTEXT: Map002/events/1/pages/0/650/Choice/0
+> CONTEXT: Map002/events/1/pages/0/702/Choice/0
+> CONTEXT: Map002/events/1/pages/0/718/Choice/0
+> CONTEXT: Map002/events/1/pages/0/734/Choice/0
+> CONTEXT: Map002/events/1/pages/0/753/Choice/0
+> CONTEXT: Map002/events/1/pages/0/797/Choice/0
+> CONTEXT: Map002/events/1/pages/0/813/Choice/0
+> CONTEXT: Map002/events/1/pages/0/865/Choice/0
+> CONTEXT: Map002/events/1/pages/0/881/Choice/0
+> CONTEXT: Map002/events/1/pages/0/897/Choice/0
+> CONTEXT: Map002/events/1/pages/0/945/Choice/0
+> CONTEXT: Map002/events/1/pages/0/961/Choice/0
+> CONTEXT: Map002/events/1/pages/0/1013/Choice/0
+> CONTEXT: Map002/events/1/pages/0/1029/Choice/0
+> CONTEXT: Map002/events/1/pages/0/1054/Choice/0
+> CONTEXT: Map002/events/1/pages/0/1109/Choice/0
+> CONTEXT: Map002/events/1/pages/0/1125/Choice/0
+> CONTEXT: Map002/events/1/pages/0/1141/Choice/0
+> CONTEXT: Map002/events/1/pages/0/1201/Choice/0
+> CONTEXT: Map002/events/1/pages/0/1217/Choice/0
+> CONTEXT: Map002/events/1/pages/0/1233/Choice/0
+> CONTEXT: Map002/events/1/pages/0/1249/Choice/0
+> CONTEXT: Map002/events/1/pages/0/1297/Choice/0
+> CONTEXT: Map002/events/1/pages/0/1313/Choice/0
+> CONTEXT: Map002/events/1/pages/0/1373/Choice/0
+> CONTEXT: Map002/events/1/pages/0/1389/Choice/0
+> CONTEXT: Map002/events/1/pages/0/1405/Choice/0
+> CONTEXT: Map002/events/1/pages/0/1421/Choice/0
+> CONTEXT: Map002/events/1/pages/0/1442/Choice/0
+> CONTEXT: Map002/events/1/pages/0/1494/Choice/0
+> CONTEXT: Map002/events/1/pages/0/1526/Choice/0
+> CONTEXT: Map002/events/1/pages/0/1542/Choice/0
+> CONTEXT: Map002/events/1/pages/0/1586/Choice/0
+> CONTEXT: Map002/events/1/pages/0/1618/Choice/0
+> CONTEXT: Map002/events/1/pages/0/1666/Choice/0
+> CONTEXT: Map002/events/1/pages/0/1682/Choice/0
+> CONTEXT: Map002/events/1/pages/0/1718/Choice/0
+> CONTEXT: Map002/events/1/pages/0/1770/Choice/0
+> CONTEXT: Map002/events/1/pages/0/1786/Choice/0
+> CONTEXT: Map002/events/1/pages/0/1802/Choice/0
+> CONTEXT: Map002/events/1/pages/0/1838/Choice/0
+> CONTEXT: Map002/events/1/pages/0/1878/Choice/0
+> CONTEXT: Map002/events/1/pages/0/1922/Choice/0
+> CONTEXT: Map002/events/1/pages/0/1954/Choice/0
+> CONTEXT: Map002/events/1/pages/0/2026/Choice/0
+> CONTEXT: Map002/events/1/pages/0/2042/Choice/0
+> CONTEXT: Map002/events/1/pages/0/2058/Choice/0
+> CONTEXT: Map002/events/1/pages/0/2102/Choice/0
+> CONTEXT: Map002/events/1/pages/0/2134/Choice/0
+> CONTEXT: Map002/events/1/pages/0/2198/Choice/0
+> CONTEXT: Map002/events/1/pages/0/2214/Choice/0
+> CONTEXT: Map002/events/1/pages/0/2255/Choice/0
+> CONTEXT: Map002/events/1/pages/0/2271/Choice/0
+> CONTEXT: Map002/events/1/pages/0/2335/Choice/0
+> CONTEXT: Map002/events/1/pages/0/2351/Choice/0
+> CONTEXT: Map002/events/1/pages/0/2367/Choice/0
+> CONTEXT: Map002/events/1/pages/0/2383/Choice/0
+> CONTEXT: Map002/events/1/pages/0/2397/Choice/0
+> CONTEXT: Map002/events/1/pages/0/2440/Choice/0
+> CONTEXT: Map002/events/1/pages/0/2456/Choice/0
+> CONTEXT: Map002/events/1/pages/0/2497/Choice/0
+> CONTEXT: Map002/events/1/pages/0/2513/Choice/0
+> CONTEXT: Map002/events/1/pages/0/2546/Choice/0
+> CONTEXT: Map002/events/1/pages/0/2562/Choice/0
 > CONTEXT: Map003/events/2/pages/2/46/Choice/0 
 > CONTEXT: Map003/events/2/pages/2/61/Choice/0 
 > CONTEXT: Map003/events/2/pages/2/76/Choice/0 
@@ -472,72 +485,98 @@ She wants you to give her \\$ \\V[11] yen...#Ron
 > CONTEXT: Map377/events/3/pages/2/7/Choice/0
 > CONTEXT: Map377/events/3/pages/3/7/Choice/0
 > CONTEXT: Map377/events/3/pages/4/7/Choice/0
+> CONTEXT: Map377/events/3/pages/5/7/Choice/0
+> CONTEXT: Map383/events/14/pages/1/6/Choice/0
+> CONTEXT: Map389/events/6/pages/2/6/Choice/0
+> CONTEXT: Map398/events/14/pages/1/6/Choice/0
+> CONTEXT: Map404/events/2/pages/2/6/Choice/0
+> CONTEXT: Map404/events/3/pages/4/6/Choice/0
+> CONTEXT: Map404/events/12/pages/0/6/Choice/0
+> CONTEXT: Map404/events/12/pages/2/6/Choice/0
+> CONTEXT: Map404/events/10/pages/0/6/Choice/0
+> CONTEXT: Map404/events/10/pages/2/6/Choice/0
+> CONTEXT: Map404/events/11/pages/0/6/Choice/0
+> CONTEXT: Map404/events/11/pages/2/6/Choice/0
+> CONTEXT: Troops/328/pages/0/146/Choice/0
+> CONTEXT: Troops/328/pages/0/217/Choice/0
 Yes#Dargoth
 > END STRING
 
 > BEGIN STRING
 いいえ
-> CONTEXT: CommonEvents_180/162/Choice/1 
-> CONTEXT: CommonEvents_180/205/Choice/1 
-> CONTEXT: Map002/events/1/pages/0/346/Choice/1
-> CONTEXT: Map002/events/1/pages/0/370/Choice/1
-> CONTEXT: Map002/events/1/pages/0/416/Choice/1
-> CONTEXT: Map002/events/1/pages/0/466/Choice/1
-> CONTEXT: Map002/events/1/pages/0/512/Choice/1
-> CONTEXT: Map002/events/1/pages/0/617/Choice/1
-> CONTEXT: Map002/events/1/pages/0/633/Choice/1
-> CONTEXT: Map002/events/1/pages/0/649/Choice/1
-> CONTEXT: Map002/events/1/pages/0/701/Choice/1
-> CONTEXT: Map002/events/1/pages/0/717/Choice/1
-> CONTEXT: Map002/events/1/pages/0/733/Choice/1 
-> CONTEXT: Map002/events/1/pages/0/752/Choice/1
-> CONTEXT: Map002/events/1/pages/0/796/Choice/1
-> CONTEXT: Map002/events/1/pages/0/812/Choice/1
-> CONTEXT: Map002/events/1/pages/0/864/Choice/1
-> CONTEXT: Map002/events/1/pages/0/880/Choice/1
-> CONTEXT: Map002/events/1/pages/0/896/Choice/1
-> CONTEXT: Map002/events/1/pages/0/944/Choice/1
-> CONTEXT: Map002/events/1/pages/0/960/Choice/1
-> CONTEXT: Map002/events/1/pages/0/1012/Choice/1
-> CONTEXT: Map002/events/1/pages/0/1028/Choice/1
-> CONTEXT: Map002/events/1/pages/0/1053/Choice/1
-> CONTEXT: Map002/events/1/pages/0/1108/Choice/1
-> CONTEXT: Map002/events/1/pages/0/1124/Choice/1
-> CONTEXT: Map002/events/1/pages/0/1140/Choice/1
-> CONTEXT: Map002/events/1/pages/0/1200/Choice/1
-> CONTEXT: Map002/events/1/pages/0/1216/Choice/1
-> CONTEXT: Map002/events/1/pages/0/1232/Choice/1
-> CONTEXT: Map002/events/1/pages/0/1248/Choice/1
-> CONTEXT: Map002/events/1/pages/0/1296/Choice/1
-> CONTEXT: Map002/events/1/pages/0/1312/Choice/1
-> CONTEXT: Map002/events/1/pages/0/1372/Choice/1
-> CONTEXT: Map002/events/1/pages/0/1388/Choice/1
-> CONTEXT: Map002/events/1/pages/0/1404/Choice/1
-> CONTEXT: Map002/events/1/pages/0/1420/Choice/1
-> CONTEXT: Map002/events/1/pages/0/1472/Choice/1
-> CONTEXT: Map002/events/1/pages/0/1504/Choice/1
-> CONTEXT: Map002/events/1/pages/0/1520/Choice/1
-> CONTEXT: Map002/events/1/pages/0/1564/Choice/1
-> CONTEXT: Map002/events/1/pages/0/1596/Choice/1
-> CONTEXT: Map002/events/1/pages/0/1644/Choice/1
-> CONTEXT: Map002/events/1/pages/0/1660/Choice/1
-> CONTEXT: Map002/events/1/pages/0/1696/Choice/1
-> CONTEXT: Map002/events/1/pages/0/1748/Choice/1
-> CONTEXT: Map002/events/1/pages/0/1764/Choice/1
-> CONTEXT: Map002/events/1/pages/0/1780/Choice/1
-> CONTEXT: Map002/events/1/pages/0/1816/Choice/1
-> CONTEXT: Map002/events/1/pages/0/1856/Choice/1
-> CONTEXT: Map002/events/1/pages/0/1900/Choice/1
-> CONTEXT: Map002/events/1/pages/0/1932/Choice/1
-> CONTEXT: Map002/events/1/pages/0/2004/Choice/1
-> CONTEXT: Map002/events/1/pages/0/2020/Choice/1
-> CONTEXT: Map002/events/1/pages/0/2036/Choice/1
-> CONTEXT: Map002/events/1/pages/0/2080/Choice/1
-> CONTEXT: Map002/events/1/pages/0/2112/Choice/1
-> CONTEXT: Map002/events/1/pages/0/2176/Choice/1
-> CONTEXT: Map002/events/1/pages/0/2192/Choice/1
-> CONTEXT: Map002/events/1/pages/0/2233/Choice/1
-> CONTEXT: Map002/events/1/pages/0/2249/Choice/1
+> CONTEXT: CommonEvents_180/174/Choice/1
+> CONTEXT: CommonEvents_180/217/Choice/1
+> CONTEXT: Map002/events/1/pages/0/347/Choice/1
+> CONTEXT: Map002/events/1/pages/0/371/Choice/1
+> CONTEXT: Map002/events/1/pages/0/417/Choice/1
+> CONTEXT: Map002/events/1/pages/0/467/Choice/1
+> CONTEXT: Map002/events/1/pages/0/513/Choice/1
+> CONTEXT: Map002/events/1/pages/0/618/Choice/1
+> CONTEXT: Map002/events/1/pages/0/634/Choice/1
+> CONTEXT: Map002/events/1/pages/0/650/Choice/1
+> CONTEXT: Map002/events/1/pages/0/702/Choice/1
+> CONTEXT: Map002/events/1/pages/0/718/Choice/1
+> CONTEXT: Map002/events/1/pages/0/734/Choice/1
+> CONTEXT: Map002/events/1/pages/0/753/Choice/1
+> CONTEXT: Map002/events/1/pages/0/797/Choice/1
+> CONTEXT: Map002/events/1/pages/0/813/Choice/1
+> CONTEXT: Map002/events/1/pages/0/865/Choice/1
+> CONTEXT: Map002/events/1/pages/0/881/Choice/1
+> CONTEXT: Map002/events/1/pages/0/897/Choice/1
+> CONTEXT: Map002/events/1/pages/0/945/Choice/1
+> CONTEXT: Map002/events/1/pages/0/961/Choice/1
+> CONTEXT: Map002/events/1/pages/0/1013/Choice/1
+> CONTEXT: Map002/events/1/pages/0/1029/Choice/1
+> CONTEXT: Map002/events/1/pages/0/1054/Choice/1
+> CONTEXT: Map002/events/1/pages/0/1109/Choice/1
+> CONTEXT: Map002/events/1/pages/0/1125/Choice/1
+> CONTEXT: Map002/events/1/pages/0/1141/Choice/1
+> CONTEXT: Map002/events/1/pages/0/1201/Choice/1
+> CONTEXT: Map002/events/1/pages/0/1217/Choice/1
+> CONTEXT: Map002/events/1/pages/0/1233/Choice/1
+> CONTEXT: Map002/events/1/pages/0/1249/Choice/1
+> CONTEXT: Map002/events/1/pages/0/1297/Choice/1
+> CONTEXT: Map002/events/1/pages/0/1313/Choice/1
+> CONTEXT: Map002/events/1/pages/0/1373/Choice/1
+> CONTEXT: Map002/events/1/pages/0/1389/Choice/1
+> CONTEXT: Map002/events/1/pages/0/1405/Choice/1
+> CONTEXT: Map002/events/1/pages/0/1421/Choice/1
+> CONTEXT: Map002/events/1/pages/0/1442/Choice/1
+> CONTEXT: Map002/events/1/pages/0/1494/Choice/1
+> CONTEXT: Map002/events/1/pages/0/1526/Choice/1
+> CONTEXT: Map002/events/1/pages/0/1542/Choice/1
+> CONTEXT: Map002/events/1/pages/0/1586/Choice/1
+> CONTEXT: Map002/events/1/pages/0/1618/Choice/1
+> CONTEXT: Map002/events/1/pages/0/1666/Choice/1
+> CONTEXT: Map002/events/1/pages/0/1682/Choice/1
+> CONTEXT: Map002/events/1/pages/0/1718/Choice/1
+> CONTEXT: Map002/events/1/pages/0/1770/Choice/1
+> CONTEXT: Map002/events/1/pages/0/1786/Choice/1
+> CONTEXT: Map002/events/1/pages/0/1802/Choice/1
+> CONTEXT: Map002/events/1/pages/0/1838/Choice/1
+> CONTEXT: Map002/events/1/pages/0/1878/Choice/1
+> CONTEXT: Map002/events/1/pages/0/1922/Choice/1
+> CONTEXT: Map002/events/1/pages/0/1954/Choice/1
+> CONTEXT: Map002/events/1/pages/0/2026/Choice/1
+> CONTEXT: Map002/events/1/pages/0/2042/Choice/1
+> CONTEXT: Map002/events/1/pages/0/2058/Choice/1
+> CONTEXT: Map002/events/1/pages/0/2102/Choice/1
+> CONTEXT: Map002/events/1/pages/0/2134/Choice/1
+> CONTEXT: Map002/events/1/pages/0/2198/Choice/1
+> CONTEXT: Map002/events/1/pages/0/2214/Choice/1
+> CONTEXT: Map002/events/1/pages/0/2255/Choice/1
+> CONTEXT: Map002/events/1/pages/0/2271/Choice/1
+> CONTEXT: Map002/events/1/pages/0/2335/Choice/1
+> CONTEXT: Map002/events/1/pages/0/2351/Choice/1
+> CONTEXT: Map002/events/1/pages/0/2367/Choice/1
+> CONTEXT: Map002/events/1/pages/0/2383/Choice/1
+> CONTEXT: Map002/events/1/pages/0/2397/Choice/1
+> CONTEXT: Map002/events/1/pages/0/2440/Choice/1
+> CONTEXT: Map002/events/1/pages/0/2456/Choice/1
+> CONTEXT: Map002/events/1/pages/0/2497/Choice/1
+> CONTEXT: Map002/events/1/pages/0/2513/Choice/1
+> CONTEXT: Map002/events/1/pages/0/2546/Choice/1
+> CONTEXT: Map002/events/1/pages/0/2562/Choice/1
 > CONTEXT: Map003/events/2/pages/2/46/Choice/1 
 > CONTEXT: Map003/events/2/pages/2/61/Choice/1 
 > CONTEXT: Map003/events/2/pages/2/76/Choice/1 
@@ -864,14 +903,26 @@ Yes#Dargoth
 > CONTEXT: Map377/events/3/pages/2/7/Choice/1
 > CONTEXT: Map377/events/3/pages/3/7/Choice/1
 > CONTEXT: Map377/events/3/pages/4/7/Choice/1
+> CONTEXT: Map377/events/3/pages/5/7/Choice/1
+> CONTEXT: Map383/events/14/pages/1/6/Choice/1
+> CONTEXT: Map389/events/6/pages/2/6/Choice/1
+> CONTEXT: Map398/events/14/pages/1/6/Choice/1
+> CONTEXT: Map404/events/2/pages/2/6/Choice/1
+> CONTEXT: Map404/events/3/pages/4/6/Choice/1
+> CONTEXT: Map404/events/12/pages/0/6/Choice/1
+> CONTEXT: Map404/events/12/pages/2/6/Choice/1
+> CONTEXT: Map404/events/10/pages/0/6/Choice/1
+> CONTEXT: Map404/events/10/pages/2/6/Choice/1
+> CONTEXT: Map404/events/11/pages/0/6/Choice/1
+> CONTEXT: Map404/events/11/pages/2/6/Choice/1
 No#Dargoth
 > END STRING
 
 > BEGIN STRING
 
 悪魔は満足して去って行った…………
-> CONTEXT: CommonEvents_180/169/Dialogue 
-> CONTEXT: CommonEvents_180/210/Dialogue 
+> CONTEXT: CommonEvents_180/181/Dialogue
+> CONTEXT: CommonEvents_180/222/Dialogue
 
 The demon leaves, satisfied...#Ron
 > END STRING
@@ -879,23 +930,23 @@ The demon leaves, satisfied...#Ron
 > BEGIN STRING
 
 \\N[1]は要求された額を持っていなかった……
-> CONTEXT: CommonEvents_180/175/Dialogue 
+> CONTEXT: CommonEvents_180/187/Dialogue
 \\N[1] did not have the requested amount ...#MTLed
 > END STRING
 
 > BEGIN STRING
 
 悪魔は機嫌を損ねてしまったようだ……
-> CONTEXT: CommonEvents_180/180/Dialogue 
-> CONTEXT: CommonEvents_180/189/Dialogue 
-> CONTEXT: CommonEvents_180/218/Dialogue 
+> CONTEXT: CommonEvents_180/192/Dialogue
+> CONTEXT: CommonEvents_180/201/Dialogue
+> CONTEXT: CommonEvents_180/230/Dialogue
 The demon seems offended...#Ron
 > END STRING
 
 > BEGIN STRING
 
 悪魔に精気を捧げますか？
-> CONTEXT: CommonEvents_180/202/Dialogue 
+> CONTEXT: CommonEvents_180/214/Dialogue
 
 Will you give up vitality to the demon?#Ron
 > END STRING
@@ -903,13 +954,13 @@ Will you give up vitality to the demon?#Ron
 > BEGIN STRING
 
 悪魔は、去って行く\\N[1]を見逃してくれた。
-> CONTEXT: CommonEvents_180/229/Dialogue 
+> CONTEXT: CommonEvents_180/241/Dialogue
 The demon missed the passing \\N[1].#MTLed
 > END STRING
 
 > BEGIN STRING
 
 悪魔は\\N[1]に、\\V[11]円を差し出して去って行った。
-> CONTEXT: CommonEvents_180/246/Dialogue 
+> CONTEXT: CommonEvents_180/258/Dialogue
 demon is to \\N[1], \\V[11] I went out by offering a circle.#MTLed
 > END STRING
