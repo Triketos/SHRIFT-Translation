@@ -1987,7 +1987,7 @@ Lampas is about to get away......#Triketos
 > CONTEXT: Troops/298/pages/2/40/Dialogue/enemy
 > CONTEXT: Troops/305/pages/2/40/Dialogue/enemy
 > CONTEXT: Troops/309/pages/2/40/Dialogue/enemy
-nghuh.........! !#MTLed
+Gh...!!#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -2006,7 +2006,7 @@ Lampas (Prisoner)#MTLed
 あはぁ…♡♡
 つかまえたぁ♡美味しそうな養分クン…♡
 > CONTEXT: Troops/21/pages/1/55/Dialogue/enemy
-Ahaah... ♡ ♡ I caught you. ♡ 
+Ahaah... ♡♡ I caught you. ♡ 
 You look so tasty nutrients-kun... ♡#Ron
 > END STRING
 
@@ -14091,7 +14091,9 @@ Mai & Ena (Event)#Triketos
 
 行かせないよ、\\N[1]
 > CONTEXT: Troops/325/pages/0/2/Dialogue/enemy30 < UNTRANSLATED
+......
 
+I won't let you go, Kazuya.
 > END STRING
 
 > BEGIN STRING
@@ -15050,13 +15052,13 @@ Titania (Event Defeat)#Triketos
 
 > BEGIN STRING
 ティターニア【敗北2】
-> CONTEXT: Troops/329/name < UNTRANSLATED
+> CONTEXT: Troops/329/name
 Titania [Defeat 2]
 > END STRING
 
 > BEGIN STRING
 アナオン【通常】
-> CONTEXT: Troops/330/name < UNTRANSLATED
+> CONTEXT: Troops/330/name
 Anaon [Normal]#Triketos
 > END STRING
 
@@ -15065,9 +15067,12 @@ Anaon [Normal]#Triketos
 
 まだピクシーたちに捕まってないニンゲンが
 こんなところを歩き回ってるなんて
-> CONTEXT: Troops/330/pages/1/11/Dialogue/enemy33 < UNTRANSLATED
-> CONTEXT: Troops/331/pages/1/10/Dialogue/enemy33 < UNTRANSLATED
-
+> CONTEXT: Troops/330/pages/1/11/Dialogue/enemy33
+> CONTEXT: Troops/331/pages/1/10/Dialogue/enemy33
+...Oh, that's odd.
+I can't believe there's a human walking around
+in the middle of nowhere that hasn't been
+captured by a bunch of faeries.#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -15075,9 +15080,12 @@ Anaon [Normal]#Triketos
 小さいやつらの相手がイヤで逃げ出してきたの？
 
 よかったら、私が相手をしてあげるわよ…♡
-> CONTEXT: Troops/330/pages/1/16/Dialogue/enemy33 < UNTRANSLATED
-> CONTEXT: Troops/331/pages/1/15/Dialogue/enemy33 < UNTRANSLATED
-
+> CONTEXT: Troops/330/pages/1/16/Dialogue/enemy33
+> CONTEXT: Troops/331/pages/1/15/Dialogue/enemy33
+What's the matter?
+Did you run away because you didn't want to
+deal with the little guys?
+If you want, I can keep you company... ♡#DL
 > END STRING
 
 > BEGIN STRING
@@ -15085,9 +15093,12 @@ Anaon [Normal]#Triketos
 今から自分が『どんな目的で』襲われるのか知ってるのね？
 
 大丈夫、私のはとっても優しいから……♡♡
-> CONTEXT: Troops/330/pages/1/23/Dialogue/enemy33 < UNTRANSLATED
-> CONTEXT: Troops/331/pages/1/22/Dialogue/enemy33 < UNTRANSLATED
-
+> CONTEXT: Troops/330/pages/1/23/Dialogue/enemy33
+> CONTEXT: Troops/331/pages/1/22/Dialogue/enemy33
+Hahaha, that face...♡
+You know what reason you're being attacked for,
+don't you?
+Don't worry, I'm very gentle...♡♡#DL
 > END STRING
 
 > BEGIN STRING
@@ -15095,21 +15106,26 @@ Anaon [Normal]#Triketos
 
 あんまり抵抗したら、その後の扱いは保証しないから
 おとなしく私に『捕食』されなさい……♡♡
-> CONTEXT: Troops/330/pages/1/28/Dialogue/enemy33 < UNTRANSLATED
-> CONTEXT: Troops/331/pages/1/27/Dialogue/enemy33 < UNTRANSLATED
-
+> CONTEXT: Troops/330/pages/1/28/Dialogue/enemy33
+> CONTEXT: Troops/331/pages/1/27/Dialogue/enemy33
+I don't like violence...
+If you resist too much, I can't guarantee how
+you'll be treated afterwards, so be nice and
+let me 'prey' on you... ♡♡#DL
 > END STRING
 
 > BEGIN STRING
 ちっ………
 
 なかなか素直じゃないわね…
-> CONTEXT: Troops/330/pages/2/6/Dialogue/enemy33 < UNTRANSLATED
-> CONTEXT: Troops/331/pages/2/6/Dialogue/enemy33 < UNTRANSLATED
-> CONTEXT: Troops/338/pages/2/6/Dialogue/enemy33 < UNTRANSLATED
-> CONTEXT: Troops/339/pages/2/6/Dialogue/enemy33 < UNTRANSLATED
-> CONTEXT: Troops/340/pages/2/6/Dialogue/enemy33 < UNTRANSLATED
+> CONTEXT: Troops/330/pages/2/6/Dialogue/enemy33
+> CONTEXT: Troops/331/pages/2/6/Dialogue/enemy33
+> CONTEXT: Troops/338/pages/2/6/Dialogue/enemy33
+> CONTEXT: Troops/339/pages/2/6/Dialogue/enemy33
+> CONTEXT: Troops/340/pages/2/6/Dialogue/enemy33
+Tch...
 
+You don't want to play along, do you..#DL 
 > END STRING
 
 > BEGIN STRING
@@ -15117,35 +15133,41 @@ Anaon [Normal]#Triketos
 この辺の森の中は、私のテリトリー…
 
 あなたは、私の巣の中にいるのも同然だもの♡
-> CONTEXT: Troops/330/pages/2/10/Dialogue/enemy33 < UNTRANSLATED
-> CONTEXT: Troops/331/pages/2/10/Dialogue/enemy33 < UNTRANSLATED
-> CONTEXT: Troops/338/pages/2/10/Dialogue/enemy33 < UNTRANSLATED
-> CONTEXT: Troops/339/pages/2/10/Dialogue/enemy33 < UNTRANSLATED
-> CONTEXT: Troops/340/pages/2/10/Dialogue/enemy33 < UNTRANSLATED
+> CONTEXT: Troops/330/pages/2/10/Dialogue/enemy33
+> CONTEXT: Troops/331/pages/2/10/Dialogue/enemy33
+> CONTEXT: Troops/338/pages/2/10/Dialogue/enemy33
+> CONTEXT: Troops/339/pages/2/10/Dialogue/enemy33
+> CONTEXT: Troops/340/pages/2/10/Dialogue/enemy33
+Well, fine...
+The woods around here are my territory...
 
+You're practically in my nest♡#DL
 > END STRING
 
 > BEGIN STRING
 また襲いに来てあげるわ…♡
 
 フフフ…♡
-> CONTEXT: Troops/330/pages/2/15/Dialogue/enemy33 < UNTRANSLATED
-> CONTEXT: Troops/331/pages/2/15/Dialogue/enemy33 < UNTRANSLATED
-> CONTEXT: Troops/338/pages/2/15/Dialogue/enemy33 < UNTRANSLATED
-> CONTEXT: Troops/339/pages/2/15/Dialogue/enemy33 < UNTRANSLATED
-> CONTEXT: Troops/340/pages/2/15/Dialogue/enemy33 < UNTRANSLATED
+> CONTEXT: Troops/330/pages/2/15/Dialogue/enemy33
+> CONTEXT: Troops/331/pages/2/15/Dialogue/enemy33
+> CONTEXT: Troops/338/pages/2/15/Dialogue/enemy33
+> CONTEXT: Troops/339/pages/2/15/Dialogue/enemy33
+> CONTEXT: Troops/340/pages/2/15/Dialogue/enemy33
+I'll come back for you... ♡
 
+Fufufu...♡#DL
 > END STRING
 
 > BEGIN STRING
 戦闘に勝利したことにより
 \\C[2]アナオンに対しての気丈な精神を少し取り戻した…
-> CONTEXT: Troops/330/pages/2/64/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/331/pages/2/64/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/338/pages/2/64/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/339/pages/2/64/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/340/pages/2/64/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/330/pages/2/64/Dialogue
+> CONTEXT: Troops/331/pages/2/64/Dialogue
+> CONTEXT: Troops/338/pages/2/64/Dialogue
+> CONTEXT: Troops/339/pages/2/64/Dialogue
+> CONTEXT: Troops/340/pages/2/64/Dialogue
+By winning the battle, \\C[2]I have reduced some of Anaon's
+corruption...#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -15280,7 +15302,7 @@ Kazuya~♡#DL
 
 > BEGIN STRING
 チェシャ（２戦目）
-> CONTEXT: Troops/334/name < UNTRANSLATED
+> CONTEXT: Troops/334/name
 Cheshire (Round 2)#Triketos
 > END STRING
 
@@ -15289,12 +15311,12 @@ Cheshire (Round 2)#Triketos
 
 そう緊張しなくても大丈夫だよ？
 これは別に戦闘ってワケじゃないんだから。
-> CONTEXT: Troops/334/pages/0/11/Dialogue/enemy29 < UNTRANSLATED
-> CONTEXT: Troops/336/pages/0/12/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Troops/334/pages/0/11/Dialogue/enemy29
+> CONTEXT: Troops/336/pages/0/12/Dialogue/enemy29
 Fufufu, you look like you've made up your mind.
 
 There's no need to be so nervous, okay?
-This isn't really a battle.
+This isn't really a battle.#DL
 > END STRING
 
 > BEGIN STRING
@@ -15302,9 +15324,12 @@ This isn't really a battle.
 \\C[2]３ターンの間は、決して『搾精』したりしない
 
 極端な話、射精を我慢する必要もない
-> CONTEXT: Troops/334/pages/0/16/Dialogue/enemy29 < UNTRANSLATED
-> CONTEXT: Troops/336/pages/0/17/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: Troops/334/pages/0/16/Dialogue/enemy29
+> CONTEXT: Troops/336/pages/0/17/Dialogue/enemy29
+I'm going to start toying with you now, but
+\\C[2]I'm not going to "milk" you for three turns.
+Even if you get close, you won't even have to
+hold back an ejaculation.#DL
 > END STRING
 
 > BEGIN STRING
@@ -15314,7 +15339,10 @@ This isn't really a battle.
 それができれば、キミの勝ちさ♪
 > CONTEXT: Troops/334/pages/0/21/Dialogue/enemy29 < UNTRANSLATED
 > CONTEXT: Troops/336/pages/0/22/Dialogue/enemy29 < UNTRANSLATED
+\\C[2]もし仮に３ターン目に『朦朧』だったとしても
+『やめて』ぐらいなら言えるだろう？
 
+If you can do that, you win♪
 > END STRING
 
 > BEGIN STRING
@@ -15331,9 +15359,10 @@ This isn't really a battle.
 \\N[1]は、チェシャの両手に挟み込まれ
 
 掌だけで完全に抱き包まれてしまった！
-> CONTEXT: Troops/334/pages/0/45/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/336/pages/0/46/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/334/pages/0/45/Dialogue
+> CONTEXT: Troops/336/pages/0/46/Dialogue
+Kazuya is pinned under Cheshire's hands,
+completely wrapped up in her palms alone!#DL
 > END STRING
 
 > BEGIN STRING
@@ -15341,9 +15370,12 @@ This isn't really a battle.
 
 二十代の大事な時期を眠り続けてたんだから
 今後はしっかり食べなくちゃダメだよ？
-> CONTEXT: Troops/334/pages/0/49/Dialogue/enemy29 < UNTRANSLATED
-> CONTEXT: Troops/336/pages/0/50/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: Troops/334/pages/0/49/Dialogue/enemy29
+> CONTEXT: Troops/336/pages/0/50/Dialogue/enemy29
+Wow \\N[1], you're thinner than I thought
+you'd be♪ You've been sleeping through the
+important part of your twenties, so you'll have
+to eat better from now on, right?#DL
 > END STRING
 
 > BEGIN STRING
@@ -15363,7 +15395,7 @@ This isn't really a battle.
 \\C[0]普段のクセが出ちゃったんだろうけど…
 > CONTEXT: Troops/334/pages/1/1/Dialogue/enemy29 < UNTRANSLATED
 > CONTEXT: Troops/334/pages/2/1/Dialogue/enemy29 < UNTRANSLATED
-> CONTEXT: Troops/334/pages/3/1/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Troops/334/pages/3/3/Dialogue/enemy29 < UNTRANSLATED
 > CONTEXT: Troops/336/pages/1/1/Dialogue/enemy29 < UNTRANSLATED
 > CONTEXT: Troops/336/pages/2/1/Dialogue/enemy29 < UNTRANSLATED
 > CONTEXT: Troops/336/pages/3/1/Dialogue/enemy29 < UNTRANSLATED
@@ -15372,13 +15404,13 @@ This isn't really a battle.
 
 > BEGIN STRING
 でもまぁ、ボクには関係ないんですけどねぇ♡
-> CONTEXT: Troops/334/pages/1/6/Dialogue/enemy29 < UNTRANSLATED
-> CONTEXT: Troops/334/pages/2/6/Dialogue/enemy29 < UNTRANSLATED
-> CONTEXT: Troops/334/pages/3/6/Dialogue/enemy29 < UNTRANSLATED
-> CONTEXT: Troops/336/pages/1/6/Dialogue/enemy29 < UNTRANSLATED
-> CONTEXT: Troops/336/pages/2/6/Dialogue/enemy29 < UNTRANSLATED
-> CONTEXT: Troops/336/pages/3/6/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: Troops/334/pages/1/6/Dialogue/enemy29
+> CONTEXT: Troops/334/pages/2/6/Dialogue/enemy29
+> CONTEXT: Troops/334/pages/3/8/Dialogue/enemy29
+> CONTEXT: Troops/336/pages/1/6/Dialogue/enemy29
+> CONTEXT: Troops/336/pages/2/6/Dialogue/enemy29
+> CONTEXT: Troops/336/pages/3/6/Dialogue/enemy29
+But, it doesn't matter to me~♡#DL
 > END STRING
 
 > BEGIN STRING
@@ -15404,43 +15436,51 @@ This isn't really a battle.
 はぁっ………♡
 
 はあっ………♡
-> CONTEXT: Troops/334/pages/1/27/Dialogue/kazuya-0 < UNTRANSLATED
-> CONTEXT: Troops/336/pages/1/27/Dialogue/kazuya-0 < UNTRANSLATED
+> CONTEXT: Troops/334/pages/1/27/Dialogue/kazuya-0
+> CONTEXT: Troops/336/pages/1/27/Dialogue/kazuya-0
+Hahh...♡
 
+Hahh...♡#DL
 > END STRING
 
 > BEGIN STRING
 さぁ…大分ほぐれてきたみたいだね♪
 
 身体に力が入らなくなってきたかな？
-> CONTEXT: Troops/334/pages/1/31/Dialogue/enemy29 < UNTRANSLATED
-> CONTEXT: Troops/336/pages/1/31/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Troops/334/pages/1/31/Dialogue/enemy29
+> CONTEXT: Troops/336/pages/1/31/Dialogue/enemy29
+Well.... You're loosening up a lot, aren't you♪
 
+Are you starting to relax a little bit?#DL
 > END STRING
 
 > BEGIN STRING
 そんなに強張らなくても大丈夫だよ♡
 
 不意打ちで襲ったりしないってぇ♪
-> CONTEXT: Troops/334/pages/1/35/Dialogue/enemy29 < UNTRANSLATED
-> CONTEXT: Troops/336/pages/1/35/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Troops/334/pages/1/35/Dialogue/enemy29
+> CONTEXT: Troops/336/pages/1/35/Dialogue/enemy29
+You don't have to be so tough♡
 
+I'm not gonna attack you by surprise♪#DL
 > END STRING
 
 > BEGIN STRING
 それじゃあ……
 
 そろそろ、ハグしちゃおっかなぁ…♡
-> CONTEXT: Troops/334/pages/1/39/Dialogue/enemy29 < UNTRANSLATED
-> CONTEXT: Troops/336/pages/1/39/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Troops/334/pages/1/39/Dialogue/enemy29
+> CONTEXT: Troops/336/pages/1/39/Dialogue/enemy29
+Well then.....
 
+I guess you're ready for a hug...♡#DL
 > END STRING
 
 > BEGIN STRING
 \\N[1]は、チェシャに抱きしめられてしまった！！
-> CONTEXT: Troops/334/pages/1/56/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/336/pages/1/56/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/334/pages/1/56/Dialogue
+> CONTEXT: Troops/336/pages/1/56/Dialogue
+\\N[1] was embraced by Cheshire!!#DL
 > END STRING
 
 > BEGIN STRING
@@ -15478,7 +15518,9 @@ This isn't really a battle.
 ボクの温もりを感じてよ♡
 > CONTEXT: Troops/334/pages/1/95/Dialogue/enemy29 < UNTRANSLATED
 > CONTEXT: Troops/336/pages/1/95/Dialogue/enemy29 < UNTRANSLATED
+\\N[1], enjoy the next two turns♡
 
+Feel my warmth♡
 > END STRING
 
 > BEGIN STRING
@@ -15532,18 +15574,21 @@ This isn't really a battle.
 それじゃあ……♡
 
 そろそろ、メインといきますかぁ……♡
-> CONTEXT: Troops/334/pages/2/40/Dialogue/enemy29 < UNTRANSLATED
-> CONTEXT: Troops/336/pages/2/40/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Troops/334/pages/2/40/Dialogue/enemy29
+> CONTEXT: Troops/336/pages/2/40/Dialogue/enemy29
+Well then... ♡
 
+Now, let's get to the main course...... ♡#DL
 > END STRING
 
 > BEGIN STRING
 \\N[1]は、チェシャに押し倒され
 
 下半身に組み付かれてしまった！！
-> CONTEXT: Troops/334/pages/2/57/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/336/pages/2/57/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/334/pages/2/57/Dialogue
+> CONTEXT: Troops/336/pages/2/57/Dialogue
+\\N[1] has been shoved to the ground by Cheshire,
+and his lower half has been pinned down!#DL
 > END STRING
 
 > BEGIN STRING
@@ -15581,9 +15626,12 @@ This isn't really a battle.
 
 ボクに好き勝手されるのも、もう少しで終わりだよ♡
 気をしっかりもって♪
-> CONTEXT: Troops/334/pages/2/103/Dialogue/enemy29 < UNTRANSLATED
-> CONTEXT: Troops/336/pages/2/103/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Troops/334/pages/2/103/Dialogue/enemy29
+> CONTEXT: Troops/336/pages/2/103/Dialogue/enemy29
+\\N[1]-kun, look, look, one more turn♡
 
+You're almost done letting me have my way
+with you♡ Just stay strong♪#DL
 > END STRING
 
 > BEGIN STRING
@@ -15591,9 +15639,12 @@ This isn't really a battle.
 まさか本当にぶっかけてくれるなんて♡♡
 
 \\N[1]くんは優しいなぁ♡
-> CONTEXT: Troops/334/pages/3/19/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Troops/334/pages/3/21/Dialogue/enemy29 < UNTRANSLATED
 > CONTEXT: Troops/336/pages/3/19/Dialogue/enemy29 < UNTRANSLATED
+Ahaha♡
+I can't believe you actually spurted it on me♡♡
 
+\\N[1]'s so sweet♡#DL
 > END STRING
 
 > BEGIN STRING
@@ -15601,7 +15652,7 @@ This isn't really a battle.
 マッサージの成果か、萎える気配もなさそうだ…♡
 
 楽しいなぁ♡
-> CONTEXT: Troops/334/pages/3/24/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Troops/334/pages/3/26/Dialogue/enemy29 < UNTRANSLATED
 > CONTEXT: Troops/336/pages/3/24/Dialogue/enemy29 < UNTRANSLATED
 
 > END STRING
@@ -15610,7 +15661,7 @@ This isn't really a battle.
 はぁっ……
 
 はぁっ……
-> CONTEXT: Troops/334/pages/3/36/Dialogue/kazuya-0 < UNTRANSLATED
+> CONTEXT: Troops/334/pages/3/38/Dialogue/kazuya-0 < UNTRANSLATED
 > CONTEXT: Troops/336/pages/3/36/Dialogue/kazuya-0 < UNTRANSLATED
 
 > END STRING
@@ -15620,7 +15671,7 @@ This isn't really a battle.
 \\C[2]チェシャの要求した時間に達したはずだ……\\C[0]
 
 いやらしいチェシャの手の動きが、ピタリと止まる…
-> CONTEXT: Troops/334/pages/3/40/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/334/pages/3/42/Dialogue < UNTRANSLATED
 > CONTEXT: Troops/336/pages/3/40/Dialogue < UNTRANSLATED
 
 > END STRING
@@ -15630,7 +15681,7 @@ This isn't really a battle.
 反応が可愛くて、ついついテンション上げちゃうなぁ♡
 
 普通の人間なら壊れるレベルだから、なおさらね♡
-> CONTEXT: Troops/334/pages/3/45/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Troops/334/pages/3/47/Dialogue/enemy29 < UNTRANSLATED
 > CONTEXT: Troops/336/pages/3/45/Dialogue/enemy29 < UNTRANSLATED
 
 > END STRING
@@ -15639,9 +15690,11 @@ This isn't really a battle.
 でも、約束は約束だからね…
 
 ボクが好き勝手出来るのはここまで……
-> CONTEXT: Troops/334/pages/3/52/Dialogue/enemy29 < UNTRANSLATED
-> CONTEXT: Troops/336/pages/3/52/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Troops/334/pages/3/54/Dialogue/enemy29
+> CONTEXT: Troops/336/pages/3/52/Dialogue/enemy29
+But a promise is a promise...
 
+It's the end of my playtime with you...#DL
 > END STRING
 
 > BEGIN STRING
@@ -15649,9 +15702,12 @@ This isn't really a battle.
 
 ボクは即座にキミを離して
 キミは先に進めるようになる…
-> CONTEXT: Troops/334/pages/3/56/Dialogue/enemy29 < UNTRANSLATED
-> CONTEXT: Troops/336/pages/3/56/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Troops/334/pages/3/58/Dialogue/enemy29
+> CONTEXT: Troops/336/pages/3/56/Dialogue/enemy29
+You say, "Stop," and it's over.
 
+I'll let you go immediately.
+You'll be able to move on...#DL
 > END STRING
 
 > BEGIN STRING
@@ -15659,27 +15715,30 @@ This isn't really a battle.
 
 このままボクにフェラされちゃうのってどお？♡
 いっぱい気持ちよくしてあげるから♡
-> CONTEXT: Troops/334/pages/3/64/Dialogue/enemy29 < UNTRANSLATED
-> CONTEXT: Troops/336/pages/3/64/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: Troops/334/pages/3/66/Dialogue/enemy29
+> CONTEXT: Troops/336/pages/3/64/Dialogue/enemy29
+...Well, I'll tell you what...♡
+How would you like it if I just sucked
+your dick? ♡
+I'll make you feel so much better.♡#DL
 > END STRING
 
 > BEGIN STRING
 『やめて』と言う
-> CONTEXT: Troops/334/pages/3/73/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Troops/334/pages/3/75/Choice/0
+Say "Stop"#Triketos
 > END STRING
 
 > BEGIN STRING
 『やめないで』と言う
-> CONTEXT: Troops/334/pages/3/73/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Troops/334/pages/3/75/Choice/1
+Say "Don't stop"#Triketos
 > END STRING
 
 > BEGIN STRING
 や、やめ…
-> CONTEXT: Troops/334/pages/3/75/Dialogue/kazuya-0 < UNTRANSLATED
-
+> CONTEXT: Troops/334/pages/3/77/Dialogue/kazuya-0
+S-sto...#DL
 > END STRING
 
 > BEGIN STRING
@@ -15687,8 +15746,11 @@ This isn't really a battle.
 
 このまま抜け出せば、\\C[10]ボクの【フェラ搾精】は、
 敗北回想に載らないよ？
-> CONTEXT: Troops/334/pages/3/77/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Troops/334/pages/3/79/Dialogue/enemy29
+Fufufu, is that really a good idea?
 
+If you get out of this, \\C[10]my [Blowjob]
+won't be in the Loss Scenes, alright?#DL
 > END STRING
 
 > BEGIN STRING
@@ -15696,36 +15758,44 @@ This isn't really a battle.
 全書にだって載らないし、想ひ魂も存在しない。
 
 \\C[10]ここで見逃したら、項目自体が存在しなくなる。
-> CONTEXT: Troops/334/pages/3/82/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: Troops/334/pages/3/84/Dialogue/enemy29
+\\C[2]I'm a demon that isn't supposed to be here, not
+even in the Compendium, and my soul doesn't exist.
+\\C[10]If you miss it here, the entry will cease
+to exist.#DL
 > END STRING
 
 > BEGIN STRING
 でももしこの場でボクのフェラを受けて負けてくれるなら…
 
 ボクが特別に載せてあげる♪
-> CONTEXT: Troops/334/pages/3/87/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Troops/334/pages/3/89/Dialogue/enemy29
+But if you're willing to give in to my blowjob
+and lose...
 
+I'll give you a special look at it♪#DL
 > END STRING
 
 > BEGIN STRING
 どうする？
 
 それでも、ボクのフェラをやめて欲しいの？
-> CONTEXT: Troops/334/pages/3/95/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Troops/334/pages/3/97/Dialogue/enemy29
+What do you do?
 
+Do you still want me to stop sucking your dick?#DL
 > END STRING
 
 > BEGIN STRING
 やめて
-> CONTEXT: Troops/334/pages/3/99/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Troops/334/pages/3/101/Choice/0
+Stop#Triketos
 > END STRING
 
 > BEGIN STRING
 やめないで
-> CONTEXT: Troops/334/pages/3/99/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Troops/334/pages/3/101/Choice/1
+Don't stop#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -15760,8 +15830,8 @@ This isn't really a battle.
 
 > BEGIN STRING
 アナオン【敗北2】
-> CONTEXT: Troops/340/name < UNTRANSLATED
-
+> CONTEXT: Troops/340/name
+Anaon[Defeat 2]#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -15819,15 +15889,15 @@ This isn't really a battle.
 
 > BEGIN STRING
 マイ【通常】
-> CONTEXT: Troops/344/name < UNTRANSLATED
-
+> CONTEXT: Troops/344/name
+Mai[Normal]#Triketos
 > END STRING
 
 > BEGIN STRING
 
 『行動』に\\C[2]『集中する』\\C[0]が追加されました。
-> CONTEXT: Troops/344/pages/1/16/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/344/pages/1/16/Dialogue
+\\C[2]"Focus"\\C[0] has been added to "Actions".#Triketos
 > END STRING
 
 > BEGIN STRING

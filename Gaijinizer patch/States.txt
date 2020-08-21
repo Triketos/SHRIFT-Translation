@@ -223,6 +223,7 @@ Milking Position#Dargoth
 > CONTEXT: States/145/message4
 > CONTEXT: States/202/message4
 > CONTEXT: States/206/message4
+> CONTEXT: States/215/message4
  manages to get free!#Dargoth
 > END STRING
 
@@ -338,6 +339,7 @@ Naked#Dargoth
 > CONTEXT: States/19/name
 > CONTEXT: States/143/name
 > CONTEXT: States/206/name
+> CONTEXT: States/215/name
 Bound (Body)#Dargoth
 > END STRING
 
@@ -347,6 +349,7 @@ Bound (Body)#Dargoth
 > CONTEXT: States/143/message1
 > CONTEXT: States/202/message1
 > CONTEXT: States/206/message1
+> CONTEXT: States/215/message1
  is being restrained!#Dargoth
 > END STRING
 
@@ -356,6 +359,7 @@ Bound (Body)#Dargoth
 > CONTEXT: States/143/message3
 > CONTEXT: States/202/message3
 > CONTEXT: States/206/message3
+> CONTEXT: States/215/message3
  is still restrained by his opponent...#Dargoth
 > END STRING
 
@@ -1487,6 +1491,12 @@ Intelligence Loss 5#afrg
 > END STRING
 
 > BEGIN STRING
+会話中
+> CONTEXT: States/156/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
 攻撃力アップEX
 > CONTEXT: States/160/name
 Attack Up EX#afrg
@@ -1717,5 +1727,65 @@ Lower Body Swarm#Triketos
 > BEGIN STRING
 攻撃できない
 > CONTEXT: States/207/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+夢の中（妲己専用）
+> CONTEXT: States/208/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+夢の中（ビースト）
+> CONTEXT: States/209/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+夢の中（ジェル）
+> CONTEXT: States/210/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+夢の中（アルラウネ）
+> CONTEXT: States/211/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+夢の中（ノーマル）
+> CONTEXT: States/212/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+夢の中（アイドル）
+> CONTEXT: States/213/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+夢の中（1ターン）
+> CONTEXT: States/214/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+抵抗ナシ
+> CONTEXT: States/216/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+マイちゃん専用
+> CONTEXT: States/217/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+マイちゃん専用（解除用）
+> CONTEXT: States/218/name < UNTRANSLATED
 
 > END STRING

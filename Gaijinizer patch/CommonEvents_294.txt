@@ -72,6 +72,8 @@ Struggle Desperately#Ron
 > CONTEXT: Map105/events/17/pages/0/10/Choice/1 
 > CONTEXT: Map117/events/8/pages/0/4/Choice/1 
 > CONTEXT: Map118/events/11/pages/0/21/Choice/0 
+> CONTEXT: Map118/events/20/pages/0/3/Choice/1
+> CONTEXT: Map118/events/20/pages/1/3/Choice/1
 > CONTEXT: Map123/events/5/pages/0/3/Choice/1 
 > CONTEXT: Map123/events/8/pages/0/4/Choice/1 
 > CONTEXT: Map130/events/3/pages/0/10/Choice/1 
@@ -112,6 +114,12 @@ Struggle Desperately#Ron
 > CONTEXT: Map304/events/5/pages/1/3/Choice/1 
 > CONTEXT: Map304/events/5/pages/2/3/Choice/1 
 > CONTEXT: Map304/events/8/pages/0/4/Choice/1 
+> CONTEXT: Map374/events/5/pages/1/4/Choice/0
+> CONTEXT: Map374/events/5/pages/2/4/Choice/0
+> CONTEXT: Map378/events/1/pages/0/3/Choice/1
+> CONTEXT: Map394/events/5/pages/0/16/Choice/1
+> CONTEXT: Map394/events/5/pages/1/4/Choice/1
+> CONTEXT: Map404/events/6/pages/0/4/Choice/1
 Do Nothing#Ron
 > END STRING
 
@@ -230,8 +238,12 @@ And you chose the worst one...!#Ron
 > CONTEXT: CommonEvents_294/108/Dialogue/kazuya-0
 > CONTEXT: CommonEvents_407/11/Dialogue/kazuya-0
 > CONTEXT: CommonEvents_413/15/Dialogue/kazuya-0
+> CONTEXT: CommonEvents_643/11/Dialogue/kazuya-0
+> CONTEXT: CommonEvents_646/187/Dialogue/kazuya-0
 > CONTEXT: Troops/185/pages/0/78/Dialogue/kazuya-0
 > CONTEXT: Troops/206/pages/0/27/Dialogue/kazuya-0
+> CONTEXT: Troops/319/pages/0/35/Dialogue/kazuya-0
+> CONTEXT: Troops/320/pages/1/20/Dialogue/kazuya-0
 Ah... Aah...#Ron
 > END STRING
 
@@ -258,6 +270,7 @@ Pathetically beg me to spare your life...!!#Ron
 > BEGIN STRING
 泣き叫ぶ
 > CONTEXT: CommonEvents_294/191/Choice/0
+> CONTEXT: Skills/71/name
 Cry Out#Ron
 > END STRING
 

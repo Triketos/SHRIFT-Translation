@@ -1,0 +1,369 @@
+﻿> GAIJINIZER PATCH FILE
+> BEGIN STRING
+あら………？
+あなた、まだこんなところにいたの？
+
+もしかして、迷っちゃったのかしら……？
+> CONTEXT: CommonEvents_680/0/Dialogue/enemy33
+Oh....?
+You're still here?
+
+I don't know, maybe you got lost...?#DL
+> END STRING
+
+> BEGIN STRING
+フフフッ、恥ずかしがらなくていいのよ♡
+この森は、ホントに面倒な構造をしてるからね
+
+迷っちゃうのも無理はないわ
+> CONTEXT: CommonEvents_680/5/Dialogue/enemy33
+Fufufu, you don't have to be shy.♡
+This forest is a really tricky place.
+
+I'm sure you're understandably confused.#DL
+> END STRING
+
+> BEGIN STRING
+そうねぇ……♡
+
+それじゃニンゲンくん、
+おねえさんと、ちょっとした『取引』しない？
+> CONTEXT: CommonEvents_680/11/Dialogue/enemy33
+Well..... ♡
+
+All right, human. Would you like to make a little
+'deal' with your onee-san?#DL
+> END STRING
+
+> BEGIN STRING
+\\C[2]もし、あなたがこれ以上の謎解きがイヤなら
+私が広間の前まで、あなたを連れていってあげる。\\C[0]
+
+どうせ、そこが目的地なんでしょう？
+> CONTEXT: CommonEvents_680/16/Dialogue/enemy33
+\\C[2]If you don't want to solve any more riddles
+I'll bring you to the front of the hall.\\C[0]
+
+That's where you're headed anyway, right?#DL
+> END STRING
+
+> BEGIN STRING
+その代わり、私のあなたの『運び方』については
+一切文句を言わず、従うこと……
+
+大丈夫、搾精しながらとか、そういうのじゃないから♡
+> CONTEXT: CommonEvents_680/21/Dialogue/enemy33 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さぁ、どうする？
+
+もし本当に迷ってるんだったら尚更
+そこまで悪い条件じゃないとおもうけど？
+> CONTEXT: CommonEvents_680/28/Dialogue/enemy33
+So, what's the plan?
+
+If you're really on the fence, then I'm guessing
+it's not such a bad deal.#DL
+> END STRING
+
+> BEGIN STRING
+断る
+> CONTEXT: CommonEvents_680/33/Choice/0
+> CONTEXT: CommonEvents_680/151/Choice/0
+> CONTEXT: Map107/events/86/pages/1/41/Choice/1
+> CONTEXT: Map107/events/7/pages/1/41/Choice/1
+> CONTEXT: Map400/events/2/pages/0/142/Choice/0
+Refuse#DL
+> END STRING
+
+> BEGIN STRING
+お願いする
+> CONTEXT: CommonEvents_680/33/Choice/1
+Please#DL
+> END STRING
+
+> BEGIN STRING
+…………あっそ。
+
+それじゃあ、この話はナシね。
+> CONTEXT: CommonEvents_680/35/Dialogue/enemy33
+......Okay.
+
+So I guess we'll just skip it then.#DL
+> END STRING
+
+> BEGIN STRING
+アナオンは機嫌を損ねてしまったようだ……
+> CONTEXT: CommonEvents_680/39/Dialogue
+Anaon seems to be in a bad mood...#DL
+> END STRING
+
+> BEGIN STRING
+そうそう♡
+ニンゲンは素直なときが一番カワイイわよ♡
+
+おねえさんに任せなさい♡
+> CONTEXT: CommonEvents_680/44/Dialogue/enemy33
+Oh yeah♡
+Humans are cute when they're honest♡
+
+Let your big sister handle it...♡#DL
+> END STRING
+
+> BEGIN STRING
+さぁ、はやくこっちに来て………♡♡
+
+広場の近くまで、運んでいってあげる♡
+> CONTEXT: CommonEvents_680/49/Dialogue/enemy33
+Now, hurry up and come over here... ♡♡
+
+I'll carry you out to the square and see
+if I can get you there♡#DL
+> END STRING
+
+> BEGIN STRING
+………………ちょっと、なに背中に乗ろうとしてるの？
+> CONTEXT: CommonEvents_680/57/Dialogue/enemy33
+......Hey, why are you trying to get on my back?#DL
+> END STRING
+
+> BEGIN STRING
+えっ……？
+> CONTEXT: CommonEvents_680/59/Dialogue/kazuya
+> CONTEXT: Map120/events/5/pages/1/28/Dialogue/kazuya
+Eh...?#Triketos
+> END STRING
+
+> BEGIN STRING
+妖精もニンゲンも、みんな勘違いして乗りたがるけど
+そこ、見た目よりも不安定だからね。
+
+走り出したら、まっさきに落ちちゃうから
+> CONTEXT: CommonEvents_680/61/Dialogue/enemy33
+All the fairies and nymphs want to ride the wrong
+way. It's not as stable as it looks.
+
+If I start running, you'll fall off right away.#DL
+> END STRING
+
+> BEGIN STRING
+ほら……♡
+
+あなたが乗る場所は、こ・こ♡♡
+> CONTEXT: CommonEvents_680/67/Dialogue/enemy33
+Come...♡
+
+The place you ride is here...♡♡#DL
+> END STRING
+
+> BEGIN STRING
+っ……？！
+> CONTEXT: CommonEvents_680/74/Dialogue/kazuya-0
+...?!#DL
+> END STRING
+
+> BEGIN STRING
+\\N[1]は、アナオンの上半身部分に
+
+腰から抱きかかえられるように、身体を引き寄せられた
+> CONTEXT: CommonEvents_680/76/Dialogue
+\\N[1] is trying to reach the top half of Anaon's body.
+
+She pulled him closer to her body so that she could hold
+him around her waist.#DL
+> END STRING
+
+> BEGIN STRING
+あら、どうしたの？
+顔を赤らめちゃったりして………♡
+
+フフフッ、照れなくてもいいのよ♡
+> CONTEXT: CommonEvents_680/80/Dialogue/enemy33
+Hey, what's going on?
+You're blushing... ♡
+
+Fufu, you don't have to be shy♡#DL
+> END STRING
+
+> BEGIN STRING
+さぁ、私の身体に好きなようにしがみついてて？
+
+目的地までは、ちょっと道が険しいわよ。
+> CONTEXT: CommonEvents_680/87/Dialogue/enemy33
+Now, will you hold on to my body as you please?
+
+The path to your destination is a bit rough.#DL
+> END STRING
+
+> BEGIN STRING
+あまり密着せず、目を瞑る
+> CONTEXT: CommonEvents_680/91/Choice/0
+Keep away and shut your eyes#DL
+> END STRING
+
+> BEGIN STRING
+思いきり胸に頭を埋める
+> CONTEXT: CommonEvents_680/91/Choice/1
+Bury your face in her chest#DL
+> END STRING
+
+> BEGIN STRING
+…………あら、目を瞑ると更にカワイイ顔♡
+
+完全におねえさんの好みだわ♡
+> CONTEXT: CommonEvents_680/95/Dialogue/enemy33
+...Ooh, it's an even cuter face when you shut
+your eyes♡
+
+Your big sister loves it♡#DL
+> END STRING
+
+> BEGIN STRING
+アナオンは\\N[1]の顔面に
+
+軽く何度もキスをしている……
+> CONTEXT: CommonEvents_680/105/Dialogue
+Anaon kisses \\N[1]'s face lightly and repeatedly...#DL
+> END STRING
+
+> BEGIN STRING
+約束を急かす
+> CONTEXT: CommonEvents_680/109/Choice/1
+Hurry her up#DL
+> END STRING
+
+> BEGIN STRING
+ふふ……ごちそうさま♡
+
+運賃としては、大満足の料金よ♡♡
+> CONTEXT: CommonEvents_680/113/Dialogue/enemy33
+Fufu... Thanks for the meal♡
+
+As far as fares go, it's a very reasonable
+price♡♡#DL
+> END STRING
+
+> BEGIN STRING
+あら、ごめんなさいね
+私ったら、つい我を忘れて……
+
+約束は、約束ですもの
+> CONTEXT: CommonEvents_680/119/Dialogue/enemy33
+Oh I'm sorry, I got carried away...
+
+A promise is a promise, after all.#DL
+> END STRING
+
+> BEGIN STRING
+あらあら♡大胆なコねぇ♡♡
+
+確かにそこなら、どんなに揺れても大丈夫だけど
+ちゃんと着くまで耐えられるのかしら…？♡
+> CONTEXT: CommonEvents_680/128/Dialogue/enemy33
+Ooh♡ Aren't you a bold one...♡♡
+Sure, it's safe there no matter how much I shake,
+but will you be able to endure it until we get
+there properly...? ♡#DL
+> END STRING
+
+> BEGIN STRING
+ほぉら♡♡ほぉら♡
+
+こんな柔らかいおっぱいに揉みしだかれて
+イかずにいられるのかしら？♡
+> CONTEXT: CommonEvents_680/134/Dialogue/enemy33
+Come~♡♡ come...♡
+
+How can you not cum from being squeezed
+by such soft tits? ♡#DL
+> END STRING
+
+> BEGIN STRING
+フフフッ♡
+
+欲望に忠実な、カワイイぼうやには
+出発前にサービスしちゃおうかしら♡
+> CONTEXT: CommonEvents_680/139/Dialogue/enemy33
+Fufufu♡
+
+Maybe I'll have to serve my cute, lustful
+kid before I leave♡#DL
+> END STRING
+
+> BEGIN STRING
+あなたが望むなら、授乳手コキで一発ヌいてあげる♡
+
+どう、興味あるかしら？♡
+> CONTEXT: CommonEvents_680/147/Dialogue/enemy33
+If you want, I can give you a breastfeeding
+hand job♡ What do you think?
+
+Would you be interested in that?♡#DL
+> END STRING
+
+> BEGIN STRING
+しゃぶりつく
+> CONTEXT: CommonEvents_680/151/Choice/1
+Take a suck#DL
+> END STRING
+
+> BEGIN STRING
+あら？本当に？
+貴方の身体はそうは思ってないみたいだけど…
+
+ふふふ…じゃあ仕方ないわね…♡
+> CONTEXT: CommonEvents_680/153/Dialogue/enemy33 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…………はい、着いたわよ。
+
+もう目を開けていいわ
+> CONTEXT: CommonEvents_680/168/Dialogue/enemy33
+....Yes, we're here.
+
+You can open your eyes now.#DL
+> END STRING
+
+> BEGIN STRING
+…………なによ、約束は守ったじゃない。
+
+何もなければないで不満なの？
+ニンゲンってめんどくさい生き物ね……
+> CONTEXT: CommonEvents_680/173/Dialogue/enemy33
+What's the matter? I kept my promise.
+
+So you're complaining that you have nothing to show for it?
+Humans are such complicated creatures.#DL
+> END STRING
+
+> BEGIN STRING
+………でもまぁ、
+貴方に私のニオイはいっぱい付けたかしらね♡
+
+獲物を見分けるための、甘ーいニオイを…♡
+> CONTEXT: CommonEvents_680/178/Dialogue/enemy33
+But, well, you know.
+I'm sure I've given you a lot of my scent, ♡
+
+A sweet smell to identify my prey... ♡#DL
+> END STRING
+
+> BEGIN STRING
+貴方は、また会うことになるわ…♡
+
+必ずね…♡
+> CONTEXT: CommonEvents_680/183/Dialogue/enemy33
+I'll see you again...♡
+
+I promise♡#DL
+> END STRING
+
+> BEGIN STRING
+アナオンは立ち去っていった……
+> CONTEXT: CommonEvents_680/191/Dialogue
+Anaon walked away...#DL
+> END STRING
