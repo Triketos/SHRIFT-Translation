@@ -1644,25 +1644,25 @@ Daijiif(v[34] \>= 1)#MTLed
 通常フォーム
 > CONTEXT: Map003/events/1/pages/2/455/Choice/0
 > CONTEXT: Map094/events/13/pages/0/6/Choice/0
-Normal form#MTLed
+Normal Form#Ron
 > END STRING
 
 > BEGIN STRING
 アルラウネ・フォーム　if(s[476])
 > CONTEXT: Map003/events/1/pages/2/455/Choice/1
-alraune formif(s[476])#MTLed
+Alraune Formif(s[476])#Ron
 > END STRING
 
 > BEGIN STRING
 ビースト・フォーム　if(s[479])
 > CONTEXT: Map003/events/1/pages/2/455/Choice/2
-beast formif(s[479])#MTLed
+Beast Formif(s[479])#Ron
 > END STRING
 
 > BEGIN STRING
 ジェル・フォーム　if(s[521])
 > CONTEXT: Map003/events/1/pages/2/455/Choice/3
-gel formif(s[521])#MTLed
+Gel Formif(s[521])#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1671,9 +1671,9 @@ gel formif(s[521])#MTLed
 様々な用途で仕掛けてくる強敵だ。
 > CONTEXT: Map003/events/1/pages/2/457/Dialogue/クッション君
 > CONTEXT: Map094/events/13/pages/0/8/Dialogue/クッション君
-Dacchi, Danger Attack of the demon you have ever
-encountered. It is a strong enemy that works in
-various applications.#MTLed
+Daiji is a powerful enemy who can use all kinds
+of dangerous attacks you've seen from the demons
+you've encountered so far.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1683,10 +1683,9 @@ various applications.#MTLed
 そして、尻尾による手足の拘束。
 > CONTEXT: Map003/events/1/pages/2/461/Dialogue/クッション君
 > CONTEXT: Map094/events/13/pages/0/12/Dialogue/クッション君
-The dangers that normal forms of ducks use ...
-\\C[2]Arachne's "magic eyes". Mukuro's "Sports" and
-"Time Stop". And the bound of the limbs by the
-tail.#MTLed
+Her normal form can use \\C[2]Arachne's "Magic Eyes",
+Mukuro's "Temptation" and "Time Stop" abilities,
+and can bind your hands and feet with her tails.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1695,9 +1694,10 @@ tail.#MTLed
  尻尾も一応、シルフストームである程度無力化できる。
 > CONTEXT: Map003/events/1/pages/2/466/Dialogue/クッション君
 > CONTEXT: Map094/events/13/pages/0/17/Dialogue/クッション君
-"Time Stop" is the same as Mukuro's time, and you
-can "defend" it. The tail can also be neutralized
-to some extent by Sylph Storm.#MTLed
+You can protect against "Time Stop" like you did
+in your fight with Mukuro by using "Defend". Her
+tail attacks can also be neutralized to an extent
+by using Sylph Storm.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1706,9 +1706,9 @@ to some extent by Sylph Storm.#MTLed
  相手との距離が離れるまで、決して油断するな。
 > CONTEXT: Map003/events/1/pages/2/470/Dialogue/クッション君
 > CONTEXT: Map094/events/13/pages/0/21/Dialogue/クッション君
-\\C[2]But watch out for the "magic eyes" right after
-the "mustards". Don't be off guard until your
-opponent is away.#MTLed
+\\C[2]But watch out for her "Magic Eyes" straight
+after she tries to tempt you. Stay on guard until
+she moves away from you.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1717,9 +1717,9 @@ opponent is away.#MTLed
 だから耐性も、属性の魔法攻撃はほとんど効かない。
 > CONTEXT: Map003/events/1/pages/2/474/Dialogue/クッション君
 > CONTEXT: Map094/events/13/pages/0/25/Dialogue/クッション君
-Dakkis in the normal form often attack with
-magic. So even resistance, the Magic Attack
-attribute doesn't work very well.#MTLed
+She uses a lot of magic attacks in her normal
+form. So using magic on her, even if it's
+element-based, won't have much effect.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1728,9 +1728,9 @@ attribute doesn't work very well.#MTLed
  銃攻撃で、ピンチになる前に畳み掛けてやれ。
 > CONTEXT: Map003/events/1/pages/2/478/Dialogue/クッション君
 > CONTEXT: Map094/events/13/pages/0/29/Dialogue/クッション君
-But conversely,\\C[2] Physics Attack seems to pass
-through. With the gun attack, fold it before it
-gets pinched.#MTLed
+Having said that, \\C[2]physical attacks should work
+on her. Be sure to use your gun to blow her away
+before you get yourself in a real pinch.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1739,9 +1739,9 @@ gets pinched.#MTLed
 \\C[2]アイアンメイデンとランパスの攻撃を模してくる。
 シェルターの悪夢再来だな。
 > CONTEXT: Map003/events/1/pages/2/484/Dialogue/クッション君
-Dacchi's alraune form is. \\C[2]It imitates Attack of
-Iron Maiden and Lampas. Shelter's nightmare comes
-back.#MTLed
+Daiji's alraune form \\C[2]imitates the attacks of
+Iron Maiden and Lampas. It's a repeat of your
+nightmare in the shelter.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1750,10 +1750,10 @@ back.#MTLed
 \\C[2]『口塞ぎ』をしてくるツタは最優先で振り払わないと
 脱力してそのまま養分コースだ。
 > CONTEXT: Map003/events/1/pages/2/489/Dialogue/クッション君
-First and foremost, the Lampas element must be
-taken care of first. \\C[2]The ivy that does "Gagged"
-is the first priority and must be shaken off
-Debilitated and it's nourishment Awww.#MTLed
+First and foremost, you need to watch out for her
+Lampas-based attacks. \\C[2]Shaking off her "Gagging"
+ivy should be top priority, otherwise she'll
+debilitate you and turn you into nutrients.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1762,10 +1762,10 @@ Debilitated and it's nourishment Awww.#MTLed
  \\C[2]状態異常確率は低いが、恍惚無効のアイテムを使うか
  クールカームを使った方が確実だろう。
 > CONTEXT: Map003/events/1/pages/2/494/Dialogue/クッション君
-Also, Poll stab ecstasy that comes every turn is
-awkward. \\C[2] Bad Status Probability is low, but use
-ecstasy prevention items. It would be better to
-use Cool Calm.#MTLed
+Her pollen attacks every turn are also a hassle.
+\\C[2]The chances of it afflicting you with a bad
+status are low, but it's a good idea to use
+anti-ecstasy items or Cool Calm.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -1774,9 +1774,10 @@ use Cool Calm.#MTLed
 
  足拘束以外なら、大体それで回避できる。
 > CONTEXT: Map003/events/1/pages/2/499/Dialogue/クッション君
-Maiden element limb is bound. Sylph Storm is the
-most effective. If it is not bound, it can be
-roughly avoided.#MTLed
+Sylph Storm is the most effective measure against
+her Iron Maiden-style binding attacks. Aside from
+your legs, that should allow you to avoid her
+binding attacks for the most part.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -1785,10 +1786,9 @@ roughly avoided.#MTLed
 \\C[2]奴がこっちの身体を引っ張ってる時の方が
 ダメージが通るってことを覚えておくといいかもな。
 > CONTEXT: Map003/events/1/pages/2/504/Dialogue/クッション君
-However, when fighting with physical main
-\\C[2]When he is pulling this body
-You may want to remember that the damage goes
-through.#MTLed
+But when you're fighting her with physical
+attacks, \\C[2]don't forget that you'll do the most
+damage when she's pulling you in.#CheckLater
 > END STRING
 
 > BEGIN STRING
@@ -1797,9 +1797,9 @@ through.#MTLed
  バーゲストやエンプーサみたいな『魔獣』の特性を持った
 物理特化タイプの形態だ。
 > CONTEXT: Map003/events/1/pages/2/511/Dialogue/クッション君
-Daiji's beast form is. With the characteristics
-of "beast" like barghest and empuse
-It is a form of physical specialization type.#MTLed
+Daiji's beast form has the characteristics of
+Barghest's and Empuse's specialized physical
+attacks.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1808,9 +1808,9 @@ It is a form of physical specialization type.#MTLed
 
 \\C[2]シルフストームは必須だな。
 > CONTEXT: Map003/events/1/pages/2/516/Dialogue/クッション君
-Physical specialization only, physical damage is
-It's quite painful just to get a blow.
-\\C[2]Sylph Storm is a must.#MTLed
+Since this form specializes in physical attacks,
+even one hit from her can do a real number on
+you, so \\C[2]using Sylph Storm is a must.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1818,9 +1818,10 @@ It's quite painful just to get a blow.
 
 \\C[2]上位魔法は『ヘルブレイク』を取っておくといい。
 > CONTEXT: Map003/events/1/pages/2/521/Dialogue/クッション君
-And because I'm scared of the roaring stun and
-the debilitated bless. \\C[2]You should save "Helbreak"
-as the upper magic.#MTLed
+Also, she can inflict "Stun" with her roar, and
+"Debilitated" with her poison breath attacks, so
+\\C[2]you should make sure you've learned
+"Hell Break".#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1829,10 +1830,10 @@ as the upper magic.#MTLed
 
 その場合は、『防御行動』だ。間違えるなよ？
 > CONTEXT: Map003/events/1/pages/2/525/Dialogue/クッション君
-As with Mother Rabbit, it's 'avoidance'
-\\C[2]The trouble is that they sometimes use "locks".
-In that case, it is "defend action". Don't get it
-wrong?#MTLed
+You can avoid her Mother Rabbit-style jump attack
+by taking an evasive posture, but the problem is
+\\C[2]her "Time Stop" ability. Don't mix the two
+up.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1841,10 +1842,10 @@ wrong?#MTLed
 
  当たらないと感じたら、無理せず魔法とかで属性攻撃だ。
 > CONTEXT: Map003/events/1/pages/2/530/Dialogue/クッション君
-Also, in this form, physics passes normally
-Evasive power is slightly high.
-If it feels like it doesn't hit, it's magic, and
-it's an attribute Attack.#MTLed
+Also, you can inflict physical damage on this
+form, but she has a decent dodge ability.
+If it feels like you're not able to hit her, try
+using element-based magic attacks instead.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1852,8 +1853,8 @@ it's an attribute Attack.#MTLed
 
 バーゲストやアコニートゥムと一緒だな。
 > CONTEXT: Map003/events/1/pages/2/535/Dialogue/クッション君
-\\C[2]The weak point is the ice attribute.
-I am with barghest and Aconitum.#MTLed
+\\C[2]Like Barghest and Aconitum, this form is weak
+to ice-based attacks.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1861,8 +1862,8 @@ I am with barghest and Aconitum.#MTLed
 
  これまでの形態とは少し毛色が違う。
 > CONTEXT: Map003/events/1/pages/2/541/Dialogue/クッション君
-Daiji's gel form is. Hair color is slightly
-different from the previous form.#MTLed
+Daiji's gel form has a slightly different
+disposition to her other forms.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1871,10 +1872,9 @@ different from the previous form.#MTLed
 
 \\C[0]各種ゲージより、そっちを注意する必要がある。
 > CONTEXT: Map003/events/1/pages/2/545/Dialogue/クッション君
-Anyway,\\C[2] With the dance of Nina
-I'll be attacking with "Sphinx's Kiss"
-\\C[0]You need to be careful about them from the
-various bars.#MTLed
+But either way, \\C[2]she'll come at you with Nina's
+dancing, and Sphinx's kiss attacks. \\C[0]You'll need
+to keep an eye on your various bars.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -1883,10 +1883,10 @@ various bars.#MTLed
 例えば、スフィンクスのキスは、ナゾナゾは無しだ。
 アホなところは真似したくなかったんだろうな……
 > CONTEXT: Map003/events/1/pages/2/550/Dialogue/クッション君
-Well, it's not completely the same.
-For example, Sphinx's kiss does not have riddle.
-I guess I didn't want to imitate a foolish place
-...#MTLed
+Well, it's not completely the same. For example,
+Daiji's version of the kiss attack doesn't come
+with any riddles. I guess she doesn't want to
+mimic the stupidity that goes along with that...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1895,10 +1895,10 @@ I guess I didn't want to imitate a foolish place
 \\C[2]ジェル・フォームのジェルは、エコーの粘液と同じだ
 普通に手を使っても、拘束は解除できない。
 > CONTEXT: Map003/events/1/pages/2/555/Dialogue/クッション君
-So if you get caught you can shake it off ...
-\\C[2]gel form gel is the same as Echo mucus
-Even if you use your hand normally, you can not
-cancel bound.#MTLed
+You should struggle if you get caught, but
+\\C[2]her gel form has the same kind of mucus as Echo,
+so you won't be able to struggle out like you
+normally would.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1907,10 +1907,9 @@ cancel bound.#MTLed
 これもエコーの時に実践しなかったか？
 お前が初期の頃から使ってるヤツだよ。
 > CONTEXT: Map003/events/1/pages/2/560/Dialogue/クッション君
-\\C[2]Means of releasing bound without directly using
-limbs ..... Didn't this also practice at Echo?
-It's the guy you've been using since the early
-days.#MTLed
+\\C[2]There's a way of freeing yourself without
+using your arms or legs, same as you did when you
+fought Echo. You've been doing it from the start.#CheckLater
 > END STRING
 
 > BEGIN STRING
@@ -1919,9 +1918,9 @@ days.#MTLed
 \\C[2]制限時間がニーナの時より長いから
 慌てず、ミスしないように入力するんだ。
 > CONTEXT: Map003/events/1/pages/2/565/Dialogue/クッション君
-Also after dance, it seems that Nina is not so
-good. \\C[2]Because time limit is longer than at Nina
-Don't panic and enter so as not to miss.#MTLed
+And her dance moves aren't as agile as Nina's.
+\\C[2]You'll have more time to respond so don't get
+flustered and make a mistake.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1929,9 +1928,9 @@ Don't panic and enter so as not to miss.#MTLed
 
 \\C[2]この形態に物理攻撃はほとんど効かないみたいだ。
 > CONTEXT: Map003/events/1/pages/2/570/Dialogue/クッション君
-And ..... It's just the same as Echo's mucus
-\\C[2]Physical Attack seems to be hardly effective in
-this form.#MTLed
+Finally, since her mucus is the same type as
+Echo's, \\C[2]physical attacks won't be particularly
+effective against this form.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1939,9 +1938,9 @@ this form.#MTLed
 
 \\C[0]この形態をしのげば、あともう一息だぞ。
 > CONTEXT: Map003/events/1/pages/2/574/Dialogue/クッション君
-Use items and magic\\C[2] You can attack with the
-lightning attribute. \\C[0]If you take this form, it
-will be another breath.#MTLed
+\\C[2]Use items and magic that are lightning-based.\\C[0]
+You'll be almost there if you can overcome this
+form.#Ron
 > END STRING
 
 > BEGIN STRING
