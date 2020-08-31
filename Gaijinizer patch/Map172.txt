@@ -187,7 +187,8 @@ Very well, I'll reveal the truth to you, \\N[1].#Triketos
 > CONTEXT: Map172/events/2/pages/1/296/Dialogue
 Yuuma's appearance changed in the blink of an eye...
 
-Transforming into a fox-like female demon!!#Triketos/Ron
+When I saw him again, he had transformed into a fox-like
+demon!!#Triketos/Ron
 > END STRING
 
 > BEGIN STRING
@@ -390,9 +391,9 @@ essence, I can assume their entire persona.#RonIffyWording
 ミカを殺した時ですら、全て『ユウマ』の本心じゃ
 > CONTEXT: Map172/events/2/pages/0/204/Dialogue/enemy17
 > CONTEXT: Map172/events/2/pages/1/377/Dialogue/enemy17
-\\C[2]Those times I worried about you, encouraged you,
-reassured you, even when I killed Micah, those
-were all "Yuuma's" true feelings.#Ron
+\\C[2]Those times I worried about you... encouraged
+you... reassured you... Even when I killed Micah,
+those were all "Yuuma's" true feelings.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -401,8 +402,9 @@ were all "Yuuma's" true feelings.#Ron
  そうだろう、\\N[1]？
 > CONTEXT: Map172/events/2/pages/0/211/Dialogue/yuuma
 So even you, my dearest childhood friend,
-couldn't see through me. Isn't that right,
-\\N[1]?#Ron
+couldn't see through me.
+
+Isn't that right, \\N[1]?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -419,8 +421,8 @@ There's no way you could've realized...#Ron
 \\{\\{その姿を！！
  騙るな！！
 > CONTEXT: Map172/events/2/pages/0/220/Dialogue/kazuya-b
-\\{\\{Don't you dare take his
-form!!#Ron
+\\{\\{Don't you dare use his
+face!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -618,16 +620,16 @@ wasn't just any old "puny human"...#Ron
 
 シーケンス起動！！！
 > CONTEXT: Map172/events/2/pages/0/344/Dialogue/yuuma
-\\C[10]Authentication code: Red alert!!
+\\C[10]Authorization Code: Red Alert!!
 
-Sequence start!!!#RonIffyWording
+Self-destruct Sequence Start!!!#Ron/Triketos
 > END STRING
 
 > BEGIN STRING
 施設アナウンス
 　『認証コード、確認』
 > CONTEXT: Map172/events/2/pages/0/350/Dialogue
-Facility announcement: "Authentication code accepted.".#RonIffy
+\\C[23]Authorization code accepted.#Ron/Triketos
 > END STRING
 
 > BEGIN STRING
@@ -656,9 +658,9 @@ memories.#RonIffyWording
 
 \\C[0]これは……俺のとっておきの『奥の手』だ！！
 > CONTEXT: Map172/events/2/pages/0/368/Dialogue/yuuma
-\\C[2]You thought I'd given in, you didn't consider
-the possibility I'd held back any memories.\\C[0]
-
+\\C[2]You thought I'd given in, but you didn't
+consider the possibility I'd held back any
+memories.\\C[0]
 This is the ace up my sleeve!!#Ron
 > END STRING
 
