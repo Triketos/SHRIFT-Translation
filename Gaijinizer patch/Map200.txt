@@ -11,16 +11,16 @@
 エンディング：
 \\\\V[170]"
 > CONTEXT: Map200/events/1/pages/0/3/InlineScript/2:9
-"\\\\C[4]Congratulation!!\\\\C[0]
+"\\\\C[4]Congratulations!!\\\\C[0]
 
-マイルームに来た悪魔　　\\\\V[167]/14体
+Demons in My Room:　　\\\\V[167]/14
 
-救済措置を受けた回数　　\\\\V[168]回
+Assists Used:　　     \\\\V[168]
 
-主人公の魔力レベル　　　Ｌｖ\\\\V[169]
+Final M Level:　　　   \\\\V[169]
 
-エンディング：
-\\\\V[170]"#NoTL
+Ending Achieved:
+\\\\V[170]"#Ron
 > END STRING
 
 > BEGIN STRING
@@ -29,9 +29,9 @@
 このゲームのベストエンディングを見る為には
 登場悪魔全員の協力が不可欠です。
 > CONTEXT: Map200/events/1/pages/0/18/Dialogue
-\\C[2]It seems that there are demons that have not come to my
-room. To see the best ending of this game
-The cooperation of all demons is essential.#MTLed
+\\C[2]It looks like you didn't manage to convince all the demons
+to come to "My Room". You need to have the cooperation of
+all the demons you meet in order to get the best ending.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -39,8 +39,8 @@ The cooperation of all demons is essential.#MTLed
 
 エンディングの種類に影響が出てしまったようです。
 > CONTEXT: Map200/events/1/pages/0/26/Dialogue
-\\C[2]By receiving the assistance. It seems that the type of
-ending has been affected.#MTLed
+\\C[2]Your ending has been affected by the use of Assists
+from Meira.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -48,8 +48,8 @@ ending has been affected.#MTLed
 
 エンディングに悪影響が出ていたようです。
 > CONTEXT: Map200/events/1/pages/0/33/Dialogue
-\\C[2]By putting a demon on Finish her off
-It seems that the ending had been adversely affected.#MTLed
+\\C[2]The ending has been adversely influenced by your
+decisions to "finish off" demons.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -84,6 +84,6 @@ You received an email. \\C[10]Please check the
 クリアデータをセーブしますか？
 \\C[2]クリアデータはチャプター選択を行えないので注意してください
 > CONTEXT: Map200/events/1/pages/0/136/Dialogue
-Do you want to save clear data? \\C[2]Please note that you can
-not select chapters for clear data#MTLed
+Do you want to save? \\C[2]Please note that these kinds
+of "Clear" saves can't be used to select chapters.#RonIffyWording
 > END STRING
