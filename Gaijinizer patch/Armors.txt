@@ -7,7 +7,7 @@
 > CONTEXT: Armors/3/description
 > CONTEXT: Armors/5/description
 A special hospital gown that protects the skin against
-viruses. It becomes ineffective went taken off.#DargothPR
+viruses. It becomes ineffective when taken off.#DargothPR
 > END STRING
 
 > BEGIN STRING
@@ -402,7 +402,7 @@ Monster Warding Bell#Dargoth
 身につけると身体が闘争を求め始める首飾り。
 武器攻撃力が上がるが、性欲が伸びやすくなる。
 > CONTEXT: Armors/49/description
-A choker that makes your body craves for battle.
+A choker that makes your body crave for battle.
 Increases weapon attack but raises lust.#DargothPR
 > END STRING
 
@@ -491,7 +491,7 @@ Reduces physical damages and resists [Panic].#afrgPR
 > BEGIN STRING
 サバイバルベスト
 > CONTEXT: Armors/55/name
-Survival vest#MTLed
+Survival Vest#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -569,7 +569,7 @@ Fluffy Hoodie#afrgPR
 『精神統一』の際に、性欲が下がる値が１０加算される。
 > CONTEXT: Armors/61/description
 A jewel which Mukuro filled with serenity.
-[Concentrate] removes lust by an additional 10 points.#afrgPR
+[Concentrate] lowers lust by an additional 10 points.#afrgPR
 > END STRING
 
 > BEGIN STRING
@@ -596,7 +596,7 @@ Cat Bell Collar#afrgPR
 ニーナが昔、何故か大事に持っていたものらしい。
 魔法力が大幅に下がるが、抵抗力が大幅に上がる。
 > CONTEXT: Armors/63/description
-The previous Nina appears to have been attached to it.
+Nina used to hold on to this for some reason.
 Greatly increases Willpower while greatly lowering Magic.#afrgPR
 > END STRING
 
@@ -921,13 +921,13 @@ Bronze Box [Aconitum]#afrgPR
 > BEGIN STRING
 青銅の箱【カマソッソ】
 > CONTEXT: Armors/210/name
-Bronze Box 【Camazotz】#MTLed
+Bronze Box [Camazotz]#Triketos
 > END STRING
 
 > BEGIN STRING
 青銅の箱【妲己】
 > CONTEXT: Armors/211/name
-Bronze Box 【Daiji】#Triketos
+Bronze Box [Daiji]#Triketos
 > END STRING
 
 > BEGIN STRING
