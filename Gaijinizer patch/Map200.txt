@@ -70,8 +70,9 @@ added, so. Now try to clear on normal difficulty.#MTLed
 > CONTEXT: Map200/events/1/pages/0/73/Dialogue
 > CONTEXT: Map200/events/1/pages/0/88/Dialogue
 > CONTEXT: Map200/events/1/pages/0/103/Dialogue
-You received an email. \\C[10]Please check the
-"Game Folder".#Ron
+You received an email.
+
+\\C[10]Please check the "Game Folder".#Ron
 > END STRING
 
 > BEGIN STRING
@@ -84,6 +85,6 @@ You received an email. \\C[10]Please check the
 クリアデータをセーブしますか？
 \\C[2]クリアデータはチャプター選択を行えないので注意してください
 > CONTEXT: Map200/events/1/pages/0/136/Dialogue
-Do you want to save? \\C[2]Please note that these kinds
-of "Clear" saves can't be used to select chapters.#RonIffyWording
+Do you want to save your clear data? Please note that you cannot
+use [Chapter Select] on clear data.#RonIffyWording
 > END STRING
