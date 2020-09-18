@@ -192,8 +192,8 @@ Barghest (tutorial)#MTLed
 バーゲストと呼ばれる悪魔は
 息を荒げて、こちらの様子をうかがっている…
 > CONTEXT: Troops/2/pages/2/2/Dialogue
-This is a demon called a Barghest. It's breathing
-heavily and staring intently at me.#Ron
+The Barghest demon is breathing heavily and staring
+intently at me.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -202,8 +202,8 @@ heavily and staring intently at me.#Ron
 　　　　撃つのをためらってんのか？」
 > CONTEXT: Troops/2/pages/2/8/Dialogue
 ???「Hey now! What's the matter?!
-You don't wanna shoot it because it looks kinda
-like a dog?」#Ron
+     You don't wanna shoot it because it looks kinda
+     like a dog?」#Ron
 > END STRING
 
 > BEGIN STRING
@@ -218,6 +218,7 @@ What?!? What are you!? Where'd you come from?#Ron
 俺も『悪魔』ってやつだよ。どっから出てきたって勝手だろ
 > CONTEXT: Troops/2/pages/2/17/Dialogue/other1
 What a rude guy you are.
+
 I'm a demon too. Where'd I come from? Wherever
 I feel like coming from.#Ron
 > END STRING
@@ -234,8 +235,9 @@ But don't worry. I'm on your side.#Ron
 
 とある奴から飛ばされた　『使い魔』　ってやつだ。
 > CONTEXT: Troops/2/pages/2/23/Dialogue/other1
-A certain magician blew me over here to help
-you since you just woke up and all.#Ron
+I'm a "familiar", sent over by a certain someone
+to give you a hand since you've only just woken
+up and all.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -243,8 +245,8 @@ you since you just woke up and all.#Ron
 
 おまえ、その銃撃てるのか？
 > CONTEXT: Troops/2/pages/2/27/Dialogue/other1
-...... So, are you just gonna flap around,
-or are you gonna shoot that gun?#Ron
+...So, are you just gonna flap around, or are
+you gonna shoot that gun?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -253,6 +255,7 @@ or are you gonna shoot that gun?#Ron
 このタイプのモデルガンくらいなら…。
 > CONTEXT: Troops/2/pages/2/31/Dialogue/kazuya
 I've never fired a r-real gun before but...
+
 Maybe if it's just a model gun like this...#Ron
 > END STRING
 
@@ -261,7 +264,8 @@ Maybe if it's just a model gun like this...#Ron
 
 それなら話は早い。
 > CONTEXT: Troops/2/pages/2/35/Dialogue/other1
-OK, do you know where the safety is?
+Okay, do you know where the safety is?
+
 If so, you're pretty much there.#Ron
 > END STRING
 
@@ -278,7 +282,7 @@ off.\\C[0] That's it.#Ron
 > BEGIN STRING
 で、でも……あんな……
 > CONTEXT: Troops/2/pages/2/45/Dialogue/kazuya
-But... That kind of thing is...#Ron
+B-But... That kind of thing is...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -304,7 +308,7 @@ Well, of course.
 悪魔と性交するって事は\\C[2]魂を捧げるってことだ。
 \\C[0]出すとき気持ちよくても、ラクな死に方は出来ないぜ。
 > CONTEXT: Troops/2/pages/2/53/Dialogue/other1
-But don't forget. Sexual intercourse with demons
+But don't forget, sexual intercourse with demons
 means \\C[2]giving up your soul to them.
 \\C[0]Even if it feels good when you cum, it won't
 be a nice way to go out.#RonIffy
@@ -315,7 +319,8 @@ be a nice way to go out.#RonIffy
 
 大丈夫だ、悪魔が銃なんかで本気で傷つくかよ！！
 > CONTEXT: Troops/2/pages/2/58/Dialogue/other1
-Just shoot it!!
+Just try shooting it!!
+
 It's okay, as if you'd really hurt a demon with
 a gun!!#Ron
 > END STRING
@@ -348,7 +353,7 @@ in this darkness!!#Ron
 > BEGIN STRING
 ウウウゥ……
 > CONTEXT: Troops/2/pages/4/9/Dialogue/バーゲスト
-Raaar......#MTLed
+Awooo...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -362,7 +367,8 @@ Ah rats... it's been spooked away.#Ron
 ま、まずい……
 完全に姿を見失った……
 > CONTEXT: Troops/2/pages/4/16/Dialogue/kazuya
-This is bad...
+T-This is bad...
+
 I've completely lost sight of it.#Ron
 > END STRING
 
@@ -382,7 +388,7 @@ Right, there's nothing for it.#Ron
 > BEGIN STRING
 \\{はあっ！？
 > CONTEXT: Troops/2/pages/4/24/Dialogue/kazuya
-\\{WHAT!?#Ron
+\\{WHAT?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -420,13 +426,14 @@ letting down your guard is a useful strategy.#Ron
 モタモタするな！！思いっきり脱ぐんだ！！
 > CONTEXT: Troops/2/pages/4/38/Dialogue/other1
 Now get naked!!! Hurry up and do it!!!
+
 Don't dawdle!! Get naked with all your heart!!#Ron
 > END STRING
 
 > BEGIN STRING
 言い方ぁ！！？
 > CONTEXT: Troops/2/pages/4/42/Dialogue/kazuya
-What're you saying!!?#Ron
+What're you saying?!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -456,6 +463,7 @@ Y-Yeah but...#Ron
 『\\C[27]あのおっぱい達に埋もれたい\\C[0]』とか思ってるな？
 > CONTEXT: Troops/2/pages/5/14/Dialogue/other1
 ...Riiight, I see what's happening.
+
 \\C[27]You want to be buried in those boobs\\C[0],
 is that it?#Ron
 > END STRING
@@ -465,7 +473,8 @@ is that it?#Ron
 
 やっぱり無抵抗な奴を撃つのはためらうんだ！
 > CONTEXT: Troops/2/pages/5/18/Dialogue/kazuya-0
-I-idiot!! Stop saying weird things!!
+I-Idiot!! Stop saying weird things!!
+
 I really can't shoot something that isn't
 fighting back!#Ron
 > END STRING
@@ -476,6 +485,7 @@ fighting back!#Ron
 そ、そこばっかり気になるじゃないか…！！
 > CONTEXT: Troops/2/pages/5/22/Dialogue/kazuya-0
 I mean, stop saying such weird stuff...!
+
 Like I'd be interested in that thing...!!#Ron
 > END STRING
 
@@ -496,7 +506,7 @@ body is designed to tempt you.\\C[0]#Ron
 > CONTEXT: Troops/2/pages/5/30/Dialogue/other1
 If you've got your clothes off and you're
 thinking "Oh man, I can't hold back", \\C[2]you can
-jump her bones with the "Submit" command.#Ron
+jump her bones with the "Submission" commands.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -565,8 +575,9 @@ were surprised by this strange situation.#Ron
 な…なんだこれ……！
 ウ……ウゥ…ガ………！！
 > CONTEXT: Troops/3/pages/1/41/Dialogue/kazuya
-What...What is this...! Ugh...... Urgh......
-Ggh...!!#Ron
+W-What is this...!
+
+Ugh...... Urgh......Ggh...!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -650,7 +661,9 @@ That... tickles..♡#Triketos
 や…やああ……♡
 > CONTEXT: Troops/3/pages/2/75/Dialogue/kazuya-0
 > CONTEXT: Troops/5/pages/0/61/Dialogue/kazuya-0
-Whaa...♡ Ohh... Ohhhh...#Ron
+Whaa...♡
+
+Ohh... Ohhhh...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -671,7 +684,9 @@ the moment I give in to the pleasure.#Ron
 あ…あひぃ…♡
 た…たすけ……
 > CONTEXT: Troops/3/pages/2/86/Dialogue/kazuya-0
-Oh...ahhhh...♡ H-...help...#Ron
+Oh...ahhhh...♡
+
+H-Help...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -746,7 +761,7 @@ Well I'm gonna head back. Survive this using that
 
 お前犯られるぞ。
 > CONTEXT: Troops/3/pages/2/132/Dialogue/other1
-... You'll probably \\C[2]have to kick her off
+...You'll probably \\C[2]have to kick her off
 on the next turn, or you're gonna get raped.#Ron
 > END STRING
 
