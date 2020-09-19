@@ -175,9 +175,9 @@ particularly dangerous, don't you?#RonIffy
 こんな静まりきった施設全体になんか、
 余裕で響いちゃうくらいにね。
 > CONTEXT: Map012/events/5/pages/0/40/Dialogue/hyakki
-That machine is old as it looks, so it makes an
-incredible noise. Something like that would echo
-way too much through this silent facility.#Ron
+That machine's as old as it looks, so it makes an
+incredible noise. Something like that would
+echo way too much through this silent facility.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -203,14 +203,15 @@ telling us all this?#Ron
 ただの親切心ってわけでもあるまい。
 何を企んでいる？
 > CONTEXT: Map012/events/5/pages/0/51/Dialogue/yuuma
-This isn't mere kindness, either.
+I know you aren't just being nice.
+
 What are you planning?#Ron
 > END STRING
 
 > BEGIN STRING
 さすがに察しがいいねぇ！
 > CONTEXT: Map012/events/5/pages/0/54/Dialogue/hyakki
-You've got good judgement, don't you!#Ron
+You've got good judgment, don'tcha!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -243,8 +244,9 @@ Huh...?#Ron
 はっ！！！？ま、間違えた！！！！
 こっち！これこれ！！！
 > CONTEXT: Map012/events/5/pages/0/73/Dialogue/hyakki
-Haa!!!? N-no, you've got it wrong!!!!
-Here! Take it take it!!!#Ron
+Wha!!!? N-No, I got them mixed up!!
+
+Here! This is what I meant to give ya!!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -280,7 +282,7 @@ Th-this is...?#Triketos
 Imagine a blade in front of you, as you channel
 your magic into it.
 
-Come on, it won't feel bad!#Triketos
+Kinda like magic shooting out of it!#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -645,7 +647,9 @@ main door.#Ron
 
 どうしたんだ\\N[1]！！
 > CONTEXT: Map012/events/5/pages/3/89/Dialogue/yuuma
-.........! ? What's up, \\N[1]! !#MTLed
+...?!
+
+What's wrong, \\N[1]?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -653,7 +657,9 @@ main door.#Ron
 
 なにがだよ。
 > CONTEXT: Map012/events/5/pages/3/93/Dialogue/kazuya
-......... what happened? What is it?#MTLed
+...
+
+What do you mean, what's wrong?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -661,9 +667,9 @@ main door.#Ron
 
 早くその場所から離れないと………！！
 > CONTEXT: Map012/events/5/pages/3/97/Dialogue/yuuma
-Barghest gathers in the sound of the boiler!
-If you do not leave the place quickly.........!
-!#MTLed
+The Barghests will be drawn to the noise!
+
+You need to get out of there quickly...!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -671,13 +677,16 @@ If you do not leave the place quickly.........!
 
 なに言ってるんだ、ユウマ。
 > CONTEXT: Map012/events/5/pages/3/101/Dialogue/kazuya
-"Leave"………? What are you saying, Yuuma.#MTLed
+"Get out of there"...?
+
+What are you talking about, Yuuma?#Ron
 > END STRING
 
 > BEGIN STRING
 やつらを一網打尽にできるチャンスじゃないか
 > CONTEXT: Map012/events/5/pages/3/107/Dialogue/kazuya-3
-Isn't it a chance to get them to a net?#MTLed
+Isn't this our best chance of snagging them all
+at once?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -685,13 +694,15 @@ Isn't it a chance to get them to a net?#MTLed
 
 思ったより少なかったな。
 > CONTEXT: Map012/events/5/pages/3/149/Dialogue/kazuya-3
-..... tic. It was less than I thought.#MTLed
+Tch...
+
+Fewer than I thought.#Ron
 > END STRING
 
 > BEGIN STRING
 \\N[1]、お前………。
 > CONTEXT: Map012/events/5/pages/3/153/Dialogue/yuuma
-\\N[1], you .....#MTLed
+\\N[1], what're...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -699,8 +710,8 @@ Isn't it a chance to get them to a net?#MTLed
 
 僕が無事に生き残ったのに、全然嬉しそうじゃないな？
 > CONTEXT: Map012/events/5/pages/3/155/Dialogue/kazuya
-What, Yuuma. Though I survived safely, are you
-not happy at all?#MTLed
+What's your deal, Yuuma? You don't sound pleased
+at all that I managed to survive in one piece.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -708,8 +719,8 @@ not happy at all?#MTLed
 
 少し驚いただけさ……。
 > CONTEXT: Map012/events/5/pages/3/161/Dialogue/yuuma
-......... No, for your unexpected behavior
-I was a little surprised ....#MTLed
+...No, it's not that. I'm just a little surprised
+by what you're doing...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -717,14 +728,16 @@ I was a little surprised ....#MTLed
 
 さっきの扉から、先へ進んでくれ。
 > CONTEXT: Map012/events/5/pages/3/165/Dialogue/yuuma
-Anyway, I can go to the residence area with this.
-Go ahead from the previous door.#MTLed
+Anyway, you should be able to get into the
+residential area now.
+
+Proceed on through that door from earlier.#Ron
 > END STRING
 
 > BEGIN STRING
 ああ、分かったよ。ユウマ。
 > CONTEXT: Map012/events/5/pages/3/169/Dialogue/kazuya
-Oh, I understand.Yuuma.#MTLed
+Okay, got it Yuuma.#Ron
 > END STRING
 
 > BEGIN STRING
