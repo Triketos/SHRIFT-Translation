@@ -16,15 +16,16 @@
 少し待ってくれ、追跡座標を再取得する。
 > CONTEXT: Map045/events/4/pages/0/21/Dialogue/yuuma
 > CONTEXT: Map183/events/4/pages/0/21/Dialogue/yuuma
-You seem to have gone outside.
-Wait a sec. I'm getting your exact coordinates.#Aesthetic
+Looks like you're outside.
+
+Wait a sec, I'm getting your exact coordinates.#Aesthetic
 > END STRING
 
 > BEGIN STRING
 …………よし、OKだ。
 > CONTEXT: Map045/events/4/pages/0/27/Dialogue/yuuma
 > CONTEXT: Map183/events/4/pages/0/27/Dialogue/yuuma
-...... Good, everything's OK.#Aesthetic
+...Alright, everything's okay.#Aesthetic
 > END STRING
 
 > BEGIN STRING
@@ -44,8 +45,8 @@ lanterns my troops installed to guide you.#Ron
 悪魔の気配も含めて、充分に警戒して……
 > CONTEXT: Map045/events/4/pages/0/33/Dialogue/yuuma
 > CONTEXT: Map183/events/4/pages/0/33/Dialogue/yuuma
-Many parts of the city have collapsed. You'll have
-to worry about that, and be wary of any sign of
+Many parts of the city are crumbling, you'll have
+to watch out for that, and be wary of any sign of
 demon activity.#Aesthetic
 > END STRING
 
@@ -53,7 +54,7 @@ demon activity.#Aesthetic
 ……\\N[1]、聞こえているか？
 > CONTEXT: Map045/events/4/pages/0/40/Dialogue/yuuma
 > CONTEXT: Map183/events/4/pages/0/40/Dialogue/yuuma
-... \\N[1], were you listening?#Ron
+...\\N[1], were you listening?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -62,7 +63,7 @@ demon activity.#Aesthetic
 聞こえてるよ、灯火装置を探しながら進むんだな。
 > CONTEXT: Map045/events/4/pages/0/42/Dialogue/kazuya
 > CONTEXT: Map183/events/4/pages/0/42/Dialogue/kazuya
-Y-yeah! Sorry, Yuuma.... I heard you. I should
+Y-Yeah! Sorry, Yuuma.... I heard you. I should
 keep an eye out for lanterns, right?#Ron
 > END STRING
 
@@ -72,9 +73,9 @@ keep an eye out for lanterns, right?#Ron
 俺もできれば、あれをお前に聞かせたくはなかった……。
 > CONTEXT: Map045/events/4/pages/0/46/Dialogue/yuuma
 > CONTEXT: Map183/events/4/pages/0/46/Dialogue/yuuma
-... \\N[1]. 
-I understand the content of that tape was
-shocking... 
+...\\N[1], I understand the contents of that tape
+was shocking...
+
 I didn't want you to find out like that.#Aesthetic
 > END STRING
 
@@ -84,8 +85,8 @@ I didn't want you to find out like that.#Aesthetic
 あんな内容のテープを残すとは、俺は思えない。
 > CONTEXT: Map045/events/4/pages/0/50/Dialogue/yuuma
 > CONTEXT: Map183/events/4/pages/0/50/Dialogue/yuuma
-I just can't believe that Reina, one of your best
-friends, would leave a recording like that.#Aesthetic
+I just can't believe that Reina, someone you were
+so close to, would leave a recording like that.#Aesthetic
 > END STRING
 
 > BEGIN STRING
@@ -95,8 +96,9 @@ friends, would leave a recording like that.#Aesthetic
 きっと、なにか理由があるはずだ…。
 > CONTEXT: Map045/events/4/pages/0/55/Dialogue/kazuya
 > CONTEXT: Map183/events/4/pages/0/55/Dialogue/kazuya
-I know... Until we hear the truth from
-Reina herself, I'm not convinced either.
+I know... Until we hear the truth from Reina
+herself, I'm not convinced either.
+
 There has to be some reason...#Aesthetic
 > END STRING
 
@@ -108,22 +110,22 @@ There has to be some reason...#Aesthetic
 > CONTEXT: Map183/events/4/pages/0/60/Dialogue/kazuya
 Besides, the fact of the matter is that she's
 being chased by M.O.W. 
-No matter what she says, we have
-to help her.#Aesthetic
+
+No matter what she says, we have to help her.#Aesthetic
 > END STRING
 
 > BEGIN STRING
 ………お前は強いな、本当に。
 > CONTEXT: Map045/events/4/pages/0/64/Dialogue/yuuma
 > CONTEXT: Map183/events/4/pages/0/64/Dialogue/yuuma
-... You really are strong.#Aesthetic
+...You really are strong.#Aesthetic
 > END STRING
 
 > BEGIN STRING
 …………羨ましいよ。
 > CONTEXT: Map045/events/4/pages/0/67/Dialogue/yuuma
 > CONTEXT: Map183/events/4/pages/0/67/Dialogue/yuuma
-... I envy you.#Aesthetic
+...I envy you.#Aesthetic
 > END STRING
 
 > BEGIN STRING
@@ -131,7 +133,7 @@ to help her.#Aesthetic
 > CONTEXT: Map045/events/4/pages/0/69/Dialogue/kazuya
 > CONTEXT: Map047/events/38/pages/0/60/Dialogue/kazuya
 > CONTEXT: Map183/events/4/pages/0/69/Dialogue/kazuya
-......... Yuuma?#MTLed
+...Yuuma?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -140,5 +142,7 @@ to help her.#Aesthetic
 先に進むぞ、\\N[1]。
 > CONTEXT: Map045/events/4/pages/0/71/Dialogue/yuuma
 > CONTEXT: Map183/events/4/pages/0/71/Dialogue/yuuma
-...Nevermind. Let's move on, \\N[1].#Aesthetic
+...Never mind.
+
+Let's move on, \\N[1].#Aesthetic
 > END STRING
