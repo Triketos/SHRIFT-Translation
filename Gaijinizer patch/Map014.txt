@@ -272,14 +272,18 @@ Rightio.#Ron
 
 これから話すことは、重要なことだ。
 > CONTEXT: Map014/events/1/pages/1/4/Dialogue/yuuma
-\\N[1], please listen. It is important to talk
-from now on.#MTLed
+Hey \\N[1], there's something we need to talk
+about.
+
+It's something important.#RonLocalization
 > END STRING
 
 > BEGIN STRING
 …………？どうした、ユウマ。
 > CONTEXT: Map014/events/1/pages/1/8/Dialogue/kazuya
-......? What's up, Yuuma.#MTLed
+...?
+
+What's up, Yuuma?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -287,9 +291,10 @@ from now on.#MTLed
 
 他の部隊もやることだ、別に特別な事じゃない。
 > CONTEXT: Map014/events/1/pages/1/10/Dialogue/yuuma
-As long as I belong to the army, I have destroyed
-the demon. That's what other forces do, it's not
-a special thing.#MTLed
+I've been exterminating demons since joining the
+army, much like most others in the armed forces.
+
+It's our day job after all.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -297,8 +302,9 @@ a special thing.#MTLed
 
 『憎しみ』を持って、やつらを殺した。
 > CONTEXT: Map014/events/1/pages/1/14/Dialogue/yuuma
-But only once, anger that his member fell
-With the "hate" he killed them.#MTLed
+But one time we were facing one of them after it
+had taken down one of our guys, and I ended up
+killing it while filled with rage and hate.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -306,8 +312,9 @@ With the "hate" he killed them.#MTLed
 
 普段は四散するやつらの魔力が、俺の中に吸収されたのは…。
 > CONTEXT: Map014/events/1/pages/1/20/Dialogue/yuuma
-That's it. Those magic powers that are usually
-scattered are absorbed in me ....#MTLed
+It was then that the magic that would normally be
+scattered after killing them was instead absorbed
+by my body...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -315,9 +322,10 @@ scattered are absorbed in me ....#MTLed
 
 溢れるエネルギーに、高揚感すら覚えたんだ。
 > CONTEXT: Map014/events/1/pages/1/24/Dialogue/yuuma
-I felt that magic had surely become my "power".
-I felt even Enhanced feeling in the overflowing
-energy.#MTLed
+It felt like the demon's magic had truly become
+mine.
+
+The overflowing energy was exhilarating.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -325,15 +333,14 @@ energy.#MTLed
 
 俺が『人間』から遠ざかる恐怖にもなった。
 > CONTEXT: Map014/events/1/pages/1/28/Dialogue/yuuma
-But that is at the same time......
-It's also an Afraid where I get away from
-'humans'.#MTLed
+But at the same time I was filled this fear
+that I was losing my grip on my humanity.#Ron
 > END STRING
 
 > BEGIN STRING
 ……………何が言いたいんだ？
 > CONTEXT: Map014/events/1/pages/1/32/Dialogue/kazuya
-...... What do you want to say?#MTLed
+...What are you trying to say?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -342,9 +349,9 @@ It's also an Afraid where I get away from
 
 この先には、どんな奴がいるかわからないからな。
 > CONTEXT: Map014/events/1/pages/1/34/Dialogue/yuuma
-\\N[1], It does not matter to fight and apply
-power to survive. What kind of person is there
-ahead of me, I don't know.#MTLed
+\\N[1], it's fine if you want to become stronger
+in order to survive. In fact, it makes sense
+since we don't know what's lying ahead of you.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -352,8 +359,8 @@ ahead of me, I don't know.#MTLed
 
 やつらを倒すのは止めるんだ。
 > CONTEXT: Map014/events/1/pages/1/39/Dialogue/yuuma
-But\\C[2] Naughty curiosity and us
-Stop killing them.#MTLed
+But \\C[2]you need to stop killing demons out of idle
+curiosity or for avenging some personal grudge.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -361,8 +368,10 @@ Stop killing them.#MTLed
 
 これは、親友としての忠告だ。
 > CONTEXT: Map014/events/1/pages/1/43/Dialogue/yuuma
-\\C[2]I'm going back and I'm gone .....
-This is a recommendation as a close friend.#MTLed
+\\C[2]You'll reach a point where there's no going
+back...
+
+I'm telling you this as your friend.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -370,7 +379,9 @@ This is a recommendation as a close friend.#MTLed
 
 考えておくよ。
 > CONTEXT: Map014/events/1/pages/1/48/Dialogue/kazuya
-………………………I understood. I think about it.#MTLed
+...I understand.
+
+I'll keep that in mind.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -776,8 +787,9 @@ the exit like last time!!#Ron
 こう暗くては、探索のしようがない。
 > CONTEXT: Map014/events/23/pages/1/8/Dialogue/yuuma
 > CONTEXT: Map014/events/24/pages/1/8/Dialogue/yuuma
-\\N[1], I will go out once. In this dark, there
-is no way to search.#MTLed
+\\N[1], head back outside for a sec.
+
+There's no way you can search in this darkness.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -787,7 +799,8 @@ is no way to search.#MTLed
 > CONTEXT: Map014/events/33/pages/1/5/Dialogue/kazuya
 > CONTEXT: Map014/events/33/pages/2/1/Dialogue/kazuya
 > CONTEXT: Map026/events/1/pages/0/15/Dialogue/kazuya
-Oh man....
+Oh man...
+
 Yuuma, isn't there anywhere else I can get a
 battery?#Ron
 > END STRING
@@ -799,8 +812,7 @@ battery?#Ron
 > CONTEXT: Map014/events/33/pages/1/9/Dialogue/yuuma
 > CONTEXT: Map014/events/33/pages/2/5/Dialogue/yuuma
 > CONTEXT: Map026/events/1/pages/0/19/Dialogue/yuuma
-That room you can physically get to in the
-that powered corridor is probably the only
+That room you were just in is probably the only
 place.#Ron
 > END STRING
 
@@ -877,7 +889,7 @@ survivor.#Ron
 > CONTEXT: Map014/events/33/pages/1/52/Dialogue/kazuya
 > CONTEXT: Map014/events/33/pages/2/48/Dialogue/kazuya
 > CONTEXT: Map026/events/1/pages/0/57/Dialogue/kazuya
-You... what are you! Depending on your reply,
+You... what are you? Depending on your reply,
 I'll...#Ron
 > END STRING
 
@@ -886,7 +898,7 @@ I'll...#Ron
 > CONTEXT: Map014/events/33/pages/1/57/Dialogue/yuuma
 > CONTEXT: Map014/events/33/pages/2/53/Dialogue/yuuma
 > CONTEXT: Map026/events/1/pages/0/62/Dialogue/yuuma
-Dress... Fufu, well certainly.#Ron
+Dressed...? Fufu, well I suppose.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -920,7 +932,7 @@ it is shining brightly.#Ron
 > CONTEXT: Map014/events/33/pages/1/69/Dialogue/yuuma
 > CONTEXT: Map014/events/33/pages/2/65/Dialogue/yuuma
 > CONTEXT: Map026/events/1/pages/0/74/Dialogue/yuuma
-It would seem that Lampas demon becomes quite
+It would seem that Lampas demons become quite
 animated in response to the presence of males.#Ron
 > END STRING
 
@@ -1108,9 +1120,10 @@ Is there something you're thinking about....?#Triketos
 > CONTEXT: Map014/events/33/pages/1/170/Dialogue/kazuya
 > CONTEXT: Map014/events/33/pages/2/162/Dialogue/kazuya
 > CONTEXT: Map026/events/1/pages/0/173/Dialogue/kazuya
-No..... That "Iron Maiden" just now...
-She seemed awfully nice for someone who's trying
-to kill me...#TriketosIffy
+It's just... That "Iron Maiden" or whatever...
+
+She was very sportsmanlike considering she still
+had a lot left in the tank...#TriketosIffy/Ron
 > END STRING
 
 > BEGIN STRING
@@ -1178,8 +1191,10 @@ go back in that room.#Triketos
 
 近寄るなと言ったはずだ、そこに置け。
 > CONTEXT: Map014/events/33/pages/2/84/Dialogue/kazuya-3
-Do not be silly. I told you not to get close, put
-it there.#MTLed
+Don't fuck with me.
+
+I thought I told you not to come near me. Just
+put it down over there.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1187,8 +1202,7 @@ it there.#MTLed
 
 取りに来られてはいかがですか？
 > CONTEXT: Map014/events/33/pages/2/89/Dialogue/yuuma
-......... if. How about being able to come to
-pick me up?#MTLed
+...In that case, why not come take it off me?#Ron
 > END STRING
 
 > BEGIN STRING

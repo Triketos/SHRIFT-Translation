@@ -728,7 +728,9 @@ I try exploring the new room I can get to.#Ron
 どうした、\\N[1]
 > CONTEXT: Map016/events/18/pages/3/42/Dialogue/yuuma
 > CONTEXT: Map016/events/18/pages/4/42/Dialogue/yuuma
-.........? What's up, \\N[1]#MTLed
+...?
+
+What's wrong, \\N[1]?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -737,8 +739,9 @@ I try exploring the new room I can get to.#Ron
 この部屋はもう今後進むうえで来ない場所か？
 > CONTEXT: Map016/events/18/pages/3/46/Dialogue/kazuya
 > CONTEXT: Map016/events/18/pages/4/46/Dialogue/kazuya
-Yuuma. Is this room no longer a place to move
-forward?#MTLed
+Yuuma...
+
+Is this room no longer of any use to us?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -747,16 +750,17 @@ forward?#MTLed
 電源も、通電さえ出来れば自動的に回復していくだろう。
 > CONTEXT: Map016/events/18/pages/3/50/Dialogue/yuuma
 > CONTEXT: Map016/events/18/pages/4/50/Dialogue/yuuma
-I did everything I could in this room.
-The power supply will also recover automatically
-if it can be energized.#MTLed
+I've done everything I can from here.
+
+The power and electric current will probably
+automatically restore itself.#RonIffy
 > END STRING
 
 > BEGIN STRING
 そうか。
 > CONTEXT: Map016/events/18/pages/3/54/Dialogue/kazuya
 > CONTEXT: Map016/events/18/pages/4/54/Dialogue/kazuya
-Really.#MTLed
+I see.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -765,7 +769,9 @@ Really.#MTLed
 何をしているんだ！\\N[1]！
 > CONTEXT: Map016/events/18/pages/3/68/Dialogue/yuuma
 > CONTEXT: Map016/events/18/pages/4/68/Dialogue/yuuma
-!!? What are you doing! \\N[1]!#MTLed
+?!!
+
+What are you doing, \\N[1]?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -774,8 +780,9 @@ Really.#MTLed
  燃やしてやってるのさ。
 > CONTEXT: Map016/events/18/pages/3/72/Dialogue/kazuya-3
 > CONTEXT: Map016/events/18/pages/4/72/Dialogue/kazuya-3
-............ This is a lonesome plant.
-I'm burning it.#MTLed
+These annoying plants are an eyesore, right?
+
+I'll burn them all.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -784,7 +791,9 @@ I'm burning it.#MTLed
 燃やさないで………！
 > CONTEXT: Map016/events/18/pages/3/90/Dialogue/enemy3
 > CONTEXT: Map016/events/18/pages/4/90/Dialogue/enemy3
-And stop ............!!Don't burn .........!#MTLed
+S-Stop it...!!
+
+Don't burn them...!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -793,7 +802,9 @@ And stop ............!!Don't burn .........!#MTLed
 しぶといな。
 > CONTEXT: Map016/events/18/pages/3/95/Dialogue/kazuya-3
 > CONTEXT: Map016/events/18/pages/4/95/Dialogue/kazuya-3
-..... still alive? It's tough.#MTLed
+...You're still alive?
+
+You're a tough one.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -802,9 +813,10 @@ And stop ............!!Don't burn .........!#MTLed
 \\C[2]だから……燃やしたら………魂も……
 > CONTEXT: Map016/events/18/pages/3/99/Dialogue/enemy3
 > CONTEXT: Map016/events/18/pages/4/99/Dialogue/enemy3
-The light is...The soul of 'human' is fused
-with us and shines ...! \\C[2]So ...... burn up ...
-...... also the soul ...#MTLed
+Those lights are shining with the fused souls of
+us and humans...!
+
+\\C[2]If you burn them... you'll burn the souls too!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -813,9 +825,9 @@ with us and shines ...! \\C[2]So ...... burn up ...
 火をっ……！火を消して………っ！！！
 > CONTEXT: Map016/events/18/pages/3/103/Dialogue/enemy3
 > CONTEXT: Map016/events/18/pages/4/103/Dialogue/enemy3
-Please ..... because I do not care......
-Let's have a fire ......! Turn the fire off ...
-...!!!#MTLed
+You can do whatever you want to me...
+
+Just please... don't burn them...!!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -824,15 +836,15 @@ Let's have a fire ......! Turn the fire off ...
 喜んでいたやつはいたのか？
 > CONTEXT: Map016/events/18/pages/3/108/Dialogue/kazuya
 > CONTEXT: Map016/events/18/pages/4/108/Dialogue/kazuya
-...... in that 'human', Were you the one who was
-delighted?#MTLed
+...Were any of those "humans" enjoying themselves
+while being fused?#Ron
 > END STRING
 
 > BEGIN STRING
 えっ……
 > CONTEXT: Map016/events/18/pages/3/112/Dialogue/enemy3
 > CONTEXT: Map016/events/18/pages/4/112/Dialogue/enemy3
-eh……#MTLed
+Huh...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -841,8 +853,8 @@ eh……#MTLed
 自ら喜んで飛び付いたやつはいたのか？
 > CONTEXT: Map016/events/18/pages/3/114/Dialogue/kazuya
 > CONTEXT: Map016/events/18/pages/4/114/Dialogue/kazuya
-Before being fucked by your pollen or honey
-Were you the one who jumped by yourself?#MTLed
+Did any of them happily offer themselves to you
+without the use of your pollen or nectar?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -851,8 +863,10 @@ Were you the one who jumped by yourself?#MTLed
 ここのやつらは、『生きたい』からこんな所に隠れたんだ。
 > CONTEXT: Map016/events/18/pages/3/118/Dialogue/kazuya
 > CONTEXT: Map016/events/18/pages/4/118/Dialogue/kazuya
-I guess it wasn't there. Those guys here hid in
-such a place from "I want to live".#MTLed
+No, there's no way.
+
+They were all hiding in here specifically because
+they wanted to survive.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -861,8 +875,8 @@ such a place from "I want to live".#MTLed
 彼らは生き残ろうとしたんだ。
 > CONTEXT: Map016/events/18/pages/3/122/Dialogue/kazuya
 > CONTEXT: Map016/events/18/pages/4/122/Dialogue/kazuya
-Turn off the power and block the escape route
-They tried to survive.#MTLed
+They wanted to survive so badly they cut the
+power and blocked off their own escape routes...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -871,8 +885,9 @@ They tried to survive.#MTLed
 自分勝手なお前たちの『灯火』のために……！
 > CONTEXT: Map016/events/18/pages/3/127/Dialogue/kazuya-3
 > CONTEXT: Map016/events/18/pages/4/127/Dialogue/kazuya-3
-But...you killed them! For the self-indulgent
-"lights" ...!#MTLed
+But then you all killed them!
+
+Just so you could make your stupid lights...!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -881,15 +896,16 @@ But...you killed them! For the self-indulgent
 その淡い希望すらも、お前たちは奪ったんだ！
 > CONTEXT: Map016/events/18/pages/3/131/Dialogue/kazuya-3
 > CONTEXT: Map016/events/18/pages/4/131/Dialogue/kazuya-3
-... of a 'human' who has a chance to never have
-it. You have taken away even that pale hope!#MTLed
+They were clinging on to the one in a million
+possibility of survival, and you all robbed them
+of even that faint hope...!#Ron
 > END STRING
 
 > BEGIN STRING
 あ………ああ…………
 > CONTEXT: Map016/events/18/pages/3/135/Dialogue/enemy3
 > CONTEXT: Map016/events/18/pages/4/135/Dialogue/enemy3
-Oh...... oh......#MTLed
+I-I... know...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -898,8 +914,9 @@ Oh...... oh......#MTLed
 私たちはヘカーテさまに、そう創られたもの……！
 > CONTEXT: Map016/events/18/pages/3/137/Dialogue/enemy3
 > CONTEXT: Map016/events/18/pages/4/137/Dialogue/enemy3
-Well, but...but ......... We are Hecate-sama,
-so created ...!#MTLed
+B-But... But...
+
+We were created that way by Hecate-sama...!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -908,22 +925,23 @@ so created ...!#MTLed
 愛し合って……ひとつに……っ！
 > CONTEXT: Map016/events/18/pages/3/141/Dialogue/enemy3
 > CONTEXT: Map016/events/18/pages/4/141/Dialogue/enemy3
-'Human' that I decided against
-Love each other ...... One thing ......!#MTLed
+If we make love with a human...
+
+We end up becoming one...!#Ron
 > END STRING
 
 > BEGIN STRING
 がっ…！！！
 > CONTEXT: Map016/events/18/pages/3/147/Dialogue/enemy
 > CONTEXT: Map016/events/18/pages/4/147/Dialogue/enemy
-Hm ...!!!#MTLed
+Gghh...!!!#Ron
 > END STRING
 
 > BEGIN STRING
 ………ゴチャゴチャうるさいな。
 > CONTEXT: Map016/events/18/pages/3/162/Dialogue/kazuya-3
 > CONTEXT: Map016/events/18/pages/4/162/Dialogue/kazuya-3
-......... sloppy.#MTLed
+Enough of your babbling...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -932,7 +950,7 @@ Hm ...!!!#MTLed
 化け物め。
 > CONTEXT: Map016/events/18/pages/3/164/Dialogue/kazuya-3
 > CONTEXT: Map016/events/18/pages/4/164/Dialogue/kazuya-3
-Soon I will slap. A monster.#MTLed
+Go back to hell, you fucking monster.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -941,8 +959,8 @@ Soon I will slap. A monster.#MTLed
 僕が終わらせてやる………。
 > CONTEXT: Map016/events/18/pages/3/168/Dialogue/kazuya-3
 > CONTEXT: Map016/events/18/pages/4/168/Dialogue/kazuya-3
-A way of life that can not be achieved without
-killing humans. I'll end it .... ...#MTLed
+I'll eradicate anything that survives only by
+preying on humanity...#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -951,8 +969,9 @@ killing humans. I'll end it .... ...#MTLed
 そいつは、放っておいても消滅する！！
 > CONTEXT: Map016/events/18/pages/3/173/Dialogue/yuuma
 > CONTEXT: Map016/events/18/pages/4/173/Dialogue/yuuma
-\\N[1]!!enough!! It will disappear even if left
-alone!!#MTLed
+That's enough, \\N[1]!!
+
+It'll disappear on its own!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -961,10 +980,10 @@ alone!!#MTLed
 『本来いるべき場所』に…………。
 > CONTEXT: Map016/events/18/pages/3/183/Dialogue/kazuya-3
 > CONTEXT: Map016/events/18/pages/4/183/Dialogue/kazuya-3
-You guys demon is ............
-It disappears ......... It is only to return to
-Demon Realm...... In "the place where it should
-be" .........#MTLed
+I'm guessing you demons return to the Demon Realm
+after disappearing...
+
+Back to where you belong...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -973,7 +992,9 @@ be" .........#MTLed
 全部、消してやる………。
 > CONTEXT: Map016/events/18/pages/3/187/Dialogue/kazuya-3
 > CONTEXT: Map016/events/18/pages/4/187/Dialogue/kazuya-3
-All ......... I will erase everything.......#MTLed
+I'll wipe it all out...
+
+All of it...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -982,6 +1003,6 @@ All ......... I will erase everything.......#MTLed
 『人間のいる世界』に、存在しちゃいけない……。
 > CONTEXT: Map016/events/18/pages/3/191/Dialogue/kazuya-3
 > CONTEXT: Map016/events/18/pages/4/191/Dialogue/kazuya-3
-The existence that kills human beings .........
-Don't exist in "Human realm" ....#MTLed
+Entities that prey on humans must not be allowed
+to exist in the human realm...#Ron
 > END STRING
