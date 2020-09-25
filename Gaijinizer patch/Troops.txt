@@ -934,7 +934,7 @@ Barghest (G)#MTLed
 > BEGIN STRING
 ………ワ…ｫﾝ…♡
 > CONTEXT: Troops/8/pages/1/10/Dialogue/バーゲスト
-......... Wain...hon...♡#MTLed
+...W... an... ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -942,20 +942,23 @@ Barghest (G)#MTLed
 
 しかし、\\N[1]になおも甘えようと近づいてくる……
 > CONTEXT: Troops/8/pages/1/12/Dialogue
-barghest is about to fall. However, I will approach \\N[1]
-to be still sweeter ...#MTLed
+Barghest looks like she's about to collapse.
+
+Despite this, she approaches \\N[1] trying to win him
+over...#CheckLater
 > END STRING
 
 > BEGIN STRING
 クゥン…
 > CONTEXT: Troops/8/pages/3/1/Dialogue/バーゲスト2
-nnn ...#MTLed
+Kyunn...#Ron
 > END STRING
 
 > BEGIN STRING
 バーゲストは、力なくすり寄って甘えている……
 > CONTEXT: Troops/8/pages/3/3/Dialogue
-barghest is snug and sweetened without force ...#MTLed
+Barghest is weakly nestling up to \\N[1] in an effort to
+placate him...#CheckLater
 > END STRING
 
 > BEGIN STRING
@@ -969,7 +972,9 @@ Let her go en(s[1000000])#Dargoth
 
 遅すぎるんだよ…！
 > CONTEXT: Troops/8/pages/3/40/Dialogue/kazuya-3
-Ha!? It's too late ...!#MTLed
+What?!
+
+It's too late for that...!#Ron
 > END STRING
 
 > BEGIN STRING
