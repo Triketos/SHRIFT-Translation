@@ -2,13 +2,13 @@
 > BEGIN STRING
 …………待ってたよ、\\N[1]。
 > CONTEXT: Map279/events/3/pages/0/62/Dialogue/enemy
-...... I was waiting, \\N[1].#MTLed
+...I've been waiting for you, \\N[1].#Ron
 > END STRING
 
 > BEGIN STRING
 ランパス…………
 > CONTEXT: Map279/events/3/pages/0/65/Dialogue/kazuya
-Lampas ............#MTLed
+Lampas...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -16,7 +16,9 @@ Lampas ............#MTLed
 
 このフロアのランパスに一回も会わなくて。
 > CONTEXT: Map279/events/3/pages/0/67/Dialogue/enemy
-surprised? I have never met Lampas on this floor.#MTLed
+Were you surprised?
+
+You haven't run into a single Lampas.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -24,8 +26,8 @@ surprised? I have never met Lampas on this floor.#MTLed
 
 『あの人間は、私が灯火を灯す相手』だって…
 > CONTEXT: Map279/events/3/pages/0/71/Dialogue/enemy
-I have told everyone that♪. "That person is the
-one I'm going to light" ...#MTLed
+I told all the others to leave you alone, that
+I'd be the one to make a light with you...♪#Ron
 > END STRING
 
 > BEGIN STRING
@@ -34,10 +36,10 @@ one I'm going to light" ...#MTLed
 私らランパスってさ、タイマンが基本だからさ。
 そういう契約ってのは何より重視するんだ♪
 > CONTEXT: Map279/events/3/pages/0/75/Dialogue/enemy
-Well, what is the so-called boyfriend
-declaration? We, Lampas, are the basics of
-Taiman. Above all, such a contract is more
-important♪#MTLed
+I guess it's kinda like declaring you're my
+boyfriend or something. You see we Lampas are all
+about one-on-one time, getting that contract is
+more important than anything. ♪#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -45,8 +47,9 @@ important♪#MTLed
 
 今からそうなるんですけどね？♡
 > CONTEXT: Map279/events/3/pages/0/80/Dialogue/enemy
-......... Maa. It will be so from now on, right?
-Moth#MTLed
+Well...
+
+That's how it's going to from here on, okay? ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -54,8 +57,9 @@ Moth#MTLed
 
 この時を待ってたよ……\\N[1]
 > CONTEXT: Map279/events/3/pages/0/90/Dialogue/enemy
-I was off guard ...... I've been waiting for this
-time...\\N[1]#MTLed
+You let your guard down...
+
+I've been waiting for this moment, \\N[1]...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -63,8 +67,10 @@ time...\\N[1]#MTLed
 
 この時に、本気であなたを捕まえてたらって……
 > CONTEXT: Map279/events/3/pages/0/94/Dialogue/enemy
-I...I always thought about it in that world ...
-At this time, if you really catch you ...#MTLed
+Thing is... back in that "other world" I thought
+about it lots and lots...
+
+About how I'd really catch you this time...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -73,9 +79,10 @@ At this time, if you really catch you ...#MTLed
 
 ちょっとだけ、後悔してたんだ……
 > CONTEXT: Map279/events/3/pages/0/98/Dialogue/enemy
-You can be one with me .........
-It is not burned by Hecate......
-I regret it for a moment ...#MTLed
+We could become one...
+Hecate won't come and set me on fire...
+
+I always had some regrets about all that...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -83,8 +90,9 @@ I regret it for a moment ...#MTLed
 
 今度は逃がさないから…………♡♡
 > CONTEXT: Map279/events/3/pages/0/103/Dialogue/enemy
-Okay...\\N[1], be prepared...♡
-I will not escape this time ...... ♡♡#MTLed
+Okay \\N[1]... prepare yourself... ♡
+
+I won't let you go this time... ♡♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -92,7 +100,9 @@ I will not escape this time ...... ♡♡#MTLed
 
 ビックリした？\\N[1]。
 > CONTEXT: Map279/events/5/pages/1/12/Dialogue/enemy
-............... surprised?\\N[1].#MTLed
+Just kidding...
+
+Did I spook you?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -101,9 +111,9 @@ I will not escape this time ...... ♡♡#MTLed
 またこの世界に来たってことは
  この先で、まだまだ見たいものがあるんだよね？
 > CONTEXT: Map279/events/5/pages/1/16/Dialogue/enemy
-I know………. I also came to this world
-There are still things I want to see in the
-future, right?#MTLed
+I get it... You've come back to this world
+because there are still things you need to see,
+right?#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -111,8 +121,9 @@ future, right?#MTLed
 
 私はいつだって\\N[1]を待つから………
 > CONTEXT: Map279/events/5/pages/1/21/Dialogue/enemy
-You can always meet in my room ...
-Because I always wait for \\N[1] .........#MTLed
+You can see me whenever you want in My Room...
+
+Because I'll always be there waiting for you...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -120,7 +131,9 @@ Because I always wait for \\N[1] .........#MTLed
 
 ランパス……
 > CONTEXT: Map279/events/5/pages/1/25/Dialogue/kazuya
-................ Lampas ......#MTLed
+...
+
+Lampas...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -128,7 +141,9 @@ Because I always wait for \\N[1] .........#MTLed
 
 見せつけてくれるじゃないの、ランパス
 > CONTEXT: Map279/events/5/pages/1/34/Dialogue/enemy2
-Ah, ah. You can show me Lampas#MTLed
+Oh no...
+
+Get a room already...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -136,8 +151,9 @@ Ah, ah. You can show me Lampas#MTLed
 
  懲りないなぁ………
 > CONTEXT: Map279/events/5/pages/1/45/Dialogue/enemy2
-You, are you going to betray here too?
-I will not hesitate .........#MTLed
+Are you planning on betraying me here, too?
+
+You really don't learn your lesson, do you...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -146,9 +162,10 @@ I will not hesitate .........#MTLed
 なんだか面白い動きしてるなーって今まで観察してたけど…
 なんかもう飽きちゃった♪
 > CONTEXT: Map279/events/5/pages/1/50/Dialogue/enemy2
-The human beings are supposed to only rub in with
-"nutrients". It's an interesting move, but I've
-observed it so far...I got bored already♪#MTLed
+It was kinda interesting observing what you guys
+were doing instead of grinding humans into
+nutrients like you're supposed to.
+But I'm bored now. ♪#Ron
 > END STRING
 
 > BEGIN STRING
@@ -156,14 +173,14 @@ observed it so far...I got bored already♪#MTLed
 
  ジュッて燃やしてあげるよ………
 > CONTEXT: Map279/events/5/pages/1/55/Dialogue/enemy2
-Next time I won't even have charcoal left
-I'm gonna burn it .........#MTLed
+This time, I'm gonna burn you so thoroughly
+you won't even leave any charcoal behind...#Ron
 > END STRING
 
 > BEGIN STRING
 …………………あれ？
 > CONTEXT: Map279/events/5/pages/1/65/Dialogue/enemy3
-…………………that?#MTLed
+...Huh?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -171,7 +188,9 @@ I'm gonna burn it .........#MTLed
 
 なんで燃えないの？
 > CONTEXT: Map279/events/5/pages/1/70/Dialogue/enemy3
-why…? Why don't you burn?#MTLed
+What...?
+
+Why won't you burn?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -179,8 +198,9 @@ why…? Why don't you burn?#MTLed
 
 さすがに本気はダメかと思ったわ……
 > CONTEXT: Map279/events/5/pages/1/75/Dialogue/enemy
-Uh...... I was beaten......
-I thought I was really serious ...#MTLed
+Haah... You had me for a second...
+
+I thought I really might've been a goner...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -188,8 +208,8 @@ I thought I was really serious ...#MTLed
 
 \\C[2]『粘液クリーム』…………
 > CONTEXT: Map279/events/5/pages/1/79/Dialogue/enemy
-As Echo-chan says, it was good to put it on ...
-\\C[2]"Mucus cream" ............#MTLed
+I'm glad I listened to Echo-chan and put on some
+of that \\C[2]Mucus Cream...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -197,9 +217,9 @@ As Echo-chan says, it was good to put it on ...
 
 これなラ、火だけジゃナくて、日焼ケも安心だよ………
 > CONTEXT: Map279/events/5/pages/1/91/Dialogue/enemy13
-Good description, Lampas Chan ......
-It is safe to say that only this is a fire, and
-even sunburns are safe.#MTLed
+It's gREaT, rIgHt LaMPAs-chaN...
+
+It pROTecTs agAInsT sUnbUrns toO...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -207,13 +227,14 @@ even sunburns are safe.#MTLed
 私、どっかの\\{クソ上司\\}のせいで
 火だけがてんで弱いからなーーー！
 > CONTEXT: Map279/events/5/pages/1/99/Dialogue/enemy
-Hmm, this is good ............ I think!
-Me, somewhere\\{ Fucking boss\\} Because of the
-Because only fire is weak and it is weak.#MTLed
+Yep, I love it...!
+
+I mean, I'm only weak to fire thanks to a
+certain \\{shitty boss\\}.#RonIffy
 > END STRING
 
 > BEGIN STRING
 （顔真っ赤にして帰っちゃった………）
 > CONTEXT: Map279/events/5/pages/1/111/Dialogue/kazuya
-(I turned home in red......)#MTLed
+(She turned bright red and left...)#Ron
 > END STRING

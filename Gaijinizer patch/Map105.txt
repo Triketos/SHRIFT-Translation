@@ -208,14 +208,16 @@ Follow me, this way.#Ron
 
 また会えたね………
 > CONTEXT: Map105/events/10/pages/6/16/Dialogue/enemy13
-\\N[1] ......... I met again......#MTLed
+\\N[1]...!
+
+We got to meet again...#Ron
 > END STRING
 
 > BEGIN STRING
 エコー……
 > CONTEXT: Map105/events/10/pages/6/20/Dialogue/kazuya
 > CONTEXT: Map121/events/5/pages/1/422/Dialogue/kazuya
-Echo ......#MTLed
+Echo...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -223,8 +225,10 @@ Echo ......#MTLed
 
  先を急ぐんでしょう……？
 > CONTEXT: Map105/events/10/pages/6/22/Dialogue/enemy13
-Waterways and ladders...... because I was able
-to go through. Will you hurry ahead ...?#MTLed
+I activated all the waterways and set all the
+ladders so you can go through.
+
+You're in a hurry, right...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -232,8 +236,9 @@ to go through. Will you hurry ahead ...?#MTLed
 
 以前驚かせてしまったお詫びもかねて……ね。
 > CONTEXT: Map105/events/10/pages/6/26/Dialogue/enemy13
-I can only do this. I apologize for a long time
-ago ...#MTLed
+This is the best I can do...
+
+I'm sorry for scaring you that time before...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -241,15 +246,15 @@ ago ...#MTLed
 
 私でよければ………好きにしていいから……♡
 > CONTEXT: Map105/events/10/pages/6/31/Dialogue/enemy13
-If you want to be healed, always come to my room
-If you want me...... because you can like it
-... ♡#MTLed
+Come visit me in My Room if you ever want some
+healing. If you're okay with me, you can do
+whatever you like... ♡#Ron
 > END STRING
 
 > BEGIN STRING
 じゃあね……\\N[1]。
 > CONTEXT: Map105/events/10/pages/6/35/Dialogue/enemy13
-Well then...\\N[1].#MTLed
+Catch you later, \\N[1].#Ron
 > END STRING
 
 > BEGIN STRING
