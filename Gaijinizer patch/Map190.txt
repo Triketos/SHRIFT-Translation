@@ -3,7 +3,7 @@
 
 　　　　　　結博士のメモ？
 > CONTEXT: Map190/events/4/pages/0/2/Dialogue
-Memo of Dr. Kurosawa.#MTLed
+A memo from Professor Kurosawa?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -11,14 +11,15 @@ Memo of Dr. Kurosawa.#MTLed
 
 絶対座標ズレるわこれ……o(┬_┬)o 
 > CONTEXT: Map190/events/4/pages/0/6/Dialogue
-Too far (No`)...... Absolute coordinate shift is this
-...... o (┬ _ ┬) o#MTLed
+That's too far ( ノД`)
+
+Those aren't the right coordinates o (┬ _ ┬) o#Ron
 > END STRING
 
 > BEGIN STRING
 羊「君、装備はちゃんとしてる？」
 > CONTEXT: Map190/events/5/pages/0/0/Dialogue
-sheep「Are you equipped properly?」#MTLed
+Sheep「Are you properly equipped?」#Ron
 > END STRING
 
 > BEGIN STRING
@@ -26,8 +27,9 @@ sheep「Are you equipped properly?」#MTLed
 
 　　魔法中心の戦い方は今後一切出来ないよ。」
 > CONTEXT: Map190/events/5/pages/0/2/Dialogue
-sheep「The thing that returns the magic is\\C[2] You won't shoot
-magic. I can not do any magic-oriented battle from now on.」#MTLed
+Sheep「Keep in mind that \\C[2]you won't be able to use magic
+       after you've returned it. You won't be able to rely
+       on your spells from here on.」#Ron
 > END STRING
 
 > BEGIN STRING
@@ -35,8 +37,8 @@ magic. I can not do any magic-oriented battle from now on.」#MTLed
 
 　　別の武器に装備し直しておくといいよ。」
 > CONTEXT: Map190/events/5/pages/0/6/Dialogue
-sheep「\\C[2]Because the linear launcher is also out of equipment
-You should re-equip another weapon.」#MTLed
+Sheep「\\C[2]The Linear Cannon was a one-shot gun, so
+       make sure you equip another weapon.」#Ron
 > END STRING
 
 > BEGIN STRING
@@ -45,5 +47,5 @@ You should re-equip another weapon.」#MTLed
 > CONTEXT: Map190/events/6/pages/0/2/Choice/0
 > CONTEXT: Map190/events/7/pages/0/2/Choice/0
 > CONTEXT: Map190/events/8/pages/0/2/Choice/0
-Go to the roof#MTLed
+Go to the roof#Ron
 > END STRING
