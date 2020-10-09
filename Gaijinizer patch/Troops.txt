@@ -192,8 +192,8 @@ Barghest (tutorial)#MTLed
 バーゲストと呼ばれる悪魔は
 息を荒げて、こちらの様子をうかがっている…
 > CONTEXT: Troops/2/pages/2/2/Dialogue
-This is a demon called a Barghest. It's breathing
-heavily and staring intently at me.#Ron
+The Barghest is breathing heavily and staring
+intently at me.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -202,8 +202,8 @@ heavily and staring intently at me.#Ron
 　　　　撃つのをためらってんのか？」
 > CONTEXT: Troops/2/pages/2/8/Dialogue
 ???「Hey now! What's the matter?!
-You don't wanna shoot it because it looks kinda
-like a dog?」#Ron
+     You don't wanna shoot it because it looks kinda
+     like a dog?」#Ron
 > END STRING
 
 > BEGIN STRING
@@ -218,6 +218,7 @@ What?!? What are you!? Where'd you come from?#Ron
 俺も『悪魔』ってやつだよ。どっから出てきたって勝手だろ
 > CONTEXT: Troops/2/pages/2/17/Dialogue/other1
 What a rude guy you are.
+
 I'm a demon too. Where'd I come from? Wherever
 I feel like coming from.#Ron
 > END STRING
@@ -234,8 +235,9 @@ But don't worry. I'm on your side.#Ron
 
 とある奴から飛ばされた　『使い魔』　ってやつだ。
 > CONTEXT: Troops/2/pages/2/23/Dialogue/other1
-A certain magician blew me over here to help
-you since you just woke up and all.#Ron
+I'm a "familiar", sent over by a certain someone
+to give you a hand since you've only just woken
+up and all.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -243,8 +245,8 @@ you since you just woke up and all.#Ron
 
 おまえ、その銃撃てるのか？
 > CONTEXT: Troops/2/pages/2/27/Dialogue/other1
-...... So, are you just gonna flap around,
-or are you gonna shoot that gun?#Ron
+...So, are you just gonna flap around, or are
+you gonna shoot that gun?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -253,6 +255,7 @@ or are you gonna shoot that gun?#Ron
 このタイプのモデルガンくらいなら…。
 > CONTEXT: Troops/2/pages/2/31/Dialogue/kazuya
 I've never fired a r-real gun before but...
+
 Maybe if it's just a model gun like this...#Ron
 > END STRING
 
@@ -261,7 +264,8 @@ Maybe if it's just a model gun like this...#Ron
 
 それなら話は早い。
 > CONTEXT: Troops/2/pages/2/35/Dialogue/other1
-OK, do you know where the safety is?
+Okay, do you know where the safety is?
+
 If so, you're pretty much there.#Ron
 > END STRING
 
@@ -278,7 +282,7 @@ off.\\C[0] That's it.#Ron
 > BEGIN STRING
 で、でも……あんな……
 > CONTEXT: Troops/2/pages/2/45/Dialogue/kazuya
-But... That kind of thing is...#Ron
+B-But... That kind of thing is...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -304,7 +308,7 @@ Well, of course.
 悪魔と性交するって事は\\C[2]魂を捧げるってことだ。
 \\C[0]出すとき気持ちよくても、ラクな死に方は出来ないぜ。
 > CONTEXT: Troops/2/pages/2/53/Dialogue/other1
-But don't forget. Sexual intercourse with demons
+But don't forget, sexual intercourse with demons
 means \\C[2]giving up your soul to them.
 \\C[0]Even if it feels good when you cum, it won't
 be a nice way to go out.#RonIffy
@@ -315,7 +319,8 @@ be a nice way to go out.#RonIffy
 
 大丈夫だ、悪魔が銃なんかで本気で傷つくかよ！！
 > CONTEXT: Troops/2/pages/2/58/Dialogue/other1
-Just shoot it!!
+Just try shooting it!!
+
 It's okay, as if you'd really hurt a demon with
 a gun!!#Ron
 > END STRING
@@ -348,7 +353,7 @@ in this darkness!!#Ron
 > BEGIN STRING
 ウウウゥ……
 > CONTEXT: Troops/2/pages/4/9/Dialogue/バーゲスト
-Raaar......#MTLed
+Awooo...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -362,7 +367,8 @@ Ah rats... it's been spooked away.#Ron
 ま、まずい……
 完全に姿を見失った……
 > CONTEXT: Troops/2/pages/4/16/Dialogue/kazuya
-This is bad...
+T-This is bad...
+
 I've completely lost sight of it.#Ron
 > END STRING
 
@@ -382,7 +388,7 @@ Right, there's nothing for it.#Ron
 > BEGIN STRING
 \\{はあっ！？
 > CONTEXT: Troops/2/pages/4/24/Dialogue/kazuya
-\\{WHAT!?#Ron
+\\{WHAT?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -420,13 +426,14 @@ letting down your guard is a useful strategy.#Ron
 モタモタするな！！思いっきり脱ぐんだ！！
 > CONTEXT: Troops/2/pages/4/38/Dialogue/other1
 Now get naked!!! Hurry up and do it!!!
+
 Don't dawdle!! Get naked with all your heart!!#Ron
 > END STRING
 
 > BEGIN STRING
 言い方ぁ！！？
 > CONTEXT: Troops/2/pages/4/42/Dialogue/kazuya
-What're you saying!!?#Ron
+What're you saying?!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -456,6 +463,7 @@ Y-Yeah but...#Ron
 『\\C[27]あのおっぱい達に埋もれたい\\C[0]』とか思ってるな？
 > CONTEXT: Troops/2/pages/5/14/Dialogue/other1
 ...Riiight, I see what's happening.
+
 \\C[27]You want to be buried in those boobs\\C[0],
 is that it?#Ron
 > END STRING
@@ -465,7 +473,8 @@ is that it?#Ron
 
 やっぱり無抵抗な奴を撃つのはためらうんだ！
 > CONTEXT: Troops/2/pages/5/18/Dialogue/kazuya-0
-I-idiot!! Stop saying weird things!!
+I-Idiot!! Stop saying weird things!!
+
 I really can't shoot something that isn't
 fighting back!#Ron
 > END STRING
@@ -476,6 +485,7 @@ fighting back!#Ron
 そ、そこばっかり気になるじゃないか…！！
 > CONTEXT: Troops/2/pages/5/22/Dialogue/kazuya-0
 I mean, stop saying such weird stuff...!
+
 Like I'd be interested in that thing...!!#Ron
 > END STRING
 
@@ -496,7 +506,7 @@ body is designed to tempt you.\\C[0]#Ron
 > CONTEXT: Troops/2/pages/5/30/Dialogue/other1
 If you've got your clothes off and you're
 thinking "Oh man, I can't hold back", \\C[2]you can
-jump her bones with the "Submit" command.#Ron
+jump her bones with the "Submission" commands.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -565,8 +575,9 @@ were surprised by this strange situation.#Ron
 な…なんだこれ……！
 ウ……ウゥ…ガ………！！
 > CONTEXT: Troops/3/pages/1/41/Dialogue/kazuya
-What...What is this...! Ugh...... Urgh......
-Ggh...!!#Ron
+W-What is this...!
+
+Ugh...... Urgh......Ggh...!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -650,7 +661,9 @@ That... tickles..♡#Triketos
 や…やああ……♡
 > CONTEXT: Troops/3/pages/2/75/Dialogue/kazuya-0
 > CONTEXT: Troops/5/pages/0/61/Dialogue/kazuya-0
-Whaa...♡ Ohh... Ohhhh...#Ron
+Whaa...♡
+
+Ohh... Ohhhh...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -671,7 +684,9 @@ the moment I give in to the pleasure.#Ron
 あ…あひぃ…♡
 た…たすけ……
 > CONTEXT: Troops/3/pages/2/86/Dialogue/kazuya-0
-Oh...ahhhh...♡ H-...help...#Ron
+Oh...ahhhh...♡
+
+H-Help...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -746,7 +761,7 @@ Well I'm gonna head back. Survive this using that
 
 お前犯られるぞ。
 > CONTEXT: Troops/3/pages/2/132/Dialogue/other1
-... You'll probably \\C[2]have to kick her off
+...You'll probably \\C[2]have to kick her off
 on the next turn, or you're gonna get raped.#Ron
 > END STRING
 
@@ -919,7 +934,7 @@ Barghest (G)#MTLed
 > BEGIN STRING
 ………ワ…ｫﾝ…♡
 > CONTEXT: Troops/8/pages/1/10/Dialogue/バーゲスト
-......... Wain...hon...♡#MTLed
+...W... an... ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -927,20 +942,23 @@ Barghest (G)#MTLed
 
 しかし、\\N[1]になおも甘えようと近づいてくる……
 > CONTEXT: Troops/8/pages/1/12/Dialogue
-barghest is about to fall. However, I will approach \\N[1]
-to be still sweeter ...#MTLed
+Barghest looks like she's about to collapse.
+
+Despite this, she approaches \\N[1] trying to win him
+over...#CheckLater
 > END STRING
 
 > BEGIN STRING
 クゥン…
 > CONTEXT: Troops/8/pages/3/1/Dialogue/バーゲスト2
-nnn ...#MTLed
+Kyunn...#Ron
 > END STRING
 
 > BEGIN STRING
 バーゲストは、力なくすり寄って甘えている……
 > CONTEXT: Troops/8/pages/3/3/Dialogue
-barghest is snug and sweetened without force ...#MTLed
+Barghest is weakly nestling up to \\N[1] in an effort to
+placate him...#CheckLater
 > END STRING
 
 > BEGIN STRING
@@ -954,7 +972,9 @@ Let her go en(s[1000000])#Dargoth
 
 遅すぎるんだよ…！
 > CONTEXT: Troops/8/pages/3/40/Dialogue/kazuya-3
-Ha!? It's too late ...!#MTLed
+What?!
+
+It's too late for that...!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -964,8 +984,9 @@ Ha!? It's too late ...!#MTLed
 > CONTEXT: Troops/10/pages/2/9/Dialogue/yuuma
 > CONTEXT: Troops/11/pages/2/9/Dialogue/yuuma
 > CONTEXT: Troops/12/pages/2/9/Dialogue/yuuma
-Sorry....
-That's all for now....#Triketos
+How unfortunate...
+
+We'll have to leave things here, for now...#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -977,7 +998,8 @@ That's all for now....#Triketos
 > CONTEXT: Troops/12/pages/2/13/Dialogue/yuuma
 > CONTEXT: Troops/39/pages/2/13/Dialogue/yuuma
 > CONTEXT: Troops/40/pages/2/13/Dialogue/yuuma
-Hehehe...I won't give up.
+Fufufu... I won't give up.
+
 I'll come back to visit you in a bit...#Triketos
 > END STRING
 
@@ -1287,7 +1309,9 @@ In the heart, the determination seems to be shaking#MTLed
 
 はあっ………！！
 > CONTEXT: Troops/15/pages/2/0/Dialogue/kazuya-3
-What………!!What………! !#MTLed
+Haaah...!!
+
+Haaah...!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1295,8 +1319,9 @@ What………!!What………! !#MTLed
 
 まともに戦っても、私を倒してしまいますか…
 > CONTEXT: Troops/15/pages/2/4/Dialogue/yuuma
-... ...... It is wonderful. If I fight properly,
-will I defeat me ...#MTLed
+How wonderful...
+
+You've beaten me in a proper fight...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1304,8 +1329,10 @@ will I defeat me ...#MTLed
 
 この修羅の行く先を見届けたいのですね……
 > CONTEXT: Troops/15/pages/2/8/Dialogue/yuuma
-You're up there ......... I would like to see
-where this shura will go ...#MTLed
+You've come so far...
+
+You want to see just how far this carnage and
+bloodshed will take you, don't you?#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -1313,8 +1340,8 @@ where this shura will go ...#MTLed
 
 私はあなたに『この道』を進んでほしくはない。
 > CONTEXT: Troops/15/pages/2/13/Dialogue/yuuma
-if you can………. I do not want you to go "this
-way".#MTLed
+I'd rather you didn't take this path if at all
+possible...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1322,9 +1349,8 @@ way".#MTLed
 
 そんな『道』の選択だって、いくらでも出来たはずです……。
 > CONTEXT: Troops/15/pages/2/17/Dialogue/yuuma
-Calmer...smiley...Even if it was the choice
-of such a "way", it should have been made
-.........#MTLed
+You must have had so many options to choose a
+more gentle, peaceful, road.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1332,7 +1358,9 @@ of such a "way", it should have been made
 
 私の『抵抗』も、ここまでのようです。
 > CONTEXT: Troops/15/pages/2/21/Dialogue/yuuma
-But ......... My "struggle" seems to be this far.#MTLed
+But...
+
+This appears to be my limit.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1340,9 +1368,10 @@ But ......... My "struggle" seems to be this far.#MTLed
 
 一緒に行く末を見守ることにしますよ………。
 > CONTEXT: Troops/15/pages/2/25/Dialogue/yuuma
-I too...... become a "food" of your magic ...
-I will watch the end of my journey together
-.........#MTLed
+I too... will become sustenance for your magic...
+
+I'll be watching how this all ends together with
+you...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -8669,9 +8698,8 @@ Gaah!!!#afrg
 > CONTEXT: Troops/301/pages/2/54/Dialogue
 > CONTEXT: Troops/302/pages/2/54/Dialogue
 > CONTEXT: Troops/329/pages/2/54/Dialogue
-By achieving victory in battle, \\C[2]I regained
-
-some confidence in fighting Camazotz...#afrg
+By winning against her in battle, \\C[2]I've gotten back
+some of my fighting spirit against Camazotz...#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -8835,8 +8863,9 @@ Daiji (Launcher)#MTLed
 
  発射するには、もう少し時間がかかりそうだ…
 > CONTEXT: Troops/241/pages/2/24/Dialogue
-Charge of linear launcher has begun ......!
-It will take some more time to launch ...#MTLed
+The Linear Cannon has started charging...!
+
+It's going to take a bit of time before I can fire it...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -8844,8 +8873,8 @@ It will take some more time to launch ...#MTLed
 
  今度はその玩具で、妾を倒そうというのか？
 > CONTEXT: Troops/241/pages/2/28/Dialogue/enemy17
-What's ...? This time, with that toy, are you
-going to beat the whistle?#MTLed
+What's that...? Are you planning to defeat me
+with that toy?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -8853,8 +8882,8 @@ going to beat the whistle?#MTLed
 
 見たところ、準備に時間がかかると見える。
 > CONTEXT: Troops/241/pages/2/32/Dialogue/enemy17
-Potato, that toy...Apparently, it takes time to
-prepare.#MTLed
+Hmm, but it looks like that toy will take some
+time to get ready.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -8863,9 +8892,9 @@ prepare.#MTLed
 
  それならば、妾も少々気が変わった……
 > CONTEXT: Troops/241/pages/2/38/Dialogue/enemy17
-HM………. I thought that I would try to break into
-eight and use it without asking.
-Then my mind changed a bit ...#MTLed
+Hmph, I thought I'd tear you limb from limb and
+eat you, but seeing that thing you've got there,
+I think I've changed my mind a little...#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -8873,9 +8902,10 @@ Then my mind changed a bit ...#MTLed
 
 じゃが、今度は少々強引にゆくぞ………♡
 > CONTEXT: Troops/241/pages/2/43/Dialogue/enemy17
-Let's start the continuation of the end...♡
-But now, I'm going to push a little bit ......
-... ♡#MTLed
+Let's start from where we left off... ♡
+
+But I'm going to be a little more forceful
+this time... ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -8883,14 +8913,13 @@ But now, I'm going to push a little bit ......
 
  \\N[1]……
 > CONTEXT: Troops/241/pages/2/47/Dialogue/enemy17
-Is it able to endure Nushi really?
-\\N[1] ......#MTLed
+Will you really be able to endure, \\N[1]...?#Ron
 > END STRING
 
 > BEGIN STRING
 うっ……！！？
 > CONTEXT: Troops/241/pages/2/52/Dialogue/kazuya-0
-ugh......!!?#MTLed
+Urgh...?!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -8898,8 +8927,9 @@ ugh......!!?#MTLed
 
 \\C[2]拘束に対しての、抵抗ができない……！！
 > CONTEXT: Troops/241/pages/2/54/Dialogue
-"Afraid mind" was planted in the mind of \\N[1] ...!
-\\C[2]I can't struggle with bound ...! !#MTLed
+\\N[1] has been instilled with terror...!
+
+\\C[2]He won't be able to struggle against bindings...!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -8908,8 +8938,10 @@ ugh......!!?#MTLed
 さっきと同じようにやれば、少しの間ならしのげる…
 そう思ったか？
 > CONTEXT: Troops/241/pages/2/58/Dialogue/enemy17
-Hojo...If you do it the same way, it will be a
-little longer...Did you think so?#MTLed
+Hohoho...
+
+Do you think you'll be able to survive by
+fighting the same way as before?#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -8917,9 +8949,10 @@ little longer...Did you think so?#MTLed
 
 妾の快楽攻めに、いつまで耐えられるかな…？
 > CONTEXT: Troops/241/pages/2/63/Dialogue/enemy17
-Now that you are\\C[2] I can only endure ...\\C[0]
-How long can you endure the pleasure attack of
-the wolf ...?#MTLed
+\\C[2]All you can do now is endure...\\C[0]
+
+I wonder how long you'll be able to resist my
+pleasure attacks...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -8927,8 +8960,9 @@ the wolf ...?#MTLed
 
 さぁ、降服してしまえ………♡♡
 > CONTEXT: Troops/241/pages/2/143/Dialogue/enemy17
-You've caught me...I can't run away ...
-Well, let's get down......... ♡♡#MTLed
+I've got you now... ♡ No more running away...
+
+Time for you to submit to me... ♡♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -8936,14 +8970,15 @@ Well, let's get down......... ♡♡#MTLed
 
 最高の快感が待っておるぞ……
 > CONTEXT: Troops/241/pages/2/147/Dialogue/enemy17
-You just need to ease your mind ......
-The best pleasure is waiting for you ......#MTLed
+You can just relax...
+
+The greatest pleasure in the world awaits...#Ron
 > END STRING
 
 > BEGIN STRING
 妲己が突然、身を引いて苦しみ始めた…！
 > CONTEXT: Troops/241/pages/5/21/Dialogue
-Daiji suddenly pulled out and began to suffer ...!#MTLed
+Daiji suddenly pulled away in pain...!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -8952,9 +8987,9 @@ Daiji suddenly pulled out and began to suffer ...!#MTLed
 さっきは、やけにあっさり大人しくなったと思ったら
 ……そういうことか！！
 > CONTEXT: Troops/241/pages/5/23/Dialogue/enemy17
-Gu ..... Gu .......... This is......! !
-If I thought that I became adult easily
-... That's it! !#MTLed
+Ggh... Gghh... You impudent little...!!
+
+I thought I'd subdued you... To think you'd...!!#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -8962,7 +8997,9 @@ If I thought that I became adult easily
 
 \\C[2]ユウマ………！！！
 > CONTEXT: Troops/241/pages/5/28/Dialogue/kazuya-0
-!!!!!!\\C[2]Yuuma .........!!!#MTLed
+!!!
+
+\\C[2]Yuuma...!!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -8971,8 +9008,10 @@ If I thought that I became adult easily
 
 \\C[2]ユウマも、一緒に『抵抗』してくれている……！！
 > CONTEXT: Troops/241/pages/5/32/Dialogue
-That's it……. I am not alone...... \\C[2]Yuuma is also doing
-"struggle" together ...! !#MTLed
+That's right...
+
+I'm not alone... \\C[2]Yuuma's struggling together
+with me...!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -8980,8 +9019,8 @@ That's it……. I am not alone...... \\C[2]Yuuma is also doing
 
 \\C[2]妲己の次の攻撃に備えて体勢を整えなければ……！
 > CONTEXT: Troops/241/pages/5/37/Dialogue
-It's out now...\\C[2]I have to get ready for the next attack on
-Daiji ...!#MTLed
+\\C[2]I have to get ready for Daiji's next attack while I
+have the chance...!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -8989,8 +9028,8 @@ Daiji ...!#MTLed
 
  貴様らの悪あがきは、もう十分堪能したわ！！
 > CONTEXT: Troops/241/pages/5/41/Dialogue/enemy17
-Yeah, lonesome ......!!Your evil temper has
-already been fully enjoyed! !#MTLed
+Aarrrgh, how aggravating...!! I've had enough of
+the pointless struggling of you worms!!#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -8998,8 +9037,8 @@ already been fully enjoyed! !#MTLed
 
  人間ごときがぁ……！！
 > CONTEXT: Troops/241/pages/5/45/Dialogue/enemy17
-I hope I will be a source of food in a
-comfortable way.!Human-like time ......! !#MTLed
+Just give up and become my nourishment, you
+worthless humans...!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -9007,13 +9046,15 @@ comfortable way.!Human-like time ......! !#MTLed
 
 ククっ…！！
 > CONTEXT: Troops/241/pages/8/4/Dialogue/enemy17
-Kuh...Kuku ...! !#MTLed
+Ku...
+
+Kuku...!!#Ron
 > END STRING
 
 > BEGIN STRING
 妲己は、ゆっくりと体勢を整えた………
 > CONTEXT: Troops/241/pages/8/8/Dialogue
-Daiji slowly got better .........#MTLed
+Daiji's slowly composed herself...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -9021,8 +9062,9 @@ Daiji slowly got better .........#MTLed
 
 あくまで、妾に刃向かう気なのだな…
 > CONTEXT: Troops/241/pages/8/10/Dialogue/enemy17
-Really……. To the end, I'm going to go for a fight
-...#MTLed
+I see...
+
+You're going to oppose me until the bitter end...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -9030,7 +9072,9 @@ Really……. To the end, I'm going to go for a fight
 
 お前たちがどこまで耐えられるか、試してやろう…！！
 > CONTEXT: Troops/241/pages/8/14/Dialogue/enemy17
-OK...Let's try how far you can endure ...! !#MTLed
+Fine...
+
+Let's see just how much you both can endure...!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -9038,8 +9082,10 @@ OK...Let's try how far you can endure ...! !#MTLed
 
 一応、その根性は認めてやろう……
 > CONTEXT: Troops/241/pages/8/53/Dialogue/enemy18
-I have endured well earlier ...
-At first, let's recognize its roots ......#MTLed
+You've done well to endure my attacks...
+
+At the very least, I'll recognize that
+determination inside you...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -9047,20 +9093,23 @@ At first, let's recognize its roots ......#MTLed
 
  喘ぐことなく、妾の蜜を飲まずにいられるかな…？
 > CONTEXT: Troops/241/pages/8/57/Dialogue/enemy18
-Potatoes .... What about next?
-Without pant, can I not drink nectar honey?#MTLed
+But what about this?
+
+Will you be able to breathe without drinking
+some of my nectar?#Ron
 > END STRING
 
 > BEGIN STRING
 ぐっ………またか……！！
 > CONTEXT: Troops/241/pages/10/31/Dialogue/enemy18
-Good ......... again.........! !#MTLed
+Ggh... Not again...!!#Ron
 > END STRING
 
 > BEGIN STRING
 妲己は、\\N[1]を離して、また苦しみ始めた……！！
 > CONTEXT: Troops/241/pages/10/33/Dialogue
-Daiji left \\N[1] and started suffering again ...! !#MTLed
+Once again, Daiji let go of \\N[1] and began writhing
+in pain...!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -9068,7 +9117,9 @@ Daiji left \\N[1] and started suffering again ...! !#MTLed
 
 \\C[2]あと半分…！！
 > CONTEXT: Troops/241/pages/11/2/Dialogue/kazuya-0
-.........!!\\C[2]Another half ...! !#MTLed
+...!!
+
+\\C[2]Half-way there...!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -9076,7 +9127,10 @@ Daiji left \\N[1] and started suffering again ...! !#MTLed
 
 かくなる上は、実力行使じゃ……！
 > CONTEXT: Troops/241/pages/13/2/Dialogue/enemy18
-Hmm………. On top of that, it's exercise!#MTLed
+Hmmph...
+
+Now that it's come to this, it's time to use
+my true power!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -9084,9 +9138,9 @@ Hmm………. On top of that, it's exercise!#MTLed
 
 射精するまで、泣き叫んでも止めてやらぬぞ…！！
 > CONTEXT: Troops/241/pages/13/6/Dialogue/enemy18
-I squeeze intensely until you ejaculate ...! !
-Until we ejaculate, we will not stop even if we
-cry ...! !#MTLed
+I'll wring you out until you ejaculate...!!
+
+I won't stop no matter how much you scream...!!#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -9098,20 +9152,21 @@ Awoooooooooo~!!!♡♡♡#Triketos
 > BEGIN STRING
 妲己の腰振り速度が加速した…！！！
 > CONTEXT: Troops/241/pages/14/27/Dialogue
-Daiji's waist swing speed accelerated ...!!!#MTLed
+Daiji's sped up her thrusts...!!!#Ron
 > END STRING
 
 > BEGIN STRING
 あっ！！あっ…！！ああああっ！♡♡
 > CONTEXT: Troops/241/pages/15/25/Dialogue/kazuya-7
-Ah!!Ah…!!AAAAh! Moth#MTLed
+Ah!! Aah...!!!
+
+Aaaaaah! ♡♡#MTLed
 > END STRING
 
 > BEGIN STRING
 妲己の腰振り速度が更に加速した…！！！
 > CONTEXT: Troops/241/pages/15/27/Dialogue
-Daiji's waist swing speed has been further accelerated ...!
-! !#MTLed
+Daiji's sped up her thrusts even more...!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -9119,7 +9174,7 @@ Daiji's waist swing speed has been further accelerated ...!
 
 \\N[1]を離した……！！
 > CONTEXT: Troops/241/pages/16/25/Dialogue
-Daiji is giving a low voice. I released \\N[1] ......! !#MTLed
+Daiji has released \\N[1] with a low growl...!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -9128,9 +9183,10 @@ Daiji is giving a low voice. I released \\N[1] ......! !#MTLed
 
 もはや、彼の意識が喰い尽くされるのも時間の問題……♡
 > CONTEXT: Troops/241/pages/19/10/Dialogue/enemy18
-Hihihi ......... ♡. Yuuma's "struggle" has also
-become weak...It is also a matter of time
-before his consciousness is exhausted.#MTLed
+Ufufu... ♡
+Yuuma-sama's resistance has weakened... It was
+only a matter of time before he used up the rest
+of his consciousness.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -9138,8 +9194,10 @@ before his consciousness is exhausted.#MTLed
 
 もうそろそろ、終わりにしましょう……
 > CONTEXT: Troops/241/pages/19/15/Dialogue/enemy18
-However, the toy is also ready for soon ...
-Let's finish soon, soon ...#MTLed
+However, it appears that toy of yours will soon
+be ready...
+
+Let's end this now...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -9148,9 +9206,10 @@ Let's finish soon, soon ...#MTLed
 
 いい子です…\\N[1]様……♡
 > CONTEXT: Troops/241/pages/19/34/Dialogue/enemy18
-Hihihi...because I know what I do
-I am lonely...It is a good boy...Mr. \\N[1]
-... ♡#MTLed
+Ufufu... It's because you know what I'm going
+to do to you, that you're being so obedient...
+
+Such a good boy, \\N[1]-sama... ♡#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -9159,14 +9218,14 @@ I am lonely...It is a good boy...Mr. \\N[1]
 \\C[2]『知識を吸われる』ことを、
  一体どうやって『耐える』おつもりですか……？
 > CONTEXT: Troops/241/pages/19/39/Dialogue/enemy18
-but………. \\C[2]“Sucking knowledge”
-How are you going to endure ...?#MTLed
+But... \\C[2]How do you intend on enduring having
+your knowledge sucked out of you...?#Ron
 > END STRING
 
 > BEGIN STRING
 うううっ……！！
 > CONTEXT: Troops/241/pages/19/44/Dialogue/kazuya-0
-uuugh......! !#MTLed
+Uuurgh...!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -9174,7 +9233,9 @@ uuugh......! !#MTLed
 
 そんなに怖がった顔をしないで……♡
 > CONTEXT: Troops/241/pages/19/46/Dialogue/enemy18
-Hihihi ...... Don't look so scared...♡#MTLed
+Fufufu...
+
+There's no need to look so scared... ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -9182,8 +9243,8 @@ Hihihi ...... Don't look so scared...♡#MTLed
 
 貴方様への『ご褒美』なんですから……♡
 > CONTEXT: Troops/241/pages/19/50/Dialogue/enemy18
-This has survived to here...
-Because it is a reward for you...♡#MTLed
+This will be your "reward" for managing to
+endure this far... ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -9192,8 +9253,9 @@ Because it is a reward for you...♡#MTLed
 あと少しでしたのに……
 > CONTEXT: Troops/241/pages/20/6/Dialogue/enemy18
 > CONTEXT: Troops/242/pages/1/4/Dialogue/enemy18
-It was lonely...\\N[1] .........
-It was a little bit later ...#MTLed
+You were so close, \\N[1]-sama...
+
+Just a little more and you would've won...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -9202,7 +9264,7 @@ It was a little bit later ...#MTLed
 いただきます……♡♡
 > CONTEXT: Troops/241/pages/20/10/Dialogue/enemy18
 > CONTEXT: Troops/242/pages/1/8/Dialogue/enemy18
-Well then...You will receive...♡♡#MTLed
+Now then, let's have some of that knowledge... ♡♡#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -9211,8 +9273,9 @@ Well then...You will receive...♡♡#MTLed
 次で『警戒心』も吸い取ってさし上げます…♡
 > CONTEXT: Troops/241/pages/20/81/Dialogue/enemy18
 > CONTEXT: Troops/242/pages/1/71/Dialogue/enemy18
-Cute face...♡. Next, I will suck up "wariness"
-too ...#MTLed
+Such a cute look on your face... ♡
+
+Next I'll suck out your fear of me... ♡#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -9221,15 +9284,15 @@ too ...#MTLed
 もう出来なくなる……
 > CONTEXT: Troops/241/pages/20/85/Dialogue/enemy18
 > CONTEXT: Troops/242/pages/1/75/Dialogue/enemy18
-If you do so..."Defend" against me too ...
-I can not do it anymore ...#MTLed
+By doing that, you won't be able to "defend"
+against me anymore...#Ron
 > END STRING
 
 > BEGIN STRING
 今度こそ…終わりです…♡♡
 > CONTEXT: Troops/241/pages/20/90/Dialogue/enemy18
 > CONTEXT: Troops/242/pages/1/80/Dialogue/enemy18
-Next time...it is the end...♡♡#MTLed
+It really is over for you this time... ♡♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -9238,7 +9301,9 @@ Next time...it is the end...♡♡#MTLed
 今なら……………
 > CONTEXT: Troops/241/pages/20/110/Dialogue
 > CONTEXT: Troops/242/pages/1/100/Dialogue
-The charge is over............ now……………#MTLed
+It's finished... charging...
+
+If I can just...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -9247,15 +9312,16 @@ The charge is over............ now……………#MTLed
 いろいろなことを………
 > CONTEXT: Troops/241/pages/20/114/Dialogue
 > CONTEXT: Troops/242/pages/1/104/Dialogue
-But ......... I will forget...... Various things
-.........#MTLed
+But... I'm forgetting...
+
+So many things...#Ron
 > END STRING
 
 > BEGIN STRING
 ぼくは………
 > CONTEXT: Troops/241/pages/20/118/Dialogue
 > CONTEXT: Troops/242/pages/1/108/Dialogue
-I………#MTLed
+I...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -10134,8 +10200,9 @@ It can not be helped………. If you want it ...#MTLed
 
 コウビ、コウビ♡
 > CONTEXT: Troops/275/pages/0/11/Dialogue/enemy16
-Kyahahahaha♪. 
-Mating, Mating ♡#afrg
+Kyahahahaha... ♪
+
+Mating, mating... ♡#afrg
 > END STRING
 
 > BEGIN STRING
@@ -10143,8 +10210,9 @@ Mating, Mating ♡#afrg
 
 そ……その体勢はやめて！！
 > CONTEXT: Troops/275/pages/0/30/Dialogue/kazuya
-Well, wait! Camazotz! Well...that position is
-stop! !#MTLed
+W-Wait, Camazotz!
+
+S-Stop doing that pose!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -10153,10 +10221,10 @@ stop! !#MTLed
 ドウシタ？　\\N[1]
 コウビ　ヤメカ？
 > CONTEXT: Troops/275/pages/0/38/Dialogue/enemy16
-.........?? 
+...?? 
 
-Why? \\N[1]
-Mating stop?#afrg
+What wrong, \\N[1]?
+No mate?#afrg
 > END STRING
 
 > BEGIN STRING
@@ -10165,9 +10233,10 @@ Mating stop?#afrg
 その体勢で身体を挟まれるのって
 駐車場で襲われてたときを思い出しちゃうから
 > CONTEXT: Troops/275/pages/0/43/Dialogue/kazuya
-Tha-, that's not it...... 
-I just remember being sandwiched like that
-in the parking lot.#afrg
+Tha-, that's not it...
+
+It's just that pose reminds me of when you
+attacked me in the parking lot...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -10175,15 +10244,15 @@ in the parking lot.#afrg
 
  こう……ゆっくり……ね？
 > CONTEXT: Troops/275/pages/0/48/Dialogue/kazuya
-We can at least do it consentually this time.
+We can at least do it consensually this time.
 
-Like this... Slowly... Yes?#afrg
+Like this, nice and slow... okay?#afrg
 > END STRING
 
 > BEGIN STRING
 ジャア………コウ、カ？
 > CONTEXT: Troops/275/pages/0/56/Dialogue/enemy16
-Ok... Like this?#afrg
+Okay... Like this?#afrg
 > END STRING
 
 > BEGIN STRING
@@ -10191,8 +10260,8 @@ Ok... Like this?#afrg
 
  ゆっくりと抱き締めた……
 > CONTEXT: Troops/275/pages/0/60/Dialogue
-Camazotz wrapped her arms around \\N[1]'s waist
-and slowly pulls him into a tight hug...#afrg
+Camazotz wrapped her arms around \\N[1]'s waist and
+slowly pulled him into a tight hug...#afrg
 > END STRING
 
 > BEGIN STRING
@@ -10200,8 +10269,9 @@ and slowly pulls him into a tight hug...#afrg
 
 うん………そ、そういう感じ………
 > CONTEXT: Troops/275/pages/0/64/Dialogue/kazuya-0
-Oh, Ah.........Yeah.........that, 
-like that.........#afrg
+Y-Yeah...
+
+J-Just like that...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -10209,7 +10279,8 @@ like that.........#afrg
 
 \\N[1]　テイコウ　シナイ……
 > CONTEXT: Troops/275/pages/0/68/Dialogue/enemy16
-Feel weird...♡
+Feel weird... ♡
+
 \\N[1] not fight...#afrg
 > END STRING
 
@@ -10218,9 +10289,9 @@ Feel weird...♡
 
 キス　シテモ　イヤガラナイカ？
 > CONTEXT: Troops/275/pages/0/72/Dialogue/enemy16
-\\N[1]....... 
+\\N[1]...
 
-Not like kiss?#afrg
+Kissing okay?#afrg
 > END STRING
 
 > BEGIN STRING
@@ -10228,9 +10299,9 @@ Not like kiss?#afrg
 
 このまま、交尾しよう……
 > CONTEXT: Troops/275/pages/0/76/Dialogue/kazuya-0
-Of course I do, Camazotz......
+O-Of course, Camazotz...
 
-Let's mate this way......#afrg
+Let's mate like this...#afrg
 > END STRING
 
 > BEGIN STRING
@@ -10242,7 +10313,7 @@ Let's mate this way......#afrg
 > BEGIN STRING
 ど、どうしたの、カマソッソ…？
 > CONTEXT: Troops/276/pages/0/13/Dialogue/kazuya
-What's wrong, Camazotz ...?#afrg
+What's wrong, Camazotz...?#afrg
 > END STRING
 
 > BEGIN STRING
@@ -10250,9 +10321,7 @@ What's wrong, Camazotz ...?#afrg
 
  カオ　ツッコメ
 > CONTEXT: Troops/276/pages/0/16/Dialogue/enemy16
-... .... \\N[1] my pussy
-
-Put face in#afrg
+...\\N[1], put face in pussy...#afrgIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -10260,9 +10329,7 @@ Put face in#afrg
 
  ソレナラ　\\N[1]カラ　キテ
 > CONTEXT: Troops/276/pages/0/22/Dialogue/enemy16
- \\N[1] put not with force
- 
- So come \\N[1]#afrg
+ \\N[1] not like being forced, so I ask...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -10270,9 +10337,9 @@ Put face in#afrg
 
 ソノマエ　\\N[1]　ワタシ　タノシマセル
 > CONTEXT: Troops/276/pages/0/26/Dialogue/enemy16
-\\N[1] want enjoy tail?
+\\N[1] want enjoy tail, right?
 
-I make \\N[1] enjoy it#afrg
+Before that, you make me enjoy.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -10280,8 +10347,9 @@ I make \\N[1] enjoy it#afrg
 
 ハヤク……ハヤク……♡
 > CONTEXT: Troops/276/pages/0/46/Dialogue/enemy16
-Hehe......... ♡. 
-Faster ...... Faster ...... ♡#afrg
+Come on... ♡
+
+Hurry... Hurry... ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -10289,7 +10357,9 @@ Faster ...... Faster ...... ♡#afrg
 
 わかった………
 > CONTEXT: Troops/276/pages/0/50/Dialogue/kazuya-a
-Uooh...All right………#afrg
+Uooh...
+
+All right...#afrg
 > END STRING
 
 > BEGIN STRING
@@ -10297,7 +10367,9 @@ Uooh...All right………#afrg
 
 モウ　コウサンカ？
 > CONTEXT: Troops/276/pages/0/109/Dialogue/enemy16
-.........? Give up soon?#afrg
+...?
+
+Already give up?#afrg
 > END STRING
 
 > BEGIN STRING
@@ -10306,8 +10378,9 @@ Uooh...All right………#afrg
 
 ジットシテテ…♡
 > CONTEXT: Troops/276/pages/0/113/Dialogue/enemy16
-Mayer. Suguni, feels goodyoku, Citeagel porridge
-JIT CITY...♡#MTLed
+That okay, I make you feel good now... ♡
+
+Hold still... ♡#Ron
 > END STRING
 
 > BEGIN STRING

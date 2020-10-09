@@ -6,7 +6,7 @@
 > CONTEXT: Map005/events/6/pages/0/5/Dialogue/kazuya
 > CONTEXT: Map005/events/6/pages/1/5/Dialogue/kazuya
 > CONTEXT: Map020/events/3/pages/0/26/Dialogue/kazuya
-......? 
+...? 
 
 Did a door open somewhere...?#Ron
 > END STRING
@@ -29,7 +29,8 @@ Did a door open somewhere...?#Ron
 > CONTEXT: Map005/events/6/pages/0/31/Dialogue/kazuya
 > CONTEXT: Map020/events/3/pages/0/47/Dialogue/kazuya
 W-What is that? That creature...!
-A dog...? No, but that face...#Ron
+
+A d-dog...? No, but that face...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -41,7 +42,8 @@ A dog...? No, but that face...#Ron
 > CONTEXT: Map005/events/6/pages/1/37/Dialogue
 > CONTEXT: Map020/events/3/pages/0/50/Dialogue
 Yuuma「Dog...? That might be a Barghest. Oh that's right,
-you don't even know about the existence of demons.」#Ron
+       you don't even know about the existence of
+       demons.」#Ron
 > END STRING
 
 > BEGIN STRING
@@ -60,8 +62,8 @@ Barghest...? That thing's a demon...?#Ron
 > CONTEXT: Map005/events/6/pages/0/40/Dialogue
 > CONTEXT: Map020/events/3/pages/0/56/Dialogue
 Yuuma「I'll tell you more in the communications room.
-They're not particularly dangerous, but it'll be
-a nuisance if you're spotted.」#Ron
+       They're not particularly dangerous, but it'll be
+       a nuisance if you're spotted.」#Ron
 > END STRING
 
 > BEGIN STRING
@@ -82,14 +84,16 @@ communications room so it doesn't notice me.#Ron
 マジマジと見ると思うけど……
 > CONTEXT: Map005/events/3/pages/1/31/Dialogue/kazuya
 > CONTEXT: Map005/events/6/pages/1/31/Dialogue/kazuya
-Yup………. I think I see it seriously ...#MTLed
+Hmm...
+
+Let's get a good look at it...#Ron
 > END STRING
 
 > BEGIN STRING
 なんで僕、彼女をイヌって見間違えたんだろう…
 > CONTEXT: Map005/events/3/pages/1/35/Dialogue/kazuya
 > CONTEXT: Map005/events/6/pages/1/35/Dialogue/kazuya
-Why am I mistaken for her dog ...#MTLed
+How did I mistake it for a dog back then...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -98,14 +102,16 @@ Why am I mistaken for her dog ...#MTLed
 よく知ってる。
 > CONTEXT: Map005/events/3/pages/1/40/Dialogue/kazuya
 > CONTEXT: Map005/events/6/pages/1/40/Dialogue/kazuya
-Disagreeable………. I know well.#MTLed
+Well...
+
+I actually know all about them.#Ron
 > END STRING
 
 > BEGIN STRING
 裕真「……………？」
 > CONTEXT: Map005/events/3/pages/1/44/Dialogue
 > CONTEXT: Map005/events/6/pages/1/44/Dialogue
-Yuuma「......?」#MTLed
+Yuuma「......?」#Ron
 > END STRING
 
 > BEGIN STRING
@@ -113,9 +119,10 @@ Yuuma「......?」#MTLed
 　　　特に危険は無いが、気付かれると厄介だからな。」
 > CONTEXT: Map005/events/3/pages/1/46/Dialogue
 > CONTEXT: Map005/events/6/pages/1/46/Dialogue
-Yuuma「Okay...the details are in the communication room.
-There is no particular danger, but it is bothersome if
-noticed.」#MTLed
+Yuuma「Well alright... let's save the details for when
+       you're in the comms room. They're not
+       particularly dangerous, but it'll be a pain if
+       you're spotted.」#Ron
 > END STRING
 
 > BEGIN STRING
@@ -129,8 +136,8 @@ noticed.」#MTLed
 　　　　　　　　　さっきのバーゲストと呼ばれる悪魔。
 > CONTEXT: Map005/events/10/pages/1/27/Dialogue
 > CONTEXT: Map020/events/10/pages/1/24/Dialogue
-It leaped on me as soon as I opened the door.
-That demon earlier referred to as a Barghest.#Ron
+That Barghest demon from before leaped on me as
+soon as I opened the door.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -696,9 +703,9 @@ in front of there, but...#Triketos
 
 もうこの先は安全じゃない、ってことか…？
 > CONTEXT: Map005/events/13/pages/1/13/Dialogue/kazuya
-However, considering that demon, that Barghest,
-came by a while ago, it is probably
-not safe over there...?#Triketos
+Considering that demon, that Barghest, came by a
+while ago, we can assume it's no longer safe over
+there...?#Triketos
 > END STRING
 
 > BEGIN STRING

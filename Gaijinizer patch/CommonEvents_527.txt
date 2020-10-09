@@ -2,7 +2,7 @@
 > BEGIN STRING
 待ってくれ！！\\N[1]！！！
 > CONTEXT: CommonEvents_527/13/Dialogue/other2
-Wait please!!\\N[1]!!!#MTLed
+Wait, \\N[1]!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -11,8 +11,10 @@ Wait please!!\\N[1]!!!#MTLed
 だからいきなり出てくるな！！！！
 危なく撃つところだったろ！！
 > CONTEXT: CommonEvents_527/15/Dialogue/kazuya-0
-What ?!!? So don't come out suddenly!!!!
-It was about to shoot without danger!!#MTLed
+Whoa!!
+
+Don't suddenly appear out of nowhere like that.
+I was just about to shoot!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -20,14 +22,17 @@ It was about to shoot without danger!!#MTLed
 
 彼女は、おれが説得してみせるから……！！
 > CONTEXT: CommonEvents_527/21/Dialogue/other2
-Ask me...... Don't shoot......
-Because she shows me dissuade ......!!#MTLed
+I'm begging you... don't shoot...
+
+Let me try to talk her down...!!#Ron
 > END STRING
 
 > BEGIN STRING
 な、なんだよ！！こんなときに……！！
 > CONTEXT: CommonEvents_527/25/Dialogue/kazuya-0
-?!When this happens ...!!#MTLed
+W-What the hell...?!!
+
+Why now?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -35,8 +40,10 @@ Because she shows me dissuade ......!!#MTLed
 
 どけ！！お前を巻き込んででも撃つぞ！！
 > CONTEXT: CommonEvents_527/27/Dialogue/kazuya-0
-That's it...Daiji is Yuuma's jealousy!!
-Do it!!I'll get in you and shoot!!#MTLed
+Get out of my way, she murdered Yuuma!!
+
+I'll shoot you along with her if you try to
+stop me!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -44,7 +51,9 @@ Do it!!I'll get in you and shoot!!#MTLed
 
 だから止めてるんだ！！！
 > CONTEXT: CommonEvents_527/31/Dialogue/other2
-I know……!! So I'm stopping!!!#MTLed
+I know that...!!
+
+So I'm not going to interfere!!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -52,8 +61,9 @@ I know……!! So I'm stopping!!!#MTLed
 
 ユウマはまだ生きてるって言ったのはお前じゃないか！！
 > CONTEXT: CommonEvents_527/35/Dialogue/other2
-You are going to put Yuuma on your hand!?
-You said that Yuuma is still alive!!#MTLed
+But are you really going to kill Yuuma with your
+own hands?! Wasn't it you who said he's still
+alive in there?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -61,8 +71,9 @@ You said that Yuuma is still alive!!#MTLed
 
 きっと話を聞いてくれる………
 > CONTEXT: CommonEvents_527/41/Dialogue/other2
-Ask me ......... Lady Daji is my summoner ...
-I will surely listen to you .........#MTLed
+Please... Daiji-sama is my summoner...
+
+I'm sure she'll listen to me...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -70,8 +81,9 @@ I will surely listen to you .........#MTLed
 
 たのむ………
 > CONTEXT: CommonEvents_527/45/Dialogue/other2
-Just for a moment...give me time......
-Fun......#MTLed
+Just give me some time... even a little bit...
+
+Please...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -85,5 +97,5 @@ Lower your weapon#Triketos
 > BEGIN STRING
 かまわず撃つ
 > CONTEXT: CommonEvents_527/52/Choice/1
-Shoot with you#MTLed
+Shoot anyway#Ron
 > END STRING

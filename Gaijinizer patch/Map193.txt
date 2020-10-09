@@ -3,16 +3,21 @@
 開放条件：
 【真慈悲ルートクリア済み】
 【マザーラビット入室済み・キズナ状態】
-> CONTEXT: Map193/events/2/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map193/events/2/pages/0/1/Dialogue
+Opening Criteria:
+* Clear True Mercy
+* Bond with Mother Rabbit in My Room#Ron
 > END STRING
 
 > BEGIN STRING
 開放条件：
 【真慈悲ルートクリア済み】
 【ランパス・エンプーサ・バーゲスト入室済み・キズナ状態】
-> CONTEXT: Map193/events/5/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map193/events/5/pages/0/1/Dialogue
+Opening Criteria:
+* Clear True Mercy
+* Bond with Barghest, Lampas, and Empuse in My
+   Room#Ron
 > END STRING
 
 > BEGIN STRING
@@ -20,8 +25,11 @@
 【真慈悲ルートクリア済み】
 【スフィンクス入室済み・キズナ状態】
 【百鬼入室済み・キズナ状態】
-> CONTEXT: Map193/events/6/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map193/events/6/pages/0/1/Dialogue
+Opening Criteria:
+* Clear True Mercy
+* Bond with Sphinx in My Room
+* Bond with Hyakki in My Room#Ron
 > END STRING
 
 > BEGIN STRING
@@ -50,6 +58,6 @@ Please initialize your own stable value.#MTLed
 
 > BEGIN STRING
 本編取りこぼし
-> CONTEXT: Map193/events/42/pages/0/0/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Map193/events/42/pages/0/0/Choice/0
+Missed Pickups#Triketos
 > END STRING
