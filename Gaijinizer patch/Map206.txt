@@ -4,8 +4,8 @@
 
  重さもなくなってるし、これなら前のと変わらないや。
 > CONTEXT: Map206/events/1/pages/0/6/Dialogue/kazuya
-Yeah, I like it. The weight is gone, and it is
-the same as before.#MTLed
+Yeah, I like it. The weight is gone, it's like
+how it was before.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -14,11 +14,10 @@ the same as before.#MTLed
  『練気の刀』と同じ形を維持しつつ
  こんだけの部品で、魔力を外部出力仕様にすんのは。
 > CONTEXT: Map206/events/1/pages/0/11/Dialogue/other3
-Did you do it very much? While maintaining the
-same form as "Invigorating Sword"
-It is only a part of this, and what is the power
-of the magic to the external output
-specification.#MTLed
+It wasn't easy. With just these parts I managed
+to set its magic output to an external output
+specification while maintaining the same shape as
+the Invigorating Sword.#CheckLater
 > END STRING
 
 > BEGIN STRING
@@ -27,16 +26,16 @@ specification.#MTLed
 
  余った魔力は、高く買うから持ってきてなぁ！
 > CONTEXT: Map206/events/1/pages/0/16/Dialogue/other3
-Moreover! Absorb the magic of the other party
-Implement functions that can be stored internally
-as well! ! The extra magic power is expensive to
-buy, so bring it!#MTLed
+Plus, I added a function to absorb and accumulate
+the magic of anything it cuts down. I'll pay you
+good money for any excess magic you end up with
+so don't forget to bring me some!#Ron
 > END STRING
 
 > BEGIN STRING
 博士………いつもありがとう。
 > CONTEXT: Map206/events/1/pages/0/22/Dialogue/kazuya
-Doctor ..... Thank you always.#MTLed
+As always, thank you Professor...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -45,10 +44,10 @@ Doctor ..... Thank you always.#MTLed
 
 この練気の刀で、戦いはぐっと楽になる…
 > CONTEXT: Map206/events/1/pages/0/24/Dialogue/kazuya
-For now I have lost magic and resistance to magic
-It is helped by his invention.
-With this Invigorating Sword, the battle gets
-much easier ...#MTLed
+Now that I've lost both my magic and my
+resistance to magic, I'm pretty reliant on your
+inventions. Fighting will be a lot easier with
+this Invigorating Sword...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -56,8 +55,10 @@ much easier ...#MTLed
 
 あの街のときは、あんだけ嫌煙されとったけん……
 > CONTEXT: Map206/events/1/pages/0/30/Dialogue/other3
-Nah, something strange...In that town, I was so
-addicted to smoke ...#MTLed
+F-Feels kinda weird hearing you say that...
+
+You didn't seem to like me much back in the
+city...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -66,14 +67,16 @@ addicted to smoke ...#MTLed
  電話で話してた『新発明』！
 よかったら見てって！
 > CONTEXT: Map206/events/1/pages/0/35/Dialogue/other3
-Ah! Seze! "New invention" I talked on the phone!
-If you like it, look!#MTLed
+Oh, that's right! Remember how I told you over
+the phone that I had a new invention?
+
+Have a look at this!#Ron
 > END STRING
 
 > BEGIN STRING
 な、なんじゃそれ！？
 > CONTEXT: Map206/events/1/pages/0/51/Dialogue/kazuya
-Nah, how is it! ?#MTLed
+W-What is that thing?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -82,8 +85,10 @@ Nah, how is it! ?#MTLed
 ズバリ！対悪魔用パワードスーツ！！
  名付けて『デルタウェポンβ』！！
 > CONTEXT: Map206/events/1/pages/0/53/Dialogue/other3
-I do not know to see! ? Get it! Powered suit for
-versus demon! ! Name it "Delta Weapon β"! !#MTLed
+Can't you tell by looking?! It's a powered suit
+for fighting demons!
+
+I call it "Delta Weapon β"!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -91,9 +96,9 @@ versus demon! ! Name it "Delta Weapon β"! !#MTLed
 
  やっと実践投入可能なレベルの兵装になったんや！！
 > CONTEXT: Map206/events/1/pages/0/58/Dialogue/other3
-I'm still getting out of prototype
-It's finally at a level that can be put into
-practice! !#MTLed
+It's still in its prototype phase, but it's
+finally at a level where it can be used as a
+practical weapon!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -101,9 +106,9 @@ practice! !#MTLed
 
 ゆくゆくはヒーロースーツみたいに軽量化する予定や
 > CONTEXT: Map206/events/1/pages/0/62/Dialogue/other3
-Oh, yeah...it looks like it is still ...
-It will eventually become lighter like a hero
-suit#MTLed
+I-I mean it still looks a little rough around
+the edges, but I plan for it to someday become
+as light as the clothes you're wearing now.#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -112,9 +117,10 @@ suit#MTLed
 ローン組んでも大丈夫や！日々のメンテも完備！
 どうや！？
 > CONTEXT: Map206/events/1/pages/0/66/Dialogue/other3
-If it's \\N[1], let's make it a customer price! !
-It's okay if you make a loan! Daily maintenance
-is complete! How come! ?#MTLed
+I'll give you a special price, just for you.
+
+You can even just loan it from me. I'll do all
+the daily maintenance. How about it?#CheckLater
 > END STRING
 
 > BEGIN STRING
@@ -123,9 +129,10 @@ is complete! How come! ?#MTLed
 
 床抜けちゃうかもしれないし………
 > CONTEXT: Map206/events/1/pages/0/72/Dialogue/kazuya
-............ such a big, At first we do not enter
-at the door of our apartment and stand out ......
-I might go through the floor .........#MTLed
+I don't know if something that massive will fit
+through my front door, not to mention how much
+it'd stand out. It might even fall through the
+floor.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -133,9 +140,8 @@ I might go through the floor .........#MTLed
 
  むしろ軍の人とかに売った方がいいんじゃないの…？
 > CONTEXT: Map206/events/1/pages/0/77/Dialogue/kazuya
-I mean...like this kind of heavy weapon
-Shouldn't it be better to sell to military
-personnel?#MTLed
+And anyway, shouldn't you be selling these kinds
+of heavy weapons to the military instead?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -143,8 +149,9 @@ personnel?#MTLed
 
  わし、追放された身やで………
 > CONTEXT: Map206/events/1/pages/0/82/Dialogue/other3
-\\N[1]...... I said before. 
-I, with the exiled body .........#MTLed
+I told you before, \\N[1]...
+
+I was exiled...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -153,9 +160,9 @@ I, with the exiled body .........#MTLed
 
  わしの発明品がかすむレベルになってきとる
 > CONTEXT: Map206/events/1/pages/0/86/Dialogue/other3
-in addition………. The military's weapons for demon
-have recently been developed more and more
-My invention comes to a shaky level#MTLed
+Also, the military's developments in anti-demon
+weaponry have been outshining my inventions
+lately.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -163,8 +170,8 @@ My invention comes to a shaky level#MTLed
 
 戦争を長引かせるために、Ｍ.Ｏ.Ｗが手引きしとるな
 > CONTEXT: Map206/events/1/pages/0/91/Dialogue/other3
-Well, maybe...Do not guide M.O.W. in order to
-prolong the war#MTLed
+Those developments have probably been influenced
+by M.O.W. trying to prolong the war.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -173,9 +180,9 @@ prolong the war#MTLed
 そのおかげで、戦争は優勢になったけど
 根本的な解決にはなってないように見えるって……
 > CONTEXT: Map206/events/1/pages/0/96/Dialogue/kazuya
-I'm listening from Yuuma .........
-Thanks to that, war became superior
-It does not seem to be a fundamental solution ...#MTLed
+I heard from Yuuma that those new weapons have
+given humanity an advantage in the war, but we're
+still not much closer to actually winning...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -183,8 +190,9 @@ It does not seem to be a fundamental solution ...#MTLed
 
 お前さんは、アイツらにとっては目の上のコブや。
 > CONTEXT: Map206/events/1/pages/0/102/Dialogue/other3
-\\N[1]...... Do not be careful enough.
-You are a cob on the eyes for the guys.#MTLed
+Be careful out there, \\N[1]...
+
+You've turned into quite a thorn in their side.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -192,8 +200,10 @@ You are a cob on the eyes for the guys.#MTLed
 
  だからくれぐれも、無茶はせんようにな……
 > CONTEXT: Map206/events/1/pages/0/106/Dialogue/other3
-I also like this, if cooperation is demon related
-to demon. That's why it's a shame.#MTLed
+I'll do my best to help you like this if it's
+something to do with demons.
+
+So please don't do anything crazy.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -201,8 +211,9 @@ to demon. That's why it's a shame.#MTLed
 
 レイナに救われた命……無駄にするつもりはないよ。
 > CONTEXT: Map206/events/1/pages/0/112/Dialogue/kazuya
-I know……. Life saved by Reina...I'm not going
-to waste it.#MTLed
+I know...
+
+I don't intend to waste the life Reina gave me.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -210,8 +221,9 @@ to waste it.#MTLed
 
 もうちょっと資金が貯まったら、またお願いするよ。
 > CONTEXT: Map206/events/1/pages/0/116/Dialogue/kazuya
-Well then...I will come again.
-I will ask again if I have a little more money.#MTLed
+Well, I'll visit again sometime.
+
+Once I've saved up a bit of money, that is.#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -219,7 +231,9 @@ I will ask again if I have a little more money.#MTLed
 
 僕の魂は、僕だけのものじゃない。
 > CONTEXT: Map206/events/1/pages/0/131/Dialogue
-so…………. My soul is not mine.#MTLed
+That's right...
+
+My soul doesn't just belong to me.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -227,8 +241,10 @@ so…………. My soul is not mine.#MTLed
 
 そして『彼女たち』と、常に共にあるのだ……
 > CONTEXT: Map206/events/1/pages/0/135/Dialogue
-Reina who saved my bet and life .........
-And "Girls" are always together ...#MTLed
+It belongs to Reina who put her life on the line
+to save mine...
+
+And the girls who are always together with me...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -236,7 +252,9 @@ And "Girls" are always together ...#MTLed
 
 どんな敵が、立ちはだかろうと……！！
 > CONTEXT: Map206/events/1/pages/0/139/Dialogue
-I will never lose. What kind of enemy will stand ...? !#MTLed
+No matter who or what I face...
+
+I won't lose!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -444,5 +462,5 @@ DEVIL'S OFFICE#MTLed
 > BEGIN STRING
 "【＃３　目には見えずとも、常に共に】"
 > CONTEXT: Map206/events/1/pages/0/252/InlineScript/2:1
-"[＃ 3 Always together, even if invisible to the eye]"#MTLed
+"[＃3 Always Together, Never Seen]"#RonProvisional
 > END STRING
