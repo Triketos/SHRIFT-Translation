@@ -252,7 +252,9 @@ Goodbye...#Ron
 
 あなた…………今の………
 > CONTEXT: Map201/events/1/pages/0/166/Dialogue/other5
-\\N[1] ......... You ............ now .........#MTLed
+\\N[1]...
+
+What did you just...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -260,8 +262,9 @@ Goodbye...#Ron
 
  見よう見まねだけど、僕にも出来た……
 > CONTEXT: Map201/events/1/pages/0/170/Dialogue/kazuya-a
-......... It's really an easy technique.
-I can see it, but I did it ...#MTLed
+...It really is an easy technique.
+
+I managed to learn it by just watching you do it.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -269,8 +272,7 @@ I can see it, but I did it ...#MTLed
 
 僕の身体に戻った………
 > CONTEXT: Map201/events/1/pages/0/174/Dialogue/kazuya-a
-Now...magic is...... I returned to my body
-.........#MTLed
+The magic is now... back in my body...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -278,8 +280,10 @@ Now...magic is...... I returned to my body
 
  一度暴走を始めた魔力は、いくら貴方の身体でも……！！！
 > CONTEXT: Map201/events/1/pages/0/178/Dialogue/other5
-\\N[1], no!!! Once you start the runaway, the
-magic is how much your body is.!!#MTLed
+\\N[1], no!!
+
+Once the magic starts running out of control,
+even you won't be able to stop it!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -287,8 +291,9 @@ magic is how much your body is.!!#MTLed
 
 だから、最初から……こうするつもりだった……
 > CONTEXT: Map201/events/1/pages/0/183/Dialogue/kazuya
-I know………. So from the beginning...I intended
-to do this ...#MTLed
+I know...
+
+Doing this was my plan from the beginning...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -296,11 +301,13 @@ to do this ...#MTLed
 
 こんな方法しか、思いつかなかったんだ。
 > CONTEXT: Map201/events/1/pages/0/191/Dialogue/kazuya-a
-sorry………. I could only think of such a method.#MTLed
+I'm sorry...
+
+This is the only thing I could think to do.#Ron
 > END STRING
 
 > BEGIN STRING
 さようなら、レイナ。
 > CONTEXT: Map201/events/1/pages/0/195/Dialogue/kazuya-a
-Goodbye, Reina.#MTLed
+Goodbye, Reina.#Ron
 > END STRING
