@@ -8,7 +8,7 @@
 > BEGIN STRING
 …………レイナ。
 > CONTEXT: Map191/events/1/pages/0/22/Dialogue/kazuya
-............ Reina.#MTLed
+...Reina.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -16,8 +16,10 @@
 
 それに、夜風は冷えるし……
 > CONTEXT: Map191/events/1/pages/0/44/Dialogue/kazuya
-It's dangerous if you lean over so much.
-Besides, the night wind gets cold ...#MTLed
+It's dangerous leaning over the railing like
+that.
+
+And you'll get a chill from the night wind...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -25,8 +27,8 @@ Besides, the night wind gets cold ...#MTLed
 
 昇る日が見えるかなって、ちょっと探してたの。
 > CONTEXT: Map191/events/1/pages/0/53/Dialogue/other1
-Because it is dawn soon...I was looking for a
-moment as I could see the rising day.#MTLed
+It's almost dawn, so I was looking to see if I
+could catch the sunrise.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -34,7 +36,9 @@ moment as I could see the rising day.#MTLed
 
 ……始めてくれ。
 > CONTEXT: Map191/events/1/pages/0/63/Dialogue/kazuya
-Reina, I'm ready for this. ...... Get started.#MTLed
+Reina, I'm ready for this.
+
+Please start.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -42,7 +46,9 @@ Reina, I'm ready for this. ...... Get started.#MTLed
 
 本当にいいのね？\\N[1]。
 > CONTEXT: Map191/events/1/pages/0/67/Dialogue/other5
-................ Really good? \\N[1].#MTLed
+...
+
+Is this really okay, \\N[1]?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -50,7 +56,9 @@ Reina, I'm ready for this. ...... Get started.#MTLed
 
 ちゃんと皆とは話してきたよ。
 > CONTEXT: Map191/events/1/pages/0/71/Dialogue/kazuya
-Oh. I've been talking to everyone.#MTLed
+Yeah.
+
+I've already spoken to everybody.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -59,21 +67,21 @@ Oh. I've been talking to everyone.#MTLed
 だけど、『後悔の無いようにする』…
 そう約束したんだ。
 > CONTEXT: Map191/events/1/pages/0/75/Dialogue/kazuya
-If you're not lonely, you'll be an honest lie
-.... But, "make no regrets" ...
-I promised that.#MTLed
+I'd be lying if I said I wouldn't miss them...
+
+But I promised I wouldn't regret this.#Ron/Triketos
 > END STRING
 
 > BEGIN STRING
 強くなったのね……\\N[1]
 > CONTEXT: Map191/events/1/pages/0/81/Dialogue/other1
-It became stronger...\\N[1]#MTLed
+You've gotten stronger, \\N[1].#Ron
 > END STRING
 
 > BEGIN STRING
 それじゃあ……始めるわ。
 > CONTEXT: Map191/events/1/pages/0/83/Dialogue/other5
-Well then...start.#MTLed
+Well then... let's begin.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -81,8 +89,8 @@ Well then...start.#MTLed
 
 なかなか感心せぬ趣味じゃな、ユウマ？
 > CONTEXT: Map191/events/1/pages/0/117/Dialogue/enemy17
-Looking at the secrets of men and women
-It's a very uninteresting hobby, Yuuma?#MTLed
+Snooping on a couple's secrets isn't a very
+admirable hobby, Yuuma.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -90,7 +98,9 @@ It's a very uninteresting hobby, Yuuma?#MTLed
 
 い、いや違う……これは…
 > CONTEXT: Map191/events/1/pages/0/124/Dialogue/yuuma
-Daiji ...! ? No, no...this is ...#MTLed
+D-Daji...?!
+
+N-No I wasn't... this is just...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -99,9 +109,10 @@ Daiji ...! ? No, no...this is ...#MTLed
 さしずめ、暗い顔をした２人が屋上なぞに居るから
 心配になっているのであろう？
 > CONTEXT: Map191/events/1/pages/0/128/Dialogue/enemy17
-Hm, I'm kidding. Because two people with a dark
-face are on the roof of the roof
-Are you worried?#MTLed
+Hm, I was just joking.
+You're concerned because two people with grim
+expressions are doing something shady on
+a roof, right?#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -110,8 +121,10 @@ Are you worried?#MTLed
 
 今はちゃんと『未来』を見据えておる
 > CONTEXT: Map191/events/1/pages/0/133/Dialogue/enemy17
-Don't plan. Those two are not the owners of such
-thought. I'm looking forward to the future now#MTLed
+Don't worry, those two wouldn't have such weak
+thoughts.
+
+They've got their eyes on the future now.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -119,8 +132,10 @@ thought. I'm looking forward to the future now#MTLed
 
 なにやら、レイナに魔力が受け渡されているようだが……
 > CONTEXT: Map191/events/1/pages/0/141/Dialogue/yuuma
-Those two guys...what are you doing now?
-Somehow, Reina seems to have passed on magic ...#MTLed
+What were those two doing just now?
+
+It seems kind of like Reina is having magic
+transferred to her...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -129,10 +144,10 @@ Somehow, Reina seems to have passed on magic ...#MTLed
 
 暴走して、世界を破滅する力になる前にな。
 > CONTEXT: Map191/events/1/pages/0/145/Dialogue/enemy17
-"Angel's Magic" in \\N[1] ......
-I'm transferring it to my original owner, Reina.
-Run away before it becomes a force to destroy the
-world.#MTLed
+It's the angelic magic inside of \\N[1]...
+It's being transferred back to its original
+owner, Reina, before it runs out of control and
+destroys the world.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -140,9 +155,10 @@ world.#MTLed
 
 まぁ、この世界をお互いに生きるのならば最善じゃな。
 > CONTEXT: Map191/events/1/pages/0/150/Dialogue/enemy17
-Although there are also many risks for \\N[1] ...
-Well, it would be best if we lived in this world
-with each other.#MTLed
+Doing that isn't without risk to \\N[1]...
+
+But it's for the best if we plan on living
+together in this world.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -150,8 +166,9 @@ with each other.#MTLed
 
 \\N[1]の魔力は……
 > CONTEXT: Map191/events/1/pages/0/154/Dialogue/yuuma
-Well then......... \\N[1] ...
-The magic of \\N[1] is ...#MTLed
+So then... \\N[1]...
+
+\\N[1]'s magic will...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -160,10 +177,10 @@ The magic of \\N[1] is ...#MTLed
 だから、\\C[2]身体能力も、魔法の有無も全て元通り……
 『普通の人間』に戻るのじゃからな。
 > CONTEXT: Map191/events/1/pages/0/158/Dialogue/enemy17
-Naturally, except for things that are well
-established in the soul. So,\\C[2] Both physical
-abilities and magic are as usual ...
-I'm going back to "normal people".#MTLed
+That's right, anything not stuck on his soul will
+be pulled right out. \\C[2]Both his physical
+abilities and magic potential will go back to the
+way they were. He'll be back to a normal human.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -171,7 +188,9 @@ I'm going back to "normal people".#MTLed
 
 どうした、妲己。
 > CONTEXT: Map191/events/1/pages/0/168/Dialogue/yuuma
-.........? What's up, Daiji.#MTLed
+...?
+
+What's wrong, Daji?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -179,21 +198,22 @@ I'm going back to "normal people".#MTLed
 
 なにやら一悶着起きそうじゃぞ
 > CONTEXT: Map191/events/1/pages/0/172/Dialogue/enemy17
-Hm...it's an insect news ...
-It seems that something is going to happen#MTLed
+Hmm... I have a sudden sense of foreboding...
+
+Trouble's on its way...#Ron
 > END STRING
 
 > BEGIN STRING
 早速『眷属』として働く時が来そうじゃな、ユウマよ……
 > CONTEXT: Map191/events/1/pages/0/176/Dialogue/enemy17
-It's almost time for me to work as a "Genus"
-Yuuma, ......#MTLed
+It's almost time for you to start work as my
+retainer, Yuuma...#Ron
 > END STRING
 
 > BEGIN STRING
 ……………終わったわ。
 > CONTEXT: Map191/events/1/pages/0/184/Dialogue/other5
-...... It is over.#MTLed
+...It's done.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -201,7 +221,9 @@ Yuuma, ......#MTLed
 
 身体の調子とか……
 > CONTEXT: Map191/events/1/pages/0/186/Dialogue/other5
-All right? \\N[1]. Physical condition or ...#MTLed
+Are you okay, \\N[1]?
+
+How are you feeling...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -209,8 +231,9 @@ All right? \\N[1]. Physical condition or ...#MTLed
 
 意識も…なんか……
 > CONTEXT: Map191/events/1/pages/0/191/Dialogue/kazuya-a
-Cho...a little dizzy...maybe ...
-Consciousness is...something ...#MTLed
+I-I'm a little dizzy...
+
+My mind's kinda... hazy...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -219,10 +242,10 @@ Consciousness is...something ...#MTLed
 宇宙空間から、地球の重力に戻るような感じよ。
 時間はかかるかもしれないけど……すぐに治るわ。
 > CONTEXT: Map191/events/1/pages/0/195/Dialogue/other5
-The reaction that lost the magical power came ...
-It feels like going back to the gravity of the
-earth from space. It may take some time...but I
-will be cured soon.#MTLed
+It's the reaction from losing your magic...
+It feels like coming back down to earth after
+floating in space. It may take some time, but
+it will go away on its own.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -230,20 +253,21 @@ will be cured soon.#MTLed
 
 ほら、肩を貸して……
 > CONTEXT: Map191/events/1/pages/0/200/Dialogue/other5
-Let's go back to the break room, \\N[1]
-You lent me a shoulder ...#MTLed
+Let's go back to the break room, \\N[1].
+
+Here, I'll lend you my shoulder...#Ron
 > END STRING
 
 > BEGIN STRING
 っ……！！
 > CONTEXT: Map191/events/1/pages/0/212/Dialogue/other5
-............! !#MTLed
+Ghh...!!#Ron
 > END STRING
 
 > BEGIN STRING
 れ、レイナ…！？
 > CONTEXT: Map191/events/1/pages/0/214/Dialogue/kazuya
-Re, Reina ...! ?#MTLed
+R-Reina...?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -251,8 +275,9 @@ Re, Reina ...! ?#MTLed
 
 よくここまで辿り着いた……
 > CONTEXT: Map191/events/1/pages/0/226/Dialogue/other2
-Both of them were having trouble ......
-I have reached this far so much ...#MTLed
+Good work, you two...
+
+You've done well to get this far...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -260,8 +285,9 @@ I have reached this far so much ...#MTLed
 
 \\C[2]『メシア・プロジェクト』\\C[0]は、これでやっと準備が整う
 > CONTEXT: Map191/events/1/pages/0/230/Dialogue/other2
-Here is your "end point"...\\C[2]Messiah Project\\C[0] Is
-finally ready with this#MTLed
+This will be the final data point for both of you.
+
+The \\C[2]Messiah Project\\C[0] is finally ready.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -270,8 +296,10 @@ finally ready with this#MTLed
 もうお前たちの計画は終わりだ！！
 僕はただの人間に戻った！！
 > CONTEXT: Map191/events/1/pages/0/234/Dialogue/kazuya
-What are you saying…!!Your plan is over! !
-I returned to a mere human! !#MTLed
+What are you talking about...?!!
+
+Your plans are finished!! I'm back to being just
+a human!!#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -279,14 +307,15 @@ I returned to a mere human! !#MTLed
 
 今さら、悪あがきはよせ！！！
 > CONTEXT: Map191/events/1/pages/0/239/Dialogue/kazuya
-All of your candidates now have to fail!
-Even now, evil temper!!!#MTLed
+Your candidates have now all failed!
+
+This is pointless!!!#Ron
 > END STRING
 
 > BEGIN STRING
 失敗……？
 > CONTEXT: Map191/events/1/pages/0/243/Dialogue/other2
-Failure ...?#MTLed
+Failed...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -294,8 +323,9 @@ Failure ...?#MTLed
 
 私の候補は、失敗などしておらんよ。
 > CONTEXT: Map191/events/1/pages/0/247/Dialogue/other5
-\\N[1]-kun...you are mistaken.
-My candidate has failed.#MTLed
+You've got it all wrong, \\N[1]-kun...
+
+My candidate hasn't failed at all.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -303,7 +333,9 @@ My candidate has failed.#MTLed
 
 どういうことだ……！！
 > CONTEXT: Map191/events/1/pages/0/251/Dialogue/kazuya
-......! ? What does it mean……! !#MTLed
+...?!
+
+What does that mean...?!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -312,9 +344,10 @@ My candidate has failed.#MTLed
 
 私としたことが、話の流れでつい、ね……
 > CONTEXT: Map191/events/1/pages/0/255/Dialogue/other2
-Oh yeah...Reina-kun ...... One thing you forgot
-to answer. What I did with the flow of the story,
-......#MTLed
+Oh, that's right... Reina-kun, there's something
+I forgot to explain to you before. I suppose I
+was too caught up in telling you my plans and it
+slipped my mind...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -322,14 +355,15 @@ to answer. What I did with the flow of the story,
 
 \\C[2]あれはキミのことだよ、レイナ君……
 > CONTEXT: Map191/events/1/pages/0/261/Dialogue/other5
-Leading candidate\\C[10] "E-000"\\C[0] .
-\\C[2]That's about you, Reina-kun ...#MTLed
+It's about the lead candidate, \\C[10]"E-000"\\C[0]...
+
+\\C[2]About you, Reina-kun...#Ron
 > END STRING
 
 > BEGIN STRING
 なっ………！！！
 > CONTEXT: Map191/events/1/pages/0/266/Dialogue/other5
-No.........!!!#MTLed
+Wha-...!!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -338,10 +372,10 @@ No.........!!!#MTLed
 
 大主教への報告としても、そういう予定にしていた。
 > CONTEXT: Map191/events/1/pages/0/268/Dialogue/other2
-Of the Messiah Project\\C[10] "E-000"\\C[0]
-Certainly, in the early days \\N[1] was a
-candidate. Such a plan was also made as a report
-to the Archbishop.#MTLed
+It's true that in the early days of the Messiah
+Project, \\N[1] was the prime candidate to be
+\\C[10]"E-000"\\C[0]. At least, that's what I
+had planned to report to the Archbishop...#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -350,9 +384,10 @@ to the Archbishop.#MTLed
 
 私は計画を変更した……
 > CONTEXT: Map191/events/1/pages/0/273/Dialogue/other2
-But at the time of that accident ...
-Seeing you are on the side of As a human, \\N[1]
-I changed my plan ......#MTLed
+But on the day of the accident, I saw you by
+\\N[1]'s side as a human...
+
+And so I changed the plan...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -361,10 +396,10 @@ I changed my plan ......#MTLed
 『器』が別格の\\N[1]君に使用するのは
 計画初期から、少々勿体ないと思っていたんだ。
 > CONTEXT: Map191/events/1/pages/0/278/Dialogue/other2
-The magic we have prepared is not very good
-quality. It is used for "\\N[1]" of "special
-case". From the beginning of the plan, I thought
-that it was a little shameful.#MTLed
+The magic we had prepared wasn't of particularly
+high quality. From the beginning I considered it
+a waste to use it on such a special "vessel" like
+\\N[1]-kun.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -373,9 +408,9 @@ that it was a little shameful.#MTLed
 
 これならば、『救世主』の力として申し分ない……
 > CONTEXT: Map191/events/1/pages/0/283/Dialogue/other2
-So I, I came up with a plan to runaway
-Reina-kun's Angelic Magic. This would be perfect
-as the power of the "Savior" ...#MTLed
+So I came up with the plan to make your angelic
+magic run out of control. That would be the
+perfect power for the "Savior"...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -384,10 +419,9 @@ as the power of the "Savior" ...#MTLed
 レイナ君は、その魔力の危険性を十分知っている。
 どんな危機的状況になっても、魔力を開放することはない。
 > CONTEXT: Map191/events/1/pages/0/288/Dialogue/other2
-But there was a problem with that.
-Reina-kun is fully aware of the dangers of that
-magic. In any crisis situation, there is no
-release of magic.#MTLed
+But there was a problem. You were fully aware of
+the dangers of that magic. Even in a crisis there
+was little chance of you releasing your power.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -396,9 +430,9 @@ release of magic.#MTLed
 天使の魔力を『暴走』させるには
 あまりに大きすぎたのだ。
 > CONTEXT: Map191/events/1/pages/0/293/Dialogue/other2
-Well, \\N[1]-san's bowl of magic is
-To "run away" the angel's magic
-It was too big.#MTLed
+Additionally, \\N[1]-kun's natural capacity
+to store the magic was too great to force it
+to go out of control.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -407,10 +441,10 @@ It was too big.#MTLed
 どんなに\\N[1]君が悪魔と接し、殺したとしても
 この器で暴走が始まるのは、数十年は先になるからね…
 > CONTEXT: Map191/events/1/pages/0/298/Dialogue/other2
-I was troubled. No matter how \\N[1] you deal
-with demon and kill you. It will be several
-decades before the runaway starts with this
-vessel ...#MTLed
+It was troubling. Even if \\N[1] were to kill
+every single demon he met, it would take
+decades for the magic to run wild in that
+vessel of his...#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -419,10 +453,9 @@ vessel ...#MTLed
 \\C[2]\\N[1]君が暴走する危険をレイナ君が知れば
 きっと自分の体内に魔力を戻そうとするに違いない…とね。
 > CONTEXT: Map191/events/1/pages/0/303/Dialogue/other2
-So...I came up with it. \\C[2]If Reina-kun knows the
-danger of \\N[1]-kun running out
-I must surely try to put the magic back into my
-body...and so on.#MTLed
+And that's when I realized. \\C[2]If you knew the
+danger of your magic inside \\N[1]-kun, you'd
+surely try to take it back from him.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -430,21 +463,22 @@ body...and so on.#MTLed
 
 最初からこのタイミングを狙って……！？
 > CONTEXT: Map191/events/1/pages/0/308/Dialogue/other5
-No way...you...... Aim for this timing from
-the beginning ...! ?#MTLed
+Don't tell me...
+
+This was your plan from the very beginning...?!#Ron
 > END STRING
 
 > BEGIN STRING
 がああっ………！！！
 > CONTEXT: Map191/events/1/pages/0/315/Dialogue/other5
-But AAh.........!!!#MTLed
+Gaaagh...!!!#Ron
 > END STRING
 
 > BEGIN STRING
 レイナ！！！！
 > CONTEXT: Map191/events/1/pages/0/320/Dialogue/kazuya
 > CONTEXT: Map191/events/1/pages/0/629/Dialogue/kazuya
-Reina!!! !#MTLed
+Reina!!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -452,8 +486,9 @@ Reina!!! !#MTLed
 
 何を撃ったんだ！！！
 > CONTEXT: Map191/events/1/pages/0/325/Dialogue/kazuya-b
-you……!!What did Reina do!!!
-What did you shoot!!!#MTLed
+You bitch!! What did you do to Reina?!!
+
+What did you shoot her with?!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -461,8 +496,8 @@ What did you shoot!!!#MTLed
 
 ほんの少し『きっかけ』の刺激を与えてあげただけさ。
 > CONTEXT: Map191/events/1/pages/0/329/Dialogue/other5
-It's not a big deal. I just gave the stimulus of
-a little "Course".#MTLed
+Nothing major, I just gave her a little "nudge"
+to help things along.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -470,9 +505,10 @@ a little "Course".#MTLed
 
 気に入ってくれると嬉しいのだがね……？
 > CONTEXT: Map191/events/1/pages/0/333/Dialogue/other5
-It is a self-confident work that has been
-adjusted for this time since that day.
-I'm glad if you like it ...?#MTLed
+We've made a lot of adjustments since that day
+to get to this point, to make this work of art.
+
+I hope you're pleased with it...#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -481,9 +517,10 @@ I'm glad if you like it ...?#MTLed
 君が彼女の魔力増幅に協力してくれなければ、計画は恐らく
 君の言うように全員失敗で終わっていただろう。
 > CONTEXT: Map191/events/1/pages/0/339/Dialogue/other5
-Thank you, \\N[1]. If you don't cooperate with
-her magic amplification, the plan is probably
-Everyone would have ended in failure as you say.#MTLed
+You have my gratitude, \\N[1]-kun. If you hadn't
+cooperated in amplifying her magic, the plan
+would have ended in complete failure.
+Just like you said before.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -491,8 +528,9 @@ Everyone would have ended in failure as you say.#MTLed
 
 君は『世界を滅亡させる存在』などではなかった……
 > CONTEXT: Map191/events/1/pages/0/344/Dialogue/other5
-Pleasure ...... You were not "the existence that
-destroys the world" etc ...#MTLed
+Rejoice...
+
+You won't be the one to end this world.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -500,14 +538,16 @@ destroys the world" etc ...#MTLed
 
 \\C[10]世界の破壊者\\C[0]となる…
 > CONTEXT: Map191/events/1/pages/0/348/Dialogue/other5
-As planned...she is...\\C[10]Vandalist in the world\\C[0]
-Become ...#MTLed
+It will be her, just as planned...
+
+She will bring forth \\C[10]the end of the world...\\C[0]#Ron
 > END STRING
 
 > BEGIN STRING
 『世界の滅亡』はここより始まる……
 > CONTEXT: Map191/events/1/pages/0/366/Dialogue/other2
-"The Fall of the World" starts here ...#MTLed
+This is where the destruction of the world will
+begin...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -515,8 +555,10 @@ Become ...#MTLed
 
 この醜い世界を、破滅の混沌へとリセットするのだ……
 > CONTEXT: Map191/events/1/pages/0/368/Dialogue/other2
-Reina-kun is "Savior"...Reset this ugly world
-to a mess of ruins ...#MTLed
+Reina-kun will become our Savior...
+
+She will wipe clean this ugly, chaotic
+world so it can begin anew...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -524,7 +566,7 @@ to a mess of ruins ...#MTLed
 
 『メシア・プロジェクト』……
 > CONTEXT: Map191/events/1/pages/0/372/Dialogue/other2
-That is..."Messia Project" ...#MTLed
+That is the Messiah Project...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -532,7 +574,7 @@ That is..."Messia Project" ...#MTLed
 
 私が…
 > CONTEXT: Map191/events/1/pages/0/397/Dialogue/other5
-That's what...it was...I…#MTLed
+So that's... what her plan was...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -540,7 +582,9 @@ That's what...it was...I…#MTLed
 
 \\N[1]が……無事で……
 > CONTEXT: Map191/events/1/pages/0/401/Dialogue/other5
-But...good...\\N[1] is...safe ...#MTLed
+But still... I'm glad...
+
+That you're safe...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -548,7 +592,9 @@ But...good...\\N[1] is...safe ...#MTLed
 
 しっかりしろ！！こっちに戻ってこい！！
 > CONTEXT: Map191/events/1/pages/0/406/Dialogue/kazuya
-Reina ...!!come on!!Come back here! !#MTLed
+Pull yourself together, Reina...!!
+
+Come back over here!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -556,9 +602,9 @@ Reina ...!!come on!!Come back here! !#MTLed
 
 私は元々、今後そう長く生きるつもりはなかった……
 > CONTEXT: Map191/events/1/pages/0/410/Dialogue/other1
-...... \\N[1] ...... This is good ......
-Originally, I did not intend to live so long in
-the future ......#MTLed
+It's okay, \\N[1]...
+
+I wasn't planning on living much longer anyway...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -567,9 +613,9 @@ the future ......#MTLed
 
 いつか償いたかった……
 > CONTEXT: Map191/events/1/pages/0/414/Dialogue/other1
-My 'sin' that caught you in danger ...
-And my foolishness that I felt ill forgiven ...
-I wanted to compensate someday ...#MTLed
+I wanted to atone someday for my sin that's
+gotten you caught up in so much danger, and for
+the foolishness to think I could be forgiven...#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -577,8 +623,10 @@ I wanted to compensate someday ...#MTLed
 
 そうなると、私はもう自我を失い、破壊を始める…
 > CONTEXT: Map191/events/1/pages/0/422/Dialogue/other5
-A runaway of magic starts from now on ...
-Then I lose my ego and start destroying ...#MTLed
+My magic will start going out of control...
+
+When that happens I'll lose my sense of self and
+begin destroying everything...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -586,14 +634,15 @@ Then I lose my ego and start destroying ...#MTLed
 
 そうなったら……\\N[1]……
 > CONTEXT: Map191/events/1/pages/0/426/Dialogue/other5
-I will not be me...If so......... \\N[1]
-......#MTLed
+I won't be me anymore...
+
+When that happens... I...#Ron
 > END STRING
 
 > BEGIN STRING
 \\C[10]貴方が………私を終わらせて欲しい……
 > CONTEXT: Map191/events/1/pages/0/430/Dialogue/other5
-\\C[10]You want me to end me ......#MTLed
+\\C[10]I... want you to end me...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -601,8 +650,9 @@ I will not be me...If so......... \\N[1]
 
 君を殺すなんて……！！
 > CONTEXT: Map191/events/1/pages/0/432/Dialogue/kazuya
-Such a thing ...... can not be done! !
-I will kill you ...! !#MTLed
+There's no way I could do something like that!!
+
+I couldn't kill you...!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -610,8 +660,10 @@ I will kill you ...! !#MTLed
 
 ずっと僕の側にいてくれるだけでいい！！
 > CONTEXT: Map191/events/1/pages/0/436/Dialogue/kazuya
-You don't have to pay for sins! !
-All you have to do is stay with me forever! !#MTLed
+You don't have to atone for your sins or
+whatever!!
+
+All you have to do is stay with me forever!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -620,9 +672,10 @@ All you have to do is stay with me forever! !#MTLed
 
 このタイミングを逃せば、世界は破滅してしまう。
 > CONTEXT: Map191/events/1/pages/0/441/Dialogue/other5
-I'm sorry………. that can not be done……
-If you miss this timing, the world will be
-ruined.#MTLed
+I'm sorry, but I can't do that...
+
+The world will be destroyed if we miss this
+chance...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -630,8 +683,9 @@ ruined.#MTLed
 
 私は……もう、『覚悟』は出来てるから。
 > CONTEXT: Map191/events/1/pages/0/446/Dialogue/other5
-You also decide "Ready", \\N[1].
-I am...already, "ready" is ready.#MTLed
+You need to prepare yourself, \\N[1].
+
+I've already... resolved myself.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -639,7 +693,9 @@ I am...already, "ready" is ready.#MTLed
 
 なんだこいつらは…！！
 > CONTEXT: Map191/events/1/pages/0/525/Dialogue/yuuma
-.........! ? Somehow they are ...! !#MTLed
+Wha-...?!
+
+What's with these guys...?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -647,7 +703,9 @@ I am...already, "ready" is ready.#MTLed
 
 \\C[2]世界の破滅……
 > CONTEXT: Map191/events/1/pages/0/529/Dialogue/enemy17
-Did it start...... \\C[2]The ruin of the world ...#MTLed
+So it's begun...
+
+\\C[2]The end of the world...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -655,9 +713,9 @@ Did it start...... \\C[2]The ruin of the world ...#MTLed
 
 書物などではよく『獣』と称されておる下級悪魔じゃ。
 > CONTEXT: Map191/events/1/pages/0/533/Dialogue/enemy17
-Hyena coming to smell the smell of the end ...
-It is a low-grade demon that is often referred to
-as "the beast" in books and so on.#MTLed
+These are hyenas attracted by the smell of
+ruination. They're low-grade demons often
+referred to in books as "beasts".#Ron
 > END STRING
 
 > BEGIN STRING
@@ -665,7 +723,10 @@ as "the beast" in books and so on.#MTLed
 
 お前も『眷属』として働かぬか
 > CONTEXT: Map191/events/1/pages/0/570/Dialogue/enemy17
-Boiled Yuuma. You do not work as "眷"#MTLed
+Come now, Yuuma.
+
+Time for you to make yourself useful as my
+retainer.#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -673,14 +734,14 @@ Boiled Yuuma. You do not work as "眷"#MTLed
 
 こやつらが\\N[1]まで襲い始めるぞ？
 > CONTEXT: Map191/events/1/pages/0/574/Dialogue/enemy17
-If all the jealousy get out of mind
-Will they start attacking \\N[1]?#MTLed
+If we let our focus slip even a little, they'll
+start attacking \\N[1].#Ron
 > END STRING
 
 > BEGIN STRING
 "Chapter4-3　サマエル戦"
 > CONTEXT: Map191/events/1/pages/0/585/InlineScript/2:1
-"Chapter 4-3 Samael War"#MTLed
+"Chapter 4-3 Samael Battle"#Ron
 > END STRING
 
 > BEGIN STRING
@@ -688,8 +749,8 @@ Will they start attacking \\N[1]?#MTLed
 
 ずるり、とレイナの上半身が姿を現した……
 > CONTEXT: Map191/events/1/pages/0/631/Dialogue
-From the inside of Samael's body that got disoriented
-Crush, Reina's upper body appeared ...#MTLed
+Staggered, Reina's upper half appeared from out of
+Samael's body...#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -697,8 +758,9 @@ Crush, Reina's upper body appeared ...#MTLed
 
 私を撃って………
 > CONTEXT: Map191/events/1/pages/0/635/Dialogue/other5
-\\N[1] ...... 今 Now.........
-Shoot me .........#MTLed
+Now \\N[1]...
+
+Shoot me...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -707,9 +769,10 @@ Shoot me .........#MTLed
 
 今のうちに……
 > CONTEXT: Map191/events/1/pages/0/639/Dialogue/other5
-I have to die, the main body ...
-Samael's magic disappears with me ...
-While we have time……#MTLed
+I'm part of the main body so if I die, Samael's
+magic will disappear along with me...
+
+Quickly, while there's still time...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -717,8 +780,9 @@ While we have time……#MTLed
 
  君を撃つなんて……できない！
 > CONTEXT: Map191/events/1/pages/0/644/Dialogue/kazuya-b
-...... I must have said that! 
-I can't shoot you...I can not do it!#MTLed
+...I already told you!
+
+I can't do that!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -726,8 +790,9 @@ I can't shoot you...I can not do it!#MTLed
 
  僕の手を……掴んでくれ……！！
 > CONTEXT: Map191/events/1/pages/0/648/Dialogue/kazuya-b
-Reina! More .... Reach out! Grab my hand...grab
-it ...! !#MTLed
+Reach out to me just a little more...!
+
+Grab my hand...!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -736,9 +801,10 @@ it ...! !#MTLed
 私は……本当は、あなたを救ったあの時から……
 あなたに触れる資格はなかったの…………
 > CONTEXT: Map191/events/1/pages/0/653/Dialogue/other5
-I'm sorry...\\N[1]...I am...from the time I
-saved you...I was not qualified to touch you
-.........#MTLed
+I'm sorry, \\N[1]...
+
+The truth is, ever since I saved you, I never
+had the right to be touched by you...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -746,9 +812,9 @@ saved you...I was not qualified to touch you
 
 本来、私が成るべくして成る姿……
 > CONTEXT: Map191/events/1/pages/0/658/Dialogue/other5
-"Samael" is...my magic runaway ...
-Originally, the form that I would like to become
-......#MTLed
+"Samael" is the result of my magic running loose.
+
+It's the form I was originally supposed to take.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -757,10 +823,10 @@ Originally, the form that I would like to become
 私は……これに囚われたまま……命を終わらせる……
 それが……あなたを巻き込んだ、私の償い………
 > CONTEXT: Map191/events/1/pages/0/662/Dialogue/other5
-This is my work itself .........
-I ...... while being trapped by this...end my
-life ...... That ...... you caught you, my
-compensation.........#MTLed
+This is my fate... to be trapped in here...
+ending lives...
+It's... what I deserve... for getting you
+involved...#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -769,8 +835,10 @@ compensation.........#MTLed
 子供の頃、君は僕を助けてくれた……
 生贄の儀式から……僕の命を！！
 > CONTEXT: Map191/events/1/pages/0/667/Dialogue/kazuya-b
-Reina ......!!When I was a kid, you helped me
-... From the ceremonial ceremonies...my life! !#MTLed
+Reina...!!
+
+You saved my life when I was kid!! You saved me
+from being a sacrifice in that ritual.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -778,8 +846,9 @@ Reina ......!!When I was a kid, you helped me
 
 今度は僕が、そこから君を救い出す！！
 > CONTEXT: Map191/events/1/pages/0/672/Dialogue/kazuya-b
-If you say that you stop there without forgive me
-... Now I will rescue you from there! !#MTLed
+If you're saying you won't go on because you
+can't forgive yourself, then this time I'll be
+the one to rescue you!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -787,15 +856,16 @@ If you say that you stop there without forgive me
 
 命で償う必要なんて、ないんだ……！
 > CONTEXT: Map191/events/1/pages/0/676/Dialogue/kazuya-b
-You don't have to do anything like "confessions"!
-! There is no need to compensate with life
-......!#MTLed
+You don't have to "repent" or whatever anymore!!
+
+You don't have to offer up your life as
+atonement!#RonIffyWording
 > END STRING
 
 > BEGIN STRING
 僕と一緒にいてくれ………レイナ！！！
 > CONTEXT: Map191/events/1/pages/0/680/Dialogue/kazuya-b
-Stay with me ......... Reina!!!#MTLed
+Stay with me, Reina!!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -803,8 +873,9 @@ Stay with me ......... Reina!!!#MTLed
 
 貴方のその言葉が……聞けただけで……
 > CONTEXT: Map191/events/1/pages/0/685/Dialogue/other1
-Thank you ...... \\N[1] ......
-Just because you could hear your words ......#MTLed
+Thank you, \\N[1]...
+
+For letting me hear those words...#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -812,28 +883,27 @@ Just because you could hear your words ......#MTLed
 
 力が………強す……ぎ………て…………
 > CONTEXT: Map191/events/1/pages/0/689/Dialogue/other5
-But also......... ...... Mael...... ......
-The force is ..... .....#MTLed
+But Sama.. el's... power... is already...
+too strong...#Ron
 > END STRING
 
 > BEGIN STRING
 ごめん……なさ……い
 > CONTEXT: Map191/events/1/pages/0/693/Dialogue/other5
-I'm sorry#MTLed
+I'm... sorry...#Ron
 > END STRING
 
 > BEGIN STRING
 レイナの姿は、またサマエルと同化してしまった……
 > CONTEXT: Map191/events/1/pages/0/698/Dialogue
-The figure of Reina has been assimilated again to Samael
-...#MTLed
+Reina has been assimilated into Samael again...#Ron
 > END STRING
 
 > BEGIN STRING
 がはっ……！！
 > CONTEXT: Map191/events/1/pages/0/721/Dialogue/kazuya
 > CONTEXT: Troops/210/pages/3/8/Dialogue/enemy11
-Ahh......! !#MTLed
+Gaaagh...!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -841,8 +911,9 @@ Ahh......! !#MTLed
 
 \\N[1]の武器の装備が外れた……
 > CONTEXT: Map191/events/1/pages/0/723/Dialogue
-In shock,\\C[2] Weapons fell into the sea ...
-Equipment of \\N[1]'s weapon has been removed ...#MTLed
+The impact \\C[2]knocked \\N[1]'s weapon into the sea...
+
+His weapon has been unequipped...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -850,8 +921,9 @@ Equipment of \\N[1]'s weapon has been removed ...#MTLed
 
 今の僕は……何も守れないのか……！！！
 > CONTEXT: Map191/events/1/pages/0/729/Dialogue/kazuya-b
-...... ......!!! I now...can not protect
-anything ...!!!#MTLed
+...Tch!!!
+
+Isn't there anything I can do...?!!#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -859,8 +931,9 @@ anything ...!!!#MTLed
 
 今の僕には………！！
 > CONTEXT: Map191/events/1/pages/0/733/Dialogue/kazuya-b
-I can not use magic...I can not move my body as
-I think...To me now......! !#MTLed
+I can't use magic... I can't move my body freely.
+
+The way I am now...!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -869,8 +942,10 @@ I think...To me now......! !#MTLed
 みえなくても　ずっと　側に　いるから
 > CONTEXT: Map191/events/1/pages/0/739/Dialogue/enemy2
 > CONTEXT: Map194/events/2/pages/0/42/Dialogue/enemy2
-Goodbye is not good...but I do not regret
-Even if I can't see it, I'm on the side#MTLed
+Goodbyes... are sad... but I don't...
+regret anything...
+I'll always be... by your side... even if... you
+can't see me...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -880,9 +955,10 @@ Even if I can't see it, I'm on the side#MTLed
 寂しくないわけがない。
 > CONTEXT: Map191/events/1/pages/0/745/Dialogue/enemy6
 > CONTEXT: Map194/events/2/pages/0/97/Dialogue/enemy6
-Everyone is the demons who came to love you.
-I can not meet or talk, There is no reason I can
-not miss it.#MTLed
+All the demons gathered here have come to love
+you. There's no way they wouldn't be sad upon
+finding out they'd never be able to meet or talk
+to you again.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -892,9 +968,10 @@ not miss it.#MTLed
 だから、みんな笑顔で送り届けようとしてるんだよっ！
 > CONTEXT: Map191/events/1/pages/0/750/Dialogue/enemy6
 > CONTEXT: Map194/events/2/pages/0/102/Dialogue/enemy6
-But! It's even more disgusting for \\N[1] you to
-end up with unwanted results! 
-So everyone is smiling and trying to deliver!#MTLed
+But you know, it'd be even sadder for us if we
+made you go down a path you didn't want.
+
+So everyone's here to send you off with a smile!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -903,8 +980,9 @@ So everyone is smiling and trying to deliver!#MTLed
 皆、それに惹かれていることをお忘れ無く……
 > CONTEXT: Map191/events/1/pages/0/755/Dialogue/yuuma
 > CONTEXT: Map194/events/2/pages/0/122/Dialogue/yuuma
-Your strength is not all about magic.
-Remember that everyone is attracted to it ...#MTLed
+Don't forget, your strength doesn't just come
+from your magic. That's what attracted us to
+you...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -913,16 +991,18 @@ Remember that everyone is attracted to it ...#MTLed
 貴方の魂が、いつでも安らかでいられるように……
 > CONTEXT: Map191/events/1/pages/0/759/Dialogue/enemy4
 > CONTEXT: Map194/events/2/pages/0/126/Dialogue/enemy4
-Even if you do not have my room, we will keep
-watching over it. Your soul will always be at
-rest ...#MTLed
+We'll watch over you with or without a My Room.
+
+To make sure your soul is always at rest...#RonIffy
 > END STRING
 
 > BEGIN STRING
 \\N[1]
 \\C[2]………後悔のないようにね。
 > CONTEXT: Map191/events/1/pages/0/764/Dialogue/enemy
-\\N[1]. \\C[2]......so as not to regret.#MTLed
+\\N[1]...
+
+\\C[2]Try not to leave with any regrets.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -931,7 +1011,9 @@ rest ...#MTLed
 僕は、後悔しないって決めたんだ………
 > CONTEXT: Map191/events/1/pages/0/776/Dialogue/kazuya-b
 > CONTEXT: Map191/events/1/pages/0/824/Dialogue/kazuya-b
-That's it…………. I decided not to regret.........#MTLed
+That's right...
+
+I decided not to have any regrets...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -940,8 +1022,9 @@ That's it…………. I decided not to regret.........#MTLed
 僕は………お前を止めてみせる……！！
 > CONTEXT: Map191/events/1/pages/0/780/Dialogue/kazuya-b
 > CONTEXT: Map191/events/1/pages/0/828/Dialogue/kazuya-b
-Whatever the outcome .........
-I...... I will stop you ...! !#MTLed
+Whatever the outcome...
+
+I'll try to stop you...!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -950,8 +1033,9 @@ I...... I will stop you ...! !#MTLed
 戻ってこい！！！
 > CONTEXT: Map191/events/1/pages/0/792/Dialogue/other2
 > CONTEXT: Map191/events/1/pages/0/840/Dialogue/other2
-\\N[1]!!! It's unreasonable! !
-Come back!!!#MTLed
+Come back, \\N[1]!!
+
+It's impossible!!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -960,7 +1044,9 @@ Come back!!!#MTLed
 海に落ちるぞ…！！！
 > CONTEXT: Map191/events/1/pages/0/796/Dialogue/yuuma
 > CONTEXT: Map191/events/1/pages/0/844/Dialogue/yuuma
-Stop! \\N[1]!!I will fall in the sea ...!!!#MTLed
+Stop, \\N[1]!!
+
+You'll fall into the sea...!!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -969,8 +1055,9 @@ Stop! \\N[1]!!I will fall in the sea ...!!!#MTLed
 僕は……１人じゃない……。
 いつだって………。
 > CONTEXT: Map191/events/1/pages/0/869/Dialogue/kazuya-b
-…………That's it……. I am not alone ...
-always……….#MTLed
+...That's right...
+
+I'm... not alone... and never was...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -978,8 +1065,9 @@ always……….#MTLed
 
 武器の無い状態で、ヤツに近付くな！！
 > CONTEXT: Map191/events/1/pages/0/883/Dialogue/yuuma
-\\N[1]!!It's unreasonable! !
-Don't get close to the guy without weapons! !#MTLed
+It's impossible, \\N[1]!!
+
+Don't get close to that thing without a weapon!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -987,7 +1075,10 @@ Don't get close to the guy without weapons! !#MTLed
 
 お前には、武器がないように見えるのか？ユウマ。
 > CONTEXT: Map191/events/1/pages/0/888/Dialogue/enemy17
-Who ...? Do you appear to have no weapons? Yuuma.#MTLed
+Hmmm...?
+
+Does it look to you like he doesn't have a
+weapon, Yuuma?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -995,7 +1086,9 @@ Who ...? Do you appear to have no weapons? Yuuma.#MTLed
 
 ど、どういうことだ…！？
 > CONTEXT: Map191/events/1/pages/0/895/Dialogue/yuuma
-what…! ? What kind of thing ...! ?#MTLed
+What...?!
+
+W-What are you talking about...?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1003,8 +1096,9 @@ what…! ? What kind of thing ...! ?#MTLed
 
 沢山在るように思えるのだがな……？
 > CONTEXT: Map191/events/1/pages/0/901/Dialogue/enemy17
-To the wolf...It seems like there are a lot of
-......?#MTLed
+To my eyes...
+
+It looks like he has plenty...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1012,8 +1106,8 @@ To the wolf...It seems like there are a lot of
 
 この\\C[10]『全書』\\C[0]を使う時です。
 > CONTEXT: Map191/events/1/pages/0/910/Dialogue/other1
-..... Now I entrusted you with \\N[1],
-this\\C[10] Complete book\\C[0] It is time to use#MTLed
+...It's time to use the \\C[10]Compendium\\C[0] that I
+entrusted you and \\N[1] with.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1021,9 +1115,9 @@ this\\C[10] Complete book\\C[0] It is time to use#MTLed
 
 共に歩んだ、『貴方』が一緒ならば
 > CONTEXT: Map191/events/1/pages/0/914/Dialogue/other1
-for example,\\C[2] Even if there is no magic for
-summoning to \\N[1]...I walked together, if you
-were together#MTLed
+Even if \\C[2]\\N[1] doesn't have the magic to summon
+it himself, as long as "You" are together with
+him, there is a way...#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -1032,8 +1126,10 @@ were together#MTLed
 
 彼女たちはまさしく、常にあなた『たち』と共にあります。
 > CONTEXT: Map191/events/1/pages/0/918/Dialogue/other1
-Their words are. It is by no means a parable of
-the things. They are exactly and always with you.#MTLed
+The words of those girls weren't just empty
+talk.
+
+They'll surely always be together with you two.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -1041,8 +1137,9 @@ the things. They are exactly and always with you.#MTLed
 
 これが………あなたの最後の『介入』となるでしょう……
 > CONTEXT: Map191/events/1/pages/0/923/Dialogue/other1
-\\C[10]Well...together with him, I'm summoning them.
-This will be your last 'intervention' ...#MTLed
+\\C[10]Now then, together with him, call out to them.
+
+This... will be your final intervention...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1050,8 +1147,9 @@ This will be your last 'intervention' ...#MTLed
 
 力を、貸してほしいんだ。\\|\\|\\^
 > CONTEXT: Map191/events/1/pages/0/944/Dialogue/kazuya-b
-…………Everyone……. I want you to lend me your
-strength.\\|\\|\\^#MTLed
+Everyone...
+
+I want you to lend me your strength...\\|\\|\\^#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1059,12 +1157,11 @@ strength.\\|\\|\\^#MTLed
 
 手が届くように……\\|\\|\\^
 > CONTEXT: Map191/events/1/pages/0/948/Dialogue/kazuya-b
-To my important people ...... 
-To reach you ...\\|\\|\\^#MTLed
+To help me reach out to someone precious to me...\\|\\|\\^#Ron
 > END STRING
 
 > BEGIN STRING
 行こう……！！みんな！！\\|\\^
 > CONTEXT: Map191/events/1/pages/0/959/Dialogue/kazuya
-let's go……!!Everyone!!\\|\\^#MTLed
+Let's go, everyone!!\\|\\^#Ron
 > END STRING

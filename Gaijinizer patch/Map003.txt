@@ -1639,7 +1639,7 @@ of survival.#Ron
 > BEGIN STRING
 妲己 if(v[34] \>= 1) 
 > CONTEXT: Map003/events/1/pages/2/452/Choice/0
-Daijiif(v[34] \>= 1)#MTLed
+Dajiif(v[34] \>= 1)#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1673,7 +1673,7 @@ Gel Formif(s[521])#Ron
 様々な用途で仕掛けてくる強敵だ。
 > CONTEXT: Map003/events/1/pages/2/457/Dialogue/クッション君
 > CONTEXT: Map094/events/13/pages/0/8/Dialogue/クッション君
-Daiji is a powerful enemy who can use all kinds
+Daji is a powerful enemy who can use all kinds
 of dangerous attacks you've seen from the demons
 you've encountered so far.#Ron
 > END STRING
@@ -1741,7 +1741,7 @@ before you get yourself in a real pinch.#Ron
 \\C[2]アイアンメイデンとランパスの攻撃を模してくる。
 シェルターの悪夢再来だな。
 > CONTEXT: Map003/events/1/pages/2/484/Dialogue/クッション君
-Daiji's alraune form \\C[2]imitates the attacks of
+Daji's alraune form \\C[2]imitates the attacks of
 Iron Maiden and Lampas. It's a repeat of your
 nightmare in the shelter.#Ron
 > END STRING
@@ -1799,7 +1799,7 @@ damage when she's pulling you in.#CheckLater
  バーゲストやエンプーサみたいな『魔獣』の特性を持った
 物理特化タイプの形態だ。
 > CONTEXT: Map003/events/1/pages/2/511/Dialogue/クッション君
-Daiji's beast form has the characteristics of
+Daji's beast form has the characteristics of
 Barghest's and Empuse's specialized physical
 attacks.#Ron
 > END STRING
@@ -1864,7 +1864,7 @@ to ice-based attacks.#Ron
 
  これまでの形態とは少し毛色が違う。
 > CONTEXT: Map003/events/1/pages/2/541/Dialogue/クッション君
-Daiji's gel form has a slightly different
+Daji's gel form has a slightly different
 disposition to her other forms.#Ron
 > END STRING
 
@@ -1886,7 +1886,7 @@ to keep an eye on your various bars.#RonIffy
 アホなところは真似したくなかったんだろうな……
 > CONTEXT: Map003/events/1/pages/2/550/Dialogue/クッション君
 Well, it's not completely the same. For example,
-Daiji's version of the kiss attack doesn't come
+Daji's version of the kiss attack doesn't come
 with any riddles. I guess she doesn't want to
 mimic the stupidity that goes along with that...#Ron
 > END STRING
@@ -2463,7 +2463,7 @@ Camazotzif(v[33] \>= 1)#Triketos
 > BEGIN STRING
 妲己if(v[34] \>= 1) 
 > CONTEXT: Map003/events/2/pages/5/355/Choice/1
-Daijiif(v[34] \>= 1)#Triketos
+Dajiif(v[34] \>= 1)#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -2475,7 +2475,7 @@ Do you want to treat Camazotz's mind corruption?#Triketos
 > BEGIN STRING
 妲己の心蝕の治療を希望しますか？
 > CONTEXT: Map003/events/2/pages/5/376/Dialogue/other1
-Do you wish to treat Daiji's mind corruption?#Triketos
+Do you wish to treat Daji's mind corruption?#Triketos
 > END STRING
 
 > BEGIN STRING

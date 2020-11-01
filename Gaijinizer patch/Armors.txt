@@ -201,7 +201,7 @@ Night Edge#Dargoth
 これを装備して妲己に挑むと
 『アルラウネ・フォーム』から挑むことが出来る。
 > CONTEXT: Armors/23/description
-If you equip this and challenge Daiji. We can challenge
+If you equip this and challenge Daji. We can challenge
 from "alraune form".#MTLed
 > END STRING
 
@@ -215,7 +215,7 @@ Plant card#MTLed
 これを装備して妲己に挑むと
 『ビースト・フォーム』から挑むことが出来る。
 > CONTEXT: Armors/24/description
-If you equip this and challenge Daiji. We can challenge
+If you equip this and challenge Daji. We can challenge
 from "beast form".#MTLed
 > END STRING
 
@@ -229,7 +229,7 @@ Beast card#MTLed
 これを装備して妲己に挑むと
 『ジェル・フォーム』から挑むことが出来る。
 > CONTEXT: Armors/25/description
-If you equip this and challenge Daiji. You can challenge
+If you equip this and challenge Daji. You can challenge
 from "gel form".#MTLed
 > END STRING
 
@@ -769,14 +769,14 @@ Scaly Shield#afrg
 敏捷と魔法力が上昇する羽根。
 ただし雷・氷魔法に対する耐性が少し減少する、
 > CONTEXT: Armors/75/description
-A blade of agility and magical power rising. However,
-resistance to lightning and ice magic is slightly reduced,#MTLed
+A feather that increases agility and magic power. However,
+reduces resistance to ice and lightning magic.#Triketos
 > END STRING
 
 > BEGIN STRING
 妖鳥の羽根
 > CONTEXT: Armors/75/name
-Sow feather#MTLed
+Bird's Feather#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -927,7 +927,7 @@ Bronze Box [Camazotz]#Triketos
 > BEGIN STRING
 青銅の箱【妲己】
 > CONTEXT: Armors/211/name
-Bronze Box [Daiji]#Triketos
+Bronze Box [Daji]#Triketos
 > END STRING
 
 > BEGIN STRING

@@ -8855,7 +8855,7 @@ Micah (Normal)#MTLed
 > BEGIN STRING
 妲己（ランチャー）
 > CONTEXT: Troops/241/name
-Daiji (Launcher)#MTLed
+Daji (Launcher)#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -8978,7 +8978,7 @@ The greatest pleasure in the world awaits...#Ron
 > BEGIN STRING
 妲己が突然、身を引いて苦しみ始めた…！
 > CONTEXT: Troops/241/pages/5/21/Dialogue
-Daiji suddenly pulled away in pain...!#Ron
+Daji suddenly pulled away in pain...!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -9019,7 +9019,7 @@ with me...!!#Ron
 
 \\C[2]妲己の次の攻撃に備えて体勢を整えなければ……！
 > CONTEXT: Troops/241/pages/5/37/Dialogue
-\\C[2]I have to get ready for Daiji's next attack while I
+\\C[2]I have to get ready for Daji's next attack while I
 have the chance...!#Ron
 > END STRING
 
@@ -9054,7 +9054,7 @@ Kuku...!!#Ron
 > BEGIN STRING
 妲己は、ゆっくりと体勢を整えた………
 > CONTEXT: Troops/241/pages/8/8/Dialogue
-Daiji's slowly composed herself...#Ron
+Daji's slowly composed herself...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -9108,7 +9108,7 @@ Ggh... Not again...!!#Ron
 > BEGIN STRING
 妲己は、\\N[1]を離して、また苦しみ始めた……！！
 > CONTEXT: Troops/241/pages/10/33/Dialogue
-Once again, Daiji let go of \\N[1] and began writhing
+Once again, Daji let go of \\N[1] and began writhing
 in pain...!!#Ron
 > END STRING
 
@@ -9152,7 +9152,7 @@ Awoooooooooo~!!!♡♡♡#Triketos
 > BEGIN STRING
 妲己の腰振り速度が加速した…！！！
 > CONTEXT: Troops/241/pages/14/27/Dialogue
-Daiji's sped up her thrusts...!!!#Ron
+Daji's sped up her thrusts...!!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -9166,7 +9166,7 @@ Aaaaaah! ♡♡#MTLed
 > BEGIN STRING
 妲己の腰振り速度が更に加速した…！！！
 > CONTEXT: Troops/241/pages/15/27/Dialogue
-Daiji's sped up her thrusts even more...!!#Ron
+Daji's sped up her thrusts even more...!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -9174,7 +9174,7 @@ Daiji's sped up her thrusts even more...!!#Ron
 
 \\N[1]を離した……！！
 > CONTEXT: Troops/241/pages/16/25/Dialogue
-Daiji has released \\N[1] with a low growl...!!#Ron
+Daji has released \\N[1] with a low growl...!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -9327,13 +9327,13 @@ I...#Ron
 > BEGIN STRING
 妲己（テスト）
 > CONTEXT: Troops/242/name
-Daiji (test)#MTLed
+Daji (test)#MTLed
 > END STRING
 
 > BEGIN STRING
 妲己（青銅）
 > CONTEXT: Troops/243/name
-Daiji (Bronze)#MTLed
+Daji (Bronze)#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -9358,7 +9358,7 @@ face, it's been a long time ago...癖#MTLed
 戦闘に勝利したことにより
 \\C[2]妲己に対しての気丈な精神を少し取り戻した…
 > CONTEXT: Troops/243/pages/5/92/Dialogue
-By winning the battle. \\C[2]I regained some spirit of Daiji ...#MTLed
+By winning the battle. \\C[2]I regained some spirit of Daji ...#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -9366,8 +9366,9 @@ By winning the battle. \\C[2]I regained some spirit of Daiji ...#MTLed
 
 『神の悪意』『死をもたらす使徒』
 > CONTEXT: Troops/250/pages/1/31/Dialogue/enemy14
-............ I\\C[2] Samael. "Deity of God" "Apostle
-Bringing Death"#MTLed
+...I am \\C[2]Samael.
+
+The Malice of God, Death's Apostle.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -9375,8 +9376,9 @@ Bringing Death"#MTLed
 
 今こそ一つとなり、この世界に破滅を………
 > CONTEXT: Troops/250/pages/1/35/Dialogue/enemy14
-I'm broken in half ......... Now it will be one
-and ruin in this world .........#MTLed
+Heed my call, oh other half of mine...
+
+Let us become one and end this world...#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -9384,7 +9386,7 @@ and ruin in this world .........#MTLed
 
 近付いてきている……！
 > CONTEXT: Troops/250/pages/1/41/Dialogue
-Samael is slowly under \\N[1]. It's getting close ......!#MTLed
+Samael is slowly approaching \\N[1]...!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -9393,10 +9395,9 @@ Samael is slowly under \\N[1]. It's getting close ......!#MTLed
 アイツは\\C[2]お前の魂に定着した自分の魔力が欲しいんだ！
 取り込まれたら一巻の終わりだぞ！！！
 > CONTEXT: Troops/250/pages/1/47/Dialogue/other1
-\\N[1]!!Be careful! The guy is\\C[2] I want my
-enchantment fixed in your soul!
-It is the end of one volume if it is taken in! !
-!#MTLed
+Be careful, \\N[1]!! \\C[2]She's after the magic
+that's still stuck to your soul! It'll be
+curtains if you get sucked inside her!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -9404,9 +9405,10 @@ It is the end of one volume if it is taken in! !
 
 そうなれば、世界は……！！
 > CONTEXT: Troops/250/pages/1/52/Dialogue/other1
-\\C[2]If you capture the power of your soul, you will
-become "perfect"...If so, the world is ......!
-!#MTLed
+\\C[2]She'll become "complete" if she manages to
+get the magic in your soul...
+
+The world will be doomed if that happens!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -9414,7 +9416,9 @@ become "perfect"...If so, the world is ......!
 
 レイナを傷付けるわけには…！
 > CONTEXT: Troops/250/pages/1/56/Dialogue/kazuya-a
-Well, but ...!!Why not hurt Reina ...!#MTLed
+B-But...!!
+
+There's no way I could hurt Reina...!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -9423,10 +9427,10 @@ Well, but ...!!Why not hurt Reina ...!#MTLed
 \\C[2]彼女は今の状態じゃ、お前どころか自分すら認識してない！
 まずは悪魔弾でサマエルの魔力を削るんだ！！
 > CONTEXT: Troops/250/pages/1/60/Dialogue/other1
-come on!!\\N[1]!!\\C[2]She is not aware of you or
-even yourself in the current situation!
-First of all, let's remove Samael's magic with
-Demon rounds! !#MTLed
+Get it together, \\N[1]!! \\C[2]In this state she's
+not even aware of herself, let alone you.
+To start, let's remove her magic using Demon
+Rounds.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -9434,9 +9438,10 @@ Demon rounds! !#MTLed
 
 \\C[2]状態異常や性欲ゲージには充分気をつけろ！！
 > CONTEXT: Troops/250/pages/1/65/Dialogue/other1
-Possibly...There is also a possibility that the
-guy can give in from the mental side ...
-\\C[2]Be careful with Bad Status and lust bar! !#MTLed
+There's the possibility she'll force you to
+submit with psychological attacks.
+
+\\C[2]Watch out for status effects and your lust!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -9444,8 +9449,9 @@ guy can give in from the mental side ...
 
 \\C[2]能力が普通の人間に戻ってしまった僕に……
 > CONTEXT: Troops/250/pages/1/71/Dialogue
-Is it possible? \\C[2]To me whose ability has returned to a
-normal person ...#MTLed
+Can I really do it as I am?
+
+\\C[2]I'm just an ordinary human now...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -9453,7 +9459,9 @@ normal person ...#MTLed
 
 ここで負けるわけには、いかないんだ…！！
 > CONTEXT: Troops/250/pages/1/75/Dialogue
-No, I have no choice...It is not good to lose here ...! !#MTLed
+No, I have no choice...
+
+I can't lose here...!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -9468,8 +9476,9 @@ Samael (final)#MTLed
 
 あなたは、彼女に手が届くまで、前に進むの……
 > CONTEXT: Troops/251/pages/2/3/Dialogue/enemy4
-Rest assured...Mom protects from magic.
-You go forward until you reach her ...#MTLed
+Don't worry, mommy will protect you from magic.
+
+Keep moving forward until you can reach her...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -9477,8 +9486,9 @@ You go forward until you reach her ...#MTLed
 
 ママの自慢のボウヤですもの……
 > CONTEXT: Troops/251/pages/2/8/Dialogue/enemy4
-Okay, you can do it ......... 
-It is mom's proud boy ...#MTLed
+It's okay, you can do it...
+
+You're mommy's pride and joy, after all...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -9486,8 +9496,9 @@ It is mom's proud boy ...#MTLed
 
 『\\N[1]と一つになる』などとは……
 > CONTEXT: Troops/251/pages/2/16/Dialogue/yuuma
-If you aim for a life, you still have nothing to
-say, "\\N[1] and become one" etc ...#MTLed
+It's one thing to go after his life, but of all
+the things you could've said, you went with
+wanting to be one with him...#CheckLater
 > END STRING
 
 > BEGIN STRING
@@ -9495,8 +9506,10 @@ say, "\\N[1] and become one" etc ...#MTLed
 
 破壊しか能の無い堕天使に、彼は釣り合いません…！！
 > CONTEXT: Troops/251/pages/2/20/Dialogue/yuuma
-Get to know yourself...He is not fit for a
-fallen angel who can only destroy ...! !#MTLed
+Know your place...
+
+He deserves better than some fallen angel whose
+only power is to destroy the world...!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -9504,8 +9517,9 @@ fallen angel who can only destroy ...! !#MTLed
 
 なんだって、私がこんなこと………
 > CONTEXT: Troops/251/pages/3/3/Dialogue/enemy7
-dear me ......... What does this mean to me
-.........#MTLed
+What a mess...
+
+Why do I have to get involved in this...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -9513,8 +9527,9 @@ dear me ......... What does this mean to me
 
  やっぱり優しいよねー♪\\N[1]君。
 > CONTEXT: Troops/251/pages/3/7/Dialogue/enemy5
-Liz who will cooperate with me while saying
-After all you are kind♪\\N[1] you.#MTLed
+You say that but you're still helping us out.
+
+Liz is such a nice girl, right \\N[1]? ♪#Ron
 > END STRING
 
 > BEGIN STRING
@@ -9522,14 +9537,16 @@ After all you are kind♪\\N[1] you.#MTLed
 
 これくらいなら、まぁどうってことないさ
 > CONTEXT: Troops/251/pages/3/11/Dialogue/enemy7
-Well...Haru has taken care of you.
-If it's about this, I can't say#MTLed
+Well, Haru's been looking out for you this whole
+time. If this is all I need to do, I don't
+really mind.#Ron
 > END STRING
 
 > BEGIN STRING
 こんな面倒なこと、ちゃっちゃと終わらせるよ
 > CONTEXT: Troops/251/pages/3/15/Dialogue/enemy7
-I'll end such a bothersome thing#MTLed
+I'll put an end to this pain in the ass in a
+flash.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -9537,14 +9554,16 @@ I'll end such a bothersome thing#MTLed
 
 私と力比べをやろうってのかい……！？
 > CONTEXT: Troops/251/pages/3/33/Dialogue/enemy14
-Hmm!!How about comparing power with me? ?#MTLed
+Hmph!!
+
+You want to compare your power with mine?!#Ron
 > END STRING
 
 > BEGIN STRING
 Ｍ.Ｏ.Ｗの最凶の暴れ蛇をナメんじゃないよ！！！
 > CONTEXT: Troops/251/pages/3/37/Dialogue/enemy14
-Don't count on M.O.W.'s most dangerous rampage! !
-!#MTLed
+Don't underestimate M.O.W.'s most evil and
+violent snake!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -9552,8 +9571,8 @@ Don't count on M.O.W.'s most dangerous rampage! !
 
 サマエルの腕に、無数の髪が絡みついた！！
 > CONTEXT: Troops/251/pages/4/11/Dialogue
-The moment the technique was about to be developed
-Innumerable hairs entangled in the arm of Samael! !#MTLed
+The moment Samael was about to unleash her ability,
+countless hairs wrapped around and entangled her arm!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -9561,8 +9580,8 @@ Innumerable hairs entangled in the arm of Samael! !#MTLed
 
 『それ』はもう見るのも懲り懲りなんだ……！！
 > CONTEXT: Troops/251/pages/4/16/Dialogue/enemy4
-sorry…………. "It's too angry to see it already
-..."! !#MTLed
+Sorry, but I've gotten sick and tired of you
+using that ability...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -9570,8 +9589,9 @@ sorry…………. "It's too angry to see it already
 
 ド派手なやつを、遠慮なくやっちゃって！！！
 > CONTEXT: Troops/251/pages/4/26/Dialogue/enemy6
-Lazy!!Ebony-chan!!Do not hesitate to do a flashy
-guy!!!#MTLed
+Ebony!! Ivory!!
+
+Don't be shy, do one of your super flashy moves!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -9579,8 +9599,10 @@ guy!!!#MTLed
 
  私たちで盛り上げちゃおう！！！
 > CONTEXT: Troops/251/pages/4/30/Dialogue/enemy6
-\\N[1]'s big show of a generation! !
-Let us live!!!#MTLed
+This is \\N[1]-kun's once-in-a-lifetime huge
+stage!!
+
+Let's bring it to a climax!!!#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -9588,8 +9610,8 @@ Let us live!!!#MTLed
 
 無数のツタが、がんじがらめに縛り付ける…！！
 > CONTEXT: Troops/251/pages/5/4/Dialogue
-The arm of Samael who tried to raise the cross
-Innumerable ivy ties in to the hardship ...! !#MTLed
+The arm Samael was using to raise the cross has been
+restrained by countless vines wrapped around it...!!#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -9598,8 +9620,10 @@ Innumerable ivy ties in to the hardship ...! !#MTLed
 まさか搾精以外で
  ツタにこんな重労働させる日が来るなんて……
 > CONTEXT: Troops/251/pages/5/9/Dialogue/enemy
-Ah………. Other than milking. The day when such
-heavy work will come to ivy ...#MTLed
+Haah...
+
+To think the day would come where I'd have to use
+my vines for hard labor instead of milking...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -9607,8 +9631,10 @@ heavy work will come to ivy ...#MTLed
 
  決めるなら、一気に決めちゃって！！
 > CONTEXT: Troops/251/pages/5/14/Dialogue/enemy
-\\N[1], it's bad, but it won't last long.
-If you decide, decide at once! !#MTLed
+They won't hold her for long, \\N[1].
+
+If you're gonna do something, you'd better make
+it quick!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -9616,13 +9642,15 @@ If you decide, decide at once! !#MTLed
 
 ばーげすと！！！
 > CONTEXT: Troops/251/pages/5/19/Dialogue/enemy2
-............ Bargains!!!#MTLed
+...
+
+Barghest!!!#Ron
 > END STRING
 
 > BEGIN STRING
 ……今回　だけ　だからな！！
 > CONTEXT: Troops/251/pages/5/25/Dialogue/enemy3
-...... Only this time! !#MTLed
+Just... this once...!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -9630,7 +9658,9 @@ If you decide, decide at once! !#MTLed
 
 レイナ！！！！！！！！！
 > CONTEXT: Troops/251/pages/5/35/Dialogue/kazuya
-............!!! Reina!!!!!!!!!#MTLed
+...!!!
+
+Reina!!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -9638,14 +9668,14 @@ If you decide, decide at once! !#MTLed
 
  レイナの身体の上半身が出てきた！！
 > CONTEXT: Troops/251/pages/5/39/Dialogue
-From where the barghest and empuse broke
-The upper body of Reina's body has come out! !#MTLed
+Reina's upper half has appeared at the spot where Barghest
+and Empuse sliced up Samael...!!#RonIffyWording
 > END STRING
 
 > BEGIN STRING
 グウッ………！！
 > CONTEXT: Troops/251/pages/6/4/Dialogue/enemy14
-Good .........! !#MTLed
+Gghh...!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -9653,8 +9683,8 @@ Good .........! !#MTLed
 
 粘りの強い糸が絡みつく………！！
 > CONTEXT: Troops/251/pages/6/6/Dialogue
-In the body of Samael trying to escape towards the sea
-Sticky yarn gets entangled......! !#MTLed
+Samael tried to flee towards the ocean but her body was
+tangled up in sticky thread...!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -9662,8 +9692,10 @@ Sticky yarn gets entangled......! !#MTLed
 
 ここまで来て、逃げられると思ったのかい？
 > CONTEXT: Troops/251/pages/6/11/Dialogue/enemy10
-Totally ......... Did you come here and thought
-you could escape?#MTLed
+My goodness...
+
+Did you really think you'd be able to escape
+after all this?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -9671,8 +9703,10 @@ you could escape?#MTLed
 
 決めてきな、\\N[1]。
 > CONTEXT: Troops/251/pages/6/15/Dialogue/enemy10
-Atai will help, so I won't forgive mistakes
-Decide, \\N[1].#MTLed
+I'm here helping you, so you'd better not mess
+this up.
+
+Make a decision, \\N[1].#Ron
 > END STRING
 
 > BEGIN STRING
@@ -9680,7 +9714,9 @@ Decide, \\N[1].#MTLed
 
 ボクの背中に乗って！！
 > CONTEXT: Troops/251/pages/6/21/Dialogue/enemy11
-\\N[1]!!Get on my back! !#MTLed
+\\N[1]!!
+
+Get on my back!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -9688,8 +9724,9 @@ Decide, \\N[1].#MTLed
 
  確かキミ、飛行は苦手って………
 > CONTEXT: Troops/251/pages/6/25/Dialogue/kazuya
-You're okay, Sphinx. Certainly you are not good
-at flying .........#MTLed
+Is that okay, Sphinx?
+
+You're not the best flier if I recall...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -9697,8 +9734,9 @@ at flying .........#MTLed
 
 ……………たぶん！！
 > CONTEXT: Troops/251/pages/6/29/Dialogue/enemy11
-That's okay if it's that distance!
-……………maybe! !#MTLed
+It'll be fine at this distance!
+
+...Probably!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -9706,7 +9744,9 @@ That's okay if it's that distance!
 
 ジッと……しテテ……
 > CONTEXT: Troops/251/pages/6/36/Dialogue/enemy13
-Sphinx ...... I'm sorry...Shite ...#MTLed
+SpHiNx...
+
+HolD... stILl...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -9715,8 +9755,9 @@ Sphinx ...... I'm sorry...Shite ...#MTLed
 おおおっ！！
 これならめっちゃ行けそうかも！！
 > CONTEXT: Troops/251/pages/6/42/Dialogue/enemy10
-.........!!! Ooh! If this is going to go, it
-may be! !#MTLed
+...!!! Oooh!!
+
+Now I'll really be able to book it!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -9724,8 +9765,8 @@ may be! !#MTLed
 
 シバらく……重力ガ軽くなる………
 > CONTEXT: Troops/251/pages/6/47/Dialogue/enemy13
-I'm using my magic now...... ...
-Shiva-ku ...... Gravity is lightened...... ...#MTLed
+By uSIng thIs foRM's maGic, thE eFfeCt of grAVity
+wiLL be leSsened...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -9733,8 +9774,9 @@ Shiva-ku ...... Gravity is lightened...... ...#MTLed
 
 貴方なラ出来ル……信じテる…！
 > CONTEXT: Troops/251/pages/6/51/Dialogue/enemy13
-Good luck Tei...\\N[1]......
-You are able to make La .... Believe it ...!#MTLed
+GoOd lucK, \\N[1]...
+
+YoU caN do it, I belIEve in yOu...!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -9742,7 +9784,9 @@ You are able to make La .... Believe it ...!#MTLed
 
 いくよ！！\\N[1]！！
 > CONTEXT: Troops/251/pages/6/55/Dialogue/enemy11
-Oh!!Go!!\\N[1]! !#MTLed
+Alright \\N[1]!!
+
+Let's do this thing!!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -9750,7 +9794,9 @@ Oh!!Go!!\\N[1]! !#MTLed
 
 すごい突風………！！！
 > CONTEXT: Troops/251/pages/7/5/Dialogue/enemy11
-Wow!!Great gust......!!!#MTLed
+Uwaaah!!
+
+We've got some turbulence...!!!#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -9758,8 +9804,9 @@ Wow!!Great gust......!!!#MTLed
 
 あと少しで届きそうなんだ……！！！
 > CONTEXT: Troops/251/pages/7/9/Dialogue/kazuya
-Sphinx!!Can't we get closer? ?
-It seems to arrive a little later ...!!!#MTLed
+Can we get any closer, Sphinx?!
+
+Just a little more...!!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -9767,8 +9814,10 @@ It seems to arrive a little later ...!!!#MTLed
 
 ボクが抜けられても、\\N[1]君が落ちちゃう…！
 > CONTEXT: Troops/251/pages/7/13/Dialogue/enemy11
-Well, that's impossible...In this style ...
-Even if I'm missed, \\N[1] will fall ...!#MTLed
+T-There's no way, not with these winds...
+
+Even if I get through somehow, you'll end up
+falling off...!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -9776,7 +9825,9 @@ Even if I'm missed, \\N[1] will fall ...!#MTLed
 
 カゼ、ウチケシタ！！！
 > CONTEXT: Troops/251/pages/7/20/Dialogue/enemy16
-\\N[1]!!Imadayo!!Kaze, Utsukeshita!!!#MTLed
+Go, \\N[1]!!
+
+Her wind gone now!!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -9784,7 +9835,9 @@ Even if I'm missed, \\N[1] will fall ...!#MTLed
 
 これでもうへっちゃらだ！！
 > CONTEXT: Troops/251/pages/7/24/Dialogue/enemy11
-Camazotz-chan, I see!!It's already done! !#MTLed
+Nice one, Camazotz-chan!!
+
+This'll be a piece of cake now!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -9792,8 +9845,9 @@ Camazotz-chan, I see!!It's already done! !#MTLed
 
  一気にいくよ！！
 > CONTEXT: Troops/251/pages/7/29/Dialogue/enemy10
-\\N[1], preparation is good! ?
-I will go at once! !#MTLed
+You ready, \\N[1]?!
+
+I'll head straight for her!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -9801,8 +9855,9 @@ I will go at once! !#MTLed
 
 キミを助ける…………絶対に！！！
 > CONTEXT: Troops/251/pages/7/37/Dialogue/kazuya-b
-Reina ............ Help you ......... absolutely!
-! !#MTLed
+Reina...
+
+I'll definitely... come save you...!!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -9827,7 +9882,7 @@ Hyakki final processing#MTLed
 > BEGIN STRING
 妲己Ｇルート
 > CONTEXT: Troops/255/name
-Daiji G route#MTLed
+Daji G route#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -10150,19 +10205,19 @@ It can not be helped………. If you want it ...#MTLed
 > BEGIN STRING
 【敗北】妲己誘惑
 > CONTEXT: Troops/263/name
-[Losing] Daiji temptation#MTLed
+[Losing] Daji temptation#MTLed
 > END STRING
 
 > BEGIN STRING
 【敗北】妲己足コキ
 > CONTEXT: Troops/264/name
-[Losing] Daiji footjob#MTLed
+[Losing] Daji footjob#MTLed
 > END STRING
 
 > BEGIN STRING
 【敗北】妲己尻尾
 > CONTEXT: Troops/265/name
-[Losing] Daiji Tail#MTLed
+[Losing] Daji Tail#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -10386,7 +10441,7 @@ Hold still... ♡#Ron
 > BEGIN STRING
 【全書】妲己抱き
 > CONTEXT: Troops/278/name
-【Whole book】 Daiji Hug#MTLed
+【Whole book】 Daji Hug#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -10411,13 +10466,13 @@ You're jealous of your desires#MTLed
 > BEGIN STRING
 【全書】妲己尻尾
 > CONTEXT: Troops/279/name
-【Whole book】 Daiji Tail#MTLed
+【Whole book】 Daji Tail#MTLed
 > END STRING
 
 > BEGIN STRING
 【全書】妲己足コキ
 > CONTEXT: Troops/280/name
-【Whole book】 Daiji footjob#MTLed
+【Whole book】 Daji footjob#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -10457,7 +10512,7 @@ You should leave everything to me ...#MTLed
 > BEGIN STRING
 【全書】妲己アルラウネ
 > CONTEXT: Troops/282/name
-【Whole book】 Daiji Alraune#MTLed
+【Whole book】 Daji Alraune#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -10536,7 +10591,7 @@ Well...Taste it to the end of your heart ......#MTLed
 > BEGIN STRING
 【全書】妲己ビースト
 > CONTEXT: Troops/283/name
-【Whole book】 Daiji Beast#MTLed
+【Whole book】 Daji Beast#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -10556,7 +10611,7 @@ form of a beast? As usual, I love you too much
 あれも、なにかベースのある妲己の変化なの？
 > CONTEXT: Troops/283/pages/0/16/Dialogue/kazuya
 That figure doesn't feel like a fox ...
-That's also the change of Daiji with some base?#MTLed
+That's also the change of Daji with some base?#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -10653,7 +10708,7 @@ Let's squeeze Michiri seed...... ...#MTLed
 > BEGIN STRING
 【全書】妲己ジェル
 > CONTEXT: Troops/284/name
-【Whole book】 Daiji gel#MTLed
+【Whole book】 Daji gel#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -11800,7 +11855,7 @@ Let's feel good and fall together...#RonIffyWording
 > BEGIN STRING
 妲己(夢)
 > CONTEXT: Troops/298/name
-Daiji(Dream)#Triketos
+Daji(Dream)#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -11840,7 +11895,7 @@ above my head, I can hear ragged breathing...#Ron
 > CONTEXT: Troops/298/pages/1/47/Dialogue
 This feeling is familiar...
 
-I'm pretty sure this is\\C[2] Daiji's "Beast" form...#Ron
+I'm pretty sure this is\\C[2] Daji's "Beast" form...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -11864,7 +11919,7 @@ The endless climax time of slumber has arrived!!#Ron
 I'll be your host, the beautiful idol, the super
 lewd courtesan kitsune who knows every human's
 weak points of pleasure, the one and only
-Daiji-chan~!#Ron
+Daji-chan~!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -11903,7 +11958,7 @@ Do you not know who I am?#Ron
 
 キミの前に現れる姿としては、５体目の姿…………
 > CONTEXT: Troops/298/pages/1/86/Dialogue/enemy28
-That's right, I'm \\C[2]Daiji\\C[0].
+That's right, I'm \\C[2]Daji\\C[0].
 Like my "Gel" form, even my personality changes.
 
 This is the fifth figure to appear before you...#DL
@@ -11928,7 +11983,7 @@ Well, it doesn't matter!#Ron
 さすがに夢の中とはいえ、あり得ないって？
 > CONTEXT: Troops/298/pages/1/98/Dialogue/enemy28
 Hmm? What's that, \\N[1]-kun?
-It's strange that there are two "Daiji's"?
+It's strange that there are two "Daji's"?
 
 How is that possible, even though it's a dream?#Ron
 > END STRING
@@ -11963,7 +12018,7 @@ Do you see this red thread, \\n[1]-kun?#Ron
 \\C[0]そういう『理由付け』で、この空間は成り立ってるの。
 > CONTEXT: Troops/298/pages/1/130/Dialogue/enemy28
 These are my \\C[2]"puppeteer strings"...
-I use them to control the other Daiji...
+I use them to control the other Daji...
 
 \\C[0]That's the purpose of this space.#Ron
 > END STRING
@@ -11974,8 +12029,8 @@ I use them to control the other Daiji...
 
 ちゃんと『個』として存在できているのよ
 > CONTEXT: Troops/298/pages/1/135/Dialogue/enemy28
-In other words, the "Daiji" that's explaining
-this to you right now, and the beast "Daiji"
+In other words, the "Daji" that's explaining
+this to you right now, and the beast "Daji"
 that's holding you, both exist as distinct
 individuals.#Ron
 > END STRING
@@ -12096,7 +12151,7 @@ Awooooooooooooooooo! ♡♡#Ron
 \\C[2]意識が夢に引き込まれていく……！
 > CONTEXT: Troops/298/pages/1/258/Dialogue
 > CONTEXT: Troops/298/pages/1/443/Dialogue
-By ejaculating from Daiji,\\C[2] \\N[1]'s consciousness 
+By ejaculating from Daji,\\C[2] \\N[1]'s consciousness 
 is drawn deeper into the dream...!#Triketos
 > END STRING
 
@@ -12127,7 +12182,7 @@ Wooo...#Ron
 Patience, Beast-chan, patience. ♪
 
 \\N[1]-kun won't be able to escape from us
-anyway. We're both "Daiji", after all. ♡#Ron
+anyway. We're both "Daji", after all. ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -12171,7 +12226,7 @@ That's not the only main dish on offer this time!#Ron
 とくとご覧あれーー！！
 > CONTEXT: Troops/298/pages/1/313/Dialogue/enemy28
 Take a good look at the true power of
-Daiji-chan's dream idol form!#RonIffyWording
+Daji-chan's dream idol form!#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -12252,7 +12307,7 @@ They all look familiar, don't they, \\n[1]-kun?#Ron
 今度は４体同時、しかも身動きがとれない夢の中…
 > CONTEXT: Troops/298/pages/1/388/Dialogue/enemy28
 In the real world, it looks like you could beat
-any form of Daiji one-on-one...
+any form of Daji one-on-one...
 But this time, you're facing four at once, and
 are completely unable to move your body...#Ron
 > END STRING
@@ -12330,7 +12385,7 @@ Awooooooo!!! ♡#Ron
 > CONTEXT: Troops/298/pages/1/476/Dialogue/enemy28
 You don't have to hold back, \\N[1]-kun.
 
-In the end, they are all "Daiji", so no matter
+In the end, they are all "Daji", so no matter
 who squeezes you, your soul will be mine. ♡#Ron
 > END STRING
 
@@ -12341,7 +12396,7 @@ who squeezes you, your soul will be mine. ♡#Ron
 > CONTEXT: Troops/298/pages/1/481/Dialogue/enemy28
 "Be true to your desires"...♡
 
-That's Daiji-chan's motto! ♪#Ron
+That's Daji-chan's motto! ♪#Ron
 > END STRING
 
 > BEGIN STRING
