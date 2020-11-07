@@ -98,14 +98,15 @@ Clear corruptionif(v[54] \>= 100)#Ron
 
 好きなだけ可愛がってやろう…♡
 > CONTEXT: Map216/events/5/pages/0/364/Dialogue/enemy17
-Hehehe ...... Good thing...Let's do something
-as cute as you want...♡#MTLed
+Kukuku... That's fine...
+
+I'll pamper you as much as you like... ♡#Ron
 > END STRING
 
 > BEGIN STRING
 "妲己の心蝕が治った！！"
 > CONTEXT: Map216/events/5/pages/0/375/InlineScript/1:12
-"妲己's mind corruption cured!!"#MTLed
+"Daji's corruption cleared!!"#Ron
 > END STRING
 
 > BEGIN STRING
@@ -880,7 +881,7 @@ W-What a terrifying ability...#Ron
 > BEGIN STRING
 【キズナイベント】if(v[54] \>= 99) 
 > CONTEXT: Map216/events/5/pages/1/367/Choice/0
-【Bonding】if(v[54] \>= 99)#MTLed
+[Bonding]if(v[54] \>= 99)#Ron
 > END STRING
 
 > BEGIN STRING
@@ -888,8 +889,10 @@ W-What a terrifying ability...#Ron
 
 妾もいい加減、長居が過ぎたか……
 > CONTEXT: Map216/events/5/pages/1/372/Dialogue/enemy17
-HM………. I wonder if my niece has gone too long, or
-my nagai has passed ...#MTLed
+Hmm...
+
+I wonder if perhaps I've spent too much time
+here...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -897,8 +900,8 @@ my nagai has passed ...#MTLed
 
  ついつい、居心地が良くなってしまったわ……
 > CONTEXT: Map216/events/5/pages/1/376/Dialogue/enemy17
-Because Nushi behaves so often
-can't help, I feel comfortable ...#MTLed
+Your obedience has made this place so comfortable
+for me that I've lost track of the time.#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -906,8 +909,9 @@ can't help, I feel comfortable ...#MTLed
 
 なにやら、言いたそうな眼じゃのう……？
 > CONTEXT: Map216/events/5/pages/1/384/Dialogue/enemy17
-? The eyes are...What do you think is the
-eye that you said ...?#MTLed
+What's with those eyes...?
+
+You look like you have something to say...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -915,9 +919,8 @@ eye that you said ...?#MTLed
 
  もともと、おヌシに深入りする気はない、と。
 > CONTEXT: Map216/events/5/pages/1/388/Dialogue/enemy17
-When you come here, you should say in advance
-Originally, I am not going to go deep into
-Onushi.#MTLed
+When I first came here, I told you I had no
+intention of getting deeply involved with you.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -925,8 +928,10 @@ Onushi.#MTLed
 
 まぁ、悪くない環境ではあったが……
 > CONTEXT: Map216/events/5/pages/1/392/Dialogue/enemy17
-If you go out with this, you won't get much
-money. Well, it was not bad environment ...#MTLed
+There's nothing to be gained from me getting any
+more involved with you than I am now.
+
+Not that I mind this place at all.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -934,7 +939,9 @@ money. Well, it was not bad environment ...#MTLed
 
 おヌシが妾に心残りがあるのか？
 > CONTEXT: Map216/events/5/pages/1/398/Dialogue/enemy17
-Or ......... Does Nushi have a heartfelt remorse?#MTLed
+Hmm...?
+
+Are you reluctant to see me go?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -942,9 +949,10 @@ Or ......... Does Nushi have a heartfelt remorse?#MTLed
 
 あるいは……妾とキズナを結び、魔力が欲しいのか……？
 > CONTEXT: Map216/events/5/pages/1/402/Dialogue/enemy17
-Simply, it is not enough to fall in love with the
-body of a whale...Or ..... Do you want a magic
-that connects Kizuna and Kizuna?#MTLed
+Perhaps my body alone is insufficient for you...
+
+Or maybe you wish to form a bond with me in order
+to strengthen your magic.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -952,8 +960,9 @@ that connects Kizuna and Kizuna?#MTLed
 
 おヌシの身体に、直接聞いてやろう……！！
 > CONTEXT: Map216/events/5/pages/1/407/Dialogue/enemy17
-Good, no need to answer .... Let's listen
-directly to your body! !#MTLed
+That's fine, there's no need to answer...
+
+Let's just ask your body directly!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -961,9 +970,9 @@ directly to your body! !#MTLed
 
 これまでのどの精気よりも、格別な味わいじゃ♡
 > CONTEXT: Map216/events/5/pages/1/431/Dialogue/enemy17
-Hohoho...... delicious...♡
-It has a taste that is exceptional than any
-previous energy#MTLed
+Hohoho... that was delicious... ♡
+
+Your energy has an exceptional flavor... ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -971,8 +980,9 @@ previous energy#MTLed
 
 妾も、さっきの『約束』は守らねばなるまいな。
 > CONTEXT: Map216/events/5/pages/1/440/Dialogue/enemy17
-Now…………. Mio, I will have to keep my previous
-"promise".#MTLed
+Now then...
+
+I shall have to keep that "promise" I just made.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -980,9 +990,8 @@ Now…………. Mio, I will have to keep my previous
 
 妾も、おヌシのこの部屋に留まってやろう。
 > CONTEXT: Map216/events/5/pages/1/444/Dialogue/enemy17
-As long as Nushi does not forget the "pure
-desire"...I will stay with you in this room of
-Nushi.#MTLed
+As long as you don't forget that "pure lust", I
+will remain in this room of yours.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -991,9 +1000,8 @@ Nushi.#MTLed
 
 さっきのような姿をな………♡
 > CONTEXT: Map216/events/5/pages/1/448/Dialogue/enemy17
-Hehehe ......... I look forward to it from now
-on, \\N[1]. It looks like it was a while ago ...
-... ♡#MTLed
+Kukuku... I look forward to seeing that look on
+your face again, \\N[1]. ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1001,8 +1009,10 @@ on, \\N[1]. It looks like it was a while ago ...
 
 友好度が『１００』になった！！
 > CONTEXT: Map216/events/5/pages/1/460/Dialogue
-"Kizuna" with Daji was born!!The degree of friendship
-has reached "100"! !#MTLed
+A bond with Daji was born!!
+
+The level of friendship with her
+has reached 100!#Triketos
 > END STRING
 
 > BEGIN STRING
