@@ -4,9 +4,9 @@
 
 苦しゅうない、近う寄れ
 > CONTEXT: Map216/events/5/pages/0/21/Dialogue/enemy17
-You came...\\N[1].
+You came... \\N[1].
 
-It's no problem, come over here.#Triketos
+You may approach.#Triketos/Ron
 > END STRING
 
 > BEGIN STRING
@@ -26,43 +26,43 @@ Chaten(v[54] \>= 25)#MTLed
 > BEGIN STRING
 搾精（抱き）en(v[54] \>= 25) 
 > CONTEXT: Map216/events/5/pages/0/35/Choice/1
-milking (Hug)en(v[54] \>= 25)#MTLed
+Milking (Hug)en(v[54] \>= 25)#Ron
 > END STRING
 
 > BEGIN STRING
 搾精（尻尾包み）en(v[54] \>= 50) 
 > CONTEXT: Map216/events/5/pages/0/35/Choice/2
-milking (tail wrap)en(v[54] \>= 50)#MTLed
+Milking (Tail Wrap)en(v[54] \>= 50)#Ron
 > END STRING
 
 > BEGIN STRING
 搾精（足コキ）en(v[54] \>= 70) 
 > CONTEXT: Map216/events/5/pages/0/35/Choice/3
-milking (footjob)en(v[54] \>= 70)#MTLed
+Milking (Footjob)en(v[54] \>= 70)#Ron
 > END STRING
 
 > BEGIN STRING
 【妲己】種族：妖魔
 > CONTEXT: Map216/events/5/pages/0/37/ChoiceHelp
-[Daji] Tribe: monster#MTLed
+[Daji] Tribe: Apparition#Ron
 > END STRING
 
 > BEGIN STRING
 搾精（アルラウネ）en(v[54] \>= 80)
 > CONTEXT: Map216/events/5/pages/0/145/Choice/0
-milking (Alraune)en(v[54] \>= 80)#MTLed
+Milking (Alraune)en(v[54] \>= 80)#Ron
 > END STRING
 
 > BEGIN STRING
 搾精（ビースト）en(v[54] \>= 80) 
 > CONTEXT: Map216/events/5/pages/0/145/Choice/1
-milking (Beast)en(v[54] \>= 80)#MTLed
+Milking (Beast)en(v[54] \>= 80)#Ron
 > END STRING
 
 > BEGIN STRING
 搾精（ジェル）en(v[54] \>= 80) 
 > CONTEXT: Map216/events/5/pages/0/145/Choice/2
-milking (gel)en(v[54] \>= 80)#MTLed
+Milking (Gel)en(v[54] \>= 80)#Ron
 > END STRING
 
 > BEGIN STRING
@@ -71,8 +71,10 @@ milking (gel)en(v[54] \>= 80)#MTLed
 妾にそのようなゴミを受け取れというのか？
 身の程をわきまえるがいい、下郎！
 > CONTEXT: Map216/events/5/pages/0/336/Dialogue/enemy17
-Hmm! Is it that such a garbage can be received by
-the wolf? I would like to know my body, Shiro!#MTLed
+Hmph! Do you really expect me to accept such
+garbage?
+
+Know your place, underling!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -80,14 +82,15 @@ the wolf? I would like to know my body, Shiro!#MTLed
 
 出直してこい
 > CONTEXT: Map216/events/5/pages/0/341/Dialogue/enemy17
-A whale is a tribute of that degree, not cheap
-enough to move your mind. Come out again#MTLed
+I won't be moved by such pathetic tribute.
+
+Now go and get me something better.#Ron
 > END STRING
 
 > BEGIN STRING
 心蝕を消すif(v[54] \>= 100) 
 > CONTEXT: Map216/events/5/pages/0/353/Choice/0
-clear the mind corruptionif(v[54] \>= 100)#MTLed
+Clear corruptionif(v[54] \>= 100)#Ron
 > END STRING
 
 > BEGIN STRING
@@ -95,14 +98,15 @@ clear the mind corruptionif(v[54] \>= 100)#MTLed
 
 好きなだけ可愛がってやろう…♡
 > CONTEXT: Map216/events/5/pages/0/364/Dialogue/enemy17
-Hehehe ...... Good thing...Let's do something
-as cute as you want...♡#MTLed
+Kukuku... That's fine...
+
+I'll pamper you as much as you like... ♡#Ron
 > END STRING
 
 > BEGIN STRING
 "妲己の心蝕が治った！！"
 > CONTEXT: Map216/events/5/pages/0/375/InlineScript/1:12
-"妲己's mind corruption cured!!"#MTLed
+"Daji's corruption cleared!!"#Ron
 > END STRING
 
 > BEGIN STRING
@@ -110,25 +114,27 @@ as cute as you want...♡#MTLed
 
 良かろう、なんでも聞くがいい。
 > CONTEXT: Map216/events/5/pages/1/1/Dialogue/enemy17
-I'm talking ...? Good, listen to anything.#MTLed
+Hohoho... you wish to talk?
+
+I'll allow it, ask whatever you wish...#Ron
 > END STRING
 
 > BEGIN STRING
 『変化の術』についてen(v[54] \>= 30) 
 > CONTEXT: Map216/events/5/pages/1/7/Choice/0
-About "The Art of Change"en(v[54] \>= 30)#MTLed
+Her transformation abilityen(v[54] \>= 30)#Ron
 > END STRING
 
 > BEGIN STRING
 『時止めの能力』en(v[54] \>= 40) 
 > CONTEXT: Map216/events/5/pages/1/7/Choice/1
-"The ability of time keeping"en(v[54] \>= 40)#MTLed
+Her Time Stop abilityen(v[54] \>= 40)#Ron
 > END STRING
 
 > BEGIN STRING
 妲己の罠en(v[54] \>= 60) 
 > CONTEXT: Map216/events/5/pages/1/7/Choice/2
-Daji's nieceen(v[54] \>= 60)#MTLed
+Her trapen(v[54] \>= 60)#Ron
 > END STRING
 
 > BEGIN STRING
@@ -136,8 +142,10 @@ Daji's nieceen(v[54] \>= 60)#MTLed
 
 妾が変幻自在の『変化の術』に興味があるのか？
 > CONTEXT: Map216/events/5/pages/1/13/Dialogue/enemy17
-Hohoho ......... Are you interested in the “magic
-of change” in which the wolf is weird?#MTLed
+Hohoho...
+
+Are you interested in my ability to shapechange
+at will?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -145,9 +153,10 @@ of change” in which the wolf is weird?#MTLed
 
 物珍しいのも分かる気がするのう
 > CONTEXT: Map216/events/5/pages/1/17/Dialogue/enemy17
-Well, the ones of salmon are different from those
-of lower-ranked ones. I feel like I know
-something unusual#MTLed
+My ability is quite different to the ones you'll
+find in lower-ranked Kitsune.
+
+I get the feeling you understand this well.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -156,9 +165,10 @@ something unusual#MTLed
 見た目だけじゃなく、攻撃方法や特徴まで変わって
 最後なんか声質も口調も全然違ってたし……
 > CONTEXT: Map216/events/5/pages/1/21/Dialogue/kazuya
-Yup………. Not only looks but also Attack methods
-and features. The last voice quality and tone
-were completely different ...#MTLed
+Yeah... It's not just your appearance, but even
+your attack style and characteristics change too.
+At the end there, your voice and tone was
+completely different as well...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -166,8 +176,9 @@ were completely different ...#MTLed
 
 ユウマは、全然分からなかったし……
 > CONTEXT: Map216/events/5/pages/1/27/Dialogue/kazuya
-...................... Yuuma did not understand
-at all ...#MTLed
+...
+
+I thought you were Yuuma that whole time...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -175,8 +186,9 @@ at all ...#MTLed
 
 なるほど、そう言うことか………
 > CONTEXT: Map216/events/5/pages/1/34/Dialogue/enemy17
-Hehehe ............ I see, you say that......
-...#MTLed
+Kukuku...
+
+I see, so that's what you were getting at...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -185,10 +197,10 @@ Hehehe ............ I see, you say that......
 
 妾が化けていたものだったというのが……
 > CONTEXT: Map216/events/5/pages/1/38/Dialogue/enemy17
-Did you regret ...? I think that it is an old
-best friend and talks, and the other party who
-has been confusing. It is said that it was
-something that the bribe was ......#MTLed
+It must've been mortifying...
+The old friend you'd been talking to, the one
+you'd opened your heart to, was none other than
+me taking his form...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -197,10 +209,10 @@ something that the bribe was ......#MTLed
 
 いくら親友と言えど、見破ることなど絶対に出来ぬ。
 > CONTEXT: Map216/events/5/pages/1/43/Dialogue/enemy17
-But, would you say that also? The change of habit
-imitates even thought and memory.
-I can not say how close my friend is, but I can
-never see it.#MTLed
+But remember what I told you back then. My
+transformations copy thoughts and memories as
+well. No matter how close you two might be, it's
+not possible to see through the ruse.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -208,8 +220,10 @@ never see it.#MTLed
 
 ゆえにお前に投げ掛けた言葉には、嘘偽りはなかった。
 > CONTEXT: Map216/events/5/pages/1/48/Dialogue/enemy17
-Yume is "Yuuma" itself...Therefore there was no
-lie in the words that were thrown to you.#MTLed
+I had become "Yuuma" through and through...
+
+Therefore, there was no falsehood in the words
+you heard.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -218,8 +232,9 @@ lie in the words that were thrown to you.#MTLed
  ユウマは……
 本物のユウマはどうしていたんだ……？
 > CONTEXT: Map216/events/5/pages/1/53/Dialogue/kazuya
-...... When you replaced Yuuma
-Yuuma is...What was the real Yuuma ...?#MTLed
+...After you took his place...
+
+What happened to the real Yuuma...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -228,9 +243,10 @@ Yuuma is...What was the real Yuuma ...?#MTLed
 すぐにでも喰ろうてやろうと思ってはおったが
 貴様と合わせて喰うために取っておいたのよ。
 > CONTEXT: Map216/events/5/pages/1/58/Dialogue/enemy17
-I was kept calm in the cage. I thought I would
-try to get back soon. I've saved it for you along
-with you.#MTLed
+He was being kept obedient inside me. I had
+initially thought to eat him right away, but
+decided to hold on to him to help me meet and
+eat you as well.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -239,9 +255,10 @@ with you.#MTLed
 
 早くに喰らっておくべきじゃったな……
 > CONTEXT: Map216/events/5/pages/1/63/Dialogue/enemy17
-Hmm! But...The result is that it has come back
-to the eye...I should have been beaten early
-...#MTLed
+Hmph! However...
+
+That plan backfired on me, I really should have
+eaten him immediately...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -249,9 +266,10 @@ to the eye...I should have been beaten early
 
  まさか手の内を全て見せぬための作戦だったとは……
 > CONTEXT: Map216/events/5/pages/1/68/Dialogue/enemy17
-Ayatatsu...... If I think that I just give in
-It was a strategy to show off everything in the
-hand.#MTLed
+That bastard...
+
+He was only feigning submission so he could see
+the extent of my powers.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -259,8 +277,9 @@ hand.#MTLed
 
  『変化の術』の話に戻るぞ。
 > CONTEXT: Map216/events/5/pages/1/73/Dialogue/enemy17
-............ I got a little talk.
-Let's get back to the story of The Art of Change.#MTLed
+But I digress...
+
+Let's get back to the topic at hand.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -268,10 +287,10 @@ Let's get back to the story of The Art of Change.#MTLed
 
 ユウマのように、普通の外観の人間に化けることが多い。
 > CONTEXT: Map216/events/5/pages/1/77/Dialogue/enemy17
-The technique of change of acupuncture is
-originally intended to be incorporated into the
-human realm. Like Yuuma, it often turns into a
-human with a normal appearance.#MTLed
+This shapeshifting power of mine was originally
+used to help me slip into the human realm. Just
+as I did with Yuuma, I took the appearance of a
+normal human many times.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -280,10 +299,9 @@ human with a normal appearance.#MTLed
 
  本来は、悪魔に化けるために使う術ではない…
 > CONTEXT: Map216/events/5/pages/1/81/Dialogue/enemy17
-All forms when fighting with Nushi
-It's a special version with a strong demon color
-for your nushi. It is not originally a technique
-used to turn into a demon ...#MTLed
+This power was never meant to be used to turn
+into other demons, but I did that specifically
+for you when we had our battle.#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -292,11 +310,10 @@ used to turn into a demon ...#MTLed
 
  時には性別すらも男であった時もあったのう……
 > CONTEXT: Map216/events/5/pages/1/86/Dialogue/enemy17
-Acupuncture using this technique until now
-It has been transformed into various human beings
-and has lived in the human realm.
-Sometimes there were times when even gender was a
-man ...#MTLed
+Up till now I've taken the form of all sorts of
+humans and lived in the human realm.
+
+There have even been times I've lived as a man.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -304,9 +321,9 @@ man ...#MTLed
 
 『妲己』と呼ばれていた時期…ということじゃ
 > CONTEXT: Map216/events/5/pages/1/91/Dialogue/enemy17
-Among them, it is still young, the most prominent
-and active. The time when it was called "Deiji"
-...#MTLed
+The most prominent life I lived was when I was
+still young, when I took the form of a young
+woman known as "Daji".#Ron
 > END STRING
 
 > BEGIN STRING
@@ -315,9 +332,10 @@ and active. The time when it was called "Deiji"
 
  長い年月を経て、アレンジを加え少しづつ変化しておる。
 > CONTEXT: Map216/events/5/pages/1/95/Dialogue/enemy17
-Therefore, this figure too. It does not mean that
-it was called "Daji". After many years, I added
-prepare and changed little by little.#MTLed
+The form before you is not the same as the form
+I took that was called Daji. I spent a lot of
+time making small adjustments here and there to
+this current one.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -325,15 +343,14 @@ prepare and changed little by little.#MTLed
 
 それがこの術の唯一の『弱点』なわけじゃが……
 > CONTEXT: Map216/events/5/pages/1/101/Dialogue/enemy17
-............ Well, in a sense ......
-That is the only "weak point" of this technique
-...#MTLed
+In a way, that's the ability's one and only
+weakness...#Ron
 > END STRING
 
 > BEGIN STRING
 『弱点』………？
 > CONTEXT: Map216/events/5/pages/1/106/Dialogue/kazuya
-"Weak point"......?#MTLed
+Weakness...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -341,9 +358,8 @@ That is the only "weak point" of this technique
 
  すなわち、『自分の個の曖昧さ』へと繋がる。
 > CONTEXT: Map216/events/5/pages/1/108/Dialogue/enemy17
-Even imitating the other person's thoughts and
-following the emotions. That is, it leads to "the
-ambiguity of one's own".#MTLed
+Imitating the thoughts and feelings of someone
+leads to the fragmentation of your own self.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -352,11 +368,10 @@ ambiguity of one's own".#MTLed
 
  変化した者の『個』に飲み込まれかねないからな。
 > CONTEXT: Map216/events/5/pages/1/112/Dialogue/enemy17
-That's why compared to the art of change used by
-ordinary demons. The concentration used during
-surgery is more than doubled. 
-It may be swallowed by the "individual" of the
-changed person.#MTLed
+That's why it requires more than double the
+concentration to maintain compared to the
+transformation abilities of normal demons.
+Otherwise your sense of self can end up subsumed.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -364,9 +379,8 @@ changed person.#MTLed
 
 『食事』の都度、この姿に戻るのじゃ
 > CONTEXT: Map216/events/5/pages/1/117/Dialogue/enemy17
-Therefore, as a matter of fact, usually this
-figure is taken as the "individual" of
-You will return to this form every time you eat.#MTLed
+Therefore, I return to this "normal" form
+whenever I eat.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -374,9 +388,9 @@ You will return to this form every time you eat.#MTLed
 
 この姿……少し『盛りすぎ』たかのぅ……？
 > CONTEXT: Map216/events/5/pages/1/123/Dialogue/enemy17
-Well, I think in particular these days ...
-This figure ...... A little 'too much' Takano
-wolf ...?#MTLed
+But, I've been thinking lately...
+
+I might have overdone it a little with this form.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -384,9 +398,10 @@ wolf ...?#MTLed
 
 自分では気付かぬものなのだよ。
 > CONTEXT: Map216/events/5/pages/1/127/Dialogue/enemy17
-I have no sense of discomfort because I was
-little by little in the long years ...
-It is something you do not notice.#MTLed
+The changes were made slowly over a long time, so
+it felt normal to me.
+
+But it's not something I've noticed myself.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -395,8 +410,10 @@ It is something you do not notice.#MTLed
 大分いろんな部分が、人間基準からしたら
  ぶっとんでるサイズだと思う…………
 > CONTEXT: Map216/events/5/pages/1/132/Dialogue/kazuya
-Yup………. If Oita various parts are based on human
-standard. I think the size is stupid .........#MTLed
+Yeah...
+
+You have a number of very "prominent" assets if
+you go by normal human proportions...#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -404,8 +421,9 @@ standard. I think the size is stupid .........#MTLed
 
 あれは、躯が使っていたものと同じなの？
 > CONTEXT: Map216/events/5/pages/1/144/Dialogue/kazuya
-Daji used Attack like stopping time but ...
-Is that the same as Mukuro used?#MTLed
+You used some kind of time stop attack earlier,
+is that the same kind of ability that Mukuro
+uses?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -413,8 +431,8 @@ Is that the same as Mukuro used?#MTLed
 
 『双子』に与えられていた能力だったけど……
 > CONTEXT: Map216/events/5/pages/1/148/Dialogue/kazuya
-Certainly...Mukuro's "time stop" ability is
-It was the ability given to 'twins' but ...#MTLed
+Though if I remember correctly, Mukuro got her
+ability from the Twins...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -423,9 +441,9 @@ It was the ability given to 'twins' but ...#MTLed
 そんな大技、妖術の範疇に無いわ！
  妾の使っていたのは、単なる『麻痺』魔法じゃ。
 > CONTEXT: Map216/events/5/pages/1/152/Dialogue/enemy17
-Hmm! Such a great skill, it is not in the
-category of magic! What the samurai used was mere
-"paralysis" magic.#MTLed
+Hmmph! That kind of powerful technique isn't what
+you'd call sorcery. What I used was simply a kind
+of paralysis magic.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -433,8 +451,9 @@ category of magic! What the samurai used was mere
 
 で、でもそんな感じじゃなかったような……
 > CONTEXT: Map216/events/5/pages/1/158/Dialogue/kazuya
-Oh, "paralysis"......! ? Well, but I did not
-feel like that ...#MTLed
+P-Paralysis...?!
+
+B-But it didn't feel like I'd been paralyzed...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -443,9 +462,10 @@ feel like that ...#MTLed
 
  実際に時間を止めるわけではない。。
 > CONTEXT: Map216/events/5/pages/1/162/Dialogue/enemy17
-Paralysis magic of the eyebrows, sense no longer
-feels instantly. It just feels like "time has
-stopped". It doesn't really stop time. .#MTLed
+My paralysis magic deprives you of your senses
+for a moment, making it feel as though time has
+stopped. Though in reality, the flow of time has
+not changed.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -454,10 +474,10 @@ stopped". It doesn't really stop time. .#MTLed
 そもそも『時間停止』なぞ、規模が尋常ではない。
 その世界の全ての次元が範囲じゃぞ？
 > CONTEXT: Map216/events/5/pages/1/168/Dialogue/enemy17
-Rather...that twins was out of spec.
-In the first place, the scale is not unusual as
-it is "time stop". All the dimensions of the
-world are in range?#MTLed
+But the Twins are quite extraordinary.
+Stopping time is a rather rare ability, as
+it would have to cover the entire world,
+including all extra dimensional spaces.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -465,9 +485,9 @@ world are in range?#MTLed
 
 だからこそ、あんな芸当ができるのであろう。
 > CONTEXT: Map216/events/5/pages/1/173/Dialogue/enemy17
-You can freely travel around the same world time
-space...demon ...... That's why you can do that
-kind of trick.#MTLed
+They're a demon that can freely move around
+a world's spacetime at will... That's probably
+why they have that kind of amazing ability.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -475,9 +495,9 @@ kind of trick.#MTLed
 
 なんか、他とは違うみたいな印象はあったけど……
 > CONTEXT: Map216/events/5/pages/1/178/Dialogue/kazuya
-About Daji but it's non-standard...that twins
-... There was an impression that something was
-different from others ...#MTLed
+To think the Twins would have abilities beyond
+even you. I did have the impression they were
+quite different from other demons, though...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -486,10 +506,10 @@ different from others ...#MTLed
 
 その『専門』の悪魔でもない限りな。
 > CONTEXT: Map216/events/5/pages/1/182/Dialogue/enemy17
-No matter what high-order demon power
-It is impossible to realize "time stop" with
-sorcery. As long as it is not the "professional"
-demon.#MTLed
+No matter how powerful the demon, being able to
+stop time through magic is not possible. Not
+unless you're a demon that specializes in that
+kind of ability.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -498,15 +518,15 @@ demon.#MTLed
  そんな能力、そういう企画ものの
 『あだるとびでお』でしか見たことがないわ……
 > CONTEXT: Map216/events/5/pages/1/187/Dialogue/enemy17
-In the first place, even the wolf that has lived
-for many years. Such ability, such a plan thing
-I've only seen it in "Attarubi de Ode" ...#MTLed
+Even for one who's lived as long as I have, I've
+only seen that kind of ability demonstrated on
+those "adults-only video" things...#Ron
 > END STRING
 
 > BEGIN STRING
 あ、あだるとびでお…？
 > CONTEXT: Map216/events/5/pages/1/193/Dialogue/kazuya
-Oh, I'm talking about ...?#MTLed
+A-Adults-only videos...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -515,9 +535,9 @@ Oh, I'm talking about ...?#MTLed
 この姿で、このしゃべり方だからといって
 妾が現代の世間に疎いなどと思うのは、大間違いじゃぞ？
 > CONTEXT: Map216/events/5/pages/1/196/Dialogue/enemy17
-? Just because this is how you talk
-It's a big mistake for you to think that Sakai is
-alien to the modern world, isn't it?#MTLed
+What? You're sorely mistaken if you think that
+just because of my long life I'm ignorant of the
+ways of this modern world.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -526,10 +546,9 @@ alien to the modern world, isn't it?#MTLed
 妖術で相手をたぶらかしたり、恋に落ち伴侶になるなど
 人と密接に関係を築いてきた。
 > CONTEXT: Map216/events/5/pages/1/201/Dialogue/enemy17
-Since ancient times, there is a race called "Inu"
-Behold your partner with a witchcraft, fall in
-love with you, etc. I have built a close
-relationship with people.#MTLed
+Since ancient times, the Kitsune race has used
+magic to form close bonds with humans by seducing
+them and turning them into loving companions.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -538,10 +557,10 @@ relationship with people.#MTLed
  人間界で直接……はたまた魔界で間接的に
 今も人間の『世間』に触れ、過ごしておるのだ。
 > CONTEXT: Map216/events/5/pages/1/206/Dialogue/enemy17
-This is not limited to the wolf.
-Directly with the human realm...also indirectly
-with the Demon Realm. I am still touching and
-touching the human "world."#MTLed
+Interacting with the human world, whether
+directly in the human realm spending time there,
+or indirectly via the Demon Realm, is not
+something restricted to just me alone.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -550,11 +569,9 @@ touching the human "world."#MTLed
 
 悪巧みをする輩は、滅多に出なくなったが……
 > CONTEXT: Map216/events/5/pages/1/211/Dialogue/enemy17
-Well, there are a lot of great monsters who
-started to use firewood in the past
-Is it the effect that has been completely
-defeated? Although the person who does the
-cheating doesn't come out rarely, but ...#MTLed
+Though perhaps as a result of all the great
+Kitsune including me being defeated, you don't see
+many of my kind scheming in the world anymore...#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -563,9 +580,10 @@ cheating doesn't come out rarely, but ...#MTLed
 
  妾たちは、今でもお前たちの近くに居るのだ……
 > CONTEXT: Map216/events/5/pages/1/216/Dialogue/enemy17
-It is old-fashioned or 'old-fashioned' that "the
-wolf makes people". You don't think too much,
-right? The forts are still near you ...#MTLed
+But I don't want you to think that Kitsune
+bewitching humans is something that doesn't
+happen anymore. Even today, there are still those
+of us among you...#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -573,8 +591,9 @@ right? The forts are still near you ...#MTLed
 
 　しかもそんなニッチな感じのやつ……）
 > CONTEXT: Map216/events/5/pages/1/225/Dialogue/kazuya
-(Adult video, I see ...). And that kind of niche
-guy ...)#MTLed
+(So she's watched adult videos...
+
+ And really niche ones at that...)#Ron
 > END STRING
 
 > BEGIN STRING
@@ -582,8 +601,9 @@ guy ...)#MTLed
 
 　なんか別の琴線に触れちゃったみたいだな……）
 > CONTEXT: Map216/events/5/pages/1/229/Dialogue/kazuya
-(I wanted to say...It looks like I've touched
-something else ...)#MTLed
+(I was going to bring that up, but it looks like
+ she's talking about something really important
+ to her...)#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -591,9 +611,10 @@ something else ...)#MTLed
 
 　何度も言うと、なんか怒られそうだし……）
 > CONTEXT: Map216/events/5/pages/1/233/Dialogue/kazuya
-(Oh, let's keep silent about this matter
-......... If I say it over and over, I'm going to
-get angry ...)#MTLed
+(I'll just keep it to myself...
+ 
+ It looks like she'll get angry if I say
+ anything...)#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -602,9 +623,9 @@ get angry ...)#MTLed
 
 何故、しっかり列車の発車準備をしてくれたの？
 > CONTEXT: Map216/events/5/pages/1/244/Dialogue/kazuya
-In the action of Daji. There is a part that does
-not fall a little. Why did you prepare for the
-departure of the train?#MTLed
+There's something that's been bugging me about
+what you did back at the station. Why did you
+bother getting the train ready for departure?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -613,9 +634,10 @@ departure of the train?#MTLed
 始末する気なら、列車を動かさないようにしたほうが
  よかったんじゃない？
 > CONTEXT: Map216/events/5/pages/1/249/Dialogue/kazuya
-I have no idea if I come to the harbor
-If you are willing to get rid of it, you should
-not move the train. It's not good, isn't it?#MTLed
+I understand getting me to the harbor, but if you
+were planning on getting rid of me, wouldn't it
+have been better to ensure the train couldn't
+leave?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -623,8 +645,10 @@ not move the train. It's not good, isn't it?#MTLed
 
 それではおヌシがフェアではないではないか
 > CONTEXT: Map216/events/5/pages/1/255/Dialogue/enemy17
-Hmm! I'm sorry if I get confused .........
-Then isn't it not fair?#MTLed
+Hmmph! I'd rather you didn't look down on me so.
+
+Doing that wouldn't have made things very fair on
+you.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -633,10 +657,10 @@ Then isn't it not fair?#MTLed
 万が一逃げ延びた場合、脱出できなければ
  おヌシの足掻く意味がなかろう。
 > CONTEXT: Map216/events/5/pages/1/259/Dialogue/enemy17
-Naturally, I was not going to miss Nushishi
-smoothly but. If it can not escape if it extends
-by any chance. There is no point in scratching
-your feet.#MTLed
+Naturally, I had absolutely no intention of
+letting you escape. But on the off chance you
+managed to get away, removing your only means of
+escape would've made your struggle pointless.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -645,9 +669,9 @@ your feet.#MTLed
 その『滅多なこと』が起きた後のことで
 別の要因で死んでほしくはないからのぅ……
 > CONTEXT: Map216/events/5/pages/1/264/Dialogue/enemy17
-It is not unusual for whales to lose their prey.
-After that "rare thing" happened
-I do not want you to die from another factor ...#MTLed
+It's very rare for my prey to escape from me. So
+rare that it would be quite a shame for them to
+go off and die to some other factor.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -656,8 +680,8 @@ I do not want you to die from another factor ...#MTLed
 『自分が喰う』以外のことで
 惨めに死んでほしくなかったってこと……？
 > CONTEXT: Map216/events/5/pages/1/270/Dialogue/kazuya
-That is...For anything other than 'I will come
-true'. Didn't you want me to die miserably ...?#MTLed
+So in other words... you don't want them to die
+a pathetic death unless it's by your own hands?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -665,8 +689,10 @@ true'. Didn't you want me to die miserably ...?#MTLed
 
 もっと怖い悪魔だと思ってたけど………
 > CONTEXT: Map216/events/5/pages/1/275/Dialogue/kazuya
-What do you mean...... it's the law ...
-I thought it was a more scary demon...but ...#MTLed
+That's kind of... weirdly honorable...
+
+I thought you were a far more terrifying demon
+than that...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -675,9 +701,8 @@ I thought it was a more scary demon...but ...#MTLed
 我ら妖狐は人間を『騙し』『たぶらかす』のは好きだが
 決して『卑怯者』ではない。
 > CONTEXT: Map216/events/5/pages/1/280/Dialogue/enemy17
-Do not misunderstand. We, the youku, like human
-beings "Science" and "Trailing"
-I'm not a "deaf guy" by any means.#MTLed
+Do not misunderstand, we Kitsune enjoy tricking
+and seducing humans, but we're no cowards.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -685,9 +710,8 @@ I'm not a "deaf guy" by any means.#MTLed
 
 仕方なく、素直に正体を現したからのぅ
 > CONTEXT: Map216/events/5/pages/1/285/Dialogue/enemy17
-So, with the promise of the "promise" with Nushi
-It is a habit of showing the true identity
-unquestionably and honestly#MTLed
+That's why I revealed myself when you tried to
+make that promise with me.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -696,10 +720,10 @@ unquestionably and honestly#MTLed
  明らかに足元だったね……
 不意は突いてたけど、アレは当てる気がないって言うか…
 > CONTEXT: Map216/events/5/pages/1/290/Dialogue/kazuya
-If you try to say, bullets shot to reveal your
-true identity, Apparently it was my foot ......
-I had a surprise but did not say that I didn't
-want to touch it ...#MTLed
+Now that you mention it, the bullet I fired when
+you revealed yourself was aimed at your feet.
+It happened so fast, but I didn't actually intend
+it to hit you...#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -708,11 +732,10 @@ want to touch it ...#MTLed
  あくまで、妾は『ユウマ』として最後までふるまい
  おヌシは車両制御室で果てる、という筋書きじゃった。
 > CONTEXT: Map216/events/5/pages/1/295/Dialogue/enemy17
-In the first place, the wolf did not plan to
-reveal the identity to Nushi. 
-To the end, the wolf behaves to the end as
-"Yuuma". It was a scenario that Nushi could be
-done in the vehicle control room.#MTLed
+I never planned on revealing myself to you. I was
+going to remain as Yuuma until the very end and
+have meet your demise in the vehicle control
+room.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -721,9 +744,10 @@ done in the vehicle control room.#MTLed
 
  ユウマは本当に、あらゆる意味で喰えぬ人間じゃ
 > CONTEXT: Map216/events/5/pages/1/300/Dialogue/enemy17
-Potatoes...If it had been crafted by my
-familiarity. Yuuma is really a man who can not
-afford in all senses#MTLed
+However... to think my own familiar was scheming
+against me.
+
+And Yuuma's quite the wily one, too...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -732,9 +756,9 @@ afford in all senses#MTLed
 
  罠だったことは分かってるけど……
 > CONTEXT: Map216/events/5/pages/1/307/Dialogue/kazuya
-by the way………. What happened to the vehicle
-control room after all? I know that I was
-jealousy ...#MTLed
+That reminds me, what was with that vehicle
+control room? All I really know was that it was
+some kind of trap...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -742,8 +766,9 @@ jealousy ...#MTLed
 
  隠す理由など、今更ないからのぅ。
 > CONTEXT: Map216/events/5/pages/1/312/Dialogue/enemy17
-Hmmm. I will tell you. I don't know why I'm
-hiding.#MTLed
+Hmm, very well, I'll tell you.
+
+There's no use in hiding it now, after all.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -752,10 +777,10 @@ hiding.#MTLed
 なかなか特殊な特徴を持つものだから
  こんな機会でなければ、滅多に出さぬやつじゃ。
 > CONTEXT: Map216/events/5/pages/1/316/Dialogue/enemy17
-In a simple story, there was a certain 'That's a
-familiar character' there. Because it has
-something quite special. If it is not such an
-opportunity, it's a rare guy.#MTLed
+To put it simply, there were certain familiars of
+mine in there. I rarely bring them out, but since
+you're quite unique, it was a good opportunity
+for them to shine.#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -763,9 +788,10 @@ opportunity, it's a rare guy.#MTLed
 
  みじめに自滅しながら搾精されるはずだったのよ。
 > CONTEXT: Map216/events/5/pages/1/321/Dialogue/enemy17
-Nushi projected his "Desire of defeat" in that
-room. It was supposed to be milking while being
-miserably killed.#MTLed
+Within that room, your desires to be defeated
+would have been projected. You would have
+been squeezed by your own, pathetic self
+destructive impulses...#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -773,7 +799,8 @@ miserably killed.#MTLed
 
 『投影』するって…？
 > CONTEXT: Map216/events/5/pages/1/326/Dialogue/kazuya
-Is...“Desire hope” ...? Do you "project" ...?#MTLed
+W-What do you mean projecting my desire to be
+defeated...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -782,9 +809,11 @@ Is...“Desire hope” ...? Do you "project" ...?#MTLed
 
 まさしくそれじゃ
 > CONTEXT: Map216/events/5/pages/1/330/Dialogue/enemy17
-On the scene where you can not lose,
-Have you ever imagined what you lost, with
-unexpected expectations? That's right#MTLed
+In your desperate struggles for survival, haven't
+you ever wondered what would be done to you if
+you lost? Maybe even with a hint of lustful
+expectation?
+That's what would have been projected.#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -793,9 +822,9 @@ unexpected expectations? That's right#MTLed
  あの部屋で形あるものに投影され、実体を持ち
  おヌシの『願望』を叶えてくれる
 > CONTEXT: Map216/events/5/pages/1/335/Dialogue/enemy17
-It does not matter from direct to unconscious
-Projected to something in that room
-Gives you the desire of Nushi#MTLed
+Whether direct or unconscious, those projections
+given form would have materialized and fulfilled
+your desires.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -804,9 +833,10 @@ Gives you the desire of Nushi#MTLed
 逃れても逃れても、その都度、別の願望を投影し
  いずれは心が折れるまで無限に続く……
 > CONTEXT: Map216/events/5/pages/1/340/Dialogue/enemy17
-Once projection has started, it is the end ...
-Every time you escape, you project another desire
-It will last forever until the heart breaks ...#MTLed
+After the projections had begun, no matter how
+many of them you eluded, another desire would be
+projected again and again until eventually, your
+will would have broken.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -815,10 +845,10 @@ It will last forever until the heart breaks ...#MTLed
 
 あの部屋でぐらいしか使えぬシロモノなのじゃ
 > CONTEXT: Map216/events/5/pages/1/345/Dialogue/enemy17
-However, this familiar can only act in the dark
-Limited ability that nothing in the fighting
-ability itself ......... It's a white thing that
-can only be used in that room#MTLed
+However, these familiars can only become active
+in the dark, and possess absolutely no combat
+ability. They're mighty tools that cannot operate
+outside of places like that room.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -827,9 +857,10 @@ can only be used in that room#MTLed
 おヌシはどんなものが投影されるのか
 楽しみにしておったのじゃが……
 > CONTEXT: Map216/events/5/pages/1/351/Dialogue/enemy17
-I'm sorry I'm sorry...... ♡. 
-What kind of thing is projected?
-I was looking forward to it ...#MTLed
+What a shame... ♡
+
+I was looking forward to seeing what kinds of
+things you would project...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -837,21 +868,21 @@ I was looking forward to it ...#MTLed
 
 泣き叫びながら快楽に堕ちていったのであろうな…！
 > CONTEXT: Map216/events/5/pages/1/356/Dialogue/enemy17
-I'm sure I will desperately "struggle" until the
-end. It might have fallen into pleasure while
-crying ...!#MTLed
+I'm sure you would've struggled until the very
+end before succumbing to the pleasure while
+crying your eyes out!#Ron
 > END STRING
 
 > BEGIN STRING
 お、おそろしい能力………
 > CONTEXT: Map216/events/5/pages/1/361/Dialogue/kazuya
-Oh, amazing ability .........#MTLed
+W-What a terrifying ability...#Ron
 > END STRING
 
 > BEGIN STRING
 【キズナイベント】if(v[54] \>= 99) 
 > CONTEXT: Map216/events/5/pages/1/367/Choice/0
-【Bonding】if(v[54] \>= 99)#MTLed
+[Bonding]if(v[54] \>= 99)#Ron
 > END STRING
 
 > BEGIN STRING
@@ -859,8 +890,10 @@ Oh, amazing ability .........#MTLed
 
 妾もいい加減、長居が過ぎたか……
 > CONTEXT: Map216/events/5/pages/1/372/Dialogue/enemy17
-HM………. I wonder if my niece has gone too long, or
-my nagai has passed ...#MTLed
+Hmm...
+
+I wonder if perhaps I've spent too much time
+here...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -868,8 +901,8 @@ my nagai has passed ...#MTLed
 
  ついつい、居心地が良くなってしまったわ……
 > CONTEXT: Map216/events/5/pages/1/376/Dialogue/enemy17
-Because Nushi behaves so often
-can't help, I feel comfortable ...#MTLed
+Your obedience has made this place so comfortable
+for me that I've lost track of the time.#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -877,8 +910,9 @@ can't help, I feel comfortable ...#MTLed
 
 なにやら、言いたそうな眼じゃのう……？
 > CONTEXT: Map216/events/5/pages/1/384/Dialogue/enemy17
-? The eyes are...What do you think is the
-eye that you said ...?#MTLed
+What's with those eyes...?
+
+You look like you have something to say...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -886,9 +920,8 @@ eye that you said ...?#MTLed
 
  もともと、おヌシに深入りする気はない、と。
 > CONTEXT: Map216/events/5/pages/1/388/Dialogue/enemy17
-When you come here, you should say in advance
-Originally, I am not going to go deep into
-Onushi.#MTLed
+When I first came here, I told you I had no
+intention of getting deeply involved with you.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -896,8 +929,10 @@ Onushi.#MTLed
 
 まぁ、悪くない環境ではあったが……
 > CONTEXT: Map216/events/5/pages/1/392/Dialogue/enemy17
-If you go out with this, you won't get much
-money. Well, it was not bad environment ...#MTLed
+There's nothing to be gained from me getting any
+more involved with you than I am now.
+
+Not that I mind this place at all.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -905,7 +940,9 @@ money. Well, it was not bad environment ...#MTLed
 
 おヌシが妾に心残りがあるのか？
 > CONTEXT: Map216/events/5/pages/1/398/Dialogue/enemy17
-Or ......... Does Nushi have a heartfelt remorse?#MTLed
+Hmm...?
+
+Are you reluctant to see me go?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -913,9 +950,10 @@ Or ......... Does Nushi have a heartfelt remorse?#MTLed
 
 あるいは……妾とキズナを結び、魔力が欲しいのか……？
 > CONTEXT: Map216/events/5/pages/1/402/Dialogue/enemy17
-Simply, it is not enough to fall in love with the
-body of a whale...Or ..... Do you want a magic
-that connects Kizuna and Kizuna?#MTLed
+Perhaps my body alone is insufficient for you...
+
+Or maybe you wish to form a bond with me in order
+to strengthen your magic.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -923,8 +961,9 @@ that connects Kizuna and Kizuna?#MTLed
 
 おヌシの身体に、直接聞いてやろう……！！
 > CONTEXT: Map216/events/5/pages/1/407/Dialogue/enemy17
-Good, no need to answer .... Let's listen
-directly to your body! !#MTLed
+That's fine, there's no need to answer...
+
+Let's just ask your body directly!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -932,9 +971,9 @@ directly to your body! !#MTLed
 
 これまでのどの精気よりも、格別な味わいじゃ♡
 > CONTEXT: Map216/events/5/pages/1/431/Dialogue/enemy17
-Hohoho...... delicious...♡
-It has a taste that is exceptional than any
-previous energy#MTLed
+Hohoho... that was delicious... ♡
+
+Your energy has an exceptional flavor... ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -942,8 +981,9 @@ previous energy#MTLed
 
 妾も、さっきの『約束』は守らねばなるまいな。
 > CONTEXT: Map216/events/5/pages/1/440/Dialogue/enemy17
-Now…………. Mio, I will have to keep my previous
-"promise".#MTLed
+Now then...
+
+I shall have to keep that "promise" I just made.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -951,9 +991,8 @@ Now…………. Mio, I will have to keep my previous
 
 妾も、おヌシのこの部屋に留まってやろう。
 > CONTEXT: Map216/events/5/pages/1/444/Dialogue/enemy17
-As long as Nushi does not forget the "pure
-desire"...I will stay with you in this room of
-Nushi.#MTLed
+As long as you don't forget that "pure lust", I
+will remain in this room of yours.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -962,9 +1001,8 @@ Nushi.#MTLed
 
 さっきのような姿をな………♡
 > CONTEXT: Map216/events/5/pages/1/448/Dialogue/enemy17
-Hehehe ......... I look forward to it from now
-on, \\N[1]. It looks like it was a while ago ...
-... ♡#MTLed
+Kukuku... I look forward to seeing that look on
+your face again, \\N[1]. ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -972,8 +1010,10 @@ on, \\N[1]. It looks like it was a while ago ...
 
 友好度が『１００』になった！！
 > CONTEXT: Map216/events/5/pages/1/460/Dialogue
-"Kizuna" with Daji was born!!The degree of friendship
-has reached "100"! !#MTLed
+A bond with Daji was born!!
+
+The level of friendship with her
+has reached 100!#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -1103,14 +1143,15 @@ By receiving the engagement ring. \\C[2]Engaged with Daji!#MTLed
 
  先にくつろがせてもらっておるぞ。
 > CONTEXT: Map216/events/16/pages/0/5/Dialogue/enemy17
-Did you finally come, \\N[1]. 
-I'll let you relax first.#MTLed
+You finally came, \\N[1].
+
+I went ahead and made myself at home here.#Ron
 > END STRING
 
 > BEGIN STRING
 や、やっぱり来てた………！！！
 > CONTEXT: Map216/events/16/pages/0/9/Dialogue/kazuya
-Well, after all......!!!#MTLed
+Y-You really came...!!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1127,8 +1168,10 @@ my room, but it disappears ...! !#MTLed
 
  妾もそこまで此処に長居する気はないからな。
 > CONTEXT: Map216/events/16/pages/0/22/Dialogue/enemy17
-Hm, I don't look like that. I don't feel like
-going to stay here as long as I am.#MTLed
+Hmph, don't give me that look.
+
+I don't have any intention of staying here
+long-term.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1137,10 +1180,10 @@ going to stay here as long as I am.#MTLed
  道中の悪魔のみならず、我が使い魔にすら
 影響を与えてしまう、その『能力』にな………。
 > CONTEXT: Map216/events/16/pages/0/26/Dialogue/enemy17
-My niece was pure and interested in Nushi.
-Not only demons along the way, but also my
-familiarity. It is to "the ability" that gives
-influence ..........#MTLed
+I'm here purely out of fascination with you. That
+"ability" of yours has influenced not only the
+demons you've met on the way, but even my own
+familiars...#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -1149,9 +1192,10 @@ influence ..........#MTLed
 
 妾と少しの間、『親睦』を深めるだけでよい……
 > CONTEXT: Map216/events/16/pages/0/33/Dialogue/enemy17
-Hojo...Well, don't ask for difficult things
-You only have to deepen your “relatives” for a
-while ...#MTLed
+Hohoho...
+What's the matter? I'm not going to ask you for
+anything difficult. Merely for us to deepen our
+"bonds" a little.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1160,10 +1204,10 @@ while ...#MTLed
 
 つまり、いつもマイルームでおヌシがやっておることじゃ。
 > CONTEXT: Map216/events/16/pages/0/38/Dialogue/enemy17
-By that, the wolf is through this mental space
-You can know more about Nushi ...
-In other words, it's always that my husband is
-doing in my room.#MTLed
+By doing that, I'll be able to use this mental
+space to understand you at a much deeper level.
+In short, it's doing what you always do in these
+My Room spaces.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1171,9 +1215,10 @@ doing in my room.#MTLed
 
 妾と身体を重ね、『交流』を深めるのもよいぞ…♡
 > CONTEXT: Map216/events/16/pages/0/44/Dialogue/enemy17
-A lot of chicks are coming to you straight away
-... It is also good to pile up the body with the
-wolf and deepen "interchange"...♡#MTLed
+I've come all the way here to see you personally.
+
+Why don't we let our bodies get acquainted by
+having some "cultural exchange"...? ♡#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -1181,6 +1226,8 @@ wolf and deepen "interchange"...♡#MTLed
 
 ククク……♡
 > CONTEXT: Map216/events/16/pages/0/48/Dialogue/enemy17
-Let's try to satisfy the chopsticks in your
-favorite way...Hehehe ...... ♡#MTLed
+I'm more than happy to satisfy you in whatever
+way you prefer...
+
+Kukuku... ♡#Ron
 > END STRING

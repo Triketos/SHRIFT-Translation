@@ -201,36 +201,36 @@ Night Edge#Dargoth
 これを装備して妲己に挑むと
 『アルラウネ・フォーム』から挑むことが出来る。
 > CONTEXT: Armors/23/description
-If you equip this and challenge Daji. We can challenge
-from "alraune form".#MTLed
+Equipping this in conjunction with Daji's Bronze Box will
+allow you to fight her Alraune form when resting.#Ron
 > END STRING
 
 > BEGIN STRING
 植物のカード
 > CONTEXT: Armors/23/name
-Plant card#MTLed
+Plant Card#Ron
 > END STRING
 
 > BEGIN STRING
 これを装備して妲己に挑むと
 『ビースト・フォーム』から挑むことが出来る。
 > CONTEXT: Armors/24/description
-If you equip this and challenge Daji. We can challenge
-from "beast form".#MTLed
+Equipping this in conjunction with Daji's Bronze Box will
+allow you to fight her Beast form when resting.#Ron
 > END STRING
 
 > BEGIN STRING
 野獣のカード
 > CONTEXT: Armors/24/name
-Beast card#MTLed
+Beast Card#Ron
 > END STRING
 
 > BEGIN STRING
 これを装備して妲己に挑むと
 『ジェル・フォーム』から挑むことが出来る。
 > CONTEXT: Armors/25/description
-If you equip this and challenge Daji. You can challenge
-from "gel form".#MTLed
+Equipping this in conjunction with Daji's Bronze Box will
+allow you to fight her Gel form when resting.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -903,7 +903,7 @@ Bronze Box [Mukuro]#afrg
 > BEGIN STRING
 青銅の箱【エコー】
 > CONTEXT: Armors/207/name
-Bronze Box 【Echo】#afrg
+Bronze Box [Echo]#afrg
 > END STRING
 
 > BEGIN STRING
