@@ -35,9 +35,8 @@ Sheep?「But as you can see, there was an accident and you
 > CONTEXT: Map050/events/46/pages/1/28/Dialogue
 > CONTEXT: Map188/events/46/pages/0/28/Dialogue
 > CONTEXT: Map188/events/46/pages/1/28/Dialogue
-Voice on Radio「Negative, remain on standby at
-that branch as before. Do not forget to load
-"E-003".」#Ron
+Radio Voice「Negative, remain on standby at that branch
+             as before. Do not forget to load "E-003".」#Ron
 > END STRING
 
 > BEGIN STRING
@@ -62,9 +61,10 @@ With all due respect, "E-003" is...#Ron
 > CONTEXT: Map050/events/46/pages/1/35/Dialogue
 > CONTEXT: Map188/events/46/pages/0/35/Dialogue
 > CONTEXT: Map188/events/46/pages/1/35/Dialogue
-Radio voice「...I know. But the order has already been
-issued. Carefully carry out the loading work with the
-workers that are still left in the branch.」#Ron
+Radio Voice「...I know. But the order has already been
+             issued. Carefully carry out the loading
+             work with the workers that are still left
+             in the branch.」#Ron
 > END STRING
 
 > BEGIN STRING
@@ -75,9 +75,9 @@ workers that are still left in the branch.」#Ron
 > CONTEXT: Map050/events/46/pages/1/40/Dialogue
 > CONTEXT: Map188/events/46/pages/0/40/Dialogue
 > CONTEXT: Map188/events/46/pages/1/40/Dialogue
-Radio voice「In the worst case, if "E-002" fails to deal
-with the subject, we'll send in "E-003".
-Get everything prepared.」#Ron
+Radio Voice「In the worst case, if "E-002" fails to deal
+             with the subject, we'll send in "E-003".
+             Get everything prepared.」#Ron
 > END STRING
 
 > BEGIN STRING
@@ -100,8 +100,9 @@ talking about, then that's...!!!#Ron
 > CONTEXT: Map050/events/46/pages/1/50/Dialogue/other2
 > CONTEXT: Map188/events/46/pages/0/50/Dialogue/other2
 > CONTEXT: Map188/events/46/pages/1/50/Dialogue/other2
-...... Shut up and get a move on.
-I'm following orders and heading back to the
+...Shut up and get a move on.
+
+We're following orders and heading back to the
 branch.#Ron
 > END STRING
 
@@ -111,7 +112,7 @@ branch.#Ron
 > CONTEXT: Map050/events/46/pages/1/81/Dialogue/kazuya
 > CONTEXT: Map188/events/46/pages/0/81/Dialogue/kazuya
 > CONTEXT: Map188/events/46/pages/1/81/Dialogue/kazuya
-Oh, that's .........! !#MTLed
+T-Thats...!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -123,6 +124,7 @@ Oh, that's .........! !#MTLed
 > CONTEXT: Map188/events/46/pages/0/83/Dialogue/yuuma
 > CONTEXT: Map188/events/46/pages/1/83/Dialogue/yuuma
 Be careful! The lid's open...!
+
 It's coming...!!#Ron
 > END STRING
 
@@ -152,7 +154,7 @@ It's coming...!!#Ron
 > CONTEXT: Map188/events/46/pages/0/108/Dialogue/enemy6
 > CONTEXT: Map188/events/46/pages/1/104/Dialogue/enemy6
 Sorry to keep you all waiting!! It's time for
-Demon Realm TV's 'Human Reverse Raping SHOW'!!♪#Ron
+Demon Realm TV's "Human Reverse Raping SHOW"!!♪#Ron
 > END STRING
 
 > BEGIN STRING
@@ -164,6 +166,7 @@ Demon Realm TV's 'Human Reverse Raping SHOW'!!♪#Ron
 > CONTEXT: Map188/events/46/pages/0/114/Dialogue/enemy6
 > CONTEXT: Map188/events/46/pages/1/110/Dialogue/enemy6
 Today's our first outdoor live concert!!!
+
 First up, rehearsal time!!#Ron
 > END STRING
 
@@ -263,7 +266,7 @@ weapon, right?#Ron
 E-002『アイドル』ことニーナちゃんだよ！よろしくね！
 > CONTEXT: Map050/events/46/pages/0/160/Dialogue/enemy6
 > CONTEXT: Map188/events/46/pages/0/160/Dialogue/enemy6
-Thaaat's right. ♪ I'm Nina, the E-002 'Idol'!
+Thaaat's right. ♪ I'm Nina, the E-002 "Idol"!
  
 Nice to meet you!#Ron
 > END STRING
@@ -335,8 +338,9 @@ ratings, \\N[1], you'll be able to proceed safely.
 悪い事は言わない。ここは大人しく従っておけ。
 > CONTEXT: Map050/events/46/pages/0/192/Dialogue/other1
 > CONTEXT: Map188/events/46/pages/0/192/Dialogue/other1
-\\N[1]. I do not say bad things. I'll be happy
-here.#MTLed
+\\N[1]...
+
+Just go along with it for your own good.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -345,8 +349,9 @@ here.#MTLed
 いきなり目の前に現れるなよ！！
 > CONTEXT: Map050/events/46/pages/0/196/Dialogue/kazuya
 > CONTEXT: Map188/events/46/pages/0/196/Dialogue/kazuya
-I was surprised! Do not appear in front of you
-suddenly! !#MTLed
+Whoa, you gave me a fright!
+
+Don't pop up in front of me so suddenly!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -355,9 +360,9 @@ suddenly! !#MTLed
 おそらく、単純な量ならヘカーテとかの魔王級だぜ。
 > CONTEXT: Map050/events/46/pages/0/200/Dialogue/other1
 > CONTEXT: Map188/events/46/pages/0/200/Dialogue/other1
-Even though he feels that kind of playful, it's a
-great magic. Perhaps a simple amount is a demonic
-class like Hecate.#MTLed
+Even though she acts kind of silly, she's a demon
+through and through. To put it in simple terms,
+she's on par with the Demon King Hecate.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -367,10 +372,10 @@ class like Hecate.#MTLed
 とりあえず、アイツのペースに従っておけ。
 > CONTEXT: Map050/events/46/pages/0/204/Dialogue/other1
 > CONTEXT: Map188/events/46/pages/0/204/Dialogue/other1
-It's my instinct, but if you make me angry I
-won't win you. The other party promises "Let her
-off" conditionally. For now, keep pace with the
-guy.#MTLed
+It's just my gut feeling, but if you make her mad
+she'll wipe the floor with you. She's giving you
+a way to escape if you meet her conditions, so
+just play along for now.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -379,7 +384,9 @@ guy.#MTLed
 『シチョーリツ』を落とさなければ良いんだな…？
 > CONTEXT: Map050/events/46/pages/0/210/Dialogue/kazuya
 > CONTEXT: Map188/events/46/pages/0/210/Dialogue/kazuya
-I understand...Should I drop "view rating" ...?#MTLed
+O-Okay...
+
+I just need to keep your "ratings" high, right...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -388,8 +395,10 @@ I understand...Should I drop "view rating" ...?#MTLed
 物わかりがよくて助かるよっ！
 > CONTEXT: Map050/events/46/pages/0/215/Dialogue/enemy6
 > CONTEXT: Map188/events/46/pages/0/215/Dialogue/enemy6
-that's good right♪As expected, \\N[1]-kun!
-Good understanding and help!#MTLed
+Wowie, \\N[1]-kun's quick on the uptake as
+expected! ♪
+
+I'm glad you're being so reasonable!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -398,9 +407,9 @@ Good understanding and help!#MTLed
 習うより慣れろ！愉しんでいこうね！！
 > CONTEXT: Map050/events/46/pages/0/219/Dialogue/enemy6
 > CONTEXT: Map188/events/46/pages/0/219/Dialogue/enemy6
-Hey Hey! If that's the case, I'll do dance
-rehearsals! Get used to learning! Let's enjoy it!
-!#MTLed
+Okay, since that's sorted let's get the dance
+rehearsal underway! Experience is the best
+teacher, so let's have some fun with it!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -485,7 +494,7 @@ Was I... saved?#Ron
 > CONTEXT: Map050/events/46/pages/1/219/Dialogue/yuuma
 > CONTEXT: Map188/events/46/pages/0/286/Dialogue/yuuma
 > CONTEXT: Map188/events/46/pages/1/219/Dialogue/yuuma
-... Seems that way. Mother Rabbit's still close
+...Seems that way. Mother Rabbit's still close
 by but I can't detect the magic of that girl from
 before.#Ron
 > END STRING
@@ -551,7 +560,8 @@ that medicine...#Ron
 > CONTEXT: Map050/events/46/pages/1/242/Dialogue/yuuma
 > CONTEXT: Map188/events/46/pages/0/309/Dialogue/yuuma
 > CONTEXT: Map188/events/46/pages/1/242/Dialogue/yuuma
-... Got it. You're right.
+...Got it. You're right.
+
 But like I said before, don't rush. Proceed
 carefully.#Ron
 > END STRING
@@ -574,6 +584,7 @@ Yeah, I know...#Ron
 > CONTEXT: Map188/events/46/pages/0/316/Dialogue/kazuya
 > CONTEXT: Map188/events/46/pages/1/249/Dialogue/kazuya
 But...
+
 I can't get past here now...#Ron
 > END STRING
 
@@ -600,6 +611,7 @@ get into the building next to it through there.#Ron
 > CONTEXT: Map188/events/46/pages/0/326/Dialogue/yuuma
 > CONTEXT: Map188/events/46/pages/1/259/Dialogue/yuuma
 \\C[2]Let's try getting in there first.
+
 \\C[0]It looks like it's collapsed a lot. Watch
 your footing and the ceiling.#Ron
 > END STRING
@@ -676,7 +688,7 @@ little ahead ...#MTLed
 > CONTEXT: Map050/events/55/pages/2/3/Dialogue/kazuya
 > CONTEXT: Map188/events/55/pages/1/3/Dialogue/kazuya
 > CONTEXT: Map188/events/55/pages/2/3/Dialogue/kazuya
-......... Can you hear me, Yuuma?#MTLed
+...Can you hear me, Yuuma?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -687,8 +699,9 @@ little ahead ...#MTLed
 > CONTEXT: Map050/events/55/pages/2/5/Dialogue/yuuma
 > CONTEXT: Map188/events/55/pages/1/5/Dialogue/yuuma
 > CONTEXT: Map188/events/55/pages/2/5/Dialogue/yuuma
-Oh, I can hear you. \\N[1]....finally
-communication has been restored?#MTLed
+Yeah, I can hear you, \\N[1]...
+
+Looks like comms have finally been restored...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -724,7 +737,7 @@ my body's gone back to normal too.#Ron
 > CONTEXT: Map050/events/55/pages/2/13/Dialogue/yuuma
 > CONTEXT: Map188/events/55/pages/1/18/Dialogue/yuuma
 > CONTEXT: Map188/events/55/pages/2/13/Dialogue/yuuma
-Good. All that's left is to get out of this area
+Right. All that's left is to get out of this area
 that Mother Rabbit's roaming around in.#Ron
 > END STRING
 
@@ -1522,6 +1535,7 @@ Shut up...#Ron
 > CONTEXT: Map188/events/57/pages/5/84/Dialogue/enemy4
 But there's someone else inside you...
 Someone exploiting your curiosity...
+
 You mustn't let this person use "you"...#Ron
 > END STRING
 
@@ -1533,6 +1547,7 @@ You mustn't let this person use "you"...#Ron
 > CONTEXT: Map050/events/57/pages/5/89/Dialogue/enemy4
 > CONTEXT: Map188/events/57/pages/5/89/Dialogue/enemy4
 I'm positive the real you is kind...
+
 That's why the words of that Nekomata duo you
 just ran into still resound within you...#Ron
 > END STRING
@@ -1872,7 +1887,7 @@ you all soon...#Ron
 ああああああああああああ！！！？
 > CONTEXT: Map050/events/57/pages/5/233/Dialogue/kazuya-3
 > CONTEXT: Map188/events/57/pages/5/233/Dialogue/kazuya-3
-Aaa...
+Aaah...
 
-AAAAAAAAAAAAAA!!#Ron
+AAAAAAAAAAAAAAHH!!#Ron
 > END STRING
