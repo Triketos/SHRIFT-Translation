@@ -8351,7 +8351,7 @@ Sphinx (G)#MTLed
 > BEGIN STRING
 スフィンクスは大きく吹き飛ばされて、転倒した！
 > CONTEXT: Troops/210/pages/2/7/Dialogue
-Sphinx has been blown away and fell!#MTLed
+Violently blown back, Sphinx collapses in a heap!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -8359,13 +8359,13 @@ Sphinx has been blown away and fell!#MTLed
 
 震える足で立ち上がった……
 > CONTEXT: Troops/210/pages/2/11/Dialogue
-...... but after a while. I stood up with a shaking leg ...#MTLed
+But after a moment, she gets back up on unsteady legs...#Ron
 > END STRING
 
 > BEGIN STRING
 い……いたい……
 > CONTEXT: Troops/210/pages/2/15/Dialogue/enemy11
-Want to say……#MTLed
+M-Man that really hurt...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -8373,14 +8373,15 @@ Want to say……#MTLed
 
 お前も殺されたいのか？
 > CONTEXT: Troops/210/pages/2/17/Dialogue/kazuya-3
-It's mild, let's go there. Do you want to be
-killed too?#MTLed
+Stay out of my way.
+
+Or do you want me to kill you too?#Ron
 > END STRING
 
 > BEGIN STRING
 \\{\\{やだ！！
 > CONTEXT: Troops/210/pages/2/21/Dialogue/enemy12
-\\{\\{no! !#MTLed
+\\{\\{I won't!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -8388,8 +8389,8 @@ killed too?#MTLed
 
 路を開けるのはもっといやだ！！
 > CONTEXT: Troops/210/pages/2/23/Dialogue/enemy12
-I'm sorry to be killed. It is more disgusting to
-open the road! !#MTLed
+I don't want to be killed, but letting you
+through here would be even worse...!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -8397,8 +8398,8 @@ open the road! !#MTLed
 
 お前みたいな悪いやつを通さないための悪魔だ！！
 > CONTEXT: Troops/210/pages/2/27/Dialogue/enemy15
-I am "Sphinx"!!It's a demon to keep you from
-passing bad guys like you! !#MTLed
+I'm Sphinx!! Stopping bad guys like you from
+getting through is my duty as a demon!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -8406,48 +8407,49 @@ passing bad guys like you! !#MTLed
 
 ボクはこの路を守る！！
 > CONTEXT: Troops/210/pages/2/31/Dialogue/enemy15
-In the name of Lady Hera!!I will protect this
-road! !#MTLed
+In the name of Lady Hera, I will protect this
+road!!#Ron
 > END STRING
 
 > BEGIN STRING
 スフィンクスは羽が変な方向に曲がってしまっている……
 > CONTEXT: Troops/210/pages/3/12/Dialogue
-Sphinx's wings are bent in a strange direction ...#MTLed
+Sphinx's wings have become bent out of shape...#RonIffyWording
 > END STRING
 
 > BEGIN STRING
 だが、フラフラとまた立ち上がった………
 > CONTEXT: Troops/210/pages/3/14/Dialogue
-But I got up with dizzy again .........#MTLed
+But she staggers back to her feet again...#Ron
 > END STRING
 
 > BEGIN STRING
 ………………どけ。
 > CONTEXT: Troops/210/pages/3/16/Dialogue/kazuya-3
-............ Do not mind.#MTLed
+...Move.#Ron
 > END STRING
 
 > BEGIN STRING
 \\{\\{\\{いやだ！！
 どかない！！
 > CONTEXT: Troops/210/pages/3/18/Dialogue/enemy15
-\\{\\{\\{I refuse!!I do not
-know! !#MTLed
+\\{\\{\\{No!!
+I won't move!!#Ron
 > END STRING
 
 > BEGIN STRING
 \\{ボクは…………スフィンクス…！！！
 ぜったいに………どかないもん…！！！
 > CONTEXT: Troops/210/pages/3/21/Dialogue/enemy15
-\\{I am ......... Sphinx ...!!!
-It's all about .....!!#MTLed
+\\{I... am Sphinx...!!!
+
+I can't... let you through...!!#Ron
 > END STRING
 
 > BEGIN STRING
 があっ………！！！！？
 > CONTEXT: Troops/210/pages/4/7/Dialogue/enemy15
-* strike * ......!!!!?#MTLed
+Gaagh...!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -8455,8 +8457,8 @@ It's all about .....!!#MTLed
 
 前脚が大きく損傷した………！！！
 > CONTEXT: Troops/210/pages/4/9/Dialogue
-Sphinx protected himself with his front legs
-The front legs are greatly damaged.........!!!#MTLed
+Sphinx protected her body with her front legs, greatly
+damaging them in the process...!!!#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -8464,8 +8466,7 @@ The front legs are greatly damaged.........!!!#MTLed
 
 後ろ脚だけで、立っている…………
 > CONTEXT: Troops/210/pages/4/15/Dialogue
-But Sphinx is ......... Standing on the back legs alone
-.........#MTLed
+Still, she gets back up on just her hind legs...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -8473,8 +8474,9 @@ But Sphinx is ......... Standing on the back legs alone
 
  ……ボクは……スフィンクス……
 > CONTEXT: Troops/210/pages/4/21/Dialogue/enemy15
-I am .........-Sphinx .........
-...... I am...Sphinx ......#MTLed
+I... am Sphinx...
+
+I'm... Sphinx...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -8482,8 +8484,7 @@ I am .........-Sphinx .........
 
 まもる…………
 > CONTEXT: Troops/210/pages/4/25/Dialogue/enemy15
-I am...... by the way......
-protect…………#MTLed
+I must... protect... the roads...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -8491,8 +8492,8 @@ protect…………#MTLed
 
 これくらいしか……できないけど……
 > CONTEXT: Troops/210/pages/4/29/Dialogue/enemy15
-I ...... because it is stupid ...
-I can only do this...but ...#MTLed
+I'm not... very smart... so this... is all I...
+can do...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -8500,14 +8501,15 @@ I can only do this...but ...#MTLed
 
 いわれたことは……まもるもん…
 > CONTEXT: Troops/210/pages/4/33/Dialogue/enemy15
-It is absolutely...What I was told is ...
-......#MTLed
+I have to... protect...
+
+Like I was told...#Ron
 > END STRING
 
 > BEGIN STRING
 …………………っ！！！
 > CONTEXT: Troops/210/pages/5/8/Dialogue/enemy15
-...... ......!!!#MTLed
+...........Gh!!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -8515,15 +8517,15 @@ It is absolutely...What I was told is ...
 
 大きく吹き飛び、崩れ落ちた。
 > CONTEXT: Troops/210/pages/5/10/Dialogue
-Sphinx receives an Attack right away. It blew up and broke
-down.#MTLed
+Sphinx took a direct hit...
+
+She was blown back again, crumbling to the ground.#Ron
 > END STRING
 
 > BEGIN STRING
 もう、彼女に立ち上がる気力はないようだ……
 > CONTEXT: Troops/210/pages/5/14/Dialogue
-It seems that there is no vitality to stand up to her
-anymore ...#MTLed
+It appears she no longer has the energy to get back up...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -8531,8 +8533,9 @@ anymore ...#MTLed
 
 ボク……………ほんとうは………たたかいたく……ない……
 > CONTEXT: Troops/210/pages/5/17/Dialogue/enemy15
-Yay ..... Yay............I ........ really is
-.....#MTLed
+No... Noooo...
+
+I didn't... really want... to fight...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -8540,8 +8543,9 @@ Yay ..... Yay............I ........ really is
 
 この姿に……なったのに…………
 > CONTEXT: Troops/210/pages/5/21/Dialogue/enemy15
-I want to make it ............ not.........
-I came to this figure...... ...#MTLed
+I didn't... want to fight...
+
+So why... did this happen...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -8549,7 +8553,9 @@ I came to this figure...... ...#MTLed
 
 ぼくを…………助けてよぉ…………
 > CONTEXT: Troops/210/pages/5/25/Dialogue/enemy15
-Why...Lady Hera...... Help me ...........#MTLed
+Why... Lady Hera...
+
+Please... save me...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -8562,7 +8568,7 @@ Titanoboa (G)#MTLed
 > BEGIN STRING
 アルケニー（Ｇ）
 > CONTEXT: Troops/212/name
-Arachne (G)#MTLed
+Arachne (G)#Ron
 > END STRING
 
 > BEGIN STRING
@@ -8570,8 +8576,9 @@ Arachne (G)#MTLed
 
 あたいの『邪悪』……お前さんが背負うんだ…！！
 > CONTEXT: Troops/212/pages/2/16/Dialogue/enemy10
-Well...it's a promise ...!! 
-Aoi's "Evil" ...... You're on your back ...!!#MTLed
+Well... a promise is a promise...!!
+
+You'll now be... shouldering my evil!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -8579,14 +8586,16 @@ Aoi's "Evil" ...... You're on your back ...!!#MTLed
 
 真の闇に落ちれるのさ…！！
 > CONTEXT: Troops/212/pages/2/20/Dialogue/enemy10
-Now you are not tied to anything ......
-I can fall into true darkness ...!!#MTLed
+With that... there's nothing left to tie you
+down...
+
+Succumb to true darkness...!!#Ron
 > END STRING
 
 > BEGIN STRING
 ティタノボア（後半Ｇ）
 > CONTEXT: Troops/214/name
-Titanoboa (second half G)#MTLed
+Titanoboa (second half G)#Ron
 > END STRING
 
 > BEGIN STRING
@@ -8595,9 +8604,10 @@ Titanoboa (second half G)#MTLed
 \\C[2]『抵抗』では、彼女の攻撃の前に抜け出すのは
 正直無理だと感じる………
 > CONTEXT: Troops/214/pages/1/118/Dialogue
-There is no sign that bound will be canceled even if the
-struggle is...\\C[2]In "struggle", getting out before her
-attack is. I feel honestly impossible .........#MTLed
+It doesn't seem like struggling will loosen her binding...
+
+\\C[2]It honestly feels like "struggling" won't help me
+escape from this situation...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -8605,14 +8615,15 @@ attack is. I feel honestly impossible .........#MTLed
 
 なんなんだ………その能力は、一体何なんだ！！
 > CONTEXT: Troops/215/pages/3/15/Dialogue/enemy14
-This I...is absorbed ...!? It's gradually ....
-What the hell is that ability?!#MTLed
+You're going to... absorb me...?!
+
+How on earth did you get such power...?!#Ron
 > END STRING
 
 > BEGIN STRING
 ガアアアアアアアアアアアアアアアアアア！！！
 > CONTEXT: Troops/215/pages/3/19/Dialogue/enemy14
-Gaa aa aa aa aa aa aa aa!!!#MTLed
+GAAAAAAAAAAAAAAAAAAAAAHHH!!!#Ron
 > END STRING
 
 > BEGIN STRING
