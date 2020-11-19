@@ -25,7 +25,9 @@
 
 元気してるかい？\\N[1]。
 > CONTEXT: Map217/events/7/pages/0/5/Dialogue/hyakki
-Follow♪. Are you well? \\N[1].#MTLed
+Heya... ♪
+
+Doing well, \\N[1]?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -33,13 +35,15 @@ Follow♪. Are you well? \\N[1].#MTLed
 
 な……なんでマイルームに……！！
 > CONTEXT: Map217/events/7/pages/0/9/Dialogue/kazuya
-B, Hyakki ......! ? Nah...why in my room ...! !#MTLed
+H-Hyakki...?!
+
+W-What're you doing here...?!#Ron
 > END STRING
 
 > BEGIN STRING
 『なんで』って……そんなに意外かい？
 > CONTEXT: Map217/events/7/pages/0/14/Dialogue/hyakki
-What is "Why not"...so surprising?#MTLed
+Why are ya so shocked to see me?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -47,8 +51,9 @@ What is "Why not"...so surprising?#MTLed
 
 \\N[1]に一番関わった悪魔だと思うケド？
 > CONTEXT: Map217/events/7/pages/0/16/Dialogue/hyakki
-'I' maybe this escape. Kedo do you think it's the
-demon most involved with \\N[1]?#MTLed
+When ya think about it, aren't I the demon
+you've been the most involved with this whole
+time?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -57,15 +62,16 @@ demon most involved with \\N[1]?#MTLed
 
 もう、ここに来ても何ら不思議じゃないヨ。
 > CONTEXT: Map217/events/7/pages/0/20/Dialogue/hyakki
-Besides, regarding the Arachne's Nest and
-Titanoboa. Did you also help directly?
-It's no wonder if you come here, yo.#MTLed
+And I also saved ya butt with that Arachne and
+Titanoboa situation.
+
+Is it really so strange I'd come here?#Ron
 > END STRING
 
 > BEGIN STRING
 そ、そりゃそうだけど………
 > CONTEXT: Map217/events/7/pages/0/25/Dialogue/kazuya
-Well, that's right .........#MTLed
+I-I guess that makes sense...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -74,8 +80,8 @@ Well, that's right .........#MTLed
  アタシがアンタを『商売相手』としか見てなかった
  とでも思っているのかい？
 > CONTEXT: Map217/events/7/pages/0/28/Dialogue/hyakki
-Or...... you mean you. 'I' only saw you as a
-'business partner'. Do you think so?#MTLed
+Or maybe... do ya think I've only ever seen you
+as nothing more than my business partner?#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -84,8 +90,10 @@ Or...... you mean you. 'I' only saw you as a
 
  『トンカツ』くん………♡
 > CONTEXT: Map217/events/7/pages/0/33/Dialogue/hyakki2
-If so……. Is it buying for a long time ...?
-"Pork cutlet" kun...... ♡#MTLed
+If that's the case...
+
+You've given me far too much credit,
+pork cutlet-kun... ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -94,9 +102,10 @@ If so……. Is it buying for a long time ...?
 
 股間がビクビク反応してたじゃないか……♪
 > CONTEXT: Map217/events/7/pages/0/40/Dialogue/hyakki2
-Besides, you are the one. At the convenience
-store, if you say that 'I' will pull
-The crotch had a brisk reaction probably ...♪#MTLed
+And besides, back in that alley behind the
+convenience store when ya asked me to give ya
+some "relief", that crotch of yours was trembling
+something fierce... ♪#Ron
 > END STRING
 
 > BEGIN STRING
@@ -104,7 +113,9 @@ The crotch had a brisk reaction probably ...♪#MTLed
 
 そ、それは………
 > CONTEXT: Map217/events/7/pages/0/45/Dialogue/kazuya-a
-ugh.........!! Well, that's .........#MTLed
+Ugh...!!
+
+T-That was...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -113,9 +124,9 @@ ugh.........!! Well, that's .........#MTLed
  この脱出の中でいろいろと謎のままの部分もあるだろうから
  アタシの知る限りで、教えようとおもってね。
 > CONTEXT: Map217/events/7/pages/0/50/Dialogue/hyakki
-Well, besides that. Because there will be some
-parts that remain as mystery in this escape
-As far as I know, let's teach.#MTLed
+Well, there's also a bunch of stuff around your
+escape that never got explained, so I thought I'd
+tell ya as much as I know about 'em.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -124,8 +135,10 @@ As far as I know, let's teach.#MTLed
 
 だからしばらくの間、お邪魔するヨ♪
 > CONTEXT: Map217/events/7/pages/0/55/Dialogue/hyakki
-If you also have it, if 'I' was here
-Is something convenient? So for a while, Yo♪#MTLed
+See? Having me around's gonna work out pretty
+well for ya.
+
+So I'll just be right here... ♪#Ron
 > END STRING
 
 > BEGIN STRING
@@ -133,31 +146,34 @@ Is something convenient? So for a while, Yo♪#MTLed
 
 今日は何の用だい？
 > CONTEXT: Map217/events/5/pages/0/19/Dialogue/hyakki
-Well came! \\N[1]!!What is it for today?#MTLed
+\\N[1], you came!!
+
+What do ya need from me today?#Ron
 > END STRING
 
 > BEGIN STRING
 雑談する en(v[55] \>= 25) 
 > CONTEXT: Map217/events/5/pages/0/31/Choice/0
-Chaten(v[55] \>= 25)#MTLed
+Chaten(v[55] \>= 25)#Ron
 > END STRING
 
 > BEGIN STRING
 搾精（パイズリ）en(v[55] \>= 25) 
 > CONTEXT: Map217/events/5/pages/0/31/Choice/1
-milking (tit-fuck)en(v[55] \>= 25)#MTLed
+Milking (Paizuri)en(v[55] \>= 25)#Ron
 > END STRING
 
 > BEGIN STRING
 搾精（あやし）en(v[55] \>= 80) 
 > CONTEXT: Map217/events/5/pages/0/31/Choice/2
-milkingen(v[55] \>= 80)#MTLed
+Milkingen(v[55] \>= 80)#Ron
 > END STRING
 
 > BEGIN STRING
 【百鬼】種族：鬼
 > CONTEXT: Map217/events/5/pages/0/33/ChoiceHelp
-[Hyakki] race: demon#MTLed
+[Hyakki] Tribe: Oni
+Current Friendship: \\C[2]\\v[55]\\C[0]#Ron
 > END STRING
 
 > BEGIN STRING
@@ -172,9 +188,10 @@ Hyakki seems not to receive it ......#MTLed
 アタシ、一応行商人だから……
 物品にはあんまり困ってないんだ……
 > CONTEXT: Map217/events/5/pages/0/154/Dialogue/hyakki
-Uh...I'm glad I feel good. 'I', because it is a
-temporary merchant...I'm not really troubled
-with the goods ...#MTLed
+Uhh... I appreciate the thought.
+
+I guess I am a peddler, so it's not the worst
+thing to have more of these...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -182,8 +199,10 @@ with the goods ...#MTLed
 
 そういうプレゼントは、間に合ってるんでね…
 > CONTEXT: Map217/events/5/pages/0/159/Dialogue/hyakki
-It's for your own use, and if you like it, the
-story is different...Such gifts are in time ...#MTLed
+I think I'd rather have something I actually
+like and use.
+
+That'd probably suit me a little more...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -191,7 +210,7 @@ story is different...Such gifts are in time ...#MTLed
 > CONTEXT: Map217/events/5/pages/0/173/Choice/2 
 > CONTEXT: Map301/events/7/pages/0/6/Choice/2 
 > CONTEXT: Map303/events/6/pages/0/7/Choice/2 
-Special item for EX#GT
+EX Special Item#Ron
 > END STRING
 
 > BEGIN STRING						   			  
@@ -200,29 +219,30 @@ Special item for EX#GT
 知りたいことがあるなら、なんでも話すよ♪
 > CONTEXT: Map217/events/5/pages/1/1/Dialogue/hyakki
 > CONTEXT: Map217/events/5/pages/2/1/Dialogue/hyakki
-Oops. I will talk about anything if I have
-something to know♪#MTLed
+Okaaay.
+
+I'll talk about anything ya wanna know... ♪#Ron
 > END STRING
 
 > BEGIN STRING
 百鬼について　en(v[55] \>= 30) 
 > CONTEXT: Map217/events/5/pages/1/7/Choice/0
 > CONTEXT: Map217/events/5/pages/2/7/Choice/0
-About Hyakkien(v[55] \>= 30)#MTLed
+About Heren(v[55] \>= 30)#Ron
 > END STRING
 
 > BEGIN STRING
 引退について　en(v[55] \>= 60) 
 > CONTEXT: Map217/events/5/pages/1/7/Choice/1
 > CONTEXT: Map217/events/5/pages/2/7/Choice/1
-About retirementen(v[55] \>= 60)#MTLed
+Her Retirementen(v[55] \>= 60)#Ron
 > END STRING
 
 > BEGIN STRING
 『冥府の間』の目的　en(v[55] \>= 90) 
 > CONTEXT: Map217/events/5/pages/1/7/Choice/2
 > CONTEXT: Map217/events/5/pages/2/7/Choice/2
-The purpose of Hell's Gateen(v[55] \>= 90)#MTLed
+Hell's Gate's Purposeen(v[55] \>= 90)#Ron
 > END STRING
 
 > BEGIN STRING
@@ -231,8 +251,9 @@ The purpose of Hell's Gateen(v[55] \>= 90)#MTLed
 最初から最後まで、アンタに話した通りだよ。
 > CONTEXT: Map217/events/5/pages/1/13/Dialogue/hyakki
 > CONTEXT: Map217/events/5/pages/2/13/Dialogue/hyakki
-'I' thing ..... I say...... 
-From the beginning to the end, as I told you.#MTLed
+Ya wanna talk about... me...?
+
+Ya already pretty much know all there is to know.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -241,9 +262,10 @@ From the beginning to the end, as I told you.#MTLed
  文字通り、『世界』を渡り歩く行商人さ。
 > CONTEXT: Map217/events/5/pages/1/17/Dialogue/hyakki
 > CONTEXT: Map217/events/5/pages/2/17/Dialogue/hyakki
-'I' is Hyakki. The tribe is Oni, and the gender
-is Woman. Literally, it is a hawker who walks
-across the "world".#MTLed
+The name's Hyakki, and I'm an Oni woman.
+
+I'm a peddler who wanders literally all over the
+world selling my wares.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -253,9 +275,9 @@ across the "world".#MTLed
 アンタとかね。
 > CONTEXT: Map217/events/5/pages/1/21/Dialogue/hyakki
 > CONTEXT: Map217/events/5/pages/2/21/Dialogue/hyakki
-The business partner is basically demon.
-Depending on the situation, it may be a human
-opponent. You and me.#MTLed
+My business partners are basically all demons.
+But depending on the situation, I'll sometimes do
+business with humans. Just like we did back then.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -264,9 +286,10 @@ opponent. You and me.#MTLed
 例の、シェルターで死ぬ運命だったってヤツ？
 > CONTEXT: Map217/events/5/pages/1/26/Dialogue/kazuya
 > CONTEXT: Map217/events/5/pages/2/26/Dialogue/kazuya
-"According to circumstances"…?
-For example, you were destined to die in the
-shelter?#MTLed
+Depending on the situation...?
+
+Does that have something to do with that fate
+of death or whatever back in the shelter?#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -276,10 +299,10 @@ shelter?#MTLed
 だけど、アンタはそれをねじ曲げた。
 > CONTEXT: Map217/events/5/pages/1/31/Dialogue/hyakki
 > CONTEXT: Map217/events/5/pages/2/31/Dialogue/hyakki
-"The fate of death" can not be broken in
-principle. In a world of any choice, you will
-always die if you are destined to die.
-But you screwed it.#MTLed
+As a rule, "Death's Fate" cannot be avoided. No
+matter your choices, no matter the world, if
+you're fated to die, then you will die. But ya
+managed to deviate from that.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -288,10 +311,10 @@ But you screwed it.#MTLed
 
 『死の運命』自体を変えるヤツは、初めてだった。
 > CONTEXT: Map217/events/5/pages/1/36/Dialogue/hyakki
-Fate changes suddenly, and we go on a journey to
-save the world. I saw a guy who saved the world
-in a row...It was my first time to change the
-destiny of death itself.#MTLed
+I've seen guys whose fate suddenly changed, and
+then went on journeys to go save the world...
+But this is the first time I've ever seen someone
+up and change Death's Fate itself.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -301,9 +324,10 @@ destiny of death itself.#MTLed
 とっても興味があったからね。
 > CONTEXT: Map217/events/5/pages/1/41/Dialogue/hyakki
 > CONTEXT: Map217/events/5/pages/2/41/Dialogue/hyakki
-So 'I' was involved in this world.
-What kind of ending do you change to ......?
-I was very interested.#MTLed
+That's why I got so involved in this world.
+
+I was real interested in finding out what kind of
+ending you'd put yourself on.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -313,8 +337,10 @@ I was very interested.#MTLed
  お願いだから聞かないでおくれよ？
 > CONTEXT: Map217/events/5/pages/1/49/Dialogue/hyakki
 > CONTEXT: Map217/events/5/pages/2/49/Dialogue/hyakki
-Oops!!"In fact, how did this world change?"
-Please don't ask me, please.#MTLed
+Whoops!!
+
+Just don't ask me how exactly this world's been
+changed or anything, okay?#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -324,9 +350,10 @@ Please don't ask me, please.#MTLed
 タイムスリップものでよくある話だろ？
 > CONTEXT: Map217/events/5/pages/1/54/Dialogue/hyakki
 > CONTEXT: Map217/events/5/pages/2/54/Dialogue/hyakki
-If you know what is going to be "the future,"
-Maybe it won't change because of that.
-It's a common story with time slips, right?#MTLed
+If ya found out what kind of impact ya were
+gonna have on the future, that future might then
+not happen. You know, the usual time travel
+thing.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -336,9 +363,9 @@ It's a common story with time slips, right?#MTLed
  フェアじゃないからね。
 > CONTEXT: Map217/events/5/pages/1/59/Dialogue/hyakki
 > CONTEXT: Map217/events/5/pages/2/59/Dialogue/hyakki
-So 'I' teaches only 'Results' ...
-Otherwise, 'I' as a 'bystander'
-It's not fair.#MTLed
+That's why I'm only gonna tell you about the
+result of your actions. Otherwise it wouldn't be
+very fair of me as a bystander.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -348,8 +375,10 @@ It's not fair.#MTLed
  なんなら身を呈して守ってくれたよね……？
 > CONTEXT: Map217/events/5/pages/1/67/Dialogue/kazuya
 > CONTEXT: Map217/events/5/pages/2/67/Dialogue/kazuya
-But ......... At Titanoboa, he helped me
-What did you show and protect yourself ...?#MTLed
+But hang on...
+
+Didn't you help me out with Titanoboa and put
+your life on the line to protect me...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -359,9 +388,10 @@ What did you show and protect yourself ...?#MTLed
 助けてくれたんじゃあ………
 > CONTEXT: Map217/events/5/pages/1/72/Dialogue/kazuya
 > CONTEXT: Map217/events/5/pages/2/72/Dialogue/kazuya
-Is it Okey dokey as a "bystander" ...?
-Because I knew I would lose to Titanoboa
-You helped me .........#MTLed
+You saved me because you knew I was going to
+lose to her...
+
+Was it okay to do that as a "bystander"?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -371,9 +401,10 @@ You helped me .........#MTLed
 一切見てないんだよ。
 > CONTEXT: Map217/events/5/pages/1/78/Dialogue/hyakki
 > CONTEXT: Map217/events/5/pages/2/78/Dialogue/hyakki
-Uh...you seem to misunderstand you ...
-'I' is the fate that you lose at that point
-I have not seen it at all.#MTLed
+Aaah, ya seem to be misunderstanding something.
+
+Back then, ya weren't fated to lose that battle
+with Titanoboa.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -383,9 +414,9 @@ I have not seen it at all.#MTLed
 『勝ち目がなさそうだから』助太刀するって言っただけだ
 > CONTEXT: Map217/events/5/pages/1/84/Dialogue/hyakki
 > CONTEXT: Map217/events/5/pages/2/84/Dialogue/hyakki
-Remember me a lot...'I' is 'Because I can not
-maintain neutrality'. "Because there's no chance
-to win," he just said he's fighting#MTLed
+Try to remember... I was helping ya out 'cause
+she was someone I couldn't stay neutral to, and
+it looked like ya had no chance of beating her.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -395,10 +426,10 @@ to win," he just said he's fighting#MTLed
 まだ自分の中では確定してなかったからね……
 > CONTEXT: Map217/events/5/pages/1/89/Dialogue/hyakki
 > CONTEXT: Map217/events/5/pages/2/89/Dialogue/hyakki
-"I am destined to die there" I have not said a
-word...Above all, at that time, the existence
-of "intervention" is. I haven't decided yet in
-myself ...#MTLed
+I also told ya I was fated to die there...
+And back then, the existence of the
+"interventions" within ya hadn't been established
+yet...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -407,8 +438,10 @@ myself ...#MTLed
 この世界の『百鬼』として行動しただけサ
 > CONTEXT: Map217/events/5/pages/1/94/Dialogue/hyakki
 > CONTEXT: Map217/events/5/pages/2/94/Dialogue/hyakki
-It is my own judgment that 'I' helped you ...
-I just acted as "Hyakki" in this world.#MTLed
+At the end of the day, helping ya out was my
+decision alone...
+
+It was my action as this world's "Hyakki".#Ron
 > END STRING
 
 > BEGIN STRING
@@ -418,9 +451,10 @@ I just acted as "Hyakki" in this world.#MTLed
 思惑通りだったのかもしれないねぇ……
 > CONTEXT: Map217/events/5/pages/1/100/Dialogue/hyakki
 > CONTEXT: Map217/events/5/pages/2/100/Dialogue/hyakki
-......... Well, but if you think now
-"That event" is also from the guys at Hell's Gate
-Maybe it was as expected ...#MTLed
+Well, thinking about it now...
+Everything that happened back then probably
+played out exactly as these Hell's Gate guys
+expected it would.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -429,7 +463,9 @@ Maybe it was as expected ...#MTLed
 ど、どういうこと……？
 > CONTEXT: Map217/events/5/pages/1/106/Dialogue/kazuya
 > CONTEXT: Map217/events/5/pages/2/106/Dialogue/kazuya
-Hell's Gate's ...? What kind of thing ...?#MTLed
+Hell's Gate's...?
+
+W-What do you mean...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -439,9 +475,10 @@ Hell's Gate's ...? What kind of thing ...?#MTLed
 全書を通じて『介入者』と繋がった。
 > CONTEXT: Map217/events/5/pages/1/110/Dialogue/hyakki
 > CONTEXT: Map217/events/5/pages/2/110/Dialogue/hyakki
-Think of it all. When you attack a demon at a
-naval station. It was connected with the
-"intervener" through the whole book.#MTLed
+Think about it. Back at the station when ya
+called out to the demons here, ya used the
+Compendium which was connected to the
+"Intervener".#Ron
 > END STRING
 
 > BEGIN STRING
@@ -451,10 +488,9 @@ naval station. It was connected with the
 いきなりよく知らない電話をかけるかい？
 > CONTEXT: Map217/events/5/pages/1/115/Dialogue/hyakki
 > CONTEXT: Map217/events/5/pages/2/115/Dialogue/hyakki
-However, it is impossible if you do not be aware
-of each other. If you compare, to the other party
-who does not know whether it exists,
-Do you make an unexpected phone call?#MTLed
+But that'd be impossible if ya two weren't aware
+of each other. For example, would ya suddenly
+phone someone ya didn't even know existed?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -463,9 +499,10 @@ Do you make an unexpected phone call?#MTLed
 『仕上げに向けた仕込み』だったんだとおもうヨ。
 > CONTEXT: Map217/events/5/pages/1/120/Dialogue/hyakki
 > CONTEXT: Map217/events/5/pages/2/120/Dialogue/hyakki
-That makes you recognize "someone who intervenes"
-... If it was "preparation for the finish", it is
-already yo.#MTLed
+That was all about making ya realize that there
+was someone intervening on your behalf.
+I think it was preparation aimed at getting ya
+over the finish line.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -474,8 +511,9 @@ already yo.#MTLed
 ホントに冥府の間のあの２人のシナリオ通りだったんだな…
 > CONTEXT: Map217/events/5/pages/1/125/Dialogue/kazuya
 > CONTEXT: Map217/events/5/pages/2/125/Dialogue/kazuya
-し 、 仕 .................. It was really the same
-as those two script of Hell's Gate ...#MTLed
+P-Preparation, huh...
+
+So it really was all part of their plan...#Ron
 > END STRING
 
 > BEGIN STRING
