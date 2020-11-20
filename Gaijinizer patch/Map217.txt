@@ -1145,7 +1145,9 @@ completely filled out.#Ron
 
 『キズナイベント』……ね………
 > CONTEXT: Map217/events/5/pages/1/420/Dialogue/hyakki
-uumph............ 'Bonding'...............#MTLed
+Hmmm...
+
+So it's time for the bonding event...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1153,13 +1155,15 @@ uumph............ 'Bonding'...............#MTLed
 
 この選択肢は無かったことで！！
 > CONTEXT: Map217/events/5/pages/1/425/Dialogue/hyakki
-............ After all! There was no choice! !#MTLed
+...Actually I think I'll pass on that!
+
+Your decision has been overwritten!#Ron
 > END STRING
 
 > BEGIN STRING
 \\{\\{はぁ！？
 > CONTEXT: Map217/events/5/pages/1/435/Dialogue/kazuya
-\\{\\{Hah! ?#MTLed
+\\{\\{Whaa?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1168,9 +1172,9 @@ uumph............ 'Bonding'...............#MTLed
 どうせ死ぬつもりだった訳だから、この機会に
  アンタの具現種に落ち着くのもアリかと思ったけど……
 > CONTEXT: Map217/events/5/pages/1/437/Dialogue/hyakki
-No, bad. I was going to die anyway, so on this
-occasion. I thought it would be an ant to settle
-in your tranformed species though ...#MTLed
+Yeah, sorry about that. Since I was going to die
+anyway, I thought it'd be a good chance to set
+things straight.#CheckLater
 > END STRING
 
 > BEGIN STRING
@@ -1179,9 +1183,9 @@ in your tranformed species though ...#MTLed
 
 もう少し『世界』を巡ってみたくなったんだよ……
 > CONTEXT: Map217/events/5/pages/1/443/Dialogue/hyakki
-Even after you overcome the fate of death
-Seeing to live desperately towards your goals ...
-I want to go around the world a little more ...#MTLed
+Seeing you overcome Death's Fate and fighting so
+desperately for your goals made me want to travel
+around the world a little more...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1190,10 +1194,9 @@ I want to go around the world a little more ...#MTLed
 けど、この『運命』ってのも、見方によっては
 まだまだ捨てたモンじゃないのかもなってね……
 > CONTEXT: Map217/events/5/pages/1/448/Dialogue/hyakki
-Well, maybe you were a special case ...
-However, depending on the point of view, this
-"fate". Maybe it's not Mon I've thrown it out yet
-...#MTLed
+Your situation might have been special, but
+depending on your point of view, "fate" isn't
+something so bad after all...#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -1202,10 +1205,10 @@ However, depending on the point of view, this
 一応、この部屋にはしばらくいるつもりだから！
 また搾られたくなったらいつでもおいでよ！
 > CONTEXT: Map217/events/5/pages/1/455/Dialogue/hyakki
-Oh! I have to say it instead! 
-After all, I will stay in this room for a while!
-Come again whenever you want to be squeezed
-again!#MTLed
+Well, though I've said all that, I still plan
+on staying in this room for at least a while
+longer, so feel free to come anytime ya want
+to be milked!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1214,9 +1217,8 @@ again!#MTLed
 この旅でアンタに示してもらった『運命』の
 お礼……ってことにしといておくれ。
 > CONTEXT: Map217/events/5/pages/1/460/Dialogue/hyakki
-That's right...Of "fate" which you showed to
-you on this trip. Thank you...and leave it to
-me.#MTLed
+Consider it thanks... for showing me the meaning
+of fate on this journey of mine.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -1225,8 +1227,10 @@ me.#MTLed
 もしまだ世界を巡るっていうのなら
 僕の方からも、一つだけお願いしてもいいかな…？
 > CONTEXT: Map217/events/5/pages/1/467/Dialogue/kazuya
-Hyakki ......... If you still go around the world
-Can I ask for one from me too ...?#MTLed
+Hyakki...
+
+If you're going to go around the world again, can
+I ask you for just one favor...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1234,8 +1238,8 @@ Can I ask for one from me too ...?#MTLed
 
 僕が…誰かを……みんなを傷付けている世界があったら……
 > CONTEXT: Map217/events/5/pages/1/472/Dialogue/kazuya
-If...in the world...I...somebody...if
-there is a world that is hurting everyone ......#MTLed
+If there's ever... a world where I'm... hurting
+others...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1244,8 +1248,9 @@ there is a world that is hurting everyone ......#MTLed
 僕を、止めて欲しい……
 たとえ、命を奪ってでも………
 > CONTEXT: Map217/events/5/pages/1/476/Dialogue/kazuya
-It is a wish ......... I want you to stop me ...
-Even if I took my life .........#MTLed
+I want you to please stop me...
+
+Even if you have to take my life...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1254,9 +1259,10 @@ Even if I took my life .........#MTLed
 『約束』は、できないよ。
 そんな世界、関わるのはアタシの方から願い下げだからね…
 > CONTEXT: Map217/events/5/pages/1/484/Dialogue/hyakki
-............ You can not do "promises".
-In such a world, it is because it is wished from
-'I' to be involved ...#MTLed
+...I can't promise that.
+
+That's the kind of world I would simply leave and
+not get involved in...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1264,8 +1270,9 @@ In such a world, it is because it is wished from
 
 出来る限りのことはしてやろうじゃないか。
 > CONTEXT: Map217/events/5/pages/1/489/Dialogue/hyakki
-But..."This world's" is your request.
-I will do as much as I can.#MTLed
+But... this is a request from this world's you.
+
+I'll do what I can...#Ron
 > END STRING
 
 > BEGIN STRING
