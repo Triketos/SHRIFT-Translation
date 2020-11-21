@@ -2,25 +2,25 @@
 > BEGIN STRING
 どうしてここに？
 > CONTEXT: Map218/events/1/pages/0/4/Choice/0
-Why are you here?#MTLed
+Why Are You Here?#Ron
 > END STRING
 
 > BEGIN STRING
 \\N[1]への気持ち
 > CONTEXT: Map218/events/1/pages/0/4/Choice/1
-My feelings for \\N[1]#MTLed
+Feelings For Me#Ron
 > END STRING
 
 > BEGIN STRING
 これからどうするの？
 > CONTEXT: Map218/events/1/pages/0/4/Choice/2
-What do you do from now on?#MTLed
+What Next?#Ron
 > END STRING
 
 > BEGIN STRING
 【レミエル】種族：天使
 > CONTEXT: Map218/events/1/pages/0/6/ChoiceHelp
-【Remiel】 Tribe: Angel#MTLed
+【Ramiel】 Tribe: Angel#Ron
 > END STRING
 
 > BEGIN STRING
@@ -28,7 +28,9 @@ What do you do from now on?#MTLed
 
 どうしてここに……！！
 > CONTEXT: Map218/events/1/pages/0/10/Dialogue/kazuya
-Reina ......! ? Why are you here……! !#MTLed
+R-Reina...?!
+
+Why are you here...?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -37,9 +39,10 @@ Reina ......! ? Why are you here……! !#MTLed
  \\N[1]の魂に定着した
 『レミエル』という天使の魔力…………
 > CONTEXT: Map218/events/1/pages/0/14/Dialogue/other5
-...... I am not exactly Reina.
-Established in the soul of \\N[1]
-The magic of the angel "Remiel" .........#MTLed
+I'm not actually Reina.
+
+I'm the magic of the angel Ramiel that has stuck
+to your soul...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -48,9 +51,10 @@ The magic of the angel "Remiel" .........#MTLed
 
 だから、レイナの意思を、代弁できる。
 > CONTEXT: Map218/events/1/pages/0/19/Dialogue/other5
-However, because the connection between magic is
-strong. I am connected to "Reina" .....
-So I can speak for Reina's intention.#MTLed
+However, as the magic connected between us is so
+powerful, Reina and I share a bond.
+
+Thus I'm able to speak on her behalf.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -59,8 +63,8 @@ So I can speak for Reina's intention.#MTLed
 \\N[1]に伝えたいことを伝えるために
  この空間に現れさせてもらった。
 > CONTEXT: Map218/events/1/pages/0/24/Dialogue/other5
-She is you ......... To tell \\N[1] what you want
-to convey. I was allowed to appear in this space.#MTLed
+I have appeared in this space in order for her to
+convey anything she would like you to know.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -69,8 +73,8 @@ to convey. I was allowed to appear in this space.#MTLed
 『レイナじゃないけど、レイナの事を聞いたら答える』
 ってこと……？
 > CONTEXT: Map218/events/1/pages/0/30/Dialogue/kazuya
-Hmmm ......... "It's not Reina, but I will answer
-if I hear about Reina". What ...?#MTLed
+Err... so in other words you're not Reina but you
+can answer any questions I have about her...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -78,8 +82,9 @@ if I hear about Reina". What ...?#MTLed
 
 もっとも、お前に関しての思考に限定されるがな……
 > CONTEXT: Map218/events/1/pages/0/35/Dialogue/other5
-Such recognition does not matter.
-However, I'm limited to thinking about you ...#MTLed
+If that's the way you wish to think of it.
+
+I am limited to knowledge regarding you, though...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -88,9 +93,10 @@ However, I'm limited to thinking about you ...#MTLed
 スリーサイズや、好きな食べ物なんかは
 本人に直接聞いてくれ。
 > CONTEXT: Map218/events/1/pages/0/39/Dialogue/other5
-But more Spongebob's Reina information ...
-Three size and favorite food. Please ask him
-directly.#MTLed
+If you're interested in her more private
+information such as her three sizes, favorite
+foods and so on, you're better off asking her
+directly.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -98,14 +104,16 @@ directly.#MTLed
 
 さすがにそういうことは……
 > CONTEXT: Map218/events/1/pages/0/45/Dialogue/kazuya
-No, no, I won't ask you...That's true ...#MTLed
+N-No I wasn't going to ask about that...
+
+That'd be kinda...#Ron
 > END STRING
 
 > BEGIN STRING
 （この反応に困る系の冗談……間違いなくレイナだ……）
 > CONTEXT: Map218/events/1/pages/0/49/Dialogue/kazuya
-(A joke about a system that suffers from this
-reaction ..... definitely Reina ...)#MTLed
+(It's definitely Reina if it's making those kinds
+of off-color jokes...)#Ron
 > END STRING
 
 > BEGIN STRING
@@ -113,8 +121,8 @@ reaction ..... definitely Reina ...)#MTLed
 
  お前の精神の空間は、ずいぶん賑やかになったな。
 > CONTEXT: Map218/events/1/pages/0/55/Dialogue/other5
-\\N[1], while not looking at a little
-The space of your spirit has become very busy.#MTLed
+\\N[1], this mental space of yours has grown
+quite lively in the short time I wasn't watching.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -122,8 +130,10 @@ The space of your spirit has become very busy.#MTLed
 
  ずいぶんとモテモテになったものだ。
 > CONTEXT: Map218/events/1/pages/0/59/Dialogue/other5
-Some of you have relationships like you and love
-It has become quite popular.#MTLed
+Some of your relationships appear to be that of
+a couple in love.
+
+You've become quite popular.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -131,7 +141,9 @@ It has become quite popular.#MTLed
 
 これは……その………
 > CONTEXT: Map218/events/1/pages/0/64/Dialogue/kazuya
-No………. This is...that......#MTLed
+N-No...
+
+T-That's, umm...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -139,9 +151,10 @@ No………. This is...that......#MTLed
 
 というより、この空間ではそのような行為は無意味だ。
 > CONTEXT: Map218/events/1/pages/0/68/Dialogue/other5
-You don't have to hide your emotions.
-Rather, such actions are meaningless in this
-space.#MTLed
+You don't have to hide your feelings.
+
+In fact, such behavior is meaningless in this
+space.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -149,9 +162,9 @@ space.#MTLed
 
 だから、彼女の前でも、感情を隠す必要はない。
 > CONTEXT: Map218/events/1/pages/0/72/Dialogue/other5
-Reina also congratulates you on their
-relationship. So even before her, there is no
-need to hide her emotions.#MTLed
+Even Reina has given her blessing to these
+relationships, so there's no need to hide your
+feelings from her either.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -159,7 +172,9 @@ need to hide her emotions.#MTLed
 
 それはそれで怖いんですけど……！
 > CONTEXT: Map218/events/1/pages/0/77/Dialogue/kazuya
-eh……! ? Reina is ...! ? I'm scared that, but ...!#MTLed
+Huh...?! She has...?!
+
+That in itself is kinda scary...!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -168,10 +183,10 @@ eh……! ? Reina is ...! ? I'm scared that, but ...!#MTLed
 
  だから、レイナは彼女達に嫉妬する感情も抱かない。
 > CONTEXT: Map218/events/1/pages/0/82/Dialogue/other5
-You don't need to be afraid ......... Reina has
-the emotions you hold on you. I do not think
-so-called "love" defined by people
-So, Reina has no feelings of jealousy to them.#MTLed
+There's no need to be afraid... I do not believe
+the feelings she has for you could be encapsulated
+by the human definition of "love". That's why she
+doesn't feel any jealousy towards the girls here.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -180,15 +195,16 @@ So, Reina has no feelings of jealousy to them.#MTLed
 それは、どちらかといえば、天使の思考に近い
 『アガペー（無償の愛）』………
 > CONTEXT: Map218/events/1/pages/0/87/Dialogue/other5
-The emotions that Reina has in you today
-......... It's rather like angel thinking
-"Agape (free love)" .........#MTLed
+If you had to put it in a word, what Reina feels
+for you would be "Agape", or unconditional love,
+which is a lot closer to an angel's way of
+thinking.#Ron
 > END STRING
 
 > BEGIN STRING
 アガペー………？
 > CONTEXT: Map218/events/1/pages/0/92/Dialogue/kazuya
-Agape......?#MTLed
+Agape...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -197,10 +213,10 @@ Agape......?#MTLed
 その罪悪感から、お前の成長を最期まで見守ろうと
 自決を先延ばしにして、地上に居続けた。
 > CONTEXT: Map218/events/1/pages/0/94/Dialogue/other5
-Reina was guilty of killing your parents.
-From guilt, I will try to watch your growth to
-the end. I kept on the ground with a delay in my
-self-determination.#MTLed
+She felt the sin of killing your parents.
+
+That guilt then led her to delay the ending of
+her own life to live on Earth watching over you.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -209,20 +225,23 @@ self-determination.#MTLed
 
  自分の罪を、お前や、自分自身が許せるようにと……
 > CONTEXT: Map218/events/1/pages/0/99/Dialogue/other5
-However, is it ...... She has tried to "confess".
-To forgive you and your own sins ...#MTLed
+But then of all things, she tried to repent for
+her sins.
+
+She wanted you to forgive her...#Ron
 > END STRING
 
 > BEGIN STRING
 その結果が……今回の出来事だ……
 > CONTEXT: Map218/events/1/pages/0/104/Dialogue/other5
-The result is...this event ...#MTLed
+The result of which being the events that played
+out after you woke...#Ron
 > END STRING
 
 > BEGIN STRING
 で、でも………！？
 > CONTEXT: Map218/events/1/pages/0/106/Dialogue/kazuya
-Well, but.........! ?#MTLed
+B-But that's...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -231,9 +250,9 @@ Well, but.........! ?#MTLed
 お前がメシア・プロジェクトに選ばれることや
  あの街の脱出劇に、変わりはなかったかもしれない。
 > CONTEXT: Map218/events/1/pages/0/108/Dialogue/other5
-I know. That you will be selected as a Messiah
-project. The escape play of that city may not
-have changed.#MTLed
+I know. Her decisions may have had no impact on
+you being chosen for the Messiah Project, nor on
+your escape through the city.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -242,9 +261,9 @@ have changed.#MTLed
 彼女は今後、お前の前に現れることはあっても
 決して恋人としては振る舞わないだろう。
 > CONTEXT: Map218/events/1/pages/0/113/Dialogue/other5
-But she doesn't think so. She will appear in
-front of you from now on. I will never act as a
-lover.#MTLed
+But that's not how she sees it. If you ever see
+her again, she probably won't act like your
+lover.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -252,8 +271,10 @@ lover.#MTLed
 
 お前を『見守る』天使として、近くに居続ける………
 > CONTEXT: Map218/events/1/pages/0/118/Dialogue/other5
-Originally, she wanted...Keep you close as an
-angel "watch over" you .........#MTLed
+From the start, all she ever wanted...
+
+Was to watch over you close by as your guardian
+angel...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -262,9 +283,9 @@ angel "watch over" you .........#MTLed
 レイナはどうであれ、少なくとも僕は
 彼女を恋人として見ていたし………
 > CONTEXT: Map218/events/1/pages/0/123/Dialogue/kazuya-a
-............ That is...but a little lonely ...
-No matter how Reina, at least I
-I saw her as a lover .........#MTLed
+That's... a little sad...
+
+No matter what, I'll always see her as my lover.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -272,8 +293,9 @@ I saw her as a lover .........#MTLed
 
 『大切な人』であるのは変わらないのに…
 > CONTEXT: Map218/events/1/pages/0/128/Dialogue/kazuya-a
-Even now………. It does not change that it is "the
-important person" ...#MTLed
+Even now...
+
+She's an irreplaceable person to me...#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -281,8 +303,9 @@ important person" ...#MTLed
 
 彼女にとっても、お前は今でも『大切な存在』だ。
 > CONTEXT: Map218/events/1/pages/0/133/Dialogue/other5
-........... There is no need to be disappointed
-Even for her, you are still "important."#MTLed
+...There's no need to be so disheartened.
+
+You're still very important to her.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -290,8 +313,8 @@ Even for her, you are still "important."#MTLed
 
 彼女は純粋に『お前の幸せ』を願っている。
 > CONTEXT: Map218/events/1/pages/0/137/Dialogue/other5
-I wanted to tell...She purely wishes for "Your
-happiness."#MTLed
+What I'm trying to tell you is that she wishes
+purely for your happiness.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -299,8 +322,8 @@ happiness."#MTLed
 
 彼女はそれだけで………救われるんだ。
 > CONTEXT: Map218/events/1/pages/0/141/Dialogue/other5
-If you are happy in front of Reina
-She alone is saved ....#MTLed
+If she sees that you're living a happy live, that
+alone will be her salvation...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -308,9 +331,10 @@ She alone is saved ....#MTLed
 
  僕とニーナたちと一緒に、あの事務所に住む気はない…？
 > CONTEXT: Map218/events/1/pages/0/149/Dialogue/kazuya
-What is Reina going to do in the future?
-I'm not going to live in that office with me and
-Ninas ...?#MTLed
+What's Reina going to do from now on?
+
+Is she going to come live with me and the other
+girls in the office?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -319,8 +343,9 @@ Ninas ...?#MTLed
  日常生活に干渉することは、もう考えていないだろう。
 > CONTEXT: Map218/events/1/pages/0/154/Dialogue/other5
 Reina has decided to just watch over you.
-You will not think about interfering with
-everyday life any more.#MTLed
+
+She is likely no longer thinking of interfering
+in your daily life anymore.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -329,9 +354,10 @@ everyday life any more.#MTLed
 天使が人間に一杯食わされたままでは
 腹の虫がおさまらない。
 > CONTEXT: Map218/events/1/pages/0/159/Dialogue/other5
-But...but despite being exiled
-If the angel is eaten by human beings
-I can't stop my stomach bug.#MTLed
+However, the fact that she let herself be
+deceived by humans has her angry beyond measure.
+She may be an exiled angel, but she still has her
+angelic pride.#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -340,16 +366,15 @@ I can't stop my stomach bug.#MTLed
  お前の依頼の助太刀という形か、独自の情報網で
  お前の協力者として同行するだろう。
 > CONTEXT: Map218/events/1/pages/0/164/Dialogue/other5
-You guys ......... M. O. Until we destroy W
-In the form of the Savior of your request, or in
-your own information network. I will accompany
-you as your collaborator.#MTLed
+Until you destroy them, destroy M.O.W., she will
+provide assistance on your jobs, or collaborate
+using her personal information network.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
 け、結構感情的な動機だね………
 > CONTEXT: Map218/events/1/pages/0/169/Dialogue/kazuya
-Well, that's a pretty emotional motive .........#MTLed
+T-That's a pretty emotionally-driven motive...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -357,15 +382,15 @@ Well, that's a pretty emotional motive .........#MTLed
 
  レイナって戦うことはできるの…？
 > CONTEXT: Map218/events/1/pages/0/173/Dialogue/kazuya
-But...even now, "Angel's magic" is gone
-Can you fight like Reina ...?#MTLed
+But... can she still fight even without her
+angelic magic...?#Ron
 > END STRING
 
 > BEGIN STRING
 魔法も使えないし、その姿になることも出来ないよね…？
 > CONTEXT: Map218/events/1/pages/0/177/Dialogue/kazuya
-You can't use magic, nor can you become that
-figure ...?#MTLed
+She can't use magic anymore, and that form she's
+taken can't do a whole lot...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -373,8 +398,8 @@ figure ...?#MTLed
 
 ただの人間に戻ったお前が言うのか？
 > CONTEXT: Map218/events/1/pages/0/179/Dialogue/other5
-...... It loses its magic power
-Did you say you're back to just humans?#MTLed
+Would you say that about yourself when you lost
+your magic and returned to being a normal human?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -382,9 +407,10 @@ Did you say you're back to just humans?#MTLed
 
  魔力がなくとも、人間とは身体の構造自体が違う。
 > CONTEXT: Map218/events/1/pages/0/183/Dialogue/other5
-Reina is an angel who is "pretending to be
-human.". Even if there is no magical power, the
-body itself is different from humans.#MTLed
+Reina is an angel in the form of a human.
+
+Even without magic, her body is built differently
+to that of a human's.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -393,10 +419,10 @@ body itself is different from humans.#MTLed
 
 この状態でも、身体能力は人間の約五倍だ。
 > CONTEXT: Map218/events/1/pages/0/187/Dialogue/other5
-The healing of the body is delayed without magic
-but. He does not shed blood nor sweat.
-Even in this state, the physical ability is about
-five times that of humans.#MTLed
+Physical damage is slow to heal without magic,
+but she doesn't bleed or sweat. Even in her
+current state, her abilities are about five
+times that of a human.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -404,9 +430,10 @@ five times that of humans.#MTLed
 
  結博士の発明品もあるしな………
 > CONTEXT: Map218/events/1/pages/0/192/Dialogue/other5
-In any case, the demon class won't lose to the
-average demon. There is also an invention of Dr.
-Yui ..........#MTLed
+She wouldn't lose to the like of a Demon King,
+let alone an ordinary demon.
+
+And then there are Professor Yui's inventions...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -415,8 +442,9 @@ Yui ..........#MTLed
 
 なんだかんだで、性能はいいからな……
 > CONTEXT: Map218/events/1/pages/0/197/Dialogue/kazuya
-Oh, I use it ...... Invention of Dr. Yui
-.......... Somehow, the performance is good ...#MTLed
+Huh, so she does use them, those inventions...
+
+I don't know how, but they work pretty well...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -425,11 +453,10 @@ Oh, I use it ...... Invention of Dr. Yui
 少なくとも、魔法の使えない状態で
 確実な効果の期待できる魔術品はありがたい。
 > CONTEXT: Map218/events/1/pages/0/202/Dialogue/other5
-Certainly...the past is only past, I can not
-deny the shady smell...At least, in a state
-where magic can not be used. The magic products
-that can be expected to have a certain effect are
-appreciated.#MTLed
+Certainly given her past, those devices are quite
+suspect. But given her inability to use magic,
+anything that can be relied on to produce results
+is appreciated.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -437,8 +464,10 @@ appreciated.#MTLed
 
  悪魔と戦うためには、人間の武器では役不足だからな
 > CONTEXT: Map218/events/1/pages/0/207/Dialogue/other5
-You are also indebted? In order to fight demons,
-human weapons are not enough#MTLed
+You've relied on her as well, have you not?
+
+Human weapons have proved insufficient for
+battling demons.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -447,10 +476,10 @@ human weapons are not enough#MTLed
 いくら肉体や精神が悪魔との戦いに慣れていても
 脆い人間の肉体だと言うことを忘れるなよ。
 > CONTEXT: Map218/events/1/pages/0/211/Dialogue/other5
-Rather, I am worried about you.
-No matter how much your body and spirit are used
-to fighting demon. Don't forget to say that it is
-a fragile human body.#MTLed
+Rather, it's you I'm worried about. No matter how
+used your body and mind becomes to battling
+demons, don't forget that your body is that of a
+fragile human.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -458,5 +487,7 @@ a fragile human body.#MTLed
 
 気をつけるよ………
 > CONTEXT: Map218/events/1/pages/0/216/Dialogue/kazuya
-That's right ......... I'll be careful .........#MTLed
+Y-You're right...
+
+I'll be careful...#Ron
 > END STRING
