@@ -157,7 +157,8 @@ milkingen(v[55] \>= 80)#MTLed
 > BEGIN STRING
 【百鬼】種族：鬼
 > CONTEXT: Map217/events/5/pages/0/33/ChoiceHelp
-[Hyakki] race: demon#MTLed
+[Hyakki] Tribe: Oni
+Current Friendship: \\C[2]\\v[55]\\C[0]#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1071,7 +1072,7 @@ I feel like that.#MTLed
 > BEGIN STRING
 【キズナイベント】if(v[55] \>= 99) 
 > CONTEXT: Map217/events/5/pages/1/414/Choice/0
-【Bonding】if(v[55] \>= 99)#MTLed
+[Bonding]if(v[55] \>= 99)#Ron
 > END STRING
 
 > BEGIN STRING

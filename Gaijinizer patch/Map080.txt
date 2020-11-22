@@ -36,7 +36,8 @@ Milkingen(v[47] \>= 50)#Ron
 > BEGIN STRING
 【躯】種族：妖魔
 > CONTEXT: Map080/events/5/pages/0/33/ChoiceHelp
-[Mukuro] Tribe: Ghost#Ron
+[Mukuro] Tribe: Apparition
+Current Friendship: \\C[2]\\v[47]\\C[0]#Ron
 > END STRING
 
 > BEGIN STRING
@@ -563,7 +564,7 @@ That god-damned Professor...!!#Ron
 > BEGIN STRING
 【キズナイベント】if(v[47] \>= 99) 
 > CONTEXT: Map080/events/5/pages/1/219/Choice/0
-【Bonding】if(v[47] \>= 99)#MTLed
+[Bonding]if(v[47] \>= 99)#Ron
 > END STRING
 
 > BEGIN STRING
