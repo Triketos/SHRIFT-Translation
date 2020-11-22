@@ -278,8 +278,10 @@ No………#MTLed
 
 あなたの力なら、助けられたかもしれないのに！
 > CONTEXT: Map107/events/5/pages/6/1/Dialogue/enemy13
-...... why did you kill him! ?
-Your power may have helped you!#MTLed
+...Why did you let him die?!
+
+With your power, you might've been able to save
+him!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -287,7 +289,9 @@ Your power may have helped you!#MTLed
 
 あのパイロットのことか。
 > CONTEXT: Map107/events/5/pages/6/6/Dialogue/kazuya-3
-"he"………? Is that a pilot?#MTLed
+"Him"...?
+
+You mean that pilot?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -295,8 +299,9 @@ Your power may have helped you!#MTLed
 
 かわいそうに……彼、怯えていたわ…………
 > CONTEXT: Map107/events/5/pages/6/10/Dialogue/enemy12
-Originally speaking, that helicopter is...you
-dropped it...Poor...he was scared .........#MTLed
+Weren't you the one who made it crash...?
+
+The poor thing... he was so scared...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -304,8 +309,10 @@ dropped it...Poor...he was scared .........#MTLed
 
  彼の姿を見て、なにも思わなかったの……？
 > CONTEXT: Map107/events/5/pages/6/14/Dialogue/enemy13
-You...what a human being? I saw him and I
-didn't think anything ...#MTLed
+You're a human, aren't you...?
+
+Didn't seeing him like that make you feel
+anything?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -313,8 +320,9 @@ didn't think anything ...#MTLed
 
  僕は、ユウマの元にたどり着きたいだけだ。
 > CONTEXT: Map107/events/5/pages/6/18/Dialogue/kazuya-3
-... why do you need to help? I just want to get
-to Yuuma.#MTLed
+...Why was there a need to help him?
+
+I just want to get to Yuuma.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -322,21 +330,22 @@ to Yuuma.#MTLed
 
 それに、アイツは僕の助けを拒んだ。
 > CONTEXT: Map107/events/5/pages/6/22/Dialogue/kazuya-3
-There is absolutely no merit to fight that demon.
-Also, he refused my help.#MTLed
+There's no benefit in fighting that demon.
+
+And he stopped me from helping anyway.#Ron
 > END STRING
 
 > BEGIN STRING
 元々敵側の人間だし、僕には死んでもらった方が…
 > CONTEXT: Map107/events/5/pages/6/26/Dialogue/kazuya-3
-Originally a human being on the enemy side, I
-have been killed by me ...#MTLed
+Besides, he was an enemy, I'd much rather
+he was dead...#Ron
 > END STRING
 
 > BEGIN STRING
 『死んでいい人間』なんて、いるわけないじゃない！
 > CONTEXT: Map107/events/5/pages/6/28/Dialogue/enemy13
-"Don't be a good human being", I can not help!#MTLed
+There's no such thing as a human who should die!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -345,8 +354,10 @@ have been killed by me ...#MTLed
 人間は……もっと優しいはずでしょう……？
 どうしてそんなに歪んでしまったの…
 > CONTEXT: Map107/events/5/pages/6/30/Dialogue/enemy12
-What's up...you...... Humans...should be
-more gentle ...? Why is it so distorted ...#MTLed
+What's wrong with you...?
+
+Humans are supposed to be nicer than this...
+Why are you so twisted...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -354,9 +365,10 @@ more gentle ...? Why is it so distorted ...#MTLed
 
 悪魔に人間の何が分かるっていうんだ？
 > CONTEXT: Map107/events/5/pages/6/36/Dialogue/kazuya-3
-Do not use the same kind of mouth as you already
-know...What does human beings understand to
-demon?#MTLed
+Don't talk to me like you actually know
+anything...
+
+What would a demon know about humanity?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -364,9 +376,10 @@ demon?#MTLed
 
  文句があるなら、お前も殺すぞ………
 > CONTEXT: Map107/events/5/pages/6/40/Dialogue/kazuya-3
-I'm sorry, "reasons" are weird.
-If you have any complaints, you will kill
-.........#MTLed
+I'm sick and tired of having to give you all
+"reasons"...
+
+If you have a problem I'll kill you here and now.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -562,8 +575,8 @@ I'm sorry.#Ron
 
  じっと\\N[1]を凝視している……
 > CONTEXT: Map107/events/5/pages/10/2/Dialogue
-The mermaid demon has a steep look. I'm staring closely at
-\\N[1] ...#MTLed
+The mermaid demon is staring at me with a grim look on
+her face...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -991,9 +1004,8 @@ That's because...#Ron
 私に病ミ付きになルんでスもの……！
 > CONTEXT: Map107/events/9/pages/0/151/Dialogue/enemy13
 > CONTEXT: Map107/events/9/pages/2/118/Dialogue/enemy13
-From NOW on, you're
-
-going to FALL head over HEELS for me...!#Ron
+FrOm noW on, You'Re gOINg to fAll hEAd over heELS
+foR mE...!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1236,7 +1248,7 @@ storage box, too!#Ron
 \\N[1]は、水たまりのような場所で転んでしまった！！
 > CONTEXT: Map107/events/9/pages/1/9/Dialogue
 > CONTEXT: Map107/events/9/pages/2/9/Dialogue
-\\N[1] has fallen in a place like a puddle! !#MTLed
+\\N[1] has slipped in some kind of puddle!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1329,8 +1341,9 @@ I think that \\N[1] is the "exclusive object".#MTLed
 
 身体能力は、まだ普通のままだったのね。
 > CONTEXT: Map107/events/9/pages/2/62/Dialogue/enemy13
-Was good………. Your physical ability was still
-normal.#MTLed
+Thank goodness...
+
+Your physical abilities are still normal.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1338,14 +1351,14 @@ normal.#MTLed
 
  どうしようかと不安だったの………
 > CONTEXT: Map107/events/9/pages/2/66/Dialogue/enemy13
-If even my mucus did not work. 
-I was worried about what to do .........#MTLed
+I was worried that even my mucus wouldn't have
+an effect on you...#Ron
 > END STRING
 
 > BEGIN STRING
 お前………！！
 > CONTEXT: Map107/events/9/pages/2/70/Dialogue/kazuya-3
-you………! !#MTLed
+You bitch...!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1353,14 +1366,15 @@ you………! !#MTLed
 
 すぐに『いい人』に治してあげるから……
 > CONTEXT: Map107/events/9/pages/2/97/Dialogue/enemy13
-Okay, leave it to me...\\N[1]
-Because I'll be cured into a good person soon ...#MTLed
+It's okay, leave it to me... \\N[1].
+
+I'll turn you back into a good person again...#Ron
 > END STRING
 
 > BEGIN STRING
 な、なんで僕の名前を…！？
 > CONTEXT: Map107/events/9/pages/2/101/Dialogue/kazuya-0
-Why, my name ...! ?#MTLed
+H-How do you know my name...?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1369,9 +1383,9 @@ Why, my name ...! ?#MTLed
 ここを通る『\\N[1]』って人間を
 私の理想の人間に『書き換えて』ほしいって……
 > CONTEXT: Map107/events/9/pages/2/103/Dialogue/enemy12
-I was asked by a demon .........
-"\\N[1]" passing through here is a human
-I want my ideal person to "rewrite" ...#MTLed
+A certain demon asked me to "rewrite" a human
+who would be passing by named "\\N[1]". They told
+me to make him into my ideal human...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1379,14 +1393,15 @@ I want my ideal person to "rewrite" ...#MTLed
 
 すぐに気持ちよくなるわ………
 > CONTEXT: Map107/events/9/pages/2/114/Dialogue/enemy13
-All right ..... I'm scared only for a moment ...
-It will feel good soon......#MTLed
+It's okay, it's only scary for a moment...
+
+You'll start feeling really good soon...#Ron
 > END STRING
 
 > BEGIN STRING
 …………大丈夫か、\\N[1]。
 > CONTEXT: Map107/events/9/pages/2/153/Dialogue/yuuma
-............ Okay, \\N[1].#MTLed
+...Are you okay, \\N[1]?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1394,8 +1409,10 @@ It will feel good soon......#MTLed
 
  殺さずにおいてやれば、すぐこれだ……
 > CONTEXT: Map107/events/9/pages/2/157/Dialogue/kazuya-3
-Crap...... give up......! 
-If you do without killing, it is immediately ...#MTLed
+Damn... I underestimated it...!
+
+This is what happens when you don't kill them
+straight away...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1403,8 +1420,10 @@ If you do without killing, it is immediately ...#MTLed
 
 この水路の悪魔を………全て……！！
 > CONTEXT: Map107/events/9/pages/2/161/Dialogue/kazuya-3
-I'm killing ............ Demon of this water
-channel...... all ...! !#MTLed
+They'll pay for this...
+
+I'll kill every single one of the demons in
+these waterways!#Ron
 > END STRING
 
 > BEGIN STRING

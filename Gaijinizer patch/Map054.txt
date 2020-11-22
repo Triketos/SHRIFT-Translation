@@ -608,8 +608,8 @@ disappeared...#Triketos
 > BEGIN STRING
 地面に落ちた\\C[2]『裏路地のカギ』\\C[0]を拾った。
 > CONTEXT: Map054/events/1/pages/2/85/Dialogue
-I picked up the\\C[2] "Back Alley Key"\\C[0] that had
-fallen to the ground.#Triketos
+I picked up the\\C[2] "Back Alley Key"\\C[0] that had fallen to
+the ground.#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -617,7 +617,9 @@ fallen to the ground.#Triketos
 
 ねぇ、大丈夫……？
 > CONTEXT: Map054/events/1/pages/2/107/Dialogue/enemy7
-Liz .........? Hey, okay ...?#MTLed
+Liz...!
+
+Hey, are you okay...?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -625,17 +627,18 @@ Liz .........? Hey, okay ...?#MTLed
 
 さすがの私も、予想できなかったよ………
 > CONTEXT: Map054/events/1/pages/2/111/Dialogue/enemy7
-No way, no question and no use .........
-As expected, I was not able to predict it either
-.........#MTLed
+There's no arguing it...
+
+Even I didn't see that coming...#Ron
 > END STRING
 
 > BEGIN STRING
 ごめんね、ハル……
 アンタとは、ここまでみたいだ……
 > CONTEXT: Map054/events/1/pages/2/115/Dialogue/enemy7
-Sorry, Haru ...... You are looking forward to
-here ...#MTLed
+Sorry, Haru...
+
+Looks like this is it for me...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -643,7 +646,9 @@ here ...#MTLed
 
 何言ってるの…リズ…
 > CONTEXT: Map054/events/1/pages/2/118/Dialogue/enemy7
-Eh...lie ...? What are you saying...Liz ...#MTLed
+N-No way...
+
+What're you saying, Liz...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -651,14 +656,15 @@ Eh...lie ...? What are you saying...Liz ...#MTLed
 
 １人でも…
 > CONTEXT: Map054/events/1/pages/2/122/Dialogue/enemy7
-...... ...... All right...If you ......
-Even one person ...#MTLed
+...You'll be okay...
+
+Even by yourself...#Ron
 > END STRING
 
 > BEGIN STRING
 私が教えたこと、ちゃんと守るんだよ……
 > CONTEXT: Map054/events/1/pages/2/126/Dialogue/enemy7
-I will protect what I taught, ......#MTLed
+Don't forget what I taught you...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -666,14 +672,15 @@ I will protect what I taught, ......#MTLed
 
 私を置いていかないで…リズ…！！
 > CONTEXT: Map054/events/1/pages/2/132/Dialogue/enemy8
-Yay...no no no!!! Liz!!Don't leave me ...
-Liz ...! !#MTLed
+NO!! No no no!!!! Liz!!!
+
+Don't leave me...!! Liz ...!!#Ron
 > END STRING
 
 > BEGIN STRING
 待ってよ………
 > CONTEXT: Map054/events/1/pages/2/148/Dialogue/enemy8
-wait………#MTLed
+Hold it...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -682,8 +689,10 @@ wait………#MTLed
 お前も僕の邪魔をするのか？
 さっきの奴のようになりたいのか？
 > CONTEXT: Map054/events/1/pages/2/150/Dialogue/kazuya-3
-...... Do not mind. Do you bother me?
-Do you want to be like the previous one?#MTLed
+Move....
+
+Are you planning on getting in my way? Do you
+want to end up like your little friend back there?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -691,8 +700,10 @@ Do you want to be like the previous one?#MTLed
 
 ちゃんと言えば、鍵は返してあげたのに……
 > CONTEXT: Map054/events/1/pages/2/155/Dialogue/enemy8
-Liz...what did Liz do...Speaking of what, I
-gave back the key ...#MTLed
+What did Liz ever do to you...?
+
+She would've given you the key if you'd just
+asked...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -700,8 +711,10 @@ gave back the key ...#MTLed
 
  悪魔を平気で手にかけて………
 > CONTEXT: Map054/events/1/pages/2/159/Dialogue/enemy8
-You...are not guilty ...? Let's hand over the
-demon .........#MTLed
+Don't you feel even a twinge of guilt...?
+
+You killed her with your own hands without
+batting an eyelid.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -709,7 +722,10 @@ demon .........#MTLed
 
  悪魔に罪悪感を説かれるなんて、笑い話だな。
 > CONTEXT: Map054/events/1/pages/2/164/Dialogue/kazuya-3
-Ha! It's a laugh to be told guilty to demons.#MTLed
+Ha!
+
+A demon preaching about feeling guilt? What a
+joke.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -717,8 +733,9 @@ Ha! It's a laugh to be told guilty to demons.#MTLed
 
  罪もない人間に手をかけて、罪悪感はないのか？
 > CONTEXT: Map054/events/1/pages/2/168/Dialogue/kazuya-3
-How are you guys? Is there no guilty feeling for
-the innocent man?#MTLed
+What about you bastards? You kill humans with
+your own hands without hesitation. Where's your
+sense of guilt, huh?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -726,8 +743,8 @@ the innocent man?#MTLed
 
 何人も人間を殺してきたんだろう？
 > CONTEXT: Map054/events/1/pages/2/172/Dialogue/kazuya-3
-Anyway in the way. How many people have killed
-humans?#MTLed
+Just how many humans have you killed with that
+little routine you tried to pull on me back there?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -736,9 +753,10 @@ humans?#MTLed
 貴様らは悪魔、僕は人間だ。
  住んでいる世界が、そもそも違う。
 > CONTEXT: Map054/events/1/pages/2/177/Dialogue/kazuya-3
-I can not feel it...You guys are demons, I am
-human. The world in which you live is different
-from the beginning.#MTLed
+You don't feel a thing, do you...?
+
+You scum are demons, and I'm a human, and we live
+in very different worlds.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -746,8 +764,8 @@ from the beginning.#MTLed
 
  化け物め……！！！
 > CONTEXT: Map054/events/1/pages/2/182/Dialogue/kazuya-3
-Kill me sloppyly and return to Demon Realm! !
-Monster monster ...!!!#MTLed
+So how about I kill you and send you back to the
+Demon Realm, you fucking monster...!!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -755,8 +773,9 @@ Monster monster ...!!!#MTLed
 
 リズはそんな私を気遣って、あんな事だって……
 > CONTEXT: Map054/events/1/pages/2/187/Dialogue/enemy8
-I feel...about guilt...Liz cares about me
-like that, it's such a thing ...#MTLed
+I do... feel guilt...
+
+Liz looked after me so much...#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -764,9 +783,9 @@ like that, it's such a thing ...#MTLed
 
 笑って許して……黙って気遣ってくれたんだ……
 > CONTEXT: Map054/events/1/pages/2/191/Dialogue/enemy8
-Liz, what kind of mess I did. 
-Laughter and forgive me...I was silent and
-caring ...#MTLed
+No matter how much I screwed up, she'd forgive me
+with a smile... she was always quietly looking
+out for me...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -774,8 +793,9 @@ caring ...#MTLed
 
 人間だから、なにが偉いっていうのよ！
 > CONTEXT: Map054/events/1/pages/2/199/Dialogue/enemy8
-\\{demon So what! ? Because you are human,
-what are you saying!#MTLed
+\\{So what if I'm a demon?!
+You think being a human's anything to
+brag about?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -783,8 +803,8 @@ what are you saying!#MTLed
 
 それは、アンタら人間だってそうじゃない！！
 > CONTEXT: Map054/events/1/pages/2/203/Dialogue/enemy8
-If you're a bad guy, you're a good guy! !
-That's not even yours! !#MTLed
+Whether you're a good person or a bad person has
+nothing to do with being human!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -793,8 +813,9 @@ That's not even yours! !#MTLed
 そんなリズをお前は……
 ワタシからリズを奪ったんだ！！
 > CONTEXT: Map054/events/1/pages/2/207/Dialogue/enemy8
-Liz was a good guy!!You are such Liz ...
-I took Liz from 'I'! !#MTLed
+Liz was a good person!!
+
+And you took her away from me!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -802,8 +823,9 @@ I took Liz from 'I'! !#MTLed
 
 悪いやつだ！！！！
 > CONTEXT: Map054/events/1/pages/2/212/Dialogue/enemy8
-You are...you are the monster!!!
-It's a bad guy!!! !#MTLed
+You... you're the monster here!!
+
+You're a bad person!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -811,8 +833,9 @@ It's a bad guy!!! !#MTLed
 
 一丁前なのは、威勢だけか。
 > CONTEXT: Map054/events/1/pages/2/220/Dialogue/kazuya-3
-what………. The only thing that's just about it is
-one.#MTLed
+Is that it...?
+
+I guess you were all talk...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -821,9 +844,10 @@ one.#MTLed
 ごめんね………ワタシ……やっぱり最期まで……
 自分を抑えられなかったや………
 > CONTEXT: Map054/events/1/pages/2/226/Dialogue/enemy8
-Liz ............ Liz .........
-I'm sorry...... 'I'...after all until the end
-... I could not suppress myself .........#MTLed
+Liz... Liz...
+
+I'm sorry... in the end... I couldn't control
+myself...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -831,7 +855,9 @@ I'm sorry...... 'I'...after all until the end
 
 いくからね………
 > CONTEXT: Map054/events/1/pages/2/231/Dialogue/enemy8
-Soon to be there...I'm going ...#MTLed
+I'll be with you soon...
+
+I'm coming...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -839,8 +865,10 @@ Soon to be there...I'm going ...#MTLed
 
 くだらねぇな…
 > CONTEXT: Map054/events/1/pages/2/239/Dialogue/kazuya-3
-......... Ha!!demon is a friendship pretend
-play...It's a shame ...#MTLed
+Ha!!
+
+What a laugh, demons pretending to understand
+friendship...#Ron
 > END STRING
 
 > BEGIN STRING
