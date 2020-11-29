@@ -7356,27 +7356,27 @@ Snake Glare#afrg
 > BEGIN STRING
 縺ゅ↑縺溘?縺昴％縺ｾ縺ｧ縺励※蜉帙ｒ謇九↓蜈･繧後◆縺??縺具ｼ
 > CONTEXT: Skills/635/message2
-\\C[15]Did you do all this just for power?#Ron
+\\X[50]\\C[10]Did you do all this just for power?#Ron
 > END STRING
 
 > BEGIN STRING
 縺雁燕縺ｯ菴墓腐縺薙％縺ｾ縺ｧ譚･縺溘?縺??
 縺薙?蜈医ｒ譛ｬ蠖薙↓隕九◆縺??縺具ｼ
 > CONTEXT: Skills/635/description
-\\C[15]Why have you come this far?
+\\X[50]\\C[10]Why have you come this far?
 Did you want to see what would happen?#Ron
 > END STRING
 
 > BEGIN STRING
 豺ｱ豺ｵ
 > CONTEXT: Skills/635/name
-A■yS■#Ron/Triketos
+\\X[50]\\C[10]Abyss#Ron/Triketos
 > END STRING
 
 > BEGIN STRING
 縺ｯ豺ｱ豺ｵ縺ｮ髣?ｒ謾ｾ縺｣縺
 > CONTEXT: Skills/635/message1
- \\C[15]releases the power of the abyss!#Ron
+\\X[50]\\C[10]releases the power of the abyss!#Ron
 > END STRING
 
 > BEGIN STRING
