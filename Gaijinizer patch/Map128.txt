@@ -792,8 +792,9 @@ For hitting you.#Ron
 
 lesson２の時間だよ
 > CONTEXT: Map128/events/4/pages/1/2/Dialogue/enemy10
-You've come ............ \\N[1].
-It is time for lesson2#MTLed
+You came, \\N[1]...
+
+It's time for lesson two.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -801,7 +802,9 @@ It is time for lesson2#MTLed
 
 き、君は………
 > CONTEXT: Map128/events/4/pages/1/22/Dialogue/other3
-Uh ......... You are .........#MTLed
+Ugh...
+
+Y-You're...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -810,9 +813,9 @@ Uh ......... You are .........#MTLed
 
 内心ホッとしていたんだろう？
 > CONTEXT: Map128/events/4/pages/1/30/Dialogue/enemy10
-In that forest, before being covered by that
-snake demon...You are alive with a crashed
-helicopter pilot. You were feeling relieved?#MTLed
+Back in the forest, before that snake demon got
+him, you were relieved to find that pilot had
+survived the helicopter crash, were you not?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -820,8 +823,9 @@ helicopter pilot. You were feeling relieved?#MTLed
 
 ってね……
 > CONTEXT: Map128/events/4/pages/1/35/Dialogue/enemy10
-"Good...I am not a murderer yet."
-What is it ...#MTLed
+"Thank goodness... I'm not yet a murderer."
+
+Was that it...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -830,9 +834,12 @@ What is it ...#MTLed
  染まれずに、邪悪な力を味方にできない。
 だから力も、今以上に引き出せない。
 > CONTEXT: Map128/events/4/pages/1/39/Dialogue/enemy10
-But that's your "refuge". Without being dyed, you
-can not favor evil powers. So I can not pull out
-more power than now.#MTLed
+But that's become a "way out": nothing more then
+an excuse. You can't court true darkness without
+having dirtied your own hands.
+
+Until you can do that, the power you can draw
+will be limited.#Ron/Triketos
 > END STRING
 
 > BEGIN STRING
@@ -840,8 +847,9 @@ more power than now.#MTLed
 
 こんな若者に……！！
 > CONTEXT: Map128/events/4/pages/1/46/Dialogue/other3
-...... What are you ...... what are you ......
-To such a young man ...! !#MTLed
+What are you... trying to get him to do...?
+
+He's still so young...!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -850,9 +858,9 @@ To such a young man ...! !#MTLed
 \\C[2]そいつの自決用の銃さ……
 人間の言う『旧世代』の銃弾が入ってる。
 > CONTEXT: Map128/events/4/pages/1/51/Dialogue/enemy10
-A gun is rolling at your feet, right?
-\\C[2]It's a gun for self-determination ......
-There is a bullet of "outdated" that human says.#MTLed
+There's a gun at your feet. \\C[2]A gun this one was
+planning to use on himself. It's loaded with the
+ammunition you humans refer to as, "outdated".#Ron
 > END STRING
 
 > BEGIN STRING
@@ -860,8 +868,8 @@ There is a bullet of "outdated" that human says.#MTLed
 
  この男の頭を撃つんだよ。
 > CONTEXT: Map128/events/4/pages/1/57/Dialogue/enemy10
-\\C[10]\\N[1], you are from now
-I shoot this guy's head.#MTLed
+\\C[10]\\N[1], you will use it to fire at this
+man's head.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -870,9 +878,10 @@ I shoot this guy's head.#MTLed
  すべてがお前さんの味方に回ってくれる……
 あんな蛇悪魔、一瞬で蹴散らせるよ。
 > CONTEXT: Map128/events/4/pages/1/63/Dialogue/enemy10
-Then, "magic" that you are holding is
-Everything goes to your friend ......
-That snake demon, I'll kick it in a moment.#MTLed
+If you do that, all of the magic contained within
+you will rally to your side...
+
+That snake demon won't stand a chance.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -880,8 +889,9 @@ That snake demon, I'll kick it in a moment.#MTLed
 
  今さら、善人面はやめておきな。
 > CONTEXT: Map128/events/4/pages/1/69/Dialogue/enemy10
-……what's up? That face...Are you lost?
-Right now, the good-man side is a stop.#MTLed
+...What's wrong? You look... uncertain.
+
+It's too late to be playing the hero now.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -889,8 +899,7 @@ Right now, the good-man side is a stop.#MTLed
 
 \\N[1]……
 > CONTEXT: Map128/events/4/pages/1/73/Dialogue/enemy10
-You have no choice but to fall ...
-\\N[1] ......#MTLed
+You have no choice but to succumb, \\N[1]...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -898,8 +907,9 @@ You have no choice but to fall ...
 
 そんな悪魔の言うことに耳を貸すな……！！
 > CONTEXT: Map128/events/4/pages/1/84/Dialogue/other3
-Wake up ............!!Don't listen to what
-demon says ...! !#MTLed
+Open your eyes...!!
+
+Don't listen to that demon...!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -907,9 +917,8 @@ demon says ...! !#MTLed
 
 魂を売るほどの対価はないはずだ…！！
 > CONTEXT: Map128/events/4/pages/1/88/Dialogue/other3
-No matter how ugly your partner is ...
-There should not be enough money to sell the soul
-...! !#MTLed
+No matter how evil your opponent is, it's not
+worth selling your soul...!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -917,14 +926,15 @@ There should not be enough money to sell the soul
 
 その『誇り』すらも……失うんじゃない……！！
 > CONTEXT: Map128/events/4/pages/1/92/Dialogue/other3
-\\C[2]You are human.........!
-Even that "pride"...not lose......! !#MTLed
+\\C[2]You're human...!
+
+Don't throw away your "pride"...!!#Ron
 > END STRING
 
 > BEGIN STRING
 撃たない
 > CONTEXT: Map128/events/4/pages/1/99/Choice/1
-Do not shoot#MTLed
+Do not shoot#Ron
 > END STRING
 
 > BEGIN STRING
@@ -932,8 +942,10 @@ Do not shoot#MTLed
 
  『オマエ』なら、そっちを選ぶと思ったよ！！
 > CONTEXT: Map128/events/4/pages/1/109/Dialogue/enemy10
-\\C[10]Oh!!If it was "Omae", I thought I would choose
-that one! !#MTLed
+\\C[10]Ahahahaha!!
+
+Did you really think it was "your" choice to
+make?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -941,9 +953,9 @@ that one! !#MTLed
 
  悪魔以外を殺すのは、予想に反していたかい！！
 > CONTEXT: Map128/events/4/pages/1/113/Dialogue/enemy10
-\\C[10]Do you think that people are "another"! ?
-Killing anything other than demon was contrary to
-expectation! !#MTLed
+\\C[10]Did you think humans were special?
+
+Did you think you'd only ever be killing demons?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -951,9 +963,8 @@ expectation! !#MTLed
 
 『オマエ』の気まぐれな指図は、受けないよ。
 > CONTEXT: Map128/events/4/pages/1/117/Dialogue/enemy10
-\\C[10]\\N[1] is already ......
-I do not receive the whimsical instructions of
-"Omae".#MTLed
+\\C[10]\\N[1] is well beyond the point of taking
+your whimsical orders.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -961,8 +972,9 @@ I do not receive the whimsical instructions of
 
 あと少しだ………お前さんも感じているだろう？
 > CONTEXT: Map128/events/4/pages/1/126/Dialogue/enemy10
-You did well, \\N[1]. It's only a little more ...
-... you are feeling too?#MTLed
+You did well, \\N[1].
+
+You can feel it, can't you? Just a little more.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -970,8 +982,8 @@ You did well, \\N[1]. It's only a little more ...
 
  どんどん自分の体から剥がれているのを……
 > CONTEXT: Map128/events/4/pages/1/130/Dialogue/enemy10
-The "wedge" which has been a hindrance until now
-more and more being detached from my body ...#MTLed
+The "chains" that have held you back are
+so close to coming off...#Ron/Triketos
 > END STRING
 
 > BEGIN STRING
@@ -979,7 +991,9 @@ more and more being detached from my body ...#MTLed
 
 最高の気分だよ…アルケニー…
 > CONTEXT: Map128/events/4/pages/1/135/Dialogue/kazuya-3
-Oh……!! It feels great...Arachne ...#MTLed
+Yeah...!!
+
+It feels great, Arachne...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -987,7 +1001,9 @@ Oh……!! It feels great...Arachne ...#MTLed
 
 さぁ、奥に進みな。lesson３だよ。
 > CONTEXT: Map128/events/4/pages/1/139/Dialogue/enemy10
-Heh Heh He ......!! Now go ahead.It is lesson3.#MTLed
+Kukuku...!!
+
+Now go on ahead. Lesson three is waiting for you.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -996,9 +1012,10 @@ Heh Heh He ......!! Now go ahead.It is lesson3.#MTLed
 でなければ、
 力に溺れる者の、典型的で哀れな末路が待ってるよ。
 > CONTEXT: Map128/events/4/pages/1/143/Dialogue/enemy10
-\\C[2]"Don't lose your temper always" ...
-If not, I am waiting for the typical and pathetic
-path of those who are addicted to power.#MTLed
+\\C[2]Be sure to keep your cool...
+Otherwise you'll meet the stereotypical fate of
+those who find themselves consumed by their own
+power.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1006,6 +1023,7 @@ path of those who are addicted to power.#MTLed
 
 突破してみな………手段は問わないよ………
 > CONTEXT: Map128/events/4/pages/1/148/Dialogue/enemy10
-In the future, familiar familiars lurking ......
-Breakthrough and all .... Any means...... ...#MTLed
+My familiars are lurking ahead...
+
+Overcome them, in any way you see fit...#Ron
 > END STRING
