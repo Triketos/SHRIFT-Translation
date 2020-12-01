@@ -12,7 +12,7 @@ Fufu, what can I do for you today?#Ron
 > BEGIN STRING
 雑談する en(v[45] \>= 25) 
 > CONTEXT: Map062/events/5/pages/0/31/Choice/0
-Chaten(v[45] \>= 25)#MTLed
+Chaten(v[45] \>= 25)#Ron
 > END STRING
 
 > BEGIN STRING
@@ -30,7 +30,8 @@ Milking (Grooming)en(v[45] \>= 50)#Ron
 > BEGIN STRING
 【マザーラビット】種族：魔獣
 > CONTEXT: Map062/events/5/pages/0/33/ChoiceHelp
-[Mother Rabbit] Race: Beast#MTLed
+[Mother Rabbit] Race: Magical Beast
+Current Friendship: \\C[2]\\v[45]\\C[0]#Ron
 > END STRING
 
 > BEGIN STRING
@@ -707,7 +708,7 @@ No one's ever escaped from you...#Ron
 > BEGIN STRING
 【キズナイベント】if(v[45] \>= 99) 
 > CONTEXT: Map062/events/5/pages/1/292/Choice/0
-【Bonding】if(v[45] \>= 99)#MTLed
+[Bonding]if(v[45] \>= 99)#Ron
 > END STRING
 
 > BEGIN STRING

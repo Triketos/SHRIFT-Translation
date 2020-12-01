@@ -210,40 +210,40 @@ Persuade#Dargoth
 装備している銃を収め、敵意がないことを示す。
 これをしないと『\\I[842]説得する』が使用できない。
 > CONTEXT: Skills/10/description
-Put away your gun to show that you mean no harm.
+Put away your weapon to show that you mean no harm.
 Must first perform in order to use [\\I[842]Persuade].#Dargoth
 > END STRING
 
 > BEGIN STRING
 武器をしまう
 > CONTEXT: Skills/10/name
-Holster Gun#afrg
+Holster Weapon#Ron
 > END STRING
 
 > BEGIN STRING
 は武器をしまった。
 > CONTEXT: Skills/10/message1
- puts away his gun.#afrg
+ puts away his weapon.#Ron
 > END STRING
 
 > BEGIN STRING
 銃を取り出し、相手に向ける。
 相手によっては戦闘態勢に入る場合がある。
 > CONTEXT: Skills/11/description
-Draw your gun and point it at your opponent.
+Draw your weapon and wield it at your opponent.
 Opponent may assume combat stance in response.#Dargoth
 > END STRING
 
 > BEGIN STRING
 武器を構える
 > CONTEXT: Skills/11/name
-Draw Gun#afrg
+Draw Weapon#Ron
 > END STRING
 
 > BEGIN STRING
 は武器を構えた！
 > CONTEXT: Skills/11/message1
- draws his gun!#afrg
+ draws his weapon!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -3054,7 +3054,7 @@ Spatial Perversion (Vitality)#Dargoth
 空間歪曲（銃）
 > CONTEXT: Skills/206/name
 > CONTEXT: States/73/name
-Spatial Perversion (Gun)#Dargoth
+Spatial Perversion (Weapon)#Dargoth
 > END STRING
 
 > BEGIN STRING
@@ -7356,27 +7356,27 @@ Snake Glare#afrg
 > BEGIN STRING
 縺ゅ↑縺溘?縺昴％縺ｾ縺ｧ縺励※蜉帙ｒ謇九↓蜈･繧後◆縺??縺具ｼ
 > CONTEXT: Skills/635/message2
-縺 溘?%% 縺 ※ 蜉 帙 蜈 · 後 縺 ◆ 繧 ◆??Rattan#MTLed
+\\X[50]\\C[10]Did you do all this just for power?#Ron
 > END STRING
 
 > BEGIN STRING
 縺雁燕縺ｯ菴墓腐縺薙％縺ｾ縺ｧ譚･縺溘?縺??
 縺薙?蜈医ｒ譛ｬ蠖薙↓隕九◆縺??縺具ｼ
 > CONTEXT: Skills/635/description
-Tomb rotted area?Moth?? Moth?蜈 隕 縺 縺 縺 縺 縺 縺 縺 縺??Rattan
-                                                            #MTLed
+\\X[50]\\C[10]Why have you come this far?
+Did you want to see what would happen?#Ron
 > END STRING
 
 > BEGIN STRING
 豺ｱ豺ｵ
 > CONTEXT: Skills/635/name
-Air conditioner#MTLed
+\\X[50]\\C[10]Abyss#Ron/Triketos
 > END STRING
 
 > BEGIN STRING
 縺ｯ豺ｱ豺ｵ縺ｮ髣?ｒ謾ｾ縺｣縺
 > CONTEXT: Skills/635/message1
-Date and time?r 謾 縺 縺#MTLed
+\\X[50]\\C[10]releases the power of the abyss!#Ron
 > END STRING
 
 > BEGIN STRING

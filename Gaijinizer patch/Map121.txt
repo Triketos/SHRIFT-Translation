@@ -30,7 +30,8 @@ Milking (Slug)en(v[50] \>= 50)#Ron
 > BEGIN STRING
 【エコー】種族：妖魔
 > CONTEXT: Map121/events/5/pages/0/33/ChoiceHelp
-【Echo】 Tribe: Apparition#Ron
+[Echo] Tribe: Apparition
+Current Friendship: \\C[2]\\v[50]\\C[0]#Ron
 > END STRING
 
 > BEGIN STRING
@@ -833,7 +834,7 @@ I'll practice cooking more!!#Ron
 > BEGIN STRING
 【キズナイベント】if(v[50] \>= 99) 
 > CONTEXT: Map121/events/5/pages/1/384/Choice/0
-【Bonding】if(v[50] \>= 99)#MTLed
+[Bonding]if(v[50] \>= 99)#Ron
 > END STRING
 
 > BEGIN STRING
