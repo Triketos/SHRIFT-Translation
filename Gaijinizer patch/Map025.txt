@@ -105,13 +105,13 @@ Complete the entire Compendium to open.
 > BEGIN STRING
 お待ちしておりました。\\N[1]様。
 > CONTEXT: Map025/events/28/pages/0/0/Dialogue/other1
-I've been expecting you, \\N[1]-sama.#Ron
+I've been waiting, \\N[1]-sama.#Ron
 > END STRING
 
 > BEGIN STRING
 ここは………！？
 > CONTEXT: Map025/events/28/pages/0/2/Dialogue/kazuya
-What is this place...!?#Ron
+What is this place...?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -119,8 +119,8 @@ What is this place...!?#Ron
 
 人の生涯が、本として記録され保管されていく場所…
 > CONTEXT: Map025/events/28/pages/0/4/Dialogue/other1
-This is a memory library. Where people's lives
-are recorded and kept as books...#Ron
+This is a library of memories. Where people's
+lives are recorded and kept as books...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -128,7 +128,7 @@ are recorded and kept as books...#Ron
 
 ここで生前の行いを見定め、判断材料とします。
 > CONTEXT: Map025/events/28/pages/0/8/Dialogue/other1
-Those in charge of sorting souls, such as Our
+Those in charge of sorting souls, such as my
 Lord, come here to ascertain the actions taken
 in a person's lifetime, and use that to decide
 their fate.#Ron
@@ -139,8 +139,9 @@ their fate.#Ron
 
 私は秘書として、ここの管理を任されています。
 > CONTEXT: Map025/events/28/pages/0/12/Dialogue/other1
-You could call it a "Gradebook" of sorts.
-As a secretary, I am assigned to manage this
+You could call it a "gradebook" of sorts.
+
+As secretary, I am assigned to manage this
 place.#Ron
 > END STRING
 
@@ -149,7 +150,8 @@ place.#Ron
 
 この『悪魔全書』を是非、利用して欲しいのです。
 > CONTEXT: Map025/events/28/pages/0/16/Dialogue/other1
-And the thing I want you to do, is here...
+And this here is what I wanted your help with.
+
 I would like you to utilize this "Demon
 Compendium".#Ron
 > END STRING
@@ -181,9 +183,9 @@ by this Hell's Gate.#Ron
 
 この本には\\C[2]貴方が出会った悪魔の記録がされていきます。
 > CONTEXT: Map025/events/28/pages/0/29/Dialogue/other1
-So I've made some small revisions to this book
-that is no longer necessary. In this book \\C[2]
-your encounters with demons will be recorded.#Ron
+So I've made some small revisions to this now
+unnecessary book. This compendium will now be
+used to \\C[2]record your encounters with demons.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -228,8 +230,9 @@ will surely all be for nothing...#Ron
 \\C[2]現実世界へのお帰りは、先程の部屋にある『穴』からどうぞ…
 > CONTEXT: Map025/events/28/pages/0/49/Dialogue/other1
 Well then, I will return to work.
+
 \\C[2]Please return to the real world using the
-hole in the room before...#Ron
+hole in the other room...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -248,8 +251,10 @@ the rest area...#Ron
 あなたにとって、この短い旅が
 なにかしらの実りのあるものになりますよう……。
 > CONTEXT: Map025/events/28/pages/0/57/Dialogue/other1
-I'm always keeping an eye on it. I hope this
-short trip was fruitful for you in some way...#Ron
+I'm always watching.
+
+I hope this short trip was fruitful for you in
+some way...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -265,7 +270,7 @@ short trip was fruitful for you in some way...#Ron
 > BEGIN STRING
 とりあえず、中身を見てみようかな……。
 > CONTEXT: Map025/events/28/pages/0/75/Dialogue/kazuya
-Let's try looking inside for now...#Triketos
+I'll try looking inside for now...#Triketos
 > END STRING
 
 > BEGIN STRING

@@ -74,8 +74,8 @@ class Window_Base < Window
   
   alias gt_hide hide
   def hide
-    gt_hide
     gt_clear_glitched
+	gt_hide
   end
   
   def gt_clear_glitched
@@ -97,5 +97,15 @@ class Window_BattleLog < Window_Selectable
   def clear
     gt_clear
     gt_clear_glitched
+  end
+end
+
+if (Module.const_get("Window_ShrtMsgr").is_a?(Class))
+  class Window_ShrtMsgr < Window_Base
+    alias gt_reset_font_settings reset_font_settings
+    def reset_font_settings
+      gt_reset_font_settings
+      @gt_glitch_chance = 0
+    end
   end
 end
