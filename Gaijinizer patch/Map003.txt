@@ -1449,7 +1449,7 @@ like vitamins handy will make the fight easier\\C[0].#Ron
 お前は普段通り、武器や魔法で攻撃すればいい。
 > CONTEXT: Map003/events/1/pages/2/366/Dialogue/クッション君
 Thanks to Hyakki's items, your attack and defense
-have been greatly enhaced. You can attack with
+have been greatly enhanced. You can attack with
 your weapons and magic as usual.#Strate
 > END STRING
 
@@ -1470,9 +1470,9 @@ turns, it will be completely depleted.#Strate
 
  対策をしていても、性欲の上昇が悩みの種になるはず。
 > CONTEXT: Map003/events/1/pages/2/376/Dialogue/クッション君
-However, Titanoboa's magic is intense...
+However, Titanoboa's magic is powerful...
 Even if you take countermeasures, your rising
-lust should be a source of trouble.#Strate
+lust will likely be a source of trouble.#Strate
 > END STRING
 
 > BEGIN STRING
@@ -1507,8 +1507,8 @@ Also, the vitality consumption for this one is
 stupid high. Ordinarily, it would be difficult if
 you didn't upgrade vitality to the maximum, but...
 
-\\C[2]This time, thanks to Hyakki's items, it can
-be used even with the base amount of vitality.#Strate
+\\C[2]This time, thanks to Hyakki's items, you
+can pull it off even with base level vitality.#StrateLocalization
 > END STRING
 
 > BEGIN STRING
@@ -1527,9 +1527,8 @@ lust buildup.#Strate
 
 見つかったら、逃げるが勝ちだ。
 > CONTEXT: Map003/events/1/pages/2/400/Dialogue/クッション君
-You're no match for Titanoboa at all.
-
-If you're found, you win by running away.#StrateUnsure
+Titanoboa isn't an unbeatable adversary, since
+by running away, you still win in the end.#StrateLocalization
 > END STRING
 
 > BEGIN STRING
@@ -1537,10 +1536,9 @@ If you're found, you win by running away.#StrateUnsure
 
  どうせ同じ死ぬなら……って考えてもまぁ、仕方ないな
 > CONTEXT: Map003/events/1/pages/2/404/Dialogue/クッション君
-If she says "I'll kill you", she seriously will.
-
-So I can't help but think that you're going to
-die either way.#StrateUnsure
+If she says she will kill you, she'll seriously
+do it. So I get why you'd think of submitting to
+her if you're going to die either way.#StrateLocalization
 > END STRING
 
 > BEGIN STRING
@@ -1548,9 +1546,10 @@ die either way.#StrateUnsure
 
 \\C[2]助けが来るまで耐えるのも一つの手かもな。
 > CONTEXT: Map003/events/1/pages/2/408/Dialogue/クッション君
-If on the way, you're suddenly caught or something...
-\\C[2]One move might be to endure until help
-arrives.#StrateUnsure
+If she suddenly catches you on the way...
+
+\\C[2]One option is to try to hold out until help
+arrives.#StrateLocalization
 > END STRING
 
 > BEGIN STRING
