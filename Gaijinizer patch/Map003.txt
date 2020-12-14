@@ -1471,6 +1471,7 @@ turns, it will be completely neutralized.#Strate
  対策をしていても、性欲の上昇が悩みの種になるはず。
 > CONTEXT: Map003/events/1/pages/2/376/Dialogue/クッション君
 However, Titanoboa's magic is powerful...
+
 Even if you take countermeasures, your rising
 lust will likely be a source of trouble.#Strate
 > END STRING
@@ -1491,10 +1492,10 @@ So, my recommended strategy is...
 マイルームや戦闘をきちんとこなしていれば足りるはずだ。
  悪魔全書登録数でももらえるぞ。
 > CONTEXT: Map003/events/1/pages/2/384/Dialogue/クッション君
-First of all, you need 111 SP to learn it, but...
-You should have enough if you've handled battles
-and My Room properly. You can also get some by
-filling entries in the Compendium. #StrateUnsure
+You'll need 111 SP to learn it... but you should
+have enough if you've handled battles and My
+Room properly. You can also get some by filling
+entries in the Compendium. #StrateUnsure
 > END STRING
 
 > BEGIN STRING
@@ -1504,11 +1505,11 @@ filling entries in the Compendium. #StrateUnsure
 \\C[2]今回は百鬼のアイテムのおかげで、初期気力でも使える。
 > CONTEXT: Map003/events/1/pages/2/389/Dialogue/クッション君
 Also, the vitality consumption for this one is
-stupid high. Ordinarily, it would be difficult if
-you didn't upgrade vitality to the maximum, but...
-
-\\C[2]This time, thanks to Hyakki's items, you
-can pull it off even with base level vitality.#StrateLocalization
+stupid high. Normally it would be difficult to
+use if you didn't upgrade vitality to the
+maximum, but...
+\\C[2]This time, thanks to Hyakki's items, you can
+pull it off even with your starting vitality.#StrateLocalization
 > END STRING
 
 > BEGIN STRING
@@ -1516,9 +1517,9 @@ can pull it off even with base level vitality.#StrateLocalization
 
  多分、性欲上昇の値にビックリするだろうから。
 > CONTEXT: Map003/events/1/pages/2/394/Dialogue/クッション君
-You should try to experience it at least once.
+You should try it out at least once.
 
-Because you may be surprised at the amount of
+You might be surprised at the amount of
 lust buildup.#Strate
 > END STRING
 
