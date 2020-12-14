@@ -1448,10 +1448,9 @@ like vitamins handy will make the fight easier\\C[0].#Ron
 
 お前は普段通り、武器や魔法で攻撃すればいい。
 > CONTEXT: Map003/events/1/pages/2/366/Dialogue/クッション君
-Thanks to the items in Hyakki,
-This attack and resistance has been greatly
-enhanced. You can attack with weapons and magic
-as usual.#MTLed
+Thanks to Hyakki's items, your attack and defense
+have been greatly enhanced. You can attack with
+your weapons and magic as usual.#Strate
 > END STRING
 
 > BEGIN STRING
@@ -1460,10 +1459,10 @@ as usual.#MTLed
 
 ３ターンのうちに、１０００以上削れば全消しだ。
 > CONTEXT: Map003/events/1/pages/2/371/Dialogue/クッション君
-The recovery amount of the other's self
-regeneration is also. \\C[2] Hyakki neutralizes the
-item every turn. If you cut 1000 or more in 3
-turns, it's all gone.#MTLed
+Hyakki will also \\C[2]counteract your
+opponent's regeneration with her items every turn.
+If you can shave off 1000 or more HP within 3
+turns, it will be completely neutralized.#Strate
 > END STRING
 
 > BEGIN STRING
@@ -1471,9 +1470,10 @@ turns, it's all gone.#MTLed
 
  対策をしていても、性欲の上昇が悩みの種になるはず。
 > CONTEXT: Map003/events/1/pages/2/376/Dialogue/クッション君
-However, the magic of Titanoboa is intense ...
-Even if you take measures, rising lust should be
-a source of trouble.#MTLed
+However, Titanoboa's magic is powerful...
+
+Even if you take countermeasures, your rising
+lust will likely be a source of trouble.#Strate
 > END STRING
 
 > BEGIN STRING
@@ -1481,8 +1481,9 @@ a source of trouble.#MTLed
 
 \\C[2]氷の上級魔法『フローズン』の使用だ。
 > CONTEXT: Map003/events/1/pages/2/380/Dialogue/クッション君
-So, my recommended strategy is ...
-\\C[2]It is the use of ice's advanced magic "frozen".#MTLed
+So, my recommended strategy is...
+
+\\C[2]Use the advanced ice magic "Frozen".#Strate
 > END STRING
 
 > BEGIN STRING
@@ -1491,10 +1492,10 @@ So, my recommended strategy is ...
 マイルームや戦闘をきちんとこなしていれば足りるはずだ。
  悪魔全書登録数でももらえるぞ。
 > CONTEXT: Map003/events/1/pages/2/384/Dialogue/クッション君
-First of all, you need 111 points of SP to
-remember...It should be enough if you manage my
-room and battle properly. All demons You can get
-the number of registrations.#MTLed
+You'll need 111 SP to learn it... but you should
+have enough if you've handled battles and My
+Room properly. You can also get some by filling
+entries in the Compendium. #StrateUnsure
 > END STRING
 
 > BEGIN STRING
@@ -1503,11 +1504,12 @@ the number of registrations.#MTLed
  本来なら、気力を最大まで強化しないと厳しいが
 \\C[2]今回は百鬼のアイテムのおかげで、初期気力でも使える。
 > CONTEXT: Map003/events/1/pages/2/389/Dialogue/クッション君
-And this one is stupid for consumption vitality.
-Originally, it is tough if you do not strengthen
-the vitality to the maximum. \\C[2]This time, thanks to
-Hyakki's items, you can use the initial vitality
-as well.#MTLed
+Also, the vitality consumption for this one is
+stupid high. Normally it would be difficult to
+use if you didn't upgrade vitality to the
+maximum, but...
+\\C[2]This time, thanks to Hyakki's items, you can
+pull it off even with your starting vitality.#StrateLocalization
 > END STRING
 
 > BEGIN STRING
@@ -1515,9 +1517,10 @@ as well.#MTLed
 
  多分、性欲上昇の値にビックリするだろうから。
 > CONTEXT: Map003/events/1/pages/2/394/Dialogue/クッション君
-You should try to experience it once.
-Maybe because you will be surprised at the value
-of lust rise.#MTLed
+You should try it out at least once.
+
+You might be surprised at the amount of
+lust buildup.#Strate
 > END STRING
 
 > BEGIN STRING
@@ -1525,8 +1528,8 @@ of lust rise.#MTLed
 
 見つかったら、逃げるが勝ちだ。
 > CONTEXT: Map003/events/1/pages/2/400/Dialogue/クッション君
-Titanoboa is by far not your opponent.
-If found, it runs away but it wins.#MTLed
+Titanoboa isn't an unbeatable adversary, since
+by running away, you still win in the end.#StrateLocalization
 > END STRING
 
 > BEGIN STRING
@@ -1534,9 +1537,9 @@ If found, it runs away but it wins.#MTLed
 
  どうせ同じ死ぬなら……って考えてもまぁ、仕方ないな
 > CONTEXT: Map003/events/1/pages/2/404/Dialogue/クッション君
-If you say "kill" you will kill him seriously
-If I die the same way anyway...I can't help
-thinking of it#MTLed
+If she says she will kill you, she'll seriously
+do it. So I get why you'd think of submitting to
+her if you're going to die either way.#StrateLocalization
 > END STRING
 
 > BEGIN STRING
@@ -1544,9 +1547,10 @@ thinking of it#MTLed
 
 \\C[2]助けが来るまで耐えるのも一つの手かもな。
 > CONTEXT: Map003/events/1/pages/2/408/Dialogue/クッション君
-If on the way, suddenly caught or something ...
-\\C[2]It might be one hand to endure until the help
-comes.#MTLed
+If she suddenly catches you on the way...
+
+\\C[2]One option is to try to hold out until help
+arrives.#StrateLocalization
 > END STRING
 
 > BEGIN STRING
