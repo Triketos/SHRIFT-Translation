@@ -22,8 +22,9 @@ It doesn't seem like that's going to work in this battle...#Ron
 
 ガマン、ガマン♪
 > CONTEXT: CommonEvents_180/49/Dialogue/enemy2
-Empuse Chan, you can't get on the car!
-hold back, hold back♪#MTLed
+Empuse-chan, don't fall for his sweet-talk, okay?
+
+Resist, resist♪#Strate
 > END STRING
 
 > BEGIN STRING
@@ -31,8 +32,9 @@ hold back, hold back♪#MTLed
 
 お前さん、あたい相手に『説得』をしようとしたのかい？
 > CONTEXT: CommonEvents_180/62/Dialogue/enemy10
-I think it is wrong...You, did you try to
-"dissuade" against the person you want?#MTLed
+I must be imagining things, but......
+
+Did you just try to "persuade" me, your opponent?#StrateLocalization
 > END STRING
 
 > BEGIN STRING
@@ -40,15 +42,16 @@ I think it is wrong...You, did you try to
 
 好奇心は、時に身を滅ぼすことになるよ…♡
 > CONTEXT: CommonEvents_180/66/Dialogue/enemy10
-I will buy only that courage but ...
-The curiosity sometimes destroys me...♡#MTLed
+You have courage, I'll give you that much...
+
+But sometimes curiosity can be your undoing...♡#StrateLocalization
 > END STRING
 
 > BEGIN STRING
 
 アルケニーは\\C[2]話を聞く気がないようだ……
 > CONTEXT: CommonEvents_180/70/Dialogue
-Arachne is\\C[2] I don't feel like listening to it ...#MTLed
+It seems Arachne \\C[2]doesn't feel like listening...#Strate
 > END STRING
 
 > BEGIN STRING
@@ -56,8 +59,8 @@ Arachne is\\C[2] I don't feel like listening to it ...#MTLed
 アコニートゥムには、どうやら
 \\C[2]会話するだけの知能が備わっていないようだ……
 > CONTEXT: CommonEvents_180/79/Dialogue
-Apparently in Aconitum. \\C[2]It doesn't seem to have the
-intelligence to talk ...#MTLed
+Apparently, Aconitum \\C[2]doesn't seem to be
+intelligent enough to even talk...#Strate
 > END STRING
 
 > BEGIN STRING
@@ -73,8 +76,8 @@ It seems she has no intention of letting me go...#Ron
 
 説得で話を聞いてもらうには、まだ\\C[2]信頼が足りないようだ…
 > CONTEXT: CommonEvents_180/157/Dialogue
-To hear the story at dissuade, still\\C[2] Trust seems to be
-lacking ...#MTLed
+It seems the demon \\C[2]still doesn't trust me
+enough to listen to my persuasion...#Strate
 > END STRING
 
 > BEGIN STRING
@@ -931,7 +934,7 @@ The demon leaves, satisfied...#Ron
 
 \\N[1]は要求された額を持っていなかった……
 > CONTEXT: CommonEvents_180/187/Dialogue
-\\N[1] did not have the requested amount ...#MTLed
+\\N[1] did not have the requested amount...#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -955,7 +958,7 @@ Will you give up vitality to the demon?#Ron
 
 悪魔は、去って行く\\N[1]を見逃してくれた。
 > CONTEXT: CommonEvents_180/241/Dialogue
-The demon missed the passing \\N[1].#MTLed
+The demon turned a blind eye to \\N[1] leaving.#StrateUnsure
 > END STRING
 
 > BEGIN STRING
