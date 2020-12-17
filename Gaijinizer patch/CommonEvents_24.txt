@@ -15,8 +15,8 @@ and isn't listening!!#Strate
 > CONTEXT: CommonEvents_24/23/Dialogue
 
 Barghest listened to \\N[1]'s persuasion
-and wondered for a bit whether or not to release
-him...#Strate
+and seemed a little unsure of whether or not to
+let him go...#Strate
 > END STRING
 
 > BEGIN STRING
@@ -31,7 +31,7 @@ Woof♪#Ron
 どうやら、見逃してくれるようだ。
 > CONTEXT: CommonEvents_24/32/Dialogue
 
-Apparently, she'll let it slide this time.#StrateUnsure
+It seems she'll let me go this time.#Strate
 > END STRING
 
 > BEGIN STRING
@@ -47,7 +47,7 @@ as before!!#Strate
 ｳｳｳｳｳｳｳ……
 > CONTEXT: CommonEvents_24/46/Dialogue/バーゲスト
 > CONTEXT: CommonEvents_24/69/Dialogue/バーゲスト
-Uuuuuuu...#StrateUnsure
+Awooooooo...#StrateUnsure
 > END STRING
 
 > BEGIN STRING
@@ -73,7 +73,7 @@ Apparently, she seems to want money...#Strate
 > CONTEXT: Map037/events/4/pages/1/12/Dialogue/バーゲスト
 > CONTEXT: Map063/events/7/pages/0/135/Dialogue/バーゲスト2
 > CONTEXT: Map281/events/4/pages/0/13/Dialogue/バーゲスト
-Wan...♡#MTLed
+Wan...♡#Strate
 > END STRING
 
 > BEGIN STRING
@@ -83,14 +83,14 @@ Wan...♡#MTLed
 > CONTEXT: CommonEvents_24/62/Dialogue
 
 Barghest pressed her body against \\N[1].
-Apparently she wants a kiss.#Strate
+It seems she wants a kiss.#Strate
 > END STRING
 
 > BEGIN STRING
 
 バーゲストは、とてもうれしそうだ…
 > CONTEXT: CommonEvents_24/76/Dialogue
-Barghest looks very happy...#MTLed
+Barghest looks very happy...#Strate
 > END STRING
 
 > BEGIN STRING
@@ -109,5 +109,5 @@ of the way...#Strate
 > CONTEXT: CommonEvents_24/92/Dialogue
 
 Barghest is holding money in her mouth.
-Apprently, she wants you to receive it.#Strate
+It seems she wants you to take it.#Strate
 > END STRING
