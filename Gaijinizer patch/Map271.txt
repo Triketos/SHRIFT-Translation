@@ -73,7 +73,7 @@ I am you...#Ron
 \\C[10]『オールドワン』\\C[0]とでも、名乗っておこう……
 > CONTEXT: Map271/events/2/pages/0/50/Dialogue/kazuya-3
 But if you really wish to distinguish us from one
-another, you can call me the \\C[10]"Old One"\\C[0]...#Ron
+another, you can call me the \\X[10]\\C[10]"Old One"...\\C[0]\\X[0]#Ron
 > END STRING
 
 > BEGIN STRING
@@ -102,5 +102,5 @@ be one...#Ron
 > CONTEXT: Map271/events/2/pages/0/74/Dialogue/kazuya-3
 ......
 
-Old...... One...#Ron
+\\X[10]Old... One......\\X[0]#Ron
 > END STRING
