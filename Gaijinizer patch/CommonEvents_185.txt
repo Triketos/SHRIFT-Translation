@@ -3,7 +3,9 @@
 
 \\N[1]は、勢い余って相手の懐に飛び込んでしまった！！
 > CONTEXT: CommonEvents_185/12/Dialogue
-\\N[1] has rushed into the pocket of the other party!!#MTLed
+
+\\N[1] overshot and jumped straight into his
+opponent's bosom!!#StrateLocalization
 > END STRING
 
 > BEGIN STRING
@@ -11,13 +13,15 @@
 
 しまっ……！！
 > CONTEXT: CommonEvents_185/15/Dialogue/kazuya
-!!! ............!!#MTLed
+!!!
+
+Shit......!!#StrateLocalization
 > END STRING
 
 > BEGIN STRING
 ワオンッ！！♡
 > CONTEXT: CommonEvents_185/25/Dialogue/バーゲスト2
-wooff!!Moth#MTLed
+Wooof!!♡#Strate
 > END STRING
 
 > BEGIN STRING
@@ -25,8 +29,9 @@ wooff!!Moth#MTLed
 
 しっかり抱き留めてあげる…♡
 > CONTEXT: CommonEvents_185/31/Dialogue/enemy
-?Can you jump from there?Moth
-I will hold Hug firmly...♡#MTLed
+Oh? You're gonna jump in from there?
+
+I'll catch you in a tight hug...♡#Strate
 > END STRING
 
 > BEGIN STRING
@@ -34,7 +39,9 @@ I will hold Hug firmly...♡#MTLed
 
 いらっしゃい…♡ボウヤ
 > CONTEXT: CommonEvents_185/101/Dialogue/enemy4
-Hihihihihi ...... Welcome...♡ boy#MTLed
+Ufufufufu......
+
+Welcome...♡ Little boy.#Strate
 > END STRING
 
 > BEGIN STRING
@@ -42,7 +49,7 @@ Hihihihihi ...... Welcome...♡ boy#MTLed
 
 捕まえたぞ…♡
 > CONTEXT: CommonEvents_185/115/Dialogue/enemy17
-Stupid monkey...♡
+Stupid monkey......♡
 
-I caught it...♡#GT
+I caught you...♡#Strate
 > END STRING
