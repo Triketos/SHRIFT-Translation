@@ -817,7 +817,7 @@ Rare Vintage [Corrupt Pleasure]#Dargoth
 \\C[14]妖魔に対して\\C[0]プレゼントすると、友好度が上がる。
 > CONTEXT: Items/85/description
 A green jewel symbolizing happiness. Can be sold for money.
-When given as a gift to a monster, \\C[14]increases friendship.#afrg
+\\C[14]Increases friendship when given to a demon\\C[0].#afrg
 > END STRING
 
 > BEGIN STRING
@@ -859,8 +859,8 @@ High-Quality Fish Bento#afrg
 聡明を意味する水色の宝石。売ってもお金になる。
 \\C[14]妖魔に対して\\C[0]プレゼントすると、友好度が上がる。
 > CONTEXT: Items/88/description
-Light blue jewel symbolizing intelligence. Very expensive.
-\\C[14]Monsters\\C[0] will like this gift.#afrgPR
+Light blue jewel symbolizing intelligence. Can be sold for
+money. \\C[14]Increases friendship when given to a demon\\C[0].#afrg
 > END STRING
 
 > BEGIN STRING
@@ -873,8 +873,8 @@ Aquamarine#afrg
 情熱を意味する赤色の宝石。売ってもお金になる。
 \\C[14]妖魔に対して\\C[0]プレゼントすると、友好度が上がる。
 > CONTEXT: Items/89/description
-Red jewel symbolizing passion. Very expensive.
-\\C[14]Monsters\\C[0] will like this gift.#afrgPR
+A red jewel symbolizing passion. Can be sold for money.
+\\C[14]Increases friendship when given to a demon\\C[0].#afrg
 > END STRING
 
 > BEGIN STRING
@@ -1102,8 +1102,9 @@ Titanoboa's Eyeball#afrgPR
 カマソッソからもぎとった、触手の収納された尻尾。
 ヌルヌルして汚らわしい
 > CONTEXT: Items/112/description
-A tail that was torn from a Camazotz, with her tentacles.
-It's slimy and messy.#afrg
+A tail full of tentacles torn off from a Camazotz.
+
+It's slimy and disgusting.#afrg/Ron
 > END STRING
 
 > BEGIN STRING
