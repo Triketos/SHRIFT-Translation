@@ -68,7 +68,7 @@ Empuse \\C[2]did not accept the gift...#Ron
 > BEGIN STRING
 心蝕を消すif(v[44] \>= 100) 
 > CONTEXT: Map042/events/5/pages/0/252/Choice/0
-Remove mind corruption if(v[44] \>= 100) #Dargoth
+Clear corruption if(v[44] \>= 100) #Dargoth
 > END STRING
 
 > BEGIN STRING
@@ -84,7 +84,7 @@ Do you... want to... play again...?#Ron
 > BEGIN STRING
 "エンプーサの心蝕が治った！！"
 > CONTEXT: Map042/events/5/pages/0/274/InlineScript/1:12
-"エンプーサ's mind corruption cured!!"#Ron
+"Empuse's corruption cured!!"#Ron
 > END STRING
 
 > BEGIN STRING

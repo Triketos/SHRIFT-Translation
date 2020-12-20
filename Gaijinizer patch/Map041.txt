@@ -73,7 +73,7 @@ thought into the gifts you give women... Fufufu.#Ron
 > BEGIN STRING
 心蝕を消すif(v[42] \>= 100) 
 > CONTEXT: Map041/events/5/pages/0/216/Choice/0
-Remove mind corruption if(v[42] \>= 100) #Dargoth
+Clear corruption if(v[42] \>= 100) #Dargoth
 > END STRING
 
 > BEGIN STRING
@@ -89,7 +89,7 @@ Have you been spoiled too much today...? ♡#Ron
 > BEGIN STRING
 "アイアンメイデンの心蝕が治った！！"
 > CONTEXT: Map041/events/5/pages/0/238/InlineScript/1:12
-"Iron Maiden's mind corruption has been cured!!"#Ron
+"Iron Maiden's corruption has been cured!!"#Ron
 > END STRING
 
 > BEGIN STRING

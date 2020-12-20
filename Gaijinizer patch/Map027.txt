@@ -126,7 +126,7 @@ Lampas \\C[2]did not accept the gift...#Ron
 > BEGIN STRING
 心蝕を消すif(v[43] \>= 100) 
 > CONTEXT: Map027/events/5/pages/0/275/Choice/0
-Remove mind corruption if(v[43] \>= 100) #Dargoth
+Clear corruption if(v[43] \>= 100) #Dargoth
 > END STRING
 
 > BEGIN STRING
@@ -142,7 +142,7 @@ me with other Lampas♪#Triketos
 > BEGIN STRING
 "ランパスの心蝕が治った！！"
 > CONTEXT: Map027/events/5/pages/0/297/InlineScript/1:12
-"Lampas's mind corruption cured!!"#Triketos
+"Lampas's corruption cured!!"#Triketos
 > END STRING
 
 > BEGIN STRING
