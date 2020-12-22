@@ -5,9 +5,9 @@
 ルシィから頼まれた調味料を買ってくるから
  ここで大人しく待ってるんだよ？
 > CONTEXT: Map239/events/1/pages/0/9/Dialogue/kazuya
-Good? barghest. Because I will buy seasonings
-that are asked from Lucy. Are you waiting here
-quietly?#MTLed
+Okay Barghest, I'm just going inside to buy some
+seasonings that Lucy asked for. So be good and
+wait here, alright?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -15,8 +15,8 @@ quietly?#MTLed
 
 すぐ戻ってくるとは思うけど…
 > CONTEXT: Map239/events/1/pages/0/14/Dialogue/kazuya
-Well, because only one item at this store,
-I think I'll be back soon ...#MTLed
+Though they only sell one thing here, so it
+probably won't take me very long...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -24,7 +24,7 @@ I think I'll be back soon ...#MTLed
 
  　吠えるのをやめなさい！」
 > CONTEXT: Map239/events/1/pages/0/46/Dialogue
-*「Kore! Terry! Stop barking!」#MTLed
+*「Hey! Terry! Stop barking!」#Ron
 > END STRING
 
 > BEGIN STRING
@@ -32,7 +32,7 @@ I think I'll be back soon ...#MTLed
 
 　　すっごいデカい黒犬！！」
 > CONTEXT: Map239/events/1/pages/0/51/Dialogue
-*「Mom, look and see! Great big black dog! !」#MTLed
+*「Mama, look, look! There's a big black dog!!」#Ron
 > END STRING
 
 > BEGIN STRING
@@ -40,14 +40,14 @@ I think I'll be back soon ...#MTLed
 
 　　でも、首輪を着けてるから、誰かの飼い犬かしら……？」
 > CONTEXT: Map239/events/1/pages/0/58/Dialogue
-*「Oh, really! But because you wear a collar, is it
-someone's pet dog ...?」#MTLed
+*「Oh, you're right! But it's wearing a collar so it
+   must be someone's pet.」#Ron
 > END STRING
 
 > BEGIN STRING
 あ、あはは、ど、どうも……
 > CONTEXT: Map239/events/1/pages/0/73/Dialogue/kazuya
-Ah, ah, but ......#MTLed
+A-Ahaha, hello...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -55,7 +55,9 @@ Ah, ah, but ......#MTLed
 
 もしかして、うちのバーゲストが、何かしました…？
 > CONTEXT: Map239/events/1/pages/0/75/Dialogue/kazuya
-Hmmm....... Did my barghest do something ...?#MTLed
+Ummm...
+
+Did my Barghest do something by any chance...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -63,8 +65,9 @@ Hmmm....... Did my barghest do something ...?#MTLed
 
 　　とっても行儀の良い子だなぁって話してたんです。」
 > CONTEXT: Map239/events/1/pages/0/82/Dialogue
-*「No, I can't wait, sit down and wait. I told you that it
-was a very good boy.」#MTLed
+*「No, not at all. She wasn't barking, and she was sitting
+   there so properly, so we were just talking about how
+   well-behaved she is.」#Ron
 > END STRING
 
 > BEGIN STRING
@@ -72,8 +75,7 @@ was a very good boy.」#MTLed
 
 　　羨ましいわぁ……」
 > CONTEXT: Map239/events/1/pages/0/86/Dialogue
-*「Surely the discipline of the owner is good
-I'm envious ...」#MTLed
+*「Her owner must have trained her very well. I'm jealous.」#Ron
 > END STRING
 
 > BEGIN STRING
@@ -81,9 +83,8 @@ I'm envious ...」#MTLed
 
 縄張りに無関心なだけっていうか………はは……
 > CONTEXT: Map239/events/1/pages/0/93/Dialogue/kazuya
-No ..... Rather this child is ...
-I'm not interested in the territory...... haha
-​​... ...#MTLed
+Well, it's more like she's not really interested
+in guarding territory or anything... haha...#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -91,8 +92,8 @@ I'm not interested in the territory...... haha
 
 結博士の発明品『虚像投影首輪』だ。
 > CONTEXT: Map239/events/1/pages/0/102/Dialogue
-Now the barghest is wearing a collar. It is an invention of
-Dr. Yui. "The virtual image projection collar".#MTLed
+The collar that Barghest now wears was invented by Professor
+Yui, dubbed the "Virtual Image Projection Collar".#Ron
 > END STRING
 
 > BEGIN STRING
@@ -101,8 +102,7 @@ Dr. Yui. "The virtual image projection collar".#MTLed
  あらかじめ用意された　『ただの黒犬』という姿に
 差し替わって認識される。
 > CONTEXT: Map239/events/1/pages/0/106/Dialogue
-The barghest looks like a magician. In the form of "just
-black dog" prepared in advance. Replaced and recognized.#MTLed
+To everyday people, she simply looks like a normal black dog.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -111,10 +111,10 @@ black dog" prepared in advance. Replaced and recognized.#MTLed
 
 だから、博士にあまり過信しないように言われている。
 > CONTEXT: Map239/events/1/pages/0/111/Dialogue
-But it does not work for human beings with magic
-If you try to touch it, it will not change to barghest
-itself. So you are told not to be overly convinced by the
-doctor.#MTLed
+However, it has no effect on humans possessing magic, and
+her usual form will be revealed if someone tries to touch
+her. That's why the Professor told us not to put too much
+faith in the device.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -123,6 +123,6 @@ doctor.#MTLed
 少しの間でも、彼女と街中で一緒にいられるのが、
 充分に幸せだと感じている………
 > CONTEXT: Map239/events/1/pages/0/116/Dialogue
-Still I am ......... For a little while, I can be with her
-in the city, I feel happy enough.........#MTLed
+But just being able to spend even a little time together with
+her in the city brings me plenty of happiness...#Ron
 > END STRING
