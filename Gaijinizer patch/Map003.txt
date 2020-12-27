@@ -640,8 +640,8 @@ think it's a big deal if you lose.#Aesthetic
 
 『押し倒し』　これだけだ。
 > CONTEXT: Map003/events/1/pages/2/26/Dialogue/クッション君
-There's only one thing you need to worry about regarding Barghest. 
-『Pin Down』. 
+There's only one thing you need to worry about
+regarding Barghest,『Pin Down』. 
 That's all.#Aesthetic
 > END STRING
 
@@ -1654,26 +1654,26 @@ Dajiif(v[34] \>= 1)#MTLed
 
 > BEGIN STRING
 通常フォーム
-> CONTEXT: Map003/events/1/pages/2/455/Choice/0
+> CONTEXT: Map003/events/1/pages/2/454/Choice/0
 > CONTEXT: Map094/events/13/pages/0/6/Choice/0
 Normal Form#Ron
 > END STRING
 
 > BEGIN STRING
 アルラウネ・フォーム　if(s[476])
-> CONTEXT: Map003/events/1/pages/2/455/Choice/1
+> CONTEXT: Map003/events/1/pages/2/454/Choice/1
 Alraune Formif(s[476])#Ron
 > END STRING
 
 > BEGIN STRING
 ビースト・フォーム　if(s[479])
-> CONTEXT: Map003/events/1/pages/2/455/Choice/2
+> CONTEXT: Map003/events/1/pages/2/454/Choice/2
 Beast Formif(s[479])#Ron
 > END STRING
 
 > BEGIN STRING
 ジェル・フォーム　if(s[521])
-> CONTEXT: Map003/events/1/pages/2/455/Choice/3
+> CONTEXT: Map003/events/1/pages/2/454/Choice/3
 Gel Formif(s[521])#Ron
 > END STRING
 
@@ -1681,7 +1681,7 @@ Gel Formif(s[521])#Ron
 ダッキは、今までお前が出会った悪魔の危険攻撃を
 
 様々な用途で仕掛けてくる強敵だ。
-> CONTEXT: Map003/events/1/pages/2/457/Dialogue/クッション君
+> CONTEXT: Map003/events/1/pages/2/456/Dialogue/クッション君
 > CONTEXT: Map094/events/13/pages/0/8/Dialogue/クッション君
 Daji is a powerful enemy who can use all kinds
 of dangerous attacks you've seen from the demons
@@ -1693,7 +1693,7 @@ you've encountered so far.#Ron
 \\C[2]アルケニーの『魔眼』。
  躯の『口車』と『時間停止』。
 そして、尻尾による手足の拘束。
-> CONTEXT: Map003/events/1/pages/2/461/Dialogue/クッション君
+> CONTEXT: Map003/events/1/pages/2/460/Dialogue/クッション君
 > CONTEXT: Map094/events/13/pages/0/12/Dialogue/クッション君
 Her normal form can use \\C[2]Arachne's "Magic Eyes",
 Mukuro's "Temptation" and "Time Stop" abilities,
@@ -1704,7 +1704,7 @@ and can bind your hands and feet with her tails.#Ron
  『時間停止』は、躯の時と同じで『防御』すればいい。
 
  尻尾も一応、シルフストームである程度無力化できる。
-> CONTEXT: Map003/events/1/pages/2/466/Dialogue/クッション君
+> CONTEXT: Map003/events/1/pages/2/465/Dialogue/クッション君
 > CONTEXT: Map094/events/13/pages/0/17/Dialogue/クッション君
 You can protect against "Time Stop" like you did
 in your fight with Mukuro by using "Defend". Her
@@ -1716,7 +1716,7 @@ by using Sylph Storm.#Ron
 \\C[2]だが、『口車』の直後の『魔眼』には気を付けろよ。
 
  相手との距離が離れるまで、決して油断するな。
-> CONTEXT: Map003/events/1/pages/2/470/Dialogue/クッション君
+> CONTEXT: Map003/events/1/pages/2/469/Dialogue/クッション君
 > CONTEXT: Map094/events/13/pages/0/21/Dialogue/クッション君
 \\C[2]But watch out for her "Magic Eyes" straight
 after she tries to tempt you. Stay on guard until
@@ -1727,7 +1727,7 @@ she moves away from you.#Ron
  通常形態のダッキは、魔法で攻撃することが多い。
 
 だから耐性も、属性の魔法攻撃はほとんど効かない。
-> CONTEXT: Map003/events/1/pages/2/474/Dialogue/クッション君
+> CONTEXT: Map003/events/1/pages/2/473/Dialogue/クッション君
 > CONTEXT: Map094/events/13/pages/0/25/Dialogue/クッション君
 She uses a lot of magic attacks in her normal
 form. So using magic on her, even if it's
@@ -1738,7 +1738,7 @@ element-based, won't have much effect.#Ron
 だが逆に、\\C[2]物理攻撃はまともに通るみたいだ。
 
  銃攻撃で、ピンチになる前に畳み掛けてやれ。
-> CONTEXT: Map003/events/1/pages/2/478/Dialogue/クッション君
+> CONTEXT: Map003/events/1/pages/2/477/Dialogue/クッション君
 > CONTEXT: Map094/events/13/pages/0/29/Dialogue/クッション君
 Having said that, \\C[2]physical attacks should work
 on her. Be sure to use your gun to blow her away
@@ -1750,7 +1750,7 @@ before you get yourself in a real pinch.#Ron
 
 \\C[2]アイアンメイデンとランパスの攻撃を模してくる。
 シェルターの悪夢再来だな。
-> CONTEXT: Map003/events/1/pages/2/484/Dialogue/クッション君
+> CONTEXT: Map003/events/1/pages/2/483/Dialogue/クッション君
 Daji's alraune form \\C[2]imitates the attacks of
 Iron Maiden and Lampas. It's a repeat of your
 nightmare in the shelter.#Ron
@@ -1761,7 +1761,7 @@ nightmare in the shelter.#Ron
 
 \\C[2]『口塞ぎ』をしてくるツタは最優先で振り払わないと
 脱力してそのまま養分コースだ。
-> CONTEXT: Map003/events/1/pages/2/489/Dialogue/クッション君
+> CONTEXT: Map003/events/1/pages/2/488/Dialogue/クッション君
 First and foremost, you need to watch out for her
 Lampas-based attacks. \\C[2]Shaking off her "Gagging"
 ivy should be top priority, otherwise she'll
@@ -1773,7 +1773,7 @@ debilitate you and turn you into nutrients.#Ron
 
  \\C[2]状態異常確率は低いが、恍惚無効のアイテムを使うか
  クールカームを使った方が確実だろう。
-> CONTEXT: Map003/events/1/pages/2/494/Dialogue/クッション君
+> CONTEXT: Map003/events/1/pages/2/493/Dialogue/クッション君
 Her pollen attacks every turn are also a hassle.
 \\C[2]The chances of it afflicting you with a bad
 status are low, but it's a good idea to use
@@ -1785,7 +1785,7 @@ anti-ecstasy items or Cool Calm.#RonIffyWording
  シルフストームが一番効果的だ。
 
  足拘束以外なら、大体それで回避できる。
-> CONTEXT: Map003/events/1/pages/2/499/Dialogue/クッション君
+> CONTEXT: Map003/events/1/pages/2/498/Dialogue/クッション君
 Sylph Storm is the most effective measure against
 her Iron Maiden-style binding attacks. Aside from
 your legs, that should allow you to avoid her
@@ -1797,7 +1797,7 @@ binding attacks for the most part.#RonIffy
 
 \\C[2]奴がこっちの身体を引っ張ってる時の方が
 ダメージが通るってことを覚えておくといいかもな。
-> CONTEXT: Map003/events/1/pages/2/504/Dialogue/クッション君
+> CONTEXT: Map003/events/1/pages/2/503/Dialogue/クッション君
 But when you're fighting her with physical
 attacks, \\C[2]don't forget that you'll do the most
 damage when she's pulling you in.#CheckLater
@@ -1808,7 +1808,7 @@ damage when she's pulling you in.#CheckLater
 
  バーゲストやエンプーサみたいな『魔獣』の特性を持った
 物理特化タイプの形態だ。
-> CONTEXT: Map003/events/1/pages/2/511/Dialogue/クッション君
+> CONTEXT: Map003/events/1/pages/2/510/Dialogue/クッション君
 Daji's beast form has the characteristics of
 Barghest's and Empuse's specialized physical
 attacks.#Ron
@@ -1819,7 +1819,7 @@ attacks.#Ron
 一撃もらうだけでもかなり痛い。
 
 \\C[2]シルフストームは必須だな。
-> CONTEXT: Map003/events/1/pages/2/516/Dialogue/クッション君
+> CONTEXT: Map003/events/1/pages/2/515/Dialogue/クッション君
 Since this form specializes in physical attacks,
 even one hit from her can do a real number on
 you, so \\C[2]using Sylph Storm is a must.#Ron
@@ -1829,7 +1829,7 @@ you, so \\C[2]using Sylph Storm is a must.#Ron
 それと、雄叫びの『スタン』やブレスでの『脱力』も怖いから
 
 \\C[2]上位魔法は『ヘルブレイク』を取っておくといい。
-> CONTEXT: Map003/events/1/pages/2/521/Dialogue/クッション君
+> CONTEXT: Map003/events/1/pages/2/520/Dialogue/クッション君
 Also, she can inflict "Stun" with her roar, and
 "Debilitated" with her poison breath attacks, so
 \\C[2]you should make sure you've learned
@@ -1841,7 +1841,7 @@ Also, she can inflict "Stun" with her roar, and
 \\C[2]厄介なのは、『時止め』を使ってくる事がある点だ。
 
 その場合は、『防御行動』だ。間違えるなよ？
-> CONTEXT: Map003/events/1/pages/2/525/Dialogue/クッション君
+> CONTEXT: Map003/events/1/pages/2/524/Dialogue/クッション君
 You can avoid her Mother Rabbit-style jump attack
 by taking an evasive posture, but the problem is
 \\C[2]her "Time Stop" ability. Don't mix the two
@@ -1853,7 +1853,7 @@ up.#Ron
 回避力が少し高い。
 
  当たらないと感じたら、無理せず魔法とかで属性攻撃だ。
-> CONTEXT: Map003/events/1/pages/2/530/Dialogue/クッション君
+> CONTEXT: Map003/events/1/pages/2/529/Dialogue/クッション君
 Also, you can inflict physical damage on this
 form, but she has a decent dodge ability.
 If it feels like you're not able to hit her, try
@@ -1864,7 +1864,7 @@ using element-based magic attacks instead.#Ron
 \\C[2]弱点は氷属性。
 
 バーゲストやアコニートゥムと一緒だな。
-> CONTEXT: Map003/events/1/pages/2/535/Dialogue/クッション君
+> CONTEXT: Map003/events/1/pages/2/534/Dialogue/クッション君
 \\C[2]Like Barghest and Aconitum, this form is weak
 to ice-based attacks.#Ron
 > END STRING
@@ -1873,7 +1873,7 @@ to ice-based attacks.#Ron
 妲己のジェル・フォームは
 
  これまでの形態とは少し毛色が違う。
-> CONTEXT: Map003/events/1/pages/2/541/Dialogue/クッション君
+> CONTEXT: Map003/events/1/pages/2/540/Dialogue/クッション君
 Daji's gel form has a slightly different
 disposition to her other forms.#Ron
 > END STRING
@@ -1883,7 +1883,7 @@ disposition to her other forms.#Ron
 『スフィンクスのキス』での攻撃を仕掛けてくるからな
 
 \\C[0]各種ゲージより、そっちを注意する必要がある。
-> CONTEXT: Map003/events/1/pages/2/545/Dialogue/クッション君
+> CONTEXT: Map003/events/1/pages/2/544/Dialogue/クッション君
 But either way, \\C[2]she'll come at you with Nina's
 dancing, and Sphinx's kiss attacks. \\C[0]You'll need
 to keep an eye on your various bars.#RonIffy
@@ -1894,7 +1894,7 @@ to keep an eye on your various bars.#RonIffy
 
 例えば、スフィンクスのキスは、ナゾナゾは無しだ。
 アホなところは真似したくなかったんだろうな……
-> CONTEXT: Map003/events/1/pages/2/550/Dialogue/クッション君
+> CONTEXT: Map003/events/1/pages/2/549/Dialogue/クッション君
 Well, it's not completely the same. For example,
 Daji's version of the kiss attack doesn't come
 with any riddles. I guess she doesn't want to
@@ -1906,7 +1906,7 @@ mimic the stupidity that goes along with that...#Ron
 
 \\C[2]ジェル・フォームのジェルは、エコーの粘液と同じだ
 普通に手を使っても、拘束は解除できない。
-> CONTEXT: Map003/events/1/pages/2/555/Dialogue/クッション君
+> CONTEXT: Map003/events/1/pages/2/554/Dialogue/クッション君
 You should struggle if you get caught, but
 \\C[2]her gel form has the same kind of mucus as Echo,
 so you won't be able to struggle out like you
@@ -1918,7 +1918,7 @@ normally would.#Ron
 
 これもエコーの時に実践しなかったか？
 お前が初期の頃から使ってるヤツだよ。
-> CONTEXT: Map003/events/1/pages/2/560/Dialogue/クッション君
+> CONTEXT: Map003/events/1/pages/2/559/Dialogue/クッション君
 \\C[2]There's a way of freeing yourself without
 using your arms or legs, same as you did when you
 fought Echo. You've been doing it from the start.#Ron
@@ -1929,7 +1929,7 @@ fought Echo. You've been doing it from the start.#Ron
 
 \\C[2]制限時間がニーナの時より長いから
 慌てず、ミスしないように入力するんだ。
-> CONTEXT: Map003/events/1/pages/2/565/Dialogue/クッション君
+> CONTEXT: Map003/events/1/pages/2/564/Dialogue/クッション君
 And her dance moves aren't as agile as Nina's.
 \\C[2]You'll have more time to respond so don't get
 flustered and make a mistake.#Ron
@@ -1939,7 +1939,7 @@ flustered and make a mistake.#Ron
 それと………エコーの粘液と同質ってだけあって
 
 \\C[2]この形態に物理攻撃はほとんど効かないみたいだ。
-> CONTEXT: Map003/events/1/pages/2/570/Dialogue/クッション君
+> CONTEXT: Map003/events/1/pages/2/569/Dialogue/クッション君
 Finally, since her mucus is the same type as
 Echo's, \\C[2]physical attacks won't be particularly
 effective against this form.#Ron
@@ -1949,7 +1949,7 @@ effective against this form.#Ron
 アイテムや魔法を使って、\\C[2]電撃属性で攻めるんだ。
 
 \\C[0]この形態をしのげば、あともう一息だぞ。
-> CONTEXT: Map003/events/1/pages/2/574/Dialogue/クッション君
+> CONTEXT: Map003/events/1/pages/2/573/Dialogue/クッション君
 \\C[2]Use items and magic that are lightning-based.\\C[0]
 You'll be almost there if you can overcome this
 form.#Ron
@@ -1957,13 +1957,13 @@ form.#Ron
 
 > BEGIN STRING
 リベンジしない
-> CONTEXT: Map003/events/1/pages/2/593/Choice/0
+> CONTEXT: Map003/events/1/pages/2/592/Choice/0
 Don't get revenge#Dargoth
 > END STRING
 
 > BEGIN STRING
 データを削除する
-> CONTEXT: Map003/events/1/pages/2/593/Choice/2
+> CONTEXT: Map003/events/1/pages/2/592/Choice/2
 Erase data#Dargoth
 > END STRING
 
@@ -1972,39 +1972,41 @@ Erase data#Dargoth
 
 \\C[2]ボス戦のあとにどこかしらでセーブすると
 リベンジデータは消えるから注意するんだな。
-> CONTEXT: Map003/events/1/pages/2/607/Dialogue/クッション君
+> CONTEXT: Map003/events/1/pages/2/606/Dialogue/クッション君 < UNTRANSLATED
 It doesn't look like there's any revenge data.
 \\C[2]Be careful, if you save somewhere after a
 boss battle their revenge data will disappear.#Ron
 > END STRING
 
 > BEGIN STRING
+この難易度では、難易度を変更することは出来ません。
+> CONTEXT: Map003/events/1/pages/2/616/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
 \\C[10]お前に他の難易度は無理なんだろ？
 
-悪いことはいわないから、身の丈に合った立場いにろって。
-> CONTEXT: Map003/events/1/pages/2/617/Dialogue/クッション君
+悪いことはいわないから、これ以上難しい難易度はやめとけ。
+> CONTEXT: Map003/events/1/pages/2/622/Dialogue/クッション君
 \\C[10]You can't afford other difficulty levels, right?
 I don't say bad things, so I'm in a position that
 fits my height.#MTLed
 > END STRING
 
 > BEGIN STRING
-難易度：\\C[3]易しい
-\\C[0]アイテムの量が倍になり、被ダメージが半減します。
-とりあえず苦労せずにクリアしたい方向けの難易度です。
-> CONTEXT: Map003/events/1/pages/2/626/Dialogue
-> CONTEXT: Map094/events/13/pages/0/81/Dialogue
-Difficulty：\\C[3] Easy
-\\C[0]Find double items; receive only half damage.
-For people who are only masochists sexually.#Dargoth
+この難易度では、救済措置を受けることは出来ません。
+> CONTEXT: Map003/events/2/pages/2/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map003/events/2/pages/5/1/Dialogue < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
 …………貴方に救済措置は要らないでしょう？
 
 傍観者さん？
-> CONTEXT: Map003/events/2/pages/2/1/Dialogue/other1
-> CONTEXT: Map003/events/2/pages/5/1/Dialogue/other1
+> CONTEXT: Map003/events/2/pages/2/7/Dialogue/other1
+> CONTEXT: Map003/events/2/pages/5/7/Dialogue/other1
 ............ You don't need Assistance for you?
 Mr. Bystander?#MTLed
 > END STRING
@@ -2014,8 +2016,8 @@ Mr. Bystander?#MTLed
 
 【救済可能数】：\\V[102]
 【救済使用ポイント】：\\V[168]
-> CONTEXT: Map003/events/2/pages/2/9/Dialogue/other1
-> CONTEXT: Map003/events/2/pages/5/9/Dialogue/other1
+> CONTEXT: Map003/events/2/pages/2/15/Dialogue/other1
+> CONTEXT: Map003/events/2/pages/5/15/Dialogue/other1
 You can request "Assists" from here.
 【Assist Points Left】: \\V[102]
 【Assist Points Used】: \\V[168]#MTLed
@@ -2023,32 +2025,32 @@ You can request "Assists" from here.
 
 > BEGIN STRING
 『救済措置って？』
-> CONTEXT: Map003/events/2/pages/2/14/Choice/0
-> CONTEXT: Map003/events/2/pages/5/14/Choice/0
+> CONTEXT: Map003/events/2/pages/2/20/Choice/0
+> CONTEXT: Map003/events/2/pages/5/20/Choice/0
 > CONTEXT: Map018/events/2/pages/0/4/Choice/0
 [Choose Assistance]#Dargoth
 > END STRING
 
 > BEGIN STRING
 お金が欲しい【消費１】en(v[102] \>= 1) 
-> CONTEXT: Map003/events/2/pages/2/14/Choice/1
-> CONTEXT: Map003/events/2/pages/5/14/Choice/1
+> CONTEXT: Map003/events/2/pages/2/20/Choice/1
+> CONTEXT: Map003/events/2/pages/5/20/Choice/1
 > CONTEXT: Map018/events/2/pages/0/4/Choice/1
 Money [Cost: 1] en(v[102] \>= 1) #Dargoth
 > END STRING
 
 > BEGIN STRING
 ＳＰが欲しい【消費２】en(v[102] \>= 2) 
-> CONTEXT: Map003/events/2/pages/2/14/Choice/2
-> CONTEXT: Map003/events/2/pages/5/14/Choice/2
+> CONTEXT: Map003/events/2/pages/2/20/Choice/2
+> CONTEXT: Map003/events/2/pages/5/20/Choice/2
 > CONTEXT: Map018/events/2/pages/0/4/Choice/2
 Skill Points [Cost: 2] en(v[102] \>= 2) #Dargoth
 > END STRING
 
 > BEGIN STRING
 弾薬が欲しい【消費１】en(v[102] \>= 1) 
-> CONTEXT: Map003/events/2/pages/2/14/Choice/3
-> CONTEXT: Map003/events/2/pages/5/14/Choice/3
+> CONTEXT: Map003/events/2/pages/2/20/Choice/3
+> CONTEXT: Map003/events/2/pages/5/20/Choice/3
 > CONTEXT: Map018/events/2/pages/0/4/Choice/3
 Ammo [Cost: 1] en(v[102] \>= 1) #Dargoth
 > END STRING
@@ -2057,8 +2059,8 @@ Ammo [Cost: 1] en(v[102] \>= 1) #Dargoth
 あなたが『免罪符』でコンテニューしてここに戻ってきたとき
 
 \\C[2]戦闘で消費したアイテムや弾はそのままです。
-> CONTEXT: Map003/events/2/pages/2/16/Dialogue/other1
-> CONTEXT: Map003/events/2/pages/5/16/Dialogue/other1
+> CONTEXT: Map003/events/2/pages/2/22/Dialogue/other1
+> CONTEXT: Map003/events/2/pages/5/22/Dialogue/other1
 > CONTEXT: Map018/events/2/pages/0/6/Dialogue/other1
 When you come back here via the "Indulgence" we
 gave you, \\C[2]items and bullets consumed in that
@@ -2069,8 +2071,8 @@ battle you lost are not returned to you.#Ron
 さらにはエンカウントで負けていた場合、心蝕まで付いていて
 
 こちらが不利になる状況ばかりになってしまいます。
-> CONTEXT: Map003/events/2/pages/2/20/Dialogue/other1
-> CONTEXT: Map003/events/2/pages/5/20/Dialogue/other1
+> CONTEXT: Map003/events/2/pages/2/26/Dialogue/other1
+> CONTEXT: Map003/events/2/pages/5/26/Dialogue/other1
 > CONTEXT: Map018/events/2/pages/0/10/Dialogue/other1
 Furthermore, if you lose the encounter, you will
 receive demonic corruption from the demon you lost
@@ -2081,8 +2083,8 @@ to. This is to no one's benefit here.#Ron
 そこで私が、\\C[2]あなたがコンテニューした回数に応じて
 
 何かしらの救済措置をさせていただきます。
-> CONTEXT: Map003/events/2/pages/2/24/Dialogue/other1
-> CONTEXT: Map003/events/2/pages/5/24/Dialogue/other1
+> CONTEXT: Map003/events/2/pages/2/30/Dialogue/other1
+> CONTEXT: Map003/events/2/pages/5/30/Dialogue/other1
 > CONTEXT: Map018/events/2/pages/0/14/Dialogue/other1
 So \\C[2]depending on the number of times you've
 revived, I will provde some level of assistance.#Ron
@@ -2092,8 +2094,8 @@ revived, I will provde some level of assistance.#Ron
 アイテムが足りないのであれば、回復アイテムを…
 
 純粋に資金が足りないのであれば、お金を希望してください。
-> CONTEXT: Map003/events/2/pages/2/28/Dialogue/other1
-> CONTEXT: Map003/events/2/pages/5/28/Dialogue/other1
+> CONTEXT: Map003/events/2/pages/2/34/Dialogue/other1
+> CONTEXT: Map003/events/2/pages/5/34/Dialogue/other1
 > CONTEXT: Map018/events/2/pages/0/18/Dialogue/other1
 If you don't have enough items, I can replenish
 some. If you are genuinely short of money, please
@@ -2104,8 +2106,8 @@ request more from me.#Ron
 ただし、お気を付け下さいませ…。
 
 \\C[2]救済を受けた回数は、物語の結末に影響します。
-> CONTEXT: Map003/events/2/pages/2/32/Dialogue/other1
-> CONTEXT: Map003/events/2/pages/5/32/Dialogue/other1
+> CONTEXT: Map003/events/2/pages/2/38/Dialogue/other1
+> CONTEXT: Map003/events/2/pages/5/38/Dialogue/other1
 However, please be careful. \\C[2]The number of
 assists can affect the ending.#Ron
 > END STRING
@@ -2114,8 +2116,8 @@ assists can affect the ending.#Ron
 あくまで、詰まないようにするための救済措置ですので
 
 戦略的には、あまりアテになさりすぎないように…
-> CONTEXT: Map003/events/2/pages/2/36/Dialogue/other1
-> CONTEXT: Map003/events/2/pages/5/36/Dialogue/other1
+> CONTEXT: Map003/events/2/pages/2/42/Dialogue/other1
+> CONTEXT: Map003/events/2/pages/5/42/Dialogue/other1
 These are here to help you avoid getting stuck.
 
 Be strategic, and don't overdo it too much...#Ron
@@ -2123,24 +2125,24 @@ Be strategic, and don't overdo it too much...#Ron
 
 > BEGIN STRING
 資金を救済措置として受け取りますか？
-> CONTEXT: Map003/events/2/pages/2/44/Dialogue/other1
-> CONTEXT: Map003/events/2/pages/5/44/Dialogue/other1
+> CONTEXT: Map003/events/2/pages/2/50/Dialogue/other1
+> CONTEXT: Map003/events/2/pages/5/50/Dialogue/other1
 > CONTEXT: Map018/events/2/pages/0/34/Dialogue/other1
-Do you want to receive funds as an assistance?#MTLed
+Do you want to receive funds as assistance?#MTLed
 > END STRING
 
 > BEGIN STRING
 ＳＰを救済措置として受け取りますか？
-> CONTEXT: Map003/events/2/pages/2/59/Dialogue/other1
-> CONTEXT: Map003/events/2/pages/5/59/Dialogue/other1
+> CONTEXT: Map003/events/2/pages/2/65/Dialogue/other1
+> CONTEXT: Map003/events/2/pages/5/65/Dialogue/other1
 > CONTEXT: Map018/events/2/pages/0/49/Dialogue/other1
-Do you receive SP as an Assistance?#MTLed
+Do you receive SP as Assistance?#MTLed
 > END STRING
 
 > BEGIN STRING
 "ＳＰが５増加！！"
-> CONTEXT: Map003/events/2/pages/2/63/InlineScript/1:12
-> CONTEXT: Map003/events/2/pages/5/63/InlineScript/1:12
+> CONTEXT: Map003/events/2/pages/2/69/InlineScript/1:12
+> CONTEXT: Map003/events/2/pages/5/69/InlineScript/1:12
 > CONTEXT: Map018/events/2/pages/0/53/InlineScript/1:12
 > CONTEXT: Map025/events/3/pages/1/8/InlineScript/1:12
 > CONTEXT: Map025/events/7/pages/1/8/InlineScript/1:12
@@ -2152,8 +2154,8 @@ Do you receive SP as an Assistance?#MTLed
 
 > BEGIN STRING
 弾薬を救済措置として受け取りますか？
-> CONTEXT: Map003/events/2/pages/2/74/Dialogue/other1
-> CONTEXT: Map003/events/2/pages/5/74/Dialogue/other1
+> CONTEXT: Map003/events/2/pages/2/80/Dialogue/other1
+> CONTEXT: Map003/events/2/pages/5/80/Dialogue/other1
 > CONTEXT: Map018/events/2/pages/0/64/Dialogue/other1
 Do you want to receive ammunition as an
 assistance?#MTLed
@@ -2161,25 +2163,25 @@ assistance?#MTLed
 
 > BEGIN STRING
 回復アイテムが欲しい【消費１】en(v[102] \>= 1) 
-> CONTEXT: Map003/events/2/pages/2/91/Choice/0
-> CONTEXT: Map003/events/2/pages/5/91/Choice/0
+> CONTEXT: Map003/events/2/pages/2/97/Choice/0
+> CONTEXT: Map003/events/2/pages/5/97/Choice/0
 > CONTEXT: Map018/events/2/pages/0/81/Choice/0
 Recovery Items [Cost: 1] en(v[102] \>= 1) #Dargoth
 > END STRING
 
 > BEGIN STRING
 心蝕を消す【消費？】
-> CONTEXT: Map003/events/2/pages/2/91/Choice/1
-> CONTEXT: Map003/events/2/pages/5/91/Choice/1
+> CONTEXT: Map003/events/2/pages/2/97/Choice/1
+> CONTEXT: Map003/events/2/pages/5/97/Choice/1
 Remove mind corruption [Cost: ?]#Dargoth
 > END STRING
 
 > BEGIN STRING
 なんでもない
-> CONTEXT: Map003/events/2/pages/2/91/Choice/2
-> CONTEXT: Map003/events/2/pages/2/355/Choice/0
-> CONTEXT: Map003/events/2/pages/5/91/Choice/2
-> CONTEXT: Map003/events/2/pages/5/393/Choice/0
+> CONTEXT: Map003/events/2/pages/2/97/Choice/2
+> CONTEXT: Map003/events/2/pages/2/361/Choice/0
+> CONTEXT: Map003/events/2/pages/5/97/Choice/2
+> CONTEXT: Map003/events/2/pages/5/399/Choice/0
 > CONTEXT: Map014/events/92/pages/1/192/Choice/1
 > CONTEXT: Map018/events/2/pages/0/81/Choice/2
 > CONTEXT: Map018/events/2/pages/0/115/Choice/2
@@ -2188,8 +2190,8 @@ Nothing#Dargoth
 
 > BEGIN STRING
 回復アイテムを救済措置として受け取りますか？
-> CONTEXT: Map003/events/2/pages/2/95/Dialogue/other1
-> CONTEXT: Map003/events/2/pages/5/95/Dialogue/other1
+> CONTEXT: Map003/events/2/pages/2/101/Dialogue/other1
+> CONTEXT: Map003/events/2/pages/5/101/Dialogue/other1
 > CONTEXT: Map018/events/2/pages/0/85/Dialogue/other1
 Do you want to receive recovery items as
 Assistance?#MTLed
@@ -2199,8 +2201,8 @@ Assistance?#MTLed
 この救済措置を受ける際の注意点ですが……
 
 \\C[2]この救済措置利用回数は、共通データに保存されます。
-> CONTEXT: Map003/events/2/pages/2/122/Dialogue/other1
-> CONTEXT: Map003/events/2/pages/5/122/Dialogue/other1
+> CONTEXT: Map003/events/2/pages/2/128/Dialogue/other1
+> CONTEXT: Map003/events/2/pages/5/128/Dialogue/other1
 Please note: \\C[2]The number of times you make use
 of this Assist is stored in the game's common
 data.#MTLed
@@ -2211,8 +2213,8 @@ data.#MTLed
 
 どのセーブデータのエンディングも、救済を受けた回数が
 ＋１増える、ということですね。
-> CONTEXT: Map003/events/2/pages/2/126/Dialogue/other1
-> CONTEXT: Map003/events/2/pages/5/126/Dialogue/other1
+> CONTEXT: Map003/events/2/pages/2/132/Dialogue/other1
+> CONTEXT: Map003/events/2/pages/5/132/Dialogue/other1
 \\C[2]In other words, every time you use this Assist,
 it gets recorded against you even if you go back
 to a previous save.#Ron
@@ -2223,8 +2225,8 @@ to a previous save.#Ron
 
 \\C[2]一度エンディングを見ること\\C[0]になります。
 くれぐれも、慎重に選択してくださいね
-> CONTEXT: Map003/events/2/pages/2/131/Dialogue/other1
-> CONTEXT: Map003/events/2/pages/5/131/Dialogue/other1
+> CONTEXT: Map003/events/2/pages/2/137/Dialogue/other1
+> CONTEXT: Map003/events/2/pages/5/137/Dialogue/other1
 The only way to reset the counter is by \\C[2]getting
 to one of the endings\\C[0].
 
@@ -2233,8 +2235,8 @@ Please choose carefully.#Ron
 
 > BEGIN STRING
 どの悪魔の心蝕を消すのですか？
-> CONTEXT: Map003/events/2/pages/2/137/Dialogue/other1
-> CONTEXT: Map003/events/2/pages/5/137/Dialogue/other1
+> CONTEXT: Map003/events/2/pages/2/143/Dialogue/other1
+> CONTEXT: Map003/events/2/pages/5/143/Dialogue/other1
 > CONTEXT: Map018/events/2/pages/0/113/Dialogue/other1
 Which demon's corruption would you like to have
 removed?#Ron
@@ -2242,70 +2244,70 @@ removed?#Ron
 
 > BEGIN STRING
 バーゲストif(v[21] \>= 1) 
-> CONTEXT: Map003/events/2/pages/2/139/Choice/0
-> CONTEXT: Map003/events/2/pages/5/139/Choice/0
+> CONTEXT: Map003/events/2/pages/2/145/Choice/0
+> CONTEXT: Map003/events/2/pages/5/145/Choice/0
 > CONTEXT: Map018/events/2/pages/0/115/Choice/0
 Barghestif(v[21] \>= 1)#Ron
 > END STRING
 
 > BEGIN STRING
 ランパスif(v[22] \>= 1) 
-> CONTEXT: Map003/events/2/pages/2/139/Choice/1
-> CONTEXT: Map003/events/2/pages/5/139/Choice/1
+> CONTEXT: Map003/events/2/pages/2/145/Choice/1
+> CONTEXT: Map003/events/2/pages/5/145/Choice/1
 > CONTEXT: Map018/events/2/pages/0/115/Choice/1
 Lampasif(v[22] \>= 1)#Ron
 > END STRING
 
 > BEGIN STRING
 アイアンメイデンif(v[23] \>= 1) 
-> CONTEXT: Map003/events/2/pages/2/139/Choice/2
-> CONTEXT: Map003/events/2/pages/5/139/Choice/2
+> CONTEXT: Map003/events/2/pages/2/145/Choice/2
+> CONTEXT: Map003/events/2/pages/5/145/Choice/2
 Iron Maiden if(v[23] \>= 1) #Dargoth
 > END STRING
 
 > BEGIN STRING
 エンプーサif(v[24] \>= 1) 
-> CONTEXT: Map003/events/2/pages/2/139/Choice/3
-> CONTEXT: Map003/events/2/pages/5/139/Choice/3
+> CONTEXT: Map003/events/2/pages/2/145/Choice/3
+> CONTEXT: Map003/events/2/pages/5/145/Choice/3
 Empuse if(v[24] \>= 1) #Dargoth
 > END STRING
 
 > BEGIN STRING
 バーゲストの心蝕の治療を希望しますか？
-> CONTEXT: Map003/events/2/pages/2/143/Dialogue/other1
-> CONTEXT: Map003/events/2/pages/5/143/Dialogue/other1
+> CONTEXT: Map003/events/2/pages/2/149/Dialogue/other1
+> CONTEXT: Map003/events/2/pages/5/149/Dialogue/other1
 > CONTEXT: Map018/events/2/pages/0/119/Dialogue/other1
 Do you wish to remove Barghest's corruption?#Ron
 > END STRING
 
 > BEGIN STRING
 "心蝕が治った！！"
-> CONTEXT: Map003/events/2/pages/2/147/InlineScript/1:12
-> CONTEXT: Map003/events/2/pages/2/164/InlineScript/1:12
-> CONTEXT: Map003/events/2/pages/2/181/InlineScript/1:12
-> CONTEXT: Map003/events/2/pages/2/198/InlineScript/1:12
-> CONTEXT: Map003/events/2/pages/2/219/InlineScript/1:12
-> CONTEXT: Map003/events/2/pages/2/236/InlineScript/1:12
-> CONTEXT: Map003/events/2/pages/2/253/InlineScript/1:12
-> CONTEXT: Map003/events/2/pages/2/270/InlineScript/1:12
-> CONTEXT: Map003/events/2/pages/2/291/InlineScript/1:12
-> CONTEXT: Map003/events/2/pages/2/308/InlineScript/1:12
-> CONTEXT: Map003/events/2/pages/2/325/InlineScript/1:12
-> CONTEXT: Map003/events/2/pages/2/342/InlineScript/1:12
-> CONTEXT: Map003/events/2/pages/5/147/InlineScript/1:12
-> CONTEXT: Map003/events/2/pages/5/164/InlineScript/1:12
-> CONTEXT: Map003/events/2/pages/5/181/InlineScript/1:12
-> CONTEXT: Map003/events/2/pages/5/198/InlineScript/1:12
-> CONTEXT: Map003/events/2/pages/5/219/InlineScript/1:12
-> CONTEXT: Map003/events/2/pages/5/236/InlineScript/1:12
-> CONTEXT: Map003/events/2/pages/5/253/InlineScript/1:12
-> CONTEXT: Map003/events/2/pages/5/270/InlineScript/1:12
-> CONTEXT: Map003/events/2/pages/5/291/InlineScript/1:12
-> CONTEXT: Map003/events/2/pages/5/308/InlineScript/1:12
-> CONTEXT: Map003/events/2/pages/5/325/InlineScript/1:12
-> CONTEXT: Map003/events/2/pages/5/342/InlineScript/1:12
-> CONTEXT: Map003/events/2/pages/5/363/InlineScript/1:12
-> CONTEXT: Map003/events/2/pages/5/380/InlineScript/1:12
+> CONTEXT: Map003/events/2/pages/2/153/InlineScript/1:12
+> CONTEXT: Map003/events/2/pages/2/170/InlineScript/1:12
+> CONTEXT: Map003/events/2/pages/2/187/InlineScript/1:12
+> CONTEXT: Map003/events/2/pages/2/204/InlineScript/1:12
+> CONTEXT: Map003/events/2/pages/2/225/InlineScript/1:12
+> CONTEXT: Map003/events/2/pages/2/242/InlineScript/1:12
+> CONTEXT: Map003/events/2/pages/2/259/InlineScript/1:12
+> CONTEXT: Map003/events/2/pages/2/276/InlineScript/1:12
+> CONTEXT: Map003/events/2/pages/2/297/InlineScript/1:12
+> CONTEXT: Map003/events/2/pages/2/314/InlineScript/1:12
+> CONTEXT: Map003/events/2/pages/2/331/InlineScript/1:12
+> CONTEXT: Map003/events/2/pages/2/348/InlineScript/1:12
+> CONTEXT: Map003/events/2/pages/5/153/InlineScript/1:12
+> CONTEXT: Map003/events/2/pages/5/170/InlineScript/1:12
+> CONTEXT: Map003/events/2/pages/5/187/InlineScript/1:12
+> CONTEXT: Map003/events/2/pages/5/204/InlineScript/1:12
+> CONTEXT: Map003/events/2/pages/5/225/InlineScript/1:12
+> CONTEXT: Map003/events/2/pages/5/242/InlineScript/1:12
+> CONTEXT: Map003/events/2/pages/5/259/InlineScript/1:12
+> CONTEXT: Map003/events/2/pages/5/276/InlineScript/1:12
+> CONTEXT: Map003/events/2/pages/5/297/InlineScript/1:12
+> CONTEXT: Map003/events/2/pages/5/314/InlineScript/1:12
+> CONTEXT: Map003/events/2/pages/5/331/InlineScript/1:12
+> CONTEXT: Map003/events/2/pages/5/348/InlineScript/1:12
+> CONTEXT: Map003/events/2/pages/5/369/InlineScript/1:12
+> CONTEXT: Map003/events/2/pages/5/386/InlineScript/1:12
 > CONTEXT: Map018/events/2/pages/0/123/InlineScript/1:12
 > CONTEXT: Map018/events/2/pages/0/139/InlineScript/1:12
 "Corruption cleared!!"#Ron
@@ -2313,135 +2315,135 @@ Do you wish to remove Barghest's corruption?#Ron
 
 > BEGIN STRING
 ランパスの心蝕の治療を希望しますか？
-> CONTEXT: Map003/events/2/pages/2/160/Dialogue/other1
-> CONTEXT: Map003/events/2/pages/5/160/Dialogue/other1
+> CONTEXT: Map003/events/2/pages/2/166/Dialogue/other1
+> CONTEXT: Map003/events/2/pages/5/166/Dialogue/other1
 > CONTEXT: Map018/events/2/pages/0/135/Dialogue/other1
 Do you wish to remove Lampas' corruption?#Ron
 > END STRING
 
 > BEGIN STRING
 アイアンメイデンの心蝕の治療を希望しますか？
-> CONTEXT: Map003/events/2/pages/2/177/Dialogue/other1
-> CONTEXT: Map003/events/2/pages/5/177/Dialogue/other1
+> CONTEXT: Map003/events/2/pages/2/183/Dialogue/other1
+> CONTEXT: Map003/events/2/pages/5/183/Dialogue/other1
 Do you wish to remove Iron Maiden's corruption?#Ron
 > END STRING
 
 > BEGIN STRING
 エンプーサの心蝕の治療を希望しますか？
-> CONTEXT: Map003/events/2/pages/2/194/Dialogue/other1
-> CONTEXT: Map003/events/2/pages/5/194/Dialogue/other1
+> CONTEXT: Map003/events/2/pages/2/200/Dialogue/other1
+> CONTEXT: Map003/events/2/pages/5/200/Dialogue/other1
 Do you wish to remove Empuse's corruption?#Ron
 > END STRING
 
 > BEGIN STRING
 マザーラビットif(v[25] \>= 1) 
-> CONTEXT: Map003/events/2/pages/2/211/Choice/0
-> CONTEXT: Map003/events/2/pages/5/211/Choice/0
+> CONTEXT: Map003/events/2/pages/2/217/Choice/0
+> CONTEXT: Map003/events/2/pages/5/217/Choice/0
 Mother Rabbitif(v[25] \>= 1)#Ron
 > END STRING
 
 > BEGIN STRING
 ハル＆リズif(v[26] \>= 1) 
-> CONTEXT: Map003/events/2/pages/2/211/Choice/1
-> CONTEXT: Map003/events/2/pages/5/211/Choice/1
+> CONTEXT: Map003/events/2/pages/2/217/Choice/1
+> CONTEXT: Map003/events/2/pages/5/217/Choice/1
 Haru & Lizif(v[26] \>= 1)#Ron
 > END STRING
 
 > BEGIN STRING
 躯if(v[27] \>= 1) 
-> CONTEXT: Map003/events/2/pages/2/211/Choice/2
-> CONTEXT: Map003/events/2/pages/5/211/Choice/2
+> CONTEXT: Map003/events/2/pages/2/217/Choice/2
+> CONTEXT: Map003/events/2/pages/5/217/Choice/2
 Mukuroif(v[27] \>= 1)#Ron
 > END STRING
 
 > BEGIN STRING
 ニーナif(v[28] \>= 1) 
-> CONTEXT: Map003/events/2/pages/2/211/Choice/3
-> CONTEXT: Map003/events/2/pages/5/211/Choice/3
+> CONTEXT: Map003/events/2/pages/2/217/Choice/3
+> CONTEXT: Map003/events/2/pages/5/217/Choice/3
 Ninaif(v[28] \>= 1)#Ron
 > END STRING
 
 > BEGIN STRING
 マザーラビットの心蝕の治療を希望しますか？
-> CONTEXT: Map003/events/2/pages/2/215/Dialogue/other1
-> CONTEXT: Map003/events/2/pages/5/215/Dialogue/other1
+> CONTEXT: Map003/events/2/pages/2/221/Dialogue/other1
+> CONTEXT: Map003/events/2/pages/5/221/Dialogue/other1
 Do you wish to remove Mother Rabbit's corruption?#Ron
 > END STRING
 
 > BEGIN STRING
 ハル&リズの心蝕の治療を希望しますか？
-> CONTEXT: Map003/events/2/pages/2/232/Dialogue/other1
-> CONTEXT: Map003/events/2/pages/5/232/Dialogue/other1
+> CONTEXT: Map003/events/2/pages/2/238/Dialogue/other1
+> CONTEXT: Map003/events/2/pages/5/238/Dialogue/other1
 Do you wish to remove Haru & Liz's corruption?#Ron
 > END STRING
 
 > BEGIN STRING
 躯の心蝕の治療を希望しますか？
-> CONTEXT: Map003/events/2/pages/2/249/Dialogue/other1
-> CONTEXT: Map003/events/2/pages/5/249/Dialogue/other1
+> CONTEXT: Map003/events/2/pages/2/255/Dialogue/other1
+> CONTEXT: Map003/events/2/pages/5/255/Dialogue/other1
 Do you wish to remove Mukuro's corruption?#Ron
 > END STRING
 
 > BEGIN STRING
 ニーナの心蝕の治療を希望しますか？
-> CONTEXT: Map003/events/2/pages/2/266/Dialogue/other1
-> CONTEXT: Map003/events/2/pages/5/266/Dialogue/other1
+> CONTEXT: Map003/events/2/pages/2/272/Dialogue/other1
+> CONTEXT: Map003/events/2/pages/5/272/Dialogue/other1
 Do you wish to remove Nina's corruption?#Ron
 > END STRING
 
 > BEGIN STRING
 アルケニーif(v[29] \>= 1) 
-> CONTEXT: Map003/events/2/pages/2/283/Choice/0
-> CONTEXT: Map003/events/2/pages/5/283/Choice/0
+> CONTEXT: Map003/events/2/pages/2/289/Choice/0
+> CONTEXT: Map003/events/2/pages/5/289/Choice/0
 Arachneif(v[29] \>= 1)#Ron
 > END STRING
 
 > BEGIN STRING
 スフィンクスif(v[30] \>= 1) 
-> CONTEXT: Map003/events/2/pages/2/283/Choice/1
-> CONTEXT: Map003/events/2/pages/5/283/Choice/1
+> CONTEXT: Map003/events/2/pages/2/289/Choice/1
+> CONTEXT: Map003/events/2/pages/5/289/Choice/1
 Sphinxif(v[30] \>= 1)#Ron
 > END STRING
 
 > BEGIN STRING
 エコーif(v[31] \>= 1) 
-> CONTEXT: Map003/events/2/pages/2/283/Choice/2
-> CONTEXT: Map003/events/2/pages/5/283/Choice/2
+> CONTEXT: Map003/events/2/pages/2/289/Choice/2
+> CONTEXT: Map003/events/2/pages/5/289/Choice/2
 Echoif(v[31] \>= 1)#Ron
 > END STRING
 
 > BEGIN STRING
 ティタノボアif(v[32] \>= 1) 
-> CONTEXT: Map003/events/2/pages/2/283/Choice/3
-> CONTEXT: Map003/events/2/pages/5/283/Choice/3
+> CONTEXT: Map003/events/2/pages/2/289/Choice/3
+> CONTEXT: Map003/events/2/pages/5/289/Choice/3
 Titanoboaif(v[32] \>= 1)#Ron
 > END STRING
 
 > BEGIN STRING
 アルケニーの心蝕の治療を希望しますか？
-> CONTEXT: Map003/events/2/pages/2/287/Dialogue/other1
-> CONTEXT: Map003/events/2/pages/5/287/Dialogue/other1
+> CONTEXT: Map003/events/2/pages/2/293/Dialogue/other1
+> CONTEXT: Map003/events/2/pages/5/293/Dialogue/other1
 Do you wish to remove Arachne's corruption?#Ron
 > END STRING
 
 > BEGIN STRING
 スフィンクスの心蝕の治療を希望しますか？
-> CONTEXT: Map003/events/2/pages/2/304/Dialogue/other1
-> CONTEXT: Map003/events/2/pages/5/304/Dialogue/other1
+> CONTEXT: Map003/events/2/pages/2/310/Dialogue/other1
+> CONTEXT: Map003/events/2/pages/5/310/Dialogue/other1
 Do you wish to remove Sphinx's corruption?#Ron
 > END STRING
 
 > BEGIN STRING
 エコーの心蝕の治療を希望しますか？
-> CONTEXT: Map003/events/2/pages/2/321/Dialogue/other1
-> CONTEXT: Map003/events/2/pages/5/321/Dialogue/other1
+> CONTEXT: Map003/events/2/pages/2/327/Dialogue/other1
+> CONTEXT: Map003/events/2/pages/5/327/Dialogue/other1
 Do you wish to remove Echo's corruption?#Ron
 > END STRING
 
 > BEGIN STRING
 ティタノボアの心蝕の治療を希望しますか？
-> CONTEXT: Map003/events/2/pages/2/338/Dialogue/other1
-> CONTEXT: Map003/events/2/pages/5/338/Dialogue/other1
+> CONTEXT: Map003/events/2/pages/2/344/Dialogue/other1
+> CONTEXT: Map003/events/2/pages/5/344/Dialogue/other1
 Do you wish to remove Titanoboa's corruption?#Ron
 > END STRING
 
@@ -2449,7 +2451,7 @@ Do you wish to remove Titanoboa's corruption?#Ron
 …………どうやら、
 
 あなたに『お客様』 が会いに来られたようですね。
-> CONTEXT: Map003/events/2/pages/3/0/Dialogue/other1
+> CONTEXT: Map003/events/2/pages/3/15/Dialogue/other1
 ......It looks like a "visitor" has
 come to see you.#Triketos
 > END STRING
@@ -2458,32 +2460,32 @@ come to see you.#Triketos
 彼女の待つ御部屋にご案内します。
 
 どうぞ、こちらへ………。
-> CONTEXT: Map003/events/2/pages/3/4/Dialogue/other1
+> CONTEXT: Map003/events/2/pages/3/19/Dialogue/other1
 I will show you to her waiting room.
 It's this way...#Aesthetic
 > END STRING
 
 > BEGIN STRING
 カマソッソif(v[33] \>= 1) 
-> CONTEXT: Map003/events/2/pages/5/355/Choice/0
+> CONTEXT: Map003/events/2/pages/5/361/Choice/0
 Camazotzif(v[33] \>= 1)#Triketos
 > END STRING
 
 > BEGIN STRING
 妲己if(v[34] \>= 1) 
-> CONTEXT: Map003/events/2/pages/5/355/Choice/1
+> CONTEXT: Map003/events/2/pages/5/361/Choice/1
 Dajiif(v[34] \>= 1)#Triketos
 > END STRING
 
 > BEGIN STRING
 カマソッソの心蝕の治療を希望しますか？
-> CONTEXT: Map003/events/2/pages/5/359/Dialogue/other1
+> CONTEXT: Map003/events/2/pages/5/365/Dialogue/other1
 Do you wish to remove Camazotz's corruption?#Triketos/Ron
 > END STRING
 
 > BEGIN STRING
 妲己の心蝕の治療を希望しますか？
-> CONTEXT: Map003/events/2/pages/5/376/Dialogue/other1
+> CONTEXT: Map003/events/2/pages/5/382/Dialogue/other1
 Do you wish to remove Daji's corruption?#Triketos/Ron
 > END STRING
 
