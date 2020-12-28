@@ -340,7 +340,7 @@ that I was losing my grip on my humanity.#Ron
 
 > BEGIN STRING
 ……………何が言いたいんだ？
-> CONTEXT: Map014/events/1/pages/1/32/Dialogue/kazuya
+> CONTEXT: Map014/events/1/pages/1/32/Dialogue/kazuya-3
 ...What are you trying to say?#Ron
 > END STRING
 
@@ -637,6 +637,9 @@ straightforward way. Stay alert and keep moving,
 > CONTEXT: Map014/events/11/pages/0/3/Dialogue/kazuya
 > CONTEXT: Map014/events/11/pages/2/3/Dialogue/kazuya
 > CONTEXT: Map014/events/12/pages/0/3/Dialogue/kazuya
+> CONTEXT: Map426/events/11/pages/0/3/Dialogue/kazuya 
+> CONTEXT: Map426/events/11/pages/2/3/Dialogue/kazuya 
+> CONTEXT: Map426/events/12/pages/0/3/Dialogue/kazuya 
 Huh...? This door's... open...?
 It's kinda just swaying there...#Ron
 > END STRING
@@ -648,6 +651,9 @@ It's kinda just swaying there...#Ron
 > CONTEXT: Map014/events/11/pages/0/7/Dialogue/yuuma
 > CONTEXT: Map014/events/11/pages/2/7/Dialogue/yuuma
 > CONTEXT: Map014/events/12/pages/0/7/Dialogue/yuuma
+> CONTEXT: Map426/events/11/pages/0/7/Dialogue/yuuma 
+> CONTEXT: Map426/events/11/pages/2/7/Dialogue/yuuma 
+> CONTEXT: Map426/events/12/pages/0/7/Dialogue/yuuma 
 The autodoors should be locked because there's
 no power running to them... But it looks like
 the lock itself is busted.#Ron
@@ -766,6 +772,7 @@ We'll make you feel soooo gooood...♡ ♡#Ron
 > CONTEXT: Map014/events/23/pages/0/44/Dialogue/kazuya
 > CONTEXT: Map014/events/24/pages/0/44/Dialogue/kazuya
 > CONTEXT: Map233/events/1/pages/0/128/Dialogue/enemy14
+> CONTEXT: Map398/events/1/pages/0/35/Dialogue/kazuya 
 > CONTEXT: Troops/2/pages/2/5/Dialogue/kazuya
 > CONTEXT: Troops/11/pages/3/21/Dialogue/kazuya
 > CONTEXT: Troops/12/pages/3/21/Dialogue/kazuya
@@ -1849,6 +1856,7 @@ it is written like this.#MTLed
 
 周囲の悪魔の反応が………消えている。
 > CONTEXT: Map014/events/97/pages/1/2/Dialogue/yuuma
+> CONTEXT: Map426/events/97/pages/1/2/Dialogue/yuuma 
 ...!!Wait, \\N[1].
 The demons around you..... they're disappearing
 in response.#Ron
@@ -1860,6 +1868,7 @@ in response.#Ron
 意思表示なのかも知れないが……
 これは俺たちにとっては都合がいい。
 > CONTEXT: Map014/events/97/pages/1/6/Dialogue/yuuma
+> CONTEXT: Map426/events/97/pages/1/6/Dialogue/yuuma 
 I don't know whether they're simply disobeying
 Hecate's instructions, but this is convenient
 for us.#Ron
@@ -1870,6 +1879,7 @@ for us.#Ron
 
 最後のバッテリーを付ければ、道は開くはずだ。
 > CONTEXT: Map014/events/97/pages/1/11/Dialogue/yuuma
+> CONTEXT: Map426/events/97/pages/1/11/Dialogue/yuuma 
 Let's head to the center of the residential area
 with the elevator right away. Attach the final
 battery, and the path should open.#Ron
@@ -1878,5 +1888,6 @@ battery, and the path should open.#Ron
 > BEGIN STRING
 "Chapter1-2　まで　クリア"
 > CONTEXT: Map014/events/112/pages/0/8/InlineScript/2:1
+> CONTEXT: Map428/events/112/pages/0/8/InlineScript/2:1 
 "Chapter 1-2 Cleared"#Triketos
 > END STRING

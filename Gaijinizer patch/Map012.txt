@@ -817,7 +817,7 @@ Hey♪. Do ya need something?#Ron
 > CONTEXT: Map110/events/110/pages/1/9/Choice/0 
 > CONTEXT: Map110/events/110/pages/2/9/Choice/0 
 > CONTEXT: Map110/events/110/pages/3/4/Choice/0 
-> CONTEXT: Map217/events/5/pages/0/171/Choice/0 
+> CONTEXT: Map217/events/5/pages/0/177/Choice/0 
 > CONTEXT: Map261/events/40/pages/1/5/Choice/0 
 > CONTEXT: Map261/events/40/pages/2/4/Choice/0 
 > CONTEXT: Map261/events/40/pages/3/5/Choice/0 
@@ -942,8 +942,8 @@ Never mind#Dargoth
 > CONTEXT: Map163/events/14/pages/0/0/Choice/0 
 > CONTEXT: Map174/events/14/pages/0/0/Choice/0 
 > CONTEXT: Map190/events/1/pages/0/0/Choice/0 
-> CONTEXT: Map193/events/42/pages/0/17/Choice/0
-> CONTEXT: Map217/events/5/pages/0/173/Choice/0 
+> CONTEXT: Map193/events/42/pages/0/20/Choice/0
+> CONTEXT: Map217/events/5/pages/0/179/Choice/0 
 > CONTEXT: Map261/events/40/pages/1/7/Choice/0 
 > CONTEXT: Map261/events/40/pages/2/6/Choice/0 
 > CONTEXT: Map261/events/40/pages/3/7/Choice/0 
@@ -1012,8 +1012,8 @@ Recovery Items#Dargoth
 > CONTEXT: Map163/events/14/pages/0/0/Choice/1 
 > CONTEXT: Map174/events/14/pages/0/0/Choice/1 
 > CONTEXT: Map190/events/1/pages/0/0/Choice/1 
-> CONTEXT: Map193/events/42/pages/0/17/Choice/1
-> CONTEXT: Map217/events/5/pages/0/173/Choice/1 
+> CONTEXT: Map193/events/42/pages/0/20/Choice/1
+> CONTEXT: Map217/events/5/pages/0/179/Choice/1 
 > CONTEXT: Map261/events/40/pages/1/7/Choice/1 
 > CONTEXT: Map261/events/40/pages/2/6/Choice/1 
 > CONTEXT: Map261/events/40/pages/3/7/Choice/1 
@@ -1135,7 +1135,7 @@ Equipment#Dargoth
 > CONTEXT: Map163/events/14/pages/0/0/Choice/2
 > CONTEXT: Map174/events/14/pages/0/0/Choice/2
 > CONTEXT: Map190/events/1/pages/0/0/Choice/2
-> CONTEXT: Map193/events/42/pages/0/17/Choice/2
+> CONTEXT: Map193/events/42/pages/0/20/Choice/2
 > CONTEXT: Map261/events/40/pages/1/7/Choice/3
 > CONTEXT: Map261/events/40/pages/2/6/Choice/3
 > CONTEXT: Map261/events/40/pages/3/7/Choice/3
@@ -1151,21 +1151,21 @@ Other#Dargoth
 
 > BEGIN STRING
 『切り札』を売って欲しい if(s[423]) 
-> CONTEXT: Map012/events/8/pages/1/42/Choice/0 
+> CONTEXT: Map012/events/8/pages/1/44/Choice/0 
 > CONTEXT: Map012/events/8/pages/3/42/Choice/0 
-> CONTEXT: Map014/events/14/pages/0/42/Choice/0 
+> CONTEXT: Map014/events/14/pages/0/44/Choice/0 
 > CONTEXT: Map014/events/14/pages/1/42/Choice/0 
-> CONTEXT: Map035/events/14/pages/0/44/Choice/0 
+> CONTEXT: Map035/events/14/pages/0/46/Choice/0 
 > CONTEXT: Map035/events/14/pages/1/44/Choice/0 
-> CONTEXT: Map047/events/40/pages/1/44/Choice/0 
+> CONTEXT: Map047/events/40/pages/1/46/Choice/0 
 > CONTEXT: Map047/events/40/pages/3/43/Choice/0 
-> CONTEXT: Map063/events/72/pages/1/41/Choice/0 
+> CONTEXT: Map063/events/72/pages/1/43/Choice/0 
 > CONTEXT: Map063/events/72/pages/3/40/Choice/0 
-> CONTEXT: Map074/events/40/pages/0/41/Choice/0 
+> CONTEXT: Map074/events/40/pages/0/43/Choice/0 
 > CONTEXT: Map074/events/40/pages/2/40/Choice/0 
 > CONTEXT: Map106/events/59/pages/1/46/Choice/0 
 > CONTEXT: Map106/events/59/pages/2/46/Choice/0 
-> CONTEXT: Map107/events/10/pages/1/46/Choice/0 
+> CONTEXT: Map107/events/10/pages/1/48/Choice/0 
 > CONTEXT: Map107/events/10/pages/2/44/Choice/0 
 > CONTEXT: Map108/events/103/pages/1/46/Choice/0 
 > CONTEXT: Map108/events/103/pages/2/44/Choice/0 
@@ -1182,13 +1182,13 @@ I want you to sell the "Trump Card"if(s[423])#Triketos
 
 > BEGIN STRING
 ２周目専用ショップ if(s[562]) 
-> CONTEXT: Map012/events/8/pages/1/47/Choice/0 
-> CONTEXT: Map014/events/14/pages/0/47/Choice/0 
+> CONTEXT: Map012/events/8/pages/1/49/Choice/0 
+> CONTEXT: Map014/events/14/pages/0/49/Choice/0 
 > CONTEXT: Map014/events/14/pages/1/47/Choice/0 
-> CONTEXT: Map035/events/14/pages/0/49/Choice/0 
-> CONTEXT: Map047/events/40/pages/1/49/Choice/0 
-> CONTEXT: Map063/events/72/pages/1/46/Choice/0 
-> CONTEXT: Map074/events/40/pages/0/46/Choice/0 
+> CONTEXT: Map035/events/14/pages/0/51/Choice/0 
+> CONTEXT: Map047/events/40/pages/1/51/Choice/0 
+> CONTEXT: Map063/events/72/pages/1/48/Choice/0 
+> CONTEXT: Map074/events/40/pages/0/48/Choice/0 
 > CONTEXT: Map106/events/59/pages/1/51/Choice/0 
 > CONTEXT: Map108/events/103/pages/1/51/Choice/0 
 > CONTEXT: Map109/events/109/pages/1/51/Choice/0 
@@ -1223,5 +1223,5 @@ NG+ Shopif(s[562])#Triketos
 > CONTEXT: Map261/events/40/pages/2/0/Dialogue/hyakki
 > CONTEXT: Map280/events/14/pages/2/0/Dialogue/hyakki
 > CONTEXT: Map280/events/14/pages/3/0/Dialogue/hyakki
-Need something?#Dargoth
+...Need something?#Dargoth
 > END STRING
