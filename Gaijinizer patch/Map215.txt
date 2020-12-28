@@ -38,7 +38,7 @@ Current Friendship: \\C[2]\\v[53]\\C[0]#Ron
 ……………？？？
 
 ヨク、ワカラナイ……
-> CONTEXT: Map215/events/5/pages/0/192/Dialogue/enemy16
+> CONTEXT: Map215/events/5/pages/0/198/Dialogue/enemy16
 ...............??? 
 
 Not understand...#afrg
@@ -48,7 +48,7 @@ Not understand...#afrg
 ソンナ　モノヨリ
 
 ハヤク　コウビ…シタイ
-> CONTEXT: Map215/events/5/pages/0/196/Dialogue/enemy16
+> CONTEXT: Map215/events/5/pages/0/202/Dialogue/enemy16
 Is person thing.
 
 Want mate now...#afrg
@@ -56,7 +56,7 @@ Want mate now...#afrg
 
 > BEGIN STRING
 心蝕を消すif(v[53] \>= 100) 
-> CONTEXT: Map215/events/5/pages/0/208/Choice/0
+> CONTEXT: Map215/events/5/pages/0/214/Choice/0
 Erase mind corruptionif(v[53] \>= 100) #afrg
 > END STRING
 
@@ -64,7 +64,7 @@ Erase mind corruptionif(v[53] \>= 100) #afrg
 \\N[1]、コッチ　キテ…♡
 
 イッパイ　イチャイチャ　シヨ？♡
-> CONTEXT: Map215/events/5/pages/0/219/Dialogue/enemy16
+> CONTEXT: Map215/events/5/pages/0/225/Dialogue/enemy16
 \\N[1] came here...♡
 
 We make out much?♡#afrg
@@ -72,13 +72,13 @@ We make out much?♡#afrg
 
 > BEGIN STRING
 "カマソッソの心蝕が治った！！"
-> CONTEXT: Map215/events/5/pages/0/230/InlineScript/1:12
+> CONTEXT: Map215/events/5/pages/0/236/InlineScript/1:12
 "カマソッソ's mind corruption cured!!"#MTLed
 > END STRING
 
 > BEGIN STRING
 心蝕を消す（モドキ）if(v[35] \>= 2) 
-> CONTEXT: Map215/events/5/pages/0/238/Choice/0
+> CONTEXT: Map215/events/5/pages/0/244/Choice/0
 Remove mind corruption (Harpy)if(v[35] \>= 2)#Triketos
 > END STRING
 
@@ -86,7 +86,7 @@ Remove mind corruption (Harpy)if(v[35] \>= 2)#Triketos
 （『うわ、こいつまた負けたのかよ』
 
 って感じの視線が痛い……）
-> CONTEXT: Map215/events/5/pages/0/256/Dialogue/kazuya-a 
+> CONTEXT: Map215/events/5/pages/0/262/Dialogue/kazuya-a 
 ("Wow, this guy has lost again?"
 
 It hurts my eyes at me ...)#GT
@@ -97,7 +97,7 @@ It hurts my eyes at me ...)#GT
 アンナ　カハンシン　ナイヤツ　スキカ！？
 
 ワタシ　ヨリ　スキカ！？
-> CONTEXT: Map215/events/5/pages/0/264/Dialogue/enemy16 
+> CONTEXT: Map215/events/5/pages/0/270/Dialogue/enemy16 
 Gaa! ! \\N[1]!
 Anna Kahan Shin Nyatsu Sukika! ?
 
@@ -109,7 +109,7 @@ I Yori Sukika! ?#GT
 
  \\N[1]、チイサイノヨリ
  スイカミタイ　デカイノ　スキカ！？
-> CONTEXT: Map215/events/5/pages/0/269/Dialogue/enemy16 
+> CONTEXT: Map215/events/5/pages/0/275/Dialogue/enemy16 
 Soletomo Oppika! ?
 
 \\N[1], Chii Sai No Yori
@@ -121,7 +121,7 @@ Watermelon Mitai Decaino Skika! ?#GT
 別にハーピーモドキの方が好きって訳じゃなくて……
 
 このまま挑んじゃうと、また負けちゃうから…………
-> CONTEXT: Map215/events/5/pages/0/275/Dialogue/kazuya 
+> CONTEXT: Map215/events/5/pages/0/281/Dialogue/kazuya 
 Oh, calm down ... Camzotz ...
 Apart from Beetle Harpy who likes it...
 
@@ -132,7 +132,7 @@ If you try as it is, you will lose again.........#GT
 それに、次で負けたくないからこそ、こうやって君に
 
 心蝕を消してほしいって頼んでるんだよ……
-> CONTEXT: Map215/events/5/pages/0/280/Dialogue/kazuya 
+> CONTEXT: Map215/events/5/pages/0/286/Dialogue/kazuya 
 Besides, just because I do not want to lose next,
 
 I'm asking you to get rid of my caries ...#GT
@@ -142,7 +142,7 @@ I'm asking you to get rid of my caries ...#GT
 ………ワカッタ、シカタナイ。
 
 …………-モット　コッチコイ
-> CONTEXT: Map215/events/5/pages/0/285/Dialogue/enemy16 
+> CONTEXT: Map215/events/5/pages/0/291/Dialogue/enemy16 
 ......... Wakatta, Shikatanai.
 
 ............- Motto Kochkoi#GT
@@ -150,7 +150,7 @@ I'm asking you to get rid of my caries ...#GT
 
 > BEGIN STRING
 ………………ツギハ　マケルナヨ
-> CONTEXT: Map215/events/5/pages/0/289/Dialogue/enemy16 
+> CONTEXT: Map215/events/5/pages/0/295/Dialogue/enemy16 
 ............ Tsugiha Makernayo#GT
 > END STRING
 
@@ -158,7 +158,7 @@ I'm asking you to get rid of my caries ...#GT
 彼女と親しく触れ合ったことで
 
 ハーピーモドキの心蝕は軽減されたようだ……。
-> CONTEXT: Map215/events/5/pages/0/296/Dialogue 
+> CONTEXT: Map215/events/5/pages/0/302/Dialogue 
 By spending some intimate time with her,
 the Beetle Harpy's mind corruption has
 been reduced....#Triketos
@@ -166,7 +166,7 @@ been reduced....#Triketos
 
 > BEGIN STRING
 "モドキの心蝕がLv１になった！！"
-> CONTEXT: Map215/events/5/pages/0/300/InlineScript/1:12 
+> CONTEXT: Map215/events/5/pages/0/306/InlineScript/1:12 
 "Harpy's mind corruption has become Lv1!"#Triketos
 > END STRING
 
