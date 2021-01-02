@@ -57,7 +57,7 @@ Want mate now...#afrg
 > BEGIN STRING
 心蝕を消すif(v[53] \>= 100) 
 > CONTEXT: Map215/events/5/pages/0/214/Choice/0
-Erase mind corruptionif(v[53] \>= 100) #afrg
+Clear corruptionif(v[53] \>= 100) #afrg
 > END STRING
 
 > BEGIN STRING
@@ -67,19 +67,19 @@ Erase mind corruptionif(v[53] \>= 100) #afrg
 > CONTEXT: Map215/events/5/pages/0/225/Dialogue/enemy16
 \\N[1] came here...♡
 
-We make out much?♡#afrg
+We make out lots. ♡#afrg
 > END STRING
 
 > BEGIN STRING
 "カマソッソの心蝕が治った！！"
 > CONTEXT: Map215/events/5/pages/0/236/InlineScript/1:12
-"カマソッソ's mind corruption cured!!"#MTLed
+"Camaztoz's corruption cured!!"#Ron
 > END STRING
 
 > BEGIN STRING
 心蝕を消す（モドキ）if(v[35] \>= 2) 
 > CONTEXT: Map215/events/5/pages/0/244/Choice/0
-Remove mind corruption (Harpy)if(v[35] \>= 2)#Triketos
+Clear corruption (Harpy)if(v[35] \>= 2)#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -1684,9 +1684,9 @@ Familiarity set to 100!!#afrg
 
 ワタシト　『ケッコン』　スルノカ？
 > CONTEXT: Map215/events/5/pages/2/2/Dialogue/enemy16
-.................. \\N[1]
+.......\\N[1]...
 
-Marry me?#afrg
+You marry me?#afrg
 > END STRING
 
 > BEGIN STRING
@@ -1694,7 +1694,9 @@ Marry me?#afrg
 
 　下を向いて、黙っちゃったけど……）
 > CONTEXT: Map215/events/5/pages/2/12/Dialogue/kazuya
-(What... I looked down and fell silent... ...)#afrg
+(I wonder what's wrong...
+
+ She's looking down silently...)#afrg/Ron
 > END STRING
 
 > BEGIN STRING
@@ -1702,8 +1704,9 @@ Marry me?#afrg
 
 もしかして、『結婚』が分からないとか…？
 > CONTEXT: Map215/events/5/pages/2/16/Dialogue/kazuya
-Well, uh ......... Perhaps you do not understand
-what "marriage" is...?#afrg
+Well, uh...
+
+Do you maybe not understand what marriage is...?#afrg/Ron
 > END STRING
 
 > BEGIN STRING
@@ -1711,9 +1714,9 @@ what "marriage" is...?#afrg
 
 ニンゲンノ『ケッコン』　モ　『プロポーズ』モ　シッテル
 > CONTEXT: Map215/events/5/pages/2/22/Dialogue/enemy16
-I know bit
+I do know...
 
-I know human's "marriage" and "proposal"#afrg
+I know human's "marriage" and "proposal"...#afrg
 > END STRING
 
 > BEGIN STRING
@@ -1724,7 +1727,7 @@ I know human's "marriage" and "proposal"#afrg
 > CONTEXT: Map215/events/5/pages/2/26/Dialogue/enemy16
 But \\N[1], you know?
 
-If "marry" Camazotz, infestation not avoided.#afrg
+If "marry" Camazotz, you no avoid infestation.#afrg
 > END STRING
 
 > BEGIN STRING
@@ -1733,9 +1736,10 @@ If "marry" Camazotz, infestation not avoided.#afrg
 『キョウセイ　カンケイ』　デモ
 \\N[1]　プライバシー　ナクナル
 > CONTEXT: Map215/events/5/pages/2/31/Dialogue/enemy16
-Tail connect in real world
+Tail connect in real world...
 
-Sex is forced, \\N[1] loses privacy#afrg - incorrect?
+We become symbiotic, \\N[1] lose all
+privacy.#afrg/Rosn
 > END STRING
 
 > BEGIN STRING
@@ -1743,8 +1747,9 @@ Sex is forced, \\N[1] loses privacy#afrg - incorrect?
 
 ……ホントウ　ソレデモイイカ？\\N[1]
 > CONTEXT: Map215/events/5/pages/2/36/Dialogue/enemy16
-'I' Sippoijo Kyori \\N[2]rera Renai
-...... Really? \\N[1]#MTLed
+We never separate further than tail...
+
+That really okay, \\N[1]?#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -1752,8 +1757,9 @@ Sex is forced, \\N[1] loses privacy#afrg - incorrect?
 
 すごく僕の心配してくれてたんだね……
 > CONTEXT: Map215/events/5/pages/2/42/Dialogue/kazuya
-Sorry .... I jumped to conclusions......
-You were really worried about me ...#afrg
+S-Sorry... I jumped to conclusions...
+
+You were actually really worried about me...#afrg
 > END STRING
 
 > BEGIN STRING
@@ -1761,9 +1767,10 @@ You were really worried about me ...#afrg
 
  僕なりにじっくり考えて、決めたんだ。
 > CONTEXT: Map215/events/5/pages/2/47/Dialogue/kazuya
-But...... Don't worry, Camazotz, it's alright. 
+But... you don't need to worry, Camazotz.
 
-I thought about it carefully and decided.#afrg
+I thought about it carefully before making my
+decision.#afrg/Ron
 > END STRING
 
 > BEGIN STRING
@@ -1772,9 +1779,9 @@ I thought about it carefully and decided.#afrg
 
  この空間では『寄生』できないという覚悟を背負って……
 > CONTEXT: Map215/events/5/pages/2/51/Dialogue/kazuya
-You followed me here with purely good intentions.
-
-To this place, where you could not truly infest...#afrg
+You followed me here to this place purely out of
+affection, having prepared yourself knowing that
+you could not parasitize me...#afrg/Ron
 > END STRING
 
 > BEGIN STRING
@@ -1783,9 +1790,9 @@ To this place, where you could not truly infest...#afrg
  共生での生活なんて、むしろ大歓迎さ。
 ずっと君と一緒にいられるなら…
 > CONTEXT: Map215/events/5/pages/2/56/Dialogue/kazuya
-Now I am ready to show you.
-I would welcome living in symbiosis.
-If I can stay with you forever...#afrg
+Now it's my turn to show you how prepared I am.
+I'd actually welcome a symbiotic lifestyle with
+you. We could be together forever that way...#afrg/Ron
 > END STRING
 
 > BEGIN STRING
@@ -1793,8 +1800,8 @@ If I can stay with you forever...#afrg
 
  僕と『結婚』するの………
 > CONTEXT: Map215/events/5/pages/2/67/Dialogue/kazuya
-......Or...do you dislike it...?
-You marrying me.........#afrg
+Or do you maybe not like the idea of marrying
+me...?#afrg/Ron
 > END STRING
 
 > BEGIN STRING
@@ -1802,9 +1809,9 @@ You marrying me.........#afrg
 
 \\N[1]、ウレシイ………♡
 > CONTEXT: Map215/events/5/pages/2/72/Dialogue/enemy16
-Not true...♡
+Not true... ♡
 
-\\N[1], am happy...♡#afrg
+\\N[1], am happy... ♡#afrg
 > END STRING
 
 > BEGIN STRING
@@ -1812,9 +1819,9 @@ Not true...♡
 
 ソレガ　カナウ　ウレシイ…♡
 > CONTEXT: Map215/events/5/pages/2/76/Dialogue/enemy16
-Me and \\N[1] become one, is dream
+Me and \\N[1] become one, is dream...
 
-Happy wish come true...♡#afrg
+Happy wish come true... ♡#afrg
 > END STRING
 
 > BEGIN STRING
@@ -1822,13 +1829,13 @@ Happy wish come true...♡#afrg
 
 \\N[1]の胸元に抱き付いてきた……
 > CONTEXT: Map215/events/5/pages/2/81/Dialogue
-Camazotz slowly hugs \\N[1]'s chest...#afrg
+Camazotz slowly wraps herself around \\N[1]'s chest...#afrg
 > END STRING
 
 > BEGIN STRING
 カマソッソ……
 > CONTEXT: Map215/events/5/pages/2/85/Dialogue/kazuya-a
-Camazotz ......#afrg
+Camazotz...#afrg
 > END STRING
 
 > BEGIN STRING
@@ -1837,14 +1844,16 @@ Camazotz ......#afrg
 
 \\N[1]ニ　メイワク　カケタク　ナイ
 > CONTEXT: Map215/events/5/pages/2/87/Dialogue/enemy16
-\\N[1], "Quisei" Surno. Zenbu Owatta Atonisru
-......... \\N[1] Nii Meiwak Keketaku Nai#MTLed
+\\N[1], we become one after everything all
+finished...
+
+I don't want to be bother...#Ron
 > END STRING
 
 > BEGIN STRING
 ソレマデ………シヌ　ダメダカラ………
 > CONTEXT: Map215/events/5/pages/2/92/Dialogue/enemy16
-Solemade ..... Shinu Damedakara......#MTLed
+Don't die until then...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1852,7 +1861,9 @@ Solemade ..... Shinu Damedakara......#MTLed
 
 待っていてくれ。
 > CONTEXT: Map215/events/5/pages/2/94/Dialogue/kazuya-a
-Oh...I understand. Please wait.#MTLed
+Yeah, I know.
+
+Please wait for me.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1860,30 +1871,29 @@ Oh...I understand. Please wait.#MTLed
 
 \\C[2]カマソッソと婚約した！
 > CONTEXT: Map215/events/5/pages/2/104/Dialogue
-By receiving the engagement ring. \\C[2]Engaged with Camazotz!#MTLed
+By giving her the engagement ring, \\C[2]you're now engaged to
+Camazotz!#Ron
 > END STRING
 
 > BEGIN STRING
 親密度が２５以上必要。
 （現在の値：\\V[53]）
 > CONTEXT: Map215/events/4/pages/0/0/Dialogue
-Familiarity must be 25 or more.
-(Current value: \\V[53] )#afrg
-(Current value: \\V[53] )#afrg
+25 or more intimacy is required. (Current value: \\V[53] )#Ron
 > END STRING
 
 > BEGIN STRING
 親密度が５０以上必要。
 （現在の値：\\V[53]）
 > CONTEXT: Map215/events/6/pages/0/0/Dialogue
-50 or more intimacy is required. (Current value: \\V[53] )#MTLed
+50 or more intimacy is required. (Current value: \\V[53] )#Ron
 > END STRING
 
 > BEGIN STRING
 親密度が１００必要。
 （現在の値：\\V[53]）
 > CONTEXT: Map215/events/3/pages/0/18/Dialogue
-Familiarity must be 100. (Current value: \\V[53] )#afrg
+100 or more intimacy is required. (Current value: \\V[53] )#Ron
 > END STRING
 
 > BEGIN STRING

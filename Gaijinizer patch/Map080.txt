@@ -852,13 +852,15 @@ has reached 100!#Triketos
 > BEGIN STRING
 ……………………………………馬鹿なのか？
 > CONTEXT: Map080/events/5/pages/2/3/Dialogue/enemy4
-............................ Is that stupid?#MTLed
+.....................
+
+Are you an idiot?#Ron
 > END STRING
 
 > BEGIN STRING
 『馬鹿』って言われちゃった………
 > CONTEXT: Map080/events/5/pages/2/5/Dialogue/kazuya
-"Idiot" has been said......#MTLed
+"Idiot", you say...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -867,10 +869,10 @@ has reached 100!#Triketos
  私は悪魔である以前に、『人形』。
  有るのは搾精機能だけで、家事や世話は全くできない。
 > CONTEXT: Map080/events/5/pages/2/7/Dialogue/enemy4
-\\N[1], let's stay calm a little more.
-Before I was a demon, "doll". There is only the
-milking function, which can not do housework or
-care at all.#MTLed
+Think about this more rationally, \\N[1].
+I'm a former "doll", now a demon. The only
+function I have is milking humans, I can't do
+housework or look after you in any way.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -878,9 +880,10 @@ care at all.#MTLed
 
  悪いが、正気を疑うぞ。
 > CONTEXT: Map080/events/5/pages/2/12/Dialogue/enemy4
-Do you say that you want to make an eternal oath
-with such a doll ...? It's bad, but I doubt my
-sanity.#MTLed
+And you're saying you want to make eternal vows
+with that kind of doll?
+
+Sorry, but I'm starting to doubt your sanity.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -888,8 +891,9 @@ sanity.#MTLed
 
 僕が告白してるのは、『躯』に対してだよ。
 > CONTEXT: Map080/events/5/pages/2/17/Dialogue/kazuya
-Well, certainly your "body" will be so ...
-What I confess to is for Mukuro.#MTLed
+I-It's true that is what your body is...
+
+But it's "Mukuro" I'm making the confession to.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -898,9 +902,9 @@ What I confess to is for Mukuro.#MTLed
 今の君も、もしかしたら安らかに眠るために
 僕に付き合ってくれているだけなのかもしれない…。
 > CONTEXT: Map080/events/5/pages/2/21/Dialogue/kazuya
-Well, it was an encounter like that for the first
-time. In order to sleep peacefully, maybe you
-It may be just me dating ....#MTLed
+I know our first encounter was a little rocky.
+And you might just be hanging around me so you
+can finally rest in peace...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -909,8 +913,9 @@ It may be just me dating ....#MTLed
  君とこの先もずっと一緒に居たいって思うし
 気の迷いでないからこそ、『これ』を持ってきたんだ。
 > CONTEXT: Map080/events/5/pages/2/28/Dialogue/kazuya
-But I am serious. I want to be with you forever
-I brought "this" only because I was not lost.#MTLed
+But I'm serious about this. I want to be with you
+forever, and it's because I'm so sure about this
+that I brought this ring with me.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -919,15 +924,16 @@ I brought "this" only because I was not lost.#MTLed
 
 全てひっくるめて、君が大好きなんだ。
 > CONTEXT: Map080/events/5/pages/2/33/Dialogue/kazuya
-Of course, "Body" does not matter to your
-attraction...I am not going to say anything
-beautiful. It's all wrapped up, I love you.#MTLed
+I'm not going to bullshit you with lines about
+how this has nothing to do with how attractive
+your "body" is. This is about how much I love
+every aspect of you.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
 ………それでも、ダメかな？
 > CONTEXT: Map080/events/5/pages/2/38/Dialogue/kazuya
-...... Still, is it useless?#MTLed
+...Knowing that, do you still refuse?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -935,8 +941,10 @@ beautiful. It's all wrapped up, I love you.#MTLed
 
 ただ、ちゃんとした理由を聞きたかっただけだ。
 > CONTEXT: Map080/events/5/pages/2/42/Dialogue/enemy6
-.................. I say no, I do not ......
-I just wanted to hear a good reason.#MTLed
+I never said no...
+
+I just wanted to hear you give me a proper
+reason.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -944,8 +952,9 @@ I just wanted to hear a good reason.#MTLed
 
  私の魂は、たった今より、\\N[1]の伴侶だ……。
 > CONTEXT: Map080/events/5/pages/2/47/Dialogue/enemy6
-Okay...I will receive it. My soul is \\N[1]'s
-partner more than now ....#MTLed
+Okay... I accept.
+
+My soul will be your companion from now on...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -953,8 +962,9 @@ partner more than now ....#MTLed
 
  博士ともじっくり相談しなくてはな………
 > CONTEXT: Map080/events/5/pages/2/51/Dialogue/enemy4
-.......... I will make an effort in functional
-aspect. You have to consult with Dr.#MTLed
+...I'll try to do something about my functions.
+
+I might have to consult with the professor.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -962,28 +972,29 @@ aspect. You have to consult with Dr.#MTLed
 
 \\C[2]躯と婚約した！
 > CONTEXT: Map080/events/5/pages/2/61/Dialogue
-By receiving the engagement ring. \\C[2]Engaged with Mukuro!#MTLed
+By giving her the engagement ring, \\C[2]you're now engaged to
+Mukuro!#Ron
 > END STRING
 
 > BEGIN STRING
 親密度が２５以上必要。
 （現在の値：\\V[47]）
 > CONTEXT: Map080/events/4/pages/0/0/Dialogue
-25 or more intimacy is required. (Current value: \\V[47] )#MTLed
+25 or more intimacy is required. (Current value: \\V[47] )#Ron
 > END STRING
 
 > BEGIN STRING
 親密度が５０以上必要。
 （現在の値：\\V[47]）
 > CONTEXT: Map080/events/6/pages/0/0/Dialogue
-50 or more intimacy is required. (Current value: \\V[47] )#MTLed
+50 or more intimacy is required. (Current value: \\V[47] )#Ron
 > END STRING
 
 > BEGIN STRING
 親密度が１００必要。
 （現在の値：\\V[47]）
 > CONTEXT: Map080/events/3/pages/0/18/Dialogue
-100 intimacy required. (Current value: \\V[47] )#MTLed
+100 intimacy required. (Current value: \\V[47] )#Ron
 > END STRING
 
 > BEGIN STRING

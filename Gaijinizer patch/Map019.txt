@@ -255,7 +255,7 @@ gift.
 > BEGIN STRING
 心蝕を消すif(v[41] \>= 100) 
 > CONTEXT: Map019/events/5/pages/0/188/Choice/0
-Remove mind corruption if(v[41] \>= 100) #Dargoth
+Clear corruption if(v[41] \>= 100) #Dargoth
 > END STRING
 
 > BEGIN STRING
@@ -296,8 +296,8 @@ Requires:【\\C[2] Friendship 100\\C[0]】#Triketos
 > CONTEXT: Map122/events/5/pages/0/206/Dialogue
 > CONTEXT: Map215/events/5/pages/0/214/Dialogue
 > CONTEXT: Map216/events/5/pages/0/359/Dialogue
-There seems to be no mind corruption in battles
-with her...#afrg
+You don't appear to have accrued any corruption from her
+in battles...#afrg/Ron
 > END STRING
 
 > BEGIN STRING
@@ -325,7 +325,7 @@ corruption accrued in battle...#Ron
 > BEGIN STRING
 "バーゲストの心蝕が治った！！"
 > CONTEXT: Map019/events/5/pages/0/208/InlineScript/1:12
-"バーゲスト's mind corruption cured!!"#MTLed
+"Barghest's corruption cured!!"#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1419,7 +1419,7 @@ Your friendship level is now "100"!!#Ron
 
 これ………
 > CONTEXT: Map019/events/5/pages/2/1/Dialogue/kazuya
-Yes, barghest ...... this………#MTLed
+Here you go, Barghest...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1427,8 +1427,8 @@ Yes, barghest ...... this………#MTLed
 
 鼻を近付けて、においを嗅いでいる……
 > CONTEXT: Map019/events/5/pages/2/8/Dialogue
-barghest is a gift that \\N[1] has. Close the nose and
-smell the smell ...#MTLed
+Bargest moves her nose toward the gift \\N[1] is
+presenting and sniffs it...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1437,10 +1437,10 @@ smell the smell ...#MTLed
 首輪にしてあげた方が動きやすいかなって思って
 加工行程をすこし手間かけちゃった……
 > CONTEXT: Map019/events/5/pages/2/12/Dialogue/kazuya
-I really wanted to give a ring, but you move
-around...I thought it would be easier to move
-the collar. It took a lot of time and effort to
-process ...#MTLed
+I really wanted to give you a ring, but since you
+run around a lot, I figured a collar would be
+easier to move around in. It took me a little
+time to get it ready, though...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1448,8 +1448,9 @@ process ...#MTLed
 
 受け取ってくれる……？
 > CONTEXT: Map019/events/5/pages/2/17/Dialogue/kazuya
-Still, this is an "engagement ring" to you ......
-Will you receive ...?#MTLed
+Still, this is my "engagement ring" to you...
+
+Will you accept it...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1457,8 +1458,8 @@ Will you receive ...?#MTLed
 
 意味が分かってないの………？
 > CONTEXT: Map019/events/5/pages/2/25/Dialogue/kazuya
-............... of "engagement ring"
-I do not understand the meaning......?#MTLed
+Don't tell me... you don't understand the
+significance of an engagement ring...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1469,7 +1470,7 @@ I do not understand the meaning......?#MTLed
 > CONTEXT: Map323/events/1/pages/1/57/Dialogue/バーゲスト
 > CONTEXT: Map323/events/1/pages/2/19/Dialogue/バーゲスト
 > CONTEXT: Map359/events/10/pages/0/27/Dialogue/バーゲスト
-Waoof! !#MTLed
+Wan!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1477,7 +1478,9 @@ Waoof! !#MTLed
 
 そのへん言葉で説明するの、恥ずかしいな……
 > CONTEXT: Map019/events/5/pages/2/32/Dialogue/kazuya
-Eh uh...It's embarrassing to explain in words.#MTLed
+Er... Err...
+
+It's embarrassing to explain.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1485,8 +1488,8 @@ Eh uh...It's embarrassing to explain in words.#MTLed
 
 僕の君への『プロポーズ』の証、だよ……
 > CONTEXT: Map019/events/5/pages/2/36/Dialogue/kazuya
-In other words, they say they will stay together
-It is proof of "proposition" to you of me ...#MTLed
+To put it another way, it's like a proposal from
+me that we should be together forever...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1494,14 +1497,13 @@ It is proof of "proposition" to you of me ...#MTLed
 
 『ＯＫ』ってことで、いいのかな……？
 > CONTEXT: Map019/events/5/pages/2/49/Dialogue/kazuya
-Well, that way of pleasure ...
-"OK" is good, is it ...?#MTLed
+Can I take that as a "yes"...?#Ron
 > END STRING
 
 > BEGIN STRING
 ワウッ♡♡
 > CONTEXT: Map019/events/5/pages/2/53/Dialogue/バーゲスト2
-Waoof ♡♡#MTLed
+Wan! ♡♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1509,14 +1511,15 @@ Waoof ♡♡#MTLed
 
 これからはずっと一緒だよ、バーゲスト。
 > CONTEXT: Map019/events/5/pages/2/56/Dialogue/kazuya
-Thank you……. From now on it will be the same,
-barghest.#MTLed
+Thank you...
+
+From now on, we'll be together forever, Barghest.#Ron
 > END STRING
 
 > BEGIN STRING
 うわっ！！ちょっ……！！？
 > CONTEXT: Map019/events/5/pages/2/64/Dialogue/kazuya-0
-whah! Hey ...!!?#MTLed
+Uwaah!! Hey...!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1524,8 +1527,9 @@ whah! Hey ...!!?#MTLed
 
 み、耳は………なっ…めぇ……！！♡
 > CONTEXT: Map019/events/5/pages/2/69/Dialogue/kazuya-0
-Ah……!!Stop it ......!! Mi, my ears...... ...
-... Me......!!Moth#MTLed
+Aah...!! Stop it...!!
+
+D-Don't lick... my ears...!! ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1533,15 +1537,16 @@ Ah……!!Stop it ......!! Mi, my ears...... ...
 
 こりゃ、文字通り尻に敷かれる未来が見えるな。
 > CONTEXT: Map019/events/5/pages/2/75/Dialogue/other1
-often, fierce from the first day of engagement.
-Well, I can see the future that is literally laid
-on the butt.#MTLed
+Ooh, going at it rough from day one.
+
+I can already see what kind of future you two are
+going to have.#RonLocalization
 > END STRING
 
 > BEGIN STRING
 ううっ………
 > CONTEXT: Map019/events/5/pages/2/79/Dialogue/kazuya-a
-uugh.........#MTLed
+Uuugh...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1549,28 +1554,29 @@ uugh.........#MTLed
 
 \\C[2]バーゲストと婚約した！
 > CONTEXT: Map019/events/5/pages/2/89/Dialogue
-By receiving the engagement ring. \\C[2]Engaged with barghest!#MTLed
+By giving her the engagement ring, \\C[2]you're now engaged to
+Barghest!#Ron
 > END STRING
 
 > BEGIN STRING
 親密度が２５以上必要。
 （現在の値：\\V[41]）
 > CONTEXT: Map019/events/4/pages/0/0/Dialogue
-25 or more intimacy is required. (Current value: \\V[41] )#MTLed
+25 or more intimacy is required. (Current value: \\V[41] )#Ron
 > END STRING
 
 > BEGIN STRING
 親密度が５０以上必要。
 （現在の値：\\V[41]）
 > CONTEXT: Map019/events/6/pages/0/0/Dialogue
-50 or more intimacy is required. (Current value: \\V[41] )#MTLed
+50 or more intimacy is required. (Current value: \\V[41] )#Ron
 > END STRING
 
 > BEGIN STRING
 親密度が１００必要。
 （現在の値：\\V[41]）
 > CONTEXT: Map019/events/3/pages/0/18/Dialogue
-100 intimacy required. (Current value: \\V[41] )#MTLed
+100 intimacy required. (Current value: \\V[41] )#Ron
 > END STRING
 
 > BEGIN STRING

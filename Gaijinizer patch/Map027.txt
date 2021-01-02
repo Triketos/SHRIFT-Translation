@@ -126,7 +126,7 @@ Lampas \\C[2]did not accept the gift...#Ron
 > BEGIN STRING
 心蝕を消すif(v[43] \>= 100) 
 > CONTEXT: Map027/events/5/pages/0/275/Choice/0
-Remove mind corruption if(v[43] \>= 100) #Dargoth
+Clear corruption if(v[43] \>= 100) #Dargoth
 > END STRING
 
 > BEGIN STRING
@@ -142,7 +142,7 @@ me with other Lampas♪#Triketos
 > BEGIN STRING
 "ランパスの心蝕が治った！！"
 > CONTEXT: Map027/events/5/pages/0/297/InlineScript/1:12
-"Lampas's mind corruption cured!!"#Triketos
+"Lampas's corruption cured!!"#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -761,7 +761,9 @@ Okay let's go further in. ♡#Ron
 
 受け取ってもらえる…？
 > CONTEXT: Map027/events/5/pages/2/1/Dialogue/kazuya
-Lampas, this ......... Can you get me ...?#MTLed
+Lampas, here...
+
+Will you accept this...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -769,8 +771,9 @@ Lampas, this ......... Can you get me ...?#MTLed
 
 これ、もらっていいの…？
 > CONTEXT: Map027/events/5/pages/2/6/Dialogue/enemy
-Wow ......... beautiful ring. 
-Can I get this ...?#MTLed
+Wow... what a beautiful ring.
+
+Can I really have this...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -778,8 +781,9 @@ Can I get this ...?#MTLed
 
 どうしたの？今さら贈り物なんて……
 > CONTEXT: Map027/events/5/pages/2/10/Dialogue/enemy
-... but you and me are already good friends,
-right? What's wrong? What a gift now ...#MTLed
+...But you and me are already good friends.
+
+Why are you giving me a gift now...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -787,8 +791,8 @@ right? What's wrong? What a gift now ...#MTLed
 
 この贈り物には、特別な意味がある。
 > CONTEXT: Map027/events/5/pages/2/15/Dialogue/kazuya
-...... ...... "Because it is a good
-relationship". This gift has a special meaning.#MTLed
+It's because we're "good friends" that I'm giving
+it to you. This gift has a special significance.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -796,14 +800,15 @@ relationship". This gift has a special meaning.#MTLed
 
 これは、そのために使う指輪なんだ
 > CONTEXT: Map027/events/5/pages/2/19/Dialogue/kazuya
-Lampas, do you know "Propose"?
-This is a ring to use for that#MTLed
+Do you know what it means to be "proposed" to?
+
+That's what this ring is for.#Ron
 > END STRING
 
 > BEGIN STRING
 …………………………知ってる、けど………
 > CONTEXT: Map027/events/5/pages/2/24/Dialogue/enemy
-......................... I know, but .........#MTLed
+...I have heard about that, but...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -812,9 +817,10 @@ This is a ring to use for that#MTLed
 だって私、悪魔だよ？
  搾精しか能力のない、ヘカーテに創られた……
 > CONTEXT: Map027/events/5/pages/2/26/Dialogue/enemy
-Yeah, you're kidding...right?
-'Cause I'm a demon, right? Created by Hecate, who
-has only milking ability ...#MTLed
+Y-You're kidding, right? I mean, I'm a demon.
+
+I was created by Hecate with no other ability
+besides milking humans...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -823,15 +829,16 @@ has only milking ability ...#MTLed
  最初に会った時から君が好きだったんだ。
  君とこの先もずっと一緒にいたい。
 > CONTEXT: Map027/events/5/pages/2/31/Dialogue/kazuya
-You're kidding, don't say this.
-I have liked you since I first met.
-I want to be with you all the time.#MTLed
+Don't say that. I've liked you ever since we
+first met.
+
+I want to be with you forever from now on.#Ron
 > END STRING
 
 > BEGIN STRING
 …………………ダメ？
 > CONTEXT: Map027/events/5/pages/2/36/Dialogue/kazuya
-…………………No good?#MTLed
+...So is that a no, then?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -839,7 +846,9 @@ I want to be with you all the time.#MTLed
 
 ありがとう、\\N[1]。
 > CONTEXT: Map027/events/5/pages/2/43/Dialogue/enemy3
-I'm glad ......... Thank you \\N[1].#MTLed
+I'm so happy...
+
+Thank you \\N[1].#Ron
 > END STRING
 
 > BEGIN STRING
@@ -847,8 +856,8 @@ I'm glad ......... Thank you \\N[1].#MTLed
 
  ずっと『人間の女の子』に憧れてた……
 > CONTEXT: Map027/events/5/pages/2/47/Dialogue/enemy3
-I, since I was helped by you. 
-I've always been in love with "Human Girl" ...#MTLed
+Ever since you saved me, I've always idolized
+human women...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -857,9 +866,10 @@ I've always been in love with "Human Girl" ...#MTLed
 少しでも『人間』に近づこうと思って
 あなたを、少しでも理解しようと思って……
 > CONTEXT: Map027/events/5/pages/2/51/Dialogue/enemy3
-I can not be a "human" no matter how hard I try
-... I'm thinking of getting closer to "human"
-I try to understand you a little bit ...#MTLed
+But since I could never be "human" no matter how
+hard I tried, I was trying to get a close to
+"human" as possible, trying to get little closer
+to understanding you...#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -867,7 +877,9 @@ I try to understand you a little bit ...#MTLed
 
 大切にするね、この指輪…♡
 > CONTEXT: Map027/events/5/pages/2/58/Dialogue/enemy3
-……Thank you. I cherish, this ring...♡#MTLed
+Thank you...
+
+I'll cherish this ring...♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -875,28 +887,29 @@ I try to understand you a little bit ...#MTLed
 
 \\C[2]ランパスと婚約した！
 > CONTEXT: Map027/events/5/pages/2/68/Dialogue
-By receiving the engagement ring. \\C[2]Engaged with Lampas!#MTLed
+By giving her the engagement ring, \\C[2]you're now engaged to
+Lampas!#Ron
 > END STRING
 
 > BEGIN STRING
 親密度が２５以上必要。
 （現在の値：\\V[43]）
 > CONTEXT: Map027/events/4/pages/0/0/Dialogue
-25 or more intimacy is required. (Current value: \\V[43] )#MTLed
+25 or more intimacy is required. (Current value: \\V[43] )#Ron
 > END STRING
 
 > BEGIN STRING
 親密度が５０以上必要。
 （現在の値：\\V[43]）
 > CONTEXT: Map027/events/6/pages/0/0/Dialogue
-50 or more intimacy is required. (Current value: \\V[43] )#MTLed
+50 or more intimacy is required. (Current value: \\V[43] )#Ron
 > END STRING
 
 > BEGIN STRING
 親密度が１００必要。
 （現在の値：\\V[43]）
 > CONTEXT: Map027/events/3/pages/0/18/Dialogue
-100 intimacy required. (Current value: \\V[43] )#MTLed
+100 intimacy required. (Current value: \\V[43] )#Ron
 > END STRING
 
 > BEGIN STRING

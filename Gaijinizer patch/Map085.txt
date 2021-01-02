@@ -50,14 +50,15 @@ I don't really have a use for that...#Ron
 
 もうちょっと女の子が喜ぶモノにしてよー？
 > CONTEXT: Map085/events/5/pages/0/203/Dialogue/enemy6
-Being a child means "Det her off" by the demon
-standard. Have you made the girl happy again?#MTLed
+You think because I look like a child you can
+give me stuff for a kid? Try giving me something
+a little more appropriate.#RonLocalization/Triketos
 > END STRING
 
 > BEGIN STRING
 心蝕を消すif(v[48] \>= 100) 
 > CONTEXT: Map085/events/5/pages/0/215/Choice/0
-Clear mind corruptionif(v[48] \>= 100)#Ron
+Clear corruptionif(v[48] \>= 100)#Ron
 > END STRING
 
 > BEGIN STRING
@@ -72,7 +73,7 @@ a while...? ♡#Ron
 > BEGIN STRING
 "ニーナの心蝕が治った！！"
 > CONTEXT: Map085/events/5/pages/0/237/InlineScript/1:12
-"ニーナ's mind corruption cured!!"#MTLed
+"Nina's corruption cured!!"#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1096,8 +1097,10 @@ has reached 100!#Triketos
 \\N[1]くん、本気なの？
 こんなに小さな女の子にプロポーズなんて……
 > CONTEXT: Map085/events/5/pages/2/2/Dialogue/enemy6
-Huh…? \\N[1]-kun, are you serious?
-What a proposal for such a little girl ...#MTLed
+Huh...?
+
+\\N[1]-kun, are you serious?
+Are you actually proposing to a little girl...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1105,7 +1108,9 @@ What a proposal for such a little girl ...#MTLed
 
 ダメ………だった……？
 > CONTEXT: Map085/events/5/pages/2/8/Dialogue/kazuya
-Huh………. No...it was......?#MTLed
+What...?
+
+No good, huh...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1114,9 +1119,10 @@ Huh………. No...it was......?#MTLed
 私、こんな見た目だけど、人間界の年齢なら
 \\N[1]くんと同い年くらいだしっ！
 > CONTEXT: Map085/events/5/pages/2/13/Dialogue/enemy6
-By Jordan♪. I look like this, but at the age of
-the human realm. It's about the same age as
-\\N[1]-kun!#MTLed
+Just kidding. ♪
+
+Despite my appearance, I'm actually about the
+same as you in human years!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1125,9 +1131,10 @@ the human realm. It's about the same age as
 まさか\\N[1]くんから、
 こういう方面でアプローチが来るとは思わなくてさ…♡
 > CONTEXT: Map085/events/5/pages/2/18/Dialogue/enemy8
-Just a little, I was surprised ...
-Hey, from \\N[1], I do not think that the
-approach will come in such a direction...♡#MTLed
+I was just a little surprised...
+
+I didn't think you'd take that kind of approach
+with me... ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1135,7 +1142,9 @@ approach will come in such a direction...♡#MTLed
 
 本当はね…
 > CONTEXT: Map085/events/5/pages/2/23/Dialogue/enemy8
-Really...I'm happy. Really ...#MTLed
+I'm happy... I really am...
+
+Really...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1143,8 +1152,9 @@ Really...I'm happy. Really ...#MTLed
 
  浮かない顔だけど……
 > CONTEXT: Map085/events/5/pages/2/29/Dialogue/kazuya
-What's wrong? Nina. It is a face that does not
-float ...#MTLed
+What's wrong, Nina?
+
+You don't look very happy...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1153,9 +1163,10 @@ float ...#MTLed
 この姿になる前の記憶がなくて
 改造のときに、全部消されたんだとずっと思ってた。
 > CONTEXT: Map085/events/5/pages/2/34/Dialogue/enemy6
-\\N[1]-kun, I...I have no memory before this
-form. I always thought that everything was erased
-when I was remodeling it.#MTLed
+\\N[1]-kun... I don't have any memories from
+before I had this form, I always thought they'd
+been completely erased when I was recreated in
+this form.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1163,8 +1174,8 @@ when I was remodeling it.#MTLed
 
 なんとなく、思い出せるものがあるんだ。
 > CONTEXT: Map085/events/5/pages/2/39/Dialogue/enemy6
-But stop the idol......... come to this room
-......There is something I can remember.#MTLed
+But since I quit being an idol and came to this
+room, I'm kind of starting to remember things.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1173,9 +1184,10 @@ But stop the idol......... come to this room
 
  『大きくなったら、アイドルになる』って
 > CONTEXT: Map085/events/5/pages/2/43/Dialogue/enemy6
-I don't know my face, but...maybe a father-like
-person. A girl like me is saying:
-"If you grow up, you become an idol"#MTLed
+I remembered a little girl like me saying
+something to someone who looked like her father.
+She said to him: "I want to be an idol when I
+grow up..."#RonIffyFlow
 > END STRING
 
 > BEGIN STRING
@@ -1183,14 +1195,15 @@ person. A girl like me is saying:
 
 なにか……大事なことを……つぶやくの……
 > CONTEXT: Map085/events/5/pages/2/48/Dialogue/enemy6
-Then the person gives something to the girl ...
-Something...cherish important things......#MTLed
+Then that person gave something to the girl...
+
+And muttered something really important...#Ron
 > END STRING
 
 > BEGIN STRING
 ニーナは、\\N[1]に強く抱きついた……
 > CONTEXT: Map085/events/5/pages/2/57/Dialogue
-Nina was strongly Hug in \\N[1] ......#MTLed
+Nina tightly embraces \\N[1]...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1199,9 +1212,10 @@ Nina was strongly Hug in \\N[1] ......#MTLed
 もしかしたら私、とんでもなく大切な事を忘れて
  ここに存在してるんじゃないかって………
 > CONTEXT: Map085/events/5/pages/2/59/Dialogue/enemy8
-\\N[1] you .... I'm scared ...
-Maybe I forgot the most important thing
-I wonder if it exists here .........#MTLed
+I'm scared, \\N[1]-kun...
+
+I might have forgotten something really
+important, and it might not exist here...#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -1209,8 +1223,9 @@ I wonder if it exists here .........#MTLed
 
 私に向けられる『ホンモノ』であって……
 > CONTEXT: Map085/events/5/pages/2/64/Dialogue/enemy8
-Please .... Only \\N[1] you .........
-It is "the real deal" directed to me ...#MTLed
+Please, \\N[1]-kun...
+
+You're the only "real" thing I can turn to...#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -1218,8 +1233,9 @@ It is "the real deal" directed to me ...#MTLed
 
  僕は、ずっと君のそばにいる。
 > CONTEXT: Map085/events/5/pages/2/69/Dialogue/kazuya-a
-..... All right, Nina. I have been with you all
-the time.#MTLed
+It's okay, Nina...
+
+I'll always be by your side.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1227,8 +1243,9 @@ the time.#MTLed
 
 君を、独りにさせたりしないよ……
 > CONTEXT: Map085/events/5/pages/2/73/Dialogue/kazuya-a
-Because this is also such an oath
-I will not make you alone ...#MTLed
+That's the kind of vow I'm making to you...
+
+I won't ever leave you...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1236,8 +1253,9 @@ I will not make you alone ...#MTLed
 
 なんだか感極まっちゃって、考え込んじゃった…
 > CONTEXT: Map085/events/5/pages/2/81/Dialogue/enemy6
-Sorry, sorry! Somehow I was so excited, I thought
-...#MTLed
+S-Sorry!
+
+I got kind of emotional and carried away there...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1245,8 +1263,9 @@ Sorry, sorry! Somehow I was so excited, I thought
 
 だって、\\N[1]君は私のファンなんだから！
 > CONTEXT: Map085/events/5/pages/2/88/Dialogue/enemy6
-It is decided to be okay♪. Because \\N[1] is my
-fan!#MTLed
+Of course it's going to be okay... ♪
+
+I know because I have you as my fan!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1254,8 +1273,9 @@ fan!#MTLed
 
 私だけを見て、応援しててよね！！\\N[1]くん！
 > CONTEXT: Map085/events/5/pages/2/92/Dialogue/enemy6
-And always will be……. Just look at me and support
-me!!\\N[1]-kun!#MTLed
+Forever from now on...
+
+Only ever look at and support me, \\N[1]-kun!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1263,7 +1283,9 @@ me!!\\N[1]-kun!#MTLed
 
 約束だ。
 > CONTEXT: Map085/events/5/pages/2/96/Dialogue/kazuya
-…Yup. Of course, Nina. It's a promise.#MTLed
+Yeah, of course.
+
+It's a promise, Nina.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1271,8 +1293,9 @@ me!!\\N[1]-kun!#MTLed
 
  『私たち、婚約しました』って動画撮ってもいい！？
 > CONTEXT: Map085/events/5/pages/2/101/Dialogue/enemy6
-Ah! Yes Yes! "We're engaged" can be a video
-shoot! ?#MTLed
+Oh yeah!
+
+Do you mind if we do a "We're engaged!" video?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1280,16 +1303,16 @@ shoot! ?#MTLed
 
 \\N[1]くんの逆レイプ動画をアップするの！
 > CONTEXT: Map085/events/5/pages/2/105/Dialogue/enemy6
-Now there is a popular video distribution site on
-Demon Realm! It's up to \\N[1]-kun's reverse rape
-video!#MTLed
+There's a popular video sharing site in the Demon
+Realm right now! That's where I uploaded your
+reverse rape show video!#Ron
 > END STRING
 
 > BEGIN STRING
 
 \\{\\{お願いやめて！！
 > CONTEXT: Map085/events/5/pages/2/109/Dialogue/kazuya-a
-\\{\\{Please stop! !#MTLed
+\\{\\{Please stop!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1297,28 +1320,29 @@ video!#MTLed
 
 \\C[2]ニーナと婚約した！
 > CONTEXT: Map085/events/5/pages/2/118/Dialogue
-By receiving the engagement ring. \\C[2]I got engaged with Nina!#MTLed
+By giving her the engagement ring, \\C[2]you're now engaged to
+Nina!#Ron
 > END STRING
 
 > BEGIN STRING
 親密度が２５以上必要。
 （現在の値：\\V[48]）
 > CONTEXT: Map085/events/4/pages/0/0/Dialogue
-25 or more intimacy is required. (Current value: \\V[48] )#MTLed
+25 or more intimacy is required. (Current value: \\V[48] )#Ron
 > END STRING
 
 > BEGIN STRING
 親密度が５０以上必要。
 （現在の値：\\V[48]）
 > CONTEXT: Map085/events/6/pages/0/0/Dialogue
-50 or more intimacy is required. (Current value: \\V[48] )#MTLed
+50 or more intimacy is required. (Current value: \\V[48] )#Ron
 > END STRING
 
 > BEGIN STRING
 親密度が１００必要。
 （現在の値：\\V[48]）
 > CONTEXT: Map085/events/3/pages/0/18/Dialogue
-100 intimacy required. (Current value: \\V[48] )#MTLed
+100 intimacy required. (Current value: \\V[48] )#Ron
 > END STRING
 
 > BEGIN STRING

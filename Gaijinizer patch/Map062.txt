@@ -58,7 +58,7 @@ But I do appreciate the thought behind it...#RonIffy
 > BEGIN STRING
 心蝕を消すif(v[45] \>= 100) 
 > CONTEXT: Map062/events/5/pages/0/201/Choice/0
-clear the mind corruptionif(v[45] \>= 100)#MTLed
+Clear corruptionif(v[45] \>= 100)#Ron
 > END STRING
 
 > BEGIN STRING
@@ -66,13 +66,15 @@ clear the mind corruptionif(v[45] \>= 100)#MTLed
 
 私が癒やしてあげる…♡
 > CONTEXT: Map062/events/5/pages/0/212/Dialogue/enemy4
-Welcome...boy ♡. I will heal...♡#MTLed
+Come here... little boy. ♡
+
+I'll heal you... ♡#Ron
 > END STRING
 
 > BEGIN STRING
 "マザーラビットの心蝕が治った！！"
 > CONTEXT: Map062/events/5/pages/0/223/InlineScript/1:12
-"マザーラビット's mind corruption cured!!"#MTLed
+"Mother Rabbit's corruption cured!!"#Ron
 > END STRING
 
 > BEGIN STRING
@@ -997,8 +999,9 @@ No... I want you to have it, "mommy"...#Ron
 
 ちゃんと分かってるでしょ…？
 > CONTEXT: Map062/events/5/pages/2/14/Dialogue/kazuya
-The meaning of this...my "feeling" ...
-Are you sure ...?#MTLed
+Do you understand what I mean with this?
+
+Do you understand my feelings?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1007,9 +1010,10 @@ Are you sure ...?#MTLed
  ……………そんな大層なものがなくても
  ママは、ボウヤを残してどこにも行ったりはしないわ。
 > CONTEXT: Map062/events/5/pages/2/19/Dialogue/enemy4
-.........................................
-............ even if there is nothing like that
-Mom won't go anywhere with the boy left.#MTLed
+............
+Mommy would never go off somewhere and leave her
+little boy behind, even if you hadn't given her
+something so amazing.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -1017,7 +1021,9 @@ Mom won't go anywhere with the boy left.#MTLed
 
  私はそういう悪魔……
 > CONTEXT: Map062/events/5/pages/2/24/Dialogue/enemy4
-Did you say that? I am such a demon ......#MTLed
+Didn't I tell you?
+
+That's the kind of demon I am...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1026,9 +1032,9 @@ Did you say that? I am such a demon ......#MTLed
 『マザーラビット』だからじゃない……
 僕の『ママ』として、ずっとそばに居てほしい……！！
 > CONTEXT: Map062/events/5/pages/2/30/Dialogue/kazuya-a
-It's different ......!!"Mother Rabbit" is not
-because...I want you to be by my side as my
-"mama" ......! !#MTLed
+That's not what I mean!! I'm not doing this
+because you're "Mother Rabbit", I want you to
+always be by my side forever as my "mommy"...!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1036,10 +1042,10 @@ because...I want you to be by my side as my
 
 小さい頃、僕を捨てた両親の代わりでもない…
 > CONTEXT: Map062/events/5/pages/2/35/Dialogue/kazuya-a
-It is not an existence that relieves the
-loneliness of the moment...When I was little, I
-was not a substitute for my parents who abandoned
-me ...#MTLed
+You aren't something here to relieve some
+temporary loneliness, and I don't want you around
+as some short-term replacement for the parents
+who threw me away...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1047,8 +1053,9 @@ me ...#MTLed
 
 そんな事、望んじゃダメ……？
 > CONTEXT: Map062/events/5/pages/2/39/Dialogue/kazuya-a
-I want you to be a "my dear one now" mom ...
-Such a thing, I hope not.........?#MTLed
+I want you as my "precious mother"...
+
+Am I not allowed to wish for that...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1056,8 +1063,10 @@ Such a thing, I hope not.........?#MTLed
 
 まったく………甘えん坊なボウヤ……
 > CONTEXT: Map062/events/5/pages/2/44/Dialogue/enemy4
-......................................
-Totally ......... sweet boy boy ......#MTLed
+...............
+
+Goodness gracious, you're such a needy little
+boy...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1065,7 +1074,9 @@ Totally ......... sweet boy boy ......#MTLed
 
 分かったわ……
 > CONTEXT: Map062/events/5/pages/2/48/Dialogue/enemy4
-I can not help but...I understand.........#MTLed
+What am I going to do with you...
+
+Okay...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1073,15 +1084,15 @@ I can not help but...I understand.........#MTLed
 
 ママとボウヤは、これから先ずっと一緒よ……
 > CONTEXT: Map062/events/5/pages/2/56/Dialogue/enemy4
-Well then, this ring is a sign of promise with
-the boy...Mom and boy are together from now on
-...#MTLed
+This ring will be the proof of a promise between
+mommy and her little boy, that we'll be together
+forever...#Ron
 > END STRING
 
 > BEGIN STRING
 『ゆびきりげんまん』……ね？
 > CONTEXT: Map062/events/5/pages/2/60/Dialogue/enemy4
-"Yubikiri Genman"...right?#MTLed
+A "pinky promise", right?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1089,29 +1100,29 @@ the boy...Mom and boy are together from now on
 
 \\C[2]マザーラビットと婚約した！
 > CONTEXT: Map062/events/5/pages/2/68/Dialogue
-By receiving the engagement ring. \\C[2]Engaged with Mother
-Rabbit!#MTLed
+By giving her the engagement ring, \\C[2]you're now engaged to
+Mother Rabbit!#Ron
 > END STRING
 
 > BEGIN STRING
 親密度が２５以上必要。
 （現在の値：\\V[45]）
 > CONTEXT: Map062/events/4/pages/0/0/Dialogue
-25 or more intimacy is required. (Current value: \\V[45] )#MTLed
+25 or more intimacy is required. (Current value: \\V[45] )#Ron
 > END STRING
 
 > BEGIN STRING
 親密度が５０以上必要。
 （現在の値：\\V[45]）
 > CONTEXT: Map062/events/6/pages/0/0/Dialogue
-50 or more intimacy is required. (Current value: \\V[45] )#MTLed
+50 or more intimacy is required. (Current value: \\V[45] )#Ron
 > END STRING
 
 > BEGIN STRING
 親密度が１００必要。
 （現在の値：\\V[45]）
 > CONTEXT: Map062/events/3/pages/0/18/Dialogue
-100 intimacy required. (Current value: \\V[45] )#MTLed
+100 intimacy required. (Current value: \\V[45] )#Ron
 > END STRING
 
 > BEGIN STRING
