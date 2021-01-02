@@ -1964,8 +1964,10 @@ has reached 100!#Triketos
 なになに！\\N[1]くん！
 これワタシにくれるの！？
 > CONTEXT: Map070/events/5/pages/2/2/Dialogue/enemy5
-Wow!!Pretty ring!!What what! \\N[1]-kun!
-This will give me 'I'! ?#MTLed
+Wow!! That's such a pretty ring!!
+
+Are you actually gonna give this to me,
+\\N[1]-kun!?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1973,7 +1975,9 @@ This will give me 'I'! ?#MTLed
 
  ええっと…………
 > CONTEXT: Map070/events/5/pages/2/7/Dialogue/kazuya
-Huh………? No. Let me see…………#MTLed
+Um, y-yeah...
+
+Umm...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1981,9 +1985,10 @@ Huh………? No. Let me see…………#MTLed
 
 この間拾い読みした雑誌で、説明しただろう？
 > CONTEXT: Map070/events/5/pages/2/14/Dialogue/enemy7
-Haru, that's the engagement ring.
-Did you explain this in the magazine you browsed
-recently?#MTLed
+That's an engagement ring, Haru.
+
+Didn't they explain what those are in that
+magazine you browsed the other day?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1991,8 +1996,8 @@ recently?#MTLed
 
 アンタにこれをプレゼントしようとしてるのさ。
 > CONTEXT: Map070/events/5/pages/2/18/Dialogue/enemy7
-\\N[1] made a big decision today,
-I'm trying to give this to you.#MTLed
+\\N[1] giving you that ring today was a
+momentous decision on his part.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -2001,8 +2006,10 @@ I'm trying to give this to you.#MTLed
 \\N[1]くん……ホント！？
 ホントになってくれるの……！
 > CONTEXT: Map070/events/5/pages/2/23/Dialogue/enemy7
-!!! \\N[1]-kun...really! ?
-It will be real ......!#MTLed
+!!!
+
+\\N[1]-kun... are you serious?!
+Do you really want to do this...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -2010,7 +2017,9 @@ It will be real ......!#MTLed
 
 そのために用意したんだ。
 > CONTEXT: Map070/events/5/pages/2/28/Dialogue/kazuya
-Yup.sure.\\N[2]. I prepared for that.#MTLed
+Yes, of course I do...\\N[2].
+
+That's why I got the ring.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -2019,14 +2028,16 @@ Yup.sure.\\N[2]. I prepared for that.#MTLed
 \\N[1]くんが、ワタシの『永久貢ぎ主』に
  なってくれるなんて………♡
 > CONTEXT: Map070/events/5/pages/2/33/Dialogue/enemy5
-I'm glad...... ♡. \\N[1]-kun became 'I''s
-'Permanent tribute'. It will be...... ...#MTLed
+I'm so happy... ♡
+
+\\N[1]-kun's going to get me whatever
+I want forever...#Ron/Triketos
 > END STRING
 
 > BEGIN STRING
 ………………へ？
 > CONTEXT: Map070/events/5/pages/2/39/Dialogue/kazuya
-………………?#MTLed
+...Huh?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -2034,8 +2045,9 @@ I'm glad...... ♡. \\N[1]-kun became 'I''s
 
 ありがとう！\\N[1]くん！
 > CONTEXT: Map070/events/5/pages/2/41/Dialogue/enemy5
-Well then 'I', this ring will be cherished! !
-Thank you! \\N[1]-kun!#MTLed
+Well then, I'm gonna cherish this ring!!
+
+Thank you, \\N[1]-kun!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -2043,7 +2055,9 @@ Thank you! \\N[1]-kun!#MTLed
 
 それは……くすりゆびに……
 > CONTEXT: Map070/events/5/pages/2/57/Dialogue/kazuya
-Ah……. That is.........#MTLed
+Ah...!
+
+It's supposed to go on your ring finger...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -2051,8 +2065,8 @@ Ah……. That is.........#MTLed
 
 ハルに分かるように説明するには、あれが一番でさ。
 > CONTEXT: Map070/events/5/pages/2/63/Dialogue/enemy7
-I'm sorry. That's the best way to explain it to
-Haru.#MTLed
+Sorry, that's the best way to explain it to Haru
+so she can understand.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -2060,8 +2074,8 @@ Haru.#MTLed
 
 言っておいた方がいいのかな？\\N[1]
 > CONTEXT: Map070/events/5/pages/2/67/Dialogue/enemy7
-For now, "Congratulations". Should I say that?
-\\N[1]#MTLed
+For now, I guess "congratulations" are in
+order...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -2069,8 +2083,9 @@ For now, "Congratulations". Should I say that?
 
 結構、気合い入れてプロポーズしたんだけどな……
 > CONTEXT: Map070/events/5/pages/2/71/Dialogue/kazuya
-The haha ......I'm pretty tempted to propose
-it ...#MTLed
+H-Haha...
+
+That was a pretty lively proposal, though...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -2078,8 +2093,8 @@ it ...#MTLed
 
 ハルの『永久貢ぎ主』になるって意味は。
 > CONTEXT: Map070/events/5/pages/2/76/Dialogue/enemy7
-...... But you understand? What does it mean to
-be Haru's "Permanent tribute"?#MTLed
+But... do you understand what it means to provide
+Haru with everything she wants...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -2087,8 +2102,7 @@ be Haru's "Permanent tribute"?#MTLed
 
 私がアンタを殺すまであるからね。
 > CONTEXT: Map070/events/5/pages/2/80/Dialogue/enemy7
-If you have something to make Haru cry ...
-I'm going to kill you.#MTLed
+I'll come to kill you if you ever make Haru cry.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -2097,9 +2111,10 @@ I'm going to kill you.#MTLed
  僕も、\\N[2]や\\N[3]を
 悲しませないと誓いに、ここに来たんだから…！
 > CONTEXT: Map070/events/5/pages/2/85/Dialogue/kazuya
-No, I understand even if I can not say it.
-I too, \\N[2] and \\N[3]. I'm here to vows not to be
-sad ...!#MTLed
+I-I know, you don't need to tell me that.
+
+I came here in order to vow to never make
+\\N[2] or \\N[3] sad!#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -2107,8 +2122,9 @@ sad ...!#MTLed
 
 まぁ、アンタだから信用してやるよ。
 > CONTEXT: Map070/events/5/pages/2/91/Dialogue/enemy7
-Huh ..... I'm not spit up words ...
-Well, I will trust you because I am.#MTLed
+Fuh... I don't wanna hear such lame lines...
+
+Well, I'll have faith because it's you.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -2117,9 +2133,10 @@ Well, I will trust you because I am.#MTLed
 ………なんやかんやで、私も信頼してるのかもね。
 アンタのことは。
 > CONTEXT: Map070/events/5/pages/2/95/Dialogue/enemy7
-If you're a normal person, it's about kicking it
-back...... ...... what a kin, I may also trust.
-What about you?#MTLed
+If you were a normal human, I'd drive you away...
+
+But with all that's happened, I suppose I have
+a little trust in you.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -2127,7 +2144,8 @@ What about you?#MTLed
 
 \\C[2]ハルと婚約した！
 > CONTEXT: Map070/events/5/pages/2/107/Dialogue
-By receiving the engagement ring. \\C[2]I got engaged with Haru!#MTLed
+By giving her the engagement ring, \\C[2]you're now engaged to
+Haru!#Ron
 > END STRING
 
 > BEGIN STRING

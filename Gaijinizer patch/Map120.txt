@@ -64,7 +64,7 @@ Do you get it? Come on now.#Ron
 > BEGIN STRING
 心蝕を消すif(v[51] \>= 100) 
 > CONTEXT: Map120/events/5/pages/0/279/Choice/0
-Clear Corruptionif(v[51] \>= 100)#Ron
+Clear corruptionif(v[51] \>= 100)#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1522,8 +1522,8 @@ able to take care of you...#Ron
 
 \\C[2]スフィンクスと婚約した！
 > CONTEXT: Map120/events/5/pages/2/79/Dialogue
-By giving her the engagement ring, \\C[2]you're now
-engaged to Sphinx!#Ron
+By giving her the engagement ring, \\C[2]you're now engaged
+to Sphinx!#Ron
 > END STRING
 
 > BEGIN STRING

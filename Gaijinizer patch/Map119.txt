@@ -56,7 +56,7 @@ And it's a beautiful ore.#MTLed
 > BEGIN STRING
 心蝕を消すif(v[49] \>= 100) 
 > CONTEXT: Map119/events/5/pages/0/208/Choice/0
-Clear Corruptionif(v[49] \>= 100)#Ron
+Clear corruptionif(v[49] \>= 100)#Ron
 > END STRING
 
 > BEGIN STRING
@@ -80,7 +80,7 @@ plenty of fear into you, okay?#Ron
 > BEGIN STRING
 心蝕を消す（クイーン）if(v[36] \>= 2) 
 > CONTEXT: Map119/events/5/pages/0/239/Choice/0 
-Remove mind corruption (Queen)if(v[36] \>= 2)#Triketos
+Clear corruption (Queen)if(v[36] \>= 2)#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -1293,7 +1293,8 @@ some other demon... ♡#Ron
 
 \\C[2]アルケニーと婚約した！
 > CONTEXT: Map119/events/5/pages/2/80/Dialogue
-By receiving the engagement ring. \\C[2]Engaged with Arachne!#MTLed
+By giving her the engagement ring, \\C[2]you're now engaged to
+Arachne!#Ron
 > END STRING
 
 > BEGIN STRING
