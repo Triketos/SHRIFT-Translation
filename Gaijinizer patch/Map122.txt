@@ -50,7 +50,7 @@ Current Friendship: \\C[2]\\v[52]\\C[0]#Ron
 
 なんだいこりゃあ…いらないよ。
 贈り物なら、せめて喰えるモノにしてくれよね。
-> CONTEXT: Map122/events/5/pages/0/187/Dialogue/enemy14
+> CONTEXT: Map122/events/5/pages/0/193/Dialogue/enemy14
 ...
 
 What's this garbage? If you're going to give me
@@ -59,7 +59,7 @@ something, at least make it edible.#Ron
 
 > BEGIN STRING
 心蝕を消すif(v[52] \>= 100) 
-> CONTEXT: Map122/events/5/pages/0/200/Choice/0
+> CONTEXT: Map122/events/5/pages/0/206/Choice/0
 Clear corruptionif(v[52] \>= 100)#Ron
 > END STRING
 
@@ -67,7 +67,7 @@ Clear corruptionif(v[52] \>= 100)#Ron
 フフフ……いいさ、たまにはね。
 
 遊んでやるよ…\\N[1]♡
-> CONTEXT: Map122/events/5/pages/0/211/Dialogue/enemy14
+> CONTEXT: Map122/events/5/pages/0/217/Dialogue/enemy14
 Fufufu... I suppose it's fine once in a while...
 
 I'll play with you, \\N[1]... ♡#Ron
@@ -75,7 +75,7 @@ I'll play with you, \\N[1]... ♡#Ron
 
 > BEGIN STRING
 "ティタノボアの心蝕が治った！！"
-> CONTEXT: Map122/events/5/pages/0/222/InlineScript/1:12
+> CONTEXT: Map122/events/5/pages/0/228/InlineScript/1:12
 "Titanoboa's corruption cured!!"#Ron
 > END STRING
 

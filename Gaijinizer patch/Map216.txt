@@ -71,7 +71,7 @@ Milking (Gel)en(v[54] \>= 80)#Ron
 
 妾にそのようなゴミを受け取れというのか？
 身の程をわきまえるがいい、下郎！
-> CONTEXT: Map216/events/5/pages/0/336/Dialogue/enemy17
+> CONTEXT: Map216/events/5/pages/0/349/Dialogue/enemy17
 Hmph! Do you really expect me to accept such
 garbage?
 
@@ -82,7 +82,7 @@ Know your place, underling!#Ron
 妾はその程度の貢ぎ物で、心が動くほど安くはないわ。
 
 出直してこい
-> CONTEXT: Map216/events/5/pages/0/341/Dialogue/enemy17
+> CONTEXT: Map216/events/5/pages/0/354/Dialogue/enemy17
 I won't be moved by such pathetic tribute.
 
 Now go and get me something better.#Ron
@@ -90,7 +90,7 @@ Now go and get me something better.#Ron
 
 > BEGIN STRING
 心蝕を消すif(v[54] \>= 100) 
-> CONTEXT: Map216/events/5/pages/0/353/Choice/0
+> CONTEXT: Map216/events/5/pages/0/366/Choice/0
 Clear corruptionif(v[54] \>= 100)#Ron
 > END STRING
 
@@ -98,7 +98,7 @@ Clear corruptionif(v[54] \>= 100)#Ron
 ククク……良いぞ…
 
 好きなだけ可愛がってやろう…♡
-> CONTEXT: Map216/events/5/pages/0/364/Dialogue/enemy17
+> CONTEXT: Map216/events/5/pages/0/377/Dialogue/enemy17
 Kukuku... That's fine...
 
 I'll pamper you as much as you like... ♡#Ron
@@ -106,7 +106,7 @@ I'll pamper you as much as you like... ♡#Ron
 
 > BEGIN STRING
 "妲己の心蝕が治った！！"
-> CONTEXT: Map216/events/5/pages/0/375/InlineScript/1:12
+> CONTEXT: Map216/events/5/pages/0/388/InlineScript/1:12
 "Daji's corruption cleared!!"#Ron
 > END STRING
 

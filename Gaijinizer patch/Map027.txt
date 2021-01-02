@@ -102,7 +102,7 @@ Give a present#Dargoth
 あー…悪いんだけどさ。
 
 そういうの、私あんまり欲しくないんだわ。
-> CONTEXT: Map027/events/5/pages/0/259/Dialogue/enemy
+> CONTEXT: Map027/events/5/pages/0/272/Dialogue/enemy
 Haah, sorry but...
 
 I don't really want something like that.#Ron
@@ -112,20 +112,20 @@ I don't really want something like that.#Ron
 私に尽くしたいってのは分かるけどさ
 
 もうちょっと気の利くモノでお願いね。
-> CONTEXT: Map027/events/5/pages/0/263/Dialogue/enemy
+> CONTEXT: Map027/events/5/pages/0/276/Dialogue/enemy
 I get that you're devoted to me, but please give
 me something a little more tasteful.#Ron
 > END STRING
 
 > BEGIN STRING
 ランパスは\\C[2]プレゼントを受け取らなかった…
-> CONTEXT: Map027/events/5/pages/0/267/Dialogue
+> CONTEXT: Map027/events/5/pages/0/280/Dialogue
 Lampas \\C[2]did not accept the gift...#Ron
 > END STRING
 
 > BEGIN STRING
 心蝕を消すif(v[43] \>= 100) 
-> CONTEXT: Map027/events/5/pages/0/275/Choice/0
+> CONTEXT: Map027/events/5/pages/0/288/Choice/0
 Clear corruption if(v[43] \>= 100) #Dargoth
 > END STRING
 
@@ -133,7 +133,7 @@ Clear corruption if(v[43] \>= 100) #Dargoth
 ふふ…♡
 
 他のランパスに浮気なんかしたら許さないんだから♪
-> CONTEXT: Map027/events/5/pages/0/286/Dialogue/enemy
+> CONTEXT: Map027/events/5/pages/0/299/Dialogue/enemy
 Fufu...♡ 
 I won't forgive you if you cheat on
 me with other Lampas♪#Triketos
@@ -141,7 +141,7 @@ me with other Lampas♪#Triketos
 
 > BEGIN STRING
 "ランパスの心蝕が治った！！"
-> CONTEXT: Map027/events/5/pages/0/297/InlineScript/1:12
+> CONTEXT: Map027/events/5/pages/0/310/InlineScript/1:12
 "Lampas's corruption cured!!"#Triketos
 > END STRING
 

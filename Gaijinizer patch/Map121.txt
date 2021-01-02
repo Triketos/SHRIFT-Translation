@@ -39,7 +39,7 @@ Current Friendship: \\C[2]\\v[50]\\C[0]#Ron
 
 あなたの気持ちはとっても嬉しいのだけど
 私……こんなのもらっても使い道がないの……
-> CONTEXT: Map121/events/5/pages/0/213/Dialogue/enemy12
+> CONTEXT: Map121/events/5/pages/0/226/Dialogue/enemy12
 I'm sorry, \\N[1]. I'm happy you want to give
 me a present, but I don't really know what to do
 with this...#Ron
@@ -49,7 +49,7 @@ with this...#Ron
 気持ちだけ、受け取っておくわ。
 
 ごめんなさい……
-> CONTEXT: Map121/events/5/pages/0/218/Dialogue/enemy12
+> CONTEXT: Map121/events/5/pages/0/231/Dialogue/enemy12
 I'll just appreciate the thought.
 
 Sorry...#Ron
@@ -57,7 +57,7 @@ Sorry...#Ron
 
 > BEGIN STRING
 心蝕を消すif(v[50] \>= 100) 
-> CONTEXT: Map121/events/5/pages/0/230/Choice/0
+> CONTEXT: Map121/events/5/pages/0/243/Choice/0
 Clear corruptionif(v[50] \>= 100)#Ron
 > END STRING
 
@@ -65,7 +65,7 @@ Clear corruptionif(v[50] \>= 100)#Ron
 \\N[1]、私をもっと求めて…♡
 
 いっぱい癒やしてあげるから…♡
-> CONTEXT: Map121/events/5/pages/0/241/Dialogue/enemy13
+> CONTEXT: Map121/events/5/pages/0/254/Dialogue/enemy13
 I want you to want me more, \\N[1]... ♡
 
 So I'll give you lots of healing... ♡#Ron
@@ -73,7 +73,7 @@ So I'll give you lots of healing... ♡#Ron
 
 > BEGIN STRING
 "エコーの心蝕が治った！！"
-> CONTEXT: Map121/events/5/pages/0/252/InlineScript/1:12
+> CONTEXT: Map121/events/5/pages/0/265/InlineScript/1:12
 "Echo's corruption has been cleared!!"#Ron
 > END STRING
 

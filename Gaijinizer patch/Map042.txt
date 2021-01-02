@@ -53,7 +53,7 @@ Current Friendship: \\C[2]\\V[44]\\C[0]#Triketos
 ご、ごめん　\\N[1]
 
 それ　もらっても　わたし　使う　できない…
-> CONTEXT: Map042/events/5/pages/0/240/Dialogue/enemy3
+> CONTEXT: Map042/events/5/pages/0/246/Dialogue/enemy3
 S-Sorry... \\N[1]...
 
 I can't... use something... like that...#Ron
@@ -61,13 +61,13 @@ I can't... use something... like that...#Ron
 
 > BEGIN STRING
 エンプーサは\\C[2]プレゼントを受け取らなかった…
-> CONTEXT: Map042/events/5/pages/0/244/Dialogue
+> CONTEXT: Map042/events/5/pages/0/250/Dialogue
 Empuse \\C[2]did not accept the gift...#Ron
 > END STRING
 
 > BEGIN STRING
 心蝕を消すif(v[44] \>= 100) 
-> CONTEXT: Map042/events/5/pages/0/252/Choice/0
+> CONTEXT: Map042/events/5/pages/0/258/Choice/0
 Clear corruption if(v[44] \>= 100) #Dargoth
 > END STRING
 
@@ -75,7 +75,7 @@ Clear corruption if(v[44] \>= 100) #Dargoth
 どうした？\\N[1]。
 
 また　狩りごっこ　するか？
-> CONTEXT: Map042/events/5/pages/0/263/Dialogue/enemy2
+> CONTEXT: Map042/events/5/pages/0/269/Dialogue/enemy2
 What's wrong... \\N[1]...?
 
 Do you... want to... play again...?#Ron
@@ -83,7 +83,7 @@ Do you... want to... play again...?#Ron
 
 > BEGIN STRING
 "エンプーサの心蝕が治った！！"
-> CONTEXT: Map042/events/5/pages/0/274/InlineScript/1:12
+> CONTEXT: Map042/events/5/pages/0/280/InlineScript/1:12
 "Empuse's corruption cured!!"#Ron
 > END STRING
 

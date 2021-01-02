@@ -38,7 +38,7 @@ Current Friendship: \\C[2]\\v[45]\\C[0]#Ron
 ………ごめんなさいね。
 
 こういうものを貰っても、私には使い道がないものだから…
-> CONTEXT: Map062/events/5/pages/0/185/Dialogue/enemy4
+> CONTEXT: Map062/events/5/pages/0/198/Dialogue/enemy4
 ...I'm sorry, dear.
 
 Even if you give me something like this, I don't
@@ -49,7 +49,7 @@ have any use for it...#Ron
 せっかく貴方がくれるっていうのに…
 
 でも、その気持ちを結局無下にするよりかは…ね？
-> CONTEXT: Map062/events/5/pages/0/189/Dialogue/enemy4
+> CONTEXT: Map062/events/5/pages/0/202/Dialogue/enemy4
 And you went out of your way to give me this...
 
 But I do appreciate the thought behind it...#RonIffy
@@ -57,7 +57,7 @@ But I do appreciate the thought behind it...#RonIffy
 
 > BEGIN STRING
 心蝕を消すif(v[45] \>= 100) 
-> CONTEXT: Map062/events/5/pages/0/201/Choice/0
+> CONTEXT: Map062/events/5/pages/0/214/Choice/0
 Clear corruptionif(v[45] \>= 100)#Ron
 > END STRING
 
@@ -65,7 +65,7 @@ Clear corruptionif(v[45] \>= 100)#Ron
 いらっしゃい…ボウヤ♡
 
 私が癒やしてあげる…♡
-> CONTEXT: Map062/events/5/pages/0/212/Dialogue/enemy4
+> CONTEXT: Map062/events/5/pages/0/225/Dialogue/enemy4
 Come here... little boy. ♡
 
 I'll heal you... ♡#Ron
@@ -73,8 +73,66 @@ I'll heal you... ♡#Ron
 
 > BEGIN STRING
 "マザーラビットの心蝕が治った！！"
-> CONTEXT: Map062/events/5/pages/0/223/InlineScript/1:12
+> CONTEXT: Map062/events/5/pages/0/236/InlineScript/1:12
 "Mother Rabbit's corruption cured!!"#Ron
+> END STRING
+
+> BEGIN STRING
+心蝕を消す（アナオン）if(v[37] \>= 2) 
+> CONTEXT: Map062/events/5/pages/0/244/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+心蝕を直してもらうには友好度が足りない…
+
+\\C[2]キズナを結んでいる状態でないとダメなようだ…
+> CONTEXT: Map062/events/5/pages/0/250/Dialogue
+> CONTEXT: Map119/events/5/pages/0/258/Dialogue
+> CONTEXT: Map215/events/5/pages/0/250/Dialogue
+Your friendship isn't high enough to have her clear your
+corruption...\\C[2]It seems like it'll be impossible unless
+you build a bond with her...#Ron
+> END STRING
+
+> BEGIN STRING
+………いいのよ、ボウヤ
+何も言わなくて。
+
+悪い悪魔にそそのかされてしまったのね？
+> CONTEXT: Map062/events/5/pages/0/261/Dialogue/enemy4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+私は貴方を受け入れる『ママ』ですもの…♡
+
+ここに来たということは
+あなたは、私の『ボウヤ』でいたいのよね…？♡
+> CONTEXT: Map062/events/5/pages/0/266/Dialogue/enemy4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+大丈夫、ママも何も聞かないわ。
+
+ボウヤの想いに、応えてあげる…
+> CONTEXT: Map062/events/5/pages/0/271/Dialogue/enemy4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+彼女と親しく触れ合ったことで
+
+アナオンの心蝕は軽減されたようだ……。
+> CONTEXT: Map062/events/5/pages/0/278/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"アナオンの心蝕がLv１になった！！"
+> CONTEXT: Map062/events/5/pages/0/282/InlineScript/1:12 < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING

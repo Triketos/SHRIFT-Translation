@@ -39,7 +39,7 @@ Current Friendship: \\C[2]\\v[48]\\C[0]#Ron
 えー…
 
 私、そんなモノもらっても使い道ないよ…
-> CONTEXT: Map085/events/5/pages/0/199/Dialogue/enemy6
+> CONTEXT: Map085/events/5/pages/0/212/Dialogue/enemy6
 Hmmm...
 
 I don't really have a use for that...#Ron
@@ -49,7 +49,7 @@ I don't really have a use for that...#Ron
 子供だっていうのは悪魔基準で見逃すとしてさ
 
 もうちょっと女の子が喜ぶモノにしてよー？
-> CONTEXT: Map085/events/5/pages/0/203/Dialogue/enemy6
+> CONTEXT: Map085/events/5/pages/0/216/Dialogue/enemy6
 You think because I look like a child you can
 give me stuff for a kid? Try giving me something
 a little more appropriate.#RonLocalization/Triketos
@@ -57,7 +57,7 @@ a little more appropriate.#RonLocalization/Triketos
 
 > BEGIN STRING
 心蝕を消すif(v[48] \>= 100) 
-> CONTEXT: Map085/events/5/pages/0/215/Choice/0
+> CONTEXT: Map085/events/5/pages/0/228/Choice/0
 Clear corruptionif(v[48] \>= 100)#Ron
 > END STRING
 
@@ -65,14 +65,14 @@ Clear corruptionif(v[48] \>= 100)#Ron
 たまには……いっぱい甘えていい？
 
 \\N[1]くん…♡
-> CONTEXT: Map085/events/5/pages/0/226/Dialogue/enemy8
+> CONTEXT: Map085/events/5/pages/0/239/Dialogue/enemy8
 It's okay, right \\N[1]-kun? For me to spoil you once in
 a while...? ♡#Ron
 > END STRING
 
 > BEGIN STRING
 "ニーナの心蝕が治った！！"
-> CONTEXT: Map085/events/5/pages/0/237/InlineScript/1:12
+> CONTEXT: Map085/events/5/pages/0/250/InlineScript/1:12
 "Nina's corruption cured!!"#Ron
 > END STRING
 

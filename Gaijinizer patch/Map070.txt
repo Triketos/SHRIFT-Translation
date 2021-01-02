@@ -86,7 +86,7 @@ Current Friendship: \\C[2]\\v[46]\\C[0]#Ron
 あー…ごめんね、\\N[1]くん。
 
 そういうのを貰っても、使い道に困るっていうか…
-> CONTEXT: Map070/events/5/pages/0/227/Dialogue/enemy5
+> CONTEXT: Map070/events/5/pages/0/233/Dialogue/enemy5
 Aah... sorry, \\N[1]-kun.
 
 Even if I took that, I don't really have
@@ -95,14 +95,14 @@ a use for it.#Ron
 
 > BEGIN STRING
 やっぱり貢ぎ物は、お弁当系の食べ物がいいなー、なんて…
-> CONTEXT: Map070/events/5/pages/0/231/Dialogue/enemy5
+> CONTEXT: Map070/events/5/pages/0/237/Dialogue/enemy5
 If you really want to offer us up something,
 it should be some lunchbox food.#RonIffy
 > END STRING
 
 > BEGIN STRING
 心蝕を消すif(v[46] \>= 100) 
-> CONTEXT: Map070/events/5/pages/0/241/Choice/0
+> CONTEXT: Map070/events/5/pages/0/247/Choice/0
 Clear Haru and Liz's corruptionif(v[46] \>= 100)#Ron
 > END STRING
 
@@ -110,14 +110,14 @@ Clear Haru and Liz's corruptionif(v[46] \>= 100)#Ron
 エヘヘ…♡おいで、\\N[1]くん…
 
 いっぱい遊ぼう？
-> CONTEXT: Map070/events/5/pages/0/252/Dialogue/enemy5
+> CONTEXT: Map070/events/5/pages/0/258/Dialogue/enemy5
 Ehehe...yeah, \\N[1]-kun ...
-Let's play a lot?#MTLed
+Let's play a lot?#Triketos
 > END STRING
 
 > BEGIN STRING
 "ハル＆リズの心蝕が治った！！"
-> CONTEXT: Map070/events/5/pages/0/263/InlineScript/1:12
+> CONTEXT: Map070/events/5/pages/0/269/InlineScript/1:12
 "Haru and Liz's corruption has been cured!!"#Ron
 > END STRING
 
@@ -981,7 +981,8 @@ There's now fluffy hair on the inside!#TriketosPartial
 > END STRING
 
 > BEGIN STRING
-アンタ、毎度ハルに抱かれるとき、決まってハルの毛並みに夢中になってただろ？
+アンタ、毎度ハルに抱かれるとき、
+ 決まってハルの毛並みに夢中になってただろ？
 
 だからハル、少しだけ服の材質にこだわったんだよ。
 > CONTEXT: Map070/events/5/pages/1/401/Dialogue/enemy7

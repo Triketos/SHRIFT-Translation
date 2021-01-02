@@ -39,7 +39,7 @@ Current Friendship: \\C[2]\\v[42]\\C[0] #Ron/Triketos
 
 そのようなものを渡されても、私には
 何の役にも立ちませんので…
-> CONTEXT: Map041/events/5/pages/0/199/Dialogue/yuuma
+> CONTEXT: Map041/events/5/pages/0/212/Dialogue/yuuma
 I'm sorry... I'm afraid I have no use for
 something like that...#Ron
 > END STRING
@@ -48,31 +48,31 @@ something like that...#Ron
 女性へのプレゼントは、もう少し考えてからのほうが
 
 よろしいかと……フフフ。
-> CONTEXT: Map041/events/5/pages/0/204/Dialogue/yuuma
+> CONTEXT: Map041/events/5/pages/0/217/Dialogue/yuuma
 You should spend a little more time putting
 thought into the gifts you give women... Fufufu.#Ron
 > END STRING
 
 > BEGIN STRING
 \\C[2]プレゼントは受け取ってもらえなかった…
-> CONTEXT: Map041/events/5/pages/0/208/Dialogue
-> CONTEXT: Map062/events/5/pages/0/193/Dialogue
-> CONTEXT: Map070/events/5/pages/0/233/Dialogue
-> CONTEXT: Map080/events/5/pages/0/244/Dialogue
-> CONTEXT: Map085/events/5/pages/0/207/Dialogue
-> CONTEXT: Map119/events/5/pages/0/200/Dialogue
-> CONTEXT: Map120/events/5/pages/0/271/Dialogue
-> CONTEXT: Map121/events/5/pages/0/215/Dialogue
-> CONTEXT: Map122/events/5/pages/0/192/Dialogue
-> CONTEXT: Map215/events/5/pages/0/200/Dialogue
-> CONTEXT: Map216/events/5/pages/0/345/Dialogue
-> CONTEXT: Map217/events/5/pages/0/163/Dialogue
+> CONTEXT: Map041/events/5/pages/0/221/Dialogue 
+> CONTEXT: Map062/events/5/pages/0/206/Dialogue 
+> CONTEXT: Map070/events/5/pages/0/239/Dialogue 
+> CONTEXT: Map080/events/5/pages/0/257/Dialogue 
+> CONTEXT: Map085/events/5/pages/0/220/Dialogue 
+> CONTEXT: Map119/events/5/pages/0/213/Dialogue 
+> CONTEXT: Map120/events/5/pages/0/277/Dialogue 
+> CONTEXT: Map121/events/5/pages/0/235/Dialogue 
+> CONTEXT: Map122/events/5/pages/0/198/Dialogue 
+> CONTEXT: Map215/events/5/pages/0/206/Dialogue 
+> CONTEXT: Map216/events/5/pages/0/358/Dialogue 
+> CONTEXT: Map217/events/5/pages/0/169/Dialogue 
 \\C[2]The gift was rejected.#Ron
 > END STRING
 
 > BEGIN STRING
 心蝕を消すif(v[42] \>= 100) 
-> CONTEXT: Map041/events/5/pages/0/216/Choice/0
+> CONTEXT: Map041/events/5/pages/0/229/Choice/0
 Clear corruption if(v[42] \>= 100) #Dargoth
 > END STRING
 
@@ -80,7 +80,7 @@ Clear corruption if(v[42] \>= 100) #Dargoth
 あらあら…
 
 今日はいやに甘えてきますね…？♡
-> CONTEXT: Map041/events/5/pages/0/227/Dialogue/yuuma
+> CONTEXT: Map041/events/5/pages/0/240/Dialogue/yuuma
 Oh dear...
 
 Have you been spoiled too much today...? ♡#Ron
@@ -88,7 +88,7 @@ Have you been spoiled too much today...? ♡#Ron
 
 > BEGIN STRING
 "アイアンメイデンの心蝕が治った！！"
-> CONTEXT: Map041/events/5/pages/0/238/InlineScript/1:12
+> CONTEXT: Map041/events/5/pages/0/251/InlineScript/1:12
 "Iron Maiden's corruption has been cured!!"#Ron
 > END STRING
 

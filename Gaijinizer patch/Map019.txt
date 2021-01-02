@@ -199,20 +199,20 @@ I should wait a while before giving another.#afrg
 彼女とは、\\C[2]キズナ状態ではない…。
 
 お互いに深く理解した上で、渡した方がいいだろう。
-> CONTEXT: Map019/events/5/pages/0/142/Dialogue
-> CONTEXT: Map027/events/5/pages/0/225/Dialogue
-> CONTEXT: Map041/events/5/pages/0/165/Dialogue
-> CONTEXT: Map042/events/5/pages/0/206/Dialogue
-> CONTEXT: Map062/events/5/pages/0/158/Dialogue
-> CONTEXT: Map070/events/5/pages/0/193/Dialogue
-> CONTEXT: Map080/events/5/pages/0/202/Dialogue
-> CONTEXT: Map085/events/5/pages/0/165/Dialogue
-> CONTEXT: Map119/events/5/pages/0/158/Dialogue
-> CONTEXT: Map120/events/5/pages/0/229/Dialogue
-> CONTEXT: Map121/events/5/pages/0/179/Dialogue
-> CONTEXT: Map122/events/5/pages/0/153/Dialogue
-> CONTEXT: Map215/events/5/pages/0/158/Dialogue
-> CONTEXT: Map216/events/5/pages/0/302/Dialogue
+> CONTEXT: Map019/events/5/pages/0/148/Dialogue 
+> CONTEXT: Map027/events/5/pages/0/238/Dialogue 
+> CONTEXT: Map041/events/5/pages/0/178/Dialogue 
+> CONTEXT: Map042/events/5/pages/0/212/Dialogue 
+> CONTEXT: Map062/events/5/pages/0/164/Dialogue 
+> CONTEXT: Map070/events/5/pages/0/199/Dialogue 
+> CONTEXT: Map080/events/5/pages/0/215/Dialogue 
+> CONTEXT: Map085/events/5/pages/0/178/Dialogue 
+> CONTEXT: Map119/events/5/pages/0/171/Dialogue 
+> CONTEXT: Map120/events/5/pages/0/235/Dialogue 
+> CONTEXT: Map121/events/5/pages/0/192/Dialogue 
+> CONTEXT: Map122/events/5/pages/0/159/Dialogue 
+> CONTEXT: Map215/events/5/pages/0/164/Dialogue 
+> CONTEXT: Map216/events/5/pages/0/315/Dialogue 
 She is \\C[2] not bonded....
 You should learn to understand each other better,
 then try to give it again.#afrg
@@ -222,20 +222,20 @@ then try to give it again.#afrg
 \\C[2]このプレゼントは、よく考えてから渡すべきだろう……
 
 彼女に、本当にプロポーズしますか？
-> CONTEXT: Map019/events/5/pages/0/151/Dialogue
-> CONTEXT: Map027/events/5/pages/0/234/Dialogue
-> CONTEXT: Map041/events/5/pages/0/174/Dialogue
-> CONTEXT: Map042/events/5/pages/0/215/Dialogue
-> CONTEXT: Map062/events/5/pages/0/167/Dialogue
-> CONTEXT: Map070/events/5/pages/0/202/Dialogue
-> CONTEXT: Map080/events/5/pages/0/211/Dialogue
-> CONTEXT: Map085/events/5/pages/0/174/Dialogue
-> CONTEXT: Map119/events/5/pages/0/167/Dialogue
-> CONTEXT: Map120/events/5/pages/0/238/Dialogue
-> CONTEXT: Map121/events/5/pages/0/188/Dialogue
-> CONTEXT: Map122/events/5/pages/0/162/Dialogue
-> CONTEXT: Map215/events/5/pages/0/167/Dialogue
-> CONTEXT: Map216/events/5/pages/0/311/Dialogue
+> CONTEXT: Map019/events/5/pages/0/157/Dialogue 
+> CONTEXT: Map027/events/5/pages/0/247/Dialogue 
+> CONTEXT: Map041/events/5/pages/0/187/Dialogue 
+> CONTEXT: Map042/events/5/pages/0/221/Dialogue 
+> CONTEXT: Map062/events/5/pages/0/173/Dialogue 
+> CONTEXT: Map070/events/5/pages/0/208/Dialogue 
+> CONTEXT: Map080/events/5/pages/0/224/Dialogue 
+> CONTEXT: Map085/events/5/pages/0/187/Dialogue 
+> CONTEXT: Map119/events/5/pages/0/180/Dialogue 
+> CONTEXT: Map120/events/5/pages/0/244/Dialogue 
+> CONTEXT: Map121/events/5/pages/0/201/Dialogue 
+> CONTEXT: Map122/events/5/pages/0/168/Dialogue 
+> CONTEXT: Map215/events/5/pages/0/173/Dialogue 
+> CONTEXT: Map216/events/5/pages/0/324/Dialogue 
 \\C[2]You should carefully consider before giving this gift...
 
 Do you really want to propose to her?#afrg
@@ -245,7 +245,7 @@ Do you really want to propose to her?#afrg
 バーゲストは差し出された意味が理解できていないようだ……
 
 \\C[2]プレゼントは受け取ってもらえなかった…
-> CONTEXT: Map019/events/5/pages/0/178/Dialogue
+> CONTEXT: Map019/events/5/pages/0/184/Dialogue
 Barghest doesn't seem to understand the meaning behind the
 gift.
 
@@ -254,48 +254,48 @@ gift.
 
 > BEGIN STRING
 心蝕を消すif(v[41] \>= 100) 
-> CONTEXT: Map019/events/5/pages/0/188/Choice/0
+> CONTEXT: Map019/events/5/pages/0/194/Choice/0
 Clear corruption if(v[41] \>= 100) #Dargoth
 > END STRING
 
 > BEGIN STRING
 条件【\\C[2]友好度１００\\C[0]】
-> CONTEXT: Map019/events/5/pages/0/190/ChoiceHelp
-> CONTEXT: Map027/events/5/pages/0/277/ChoiceHelp
-> CONTEXT: Map041/events/5/pages/0/218/ChoiceHelp
-> CONTEXT: Map042/events/5/pages/0/254/ChoiceHelp
-> CONTEXT: Map062/events/5/pages/0/210/ChoiceHelp
-> CONTEXT: Map062/events/5/pages/0/240/ChoiceHelp
-> CONTEXT: Map070/events/5/pages/0/243/ChoiceHelp
-> CONTEXT: Map080/events/5/pages/0/254/ChoiceHelp
-> CONTEXT: Map085/events/5/pages/0/217/ChoiceHelp
-> CONTEXT: Map119/events/5/pages/0/210/ChoiceHelp
-> CONTEXT: Map119/events/5/pages/0/241/ChoiceHelp
-> CONTEXT: Map120/events/5/pages/0/281/ChoiceHelp
-> CONTEXT: Map121/events/5/pages/0/232/ChoiceHelp
-> CONTEXT: Map122/events/5/pages/0/202/ChoiceHelp
-> CONTEXT: Map215/events/5/pages/0/210/ChoiceHelp
-> CONTEXT: Map215/events/5/pages/0/240/ChoiceHelp
-> CONTEXT: Map216/events/5/pages/0/355/ChoiceHelp
+> CONTEXT: Map019/events/5/pages/0/196/ChoiceHelp 
+> CONTEXT: Map027/events/5/pages/0/290/ChoiceHelp 
+> CONTEXT: Map041/events/5/pages/0/231/ChoiceHelp 
+> CONTEXT: Map042/events/5/pages/0/260/ChoiceHelp 
+> CONTEXT: Map062/events/5/pages/0/216/ChoiceHelp 
+> CONTEXT: Map062/events/5/pages/0/246/ChoiceHelp 
+> CONTEXT: Map070/events/5/pages/0/249/ChoiceHelp 
+> CONTEXT: Map080/events/5/pages/0/267/ChoiceHelp 
+> CONTEXT: Map085/events/5/pages/0/230/ChoiceHelp 
+> CONTEXT: Map119/events/5/pages/0/223/ChoiceHelp 
+> CONTEXT: Map119/events/5/pages/0/254/ChoiceHelp 
+> CONTEXT: Map120/events/5/pages/0/287/ChoiceHelp 
+> CONTEXT: Map121/events/5/pages/0/245/ChoiceHelp 
+> CONTEXT: Map122/events/5/pages/0/208/ChoiceHelp 
+> CONTEXT: Map215/events/5/pages/0/216/ChoiceHelp 
+> CONTEXT: Map215/events/5/pages/0/246/ChoiceHelp 
+> CONTEXT: Map216/events/5/pages/0/368/ChoiceHelp 
 Requires:【\\C[2] Friendship 100\\C[0]】#Triketos
 > END STRING
 
 > BEGIN STRING
 彼女との戦闘における心蝕は無いようだ…
-> CONTEXT: Map019/events/5/pages/0/194/Dialogue
-> CONTEXT: Map027/events/5/pages/0/281/Dialogue
-> CONTEXT: Map041/events/5/pages/0/222/Dialogue
-> CONTEXT: Map042/events/5/pages/0/258/Dialogue
-> CONTEXT: Map062/events/5/pages/0/214/Dialogue
-> CONTEXT: Map070/events/5/pages/0/247/Dialogue
-> CONTEXT: Map080/events/5/pages/0/258/Dialogue
-> CONTEXT: Map085/events/5/pages/0/221/Dialogue
-> CONTEXT: Map119/events/5/pages/0/214/Dialogue
-> CONTEXT: Map120/events/5/pages/0/285/Dialogue
-> CONTEXT: Map121/events/5/pages/0/236/Dialogue
-> CONTEXT: Map122/events/5/pages/0/206/Dialogue
-> CONTEXT: Map215/events/5/pages/0/214/Dialogue
-> CONTEXT: Map216/events/5/pages/0/359/Dialogue
+> CONTEXT: Map019/events/5/pages/0/200/Dialogue 
+> CONTEXT: Map027/events/5/pages/0/294/Dialogue 
+> CONTEXT: Map041/events/5/pages/0/235/Dialogue 
+> CONTEXT: Map042/events/5/pages/0/264/Dialogue 
+> CONTEXT: Map062/events/5/pages/0/220/Dialogue 
+> CONTEXT: Map070/events/5/pages/0/253/Dialogue 
+> CONTEXT: Map080/events/5/pages/0/271/Dialogue 
+> CONTEXT: Map085/events/5/pages/0/234/Dialogue 
+> CONTEXT: Map119/events/5/pages/0/227/Dialogue 
+> CONTEXT: Map120/events/5/pages/0/291/Dialogue 
+> CONTEXT: Map121/events/5/pages/0/249/Dialogue 
+> CONTEXT: Map122/events/5/pages/0/212/Dialogue 
+> CONTEXT: Map215/events/5/pages/0/220/Dialogue 
+> CONTEXT: Map216/events/5/pages/0/372/Dialogue 
 You don't appear to have accrued any corruption from her
 in battles...#afrg/Ron
 > END STRING
@@ -304,27 +304,27 @@ in battles...#afrg/Ron
 彼女と親しく触れ合ったことで
 
 戦闘での心蝕は治まったようだ……。
-> CONTEXT: Map019/events/5/pages/0/204/Dialogue
-> CONTEXT: Map027/events/5/pages/0/293/Dialogue
-> CONTEXT: Map041/events/5/pages/0/234/Dialogue
-> CONTEXT: Map042/events/5/pages/0/270/Dialogue
-> CONTEXT: Map062/events/5/pages/0/226/Dialogue
-> CONTEXT: Map070/events/5/pages/0/259/Dialogue
-> CONTEXT: Map080/events/5/pages/0/271/Dialogue
-> CONTEXT: Map085/events/5/pages/0/233/Dialogue
-> CONTEXT: Map119/events/5/pages/0/227/Dialogue
-> CONTEXT: Map120/events/5/pages/0/301/Dialogue
-> CONTEXT: Map121/events/5/pages/0/248/Dialogue
-> CONTEXT: Map122/events/5/pages/0/218/Dialogue
-> CONTEXT: Map215/events/5/pages/0/226/Dialogue
-> CONTEXT: Map216/events/5/pages/0/371/Dialogue
+> CONTEXT: Map019/events/5/pages/0/210/Dialogue 
+> CONTEXT: Map027/events/5/pages/0/306/Dialogue 
+> CONTEXT: Map041/events/5/pages/0/247/Dialogue 
+> CONTEXT: Map042/events/5/pages/0/276/Dialogue 
+> CONTEXT: Map062/events/5/pages/0/232/Dialogue 
+> CONTEXT: Map070/events/5/pages/0/265/Dialogue 
+> CONTEXT: Map080/events/5/pages/0/284/Dialogue 
+> CONTEXT: Map085/events/5/pages/0/246/Dialogue 
+> CONTEXT: Map119/events/5/pages/0/240/Dialogue 
+> CONTEXT: Map120/events/5/pages/0/307/Dialogue 
+> CONTEXT: Map121/events/5/pages/0/261/Dialogue 
+> CONTEXT: Map122/events/5/pages/0/224/Dialogue 
+> CONTEXT: Map215/events/5/pages/0/232/Dialogue 
+> CONTEXT: Map216/events/5/pages/0/384/Dialogue 
 Being intimate with her appears to have weakened the
 corruption accrued in battle...#Ron
 > END STRING
 
 > BEGIN STRING
 "バーゲストの心蝕が治った！！"
-> CONTEXT: Map019/events/5/pages/0/208/InlineScript/1:12
+> CONTEXT: Map019/events/5/pages/0/214/InlineScript/1:12
 "Barghest's corruption cured!!"#Ron
 > END STRING
 
