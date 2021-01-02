@@ -69,6 +69,7 @@ Seized goods storage room#MTLed
 > CONTEXT: MapInfos/16/name
 > CONTEXT: MapInfos/23/name
 > CONTEXT: MapInfos/259/name
+> CONTEXT: MapInfos/429/name
 Security room#MTLed
 > END STRING
 
@@ -120,6 +121,8 @@ Vent#MTLed
 > CONTEXT: MapInfos/14/name
 > CONTEXT: MapInfos/26/name
 > CONTEXT: MapInfos/257/name
+> CONTEXT: MapInfos/426/name
+> CONTEXT: MapInfos/428/name
 Laboratory 3#MTLed
 > END STRING
 
@@ -128,6 +131,7 @@ Laboratory 3#MTLed
 > CONTEXT: MapInfos/17/name
 > CONTEXT: MapInfos/72/name
 > CONTEXT: MapInfos/205/name
+> CONTEXT: MapInfos/418/name
 Own room#MTLed
 > END STRING
 
@@ -158,6 +162,7 @@ The first#MTLed
 > BEGIN STRING
 動力室１
 > CONTEXT: MapInfos/29/name
+> CONTEXT: MapInfos/430/name
 Power room 1#MTLed
 > END STRING
 
@@ -182,6 +187,7 @@ Living room#MTLed
 > BEGIN STRING
 居住室２
 > CONTEXT: MapInfos/33/name
+> CONTEXT: MapInfos/427/name
 Living room 2#MTLed
 > END STRING
 
@@ -196,6 +202,7 @@ Power room 3#MTLed
 > CONTEXT: MapInfos/35/name
 > CONTEXT: MapInfos/92/name
 > CONTEXT: MapInfos/258/name
+> CONTEXT: MapInfos/425/name
 Laboratory 4#MTLed
 > END STRING
 
@@ -386,6 +393,7 @@ Urban area 5#MTLed
 > CONTEXT: MapInfos/70/name
 > CONTEXT: MapInfos/237/name
 > CONTEXT: MapInfos/238/name
+> CONTEXT: MapInfos/416/name
 Haru & Liz#MTLed
 > END STRING
 
@@ -1082,6 +1090,7 @@ The Story of The Soul#GT
 > CONTEXT: MapInfos/342/name
 > CONTEXT: MapInfos/363/name
 > CONTEXT: MapInfos/368/name
+> CONTEXT: MapInfos/435/name
 Nina's room#MTLed
 > END STRING
 
@@ -1330,4 +1339,34 @@ Lost Woods (Final)#DL
 特報
 > CONTEXT: MapInfos/410/name
 Special Report#DL
+> END STRING
+
+> BEGIN STRING
+前日譚
+> CONTEXT: MapInfos/411/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+前日譚１
+> CONTEXT: MapInfos/412/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+前日譚２
+> CONTEXT: MapInfos/413/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+前日譚３
+> CONTEXT: MapInfos/414/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+オセロット
+> CONTEXT: MapInfos/441/name < UNTRANSLATED
+
 > END STRING
