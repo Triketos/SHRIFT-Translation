@@ -961,8 +961,7 @@ I opened the door with the \\C[2]"\\I[240] Back Alley Key"\\C[0].#Triketos
 > BEGIN STRING
 どうやら無事に解決できたようだネ♪\\N[1]。
 > CONTEXT: Map054/events/1/pages/5/5/Dialogue/hyakki
-It seems that I was able to solve it somehow♪
-\\N[1].#MTLed
+Looks like ya were able to solve it safely \\N[1]♪#Strate
 > END STRING
 
 > BEGIN STRING
@@ -970,8 +969,9 @@ It seems that I was able to solve it somehow♪
 
 いやー、災難だったネ、\\N[1]。
 > CONTEXT: Map054/events/1/pages/5/17/Dialogue/hyakki
-I was allowed to go through. No, it was a
-disaster Ne, \\N[1].#MTLed
+I got to take a peek at the whole thing.
+
+But damn, that was a disaster huh \\N[1]?#StrateUnsure
 > END STRING
 
 > BEGIN STRING
@@ -980,10 +980,10 @@ disaster Ne, \\N[1].#MTLed
 だいぶ女悪魔の扱いに慣れてきたんじゃない？、
 女悪魔キラーの\\N[1]サン♪
 > CONTEXT: Map054/events/1/pages/5/21/Dialogue/hyakki
-Even though it is a lower-grade monster, it is
-important not to move to the temptation of that
-Te. Did you get used to the treatment of demon
-for a while? , Woman demon killer \\N[1] San♪#MTLed
+Even if they're low-rank youkai, that doesn't
+mean their temptation attacks won't affect you.
+Haven't you gotten used to dealing with female
+demons? Lady Demon Killer \\N[1]-San♪#Strate
 > END STRING
 
 > BEGIN STRING
@@ -991,15 +991,15 @@ for a while? , Woman demon killer \\N[1] San♪#MTLed
 
 ちょっと今度マイルーム行くときは注意した方がいいかも…
 > CONTEXT: Map054/events/1/pages/5/29/Dialogue/hyakki
-Well, I'm advising such a lady killer Gigolo ...
-I should be careful when I go to my room for a
-moment ...#MTLed
+So, a little advice for Ladykiller Gigolo-san...
+Perhaps you should be careful next time you
+go to My Room...#Strate
 > END STRING
 
 > BEGIN STRING
 え、どういうこと…？
 > CONTEXT: Map054/events/1/pages/5/34/Dialogue/kazuya
-Eh, what kind of thing ...?#MTLed
+Eh, what do you mean...?#Strate
 > END STRING
 
 > BEGIN STRING
@@ -1007,7 +1007,9 @@ Eh, what kind of thing ...?#MTLed
 
 \\}ルシィさん…帰ってなかったの…
 > CONTEXT: Map054/events/1/pages/5/36/Dialogue/hyakki
-Really...\\}Lucy...I did not return ...#MTLed
+T-the truth is...
+
+\\}Lucy-san...didn't go back...#Strate
 > END STRING
 
 > BEGIN STRING
@@ -1015,8 +1017,9 @@ Really...\\}Lucy...I did not return ...#MTLed
 
 あの…、君とあの子達との…その…『現場』を……
 > CONTEXT: Map054/events/1/pages/5/40/Dialogue/hyakki
-\\}Well then...That ..., with you and his children ...
-that..."the scene" ...#MTLed
+\\}S-so......
+That..., with you and those kids...
+that..."scene"...#StrateUnsure
 > END STRING
 
 > BEGIN STRING
@@ -1024,7 +1027,9 @@ that..."the scene" ...#MTLed
 
 『そういうことですか…』って呟いて帰っちゃった……
 > CONTEXT: Map054/events/1/pages/5/48/Dialogue/hyakki
-Lucy, around \\N[1] is Hug. "What's that ...?"#MTLed
+Around the time you were being hugged, Lucy-san
+
+muttered "So that's how it is..." and left...#Strate
 > END STRING
 
 > BEGIN STRING
@@ -1032,23 +1037,24 @@ Lucy, around \\N[1] is Hug. "What's that ...?"#MTLed
 
 あの人、静かに怒るタイプだし、どんな罰考えてるか…
 > CONTEXT: Map054/events/1/pages/5/52/Dialogue/hyakki
-That's why...be careful...
-That person is the type to get angry quietly,
-what punishment do you think ...#MTLed
+So...be careful...
+
+That person, she's the type to get angry quietly,
+thinking of what punishment to give...#StrateLocalization
 > END STRING
 
 > BEGIN STRING
 ………なんか、ずっとこの裏路地で生活したくなってきた…。
 > CONTEXT: Map054/events/1/pages/5/57/Dialogue/kazuya
-......... I have wanted to live in this back
-alley all the time ....#MTLed
+.........Somehow, I suddenly really feel like
+living in this back alley now...#StrateLocalization
 > END STRING
 
 > BEGIN STRING
 さっきの脱出の固い決意が、あっさり折れるほど怖いかい…
 > CONTEXT: Map054/events/1/pages/5/59/Dialogue/hyakki
-Hard decision of the escape just before, is it
-scary enough to break easily ...#MTLed
+It's scary enough to easily break that stubborn
+determination to escape from before, huh...?#StrateUnsure
 > END STRING
 
 > BEGIN STRING
@@ -1057,9 +1063,10 @@ scary enough to break easily ...#MTLed
 次にルシィさんに会うときは、気を遣いなよ…
 下手な事すると、命にかかわるかも…
 > CONTEXT: Map054/events/1/pages/5/62/Dialogue/hyakki
-Well, that's why...The next time I see Lucy,
-I'm careful...If it is bad, it may be
-life-threatening ...#MTLed
+W-Well, that's why...
+
+Next time you see Lucy-san, be careful...
+If you make the wrong move, it could be fatal...#StrateLocalization
 > END STRING
 
 > BEGIN STRING
@@ -1067,7 +1074,9 @@ life-threatening ...#MTLed
 
 それじゃ、忠告はしたからねぇ♪
 > CONTEXT: Map054/events/1/pages/5/71/Dialogue/hyakki
-Yacht. Well, I did give advice.♪#MTLed
+Whew. 
+
+Well then, I gave my advice♪#StrateUnsure
 > END STRING
 
 > BEGIN STRING

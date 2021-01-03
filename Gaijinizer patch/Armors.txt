@@ -257,33 +257,28 @@ Dance Card#Triketos
 戦闘開始時に、武器を自動的にしまう。免罪符枠に装備可。
 交渉時の服を脱ぐターンでの事故を防ぎたい人向け。
 > CONTEXT: Armors/30/description
-At the beginning of the battle, I automatically
-get the weapon. It is possible to equip it with
-a frame of innocence. For those who want to
-prevent an accident in the turn that undress
-at the time of negotiations.#GT
+\\}Automatically holster weapon on battle start. Can be equipped in the Indulgence
+slot. For those who want to prevent accidents while undressing for negotiation.#StrateLocalization
 > END STRING
 
 > BEGIN STRING
 友愛の腕輪
 > CONTEXT: Armors/30/name
-Brawl of fraternity#GT
+Friendship Bracelet#Strate
 > END STRING
 
 > BEGIN STRING
 戦闘開始時に、自動的に全裸になる。免罪符枠に装備可能。
 負ける工程で服を脱ぐのが面倒くさい人向け。
 > CONTEXT: Armors/31/description
-At the beginning of the battle, they
-automatically get naked. It can be equipped with
-a frame of innocence. For those who have trouble
-taking off their clothes in the process of losing.#GT
+\\}Automatically undress on battle start. Can be equipped in the Indulgence slot.
+For those who can't be bothered to undress while in the process of losing.#StrateLocalization
 > END STRING
 
 > BEGIN STRING
 服従の腕輪
 > CONTEXT: Armors/31/name
-Obedience bracelet#GT
+Obedience Bracelet#Strate
 > END STRING
 
 > BEGIN STRING
