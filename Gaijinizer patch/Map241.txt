@@ -4,7 +4,9 @@
 
 これでルシィに頼まれた品物は全部だな。
 > CONTEXT: Map241/events/1/pages/0/17/Dialogue/kazuya
-Good. Now all the items I've been asked by Lucy.#MTLed
+Good.
+
+That's all the items Lucy asked for.#Strate
 > END STRING
 
 > BEGIN STRING
@@ -12,7 +14,9 @@ Good. Now all the items I've been asked by Lucy.#MTLed
 
 あれ？エコー？
 > CONTEXT: Map241/events/1/pages/0/31/Dialogue/kazuya
-…………Hmm? that? Echo?#MTLed
+.........Hmm?
+
+Hey? Echo?#Strate
 > END STRING
 
 > BEGIN STRING
@@ -20,8 +24,9 @@ Good. Now all the items I've been asked by Lucy.#MTLed
 
 どこ行ったんだ？
 > CONTEXT: Map241/events/1/pages/0/35/Dialogue/kazuya
-Even though I was together before ...
-Where did you go?#MTLed
+She was with me just a few moments ago...
+
+Where did she go?#Strate
 > END STRING
 
 > BEGIN STRING
@@ -29,8 +34,9 @@ Where did you go?#MTLed
 
 急に立ち止まったりして………
 > CONTEXT: Map241/events/1/pages/0/65/Dialogue/kazuya
-How's that Echo ...... I stopped suddenly and
-.........#MTLed
+W-what's wrong Echo......
+
+You stopped walking all of a sudden.........#Strate
 > END STRING
 
 > BEGIN STRING
@@ -38,8 +44,9 @@ How's that Echo ...... I stopped suddenly and
 
 欲しいの？このウエディングドレス……
 > CONTEXT: Map241/events/1/pages/0/75/Dialogue/kazuya
-Maybe ......... You want it? This prom dress
-......#MTLed
+Could it be.........
+
+You want it? That wedding dress......#Strate
 > END STRING
 
 > BEGIN STRING
@@ -47,8 +54,8 @@ Maybe ......... You want it? This prom dress
 
 \\N[1]と自分を交互に指差している…
 > CONTEXT: Map241/events/1/pages/0/84/Dialogue
-Echo shakes his neck. \\N[1] and himself pointing
-alternately ...#MTLed
+Echo shakes her head and points to herself
+and \\N[1]...#Strate
 > END STRING
 
 > BEGIN STRING
@@ -57,7 +64,9 @@ alternately ...#MTLed
  僕たちは結婚しているよ。
  『人間』として……
 > CONTEXT: Map241/events/1/pages/0/92/Dialogue/kazuya
-………Yeah. We are married. As a "human" ...#MTLed
+.........That's right.
+
+We're married. As "humans"......#Strate
 > END STRING
 
 > BEGIN STRING
@@ -65,8 +74,9 @@ alternately ...#MTLed
 
 はぐれないように…………
 > CONTEXT: Map241/events/1/pages/0/99/Dialogue/kazuya
-..... Hand, let's connect. Don't get lost
-.........#MTLed
+.........Want to hold hands?
+
+So you don't get lost.........#Strate
 > END STRING
 
 > BEGIN STRING
@@ -74,8 +84,8 @@ alternately ...#MTLed
 
 結博士の発明品の、飲み薬によるものだ。
 > CONTEXT: Map241/events/1/pages/0/128/Dialogue
-Echo's current 'human figure' is. It is a drug of the
-invention of Dr. Yui.#MTLed
+Echo's current "human form" exists thanks to
+Dr. Yui's invention, a medicinal drink. #Strate
 > END STRING
 
 > BEGIN STRING
@@ -83,9 +93,9 @@ invention of Dr. Yui.#MTLed
 
 魔力が足に集中するため、声を発することができない。
 > CONTEXT: Map241/events/1/pages/0/132/Dialogue
-Instead of being free to walk around the ground with human
-feet. You can not make a voice because the magic is
-concentrated on your feet.#MTLed
+Instead of freely walking on the ground with human
+feet, she has to concentrate her magic on her legs,
+so she cannot speak at all.#StrateLocalization
 > END STRING
 
 > BEGIN STRING
@@ -94,9 +104,10 @@ concentrated on your feet.#MTLed
  博士いわく、まだまだ試作段階だから
  いずれは声の副作用も無いようにしたいらしい。
 > CONTEXT: Map241/events/1/pages/0/136/Dialogue
-The effect is about 12 hours. Doctor says, because it is
-still in the trial stage. It seems that they want to make
-sure there are no side effects of voice.#MTLed
+The effect lasts for about 12 hours.
+According to the doctor, it's still in the trial
+stage. It seems she wants to make sure there are
+no side effects on her voice.#StrateUnsure
 > END STRING
 
 > BEGIN STRING
@@ -105,9 +116,10 @@ sure there are no side effects of voice.#MTLed
 まるで童話の『人魚姫』だが
  あれの結末を考えると、彼女にそんな事は言えない。
 > CONTEXT: Map241/events/1/pages/0/142/Dialogue
-Lose "voice" instead of gaining "feet" ...
-It's like a fairy tale 'mermaid princess'
-Given that ending, I can not say that to her.#MTLed
+Gaining "legs" while losing your "voice"...
+
+It's like the fairy tale "The Little Mermaid",
+but given how it ends, I can't tell her that.#Strate
 > END STRING
 
 > BEGIN STRING
@@ -115,6 +127,8 @@ Given that ending, I can not say that to her.#MTLed
 
 彼女自身が、もっとも避けたいはずだから……
 > CONTEXT: Map241/events/1/pages/0/147/Dialogue
-That ending is ......... Because she should most want to
-avoid ......#MTLed
+Because...
+
+That ending is what she herself wants to avoid
+the most.#StrateUnsure
 > END STRING
