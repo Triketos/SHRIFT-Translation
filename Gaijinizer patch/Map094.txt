@@ -275,3 +275,49 @@ I want adviceif(v[33] \>= 1)#MTLed
 > CONTEXT: Map094/events/13/pages/0/43/Choice/1
 Change of difficulty#MTLed
 > END STRING
+
+> BEGIN STRING
+易しい
+> CONTEXT: Map094/events/13/pages/0/79/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+普通
+> CONTEXT: Map094/events/13/pages/0/79/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+難しい
+> CONTEXT: Map094/events/13/pages/0/79/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+難易度：\\C[3]易しい
+\\C[0]アイテムの量が倍になり、被ダメージが半減します。
+とりあえず苦労せずにクリアしたい方向けの難易度です。
+> CONTEXT: Map094/events/13/pages/0/81/Dialogue
+Difficulty：\\C[3] Easy
+\\C[0]Find double items; receive only half damage.
+For people who are only masochists sexually.#Dargoth
+> END STRING
+
+> BEGIN STRING
+難易度：\\C[14]普通
+\\C[0]アイテムやダメージ量が標準の、制作者想定難易度です。
+エロい状態異常で追い詰められるのが好きだったり
+逆境や根気の必要な場面が燃える人向けになります。
+> CONTEXT: Map094/events/13/pages/0/99/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+難易度：\\C[30]難しい\\C[0]
+ダメージ量・気力消費、性欲上昇率\\C[2]１．５倍\\C[0]の激ムズモードです。
+制作者の過去作の『出来ないことはない』の信条に則った難易度です。
+正直、相当の手練れでなければオススメしません。
+> CONTEXT: Map094/events/13/pages/0/118/Dialogue < UNTRANSLATED
+
+> END STRING

@@ -38,7 +38,7 @@ Current Friendship: \\C[2]\\v[49]\\C[0]#Ron
 ………あたいは贈り物とかにはあまり興味はないけど
 
 そういうのが好きって思われてるんなら、心外だねぇ
-> CONTEXT: Map119/events/5/pages/0/192/Dialogue/enemy10
+> CONTEXT: Map119/events/5/pages/0/205/Dialogue/enemy10
 ......I'm not very interested in gifts, though
 If you seem to like that kind of thing, it's
 extravagant#MTLed
@@ -48,15 +48,15 @@ extravagant#MTLed
 あたいが欲しいのは『動く獲物』……
 
 そして、綺麗な鉱石さ。
-> CONTEXT: Map119/events/5/pages/0/196/Dialogue/enemy10
+> CONTEXT: Map119/events/5/pages/0/209/Dialogue/enemy10
 What I want is "moving prey" ...
 And it's a beautiful ore.#MTLed
 > END STRING
 
 > BEGIN STRING
 心蝕を消すif(v[49] \>= 100) 
-> CONTEXT: Map119/events/5/pages/0/208/Choice/0
-Clear Corruptionif(v[49] \>= 100)#Ron
+> CONTEXT: Map119/events/5/pages/0/221/Choice/0
+Clear corruptionif(v[49] \>= 100)#Ron
 > END STRING
 
 > BEGIN STRING
@@ -64,7 +64,7 @@ Clear Corruptionif(v[49] \>= 100)#Ron
 
 いいさ……その代わりに『恐怖』を
 たっぷり植え付けてやるかね…？
-> CONTEXT: Map119/events/5/pages/0/219/Dialogue/enemy10
+> CONTEXT: Map119/events/5/pages/0/232/Dialogue/enemy10
 Aaah, I'd rather not...
 
 Well alright, but in exchange I get to instil
@@ -73,33 +73,21 @@ plenty of fear into you, okay?#Ron
 
 > BEGIN STRING
 "アルケニーの心蝕が治った！！"
-> CONTEXT: Map119/events/5/pages/0/231/InlineScript/1:12
+> CONTEXT: Map119/events/5/pages/0/244/InlineScript/1:12
 "Arachne's corruption is cleared!!"#Ron
 > END STRING
 
 > BEGIN STRING
 心蝕を消す（クイーン）if(v[36] \>= 2) 
-> CONTEXT: Map119/events/5/pages/0/239/Choice/0 
-Remove mind corruption (Queen)if(v[36] \>= 2)#Triketos
-> END STRING
-
-> BEGIN STRING
-心蝕を直してもらうには友好度が足りない…
-
-\\C[2]キズナを結んでいる状態でないとダメなようだ…
-> CONTEXT: Map119/events/5/pages/0/245/Dialogue
-> CONTEXT: Map215/events/5/pages/0/244/Dialogue
-Your friendship isn't high enough to have her clear your
-corruption...
-\\C[2]It seems like it'll be impossible unless you build a
-bond with her...#Ron
+> CONTEXT: Map119/events/5/pages/0/252/Choice/0 
+Clear corruption (Queen)if(v[36] \>= 2)#Triketos
 > END STRING
 
 > BEGIN STRING
 ククク……分かってるよ
 
  あの腹ボテ野郎の心蝕を消してほしいんだろう？
-> CONTEXT: Map119/events/5/pages/0/253/Dialogue/enemy10
+> CONTEXT: Map119/events/5/pages/0/66/Dialogue/enemy10
 I understand ... I know
 
 I would like to get rid of that carious glutes
@@ -111,7 +99,7 @@ of bastard bastards?#GT
  溶かされていく心地はさぞ気持ちよかっただろうねぇ
 
  だけど、あたいの腹の中の方が極上さ
-> CONTEXT: Map119/events/5/pages/0/257/Dialogue/enemy10 
+> CONTEXT: Map119/events/5/pages/0/270/Dialogue/enemy10 
 How was the inside of the guy's belly?
 The comfort to be melted would have been pleasant
 
@@ -122,7 +110,7 @@ But the inside of my belly is the best#GT
 お前さんには、それを思い出させてやるよ……
 
 さぁ、こっちに来るんだ……
-> CONTEXT: Map119/events/5/pages/0/262/Dialogue/enemy10 
+> CONTEXT: Map119/events/5/pages/0/275/Dialogue/enemy10 
 I will remind you of that ...
 
 Well, I'm coming here ...#GT
@@ -132,14 +120,14 @@ Well, I'm coming here ...#GT
 彼女と親しく触れ合ったことで
 
 クイーンの心蝕は軽減されたようだ……。
-> CONTEXT: Map119/events/5/pages/0/269/Dialogue 
+> CONTEXT: Map119/events/5/pages/0/282/Dialogue 
 By spending some intimate time with her,
 the Queen's mind corruption has been reduced....#Triketos
 > END STRING
 
 > BEGIN STRING
 "クイーンの心蝕がLv１になった！！"
-> CONTEXT: Map119/events/5/pages/0/273/InlineScript/1:12 
+> CONTEXT: Map119/events/5/pages/0/286/InlineScript/1:12 
 "Queen's mind corruption is now Lv1!"#Triketos
 > END STRING
 
@@ -1293,7 +1281,8 @@ some other demon... ♡#Ron
 
 \\C[2]アルケニーと婚約した！
 > CONTEXT: Map119/events/5/pages/2/80/Dialogue
-By receiving the engagement ring. \\C[2]Engaged with Arachne!#MTLed
+By giving her the engagement ring, \\C[2]you're now engaged to
+Arachne!#Ron
 > END STRING
 
 > BEGIN STRING

@@ -39,7 +39,7 @@ Current Friendship: \\C[2]\\v[50]\\C[0]#Ron
 
 あなたの気持ちはとっても嬉しいのだけど
 私……こんなのもらっても使い道がないの……
-> CONTEXT: Map121/events/5/pages/0/213/Dialogue/enemy12
+> CONTEXT: Map121/events/5/pages/0/226/Dialogue/enemy12
 I'm sorry, \\N[1]. I'm happy you want to give
 me a present, but I don't really know what to do
 with this...#Ron
@@ -49,7 +49,7 @@ with this...#Ron
 気持ちだけ、受け取っておくわ。
 
 ごめんなさい……
-> CONTEXT: Map121/events/5/pages/0/218/Dialogue/enemy12
+> CONTEXT: Map121/events/5/pages/0/231/Dialogue/enemy12
 I'll just appreciate the thought.
 
 Sorry...#Ron
@@ -57,15 +57,15 @@ Sorry...#Ron
 
 > BEGIN STRING
 心蝕を消すif(v[50] \>= 100) 
-> CONTEXT: Map121/events/5/pages/0/230/Choice/0
-Clear Corruptionif(v[50] \>= 100)#Ron
+> CONTEXT: Map121/events/5/pages/0/243/Choice/0
+Clear corruptionif(v[50] \>= 100)#Ron
 > END STRING
 
 > BEGIN STRING
 \\N[1]、私をもっと求めて…♡
 
 いっぱい癒やしてあげるから…♡
-> CONTEXT: Map121/events/5/pages/0/241/Dialogue/enemy13
+> CONTEXT: Map121/events/5/pages/0/254/Dialogue/enemy13
 I want you to want me more, \\N[1]... ♡
 
 So I'll give you lots of healing... ♡#Ron
@@ -73,7 +73,7 @@ So I'll give you lots of healing... ♡#Ron
 
 > BEGIN STRING
 "エコーの心蝕が治った！！"
-> CONTEXT: Map121/events/5/pages/0/252/InlineScript/1:12
+> CONTEXT: Map121/events/5/pages/0/265/InlineScript/1:12
 "Echo's corruption has been cleared!!"#Ron
 > END STRING
 
@@ -1012,7 +1012,7 @@ You have confidence in yourself, right?#Ron
 
 僕は、君がいいって決めたから、こうしてるんだ。
 > CONTEXT: Map121/events/5/pages/2/15/Dialogue/kazuya
-My future isn't something you need to worry about
+My future isn't something I'm worried about
 right now. I'm doing this because I decided I
 like who you are.#Ron
 > END STRING
@@ -1064,8 +1064,8 @@ I guess I was a bit panicked by it at first...#Ron
 
  ああやって『会話』を重ねてきたんじゃないか。
 > CONTEXT: Map121/events/5/pages/2/43/Dialogue/kazuya
-Haven't we gone past that kind of prejudice
-through all conversations we've had?#Ron
+But haven't we gone past that kind of prejudice
+through all conversations we've had?#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -1077,7 +1077,7 @@ through all conversations we've had?#Ron
 The fact that you're always worrying about me...
 That fact that you want to keep me to yourself...
 All those kinds of things together are what I
-like about you, Echo.#Ron
+love about you, Echo.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1120,11 +1120,10 @@ Like a human couple, if possible...#Ron
 
 そんな事言われたら、また襲ってしまいそうで……
 > CONTEXT: Map121/events/5/pages/2/73/Dialogue/enemy12
-But a demon who's only just learned how to get
-someone to like me...
-
-I might end up attacking you if you say things
-like that to me...#Ron
+But if you say things like that to a demon like
+me who's only just learned how to get someone
+to fall for them, I might just end up attacking
+you...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1143,29 +1142,29 @@ Just give me a little time to cool off...#Ron
 
 \\C[2]エコーと婚約した！
 > CONTEXT: Map121/events/5/pages/2/91/Dialogue
-By giving her the engagement ring, \\C[2]you're now
-engaged to Echo!#Ron
+By giving her the engagement ring, \\C[2]you're now engaged to
+Echo!#Ron
 > END STRING
 
 > BEGIN STRING
 親密度が２５以上必要。
 （現在の値：\\V[50]）
 > CONTEXT: Map121/events/4/pages/0/0/Dialogue
-25 or more intimacy is required. (Current value: \\V[50] )#MTLed
+25 or more intimacy is required. (Current value: \\V[50] )#Ron
 > END STRING
 
 > BEGIN STRING
 親密度が５０以上必要。
 （現在の値：\\V[50]）
 > CONTEXT: Map121/events/6/pages/0/0/Dialogue
-50 or more intimacy is required. (Current value: \\V[50] )#MTLed
+50 or more intimacy is required. (Current value: \\V[50] )#Ron
 > END STRING
 
 > BEGIN STRING
 親密度が１００必要。
 （現在の値：\\V[50]）
 > CONTEXT: Map121/events/3/pages/0/18/Dialogue
-100 intimacy required. (Current value: \\V[50] )#MTLed
+100 intimacy required. (Current value: \\V[50] )#Ron
 > END STRING
 
 > BEGIN STRING

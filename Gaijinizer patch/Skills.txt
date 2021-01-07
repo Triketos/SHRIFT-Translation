@@ -1213,6 +1213,13 @@ Reload#Dargoth
 > CONTEXT: Skills/536/message1
 > CONTEXT: Skills/537/message1
 > CONTEXT: Skills/538/message1
+> CONTEXT: Skills/890/message1
+> CONTEXT: Skills/891/message1
+> CONTEXT: Skills/892/message1
+> CONTEXT: Skills/893/message1
+> CONTEXT: Skills/894/message1
+> CONTEXT: Skills/895/message1
+> CONTEXT: Skills/896/message1
  loads ammo into his firearm.#Dargoth
 > END STRING
 
@@ -1623,7 +1630,6 @@ of the user for 5 turns.#afrg
 > CONTEXT: Skills/588/description
 > CONTEXT: Skills/591/description
 > CONTEXT: Skills/626/description
-> CONTEXT: Skills/715/description
 > CONTEXT: Skills/883/description
 Makes it less likely to be affected by Ecstasy, Puppet,
 Panic, and Fear for 5 turns.#afrgPR
@@ -3065,6 +3071,32 @@ Spatial Perversion (Magic)#Dargoth
 > END STRING
 
 > BEGIN STRING
+相手が人間の場合、触れただけで精気を吸い尽くしてしまう
+相手の亡骸には、魂すらも残らない
+> CONTEXT: Skills/208/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+恐神の精吸
+> CONTEXT: Skills/208/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔法のダメージや回復量が1.2倍になる
+ブースター系は効果が重複する
+> CONTEXT: Skills/209/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔法ブースタ
+> CONTEXT: Skills/209/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
 ハンドガンのリロードを行う。マガジン２個消費
 銃内に残った弾は『\\I[895]9mmパラベラム弾』になる。
 > CONTEXT: Skills/210/description
@@ -3195,6 +3227,19 @@ Special accident battles can occur against this monster.#Dargoth
 > END STRING
 
 > BEGIN STRING
+魔法のダメージや回復量が1.5倍になる
+ブースター系は効果が重複する
+> CONTEXT: Skills/220/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔法ハイブースタ
+> CONTEXT: Skills/220/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
 \\C[2]最後の力を振り絞り、人としての『抵抗』を見せる
 \\C[10]迷っている時間はないぞ！！
 > CONTEXT: Skills/233/description
@@ -3206,6 +3251,19 @@ the human will. \\C[10]There's no time to hesitate!#Dargoth
 は渾身の力で思いきり暴れた！
 > CONTEXT: Skills/233/message1
  struggles with all his might!#Dargoth
+> END STRING
+
+> BEGIN STRING
+魔法のダメージや回復量が3倍になる
+ブースター系は効果が重複する
+> CONTEXT: Skills/244/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔法ギガブースタ
+> CONTEXT: Skills/244/name < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -3233,6 +3291,32 @@ Nectar Suckling#Dargoth
 > CONTEXT: Skills/246/message2
 > CONTEXT: Skills/361/message2
 An overload of pleasure is crushing \\N[1]'s willpower...#Dargoth
+> END STRING
+
+> BEGIN STRING
+不利なステータス異常を全て無効化する
+精神系の有利なステータスの効果時間が２倍になる
+> CONTEXT: Skills/247/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+夢魔の極致
+> CONTEXT: Skills/247/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+このスキルを持つ相手と戦闘になった相手は
+アイテム使用を含めた全ての逃走が不可になる
+> CONTEXT: Skills/248/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+夢魔の眼光
+> CONTEXT: Skills/248/name < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -3604,6 +3688,7 @@ Reverse Storm#Dargoth
 目を覚まそうと試みる。
 これを発動できれば目が覚めて勝利となる。
 > CONTEXT: Skills/279/description
+> CONTEXT: Skills/286/description
 > CONTEXT: Skills/287/description
 > CONTEXT: Skills/688/description
 Try to wake yourself up from the dream.
@@ -3728,8 +3813,21 @@ Wake Up [5]#Dargoth
 
 > BEGIN STRING
 不思議な力があふれてくる…！
+> CONTEXT: Skills/286/message2
 > CONTEXT: Skills/287/message2
 It overflows with a strange power!#Dargoth
+> END STRING
+
+> BEGIN STRING
+白魔女のお守り
+> CONTEXT: Skills/286/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の白魔女のお守りが光り出した！
+> CONTEXT: Skills/286/message1 < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -4065,6 +4163,31 @@ Spell#afrg
 > END STRING
 
 > BEGIN STRING
+万能を含む全ての攻撃のダメージを85％軽減する
+> CONTEXT: Skills/308/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+全門耐性
+> CONTEXT: Skills/308/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+相手の属性耐性・吸収・反射・無効を全て無効化する。
+弱点属性の場合、ダメージ倍率を＋200％
+> CONTEXT: Skills/309/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+全門貫通
+> CONTEXT: Skills/309/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
 相手に優しくキスをする。大切な人のためにとっておこう
 小ダメージを与え、高確率で相手を魅了状態にする。
 > CONTEXT: Skills/310/description
@@ -4238,6 +4361,7 @@ Genocide Shot#Triketos
 > BEGIN STRING
 はジェノサイドショットを放った！
 > CONTEXT: Skills/319/message1
+> CONTEXT: Skills/321/message1
  fired the almighty Genocide Shot!#Triketos
 > END STRING
 
@@ -4245,6 +4369,13 @@ Genocide Shot#Triketos
 リロードを行う。
 > CONTEXT: Skills/320/description
 Reload#Triketos
+> END STRING
+
+> BEGIN STRING
+５発のミサイルを連続で撃ち、相手に特大ダメージを与える。
+
+> CONTEXT: Skills/321/description < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -5145,7 +5276,7 @@ Untangle#afrg
 > BEGIN STRING
 \\N[1]の身体に瞬く間にネバネバの糸が巻き付いていく…！！
 > CONTEXT: Skills/411/message2
-\\N[1]'s body has become completly wraped in web!#afrgPR
+\\N[1]'s body has become completely wrapped in sticky web...!!#afrgPR/Strate
 > END STRING
 
 > BEGIN STRING
@@ -5925,8 +6056,6 @@ Answer the riddle#afrg
 こたえる
 > CONTEXT: Skills/483/description
 > CONTEXT: Skills/565/description
-Answer
-                                                            #MTLed
 > CONTEXT: System/skill_types/15
 > CONTEXT: System/skill_types/16
 Answer#MTLed
@@ -7862,6 +7991,12 @@ Whirlwind#afrg
 > END STRING
 
 > BEGIN STRING
+味方全体の抵抗力・気力を全回復する
+> CONTEXT: Skills/715/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
 サイ・ヒーリング
 > CONTEXT: Skills/715/name
 > CONTEXT: Skills/883/name
@@ -7990,6 +8125,39 @@ All Delteca#afrg
 > END STRING
 
 > BEGIN STRING
+火属性の超特大ダメージを与える。
+これを覚えるのには強大な魔力を操れる必要がある。
+> CONTEXT: Skills/736/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サイガ・アグニ
+> CONTEXT: Skills/736/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はサイガ・アグニを放った！
+> CONTEXT: Skills/736/message1 < UNTRANSLATED
+> CONTEXT: Skills/737/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+氷属性の超特大ダメージを与える。
+これを覚えるのには強大な魔力を操れる必要がある。
+> CONTEXT: Skills/737/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サイガ・フロスト
+> CONTEXT: Skills/737/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
 掴め、彼女の懺悔を終わらせる時だ
 > CONTEXT: Skills/738/description
 Grab her, and end her repentance.#afrg
@@ -8088,6 +8256,25 @@ Beast Claw (Serious)#afrg
 は見たことのない動きで相手を切り裂く…！
 > CONTEXT: Skills/747/message1
  cuts her opponent with a never before seen move!#afrg
+> END STRING
+
+> BEGIN STRING
+風属性の超特大ダメージを与える。
+これを覚えるのには強大な魔力を操れる必要がある。
+> CONTEXT: Skills/749/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サイガ・ガルダ
+> CONTEXT: Skills/749/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はサイガ・ガルダを放った！
+> CONTEXT: Skills/749/message1 < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -9420,5 +9607,108 @@ Focus your mind to gather your magic.#TriketosPartial
 > BEGIN STRING
 あまりの気持ちよさに\\N[1]の抵抗値がどんどん失われていく…
 > CONTEXT: Skills/888/message2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\#\#\#\#\#\#\#\#\#【マリオン】
+> CONTEXT: Skills/889/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+武器切り替え
+> CONTEXT: Skills/890/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+単体に無属性のダメージ
+> CONTEXT: Skills/891/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+マスケット
+> CONTEXT: Skills/891/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+単体に火属性のダメージ
+> CONTEXT: Skills/892/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+てつはう
+> CONTEXT: Skills/892/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+近接武器
+威力は高いが、自身のＨＰにもダメージを受ける
+> CONTEXT: Skills/893/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Ｍ２４型柄付手榴弾
+> CONTEXT: Skills/893/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ＨＰ回復（単体）
+> CONTEXT: Skills/894/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+赤リンゴ
+> CONTEXT: Skills/894/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+カズヤの性欲回復
+> CONTEXT: Skills/895/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+青リンゴ
+> CONTEXT: Skills/895/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ＨＰ回復（全体）
+> CONTEXT: Skills/896/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+赤リンゴ（うさぎ）
+> CONTEXT: Skills/896/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+統治者の心眼
+> CONTEXT: Skills/898/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は\\N[1]を守るために意識を集中した！
+> CONTEXT: Skills/898/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ロゴス・マギア
+> CONTEXT: Skills/899/name < UNTRANSLATED
 
 > END STRING

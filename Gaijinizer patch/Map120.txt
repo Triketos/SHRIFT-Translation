@@ -46,7 +46,7 @@ Requires 【\\C[2] Friendship 100\\C[0]】#Ron
 \\N[1]くん……
 
 ボクはそういうのもらっても、うれしくないなぁ……
-> CONTEXT: Map120/events/5/pages/0/263/Dialogue/enemy11
+> CONTEXT: Map120/events/5/pages/0/269/Dialogue/enemy11
 \\N[1]-kun... being given this kind of thing
 doesn't make me happy at all...#Ron
 > END STRING
@@ -55,7 +55,7 @@ doesn't make me happy at all...#Ron
 ボクが好きそうなものっていったら…ねぇ？
 
 ほら、分かるでしょ？ホラホラ
-> CONTEXT: Map120/events/5/pages/0/267/Dialogue/enemy11
+> CONTEXT: Map120/events/5/pages/0/273/Dialogue/enemy11
 Maybe try giving me something I might like, okay?
 
 Do you get it? Come on now.#Ron
@@ -63,15 +63,15 @@ Do you get it? Come on now.#Ron
 
 > BEGIN STRING
 心蝕を消すif(v[51] \>= 100) 
-> CONTEXT: Map120/events/5/pages/0/279/Choice/0
-Clear Corruptionif(v[51] \>= 100)#Ron
+> CONTEXT: Map120/events/5/pages/0/285/Choice/0
+Clear corruptionif(v[51] \>= 100)#Ron
 > END STRING
 
 > BEGIN STRING
 わーい♡\\N[1]くんが遊んでくれるのー？
 
 うれしいー♪
-> CONTEXT: Map120/events/5/pages/0/290/Dialogue/enemy11
+> CONTEXT: Map120/events/5/pages/0/296/Dialogue/enemy11
 Wow, are you gonna play with me?
 
 I'm so happy. ♪#Ron
@@ -81,13 +81,13 @@ I'm so happy. ♪#Ron
 あれ……？
 
 でもそれって普段と何か違う…？
-> CONTEXT: Map120/events/5/pages/0/294/Dialogue/enemy9
+> CONTEXT: Map120/events/5/pages/0/300/Dialogue/enemy9
 Huh...? You seem a bit different today...#Ron/Triketos
 > END STRING
 
 > BEGIN STRING
 "スフィンクスの心蝕が治った！！"
-> CONTEXT: Map120/events/5/pages/0/305/InlineScript/1:12
+> CONTEXT: Map120/events/5/pages/0/311/InlineScript/1:12
 "Sphinx's corruption has been cleared!!"#Ron
 > END STRING
 
@@ -916,6 +916,8 @@ you know what I'm getting at...#Ron
 > CONTEXT: Map215/events/5/pages/1/622/Dialogue/kazuya
 > CONTEXT: Map220/events/1/pages/0/99/Dialogue/kazuya
 > CONTEXT: Troops/286/pages/0/42/Dialogue/kazuya-0
+> CONTEXT: Troops/334/pages/0/43/Dialogue/kazuya
+> CONTEXT: Troops/336/pages/0/44/Dialogue/kazuya
 Uwah...!!#Ron
 > END STRING
 
@@ -1522,8 +1524,8 @@ able to take care of you...#Ron
 
 \\C[2]スフィンクスと婚約した！
 > CONTEXT: Map120/events/5/pages/2/79/Dialogue
-By giving her the engagement ring, \\C[2]you're now
-engaged to Sphinx!#Ron
+By giving her the engagement ring, \\C[2]you're now engaged
+to Sphinx!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1625,6 +1627,7 @@ as the gatekeeper, so I'll just be on my way...#Ron
 > BEGIN STRING
 うわっ！！！
 > CONTEXT: Map120/events/7/pages/0/64/Dialogue/kazuya
+> CONTEXT: Map362/events/1/pages/0/123/Dialogue/kazuya
 Whoa!!#Ron
 > END STRING
 
