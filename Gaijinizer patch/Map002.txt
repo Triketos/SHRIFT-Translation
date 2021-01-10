@@ -160,8 +160,8 @@ spirits broken even on easy. Not even a game anymore.
 
 > BEGIN STRING
 \\C[21]挑戦者向けen(s[34])
-> CONTEXT: Map002/events/1/pages/0/220/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Map002/events/1/pages/0/220/Choice/0
+\\C[21]Hardcore Modeen(s[34])#Ron
 > END STRING
 
 > BEGIN STRING
@@ -169,8 +169,11 @@ spirits broken even on easy. Not even a game anymore.
 \\C[0]配信当初より上方修正された内容を踏まえたうえで
 制作者想定の『HARD』に調整された、真のエサ向け難易度です。
 \\C[10]救済措置、途中の難易度変更不可。
-> CONTEXT: Map002/events/1/pages/0/222/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map002/events/1/pages/0/222/Dialogue
+Difficulty: \\C[21]Hardcore Mode \\C[2][Unlocked after game cleared]
+\\C[0]Based on revisions made to the game since release and
+adjusted to what the creator feels hard mode should be.
+\\C[10]Assists from Meira and changing difficulty disabled.#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -178,14 +181,17 @@ spirits broken even on easy. Not even a game anymore.
 【２周目要素は持ち越せません】
 ２周目は真慈悲の場合、シナリオが大きく変わります。
 まだ見てない方は、そちらを見た後に挑戦することを推奨します
-> CONTEXT: Map002/events/1/pages/0/231/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map002/events/1/pages/0/231/Dialogue
+\\I[1031]\\C[10]Please note: \\C[0] Elements from a second play-through
+won't carry over. The story will be quite different if
+doing a True Mercy route on your second run. Consider
+playing that route before trying this difficulty.#CheckLater
 > END STRING
 
 > BEGIN STRING
 やっぱやめる
-> CONTEXT: Map002/events/1/pages/0/236/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Map002/events/1/pages/0/236/Choice/1
+Maybe not#Ron
 > END STRING
 
 > BEGIN STRING
@@ -930,7 +936,7 @@ Child if(s[613])#Triketos
 
 この戦闘を閲覧しますか？
 > CONTEXT: Map002/events/1/pages/0/923/Dialogue
-【Lampas】: Child Defeat Scene
+[Lampas]: Child Defeat Scene
 
 Do you want to watch this scene?#Triketos
 > END STRING
@@ -966,7 +972,7 @@ From behind en(s[111])#Dargoth
 > CONTEXT: Map002/events/1/pages/0/967/Dialogue
 [Iron Maiden]: From the Front
 
-Do you want to view this battle?#Triketos
+Do you want to view this scene?#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -1043,7 +1049,7 @@ Do you want to view this scene?#Triketos
 > CONTEXT: Map002/events/1/pages/0/1067/Dialogue
 [Empuse]: Bow-Wow
 
-Do you want to view this battle?#Triketos
+Do you want to view this scene?#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -1222,7 +1228,7 @@ Do you want to view this scene?#Triketos
 【躯】：誘惑
 
 この戦闘を閲覧しますか？
-> CONTEXT: Map002/events/1/pages/0/1311/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/1/pages/0/1311/Dialogue
 [Mukuro]: Temptation
 
 Do you want to view this scene?#Triketos
@@ -1437,7 +1443,7 @@ Blowjoben(s[397])#Triketos
 > BEGIN STRING
 種搾りプレス en(s[398])
 > CONTEXT: Map002/events/1/pages/0/1539/Choice/3
-reverse piledriveren(s[398])#MTLed
+Seed-Squeezing Pressen(s[398])#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1475,42 +1481,43 @@ Do you want to view this scene?#Triketos
 
 この戦闘を閲覧しますか？
 > CONTEXT: Map002/events/1/pages/0/1591/Dialogue
-【Sphinx】: reverse piledriver
+[Sphinx]: Seed-Squeezing Press
 
-Do you want to view this scene?#MTLed
-
+Do you want to view this scene?#Ron
 > END STRING
 
 > BEGIN STRING
 巨大化 if(s[686])
-> CONTEXT: Map002/events/1/pages/0/1608/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Map002/events/1/pages/0/1608/Choice/0
+Enlargement if(s[686])#Ron
 > END STRING
 
 > BEGIN STRING
 【解放済み】
-> CONTEXT: Map002/events/1/pages/0/1610/ChoiceHelp < UNTRANSLATED
-
+> CONTEXT: Map002/events/1/pages/0/1610/ChoiceHelp
+[Unlocked]#Ron
 > END STRING
 
 > BEGIN STRING
 【スフィンクス】：巨大化
 
 この戦闘を閲覧しますか？
-> CONTEXT: Map002/events/1/pages/0/1612/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/1/pages/0/1612/Dialogue
+[Sphinx]: Enlargement
 
+Do you want to view this scene?#Ron
 > END STRING
 
 > BEGIN STRING
 "ヒント：おとなしく蜘蛛の糸に引っ張られる"
 > CONTEXT: Map002/events/1/pages/0/1640/InlineScript/2:1
-"Hint: Be gently pulled by the silk thread"#MTLed
+"Hint: Let yourself be pulled in by the spider thread."#Ron
 > END STRING
 
 > BEGIN STRING
 "ヒント：恐怖に負け、オナニーする"
 > CONTEXT: Map002/events/1/pages/0/1648/InlineScript/2:1
-"Hint: Lose to Afraid and Masturbate"#MTLed
+"Hint: Succumb to fear and masturbate."#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1522,19 +1529,19 @@ Do you want to view this scene?#MTLed
 > BEGIN STRING
 抱き＆呑み en(s[400])
 > CONTEXT: Map002/events/1/pages/0/1660/Choice/0
-Hug & Itchen(s[400])#MTLed
+Devouring Embraceen(s[400])#Ron
 > END STRING
 
 > BEGIN STRING
 押し倒し en(s[481])
 > CONTEXT: Map002/events/1/pages/0/1660/Choice/1
-Pin Downen(s[481])#MTLed
+Pin Downen(s[481])#Ron
 > END STRING
 
 > BEGIN STRING
 アコニートゥム en(s[482])
 > CONTEXT: Map002/events/1/pages/0/1660/Choice/2
-Aconitumen(s[482])#MTLed
+Aconitumen(s[482])#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1542,9 +1549,9 @@ Aconitumen(s[482])#MTLed
 
 この戦闘を閲覧しますか？
 > CONTEXT: Map002/events/1/pages/0/1664/Dialogue
-【Arachne】: Hug & Itch
+[Arachne]: Devouring Embrace
 
-Do you want to view this battle?#MTLed
+Do you want to view this scene?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1596,9 +1603,9 @@ Heavy Filter#Triketos
 
 この戦闘を閲覧しますか？
 > CONTEXT: Map002/events/1/pages/0/1696/Dialogue
-【Arachne】: Pin Down
+[Arachne]: Pin Down
 
-Do you want to view this battle?#MTLed
+Do you want to view this scene?#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1606,9 +1613,9 @@ Do you want to view this battle?#MTLed
 
 この戦闘を閲覧しますか？
 > CONTEXT: Map002/events/1/pages/0/1712/Dialogue
-【Arachne】: Aconitum
+[Arachne]: Aconitum
 
-Do you want to view this battle?#MTLed
+Do you want to view this scene?#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -1627,13 +1634,13 @@ Do you want to view this battle?#MTLed
 > BEGIN STRING
 搾精＆呑み en(s[484])
 > CONTEXT: Map002/events/1/pages/0/1752/Choice/0
-milking & itchingen(s[484])#MTLed
+Milking Devouren(s[484])#Ron
 > END STRING
 
 > BEGIN STRING
 巻き付き en(s[485])
 > CONTEXT: Map002/events/1/pages/0/1752/Choice/1
-Wrappeden(s[485])#MTLed
+Coileden(s[485])#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1641,9 +1648,9 @@ Wrappeden(s[485])#MTLed
 
 この戦闘を閲覧しますか？
 > CONTEXT: Map002/events/1/pages/0/1756/Dialogue
-【Titanoboa】: Hug & Itch
+[Titanoboa]: Milking Devour
 
-Do you want to view this battle?#MTLed
+Do you want to view this scene?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1651,39 +1658,39 @@ Do you want to view this battle?#MTLed
 
 この戦闘を閲覧しますか？
 > CONTEXT: Map002/events/1/pages/0/1788/Dialogue
-【Titanoboa】: Wrapped
+[Titanoboa]: Coiled
 
-Do you want to view this battle?#MTLed
+Do you want to view this scene?#Ron
 > END STRING
 
 > BEGIN STRING
 カマソッソ if(s[486])
 > CONTEXT: Map002/events/1/pages/0/1809/Choice/0
-Camazotzif(s[486])#MTLed
+Camazotzif(s[486])#Ron
 > END STRING
 
 > BEGIN STRING
 ミカ if(s[489])
 > CONTEXT: Map002/events/1/pages/0/1809/Choice/1
-Micahif(s[489])#MTLed
+Micahif(s[489])#Ron
 > END STRING
 
 > BEGIN STRING
 妲己（ノーマル） if(s[490])
 > CONTEXT: Map002/events/1/pages/0/1809/Choice/2
-Daji (Normal)if(s[490])#MTLed
+Daji (Normal)if(s[490])#Ron
 > END STRING
 
 > BEGIN STRING
 妲己（アルラウネ） if(s[494])
 > CONTEXT: Map002/events/1/pages/0/1809/Choice/3
-Daji (Alraune)if(s[494])#MTLed
+Daji (Alraune)if(s[494])#Ron
 > END STRING
 
 > BEGIN STRING
 "ヒント：口車を拒絶した後に何もしない"
 > CONTEXT: Map002/events/1/pages/0/1828/InlineScript/2:1
-"Hint: Cancel after rejecting the car"#MTLed
+"Hint: Do nothing after rejecting her trickery."#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1721,7 +1728,7 @@ Do you want to view this scene?#Triketos
 > BEGIN STRING
 逆寝取られ en(s[489])
 > CONTEXT: Map002/events/1/pages/0/1884/Choice/0
-Reverse cuckolden(s[489])#MTLed
+Reverse Cuckolden(s[489])#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1729,21 +1736,21 @@ Reverse cuckolden(s[489])#MTLed
 
 この戦闘を閲覧しますか？
 > CONTEXT: Map002/events/1/pages/0/1888/Dialogue
-【Micah】: Cuckold reverse
+[Micah]: Reverse Cuckold
 
-Do you want to view this battle?#MTLed
+Do you want to view this scene?#Ron
 > END STRING
 
 > BEGIN STRING
 "ヒント：時止め攻撃"
 > CONTEXT: Map002/events/1/pages/0/1924/InlineScript/2:1
-"Hint: Censored Attack"#MTLed
+"Hint: Time Stop attack."#RonIffy
 > END STRING
 
 > BEGIN STRING
 "ヒント：手足拘束を放置する"
 > CONTEXT: Map002/events/1/pages/0/1932/InlineScript/2:1
-"Hint: Leave limbs bound"#MTLed
+"Hint: Leave arms and legs bound."#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1769,7 +1776,7 @@ Tail Wrap en(s[493])#Triketos
 
 この戦闘を閲覧しますか？
 > CONTEXT: Map002/events/1/pages/0/1940/Dialogue
-【Daji】: Temptation Milking
+[Daji]: Temptation Milking
 
 Do you want to watch this battle?#Triketos
 > END STRING
@@ -1779,7 +1786,7 @@ Do you want to watch this battle?#Triketos
 
 この戦闘を閲覧しますか？
 > CONTEXT: Map002/events/1/pages/0/1956/Dialogue
-【Daji】: Footjob
+[Daji]: Footjob
 
 Do you want to watch this battle?#Triketos
 > END STRING
@@ -1789,7 +1796,7 @@ Do you want to watch this battle?#Triketos
 
 この戦闘を閲覧しますか？
 > CONTEXT: Map002/events/1/pages/0/1972/Dialogue
-【Daji】: Tail Wrap
+[Daji]: Tail Wrap
 
 Do you want to watch this battle?#Triketos
 > END STRING
@@ -1805,7 +1812,7 @@ Nectar Milkingen(s[494])#TriketosLocalize
 
 この戦闘を閲覧しますか？
 > CONTEXT: Map002/events/1/pages/0/2008/Dialogue
-【Daji (Alraune)】: Nectar Milking
+[Alraune Daji]: Nectar Milking
 
 Do you want to watch this battle?#Triketos
 
@@ -1834,7 +1841,7 @@ Forced Mating en(s[495])#Triketos
 
 この戦闘を閲覧しますか？
 > CONTEXT: Map002/events/1/pages/0/2048/Dialogue
-【Daji (Beast)】: Forced Mating
+[Beast Daji]: Forced Mating
 
 Do you want to watch this battle?#Triketos
 
@@ -1843,13 +1850,13 @@ Do you want to watch this battle?#Triketos
 > BEGIN STRING
 "ヒント：ボタン入力をミスる"
 > CONTEXT: Map002/events/1/pages/0/2076/InlineScript/2:1
-"Hint: Miss button input"#MTLed
+"Hint: Fail QTE input."#Ron
 > END STRING
 
 > BEGIN STRING
 "ヒント：キスを受ける"
 > CONTEXT: Map002/events/1/pages/0/2084/InlineScript/2:1
-"Hint: Get a kiss"#MTLed
+"Hint: Get a kiss."#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1869,9 +1876,9 @@ Kiss en(s[498])#Triketos
 
 この戦闘を閲覧しますか？
 > CONTEXT: Map002/events/1/pages/0/2092/Dialogue
-【Daji (Gel)】: Dance
+[Gel Daji]: Dance
 
-Do you want to watch this battle?#Triketos
+Do you want to watch this scene?#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -1879,9 +1886,9 @@ Do you want to watch this battle?#Triketos
 
 この戦闘を閲覧しますか？
 > CONTEXT: Map002/events/1/pages/0/2124/Dialogue
-【Daji (gel)】: Kiss
+[Gel Daji]: Kiss
 
-Do you want to watch this battle?#Triketos
+Do you want to watch this scene?#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -1898,20 +1905,20 @@ Harpy Queen if(s[603])#Triketos
 
 > BEGIN STRING
 "ヒント：抵抗せずにキスする"
-> CONTEXT: Map002/events/1/pages/0/2172/InlineScript/2:1 < UNTRANSLATED
-
+> CONTEXT: Map002/events/1/pages/0/2172/InlineScript/2:1
+"Hint: Kiss her without resisting."#Ron
 > END STRING
 
 > BEGIN STRING
 "ヒント：２体いる状態で空中に捕まる"
-> CONTEXT: Map002/events/1/pages/0/2180/InlineScript/2:1 < UNTRANSLATED
-
+> CONTEXT: Map002/events/1/pages/0/2180/InlineScript/2:1
+"Hint 2: Be caught in the air while there are two of them."#Ron
 > END STRING
 
 > BEGIN STRING
 "ヒント：３体いる状態で空中に捕まる"
-> CONTEXT: Map002/events/1/pages/0/2188/InlineScript/2:1 < UNTRANSLATED
-
+> CONTEXT: Map002/events/1/pages/0/2188/InlineScript/2:1
+"Hint 3: Be caught in the air while there are three of them."#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1937,9 +1944,9 @@ Triple Blowjob en(s[602])#Triketos
 
 この戦闘を閲覧しますか？
 > CONTEXT: Map002/events/1/pages/0/2196/Dialogue
-【Harpy Spawn】: Charming Kiss
+[Harpy Spawn]: Charming Kiss
 
-Do you want to watch this battle?#Triketos
+Do you want to watch this scene?#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -1947,9 +1954,9 @@ Do you want to watch this battle?#Triketos
 
 この戦闘を閲覧しますか？
 > CONTEXT: Map002/events/1/pages/0/2212/Dialogue
-【Harpy Spawn】: Titfuck
+[Harpy Spawn]: Titfuck
 
-Do you want to watch this battle?#Triketos
+Do you want to watch this scene?#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -1957,21 +1964,21 @@ Do you want to watch this battle?#Triketos
 
 この戦闘を閲覧しますか？
 > CONTEXT: Map002/events/1/pages/0/2228/Dialogue
-【Harpy Spawn】: Triple Blowjob
+[Harpy Spawn]: Triple Blowjob
 
-Do you want to watch this battle?#Triketos
+Do you want to watch this scene?#Triketos
 > END STRING
 
 > BEGIN STRING
 "ヒント：胸元まで運んでもらう"
-> CONTEXT: Map002/events/1/pages/0/2256/InlineScript/2:1 < UNTRANSLATED
-
+> CONTEXT: Map002/events/1/pages/0/2256/InlineScript/2:1
+"Hint: Get carried to her chest."#CheckLater
 > END STRING
 
 > BEGIN STRING
 "ヒント：触手攻撃を受ける"
-> CONTEXT: Map002/events/1/pages/0/2264/InlineScript/2:1 < UNTRANSLATED
-
+> CONTEXT: Map002/events/1/pages/0/2264/InlineScript/2:1
+"Hint: Get hit with a tentacle."#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1991,9 +1998,9 @@ Crush en(s[605])#Triketos
 
 この戦闘を閲覧しますか？
 > CONTEXT: Map002/events/1/pages/0/2272/Dialogue
-【Harpy Queen】: Embracing Milking
+[Harpy Queen]: Embracing Milking
 
-Do you want to watch this battle?#Triketos
+Do you want to watch this scene?#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -2001,9 +2008,9 @@ Do you want to watch this battle?#Triketos
 
 この戦闘を閲覧しますか？
 > CONTEXT: Map002/events/1/pages/0/2304/Dialogue
-【Harpy Queen】: Crushing Milking
+[Harpy Queen]: Crushing Milking
 
-Do you want to watch this battle?#Triketos
+Do you want to watch this scene?#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -2020,14 +2027,14 @@ Hecate if(s[610])#Triketos
 
 > BEGIN STRING
 "ヒント：ダンスで負ける"
-> CONTEXT: Map002/events/1/pages/0/2352/InlineScript/2:1 < UNTRANSLATED
-
+> CONTEXT: Map002/events/1/pages/0/2352/InlineScript/2:1
+"Hint: Lose the dance."#Ron
 > END STRING
 
 > BEGIN STRING
 "ヒント：バグベアに負ける"
-> CONTEXT: Map002/events/1/pages/0/2360/InlineScript/2:1 < UNTRANSLATED
-
+> CONTEXT: Map002/events/1/pages/0/2360/InlineScript/2:1
+"Hint: Lose to Bugbear."#Ron
 > END STRING
 
 > BEGIN STRING
@@ -2047,9 +2054,9 @@ Bugbear en(s[608])#Triketos
 
 この戦闘を閲覧しますか？
 > CONTEXT: Map002/events/1/pages/0/2368/Dialogue
-【Mormo】: Dance-off
+[Mormo]: Dance-off
 
-Do you want to watch this battle?#Triketos
+Do you want to watch this scene?#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -2057,23 +2064,23 @@ Do you want to watch this battle?#Triketos
 
 この戦闘を閲覧しますか？
 > CONTEXT: Map002/events/1/pages/0/2384/Dialogue
-【Mormo】: Bugbear
+[Mormo]: Bugbear
 
-Do you want to watch this battle?#Triketos
+Do you want to watch this scene?#Triketos
 > END STRING
 
 > BEGIN STRING
 "ヒント：最初の誘惑に乗る"
-> CONTEXT: Map002/events/1/pages/0/2409/InlineScript/2:1 < UNTRANSLATED
-> CONTEXT: Map002/events/1/pages/0/2594/InlineScript/2:1 < UNTRANSLATED
-
+> CONTEXT: Map002/events/1/pages/0/2409/InlineScript/2:1
+> CONTEXT: Map002/events/1/pages/0/2594/InlineScript/2:1
+"Hint: Go along with the first seduction."#Ron
 > END STRING
 
 > BEGIN STRING
 "ヒント：最期まで抗う"
-> CONTEXT: Map002/events/1/pages/0/2417/InlineScript/2:1 < UNTRANSLATED
-> CONTEXT: Map002/events/1/pages/0/2602/InlineScript/2:1 < UNTRANSLATED
-
+> CONTEXT: Map002/events/1/pages/0/2417/InlineScript/2:1
+> CONTEXT: Map002/events/1/pages/0/2602/InlineScript/2:1
+"Hint: Resist until the end."#Ron
 > END STRING
 
 > BEGIN STRING
@@ -2093,9 +2100,9 @@ Footjob en(s[612])#Triketos
 
 この戦闘を閲覧しますか？
 > CONTEXT: Map002/events/1/pages/0/2425/Dialogue
-【Hecate】: Cowgirl?
+[Hecate]: Cowgirl?
 
-Do you want to watch this battle?#Triketos
+Do you want to watch this scene?#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -2103,9 +2110,9 @@ Do you want to watch this battle?#Triketos
 
 この戦闘を閲覧しますか？
 > CONTEXT: Map002/events/1/pages/0/2441/Dialogue
-【Hecate】: Footjob
+[Hecate]: Footjob
 
-Do you want to watch this battle?#Triketos
+Do you want to watch this scene?#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -2134,199 +2141,221 @@ Titania if(s[685])#Triketos
 
 > BEGIN STRING
 "ヒント：遊びに付き合う"
-> CONTEXT: Map002/events/1/pages/0/2473/InlineScript/2:1 < UNTRANSLATED
-
+> CONTEXT: Map002/events/1/pages/0/2473/InlineScript/2:1
+"Hint: Go play with her."#Ron
 > END STRING
 
 > BEGIN STRING
 "ヒント：２人を受け入れる"
-> CONTEXT: Map002/events/1/pages/0/2481/InlineScript/2:1 < UNTRANSLATED
-
+> CONTEXT: Map002/events/1/pages/0/2481/InlineScript/2:1
+"Hint: Accept the two of them."#Ron
 > END STRING
 
 > BEGIN STRING
 "ヒント：マイに敗北する"
-> CONTEXT: Map002/events/1/pages/0/2489/InlineScript/2:1 < UNTRANSLATED
-
+> CONTEXT: Map002/events/1/pages/0/2489/InlineScript/2:1
+"Hint: Lose to Mai."#Ron
 > END STRING
 
 > BEGIN STRING
 "ヒント：エナに敗北する"
-> CONTEXT: Map002/events/1/pages/0/2497/InlineScript/2:1 < UNTRANSLATED
-
+> CONTEXT: Map002/events/1/pages/0/2497/InlineScript/2:1
+"Hint: Lose to Ena."#Ron
 > END STRING
 
 > BEGIN STRING
 搾精遊び en(s[615])
-> CONTEXT: Map002/events/1/pages/0/2501/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Map002/events/1/pages/0/2501/Choice/0
+Milking Play#Ron
 > END STRING
 
 > BEGIN STRING
 搾精生活 en(s[616])
-> CONTEXT: Map002/events/1/pages/0/2501/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Map002/events/1/pages/0/2501/Choice/1
+Milking Life#Ron
 > END STRING
 
 > BEGIN STRING
 マイ単体 en(s[617])
-> CONTEXT: Map002/events/1/pages/0/2501/Choice/2 < UNTRANSLATED
-
+> CONTEXT: Map002/events/1/pages/0/2501/Choice/2
+Mai Solo#Ron
 > END STRING
 
 > BEGIN STRING
 エナ単体 en(s[618])
-> CONTEXT: Map002/events/1/pages/0/2501/Choice/3 < UNTRANSLATED
-
+> CONTEXT: Map002/events/1/pages/0/2501/Choice/3
+Ena Solo#Ron
 > END STRING
 
 > BEGIN STRING
 【マイ＆エナ】：遊び搾精
 
 この戦闘を閲覧しますか？
-> CONTEXT: Map002/events/1/pages/0/2505/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/1/pages/0/2505/Dialogue
+[Mai & Ena]: Milking Play
 
+Do you want to watch this scene?#Ron
 > END STRING
 
 > BEGIN STRING
 【マイ＆エナ】：搾精生活
 
 この戦闘を閲覧しますか？
-> CONTEXT: Map002/events/1/pages/0/2521/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/1/pages/0/2521/Dialogue
+[Mai & Ena]: Milking Life
 
+Do you want to watch this scene?#Ron
 > END STRING
 
 > BEGIN STRING
 【マイ】：おっぱい搾精
 
 この戦闘を閲覧しますか？
-> CONTEXT: Map002/events/1/pages/0/2537/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/1/pages/0/2537/Dialogue
+[Mai]: Titjob
 
+Do you want to watch this scene?#Ron
 > END STRING
 
 > BEGIN STRING
 手コキ
-> CONTEXT: Map002/events/1/pages/0/2551/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Map002/events/1/pages/0/2551/Choice/0
+Handjob#Ron
 > END STRING
 
 > BEGIN STRING
 抱きしめ
-> CONTEXT: Map002/events/1/pages/0/2551/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Map002/events/1/pages/0/2551/Choice/1
+Embrace#Ron
 > END STRING
 
 > BEGIN STRING
 【エナ】：手コキ
 
 この戦闘を閲覧しますか？
-> CONTEXT: Map002/events/1/pages/0/2553/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/1/pages/0/2553/Dialogue
+[Ena]: Handjob
 
+Do you want to watch this scene?#Ron
 > END STRING
 
 > BEGIN STRING
 【エナ】：抱きしめ
 
 この戦闘を閲覧しますか？
-> CONTEXT: Map002/events/1/pages/0/2567/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/1/pages/0/2567/Dialogue
+[Ena]: Embrace
 
+Do you want to watch this scene?#Ron
 > END STRING
 
 > BEGIN STRING
 抱きしめ搾精 en(s[620])
-> CONTEXT: Map002/events/1/pages/0/2606/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Map002/events/1/pages/0/2606/Choice/0
+Milking Embrace#Ron
 > END STRING
 
 > BEGIN STRING
 フェラ if(s[681])
-> CONTEXT: Map002/events/1/pages/0/2606/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Map002/events/1/pages/0/2606/Choice/1
+Blowjob if(s[681])#Ron
 > END STRING
 
 > BEGIN STRING
 【チェシャ】：抱きしめ搾精
 
 この戦闘を閲覧しますか？
-> CONTEXT: Map002/events/1/pages/0/2610/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/1/pages/0/2610/Dialogue
+[Cheshire]: Milking Embrace
 
+Do you want to watch this scene?#Ron
 > END STRING
 
 > BEGIN STRING
 【チェシャ】：フェラ
 
 この戦闘を閲覧しますか？
-> CONTEXT: Map002/events/1/pages/0/2626/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/1/pages/0/2626/Dialogue
+[Chesire]: Blowjob
 
+Do you want to watch this scene?#Ron
 > END STRING
 
 > BEGIN STRING
 "ヒント：おっぱい"
-> CONTEXT: Map002/events/1/pages/0/2651/InlineScript/2:1 < UNTRANSLATED
-> CONTEXT: Map002/events/1/pages/0/2708/InlineScript/2:1 < UNTRANSLATED
-
+> CONTEXT: Map002/events/1/pages/0/2651/InlineScript/2:1
+> CONTEXT: Map002/events/1/pages/0/2708/InlineScript/2:1
+"Hint: Boobs."#Ron
 > END STRING
 
 > BEGIN STRING
 "ヒント：アプローチ"
-> CONTEXT: Map002/events/1/pages/0/2659/InlineScript/2:1 < UNTRANSLATED
-
+> CONTEXT: Map002/events/1/pages/0/2659/InlineScript/2:1
+"Hint: Approach."#Ron
 > END STRING
 
 > BEGIN STRING
 抱きしめ搾精 en(s[683])
-> CONTEXT: Map002/events/1/pages/0/2663/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Map002/events/1/pages/0/2663/Choice/0
+Embraced Milking#Ron
 > END STRING
 
 > BEGIN STRING
 授乳手コキ if(s[684])
-> CONTEXT: Map002/events/1/pages/0/2663/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Map002/events/1/pages/0/2663/Choice/1
+Suckling Handjob#Ron
 > END STRING
 
 > BEGIN STRING
 【アナオン】：抱きしめ搾精
 
 この戦闘を閲覧しますか？
-> CONTEXT: Map002/events/1/pages/0/2667/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/1/pages/0/2667/Dialogue
+[Anaon]: Embraced Milking
 
+Do you want to watch this scene?#Ron
 > END STRING
 
 > BEGIN STRING
 【アナオン】：授乳手コキ
 
 この戦闘を閲覧しますか？
-> CONTEXT: Map002/events/1/pages/0/2683/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/1/pages/0/2683/Dialogue
+[Anaon]: Suckling Handjob
 
+Do you want to watch this scene?#Ron
 > END STRING
 
 > BEGIN STRING
 搾精（人形態） en(s[685])
-> CONTEXT: Map002/events/1/pages/0/2712/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Map002/events/1/pages/0/2712/Choice/0
+Milking (Doll Form)#Ron
 > END STRING
 
 > BEGIN STRING
 搾精（蠅形態） en(s[685])
-> CONTEXT: Map002/events/1/pages/0/2712/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Map002/events/1/pages/0/2712/Choice/1
+Milking (Fly Form)#Ron
 > END STRING
 
 > BEGIN STRING
 【ティターニア】：搾精（人形態）
 
 この戦闘を閲覧しますか？
-> CONTEXT: Map002/events/1/pages/0/2716/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/1/pages/0/2716/Dialogue
+[Titania]: Milking (Doll Form)
 
+Do you want to watch this scene?#Ron
 > END STRING
 
 > BEGIN STRING
 【ティターニア】：搾精（蠅形態）
 
 この戦闘を閲覧しますか？
-> CONTEXT: Map002/events/1/pages/0/2732/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/1/pages/0/2732/Dialogue
+[Titania]: Milking (Fly Form)
 
+Do you want to watch this scene?#Ron
 > END STRING
 
 > BEGIN STRING
