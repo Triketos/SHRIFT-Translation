@@ -345,13 +345,14 @@ Fool's Wand#afrg
 悪意の塊。
 この刃先は、誰かを傷付けるためだけに存在する。
 > CONTEXT: Weapons/71/description
-A lump of malice that exists solely to hurt others.#Ron
+Mass of malice. This cutting edge exists only to injure
+someone.#MTLed
 > END STRING
 
 > BEGIN STRING
 エッジダガー
 > CONTEXT: Weapons/71/name
-Edge Dagger#Ron
+Edge dagger#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -383,27 +384,30 @@ world. It takes a considerable amount of time to charge.#Triketos
 > BEGIN STRING
 無限に撃てるハンドガン。
 > CONTEXT: Weapons/85/description
-A Handgun with infinite ammo.#Ron
+Handgun shooting infinitely.
+                                                            #MTLed
 > END STRING
 
 > BEGIN STRING
 無限に撃てるマシンガン
 > CONTEXT: Weapons/86/description
-A Machine Gun with infinite ammo.#Ron
+Machine gun that can shoot infinitely
+                                                            #MTLed
 > END STRING
 
 > BEGIN STRING
 無限に撃てるショットガン。
 > CONTEXT: Weapons/87/description
-A Shotgun with infinite ammo.#Ron
+Shotgun shooting infinitely.
+                                                            #MTLed
 > END STRING
 
 > BEGIN STRING
 無限に撃てるリベリオン。
 属性弾も無限に撃てる
 > CONTEXT: Weapons/88/description
-A Rebellion with infinite ammo, including both regular
-and attribute ammo.#Ron
+Rebellion who shoots infinitely. I can shoot an infinite
+number of attribute bullets#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -415,46 +419,49 @@ and attribute ammo.#Ron
 > BEGIN STRING
 無限に撃てるキャリコ
 > CONTEXT: Weapons/89/description
-A Calico with infinite ammo.#Ron
+Shoot endlessly Calico
+                                                            #MTLed
 > END STRING
 
 > BEGIN STRING
 無限に撃てるマグナム
 > CONTEXT: Weapons/90/description
-A Magnum with infinite ammo.#Ron
+Magnum shooting infinitely
+                                                            #MTLed
 > END STRING
 
 > BEGIN STRING
 無限に撃てるアサルトライフル
 > CONTEXT: Weapons/91/description
-An Assault Rifle with infinite ammo.#Ron
+Assault rifle that can shoot infinitely
+                                                            #MTLed
 > END STRING
 
 > BEGIN STRING
 無限に撃てるアサルトライフル
 もちろんグレネードも無限。
 > CONTEXT: Weapons/92/description
-An Assault Rifle with both infinite ammo and grenades.#Ron
+Assault rifle that can shoot infinitely. Of course Grenade
+is also endless.#MTLed
 > END STRING
 
 > BEGIN STRING
 ∞アサルトライフル改
 > CONTEXT: Weapons/92/name
-∞ Modded Assault Rifle#Ron
+∞ modded assault rifle#MTLed
 > END STRING
 
 > BEGIN STRING
 無限に撃てるロケットランチャー
 必中武器で、能力値のマイナス補正もない。
-> CONTEXT: Weapons/93/description
-Rocket launcher with infinite ammo.
-A must-have weapon with no downsides.#RonIffy
+> CONTEXT: Weapons/93/description < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
 ∞ロケットランチャー
-> CONTEXT: Weapons/93/name
-∞ Rocket Launcher#Ron
+> CONTEXT: Weapons/93/name < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -609,6 +616,6 @@ Crushing Death Fang#Ron/Triketos
 
 > BEGIN STRING
 練気の刀（小）
-> CONTEXT: Weapons/110/name
-Worn Sword (Small)#Ron
+> CONTEXT: Weapons/110/name < UNTRANSLATED
+
 > END STRING

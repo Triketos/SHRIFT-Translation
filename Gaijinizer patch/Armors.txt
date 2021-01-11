@@ -185,15 +185,14 @@ Dragon Fang#Lvl1
 > BEGIN STRING
 身体のラインを強調した、露出の高いルシィの衣服
 だがその性的な外見が、誘惑に使われたことはない。
-> CONTEXT: Armors/19/description
-Lucy's revealing clothes, emphasizing the contours of her
-body. But her sexual appearance wasn't used for seduction.#CheckLater
+> CONTEXT: Armors/19/description < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
 失楽の黒衣
-> CONTEXT: Armors/19/name
-> CONTEXT: Armors/53/name
+> CONTEXT: Armors/19/name < UNTRANSLATED
+> CONTEXT: Armors/53/name < UNTRANSLATED
 Condemned Clothes#Dargoth
 > END STRING
 
@@ -258,98 +257,98 @@ Dance Card#Triketos
 戦闘開始時に、武器を自動的にしまう。免罪符枠に装備可。
 交渉時の服を脱ぐターンでの事故を防ぎたい人向け。
 > CONTEXT: Armors/30/description
-Automatically equips a weapon at battle start. For those
-who want to prevent accidents when taking off clothes.#CheckLater
+At the beginning of the battle, I automatically
+get the weapon. It is possible to equip it with
+a frame of innocence. For those who want to
+prevent an accident in the turn that undress
+at the time of negotiations.#GT
 > END STRING
 
 > BEGIN STRING
 友愛の腕輪
 > CONTEXT: Armors/30/name
-Friendship Bracelet#Ron
+Brawl of fraternity#GT
 > END STRING
 
 > BEGIN STRING
 戦闘開始時に、自動的に全裸になる。免罪符枠に装備可能。
 負ける工程で服を脱ぐのが面倒くさい人向け。
 > CONTEXT: Armors/31/description
-Automatically get naked at battle start. For those who want
-to hurry up and lose.#RonLocalization
+At the beginning of the battle, they
+automatically get naked. It can be equipped with
+a frame of innocence. For those who have trouble
+taking off their clothes in the process of losing.#GT
 > END STRING
 
 > BEGIN STRING
 服従の腕輪
 > CONTEXT: Armors/31/name
-Obedience Bracelet#Ron
+Obedience bracelet#GT
 > END STRING
 
 > BEGIN STRING
 豪華に装飾された、至高のもっふもふローブ
 魔法に関しての属性への耐性と、魔法・敏捷上昇の効果がある
-> CONTEXT: Armors/35/description
-A gaudy, supremely fluffy robe. Provides magic resistance
-and bonuses to agility.#RonIffy
+> CONTEXT: Armors/35/description < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
 ケモナーローブ
-> CONTEXT: Armors/35/name
-Kemona Robe#Ron
+> CONTEXT: Armors/35/name < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
 もふもふな悪魔たちの魔力が集結したローブ
 魔法の属性攻撃と、性欲上昇量に対して大幅な耐性を得る
-> CONTEXT: Armors/36/description
-A robe imbued with the magic of fluffy demons. Provides a
-large resistance to magic and lust attacks.#RonIffy
+> CONTEXT: Armors/36/description < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
 モコモコローブ
-> CONTEXT: Armors/36/name
-Fluffy Robe#Ron
+> CONTEXT: Armors/36/name < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
 物理ダメージを90％軽減。
 混乱、出血、愛液まみれ無効。スタン、脱力確率を半減する。
-> CONTEXT: Armors/37/description
-Reduces physical damage by 90%. Prevents confusion, bleed,
-and sexual fluids. Halves chances of stun and exhaustion.#RonIffyWording
+> CONTEXT: Armors/37/description < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
 リア・マーク・プロト
-> CONTEXT: Armors/37/name
-Riamarkproto#CheckLater
+> CONTEXT: Armors/37/name < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
 魔法攻撃に少しだけ弱くなるが
 物理ダメージを80％軽減。混乱、出血、愛液まみれ無効。
-> CONTEXT: Armors/38/description
-Slightly reduces magic defense but reduces physical damage
-by 80%. Prevents confusion, bleed, and sexual fluids.#RonIffyWording
+> CONTEXT: Armors/38/description < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
 フィジカルアーマー
-> CONTEXT: Armors/38/name
-Physical Armor#Ron
+> CONTEXT: Armors/38/name < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
 『恍惚』から『魅了』に重複するのを防いでくれて
 戦闘中に一回だけ、『朦朧』状態を解除してくれる御守り
-> CONTEXT: Armors/39/description
-Prevents "Ecstasy" worsening to "Charmed". Will also
-prevent the "Dazed" status once per battle.#Ron
+> CONTEXT: Armors/39/description < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
 白魔女の御守り
-> CONTEXT: Armors/39/name
-White Witch's Charm#Ron
+> CONTEXT: Armors/39/name < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
