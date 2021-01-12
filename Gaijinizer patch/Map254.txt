@@ -2,39 +2,39 @@
 > BEGIN STRING
 "[SYSTEM]\\n修復プログラム、起動。"
 > CONTEXT: Map254/events/1/pages/0/29/InlineScript/1:6
-"[SYSTEM] 修復 n repair program, start up."#MTLed
+"[SYSTEM]\\nStarting restoration program."#Ron
 > END STRING
 
 > BEGIN STRING
 "[SYSTEM]\\nウイルスをスキャンしています…"
 > CONTEXT: Map254/events/1/pages/0/31/InlineScript/1:6
-"[SYSTEM] nn woofing virus ..."#MTLed
+"[SYSTEM]\\nScanning for viruses..."#Ron
 > END STRING
 
 > BEGIN STRING
 "[SYSTEM]\\n修復を開始します。
 \\n修復が完了次第、再起動します。"
 > CONTEXT: Map254/events/1/pages/0/34/InlineScript/1:6
-"[SYSTEM] n n Start repair.
-\\nRestartassoonastherepairiscomplete."#MTLed
+"[SYSTEM]\\nInitiating restore.
+\\nWill reboot after restoration."#RonIffyWording
 > END STRING
 
 > BEGIN STRING
 "[SYSTEM]\\n修復完了"
 > CONTEXT: Map254/events/1/pages/0/69/InlineScript/1:6
-"[SYSTEM] 修復 n repair completed"#MTLed
+"[SYSTEM]\\nRestoration complete."#Ron
 > END STRING
 
 > BEGIN STRING
 "[SYSTEM]\\nおめでとうございます"
 > CONTEXT: Map254/events/1/pages/0/73/InlineScript/1:6
-"[SYSTEM] お め で と う n congratulations"#MTLed
+"[SYSTEM]\\nCongratulations."#Ron
 > END STRING
 
 > BEGIN STRING
 "[SYﾙTﾜM]\\nまた殺せますね"
 > CONTEXT: Map254/events/1/pages/0/75/InlineScript/1:6
-"[SY Le Twa M] n n can kill again"#MTLed
+"[SySt3m]\\nYou can now kill again."#Ron
 > END STRING
 
 > BEGIN STRING
@@ -112,13 +112,13 @@ protagonist. You will need much determination.#CheckLater
 > BEGIN STRING
 蟋九ａ繧
 > CONTEXT: Map254/events/1/pages/0/109/Choice/0
-Cost#MTLed
+Start Game#Ron
 > END STRING
 
 > BEGIN STRING
 繧?ａ繧
 > CONTEXT: Map254/events/1/pages/0/109/Choice/1
-Cope?a#MTLed
+Cancel#Ron
 > END STRING
 
 > BEGIN STRING
