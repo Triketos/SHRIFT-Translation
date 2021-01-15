@@ -3,7 +3,8 @@
 
 『レディース　アンド　ジェントルメン！！』
 > CONTEXT: Map220/events/1/pages/0/5/Dialogue
-"Ladies and Gentlemen!!"#MTLed
+
+"Ladies and Gentlemen!!"#Strate
 > END STRING
 
 > BEGIN STRING
@@ -12,8 +13,10 @@
 
 はっじまるよーー！！
 > CONTEXT: Map220/events/1/pages/0/8/Dialogue
-Nina-chan's. "Get know! Common sense of demon! "
-Hajimaru-! !#MTLed
+Nina-chan's
+"Demon Knowledge 101!"
+
+Is now in session--!!#StrateLocalization
 > END STRING
 
 > BEGIN STRING
@@ -22,9 +25,10 @@ Hajimaru-! !#MTLed
  悪魔に関しての役立つ知識を、毎週皆様にお届けする
 『知っ得！悪魔の常識！』
 > CONTEXT: Map220/events/1/pages/0/17/Dialogue/enemy6
-here we go! started! Deliver useful knowledge
-about demon every week. "Get know! Common sense
-of demon! "#MTLed
+Alright, let's get started!
+
+"Demon Knowledge 101!" delivers
+useful knowledge about demons to you every week!#StrateLocalization
 > END STRING
 
 > BEGIN STRING
@@ -32,14 +36,15 @@ of demon! "#MTLed
 
 我らがヒーロー！\\N[1]くんでーす！
 > CONTEXT: Map220/events/1/pages/0/22/Dialogue/enemy6
-I will be giving a lecturer and assistance stun
-today. Our Hero! \\N[1]-kun!#MTLed
+Today's instructor and assistant is once again...
+
+Our Hero! \\N[1]-kun!#Strate
 > END STRING
 
 > BEGIN STRING
 ……………あはは、どうも
 > CONTEXT: Map220/events/1/pages/0/28/Dialogue/kazuya
-............ Ahaha#MTLed
+.........Ahaha, thank you.#Strate
 > END STRING
 
 > BEGIN STRING
@@ -48,8 +53,10 @@ today. Our Hero! \\N[1]-kun!#MTLed
  今回紹介する、『悪魔の常識』は……
 こちらです！！！
 > CONTEXT: Map220/events/1/pages/0/30/Dialogue/enemy6
-And ......!!The "common sense of demon" to be
-introduced this time is...it's here!!!#MTLed
+And......!!
+
+The "Demon Knowledge" to be introduced this
+time is...right here!!#StrateLocalization
 > END STRING
 
 > BEGIN STRING
@@ -57,13 +64,15 @@ introduced this time is...it's here!!!#MTLed
 
 連れてきてー！
 > CONTEXT: Map220/events/1/pages/0/35/Dialogue/enemy6
-Ebony Chan! Bring me!#MTLed
+Ebony-chan!
+
+Bring her in!#Strate
 > END STRING
 
 > BEGIN STRING
 ば………バーゲスト？
 > CONTEXT: Map220/events/1/pages/0/46/Dialogue/kazuya
-......barghest?#MTLed
+B......Barghest?#Strate
 > END STRING
 
 > BEGIN STRING
@@ -72,9 +81,10 @@ Ebony Chan! Bring me!#MTLed
 エボニーちゃんに抱えられて登場したのは
 『黒き猟犬』とも言われるバーゲストちゃん！
 > CONTEXT: Map220/events/1/pages/0/48/Dialogue/enemy6
-so!!What appeared to have been held by
-Ebony-chan. Barghest-chan, also known as the
-'black hound'!#MTLed
+That's right!!
+
+What Ebony-chan has brought here is the
+"Black Hound", Barghest-chan!#Strate
 > END STRING
 
 > BEGIN STRING
@@ -82,9 +92,9 @@ Ebony-chan. Barghest-chan, also known as the
 
 人間の皆様には、初めて見た方も多いと思います！
 > CONTEXT: Map220/events/1/pages/0/53/Dialogue/enemy6
-\\N[1]-kun, a familiar demon. 
-I think many human beings have seen it for the
-first time!#MTLed
+Although \\N[1]-kun is very well acquainted with
+this demon, I think it's the first time seeing
+her for many of the humans in the audience!#Strate
 > END STRING
 
 > BEGIN STRING
@@ -93,10 +103,10 @@ first time!#MTLed
 男女問わず、人間を見ると執拗に交尾を求めてきます！
 危険度的にも、なかなか油断のならない悪魔です。
 > CONTEXT: Map220/events/1/pages/0/57/Dialogue/enemy6
-Always in my head「?」I have a look that looks like
-Regardless of gender, when you look at human
-beings, you seek obsessive mating!
-It's a demon that is dangerous and dangerous.#MTLed
+She's always smiling as if she had a "?" floating
+around her head, but she will relentlessly try
+to mate with any human she sees, male or female!
+She's a demon that shouldn't be taken lightly.#StrateLocalization
 > END STRING
 
 > BEGIN STRING
@@ -104,8 +114,9 @@ It's a demon that is dangerous and dangerous.#MTLed
 
 このバーゲストと対面した際の注意点を聞いていきましょー！
 > CONTEXT: Map220/events/1/pages/0/62/Dialogue/enemy6
-This time, to \\N[1]. Let's listen to the notes
-when we met this barghest!#MTLed
+Now, let's ask \\N[1] what are the most
+important points to take note of when meeting
+face to face with this Barghest!#Strate
 > END STRING
 
 > BEGIN STRING
@@ -114,9 +125,9 @@ when we met this barghest!#MTLed
 視聴者の魔王ヘカーテちゃんよりのご提供です！
 ありがとうございます！
 > CONTEXT: Map220/events/1/pages/0/69/Dialogue/enemy6
-By the way! This Barghest-chan is
-It's provided by the audience of the Demon King
-Hecate-chan! Thank you!#MTLed
+By the way! This Barghest-chan was provided
+by a member of the audience, the Demon King
+Hecate-chan! Thank you!#Strate
 > END STRING
 
 > BEGIN STRING
@@ -124,7 +135,9 @@ Hecate-chan! Thank you!#MTLed
 
 　この番組………）
 > CONTEXT: Map220/events/1/pages/0/74/Dialogue/kazuya
-(Hecate, I'm looking...This program .........)#MTLed
+(Hecate is watching......
+
+This program.........)#Strate
 > END STRING
 
 > BEGIN STRING
@@ -133,14 +146,16 @@ Hecate-chan! Thank you!#MTLed
  視聴者のみんなに、彼女がどういう悪魔か
  どういう対処が必要か、教えてあげて！
 > CONTEXT: Map220/events/1/pages/0/78/Dialogue/enemy6
-Okay, \\N[1]-kun! To all the viewers, what a
-demon she is. Tell me what to do!#MTLed
+Okay, \\N[1]-kun!
+
+Tell everyone in the audience what kind of demon
+she is and how to deal with her!#Strate
 > END STRING
 
 > BEGIN STRING
 あ、はい……
 > CONTEXT: Map220/events/1/pages/0/83/Dialogue/kazuya
-Oh, yes……#MTLed
+Ah, yes......#Strate
 > END STRING
 
 > BEGIN STRING
@@ -149,9 +164,11 @@ Oh, yes……#MTLed
 まず、バーゲストは犬みたいな外見をしてるけど
 決して目線の高さを合わせるために屈まないこと…とか
 > CONTEXT: Map220/events/1/pages/0/85/Dialogue/kazuya
-Let me see……. First of all, the barghest looks
-like a dog. Never bow to match the height of your
-eyes ...#MTLed
+U-um...
+
+First of all, although Barghest has the outward
+appearance of a dog, never bend down to match the
+height of her eyes...and uh...#Strate
 > END STRING
 
 > BEGIN STRING
@@ -160,15 +177,15 @@ eyes ...#MTLed
 ジャンプ力は予想を遥かに越える距離だから
  そのまえに、話し掛け………
 > CONTEXT: Map220/events/1/pages/0/91/Dialogue/kazuya
-The physical size of the appearance is quite
-large, Because the jumping ability is far beyond
-expectations. Before that, talk......#MTLed
+Even though she looks pretty big, her jumping
+ability is far beyond what you would expect,
+so talk to her before she.........#Strate
 > END STRING
 
 > BEGIN STRING
 ワウッ！！♡♡
 > CONTEXT: Map220/events/1/pages/0/96/Dialogue/バーゲスト2
-Waoof!!Moth#MTLed
+Waoof!!♡♡#Strate
 > END STRING
 
 > BEGIN STRING
@@ -176,7 +193,9 @@ Waoof!!Moth#MTLed
 
 さっそくお決まりの『失敗例』だー！
 > CONTEXT: Map220/events/1/pages/0/104/Dialogue/enemy6
-Oh! \\N[1]-kun! It's a routine "Failure example"!#MTLed
+Ah! \\N[1]-kun!
+
+You went for the usual "failure example"!#StrateLocalization
 > END STRING
 
 > BEGIN STRING
@@ -185,9 +204,10 @@ Oh! \\N[1]-kun! It's a routine "Failure example"!#MTLed
 あんな距離から一瞬で届いちゃうんですね！
  確かにこれは、注意した方が良さそうです！
 > CONTEXT: Map220/events/1/pages/0/108/Dialogue/enemy6
-Have you seen it? everyone! It's delivered in an
-instant from such a distance! Certainly this is
-better to be careful!#MTLed
+Did you get a good look at that, everyone!?
+
+She closed that distance in the blink of an eye!
+That's definitely something to be wary of!#StrateLocalization
 > END STRING
 
 > BEGIN STRING
@@ -195,9 +215,10 @@ better to be careful!#MTLed
 
 『交尾する気はない』っていう、明確な意思表示で…
 > CONTEXT: Map220/events/1/pages/0/116/Dialogue/kazuya-0
-Or, the most important way to treat her is ...
-With a clear statement of intention that "I do
-not want to mate"#MTLed
+T-the most essential way of dealing with her...
+
+Is to display a clear intention of "I do not want
+to mate".#Strate
 > END STRING
 
 > BEGIN STRING
@@ -205,14 +226,16 @@ not want to mate"#MTLed
 
 舌が肌に付くのだけは……気を付けて……！
 > CONTEXT: Map220/events/1/pages/0/120/Dialogue/kazuya-0
-Shi, tongue...Only when the tongue gets on the
-skin...be careful ...!#MTLed
+T-tongue...
+
+Just watch out for her tongue......it sticks to
+your skin......!#Strate
 > END STRING
 
 > BEGIN STRING
 あああああっ！！♡♡
 > CONTEXT: Map220/events/1/pages/0/126/Dialogue/kazuya-0
-ahhhhh!!Moth#MTLed
+AAAAAH!!♡♡#Strate
 > END STRING
 
 > BEGIN STRING
@@ -220,8 +243,10 @@ ahhhhh!!Moth#MTLed
 
 さすが\\N[1]くん！期待を裏切らない！
 > CONTEXT: Map220/events/1/pages/0/131/Dialogue/enemy6
-Oops! I told you soba! As expected, \\N[1]-kun!
-Don't betray your expectations!#MTLed
+Whoops! Right after you said it!
+
+As expected of \\N[1]-kun!
+You don't disappoint!#Strate
 > END STRING
 
 > BEGIN STRING
@@ -230,9 +255,10 @@ Don't betray your expectations!#MTLed
 
  最初が肝心ってことですかね！
 > CONTEXT: Map220/events/1/pages/0/135/Dialogue/enemy6
-barghest is the size you see! Once pushed down,
-it seems difficult to push it out!
-The first thing is important!#MTLed
+Barghest is as big as you see here! Once she's
+pinned you down, she seems difficult to push off!
+
+I guess the first move is critical!#StrateLocalization
 > END STRING
 
 > BEGIN STRING
@@ -241,9 +267,10 @@ The first thing is important!#MTLed
 モザイク処理はいつも通りバッチリだよ！！
 このままヤられちゃう！？
 > CONTEXT: Map220/events/1/pages/0/141/Dialogue/enemy6
-Well, what do you do, \\N[1]-kun!
-Mosaicing is perfect as always! !
-It will be ya like this! ?#MTLed
+So, what will you do now, \\N[1]-kun!
+
+The mosaic censors are in position as always!!
+Will you end up defeated like this!?#StrateLocalization
 > END STRING
 
 > BEGIN STRING
@@ -251,8 +278,9 @@ It will be ya like this! ?#MTLed
 
 また『公開処刑』は………やだあ………！！♡♡
 > CONTEXT: Map220/events/1/pages/0/146/Dialogue/kazuya-0
-Yay.........!!In addition, "public execution"
-is ......... Hmm.........!!Moth#MTLed
+N-no way......!!
+
+I don't want...another "public execution"...!!♡♡#StrateUnsure
 > END STRING
 
 > BEGIN STRING
@@ -260,8 +288,9 @@ is ......... Hmm.........!!Moth#MTLed
 
  先週の『知っ得』、すごい再生数だよ！！
 > CONTEXT: Map220/events/1/pages/0/159/Dialogue/enemy19
-Look look! \\N[1]-kun! Last week's "Knowing" is a
-great number of plays! !#MTLed
+Look look! \\N[1]-kun!
+
+Last week's "Knowledge 101" had a ton of views!!#Strate
 > END STRING
 
 > BEGIN STRING
@@ -269,9 +298,8 @@ great number of plays! !#MTLed
 
 みんなすごく良かったってコメントで言ってるよ！
 > CONTEXT: Map220/events/1/pages/0/163/Dialogue/enemy19
-After all \\N[1]'s body stretched times
-Everyone says in the comments that it was so
-good!#MTLed
+Even though your body got stretched a lot,
+everyone in the comments says it was really good!#StrateUnsure
 > END STRING
 
 > BEGIN STRING
@@ -280,9 +308,10 @@ good!#MTLed
 
 あの時はステージ上もてんやわんやだったね……
 > CONTEXT: Map220/events/1/pages/0/168/Dialogue/kazuya
-Oh...... I said last week. This is the time
-when I drank Mother Rabbit's breast milk ...
-At that time, I was also on the stage.#MTLed
+Ah.......I'm sure last week was...that time I
+drank Mother Rabbit's breast milk, right......?
+It was really hectic on the stage that time too,
+wasn't it......?#StrateUnsure
 > END STRING
 
 > BEGIN STRING
@@ -290,8 +319,10 @@ At that time, I was also on the stage.#MTLed
 
 確かにあの時は、笑顔だったけど私も焦ったかも。
 > CONTEXT: Map220/events/1/pages/0/173/Dialogue/enemy19
-Oh ...... Certainly at that time, it was a smile
-but I was also upset.#MTLed
+Ahh......
+
+That's true, I was smiling but I might have been
+a little anxious that time.#StrateUnsure
 > END STRING
 
 > BEGIN STRING
@@ -300,9 +331,10 @@ but I was also upset.#MTLed
  ママ！ママ！連呼しながら
  マザーラビットから離れようとしないんだもん……
 > CONTEXT: Map220/events/1/pages/0/177/Dialogue/enemy19
-Because \\N[1]-kun. Mom! Mom! While calling
-continuously. I do not try to leave Mother Rabbit
-...#MTLed
+Because...
+
+You kept calling out "Mommy! Mommy!" without
+trying to get away from Mother Rabbit......#Strate
 > END STRING
 
 > BEGIN STRING
@@ -311,9 +343,10 @@ continuously. I do not try to leave Mother Rabbit
 
 一時はどうなることかと思ったよ……
 > CONTEXT: Map220/events/1/pages/0/182/Dialogue/enemy19
-Though Ebony and Lazy pulled it off
-On the way, Mother Rabbit starts to struggle ...
-I thought what would happen at one time ...#MTLed
+Ebony and Ivory pulled you off, but Mother Rabbit
+started to resist on the way...
+
+At one point I wasn't sure what would happen...#StrateLocalization
 > END STRING
 
 > BEGIN STRING
@@ -321,7 +354,9 @@ I thought what would happen at one time ...#MTLed
 
 ほんと、よく助かったな……僕……
 > CONTEXT: Map220/events/1/pages/0/188/Dialogue/kazuya
-................ I really helped a lot...I ...#MTLed
+.........
+
+You...really saved...me......#Strate
 > END STRING
 
 > BEGIN STRING
@@ -330,9 +365,10 @@ I thought what would happen at one time ...#MTLed
 ニーナは、人間界と魔界に対して
 定期的に二種類の番組を放送している。
 > CONTEXT: Map220/events/1/pages/0/196/Dialogue
-After that escape play ......... Nina is against the human
-realm and the Demon Realm. We broadcast two kinds of
-programs regularly.#MTLed
+After that escape drama.........
+
+Nina has been regularly broadcasting two programs
+for the Human World and the Demon World.#Strate
 > END STRING
 
 > BEGIN STRING
@@ -341,9 +377,10 @@ programs regularly.#MTLed
 前のような逆レイプの要素はない、本格ダンスを披露する
 放送時間も短い番組だ。
 > CONTEXT: Map220/events/1/pages/0/201/Dialogue
-One is a pure dance program...There is no element of
-reverse rape like before, show off the real dance
-The broadcast time is short.#MTLed
+One is a pure dance program......
+There is no element of reverse rape like before,
+it shows off a proper dance routine.
+The broadcast time is short.#Strate
 > END STRING
 
 > BEGIN STRING
@@ -352,9 +389,10 @@ The broadcast time is short.#MTLed
 
 かなりの人気を誇っているようだ。
 > CONTEXT: Map220/events/1/pages/0/206/Dialogue
-Here is the full-fledged specifications and
-Make the most of the dance skills and looks of idols,
-It seems to be quite popular.#MTLed
+Here, she takes advantage of the truly authentic
+method and inherent skills and looks of an idol.
+
+It seems to be quite popular.#StrateUnsure
 > END STRING
 
 > BEGIN STRING
@@ -362,8 +400,9 @@ It seems to be quite popular.#MTLed
 
 さっきやっていた、『知っ得！悪魔の常識！』だ。
 > CONTEXT: Map220/events/1/pages/0/211/Dialogue
-And one more thing ......... I was already doing, "Get
-know! Common sense of demon! It is.#MTLed
+And the other one.........
+
+What we were doing earlier, "Demon Knowledge 101!"#Strate
 > END STRING
 
 > BEGIN STRING
@@ -371,9 +410,9 @@ know! Common sense of demon! It is.#MTLed
 
 『一般人が遭遇し得る悪魔』の解説をやっている。
 > CONTEXT: Map220/events/1/pages/0/215/Dialogue
-It appeared as it appeared in the evacuation area of ​​that
-city every week. He is explaining "The demon that ordinary
-people can encounter".#MTLed
+Every week, I talk about "demons that the average
+person may encounter", like the ones that
+appeared near the shelter area in that city.#Strate
 > END STRING
 
 > BEGIN STRING
@@ -382,9 +421,10 @@ people can encounter".#MTLed
 大体は、本人から話を聞いたり
  ニーナや僕が会話して、彼女たちの『言い分』を聞く
 > CONTEXT: Map220/events/1/pages/0/219/Dialogue
-The demons I encountered are often in practice by me
-Most of the time, I hear from the person
-Nina and I have a conversation and listen to them#MTLed
+When it's a demon I've encountered before, I
+often put my advice into practice. But generally,
+I listen to their story. Nina and I converse with
+them, and we let them have their "say".#StrateLocalization
 > END STRING
 
 > BEGIN STRING
@@ -393,9 +433,10 @@ Nina and I have a conversation and listen to them#MTLed
 
  僕がそうだったように……
 > CONTEXT: Map220/events/1/pages/0/224/Dialogue
-If you know the reason why they attack. Even for ordinary
-people who struggle with struggles, various coping
-strategies are visible. As I was ...#MTLed
+If you know the reason why they attack, even an
+ordinary person who would have trouble resisting
+can find various ways of dealing with them.
+Like I did......#Strate
 > END STRING
 
 > BEGIN STRING
@@ -404,9 +445,9 @@ strategies are visible. As I was ...#MTLed
 
 動画投稿サイトを使って、編集動画を投稿している。
 > CONTEXT: Map220/events/1/pages/0/231/Dialogue
-The broadcast on the human realm is. As it is no good if
-you do the radio wave jack. You are posting an edited video
-using a video posting site.#MTLed
+For broadcasting in the Human World, radio jacks
+are of course not an option. So we use a video
+upload site to post the edited videos.#StrateUnsure
 > END STRING
 
 > BEGIN STRING
@@ -414,8 +455,10 @@ using a video posting site.#MTLed
 
  ニーナは、毎日とても楽しそうだ……
 > CONTEXT: Map220/events/1/pages/0/236/Dialogue
-Honestly, the scale is smaller than at the time of Reverse
-rape SHOW. Nina looks very fun every day ...#MTLed
+Honestly, the scale is much smaller than that of
+the Reverse Rape SHOW, but...
+
+Nina seems to be having fun every day......#Strate
 > END STRING
 
 > BEGIN STRING
@@ -423,7 +466,9 @@ rape SHOW. Nina looks very fun every day ...#MTLed
 
  今日の分のアップロード終わりっ♪
 > CONTEXT: Map220/events/1/pages/0/243/Dialogue/enemy19
-Good! Today's upload is over♪#MTLed
+Alright!
+
+Today's upload is done♪#Strate
 > END STRING
 
 > BEGIN STRING
@@ -431,9 +476,10 @@ Good! Today's upload is over♪#MTLed
 
  久々のバーゲストちゃんの相手、疲れたでしょ？
 > CONTEXT: Map220/events/1/pages/0/256/Dialogue/enemy19
-\\N[1], thank you very much today!
-Aren't you tired of the long-time Barghest-chan
-partner?#MTLed
+Good work today, \\N[1]!
+
+Are you tired after being Barghest-chan's partner
+for so long?#Strate
 > END STRING
 
 > BEGIN STRING
@@ -441,9 +487,10 @@ partner?#MTLed
 
 やっぱり魔力のない身体だと、あれが普通なんだね…
 > CONTEXT: Map220/events/1/pages/0/261/Dialogue/kazuya
-I was tired...I got upset ...
-After all if it is a body without magic, that is
-normal ...#MTLed
+A-am I tired......? I'm shaken......
+
+That's normal for a body without magic, after
+all...#Strate
 > END STRING
 
 > BEGIN STRING
@@ -451,9 +498,9 @@ normal ...#MTLed
 
 今度会った時は、真剣に飛び掛かり回避しないと……
 > CONTEXT: Map220/events/1/pages/0/265/Dialogue/kazuya
-Fortunately, I have never encountered barghest
-since that city. The next time I meet, I have to
-get serious and avoid ......#MTLed
+Fortunately, I haven't encountered a Barghest
+since that city, but next time I meet one, I have
+to take it seriously and avoid it......#Strate
 > END STRING
 
 > BEGIN STRING
@@ -461,8 +508,10 @@ get serious and avoid ......#MTLed
 
 あの状況で、よく挿入を我慢したと思うよ？
 > CONTEXT: Map220/events/1/pages/0/270/Dialogue/enemy19
-... but also \\N[1], In that situation, do you
-think you often put up with Insertion?#MTLed
+...But \\N[1],
+
+In that situation, do you think you can endure
+the insertion?#Strate
 > END STRING
 
 > BEGIN STRING
@@ -470,8 +519,9 @@ think you often put up with Insertion?#MTLed
 
 ふふふ……
 > CONTEXT: Map220/events/1/pages/0/274/Dialogue/enemy19
-Surely, it will be a strange "puddle" ...
-Fufufu ...#MTLed
+I'm sure you've been "saving up"......
+
+Fufufu......#Strate
 > END STRING
 
 > BEGIN STRING
@@ -479,7 +529,9 @@ Fufufu ...#MTLed
 
 エボニー！レイジー！？
 > CONTEXT: Map220/events/1/pages/0/297/Dialogue/kazuya
-!!! ? ? Ebony! Lazy! ?#MTLed
+!!!??
+
+Ebony! Ivory!?#Strate
 > END STRING
 
 > BEGIN STRING
@@ -487,8 +539,9 @@ Fufufu ...#MTLed
 
 君と私だけの「夜番組」を始めるよ！！
 > CONTEXT: Map220/events/1/pages/0/301/Dialogue/enemy6
-Well!!\\N[1]! Only you and me「Night program」I
-will start! !#MTLed
+Now then!! \\N[1]!
+
+I'll start a "night show" just for you and me!!#Strate
 > END STRING
 
 > BEGIN STRING
@@ -496,8 +549,10 @@ will start! !#MTLed
 
 しっかりとその眼に焼き付けてね！
 > CONTEXT: Map220/events/1/pages/0/305/Dialogue/enemy6
-First of all, the fascinating dance since my
-Reverse rape SHOW! Burn it firmly to your eyes!#MTLed
+My first enchanted dance since the Reverse Rape
+SHOW!
+
+Burn it firmly into your eyes!#Strate
 > END STRING
 
 > BEGIN STRING
@@ -505,8 +560,8 @@ Reverse rape SHOW! Burn it firmly to your eyes!#MTLed
 
 \\N[1]の身体にがんじがらめに組み付いている…
 > CONTEXT: Map220/events/1/pages/0/315/Dialogue
-Ebony and Lazy are. It has been incorporated into the body
-of \\N[1] ...#MTLed
+Ebony and Ivory are clinging tightly to \\N[1]'s
+body...#Strate
 > END STRING
 
 > BEGIN STRING
@@ -515,9 +570,10 @@ of \\N[1] ...#MTLed
 今回この２人を呼んだのは
 僕に魅了対策に目を逸らさせないためか……！
 > CONTEXT: Map220/events/1/pages/0/319/Dialogue/kazuya
-Gigigigigi ...!!This time I called these two
-people. Is it because I do not let me turn my
-eyes on Charmed measures ......!#MTLed
+Gugigigigigi...!!
+
+She called both of them this time...!
+Is it so I can't look away from her charm......!?#StrateUnsure
 > END STRING
 
 > BEGIN STRING
@@ -525,7 +581,9 @@ eyes on Charmed measures ......!#MTLed
 
 これ放送したりとかしてないよね………！？
 > CONTEXT: Map220/events/1/pages/0/324/Dialogue/kazuya-a
-No way...I have not broadcasted this......!?#MTLed
+N-No way...
+
+You're not broadcasting this......!?#Strate
 > END STRING
 
 > BEGIN STRING
@@ -533,8 +591,10 @@ No way...I have not broadcasted this......!?#MTLed
 
  私の夜のショーの観客は、いつだって君だけだよ♡
 > CONTEXT: Map220/events/1/pages/0/337/Dialogue/enemy8
-All right ......... \\N[1]. The audience for my
-night show is always you alone#MTLed
+It's okay.........\\N[1].
+
+The audience for my night show is always you
+alone♡#Strate
 > END STRING
 
 > BEGIN STRING
@@ -542,6 +602,7 @@ night show is always you alone#MTLed
 
 特別な『ファン』なんだから……♡
 > CONTEXT: Map220/events/1/pages/0/341/Dialogue/enemy8
-My, my only ...... Because it is a special "fan"
-... ♡#MTLed
+Because you're my......
+
+Because you're my special "fan"...♡#Strate
 > END STRING
