@@ -296,12 +296,6 @@ Enslaved#Dargoth
 > END STRING
 
 > BEGIN STRING
-エサ
-> CONTEXT: States/15/name
-Food#Dargoth
-> END STRING
-
-> BEGIN STRING
 はもう抵抗の意志を失っている・・・
 > CONTEXT: States/15/message3
  loses all will to resist...#Dargoth
@@ -1787,5 +1781,47 @@ Lower Body Swarm#Triketos
 > BEGIN STRING
 マイちゃん専用（解除用）
 > CONTEXT: States/218/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+妲己手加減
+> CONTEXT: States/219/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+拘束無効
+> CONTEXT: States/220/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+への拘束に対してのカウンターの準備が完了した！
+> CONTEXT: States/220/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+チャレンジ
+> CONTEXT: States/221/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+挑戦ボス
+> CONTEXT: States/222/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+御守り済
+> CONTEXT: States/223/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+挑戦サマエル
+> CONTEXT: States/224/name < UNTRANSLATED
 
 > END STRING

@@ -53,7 +53,7 @@ Current Friendship: \\C[2]\\V[44]\\C[0]#Triketos
 ご、ごめん　\\N[1]
 
 それ　もらっても　わたし　使う　できない…
-> CONTEXT: Map042/events/5/pages/0/240/Dialogue/enemy3
+> CONTEXT: Map042/events/5/pages/0/246/Dialogue/enemy3
 S-Sorry... \\N[1]...
 
 I can't... use something... like that...#Ron
@@ -61,21 +61,21 @@ I can't... use something... like that...#Ron
 
 > BEGIN STRING
 エンプーサは\\C[2]プレゼントを受け取らなかった…
-> CONTEXT: Map042/events/5/pages/0/244/Dialogue
+> CONTEXT: Map042/events/5/pages/0/250/Dialogue
 Empuse \\C[2]did not accept the gift...#Ron
 > END STRING
 
 > BEGIN STRING
 心蝕を消すif(v[44] \>= 100) 
-> CONTEXT: Map042/events/5/pages/0/252/Choice/0
-Remove mind corruption if(v[44] \>= 100) #Dargoth
+> CONTEXT: Map042/events/5/pages/0/258/Choice/0
+Clear corruption if(v[44] \>= 100) #Dargoth
 > END STRING
 
 > BEGIN STRING
 どうした？\\N[1]。
 
 また　狩りごっこ　するか？
-> CONTEXT: Map042/events/5/pages/0/263/Dialogue/enemy2
+> CONTEXT: Map042/events/5/pages/0/269/Dialogue/enemy2
 What's wrong... \\N[1]...?
 
 Do you... want to... play again...?#Ron
@@ -83,8 +83,8 @@ Do you... want to... play again...?#Ron
 
 > BEGIN STRING
 "エンプーサの心蝕が治った！！"
-> CONTEXT: Map042/events/5/pages/0/274/InlineScript/1:12
-"エンプーサ's mind corruption cured!!"#MTLed
+> CONTEXT: Map042/events/5/pages/0/280/InlineScript/1:12
+"Empuse's corruption cured!!"#Ron
 > END STRING
 
 > BEGIN STRING
@@ -821,8 +821,8 @@ You don't seem too happy...#Ron
 
 こういう関係になるのって……
 > CONTEXT: Map042/events/5/pages/2/8/Dialogue/kazuya
-Did you dislike it ...? What a relationship like
-this ...#MTLed
+Do you maybe not want us to have that kind of
+relationship...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -830,7 +830,9 @@ this ...#MTLed
 
 \\N[1]　告白する　とっても　うれしい……
 > CONTEXT: Map042/events/5/pages/2/13/Dialogue/enemy3
-Wrong………. \\N[1] I am very happy to confess ...#MTLed
+That's... not it...
+
+Your confession... makes me... happy...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -839,9 +841,10 @@ Wrong………. \\N[1] I am very happy to confess ...#MTLed
 
 人間　に　近い姿……
 > CONTEXT: Map042/events/5/pages/2/17/Dialogue/enemy3
-But after all...I wanted to receive it in the
-original message ...... Closer to human beings
-...#MTLed
+But I wanted... to get this... in my...
+original form...
+
+A form... closer to... human...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -849,9 +852,9 @@ original message ...... Closer to human beings
 
 今の君の姿が、僕の好きな『エンプーサ』だよ。
 > CONTEXT: Map042/events/5/pages/2/24/Dialogue/kazuya
-......because I do not know the original
-"Empuse". Your present appearance is my favorite
-"Empuse".#MTLed
+...I never knew the "original" Empuse, so this
+"current" Empuse is actually the one I fell in
+love with.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -860,9 +863,9 @@ original message ...... Closer to human beings
 
 ここで色々話すうちに、分かってきたんだ。
 > CONTEXT: Map042/events/5/pages/2/28/Dialogue/kazuya
-Well, when I first saw her. It was big and it
-looked a bit scary though. As I talked a lot
-here, I understood.#MTLed
+I mean, it's true I thought you were big and
+scary when I first saw you, but as we spent time
+talking here, I came to understand.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -870,8 +873,9 @@ here, I understood.#MTLed
 
 僕の事だって、本気で心配してくれている。
 > CONTEXT: Map042/events/5/pages/2/33/Dialogue/kazuya
-You are in fact a kind character
-I'm really worried about me.#MTLed
+You're actually a really nice person...
+
+You're always worrying about me.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -879,8 +883,8 @@ I'm really worried about me.#MTLed
 
 人を傷付けたりするのは大嫌いなんだって事も…
 > CONTEXT: Map042/events/5/pages/2/37/Dialogue/kazuya
-Just ordered by Hecate. I also hate to hurt
-people ...#MTLed
+And I know that you hate hurting people, and
+only did it because Hecate ordered you to.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -888,8 +892,9 @@ people ...#MTLed
 
  今までのように、そして、それ以上に……
 > CONTEXT: Map042/events/5/pages/2/43/Dialogue/kazuya
-I want to be with you from now on.
-As ever, and more than that ...#MTLed
+I want to be together with you from now on.
+
+Just like we have been, and forever more...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -897,7 +902,9 @@ As ever, and more than that ...#MTLed
 
 後悔　ないか？　\\N[1]。
 > CONTEXT: Map042/events/5/pages/2/48/Dialogue/enemy3
-............ Don't regret it? \\N[1].#MTLed
+...
+
+Won't you... regret it... \\N[1]?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -905,8 +912,10 @@ As ever, and more than that ...#MTLed
 
  人間界　そと　歩く　むずかしい。
 > CONTEXT: Map042/events/5/pages/2/52/Dialogue/enemy3
-I can not do it. The human realm It is difficult
-to walk.#MTLed
+I can't... shapeshift...
+
+We won't... be able to... walk outside...
+in the human realm...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -914,7 +923,9 @@ to walk.#MTLed
 
  本気で、私で　いいか？
 > CONTEXT: Map042/events/5/pages/2/56/Dialogue/enemy3
-............ still? Are you serious with me?#MTLed
+Even so...
+
+Are you really... okay with me...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -922,7 +933,7 @@ to walk.#MTLed
 
 エンプーサ。
 > CONTEXT: Map042/events/5/pages/2/61/Dialogue/kazuya
-sure…. Empuse.#MTLed
+Of course I am, Empuse.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -930,7 +941,9 @@ sure…. Empuse.#MTLed
 
  私も　ずっと　\\N[1]　つがい　なる。
 > CONTEXT: Map042/events/5/pages/2/66/Dialogue/enemy2
-……………all right. I will always be with \\N[1].#MTLed
+...Okay.
+
+I will be... your mate forever... \\N[1].#Ron
 > END STRING
 
 > BEGIN STRING
@@ -938,8 +951,9 @@ sure…. Empuse.#MTLed
 
 \\N[1]　さっき　少し　間違えた。
 > CONTEXT: Map042/events/5/pages/2/70/Dialogue/enemy2
-But...\\N[1] I made a mistake a little while
-ago.#MTLed
+But \\N[1]...
+
+There's something... you misunderstood...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -947,8 +961,9 @@ ago.#MTLed
 
 \\N[1]　へ　搾精　容赦する　ない♡
 > CONTEXT: Map042/events/5/pages/2/76/Dialogue/enemy2
-I'm kind of different. \\N[1] to milking excuse
-me#MTLed
+I'm not... a nice person...
+
+I won't... go easy... on milking you...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -956,8 +971,9 @@ me#MTLed
 
 いっぱい　搾る　毎日…♡♡♡
 > CONTEXT: Map042/events/5/pages/2/80/Dialogue/enemy2
-Be prepared if you are a "match"?
-I squeeze every day...♡♡♡#MTLed
+Prepare yourself... to be... my mate...
+
+I'll squeeze you... lots every day... ♡♡♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -965,8 +981,9 @@ I squeeze every day...♡♡♡#MTLed
 
 出来る限りがんばるよ……
 > CONTEXT: Map042/events/5/pages/2/84/Dialogue/kazuya
-Hahaha......... I will do my best as much as
-possible ......#MTLed
+H-Hahaha...
+
+I'll do the best I can...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -974,28 +991,29 @@ possible ......#MTLed
 
 \\C[2]エンプーサと婚約した！
 > CONTEXT: Map042/events/5/pages/2/94/Dialogue
-By receiving the engagement ring. \\C[2]Engaged with Empuse!#MTLed
+By giving her the engagement ring, \\C[2]you're now engaged to
+Empuse!#Ron
 > END STRING
 
 > BEGIN STRING
 親密度が２５以上必要。
 （現在の値：\\V[44]）
 > CONTEXT: Map042/events/4/pages/0/0/Dialogue
-25 or more intimacy is required. (Current value: \\V[44] )#MTLed
+25 or more intimacy is required. (Current value: \\V[44] )#Ron
 > END STRING
 
 > BEGIN STRING
 親密度が５０以上必要。
 （現在の値：\\V[44]）
 > CONTEXT: Map042/events/6/pages/0/0/Dialogue
-50 or more intimacy is required. (Current value: \\V[44] )#MTLed
+50 or more intimacy is required. (Current value: \\V[44] )#Ron
 > END STRING
 
 > BEGIN STRING
 親密度が１００必要。
 （現在の値：\\V[44]）
 > CONTEXT: Map042/events/3/pages/0/18/Dialogue
-100 intimacy required. (Current value: \\V[44] )#MTLed
+100 intimacy required. (Current value: \\V[44] )#Ron
 > END STRING
 
 > BEGIN STRING

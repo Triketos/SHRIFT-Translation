@@ -39,7 +39,7 @@ Current Friendship: \\C[2]\\v[42]\\C[0] #Ron/Triketos
 
 そのようなものを渡されても、私には
 何の役にも立ちませんので…
-> CONTEXT: Map041/events/5/pages/0/199/Dialogue/yuuma
+> CONTEXT: Map041/events/5/pages/0/212/Dialogue/yuuma
 I'm sorry... I'm afraid I have no use for
 something like that...#Ron
 > END STRING
@@ -48,39 +48,39 @@ something like that...#Ron
 女性へのプレゼントは、もう少し考えてからのほうが
 
 よろしいかと……フフフ。
-> CONTEXT: Map041/events/5/pages/0/204/Dialogue/yuuma
+> CONTEXT: Map041/events/5/pages/0/217/Dialogue/yuuma
 You should spend a little more time putting
 thought into the gifts you give women... Fufufu.#Ron
 > END STRING
 
 > BEGIN STRING
 \\C[2]プレゼントは受け取ってもらえなかった…
-> CONTEXT: Map041/events/5/pages/0/208/Dialogue
-> CONTEXT: Map062/events/5/pages/0/193/Dialogue
-> CONTEXT: Map070/events/5/pages/0/233/Dialogue
-> CONTEXT: Map080/events/5/pages/0/244/Dialogue
-> CONTEXT: Map085/events/5/pages/0/207/Dialogue
-> CONTEXT: Map119/events/5/pages/0/200/Dialogue
-> CONTEXT: Map120/events/5/pages/0/271/Dialogue
-> CONTEXT: Map121/events/5/pages/0/215/Dialogue
-> CONTEXT: Map122/events/5/pages/0/192/Dialogue
-> CONTEXT: Map215/events/5/pages/0/200/Dialogue
-> CONTEXT: Map216/events/5/pages/0/345/Dialogue
-> CONTEXT: Map217/events/5/pages/0/163/Dialogue
+> CONTEXT: Map041/events/5/pages/0/221/Dialogue 
+> CONTEXT: Map062/events/5/pages/0/206/Dialogue 
+> CONTEXT: Map070/events/5/pages/0/239/Dialogue 
+> CONTEXT: Map080/events/5/pages/0/257/Dialogue 
+> CONTEXT: Map085/events/5/pages/0/220/Dialogue 
+> CONTEXT: Map119/events/5/pages/0/213/Dialogue 
+> CONTEXT: Map120/events/5/pages/0/277/Dialogue 
+> CONTEXT: Map121/events/5/pages/0/235/Dialogue 
+> CONTEXT: Map122/events/5/pages/0/198/Dialogue 
+> CONTEXT: Map215/events/5/pages/0/206/Dialogue 
+> CONTEXT: Map216/events/5/pages/0/358/Dialogue 
+> CONTEXT: Map217/events/5/pages/0/169/Dialogue 
 \\C[2]The gift was rejected.#Ron
 > END STRING
 
 > BEGIN STRING
 心蝕を消すif(v[42] \>= 100) 
-> CONTEXT: Map041/events/5/pages/0/216/Choice/0
-Remove mind corruption if(v[42] \>= 100) #Dargoth
+> CONTEXT: Map041/events/5/pages/0/229/Choice/0
+Clear corruption if(v[42] \>= 100) #Dargoth
 > END STRING
 
 > BEGIN STRING
 あらあら…
 
 今日はいやに甘えてきますね…？♡
-> CONTEXT: Map041/events/5/pages/0/227/Dialogue/yuuma
+> CONTEXT: Map041/events/5/pages/0/240/Dialogue/yuuma
 Oh dear...
 
 Have you been spoiled too much today...? ♡#Ron
@@ -88,8 +88,8 @@ Have you been spoiled too much today...? ♡#Ron
 
 > BEGIN STRING
 "アイアンメイデンの心蝕が治った！！"
-> CONTEXT: Map041/events/5/pages/0/238/InlineScript/1:12
-"Iron Maiden's mind corruption has been cured!!"#Ron
+> CONTEXT: Map041/events/5/pages/0/251/InlineScript/1:12
+"Iron Maiden's corruption has been cured!!"#Ron
 > END STRING
 
 > BEGIN STRING
@@ -105,7 +105,7 @@ What would you like to talk about?#Ron
 > BEGIN STRING
 真意en(v[42] \>= 30) 
 > CONTEXT: Map041/events/5/pages/1/7/Choice/0
-Her Reasonsen(v[42] \>= 30)#MTLed
+Her Reasonsen(v[42] \>= 30)#Ron
 > END STRING
 
 > BEGIN STRING
@@ -336,7 +336,7 @@ asking about that.#Ron
 プライベートなことだし……！
 > CONTEXT: Map041/events/5/pages/1/106/Dialogue/kazuya
 No, I mean...!! You don't have to talk about it if
-you don't want to! It's private info and all that.#MTLed
+you don't want to! It's private info and all that.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1495,7 +1495,9 @@ has reached 100!#Triketos
 
  意外に無反応…
 > CONTEXT: Map041/events/5/pages/2/6/Dialogue/kazuya
-………that……? Unexpectedly no reaction ...#MTLed
+Huh...?
+
+You're being unexpectedly quiet...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1503,8 +1505,8 @@ has reached 100!#Triketos
 
  私に『この指輪』を渡すことが、どういう意味か……
 > CONTEXT: Map041/events/5/pages/2/11/Dialogue/yuuma
-...... Do you know? What does it mean to give me
-this ring?#MTLed
+Do you realize what it means to give me this 
+ring?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1512,8 +1514,8 @@ this ring?#MTLed
 
 生い立ち上、他の者のように『遊びの愛』を知りません。
 > CONTEXT: Map041/events/5/pages/2/15/Dialogue/yuuma
-I am a former succubus. In the beginning, I do
-not know "love of play" like other people.#MTLed
+I am a former succubus, but since my early days,
+I have had no concept of "frivolous love".#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -1521,8 +1523,9 @@ not know "love of play" like other people.#MTLed
 
 束縛愛という『檻』で、あなたを閉じ込めるかもしれません
 > CONTEXT: Map041/events/5/pages/2/19/Dialogue/yuuma
-If you do poorly, as the name ......
-You may be locked in "coffin" of bondage love#MTLed
+If you don't play your cards right, as my name
+suggests I may end up shutting you away in a
+so-called cage of love...#RonSuperIffy
 > END STRING
 
 > BEGIN STRING
@@ -1531,9 +1534,9 @@ You may be locked in "coffin" of bondage love#MTLed
 
 私は自分を抑えられる自信がありません。
 > CONTEXT: Map041/events/5/pages/2/23/Dialogue/yuuma
-Besides, if by any chance...you are another
-woman. If my body and mind cheat ...
-I am not confident I can control myself.#MTLed
+In addition, should you ever cheat on me with
+another woman either in mind or body, I'm not
+confident I will be able to restrain myself.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1541,9 +1544,9 @@ I am not confident I can control myself.#MTLed
 
 想像以上に厄介かもしれませんよ？\\N[1]…
 > CONTEXT: Map041/events/5/pages/2/28/Dialogue/yuuma
-If you do not know "love of play" ...
-It may be more annoying than you think? \\N[1]
-...#MTLed
+\\N[1]... being engaged to someone who doesn't
+understand "frivolous love" may be more of a
+nuisance than you imagine...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1551,8 +1554,9 @@ It may be more annoying than you think? \\N[1]
 
  私と誓いをたてようというのですか？
 > CONTEXT: Map041/events/5/pages/2/32/Dialogue/yuuma
-Still...know it, Are you going to make an oath
-with me?#MTLed
+Even so, knowing that...
+
+Will you still swear vows with me?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1560,8 +1564,10 @@ with me?#MTLed
 
 この指輪を差し出した時点で、心は決まってる。
 > CONTEXT: Map041/events/5/pages/2/37/Dialogue/kazuya
-..... My feelings don't shake so easily.
-The heart is fixed when this ring is presented.#MTLed
+...My feelings for you won't waver that easily.
+
+My heart was set on you the moment I presented
+this ring.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1570,10 +1576,10 @@ The heart is fixed when this ring is presented.#MTLed
 
 最終的に思い浮かべるのは、君の姿だった。
 > CONTEXT: Map041/events/5/pages/2/41/Dialogue/kazuya
-Certainly until now, various girls demon have
-been attacked pleasure. Sometimes I was about to
-give in but...What I finally think of was your
-figure.#MTLed
+It's true that I've been subject to all sorts of
+pleasure attacks from female demons, and there
+were times I was about to give in. But I always
+thought of you in the end.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1581,8 +1587,8 @@ figure.#MTLed
 
 『正式な』僕のパートナーになってほしい。
 > CONTEXT: Map041/events/5/pages/2/46/Dialogue/kazuya
-So, have you received this ring
-I want you to be my "official" partner.#MTLed
+That's why, I want you to accept this ring and
+"officially" become my partner.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1591,10 +1597,10 @@ I want you to be my "official" partner.#MTLed
  変わらずそんな真っ直ぐな目で告白されては
 警告した私が馬鹿のようではないですか…
 > CONTEXT: Map041/events/5/pages/2/54/Dialogue/yuuma
-............ You're not good, \\N[1].
-If it is confessed with such a straight eye
-without change. I warned I was not like an idiot
-...#MTLed
+...I suppose I can't refuse you, \\N[1].
+I feel like a fool for trying to warn you when
+you've made such an unwavering, straightforward
+confession...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1602,9 +1608,9 @@ without change. I warned I was not like an idiot
 
  私も、伴侶として貴方の傍にいることを誓います。
 > CONTEXT: Map041/events/5/pages/2/59/Dialogue/yuuma
-Okay...let's take your oath.
-I swear that I will be by your side as a
-companion.#MTLed
+Okay, I'll accept your vow.
+
+And I vow to be by your side as your companion.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1612,8 +1618,10 @@ companion.#MTLed
 
 卵以外の料理も勉強しないといけませんね…♡
 > CONTEXT: Map041/events/5/pages/2/63/Dialogue/yuuma
-Hihihi ...... I have to study dishes other than
-eggs ...#MTLed
+Fufufu...
+
+I'll have to learn some more dishes besides egg
+ones... ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1621,7 +1629,8 @@ eggs ...#MTLed
 
 \\C[2]アイアンメイデンと婚約した！
 > CONTEXT: Map041/events/5/pages/2/73/Dialogue
-By receiving the engagement ring. \\C[2]Engaged with Iron Maiden!#MTLed
+By giving her the engagement ring, \\C[2]you're now engaged to
+Iron Maiden!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1629,7 +1638,7 @@ By receiving the engagement ring. \\C[2]Engaged with Iron Maiden!#MTLed
 （現在の値：\\V[42]）
 > CONTEXT: Map041/events/4/pages/0/0/Dialogue
 > CONTEXT: Map089/events/4/pages/0/0/Dialogue
-25 or more intimacy is required. (Current value: \\V[42] )#MTLed
+25 or more intimacy is required. (Current value: \\V[42] )#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1637,7 +1646,7 @@ By receiving the engagement ring. \\C[2]Engaged with Iron Maiden!#MTLed
 （現在の値：\\V[42]）
 > CONTEXT: Map041/events/6/pages/0/0/Dialogue
 > CONTEXT: Map089/events/6/pages/0/0/Dialogue
-50 or more intimacy is required. (Current value: \\V[42] )#MTLed
+50 or more intimacy is required. (Current value: \\V[42] )#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1645,7 +1654,7 @@ By receiving the engagement ring. \\C[2]Engaged with Iron Maiden!#MTLed
 （現在の値：\\V[42]）
 > CONTEXT: Map041/events/3/pages/0/18/Dialogue
 > CONTEXT: Map089/events/3/pages/0/18/Dialogue
-100 intimacy required. (Current value: \\V[42] )#MTLed
+100 intimacy required. (Current value: \\V[42] )#Ron
 > END STRING
 
 > BEGIN STRING

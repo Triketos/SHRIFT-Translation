@@ -2,14 +2,14 @@
 Allows to use colors and stuff everywhere.
 =end
 
-MIRROR_SIZE = 1024
-
 class Window_Base < Window
   alias c_initialize initialize
   def initialize(x, y, width, height)
     c_initialize(x, y, width, height)
     @ex_p_color = [normal_color, true]
     @change_ex_p_color = true
+    @c_scale = 2
+    @c_offset_scale = 1
   end
   
   def text_size_ex(text)
@@ -35,26 +35,28 @@ class Window_Base < Window
       :height => calc_line_height(text)
     }
     size = text_size_ex(text)
+    if (size.width <= rect.width)
+      @c_scale = 2
+      @c_offset_scale = 1
+    else
+      @c_scale = 1
+      @c_offset_scale = 0.8
+    end
     if (alignment == 1)
       pos[:x] += (rect.width - size.width) / 2
       pos[:y] += (rect.height - size.height) / 2
-    end
-    if (size.width > rect.width)
-      mirror = Bitmap.new(MIRROR_SIZE, MIRROR_SIZE)
-      contents_original = contents
-      self.contents = mirror
     end
     @change_ex_p_color = false
     reset_font_settings
     @change_ex_p_color = true
     change_color(@ex_p_color[0], @ex_p_color[1])
     process_character(text.slice!(0, 1), text, pos) until text.empty?
-    if (size.width > rect.width)
-      self.contents = contents_original
-      source = Rect.new(rect.x, rect.y, size.width, size.height)
-      contents.stretch_blt(rect, mirror, source)
-      mirror.dispose
-    end
+  end
+  
+  def process_normal_character(c, pos)
+    text_width = text_size(c).width
+    draw_text(pos[:x], pos[:y], text_width * @c_scale, pos[:height], c)
+    pos[:x] += text_width * @c_offset_scale
   end
   
   def draw_item_name(item, x, y, enabled = true, width = 172)

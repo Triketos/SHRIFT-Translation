@@ -86,6 +86,7 @@ Will Up Lv10#Dargoth
 所持者の魔力を刃に変えて刀身を具現化する武器。
 物理属性。
 > CONTEXT: Weapons/30/description
+> CONTEXT: Weapons/110/description
 This sword manifests the wielder's own magical power
 into the blade. Does physical damage.#Dargoth
 > END STRING
@@ -344,14 +345,14 @@ Fool's Wand#afrg
 悪意の塊。
 この刃先は、誰かを傷付けるためだけに存在する。
 > CONTEXT: Weapons/71/description
-Mass of malice. This cutting edge exists only to injure
-someone.#MTLed
+The embodiment of malice.
+Its blade exists only to hurt others.#Ron
 > END STRING
 
 > BEGIN STRING
 エッジダガー
 > CONTEXT: Weapons/71/name
-Edge dagger#MTLed
+Edge Dagger#Ron
 > END STRING
 
 > BEGIN STRING
@@ -448,6 +449,19 @@ is also endless.#MTLed
 ∞アサルトライフル改
 > CONTEXT: Weapons/92/name
 ∞ modded assault rifle#MTLed
+> END STRING
+
+> BEGIN STRING
+無限に撃てるロケットランチャー
+必中武器で、能力値のマイナス補正もない。
+> CONTEXT: Weapons/93/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+∞ロケットランチャー
+> CONTEXT: Weapons/93/name < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -598,4 +612,10 @@ An axe that smashes those standing in your way.#Ron
 冥砕牙断
 > CONTEXT: Weapons/106/name
 Crushing Death Fang#Ron/Triketos
+> END STRING
+
+> BEGIN STRING
+練気の刀（小）
+> CONTEXT: Weapons/110/name < UNTRANSLATED
+
 > END STRING

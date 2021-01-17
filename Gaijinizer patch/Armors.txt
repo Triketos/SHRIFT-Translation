@@ -183,6 +183,20 @@ Dragon Fang#Lvl1
 > END STRING
 
 > BEGIN STRING
+身体のラインを強調した、露出の高いルシィの衣服
+だがその性的な外見が、誘惑に使われたことはない。
+> CONTEXT: Armors/19/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+失楽の黒衣
+> CONTEXT: Armors/19/name < UNTRANSLATED
+> CONTEXT: Armors/53/name < UNTRANSLATED
+Condemned Clothes#Dargoth
+> END STRING
+
+> BEGIN STRING
 儀礼用短剣。魔を退ける力がある。
 だがその効力は微少。
 > CONTEXT: Armors/20/description
@@ -273,6 +287,71 @@ Obedience bracelet#GT
 > END STRING
 
 > BEGIN STRING
+豪華に装飾された、至高のもっふもふローブ
+魔法に関しての属性への耐性と、魔法・敏捷上昇の効果がある
+> CONTEXT: Armors/35/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ケモナーローブ
+> CONTEXT: Armors/35/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もふもふな悪魔たちの魔力が集結したローブ
+魔法の属性攻撃と、性欲上昇量に対して大幅な耐性を得る
+> CONTEXT: Armors/36/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+モコモコローブ
+> CONTEXT: Armors/36/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+物理ダメージを90％軽減。
+混乱、出血、愛液まみれ無効。スタン、脱力確率を半減する。
+> CONTEXT: Armors/37/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+リア・マーク・プロト
+> CONTEXT: Armors/37/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔法攻撃に少しだけ弱くなるが
+物理ダメージを80％軽減。混乱、出血、愛液まみれ無効。
+> CONTEXT: Armors/38/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フィジカルアーマー
+> CONTEXT: Armors/38/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+『恍惚』から『魅了』に重複するのを防いでくれて
+戦闘中に一回だけ、『朦朧』状態を解除してくれる御守り
+> CONTEXT: Armors/39/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+白魔女の御守り
+> CONTEXT: Armors/39/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
 純銀で出来た指輪。意志の強さを表す。
 抵抗力が毎ターン５％回復する。
 > CONTEXT: Armors/40/description
@@ -357,11 +436,11 @@ Barghest Collar#Dargoth
 > END STRING
 
 > BEGIN STRING
-ありがたいおまもり。
-外に射精時、３０％の確率で『朦朧』が解除される。
+ありがたいおまもり。\\C[2]１戦闘に１回のみ発動\\C[0]
+外に射精時、８０％の確率で『朦朧』が解除される。
 > CONTEXT: Armors/46/description
-A helpful good luck charm. It gives a 30% chance not to
-be "Dazed" when ejaculating outside a monster.#Ron
+A helpful good luck charm. It gives a 80% chance not to be 
+"Dazed" when ejaculating outside a monster, \\C[2]once per battle\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
@@ -372,7 +451,7 @@ Good Luck Charm#Dargoth
 
 > BEGIN STRING
 ありがたいおまもり。
-『虜』から『エサ』に重複するのを防いでくれる。
+『魅了』から『虜』に重複するのを防いでくれる。
 > CONTEXT: Armors/47/description
 A lucky charm.
 Protects from repetition of [Enslaved] to [Food].#DargothPR
@@ -458,12 +537,6 @@ Orange Scarf#Dargoth
 アイアンメイデンの一部で練成した黒ずくめの着衣。
 > CONTEXT: Armors/53/description
 Pitch black clothes made out of a part of Iron Maiden.#Dargoth/Ron
-> END STRING
-
-> BEGIN STRING
-失楽の黒衣
-> CONTEXT: Armors/53/name
-Condemned Clothes#Dargoth
 > END STRING
 
 > BEGIN STRING
@@ -756,7 +829,7 @@ Skull Coat#Ron
 全ての攻撃を半減する。
 > CONTEXT: Armors/74/description
 Shield made from Titanboa's body.
-Halves damages.#afrgPR
+Halves damage.#afrgPR
 > END STRING
 
 > BEGIN STRING
@@ -860,6 +933,7 @@ Worn-Out Collar#Ron
 > CONTEXT: Armors/211/description
 > CONTEXT: Armors/213/description
 > CONTEXT: Armors/214/description
+> CONTEXT: Armors/216/description
 Upon sleeping, the named monster will
 attack and devour you. \\C[2]There is no escape.#Dargoth
 > END STRING
