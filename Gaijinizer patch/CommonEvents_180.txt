@@ -33,16 +33,21 @@ Resist, resist♪#Strate
 
 こんな状況でも話しかけてくれるなんて、
 随分と余裕があるのですね。
-> CONTEXT: CommonEvents_180/62/Dialogue/yuuma < UNTRANSLATED
+> CONTEXT: CommonEvents_180/62/Dialogue/yuuma
+......Fufu.
 
+Even in such a state, you can still afford to
+talk to me.#Strate
 > END STRING
 
 > BEGIN STRING
 あなたが望んでいることはおおかた分かりますが……
 
 残念ながら、それは私が望むものとは違いますので…
-> CONTEXT: CommonEvents_180/67/Dialogue/yuuma < UNTRANSLATED
+> CONTEXT: CommonEvents_180/67/Dialogue/yuuma
+I know what you wish for the most......
 
+Unfortunately, I want something different...#Strate
 > END STRING
 
 > BEGIN STRING
@@ -1026,7 +1031,6 @@ No#Dargoth
 悪魔は満足して去って行った…………
 > CONTEXT: CommonEvents_180/197/Dialogue
 > CONTEXT: CommonEvents_180/238/Dialogue
-
 The demon leaves, satisfied...#Ron
 > END STRING
 
@@ -1050,7 +1054,6 @@ The demon seems offended...#Ron
 
 悪魔に精気を捧げますか？
 > CONTEXT: CommonEvents_180/230/Dialogue
-
 Will you give up vitality to the demon?#Ron
 > END STRING
 
@@ -1063,52 +1066,54 @@ The demon allowed \\N[1] to leave.#Strate
 
 > BEGIN STRING
 "魔界肉"
-> CONTEXT: CommonEvents_180/278/InlineScript/1:24 < UNTRANSLATED
-> CONTEXT: CommonEvents_180/283/InlineScript/1:24 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_180/278/InlineScript/1:24
+> CONTEXT: CommonEvents_180/283/InlineScript/1:24
+"Monster Meat"#Strate
 > END STRING
 
 > BEGIN STRING
 "ランパスドロップ"
-> CONTEXT: CommonEvents_180/288/InlineScript/1:24 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_180/288/InlineScript/1:24
+"Lampas Drop"#Strate
 > END STRING
 
 > BEGIN STRING
 "エメラルド"
-> CONTEXT: CommonEvents_180/293/InlineScript/1:24 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_180/293/InlineScript/1:24
+"Emerald"#Strate
 > END STRING
 
 > BEGIN STRING
 "アクアマリン"
-> CONTEXT: CommonEvents_180/298/InlineScript/1:24 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_180/298/InlineScript/1:24
+"Aquamarine"#Strate
 > END STRING
 
 > BEGIN STRING
 "ルビー"
-> CONTEXT: CommonEvents_180/303/InlineScript/1:24 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_180/303/InlineScript/1:24
+"Ruby"#Strate
 > END STRING
 
 > BEGIN STRING
 "ラピスラズリ"
-> CONTEXT: CommonEvents_180/308/InlineScript/1:24 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_180/308/InlineScript/1:24
+"Lapis Lazuli"#Strate
 > END STRING
 
 > BEGIN STRING
 
 悪魔は\\N[1]に、\\V[11]円を差し出して去って行った。
-> CONTEXT: CommonEvents_180/314/Dialogue < UNTRANSLATED
-The demon gave \\V[11] yen as a gift and left.#RonRevisedStrate
+> CONTEXT: CommonEvents_180/314/Dialogue
+The demon gave \\N[1] \\V[11] yen as a gift and
+went away.#RonRevisedStrate
 > END STRING
 
 > BEGIN STRING
 
 悪魔は\\N[1]に、『\\V[174]』と
 \\V[11]円を差し出して去って行った。
-> CONTEXT: CommonEvents_180/319/Dialogue < UNTRANSLATED
-
+> CONTEXT: CommonEvents_180/319/Dialogue
+The demon gave \\N[1] the item "\\V[174]" and
+\\V[11] yen as a gift and went away.#Strate
 > END STRING
