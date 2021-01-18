@@ -47,7 +47,7 @@ talk to me.#Strate
 > CONTEXT: CommonEvents_180/67/Dialogue/yuuma
 I know what you wish for the most......
 
-Unfortunately, I wish for something different...#StrateUnsure
+Unfortunately, I want something different...#Strate
 > END STRING
 
 > BEGIN STRING
@@ -1031,7 +1031,6 @@ No#Dargoth
 悪魔は満足して去って行った…………
 > CONTEXT: CommonEvents_180/197/Dialogue
 > CONTEXT: CommonEvents_180/238/Dialogue
-
 The demon leaves, satisfied...#Ron
 > END STRING
 
@@ -1055,7 +1054,6 @@ The demon seems offended...#Ron
 
 悪魔に精気を捧げますか？
 > CONTEXT: CommonEvents_180/230/Dialogue
-
 Will you give up vitality to the demon?#Ron
 > END STRING
 
@@ -1088,7 +1086,7 @@ The demon allowed \\N[1] to leave.#Strate
 > BEGIN STRING
 "アクアマリン"
 > CONTEXT: CommonEvents_180/298/InlineScript/1:24
-"Aquamarine"
+"Aquamarine"#Strate
 > END STRING
 
 > BEGIN STRING
