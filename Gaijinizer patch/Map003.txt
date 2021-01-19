@@ -1972,7 +1972,7 @@ Erase data#Dargoth
 
 \\C[2]ボス戦のあとにどこかしらでセーブすると
 リベンジデータは消えるから注意するんだな。
-> CONTEXT: Map003/events/1/pages/2/606/Dialogue/クッション君 < UNTRANSLATED
+> CONTEXT: Map003/events/1/pages/2/606/Dialogue/クッション君
 It doesn't look like there's any revenge data.
 \\C[2]Be careful, if you save somewhere after a
 boss battle their revenge data will disappear.#Ron
@@ -1980,8 +1980,8 @@ boss battle their revenge data will disappear.#Ron
 
 > BEGIN STRING
 この難易度では、難易度を変更することは出来ません。
-> CONTEXT: Map003/events/1/pages/2/616/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map003/events/1/pages/2/616/Dialogue
+You cannot change difficulty on hardcore.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1996,9 +1996,9 @@ fits my height.#MTLed
 
 > BEGIN STRING
 この難易度では、救済措置を受けることは出来ません。
-> CONTEXT: Map003/events/2/pages/2/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map003/events/2/pages/5/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map003/events/2/pages/2/1/Dialogue
+> CONTEXT: Map003/events/2/pages/5/1/Dialogue
+You cannot use Assists on hardcore difficulty.#Ron
 > END STRING
 
 > BEGIN STRING
