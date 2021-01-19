@@ -2,99 +2,99 @@
 > BEGIN STRING
 "[SYSTEM]\\n修復プログラム、起動。"
 > CONTEXT: Map254/events/1/pages/0/29/InlineScript/1:6
-"[SYSTEM] 修復 n repair program, start up."#MTLed
+"[SYSTEM]\\nStarting restoration program."#Ron
 > END STRING
 
 > BEGIN STRING
 "[SYSTEM]\\nウイルスをスキャンしています…"
 > CONTEXT: Map254/events/1/pages/0/31/InlineScript/1:6
-"[SYSTEM] nn woofing virus ..."#MTLed
+"[SYSTEM]\\nScanning for viruses..."#Ron
 > END STRING
 
 > BEGIN STRING
 "[SYSTEM]\\n修復を開始します。
 \\n修復が完了次第、再起動します。"
 > CONTEXT: Map254/events/1/pages/0/34/InlineScript/1:6
-"[SYSTEM] n n Start repair.
-\\nRestartassoonastherepairiscomplete."#MTLed
+"[SYSTEM]\\nInitiating restore.
+\\nWill reboot after restoration."#RonIffyWording
 > END STRING
 
 > BEGIN STRING
 "[SYSTEM]\\n修復完了"
 > CONTEXT: Map254/events/1/pages/0/69/InlineScript/1:6
-"[SYSTEM] 修復 n repair completed"#MTLed
+"[SYSTEM]\\nRestoration complete."#Ron
 > END STRING
 
 > BEGIN STRING
 "[SYSTEM]\\nおめでとうございます"
 > CONTEXT: Map254/events/1/pages/0/73/InlineScript/1:6
-"[SYSTEM] お め で と う n congratulations"#MTLed
+"[SYSTEM]\\nCongratulations."#Ron
 > END STRING
 
 > BEGIN STRING
 "[SYﾙTﾜM]\\nまた殺せますね"
 > CONTEXT: Map254/events/1/pages/0/75/InlineScript/1:6
-"[SY Le Twa M] n n can kill again"#MTLed
+"[SySt3m]\\nYou can now kill again."#Ron
 > END STRING
 
 > BEGIN STRING
 譛?蛻昴°繧牙ｧ九ａ繧
 > CONTEXT: Map254/events/1/pages/0/94/Choice/0
-Moth?Date and time#MTLed
+\\X[25]Start from the Beginning#Ron
 > END STRING
 
 > BEGIN STRING
 邯壹″縺九ｉ蟋九ａ繧en(s[999999999])
 > CONTEXT: Map254/events/1/pages/0/94/Choice/1
-邯 壹 ′ ′ 縺 ien(s[999999999])#MTLed
+\\X[25]Continueen(s[999999999])#Ron
 > END STRING
 
 > BEGIN STRING
 繝√Ε繝励ち繝ｼ驕ｸ謚en(s[999999999])
 > CONTEXT: Map254/events/1/pages/0/94/Choice/2
-Ε 驕 驕en(s[999999999])#MTLed
+\\X[25]Chapter Selecten(s[999999999])#Ron
 > END STRING
 
 > BEGIN STRING
 謨怜圏繧ｷ繝ｼ繝ｳen(s[999999999])
 > CONTEXT: Map254/events/1/pages/0/94/Choice/3
-Regionen(s[999999999])#MTLed
+\\X[25]Loss Scenesen(s[999999999])#Ron
 > END STRING
 
 > BEGIN STRING
 譛?蛻昴°繧画悽邱ｨ繧貞ｧ九ａ縺ｾ縺吶?
 > CONTEXT: Map254/events/1/pages/0/96/ChoiceHelp
-Moth?Save time?#MTLed
+\\X[25]Start the main story from the beginning.#Ron
 > END STRING
 
 > BEGIN STRING
 髮｣譏灘ｺｦ繧帝∈謚槭＠縺ｦ縺上□縺輔＞縲
 > CONTEXT: Map254/events/1/pages/0/98/Dialogue
-"髮" 譏 灘 @ ∈ 謚 槭 上 縺 輔 @ ∈ 謚 槭> 縲#MTLed
+\\X[25]Please select a difficulty.#Ron
 > END STRING
 
 > BEGIN STRING
 譏薙＠縺en(s[999999999])
 > CONTEXT: Map254/events/1/pages/0/100/Choice/0
-譏 薙 @ 縺en(s[999999999])#MTLed
+\\X[25]Regularen(s[999999999])#Ron
 > END STRING
 
 > BEGIN STRING
 譎ｮ騾
 > CONTEXT: Map254/events/1/pages/0/100/Choice/1
-譎#MTLed
+\\X[25]Masochistic#Ron
 > END STRING
 
 > BEGIN STRING
 髮｣縺励＞en(s[999999999])
 > CONTEXT: Map254/events/1/pages/0/100/Choice/2
-"髮"en(s[999999999])#MTLed
+\\X[25]Suicidalen(s[999999999])#Ron
 > END STRING
 
 > BEGIN STRING
 縲仙ｍ隕ｳ閠??en(s[999999999])
 > CONTEXT: Map254/events/1/pages/0/100/Choice/3
-縲 隕??en(s[999999999])#MTLed
+\\X[25]Spectatoren(s[999999999])#Ron
 > END STRING
 
 > BEGIN STRING
@@ -103,111 +103,112 @@ Moth?Save time?#MTLed
 繧ｨ繝ｭ縺?憾諷狗焚蟶ｸ縺ｧ霑ｽ縺?ｩｰ繧√ｉ繧後ｋ縺ｮ縺悟･ｽ縺阪□縺｣縺溘ｊ
 騾?｢?ｄ譬ｹ豌励?蠢?ｦ√↑蝣ｴ髱｢縺檎㏍縺医ｋ莠ｺ蜷代￠縺ｫ縺ｪ繧翫∪縺吶?
 > CONTEXT: Map254/events/1/pages/0/104/Dialogue
-""?Moth\\C[14] 譎. \\C[0]Add?Winning?Table of contents?縲 ∝ addressed??
-螳 夐 屮 譏 灘 螳 夐 屮 譏 灘 ヲ 縺? Group name?Question mark?繧 繧 i 後
-k 縺 縺 · 縺 縺 溘 縺 溘 j. Moth?"?豌?Moth?蝣 蝣 蝣 髱 "縺 檎 KK 縺 k
-​​莠 蜷 翫 ∪ 縺 吶 翫 ∪ 縺 吶?#MTLed
+\\X[25]Difficulty:\\C[14] Masochistic (Normal)
+\\C[0]Items and damage as intended by the developer.
+For people who want to feel as utterly fucked as the
+protagonist. You will need much determination.#CheckLater
 > END STRING
 
 > BEGIN STRING
 蟋九ａ繧
 > CONTEXT: Map254/events/1/pages/0/109/Choice/0
-Cost#MTLed
+Start Game#Ron
 > END STRING
 
 > BEGIN STRING
 繧?ａ繧
 > CONTEXT: Map254/events/1/pages/0/109/Choice/1
-Cope?a#MTLed
+Cancel#Ron
 > END STRING
 
 > BEGIN STRING
 繧ｲ繝ｼ繝?荳ｭ縺ｫ繧ｻ繝ｼ繝悶＠縺溷?ｴ謇?縺九ｉ蟋九ａ縺ｾ縺吶?
 > CONTEXT: Map254/events/1/pages/0/133/ChoiceHelp
-Port?Security service group @?Oh?縺 蟋 蟋 縺 縺 縺 吶?#MTLed
+\\X[25]Continue from the place you last saved.#Ron
 > END STRING
 
 > BEGIN STRING
 驕ｸ謚槭＠縺溘そ繝ｼ繝悶ョ繝ｼ繧ｿ縺ｮ迥ｶ諷九°繧
 > CONTEXT: Map254/events/1/pages/0/137/ChoiceHelp
-The number of items that can be sent to you#MTLed
+\\X[25]From the state of the selected save data#Ron
 > END STRING
 
 > BEGIN STRING
 荳?蠎ｦ隕九◆謳ｾ邊ｾ繧ｷ繝ｼ繝ｳ繧定ｦ九ｋ縺薙→縺悟?譚･縺ｾ縺
 > CONTEXT: Map254/events/1/pages/0/144/ChoiceHelp
-Moth?蠎 ヲ 隕 謳 謳 ヲ 縺 薙 縺 縺 縺?Acupuncture and moxibustion#MTLed
+\\X[25]You can see the loss scenes you have already
+seen before. (Hell's Indulgence is unavailable)#Ron
 > END STRING
 
 > BEGIN STRING
 髢｢騾｣繝弱?繝ｫ繝ｪ繝ｳ繧ｯ en(s[999999999])
 > CONTEXT: Map254/events/1/pages/0/150/Choice/0
-弱 "騾" 弱?Statusen(s[999999999])#MTLed
+\\X[25]YouTube Linksen(s[999999999])#Ron
 > END STRING
 
 > BEGIN STRING
 繧ｮ繝｣繝ｩ繝ｪ繝ｼ縲仙?蠑上? en(s[999999999])
 > CONTEXT: Map254/events/1/pages/0/150/Choice/1
-Add-on?Sagami?en(s[999999999])#MTLed
+\\X[25]Related Novel Linksen(s[999999999])#Ron
 > END STRING
 
 > BEGIN STRING
 繝励Ξ繧､繝､繝ｼ縺ｮ譁ｹ縺悟濤遲?＠縺溘?√?惨HRIFT縲城未騾｣縺ｮ蟆剰ｪｬ
 > CONTEXT: Map254/events/1/pages/0/152/ChoiceHelp
-縺 縺 縺?@ 縺 溘?√?Miserable Hrift 縲 縲 '騾 騾 ェ#MTLed
+\\X[25]Videos of the secondary creations and
+playthroughs that players have posted to YouTube.#Ron
 > END STRING
 
 > BEGIN STRING
 繧ｲ繝ｼ繝?縺ｧ逋ｻ蝣ｴ縺励◆莠ｺ迚ｩ縺ｮ遶九■
 > CONTEXT: Map254/events/1/pages/0/159/ChoiceHelp
-Port?Application ◆ ◆ 莠 ■ ■ ■#MTLed
+\\X[25]Introduces 'SHRIFT' related novels written by players.#Ron
 > END STRING
 
 > BEGIN STRING
 繧ｮ繝｣繝ｩ繝ｪ繝ｼ縲舌ご繧ｹ繝医? en(s[999999999])
 > CONTEXT: Map254/events/1/pages/0/164/Choice/0
-Agent name list?en(s[999999999])#MTLed
+\\X[25]Gallery [Fan Art]en(s[999999999])#Ron
 > END STRING
 
 > BEGIN STRING
 繧ｵ繧ｦ繝ｳ繝 en(s[999999999])
 > CONTEXT: Map254/events/1/pages/0/164/Choice/1
-Instanceen(s[999999999])#MTLed
+\\X[25]Musicen(s[999999999])#Ron
 > END STRING
 
 > BEGIN STRING
 縺翫∪縺en(s[999999999])
 > CONTEXT: Map254/events/1/pages/0/164/Choice/2
-Mothen(s[999999999])#MTLed
+\\X[25]Bonusen(s[999999999])#Ron
 > END STRING
 
 > BEGIN STRING
 繧ｿ繧､繝医Ν縺ｸ謌ｻ繧
 > CONTEXT: Map254/events/1/pages/0/164/Choice/3
-System name#MTLed
+\\X[25]Return to Title#Ron
 > END STRING
 
 > BEGIN STRING
 繝励Ξ繧､繝､繝ｼ縺ｮ譁ｹ縺ｫ繧医ｊ雍医ｉ繧後◆繧､繝ｩ繧ｹ繝医ｒ謗ｲ霈峨
 > CONTEXT: Map254/events/1/pages/0/166/ChoiceHelp
-Log in to your account list#MTLed
+\\X[25]Here are images and art given to me by players.#Ron
 > END STRING
 
 > BEGIN STRING
 繧ｲ繝ｼ繝?荳ｭ縺ｧ豬√ｌ繧矩浹讌ｽ縺碁荘雉槭〒縺阪∪縺吶?
 > CONTEXT: Map254/events/1/pages/0/172/ChoiceHelp
-Port?In the case of 雉 槭 〒 縺 繧 繧 雉 槭 〒 縺 雉 槭 〒 縺 ∪ 縺 吶 ∪ 縺 吶
-?#MTLed
+\\X[25]You can listen to the music played in the game.#Ron
 > END STRING
 
 > BEGIN STRING
 繧ｲ繝ｼ繝?繧呈･ｽ縺励ｓ縺ｧ縺上ｌ縺
 > CONTEXT: Map254/events/1/pages/0/176/ChoiceHelp
-Port?Application / sustainability#MTLed
+\\X[25]Special bonuses for those who enjoyed the game.#Ron
 > END STRING
 
 > BEGIN STRING
 繧ｿ繧､繝医Ν逕ｻ髱｢縺ｫ謌ｻ繧翫∪縺吶?
 > CONTEXT: Map254/events/1/pages/0/183/ChoiceHelp
-Support service?#MTLed
+\\X[25]Go back to the Title Screen.#Ron
 > END STRING
