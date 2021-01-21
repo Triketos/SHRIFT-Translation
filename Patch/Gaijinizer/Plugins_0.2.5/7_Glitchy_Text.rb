@@ -35,7 +35,7 @@ class Window_Base < Window
         c = CHARACTERS[rand(CHARACTERS.length)]
       end
       contents.clear_rect(entry[:x], entry[:y], cSize.width, cSize.height)
-      change_color(entry[:color])
+      contents.font.color(entry[:color])
       draw_text(entry[:x], entry[:y], cSize.width, cSize.height, c)
     end
   end
