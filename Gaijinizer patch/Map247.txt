@@ -4,7 +4,9 @@
  
 まだ起きてたんだね。
 > CONTEXT: Map247/events/5/pages/0/26/Dialogue/enemy19
-Oh, \\N[1]. You still got up.#MTLed
+Oh, \\N[1].
+
+You were still up.#Strate
 > END STRING
 
 > BEGIN STRING
@@ -12,14 +14,15 @@ Oh, \\N[1]. You still got up.#MTLed
 
 聞きたいことが……
 > CONTEXT: Map247/events/5/pages/0/30/Dialogue/enemy19
-Well then, it was just right. 
-I want to hear ...#MTLed
+Well, that's just perfect. 
+
+I wanted to ask you about...#StrateLocalization
 > END STRING
 
 > BEGIN STRING
 …………ニーナ。
 > CONTEXT: Map247/events/5/pages/0/37/Dialogue/kazuya-b
-............ Nina.#MTLed
+......Nina.#Strate
 > END STRING
 
 > BEGIN STRING
@@ -27,7 +30,9 @@ I want to hear ...#MTLed
  
 もしかして今、『カマソッソ』ちゃん……？
 > CONTEXT: Map247/events/5/pages/0/40/Dialogue/enemy19
-Oh, ......? Maybe now, "Camazotz" .........#MTLed
+O-oh......?
+
+Maybe, are you "Camazotz"-chan right now......?#Strate
 > END STRING
 
 > BEGIN STRING
@@ -35,7 +40,9 @@ Oh, ......? Maybe now, "Camazotz" .........#MTLed
  
 \\N[1]は、一足先に寝ちゃった。
 > CONTEXT: Map247/events/5/pages/0/44/Dialogue/kazuya-b
-Yup………. \\N[1] went to bed a step ahead.#MTLed
+Yeah......
+
+\\N[1] fell asleep a little while ago.#Strate
 > END STRING
 
 > BEGIN STRING
@@ -43,8 +50,9 @@ Yup………. \\N[1] went to bed a step ahead.#MTLed
  
 もう少ししたら、自分の部屋に入るよ。
 > CONTEXT: Map247/events/5/pages/0/48/Dialogue/kazuya-b
-I also do not want to put a burden on this body
-I will get into my room after a little more.#MTLed
+I don't want to strain this body either.
+
+So I will go to my room in a little bit.#StrateLocalization
 > END STRING
 
 > BEGIN STRING
@@ -53,9 +61,10 @@ I will get into my room after a little more.#MTLed
 今日の依頼、受けるのかどうか聞いとこうと思ったけど
 寝てるんなら、明日にしようかな……
 > CONTEXT: Map247/events/5/pages/0/53/Dialogue/enemy19
-Well, yeah ......... Today's request, I thought
-to ask if you would like to receive
-If I'm sleeping, I'm going to go tomorrow ...#MTLed
+I-I see......
+I thought I'd ask whether he would accept
+today's job, but if he's asleep, I guess I'll try
+tomorrow...#Strate
 > END STRING
 
 > BEGIN STRING
@@ -64,9 +73,10 @@ If I'm sleeping, I'm going to go tomorrow ...#MTLed
 明日はニーナにも来てもらいたいって
 \\N[1]は思ってるみたいだよ。
 > CONTEXT: Map247/events/5/pages/0/59/Dialogue/kazuya-b
-Oh, that's what it means to receive ...
-I want Nina to come tomorrow. It looks like
-\\N[1] is thinking.#MTLed
+Oh, in that case he "accepts"......
+
+It looks like \\N[1] is thinking that he wants
+you to come tomorrow, Nina.#StrateUnsure
 > END STRING
 
 > BEGIN STRING
@@ -74,8 +84,10 @@ I want Nina to come tomorrow. It looks like
  
 明日の朝は街に行く準備しとくよ……
 > CONTEXT: Map247/events/5/pages/0/64/Dialogue/enemy19
-That's right...I understand.
-I will prepare to go to town tomorrow morning ...#MTLed
+I-Is that so...... Got it.
+
+I will make preparations to head into town
+tomorrow morning......#Strate
 > END STRING
 
 > BEGIN STRING
@@ -83,7 +95,9 @@ I will prepare to go to town tomorrow morning ...#MTLed
  
 おやすみ、ニーナ。
 > CONTEXT: Map247/events/5/pages/0/70/Dialogue/kazuya-b
-………………Well then. Good night, Nina.#MTLed
+......Well then.
+
+Good night, Nina.#Strate
 > END STRING
 
 > BEGIN STRING
@@ -92,8 +106,9 @@ I will prepare to go to town tomorrow morning ...#MTLed
 おやすみ、\\N[1]……じゃなかった
 カマソッソ…
 > CONTEXT: Map247/events/5/pages/0/74/Dialogue/enemy19
-No. Good night, it was not \\N[1] ......
-Camazotz ...#MTLed
+Y-yeah.
+
+Good night, \\N[1]...... No, Camazotz...#StrateLocalization
 > END STRING
 
 > BEGIN STRING
@@ -102,9 +117,10 @@ Camazotz ...#MTLed
 身体だけでなく、意識も記憶も共有してるから
 すっごくややこしい……
 > CONTEXT: Map247/events/5/pages/0/89/Dialogue/enemy19
-Hm......... I am not used to ...
-Not only the body but also the mind and memory
-are shared. Very confusing ...#MTLed
+Hmm...... I'm not used to it......
+They share not just the body but their
+consciousness and memories too.
+It's very confusing......#Strate
 > END STRING
 
 > BEGIN STRING
@@ -113,9 +129,10 @@ are shared. Very confusing ...#MTLed
  
 区別ができるのは、目の色が変わった時のみ……
 > CONTEXT: Map247/events/5/pages/0/95/Dialogue/yuuma
-...... Well, tone and voice. Because it is \\N[1]
-itself...The distinction can be made only when
-the eye color changes ...#MTLed
+......Indeed, since the manner of speaking and the
+voice are also \\N[1]'s own...
+You can only tell them apart when the color of
+their eyes change......#Strate
 > END STRING
 
 > BEGIN STRING
@@ -124,10 +141,10 @@ the eye color changes ...#MTLed
 戦闘中などは、意識が\\N[1]様なのか
 カマソッソなのかは、私でも見当がつきません。
 > CONTEXT: Map247/events/5/pages/0/100/Dialogue/yuuma
-Moreover, the mind is usually limited only when
-the eye color changes...Is the consciousness
-like \\N[1] in battle etc? I have no idea if it
-is Camazotz.#MTLed
+What's more, their eye color only changes when
+their mind is in a normal state...
+During battle, is the consciousness \\N[1]?
+Or Camazotz? Even I cannot tell.#StrateLocalization
 > END STRING
 
 > BEGIN STRING
@@ -135,8 +152,10 @@ is Camazotz.#MTLed
  
 よく平気だよね……\\N[1]。
 > CONTEXT: Map247/events/5/pages/0/105/Dialogue/enemy19
-Hmmm, I feel like I always have one more person
-in my head, right? I'm fine, but...\\N[1].#MTLed
+Basically, it feels like you always have another
+person in your head, right?
+
+You accept that so easily...... \\N[1].#StrateLocalization
 > END STRING
 
 > BEGIN STRING
@@ -145,7 +164,7 @@ in my head, right? I'm fine, but...\\N[1].#MTLed
  
 彼が彼女といたいなら、その気持ちを尊重しましょう
 > CONTEXT: Map247/events/5/pages/0/110/Dialogue/yuuma
-......... just like before. There is no problem
-for us to hear something. If he wants to be with
-her, let's respect that feeling#MTLed
+......Just like before, nothing we ask will be
+of his concern. If he wants to be with her, we
+should respect those feelings.#StrateUnsure
 > END STRING

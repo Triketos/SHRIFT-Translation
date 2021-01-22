@@ -2,7 +2,7 @@
 > BEGIN STRING
 …………カマソッソ。
 > CONTEXT: Map248/events/1/pages/0/17/Dialogue/kazuya
-............ Camazotz.#MTLed
+......Camazotz.#Strate
 > END STRING
 
 > BEGIN STRING
@@ -10,7 +10,9 @@
  
 \\N[1]、オキテタカ？
 > CONTEXT: Map248/events/1/pages/0/25/Dialogue/enemy16
-.........! ! \\N[1], okitetaka?#MTLed
+......! !
+
+\\N[1], you wake up?#Strate
 > END STRING
 
 > BEGIN STRING
@@ -18,8 +20,9 @@
  
 ありがとう、部屋まで連れてきてくれて。
 > CONTEXT: Map248/events/1/pages/0/29/Dialogue/kazuya
-No, I woke up as I climbed the stairs.
-Thank you for taking me to my room.#MTLed
+No, I woke up around when I climbed the stairs.
+
+Thank you for taking me to my room.#Strate
 > END STRING
 
 > BEGIN STRING
@@ -27,7 +30,7 @@ Thank you for taking me to my room.#MTLed
  
 ワタシ　マデ　カゼヒク
 > CONTEXT: Map248/events/1/pages/0/34/Dialogue/enemy16
-\\N[1] Case Hiku Yokunai. 'I' Made Kazehik#MTLed
+\\N[1] catch cold, I catch cold.#Strate
 > END STRING
 
 > BEGIN STRING
@@ -35,7 +38,9 @@ Thank you for taking me to my room.#MTLed
  
 ダイジニ　スル
 > CONTEXT: Map248/events/1/pages/0/38/Dialogue/enemy16
-\\N[1] body my body. Daizini Sul#MTLed
+\\N[1]'s body, my body.
+
+Take care of it.#Strate
 > END STRING
 
 > BEGIN STRING
@@ -43,8 +48,9 @@ Thank you for taking me to my room.#MTLed
  
 気を付けるよ………
 > CONTEXT: Map248/events/1/pages/0/42/Dialogue/kazuya
-Hahaha......... That's right
-I'll be careful .........#MTLed
+Hahaha...... that's right.
+
+I'll be careful......#Strate
 > END STRING
 
 > BEGIN STRING
@@ -53,9 +59,10 @@ I'll be careful .........#MTLed
  
 もちろん、首に繋がった尻尾は取れないが……
 > CONTEXT: Map248/events/1/pages/0/47/Dialogue
-By having become a "symbiosis" relationship with Camazotz
-... She left me alone and was able to materialize.
-Of course, I can not get the tail connected to my neck ...#MTLed
+By having entered a "symbiotic" relationship with
+Camazotz...... she became capable of leaving my
+body and materializing at will. But of course,
+she can't disconnect her tail from my neck...#StrateLocalization
 > END STRING
 
 > BEGIN STRING
@@ -64,9 +71,10 @@ Of course, I can not get the tail connected to my neck ...#MTLed
  
 前のように彼女に精を捧げることも……もちろん可能だ。
 > CONTEXT: Map248/events/1/pages/0/52/Dialogue
-I'm limited when I'm conscious. This way, I can talk to and
-touch Camazotz. It is also possible to devote her energy to
-her as before...of course.#MTLed
+But we limit it to when I'm conscious.
+This way, I can talk to and touch Camazotz.
+Of course... I can also offer my energy to her,
+like before.#StrateUnsure
 > END STRING
 
 > BEGIN STRING
@@ -75,9 +83,10 @@ her as before...of course.#MTLed
 僕の頭の後ろから、カマソッソの翼が出てくるんだもの…
 あんなことも出来るんだね……
 > CONTEXT: Map248/events/1/pages/0/58/Dialogue/kazuya
-Even so...I was surprised...today ...
-From behind my head, the wing of Camazotz comes
-out...You can do that too ...#MTLed
+Anyway...... I was surprised today......
+
+Your wings coming out from the back of my head...
+You can do that kind of thing too, huh......?#Strate
 > END STRING
 
 > BEGIN STRING
@@ -86,8 +95,10 @@ out...You can do that too ...#MTLed
  
 ダレニモ　キズ　ツケサセナイ
 > CONTEXT: Map248/events/1/pages/0/64/Dialogue/enemy16
-\\N[1] my Yadonushi. Yadonushi Mamorno 'I' Touzen
-Darenimo Scratch Tsuke Sasenai#MTLed
+\\N[1] is my host.
+Of course I protect host.
+
+I not let anyone hurt you.#Strate
 > END STRING
 
 > BEGIN STRING
@@ -96,8 +107,10 @@ Darenimo Scratch Tsuke Sasenai#MTLed
  
 ナレレバ　カンタン……
 > CONTEXT: Map248/events/1/pages/0/69/Dialogue/enemy16
-\\N[1] Nozom Nala Tsubasade. Solaret Tobel
-Narreba cantin ...#MTLed
+If \\N[1] want, can even fly in the sky
+with wings too.
+
+Easy when used to it......#Strate
 > END STRING
 
 > BEGIN STRING
@@ -105,8 +118,10 @@ Narreba cantin ...#MTLed
  
 人目につきそうだから、あまり使わないとは思うけど…
 > CONTEXT: Map248/events/1/pages/0/75/Dialogue/kazuya
-Well, that's...useful...I think it won't be
-used so much because it looks so popular ...#MTLed
+T-That...... sounds convenient......
+
+But I don't think I'll use it much, because it
+looks like it would draw too much attention...#StrateLocalization
 > END STRING
 
 > BEGIN STRING
@@ -114,8 +129,10 @@ used so much because it looks so popular ...#MTLed
 
 僕も心強いよ…
 > CONTEXT: Map248/events/1/pages/0/79/Dialogue/kazuya
-But...even when fighting, that's why you
-support me. I am also strong ...#MTLed
+But...... knowing that you will support me even
+in battle...
+
+It's reasurring...#StrateLocalization
 > END STRING
 
 > BEGIN STRING
@@ -123,7 +140,9 @@ support me. I am also strong ...#MTLed
  
 スキ　スキ……♡♡
 > CONTEXT: Map248/events/1/pages/0/84/Dialogue/enemy16
-\\N[1] ......... Suki...♡♡#MTLed
+\\N[1]......
+
+Love you... love you......♡♡#Strate
 > END STRING
 
 > BEGIN STRING
@@ -131,7 +150,9 @@ support me. I am also strong ...#MTLed
  
 \\N[1]ノ　テキ　タオス……♡
 > CONTEXT: Map248/events/1/pages/0/88/Dialogue/enemy16
-'I' \\N[1] Mamoru...\\N[1] ノ タ ♡ ♡...♡#MTLed
+I protect \\N[1]...
+
+I beat enemies of \\N[1]......♡#Strate
 > END STRING
 
 > BEGIN STRING
@@ -139,8 +160,9 @@ support me. I am also strong ...#MTLed
  
 僕も大好きだよ……
 > CONTEXT: Map248/events/1/pages/0/93/Dialogue/kazuya-a
-Yeah ..... Thank you Camazotz. 
-I also love you ...#MTLed
+Yeah..... Thank you Camazotz.
+ 
+I love you too......#Strate
 > END STRING
 
 > BEGIN STRING
@@ -148,7 +170,9 @@ I also love you ...#MTLed
  
 文字通り『一心同体』………
 > CONTEXT: Map248/events/1/pages/0/99/Dialogue
-My present and Camazotz are. Literally "Identity" .........#MTLed
+Right now, Camazotz and I...
+
+We are literally "one in body and soul"......#StrateLocalization
 > END STRING
 
 > BEGIN STRING
@@ -156,7 +180,9 @@ My present and Camazotz are. Literally "Identity" .........#MTLed
 
 僕たちは互いに、望んで傍にいる……
 > CONTEXT: Map248/events/1/pages/0/103/Dialogue
-Not being "parasitic"...We hope to be with each other ...#MTLed
+Rather than being "parasitized"......
+
+We want to be by each other's side...#Strate
 > END STRING
 
 > BEGIN STRING
@@ -164,6 +190,7 @@ Not being "parasitic"...We hope to be with each other ...#MTLed
  
 助け合いながら、生きていくのだ………
 > CONTEXT: Map248/events/1/pages/0/107/Dialogue
-While we need each other...Living together while helping
-each other .........#MTLed
+While needing each other......
+
+While helping each other, to live......#StrateUnsure
 > END STRING
