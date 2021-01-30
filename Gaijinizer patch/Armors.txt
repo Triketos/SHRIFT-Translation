@@ -284,66 +284,71 @@ Obedience Bracelet#Strate
 > BEGIN STRING
 豪華に装飾された、至高のもっふもふローブ
 魔法に関しての属性への耐性と、魔法・敏捷上昇の効果がある
-> CONTEXT: Armors/35/description < UNTRANSLATED
-
+> CONTEXT: Armors/35/description
+Lavishly decorated, supremely fluffy robe.
+Resists magic attributes and increases magic and agility.#Strate
 > END STRING
 
 > BEGIN STRING
 ケモナーローブ
-> CONTEXT: Armors/35/name < UNTRANSLATED
-
+> CONTEXT: Armors/35/name
+Fluffiest Robe#StrateUnsureLocalization
 > END STRING
 
 > BEGIN STRING
 もふもふな悪魔たちの魔力が集結したローブ
 魔法の属性攻撃と、性欲上昇量に対して大幅な耐性を得る
-> CONTEXT: Armors/36/description < UNTRANSLATED
-
+> CONTEXT: Armors/36/description
+A robe that holds the gathered magic power of fluffy demons.
+Provides significant resistance to magic and lust buildup.#Strate
 > END STRING
 
 > BEGIN STRING
 モコモコローブ
-> CONTEXT: Armors/36/name < UNTRANSLATED
-
+> CONTEXT: Armors/36/name
+Fluffy Robe#Strate
 > END STRING
 
 > BEGIN STRING
 物理ダメージを90％軽減。
 混乱、出血、愛液まみれ無効。スタン、脱力確率を半減する。
-> CONTEXT: Armors/37/description < UNTRANSLATED
-
+> CONTEXT: Armors/37/description
+Reduces physical damage taken by 90%. Negates Confused,
+Bleeding, and Soaked. Halves the probability of Weakness.#StrateUnsure
 > END STRING
 
 > BEGIN STRING
 リア・マーク・プロト
-> CONTEXT: Armors/37/name < UNTRANSLATED
-
+> CONTEXT: Armors/37/name
+Rear Mark Proto#StrateUnsure
 > END STRING
 
 > BEGIN STRING
 魔法攻撃に少しだけ弱くなるが
 物理ダメージを80％軽減。混乱、出血、愛液まみれ無効。
-> CONTEXT: Armors/38/description < UNTRANSLATED
-
+> CONTEXT: Armors/38/description
+Increases magic damage taken slightly, but reduces physical
+damage taken by 80%. Negates Confused, Bleeding and Soaked.#Strate
 > END STRING
 
 > BEGIN STRING
 フィジカルアーマー
-> CONTEXT: Armors/38/name < UNTRANSLATED
-
+> CONTEXT: Armors/38/name
+Physical Armor#Strate
 > END STRING
 
 > BEGIN STRING
 『恍惚』から『魅了』に重複するのを防いでくれて
 戦闘中に一回だけ、『朦朧』状態を解除してくれる御守り
-> CONTEXT: Armors/39/description < UNTRANSLATED
-
+> CONTEXT: Armors/39/description
+Prevents repetition from [Ecstasy] to [Charmed].
+Once per battle, protects you from the [Dazed] state.#Strate
 > END STRING
 
 > BEGIN STRING
 白魔女の御守り
-> CONTEXT: Armors/39/name < UNTRANSLATED
-
+> CONTEXT: Armors/39/name
+White Witch's Amulet#Strate
 > END STRING
 
 > BEGIN STRING
@@ -720,8 +725,8 @@ Old Rosary#afrg
 エコーのナメクジ部分の粘液。
 相手の身体を突き飛ばした際、抵抗と気力を５０％回復する。
 > CONTEXT: Armors/67/description
-Mucus in the slug portion of Echo. When the opponent's body
-is knocked out, restore 50% of the struggle and vitality.#MTLed
+Mucus from Echo's slug form. Restores 50% Willpower
+and Vitality when breaking out of an opponent's bind.#StrateLocalization
 > END STRING
 
 > BEGIN STRING
