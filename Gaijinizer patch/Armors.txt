@@ -6,6 +6,7 @@
 > CONTEXT: Armors/2/description
 > CONTEXT: Armors/3/description
 > CONTEXT: Armors/5/description
+> CONTEXT: Armors/90/description
 A special hospital gown that protects the skin against
 viruses. It becomes ineffective when taken off.#DargothPR
 > END STRING
@@ -183,6 +184,32 @@ Dragon Fang#Lvl1
 > END STRING
 
 > BEGIN STRING
+ガントレットを銃に取り付けられるように改造したもの
+片手武器の場合、アタッチメントに装備できるようになる。
+> CONTEXT: Armors/17/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バトルグローブ
+> CONTEXT: Armors/17/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+マジックフレームとバトルグローブを合成したもの
+ハンドガン以外の片手武器で装備できる。
+> CONTEXT: Armors/18/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エーテルグローブ
+> CONTEXT: Armors/18/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
 身体のラインを強調した、露出の高いルシィの衣服
 だがその性的な外見が、誘惑に使われたことはない。
 > CONTEXT: Armors/19/description < UNTRANSLATED
@@ -191,8 +218,8 @@ Dragon Fang#Lvl1
 
 > BEGIN STRING
 失楽の黒衣
-> CONTEXT: Armors/19/name < UNTRANSLATED
-> CONTEXT: Armors/53/name < UNTRANSLATED
+> CONTEXT: Armors/19/name
+> CONTEXT: Armors/53/name
 Condemned Clothes#Dargoth
 > END STRING
 
@@ -910,6 +937,53 @@ animal. It looks like it's about to fall apart.#Ron
 古ぼけた首輪
 > CONTEXT: Armors/80/name
 Worn-Out Collar#Ron
+> END STRING
+
+> BEGIN STRING
+布の服
+> CONTEXT: Armors/90/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+先代の愛用していた全身を覆う銀の鎧。
+狙われやすさと防御力が強化される。
+> CONTEXT: Armors/99/description < UNTRANSLATED
+> CONTEXT: Armors/100/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サイトウプレート・鉄
+> CONTEXT: Armors/99/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サイトウプレート・銀
+> CONTEXT: Armors/100/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+先代の愛用していた全身を覆う銀の鎧。
+
+> CONTEXT: Armors/101/description < UNTRANSLATED
+> CONTEXT: Armors/102/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+緑リンゴ
+> CONTEXT: Armors/101/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+赤リンゴ
+> CONTEXT: Armors/102/name < UNTRANSLATED
+> CONTEXT: Skills/894/name < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
