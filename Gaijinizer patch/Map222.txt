@@ -4,8 +4,10 @@
 
 　　お買い得な商品あるよ！！見ていかない！？」
 > CONTEXT: Map222/events/1/pages/0/18/Dialogue
-*「Oh, my wife there!! There are bargain products!!I can
-not see it!?」#MTLed
+*「Excuse me, ma'am!!
+
+   There are plenty of bargain items this way, come
+   take a look!」#Ron
 > END STRING
 
 > BEGIN STRING
@@ -13,7 +15,9 @@ not see it!?」#MTLed
 
  私のことか………？
 > CONTEXT: Map222/events/1/pages/0/27/Dialogue/enemy19
-…………"Wife"? About me......?#MTLed
+...Ma'am?
+
+Are you talking to me...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -22,9 +26,10 @@ not see it!?」#MTLed
 　　もしそうだったら悪かったねぇ、
  　『旦那の夕食を考えるご機嫌な顔』に見えたからさぁ」
 > CONTEXT: Map222/events/1/pages/0/32/Dialogue
-*「Well, was it a 'Mr.'. If so, it was bad,
-Because it looked like "a happy face to think about my
-husband's dinner"」#MTLed
+*「Oh? Would you prefer "young lady"?
+   I just saw you buying ingredients with this happy look
+   on your face like you were thinking about making dinner
+   for your husband.」#RonLocalizationIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -32,8 +37,10 @@ husband's dinner"」#MTLed
 
  今日の旦那の献立を考えていたところだ。
 > CONTEXT: Map222/events/1/pages/0/44/Dialogue/enemy19
-............ No, I'm fine.Matches.
-I was thinking about today's husband's menu.#MTLed
+...No, that's fine, you were right on the mark.
+
+I was actually thinking about what to do for
+tonight's dinner with my husband.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -41,5 +48,7 @@ I was thinking about today's husband's menu.#MTLed
 
 『お買い得な商品』とは、どれのことだ……？
 > CONTEXT: Map222/events/1/pages/0/48/Dialogue/enemy19
-So...Which is the "bargain product" ...?#MTLed
+So...
+
+Let's have a look at these bargains...#Ron
 > END STRING
