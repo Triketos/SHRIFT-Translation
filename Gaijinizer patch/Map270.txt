@@ -169,9 +169,9 @@ You don't need this game."#Ron
 > BEGIN STRING
 "ed/破損"
 > CONTEXT: Map270/events/4/pages/0/144/InlineScript/5:10
-> CONTEXT: Map270/events/4/pages/1/154/InlineScript/5:10
+> CONTEXT: Map270/events/4/pages/1/203/InlineScript/5:10
 > CONTEXT: Map270/events/6/pages/0/145/InlineScript/5:10
-> CONTEXT: Map270/events/6/pages/1/155/InlineScript/5:10
+> CONTEXT: Map270/events/6/pages/1/204/InlineScript/5:10
 "ed/破損"#NoTL
 > END STRING
 
@@ -271,12 +271,21 @@ world like this...#Ron
 > END STRING
 
 > BEGIN STRING
+……おめでとう。
+
+見事に自分の意志を貫いて、ここまで辿り着いたね
+> CONTEXT: Map270/events/4/pages/1/107/Dialogue/hyakki < UNTRANSLATED
+> CONTEXT: Map270/events/6/pages/1/108/Dialogue/hyakki < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
 『邪心』……『オールドワン』………
 
 あんなものは、単なる『結果』にすぎない。
 みんな、『アンタ』が原因だ。
-> CONTEXT: Map270/events/4/pages/1/107/Dialogue/hyakki
-> CONTEXT: Map270/events/6/pages/1/108/Dialogue/hyakki
+> CONTEXT: Map270/events/4/pages/1/111/Dialogue/hyakki
+> CONTEXT: Map270/events/6/pages/1/112/Dialogue/hyakki
 The "malice", the "old one"...
 
 Those are nothing more than the "effect".
@@ -284,11 +293,20 @@ And to everyone, you are the "cause".#Ron
 > END STRING
 
 > BEGIN STRING
+どういう成り行きだとか、そういうのは関係ないだろ
+
+おかしいな？と思ったら、止めりゃよかったんだからね。
+> CONTEXT: Map270/events/4/pages/1/116/Dialogue/hyakki < UNTRANSLATED
+> CONTEXT: Map270/events/6/pages/1/117/Dialogue/hyakki < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
 どうしてこんな世界を目指したか、なんて
 
 聞く気もないし、聞きたくもないよ。
-> CONTEXT: Map270/events/4/pages/1/112/Dialogue/hyakki
-> CONTEXT: Map270/events/6/pages/1/113/Dialogue/hyakki
+> CONTEXT: Map270/events/4/pages/1/120/Dialogue/hyakki
+> CONTEXT: Map270/events/6/pages/1/121/Dialogue/hyakki
 I don't feel like hearing the reasons why you
 wanted to make this world, and I don't want to
 hear them, either...#Ron
@@ -299,8 +317,8 @@ hear them, either...#Ron
 
  \\N[1]は自分の中の『邪心』と
 戦い続ける事になるが……それは彼自身の問題さ。
-> CONTEXT: Map270/events/4/pages/1/116/Dialogue/hyakki
-> CONTEXT: Map270/events/6/pages/1/117/Dialogue/hyakki
+> CONTEXT: Map270/events/4/pages/1/124/Dialogue/hyakki < UNTRANSLATED
+> CONTEXT: Map270/events/6/pages/1/125/Dialogue/hyakki < UNTRANSLATED
 I've separated "you" from \\N[1]...
 \\N[1] will continue to battle with the
 "malice" within himself, but that's his own
@@ -308,12 +326,62 @@ problem to deal with.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
+アンタにとっちゃ、ここで全てが終わり……
+
+介入を終えれば、平然と別の作業をする。
+一つの物語の登場人物をメチャクチャにした事など忘れて
+> CONTEXT: Map270/events/4/pages/1/129/Dialogue/hyakki < UNTRANSLATED
+> CONTEXT: Map270/events/6/pages/1/130/Dialogue/hyakki < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+……別に悔い改めてくれなんて思ってないよ。
+
+それがアンタの『当たり前』なんだろ？
+ここまで来たヤツに、今さらそれが変えられると思ってないさ
+> CONTEXT: Map270/events/4/pages/1/134/Dialogue/hyakki < UNTRANSLATED
+> CONTEXT: Map270/events/6/pages/1/135/Dialogue/hyakki < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+……それで？
+
+アンタは何を得たんだい？
+ここまで辿り着いた達成感？
+> CONTEXT: Map270/events/4/pages/1/140/Dialogue/hyakki < UNTRANSLATED
+> CONTEXT: Map270/events/6/pages/1/141/Dialogue/hyakki < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+悪魔たちの考えを全て否定して
+人間さえも殺して、分かり合えたはずの全員に嫌われて…
+
+かつてアンタが辿り着いた奇跡の結末も、ぜーーーんぶパァ
+> CONTEXT: Map270/events/4/pages/1/145/Dialogue/hyakki < UNTRANSLATED
+> CONTEXT: Map270/events/6/pages/1/146/Dialogue/hyakki < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+その体験が、アンタに残してくれたものはなんだい？
+
+ここまで来るのに、相当な時間を使っただろうねぇ
+何か得られるものがあったかい？
+> CONTEXT: Map270/events/4/pages/1/150/Dialogue/hyakki < UNTRANSLATED
+> CONTEXT: Map270/events/6/pages/1/151/Dialogue/hyakki < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
 …………勘違いしないでほしいけど
  アタシは別に、アンタに何か罰を科すつもりはない。
 
 そんなのは、『神様』がやる仕事だ。
-> CONTEXT: Map270/events/4/pages/1/122/Dialogue/hyakki
-> CONTEXT: Map270/events/6/pages/1/123/Dialogue/hyakki
+> CONTEXT: Map270/events/4/pages/1/156/Dialogue/hyakki
+> CONTEXT: Map270/events/6/pages/1/157/Dialogue/hyakki
 Now don't misunderstand me here...
 I don't intend on punishing you or anything.
 
@@ -321,24 +389,50 @@ That's "God's" job...#Ron
 > END STRING
 
 > BEGIN STRING
-ただ………
+アンタの愚行に乗っかって、世界を壊そうとしたヤツに
+これ以上\\N[1]を好き勝手させたくなかった……
+
+それだけさ……
+> CONTEXT: Map270/events/4/pages/1/161/Dialogue/hyakki < UNTRANSLATED
+> CONTEXT: Map270/events/6/pages/1/162/Dialogue/hyakki < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あわよくば、そこで介入を諦めてくれればって思ったけど…
+
+さすがに途中で、私の方が退屈で飽きちゃったネ
+> CONTEXT: Map270/events/4/pages/1/166/Dialogue/hyakki < UNTRANSLATED
+> CONTEXT: Map270/events/6/pages/1/167/Dialogue/hyakki < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+私はアンタのことなんて、とうの昔に諦めてたよ
+
+ただ……\\N[1]にだったら
+ワンチャン声が届くかもしれなかったから…
+> CONTEXT: Map270/events/4/pages/1/170/Dialogue/hyakki < UNTRANSLATED
+> CONTEXT: Map270/events/6/pages/1/171/Dialogue/hyakki < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+………繰り返しになるけど
 
 アンタにあの『世界』はふさわしくない。
  闘争や血を求めるなら、もっと別の『世界』がある
-> CONTEXT: Map270/events/4/pages/1/127/Dialogue/hyakki
-> CONTEXT: Map270/events/6/pages/1/128/Dialogue/hyakki
-However... you don't belong in this world.
+> CONTEXT: Map270/events/4/pages/1/176/Dialogue/hyakki < UNTRANSLATED
+> CONTEXT: Map270/events/6/pages/1/177/Dialogue/hyakki < UNTRANSLATED
 
-If it's battle and blood you seek, there are
-many others.#Ron
 > END STRING
 
 > BEGIN STRING
 \\N[1]が望んだように………
 
 アンタには２度と、あの世界に触れられないようにする。
-> CONTEXT: Map270/events/4/pages/1/132/Dialogue/hyakki
-> CONTEXT: Map270/events/6/pages/1/133/Dialogue/hyakki
+> CONTEXT: Map270/events/4/pages/1/181/Dialogue/hyakki
+> CONTEXT: Map270/events/6/pages/1/182/Dialogue/hyakki
 Just as \\N[1] wanted, you will never again come
 into contact with this world.#Ron
 > END STRING
@@ -347,8 +441,8 @@ into contact with this world.#Ron
 お別れだよ。
 
  ２度と、『これ』を起動しないようにね……
-> CONTEXT: Map270/events/4/pages/1/136/Dialogue/hyakki
-> CONTEXT: Map270/events/6/pages/1/137/Dialogue/hyakki
+> CONTEXT: Map270/events/4/pages/1/185/Dialogue/hyakki
+> CONTEXT: Map270/events/6/pages/1/186/Dialogue/hyakki
 This is goodbye.
 
 Don't ever launch "that" again...#Ron
