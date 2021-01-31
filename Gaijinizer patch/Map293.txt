@@ -379,10 +379,8 @@ The door to "EX city area" was opened!#GT
 > CONTEXT: Map423/events/14/pages/0/0/Dialogue
 > CONTEXT: Map423/events/15/pages/0/0/Dialogue
 > CONTEXT: Map423/events/16/pages/0/0/Dialogue
-When "the corresponding devil is Kizuna state"
-
-The gate will be opened after hearing the
-explanation of the situation.#GT
+This gate will be unlocked after hearing an explanation
+of the situation from the corresponding demon.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -410,8 +408,8 @@ you progress to some extent.#GT
 > CONTEXT: Map377/events/6/pages/0/0/Dialogue
 > CONTEXT: Map417/events/4/pages/0/0/Dialogue
 > CONTEXT: Map417/events/6/pages/0/0/Dialogue
-This treasure chest will be opened after
-clearing the corresponding EX#GT
+This treasure chest will be unlocked after
+clearing the corresponding EX.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -428,7 +426,7 @@ clearing the corresponding EX#GT
 > CONTEXT: Map293/events/7/pages/0/0/Dialogue 
 > CONTEXT: Map377/events/7/pages/0/0/Dialogue
 > CONTEXT: Map417/events/7/pages/0/0/Dialogue
-Welcome to the "EX Room".#GT
+Welcome to the "EX Room".#Ron
 > END STRING
 
 > BEGIN STRING
@@ -436,7 +434,7 @@ Welcome to the "EX Room".#GT
 > CONTEXT: Map293/events/7/pages/0/2/Choice/0 
 > CONTEXT: Map377/events/7/pages/0/2/Choice/0
 > CONTEXT: Map417/events/7/pages/0/2/Choice/0
-About this space#GT
+About this space#Ron
 > END STRING
 
 > BEGIN STRING
@@ -444,7 +442,7 @@ About this space#GT
 > CONTEXT: Map293/events/7/pages/0/2/Choice/1 
 > CONTEXT: Map377/events/7/pages/0/2/Choice/1
 > CONTEXT: Map417/events/7/pages/0/2/Choice/1
-About imprisonment#GT
+About the indulgence#Ron
 > END STRING
 
 > BEGIN STRING
@@ -452,7 +450,7 @@ EXクリア特典について
 > CONTEXT: Map293/events/7/pages/0/2/Choice/2 
 > CONTEXT: Map377/events/7/pages/0/2/Choice/2
 > CONTEXT: Map417/events/7/pages/0/2/Choice/2
-About EX Clear Award#GT
+About EX Clear Perks#Ron
 > END STRING
 
 > BEGIN STRING
@@ -460,7 +458,7 @@ EXでの心蝕の消し方
 > CONTEXT: Map293/events/7/pages/0/2/Choice/3 
 > CONTEXT: Map377/events/7/pages/0/2/Choice/3
 > CONTEXT: Map417/events/7/pages/0/2/Choice/3
-How to erase mind corruption in EX#Triketos
+Removing EX corruption#Triketos/Ron
 > END STRING
 
 > BEGIN STRING
@@ -470,9 +468,9 @@ How to erase mind corruption in EX#Triketos
 > CONTEXT: Map293/events/7/pages/0/4/Dialogue 
 > CONTEXT: Map377/events/7/pages/0/4/Dialogue
 > CONTEXT: Map417/events/7/pages/0/4/Dialogue
-"EX Room", through the devil you built Kizuna
-
-It's a space that leads to "another world".#GT
+These EX Rooms are spaces that connect to other
+worlds, connected to your own through the bonds
+you've built with demons.#ROn
 > END STRING
 
 > BEGIN STRING
@@ -483,10 +481,9 @@ It's a space that leads to "another world".#GT
 > CONTEXT: Map293/events/7/pages/0/8/Dialogue 
 > CONTEXT: Map377/events/7/pages/0/8/Dialogue
 > CONTEXT: Map417/events/7/pages/0/8/Dialogue
-In that world, the target demon connected by
-Kizuna,
-Or the devil related to it needs you
-I'm waiting for you to "intervene" with \\N[1].#GT
+In those worlds, the demons you've built bonds
+with, or demons connected to them, are waiting
+for you and \\N[1] to intervene.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -497,10 +494,10 @@ I'm waiting for you to "intervene" with \\N[1].#GT
 > CONTEXT: Map293/events/7/pages/0/13/Dialogue 
 > CONTEXT: Map377/events/7/pages/0/13/Dialogue
 > CONTEXT: Map417/events/7/pages/0/13/Dialogue
-Of course, it is your freedom whether
-you accept it or not...
-If you overcome the tough test of EX room
-You will gain more power from that experience.#GT
+Of course, it's up to you whether or not you
+choose undergo these tough trials, but if you
+manage to overcome them, you'll be able to
+increase your power even more.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -511,10 +508,9 @@ You will gain more power from that experience.#GT
 > CONTEXT: Map293/events/7/pages/0/20/Dialogue 
 > CONTEXT: Map377/events/7/pages/0/20/Dialogue
 > CONTEXT: Map417/events/7/pages/0/20/Dialogue
-... ... I think I feel a sense of thinness
-\\N[1] that is here right now is exactly
-Similar to \\N[1] in "the main story"
-and exists differently.#GT
+Though he bears some faint resemblance, the
+\\N[1] here differs in that he's more like a
+replica of the original \\N[1].#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -525,10 +521,10 @@ and exists differently.#GT
 > CONTEXT: Map293/events/7/pages/0/25/Dialogue 
 > CONTEXT: Map377/events/7/pages/0/25/Dialogue
 > CONTEXT: Map417/events/7/pages/0/25/Dialogue
-Existence of magic, existence of my room ......
-Although I think that there is no point in
-speaking of contradiction
-What I want to say is about the "donation mark".#GT
+The presence of magic, the existence of My Room,
+there's no end to the inconsistencies.
+
+What I'm talking about is the "Indulgence".#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -539,13 +535,10 @@ What I want to say is about the "donation mark".#GT
 > CONTEXT: Map293/events/7/pages/0/30/Dialogue 
 > CONTEXT: Map377/events/7/pages/0/30/Dialogue
 > CONTEXT: Map417/events/7/pages/0/30/Dialogue
-This my room is not connected between the
-public offices.
-
-
-So \\C[2] So, you are not guilty of Cushion,
-who is the master of that room
-It won't work in the space ahead.#GT
+This My Room is not connected to Hell's Gate.
+In other words, \\C[2]the Hell's Indulgence that
+Cushion-kun gave you, will not work past this
+space.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -557,7 +550,7 @@ It won't work in the space ahead.#GT
 > CONTEXT: Map417/events/7/pages/0/38/Dialogue
 So I'll give you this.
 
-It is a gift from Mr. Meira.#GT
+It's something from Meira-san.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -568,13 +561,10 @@ It is a gift from Mr. Meira.#GT
 > CONTEXT: Map293/events/7/pages/0/46/Dialogue 
 > CONTEXT: Map377/events/7/pages/0/46/Dialogue
 > CONTEXT: Map417/events/7/pages/0/46/Dialogue
-The "Platinum of Innocence" has the same effect
-as the main part of the indemnity.
-
-
-However, it is in front of the entrance of my
-room that \\C[2] comes back
-Be careful with bronze boxes, as they do not work.#GT
+This "Platinum Indulgence" works the same way as
+the original one. Keep in mind, \\C[2]it will return
+you to the entrance of My Room, and still won't
+work when using Bronze Boxes.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -585,10 +575,10 @@ Be careful with bronze boxes, as they do not work.#GT
 > CONTEXT: Map293/events/7/pages/0/51/Dialogue 
 > CONTEXT: Map377/events/7/pages/0/51/Dialogue
 > CONTEXT: Map417/events/7/pages/0/51/Dialogue
-To the end, the defeat of defeat squeezing scene.
-Use it to reduce the caries that accompanies it.
-...If you want to get fucked,
-the story is different.#GT
+Ultimately, it's a tool to skip squeezing scenes
+when you lose along with reducing the amount of
+corruption gained. Though it's a different story
+if you actually want to be raped.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -599,10 +589,10 @@ EXルームをクリアすると、
 > CONTEXT: Map293/events/7/pages/0/58/Dialogue 
 > CONTEXT: Map377/events/7/pages/0/58/Dialogue
 > CONTEXT: Map417/events/7/pages/0/58/Dialogue
-When you clear the EX room,
-\\C[2]My room with my room devil and Kizuna deepens further
-
-You can acquire SP that can be used in capsules.#GT
+Whenever you clear one of these EX Rooms, \\C[2]your
+bond with the associated demon deepens further,
+and you will acquire SP that can be used in the
+capsule.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -612,10 +602,9 @@ You can acquire SP that can be used in capsules.#GT
 > CONTEXT: Map293/events/7/pages/0/63/Dialogue 
 > CONTEXT: Map377/events/7/pages/0/63/Dialogue
 > CONTEXT: Map417/events/7/pages/0/63/Dialogue
-And you can fight freely with the demons
-involved in the world
-
-You can also get a box of platinum.#GT
+You can freely battle with the demons in the EX
+worlds, and it's possible to get a "Platinum
+Box".#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -626,13 +615,10 @@ You can also get a box of platinum.#GT
 > CONTEXT: Map293/events/7/pages/0/67/Dialogue 
 > CONTEXT: Map377/events/7/pages/0/67/Dialogue
 > CONTEXT: Map417/events/7/pages/0/67/Dialogue
-"Platinum box" has the same application
-as "Bronze box"
-You can escape from oppressive death
-with "Platinum's Indemnity".
-
-It may be possible to fight again
-and again to earn money.#GT
+Platinum Boxes work the same way as Bronze Boxes
+except you can use the Platinum Indulgence to
+skip squeezing scenes if you lose. You can use
+the boxes as a way to farm money.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -642,10 +628,10 @@ and again to earn money.#GT
 > CONTEXT: Map293/events/7/pages/0/72/Dialogue 
 > CONTEXT: Map377/events/7/pages/0/72/Dialogue
 > CONTEXT: Map417/events/7/pages/0/72/Dialogue
-Just ... ...... The devil that appears in EX
-is not a straight line.
+However, keep in mind that fighting demons in the
+EX worlds is not always straightforward...
 
-Do your best after preparing everything ...#GT
+Be sure to prepare well before challenging them.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -655,10 +641,8 @@ EXの世界の悪魔に負けて、心蝕が付いてしまったら
 > CONTEXT: Map293/events/7/pages/0/78/Dialogue 
 > CONTEXT: Map377/events/7/pages/0/78/Dialogue
 > CONTEXT: Map417/events/7/pages/0/78/Dialogue
-If I lose my mind to the devil of the world
-of EX, I'm attached
-
-It may be more difficult to erase that caries...#GT
+Removing corruption gained from losing battles in
+the EX worlds is more difficult than usual.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -669,10 +653,10 @@ It may be more difficult to erase that caries...#GT
 > CONTEXT: Map293/events/7/pages/0/82/Dialogue 
 > CONTEXT: Map377/events/7/pages/0/82/Dialogue
 > CONTEXT: Map417/events/7/pages/0/82/Dialogue
-The basic is to win the battle and erase it...
-
-If the opponent is a boss, with caries
-The chance of winning is usually hopeless.#GT
+The basic method is to win against that demon.
+But if you've gained a lot of corruption from
+a boss, winning against them may end up being
+hopeless with too corruption.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -683,10 +667,10 @@ The chance of winning is usually hopeless.#GT
 > CONTEXT: Map293/events/7/pages/0/87/Dialogue 
 > CONTEXT: Map377/events/7/pages/0/87/Dialogue
 > CONTEXT: Map417/events/7/pages/0/87/Dialogue
-But if you are now, there is no other way.
-
-\\C[2] To my room demon of similar lineage,
-Instead, I'll get rid of my caries.#GT
+But it's not like there's absolutely no way to
+get rid of it. \\C[2]A demon with a similar lineage
+to the one you're battling can remove corruption
+for you.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -697,14 +681,14 @@ Instead, I'll get rid of my caries.#GT
 > CONTEXT: Map293/events/7/pages/0/92/Dialogue 
 > CONTEXT: Map377/events/7/pages/0/92/Dialogue
 > CONTEXT: Map417/events/7/pages/0/92/Dialogue
-Because the caries is like what is called
-"intervention's humiliation"
+That's because corruption is like the
+"Intervenor's submission"
 
 
-\\C[2] For example, if it is a snake demon,
-it is a snake demon.
-If you are a bird demon, you can reduce it
-to some extent by asking the bird demon.#GT
+\\C[2]For example, a snake demon can remove another
+snake demon's corruption, and a bird demon can
+remove another bird demon's corruption to an
+extent.#CheckLater
 > END STRING
 
 > BEGIN STRING
@@ -715,10 +699,10 @@ to some extent by asking the bird demon.#GT
 > CONTEXT: Map293/events/7/pages/0/97/Dialogue 
 > CONTEXT: Map377/events/7/pages/0/97/Dialogue
 > CONTEXT: Map417/events/7/pages/0/97/Dialogue
-However, \\C[2] will not go away completely.
-To the contrary, because it is only neutralizing
-by the same series of caries ......
-\\C[0] but it should be worth trying.#GT
+However, \\C[2]they won't be able to remove all of the
+corruption. That's because in a sense, they're
+only trying to neutralize the corruption of one
+of their own. \\C[0]But it's still worth doing.#Ron
 > END STRING
 
 > BEGIN STRING
