@@ -494,15 +494,15 @@ Saves your willpower, but won't stop status ailments.#Dargoth
 > END STRING
 
 > BEGIN STRING
-防御態勢
+防御体勢
 > CONTEXT: Skills/20/name
-Defensive Posture#Dargoth
+Defensive Stance#Dargoth
 > END STRING
 
 > BEGIN STRING
 は防御体勢をとった！！
 > CONTEXT: Skills/20/message1
- takes a defensive posture!#Dargoth
+ takes a defensive stance!#Dargoth
 > END STRING
 
 > BEGIN STRING
@@ -532,10 +532,9 @@ Love Drain#Dargoth
 > END STRING
 
 > BEGIN STRING
-の精液が相手に吸収されていく…
-> CONTEXT: Skills/22/message1
-> CONTEXT: Skills/24/message1
-'s semen is being absorbed by his partner...#Dargoth
+へ精気が吸収されていく…
+> CONTEXT: Skills/22/message1 < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -578,6 +577,12 @@ He feels the life being sucked out of his body as well...#Dargoth
 > CONTEXT: States/178/name
 > CONTEXT: States/179/name
 Energy Drain#Dargoth
+> END STRING
+
+> BEGIN STRING
+の精液が相手に吸収されていく…
+> CONTEXT: Skills/24/message1
+'s semen is being absorbed by his partner...#Dargoth
 > END STRING
 
 > BEGIN STRING
@@ -1631,6 +1636,7 @@ of the user for 5 turns.#afrg
 > CONTEXT: Skills/591/description
 > CONTEXT: Skills/626/description
 > CONTEXT: Skills/883/description
+> CONTEXT: Skills/898/description
 Makes it less likely to be affected by Ecstasy, Puppet,
 Panic, and Fear for 5 turns.#afrgPR
 > END STRING
@@ -1791,6 +1797,7 @@ Pure pleasure courses through his veins and saps his strength...#Dargoth
 > CONTEXT: Skills/305/description
 > CONTEXT: Skills/333/description
 > CONTEXT: Skills/334/description
+> CONTEXT: Skills/344/description
 > CONTEXT: Skills/364/description
 > CONTEXT: Skills/366/description
 > CONTEXT: Skills/368/description
@@ -1949,6 +1956,7 @@ Beast Claw#Dargoth
 > CONTEXT: Skills/695/description
 > CONTEXT: Skills/696/description
 > CONTEXT: Skills/768/description
+> CONTEXT: Skills/770/description
 > CONTEXT: Skills/796/description
 > CONTEXT: Skills/799/description
 > CONTEXT: Skills/800/description
@@ -4355,6 +4363,7 @@ causing extra damage to your opponent.#Triketos
 > BEGIN STRING
 ジェノサイドショット
 > CONTEXT: Skills/319/name
+> CONTEXT: Skills/321/name
 Genocide Shot#Triketos
 > END STRING
 
@@ -4591,6 +4600,24 @@ Draining Breath#afrg
 は\\N[1]に脱力ガスを吹きかけてきた！！
 > CONTEXT: Skills/343/message1
  blows strength-draining breath at \\N[1]!#afrg
+> END STRING
+
+> BEGIN STRING
+モフモフで大きな手が、\\N[1]に喰らいついてくる！
+> CONTEXT: Skills/344/message2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+モフ楽浄土
+> CONTEXT: Skills/344/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は\\n[1]のペニスを手でもみしだいた！
+> CONTEXT: Skills/344/message1 < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -6278,6 +6305,38 @@ Listen#afrg
 > END STRING
 
 > BEGIN STRING
+相手の全能力を２段階下げる。
+> CONTEXT: Skills/496/description < UNTRANSLATED
+> CONTEXT: Skills/497/description < UNTRANSLATED
+> CONTEXT: Skills/735/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+オーラブレイク
+> CONTEXT: Skills/496/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はオーラブレイクを放った！
+> CONTEXT: Skills/496/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+マジックブレイク
+> CONTEXT: Skills/497/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はマジックブレイクを放った！
+> CONTEXT: Skills/497/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
 こころをおちつかせる？
 > CONTEXT: Skills/498/description
 Will you calm down a little?#afrg
@@ -6631,6 +6690,7 @@ Shell (Gale)#afrgPR
 > CONTEXT: Skills/536/description
 > CONTEXT: Skills/537/description
 > CONTEXT: Skills/538/description
+> CONTEXT: Skills/890/description
 Loads a shell.
 Unused bullets remain in the gun.#afrgPR
 > END STRING
@@ -8458,7 +8518,19 @@ Enchanting Eyes#afrg
 > BEGIN STRING
 は魅了眼を放った！
 > CONTEXT: Skills/768/message1
- cast Enchanting Eyes#afrg
+ cast Enchanting Eyes!#afrg
+> END STRING
+
+> BEGIN STRING
+ファイナルヘヴン
+> CONTEXT: Skills/770/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はファイナルヘヴンを放った！
+> CONTEXT: Skills/770/message1 < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -9662,12 +9734,6 @@ Focus your mind to gather your magic.#TriketosPartial
 > BEGIN STRING
 ＨＰ回復（単体）
 > CONTEXT: Skills/894/description < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-赤リンゴ
-> CONTEXT: Skills/894/name < UNTRANSLATED
 
 > END STRING
 
