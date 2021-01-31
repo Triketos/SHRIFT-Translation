@@ -9946,15 +9946,17 @@ Hyakki G Route#Ron
 油断したね……
 
 これで終わりだよ。
-> CONTEXT: Troops/256/pages/0/6/Dialogue/hyakki2 < UNTRANSLATED
+> CONTEXT: Troops/256/pages/0/6/Dialogue/hyakki2
+You got careless.
 
+It's over now.#Ron
 > END STRING
 
 > BEGIN STRING
 難易度を\\C[10]『エサ向け』\\C[0]に変更しました。
-> CONTEXT: Troops/256/pages/1/18/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/256/pages/1/48/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/256/pages/1/18/Dialogue
+> CONTEXT: Troops/256/pages/1/48/Dialogue
+Difficulty has been changed to \\C[10]suicidal\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
@@ -9962,9 +9964,12 @@ Hyakki G Route#Ron
 
 まさかアンタ、こんな場所まで来て
 \\C[2]最高難易度以外を選べると思ったのかい？
-> CONTEXT: Troops/256/pages/1/21/Dialogue/hyakki2 < UNTRANSLATED
-> CONTEXT: Troops/256/pages/1/51/Dialogue/hyakki2 < UNTRANSLATED
+> CONTEXT: Troops/256/pages/1/21/Dialogue/hyakki2
+> CONTEXT: Troops/256/pages/1/51/Dialogue/hyakki2
+What are you so surprised for?
 
+You didn't think you could get this far and not
+have me choose the hardest difficulty, did you?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -9972,25 +9977,34 @@ Hyakki G Route#Ron
 アタシは、アンタをこれ以上進ませる気はない。
 
 さぁ、\\C[10]本当の『難易度』を教えてあげるよ
-> CONTEXT: Troops/256/pages/1/26/Dialogue/hyakki2 < UNTRANSLATED
-> CONTEXT: Troops/256/pages/1/56/Dialogue/hyakki2 < UNTRANSLATED
-
+> CONTEXT: Troops/256/pages/1/26/Dialogue/hyakki2
+> CONTEXT: Troops/256/pages/1/56/Dialogue/hyakki2
+I've told you over and over again that I have no
+intention of letting you through here. Now it's
+time for me to teach you the true meaning of
+"difficult".#Ron
 > END STRING
 
 > BEGIN STRING
 ……ここまで何食わぬ顔で進んできたアンタのことだから
 
 きっとこう考えているんだろう？
-> CONTEXT: Troops/256/pages/1/71/Dialogue/hyakki2 < UNTRANSLATED
+> CONTEXT: Troops/256/pages/1/71/Dialogue/hyakki2
+What's with that nonchalant look on your face
+as you waltzed up here?
 
+Let me guess what you were thinking...#Ron
 > END STRING
 
 > BEGIN STRING
 \\C[10]『自分は正しいことをしただけだ』
 『こうやって蔑まれるいわれはない』
 『悪いのはお前たち悪魔の方だ』\\C[0]ってね……
-> CONTEXT: Troops/256/pages/1/75/Dialogue/hyakki2 < UNTRANSLATED
-
+> CONTEXT: Troops/256/pages/1/75/Dialogue/hyakki2
+\\C[10]"I've always done the right thing."
+"No one has any reason to hate me."
+"Demons are the evil ones here."\\C[0]
+Well, am I close...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -9998,8 +10012,11 @@ Hyakki G Route#Ron
 
 アンタには\\C[10]『選ぶ権利』\\C[0]があった。
 そうするしか出来なかった、彼女たちと違って……
-> CONTEXT: Troops/256/pages/1/79/Dialogue/hyakki2 < UNTRANSLATED
-
+> CONTEXT: Troops/256/pages/1/79/Dialogue/hyakki2
+Well, you're sorely mistaken on all fronts.
+This whole time you've had the \\C[10]right to choose\\C[10],
+unlike the girls who had no choice but to do the
+things they did.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -10007,8 +10024,11 @@ Hyakki G Route#Ron
 
 もしアンタがゲームとしてこの世界を認識しているのなら
 『虐殺するゲーム』なら他にいくらでもあったハズなんだよ。
-> CONTEXT: Troops/256/pages/1/84/Dialogue/hyakki2 < UNTRANSLATED
-
+> CONTEXT: Troops/256/pages/1/84/Dialogue/hyakki2
+\\C[10]Your brand of slaughter should've never come
+to this world. Maybe you'd realized that this is
+just a game, but then there are countless other
+games intended for people like you.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -10016,8 +10036,10 @@ Hyakki G Route#Ron
 
 わざわざプラモデルやフィギュアが好きな連中のど真ん中で
 それらを壊したりする人間なのかい？
-> CONTEXT: Troops/256/pages/1/89/Dialogue/hyakki2 < UNTRANSLATED
-
+> CONTEXT: Troops/256/pages/1/89/Dialogue/hyakki2
+Or maybe you're just the kind of guy who goes out
+of his way to break other people's beloved
+plastic models and figurines.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -10025,16 +10047,22 @@ Hyakki G Route#Ron
 
 アンタが正反対の理由で血で染めた時点で
 全てが大間違いだったのさ。
-> CONTEXT: Troops/256/pages/1/94/Dialogue/hyakki2 < UNTRANSLATED
-
+> CONTEXT: Troops/256/pages/1/94/Dialogue/hyakki2
+But destroying the models someone else had
+painstakingly set up on their shelf just for the
+sake of smashing them was a big mistake on your
+part.#RonLocalization
 > END STRING
 
 > BEGIN STRING
 『こんな場所に置くヤツが悪い』って言いながら壊すのかい？
 
 随分とふてぶてしく被害者ヅラするんだね、感心するよ。
-> CONTEXT: Troops/256/pages/1/99/Dialogue/hyakki2 < UNTRANSLATED
-
+> CONTEXT: Troops/256/pages/1/99/Dialogue/hyakki2
+And then while you're smashing the figurines
+you're claiming it's their owner's fault for
+putting them there? I'm impressed at how well you
+can play the victim.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -10042,8 +10070,11 @@ Hyakki G Route#Ron
 
 アンタは、\\C[10]この世界に必要とされてないんだ\\C[0]
 完全な『お門違い』なのさ
-> CONTEXT: Troops/256/pages/1/103/Dialogue/hyakki2 < UNTRANSLATED
+> CONTEXT: Troops/256/pages/1/103/Dialogue/hyakki2
+What, you don't understand?
 
+You \\C[10]aren't needed in this world.\\C[0]
+There's nothing here for you.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -10051,24 +10082,31 @@ Hyakki G Route#Ron
 
 アンタがこんなムダな戦いを、正直にムダだと悟って
 完全に諦めるまで
-> CONTEXT: Troops/256/pages/1/109/Dialogue/hyakki2 < UNTRANSLATED
-
+> CONTEXT: Troops/256/pages/1/109/Dialogue/hyakki2
+I'll take you on as many times as it takes, over
+and over in this pointless battle until you
+finally realize just had pointless this all is
+and give up.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
 全回復を使われずに２万のHPを削りきる自信があるなら…ネ
 
 ハッ、頑張りな
-> CONTEXT: Troops/256/pages/1/114/Dialogue/hyakki2 < UNTRANSLATED
-
+> CONTEXT: Troops/256/pages/1/114/Dialogue/hyakki2
+Unless of course you think you can whittle down
+20 000 of my hit points without me using my
+full recovery skill.
+Ha, do your best.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
 『ダメージを与えていけば、必ず勝てる』
 
 ………そう思ってるのかい？
-> CONTEXT: Troops/256/pages/2/0/Dialogue/hyakki2 < UNTRANSLATED
-
+> CONTEXT: Troops/256/pages/2/0/Dialogue/hyakki2
+Are you thinking that as long as you keep doing
+damage you'll eventually win?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -10076,24 +10114,28 @@ Hyakki G Route#Ron
 自分に突破できない戦いはない……
 
 そんな慢心を持ってるんじゃないだろうネ？
-> CONTEXT: Troops/256/pages/2/4/Dialogue/hyakki2 < UNTRANSLATED
-
+> CONTEXT: Troops/256/pages/2/4/Dialogue/hyakki2
+You're probably conceited enough to think that as
+long as you can refine your strategy and attack
+patterns that there's no battle you can't
+eventually win.#Ron
 > END STRING
 
 > BEGIN STRING
 私はアンタを絶望させるためにここに来たんだよ。
 
 そんな期待、今すぐに捨てた方がいい
-> CONTEXT: Troops/256/pages/2/9/Dialogue/hyakki2 < UNTRANSLATED
-
+> CONTEXT: Troops/256/pages/2/9/Dialogue/hyakki2
+I'm here to instill hopelessness into you, so
+you're better off discarding those expectations.#Ron
 > END STRING
 
 > BEGIN STRING
 アンタには
 
 \\C[10]微塵も　　　勝機は　　　　ない
-> CONTEXT: Troops/256/pages/2/13/Dialogue/hyakki2 < UNTRANSLATED
-
+> CONTEXT: Troops/256/pages/2/13/Dialogue/hyakki2
+You have 	\\C[10]no hope\\C[0]	of winning.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -10206,16 +10248,19 @@ Justifying your mistakes...#Ron
 
 『相手を裏切るのが好きでたまらない』
 『相手の感情なんて知ったことじゃない』
-> CONTEXT: Troops/256/pages/4/13/Dialogue/hyakki2 < UNTRANSLATED
-
+> CONTEXT: Troops/256/pages/4/13/Dialogue/hyakki2
+How about you just admit that you love betraying
+others? That you don't care anyone else's
+feelings?#Ron
 > END STRING
 
 > BEGIN STRING
 欲望に対しては正直かもしれないけど
 
 アンタは最低の人間だヨ
-> CONTEXT: Troops/256/pages/4/18/Dialogue/hyakki2 < UNTRANSLATED
-
+> CONTEXT: Troops/256/pages/4/18/Dialogue/hyakki2
+You may be honest with your desires, but you
+really are the worst human being alive.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -10271,8 +10316,9 @@ I'm not cut out for this...#Ron
 これ以上時間を無駄にしたくないんだよ……
 
 だから、いっそストレートにいこうじゃないか
-> CONTEXT: Troops/256/pages/6/18/Dialogue/hyakki < UNTRANSLATED
-
+> CONTEXT: Troops/256/pages/6/18/Dialogue/hyakki
+I don't want to waste any more time than this, so
+I'll give it to you straight.#Ron
 > END STRING
 
 > BEGIN STRING
