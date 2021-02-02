@@ -710,7 +710,7 @@ EX世界での注意点
 > CONTEXT: Map293/events/7/pages/0/106/Choice/0 
 > CONTEXT: Map377/events/7/pages/0/106/Choice/0
 > CONTEXT: Map417/events/7/pages/0/106/Choice/0
-Cautions in the EX world#GT
+Points to note about EX Worlds#Ron
 > END STRING
 
 > BEGIN STRING
@@ -718,7 +718,7 @@ Cautions in the EX world#GT
 > CONTEXT: Map293/events/7/pages/0/106/Choice/1 
 > CONTEXT: Map377/events/7/pages/0/106/Choice/1
 > CONTEXT: Map417/events/7/pages/0/106/Choice/1
-Listen to advice#GT
+Ask for advice#Ron
 > END STRING
 
 > BEGIN STRING
@@ -729,10 +729,9 @@ Listen to advice#GT
 > CONTEXT: Map293/events/7/pages/0/108/Dialogue 
 > CONTEXT: Map377/events/7/pages/0/108/Dialogue
 > CONTEXT: Map417/events/7/pages/0/108/Dialogue
-You are heading "a different world from
-your world".
-So, what's "being there natural" for you
-It may not exist in the world over there.#GT
+You are heading to a world that is different from your
+own. That means that things you take for granted as
+existing in your world, might not exist in these ones.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -743,12 +742,10 @@ It may not exist in the world over there.#GT
 > CONTEXT: Map293/events/7/pages/0/113/Dialogue 
 > CONTEXT: Map377/events/7/pages/0/113/Dialogue
 > CONTEXT: Map417/events/7/pages/0/113/Dialogue
-For example, \\C[2] "Replacement facility". \\C[0]
-If the military of the world is not adopted,
-there is no "capsule".
-
-Where there is no army, there may not
-be a rest area itself.#GT
+Take for example the \\C[2]safe rooms\\C[0].
+The military in those worlds didn't adopt the use of
+"capsule" technology, and safe rooms themselves won't have
+been set up in places without a military presence.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -758,12 +755,10 @@ be a rest area itself.#GT
 > CONTEXT: Map293/events/7/pages/0/118/Dialogue 
 > CONTEXT: Map377/events/7/pages/0/118/Dialogue
 > CONTEXT: Map417/events/7/pages/0/118/Dialogue
-If there are no more demons,
- you can not refill the item.
+Also, if Hyakki isn't around then there won't be any means
+of replenishing items, either.
 
- 
-............\\C[10] "rare thing" \\C[0] would
-have been there, though.#GT
+\\C[10]She may turn up on rare occasions, though\\C[0].#CheckLater
 > END STRING
 
 > BEGIN STRING
@@ -773,9 +768,10 @@ have been there, though.#GT
 > CONTEXT: Map293/events/7/pages/0/122/Dialogue 
 > CONTEXT: Map377/events/7/pages/0/122/Dialogue
 > CONTEXT: Map417/events/7/pages/0/122/Dialogue
-\\C[2] The only thing that is sure is "save" and "storage BOX".
+\\C[2]The only things you will definitely be able to make use
+of are saving and the item box.
 
-Make sure you have enough items before you try.#GT
+Make sure you have enough items before going in.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -785,9 +781,8 @@ Make sure you have enough items before you try.#GT
 > CONTEXT: Map293/events/7/pages/0/128/Dialogue 
 > CONTEXT: Map377/events/7/pages/0/128/Dialogue
 > CONTEXT: Map417/events/7/pages/0/128/Dialogue
-About the battle with the devil ahead
-
-I will give you advice if you get a caries.#GT
+I can give you advice about battling the demons ahead
+if you've ended up getting some corruption from them.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -795,7 +790,7 @@ I will give you advice if you get a caries.#GT
 > CONTEXT: Map293/events/7/pages/0/132/Dialogue 
 > CONTEXT: Map377/events/7/pages/0/132/Dialogue
 > CONTEXT: Map417/events/7/pages/0/132/Dialogue
-Who do you want to ask?#GT
+Who do you want to ask about?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -803,7 +798,7 @@ Who do you want to ask?#GT
 > CONTEXT: Map293/events/7/pages/0/134/Choice/0 
 > CONTEXT: Map377/events/7/pages/0/134/Choice/0
 > CONTEXT: Map417/events/7/pages/0/134/Choice/0
-Beetle Harpy if(v[35] \>= 1)#GT 
+Harpy Spawnif(v[35] \>= 1)#Ron
 > END STRING
 
 > BEGIN STRING
