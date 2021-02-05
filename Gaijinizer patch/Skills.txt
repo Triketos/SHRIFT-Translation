@@ -494,15 +494,15 @@ Saves your willpower, but won't stop status ailments.#Dargoth
 > END STRING
 
 > BEGIN STRING
-防御態勢
+防御体勢
 > CONTEXT: Skills/20/name
-Defensive Posture#Dargoth
+Defensive Stance#Dargoth
 > END STRING
 
 > BEGIN STRING
 は防御体勢をとった！！
 > CONTEXT: Skills/20/message1
- takes a defensive posture!#Dargoth
+ takes a defensive stance!#Dargoth
 > END STRING
 
 > BEGIN STRING
@@ -532,10 +532,9 @@ Love Drain#Dargoth
 > END STRING
 
 > BEGIN STRING
-の精液が相手に吸収されていく…
+へ精気が吸収されていく…
 > CONTEXT: Skills/22/message1
-> CONTEXT: Skills/24/message1
-'s semen is being absorbed by his partner...#Dargoth
+ is absorbing his energy.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -578,6 +577,12 @@ He feels the life being sucked out of his body as well...#Dargoth
 > CONTEXT: States/178/name
 > CONTEXT: States/179/name
 Energy Drain#Dargoth
+> END STRING
+
+> BEGIN STRING
+の精液が相手に吸収されていく…
+> CONTEXT: Skills/24/message1
+'s semen is being absorbed by his partner...#Dargoth
 > END STRING
 
 > BEGIN STRING
@@ -1115,8 +1120,9 @@ Desperate Dash#Ron
 > BEGIN STRING
 恐怖に耐えきれずに助けを求める
 感情が恐怖に支配されてしまいとても危険
-> CONTEXT: Skills/71/description < UNTRANSLATED
-
+> CONTEXT: Skills/71/description
+Call out for rescue from the unbearable terror.
+Succumbing to fear is dangerous.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1631,6 +1637,7 @@ of the user for 5 turns.#afrg
 > CONTEXT: Skills/591/description
 > CONTEXT: Skills/626/description
 > CONTEXT: Skills/883/description
+> CONTEXT: Skills/898/description
 Makes it less likely to be affected by Ecstasy, Puppet,
 Panic, and Fear for 5 turns.#afrgPR
 > END STRING
@@ -1791,6 +1798,7 @@ Pure pleasure courses through his veins and saps his strength...#Dargoth
 > CONTEXT: Skills/305/description
 > CONTEXT: Skills/333/description
 > CONTEXT: Skills/334/description
+> CONTEXT: Skills/344/description
 > CONTEXT: Skills/364/description
 > CONTEXT: Skills/366/description
 > CONTEXT: Skills/368/description
@@ -1949,6 +1957,7 @@ Beast Claw#Dargoth
 > CONTEXT: Skills/695/description
 > CONTEXT: Skills/696/description
 > CONTEXT: Skills/768/description
+> CONTEXT: Skills/770/description
 > CONTEXT: Skills/796/description
 > CONTEXT: Skills/799/description
 > CONTEXT: Skills/800/description
@@ -3073,27 +3082,29 @@ Spatial Perversion (Magic)#Dargoth
 > BEGIN STRING
 相手が人間の場合、触れただけで精気を吸い尽くしてしまう
 相手の亡骸には、魂すらも残らない
-> CONTEXT: Skills/208/description < UNTRANSLATED
-
+> CONTEXT: Skills/208/description
+Can completely drain human opponents just by
+touching them, taking even their souls.#Ron
 > END STRING
 
 > BEGIN STRING
 恐神の精吸
-> CONTEXT: Skills/208/name < UNTRANSLATED
-
+> CONTEXT: Skills/208/name
+God of Fear Energy Drain#CheckLater
 > END STRING
 
 > BEGIN STRING
 魔法のダメージや回復量が1.2倍になる
 ブースター系は効果が重複する
-> CONTEXT: Skills/209/description < UNTRANSLATED
-
+> CONTEXT: Skills/209/description
+Magic damage and healing increased by 20%. Effect
+of the booster can stack with similar abilities.#Ron
 > END STRING
 
 > BEGIN STRING
 魔法ブースタ
-> CONTEXT: Skills/209/name < UNTRANSLATED
-
+> CONTEXT: Skills/209/name
+Magic Booster#Ron
 > END STRING
 
 > BEGIN STRING
@@ -3229,14 +3240,15 @@ Special accident battles can occur against this monster.#Dargoth
 > BEGIN STRING
 魔法のダメージや回復量が1.5倍になる
 ブースター系は効果が重複する
-> CONTEXT: Skills/220/description < UNTRANSLATED
-
+> CONTEXT: Skills/220/description
+Magic damage and healing increased by 50%. Effect
+of the booster can stack with similar abilities.#Ron
 > END STRING
 
 > BEGIN STRING
 魔法ハイブースタ
-> CONTEXT: Skills/220/name < UNTRANSLATED
-
+> CONTEXT: Skills/220/name
+High Magic Booster#Ron
 > END STRING
 
 > BEGIN STRING
@@ -3256,14 +3268,15 @@ the human will. \\C[10]There's no time to hesitate!#Dargoth
 > BEGIN STRING
 魔法のダメージや回復量が3倍になる
 ブースター系は効果が重複する
-> CONTEXT: Skills/244/description < UNTRANSLATED
-
+> CONTEXT: Skills/244/description
+Magic damage and healing increased by 200%. Effect
+of the booster can stack with similar abilities.#Ron
 > END STRING
 
 > BEGIN STRING
 魔法ギガブースタ
-> CONTEXT: Skills/244/name < UNTRANSLATED
-
+> CONTEXT: Skills/244/name
+Giga Magic Booster#Ron
 > END STRING
 
 > BEGIN STRING
@@ -3296,27 +3309,29 @@ An overload of pleasure is crushing \\N[1]'s willpower...#Dargoth
 > BEGIN STRING
 不利なステータス異常を全て無効化する
 精神系の有利なステータスの効果時間が２倍になる
-> CONTEXT: Skills/247/description < UNTRANSLATED
-
+> CONTEXT: Skills/247/description
+Nullifies negative or abnormal status effects.
+Doubles duration of positive mental status effects.#Ron
 > END STRING
 
 > BEGIN STRING
 夢魔の極致
-> CONTEXT: Skills/247/name < UNTRANSLATED
-
+> CONTEXT: Skills/247/name
+Succubus' Perfection#Ron
 > END STRING
 
 > BEGIN STRING
 このスキルを持つ相手と戦闘になった相手は
 アイテム使用を含めた全ての逃走が不可になる
-> CONTEXT: Skills/248/description < UNTRANSLATED
-
+> CONTEXT: Skills/248/description
+By having this skill, any opponents you fight will
+not be able to run away even by using items.#Ron
 > END STRING
 
 > BEGIN STRING
 夢魔の眼光
-> CONTEXT: Skills/248/name < UNTRANSLATED
-
+> CONTEXT: Skills/248/name
+Succubus' Discerning Eyes#Ron
 > END STRING
 
 > BEGIN STRING
@@ -3820,14 +3835,14 @@ It overflows with a strange power!#Dargoth
 
 > BEGIN STRING
 白魔女のお守り
-> CONTEXT: Skills/286/name < UNTRANSLATED
-
+> CONTEXT: Skills/286/name
+White Witch's Charm#Ron
 > END STRING
 
 > BEGIN STRING
 の白魔女のお守りが光り出した！
-> CONTEXT: Skills/286/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/286/message1
+'s White Witch's Charm shines!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -4164,27 +4179,28 @@ Spell#afrg
 
 > BEGIN STRING
 万能を含む全ての攻撃のダメージを85％軽減する
-> CONTEXT: Skills/308/description < UNTRANSLATED
-
+> CONTEXT: Skills/308/description
+Reduces damage from all sources by 85%.#Ron
 > END STRING
 
 > BEGIN STRING
 全門耐性
-> CONTEXT: Skills/308/name < UNTRANSLATED
-
+> CONTEXT: Skills/308/name
+All-Round Resistance#Ron
 > END STRING
 
 > BEGIN STRING
 相手の属性耐性・吸収・反射・無効を全て無効化する。
 弱点属性の場合、ダメージ倍率を＋200％
-> CONTEXT: Skills/309/description < UNTRANSLATED
-
+> CONTEXT: Skills/309/description
+Nullifies all of your opponent's resistances. All damage
+done to opponent's weaknesses increased by 200%.
 > END STRING
 
 > BEGIN STRING
 全門貫通
-> CONTEXT: Skills/309/name < UNTRANSLATED
-
+> CONTEXT: Skills/309/name
+All-Round Penetration#Ron
 > END STRING
 
 > BEGIN STRING
@@ -4355,6 +4371,7 @@ causing extra damage to your opponent.#Triketos
 > BEGIN STRING
 ジェノサイドショット
 > CONTEXT: Skills/319/name
+> CONTEXT: Skills/321/name
 Genocide Shot#Triketos
 > END STRING
 
@@ -4374,8 +4391,9 @@ Reload#Triketos
 > BEGIN STRING
 ５発のミサイルを連続で撃ち、相手に特大ダメージを与える。
 
-> CONTEXT: Skills/321/description < UNTRANSLATED
-
+> CONTEXT: Skills/321/description
+Shoots five missiles in rapid succession. Will do
+substantial damage to your opponent.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -4591,6 +4609,24 @@ Draining Breath#afrg
 は\\N[1]に脱力ガスを吹きかけてきた！！
 > CONTEXT: Skills/343/message1
  blows strength-draining breath at \\N[1]!#afrg
+> END STRING
+
+> BEGIN STRING
+モフモフで大きな手が、\\N[1]に喰らいついてくる！
+> CONTEXT: Skills/344/message2
+ grabs \\N[1] with her big fluffy hands!#Ron
+> END STRING
+
+> BEGIN STRING
+モフ楽浄土
+> CONTEXT: Skills/344/name
+Fluffy Paradise#Ron
+> END STRING
+
+> BEGIN STRING
+は\\n[1]のペニスを手でもみしだいた！
+> CONTEXT: Skills/344/message1
+ rubs \\n[1]'s penis with her hands!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -6278,6 +6314,38 @@ Listen#afrg
 > END STRING
 
 > BEGIN STRING
+相手の全能力を２段階下げる。
+> CONTEXT: Skills/496/description
+> CONTEXT: Skills/497/description
+> CONTEXT: Skills/735/description
+Drops opponent's level by 2.#Ron
+> END STRING
+
+> BEGIN STRING
+オーラブレイク
+> CONTEXT: Skills/496/name
+Aura Break#Ron
+> END STRING
+
+> BEGIN STRING
+はオーラブレイクを放った！
+> CONTEXT: Skills/496/message1
+ unleashes Aura Break!#Ron
+> END STRING
+
+> BEGIN STRING
+マジックブレイク
+> CONTEXT: Skills/497/name
+Magic Break#Ron
+> END STRING
+
+> BEGIN STRING
+はマジックブレイクを放った！
+> CONTEXT: Skills/497/message1
+ unleashes Magic Break!#Ron
+> END STRING
+
+> BEGIN STRING
 こころをおちつかせる？
 > CONTEXT: Skills/498/description
 Will you calm down a little?#afrg
@@ -6631,6 +6699,7 @@ Shell (Gale)#afrgPR
 > CONTEXT: Skills/536/description
 > CONTEXT: Skills/537/description
 > CONTEXT: Skills/538/description
+> CONTEXT: Skills/890/description
 Loads a shell.
 Unused bullets remain in the gun.#afrgPR
 > END STRING
@@ -7946,14 +8015,14 @@ Paralytic Faerie Needle#Triketos
 
 > BEGIN STRING
 チャージ
-> CONTEXT: Skills/709/name < UNTRANSLATED
-
+> CONTEXT: Skills/709/name
+Charge#Ron
 > END STRING
 
 > BEGIN STRING
 は力を溜めた！
-> CONTEXT: Skills/709/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/709/message1
+ builds up power!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -7992,8 +8061,9 @@ Whirlwind#afrg
 
 > BEGIN STRING
 味方全体の抵抗力・気力を全回復する
-> CONTEXT: Skills/715/description < UNTRANSLATED
-
+> CONTEXT: Skills/715/description
+Fully restores the Willpower and Vitality of all
+allies.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -8127,34 +8197,36 @@ All Delteca#afrg
 > BEGIN STRING
 火属性の超特大ダメージを与える。
 これを覚えるのには強大な魔力を操れる必要がある。
-> CONTEXT: Skills/736/description < UNTRANSLATED
-
+> CONTEXT: Skills/736/description
+Deals massive fire damage. Requires a significant
+amount of magic power in order to learn.#Ron
 > END STRING
 
 > BEGIN STRING
 サイガ・アグニ
-> CONTEXT: Skills/736/name < UNTRANSLATED
-
+> CONTEXT: Skills/736/name
+Psiga Agony#CheckLater
 > END STRING
 
 > BEGIN STRING
 はサイガ・アグニを放った！
-> CONTEXT: Skills/736/message1 < UNTRANSLATED
-> CONTEXT: Skills/737/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/736/message1
+> CONTEXT: Skills/737/message1
+ unleashes Psiga Agony!#Ron
 > END STRING
 
 > BEGIN STRING
 氷属性の超特大ダメージを与える。
 これを覚えるのには強大な魔力を操れる必要がある。
-> CONTEXT: Skills/737/description < UNTRANSLATED
-
+> CONTEXT: Skills/737/description
+Deals massive ice damage. Requires a significant
+amount of magic power in order to learn.#Ron
 > END STRING
 
 > BEGIN STRING
 サイガ・フロスト
-> CONTEXT: Skills/737/name < UNTRANSLATED
-
+> CONTEXT: Skills/737/name
+Psiga Frost#CheckLater
 > END STRING
 
 > BEGIN STRING
@@ -8261,20 +8333,21 @@ Beast Claw (Serious)#afrg
 > BEGIN STRING
 風属性の超特大ダメージを与える。
 これを覚えるのには強大な魔力を操れる必要がある。
-> CONTEXT: Skills/749/description < UNTRANSLATED
-
+> CONTEXT: Skills/749/description
+Deals massive wind damage. Requires a significant
+amount of magic power in order to learn.#Ron
 > END STRING
 
 > BEGIN STRING
 サイガ・ガルダ
-> CONTEXT: Skills/749/name < UNTRANSLATED
-
+> CONTEXT: Skills/749/name
+Psiga Garuda#Ron
 > END STRING
 
 > BEGIN STRING
 はサイガ・ガルダを放った！
-> CONTEXT: Skills/749/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/749/message1
+ unleashes Psiga Garuda!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -8458,15 +8531,26 @@ Enchanting Eyes#afrg
 > BEGIN STRING
 は魅了眼を放った！
 > CONTEXT: Skills/768/message1
- cast Enchanting Eyes#afrg
+ cast Enchanting Eyes!#afrg
+> END STRING
+
+> BEGIN STRING
+ファイナルヘヴン
+> CONTEXT: Skills/770/name
+Final Heaven#Ron
+> END STRING
+
+> BEGIN STRING
+はファイナルヘヴンを放った！
+> CONTEXT: Skills/770/message1
+ unleashes Final Heaven!#Ron
 > END STRING
 
 > BEGIN STRING
 敵単体に物理の小ダメージを与える。
 > CONTEXT: Skills/771/description
 > CONTEXT: Skills/772/description
-Inflicts small physical damage to a single enemy.
-                                                            #MTLed
+Inflicts minor physical damage to a single enemy.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -9334,26 +9418,26 @@ Siren's Voice#Triketos
 
 > BEGIN STRING
 \\N[1]は、柔らかそうなおっぱいから目が離せない…！！
-> CONTEXT: Skills/866/message2 < UNTRANSLATED
-
+> CONTEXT: Skills/866/message2
+\\N[1] can't take his eyes off her soft tits!#Ron
 > END STRING
 
 > BEGIN STRING
 もはや\\N[1]は、その刺激的な快楽に溺れるしかない……
-> CONTEXT: Skills/867/message2 < UNTRANSLATED
-
+> CONTEXT: Skills/867/message2
+\\N[1] now thinks only of indulging in the pleasure!#RonLocalization
 > END STRING
 
 > BEGIN STRING
 捕食
-> CONTEXT: Skills/867/name < UNTRANSLATED
-
+> CONTEXT: Skills/867/name
+Predation#Ron
 > END STRING
 
 > BEGIN STRING
 は、\\N[1]の下半身に喰らいつき、エキスを啜っている…
-> CONTEXT: Skills/867/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/867/message1
+ clings to \\N[1], slurping extract from his lower half!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -9662,12 +9746,6 @@ Focus your mind to gather your magic.#TriketosPartial
 > BEGIN STRING
 ＨＰ回復（単体）
 > CONTEXT: Skills/894/description < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-赤リンゴ
-> CONTEXT: Skills/894/name < UNTRANSLATED
 
 > END STRING
 
