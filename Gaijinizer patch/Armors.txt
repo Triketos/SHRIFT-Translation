@@ -6,6 +6,7 @@
 > CONTEXT: Armors/2/description
 > CONTEXT: Armors/3/description
 > CONTEXT: Armors/5/description
+> CONTEXT: Armors/90/description
 A special hospital gown that protects the skin against
 viruses. It becomes ineffective when taken off.#DargothPR
 > END STRING
@@ -52,14 +53,14 @@ Hospital Gown (Spectator)#Dargoth
 これを装備してゲームオーバーになると
 敗北シーンに入る前に『クリア部屋』へ転送される。
 > CONTEXT: Armors/6/description
-Equip this and become game over
-It is transferred to the "clear room" before entering the defeat scene.#GT
+If you get a Game Over with this equipped, you will be
+transported to the "Clear Room" before the loss scene.#Strate
 > END STRING
 
 > BEGIN STRING
 白金の免罪符
 > CONTEXT: Armors/6/name
-Platinum Indemnity#GT
+Platinum Indulgence#Strate
 > END STRING
 
 > BEGIN STRING
@@ -183,16 +184,45 @@ Dragon Fang#Lvl1
 > END STRING
 
 > BEGIN STRING
+ガントレットを銃に取り付けられるように改造したもの
+片手武器の場合、アタッチメントに装備できるようになる。
+> CONTEXT: Armors/17/description
+A modified Gauntlet that can be attached to a gun.
+Allows one-handed guns to equip attachments.#Strate
+> END STRING
+
+> BEGIN STRING
+バトルグローブ
+> CONTEXT: Armors/17/name
+Battle Glove#Strate
+> END STRING
+
+> BEGIN STRING
+マジックフレームとバトルグローブを合成したもの
+ハンドガン以外の片手武器で装備できる。
+> CONTEXT: Armors/18/description
+A combination of Magic Frame and Battle Glove.
+Allows one-handed weapons other than guns to equip attachments.#Strate
+> END STRING
+
+> BEGIN STRING
+エーテルグローブ
+> CONTEXT: Armors/18/name
+Ether Glove#Strate
+> END STRING
+
+> BEGIN STRING
 身体のラインを強調した、露出の高いルシィの衣服
 だがその性的な外見が、誘惑に使われたことはない。
-> CONTEXT: Armors/19/description < UNTRANSLATED
-
+> CONTEXT: Armors/19/description
+Lucy's highly revealing clothes that accentuate body lines.
+Yet, its sensual looks have never been used for temptation.#Strate
 > END STRING
 
 > BEGIN STRING
 失楽の黒衣
-> CONTEXT: Armors/19/name < UNTRANSLATED
-> CONTEXT: Armors/53/name < UNTRANSLATED
+> CONTEXT: Armors/19/name
+> CONTEXT: Armors/53/name
 Condemned Clothes#Dargoth
 > END STRING
 
@@ -284,66 +314,71 @@ Obedience Bracelet#Strate
 > BEGIN STRING
 豪華に装飾された、至高のもっふもふローブ
 魔法に関しての属性への耐性と、魔法・敏捷上昇の効果がある
-> CONTEXT: Armors/35/description < UNTRANSLATED
-
+> CONTEXT: Armors/35/description
+Lavishly decorated, supremely fluffy robe.
+Resists magic damage while increasing magic and agility.#Strate
 > END STRING
 
 > BEGIN STRING
 ケモナーローブ
-> CONTEXT: Armors/35/name < UNTRANSLATED
-
+> CONTEXT: Armors/35/name
+Fluffiest Robe#Strate
 > END STRING
 
 > BEGIN STRING
 もふもふな悪魔たちの魔力が集結したローブ
 魔法の属性攻撃と、性欲上昇量に対して大幅な耐性を得る
-> CONTEXT: Armors/36/description < UNTRANSLATED
-
+> CONTEXT: Armors/36/description
+A robe that holds the gathered magic power of fluffy demons.
+Provides significant resistance to magic and lust buildup.#Strate
 > END STRING
 
 > BEGIN STRING
 モコモコローブ
-> CONTEXT: Armors/36/name < UNTRANSLATED
-
+> CONTEXT: Armors/36/name
+Fluffy Robe#Strate
 > END STRING
 
 > BEGIN STRING
 物理ダメージを90％軽減。
 混乱、出血、愛液まみれ無効。スタン、脱力確率を半減する。
-> CONTEXT: Armors/37/description < UNTRANSLATED
-
+> CONTEXT: Armors/37/description
+Reduces physical damage taken by 90%. Negates Confused,
+Bleeding and Soaked. Halves chance of Stun and Weakness.#StrateUnsure
 > END STRING
 
 > BEGIN STRING
 リア・マーク・プロト
-> CONTEXT: Armors/37/name < UNTRANSLATED
-
+> CONTEXT: Armors/37/name
+Rear Mark Proto#StrateUnsure
 > END STRING
 
 > BEGIN STRING
 魔法攻撃に少しだけ弱くなるが
 物理ダメージを80％軽減。混乱、出血、愛液まみれ無効。
-> CONTEXT: Armors/38/description < UNTRANSLATED
-
+> CONTEXT: Armors/38/description
+Increases magic damage taken slightly, but reduces physical
+damage taken by 80%. Negates Confused, Bleeding and Soaked.#Strate
 > END STRING
 
 > BEGIN STRING
 フィジカルアーマー
-> CONTEXT: Armors/38/name < UNTRANSLATED
-
+> CONTEXT: Armors/38/name
+Physical Armor#Strate
 > END STRING
 
 > BEGIN STRING
 『恍惚』から『魅了』に重複するのを防いでくれて
 戦闘中に一回だけ、『朦朧』状態を解除してくれる御守り
-> CONTEXT: Armors/39/description < UNTRANSLATED
-
+> CONTEXT: Armors/39/description
+Prevents repetition from [Ecstasy] to [Charmed].
+Once per battle, protects you from the [Dazed] state.#Strate
 > END STRING
 
 > BEGIN STRING
 白魔女の御守り
-> CONTEXT: Armors/39/name < UNTRANSLATED
-
+> CONTEXT: Armors/39/name
+White Witch's Amulet#Strate
 > END STRING
 
 > BEGIN STRING
@@ -671,6 +706,7 @@ Greatly increases Willpower while greatly lowering Magic.#afrgPR
 > BEGIN STRING
 約束の頭飾り
 > CONTEXT: Armors/63/name
+> CONTEXT: Armors/78/name
 Tiara of Destiny#afrg
 > END STRING
 
@@ -720,8 +756,8 @@ Old Rosary#afrg
 エコーのナメクジ部分の粘液。
 相手の身体を突き飛ばした際、抵抗と気力を５０％回復する。
 > CONTEXT: Armors/67/description
-Mucus in the slug portion of Echo. When the opponent's body
-is knocked out, restore 50% of the struggle and vitality.#MTLed
+Mucus from Echo's slug form. Restores 50% Willpower
+and Vitality when breaking out of an opponent's bind.#StrateLocalization
 > END STRING
 
 > BEGIN STRING
@@ -878,18 +914,16 @@ Large Encyclopedia of Riddles#Ron
 ニーナが昔、何故か大事に持っていたものらしい。
 手元にあるだけで、不思議と力が湧いてくる。
 > CONTEXT: Armors/78/description
-It seems that Nina used to be important for a
-long time ago. Just by being at hand, wonder
-and power come true.#GT
+It seems to have been very important to Nina in the past.
+Just by holding it in your hand, a wondrous power surges forth.#Strate
 > END STRING
 
 > BEGIN STRING
 ハーピーモドキ・クイーンの力が秘められた羽根。
 魔法・気力が上昇するが、物理ダメージに弱くなる。
 > CONTEXT: Armors/79/description
-A feather with the power of Harpy Modoki Queen
-hidden. Increases magic and energy but weakens
-to physical damage. #GT
+A feather hiding the power of the Harpy Queen.
+Increases Magic and Vitality, but reduces physical defense.#StrateLocalization
 > END STRING
 
 > BEGIN STRING
@@ -910,6 +944,54 @@ animal. It looks like it's about to fall apart.#Ron
 古ぼけた首輪
 > CONTEXT: Armors/80/name
 Worn-Out Collar#Ron
+> END STRING
+
+> BEGIN STRING
+布の服
+> CONTEXT: Armors/90/name
+Cloth Clothes#StrateUnsure
+> END STRING
+
+> BEGIN STRING
+先代の愛用していた全身を覆う銀の鎧。
+狙われやすさと防御力が強化される。
+> CONTEXT: Armors/99/description
+> CONTEXT: Armors/100/description
+Full-body silver armor used by the previous generation.
+Makes you more easily targeted, but strengthens defense.#StrateUnsureLocalization
+> END STRING
+
+> BEGIN STRING
+サイトウプレート・鉄
+> CONTEXT: Armors/99/name
+Saito Plate (Iron)#Strate
+> END STRING
+
+> BEGIN STRING
+サイトウプレート・銀
+> CONTEXT: Armors/100/name
+Saito Plate (Silver)#Strate
+> END STRING
+
+> BEGIN STRING
+先代の愛用していた全身を覆う銀の鎧。
+
+> CONTEXT: Armors/101/description
+> CONTEXT: Armors/102/description
+Full-body silver armor used by the previous generation.#Strate
+> END STRING
+
+> BEGIN STRING
+緑リンゴ
+> CONTEXT: Armors/101/name
+Green Apple#Strate
+> END STRING
+
+> BEGIN STRING
+赤リンゴ
+> CONTEXT: Armors/102/name
+> CONTEXT: Skills/894/name
+Red Apple#Strate
 > END STRING
 
 > BEGIN STRING
