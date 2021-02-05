@@ -339,9 +339,9 @@ I'll finish carrying you in the meantime...#Ron
 どうやら、１度や２度じゃ分からないみたいだネ
 > CONTEXT: Map275/events/7/pages/1/12/Dialogue/hyakki
 > CONTEXT: Map275/events/2/pages/1/9/Dialogue/hyakki
-...
+......
 
-Looks like it takes you one or two tries before
+Looks like it'll take one or two tries before
 you get the message.#Ron
 > END STRING
 
@@ -443,7 +443,7 @@ I'm fed up with this whole thing.#Ron
 \\C[10]………アンタはあといくつ、こんな世界を作る気だい。
 > CONTEXT: Map275/events/7/pages/4/13/Dialogue/hyakki
 > CONTEXT: Map275/events/2/pages/4/10/Dialogue/hyakki
-\\C[10]How many of these worlds are you going to
+\\C[10]...How many of these worlds are you going to
 create?#Ron
 > END STRING
 
@@ -529,9 +529,10 @@ forward.#RonIffyWording
 \\C[0]まぁ、せいぜいがんばりな
 > CONTEXT: Map275/events/7/pages/4/91/Dialogue/hyakki2
 > CONTEXT: Map275/events/2/pages/4/88/Dialogue/hyakki2
-\\C[2]I have 30 000 HP. If you manage to shave off
-6000 then I'll start using complete recovery
-magic. \\C[0]Good luck with that knowledge.#RonIffyWording
+\\C[2]I have 30,000 HP. If you manage to shave off
+6,000 then I'll start using full recovery magic.
+
+\\C[0]Good luck knowing that.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
