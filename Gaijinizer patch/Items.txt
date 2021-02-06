@@ -907,53 +907,57 @@ The Tengu Prince#Triketos
 > BEGIN STRING
 崇高を意味する白色の宝石。売ってもお金になる。
 \\C[14]妖魔に対して\\C[0]プレゼントすると、友好度が上がる。
-> CONTEXT: Items/91/description < UNTRANSLATED
-
+> CONTEXT: Items/91/description
+A white jewel symbolizing nobleness. Can be sold for money.
+\\C[14]Increases friendship when given to a demon\\C[0].#Strate
 > END STRING
 
 > BEGIN STRING
 ラピスラズリ
-> CONTEXT: Items/91/name < UNTRANSLATED
-
+> CONTEXT: Items/91/name
+Lapis Lazuli#Strate
 > END STRING
 
 > BEGIN STRING
 難易度『挑戦者』を真慈悲でクリアした者へ送られる証
 \\C[14]悪魔に対して\\C[0]プレゼントで見せると褒められる。
-> CONTEXT: Items/92/description < UNTRANSLATED
-
+> CONTEXT: Items/92/description
+Proof of having cleared True Mercy on "Hardcore" difficulty.
+\\C[14]If you show it to a demon,\\C[0] you will be praised.#StrateLocalization
 > END STRING
 
 > BEGIN STRING
 達成者の証
-> CONTEXT: Items/92/name < UNTRANSLATED
-
+> CONTEXT: Items/92/name
+Proof of Accomplishment#Strate
 > END STRING
 
 > BEGIN STRING
 宝石の魔力を凝縮した、エネルギー爆弾。
 属性無視の５００程度の魔法ダメージを与える
-> CONTEXT: Items/94/description < UNTRANSLATED
-
+> CONTEXT: Items/94/description
+An energy bomb containing the consensed magic power of gems.
+Deals about 500 damage, ignoring attributes.#StrateUnsure
 > END STRING
 
 > BEGIN STRING
 ジュエルボム
-> CONTEXT: Items/94/name < UNTRANSLATED
-
+> CONTEXT: Items/94/name
+Jewel Bomb#Strate
 > END STRING
 
 > BEGIN STRING
 ど　う　し　て　そ　う　な　る
 ホットリミット・クール・ボルテク・シルフを同時発動する
-> CONTEXT: Items/95/description < UNTRANSLATED
-
+> CONTEXT: Items/95/description
+W H Y  D O E S  T H I S  H A P P E N ?
+Activates Limit Break/Cool Calm/Voltaic Step/Sylph Storm.#Strate
 > END STRING
 
 > BEGIN STRING
 オムライス
-> CONTEXT: Items/95/name < UNTRANSLATED
-
+> CONTEXT: Items/95/name
+Omurice#Strate
 > END STRING
 
 > BEGIN STRING
@@ -1518,14 +1522,14 @@ Canned Coffee (Cold)#afrg
 
 > BEGIN STRING
 チェシャから渡された、お茶会の招待状。
-> CONTEXT: Items/138/description < UNTRANSLATED
-
+> CONTEXT: Items/138/description
+A tea party invitation from Cheshire.#Strate
 > END STRING
 
 > BEGIN STRING
 お茶会への招待状
-> CONTEXT: Items/138/name < UNTRANSLATED
-
+> CONTEXT: Items/138/name
+Invitation to a Tea Party#Strate
 > END STRING
 
 > BEGIN STRING
@@ -1674,8 +1678,8 @@ Memento (Imaginary)#Triketos
 
 > BEGIN STRING
 想ひ魂（芸猫）
-> CONTEXT: Items/212/name < UNTRANSLATED
-
+> CONTEXT: Items/212/name
+Memento (Cat Artist)#Strate
 > END STRING
 
 > BEGIN STRING

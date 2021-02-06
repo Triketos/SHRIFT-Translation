@@ -602,9 +602,9 @@ her face...#Ron
 ふらついてるぞ、\\N[1]。
 > CONTEXT: Map107/events/86/pages/0/2/Dialogue/other2
 > CONTEXT: Map107/events/7/pages/0/2/Dialogue/other2
-H-hey......
+H-hey...
 
-You're wobbling, \\N[1].#StrateTemporary
+You look wobbly there, \\N[1].#Strate
 > END STRING
 
 > BEGIN STRING
@@ -613,9 +613,9 @@ You're wobbling, \\N[1].#StrateTemporary
 ただちょっと……混乱しちゃって……
 > CONTEXT: Map107/events/86/pages/0/6/Dialogue/kazuya
 > CONTEXT: Map107/events/7/pages/0/6/Dialogue/kazuya
-I'm fine, I'm not particularly tired...
+I'm fine, I'm not that tired...
 
-Just a little...... confused......#StrateTemporary
+Just a little... confused...#Strate
 > END STRING
 
 > BEGIN STRING
@@ -625,9 +625,9 @@ Just a little...... confused......#StrateTemporary
 > CONTEXT: Map107/events/86/pages/0/10/Dialogue/other2
 > CONTEXT: Map107/events/7/pages/0/10/Dialogue/other2
 But you don't know when you'll be attacked
-again......
+again...
 
-There's a tent here, let's take a break.#StrateTemporary
+There's a tent here, you should take a break.#Strate
 > END STRING
 
 > BEGIN STRING
@@ -1271,9 +1271,9 @@ storage box, too!#Ron
 
 また私たちを殺す気なんでしょう……！
 > CONTEXT: Map107/events/9/pages/1/62/Dialogue/enemy13
-......I cannot let you go, \\N[1].
+...I cannot let you go, \\N[1].
 
-You might kill us again......!#Strate
+You might kill us again...!#Strate
 > END STRING
 
 > BEGIN STRING
@@ -1313,8 +1313,7 @@ towards her...!!#Strate
 > CONTEXT: Map107/events/9/pages/1/95/Dialogue/enemy13
 We are not "pebbles"!!
 
-You won't make me fall in love...... with someone
-like you...!!#StrateUnsure
+I won't let you do whatever you want!!#Strate
 > END STRING
 
 > BEGIN STRING
@@ -1343,9 +1342,9 @@ her body transformed into a horrific form...!!#Strate
  いかんせん、ちょいと『独占欲』が強くてサ……
 > CONTEXT: Map107/events/9/pages/1/164/Dialogue/hyakki
 Her name is "Echo".
+
 She's usually a kind and gentle girl, but 
-unfortunately her "desire to monopolize" is a
-little strong......#Strate
+unfortunately she can be quite possessive...#Strate
 > END STRING
 
 > BEGIN STRING
@@ -1354,10 +1353,10 @@ little strong......#Strate
  一連のやり取りを見て、他のエコーたちも
 \\N[1]のこと、『独占対象』だと思ってる。
 > CONTEXT: Map107/events/9/pages/1/177/Dialogue/hyakki
-I'm not too sure, but I think this is not
-something she usually does? Seeing that series of
-exchanges between you two, the other Echos will
-also want to "monopolize" you, \\N[1].#StrateUnsure
+I'm not completely sure, but I don't think this
+is how she normally behaves. After seeing what
+happened between you two, the other Echos will
+also probably want you for themselves, \\N[1]. #Strate
 > END STRING
 
 > BEGIN STRING
