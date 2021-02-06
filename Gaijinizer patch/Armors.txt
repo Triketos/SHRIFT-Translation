@@ -187,8 +187,8 @@ Dragon Fang#Lvl1
 ガントレットを銃に取り付けられるように改造したもの
 片手武器の場合、アタッチメントに装備できるようになる。
 > CONTEXT: Armors/17/description
-A modified Gauntlet that can be attached to a gun.
-Allows one-handed guns to equip attachments.#Strate
+A modified Gauntlet that can be used as an attachment.
+Can be equipped on any one-handed weapon.#Strate
 > END STRING
 
 > BEGIN STRING
@@ -201,8 +201,8 @@ Battle Glove#Strate
 マジックフレームとバトルグローブを合成したもの
 ハンドガン以外の片手武器で装備できる。
 > CONTEXT: Armors/18/description
-A combination of Magic Frame and Battle Glove.
-Allows one-handed weapons other than guns to equip attachments.#Strate
+A combination of Magic Frame and Battle Glove. Can be
+equipped on all one-handed weapons except the Handgun.#Strate
 > END STRING
 
 > BEGIN STRING
