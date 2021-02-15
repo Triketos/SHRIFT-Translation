@@ -190,7 +190,7 @@ my tribe, it's not really my "name"...#Ron
 > CONTEXT: Map107/events/5/pages/7/22/Dialogue/enemy13
 > CONTEXT: Map107/events/5/pages/8/0/Dialogue/enemy13
 > CONTEXT: Map107/events/5/pages/11/0/Dialogue/enemy13
-If there's anything I help with, ask away.
+If there's anything I can help with, ask away.
 
 I'm sure I can be of use to you...#Ron
 > END STRING
@@ -200,7 +200,9 @@ I'm sure I can be of use to you...#Ron
 
 あ、悪魔…………！？
 > CONTEXT: Map107/events/5/pages/5/1/Dialogue/kazuya
-Wow! I was surprised! Oh, demon ............! ?#MTLed
+Uwah! You startled me!
+
+A-A demon......!?#Strate
 > END STRING
 
 > BEGIN STRING
@@ -208,8 +210,9 @@ Wow! I was surprised! Oh, demon ............! ?#MTLed
 
  驚かせるつもりはなかったの………
 > CONTEXT: Map107/events/5/pages/5/6/Dialogue/enemy12
-……………………I'm sorry. I did not mean to surprise
-.........#MTLed
+......I'm sorry.
+
+I did not mean to surprise you......#Strate
 > END STRING
 
 > BEGIN STRING
@@ -217,19 +220,21 @@ Wow! I was surprised! Oh, demon ............! ?#MTLed
 
 あなた、\\N[1]よね……？
 > CONTEXT: Map107/events/5/pages/5/10/Dialogue/enemy12
-Hey ......... You, \\N[1], right?#MTLed
+Hey......
+
+You're \\N[1], right......?#Strate
 > END STRING
 
 > BEGIN STRING
 ど、どうして僕の名前を………？
 > CONTEXT: Map107/events/5/pages/5/15/Dialogue/kazuya
-How is my name .........?#MTLed
+H-how do you know my......?#Strate
 > END STRING
 
 > BEGIN STRING
 …………戻ってきてしまったのね。
 > CONTEXT: Map107/events/5/pages/5/18/Dialogue/enemy12
-............ I came back.#MTLed
+......You came back.#Strate
 > END STRING
 
 > BEGIN STRING
@@ -238,14 +243,14 @@ How is my name .........?#MTLed
  じっと\\N[1]を凝視している……
 > CONTEXT: Map107/events/5/pages/5/22/Dialogue
 > CONTEXT: Map107/events/5/pages/9/2/Dialogue
-The mermaid demon has a mouth. I'm staring closely at
-\\N[1] ...#MTLed
+The mermaid demon keeps silent and stares
+intently at \\N[1]......#Strate
 > END STRING
 
 > BEGIN STRING
 …………お前、なにかしたのか？
 > CONTEXT: Map107/events/5/pages/5/27/Dialogue/other2
-............ What did you do?#MTLed
+......What did you do to her?#StrateLocalization
 > END STRING
 
 > BEGIN STRING
@@ -253,8 +258,9 @@ The mermaid demon has a mouth. I'm staring closely at
 
  彼女とは、今ここが初めて出会った場所だよ！
 > CONTEXT: Map107/events/5/pages/5/29/Dialogue/kazuya
-No way! This is the place I met here for the
-first time!#MTLed
+N-Nothing!
+
+I met her for the first time right here!#StrateLocalization
 > END STRING
 
 > BEGIN STRING
@@ -262,15 +268,15 @@ first time!#MTLed
 
 気にせず先にいこうぜ、\\N[1]。
 > CONTEXT: Map107/events/5/pages/5/35/Dialogue/other1
-............ Well, I do not want to attack the
-other side. Let's go ahead without worrying,
-\\N[1].#MTLed
+......Well, since I don't think she'll attack you
+either, let's not worry about it and proceed,
+\\N[1].#StrateLocalization
 > END STRING
 
 > BEGIN STRING
 う、うん………
 > CONTEXT: Map107/events/5/pages/5/39/Dialogue/kazuya
-No………#MTLed
+Y-yeah......#Strate
 > END STRING
 
 > BEGIN STRING
@@ -389,7 +395,7 @@ If you have a problem I'll kill you here and now.#Ron
 > CONTEXT: Map107/events/5/pages/7/2/Dialogue/enemy13
 \\N[1]... ♡
 
-I'm glad we got to met again...#RonLocalization
+I'm glad we got to meet again...#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -587,7 +593,7 @@ her face...#Ron
 …………っ
 > CONTEXT: Map107/events/86/pages/0/0/Dialogue/kazuya
 > CONTEXT: Map107/events/7/pages/0/0/Dialogue/kazuya
-...... ......#MTLed
+.........#StrateTemporary
 > END STRING
 
 > BEGIN STRING
@@ -596,7 +602,9 @@ her face...#Ron
 ふらついてるぞ、\\N[1]。
 > CONTEXT: Map107/events/86/pages/0/2/Dialogue/other2
 > CONTEXT: Map107/events/7/pages/0/2/Dialogue/other2
-Oh yeah...I'm stuck, \\N[1].#MTLed
+H-hey...
+
+You look wobbly there, \\N[1].#Strate
 > END STRING
 
 > BEGIN STRING
@@ -605,8 +613,9 @@ Oh yeah...I'm stuck, \\N[1].#MTLed
 ただちょっと……混乱しちゃって……
 > CONTEXT: Map107/events/86/pages/0/6/Dialogue/kazuya
 > CONTEXT: Map107/events/7/pages/0/6/Dialogue/kazuya
-I'm fine, I'm not tired...Just a little...I'm
-confused ...#MTLed
+I'm fine, I'm not that tired...
+
+Just a little... confused...#Strate
 > END STRING
 
 > BEGIN STRING
@@ -615,8 +624,10 @@ confused ...#MTLed
 テントもある、少し休んでいけよ。
 > CONTEXT: Map107/events/86/pages/0/10/Dialogue/other2
 > CONTEXT: Map107/events/7/pages/0/10/Dialogue/other2
-It may be attacked again someday ...
-There is a tent, so take a break.#MTLed
+But you don't know when you'll be attacked
+again...
+
+There's a tent here, you should take a break.#Strate
 > END STRING
 
 > BEGIN STRING
@@ -1260,8 +1271,9 @@ storage box, too!#Ron
 
 また私たちを殺す気なんでしょう……！
 > CONTEXT: Map107/events/9/pages/1/62/Dialogue/enemy13
-..... I can not let you go, \\N[1].
-You will kill us again ...!#MTLed
+...I cannot let you go, \\N[1].
+
+You might kill us again...!#Strate
 > END STRING
 
 > BEGIN STRING
@@ -1269,7 +1281,9 @@ You will kill us again ...!#MTLed
 
 まさか君が……！！
 > CONTEXT: Map107/events/9/pages/1/66/Dialogue/kazuya-0
-! ? No way you are ......! !#MTLed
+!?
+
+Don't tell me you......!!#StrateLocalization
 > END STRING
 
 > BEGIN STRING
@@ -1277,9 +1291,9 @@ You will kill us again ...!#MTLed
 
 触手のように足に巻き付き、僕の身体を引っ張った…！
 > CONTEXT: Map107/events/9/pages/1/74/Dialogue
-Before I finish saying, part of her hair
-I wound around my legs like a tentacle and pulled my body
-...!#MTLed
+Before I could finish talking, part of her hair
+wrapped around my leg like a tentacle, pulling my
+body in...!#Strate
 > END STRING
 
 > BEGIN STRING
@@ -1287,8 +1301,9 @@ I wound around my legs like a tentacle and pulled my body
 
  みるみる彼女の元へと引き寄せられていく……！！
 > CONTEXT: Map107/events/9/pages/1/82/Dialogue
-I who was slime attached to the whole body at the beat that
-fell. before my eyes I'm drawn to her source ......! !#MTLed
+My whole body got covered in slime the moment I
+fell, and before I knew it I was being pulled
+towards her...!!#Strate
 > END STRING
 
 > BEGIN STRING
@@ -1296,8 +1311,9 @@ fell. before my eyes I'm drawn to her source ......! !#MTLed
 
 あなたになんか……好きにさせたりしないから…！！
 > CONTEXT: Map107/events/9/pages/1/95/Dialogue/enemy13
-We are not pebble!!I don't want you to make me
-love you ...! !#MTLed
+We are not "pebbles"!!
+
+I won't let you do whatever you want!!#Strate
 > END STRING
 
 > BEGIN STRING
@@ -1305,8 +1321,9 @@ love you ...! !#MTLed
 
 抵抗しないで…！！
 > CONTEXT: Map107/events/9/pages/1/105/Dialogue/enemy13
-Before that...I will change you ...! !
-don't struggle ...! !#MTLed
+Before that...... I will "change" you......!!
+
+Don't struggle...!!#Strate
 > END STRING
 
 > BEGIN STRING
@@ -1314,8 +1331,8 @@ don't struggle ...! !#MTLed
 
  彼女の身体が、恐ろしい姿へと変貌した……！！
 > CONTEXT: Map107/events/9/pages/1/115/Dialogue
-The moment I thought that I got my body on land
-Her body has transformed into a horrible figure ...! !#MTLed
+The moment she climbed up onto the ground,
+her body transformed into a horrific form...!!#Strate
 > END STRING
 
 > BEGIN STRING
@@ -1324,9 +1341,10 @@ Her body has transformed into a horrible figure ...! !#MTLed
  普段は優しくて大人しい奴なんだけど
  いかんせん、ちょいと『独占欲』が強くてサ……
 > CONTEXT: Map107/events/9/pages/1/164/Dialogue/hyakki
-Her name is "Echo". It's usually kind and gentle
-person. I'm sorry, a little bit "exclusive
-desire" is strong ...#MTLed
+Her name is "Echo".
+
+She's usually a kind and gentle girl, but 
+unfortunately she can be quite possessive...#Strate
 > END STRING
 
 > BEGIN STRING
@@ -1335,9 +1353,10 @@ desire" is strong ...#MTLed
  一連のやり取りを見て、他のエコーたちも
 \\N[1]のこと、『独占対象』だと思ってる。
 > CONTEXT: Map107/events/9/pages/1/177/Dialogue/hyakki
-I do not know well, but do you usually do it?
-Seeing a series of interactions, the other Echos
-I think that \\N[1] is the "exclusive object".#MTLed
+I'm not completely sure, but I don't think this
+is how she normally behaves. After seeing what
+happened between you two, the other Echos will
+also probably want you for themselves, \\N[1]. #Strate
 > END STRING
 
 > BEGIN STRING

@@ -5,7 +5,7 @@
  思ったより遅かったね。
 > CONTEXT: Map037/events/4/pages/0/20/Dialogue/enemy2
 I've been waiting, \\N[1]-kun♪
-You took longer then I expected.#Triketos
+You took longer than I expected.#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -19,7 +19,9 @@ You took longer then I expected.#Triketos
 
 ちゃんと私も自己紹介しておかないと。
 > CONTEXT: Map037/events/4/pages/0/26/Dialogue/enemy2
-……Yeah. I have to introduce myself too.#MTLed
+......That's right.
+
+I should properly introduce myself.#Strate
 > END STRING
 
 > BEGIN STRING
@@ -27,7 +29,10 @@ You took longer then I expected.#Triketos
 
 バーゲストやランパスの『飼い主』ってとこかなぁ？
 > CONTEXT: Map037/events/4/pages/0/30/Dialogue/enemy2
-I am Hecate. Barghest and Lampas's "owner"?#MTLed
+I am Hecate.
+
+I guess you could call me the "owner" of Barghest
+and Lampas.#Strate
 > END STRING
 
 > BEGIN STRING
@@ -36,9 +41,10 @@ I am Hecate. Barghest and Lampas's "owner"?#MTLed
 
 あなたも『魔法』が使える人間なんだね♪
 > CONTEXT: Map037/events/4/pages/0/34/Dialogue/enemy2
-Since barghest finds you and attacks you
-I have been observing \\N[1]-kun for a long time
-... You are also a person who can use "magic"♪#MTLed
+I've been watching you closely from the moment
+Barghest found and attacked you...	
+
+You're another person who can use "magic", huh? ♪#StrateUnsure
 > END STRING
 
 > BEGIN STRING
@@ -46,8 +52,10 @@ I have been observing \\N[1]-kun for a long time
 
 ホント、人間界に遊びに来てよかったぁ♡
 > CONTEXT: Map037/events/4/pages/0/39/Dialogue/enemy2
-That same military onii-chan was also ...
-Really, it was nice to come to the human realm#MTLed
+Just like that military onii-chan......
+
+Really, I'm glad I came to the human realm to
+play♡#Strate
 > END STRING
 
 > BEGIN STRING
@@ -55,8 +63,9 @@ Really, it was nice to come to the human realm#MTLed
 
 この惨劇が、全部『遊び』だっていうのか……！？
 > CONTEXT: Map037/events/4/pages/0/43/Dialogue/kazuya
-'Play'...that's it! ? Does this tragedy all
-mean "play"? ?#MTLed
+"Play"......!?
+
+This whole tragedy is just playing to you......!?#StrateLocalization
 > END STRING
 
 > BEGIN STRING
@@ -64,7 +73,9 @@ mean "play"? ?#MTLed
 
 みんなでワイワイして、愉しかったなぁ♪
 > CONTEXT: Map037/events/4/pages/0/47/Dialogue/enemy2
-that's right? It was fun to everyone lively♪#MTLed
+Yeah?
+
+Everyone was making lots of noise, it was fun♪#StrateLocalization
 > END STRING
 
 > BEGIN STRING
@@ -72,8 +83,8 @@ that's right? It was fun to everyone lively♪#MTLed
 
  ちょっと痛い『おしおき』はしちゃったけど…
 > CONTEXT: Map037/events/4/pages/0/51/Dialogue/enemy2
-Oh, to older brothers who bullies Empuse-chan
-I got a little painful 'Punishment' but ...#MTLed
+Well, those onii-chans who bullied Empuse-chan
+got a slightly painful "punishment", but...#Strate
 > END STRING
 
 > BEGIN STRING
@@ -81,8 +92,8 @@ I got a little painful 'Punishment' but ...#MTLed
 
  みーんな嬉しそうに死んでいったよ♪
 > CONTEXT: Map037/events/4/pages/0/55/Dialogue/enemy2
-Barghest and Lampas and the people who 'played'
-I'm gonna die happily♪#MTLed
+Everyone who "played" with Barghest and Lampas
+looked like they died happily♪#Strate
 > END STRING
 
 > BEGIN STRING
@@ -90,8 +101,10 @@ I'm gonna die happily♪#MTLed
 
  みんなと遊べば良いのに♥
 > CONTEXT: Map037/events/4/pages/0/59/Dialogue/enemy2
-\\N[1]-kun is no useless "struggle" stop
-I wish I could play with everyone ♥#MTLed
+\\N[1]-kun, you should stop with that pointless
+"resistance" too.
+
+It would be nice if you could play with everyone♥#Strate
 > END STRING
 
 > BEGIN STRING
@@ -212,8 +225,9 @@ Come on! Empuse-chan♪#Triketos
 たぶん……出てこないんじゃないかな……
 > CONTEXT: Map037/events/4/pages/0/125/Dialogue/kazuya
 > CONTEXT: Map037/events/4/pages/1/166/Dialogue/kazuya
-That thing ......... Maybe...maybe not coming
-out ...#MTLed
+She......
+
+I don't think......she's gonna come out......#StrateLocalization
 > END STRING
 
 > BEGIN STRING
@@ -222,14 +236,16 @@ out ...#MTLed
 『二度と来るな』って言っちゃってたし…
 > CONTEXT: Map037/events/4/pages/0/129/Dialogue/kazuya
 > CONTEXT: Map037/events/4/pages/1/170/Dialogue/kazuya
-It's because...I said "Never come again" ...#MTLed
+Because......
+
+You told her to "never come again"...#Strate
 > END STRING
 
 > BEGIN STRING
 ～～～～～～～っ！！！
 > CONTEXT: Map037/events/4/pages/0/133/Dialogue/enemy3
 > CONTEXT: Map037/events/4/pages/1/174/Dialogue/enemy3
-~ ~ ~ ~ ~ ~!!!#MTLed
+~~~~~~~!!!#Strate
 > END STRING
 
 > BEGIN STRING
@@ -271,7 +287,7 @@ the male died earlier, so she's gotten lonely.#Triketos
 > CONTEXT: Map037/events/4/pages/0/167/Dialogue/enemy2
 > CONTEXT: Map037/events/4/pages/1/208/Dialogue/enemy2
 > CONTEXT: Map037/events/4/pages/2/85/Dialogue/enemy2
-So then, you should should become her mate and
+So then, you should become her mate and
 comfort her. ♪#Triketos
 > END STRING
 
@@ -474,13 +490,15 @@ So I'll kill you in one shot...#Ron
 
 おイタはそこまでヨ、ヘカーテちゃん。
 > CONTEXT: Map037/events/4/pages/0/317/Dialogue/hyakki
-Yes yes ☆. It's up to you Yo, Hecate-chan.#MTLed
+Okay theeen ☆
+
+That's far enough, Hecate-chan.#StrateUnsureLocalization
 > END STRING
 
 > BEGIN STRING
 あ、アンタは……！！
 > CONTEXT: Map037/events/4/pages/0/322/Dialogue/enemy3
-Oh, you are ......! !#MTLed
+Y-You are......!!#Strate
 > END STRING
 
 > BEGIN STRING
@@ -488,9 +506,10 @@ Oh, you are ......! !#MTLed
 
 しかも天下の魔王様が、示しがつかないぞ？
 > CONTEXT: Map037/events/4/pages/0/324/Dialogue/hyakki
-Don't demons break their 'promises'?
-And the demon Queen of the world, can not be
-shown?#MTLed
+Isn't it bad for demons to break their "promises"?
+
+And should the Demon King be setting such a bad
+example?#StrateLocalization
 > END STRING
 
 > BEGIN STRING
@@ -498,8 +517,9 @@ shown?#MTLed
 
 悪魔全体のモラルを落とす気なら………
 > CONTEXT: Map037/events/4/pages/0/328/Dialogue/hyakki
-If this is unsightly. If you want to drop the
-whole moral of the demon .........#MTLed
+If ya wanna do any more unsightly things...
+
+And bring down the morals of all demonkind......#StrateLocalization
 > END STRING
 
 > BEGIN STRING
@@ -507,7 +527,9 @@ whole moral of the demon .........#MTLed
 
 ヘカーテ。
 > CONTEXT: Map037/events/4/pages/0/332/Dialogue/hyakki
-I can do it against you Yo. Hecate.#MTLed
+I can be your opponent.
+
+Hecate.#Strate
 > END STRING
 
 > BEGIN STRING
@@ -515,8 +537,9 @@ I can do it against you Yo. Hecate.#MTLed
 
 ちょっとからかっただけじゃない！
 > CONTEXT: Map037/events/4/pages/0/337/Dialogue/enemy2
-Whoa! What a big deal! It's not only a little
-fun!#MTLed
+H-Hmph! What are you getting all serious for!?
+
+I was just playing around a little!#StrateLocalization
 > END STRING
 
 > BEGIN STRING
@@ -524,7 +547,8 @@ fun!#MTLed
 
 こんなとこ、とっとと帰ってやるんだから！
 > CONTEXT: Map037/events/4/pages/0/341/Dialogue/enemy2
-I couldn't tell you. That's why I'm going home!#MTLed
+I was going to go home even if you hadn't
+told me!!#Strate
 > END STRING
 
 > BEGIN STRING
@@ -833,8 +857,10 @@ No need to worry, I created them all anyways.
 
 こっちもさんざん面目潰されてキレてるんだぁ。
 > CONTEXT: Map037/events/4/pages/1/311/Dialogue/enemy3
-Do it all. I'm sorry that this is a very funny
-thing.#MTLed
+Give it a try.
+
+I'm pretty pissed off too about being humiliated
+like that.#StrateLocalization
 > END STRING
 
 > BEGIN STRING

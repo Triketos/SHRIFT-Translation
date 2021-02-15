@@ -87,6 +87,7 @@ Will Up Lv10#Dargoth
 物理属性。
 > CONTEXT: Weapons/30/description
 > CONTEXT: Weapons/110/description
+> CONTEXT: Weapons/120/description
 This sword manifests the wielder's own magical power
 into the blade. Does physical damage.#Dargoth
 > END STRING
@@ -612,4 +613,22 @@ Crushing Death Fang#Ron/Triketos
 練気の刀（小）
 > CONTEXT: Weapons/110/name
 Worn Sword (Small)#Ron
+> END STRING
+
+> BEGIN STRING
+カスタムソード
+> CONTEXT: Weapons/120/name
+Custom Sword#Strate
+> END STRING
+
+> BEGIN STRING
+様々な銃に変化する
+> CONTEXT: Weapons/121/description
+Transforms into various guns.#Strate
+> END STRING
+
+> BEGIN STRING
+エンジェルバレット
+> CONTEXT: Weapons/121/name
+Angel Bullet#Strate
 > END STRING
