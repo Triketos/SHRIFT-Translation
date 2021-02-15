@@ -549,10 +549,9 @@ Package#Ron
 > END STRING
 
 > BEGIN STRING
-アサルトライフルの『グレネード』で使用する弾丸。
-火属性。
+アサルトライフルの『グレネード』で使用する弾丸
+火属性
 > CONTEXT: Items/54/description
-> CONTEXT: Items/66/description
 Can be fired as a grenade by the assault rifle.
 Fire attribute.#afrg
 > END STRING
@@ -688,6 +687,14 @@ Remodel guns at the workbench with a Custom Kit.#afrgPR
 カスタムパーツE
 > CONTEXT: Items/65/name
 Custom Parts E#afrg
+> END STRING
+
+> BEGIN STRING
+アサルトライフルの『グレネード』で使用する弾丸。
+火属性。
+> CONTEXT: Items/66/description
+Can be fired as a grenade by the assault rifle.
+Fire attribute.#afrg
 > END STRING
 
 > BEGIN STRING
@@ -895,6 +902,62 @@ human princess. If you give it to a specific demon...#Triketos
 天狗の王子様
 > CONTEXT: Items/90/name
 The Tengu Prince#Triketos
+> END STRING
+
+> BEGIN STRING
+崇高を意味する白色の宝石。売ってもお金になる。
+\\C[14]妖魔に対して\\C[0]プレゼントすると、友好度が上がる。
+> CONTEXT: Items/91/description
+A blue jewel symbolizing nobleness. Can be sold for money.
+\\C[14]Increases friendship when given to a demon\\C[0].#StrateLocalization
+> END STRING
+
+> BEGIN STRING
+ラピスラズリ
+> CONTEXT: Items/91/name
+Lapis Lazuli#Strate
+> END STRING
+
+> BEGIN STRING
+難易度『挑戦者』を真慈悲でクリアした者へ送られる証
+\\C[14]悪魔に対して\\C[0]プレゼントで見せると褒められる。
+> CONTEXT: Items/92/description
+Proof of having cleared True Mercy on "Hardcore" difficulty.
+\\C[14]If you show it to a demon,\\C[0] you will be praised.#StrateLocalization
+> END STRING
+
+> BEGIN STRING
+達成者の証
+> CONTEXT: Items/92/name
+Proof of Accomplishment#Strate
+> END STRING
+
+> BEGIN STRING
+宝石の魔力を凝縮した、エネルギー爆弾。
+属性無視の５００程度の魔法ダメージを与える
+> CONTEXT: Items/94/description
+An energy bomb containing the condensed magic power of gems.
+Deals about 500 damage, ignoring attributes.#StrateUnsure
+> END STRING
+
+> BEGIN STRING
+ジュエルボム
+> CONTEXT: Items/94/name
+Jewel Bomb#Strate
+> END STRING
+
+> BEGIN STRING
+ど　う　し　て　そ　う　な　る
+ホットリミット・クール・ボルテク・シルフを同時発動する
+> CONTEXT: Items/95/description
+W H Y  D O E S  T H I S  H A P P E N ?
+Activates Limit Break/Cool Calm/Voltaic Step/Sylph Storm.#Strate
+> END STRING
+
+> BEGIN STRING
+オムライス
+> CONTEXT: Items/95/name
+Omurice#Strate
 > END STRING
 
 > BEGIN STRING
@@ -1246,7 +1309,7 @@ Mitarashi Dango#afrg
 鈴音印のおだんご、味はとんでもない。
 抵抗力・気力を全快して、しばらく疲労・衰弱にならなくなる。
 > CONTEXT: Items/122/description
-Another unreal Suzuna brand dango. Restores Vitality and
+Another unreal Suzune brand dango. Restores Vitality and
 Will and prevent Weakness and Fatigue.#afrgPR
 > END STRING
 
@@ -1458,6 +1521,18 @@ Canned Coffee (Cold)#afrg
 > END STRING
 
 > BEGIN STRING
+チェシャから渡された、お茶会の招待状。
+> CONTEXT: Items/138/description
+A tea party invitation from Cheshire.#Strate
+> END STRING
+
+> BEGIN STRING
+お茶会への招待状
+> CONTEXT: Items/138/name
+Invitation to a Tea Party#Strate
+> END STRING
+
+> BEGIN STRING
 人や悪魔の想いが固まって実体化した珠。
 > CONTEXT: Items/140/description
 > CONTEXT: Items/142/description
@@ -1598,7 +1673,13 @@ Memento (Faint)#afrg
 > BEGIN STRING
 想ひ魂（虚）
 > CONTEXT: Items/211/name
-Memento (Imaginary)#MTLed
+Memento (Imaginary)#Triketos
+> END STRING
+
+> BEGIN STRING
+想ひ魂（芸猫）
+> CONTEXT: Items/212/name
+Memento (Cat Artist)#Strate
 > END STRING
 
 > BEGIN STRING

@@ -4,8 +4,9 @@
 
 ご自身の指を切らぬよう、慌てず、ゆっくり………
 > CONTEXT: Map242/events/1/pages/0/11/Dialogue/yuuma
-Oh yeah, you are good. Don't let your fingers
-cut, don't hesitate, slowly .........#MTLed
+Oh yes, you're good at this.
+
+Don't panic, don't cut your fingers, slowly......#Strate
 > END STRING
 
 > BEGIN STRING
@@ -13,7 +14,9 @@ cut, don't hesitate, slowly .........#MTLed
 
 おかえりなさいませ。
 > CONTEXT: Map242/events/1/pages/0/27/Dialogue/yuuma
-Oh \\N[1], Welcome back.#MTLed
+Oh, \\N[1]-sama.
+
+Welcome back.#Strate
 > END STRING
 
 > BEGIN STRING
@@ -21,8 +24,9 @@ Oh \\N[1], Welcome back.#MTLed
 
 ルシィに料理を学ぶの、続けてるんだね。
 > CONTEXT: Map242/events/1/pages/0/33/Dialogue/kazuya
-Echo ...... I'm continuing learning to cook at
-Lucy.#MTLed
+Echo......
+
+Having another cooking lesson with Lucy, huh?#StrateLocalization
 > END STRING
 
 > BEGIN STRING
@@ -30,8 +34,10 @@ Lucy.#MTLed
 
  飲み込みも早いですし、手先もなかなか器用です。
 > CONTEXT: Map242/events/1/pages/0/38/Dialogue/yuuma
-I have a good streak. The swallowing is also
-quick, and the hands are quite useful.#MTLed
+She's doing a good job.
+
+She also learns quickly, and is quite dexterous
+with her fingers.#Strate
 > END STRING
 
 > BEGIN STRING
@@ -40,9 +46,9 @@ quick, and the hands are quite useful.#MTLed
 このペースならば、料理自体を教えることになるのも
  そう遠くはないでしょう。
 > CONTEXT: Map242/events/1/pages/0/42/Dialogue/yuuma
-I'm still doing my best to help cut the
-ingredients...At this pace, it is also possible
-to teach the food itself. It will not be so far.#MTLed
+She's still doing her best to help cut the
+ingredients, but at this pace, it won't be long
+before she can be taught cooking proper.#StrateLocalization
 > END STRING
 
 > BEGIN STRING
@@ -51,8 +57,10 @@ to teach the food itself. It will not be so far.#MTLed
 とても楽しそうに学んでくれますので
 私も、教え甲斐があって楽しいですわ。
 > CONTEXT: Map242/events/1/pages/0/53/Dialogue/yuuma
-Hihihi ......... Because you will learn so much
-fun. I, too, teach and have fun.#MTLed
+Ufufu.........
+
+Learning looks like such fun.
+And I have fun teaching her as well.#Strate
 > END STRING
 
 > BEGIN STRING
@@ -60,8 +68,8 @@ fun. I, too, teach and have fun.#MTLed
 
  これぐらい素直だったら、どんなに………
 > CONTEXT: Map242/events/1/pages/0/58/Dialogue/yuuma
-......that, even the poorly understood snake
-If this was so honest, how much .........#MTLed
+...Say, if that unreasonable snake were as
+docile as this, then......#StrateLocalization
 > END STRING
 
 > BEGIN STRING
@@ -69,7 +77,10 @@ If this was so honest, how much .........#MTLed
 
 そのまま食材を切っていてくださいね。
 > CONTEXT: Map242/events/1/pages/0/70/Dialogue/yuuma
-...... Echo. Please cut the ingredients as it is.#MTLed
+......Echo.
+
+Please continue cutting the ingredients just like
+that.#Strate
 > END STRING
 
 > BEGIN STRING
@@ -77,8 +88,7 @@ If this was so honest, how much .........#MTLed
 
 『指導』してきますから………
 > CONTEXT: Map242/events/1/pages/0/74/Dialogue/yuuma
-I am a student of a serpent who is not obedient
-"Teaching" because ...#MTLed
+I will "instruct" my disobedient snake student...#Strate
 > END STRING
 
 > BEGIN STRING
@@ -87,9 +97,10 @@ I am a student of a serpent who is not obedient
 
 あれ、高いんでしょう……？
 > CONTEXT: Map242/events/1/pages/0/83/Dialogue/enemy12
-\\N[1]...... I'm sorry, today.
-Even though it is a day without anything, using
-"medicine"...That's expensive ...?#MTLed
+\\N[1]... Sorry about today.
+I used the "medicine" even though there was
+nothing important going on...
+Is it expensive...?#StrateLocalization
 > END STRING
 
 > BEGIN STRING
@@ -97,8 +108,9 @@ Even though it is a day without anything, using
 
 そ………そうだね……安くはないね……
 > CONTEXT: Map242/events/1/pages/0/88/Dialogue/kazuya
-Well, when it comes to the price ...
-That's right...not...not cheap ...#MTLed
+W-well, when it comes to the price...
+
+T-that's right... it's not cheap...#Strate
 > END STRING
 
 > BEGIN STRING
@@ -106,10 +118,11 @@ That's right...not...not cheap ...#MTLed
 
  せっかくの足がもったいないだろ？
 > CONTEXT: Map242/events/1/pages/0/92/Dialogue/kazuya
-But it's only when there's a shortage of people
-at the request. I wonder if you have lost your
-feet.#MTLed
-> END STRING
+But drinking it only when we're short on people
+for a job...
+That would be a waste of those legs you've wanted
+for so long, don't you think?#StrateLocalization
+> END STRING	
 
 > BEGIN STRING
 それに、今日の街への買い出し……
@@ -117,14 +130,16 @@ feet.#MTLed
 
 僕は楽しかったな。
 > CONTEXT: Map242/events/1/pages/0/96/Dialogue/kazuya
-Besides, buying for today's city ...
-It was kind of like a date. I was happy.#MTLed
+Besides, shopping around the city today...
+It was kind of like a date.
+
+It made me happy.#Strate
 > END STRING
 
 > BEGIN STRING
 デート……
 > CONTEXT: Map242/events/1/pages/0/101/Dialogue/enemy12
-Date ......#MTLed
+Date......#Strate
 > END STRING
 
 > BEGIN STRING
@@ -132,7 +147,9 @@ Date ......#MTLed
 
 え、エコー……！？
 > CONTEXT: Map242/events/1/pages/0/109/Dialogue/kazuya-0
-Oh...uh...♡. Eh, Echo ...!?#MTLed
+Ah... ahh... ♡
+
+E-Echo...!?#Strate
 > END STRING
 
 > BEGIN STRING
@@ -140,8 +157,9 @@ Oh...uh...♡. Eh, Echo ...!?#MTLed
 
 そんなさりげない台詞で、私を喜ばせて……♡
 > CONTEXT: Map242/events/1/pages/0/113/Dialogue/enemy13
-Hihihi...very bad person .........
-With such casual lines please please me...♡#MTLed
+Fufufu... you're a very bad person......
+
+Pleasing me with such casual remarks... ♡#Strate
 > END STRING
 
 > BEGIN STRING
@@ -149,8 +167,9 @@ With such casual lines please please me...♡#MTLed
 
 『悦ばせる』のは、私も得意なのよ……♡
 > CONTEXT: Map242/events/1/pages/0/117/Dialogue/enemy13
-But ......... I'm also good at "I'm making it to
-you"...♡#MTLed
+But......
+
+I'm also good at "pleasing" you... ♡#Strate
 > END STRING
 
 > BEGIN STRING
@@ -158,7 +177,9 @@ you"...♡#MTLed
 
 エコー……ぉぉ♡♡♡
 > CONTEXT: Map242/events/1/pages/0/124/Dialogue/kazuya-0
-AHHHh......!!Moth. Echo ...... ぉ ぉ ♡♡♡#MTLed
+Aaah...!!♡
+
+Echo... Ooh♡♡♡#Strate
 > END STRING
 
 > BEGIN STRING
@@ -166,8 +187,9 @@ AHHHh......!!Moth. Echo ...... ぉ ぉ ♡♡♡#MTLed
 
 もう絶対離さないから………
 > CONTEXT: Map242/events/1/pages/0/130/Dialogue/enemy13
-\\N[1] .... "The Prince" I caught ...
-I will never let go anymore .........#MTLed
+\\N[1]... the "prince" I caught...
+
+I will never let you go any more......#Strate
 > END STRING
 
 > BEGIN STRING
@@ -175,6 +197,7 @@ I will never let go anymore .........#MTLed
 
 ずっと一緒よ……\\N[1]……
 > CONTEXT: Map242/events/1/pages/0/134/Dialogue/enemy13
-As long as my "voice" reaches you .........
-Stay together forever...\\N[1] ...#MTLed
+As long as my "voice" reaches you......
+
+Stay with me forever... \\N[1]...#Strate
 > END STRING
