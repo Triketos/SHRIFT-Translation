@@ -2,7 +2,7 @@
 > BEGIN STRING
 あ、あいたたた………
 > CONTEXT: Map382/events/1/pages/0/1/Dialogue/kazuya
-Ah, owow...#DL
+Aaah, ow ow ow...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -10,10 +10,9 @@ Ah, owow...#DL
 
 開幕、えらい勢いで尻餅ついたな……
 > CONTEXT: Map382/events/1/pages/0/3/Dialogue/other2
-Oi, \\N[1], you okay?
+Hey \\N[1], are you okay?
 
-It opened with a huge bang and you fell on
-your butt...#DL
+You landed on your butt pretty hard...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -21,10 +20,10 @@ your butt...#DL
 
 まさか入り口が数メートル地面から浮いてるなんて……
 > CONTEXT: Map382/events/1/pages/0/7/Dialogue/kazuya
-O-oh god, that scared the hell out of me...
+O-Oh god, that scared the hell out of me...
 
 I didn't expect the entrance to be floating a
-few meters off the ground...#DL
+few meters off the ground...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -33,10 +32,9 @@ few meters off the ground...#DL
 
 おかしな座標の入口になっても不思議じゃない………
 > CONTEXT: Map382/events/1/pages/0/11/Dialogue/other1
-Well... as far as I heard about it from Sphinx,
-it feels like it was connected by chance...
-It's no wonder the coordinates for the entrance
-are strange.#DL
+Well, like Sphinx said this place was only opened
+by coincidence, so it's no wonder that the
+entrance coordinates are a bit off...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -45,16 +43,16 @@ are strange.#DL
 
 あんまり長居すると、身体に悪影響が出るかもな
 > CONTEXT: Map382/events/1/pages/0/16/Dialogue/other1
-Besides, even though it's a remote area, this
-place is still a part of the Demon World's space.
-If you stay here too long, it might have a bad
-effect on your body.#DL
+Besides, even though it's remote, this place is
+still a part of the Demon Realm. If you stay here
+too long, it might have a bad effect on your
+body.#Ron
 > END STRING
 
 > BEGIN STRING
 さっさとスフィンクスを探して、ここから……
 > CONTEXT: Map382/events/1/pages/0/21/Dialogue/other1
-Let's just go find Sphinx and get out of here...#DL
+Let's just go find Sphinx and get out of here...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -65,13 +63,15 @@ Let's just go find Sphinx and get out of here...#DL
 ......Hmm?
 
 \\N[1], can you hear a voice coming from
-underneath you...?#DL
+underneath you...?#Ron
 > END STRING
 
 > BEGIN STRING
 え………下？
 > CONTEXT: Map382/events/1/pages/0/29/Dialogue/kazuya
-B...beneath me?#DL
+Huh...?
+
+Beneath me?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -80,10 +80,9 @@ B...beneath me?#DL
 
 　　　　悠長にしゃべってねぇで、早くどきやがれ！！」
 > CONTEXT: Map382/events/1/pages/0/32/Dialogue
-???:  That's right!!
-I'm stuck underneath you!!
-Stop wasting your time talking and get the
-hell off of me!#DL
+???「That's right!! I'm stuck underneath you!!
+
+     Stop wasting time babbling and get hell off of me!」#Ron
 > END STRING
 
 > BEGIN STRING
@@ -93,7 +92,7 @@ hell off of me!#DL
 > CONTEXT: Map382/events/1/pages/0/38/Dialogue/kazuya
 Whoa!?
 
-W-What the......?#DL
+W-What the......?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -103,7 +102,7 @@ W-What the......?#DL
 > CONTEXT: Map382/events/1/pages/0/50/Dialogue
 The moment I sat up, he jumped out from under me.
 
-He was a winged boy, about the height of a human hand.#DL
+He was a winged boy, about the size of a fist.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -111,9 +110,9 @@ He was a winged boy, about the height of a human hand.#DL
 
 それが目の前で、飛び回りながら悪態をついている…
 > CONTEXT: Map382/events/1/pages/0/54/Dialogue
-The figure you often see in fantasy books...
-
-That's right in front of me, flying around and swearing...#DL
+It was like something out of a fantasy picture book,
+except it was right in front of us flying around and
+yelling at us.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -121,9 +120,10 @@ That's right in front of me, flying around and swearing...#DL
 
 いきなり上から降ってきやがって……！！
 > CONTEXT: Map382/events/1/pages/0/60/Dialogue/enemy31
-"What?" is my line!
+Don't you "what the" me!!
 
-All of a sudden you came down from above...!!#DL
+You're the idiots who suddenly fell on top of
+me...!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -131,9 +131,9 @@ All of a sudden you came down from above...!!#DL
 
 『外の世界』ならグロテスクな事になるところだったぜ！
 > CONTEXT: Map382/events/1/pages/0/64/Dialogue/enemy31
-It's only painful because it we're "here",
-but it would have been a bloody mess in
-the outside world!#DL
+Thankfully being in here meant I got away with
+just some pain, but if that'd happened in the
+outside world, I'd have been a bloody mess!#ROn
 > END STRING
 
 > BEGIN STRING
@@ -143,7 +143,7 @@ the outside world!#DL
 > CONTEXT: Map382/events/1/pages/0/69/Dialogue/kazuya
 I-I'm sorry...
 
-I didn't mean to crush you...#DL
+I didn't mean to crush you...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -152,10 +152,10 @@ I didn't mean to crush you...#DL
 ティターニアの使いたちが攫ってくるニンゲンは
 ぼちぼち落ち着いてきた頃だと思ったのに……
 > CONTEXT: Map382/events/1/pages/0/74/Dialogue/enemy31
-Good grief, you're blind...
-
-I thought the humans that Titania's messengers
-were abducting were starting to settle down...#DL
+Good grief, I can't let my guard down...
+Just when I thought the flow of humans that
+Titania's followers were abducting was starting
+to settle down...#Ron/Triketos
 > END STRING
 
 > BEGIN STRING
@@ -165,7 +165,7 @@ were abducting were starting to settle down...#DL
 > CONTEXT: Map382/events/1/pages/0/79/Dialogue/enemy31
 That big cat, and you just now...
 
-What's going on in the human world today...?#DL
+What's going on in the human world today...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -175,7 +175,7 @@ What's going on in the human world today...?#DL
 > CONTEXT: Map382/events/1/pages/0/84/Dialogue/kazuya
 ...!! "Big cat"!?
 
-You mean... Sphinx?#DL
+You mean... Sphinx?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -183,8 +183,7 @@ You mean... Sphinx?#DL
 
 　　　　そこに、誰かいるのー？」
 > CONTEXT: Map382/events/1/pages/0/90/Dialogue
-???: Hey hey!
-Is someone over there?#DL
+???「Hey hey! Is someone over there?」#Ron
 > END STRING
 
 > BEGIN STRING
@@ -192,8 +191,9 @@ Is someone over there?#DL
 
 　　　　あぶないよ……」
 > CONTEXT: Map382/events/1/pages/0/94/Dialogue
-???:Let's not, Ena-chan...
-It's dangerous...#DL
+???「L-Let's not, Ena-chan...
+
+     It's dangerous...」#Ron
 > END STRING
 
 > BEGIN STRING
@@ -203,7 +203,7 @@ It's dangerous...#DL
 > CONTEXT: Map382/events/1/pages/0/100/Dialogue/enemy31
 Shit......
 
-I have to hide...!!#DL
+I've gotta hide...!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -213,7 +213,7 @@ I have to hide...!!#DL
 > CONTEXT: Map382/events/1/pages/0/110/Dialogue/kazuya
 Ah...!?
 
-Hey... hey!!!#DL
+Hey... hey!!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -223,7 +223,8 @@ Hey... hey!!!#DL
 > CONTEXT: Map382/events/1/pages/0/134/Dialogue/enemy30
 Huh...? It's a human!
 
-You're a bastard who comes alone!#???
+It's pretty unusual for one of them to come here
+all alone!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -231,10 +232,10 @@ You're a bastard who comes alone!#???
 
 ねぇ、マイちゃん！
 > CONTEXT: Map382/events/1/pages/0/138/Dialogue/enemy30
-There were people who could come without
-our help?
+Is it possible for them come here without our
+help?
 
-Hey, Mai!
+Hey, Mai-chan!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -242,9 +243,9 @@ Hey, Mai!
 
 大きさ的に、彼女たちも『妖精』なのだろうか…
 > CONTEXT: Map382/events/1/pages/0/144/Dialogue
-Two little girls emerged from deep in the forest...
-
-In terms of size, are they also 'fairies'...#DL
+What emerged from deep inside the forest were two little
+girls, in terms of size, you could say they were both
+also "fairy-sized"...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -255,7 +256,7 @@ In terms of size, are they also 'fairies'...#DL
 They're wearing clothes that accentuate the large
 parts of the body...
 
-Chest and thighs, respectively...#DL
+Chest and thighs, respectively...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -264,16 +265,15 @@ Chest and thighs, respectively...#DL
 
 ずいぶんと忙しい場所だな、ここは……
 > CONTEXT: Map382/events/1/pages/0/152/Dialogue/other2
-When the one that suddenly popped out of
-nowhere hid, a bunch more came out without
-missing a beat...
-It's a busy place, this land...#DL
+No sooner had that one popped out of nowhere
+and then quickly hidden himself, then another
+couple turn up. This is a pretty busy place.#Ron
 > END STRING
 
 > BEGIN STRING
 き、きみたちは……？
 > CONTEXT: Map382/events/1/pages/0/157/Dialogue/kazuya
-...Are you guys......#DL
+...W-Who are you two......?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -282,10 +282,10 @@ It's a busy place, this land...#DL
 
 見ての通り、『妖精』だよっ
 > CONTEXT: Map382/events/1/pages/0/159/Dialogue/enemy30
-Us? I'm Ena-chan.
-The one hiding over here is Mai-chan.
+Us? I'm Ena. The one hiding behind me is
+Mai-chan.
 
-As you can see, we're fairies!#DL
+As you can see, we're fairies.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -294,10 +294,10 @@ As you can see, we're fairies!#DL
 マイちゃんは引っ込み思案なところがあって
 初対面の人とは打ち解けるまで時間がかかるの。
 > CONTEXT: Map382/events/1/pages/0/168/Dialogue/enemy30
-Hahaha, I'm sorry♪
+Hahaha, I'm sorry. ♪
 
-Mai is a bit of a shy girl.
-It takes her a while to get to know new people.#DL
+Mai is a bit of a shy girl, it takes her a while
+to warm up to new people.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -307,8 +307,8 @@ It takes her a while to get to know new people.#DL
 > CONTEXT: Map382/events/1/pages/0/173/Dialogue/enemy30
 She's got a very rare personality among fairies.
 
-Once she knows there's no hostility,
-she'll come around.#DL
+Once she knows you don't mean any harm, she'll be
+super bubbly and friendly.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -318,8 +318,8 @@ she'll come around.#DL
 > CONTEXT: Map382/events/1/pages/0/178/Dialogue/kazuya
 "Fairies".........
 
-That means that this is the Fairy Realm
-after all...?#DL
+So then that means that this is the Fairy
+Realm...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -328,10 +328,10 @@ after all...?#DL
 
 ここに一人で来れるなんて、フツーじゃないもの
 > CONTEXT: Map382/events/1/pages/0/183/Dialogue/enemy30
-Heh, I knew you were coming!
+Wow, you knew that before coming here?!
 If that's the case, then it's no wonder I can
 feel the magic in your body! It's not every day
-you get to come here by yourself.#DL
+someone comes here by themselves.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -340,9 +340,10 @@ you get to come here by yourself.#DL
 だったらなおさら、このニンゲンが
 怖い人かもしれないじゃない……
 > CONTEXT: Map382/events/1/pages/0/188/Dialogue/enemy27
-E...Ena-chan, stop it...
+E-Ena-chan, stop it...
 
-If this is the case, this human may be scared...#DL
+If that's true, then this person might be even
+scarier than first thought...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -351,10 +352,9 @@ If this is the case, this human may be scared...#DL
 アタシ、そういうのは『ニオイ』で分かるからさ！
 このニンゲンは大丈夫だよ！
 > CONTEXT: Map382/events/1/pages/0/193/Dialogue/enemy30
-It's okay!!
+It's fine!! Don't worry!!
 
-I can smell it, you know!
-This human is okay!#DL
+I can tell that this human is safe by his smell!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -363,10 +363,10 @@ This human is okay!#DL
 
 なんの用で、自分からこの世界に来たの？
 > CONTEXT: Map382/events/1/pages/0/199/Dialogue/enemy30
-Anyways! Human!
+Anyways, human-kun!
 What's your name?
 
-What brings you to this world on your own?#DL
+What brings you to this world on your own?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -375,10 +375,10 @@ What brings you to this world on your own?#DL
 スフィンクスっていう悪魔の頼み事で
 彼女を助けに、この場所にやってきたんだけど……
 > CONTEXT: Map382/events/1/pages/0/204/Dialogue/kazuya
-W-well, um... I'm \\N[1].
-I was asked to do a favor for a demon
-named Sphinx. I came to this place to help her,
-but....#DL
+W-Well, um... I'm \\N[1].
+
+I was asked to do a favor for a demon named
+Sphinx. I came to this place to help her, but...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -388,7 +388,7 @@ but....#DL
 > CONTEXT: Map382/events/1/pages/0/209/Dialogue/kazuya
 Do you guys know where she is?
 
-She's like a big cat, but....#DL
+She's like a big cat...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -396,35 +396,41 @@ She's like a big cat, but....#DL
 
 少し前に、ティターニアさまに連れていかれてた……
 > CONTEXT: Map382/events/1/pages/0/215/Dialogue/enemy27
+Big cat... maybe it's that girl...
 
+Titania-sama brought her in a little while ago...#Ron
 > END STRING
 
 > BEGIN STRING
 えー？でもあの悪魔…
-> CONTEXT: Map382/events/1/pages/0/219/Dialogue/enemy30 < UNTRANSLATED
-
+> CONTEXT: Map382/events/1/pages/0/219/Dialogue/enemy30
+Huh? But that demon said...#Ron
 > END STRING
 
 > BEGIN STRING
 『ボクは猫じゃない！！ライオンだぞ！
 
 　恐いんだぞ！がおー！』
-> CONTEXT: Map382/events/1/pages/0/221/Dialogue/enemy12 < UNTRANSLATED
+> CONTEXT: Map382/events/1/pages/0/221/Dialogue/enemy12
+"I'm not a cat!! I'm a lion!! RAAARR!
 
+ See? Super scary, right?!"#Ron
 > END STRING
 
 > BEGIN STRING
 …って言ってたから、違うのかもよー？
-> CONTEXT: Map382/events/1/pages/0/225/Dialogue/enemy30 < UNTRANSLATED
-
+> CONTEXT: Map382/events/1/pages/0/225/Dialogue/enemy30
+So that can't be her, right?#Ron
 > END STRING
 
 > BEGIN STRING
 あー……ごめん。
 
 その子で間違いなさそうだわ………
-> CONTEXT: Map382/events/1/pages/0/227/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map382/events/1/pages/0/227/Dialogue/kazuya
+Aah... sorry.
 
+That's definitely her...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -432,8 +438,10 @@ She's like a big cat, but....#DL
 さっきもスフィンクスがどうとか…話し声がしてたけど…
 
 あなたの他にも、ニンゲンが来てるの……？
-> CONTEXT: Map382/events/1/pages/0/232/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map382/events/1/pages/0/232/Dialogue/enemy27
+By the way, I heard someone talking just before
+about a "Sphinx", did someone else come here with
+you?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -441,8 +449,11 @@ She's like a big cat, but....#DL
 騒がしい方が好きだから、人数は多い方が良いんだけど…
 
 ニンゲンに隠れられると、ちょっと面倒なのよねー
-> CONTEXT: Map382/events/1/pages/0/237/Dialogue/enemy30 < UNTRANSLATED
-
+> CONTEXT: Map382/events/1/pages/0/237/Dialogue/enemy30
+The thing is, we like it when there's a lot of
+people around and everything's all boisterous,
+but it's a bit of a hassle when humans hide from
+us.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -450,8 +461,11 @@ She's like a big cat, but....#DL
 男の子の妖精に会って、話をしようとしたんだけど…
 
 君たちが来たと同時に、あわてて逃げ出しちゃって…
-> CONTEXT: Map382/events/1/pages/0/243/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map382/events/1/pages/0/243/Dialogue/kazuya
+No, I was trying to talk with a fairy boy I met
+just before you guys turned up. He seemed to get
+pretty flustered when you guys were coming and
+quickly ran off somewhere.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -459,16 +473,21 @@ She's like a big cat, but....#DL
 誰だったかまでは分からないかな…
 
 黄色のスカーフを巻いた、青髪の子だったけど…
-> CONTEXT: Map382/events/1/pages/0/248/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map382/events/1/pages/0/248/Dialogue/kazuya
+I didn't have the chance to properly ask about
+Sphinx or even for his name, so I don't know who
+he was. He had blue hair and was wearing a yellow
+scarf.#Ron
 > END STRING
 
 > BEGIN STRING
 青髪の男の子の妖精……
 
 逃げたってことは、パックかなぁ……？
-> CONTEXT: Map382/events/1/pages/0/253/Dialogue/enemy27 < UNTRANSLATED
+> CONTEXT: Map382/events/1/pages/0/253/Dialogue/enemy27
+A blue-haired fairy boy...
 
+Considering he ran away, it might've been Puck.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -476,24 +495,31 @@ She's like a big cat, but....#DL
 
 アイツ、『浮気草の露』の一件以来、面目丸潰れとかで
 アタシたちとはぜーんぜん顔を合わせようとしないもの
-> CONTEXT: Map382/events/1/pages/0/257/Dialogue/enemy30 < UNTRANSLATED
-
+> CONTEXT: Map382/events/1/pages/0/257/Dialogue/enemy30
+I'm sure it was him!
+He was really humiliated after that whole fiasco
+with the "love-in-idleness" flower! He hasn't
+shown his face around here ever since.#Ron 
 > END STRING
 
 > BEGIN STRING
 きっとまた、オベロン様に無茶なこと頼まれて
 
 逃げ回ってる最中なんじゃないのぉ？
-> CONTEXT: Map382/events/1/pages/0/262/Dialogue/enemy30 < UNTRANSLATED
-
+> CONTEXT: Map382/events/1/pages/0/262/Dialogue/enemy30
+I'll bet he's been asked to do something
+unreasonable by Oberon-sama again, and he's just
+running around trying to avoid doing it.#Ron
 > END STRING
 
 > BEGIN STRING
 パック……
 
 そういう名前なんだ、あの子…
-> CONTEXT: Map382/events/1/pages/0/266/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map382/events/1/pages/0/266/Dialogue/kazuya
+Puck...
 
+So that was his name.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -501,8 +527,11 @@ She's like a big cat, but....#DL
 
 \\N[1]は、そのスフィンクスを助けに
 この場所に来たんだよね？
-> CONTEXT: Map382/events/1/pages/0/272/Dialogue/enemy30 < UNTRANSLATED
+> CONTEXT: Map382/events/1/pages/0/272/Dialogue/enemy30
+Hey, let's forget about that!
 
+So you came here to help that Sphinx demon
+out, right?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -510,8 +539,11 @@ She's like a big cat, but....#DL
 この森を道案内できるけど、どうする？
 
 アタシたちと一緒に来る？
-> CONTEXT: Map382/events/1/pages/0/277/Dialogue/enemy30 < UNTRANSLATED
+> CONTEXT: Map382/events/1/pages/0/277/Dialogue/enemy30
+We can both guide you through the forest to
+Titania-sama, how does that sound?
 
+Wanna come with us?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -519,30 +551,35 @@ She's like a big cat, but....#DL
 手順を知ってないと、ま、迷うかも………
 
 い、一緒にいた方がいいよ……
-> CONTEXT: Map382/events/1/pages/0/282/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map382/events/1/pages/0/282/Dialogue/enemy27
+T-This forest has a very particular layout, and
+if you d-don't know the way through you it's easy
+to get l-lost, so I think y-you should come with
+us.#Ron
 > END STRING
 
 > BEGIN STRING
 あぁ、でもそのかわりぃ………
-> CONTEXT: Map382/events/1/pages/0/287/Dialogue/enemy30 < UNTRANSLATED
-
+> CONTEXT: Map382/events/1/pages/0/287/Dialogue/enemy30
+Oh, but in exchange...#Ron
 > END STRING
 
 > BEGIN STRING
 エナ、マイと名乗った妖精たちは
 
 急に\\N[1]の顔面に近付いてきた……
-> CONTEXT: Map382/events/1/pages/0/299/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map382/events/1/pages/0/299/Dialogue
+Both fairies suddenly approached \\N[1]'s face...#Ron
 > END STRING
 
 > BEGIN STRING
 \\C[2]その前に、アタシたちと『遊んで』くれたら…
 
 \\C[0]って条件があるけどね……♡
-> CONTEXT: Map382/events/1/pages/0/303/Dialogue/enemy30 < UNTRANSLATED
+> CONTEXT: Map382/events/1/pages/0/303/Dialogue/enemy30
+We have just one condition...
 
+\\C[2]You've gotta "play" with us first...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -556,8 +593,10 @@ P-"Play"...?#Triketos
 ティターニア様の命令があるとき以外は行けないの。
 
 妖精の国は『そういう場所』だから
-> CONTEXT: Map382/events/1/pages/0/311/Dialogue/enemy30 < UNTRANSLATED
-
+> CONTEXT: Map382/events/1/pages/0/311/Dialogue/enemy30
+The thing is, us two can't go to the human realm
+unless Titania-sama orders us to. That's the kind
+of place the Fairy Realm is.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -565,8 +604,9 @@ P-"Play"...?#Triketos
 
 特に\\N[1]みたいな男のニンゲンに
 とっても興味があるんだよ♡
-> CONTEXT: Map382/events/1/pages/0/316/Dialogue/enemy30 < UNTRANSLATED
-
+> CONTEXT: Map382/events/1/pages/0/316/Dialogue/enemy30
+But Mai-chan and I really like humans, we're
+especially interested in male humans like you. ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -574,16 +614,21 @@ P-"Play"...?#Triketos
 たいていすぐティターニア様に連れていかれてるから
 
 私たちはニンゲンと遊ぶどころか、会話もできない…
-> CONTEXT: Map382/events/1/pages/0/321/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map382/events/1/pages/0/321/Dialogue/enemy27
+But whenever humans are summoned here,
+Titania-sama quickly takes them away somewhere,
+so we rarely get to talk to humans, let alone
+play with them...#Ron
 > END STRING
 
 > BEGIN STRING
 だから、貴方みたいに自分から飛び込んできて
 
 ティターニア様に見つかってないニンゲンは希なの…
-> CONTEXT: Map382/events/1/pages/0/326/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map382/events/1/pages/0/326/Dialogue/enemy27
+So it's pretty rare to have someone like you
+come here on their own and not have been found
+by Titania-sama...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -591,8 +636,11 @@ P-"Play"...?#Triketos
 アタシたちには『手をだすな』って言われかねないし…
 
 今のうちに……ね？いいでしょ？♡
-> CONTEXT: Map382/events/1/pages/0/330/Dialogue/enemy30 < UNTRANSLATED
-
+> CONTEXT: Map382/events/1/pages/0/330/Dialogue/enemy30
+I'm pretty sure she'll tell us to keep our hands
+off you when we bring you to her, so we've gotta
+make use of this opportunity while we can. You
+understand, right? ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -600,38 +648,41 @@ P-"Play"...?#Triketos
 
 だけどこのパターン…
 安直に同意するのは少し危険そうに思える……
-> CONTEXT: Map382/events/1/pages/0/337/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map382/events/1/pages/0/337/Dialogue
+It's true they've been pretty nice so far, but I know this
+routine well. It seems pretty dangerous to readily agree
+to their offer.#Ron
 > END STRING
 
 > BEGIN STRING
 どうする…？
 
 彼女たちの提案を受け入れるか…？
-> CONTEXT: Map382/events/1/pages/0/344/Dialogue < UNTRANSLATED
+> CONTEXT: Map382/events/1/pages/0/344/Dialogue
 What do I do...?
 
-Should I accept their offer...?
+Should I accept their offer...?#Ron
 > END STRING
 
 > BEGIN STRING
 拒否する
-> CONTEXT: Map382/events/1/pages/0/348/Choice/0 < UNTRANSLATED
-Refuse
+> CONTEXT: Map382/events/1/pages/0/348/Choice/0
+Refuse#Ron
 > END STRING
 
 > BEGIN STRING
 受け入れる
-> CONTEXT: Map382/events/1/pages/0/348/Choice/1 < UNTRANSLATED
-Accept
+> CONTEXT: Map382/events/1/pages/0/348/Choice/1
+Accept#Ron
 > END STRING
 
 > BEGIN STRING
 ごめん……
 
 事情は分かったけど、遠慮するよ。
-> CONTEXT: Map382/events/1/pages/0/351/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map382/events/1/pages/0/351/Dialogue/kazuya
+Sorry, I understand you've got your reasons, but
+I'll have to decline.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -639,16 +690,20 @@ Accept
 なんとか自力で突破してみようと思う。
 
 その気持ちだけ受け取っておくね…
-> CONTEXT: Map382/events/1/pages/0/355/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map382/events/1/pages/0/355/Dialogue/kazuya
+I can kind of sense Sphinx's presence, and think
+I'll be able to make my way through the forest
+on my own somehow. I appreciate the offer though.#Ron
 > END STRING
 
 > BEGIN STRING
 ……………………むぅ、つまんないなぁ
 
 せっかく遊べると思ったのに……
-> CONTEXT: Map382/events/1/pages/0/362/Dialogue/enemy30 < UNTRANSLATED
+> CONTEXT: Map382/events/1/pages/0/362/Dialogue/enemy30
+...Mmgh, boring.
 
+I thought we were gonna get to play...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -656,8 +711,11 @@ Accept
 あんまり食い下がるのもよくないよ……
 
 あとでティターニア様から怒られるかもしれないし…
-> CONTEXT: Map382/events/1/pages/0/366/Dialogue/enemy27 < UNTRANSLATED
+> CONTEXT: Map382/events/1/pages/0/366/Dialogue/enemy27
+E-Ena-chan, it's not good to be so persistent.
 
+You'll be told off by Titania-sama if you keep
+this up.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -665,24 +723,29 @@ Accept
 いつもどこから見てるか分からないんだから
 
 ……ね？
-> CONTEXT: Map382/events/1/pages/0/371/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map382/events/1/pages/0/371/Dialogue/enemy27
+We never know when Titania-sama and Oberon-sama
+might be watching, okay?#Ron
 > END STRING
 
 > BEGIN STRING
 ……………………！
 
 そっかぁ、そうだね……♪
-> CONTEXT: Map382/events/1/pages/0/377/Dialogue/enemy30 < UNTRANSLATED
+> CONTEXT: Map382/events/1/pages/0/377/Dialogue/enemy30
+......!
 
+Yeah, you're right... ♪#Ron
 > END STRING
 
 > BEGIN STRING
 別に妖精の他に危険な悪魔がいるわけでもないから
 
 無理にアタシたちがついていく必要もないもんね。
-> CONTEXT: Map382/events/1/pages/0/381/Dialogue/enemy30 < UNTRANSLATED
-
+> CONTEXT: Map382/events/1/pages/0/381/Dialogue/enemy30
+It's not like there are any dangerous demons here
+apart from fairies, so there's no need for us to
+force you to come with us.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -690,14 +753,17 @@ Accept
 仕掛けが分からなそうなバカって感じにも見えないし
 
 焦らずに進めば、きっと辿り着けるよ！！
-> CONTEXT: Map382/events/1/pages/0/385/Dialogue/enemy30 < UNTRANSLATED
-
+> CONTEXT: Map382/events/1/pages/0/385/Dialogue/enemy30
+You don't look like you'll fall for all the traps
+in there like that Sphinx idiot, so as long as
+you take your time and move carefully, I'm sure
+you'll be able to make it through!!#Ron
 > END STRING
 
 > BEGIN STRING
 （スフィンクス……）
-> CONTEXT: Map382/events/1/pages/0/390/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map382/events/1/pages/0/390/Dialogue/kazuya
+(Sphinx...)#Ron
 > END STRING
 
 > BEGIN STRING
@@ -705,16 +771,19 @@ Accept
 
 困ったら……いつでも呼んでね………
 すぐに来るから………
-> CONTEXT: Map382/events/1/pages/0/392/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map382/events/1/pages/0/392/Dialogue/enemy27
+W-We'll be hanging around here for a while, so
+come see us if you get stuck...#Ron
 > END STRING
 
 > BEGIN STRING
 あ、ああ、うん。
 
 ありがとう……………
-> CONTEXT: Map382/events/1/pages/0/397/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map382/events/1/pages/0/397/Dialogue/kazuya
+Y-Yeah, okay.
 
+Thanks...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -722,8 +791,11 @@ Accept
 
 どうやらスフィンクスが捕まってるのは、
 ここで間違いなさそうだな……
-> CONTEXT: Map382/events/1/pages/0/426/Dialogue/other1 < UNTRANSLATED
+> CONTEXT: Map382/events/1/pages/0/426/Dialogue/other1
+The "Fairy Realm"...
 
+It seems like Sphinx has gotten herself captured
+here...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -731,8 +803,11 @@ Accept
 
 話をまとめると、スフィンクスを連れていったのは
 \\C[2]『ティターニア』っていう妖精の女王様らしいね
-> CONTEXT: Map382/events/1/pages/0/431/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map382/events/1/pages/0/431/Dialogue/kazuya
+Yeah...
+Based on what I've heard so far, it sounds like
+that \\C[2]fairy queen "Titania" has taken Sphinx
+somewhere\\C[0].#Ron
 > END STRING
 
 > BEGIN STRING
@@ -740,8 +815,11 @@ Accept
 僕はここに戦いに来たわけじゃない……
 
 そのティターニアが、話の通じる相手だったら良いんだけど…
-> CONTEXT: Map382/events/1/pages/0/436/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map382/events/1/pages/0/436/Dialogue/kazuya
+Whatever this realm's objectives or whatever
+problems they're causing, I didn't come here to
+fight. I just hope that this Titania will hear
+us out.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -749,16 +827,21 @@ Accept
 
 　　ティターニアは自分が手に入れたものは
 　　何がなんでも手放さない、ワガママ女王だからな。」
-> CONTEXT: Map382/events/1/pages/0/441/Dialogue < UNTRANSLATED
+> CONTEXT: Map382/events/1/pages/0/441/Dialogue
+?「That won't happen.
 
+   Titania's a selfish queen who never lets go of something
+   once she's got it.」#RonIffyWording
 > END STRING
 
 > BEGIN STRING
 あ！
 
 キミ、さっきの……！
-> CONTEXT: Map382/events/1/pages/0/453/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map382/events/1/pages/0/453/Dialogue/kazuya
+Ah!
 
+It's you from before...!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -766,8 +849,10 @@ Accept
 
 何の説明もなしに、とっとと逃げたかと思ったら
 わざわざ声をかけに戻ってきたのか……？
-> CONTEXT: Map382/events/1/pages/0/457/Dialogue/other2 < UNTRANSLATED
-
+> CONTEXT: Map382/events/1/pages/0/457/Dialogue/other2
+What's your problem? First you run off without
+saying a word, now you're back coming to talk
+to us.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -775,8 +860,11 @@ Accept
 さっきの話を聞く前は、そのつもりだったけどな。
 
 ちょっと面白そうな事になりそうだったからさ
-> CONTEXT: Map382/events/1/pages/0/462/Dialogue/enemy31 < UNTRANSLATED
+> CONTEXT: Map382/events/1/pages/0/462/Dialogue/enemy31
+Heh heh heh...
 
+It seems like you're gonna make things pretty
+interesting so that was my plan all along.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -784,16 +872,21 @@ Accept
 
 下心丸出しだったアイツらに代わって
 俺様が道案内をしてやろうって思ってさ。
-> CONTEXT: Map382/events/1/pages/0/467/Dialogue/enemy31 < UNTRANSLATED
-
+> CONTEXT: Map382/events/1/pages/0/467/Dialogue/enemy31
+You've come to save that big Sphinx cat or
+whatever she's called, right? Unlike those other
+two with ulterior motives, I'll be happy to do
+you the honor of having me as your guide.#Ron
 > END STRING
 
 > BEGIN STRING
 い、いや……申し出はありがたいんだけど…
 
 そもそもキミはいったい誰……？
-> CONTEXT: Map382/events/1/pages/0/473/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map382/events/1/pages/0/473/Dialogue/kazuya
+W-Well, I appreciate the offer but...
 
+Just who exactly are you...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -801,8 +894,10 @@ Accept
 
 さっきの奴らが話してただろ？
 他の連中から毛嫌いされてる、はぐれものの妖精さ。
-> CONTEXT: Map382/events/1/pages/0/478/Dialogue/enemy31 < UNTRANSLATED
-
+> CONTEXT: Map382/events/1/pages/0/478/Dialogue/enemy31
+I'm known as Puck! Didn't those two from before
+tell you? Everyone's prejudiced against me, so
+I've ended up isolated.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -810,22 +905,25 @@ Accept
 普段は、厄介事には極力関わらないようにしてるんだけど
 
 ちょっとお前に興味が湧いてきたんだ。
-> CONTEXT: Map382/events/1/pages/0/483/Dialogue/enemy31 < UNTRANSLATED
-
+> CONTEXT: Map382/events/1/pages/0/483/Dialogue/enemy31
+Normally I stay away from anything that seems
+like it's gonna be a hassle, but you've piqued
+my interest a little.#Ron
 > END STRING
 
 > BEGIN STRING
 興味……？
-> CONTEXT: Map382/events/1/pages/0/488/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map382/events/1/pages/0/488/Dialogue/kazuya
+Interest...?#Ron
 > END STRING
 
 > BEGIN STRING
 ………そもそもお前、気付いてないだろ？
 
 \\C[2]この森に充満している、魔力で生成された『花粉』に…
-> CONTEXT: Map382/events/1/pages/0/491/Dialogue/enemy31 < UNTRANSLATED
-
+> CONTEXT: Map382/events/1/pages/0/491/Dialogue/enemy31
+Surely you've noticed that \\C[2]this forest is filled
+with pollen created by magical power, right?\\C[0]#Ron
 > END STRING
 
 > BEGIN STRING
@@ -833,8 +931,11 @@ Accept
 アルラウネ種やドリアード種も生活してる。
 
 この森に生える草木は全部、そいつらが育てたんだ。
-> CONTEXT: Map382/events/1/pages/0/495/Dialogue/enemy31 < UNTRANSLATED
-
+> CONTEXT: Map382/events/1/pages/0/495/Dialogue/enemy31
+There's not just pixies in the fairy realm,
+dryads and alraunes also make their homes here.
+Those guys all live in the vegetation growing
+in the forest.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -842,16 +943,22 @@ Accept
 数分も経たないうちに、花粉の魔力にやられて…
 
 \\C[2]さっきの妖精の誘惑みたいなのを断れなくなるんだ
-> CONTEXT: Map382/events/1/pages/0/500/Dialogue/enemy31 < UNTRANSLATED
-
+> CONTEXT: Map382/events/1/pages/0/500/Dialogue/enemy31
+In that kind of space, a normal human wouldn't
+last more than a few minutes before succumbing to
+the pollen. \\C[2]They wouldn't be able to resist being
+seduced like you just did with those two before.#Ron
 > END STRING
 
 > BEGIN STRING
 まぁ………俺も気づいちゃいたが
 
 使い魔の俺ですら干渉を受けないぐらいだからな…
-> CONTEXT: Map382/events/1/pages/0/505/Dialogue/other1 < UNTRANSLATED
+> CONTEXT: Map382/events/1/pages/0/505/Dialogue/other1
+Well, I've noticed it, too.
 
+It's enough to prevent even a familiar like me
+from interfering.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -859,8 +966,11 @@ Accept
 こんな微々たる花粉、\\N[1]にとっちゃ
 
 問題にならないレベルだと思うぜ
-> CONTEXT: Map382/events/1/pages/0/509/Dialogue/other1 < UNTRANSLATED
-
+> CONTEXT: Map382/events/1/pages/0/509/Dialogue/other1
+It's bad when the pollen's in a sealed space like
+back in the shelter, but in a place like this a
+small amount of pollen shouldn't be a problem for
+\\N[1]...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -868,8 +978,11 @@ Accept
 花粉に限らず、色々吸ってきたからね…
 
 それ以上のヤバげなものを……
-> CONTEXT: Map382/events/1/pages/0/514/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map382/events/1/pages/0/514/Dialogue/kazuya
+Haha...
 
+I've breathed in a lot worse than pollen, I
+can't imagine it'll be an issue...#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -877,22 +990,26 @@ Accept
 
 見た目によらず、『そういう』悪魔との付き合いは
 そうとう長いみたいだな
-> CONTEXT: Map382/events/1/pages/0/520/Dialogue/enemy31 < UNTRANSLATED
+> CONTEXT: Map382/events/1/pages/0/520/Dialogue/enemy31
+Hmm, now I see.
 
+Despite appearances, you've spent quite a bit of
+time around "those" kinds of demons, huh?#Ron
 > END STRING
 
 > BEGIN STRING
 お前、あの妖精たちの提案がヤバい『誘い』だって
 
 ちゃんと分かったから断ったんだろ？
-> CONTEXT: Map382/events/1/pages/0/525/Dialogue/enemy31 < UNTRANSLATED
-
+> CONTEXT: Map382/events/1/pages/0/525/Dialogue/enemy31
+Did you refuse the invitation from those two
+fairies because you knew it'd be dangerous?#Ron
 > END STRING
 
 > BEGIN STRING
 う、うん。まぁ…
-> CONTEXT: Map382/events/1/pages/0/529/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map382/events/1/pages/0/529/Dialogue/kazuya
+Y-Yeah, I guess...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -900,8 +1017,11 @@ Accept
 
 ああいう、『全ての人間を思い通りにできる』と思ってる
 妖精どもに、一泡吹かせてやりたいんだよ
-> CONTEXT: Map382/events/1/pages/0/531/Dialogue/enemy31 < UNTRANSLATED
-
+> CONTEXT: Map382/events/1/pages/0/531/Dialogue/enemy31
+And it's not just Titania-sama, there's lots of
+fairies out there who think they can mess with
+humans all they want, so I'd love to give 'em a
+real scare.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -909,16 +1029,19 @@ Accept
 俺様の目的にうってつけなんだ
 
 それが、俺様が協力しようとしている理由だ。
-> CONTEXT: Map382/events/1/pages/0/536/Dialogue/enemy31 < UNTRANSLATED
+> CONTEXT: Map382/events/1/pages/0/536/Dialogue/enemy31
+So having someone experienced like you with real
+power is just perfect for my goals.
 
+That's why I want to help you out.#Ron
 > END STRING
 
 > BEGIN STRING
 つ、つまり…？
 
 君は何をしてくれるの…？
-> CONTEXT: Map382/events/1/pages/0/541/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map382/events/1/pages/0/541/Dialogue/kazuya
+S-So how exactly are you going to help?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -926,8 +1049,11 @@ Accept
 
 あの二人組やティターニア様を含めて、ここ妖精どもは全員
 \\C[2]『人間が単独でこの森を抜けるなんて無理』だと思ってる
-> CONTEXT: Map382/events/1/pages/0/545/Dialogue/enemy31 < UNTRANSLATED
-
+> CONTEXT: Map382/events/1/pages/0/545/Dialogue/enemy31
+Listen up. All fairies, and that includes those
+two from before and Titania-sama, believe there's
+no way a human could make it through the forest
+on their own.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -935,11 +1061,11 @@ Accept
 この森の各所にあるギミックの解き方を教えてやる
 
 \\}ちょっと記憶が怪しいけど……
-> CONTEXT: Map382/events/1/pages/0/550/Dialogue/enemy31 < UNTRANSLATED
-\\C[2]I'll teach you how to solve the gimmicks around
-the forest so that you can accomplish your
-objective in one piece.
-\\}My memory is a little foggy, but....
+> CONTEXT: Map382/events/1/pages/0/550/Dialogue/enemy31
+\\C[2]I'll tell you how to get past the gimmicks in
+each part of the forest so you can safely
+accomplish your objectives here.
+\\}Though my memory of them is a little hazy...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -947,14 +1073,17 @@ objective in one piece.
 思い通りにならない事に地団駄を踏むティターニアを観察する
 
 そして、頃合いを見て、こう言ってやるのさ
-> CONTEXT: Map382/events/1/pages/0/555/Dialogue/enemy31 < UNTRANSLATED
-
+> CONTEXT: Map382/events/1/pages/0/555/Dialogue/enemy31
+I'll get to watch the looks on their faces as
+they stamp their feet in frustration at seeing a
+human they can't control. And then when the
+time's right, I'll jump out and say this...#Ron
 > END STRING
 
 > BEGIN STRING
 『人間はバカじゃない、ザマーミロ』ってな♪
-> CONTEXT: Map382/events/1/pages/0/560/Dialogue/enemy31 < UNTRANSLATED
-"Humans aren't idiots, serves you right!♪"
+> CONTEXT: Map382/events/1/pages/0/560/Dialogue/enemy31
+"Humans aren't idiots, serves you right!♪"#Ron
 > END STRING
 
 > BEGIN STRING
@@ -962,8 +1091,10 @@ objective in one piece.
 
 どうだ？
 悪いハナシじゃないだろ？
-> CONTEXT: Map382/events/1/pages/0/562/Dialogue/enemy31 < UNTRANSLATED
+> CONTEXT: Map382/events/1/pages/0/562/Dialogue/enemy31
+It'll be win-win.
 
+So, how about it? Not a bad offer, right?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -971,8 +1102,11 @@ objective in one piece.
 
 コイツの動機が不純だって事以外は
 たしかに、ウソじゃなさそうだが……
-> CONTEXT: Map382/events/1/pages/0/568/Dialogue/other1 < UNTRANSLATED
+> CONTEXT: Map382/events/1/pages/0/568/Dialogue/other1
+What do you think, \\N[1]?
 
+Though his motives aren't exactly pure, he
+doesn't seem to be lying.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -980,8 +1114,11 @@ objective in one piece.
 別に拒否する理由はないかな……
 
 女王が地団駄とかは、正直僕には関係ないし…
-> CONTEXT: Map382/events/1/pages/0/573/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map382/events/1/pages/0/573/Dialogue/kazuya
+Well, if it'll help us rescue Sphinx faster then
+I don't really have a reason to refuse. And the
+whole upsetting the queen thing has nothing to
+do with us.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -989,8 +1126,10 @@ objective in one piece.
 
 さっきの２人組みたいに、邪な理由があるわけでもないから
 襲われるっていう心配もなさそうだしね…
-> CONTEXT: Map382/events/1/pages/0/578/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map382/events/1/pages/0/578/Dialogue/kazuya
+And Puck's a male, too. So unlike those two from
+before he doesn't have any bad intentions and
+I don't have to worry about being attacked.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -998,25 +1137,26 @@ objective in one piece.
 
 それじゃあ、おれさまは先に行って待ってるから
 準備ができたら、来てくれよな！！
-> CONTEXT: Map382/events/1/pages/0/584/Dialogue/enemy31 < UNTRANSLATED
+> CONTEXT: Map382/events/1/pages/0/584/Dialogue/enemy31
+It's settled, then!
 
+I'll be waiting for you up ahead, so come see me
+when you're ready to go!!#Ron
 > END STRING
 
 > BEGIN STRING
 ………………当ててやろうか？
-> CONTEXT: Map382/events/1/pages/0/613/Dialogue/other2 < UNTRANSLATED
-Let me guess.....
+> CONTEXT: Map382/events/1/pages/0/613/Dialogue/other2
+Let me guess...
 > END STRING
 
 > BEGIN STRING
 『思ったより面倒なことになりそうだな……』
 
 って思ってるだろ………
-> CONTEXT: Map382/events/1/pages/0/615/Dialogue/other2 < UNTRANSLATED
-...I know you're thinking.
-
-"This is going to be more trouble
-than I thought..."
+> CONTEXT: Map382/events/1/pages/0/615/Dialogue/other2
+You're thinking that this whole thing is going to
+turn into even more of a hassle than you thought.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1024,6 +1164,9 @@ than I thought..."
 
 ………無事にスフィンクスを助け出せたら
 説教してあげようって思うくらいには……
-> CONTEXT: Map382/events/1/pages/0/620/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map382/events/1/pages/0/620/Dialogue/kazuya
+......
 
+Enough of a hassle that if we manage to rescue
+her, I'll give Sphinx a hell of a telling off...#Ron
 > END STRING
