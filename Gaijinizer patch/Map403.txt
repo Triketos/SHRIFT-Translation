@@ -3,22 +3,26 @@
 ？？？「あれぇ？
 
 　　　　そこにいるのは、\\N[1]くんじゃないのぉ？」
-> CONTEXT: Map403/events/1/pages/0/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map403/events/1/pages/0/6/Dialogue
+???「What's this?
+    
+	 Is that \\N[1] I see?」#Ron
 > END STRING
 
 > BEGIN STRING
 ？？？「ここだよ、ここ
 
 　　　　上、うえ」
-> CONTEXT: Map403/events/1/pages/0/16/Dialogue < UNTRANSLATED
+> CONTEXT: Map403/events/1/pages/0/16/Dialogue
+???「I'm right here.
 
+     Above you... up!」#Ron
 > END STRING
 
 > BEGIN STRING
 ち、チェシャ……！！
-> CONTEXT: Map403/events/1/pages/0/30/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map403/events/1/pages/0/30/Dialogue/kazuya
+C-Cheshire...!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -26,8 +30,9 @@
 ずいぶんと背が縮んじゃったねぇ？
 
 ティターニアに会いに行ったんじゃなかったっけ？
-> CONTEXT: Map403/events/1/pages/0/32/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: Map403/events/1/pages/0/32/Dialogue/enemy29
+You've shrunk an awful lot since the last time
+I saw you. Weren't you off to see Titania?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -35,8 +40,11 @@
 妙だと思って、周囲を探してみてみれば……
 
 どうしたの？何かトラブル？
-> CONTEXT: Map403/events/1/pages/0/37/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: Map403/events/1/pages/0/37/Dialogue/enemy29
+I thought it was a bit odd that you'd left your
+items and clothes behind, so I went looking for
+you. What happened? Did you run into some kind
+of trouble?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -44,16 +52,17 @@
 彼女は謎が多すぎるし、信用してるワケじゃない……
 
 でも、今は状況が状況だ……。
-> CONTEXT: Map403/events/1/pages/0/46/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map403/events/1/pages/0/46/Dialogue
+There's a lot I don't know about Cheshire, and it's not
+like I trust her, but the situation is what it is...#Ron
 > END STRING
 
 > BEGIN STRING
 僕は、ことのいきさつを
 
 おおまかに彼女に説明した……
-> CONTEXT: Map403/events/1/pages/0/51/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map403/events/1/pages/0/51/Dialogue
+I give her the rough outline of what happened...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -61,8 +70,11 @@
 いちおうボクも聞いたことはあるよ。
 
 極一部の妖精がティターニアから賜る、特別な針だって
-> CONTEXT: Map403/events/1/pages/0/57/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: Map403/events/1/pages/0/57/Dialogue/enemy29
+Hmm, a fairy needle that changes one's height...
+I've heard of such things. Only a tiny fraction
+of fairies are granted the honor of having one
+by Titania given how special they are.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -70,8 +82,11 @@
 ずいぶんと思いきった決断をしたんだねぇ……
 
 モテモテじゃん、\\N[1]くん♡
-> CONTEXT: Map403/events/1/pages/0/62/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Map403/events/1/pages/0/62/Dialogue/enemy29
+But that was pretty bold of those two fairies to
+do that to you.
 
+Aren't you the ladykiller, \\N[1]-kun. ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -79,8 +94,10 @@
 
 逃げてきたってことは、まだ諦めてないみたいだけど
 元の大きさに戻るアテはあるの？
-> CONTEXT: Map403/events/1/pages/0/70/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: Map403/events/1/pages/0/70/Dialogue/enemy29
+So, what's the plan? It looks like you haven't
+given up on getting out of here, but do you have
+an idea of how to get back to your original size?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -88,8 +105,11 @@
 無謀なことは考えてないよねぇ……？
 
 万全の状態でも厳しい相手なのに……
-> CONTEXT: Map403/events/1/pages/0/75/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: Map403/events/1/pages/0/75/Dialogue/enemy29
+I'm sure you aren't thinking about doing anything
+as reckless as challenging Titania at your
+current size. She'd be difficult enough to beat
+even if the odds were on your side.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -97,8 +117,10 @@
 
 そもそもこの大きさじゃ、戦う手段すらないよ…
 魔法も、サイズ相応の威力しか出せないし…
-> CONTEXT: Map403/events/1/pages/0/81/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map403/events/1/pages/0/81/Dialogue/kazuya
+Of course not. I don't think there'd be a way to
+fight her at this size anyway. The effects of
+my magic have been scaled back to my size.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -106,8 +128,11 @@
 『妖精の針』は、複数個存在するはずだ。
 
 他に持ってる妖精を探して、お願いして戻してもらう
-> CONTEXT: Map403/events/1/pages/0/86/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map403/events/1/pages/0/86/Dialogue/kazuya
+Based on what I've heard so far, there should be
+more than one of those needles lying around, so
+I'll go find another fairy who has one and ask
+to borrow their needle.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -115,8 +140,11 @@
 彼女に妖精たちと相談してもらおうと思ってる。
 
 彼女は、妖精たちと交流を深めてるようだったし……
-> CONTEXT: Map403/events/1/pages/0/91/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map403/events/1/pages/0/91/Dialogue/kazuya
+First thing I'll do is go meet up with Sphinx and
+get her to ask the fairies around her. It looks
+like she and the fairies have been getting along
+pretty well.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -124,16 +152,20 @@
 いちおう、現実的なプランは立ててたんだねぇ
 
 やみくもに逃げようってワケでもなかったわけだ。
-> CONTEXT: Map403/events/1/pages/0/97/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: Map403/events/1/pages/0/97/Dialogue/enemy29
+Hmm, looks like you've come up with a fairly
+realistic plan. It doesn't seem like you're going
+to blindly escape.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
 でも、希望をぶち壊すようで悪いんだけど
 
 別の『妖精の針』を使う、ってのは無理だと思うよ？
-> CONTEXT: Map403/events/1/pages/0/102/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: Map403/events/1/pages/0/102/Dialogue/enemy29
+However... I hate to burst your bubble, but I
+think it'll be impossible for you to use another
+fairy's needle.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -141,8 +173,10 @@
 女王ティターニアからの賜り物……
 
 つまり、本来\\C[2]ティターニアに属する妖精の装備品だ
-> CONTEXT: Map403/events/1/pages/0/107/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: Map403/events/1/pages/0/107/Dialogue/enemy29
+Like I said before, those needles are gifts
+bestowed upon fairies by Titania herself. \\C[2]Which
+means that ultimately, they remain her property.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -150,8 +184,11 @@
 他の妖精は、ティターニアの側近で固められてる……
 
 つまり、\\C[2]ティターニアの味方の妖精ってこと。
-> CONTEXT: Map403/events/1/pages/0/112/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: Map403/events/1/pages/0/112/Dialogue/enemy29
+That Ena fairy just had some kind of special
+position. But the other fairies are trying to
+cement their association with Titania. To put it
+another way, \\C[2]they're Titania's allies.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -159,8 +196,11 @@
 針を持ってる妖精がいたとしても…
 
 ティターニアに挑む前のキミに協力してくれるかどうか…
-> CONTEXT: Map403/events/1/pages/0/117/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: Map403/events/1/pages/0/117/Dialogue/enemy29
+Even if you managed to find a fairy who both has
+a needle and has made friends with Sphinx, they
+may or may not actually help you before you've
+actually challenged Titania.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -168,8 +208,11 @@
 針の魔力を全部使わなきゃいけないんでしょ？
 
 なおさら、そんなことしてくれる子は望み薄じゃないかなぁ
-> CONTEXT: Map403/events/1/pages/0/122/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: Map403/events/1/pages/0/122/Dialogue/enemy29
+On top of that, you'd have to use all of the
+magic contained within a needle to return you
+back to normal. There's not much hope of finding
+someone willing to go that far for you.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -177,16 +220,18 @@
 別にキミを絶望させたくて言ったんじゃないんだよ
 
 あくまで、可能性の低さの話をしただけ。
-> CONTEXT: Map403/events/1/pages/0/131/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: Map403/events/1/pages/0/131/Dialogue/enemy29
+Oh come on, don't make that face. I'm not trying
+to make you feel like it's hopeless. I'm just
+letting you know that your chances are slim.#Ron
 > END STRING
 
 > BEGIN STRING
 うーん………
 
 そうだなぁ…………
-> CONTEXT: Map403/events/1/pages/0/136/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: Map403/events/1/pages/0/136/Dialogue/enemy29
+Hmmm... let's see!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -194,14 +239,17 @@
 
 ボクの『能力』を使えば、キミの身体の大きさを
 元に戻せるかもしれないよ？
-> CONTEXT: Map403/events/1/pages/0/142/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Map403/events/1/pages/0/142/Dialogue/enemy29
+I know! Why don't you let me handle it?
 
+I might be able to return you back to normal
+using my ability.#Ron
 > END STRING
 
 > BEGIN STRING
 ど、どういうことだ……？
-> CONTEXT: Map403/events/1/pages/0/148/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map403/events/1/pages/0/148/Dialogue/kazuya
+H-How?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -209,8 +257,11 @@
 
 キミが一瞬で全裸になったり、挿入したりしてた
 あの能力さ。
-> CONTEXT: Map403/events/1/pages/0/150/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: Map403/events/1/pages/0/150/Dialogue/enemy29
+\\C[2]By wrapping up your body I can change it into a
+desired state.\\C[0]
+The same way I made you naked in an instant, or
+forced you to be inserted in me.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -218,8 +269,11 @@
 
 『妖精サイズの大きさ』から
 『人間サイズの大きさ』に変化させるんだよ。
-> CONTEXT: Map403/events/1/pages/0/155/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Map403/events/1/pages/0/155/Dialogue/enemy29
+Using that ability I can change \\C[2]the size of your
+body.\\C[0]
 
+From "Fun-Sized" to "Human-Sized".#Ron
 > END STRING
 
 > BEGIN STRING
@@ -227,14 +281,17 @@
 \\C[2]キミがボクに身体を預けないといけない。\\C[0]
 
 手の中でも、胸の中でも、どこでもいいよ♡
-> CONTEXT: Map403/events/1/pages/0/160/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: Map403/events/1/pages/0/160/Dialogue/enemy29
+Of course I'm going to have to \\C[0]borrow your body\\C[0]
+in order to get everything started. You can sit
+in my hand, or in my breasts, I don't mind either
+way. ♡#Ron
 > END STRING
 
 > BEGIN STRING
 ……………なにを企んでる……？
-> CONTEXT: Map403/events/1/pages/0/166/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map403/events/1/pages/0/166/Dialogue/kazuya
+What are you plotting?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -242,8 +299,11 @@
 キミは、得体の知れないボクに事情を話してくれた
 
 要するに、それだけ切羽詰まってるってことでしょ？
-> CONTEXT: Map403/events/1/pages/0/168/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: Map403/events/1/pages/0/168/Dialogue/enemy29
+Nothing at all.
+The fact that you've taken the time to explain
+the situation to someone as strange as me must
+mean you're at your wit's end, right?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -251,8 +311,11 @@
 確実に元に戻る方法を教えてあげただけだよ。
 
 ボクも、キミに誠意を見せようと思っただけさ。
-> CONTEXT: Map403/events/1/pages/0/173/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: Map403/events/1/pages/0/173/Dialogue/enemy29
+So I'm just trying to expand the number of
+hopeless options available to you by telling you
+another way to return to normal. I just want to
+show you a little good faith is all.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -260,14 +323,16 @@
 この話は後回しになりそうだね。
 
 キミが『その子』と話をつけるまでは………
-> CONTEXT: Map403/events/1/pages/0/180/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: Map403/events/1/pages/0/180/Dialogue/enemy29
+But whatever you decide, it looks like we'll have
+to put that off until later. Until you've settled
+things with "her"...#Ron
 > END STRING
 
 > BEGIN STRING
 エナ………ちゃん。
-> CONTEXT: Map403/events/1/pages/0/193/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map403/events/1/pages/0/193/Dialogue/kazuya
+Ena... chan...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -275,24 +340,28 @@
 マイちゃんはどうしたの？
 
 一緒に待ってるように言ってたはずなんだけど……
-> CONTEXT: Map403/events/1/pages/0/195/Dialogue/enemy30 < UNTRANSLATED
+> CONTEXT: Map403/events/1/pages/0/195/Dialogue/enemy30
+Why are you here, \\N[1]-kun?
 
+What happened to Mai-chan? I thought I told her
+to wait there with you?#Ron
 > END STRING
 
 > BEGIN STRING
 まさか………
 
 マイちゃんに何かヒドいことしてないよね…！？
-> CONTEXT: Map403/events/1/pages/0/200/Dialogue/enemy30 < UNTRANSLATED
-
+> CONTEXT: Map403/events/1/pages/0/200/Dialogue/enemy30
+Don't tell me you did something awful to her...!#Ron
 > END STRING
 
 > BEGIN STRING
 エナは、持っていた妖精の針を槍のように振り回し
 
 針の先端をこちらに向けてきた！
-> CONTEXT: Map403/events/1/pages/0/220/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map403/events/1/pages/0/220/Dialogue
+Ena is brandishing her fairy needle like a spear, pointing
+the tip at me!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -300,8 +369,11 @@
 こういうの『しつけ』って言うんだよね。
 
 言うこと聞かない相手を、力で分からせてあげる方法
-> CONTEXT: Map403/events/1/pages/0/225/Dialogue/enemy30 < UNTRANSLATED
+> CONTEXT: Map403/events/1/pages/0/225/Dialogue/enemy30
+This is a training method I've picked up.
 
+When the other party won't listen, you use force
+to make them understand.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -309,14 +381,17 @@
 アタシの奴隷にしてあげる…♡♡
 
 きっとクセになっちゃうから……♡♡
-> CONTEXT: Map403/events/1/pages/0/230/Dialogue/enemy30 < UNTRANSLATED
+> CONTEXT: Map403/events/1/pages/0/230/Dialogue/enemy30
+I'll use this to give you a good beating and make
+you into my slave. ♡♡
 
+I'm sure you'll learn to love it. ♡♡#Ron
 > END STRING
 
 > BEGIN STRING
 くっ………！！！！
-> CONTEXT: Map403/events/1/pages/0/235/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map403/events/1/pages/0/235/Dialogue/kazuya
+Kuh...!!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -324,16 +399,21 @@
 なかなかヤバイ状況だねぇ
 
 よかったらこれ使うー？
-> CONTEXT: Map403/events/1/pages/0/239/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Map403/events/1/pages/0/239/Dialogue/enemy29
+Looks like you've gotten yourself into a pretty
+pickle there, \\N[1]-kun.
 
+Use this if you like.#Ron
 > END STRING
 
 > BEGIN STRING
 ！！！
 
 こ、これは……！！
-> CONTEXT: Map403/events/1/pages/0/248/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map403/events/1/pages/0/248/Dialogue/kazuya
+!!!
 
+T-This is...!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -341,8 +421,11 @@
 
 お試しとして、サイズが僕の能力でちゃんと変わるかどうか
 ちょうどさっき、この武器でやっておいたんだ♡
-> CONTEXT: Map403/events/1/pages/0/252/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: Map403/events/1/pages/0/252/Dialogue/enemy29
+It's my cherished item. ♪
+I was testing my power out to see if I could use
+it to change something's size, and I just managed
+to do it a little while ago. ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -350,8 +433,10 @@
 一方的な戦いは、見てて気分悪くなるんだ。
 
 だから、今回はキミに少し肩入れしてあげる
-> CONTEXT: Map403/events/1/pages/0/257/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: Map403/events/1/pages/0/257/Dialogue/enemy29
+I can't take part in the battle, but I hate to
+see something so one-sided, so I'm giving you a
+little support.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -359,8 +444,11 @@
 
 キミが犯されたら、そこでおしまい。
 搾精を邪魔するほど、ボクも野暮じゃないからさ
-> CONTEXT: Map403/events/1/pages/0/262/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Map403/events/1/pages/0/262/Dialogue/enemy29
+But don't expect anything more than that.
 
+It's over if she starts violating you. I'm not so
+boorish as to interfere with someone's squeezing.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -368,14 +456,17 @@
 話が済んだら、また呼んでよ。
 
 ………『さっきの案』に興味があればね♡
-> CONTEXT: Map403/events/1/pages/0/267/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: Map403/events/1/pages/0/267/Dialogue/enemy29
+Well then, I'll find a spot somewhere to watch
+the battle. Give me a yell when you've finished
+if you're interested in "that plan" I was telling
+you about. ♡#Ron
 > END STRING
 
 > BEGIN STRING
 チェシャの姿は見えなくなった………
-> CONTEXT: Map403/events/1/pages/0/275/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map403/events/1/pages/0/275/Dialogue
+Cheshire has vanished somewhere.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -383,8 +474,11 @@
 
 あの姿といい、奇妙な能力といい、
 まるで『住む次元がちがう』みたい……
-> CONTEXT: Map403/events/1/pages/0/283/Dialogue/enemy30 < UNTRANSLATED
+> CONTEXT: Map403/events/1/pages/0/283/Dialogue/enemy30
+She's one creepy demon.
 
+Her weird power and appearance aside, it's like
+she's from another dimension entirely.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -392,16 +486,19 @@
 あんなヤツの言う通りになんてならないよね？
 
 アタシたちと一緒に暮らすんだよね…？
-> CONTEXT: Map403/events/1/pages/0/288/Dialogue/enemy30 < UNTRANSLATED
-
+> CONTEXT: Map403/events/1/pages/0/288/Dialogue/enemy30
+You're not actually thinking of going along with
+her, are you? You're gonna live with us, right?#Ron
 > END STRING
 
 > BEGIN STRING
 …………確かに、チェシャは得体が知れない。
 
 目的も素性も、まだまだ分からないことだらけだ。
-> CONTEXT: Map403/events/1/pages/0/294/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map403/events/1/pages/0/294/Dialogue/kazuya
+Cheshire definitely is a strange one, and it's
+hard to get a read on who she is and what she
+wants...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -409,52 +506,64 @@
 
 君たちの提案をのんだら
 僕はスフィンクスを永遠に助けられなくなることだ！
-> CONTEXT: Map403/events/1/pages/0/298/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map403/events/1/pages/0/298/Dialogue/kazuya
+But there's one thing I can say for sure...
 
+I'll never be able to save Sphinx if I go along
+with what you two want!#Ron
 > END STRING
 
 > BEGIN STRING
 "EX3　エナ戦"
-> CONTEXT: Map403/events/1/pages/0/305/InlineScript/1:24 < UNTRANSLATED
-
+> CONTEXT: Map403/events/1/pages/0/305/InlineScript/1:24
+"EX3 Ena Battle"#Ron
 > END STRING
 
 > BEGIN STRING
 仕方ないね……\\N[1]……
 
 できればこんな荒っぽいことしたくなかったんだけど…
-> CONTEXT: Map403/events/1/pages/0/327/Dialogue/enemy30 < UNTRANSLATED
+> CONTEXT: Map403/events/1/pages/0/327/Dialogue/enemy30
+You leave me no choice, \\N[1]...
 
+I didn't want to have to get rough with you...#Ron
 > END STRING
 
 > BEGIN STRING
 \\C[2]抵抗できなくなるまで痛めつけて\\C[0]
 
 そのあとにアタシのテクで骨抜きにしてあげる…！
-> CONTEXT: Map403/events/1/pages/0/331/Dialogue/enemy30 < UNTRANSLATED
+> CONTEXT: Map403/events/1/pages/0/331/Dialogue/enemy30
+\\C[2]I'll beat you until you stop resisting.\\C[0]
 
+And then I'll use my techniques to make sure you
+never think of resisting again!#Ron
 > END STRING
 
 > BEGIN STRING
 もうっ……しぶといなぁ
 
 \\N[1]、体力ありすぎ………
-> CONTEXT: Map403/events/1/pages/0/351/Dialogue/enemy30 < UNTRANSLATED
+> CONTEXT: Map403/events/1/pages/0/351/Dialogue/enemy30
+Gosh, you're being so difficult, \\N[1].
 
+You've got too much stamina.#Ron
 > END STRING
 
 > BEGIN STRING
 エナの表情に余裕がなくなっている
 
 今なら、説得に応じてくれそうだ…！
-> CONTEXT: Map403/events/1/pages/0/355/Dialogue < UNTRANSLATED
+> CONTEXT: Map403/events/1/pages/0/355/Dialogue
+The look on Ena's face is less relaxed.
 
+It looks like now's my chance to persuade her!#CheckLater
 > END STRING
 
 > BEGIN STRING
 エナちゃん！！
-> CONTEXT: Map403/events/1/pages/0/360/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map403/events/1/pages/0/360/Dialogue/enemy27
+Ena-chan!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -462,16 +571,21 @@
 
 無事だったの！？大丈夫！？
 ひどいことされなかった！？
-> CONTEXT: Map403/events/1/pages/0/376/Dialogue/enemy30 < UNTRANSLATED
+> CONTEXT: Map403/events/1/pages/0/376/Dialogue/enemy30
+M-Mai-chan!!
 
+Are you hurt?! Are you okay?!
+He didn't do anything awful to you?!#Ron
 > END STRING
 
 > BEGIN STRING
 わ、私は大丈夫……なにもされてないよ……
 
 むしろ……私がしようとしてたっていうか…
-> CONTEXT: Map403/events/1/pages/0/382/Dialogue/enemy27 < UNTRANSLATED
+> CONTEXT: Map403/events/1/pages/0/382/Dialogue/enemy27
+I-I'm okay. He didn't do anything to me.
 
+In fact, it was more the other way around.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -479,16 +593,20 @@
 \\N[1]くんは、絶対に堕ちないよ
 
 私たちが誘惑しても、小さくしても、それは一緒…
-> CONTEXT: Map403/events/1/pages/0/389/Dialogue/enemy27 < UNTRANSLATED
+> CONTEXT: Map403/events/1/pages/0/389/Dialogue/enemy27
+Putting that aside, let's stop this Ena-chan...
+\\N[1]-kun isn't going to fall for us.
 
+We've tried seducing him, shrinking him, and
+seducing him after shrinking him...#Ron
 > END STRING
 
 > BEGIN STRING
 このまま、\\N[1]くんを行かせてあげよう？
 
 ティターニア様のもとに……
-> CONTEXT: Map403/events/1/pages/0/394/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map403/events/1/pages/0/394/Dialogue/enemy27
+Let's leave him to go see Titania-sama...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -496,8 +614,11 @@
 
 マイちゃんだって、ぜったいモノにしたいって
 すごく張り切ってたじゃない！！
-> CONTEXT: Map403/events/1/pages/0/399/Dialogue/enemy30 < UNTRANSLATED
-
+> CONTEXT: Map403/events/1/pages/0/399/Dialogue/enemy30
+W-What're you saying all of a sudden?!
+You said yourself that you want him to be all
+yours. Wasn't that what you wanted more than
+anything?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -505,8 +626,11 @@
 珍しく嬉しそうにしてたから、アタシも頑張ろうって…
 
 二人きりにしたのも、マイちゃんのためで……
-> CONTEXT: Map403/events/1/pages/0/404/Dialogue/enemy30 < UNTRANSLATED
-
+> CONTEXT: Map403/events/1/pages/0/404/Dialogue/enemy30
+You're normally such a quiet shut-in, so seeing
+you so unusually happy about something made me
+want to do my best for you. I went out
+specifically so you two would be alone together.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -514,8 +638,10 @@
 
 でも分かっちゃったんだ。
 \\N[1]くんは、私たちが嫌いなわけじゃない…
-> CONTEXT: Map403/events/1/pages/0/410/Dialogue/enemy27 < UNTRANSLATED
+> CONTEXT: Map403/events/1/pages/0/410/Dialogue/enemy27
+Thank you, Ena-chan. But I get it now.
 
+It's not like \\N[1]-kun hates us.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -523,8 +649,10 @@
 \\N[1]くんは、ハッキリ言えるんだよ……
 
 『君たちより大事なものがある』って……
-> CONTEXT: Map403/events/1/pages/0/415/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map403/events/1/pages/0/415/Dialogue/enemy27
+In fact it's because he doesn't hate us that he
+can clearly say that there are things in his life
+more important than us.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -532,14 +660,16 @@
 
 でも、私たちじゃダメだったんだ。
 \\N[1]くんは、私たちじゃ満たせないんだよ…
-> CONTEXT: Map403/events/1/pages/0/420/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map403/events/1/pages/0/420/Dialogue/enemy27
+To be honest, it's a little frustrating, but we
+aren't enough for him. We won't be able to make
+\\N[1]-kun happy.#Ron
 > END STRING
 
 > BEGIN STRING
 マイちゃん……
-> CONTEXT: Map403/events/1/pages/0/425/Dialogue/enemy30 < UNTRANSLATED
-
+> CONTEXT: Map403/events/1/pages/0/425/Dialogue/enemy30
+Mai-chan...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -547,8 +677,10 @@
 
 エナちゃん、私ね……手に入れられないことよりも
 これ以上『嫌われる事をする』のがイヤなんだ…
-> CONTEXT: Map403/events/1/pages/0/427/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map403/events/1/pages/0/427/Dialogue/enemy27
+Ena-chan, beyond the fact that he's not something
+I can have, I don't want to do things to him that
+he doesn't like.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -556,14 +688,17 @@
 どっちも同じくらいに…
 
 だから………これ以上引き留めるのはやめよう……
-> CONTEXT: Map403/events/1/pages/0/432/Dialogue/enemy27 < UNTRANSLATED
+> CONTEXT: Map403/events/1/pages/0/432/Dialogue/enemy27
+Whether it's you doing those things or me, it
+all comes out the same...
 
+So let's stop holding him back.#Ron
 > END STRING
 
 > BEGIN STRING
 \\N[1]くんの………好きなように……
-> CONTEXT: Map403/events/1/pages/0/437/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map403/events/1/pages/0/437/Dialogue/enemy27
+Let's let him do what he wants...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -571,8 +706,11 @@
 
 アタシね、この世の中で
 ゼッタイに許せないものが二つあるんだ。
-> CONTEXT: Map403/events/1/pages/0/443/Dialogue/enemy30 < UNTRANSLATED
+> CONTEXT: Map403/events/1/pages/0/443/Dialogue/enemy30
+\\N[1]...
 
+There are two things in this world that I
+absolutely hate...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -580,8 +718,11 @@
 
 服従しないニンゲンは、身体にわからせてやるの
 今までに屈しなかったニンゲンは一人もいない。
-> CONTEXT: Map403/events/1/pages/0/448/Dialogue/enemy30 < UNTRANSLATED
-
+> CONTEXT: Map403/events/1/pages/0/448/Dialogue/enemy30
+The first are humans that won't do as they're
+told. There hasn't been a disobedient human so
+far who hasn't eventually submitted after we make
+their body understand.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -589,38 +730,44 @@
 
 ………このまま続けたら、アタシ自身が
 自分自身を許せなくなっちゃう。
-> CONTEXT: Map403/events/1/pages/0/453/Dialogue/enemy30 < UNTRANSLATED
+> CONTEXT: Map403/events/1/pages/0/453/Dialogue/enemy30
+But the second is anyone who makes Mai-chan cry.
 
+And if I keep forcing this issue I'll be the one
+to do just that.#Ron
 > END STRING
 
 > BEGIN STRING
 だから、アタシは初めてニンゲンを見逃すわ。
 
 アタシと、マイちゃんのために。
-> CONTEXT: Map403/events/1/pages/0/458/Dialogue/enemy30 < UNTRANSLATED
-
+> CONTEXT: Map403/events/1/pages/0/458/Dialogue/enemy30
+So you're going to be the first human I've ever
+let go. I'm doing this for both my and Mai-chan's
+sake.#Ron
 > END STRING
 
 > BEGIN STRING
 エナちゃん……！！
-> CONTEXT: Map403/events/1/pages/0/463/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map403/events/1/pages/0/463/Dialogue/enemy27
+Ena-chan...!!#Ron
 > END STRING
 
 > BEGIN STRING
 …………ありがとう、エナちゃん。
 
 そして、マイちゃん…
-> CONTEXT: Map403/events/1/pages/0/465/Dialogue/kazuya-d < UNTRANSLATED
-
+> CONTEXT: Map403/events/1/pages/0/465/Dialogue/kazuya-d
+Thank you Ena-chan, and Mai-chan...#ron
 > END STRING
 
 > BEGIN STRING
 \\N[1]……
 
 ……………ひとつ、最後に聞きたいんだけど……
-> CONTEXT: Map403/events/1/pages/0/470/Dialogue/enemy30 < UNTRANSLATED
-
+> CONTEXT: Map403/events/1/pages/0/470/Dialogue/enemy30
+\\N[1], there's one more thing I want you to
+ask.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -628,53 +775,61 @@
 
 キミに『大事なもの』ができる前だったら
 スフィンクスとかより、出会うのがもっと早かったら…
-> CONTEXT: Map403/events/1/pages/0/474/Dialogue/enemy30 < UNTRANSLATED
-
+> CONTEXT: Map403/events/1/pages/0/474/Dialogue/enemy30
+Supposing you'd met us before you'd found those
+"important things" in your life, before you'd
+met Sphinx or whatever...#Ron
 > END STRING
 
 > BEGIN STRING
 アタシたちがこうやって身体を小さくしなくても……
 
 一緒に遊んでくれてた……？
-> CONTEXT: Map403/events/1/pages/0/479/Dialogue/enemy30 < UNTRANSLATED
-
+> CONTEXT: Map403/events/1/pages/0/479/Dialogue/enemy30
+Would you have played together with us even if
+we hadn't shrunk you like this...?#Ron
 > END STRING
 
 > BEGIN STRING
 ………そうだね。
 
 喜んで遊んでいたと思うよ。
-> CONTEXT: Map403/events/1/pages/0/485/Dialogue/kazuya-d < UNTRANSLATED
+> CONTEXT: Map403/events/1/pages/0/485/Dialogue/kazuya-d
+Yeah.
 
+I think I would've gladly played with you guys.#Ron
 > END STRING
 
 > BEGIN STRING
 マイとエナは、肩を寄せあいながら
 
 ゆっくりと去っていった……
-> CONTEXT: Map403/events/1/pages/0/503/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map403/events/1/pages/0/503/Dialogue
+Mai and Ena slowly departed flying shoulder-to-shoulder...#Ron
 > END STRING
 
 > BEGIN STRING
 …………優男♪
-> CONTEXT: Map403/events/1/pages/0/515/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: Map403/events/1/pages/0/515/Dialogue/enemy29
+What a gentle man you are. ♪#Ron
 > END STRING
 
 > BEGIN STRING
 \\{うわびっくりした！！
 いつのまに！？
-> CONTEXT: Map403/events/1/pages/0/520/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map403/events/1/pages/0/520/Dialogue/kazuya
+\\{Whoa you gave me a fright!!
+Where'd you come from?!#Ron
 > END STRING
 
 > BEGIN STRING
 実はずっとココで見てたんだよね。
 
 立ち去るフリをしておいてさ。
-> CONTEXT: Map403/events/1/pages/0/523/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Map403/events/1/pages/0/523/Dialogue/enemy29
+I've actually been here this whole time.
 
+I only pretended to leave.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -682,8 +837,11 @@
 
 ホントは実際どうだか分からないくせに
 あんなに恥ずかしがりもせず堂々と…イケメンだねぇ♪
-> CONTEXT: Map403/events/1/pages/0/527/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: Map403/events/1/pages/0/527/Dialogue/enemy29
+There you go spouting off cool guy lines to the
+fairies again. You don't even know if what you're
+saying is true, and yet you can say proudly say
+them without a hint of embarrassment.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -691,24 +849,31 @@
 マイルームのみんなが慕うわけだよ
 
 ボクはてっきり、ここで負けちゃうもんだと思ったのに
-> CONTEXT: Map403/events/1/pages/0/532/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: Map403/events/1/pages/0/532/Dialogue/enemy29
+I'm starting to understand where all those rumors
+about you being a playboy are coming from, and
+why the girls in My Room like you so much. I
+thought for sure you'd lose here.#Ron
 > END STRING
 
 > BEGIN STRING
 …………マイルームのことも知ってるのか。
 
 本当に、君は得体の知れない悪魔だね……
-> CONTEXT: Map403/events/1/pages/0/538/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map403/events/1/pages/0/538/Dialogue/kazuya
+You know about My Room as well?
 
+You really are a strange demon.#Ron
 > END STRING
 
 > BEGIN STRING
 ふふふ、それがボクの『ウリ』だからね♪
 
 不気味って言われることもよくあるよ
-> CONTEXT: Map403/events/1/pages/0/542/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Map403/events/1/pages/0/542/Dialogue/enemy29
+Fufufu, that's kind of my whole gimmick. ♪
 
+I hear the word "eerie" thrown around a lot, too.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -716,8 +881,10 @@
 
 いいんだよ？従来のキミの計画通り
 スフィンクスを頼りにして、ボクを素通りしても。
-> CONTEXT: Map403/events/1/pages/0/546/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: Map403/events/1/pages/0/546/Dialogue/enemy29
+So what's it going to be? Too scared to go with
+my idea? Are you going to stick with your plan to
+bypass me and go ask Sphinx for help?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -725,8 +892,11 @@
 できれば、どうにか助けてあげたいと思ってる。
 
 不安なら、襲わないって『約束』してあげようか？
-> CONTEXT: Map403/events/1/pages/0/551/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: Map403/events/1/pages/0/551/Dialogue/enemy29
+But I've really taken a shine to you, so I'd
+really like to give you a hand if possible.
+If you're worried, I could make a "promise" not
+to attack you.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -734,20 +904,24 @@
 『約束』は、しなくていい。
 
 君はきっと、僕を無事に解放してくれるさ
-> CONTEXT: Map403/events/1/pages/0/557/Dialogue/kazuya-d < UNTRANSLATED
-
+> CONTEXT: Map403/events/1/pages/0/557/Dialogue/kazuya-d
+No, I'd like to ask for your help, there's no
+need for you to make any promises. I'm sure
+you'll come through without any funny business.#Ron
 > END STRING
 
 > BEGIN STRING
 僕は……君を信じるよ。
-> CONTEXT: Map403/events/1/pages/0/562/Dialogue/kazuya-d < UNTRANSLATED
-
+> CONTEXT: Map403/events/1/pages/0/562/Dialogue/kazuya-d
+I'll... put my trust in you.#Ron
 > END STRING
 
 > BEGIN STRING
 …………………………
 
 …………………………へぇ。
-> CONTEXT: Map403/events/1/pages/0/565/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Map403/events/1/pages/0/565/Dialogue/enemy29
+............
 
+............Hmm.#Ron
 > END STRING
