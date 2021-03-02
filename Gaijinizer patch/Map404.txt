@@ -1,32 +1,38 @@
 ﻿> GAIJINIZER PATCH FILE
 > BEGIN STRING
 ……………はい、おしまい。
-> CONTEXT: Map404/events/1/pages/0/9/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: Map404/events/1/pages/0/9/Dialogue/enemy29
+......Okay, all done.#Ron
 > END STRING
 
 > BEGIN STRING
 確か\\N[1]くんの身長って１７５だったよね
 
 大体それくらいの大きさにしておいたよ。
-> CONTEXT: Map404/events/1/pages/0/11/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: Map404/events/1/pages/0/11/Dialogue/enemy29
+If I recall correctly, you were just under five
+foot eight, right? That's the height I've changed
+you back into.#Ron
 > END STRING
 
 > BEGIN STRING
 あー…………
 
 やっと出てこれた……
-> CONTEXT: Map404/events/1/pages/0/18/Dialogue/other2 < UNTRANSLATED
+> CONTEXT: Map404/events/1/pages/0/18/Dialogue/other2
+Aah...
 
+You're finally out of there.#Ron
 > END STRING
 
 > BEGIN STRING
 うわっ！ビックリした！
 
 お、お前、今までどこにいたんだよ！？
-> CONTEXT: Map404/events/1/pages/0/22/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map404/events/1/pages/0/22/Dialogue/kazuya
+Whoa! Don't sneak up on me like that!
 
+Where've you been until now?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -34,8 +40,11 @@
 
 けど、俺が憑依しているお前の魔力が小さすぎて
 うまく姿を形成できなかっただけだよ……
-> CONTEXT: Map404/events/1/pages/0/26/Dialogue/other2 < UNTRANSLATED
-
+> CONTEXT: Map404/events/1/pages/0/26/Dialogue/other2
+I've been close by this whole time... but since
+I rely on your magic to appear and your power
+had been weakened, I wasn't able to take proper
+form until now.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -43,8 +52,11 @@
 
 得体が知れないって分かってる相手なのに
 『約束』もなしで、無警戒に取引に応じるなんて……
-> CONTEXT: Map404/events/1/pages/0/31/Dialogue/other1 < UNTRANSLATED
-
+> CONTEXT: Map404/events/1/pages/0/31/Dialogue/other1
+And what about you?! Stop being so reckless!!
+You carelessly made a deal with someone you don't
+fully understand without even binding them with
+a promise first...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -52,8 +64,11 @@
 なにもこんなやつの能力に頼らなくても……
 
 そのまま裏切られたらどうするつもりだったんだよ！？
-> CONTEXT: Map404/events/1/pages/0/36/Dialogue/other1 < UNTRANSLATED
-
+> CONTEXT: Map404/events/1/pages/0/36/Dialogue/other1
+No matter how much of a complete airhead moron
+Sphinx might be, it's infinitely better to rely
+on her than this person's abilities. What was
+your plan if she'd betrayed you?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -61,24 +76,29 @@
 べつにスフィンクスが頼りなかったわけじゃないよ
 
 それに、賭けに出てたってワケでもないんだ。
-> CONTEXT: Map404/events/1/pages/0/42/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map404/events/1/pages/0/42/Dialogue/kazuya
+N-No, it's not like I wasn't going to rely on
+Sphinx at all. And it's not like this plan was
+some big gamble, either.#Ron
 > END STRING
 
 > BEGIN STRING
 彼女は、『必ず』僕を解放する。
 
 ちゃんと確信があったから、この話に乗ったんだよ！
-> CONTEXT: Map404/events/1/pages/0/47/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map404/events/1/pages/0/47/Dialogue/kazuya
+I went along with her plan because she'd
+"definitely" be able to change me back to normal!#Ron
 > END STRING
 
 > BEGIN STRING
 ……………
 
 どうしてそう思ったの？
-> CONTEXT: Map404/events/1/pages/0/52/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Map404/events/1/pages/0/52/Dialogue/enemy29
+......
 
+What made you think that?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -86,8 +106,10 @@
 『一方的な戦いは、見てて気分悪くなる』って
 
 わざわざ、練気の刀を渡したりするほど……
-> CONTEXT: Map404/events/1/pages/0/59/Dialogue/kazuya-d < UNTRANSLATED
-
+> CONTEXT: Map404/events/1/pages/0/59/Dialogue/kazuya-d
+You told me before that you don't like to see
+one-sided battles, right? So much so that you went
+out of your way to give me my shrunken sword.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -95,8 +117,10 @@
 
 『キミに選択肢がないと、フェアじゃない』
 拘束したとき、君はハッキリそう言った。
-> CONTEXT: Map404/events/1/pages/0/64/Dialogue/kazuya-d < UNTRANSLATED
-
+> CONTEXT: Map404/events/1/pages/0/64/Dialogue/kazuya-d
+It was the same when you attacked me that first
+time. When you had me bound, you clearly said it
+wouldn't be fair if you didn't give me a choice.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -104,8 +128,11 @@
 
 だから、妖精サイズで、ましてや丸裸の相手を
 一方的に蹂躙するなんてあり得ないんだ。
-> CONTEXT: Map404/events/1/pages/0/69/Dialogue/kazuya-d < UNTRANSLATED
-
+> CONTEXT: Map404/events/1/pages/0/69/Dialogue/kazuya-d
+\\C[2]You detest one-sided victories.\\C[0]
+So seemed pretty unlikely that you'd one-sidedly
+take advantage to trample a fairy-sized opponent,
+let alone one who's stark naked.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -113,31 +140,41 @@
 そもそも声なんかかけないし、捕まえるのも容易なはずだ
 
 それをしなかった時点で、君に敵意はない。
-> CONTEXT: Map404/events/1/pages/0/74/Dialogue/kazuya-d < UNTRANSLATED
-
+> CONTEXT: Map404/events/1/pages/0/74/Dialogue/kazuya-d
+If you were going to do something to me, you
+wouldn't have called out to me first, and
+capturing me would've been simple. Those things
+told me you hadn't come with hostile intent.#Ron
 > END STRING
 
 > BEGIN STRING
 \\N[1]くん……………
 
 自信満々に言ってくれてるところ、申し訳ないんだけどさ…
-> CONTEXT: Map404/events/1/pages/0/83/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Map404/events/1/pages/0/83/Dialogue/enemy29
+\\N[1]-kun......
 
+Sorry to say this to you when you've confidently
+said all that...#Ron
 > END STRING
 
 > BEGIN STRING
 服…………着ようか…？
 
 真面目な顔して、バカみたいだよ
-> CONTEXT: Map404/events/1/pages/0/87/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Map404/events/1/pages/0/87/Dialogue/enemy29
+But uh... maybe you should put some clothes on...
 
+You look a little foolish being so serious
+without any clothes...#Ron
 > END STRING
 
 > BEGIN STRING
 （『選択肢』は、観測されていない
 　それに伴う、別世界線の形成も確認できない…）
-> CONTEXT: Map404/events/1/pages/0/93/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: Map404/events/1/pages/0/93/Dialogue/enemy29
+(No "choices" have been observed. I also can't
+  confirm the formation of any world lines...)#Ron
 > END STRING
 
 > BEGIN STRING
@@ -145,8 +182,11 @@
 　あんなに自信満々に確信を持てるのか？
 
 　『介入』の力無しで………？）
-> CONTEXT: Map404/events/1/pages/0/96/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: Map404/events/1/pages/0/96/Dialogue/enemy29
+(Don't tell me he's got that much confidence in
+  his thinking based purely off the behavioral
+  patterns he's seen so far, and not using the
+  power of the intervenor...?#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -154,20 +194,23 @@
 『特異点』なんて大袈裟なって思ってたけど……
 
 なるほどこれはたしかに……）
-> CONTEXT: Map404/events/1/pages/0/101/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: Map404/events/1/pages/0/101/Dialogue/enemy29
+(I had thought that individuals from that world
+  who had accepted intervention were not
+  uncommon, and that talk of "singularities" was
+  exaggeration. But now I see, certainly...)#RonIffy
 > END STRING
 
 > BEGIN STRING
 \\N[1]は、装備品とアイテムを回収した
-> CONTEXT: Map404/events/1/pages/0/108/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map404/events/1/pages/0/108/Dialogue
+\\N[1] has recovered his weapons and items.#Ron
 > END STRING
 
 > BEGIN STRING
 これでよし…と
-> CONTEXT: Map404/events/1/pages/0/119/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map404/events/1/pages/0/119/Dialogue/kazuya
+That should be everything.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -175,8 +218,11 @@
 
 服と装備を身につけた瞬間に襲う気だったのに、
 そこまで読まれてたら、やる気が削がれちゃった♪
-> CONTEXT: Map404/events/1/pages/0/122/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: Map404/events/1/pages/0/122/Dialogue/enemy29
+Haah, you know I thought about attacking you the
+moment you put your equipment and clothes back
+on, but after you read me so well, I lost all my
+motivation. ♪#Ron
 > END STRING
 
 > BEGIN STRING
@@ -184,14 +230,17 @@
 悪魔と取引するときは、ちゃんと約束させないと…
 
 猫も悪魔も、気まぐれを起こすのは唐突だよ？
-> CONTEXT: Map404/events/1/pages/0/127/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: Map404/events/1/pages/0/127/Dialogue/enemy29
+And while you may have had a lot of faith in me,
+if you don't get a promise from a demon when
+doing a deal, whether demon or cat, we can
+suddenly turn on you on a whim.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
 …………じゃあ、何でお前は起こさなかったんだよ
-> CONTEXT: Map404/events/1/pages/0/132/Dialogue/other2 < UNTRANSLATED
-
+> CONTEXT: Map404/events/1/pages/0/132/Dialogue/other2
+So then why didn't you turn on him?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -199,14 +248,17 @@
 
 ボクも\\N[1]くんのレディーキラーっぷりに
 やられちゃったのかもしれないねぇ♡
-> CONTEXT: Map404/events/1/pages/0/134/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Map404/events/1/pages/0/134/Dialogue/enemy29
+Well...
 
+I guess \\N[1]-kun's natural ladykiller
+charms might've got to me, too... ♡#Ron
 > END STRING
 
 > BEGIN STRING
 …………なんだそりゃ
-> CONTEXT: Map404/events/1/pages/0/139/Dialogue/other2 < UNTRANSLATED
-
+> CONTEXT: Map404/events/1/pages/0/139/Dialogue/other2
+What kind of answer is that?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -214,8 +266,10 @@
 
 小さくなった時の影響で
 \\C[2]装備していた武器や装飾品はすべて外れてる。
-> CONTEXT: Map404/events/1/pages/0/142/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: Map404/events/1/pages/0/142/Dialogue/enemy29
+Oh yeah, I'm sure you know this already,
+\\N[1]-kun, but all of your equipment was
+unequipped when you were shrunk.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -223,16 +277,20 @@
 
 特に、これから会うティターニアとは
 \\C[2]穏便に事が済みそうな気配はしないからね
-> CONTEXT: Map404/events/1/pages/0/147/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: Map404/events/1/pages/0/147/Dialogue/enemy29
+So you'll have to re-equip everything. Especially
+since you're going to see Titania, and I don't
+think your meeting's going to go smoothly.#Ron
 > END STRING
 
 > BEGIN STRING
 たぶん、結果的には実力行使になると思うよ。
 
 万全の状態で挑んでね。
-> CONTEXT: Map404/events/1/pages/0/152/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: Map404/events/1/pages/0/152/Dialogue/enemy29
+You're probably going to have to use force in the
+end, so be sure go in fully prepared for
+anything.#Ron
 > END STRING
 
 > BEGIN STRING
