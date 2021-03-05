@@ -240,8 +240,11 @@
 広場からここまで、こんなに近いのに……
 
 まあいいか
-> CONTEXT: Map404/events/3/pages/0/0/Dialogue/enemy31 < UNTRANSLATED
+> CONTEXT: Map404/events/3/pages/0/0/Dialogue/enemy31
+You sure took your sweet time getting here. The
+square isn't that far away.
 
+Well, whatever...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -249,8 +252,11 @@
 
 \\C[2]ティターニアの口車には、ゼッタイに乗るな。\\C[0]
 際限なく、要求がエスカレートしていくのがオチだ
-> CONTEXT: Map404/events/3/pages/0/5/Dialogue/enemy31 < UNTRANSLATED
-
+> CONTEXT: Map404/events/3/pages/0/5/Dialogue/enemy31
+Do you remember what I told you before about the
+hall up ahead? \\C[2]Whatever you do, don't let
+Titania cajole you into anything. \\C[0]Her requests
+don't ever stop escalating.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -258,8 +264,10 @@
 
 ティターニアは杖にはめ込んである『紫の宝玉』から
 無限に魔力を供給している
-> CONTEXT: Map404/events/3/pages/0/10/Dialogue/enemy31 < UNTRANSLATED
-
+> CONTEXT: Map404/events/3/pages/0/10/Dialogue/enemy31
+Also, I don't think you'll be able to defeat her
+head-on. She can replenish her magic endlessly
+using that staff with the embedded purple jewel.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -267,16 +275,22 @@
 
 あとは、こちらが杖を奪えば、戦闘にしろ交渉にしろ
 こちらが圧倒的有利でコトを運べるはずだ
-> CONTEXT: Map404/events/3/pages/0/15/Dialogue/enemy31 < UNTRANSLATED
-
+> CONTEXT: Map404/events/3/pages/0/15/Dialogue/enemy31
+\\C[2]Your first priority should be to deal enough
+damage to make her drop the staff. Once you've got
+it, you'll have the overwhelming advantage to
+proceed either by battle or negotiation.#Ron
 > END STRING
 
 > BEGIN STRING
 どのみち、途中までは実力行使が必要になる
 
 頼んだぜ、\\N[1]！！
-> CONTEXT: Map404/events/3/pages/0/20/Dialogue/enemy31 < UNTRANSLATED
+> CONTEXT: Map404/events/3/pages/0/20/Dialogue/enemy31
+Either way, you'll need to give this everything
+you've got.
 
+I'm counting on you, \\N[1]!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -446,22 +460,26 @@
 どうしたの、\\N[1]くん。
 
 僕に何か用？
-> CONTEXT: Map404/events/5/pages/1/0/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Map404/events/5/pages/1/0/Dialogue/enemy29
+What's the matter, \\N[1]-kun?
 
+Do you need something?#Ron
 > END STRING
 
 > BEGIN STRING
 ティーセットについて
-> CONTEXT: Map404/events/5/pages/1/4/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Map404/events/5/pages/1/4/Choice/1
+About that tea set#Ron
 > END STRING
 
 > BEGIN STRING
 あ、ティーセット使う？
 
 いーよいーよ、遠慮しないで使って♡
-> CONTEXT: Map404/events/5/pages/1/45/Dialogue/enemy29 < UNTRANSLATED
+> CONTEXT: Map404/events/5/pages/1/45/Dialogue/enemy29
+Ah, you want to use the tea set?
 
+Sure thing, knock yourself out. ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -469,8 +487,11 @@
 
 別に胸の中じゃなくても、自分しか認識できないように
 全体を覆えば、無くしたり有ったりできるようになる
-> CONTEXT: Map404/events/5/pages/1/49/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: Map404/events/5/pages/1/49/Dialogue/enemy29
+My power's pretty convenient, huh? It doesn't
+have to be in my chest, if the whole thing is
+covered so that I'm the only one who's aware of
+it, I can make it appear and disappear.#CheckLater
 > END STRING
 
 > BEGIN STRING
@@ -478,8 +499,10 @@
 そんなことも認識で変えられるから、便利だよ
 
 後片付けの手間も、一切かからないのさ
-> CONTEXT: Map404/events/5/pages/1/54/Dialogue/enemy29 < UNTRANSLATED
-
+> CONTEXT: Map404/events/5/pages/1/54/Dialogue/enemy29
+It's especially convenient because I can change
+it with my awareness of whether it's been used
+or not. And clean-up is simple.#CheckLater
 > END STRING
 
 > BEGIN STRING
@@ -604,10 +627,12 @@
 この奥に、強大な魔力を感じる……
 
 神殿の中に入りますか？
-> CONTEXT: Map404/events/12/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map404/events/10/pages/0/2/Dialogue < UNTRANSLATED
-> CONTEXT: Map404/events/11/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map404/events/12/pages/0/2/Dialogue
+> CONTEXT: Map404/events/10/pages/0/2/Dialogue
+> CONTEXT: Map404/events/11/pages/0/2/Dialogue
+You sense powerful magic further ahead...
 
+Enter the temple?#Ron
 > END STRING
 
 > BEGIN STRING

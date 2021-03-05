@@ -1,14 +1,17 @@
 ﻿> GAIJINIZER PATCH FILE
 > BEGIN STRING
 ティターニアの動きが元に戻った…
-> CONTEXT: CommonEvents_683/10/Dialogue < UNTRANSLATED
-
+> CONTEXT: CommonEvents_683/10/Dialogue
+Titania's movements have returned to normal.#Ron
 > END STRING
 
 > BEGIN STRING
 ティターニアの動きが視認域を超えるほど加速しだした…
 
 \\C[2]何か仕掛けてくる気だ…！！！
-> CONTEXT: CommonEvents_683/33/Dialogue < UNTRANSLATED
+> CONTEXT: CommonEvents_683/33/Dialogue
+Titania's moving around so fast you can't keep track of
+her.
 
+\\C[2]It feels like something's coming...!!\\C[0]#Ron
 > END STRING
