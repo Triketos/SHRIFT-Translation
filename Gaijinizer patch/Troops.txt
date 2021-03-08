@@ -16463,8 +16463,11 @@ Giant Sphinx [Normal]#Triketos
 今のお前じゃ、このスフィンクスに敵いっこない！！
 
 ここはひとまず逃げるんだ！！
-> CONTEXT: Troops/345/pages/1/9/Dialogue/other2 < UNTRANSLATED
+> CONTEXT: Troops/345/pages/1/9/Dialogue/other2
+Stop, \\N[1]!!
+You can't beat Sphinx the way you are now!!
 
+You should run away for now!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -16472,16 +16475,21 @@ Giant Sphinx [Normal]#Triketos
 
 この悪魔は、今までの相手とはケタが違う……！
 \\C[2]とても今の装備では太刀打ちできそうにない……
-> CONTEXT: Troops/345/pages/1/16/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/345/pages/1/16/Dialogue
+I know that... I can tell just by the aura she gives off.
+This demon is in a whole other league to all the ones I've
+encountered so far. \\C[2]It doesn't look like I'll be any match
+for her with my current equipment.#Ron
 > END STRING
 
 > BEGIN STRING
 何か………何か方法はないか……
 
 \\C[2]彼女に宝玉を手放させる方法は……！！
-> CONTEXT: Troops/345/pages/1/21/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/345/pages/1/21/Dialogue
+Is there really no way...
 
+\\C[2]Is there no way to make her release that jewel...?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -16489,8 +16497,11 @@ Giant Sphinx [Normal]#Triketos
 
 そのただならぬ魔力、相当の手練れと見える……
 汝に１つ問いかけよう
-> CONTEXT: Troops/345/pages/1/26/Dialogue/enemy32 < UNTRANSLATED
-
+> CONTEXT: Troops/345/pages/1/26/Dialogue/enemy32
+I see... So your name is \\N[1]...
+I can see thou hast great skill, that thou art one
+with extraordinary power. I shall ask thee a
+single question.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -16498,32 +16509,44 @@ Giant Sphinx [Normal]#Triketos
 
 ………………が、そちらはどうだったのだ？
 前身の我は、汝と相思相愛であったのか？
-> CONTEXT: Troops/345/pages/1/31/Dialogue/enemy32 < UNTRANSLATED
-
+> CONTEXT: Troops/345/pages/1/31/Dialogue/enemy32
+It appears mine previous form was infatuated with
+thee. But what were thine own feelings? Did thou
+and mine former self harbor mutual feelings of
+love and affection?#Ron
 > END STRING
 
 > BEGIN STRING
 …………答えたくはないか、それもよかろう
 
 誰であれ、自身の色恋沙汰など打ち明け難いものだ……
-> CONTEXT: Troops/345/pages/1/38/Dialogue/enemy32 < UNTRANSLATED
+> CONTEXT: Troops/345/pages/1/38/Dialogue/enemy32
+I do not mind if thou dost not wish to answer.
 
+Laying matters of the heart bare to others is no
+easy ask for anyone...#Ron
 > END STRING
 
 > BEGIN STRING
 ならば、我が自分の手で確かめてみるのみ……
 
 \\N[1]よ、大人しく我に従え…！！
-> CONTEXT: Troops/345/pages/1/42/Dialogue/enemy32 < UNTRANSLATED
+> CONTEXT: Troops/345/pages/1/42/Dialogue/enemy32
+In which case, I shall confirm the truth of this
+matter with my own hands...
 
+Obey my commands, oh \\N[1]!!#Ron
 > END STRING
 
 > BEGIN STRING
 \\N[1]、\\C[2]やっぱり逃げよう！
 
 この状況じゃあ、お前にどうやっても勝ち目はない！
-> CONTEXT: Troops/345/pages/2/2/Dialogue/other2 < UNTRANSLATED
+> CONTEXT: Troops/345/pages/2/2/Dialogue/other2
+\\C[2]Seriously \\N[1], let's get out of here!
 
+Given the situation, you have no chance of
+winning no matter what you do!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -16531,8 +16554,11 @@ Giant Sphinx [Normal]#Triketos
 引き返す人間を追うことを禁じられていたはず
 
 お前はまだ、やつの問いかけに答えていない！
-> CONTEXT: Troops/345/pages/2/6/Dialogue/other2 < UNTRANSLATED
-
+> CONTEXT: Troops/345/pages/2/6/Dialogue/other2
+If the legends are accurate, \\C[2]Sphinx is forbidden
+from chasing after humans who turn back before
+answering her questions, and you haven't answered
+her yet!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -16540,6 +16566,9 @@ Giant Sphinx [Normal]#Triketos
 
 ヤツも、お前を蹂躙するのが目的である以上
 捕まえる動作以上の事は、なにもできないはずだ！
-> CONTEXT: Troops/345/pages/2/11/Dialogue/other2 < UNTRANSLATED
+> CONTEXT: Troops/345/pages/2/11/Dialogue/other2
+Let's run away for now and think of a plan!
 
+She shouldn't be able to do anything else as long
+as her objective is to violate you.#Ron
 > END STRING

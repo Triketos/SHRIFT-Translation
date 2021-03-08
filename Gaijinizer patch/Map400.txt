@@ -263,7 +263,7 @@ this.#Ron
 
 \\C[2]『紫の宝玉』が地面に転がった！
 > CONTEXT: Map400/events/2/pages/0/235/Dialogue
-The staff Titania's holding took a directly hit, \\C[2]the
+The staff Titania's holding took a direct hit, \\C[2]the
 purple jewel has fallen on the ground!#Ron
 > END STRING
 
@@ -273,7 +273,7 @@ purple jewel has fallen on the ground!#Ron
 急に元の姿に戻ったせいか、体勢を崩してしまった
 > CONTEXT: Map400/events/2/pages/0/239/Dialogue
 Titania scrambled to pick it up but perhaps because of how
-quickly she return to her normal form, she's unable to
+quickly she returned to her normal form, she's unable to
 compose herself.#Ron
 > END STRING
 
@@ -516,7 +516,7 @@ get in the way, and no one can steal your heart.#Ron
 > CONTEXT: Map400/events/2/pages/0/375/Dialogue/enemy33
 But I know that's selfish. I know that's not what
 you want, and I know it's not fair to the others
-who want you, as well.#Ron
+who want you as well.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -524,14 +524,15 @@ who want you, as well.#Ron
 
 ボクはある『賭け』をしてみようと思ったんだ。
 > CONTEXT: Map400/events/2/pages/0/380/Dialogue/enemy33
-But knowing that, I heard about the jewel from
-Oberon, and so I thought I'd make a "wager".#RonIffy
+But that's when I heard about the jewel from
+Oberon, and so I thought I'd make a certain bet
+with him.#RonIffy
 > END STRING
 
 > BEGIN STRING
 賭け……？
 > CONTEXT: Map400/events/2/pages/0/384/Dialogue/kazuya
-Wager...?#Ron
+Bet...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -541,8 +542,8 @@ Wager...?#Ron
 まずは宝玉を奪わねぇと話が始まらないからな！
 > CONTEXT: Map400/events/2/pages/0/387/Dialogue/enemy31
 To put it simply, \\C[2]it was a bet about whether or
-not you'd come to save the big cat!\\C[0] But it
-wouldn't matter unless you got the jewel first.#RonIffy
+not you'd come to save the big cat! \\C[0]But it all
+hinged on you getting the jewel.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -563,7 +564,7 @@ expect you to flatten me...#Ron
 
 放っとけば、ずっと幽閉される身だった。
 > CONTEXT: Map400/events/2/pages/0/398/Dialogue/enemy33
-To be blunt, \\C[2]you have no connection to the me
+To be blunt, \\C[2]you have no connection to the "me"
 that's connected to this Fairy Realm. If you'd
 done nothing, I would've stayed imprisoned here
 forever.#Ron
@@ -575,9 +576,10 @@ forever.#Ron
 
 この世界のボクは、\\N[1]を知らないからね。
 > CONTEXT: Map400/events/2/pages/0/403/Dialogue/enemy33
-The reason why I wanted to talk about this world
-is because I don't know about this world after my
-"connection" with you was born.#DLChecklater
+Me talking about this world was after a
+"connection" had been made with you.
+
+This me of this world doesn't know about you.#Checklater
 > END STRING
 
 > BEGIN STRING
@@ -780,8 +782,8 @@ But Sphinx was there just a moment ago...#Ron
 これはいったい………
 > CONTEXT: Map400/events/2/pages/0/514/Dialogue/enemy32
 It appears I have been asleep for a long time,
-as it feels like this is the first time I've
-opened my eyes in some time. Just where am I?#Ron
+as it feels like this is the first I've opened
+my eyes in a long while. Just where am I?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -808,8 +810,8 @@ Hera.#Ron
 まさか、汝が我を喚び出したのか？人の子よ……
 > CONTEXT: Map400/events/2/pages/0/525/Dialogue/enemy32
 Is what should be the case... but this doesn't
-appear to be Mount Phicium. Don't tell thou hast
-summoned me here, child of man?#Ron
+appear to be Mount Phicium. Hast thou summoned
+me here, child of man?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -844,8 +846,8 @@ Through the reversal of space and time, \\C[2]Sphinx
 has reverted back to her old form! \\C[0]Back to the
 wise form she had when she guarded Mount Phicium.
 
-There's of course no way she'd remember you who
-are anymore you idiot!#Ron
+So of course there's no way she'd remember who
+you are anymore, idiot!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -896,7 +898,7 @@ jewel and Sphinx's true form?#Ron
 Aah, my beloved wife, Titania...
 Of course I made these plans knowing all that.
 I also based them on the fact that humans are
-the onlys thing you pay attention to.#RonIffy
+the only things you pay attention to.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -939,9 +941,9 @@ I helped make her dream come true, you know.#ron
 好きなだけイチャイチャすればいいのさ！！
 > CONTEXT: Map400/events/2/pages/0/585/Dialogue/enemy31
 \\C[2]Now she finally has the power to make her
-beloved \\N[0] submit!\\C[0]
+beloved \\N[0]submit!\\C[0]
 
-You can her can get lovey-dovey all you want!!#Ron
+You and her can get lovey-dovey all you want!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -973,9 +975,9 @@ intelligent.#Ron
 その姿を捨ててまで、結ばれたかった相手、か……
 > CONTEXT: Map400/events/2/pages/0/600/Dialogue/enemy32 < UNTRANSLATED
 It's likely I requested Lady Hera change me into
-a form on par with the children of men. And this
-person I connected with enough to want to discard
-that old form...
+a form on par with the children of men. And I
+connected with this person enough to want to
+discard that form...
 > END STRING
 
 > BEGIN STRING
@@ -996,15 +998,15 @@ knowledge of carnal relations with a human body.#Ron
 
 優しく扱ってやろう……
 > CONTEXT: Map400/events/2/pages/0/612/Dialogue/enemy32
-Don't be alarmed, I won't do anything bad to you.
-I'm well aware of how frail humans are, so I'll
-drain you gently...#Ron
+Don't be alarmed, I won't do anything bad to
+thee. I am well aware of how frail humans are, so
+I'll drain thee gently...#Ron
 > END STRING
 
 > BEGIN STRING
 "EX3　スフィンクス戦"
-> CONTEXT: Map400/events/2/pages/0/619/InlineScript/1:24 < UNTRANSLATED
-
+> CONTEXT: Map400/events/2/pages/0/619/InlineScript/1:24
+"EX3　Sphinx Battle"#Ron
 > END STRING
 
 > BEGIN STRING
