@@ -6597,7 +6597,7 @@ Nude Illusion#Triketos
 > BEGIN STRING
 は、大きな手で\\N[1]をグニグニした
 > CONTEXT: Skills/528/message1
-grabbed \\N[1] with a big hand.#TriketosPartial
+ rubs and squeezes \\N[1] with her big hands.#Triketos/Ron
 > END STRING
 
 > BEGIN STRING
@@ -6616,7 +6616,7 @@ Insert Illusion#TriketosPartial
 は、大きな手で\\N[1]をコネコネした
 > CONTEXT: Skills/529/message1
 > CONTEXT: Skills/548/message1
-pulled \\N[1] with a big hand.#TriketosPartial
+ kneads \\N[1] with her big hands.#Triketos/Ron
 > END STRING
 
 > BEGIN STRING
@@ -7836,7 +7836,7 @@ Desire Tail Wrapping#afrg
 > CONTEXT: Skills/709/message2
 > CONTEXT: Skills/852/message2
 > CONTEXT: Skills/884/message2
-Magical Power gathers around her...! !#afrg
+Magic power gathers up...!!#afrg/Ron
 > END STRING
 
 > BEGIN STRING
@@ -7997,7 +7997,7 @@ Elegant Dance#afrg
 > BEGIN STRING
 妖精針の奇跡
 > CONTEXT: Skills/707/name
-Marvelous Faerie Needle#Triketos
+Miracle Fairy Needle#Triketos/Ron
 > END STRING
 
 > BEGIN STRING
@@ -8010,7 +8010,7 @@ Marvelous Faerie Needle#Triketos
 > BEGIN STRING
 麻痺の妖精針
 > CONTEXT: Skills/708/name
-Paralytic Faerie Needle#Triketos
+Paralytic Fairy Needle#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -9478,26 +9478,26 @@ Fairy Dance#Triketos
 
 > BEGIN STRING
 防御していた腕の筋肉が揉み解されていく……
-> CONTEXT: Skills/870/message2 < UNTRANSLATED
-
+> CONTEXT: Skills/870/message2
+He lets down his guard as his arm muscles relax.#Ron
 > END STRING
 
 > BEGIN STRING
 猫拳マモリヤブリ
-> CONTEXT: Skills/870/name < UNTRANSLATED
-
+> CONTEXT: Skills/870/name
+Cat Paw Guard Break#Ron
 > END STRING
 
 > BEGIN STRING
 は、大きな猫の手で\\N[1]の腕を揉んだ
-> CONTEXT: Skills/870/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/870/message1
+ rubs \\N[1]'s arms with her big cat paws.#Ron
 > END STRING
 
 > BEGIN STRING
 \\N[1]の身体の筋肉がふにゃふにゃになっていく…
 > CONTEXT: Skills/871/message2
-The muscles in \\N[1]'s body are becoming soft...
+The muscles in \\N[1]'s body are going limp...#Ron
 > END STRING
 
 > BEGIN STRING
