@@ -4,8 +4,11 @@
 早くマイルームに戻りたいよぉ……
 
 いや正確に言うとこの世界のボクは戻らないけど…
-> CONTEXT: Map398/events/2/pages/1/1/Dialogue/enemy11 < UNTRANSLATED
+> CONTEXT: Map398/events/2/pages/1/1/Dialogue/enemy11
+\\N[1], I wanna go home to My Room...
 
+Though to be accurate, the me of this world can't
+return to that one...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -13,8 +16,11 @@
 
 一生オリのなかもあり得る展開になっちゃうなんて……
 もうこんな場所、コリゴリだよ……
-> CONTEXT: Map398/events/2/pages/1/6/Dialogue/enemy11 < UNTRANSLATED
+> CONTEXT: Map398/events/2/pages/1/6/Dialogue/enemy11
+I only came here to complain a bit, to think I'd
+end up in a cage for the rest of my life...
 
+I'm so sick of this place...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -22,36 +28,41 @@
 「スフィンクスちゃーん
 　そろそろみんな、おやつにするんだけど
 　スフィンクスちゃんは何か食べたいものあるー？」
-> CONTEXT: Map398/events/2/pages/1/16/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map398/events/2/pages/1/16/Dialogue
+\\C[24][Worried-looking Fairy]\\C[0]
+「Hey Sphinx-chan, everyone's about to get some snacks
+  ready. Is there anything you'd like to eat?」#Ron
 > END STRING
 
 > BEGIN STRING
 \\{\\{からあげ！！
-> CONTEXT: Map398/events/2/pages/1/21/Dialogue/enemy11 < UNTRANSLATED
-
+> CONTEXT: Map398/events/2/pages/1/21/Dialogue/enemy11
+\\{\\{Fried chicken!!#Ron
 > END STRING
 
 > BEGIN STRING
 「……………いいけど
 
 　今度はみんなの分にまで、レモンかけないでよ？」
-> CONTEXT: Map398/events/2/pages/1/24/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map398/events/2/pages/1/24/Dialogue
+「I guess we can do that, but don't put lemon juice on
+  the whole thing this time, okay? It's for everyone.」#Ron
 > END STRING
 
 > BEGIN STRING
 \\N[1]！？
 
 た、助けに来てくれたの！？
-> CONTEXT: Map398/events/1/pages/0/17/Dialogue/enemy11 < UNTRANSLATED
+> CONTEXT: Map398/events/1/pages/0/17/Dialogue/enemy11
+\\N[1]?!
 
+D-Did you come to save me?!#Ron
 > END STRING
 
 > BEGIN STRING
 スフィンクス！！
-> CONTEXT: Map398/events/1/pages/0/21/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map398/events/1/pages/0/21/Dialogue/kazuya
+Sphinx!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -59,8 +70,11 @@
 カギどころか、出入り口すら見当たらない……！
 
 どうやら、魔力で生成された特別製のようだ。
-> CONTEXT: Map398/events/1/pages/0/37/Dialogue < UNTRANSLATED
+> CONTEXT: Map398/events/1/pages/0/37/Dialogue
+I can't even find the entrance to Sphinx's cage, let alone
+the key...
 
+It appears to have been magically constructed.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -68,8 +82,11 @@
 こりゃあ、お前の力でも壊せる感じじゃないぜ
 
 下手したら、中のスフィンクスまで巻き込んじまう…
-> CONTEXT: Map398/events/1/pages/0/42/Dialogue/other2 < UNTRANSLATED
-
+> CONTEXT: Map398/events/1/pages/0/42/Dialogue/other2
+It's no good, \\N[1]. You don't have enough
+power to break it open, and even if you did
+there's a chance you might hurt Sphinx in the
+process.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -77,8 +94,11 @@
 
 スフィンクスのことを謝って………
 檻を開けてもらった方が早そうだ…・
-> CONTEXT: Map398/events/1/pages/0/47/Dialogue/other2 < UNTRANSLATED
-
+> CONTEXT: Map398/events/1/pages/0/47/Dialogue/other2
+For now, let's just go meet that Queen Titania,
+apologize for Sphinx, and ask if she'll let her
+out. That seems like it'll be the fastest way to
+resolve all this.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -86,16 +106,21 @@
 
 ここのやつら、話なんか聞いちゃくれないよ！！
 特に人間は、絶対に生かして帰さないんだ！
-> CONTEXT: Map398/events/1/pages/0/54/Dialogue/enemy11 < UNTRANSLATED
-
+> CONTEXT: Map398/events/1/pages/0/54/Dialogue/enemy11
+Y-You can't, \\N[1]!!
+Don't listen to anything these guys have to say,
+they definitely won't let you go home alive,
+and that goes double for humans.#Ron
 > END STRING
 
 > BEGIN STRING
 …………！？
 
 一体どういうこと？
-> CONTEXT: Map398/events/1/pages/0/60/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map398/events/1/pages/0/60/Dialogue/kazuya
+......?!
 
+What're you talking about?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -103,8 +128,10 @@
 
 『妖精たちが、公園入り口で人間を攫ってるから
 ボクのところまで、人間が来ない』、って。
-> CONTEXT: Map398/events/1/pages/0/64/Dialogue/enemy11 < UNTRANSLATED
-
+> CONTEXT: Map398/events/1/pages/0/64/Dialogue/enemy11
+I told you why I came here, right? No humans were
+making it as far as me because fairies were
+kidnapping them at the park entrance.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -112,14 +139,17 @@
 楽しいパーティに人間を招待してるもんだと思ってさ！
 
 ボクも混ぜてもらおうと思ったの！！
-> CONTEXT: Map398/events/1/pages/0/69/Dialogue/enemy11 < UNTRANSLATED
+> CONTEXT: Map398/events/1/pages/0/69/Dialogue/enemy11
+I thought for sure that those sexy fairies were
+inviting them to a fun, lewd, party!
 
+So I went to see if they'd let me join in!!#Ron
 > END STRING
 
 > BEGIN STRING
 ……………動機が不純。
-> CONTEXT: Map398/events/1/pages/0/74/Dialogue/other2 < UNTRANSLATED
-
+> CONTEXT: Map398/events/1/pages/0/74/Dialogue/other2
+Those are some pretty impure motives...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -127,8 +157,9 @@
 結局僕には会わない世界だからね………
 
 寂しかったんでしょ……
-> CONTEXT: Map398/events/1/pages/0/76/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map398/events/1/pages/0/76/Dialogue/kazuya
+Well, this world's Sphinx never ended up meeting
+me, so she was probably lonely...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -136,8 +167,10 @@
 
 アイツら、もっとエグくてヤバイ目的で
 攫ってた人間をこの世界に留めてたんだ！！
-> CONTEXT: Map398/events/1/pages/0/81/Dialogue/enemy11 < UNTRANSLATED
-
+> CONTEXT: Map398/events/1/pages/0/81/Dialogue/enemy11
+The thing is though, that's not what they were
+doing!! These guys had much nastier motives in
+mind when they kidnapped humans!#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -145,14 +178,17 @@
 とにかく、この広場の樹木にぶら下がってる木の実！！
 
 よーく見てみてよ！！
-> CONTEXT: Map398/events/1/pages/0/86/Dialogue/enemy11 < UNTRANSLATED
+> CONTEXT: Map398/events/1/pages/0/86/Dialogue/enemy11
+They're behind me!!
 
+If you look closely, you'll be able to see fruits
+hanging from the trees!!#RonIffyWording
 > END STRING
 
 > BEGIN STRING
 木の実…？
-> CONTEXT: Map398/events/1/pages/0/93/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map398/events/1/pages/0/93/Dialogue/kazuya
+Fruits?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -160,8 +196,11 @@
 
 こ、これ………
 まさか…………！？
-> CONTEXT: Map398/events/1/pages/0/101/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map398/events/1/pages/0/101/Dialogue/kazuya
+...!!
 
+D-Don't tell me...
+Those are...?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -169,16 +208,19 @@
 人間の顔のようなものが浮かび上がっている…！
 
 そして一定間隔で、脈動を繰り返しているようだ……
-> CONTEXT: Map398/events/1/pages/0/107/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map398/events/1/pages/0/107/Dialogue
+Growing on all the trees were large fruits with human-like
+faces pressing out from inside them. They pulsated
+rhythmically as they hung from the branches...#Ron/Triketos
 > END STRING
 
 > BEGIN STRING
 その表情はどれも、悦楽に浸っているような
 
 狂った笑みを浮かべているようにも見える……
-> CONTEXT: Map398/events/1/pages/0/112/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map398/events/1/pages/0/112/Dialogue
+All of the faces looked like they were completely immersed
+in ecstasy. Some of them were wearing maddened smiles.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -186,8 +228,11 @@
 
 攫われた人間をいっこうに見かけないと思ったら
 こんな姿にされてたのかよ……
-> CONTEXT: Map398/events/1/pages/0/116/Dialogue/other2 < UNTRANSLATED
-
+> CONTEXT: Map398/events/1/pages/0/116/Dialogue/other2
+It makes sense now...
+We were just thinking about how we hadn't seen
+any of the kidnapped humans. So this is what
+happened to them...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -195,8 +240,10 @@
 
 ティターニアって女王様は、話が通じる相手じゃ
 ないかもしれないぜ……
-> CONTEXT: Map398/events/1/pages/0/121/Dialogue/other2 < UNTRANSLATED
-
+> CONTEXT: Map398/events/1/pages/0/121/Dialogue/other2
+Seeing all this, I think that Queen Titania might
+not be as amenable as we first thought, to say
+nothing of the other fairies.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -204,22 +251,27 @@
 
 現に、ボクもこうやって閉じ込められたままだし！！
 \\N[1]も見つかったら何をされるか…！
-> CONTEXT: Map398/events/1/pages/0/126/Dialogue/enemy11 < UNTRANSLATED
+> CONTEXT: Map398/events/1/pages/0/126/Dialogue/enemy11
+She definitely won't listen!
 
+She left me shut here in this cage, so there's
+no telling what she'll do to you, \\N[1]!#Ron
 > END STRING
 
 > BEGIN STRING
 とにかく、早くここを開けて一緒に逃げよう！？
 
 ボク、一秒たりともここに居たくないよぅ…！
-> CONTEXT: Map398/events/1/pages/0/131/Dialogue/enemy11 < UNTRANSLATED
-
+> CONTEXT: Map398/events/1/pages/0/131/Dialogue/enemy11
+Anyway, hurry up and let me out of this cage and
+let's get out of here! I don't wanna be in here
+one second longer than I have to!#Ron
 > END STRING
 
 > BEGIN STRING
 だめだ……ビクともしない。
-> CONTEXT: Map398/events/1/pages/0/139/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map398/events/1/pages/0/139/Dialogue/kazuya
+I can't, it won't open an inch.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -227,22 +279,26 @@
 
 こりゃあ、魔力の大元を叩いて檻を消滅させるしか
 スフィンクスを出す方法はなさそうだ……
-> CONTEXT: Map398/events/1/pages/0/141/Dialogue/other2 < UNTRANSLATED
-
+> CONTEXT: Map398/events/1/pages/0/141/Dialogue/other2
+I don't think it's that simple. It looks like the
+only way to get Sphinx out of there is to use
+some powerful magic to make the cage disappear.#Ron
 > END STRING
 
 > BEGIN STRING
 そ、そんなぁ…
-> CONTEXT: Map398/events/1/pages/0/146/Dialogue/enemy11 < UNTRANSLATED
-
+> CONTEXT: Map398/events/1/pages/0/146/Dialogue/enemy11
+N-No way...#Ron
 > END STRING
 
 > BEGIN STRING
 この木の実……
 
 攫われた人たちは、元に戻すことはできないのか…！？
-> CONTEXT: Map398/events/1/pages/0/151/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map398/events/1/pages/0/151/Dialogue/kazuya
+I wonder if there's a way to return the humans
+stuck in those fruits back to their normal
+selves...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -250,16 +306,20 @@
 
 思念体ならともかく、身体自体が物理的に変形してる…
 生きてるのかどうかも分からねぇぜ……
-> CONTEXT: Map398/events/1/pages/0/155/Dialogue/other2 < UNTRANSLATED
-
+> CONTEXT: Map398/events/1/pages/0/155/Dialogue/other2
+That looks like it'd be difficult. Their bodies
+are transformed, to say nothing of their minds.
+We don't even know whether or not they're still
+alive in there...#Ron
 > END STRING
 
 > BEGIN STRING
 しかし、大量の人間をこんな姿にして……
 
 ティターニアってヤツは、一体何が目的なんだ……？
-> CONTEXT: Map398/events/1/pages/0/160/Dialogue/other2 < UNTRANSLATED
-
+> CONTEXT: Map398/events/1/pages/0/160/Dialogue/other2
+Just what kind of plan does Titania have in mind
+with all those humans?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -267,8 +327,10 @@
 
 　　　　我々『永久を生きる者』から、
 　　　　あなたたち、『定命の者』に対しての………」
-> CONTEXT: Map398/events/1/pages/0/165/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map398/events/1/pages/0/165/Dialogue
+???「"Mercy"...
+     From eternal beings such as ourselves,
+     to those bound by fate such as yourselves...」#Ron
 > END STRING
 
 > BEGIN STRING
@@ -276,24 +338,29 @@
 
 そこには大きなアゲハ蝶の羽を生やした
 物静かそうな女性が歩み寄ってきていた。
-> CONTEXT: Map398/events/1/pages/0/190/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map398/events/1/pages/0/190/Dialogue
+When I looked behind me, there was a quiet woman with
+butterfly wings walking towards us.#Ron
 > END STRING
 
 > BEGIN STRING
 今のところ、殺気のような気配は感じられない……
 
 さっきの感じからするに、言葉も通じるようだ。
-> CONTEXT: Map398/events/1/pages/0/195/Dialogue < UNTRANSLATED
+> CONTEXT: Map398/events/1/pages/0/195/Dialogue
+I don't feel any bloodlust coming from her right now...
 
+Based on her current mood, I should be able to
+talk to her.#Ron/Triketos
 > END STRING
 
 > BEGIN STRING
 ……もしかして、あなたが『ティターニア』？
 
 この世界の、『妖精の女王』っていう………
-> CONTEXT: Map398/events/1/pages/0/199/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map398/events/1/pages/0/199/Dialogue/kazuya
+I don't suppose you're Titania, the queen of the
+Fairy Realm, are you?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -301,16 +368,20 @@
 
 私は誇り高きティターン族の末裔にして、
 全ての妖精を統べる女王…。
-> CONTEXT: Map398/events/1/pages/0/203/Dialogue/enemy28 < UNTRANSLATED
+> CONTEXT: Map398/events/1/pages/0/203/Dialogue/enemy28
+That I am.
 
+I'm a descendant of the proud race known as
+titans, and the ruler of all fairies.#Ron
 > END STRING
 
 > BEGIN STRING
 そして、あなたがた人間の親しき隣人であり
 
 その儚き命を憂いている者です。
-> CONTEXT: Map398/events/1/pages/0/208/Dialogue/enemy28 < UNTRANSLATED
-
+> CONTEXT: Map398/events/1/pages/0/208/Dialogue/enemy28
+I am also a friendly neighbor of you humans, and
+one who deeply mourns your fleeting lives.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -318,22 +389,28 @@
 
 『私たちが親しき者と言うならば、
 　何故人間をそんな姿にするのか？』
-> CONTEXT: Map398/events/1/pages/0/215/Dialogue/enemy28 < UNTRANSLATED
-
+> CONTEXT: Map398/events/1/pages/0/215/Dialogue/enemy28
+I understand your misgivings, \\N[1].
+You wish to know how I can call myself a friendly
+neighbor when I'm changing humans into such a
+form.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
 しかし、これは先に答えた通り……
 
 あなた方人間に対しての『慈悲』に他なりません。
-> CONTEXT: Map398/events/1/pages/0/220/Dialogue/enemy28 < UNTRANSLATED
+> CONTEXT: Map398/events/1/pages/0/220/Dialogue/enemy28
+But the reason for that is as I said...
 
+It's nothing more than "mercy" towards you
+humans.#Ron
 > END STRING
 
 > BEGIN STRING
 『慈悲』……？
-> CONTEXT: Map398/events/1/pages/0/224/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map398/events/1/pages/0/224/Dialogue/kazuya
+"Mercy"...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -341,8 +418,11 @@
 『寿命』は、あまりにも短い。
 
 我々は、それを古より嘆き、哀れんでおりました。
-> CONTEXT: Map398/events/1/pages/0/226/Dialogue/enemy28 < UNTRANSLATED
-
+> CONTEXT: Map398/events/1/pages/0/226/Dialogue/enemy28
+The time you humans have to freely enjoy your
+lives, your "lifespan", is very short. We fairies
+have pitied and lamented this fact since ancient
+times.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -350,8 +430,10 @@
 
 人間を少しずつですが、この妖精の国へと
 招き入れることにしたのです
-> CONTEXT: Map398/events/1/pages/0/231/Dialogue/enemy28 < UNTRANSLATED
-
+> CONTEXT: Map398/events/1/pages/0/231/Dialogue/enemy28
+So after discussing it with our king, Oberon, we
+decided to invite humans little by little to our
+Fairy Realm...#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -359,8 +441,13 @@
 
 魔界に近しい空間なので、自然の摂理から外れ…
 さまざまな人間界の束縛から解放されるのです。
-> CONTEXT: Map398/events/1/pages/0/236/Dialogue/enemy28 < UNTRANSLATED
-
+> CONTEXT: Map398/events/1/pages/0/236/Dialogue/enemy28
+Here in the Fairy Realm, there's no day or night,
+nor hunger nor pain. Being so close to the Demon
+Realm, it's outside the influence of the natural
+order.
+This frees it from the constraints of the many
+human realms.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -368,30 +455,37 @@
 魔界にも存在する摂理があります。
 
 \\C[2]我々が一番、人間から解放したい摂理……\\C[0]
-> CONTEXT: Map398/events/1/pages/0/241/Dialogue/enemy28 < UNTRANSLATED
-
+> CONTEXT: Map398/events/1/pages/0/241/Dialogue/enemy28
+But there is one aspect of the natural order that
+still reigns supreme even in the Demon Realm.
+\\C[2]The one aspect we wish to liberate humanity from
+more than anything...\\C[0]#Ron
 > END STRING
 
 > BEGIN STRING
 …………\\C[2]『時間』\\C[0]か。
-> CONTEXT: Map398/events/1/pages/0/246/Dialogue/other2 < UNTRANSLATED
-
+> CONTEXT: Map398/events/1/pages/0/246/Dialogue/other2
+\\C[2]Time...\\C[0]#Ron
 > END STRING
 
 > BEGIN STRING
 いくら自然の摂理を破れるからって
 
 四次元の基本は、魔界でも適用されちまうからな…
-> CONTEXT: Map398/events/1/pages/0/248/Dialogue/other2 < UNTRANSLATED
-
+> CONTEXT: Map398/events/1/pages/0/248/Dialogue/other2
+No matter how much the natural order breaks
+down in the Demon Realm, the basics of the fourth
+dimension still apply even there...#RonIffy
 > END STRING
 
 > BEGIN STRING
 ………待てよ！
 
 それじゃあ、この人たちのこの姿は……！！
-> CONTEXT: Map398/events/1/pages/0/253/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map398/events/1/pages/0/253/Dialogue/kazuya
+Wait...!
 
+So what you've done to those humans means...!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -399,8 +493,11 @@
 
 \\C[2]彼らは、この森のドライアドたちと一体化し
 魂だけの存在となるため、『果実』の形をとるのです。
-> CONTEXT: Map398/events/1/pages/0/257/Dialogue/enemy28 < UNTRANSLATED
-
+> CONTEXT: Map398/events/1/pages/0/257/Dialogue/enemy28
+That's right, they're in a form capable of living
+eternally in our realm. \\C[2]The process of them
+becoming one with the dryads in the forest leaves
+only their soul, taking the form of "fruit"...#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -408,8 +505,11 @@
 
 \\C[2]魂……つまり精神世界に生成された『妖精の国』により
 妖精たちと、永遠の時間を楽しんでいることでしょう。
-> CONTEXT: Map398/events/1/pages/0/262/Dialogue/enemy28 < UNTRANSLATED
-
+> CONTEXT: Map398/events/1/pages/0/262/Dialogue/enemy28
+Though they may appear to be fixed in place,
+\\C[2]their souls are enjoying playing with my fairies
+for all eternity in a "Fairy Realm" created by
+their own mental world.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -417,8 +517,11 @@
 またある者は、妖精たちと情欲を満たし合い……
 
 悩みとは無縁の世界で、永遠に夢を見続ける………。
-> CONTEXT: Map398/events/1/pages/0/267/Dialogue/enemy28 < UNTRANSLATED
-
+> CONTEXT: Map398/events/1/pages/0/267/Dialogue/enemy28
+One of them enjoys a life of indolence with
+fairies, yet another spends time with fairies
+slaking each others' lusts. It's a dreamlike
+existence free of cares.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -426,14 +529,17 @@
 はるかに有意義で、満たされた毎日を送ることができる
 
 素晴らしいことだと思いませんか？
-> CONTEXT: Map398/events/1/pages/0/272/Dialogue/enemy28 < UNTRANSLATED
-
+> CONTEXT: Map398/events/1/pages/0/272/Dialogue/enemy28
+Rather than a life created by the gods spent
+fearing an uncertain death, they can lead a far
+more meaningful, fulfilled everyday life. Don't
+you think that's an amazing thing?#Ron
 > END STRING
 
 > BEGIN STRING
 \\{\\{ふざけるな！！！
-> CONTEXT: Map398/events/1/pages/0/278/Dialogue/kazuya-b < UNTRANSLATED
-
+> CONTEXT: Map398/events/1/pages/0/278/Dialogue/kazuya-b
+\\{\\{Don't give me that shit!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -441,8 +547,11 @@
 第三者が勝手に決めていいはずがない！！
 
 ましてや、彼らはお前が攫った人間たちだろう！？
-> CONTEXT: Map398/events/1/pages/0/280/Dialogue/kazuya-b < UNTRANSLATED
-
+> CONTEXT: Map398/events/1/pages/0/280/Dialogue/kazuya-b
+Whether people are happy or unhappy isn't
+something some third party can waltz up and
+decide!! Especially after kidnapping all of
+them!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -450,8 +559,10 @@
 
 これじゃあ、人間界で人間を襲っている悪魔たちと
 やっていることは変わらないじゃないか！
-> CONTEXT: Map398/events/1/pages/0/285/Dialogue/kazuya-b < UNTRANSLATED
-
+> CONTEXT: Map398/events/1/pages/0/285/Dialogue/kazuya-b
+You arbitrarily kidnapped them, arbitrarily
+transformed them. You're no better than the
+demons attacking humans in the human realm!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -459,8 +570,10 @@
 みんな、貴方と同じ反応をしましたよ。
 
 彼らを、すぐにでも解放しろと……
-> CONTEXT: Map398/events/1/pages/0/295/Dialogue/enemy28 < UNTRANSLATED
-
+> CONTEXT: Map398/events/1/pages/0/295/Dialogue/enemy28
+Every human who understood the true nature of
+those fruits had the same reaction as you. They
+demanded we immediately release everyone...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -468,8 +581,10 @@
 
 彼らの中には、苦痛に満ちたり、苦悶に満ちた顔は
 1つたりともありませんよ？
-> CONTEXT: Map398/events/1/pages/0/300/Dialogue/enemy28 < UNTRANSLATED
-
+> CONTEXT: Map398/events/1/pages/0/300/Dialogue/enemy28
+But take a look at the faces you can see on the
+fruits' surfaces. Not a single one of them wears
+a look of pain or anguish.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -477,8 +592,10 @@
 このまま『死』を受け入れさせるつもりですか？
 
 貴方こそ、彼らにとって『第三者』のはず……。
-> CONTEXT: Map398/events/1/pages/0/305/Dialogue/enemy28 < UNTRANSLATED
-
+> CONTEXT: Map398/events/1/pages/0/305/Dialogue/enemy28
+Do you intend on putting an end to their dreams
+and forcing them to accept death? Aren't you
+yourself just some third party?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -486,8 +603,10 @@
 
 貴方もきっとこの国が気に入ると思ったのですが………
 残念です。
-> CONTEXT: Map398/events/1/pages/0/313/Dialogue/enemy28 < UNTRANSLATED
-
+> CONTEXT: Map398/events/1/pages/0/313/Dialogue/enemy28
+The look on your face tells me you aren't
+convinced. How unfortunate, I was under the
+impression our realm would be to your liking.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -495,8 +614,11 @@
 
 僕はあんな姿になるのはゴメンだ！
 スフィンクスと一緒に、人間界に帰るんだ！
-> CONTEXT: Map398/events/1/pages/0/318/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map398/events/1/pages/0/318/Dialogue/kazuya
+What are you planning to do with us?!
+I'm going back to the human realm with Sphinx!
+I don't want to end up like the others you've
+brought here!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -504,8 +626,11 @@
 
 言ったでしょう、我々は人間の親しき隣人……
 \\C[2]貴方だけならば、ここから自由に出ていって構いません。
-> CONTEXT: Map398/events/1/pages/0/324/Dialogue/enemy28 < UNTRANSLATED
+> CONTEXT: Map398/events/1/pages/0/324/Dialogue/enemy28
+Fufu, you appear to misunderstand something.
+Like I said, we're humanity's friendly neighbors.
 
+\\C[2]You're free to leave whenever you wish.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -513,8 +638,11 @@
 
 あの人間界とのひずみも、そこに偶然発生したから
 利用していただけに過ぎません。
-> CONTEXT: Map398/events/1/pages/0/329/Dialogue/enemy28 < UNTRANSLATED
+> CONTEXT: Map398/events/1/pages/0/329/Dialogue/enemy28
+You are an uninvited guest, after all.
 
+You did nothing more than make use of a rift that
+happened to open up in the human realm.#Ron/Triketos
 > END STRING
 
 > BEGIN STRING
@@ -522,22 +650,26 @@
 その魔獣を連れていくのであれば話は別。
 
 どうしても共にとなれば、貴方を帰すわけにはいきません。
-> CONTEXT: Map398/events/1/pages/0/334/Dialogue/enemy28 < UNTRANSLATED
-
+> CONTEXT: Map398/events/1/pages/0/334/Dialogue/enemy28
+However... it's a different story if you wish to
+take that magical beast back with you. I cannot
+permit that to happen.#Ron
 > END STRING
 
 > BEGIN STRING
 \\{\\{な、なんでだぁ！？
-> CONTEXT: Map398/events/1/pages/0/341/Dialogue/enemy12 < UNTRANSLATED
-
+> CONTEXT: Map398/events/1/pages/0/341/Dialogue/enemy12
+\\{\\{H-How come?!#Ron
 > END STRING
 
 > BEGIN STRING
 スフィンクス…………
 
 おまえ、ナニやらかしたんだよ………？
-> CONTEXT: Map398/events/1/pages/0/343/Dialogue/other2 < UNTRANSLATED
+> CONTEXT: Map398/events/1/pages/0/343/Dialogue/other2
+Sphinx......
 
+Did you do something to upset these guys?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -545,8 +677,11 @@
 ななな、なにもやってないよ！！！たぶん！！！
 
 ホントだって、ただ捕まって、おとなしくしてたよ！！
-> CONTEXT: Map398/events/1/pages/0/347/Dialogue/enemy12 < UNTRANSLATED
-
+> CONTEXT: Map398/events/1/pages/0/347/Dialogue/enemy12
+I-I didn't!!!!
+I d-d-d-didn't do anything!!! Probably!!!
+I swear, they just grabbed me and I've been
+sitting here quietly!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -554,16 +689,21 @@
 取り皿によそう前にレモン汁ぶっかけちゃったけど…
 
 もしかして、それで怒ってるのかなぁ…？？
-> CONTEXT: Map398/events/1/pages/0/352/Dialogue/enemy11 < UNTRANSLATED
+> CONTEXT: Map398/events/1/pages/0/352/Dialogue/enemy11
+Oh wait, I put some lemon juice on the fried
+chicken that was out for everyone to eat...
 
+Maybe that's what they're mad about...#Ron
 > END STRING
 
 > BEGIN STRING
 地味………！！
 
 ていうか、思ってたより待遇いいな！？
-> CONTEXT: Map398/events/1/pages/0/357/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map398/events/1/pages/0/357/Dialogue/kazuya
+That's it...?!
 
+I didn't think they'd treat you that well here...#Ron/Triketos
 > END STRING
 
 > BEGIN STRING
@@ -571,8 +711,11 @@
 ゼウスの妻、ヘラに飼い慣らされた種族だとか……
 
 オリュンポスの神々の恩恵を受けた、忌まわしき種族…
-> CONTEXT: Map398/events/1/pages/0/362/Dialogue/enemy28 < UNTRANSLATED
-
+> CONTEXT: Map398/events/1/pages/0/362/Dialogue/enemy28
+"Sphinx"? The same species of magical beast
+domesticated by Zeus' wife, Hera? The disgusting
+beasts that received the favor of the gods of
+Olympus?#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -580,8 +723,10 @@
 ゼウス達にティターン族が受けた辱しめ……
 
 今も一時たりとも、忘れたことはありません
-> CONTEXT: Map398/events/1/pages/0/367/Dialogue/enemy28 < UNTRANSLATED
-
+> CONTEXT: Map398/events/1/pages/0/367/Dialogue/enemy28
+Though it was long ago, we Titans were humiliated
+by Zeus and the other gods. It's something that
+even to this day, we have not forgotten.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -589,16 +734,21 @@
 他の妖精たちの遊び相手として過ごしてもらいます
 
 ですが待遇は、そこまで悪くしないつもりですよ
-> CONTEXT: Map398/events/1/pages/0/372/Dialogue/enemy28 < UNTRANSLATED
-
+> CONTEXT: Map398/events/1/pages/0/372/Dialogue/enemy28
+She'll be spending her time as a playmate for the
+other fairies in this Fairy Realm. We have no
+intention of treating her as poorly as she
+deserves, however.#RonIffy
 > END STRING
 
 > BEGIN STRING
 悪くしないんだ！？
 
 一族の因縁なのに！？
-> CONTEXT: Map398/events/1/pages/0/377/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map398/events/1/pages/0/377/Dialogue/kazuya
+You won't do anything to her?!
 
+Even though she's related to Hera?!#Ron/Triketos
 > END STRING
 
 > BEGIN STRING
@@ -606,8 +756,11 @@
 
 妖精ちゃんたちと一生遊ぶのはいいけど……
 つまり僕はずっとこのまま…？
-> CONTEXT: Map398/events/1/pages/0/382/Dialogue/enemy11 < UNTRANSLATED
-
+> CONTEXT: Map398/events/1/pages/0/382/Dialogue/enemy11
+Huh...?
+I don't mind playing with the fairies here for
+the rest of my life, but does that mean I'll be
+in here like this forever?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -615,8 +768,11 @@
 結局、スフィンクスを『飼い殺し』にしたいだけだろ…
 
 魔界の噂通り、飼い殺し大好きな女王様だな……
-> CONTEXT: Map398/events/1/pages/0/387/Dialogue/other2 < UNTRANSLATED
-
+> CONTEXT: Map398/events/1/pages/0/387/Dialogue/other2
+No, she's probably just inventing a reason to
+keep you here out of the way. If the rumors
+floating around the Demon Realm were true,
+this queen likes to keep a menagerie.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -624,32 +780,40 @@
 僕の具現種として過ごしてるんだ。
 
 正確には『この世界線で』ではないけど……
-> CONTEXT: Map398/events/1/pages/0/393/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map398/events/1/pages/0/393/Dialogue/kazuya
+Sphinx was abandoned by Hera, and now exists as
+one of my Spirits. Though not in this particular
+"world line"...#RonIffy
 > END STRING
 
 > BEGIN STRING
 だから今の彼女は、ヘラとはいっさい関係がない。
 
 それでも、考え直してもらえないのか…？
-> CONTEXT: Map398/events/1/pages/0/398/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map398/events/1/pages/0/398/Dialogue/kazuya
+So the Sphinx here has no connection at all to
+Hera. Will you reconsider, knowing that?#Ron
 > END STRING
 
 > BEGIN STRING
 『世界線』……？
 
 ふふ……興味深いことを言うのですね、貴方は。
-> CONTEXT: Map398/events/1/pages/0/403/Dialogue/enemy28 < UNTRANSLATED
+> CONTEXT: Map398/events/1/pages/0/403/Dialogue/enemy28
+"World line"...?
 
+You've said something very interesting just now,
+fufu...#Ron
 > END STRING
 
 > BEGIN STRING
 そうですね、もちろん再考の余地はありますよ
 
 もっとも……あなたの態度次第ですがね…
-> CONTEXT: Map398/events/1/pages/0/407/Dialogue/enemy28 < UNTRANSLATED
-
+> CONTEXT: Map398/events/1/pages/0/407/Dialogue/enemy28
+Yes, of course there is room for me to reconsider
+my position. Though naturally, that does depend
+on your attitude.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -657,14 +821,17 @@
 『統治者の間』にて、お待ちしております。
 
 話の続きは、そちらのほうでゆっくりと………
-> CONTEXT: Map398/events/1/pages/0/411/Dialogue/enemy28 < UNTRANSLATED
+> CONTEXT: Map398/events/1/pages/0/411/Dialogue/enemy28
+Further in at the temple ruins, I will be waiting
+for you in the "Space of Sovereigns".
 
+We can leisurely continue our conversation there.#Ron
 > END STRING
 
 > BEGIN STRING
 ……………消えた。
-> CONTEXT: Map398/events/1/pages/0/421/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map398/events/1/pages/0/421/Dialogue/kazuya
+...There she goes.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -672,8 +839,11 @@
 
 あの感じだと、お前が食い下がるのを分かった上で
 話を持っていってたみたいだ……
-> CONTEXT: Map398/events/1/pages/0/423/Dialogue/other2 < UNTRANSLATED
-
+> CONTEXT: Map398/events/1/pages/0/423/Dialogue/other2
+She said her piece and one-sidedly decided what
+was going to happen. It was like she already knew
+you were going to come after her, so she came to
+talk to you instead.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -681,8 +851,11 @@
 
 奥の『統治者の間』か……
 行くしかないだろうが、警戒は怠るなよ、\\N[1]……
-> CONTEXT: Map398/events/1/pages/0/428/Dialogue/other2 < UNTRANSLATED
-
+> CONTEXT: Map398/events/1/pages/0/428/Dialogue/other2
+She's probably set some kind of trap for you.
+The "Space of Sovereigns", huh...
+You've got no other choice but to go, but don't
+let your guard down, \\N[1]...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -690,16 +863,20 @@
 「わたしたちは人間が大好きで
 　人間と遊ぶのだってもちろん大好きなんだけど
 　ティターニア様に見つかると、人間は木の実にされちゃう…」
-> CONTEXT: Map398/events/13/pages/1/0/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map398/events/13/pages/1/0/Dialogue
+\\C[24][Worried-looking Fairy]\\C[0]
+「We all love humans, and of course we also love playing
+  with them, too. But any humans found by Titania-sama
+  end up as fruit...」#Ron
 > END STRING
 
 > BEGIN STRING
 「だから、一部の妖精たちは見つからないように
 
 　他の妖精と隠れて、人間と遊んだりしてるの」
-> CONTEXT: Map398/events/13/pages/1/5/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map398/events/13/pages/1/5/Dialogue
+「So try not to be found by some fairies, they'll hide you
+  from the others so they can play with you.」#Ron
 > END STRING
 
 > BEGIN STRING
@@ -707,8 +884,10 @@
 　最終的には死んじゃうんだ……
 
 　一緒に遊んでた、妖精たちを残して……」
-> CONTEXT: Map398/events/13/pages/1/9/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map398/events/13/pages/1/9/Dialogue
+「But even if that happens, your body will ultimately start
+  wearing out and you'll end up dead, leaving just the
+  fairies you were playing together with.」#Ron
 > END STRING
 
 > BEGIN STRING
@@ -716,8 +895,11 @@
 　木の実になって、遊んでる夢を永久に見るの……
 
 　人間にとって、どっちがシアワセなの？」
-> CONTEXT: Map398/events/13/pages/1/14/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map398/events/13/pages/1/14/Dialogue
+「Hey, if you had to pick between staying human and being
+  played with to death, or becoming fruit and being able to
+  play forever in a dream? Which do you think would be
+  the happier ending?」#Ron
 > END STRING
 
 > BEGIN STRING
@@ -725,8 +907,10 @@
 いよいよいくのか？
 
 ティターニア様と『交渉』しに
-> CONTEXT: Map398/events/18/pages/0/1/Dialogue/enemy31 < UNTRANSLATED
+> CONTEXT: Map398/events/18/pages/0/1/Dialogue/enemy31
+Oh, you're finally going?
 
+Off to negotiate with Titania-sama?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -734,16 +918,23 @@
 \\C[2]要求に応えて解放してもらおうだなんて思うなよ？
 
 最終的には無茶振りがきて、お前まで捕まるぞ。
-> CONTEXT: Map398/events/18/pages/0/6/Dialogue/enemy31 < UNTRANSLATED
+> CONTEXT: Map398/events/18/pages/0/6/Dialogue/enemy31
+I'm sure you've realized this already, but \\C[2]don't
+think you'll be able to get her to release that
+Sphinx by meeting her demands. 
 
+In the end, she's going to ask you for something
+unreasonable, and then capture you.#Ron/Triketos
 > END STRING
 
 > BEGIN STRING
 それじゃあ、やっぱり実力行使しかないのか……
 
 気はすすまないけど…
-> CONTEXT: Map398/events/18/pages/0/11/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map398/events/18/pages/0/11/Dialogue/kazuya
+So I'll have to use force, then...?
 
+I'd rather not do that if possible...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -751,8 +942,11 @@
 ティターニアを完全にぶちのめすことは出来ない。
 
 せいぜい、一瞬膝をつかせるくらいが関の山だ。
-> CONTEXT: Map398/events/18/pages/0/15/Dialogue/enemy31 < UNTRANSLATED
+> CONTEXT: Map398/events/18/pages/0/15/Dialogue/enemy31
+Well... I hate to break this to you, but you 
+don't have the power to completely take her down.
 
+The best you could do is temporarily stagger her.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -760,8 +954,11 @@
 
 \\C[2]アレに嵌め込んである、『紫色の宝玉』……
 あの宝玉は、いわゆる魔力の供給源になってる
-> CONTEXT: Map398/events/18/pages/0/20/Dialogue/enemy31 < UNTRANSLATED
+> CONTEXT: Map398/events/18/pages/0/20/Dialogue/enemy31
+You saw that old wand she was carrying, right?
 
+\\C[2]That purple jewel inlaid in it is said to be the
+source of her power.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -769,8 +966,11 @@
 彼女の異常な魔力回復にほとんど追い付けない
 
 \\C[2]だから、あの宝玉を隙を見て奪ってやるんだ。
-> CONTEXT: Map398/events/18/pages/0/25/Dialogue/enemy31 < UNTRANSLATED
-
+> CONTEXT: Map398/events/18/pages/0/25/Dialogue/enemy31
+Even if you face her head on, your firepower
+won't be able to match her abnormal healing
+abilities. \\C[2]So you'll have to look for an opening
+to steal that jewel.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -778,14 +978,19 @@
 お前が使えば、あのオリを消すのも簡単になるだろう。
 
 ま、その辺はお前に任せるよ
-> CONTEXT: Map398/events/18/pages/0/30/Dialogue/enemy31 < UNTRANSLATED
-
+> CONTEXT: Map398/events/18/pages/0/30/Dialogue/enemy31
+If you manage to steal it, you can use it as a
+bargaining chip, as well as using it to make that
+cage disappear. I'll leave the "how" up to you,
+though.#Ron
 > END STRING
 
 > BEGIN STRING
 \\C[2]『紫色の宝玉』\\C[0]か………
 
 分かった、試してみるよ。
-> CONTEXT: Map398/events/18/pages/0/35/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map398/events/18/pages/0/35/Dialogue/kazuya
+A \\C[2]purple jewel\\C[0]...
 
+Got it, I'll see what I can do.#Ron
 > END STRING
