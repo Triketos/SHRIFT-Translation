@@ -14,8 +14,8 @@
 > CONTEXT: Map346/events/3/pages/0/2/Dialogue/enemy
 Jeez...
 
-It's okay when you release it, but
-\\N[1] will go out with you soon...#GT
+You could've just let her be, but now you've
+gone along with this whole thing...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -23,9 +23,8 @@ It's okay when you release it, but
 
 ヘカーテさまじゃ　なかった……
 > CONTEXT: Map346/events/3/pages/0/7/Dialogue/enemy2
-But I'm a little relieved...
-
-Hecate wasn't...#GT
+But I'm... a little relieved... that
+Hectate-sama... wasn't here...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -33,8 +32,9 @@ Hecate wasn't...#GT
 
 気配も　感じない……
 > CONTEXT: Map346/events/3/pages/0/11/Dialogue/enemy2
-I don't feel any signs of seeing
-it at the moment...#GT
+She's not here... for now...
+
+And I can't... sense her presence...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -43,10 +43,10 @@ it at the moment...#GT
 モルモーに仕留められるわけないって思って
 ハナから諦めているのかも……
 > CONTEXT: Map346/events/3/pages/0/15/Dialogue/enemy
-Ah well...
-
-Perhaps she gave up from Hana thinking
-she couldn't be killed by Mormo...#GT
+Yeah...
+Maybe she thought there wasn't any chance of
+Mormo bringing him down so she gave up before she
+even started.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -55,10 +55,10 @@ she couldn't be killed by Mormo...#GT
 部下がこんな大それた事やろうとしてるんだから
 ヘカーテが丸投げ放置してるわけないのよね…
 > CONTEXT: Map346/events/3/pages/0/20/Dialogue/enemy
-However, even if the only thing I need is Mormo,
-
-Hecate isn't throwing a whole round because his
-subordinates are trying to do such a big thing...#GT
+But even if it's just Mormo who wants something
+from \\N[1], there's no way Hecate would
+leave her subordinate to try doing something so
+overambitious and not be involved at all.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -67,10 +67,10 @@ subordinates are trying to do such a big thing...#GT
 あのクソ上司のことだから、絶対なにか企んでるよ。
 こんなに静かなのが、逆に怪しいもの。
 > CONTEXT: Map346/events/3/pages/0/25/Dialogue/enemy
-\\N[1]... Take care.
-It's that fucking boss, so I'm
-definitely planning. What is so quiet is,
-on the contrary, suspicious.#GT
+You need to be really careful, \\N[1]...
+It's that shitty boss we're talking about here,
+she's definitely plotting something. The fact it's
+so quiet is what makes it all so suspicious.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -79,10 +79,9 @@ on the contrary, suspicious.#GT
 \\C[2]あんな状態　番組　続けるなんて　ムチャしない
 きっとなにか　考え　あるはず……
 > CONTEXT: Map346/events/3/pages/0/30/Dialogue/enemy2
-Mormo is also crazy, but it's not stupid.
-
-\\C[2]In such a state, the program shouldn't
-be disturbing to keep going.#GT
+Mormo might be... a clumsy dolt... but she's...
+no idiot. \\C[2]Don't stay... too long on...
+that show... she's bound to... have some plan...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -91,10 +90,10 @@ be disturbing to keep going.#GT
 
 \\N[1]　ときどき　それ忘れてる
 > CONTEXT: Map346/events/3/pages/1/0/Dialogue/enemy3
-...\\N[1], the devil I mentioned before
-is actually scary...
+\\N[1]... like I've... told you before...
+demons are... scary entities.
 
-\\N[1], sometimes I forget it.#GT
+You forget that... from time to time.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -103,16 +102,14 @@ is actually scary...
 
 \\C[0]気をつけろ　\\N[1]
 > CONTEXT: Map346/events/3/pages/1/5/Dialogue/enemy3
-\\C[2]When the devil is confident that
-he will fall against humans.
-
-\\C[0]Be careful, \\N[1].#GT
+\\C[2]Be very careful... when a demon... has full
+confidence... that they can... seduce you...#RonIffy
 > END STRING
 
 > BEGIN STRING
 え、エンプーサ…！？
 > CONTEXT: Map346/events/3/pages/2/3/Dialogue/kazuya
-Eh, Empuse...!?#GT
+E-Empuse...?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -125,10 +122,10 @@ Eh, Empuse...!?#GT
 > CONTEXT: Map346/events/4/pages/3/0/Dialogue
 > CONTEXT: Map349/events/3/pages/0/0/Dialogue
 > CONTEXT: Map349/events/4/pages/0/0/Dialogue
-I pressed my hand hard, but it seems that
-it only contains cotton
+I pushed my hand hard into it, but it appears to contain
+nothing but cotton inside.
 
-Looks like a big stuffed bear...#GT
+It looks like a big stuffed bear...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -137,9 +134,9 @@ Looks like a big stuffed bear...#GT
 これってもしかして、モルモーの仕業……！？
 > CONTEXT: Map346/events/3/pages/2/9/Dialogue/kazuya
 > CONTEXT: Map346/events/4/pages/2/9/Dialogue/kazuya
-What does it mean...?
+What's going on...?
 
-Maybe this is Mormo's work...!?#GT
+Could this be Mormo's handiwork...?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -148,9 +145,9 @@ Maybe this is Mormo's work...!?#GT
 \\N[1]さん、ステージのほうへどうぞ。
 > CONTEXT: Map346/events/3/pages/2/22/Dialogue/enemy25
 > CONTEXT: Map346/events/4/pages/2/22/Dialogue/enemy25
-...The stage is ready.
+...We're ready for you now.
 
-\\N[1], please go to the stage.#GT
+\\N[1]-san, please head toward the stage.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -160,17 +157,18 @@ Maybe this is Mormo's work...!?#GT
 だとしたら…２人はいったいどこに…
 > CONTEXT: Map346/events/3/pages/2/36/Dialogue/kazuya
 > CONTEXT: Map346/events/4/pages/2/36/Dialogue/kazuya
-This is... are they in this form...?
+Have they both been changed into this form...?
 
 Or were they replaced with stuffed animals...?
-If so... where are they?#GT
+And if so, where are they...?#Ron
 > END STRING
 
 > BEGIN STRING
 それに、さっきの鏡のゆがみは一体…
 > CONTEXT: Map346/events/3/pages/2/41/Dialogue/kazuya
 > CONTEXT: Map346/events/4/pages/2/41/Dialogue/kazuya
-And the distortion of the mirror was just...#GT
+And what on earth was with that distorting
+mirror before...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -179,9 +177,9 @@ And the distortion of the mirror was just...#GT
 ……ステージに行って、本人に直接聞いてみよう。
 > CONTEXT: Map346/events/3/pages/2/44/Dialogue/kazuya
 > CONTEXT: Map346/events/4/pages/2/44/Dialogue/kazuya
-I don't know anything if I stay still here...
-
-...Go to the stage and ask yourself.#GT
+I'm not going to understand by standing here and
+starting at them, I'll head to the stage and ask
+the person in question directly.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -190,10 +188,10 @@ I don't know anything if I stay still here...
 
 \\C[2]誘惑系のスキルもバカにはできないはず。
 > CONTEXT: Map346/events/4/pages/0/0/Dialogue/enemy
-Mormo is a very high-ranking demon in terms of
-magical power, although her physical
-abilities are terrible.
-\\C[2]The temptation skills cannot be stupid.#GT
+Mormo might have no physical abilities to speak
+of, but the power of her magical abilities makes
+her a high-ranking demon.
+\\C[2]Her seduction skills are nothing to sneeze at.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -202,16 +200,18 @@ abilities are terrible.
 
 自然な会話で、搾精に持ち込むのが彼女の手口だから
 > CONTEXT: Map346/events/4/pages/0/5/Dialogue/enemy
-\\N[1], if you're going to get tempted, \\C[2]don't be
-overwhelmed by the pace of her conversation.
+If it feels like you're about to lose to her
+seductions, \\C[2]whatever you do don't let yourself
+be swept up in the pace of her conversation.
 
-It's her natural trick to bring her to squeeze.#GT
+Her standard trick is to use natural conversation
+to smoothly lead things into a squeezing.#Ron
 > END STRING
 
 > BEGIN STRING
 ら、ランパス…！？
 > CONTEXT: Map346/events/4/pages/2/3/Dialogue/kazuya
-L-Lampas...!?#GT
+L-Lampas...?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -220,9 +220,9 @@ L-Lampas...!?#GT
 
 別に衣装や化粧もないし、何してよう……
 > CONTEXT: Map346/events/5/pages/1/3/Dialogue/kazuya
-Hmm... Even if you ask me to wait
-in the dressing room... I don't have any
-costumes or makeup, no matter what...#GT
+Hmm... I don't know what the point of telling me
+to wait here was. It's not like I have any
+costumes to get into or makeup to put on...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -230,9 +230,9 @@ costumes or makeup, no matter what...#GT
 
 軽く身体をほぐしておくかな…？
 > CONTEXT: Map346/events/5/pages/1/8/Dialogue/kazuya
-First of all, it will be a dance game...
-
-Do I want to loosen my body lightly?#GT
+Well, this'll probably be a dance battle so I
+suppose I should do some stretches to loosen up
+my body.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -240,23 +240,24 @@ Do I want to loosen my body lightly?#GT
 
 目の前の鏡が波打ってみえる……
 > CONTEXT: Map346/events/5/pages/1/13/Dialogue/kazuya
-…………?
+......?
 
-I can see the mirror in front of me...#GT
+The mirror in front of me is rippling...#Ron
 > END STRING
 
 > BEGIN STRING
 な、なんだ…！？
 > CONTEXT: Map346/events/5/pages/1/25/Dialogue/kazuya
-What is...!?#GT
+W-What the...?!#Ron
 > END STRING
 
 > BEGIN STRING
 エンプーサ…！？
 ランパス…！！？
 > CONTEXT: Map346/events/5/pages/1/30/Dialogue/kazuya
-Empuse...!?
-Lampas...!!?#GT
+Empuse...?!
+
+Lampas...?!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -265,13 +266,13 @@ Lampas...!!?#GT
 触ってみても、何も起きない…
 > CONTEXT: Map346/events/5/pages/2/1/Dialogue/kazuya
 > CONTEXT: Map349/events/5/pages/1/1/Dialogue/kazuya
-...It's a mirror that's no stranger.
+...It's an ordinary mirror.
 
-Nothing happens when I touch it...#GT
+Nothing happens when I touch it...#Ron
 > END STRING
 
 > BEGIN STRING
 でもさっきのは…？
 > CONTEXT: Map346/events/5/pages/2/5/Dialogue/kazuya
-But what was that...?#GT
+But what was that before...?#Ron
 > END STRING
