@@ -16505,40 +16505,47 @@ Anaon[Defeat 2]#Triketos
 
 > BEGIN STRING
 エナ【通常】
-> CONTEXT: Troops/343/name < UNTRANSLATED
-
+> CONTEXT: Troops/343/name
+Ena[Normal]#Strate
 > END STRING
 
 > BEGIN STRING
 まっ、待って！！！\\N[1]！！
 
 こ、降参！！！私の負け！！
-> CONTEXT: Troops/343/pages/2/8/Dialogue/enemy30 < UNTRANSLATED
+> CONTEXT: Troops/343/pages/2/8/Dialogue/enemy30
+W-wait!!! \\N[1]!!
 
+I-I surrender!!! It's my loss!!#Strate
 > END STRING
 
 > BEGIN STRING
 お、おねがい…これ以上痛いことしないで？
 
 私も、ホラ、針は捨てるから…ね…♡
-> CONTEXT: Troops/343/pages/2/12/Dialogue/enemy30 < UNTRANSLATED
+> CONTEXT: Troops/343/pages/2/12/Dialogue/enemy30
+P-Please... Can you stop hurting me?
 
+Here, look, I'll even throw the needle away... ♡#Strate
 > END STRING
 
 > BEGIN STRING
 そんな怖い顔しないでよぉ♡
 
 ほんのお茶目でしょ…？ね？ね？♡♡
-> CONTEXT: Troops/343/pages/2/16/Dialogue/enemy30 < UNTRANSLATED
+> CONTEXT: Troops/343/pages/2/16/Dialogue/enemy30
+Don't make that scary face♡
 
+It was just a prank, right...? Right? Right? ♡♡#Strate
 > END STRING
 
 > BEGIN STRING
 エナは、妖精の針を捨てて
 
 こちらにゆっくりと近付いてきている……
-> CONTEXT: Troops/343/pages/2/22/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/343/pages/2/22/Dialogue
+Ena threw the fairy needle away and is slowly
+approaching......#Strate
 > END STRING
 
 > BEGIN STRING
@@ -16546,8 +16553,11 @@ Anaon[Defeat 2]#Triketos
 
 彼女を信用するのか…？
 それとも…
-> CONTEXT: Troops/343/pages/2/26/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/343/pages/2/26/Dialogue
+What should I do...?
 
+Do I trust her...?
+Or...#Strate
 > END STRING
 
 > BEGIN STRING
@@ -16567,16 +16577,21 @@ Mai[Normal]#Triketos
 ……\\C[2]早く魔法が使えるようにならないと…！
 
 彼女に押し切られて、抵抗できなくなってしまう…
-> CONTEXT: Troops/344/pages/1/20/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Troops/344/pages/1/20/Dialogue/kazuya
+......\\C[2]I have to get my magic back quickly...!
 
+Otherwise she'll overpower me and I won't be able
+to fight back...#Strate
 > END STRING
 
 > BEGIN STRING
 『集中』だ……
 
 とにかく、精神を集中させるんだ…！
-> CONTEXT: Troops/344/pages/1/24/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Troops/344/pages/1/24/Dialogue/kazuya
+"Focus"......
 
+I just need to focus my mind...!#Strate
 > END STRING
 
 > BEGIN STRING
