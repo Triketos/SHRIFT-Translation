@@ -8,13 +8,13 @@ Lampas [Defeat]#Triketos
 > BEGIN STRING
 うぁぁぁ……ぁ……ぁ……ぁ……♡
 > CONTEXT: CommonEvents_637/12/Dialogue/kazuya-c
-Uahhh...ah...ah...ah...♡#TriketosPartial
+Uahhh... ah... ah... ah... ♡#Triketos
 > END STRING
 
 > BEGIN STRING
 \\C[2]\\N[1]は、ランパスの花粉に夢中になってしまった…
 > CONTEXT: CommonEvents_637/14/Dialogue
-\\C[2]\\N[1] got hooked on the pollen of Lampas...#TriketosPartial
+\\C[2]\\N[1] is hooked on Lampas' pollen...#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -22,9 +22,9 @@ Uahhh...ah...ah...ah...♡#TriketosPartial
 
 私の花粉の匂い、気に入ってくれた？
 > CONTEXT: CommonEvents_637/16/Dialogue/enemy
-It looks like you've gotten quiet, \\N[1]♡
+It looks like you've settled down, \\N[1]. ♡
 
-Do you like the smell of my pollen?#TriketosPartial
+Do you like the smell of my pollen?#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -33,10 +33,10 @@ Do you like the smell of my pollen?#TriketosPartial
 
 普通の空気みたいに、スースー吸えるはずだよ♡
 > CONTEXT: CommonEvents_637/20/Dialogue/enemy
-I tried to dilute the magic a little for
-my child \\N[1] ♡
+I tried to dilute the magic a little for you
+since you're a child. ♡
 
-You should be able to breath it like normal air ♡#TriketosPartial
+You should be able to breath it like normal air. ♡#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -45,10 +45,10 @@ You should be able to breath it like normal air ♡#TriketosPartial
 なに……？このかんじ…♡
 へんなきぶん……♡
 > CONTEXT: CommonEvents_637/25/Dialogue/kazuya-c
-Ahhh... It feels good...♡
+Aaah... It feels good... ♡
 
-What...? This feeling... ♡
-It's strange... ♡#TriketosPartial
+What's... this feeling...? ♡
+It's strange... ♡#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -57,10 +57,10 @@ It's strange... ♡#TriketosPartial
 お姉ちゃんがしっかり抱きしめててあげるから…
 感じるままに、しろいのお漏らししようね…♡
 > CONTEXT: CommonEvents_637/30/Dialogue/enemy
-It's allll right...♡
-Your big sis will hold you nice and tight...
+It's allll right... ♡
+Your onee-chan's got you nice and tight...
 
-Just let your body leak that white stuff out...#GT
+Just let your body leak that white stuff out... ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -69,16 +69,16 @@ Just let your body leak that white stuff out...#GT
 
 おねえちゃあぁぁん…♡
 > CONTEXT: CommonEvents_637/42/Dialogue/kazuya-c
-Ahhhhh...!!♡
+Aaaaah...!! ♡
 It's coming... It's coming out of me...♡
 
-Big sis...♡#GT
+Onee-chaaaaaan... ♡#Ron
 > END STRING
 
 > BEGIN STRING
 \\N[1]はランパスの腕の中で果ててしまった……
 > CONTEXT: CommonEvents_637/81/Dialogue
-\\N[1] came in the arms of Lampas...#TriketosPartial
+\\N[1] came in Lampas' arms...#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -86,9 +86,9 @@ Big sis...♡#GT
 
 はあっ……はあっ……♡
 > CONTEXT: CommonEvents_637/83/Dialogue/kazuya-c
-Ahhh...♡
+Uwaah... ♡
 
-Wahhh.. hahh...♡#GT
+Haah... Haah... ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -97,10 +97,10 @@ Wahhh.. hahh...♡#GT
 \\N[1]くんのこの白いのは
 お姉ちゃんの元気のもとになるの♡
 > CONTEXT: CommonEvents_637/87/Dialogue/enemy
-Good good...♡ You did it well ♡
+Good boy... ♡ You did so well... ♡
 
-This white stuff of \\N[1]-kun's is a source
-of energy for his sister ♡#GT
+This white stuff's gonna become energy for your
+onee-chan. ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -108,10 +108,9 @@ of energy for his sister ♡#GT
 
 私の脚に、どんどん吸収されていってるでしょ？
 > CONTEXT: CommonEvents_637/92/Dialogue/enemy
-This is how I'm going to go through my thighs...
+It goes through my thighs like this...
 
-It's getting absorbed more and more into my
-legs, isn't it?#GT
+See? It's steadily being absorbed in my legs.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -119,9 +118,9 @@ legs, isn't it?#GT
 
 げ、げんき………なった……？
 > CONTEXT: CommonEvents_637/96/Dialogue/kazuya-c
-B-big sis...
+O-Onee-chan...
 
-A-are you... okay...?#TriketosPartial
+D-Do you feel... better now...?#Triketos/Ron
 > END STRING
 
 > BEGIN STRING
@@ -129,9 +128,9 @@ A-are you... okay...?#TriketosPartial
 
 ぼく……おうちに……かえ……
 > CONTEXT: CommonEvents_637/100/Dialogue/kazuya-c
-L-let me go... sis...
+L-Let me go... onee-chan...
 
-I wanna... go home...#TriketosPartial
+I wanna... go home...#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -141,7 +140,7 @@ I wanna... go home...#TriketosPartial
 > CONTEXT: CommonEvents_637/107/Dialogue/enemy
 Sorry, \\N[1]...
 
-I can't do that anymore.#TriketosPartial
+I can't do that anymore.#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -151,9 +150,9 @@ I can't do that anymore.#TriketosPartial
 だから、もう私と\\N[1]は離れられない…
 > CONTEXT: CommonEvents_637/111/Dialogue/enemy
 My roots react to that white stuff, and have
-already entangled your feet...
+intricately wound themselves around your feet...
 
-So, I can't leave \\N[1] anymore ...#TriketosPartial
+That means you and I can't separate anymore...#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -162,10 +161,10 @@ So, I can't leave \\N[1] anymore ...#TriketosPartial
 
 二人だけで…♡
 > CONTEXT: CommonEvents_637/116/Dialogue/enemy
-Let's make eact other feel better and better...
-I'm going to turn on a light here in the dark...♡
+Let's feel good together more and more...
+We'll switch on a little light in the dark... ♡
 
-Just for us... ♡#TriketosPartial
+Just the two of us... ♡#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -174,9 +173,10 @@ Just for us... ♡#TriketosPartial
 とめて…♡♡このきもちいぃの…♡
 からだが……おかしくなるぅ…♡
 > CONTEXT: CommonEvents_637/181/Dialogue/kazuya-c
-S...Sis... stop it...♡♡
+O-Onee-chan... ♡♡
 
-I-it feels... ♡♡ weird...♡#TriketosPartial
+Stop it... ♡♡ It feels too good... ♡
+My body's... going weird... ♡#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -187,8 +187,8 @@ I-it feels... ♡♡ weird...♡#TriketosPartial
 > CONTEXT: CommonEvents_637/187/Dialogue/enemy
 It's okay... It'll be okay...
 
-I'm not afraid...
-I'm not afraid... \\N[1]...♡#TriketosPartial
+Don't be scared... ♡
+Don't be scared... \\N[1]... ♡#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -196,9 +196,9 @@ I'm not afraid... \\N[1]...♡#TriketosPartial
 
 永遠に……ふたりで……♡
 > CONTEXT: CommonEvents_637/192/Dialogue/enemy
-For a long time...... Together...
+We'll be together... forever...
 
-Forever... The two of us...♡#TriketosPartial
+For eternity... Just the two of us... ♡#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -206,7 +206,7 @@ Forever... The two of us...♡#TriketosPartial
 
 お、おねぇちゃぁあ…ん……！♡♡
 > CONTEXT: CommonEvents_637/258/Dialogue/kazuya-c
-Ah... Ah...♡
+Ah... Ah... ♡
 
-S-sis......!♡♡#TriketosPartial
+O-Onee-chaaan...! ♡♡#Triketos
 > END STRING
