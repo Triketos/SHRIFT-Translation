@@ -3,22 +3,26 @@
 …………………来ましたね、\\N[1]
 
 お待ちしていました。
-> CONTEXT: Map400/events/2/pages/0/15/Dialogue/enemy28 < UNTRANSLATED
+> CONTEXT: Map400/events/2/pages/0/15/Dialogue/enemy28
+......So you came, \\N[1].
 
+I've been waiting for you.#Ron
 > END STRING
 
 > BEGIN STRING
 …………どうして、僕の名前を？
-> CONTEXT: Map400/events/2/pages/0/19/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map400/events/2/pages/0/19/Dialogue/kazuya
+How do you know my name?#Ron
 > END STRING
 
 > BEGIN STRING
 あのスフィンクスがずっと叫んでいた名前です。
 
 きっと助けに来た貴方のことだろうと思いましてね。
-> CONTEXT: Map400/events/2/pages/0/21/Dialogue/enemy28 < UNTRANSLATED
-
+> CONTEXT: Map400/events/2/pages/0/21/Dialogue/enemy28
+That Sphinx was constantly shouting it, so I
+thought for sure that was the name of the person
+coming to save her.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -26,46 +30,58 @@
 自らが面倒事に巻き込まれることも顧みないほどに…
 
 ふふふ…人間とは本当に、興味深いものですね
-> CONTEXT: Map400/events/2/pages/0/25/Dialogue/enemy28 < UNTRANSLATED
-
+> CONTEXT: Map400/events/2/pages/0/25/Dialogue/enemy28
+Is that magical beast really so important to you?
+So important that you'd get yourself wrapped up
+in all this trouble without a second thought?
+Fufufu, humans truly are fascinating.#Ron
 > END STRING
 
 > BEGIN STRING
 貴方の事を、私ももっと知りたいものです。
 
 さぁ、もっとこちらへ…
-> CONTEXT: Map400/events/2/pages/0/30/Dialogue/enemy28 < UNTRANSLATED
+> CONTEXT: Map400/events/2/pages/0/30/Dialogue/enemy28
+I would like to get to know you better.
 
+So why don't you come here?#Ron
 > END STRING
 
 > BEGIN STRING
 まあ、なんて物騒なものを向けるのですか
 
 これから話し合おうという時に…
-> CONTEXT: Map400/events/2/pages/0/38/Dialogue/enemy28 < UNTRANSLATED
-
+> CONTEXT: Map400/events/2/pages/0/38/Dialogue/enemy28
+Oh my, what a dangerous thing you have pointed
+at me. I thought we were here to have a
+conversation.#Ron
 > END STRING
 
 > BEGIN STRING
 まずは、武器をしまってくださらないかしら？
 
 これから始める取引を、公平なものにするために……
-> CONTEXT: Map400/events/2/pages/0/44/Dialogue/enemy28 < UNTRANSLATED
+> CONTEXT: Map400/events/2/pages/0/44/Dialogue/enemy28
+I wonder if you might lower your weapon for me.
 
+In the interest of making our dealings fair for
+both parties, of course.#Ron
 > END STRING
 
 > BEGIN STRING
 銃を向け続ける
-> CONTEXT: Map400/events/2/pages/0/48/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Map400/events/2/pages/0/48/Choice/0
+Keep it raised#Ron
 > END STRING
 
 > BEGIN STRING
 悪いけど、もう知っているんだ。
 
 あなたが、まっとうな要求をしないってことは
-> CONTEXT: Map400/events/2/pages/0/51/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map400/events/2/pages/0/51/Dialogue/kazuya
+Sorry, but I already know all about you. Your
+requests are only going to get more and more
+unreasonable.#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -73,16 +89,19 @@
 
 あなたが杖に付けている\\C[2]『紫の宝玉』\\C[0]
 それを使って、スフィンクスを解放することだ！
-> CONTEXT: Map400/events/2/pages/0/55/Dialogue/kazuya < UNTRANSLATED
-> CONTEXT: Map400/events/2/pages/0/149/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map400/events/2/pages/0/55/Dialogue/kazuya
+> CONTEXT: Map400/events/2/pages/0/149/Dialogue/kazuya
+I only have one request...
 
+Use that \\C[2]purple jewel \\C[0]set into your staff
+to release Sphinx!#Ron
 > END STRING
 
 > BEGIN STRING
 "EX3　ティターニア戦"
-> CONTEXT: Map400/events/2/pages/0/64/InlineScript/1:24 < UNTRANSLATED
-> CONTEXT: Map400/events/2/pages/0/158/InlineScript/1:24 < UNTRANSLATED
-
+> CONTEXT: Map400/events/2/pages/0/64/InlineScript/1:24
+> CONTEXT: Map400/events/2/pages/0/158/InlineScript/1:24
+"EX3　Titania Battle"#Ron
 > END STRING
 
 > BEGIN STRING
@@ -90,18 +109,24 @@
 
 どうやらどこかのお節介が、
 私について余計な知恵を吹き込んだようですね
-> CONTEXT: Map400/events/2/pages/0/67/Dialogue/enemy28 < UNTRANSLATED
-> CONTEXT: Map400/events/2/pages/0/161/Dialogue/enemy28 < UNTRANSLATED
+> CONTEXT: Map400/events/2/pages/0/67/Dialogue/enemy28
+> CONTEXT: Map400/events/2/pages/0/161/Dialogue/enemy28
+I see.
 
+It would seem some meddler has been putting ideas
+in your head about me.#Ron
 > END STRING
 
 > BEGIN STRING
 しかも、この宝玉についてまで知っているとは…
 
 もはや今さら、取り繕う言葉も不要というわけですか
-> CONTEXT: Map400/events/2/pages/0/72/Dialogue/enemy28 < UNTRANSLATED
-> CONTEXT: Map400/events/2/pages/0/166/Dialogue/enemy28 < UNTRANSLATED
+> CONTEXT: Map400/events/2/pages/0/72/Dialogue/enemy28
+> CONTEXT: Map400/events/2/pages/0/166/Dialogue/enemy28
+And to think you even know about this jewel.
 
+It would seem it's pointless to try keeping up
+appearances now.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -109,18 +134,22 @@
 
 あなたの纏う、その魔力の強さから察するに
 手加減ができるような相手とは思っておりません。
-> CONTEXT: Map400/events/2/pages/0/76/Dialogue/enemy28 < UNTRANSLATED
-> CONTEXT: Map400/events/2/pages/0/170/Dialogue/enemy28 < UNTRANSLATED
-
+> CONTEXT: Map400/events/2/pages/0/76/Dialogue/enemy28
+> CONTEXT: Map400/events/2/pages/0/170/Dialogue/enemy28
+You leave me no choice. Judging by the strength
+of the magic clad around you, I don't think there
+will be any need to hold back.#Ron
 > END STRING
 
 > BEGIN STRING
 不本意ですが、この妖精の女王ティターニア
 
 真の姿をもって、全力でお相手しましょう
-> CONTEXT: Map400/events/2/pages/0/81/Dialogue/enemy28 < UNTRANSLATED
-> CONTEXT: Map400/events/2/pages/0/175/Dialogue/enemy28 < UNTRANSLATED
-
+> CONTEXT: Map400/events/2/pages/0/81/Dialogue/enemy28
+> CONTEXT: Map400/events/2/pages/0/175/Dialogue/enemy28
+Though I'm reluctant to do such a thing, I,
+Queen Titania of the fairies, shall assume my
+true form and battle you with my full power.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -128,24 +157,31 @@
 
 お互い、争いは無益だと知る知識者なのですから
 野蛮なことは避けるべきです。
-> CONTEXT: Map400/events/2/pages/0/101/Dialogue/enemy28 < UNTRANSLATED
-
+> CONTEXT: Map400/events/2/pages/0/101/Dialogue/enemy28
+Fufu... I like it when they're obedient.
+We're both smart enough to know that fighting
+won't help either of us, so best to avoid such
+barbarism.#Ron
 > END STRING
 
 > BEGIN STRING
 あらあら………そう固くならないでいいのですよ
 
 スフィンクスの解放……それが望みでしたわね
-> CONTEXT: Map400/events/2/pages/0/108/Dialogue/enemy28 < UNTRANSLATED
+> CONTEXT: Map400/events/2/pages/0/108/Dialogue/enemy28
+My, my... there's no need to be so stiff.
 
+You want to have Sphinx released, yes?#Ron
 > END STRING
 
 > BEGIN STRING
 私の要求を叶えてくだされば、私も応えましょう。
 
 ………そう、これは公平な『取引』なのですから
-> CONTEXT: Map400/events/2/pages/0/112/Dialogue/enemy28 < UNTRANSLATED
-
+> CONTEXT: Map400/events/2/pages/0/112/Dialogue/enemy28
+If you fulfill my requests, I will respond in
+kind. That's what it means to have a fair
+"transaction".#Ron
 > END STRING
 
 > BEGIN STRING
@@ -153,16 +189,21 @@
 
 では次に\\C[2]全裸になって、私の目の前で跪きなさい。
 王に仕える家臣になったつもりで
-> CONTEXT: Map400/events/2/pages/0/116/Dialogue/enemy28 < UNTRANSLATED
-
+> CONTEXT: Map400/events/2/pages/0/116/Dialogue/enemy28
+Let's see...
+Next \\C[2]I would like you to kneel before me
+naked, as if you were a retainer serving their
+liege.#Ron
 > END STRING
 
 > BEGIN STRING
 なっ………！
 
 ぜ、全裸……！？
-> CONTEXT: Map400/events/2/pages/0/122/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map400/events/2/pages/0/122/Dialogue/kazuya
+What...?!
 
+N-Naked...?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -170,8 +211,11 @@
 
 本来、妖精を避けここまでたどり着いた人間の目的は
 ほとんどが、元の人間界に帰りたいと懇願することでした。
-> CONTEXT: Map400/events/2/pages/0/126/Dialogue/enemy28 < UNTRANSLATED
-
+> CONTEXT: Map400/events/2/pages/0/126/Dialogue/enemy28
+It's nothing to be embarrassed about. Most of the
+humans who managed to avoid the fairies to reach
+this place came here to plead for their return to
+the human realm.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -179,84 +223,104 @@
 『誠意』の証しとして、もっとも最適な行為。
 
 つまり、人間の私に対する『礼儀』なのです
-> CONTEXT: Map400/events/2/pages/0/131/Dialogue/enemy28 < UNTRANSLATED
-
+> CONTEXT: Map400/events/2/pages/0/131/Dialogue/enemy28
+Casting aside one's clothes as a sign of good
+faith when paying respect to a queen is the most
+appropriate action one can take. In other words,
+it's showing "good manners" to me as a human.#Ron
 > END STRING
 
 > BEGIN STRING
 貴方の要求も、他の者と似たようなものでしょう？
 
 貴方は私に、『誠意』を見せられますか？
-> CONTEXT: Map400/events/2/pages/0/138/Dialogue/enemy28 < UNTRANSLATED
+> CONTEXT: Map400/events/2/pages/0/138/Dialogue/enemy28
+Your request is not too different from the others
+I've received, is it?
 
+So will you show me some "good faith"?#Ron
 > END STRING
 
 > BEGIN STRING
 言う通りにする
-> CONTEXT: Map400/events/2/pages/0/142/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Map400/events/2/pages/0/142/Choice/1
+Do it#Ron
 > END STRING
 
 > BEGIN STRING
 ふざけるな……！
 
 これ以上の要求は呑めない……！！
-> CONTEXT: Map400/events/2/pages/0/145/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map400/events/2/pages/0/145/Dialogue/kazuya
+Stop messing with me!
 
+I'm not going to accept any more requests than
+this.#Ron
 > END STRING
 
 > BEGIN STRING
 ティターニアの持つ杖に攻撃が直撃し
 
 \\C[2]『紫の宝玉』が地面に転がった！
-> CONTEXT: Map400/events/2/pages/0/235/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map400/events/2/pages/0/235/Dialogue
+The staff Titania's holding took a direct hit, \\C[2]the
+purple jewel has fallen on the ground!#Ron
 > END STRING
 
 > BEGIN STRING
 ティターニアは、慌てて拾おうとしているが
 
 急に元の姿に戻ったせいか、体勢を崩してしまった
-> CONTEXT: Map400/events/2/pages/0/239/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map400/events/2/pages/0/239/Dialogue
+Titania scrambled to pick it up, but perhaps because of how
+quickly she returned to her normal form, she's unable to
+compose herself.#Ron
 > END STRING
 
 > BEGIN STRING
 \\N[1]！！今だ！！
 
 このタイミングなら、宝玉を取れる！！
-> CONTEXT: Map400/events/2/pages/0/243/Dialogue/other1 < UNTRANSLATED
+> CONTEXT: Map400/events/2/pages/0/243/Dialogue/other1
+Now, \\N[1]!!
 
+This is our chance to grab the jewel!!#Ron
 > END STRING
 
 > BEGIN STRING
 よし……！！
-> CONTEXT: Map400/events/2/pages/0/247/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map400/events/2/pages/0/247/Dialogue/kazuya
+Right...!!#Ron
 > END STRING
 
 > BEGIN STRING
 す、スフィンクス！？
 
 捕まってたはずじゃ……！！
-> CONTEXT: Map400/events/2/pages/0/270/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map400/events/2/pages/0/270/Dialogue/kazuya
+S-Sphinx?!
 
+I thought the fairies had you?!#Ron
 > END STRING
 
 > BEGIN STRING
 ？？？「よおおおーし！！よくやったぞデカネコぉ！！
 
 　　　　これで宝玉は『俺様たち』のもんだぁ！！」
-> CONTEXT: Map400/events/2/pages/0/274/Dialogue < UNTRANSLATED
+> CONTEXT: Map400/events/2/pages/0/274/Dialogue
+???「That's it, you've done well big cat!!
 
+     The jewel is now mine!!」#Ron
 > END STRING
 
 > BEGIN STRING
 ……！！
 
 おまえは……………！！
-> CONTEXT: Map400/events/2/pages/0/283/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map400/events/2/pages/0/283/Dialogue/kazuya
+...!!
 
+You...?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -264,8 +328,10 @@
 御苦労だったなぁ！！
 
 おかげでティターニアのしかめっ面を拝めたぜ！！
-> CONTEXT: Map400/events/2/pages/0/287/Dialogue/enemy31 < UNTRANSLATED
+> CONTEXT: Map400/events/2/pages/0/287/Dialogue/enemy31
+Hey, \\N[1]! Good job!!
 
+Thanks to you, I got to see Titania's frown!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -273,8 +339,10 @@
 マジで膝をつかせちまうニンゲンがいるとはなぁ！
 
 お前の言ったことはホントだったわけだ！デカネコ！
-> CONTEXT: Map400/events/2/pages/0/292/Dialogue/enemy31 < UNTRANSLATED
-
+> CONTEXT: Map400/events/2/pages/0/292/Dialogue/enemy31
+To think a human could actually bring the
+magic-addled Titania to her knees! Looks like you
+were telling the truth, big cat!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -282,14 +350,17 @@
 
 \\N[1]があんなオバサンに
 負けるわけないんだから。
-> CONTEXT: Map400/events/2/pages/0/298/Dialogue/enemy33 < UNTRANSLATED
+> CONTEXT: Map400/events/2/pages/0/298/Dialogue/enemy33
+Of course I was.
 
+There's no way \\N[1] would lose to that
+lady.#Ron
 > END STRING
 
 > BEGIN STRING
 （どうやって喋ってるんだ……！？）
-> CONTEXT: Map400/events/2/pages/0/303/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map400/events/2/pages/0/303/Dialogue/kazuya
+(How is she talking...?!)#Ron
 > END STRING
 
 > BEGIN STRING
@@ -297,32 +368,40 @@
 
 私の性格や、宝玉のことまで知られている時点で
 あなたしかいないと思っていましたよ……
-> CONTEXT: Map400/events/2/pages/0/306/Dialogue/enemy28 < UNTRANSLATED
+> CONTEXT: Map400/events/2/pages/0/306/Dialogue/enemy28
+So it really was you...
 
+After finding out he knew about my personality
+and the jewel, I knew it had to be your doing.#Ron
 > END STRING
 
 > BEGIN STRING
 何度、私に恥をかかせれば気が済むのですか…！
 
 ……………\\C[2]オベロン！
-> CONTEXT: Map400/events/2/pages/0/311/Dialogue/enemy28 < UNTRANSLATED
-
+> CONTEXT: Map400/events/2/pages/0/311/Dialogue/enemy28
+Just how many times do you have to humiliate me
+before you're satisfied, \\C[2]Oberon!#Ron
 > END STRING
 
 > BEGIN STRING
 ギャハハハハハハハ！！！
 
 ワリィな\\N[1]！嘘ついちまって！
-> CONTEXT: Map400/events/2/pages/0/317/Dialogue/enemy31 < UNTRANSLATED
+> CONTEXT: Map400/events/2/pages/0/317/Dialogue/enemy31
+Gyahahahahahahaha!!!
 
+My bad for lying to you, \\N[1]!#Ron
 > END STRING
 
 > BEGIN STRING
 そう！俺様こそが、\\C[2]この妖精の国の『王』
 
 オベロン様\\C[0]なのさぁ！！！
-> CONTEXT: Map400/events/2/pages/0/321/Dialogue/enemy31 < UNTRANSLATED
+> CONTEXT: Map400/events/2/pages/0/321/Dialogue/enemy31
+That's right! I am \\C[2]the King of the Fairies.
 
+The great Oberon!!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -330,8 +409,10 @@
 とうの昔に俺様が消しちまったんだよ！！
 
 ヘマやった、その時になぁ！
-> CONTEXT: Map400/events/2/pages/0/325/Dialogue/enemy31 < UNTRANSLATED
+> CONTEXT: Map400/events/2/pages/0/325/Dialogue/enemy31
+I erased that Puck fairy a long time ago!!
 
+Around the time he messed up!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -339,8 +420,10 @@
 姿だけじゃなく、魔力の気配も完全に消すのは…
 
 お前も気付かなかっただろ？ティターニア
-> CONTEXT: Map400/events/2/pages/0/331/Dialogue/enemy31 < UNTRANSLATED
-
+> CONTEXT: Map400/events/2/pages/0/331/Dialogue/enemy31
+It hasn't been easy, you know. It wasn't just my
+form I changed, I erased all traces of my magic,
+too. Even you didn't notice, Titania.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -348,8 +431,10 @@
 思わないこったな？
 
 これを機に、おまえをとことん失墜させてやる！！
-> CONTEXT: Map400/events/2/pages/0/336/Dialogue/enemy31 < UNTRANSLATED
-
+> CONTEXT: Map400/events/2/pages/0/336/Dialogue/enemy31
+You thought you could boss someone as great as
+me around forever? This is my chance to
+thoroughly embarrass you!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -357,38 +442,46 @@
 約束通り、その宝玉はくれてやる！
 
 \\C[2]身体に取り込めば、どんな願いだって叶う宝玉だ！
-> CONTEXT: Map400/events/2/pages/0/342/Dialogue/enemy31 < UNTRANSLATED
-
+> CONTEXT: Map400/events/2/pages/0/342/Dialogue/enemy31
+Hey, big cat!! I'll give you the jewel just as
+I promised! \\C[2]If you put it in your body, you'll
+be able to get anything you want.#Ron
 > END STRING
 
 > BEGIN STRING
 さあ！強く願え！
 
 おまえが欲しいものはなんだ！？
-> CONTEXT: Map400/events/2/pages/0/347/Dialogue/enemy31 < UNTRANSLATED
+> CONTEXT: Map400/events/2/pages/0/347/Dialogue/enemy31
+Now! Make a wish with all your might!
 
+What is it that you want?!#Ron
 > END STRING
 
 > BEGIN STRING
 ………………ボクの欲しいもの………
-> CONTEXT: Map400/events/2/pages/0/352/Dialogue/enemy33 < UNTRANSLATED
-
+> CONTEXT: Map400/events/2/pages/0/352/Dialogue/enemy33
+The thing I want...#Ron
 > END STRING
 
 > BEGIN STRING
 \\C[2]\\N[1]…………いや……
 
 \\N[1]を屈服させる力が欲しい
-> CONTEXT: Map400/events/2/pages/0/356/Dialogue/enemy33 < UNTRANSLATED
+> CONTEXT: Map400/events/2/pages/0/356/Dialogue/enemy33
+\\C[2]I want \\N[1]... no...
 
+I want the power to make \\N[1] submit to me.#Ron
 > END STRING
 
 > BEGIN STRING
 ちょっちょっと……！？
 
 なに言ってるんだよ、スフィンクス！！
-> CONTEXT: Map400/events/2/pages/0/360/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map400/events/2/pages/0/360/Dialogue/kazuya
+Hold on, hold on...!
 
+What're you saying, Sphinx!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -396,8 +489,11 @@
 
 ボク、マイルームのみんなは大好きだよ
 お互いに、大事に想いあってることも知ってる
-> CONTEXT: Map400/events/2/pages/0/365/Dialogue/enemy33 < UNTRANSLATED
+> CONTEXT: Map400/events/2/pages/0/365/Dialogue/enemy33
+Don't get confused, \\N[1]...
 
+I love everyone in My Room, and I know everyone
+cares for each other.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -405,8 +501,11 @@
 
 誰にも邪魔されずに、誰も心に入ってこないように
 ずっとずっと、独り占めしたい…
-> CONTEXT: Map400/events/2/pages/0/370/Dialogue/enemy33 < UNTRANSLATED
+> CONTEXT: Map400/events/2/pages/0/370/Dialogue/enemy33
+But I really do want you.
 
+I want to have you all to myself, so no one can
+get in the way, and no one can steal your heart.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -414,22 +513,26 @@
 
 \\N[1]は絶対にイヤがるだろうし
 いわゆるヌケガケみたいなものになっちゃうから……
-> CONTEXT: Map400/events/2/pages/0/375/Dialogue/enemy33 < UNTRANSLATED
-
+> CONTEXT: Map400/events/2/pages/0/375/Dialogue/enemy33
+But I know that's selfish. I know that's not what
+you want, and I know it's not fair to the others
+who want you as well.#Ron
 > END STRING
 
 > BEGIN STRING
 そんなとき、オベロンからこの宝玉の話を聞いて
 
 ボクはある『賭け』をしてみようと思ったんだ。
-> CONTEXT: Map400/events/2/pages/0/380/Dialogue/enemy33 < UNTRANSLATED
-
+> CONTEXT: Map400/events/2/pages/0/380/Dialogue/enemy33
+But that's when I heard about the jewel from
+Oberon, and so I thought I'd make a certain bet
+with him.#RonIffy
 > END STRING
 
 > BEGIN STRING
 賭け……？
-> CONTEXT: Map400/events/2/pages/0/384/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map400/events/2/pages/0/384/Dialogue/kazuya
+Bet...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -437,8 +540,10 @@
 \\C[2]お前がデカネコを助けに来るかどうかだよ！\\C[0]
 
 まずは宝玉を奪わねぇと話が始まらないからな！
-> CONTEXT: Map400/events/2/pages/0/387/Dialogue/enemy31 < UNTRANSLATED
-
+> CONTEXT: Map400/events/2/pages/0/387/Dialogue/enemy31
+To put it simply, \\C[2]it was a bet about whether or
+not you'd come to save the big cat! \\C[0]But it all
+hinged on you getting the jewel.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -446,8 +551,11 @@
 最初からひずみの入り口で、お前を待ってたのさ！
 
 まぁ、ケツの下敷きはちょっと予想外だったが……
-> CONTEXT: Map400/events/2/pages/0/392/Dialogue/enemy31 < UNTRANSLATED
-
+> CONTEXT: Map400/events/2/pages/0/392/Dialogue/enemy31
+I was hanging around the entrance of the
+distortion waiting for you so I could tell you
+about the big cat and the jewel. Though I didn't
+expect you to flatten me...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -455,8 +563,11 @@
 \\C[2]ぶっちゃければ、\\N[1]となんの関係もない
 
 放っとけば、ずっと幽閉される身だった。
-> CONTEXT: Map400/events/2/pages/0/398/Dialogue/enemy33 < UNTRANSLATED
-
+> CONTEXT: Map400/events/2/pages/0/398/Dialogue/enemy33
+To be blunt, \\C[2]you have no connection to the "me"
+that's connected to this Fairy Realm. If you'd
+done nothing, I would've stayed imprisoned here
+forever.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -464,8 +575,11 @@
 \\N[1]との「つながり」が生まれた後……
 
 この世界のボクは、\\N[1]を知らないからね。
-> CONTEXT: Map400/events/2/pages/0/403/Dialogue/enemy33 < UNTRANSLATED
-
+> CONTEXT: Map400/events/2/pages/0/403/Dialogue/enemy33
+Because the me of this world has never met you,
+I only thought to come talk to you about this
+world after you'd formed a bond with the other
+Sphinx.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -473,23 +587,28 @@
 
 自分には全くメリットがないって分かった上で
 わざわざ、ボクを助けるためだけに………
-> CONTEXT: Map400/events/2/pages/0/408/Dialogue/enemy33 < UNTRANSLATED
+> CONTEXT: Map400/events/2/pages/0/408/Dialogue/enemy33
+But you came anyway...
 
+Even though there was nothing in it for you,
+you went out of your way to come save me...#Ron
 > END STRING
 
 > BEGIN STRING
 これはもう、ボクとの駆け落ちプランに
 
 合意があったとみるべきだよね
-> CONTEXT: Map400/events/2/pages/0/415/Dialogue/enemy33 < UNTRANSLATED
-
+> CONTEXT: Map400/events/2/pages/0/415/Dialogue/enemy33
+I guess I should take that as your agreement to
+elope with me, right?#Ron
 > END STRING
 
 > BEGIN STRING
 \\{待って！！？
 最後の理屈が飛躍しすぎ！！
-> CONTEXT: Map400/events/2/pages/0/419/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map400/events/2/pages/0/419/Dialogue/kazuya
+\\{Wait!! That's a hell of a leap in
+logic!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -497,22 +616,25 @@
 バカな考えは捨てて、その宝玉を返すんだ！
 
 そして僕と一緒に、みんなの所に帰ろう！
-> CONTEXT: Map400/events/2/pages/0/422/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map400/events/2/pages/0/422/Dialogue/kazuya
+A-Anyway! That guy's trying to trick you!
+Forget all that stupid stuff and give back the
+jewel! Then we can go back home together!#Ron
 > END STRING
 
 > BEGIN STRING
 \\{\\{\\{やだ
-> CONTEXT: Map400/events/2/pages/0/427/Dialogue/enemy33 < UNTRANSLATED
-
+> CONTEXT: Map400/events/2/pages/0/427/Dialogue/enemy33
+\\{\\{\\{No.#Ron
 > END STRING
 
 > BEGIN STRING
 \\N[1]は、ボクと一緒にここで暮らすんだ
 
 その願いを込めて、この宝玉の魔力も使うんだから
-> CONTEXT: Map400/events/2/pages/0/429/Dialogue/enemy33 < UNTRANSLATED
-
+> CONTEXT: Map400/events/2/pages/0/429/Dialogue/enemy33
+I want to live here together with you. That's
+what I'm going to use the jewel for.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -520,14 +642,17 @@
 その宝玉に『願いが叶う』効果などありません！
 
 すべて、オベロンが欺くためについたウソです！
-> CONTEXT: Map400/events/2/pages/0/434/Dialogue/enemy28 < UNTRANSLATED
+> CONTEXT: Map400/events/2/pages/0/434/Dialogue/enemy28
+What foolishness...!!
 
+That jewel doesn't have any power to grant
+wishes! That's just another of Oberon's lies.#Ron
 > END STRING
 
 > BEGIN STRING
 えっ…
-> CONTEXT: Map400/events/2/pages/0/439/Dialogue/enemy33 < UNTRANSLATED
-
+> CONTEXT: Map400/events/2/pages/0/439/Dialogue/enemy33
+Eh?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -535,16 +660,23 @@
 悪魔や人間が使えば、何が起きるかわからない……
 
 だから悪用されぬよう、私が管理していたのです！
-> CONTEXT: Map400/events/2/pages/0/441/Dialogue/enemy28 < UNTRANSLATED
-
+> CONTEXT: Map400/events/2/pages/0/441/Dialogue/enemy28
+That jewel was a sacred tool belonging to the
+former head of my family, Chronos. There's no
+telling what will happen if a demon or human
+tries to use it.
+That's why it was entrusted to me so it
+wouldn't be misused!#RonIffyWording
 > END STRING
 
 > BEGIN STRING
 一族の末裔の私ならともかく……
 
 通常の悪魔が使用すれば、どんなことが起きるか……！！
-> CONTEXT: Map400/events/2/pages/0/446/Dialogue/enemy28 < UNTRANSLATED
-
+> CONTEXT: Map400/events/2/pages/0/446/Dialogue/enemy28
+It's fine for one of his descendants like me, but
+I don't know what will happen if an ordinary
+demon uses it!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -552,16 +684,21 @@
 
 ティターニアは、宝玉を返して欲しいばかりに
 ああやって焦ったフリしてウソついてるんだぜ
-> CONTEXT: Map400/events/2/pages/0/454/Dialogue/enemy31 < UNTRANSLATED
+> CONTEXT: Map400/events/2/pages/0/454/Dialogue/enemy31
+Don't let her fool you, big cat.
 
+She just wants her jewel back so she's pretending
+to be flustered as she lies to you.#Ron
 > END STRING
 
 > BEGIN STRING
 そのまま噛み砕いて、体内に宝玉の魔力を取り込め！
 
 そしたら晴れて、お前は\\N[1]を手に入れる！
-> CONTEXT: Map400/events/2/pages/0/459/Dialogue/enemy31 < UNTRANSLATED
-
+> CONTEXT: Map400/events/2/pages/0/459/Dialogue/enemy31
+To put it simply, all you have to do is take that
+jewel inside your body! Do that and \\N[1] will
+officially be yours!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -569,62 +706,73 @@
 そんな宝玉、早く吐き出すんだ！！
 
 そいつの口車に、これ以上乗せられるな！！
-> CONTEXT: Map400/events/2/pages/0/463/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map400/events/2/pages/0/463/Dialogue/kazuya
+Hurry up and spit out that jewel, Sphinx!
 
+Don't let him trick you any more than he already
+has.#Ron
 > END STRING
 
 > BEGIN STRING
 ……………………………あの…………
 
 ひとつ……………いいですか………？
-> CONTEXT: Map400/events/2/pages/0/475/Dialogue/enemy33 < UNTRANSLATED
+> CONTEXT: Map400/events/2/pages/0/475/Dialogue/enemy33
+.........Umm......
 
+Can I just... say one thing...?#Ron
 > END STRING
 
 > BEGIN STRING
 実は…………ちょっとしゃべりすぎて……
 
 ボクの牙が………宝玉に食い込んじゃって……
-> CONTEXT: Map400/events/2/pages/0/479/Dialogue/enemy33 < UNTRANSLATED
+> CONTEXT: Map400/events/2/pages/0/479/Dialogue/enemy33
+The thing is... I've talked a little too much...
 
+And now my fangs are stuck in the jewel...#Ron
 > END STRING
 
 > BEGIN STRING
 ごめ…………ちょっ…………
 
 これ戻せな……………
-> CONTEXT: Map400/events/2/pages/0/483/Dialogue/enemy33 < UNTRANSLATED
-
+> CONTEXT: Map400/events/2/pages/0/483/Dialogue/enemy33
+Sorry...... I just..... can't give it back...#Ron
 > END STRING
 
 > BEGIN STRING
 \\{\\{スフィンクス！！！！！！
-> CONTEXT: Map400/events/2/pages/0/489/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map400/events/2/pages/0/489/Dialogue/kazuya
+\\{\\{Sphinx!!!#Ron
 > END STRING
 
 > BEGIN STRING
 ？？？「……………誰だ。
 
 　　　　我が名を叫ぶのは………」
-> CONTEXT: Map400/events/2/pages/0/492/Dialogue < UNTRANSLATED
+> CONTEXT: Map400/events/2/pages/0/492/Dialogue
+???「......Who's there?
 
+     Who dares shout my name...?」#Ron
 > END STRING
 
 > BEGIN STRING
 閃光が収まり、目の前に現れたのは、
 
 とてつもなく巨大な、褐色肌の魔獣だった
-> CONTEXT: Map400/events/2/pages/0/506/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map400/events/2/pages/0/506/Dialogue
+What appeared in front of me after the flash of light
+had subsided, was an unbelievably large, dark-skinned,
+magical beast.#Ron
 > END STRING
 
 > BEGIN STRING
 だがさっきまで
 
 そこにはスフィンクスが居たはずだが……
-> CONTEXT: Map400/events/2/pages/0/510/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map400/events/2/pages/0/510/Dialogue
+But Sphinx was there just a moment ago...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -632,22 +780,27 @@
 久々に目覚めたような感覚だ………
 
 これはいったい………
-> CONTEXT: Map400/events/2/pages/0/514/Dialogue/enemy32 < UNTRANSLATED
-
+> CONTEXT: Map400/events/2/pages/0/514/Dialogue/enemy32
+It appears I have been asleep for a long time,
+as it feels like this is the first I've opened
+my eyes in a long while. Just where am I?#Ron
 > END STRING
 
 > BEGIN STRING
 お、お前は……！！
-> CONTEXT: Map400/events/2/pages/0/519/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map400/events/2/pages/0/519/Dialogue/kazuya
+Y-You're...!!#Ron
 > END STRING
 
 > BEGIN STRING
 …………我はスフィンクス。
 
 ヘラ様の命により、この地を守護するもの……
-> CONTEXT: Map400/events/2/pages/0/521/Dialogue/enemy32 < UNTRANSLATED
+> CONTEXT: Map400/events/2/pages/0/521/Dialogue/enemy32
+I am Sphinx.
 
+The guardian of this place by the orders of Lady
+Hera.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -655,16 +808,20 @@
 どうやらここは、ピキオン山ではないようだな。
 
 まさか、汝が我を喚び出したのか？人の子よ……
-> CONTEXT: Map400/events/2/pages/0/525/Dialogue/enemy32 < UNTRANSLATED
-
+> CONTEXT: Map400/events/2/pages/0/525/Dialogue/enemy32
+Is what should be the case... but this doesn't
+appear to be Mount Phicium. Hast thou summoned
+me here, child of man?#Ron
 > END STRING
 
 > BEGIN STRING
 え…！？スフィンクス………！
 
 僕が……わからないのか……！？
-> CONTEXT: Map400/events/2/pages/0/530/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map400/events/2/pages/0/530/Dialogue/kazuya
+Huh...?! Sphinx...!
 
+Don't you... recognize me...?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -672,8 +829,11 @@
 
 スフィンクスが取り込んだのは、\\C[2]『アダマンの紫珠』！\\C[0]
 クロノスの魔力がこもった時空鉱石さ！！
-> CONTEXT: Map400/events/2/pages/0/534/Dialogue/enemy31 < UNTRANSLATED
-
+> CONTEXT: Map400/events/2/pages/0/534/Dialogue/enemy31
+Gyahahahahaha!!
+What Sphinx swallowed was the \\C[2]Purple Adamant\\C[0]!
+It's a mineral Chronos infused with the power of time
+and space!#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -681,40 +841,52 @@
 ピキオン山を守護していた、頭の賢い時期になぁ！
 
 お前のことなんて覚えてるわけねぇだろバァーカ！
-> CONTEXT: Map400/events/2/pages/0/539/Dialogue/enemy31 < UNTRANSLATED
+> CONTEXT: Map400/events/2/pages/0/539/Dialogue/enemy31
+Through the reversal of space and time, \\C[2]Sphinx
+has reverted back to her old form! \\C[0]Back to the
+wise form she had when she guarded Mount Phicium.
 
+So of course there's no way she'd remember who
+you are anymore, idiot!#Ron
 > END STRING
 
 > BEGIN STRING
 （えっ、そうなの…？
 
 　めっちゃ覚えてるんだけど…）
-> CONTEXT: Map400/events/2/pages/0/545/Dialogue/enemy32 < UNTRANSLATED
+> CONTEXT: Map400/events/2/pages/0/545/Dialogue/enemy32
+(Huh? Really...?
 
+ But I actually do remember everything...)#Ron
 > END STRING
 
 > BEGIN STRING
 （でもここで何か言っちゃうとバカっぽくなるし
 
 　とりあえず、すまし顔で黙っとこう…）
-> CONTEXT: Map400/events/2/pages/0/549/Dialogue/enemy32 < UNTRANSLATED
-
+> CONTEXT: Map400/events/2/pages/0/549/Dialogue/enemy32
+(I'd better keep quiet though so I don't look
+ like an idiot...)#Ron
 > END STRING
 
 > BEGIN STRING
 オベロン…
 
 あなた、私の知らないことまで、何故…！？
-> CONTEXT: Map400/events/2/pages/0/555/Dialogue/enemy28 < UNTRANSLATED
+> CONTEXT: Map400/events/2/pages/0/555/Dialogue/enemy28
+Oberon...
 
+Why did you do all this behind my back?!#Ron
 > END STRING
 
 > BEGIN STRING
 そこまで分かっていて、その魔獣を利用したのですか！
 
 宝玉や、スフィンクスの正体も知った上で…！
-> CONTEXT: Map400/events/2/pages/0/559/Dialogue/enemy28 < UNTRANSLATED
-
+> CONTEXT: Map400/events/2/pages/0/559/Dialogue/enemy28
+Did you use that magical beast knowing what would
+happen? Did you really know all that about the
+jewel and Sphinx's true form?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -722,8 +894,11 @@
 わかった上での計画に決まっているじゃないか
 
 君の『人間しか見えなくなる』性格も踏まえてね……
-> CONTEXT: Map400/events/2/pages/0/563/Dialogue/enemy31 < UNTRANSLATED
-
+> CONTEXT: Map400/events/2/pages/0/563/Dialogue/enemy31
+Aah, my beloved wife, Titania...
+Of course I made these plans knowing all that.
+I also based them on the fact that humans are
+the only things you pay attention to.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -731,8 +906,11 @@
 あんなマヌケに転生してるとは思わなかったが……
 
 おかげでグイグイと話に乗ってきてくれたぜ♪
-> CONTEXT: Map400/events/2/pages/0/568/Dialogue/enemy31 < UNTRANSLATED
-
+> CONTEXT: Map400/events/2/pages/0/568/Dialogue/enemy31
+I didn't think an intelligent beast from the
+Demon Realm could've actually been reincarnated
+as an idiot, but thanks to you, she jumped at
+my offer. ♪#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -740,16 +918,20 @@
 スフィンクスを騙したんだな……！！
 
 僕のことをエサにして、彼女の気持ちを利用して…！
-> CONTEXT: Map400/events/2/pages/0/576/Dialogue/kazuya-b < UNTRANSLATED
+> CONTEXT: Map400/events/2/pages/0/576/Dialogue/kazuya-b
+In other words, you tricked Sphinx!!
 
+You used her desire to make me into her food.#Ron
 > END STRING
 
 > BEGIN STRING
 おいおい、人聞きが悪いように言わないでくれよ
 
 俺はちゃんと、スフィンクスの願いは叶えてやったぜ？
-> CONTEXT: Map400/events/2/pages/0/581/Dialogue/enemy31 < UNTRANSLATED
+> CONTEXT: Map400/events/2/pages/0/581/Dialogue/enemy31
+Come on now, don't make it sound so dishonorable.
 
+I helped make her dream come true, you know.#ron
 > END STRING
 
 > BEGIN STRING
@@ -757,16 +939,21 @@
 『屈服させる力』を手に入れたんだ！\\C[0]
 
 好きなだけイチャイチャすればいいのさ！！
-> CONTEXT: Map400/events/2/pages/0/585/Dialogue/enemy31 < UNTRANSLATED
+> CONTEXT: Map400/events/2/pages/0/585/Dialogue/enemy31
+\\C[2]Now she finally has the power to make her
+beloved \\N[0]submit!\\C[0]
 
+You and her can get lovey-dovey all you want!!#Ron
 > END STRING
 
 > BEGIN STRING
 …………………なるほど。
 
 だいたいの事情は察した。
-> CONTEXT: Map400/events/2/pages/0/591/Dialogue/enemy32 < UNTRANSLATED
+> CONTEXT: Map400/events/2/pages/0/591/Dialogue/enemy32
+......I see.
 
+I understand the situation now.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -774,8 +961,11 @@
 その想いを実現させるために、この姿になったと…
 
 そしてその我は、あまり頭が良くなかったらしい
-> CONTEXT: Map400/events/2/pages/0/595/Dialogue/enemy32 < UNTRANSLATED
-
+> CONTEXT: Map400/events/2/pages/0/595/Dialogue/enemy32
+I loved this child of man, and in order to make
+those feelings a reality, I took this form.
+And apparently the previous me was not overly
+intelligent.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -783,8 +973,11 @@
 『人の子と対等に交流できる姿』にしてもらったのだろう
 
 その姿を捨ててまで、結ばれたかった相手、か……
-> CONTEXT: Map400/events/2/pages/0/600/Dialogue/enemy32 < UNTRANSLATED
-
+> CONTEXT: Map400/events/2/pages/0/600/Dialogue/enemy32
+It's likely I requested Lady Hera change me into
+a form on par with the children of men. And I
+connected with this person enough to want to
+discard that form...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -792,8 +985,11 @@
 
 もともと我も、人間の身体と性の関係については
 知識を得たいと思っていたところだ
-> CONTEXT: Map400/events/2/pages/0/607/Dialogue/enemy32 < UNTRANSLATED
+> CONTEXT: Map400/events/2/pages/0/607/Dialogue/enemy32
+Hmm... He does have a curious look about him...
 
+And I was only recently wishing to obtain the
+knowledge of carnal relations with a human body.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -801,22 +997,26 @@
 人間の物理的な脆さは重々心得ている。
 
 優しく扱ってやろう……
-> CONTEXT: Map400/events/2/pages/0/612/Dialogue/enemy32 < UNTRANSLATED
-
+> CONTEXT: Map400/events/2/pages/0/612/Dialogue/enemy32
+Don't be alarmed, I won't do anything bad to
+thee. I am well aware of how frail humans are, so
+I'll drain thee gently...#Ron
 > END STRING
 
 > BEGIN STRING
 "EX3　スフィンクス戦"
-> CONTEXT: Map400/events/2/pages/0/619/InlineScript/1:24 < UNTRANSLATED
-
+> CONTEXT: Map400/events/2/pages/0/619/InlineScript/1:24
+"EX3　Sphinx Battle"#Ron
 > END STRING
 
 > BEGIN STRING
 やっぱり、追ってくる気配はない…！
 
 このままいったん退こう！！！
-> CONTEXT: Map400/events/2/pages/0/646/Dialogue/other1 < UNTRANSLATED
+> CONTEXT: Map400/events/2/pages/0/646/Dialogue/other1
+Just as I thought, she's not chasing us...!
 
+Let's retreat for now!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -824,12 +1024,15 @@
 どこに逃げようってんだよ！！
 
 どうやったって、こいつを倒すことなんて出来ねぇぜ！
-> CONTEXT: Map400/events/2/pages/0/650/Dialogue/enemy31 < UNTRANSLATED
+> CONTEXT: Map400/events/2/pages/0/650/Dialogue/enemy31
+Gyahahaha!!
 
+Where do you think you're running?!
+You've got no hope of bringing this one down!#Ron
 > END STRING
 
 > BEGIN STRING
 ……………スフィンクス。
-> CONTEXT: Map400/events/2/pages/0/656/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map400/events/2/pages/0/656/Dialogue/kazuya
+...Sphinx.#Ron
 > END STRING
