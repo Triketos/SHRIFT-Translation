@@ -2,19 +2,19 @@
 > BEGIN STRING
 バグベア【敗北】
 > CONTEXT: Troops/311/name
-Bug Bear [Defeat]#GT
+Bugbear [Defeat]#Ron
 > END STRING
 
 > BEGIN STRING
 うぁぁぁ……ぁ……ぁ……ぁ……
 > CONTEXT: CommonEvents_634/5/Dialogue/kazuya-c
-Uaaaaah...aa...aa..#GT
+Uaaaaah... Aah... Aah... Aah...#Ron
 > END STRING
 
 > BEGIN STRING
 \\C[2]\\N[1]は、もう抵抗できる気力が残っていない……
 > CONTEXT: CommonEvents_634/7/Dialogue
-\\C[2]\\N[1] has no more energy to resist...#GT
+\\C[2]\\N[1] no longer has the energy to resist...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -23,10 +23,10 @@ Uaaaaah...aa...aa..#GT
 
 ゆっくりひきずりこんであげるあげあぁ
 > CONTEXT: CommonEvents_634/9/Dialogue/enemy26
-\\N[1]-kun is quiet...
-When you come inside, it is very difficult
-if you get hurt...
-I'll take you slowly...#GT
+Looks like you've settled down, \\N[1]-kun.
+I wouldn't want you to hurt yourself when you're
+inside me, not at all, not at all, not at all.
+I'll pull you in nice and slow slow slow...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -35,10 +35,10 @@ I'll take you slowly...#GT
 どうしてそんな……こわいことするの……？
 ぼく……おうちにかえりたいよぉ……
 > CONTEXT: CommonEvents_634/14/Dialogue/kazuya-c
-Yeah... Yeah...
+No... I don't want to...
+Why are you doing... such scary things?
 
-Why do you do such a scary thing?
-I want to go home...#GT
+I wanna go home...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -46,9 +46,9 @@ I want to go home...#GT
 
 キミは今から、ボクのものだから
 > CONTEXT: CommonEvents_634/29/Dialogue/enemy26
-I won't return, \\N[1]-kun.
+I won't let you go home, \\N[1]-kun.
 
-You are my thing now.#GT
+You belong to me now.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -57,9 +57,10 @@ You are my thing now.#GT
 いっぱいいっぱい、たのしいことするんだからああああ
 ああはははははははああははははへぁ！！！
 > CONTEXT: CommonEvents_634/33/Dialogue/enemy26
-From now on, I'm doing a lot of fun.
-
-Ohhahahahahahahahaha!!!#GT
+You're gonna be locked inside me, and we're
+gonna do lots and lots and lots of fun things
+AAAAALLL the time.
+Aaaahahahahahahahahahahaheeeaaah!!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -67,9 +68,9 @@ Ohhahahahahahahahaha!!!#GT
 
 あああああぁぁぁぁぁ…！！！
 > CONTEXT: CommonEvents_634/38/Dialogue/kazuya-c
-Waaahhhh...!!
+Uwaaaaaah...!!
 
-AAAAHHHHHhhhhh...!!!#GT
+Aaaaaaaaaaaaaaaaahh...!!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -77,9 +78,9 @@ AAAAHHHHHhhhhh...!!!#GT
 
 \\N[1]くんをボクにくれて、ありがとう
 > CONTEXT: CommonEvents_634/99/Dialogue/enemy25
-\\C[10]...Oh, you?
+\\C[10]...Oh, it's you.
 
-Thank you for giving me \\N[1]-kun.#GT
+Thank you for giving me \\N[1]-kun.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -88,10 +89,10 @@ Thank you for giving me \\N[1]-kun.#GT
 もちろん、ボクの中で楽しく遊んでるよ
 あんなに嫌がってたのに、やっぱり男の子だね
 > CONTEXT: CommonEvents_634/103/Dialogue/enemy25
-What happened to \\N[1]-kun?
-
-Of course, I'm having fun playing with me
-I was a boy though I hated that much#GT
+What happened to him?
+He's obviously having fun playing inside me.
+He might have made a big fuss at the start but
+he is a boy, after all.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -100,11 +101,10 @@ I was a boy though I hated that much#GT
 
 ホントは、いつもこうやって喜ばせてあげたいんだ…
 > CONTEXT: CommonEvents_634/108/Dialogue/enemy25
-In fact, scare the child with "that figure"
-It's my job to scare me by touching it
-all the way inside...
-
-I always want to please this way...#GT
+The truth is, though it's my job to scare kids
+with my real form and then scare them again by
+feeling them up inside me, I actually prefer
+making them feel good all the time inside me...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -113,10 +113,10 @@ I always want to please this way...#GT
 じゃあ、キミだけ特別だよ。
 \\N[1]くんの様子を、少しだけ見せてあげる。
 > CONTEXT: CommonEvents_634/114/Dialogue/enemy25
-...Concerned?
+...Are you worried about him?
 
-Then, only you are special.
-I'll show you a little bit about \\N[1]-kun.#GT
+Then as a special favor just for you, I'll show
+a little bit of what's going on with him.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -125,10 +125,10 @@ I'll show you a little bit about \\N[1]-kun.#GT
 
 ふふふ、証拠を見せてあげる
 > CONTEXT: CommonEvents_634/119/Dialogue/enemy25
-Because you're really scared of your important
-\\N[1]-kun, are you worried?
-
-I'll show you the proof.#GT
+I mean, of course you'd be worried about whether
+your precious \\N[1]-kun is in here scared
+out of his wits. So I'll give you the proof that
+he's enjoying himself in here.#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -136,9 +136,9 @@ I'll show you the proof.#GT
 
 ふぁあぁぁぁぁ……♡♡
 > CONTEXT: CommonEvents_634/148/Dialogue/kazuya-c
-Aaahhh...♡♡
+Aaaahh... ♡♡
 
-Fuahhhhh...♡♡#GT
+Fuaaaah... ♡♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -146,9 +146,9 @@ Fuahhhhh...♡♡#GT
 
 ボクのおなかのなか、スゴクきもちがいいでしょ？
 > CONTEXT: CommonEvents_634/152/Dialogue/enemy25
-How? \\N[1]-kun
+Enjoying yourself, \\N[1]-kun?
 
-Isn't it nice to be in my stomach?#GT
+It feels really nice being in my belly, right?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -157,10 +157,10 @@ Isn't it nice to be in my stomach?#GT
 
 はずかしいのに…きもちいい……
 > CONTEXT: CommonEvents_634/156/Dialogue/kazuya-c
-What is this... this is... ♡♡
-It ’s really good...♡
+What is thiiis... this feeling...? ♡♡
+It feels so good, but I can't settle down...♡
 
-Though it's ridiculous...#GT
+It's embarrassing but it feels so good...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -169,10 +169,10 @@ Though it's ridiculous...#GT
 
 がまんっ……できなっ……♡
 > CONTEXT: CommonEvents_634/163/Dialogue/kazuya-c
-Oh... pee...
-That's it... if it's choppy... ♡
+M-My pee... is coming out... ♡
+I can't... hold it back... ♡
 
-I'm sorry... I can't... ♡#GT
+If you mess around with me like that... ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -181,10 +181,10 @@ I'm sorry... I can't... ♡#GT
 
 きもちいいときに出る、とくべつなものなんだよ！
 > CONTEXT: CommonEvents_634/168/Dialogue/enemy25
-You don't have to do it, \\N[1]-kun!
-It's not the pee you know.
-It's a special thing that comes out
-when you feel good!#GT
+You don't have to hold it back, \\N[1]-kun!
+That's not the pee you're familiar with.
+It's something special that only comes out when
+you feel really good!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -193,10 +193,10 @@ when you feel good!#GT
 
 えんりょなく、ボクの中にだしてイイよ
 > CONTEXT: CommonEvents_634/173/Dialogue/enemy25
-You're going to be 'entertaining' in me,
-so I don't like it!
+In fact, the reason why I've got you "having fun"
+inside me is because I love that stuff!
 
-It's all right in me. I can't... ♡#GT
+So don't hold back, let it all out inside me... ♡#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -204,9 +204,9 @@ It's all right in me. I can't... ♡#GT
 
 あああああああああああああああっ…！！♡♡♡
 > CONTEXT: CommonEvents_634/187/Dialogue/kazuya-c
-Uahhh... Ahhhhhhh... ♡
+Uahhh... Aaaaaah... ♡
 
-Aaahhhhhhhhhhhhhhh...!! ♡♡♡#GT
+Aaaaaaaaah...!! ♡♡♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -215,10 +215,10 @@ Aaahhhhhhhhhhhhhhh...!! ♡♡♡#GT
 もっと……もっとしてぇ…♡♡
 いっぱい、ぼくをなでてぇ……♡
 > CONTEXT: CommonEvents_634/233/Dialogue/kazuya-c
-Ahhhh... ♡ Kimochii... ♡
+Aaahh... ♡ So goooood... ♡
 
-More... More... ♡♡
-Stroke me a lot... ♡#GT
+More... Do more... ♡♡
+Stroke me lots more... ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -227,10 +227,10 @@ Stroke me a lot... ♡#GT
 
 \\N[1]くんが、きがすむまで、ずっといていいからね！
 > CONTEXT: CommonEvents_634/240/Dialogue/enemy25
-Fufufu... Did you like it?
-Forget about the bad things and want to stay
-there forever, right?
-\\N[1]-kun can stay forever until he feels good!#GT
+Fufufu... Do you like it in there?
+You wanna forget about all the bad stuff and stay
+inside there forever, right? You can stay in
+there until you're satisfied!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -239,10 +239,10 @@ there forever, right?
 ぼく……ぼくぅ…おかしくなっちゃう……♡
 きもち……よすぎ…てぇ…♡
 > CONTEXT: CommonEvents_634/245/Dialogue/kazuya-c
-Ahhhhh... ♡♡♡
+Aaaaah... ♡♡♡
 
-I... I...I'm going crazy... ♡
-Feelings... too good... Tee... ♡#GT
+I... I... I'm going crazy... ♡
+It feels... too goooood... ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -251,10 +251,10 @@ Feelings... too good... Tee... ♡#GT
 クマさんのなか…すごくきもちいい……♡
 もっとぉ……もっとぉ……♡♡
 > CONTEXT: CommonEvents_634/250/Dialogue/kazuya-c
-I...
+I... wanna stay here forever... ♡
 
-Among the bears… It ’s really exciting... ♡
-More... More... ♡♡#GT
+It feels amazing... inside Teddy... ♡
+Mooore... Mooore... ♡♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -263,10 +263,10 @@ More... More... ♡♡#GT
 \\N[1]くんは、すっごく楽しんでくれてるよ
 ……元の世界に帰りたくなくなるくらいにね。
 > CONTEXT: CommonEvents_634/312/Dialogue/enemy25
-Did you understand?
+Do you get it now?
 
-\\N[1]-kun really enjoys it
-...I don't want to go back to the original world.#GT
+\\N[1]-kun's having the time of his life...
+So much so he doesn't want to go home anymore.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -275,10 +275,10 @@ Did you understand?
 
 その代わり、時間をかけて可愛がってあげるつもりだよ
 > CONTEXT: CommonEvents_634/317/Dialogue/enemy25
-Of course, you can do it even harder...
-\\N[1] is a child...
+Of course, I could be a lot more aggressive with
+him, but he's just a child...
 
-Instead, I'll take care of you over time.#GT
+So instead I'll take things nice and slow.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -287,10 +287,10 @@ Instead, I'll take care of you over time.#GT
 \\N[1]くんが、ボクのことを
 完全に受け入れてくれたって証拠だよ。
 > CONTEXT: CommonEvents_634/324/Dialogue/enemy25
-...The light of the lantern has disappeared.
+...The lantern's light has gone out.
 
-\\N[1], that's proof that you've accepted me
-completely.#GT
+That's the proof that \\N[1]-kun has fully
+accepted me.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -299,10 +299,10 @@ completely.#GT
 
 子供の、無力で、快楽しか考えられないおサルさん…
 > CONTEXT: CommonEvents_634/329/Dialogue/enemy25
-\\N[1]-kun in me already.
-It's not \\N[1]-kun you know...
-A monkey who can only think of pleasure
-with helplessness of a child...#GT
+The \\N[1]-kun inside me is not the
+\\N[1]-kun you know. He's now little better
+than a powerless monkey who can only think of
+pleasure...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -311,16 +311,16 @@ with helplessness of a child...#GT
 
 もちろん、苦痛なんて感じさせないよ
 > CONTEXT: CommonEvents_634/334/Dialogue/enemy25
-As it is, until you die debilitated in reality,
-I'm going to keep playing in me...
-
-Of course, I won't let you feel pain.#GT
+Until he finally dies weak and feeble in the real
+world, I'm going to keep him inside me having fun
+foreeeeeeeever. Naturally, I won't let him feel
+any kind of pain or suffering.#Ron
 > END STRING
 
 > BEGIN STRING
 ボク、いつかキミとも一緒に遊びたいなぁ
 > CONTEXT: CommonEvents_634/340/Dialogue/enemy25
-I want to play with you someday#GT
+I hope I can play with "you" one day, too...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -329,10 +329,9 @@ I want to play with you someday#GT
 
 ボクと一緒に遊んでくれるよね？
 > CONTEXT: CommonEvents_634/342/Dialogue/enemy25
-It's okay, right? 
-That's what it's like to have given me
-\\N[1]-kun, right?
-You're going to play with me, won't you?#GT
+You wouldn't mind, right? I mean, that's why you
+gave me \\N[1]-kun, isn't it? It's because
+you wanted to play with me, right?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -340,9 +339,9 @@ You're going to play with me, won't you?#GT
 
 ボクが必ず会いに行くから
 > CONTEXT: CommonEvents_634/347/Dialogue/enemy25
-Someday, let's meet in a dream.
+Let's meet someday inside a dream.
 
-I'm always going to see you...#GT
+I'm gonna go meet you, for sure...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -350,7 +349,7 @@ I'm always going to see you...#GT
 
 ぼくのすがたをみてもにげないでね
 > CONTEXT: CommonEvents_634/352/Dialogue/enemy26
-At that time...
+When that that that haaappens...
 
-Don't be angry at me...#GT
+Don't you run off after seeing me, okay...?#Ron
 > END STRING
