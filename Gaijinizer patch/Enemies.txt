@@ -2882,29 +2882,33 @@ fit is typical of the Oni race.#Ron
 
 > BEGIN STRING
 【EX】巨スフィンクス
-> CONTEXT: Enemies/617/name < UNTRANSLATED
-
+> CONTEXT: Enemies/617/name
+[EX] Giant Sphinx#Strate
 > END STRING
 
 > BEGIN STRING
 すべての攻撃が無効
-> CONTEXT: Enemies/617/BookAttribute/0 < UNTRANSLATED
-
+> CONTEXT: Enemies/617/BookAttribute/0
+Nullifies all attacks#Strate
 > END STRING
 
 > BEGIN STRING
 ヘラの命で、ピキオン山に座していた頃のスフィンクス
 知性は高いが、人間界についての知識はまだまだ浅く
 この時期は特に、人間の性についての知識に飢えていたようだ。
-> CONTEXT: Enemies/617/BookDescription/2 < UNTRANSLATED
-
+> CONTEXT: Enemies/617/BookDescription/2
+The Sphinx ordered to sit on Mt. Phicium by Hera.
+Despite her high intelligence, her knowledge of
+humanity was shallow. She hungered for knowledge
+on human sexuality during this time. Her huge body#StrateLocalization
 > END STRING
 
 > BEGIN STRING
 物理はもちろん、魔法もほとんどがその巨体で無効化されてしまい
 打ち倒そうと対峙した人間は、ことごとく返り討ちにあった
-> CONTEXT: Enemies/617/BookDescription/5 < UNTRANSLATED
-
+> CONTEXT: Enemies/617/BookDescription/5
+nullifies all physical and magical attacks. All
+who tried to destroy her were killed instead.#StrateLocalization
 > END STRING
 
 > BEGIN STRING
@@ -2981,15 +2985,16 @@ brings it to hell.#MTLed
 
 > BEGIN STRING
 火炎・雷無効、氷に弱い
-> CONTEXT: Enemies/622/BookAttribute/0 < UNTRANSLATED
-
+> CONTEXT: Enemies/622/BookAttribute/0
+Nullifies Fire and Lightning, weak to Ice#Strate
 > END STRING
 
 > BEGIN STRING
 ケルト族の伝承に伝わる、いたずら好きの蜘蛛の妖精。
 昔は人間の血肉を主食としていたが
-> CONTEXT: Enemies/622/BookDescription/3 < UNTRANSLATED
-
+> CONTEXT: Enemies/622/BookDescription/3
+A mischievous spider fairy seen in Celtic
+folklore. In the past, her diet consisted of human#Strate
 > END STRING
 
 > BEGIN STRING
@@ -2997,8 +3002,11 @@ brings it to hell.#MTLed
 妖精の国に移住し、リンゴ等の果物を主食に切り替えた。
 結果、体臭は逆に獲物を惹き付ける魅力的な芳香になり
 現在はそれを武器に人間を捕獲し、美貌のために精気を啜る
-> CONTEXT: Enemies/622/BookDescription/5 < UNTRANSLATED
-
+> CONTEXT: Enemies/622/BookDescription/5
+flesh and blood, but when her body odor became
+bloody, she moved to Fairy Land and switched her
+diet to fruit. Her current scent lets her attract
+prey and slurp their energy to feed her beauty.#StrateLocalization
 > END STRING
 
 > BEGIN STRING
@@ -3044,7 +3052,7 @@ as a good brake for Ena's "act first" attitude.#StrateLocalization
 妖精の国に住まう、ピクシー種悪魔の女の子。
 その身体に不釣り合いな大きな胸のせいで、他妖精によく虐められ
 > CONTEXT: Enemies/624/BookDescription/3
-A pixie demonwho lives in the Fairy Realm. Often
+A pixie demon who lives in the Fairy Realm. Often
 bullied by other fairies due to her large breasts.#StrateLocalizaion
 > END STRING
 
@@ -3069,8 +3077,9 @@ wearing a kimono so that Ena's stand out more.#StrateLocalization
 > BEGIN STRING
 妖精の国を統治する女王。
 オベロンという夫がおり、共に人間を憂い、『時間』以外の
-> CONTEXT: Enemies/625/BookDescription/3 < UNTRANSLATED
-
+> CONTEXT: Enemies/625/BookDescription/3
+The Queen of Fairy Land. She worries for humanity
+along her husband Oberon, and made them unbound#StrateLocalization
 > END STRING
 
 > BEGIN STRING
@@ -3078,6 +3087,9 @@ wearing a kimono so that Ena's stand out more.#StrateLocalization
 だが人間の扱いに関しては夫婦間で常に争いが絶えず、ほぼ別居状態。
 真の姿は、ティターン一族が古の戦いで敗れた際にヘラにかけられた呪いで
 エンプーサやアルケニーの搾精器官は、彼女の構造が発想元とされている
-> CONTEXT: Enemies/625/BookDescription/5 < UNTRANSLATED
-
+> CONTEXT: Enemies/625/BookDescription/5
+by concepts other than "time". But they argue
+constantly over how to treat them and are nearly
+separated. Her true form is Hera's curse, and it
+inspired Empuse's and Arachne's milking organs.#StrateLocalization
 > END STRING
