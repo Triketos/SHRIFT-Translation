@@ -114,10 +114,10 @@ What on earth happened between these two...?!#Ron
 \\C[2]キミは本来、マイルームを去るはずだったのに
 強引に宝箱を書き換えて、居残り続けたんだったね
 > CONTEXT: Map408/events/1/pages/0/111/Dialogue/enemy29
-Ah yes, I had forgotten. \\C[2]You were supposed to
-have left My Room, but you had actually remained
-there and forcefully overwrote the treasure
-chest.#CheckLater
+Ah yes, I forgot about that.
+
+\\C[2]You were supposed to have left My Room, but you
+forcibly overwrote the treasure chest and stayed.#Ron/Triketos
 > END STRING
 
 > BEGIN STRING
@@ -138,10 +138,10 @@ and has overcome "Death's Fate"...#Ron
 以前に比べて、ちょっとはマシになってはいるけど
 最初から、何度も何度も言ってるじゃないか。
 > CONTEXT: Map408/events/1/pages/0/123/Dialogue/enemy29
-You can ready yourself all you like, but it's
-pointless. Though you've improved compared to
-before, I've had to tell you the same thing
-countless times.#RonIffy
+You can keep making these plans all you like,
+but it's useless. You've grown stronger, but
+I've told you the same thing over and over
+since the start.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -504,10 +504,10 @@ does oversimplify things a little...#Ron
 
 \\C[10]『介入』のロジックを担う生命体だよ。
 > CONTEXT: Map408/events/1/pages/0/356/Dialogue/enemy29
-\\C[2]I am the \\C[10]device \\C[2]that's connected to both you and the
-intervener...
-
-\\C[10]A life-form that bears the logic behind "interventions".#RonIffyWording
+\\C[2]I am the \\C[10]device \\C[2]that's connected to both
+you and the intervener...
+\\C[10]A living being that's responsible for the logic
+behind "interventions".#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -516,12 +516,12 @@ intervener...
 
 今一番分かりやすい表現は、『介入装置』しかない。
 > CONTEXT: Map408/events/1/pages/0/360/Dialogue/enemy29
-Though one could question whether you can call
-something that can reassemble itself after being
-destroyed and that has no natural lifespan a
-"life-form".
+...Though one could question whether you can
+call something that can reassemble itself after
+being destroyed and has no natural
+lifespan truly alive...
 But the most easy-to-understand way to refer to
-me, is as an "Intervention Device"...#RonIffyWording
+me, is as an "Intervention Device".#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -562,7 +562,7 @@ I didn't want you to see that other form.#Ron
 
 ハッキリいって、もう時間がない。
 > CONTEXT: Map408/events/1/pages/0/378/Dialogue/enemy29
-But I can't go all-out unless I take that form,
+But I can't go all-out unless I take that shape,
 and it seems my situation has gotten worse than
 I expected. I can say for certain that I don't
 have any time left.#Ron
@@ -676,7 +676,9 @@ me how much you didn't want to show me that form.#Ron
 
 チェシャ
 > CONTEXT: Map408/events/1/pages/0/442/Dialogue/kazuya
-That's why... I'll put my faith in you, Cheshire.#Ron
+That's why...
+
+I'll put my faith in you, Cheshire.#Ron
 > END STRING
 
 > BEGIN STRING
