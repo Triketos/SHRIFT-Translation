@@ -3,20 +3,22 @@
 いま、彼女は僕しか見えてない……
 
 彼女に落ち着きを取り戻させるためには……
-> CONTEXT: CommonEvents_700/2/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: CommonEvents_700/2/Dialogue/kazuya
+Right now, she's entirely focused on me...
 
+To calm her down, I'll...#Strate
 > END STRING
 
 > BEGIN STRING
 こちらの好意を伝える
-> CONTEXT: CommonEvents_700/6/Choice/0 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_700/6/Choice/0
+Tell her your feelings#Strate
 > END STRING
 
 > BEGIN STRING
 エナとの関係を言及する
-> CONTEXT: CommonEvents_700/6/Choice/1 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_700/6/Choice/1
+Bring up her relationship with Ena#Strate
 > END STRING
 
 > BEGIN STRING
@@ -24,8 +26,11 @@
 僕は、君を傷付けたくはないんだ。
 
 君だって分かってるだろう？僕の気持ちは……
-> CONTEXT: CommonEvents_700/8/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: CommonEvents_700/8/Dialogue/kazuya
+Mai-chan... Listen to me.
+I don't want to hurt you.
 
+You understand my feelings, right?#Strate
 > END STRING
 
 > BEGIN STRING
@@ -33,16 +38,22 @@
 エナちゃんはとても心配そうな顔でこちらを見ていた
 
 彼女は奇襲の件で、僕が怒っていると思っていたから……
-> CONTEXT: CommonEvents_700/15/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: CommonEvents_700/15/Dialogue/kazuya
+When you came by yourself to thank me, Ena-chan
+was looking at us very worriedly.
+She thought I was angry about your surprise
+attack......#Strate
 > END STRING
 
 > BEGIN STRING
 彼女があんな遠くで君を見守ってたのは
 
 君が一人で伝えたいって、お願いしたからなんだろう？
-> CONTEXT: CommonEvents_700/22/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: CommonEvents_700/22/Dialogue/kazuya
+Yet she was watching from so far away.
 
+You asked her to let you talk to me alone, didn't
+you?#StrateLocalization
 > END STRING
 
 > BEGIN STRING
@@ -50,8 +61,11 @@
 僕の方だって、あの時点で気づいていたよ。
 
 僕が、君に対してそうだったように。
-> CONTEXT: CommonEvents_700/26/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: CommonEvents_700/26/Dialogue/kazuya
+That's when I realized... how much you cared
+about me.
 
+Just like I care about you.#Strate
 > END STRING
 
 > BEGIN STRING
@@ -59,16 +73,21 @@
 
 本当……？\\N[1]くん
 本当に、私のこと、好き……？
-> CONTEXT: CommonEvents_700/31/Dialogue/enemy27 < UNTRANSLATED
+> CONTEXT: CommonEvents_700/31/Dialogue/enemy27
+......!!
 
+Really......? \\N[1]-kun...
+You really... l-like me......?#Strate
 > END STRING
 
 > BEGIN STRING
 ああ……本当だよ。
 
 だから、そうやって必死になる必要は……
-> CONTEXT: CommonEvents_700/36/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: CommonEvents_700/36/Dialogue/kazuya
+Yeah... I really do.
 
+So, you don't need to act so desperately......#Strate
 > END STRING
 
 > BEGIN STRING
@@ -76,8 +95,11 @@
 
 \\N[1]くんが…私のこと……♡
 うれしい……♡
-> CONTEXT: CommonEvents_700/41/Dialogue/enemy27 < UNTRANSLATED
+> CONTEXT: CommonEvents_700/41/Dialogue/enemy27
+Fufu...... fufufufufufufu......♡♡♡
 
+\\N[1]-kun... likes me......♡
+I'm so happy...... ♡#StrateLocalization
 > END STRING
 
 > BEGIN STRING
@@ -85,8 +107,11 @@
 それじゃあ、不安がる必要なんてないじゃない……♡
 
 お互いに想いあってるなら……私だって…！
-> CONTEXT: CommonEvents_700/46/Dialogue/enemy27 < UNTRANSLATED
+> CONTEXT: CommonEvents_700/46/Dialogue/enemy27
+What am I doing......
+I don't need to feel anxious after all...... ♡
 
+If you love me... and I love you...!#StrateLocalization
 > END STRING
 
 > BEGIN STRING
@@ -94,16 +119,22 @@
 彼女をさらに興奮させてしまったようだ…
 
 彼女の魔力で、空間が歪んでいく……！！
-> CONTEXT: CommonEvents_700/54/Dialogue < UNTRANSLATED
+> CONTEXT: CommonEvents_700/54/Dialogue
+Shit...!
+I think I ended up making her more aroused...
 
+Her magic is distorting the space around us...!!#Strate
 > END STRING
 
 > BEGIN STRING
 マイちゃん………
 
 もしかして、エナちゃんとあまり仲が良くないの？
-> CONTEXT: CommonEvents_700/63/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: CommonEvents_700/63/Dialogue/kazuya
+Mai-chan......
 
+Could it be that you don't get along that well
+with Ena-chan?#Strate
 > END STRING
 
 > BEGIN STRING
@@ -111,16 +142,19 @@
 君は、本当は僕を独り占めしようとしているじゃないの？
 
 エナちゃんを出し抜いて……
-> CONTEXT: CommonEvents_700/69/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: CommonEvents_700/69/Dialogue/kazuya
+No, rather than not getting along with her...
+You actually want to keep me to yourself, don't
+you?
+You wanted to get the jump on Ena-chan......#Strate
 > END STRING
 
 > BEGIN STRING
 ど、どうして……
 
 どうして、そう思うの…？
-> CONTEXT: CommonEvents_700/74/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_700/74/Dialogue/enemy27
+W-what... what makes you think that...?#Strate
 > END STRING
 
 > BEGIN STRING
@@ -128,8 +162,11 @@
 やり方はどうであれ、眠っている僕と話すために
 
 そして、こうやって自分一人で堕とそうとしている……
-> CONTEXT: CommonEvents_700/78/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: CommonEvents_700/78/Dialogue/kazuya
+Just now, you tried everything to wake me up, so
+you could talk to me when I was sleeping.
 
+And now you're trying to corrupt me by yourself...#Strate
 > END STRING
 
 > BEGIN STRING
@@ -137,8 +174,11 @@
 『おとなしく待っていよう』と言ったんだ。
 
 \\C[2]待っているだけなら、わざわざ僕を起こす必要はない。
-> CONTEXT: CommonEvents_700/83/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: CommonEvents_700/83/Dialogue/kazuya
+But shortly after that, you yourself told me to
+"quietly wait".
+\\C[2]If I only had to wait, there was no need to
+wake me up.#Strate
 > END STRING
 
 > BEGIN STRING
@@ -146,8 +186,11 @@
 たぶんそれが、本来の『エナちゃんとの約束』なんだろう？
 
 \\C[2]『帰ってくるまで、おとなしく待ってる』っていうのが…
-> CONTEXT: CommonEvents_700/88/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: CommonEvents_700/88/Dialogue/kazuya
+I'm just guessing, but...
+That was the promise you originally made to
+Ena-chan, right?
+\\C[2]That you'd "wait until she comes back"...#Strate
 > END STRING
 
 > BEGIN STRING
@@ -155,8 +198,11 @@
 エナちゃんが帰ってくる前に、僕を堕とすために。
 
 君はどうしても、彼女より先手をとりたかったんだ…！
-> CONTEXT: CommonEvents_700/93/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: CommonEvents_700/93/Dialogue/kazuya
+But, you didn't do that...
+In order to corrupt me before Ena-chan returned.
+You had to get the first move over her, no matter
+what...!#Strate
 > END STRING
 
 > BEGIN STRING
@@ -164,8 +210,11 @@
 え、エナちゃんは……私の友達だもん……
 
 そんなこと………ない………
-> CONTEXT: CommonEvents_700/99/Dialogue/enemy27 < UNTRANSLATED
+> CONTEXT: CommonEvents_700/99/Dialogue/enemy27
+Y... you're wrong......
+E-Ena-chan... is my friend...
 
+I would never... do something like that......#Strate
 > END STRING
 
 > BEGIN STRING
@@ -173,8 +222,11 @@
 
 わ、私が勝てるのって、お……おっぱいしかなくて……
 でも………いくらなんでも大きすぎるし………
-> CONTEXT: CommonEvents_700/104/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_700/104/Dialogue/enemy27
+Ena-chan has a great style, and her technique is
+amazing. T-The only thing I have over her is my
+b... boobs... But... no matter how you look at
+it, they're too big......#Strate
 > END STRING
 
 > BEGIN STRING
@@ -182,16 +234,22 @@
 私………その前に私も………好き………欲しくて……
 
 わたし…………わたし……
-> CONTEXT: CommonEvents_700/109/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_700/109/Dialogue/enemy27
+\\N[1]-kun, you will surely fall in love with
+Ena-chan... so I...... before that happens, I
+wanted you... to love me too...
+I... I......#Strate
 > END STRING
 
 > BEGIN STRING
 マイちゃんは、こちらをそっちのけで動揺している……
 
 どうやら、図星だったようだ。
-> CONTEXT: CommonEvents_700/116/Dialogue < UNTRANSLATED
+> CONTEXT: CommonEvents_700/116/Dialogue
+Mai-chan is trembling and has stopped paying attention to
+me......
 
+Apparently, I was spot on.#StrateLocalization
 > END STRING
 
 > BEGIN STRING
@@ -199,6 +257,9 @@
 
 今のうちに魔力を集中させて、
 魔法を撃てるようにならなければ…
-> CONTEXT: CommonEvents_700/120/Dialogue < UNTRANSLATED
+> CONTEXT: CommonEvents_700/120/Dialogue
+I feel a little sorry for her, but......
 
+I should Focus my magic while I still can.
+I have to be able to shoot magic, otherwise...#StrateLocalization
 > END STRING
