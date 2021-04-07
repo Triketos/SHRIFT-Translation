@@ -1,10 +1,10 @@
 ﻿> GAIJINIZER PATCH FILE
 > BEGIN STRING
 "EX2　堕チタ夢魔戦"
-> CONTEXT: Map362/events/1/pages/0/1/InlineScript/2:1 < UNTRANSLATED
-
+> CONTEXT: Map362/events/1/pages/0/1/InlineScript/2:1
+"EX2　堕チタ夢魔戦"
 > END STRING
-
+"EX2　Fallen Nightmare Battle"#Ron
 > BEGIN STRING
 \\N[1]！！
 
@@ -12,13 +12,13 @@
 > CONTEXT: Map362/events/1/pages/0/6/Dialogue/other2
 \\N[1]!!
 
-S-she's......#TriketosPartial
+S-She's......#Triketos
 > END STRING
 
 > BEGIN STRING
 ……………モルモー！！
 > CONTEXT: Map362/events/1/pages/0/10/Dialogue/kazuya
-......Mormo!!
+......Mormo!!#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -28,7 +28,7 @@ S-she's......#TriketosPartial
 > CONTEXT: Map362/events/1/pages/0/23/Dialogue/kazuya-3
 ...\\N[1]... kun...?
 
-You came back... you gave me...?#TriketosPartial
+Did you came back... for me...?#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -36,9 +36,9 @@ You came back... you gave me...?#TriketosPartial
 
 暗いよ…………なにも見えない………
 > CONTEXT: Map362/events/1/pages/0/27/Dialogue/kazuya-3
-\\N[1]-kun... where are you...
+\\N[1]-kun... where are you...?
 
-It's dark... I can't see anything...
+It's dark... I can't see anything...#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -50,7 +50,7 @@ It's dark... I can't see anything...
 Calm down, Mormo...
 
 I'm here, right behind you...
-Just slowly... turn around...
+Slowly... come toward the sound of my voice...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -59,9 +59,10 @@ Just slowly... turn around...
 
 僕なんか、見向きもされない……
 > CONTEXT: Map362/events/1/pages/0/36/Dialogue/kazuya-3
-Dark... Dark... Quickly turn on the lights...
+It's dark... So dark... Someone get the lights...
+The audience... can't watch us like this...
 
-It's so hard... Please let me see you again...#TrikIffy
+No one... will care about me...#Triketos/Ron
 > END STRING
 
 > BEGIN STRING
@@ -70,10 +71,10 @@ It's so hard... Please let me see you again...#TrikIffy
 
 みんなが、こっちに気付いてくれるように………
 > CONTEXT: Map362/events/1/pages/0/41/Dialogue/kazuya-3
-Soon... Soon... Music...
-So that everyone will hear...
+Quickly... Quickly... Start the music...
+So we can grab everyone's attention...
 
-I hope he notices me...#TrikIffy
+So everyone notices me...#Triketos/Ron
 > END STRING
 
 > BEGIN STRING
@@ -87,9 +88,9 @@ Mormo...?#Triketos
 
 なんだか様子がおかしいぞ………
 > CONTEXT: Map362/events/1/pages/0/49/Dialogue/other2
-\\N[1]... It's better if we left...
+Something's wrong...
 
-This looks strange...#TriketosPartial
+\\N[1]... We should get out of here...#Triketos/Ron
 > END STRING
 
 > BEGIN STRING
@@ -98,10 +99,10 @@ This looks strange...#TriketosPartial
 
 相手の、望むような姿になら、なんでも……
 > CONTEXT: Map362/events/1/pages/0/55/Dialogue/kazuya-3
-I'm a dreamer...
-You can do anything in your dreams
+I'm a succubus...
+So I can do anything if I'm in a dream.
 
-Whatever you want, whatever you want...#GT
+I can take whatever form my partner wishes...#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -110,10 +111,10 @@ Whatever you want, whatever you want...#GT
 
 僕は、そんなのどっちで……も全然かまわない……
 > CONTEXT: Map362/events/1/pages/0/60/Dialogue/kazuya-3
-Empuse is a “real”...
-I was blurring to see you... but...
+Empuse complains that she wants people to see
+the "real her". How... ever...
 
-I don't care which way...#GT
+I don't really... care either way...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -122,10 +123,10 @@ I don't care which way...#GT
 
 もっともっと……本気で……僕を見て………
 > CONTEXT: Map362/events/1/pages/0/65/Dialogue/kazuya-3
-Hey, look at me...
-It can be warm, cold, or ugly...
+Hey, look at me... I don't whether it's with
+love, hate, or whatever.
 
-More and more... Seriously... Look at me...#GT
+Just really... look at me...#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -139,9 +140,9 @@ More and more... Seriously... Look at me...#GT
 
 キエル…………
 > CONTEXT: Map362/events/1/pages/0/92/Dialogue/Gface2
-Hate you...
+Don't want...
 
-Leave...#TriketosPartial
+To disappear...#Triketos/Ron
 > END STRING
 
 > BEGIN STRING
@@ -149,9 +150,9 @@ Leave...#TriketosPartial
 
 ボク………キエタク…………ナ………
 > CONTEXT: Map362/events/1/pages/0/96/Dialogue/Gface2
-Nnnn... \\N[1]...kun...
+Help me... \\N[1]... kun...
 
-I'm... sorry...#Triketos
+I don't... want... to disappear...#Triketos/Ron
 > END STRING
 
 > BEGIN STRING
@@ -181,7 +182,7 @@ You're going to be pulled in!!#Triketos
 
 今よ！エンプーサ！！！
 > CONTEXT: Map362/events/1/pages/0/125/Dialogue/enemy
-...G-got you!!!
+...G-Got you!!!
 
 Now, Empuse!!!#Triketos
 > END STRING

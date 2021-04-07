@@ -4,9 +4,9 @@
 
 聞き耳を立ててみますか？
 > CONTEXT: Map344/events/4/pages/2/2/Dialogue
-I can hear a voice inside......
+I can hear voices coming from inside...
 
-Do you want to listen?#GT
+Should I listen in?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -42,9 +42,9 @@ is written on the door.#Triketos
 
 中に入りますか？
 > CONTEXT: Map344/events/11/pages/1/2/Dialogue
-There is a terrible evil sign from inside...
+I can sense a terrible evil presence coming from inside...
 
-Go inside?#GT
+Go inside?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -53,10 +53,9 @@ Go inside?#GT
 
 なんだか嫌な予感がして、来てみたよ
 > CONTEXT: Map344/events/13/pages/1/0/Dialogue/hyakki
-...This time, I thought it wouldn’t be
-the turn, but...
-
-Somehow I had a bad feeling and tried to come#GT
+...I didn't think I'd be making an appearance
+this time. But I had a really bad feeling and
+thought I'd better come.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -64,10 +63,10 @@ Somehow I had a bad feeling and tried to come#GT
 
 ………必要になるかもしれないだろ
 > CONTEXT: Map344/events/13/pages/1/5/Dialogue/hyakki
-There is nothing particularly brand new,
-but do you want to see it?
+I don't have anything particularly new in stock,
+but why not have a look?
 
-......You may need it.#GT
+...You might find something you need.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -75,9 +74,9 @@ but do you want to see it?
 
 メールの確認の仕方、覚えてるかい？
 > CONTEXT: Map344/events/13/pages/1/53/Dialogue/hyakki
-\\C[10] By the way, \\N[1]...
+\\C[10]By the way, \\N[1]...
 
-Do you remember how to check your email?#Triketos
+Do you remember how to check your emails?#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -85,9 +84,9 @@ Do you remember how to check your email?#Triketos
 
 メール？何の？
 > CONTEXT: Map344/events/13/pages/1/57/Dialogue/kazuya
-…………?
+...?
 
-Email? What?#GT
+Emails? What emails?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -95,13 +94,13 @@ Email? What?#GT
 
 悪いね、ひき止めて
 > CONTEXT: Map344/events/13/pages/1/61/Dialogue/hyakki2
-No, no, nothing!
+N-Never mind, it's nothing!
 
-Bad, stop it.#GT
+Sorry for holding you up.#Ron
 > END STRING
 
 > BEGIN STRING
 \\C[10]………………アンタが、意味が分かればいいヨ
 > CONTEXT: Map344/events/13/pages/1/66/Dialogue/hyakki
-\\C[10]......You just need to understand the meaning.#GT
+\\C[10]......As long as you understand what I mean.#Ron
 > END STRING

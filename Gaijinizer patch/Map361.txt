@@ -2,7 +2,7 @@
 > BEGIN STRING
 ワウッ！！ワウッ！！！
 > CONTEXT: Map361/events/10/pages/0/26/Dialogue/バーゲスト
-Bark!! Bark!!#TriketosPartial
+Wan!! Wan!!#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -20,9 +20,8 @@ W-Wait...!!!#Triketos
 
 一目散にゲストとは反対側の楽屋に入っていった…
 > CONTEXT: Map361/events/10/pages/0/34/Dialogue
-Mormo went into the dressing room on the other
-side of the guest without noticing
-Barghest or \\N[1]...#TriketosPartial
+Mormo ran into her dressing room at full speed, dashing
+past \\N[1] and Barghest without even noticing them...#Triketos/Ron
 > END STRING
 
 > BEGIN STRING
@@ -31,8 +30,7 @@ Barghest or \\N[1]...#TriketosPartial
 
 早く彼女を止めないと、何かマズいことになる…！
 > CONTEXT: Map361/events/10/pages/0/43/Dialogue/kazuya
-Oh, Barghest...
-As expected, you knew this...
-If I don't stop her soon,
-something will go wrong...!#GT
+You're right Barghest, even I know what's going
+on here. Something bad's going to happen if we
+don't quickly stop her...!#Ron
 > END STRING
