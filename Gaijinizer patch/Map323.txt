@@ -4,8 +4,9 @@
 
  この先の世界で、『僕を呼んでる悪魔』って……
 > CONTEXT: Map323/events/1/pages/1/2/Dialogue/kazuya
-......The fact that these threesomes are
-in the future is “the devil calling me”...#GT
+Does you three being gathered here mean that
+you're the demons from the world who've
+summoned me?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -14,9 +15,10 @@ in the future is “the devil calling me”...#GT
 私たち　共通　で　つながってて
 \\N[1]　知ってる　なら……
 > CONTEXT: Map323/events/1/pages/1/9/Dialogue/enemy3
-...maybe it's Hecate...
+It was probably... Hectate-sama...
 
-If we're all connected and know \\N[1]...#GT
+Us all... knowing you... is something...
+we have in common...#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -25,9 +27,10 @@ If we're all connected and know \\N[1]...#GT
 私たちだって、クソ上司とは二度と顔を会わせたくないし
 そのうえ、\\N[1]を会わせるなんて絶対嫌なんだよ……
 > CONTEXT: Map323/events/1/pages/1/16/Dialogue/enemy
-Until now, we were talking with three of us,
-but we don't want to see my fucking boss again.
-And I don't want to see \\N[1]...#GT
+The three of us were just discussing something.
+We don't want to meet that shitty boss ever
+again. And we certainly don't want you to have
+to meet with her, either...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -35,8 +38,9 @@ And I don't want to see \\N[1]...#GT
 
 ここまで　のりこんで　くるかも……
 > CONTEXT: Map323/events/1/pages/1/21/Dialogue/enemy3
-But if you refuse, Hecate is angry
-Maybe you'll get in here...#GT
+But if you... refuse to go...
+
+She might come... charging in here...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -44,9 +48,10 @@ Maybe you'll get in here...#GT
 
 確かに、あり得なくはなさそうだ。
 > CONTEXT: Map323/events/1/pages/1/27/Dialogue/kazuya
-I've been to the house before me...
+She's made her way over here before, hasn't she?
 
-Indeed, it seems unlikely.#GT
+So I suppose it's certainly possible for her to
+come here again.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -54,8 +59,9 @@ Indeed, it seems unlikely.#GT
 
  とりあえず、応じてみようって事になったの。
 > CONTEXT: Map323/events/1/pages/1/34/Dialogue/enemy
-......So, I thought about the various
-possibilities and decided to respond.#GT
+...So we've been thinking of all the different
+things that might happen, and it was decided that
+we'd respond to her summons.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -65,10 +71,10 @@ possibilities and decided to respond.#GT
 どんな魔法を使われたって、断ち切ることはできない。
 > CONTEXT: Map323/events/1/pages/1/38/Dialogue/enemy
 > CONTEXT: Map323/events/1/pages/2/0/Dialogue/enemy
-No matter who is calling, what connects here
-and the world ahead... The connection between
-us and \\N[1]... No matter what magic is used,
-it cannot be cut off.#GT
+No matter who's calling you over there, what binds
+this place to that other world is our connection
+to you. No matter what magic is used over there,
+it cannot be severed.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -78,10 +84,10 @@ it cannot be cut off.#GT
 例外　ない
 > CONTEXT: Map323/events/1/pages/1/43/Dialogue/enemy2
 > CONTEXT: Map323/events/1/pages/2/5/Dialogue/enemy2
-You can always come back with the crystal
-in various places over there...
+No matter... what kind of place... you can
+always... return with the crystal...
 
-No exception.#GT
+Without exception...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -90,8 +96,9 @@ No exception.#GT
 少なくとも、今のところ向こうに『敵意』はないってこと。
 > CONTEXT: Map323/events/1/pages/1/48/Dialogue/enemy
 > CONTEXT: Map323/events/1/pages/2/10/Dialogue/enemy
-And, at least, being connected this way means
-that there's no hostility at the moment...#GT
+And given the fact that the connection between
+worlds is so stable, that at least means there's
+no hostility on the other side...#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -101,9 +108,10 @@ that there's no hostility at the moment...#GT
 とりあえず、行くだけ行ってみない？
 > CONTEXT: Map323/events/1/pages/1/52/Dialogue/enemy
 > CONTEXT: Map323/events/1/pages/2/14/Dialogue/enemy
-If there's something, we just need
-to come back soon.
-Anyway, why not just go and go?#GT
+We'll be coming with you, and if something
+happens we can head straight back.
+
+Why don't we try going over there for now?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -112,8 +120,8 @@ EX世界『劇場』に侵入しますか？
 
 ＊一旦入ると、ある程度進むまで戻って来れません。
 > CONTEXT: Map323/events/3/pages/1/2/Dialogue
-Do you want to break into EX World Theater?
+Do you want to enter the "EX Theater" world?
 
-* Once you enter,
-you cannot come back until you have advanced to some extent.#GT
+* Once you enter, you cannot come back until you
+have advanced to a certain point.#Ron
 > END STRING
