@@ -5,10 +5,10 @@
 おかしいな、電源は入ってるみたいなのに
 操作しても全く反応がない…
 > CONTEXT: Map347/events/2/pages/0/1/Dialogue/kazuya
-Doesn't work...?
+It's not working...?
 
-It's weird, even though it's turned on,
-there's no response...#GT
+That's weird, it looks like it's getting power
+but there's no response at all when I use it...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -17,10 +17,10 @@ there's no response...#GT
 
 一体、何が起こっているんだ…？
 > CONTEXT: Map347/events/2/pages/0/6/Dialogue/kazuya
-Even the tattered guy at the exit of the
-Aracheny's Nest never stopped moving...
+Even the one that was all beat up at the entrance
+at Arachne's nest was still working...
 
-What the hell is going on...?#GT
+What the hell is going on...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -28,9 +28,9 @@ What the hell is going on...?#GT
 
 触っても反応しない……
 > CONTEXT: Map347/events/8/pages/0/1/Dialogue/kazuya
-Hmm..?
+Huh...?
 
-It doesn't respond to touching...#GT
+It doesn't respond when I touch it...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -38,9 +38,10 @@ It doesn't respond to touching...#GT
 
 本当に、彼女たちはどこに行ったんだ…？
 > CONTEXT: Map347/events/8/pages/0/5/Dialogue/kazuya
-Well... I'm not going to leave...
+Well, I don't plan on leaving with everything
+like this anyway.
 
-Really, where did they go...?#GT
+Just where did those two go...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -48,8 +49,10 @@ Really, where did they go...?#GT
 
 　　項目を選ぶだけが全てじゃないよね………』
 > CONTEXT: Map347/events/4/pages/1/0/Dialogue
-* 「......Choices...
-   It's not all about choosing items...」#GT
+* 「...The thing about choices...
+
+    Sometimes the choices presented aren't the only choices
+    you have available to you...」#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -57,5 +60,5 @@ Really, where did they go...?#GT
 
 　　独り言』
 > CONTEXT: Map347/events/4/pages/1/4/Dialogue
-* 「It's nothing, just talking to myself.」#GT
+* 「It's nothing, just talking to myself.」#Ron
 > END STRING
