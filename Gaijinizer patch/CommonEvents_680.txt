@@ -5,10 +5,10 @@
 
 もしかして、迷っちゃったのかしら……？
 > CONTEXT: CommonEvents_680/0/Dialogue/enemy33
-Oh....?
+Oh...?
 You're still here?
 
-I don't know, maybe you got lost...?#DL
+Are you lost, perhaps...?#Strate
 > END STRING
 
 > BEGIN STRING
@@ -17,10 +17,10 @@ I don't know, maybe you got lost...?#DL
 
 迷っちゃうのも無理はないわ
 > CONTEXT: CommonEvents_680/5/Dialogue/enemy33
-Fufufu, you don't have to be shy.♡
-This forest is a really tricky place.
+Fufufu, there's no need to be ashamed♡
+This forest has a very complex layout, after all.
 
-I'm sure you're understandably confused.#DL
+It's understandable that you'd get lost.#Strate
 > END STRING
 
 > BEGIN STRING
@@ -29,10 +29,10 @@ I'm sure you're understandably confused.#DL
 それじゃニンゲンくん、
 おねえさんと、ちょっとした『取引』しない？
 > CONTEXT: CommonEvents_680/11/Dialogue/enemy33
-Well..... ♡
+Well...... ♡
 
-All right, human. Would you like to make a little
-'deal' with your onee-san?#DL
+All right, human-kun. Would you like to make a
+little 'deal' with your onee-san?#Strate
 > END STRING
 
 > BEGIN STRING
@@ -41,10 +41,10 @@ All right, human. Would you like to make a little
 
 どうせ、そこが目的地なんでしょう？
 > CONTEXT: CommonEvents_680/16/Dialogue/enemy33
-\\C[2]If you don't want to solve any more riddles
-I'll bring you to the front of the hall.\\C[0]
+\\C[2]If you don't want to solve any more puzzles
+I'll take you to the front of the plaza.\\C[0]
 
-That's where you're headed anyway, right?#DL
+That's where you're headed anyway, right?#Strate
 > END STRING
 
 > BEGIN STRING
@@ -52,8 +52,11 @@ That's where you're headed anyway, right?#DL
 一切文句を言わず、従うこと……
 
 大丈夫、搾精しながらとか、そういうのじゃないから♡
-> CONTEXT: CommonEvents_680/21/Dialogue/enemy33 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_680/21/Dialogue/enemy33
+In exchange, do not complain about my way of
+"carrying" you, just be obedient......
+Don't worry, I won't milk you on the way or
+anything like that♡#Strate
 > END STRING
 
 > BEGIN STRING
@@ -62,10 +65,10 @@ That's where you're headed anyway, right?#DL
 もし本当に迷ってるんだったら尚更
 そこまで悪い条件じゃないとおもうけど？
 > CONTEXT: CommonEvents_680/28/Dialogue/enemy33
-So, what's the plan?
+So, what will it be?
 
-If you're really on the fence, then I'm guessing
-it's not such a bad deal.#DL
+It's not a bad deal, especially if you really
+are lost, don't you think?#StrateLocalization
 > END STRING
 
 > BEGIN STRING
@@ -75,13 +78,13 @@ it's not such a bad deal.#DL
 > CONTEXT: Map107/events/86/pages/1/41/Choice/1
 > CONTEXT: Map107/events/7/pages/1/41/Choice/1
 > CONTEXT: Map400/events/2/pages/0/142/Choice/0
-Refuse#DL
+Decline#Strate
 > END STRING
 
 > BEGIN STRING
 お願いする
 > CONTEXT: CommonEvents_680/33/Choice/1
-Please#DL
+Please#Strate
 > END STRING
 
 > BEGIN STRING
@@ -89,15 +92,15 @@ Please#DL
 
 それじゃあ、この話はナシね。
 > CONTEXT: CommonEvents_680/35/Dialogue/enemy33
-......Okay.
+......Fine.
 
-So I guess we'll just skip it then.#DL
+I guess this conversation is over, then.#Strate
 > END STRING
 
 > BEGIN STRING
 アナオンは機嫌を損ねてしまったようだ……
 > CONTEXT: CommonEvents_680/39/Dialogue
-Anaon seems to be in a bad mood...#DL
+Anaon seems to have gotten upset......#Strate
 > END STRING
 
 > BEGIN STRING
@@ -106,10 +109,10 @@ Anaon seems to be in a bad mood...#DL
 
 おねえさんに任せなさい♡
 > CONTEXT: CommonEvents_680/44/Dialogue/enemy33
-Oh yeah♡
-Humans are cute when they're honest♡
+That's it♡
+Humans are the cutest when they're obedient♡
 
-Let your big sister handle it...♡#DL
+Let onee-san take care of everything... ♡#Strate
 > END STRING
 
 > BEGIN STRING
@@ -117,16 +120,15 @@ Let your big sister handle it...♡#DL
 
 広場の近くまで、運んでいってあげる♡
 > CONTEXT: CommonEvents_680/49/Dialogue/enemy33
-Now, hurry up and come over here... ♡♡
+Now, hurry up and come over here...... ♡♡
 
-I'll carry you out to the square and see
-if I can get you there♡#DL
+I'll carry you to the area near the square♡#Strate
 > END STRING
 
 > BEGIN STRING
 ………………ちょっと、なに背中に乗ろうとしてるの？
 > CONTEXT: CommonEvents_680/57/Dialogue/enemy33
-......Hey, why are you trying to get on my back?#DL
+......Hey, why are you trying to get on my back?#Strate
 > END STRING
 
 > BEGIN STRING
@@ -142,10 +144,10 @@ Eh...?#Triketos
 
 走り出したら、まっさきに落ちちゃうから
 > CONTEXT: CommonEvents_680/61/Dialogue/enemy33
-All the fairies and nymphs want to ride the wrong
+Fairies, humans, everyone tries to ride the wrong
 way. It's not as stable as it looks.
 
-If I start running, you'll fall off right away.#DL
+If I start running, you'll fall off right away.#Strate
 > END STRING
 
 > BEGIN STRING
@@ -153,15 +155,15 @@ If I start running, you'll fall off right away.#DL
 
 あなたが乗る場所は、こ・こ♡♡
 > CONTEXT: CommonEvents_680/67/Dialogue/enemy33
-Come...♡
+Come...... ♡
 
-The place you ride is here...♡♡#DL
+The place you ride is right♡ here♡♡#Strate
 > END STRING
 
 > BEGIN STRING
 っ……？！
 > CONTEXT: CommonEvents_680/74/Dialogue/kazuya-0
-...?!#DL
+...?!#Strate
 > END STRING
 
 > BEGIN STRING
@@ -169,10 +171,9 @@ The place you ride is here...♡♡#DL
 
 腰から抱きかかえられるように、身体を引き寄せられた
 > CONTEXT: CommonEvents_680/76/Dialogue
-\\N[1] is trying to reach the top half of Anaon's body.
-
-She pulled him closer to her body so that she could hold
-him around her waist.#DL
+\\N[1] was pulled against the upper half
+of Anaon's body so she could hold him from the
+waist.#Strate
 > END STRING
 
 > BEGIN STRING
@@ -181,10 +182,10 @@ him around her waist.#DL
 
 フフフッ、照れなくてもいいのよ♡
 > CONTEXT: CommonEvents_680/80/Dialogue/enemy33
-Hey, what's going on?
-You're blushing... ♡
+Oh my, what's wrong?
+You're blushing...... ♡
 
-Fufu, you don't have to be shy♡#DL
+Fufufu, you don't have to be embarrassed♡#Strate
 > END STRING
 
 > BEGIN STRING
@@ -192,21 +193,22 @@ Fufu, you don't have to be shy♡#DL
 
 目的地までは、ちょっと道が険しいわよ。
 > CONTEXT: CommonEvents_680/87/Dialogue/enemy33
-Now, will you hold on to my body as you please?
+Now, would you cling to my body in a way you're
+comfortable?
 
-The path to your destination is a bit rough.#DL
+The path to our destination is a bit rough.#Strate
 > END STRING
 
 > BEGIN STRING
 あまり密着せず、目を瞑る
 > CONTEXT: CommonEvents_680/91/Choice/0
-Keep away and shut your eyes#DL
+Keep away and shut your eyes#Strate
 > END STRING
 
 > BEGIN STRING
 思いきり胸に頭を埋める
 > CONTEXT: CommonEvents_680/91/Choice/1
-Bury your face in her chest#DL
+Bury your face in her chest#Strate
 > END STRING
 
 > BEGIN STRING
@@ -214,10 +216,10 @@ Bury your face in her chest#DL
 
 完全におねえさんの好みだわ♡
 > CONTEXT: CommonEvents_680/95/Dialogue/enemy33
-...Ooh, it's an even cuter face when you shut
+...Ooh, your face is even cuter when you close
 your eyes♡
 
-Your big sister loves it♡#DL
+Onee-san loves it very much♡#Strate
 > END STRING
 
 > BEGIN STRING
@@ -225,13 +227,13 @@ Your big sister loves it♡#DL
 
 軽く何度もキスをしている……
 > CONTEXT: CommonEvents_680/105/Dialogue
-Anaon kisses \\N[1]'s face lightly and repeatedly...#DL
+Anaon gently kisses \\N[1]'s face repeatedly...#Strate
 > END STRING
 
 > BEGIN STRING
 約束を急かす
 > CONTEXT: CommonEvents_680/109/Choice/1
-Hurry her up#DL
+Hurry her up#Strate
 > END STRING
 
 > BEGIN STRING
@@ -239,10 +241,9 @@ Hurry her up#DL
 
 運賃としては、大満足の料金よ♡♡
 > CONTEXT: CommonEvents_680/113/Dialogue/enemy33
-Fufu... Thanks for the meal♡
+Fufu...... Thanks for the meal♡
 
-As far as fares go, it's a very reasonable
-price♡♡#DL
+As far as fares go, it's a very good price♡♡#Strate
 > END STRING
 
 > BEGIN STRING
@@ -251,9 +252,9 @@ price♡♡#DL
 
 約束は、約束ですもの
 > CONTEXT: CommonEvents_680/119/Dialogue/enemy33
-Oh I'm sorry, I got carried away...
+Oh, I'm sorry. I got carried away...
 
-A promise is a promise, after all.#DL
+A promise is a promise, after all.#Strate
 > END STRING
 
 > BEGIN STRING
@@ -262,10 +263,10 @@ A promise is a promise, after all.#DL
 確かにそこなら、どんなに揺れても大丈夫だけど
 ちゃんと着くまで耐えられるのかしら…？♡
 > CONTEXT: CommonEvents_680/128/Dialogue/enemy33
-Ooh♡ Aren't you a bold one...♡♡
+Ooh♡ What a bold kid♡♡
 Sure, it's safe there no matter how much I shake,
-but will you be able to endure it until we get
-there properly...? ♡#DL
+but will you really be able to endure until we
+arrive...? ♡#Strate
 > END STRING
 
 > BEGIN STRING
@@ -274,10 +275,10 @@ there properly...? ♡#DL
 こんな柔らかいおっぱいに揉みしだかれて
 イかずにいられるのかしら？♡
 > CONTEXT: CommonEvents_680/134/Dialogue/enemy33
-Come~♡♡ come...♡
+Come ooon~♡♡ Come ooon~♡
 
-How can you not cum from being squeezed
-by such soft tits? ♡#DL
+Will you be able to resist the urge to cum when
+you're being squeezed by such soft tits? ♡#Strate
 > END STRING
 
 > BEGIN STRING
@@ -288,8 +289,8 @@ by such soft tits? ♡#DL
 > CONTEXT: CommonEvents_680/139/Dialogue/enemy33
 Fufufu♡
 
-Maybe I'll have to serve my cute, lustful
-kid before I leave♡#DL
+My cute little boy is so honest to his desires...
+Perhaps I should service him before we leave♡#Strate
 > END STRING
 
 > BEGIN STRING
@@ -297,16 +298,16 @@ kid before I leave♡#DL
 
 どう、興味あるかしら？♡
 > CONTEXT: CommonEvents_680/147/Dialogue/enemy33
-If you want, I can give you a breastfeeding
-hand job♡ What do you think?
+If you want, I can give you a nursing handjob♡
+What do you think?
 
-Would you be interested in that?♡#DL
+Would you be interested in that? ♡#Strate
 > END STRING
 
 > BEGIN STRING
 しゃぶりつく
 > CONTEXT: CommonEvents_680/151/Choice/1
-Take a suck#DL
+Take a suck#Strate
 > END STRING
 
 > BEGIN STRING
@@ -314,8 +315,11 @@ Take a suck#DL
 貴方の身体はそうは思ってないみたいだけど…
 
 ふふふ…じゃあ仕方ないわね…♡
-> CONTEXT: CommonEvents_680/153/Dialogue/enemy33 < UNTRANSLATED
+> CONTEXT: CommonEvents_680/153/Dialogue/enemy33
+Oh? Really?
+Your body seems to think otherwise, but...
 
+Fufufu... Well, nothing to do about it, then... ♡
 > END STRING
 
 > BEGIN STRING
@@ -323,9 +327,9 @@ Take a suck#DL
 
 もう目を開けていいわ
 > CONTEXT: CommonEvents_680/168/Dialogue/enemy33
-....Yes, we're here.
+......Okay, we're here.
 
-You can open your eyes now.#DL
+You can open your eyes now.#Strate
 > END STRING
 
 > BEGIN STRING
@@ -334,10 +338,10 @@ You can open your eyes now.#DL
 何もなければないで不満なの？
 ニンゲンってめんどくさい生き物ね……
 > CONTEXT: CommonEvents_680/173/Dialogue/enemy33
-What's the matter? I kept my promise.
+...What? I kept my promise, didn't I?
 
-So you're complaining that you have nothing to show for it?
-Humans are such complicated creatures.#DL
+Are you unhappy that nothing happened?
+Humans are such complicated creatures......#Strate
 > END STRING
 
 > BEGIN STRING
@@ -346,10 +350,10 @@ Humans are such complicated creatures.#DL
 
 獲物を見分けるための、甘ーいニオイを…♡
 > CONTEXT: CommonEvents_680/178/Dialogue/enemy33
-But, well, you know.
-I'm sure I've given you a lot of my scent, ♡
+...But, hopefully I've marked you with enough
+of my scent♡
 
-A sweet smell to identify my prey... ♡#DL
+A sweet smell to identify my prey... ♡#Strate
 > END STRING
 
 > BEGIN STRING
@@ -357,13 +361,13 @@ A sweet smell to identify my prey... ♡#DL
 
 必ずね…♡
 > CONTEXT: CommonEvents_680/183/Dialogue/enemy33
-I'll see you again...♡
+I'll see you again... ♡
 
-I promise♡#DL
+I promise... ♡#Strate
 > END STRING
 
 > BEGIN STRING
 アナオンは立ち去っていった……
 > CONTEXT: CommonEvents_680/191/Dialogue
-Anaon walked away...#DL
+Anaon walked away......#Strate
 > END STRING
