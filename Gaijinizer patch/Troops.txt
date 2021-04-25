@@ -11940,14 +11940,14 @@ Ah...ah...ah ...!!#MTLed
 > BEGIN STRING
 ハーピーモドキ（通常）
 > CONTEXT: Troops/291/name
-Beetle Harpy(Normal)#Triketos
+Harpy Spawn(Normal)#Triketos/Strate
 > END STRING
 
 > BEGIN STRING
 ギャッ！！！ギャアアッ！！
 > CONTEXT: Troops/291/pages/2/5/Dialogue/enemy21
 > CONTEXT: Troops/295/pages/2/5/Dialogue/enemy21
-Gya~tsu! ! ! Gyaaa~tsu! !#GT
+Gya!!! Gyaa!!#Strate
 > END STRING
 
 > BEGIN STRING
@@ -11970,7 +11970,7 @@ Another Harpy appeared, called by the cry!!#Triketos
 > CONTEXT: Troops/320/pages/2/42/Dialogue
 > CONTEXT: Troops/321/pages/2/42/Dialogue
 > CONTEXT: Troops/322/pages/2/42/Dialogue
-The damaged Beetle Harpy flew away...#Triketos
+The damaged Harpy Spawn flew away...#Triketos/Strate
 > END STRING
 
 > BEGIN STRING
@@ -11984,9 +11984,8 @@ The damaged Beetle Harpy flew away...#Triketos
 > CONTEXT: Troops/320/pages/2/71/Dialogue
 > CONTEXT: Troops/321/pages/2/71/Dialogue
 > CONTEXT: Troops/322/pages/2/71/Dialogue
-By winning the battle
-\\C[2] regained a little fighting spirit
-against Beetle Harpy...#Triketos
+By winning the battle, \\C[2]I have reduced some of
+the Harpy Spawn's corruption...#Triketos/Strate
 > END STRING
 
 > BEGIN STRING
@@ -12001,31 +12000,31 @@ against Beetle Harpy...#Triketos
 > CONTEXT: Troops/320/pages/2/78/Dialogue
 > CONTEXT: Troops/321/pages/2/78/Dialogue
 > CONTEXT: Troops/322/pages/2/78/Dialogue
-Beetle Harpy flew away...#Triketos
+The Harpy Spawn flew away...#Triketos/Strate
 > END STRING
 
 > BEGIN STRING
 【敗北】ハーピーモドキ
 > CONTEXT: Troops/292/name
-Beetle Harpy (Loss 1)#Triketos
+Harpy Spawn (Loss 1)#Triketos
 > END STRING
 
 > BEGIN STRING
 【敗北２】ハーピーモドキ
 > CONTEXT: Troops/293/name
-Beetle Harpy (Loss 2)#Triketos
+Harpy Spawn (Loss 2)#Triketos
 > END STRING
 
 > BEGIN STRING
 【敗北３】ハーピーモドキ
 > CONTEXT: Troops/294/name
-Beetle Harpy (Loss 3)#Triketos
+Harpy Spawn (Loss 3)#Triketos
 > END STRING
 
 > BEGIN STRING
 ハーピーモドキ（イベント）
 > CONTEXT: Troops/295/name
-Beetle Harpy (Event)#Triketos
+Harpy Spawn (Event)#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -12890,7 +12889,7 @@ Harpy Queen(Loss 2)#Triketos
 > BEGIN STRING
 クイーン（通常）
 > CONTEXT: Troops/303/name
-Beetle Harpy(Defeat)#Triketos
+Harpy Spawn(Defeat)#Triketos
 > END STRING
 
 > BEGIN STRING
