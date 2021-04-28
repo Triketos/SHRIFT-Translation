@@ -139,10 +139,8 @@ to happen.#RonIffy
 \\C[2]今回の騒動に、ヘカーテは関われなかった…\\C[0]
 
 『そういう世界』になってるんだよ、今はね…
-> CONTEXT: Map363/events/1/pages/0/85/Dialogue/hyakki
-\\C[2]Hecate was not involved in this uproar...\\C[0]
+> CONTEXT: Map363/events/1/pages/0/85/Dialogue/hyakki < UNTRANSLATED
 
-It's a world like that, now...#CheckLater
 > END STRING
 
 > BEGIN STRING
@@ -204,7 +202,7 @@ What are you doing in a place like this...? ♪#Ron
 > CONTEXT: Map363/events/1/pages/0/140/Dialogue/enemy2
 Because you weren't capable of being a good boy
 and letting her beat you, \\C[10]Mormo no longer exists
-in any world. \\C[0]So really this is all your fault.#Ron
+in any world. \\C[0]So really, this is all your fault.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -284,9 +282,9 @@ Her personality's awful as always...#Triketos/Ron
 
 アンタのオリジナルの性格よ？
 > CONTEXT: Map363/events/1/pages/0/179/Dialogue/enemy2
-Don't praise me that much...
+No need to praise me so much.
 
-Your one of a kind personality?#CheckLater
+I'm just doing what I do best.#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -454,7 +452,7 @@ W-What the...?!#Triketos
 > CONTEXT: Map363/events/1/pages/0/272/Dialogue/other2
 T-That really spooked me...
 
-So this is the true power of the Demon King...?!#Triketos
+So this is the true power of a Demon King...?!#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -517,7 +515,7 @@ let alone get any help...#Triketos
 But... I don't get it...
 
 If she could do this all along, why didn't she
-just target you like this from the start...?#Triketos/RonIffyWording
+just target you like this from the start...?#Triketos/Ron
 > END STRING
 
 > BEGIN STRING
@@ -538,9 +536,10 @@ the very beginning...?#Ron
 
 『あれ』を含めて、もっと重要だったんだ
 > CONTEXT: Map363/events/1/pages/0/309/Dialogue/kazuya
-......This is just speculation, but Mormo's role
-is probably not over yet. She'll have something
-more important to do with "that".#RonIffy
+....This is just speculation, but there had to be
+more to Mormo's role then we thought. Factoring
+in the presence of "that", maybe she was meant
+to accomplish something far more important.#Ron/Triketos
 > END STRING
 
 > BEGIN STRING
