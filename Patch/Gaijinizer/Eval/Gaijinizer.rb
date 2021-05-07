@@ -215,3 +215,67 @@ def self.note_index_array(note, index_array, raw_data, i, match)
 	  return a << line_number
 	end
 end
+
+# Changed by Anegorami.
+def self.do_with_list_item(obj, code, params, i_array, index, hash)
+    # #Alias me to change how to act with list item (or edit me if you're lazy)
+    # implemented for hash:
+    #   first_line : nil, text doesn't start at code ; string, first line
+    #   param_loop : nil, no loop ; next line(s) to be found in .parameters[param_loop] with code += 300
+    #   index_array_method : method to use to return index array (implemented only for param_loop)
+    #   text : text found
+    #   new_obj : recur standard method with this new object (not considered as event command)
+    #   param : text/new_obj found in .parameters[param]
+    #   script : extract strings from text as script (implemented only for param_loop)
+    if obj.class.name == @evc_class #is list element an event command?
+      i_array.pop #removes 'list'
+      if code == 101
+        return false unless params[0]
+        hash['index_array_method'] = :dialogue_index_array
+        hash['param_loop'] = 0
+        hash['first_line'] = nil
+      elsif code == 102
+        return false unless params[0]
+        i_array.push(index, 'Choice')
+        hash['param'] = 0
+        hash['new_obj'] = params[0]
+      elsif code == 105
+        #return false unless params[0]
+        i_array.push(index, 'ScrollText')
+        hash['param_loop'] = 0
+        hash['first_line'] = nil
+      elsif code == 108
+        return false unless params[0] && comment_108_ok?(params[0], i_array, hash)
+        i_array.push(index, 'Comment')
+        hash['param_loop'] = 0
+        hash['param'] = 0
+        hash['first_line'] = params[0]
+      elsif code == 320
+        return false unless params[0] && params[1]
+        i_array.push(index, 'Rename', params[0])
+        hash['param'] = 1
+        hash['text'] = params[1]
+      elsif code == 355
+        return false unless params[0]
+        i_array.push(index, 'InlineScript')
+        hash['param_loop'] = 0
+        hash['first_line'] = params[0]
+        hash['script'] = true
+	  elsif code == 408
+	    return false unless params[0]
+		i_array.push(index, "Multiline Comment")
+		hash["param_loop"] = 0
+		hash["param"] = 1
+		hash["first_line"] = params[0]
+      else
+        return false #Change me to switch off code filter
+        i_array.push(index, 'Code' , code)
+        hash['new_obj'] = obj
+      end
+    else
+      return false #Change me to allow non event commands
+      i_array.push(index, item.class.name)
+      hash['new_obj'] = obj
+    end
+    return true #Do something in convert_list
+  end #do_with_list_item
