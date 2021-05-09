@@ -178,8 +178,8 @@ Current Friendship: \\C[2]\\v[55]\\C[0]#Ron
 
 > BEGIN STRING
 百鬼に受け取る気は無いようだ……
-> CONTEXT: Map217/events/5/pages/0/143/Dialogue
-Hyakki seems not to receive it ......#MTLed
+> CONTEXT: Map217/events/5/pages/0/149/Dialogue
+Hyakki doesn't seem to be interested...#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -187,7 +187,7 @@ Hyakki seems not to receive it ......#MTLed
 
 アタシ、一応行商人だから……
 物品にはあんまり困ってないんだ……
-> CONTEXT: Map217/events/5/pages/0/154/Dialogue/hyakki
+> CONTEXT: Map217/events/5/pages/0/160/Dialogue/hyakki
 Uhh... I appreciate the thought.
 
 I guess I am a peddler, so it's not the worst
@@ -198,7 +198,7 @@ thing to have more of these...#Ron
 自分で使う用で、好物だってんなら話は別だけど……
 
 そういうプレゼントは、間に合ってるんでね…
-> CONTEXT: Map217/events/5/pages/0/159/Dialogue/hyakki
+> CONTEXT: Map217/events/5/pages/0/165/Dialogue/hyakki
 I think I'd rather have something I actually
 like and use.
 
@@ -207,9 +207,11 @@ That'd probably suit me a little more...#Ron
 
 > BEGIN STRING
 ＥＸ用特別アイテム
-> CONTEXT: Map217/events/5/pages/0/173/Choice/2 
+> CONTEXT: Map217/events/5/pages/0/179/Choice/2
 > CONTEXT: Map301/events/7/pages/0/6/Choice/2 
 > CONTEXT: Map303/events/6/pages/0/7/Choice/2 
+> CONTEXT: Map344/events/13/pages/1/11/Choice/2
+> CONTEXT: Map404/events/5/pages/1/6/Choice/2
 EX Special Item#Ron
 > END STRING
 
