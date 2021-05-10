@@ -2,7 +2,7 @@
 > BEGIN STRING
 や……　やっと　引っ張り出せた……
 > CONTEXT: Map363/events/1/pages/0/2/Dialogue/enemy3
-Yeah... I finally pulled it out...#GT
+I-I finally... pulled you out...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -11,10 +11,10 @@ Yeah... I finally pulled it out...#GT
 私ら以外に魂を奪われたら承知しないって
 ついさっき言ったばかりじゃないの！！！
 > CONTEXT: Map363/events/1/pages/0/5/Dialogue/enemy
-...You're an idiot, \\N[1]!!!
+...\\N[1], you idiot!!!
 
-I didn't just say I wouldn't know if my soul
-was taken away from us!!!#GT
+I only just told you not to do anything with
+other demons that would take your soul!!!#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -23,16 +23,16 @@ was taken away from us!!!#GT
 バーゲストが呼びに来たからいいものの
 この世界で実体化できるのは私ら３人だけなんだから！
 > CONTEXT: Map363/events/1/pages/0/10/Dialogue/enemy
-It's different from "that time"!?
-
-It's good that Barghest came to call
-Only three of us can materialize in this world!#GT
+This is different from "that time"!
+Though it's good that Barghest was able to call
+us over, we three are the only demons that can
+materialize here!#Ron
 > END STRING
 
 > BEGIN STRING
 も………モルモーは…………？
 > CONTEXT: Map363/events/1/pages/0/29/Dialogue/kazuya
-M-Mormo...?#GT
+W-Where's Mormo...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -41,10 +41,10 @@ M-Mormo...?#GT
 魔力　だけじゃ　ない……
 『存在』も　『個』も、なにもかも………呑まれた……
 > CONTEXT: Map363/events/1/pages/0/32/Dialogue/enemy3
-...She's gone completely...
-Not just magic power...
-"Existence", "Individual", everything...
-Eaten up...#GT
+...She... disappeared completely...
+Not just... her magic power... but her
+"existence"... her "self"... everything was...
+swallowed up...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -54,9 +54,9 @@ Eaten up...#GT
 ランパス　いなかったら　捕まえられなかった…
 > CONTEXT: Map363/events/1/pages/0/37/Dialogue/enemy3
 \\N[1]... What was that...?
-I didn't understand the inside of it,
-\\N[1]... If I didn't go to Lampas,
-I couldn't get caught...#GT
+I couldn't... see you... inside there...
+If Lampas... hadn't been here... I wouldn't
+have... been able to catch you...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -65,10 +65,10 @@ I couldn't get caught...#GT
 
 正直、ツタを入れるのも怖いくらいだったわ…
 > CONTEXT: Map363/events/1/pages/0/43/Dialogue/enemy
-I just heard \\N[1]'s voice calling Mormo,
-so it was almost a miracle...
-
-Honestly, it was scary to put ivy...#GT
+I only found him because I heard him calling out
+to Mormo, but it was so faint it was a miracle I
+could find him at all. If I'm being honest, I was
+scared of putting my ivy in there.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -77,10 +77,10 @@ Honestly, it was scary to put ivy...#GT
 まるで感情の欠片もないっていうか……
 ホントに、ぽっかり無の空間って感じ……
 > CONTEXT: Map363/events/1/pages/0/48/Dialogue/enemy
-The wording is weird... it was clear evil...
-
-As if there is no piece of emotion...
-Really, a space without gaps...#GT
+It sounds weird, but it was a tranquil evil.
+It's like there wasn't an ounce of emotion in
+there, or rather it felt like a gaping wide
+space of nothingness...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -97,10 +97,9 @@ Really, a space without gaps...#GT
 あんなの、人間ですら無かったじゃない…
 そもそも……生きてるかすらも怪しいのに……
 > CONTEXT: Map363/events/1/pages/0/59/Dialogue/enemy
-A little... Are you serious? 
-There wasn't even a human being like that.
-In the first place...
-Even though it's suspicious that he's alive...#GT
+Wait... are you serious? That thing wasn't even
+human. It's debatable whether you could even say
+it's a living thing.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -109,9 +108,10 @@ Even though it's suspicious that he's alive...#GT
 
 これ以上、変なことが起きる前に…
 > CONTEXT: Map363/events/1/pages/0/67/Dialogue/enemy
-Anyways \\N[1], can we go back to My Room soon?
+\\N[1]...
 
-No more weird things happen...#GT
+Let's just go back to My Room for now before
+anything else weird happens.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -119,9 +119,10 @@ No more weird things happen...#GT
 
 さっきのも　そうだし　ここ　なに起こるか　わからない…
 > CONTEXT: Map363/events/1/pages/0/72/Dialogue/enemy2
-I also agree with Lampas.
+I agree... with Lampas.
 
-I don't know what's going to happen here...#GT
+Like with before... we don't know... what's going
+to happen.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -131,17 +132,15 @@ I don't know what's going to happen here...#GT
 > CONTEXT: Map363/events/1/pages/0/78/Dialogue/kazuya
 ...
 
-...Yeah.#GT
+...Yeah, you're right.#Ron
 > END STRING
 
 > BEGIN STRING
 \\C[2]今回の騒動に、ヘカーテは関われなかった…\\C[0]
 
 『そういう世界』になってるんだよ、今はね…
-> CONTEXT: Map363/events/1/pages/0/85/Dialogue/hyakki
-\\C[2]Hecate was not involved in this uproar...\\C[0]
+> CONTEXT: Map363/events/1/pages/0/85/Dialogue/hyakki < UNTRANSLATED
 
-It's a world like that, now...#GT
 > END STRING
 
 > BEGIN STRING
@@ -152,8 +151,8 @@ It's a world like that, now...#GT
 > CONTEXT: Map363/events/1/pages/0/106/Dialogue/kazuya
 ............
 
-Probably if my expectations are correct...
-Hecate's purpose is...#GT
+If my hunch is correct, then I think I know what
+Hecate's goal is...#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -162,10 +161,10 @@ Hecate's purpose is...#GT
 まぁ、そもそもモルモーなんかの貧弱な魔力じゃ
 大した強さにもならないか………
 > CONTEXT: Map363/events/1/pages/0/123/Dialogue/enemy3
-Hey, it wasn't done.
-Well, in the first place it is a poor magical
-power of Mormo...
-Isn't it too strong?#GT
+Well what do you know, you managed to beat her.
+But then I suppose with magic as feeble as
+Mormo's, there wasn't any hope of her becoming
+an actual powerhouse.#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -173,15 +172,15 @@ Isn't it too strong?#GT
 
 ほんっと、何やらせてもダメな、出来損ないの部下ね
 > CONTEXT: Map363/events/1/pages/0/128/Dialogue/enemy3
-I thought it would be useful for me at the end,
-but... Really, no matter what she does,
-she was a bad subordinate.#GT
+I thought she was gonna be useful to me until her
+final moments. Honestly, she fails at everything
+I ask her to do. What a worthless subordinate.#Ron
 > END STRING
 
 > BEGIN STRING
 ヘカーテ……！
 > CONTEXT: Map363/events/1/pages/0/132/Dialogue/kazuya
-Hecate...!#GT
+Hecate...!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -190,10 +189,9 @@ Hecate...!#GT
 
 何してるの？こんなところでー♪
 > CONTEXT: Map363/events/1/pages/0/135/Dialogue/enemy2
-Hmm..? \\N[1]-kun?
-I thought you had left..
+Hmm? \\N[1]-kun? I thought you'd left.
 
-What are you doing in a place like this..♪?#GT
+What are you doing in a place like this...? ♪#Ron
 > END STRING
 
 > BEGIN STRING
@@ -202,10 +200,9 @@ What are you doing in a place like this..♪?#GT
 
 \\C[0]ぜーんぶ、キミが悪いんだよー？
 > CONTEXT: Map363/events/1/pages/0/140/Dialogue/enemy2
-Because you were not calm and you weren't
-killed by Mormo, \\C[10]she can no longer exist in
-any world.
-\\C[0]You're all horrible, aren't you?#GT
+Because you weren't capable of being a good boy
+and letting her beat you, \\C[10]Mormo no longer exists
+in any world. \\C[0]So really, this is all your fault.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -214,10 +211,10 @@ any world.
 モルモーを僕に会わせたのも……
 彼女を『あれ』に喰わせたのも……！！
 > CONTEXT: Map363/events/1/pages/0/146/Dialogue/kazuya
-......From the beginning, you knew I was going
-to do this....
-You let Mormo meet me... so she'd
-get taken over by "Him"...!!#GT
+...This was your plan from the start, wasn't it?
+
+Letting Mormo meet me...
+Letting "that" consume her...!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -226,10 +223,10 @@ get taken over by "Him"...!!#GT
 私も、アンタがモルモーを使った理由が
 なんとなく分かったわ…
 > CONTEXT: Map363/events/1/pages/0/152/Dialogue/enemy
-......I see.
+......Now I get it.
 
-I also understand why you used Mormo
-I understand...#GT
+I more or less understand the reason why you
+used her...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -238,10 +235,10 @@ I understand...#GT
 
 そしてその思惑通り、私達はモルモーの提案に乗った…
 > CONTEXT: Map363/events/1/pages/0/157/Dialogue/enemy
-You used her because \\C[2]you knew that \\N[1]
-would withdraw as soon as we felt your sign...\\C[0]
-And, as you might expect, we took Mormo's
-proposal...#TriketosPartial
+You used her because \\C[2]you knew we'd withdraw the
+moment any of us felt your presence...\\C[0]
+And as you expected, we played along with Mormo's
+proposal...#Triketos/Ron
 > END STRING
 
 > BEGIN STRING
@@ -250,10 +247,10 @@ proposal...#TriketosPartial
 
 だから　モルモー　放っておく　できなかった…
 > CONTEXT: Map363/events/1/pages/0/163/Dialogue/enemy3
-\\N[1] wouldn't be scared of any demons...
-He's kind to any demons be encounters
-without exception...
-So he couldn't leave Mormo alone...#TriketosPartial
+\\N[1] isn't afraid... of demons.
+Without exception... he's kind to... all the
+demons... he encounters. So you knew... he
+wouldn't... be able to... ignore her...#Triketos/Ron
 > END STRING
 
 > BEGIN STRING
@@ -262,10 +259,10 @@ So he couldn't leave Mormo alone...#TriketosPartial
 \\C[2]一度　関わった　悪魔は　ほうっておかない　から…
 かならず　モルモー　助ける　から…
 > CONTEXT: Map363/events/1/pages/0/168/Dialogue/enemy3
-Hecate-sama used \\N[1]'s personality
-against him...
-He would never leave a demon alone...
-He would have always helped Mormo...#TriketosPartial
+Hecate-sama used... \\N[1]'s personality...
+against him.
+He would never... leave a demon be...
+He would definitely... help Mormo...#Triketos/Ron
 > END STRING
 
 > BEGIN STRING
@@ -274,10 +271,10 @@ He would have always helped Mormo...#TriketosPartial
 
 あいかわらず性格ワル…
 > CONTEXT: Map363/events/1/pages/0/173/Dialogue/enemy
-Perhaps it had already been planned
-up to the point where Barghest felt Mormo's
-"unhappiness" and notified \\N[1].
-He never changes...#TriketosPartial
+She probably even went as far as factoring in
+Barghest notifying him about Mormo's unhappiness.
+
+Her personality's awful as always...#Triketos/Ron
 > END STRING
 
 > BEGIN STRING
@@ -285,9 +282,9 @@ He never changes...#TriketosPartial
 
 アンタのオリジナルの性格よ？
 > CONTEXT: Map363/events/1/pages/0/179/Dialogue/enemy2
-Don't praise me that much...
+No need to praise me so much.
 
-Your one of a kind personality?#TriketosPartial
+I'm just doing what I do best.#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -296,10 +293,10 @@ Your one of a kind personality?#TriketosPartial
 
 落ちこぼれのアイツには、無理だって知ってたし
 > CONTEXT: Map363/events/1/pages/0/183/Dialogue/enemy2
-Well, if he lost to Mormo, I would have
+Well, if he'd lost to Mormo, I would have
 been happy with that.
-
-I knew there was no way he would lose, though.#TriketosPartial
+But I knew there was no way he would lose to a
+failure like her, though.#Triketos/Ron
 > END STRING
 
 > BEGIN STRING
@@ -308,10 +305,10 @@ I knew there was no way he would lose, though.#TriketosPartial
 
 だったら、釣りエサ程度には役に立ってもらわなくちゃ
 > CONTEXT: Map363/events/1/pages/0/188/Dialogue/enemy2
-And if you couldn't even win in a dream, your own
-speciality, you had no worth as an underling.
+And if you can't even win in a dream, your own
+specialty, you've got no worth as an underling.
 
-If that's true, it was best to use her as bait.#TriketosPartial
+In which case, I had to make her useful as bait.#Triketos/Ron
 > END STRING
 
 > BEGIN STRING
@@ -319,9 +316,7 @@ If that's true, it was best to use her as bait.#TriketosPartial
 
 あんな得体の知れないやつに喰わせるなんて…！
 > CONTEXT: Map363/events/1/pages/0/194/Dialogue/enemy
-So that's why...
-
-You strangely deceived her like that...!#TriketosPartial
+So you had her consumed by that weird thing...?!#Triketos/Ron
 > END STRING
 
 > BEGIN STRING
@@ -330,10 +325,10 @@ You strangely deceived her like that...!#TriketosPartial
 
 \\C[0]どれほど取り返しのつかない事か、分かってんの！？
 > CONTEXT: Map363/events/1/pages/0/198/Dialogue/enemy
-\\C[10]In the future, Mormo can no longer
-exist anywhere! If you created the same devil,
-it would be a completely different person!\\C[0]
-Do you know how irreparable it is!?#GT
+\\C[10]Mormo no longer exists anywhere anymore! Even
+if you recreated her down to the atom, it'd be a
+completely different demon.\\C[0] Do you realize what
+you've done?! There's no undoing this!#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -342,10 +337,10 @@ Do you know how irreparable it is!?#GT
 
 ヘカーテさま　ために　夢魔として　がんばってた
 > CONTEXT: Map363/events/1/pages/0/204/Dialogue/enemy3
-Mormo was certainly lazy, but...
-It's so different that I get that kind
-of treatment...
-I worked hard as a dream for Hecate.#GT
+Mormo was... certainly lazy... but she didn't...
+deserve any of that.
+
+She worked... so hard... for your sake.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -354,16 +349,16 @@ I worked hard as a dream for Hecate.#GT
 
 なのに　どうして……
 > CONTEXT: Map363/events/1/pages/0/209/Dialogue/enemy3
-In the old days, Hecate praised me
-for helping her...
+In the old days... you would... praise us both...
+for being useful...
 
-But why...#GT
+So why... did you do this...?#Ron
 > END STRING
 
 > BEGIN STRING
 ワウッ！ガウッ！！
 > CONTEXT: Map363/events/1/pages/0/214/Dialogue/バーゲスト
-Bark! Bark!!#GT
+Wan! Wan!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -372,10 +367,10 @@ Bark! Bark!!#GT
 だからなによ？
 消えたら消えた分、また新しく創ればいいじゃない
 > CONTEXT: Map363/events/1/pages/0/221/Dialogue/enemy3
-......You're annoying.
+......Pipe down, you three.
 
-So what? If it's gone, it's gone,
-I'll let's create a new one.#GT
+So what if she's gone? I can just remake anything
+that's disappeared.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -384,10 +379,10 @@ I'll let's create a new one.#GT
 なんか勘違いしてるみたいだから言っておくけど
 私は『信頼できる部下』なんて求めてないの
 > CONTEXT: Map363/events/1/pages/0/226/Dialogue/enemy3
-Mormo, Empuse...
-
-It's like you're misunderstanding something.
-I don't want trustworthy subordinates.#TriketosPartial
+It seems like you're all misunderstanding
+something so I'll clear this up for you. Whether
+it's Mormo or Empuse, I'm not looking for
+underlings I can trust.#Triketos/Ron
 > END STRING
 
 > BEGIN STRING
@@ -399,7 +394,7 @@ I don't want trustworthy subordinates.#TriketosPartial
 Everyone but me is a mere plaything.
 If I say to hunt down a human, hunt them down.
 If you can't entertain me, you're
-absolutely useless.#TriketosPartial
+absolutely useless.#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -426,10 +421,10 @@ Did I make you angry...?#Triketos
 
 魔王であるこのヘカーテ様には敵わないわよ？
 > CONTEXT: Map363/events/1/pages/0/246/Dialogue/enemy2
-Buuuut~♪ No matter how much stronger you get,
-you're still a human, after all.
+But too bad for you... ♪ No matter how much
+stronger you get, you'll only ever be a human.
 You're no match for the Demon King Hecate,
-are you?#TriketosPartial
+are you?#Triketos/Ron
 > END STRING
 
 > BEGIN STRING
@@ -438,16 +433,16 @@ are you?#TriketosPartial
 アタシ、思い通りに事が運んで、いまスゴく機嫌がいいの
 ちょっとだけ遊んであげる、\\N[1]くん♪
 > CONTEXT: Map363/events/1/pages/0/252/Dialogue/enemy2
-............ Well, okay.
-I'm going to do things the way I want,
-and I'm in a good mood right now.
-I'll just play with you, \\N[1]-kun♪#TriketosPartial
+......Well, that's fine. Everything's gone
+exactly the way I wanted, and I'm in a really
+good mood right now, so I'll play with you for
+a little while, \\N[1]-kun. ♪#Triketos/Ron
 > END STRING
 
 > BEGIN STRING
 な、なんだ………！？
 > CONTEXT: Map363/events/1/pages/0/268/Dialogue/kazuya
-Wh...What...!?#TriketosPartial
+W-What the...?!#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -455,9 +450,9 @@ Wh...What...!?#TriketosPartial
 
 これが魔王の実力ってやつかよ…！
 > CONTEXT: Map363/events/1/pages/0/272/Dialogue/other2
-She's being serious...
+T-That really spooked me...
 
-This is her true power...!#TriketosPartial
+So this is the true power of a Demon King...?!#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -465,9 +460,10 @@ This is her true power...!#TriketosPartial
 
 ここは…！？
 > CONTEXT: Map363/events/1/pages/0/276/Dialogue/kazuya
-Hecate's...!? What the hell did you do...!
+Hecate's power...?! What the hell did she do to
+us...?!
 
-T-this is...!?#TriketosPartial
+What is this place...?!#Triketos/Ron
 > END STRING
 
 > BEGIN STRING
@@ -477,9 +473,11 @@ T-this is...!?#TriketosPartial
 他の実体を持つやつらは、みんな弾き出されちまった…
 > CONTEXT: Map363/events/1/pages/0/280/Dialogue/other2
 \\C[2]...Hecate's hyperdimensional barrier...
-It's a barrier that only you can enter.\\C[0]
-
-All other entities have been forced out...#TriketosPartial
+To put it in a way that's super easy for you to
+understand, it's a barrier that only you can
+enter.\\C[0]
+All other entities possessing a form have been
+forced out...#Triketos/Ron
 > END STRING
 
 > BEGIN STRING
@@ -488,10 +486,12 @@ All other entities have been forced out...#TriketosPartial
 急にお前の気配が消えちまうもんだから焦ったぜ…
 こりゃ、念入りに何重にも障壁ががかけられてる…
 > CONTEXT: Map363/events/1/pages/0/285/Dialogue/other2
-I was a non-substantial familiar, so there 
-was no effect... Your sign suddenly disappeared,
-so I was impatient... It looks like
-there are many layers of barriers...#GT
+I'm a familiar that wasn't materialized so I
+wasn't affected... but I got really flustered
+when your presence disappeared on me. 
+
+Wow, there seem to multiple layers of barriers
+carefully placed here...#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -503,7 +503,7 @@ there are many layers of barriers...#GT
 In this situation, \\C[2]you must defeat Hecate for
 the barrier to drop.
 I think it's impossible for us to go outside,
-let alone get any help...#TriketosPartial
+let alone get any help...#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -512,10 +512,10 @@ let alone get any help...#TriketosPartial
 こんなことができるなら、何で最初からこうして
 \\N[1]だけを狙わなかったんだ…？
 > CONTEXT: Map363/events/1/pages/0/298/Dialogue/other2
-But... I don't know...
+But... I don't get it...
 
-If she could do this, why didn't she just aim
-at \\N[1] from the beginning...?#TriketosPartial
+If she could do this all along, why didn't she
+just target you like this from the start...?#Triketos/Ron
 > END STRING
 
 > BEGIN STRING
@@ -524,10 +524,10 @@ at \\N[1] from the beginning...?#TriketosPartial
 
 最初からこれで閉じ込めりゃよかったんじゃねえの…？
 > CONTEXT: Map363/events/1/pages/0/303/Dialogue/other2
-You used Mormo to prevent you from being alert
-and immediately returning?
-Wasn't it good to be locked in
-from the beginning...?#GT
+Wasn't she using Mormo so you wouldn't be alerted
+to what was going on and just leave?
+Couldn't she have just locked you in here from
+the very beginning...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -536,10 +536,10 @@ from the beginning...?#GT
 
 『あれ』を含めて、もっと重要だったんだ
 > CONTEXT: Map363/events/1/pages/0/309/Dialogue/kazuya
-...... It's not what I expected yet, but maybe
-Mormo's role is not the only one...
-
-It was more important, including that one.#GT
+....This is just speculation, but there had to be
+more to Mormo's role then we thought. Factoring
+in the presence of "that", maybe she was meant
+to accomplish something far more important.#Ron/Triketos
 > END STRING
 
 > BEGIN STRING
@@ -548,10 +548,10 @@ It was more important, including that one.#GT
 
 もう他に選択肢はなさそうだな
 > CONTEXT: Map363/events/1/pages/0/320/Dialogue/kazuya
-If my expectations were correct, it would be
-quite dangerous to meet in my current state.
+If my predictions are true, then it'll be quite
+dangerous to meet her the way I am now.
 
-Looks like there is no other choice...#GT
+But I've got no other choice.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -559,7 +559,7 @@ Looks like there is no other choice...#GT
 
 確かめる方法は、それしかない……
 > CONTEXT: Map363/events/1/pages/0/325/Dialogue/kazuya
-I'll go ahead as I want and meet Hecate...
+I'll move on ahead and meet Hecate...
 
-That's the only way to make sure...#GT
+That's the only way to make sure...#Ron
 > END STRING
