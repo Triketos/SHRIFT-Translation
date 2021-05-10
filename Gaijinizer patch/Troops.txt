@@ -13509,20 +13509,20 @@ Barghest(Chased Away)#Triketos
 > BEGIN STRING
 ワウッ！！！アウッ！！
 > CONTEXT: Troops/306/pages/1/0/Dialogue/バーゲスト
-Wau~tsu!!! Au~tsu!!#GT
+Wan!!! Awoo!!#Ron
 > END STRING
 
 > BEGIN STRING
 お、おねえちゃん…！！
 > CONTEXT: Troops/306/pages/1/2/Dialogue/kazuya-b 
-S-sister...!!#GT
+O-Onee-chan...!!#Ron
 > END STRING
 
 > BEGIN STRING
 \\N[1]は、吠えるバーゲストに怯えている…
 > CONTEXT: Troops/306/pages/1/4/Dialogue 
 > CONTEXT: Troops/307/pages/1/8/Dialogue 
-Kazuya is scared of the barking Barghests...#GT
+\\N[1] is frightened of the barking Barghest...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -13531,9 +13531,9 @@ Kazuya is scared of the barking Barghests...#GT
 おねーちゃんが追い払ってあげるからね
 > CONTEXT: Troops/306/pages/1/6/Dialogue/enemy 
 > CONTEXT: Troops/307/pages/1/10/Dialogue/enemy 
-All right, \\N[1].
+It's okay, \\N[1].
 
-Sister will chase them away...#GT
+Your onee-chan will chase her away...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -13542,15 +13542,16 @@ Sister will chase them away...#GT
 
 この子に手を出したら私が容赦しないよ？
 > CONTEXT: Troops/306/pages/1/12/Dialogue/enemy 
-Look, Barghest...
-\\N[1] is afraid, so if I go there and reach out
-to this child, I will not forgive you?#GT
+Look here, Barghest...
+You're scaring \\N[1], so you stay away. I
+won't go easy on you if you lay a paw on this
+child, got it?#Ron
 > END STRING
 
 > BEGIN STRING
 バーゲストはその場を立ち去った……
 > CONTEXT: Troops/306/pages/1/25/Dialogue 
-The Barghest left the place...#GT
+The Barghest left...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -13562,13 +13563,13 @@ Barghest(Chased Away 2)#Triketos
 > BEGIN STRING
 ガウッ！！！ガウッ！！！
 > CONTEXT: Troops/307/pages/1/0/Dialogue/バーゲスト
-Wau~tsu!!! Au~tsu!!#GT
+*bark*!!! *bark*!!#Ron
 > END STRING
 
 > BEGIN STRING
 バーゲストは、けたたましくランパスに向かって吠えている…
 > CONTEXT: Troops/307/pages/1/2/Dialogue 
-The Barghest is roaring towards Lampas...#GT
+The Barghest is loudly barking at Lampas...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -13576,9 +13577,9 @@ The Barghest is roaring towards Lampas...#GT
 
 なんであのワンちゃん、あんなに怒ってるの…！？
 > CONTEXT: Troops/307/pages/1/4/Dialogue/kazuya-b 
-S-sister...!! S-scary...!!
+O-Onee-chan...!! I'm scared...!!
 
-Why is that dog so angry...!?#GT
+Why is that doggy so mad...?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -13587,22 +13588,22 @@ Why is that dog so angry...!?#GT
 
 少しお仕置きが必要かしら…！！
 > CONTEXT: Troops/307/pages/1/14/Dialogue/enemy 
-Maybe I couldn't control my libido instinct with
-\\N[1] in front of me ...
+She probably can't control her sexual instincts
+with you right in front of her...
 
-I need a little punishment...!!#GT
+I'll have to give her a little scolding...!!#Ron
 > END STRING
 
 > BEGIN STRING
 キャウン！！！
 > CONTEXT: Troops/307/pages/1/21/Dialogue/バーゲスト 
-Kyaun!!!#GT
+Kyaun!!!#Ron
 > END STRING
 
 > BEGIN STRING
 バーゲストは逃げていった……
 > CONTEXT: Troops/307/pages/1/28/Dialogue 
-The Barghest ran away...#GT
+The Barghest ran away...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -13616,10 +13617,9 @@ Lampas (1st Round)#TriketosPartial
 
 こっちも暗いよ……
 > CONTEXT: Troops/308/pages/1/6/Dialogue/kazuya-b
-Lampas Sis... 
-come down early...
+L-Lampas onee-chan, hurry up and come down...
 
-This is also dark...#GT
+It's dark in here, too...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -13629,7 +13629,7 @@ This is also dark...#GT
 > CONTEXT: Troops/308/pages/1/11/Dialogue/kazuya-b
 ....
 
-...S-sister...?#GT
+...O-Onee-chan...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -13639,7 +13639,7 @@ This is also dark...#GT
 > CONTEXT: Troops/308/pages/1/15/Dialogue/enemy
 I'm here, \\N[1].
 
-Don't be so scared...#GT
+Don't be so scared...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -13649,7 +13649,7 @@ Don't be so scared...#GT
 > CONTEXT: Troops/308/pages/1/48/Dialogue/kazuya-b
 ...?
 
-What's wrong, Sis...?#GT
+What's wrong, onee-chan...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -13659,8 +13659,8 @@ What's wrong, Sis...?#GT
 > CONTEXT: Troops/308/pages/1/52/Dialogue/enemy
 Sorry, \\N[1].
 
-It looks like you've lost the energy
-to light the lights...#GT
+It looks like your onee-chan has lost the energy
+she needs to keep her light going...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -13669,21 +13669,20 @@ to light the lights...#GT
 \\N[1]くんの元気を、
 おねえちゃんに分けてくれる…？
 > CONTEXT: Troops/308/pages/1/56/Dialogue/enemy
-So just a little...
-
-\\N[1], will you share it with your sister...?#GT
+So can you share a little bit of your energy with
+your onee-chan...?#Ron
 > END STRING
 
 > BEGIN STRING
 わ、分ける……？
 > CONTEXT: Troops/308/pages/1/61/Dialogue/kazuya-b
-S-share...?#GT
+S-Share...?#Ron
 > END STRING
 
 > BEGIN STRING
 うわっ……！
 > CONTEXT: Troops/308/pages/1/63/Dialogue/kazuya-c
-Wahh...!#GT
+Uwaah...!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -13691,9 +13690,9 @@ Wahh...!#GT
 
 は……恥ずかしいよ………
 > CONTEXT: Troops/308/pages/1/70/Dialogue/kazuya-c
-S-Sister...
+Give those back, o-onee-chan...
 
-H-how... e-embarassing...#GT
+T-This is embarrassing...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -13702,10 +13701,10 @@ H-how... e-embarassing...#GT
 
 肩の力を抜いて……♡♡
 > CONTEXT: Troops/308/pages/1/74/Dialogue/enemy
-It's okay, \\N[1] ♪
-Even if you don't have this kind of thing,
-it will get warm soon...
-Relax your shoulders...♡♡#GT
+It's okay, \\N[1]. ♪
+
+You'll feel warm pretty soon even without those
+clothes. You just relax... ♡♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -13716,7 +13715,7 @@ Relax your shoulders...♡♡#GT
 > CONTEXT: Troops/308/pages/1/79/Dialogue/enemy
 Fufufu...
 
-\\N[1] was so cute when he was a child...♡#GT
+\\N[1] was so cute when he was a child... ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -13724,9 +13723,9 @@ Fufufu...
 
 きもち……いい………ぃ♡
 > CONTEXT: Troops/308/pages/1/102/Dialogue/kazuya-c
-Ahh...ah...♡♡
+Aaah...Uaaah... ♡♡
 
-It f-feels... good...♡#GT
+It f-feels... good... ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -13735,10 +13734,10 @@ It f-feels... good...♡#GT
 \\N[1]くんが、いっぱい気持ちよくなると
 ここからしろーいものになって飛び出してくるの♡
 > CONTEXT: Troops/308/pages/1/106/Dialogue/enemy
-The source of my "energy" ...
+This is how I get my "energy"...
 
-\\N[1], when you feel a lot...
-White stuff will come out of here... ♡#GT
+When you feel really good, lots of white stuff
+will shoot out from here... ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -13747,16 +13746,16 @@ White stuff will come out of here... ♡#GT
 こうやって優しくモミモミしてあげれば……
 だんだん、フワフワした気持ちになってくるでしょ？♡
 > CONTEXT: Troops/308/pages/1/111/Dialogue/enemy
-I'm really going to experience it
-after getting bigger...
-If you gently fir like this...
-Gradually, it feels fluffy, doesn't it? ♡#GT
+This is actually something you have a lot of
+experience with when you get bigger. When I
+gently rub you right there, your mind goes all
+fuzzy and it feels really good, right? ♡#Ron
 > END STRING
 
 > BEGIN STRING
 あ………あぁぅ………♡
 > CONTEXT: Troops/308/pages/1/116/Dialogue/kazuya-c
-Aaa...aah...♡
+Aaah... Aaah... ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -13764,9 +13763,9 @@ Aaa...aah...♡
 
 恥ずかしいけど……すごくきもちいい………
 > CONTEXT: Troops/308/pages/1/119/Dialogue
-What Lampas is doing...
+This thing Lampas onee-chan is doing...
 
-It's embarrassing but... it's really exciting...#GT
+It's embarrassing but... it feels so good...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -13775,10 +13774,10 @@ It's embarrassing but... it's really exciting...#GT
 
 なにが………なにがだめなの……？
 > CONTEXT: Troops/308/pages/1/125/Dialogue
-But... what...
-In me, I feel...
+But... there's something inside me... it feels
+like it's telling me "No!"...
 
-What... What's wrong...?#GT
+But why...? What's so bad about this...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -13786,9 +13785,9 @@ What... What's wrong...?#GT
 
 ぼくは………ぼくは……
 > CONTEXT: Troops/308/pages/1/130/Dialogue
-Important things... like forgetting...
+It's like... I'm forgetting something important.
 
-I... I...#GT
+I... I...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -13852,9 +13851,9 @@ Mormo's characteristics have changed!#Triketos
 さぁ、ボクといっしょにあそぼう！！！
 > CONTEXT: Troops/311/pages/1/8/Dialogue/enemy25
 > CONTEXT: Troops/313/pages/1/7/Dialogue/enemy25
-I found you, \\N[1].
+Found you, \\N[1]-kun.
 
-Now, come play with me!!!#TriketosPartial
+Now, come play with me!!!#Triketos
 > END STRING
 
 > BEGIN STRING

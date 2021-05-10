@@ -2,7 +2,7 @@
 > BEGIN STRING
 あれは……出口………！！？
 > CONTEXT: Map357/events/2/pages/0/52/Dialogue/kazuya-b
-That is... exit...!!?#GT
+That's... the exit...?!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -12,7 +12,7 @@ That is... exit...!!?#GT
 > CONTEXT: Map357/events/2/pages/0/74/Dialogue/kazuya-b
 Wait...!!
 
-Don't go away...!!#GT
+Don't disappear...!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -20,9 +20,9 @@ Don't go away...!!#GT
 
 ママ…！！
 > CONTEXT: Map357/events/2/pages/0/102/Dialogue/kazuya-c
-Papa...!
+Mommy...!!
 
-Mama...!!#GT
+Daddy...!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -30,9 +30,9 @@ Mama...!!#GT
 
 僕を………一人にしないで…………
 > CONTEXT: Map357/events/2/pages/0/128/Dialogue/kazuya-b
-No... don't leave it...
+No... don't leave me here...
 
-Don't leave me alone......#GT
+Don't leave me... all alone......#Ron
 > END STRING
 
 > BEGIN STRING
@@ -41,10 +41,10 @@ Don't leave me alone......#GT
 おともだちも作らないし
 もう、かってに外であそんだりしないから……
 > CONTEXT: Map357/events/2/pages/0/138/Dialogue/kazuya-b
-I'm going to be a good boy...
+I'll be good...
 
-I don't make friends,
-and I don't play outside anymore...#GT
+I won't make any friends, and I won't go outside
+to play anymore...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -54,13 +54,13 @@ and I don't play outside anymore...#GT
 > CONTEXT: Map357/events/2/pages/0/143/Dialogue/kazuya-b
 Please...
 
-Stay beside me...#GT
+Don't leave me...#Ron
 > END STRING
 
 > BEGIN STRING
 悪い子だね、\\N[1]くん
 > CONTEXT: Map357/events/2/pages/0/159/Dialogue/enemy25
-It's a bad child, \\N[1]-kun...#GT
+You've been a bad kid, huh \\N[1]-kun...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -69,9 +69,10 @@ It's a bad child, \\N[1]-kun...#GT
 
 キミが悪い子だったから、きらわれちゃったんだ
 > CONTEXT: Map357/events/2/pages/0/161/Dialogue/enemy25
-That's why my dad and mom are gone.
-The stuffed animals that were presents are
-gone, and you're a bad boy, so I was hated.#GT
+That's why your mommy and daddy went away.
+Even the stuffed animal they gave you vanished.
+
+They all hated you because you were bad.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -80,10 +81,9 @@ gone, and you're a bad boy, so I was hated.#GT
 
 パパとママにまつわる、こんな思い出があるなんて
 > CONTEXT: Map357/events/2/pages/0/169/Dialogue/enemy25
-......You're a really poor boy,
-aren't you \\N[1]-kun?
-I can't believe I have these memories
-of Daddy and Mama!#GT
+......What a sad little boy you are,
+\\N[1]-kun. To think you'd have those kinds
+of memories of your parents!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -92,10 +92,9 @@ of Daddy and Mama!#GT
 
 キミが逃げ出したとき、かなりショックだったんだよ
 > CONTEXT: Map357/events/2/pages/0/174/Dialogue/enemy25
-I really want to give you a warm thoam, but...
-
-You're a bad kid, and I was pretty shocked
-when you ran away.#GT
+I really wish I could cheer you up, but the truth
+is I also hate bad kids. You really shocked me
+when you ran away.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -104,10 +103,10 @@ when you ran away.#GT
 もうしばらくして、きみが『いい子』になったら
 むかえに来てあげるね
 > CONTEXT: Map357/events/2/pages/0/179/Dialogue/enemy25
-Bye bye, \\N[1].
+Bye bye, \\N[1]-kun.
 
-After a while, if you become a good boy,
-I'll come back.#GT
+I'll come back to see you in a little while if
+you're good.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -115,9 +114,9 @@ I'll come back.#GT
 
 ぼくは………………
 > CONTEXT: Map357/events/2/pages/0/193/Dialogue/kazuya-b
-I am... alone...
+I'm... all alone...
 
-I......#GT
+I'm......#Ron
 > END STRING
 
 > BEGIN STRING
@@ -125,7 +124,7 @@ I......#GT
 
 歩きたくないよ…………
 > CONTEXT: Map357/events/2/pages/0/200/Dialogue/kazuya-b
-...I'm tired......
+...I'm so tired...
 
-I don't want to walk...#GT
+I don't wanna walk anymore...#Ron
 > END STRING
