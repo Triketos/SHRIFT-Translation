@@ -28,46 +28,21 @@ Cheat Codesen(s[999999999])#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 デバッグモード：【警告】
-> CONTEXT: Map370/events/1/pages/0/14/ChoiceHelp
-> CONTEXT: Map370/events/1/pages/0/15/Multiline Comment
-> CONTEXT: Map370/events/1/pages/0/114/ChoiceHelp
-> CONTEXT: Map370/events/1/pages/0/115/Multiline Comment
-Debug mode:[Warning]#Triketos
-> END STRING
-
-> BEGIN STRING
 一部システムが意図的にロックされています
-> CONTEXT: Map370/events/1/pages/0/16/Multiline Comment < UNTRANSLATED
-> CONTEXT: Map370/events/1/pages/0/116/Multiline Comment < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
 介入システムに異常を検出しました
-> CONTEXT: Map370/events/1/pages/0/17/Multiline Comment < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
 管理画面で対処を行ってください
-> CONTEXT: Map370/events/1/pages/0/18/Multiline Comment < UNTRANSLATED
+> CONTEXT: Map370/events/1/pages/0/14/ChoiceHelp < UNTRANSLATED
 
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 ウイルススキャンを開始します
-> CONTEXT: Map370/events/1/pages/0/21/ChoiceHelp
-> CONTEXT: Map370/events/1/pages/0/22/Multiline Comment
-> CONTEXT: Map370/events/1/pages/0/119/ChoiceHelp
-> CONTEXT: Map370/events/1/pages/0/120/Multiline Comment
-Start Virus Scan#Triketos
-> END STRING
-
-> BEGIN STRING
 デバッカー各位は定期的に診断してください
-> CONTEXT: Map370/events/1/pages/0/23/Multiline Comment < UNTRANSLATED
-> CONTEXT: Map370/events/1/pages/0/121/Multiline Comment < UNTRANSLATED
+> CONTEXT: Map370/events/1/pages/0/21/ChoiceHelp
+> CONTEXT: Map370/events/1/pages/0/119/ChoiceHelp
 
 > END STRING
 
@@ -86,18 +61,11 @@ Start Virus Scan#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 『介入』システムに異常がある場合
-> CONTEXT: Map370/events/1/pages/0/33/ChoiceHelp < UNTRANSLATED
-> CONTEXT: Map370/events/1/pages/0/34/Multiline Comment < UNTRANSLATED
-> CONTEXT: Map370/events/1/pages/0/129/ChoiceHelp < UNTRANSLATED
-> CONTEXT: Map370/events/1/pages/0/130/Multiline Comment < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
 こちらのコマンドで原因を調査、解決してください
-> CONTEXT: Map370/events/1/pages/0/35/Multiline Comment < UNTRANSLATED
-> CONTEXT: Map370/events/1/pages/0/131/Multiline Comment < UNTRANSLATED
+> CONTEXT: Map370/events/1/pages/0/33/ChoiceHelp < UNTRANSLATED
+> CONTEXT: Map370/events/1/pages/0/129/ChoiceHelp < UNTRANSLATED
 
 > END STRING
 
@@ -112,7 +80,7 @@ Intervention ID: System\\RGSS301.dll#Triketos
 > BEGIN STRING
 【莉句?】：ID 縺雁燕繧定ｦ九※縺?ｋ縺
 > CONTEXT: Map370/events/1/pages/0/36/Choice/1
-> CONTEXT: Map370/events/1/pages/0/132/Choice/1 < UNTRANSLATED
+> CONTEXT: Map370/events/1/pages/0/132/Choice/1
 \\X[25]Intervention ID: I see you#Ron
 > END STRING
 
@@ -121,7 +89,7 @@ Intervention ID: System\\RGSS301.dll#Triketos
 ステータス：\\C[18]異常\\C[0]
 診断：外部の要因によりアクセス権が停止しています
 > CONTEXT: Map370/events/1/pages/0/38/Dialogue
-> CONTEXT: Map370/events/1/pages/0/134/Dialogue < UNTRANSLATED
+> CONTEXT: Map370/events/1/pages/0/134/Dialogue
 Access ID: System\\RGSS301.dll
 Status: \\C[18]Abnormal\\C[0]
 Diagnosis: Access rights have been suspended
@@ -142,30 +110,18 @@ Diagnosis: Invalid access.
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 各種チートコード一覧です
-> CONTEXT: Map370/events/1/pages/0/56/ChoiceHelp
-> CONTEXT: Map370/events/1/pages/0/57/Multiline Comment
-> CONTEXT: Map370/events/1/pages/0/164/ChoiceHelp
-> CONTEXT: Map370/events/1/pages/0/165/Multiline Comment
-List of Cheat Codes#Triketos
-> END STRING
-
-> BEGIN STRING
 【ユーザー[HYAKKI]によりロックされています】
-> CONTEXT: Map370/events/1/pages/0/58/Multiline Comment < UNTRANSLATED
-> CONTEXT: Map370/events/1/pages/0/65/Multiline Comment < UNTRANSLATED
-> CONTEXT: Map370/events/1/pages/0/97/Multiline Comment < UNTRANSLATED
-> CONTEXT: Map370/events/1/pages/0/166/Multiline Comment < UNTRANSLATED
-> CONTEXT: Map370/events/1/pages/0/173/Multiline Comment < UNTRANSLATED
-> CONTEXT: Map370/events/1/pages/0/178/Multiline Comment < UNTRANSLATED
-> CONTEXT: Map370/events/1/pages/0/185/Multiline Comment < UNTRANSLATED
+> CONTEXT: Map370/events/1/pages/0/56/ChoiceHelp
+> CONTEXT: Map370/events/1/pages/0/164/ChoiceHelp
 
 > END STRING
 
 > BEGIN STRING
 フラグ管理en(s[999999999])
 > CONTEXT: Map370/events/1/pages/0/61/Choice/0
-> CONTEXT: Map370/events/1/pages/0/169/Choice/0 < UNTRANSLATED
+> CONTEXT: Map370/events/1/pages/0/169/Choice/0
 Flag Managementen(s[999999999])#Triketos
 > END STRING
 
@@ -178,29 +134,24 @@ Quick Starten(s[570])#Triketos
 > BEGIN STRING
 介入同調率調整en(s[999999999])
 > CONTEXT: Map370/events/1/pages/0/61/Choice/2
-> CONTEXT: Map370/events/1/pages/0/169/Choice/2 < UNTRANSLATED
+> CONTEXT: Map370/events/1/pages/0/169/Choice/2
 Intervention Sync Rate Tuningen(s[999999999])#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 各種フラグ一覧です
+【ユーザー[HYAKKI]によりロックされています】
 > CONTEXT: Map370/events/1/pages/0/63/ChoiceHelp
-> CONTEXT: Map370/events/1/pages/0/64/Multiline Comment
 > CONTEXT: Map370/events/1/pages/0/171/ChoiceHelp
-> CONTEXT: Map370/events/1/pages/0/172/Multiline Comment
 List of System Flags#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 システム側が座標を指定した場合
-> CONTEXT: Map370/events/1/pages/0/68/ChoiceHelp < UNTRANSLATED
-> CONTEXT: Map370/events/1/pages/0/69/Multiline Comment < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
 その規定の場所よりスタートできます
-> CONTEXT: Map370/events/1/pages/0/70/Multiline Comment < UNTRANSLATED
+> CONTEXT: Map370/events/1/pages/0/68/ChoiceHelp < UNTRANSLATED
 
 > END STRING
 
@@ -217,33 +168,29 @@ List of System Flags#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 『介入』システムの干渉具合を調整します
-> CONTEXT: Map370/events/1/pages/0/93/ChoiceHelp < UNTRANSLATED
-> CONTEXT: Map370/events/1/pages/0/94/Multiline Comment < UNTRANSLATED
-> CONTEXT: Map370/events/1/pages/0/181/ChoiceHelp < UNTRANSLATED
-> CONTEXT: Map370/events/1/pages/0/182/Multiline Comment < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
 同調率を減らすと、難易度が低下しますが
-> CONTEXT: Map370/events/1/pages/0/95/Multiline Comment < UNTRANSLATED
-> CONTEXT: Map370/events/1/pages/0/183/Multiline Comment < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
 規定値以下になると『傍観者』となるので注意してください　
-> CONTEXT: Map370/events/1/pages/0/96/Multiline Comment < UNTRANSLATED
-> CONTEXT: Map370/events/1/pages/0/184/Multiline Comment < UNTRANSLATED
+【ユーザー[HYAKKI]によりロックされています】
+> CONTEXT: Map370/events/1/pages/0/93/ChoiceHelp < UNTRANSLATED
+> CONTEXT: Map370/events/1/pages/0/181/ChoiceHelp < UNTRANSLATED
 
 > END STRING
 
 > BEGIN STRING
 タイトル画面に戻る
-> CONTEXT: Map370/events/1/pages/0/100/Choice/0
-> CONTEXT: Map370/events/1/pages/0/188/Choice/0
-Return to Title Screen#Triketos
+> CONTEXT: Map370/events/1/pages/0/100/Choice/0 < UNTRANSLATED
+> CONTEXT: Map370/events/1/pages/0/188/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+デバッグモード：【警告】
+一部システムが意図的にロックされています
+> CONTEXT: Map370/events/1/pages/0/114/ChoiceHelp < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -263,8 +210,9 @@ Quick Starten(s[999999999])#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 規定の場所よりスタートできます
+【ユーザー[HYAKKI]によりロックされています】
 > CONTEXT: Map370/events/1/pages/0/176/ChoiceHelp
-> CONTEXT: Map370/events/1/pages/0/177/Multiline Comment < UNTRANSLATED
 Start From Designated Location#TriketosIffy
 > END STRING
