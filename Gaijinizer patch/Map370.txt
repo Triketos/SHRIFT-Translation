@@ -33,8 +33,11 @@ Cheat Codesen(s[999999999])#Triketos
 一部システムが意図的にロックされています
 介入システムに異常を検出しました
 管理画面で対処を行ってください
-> CONTEXT: Map370/events/1/pages/0/14/ChoiceHelp < UNTRANSLATED
-
+> CONTEXT: Map370/events/1/pages/0/14/ChoiceHelp
+Debug Mode [Caution]
+Parts of this system have been intentionally locked.
+Abnormalities were detected in the intervention system.
+Please deal with them using the available controls.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -43,7 +46,8 @@ Cheat Codesen(s[999999999])#Triketos
 デバッカー各位は定期的に診断してください
 > CONTEXT: Map370/events/1/pages/0/21/ChoiceHelp
 > CONTEXT: Map370/events/1/pages/0/119/ChoiceHelp
-
+Initiates a virus scan.
+Please periodically scan every debugger.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -64,9 +68,11 @@ Cheat Codesen(s[999999999])#Triketos
 選択肢ヘルプ
 『介入』システムに異常がある場合
 こちらのコマンドで原因を調査、解決してください
-> CONTEXT: Map370/events/1/pages/0/33/ChoiceHelp < UNTRANSLATED
-> CONTEXT: Map370/events/1/pages/0/129/ChoiceHelp < UNTRANSLATED
-
+> CONTEXT: Map370/events/1/pages/0/33/ChoiceHelp
+> CONTEXT: Map370/events/1/pages/0/129/ChoiceHelp
+In the event of abnormalities within the intervention
+system, please use this command to troubleshoot and
+resolve the issue.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -102,7 +108,7 @@ as a result of external factors.#TriketosLocalize/Ron
 診断：不正なアクセスです。
 \\C[2]『クイックスタート』にて、早急に対処してください。
 > CONTEXT: Map370/events/1/pages/0/44/Dialogue
-> CONTEXT: Map370/events/1/pages/0/140/Dialogue < UNTRANSLATED
+> CONTEXT: Map370/events/1/pages/0/140/Dialogue
 Access ID: System\\RGSS301.dll
 Status: \\C[18]Abnormal\\C[0]
 Diagnosis: Invalid access.
@@ -115,7 +121,8 @@ Diagnosis: Invalid access.
 【ユーザー[HYAKKI]によりロックされています】
 > CONTEXT: Map370/events/1/pages/0/56/ChoiceHelp
 > CONTEXT: Map370/events/1/pages/0/164/ChoiceHelp
-
+Displays a summary of various cheat commands.
+[Locked by user 'HYAKKI']#Ron
 > END STRING
 
 > BEGIN STRING
@@ -151,20 +158,21 @@ List of System Flags#Triketos
 選択肢ヘルプ
 システム側が座標を指定した場合
 その規定の場所よりスタートできます
-> CONTEXT: Map370/events/1/pages/0/68/ChoiceHelp < UNTRANSLATED
-
+> CONTEXT: Map370/events/1/pages/0/68/ChoiceHelp
+Allows you to start from a particular location should the
+system have those coordinates predesignated.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
 "[SYSTEM]\\n介入対象がロストしました"
-> CONTEXT: Map370/events/1/pages/0/73/InlineScript/1:6 < UNTRANSLATED
-"[SYSTEM]\\nThe intevention target has been lost."
+> CONTEXT: Map370/events/1/pages/0/73/InlineScript/1:6
+"[SYSTEM]\\nThe intervention target has been lost."#Triketos
 > END STRING
 
 > BEGIN STRING
 "[SYSTEM]\\n異常対処用の操作媒体を検索中…"
-> CONTEXT: Map370/events/1/pages/0/76/InlineScript/1:6 < UNTRANSLATED
-"[SYSTEM]\\nSearching for media on how to handle abnormality..."
+> CONTEXT: Map370/events/1/pages/0/76/InlineScript/1:6
+"[SYSTEM]\\nSearching for abnormality handling media..."#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -173,24 +181,28 @@ List of System Flags#Triketos
 同調率を減らすと、難易度が低下しますが
 規定値以下になると『傍観者』となるので注意してください　
 【ユーザー[HYAKKI]によりロックされています】
-> CONTEXT: Map370/events/1/pages/0/93/ChoiceHelp < UNTRANSLATED
-> CONTEXT: Map370/events/1/pages/0/181/ChoiceHelp < UNTRANSLATED
-
+> CONTEXT: Map370/events/1/pages/0/93/ChoiceHelp
+> CONTEXT: Map370/events/1/pages/0/181/ChoiceHelp
+Tunes the intervention system interference tools.
+Difficulty may be lowered by reducing alignment ratio.
+Caution: Excessive lowering may engage "Spectator Mode".
+[Locked by user 'HYAKKI']#Ron
 > END STRING
 
 > BEGIN STRING
 タイトル画面に戻る
-> CONTEXT: Map370/events/1/pages/0/100/Choice/0 < UNTRANSLATED
-> CONTEXT: Map370/events/1/pages/0/188/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Map370/events/1/pages/0/100/Choice/0
+> CONTEXT: Map370/events/1/pages/0/188/Choice/0
+Go back to the Title Screen.#Triketos
 > END STRING
 
 > BEGIN STRING
 選択肢ヘルプ
 デバッグモード：【警告】
 一部システムが意図的にロックされています
-> CONTEXT: Map370/events/1/pages/0/114/ChoiceHelp < UNTRANSLATED
-
+> CONTEXT: Map370/events/1/pages/0/114/ChoiceHelp
+Debug Mode [Caution]
+Parts of this system have been intentionally locked.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -214,5 +226,6 @@ Quick Starten(s[999999999])#Triketos
 規定の場所よりスタートできます
 【ユーザー[HYAKKI]によりロックされています】
 > CONTEXT: Map370/events/1/pages/0/176/ChoiceHelp
-Start From Designated Location#TriketosIffy
+Start From Designated Location.
+[Locked by user 'HYAKKI']#Triketos/Ron
 > END STRING
