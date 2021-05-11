@@ -342,21 +342,25 @@ Milking (???)en(v[56] \>= 100)#Ron
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 【モルモー】種族：妖魔
-> CONTEXT: Map369/events/5/pages/0/8/ChoiceHelp
+友好度：-
+> CONTEXT: Map369/events/5/pages/0/8/ChoiceHelp < UNTRANSLATED
 [Mormo] Tribe: Demon#Ron
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 条件：なし
-> CONTEXT: Map369/events/5/pages/0/15/ChoiceHelp
-> CONTEXT: Map369/events/5/pages/0/47/ChoiceHelp
+> CONTEXT: Map369/events/5/pages/0/15/ChoiceHelp < UNTRANSLATED
+> CONTEXT: Map369/events/5/pages/0/47/ChoiceHelp < UNTRANSLATED
 Requirements: None#Ron
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 条件：キズナイベント？を見る）
-> CONTEXT: Map369/events/5/pages/0/79/ChoiceHelp
+> CONTEXT: Map369/events/5/pages/0/79/ChoiceHelp < UNTRANSLATED
 Requirements: Watch Bonding (?) Event#Ron
 > END STRING
 
