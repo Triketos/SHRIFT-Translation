@@ -28,7 +28,7 @@ The most popular program in the Demon World,
 今日も明るく楽しく、盛り上がっていきましょー！
 > CONTEXT: Map369/events/7/pages/0/15/Dialogue/enemy23
 Unfortunately, we don't have any guests today,
-but there'll be so much singing and dance you
+but there'll be so much singing and dancing you
 won't even notice the difference.
 Let's have a bright, fun, and exciting show!#Ron
 > END STRING
@@ -345,22 +345,23 @@ Milking (???)en(v[56] \>= 100)#Ron
 選択肢ヘルプ
 【モルモー】種族：妖魔
 友好度：-
-> CONTEXT: Map369/events/5/pages/0/8/ChoiceHelp < UNTRANSLATED
-[Mormo] Tribe: Demon#Ron
+> CONTEXT: Map369/events/5/pages/0/8/ChoiceHelp
+[Mormo] Tribe: Demon
+Affection:-#Ron
 > END STRING
 
 > BEGIN STRING
 選択肢ヘルプ
 条件：なし
-> CONTEXT: Map369/events/5/pages/0/15/ChoiceHelp < UNTRANSLATED
-> CONTEXT: Map369/events/5/pages/0/47/ChoiceHelp < UNTRANSLATED
+> CONTEXT: Map369/events/5/pages/0/15/ChoiceHelp
+> CONTEXT: Map369/events/5/pages/0/47/ChoiceHelp
 Requirements: None#Ron
 > END STRING
 
 > BEGIN STRING
 選択肢ヘルプ
 条件：キズナイベント？を見る）
-> CONTEXT: Map369/events/5/pages/0/79/ChoiceHelp < UNTRANSLATED
+> CONTEXT: Map369/events/5/pages/0/79/ChoiceHelp
 Requirements: Watch Bonding (?) Event#Ron
 > END STRING
 
@@ -395,8 +396,11 @@ About Bugbear#Ron
 基本的なところは、エンプーサと同じなんだ。
 
 人間の夢の中で、生き血や精気をすいとる夢魔。
-> CONTEXT: Map369/events/5/pages/1/10/Dialogue/enemy24 < UNTRANSLATED
-
+> CONTEXT: Map369/events/5/pages/1/10/Dialogue/enemy24
+Me? I guess you could say that I'm fundamentally
+the same as Empuse. We're both succubi that drain
+the lifeblood or energy from humans in their
+dreams.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -404,8 +408,11 @@ About Bugbear#Ron
 僕はもっと曖昧な、\\C[2]『夢の中の夢魔』\\C[0]だってこと。
 
 夢っていう無意識の中に、元から居る悪魔……
-> CONTEXT: Map369/events/5/pages/1/15/Dialogue/enemy24 < UNTRANSLATED
-
+> CONTEXT: Map369/events/5/pages/1/15/Dialogue/enemy24
+Where we differ slightly is that I'm a succubus
+that operates in the fuzzier parts of dreams. I'm
+a demon that's from the unconscious parts of
+dreams.#CheckLater
 > END STRING
 
 > BEGIN STRING
@@ -413,8 +420,11 @@ About Bugbear#Ron
 僕が夢に『現れる』悪魔。
 
 って言えば分かりやすいかな？
-> CONTEXT: Map369/events/5/pages/1/20/Dialogue/enemy25 < UNTRANSLATED
-
+> CONTEXT: Map369/events/5/pages/1/20/Dialogue/enemy25
+To put it another way, Empuse's the kind of
+succubus that "sneaks into" your dreams, while
+I'm the kind of succubus that "appears" in your
+dreams.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -422,8 +432,10 @@ About Bugbear#Ron
 
 エンプーサとランパスが何度か言っていた
 『夢魔として優秀』ってのも、その辺が関係してるの？
-> CONTEXT: Map369/events/5/pages/1/25/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map369/events/5/pages/1/25/Dialogue/kazuya
+Huh... Is that what Empuse and Lampas meant when
+they said over and over that you're a "high-level"
+succubus?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -431,8 +443,11 @@ About Bugbear#Ron
 
 僕と対等の夢魔っていったら、本職の上位サキュバスか
 前の姿のエンプーサくらいしかいないよ
-> CONTEXT: Map369/events/5/pages/1/30/Dialogue/enemy25 < UNTRANSLATED
-
+> CONTEXT: Map369/events/5/pages/1/30/Dialogue/enemy25
+That's right, you could also say I'm highly
+specialized. The only other highly-skilled,
+high-ranked succubus like me would be Empuse when
+she was in her old form.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -440,8 +455,11 @@ About Bugbear#Ron
 僕の夢の結界なんてすぐに見破っちゃってたんだろうけど
 
 ヘカーテさまは、それも見越してたんだと思う
-> CONTEXT: Map369/events/5/pages/1/35/Dialogue/enemy25 < UNTRANSLATED
-
+> CONTEXT: Map369/events/5/pages/1/35/Dialogue/enemy25
+If she'd been in her old form back when you first
+met me, she would've seen through my barrier just
+like that. But I think Hecate-sama anticipated
+that.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -449,8 +467,14 @@ About Bugbear#Ron
 
 エンプーサほど実体化する能力を持ってないから
 人間界では活動できないし、魔界でも超非力なんだよ。
-> CONTEXT: Map369/events/5/pages/1/41/Dialogue/enemy25 < UNTRANSLATED
-
+> CONTEXT: Map369/events/5/pages/1/41/Dialogue/enemy25
+But while I've got a lot of power and influence
+inside the barriers I create in dreams, I don't
+have the ability to materialize nearly as well
+as Empuse.
+For that reason I can't really operate in the
+human realm, and I'm pretty powerless even in
+the Demon Realm.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -458,8 +482,9 @@ About Bugbear#Ron
 
 バーゲストとかエンプーサのノリで腕を振ったら
 めちゃくちゃ尻餅つくんだもの……
-> CONTEXT: Map369/events/5/pages/1/47/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map369/events/5/pages/1/47/Dialogue/kazuya
+Yeah, that surprised me when I shook my arm a
+bit and you totally fell on your ass.#RonLocalizationCheckLater
 > END STRING
 
 > BEGIN STRING
@@ -467,8 +492,11 @@ About Bugbear#Ron
 
 僕も\\N[1]くんが目の前にいたことに興奮しすぎて
 けっこう無茶な体勢で引き止めてたのもあるけど……
-> CONTEXT: Map369/events/5/pages/1/52/Dialogue/enemy25 < UNTRANSLATED
-
+> CONTEXT: Map369/events/5/pages/1/52/Dialogue/enemy25
+That really hurt. Though to be fair, I did get a
+little too carried away trying to stop you from
+leaving. I was holding onto you pretty recklessly,
+too.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -476,24 +504,33 @@ About Bugbear#Ron
 こんな僕よりエンプーサを重用するようになったんだ…
 
 僕は自然と、自宅待機みたいな扱いが続いたんだよね
-> CONTEXT: Map369/events/5/pages/1/57/Dialogue/enemy25 < UNTRANSLATED
-
+> CONTEXT: Map369/events/5/pages/1/57/Dialogue/enemy25
+Lately Hecate-sama had started going to the human
+realm a lot, so Empuse was getting all the
+attention. I naturally ended up being treated
+like some kind of furloughed worker.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
 んであまりに暇だから、なにか趣味を見つけようと思って
 
 普段あんまり見ない魔界TV付けてたら……
-> CONTEXT: Map369/events/5/pages/1/62/Dialogue/enemy25 < UNTRANSLATED
-
+> CONTEXT: Map369/events/5/pages/1/62/Dialogue/enemy25
+And so, since I had a bunch of free time on my
+hands, I thought I'd find a hobby to keep me
+occupied. That's when I watched Demon Realm TV
+for the first time in a while.#Ron
 > END STRING
 
 > BEGIN STRING
 あ、分かった……
 
 ………その時に、ニーナの番組にどハマりした…？
-> CONTEXT: Map369/events/5/pages/1/67/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map369/events/5/pages/1/67/Dialogue/kazuya
+Ah, I see...
 
+So that's when you started getting really into
+Nina's TV show?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -501,8 +538,11 @@ About Bugbear#Ron
 人間界に縁の無い僕にとって、まさに夢のような番組！
 
 画面越しに、生身の人間が屈していく様子が生中継！
-> CONTEXT: Map369/events/5/pages/1/72/Dialogue/enemy24 < UNTRANSLATED
-
+> CONTEXT: Map369/events/5/pages/1/72/Dialogue/enemy24
+That's right!! For someone like me with no
+connection to the human realm, it was like my
+dream show! On the screen I was seeing real humans
+in the flesh being made to submit live on TV!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -510,8 +550,11 @@ About Bugbear#Ron
 
 ヘカーテ様みたいに、身体だけ幼女の悪魔は多いけど
 あそこまで自然で無垢な笑顔はなかなかできないよ！！
-> CONTEXT: Map369/events/5/pages/1/77/Dialogue/enemy24 < UNTRANSLATED
-
+> CONTEXT: Map369/events/5/pages/1/77/Dialogue/enemy24
+And not to mention, Nina-chan's super cute! There
+are lots of demons out there like Hecate-sama with
+the body of a young girl, but there aren't many
+with such natural, pure smiles as Nina-chan.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -519,8 +562,11 @@ About Bugbear#Ron
 どのジャンルでも、大抵ぞんざいに扱われるんだけど
 ニーナちゃんは、搾り殺す最期までちゃんと相手をするし
 実況もうるさくない程度に絶妙なタイミングで入れるし\\.\\^
-> CONTEXT: Map369/events/5/pages/1/82/Dialogue/enemy24 < UNTRANSLATED
-
+> CONTEXT: Map369/events/5/pages/1/82/Dialogue/enemy24
+Unlike most other programs about humans, Nina-chan
+treats her human guests well and with dignity
+until the end. Her timing with scene transitions
+is also nothing less than exquisite.\\.\\^#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -528,8 +574,11 @@ About Bugbear#Ron
 操ってるってちゃんと知った上で感心する動きなんだよ？
 大体僕たち悪魔が使役する『使い魔』ってのは独立型で
 自分の意志とは関係なく動くから、思考は単調にしがちで\\.\\^
-> CONTEXT: Map369/events/5/pages/1/87/Dialogue/enemy24 < UNTRANSLATED
-
+> CONTEXT: Map369/events/5/pages/1/87/Dialogue/enemy24
+And let's not forget about her backup dancers. The
+way she controls them really wows the audience.
+Especially when you factor in how "familiars"
+normally act independently of us demons.\\.\\^#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -537,16 +586,21 @@ About Bugbear#Ron
 ダンスと料理と読書を同時にやってるようなもんで、
 少しでも雑念が入るとどれかが疎かになったりするし
 搾精に至っては常に相手を感じさせないと成立しないわけで\\.\\^
-> CONTEXT: Map369/events/5/pages/1/92/Dialogue/enemy24 < UNTRANSLATED
-
+> CONTEXT: Map369/events/5/pages/1/92/Dialogue/enemy24
+It's actually quite difficult to make linked
+familiars dance like that, and even the slightest
+distraction on the demon's part can cause the
+whole thing to fall apart.\\.\\^#RonLocalization
 > END STRING
 
 > BEGIN STRING
 \\{待った！モルモー！！
 途中から早口すぎて、
 なに言ってるか聞き取れない！
-> CONTEXT: Map369/events/5/pages/1/98/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map369/events/5/pages/1/98/Dialogue/kazuya
+\\{Alright, I get it!!
+You're talking so fast I can't
+keep up!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -554,16 +608,21 @@ About Bugbear#Ron
 
 ニーナちゃんについて話す機会なんて滅多にないから
 つい溜まってた分の『語りたい欲』が……
-> CONTEXT: Map369/events/5/pages/1/103/Dialogue/enemy24 < UNTRANSLATED
-
+> CONTEXT: Map369/events/5/pages/1/103/Dialogue/enemy24
+Ah, sorry. It's so rare that I get the chance
+to talk about Nina-chan that I ended up blurting
+out all the things I wanted to say.#Ron
 > END STRING
 
 > BEGIN STRING
 ……………ま、まぁとにかく
 
 すごくハマってることだけは分かったよ……
-> CONTEXT: Map369/events/5/pages/1/108/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map369/events/5/pages/1/108/Dialogue/kazuya
+A-Anyway...
 
+At the very least, I know just how crazy about
+Nina-chan you are now.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -571,8 +630,13 @@ About Bugbear#Ron
 
 ただでさえ、存在感が日に日に消えかかってた僕は
 周りからドン引きされて、更に距離を置かれたんだ。
-> CONTEXT: Map369/events/5/pages/1/113/Dialogue/enemy24 < UNTRANSLATED
+> CONTEXT: Map369/events/5/pages/1/113/Dialogue/enemy24
+W-Well, it's with that in mind that I got
+obsessed with idols, which got me shunned by
+everyone around me.
 
+My presence was already vanishing day by day, and
+now they were distancing themselves even more.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -580,16 +644,22 @@ About Bugbear#Ron
 外出禁止になったこともあったし……
 
 我ながらいつ消されてもおかしくない状況だったね。
-> CONTEXT: Map369/events/5/pages/1/118/Dialogue/enemy24 < UNTRANSLATED
-
+> CONTEXT: Map369/events/5/pages/1/118/Dialogue/enemy24
+On top of that, Hecate-sama banned me from going
+outside after she found out I was buying
+collectibles. In that state it wouldn't have been
+surprising if I'd disappeared altogether.#Ron
 > END STRING
 
 > BEGIN STRING
 そんな中での、ヘカーテさまからの名誉挽回の提案…
 
 今考えると、話がウマすぎたよね、ホント…
-> CONTEXT: Map369/events/5/pages/1/123/Dialogue/enemy26 < UNTRANSLATED
-
+> CONTEXT: Map369/events/5/pages/1/123/Dialogue/enemy26
+It was when all of that was happening, that
+Hecate-sama proposed a way to redeem myself.
+Thinking back on it now, it really was too good
+to be true.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -597,8 +667,10 @@ About Bugbear#Ron
 
 ホンモノの\\N[1]くんを呼んで
 念願の逆レ番組をできたのは、ヘカーテさまのおかげかな
-> CONTEXT: Map369/events/5/pages/1/130/Dialogue/enemy25 < UNTRANSLATED
-
+> CONTEXT: Map369/events/5/pages/1/130/Dialogue/enemy25
+But though it was all just a dream, she really
+did summon you, and she really did give me the
+chance to do my very own reverse rape show.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -606,8 +678,10 @@ About Bugbear#Ron
 
 それでも、こっちもドキドキしたあの感情って
 まぎれもない『ホンモノ』だったなって…
-> CONTEXT: Map369/events/5/pages/1/135/Dialogue/enemy25 < UNTRANSLATED
-
+> CONTEXT: Map369/events/5/pages/1/135/Dialogue/enemy25
+The whole thing just for appearance's sake
+because of the way I was, but the thrill and
+excitement I felt was absolutely the real thing.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -615,30 +689,36 @@ About Bugbear#Ron
 また気が向いたら、僕に精気か血を吸わせてよ♡
 
 気持ちよーくチュウチュウして『夢』を見せてあげるから♡
-> CONTEXT: Map369/events/5/pages/1/140/Dialogue/enemy25 < UNTRANSLATED
-
+> CONTEXT: Map369/events/5/pages/1/140/Dialogue/enemy25
+I can't show you my old dream powers anymore, but
+come get your blood or energy sucked if you ever
+feel in the mood. ♡ I'll show you a dream-like
+ecstasy like never before as I drain you. ♡#RonLocalization
 > END STRING
 
 > BEGIN STRING
 キミが番組に僕を出演させたかったのって
 
 やっぱり、ニーナに憧れてるから？
-> CONTEXT: Map369/events/5/pages/1/150/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map369/events/5/pages/1/150/Dialogue/kazuya
+So, was the reason that you wanted me on your
+show because of how much you admired Nina?#Ron
 > END STRING
 
 > BEGIN STRING
 うーん…………
 
 その話題に入る前に、\\N[1]くんに一言
-> CONTEXT: Map369/events/5/pages/1/155/Dialogue/enemy24 < UNTRANSLATED
-
+> CONTEXT: Map369/events/5/pages/1/155/Dialogue/enemy24
+Hmmm, there's something I'd like to say to you
+before we start on that topic.#Ron
 > END STRING
 
 > BEGIN STRING
 \\{\\{"ちゃん"をつけろよ乳首野郎！！
-> CONTEXT: Map369/events/5/pages/1/159/Dialogue/enemy27 < UNTRANSLATED
-
+> CONTEXT: Map369/events/5/pages/1/159/Dialogue/enemy27
+\\{\\{Use "chan" after her name you
+damned nipple-crazed bastard!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -646,16 +726,21 @@ About Bugbear#Ron
 
 キミとニーナちゃんが『そういう関係』だってのは
 分かってるからあえて言わない。
-> CONTEXT: Map369/events/5/pages/1/161/Dialogue/enemy24 < UNTRANSLATED
+> CONTEXT: Map369/events/5/pages/1/161/Dialogue/enemy24
+Is what I'd like to say...
 
+But I know you and Nina-chan have "that kind" of
+relationship going on, so I won't say it.#Ron
 > END STRING
 
 > BEGIN STRING
 言ってるじゃん………
 
 乳首野郎ってオイ…
-> CONTEXT: Map369/events/5/pages/1/166/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map369/events/5/pages/1/166/Dialogue/kazuya
+Didn't you just say it?
 
+Also, "nipple-crazed bastard"?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -663,8 +748,11 @@ About Bugbear#Ron
 
 だからああやって、大舞台で明るく喋れるのが羨ましくって…
 いつか、ああいう司会をやってみたいって思ったんだ。
-> CONTEXT: Map369/events/5/pages/1/171/Dialogue/enemy26 < UNTRANSLATED
-
+> CONTEXT: Map369/events/5/pages/1/171/Dialogue/enemy26
+As you know, I've got a pretty bashful
+personality. I was jealous that she could go up
+on the big stage all bright and bubbly. I wanted
+to host a show of my own one day.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -672,8 +760,11 @@ About Bugbear#Ron
 僕はきっと、『アイドル』になりたかったわけじゃない。
 
 『ニーナちゃん』になりたかったんだと思う……
-> CONTEXT: Map369/events/5/pages/1/176/Dialogue/enemy26 < UNTRANSLATED
+> CONTEXT: Map369/events/5/pages/1/176/Dialogue/enemy26
+But... thinking about it now...
 
+It's not that I wanted to become an idol like her,
+I think I actually just wanted to be her.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -681,8 +772,11 @@ About Bugbear#Ron
 あんなに笑顔で、明るく振る舞って…『ホンモノ』を見せる
 
 まさしく、僕が求める『理想の姿』だったから…
-> CONTEXT: Map369/events/5/pages/1/181/Dialogue/enemy26 < UNTRANSLATED
-
+> CONTEXT: Map369/events/5/pages/1/181/Dialogue/enemy26
+Facing the cameras, knowing I'm being watched by
+huge numbers of people, yet still bright and with
+a huge smile on my face, showing them all the real
+me. That was the "ideal" I was chasing.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -690,16 +784,21 @@ About Bugbear#Ron
 カメラを意識した、番組を進行するような感じで
 
 毎日毎日、バーゲストと一緒に特訓してたんだ！
-> CONTEXT: Map369/events/5/pages/1/186/Dialogue/enemy25 < UNTRANSLATED
-
+> CONTEXT: Map369/events/5/pages/1/186/Dialogue/enemy25
+That's why I had that Barghest help me train
+day after day to build the confidence to be
+conscious of the camera and properly progress
+a show like Nina-chan.#Ron
 > END STRING
 
 > BEGIN STRING
 ただまぁ、しょせんはテレビの真似事だからね……
 
 番組の冒頭説明くらいしか、まだできなかったけど…
-> CONTEXT: Map369/events/5/pages/1/191/Dialogue/enemy25 < UNTRANSLATED
-
+> CONTEXT: Map369/events/5/pages/1/191/Dialogue/enemy25
+But all that practice was never anything more
+than make-believe. And I couldn't do anything
+more than pretend to do a show's opening spiel.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -707,16 +806,19 @@ About Bugbear#Ron
 
 だから、番組の始まった冒頭以外は
 全然カメラを意識してない素振りだったのか………
-> CONTEXT: Map369/events/5/pages/1/195/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map369/events/5/pages/1/195/Dialogue/kazuya
+Aaah, is that why apart from your opening bit,
+you didn't seem to have any awareness of the
+camera at all?#Ron
 > END STRING
 
 > BEGIN STRING
 それじゃあ、僕をあの場所に呼んだのも
 
 最初から『特訓』の一環だったの？
-> CONTEXT: Map369/events/5/pages/1/200/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map369/events/5/pages/1/200/Dialogue/kazuya
+And when we first met after I was summoned, was
+that your training I saw?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -724,8 +826,11 @@ About Bugbear#Ron
 もうちょっと自信をつけた後がよかったんだけどね…
 
 あれは実際、ヘカーテ様がキミを呼んだわけだから……
-> CONTEXT: Map369/events/5/pages/1/204/Dialogue/enemy24 < UNTRANSLATED
-
+> CONTEXT: Map369/events/5/pages/1/204/Dialogue/enemy24
+Mmmm, I would've liked to have built a little
+more confidence before you came along. You see,
+it was actually Hecate-sama who summoned you, not
+me.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -733,8 +838,11 @@ About Bugbear#Ron
 あんなに突然呼ばれるなんて思ってなかったんだよ……
 
 だからあの時も、悠長にリハーサルやってたんだよね……
-> CONTEXT: Map369/events/5/pages/1/209/Dialogue/enemy24 < UNTRANSLATED
-
+> CONTEXT: Map369/events/5/pages/1/209/Dialogue/enemy24
+And also, though I'd been told about the plan,
+I didn't think you'd be summoned so quickly.
+Otherwise I wouldn't have been rehearsing so
+leisurely.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -742,8 +850,11 @@ About Bugbear#Ron
 リハーサルに付き合ってもらうだけ、ともいかないじゃん？
 
 そんなわけで、とっさにああいう口実にしたの。
-> CONTEXT: Map369/events/5/pages/1/214/Dialogue/enemy24 < UNTRANSLATED
-
+> CONTEXT: Map369/events/5/pages/1/214/Dialogue/enemy24
+And since the real deal himself had come all the
+way to see me, there was no way I could make him
+do the rehearsals with me. That's why I made up
+that excuse on the spur of the moment.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -751,8 +862,11 @@ About Bugbear#Ron
 本物の\\N[1]くん見てたら…だんだんムラムラして…
 
 ついつい勝負そっちのけで………
-> CONTEXT: Map369/events/5/pages/1/219/Dialogue/enemy26 < UNTRANSLATED
-
+> CONTEXT: Map369/events/5/pages/1/219/Dialogue/enemy26
+At first I only planned on dancing with you, but
+seeing you in person got me more and more turned
+on, and I ended up forgetting about the dance
+match entirely.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -760,8 +874,11 @@ About Bugbear#Ron
 
 僕も、あの進行の『不自然さ』のおかげで
 『夢の中』って気付けたんだよね　
-> CONTEXT: Map369/events/5/pages/1/224/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map369/events/5/pages/1/224/Dialogue/kazuya
+It was maybe because of how pushy you got
+half-way through the dancing that I started to
+pick up on how unnatural everything was, and began
+noticing I was in a dream.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -769,8 +886,11 @@ About Bugbear#Ron
 だんぜん段違いで美味しそうだったんたもん……！
 
 やっぱり実物はちがうなって……
-> CONTEXT: Map369/events/5/pages/1/230/Dialogue/enemy25 < UNTRANSLATED
-
+> CONTEXT: Map369/events/5/pages/1/230/Dialogue/enemy25
+B-But you have to understand, you looked so much
+more delicious in person than on the screen!
+Having the real thing in front of you is way
+different...#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -778,8 +898,11 @@ About Bugbear#Ron
 
 多分あのままリハに付き合ってもらう感じだったら
 絶対にうまく喋れなかったよ…！
-> CONTEXT: Map369/events/5/pages/1/235/Dialogue/enemy25 < UNTRANSLATED
-
+> CONTEXT: Map369/events/5/pages/1/235/Dialogue/enemy25
+I had so much more confidence because we were in
+a dream, but if I'd asked you to come and do the
+rehearsal with me like that, I wouldn't have been
+able to talk properly.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -787,8 +910,11 @@ About Bugbear#Ron
 モルモーはニーナに会いに行かないの？
 
 マイルーム内を少し歩けば会いに行けると思うんだけど…
-> CONTEXT: Map369/events/5/pages/1/241/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map369/events/5/pages/1/241/Dialogue/kazuya
+Speaking of the "real thing"...
 
+Would you like to go meet Nina? She's just a
+short walk down some doors from here.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -796,8 +922,11 @@ About Bugbear#Ron
 
 僕、未だに映像のニーナちゃん見るのも呼吸困難なのに
 本物になんか会ったらどんな失礼をしちゃうか……！！
-> CONTEXT: Map369/events/5/pages/1/247/Dialogue/enemy25 < UNTRANSLATED
-
+> CONTEXT: Map369/events/5/pages/1/247/Dialogue/enemy25
+T-T-T-T-T-That'd be unthinkable!!!
+I still can't even control my breathing properly
+when I see her on the screen, who knows what
+crazy thing I'd do if I actually met her!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -805,22 +934,27 @@ About Bugbear#Ron
 動揺のあまり、毎回頬っぺたムニムニしちゃうし……
 
 僕の『失礼な行動』って、無意識が多いからさ……
-> CONTEXT: Map369/events/5/pages/1/252/Dialogue/enemy25 < UNTRANSLATED
-
+> CONTEXT: Map369/events/5/pages/1/252/Dialogue/enemy25
+I've ended up trembling and squeezing your face
+whenever I've met you. I'm sure I'd do all sorts
+of rude things to Nina-chan without even
+realizing it.#Ron
 > END STRING
 
 > BEGIN STRING
 …………さっきの『乳首野郎』とかも？
-> CONTEXT: Map369/events/5/pages/1/257/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map369/events/5/pages/1/257/Dialogue/kazuya
+Like when you called me a "nipple-crazed bastard"?#Ron
 > END STRING
 
 > BEGIN STRING
 ？？
 
 それは事実じゃないの？
-> CONTEXT: Map369/events/5/pages/1/260/Dialogue/enemy24 < UNTRANSLATED
+> CONTEXT: Map369/events/5/pages/1/260/Dialogue/enemy24
+...??
 
+Isn't that true, though?#Ron
 > END STRING
 
 > BEGIN STRING
