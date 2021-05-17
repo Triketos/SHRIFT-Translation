@@ -30,6 +30,7 @@ Loss Scenes en(s[14])#Dargoth
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 最初から本編を始めます。
 > CONTEXT: Map002/events/1/pages/0/108/ChoiceHelp
 Start the main story from the beginning.#Triketos
@@ -195,6 +196,7 @@ Maybe not...#Ron
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 ゲーム中にセーブした場所から始めます。
 > CONTEXT: Map002/events/1/pages/0/267/ChoiceHelp
 Continue from the place you last saved.#Triketos
@@ -231,7 +233,10 @@ Delete file mode (opens load screen)#Dargoth
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 選択したセーブデータの状態から
+好きなチャプターを選んで開始します。
+選べるのは、プレイ済みのチャプター＆進行中のチャプターのみです
 > CONTEXT: Map002/events/1/pages/0/295/ChoiceHelp
 From save data#Triketos
 > END STRING
@@ -243,7 +248,9 @@ Please choose a save to load from#Dargoth
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 一度見た搾精シーンを見ることが出来ます。（免罪符無効）
+閲覧後はタイトルに戻ります。
 > CONTEXT: Map002/events/1/pages/0/309/ChoiceHelp
 You can see the loss scenes you have already
 seen before. (Hell's Indulgence is unavailable)#Triketos
@@ -256,7 +263,9 @@ Youtube Links en(s[22])#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 プレイヤーがYoutubeに投稿した二次創作や実況プレイの動画です。
+項目を選択すると、Youtubeのページへ飛びます
 > CONTEXT: Map002/events/1/pages/0/317/ChoiceHelp
 Videos of the secondary creations and
 playthroughs that players have posted to Youtube.#Triketos
@@ -275,12 +284,15 @@ Gallery [Official] en(s[22])#Dargoth
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 プレイヤーの方が執筆した、『SHRIFT』関連の小説を紹介しています。
+\\C[2]（各作品を選択すると、記載されている外部サイトへ飛びます）
 > CONTEXT: Map002/events/1/pages/0/327/ChoiceHelp
 Introduces 'SHRIFT' related novels written by players.#MTLed
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 ゲームで登場した人物の立ち絵や一枚絵などが閲覧できます。
 > CONTEXT: Map002/events/1/pages/0/335/ChoiceHelp
 You can browse the full images and concept art of
@@ -312,19 +324,24 @@ Return to Title#Dargoth
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 プレイヤーの方により贈られたイラストを掲載しています。
+二次創作のイラストや小説等は随時募集中です。
 > CONTEXT: Map002/events/1/pages/0/344/ChoiceHelp
 Here are images and art given to me by players.#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 ゲーム中で流れる音楽が鑑賞できます。
 > CONTEXT: Map002/events/1/pages/0/352/ChoiceHelp
 You can listen to the music played in the game.#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 ゲームを楽しんでくれた人に対してのおまけです。
+全てのチャプターをクリアした後に追加されていきます。
 > CONTEXT: Map002/events/1/pages/0/359/ChoiceHelp
 Special bonuses for those who enjoyed the game.#Triketos
 > END STRING
@@ -342,7 +359,11 @@ Extra Stories#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 ゲームクリアすると、自動的に始まる２周目要素を無効化して
+１周目と同じ条件で最初からスタートします。
+\\C[2]このスイッチを有効にしても、ゲームを再起動すれば
+再度スイッチは無効化されます。
 > CONTEXT: Map002/events/1/pages/0/364/ChoiceHelp
 Once you've cleared the game, you can turn off
 the bonuses you automatically get during your
@@ -375,7 +396,9 @@ Cancel#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 本編中でキズナになった悪魔達のサイドストーリーです。
+搾精シーンは基本的になく、本編を補完する小ネタが主です。
 > CONTEXT: Map002/events/1/pages/0/384/ChoiceHelp
 Side stories of demons who you have bonded
 with in the main story.#Triketos
@@ -415,6 +438,7 @@ with in the main story.#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 条件：バーゲストがキズナ状態
 > CONTEXT: Map002/events/1/pages/0/408/ChoiceHelp < UNTRANSLATED
 
@@ -456,6 +480,7 @@ with in the main story.#Triketos
 > CONTEXT: Map075/events/4/pages/1/669/Dialogue
 > CONTEXT: Map075/events/4/pages/1/729/Dialogue
 > CONTEXT: Map075/events/4/pages/1/774/Dialogue
+> CONTEXT: Map075/events/4/pages/1/819/Dialogue
 > CONTEXT: Map075/events/4/pages/2/27/Dialogue
 > CONTEXT: Map075/events/4/pages/2/86/Dialogue
 > CONTEXT: Map075/events/4/pages/2/129/Dialogue
@@ -472,6 +497,7 @@ with in the main story.#Triketos
 > CONTEXT: Map075/events/4/pages/2/667/Dialogue
 > CONTEXT: Map075/events/4/pages/2/727/Dialogue
 > CONTEXT: Map075/events/4/pages/2/772/Dialogue
+> CONTEXT: Map075/events/4/pages/2/817/Dialogue
 > CONTEXT: Map094/events/1/pages/0/103/Dialogue
 > CONTEXT: Map094/events/4/pages/1/27/Dialogue
 > CONTEXT: Map094/events/4/pages/1/87/Dialogue
@@ -486,6 +512,7 @@ Separate the subject's spirit.#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 条件：アイアンメイデンがキズナ状態
 > CONTEXT: Map002/events/1/pages/0/450/ChoiceHelp < UNTRANSLATED
 
@@ -501,6 +528,7 @@ Separate the subject's spirit.#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 条件：ランパスがキズナ状態
 > CONTEXT: Map002/events/1/pages/0/492/ChoiceHelp < UNTRANSLATED
 
@@ -516,6 +544,7 @@ Separate the subject's spirit.#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 条件：エンプーサがキズナ状態
 > CONTEXT: Map002/events/1/pages/0/534/ChoiceHelp < UNTRANSLATED
 
@@ -552,6 +581,7 @@ Separate the subject's spirit.#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 条件：ニーナがキズナ状態
 > CONTEXT: Map002/events/1/pages/0/584/ChoiceHelp < UNTRANSLATED
 
@@ -573,6 +603,7 @@ Separate the subject's spirit.#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 条件：スフィンクスがキズナ状態
 > CONTEXT: Map002/events/1/pages/0/630/ChoiceHelp < UNTRANSLATED
 
@@ -597,6 +628,7 @@ Return#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 タイトル画面に戻ります。
 > CONTEXT: Map002/events/1/pages/0/696/ChoiceHelp
 > CONTEXT: Map370/events/1/pages/0/102/ChoiceHelp
@@ -611,7 +643,11 @@ Go back to the Title Screen.#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 『もんむす・くえすと！ぱらどっくす』内でのコラボシナリオ
+『夜の国と七つの世界の勇者たち』のSHRIFT側の前日譚です。
+真慈悲エンディングを迎えたカズヤ君の営む事務所に、
+怪しい依頼を携えた怪しい悪魔が舞い込む……
 > CONTEXT: Map002/events/1/pages/0/704/ChoiceHelp < UNTRANSLATED
 
 > END STRING
@@ -645,7 +681,7 @@ Iron Maiden#Dargoth
 
 > BEGIN STRING
 エンプーサ if(s[112])
-> CONTEXT: Map002/events/1/pages/0/752/Choice/3
+> CONTEXT: Map002/events/1/pages/0/753/Choice/3
 Empuse#Dargoth
 > END STRING
 
@@ -755,6 +791,7 @@ Gangbang en(s[104])#Dargoth
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\V[110]
 > CONTEXT: Map002/events/1/pages/0/786/ChoiceHelp 
 > CONTEXT: Map002/events/1/pages/0/870/ChoiceHelp 
@@ -798,6 +835,7 @@ Do you want to view this scene?#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\V[111]
 > CONTEXT: Map002/events/1/pages/0/802/ChoiceHelp < UNTRANSLATED
 > CONTEXT: Map002/events/1/pages/0/886/ChoiceHelp < UNTRANSLATED
@@ -835,6 +873,7 @@ Do you want to view this scene?#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\V[112]
 > CONTEXT: Map002/events/1/pages/0/818/ChoiceHelp < UNTRANSLATED
 > CONTEXT: Map002/events/1/pages/0/902/ChoiceHelp < UNTRANSLATED
@@ -1493,6 +1532,7 @@ Enlargement if(s[686])#Ron
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 【解放済み】
 > CONTEXT: Map002/events/1/pages/0/1610/ChoiceHelp
 [Unlocked]#Ron
@@ -2367,6 +2407,7 @@ Do you want to watch this scene?#Ron
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[del]
 > CONTEXT: Map002/events/1/pages/1/9/ChoiceHelp
 \\\>\\r[del]#Triketos
@@ -2379,6 +2420,7 @@ Meira if(s[22])#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[106]作者：ていていあてとら様
 > CONTEXT: Map002/events/1/pages/1/16/ChoiceHelp
 \\\>\\r[106]Created by: ていていあてとら様#Triketos
@@ -2407,72 +2449,84 @@ Barghest if(s[22])#Dargoth
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[0]作者：P.T.O
 > CONTEXT: Map002/events/1/pages/1/26/ChoiceHelp
 \\\>\\r[0]Created by: P.T.O#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[7]作者：P.T.O
 > CONTEXT: Map002/events/1/pages/1/34/ChoiceHelp
 \\\>\\r[7]Created by: P.T.O#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[9]作者：苺大福
 > CONTEXT: Map002/events/1/pages/1/42/ChoiceHelp
 \\\>\\r[9]Created by: 苺大福#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[33]作者：P.T.O
 > CONTEXT: Map002/events/1/pages/1/52/ChoiceHelp
 \\\>\\r[33]Created by: P.T.O#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[76]作者：P.T.O
 > CONTEXT: Map002/events/1/pages/1/62/ChoiceHelp
 \\\>\\r[76]Created by: P.T.O#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[85]作者：P.T.O
 > CONTEXT: Map002/events/1/pages/1/72/ChoiceHelp
 \\\>\\r[85]Created by: P.T.O#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[51]作者：苺大福
 > CONTEXT: Map002/events/1/pages/1/82/ChoiceHelp
 \\\>\\r[51]Created by: 苺大福#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[18]作者：謎の【空洞練物】T
 > CONTEXT: Map002/events/1/pages/1/92/ChoiceHelp
 \\\>\\r[18]Created by:謎の【空洞練物】T#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[38]作者：カスガイ様
 > CONTEXT: Map002/events/1/pages/1/102/ChoiceHelp
 \\\>\\r[38]Created by: カスガイ様#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[11]作者：謎の【空洞練物】T
 > CONTEXT: Map002/events/1/pages/1/112/ChoiceHelp
 \\\>\\r[11]Created by: 謎の【空洞練物】T#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[12]作者：Lasso様
 > CONTEXT: Map002/events/1/pages/1/120/ChoiceHelp
 \\\>\\r[12]Created by: Lasso#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[70]作者：アザレア様
 > CONTEXT: Map002/events/1/pages/1/130/ChoiceHelp
 \\\>\\r[70]Created by: アザレア様#Triketos
@@ -2487,6 +2541,7 @@ Barghest if(s[22])#Dargoth
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\r[del]\\\>
 > CONTEXT: Map002/events/1/pages/1/140/ChoiceHelp
 \\r[del]\\\>#Triketos
@@ -2513,84 +2568,99 @@ Lampas if(s[23])#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[1]作者：苺大福
 > CONTEXT: Map002/events/1/pages/1/147/ChoiceHelp
 \\\>\\r[1]Created by: 苺大福#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[2]作者：苺大福
 > CONTEXT: Map002/events/1/pages/1/155/ChoiceHelp
 \\\>\\r[2]Created by: 苺大福#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[3]作者：P.T.O
 > CONTEXT: Map002/events/1/pages/1/163/ChoiceHelp
 \\\>\\r[3]Created by: P.T.O#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[8]作者：謎の【空洞練物】T
 > CONTEXT: Map002/events/1/pages/1/171/ChoiceHelp
 \\\>\\r[8]Created by: 作者：謎の【空洞練物】T#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[10]作者：カスガイ様
 > CONTEXT: Map002/events/1/pages/1/181/ChoiceHelp
 \\\>\\r[10]Created by: カスガイ様#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[16]作者：剥製チーズ様
 > CONTEXT: Map002/events/1/pages/1/191/ChoiceHelp
 \\\>\\r[16]Created by: 剥製チーズ様#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[15]作者：美彩様
 > CONTEXT: Map002/events/1/pages/1/201/ChoiceHelp
 \\\>\\r[15]Created by: 美彩様#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[17]作者：謎の【空洞練物】T様
 > CONTEXT: Map002/events/1/pages/1/211/ChoiceHelp
 \\\>\\r[17]Created by: 謎の【空洞練物】T様#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[29]作者：三池
 > CONTEXT: Map002/events/1/pages/1/221/ChoiceHelp
 \\\>\\r[29]Created by: 三池#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[39]作者：カスガイ様
 > CONTEXT: Map002/events/1/pages/1/231/ChoiceHelp
 \\\>\\r[39]Created by: カスガイ様#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[48]作者：カスガイ様
+備考：オチの2枚目有り
 > CONTEXT: Map002/events/1/pages/1/241/ChoiceHelp
-\\\>\\r[48]Created by: カスガイ様#Triketos
+
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[123]作者：てとら様
 > CONTEXT: Map002/events/1/pages/1/252/ChoiceHelp
 
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[90]作者：アザレア様
 > CONTEXT: Map002/events/1/pages/1/262/ChoiceHelp
 \\\>\\r[90]Created by: アザレア様#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[128]作者：アザレア様
 > CONTEXT: Map002/events/1/pages/1/270/ChoiceHelp
 
@@ -2608,30 +2678,35 @@ Iron Maiden if(s[23])#Dargoth
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[4]作者：P.T.O
 > CONTEXT: Map002/events/1/pages/1/280/ChoiceHelp
 \\\>\\r[4]Created by: P.T.O#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[5]作者：P.T.O
 > CONTEXT: Map002/events/1/pages/1/288/ChoiceHelp
 \\\>\\r[5]Created by: P.T.O#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[56]作者：光合成ひろし様
 > CONTEXT: Map002/events/1/pages/1/296/ChoiceHelp
 \\\>\\r[56]Created by: 光合成ひろし様#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[92]作者：アザレア様
 > CONTEXT: Map002/events/1/pages/1/304/ChoiceHelp
 \\\>\\r[92]Created by: アザレア様#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[105]作者：光合成ひろし様
 > CONTEXT: Map002/events/1/pages/1/314/ChoiceHelp
 \\\>\\r[105]Created by: 光合成ひろし様#Triketos
@@ -2644,6 +2719,7 @@ Hecate & Barghestif(s[23])#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[13]作者：ピルリンΣ様
 > CONTEXT: Map002/events/1/pages/1/324/ChoiceHelp
 \\\>\\r[13]Created by: ピルリンΣ様#Triketos
@@ -2657,13 +2733,16 @@ Hecate & Barghestif(s[23])#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[124]作者：アザレア様
 > CONTEXT: Map002/events/1/pages/1/334/ChoiceHelp
 
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[160]作者：ちょみ様
+備考：射精差分在り
 > CONTEXT: Map002/events/1/pages/1/344/ChoiceHelp < UNTRANSLATED
 
 > END STRING
@@ -2677,6 +2756,7 @@ Hecate & Barghestif(s[23])#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\r[del]
 > CONTEXT: Map002/events/1/pages/1/357/ChoiceHelp
 > CONTEXT: Map002/events/1/pages/1/481/ChoiceHelp
@@ -2712,6 +2792,7 @@ Empuse & Hecate if(s[24])#Dargoth
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[6]作者：P.T.O
 > CONTEXT: Map002/events/1/pages/1/364/ChoiceHelp
 \\\>\\r[6]Created by: P.T.O#Triketos
@@ -2724,6 +2805,7 @@ Hecate & Kazuya + ＠ if(s[24])#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[47]作者：ピルリンΣ様
 > CONTEXT: Map002/events/1/pages/1/374/ChoiceHelp
 \\\>\\r[47]Created by: ピルリンΣ様#Triketos
@@ -2736,6 +2818,7 @@ Empuse & Barghest if(s[24])#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[91]作者：飛鳥暮人様
 > CONTEXT: Map002/events/1/pages/1/384/ChoiceHelp
 \\\>\\r[91]Created by: 飛鳥暮人様#Triketos
@@ -2752,9 +2835,10 @@ Empuse if(s[24]) #Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[96]作者：飛鳥暮人様
-> CONTEXT: Map002/events/1/pages/1/394/ChoiceHelp
-\\\>\\r[96]Created by: 飛鳥暮人様#Triketos
+備考：差分３枚有
+> CONTEXT: Map002/events/1/pages/1/394/ChoiceHelp < UNTRANSLATED
 > END STRING
 
 > BEGIN STRING
@@ -2764,6 +2848,7 @@ Chapter 1 Demons if(s[24])#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[14]作者：カスガイ様
 > CONTEXT: Map002/events/1/pages/1/411/ChoiceHelp
 \\\>\\r[14]Created by: カスガイ様#Triketos
@@ -2776,6 +2861,7 @@ Chapter 1 Demons if(s[24])#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[136]作者：飛鳥暮人様
 > CONTEXT: Map002/events/1/pages/1/421/ChoiceHelp < UNTRANSLATED
 
@@ -2788,6 +2874,7 @@ Iron Maiden (my room)if(s[24])#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[40]作者：カスガイ様
 > CONTEXT: Map002/events/1/pages/1/431/ChoiceHelp
 
@@ -2800,24 +2887,28 @@ Iron Maiden (my room)if(s[24])#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[41]作者：カスガイ様
 > CONTEXT: Map002/events/1/pages/1/441/ChoiceHelp
 \\\>\\r[41]Created by: カスガイ様#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[68]作者：アザレア様
 > CONTEXT: Map002/events/1/pages/1/451/ChoiceHelp
 \\\>\\r[68]Created by: アザレア様#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[74]作者：飛鳥暮人様
 > CONTEXT: Map002/events/1/pages/1/461/ChoiceHelp
 \\\>\\r[74]Created by: 飛鳥暮人様#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[109]作者：飛鳥暮人様
 > CONTEXT: Map002/events/1/pages/1/471/ChoiceHelp
 \\\>\\r[109]Created by: 飛鳥暮人様#Triketos
@@ -2847,30 +2938,35 @@ Harpy Spawn if(s[25])#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[25]作者：P.T.O様
 > CONTEXT: Map002/events/1/pages/1/488/ChoiceHelp
 \\\>\\r[25]Created by: P.T.O#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[23]作者：P.T.O様
 > CONTEXT: Map002/events/1/pages/1/496/ChoiceHelp
 \\\>\\r[23]Created by: P.T.O#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[24]作者：P.T.O様
 > CONTEXT: Map002/events/1/pages/1/504/ChoiceHelp
 \\\>\\r[24]Created by: P.T.O#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[52]作者：光合成ひろし様
 > CONTEXT: Map002/events/1/pages/1/512/ChoiceHelp
 \\\>\\r[52]Created by: 光合成ひろし様#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[102]作者：アザレア様
 > CONTEXT: Map002/events/1/pages/1/522/ChoiceHelp
 \\\>\\r[102]Created by: アザレア様#Triketos
@@ -2886,24 +2982,28 @@ Haru if(s[25])#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[113]作者：アザレア様
 > CONTEXT: Map002/events/1/pages/1/532/ChoiceHelp
 \\\>\\r[113]Created by: アザレア#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[78]作者：P.T.O様
 > CONTEXT: Map002/events/1/pages/1/542/ChoiceHelp
 \\\>\\r[78]Created by: P.T.O#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[80]作者：P.T.O様
 > CONTEXT: Map002/events/1/pages/1/552/ChoiceHelp
 \\\>\\r[80]Created by: P.T.O#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[137]作者：P.T.O様
 > CONTEXT: Map002/events/1/pages/1/562/ChoiceHelp < UNTRANSLATED
 
@@ -2916,6 +3016,7 @@ Liz if(s[25])#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[79]作者：P.T.O様
 > CONTEXT: Map002/events/1/pages/1/572/ChoiceHelp
 \\\>\\r[79]Created by: P.T.O#Triketos
@@ -2946,42 +3047,49 @@ Mukuro if(s[26])#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[26]作者：P.T.O様
 > CONTEXT: Map002/events/1/pages/1/589/ChoiceHelp
 \\\>\\r[26]Created by: P.T.O#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[84]作者：P.T.O様
 > CONTEXT: Map002/events/1/pages/1/599/ChoiceHelp
 \\\>\\r[84]Created by: P.T.O#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[31]作者：光合成ひろし様
 > CONTEXT: Map002/events/1/pages/1/609/ChoiceHelp
 \\\>\\r[31]Created by: 光合成ひろし様#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[55]作者：光合成ひろし様
 > CONTEXT: Map002/events/1/pages/1/619/ChoiceHelp
 \\\>\\r[55]Created by: 光合成ひろし様#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[110]作者：ていていあてとら様
 > CONTEXT: Map002/events/1/pages/1/629/ChoiceHelp
 \\\>\\r[110]Created by: ていていあてとら様#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[108]作者：アザレア様
 > CONTEXT: Map002/events/1/pages/1/639/ChoiceHelp
 \\\>\\r[108]Created by: アザレア様#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[112]作者：毒蛇貓様
 > CONTEXT: Map002/events/1/pages/1/649/ChoiceHelp
 \\\>\\r[112]Created by: 毒蛇貓様#Triketos
@@ -2994,25 +3102,30 @@ Mukuro & Hero if(s[26])#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[69]作者：光合成ひろし様
 > CONTEXT: Map002/events/1/pages/1/659/ChoiceHelp
 \\\>\\r[69]Created by: 光合成ひろし様#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[142]作者：てとら様
 > CONTEXT: Map002/events/1/pages/1/669/ChoiceHelp < UNTRANSLATED
 
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[139]作者：のみのみ様
 > CONTEXT: Map002/events/1/pages/1/677/ChoiceHelp < UNTRANSLATED
 
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[156]作者：柴太郎様
+備考：眼光差分あり
 > CONTEXT: Map002/events/1/pages/1/685/ChoiceHelp < UNTRANSLATED
 
 > END STRING
@@ -3024,9 +3137,11 @@ barghest + @ if(s[26])#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[27]作者：カスガイ様
-> CONTEXT: Map002/events/1/pages/1/698/ChoiceHelp
-\\\>\\r[27]Created by: カスガイ様#Triketos
+
+バーゲスト・マザーラビット・ランパス
+> CONTEXT: Map002/events/1/pages/1/698/ChoiceHelp < UNTRANSLATED
 > END STRING
 
 > BEGIN STRING
@@ -3039,24 +3154,28 @@ Twins if(s[267])#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[19]作者：ピルリンΣ様
 > CONTEXT: Map002/events/1/pages/1/710/ChoiceHelp
 \\\>\\r[19]Created by: ピルリンΣ様#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[20]作者：ピルリンΣ様
 > CONTEXT: Map002/events/1/pages/1/718/ChoiceHelp
 \\\>\\r[20]Created by: ピルリンΣ様#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[21]作者：ピルリンΣ様
 > CONTEXT: Map002/events/1/pages/1/726/ChoiceHelp
 \\\>\\r[21]Created by: ピルリンΣ様#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[22]作者：ピルリンΣ様
 > CONTEXT: Map002/events/1/pages/1/734/ChoiceHelp
 \\\>\\r[22]Created by: ピルリンΣ様#Triketos
@@ -3069,6 +3188,7 @@ Twins + Hero if(s[267])#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[50]作者：ピルリンΣ様
 > CONTEXT: Map002/events/1/pages/1/744/ChoiceHelp
 \\\>\\r[50]Created by: ピルリンΣ様#Triketos
@@ -3093,30 +3213,35 @@ Nina if(s[27])#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[28]作者：苺大福
 > CONTEXT: Map002/events/1/pages/1/761/ChoiceHelp
 \\\>\\r[28]Created by: 苺大福#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[30]作者：剥製チーズ様
 > CONTEXT: Map002/events/1/pages/1/771/ChoiceHelp
 \\\>\\r[30]Created by: 剥製チーズ様#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[88]作者：P.T.O様
 > CONTEXT: Map002/events/1/pages/1/781/ChoiceHelp
 \\\>\\r[88]Created by: P.T.O#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[107]作者：ていていあてとら様
 > CONTEXT: Map002/events/1/pages/1/791/ChoiceHelp
 \\\>\\r[107]Created by: ていていあてとら様#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[135]作者：アザレア様
 > CONTEXT: Map002/events/1/pages/1/801/ChoiceHelp
 \\\>\\r[135]Created by: アザレア様#Triketos
@@ -3129,6 +3254,7 @@ Nina?#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[115]作者：遊見 鏡 様
 > CONTEXT: Map002/events/1/pages/1/811/ChoiceHelp
 \\\>\\r[115]Created by: 遊見 鏡 様#Triketos
@@ -3150,12 +3276,14 @@ Sphinx & Barghest if(s[28])#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[32]作者：P.T.O
 > CONTEXT: Map002/events/1/pages/1/828/ChoiceHelp
 \\\>\\r[32]Created by: P.T.O#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[111]作者：P.T.O
 > CONTEXT: Map002/events/1/pages/1/838/ChoiceHelp
 \\\>\\r[111]Created by: P.T.O#Triketos
@@ -3168,6 +3296,7 @@ Sphinx & Iron Maiden if(s[28])#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[89]作者：ロール様
 > CONTEXT: Map002/events/1/pages/1/848/ChoiceHelp
 \\\>\\r[89]Created by: ロール様#Triketos
@@ -3183,24 +3312,28 @@ Echo if(s[28])#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[53]作者：ランゲルハンス様
 > CONTEXT: Map002/events/1/pages/1/858/ChoiceHelp
 \\\>\\r[53]Created by: ランゲルハンス様#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[71]作者：アザレア様
 > CONTEXT: Map002/events/1/pages/1/868/ChoiceHelp
 \\\>\\r[71]Created by: アザレア様#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[134]作者：アザレア様
 > CONTEXT: Map002/events/1/pages/1/878/ChoiceHelp
 \\\>\\r[134]Created by: アザレア様#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[155]作者：SaGa様
 > CONTEXT: Map002/events/1/pages/1/886/ChoiceHelp < UNTRANSLATED
 
@@ -3213,9 +3346,11 @@ Sphinx 1 if(s[28])#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[43]作者：タロー様
-> CONTEXT: Map002/events/1/pages/1/896/ChoiceHelp
-\\\> [R [43] Created by: Taro#Triketos
+備考：文字無し差分有
+> CONTEXT: Map002/events/1/pages/1/896/ChoiceHelp < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -3225,9 +3360,11 @@ Sphinx 2 if(s[28])#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[45]作者：タロー様
-> CONTEXT: Map002/events/1/pages/1/909/ChoiceHelp
-\\\>\\r[45]Created by: Taro#Triketos
+備考：文字無し差分有
+> CONTEXT: Map002/events/1/pages/1/909/ChoiceHelp < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -3239,12 +3376,14 @@ Sphinx if(s[28])#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[75]作者：P.T.O
 > CONTEXT: Map002/events/1/pages/1/922/ChoiceHelp
 \\\>\\r[75]Created by: P.T.O#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[77]作者：P.T.O
 > CONTEXT: Map002/events/1/pages/1/932/ChoiceHelp
 \\\>\\r[77]Created by: P.T.O#Triketos
@@ -3269,27 +3408,31 @@ Arachne if(s[29])#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[34]作者：P.T.O
 > CONTEXT: Map002/events/1/pages/1/949/ChoiceHelp
 \\\>\\r[34]Created by: P.T.O#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[87]作者：P.T.O
 > CONTEXT: Map002/events/1/pages/1/959/ChoiceHelp
 \\\>\\r[87]Created by: P.T.O#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[35]作者：P.T.O
 > CONTEXT: Map002/events/1/pages/1/969/ChoiceHelp
 \\\>\\r[35]Created by: P.T.O#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[59]作者：ロール様
-> CONTEXT: Map002/events/1/pages/1/989/ChoiceHelp
-\\\>\\r[59]Created by: Role#Triketos
+備考：４枚差分有り
+> CONTEXT: Map002/events/1/pages/1/989/ChoiceHelp < UNTRANSLATED
 > END STRING
 
 > BEGIN STRING
@@ -3299,9 +3442,12 @@ Sphinx + @ if(s[29])#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[42]作者：カスガイ様
-> CONTEXT: Map002/events/1/pages/1/1006/ChoiceHelp
-\\\>\\r[42]Created by: Kasgai#Triketos
+登場悪魔：バーゲスト・スフィンクス・ランパス・エンプーサ
+　　　　　アルケニー
+> CONTEXT: Map002/events/1/pages/1/1006/ChoiceHelp < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -3311,9 +3457,11 @@ Lampas if(s[29])#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[65]作者：剥製チーズ様
-> CONTEXT: Map002/events/1/pages/1/1018/ChoiceHelp
-\\\>\\r[65]Created by: 剥製チーズ様#Triketos
+登場悪魔：ランパス
+> CONTEXT: Map002/events/1/pages/1/1018/ChoiceHelp < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -3337,24 +3485,28 @@ Titanoboa if(s[30])#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[36]作者：P.T.O
 > CONTEXT: Map002/events/1/pages/1/1036/ChoiceHelp
 \\\>\\r[36]Created by: P.T.O#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[83]作者：P.T.O
 > CONTEXT: Map002/events/1/pages/1/1046/ChoiceHelp
 \\\>\\r[83]Created by: P.T.O#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[67]作者：アザレア様
 > CONTEXT: Map002/events/1/pages/1/1056/ChoiceHelp
 \\\>\\r[67]Created by: アザレア様#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[126]作者：アザレア様
 > CONTEXT: Map002/events/1/pages/1/1066/ChoiceHelp
 \\\>\\r[126]Created by: アザレア様#Triketos
@@ -3369,30 +3521,35 @@ Titanoboa if(s[30])#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[146]作者：アザレア様
 > CONTEXT: Map002/events/1/pages/1/1076/ChoiceHelp < UNTRANSLATED
 
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[147]作者：アザレア様
 > CONTEXT: Map002/events/1/pages/1/1084/ChoiceHelp < UNTRANSLATED
 
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[148]作者：アザレア様
 > CONTEXT: Map002/events/1/pages/1/1092/ChoiceHelp < UNTRANSLATED
 
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[149]作者：アザレア様
 > CONTEXT: Map002/events/1/pages/1/1100/ChoiceHelp < UNTRANSLATED
 
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[103]作者：P.T.O
 > CONTEXT: Map002/events/1/pages/1/1110/ChoiceHelp
 \\\>\\r[103]Created by: P.T.O#Triketos
@@ -3405,6 +3562,7 @@ Chapter 3 Demons if(s[30])#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[37]作者：P.T.O
 > CONTEXT: Map002/events/1/pages/1/1120/ChoiceHelp
 \\\>\\r[37]Created by: P.T.O#Triketos
@@ -3425,6 +3583,7 @@ Micah if(s[31])#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[54]作者：光合成ひろし様
 > CONTEXT: Map002/events/1/pages/1/1137/ChoiceHelp
 \\\>\\r[54]Created by: 光合成ひろし様#Triketos
@@ -3443,42 +3602,49 @@ Camazotz if(s[31])#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[66]作者：アザレア様
 > CONTEXT: Map002/events/1/pages/1/1147/ChoiceHelp
 \\\>\\r[66]Created by: アザレア様#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[72]作者：アザレア様
 > CONTEXT: Map002/events/1/pages/1/1155/ChoiceHelp
 \\\>\\r[72]Created by: アザレア様#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[73]作者：アザレア様
 > CONTEXT: Map002/events/1/pages/1/1163/ChoiceHelp
 \\\>\\r[73]Created by: アザレア様#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[101]作者：アザレア様
 > CONTEXT: Map002/events/1/pages/1/1171/ChoiceHelp
 \\\>\\r[101]Created by: アザレア様#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[125]作者：アザレア様
 > CONTEXT: Map002/events/1/pages/1/1181/ChoiceHelp
 \\\>\\r[125]Created by: アザレア様#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[127]作者：アザレア様
 > CONTEXT: Map002/events/1/pages/1/1189/ChoiceHelp
 \\\>\\r[127]Created by: アザレア様#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[133]作者：アザレア様
 > CONTEXT: Map002/events/1/pages/1/1197/ChoiceHelp
 \\\>\\r[133]Created by: アザレア様#Triketos
@@ -3499,6 +3665,7 @@ Yuuma & Hero if(s[32])#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[57]作者：カスガイ様
 > CONTEXT: Map002/events/1/pages/1/1214/ChoiceHelp
 \\\>\\r[57]Created by: カスガイ様#Triketos
@@ -3518,42 +3685,49 @@ Daji if(s[32])#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[93]作者：P.T.O
 > CONTEXT: Map002/events/1/pages/1/1224/ChoiceHelp
 \\\>\\r[93]Created by: P.T.O#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[94]作者：P.T.O
 > CONTEXT: Map002/events/1/pages/1/1232/ChoiceHelp
 \\\>\\r[94]Created by: P.T.O#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[95]作者：P.T.O
 > CONTEXT: Map002/events/1/pages/1/1240/ChoiceHelp
 \\\>\\r[95]Created by: P.T.O#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[122]作者：てとら様
 > CONTEXT: Map002/events/1/pages/1/1250/ChoiceHelp
 \\\>\\r[122]Created by: てとら様#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[116]作者：desu様
 > CONTEXT: Map002/events/1/pages/1/1260/ChoiceHelp
 \\\>\\r[116]Created by: desu#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[130]作者：desu様
 > CONTEXT: Map002/events/1/pages/1/1270/ChoiceHelp
 \\\>\\r[130]Created by: desu#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[153]作者：ZHAN FENG様
 > CONTEXT: Map002/events/1/pages/1/1280/ChoiceHelp < UNTRANSLATED
 
@@ -3575,12 +3749,15 @@ True Mercy Lass Boss if(s[33])#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[63]作者：P.T.O様
-> CONTEXT: Map002/events/1/pages/1/1297/ChoiceHelp
-\\\>\\r[63]Created by: P.T.O#Triketos
+備考：色つき差分有り
+> CONTEXT: Map002/events/1/pages/1/1297/ChoiceHelp < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[86]作者：P.T.O様
 > CONTEXT: Map002/events/1/pages/1/1310/ChoiceHelp
 \\\>\\r[86]Created by: P.T.O#Triketos
@@ -3595,6 +3772,7 @@ My Room Demons if(s[33])#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[120]作者：SaGa様
 > CONTEXT: Map002/events/1/pages/1/1320/ChoiceHelp
 \\\>\\r[120]Created by: SaGa#Triketos
@@ -3607,18 +3785,21 @@ Daji if(s[33])
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[132]作者：SaGa様
 > CONTEXT: Map002/events/1/pages/1/1330/ChoiceHelp
 \\\>\\r[132]Created by: SaGa#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[100]作者：飛鳥暮人様
 > CONTEXT: Map002/events/1/pages/1/1340/ChoiceHelp
 \\\>\\r[100]Created by: 飛鳥暮人様#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[159]作者：ピルリン様
 > CONTEXT: Map002/events/1/pages/1/1350/ChoiceHelp < UNTRANSLATED
 
@@ -3631,6 +3812,7 @@ Daji if(s[33])
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[141]作者：飛鳥暮人様
 > CONTEXT: Map002/events/1/pages/1/1360/ChoiceHelp < UNTRANSLATED
 
@@ -3643,7 +3825,9 @@ Daji if(s[33])
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[158]作者：飛鳥暮人様
+備考：スフィンクス・マザーラビット・カマソッソ
 > CONTEXT: Map002/events/1/pages/1/1370/ChoiceHelp < UNTRANSLATED
 
 > END STRING
@@ -3657,18 +3841,21 @@ Daji if(s[33])
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[143]作者：謎の【空洞練物】T様
 > CONTEXT: Map002/events/1/pages/1/1381/ChoiceHelp < UNTRANSLATED
 
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[144]作者：謎の【空洞練物】T様
 > CONTEXT: Map002/events/1/pages/1/1389/ChoiceHelp < UNTRANSLATED
 
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[145]作者：謎の【空洞練物】T様
 > CONTEXT: Map002/events/1/pages/1/1397/ChoiceHelp < UNTRANSLATED
 
@@ -3681,6 +3868,7 @@ Daji & Maiden & Arachne if(s[33])#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[58]作者：カスガイ様
 > CONTEXT: Map002/events/1/pages/1/1407/ChoiceHelp
 \\\>\\r[58]Created by: カスガイ様#Triketos
@@ -3693,6 +3881,7 @@ Daji & Maiden & Arachne if(s[33])#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[117]作者：ていていあてとら様
 > CONTEXT: Map002/events/1/pages/1/1417/ChoiceHelp < UNTRANSLATED
 
@@ -3706,12 +3895,14 @@ Daji & Maiden & Arachne if(s[33])#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[81]作者：P.T.O
 > CONTEXT: Map002/events/1/pages/1/1427/ChoiceHelp
 \\\>\\r[81]Created by: P.T.O#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[82]作者：P.T.O
 > CONTEXT: Map002/events/1/pages/1/1437/ChoiceHelp
 \\\>\\r[81]Created by: P.T.O#Triketos
@@ -3724,6 +3915,7 @@ Daji & Maiden & Arachne if(s[33])#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[121]作者：てとら様
 > CONTEXT: Map002/events/1/pages/1/1447/ChoiceHelp < UNTRANSLATED
 
@@ -3736,6 +3928,7 @@ Daji & Maiden & Arachne if(s[33])#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[119]作者：光合成ひろし様
 > CONTEXT: Map002/events/1/pages/1/1457/ChoiceHelp < UNTRANSLATED
 
@@ -3751,18 +3944,21 @@ Hecate if(s[537])#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[114]作者：光合成ひろし様
 > CONTEXT: Map002/events/1/pages/1/1467/ChoiceHelp
 \\\>\\r[114]Created by: 光合成ひろし様#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[118]作者：遊見 鏡様
 > CONTEXT: Map002/events/1/pages/1/1477/ChoiceHelp
 \\\>\\r[118]Created by: 遊見 鏡様#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[131]作者：SaGa様
 > CONTEXT: Map002/events/1/pages/1/1487/ChoiceHelp
 \\\>\\r[131]Created by: SaGa#Triketos
@@ -3794,30 +3990,35 @@ Hecate if(s[537])#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[138]作者：P.T.O様
 > CONTEXT: Map002/events/1/pages/1/1497/ChoiceHelp < UNTRANSLATED
 
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[140]作者：アレ句産様
 > CONTEXT: Map002/events/1/pages/1/1505/ChoiceHelp < UNTRANSLATED
 
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[150]作者：アザレア様
 > CONTEXT: Map002/events/1/pages/1/1513/ChoiceHelp < UNTRANSLATED
 
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[151]作者：光合成ひろし様
 > CONTEXT: Map002/events/1/pages/1/1521/ChoiceHelp < UNTRANSLATED
 
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[154]作者：SaGa様
 > CONTEXT: Map002/events/1/pages/1/1533/ChoiceHelp < UNTRANSLATED
 
@@ -3830,6 +4031,7 @@ Hecate if(s[537])#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>\\r[104]作者：飛鳥暮人様
 > CONTEXT: Map002/events/1/pages/1/1543/ChoiceHelp < UNTRANSLATED
 
@@ -3852,6 +4054,7 @@ Return to Previous Menu#Dargoth
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\l[del]
 > CONTEXT: Map002/events/1/pages/2/8/ChoiceHelp 
 > CONTEXT: Map002/events/1/pages/2/183/ChoiceHelp
@@ -3869,9 +4072,12 @@ Return to Previous Menu#Dargoth
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>作者　　　　　　：春夏秋冬
-> CONTEXT: Map002/events/1/pages/2/17/ChoiceHelp
-\\\>Author: 春夏秋冬#Triketos
+登場悪魔　　　　：すべて？
+リンク先サイト　：pixiv
+備考　　　　　　：シリーズもの・シナリオネタバレあり
+> CONTEXT: Map002/events/1/pages/2/17/ChoiceHelp < UNTRANSLATED
 > END STRING
 
 > BEGIN STRING
@@ -3959,13 +4165,12 @@ chapter9　枯渇　-depletion-#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>作者　　　　　　：ザハーク
-> CONTEXT: Map002/events/1/pages/2/128/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/2/151/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/2/160/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/2/204/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/2/215/ChoiceHelp
-\\\>Author: ザハーク#Triketos
+登場悪魔　　　　：ランパス
+リンク先サイト　：pixiv
+> CONTEXT: Map002/events/1/pages/2/128/ChoiceHelp < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -3975,9 +4180,13 @@ chapter9　枯渇　-depletion-#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>作者　　　　　　：ユーリア
-> CONTEXT: Map002/events/1/pages/2/139/ChoiceHelp
-\\\> Author: Yulia#MTLed
+登場悪魔　　　　：アイアンメイデン
+リンク先サイト　：pixiv
+備考　　　　　　：マイルームネタバレあり
+> CONTEXT: Map002/events/1/pages/2/139/ChoiceHelp < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -3988,8 +4197,26 @@ chapter9　枯渇　-depletion-#Triketos
 
 > BEGIN STRING
 『彼は『悪魔の』虐殺者』
-> CONTEXT: Map002/events/1/pages/2/149/Choice/1
-"He is a demon's slaughterer"#MTLed
+> CONTEXT: Map002/events/1/pages/2/149/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+\\\>作者　　　　　　：ザハーク
+登場悪魔　　　　：バーゲスト・ランパス・エンプーサ他
+リンク先サイト　：pixiv
+> CONTEXT: Map002/events/1/pages/2/151/ChoiceHelp < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+\\\>作者　　　　　　：ザハーク
+登場悪魔　　　　：バーゲスト・ランパス
+リンク先サイト　：pixiv
+> CONTEXT: Map002/events/1/pages/2/160/ChoiceHelp < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -3999,11 +4226,13 @@ chapter9　枯渇　-depletion-#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>作者　　　　　　：カスガイ
+登場悪魔　　　　：ランパス
+リンク先サイト　：pixiv
+備考　　　　　　：マイルームネタバレ有
 > CONTEXT: Map002/events/1/pages/2/171/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/2/351/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/2/382/ChoiceHelp
-\\\> Author: Kasgai#MTLed
+
 > END STRING
 
 > BEGIN STRING
@@ -4019,28 +4248,38 @@ chapter9　枯渇　-depletion-#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>作者　　　　　　：少佐
-> CONTEXT: Map002/events/1/pages/2/192/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/2/238/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/2/274/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/2/294/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/2/318/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/2/329/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/2/340/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/2/404/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/2/416/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/2/428/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/2/440/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/2/452/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/2/464/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/2/476/ChoiceHelp
-\\\>Author: Major#Triketos
+登場悪魔　　　　：マザーラビット
+リンク先サイト　：pixiv
+備考　　　　　　：マイルームネタバレ有
+> CONTEXT: Map002/events/1/pages/2/192/ChoiceHelp < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
 \\C[27]〔Ｈ〕\\C[0]『Death by Glamour ニーナの寝起きドッキリタイム』
-> CONTEXT: Map002/events/1/pages/2/202/Choice/0
-\\C[27][H]\\C[0] "Death by Glamor Nina's wake up to sleep"#MTLed
+> CONTEXT: Map002/events/1/pages/2/202/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+\\\>作者　　　　　　：ザハーク
+登場悪魔　　　　：ニーナ
+リンク先サイト　：pixiv
+> CONTEXT: Map002/events/1/pages/2/204/ChoiceHelp < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+\\\>作者　　　　　　：ザハーク
+登場悪魔　　　　：アイアンメイデン・ランパス・ハルリズ他
+リンク先サイト　：pixiv
+備考　　　　　　：ギャグＳＳ
+> CONTEXT: Map002/events/1/pages/2/215/ChoiceHelp < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -4050,35 +4289,85 @@ chapter9　枯渇　-depletion-#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>作者　　　　　　：江村テツヤ
-> CONTEXT: Map002/events/1/pages/2/227/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/2/250/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/2/262/ChoiceHelp
-\\\> Author: Emura Tetsuya#MTLed
+登場悪魔　　　　：ニーナ・躯
+リンク先サイト　：pixiv
+> CONTEXT: Map002/events/1/pages/2/227/ChoiceHelp < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+\\\>作者　　　　　　：少佐
+登場悪魔　　　　：アイアンメイデン・躯
+リンク先サイト　：pixiv
+備考　　　　　　：マイルームネタバレ有
+> CONTEXT: Map002/events/1/pages/2/238/ChoiceHelp < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
 \\C[27]〔Ｈ〕\\C[0]『ロマンティック・オーヴァドライブ』
-> CONTEXT: Map002/events/1/pages/2/248/Choice/0
-\\C[27][H]\\C[0] "Romantic Overdrive"#MTLed
+> CONTEXT: Map002/events/1/pages/2/248/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+\\\>作者　　　　　　：江村テツヤ
+登場悪魔　　　　：ニーナ
+リンク先サイト　：pixiv
+備考　　　　　　：マイルームネタバレ有り
+> CONTEXT: Map002/events/1/pages/2/250/ChoiceHelp < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
 『新連載！雷刃シュリフト！！（嘘予告）』
-> CONTEXT: Map002/events/1/pages/2/260/Choice/0
-"New series!Thunder blade shrift!!(Leice notice) "#MTLed
+> CONTEXT: Map002/events/1/pages/2/260/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+\\\>作者　　　　　　：江村テツヤ
+登場悪魔　　　　：？？？
+リンク先サイト　：pixiv
+備考　　　　　　：少年誌のノリでのギャグＳＳ
+> CONTEXT: Map002/events/1/pages/2/262/ChoiceHelp < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+\\\>作者　　　　　　：少佐
+登場悪魔　　　　：ニーナ・アイアンメイデン
+リンク先サイト　：pixiv
+> CONTEXT: Map002/events/1/pages/2/274/ChoiceHelp < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
 \\C[29]【チャプター３】 en(s[28]) 
 > CONTEXT: Map002/events/1/pages/2/283/Choice/0
-\\C[29][Chapter 3]en(s[28])#MTLed
+\\C[29][Chapter 3]en(s[28])#Triketos
 > END STRING
 
 > BEGIN STRING
 『真心を込めて』
-> CONTEXT: Map002/events/1/pages/2/292/Choice/0
-"With all my heart"#MTLed
+> CONTEXT: Map002/events/1/pages/2/292/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+\\\>作者　　　　　　：少佐
+登場悪魔　　　　：アイアンメイデン・エコー
+リンク先サイト　：pixiv
+備考　　　　　　：マイルームネタバレ有
+> CONTEXT: Map002/events/1/pages/2/294/ChoiceHelp < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -4088,21 +4377,61 @@ chapter9　枯渇　-depletion-#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>作者　　　　　　：ロール
-> CONTEXT: Map002/events/1/pages/2/306/ChoiceHelp
-\\\> Author: Role#MTLed
+登場悪魔　　　　：アルケニー
+リンク先サイト　：pixiv
+備考　　　　　　：丸呑み表現注意・マイルームネタバレ有
+> CONTEXT: Map002/events/1/pages/2/306/ChoiceHelp < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
 『アコニーな日々』
-> CONTEXT: Map002/events/1/pages/2/316/Choice/0
-"Aconitum days"#MTLed
+> CONTEXT: Map002/events/1/pages/2/316/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+\\\>作者　　　　　　：少佐
+登場悪魔　　　　：アコニートゥム
+リンク先サイト　：pixiv
+> CONTEXT: Map002/events/1/pages/2/318/ChoiceHelp < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+\\\>作者　　　　　　：少佐
+登場悪魔　　　　：アイアンメイデンほか
+リンク先サイト　：pixiv
+> CONTEXT: Map002/events/1/pages/2/329/ChoiceHelp < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+\\\>作者　　　　　　：少佐
+登場悪魔　　　　：躯
+リンク先サイト　：pixiv
+> CONTEXT: Map002/events/1/pages/2/340/ChoiceHelp < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
 『お風呂はお好き？』
-> CONTEXT: Map002/events/1/pages/2/349/Choice/0
-"Do you like baths?"#MTLed
+> CONTEXT: Map002/events/1/pages/2/349/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+\\\>作者　　　　　　：カスガイ
+登場悪魔　　　　：エコー・躯ほか
+リンク先サイト　：pixiv
+> CONTEXT: Map002/events/1/pages/2/351/ChoiceHelp < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -4112,7 +4441,10 @@ chapter9　枯渇　-depletion-#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>作者　　　　　　：木違口虚
+登場悪魔　　　　：エコー・アイアンメイデンほか
+リンク先サイト　：pixiv
 > CONTEXT: Map002/events/1/pages/2/362/ChoiceHelp
 
 > END STRING
@@ -4120,12 +4452,21 @@ chapter9　枯渇　-depletion-#Triketos
 > BEGIN STRING
 \\C[29]【チャプター４】 en(s[31]) 
 > CONTEXT: Map002/events/1/pages/2/371/Choice/0
-\\C[29][Chapter 4]en(s[31])#MTLed
+\\C[29][Chapter 4]en(s[31])#Triketos
 > END STRING
 
 > BEGIN STRING
 『ドキッ！　ハプニングだらけの番組制作！　（ポロリもあるよ☆）』
 > CONTEXT: Map002/events/1/pages/2/380/Choice/0
+
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+\\\>作者　　　　　　：カスガイ
+登場悪魔　　　　：マイルーム悪魔全員
+リンク先サイト　：pixiv
+> CONTEXT: Map002/events/1/pages/2/382/ChoiceHelp < UNTRANSLATED
 
 > END STRING
 
@@ -4136,8 +4477,27 @@ chapter9　枯渇　-depletion-#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>作者　　　　　　：ふにげあ
+登場悪魔　　　　：カズヤ・ユウマ
+リンク先サイト　：pixiv
 > CONTEXT: Map002/events/1/pages/2/393/ChoiceHelp < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+\\\>作者　　　　　　：少佐
+登場悪魔　　　　：？？？
+リンク先サイト　：pixiv
+備考　　　　　：\\C[10]『真慈悲』ルートＥＤネタバレ有り
+> CONTEXT: Map002/events/1/pages/2/404/ChoiceHelp < UNTRANSLATED
+> CONTEXT: Map002/events/1/pages/2/416/ChoiceHelp < UNTRANSLATED
+> CONTEXT: Map002/events/1/pages/2/428/ChoiceHelp < UNTRANSLATED
+> CONTEXT: Map002/events/1/pages/2/440/ChoiceHelp < UNTRANSLATED
+> CONTEXT: Map002/events/1/pages/2/452/ChoiceHelp < UNTRANSLATED
+> CONTEXT: Map002/events/1/pages/2/464/ChoiceHelp < UNTRANSLATED
+> CONTEXT: Map002/events/1/pages/2/476/ChoiceHelp < UNTRANSLATED
 
 > END STRING
 
@@ -4172,9 +4532,12 @@ chapter9　枯渇　-depletion-#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>作者　　　　　　：ニーノ・C・輝・偶像
+登場悪魔　　　　：ニーナ
+リンク先サイト　：ぷらいべったー
+備考　　　　　　：パスワード設定有り
 > CONTEXT: Map002/events/1/pages/2/488/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/2/499/ChoiceHelp < UNTRANSLATED
 
 > END STRING
 
@@ -4185,13 +4548,26 @@ chapter9　枯渇　-depletion-#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
+\\\>作者　　　　　　：ニーノ・C・輝・偶像
+登場悪魔　　　　：ニーナ
+リンク先サイト　：ぷらいべったー
+備考　　　　　　：パスワード設定有
+> CONTEXT: Map002/events/1/pages/2/499/ChoiceHelp < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
 \\C[27]〔Ｈ〕\\C[0]『『母なる悪魔』へようこそ』
 > CONTEXT: Map002/events/1/pages/2/508/Choice/0 < UNTRANSLATED
 
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>作者　　　　　　：湧水
+登場悪魔　　　　：モドキクイーン（後半のみ）
+リンク先サイト　：pixiv
 > CONTEXT: Map002/events/1/pages/2/510/ChoiceHelp < UNTRANSLATED
 
 > END STRING
@@ -4203,7 +4579,10 @@ chapter9　枯渇　-depletion-#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>作者　　　　　　：π乙侍
+登場悪魔　　　　：ヘカーテ
+リンク先サイト　：FANBOX
 > CONTEXT: Map002/events/1/pages/2/521/ChoiceHelp < UNTRANSLATED
 
 > END STRING
@@ -4221,27 +4600,33 @@ chapter9　枯渇　-depletion-#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\r[c]
-> CONTEXT: Map002/events/1/pages/3/14/ChoiceHelp
-\\r[c]#NoTL
+作者：ネコマタ狂アラン（制作者）
+> CONTEXT: Map002/events/1/pages/3/14/ChoiceHelp < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\r[h]
-> CONTEXT: Map002/events/1/pages/3/23/ChoiceHelp
-\\r[h]#NoTL
+作者：ネコマタ狂アラン（制作者）
+> CONTEXT: Map002/events/1/pages/3/23/ChoiceHelp < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
 【資料】『悪魔弾』 if(s[22])
-> CONTEXT: Map002/events/1/pages/3/32/Choice/0
+> CONTEXT: Map002/events/1/pages/3/32/Choice/0 < UNTRANSLATED
 【Material】 "Demon rounds"if(s[22])#MTLed
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\r[a4]
-> CONTEXT: Map002/events/1/pages/3/34/ChoiceHelp
-\\r[a4]#NoTL
+作者：ネコマタ狂アラン（制作者）
+> CONTEXT: Map002/events/1/pages/3/34/ChoiceHelp < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -4258,21 +4643,27 @@ chapter9　枯渇　-depletion-#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\r[a]
-> CONTEXT: Map002/events/1/pages/3/50/ChoiceHelp
-\\r[a]#NoTL
+作者：ネコマタ狂アラン（制作者）
+> CONTEXT: Map002/events/1/pages/3/50/ChoiceHelp < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\r[b]
-> CONTEXT: Map002/events/1/pages/3/59/ChoiceHelp
-\\r[b]#NoTL
+作者：ネコマタ狂アラン（制作者）
+> CONTEXT: Map002/events/1/pages/3/59/ChoiceHelp < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\r[d]
-> CONTEXT: Map002/events/1/pages/3/68/ChoiceHelp
-\\r[d]#NoTL
+作者：ネコマタ狂アラン（制作者）
+> CONTEXT: Map002/events/1/pages/3/68/ChoiceHelp < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -4284,21 +4675,27 @@ chapter9　枯渇　-depletion-#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\r[a1]
-> CONTEXT: Map002/events/1/pages/3/79/ChoiceHelp
-\\r[a1]#NoTL
+作者：ネコマタ狂アラン（制作者）
+> CONTEXT: Map002/events/1/pages/3/79/ChoiceHelp < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\r[a2]
-> CONTEXT: Map002/events/1/pages/3/88/ChoiceHelp
-\\r[a2]#NoTL
+作者：ネコマタ狂アラン（制作者）
+> CONTEXT: Map002/events/1/pages/3/88/ChoiceHelp < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\r[a3]
-> CONTEXT: Map002/events/1/pages/3/97/ChoiceHelp
-\\r[a3]#NoTL
+作者：ネコマタ狂アラン（制作者）
+> CONTEXT: Map002/events/1/pages/3/97/ChoiceHelp < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -4310,21 +4707,27 @@ chapter9　枯渇　-depletion-#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\r[d1]
-> CONTEXT: Map002/events/1/pages/3/108/ChoiceHelp
-\\r[d1]#NoTL
+作者：ネコマタ狂アラン（制作者）
+> CONTEXT: Map002/events/1/pages/3/108/ChoiceHelp < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\r[d2]
-> CONTEXT: Map002/events/1/pages/3/117/ChoiceHelp
-\\r[d2]#NoTL
+作者：ネコマタ狂アラン（制作者）
+> CONTEXT: Map002/events/1/pages/3/117/ChoiceHelp < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\r[d3]
-> CONTEXT: Map002/events/1/pages/3/126/ChoiceHelp
-\\r[d3]#NoTL
+作者：ネコマタ狂アラン（制作者）
+> CONTEXT: Map002/events/1/pages/3/126/ChoiceHelp < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -4334,9 +4737,11 @@ chapter9　枯渇　-depletion-#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\r[e]
-> CONTEXT: Map002/events/1/pages/3/142/ChoiceHelp
-\\r[e]#NoTL
+作者：ネコマタ狂アラン（制作者）
+> CONTEXT: Map002/events/1/pages/3/142/ChoiceHelp < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -4352,15 +4757,19 @@ chapter9　枯渇　-depletion-#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\r[e1]
-> CONTEXT: Map002/events/1/pages/3/153/ChoiceHelp
-\\r[e1]#NoTL
+作者：ネコマタ狂アラン（制作者）
+> CONTEXT: Map002/events/1/pages/3/153/ChoiceHelp < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\r[e2]
-> CONTEXT: Map002/events/1/pages/3/162/ChoiceHelp
-\\r[e2]#NoTL
+作者：ネコマタ狂アラン（制作者）
+> CONTEXT: Map002/events/1/pages/3/162/ChoiceHelp < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -4376,15 +4785,19 @@ Hecate 【Standby 2】if(s[24])#MTLed
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\r[f]
-> CONTEXT: Map002/events/1/pages/3/173/ChoiceHelp
-\\r[f]#NoTL
+作者：ネコマタ狂アラン（制作者）
+> CONTEXT: Map002/events/1/pages/3/173/ChoiceHelp < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\r[g]
-> CONTEXT: Map002/events/1/pages/3/182/ChoiceHelp
-\\r[g]#NoTL
+作者：ネコマタ狂アラン（制作者）
+> CONTEXT: Map002/events/1/pages/3/182/ChoiceHelp < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -4402,27 +4815,35 @@ Hecate 【Standby 2】if(s[24])#MTLed
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\r[i1]
-> CONTEXT: Map002/events/1/pages/3/200/ChoiceHelp
-\\r[i1]#NoTL
+作者：ネコマタ狂アラン（制作者）
+> CONTEXT: Map002/events/1/pages/3/200/ChoiceHelp < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\r[i2]
-> CONTEXT: Map002/events/1/pages/3/209/ChoiceHelp
-\\r[i2]#NoTL
+作者：ネコマタ狂アラン（制作者）
+> CONTEXT: Map002/events/1/pages/3/209/ChoiceHelp < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\r[i3]
-> CONTEXT: Map002/events/1/pages/3/218/ChoiceHelp
-\\r[i3]#NoTL
+作者：ネコマタ狂アラン（制作者）
+> CONTEXT: Map002/events/1/pages/3/218/ChoiceHelp < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\r[i4]
-> CONTEXT: Map002/events/1/pages/3/229/ChoiceHelp
-\\r[i4]#NoTL
+作者：ネコマタ狂アラン（制作者）
+> CONTEXT: Map002/events/1/pages/3/229/ChoiceHelp < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -4438,15 +4859,19 @@ Hecate 【Standby 2】if(s[24])#MTLed
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\r[j]
-> CONTEXT: Map002/events/1/pages/3/240/ChoiceHelp
-\\r[j]#NoTL
+作者：ネコマタ狂アラン（制作者）
+> CONTEXT: Map002/events/1/pages/3/240/ChoiceHelp < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\r[k]
-> CONTEXT: Map002/events/1/pages/3/249/ChoiceHelp
-\\r[k]#NoTL
+作者：ネコマタ狂アラン（制作者）
+> CONTEXT: Map002/events/1/pages/3/249/ChoiceHelp < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -4468,21 +4893,27 @@ Hecate 【Standby 2】if(s[24])#MTLed
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\r[l]
-> CONTEXT: Map002/events/1/pages/3/267/ChoiceHelp
-\\r[l]#NoTL
+作者：ネコマタ狂アラン（制作者）
+> CONTEXT: Map002/events/1/pages/3/267/ChoiceHelp < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\r[l1]
-> CONTEXT: Map002/events/1/pages/3/276/ChoiceHelp
-\\r[l1]#NoTL
+作者：ネコマタ狂アラン（制作者）
+> CONTEXT: Map002/events/1/pages/3/276/ChoiceHelp < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\r[l2]
-> CONTEXT: Map002/events/1/pages/3/285/ChoiceHelp
-\\r[l2]#NoTL
+作者：ネコマタ狂アラン（制作者）
+> CONTEXT: Map002/events/1/pages/3/285/ChoiceHelp < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -4492,9 +4923,11 @@ Hecate 【Standby 2】if(s[24])#MTLed
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\r[m]
-> CONTEXT: Map002/events/1/pages/3/296/ChoiceHelp
-\\r[m]#NoTL
+作者：ネコマタ狂アラン（制作者）
+> CONTEXT: Map002/events/1/pages/3/296/ChoiceHelp < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -4504,9 +4937,11 @@ Hecate 【Standby 2】if(s[24])#MTLed
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\r[m2]
-> CONTEXT: Map002/events/1/pages/3/307/ChoiceHelp
-\\r[m2]#NoTL
+作者：ネコマタ狂アラン（制作者）
+> CONTEXT: Map002/events/1/pages/3/307/ChoiceHelp < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -4528,21 +4963,27 @@ Hecate 【Standby 2】if(s[24])#MTLed
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\r[n]
-> CONTEXT: Map002/events/1/pages/3/325/ChoiceHelp
-\\r[n]#NoTL
+作者：ネコマタ狂アラン（制作者）
+> CONTEXT: Map002/events/1/pages/3/325/ChoiceHelp < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\r[n1]
-> CONTEXT: Map002/events/1/pages/3/334/ChoiceHelp
-\\r[n1]#NoTL
+作者：ネコマタ狂アラン（制作者）
+> CONTEXT: Map002/events/1/pages/3/334/ChoiceHelp < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\r[n2]
-> CONTEXT: Map002/events/1/pages/3/343/ChoiceHelp
-\\r[n2]#NoTL
+作者：ネコマタ狂アラン（制作者）
+> CONTEXT: Map002/events/1/pages/3/343/ChoiceHelp < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -4552,9 +4993,11 @@ Hecate 【Standby 2】if(s[24])#MTLed
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\r[n3]
-> CONTEXT: Map002/events/1/pages/3/354/ChoiceHelp
-\\r[n3]#NoTL
+作者：ネコマタ狂アラン（制作者）
+> CONTEXT: Map002/events/1/pages/3/354/ChoiceHelp < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -4564,9 +5007,11 @@ Hecate 【Standby 2】if(s[24])#MTLed
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\r[s]
-> CONTEXT: Map002/events/1/pages/3/372/ChoiceHelp
-\\r[s]#NoTL
+作者：ネコマタ狂アラン（制作者）
+> CONTEXT: Map002/events/1/pages/3/372/ChoiceHelp < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -4589,27 +5034,35 @@ Hecate 【Standby 2】if(s[24])#MTLed
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\r[o]
-> CONTEXT: Map002/events/1/pages/3/383/ChoiceHelp
-\\r[o]#NoTL
+作者：ネコマタ狂アラン（制作者）
+> CONTEXT: Map002/events/1/pages/3/383/ChoiceHelp < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\r[o1]
-> CONTEXT: Map002/events/1/pages/3/392/ChoiceHelp
-\\r[o1]#NoTL
+作者：ネコマタ狂アラン（制作者）
+> CONTEXT: Map002/events/1/pages/3/392/ChoiceHelp < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\r[o2]
-> CONTEXT: Map002/events/1/pages/3/401/ChoiceHelp
-\\r[o2]#NoTL
+作者：ネコマタ狂アラン（制作者）
+> CONTEXT: Map002/events/1/pages/3/401/ChoiceHelp < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\r[o3]
-> CONTEXT: Map002/events/1/pages/3/410/ChoiceHelp
-\\r[o3]#NoTL
+作者：ネコマタ狂アラン（制作者）
+> CONTEXT: Map002/events/1/pages/3/410/ChoiceHelp < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -4620,15 +5073,19 @@ Hecate 【Standby 2】if(s[24])#MTLed
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\r[p]
-> CONTEXT: Map002/events/1/pages/3/421/ChoiceHelp
-\\r[p]#NoTL
+作者：ネコマタ狂アラン（制作者）
+> CONTEXT: Map002/events/1/pages/3/421/ChoiceHelp < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\r[p1]
-> CONTEXT: Map002/events/1/pages/3/430/ChoiceHelp
-\\r[p1]#NoTL
+作者：ネコマタ狂アラン（制作者）
+> CONTEXT: Map002/events/1/pages/3/430/ChoiceHelp < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -4648,33 +5105,43 @@ Hecate 【Standby 2】if(s[24])#MTLed
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\r[q]
-> CONTEXT: Map002/events/1/pages/3/448/ChoiceHelp
-\\r[q]#NoTL
+作者：ネコマタ狂アラン（制作者）
+> CONTEXT: Map002/events/1/pages/3/448/ChoiceHelp < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\r[q1]
-> CONTEXT: Map002/events/1/pages/3/457/ChoiceHelp
-\\r[q1]#NoTL
+作者：ネコマタ狂アラン（制作者）
+> CONTEXT: Map002/events/1/pages/3/457/ChoiceHelp < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\r[q2]
-> CONTEXT: Map002/events/1/pages/3/466/ChoiceHelp
-\\r[q2]#NoTL
+作者：ネコマタ狂アラン（制作者）
+> CONTEXT: Map002/events/1/pages/3/466/ChoiceHelp < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\r[q3]
-> CONTEXT: Map002/events/1/pages/3/475/ChoiceHelp
-\\r[q3]#NoTL
+作者：ネコマタ狂アラン（制作者）
+> CONTEXT: Map002/events/1/pages/3/475/ChoiceHelp < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\r[q5]
-> CONTEXT: Map002/events/1/pages/3/486/ChoiceHelp
-\\r[q5]#NoTL
+作者：ネコマタ狂アラン（制作者）
+> CONTEXT: Map002/events/1/pages/3/486/ChoiceHelp < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -4685,21 +5152,27 @@ Hecate 【Standby 2】if(s[24])#MTLed
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\r[q6]
-> CONTEXT: Map002/events/1/pages/3/497/ChoiceHelp
-\\r[q6]#NoTL
+作者：ネコマタ狂アラン（制作者）
+> CONTEXT: Map002/events/1/pages/3/497/ChoiceHelp < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\r[q7]
-> CONTEXT: Map002/events/1/pages/3/508/ChoiceHelp
-\\r[q7]#NoTL
+作者：ネコマタ狂アラン（制作者）
+> CONTEXT: Map002/events/1/pages/3/508/ChoiceHelp < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\r[q4]
-> CONTEXT: Map002/events/1/pages/3/519/ChoiceHelp
-\\r[q4]#NoTL
+作者：ネコマタ狂アラン（制作者）
+> CONTEXT: Map002/events/1/pages/3/519/ChoiceHelp < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -4719,39 +5192,51 @@ Hecate 【Standby 2】if(s[24])#MTLed
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\r[r]
-> CONTEXT: Map002/events/1/pages/3/537/ChoiceHelp
-\\r[r]#NoTL
+作者：ネコマタ狂アラン（制作者）
+> CONTEXT: Map002/events/1/pages/3/537/ChoiceHelp < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\r[r1]
-> CONTEXT: Map002/events/1/pages/3/546/ChoiceHelp
-\\r[r1]#NoTL
+作者：ネコマタ狂アラン（制作者）
+> CONTEXT: Map002/events/1/pages/3/546/ChoiceHelp < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\r[r2]
-> CONTEXT: Map002/events/1/pages/3/555/ChoiceHelp
-\\r[r2]#NoTL
+作者：ネコマタ狂アラン（制作者）
+> CONTEXT: Map002/events/1/pages/3/555/ChoiceHelp < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\r[r3]
-> CONTEXT: Map002/events/1/pages/3/564/ChoiceHelp
-\\r[r3]#NoTL
+作者：ネコマタ狂アラン（制作者）
+> CONTEXT: Map002/events/1/pages/3/564/ChoiceHelp < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\r[r4]
-> CONTEXT: Map002/events/1/pages/3/575/ChoiceHelp
-\\r[r4]#NoTL
+作者：ネコマタ狂アラン（制作者）
+> CONTEXT: Map002/events/1/pages/3/575/ChoiceHelp < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\r[r5]
-> CONTEXT: Map002/events/1/pages/3/584/ChoiceHelp
-\\r[r5]#NoTL
+作者：ネコマタ狂アラン（制作者）
+> CONTEXT: Map002/events/1/pages/3/584/ChoiceHelp < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -4762,15 +5247,19 @@ Hecate 【Standby 2】if(s[24])#MTLed
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\r[t]
-> CONTEXT: Map002/events/1/pages/3/602/ChoiceHelp
-\\r[t]#NoTL
+作者：ネコマタ狂アラン（制作者）
+> CONTEXT: Map002/events/1/pages/3/602/ChoiceHelp < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\r[t1]
-> CONTEXT: Map002/events/1/pages/3/611/ChoiceHelp
-\\r[t1]#NoTL
+作者：ネコマタ狂アラン（制作者）
+> CONTEXT: Map002/events/1/pages/3/611/ChoiceHelp < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -4798,27 +5287,35 @@ Hecate 【Standby 2】if(s[24])#MTLed
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\r[u]
-> CONTEXT: Map002/events/1/pages/3/629/ChoiceHelp
-\\r[u]#NoTL
+作者：ネコマタ狂アラン（制作者）
+> CONTEXT: Map002/events/1/pages/3/629/ChoiceHelp < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\r[u1]
-> CONTEXT: Map002/events/1/pages/3/638/ChoiceHelp
-\\r[u1]#NoTL
+作者：ネコマタ狂アラン（制作者）
+> CONTEXT: Map002/events/1/pages/3/638/ChoiceHelp < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\r[u2]
-> CONTEXT: Map002/events/1/pages/3/647/ChoiceHelp
-\\r[u2]#NoTL
+作者：ネコマタ狂アラン（制作者）
+> CONTEXT: Map002/events/1/pages/3/647/ChoiceHelp < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\r[u3]
-> CONTEXT: Map002/events/1/pages/3/656/ChoiceHelp
-\\r[u3]#NoTL
+作者：ネコマタ狂アラン（制作者）
+> CONTEXT: Map002/events/1/pages/3/656/ChoiceHelp < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -4834,15 +5331,19 @@ Hecate 【Standby 2】if(s[24])#MTLed
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\r[u4]
-> CONTEXT: Map002/events/1/pages/3/667/ChoiceHelp
-\\r[u4]#NoTL
+作者：ネコマタ狂アラン（制作者）
+> CONTEXT: Map002/events/1/pages/3/667/ChoiceHelp < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\r[u5]
-> CONTEXT: Map002/events/1/pages/3/676/ChoiceHelp
-\\r[u5]#NoTL
+作者：ネコマタ狂アラン（制作者）
+> CONTEXT: Map002/events/1/pages/3/676/ChoiceHelp < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -4864,21 +5365,27 @@ True Mercy route theme song lyricsif(s[531])#MTLed
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\r[v]
-> CONTEXT: Map002/events/1/pages/3/694/ChoiceHelp
-\\r[v]#NoTL
+作者：ネコマタ狂アラン（制作者）
+> CONTEXT: Map002/events/1/pages/3/694/ChoiceHelp < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\r[v2]
-> CONTEXT: Map002/events/1/pages/3/703/ChoiceHelp
-\\r[v2]#NoTL
+作者：ネコマタ狂アラン（制作者）
+> CONTEXT: Map002/events/1/pages/3/703/ChoiceHelp < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\r[w]
-> CONTEXT: Map002/events/1/pages/3/712/ChoiceHelp
-\\r[w]#NoTL
+作者：ネコマタ狂アラン（制作者）
+> CONTEXT: Map002/events/1/pages/3/712/ChoiceHelp < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -5104,7 +5611,11 @@ True mercy route theme songif(s[531])#MTLed
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>【投稿者】：まるたろう様
+【ジャンル】：実況プレイ
+【概要】：SHRIFT実況プレイ（真慈悲ルート）
+【備考】：一度削除されたので再UP版
 > CONTEXT: Map002/events/1/pages/5/8/ChoiceHelp
 
 > END STRING
@@ -5116,7 +5627,10 @@ True mercy route theme songif(s[531])#MTLed
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>【投稿者】：田井中達也様
+【ジャンル】：音楽
+【概要】：真慈悲ルート主題歌のギターアレンジ
 > CONTEXT: Map002/events/1/pages/5/19/ChoiceHelp
 
 > END STRING
