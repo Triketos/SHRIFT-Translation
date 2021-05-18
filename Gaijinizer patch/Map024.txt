@@ -1,6 +1,13 @@
 ﻿> GAIJINIZER PATCH FILE
 > BEGIN STRING
-心を閉ざした
+<namepop バーゲスト\>
+> CONTEXT: Map024/events/4/pages/1/0/NamePop
+> CONTEXT: Map193/events/4/pages/1/0/NamePop
+<namepop Barghest\>#Triketos
+> END STRING
+
+> BEGIN STRING
+<namepop 心を閉ざした\>
 > CONTEXT: Map024/events/4/pages/2/0/NamePop
 > CONTEXT: Map024/events/1/pages/2/0/NamePop
 > CONTEXT: Map024/events/8/pages/2/0/NamePop
@@ -37,7 +44,33 @@
 > CONTEXT: Map194/events/30/pages/2/0/NamePop
 > CONTEXT: Map194/events/14/pages/2/0/NamePop
 > CONTEXT: Map194/events/15/pages/2/0/NamePop
-I_closed_my_heart#MTLed
+<namepop I_closed_my_heart\>#MTLed
+> END STRING
+
+> BEGIN STRING
+<namepop ランパス\>
+> CONTEXT: Map024/events/1/pages/1/0/NamePop
+> CONTEXT: Map193/events/1/pages/1/0/NamePop
+<namepop Lampas\>#Triketos
+> END STRING
+
+> BEGIN STRING
+<namepop アイアンメイデン\>
+> CONTEXT: Map024/events/7/pages/1/0/NamePop
+> CONTEXT: Map024/events/7/pages/2/0/NamePop
+> CONTEXT: Map193/events/7/pages/1/0/NamePop
+> CONTEXT: Map193/events/7/pages/2/0/NamePop
+> CONTEXT: Map194/events/7/pages/1/0/NamePop
+> CONTEXT: Map194/events/7/pages/2/0/NamePop
+<namepop Iron_Maiden\>#Triketos
+> END STRING
+
+> BEGIN STRING
+<namepop エンプーサ\>
+> CONTEXT: Map024/events/8/pages/1/0/NamePop
+> CONTEXT: Map193/events/8/pages/1/0/NamePop
+> CONTEXT: Map194/events/8/pages/1/0/NamePop
+<namepop Empuse\>#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -445,25 +478,81 @@ sure about.#Ron
 > END STRING
 
 > BEGIN STRING
-ハル＆リズ
+<namepop マザーラビット\>
+> CONTEXT: Map024/events/28/pages/1/0/NamePop
+> CONTEXT: Map193/events/28/pages/1/0/NamePop
+> CONTEXT: Map194/events/28/pages/1/0/NamePop
+<namepop Mother_Rabbit\>#Triketos
+> END STRING
+
+> BEGIN STRING
+<namepop ハル＆リズ\>
 > CONTEXT: Map024/events/9/pages/1/0/NamePop
 > CONTEXT: Map193/events/9/pages/1/0/NamePop
 > CONTEXT: Map194/events/9/pages/1/0/NamePop
-Haru_&_Liz#Triketos
+<namepop Haru_&_Liz\>#Triketos
 > END STRING
 
 > BEGIN STRING
 【←】チャプター２
 > CONTEXT: Map024/events/10/pages/0/0/Dialogue
 > CONTEXT: Map193/events/10/pages/0/0/Dialogue
-【←】 Chapter 2#MTLed
+【←】 Chapter 2#Triketos
 > END STRING
 
 > BEGIN STRING
 【→】チャプター３・４
 > CONTEXT: Map024/events/29/pages/0/0/Dialogue
 > CONTEXT: Map193/events/29/pages/0/0/Dialogue
-【→】 Chapters 3 and 4#MTLed
+【→】 Chapters 3 and 4#Triketos
+> END STRING
+
+> BEGIN STRING
+<namepop 躯\>
+> CONTEXT: Map024/events/11/pages/1/0/NamePop
+> CONTEXT: Map193/events/11/pages/1/0/NamePop
+> CONTEXT: Map194/events/11/pages/1/0/NamePop
+<namepop Mukuro\>#Triketos
+> END STRING
+
+> BEGIN STRING
+<namepop ニーナ\>
+> CONTEXT: Map024/events/12/pages/1/0/NamePop
+> CONTEXT: Map193/events/12/pages/1/0/NamePop
+> CONTEXT: Map194/events/12/pages/1/0/NamePop
+<namepop Nina\>#Triketos
+> END STRING
+
+> BEGIN STRING
+<namepop スフィンクス\>
+> CONTEXT: Map024/events/13/pages/1/0/NamePop
+> CONTEXT: Map193/events/13/pages/1/0/NamePop
+> CONTEXT: Map194/events/13/pages/1/0/NamePop
+<namepop Sphinx\>#Triketos
+> END STRING
+
+> BEGIN STRING
+<namepop エコー\>
+> CONTEXT: Map024/events/30/pages/1/0/NamePop
+> CONTEXT: Map193/events/30/pages/1/0/NamePop
+> CONTEXT: Map194/events/30/pages/1/0/NamePop
+<namepop Echo\>#Triketos
+> END STRING
+
+> BEGIN STRING
+<namepop アルケニー\>
+> CONTEXT: Map024/events/14/pages/1/0/NamePop
+> CONTEXT: Map193/events/14/pages/1/0/NamePop
+> CONTEXT: Map194/events/14/pages/1/0/NamePop
+<namepop Arachne\>#Triketos
+> END STRING
+
+> BEGIN STRING
+<namepop ティタノボア\>
+> CONTEXT: Map024/events/15/pages/1/0/NamePop
+> CONTEXT: Map193/events/15/pages/1/0/NamePop
+> CONTEXT: Map194/events/15/pages/1/0/NamePop
+<namepop Titanoboa\>#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -503,4 +592,18 @@ Cat「\\C[2]If there's someone you want to get engaged to, you
 > CONTEXT: Map024/events/42/pages/1/13/Dialogue
 > CONTEXT: Map194/events/42/pages/1/13/Dialogue
 Cat「That's my warning to you...」#Ron
+> END STRING
+
+> BEGIN STRING
+<namepop カマソッソ\>
+> CONTEXT: Map024/events/5/pages/1/0/NamePop
+> CONTEXT: Map193/events/17/pages/1/0/NamePop
+<namepop Camazotz\>#Triketos
+> END STRING
+
+> BEGIN STRING
+<namepop 妲己\>
+> CONTEXT: Map024/events/3/pages/1/0/NamePop
+> CONTEXT: Map193/events/18/pages/1/0/NamePop
+<namepop Daji\>#Triketos
 > END STRING
