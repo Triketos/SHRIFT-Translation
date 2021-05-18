@@ -28,10 +28,30 @@ Milking (Grooming)en(v[45] \>= 50)#Ron
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 【マザーラビット】種族：魔獣
+友好度：\\V[45]
 > CONTEXT: Map062/events/5/pages/0/33/ChoiceHelp
 [Mother Rabbit] Race: Magical Beast
 Current Friendship: \\C[2]\\v[45]\\C[0]#Ron
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度２５以上\\C[0]】
+（現在友好度　　\\V[45]/100）
+> CONTEXT: Map062/events/5/pages/0/40/ChoiceHelp
+Requires:【\\C[2] Friendship 25+\\C[0]】
+Current Friendship: \\C[2]\\v[45]\\C[0]#Triketos
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度５０以上\\C[0]】
+（現在友好度　　\\V[45]/100）
+> CONTEXT: Map062/events/5/pages/0/73/ChoiceHelp
+Requires:【\\C[2] Friendship 50+\\C[0]】
+Current Friendship: \\C[2]\\v[45]\\C[0]#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -62,6 +82,15 @@ Clear corruptionif(v[45] \>= 100)#Ron
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度１００\\C[0]】
+（現在友好度　　\\V[45]/100）
+> CONTEXT: Map062/events/5/pages/0/216/ChoiceHelp
+Requires:【\\C[2] Friendship 100\\C[0]】
+Current Friendship: \\C[2]\\v[45]\\C[0]#Triketos
+> END STRING
+
+> BEGIN STRING
 いらっしゃい…ボウヤ♡
 
 私が癒やしてあげる…♡
@@ -81,6 +110,17 @@ I'll heal you... ♡#Ron
 心蝕を消す（アナオン）if(v[37] \>= 2) 
 > CONTEXT: Map062/events/5/pages/0/244/Choice/0
 Clear corruption (Anaon)if(v[37] \>= 2#Strate
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度１００\\C[0]】
+（現在友好度　　\\V[49]/100）
+> CONTEXT: Map062/events/5/pages/0/246/ChoiceHelp
+> CONTEXT: Map119/events/5/pages/0/223/ChoiceHelp
+> CONTEXT: Map119/events/5/pages/0/254/ChoiceHelp
+Requires:【\\C[2] Friendship 100\\C[0]】
+Current Friendship: \\C[2]\\v[49]\\C[0]#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -168,6 +208,15 @@ Her Raceen(v[45] \>= 40)#Ron
 体毛についてen(v[45] \>= 60) 
 > CONTEXT: Map062/events/5/pages/1/7/Choice/2
 Her Furen(v[45] \>= 60)#Ron
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度３０以上\\C[0]】
+（現在友好度　　\\V[45]/100）
+> CONTEXT: Map062/events/5/pages/1/9/ChoiceHelp
+Requires:【\\C[2] Friendship 30+\\C[0]】
+Current Friendship: \\C[2]\\v[45]\\C[0]#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -383,6 +432,15 @@ When you're being held by me... you'll be my one
 and only...
 
 Mommy's one and only little boy... ♡#Ron
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度４０以上\\C[0]】
+（現在友好度　　\\V[45]/100）
+> CONTEXT: Map062/events/5/pages/1/104/ChoiceHelp
+Requires:【\\C[2] Friendship 40+\\C[0]】
+Current Friendship: \\C[2]\\v[45]\\C[0]#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -616,6 +674,15 @@ Hmm, I wonder... ♡#Ron
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度６０以上\\C[0]】
+（現在友好度　　\\V[45]/100）
+> CONTEXT: Map062/events/5/pages/1/220/ChoiceHelp
+Requires:【\\C[2] Friendship 60+\\C[0]】
+Current Friendship: \\C[2]\\v[45]\\C[0]#Triketos
+> END STRING
+
+> BEGIN STRING
 マザーラビットの身体って、
 
 なんというか、不思議な感じだよね……
@@ -776,6 +843,15 @@ No one's ever escaped from you...#Ron
 【キズナイベント】if(v[45] \>= 99) 
 > CONTEXT: Map062/events/5/pages/1/292/Choice/0
 [Bonding]if(v[45] \>= 99)#Ron
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度９９以上\\C[0]】
+（現在友好度　　\\V[45]/100）
+> CONTEXT: Map062/events/5/pages/1/294/ChoiceHelp
+Requires:【\\C[2] Friendship 99+\\C[0]】
+Current Friendship: \\C[2]\\v[45]\\C[0]#Triketos
 > END STRING
 
 > BEGIN STRING
