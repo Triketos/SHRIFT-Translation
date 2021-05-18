@@ -79,8 +79,8 @@ I'll heal you... ♡#Ron
 
 > BEGIN STRING
 心蝕を消す（アナオン）if(v[37] \>= 2) 
-> CONTEXT: Map062/events/5/pages/0/244/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Map062/events/5/pages/0/244/Choice/0
+Clear corruption (Anaon)if(v[37] \>= 2#Strate
 > END STRING
 
 > BEGIN STRING
@@ -100,8 +100,11 @@ you build a bond with her...#Ron
 何も言わなくて。
 
 悪い悪魔にそそのかされてしまったのね？
-> CONTEXT: Map062/events/5/pages/0/261/Dialogue/enemy4 < UNTRANSLATED
+> CONTEXT: Map062/events/5/pages/0/261/Dialogue/enemy4
+......It's okay, little boy. You don't need to
+say a word.
 
+You've been seduced by a bad demon, haven't you?#Strate
 > END STRING
 
 > BEGIN STRING
@@ -109,30 +112,34 @@ you build a bond with her...#Ron
 
 ここに来たということは
 あなたは、私の『ボウヤ』でいたいのよね…？♡
-> CONTEXT: Map062/events/5/pages/0/266/Dialogue/enemy4 < UNTRANSLATED
-
+> CONTEXT: Map062/events/5/pages/0/266/Dialogue/enemy4
+You've come to mommy's welcoming arms because
+you want to be my little boy, right...? ♡#StrateUnsureLocalization
 > END STRING
 
 > BEGIN STRING
 大丈夫、ママも何も聞かないわ。
 
 ボウヤの想いに、応えてあげる…
-> CONTEXT: Map062/events/5/pages/0/271/Dialogue/enemy4 < UNTRANSLATED
+> CONTEXT: Map062/events/5/pages/0/271/Dialogue/enemy4
+It's okay, mommy won't ask any questions.
 
+I will return your feelings...#Strate
 > END STRING
 
 > BEGIN STRING
 彼女と親しく触れ合ったことで
 
 アナオンの心蝕は軽減されたようだ……。
-> CONTEXT: Map062/events/5/pages/0/278/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map062/events/5/pages/0/278/Dialogue
+Being intimate with her appears to have weakened Anaon's
+corruption......#Strate
 > END STRING
 
 > BEGIN STRING
 "アナオンの心蝕がLv１になった！！"
-> CONTEXT: Map062/events/5/pages/0/282/InlineScript/1:12 < UNTRANSLATED
-
+> CONTEXT: Map062/events/5/pages/0/282/InlineScript/1:12
+"Anaon's corruption became Lv1!!"#Strate
 > END STRING
 
 > BEGIN STRING
