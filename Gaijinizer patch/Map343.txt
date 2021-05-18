@@ -19,10 +19,9 @@
 
 深淵から伸びた手を、自身の味方だと思い込んだ悲劇…
 > CONTEXT: Map343/events/4/pages/1/1/Dialogue/other1
-The witch who tried to take advantage of the
-demon's fleeting dreams
-The tragedy of thinking that the hand extended
-from the abyss was her own ally...#DL
+A witch who tried to use the fleeting dream of
+a demon, and the tragedy of believing a hand
+reaching out from the abyss could ever be an ally.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -32,8 +31,8 @@ from the abyss was her own ally...#DL
 どういう結末ならば、ああなるのかと。
 > CONTEXT: Map343/events/4/pages/1/5/Dialogue/other1
 Were you intrigued to learn that "That" was
-Kazuya-sama? I wondered what kind of ending
-would make that happen.#DL
+\\N[1]-sama? Did you wonder what ending had
+befallen him to end up in such a state?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -42,10 +41,10 @@ would make that happen.#DL
 あなたは既に、その結末はご存じですね。
 自分の手で、『あれ』を受け入れたのですから……
 > CONTEXT: Map343/events/4/pages/1/11/Dialogue/other1
-\\C[10]Pardon me......
+\\C[10]My apologies...
 
-But you already know how it ends, don't you?
-You accepted "It" by yourself....#DL
+You already know all about that ending, don't you?
+You accepted "that" into your heart, after all.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -54,10 +53,10 @@ You accepted "It" by yourself....#DL
 初めは小さな好奇心で手を伸ばしたつもりでも
 あなたの手を強く掴み、引きずり込んできます。
 > CONTEXT: Map343/events/4/pages/1/18/Dialogue/other1
-That's exactly what "It" is all about.
-At first you may think you're reaching out
-with a small curiosity, but it will grab your
-hand tightly and pull you in.#DL
+That's exactly what "It" wants you to do.
+At first you tentatively reach into the abyss out
+of idle curiosity, only to find your hand firmly
+grasped and your whole self pulled in.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -66,12 +65,10 @@ hand tightly and pull you in.#DL
 
 そして隙あらば、引きずり込もうとしてくるのです…
 > CONTEXT: Map343/events/4/pages/1/25/Dialogue/other1
-Even if you try to avoid "It", they are always
-watching you, and if there is an opening,
-they will try to pull you in.
-
-And when it has a chance, it will try
-to drag you down...#DL
+Even if you avoid being seen by "It", you are
+always being watched from the other side.
+And should they ever find an opening, they'll try
+to pull you in.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -80,10 +77,10 @@ to drag you down...#DL
 
 たとえ、『あれ』とは無縁な結末を迎えたあなたでも…
 > CONTEXT: Map343/events/4/pages/1/30/Dialogue/other1
-Just as Hecate tried to get you to kill her,
-there are more ways for it to get in.
-
-Even if you've ended up with no connection to that...#DL
+Just as when Hecate tried to fill you with
+killing intent, there are still many more ways
+it can take you over. Even for someone like you
+who's ended up with no connection to "It"...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -92,10 +89,10 @@ Even if you've ended up with no connection to that...#DL
 あなたが紡いだ慈悲の結末自体が
 すでにでたらめな奇跡の重なりで成り立つ、脆いもの
 > CONTEXT: Map343/events/4/pages/1/35/Dialogue/other1
-I'm not saying that you shouldn't hate them.
+I'm not saying you can't hate your opponents.
 The end result of the mercy you spun is
 itself a fragile one, made up of layers of bogus
-miracles already.#DL
+miracles already.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -103,8 +100,11 @@ miracles already.#DL
 誰にでもできる事象ではないのです
 
 どうかその『奇跡』、一時の感情で溢してしまわぬように…
-> CONTEXT: Map343/events/4/pages/1/40/Dialogue/other1 < UNTRANSLATED
-
+> CONTEXT: Map343/events/4/pages/1/40/Dialogue/other1
+But it's for that reason that not just anyone
+could achieve that. So please try to ensure that
+you don't let temporary feelings of hate spill
+out.#RonLocalizationIffy
 > END STRING
 
 > BEGIN STRING
@@ -112,8 +112,11 @@ miracles already.#DL
 そして、貴方の『キズナ』の危うさ…
 
 現れた『すべてを知る猫』……
-> CONTEXT: Map343/events/7/pages/1/1/Dialogue/other1 < UNTRANSLATED
+> CONTEXT: Map343/events/7/pages/1/1/Dialogue/other1
+A lion who'd regained her intelligence, the
+precariousness of your bonds...
 
+And the appearance of an all-knowing cat.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -121,8 +124,10 @@ miracles already.#DL
 決して貴方の味方になったわけではありません
 
 あくまで、心を通わせているだけに過ぎないのです。
-> CONTEXT: Map343/events/7/pages/1/6/Dialogue/other1 < UNTRANSLATED
-
+> CONTEXT: Map343/events/7/pages/1/6/Dialogue/other1
+The girls in My Room are not necessarily your
+allies. At most, you've done nothing more than
+formed some kind of connection with them.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -130,16 +135,19 @@ miracles already.#DL
 貴方に不利益なことも、あるいは行うかもしれません
 
 それをお忘れなきように…
-> CONTEXT: Map343/events/7/pages/1/11/Dialogue/other1 < UNTRANSLATED
-
+> CONTEXT: Map343/events/7/pages/1/11/Dialogue/other1
+They may be prepared to do things that are not
+in your interest if it meant being able to obtain
+you. You'd do well not to forget that.#Ron
 > END STRING
 
 > BEGIN STRING
 そして…
 
 貴方の敵とも、味方ともなった『チェシャ』…
-> CONTEXT: Map343/events/7/pages/1/16/Dialogue/other1 < UNTRANSLATED
-
+> CONTEXT: Map343/events/7/pages/1/16/Dialogue/other1
+And then there's "Cheshire", who was both your
+ally and your enemy at varying times.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -147,8 +155,11 @@ miracles already.#DL
 
 恐れることはありません。
 貴方の信じる道を進むのです…
-> CONTEXT: Map343/events/7/pages/1/20/Dialogue/other1 < UNTRANSLATED
+> CONTEXT: Map343/events/7/pages/1/20/Dialogue/other1
+You're getting closer to the "truth".
 
+It's nothing to fear, so continue progressing
+down the road you believe in.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -156,9 +167,10 @@ miracles already.#DL
 
 『ニンゲン』……『ニンゲン』　ノ　ニオイ…
 > CONTEXT: Map343/events/8/pages/0/5/Dialogue
-Ooooo...!!
+Oooooh...!!
 
-I smell... human....#DL
+Human...
+A human's... smell...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -167,10 +179,10 @@ I smell... human....#DL
 なんだ、あのでっかい氷の塊……！
 中で、なにかが蠢いてる……
 > CONTEXT: Map343/events/8/pages/0/9/Dialogue/kazuya
-!!?
+?!!
 
 What's that big block of ice...?!
-Something's stirring inside...#DL
+Something's squirming inside...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -179,10 +191,10 @@ Something's stirring inside...#DL
 ご安心ください、『これ』は敵ではございません。
 少なくとも、今のところは……
 > CONTEXT: Map343/events/8/pages/0/14/Dialogue/other1
-...Are you surprised?
+...Apologies for shocking you like that.
 
 Rest assured, this is not an enemy.
-At least for now...#DL
+At least for now...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -193,7 +205,7 @@ At least for now...#DL
 ...This is the deepest layer of the Underworld,
 \\C[2]Tartarus\\C[0]...
 
-This was where I was... born...#DL
+This was where I was... born...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -205,7 +217,7 @@ This was where I was... born...#DL
 This ice is also known as the \\C[2]"Chains of 
 the Hecatoncheires"\\C[0].
 The demons imprisoned in Tartarus cannot move
-like this due to the freezing winds.#DL
+due to the freezing winds.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -214,10 +226,10 @@ like this due to the freezing winds.#DL
 
 不完全な『半身』である限り………
 > CONTEXT: Map343/events/8/pages/0/31/Dialogue/other1
-So... no matter how powerful it's magic is,
-even if it was the evil nine-tailed Black Fox...
+No matter how powerful it's magic, even if it was
+the evil nine-tailed Black Fox...
 
-As long as it is incomplete.......#DL
+As long as it remains half-complete...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -225,10 +237,10 @@ As long as it is incomplete.......#DL
 
 それに、冥羅さんの別名も、確か……
 > CONTEXT: Map343/events/8/pages/0/37/Dialogue/kazuya
-Wait a minute... you said 'incomplete'...
+Wait a minute... 'half-complete'...?
 
 And I'm pretty sure you've called yourself
-that, Meira...#DL
+that before, Meira-san...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -237,10 +249,10 @@ that, Meira...#DL
 \\C[2]『冥羅』は、『黒狐』より切り離された善なる個。
 『邪』より解放された、別なる人格………
 > CONTEXT: Map343/events/8/pages/0/44/Dialogue/other1
-Exactly...
-\\C[2]"Meira" is a seperate, good personality split
-off from the Black Fox. A completely different
-being, seperate from its evil...#DL
+Correct...
+\\C[2]"Meira" is a "good" personality that was cut
+free, released from its evil counterpart, The
+Black Fox, to live separately.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -250,9 +262,9 @@ being, seperate from its evil...#DL
 人を喰らい、人間界の全てを喰らおうとした大妖怪…
 > CONTEXT: Map343/events/8/pages/0/49/Dialogue/other1
 We were originally called the \\C[10]"Dawn"\\C[0], and
-existed together as one.
-It was a great spirit who tried to devour all
-of mankind...#DL
+existed together in the body of a single kitsune.
+We were a great yokai that would eat humans and
+try to devour the entire human realm.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -261,10 +273,10 @@ of mankind...#DL
 
 その魔力は夜深の得物である妖刀に封印されました。
 > CONTEXT: Map343/events/8/pages/0/54/Dialogue/other1
-However, they were defeated by a demon called
-Yami, who was in charge of protecting the human
-world. Their magical power was sealed inside of a
-magical sword.#DL
+However, we were subdued by a demon known as
+"Darkness", whose role was the protection of the
+human realm. And our magical power was sealed
+inside a special magical sword of night.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -274,7 +286,8 @@ magical sword.#DL
 > CONTEXT: Map343/events/8/pages/0/59/Dialogue/other1
 As time went on...
 
-The sword's owner died, and the sword was lost.#DL
+The sword's owner met with misfortune, and the
+weapon lost its owner.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -289,7 +302,7 @@ weaken and break.
 
 It's only a matter of time before the magical
 power of the Black Fox floods the human world
-and throws it into chaos.#DL
+and throws it into chaos.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -299,9 +312,9 @@ and throws it into chaos.#DL
 魔力を２つに別ち、善なる方を秘書官にすることで…
 > CONTEXT: Map343/events/8/pages/0/68/Dialogue/other1
 So the Lord of the Underworld decided to seal
-it in Tartarus and watch it.
-By separating its magical power into two and
-making the good half a secretary...#DL
+it in Tartarus and keep an eye on it.
+He did this by separating the power into two and
+making the good half into his secretary...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -309,9 +322,9 @@ making the good half a secretary...#DL
 
 ほんと何者なの………
 > CONTEXT: Map343/events/8/pages/0/74/Dialogue/kazuya
-Lord of the Underworld... \\C[2]Cushion\\C[0]-kun...
+Lord of the Underworld... \\C[2]Cushion-kun\\C[0]...
 
-Is he really...?#DL
+Just what is this guy?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -319,9 +332,8 @@ Is he really...?#DL
 
 これの監視も含まれてたから、なのかな……
 > CONTEXT: Map343/events/8/pages/0/78/Dialogue/kazuya
-So, you were in charge of the library, Meira?
-
-Probably because it included monitoring this...#DL
+So, I suppose putting you in charge of the
+library also meant observing this thing.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -329,9 +341,8 @@ Probably because it included monitoring this...#DL
 
 いつか私に『証明』してほしい、と。
 > CONTEXT: Map343/events/8/pages/0/85/Dialogue/other1
-...When I handed you that Compendium,
-I said that I wanted you to prove
-'it' to me one day.#DL
+...When I handed you that Compendium, I told you
+I wanted you to fill it out as "proof" to me.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -340,10 +351,10 @@ I said that I wanted you to prove
 
 私の……『冥羅』としての願いは、ただひとつ……
 > CONTEXT: Map343/events/8/pages/0/89/Dialogue/other1
-It's wasn't the possibility of humans and demons
-coexistencing or the result of that 
-'Intervention' before.
-There is only one wish I have as "Meira"...#DL
+The point of that wasn't to enable the possibility
+of human-demon coexistence, or to achieve the
+"Intervention" you managed at the end.
+There is only one wish I have as "Meira"...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -353,7 +364,7 @@ There is only one wish I have as "Meira"...#DL
 > CONTEXT: Map343/events/8/pages/0/94/Dialogue/other1
 \\C[10]I want you, a human...
 
-to subdue the "Black Fox".#DL
+To subdue the "Black Fox".#Ron
 > END STRING
 
 > BEGIN STRING
@@ -362,10 +373,10 @@ to subdue the "Black Fox".#DL
 で、でも、それってつまり……！？
 だ…大丈夫なの！？
 > CONTEXT: Map343/events/8/pages/0/99/Dialogue/kazuya
-W-what!?
+W-What?!
 
-But, but d-doesn't that mean...!?
-Are you... are you okay with this?#DL
+But, but d-doesn't that mean...?!
+Are you... are you okay with this?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -376,8 +387,8 @@ Are you... are you okay with this?#DL
 > CONTEXT: Map343/events/8/pages/0/107/Dialogue/クッション君
 Don't worry.
 \\C[2]Even if you defeat the Black Fox, Meira won't
-disappear. I have a 'contract' with my
-Secretary, after all.#DL
+disappear. I have a 'contract' with my secretary,
+after all.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -385,20 +396,20 @@ Secretary, after all.#DL
 
 いっつもいっつも、音なく現れるしホント何者！？
 > CONTEXT: Map343/events/8/pages/0/115/Dialogue/kazuya
-When did you get here!?
+Whoa, when did you get here?!
 
 You're always showing up without a single noise
-all the time. Who are you, really!?#DL
+all the time. Just what are you really?!#Ron
 > END STRING
 
 > BEGIN STRING
 ていうか、そんなこと許していいの！？
 
 封印した張本人さんとしては！！
-> CONTEXT: Map343/events/8/pages/0/119/Dialogue/kazuya < UNTRANSLATED
-I mean, you can't allow that to happen!
+> CONTEXT: Map343/events/8/pages/0/119/Dialogue/kazuya
+And anyway, is it really okay to allow this?
 
-As the person who sealed it!#DL
+You're the one who sealed it!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -406,11 +417,11 @@ As the person who sealed it!#DL
 始末書がちょっと面倒にはなるかな。
 
 けど、人間界には特に影響でないからいいんじゃね？
-> CONTEXT: Map343/events/8/pages/0/124/Dialogue/クッション君 < UNTRANSLATED
+> CONTEXT: Map343/events/8/pages/0/124/Dialogue/クッション君
 Well, I guess the Tartarus will be noisy for a
-while, so it'll be a bit of a hassle to write a
-cleanup letter. But it's okay because it won't
-really affect the human world.#DL
+while, so it'll be a bit of a hassle to write an
+official explanation letter. But it won't really
+affect the human world so there's no problem.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -418,8 +429,8 @@ really affect the human world.#DL
 
 被害を受けるの、お前だけなんだから
 > CONTEXT: Map343/events/8/pages/0/129/Dialogue/クッション君
-You're the only one who's going to suffer
-if you lose, anyway.#DL
+And even if you lose, the only one who'll be
+suffering will be you.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -428,10 +439,10 @@ if you lose, anyway.#DL
 
 封印が解けちゃうのに？
 > CONTEXT: Map343/events/8/pages/0/134/Dialogue/kazuya
-Eh...?
-It won't affect you...?
+What?
 
-If the seal is broken...?#DL
+It won't affect anything even if the seal is
+broken...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -442,8 +453,8 @@ If the seal is broken...?#DL
 > CONTEXT: Map343/events/8/pages/0/139/Dialogue/クッション君
 Ahh... I see.
 
-\\C[2]You don't know how deep this place is because
-Meira brought you here in a flash, do you?#DL
+\\C[2]Meira brought you here in an instant, so you
+don't know how deep this place is, do you?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -455,7 +466,7 @@ Meira brought you here in a flash, do you?#DL
 Tartarus is deeper than the Underworld Hades,
 and its bottomlessness rivals that of Abaddon,
 a synonym for the Abyss.
-This is one of the lower levels of Tartarus.#DL
+This is one of the lower levels of Tartarus.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -467,7 +478,7 @@ This is one of the lower levels of Tartarus.#DL
 Even at the speed of light, and considering
 things like 'astral projection', it would take
 decades to get here.
-That's why we call this a 'Endlessly Deep Hell'.#DL
+It's truly what you'd call a 'Bottomless Hell'.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -481,7 +492,7 @@ my secretary, have the power to travel such
 a distance in an instant.
 
 \\C[0]I think this is the first time we've had
-a human down here.#DL
+a human down here.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -494,8 +505,7 @@ a human down here.#DL
 is absolutely no way it can get out of this
 abyss before it's resealed.
 
-If it got unsealed, it would be brought
-back here.#DL
+And once resealed, it would be brought back here.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -504,10 +514,12 @@ back here.#DL
 
 つまり、彼女が地上に出ることは不可能なのです
 > CONTEXT: Map343/events/8/pages/0/164/Dialogue/other1
-Only "Meira" has the power to leave here, so if
-I reunited with the Black Fox, they wouldn't
-have the ability to do so. That means it would
-be impossible for them to get to the Human World.#DL
+Only the individual "Meira" has the power to
+leave here, so even if I and the Black Fox
+returned to being "Dawn", that authority would
+be lost along with my independence.
+In other words, it's impossible for her to escape
+to the surface.#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -518,7 +530,7 @@ be impossible for them to get to the Human World.#DL
 I see...
 
 It looks like I've been brought along to the
-most extraordinary place, haven't I...?#DL
+most extraordinary place, haven't I...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -527,10 +539,10 @@ most extraordinary place, haven't I...?#DL
 それじゃあ、なんでまた冥羅さんは
 僕に自分の『半身』を倒して欲しいなんて事を…？
 > CONTEXT: Map343/events/8/pages/0/177/Dialogue/kazuya
-...Huh...?
+Wait...
 
-Then why is Meira-san wanting me to take down her
-'other half' again...?#DL
+Then why is Meira-san wanting me to defeat her
+'other half' again...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -539,10 +551,10 @@ Then why is Meira-san wanting me to take down her
 
 どうしてわざわざ、僕を呼んだの？
 > CONTEXT: Map343/events/8/pages/0/182/Dialogue/kazuya
-Even if the seal is broken, it can't get to the
-Human World. It doesn't seem dangerous to just
-leave it alone...
-Why did you even bother calling me here?#DL
+It can't get to the human realm even if the seal
+breaks, and it doesn't seem like it'd be
+especially dangerous even if you left be.
+So why go out of your way to call me here?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -554,7 +566,7 @@ Why did you even bother calling me here?#DL
 I've always wondered.
 
 Why does the 'Black Fox' still crave humans so
-much after being trapped in such a place?#DL
+much despite being trapped in such a place?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -563,10 +575,12 @@ much after being trapped in such a place?#DL
 どう足掻いても叶わぬと分かっていても
 なぜ、人間界に向かって這い上がろうとしているのか
 > CONTEXT: Map343/events/8/pages/0/195/Dialogue/other1
-Having been already defeated before...
-Even though it's impossible for it to achieve it,
-no matter how hard it tries... Why is it still
-trying to get back to the Human World...?#DL
+She's been defeated and had her power split off.
+She knows she will never fulfill her desires no
+matter how much she rails against the cage she's
+found herself in.
+So why does is she trying to crawl out into the
+human realm?#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -576,9 +590,8 @@ trying to get back to the Human World...?#DL
 理性での感覚でしか予想はできませんが……
 > CONTEXT: Map343/events/8/pages/0/200/Dialogue/other1
 Although I'm one half of her, I didn't inherit
-her 'desire'.
-
-I can only predict what she's thinking, but...#DL
+her 'desire'. So I can only use rationality to
+get a sense of what she's thinking but...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -588,7 +601,7 @@ I can only predict what she's thinking, but...#DL
 > CONTEXT: Map343/events/8/pages/0/205/Dialogue/other1
 \\C[2]She...
 
-She wants to be defeated by a human being.#DL
+She wants to be defeated by a human being.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -597,12 +610,12 @@ She wants to be defeated by a human being.#DL
 
 もとは人間に憧れを抱く、無垢な妖狐でした。
 > CONTEXT: Map343/events/8/pages/0/213/Dialogue/other1
-What caused her to be taken in by 'evil' was her
-childhood, when she violated the taboo of
-'eating human flesh and blood'...
+Her possession by "evil" was caused by violating
+the taboo of consuming human flesh in her
+childhood.
 
-She used to be an innocent fox with a longing
-for humans.#DL
+She was originally a pure kitsune who adored
+humanity.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -610,10 +623,10 @@ for humans.#DL
 
 暴走する魔力と共に、彼女はどんどん狂っていきました
 > CONTEXT: Map343/events/8/pages/0/218/Dialogue/other1
-Longing turned to taste, and love turned to
-appetite....
-
-She went crazy with the runaway magical power...#DL
+Longing turned to planning, and the love in her
+heart was reduced to mere hunger.
+As her magic power went out of control, so too
+did she go increasingly insane...#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -622,9 +635,10 @@ She went crazy with the runaway magical power...#DL
 いまの自分が、遠い昔に人間の絵本で読んだ
 『わるいやつ』と同じだということに……
 > CONTEXT: Map343/events/8/pages/0/222/Dialogue/other1
-But I think she knew deep down that she was the
-same as the "bad guy" she read about in human
-books a long time ago.#DL
+But I think she realized deep down...
+
+She knew she was now the same as the "bad guys"
+she'd read about in human picture books long ago.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -632,10 +646,9 @@ books a long time ago.#DL
 
 彼女の心の底には、それが未練として残っています
 > CONTEXT: Map343/events/8/pages/0/227/Dialogue/other1
-\\C[2]Conflict with a young heart that longed to
-be human.......
-Deep down in her heart, it remains an
-unresolved issue.#DL
+\\C[2]There was discord with her childlike heart that
+adored humankind. And that discord still remains as
+regret lingering deep within her.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -644,12 +657,12 @@ unresolved issue.#DL
 果敢に立ち向かう『人間』に滅ぼされたいのです。
 かつて憧れていた、『悪に立ち向かう人間』に…
 > CONTEXT: Map343/events/8/pages/0/231/Dialogue/other1
-\\C[2]She's not an angel with great power, nor is she
-a demon...
-She wants to be destroyed by the humans who dare
-to stand up to them. 
-She has always wanted to be destroyed by a human
-who stands up against evil.#DL
+\\C[2]She doesn't want to face some powerful angel, nor
+any kind of demon. She would much rather be
+destroyed by a brave "human".
+
+By a human who "stands against evil", by the kind
+of human she once adored.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -657,9 +670,9 @@ who stands up against evil.#DL
 
 あの『黒狐』に、普通の人間が敵うはずねぇってさ
 > CONTEXT: Map343/events/8/pages/0/241/Dialogue/クッション君
-I was against it at one time, because there is
-no way a normal person can match the
-Black Fox.#DL
+I used to be against the idea because I thought
+there was no way a human could hope to be a match
+for the Black Fox.#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -669,11 +682,11 @@ Black Fox.#DL
 もうちょっと力をつければ、あるいはって思ってる
 > CONTEXT: Map343/events/8/pages/0/245/Dialogue/クッション君
 But you, you've been filling up the Compendium
-somehow, and you're getting to a rather unusal
-level of skill.
+somehow and all the while your power has gotten
+to a level that's nothing to sneeze at.
 
-If you're able to get just a bit more
-power, maybe...#DL
+If you can get a little more power, then you just
+might be able to pull it off...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -682,16 +695,16 @@ power, maybe...#DL
 
 まっ、力試しにやってみりゃいいんじゃね？
 > CONTEXT: Map343/events/8/pages/0/250/Dialogue/クッション君
-I don't care if it's the Black Fox in its prime,
-it was defeated once and has lost more than half
-of its magic power.
-Well, why don't you just try your hand at it?#DL
+It'd be a different story if it were the Black
+Fox in its prime. But it's been defeated and over
+half its power has been taken away. So why not
+give it a shot?#Ron
 > END STRING
 
 > BEGIN STRING
 の、ノリが軽い……
 > CONTEXT: Map343/events/8/pages/0/255/Dialogue/kazuya
-I'm not the biggest fan of that...#DL
+T-That's a pretty carefree way of putting it...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -700,10 +713,10 @@ I'm not the biggest fan of that...#DL
 
 もちろん、拒否していただいても構いません。
 > CONTEXT: Map343/events/8/pages/0/260/Dialogue/other1
-As I told you when we first met,
-this is just a 'personal request'.
+Just as I told you when we first met, this is
+nothing more than a personal request from me.
 
-Of course, you are welcome to refuse to do so.#DL
+You are of course welcome to refuse.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -713,7 +726,7 @@ Of course, you are welcome to refuse to do so.#DL
 > CONTEXT: Map343/events/8/pages/0/265/Dialogue/other1
 But if you are willing to grant me my wish...
 
-\\C[2]I will take you through that door.#DL
+\\C[2]I will take you through that gate.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -721,9 +734,9 @@ But if you are willing to grant me my wish...
 
 あの先には、何があるの？
 > CONTEXT: Map343/events/8/pages/0/271/Dialogue/kazuya
-That door....?
+That gate....?
 
-What's beyond that?#DL
+What's on the other side?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -734,8 +747,8 @@ What's beyond that?#DL
 > CONTEXT: Map343/events/8/pages/0/275/Dialogue/other1
 I don't know if I should call it a person, 
 or a thing... 
-But it is a 'client' who started this whole
-situation by giving you the Compendium.#DL
+But it is a 'client' who provided me the
+opportunity to give you the Compendium.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -743,10 +756,10 @@ situation by giving you the Compendium.#DL
 
 そして、『装置』の開発者……
 > CONTEXT: Map343/events/8/pages/0/280/Dialogue/other1
-\\C[10]The person who gave you the ability to
+\\C[10]They are the one who gave you the ability to
 'intervene' and change the fate of this story.
 
-And the one who created the Intervention Device...#DL
+And the one who created the Intervention Device...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -755,10 +768,10 @@ And the one who created the Intervention Device...#DL
 
 \\C[0]実際、俺らもよく知らねぇんだ。
 > CONTEXT: Map343/events/8/pages/0/288/Dialogue/クッション君
-Well, \\C[2]he's a guy who doesn't want his fate
-to change on his own terms, so I don't think he'd
-be able to tell you much about it if you met him.
-Actually, we don't know much about it either.#Maybe?
+Well, \\C[2]they'd say they didn't ask for fate to be
+changed, you probably won't think that much of
+them even if you met them.
+\\C[0]To be honest, even we don't know much about them.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -767,10 +780,9 @@ Actually, we don't know much about it either.#Maybe?
 答えるかどうかに関わらず、いろいろ聞きたいことも
 あるだろうからな。
 > CONTEXT: Map343/events/8/pages/0/293/Dialogue/クッション君
-But if you win, I think you should just see him.
-
-Whether they answer or not, you'll have a lot
-of things to ask them.#DL
+But I think you should try meeting them if you
+win. Regardless of whether you'll actually get an
+answer, I'm sure you've got a lot to ask.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -792,7 +804,7 @@ release the Black Fox.#DL
 I... have faith in you.
 
 That you will be safe and 'prove' to me that you
-are able...#DL
+are able...#Ron
 > END STRING
 
 > BEGIN STRING
