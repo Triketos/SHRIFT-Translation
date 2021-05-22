@@ -1352,9 +1352,10 @@ Do you want to view this scene?#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\V[113]
-> CONTEXT: Map002/events/1/pages/0/1417/ChoiceHelp
-> CONTEXT: Map002/events/1/pages/0/1589/ChoiceHelp
+> CONTEXT: Map002/events/1/pages/0/1417/ChoiceHelp < UNTRANSLATED
+> CONTEXT: Map002/events/1/pages/0/1589/ChoiceHelp < UNTRANSLATED
 \\V[113]#NoTL
 > END STRING
 
@@ -4159,9 +4160,12 @@ chapter9　枯渇　-depletion-#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 \\\>作者　　　　　　：天海翡翠
-> CONTEXT: Map002/events/1/pages/2/119/ChoiceHelp
-\\\>Author: 天海翡翠#Triketos
+登場悪魔　　　　：バーゲスト
+リンク先サイト　：pixiv
+> CONTEXT: Map002/events/1/pages/2/119/ChoiceHelp < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
