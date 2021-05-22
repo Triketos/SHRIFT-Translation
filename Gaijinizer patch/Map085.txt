@@ -29,10 +29,30 @@ Milking (Ivory)en(v[48] \>= 50)#Ron
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 【ニーナ】種族：妖魔
+友好度：\\V[48]
 > CONTEXT: Map085/events/5/pages/0/33/ChoiceHelp
 [Nina] Tribe: Apparition
 Current Friendship: \\C[2]\\v[48]\\C[0]#Ron
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度２５以上\\C[0]】
+（現在友好度　　\\V[48]/100）
+> CONTEXT: Map085/events/5/pages/0/40/ChoiceHelp
+Requires:【\\C[2] Friendship 25+\\C[0]】
+Current Friendship: \\C[2]\\v[48]\\C[0]#Triketos
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度５０以上\\C[0]】
+（現在友好度　　\\V[48]/100）
+> CONTEXT: Map085/events/5/pages/0/73/ChoiceHelp
+Requires:【\\C[2] Friendship 50+\\C[0]】
+Current Friendship: \\C[2]\\v[48]\\C[0]#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -59,6 +79,15 @@ a little more appropriate.#RonLocalization/Triketos
 心蝕を消すif(v[48] \>= 100) 
 > CONTEXT: Map085/events/5/pages/0/228/Choice/0
 Clear corruptionif(v[48] \>= 100)#Ron
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度１００\\C[0]】
+（現在友好度　　\\V[48]/100）
+> CONTEXT: Map085/events/5/pages/0/230/ChoiceHelp
+Requires:【\\C[2] Friendship 100\\C[0]】
+Current Friendship: \\C[2]\\v[48]\\C[0]#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -102,6 +131,16 @@ Life At M.O.W.en(v[48] \>= 40)#Ron
 ダンサーとダンスen(v[48] \>= 60) 
 > CONTEXT: Map085/events/5/pages/1/7/Choice/2
 Your Dancersen(v[48] \>= 60)#Ron
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度３０以上\\C[0]】
+（現在友好度　　\\V[48]/100）
+> CONTEXT: Map085/events/5/pages/1/9/ChoiceHelp
+Requires:【\\C[2] Friendship 30+\\C[0]】
+Current Friendship: \\C[2]\\v[48]\\C[0]#Triketos
+
 > END STRING
 
 > BEGIN STRING
@@ -258,6 +297,15 @@ really happy, \\N[1]-kun!#Ron
 ……………もちろん、いろいろな意味で♪
 > CONTEXT: Map085/events/5/pages/1/77/Dialogue/enemy6
 ...In all sorts of ways... ♪#Ron
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度４０以上\\C[0]】
+（現在友好度　　\\V[48]/100）
+> CONTEXT: Map085/events/5/pages/1/83/ChoiceHelp
+Requires:【\\C[2] Friendship 40+\\C[0]】
+Current Friendship: \\C[2]\\v[48]\\C[0]#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -431,6 +479,15 @@ terror and pleasure.#Ron
 > CONTEXT: Map085/events/5/pages/1/155/Dialogue/enemy6
 Because that alone was without a doubt, their
 true feelings toward me...#RonIffyWording
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度６０以上\\C[0]】
+（現在友好度　　\\V[48]/100）
+> CONTEXT: Map085/events/5/pages/1/161/ChoiceHelp
+Requires:【\\C[2] Friendship 60+\\C[0]】
+Current Friendship: \\C[2]\\v[48]\\C[0]#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -619,6 +676,15 @@ in Ebony-chan, kusukusu... ♡#Ron
 【キズナイベント】if(v[48] \>= 99) 
 > CONTEXT: Map085/events/5/pages/1/257/Choice/0
 [Bonding]if(v[48] \>= 99)#Ron
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度９９以上\\C[0]】
+（現在友好度　　\\V[48]/100）
+> CONTEXT: Map085/events/5/pages/1/259/ChoiceHelp
+Requires:【\\C[2] Friendship 99+\\C[0]】
+Current Friendship: \\C[2]\\v[48]\\C[0]#Triketos
 > END STRING
 
 > BEGIN STRING
