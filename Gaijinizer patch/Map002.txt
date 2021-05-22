@@ -238,7 +238,7 @@ Delete file mode (opens load screen)#Dargoth
 好きなチャプターを選んで開始します。
 選べるのは、プレイ済みのチャプター＆進行中のチャプターのみです
 > CONTEXT: Map002/events/1/pages/0/295/ChoiceHelp
-From save data#Triketos
+
 > END STRING
 
 > BEGIN STRING
@@ -252,8 +252,7 @@ Please choose a save to load from#Dargoth
 一度見た搾精シーンを見ることが出来ます。（免罪符無効）
 閲覧後はタイトルに戻ります。
 > CONTEXT: Map002/events/1/pages/0/309/ChoiceHelp
-You can see the loss scenes you have already
-seen before. (Hell's Indulgence is unavailable)#Triketos
+
 > END STRING
 
 > BEGIN STRING
@@ -267,8 +266,7 @@ Youtube Links en(s[22])#Triketos
 プレイヤーがYoutubeに投稿した二次創作や実況プレイの動画です。
 項目を選択すると、Youtubeのページへ飛びます
 > CONTEXT: Map002/events/1/pages/0/317/ChoiceHelp
-Videos of the secondary creations and
-playthroughs that players have posted to Youtube.#Triketos
+
 > END STRING
 
 > BEGIN STRING
@@ -288,7 +286,7 @@ Gallery [Official] en(s[22])#Dargoth
 プレイヤーの方が執筆した、『SHRIFT』関連の小説を紹介しています。
 \\C[2]（各作品を選択すると、記載されている外部サイトへ飛びます）
 > CONTEXT: Map002/events/1/pages/0/327/ChoiceHelp
-Introduces 'SHRIFT' related novels written by players.#MTLed
+
 > END STRING
 
 > BEGIN STRING
@@ -328,7 +326,7 @@ Return to Title#Dargoth
 プレイヤーの方により贈られたイラストを掲載しています。
 二次創作のイラストや小説等は随時募集中です。
 > CONTEXT: Map002/events/1/pages/0/344/ChoiceHelp
-Here are images and art given to me by players.#Triketos
+
 > END STRING
 
 > BEGIN STRING
@@ -343,7 +341,7 @@ You can listen to the music played in the game.#Triketos
 ゲームを楽しんでくれた人に対してのおまけです。
 全てのチャプターをクリアした後に追加されていきます。
 > CONTEXT: Map002/events/1/pages/0/359/ChoiceHelp
-Special bonuses for those who enjoyed the game.#Triketos
+
 > END STRING
 
 > BEGIN STRING
@@ -400,8 +398,7 @@ Cancel#Triketos
 本編中でキズナになった悪魔達のサイドストーリーです。
 搾精シーンは基本的になく、本編を補完する小ネタが主です。
 > CONTEXT: Map002/events/1/pages/0/384/ChoiceHelp
-Side stories of demons who you have bonded
-with in the main story.#Triketos
+
 > END STRING
 
 > BEGIN STRING
