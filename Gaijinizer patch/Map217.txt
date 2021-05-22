@@ -170,10 +170,30 @@ Milkingen(v[55] \>= 80)#Ron
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 【百鬼】種族：鬼
+友好度：\\V[55]
 > CONTEXT: Map217/events/5/pages/0/33/ChoiceHelp
 [Hyakki] Tribe: Oni
 Current Friendship: \\C[2]\\v[55]\\C[0]#Ron
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度２５以上\\C[0]】
+（現在友好度　　\\V[55]/100）
+> CONTEXT: Map217/events/5/pages/0/47/ChoiceHelp
+Requires:【\\C[2] Friendship 25+\\C[0]】
+Current Friendship: \\C[2]\\v[55]\\C[0]#Triketos
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度８０以上\\C[0]】
+（現在友好度　　\\V[55]/100）
+> CONTEXT: Map217/events/5/pages/0/80/ChoiceHelp
+Requires:【\\C[2] Friendship 80+\\C[0]】
+Current Friendship: \\C[2]\\v[55]\\C[0]#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -244,7 +264,17 @@ Her Retirementen(v[55] \>= 60)#Ron
 『冥府の間』の目的　en(v[55] \>= 90) 
 > CONTEXT: Map217/events/5/pages/1/7/Choice/2
 > CONTEXT: Map217/events/5/pages/2/7/Choice/2
-Hell's Gate's Purposeen(v[55] \>= 90)#Ron
+Purpose of Hell's Gateen(v[55] \>= 90)#Ron
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度３０以上\\C[0]】
+（現在友好度　　\\V[55]/100）
+> CONTEXT: Map217/events/5/pages/1/9/ChoiceHelp
+> CONTEXT: Map217/events/5/pages/2/9/ChoiceHelp
+Requires:【\\C[2] Friendship 30+\\C[0]】
+Current Friendship: \\C[2]\\v[55]\\C[0]#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -519,6 +549,16 @@ So it really was all part of their plan...#Ron
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度６０以上\\C[0]】
+（現在友好度　　\\V[55]/100）
+> CONTEXT: Map217/events/5/pages/1/133/ChoiceHelp
+> CONTEXT: Map217/events/5/pages/2/133/ChoiceHelp
+Requires:【\\C[2] Friendship 60+\\C[0]】
+Current Friendship: \\C[2]\\v[55]\\C[0]#Triketos
+> END STRING
+
+> BEGIN STRING
 百鬼………
 
 君があの公園で言った『引退』って、本気だったの…？
@@ -775,10 +815,13 @@ I'd lived my life.#Ron
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 条件【\\C[2]友好度９０以上\\C[0]】
+（現在友好度　　\\V[55]/100）
 > CONTEXT: Map217/events/5/pages/1/243/ChoiceHelp
 > CONTEXT: Map217/events/5/pages/2/243/ChoiceHelp
-Requires: [ \\C[2]Friendship 90+\\C[0] ]#Strate
+Requires:【\\C[2] Friendship 90+\\C[0]】
+Current Friendship: \\C[2]\\v[55]\\C[0]#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -1143,6 +1186,15 @@ completely filled out.#Ron
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度９９以上\\C[0]】
+（現在友好度　　\\V[55]/100）
+> CONTEXT: Map217/events/5/pages/1/416/ChoiceHelp
+Requires:【\\C[2] Friendship 99+\\C[0]】
+Current Friendship: \\C[2]\\v[55]\\C[0]#Triketos
+> END STRING
+
+> BEGIN STRING
 んー…………
 
 『キズナイベント』……ね………
@@ -1298,6 +1350,7 @@ About the nightif(s[375])#GT
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 条件【\\C[2]想ひ魂【朧】を所持している\\C[0]】
 > CONTEXT: Map217/events/5/pages/2/416/ChoiceHelp
 Condition 【\\C[2]\\C[0] possessing the soul [朧]】#GT
