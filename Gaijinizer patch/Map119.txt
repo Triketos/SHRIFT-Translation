@@ -28,10 +28,30 @@ Milking (Pinned)en(v[49] \>= 50)#Ron
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 【アルケニー】種族：妖魔
+友好度：\\V[49]
 > CONTEXT: Map119/events/5/pages/0/26/ChoiceHelp
 [Arachne] Tribe: Apparition
 Current Friendship: \\C[2]\\v[49]\\C[0]#Ron
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度２５以上\\C[0]】
+（現在友好度　　\\V[49]/100）
+> CONTEXT: Map119/events/5/pages/0/33/ChoiceHelp
+Requires:【\\C[2] Friendship 25+\\C[0]】
+Current Friendship: \\C[2]\\v[49]\\C[0]#Triketos
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度５０以上\\C[0]】
+（現在友好度　　\\V[49]/100）
+> CONTEXT: Map119/events/5/pages/0/66/ChoiceHelp
+Requires:【\\C[2] Friendship 50+\\C[0]】
+Current Friendship: \\C[2]\\v[49]\\C[0]#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -87,7 +107,7 @@ Clear corruption (Queen)if(v[36] \>= 2)#Triketos
 ククク……分かってるよ
 
  あの腹ボテ野郎の心蝕を消してほしいんだろう？
-> CONTEXT: Map119/events/5/pages/0/66/Dialogue/enemy10
+> CONTEXT: Map119/events/5/pages/0/266/Dialogue/enemy10
 I understand ... I know
 
 I would like to get rid of that carious glutes
@@ -157,6 +177,15 @@ Her Threaden(v[49] \>= 40)#Ron
 使い魔en(v[49] \>= 60) 
 > CONTEXT: Map119/events/5/pages/1/7/Choice/2
 Her Familiarsen(v[49] \>= 60)#Ron
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度３０以上\\C[0]】
+（現在友好度　　\\V[49]/100）
+> CONTEXT: Map119/events/5/pages/1/9/ChoiceHelp
+Requires:【\\C[2] Friendship 30+\\C[0]】
+Current Friendship: \\C[2]\\v[49]\\C[0]#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -439,6 +468,15 @@ It's making me nervous...)#Ron
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度４０以上\\C[0]】
+（現在友好度　　\\V[49]/100）
+> CONTEXT: Map119/events/5/pages/1/139/ChoiceHelp
+Requires:【\\C[2] Friendship 40+\\C[0]】
+Current Friendship: \\C[2]\\v[49]\\C[0]#Triketos
+> END STRING
+
+> BEGIN STRING
 あたいの糸は二種類あるよ。
 
  拘束用の頑丈な糸と、愛液が混ざったドロドロ糸。
@@ -663,6 +701,15 @@ not allow me to reincarnate.#RonIffy
 Though I can't say the same for her personality,
 that shitty goddess sure has some good taste in
 curses...#RonIffy
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度６０以上\\C[0]】
+（現在友好度　　\\V[49]/100）
+> CONTEXT: Map119/events/5/pages/1/247/ChoiceHelp
+Requires:【\\C[2] Friendship 60+\\C[0]】
+Current Friendship: \\C[2]\\v[49]\\C[0]#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -928,6 +975,15 @@ I'm looking forward to it... ♡#Ron
 【キズナイベント】if(v[49] \>= 99) 
 > CONTEXT: Map119/events/5/pages/1/377/Choice/0
 [Bonding]if(v[49] \>= 99)#Ron
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度９９以上\\C[0]】
+（現在友好度　　\\V[49]/100）
+> CONTEXT: Map119/events/5/pages/1/379/ChoiceHelp
+Requires:【\\C[2] Friendship 99+\\C[0]】
+Current Friendship: \\C[2]\\v[49]\\C[0]#Triketos
 > END STRING
 
 > BEGIN STRING

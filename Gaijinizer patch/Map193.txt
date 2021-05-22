@@ -33,9 +33,15 @@ Opening Criteria:
 > END STRING
 
 > BEGIN STRING
-運命の始まり
+<namepop 百鬼\>
+> CONTEXT: Map193/events/19/pages/1/0/NamePop
+<namepop Hyakki\>#Triketos
+> END STRING
+
+> BEGIN STRING
+<namepop 運命の始まり\>
 > CONTEXT: Map193/events/20/pages/1/0/NamePop
-Fate's_Origin#TriketosLocalizedToFit
+<namepop Fate's_Origin\>#TriketosLocalizedToFit
 > END STRING
 
 > BEGIN STRING
@@ -70,4 +76,11 @@ Missed Pickups#Triketos
 この想ひ魂を習得するための条件を満たしていません。
 > CONTEXT: Map193/events/26/pages/0/71/Dialogue < UNTRANSLATED
 
+> END STRING
+
+> BEGIN STRING
+<namepop モルモー\>
+> CONTEXT: Map193/events/23/pages/1/0/NamePop
+> CONTEXT: Map193/events/23/pages/2/0/NamePop
+<namepop Mormo\>#Triketos
 > END STRING

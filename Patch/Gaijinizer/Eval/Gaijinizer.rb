@@ -85,7 +85,7 @@ def self.update_comment_namepop_text(text_decoded, index_array, to_hash, var) #N
 	#modified update_command_300_text
 	return false unless text_decoded =~ @comment_namepop_regex #/<name_pop (.*)>/
 	#speaker
-	text_name = encode_text($1)
+	text_name = encode_text(text_decoded)
 	index_array_name = index_array.dup
 	index_array_name[-1] = "NamePop"
 	#update hash
@@ -111,7 +111,7 @@ def self.update_comment_choice_help_text(text_decoded, index_array, to_hash, var
 	#modified update_command_300_text
 	return false unless text_decoded =~ @comment_choice_help_regex #/選択肢ヘルプ\n(.*)/
 	#speaker
-	text_help = encode_text($1)
+	text_help = encode_text(text_decoded)
 	index_array_help = index_array.dup
 	index_array_help[-1] = "ChoiceHelp"
 	#update hash
