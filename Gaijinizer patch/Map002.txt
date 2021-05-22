@@ -238,7 +238,9 @@ Delete file mode (opens load screen)#Dargoth
 好きなチャプターを選んで開始します。
 選べるのは、プレイ済みのチャプター＆進行中のチャプターのみです
 > CONTEXT: Map002/events/1/pages/0/295/ChoiceHelp
-
+Use a save data file to select a chapter to start from.
+Note that only chapters you've finished, or that are
+currently in progress can be selected.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -252,7 +254,10 @@ Please choose a save to load from#Dargoth
 一度見た搾精シーンを見ることが出来ます。（免罪符無効）
 閲覧後はタイトルに戻ります。
 > CONTEXT: Map002/events/1/pages/0/309/ChoiceHelp
-
+You can watch squeezing scenes you've seen previously.
+The scenes will play out as though you don't have the
+Indulgence equipped. You'll be returned to the title
+screen after you've finished watching.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -266,7 +271,9 @@ Youtube Links en(s[22])#Triketos
 プレイヤーがYoutubeに投稿した二次創作や実況プレイの動画です。
 項目を選択すると、Youtubeのページへ飛びます
 > CONTEXT: Map002/events/1/pages/0/317/ChoiceHelp
-
+Contains links to YouTube videos of players who have
+uploaded let's plays and fanworks. You'll be taken to a
+YouTube page after selecting an item.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -286,7 +293,9 @@ Gallery [Official] en(s[22])#Dargoth
 プレイヤーの方が執筆した、『SHRIFT』関連の小説を紹介しています。
 \\C[2]（各作品を選択すると、記載されている外部サイトへ飛びます）
 > CONTEXT: Map002/events/1/pages/0/327/ChoiceHelp
-
+Contains links to fan-made novels in the SHRIFT universe.
+\\C[2](Selecting a novel will take you to an external site
+ to view.)#Ron
 > END STRING
 
 > BEGIN STRING
@@ -326,7 +335,8 @@ Return to Title#Dargoth
 プレイヤーの方により贈られたイラストを掲載しています。
 二次創作のイラストや小説等は随時募集中です。
 > CONTEXT: Map002/events/1/pages/0/344/ChoiceHelp
-
+Contains illustrations sent to me by fans.
+Fanworks and fan novels are always welcome.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -341,7 +351,8 @@ You can listen to the music played in the game.#Triketos
 ゲームを楽しんでくれた人に対してのおまけです。
 全てのチャプターをクリアした後に追加されていきます。
 > CONTEXT: Map002/events/1/pages/0/359/ChoiceHelp
-
+Extras for those who've enjoyed the game.
+This option appears when you've cleared all chapters.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -398,7 +409,10 @@ Cancel#Triketos
 本編中でキズナになった悪魔達のサイドストーリーです。
 搾精シーンは基本的になく、本編を補完する小ネタが主です。
 > CONTEXT: Map002/events/1/pages/0/384/ChoiceHelp
-
+Features side stories for the demons you've established a
+bond with during the game. These essentially do not have
+any squeezing scenes, but rather are intended to be
+small supplements to the main game story.#Ron
 > END STRING
 
 > BEGIN STRING
