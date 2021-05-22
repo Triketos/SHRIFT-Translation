@@ -43,32 +43,21 @@ Give a present#Dargoth
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 【バーゲスト】種族：魔獣
+友好度：\\V[41]
 > CONTEXT: Map019/events/5/pages/0/31/ChoiceHelp
 [Barghest] Tribe: Magical Beast
 Current Friendship: \\C[2]\\v[41]\\C[0]#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 条件【\\C[2]友好度２５以上\\C[0]】
+（現在友好度　　\\V[41]/100）
 > CONTEXT: Map019/events/5/pages/0/38/ChoiceHelp
-> CONTEXT: Map027/events/5/pages/0/65/ChoiceHelp
-> CONTEXT: Map041/events/5/pages/0/40/ChoiceHelp
-> CONTEXT: Map042/events/5/pages/0/58/ChoiceHelp
-> CONTEXT: Map042/events/5/pages/1/8/ChoiceHelp
-> CONTEXT: Map062/events/5/pages/0/40/ChoiceHelp
-> CONTEXT: Map070/events/5/pages/0/59/ChoiceHelp
-> CONTEXT: Map070/events/9/pages/0/69/ChoiceHelp
-> CONTEXT: Map080/events/5/pages/0/40/ChoiceHelp
-> CONTEXT: Map085/events/5/pages/0/40/ChoiceHelp
-> CONTEXT: Map119/events/5/pages/0/33/ChoiceHelp
-> CONTEXT: Map120/events/5/pages/0/40/ChoiceHelp
-> CONTEXT: Map121/events/5/pages/0/40/ChoiceHelp
-> CONTEXT: Map122/events/5/pages/0/42/ChoiceHelp
-> CONTEXT: Map215/events/5/pages/0/40/ChoiceHelp
-> CONTEXT: Map216/events/5/pages/0/44/ChoiceHelp
-> CONTEXT: Map217/events/5/pages/0/47/ChoiceHelp
-Requires:【\\C[2] Friendship 25+\\C[0]】#Triketos
+Requires:【\\C[2] Friendship 25+\\C[0]】
+Current Friendship: \\C[2]\\v[41]\\C[0]#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -127,24 +116,12 @@ a little while longer before returning.#afrg
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 条件【\\C[2]友好度５０以上\\C[0]】
+（現在友好度　　\\V[41]/100）
 > CONTEXT: Map019/events/5/pages/0/71/ChoiceHelp
-> CONTEXT: Map027/events/5/pages/0/98/ChoiceHelp
-> CONTEXT: Map062/events/5/pages/0/73/ChoiceHelp
-> CONTEXT: Map070/events/5/pages/0/115/ChoiceHelp
-> CONTEXT: Map070/events/9/pages/0/102/ChoiceHelp
-> CONTEXT: Map070/events/9/pages/1/62/ChoiceHelp
-> CONTEXT: Map080/events/5/pages/0/73/ChoiceHelp
-> CONTEXT: Map080/events/5/pages/0/106/ChoiceHelp
-> CONTEXT: Map085/events/5/pages/0/73/ChoiceHelp
-> CONTEXT: Map119/events/5/pages/0/66/ChoiceHelp
-> CONTEXT: Map120/events/5/pages/0/74/ChoiceHelp
-> CONTEXT: Map120/events/5/pages/0/108/ChoiceHelp
-> CONTEXT: Map121/events/5/pages/0/73/ChoiceHelp
-> CONTEXT: Map122/events/5/pages/0/75/ChoiceHelp
-> CONTEXT: Map215/events/5/pages/0/73/ChoiceHelp
-> CONTEXT: Map216/events/5/pages/0/77/ChoiceHelp
-Requires:【\\C[2] Friendship 50+\\C[0]】#Triketos
+Requires:【\\C[2] Friendship 50+\\C[0]】
+Current Friendship: \\C[2]\\v[41]\\C[0]#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -259,25 +236,12 @@ Clear corruption if(v[41] \>= 100) #Dargoth
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 条件【\\C[2]友好度１００\\C[0]】
+（現在友好度　　\\V[41]/100）
 > CONTEXT: Map019/events/5/pages/0/196/ChoiceHelp 
-> CONTEXT: Map027/events/5/pages/0/290/ChoiceHelp 
-> CONTEXT: Map041/events/5/pages/0/231/ChoiceHelp 
-> CONTEXT: Map042/events/5/pages/0/260/ChoiceHelp 
-> CONTEXT: Map062/events/5/pages/0/216/ChoiceHelp 
-> CONTEXT: Map062/events/5/pages/0/246/ChoiceHelp 
-> CONTEXT: Map070/events/5/pages/0/249/ChoiceHelp 
-> CONTEXT: Map080/events/5/pages/0/267/ChoiceHelp 
-> CONTEXT: Map085/events/5/pages/0/230/ChoiceHelp 
-> CONTEXT: Map119/events/5/pages/0/223/ChoiceHelp 
-> CONTEXT: Map119/events/5/pages/0/254/ChoiceHelp 
-> CONTEXT: Map120/events/5/pages/0/287/ChoiceHelp 
-> CONTEXT: Map121/events/5/pages/0/245/ChoiceHelp 
-> CONTEXT: Map122/events/5/pages/0/208/ChoiceHelp 
-> CONTEXT: Map215/events/5/pages/0/216/ChoiceHelp 
-> CONTEXT: Map215/events/5/pages/0/246/ChoiceHelp 
-> CONTEXT: Map216/events/5/pages/0/368/ChoiceHelp 
-Requires:【\\C[2] Friendship 100\\C[0]】#Triketos
+Requires:【\\C[2] Friendship 100\\C[0]】
+Current Friendship: \\C[2]\\v[41]\\C[0]#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -359,24 +323,12 @@ What Do You Eat?en(v[41] \>= 80)#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 条件【\\C[2]友好度３０以上\\C[0]】
+（現在友好度　　\\V[41]/100）
 > CONTEXT: Map019/events/5/pages/1/7/ChoiceHelp
-> CONTEXT: Map027/events/5/pages/1/9/ChoiceHelp
-> CONTEXT: Map041/events/5/pages/1/9/ChoiceHelp
-> CONTEXT: Map062/events/5/pages/1/9/ChoiceHelp
-> CONTEXT: Map070/events/5/pages/1/7/ChoiceHelp
-> CONTEXT: Map070/events/9/pages/1/9/ChoiceHelp
-> CONTEXT: Map080/events/5/pages/1/7/ChoiceHelp
-> CONTEXT: Map085/events/5/pages/1/9/ChoiceHelp
-> CONTEXT: Map119/events/5/pages/1/9/ChoiceHelp
-> CONTEXT: Map120/events/5/pages/1/9/ChoiceHelp
-> CONTEXT: Map121/events/5/pages/1/9/ChoiceHelp
-> CONTEXT: Map122/events/5/pages/1/9/ChoiceHelp
-> CONTEXT: Map215/events/5/pages/1/9/ChoiceHelp
-> CONTEXT: Map216/events/5/pages/1/9/ChoiceHelp
-> CONTEXT: Map217/events/5/pages/1/9/ChoiceHelp
-> CONTEXT: Map217/events/5/pages/2/9/ChoiceHelp
-Requires【\\C[2] Friendship 30+\\C[0]】#Triketos
+Requires【\\C[2] Friendship 30+\\C[0]】
+Current Friendship: \\C[2]\\v[41]\\C[0]#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -509,22 +461,12 @@ No rubbing my crotch!#Ron
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 条件【\\C[2]友好度４０以上\\C[0]】
+（現在友好度　　\\V[41]/100）
 > CONTEXT: Map019/events/5/pages/1/78/ChoiceHelp
-> CONTEXT: Map027/events/5/pages/1/104/ChoiceHelp
-> CONTEXT: Map041/events/5/pages/1/87/ChoiceHelp
-> CONTEXT: Map042/events/5/pages/1/74/ChoiceHelp
-> CONTEXT: Map062/events/5/pages/1/104/ChoiceHelp
-> CONTEXT: Map070/events/5/pages/1/116/ChoiceHelp
-> CONTEXT: Map080/events/5/pages/1/63/ChoiceHelp
-> CONTEXT: Map085/events/5/pages/1/83/ChoiceHelp
-> CONTEXT: Map119/events/5/pages/1/139/ChoiceHelp
-> CONTEXT: Map120/events/5/pages/1/132/ChoiceHelp
-> CONTEXT: Map121/events/5/pages/1/131/ChoiceHelp
-> CONTEXT: Map122/events/5/pages/1/115/ChoiceHelp
-> CONTEXT: Map215/events/5/pages/1/144/ChoiceHelp
-> CONTEXT: Map216/events/5/pages/1/141/ChoiceHelp
-Requires:【\\C[2] Friendship 40+\\C[0]】#Triketos
+Requires:【\\C[2] Friendship 40+\\C[0]】
+Current Friendship: \\C[2]\\v[41]\\C[0]#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -679,26 +621,12 @@ use!!!#RonIffy
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 条件【\\C[2]友好度６０以上\\C[0]】
+（現在友好度　　\\V[41]/100）
 > CONTEXT: Map019/events/5/pages/1/148/ChoiceHelp
-> CONTEXT: Map027/events/5/pages/1/173/ChoiceHelp
-> CONTEXT: Map041/events/5/pages/0/73/ChoiceHelp
-> CONTEXT: Map041/events/5/pages/1/203/ChoiceHelp
-> CONTEXT: Map042/events/5/pages/0/91/ChoiceHelp
-> CONTEXT: Map042/events/5/pages/1/150/ChoiceHelp
-> CONTEXT: Map062/events/5/pages/1/220/ChoiceHelp
-> CONTEXT: Map070/events/5/pages/1/239/ChoiceHelp
-> CONTEXT: Map080/events/5/pages/1/137/ChoiceHelp
-> CONTEXT: Map085/events/5/pages/1/161/ChoiceHelp
-> CONTEXT: Map119/events/5/pages/1/247/ChoiceHelp
-> CONTEXT: Map120/events/5/pages/1/278/ChoiceHelp
-> CONTEXT: Map121/events/5/pages/1/241/ChoiceHelp
-> CONTEXT: Map122/events/5/pages/1/251/ChoiceHelp
-> CONTEXT: Map215/events/5/pages/1/379/ChoiceHelp
-> CONTEXT: Map216/events/5/pages/1/241/ChoiceHelp
-> CONTEXT: Map217/events/5/pages/1/133/ChoiceHelp
-> CONTEXT: Map217/events/5/pages/2/133/ChoiceHelp
-Requires:【\\C[2] Friendship 60+\\C[0]】#Triketos
+Requires:【\\C[2] Friendship 60+\\C[0]】
+Current Friendship: \\C[2]\\v[41]\\C[0]#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -833,17 +761,12 @@ this barghest.#Ron
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 条件【\\C[2]友好度８０以上\\C[0]】
+（現在友好度　　\\V[41]/100）
 > CONTEXT: Map019/events/5/pages/1/207/ChoiceHelp
-> CONTEXT: Map027/events/5/pages/1/243/ChoiceHelp
-> CONTEXT: Map041/events/5/pages/1/296/ChoiceHelp
-> CONTEXT: Map042/events/5/pages/0/124/ChoiceHelp
-> CONTEXT: Map042/events/5/pages/1/303/ChoiceHelp
-> CONTEXT: Map216/events/5/pages/0/147/ChoiceHelp
-> CONTEXT: Map216/events/5/pages/0/180/ChoiceHelp
-> CONTEXT: Map216/events/5/pages/0/213/ChoiceHelp
-> CONTEXT: Map217/events/5/pages/0/80/ChoiceHelp
-Requires:【\\C[2] Friendship 80+\\C[0]】#Triketos
+Requires:【\\C[2] Friendship 60+\\C[0]】
+Current Friendship: \\C[2]\\v[41]\\C[0]#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -1057,23 +980,12 @@ Bonding Event if(v[41] \>= 99) #Dargoth
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 条件【\\C[2]友好度９９以上\\C[0]】
+（現在友好度　　\\V[41]/100）
 > CONTEXT: Map019/events/5/pages/1/329/ChoiceHelp
-> CONTEXT: Map027/events/5/pages/1/278/ChoiceHelp
-> CONTEXT: Map041/events/5/pages/1/547/ChoiceHelp
-> CONTEXT: Map042/events/5/pages/1/334/ChoiceHelp
-> CONTEXT: Map062/events/5/pages/1/294/ChoiceHelp
-> CONTEXT: Map070/events/5/pages/1/763/ChoiceHelp
-> CONTEXT: Map080/events/5/pages/1/221/ChoiceHelp
-> CONTEXT: Map085/events/5/pages/1/259/ChoiceHelp
-> CONTEXT: Map119/events/5/pages/1/379/ChoiceHelp
-> CONTEXT: Map120/events/5/pages/1/444/ChoiceHelp
-> CONTEXT: Map121/events/5/pages/1/386/ChoiceHelp
-> CONTEXT: Map122/events/5/pages/1/364/ChoiceHelp
-> CONTEXT: Map215/events/5/pages/1/559/ChoiceHelp
-> CONTEXT: Map216/events/5/pages/1/369/ChoiceHelp
-> CONTEXT: Map217/events/5/pages/1/416/ChoiceHelp
-Requires:【\\C[2] Friendship 99+\\C[0]】#Triketos
+Requires:【\\C[2] Friendship 99+\\C[0]】
+Current Friendship: \\C[2]\\v[41]\\C[0]#Triketos
 > END STRING
 
 > BEGIN STRING

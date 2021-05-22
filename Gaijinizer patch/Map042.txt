@@ -43,10 +43,43 @@ Milking (Supreme Fellatio) en(v[44] \>= 80) #Dargoth
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 【エンプーサ】種族：魔獣
+
+友好度：\\V[44]
 > CONTEXT: Map042/events/5/pages/0/50/ChoiceHelp
 [Empuse] Tribe: Beast
-Current Friendship: \\C[2]\\V[44]\\C[0]#Triketos   
+Current Friendship: \\C[2]\\V[44]\\C[0]#Triketos
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度２５以上\\C[0]】
+（現在友好度　　\\V[44]/100）
+> CONTEXT: Map042/events/5/pages/0/58/ChoiceHelp
+> CONTEXT: Map042/events/5/pages/1/8/ChoiceHelp
+Requires:【\\C[2] Friendship 25+\\C[0]】
+Current Friendship: \\C[2]\\v[44]\\C[0]#Triketos
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度６０以上\\C[0]】
+（現在友好度　　\\V[44]/100）
+> CONTEXT: Map042/events/5/pages/0/91/ChoiceHelp
+> CONTEXT: Map042/events/5/pages/1/150/ChoiceHelp
+Requires:【\\C[2] Friendship 60+\\C[0]】
+Current Friendship: \\C[2]\\v[44]\\C[0]#Triketos
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度８０以上\\C[0]】
+（現在友好度　　\\V[44]/100）
+> CONTEXT: Map042/events/5/pages/0/124/ChoiceHelp
+> CONTEXT: Map042/events/5/pages/1/303/ChoiceHelp
+Requires:【\\C[2] Friendship 80+\\C[0]】
+Current Friendship: \\C[2]\\v[44]\\C[0]#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -69,6 +102,15 @@ Empuse \\C[2]did not accept the gift...#Ron
 心蝕を消すif(v[44] \>= 100) 
 > CONTEXT: Map042/events/5/pages/0/258/Choice/0
 Clear corruption if(v[44] \>= 100) #Dargoth
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度１００\\C[0]】
+（現在友好度　　\\V[44]/100）
+> CONTEXT: Map042/events/5/pages/0/260/ChoiceHelp
+Requires:【\\C[2] Friendship 100\\C[0]】
+Current Friendship: \\C[2]\\v[44]\\C[0]#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -264,6 +306,15 @@ I want... my old... seductive body... back...#Ron
 > CONTEXT: Map042/events/5/pages/1/68/Dialogue/kazuya
 (...Don't tell me she was that miserable back in
 the shelter as Hecate's minion...)#RonIffy
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度４０以上\\C[0]】
+（現在友好度　　\\V[44]/100）
+> CONTEXT: Map042/events/5/pages/1/74/ChoiceHelp
+Requires:【\\C[2] Friendship 40+\\C[0]】
+Current Friendship: \\C[2]\\v[44]\\C[0]#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -769,6 +820,15 @@ doing...#Ron
 【キズナイベント】if(v[44] \>= 99) 
 > CONTEXT: Map042/events/5/pages/1/332/Choice/0
 Bonding Event if(v[44] \>= 99) #Dargoth
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度９９以上\\C[0]】
+（現在友好度　　\\V[44]/100）
+> CONTEXT: Map042/events/5/pages/1/334/ChoiceHelp
+Requires:【\\C[2] Friendship 99+\\C[0]】
+Current Friendship: \\C[2]\\v[44]\\C[0]#Triketos
 > END STRING
 
 > BEGIN STRING
