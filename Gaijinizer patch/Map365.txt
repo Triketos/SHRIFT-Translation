@@ -4,9 +4,9 @@
 
 ようこそ！アタシの部屋に！
 > CONTEXT: Map365/events/1/pages/0/8/Dialogue/enemy2
-You came, \\N[1]-kun ♪
+You came, \\N[1]-kun. ♪
 
-Welcome to my room!#TriketosPartial
+Welcome to my room!#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -14,9 +14,9 @@ Welcome to my room!#TriketosPartial
 
 ゆっくり、くつろいでいってね！
 > CONTEXT: Map365/events/1/pages/0/12/Dialogue/enemy2
-Don't be shy about being in a girl's room.
+Don't feel awkward about being in a girl's room.
 
-Relax and feel right at home!#TriketosPartial
+Relax and make yourself at home!#Triketos/Ron
 > END STRING
 
 > BEGIN STRING
@@ -25,10 +25,10 @@ Relax and feel right at home!#TriketosPartial
 \\N[1]くん、ゆっくりなんてしたくないって顔してるね
 分かるよ、アタシを倒したいんでしょ？
 > CONTEXT: Map365/events/1/pages/0/21/Dialogue/enemy2
-...
+Just kidding...
 
-\\N[1]-kun, you don't want to take it slow...
-You want to beat me, don't you?#TriketosPartial
+That look on your face tells me you aren't here
+to relax. You want to defeat me, don't you?#Triketos/Ron
 > END STRING
 
 > BEGIN STRING
@@ -37,10 +37,13 @@ You want to beat me, don't you?#TriketosPartial
 最近は魔力を利用した弾丸を作って、マシになった方だけど
 妲己なんか見てると、よく分かるでしょ？
 > CONTEXT: Map365/events/1/pages/0/26/Dialogue/enemy2
-But honestly, human weapons don't work on me.#TriketosPartial
-Recently, I made a bullet using magic power,
-and I'm a good person, but if you look at Daji,
-you can understand well, right?
+But honestly, human weapons don't work on me.
+Lately you guys have started making those bullets
+with magic in them, which is a step in the right
+direction.
+But you saw how little effect even those had on
+Daji, right? So I'm sure you understand what I'm
+getting at.#Triketos/RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -50,9 +53,9 @@ you can understand well, right?
 せっかくの自分の実力を全然出せないなんて、さ。
 > CONTEXT: Map365/events/1/pages/0/31/Dialogue/enemy2
 So with the weapons of the human world today,
-you can't beat me. 
-But don't you think it's not fair?
-I can't show my skills at all.#TriketosPartial
+you can't beat me. But that's a little unfair,
+don't you think? That doesn't give me a chance
+to use my true, full power.#Triketos/Ron
 > END STRING
 
 > BEGIN STRING
@@ -61,10 +64,10 @@ I can't show my skills at all.#TriketosPartial
 
 だから、ちょっとハンデをあげる♪
 > CONTEXT: Map365/events/1/pages/0/36/Dialogue/enemy2
-I like to play with weak guys, but I think
-a deal is necessary for it to be a real "game".
-
-Therefore, I'll give myself a little handicap♪#TriketosPartial
+While I do enjoy tormenting weaklings, since this
+is a proper "face-off" we're having, we need to
+come to an arrangement. That's why I'll be giving
+myself a little handicap. ♪#Triketos/Ron
 > END STRING
 
 > BEGIN STRING
@@ -73,10 +76,10 @@ Therefore, I'll give myself a little handicap♪#TriketosPartial
 うちの実家に伝わる聖剣から、趣味で集めた妖刀まで
 魔力を備えた武器をいろいろ揃えてあげたの！
 > CONTEXT: Map365/events/1/pages/0/44/Dialogue/enemy2
-Jan~♪ We have a variety of weapons with
-magical powers, from the holy sword passed
-down to our parents' home to the swords
-collected for hobbies!#TriketosPartial
+Ta-daa~♪ I've prepared a variety of magical
+weapons for you. From holy swords handed down
+from my family's collection, to demonic blades
+I've been collecting!#Triketos/RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -86,9 +89,9 @@ collected for hobbies!#TriketosPartial
 私に一矢報いることぐらいはできるんじゃないの？
 > CONTEXT: Map365/events/1/pages/0/49/Dialogue/enemy2
 All of them are powerful enough to counter the 
-magic of the Demon King! If you use these, you
-can fight against me even though \\N[1]-kun
-is a human being.#TriketosPartial
+magic of a Demon King! If you use these, even
+a mere human like you can go blow-for-blow
+against me.#Triketos/Ron
 > END STRING
 
 > BEGIN STRING
@@ -96,15 +99,16 @@ is a human being.#TriketosPartial
 
 さぁ…どれで私を攻撃する？
 > CONTEXT: Map365/events/1/pages/0/54/Dialogue/enemy2
-As I said, don't be shy.
+Like I said before, no need to feel awkward about
+all this, don't hold back.
 
-Now... how will you attack me?#TriketosPartial
+Now... which of these will you use to fight?#Triketos/Ron
 > END STRING
 
 > BEGIN STRING
 ……………僕は\\C[2]攻撃しない
 > CONTEXT: Map365/events/1/pages/0/63/Dialogue/kazuya
-......\\C[2]I'm not going to fight.#TriketosPartial
+......\\C[2]I'm not going to fight.#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -113,9 +117,10 @@ Now... how will you attack me?#TriketosPartial
 自分の銃でも、魔法でも。
 その剣たちを使ったりもしない
 > CONTEXT: Map365/events/1/pages/0/67/Dialogue/kazuya
-.......I'm not \\C[2]attacking you\\C[0],
-whether it's my own guns and magic,
-or your swords.#TriketosPartial
+.......I'm not \\C[2]attacking you\\C[0].
+
+Not with my gun, not with magic, and not
+with these swords, either.#Triketos/Ron
 > END STRING
 
 > BEGIN STRING
@@ -123,15 +128,15 @@ or your swords.#TriketosPartial
 
 \\C[2]それこそが、狙いなんだろう？
 > CONTEXT: Map365/events/1/pages/0/72/Dialogue/kazuya
-You should know the reason best, Hecate. 
-
-\\C[2]"That" is what you're trying to do, isn't it?#TriketosPartial
+You of all people should know the reason why,
+Hecate. \\C[2]But that's exactly why you're
+encouraging me to attack, isn't it?#Triketos/Ron
 > END STRING
 
 > BEGIN STRING
 ど、どういうことだよ、\\N[1]…！？
 > CONTEXT: Map365/events/1/pages/0/78/Dialogue/other2
-W-what do you mean, \\N[1]...!?#TriketosPartial
+W-What do you mean, \\N[1]...?!#Triketos/Ron
 > END STRING
 
 > BEGIN STRING
@@ -143,7 +148,7 @@ W-what do you mean, \\N[1]...!?#TriketosPartial
 I'm not sure yet, but...
 \\C[2]The act of me "hurting a demon with hostility"
 is a necessary trigger so that \\C[10]"That"\\C[2] can
-corrupt me.#TriketosPartial
+corrupt me.#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -152,10 +157,10 @@ corrupt me.#TriketosPartial
 モルモーは、その媒体に利用されたにすぎない
 そして、僕を引きずり込む試みは失敗した…
 > CONTEXT: Map365/events/1/pages/0/86/Dialogue/kazuya
-Yeah... \\C[10]"That"\\C[2] was her target
-from the beginning.
-Mormo was only used for that medium and her
-attempt to drag me in failed...#TriketosPartial
+That's right... I was the target of \\C[10]"That"\\C[2] from
+the very beginning. Mormo was used as nothing
+more than the medium for that being. And its
+attempt to draw me inside failed.#Triketos/Ron
 > END STRING
 
 > BEGIN STRING
@@ -164,10 +169,10 @@ attempt to drag me in failed...#TriketosPartial
 僕が現時点で『敵意を持って攻撃する悪魔』となると
 自分が一番適役だと思ったんだろう。
 > CONTEXT: Map365/events/1/pages/0/91/Dialogue/kazuya
-That's why \\C[2]you fought this time.
-
-If I need to "attack a devil with hostility",
-you probably thought you were the most suitable.#TriketosPartial
+That's why \\C[2]you're using yourself as bait this
+time. Out of all the demons I'd attack with
+hostility, you probably thought you'd be the most
+suitable candidate for that role.#Triketos/Ron
 > END STRING
 
 > BEGIN STRING
@@ -176,10 +181,10 @@ you probably thought you were the most suitable.#TriketosPartial
 キミが僕を恨む理由はいくつかあるだろうけど…
 \\C[2]僕が君を恨む理由は１つもない
 > CONTEXT: Map365/events/1/pages/0/98/Dialogue/kazuya
-But there is one problem to achieve that.
-
+But there is one problem in the way of making
+that a reality.
 There may be several reasons why you hate me...
-\\C[2]But I have no reason to hate you.#TriketosPartial
+\\C[2]But I have no reason to hate you.#Triketos/Ron
 > END STRING
 
 > BEGIN STRING
@@ -188,10 +193,10 @@ There may be several reasons why you hate me...
 
 そして\\C[10]『あれ』\\C[2]がモルモーを欲しがるように…
 > CONTEXT: Map365/events/1/pages/0/103/Dialogue/kazuya
-What made Mormo meet me was that \\C[2]I got along
-with her and had a "connection"...
+The reason for making Mormo meet me was so that
+\\C[2]she and I would make a kind of "connection"...
 
-And \\C[10]"That"\\C[2] wanted Mormo...#TriketosPartial
+And then \\C[10]"That" \\C[2]would start wanting Mormo...#Triketos/Ron
 > END STRING
 
 > BEGIN STRING
@@ -199,9 +204,9 @@ And \\C[10]"That"\\C[2] wanted Mormo...#TriketosPartial
 
 僕を怒らせて、『敵意を向けて』キミを攻撃させる…
 > CONTEXT: Map365/events/1/pages/0/108/Dialogue/kazuya
-After that, you show yourself to disrespect
-Mormo's life, make me angry enough to attack you
-and 'be hostile'...#TriketosPartial
+Then you'd show yourself making light of Mormo's
+life, which would make me angry enough to attack
+you "with hostility"...#Triketos/Ron
 > END STRING
 
 > BEGIN STRING
@@ -210,10 +215,10 @@ and 'be hostile'...#TriketosPartial
 
 それで悪魔に敵意を持たせる事自体が、目的…
 > CONTEXT: Map365/events/1/pages/0/113/Dialogue/other2
-What do you mean......
-Mormo is \\C[2]the reason to make you take this
-seriously... So the reason of making you hostile
-towards her is...#TriketosPartial
+In other words...
+\\C[2]Mormo was used as fodder to get you serious
+about all this... And making you feel hostility
+toward demons was itself the goal...#Triketos/RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -222,10 +227,10 @@ towards her is...#TriketosPartial
 
 今度はヘカーテ自身がそのトリガーってことか…！
 > CONTEXT: Map365/events/1/pages/0/118/Dialogue/other2
-\\N[1] tried to help Mormo until the end,
-so using Mormo as a trigger failed...
+By you trying to save Mormo until the very end,
+that meant her role as a trigger failed...
 
-This time, Hecate herself is the trigger...!#TriketosPartial
+And this time, Hecate herself is the trigger...?!#Triketos/Ron
 > END STRING
 
 > BEGIN STRING
@@ -234,10 +239,9 @@ This time, Hecate herself is the trigger...!#TriketosPartial
 
 おおかたそんな感じだろう
 > CONTEXT: Map365/events/1/pages/0/123/Dialogue/kazuya
-\\C[0]The condition that you cooperated with 
-\\C[10]"that"\\C[0] is "the elimination of my
- existence"......
-It's probably like that.#TriketosPartial
+\\C[0]I get the feeling that your condition for
+cooperating with \\C[10]"that"\\C[0] was the complete
+eradication of my existence.#Triketos/Ron
 > END STRING
 
 > BEGIN STRING
@@ -246,16 +250,16 @@ It's probably like that.#TriketosPartial
 でもあえて、\\C[10]『あれ』\\C[0]に協力したのは
 僕を、徹底的に再起不能にするためなんじゃないか？
 > CONTEXT: Map365/events/1/pages/0/128/Dialogue/kazuya
-If you're going to get revenge on me, 
-your ability is enough... But if I dared to
-cooperate with \\C[10]'that'\\C[0], it would make
-me impossible to recover thoroughly, wouldn't it?#TriketosPartial
+Your power is more than enough to get revenge on
+me. But by cooperating with \\C[10]"that"\\C[0], you could
+so thoroughly destroy me that there'd be no hope
+of recovery for me, isn't that right?#Triketos/Ron
 > END STRING
 
 > BEGIN STRING
 …………ムカつく。
 > CONTEXT: Map365/events/1/pages/0/136/Dialogue/enemy3
-......I'm angry.#TriketosPartial
+......You're pissing me off.#Triketos/Ron
 > END STRING
 
 > BEGIN STRING
@@ -264,10 +268,9 @@ me impossible to recover thoroughly, wouldn't it?#TriketosPartial
 
 だからあんなキモいのにも手を貸してやってるの
 > CONTEXT: Map365/events/1/pages/0/138/Dialogue/enemy3
-That "I know everything about everyone else"
-attitude is so annoying.
+I hate your know-it-all attitude.
 
-That's why I'm helping out with such a bad thing.#TriketosPartial
+That's why I helped out that super creepy thing.#Triketos/RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -276,10 +279,10 @@ That's why I'm helping out with such a bad thing.#TriketosPartial
 
 何度惨めにやられても、何度だって立ち上がれるのは
 > CONTEXT: Map365/events/1/pages/0/143/Dialogue/enemy3
-You'll feel good, no matter how hard it is to
-read your opponent's minions.
-No how many times you have to get up to
-your feet.#TriketosPartial
+It must feel pretty good to always be one step
+ahead of your opponent. Knowing that no matter
+how many times you're pathetically beaten, you
+can get back on your feet over and over.#Triketos/Ron
 > END STRING
 
 > BEGIN STRING
@@ -291,7 +294,7 @@ your feet.#TriketosPartial
 But... how are you going to defeat me if
 you aren't going to attack?
 Well, you probably don't have the ability to
-defeat me, but do you have a secret plan?#TriketosPartial
+defeat me, but do you have a secret plan?#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -301,7 +304,8 @@ defeat me, but do you have a secret plan?#TriketosPartial
 > CONTEXT: Map365/events/1/pages/0/160/Dialogue/enemy2
 Ahahaha!!! ♪
 
-Sounds like you couldn't think of one, right?#TriketosPartial
+As expected, it doesn't sound like you thought
+that far ahead, huh?#Triketos/Ron
 > END STRING
 
 > BEGIN STRING
@@ -310,16 +314,16 @@ Sounds like you couldn't think of one, right?#TriketosPartial
 
 いいわ、『相手』してあげる♡
 > CONTEXT: Map365/events/1/pages/0/164/Dialogue/enemy2
-I really wanted to see you bleeding and
-crawling like an insect...
-
-Okay then, I'll do it the "other" way... ♡#TriketosPartial
+To be honest, I wanted to see you desperately
+crawling around on the floor like an insect
+before croaking. But that's fine, I'll "take you
+on"... ♡#Triketos/Ron
 > END STRING
 
 > BEGIN STRING
 \\N[1]くん好みの、愉しーい方法でね♡
 > CONTEXT: Map365/events/1/pages/0/169/Dialogue/enemy2
-\\N[1]-kun's favorite, fun way~ ♡#TriketosPartial
+\\N[1]-kun's favorite, fun way~ ♡#Triketos
 > END STRING
 
 > BEGIN STRING
