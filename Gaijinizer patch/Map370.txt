@@ -54,7 +54,7 @@ Please periodically scan every debugger.#RonIffy
 "[SYSTEM]\\nウイルススキャン、開始"
 > CONTEXT: Map370/events/1/pages/0/25/InlineScript/1:6
 > CONTEXT: Map370/events/1/pages/0/122/InlineScript/1:6
-"[SYSTEM]\\nVirus scan started."#Triketos
+"A NameError has occurred on line 1409 of script 'Game_Interpreter'\\n\\nuninitialized constant Game_Interpreter::FAKE"#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -87,7 +87,7 @@ Intervention ID: System\\RGSS301.dll#Triketos
 【莉句?】：ID 縺雁燕繧定ｦ九※縺?ｋ縺
 > CONTEXT: Map370/events/1/pages/0/36/Choice/1
 > CONTEXT: Map370/events/1/pages/0/132/Choice/1
-\\X[25]Intervention ID: I see you#Ron
+\\X[40]Intervention ID: I see you#Ron
 > END STRING
 
 > BEGIN STRING
