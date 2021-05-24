@@ -39,10 +39,32 @@ Milking (Constrict)en(v[52] \>= 50)#Ron
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 【ティタノボア】種族：魔獣
+友好度：\\V[52]
 > CONTEXT: Map122/events/5/pages/0/35/ChoiceHelp
 [Titanoboa] Race: Beast
 Current Friendship: \\C[2]\\v[52]\\C[0]#Ron
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度２５以上\\C[0]】
+（現在友好度　　\\V[52]/100）
+> CONTEXT: Map122/events/5/pages/0/42/ChoiceHelp
+Requires:【\\C[2] Friendship 25+\\C[0]】
+Current Friendship: \\C[2]\\v[52]\\C[0]#Triketos
+
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度５０以上\\C[0]】
+（現在友好度　　\\V[52]/100）
+> CONTEXT: Map122/events/5/pages/0/75/ChoiceHelp
+Requires:【\\C[2] Friendship 50+\\C[0]】
+Current Friendship: \\C[2]\\v[52]\\C[0]#Triketos
+
 > END STRING
 
 > BEGIN STRING
@@ -61,6 +83,15 @@ something, at least make it edible.#Ron
 心蝕を消すif(v[52] \>= 100) 
 > CONTEXT: Map122/events/5/pages/0/206/Choice/0
 Clear corruptionif(v[52] \>= 100)#Ron
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度１００\\C[0]】
+（現在友好度　　\\V[52]/100）
+> CONTEXT: Map122/events/5/pages/0/208/ChoiceHelp
+Requires:【\\C[2] Friendship 100\\C[0]】
+Current Friendship: \\C[2]\\v[52]\\C[0]#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -105,6 +136,15 @@ Becoming a biological weaponen(v[52] \>= 40)#Ron
 蛇体についてen(v[52] \>= 60) 
 > CONTEXT: Map122/events/5/pages/1/7/Choice/2
 About her bodyen(v[52] \>= 60)#Ron
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度３０以上\\C[0]】
+（現在友好度　　\\V[52]/100）
+> CONTEXT: Map122/events/5/pages/1/9/ChoiceHelp
+Requires:【\\C[2] Friendship 30+\\C[0]】
+Current Friendship: \\C[2]\\v[52]\\C[0]#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -308,6 +348,15 @@ cute...#Ron
 ｺﾞﾒﾝﾅｻｲ………
 > CONTEXT: Map122/events/5/pages/1/104/Dialogue/kazuya
 Sorrysorrysorry...#Ron
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度４０以上\\C[0]】
+（現在友好度　　\\V[52]/100）
+> CONTEXT: Map122/events/5/pages/1/115/ChoiceHelp
+Requires:【\\C[2] Friendship 40+\\C[0]】
+Current Friendship: \\C[2]\\v[52]\\C[0]#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -567,6 +616,15 @@ No...#Ron
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度６０以上\\C[0]】
+（現在友好度　　\\V[52]/100）
+> CONTEXT: Map122/events/5/pages/1/251/ChoiceHelp
+Requires:【\\C[2] Friendship 60+\\C[0]】
+Current Friendship: \\C[2]\\v[52]\\C[0]#Triketos
+> END STRING
+
+> BEGIN STRING
 \\N[1]は、ティタノボアの蛇体表面の鱗を
 
 真剣に何度も触っている………
@@ -804,6 +862,15 @@ You be careful of that too, \\N[1].#Ron
 【キズナイベント】if(v[52] \>= 99) 
 > CONTEXT: Map122/events/5/pages/1/362/Choice/0
 [Bonding]if(v[52] \>= 99)#Ron
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度９９以上\\C[0]】
+（現在友好度　　\\V[52]/100）
+> CONTEXT: Map122/events/5/pages/1/364/ChoiceHelp
+Requires:【\\C[2] Friendship 99+\\C[0]】
+Current Friendship: \\C[2]\\v[52]\\C[0]#Triketos
 > END STRING
 
 > BEGIN STRING

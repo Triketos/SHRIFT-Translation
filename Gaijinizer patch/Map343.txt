@@ -1,16 +1,17 @@
 ﻿> GAIJINIZER PATCH FILE
 > BEGIN STRING
-未解放
+<namepop 未解放\>
 > CONTEXT: Map343/events/4/pages/0/0/NamePop
 > CONTEXT: Map343/events/9/pages/0/0/NamePop
-Shackled#TriketosLocalization
+<namepop Shackled\>#TriketosLocalization
 > END STRING
 
 > BEGIN STRING
-開放済み
+<namepop 開放済み\>
 > CONTEXT: Map343/events/4/pages/1/0/NamePop
+> CONTEXT: Map343/events/7/pages/1/0/NamePop
 > CONTEXT: Map343/events/9/pages/1/0/NamePop
-Freed#TriketosPartial
+<namepop Freed\>#TriketosPartial
 > END STRING
 
 > BEGIN STRING
@@ -103,6 +104,50 @@ miracles already.#DL
 
 どうかその『奇跡』、一時の感情で溢してしまわぬように…
 > CONTEXT: Map343/events/4/pages/1/40/Dialogue/other1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+知性を再び手にした獅子
+そして、貴方の『キズナ』の危うさ…
+
+現れた『すべてを知る猫』……
+> CONTEXT: Map343/events/7/pages/1/1/Dialogue/other1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+マイルームの悪魔たちは、
+決して貴方の味方になったわけではありません
+
+あくまで、心を通わせているだけに過ぎないのです。
+> CONTEXT: Map343/events/7/pages/1/6/Dialogue/other1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+彼女たちが、貴方を手に入れるためならば
+貴方に不利益なことも、あるいは行うかもしれません
+
+それをお忘れなきように…
+> CONTEXT: Map343/events/7/pages/1/11/Dialogue/other1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そして…
+
+貴方の敵とも、味方ともなった『チェシャ』…
+> CONTEXT: Map343/events/7/pages/1/16/Dialogue/other1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+貴方は、『真実』に近付きつつあります。
+
+恐れることはありません。
+貴方の信じる道を進むのです…
+> CONTEXT: Map343/events/7/pages/1/20/Dialogue/other1 < UNTRANSLATED
 
 > END STRING
 

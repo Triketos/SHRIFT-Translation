@@ -652,11 +652,16 @@ Memento (Abyss)if(s[363])#Ron
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 発見場所　　：生贄の社
+想ひ魂タイプ：追体験
+戦闘　　　　：なし
 > CONTEXT: Map075/events/4/pages/1/11/ChoiceHelp
 > CONTEXT: Map075/events/4/pages/2/11/ChoiceHelp
 > CONTEXT: Map094/events/4/pages/1/11/ChoiceHelp
-Found In: Sacrifice's Shrine#Ron
+Found In: Sacrificial Shrine
+Memento Type: Memory Recreation
+Combat: No#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -700,10 +705,15 @@ Memento (Spider Web)if(s[372])#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 発見場所　　：アルケニーの巣
+想ひ魂タイプ：追体験
+戦闘　　　　：なし
 > CONTEXT: Map075/events/4/pages/1/70/ChoiceHelp
 > CONTEXT: Map075/events/4/pages/2/70/ChoiceHelp
-Found In: Arachne's Nest#Triketos
+Found In: Arachne's Web
+Memento Type: Memory Recreation
+Combat: No#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -723,12 +733,19 @@ Memento (Snake's Pursuit)if(s[373])#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 発見場所　　：公園
+想ひ魂タイプ：再体験
+戦闘　　　　：なし
+備考　　　　：『免罪符』『百鬼』投影不可『心蝕』発生有
 > CONTEXT: Map075/events/4/pages/1/112/ChoiceHelp
 > CONTEXT: Map075/events/4/pages/1/158/ChoiceHelp
 > CONTEXT: Map075/events/4/pages/2/112/ChoiceHelp
 > CONTEXT: Map075/events/4/pages/2/158/ChoiceHelp
-Found In: Park#Triketos
+Found In: Park
+Memento Type: Scene Replay
+Combat: No
+Note: Indulgence and Hyakki not projected.#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -765,22 +782,18 @@ Memento (Nekomata)if(s[364])#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 発見場所　　：マイルーム
+想ひ魂タイプ：再体験
+戦闘　　　　：あり
+備考　　　　：『免罪符』『百鬼』投影不可『心蝕』発生有
 > CONTEXT: Map075/events/4/pages/1/204/ChoiceHelp
-> CONTEXT: Map075/events/4/pages/1/251/ChoiceHelp
-> CONTEXT: Map075/events/4/pages/1/342/ChoiceHelp
-> CONTEXT: Map075/events/4/pages/1/387/ChoiceHelp
-> CONTEXT: Map075/events/4/pages/1/432/ChoiceHelp
 > CONTEXT: Map075/events/4/pages/2/204/ChoiceHelp
-> CONTEXT: Map075/events/4/pages/2/251/ChoiceHelp
-> CONTEXT: Map075/events/4/pages/2/342/ChoiceHelp
-> CONTEXT: Map075/events/4/pages/2/387/ChoiceHelp
-> CONTEXT: Map075/events/4/pages/2/432/ChoiceHelp
 > CONTEXT: Map094/events/4/pages/1/70/ChoiceHelp
-> CONTEXT: Map094/events/4/pages/1/117/ChoiceHelp
-> CONTEXT: Map094/events/4/pages/1/208/ChoiceHelp
-> CONTEXT: Map094/events/4/pages/1/253/ChoiceHelp
-Found In: My Room#Ron
+Found In: My Room
+Memento Type: Scene Replay
+Combat: Yes
+Note: Indulgence and Hyakki not projected.#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -798,7 +811,30 @@ Do you want to project this Memento?#Triketos
 > CONTEXT: Map075/events/4/pages/1/249/Choice/0
 > CONTEXT: Map075/events/4/pages/2/249/Choice/0
 > CONTEXT: Map094/events/4/pages/1/115/Choice/0
-Memento (Stage)if(s[365])#Triketos
+Memento (Stage)if(s[365])#Ron
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+発見場所　　：マイルーム
+想ひ魂タイプ：再体験
+戦闘　　　　：あり
+備考　　　　：『免罪符』投影不可『心蝕』発生有
+> CONTEXT: Map075/events/4/pages/1/251/ChoiceHelp
+> CONTEXT: Map075/events/4/pages/1/342/ChoiceHelp
+> CONTEXT: Map075/events/4/pages/1/387/ChoiceHelp
+> CONTEXT: Map075/events/4/pages/1/432/ChoiceHelp
+> CONTEXT: Map075/events/4/pages/2/251/ChoiceHelp
+> CONTEXT: Map075/events/4/pages/2/342/ChoiceHelp
+> CONTEXT: Map075/events/4/pages/2/387/ChoiceHelp
+> CONTEXT: Map075/events/4/pages/2/432/ChoiceHelp
+> CONTEXT: Map094/events/4/pages/1/117/ChoiceHelp
+> CONTEXT: Map094/events/4/pages/1/208/ChoiceHelp
+> CONTEXT: Map094/events/4/pages/1/253/ChoiceHelp
+Found In: My Room
+Memento Type: Scene Replay
+Combat: Yes
+Note: Indulgence not projected.#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -820,11 +856,18 @@ Memento (Twins)if(s[366])#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 発見場所　　：生け贄の社
+想ひ魂タイプ：再体験
+戦闘　　　　：あり
+備考　　　　：『免罪符』投影不可『心蝕』発生有
 > CONTEXT: Map075/events/4/pages/1/297/ChoiceHelp
 > CONTEXT: Map075/events/4/pages/2/297/ChoiceHelp
 > CONTEXT: Map094/events/4/pages/1/163/ChoiceHelp
-Found in: Sacrifice's Shrine#Triketos
+Found In: Sacrificial Shrine
+Memento Type: Scene Replay
+Combat: Yes
+Note: Indulgence not projected.#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -898,7 +941,11 @@ Memento (Plant Dream)if(s[369])#Ron
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 発見場所　　：ピンクベッド
+想ひ魂タイプ：再体験
+戦闘　　　　：あり
+備考　　　　：『免罪符』投影不可『心蝕』発生有
 > CONTEXT: Map075/events/4/pages/1/478/ChoiceHelp
 > CONTEXT: Map075/events/4/pages/1/535/ChoiceHelp
 > CONTEXT: Map075/events/4/pages/1/592/ChoiceHelp
@@ -909,7 +956,10 @@ Memento (Plant Dream)if(s[369])#Ron
 > CONTEXT: Map075/events/4/pages/2/650/ChoiceHelp
 > CONTEXT: Map094/events/4/pages/1/298/ChoiceHelp
 > CONTEXT: Map094/events/4/pages/1/354/ChoiceHelp
-Found: After using a pink bed#Ron
+Found In: Pink Bed
+Memento Type: Scene Replay
+Combat: Yes
+Note: Indulgence not projected.#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -980,14 +1030,21 @@ Memento (Faint)if(s[375])#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 発見場所　　：？？？
+想ひ魂タイプ：？？？
+戦闘　　　　：なし
+備考　　　　：内容不明
 > CONTEXT: Map075/events/4/pages/1/712/ChoiceHelp
 > CONTEXT: Map075/events/4/pages/1/757/ChoiceHelp
 > CONTEXT: Map075/events/4/pages/1/802/ChoiceHelp
 > CONTEXT: Map075/events/4/pages/2/710/ChoiceHelp
 > CONTEXT: Map075/events/4/pages/2/755/ChoiceHelp
 > CONTEXT: Map075/events/4/pages/2/800/ChoiceHelp
-Found In:???#Triketos
+Found In: Unknown
+Memento Type: Unknown
+Combat: No
+Note: Memento contents unknown.#RonLocalization
 > END STRING
 
 > BEGIN STRING
