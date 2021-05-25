@@ -3,7 +3,7 @@
 なっ………！？
 > CONTEXT: CommonEvents_648/49/Dialogue/kazuya-0
 > CONTEXT: CommonEvents_649/184/Dialogue/kazuya-0
-W-what...!?#Triketos
+W-What...!?#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -11,9 +11,9 @@ W-what...!?#Triketos
 
 僕は………確実に避けたはずだ……！
 > CONTEXT: CommonEvents_648/51/Dialogue
-What's... this feeling...!?
+What's... this feeling...?!
 
-Surely... I must have avoided that...!#TriketosPartial
+I'm... sure I avoided that...!#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -22,9 +22,10 @@ Surely... I must have avoided that...!#TriketosPartial
 回避が間に合わなかったみたいだねー
 いやー、こういう事もあるんだねー♪
 > CONTEXT: CommonEvents_648/55/Dialogue/enemy2
-Oh... that's too bad~♡
+Oh dear... that's too bad~♡
 
-It looks like you couldn't avoid it~#TriketosConfused
+Looks like you couldn't avoid that one in time.
+Well, these things happen. ♪#Triketos/Ron
 > END STRING
 
 > BEGIN STRING
@@ -59,10 +60,9 @@ I'm \\C[10]just using the same tricks you are~#Triketos
 > CONTEXT: CommonEvents_648/69/Dialogue/enemy2
 > CONTEXT: CommonEvents_649/203/Dialogue/enemy2
 \\C[10]If you get a bad status, just start over.
-Keep redoing a particular situation till a
-certain attack doesn't come out.#Triketos
-
-\\C[0]Thaat's not even all that you've done~♪#Triketos
+Keep starting over until you get a situation
+where a particular attack isn't used.
+\\C[0]Aren't those aaall things you've done as well? ♪#Triketos/Ron
 > END STRING
 
 > BEGIN STRING
@@ -72,10 +72,10 @@ certain attack doesn't come out.#Triketos
 アンタと同じような事をね…♪
 > CONTEXT: CommonEvents_648/74/Dialogue/enemy2
 > CONTEXT: CommonEvents_649/208/Dialogue/enemy2
-This is \\C[10]"Intervention"\\C[0], isn't it?
+\\C[10]"Intervention"\\C[0], was it called?
 
-From now on, I've come to be able to do a lot
-of things just like you...♪#Triketos
+Since then, I can now do a lot of the same
+things you can... ♪#Triketos/Ron
 > END STRING
 
 > BEGIN STRING
@@ -84,7 +84,7 @@ of things just like you...♪#Triketos
 さっきの約束、忘れたわけじゃないわよね？
 > CONTEXT: CommonEvents_648/79/Dialogue/enemy2
 > CONTEXT: CommonEvents_649/213/Dialogue/enemy2
-What would you do again?
+You can redo all this if you want.
 
-You didn't forget your promise, did you?#Triketos
+I'm not going to forget our promise, though.#Triketos/Ron
 > END STRING

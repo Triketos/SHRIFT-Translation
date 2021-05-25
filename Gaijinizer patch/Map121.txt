@@ -28,10 +28,30 @@ Milking (Slug)en(v[50] \>= 50)#Ron
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 【エコー】種族：妖魔
+友好度：\\V[50]
 > CONTEXT: Map121/events/5/pages/0/33/ChoiceHelp
 [Echo] Tribe: Apparition
 Current Friendship: \\C[2]\\v[50]\\C[0]#Ron
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度２５以上\\C[0]】
+（現在友好度　　\\V[50]/100）
+> CONTEXT: Map121/events/5/pages/0/40/ChoiceHelp
+Requires:【\\C[2] Friendship 25+\\C[0]】
+Current Friendship: \\C[2]\\v[50]\\C[0]#Triketos
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度５０以上\\C[0]】
+（現在友好度　　\\V[50]/100）
+> CONTEXT: Map121/events/5/pages/0/73/ChoiceHelp
+Requires:【\\C[2] Friendship 50+\\C[0]】
+Current Friendship: \\C[2]\\v[50]\\C[0]#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -59,6 +79,15 @@ Sorry...#Ron
 心蝕を消すif(v[50] \>= 100) 
 > CONTEXT: Map121/events/5/pages/0/243/Choice/0
 Clear corruptionif(v[50] \>= 100)#Ron
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度１００\\C[0]】
+（現在友好度　　\\V[50]/100）
+> CONTEXT: Map121/events/5/pages/0/245/ChoiceHelp
+Requires:【\\C[2] Friendship 100\\C[0]】
+Current Friendship: \\C[2]\\v[50]\\C[0]#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -103,6 +132,15 @@ Waterway Eventsen(v[50] \>= 40)#Ron
 『料理』en(v[50] \>= 60) 
 > CONTEXT: Map121/events/5/pages/1/7/Choice/2
 Cookingen(v[50] \>= 60)#Ron
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度３０以上\\C[0]】
+（現在友好度　　\\V[50]/100）
+> CONTEXT: Map121/events/5/pages/1/9/ChoiceHelp
+Requires:【\\C[2] Friendship 30+\\C[0]】
+Current Friendship: \\C[2]\\v[50]\\C[0]#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -175,8 +213,9 @@ would never have guessed.#Ron
  そうやって繋ぎ合わせた声だから…？
 > CONTEXT: Map121/events/5/pages/1/41/Dialogue/kazuya
 So then... When you're in your other form and
-your voice sounds all mismatched... Is that because
-of all those voices you've patched together...?#Ron
+your voice sounds all mismatched... Is that
+because of all those voices you've patched
+together...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -346,6 +385,15 @@ love!#Ron
 > CONTEXT: Map121/events/5/pages/1/125/Dialogue/kazuya
 (But at the same time, it's a pretty big deal
 to have an affair...)#RonIffy
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度４０以上\\C[0]】
+（現在友好度　　\\V[50]/100）
+> CONTEXT: Map121/events/5/pages/1/131/ChoiceHelp
+Requires:【\\C[2] Friendship 40+\\C[0]】
+Current Friendship: \\C[2]\\v[50]\\C[0]#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -584,6 +632,15 @@ We Echos don't have anything like that.#Ron
 I want to understand that feeling someday...
 
 No, I definitely will understand it... ♡#Ron
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度６０以上\\C[0]】
+（現在友好度　　\\V[50]/100）
+> CONTEXT: Map121/events/5/pages/1/241/ChoiceHelp
+Requires:【\\C[2] Friendship 60+\\C[0]】
+Current Friendship: \\C[2]\\v[50]\\C[0]#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -835,6 +892,15 @@ I'll practice cooking more!!#Ron
 【キズナイベント】if(v[50] \>= 99) 
 > CONTEXT: Map121/events/5/pages/1/384/Choice/0
 [Bonding]if(v[50] \>= 99)#Ron
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度９９以上\\C[0]】
+（現在友好度　　\\V[50]/100）
+> CONTEXT: Map121/events/5/pages/1/386/ChoiceHelp
+Requires:【\\C[2] Friendship 99+\\C[0]】
+Current Friendship: \\C[2]\\v[50]\\C[0]#Triketos
 > END STRING
 
 > BEGIN STRING

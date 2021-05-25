@@ -13,13 +13,6 @@ Meira#Dargoth
 
 > BEGIN STRING
 アイアンメイデン
-> CONTEXT: Map024/events/7/pages/1/0/NamePop
-> CONTEXT: Map024/events/7/pages/2/0/NamePop
-> CONTEXT: Map193/events/7/pages/1/0/NamePop
-> CONTEXT: Map193/events/7/pages/2/0/NamePop
-> CONTEXT: Map194/events/7/pages/1/0/NamePop
-> CONTEXT: Map194/events/7/pages/2/0/NamePop
-Iron_Maiden#Triketos
 > CONTEXT: Enemies/15/name
 > CONTEXT: Enemies/16/name
 > CONTEXT: Enemies/17/name
@@ -63,10 +56,6 @@ Mother Rabbit (Missed)#afrg
 
 > BEGIN STRING
 マザーラビット
-> CONTEXT: Map024/events/28/pages/1/0/NamePop 
-> CONTEXT: Map193/events/28/pages/1/0/NamePop 
-> CONTEXT: Map194/events/28/pages/1/0/NamePop
-Mother_Rabbit#Triketos
 > CONTEXT: Enemies/60/name 
 > CONTEXT: Enemies/61/name 
 > CONTEXT: Enemies/62/name 
@@ -112,9 +101,6 @@ Ivory#afrg
 > CONTEXT: Enemies/84/name 
 > CONTEXT: Enemies/86/name 
 > CONTEXT: Enemies/89/name 
-> CONTEXT: Map024/events/11/pages/1/0/NamePop 
-> CONTEXT: Map193/events/11/pages/1/0/NamePop 
-> CONTEXT: Map194/events/11/pages/1/0/NamePop 
 > CONTEXT: MapInfos/80/name 
 > CONTEXT: MapInfos/221/name 
 > CONTEXT: MapInfos/222/name 
@@ -167,9 +153,6 @@ Nina#MTLed
 > CONTEXT: Enemies/123/name
 > CONTEXT: Enemies/124/name
 > CONTEXT: Enemies/125/name
-> CONTEXT: Map024/events/14/pages/1/0/NamePop
-> CONTEXT: Map193/events/14/pages/1/0/NamePop
-> CONTEXT: Map194/events/14/pages/1/0/NamePop
 > CONTEXT: MapInfos/119/name
 > CONTEXT: MapInfos/226/name
 > CONTEXT: MapInfos/228/name
@@ -186,9 +169,6 @@ Arachne#afrgPR
 > CONTEXT: Enemies/253/name 
 > CONTEXT: Enemies/285/name 
 > CONTEXT: Enemies/286/name 
-> CONTEXT: Map024/events/30/pages/1/0/NamePop 
-> CONTEXT: Map193/events/30/pages/1/0/NamePop 
-> CONTEXT: Map194/events/30/pages/1/0/NamePop 
 > CONTEXT: MapInfos/121/name 
 > CONTEXT: MapInfos/241/name 
 > CONTEXT: MapInfos/242/name 
@@ -210,9 +190,6 @@ Sphinx (Down)#afrg
 > CONTEXT: Enemies/160/name
 > CONTEXT: Enemies/165/name
 > CONTEXT: Enemies/226/name
-> CONTEXT: Map024/events/15/pages/1/0/NamePop
-> CONTEXT: Map193/events/15/pages/1/0/NamePop
-> CONTEXT: Map194/events/15/pages/1/0/NamePop
 > CONTEXT: MapInfos/122/name
 > CONTEXT: MapInfos/245/name
 > CONTEXT: MapInfos/246/name
@@ -225,7 +202,6 @@ Titanoboa#Triketos
 > CONTEXT: Enemies/241/name
 > CONTEXT: Enemies/242/name
 > CONTEXT: Enemies/250/name
-> CONTEXT: Map193/events/19/pages/1/0/NamePop
 > CONTEXT: MapInfos/217/name
 Hyakki#afrg
 > END STRING
@@ -266,8 +242,6 @@ Micah#MTLed
 > CONTEXT: Enemies/180/name 
 > CONTEXT: Enemies/181/name 
 > CONTEXT: Enemies/236/name 
-> CONTEXT: Map024/events/5/pages/1/0/NamePop 
-> CONTEXT: Map193/events/17/pages/1/0/NamePop 
 > CONTEXT: MapInfos/215/name 
 > CONTEXT: MapInfos/247/name 
 > CONTEXT: MapInfos/248/name 
@@ -309,8 +283,6 @@ Camazotz#Triketos
 > CONTEXT: Enemies/257/name
 > CONTEXT: Enemies/258/name
 > CONTEXT: Enemies/259/name
-> CONTEXT: Map024/events/3/pages/1/0/NamePop 
-> CONTEXT: Map193/events/18/pages/1/0/NamePop 
 > CONTEXT: MapInfos/216/name 
 > CONTEXT: MapInfos/243/name 
 > CONTEXT: MapInfos/244/name 
@@ -395,17 +367,15 @@ Harpy Queen#Triketos
 モルモー
 > CONTEXT: Enemies/288/name
 > CONTEXT: Enemies/289/name
-> CONTEXT: Map193/events/23/pages/1/0/NamePop
-> CONTEXT: Map193/events/23/pages/2/0/NamePop
 > CONTEXT: MapInfos/369/name
 Mormo#Triketos
 > END STRING
 
 > BEGIN STRING
 闇囚夢魔
-> CONTEXT: Enemies/290/name < UNTRANSLATED
-> CONTEXT: Enemies/291/name < UNTRANSLATED
-
+> CONTEXT: Enemies/290/name
+> CONTEXT: Enemies/291/name
+Abyss-Touched Succubus#Triketos/Ron
 > END STRING
 
 > BEGIN STRING
@@ -472,6 +442,15 @@ Anaon#Triketos
 > CONTEXT: Enemies/319/name
 > CONTEXT: Enemies/324/name
 Titania#Triketos
+> END STRING
+
+> BEGIN STRING
+オセロット
+> CONTEXT: Enemies/332/name
+> CONTEXT: Enemies/333/name
+> CONTEXT: MapInfos/441/name
+> CONTEXT: Troops/347/name
+Ocelot#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -1910,7 +1889,7 @@ then foolhardy arrogance.#Ron/Triketos
 > CONTEXT: Enemies/578/name
 > CONTEXT: Enemies/593/name
 > CONTEXT: Enemies/609/name
-(Bonding)#afrg
+(Bonded)#afrg/Ron
 > END STRING
 
 > BEGIN STRING
@@ -2862,7 +2841,7 @@ fit is typical of the Oni race.#Ron
 > BEGIN STRING
 力が弱い
 > CONTEXT: Enemies/616/BookAttribute/0
-
+Physically weak#Ron
 > END STRING
 
 > BEGIN STRING
@@ -2870,14 +2849,18 @@ fit is typical of the Oni race.#Ron
 夢の中に潜み、相手が眠りについた際、
 夢を見せながら生き血を啜る。
 > CONTEXT: Enemies/616/BookDescription/2
-
+Hecate's vampire subordinate. She sneaks into the
+dreams of her prey, and slurps up their lifeforce
+while she shows them dreams. Though physically#Ron
 > END STRING
 
 > BEGIN STRING
 物理的には非力だが、夢魔としては非常に危険で
 寝たままミイラにされてしまうほど搾られる事もあるとか
 > CONTEXT: Enemies/616/BookDescription/5
-
+powerless, she's very dangerous as a succubus in
+dreams, and has been known to drain her prey to
+such an extent that only a mummy is left behind.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -2965,7 +2948,9 @@ brings it to hell.#MTLed
 『死者の王女』の異名を持つ、自由奔放な女神
 魔力と女性に深く関わる女神として
 > CONTEXT: Enemies/621/BookDescription/2
-
+Known as the "Queen of the Dead", a free-spirited
+goddess deeply connected to magic and women, and
+worshipped as such by witches. Fed up with her#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -2974,7 +2959,9 @@ brings it to hell.#MTLed
 魔界や人間界を散策する生活を送っていたが
 いつしか性格まで、我が儘な子供になってしまった
 > CONTEXT: Enemies/621/BookDescription/4
-
+troubles in the Demon Realm, she took to wandering
+the human realm as a child, her personality
+eventually changing to reflect her chosen form.#RonLocalization
 > END STRING
 
 > BEGIN STRING

@@ -28,10 +28,30 @@ Milking (Tail)en(v[53] \>= 50) #afrg
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 【カマソッソ】種族：魔獣
+友好度：\\V[53]
 > CONTEXT: Map215/events/5/pages/0/33/ChoiceHelp
 [Camazotz] Race: Magical Beast
 Current Friendship: \\C[2]\\v[53]\\C[0]#Ron
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度２５以上\\C[0]】
+（現在友好度　　\\V[53]/100）
+> CONTEXT: Map215/events/5/pages/0/40/ChoiceHelp
+Requires:【\\C[2] Friendship 25+\\C[0]】
+Current Friendship: \\C[2]\\v[53]\\C[0]#Triketos
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度５０以上\\C[0]】
+（現在友好度　　\\V[53]/100）
+> CONTEXT: Map215/events/5/pages/0/73/ChoiceHelp
+Requires:【\\C[2] Friendship 50+\\C[0]】
+Current Friendship: \\C[2]\\v[53]\\C[0]#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -58,6 +78,17 @@ Want mate now...#afrg
 心蝕を消すif(v[53] \>= 100) 
 > CONTEXT: Map215/events/5/pages/0/214/Choice/0
 Clear corruptionif(v[53] \>= 100) #afrg
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度１００\\C[0]】
+（現在友好度　　\\V[53]/100）
+> CONTEXT: Map215/events/5/pages/0/216/ChoiceHelp
+> CONTEXT: Map215/events/5/pages/0/246/ChoiceHelp
+Requires:【\\C[2] Friendship 100\\C[0]】
+Current Friendship: \\C[2]\\v[53]\\C[0]#Triketos
+
 > END STRING
 
 > BEGIN STRING
@@ -196,6 +227,15 @@ About "Parasitism"en(v[53] \>= 40) #afrg
 身体について　en(v[53] \>= 60) 
 > CONTEXT: Map215/events/5/pages/1/7/Choice/2
 About her bodyen(v[53] \>= 60) #afrg
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度３０以上\\C[0]】
+（現在友好度　　\\V[53]/100）
+> CONTEXT: Map215/events/5/pages/1/9/ChoiceHelp
+Requires:【\\C[2] Friendship 30+\\C[0]】
+Current Friendship: \\C[2]\\v[53]\\C[0]#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -464,6 +504,15 @@ H-Help!!#Ron
 やだ♪
 > CONTEXT: Map215/events/5/pages/1/140/Dialogue/other2
 Good luck. ♪#Ron
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度４０以上\\C[0]】
+（現在友好度　　\\V[53]/100）
+> CONTEXT: Map215/events/5/pages/1/144/ChoiceHelp
+Requires:【\\C[2] Friendship 40+\\C[0]】
+Current Friendship: \\C[2]\\v[53]\\C[0]#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -818,6 +867,7 @@ shoot you, yes...?#afrg
 > BEGIN STRING
 う、うん……
 > CONTEXT: Map215/events/5/pages/1/308/Dialogue/kazuya
+> CONTEXT: Troops/317/pages/0/59/Dialogue/kazuya-c
 Y-Yeah...#Ron
 > END STRING
 
@@ -963,6 +1013,15 @@ I see... Getting infested really is the end,
 then. You were released from the pleasure
 instantly, so maybe it's like going through drug
 withdrawal...#afrg
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度６０以上\\C[0]】
+（現在友好度　　\\V[53]/100）
+> CONTEXT: Map215/events/5/pages/1/379/ChoiceHelp
+Requires:【\\C[2] Friendship 60+\\C[0]】
+Current Friendship: \\C[2]\\v[53]\\C[0]#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -1350,6 +1409,15 @@ Heh heh...#Ron
 【キズナイベント】if(v[53] \>= 99) 
 > CONTEXT: Map215/events/5/pages/1/557/Choice/0
 [Bonding]if(v[53] \>= 99)#Ron
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度９９以上\\C[0]】
+（現在友好度　　\\V[53]/100）
+> CONTEXT: Map215/events/5/pages/1/559/ChoiceHelp
+Requires:【\\C[2] Friendship 99+\\C[0]】
+Current Friendship: \\C[2]\\v[53]\\C[0]#Triketos
 > END STRING
 
 > BEGIN STRING

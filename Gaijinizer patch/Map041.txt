@@ -28,10 +28,31 @@ Milking (Rear) en(v[42] \>= 60) #Dargoth
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 【アイアンメイデン】種族：妖魔
+友好度：\\V[42]
 > CONTEXT: Map041/events/5/pages/0/33/ChoiceHelp
 [Iron Maiden] Tribe: Apparition
 Current Friendship: \\C[2]\\v[42]\\C[0] #Ron/Triketos
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度２５以上\\C[0]】
+（現在友好度　　\\V[42]/100）
+> CONTEXT: Map041/events/5/pages/0/40/ChoiceHelp
+Requires:【\\C[2] Friendship 25+\\C[0]】
+Current Friendship: \\C[2]\\v[42]\\C[0]#Triketos
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度６０以上\\C[0]】
+（現在友好度　　\\V[42]/100）
+> CONTEXT: Map041/events/5/pages/0/73/ChoiceHelp
+> CONTEXT: Map041/events/5/pages/1/203/ChoiceHelp
+Requires:【\\C[2] Friendship 60+\\C[0]】
+Current Friendship: \\C[2]\\v[42]\\C[0]#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -74,6 +95,15 @@ thought into the gifts you give women... Fufufu.#Ron
 心蝕を消すif(v[42] \>= 100) 
 > CONTEXT: Map041/events/5/pages/0/229/Choice/0
 Clear corruption if(v[42] \>= 100) #Dargoth
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度１００\\C[0]】
+（現在友好度　　\\V[42]/100）
+> CONTEXT: Map041/events/5/pages/0/231/ChoiceHelp
+Requires:【\\C[2] Friendship 100\\C[0]】
+Current Friendship: \\C[2]\\v[42]\\C[0]#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -124,6 +154,15 @@ Her Dressen(v[42] \>= 60)#Ron
 普段の食事と好みについてen(v[42] \>= 80) 
 > CONTEXT: Map041/events/5/pages/1/7/Choice/3
 What Do You Eat?en(v[42] \>= 80)#Ron
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度３０以上\\C[0]】
+（現在友好度　　\\V[42]/100）
+> CONTEXT: Map041/events/5/pages/1/9/ChoiceHelp
+Requires:【\\C[2] Friendship 30+\\C[0]】
+Current Friendship: \\C[2]\\v[42]\\C[0]#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -298,6 +337,15 @@ make you mine.#Ron
 > CONTEXT: Map041/events/5/pages/1/81/Dialogue/yuuma
 Aaah... ♡ The feeling of holding you... ♡
 If you'd like, please let me hold you again. ♡#Ron
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度４０以上\\C[0]】
+（現在友好度　　\\V[42]/100）
+> CONTEXT: Map041/events/5/pages/1/87/ChoiceHelp
+Requires:【\\C[2] Friendship 40+\\C[0]】
+Current Friendship: \\C[2]\\v[42]\\C[0]#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -750,6 +798,15 @@ How strange, fufu...#Ron
 （……絶対わかってやってるな……！）
 > CONTEXT: Map041/events/5/pages/1/292/Dialogue/kazuya
 (... You definitely knew what you were doing...!)#Ron
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度８０以上\\C[0]】
+（現在友好度　　\\V[42]/100）
+> CONTEXT: Map041/events/5/pages/1/296/ChoiceHelp
+Requires:【\\C[2] Friendship 80+\\C[0]】
+Current Friendship: \\C[2]\\v[42]\\C[0]#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -1233,6 +1290,15 @@ just now...! )#Ron
 【キズナイベント】if(v[42] \>= 99) 
 > CONTEXT: Map041/events/5/pages/1/545/Choice/0
 Bonding Event if(v[42] \>= 99) #Dargoth
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度９９以上\\C[0]】
+（現在友好度　　\\V[42]/100）
+> CONTEXT: Map041/events/5/pages/1/547/ChoiceHelp
+Requires:【\\C[2] Friendship 99+\\C[0]】
+Current Friendship: \\C[2]\\v[42]\\C[0]#Triketos
 > END STRING
 
 > BEGIN STRING

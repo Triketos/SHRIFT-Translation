@@ -78,17 +78,40 @@ Milking (Embrace) en(v[43] \>=75) #Dargoth
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 【ランパス】種族：妖魔
+
+友好度：\\V[43]
 > CONTEXT: Map027/events/5/pages/0/57/ChoiceHelp
 [Lampas] Tribe: Demon
 Current Friendship: \\C[2]\\v[43]\\C[0]#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度２５以上\\C[0]】
+（現在友好度　　\\V[43]/100）
+> CONTEXT: Map027/events/5/pages/0/65/ChoiceHelp
+Requires:【\\C[2] Friendship 25+\\C[0]】
+Current Friendship: \\C[2]\\v[43]\\C[0]#Triketos
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度５０以上\\C[0]】
+（現在友好度　　\\V[43]/100）
+> CONTEXT: Map027/events/5/pages/0/98/ChoiceHelp
+Requires:【\\C[2] Friendship 50+\\C[0]】
+Current Friendship: \\C[2]\\v[43]\\C[0]#Triketos
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
 条件【\\C[2]友好度７５以上\\C[0]】
+（現在友好度　　\\V[43]/100）
 > CONTEXT: Map027/events/5/pages/0/131/ChoiceHelp
-> CONTEXT: Map070/events/9/pages/0/135/ChoiceHelp
-Requires:【\\C[2] Friendship 75+\\C[0]】#Triketos
+Requires:【\\C[2] Friendship 75+\\C[0]】
+Current Friendship: \\C[2]\\v[43]\\C[0]#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -127,6 +150,15 @@ Lampas \\C[2]did not accept the gift...#Ron
 心蝕を消すif(v[43] \>= 100) 
 > CONTEXT: Map027/events/5/pages/0/288/Choice/0
 Clear corruption if(v[43] \>= 100) #Dargoth
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度１００\\C[0]】
+（現在友好度　　\\V[43]/100）
+> CONTEXT: Map027/events/5/pages/0/290/ChoiceHelp
+Requires:【\\C[2] Friendship 100\\C[0]】
+Current Friendship: \\C[2]\\v[43]\\C[0]#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -175,6 +207,15 @@ Lampas' Purposeen(v[43] \>= 60)#Triketos
 人の心について en(v[43] \>= 80) 
 > CONTEXT: Map027/events/5/pages/1/7/Choice/3
 The Human Hearten(v[43] \>= 80)#Ron
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度３０以上\\C[0]】
+（現在友好度　　\\V[43]/100）
+> CONTEXT: Map027/events/5/pages/1/9/ChoiceHelp
+Requires:【\\C[2] Friendship 30+\\C[0]】
+Current Friendship: \\C[2]\\v[43]\\C[0]#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -364,6 +405,15 @@ in that after hearing that remark...)#Ron
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度４０以上\\C[0]】
+（現在友好度　　\\V[43]/100）
+> CONTEXT: Map027/events/5/pages/1/104/ChoiceHelp
+Requires:【\\C[2] Friendship 40+\\C[0]】
+Current Friendship: \\C[2]\\v[43]\\C[0]#Triketos
+> END STRING
+
+> BEGIN STRING
 その………なんというか、
 
 き、器用なツタだね……。
@@ -520,6 +570,15 @@ I like that part of you.#Ron
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度６０以上\\C[0]】
+（現在友好度　　\\V[43]/100）
+> CONTEXT: Map027/events/5/pages/1/173/ChoiceHelp
+Requires:【\\C[2] Friendship 60+\\C[0]】
+Current Friendship: \\C[2]\\v[43]\\C[0]#Triketos
+> END STRING
+
+> BEGIN STRING
 んー……ニンゲンとセックスして、受精して
 
 尻尾の灯りを永遠に灯すこと………だね。
@@ -671,6 +730,15 @@ Oh, ahaha......#Ron
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度８０以上\\C[0]】
+（現在友好度　　\\V[43]/100）
+> CONTEXT: Map027/events/5/pages/1/243/ChoiceHelp
+Requires:【\\C[2] Friendship 80+\\C[0]】
+Current Friendship: \\C[2]\\v[43]\\C[0]#Triketos
+> END STRING
+
+> BEGIN STRING
 ねぇ、ちょっと散歩しない？
 
 もし時間があればでいいんだけどさ……
@@ -718,6 +786,15 @@ O-, okay. Let's go...#Ron
 【キズナイベント】if(v[43] \>= 99) 
 > CONTEXT: Map027/events/5/pages/1/276/Choice/0
 Bonding Event if(v[43] \>= 99) #Dargoth
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度９９以上\\C[0]】
+（現在友好度　　\\V[43]/100）
+> CONTEXT: Map027/events/5/pages/1/278/ChoiceHelp
+Requires:【\\C[2] Friendship 99+\\C[0]】
+Current Friendship: \\C[2]\\v[43]\\C[0]#Triketos
 > END STRING
 
 > BEGIN STRING

@@ -4,9 +4,9 @@
 
 こわいことしないで……！
 > CONTEXT: CommonEvents_627/0/Dialogue/kazuya-b
-Oh, please... don't come...
+P-Please... stay away...
 
-Don't be scared...!#GT
+Don't do anything scary...!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -65,9 +65,10 @@ It looks like you missed Lampas...#GT
 
 怯えてる姿も可愛いのね、\\N[1]くん♡
 > CONTEXT: CommonEvents_627/38/Dialogue/enemy
-Fufufu ♪
+Fufufu. ♪
 
-The scared look is so cute, \\N[1]-kun ♡#GT
+You're even cute when you're scared,
+\\N[1]-kun... ♡#Ron
 > END STRING
 
 > BEGIN STRING
@@ -75,15 +76,15 @@ The scared look is so cute, \\N[1]-kun ♡#GT
 
 すぐに怖くないようにしてあげるから♡
 > CONTEXT: CommonEvents_627/42/Dialogue/enemy
-All right, leave it to your sister!
+It's okay, leave everything to your onee-san!
 
-I'll make you not scared right away ♡#GT
+I'll make you feel nice and safe. ♡#Ron
 > END STRING
 
 > BEGIN STRING
 命乞いは失敗してしまったようだ……
 > CONTEXT: CommonEvents_627/46/Dialogue
-Your begging seems to have failed...#GT
+Begging for your life seems to have failed...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -94,7 +95,8 @@ Your begging seems to have failed...#GT
 > CONTEXT: CommonEvents_627/57/Dialogue/enemy25
 .........? 
 
-You know, \\N[1]-kun, I'm not scared of you!#GT
+You're saying some weird stuff, \\N[1]-kun.
+I'm not gonna do anything scary to you!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -106,6 +108,6 @@ Kyhahahahahahahahahaha!!#GT
 > BEGIN STRING
 どうやら、バグベアに\\C[2]命乞いは効果がないようだ…
 > CONTEXT: CommonEvents_627/68/Dialogue
-Apparently, \\C[2]begging doesn't seem to work
-against the Bugbear...#GT
+It appears that \\C[2]begging for your life has no effect
+on Bugbear...#Ron
 > END STRING
