@@ -807,8 +807,11 @@ Enter the temple?#Ron
 
 お前の言いたいことは何となく分かるけど
 俺はオベロンじゃねぇよ
-> CONTEXT: Map404/events/16/pages/1/1/Dialogue/enemy31 < UNTRANSLATED
+> CONTEXT: Map404/events/16/pages/1/1/Dialogue/enemy31
+......What?
 
+I can sorta tell what you're going to say, but
+I'm not Oberon, man.#StrateUnsure
 > END STRING
 
 > BEGIN STRING
@@ -816,8 +819,11 @@ Enter the temple?#Ron
 
 俺はオベロン様の使い魔なんだが
 アイツ、俺を自分そっくりに創りやがったんだよ。
-> CONTEXT: Map404/events/16/pages/1/6/Dialogue/enemy31 < UNTRANSLATED
+> CONTEXT: Map404/events/16/pages/1/6/Dialogue/enemy31
+I'm \\C[2]the real Puck.\\C[0]
 
+I'm Oberon-sama's familiar. He created me to look
+exactly like him.#Strate
 > END STRING
 
 > BEGIN STRING
@@ -825,8 +831,11 @@ Enter the temple?#Ron
 この森をうろついてるわけがないってことで
 
 アイツのヘマや悪戯は、ぜーんぶ俺のせいになるんだよ。
-> CONTEXT: Map404/events/16/pages/1/11/Dialogue/enemy31 < UNTRANSLATED
-
+> CONTEXT: Map404/events/16/pages/1/11/Dialogue/enemy31
+Since there's no way the King would just be
+wandering around this forest mingling with the
+fairies, I end up taking the blame for aaall
+of his screw-ups and mischief.#Strate
 > END STRING
 
 > BEGIN STRING
@@ -834,8 +843,11 @@ Enter the temple?#Ron
 普段は森の奥でひっそり暮らしてるんだよ
 
 騒がしいから、ちょっと様子を見に来ただけだ。
-> CONTEXT: Map404/events/16/pages/1/16/Dialogue/enemy31 < UNTRANSLATED
-
+> CONTEXT: Map404/events/16/pages/1/16/Dialogue/enemy31
+Of course, I don't wanna get dragged into that, so
+I usually live in seclusion deep in the forest.
+I only came here to see what all the ruckus was
+about.#Strate
 > END STRING
 
 > BEGIN STRING
@@ -843,14 +855,19 @@ Enter the temple?#Ron
 オベロン自身は、俺を始末してるって思い込んでることだな
 
 おかげで、生きてるって勘づかれずに済んでる。
-> CONTEXT: Map404/events/16/pages/1/21/Dialogue/enemy31 < UNTRANSLATED
+> CONTEXT: Map404/events/16/pages/1/21/Dialogue/enemy31
+Well... the one good thing is, Oberon himself is
+convinced I've been dealt with.
 
+Thanks to that, he doesn't know I'm alive.#StrateUnsure
 > END STRING
 
 > BEGIN STRING
 …………あんまり、俺がここにいるのバレたくないからさ
 
 こっち話しかけないでくれるか？
-> CONTEXT: Map404/events/16/pages/1/26/Dialogue/enemy31 < UNTRANSLATED
+> CONTEXT: Map404/events/16/pages/1/26/Dialogue/enemy31
+......I don't want to draw too much attention.
 
+Can you stop talking to me?#StrateLocalization
 > END STRING
