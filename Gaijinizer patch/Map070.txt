@@ -17,6 +17,7 @@ Change Her Titleen(v[46] \>= 25)#Ron
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 現在の呼び方【\\N[2]】
 > CONTEXT: Map070/events/5/pages/0/33/ChoiceHelp
 Change how you address Haru. Currently [\\N[2]].#Ron
@@ -26,21 +27,21 @@ Change how you address Haru. Currently [\\N[2]].#Ron
 ハルちゃん
 > CONTEXT: Map070/events/5/pages/0/35/Choice/1
 > CONTEXT: Troops/90/pages/1/86/Choice/0
-Haru-chan#MTLed
+Haru-chan#Triketos
 > END STRING
 
 > BEGIN STRING
 ハルさま
 > CONTEXT: Map070/events/5/pages/0/35/Choice/2
 > CONTEXT: Troops/90/pages/1/86/Choice/1
-Haru-sama#MTLed
+Haru-sama#Triketos
 > END STRING
 
 > BEGIN STRING
 "ハルちゃん"
 > CONTEXT: Map070/events/5/pages/0/40/InlineScript/1:23
 > CONTEXT: Troops/90/pages/1/88/InlineScript/1:23
-"Haru-chan"#MTLed
+"Haru-chan"#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -76,10 +77,33 @@ Milking (69)en(v[46] \>= 50)#Ron
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 【ハル】種族：魔獣
+友好度：\\V[46]
 > CONTEXT: Map070/events/5/pages/0/52/ChoiceHelp
 [Haru] Tribe: Magical Beast
 Current Friendship: \\C[2]\\v[46]\\C[0]#Ron
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度２５以上\\C[0]】
+（現在友好度　　\\V[46]/100）
+> CONTEXT: Map070/events/5/pages/0/59/ChoiceHelp
+> CONTEXT: Map070/events/9/pages/0/69/ChoiceHelp
+Requires:【\\C[2] Friendship 25+\\C[0]】
+Current Friendship: \\C[2]\\v[46]\\C[0]#Triketos
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度５０以上\\C[0]】
+（現在友好度　　\\V[46]/100）
+> CONTEXT: Map070/events/5/pages/0/115/ChoiceHelp
+> CONTEXT: Map070/events/9/pages/0/102/ChoiceHelp
+> CONTEXT: Map070/events/9/pages/1/62/ChoiceHelp
+Requires:【\\C[2] Friendship 50+\\C[0]】
+Current Friendship: \\C[2]\\v[46]\\C[0]#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -104,6 +128,15 @@ it should be some lunchbox food.#RonIffy
 心蝕を消すif(v[46] \>= 100) 
 > CONTEXT: Map070/events/5/pages/0/247/Choice/0
 Clear Haru and Liz's corruptionif(v[46] \>= 100)#Ron
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度１００\\C[0]】
+（現在友好度　　\\V[46]/100）
+> CONTEXT: Map070/events/5/pages/0/249/ChoiceHelp
+Requires:【\\C[2] Friendship 100\\C[0]】
+Current Friendship: \\C[2]\\v[46]\\C[0]#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -143,6 +176,16 @@ Hoodieen(v[46] \>= 40)#Ron
 嗜好品en(v[46] \>= 60) 
 > CONTEXT: Map070/events/5/pages/1/5/Choice/2
 Favorite Foodsen(v[46] \>= 60)#Ron
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度３０以上\\C[0]】
+（現在友好度　　\\V[46]/100）
+> CONTEXT: Map070/events/5/pages/1/7/ChoiceHelp
+> CONTEXT: Map070/events/9/pages/1/9/ChoiceHelp
+Requires:【\\C[2] Friendship 30+\\C[0]】
+Current Friendship: \\C[2]\\v[46]\\C[0]#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -368,6 +411,15 @@ Just a little more...#Ron
 (I know what she means, but...!
 ...it feels weird having someone say that
 straight to my face like that...)#Ron
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度４０以上\\C[0]】
+（現在友好度　　\\V[46]/100）
+> CONTEXT: Map070/events/5/pages/1/116/ChoiceHelp
+Requires:【\\C[2] Friendship 40+\\C[0]】
+Current Friendship: \\C[2]\\v[46]\\C[0]#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -626,6 +678,15 @@ unless you want to be suffocated with her tongue.)#Ron
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度６０以上\\C[0]】
+（現在友好度　　\\V[46]/100）
+> CONTEXT: Map070/events/5/pages/1/239/ChoiceHelp
+Requires:【\\C[2] Friendship 60+\\C[0]】
+Current Friendship: \\C[2]\\v[46]\\C[0]#Triketos
+> END STRING
+
+> BEGIN STRING
 \\N[2]は、用意したお菓子やお弁当を
 
  おいしそうにガツガツ頬張っている……
@@ -841,6 +902,7 @@ More About Mioif(s[376])#Triketos
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 条件【\\C[2]想ひ魂【虚】を所持している\\C[0]】
 > CONTEXT: Map070/events/5/pages/1/335/ChoiceHelp
 Requires:【\\C[2]Have Memento(Imaginary)\\C[0]】#Triketos
@@ -993,7 +1055,8 @@ the clothes a little bit.#GT
 > END STRING
 
 > BEGIN STRING
-ワタシの変化じゃ、どんなに背伸びしたってミオ様みたいなムチムチ肌にはなれないからさ……
+ワタシの変化じゃ、どんなに背伸びしたって
+ミオ様みたいなムチムチ肌にはなれないからさ……
 
 ならいっそのこと、モフモフに特化させようと思って…
 > CONTEXT: Map070/events/5/pages/1/406/Dialogue/enemy5 < UNTRANSLATED
@@ -1523,6 +1586,15 @@ the clothes a little bit.#GT
 【キズナイベント】if(v[46] \>= 99) 
 > CONTEXT: Map070/events/5/pages/1/761/Choice/0
 [Bonding]if(v[46] \>= 99)#Ron
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度９９以上\\C[0]】
+（現在友好度　　\\V[46]/100）
+> CONTEXT: Map070/events/5/pages/1/763/ChoiceHelp
+Requires:【\\C[2] Friendship 99+\\C[0]】
+Current Friendship: \\C[2]\\v[46]\\C[0]#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -2249,6 +2321,7 @@ Do you want me to tease you?#Ron
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 現在の呼び方【\\N[3]】
 > CONTEXT: Map070/events/9/pages/0/33/ChoiceHelp
 Change how you address Liz. Currently [\\N[3]].#Ron
@@ -2323,10 +2396,22 @@ Milkingen(v[46] \>= 75)#Ron
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 【リズ】種族：魔獣
+友好度：\\V[46]
 > CONTEXT: Map070/events/9/pages/0/62/ChoiceHelp
-[Liz] Tribe: Magical Beast#Ron
+[Liz] Tribe: Magical Beast
 Current Friendship: \\C[2]\\v[46]\\C[0]#Ron
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度７５以上\\C[0]】
+（現在友好度　　\\V[46]/100）
+> CONTEXT: Map070/events/9/pages/0/135/ChoiceHelp
+Requires:【\\C[2] Friendship 75+\\C[0]】
+Current Friendship: \\C[2]\\v[46]\\C[0]#Triketos
+
 > END STRING
 
 > BEGIN STRING
@@ -2476,10 +2561,9 @@ At first, I laughed at the idea of getting
 along with humans...
 
 It sounded stupid.
-But there were a surprising amount of humans
-who wanted to fuck Haru, and it was quite profitable.
-
-I was quite surprised.#Ron
+But there were a surprising number of humans
+who wanted to fuck Haru, and it was quite
+profitable. I was quite surprised.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -2730,10 +2814,12 @@ milked... ♡#Ron
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 条件【\\C[2]友好度７０以上\\C[0]】
+（現在友好度　　\\V[46]/100）
 > CONTEXT: Map070/events/9/pages/1/175/ChoiceHelp
-> CONTEXT: Map216/events/5/pages/0/110/ChoiceHelp
-Requires:【\\C[2] Friendship 70+\\C[0] ]#Ron
+Requires:【\\C[2] Friendship 70+\\C[0]】
+Current Friendship: \\C[2]\\v[46]\\C[0]#Triketos
 > END STRING
 
 > BEGIN STRING

@@ -44,10 +44,39 @@ Milking (Footjob)en(v[54] \>= 70)#Ron
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 【妲己】種族：妖魔
+友好度：\\V[54]
 > CONTEXT: Map216/events/5/pages/0/37/ChoiceHelp
 [Daji] Tribe: Apparition
 Current Friendship: \\C[2]\\v[54]\\C[0]#Ron
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度２５以上\\C[0]】
+（現在友好度　　\\V[54]/100）
+> CONTEXT: Map216/events/5/pages/0/44/ChoiceHelp
+Requires:【\\C[2] Friendship 25+\\C[0]】
+Current Friendship: \\C[2]\\v[54]\\C[0]#Triketos
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度５０以上\\C[0]】
+（現在友好度　　\\V[54]/100）
+> CONTEXT: Map216/events/5/pages/0/77/ChoiceHelp
+Requires:【\\C[2] Friendship 50+\\C[0]】
+Current Friendship: \\C[2]\\v[54]\\C[0]#Triketos
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度７０以上\\C[0]】
+（現在友好度　　\\V[54]/100）
+> CONTEXT: Map216/events/5/pages/0/110/ChoiceHelp
+Requires:【\\C[2] Friendship 75+\\C[0]】
+Current Friendship: \\C[2]\\v[54]\\C[0]#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -66,6 +95,17 @@ Milking (Beast)en(v[54] \>= 80)#Ron
 搾精（ジェル）en(v[54] \>= 80) 
 > CONTEXT: Map216/events/5/pages/0/145/Choice/2
 Milking (Gel)en(v[54] \>= 80)#Ron
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度８０以上\\C[0]】
+（現在友好度　　\\V[54]/100）
+> CONTEXT: Map216/events/5/pages/0/147/ChoiceHelp
+> CONTEXT: Map216/events/5/pages/0/180/ChoiceHelp
+> CONTEXT: Map216/events/5/pages/0/213/ChoiceHelp
+Requires:【\\C[2] Friendship 80+\\C[0]】
+Current Friendship: \\C[2]\\v[54]\\C[0]#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -94,6 +134,15 @@ Now go and get me something better.#Ron
 心蝕を消すif(v[54] \>= 100) 
 > CONTEXT: Map216/events/5/pages/0/366/Choice/0
 Clear corruptionif(v[54] \>= 100)#Ron
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度１００\\C[0]】
+（現在友好度　　\\V[54]/100）
+> CONTEXT: Map216/events/5/pages/0/368/ChoiceHelp
+Requires:【\\C[2] Friendship 100\\C[0]】
+Current Friendship: \\C[2]\\v[54]\\C[0]#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -138,6 +187,15 @@ Her Time Stop abilityen(v[54] \>= 40)#Ron
 妲己の罠en(v[54] \>= 60) 
 > CONTEXT: Map216/events/5/pages/1/7/Choice/2
 Her trapen(v[54] \>= 60)#Ron
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度３０以上\\C[0]】
+（現在友好度　　\\V[54]/100）
+> CONTEXT: Map216/events/5/pages/1/9/ChoiceHelp
+Requires:【\\C[2] Friendship 30+\\C[0]】
+Current Friendship: \\C[2]\\v[54]\\C[0]#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -420,6 +478,15 @@ you go by normal human proportions...#RonLocalization
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度４０以上\\C[0]】
+（現在友好度　　\\V[54]/100）
+> CONTEXT: Map216/events/5/pages/1/141/ChoiceHelp
+Requires:【\\C[2] Friendship 40+\\C[0]】
+Current Friendship: \\C[2]\\v[54]\\C[0]#Triketos
+> END STRING
+
+> BEGIN STRING
 妲己は、時間停止みたいな攻撃を使ってたけど……
 
 あれは、躯が使っていたものと同じなの？
@@ -621,6 +688,15 @@ of us among you...#RonIffy
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度６０以上\\C[0]】
+（現在友好度　　\\V[54]/100）
+> CONTEXT: Map216/events/5/pages/1/241/ChoiceHelp
+Requires:【\\C[2] Friendship 60+\\C[0]】
+Current Friendship: \\C[2]\\v[54]\\C[0]#Triketos
+> END STRING
+
+> BEGIN STRING
 妲己の行動で、
 ちょっと腑に落ちない部分があるんだけど
 
@@ -737,7 +813,7 @@ it to hit you...#RonIffy
 > CONTEXT: Map216/events/5/pages/1/295/Dialogue/enemy17
 I never planned on revealing myself to you. I was
 going to remain as Yuuma until the very end and
-have meet your demise in the vehicle control
+have you meet your demise in the vehicle control
 room.#Ron
 > END STRING
 
@@ -886,6 +962,15 @@ W-What a terrifying ability...#Ron
 【キズナイベント】if(v[54] \>= 99) 
 > CONTEXT: Map216/events/5/pages/1/367/Choice/0
 [Bonding]if(v[54] \>= 99)#Ron
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度９９以上\\C[0]】
+（現在友好度　　\\V[54]/100）
+> CONTEXT: Map216/events/5/pages/1/369/ChoiceHelp
+Requires:【\\C[2] Friendship 99+\\C[0]】
+Current Friendship: \\C[2]\\v[54]\\C[0]#Triketos
 > END STRING
 
 > BEGIN STRING

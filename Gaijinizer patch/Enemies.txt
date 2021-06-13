@@ -13,13 +13,6 @@ Meira#Dargoth
 
 > BEGIN STRING
 アイアンメイデン
-> CONTEXT: Map024/events/7/pages/1/0/NamePop
-> CONTEXT: Map024/events/7/pages/2/0/NamePop
-> CONTEXT: Map193/events/7/pages/1/0/NamePop
-> CONTEXT: Map193/events/7/pages/2/0/NamePop
-> CONTEXT: Map194/events/7/pages/1/0/NamePop
-> CONTEXT: Map194/events/7/pages/2/0/NamePop
-Iron_Maiden#Triketos
 > CONTEXT: Enemies/15/name
 > CONTEXT: Enemies/16/name
 > CONTEXT: Enemies/17/name
@@ -63,10 +56,6 @@ Mother Rabbit (Missed)#afrg
 
 > BEGIN STRING
 マザーラビット
-> CONTEXT: Map024/events/28/pages/1/0/NamePop 
-> CONTEXT: Map193/events/28/pages/1/0/NamePop 
-> CONTEXT: Map194/events/28/pages/1/0/NamePop
-Mother_Rabbit#Triketos
 > CONTEXT: Enemies/60/name 
 > CONTEXT: Enemies/61/name 
 > CONTEXT: Enemies/62/name 
@@ -112,9 +101,6 @@ Ivory#afrg
 > CONTEXT: Enemies/84/name 
 > CONTEXT: Enemies/86/name 
 > CONTEXT: Enemies/89/name 
-> CONTEXT: Map024/events/11/pages/1/0/NamePop 
-> CONTEXT: Map193/events/11/pages/1/0/NamePop 
-> CONTEXT: Map194/events/11/pages/1/0/NamePop 
 > CONTEXT: MapInfos/80/name 
 > CONTEXT: MapInfos/221/name 
 > CONTEXT: MapInfos/222/name 
@@ -167,9 +153,6 @@ Nina#MTLed
 > CONTEXT: Enemies/123/name
 > CONTEXT: Enemies/124/name
 > CONTEXT: Enemies/125/name
-> CONTEXT: Map024/events/14/pages/1/0/NamePop
-> CONTEXT: Map193/events/14/pages/1/0/NamePop
-> CONTEXT: Map194/events/14/pages/1/0/NamePop
 > CONTEXT: MapInfos/119/name
 > CONTEXT: MapInfos/226/name
 > CONTEXT: MapInfos/228/name
@@ -186,9 +169,6 @@ Arachne#afrgPR
 > CONTEXT: Enemies/253/name 
 > CONTEXT: Enemies/285/name 
 > CONTEXT: Enemies/286/name 
-> CONTEXT: Map024/events/30/pages/1/0/NamePop 
-> CONTEXT: Map193/events/30/pages/1/0/NamePop 
-> CONTEXT: Map194/events/30/pages/1/0/NamePop 
 > CONTEXT: MapInfos/121/name 
 > CONTEXT: MapInfos/241/name 
 > CONTEXT: MapInfos/242/name 
@@ -210,9 +190,6 @@ Sphinx (Down)#afrg
 > CONTEXT: Enemies/160/name
 > CONTEXT: Enemies/165/name
 > CONTEXT: Enemies/226/name
-> CONTEXT: Map024/events/15/pages/1/0/NamePop
-> CONTEXT: Map193/events/15/pages/1/0/NamePop
-> CONTEXT: Map194/events/15/pages/1/0/NamePop
 > CONTEXT: MapInfos/122/name
 > CONTEXT: MapInfos/245/name
 > CONTEXT: MapInfos/246/name
@@ -225,7 +202,6 @@ Titanoboa#Triketos
 > CONTEXT: Enemies/241/name
 > CONTEXT: Enemies/242/name
 > CONTEXT: Enemies/250/name
-> CONTEXT: Map193/events/19/pages/1/0/NamePop
 > CONTEXT: MapInfos/217/name
 Hyakki#afrg
 > END STRING
@@ -266,8 +242,6 @@ Micah#MTLed
 > CONTEXT: Enemies/180/name 
 > CONTEXT: Enemies/181/name 
 > CONTEXT: Enemies/236/name 
-> CONTEXT: Map024/events/5/pages/1/0/NamePop 
-> CONTEXT: Map193/events/17/pages/1/0/NamePop 
 > CONTEXT: MapInfos/215/name 
 > CONTEXT: MapInfos/247/name 
 > CONTEXT: MapInfos/248/name 
@@ -309,8 +283,6 @@ Camazotz#Triketos
 > CONTEXT: Enemies/257/name
 > CONTEXT: Enemies/258/name
 > CONTEXT: Enemies/259/name
-> CONTEXT: Map024/events/3/pages/1/0/NamePop 
-> CONTEXT: Map193/events/18/pages/1/0/NamePop 
 > CONTEXT: MapInfos/216/name 
 > CONTEXT: MapInfos/243/name 
 > CONTEXT: MapInfos/244/name 
@@ -395,17 +367,15 @@ Harpy Queen#Triketos
 モルモー
 > CONTEXT: Enemies/288/name
 > CONTEXT: Enemies/289/name
-> CONTEXT: Map193/events/23/pages/1/0/NamePop
-> CONTEXT: Map193/events/23/pages/2/0/NamePop
 > CONTEXT: MapInfos/369/name
 Mormo#Triketos
 > END STRING
 
 > BEGIN STRING
 闇囚夢魔
-> CONTEXT: Enemies/290/name < UNTRANSLATED
-> CONTEXT: Enemies/291/name < UNTRANSLATED
-
+> CONTEXT: Enemies/290/name
+> CONTEXT: Enemies/291/name
+Abyss-Touched Succubus#Triketos/Ron
 > END STRING
 
 > BEGIN STRING
@@ -472,6 +442,15 @@ Anaon#Triketos
 > CONTEXT: Enemies/319/name
 > CONTEXT: Enemies/324/name
 Titania#Triketos
+> END STRING
+
+> BEGIN STRING
+オセロット
+> CONTEXT: Enemies/332/name
+> CONTEXT: Enemies/333/name
+> CONTEXT: MapInfos/441/name
+> CONTEXT: Troops/347/name
+Ocelot#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -1910,7 +1889,7 @@ then foolhardy arrogance.#Ron/Triketos
 > CONTEXT: Enemies/578/name
 > CONTEXT: Enemies/593/name
 > CONTEXT: Enemies/609/name
-(Bonding)#afrg
+(Bonded)#afrg/Ron
 > END STRING
 
 > BEGIN STRING
@@ -2386,7 +2365,7 @@ noticed him staring intently at them.#Ron
 彼女の高慢な性格の表れなのか、単なる好みなのか
 > CONTEXT: Enemies/596/BookDescription/3
 Daji's body is a little larger than a typical
-human's, and her feminine features also
+human's, and her feminine features are also
 accordingly larger. A manifestation of her
 arrogance? Or simply her preference?#Ron
 > END STRING
@@ -2862,7 +2841,7 @@ fit is typical of the Oni race.#Ron
 > BEGIN STRING
 力が弱い
 > CONTEXT: Enemies/616/BookAttribute/0
-
+Physically weak#Ron
 > END STRING
 
 > BEGIN STRING
@@ -2870,41 +2849,49 @@ fit is typical of the Oni race.#Ron
 夢の中に潜み、相手が眠りについた際、
 夢を見せながら生き血を啜る。
 > CONTEXT: Enemies/616/BookDescription/2
-
+Hecate's vampire subordinate. She sneaks into the
+dreams of her prey, and slurps up their lifeforce
+while she shows them dreams. Though physically#Ron
 > END STRING
 
 > BEGIN STRING
 物理的には非力だが、夢魔としては非常に危険で
 寝たままミイラにされてしまうほど搾られる事もあるとか
 > CONTEXT: Enemies/616/BookDescription/5
-
+powerless, she's very dangerous as a succubus in
+dreams, and has been known to drain her prey to
+such an extent that only a mummy is left behind.#Ron
 > END STRING
 
 > BEGIN STRING
 【EX】巨スフィンクス
-> CONTEXT: Enemies/617/name < UNTRANSLATED
-
+> CONTEXT: Enemies/617/name
+[EX] Giant Sphinx#Strate
 > END STRING
 
 > BEGIN STRING
 すべての攻撃が無効
-> CONTEXT: Enemies/617/BookAttribute/0 < UNTRANSLATED
-
+> CONTEXT: Enemies/617/BookAttribute/0
+Nullifies all attacks#Strate
 > END STRING
 
 > BEGIN STRING
 ヘラの命で、ピキオン山に座していた頃のスフィンクス
 知性は高いが、人間界についての知識はまだまだ浅く
 この時期は特に、人間の性についての知識に飢えていたようだ。
-> CONTEXT: Enemies/617/BookDescription/2 < UNTRANSLATED
-
+> CONTEXT: Enemies/617/BookDescription/2
+The Sphinx ordered to sit on Mt. Phicium by Hera.
+Despite her high intelligence, her knowledge of
+humanity was shallow. She hungered for knowledge
+on human sexuality during this time. With her huge#StrateLocalization
 > END STRING
 
 > BEGIN STRING
 物理はもちろん、魔法もほとんどがその巨体で無効化されてしまい
 打ち倒そうと対峙した人間は、ことごとく返り討ちにあった
-> CONTEXT: Enemies/617/BookDescription/5 < UNTRANSLATED
-
+> CONTEXT: Enemies/617/BookDescription/5
+body stopping any attacks, all humans who tried
+to defeat her found the tables turned on them.#StrateLocalization
 > END STRING
 
 > BEGIN STRING
@@ -2961,7 +2948,9 @@ brings it to hell.#MTLed
 『死者の王女』の異名を持つ、自由奔放な女神
 魔力と女性に深く関わる女神として
 > CONTEXT: Enemies/621/BookDescription/2
-
+Known as the "Queen of the Dead", a free-spirited
+goddess deeply connected to magic and women, and
+worshipped as such by witches. Fed up with her#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -2970,7 +2959,9 @@ brings it to hell.#MTLed
 魔界や人間界を散策する生活を送っていたが
 いつしか性格まで、我が儘な子供になってしまった
 > CONTEXT: Enemies/621/BookDescription/4
-
+troubles in the Demon Realm, she took to wandering
+the human realm as a child, her personality
+eventually changing to reflect her chosen form.#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -2981,15 +2972,16 @@ brings it to hell.#MTLed
 
 > BEGIN STRING
 火炎・雷無効、氷に弱い
-> CONTEXT: Enemies/622/BookAttribute/0 < UNTRANSLATED
-
+> CONTEXT: Enemies/622/BookAttribute/0
+Nullifies Fire and Lightning, weak to Ice#Strate
 > END STRING
 
 > BEGIN STRING
 ケルト族の伝承に伝わる、いたずら好きの蜘蛛の妖精。
 昔は人間の血肉を主食としていたが
-> CONTEXT: Enemies/622/BookDescription/3 < UNTRANSLATED
-
+> CONTEXT: Enemies/622/BookDescription/3
+A mischievous spider fairy seen in Celtic
+folklore. In the past, her diet consisted of human#Strate
 > END STRING
 
 > BEGIN STRING
@@ -2997,8 +2989,11 @@ brings it to hell.#MTLed
 妖精の国に移住し、リンゴ等の果物を主食に切り替えた。
 結果、体臭は逆に獲物を惹き付ける魅力的な芳香になり
 現在はそれを武器に人間を捕獲し、美貌のために精気を啜る
-> CONTEXT: Enemies/622/BookDescription/5 < UNTRANSLATED
-
+> CONTEXT: Enemies/622/BookDescription/5
+flesh and blood, but when her body odor became
+bloody, she moved to the Fairy Realm and switched her
+diet to fruit. Her current scent lets her attract
+prey and slurp their energy to feed her beauty.#StrateLocalization
 > END STRING
 
 > BEGIN STRING
@@ -3009,16 +3004,18 @@ brings it to hell.#MTLed
 
 > BEGIN STRING
 魔法無効
-> CONTEXT: Enemies/623/BookAttribute/0 < UNTRANSLATED
-> CONTEXT: Enemies/625/BookAttribute/0 < UNTRANSLATED
-
+> CONTEXT: Enemies/623/BookAttribute/0
+> CONTEXT: Enemies/625/BookAttribute/0
+Nullifies Magic#Strate
 > END STRING
 
 > BEGIN STRING
 妖精の国に住まう、ピクシー種悪魔の女の子。
 活発で向こう見ずな性格で、重要な場面でよく失敗をする
-> CONTEXT: Enemies/623/BookDescription/3 < UNTRANSLATED
-
+> CONTEXT: Enemies/623/BookDescription/3
+A pixie demon who lives in the Fairy Realm. Lively
+and reckless, she often makes mistakes in crucial
+moments. As a result, she was discharged from#Strate
 > END STRING
 
 > BEGIN STRING
@@ -3026,8 +3023,10 @@ brings it to hell.#MTLed
 内気なマイとはその後に付き合いを始めたらしく
 彼女の引っ込み思案が、口より手が先に出るエナの
 良いブレーキになってくれているようである
-> CONTEXT: Enemies/623/BookDescription/5 < UNTRANSLATED
-
+> CONTEXT: Enemies/623/BookDescription/5
+Titania's elite guard. She started hanging out
+with the meek Mai after that, whose shyness acts
+as a good brake for Ena's "act first" attitude.#StrateLocalization
 > END STRING
 
 > BEGIN STRING
@@ -3039,8 +3038,9 @@ brings it to hell.#MTLed
 > BEGIN STRING
 妖精の国に住まう、ピクシー種悪魔の女の子。
 その身体に不釣り合いな大きな胸のせいで、他妖精によく虐められ
-> CONTEXT: Enemies/624/BookDescription/3 < UNTRANSLATED
-
+> CONTEXT: Enemies/624/BookDescription/3
+A pixie demon who lives in the Fairy Realm. Often
+bullied by other fairies due to her large breasts.#StrateLocalizaion
 > END STRING
 
 > BEGIN STRING
@@ -3048,8 +3048,11 @@ brings it to hell.#MTLed
 実は胸だけでなく、身体全体が割と強調された体格をしており。
 太もももエナ並にあるのだが、エナの強みを際立たせるために
 あえて着物で下半身は見えないようにしているらしい
-> CONTEXT: Enemies/624/BookDescription/5 < UNTRANSLATED
-
+> CONTEXT: Enemies/624/BookDescription/5
+She only opens up to Ena, who stood up for her.
+Her whole body has a rather emphasized physique,
+not just her breasts. She hides her thighs by
+wearing a kimono so that Ena's stand out more.#StrateLocalization
 > END STRING
 
 > BEGIN STRING
@@ -3061,8 +3064,9 @@ brings it to hell.#MTLed
 > BEGIN STRING
 妖精の国を統治する女王。
 オベロンという夫がおり、共に人間を憂い、『時間』以外の
-> CONTEXT: Enemies/625/BookDescription/3 < UNTRANSLATED
-
+> CONTEXT: Enemies/625/BookDescription/3
+The Queen of Fairy Land. She worries for humanity
+along her husband Oberon, and made them unbound#StrateLocalization
 > END STRING
 
 > BEGIN STRING
@@ -3070,6 +3074,9 @@ brings it to hell.#MTLed
 だが人間の扱いに関しては夫婦間で常に争いが絶えず、ほぼ別居状態。
 真の姿は、ティターン一族が古の戦いで敗れた際にヘラにかけられた呪いで
 エンプーサやアルケニーの搾精器官は、彼女の構造が発想元とされている
-> CONTEXT: Enemies/625/BookDescription/5 < UNTRANSLATED
-
+> CONTEXT: Enemies/625/BookDescription/5
+by concepts other than "time". They both argue
+constantly over how to treat them and are now nearly
+separated. Her true form is from Hera's curse, and
+it inspired Empuse's and Arachne's milking organs.#StrateLocalization
 > END STRING

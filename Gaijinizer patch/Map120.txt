@@ -24,10 +24,31 @@ Milking (Blowjob)en(v[51] \>= 50)#Ron
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 【スフィンクス】種族：魔獣
+友好度：\\V[51]
 > CONTEXT: Map120/events/5/pages/0/33/ChoiceHelp
-[Sphinx] Tribe: Legendary Beast#Ron
+[Sphinx] Tribe: Legendary Beast
 Current Friendship: \\C[2]\\v[51]\\C[0]#Ron
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度２５以上\\C[0]】
+（現在友好度　　\\V[51]/100）
+> CONTEXT: Map120/events/5/pages/0/40/ChoiceHelp
+Requires:【\\C[2] Friendship 25+\\C[0]】
+Current Friendship: \\C[2]\\v[51]\\C[0]#Triketos
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度５０以上\\C[0]】
+（現在友好度　　\\V[51]/100）
+> CONTEXT: Map120/events/5/pages/0/74/ChoiceHelp
+> CONTEXT: Map120/events/5/pages/0/108/ChoiceHelp
+Requires:【\\C[2] Friendship 50+\\C[0]】
+Current Friendship: \\C[2]\\v[51]\\C[0]#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -37,9 +58,12 @@ Milking (Press)en(v[51] \>= 100)#Ron
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
 条件【\\C[2]友好度１００以上\\C[0]】
+（現在友好度　　\\V[51]/100）
 > CONTEXT: Map120/events/5/pages/0/146/ChoiceHelp
-Requires 【\\C[2] Friendship 100\\C[0]】#Ron
+Requires:【\\C[2] Friendship 100\\C[0]】
+Current Friendship: \\C[2]\\v[51]\\C[0]#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -65,6 +89,15 @@ Do you get it? Come on now.#Ron
 心蝕を消すif(v[51] \>= 100) 
 > CONTEXT: Map120/events/5/pages/0/285/Choice/0
 Clear corruptionif(v[51] \>= 100)#Ron
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度１００\\C[0]】
+（現在友好度　　\\V[51]/100）
+> CONTEXT: Map120/events/5/pages/0/287/ChoiceHelp
+Requires:【\\C[2] Friendship 100\\C[0]】
+Current Friendship: \\C[2]\\v[51]\\C[0]#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -120,6 +153,15 @@ Her Wingsen(v[51] \>= 60)#Ron
 > END STRING
 
 > BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度３０以上\\C[0]】
+（現在友好度　　\\V[51]/100）
+> CONTEXT: Map120/events/5/pages/1/9/ChoiceHelp
+Requires:【\\C[2] Friendship 30+\\C[0]】
+Current Friendship: \\C[2]\\v[51]\\C[0]#Triketos
+> END STRING
+
+> BEGIN STRING
 そもそも、スフィンクスは何故あの場所で
 
 何の門番をやっていたの…？
@@ -155,12 +197,6 @@ actually come through there...#Ron
 I guess I don't have to hide it anymore...
 
 I'd gotten myself a little lost.#Ron
-> END STRING
-
-> BEGIN STRING
-えっ……？
-> CONTEXT: Map120/events/5/pages/1/28/Dialogue/kazuya
-Come again...?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -365,6 +401,15 @@ You never realized that...?#Ron
 Oh no!!
 
 Don't start crying again!#Ron
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度４０以上\\C[0]】
+（現在友好度　　\\V[51]/100）
+> CONTEXT: Map120/events/5/pages/1/132/ChoiceHelp < UNTRANSLATED
+Requires:【\\C[2] Friendship 40+\\C[0]】
+Current Friendship: \\C[2]\\v[51]\\C[0]#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -689,6 +734,15 @@ Stop trying to push your boobs on me so much...#Ron
 ...Okaaaay.
 
 Fufufu. ♡#Ron
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度６０以上\\C[0]】
+（現在友好度　　\\V[51]/100）
+> CONTEXT: Map120/events/5/pages/1/278/ChoiceHelp
+Requires:【\\C[2] Friendship 60+\\C[0]】
+Current Friendship: \\C[2]\\v[51]\\C[0]#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -1031,6 +1085,15 @@ I'm sorry...#Ron
 【キズナイベント】if(v[51] \>= 99) 
 > CONTEXT: Map120/events/5/pages/1/442/Choice/0
 [Bonding]if(v[51] \>= 99)#Ron
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+条件【\\C[2]友好度９９以上\\C[0]】
+（現在友好度　　\\V[51]/100）
+> CONTEXT: Map120/events/5/pages/1/444/ChoiceHelp
+Requires:【\\C[2] Friendship 99+\\C[0]】
+Current Friendship: \\C[2]\\v[51]\\C[0]#Triketos
 > END STRING
 
 > BEGIN STRING

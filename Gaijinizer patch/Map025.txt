@@ -68,7 +68,7 @@ Book completion rate must be 15% or higher to open.
 （現在の値：\\V[20]％）
 > CONTEXT: Map025/events/14/pages/0/0/Dialogue
 Book completion rate must be 25% or higher to open.
-(Currently: \\V[20]%))#Triketos
+(Currently: \\V[20]%)#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -293,10 +293,10 @@ Change Difficulty#Triketos
 私の思ったとおり……
 あなたはきっと、私に『証明』してくれることでしょう…
 > CONTEXT: Map025/events/28/pages/2/68/Dialogue/other1
-Your Compendium is overflowing...
+You've filled quite a lot of your Compendium...
 
-Just as I had thought....
-You have shown me the "proof" of that...#DL
+You have "proven" yourself to me, just as I
+thought you would.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -305,16 +305,17 @@ You have shown me the "proof" of that...#DL
 
 あの時も、この本がなければ実現しなかったし…
 > CONTEXT: Map025/events/28/pages/2/74/Dialogue/kazuya
-...Isn't that "proof" that event when I saved
-Reina? Back then, it wouldn't have been possible
-without this book...#DL
+...Wasn't that "proof" me saving Reina back then?
+
+It wouldn't have been possible to save her
+without this book...#Ron
 > END STRING
 
 > BEGIN STRING
 それとも、まだ他に僕に何か起きるの…？
 > CONTEXT: Map025/events/28/pages/2/79/Dialogue/kazuya
-Or is something else going to happen to
-me yet...?#DL
+Or is there something else that's going to
+happen to me?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -325,8 +326,8 @@ me yet...?#DL
 > CONTEXT: Map025/events/28/pages/2/81/Dialogue/other1
 No...
 
-As you said, the original role of the Compedium
-ended with that "Intervention".#DL
+As you said, the original role of the Compendium
+ended with that "Intervention".#Ron
 > END STRING
 
 > BEGIN STRING
@@ -335,10 +336,10 @@ ended with that "Intervention".#DL
 それとは別に、私自身が貴方に
 『証明』して頂きたいことがあるのです
 > CONTEXT: Map025/events/28/pages/2/86/Dialogue/other1
-But that was an event that I was 'asked' to do.
+But that was something you were asked by me to do.
 
-But I have something else I'd like you to "prove"
-to me yourself.#DL
+But that aside, there's something I would like to
+"prove" to you myself.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -347,10 +348,10 @@ to me yourself.#DL
 全書をここまで埋めた貴方になら
 もう話しても大丈夫でしょう。
 > CONTEXT: Map025/events/28/pages/2/94/Dialogue/other1
-...It should be okay.
+...That's right.
 
-If you've filled the Compendium up to this point,
-it should be alright to talk about it.#DL
+It should be safe to talk to you about this now
+that you've filled the Compendium to this extent.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -358,9 +359,9 @@ it should be alright to talk about it.#DL
 
 貴方に、見せたいものがあります。
 > CONTEXT: Map025/events/28/pages/2/99/Dialogue/other1
-Now, please follow me to the end of this library.
+Now, please follow me.
 
-I've got something to show you.#DL
+I've got something to show you.#Ron
 > END STRING
 
 > BEGIN STRING
