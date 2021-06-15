@@ -8758,7 +8758,7 @@ Great physical damage to a single enemy.
 > BEGIN STRING
 ハーピーモドキの舌が容赦なく\\N[1]の口内を犯していく……
 > CONTEXT: Skills/797/message2
-Beetle Harpy's tongue violates \\N[1]'s mouth mercilessly......#Triketos
+Harpy Spawn's tongue violates \\N[1]'s mouth mercilessly......#Triketos/Strate
 > END STRING
 
 > BEGIN STRING
@@ -8782,7 +8782,7 @@ Shook her to Mio hard!!#MTLed
 > BEGIN STRING
 妖鳥の抱擁
 > CONTEXT: Skills/799/name
-Bewitching Bird's Embrace#Triketos
+Demon Bird's Embrace#Triketos/Strate
 > END STRING
 
 > BEGIN STRING
@@ -8806,7 +8806,7 @@ Mating Call#Triketos
 > BEGIN STRING
 は、興奮した様子で奇声を発した！！
 > CONTEXT: Skills/800/message1
- let out a strange cry, as she looks excited!!#Triketos
+ let out a strange cry of excitement!!#Triketos/Strate
 > END STRING
 
 > BEGIN STRING
@@ -8814,19 +8814,19 @@ Mating Call#Triketos
 > CONTEXT: Skills/801/name
 > CONTEXT: Skills/811/name
 > CONTEXT: Skills/827/name
-Talon Grab#Triketos, odd translations...
+Tribute-Picking Talons#Triketos, odd translations.../StrateUnsure
 > END STRING
 
 > BEGIN STRING
 の鉤爪が、\\N[1]を捕まえようと襲いかかった！
 > CONTEXT: Skills/801/message1
- tries to catch \\N[1] in its talons!#Triketos
+ tries to catch \\N[1] in her talons!#Triketos
 > END STRING
 
 > BEGIN STRING
 ハーピーモドキの舌が、にゅるりと侵入してくる……
 > CONTEXT: Skills/802/message2
-Beetle Harpy's tongue wriggles as it invades his mouth...#Triketos
+Harpy Spawn's tongue wriggles as it invades his mouth...#Triketos
 > END STRING
 
 > BEGIN STRING
@@ -8838,31 +8838,31 @@ Kiss of Surrender#Triketos
 > BEGIN STRING
 は、ハーピーモドキの誘惑に負け、口を開けてしまった！
 > CONTEXT: Skills/802/message1
- succumbed to the temptation of the Beetle Harpy...!#Triketos
+ succumbed to the temptation and opened his mouth!#Triketos/Strate
 > END STRING
 
 > BEGIN STRING
 \\N[1]はもう、快楽に身を任せることしかできない……
 > CONTEXT: Skills/803/message2
-\\N[1] entrusts his body to the pleasure...#Triketos
+\\N[1] can only surrender to the pleasure......#Triketos/Strate
 > END STRING
 
 > BEGIN STRING
 淫靡な口交尾
 > CONTEXT: Skills/803/name
-Lewd Beast's Tongue#Triketos
+Lewd Tongue Mating#Triketos/Strate
 > END STRING
 
 > BEGIN STRING
 の口がじゅるじゅると音をたて、吸い付いてくる……
 > CONTEXT: Skills/803/message1
-'s mouth makes a sucking noise as it kisses you...#Triketos
+ makes slurping noises as she kisses \\N[1]...#Triketos/Strate
 > END STRING
 
 > BEGIN STRING
 \\N[1]の眼には、もはや彼女以外見えなくなっている…
 > CONTEXT: Skills/804/message2
-\\N[1] gazes longingly at her, unable to look away...#Triketos
+\\N[1] can no longer take his eyes off of her...#Triketos/Strate
 > END STRING
 
 > BEGIN STRING
@@ -8874,13 +8874,13 @@ Couple's Embrace#Triketos
 > BEGIN STRING
 ハーピーモドキは\\N[1]を優しく抱き締めた……
 > CONTEXT: Skills/804/message1
- Beetle Harpy gently embraces \\N[1]...
+ gently embraces \\N[1]...#Strate
 > END STRING
 
 > BEGIN STRING
 各々が貪欲に、凄まじい勢いで吸いついてくる…！
 > CONTEXT: Skills/806/message2
-Each of them greedily sucks it with tremendous vigor...!
+Each of them greedily sucks with tremendous vigor...!#Strate
 > END STRING
 
 > BEGIN STRING
@@ -9033,70 +9033,70 @@ The tentacles relentlessly attack your entire body!#Triketos
 \\C[10]ハーピーモドキに犯され、精神に快感を擦り込まれたパッシブスキル。
 対象悪魔との戦闘時、ダメージが２０％増加する。
 > CONTEXT: Skills/817/description
-\\C[10]The pleasure of being raped by Beetle Harpy sticks in your mind.
+\\C[10]The pleasure of being raped by Harpy Spawn sticks in your mind.
 Increases damage taken from this monster by 20%.#Triketos
 > END STRING
 
 > BEGIN STRING
 【ハーピーモドキの餌食】Lv1
 > CONTEXT: Skills/817/name
-【Beetle Harpy's Prey】Lv1#Triketos
+[Harpy Spawn's Prey]Lv1#Triketos
 > END STRING
 
 > BEGIN STRING
 \\C[10]ハーピーモドキに犯され、精神に快感を擦り込まれたパッシブスキル。
 対象悪魔との戦闘時、勝手に毎ターン性欲が５％上昇する。
 > CONTEXT: Skills/818/description
-\\C[10]The pleasure of being raped by Beetle Harpy sticks in your mind.
+\\C[10]The pleasure of being raped by Harpy Spawn sticks in your mind.
 Increases lust by 5% every turn when fighting this monster.#Triketos
 > END STRING
 
 > BEGIN STRING
 【ハーピーモドキの餌食】Lv2
 > CONTEXT: Skills/818/name
-【Beetle Harpy's Prey】Lv2#Triketos
+[Harpy Spawn's Prey]Lv2#Triketos
 > END STRING
 
 > BEGIN STRING
 \\C[10]ハーピーモドキに犯され、精神に快感を擦り込まれたパッシブスキル。
 対象悪魔との戦闘時、最大抵抗力が８０％になる。
 > CONTEXT: Skills/819/description
-\\C[10]The pleasure of being raped by Beetle Harpy sticks in your mind.
+\\C[10]The pleasure of being raped by Harpy Spawn sticks in your mind.
 Maximum willpower reduced to 80% when fighting this monster.#Triketos
 > END STRING
 
 > BEGIN STRING
 【ハーピーモドキの餌食】Lv3
 > CONTEXT: Skills/819/name
-【Beetle Harpy's Prey】Lv3#Triketos
+[Harpy Spawn's Prey]Lv3#Triketos
 > END STRING
 
 > BEGIN STRING
 \\C[10]ハーピーモドキに犯され、精神に快感を擦り込まれたパッシブスキル。
 対象悪魔との戦闘時、最大気力が８０％になる。
 > CONTEXT: Skills/820/description
-\\C[10]The pleasure of being raped by Beetle Harpy sticks in your mind.
+\\C[10]The pleasure of being raped by Harpy Spawn sticks in your mind.
 Maximum vitality reduced to 80% when fighting this monster.#Triketos
 > END STRING
 
 > BEGIN STRING
 【ハーピーモドキの餌食】Lv4
 > CONTEXT: Skills/820/name
-【Beetle Harpy's Prey】Lv4#Triketos
+[Harpy Spawn's Prey]Lv4#Triketos
 > END STRING
 
 > BEGIN STRING
 \\C[10]ハーピーモドキに犯され、精神に快感を擦り込まれたパッシブスキル。
 対象悪魔との戦闘時、特殊アクシデント戦闘が発生する事がある。
 > CONTEXT: Skills/821/description
-\\C[10]The pleasure of being raped by Beetle Harpy sticks in your mind.
+\\C[10]The pleasure of being raped by Harpy Spawn sticks in your mind.
 Special accident battles can occur against this monster.#Triketos
 > END STRING
 
 > BEGIN STRING
 【ハーピーモドキの餌食】LvMAX
 > CONTEXT: Skills/821/name
-【Beetle Harpy's Prey】LvMAX#Triketos
+[Harpy Spawn's Prey]LvMAX#Triketos
 > END STRING
 
 > BEGIN STRING
