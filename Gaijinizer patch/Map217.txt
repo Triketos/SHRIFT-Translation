@@ -1346,7 +1346,7 @@ destiny of death itself.#MTLed
 > BEGIN STRING
 夜深についてif(s[375]) 
 > CONTEXT: Map217/events/5/pages/2/414/Choice/0
-About the nightif(s[375])#GT
+Yamiif(s[375])#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1688,46 +1688,58 @@ Somehow, it has been lost since then.#GT
 その想ひ魂………
 
 \\N[1]、夜深に会ったのかい？
-> CONTEXT: Map217/events/5/pages/2/606/Dialogue/hyakki < UNTRANSLATED
+> CONTEXT: Map217/events/5/pages/2/606/Dialogue/hyakki
+That Memento...
 
+\\N[1], did you meet Yami?#Ron
 > END STRING
 
 > BEGIN STRING
 う、うん………
 
 寂れた神社みたいな場所で……
-> CONTEXT: Map217/events/5/pages/2/613/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map217/events/5/pages/2/613/Dialogue/kazuya
+Y-Yeah...
 
+I met her in some desolate place that looked
+like a shrine.#Ron
 > END STRING
 
 > BEGIN STRING
 ………楽しく『じゃれあった』？
-> CONTEXT: Map217/events/5/pages/2/617/Dialogue/hyakki < UNTRANSLATED
-
+> CONTEXT: Map217/events/5/pages/2/617/Dialogue/hyakki
+Did ya have fun "frolicking" with her?#Ron
 > END STRING
 
 > BEGIN STRING
 えっ！？
 
 い、いや………その………！！！
-> CONTEXT: Map217/events/5/pages/2/620/Dialogue/kazuya-a < UNTRANSLATED
+> CONTEXT: Map217/events/5/pages/2/620/Dialogue/kazuya-a
+Huh?!
 
+N-No... That's...!!#Ron
 > END STRING
 
 > BEGIN STRING
 ………今更照れるようなことでもないだろう？
 
 浮気の取り調べじゃ無いんだから、正直に答えていいヨ。
-> CONTEXT: Map217/events/5/pages/2/625/Dialogue/hyakki < UNTRANSLATED
-
+> CONTEXT: Map217/events/5/pages/2/625/Dialogue/hyakki
+What're ya doing getting embarrassed about this
+sort of thing after all this time? This isn't
+some sort of police investigation into your
+adultery, so just be honest with me.#Ron
 > END STRING
 
 > BEGIN STRING
 彼女は………ちゃんと楽しんでいたかい？
 
 ………『笑顔』で、振る舞っていた？
-> CONTEXT: Map217/events/5/pages/2/629/Dialogue/hyakki < UNTRANSLATED
+> CONTEXT: Map217/events/5/pages/2/629/Dialogue/hyakki
+Did she... properly enjoy herself?
 
+Did she have a big smile on her face?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1735,8 +1747,11 @@ Somehow, it has been lost since then.#GT
 
 よく分からないけど………すごく明るい子だったよ。
  無邪気っていうか、甘える猫そのものっていうか……
-> CONTEXT: Map217/events/5/pages/2/634/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map217/events/5/pages/2/634/Dialogue/kazuya
+......? I don't know what you're getting at, but
+she was really bright and bubbly. You could say
+she was kind of carefree, or maybe like a fawning
+cat.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1744,48 +1759,62 @@ Somehow, it has been lost since then.#GT
 
 ときどき、寂しそうっていうか、
  声の調子が、なんだか元気がなくなってる時があって
-> CONTEXT: Map217/events/5/pages/2/639/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map217/events/5/pages/2/639/Dialogue/kazuya
+Oh, but...
 
+There were times where she'd sound kind of down,
+or maybe lonely.#Ron
 > END STRING
 
 > BEGIN STRING
 『私が望んだことだから』とかなんとか………
 
 正直、頭がフワフワしてたから、よく覚えてないけど…
-> CONTEXT: Map217/events/5/pages/2/644/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map217/events/5/pages/2/644/Dialogue/kazuya
+She'd talk about how this is what she wanted...
 
+To be honest, my head was fuzzy the whole time so
+I don't really remember.#Ron
 > END STRING
 
 > BEGIN STRING
 …………そう。
 
 やっぱり彼女、心残りだったんだネ……
-> CONTEXT: Map217/events/5/pages/2/649/Dialogue/hyakki < UNTRANSLATED
+> CONTEXT: Map217/events/5/pages/2/649/Dialogue/hyakki
+I see.
 
+So she really did have some regrets.#Ron
 > END STRING
 
 > BEGIN STRING
 でもその様子じゃあ、彼女は楽しんでたんだね。
 
 これで幾分かは…………落ち着いてくれるかな。
-> CONTEXT: Map217/events/5/pages/2/653/Dialogue/hyakki < UNTRANSLATED
+> CONTEXT: Map217/events/5/pages/2/653/Dialogue/hyakki
+But it sounds like she enjoyed herself.
 
+That should... settle... her mood.#Ron
 > END STRING
 
 > BEGIN STRING
 百鬼………彼女について何か知ってるの？
 
 なんだか不穏な物言いだけど………
-> CONTEXT: Map217/events/5/pages/2/657/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map217/events/5/pages/2/657/Dialogue/kazuya
+Hyakki... do you know something about her?
 
+The way you're talking is a little disturbing.#Ron
 > END STRING
 
 > BEGIN STRING
 彼女は、その昔に弟子が世話になった間柄でね。
 
 けっこう人間界の商売で『ひいき』にしてもらってた。
-> CONTEXT: Map217/events/5/pages/2/661/Dialogue/hyakki < UNTRANSLATED
-
+> CONTEXT: Map217/events/5/pages/2/661/Dialogue/hyakki
+She was the one who took care of my apprentice
+in the past. She was quite a patron of my
+business in the human world.#DL
 > END STRING
 
 > BEGIN STRING
@@ -1793,16 +1822,23 @@ Somehow, it has been lost since then.#GT
 
  人間界で悪さする悪魔を倒して、魔界へ送り返す…。
  人間が大好きな、無邪気な子だったよ………。
-> CONTEXT: Map217/events/5/pages/2/665/Dialogue/hyakki < UNTRANSLATED
-
+> CONTEXT: Map217/events/5/pages/2/665/Dialogue/hyakki
+She was... I guess you could say she was a kind
+of demon "police". She'd take down demons
+misbehaving in the human realm and send them back
+to the Demon Realm.
+She was an innocent-minded girl who loved
+humanity.#Ron
 > END STRING
 
 > BEGIN STRING
 『だった』って………
 
 ま、まさか……負けたとか……？
-> CONTEXT: Map217/events/5/pages/2/671/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map217/events/5/pages/2/671/Dialogue/kazuya
+"Was"?
 
+D-Don't tell me, she was defeated?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1810,8 +1846,10 @@ Somehow, it has been lost since then.#GT
  彼女は悪魔を『倒しすぎた』んだ。
 
  時には魔王クラスのやつだって倒しちまった。
-> CONTEXT: Map217/events/5/pages/2/675/Dialogue/hyakki < UNTRANSLATED
-
+> CONTEXT: Map217/events/5/pages/2/675/Dialogue/hyakki
+Quite the opposite, she ended up defeating too
+many demons. She sometimes even defeated Demon
+King-class ones.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1819,8 +1857,11 @@ Somehow, it has been lost since then.#GT
 \\C[2]彼女の魔力の根元が、『天使の魔力』だったこと……
 
 \\C[0]そう……アンタと同じさ、\\N[1]。
-> CONTEXT: Map217/events/5/pages/2/680/Dialogue/hyakki < UNTRANSLATED
+> CONTEXT: Map217/events/5/pages/2/680/Dialogue/hyakki
+The problem was that \\C[2]the source of her power was
+angelic magic.\\C[0]
 
+That's right, the same as you, \\N[1].#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1828,8 +1869,11 @@ Somehow, it has been lost since then.#GT
 
 本人も、仔猫の段階でネコマタに変化していたらしくて
 自分の素性はよく分かってないらしいからね。
-> CONTEXT: Map217/events/5/pages/2/688/Dialogue/hyakki < UNTRANSLATED
-
+> CONTEXT: Map217/events/5/pages/2/688/Dialogue/hyakki
+I don't know how she got the magic power of an
+angel. Even she herself apparently didn't
+know much about her origins as she was supposedly
+transformed into a Nekomata when she was a kitten.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -1837,16 +1881,19 @@ Somehow, it has been lost since then.#GT
 
  『その時』が来るまで、『平和』を守るために
  その魔力を使い続けた………
-> CONTEXT: Map217/events/5/pages/2/693/Dialogue/hyakki < UNTRANSLATED
-
+> CONTEXT: Map217/events/5/pages/2/693/Dialogue/hyakki
+And so, she didn't know about that. Until "that
+time" came, she would continue to use her powers
+to protect "peace".#RonIffy
 > END STRING
 
 > BEGIN STRING
 その『結果』が、どういうことになるか……
 
 アンタはよく知っているはずだよ。
-> CONTEXT: Map217/events/5/pages/2/698/Dialogue/hyakki < UNTRANSLATED
-
+> CONTEXT: Map217/events/5/pages/2/698/Dialogue/hyakki
+As for the result of her actions, I think you
+know well what eventually happened.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1854,8 +1901,11 @@ Somehow, it has been lost since then.#GT
  彼女はあんなに元気そうだったじゃないか！！
 
 とても『暴走』しているようには……！！
-> CONTEXT: Map217/events/5/pages/2/702/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map217/events/5/pages/2/702/Dialogue/kazuya
+B-But, she seemed really full of energy!!
 
+She didn't look like she'd gone on a rampage or
+anything!!#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -1863,8 +1913,11 @@ Somehow, it has been lost since then.#GT
 
 彼女は間一髪のところで、仲間たちの力によって
 魔力の渦から引き上げられた
-> CONTEXT: Map217/events/5/pages/2/708/Dialogue/hyakki < UNTRANSLATED
+> CONTEXT: Map217/events/5/pages/2/708/Dialogue/hyakki
+It was the same as with Reina.
 
+She was pulled out from a magic vortex by her
+friends in the nick of time.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1872,8 +1925,15 @@ Somehow, it has been lost since then.#GT
 
 直前まで安定していて、魔力の暴走も小規模だった
  アンタほどうまくはいかなかったんだよ
-> CONTEXT: Map217/events/5/pages/2/713/Dialogue/hyakki < UNTRANSLATED
+> CONTEXT: Map217/events/5/pages/2/713/Dialogue/hyakki
+But there were a lot of victims left behind in
+exchange for all that.
 
+
+Though she was stable right until the last
+minute, and the scale of her rampage was small,
+things didn't work out as well as they did for
+you.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -1881,8 +1941,10 @@ Somehow, it has been lost since then.#GT
 当然、彼女を助けようとした仲間たちも……
 
 魔力を使い果たし、『個』が消滅してしまった。
-> CONTEXT: Map217/events/5/pages/2/718/Dialogue/hyakki < UNTRANSLATED
-
+> CONTEXT: Map217/events/5/pages/2/718/Dialogue/hyakki
+Part of the world was scorched, and her friends
+used up all their magic trying to save her and
+lost their "selves".#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1890,16 +1952,21 @@ Somehow, it has been lost since then.#GT
 
  哀しみに押し潰されそうになった彼女は……
 『ある決断』をしたのサ。
-> CONTEXT: Map217/events/5/pages/2/723/Dialogue/hyakki < UNTRANSLATED
-
+> CONTEXT: Map217/events/5/pages/2/723/Dialogue/hyakki
+The shrine and town she was supposed to protect
+were obliterated, she'd even lost her precious
+friends. And so, crushed by sorrow, she decided
+to do "that".#Ron
 > END STRING
 
 > BEGIN STRING
  『ある決断』……？
 
 いったいどんな……
-> CONTEXT: Map217/events/5/pages/2/728/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map217/events/5/pages/2/728/Dialogue/kazuya
+"That"?
 
+What on earth do you mean?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1907,8 +1974,9 @@ Somehow, it has been lost since then.#GT
 
 これまでの、無邪気で幸せだった自分の『個』を……
 あの何もない、虚数空間の彼方に……
-> CONTEXT: Map217/events/5/pages/2/733/Dialogue/hyakki < UNTRANSLATED
-
+> CONTEXT: Map217/events/5/pages/2/733/Dialogue/hyakki
+She discarded her carefree, happy self and tossed
+it into that space of nothingness.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1916,8 +1984,11 @@ Somehow, it has been lost since then.#GT
 
 人間界を悪魔から守る最高責任職『長（おさ）』として
 真剣に自分の世界を守る道を選んだのさ。
-> CONTEXT: Map217/events/5/pages/2/738/Dialogue/hyakki < UNTRANSLATED
-
+> CONTEXT: Map217/events/5/pages/2/738/Dialogue/hyakki
+She discarded her feelings and love for humanity,
+and chose to take up supreme responsibility for
+earnestly defending the human realm, her world,
+from demons.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -1925,8 +1996,11 @@ Somehow, it has been lost since then.#GT
 『本物』には違いないけど、正確には『本人』じゃない。
 
  虚数空間を漂う、過去の彼女の『個』なんだよ。
-> CONTEXT: Map217/events/5/pages/2/743/Dialogue/hyakki < UNTRANSLATED
-
+> CONTEXT: Map217/events/5/pages/2/743/Dialogue/hyakki
+So while the Yami you met in there is definitely
+the real her, it's not exactly the "true" her,
+but her "self" from the past floating in empty,
+imaginary space.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1934,8 +2008,15 @@ Somehow, it has been lost since then.#GT
 
 アンタが想ひ魂で虚数空間に干渉しているのを感じて
 構って欲しくて接触してきたんだろうサ。
-> CONTEXT: Map217/events/5/pages/2/748/Dialogue/hyakki < UNTRANSLATED
+> CONTEXT: Map217/events/5/pages/2/748/Dialogue/hyakki
+You see, she was always someone who got lonely
+easily and really loved her friends.
 
+
+So when you turned up and interfered in that
+imaginary space, she felt your presence and
+wanted you to keep her company which is why
+she contacted you.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -1943,16 +2024,20 @@ Somehow, it has been lost since then.#GT
 
 だけど、あれは彼女が決めたことだ。
  『死の運命』は、変えられない………。
-> CONTEXT: Map217/events/5/pages/2/755/Dialogue/hyakki < UNTRANSLATED
+> CONTEXT: Map217/events/5/pages/2/755/Dialogue/hyakki
+I know what you're thinking, \\N[1].
 
+But this is something she herself decided to do,
+so Death's Fate can't be changed this time.#Ron
 > END STRING
 
 > BEGIN STRING
 でも……彼女を少しでも哀れに思うんであれば……
 
 これからもたまに、その想ひ魂で会いにいってあげなヨ。
-> CONTEXT: Map217/events/5/pages/2/760/Dialogue/hyakki < UNTRANSLATED
-
+> CONTEXT: Map217/events/5/pages/2/760/Dialogue/hyakki
+But if you feel bad for her, then pop in and see
+her from time to time.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1960,14 +2045,18 @@ Somehow, it has been lost since then.#GT
  昔のように、人間と『じゃれあって』さ。
 
  想ひ魂の記憶でも、彼女はきっと満足してくれる。
-> CONTEXT: Map217/events/5/pages/2/764/Dialogue/hyakki < UNTRANSLATED
-
+> CONTEXT: Map217/events/5/pages/2/764/Dialogue/hyakki
+All she wants to do is play without having to
+think about things, just like how she used to
+"frolic" with humans. You'll make her happy by
+using the Memento, even if it's just a memory.#Ron
 > END STRING
 
 > BEGIN STRING
 ……『そういうの』は、得意だろ？\\N[1]。
-> CONTEXT: Map217/events/5/pages/2/769/Dialogue/hyakki < UNTRANSLATED
-
+> CONTEXT: Map217/events/5/pages/2/769/Dialogue/hyakki
+I mean, "that kind of thing" is what you're good
+at, right?#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -1975,14 +2064,19 @@ Somehow, it has been lost since then.#GT
 
 もし、その想ひ魂を使って彼女に会うことがあったら
  もう一度、私に話しかけてくれ。
-> CONTEXT: Map217/events/5/pages/2/773/Dialogue/hyakki < UNTRANSLATED
+> CONTEXT: Map217/events/5/pages/2/773/Dialogue/hyakki
+I see...
 
+Well, come back and ask me again about her if you
+ever use that Memento and meet Yami.#Ron
 > END STRING
 
 > BEGIN STRING
 ………彼女について、少し伝えておきたいことがあるんだ。
 
 その時になったら話すヨ。
-> CONTEXT: Map217/events/5/pages/2/778/Dialogue/hyakki < UNTRANSLATED
+> CONTEXT: Map217/events/5/pages/2/778/Dialogue/hyakki
+There's something I'd like ya to know about her.
 
+I'll tell you when the time comes.#Ron
 > END STRING
