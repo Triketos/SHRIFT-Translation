@@ -4,9 +4,10 @@
 
 要注意団体『母なる悪魔』と交戦しました。
 > CONTEXT: Map302/events/13/pages/0/6/Dialogue 
-The evacuation force troops, and the citizens
-were in a convoy to engage with the
-"Mother Devil" Group of attention.#GT
+While escorting civilians, the evacuation force
+met with the worst case scenario:
+
+Contact with the "Mother Demon".#Amaboye/Iffy
 > END STRING
 
 > BEGIN STRING
@@ -15,10 +16,10 @@ were in a convoy to engage with the
 
 犠牲者のことを『救われし子』と呼んでいました。
 > CONTEXT: Map302/events/13/pages/0/11/Dialogue 
-It seems that the Beetle Harpy queen, who appears
-in this area, is a believer in the belief that
-human beings should return.
-The victim was called a child who was saved.#GT
+The Harpy Spawn Queen who appeared in this area
+fashions herself as the mother all humans should
+return to.
+She calls her victims "children of salvation."#Amaboye/iffy
 > END STRING
 
 > BEGIN STRING
@@ -27,10 +28,10 @@ The victim was called a child who was saved.#GT
 数名を強引に連れていこうとしたため
  こちらの警告を無視した二名を射殺しました。
 > CONTEXT: Map302/events/13/pages/0/17/Dialogue 
-The two people who ignored the warning of this
-place were shot dead because it tried to forcibly
-take several names to the citizens in the
-evacuation when it was indicative of fear.#GT
+She preached to the evacuating civilians to stoke
+their fear, and tried to forcibly rope them in.
+
+We lost 2 people who ignored our warnings.#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -39,10 +40,10 @@ evacuation when it was indicative of fear.#GT
 
  後続部隊は、十分な警戒をお願いします。
 > CONTEXT: Map302/events/13/pages/0/23/Dialogue 
-Although they are armed and not belligerent
-as a means of self-defense, there is
-a danger of contact.
-Subsequent troops, please be vigilant enough.#GT
+We had given them weapons for self-defense,
+but that means little against the danger of
+seemingly peaceful, intimate contact.
+I ask that future troops be more vigilant.#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -50,8 +51,8 @@ Subsequent troops, please be vigilant enough.#GT
 
 　　　無事に助けられたのかな……」
 > CONTEXT: Map302/events/9/pages/0/0/Dialogue 
-Member:That couple......
-I wonder if they helped me safely.#GT
+Soldier- 「That married couple...
+           I hope they made it to safety.」#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -60,11 +61,10 @@ I wonder if they helped me safely.#GT
 
 　　　学校からは帰ってきているはずだって……」
 > CONTEXT: Map302/events/9/pages/0/4/Dialogue 
-Member: Three days ago, there was a married
-couple who did not evacuate immediately after
-the city was attacked and picked up
-their daughters at home.　　　
-You're supposed to be back from school.#GT
+Soldier- 「Three days ago, there was a married couple who
+           went back to pick up their daughter from home
+           before evacuating. They said she should have
+           made it back home from school by that time. #Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -73,10 +73,10 @@ You're supposed to be back from school.#GT
 　　　護衛だっていたし、こっちに帰ってきてないのも、
 　　　きっと他分隊の避難誘導に合流したからだよな……」
 > CONTEXT: Map302/events/9/pages/0/9/Dialogue 
-Member: ...... You're safe, I'm sure...
-It was an escort, and it did not come back
-here because it joined the evacuation
-guidance of other squads surely.#GT
+Soldier- 「...They're safe, right? They have to be...
+           There were escort forces, too, and surely they
+           just didn't join back up because they found
+           another evacuation unit... right?#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -84,14 +84,15 @@ guidance of other squads surely.#GT
 
 　　　大丈夫……」
 > CONTEXT: Map302/events/9/pages/0/14/Dialogue 
-Member:It's okay...
-It's okay...#GT
+Soldier- 「They're okay...
+
+           They're okay, stop worrying.#Amaboye
 > END STRING
 
 > BEGIN STRING
 隊員「……」
 > CONTEXT: Map302/events/9/pages/0/18/Dialogue 
-Member:.....#GT
+Soldier- 「.....」#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -100,9 +101,10 @@ Member:.....#GT
 　　　ここは安全だ。
 　　　他の分隊が救援に来るまで、ゆっくり休んでおくといい。」
 > CONTEXT: Map302/events/11/pages/0/0/Dialogue 
-Commander: Are you a survivor? It's safe here.
-You should rest slowly until the other squad
-comes to the rescue.#GT
+Commander- 「Are you a survivor? Don't worry, it's
+             safe here.
+             
+             Take it easy here until help comes.」#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -111,7 +113,7 @@ comes to the rescue.#GT
 
 　　　　他部隊が来るまで、ここで立ち往生さ。」
 > CONTEXT: Map302/events/11/pages/0/5/Dialogue 
-Commander: We have encountered an individual
-called the Queen. Sadly, almost destroyed......
-I'll be stuck here until the other troops come.#GT
+Commander- 「We came across that one called the "Queen", right?
+             Well, unfortunately we got obliterated,
+             so now we're stranded until another troop comes.#Amaboye
 > END STRING

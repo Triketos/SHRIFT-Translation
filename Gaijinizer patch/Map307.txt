@@ -4,9 +4,10 @@
 
 　　　脚を負傷していますが、命に別状はなさそうです。」
 > CONTEXT: Map307/events/11/pages/0/17/Dialogue 
-Member: Found survivors in the safe room.
-The leg is injured, but there seems to be
-no life-threatening.#GT
+Soldier- 「Survivor found in the safe room.
+
+           Her leg is injured, but it doesn't seem
+           to be life-threatening.」#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -15,9 +16,10 @@ no life-threatening.#GT
 　　　周囲に悪魔の存在は確認できません。
 　　　このまま、周辺を捜索します。」
 > CONTEXT: Map307/events/11/pages/0/21/Dialogue 
-Member: ......Yes.
-You cannot see the presence of demons around you.
-We will search the area as it is.
+Soldier- 「...Understood.
+           
+           We can't detect any demons in the area.
+           Let's search for other survivors.」#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -25,6 +27,8 @@ We will search the area as it is.
 
 　　　手伝ってくれ！」
 > CONTEXT: Map307/events/11/pages/0/26/Dialogue 
-Member: Hey, I'll carry this child to the convoy.
-Help me! 
+Soldier- 「Hey, we need to carry this kid onto the
+           escort vehicle.
+           
+           Could you give me a hand?」#Amaboye
 > END STRING
