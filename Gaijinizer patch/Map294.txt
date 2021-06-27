@@ -5,8 +5,8 @@
 　\\C[2]静止しているハーピーモドキは音に敏感なんだ。」
 > CONTEXT: Map294/events/14/pages/0/0/Dialogue 
 > CONTEXT: Map296/events/14/pages/0/0/Dialogue 
-Shhh... 
-\\C[2] A stationary Beetle Harpy is sensitive to sound.#GT
+Sheep- 「Shhh... 
+         \\C[2]Stationary Harpy Spawn are sensitive to sound.」#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -15,15 +15,16 @@ Shhh...
 　　アコニートゥムと同じだね……\\C[0]」
 > CONTEXT: Map294/events/14/pages/0/4/Dialogue 
 > CONTEXT: Map296/events/14/pages/0/4/Dialogue 
-\\C[2] As well, it looks like it
-can't see very far, either.
-They're just like Aconitums. \\C[0]#GT
+Sheep- "\\C[2]But on the other hand, when they're still
+        they can't see very far.
+
+        They're like Aconitums in that regard.\\C[0]"#Amaboye
 > END STRING
 
 > BEGIN STRING
 女の子「……………」
 > CONTEXT: Map294/events/6/pages/0/0/Dialogue 
-Girl: .....#GT
+Girl: .....#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -31,9 +32,9 @@ Girl: .....#GT
 
 早くセーフルームに連れていかなければ………
 > CONTEXT: Map294/events/6/pages/0/2/Dialogue 
-The girl has a clear awareness, but is slow ...
+The girl is conscious, but unresponsive...
 
-If you do not take it to the safe room early .........#GT
+I need to take her to the safe room, and fast.#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -58,8 +59,7 @@ Do you want to return to the EX room entrance?
 > BEGIN STRING
 EXルームの入り口に戻りますか？
 > CONTEXT: Map294/events/7/pages/2/2/Dialogue 
-Do you want to return to the entrance
-of the EX room?#GT
+Do you want to return to the EX room entrance?#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -67,15 +67,13 @@ of the EX room?#GT
 
 向こうから待ち伏せしていたか…！
 > CONTEXT: Map294/events/9/pages/0/15/Dialogue/other2 
-Shi ... I'm done ...! ! ?
-
-Was it ambush from the other side ...!#GT
+Shit! The enemy was waiting to ambush us?#Amaboye
 > END STRING
 
 > BEGIN STRING
 ギャアア！！ギャア！！♡
 > CONTEXT: Map294/events/9/pages/0/19/Dialogue/enemy21 
-Gyā!! Gyā!!♡#GT
+Gyah!! Gyah!!♡#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -83,9 +81,8 @@ Gyā!! Gyā!!♡#GT
 
 興奮した様子で鳴き続けている……
 > CONTEXT: Map294/events/9/pages/0/21/Dialogue 
-Beetle Harpy sees the figure of \\N[1]
-
-It keeps on crying in a state of being excited...#GT
+While watching \\N[1], the Harpy Spawn
+caws with an excited expression...#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -94,10 +91,10 @@ It keeps on crying in a state of being excited...#GT
 
 このままだと、更に状況が不利になる…！
 > CONTEXT: Map294/events/9/pages/0/25/Dialogue/other1 
-It is bad .........
-"I've found an undamaged male" calls a friend....
-If this remains, the situation will be
-further disadvantageous ...!#GT
+This is bad...
+It's signaling to its friends, "I've found an
+undamaged male."
+At this rate, things will only get worse!#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -107,19 +104,19 @@ further disadvantageous ...!#GT
 > CONTEXT: Map294/events/9/pages/0/30/Dialogue/other1 
  \\N[1]!
 
- Let's fight back here early and hurry ahead!#GT
+Let's take this one out fast, and hurry on ahead!#Amaboye
 > END STRING
 
 > BEGIN STRING
 "EX1　ハーピーモドキ戦"
 > CONTEXT: Map294/events/9/pages/0/34/InlineScript/2:1 
-"EX1 Beetle Harpy Battle"#GT
+"EX1 Harpy Spawn Battle"
 > END STRING
 
 > BEGIN STRING
 ギュエァァァ！！！
 > CONTEXT: Map294/events/9/pages/0/55/Dialogue/enemy21 
-Gyue~a~a~a! ! !#GT
+Gyueaaa!!!#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -127,9 +124,9 @@ Gyue~a~a~a! ! !#GT
 
 　　　　こないで……」
 > CONTEXT: Map294/events/9/pages/0/63/Dialogue 
-Girl "No, no .........
+Girl "N-no...
 
-Don't come ...... "#GT
+      Stay away..."#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -137,15 +134,15 @@ Don't come ...... "#GT
 
 まずい、あの子が…！
 > CONTEXT: Map294/events/9/pages/0/67/Dialogue/other2 
-Always behind ... ......! ?
+When did they get behind me!?
 
-Bad, that child ...!#GT
+This is bad, at this rate she won't...!#Amaboye
 > END STRING
 
 > BEGIN STRING
 グェア……！！
 > CONTEXT: Map294/events/9/pages/0/93/Dialogue/enemy21 
-Gu~ea……!!#GT
+Gueah...!#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -153,7 +150,9 @@ Gu~ea……!!#GT
 
 　　　あったかい………」
 > CONTEXT: Map294/events/9/pages/0/104/Dialogue 
-Girl "........hot..."#GT
+Girl- "......
+
+      So warm..."#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -162,10 +161,10 @@ Girl "........hot..."#GT
 
 あなたは、ゆっくり休んでいて……
 > CONTEXT: Map294/events/9/pages/0/108/Dialogue/enemy4 
-... ... I'm already relieved
- As for scary Tori, mom has been chasing.
+...It's alright, you can relax now...
+Mama's chased off the scary bird.
 
-You are resting slowly ...#GT
+Just relax, and rest...#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -175,9 +174,9 @@ You are resting slowly ...#GT
 少し遅かったみたい……
 > CONTEXT: Map294/events/9/pages/0/126/Dialogue/enemy4 
 I'm sorry, Boy.
-What is embodied in this world compared
-to other worlds
-I think it was a bit late ...#GT
+
+It seems my manifestation here was a bit slower
+than in other worlds...#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -185,9 +184,9 @@ I think it was a bit late ...#GT
 
 ありがとう…
 > CONTEXT: Map294/events/9/pages/0/131/Dialogue/enemy4 
-It was saved thanks ...
+Thanks to you, she's safe...
 
-Thank you…#GT
+Thank you...#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -195,9 +194,9 @@ Thank you…#GT
 
 僕一人じゃ危ないところだった。
 > CONTEXT: Map294/events/9/pages/0/135/Dialogue/kazuya 
-No, it was saved.
+No, thank you for the help.
 
-It was a dangerous place for me alone.#GT
+I doubt I could have done it by myself.#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -205,9 +204,8 @@ It was a dangerous place for me alone.#GT
 
 『戦闘は出来ない』って言ってたわりには……
 > CONTEXT: Map294/events/9/pages/0/140/Dialogue/kazuya 
-I mean ... it was a beautiful straight right ...
-
-According to saying "I can not fight" ...#GT
+On that note, that was a splendid right straight.
+What happened to not being able to fight?#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -216,13 +214,10 @@ According to saying "I can not fight" ...#GT
 不意を突いて、勢いをつけて吹き飛ばすくらいだったら
  あれくらいの悪魔はどうってことないわ。
 > CONTEXT: Map294/events/9/pages/0/144/Dialogue/enemy4 
-Uhufu ... Only the hairline and the figure
-are the main features.
-
-
-If it is enough to take a surprise and blow
-up with momentum
- There is nothing wrong with that kind of demon.#GT
+Ufufu... 
+If all I need to do is a sneak attack to send a
+demon flying, thick fur and a firm frame are
+all I need.#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -231,10 +226,10 @@ up with momentum
 
  彼女が来れば、いくら私でも、この子を守りきれない…
 > CONTEXT: Map294/events/9/pages/0/149/Dialogue/enemy4 
-But surely Beetle Harpy just before
-You should be reporting this event to "Queen".
-If she comes, no matter how much
-I can protect this child ...#GT
+But that Harpy Spawn is surely returning to report
+this incident to the "Queen".
+If she comes, there's no way I could protect this
+child...#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -243,10 +238,10 @@ I can protect this child ...#GT
 あなたは、一刻も早く『クイーン』を倒して……
 これ以上の被害が出る前に……
 > CONTEXT: Map294/events/9/pages/0/154/Dialogue/enemy4 
-Leave this child's thing to me.
+Leave this girl's care to me.
 
-You as soon as possible defeat the "queen" ...
-Before more damage occurs ...#GT
+You should defeat the Queen as soon as possible,
+so there will be no more victims...#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -257,8 +252,8 @@ Before more damage occurs ...#GT
 > CONTEXT: Map294/events/9/pages/0/160/Dialogue/other1 
 What will you do, \\N[1]?
 
-I know it's coming here
-Dare now, there is a hand to ambush but ...#GT
+Since she should be coming here, we could
+set up an ambush, but...#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -267,10 +262,10 @@ Dare now, there is a hand to ambush but ...#GT
 マザーラビットに守られているとはいえ、
 あの子をこれ以上戦闘に巻き込むわけにはいかない。
 > CONTEXT: Map294/events/9/pages/0/165/Dialogue/kazuya 
-Disagreeable………
-Although protected by Mother Rabbit,
-I can not get that girl involved in
- battle any more.#GT
+No...
+Even if she's being protected by Mother Rabbit,
+I can't let that girl get dragged into this fight
+any more.#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -279,10 +274,10 @@ I can not get that girl involved in
 
 手遅れかもしれないけど、捜索して進もう。
 > CONTEXT: Map294/events/9/pages/0/170/Dialogue/kazuya 
-Besides, in the building in the future
-There may still be survivors ...
+Besides, the buildings down the road may have
+survivors, too...
 
-It may be too late, but let's search and proceed.#GT
+It may be too late, but let's search while we go.#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -290,10 +285,10 @@ It may be too late, but let's search and proceed.#GT
 
 よし……そうと決まれば急ぐぞ、\\N[1]。
 > CONTEXT: Map294/events/9/pages/0/175/Dialogue/other1 
-Well, that's also Ali ...
+Well, that's true...
 
-OK ...... If you decide so,
-you will hurry up, \\N[1].#GT
+Okay... If that's your decision, let's hurry,
+\\N[1].#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -302,16 +297,16 @@ you will hurry up, \\N[1].#GT
 
 さっさと先に進もう。
 > CONTEXT: Map294/events/9/pages/0/179/Dialogue/other1 
-If you are here and there for a long time,
-There is also a possibility that Beetle Harpies
-will gather...
-Let's go ahead soon.#GT
+There's also the chance that all of us sticking
+around here will attract Harpy Spawn again, too...
+
+Let's get moving on ahead.#Amaboye
 > END STRING
 
 > BEGIN STRING
 少女「………………まま……？」
 > CONTEXT: Map294/events/9/pages/0/186/Dialogue 
-Girl "............. Mom ...?"#GT
+Girl- "...Mama...?"#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -320,10 +315,10 @@ Girl "............. Mom ...?"#GT
 怖かったでしょう…？もう大丈夫だからね
  ママが守ってあげるから………
 > CONTEXT: Map294/events/9/pages/0/188/Dialogue/enemy4 
-Yes, mommy .........
+Yes, it's mama here...
 
-Were you scared ...? It's all right now
- Because mom will protect .........#GT
+Were you scared...? It's alright now...
+Mama will protect you...#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -332,10 +327,10 @@ Were you scared ...? It's all right now
 
 ママたちは、一緒に安全な場所にいきましょう……。
 > CONTEXT: Map294/events/9/pages/0/193/Dialogue/enemy4 
-My older brother has a scary bird
-I went to overdue.
+The nice man from earlier went off to drive away
+the birds, too.
 
-Let's go to a safe place with moms ......#GT
+Let's go to somewhere safe to rest...#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -343,9 +338,9 @@ Let's go to a safe place with moms ......#GT
 
 　　　おなか………すいた………」
 > CONTEXT: Map294/events/9/pages/0/199/Dialogue 
-Girl "Throat ... ... I was ......
+Girl- "Throat... dry...
 
-   I am hungry………"#GT
+       So... hungry..."#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -353,7 +348,8 @@ Girl "Throat ... ... I was ......
 
 　　　のみたい………のみたいよ………」
 > CONTEXT: Map294/events/9/pages/0/203/Dialogue 
-Girl "Mom ........ It looks like ..... ..."#GT
+Girl "Mama...
+      I'm thirsty... I want to drink something..."#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -361,7 +357,7 @@ Girl "Mom ........ It looks like ..... ..."#GT
 
 ………飲ませてあげるわ………
 > CONTEXT: Map294/events/9/pages/0/210/Dialogue/enemy4 
-Yeah, yes.
+Yes, that's okay...
 
-... ... I'll give you a drink ... ...#GT
+...I'll give you a drink...#Amaboye
 > END STRING
