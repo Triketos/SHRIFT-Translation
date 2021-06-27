@@ -2,7 +2,7 @@
 > BEGIN STRING
 "EX1　ハーピーモドキ・クイーン戦"
 > CONTEXT: Map305/events/1/pages/0/13/InlineScript/2:1 
-"EX1 Harpy Spawn Queen Battle"#Amaboye
+"EX1 Battle Against Beetle Harpy Queen"
 > END STRING
 
 > BEGIN STRING
@@ -11,16 +11,16 @@
  今、周囲にハーピーモドキはいない！
 クイーンも、卵を産むまで身動きがとれないはずだ！
 > CONTEXT: Map305/events/1/pages/0/19/Dialogue/other1 
-\\N[1], this is our chance!
-There are no Harpy Spawn nearby right now!
-The Queen shouldn't be able to move well until
-she delivers her eggs, either!#Amaboye
+\\N[1], it's a chance! 
+There is no Beetle Harpy around now!
+The Queen will not be able to move
+until she lays the eggs!#GT
 > END STRING
 
 > BEGIN STRING
 このまま一気に………！！
 > CONTEXT: Map305/events/1/pages/0/24/Dialogue/other1 
-Let's settle things before she...#Amaboye
+Just like this......#GT
 > END STRING
 
 > BEGIN STRING
@@ -28,10 +28,9 @@ Let's settle things before she...#Amaboye
 
 ……もう産み終わって………！？
 > CONTEXT: Map305/events/1/pages/0/34/Dialogue/other2 
-What-you've got to be kidding me... This is way
-too fast!
+You're lying... Too soon!!
 
-...She's already done laying eggs?#Amaboye
+...... It's already finished.#GT
 > END STRING
 
 > BEGIN STRING
@@ -40,10 +39,10 @@ too fast!
 
 なんだってあんなに早く……
 > CONTEXT: Map305/events/1/pages/0/96/Dialogue/other2 
-Th... that was a close one...
-Wasn't gestation supposed to take hours...
-
-How did she do it so fast...#Amaboye
+Oh ... I was dangerous...
+Isn't it taking a couple of hours
+to give birth to Queen ...
+What is so fast...#GT
 > END STRING
 
 > BEGIN STRING
@@ -51,10 +50,8 @@ How did she do it so fast...#Amaboye
 
 クイーンはとっくの前に、出産体勢に入ってた…
 > CONTEXT: Map305/events/1/pages/0/101/Dialogue/kazuya 
-...My best guess is that this was a trap.
-
-
-The Queen began gestation well before now...#Amaboye
+...............Maybe, but I think it was a trap.
+The Queen was in a birth posture before ages...#GT
 > END STRING
 
 > BEGIN STRING
@@ -63,10 +60,10 @@ The Queen began gestation well before now...#Amaboye
 
 そして、ここまで僕たちを誘い込んだ……
 > CONTEXT: Map305/events/1/pages/0/105/Dialogue/kazuya 
-She received reports about us, then intentionally
-showed herself to us in that alley.
+I received a report of Mother Rabbit and I showed
+the figure in the alley in front of that.......
 
-With that, she baited us all the way here...#Amaboye
+And she invited us so far......#GT
 > END STRING
 
 > BEGIN STRING
@@ -75,10 +72,9 @@ With that, she baited us all the way here...#Amaboye
 ……って言いたいところだけど、あの『知性』を知った後だと
 わりとありうる話だな。
 > CONTEXT: Map305/events/1/pages/0/110/Dialogue/other2 
-There's no way...
-
-...Is what I want to say, but given that
-intelligence it's plausible.#Amaboye
+Such a stupid...... 
+I want to say, but it is a story that can be
+comparatively after you know that 'intelligence'.#GT
 > END STRING
 
 > BEGIN STRING
@@ -87,10 +83,10 @@ intelligence it's plausible.#Amaboye
 
 まんまとしてやられたぜ……
 > CONTEXT: Map305/events/1/pages/0/115/Dialogue/other2 
-I thought she was the same brainless breed as her
-spawn, only thinking of breeding and slaughter...
- 
-I didn't see that coming at all.#Amaboye
+It was the same as the Beetle Harpies of her
+minions, and I thought it was an empty-headed
+race with no ability but breeding and slaughter. 
+I was made to be...#GT
 > END STRING
 
 > BEGIN STRING
@@ -99,10 +95,10 @@ I didn't see that coming at all.#Amaboye
 残ったハーピーモドキたちも、この街での繁殖は無理だから
 そのうち魔界へ消えていくだろう。
 > CONTEXT: Map305/events/1/pages/0/121/Dialogue/other1 
-Anyway, we managed to fight the Queen off.
-The remaining Harpy Spawn should return to the
-demon realm, too, once they realize they can't
-breed anymore here.#Amaboye
+Anyway, the Queen was able to fight off now.
+The remaining Beetle Harpies will disappear to
+Makai sooner or later because breeding
+in this town is impossible.#GT
 > END STRING
 
 > BEGIN STRING
@@ -110,13 +106,13 @@ breed anymore here.#Amaboye
 
 あの子、大分弱ってたみたいだからな……
 > CONTEXT: Map305/events/1/pages/0/126/Dialogue/other1 
-Let's hurry back to Mother Rabbit.
+Let's go back to Mother Rabbit quickly.
 
-That kid didn't look well at all.#Amaboye
+She seems to have been very weak.#GT
 > END STRING
 
 > BEGIN STRING
 ………………うん。
 > CONTEXT: Map305/events/1/pages/0/130/Dialogue/kazuya 
-......Yeah.#Amaboye
+..................Yeah.#GT
 > END STRING

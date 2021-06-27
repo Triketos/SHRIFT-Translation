@@ -6,9 +6,8 @@
 > CONTEXT: Map303/events/29/pages/0/2/Dialogue 
 > CONTEXT: Map303/events/1/pages/0/2/Dialogue 
 > CONTEXT: Map303/events/2/pages/0/2/Dialogue 
-You feel the presence of a mighty demon ahead...
-
-Will you move forward?#Amaboye
+There is a sign of a mighty demon ahead......
+Do you want to proceed?#GT
 > END STRING
 
 > BEGIN STRING
@@ -16,7 +15,7 @@ Will you move forward?#Amaboye
 > CONTEXT: Map303/events/29/pages/0/6/Choice/0 
 > CONTEXT: Map303/events/1/pages/0/6/Choice/0 
 > CONTEXT: Map303/events/2/pages/0/6/Choice/0 
-Go on ahead#Amaboye
+Go ahead#GT
 > END STRING
 
 > BEGIN STRING
@@ -24,7 +23,7 @@ Go on ahead#Amaboye
 > CONTEXT: Map303/events/29/pages/0/6/Choice/1 
 > CONTEXT: Map303/events/1/pages/0/6/Choice/1 
 > CONTEXT: Map303/events/2/pages/0/6/Choice/1 
-Continue preparing#Amaboye
+Not ready yet#GT
 > END STRING
 
 > BEGIN STRING
@@ -33,8 +32,8 @@ Continue preparing#Amaboye
 おそらく、戦闘力だけならかなりの強敵だから
 準備は怠らないようにね。
 > CONTEXT: Map303/events/6/pages/0/0/Dialogue/hyakki 
-The Beetle Harpy Queen is just ahead.
-
-Its raw fighting strength is formidable,
-so don't skimp on preparation.#Amaboye
+There is a Beetle Harpy queen in the future.
+Perhaps, because it is a considerable enemy
+if only the combat power, do not
+neglect preparations.#GT
 > END STRING
