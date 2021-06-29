@@ -4,9 +4,10 @@
 
 この本を読んで寝かしつけて欲しいのかしら？
 > CONTEXT: CommonEvents_175/1/Dialogue/enemy4
-Uhufu ... What?
+Ufufu... What's this, little boy?
 
-Would you like me to read and read this book?#GT
+Would you like me to tuck you in and read this
+book to you?#Strate
 > END STRING
 
 > BEGIN STRING
@@ -15,10 +16,10 @@ Would you like me to read and read this book?#GT
 
 絵本とかだったらいいんだけど…
 > CONTEXT: CommonEvents_175/5/Dialogue/enemy4
-But while it's such a thick manga, while reading
-I will be in the morning ...
+But it's such a thick manga, by the time I finish
+reading it morning will have already come...
 
-I wish it was a picture book ...#GT
+I'd prefer something more like a picture book...#StrateLocalization
 > END STRING
 
 > BEGIN STRING
@@ -26,9 +27,10 @@ I wish it was a picture book ...#GT
 
 そしたら、読み聞かせてあげるわね…♡
 > CONTEXT: CommonEvents_175/10/Dialogue/enemy4
-Next time, I will prepare a picture book of just
-the right length.
-Then I will read it ... ♡#GT
+I will prepare a picture book of just the right
+length next time.
+
+I will read it to you then, okay...? ♡#Strate
 > END STRING
 
 > BEGIN STRING
@@ -36,7 +38,7 @@ Then I will read it ... ♡#GT
 > CONTEXT: CommonEvents_175/14/Dialogue
 > CONTEXT: CommonEvents_175/34/Dialogue
 > CONTEXT: CommonEvents_175/75/Dialogue
-I did not receive the present...#GT
+The present was not accepted...#Strate
 > END STRING
 
 > BEGIN STRING
@@ -44,9 +46,10 @@ I did not receive the present...#GT
 
 ランパスちゃんが読んでたから、ちょっと気になってたんだ！
 > CONTEXT: CommonEvents_175/20/Dialogue/enemy5
-Ah! That's the guy I put in the convenience store!
+Ah! That's the thing from the convenience store!
 
-I was worried a bit because Lampas had read it!#GT
+I was a bit curious since Lampas-chan was reading
+it!#Strate
 > END STRING
 
 > BEGIN STRING
@@ -55,11 +58,10 @@ I was worried a bit because Lampas had read it!#GT
 上手くページめくれなくて、すぐ破いちゃうんだよね……
 だから、申し訳ないけど諦めてるんだ。
 > CONTEXT: CommonEvents_175/24/Dialogue/enemy5
-But ... Atashi, because it is such a hand
-
-I can not turn the page well, I'll break
-immediately...
-So I'm sorry but I'm giving up.#GT
+But... with hands like these...
+I can't turn the pages very well. I'll end up
+ripping it immediately...
+Sorry, but I can't accept it.#StrateLocalization
 > END STRING
 
 > BEGIN STRING
@@ -68,10 +70,10 @@ So I'm sorry but I'm giving up.#GT
 それこそまた続きが気になっちゃうだろうし……
 ごめんね。
 > CONTEXT: CommonEvents_175/29/Dialogue/enemy5
-If I read it halfway and make it a shaka
+If I mess up while I'm halfway through it I'm
+sure I'll end up wanting to know how it ends...
 
-It will be anxious about the continuation 
-again... sorry.#GT
+Sorry.#StrateUnsureLocalization
 > END STRING
 
 > BEGIN STRING
@@ -79,10 +81,10 @@ again... sorry.#GT
 
 他のランパスが絶賛してたから、私だと喜ぶと思ったんだ？
 > CONTEXT: CommonEvents_175/40/Dialogue/enemy
-Hey ...?
+Huh...?
 
-Did you think that I would be happy because other
-Lampas were acclaimed?#GT
+Did you think I'd like this because another
+Lampas was praising it?#Strate
 > END STRING
 
 > BEGIN STRING
@@ -91,10 +93,10 @@ Lampas were acclaimed?#GT
 ランパスの感性は個体差があまりないから
 たぶん、私が読んでも同じ反応するんだろうなぁ…
 > CONTEXT: CommonEvents_175/45/Dialogue/enemy
-Thank you♪
-There is not much individual difference in the
-sensitivity of Lampas
-Maybe I'll read the same response...#GT
+Just kidding♪
+Sensitivity doesn't vary much between individual
+Lampas, so I'll probably have the same reaction
+when I read it...#Strate
 > END STRING
 
 > BEGIN STRING
@@ -102,9 +104,9 @@ Maybe I'll read the same response...#GT
 
 じっくり読ませてもらうから。
 > CONTEXT: CommonEvents_175/50/Dialogue/enemy
-Thank you very much \\N[1] ♡
+Thank you, \\N[1]♡
 
-Because I will read it carefully.#GT
+I'll take my time reading it.#Strate
 > END STRING
 
 > BEGIN STRING
@@ -112,9 +114,9 @@ Because I will read it carefully.#GT
 
 わたし、このプレゼント受け取れない……
 > CONTEXT: CommonEvents_175/63/Dialogue/enemy12
-......... I'm sorry, \\N[1].
+......I'm sorry, \\N[1].
 
-I can not receive this present......#GT
+I can't accept this present......#Strate
 > END STRING
 
 > BEGIN STRING
@@ -122,9 +124,9 @@ I can not receive this present......#GT
 
 内容が、なんだか私にとって良くないような気がして……
 > CONTEXT: CommonEvents_175/67/Dialogue/enemy12
-I don't understand well why I wonder why...
+I don't even know why, but...
 
-I feel like the content is not good for me...#GT
+I feel like the contents are not good for me...#Strate
 > END STRING
 
 > BEGIN STRING
@@ -134,5 +136,5 @@ I feel like the content is not good for me...#GT
 > CONTEXT: CommonEvents_175/71/Dialogue/enemy12
 I'm really sorry, \\N[1].
 
-Because only feelings are received......#GT
+I'll just trust that feeling......#Strate
 > END STRING
