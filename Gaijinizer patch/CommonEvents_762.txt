@@ -1,0 +1,99 @@
+﻿> GAIJINIZER PATCH FILE
+> BEGIN STRING
+\\C[6]■　りんご一覧en(s[999999999])
+> CONTEXT: CommonEvents_762/1/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\I[131]■回復リンゴ 
+> CONTEXT: CommonEvents_762/1/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\I[131]■減欲リンゴ
+> CONTEXT: CommonEvents_762/1/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\I[131]■猛攻リンゴ
+> CONTEXT: CommonEvents_762/1/Choice/3 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+\\\>\\C[13]【対象】単体　\\C[14]【効果】全快
+\\\>\\C[0]特性：味方１体のＨＰを全回復する
+> CONTEXT: CommonEvents_762/5/ChoiceHelp < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+回復リンゴを誰に使いますか？
+> CONTEXT: CommonEvents_762/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+\\\>\\C[13]【対象】\\N[1]　\\C[14]【効果】ステート回復
+\\\>\\C[0]特性：性欲を３０減らし、精神状態異常を解除する
+> CONTEXT: CommonEvents_762/36/ChoiceHelp < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+\\\>\\C[13]【対象】全体　\\C[14]【効果】攻撃強化
+\\\>\\C[0]３ターンの間、味方全員の物理攻撃力が上昇する。
+> CONTEXT: CommonEvents_762/45/ChoiceHelp < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\I[131]■赤リンゴen(s[718])
+> CONTEXT: CommonEvents_762/55/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\I[131]■緑リンゴen(s[719])
+> CONTEXT: CommonEvents_762/55/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\I[131]■兎リンゴen(s[720])
+> CONTEXT: CommonEvents_762/55/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+\\\>\\C[13]【対象】全員　\\C[14]【効果】ＨＰ回復
+\\\>\\C[0]特性：味方全員のＨＰを回復する。
+\\\>\\C[24]『赤リンゴ』を装備時に使用可能
+> CONTEXT: CommonEvents_762/57/ChoiceHelp < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+\\\>\\C[13]【対象】ルカ　\\C[14]【効果】ＳＰ回復
+\\\>\\C[0]特性：ルカのＳＰを全回復する。
+\\\>\\C[24]『緑リンゴ』を装備時に使用可能
+> CONTEXT: CommonEvents_762/74/ChoiceHelp < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+\\\>\\C[13]【対象】全体　\\C[14]【効果】ダメージ軽減
+\\\>\\C[0]特性：１ターンの間、全員のダメージを軽減する。
+\\\>\\C[24]『兎リンゴ』を装備時に使用可能
+> CONTEXT: CommonEvents_762/86/ChoiceHelp < UNTRANSLATED
+
+> END STRING

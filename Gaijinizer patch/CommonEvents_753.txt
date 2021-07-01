@@ -1,0 +1,18 @@
+﻿> GAIJINIZER PATCH FILE
+> BEGIN STRING
+回復ドリンクを誰に使いますか？
+> CONTEXT: CommonEvents_753/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ルカif(s[709])
+> CONTEXT: CommonEvents_753/12/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+マリオンif(s[710])
+> CONTEXT: CommonEvents_753/12/Choice/1 < UNTRANSLATED
+
+> END STRING

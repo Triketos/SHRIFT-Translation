@@ -1,0 +1,74 @@
+﻿> GAIJINIZER PATCH FILE
+> BEGIN STRING
+マリオンはダウンしている……
+> CONTEXT: CommonEvents_760/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+マリオンは体勢を立て直した！
+> CONTEXT: CommonEvents_760/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+【攻撃】
+> CONTEXT: CommonEvents_760/102/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+武器切り替えen(s[717])
+> CONTEXT: CommonEvents_760/102/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+リンゴ
+> CONTEXT: CommonEvents_760/102/Choice/3 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+\\\>現在装備している武器で攻撃します。
+\\\>現在の武器:【\\V[240]】
+> CONTEXT: CommonEvents_760/106/ChoiceHelp < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+\\\>【攻撃】で使用する武器を切り替えます
+\\\>\\C[2]1ターン1回のみ、ターン消費なし。
+> CONTEXT: CommonEvents_760/167/ChoiceHelp < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+\\\>リンゴを使用して、自身や味方の支援をします。
+> CONTEXT: CommonEvents_760/173/ChoiceHelp < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+回避体勢
+> CONTEXT: CommonEvents_760/178/Choice/1 < UNTRANSLATED
+> CONTEXT: Skills/17/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+\\\>マリオンが受ける物理・魔法ダメージが50％に軽減されます
+> CONTEXT: CommonEvents_760/180/ChoiceHelp < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+\\\>マリオンが受ける必中以外の攻撃を回避します。
+> CONTEXT: CommonEvents_760/187/ChoiceHelp < UNTRANSLATED
+
+> END STRING

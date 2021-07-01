@@ -1,0 +1,187 @@
+﻿> GAIJINIZER PATCH FILE
+> BEGIN STRING
+\\C[6]■　特技・勇者技en(s[999999999])
+> CONTEXT: CommonEvents_713/1/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\I[131]【魔剣・首刈り】　　\\C[3]ＳＰ－１en(v[223] \>= 1) 
+> CONTEXT: CommonEvents_713/1/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\I[131]【血裂雷鳴突き】　　\\C[3]ＳＰ－２en(v[223] \>= 2) 
+> CONTEXT: CommonEvents_713/1/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\I[131]【壊斧・大山鳴動】　\\C[3]ＳＰ－３en(v[223] \>= 3) 
+> CONTEXT: CommonEvents_713/1/Choice/3 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+\\\>\\C[13]【属性】物理　\\C[14]【威力】中
+\\\>\\C[0]相手に物理属性のダメージを与える
+\\\>\\C[2]必中攻撃。
+> CONTEXT: CommonEvents_713/5/ChoiceHelp < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もらった！魔剣・首狩り！！
+> CONTEXT: CommonEvents_713/21/Dialogue/ruka_fc1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+\\\>\\C[13]【属性】風　\\C[14]【威力】変動
+\\\>\\C[0]相手に風属性の物理ダメージを与える。
+\\\>\\C[2]戦闘開始時であればあるほどダメージアップ。
+\\\>\\C[30]精霊シルフ発動中にダメージアップ
+> CONTEXT: CommonEvents_713/31/ChoiceHelp < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いくぞ！血裂雷鳴突き！！
+> CONTEXT: CommonEvents_713/48/Dialogue/ruka_fc1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+\\\>\\C[13]【属性】雷　\\C[14]【威力】大
+\\\>\\C[0]相手に雷属性の物理ダメージを与える
+\\\>\\C[2]クリティカル率が高い。
+\\\>\\C[30]精霊ノーム発動中にダメージアップ
+> CONTEXT: CommonEvents_713/58/ChoiceHelp < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+大地の力を全てぶつける！
+
+壊斧・大山鳴動！！
+> CONTEXT: CommonEvents_713/75/Dialogue/ruka_fc1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\I[131]【魔刀・明鏡止水】　\\C[3]ＳＰ－３en(v[223] \>= 3) 
+> CONTEXT: CommonEvents_713/88/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+\\\>\\C[13]【属性】氷　\\C[14]【威力】中
+\\\>\\C[0]相手に氷属性の物理ダメージを与える
+\\\>\\C[2]このターンの攻撃を必中以外回避する。
+\\\>\\C[30]精霊ウンディーネ発動中にダメージアップ
+> CONTEXT: CommonEvents_713/90/ChoiceHelp < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+この一振りで、全てを断ち切る…！
+
+魔刀・明鏡止水！！
+> CONTEXT: CommonEvents_713/107/Dialogue/ruka_fc1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\I[131]【天魔頭蓋斬】　　　\\C[3]ＳＰ－３en(v[223] \>= 3) 
+> CONTEXT: CommonEvents_713/120/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\I[131]【死剣・乱れ星】　　\\C[3]ＳＰ－５en(v[223] \>= 5) 
+> CONTEXT: CommonEvents_713/120/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\I[9]【裏練気】　　　　　\\C[3]ＳＰ－３en(v[223] \>= 3) 
+> CONTEXT: CommonEvents_713/120/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\I[115]【初心】　　　　　　\\C[3]ＳＰ－２en(v[223] \>= 2) 
+> CONTEXT: CommonEvents_713/120/Choice/3 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+\\\>\\C[13]【属性】物理　\\C[14]【威力】中
+\\\>\\C[0]相手に物理攻撃のダメージを与える
+\\\>\\C[2]相手に攻撃低下・敏捷低下のデバフを付ける
+> CONTEXT: CommonEvents_713/122/ChoiceHelp < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もらった！天魔頭蓋斬！！
+> CONTEXT: CommonEvents_713/138/Dialogue/ruka_fc1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+\\\>\\C[13]【属性】無　\\C[14]【威力】特大
+\\\>\\C[0]相手に無属性の大ダメージを５回与える
+\\\>\\C[2]与えるダメージの振り幅が大きい
+> CONTEXT: CommonEvents_713/148/ChoiceHelp < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+食らえっ！死剣・乱れ星！！
+> CONTEXT: CommonEvents_713/164/Dialogue/ruka_fc1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+\\\>\\C[13]【属性】－　\\C[14]【威力】－
+\\\>\\C[0]次の物理攻撃を必ずクリティカルにする
+\\\>\\C[2]ターンを消費しない。\\C[10]使用中は瞑想不可。
+\\\>\\C[30]【初心】とは効果が重複しない。
+> CONTEXT: CommonEvents_713/176/ChoiceHelp < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+このスキルは、現在発動中です。
+> CONTEXT: CommonEvents_713/182/Dialogue < UNTRANSLATED
+> CONTEXT: CommonEvents_713/204/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+\\\>\\C[13]【属性】－　\\C[14]【威力】－
+\\\>\\C[0]３ターンの間、ＳＰ回復量が＋２
+\\\>\\C[2]ターンを消費しない。
+\\\>\\C[30]【裏練気】とは効果が重複しない。
+> CONTEXT: CommonEvents_713/198/ChoiceHelp < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[6]【戻る】
+> CONTEXT: CommonEvents_713/220/Choice/0 < UNTRANSLATED
+> CONTEXT: CommonEvents_714/155/Choice/0 < UNTRANSLATED
+> CONTEXT: CommonEvents_761/84/Choice/0 < UNTRANSLATED
+> CONTEXT: CommonEvents_762/94/Choice/0 < UNTRANSLATED
+
+> END STRING

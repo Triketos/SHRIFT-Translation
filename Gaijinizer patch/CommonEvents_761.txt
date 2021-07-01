@@ -1,0 +1,126 @@
+﻿> GAIJINIZER PATCH FILE
+> BEGIN STRING
+\\C[6]■　武器一覧en(s[999999999])
+> CONTEXT: CommonEvents_761/1/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\I[131]■マスケット\\C[27]\\V[252]en(v[239] != 1) 
+> CONTEXT: CommonEvents_761/1/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\I[131]■フリントロック\\C[27]\\V[253]en(v[239] != 2) 
+> CONTEXT: CommonEvents_761/1/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\I[131]■てつはう\\C[27]\\V[254]en(v[239] != 3) 
+> CONTEXT: CommonEvents_761/1/Choice/3 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+\\\>\\C[13]【属性】物理　\\C[14]【威力】中×２
+\\\>\\C[0]特性：\\C[24]必中攻撃
+> CONTEXT: CommonEvents_761/5/ChoiceHelp < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+マリオンは\\C[2]マスケット\\C[0]に装備を切り替えた！
+> CONTEXT: CommonEvents_761/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+\\\>\\C[13]【属性】物理　\\C[14]【威力】小×5
+\\\>\\C[0]特性：\\C[24]次ターン、ルカより先に行動できる
+> CONTEXT: CommonEvents_761/18/ChoiceHelp < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+マリオンは\\C[2]フリントロック\\C[0]に装備を切り替えた！
+> CONTEXT: CommonEvents_761/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+\\\>\\C[13]【属性】火　\\C[14]【威力】大×１
+\\\>\\C[0]特性：\\C[24]次ターン開始時、自身のＨＰ２０％回復
+> CONTEXT: CommonEvents_761/31/ChoiceHelp < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+マリオンは\\C[2]てつはう\\C[0]に装備を切り替えた！
+> CONTEXT: CommonEvents_761/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\I[131]■カノン砲\\C[27]\\V[255]en(v[239] != 4) 
+> CONTEXT: CommonEvents_761/44/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\I[131]■手りゅう弾\\C[27]\\V[256]en(v[239] != 5) 
+> CONTEXT: CommonEvents_761/44/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\I[131]■一子相伝之槍\\C[27]\\V[257]en(v[258] \>= 3) 
+> CONTEXT: CommonEvents_761/44/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+\\\>\\C[13]【属性】物理　\\C[14]【威力】大×１
+\\\>\\C[0]特性：\\C[24]装備中、被ダメージが半減。
+> CONTEXT: CommonEvents_761/46/ChoiceHelp < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+マリオンは\\C[2]カノン砲\\C[0]に装備を切り替えた！
+> CONTEXT: CommonEvents_761/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+\\\>\\C[13]【属性】無　\\C[14]【威力】大×２
+\\\>\\C[0]特性：\\C[24]装備中、被ダメージ増加
+> CONTEXT: CommonEvents_761/59/ChoiceHelp < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+マリオンは\\C[2]手りゅう弾\\C[0]に装備を切り替えた！
+> CONTEXT: CommonEvents_761/67/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+\\\>\\C[13]【属性】無　\\C[14]【威力】特大×３
+\\\>\\C[2]武器切り替えを一定回数行う事で使用可能になる。
+> CONTEXT: CommonEvents_761/72/ChoiceHelp < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+マリオンは\\C[2]一子相伝之槍\\C[0]に装備を切り替えた！
+> CONTEXT: CommonEvents_761/79/Dialogue < UNTRANSLATED
+
+> END STRING
