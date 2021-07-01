@@ -14,9 +14,9 @@ Don't do anything scary...!#Ron
 
 怖いことなんてしないわ
 > CONTEXT: CommonEvents_627/7/Dialogue/enemy
-All right, \\N[1]♡
+It's okay, \\N[1]♡
 
-I'm not scared~#GT
+I won't do anything scary~#Strate
 > END STRING
 
 > BEGIN STRING
@@ -24,15 +24,16 @@ I'm not scared~#GT
 
 すぐに終わるから…
 > CONTEXT: CommonEvents_627/11/Dialogue/enemy
-Let's have a good feeling with two people... ♡
+Let's do lots of nice things together... ♡
 
-It will end soon...#GT
+It'll be over soon...#Strate
 > END STRING
 
 > BEGIN STRING
 \\C[2]ランパスは、もうこちらの言葉を聞く気はないようだ…
 > CONTEXT: CommonEvents_627/15/Dialogue
-\\C[2]Lampas doesn't seem to hear this words anymore...#GT
+\\C[2]It doesn't seem like Lampas will listen to
+anything you say anymore...#Strate
 > END STRING
 
 > BEGIN STRING
@@ -40,8 +41,9 @@ It will end soon...#GT
 
 それじゃまるで、私が弱い者イジメしてるみたいじゃない…
 > CONTEXT: CommonEvents_627/21/Dialogue/enemy
-............ Well, it's not as if I'm
-a weak person...#GT
+......What the hell.
+
+This makes me look like a bully...#StrateLocalization
 > END STRING
 
 > BEGIN STRING
@@ -49,15 +51,16 @@ a weak person...#GT
 
 シラけちゃった、わたし帰るね
 > CONTEXT: CommonEvents_627/25/Dialogue/enemy
-....Yay! 
+......I give uuuup! 
 
-I'm going home...#GT
+I'm not in the mood for this anymore, I'm
+going home.#StrateLocalization
 > END STRING
 
 > BEGIN STRING
 ランパスは見逃してくれたようだ……
 > CONTEXT: CommonEvents_627/34/Dialogue
-It looks like you missed Lampas...#GT
+It seems Lampas has let you go......#Strate
 > END STRING
 
 > BEGIN STRING
