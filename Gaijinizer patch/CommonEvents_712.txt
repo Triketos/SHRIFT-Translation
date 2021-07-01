@@ -1,0 +1,96 @@
+﻿> GAIJINIZER PATCH FILE
+> BEGIN STRING
+ルカはダウンしている……
+> CONTEXT: CommonEvents_712/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ルカは体勢を立て直した！
+> CONTEXT: CommonEvents_712/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[6]■コマンドen(s[999999999])
+> CONTEXT: CommonEvents_712/64/Choice/0 < UNTRANSLATED
+> CONTEXT: CommonEvents_760/102/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通常攻撃
+> CONTEXT: CommonEvents_712/64/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+勇者技
+> CONTEXT: CommonEvents_712/64/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+スキル
+> CONTEXT: CommonEvents_712/64/Choice/3 < UNTRANSLATED
+> CONTEXT: System/terms/commands/5 < UNTRANSLATED
+> CONTEXT: System/skill_types/36 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+\\\>物理攻撃の小ダメージを与えます。
+> CONTEXT: CommonEvents_712/68/ChoiceHelp < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+てやっ！！
+> CONTEXT: CommonEvents_712/70/Dialogue/ruka_fc1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+\\\>ＳＰを消費して、強力な剣技を使用します。
+> CONTEXT: CommonEvents_712/80/ChoiceHelp < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+\\\>ＳＰを消費して、味方に有利なスキルを使用します。
+> CONTEXT: CommonEvents_712/85/ChoiceHelp < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+防御体勢
+> CONTEXT: CommonEvents_712/90/Choice/0 < UNTRANSLATED
+> CONTEXT: CommonEvents_760/178/Choice/0 < UNTRANSLATED
+> CONTEXT: Skills/20/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+回避体勢 en(s[702])
+> CONTEXT: CommonEvents_712/90/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+\\\>ルカが受ける物理・魔法ダメージが50％に軽減されます
+\\\>\\C[3]ＳＰが＋1されます
+> CONTEXT: CommonEvents_712/92/ChoiceHelp < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+\\\>ルカが受ける必中以外の攻撃を回避します。
+\\\>\\C[3]ＳＰが＋1されます
+> CONTEXT: CommonEvents_712/101/ChoiceHelp < UNTRANSLATED
+
+> END STRING

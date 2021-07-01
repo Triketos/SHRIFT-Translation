@@ -1,0 +1,615 @@
+﻿> GAIJINIZER PATCH FILE
+> BEGIN STRING
+がはっ……！！
+> CONTEXT: CommonEvents_741/5/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map191/events/1/pages/0/721/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Troops/210/pages/3/8/Dialogue/enemy11 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[1]は、ハイスラッグ娘の攻撃が直撃し
+
+後方へと吹っ飛ばされてしまった！！
+> CONTEXT: CommonEvents_741/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ふふ……あっけないものね。
+
+あなたは強いオスだと聞いていたけど、
+どうやら見当違いだったみたいだわ。
+> CONTEXT: CommonEvents_741/11/Dialogue/highslag_fc1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+安心して、身体に傷は付いていないはず……
+
+だって、せっかくのエサをボロボロになんてしたら
+大変でしょう…♡
+> CONTEXT: CommonEvents_741/16/Dialogue/highslag_fc1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ぐっ……うっ……
+> CONTEXT: CommonEvents_741/21/Dialogue/kazuya-0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+確かに、身体に大穴ができてもおかしくない衝撃だったのに
+
+自分の身体には吹っ飛ばされたときの擦り傷しかない……
+> CONTEXT: CommonEvents_741/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だが、その衝撃はちゃんと身体に響いているらしく
+
+もはや指一本自由に動かせなかった……
+> CONTEXT: CommonEvents_741/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うっ………ぐっ……
+
+くそっ……！！
+> CONTEXT: CommonEvents_741/31/Dialogue/kazuya-0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+無駄よ……
+もう貴方は動けない……
+
+私に溶かされて、食べられるだけの哀れなエサ…♡
+> CONTEXT: CommonEvents_741/35/Dialogue/highslag_fc1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[1]は、ハイスラッグ娘に敗北してしまった……
+> CONTEXT: CommonEvents_741/50/Dialogue < UNTRANSLATED
+> CONTEXT: CommonEvents_742/11/Dialogue < UNTRANSLATED
+> CONTEXT: CommonEvents_743/11/Dialogue < UNTRANSLATED
+> CONTEXT: CommonEvents_789/244/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+リベンジデータをロード
+> CONTEXT: CommonEvents_741/52/Choice/0 < UNTRANSLATED
+> CONTEXT: CommonEvents_742/13/Choice/0 < UNTRANSLATED
+> CONTEXT: CommonEvents_743/13/Choice/0 < UNTRANSLATED
+> CONTEXT: CommonEvents_747/105/Choice/0 < UNTRANSLATED
+> CONTEXT: CommonEvents_789/36/Choice/0 < UNTRANSLATED
+> CONTEXT: CommonEvents_789/74/Choice/0 < UNTRANSLATED
+> CONTEXT: CommonEvents_789/109/Choice/0 < UNTRANSLATED
+> CONTEXT: CommonEvents_789/144/Choice/0 < UNTRANSLATED
+> CONTEXT: CommonEvents_789/179/Choice/0 < UNTRANSLATED
+> CONTEXT: CommonEvents_789/214/Choice/0 < UNTRANSLATED
+> CONTEXT: CommonEvents_789/246/Choice/0 < UNTRANSLATED
+> CONTEXT: CommonEvents_789/281/Choice/0 < UNTRANSLATED
+> CONTEXT: CommonEvents_789/315/Choice/0 < UNTRANSLATED
+> CONTEXT: CommonEvents_789/349/Choice/0 < UNTRANSLATED
+> CONTEXT: CommonEvents_789/384/Choice/0 < UNTRANSLATED
+> CONTEXT: CommonEvents_789/416/Choice/0 < UNTRANSLATED
+> CONTEXT: Troops/353/pages/0/187/Choice/0 < UNTRANSLATED
+> CONTEXT: Troops/362/pages/0/19/Choice/0 < UNTRANSLATED
+> CONTEXT: Troops/384/pages/0/20/Choice/0 < UNTRANSLATED
+> CONTEXT: Troops/387/pages/0/20/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敗北シーンを見る（ゲームオーバー）
+> CONTEXT: CommonEvents_741/52/Choice/1 < UNTRANSLATED
+> CONTEXT: CommonEvents_742/13/Choice/1 < UNTRANSLATED
+> CONTEXT: CommonEvents_743/13/Choice/1 < UNTRANSLATED
+> CONTEXT: CommonEvents_747/105/Choice/1 < UNTRANSLATED
+> CONTEXT: CommonEvents_789/36/Choice/1 < UNTRANSLATED
+> CONTEXT: CommonEvents_789/74/Choice/1 < UNTRANSLATED
+> CONTEXT: CommonEvents_789/109/Choice/1 < UNTRANSLATED
+> CONTEXT: CommonEvents_789/144/Choice/1 < UNTRANSLATED
+> CONTEXT: CommonEvents_789/179/Choice/1 < UNTRANSLATED
+> CONTEXT: CommonEvents_789/214/Choice/1 < UNTRANSLATED
+> CONTEXT: CommonEvents_789/246/Choice/1 < UNTRANSLATED
+> CONTEXT: CommonEvents_789/281/Choice/1 < UNTRANSLATED
+> CONTEXT: CommonEvents_789/315/Choice/1 < UNTRANSLATED
+> CONTEXT: CommonEvents_789/349/Choice/1 < UNTRANSLATED
+> CONTEXT: CommonEvents_789/384/Choice/1 < UNTRANSLATED
+> CONTEXT: CommonEvents_789/416/Choice/1 < UNTRANSLATED
+> CONTEXT: Troops/353/pages/0/187/Choice/1 < UNTRANSLATED
+> CONTEXT: Troops/362/pages/0/19/Choice/1 < UNTRANSLATED
+> CONTEXT: Troops/384/pages/0/20/Choice/1 < UNTRANSLATED
+> CONTEXT: Troops/387/pages/0/20/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+タイトル画面に戻る（ゲームオーバー）
+> CONTEXT: CommonEvents_741/52/Choice/2 < UNTRANSLATED
+> CONTEXT: CommonEvents_742/13/Choice/2 < UNTRANSLATED
+> CONTEXT: CommonEvents_743/13/Choice/2 < UNTRANSLATED
+> CONTEXT: CommonEvents_747/105/Choice/2 < UNTRANSLATED
+> CONTEXT: CommonEvents_789/36/Choice/2 < UNTRANSLATED
+> CONTEXT: CommonEvents_789/74/Choice/2 < UNTRANSLATED
+> CONTEXT: CommonEvents_789/109/Choice/2 < UNTRANSLATED
+> CONTEXT: CommonEvents_789/144/Choice/2 < UNTRANSLATED
+> CONTEXT: CommonEvents_789/179/Choice/2 < UNTRANSLATED
+> CONTEXT: CommonEvents_789/214/Choice/2 < UNTRANSLATED
+> CONTEXT: CommonEvents_789/246/Choice/2 < UNTRANSLATED
+> CONTEXT: CommonEvents_789/281/Choice/2 < UNTRANSLATED
+> CONTEXT: CommonEvents_789/315/Choice/2 < UNTRANSLATED
+> CONTEXT: CommonEvents_789/349/Choice/2 < UNTRANSLATED
+> CONTEXT: CommonEvents_789/384/Choice/2 < UNTRANSLATED
+> CONTEXT: CommonEvents_789/416/Choice/2 < UNTRANSLATED
+> CONTEXT: Troops/353/pages/0/187/Choice/2 < UNTRANSLATED
+> CONTEXT: Troops/362/pages/0/19/Choice/2 < UNTRANSLATED
+> CONTEXT: Troops/384/pages/0/20/Choice/2 < UNTRANSLATED
+> CONTEXT: Troops/387/pages/0/20/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+反省会に出る
+> CONTEXT: CommonEvents_741/52/Choice/3 < UNTRANSLATED
+> CONTEXT: CommonEvents_742/13/Choice/3 < UNTRANSLATED
+> CONTEXT: CommonEvents_743/13/Choice/3 < UNTRANSLATED
+> CONTEXT: CommonEvents_747/105/Choice/3 < UNTRANSLATED
+> CONTEXT: CommonEvents_789/36/Choice/3 < UNTRANSLATED
+> CONTEXT: CommonEvents_789/74/Choice/3 < UNTRANSLATED
+> CONTEXT: CommonEvents_789/109/Choice/3 < UNTRANSLATED
+> CONTEXT: CommonEvents_789/144/Choice/3 < UNTRANSLATED
+> CONTEXT: CommonEvents_789/179/Choice/3 < UNTRANSLATED
+> CONTEXT: CommonEvents_789/214/Choice/3 < UNTRANSLATED
+> CONTEXT: CommonEvents_789/246/Choice/3 < UNTRANSLATED
+> CONTEXT: CommonEvents_789/281/Choice/3 < UNTRANSLATED
+> CONTEXT: CommonEvents_789/315/Choice/3 < UNTRANSLATED
+> CONTEXT: CommonEvents_789/349/Choice/3 < UNTRANSLATED
+> CONTEXT: CommonEvents_789/384/Choice/3 < UNTRANSLATED
+> CONTEXT: CommonEvents_789/416/Choice/3 < UNTRANSLATED
+> CONTEXT: Troops/353/pages/0/187/Choice/3 < UNTRANSLATED
+> CONTEXT: Troops/362/pages/0/19/Choice/3 < UNTRANSLATED
+> CONTEXT: Troops/384/pages/0/20/Choice/3 < UNTRANSLATED
+> CONTEXT: Troops/387/pages/0/20/Choice/3 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さぁ……私のスカートの中にいらっしゃい…♡
+
+私のヌルヌルの身体で、たっぷりと可愛がってあげるわ…♡
+> CONTEXT: CommonEvents_741/71/Dialogue/highslag_fc1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あっ……あっ……♡
+
+あああっ……！♡
+> CONTEXT: CommonEvents_741/75/Dialogue/kazuya-0 < UNTRANSLATED
+> CONTEXT: CommonEvents_806/21/Dialogue/kazuya-0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ハイスラッグ娘の身体が、足元から徐々に身体を伝ってくる…
+
+彼女はそれを見て、明らかにこちらの反応を楽しんでいるようだ…
+> CONTEXT: CommonEvents_741/79/Dialogue < UNTRANSLATED
+> CONTEXT: CommonEvents_806/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+やがて………
+
+彼女の蛞蝓の身体は、ねっとりと僕の股間を包み込んだ……
+> CONTEXT: CommonEvents_741/107/Dialogue < UNTRANSLATED
+> CONTEXT: CommonEvents_806/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うああああああっ…♡♡♡
+> CONTEXT: CommonEvents_741/111/Dialogue/kazuya-0 < UNTRANSLATED
+> CONTEXT: CommonEvents_742/69/Dialogue/kazuya-0 < UNTRANSLATED
+> CONTEXT: CommonEvents_806/57/Dialogue/kazuya-0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アハハッ！情けない声……♡
+
+その反応が見たかったのよ…♡
+> CONTEXT: CommonEvents_741/113/Dialogue/highslag_fc1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+今から身体を溶かされて食べられるのに、
+ヌルヌルに包まれただけで感じている声を出してしまう…♡
+
+人間の生殖器って、本当に単純ね……♡♡
+> CONTEXT: CommonEvents_741/117/Dialogue/highslag_fc1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ほぉら、その負け犬の声をもっと聞かせなさい♡
+
+でないと、すぐに消化液を出してしまうわよ…♡
+> CONTEXT: CommonEvents_741/122/Dialogue/highslag_fc1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あっ……あっ……♡
+
+あああああああああっ……！♡
+> CONTEXT: CommonEvents_741/127/Dialogue/kazuya-0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[1]は、
+
+ハイスラッグ娘の身体の脈動に合わせて射精してしまった……
+> CONTEXT: CommonEvents_741/139/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+……………
+
+…………誰が出していいって言ったかしら……？
+> CONTEXT: CommonEvents_741/143/Dialogue/highslag_fc1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はあっ……！はあっ……！
+
+だめぇ……気持ちよ……すぎてぇ…♡
+> CONTEXT: CommonEvents_741/147/Dialogue/kazuya-0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ふふふ……まぁいいわ。
+貴方、精子の量も質も中々なのね…♡
+
+今のは、この上質の種に免じて許してあげる…
+> CONTEXT: CommonEvents_741/152/Dialogue/highslag_fc1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+でも、やっぱりオスとしては下の下ね。
+
+こんなにみっともなく快楽によがり狂うなんて
+あなた、人間としての誇りはないの？
+> CONTEXT: CommonEvents_741/157/Dialogue/highslag_fc1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うぐっ……
+> CONTEXT: CommonEvents_741/162/Dialogue/kazuya-0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アハハハッ、悔しいのかしら…？♡
+馬鹿にされて、怒ってしまった？
+
+違うというのなら、少しぐらい抵抗してみなさいよ♡
+> CONTEXT: CommonEvents_741/164/Dialogue/highslag_fc1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+人間のオスならオスらしく
+動けないなりに、私を睨み付けてみたらどうなの？
+
+ほぉら、こんなコトされちゃってるのよ…？♡
+> CONTEXT: CommonEvents_741/169/Dialogue/highslag_fc1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あっ…………♡
+
+うあ……♡
+> CONTEXT: CommonEvents_741/184/Dialogue/kazuya-0 < UNTRANSLATED
+> CONTEXT: CommonEvents_741/206/Dialogue/kazuya-0 < UNTRANSLATED
+> CONTEXT: CommonEvents_806/88/Dialogue/kazuya-0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フフフッ……いい子ね……♡
+そんなことよりも、こっちが気になるものね？♡
+
+自分のプライドなんてどうでも良いわよね…♡
+> CONTEXT: CommonEvents_741/188/Dialogue/highslag_fc1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もう気付いてると思うけど
+この強化された魔力で、ちょっと自分の粘液に細工をしたの…
+
+\\C[2]私に対して発情するような作用\\C[0]をね…♡
+> CONTEXT: CommonEvents_741/193/Dialogue/highslag_fc1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ほぉら……だから仕方ないのよ……♡
+
+貴方が惨めにおねだりしても、それは魔力のせいよ…♡
+> CONTEXT: CommonEvents_741/198/Dialogue/highslag_fc1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さぁ、自分の口で言いなさい
+
+『私に包み込まれて、可愛がられたい』って…♡
+> CONTEXT: CommonEvents_741/202/Dialogue/highslag_fc1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ああああっ……！♡♡
+
+たべてぇ……♡僕をたべてぇえぇ……♡
+> CONTEXT: CommonEvents_741/212/Dialogue/kazuya-0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ふふっ…よくできました……♡
+
+さぁ……自分から頭を差し出しなさい……♡
+包み込んであげるわ♡
+> CONTEXT: CommonEvents_741/216/Dialogue/highslag_fc1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[1]は、言われるがまま
+
+ハイスラッグ娘のスカートの中にグリグリと顔を突っ込んだ……
+> CONTEXT: CommonEvents_741/234/Dialogue < UNTRANSLATED
+> CONTEXT: CommonEvents_806/117/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+んぐうううっ…！♡♡♡
+> CONTEXT: CommonEvents_741/256/Dialogue/kazuya-10 < UNTRANSLATED
+> CONTEXT: CommonEvents_806/139/Dialogue/kazuya-10 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[1]は、
+
+ハイスラッグ娘の身体に完全に包み込まれてしまった！
+> CONTEXT: CommonEvents_741/258/Dialogue < UNTRANSLATED
+> CONTEXT: CommonEvents_806/141/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アハハッ！無様ねぇ…！♡
+
+本当に自分から食べられに来るなんて♡
+> CONTEXT: CommonEvents_741/262/Dialogue/highslag_fc1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ねぇ……女性のスカートの中に
+自ら顔を突っ込む男性って、一体どんな心境なの？
+
+自分で自分を哀れに感じないのかしら？♡
+> CONTEXT: CommonEvents_741/266/Dialogue/highslag_fc1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+んっ…！♡♡♡んんっ……♡♡
+> CONTEXT: CommonEvents_741/271/Dialogue/kazuya-10 < UNTRANSLATED
+> CONTEXT: CommonEvents_806/178/Dialogue/kazuya-10 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[1]は、
+
+夢中になってヌルヌルに頭を擦り付けている……
+> CONTEXT: CommonEvents_741/273/Dialogue < UNTRANSLATED
+> CONTEXT: CommonEvents_806/180/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フフ……聞こえてないわね…♡
+
+それじゃあ、本格的に溶かしてあげる…♡
+言葉通り、天にも昇る気持ちで逝けるわよ…
+> CONTEXT: CommonEvents_741/277/Dialogue/highslag_fc1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ただでさえ、捕食中に私のヌルヌルの刺激で
+溶かされながらイってしまうオスばかりなのに
+
+今回は、さっきも言ったように『強化』してあるから…♡
+> CONTEXT: CommonEvents_741/282/Dialogue/highslag_fc1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+まさかさっきので打ち止めなんて言わないわよね？
+
+ご褒美に、いつもより激しく動いてあげる……♡
+限界まで搾り取ってあげるわ…♡♡
+> CONTEXT: CommonEvents_741/287/Dialogue/highslag_fc1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+んんんんんんんんんんんっ！！♡♡♡
+
+んんんーーーーっ！♡♡
+> CONTEXT: CommonEvents_741/318/Dialogue/kazuya-10 < UNTRANSLATED
+> CONTEXT: CommonEvents_741/381/Dialogue/kazuya-10 < UNTRANSLATED
+> CONTEXT: CommonEvents_784/32/Dialogue/kazuya-5 < UNTRANSLATED
+> CONTEXT: CommonEvents_803/116/Dialogue/kazuya-5 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アハハハハハッ！！♡♡
+
+さっき出したばかりなのに、まだこんなに出るの…！？♡
+> CONTEXT: CommonEvents_741/350/Dialogue/highslag_fc1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+弱いオスのくせに♡
+持っている魔力と精気は一級品なのね♡
+
+とても素晴らしいご馳走にありつけたわ…♡
+> CONTEXT: CommonEvents_741/354/Dialogue/highslag_fc1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ほぉら……もっと喘ぎなさい♡
+誰が休んでいいなんて言ったの？
+
+もっと出せるでしょう？\\N[1]…♡
+> CONTEXT: CommonEvents_741/359/Dialogue/highslag_fc1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ほぉら…！これでトドメよ…！♡
+
+貴方の精液、根こそぎ搾り出してあげる…！！♡♡
+> CONTEXT: CommonEvents_741/445/Dialogue/highslag_fc1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アハハハハハハハハハハッ！♡
+
+搾れば搾るほど美味しい汁が出てくる……♡
+笑いが止まらないわ…！♡
+> CONTEXT: CommonEvents_741/547/Dialogue/highslag_fc1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+惨め！！とっても惨めね！！\\N[1]♡
+貴方、私に消化されてるのよ？喰われてるのよ？
+
+なぜそんな勢いで射精なんてしているのかしら！♡
+> CONTEXT: CommonEvents_741/552/Dialogue/highslag_fc1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…………………♡♡♡
+
+ぅ…………ぅ…♡♡
+> CONTEXT: CommonEvents_741/558/Dialogue/kazuya-10 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あらあら……
+精液を出しすぎて、もう声も出せなくなったみたいね…♡
+
+そのまま蕩けた夢見心地でいるといいわ…♡
+> CONTEXT: CommonEvents_741/562/Dialogue/highslag_fc1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もうだいぶ、美味しい精気も堪能させてもらったし……
+
+後はゆっくり、骨まで溶かしてあげる……♡
+> CONTEXT: CommonEvents_741/567/Dialogue/highslag_fc1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+安心しなさい、たっぷり感覚を快楽漬けにしたあとの話だから
+溶かされる時の痛みはないわよ………
+
+ちゃんと最期まで面倒を見てあげるわ……♡
+> CONTEXT: CommonEvents_741/571/Dialogue/highslag_fc1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…………………♡♡♡
+
+ぁ…………ぅ…♡♡
+> CONTEXT: CommonEvents_741/576/Dialogue/kazuya-10 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+身体が軽くなり、ふわふわとした気持ちになる……
+
+全身のヌルヌルの感触だけが、脳に快楽を伝えてくる……
+> CONTEXT: CommonEvents_741/583/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+僕はいま、どれだけ溶かされているのだろうか……
+
+いや、まだ玩ばれている最中なのだろうか……
+> CONTEXT: CommonEvents_741/587/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+彼女の身体の脈動に合わせて、射精する……
+
+いや、もう自分が出している感覚すら危うい……
+> CONTEXT: CommonEvents_741/591/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+僕の頭の中は、もう快楽で埋め尽くされている……
+
+きっとこのまま、彼女に溶かされるのだろう……
+> CONTEXT: CommonEvents_741/595/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+密着したナメクジ体を通して
+
+彼女の高貴な高笑いが、僕の脳内に心地よく響いていた……
+> CONTEXT: CommonEvents_741/599/Dialogue < UNTRANSLATED
+
+> END STRING

@@ -1,0 +1,103 @@
+﻿> GAIJINIZER PATCH FILE
+> BEGIN STRING
+\\C[6]■　スキルen(s[999999999])
+> CONTEXT: CommonEvents_714/1/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\I[914]【精霊シルフ】　　　　\\C[3]ＳＰ－２en(v[223] \>= 2) 
+> CONTEXT: CommonEvents_714/1/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\I[1057]【精霊ノーム】　　　　\\C[3]ＳＰ－２en(v[223] \>= 2) 
+> CONTEXT: CommonEvents_714/1/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\I[901]【精霊ウンディーネ】　\\C[3]ＳＰ－２en(v[223] \>= 2) 
+> CONTEXT: CommonEvents_714/1/Choice/3 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+\\\>\\C[0]３ターンの間、精霊シルフを召喚する
+\\\>\\C[2]味方の風・雷属性の被ダメージ軽減
+\\\>\\C[6]味方の物理・魔法命中率２０％上昇
+> CONTEXT: CommonEvents_714/5/ChoiceHelp < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+この身を疾風と化して…！
+> CONTEXT: CommonEvents_714/15/Dialogue/ruka_fc1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+\\\>\\C[0]３ターンの間、精霊ノームを召喚する
+\\\>\\C[2]味方の物理属性の被ダメージ軽減
+\\\>\\C[6]味方のスタン無効付与
+> CONTEXT: CommonEvents_714/40/ChoiceHelp < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+この身に、大地の息吹を…！
+> CONTEXT: CommonEvents_714/50/Dialogue/ruka_fc1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+\\\>\\C[0]３ターンの間、精霊ウンディーネを召喚する
+\\\>\\C[2]味方の氷・炎属性の被ダメージ軽減
+\\\>\\C[6]味方の物理・魔法回避率２０％上昇
+> CONTEXT: CommonEvents_714/73/ChoiceHelp < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+この心、水の流れの中に…！
+> CONTEXT: CommonEvents_714/83/Dialogue/ruka_fc1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\I[898]【精霊サラマンダー】　\\C[3]ＳＰ－３en(v[223] \>= 3) 
+> CONTEXT: CommonEvents_714/106/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\I[1216]【瞑想】　　　　　　　\\C[1]ＳＰ　０en(v[237] == 0) 
+> CONTEXT: CommonEvents_714/106/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+\\\>\\C[0]３ターンの間、精霊サラマンダーを召喚する
+\\\>\\C[2]味方の物理・魔法攻撃力上昇
+\\\>\\C[6]味方の恍惚無効
+> CONTEXT: CommonEvents_714/108/ChoiceHelp < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+この刃に、紅蓮の業火を…！
+> CONTEXT: CommonEvents_714/118/Dialogue/ruka_fc1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+選択肢ヘルプ
+\\\>\\C[2]ルカのＨＰ、ＳＰを全回復する。
+> CONTEXT: CommonEvents_714/143/ChoiceHelp < UNTRANSLATED
+
+> END STRING
