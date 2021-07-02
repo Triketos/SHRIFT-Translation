@@ -947,51 +947,202 @@ Worn-Out Collar#Ron
 > END STRING
 
 > BEGIN STRING
+この物語を終結させた者に贈られる指輪。
+\\C[10]黒狐実装はもうちょっと待ってね★
+> CONTEXT: Armors/85/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+絆の指輪
+> CONTEXT: Armors/85/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+屋外作業でも痛みにくい丈夫な服
+抵抗＋１０％
+> CONTEXT: Armors/90/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
 布の服
 > CONTEXT: Armors/90/name
 Cloth Clothes#StrateUnsure
 > END STRING
 
 > BEGIN STRING
-先代の愛用していた全身を覆う銀の鎧。
-狙われやすさと防御力が強化される。
-> CONTEXT: Armors/99/description
-> CONTEXT: Armors/100/description
-Full-body silver armor used by the previous generation.
-Makes you more easily targeted, but strengthens defense.#StrateUnsureLocalization
+マリオン斎藤の祖父、斎藤義則が身に付けていたとされる胸甲。
+マリオンに合わせて、限りなく薄い装甲になっている
+> CONTEXT: Armors/99/description < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
-サイトウプレート・鉄
-> CONTEXT: Armors/99/name
-Saito Plate (Iron)#Strate
+聖騎士の胸甲
+> CONTEXT: Armors/99/name < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
-サイトウプレート・銀
-> CONTEXT: Armors/100/name
-Saito Plate (Silver)#Strate
+\\C[11][マリオン専用]\\C[0]先代の愛用していた全身を覆う銀の鎧。
+抵：＋８０％　ダウンしても３０％の確率で即復活できる
+> CONTEXT: Armors/100/description < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
-先代の愛用していた全身を覆う銀の鎧。
+聖騎士の銀胸甲
+> CONTEXT: Armors/100/name < UNTRANSLATED
 
+> END STRING
+
+> BEGIN STRING
+マリオンの世界に自生している赤リンゴ
+\\C[5]マリオンの回復スキルの対象が味方全体になる。
 > CONTEXT: Armors/101/description
-> CONTEXT: Armors/102/description
-Full-body silver armor used by the previous generation.#Strate
-> END STRING
 
-> BEGIN STRING
-緑リンゴ
-> CONTEXT: Armors/101/name
-Green Apple#Strate
 > END STRING
 
 > BEGIN STRING
 赤リンゴ
+> CONTEXT: Armors/101/name
+> CONTEXT: Skills/728/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+マリオンの世界に自生している緑リンゴ
+\\C[5]マリオンの武器の攻撃力が３０％増加する。
+> CONTEXT: Armors/102/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+緑リンゴ
 > CONTEXT: Armors/102/name
-> CONTEXT: Skills/894/name
-Red Apple#Strate
+> CONTEXT: Skills/724/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[11][マリオン専用]\\C[0]先代の愛用していた全身を覆う金の鎧。
+抵：＋１５０％　必殺技に必要な武器切り替えが２回になる。
+> CONTEXT: Armors/103/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+聖騎士の金胸甲
+> CONTEXT: Armors/103/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[2]【共闘者用】\\C[0]かつての洋館の主だったナード男爵の騎士鎧。
+抵：＋３０％　ターン終了時、味方全体の体力を８００回復する。
+> CONTEXT: Armors/104/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナード男爵の胸鎧
+> CONTEXT: Armors/104/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[2]【共闘者用】\\C[0]戦闘用に改良された鋼鉄の鎧。
+抵：＋２５％
+> CONTEXT: Armors/105/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アサルトメイル
+> CONTEXT: Armors/105/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+マリオンの世界に自生している兎リンゴ
+毎ターン\\C[5]ルカのＳＰを＋１、\\N[1]の気力を１００回復する。
+> CONTEXT: Armors/106/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+兎リンゴ
+> CONTEXT: Armors/106/name < UNTRANSLATED
+> CONTEXT: Skills/722/name < UNTRANSLATED
+> CONTEXT: States/251/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[2]【共闘者用】\\C[0]魔素を含んだ魔法の鎧。
+抵：＋５０％
+> CONTEXT: Armors/107/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+グランドメイル
+> CONTEXT: Armors/107/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[2]【共闘者用】\\C[0]グランドメイルの最高級品。
+抵：＋８０％
+> CONTEXT: Armors/108/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ワイズマン
+> CONTEXT: Armors/108/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[2]【共闘者用】\\C[0]凶暴な魔獣の魂が封じられている。
+攻撃力＋２００
+> CONTEXT: Armors/109/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+猛攻のイヤリング
+> CONTEXT: Armors/109/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[2]【共闘者用】\\C[0]穏やかな性格の水獣の涙から生成された
+抵抗＋１５％
+> CONTEXT: Armors/110/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+癒やしのイヤリング
+> CONTEXT: Armors/110/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[2]【共闘者用】\\C[0]太古の岩龍の鱗より作られた。
+全てのダメージ軽減＋１０％
+> CONTEXT: Armors/111/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+強固のイヤリング
+> CONTEXT: Armors/111/name < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -1098,7 +1249,7 @@ Platinum Box[Harpy Queen]#Triketos
 バグベアに襲われるが、どうも相手には敵意は無いようだ…
 > CONTEXT: Armors/215/description
 Upon sleeping, Bugbear will come and attack you.
-Though apparently she won't be hostile.#RonIffy
+Though apparently she won't be hostile...#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -1111,4 +1262,38 @@ Platinum Box[Bugbear]#Ron
 白金の箱【アナオン】
 > CONTEXT: Armors/216/name
 Platinum Box[Anaon]#Triketos
+> END STRING
+
+> BEGIN STRING
+これを装備してベッドで眠ると、箱の閉鎖空間に引き込まれる。
+該当の悪魔と会うことができる
+> CONTEXT: Armors/218/description < UNTRANSLATED
+> CONTEXT: Armors/219/description < UNTRANSLATED
+> CONTEXT: Armors/220/description < UNTRANSLATED
+> CONTEXT: Armors/221/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+白金の箱【ハイスラッグ娘】
+> CONTEXT: Armors/218/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+白金の箱【キメラビースト】
+> CONTEXT: Armors/219/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+白金の箱【ブラックドッグ】
+> CONTEXT: Armors/220/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+白金の箱【ヴァシリカ】
+> CONTEXT: Armors/221/name < UNTRANSLATED
+
 > END STRING
