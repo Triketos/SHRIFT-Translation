@@ -616,19 +616,130 @@ Worn Sword (Small)#Ron
 > END STRING
 
 > BEGIN STRING
+\\C[11][ルカ専用]\\C[0]ルカの体格や戦法に合わせてカスタムされた剣
+> CONTEXT: Weapons/120/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
 カスタムソード
 > CONTEXT: Weapons/120/name
 Custom Sword#Strate
 > END STRING
 
 > BEGIN STRING
-様々な銃に変化する
-> CONTEXT: Weapons/121/description
-Transforms into various guns.#Strate
+マリオンが大天使中村に授けられた無限の天使武器
+その形状は、マリオンの意思を反映して変化する。
+> CONTEXT: Weapons/121/description < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
-エンジェルバレット
-> CONTEXT: Weapons/121/name
-Angel Bullet#Strate
+セラフィムポーチ
+> CONTEXT: Weapons/121/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[11][ルカ専用]\\C[0]人間の身長ほどもあり、扱うものが限られる巨剣
+\\C[6]防御でダメージが10％になるが、回避不可
+> CONTEXT: Weapons/122/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+バスタードソード
+> CONTEXT: Weapons/122/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[11][ルカ専用]\\C[0]希少金属ミスリルで造られた特注の剣
+\\C[6]自ターン開始時、ＨＰが２０％回復
+> CONTEXT: Weapons/123/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ミスリルソード
+> CONTEXT: Weapons/123/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[11][ルカ専用]\\C[0]ゴルド地方の伝説に残る騎士が所持していたという剣
+\\C[6]全ての属性の被ダメージが少し減少
+> CONTEXT: Weapons/124/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アロンダイト
+> CONTEXT: Weapons/124/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[11][ルカ専用]\\C[0]古代文明の遺産「虹」で造られた美しい剣
+\\C[6]ターン終了時のＳＰ回復量＋１
+> CONTEXT: Weapons/125/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+プリズムソード
+> CONTEXT: Weapons/125/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[11][ルカ専用]\\C[0]プリズムソードに魔力を宿したカスタム剣
+\\C[6]ターン終了時のＳＰ回復量＋１
+> CONTEXT: Weapons/126/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+プリズムクラッド
+> CONTEXT: Weapons/126/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[11][ルカ専用]\\C[0]戦う料理人が用いたとされる包丁の稀少品
+\\C[6]会心率＋30％
+> CONTEXT: Weapons/127/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+鬼神包丁
+> CONTEXT: Weapons/127/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[11][ルカ専用]\\C[0]魔導の力を高めたウィザードロッドの特注品
+\\C[6]精霊召喚の持続ターン増加＆アリスのサポートスキルの威力上昇
+> CONTEXT: Weapons/128/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+グランウィザード
+> CONTEXT: Weapons/128/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[11][ルカ専用]\\C[0]卓越した硬度を誇る竜の鱗で造られたレイピア
+\\C[6]通常攻撃が２回攻撃になる
+> CONTEXT: Weapons/129/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+竜鱗のレイピア
+> CONTEXT: Weapons/129/name < UNTRANSLATED
+
 > END STRING

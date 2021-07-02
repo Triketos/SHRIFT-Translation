@@ -26,7 +26,7 @@ WOOF!! WOOF!!#Ron
 
 > BEGIN STRING
 バーゲストは逃げだそうとしている………
-> CONTEXT: Troops/1/pages/2/22/Dialogue
+> CONTEXT: Troops/1/pages/2/26/Dialogue
 > CONTEXT: Troops/2/pages/3/9/Dialogue
 > CONTEXT: Troops/8/pages/2/18/Dialogue
 > CONTEXT: Troops/8/pages/3/66/Dialogue
@@ -55,12 +55,12 @@ The Barghest is trying to escape...#Ron
 
 > BEGIN STRING
 見逃す
-> CONTEXT: Troops/1/pages/2/24/Choice/0
+> CONTEXT: Troops/1/pages/2/28/Choice/0
 > CONTEXT: Troops/2/pages/3/23/Choice/0
 > CONTEXT: Troops/8/pages/2/20/Choice/0
 > CONTEXT: Troops/8/pages/3/35/Choice/1
 > CONTEXT: Troops/8/pages/3/68/Choice/0
-> CONTEXT: Troops/20/pages/2/27/Choice/0
+> CONTEXT: Troops/20/pages/2/31/Choice/0
 > CONTEXT: Troops/21/pages/2/23/Choice/1
 > CONTEXT: Troops/25/pages/2/23/Choice/0
 > CONTEXT: Troops/27/pages/2/23/Choice/0
@@ -71,12 +71,12 @@ The Barghest is trying to escape...#Ron
 > CONTEXT: Troops/36/pages/2/15/Choice/1
 > CONTEXT: Troops/43/pages/2/15/Choice/1
 > CONTEXT: Troops/44/pages/2/15/Choice/1
-> CONTEXT: Troops/45/pages/2/21/Choice/0
+> CONTEXT: Troops/45/pages/2/25/Choice/0
 > CONTEXT: Troops/46/pages/2/15/Choice/1
 > CONTEXT: Troops/47/pages/2/21/Choice/0
 > CONTEXT: Troops/52/pages/2/25/Choice/0
-> CONTEXT: Troops/60/pages/2/26/Choice/0
-> CONTEXT: Troops/80/pages/2/24/Choice/0
+> CONTEXT: Troops/60/pages/2/30/Choice/0
+> CONTEXT: Troops/80/pages/2/28/Choice/0
 > CONTEXT: Troops/86/pages/2/23/Choice/0
 > CONTEXT: Troops/90/pages/2/20/Choice/0
 > CONTEXT: Troops/91/pages/2/20/Choice/0
@@ -95,7 +95,7 @@ The Barghest is trying to escape...#Ron
 > CONTEXT: Troops/142/pages/2/18/Choice/0
 > CONTEXT: Troops/145/pages/2/8/Choice/0
 > CONTEXT: Troops/150/pages/3/25/Choice/0
-> CONTEXT: Troops/160/pages/2/24/Choice/0
+> CONTEXT: Troops/160/pages/2/28/Choice/0
 > CONTEXT: Troops/161/pages/2/21/Choice/0
 > CONTEXT: Troops/162/pages/2/20/Choice/0
 > CONTEXT: Troops/163/pages/2/25/Choice/0
@@ -115,7 +115,7 @@ The Barghest is trying to escape...#Ron
 > CONTEXT: Troops/212/pages/2/40/Choice/0
 > CONTEXT: Troops/214/pages/2/20/Choice/0
 > CONTEXT: Troops/221/pages/2/20/Choice/0
-> CONTEXT: Troops/230/pages/2/26/Choice/0
+> CONTEXT: Troops/230/pages/2/30/Choice/0
 > CONTEXT: Troops/231/pages/2/27/Choice/0
 > CONTEXT: Troops/232/pages/2/24/Choice/0
 > CONTEXT: Troops/233/pages/2/48/Choice/0
@@ -151,13 +151,32 @@ The Barghest is trying to escape...#Ron
 > CONTEXT: Troops/338/pages/2/36/Choice/0
 > CONTEXT: Troops/339/pages/2/36/Choice/0
 > CONTEXT: Troops/340/pages/2/36/Choice/0
+> CONTEXT: Troops/360/pages/3/9/Choice/0
+> CONTEXT: Troops/361/pages/3/9/Choice/0
+> CONTEXT: Troops/368/pages/2/26/Choice/0
+> CONTEXT: Troops/375/pages/2/26/Choice/0
+> CONTEXT: Troops/380/pages/3/10/Choice/0
+> CONTEXT: Troops/380/pages/4/10/Choice/0
+> CONTEXT: Troops/381/pages/3/10/Choice/0
+> CONTEXT: Troops/383/pages/3/9/Choice/0
+> CONTEXT: Troops/386/pages/3/9/Choice/0
+> CONTEXT: Troops/389/pages/3/8/Choice/0
+> CONTEXT: Troops/400/pages/2/26/Choice/0
+> CONTEXT: Troops/401/pages/2/26/Choice/0
+> CONTEXT: Troops/402/pages/2/26/Choice/0
+> CONTEXT: Troops/403/pages/2/26/Choice/0
+> CONTEXT: Troops/404/pages/2/26/Choice/0
+> CONTEXT: Troops/405/pages/2/26/Choice/0
+> CONTEXT: Troops/406/pages/2/26/Choice/0
+> CONTEXT: Troops/407/pages/2/26/Choice/0
+> CONTEXT: Troops/408/pages/2/26/Choice/0
 Let her go#Dargoth
 > END STRING
 
 > BEGIN STRING
 戦闘に勝利したことにより
 \\C[2]バーゲストに対しての気丈な精神を少し取り戻した…
-> CONTEXT: Troops/1/pages/2/57/Dialogue
+> CONTEXT: Troops/1/pages/2/61/Dialogue
 > CONTEXT: Troops/2/pages/3/45/Dialogue
 > CONTEXT: Troops/8/pages/2/53/Dialogue
 > CONTEXT: Troops/8/pages/3/101/Dialogue
@@ -1982,7 +2001,7 @@ Crap...!! I've gotta get outta here...!!#Ron
 
 > BEGIN STRING
 ランパスは逃げだそうとしている………
-> CONTEXT: Troops/20/pages/2/25/Dialogue
+> CONTEXT: Troops/20/pages/2/29/Dialogue
 > CONTEXT: Troops/21/pages/2/21/Dialogue
 > CONTEXT: Troops/27/pages/2/21/Dialogue
 > CONTEXT: Troops/34/pages/2/13/Dialogue
@@ -2001,7 +2020,7 @@ Lampas is about to get away......#Triketos
 
 > BEGIN STRING
 ぐうっ………！！
-> CONTEXT: Troops/20/pages/2/44/Dialogue/enemy
+> CONTEXT: Troops/20/pages/2/48/Dialogue/enemy
 > CONTEXT: Troops/21/pages/2/26/Dialogue/enemy
 > CONTEXT: Troops/25/pages/2/67/Dialogue/enemy
 > CONTEXT: Troops/27/pages/2/40/Dialogue/enemy
@@ -2638,7 +2657,7 @@ What..!? Hey!! Empuse!?#Ron
 
 > BEGIN STRING
 エンプーサは床に倒れこみ、動きそうにない……
-> CONTEXT: Troops/45/pages/2/19/Dialogue
+> CONTEXT: Troops/45/pages/2/23/Dialogue
 Empuse has fallen to the floor and is not moving...#Ron
 > END STRING
 
@@ -2646,7 +2665,7 @@ Empuse has fallen to the floor and is not moving...#Ron
 な、なによ……！
 
 トドメを刺さないの……！？
-> CONTEXT: Troops/45/pages/2/24/Dialogue/enemy3
+> CONTEXT: Troops/45/pages/2/28/Dialogue/enemy3
 > CONTEXT: Troops/47/pages/2/24/Dialogue/enemy3
 > CONTEXT: Troops/52/pages/2/28/Dialogue/enemy3
 What are you doing...!
@@ -2658,7 +2677,7 @@ Aren't you going to finish her off...!?#Ron
 …………………もう決着は着いただろう。
 
  僕がこの子を攻撃する理由は、もうない。
-> CONTEXT: Troops/45/pages/2/28/Dialogue/kazuya
+> CONTEXT: Troops/45/pages/2/32/Dialogue/kazuya
 > CONTEXT: Troops/47/pages/2/28/Dialogue/kazuya
 > CONTEXT: Troops/52/pages/2/32/Dialogue/kazuya
 ... It's already over. There's no need to hurt her
@@ -2669,7 +2688,7 @@ like that.#Ron
 へっ、『この子』だって…
 
 やっぱり甘いんだねぇ、\\N[1]くんは♪
-> CONTEXT: Troops/45/pages/2/33/Dialogue/enemy2
+> CONTEXT: Troops/45/pages/2/37/Dialogue/enemy2
 > CONTEXT: Troops/47/pages/2/33/Dialogue/enemy2
 > CONTEXT: Troops/52/pages/2/37/Dialogue/enemy2
 Heh, "hurt her"?
@@ -2681,7 +2700,7 @@ You're a big softie aren't you, \\N[1]-kun? ♪#Ron
 でもさぁ、それが命取りだよねー♡
 
 やっちゃえ！エンプちゃん！！
-> CONTEXT: Troops/45/pages/2/37/Dialogue/enemy2
+> CONTEXT: Troops/45/pages/2/41/Dialogue/enemy2
 > CONTEXT: Troops/47/pages/2/37/Dialogue/enemy2
 > CONTEXT: Troops/52/pages/2/41/Dialogue/enemy2
 Buuuut, you've just made a fatal mistake~ ♡
@@ -2691,7 +2710,7 @@ Get him, Empuse-chan!!#Ron
 > BEGIN STRING
 
 エンプーサが、ヘカーテの号令と共に立ち上がった！！
-> CONTEXT: Troops/45/pages/2/44/Dialogue
+> CONTEXT: Troops/45/pages/2/48/Dialogue
 > CONTEXT: Troops/47/pages/2/44/Dialogue
 > CONTEXT: Troops/52/pages/2/48/Dialogue
 Following Hecate's command, Empuse has gotten
@@ -2701,7 +2720,7 @@ back up!!#Ron
 > BEGIN STRING
 
 エンプーサは、\\N[1]を見つめたまま動かない……
-> CONTEXT: Troops/45/pages/2/52/Dialogue
+> CONTEXT: Troops/45/pages/2/56/Dialogue
 > CONTEXT: Troops/47/pages/2/52/Dialogue
 > CONTEXT: Troops/52/pages/2/56/Dialogue
 Empuse just stands there, staring at \\N[1]...#Ron
@@ -2711,7 +2730,7 @@ Empuse just stands there, staring at \\N[1]...#Ron
 な、何してるのよエンプーサ！！
 
 その距離なら始末できるでしょ！？早くしなさいよ！
-> CONTEXT: Troops/45/pages/2/55/Dialogue/enemy3
+> CONTEXT: Troops/45/pages/2/59/Dialogue/enemy3
 > CONTEXT: Troops/47/pages/2/55/Dialogue/enemy3
 > CONTEXT: Troops/52/pages/2/59/Dialogue/enemy3
 W-What are you doing, Empuse?!
@@ -2722,7 +2741,7 @@ Hurry up and do it!#Ron
 > BEGIN STRING
 
 エンプーサは、そのままスウッと消えてしまった……
-> CONTEXT: Troops/45/pages/2/67/Dialogue
+> CONTEXT: Troops/45/pages/2/71/Dialogue
 > CONTEXT: Troops/47/pages/2/66/Dialogue
 > CONTEXT: Troops/52/pages/2/70/Dialogue
 Just like that, Empuse quickly disappeared...#Ron
@@ -2732,7 +2751,7 @@ Just like that, Empuse quickly disappeared...#Ron
 \\{逃げんじゃねぇよ！クソが！！
 
 この役立たずが！二度と帰ってくんな！！
-> CONTEXT: Troops/45/pages/2/70/Dialogue/enemy3
+> CONTEXT: Troops/45/pages/2/74/Dialogue/enemy3
 > CONTEXT: Troops/47/pages/2/69/Dialogue/enemy3
 > CONTEXT: Troops/52/pages/2/73/Dialogue/enemy3
 \\{Don't run away! Fucking hell you're
@@ -2742,7 +2761,7 @@ useless...! Don't you ever come back!#Ron
 > BEGIN STRING
 戦闘に勝利したことにより
 \\C[2]エンプーサに対しての気丈な精神を少し取り戻した…
-> CONTEXT: Troops/45/pages/2/92/Dialogue
+> CONTEXT: Troops/45/pages/2/96/Dialogue
 > CONTEXT: Troops/52/pages/2/95/Dialogue
 By winning this battle against Empuse, \\C[2]I've
 reduced some of her corruption a little...#Ron
@@ -3081,7 +3100,7 @@ Don't be violent...#Ron
 
 > BEGIN STRING
 マザーラビットは逃げだそうとしている………
-> CONTEXT: Troops/60/pages/2/24/Dialogue
+> CONTEXT: Troops/60/pages/2/28/Dialogue
 > CONTEXT: Troops/100/pages/2/20/Dialogue
 > CONTEXT: Troops/101/pages/2/20/Dialogue
 Mother Rabbit is trying to flee...#Ron
@@ -3089,7 +3108,7 @@ Mother Rabbit is trying to flee...#Ron
 
 > BEGIN STRING
 マザーラビットは銃撃でよろめきながら立ち去った……
-> CONTEXT: Troops/60/pages/2/46/Dialogue
+> CONTEXT: Troops/60/pages/2/50/Dialogue
 > CONTEXT: Troops/100/pages/2/42/Dialogue
 > CONTEXT: Troops/101/pages/2/42/Dialogue
 Mother Rabbit left, staggering from the gunshot...#Ron
@@ -3098,7 +3117,7 @@ Mother Rabbit left, staggering from the gunshot...#Ron
 > BEGIN STRING
 戦闘に勝利したことにより
 \\C[2]マザーラビットに対しての気丈な精神を少し取り戻した…
-> CONTEXT: Troops/60/pages/2/56/Dialogue
+> CONTEXT: Troops/60/pages/2/60/Dialogue
 > CONTEXT: Troops/100/pages/2/57/Dialogue
 > CONTEXT: Troops/101/pages/2/57/Dialogue
 By winning the battle. \\C[2]I have reduced some of Mother
@@ -3968,7 +3987,7 @@ Get out of my way you fucking small fry!!#Ron
 
 > BEGIN STRING
 躯は逃げだそうとしている………
-> CONTEXT: Troops/80/pages/2/22/Dialogue
+> CONTEXT: Troops/80/pages/2/26/Dialogue
 > CONTEXT: Troops/106/pages/2/18/Dialogue
 > CONTEXT: Troops/107/pages/2/18/Dialogue
 > CONTEXT: Troops/108/pages/2/18/Dialogue
@@ -3980,7 +3999,7 @@ Mukuro is about to run away......#Triketos
 躯の姿が消えた…
 
 床に弾痕が残っている……
-> CONTEXT: Troops/80/pages/2/48/Dialogue
+> CONTEXT: Troops/80/pages/2/52/Dialogue
 > CONTEXT: Troops/106/pages/2/49/Dialogue
 > CONTEXT: Troops/107/pages/2/49/Dialogue
 > CONTEXT: Troops/108/pages/2/49/Dialogue
@@ -3992,7 +4011,7 @@ in the ground...#Ron
 > BEGIN STRING
 戦闘に勝利したことにより
 \\C[2]躯に対しての気丈な精神を少し取り戻した…
-> CONTEXT: Troops/80/pages/2/56/Dialogue
+> CONTEXT: Troops/80/pages/2/60/Dialogue
 > CONTEXT: Troops/82/pages/2/40/Dialogue
 > CONTEXT: Troops/84/pages/2/14/Dialogue
 > CONTEXT: Troops/106/pages/2/57/Dialogue
@@ -6915,12 +6934,23 @@ of Sphinx's corruption...#Ron
 > CONTEXT: Troops/205/pages/2/6/Dialogue/enemy12
 > CONTEXT: Troops/214/pages/2/6/Dialogue/enemy12
 > CONTEXT: Troops/221/pages/2/6/Dialogue/enemy12
+> CONTEXT: Troops/368/pages/2/7/Dialogue/enemy12
+> CONTEXT: Troops/375/pages/2/7/Dialogue/enemy12
+> CONTEXT: Troops/400/pages/2/7/Dialogue/enemy12
+> CONTEXT: Troops/401/pages/2/7/Dialogue/enemy12
+> CONTEXT: Troops/402/pages/2/7/Dialogue/enemy12
+> CONTEXT: Troops/403/pages/2/7/Dialogue/enemy12
+> CONTEXT: Troops/404/pages/2/7/Dialogue/enemy12
+> CONTEXT: Troops/405/pages/2/7/Dialogue/enemy12
+> CONTEXT: Troops/406/pages/2/7/Dialogue/enemy12
+> CONTEXT: Troops/407/pages/2/7/Dialogue/enemy12
+> CONTEXT: Troops/408/pages/2/7/Dialogue/enemy12
 Ggh...!!#Ron
 > END STRING
 
 > BEGIN STRING
 エコーは逃げだそうとしている………
-> CONTEXT: Troops/160/pages/2/22/Dialogue
+> CONTEXT: Troops/160/pages/2/26/Dialogue
 > CONTEXT: Troops/161/pages/2/19/Dialogue
 > CONTEXT: Troops/163/pages/2/23/Dialogue
 > CONTEXT: Troops/169/pages/2/18/Dialogue
@@ -6931,12 +6961,23 @@ Ggh...!!#Ron
 > CONTEXT: Troops/205/pages/2/18/Dialogue
 > CONTEXT: Troops/214/pages/2/18/Dialogue
 > CONTEXT: Troops/221/pages/2/18/Dialogue
+> CONTEXT: Troops/368/pages/2/24/Dialogue
+> CONTEXT: Troops/375/pages/2/24/Dialogue
+> CONTEXT: Troops/400/pages/2/24/Dialogue
+> CONTEXT: Troops/401/pages/2/24/Dialogue
+> CONTEXT: Troops/402/pages/2/24/Dialogue
+> CONTEXT: Troops/403/pages/2/24/Dialogue
+> CONTEXT: Troops/404/pages/2/24/Dialogue
+> CONTEXT: Troops/405/pages/2/24/Dialogue
+> CONTEXT: Troops/406/pages/2/24/Dialogue
+> CONTEXT: Troops/407/pages/2/24/Dialogue
+> CONTEXT: Troops/408/pages/2/24/Dialogue
 Echo is about to run away...#Ron
 > END STRING
 
 > BEGIN STRING
 ガアッ！！！
-> CONTEXT: Troops/160/pages/2/43/Dialogue/enemy12
+> CONTEXT: Troops/160/pages/2/47/Dialogue/enemy12
 > CONTEXT: Troops/161/pages/2/40/Dialogue/enemy12
 > CONTEXT: Troops/163/pages/2/44/Dialogue/enemy12
 > CONTEXT: Troops/169/pages/2/39/Dialogue/enemy12
@@ -6947,6 +6988,17 @@ Echo is about to run away...#Ron
 > CONTEXT: Troops/205/pages/2/39/Dialogue/enemy12
 > CONTEXT: Troops/214/pages/2/39/Dialogue/enemy12
 > CONTEXT: Troops/221/pages/2/39/Dialogue/enemy12
+> CONTEXT: Troops/368/pages/2/45/Dialogue/enemy12
+> CONTEXT: Troops/375/pages/2/45/Dialogue/enemy12
+> CONTEXT: Troops/400/pages/2/45/Dialogue/enemy12
+> CONTEXT: Troops/401/pages/2/45/Dialogue/enemy12
+> CONTEXT: Troops/402/pages/2/45/Dialogue/enemy12
+> CONTEXT: Troops/403/pages/2/45/Dialogue/enemy12
+> CONTEXT: Troops/404/pages/2/45/Dialogue/enemy12
+> CONTEXT: Troops/405/pages/2/45/Dialogue/enemy12
+> CONTEXT: Troops/406/pages/2/45/Dialogue/enemy12
+> CONTEXT: Troops/407/pages/2/45/Dialogue/enemy12
+> CONTEXT: Troops/408/pages/2/45/Dialogue/enemy12
 Gaa!!!#MTLed
 > END STRING
 
@@ -7628,15 +7680,6 @@ Why don't we get started...#Ron
 > END STRING
 
 > BEGIN STRING
-……………っ！？
-> CONTEXT: Troops/171/pages/1/68/Dialogue/kazuya-0
-> CONTEXT: Troops/205/pages/1/78/Dialogue/kazuya-0
-> CONTEXT: Troops/207/pages/0/36/Dialogue/kazuya-0
-> CONTEXT: Troops/214/pages/1/63/Dialogue/kazuya-0
-...?!#Ron
-> END STRING
-
-> BEGIN STRING
 \\N[1]のペニスが、
 
 ティタノボアの上下の蛇体の腹部に挟まれてしまった……！！
@@ -7948,11 +7991,10 @@ A word of warning before I use my killer move...#Ron
 
 > BEGIN STRING
 ボクの胸から出る母乳を飲んでも
-
 知識は戻らないからね？
+
 毎回そんなに必死に吸わなくても大丈夫だよ？
 > CONTEXT: Troops/178/pages/0/17/Dialogue/enemy11
-> CONTEXT: Troops/179/pages/0/18/Dialogue/enemy11
 Even if you drink the milk from my breasts, your
 knowledge won't come back. So you don't have to
 suck on 'em so desperately, okay?#Ron
@@ -7976,6 +8018,17 @@ Well then, prepare for a hell of a milking... ♡#Ron
 スフィ【全書】絆
 > CONTEXT: Troops/179/name
 Sphinx 【Whole book】 bonded#MTLed
+> END STRING
+
+> BEGIN STRING
+ボクの胸から出る母乳を飲んでも
+
+知識は戻らないからね？
+毎回そんなに必死に吸わなくても大丈夫だよ？
+> CONTEXT: Troops/179/pages/0/18/Dialogue/enemy11
+Even if you drink the milk from my breasts, your
+knowledge won't come back. So you don't have to
+suck on 'em so desperately, okay?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -8702,7 +8755,7 @@ Why you hate me?!#afrg
 
 > BEGIN STRING
 カマソッソは逃げだそうとしている………
-> CONTEXT: Troops/230/pages/2/24/Dialogue
+> CONTEXT: Troops/230/pages/2/28/Dialogue
 > CONTEXT: Troops/233/pages/2/46/Dialogue
 > CONTEXT: Troops/243/pages/5/45/Dialogue
 > CONTEXT: Troops/260/pages/2/20/Dialogue
@@ -8721,7 +8774,7 @@ Camazotz is trying to escape...#afrg
 
 > BEGIN STRING
 ギャッ！！！
-> CONTEXT: Troops/230/pages/2/43/Dialogue/enemy16
+> CONTEXT: Troops/230/pages/2/47/Dialogue/enemy16
 > CONTEXT: Troops/232/pages/2/42/Dialogue/enemy16
 > CONTEXT: Troops/233/pages/2/65/Dialogue/enemy16
 > CONTEXT: Troops/243/pages/5/76/Dialogue/enemy16
@@ -8742,7 +8795,7 @@ Gaah!!!#afrg
 > BEGIN STRING
 戦闘に勝利したことにより
 \\C[2]カマソッソに対しての気丈な精神を少し取り戻した…
-> CONTEXT: Troops/230/pages/2/54/Dialogue
+> CONTEXT: Troops/230/pages/2/58/Dialogue
 > CONTEXT: Troops/231/pages/2/60/Dialogue
 > CONTEXT: Troops/232/pages/2/59/Dialogue
 > CONTEXT: Troops/233/pages/2/89/Dialogue
@@ -9927,6 +9980,7 @@ I'll definitely... come save you...!!!#Ron
 > BEGIN STRING
 サマエル（リニア）
 > CONTEXT: Troops/252/name
+> CONTEXT: Troops/371/name
 Samael (Linear)#MTLed
 > END STRING
 
@@ -14434,8 +14488,8 @@ Mormo[Book] Bond#Triketos
 
 > BEGIN STRING
 ヘカーテ【敗北】騎乗位？
-> CONTEXT: Troops/320/name < UNTRANSLATED
-Hecate [Defeat] Cowgirl?
+> CONTEXT: Troops/320/name
+Hecate [Defeat] Cowgirl? #Triketos
 > END STRING
 
 > BEGIN STRING
@@ -16847,4 +16901,1847 @@ Let's run away for now and think of a plan!
 
 She shouldn't be able to do anything else as long
 as her objective is to violate you.#Ron
+> END STRING
+
+> BEGIN STRING
+ハイスラッグ【初戦】
+> CONTEXT: Troops/350/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ハイスラッグ娘が現れた！
+> CONTEXT: Troops/350/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/365/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/366/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/367/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/410/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ハイスラッグ娘は禍々しいオーラを放ち始めた…… 
+> CONTEXT: Troops/350/pages/1/18/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/351/pages/1/16/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/385/pages/3/4/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/385/pages/4/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[1]、気を付けろ！ 
+
+またさっきの攻撃が来るぞ！！ 
+> CONTEXT: Troops/350/pages/1/20/Dialogue/other1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あの速さじゃ、いくらお前の身体能力でも 
+見てから回避を始めてたら間に合わない！ 
+
+\\c[2]攻撃を捨てて、回避に集中しろ！ 
+> CONTEXT: Troops/350/pages/1/24/Dialogue/other1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あら……守りに入るつもりなの？ 
+
+あの子達からは、強いオスだと聞いていたのに 
+思いの外、弱腰なのね？ 
+> CONTEXT: Troops/350/pages/1/29/Dialogue/highslag_fc1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ふふふ………いいのよ？ 
+貴方の好きなように攻め立ててくれても…♡ 
+
+貴方の男らしさ、私に見せてちょうだい♡ 
+> CONTEXT: Troops/350/pages/1/34/Dialogue/highslag_fc1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+分かりやすい挑発だ…… 
+
+明らかに今、\\c[2]回避以外の行動をとるのは危険すぎる 
+> CONTEXT: Troops/350/pages/1/41/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+回避をしつつ、彼女の背後に回り込んで…… 
+
+彼女のレイピアの死角を見つければ、 
+攻撃のチャンスが生まれるはずだ…！ 
+> CONTEXT: Troops/350/pages/1/45/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ハイスラッグ【２戦目】
+> CONTEXT: Troops/351/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[1]くん、\\N[1]くん。
+
+夜深ちゃんが来たことで
+\\C[2]『サポートスキル』が使えるようになったよ
+> CONTEXT: Troops/351/pages/1/18/Dialogue/sirousagi_fc1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さ、\\C[2]『サポートスキル』\\C[0]…？？
+> CONTEXT: Troops/351/pages/1/23/Dialogue/kazuya < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[2]自分の行動とは別に、
+
+サポートに回ったキャラに有利な行動をしてもらう機能さ。
+> CONTEXT: Troops/351/pages/1/25/Dialogue/sirousagi_fc1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[2]サポートスキルは、自分の気力を消費しないし
+自分の行動数も消費しないから
+
+毎ターンの最初に、選んでおいて損はないと思うよ
+> CONTEXT: Troops/351/pages/1/29/Dialogue/sirousagi_fc1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+まぁ詳しいことは、百聞は一見にしかず！
+
+まずは試してみなよ。
+> CONTEXT: Troops/351/pages/1/34/Dialogue/sirousagi_fc1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なっ…！？
+私の突きを、全て抜刀で…！？
+
+貴女は一体…！！
+> CONTEXT: Troops/351/pages/2/5/Dialogue/highslag_fc1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そりゃそうだよ。
+
+\\C[2]歴代の悪九尾のひとり『黒狐』を倒した子だもん。
+その抜刀術は伊達じゃない。
+> CONTEXT: Troops/351/pages/2/10/Dialogue/sirousagi_fc1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いくらキミが『世界融解』の力で能力を上げていたとしても
+彼女のカウンターを破るのは無理だよ。
+
+信じられないなら、もうちょっと試してみるかい？
+> CONTEXT: Troops/351/pages/2/15/Dialogue/sirousagi_fc1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+い、いや……
+
+やってるのはお前じゃないだろ…
+> CONTEXT: Troops/351/pages/2/20/Dialogue/kazuya < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+けど\\N[1]、実際にこれはチャンスだ！
+
+\\C[2]これでお前が攻撃できるチャンスが出来たぞ！
+> CONTEXT: Troops/351/pages/2/24/Dialogue/other1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[2]『サポートスキル』で攻撃のカウンターを任せて
+
+その間にお前は攻撃するんだ！
+> CONTEXT: Troops/351/pages/2/28/Dialogue/other1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ブラド（ラッシュ）
+> CONTEXT: Troops/353/name < UNTRANSLATED
+> CONTEXT: Troops/384/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+？？？「死剣・乱れ星！！」
+> CONTEXT: Troops/353/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[1]くん、白兎ちゃんのこれって……
+
+ひょっとして、カウントダウンなんじゃないかな…！？
+> CONTEXT: Troops/353/pages/0/73/Dialogue/enemy30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ああ！？そうなのか！！
+
+急に機械みたいな声になって無反応になるから
+なんか壊れたのかと思った！！！！
+> CONTEXT: Troops/353/pages/0/77/Dialogue/kazuya < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+私も確証はないけど……
+
+\\C[2]彼女のカウントダウンが終わるまで耐えてみようよ！
+何かチャンスが生まれるかも！
+> CONTEXT: Troops/353/pages/0/82/Dialogue/enemy30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+すっごく不安だけど……やってみるか…！
+
+どのみち、このままじゃやられる…！
+> CONTEXT: Troops/353/pages/0/87/Dialogue/kazuya < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+周囲のブラックドッグを夜深が請け負ってくれているが……
+
+正面から迫ってくるブラックドッグの数も尋常ではない…
+\\C[2]とても人間一人で対処できる数じゃない…！
+> CONTEXT: Troops/353/pages/0/96/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ハイスラッグ娘の時は、攻撃タイミングが無かったが……
+
+ブラックドッグは数の暴力で、攻撃の暇がない……
+\\C[2]無理して攻撃すれば、みるみるうちに取り囲まれてしまうだろう
+> CONTEXT: Troops/353/pages/0/101/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[1]くん、大丈夫！？
+> CONTEXT: Troops/353/pages/0/106/Dialogue/enemy30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ああ、なんとか……
+
+でも数が多すぎる……！
+このままじゃ……！
+> CONTEXT: Troops/353/pages/0/108/Dialogue/kazuya < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ばばーん！！！
+> CONTEXT: Troops/353/pages/0/118/Dialogue/sirousagi_fc1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\{うわっ！！！！！びっくりした！！！！！！
+
+\\}だからお前毎回どっから出てきてるんだ！！！
+> CONTEXT: Troops/353/pages/0/120/Dialogue/kazuya < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あれー？もしかしてギリギリ間に合わなかったっぽい？
+
+いやまぁ、\\N[1]くんが無事なら
+実質間に合ったようなものでしょ。
+> CONTEXT: Troops/353/pages/0/124/Dialogue/sirousagi_fc1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お待たせ、『仕込み』が終わったよ。
+
+あとは、向こうからの反応を待つだけ……
+> CONTEXT: Troops/353/pages/0/129/Dialogue/sirousagi_fc1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ただ、どうだろうなぁ
+
+ちょっと開けた『窓』が小さすぎたかな……
+気付いてくれるかなぁ…
+> CONTEXT: Troops/353/pages/0/133/Dialogue/sirousagi_fc1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ま、『窓』…？
+
+一体何のことだ……！
+> CONTEXT: Troops/353/pages/0/138/Dialogue/kazuya < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+え！？
+な、何！？怖！！！！
+
+急にどうしたんだよ！！！
+> CONTEXT: Troops/353/pages/0/155/Dialogue/kazuya < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[1]くん、危ない！！
+
+ブラックドッグから注意をそらさないで！
+\\C[2]次の攻撃が来るよ！！！
+> CONTEXT: Troops/353/pages/0/160/Dialogue/enemy30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いや、怖！！！なになになに！！！
+
+え！？これもしかして僕のせい！？
+> CONTEXT: Troops/353/pages/0/165/Dialogue/kazuya < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"odi/RUSH枠"
+> CONTEXT: Troops/353/pages/1/15/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Troops/354/pages/1/17/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Troops/362/pages/1/18/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Troops/384/pages/1/20/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Troops/387/pages/1/20/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Troops/390/pages/1/20/InlineScript/2:10 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+　　　　　　　　\\C[2]【ラッシュ戦闘】について
+> CONTEXT: Troops/353/pages/1/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ラッシュ戦闘は、１度に多くの敵を相手にする特殊な戦闘です 
+
+この戦闘での勝利条件は、\\C[2]敵を攻撃して 
+画面上部にある「ラッシュゲージ」を０にすることです 
+> CONTEXT: Troops/353/pages/1/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[2]敵にダメージを与えると、与えたダメージ量に応じて 
+ラッシュゲージが減少していきます \\C[0]
+
+攻撃回数やクリティカルの有無は関係ありません。 
+> CONTEXT: Troops/353/pages/1/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+この戦闘では、\\c[2]相手は、拘束技を使用してきません\\C[0]が 
+
+「疲労」「衰弱」など、\\C[2]こちらが何かしらのバットステートになると 
+ターン終了時にラッシュゲージが増加していきます 
+> CONTEXT: Troops/353/pages/1/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[10]ラッシュゲージが満タンになってしまったらこちらの敗北です。 
+
+\\C[0]ラッシュゲージの増加は、ターン終了後に開始されるので 
+ターン終了前までにゲージが０になれば、無条件で勝利となります。 
+> CONTEXT: Troops/353/pages/1/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ただし、性欲ゲージが１００になれば通常通り朦朧状態の危険があるので 
+
+各種ゲージには注意して戦ってください。 
+> CONTEXT: Troops/353/pages/1/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+説明は以上です。
+
+もう一度説明しますか？
+> CONTEXT: Troops/353/pages/1/50/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（ラッシュ）ルカチュートリアル
+> CONTEXT: Troops/354/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"odi/ブラド1"
+> CONTEXT: Troops/355/pages/0/0/InlineScript/2:10 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"odi/ブラド2"
+> CONTEXT: Troops/355/pages/0/3/InlineScript/2:10 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"odi/ブラド3"
+> CONTEXT: Troops/355/pages/0/14/InlineScript/2:10 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"odi/ブラド4"
+> CONTEXT: Troops/355/pages/0/17/InlineScript/2:10 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+キメラビースト（ルカ）
+> CONTEXT: Troops/360/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+キメラビーストが現れた！
+> CONTEXT: Troops/360/pages/1/4/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/361/pages/1/3/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/386/pages/1/6/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/412/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+行動……不能……
+> CONTEXT: Troops/360/pages/3/1/Dialogue/c_beast_fc1 < UNTRANSLATED
+> CONTEXT: Troops/380/pages/3/2/Dialogue/c_beast_fc1 < UNTRANSLATED
+> CONTEXT: Troops/380/pages/4/2/Dialogue/c_beast_fc1 < UNTRANSLATED
+> CONTEXT: Troops/381/pages/3/2/Dialogue/c_beast_fc1 < UNTRANSLATED
+> CONTEXT: Troops/386/pages/3/1/Dialogue/c_beast_fc1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+キメラビーストは跡形も無く消え去った。
+
+実体が消滅したようだ。
+> CONTEXT: Troops/360/pages/3/32/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/361/pages/3/32/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/380/pages/3/33/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/380/pages/4/33/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/381/pages/3/33/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/386/pages/3/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[1]たちは勝利した！
+> CONTEXT: Troops/360/pages/3/38/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/362/pages/3/23/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/362/pages/4/23/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/362/pages/5/23/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/362/pages/6/23/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/362/pages/7/23/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/362/pages/8/23/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/380/pages/3/39/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/380/pages/4/39/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/381/pages/3/39/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/383/pages/3/38/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/384/pages/3/21/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/384/pages/4/21/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/384/pages/5/21/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/384/pages/6/21/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/384/pages/7/21/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/384/pages/8/21/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/386/pages/3/38/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/387/pages/3/23/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/387/pages/4/23/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/387/pages/5/23/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/387/pages/6/23/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/387/pages/7/23/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/387/pages/8/23/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/389/pages/3/35/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/390/pages/3/21/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/390/pages/4/21/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/390/pages/5/21/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/390/pages/6/21/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/390/pages/7/21/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/390/pages/8/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（ルカ）イベント
+> CONTEXT: Troops/361/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（ラッシュ）ルカ
+> CONTEXT: Troops/362/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+状況不利……
+
+撤退……
+> CONTEXT: Troops/362/pages/3/8/Dialogue/c_beast_fc1 < UNTRANSLATED
+> CONTEXT: Troops/362/pages/4/8/Dialogue/c_beast_fc1 < UNTRANSLATED
+> CONTEXT: Troops/362/pages/5/8/Dialogue/c_beast_fc1 < UNTRANSLATED
+> CONTEXT: Troops/362/pages/6/8/Dialogue/c_beast_fc1 < UNTRANSLATED
+> CONTEXT: Troops/362/pages/7/8/Dialogue/c_beast_fc1 < UNTRANSLATED
+> CONTEXT: Troops/362/pages/8/8/Dialogue/c_beast_fc1 < UNTRANSLATED
+> CONTEXT: Troops/387/pages/3/8/Dialogue/c_beast_fc1 < UNTRANSLATED
+> CONTEXT: Troops/387/pages/4/8/Dialogue/c_beast_fc1 < UNTRANSLATED
+> CONTEXT: Troops/387/pages/5/8/Dialogue/c_beast_fc1 < UNTRANSLATED
+> CONTEXT: Troops/387/pages/6/8/Dialogue/c_beast_fc1 < UNTRANSLATED
+> CONTEXT: Troops/387/pages/7/8/Dialogue/c_beast_fc1 < UNTRANSLATED
+> CONTEXT: Troops/387/pages/8/8/Dialogue/c_beast_fc1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+キメラビーストたちは散り散りに退いていった……
+> CONTEXT: Troops/362/pages/3/20/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/362/pages/4/20/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/362/pages/5/20/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/362/pages/6/20/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/362/pages/7/20/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/362/pages/8/20/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/387/pages/3/20/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/387/pages/4/20/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/387/pages/5/20/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/387/pages/6/20/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/387/pages/7/20/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/387/pages/8/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アバドーン【敗北】
+> CONTEXT: Troops/364/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さぁ……いくわよ…！！
+
+アンタたちに耐えられるかしらね…！？
+> CONTEXT: Troops/364/pages/3/4/Dialogue/enemy37 < UNTRANSLATED
+> CONTEXT: Troops/388/pages/3/4/Dialogue/enemy37 < UNTRANSLATED
+> CONTEXT: Troops/393/pages/3/4/Dialogue/enemy37 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヴァシリカは禍々しい電撃を放ち始めた…… 
+
+\\C[2]とても回避できる雰囲気ではない……
+> CONTEXT: Troops/364/pages/3/8/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/364/pages/4/8/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/388/pages/3/8/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/388/pages/4/8/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/393/pages/3/8/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/393/pages/4/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+くっ……！！
+
+いい加減に、倒れなさい…！！！
+> CONTEXT: Troops/364/pages/4/4/Dialogue/enemy38 < UNTRANSLATED
+> CONTEXT: Troops/388/pages/4/4/Dialogue/enemy38 < UNTRANSLATED
+> CONTEXT: Troops/393/pages/4/4/Dialogue/enemy38 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+う、嘘……！！
+
+私が負けるはずが……！
+> CONTEXT: Troops/364/pages/5/0/Dialogue/enemy38 < UNTRANSLATED
+> CONTEXT: Troops/388/pages/5/0/Dialogue/enemy38 < UNTRANSLATED
+> CONTEXT: Troops/393/pages/5/0/Dialogue/enemy38 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+い、いや……！！
+
+\\C[10]世界融解\\C[0]の力が……消える……！？
+> CONTEXT: Troops/364/pages/5/4/Dialogue/enemy38 < UNTRANSLATED
+> CONTEXT: Troops/388/pages/5/4/Dialogue/enemy38 < UNTRANSLATED
+> CONTEXT: Troops/393/pages/5/4/Dialogue/enemy38 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ハイスラ【敗北】喰
+> CONTEXT: Troops/366/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ハイスラ【敗北】性交
+> CONTEXT: Troops/367/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ブラド【敗北】パイズリ
+> CONTEXT: Troops/368/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アバドン
+> CONTEXT: Troops/370/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+い、意識が…！！
+
+引っ張られる……！！
+> CONTEXT: Troops/370/pages/1/45/Dialogue/ruka_fc1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+２人ともこらえて！！
+
+\\C[2]サマエルの『世界を破壊する衝動』を
+キミたちが\\N[1]くんと共有して抑えてるんだ！！
+> CONTEXT: Troops/370/pages/1/49/Dialogue/enemy29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[2]キミたちのどちらの意識が欠けても、
+\\N[1]くんは自身のコントロールを失ってしまう！！
+
+本当の意味での\\C[10]全ての破壊者\\C[2]になってしまうんだ！！
+> CONTEXT: Troops/370/pages/1/54/Dialogue/enemy29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+くっ………
+思った以上に、精神を集中しないとダメだ……
+
+\\C[2]攻撃は、\\N[1]に任せるしかないか……！
+> CONTEXT: Troops/370/pages/1/59/Dialogue/ruka_fc1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なぁにがサマえルだぁぁぁぁぁ
+
+まだぐっでやるう”ううううぅぅぅ
+> CONTEXT: Troops/370/pages/3/5/Dialogue/enemy40 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ごりごりにがみぐだいでえええええ
+
+とりこんでやるう"う"う"う"う"""う"
+> CONTEXT: Troops/370/pages/3/9/Dialogue/enemy40 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+させないっ！！！！！！
+> CONTEXT: Troops/370/pages/3/14/Dialogue/enemy30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ごああああああああああああああああああああ
+> CONTEXT: Troops/370/pages/3/26/Dialogue/enemy40 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[1]くん！
+もう少しでアバドーンの懐に入り込めるよ！！
+
+がんばって！！！！！
+> CONTEXT: Troops/370/pages/3/28/Dialogue/enemy15 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+きっとキミなら、みんなを救える！！
+
+自信を持って！！！がんばって！！！
+> CONTEXT: Troops/370/pages/3/33/Dialogue/enemy15 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さぁ………
+
+私もとっておきの攻撃、いくよっ！！！
+> CONTEXT: Troops/370/pages/3/38/Dialogue/enemy30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アバドーンは大きく息を吸い込んでいる……
+
+\\C[2]何か仕掛けてくる気だ……！
+> CONTEXT: Troops/370/pages/3/57/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/370/pages/4/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+やれやれ………
+
+また\\C[2]この銃\\C[0]のお世話になる日が来るとはね……
+> CONTEXT: Troops/370/pages/3/65/Dialogue/enemy38 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[2]『メギドフレイム』\\C[0]………
+
+魔女帝リリスを倒す足がかりとなった武器……
+> CONTEXT: Troops/370/pages/3/69/Dialogue/enemy37 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ミズキ、ソレ使ウト、死ヌホドヨワル
+
+マタ、魔界洛ニオチルカ？
+> CONTEXT: Troops/370/pages/3/73/Dialogue/enemy37 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+まさか、さすがに制御するわよ。
+
+その代わり、アンタたちにも全力で働いてもらうから！！
+準備はいい、２人とも！？
+> CONTEXT: Troops/370/pages/3/77/Dialogue/enemy38 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+無論だ。
+
+我らが力、存分に振るえ！ミズキ！！
+> CONTEXT: Troops/370/pages/3/82/Dialogue/enemy37 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヤット、出番！！
+
+アオオオオオオオオンン！！！！！！！！！
+> CONTEXT: Troops/370/pages/3/86/Dialogue/enemy37 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もらった！！！！！！！！！！
+
+これでも喰らえっ！！！
+> CONTEXT: Troops/370/pages/3/96/Dialogue/enemy38 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+きさまらああああああああああああああ
+
+じゃばをずらばあああああああああああああ
+> CONTEXT: Troops/370/pages/3/111/Dialogue/enemy40 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+我のこの肉体は、飾りではないぞ。
+
+貴様の攻撃を受け止め、反撃することくらいは容易い……
+> CONTEXT: Troops/370/pages/3/123/Dialogue/enemy35 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+天使長たるこの中村の体技
+
+しかとその身に刻め！！
+> CONTEXT: Troops/370/pages/3/127/Dialogue/enemy35 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おお………\\C[2]聖騎士サイトウ…！！
+
+子孫マリオンの意志に呼応し、英霊として現れ出でたか！！
+> CONTEXT: Troops/370/pages/3/146/Dialogue/enemy35 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あああああああああああああああぁぁぁぁぁ！！！
+> CONTEXT: Troops/370/pages/3/156/Dialogue/enemy40 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+………ッ！！！
+> CONTEXT: Troops/370/pages/3/159/Dialogue/ruka_fc1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+させるか！！！！！！！！！
+
+これでも喰らえ！！！
+> CONTEXT: Troops/370/pages/3/164/Dialogue/alice_fc6 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精霊のみんな、お願いだ……！
+
+僕の代わりに、\\N[1]を……！
+> CONTEXT: Troops/370/pages/3/176/Dialogue/ruka_fc1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なっ……！？
+
+\\C[2]リニアキャノンが……効かない！？
+> CONTEXT: Troops/371/pages/0/4/Dialogue/kazuya < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ええええええーーーーっ！！？
+
+アタシのとっておきが…！！！徒労に……
+> CONTEXT: Troops/371/pages/0/8/Dialogue/hyakki < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うっ……！！！
+> CONTEXT: Troops/371/pages/0/15/Dialogue/ruka_fc1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ど、どうしたルカ！！
+
+急にうずくまって……！
+> CONTEXT: Troops/371/pages/0/35/Dialogue/alice_fc5 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+う、腕が……
+
+腕が……！！
+> CONTEXT: Troops/371/pages/0/39/Dialogue/ruka_fc1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+………！！
+
+\\C[23][法則異常値観測][予測演算不可]
+[退避推奨]\\C[0]！！！？
+> CONTEXT: Troops/371/pages/0/43/Dialogue/enemy29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+まずい！！！
+
+\\N[1]くん、ルカくんから離れて！！！
+> CONTEXT: Troops/371/pages/0/48/Dialogue/enemy29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+えっ…！？
+
+な、なに……！！
+> CONTEXT: Troops/371/pages/0/52/Dialogue/kazuya < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+うああああああああああああああああああああっ！！
+> CONTEXT: Troops/371/pages/0/56/Dialogue/ruka_fc1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+【■■■】
+――――父よ。
+> CONTEXT: Troops/371/pages/0/87/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+る、ルカ……！！？？？
+
+その姿は、一体……！！
+> CONTEXT: Troops/371/pages/0/101/Dialogue/alice_fc5 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いやいやいやいやいやいやいや……！！
+
+そりゃさすがにまずいってぇ！！！
+> CONTEXT: Troops/371/pages/0/113/Dialogue/enemy29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はあっ………！！
+
+はあっ…………！！
+> CONTEXT: Troops/371/pages/0/136/Dialogue/ruka_fc1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+な、何事も無かったかのように
+\\C[2]腕が元に戻ってる……
+
+\\C[0]なんだったの、一体………
+> CONTEXT: Troops/371/pages/0/140/Dialogue/enemy38 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+わ、分からん……
+
+余も初めて見たぞ……
+なんだあれは……！？
+> CONTEXT: Troops/371/pages/0/145/Dialogue/alice_fc5 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（な、なんで……！？
+
+　なんであれが出てくるの……！
+　そんな兆候、今まで……）
+> CONTEXT: Troops/371/pages/0/150/Dialogue/enemy29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（そうかルカくん、\\C[27]あれと繋がっちゃったのか……！
+
+　その選択だけは、しちゃいけなかったのに……）
+> CONTEXT: Troops/371/pages/0/155/Dialogue/enemy29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（参ったなぁ………
+
+　これ、どうしたらいいんだろう……）
+> CONTEXT: Troops/371/pages/0/159/Dialogue/enemy29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だ、大丈夫かルカ！！
+
+しっかりしろ！！！
+> CONTEXT: Troops/371/pages/0/164/Dialogue/alice_fc5 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+え……？
+
+ど、どうしたのアリス……
+いったい何があったの…！？
+> CONTEXT: Troops/371/pages/0/168/Dialogue/ruka_fc1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お、覚えてないの……！？
+
+ますます意味がわかんないわ……
+なにかその子も危ないんじゃないの……？
+> CONTEXT: Troops/371/pages/0/173/Dialogue/enemy38 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いや………大丈夫だよ、『今のところは』。
+
+ただ、予想外だったのは確かだな……
+さてどうしようか……
+> CONTEXT: Troops/371/pages/0/178/Dialogue/enemy29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+待って………！！
+
+まだ……堕ちてない！！！！
+> CONTEXT: Troops/371/pages/0/183/Dialogue/enemy30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+マリオオオオオオオン…………！！
+
+ｵｱｱｱｱｱｱｱｱｱｱ………！！！
+> CONTEXT: Troops/371/pages/0/190/Dialogue/hyakki2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+オールドワンは、オクタエルの身体の左腕で
+
+かろうじて穴の端を掴み、\\C[2]這い上がろうとしている…！！
+> CONTEXT: Troops/371/pages/0/194/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+しぶといな！！！！
+
+どんだけマリオンと叫ぶんだこやつは！！
+> CONTEXT: Troops/371/pages/0/198/Dialogue/alice_fc5 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そんな……！！
+
+さっきのが効いてなかったのか…！？
+> CONTEXT: Troops/371/pages/0/202/Dialogue/kazuya < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いいや！！\\C[2]致命傷だったはずだよ！
+
+\\C[0]でも、\\C[10]オールドワンは\\N[1]くんから
+『諦めない精神』を学習してるんだ！
+> CONTEXT: Troops/371/pages/0/206/Dialogue/enemy29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[2]もう後一押しだ……！！
+
+\\C[10]『諦めない精神』はお前なんかに為し得ない\\C[0]って事を
+証明してやらなきゃ！！
+> CONTEXT: Troops/371/pages/0/211/Dialogue/enemy29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ほら、マリオン！！
+
+アンタもなにか攻撃したらどうなの！！
+\\C[2]セラフィムポーチ\\C[0]はどうしたのよ！！
+> CONTEXT: Troops/371/pages/0/216/Dialogue/コラボ^ヴァソ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はぁ！？\\C[2]穴の中に落としちゃった！？
+
+\\C[0]何やってるのよアンタ……！
+> CONTEXT: Troops/371/pages/0/224/Dialogue/コラボ^ヴァソ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+中村……！！
+
+\\C[2]マリオンの天使の力の発生条件……
+『銃をぶん投げる事』って認識で間違いないか…！？
+> CONTEXT: Troops/371/pages/0/229/Dialogue/kazuya < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そうだ、弾の有無は関係ない。
+
+\\C[2]射撃武器と一般に認識されているものであれば……何でも…
+> CONTEXT: Troops/371/pages/0/234/Dialogue/enemy35 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+！！！！！
+
+そういうことか…！！
+> CONTEXT: Troops/371/pages/0/238/Dialogue/enemy35 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ミズキ、頼む……！！
+
+僕の代わりに……\\C[2]マリオンに投げてくれ！
+> CONTEXT: Troops/371/pages/0/242/Dialogue/kazuya < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+任せて！！
+> CONTEXT: Troops/371/pages/0/246/Dialogue/enemy38 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+マリオンは、\\C[5]『リニアキャノン』\\C[0]を受け取った！！
+> CONTEXT: Troops/371/pages/0/253/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ｵｱｱｱｱｱｱｱｱｱｱ………！！！
+> CONTEXT: Troops/371/pages/0/256/Dialogue/hyakki2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+正直、あんたの顔は２度と見たくなかったけど……
+その姿で相見えるくらいだったら、尚更だったわ。
+
+終わりよ……！！アンタとの因縁も！
+> CONTEXT: Troops/371/pages/0/258/Dialogue/コラボ^ヴァソ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ゆけ！！マリオン！！！！
+
+彼女の……哀れな姿を晒しているオクタエルの魂に
+真の安息を与えるのだ！！
+> CONTEXT: Troops/371/pages/0/263/Dialogue/enemy35 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+？？？「まったく………
+
+　　　　貴方は、いつでも誰かの計画をメチャクチャにしますね
+　　　　マリオン……」
+> CONTEXT: Troops/371/pages/2/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+？？？「ですが……今回ばかりは……
+
+　　　　私も、素直にならねばならないようです……」
+> CONTEXT: Troops/371/pages/2/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+？？？「感謝します……
+
+　　　　これで……私は……………」
+> CONTEXT: Troops/371/pages/2/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ブラド（イベント）
+> CONTEXT: Troops/375/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ベルゼバブ３人（ルカ）
+> CONTEXT: Troops/380/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ハイラミア（初戦）
+> CONTEXT: Troops/381/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ハイラミア（決戦）
+> CONTEXT: Troops/382/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ハイラミアは姿勢を元に戻した…
+> CONTEXT: Troops/382/pages/0/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さぁ……行くわよ♡
+
+私のボウヤになって、頭の中を真っ白にしちゃいなさい♡
+> CONTEXT: Troops/382/pages/3/4/Dialogue/enemy39 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ハイラミアは、魔力を杖に集中させた……
+
+\\C[2]\\N[1]を狙っているようだ……！
+> CONTEXT: Troops/382/pages/3/8/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/382/pages/4/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+来るぞ……！！
+
+この魔法だけは絶対に避けるんだ、\\N[1]
+> CONTEXT: Troops/382/pages/3/12/Dialogue/enemy35 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+よ、避けるったって……
+
+この前のヤツだと、\\C[2]この魔法は追尾してきたような…！
+> CONTEXT: Troops/382/pages/3/16/Dialogue/kazuya < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[1]くん、\\C[2]私をサポートに呼んで！！！
+
+もしかしたら猫眼刀で、アイツの魔法を吸収できるかも！
+> CONTEXT: Troops/382/pages/3/20/Dialogue/enemy30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+な、なに…！？
+
+そんなことが出来るのか、その刀は…！
+> CONTEXT: Troops/382/pages/3/24/Dialogue/alice_fc5 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+確信はないけど……
+見た限り、あの魔法は攻撃型じゃなくて、波長干渉型……
+
+猫眼刀なら、その魔力を波長を合わせられると思うの！
+> CONTEXT: Troops/382/pages/3/28/Dialogue/enemy30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+よ、よし…！！
+
+なんだかよく分からないけど……
+君にかけるよ、夜深ちゃん…！
+> CONTEXT: Troops/382/pages/3/33/Dialogue/kazuya < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[2]夜深の\\C[10]『統治者の眼光』\\C[0]を使えば、
+ハイラミアのあの攻撃を無効化できるらしい………
+
+\\C[0]イチかバチか、試してみる価値はありそうだ…！
+> CONTEXT: Troops/382/pages/3/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+くっ……
+
+もう一度……！！
+> CONTEXT: Troops/382/pages/4/4/Dialogue/enemy39 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そ、そんな………
+
+私の力が……消える……
+> CONTEXT: Troops/382/pages/5/1/Dialogue/enemy39 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[1]ちゃん……お願い……
+
+もう1度だけ……ママって………呼…………
+> CONTEXT: Troops/382/pages/5/5/Dialogue/enemy39 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ブラド（普通）
+> CONTEXT: Troops/383/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+キャン！！
+> CONTEXT: Troops/383/pages/3/1/Dialogue/enemy37 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ブラックドッグは姿を消した……
+
+元の世界に戻ったようだ……
+> CONTEXT: Troops/383/pages/3/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+キャン！キャン！
+> CONTEXT: Troops/384/pages/3/8/Dialogue/enemy37 < UNTRANSLATED
+> CONTEXT: Troops/384/pages/4/8/Dialogue/enemy37 < UNTRANSLATED
+> CONTEXT: Troops/384/pages/5/8/Dialogue/enemy37 < UNTRANSLATED
+> CONTEXT: Troops/384/pages/6/8/Dialogue/enemy37 < UNTRANSLATED
+> CONTEXT: Troops/384/pages/7/8/Dialogue/enemy37 < UNTRANSLATED
+> CONTEXT: Troops/384/pages/8/8/Dialogue/enemy37 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ブラックドッグたちは散り散りに退いていった……
+> CONTEXT: Troops/384/pages/3/18/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/384/pages/4/18/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/384/pages/5/18/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/384/pages/6/18/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/384/pages/7/18/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/384/pages/8/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ハイスラッグ（決戦）
+> CONTEXT: Troops/385/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ハイスラッグ娘は姿勢を元に戻した…
+> CONTEXT: Troops/385/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ハイスラッグ娘が再びうずくまる……
+
+その腕は、すこし震えているようにも思える…
+> CONTEXT: Troops/385/pages/5/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お願いだ……降参してくれ。
+
+もう目に見えてボロボロじゃないか……
+> CONTEXT: Troops/385/pages/5/15/Dialogue/kazuya < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+僕たちは、君を傷付けたくない…
+
+その必要がないなら、なおさらだ…！
+> CONTEXT: Troops/385/pages/5/19/Dialogue/kazuya < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+まだよ……！
+
+私は、思い通りにならないと燃える質なの…
+そう簡単に諦める事なんて出来ないわ
+> CONTEXT: Troops/385/pages/5/29/Dialogue/highslag_fc1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ああ……\\N[1]……
+
+あなたを１度私の腕で抱くまでは、絶対に諦めない…！
+> CONTEXT: Troops/385/pages/5/34/Dialogue/highslag_fc1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ぐっ……！？
+> CONTEXT: Troops/385/pages/5/43/Dialogue/highslag_fc1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ハイスラッグ娘はその場にうずくまった……
+
+サーベルを握る手が、初めて戦闘中に下を向く……
+> CONTEXT: Troops/385/pages/5/45/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もうやめよう……決着はついた…！
+僕はあの時みたいに一人じゃない…。
+
+いくら君が\\C[10]世界融解\\C[0]の力を得ているからって…
+> CONTEXT: Troops/385/pages/5/49/Dialogue/kazuya < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なにを言ってるの……？
+
+これから楽しくなってくるんじゃない…！
+まだまだ私は戦えるわ…！
+> CONTEXT: Troops/385/pages/5/58/Dialogue/highslag_fc1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あなたは分かってない……
+
+私は\\C[10]世界融解\\C[0]の力がなくても十分強いのよ…！
+見てなさい…！
+> CONTEXT: Troops/385/pages/5/63/Dialogue/highslag_fc1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+キメラビースト（普通）
+> CONTEXT: Troops/386/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+キメラビースト（ラッシュ）
+> CONTEXT: Troops/387/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヴァソ（決戦）
+> CONTEXT: Troops/388/name < UNTRANSLATED
+> CONTEXT: Troops/393/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヴァシリカは姿勢を元に戻した…
+> CONTEXT: Troops/388/pages/0/33/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/393/pages/0/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ウボ（普通）
+> CONTEXT: Troops/389/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ウボ＝サスラは消滅した……
+> CONTEXT: Troops/389/pages/3/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ウボ（ラッシュ）
+> CONTEXT: Troops/390/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ウボ＝サスラは跡形もなく消えていった……
+> CONTEXT: Troops/390/pages/3/18/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/390/pages/4/18/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/390/pages/5/18/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/390/pages/6/18/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/390/pages/7/18/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/390/pages/8/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ベルゼバブ（Ｐ付き）
+> CONTEXT: Troops/391/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+な、なぜ……
+
+強くなったはずの私が……\\N[1]はともかく……
+こんなふざけた人間なんかに……
+> CONTEXT: Troops/391/pages/2/0/Dialogue/beelzebub_fc2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ベルゼバブ（Ｐ無）
+> CONTEXT: Troops/392/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+な、なぜ……私が負けるの…？
+
+\\N[1]………
+> CONTEXT: Troops/392/pages/2/0/Dialogue/beelzebub_fc2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アバドーン（第一形態）
+> CONTEXT: Troops/394/name < UNTRANSLATED
+> CONTEXT: Troops/395/name < UNTRANSLATED
+> CONTEXT: Troops/396/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アバドーンは禍々しい電撃を放ち始めた…… 
+
+\\C[2]とても回避できる雰囲気ではない……
+> CONTEXT: Troops/395/pages/3/4/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/395/pages/4/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヴァンパイア負け
+> CONTEXT: Troops/397/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ああああああっ……♡♡
+> CONTEXT: Troops/397/pages/0/17/Dialogue/kazuya-c < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おねえちゃんは、首元に何度もかみついた……
+
+ううん、「吸い付いた」…？
+> CONTEXT: Troops/397/pages/0/49/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+何度も……なんども………
+
+まるでボクが……おねえちゃんのものだって
+「しるし」を付けているように……
+> CONTEXT: Troops/397/pages/0/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そしてボクは……
+
+おねえちゃんの「しもべ」になった……
+> CONTEXT: Troops/397/pages/0/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おねえちゃんのマントの中で……
+
+とても気持ちよくねむる………
+> CONTEXT: Troops/397/pages/0/176/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ぼくがぎゅっと抱きしめると……
+
+おねえちゃんも、ぎゅってしてくれる……
+> CONTEXT: Troops/397/pages/0/180/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+大事なことを……忘れてるきがするけど………
+
+ぼくはいま……とってもしあわせ……
+> CONTEXT: Troops/397/pages/0/184/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+……とっても…………しあわせ……
+> CONTEXT: Troops/397/pages/0/188/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ブラド【敗北】集団
+> CONTEXT: Troops/400/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+キメラ【敗北】単独
+> CONTEXT: Troops/401/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+キメラ【敗北】集団
+> CONTEXT: Troops/402/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ゼブル【敗北】３人
+> CONTEXT: Troops/403/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ゼブル【敗北】赤
+> CONTEXT: Troops/404/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ハイラミア【敗北】子供
+> CONTEXT: Troops/405/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ハイラミア【敗北】通常
+> CONTEXT: Troops/406/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヴァソ【敗北】
+> CONTEXT: Troops/407/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ウボ【敗北】
+> CONTEXT: Troops/408/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+【全書】ハイスラッグ娘
+> CONTEXT: Troops/410/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ふふ……会えてうれしいわ、\\N[1]…♡
+
+今日はどんな方法で搾って欲しいのかしら…？♡
+> CONTEXT: Troops/410/pages/0/14/Dialogue/highslag_fc1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ブラックドッグは、駆け寄ってきて
+
+\\N[1]に身体を擦り付けてきた……
+> CONTEXT: Troops/411/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+よ、よしよし……
+
+僕も会いたかったよ……
+> CONTEXT: Troops/411/pages/0/15/Dialogue/kazuya < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+……なんか、ヘルハウンドだからっていうより……
+
+ホントにバーゲストの親類って分かりやすいな……
+> CONTEXT: Troops/411/pages/0/21/Dialogue/kazuya < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ワオンッ！！
+> CONTEXT: Troops/411/pages/0/25/Dialogue/enemy37 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ちょっ……！ま、待って……！！
+
+きゅ、急すぎる…！！
+> CONTEXT: Troops/411/pages/0/56/Dialogue/kazuya-0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+【全書】キメラビースト
+> CONTEXT: Troops/412/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+対象を確認……
+
+\\N[1]と認識……
+> CONTEXT: Troops/412/pages/0/14/Dialogue/c_beast_fc1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+や、やっぱり、箱の中でも生気のない喋りなんだ……
+
+箱って感情や思念を込める道具だから
+ワンチャンあるかなって思ったけど……
+> CONTEXT: Troops/412/pages/0/18/Dialogue/kazuya < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+でも、僕の事を覚えてくれてるみたいで嬉しいよ……
+
+あの時は……
+> CONTEXT: Troops/412/pages/0/23/Dialogue/kazuya < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+淡々とした性的刺激を送ってくるキメラビースト……
+
+彼女はどうやってこの「箱」を作ったのだろう…？
+見よう見まねとはいっていたが……
+> CONTEXT: Troops/412/pages/0/83/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そして何より……
+バーゲストは、どうやって彼女と意思疎通したのだろう……
+
+謎は深まるばかりだ……
+> CONTEXT: Troops/412/pages/0/88/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+【全書】ハイラミ
+> CONTEXT: Troops/413/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+んっっ…！
+> CONTEXT: Troops/413/pages/0/46/Dialogue/kazuya-10 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+【全書】ヴァソ
+> CONTEXT: Troops/414/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アハハハハハハッ！！
+
+また会ったわね！\\N[1]！！
+私と遊びたいっていうの？
+> CONTEXT: Troops/414/pages/0/10/Dialogue/enemy37 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いいわ……♡
+
+アンタのことは、最初に見たときから
+徹底的にイジめてやりたいと思ってたのよ♡
+> CONTEXT: Troops/414/pages/0/15/Dialogue/enemy37 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さぁ！早く私の前にひれ伏しなさい！
+
+このヴァシリカ様が、
+アンタの精気を根こそぎ吸い取ってやるわ！
+> CONTEXT: Troops/414/pages/0/20/Dialogue/enemy37 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+………これじゃ、本人の言ってた
+
+「優しくしてくれる」は期待できなさそうだな…
+> CONTEXT: Troops/414/pages/0/26/Dialogue/kazuya < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いや、ある意味……
+
+これが彼女なりの人間に対しての優しさだったりして……
+> CONTEXT: Troops/414/pages/0/30/Dialogue/kazuya < UNTRANSLATED
+
 > END STRING

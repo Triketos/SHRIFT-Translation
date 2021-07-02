@@ -23,6 +23,7 @@ Attack#Dargoth
 > CONTEXT: Skills/545/message1
 > CONTEXT: Skills/546/message1
 > CONTEXT: Skills/547/message1
+> CONTEXT: Skills/909/message1
  attacks!#Dargoth
 > END STRING
 
@@ -427,12 +428,6 @@ Depending on status ailments, safety not guaranteed.#Dargoth
 > END STRING
 
 > BEGIN STRING
-回避体勢
-> CONTEXT: Skills/17/name
-Evasive Posture#Dargoth
-> END STRING
-
-> BEGIN STRING
 は回避体勢をとった！！
 > CONTEXT: Skills/17/message1
 > CONTEXT: Skills/519/message1
@@ -473,7 +468,6 @@ Reliably frees your legs, nipples, and mouth.#Dargoth
 ふりはらう
 > CONTEXT: Skills/19/name
 > CONTEXT: Skills/437/name
-> CONTEXT: Troops/298/pages/1/213/Choice/1
 Shake Off#Dargoth
 > END STRING
 
@@ -494,12 +488,6 @@ Saves your willpower, but won't stop status ailments.#Dargoth
 > END STRING
 
 > BEGIN STRING
-防御体勢
-> CONTEXT: Skills/20/name
-Defensive Stance#Dargoth
-> END STRING
-
-> BEGIN STRING
 は防御体勢をとった！！
 > CONTEXT: Skills/20/message1
  takes a defensive stance!#Dargoth
@@ -509,6 +497,7 @@ Defensive Stance#Dargoth
 敵単体にダメージを与える。
 \\C[10]相手が誘惑している時に選択する事は死を意味する。
 > CONTEXT: Skills/21/description
+> CONTEXT: Skills/909/description
 Damages a single opponent.
 \\C[10]If opponent is luring you in, this move is suicide.#Dargoth
 > END STRING
@@ -516,6 +505,7 @@ Damages a single opponent.
 > BEGIN STRING
 近接攻撃
 > CONTEXT: Skills/21/name
+> CONTEXT: Skills/909/name
 Melee Attack#Dargoth
 > END STRING
 
@@ -1070,6 +1060,7 @@ Does not work while fucking.#afrg/
 不屈の闘志
 > CONTEXT: Skills/66/name
 > CONTEXT: Skills/688/name
+> CONTEXT: Skills/692/name
 > CONTEXT: States/180/name
 Indomitable Fighting Spirit#afrg
 > END STRING
@@ -1223,9 +1214,6 @@ Reload#Dargoth
 > CONTEXT: Skills/891/message1
 > CONTEXT: Skills/892/message1
 > CONTEXT: Skills/893/message1
-> CONTEXT: Skills/894/message1
-> CONTEXT: Skills/895/message1
-> CONTEXT: Skills/896/message1
  loads ammo into his firearm.#Dargoth
 > END STRING
 
@@ -1440,6 +1428,7 @@ Psi Tornado#Dargoth
 > CONTEXT: Skills/587/description
 > CONTEXT: Skills/623/description
 > CONTEXT: Skills/624/description
+> CONTEXT: Skills/713/description
 > CONTEXT: Skills/740/description
 Deals fire damage.
 Strongest of all elements in base power.#Dargoth
@@ -1472,6 +1461,7 @@ Psi Freila#Dargoth
 > BEGIN STRING
 サイ・メギド
 > CONTEXT: Skills/98/name
+> CONTEXT: Skills/713/name
 > CONTEXT: Skills/740/name
 Psi Megido#Dargoth
 > END STRING
@@ -1479,6 +1469,7 @@ Psi Megido#Dargoth
 > BEGIN STRING
 はサイ・メギドを放った！
 > CONTEXT: Skills/98/message1
+> CONTEXT: Skills/713/message1
 > CONTEXT: Skills/740/message1
  casts Psi Megido!#Dargoth
 > END STRING
@@ -1490,6 +1481,7 @@ Psi Megido#Dargoth
 > CONTEXT: Skills/100/description
 > CONTEXT: Skills/101/description
 > CONTEXT: Skills/253/description
+> CONTEXT: Skills/717/description
 > CONTEXT: Skills/742/description
 > CONTEXT: Skills/745/description
 Deals ice damage.
@@ -1527,6 +1519,7 @@ Psi Icicle#Dargoth
 > BEGIN STRING
 サイ・ブリザード
 > CONTEXT: Skills/101/name
+> CONTEXT: Skills/717/name
 > CONTEXT: Skills/745/name
 Psi Blizzard#Dargoth
 > END STRING
@@ -1534,6 +1527,7 @@ Psi Blizzard#Dargoth
 > BEGIN STRING
 はサイ・ブリザードを放った！
 > CONTEXT: Skills/101/message1
+> CONTEXT: Skills/717/message1
 > CONTEXT: Skills/745/message1
  casts Psi Blizzard!#afrg
 > END STRING
@@ -1546,6 +1540,7 @@ Psi Blizzard#Dargoth
 > CONTEXT: Skills/104/description
 > CONTEXT: Skills/553/description
 > CONTEXT: Skills/557/description
+> CONTEXT: Skills/718/description
 > CONTEXT: Skills/744/description
 > CONTEXT: Skills/746/description
 Deals lightning damage.
@@ -1579,6 +1574,7 @@ Psi Thunder#Dargoth
 > BEGIN STRING
 サイ・ボルテッカ
 > CONTEXT: Skills/104/name
+> CONTEXT: Skills/718/name
 > CONTEXT: Skills/746/name
 Psi Volt Tackle#Dargoth
 > END STRING
@@ -1586,6 +1582,7 @@ Psi Volt Tackle#Dargoth
 > BEGIN STRING
 はサイ・ボルテッカを放った！
 > CONTEXT: Skills/104/message1
+> CONTEXT: Skills/718/message1
 > CONTEXT: Skills/746/message1
  casts Psi Volt Tackle!#Dargoth
 > END STRING
@@ -1807,6 +1804,7 @@ Pure pleasure courses through his veins and saps his strength...#Dargoth
 > CONTEXT: Skills/393/description
 > CONTEXT: Skills/402/description
 > CONTEXT: Skills/404/description
+> CONTEXT: Skills/406/description
 > CONTEXT: Skills/415/description
 > CONTEXT: Skills/416/description
 > CONTEXT: Skills/417/description
@@ -1827,8 +1825,14 @@ Pure pleasure courses through his veins and saps his strength...#Dargoth
 > CONTEXT: Skills/650/description
 > CONTEXT: Skills/652/description
 > CONTEXT: Skills/653/description
+> CONTEXT: Skills/662/description
+> CONTEXT: Skills/663/description
+> CONTEXT: Skills/672/description
 > CONTEXT: Skills/677/description
 > CONTEXT: Skills/682/description
+> CONTEXT: Skills/684/description
+> CONTEXT: Skills/689/description
+> CONTEXT: Skills/691/description
 > CONTEXT: Skills/697/description
 > CONTEXT: Skills/698/description
 > CONTEXT: Skills/699/description
@@ -1870,6 +1874,8 @@ Pure pleasure courses through his veins and saps his strength...#Dargoth
 > CONTEXT: Skills/880/description
 > CONTEXT: Skills/881/description
 > CONTEXT: Skills/882/description
+> CONTEXT: Skills/897/description
+> CONTEXT: Skills/952/description
 Perform a powerful attack against one foe.#Dargoth
 > END STRING
 
@@ -1939,6 +1945,12 @@ Beast Claw#Dargoth
 > CONTEXT: Skills/341/description
 > CONTEXT: Skills/343/description
 > CONTEXT: Skills/363/description
+> CONTEXT: Skills/407/description
+> CONTEXT: Skills/408/description
+> CONTEXT: Skills/409/description
+> CONTEXT: Skills/421/description
+> CONTEXT: Skills/422/description
+> CONTEXT: Skills/423/description
 > CONTEXT: Skills/548/description
 > CONTEXT: Skills/550/description
 > CONTEXT: Skills/551/description
@@ -2042,6 +2054,7 @@ Mating Invitation (Failure)#Dargoth
 相手をまれにスタンさせる。
 > CONTEXT: Skills/136/description
 > CONTEXT: Skills/840/description
+> CONTEXT: Skills/953/description
 Steadily put your weight on your opponent,
 pinning them down. Small chance to inflict stun.#Ron
 > END STRING
@@ -2178,9 +2191,9 @@ Snuggle#Dargoth
 > END STRING
 
 > BEGIN STRING
-バーゲストの舌と一緒に牙が首にチクチクと当たる……
+舌と一緒に牙が首にチクチクと当たる……
 > CONTEXT: Skills/143/message2
-Her fangs prick the skin as her tongue licks his neck!#Dargoth
+Her fangs and tongue feel prickly on his neck!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -2481,6 +2494,7 @@ Affectionate Kiss#Dargoth
 興奮した\\N[1]の身体に、電流のように快感が走る…！！
 > CONTEXT: Skills/161/message2
 > CONTEXT: Skills/835/message2
+> CONTEXT: Skills/952/message2
 It sends a shock of pleasure through \\N[1]'s body!#Dargoth
 > END STRING
 
@@ -2488,6 +2502,7 @@ It sends a shock of pleasure through \\N[1]'s body!#Dargoth
 男堕としの乳首攻め
 > CONTEXT: Skills/161/name
 > CONTEXT: Skills/835/name
+> CONTEXT: Skills/952/name
 Feminizing Nipple Assault#Dargoth
 > END STRING
 
@@ -2495,6 +2510,7 @@ Feminizing Nipple Assault#Dargoth
 は\\n[1]の乳首を激しく弄んだ！
 > CONTEXT: Skills/161/message1
 > CONTEXT: Skills/835/message1
+> CONTEXT: Skills/952/message1
  plays intensely with \\N[1]'s nipples!#Dargoth
 > END STRING
 
@@ -2521,6 +2537,7 @@ Enticement to Surrender#Dargoth
 > CONTEXT: Skills/163/message2
 > CONTEXT: Skills/165/message2
 > CONTEXT: Skills/381/message2
+> CONTEXT: Skills/684/message2
 > CONTEXT: Skills/769/message2
 > CONTEXT: Skills/881/message2
 Her delicate fingers deftly stimulate his penis...#Dargoth
@@ -2530,6 +2547,7 @@ Her delicate fingers deftly stimulate his penis...#Dargoth
 フェザー・シェイク
 > CONTEXT: Skills/163/name
 > CONTEXT: Skills/517/name
+> CONTEXT: Skills/684/name
 Feather Shake#Dargoth
 > END STRING
 
@@ -2540,6 +2558,7 @@ Feather Shake#Dargoth
 > CONTEXT: Skills/368/message1
 > CONTEXT: Skills/381/message1
 > CONTEXT: Skills/517/message1
+> CONTEXT: Skills/684/message1
 > CONTEXT: Skills/769/message1
 > CONTEXT: Skills/881/message1
  gently strokes \\N[1]'s penis!#Dargoth
@@ -2593,9 +2612,9 @@ Backstab#Dargoth
 > END STRING
 
 > BEGIN STRING
-は\\n[1]のアナルに、グリグリと触手をねじ込んだ！
+は\\n[1]のアナルに、グリグリとねじ込んだ！
 > CONTEXT: Skills/168/message1
- screws a slimy tentacle into \\N[1]'s ass!#Dargoth
+ drives herself/something into into \\N[1]'s ass!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -3295,6 +3314,8 @@ Nectar Suckling#Dargoth
 は\\N[1]に乳房を押し当て、グリグリと体重をかけてきた！
 > CONTEXT: Skills/245/message1
 > CONTEXT: Skills/304/message1
+> CONTEXT: Skills/664/message1
+> CONTEXT: Skills/669/message1
 > CONTEXT: Skills/831/message1
  cradles \\N[1] tightly against her breast!#Dargoth
 > END STRING
@@ -3706,6 +3727,7 @@ Reverse Storm#Dargoth
 > CONTEXT: Skills/286/description
 > CONTEXT: Skills/287/description
 > CONTEXT: Skills/688/description
+> CONTEXT: Skills/692/description
 Try to wake yourself up from the dream.
 This will finally wake you up if successful.#Dargoth
 > END STRING
@@ -4115,6 +4137,8 @@ Hug Invitation#afrg
 > BEGIN STRING
 彼女の乳首から出てくる母乳を夢中で飲んでしまう……
 > CONTEXT: Skills/304/message2
+> CONTEXT: Skills/664/message2
+> CONTEXT: Skills/669/message2
 > CONTEXT: Skills/831/message2
 He drinks the milk that comes out in a trance...#afrg
 > END STRING
@@ -4122,6 +4146,8 @@ He drinks the milk that comes out in a trance...#afrg
 > BEGIN STRING
 慈母の授乳
 > CONTEXT: Skills/304/name
+> CONTEXT: Skills/664/name
+> CONTEXT: Skills/669/name
 Motherly Nursing#afrgPR
 > END STRING
 
@@ -5290,6 +5316,66 @@ has trapped Kazuya's body inside her clothes!#DL
 > END STRING
 
 > BEGIN STRING
+蹂躙撃
+> CONTEXT: Skills/406/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は周囲を飛び回り、相手を蹂躙した！
+> CONTEXT: Skills/406/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+火や冷気や真空波の入り交じったブレスが\\N[1]たちを襲う！！！！！！！！！！
+> CONTEXT: Skills/407/message2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+トリプルブレス
+> CONTEXT: Skills/407/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は\\N[1]たちにトリプルブレスを吹きかけた！
+> CONTEXT: Skills/407/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+強烈な一撃が\\N[1]たちを襲う…！
+> CONTEXT: Skills/408/message2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔蠅の一撃
+> CONTEXT: Skills/408/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は\\N[1]たちに魔蠅の一撃を放った！
+> CONTEXT: Skills/408/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アンスタン
+> CONTEXT: Skills/409/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はアンスタンを放った！
+> CONTEXT: Skills/409/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
 \\C[2]手足を使って\\C[0]粘着糸を引き離し、状態異常を解除する。
 手足が自由でなければこのスキルは使用出来ない。
 > CONTEXT: Skills/410/description
@@ -5444,11 +5530,80 @@ Submissive Masturbation#afrgPR
 > END STRING
 
 > BEGIN STRING
+ケラヴトゥリア
+> CONTEXT: Skills/421/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はケラヴトゥリアを放った！
+> CONTEXT: Skills/421/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+スプラッシュフルーレ
+> CONTEXT: Skills/422/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はスプラッシュフルーレを放った！
+> CONTEXT: Skills/422/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ダーク・メディション
+> CONTEXT: Skills/423/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はダーク・メディションを放った！
+> CONTEXT: Skills/423/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+相手に無属性の魔法ダメージを与える。
+ダメージ自体は高くないが、魔法耐性を無視できる。
+> CONTEXT: Skills/424/description
+> CONTEXT: Skills/685/description
+> CONTEXT: Skills/701/description
+> CONTEXT: Skills/754/description
+> CONTEXT: Skills/846/description
+> CONTEXT: Skills/862/description
+Deals non-attribute magical damage to your opponent. 
+Does little damage, but ignores magic resistance.#afrg
+> END STRING
+
+> BEGIN STRING
+エル・ピリオド
+> CONTEXT: Skills/424/name
+> CONTEXT: Skills/685/name
+> CONTEXT: Skills/754/name 
+> CONTEXT: Skills/846/name
+> CONTEXT: Skills/862/name
+El Period#afrg
+> END STRING
+
+> BEGIN STRING
+はエル・ピリオドを放った！
+> CONTEXT: Skills/424/message1
+> CONTEXT: Skills/685/message1
+> CONTEXT: Skills/754/message1
+> CONTEXT: Skills/846/message1
+> CONTEXT: Skills/862/message1
+ casts El Period!
+> END STRING
+
+> BEGIN STRING
 １０ターンの間、疲労・衰弱・スタン・脱力・出血無効。
-更に毎ターン抵抗と気力が５０％回復する。
+更に毎ターン抵抗と気力が２５％回復する。
 > CONTEXT: Skills/425/description
 \\}Prevents Exhaustion, Weakness, Stun, Debilitated and Bleeding
-for 10 turns, and grants 50% Willpower and Vitality recovery per turn.#afrg
+for 10 turns, and grants 25% Willpower and Vitality recovery per turn.#afrg
 > END STRING
 
 > BEGIN STRING
@@ -6623,7 +6778,6 @@ Insert Illusion#TriketosPartial
 敵単体に物理の大ダメージ。炎属性
 現在の弾丸：\\V[164]
 > CONTEXT: Skills/530/description
-> CONTEXT: Skills/531/description
 Great physical damage to enemies. Flame attribute.
 Current ammo: \\V[164]#afrgPR
 > END STRING
@@ -6638,6 +6792,14 @@ Shell (Incendiary)#afrgPR
 はグレネード（焼夷）を放った！
 > CONTEXT: Skills/530/message1
  shot an incendiary shell!#afrgPR
+> END STRING
+
+> BEGIN STRING
+敵単体に物理の大ダメージ。氷属性
+現在の弾丸：\\V[164]
+> CONTEXT: Skills/531/description
+Great physical damage to enemies. Ice attribute.
+Current ammo: \\V[164]#afrgPR
 > END STRING
 
 > BEGIN STRING
@@ -7552,23 +7714,54 @@ Snake Glare#afrg
 > END STRING
 
 > BEGIN STRING
-縺ゅ↑縺溘?縺昴％縺ｾ縺ｧ縺励※蜉帙ｒ謇九↓蜈･繧後◆縺??縺具ｼ
-> CONTEXT: Skills/635/message2
-\\X[50]\\C[10]Did you do all this just for power?#Ron
+\\N[1]の衣服が煙を立てている……
+> CONTEXT: Skills/632/message2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+溶解液
+> CONTEXT: Skills/632/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は溶解液を\\N[1]の身体に浴びせてきた！！
+> CONTEXT: Skills/632/message1 < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
 縺雁燕縺ｯ菴墓腐縺薙％縺ｾ縺ｧ譚･縺溘?縺??
 縺薙?蜈医ｒ譛ｬ蠖薙↓隕九◆縺??縺具ｼ
+> CONTEXT: Skills/633/description
+> CONTEXT: Skills/634/description
 > CONTEXT: Skills/635/description
+> CONTEXT: Skills/753/description
+> CONTEXT: Skills/942/description
 \\X[50]\\C[10]Why have you come this far?
 Did you want to see what would happen?#Ron
 > END STRING
 
 > BEGIN STRING
 豺ｱ豺ｵ
+> CONTEXT: Skills/633/name
+> CONTEXT: Skills/634/name
 > CONTEXT: Skills/635/name
 \\X[50]\\C[10]Abyss#Ron/Triketos
+> END STRING
+
+> BEGIN STRING
+は禍々しい光線を放ってきた！！
+> CONTEXT: Skills/633/message1 < UNTRANSLATED
+> CONTEXT: Skills/634/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+縺ゅ↑縺溘?縺昴％縺ｾ縺ｧ縺励※蜉帙ｒ謇九↓蜈･繧後◆縺??縺具ｼ
+> CONTEXT: Skills/635/message2
+\\X[50]\\C[10]Did you do all this just for power?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -7736,6 +7929,30 @@ Specialty: Ruinous Breast Squeezing#afrg
 > END STRING
 
 > BEGIN STRING
+スゥイート・タイム
+> CONTEXT: Skills/662/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は子供化の魔法を唱えた！！
+> CONTEXT: Skills/662/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+母蛇の慈愛遊戯
+> CONTEXT: Skills/663/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は\\N[1]のペニスを包み込むように締め付けた
+> CONTEXT: Skills/663/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
 精気と共に、\\N[1]の全能力がどんどん吸いとられていく…
 > CONTEXT: Skills/665/message2
 > CONTEXT: Skills/666/message2
@@ -7760,6 +7977,24 @@ Virtue: Ayashi Ayaka#MTLed
 > END STRING
 
 > BEGIN STRING
+柔らかいおっぱいの壁が、\\N[1]をギュウギュウと圧迫する…
+> CONTEXT: Skills/668/message2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔蠅の抱擁
+> CONTEXT: Skills/668/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は\\N[1]を自身の下半身でぐるぐる巻きにした！
+> CONTEXT: Skills/668/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
 誘惑の魔眼
 > CONTEXT: Skills/670/name
 > CONTEXT: Skills/857/name
@@ -7776,6 +8011,24 @@ Instinctive Thrusting#afrg
 は狂ったように息を荒げ、腰を振り続けている…
 > CONTEXT: Skills/671/message1
  breathes heavily as he thrusts like a madman...#afrg
+> END STRING
+
+> BEGIN STRING
+\\N[1]の精気が、みるみるうちに吸い上げられてく……
+> CONTEXT: Skills/672/message2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ドレインマント
+> CONTEXT: Skills/672/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は\\n[1]をマントで完全に覆い尽くした！
+> CONTEXT: Skills/672/message1 < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -7866,36 +8119,6 @@ Footjob Paradise#afrg
 > END STRING
 
 > BEGIN STRING
-相手に無属性の魔法ダメージを与える。
-ダメージ自体は高くないが、魔法耐性を無視できる。
-> CONTEXT: Skills/685/description
-> CONTEXT: Skills/701/description
-> CONTEXT: Skills/754/description
-> CONTEXT: Skills/846/description
-> CONTEXT: Skills/862/description
-Deals non-attribute magical damage to your opponent. 
-Does little damage, but ignores magic resistance.#afrg
-> END STRING
-
-> BEGIN STRING
-エル・ピリオド
-> CONTEXT: Skills/685/name
-> CONTEXT: Skills/754/name
-> CONTEXT: Skills/846/name
-> CONTEXT: Skills/862/name
-El Period#afrg
-> END STRING
-
-> BEGIN STRING
-はエル・ピリオドを放った！
-> CONTEXT: Skills/685/message1
-> CONTEXT: Skills/754/message1
-> CONTEXT: Skills/846/message1
-> CONTEXT: Skills/862/message1
- casts El Period!#afrg
-> END STRING
-
-> BEGIN STRING
 吸精の尻尾
 > CONTEXT: Skills/686/name
 > CONTEXT: Skills/687/name
@@ -7905,7 +8128,44 @@ Energy Sucking Tail#afrg
 > BEGIN STRING
 は不屈の闘志で立ち上がった！！
 > CONTEXT: Skills/688/message1
+> CONTEXT: Skills/692/message1
  stood up with an indomitable fighting spirit!#afrg
+> END STRING
+
+> BEGIN STRING
+ヌルヌルの乳房の波が、\\N[1]の身体を玩ぶ……
+> CONTEXT: Skills/689/message2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+抱乳溶獄
+> CONTEXT: Skills/689/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は大量のおっぱいで\\N[1]をもみくちゃにした！
+> CONTEXT: Skills/689/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いやらしい音を立てながら、精気がどんどんと吸い取られていく…
+> CONTEXT: Skills/691/message2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+テイルドレイン
+> CONTEXT: Skills/691/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は\\N[1]の手足を尻尾に取り込んだ！
+> CONTEXT: Skills/691/message1 < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -8062,6 +8322,7 @@ Whirlwind#afrg
 > BEGIN STRING
 味方全体の抵抗力・気力を全回復する
 > CONTEXT: Skills/715/description
+> CONTEXT: Skills/914/description
 Fully restores the Willpower and Vitality of all
 allies.#Ron
 > END STRING
@@ -8099,6 +8360,20 @@ Call Yuuma's Name#afrg
 > END STRING
 
 > BEGIN STRING
+マリオンの世界に自生しているリンゴ
+味方一体の体力を完全に回復する
+> CONTEXT: Skills/719/description < UNTRANSLATED
+> CONTEXT: Skills/951/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は共闘ドリンクを仕方なく自分で使った！
+> CONTEXT: Skills/719/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
 相手に致命的なダメージを与える。
 チャージが完了しないと使えない。
 > CONTEXT: Skills/720/description
@@ -8110,6 +8385,7 @@ Cannot be used unless the weapon is fully charged.#afrg
 リニアキャノン
 > CONTEXT: Skills/720/name
 > CONTEXT: Skills/752/name
+> CONTEXT: Skills/943/name
 > CONTEXT: Weapons/80/name
 Linear Cannon#Triketos
 > END STRING
@@ -8130,6 +8406,65 @@ Fear Curse Symbol#afrg
 は恐怖呪縛の印を放った！
 > CONTEXT: Skills/721/message1
  casts Fear Curse Symbol!#afrg
+> END STRING
+
+> BEGIN STRING
+\\\>\\C[0]特性：１ターンの間、全員のダメージを半減する。
+\\\>\\C[24]『兎リンゴ』を装備時に使用可能
+> CONTEXT: Skills/722/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は兎リンゴを使った！
+> CONTEXT: Skills/722/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\\>\\C[0]特性：ルカのＳＰを全回復する。
+\\\>\\C[24]『緑リンゴ』を装備時に使用可能
+> CONTEXT: Skills/724/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は緑リンゴを使った！
+> CONTEXT: Skills/724/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\\>\\C[0]特性：味方全員のＨＰを回復する。
+\\\>\\C[24]『赤リンゴ』を装備時に使用可能
+> CONTEXT: Skills/728/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は回復リンゴを使った！
+> CONTEXT: Skills/728/message1 < UNTRANSLATED
+> CONTEXT: Skills/894/message1 < UNTRANSLATED
+> CONTEXT: Skills/951/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[1]の精気が快楽と引き換えにみるみる吸い取られていく…！
+> CONTEXT: Skills/729/message2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+スラッグドレイン
+> CONTEXT: Skills/729/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は、\\N[1]の身体を蛞蝓の身体で玩んだ！
+> CONTEXT: Skills/729/message1 < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -8177,12 +8512,6 @@ The Harpy Spawn's long, sticky tongue invades his mouth!#Ron
 > END STRING
 
 > BEGIN STRING
-相手の全能力を２段階下げる。
-> CONTEXT: Skills/735/description
-Lowers your opponent's full capacity by two levels.#CheckLater
-> END STRING
-
-> BEGIN STRING
 オール・デルテカ
 > CONTEXT: Skills/735/name
 All Delteca#afrg
@@ -8205,6 +8534,7 @@ amount of magic power in order to learn.#Ron
 > BEGIN STRING
 サイガ・アグニ
 > CONTEXT: Skills/736/name
+> CONTEXT: Skills/926/name < UNTRANSLATED
 Psiga Agony#CheckLater
 > END STRING
 
@@ -8383,6 +8713,49 @@ It's over.#Triketos
 > END STRING
 
 > BEGIN STRING
+遐ｴ貊
+> CONTEXT: Skills/753/name < UNTRANSLATED
+> CONTEXT: Skills/942/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は、混沌のエネルギーを爆発させた！
+> CONTEXT: Skills/753/message1 < UNTRANSLATED
+> CONTEXT: Skills/942/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+地獄の業火のような炎の渦が、アバドーンに襲いかかる！
+> CONTEXT: Skills/755/message2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ミズキのサポートスキル。
+相手に物理属性超特大ダメージを与える。
+> CONTEXT: Skills/755/description < UNTRANSLATED
+> CONTEXT: Skills/766/description < UNTRANSLATED
+> CONTEXT: Skills/788/description < UNTRANSLATED
+> CONTEXT: Skills/790/description < UNTRANSLATED
+> CONTEXT: Skills/930/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+鬼炎翔龍
+> CONTEXT: Skills/755/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の傍らで、夜深は鬼炎翔龍を放った！
+> CONTEXT: Skills/755/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
 \\C[10]カマソッソに犯され、精神に快感を擦り込まれたパッシブスキル。
 対象悪魔との戦闘時、ダメージが２０％増加する。
 > CONTEXT: Skills/756/description
@@ -8520,6 +8893,24 @@ Special accident battles can occur against this monster.#Strate
 【妲己の性奴隷】LvMAX
 > CONTEXT: Skills/765/name
 【Daji's Sex Slave】 LvMAX#afrg
+> END STRING
+
+> BEGIN STRING
+神の怒りの炎が、アバドーンの身体を貫く！
+> CONTEXT: Skills/766/message2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+メギドファイア
+> CONTEXT: Skills/766/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の傍らで、ミズキはメギドフレイムを放った
+> CONTEXT: Skills/766/message1 < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -8744,8 +9135,7 @@ Deals light damage, three times. Wind attribute.#afrg
 > BEGIN STRING
 敵単体に物理の大ダメージ。
 > CONTEXT: Skills/787/description
-Great physical damage to a single enemy.
-                                                            #MTLed
+Great physical damage to a single enemy.#MTLed
 > END STRING
 
 > BEGIN STRING
@@ -8753,6 +9143,43 @@ Great physical damage to a single enemy.
 > CONTEXT: Skills/787/name
 > CONTEXT: Weapons/90/name
 ∞ Magnum#Triketos
+> END STRING
+
+> BEGIN STRING
+紅蓮の火炎が、アバドーンを包み込む…！！
+> CONTEXT: Skills/788/message2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヘルハウンド・グロリア
+> CONTEXT: Skills/788/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の傍らで、ミズキはオルトロスの連撃を浴びせた
+> CONTEXT: Skills/788/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+氷の塊が、アバドーンを包み込み、粉砕する！
+> CONTEXT: Skills/790/message2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヘルハウンド・グラシア
+> CONTEXT: Skills/790/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の傍らで、ミズキはケルベロスを叩きつけた！
+> CONTEXT: Skills/790/message1 < UNTRANSLATED
+> CONTEXT: Skills/930/message1 < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -8958,9 +9385,9 @@ The Beetle Harpies try to catch \\N[1] in their talons!#Triketos
 > END STRING
 
 > BEGIN STRING
-\\N[1]はもう、クイーンのなすがままだ……
+\\N[1]はもう、相手のなすがままだ……
 > CONTEXT: Skills/812/message2
-\\N[1]'s is already at the Queen's mercy...#Triketos
+\\N[1] is at the mercy of his opponent...#Ron
 > END STRING
 
 > BEGIN STRING
@@ -9329,6 +9756,34 @@ Demon Queen's Play#Ron
 > END STRING
 
 > BEGIN STRING
+その天使の力を纏った槍は、アバドーンを貫く！
+> CONTEXT: Skills/855/message2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アリスのサポートスキル。
+相手に魔法の火炎属性特大ダメージを与える。
+> CONTEXT: Skills/855/description < UNTRANSLATED
+> CONTEXT: Skills/905/description < UNTRANSLATED
+> CONTEXT: Skills/939/description < UNTRANSLATED
+> CONTEXT: Skills/940/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+オタク・キャノン
+> CONTEXT: Skills/855/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の傍らで、聖騎士サイトウは槍を投擲した！！
+> CONTEXT: Skills/855/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
 フワフワとした気持ち良い匂いが\\N[1]を包み込む……
 > CONTEXT: Skills/856/message2
 A pleasant, fluffy smell envelops \\N[1]........#DL
@@ -9426,12 +9881,6 @@ Siren's Voice#Triketos
 もはや\\N[1]は、その刺激的な快楽に溺れるしかない……
 > CONTEXT: Skills/867/message2
 \\N[1] now thinks only of indulging in the pleasure!#RonLocalization
-> END STRING
-
-> BEGIN STRING
-捕食
-> CONTEXT: Skills/867/name
-Predation#Ron
 > END STRING
 
 > BEGIN STRING
@@ -9707,7 +10156,8 @@ The incredible pleasure is draining \\N[1]'s willpower...#Strate
 > END STRING
 
 > BEGIN STRING
-単体に無属性のダメージ
+\\C[13]【属性】物理　\\C[14]【威力】中×２
+\\C[0]特性：\\C[24]必中攻撃
 > CONTEXT: Skills/891/description < UNTRANSLATED
 
 > END STRING
@@ -9715,24 +10165,28 @@ The incredible pleasure is draining \\N[1]'s willpower...#Strate
 > BEGIN STRING
 マスケット
 > CONTEXT: Skills/891/name < UNTRANSLATED
+> CONTEXT: Skills/945/name < UNTRANSLATED
 
 > END STRING
 
 > BEGIN STRING
-単体に火属性のダメージ
+\\C[13]【属性】火　\\C[14]【威力】大×１
+\\C[0]特性：\\C[24]次ターン開始時、自身のＨＰ２０％回復
 > CONTEXT: Skills/892/description < UNTRANSLATED
+> CONTEXT: Skills/947/description < UNTRANSLATED
 
 > END STRING
 
 > BEGIN STRING
 てつはう
 > CONTEXT: Skills/892/name < UNTRANSLATED
+> CONTEXT: Skills/947/name < UNTRANSLATED
 
 > END STRING
 
 > BEGIN STRING
-近接武器
-威力は高いが、自身のＨＰにもダメージを受ける
+\\C[13]【属性】無　\\C[14]【威力】大×２
+\\C[0]特性：\\C[24]装備中、被ダメージ増加
 > CONTEXT: Skills/893/description < UNTRANSLATED
 
 > END STRING
@@ -9750,37 +10204,84 @@ The incredible pleasure is draining \\N[1]'s willpower...#Strate
 > END STRING
 
 > BEGIN STRING
-カズヤの性欲回復
+回復リンゴ
+> CONTEXT: Skills/894/name < UNTRANSLATED
+> CONTEXT: Skills/951/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+マリオンの世界に自生しているリンゴ
+\\N[1]の性欲を30減少させ、精神系状態異常を回復する
 > CONTEXT: Skills/895/description < UNTRANSLATED
 
 > END STRING
 
 > BEGIN STRING
-青リンゴ
+減欲リンゴ
 > CONTEXT: Skills/895/name < UNTRANSLATED
 
 > END STRING
 
 > BEGIN STRING
-ＨＰ回復（全体）
+は減欲リンゴを使った！
+> CONTEXT: Skills/895/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+マリオンの世界に自生しているリンゴ
+味方全体の物理・魔法攻撃力を上げる
 > CONTEXT: Skills/896/description < UNTRANSLATED
 
 > END STRING
 
 > BEGIN STRING
-赤リンゴ（うさぎ）
+猛攻リンゴ
 > CONTEXT: Skills/896/name < UNTRANSLATED
 
 > END STRING
 
 > BEGIN STRING
-統治者の心眼
-> CONTEXT: Skills/898/name < UNTRANSLATED
+は猛攻リンゴを使った！
+> CONTEXT: Skills/896/message1 < UNTRANSLATED
 
 > END STRING
 
 > BEGIN STRING
-は\\N[1]を守るために意識を集中した！
+夜深は猫眼刀で相手を斬りつけた！！
+> CONTEXT: Skills/897/message2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+猫翔斬
+> CONTEXT: Skills/897/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+のサポートスキルが発動！
+> CONTEXT: Skills/897/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+夜深のサポートスキル。
+このターンで\\N[1]が受ける物理攻撃を無効化し、回数分反撃する。
+> CONTEXT: Skills/898/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+統治者の眼光
+> CONTEXT: Skills/898/name < UNTRANSLATED
+> CONTEXT: States/225/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+を守るために、夜深は意識を集中した！
 > CONTEXT: Skills/898/message1 < UNTRANSLATED
 
 > END STRING
@@ -9788,5 +10289,938 @@ The incredible pleasure is draining \\N[1]'s willpower...#Strate
 > BEGIN STRING
 ロゴス・マギア
 > CONTEXT: Skills/899/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はロゴス・マギアを放った！
+> CONTEXT: Skills/899/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+夜深は魔撃の号令を放った！！
+> CONTEXT: Skills/900/message2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+夜深のサポートスキル。
+このターンの間、\\N[1]の魔法攻撃力を大幅に上昇させる。
+> CONTEXT: Skills/900/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔撃の号令
+> CONTEXT: Skills/900/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+のサポートスキル発動！
+> CONTEXT: Skills/900/message1 < UNTRANSLATED
+> CONTEXT: Skills/931/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[1]には、その剣先を目視することすら出来ない！！
+> CONTEXT: Skills/901/message2 < UNTRANSLATED
+> CONTEXT: Skills/904/message2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ノブレス・オブリージュ
+> CONTEXT: Skills/901/name < UNTRANSLATED
+> CONTEXT: Skills/904/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は、凄まじい連続突きを放ってきた！
+> CONTEXT: Skills/901/message1 < UNTRANSLATED
+> CONTEXT: Skills/904/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[1]の傷が、徐々に癒やされていく…
+> CONTEXT: Skills/902/message2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+謎の仮面男【Ｐ】のサポートスキル
+抵抗力を４回に分けて回復する。分けている意図は不明
+> CONTEXT: Skills/902/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+キャツベ
+> CONTEXT: Skills/902/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の傍らで、Ｐちゃんはキャツベを放った！
+> CONTEXT: Skills/902/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+両手に風と雷の魔法を込めながら、Ｐちゃんが疾走する…！
+> CONTEXT: Skills/903/message2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+謎の仮面男【Ｐ】のサポートスキル
+相手に風と雷属性のダメージを5回与える
+> CONTEXT: Skills/903/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ナンディオン
+> CONTEXT: Skills/903/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の傍らで、Ｐちゃんはナンディオンを放った！
+> CONTEXT: Skills/903/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[1]の前方に、灼熱の業火が展開される…！！
+> CONTEXT: Skills/905/message2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+プロミネンス
+> CONTEXT: Skills/905/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の傍らで、アリスはプロミネンスを放った！
+> CONTEXT: Skills/905/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[1]の前方に、凍てつく絶対零度が展開される…！！
+> CONTEXT: Skills/906/message2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アリスのサポートスキル。
+相手に魔法の氷結属性特大ダメージを与える。
+> CONTEXT: Skills/906/description < UNTRANSLATED
+> CONTEXT: Skills/938/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アイスエイジ
+> CONTEXT: Skills/906/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の傍らで、アリスはアイスエイジを放った！
+> CONTEXT: Skills/906/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[1]の前方に、無慈悲な閃光を放つ雷の渦が展開される…！！
+> CONTEXT: Skills/907/message2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アリスのサポートスキル。
+相手に魔法の電撃属性特大ダメージを与える。
+> CONTEXT: Skills/907/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ライトニング
+> CONTEXT: Skills/907/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の傍らで、アリスはライトニングを放った！
+> CONTEXT: Skills/907/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[1]の前方に、凄まじい真空波が展開される…！！
+> CONTEXT: Skills/908/message2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アリスのサポートスキル。
+相手に魔法の疾風属性大ダメージを与える。
+> CONTEXT: Skills/908/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+デルタエアロ
+> CONTEXT: Skills/908/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の傍らで、アリスはデルタエアロを放った！
+> CONTEXT: Skills/908/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[2]味方の風・雷属性の被ダメージ軽減
+\\C[6]味方の物理・魔法命中率２０％上昇
+> CONTEXT: Skills/910/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シルフ
+> CONTEXT: Skills/910/name < UNTRANSLATED
+> CONTEXT: States/233/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はシルフを召喚した！
+> CONTEXT: Skills/910/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[2]味方の物理属性の被ダメージ軽減
+\\C[6]味方のスタン無効付与
+> CONTEXT: Skills/911/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ノーム
+> CONTEXT: Skills/911/name < UNTRANSLATED
+> CONTEXT: States/235/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はノームを召喚した！
+> CONTEXT: Skills/911/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[2]味方の物理・魔法攻撃力上昇
+\\C[6]味方の恍惚無効
+> CONTEXT: Skills/912/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サラマンダー
+> CONTEXT: Skills/912/name < UNTRANSLATED
+> CONTEXT: States/232/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はサラマンダーを召喚した！
+> CONTEXT: Skills/912/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[2]味方の氷・炎属性の被ダメージ軽減
+\\C[6]味方の物理・魔法回避率２０％上昇
+> CONTEXT: Skills/913/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ウンディーネ
+> CONTEXT: Skills/913/name < UNTRANSLATED
+> CONTEXT: States/234/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はウンディーネを召喚した！
+> CONTEXT: Skills/913/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+瞑想
+> CONTEXT: Skills/914/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は目を閉じ、瞑想をした！
+> CONTEXT: Skills/914/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+相手に物理属性のダメージを与える
+\\C[2]必中攻撃。
+> CONTEXT: Skills/915/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔剣・首狩り
+> CONTEXT: Skills/915/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は魔剣・首狩りを放った！
+> CONTEXT: Skills/915/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+相手に風属性の物理ダメージを与える。
+\\C[2]戦闘開始時であればあるほどダメージアップ。
+> CONTEXT: Skills/916/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+血裂雷鳴突き
+> CONTEXT: Skills/916/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は血裂雷鳴突きを放った！
+> CONTEXT: Skills/916/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+強烈な一撃が大地をも砕く！
+> CONTEXT: Skills/917/message2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+相手に雷属性の物理ダメージを与える
+\\C[2]クリティカル率が高い。
+> CONTEXT: Skills/917/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+壊斧・大山鳴動
+> CONTEXT: Skills/917/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の身体に土が宿り、渾身の一撃を繰り出した！
+> CONTEXT: Skills/917/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+明鏡止水の剣閃が全てを斬る！
+> CONTEXT: Skills/918/message2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+相手に氷属性の物理ダメージを与える
+\\C[2]このターンの攻撃を必中以外回避する。
+> CONTEXT: Skills/918/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔刀・明鏡止水
+> CONTEXT: Skills/918/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は一旦剣を鞘に収め、居合い斬りを繰り出した！
+> CONTEXT: Skills/918/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+相手に物理攻撃のダメージを与える
+\\C[2]相手に攻撃低下・敏捷低下のデバフを付ける
+> CONTEXT: Skills/919/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+天魔頭蓋斬
+> CONTEXT: Skills/919/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は天魔頭蓋斬を放った！
+> CONTEXT: Skills/919/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+相手に無属性の物理ダメージを５回与える
+\\C[2]与えるダメージの振り幅が大きい
+> CONTEXT: Skills/920/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+死剣・乱れ星
+> CONTEXT: Skills/920/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は死剣・乱れ星を放った！
+> CONTEXT: Skills/920/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ルカは会心状態になった！！
+> CONTEXT: Skills/921/message2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+次の物理攻撃を必ずクリティカルにする
+\\C[2]ターンを消費しない。\\C[30]【初心】とは効果が重複しない。
+> CONTEXT: Skills/921/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+裏練気
+> CONTEXT: Skills/921/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は集中した！
+> CONTEXT: Skills/921/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ルカのＳＰ回復量が一時的に増加した！
+> CONTEXT: Skills/922/message2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+３ターンの間、ＳＰ回復量が＋１
+\\C[2]ターンを消費しない。\\C[30]【裏練気】とは効果が重複しない。
+> CONTEXT: Skills/922/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+初心
+> CONTEXT: Skills/922/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は身体の力を抜き、無の境地に入った！
+> CONTEXT: Skills/922/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+闇でできた大きな手が、敵を執拗に襲う…！
+> CONTEXT: Skills/923/message2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+謎の仮面男【Ｐ】のサポートスキル
+相手に闇属性の大ダメージを与え、相手の全能力を下げる。
+> CONTEXT: Skills/923/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ギル・メギド
+> CONTEXT: Skills/923/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の傍らで、Ｐちゃんはギル・メギドを放った！
+> CONTEXT: Skills/923/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+謎の仮面男【Ｐ】のサポートスキル
+\\N[1]の全能力を３ターン大幅上昇させる
+> CONTEXT: Skills/924/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヒーロータイム
+> CONTEXT: Skills/924/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の傍らで、Ｐちゃんはヒーロータイムを放った！
+> CONTEXT: Skills/924/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+デュアルブレードでの、目にもとまらぬ乱舞が相手を襲う…！
+> CONTEXT: Skills/925/message2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+謎の仮面男【Ｐ】のサポートスキル
+相手に物理属性の８回ダメージを与える
+> CONTEXT: Skills/925/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ノヴァ・スラッシュ
+> CONTEXT: Skills/925/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の傍らで、Ｐちゃんはノヴァ・スラッシュを放った！
+> CONTEXT: Skills/925/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ソテイラ・ヘカトスのサポートスキル
+相手に火炎の超特大ダメージを与える
+> CONTEXT: Skills/926/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の傍らで、ヘカトスはサイガ・アグニを放った！
+> CONTEXT: Skills/926/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+彼女を中心に、時空そのものが歪んでいく…！！
+> CONTEXT: Skills/927/message2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ソテイラ・ヘカトスのサポートスキル
+相手に万能の大ダメージを与え、全能力を下げる。
+> CONTEXT: Skills/927/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+満月の女王
+> CONTEXT: Skills/927/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の傍らで、ヘカトスはその大きな鎌を回転させた！
+> CONTEXT: Skills/927/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ソテイラ・ヘカトスのサポートスキル
+味方全員の能力を大幅に強化する。
+> CONTEXT: Skills/928/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔女帝の号令
+> CONTEXT: Skills/928/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+達に向けて、ヘカトスは号令を放った！
+> CONTEXT: Skills/928/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ソテイラ・ヘカトスのサポートスキル
+味方全員を全回復する。性欲も0にする。
+> CONTEXT: Skills/929/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔女帝の祝福
+> CONTEXT: Skills/929/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+達に向けて、ヘカトスは祝福の呪文を放った！
+> CONTEXT: Skills/929/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+地面を伝い、衝撃波は迷いなく相手へ直撃する！
+> CONTEXT: Skills/930/message2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ヘルインパクト
+> CONTEXT: Skills/930/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ミズキは剛撃の号令を放った！！
+> CONTEXT: Skills/931/message2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ミズキのサポートスキル。
+このターンの間、\\N[1]の物理攻撃力を大幅に上昇させる。
+> CONTEXT: Skills/931/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+剛撃の号令
+> CONTEXT: Skills/931/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+大天使中村のサポートスキル
+味方全員の能力を３ターン上昇させる。
+> CONTEXT: Skills/932/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+大天使の目利き
+> CONTEXT: Skills/932/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+達に向けて、中村は激励の言葉を放った！
+> CONTEXT: Skills/932/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+大天使中村のサポートスキル
+味方全員を全回復し、ルカのＳＰを１回復させる。
+> CONTEXT: Skills/933/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+大天使の祝福
+> CONTEXT: Skills/933/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+達に向けて、中村は祝福の言葉を放った！
+> CONTEXT: Skills/933/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+大天使中村のサポートスキル
+３ターンの間、敵の全能力を下げる
+> CONTEXT: Skills/934/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+大天使の一喝
+> CONTEXT: Skills/934/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の傍らで、中村は敵に向かって一喝した！
+> CONTEXT: Skills/934/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+戦闘時に気力１００ptを、ＳＰ＋１として変換し
+勇者技や特技、スキルを使用できる。
+> CONTEXT: Skills/935/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+技巧変換
+> CONTEXT: Skills/935/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+全ての者への鎮魂歌
+> CONTEXT: Skills/936/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は全ての者への鎮魂歌を放った！
+> CONTEXT: Skills/936/message1 < UNTRANSLATED
+> CONTEXT: Skills/937/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+相手の攻撃を防ぐ体勢をとる
+> CONTEXT: Skills/937/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+盾
+> CONTEXT: Skills/937/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[1]の全身に力がみなぎる…！
+> CONTEXT: Skills/938/message2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+四大精霊の加護
+> CONTEXT: Skills/938/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+に向かって、ルカは精霊たちを喚びだした！
+> CONTEXT: Skills/938/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\N[1]の前方に、すさまじい魔力が展開される…！！
+> CONTEXT: Skills/939/message2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔王の暴虐
+> CONTEXT: Skills/939/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の傍らで、アリスは魔王の暴虐を放った！
+> CONTEXT: Skills/939/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+その逞しい巨漢から繰り出される打撃が、アバドーンに襲いかかる！
+> CONTEXT: Skills/940/message2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+胴回し回転蹴り
+> CONTEXT: Skills/940/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の傍らで、中村は胴回し回転蹴りを放った
+> CONTEXT: Skills/940/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[10]僕と君がここまで来られた理由
+> CONTEXT: Skills/941/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だが、オールドワンはリニアキャノンの弾を握りつぶした！
+> CONTEXT: Skills/943/message2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+とルカはリニアキャノンを放った！
+> CONTEXT: Skills/943/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+リニアキャノンがオールドワンの頭上に降りかかる！！
+> CONTEXT: Skills/944/message2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+インディペンデンス・デイ
+> CONTEXT: Skills/944/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はリニアキャノンをぶん投げた！
+> CONTEXT: Skills/944/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[13]【属性】物理　\\C[14]【威力】中×３
+\\C[0]特性：\\C[24]必中攻撃
+> CONTEXT: Skills/945/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はマスケットを放った！
+> CONTEXT: Skills/945/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\\>\\C[13]【属性】物理　\\C[14]【威力】小×5
+\\\>\\C[0]特性：\\C[24]次ターン、ルカより先に行動できる
+> CONTEXT: Skills/946/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+フリントロック
+> CONTEXT: Skills/946/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はフリントロックを放った！
+> CONTEXT: Skills/946/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はてつはうを放った！
+> CONTEXT: Skills/947/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\\>\\C[13]【属性】物理　\\C[14]【威力】大×１
+\\\>\\C[0]特性：\\C[24]装備中、被ダメージが半減。
+> CONTEXT: Skills/948/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+カノン砲
+> CONTEXT: Skills/948/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はカノン砲を放った！
+> CONTEXT: Skills/948/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\\>\\C[13]【属性】無　\\C[14]【威力】大×２
+\\\>\\C[0]特性：\\C[24]装備中、被ダメージ増加
+> CONTEXT: Skills/949/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+手りゅう弾
+> CONTEXT: Skills/949/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は手りゅう弾を放った！
+> CONTEXT: Skills/949/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\\>\\C[13]【属性】無　\\C[14]【威力】特大×３
+\\\>\\C[2]武器切り替えを一定回数行う事で使用可能になる。
+> CONTEXT: Skills/950/description < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ジャッジメント・デイ
+> CONTEXT: Skills/950/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はジャッジメント・デイを放った！
+> CONTEXT: Skills/950/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+食らいつき
+> CONTEXT: Skills/953/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は\\N[1]に食らいついてきた！
+> CONTEXT: Skills/953/message1 < UNTRANSLATED
 
 > END STRING

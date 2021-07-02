@@ -225,9 +225,9 @@
 > END STRING
 
 > BEGIN STRING
-"%sは魔法を打ち消した！"
+"%sは攻撃を打ち消した！" < UNTRANSLATED
 > CONTEXT: Scripts/Vocab/71:21
-"%s negated the spell!"#Dargoth
+
 > END STRING
 
 > BEGIN STRING
@@ -237,50 +237,50 @@
 > END STRING
 
 > BEGIN STRING
-"%sの反撃！"
+"のサポートスキル発動！" < UNTRANSLATED
 > CONTEXT: Scripts/Vocab/73:21
-"%s counterattacks!"#Dargoth
+
 > END STRING
 
 > BEGIN STRING
 "%sが%sをかばった！"
-> CONTEXT: Scripts/Vocab/74:21
+> CONTEXT: Scripts/Vocab/75:21
 "%s protected %s!"#Dargoth
 > END STRING
 
 > BEGIN STRING
 "%sの%sが上がった！"
-> CONTEXT: Scripts/Vocab/77:21
+> CONTEXT: Scripts/Vocab/78:21
 "%s's %s has increased!"#Dargoth
 > END STRING
 
 > BEGIN STRING
 "%sの%sが下がった！"
-> CONTEXT: Scripts/Vocab/78:21
+> CONTEXT: Scripts/Vocab/79:21
 "%s's %s has decreased!"#Dargoth
 > END STRING
 
 > BEGIN STRING
 "%sの%sが元に戻った！"
-> CONTEXT: Scripts/Vocab/79:21
+> CONTEXT: Scripts/Vocab/80:21
 "%s's %s returns to normal!"#Dargoth
 > END STRING
 
 > BEGIN STRING
 "%sには効かなかった！"
-> CONTEXT: Scripts/Vocab/82:21
+> CONTEXT: Scripts/Vocab/83:21
 "It had no effect on %s!"#Dargoth
 > END STRING
 
 > BEGIN STRING
 "プレイヤーの初期位置が設定されていません。"
-> CONTEXT: Scripts/Vocab/85:21
+> CONTEXT: Scripts/Vocab/86:21
 "Player's starting position is not set."#Lvl1
 > END STRING
 
 > BEGIN STRING
 "コモンイベントの呼び出しが上限を超えました。"
-> CONTEXT: Scripts/Vocab/86:21
+> CONTEXT: Scripts/Vocab/87:21
 "Common event calls exceeded the limit."#Lvl1
 > END STRING
 
@@ -1441,7 +1441,7 @@
 
 > BEGIN STRING
 "ゲーム内共有変数"
-> CONTEXT: Scripts/共通セーブ変数/73:6
+> CONTEXT: Scripts/共通セーブ変数/74:6
 "ゲーム内共有変数"#NoTL
 > END STRING
 
@@ -2034,6 +2034,78 @@
 > END STRING
 
 > BEGIN STRING
+"自動戦闘"
+> CONTEXT: Scripts/反撃特徴/176:14 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"防御"
+> CONTEXT: Scripts/反撃特徴/177:14 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"身代わり"
+> CONTEXT: Scripts/反撃特徴/178:14 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"TP持ち越し"
+> CONTEXT: Scripts/反撃特徴/179:14 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"エンカウント半減"
+> CONTEXT: Scripts/反撃特徴/181:14 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"エンカウント無効"
+> CONTEXT: Scripts/反撃特徴/182:14 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"不意打ち無効"
+> CONTEXT: Scripts/反撃特徴/183:14 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"先制攻撃率アップ"
+> CONTEXT: Scripts/反撃特徴/184:14 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"獲得金額二倍"
+> CONTEXT: Scripts/反撃特徴/185:14 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"アイテム入手率二倍"
+> CONTEXT: Scripts/反撃特徴/186:14 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"夜深は%sへの攻撃を%sで反撃した！"
+> CONTEXT: Scripts/反撃設定/95:26 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"%sは魔法を%sに変化させて跳ね返した！"
+> CONTEXT: Scripts/反撃設定/97:26 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
 "戦闘時非表示"
 > CONTEXT: Scripts/非表示アイテム/63:3
 "戦闘時非表示"#NoTL
@@ -2505,13 +2577,13 @@
 
 > BEGIN STRING
 "必要素材"
-> CONTEXT: Scripts/アイテム合成/796:21
+> CONTEXT: Scripts/アイテム合成/797:21
 "Required Materials"#Triketos
 > END STRING
 
 > BEGIN STRING
 "Z: 素材 ⇔ ステータス 表示切り替え"
-> CONTEXT: Scripts/アイテム合成/931:12
+> CONTEXT: Scripts/アイテム合成/932:12
 "Z: Material ⇔ Status Switch Display"#Triketos
 > END STRING
 
@@ -2631,7 +2703,7 @@
 
 > BEGIN STRING
 "シンボルエンカウント補助"
-> CONTEXT: Scripts/シンボルエンカウント/210:6
+> CONTEXT: Scripts/シンボルエンカウント/225:6
 "シンボルエンカウント補助"#NoTL
 > END STRING
 
@@ -3272,6 +3344,46 @@ the L and R buttons. If you're using a keyboard, I suppose it'd be
 the Q and W keys. Anyway, hold down those two from the title screen
 until you get to the next screen.
 =============================================="#Ron
+> END STRING
+
+> BEGIN STRING
+"件名：
+ 　　　送信者【百鬼】
+
+ 《本文》==========================================
+タイトル画面で、『START』を押すときに
+LボタンとRボタンを押しっぱなしにしておくんだ
+キーボードだと、『Ｑキー』と『Ｗキー』かな
+とにかく、この二つのボタンを、
+『タイトル画面から次の画面に切り替わる』まで
+押しっぱなしにしておくんだよ
+=================================================="
+> CONTEXT: Scripts/テキスト出力/324:12 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"対象不可エネミー"
+> CONTEXT: Scripts/ターゲット指定不可エネミー/38:6 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"対象不可"
+> CONTEXT: Scripts/ターゲット指定不可エネミー/42:24 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"プラス"
+> CONTEXT: Scripts/クリティカル倍率指定/146:44 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"マイナス"
+> CONTEXT: Scripts/クリティカル倍率指定/147:47 < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
