@@ -16905,35 +16905,38 @@ as her objective is to violate you.#Ron
 
 > BEGIN STRING
 ハイスラッグ【初戦】
-> CONTEXT: Troops/350/name < UNTRANSLATED
-
+> CONTEXT: Troops/350/name
+High Slug [First Battle]#Ron
 > END STRING
 
 > BEGIN STRING
 ハイスラッグ娘が現れた！
-> CONTEXT: Troops/350/pages/1/1/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/365/pages/1/1/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/366/pages/1/1/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/367/pages/1/1/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/410/pages/0/10/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/350/pages/1/1/Dialogue
+> CONTEXT: Troops/365/pages/1/1/Dialogue
+> CONTEXT: Troops/366/pages/1/1/Dialogue
+> CONTEXT: Troops/367/pages/1/1/Dialogue
+> CONTEXT: Troops/410/pages/0/10/Dialogue
+High Slug Girl appears!#Ron
 > END STRING
 
 > BEGIN STRING
 ハイスラッグ娘は禍々しいオーラを放ち始めた…… 
-> CONTEXT: Troops/350/pages/1/18/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/351/pages/1/16/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/385/pages/3/4/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/385/pages/4/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/350/pages/1/18/Dialogue
+> CONTEXT: Troops/351/pages/1/16/Dialogue
+> CONTEXT: Troops/385/pages/3/4/Dialogue
+> CONTEXT: Troops/385/pages/4/4/Dialogue
+High Slug Girl has started emitting an ominous aura.#Ron
 > END STRING
 
 > BEGIN STRING
 \\N[1]、気を付けろ！ 
 
 またさっきの攻撃が来るぞ！！ 
-> CONTEXT: Troops/350/pages/1/20/Dialogue/other1 < UNTRANSLATED
+> CONTEXT: Troops/350/pages/1/20/Dialogue/other1
+Be careful!
 
+She's about to fire off that earlier attack
+again!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -16941,8 +16944,11 @@ as her objective is to violate you.#Ron
 見てから回避を始めてたら間に合わない！ 
 
 \\c[2]攻撃を捨てて、回避に集中しろ！ 
-> CONTEXT: Troops/350/pages/1/24/Dialogue/other1 < UNTRANSLATED
-
+> CONTEXT: Troops/350/pages/1/24/Dialogue/other1
+With how fast it moves, no matter how powerful
+you are, it'll be too late to dodge by the time
+you see it coming! \\c[2]Forget about attacking
+and just concentrate on evasion!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -16950,8 +16956,11 @@ as her objective is to violate you.#Ron
 
 あの子達からは、強いオスだと聞いていたのに 
 思いの外、弱腰なのね？ 
-> CONTEXT: Troops/350/pages/1/29/Dialogue/highslag_fc1 < UNTRANSLATED
+> CONTEXT: Troops/350/pages/1/29/Dialogue/highslag_fc1
+Oh my, going to play it safe?
 
+Those twins told me you were a strong male, but
+you're acting surprisingly weak.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -16959,16 +16968,22 @@ as her objective is to violate you.#Ron
 貴方の好きなように攻め立ててくれても…♡ 
 
 貴方の男らしさ、私に見せてちょうだい♡ 
-> CONTEXT: Troops/350/pages/1/34/Dialogue/highslag_fc1 < UNTRANSLATED
+> CONTEXT: Troops/350/pages/1/34/Dialogue/highslag_fc1
+Fufufu, it's okay, you can come charging at me
+any way you like. ♡
 
+Show me just how manly you are. ♡#Ron
 > END STRING
 
 > BEGIN STRING
 分かりやすい挑発だ…… 
 
 明らかに今、\\c[2]回避以外の行動をとるのは危険すぎる 
-> CONTEXT: Troops/350/pages/1/41/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/350/pages/1/41/Dialogue
+An obvious provocation.
 
+It's clear that \\c[2]any course of action other than evasion
+would be far too dangerous.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -16976,8 +16991,11 @@ as her objective is to violate you.#Ron
 
 彼女のレイピアの死角を見つければ、 
 攻撃のチャンスが生まれるはずだ…！ 
-> CONTEXT: Troops/350/pages/1/45/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/350/pages/1/45/Dialogue
+I'll keep evading and maneuver to get behind her.
 
+If I can find her blind spot, that should create an
+opening to attack!#Ron
 > END STRING
 
 > BEGIN STRING
