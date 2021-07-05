@@ -10256,8 +10256,8 @@ The incredible pleasure is draining \\N[1]'s willpower...#Strate
 
 > BEGIN STRING
 猫翔斬
-> CONTEXT: Skills/897/name < UNTRANSLATED
-
+> CONTEXT: Skills/897/name
+Flying Feline Slash#Ron
 > END STRING
 
 > BEGIN STRING
@@ -10270,20 +10270,21 @@ The incredible pleasure is draining \\N[1]'s willpower...#Strate
 夜深のサポートスキル。
 このターンで\\N[1]が受ける物理攻撃を無効化し、回数分反撃する。
 > CONTEXT: Skills/898/description < UNTRANSLATED
-
+One of Yami's support skills.
+Nullifies received physical damage and counterattacks.#Ron
 > END STRING
 
 > BEGIN STRING
 統治者の眼光
-> CONTEXT: Skills/898/name < UNTRANSLATED
-> CONTEXT: States/225/name < UNTRANSLATED
-
+> CONTEXT: Skills/898/name
+> CONTEXT: States/225/name
+Sovereign's Insight#Ron
 > END STRING
 
 > BEGIN STRING
 を守るために、夜深は意識を集中した！
-> CONTEXT: Skills/898/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/898/message1
+'s defense in mind, Yami centers herself.#RonLocalisation
 > END STRING
 
 > BEGIN STRING
@@ -10308,13 +10309,14 @@ The incredible pleasure is draining \\N[1]'s willpower...#Strate
 夜深のサポートスキル。
 このターンの間、\\N[1]の魔法攻撃力を大幅に上昇させる。
 > CONTEXT: Skills/900/description < UNTRANSLATED
-
+One of Yami's support skills. Drastically increases
+\\N[1]'s magic attack on the turn it's used.
 > END STRING
 
 > BEGIN STRING
 魔撃の号令
-> CONTEXT: Skills/900/name < UNTRANSLATED
-
+> CONTEXT: Skills/900/name
+Demon Attack Order#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -10326,9 +10328,9 @@ The incredible pleasure is draining \\N[1]'s willpower...#Strate
 
 > BEGIN STRING
 \\N[1]には、その剣先を目視することすら出来ない！！
-> CONTEXT: Skills/901/message2 < UNTRANSLATED
-> CONTEXT: Skills/904/message2 < UNTRANSLATED
-
+> CONTEXT: Skills/901/message2
+> CONTEXT: Skills/904/message2
+The tip of her blade is a blur!!#RonLocalization
 > END STRING
 
 > BEGIN STRING
