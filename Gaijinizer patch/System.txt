@@ -157,12 +157,6 @@ Item#Dargoth
 > END STRING
 
 > BEGIN STRING
-スキル
-> CONTEXT: System/terms/commands/5
-Skill#Dargoth
-> END STRING
-
-> BEGIN STRING
 装備
 > CONTEXT: System/terms/commands/6
 Equip#Dargoth
@@ -251,6 +245,7 @@ Willpower#Dargoth
 > CONTEXT: System/terms/basic/3
 Will#Dargoth
 > CONTEXT: System/skill_types/4
+> CONTEXT: System/skill_types/31
 Struggle#Dargoth
 > END STRING
 
@@ -278,6 +273,8 @@ Magic#Dargoth
 行動
 > CONTEXT: System/skill_types/3
 > CONTEXT: System/skill_types/24
+> CONTEXT: System/skill_types/30
+> CONTEXT: System/skill_types/37
 Actions#Dargoth
 > END STRING
 
@@ -337,6 +334,18 @@ Here ■#MTLed
 > END STRING
 
 > BEGIN STRING
+■【サポート】■
+> CONTEXT: System/skill_types/26 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+勇者技・特技
+> CONTEXT: System/skill_types/35 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
 斧
 > CONTEXT: System/weapon_types/1
 Axe#Dargoth
@@ -352,12 +361,6 @@ Claw#Dargoth
 槍
 > CONTEXT: System/weapon_types/3
 Spear#Dargoth
-> END STRING
-
-> BEGIN STRING
-剣
-> CONTEXT: System/weapon_types/4
-Sword#Dargoth
 > END STRING
 
 > BEGIN STRING
@@ -394,6 +397,20 @@ Staff#Dargoth
 銃
 > CONTEXT: System/weapon_types/10
 Gun#Dargoth
+> END STRING
+
+> BEGIN STRING
+ルカ専用
+> CONTEXT: System/weapon_types/11 < UNTRANSLATED
+> CONTEXT: System/armor_types/9 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+マリオン専用
+> CONTEXT: System/weapon_types/12 < UNTRANSLATED
+> CONTEXT: System/armor_types/10 < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -436,4 +453,10 @@ Melee#Dargoth
 ライフル専用
 > CONTEXT: System/armor_types/8
 Rifle Only#afrg
+> END STRING
+
+> BEGIN STRING
+共用
+> CONTEXT: System/armor_types/11 < UNTRANSLATED
+
 > END STRING
