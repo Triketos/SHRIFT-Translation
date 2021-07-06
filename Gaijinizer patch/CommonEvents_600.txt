@@ -6,9 +6,9 @@
 > CONTEXT: CommonEvents_600/35/Dialogue 
 > CONTEXT: CommonEvents_606/48/Dialogue 
 > CONTEXT: CommonEvents_606/118/Dialogue 
-Beetle Harpy Queen is back in shape......
+The Harpy Queen reverts her posture...
 
-\\C[2] seems to be in battle ...#GT
+\\C[2]She seems to be in a combat stance...#Amaboye
 > END STRING
 
 > BEGIN STRING
@@ -17,11 +17,10 @@ Beetle Harpy Queen is back in shape......
 
 \\C[2]もう後が無い……！！
 > CONTEXT: CommonEvents_600/70/Dialogue 
-\\N[1] is grabbed by Beetle Harpy,
-It will be carried to the chest of the
-queen gradually ...!
+\\N[1], shoulders held by the Harpy Spawn, is
+dragged to the Queen's chest!
 
-\\C[2] There are no more ......! !#GT
+\\C[2]There's no more time...!!#Amaboye
 
 > END STRING
 
@@ -32,8 +31,6 @@ queen gradually ...!
 > CONTEXT: CommonEvents_600/81/Dialogue 
 > CONTEXT: CommonEvents_600/91/Dialogue 
 > CONTEXT: CommonEvents_601/50/Dialogue 
-\\N[1] is grabbed by Beetle Harpy,
-
-It will be carried to the chest of the
-queen gradually ...!#GT
+\\N[1], shoulders held by the Harpy Spawn, is
+dragged to the Queen's chest!#Amaboye
 > END STRING
