@@ -1,26 +1,26 @@
 ﻿> GAIJINIZER PATCH FILE
 > BEGIN STRING
 \\C[6]■　特技・勇者技en(s[999999999])
-> CONTEXT: CommonEvents_713/1/Choice/0 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_713/1/Choice/0
+\\C[6]■ Hero Skills ■en(s[999999999])#Ron
 > END STRING
 
 > BEGIN STRING
 \\I[131]【魔剣・首刈り】　　\\C[3]ＳＰ－１en(v[223] \>= 1) 
-> CONTEXT: CommonEvents_713/1/Choice/1 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_713/1/Choice/1
+\\I[131][Demon Decapitation] \\C[3]1 SPen(v[223] \>= 1)#Ron
 > END STRING
 
 > BEGIN STRING
 \\I[131]【血裂雷鳴突き】　　\\C[3]ＳＰ－２en(v[223] \>= 2) 
-> CONTEXT: CommonEvents_713/1/Choice/2 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_713/1/Choice/2
+\\I[131][Bloody Fissure Thunder Thrust] \\C[3]2 SPen(v[223] \>= 2)#Ron
 > END STRING
 
 > BEGIN STRING
 \\I[131]【壊斧・大山鳴動】　\\C[3]ＳＰ－３en(v[223] \>= 3) 
-> CONTEXT: CommonEvents_713/1/Choice/3 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_713/1/Choice/3
+\\I[131][Earth Rumbling Decapitation] \\C[3]3 SPen(v[223] \>= 3)#Ron
 > END STRING
 
 > BEGIN STRING
@@ -28,14 +28,18 @@
 \\\>\\C[13]【属性】物理　\\C[14]【威力】中
 \\\>\\C[0]相手に物理属性のダメージを与える
 \\\>\\C[2]必中攻撃。
-> CONTEXT: CommonEvents_713/5/ChoiceHelp < UNTRANSLATED
-
+> CONTEXT: CommonEvents_713/5/ChoiceHelp
+\\\>\\C[13]Type:Physical \\C[14]Power: Medium
+\\\>\\C[0]Deals physical damage to an opponent.
+\\\>\\C[2]Guaranteed hit.#Ron
 > END STRING
 
 > BEGIN STRING
 もらった！魔剣・首狩り！！
-> CONTEXT: CommonEvents_713/21/Dialogue/ruka_fc1 < UNTRANSLATED
+> CONTEXT: CommonEvents_713/21/Dialogue/ruka_fc1
+Take this!
 
+Demon Decapitation!!#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -44,14 +48,17 @@
 \\\>\\C[0]相手に風属性の物理ダメージを与える。
 \\\>\\C[2]戦闘開始時であればあるほどダメージアップ。
 \\\>\\C[30]精霊シルフ発動中にダメージアップ
-> CONTEXT: CommonEvents_713/31/ChoiceHelp < UNTRANSLATED
-
+> CONTEXT: CommonEvents_713/31/ChoiceHelp
+\\\>\\C[13]Type: Wind　\\C[14]Power: Variable
+\\\>\\C[0]Deals wind damage to an enemy.
+\\\>\\C[2]Damage increased if used at the start of battle.
+\\\>\\C[30]Damage increased if used while Sylph is active.#Ron
 > END STRING
 
 > BEGIN STRING
 いくぞ！血裂雷鳴突き！！
-> CONTEXT: CommonEvents_713/48/Dialogue/ruka_fc1 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_713/48/Dialogue/ruka_fc1
+Go, Bloody Fissure Thunder Thrust!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -60,22 +67,27 @@
 \\\>\\C[0]相手に雷属性の物理ダメージを与える
 \\\>\\C[2]クリティカル率が高い。
 \\\>\\C[30]精霊ノーム発動中にダメージアップ
-> CONTEXT: CommonEvents_713/58/ChoiceHelp < UNTRANSLATED
-
+> CONTEXT: CommonEvents_713/58/ChoiceHelp
+\\\>\\C[13]Type: Lightning　\\C[14]Power: High
+\\\>\\C[0]Deals lightning damage to an enemy.
+\\\>\\C[2]High chance to get a critical.
+\\\>\\C[30]Damage increased if used while Gnome is active.#Ron
 > END STRING
 
 > BEGIN STRING
 大地の力を全てぶつける！
 
 壊斧・大山鳴動！！
-> CONTEXT: CommonEvents_713/75/Dialogue/ruka_fc1 < UNTRANSLATED
+> CONTEXT: CommonEvents_713/75/Dialogue/ruka_fc1
+Be struck with all the power of earth!!
 
+Earth Rumbling Decapitation!!#RonIffyWording
 > END STRING
 
 > BEGIN STRING
 \\I[131]【魔刀・明鏡止水】　\\C[3]ＳＰ－３en(v[223] \>= 3) 
-> CONTEXT: CommonEvents_713/88/Choice/0 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_713/88/Choice/0
+\\I[131][Serene Demon Sword] \\C[3]3 SPen(v[223] \>= 3)#Ron
 > END STRING
 
 > BEGIN STRING
@@ -84,40 +96,45 @@
 \\\>\\C[0]相手に氷属性の物理ダメージを与える
 \\\>\\C[2]このターンの攻撃を必中以外回避する。
 \\\>\\C[30]精霊ウンディーネ発動中にダメージアップ
-> CONTEXT: CommonEvents_713/90/ChoiceHelp < UNTRANSLATED
-
+> CONTEXT: CommonEvents_713/90/ChoiceHelp
+\\\>\\C[13]Type: Ice　\\C[14]Power: Medium
+\\\>\\C[0]Deals ice damage to an enemy.
+\\\>\\C[2]Guaranteed evasion of all but auto-hit attacks.
+\\\>\\C[30]Damage increased if used while Undine is active.#CheckLater
 > END STRING
 
 > BEGIN STRING
 この一振りで、全てを断ち切る…！
 
 魔刀・明鏡止水！！
-> CONTEXT: CommonEvents_713/107/Dialogue/ruka_fc1 < UNTRANSLATED
+> CONTEXT: CommonEvents_713/107/Dialogue/ruka_fc1
+I'll cut through everything with this one strike!
 
+Serene Demon Sword!!#Ron
 > END STRING
 
 > BEGIN STRING
 \\I[131]【天魔頭蓋斬】　　　\\C[3]ＳＰ－３en(v[223] \>= 3) 
-> CONTEXT: CommonEvents_713/120/Choice/0 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_713/120/Choice/0
+\\I[131][Demon Skull Beheading] \\C[3]3 SPen(v[223] \>= 3)#Ron
 > END STRING
 
 > BEGIN STRING
 \\I[131]【死剣・乱れ星】　　\\C[3]ＳＰ－５en(v[223] \>= 5) 
-> CONTEXT: CommonEvents_713/120/Choice/1 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_713/120/Choice/1
+\\I[131][Death Sword Chaos Star] \\C[3]5 SPen(v[223] \>= 5)#Ron
 > END STRING
 
 > BEGIN STRING
 \\I[9]【裏練気】　　　　　\\C[3]ＳＰ－３en(v[223] \>= 3) 
-> CONTEXT: CommonEvents_713/120/Choice/2 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_713/120/Choice/2
+\\I[131][Shadow-Honed Energy] \\C[3]5 SPen(v[223] \>= 3)#CheckLater
 > END STRING
 
 > BEGIN STRING
 \\I[115]【初心】　　　　　　\\C[3]ＳＰ－２en(v[223] \>= 2) 
-> CONTEXT: CommonEvents_713/120/Choice/3 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_713/120/Choice/3
+\\I[115][Focus]　　　　　　\\C[3]2 SPen(v[223] \>= 2)#CheckLater 
 > END STRING
 
 > BEGIN STRING
@@ -125,14 +142,18 @@
 \\\>\\C[13]【属性】物理　\\C[14]【威力】中
 \\\>\\C[0]相手に物理攻撃のダメージを与える
 \\\>\\C[2]相手に攻撃低下・敏捷低下のデバフを付ける
-> CONTEXT: CommonEvents_713/122/ChoiceHelp < UNTRANSLATED
-
+> CONTEXT: CommonEvents_713/122/ChoiceHelp
+\\\>\\C[13]Type: Physical　\\C[14]Power: Medium
+\\\>\\C[0]Deals physical damage to an enemy.
+\\\>\\C[2]Applies an attack and agility debuff.#Ron
 > END STRING
 
 > BEGIN STRING
 もらった！天魔頭蓋斬！！
-> CONTEXT: CommonEvents_713/138/Dialogue/ruka_fc1 < UNTRANSLATED
+> CONTEXT: CommonEvents_713/138/Dialogue/ruka_fc1
+Take this!
 
+Demon Skull Beheading!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -140,14 +161,18 @@
 \\\>\\C[13]【属性】無　\\C[14]【威力】特大
 \\\>\\C[0]相手に無属性の大ダメージを５回与える
 \\\>\\C[2]与えるダメージの振り幅が大きい
-> CONTEXT: CommonEvents_713/148/ChoiceHelp < UNTRANSLATED
-
+> CONTEXT: CommonEvents_713/148/ChoiceHelp
+\\\>\\C[13]Type: Void　\\C[14]Power: Very High
+\\\>\\C[0]Deals void damage to an enemy five times.
+\\\>\\C[2]Does a wide spread of damage.#CheckLater
 > END STRING
 
 > BEGIN STRING
 食らえっ！死剣・乱れ星！！
-> CONTEXT: CommonEvents_713/164/Dialogue/ruka_fc1 < UNTRANSLATED
+> CONTEXT: CommonEvents_713/164/Dialogue/ruka_fc1
+Eat this!
 
+Death Sword Chaos Star!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -156,15 +181,18 @@
 \\\>\\C[0]次の物理攻撃を必ずクリティカルにする
 \\\>\\C[2]ターンを消費しない。\\C[10]使用中は瞑想不可。
 \\\>\\C[30]【初心】とは効果が重複しない。
-> CONTEXT: CommonEvents_713/176/ChoiceHelp < UNTRANSLATED
-
+> CONTEXT: CommonEvents_713/176/ChoiceHelp
+\\\>\\C[13]Type: -　\\C[14]Power: -
+\\\>\\C[0]Guarantees a critical on the next attack.
+\\\>\\C[2]Doesn't use a turn. \\C[10]Cannot use meditate while active.
+\\\>\\C[30]Effect doesn't stack with [Focus].#Ron
 > END STRING
 
 > BEGIN STRING
 このスキルは、現在発動中です。
-> CONTEXT: CommonEvents_713/182/Dialogue < UNTRANSLATED
-> CONTEXT: CommonEvents_713/204/Dialogue < UNTRANSLATED
-
+> CONTEXT: CommonEvents_713/182/Dialogue
+> CONTEXT: CommonEvents_713/204/Dialogue
+This skill is already active.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -173,15 +201,18 @@
 \\\>\\C[0]３ターンの間、ＳＰ回復量が＋２
 \\\>\\C[2]ターンを消費しない。
 \\\>\\C[30]【裏練気】とは効果が重複しない。
-> CONTEXT: CommonEvents_713/198/ChoiceHelp < UNTRANSLATED
-
+> CONTEXT: CommonEvents_713/198/ChoiceHelp
+\\\>\\C[13]Type: - \\C[14]Power: -
+\\\>\\C[0]Recovers two SP each turn for three turns.
+\\\>\\C[2]Doesn't use a turn to activate.
+\\\>\\C[30]Effect doesn't stack with [Shadow-Honed Energy].#Ron
 > END STRING
 
 > BEGIN STRING
 \\C[6]【戻る】
-> CONTEXT: CommonEvents_713/220/Choice/0 < UNTRANSLATED
-> CONTEXT: CommonEvents_714/155/Choice/0 < UNTRANSLATED
-> CONTEXT: CommonEvents_761/84/Choice/0 < UNTRANSLATED
-> CONTEXT: CommonEvents_762/94/Choice/0 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_713/220/Choice/0
+> CONTEXT: CommonEvents_714/155/Choice/0
+> CONTEXT: CommonEvents_761/84/Choice/0
+> CONTEXT: CommonEvents_762/94/Choice/0
+\\C[6][Back]#Ron
 > END STRING

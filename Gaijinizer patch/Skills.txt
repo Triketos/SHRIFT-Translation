@@ -9764,11 +9764,12 @@ Demon Queen's Play#Ron
 > BEGIN STRING
 アリスのサポートスキル。
 相手に魔法の火炎属性特大ダメージを与える。
-> CONTEXT: Skills/855/description < UNTRANSLATED
-> CONTEXT: Skills/905/description < UNTRANSLATED
-> CONTEXT: Skills/939/description < UNTRANSLATED
-> CONTEXT: Skills/940/description < UNTRANSLATED
-
+> CONTEXT: Skills/855/description
+> CONTEXT: Skills/905/description
+> CONTEXT: Skills/939/description
+> CONTEXT: Skills/940/description
+One of Alice's support skills.
+Deals heavy fire damage to an enemy.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -10301,8 +10302,8 @@ Sovereign's Insight#Ron
 
 > BEGIN STRING
 夜深は魔撃の号令を放った！！
-> CONTEXT: Skills/900/message2 < UNTRANSLATED
-
+> CONTEXT: Skills/900/message2
+Yami unleashes Magic Attack Command!#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -10316,14 +10317,14 @@ One of Yami's support skills. Drastically increases
 > BEGIN STRING
 魔撃の号令
 > CONTEXT: Skills/900/name
-Demon Attack Order#RonIffyWording
+Magic Attack Command#RonIffyWording
 > END STRING
 
 > BEGIN STRING
 のサポートスキル発動！
-> CONTEXT: Skills/900/message1 < UNTRANSLATED
-> CONTEXT: Skills/931/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/900/message1
+> CONTEXT: Skills/931/message1
+　activates a support skill!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -10399,96 +10400,99 @@ Noblesse Oblige#Ron
 
 > BEGIN STRING
 \\N[1]の前方に、灼熱の業火が展開される…！！
-> CONTEXT: Skills/905/message2 < UNTRANSLATED
-
+> CONTEXT: Skills/905/message2
+Scorching hellfire is unleashed in front of him!!#Ron
 > END STRING
 
 > BEGIN STRING
 プロミネンス
-> CONTEXT: Skills/905/name < UNTRANSLATED
-
+> CONTEXT: Skills/905/name
+Prominence#Ron
 > END STRING
 
 > BEGIN STRING
 の傍らで、アリスはプロミネンスを放った！
-> CONTEXT: Skills/905/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/905/message1
+ hears Alice cast Prominence!#RonLocalisationIffy
 > END STRING
 
 > BEGIN STRING
 \\N[1]の前方に、凍てつく絶対零度が展開される…！！
 > CONTEXT: Skills/906/message2 < UNTRANSLATED
-
+The power of absolute zero is unleashed in front of him!#RonLocalization
 > END STRING
 
 > BEGIN STRING
 アリスのサポートスキル。
 相手に魔法の氷結属性特大ダメージを与える。
-> CONTEXT: Skills/906/description < UNTRANSLATED
-> CONTEXT: Skills/938/description < UNTRANSLATED
-
+> CONTEXT: Skills/906/description
+> CONTEXT: Skills/938/description
+One of Alice's support skills.
+Deals heavy ice damage to an enemy.#Ron
 > END STRING
 
 > BEGIN STRING
 アイスエイジ
-> CONTEXT: Skills/906/name < UNTRANSLATED
-
+> CONTEXT: Skills/906/name
+Ice Age#Ron
 > END STRING
 
 > BEGIN STRING
 の傍らで、アリスはアイスエイジを放った！
 > CONTEXT: Skills/906/message1 < UNTRANSLATED
-
+ hears cast Ice Age!#RonLocalisationIffy
 > END STRING
 
 > BEGIN STRING
 \\N[1]の前方に、無慈悲な閃光を放つ雷の渦が展開される…！！
 > CONTEXT: Skills/907/message2 < UNTRANSLATED
-
+A merciless vortex of lightning is unleashed!!#Ron
 > END STRING
 
 > BEGIN STRING
 アリスのサポートスキル。
 相手に魔法の電撃属性特大ダメージを与える。
-> CONTEXT: Skills/907/description < UNTRANSLATED
-
+> CONTEXT: Skills/907/description
+One of Alice's support skills.
+Deals heavy lightning damage to an enemy.#Ron
 > END STRING
 
 > BEGIN STRING
 ライトニング
-> CONTEXT: Skills/907/name < UNTRANSLATED
-
+> CONTEXT: Skills/907/name
+Lightning#Ron
 > END STRING
 
 > BEGIN STRING
 の傍らで、アリスはライトニングを放った！
-> CONTEXT: Skills/907/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/907/message1
+ hears Alice cast Lightning!#RonLocalisation
 > END STRING
 
 > BEGIN STRING
 \\N[1]の前方に、凄まじい真空波が展開される…！！
-> CONTEXT: Skills/908/message2 < UNTRANSLATED
-
+> CONTEXT: Skills/908/message2
+An intense wave of vacuum space is unleashed!!#Ron
 > END STRING
 
 > BEGIN STRING
 アリスのサポートスキル。
 相手に魔法の疾風属性大ダメージを与える。
-> CONTEXT: Skills/908/description < UNTRANSLATED
-
+> CONTEXT: Skills/908/description
+One of Alice's support skills.
+Deals heavy wind damage to an enemy.#Ron
 > END STRING
 
 > BEGIN STRING
 デルタエアロ
-> CONTEXT: Skills/908/name < UNTRANSLATED
-
+> CONTEXT: Skills/908/name
+Delta Aero#Ron
 > END STRING
 
 > BEGIN STRING
 の傍らで、アリスはデルタエアロを放った！
 > CONTEXT: Skills/908/message1 < UNTRANSLATED
-
+ hears Alice cast Delta Aero!#RonLocalisationIffy
 > END STRING
 
 > BEGIN STRING
@@ -10592,14 +10596,14 @@ Noblesse Oblige#Ron
 
 > BEGIN STRING
 魔剣・首狩り
-> CONTEXT: Skills/915/name < UNTRANSLATED
-
+> CONTEXT: Skills/915/name
+Demon Decapitation#Ron
 > END STRING
 
 > BEGIN STRING
 は魔剣・首狩りを放った！
-> CONTEXT: Skills/915/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/915/message1
+ unleashes Demon Decapitation!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -10611,20 +10615,20 @@ Noblesse Oblige#Ron
 
 > BEGIN STRING
 血裂雷鳴突き
-> CONTEXT: Skills/916/name < UNTRANSLATED
-
+> CONTEXT: Skills/916/name
+Bloody Fissure Thunder Thrust#Ron
 > END STRING
 
 > BEGIN STRING
 は血裂雷鳴突きを放った！
-> CONTEXT: Skills/916/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/916/message1
+ unleashes Bloody Fissure Thunder Thrust!#Ron
 > END STRING
 
 > BEGIN STRING
 強烈な一撃が大地をも砕く！
-> CONTEXT: Skills/917/message2 < UNTRANSLATED
-
+> CONTEXT: Skills/917/message2
+The powerful attack smashes even the ground apart!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -10636,20 +10640,20 @@ Noblesse Oblige#Ron
 
 > BEGIN STRING
 壊斧・大山鳴動
-> CONTEXT: Skills/917/name < UNTRANSLATED
-
+> CONTEXT: Skills/917/name
+Earth Rumbling Decapitation#Ron
 > END STRING
 
 > BEGIN STRING
 の身体に土が宿り、渾身の一撃を繰り出した！
-> CONTEXT: Skills/917/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/917/message1
+'s body unleashes a huge attack with the power of earth!#RonIffy
 > END STRING
 
 > BEGIN STRING
 明鏡止水の剣閃が全てを斬る！
-> CONTEXT: Skills/918/message2 < UNTRANSLATED
-
+> CONTEXT: Skills/918/message2
+His sword strike cleaves through everything!#RonLocalization
 > END STRING
 
 > BEGIN STRING
@@ -10661,14 +10665,14 @@ Noblesse Oblige#Ron
 
 > BEGIN STRING
 魔刀・明鏡止水
-> CONTEXT: Skills/918/name < UNTRANSLATED
-
+> CONTEXT: Skills/918/name
+Serene Demon Sword#Ron
 > END STRING
 
 > BEGIN STRING
 は一旦剣を鞘に収め、居合い斬りを繰り出した！
 > CONTEXT: Skills/918/message1 < UNTRANSLATED
-
+ sheathes his sword, before drawing it out in a big strike!#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -10680,14 +10684,14 @@ Noblesse Oblige#Ron
 
 > BEGIN STRING
 天魔頭蓋斬
-> CONTEXT: Skills/919/name < UNTRANSLATED
-
+> CONTEXT: Skills/919/name
+Demon Skull Beheading#Ron
 > END STRING
 
 > BEGIN STRING
 は天魔頭蓋斬を放った！
-> CONTEXT: Skills/919/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/919/message1
+ unleashes Demon Skull Beheading!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -10699,20 +10703,20 @@ Noblesse Oblige#Ron
 
 > BEGIN STRING
 死剣・乱れ星
-> CONTEXT: Skills/920/name < UNTRANSLATED
-
+> CONTEXT: Skills/920/name
+Death Sword Chaos Star#Ron
 > END STRING
 
 > BEGIN STRING
 は死剣・乱れ星を放った！
-> CONTEXT: Skills/920/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/920/message1
+ unleashes Death Sword Chaos Star!#Ron
 > END STRING
 
 > BEGIN STRING
 ルカは会心状態になった！！
-> CONTEXT: Skills/921/message2 < UNTRANSLATED
-
+> CONTEXT: Skills/921/message2
+Luka enters a state of mindfulness!!#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -10724,20 +10728,20 @@ Noblesse Oblige#Ron
 
 > BEGIN STRING
 裏練気
-> CONTEXT: Skills/921/name < UNTRANSLATED
-
+> CONTEXT: Skills/921/name
+Shadow-Honed Energy#Ron
 > END STRING
 
 > BEGIN STRING
 は集中した！
-> CONTEXT: Skills/921/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/921/message1
+ concentrates!#Ron
 > END STRING
 
 > BEGIN STRING
 ルカのＳＰ回復量が一時的に増加した！
-> CONTEXT: Skills/922/message2 < UNTRANSLATED
-
+> CONTEXT: Skills/922/message2
+Luka's SP recovery each turn has increased!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -10749,14 +10753,14 @@ Noblesse Oblige#Ron
 
 > BEGIN STRING
 初心
-> CONTEXT: Skills/922/name < UNTRANSLATED
-
+> CONTEXT: Skills/922/name
+Focus#Ron
 > END STRING
 
 > BEGIN STRING
 は身体の力を抜き、無の境地に入った！
-> CONTEXT: Skills/922/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/922/message1
+ releases energy from his body and clears his mind!#Ron
 > END STRING
 
 > BEGIN STRING
