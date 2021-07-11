@@ -3,8 +3,9 @@
 ヴァシリカは、大勢のブラックドッグに追われて
 
 神社の裏手へと逃げていった……
-> CONTEXT: Map454/events/2/pages/0/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map454/events/2/pages/0/6/Dialogue
+Vasilica fled to the back of the shrine with a crowd of
+Black Dogs in pursuit.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -12,32 +13,40 @@
 やるねぇ、\\N[1]くん。
 
 突破口になるかも程度だったけど、全員追っ払っちゃった。
-> CONTEXT: Map454/events/2/pages/0/13/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map454/events/2/pages/0/13/Dialogue/sirousagi_fc1
+Oooh, nicely done \\N[1]-kun.
 
+It might just be a small opening for us, but
+you've driven them all away.#CheckLater
 > END STRING
 
 > BEGIN STRING
 …………同じように、魔界肉で買収して
 
 バーゲストに手伝ってもらってた夢魔がいたからね……
-> CONTEXT: Map454/events/2/pages/0/18/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map454/events/2/pages/0/18/Dialogue/kazuya
+It's only because Barghest can be bribed to help
+with Demon Realm meat as well.#Ron
 > END STRING
 
 > BEGIN STRING
 思いついたはいいけど、あんな状況だったから
 
 結構むちゃくちゃな話題の切り出し方になっちゃった…
-> CONTEXT: Map454/events/2/pages/0/22/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map454/events/2/pages/0/22/Dialogue/kazuya
+Though I managed to think of it in the end, my
+mind was all over the place because of the
+situation so I just started blabbering.#RonIffy
 > END STRING
 
 > BEGIN STRING
 白兎、今度は何の企みだ！？
 
 我々を、いったいどこに導いた……！？
-> CONTEXT: Map454/events/2/pages/0/28/Dialogue/alice_fc6 < UNTRANSLATED
+> CONTEXT: Map454/events/2/pages/0/28/Dialogue/alice_fc6
+What are you plotting, White Rabbit?!
 
+Where the hell have you led us?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -45,8 +54,11 @@
 
 ボクはルカだけをひっそりこの空間に
 喚んだつもりだったんだけどな……
-> CONTEXT: Map454/events/2/pages/0/38/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map454/events/2/pages/0/38/Dialogue/sirousagi_fc1
+Hm? Oh, you came as well, Alice.
 
+I was trying to sneakily call just Luka into this
+space.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -54,8 +66,11 @@
 
 『この空間に喚んだ』…！？
 そもそも、ここは何処なのだ！！
-> CONTEXT: Map454/events/2/pages/0/43/Dialogue/alice_fc6 < UNTRANSLATED
+> CONTEXT: Map454/events/2/pages/0/43/Dialogue/alice_fc6
+What did you say?! What do you mean "call Luka
+into this space"?!
 
+And where is this place, anyway?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -63,40 +78,50 @@
 
 なんでカズヤがここに…！？
 僕と同じ、ポケット魔王城にいたはずじゃ…
-> CONTEXT: Map454/events/2/pages/0/48/Dialogue/ruka_fc1 < UNTRANSLATED
+> CONTEXT: Map454/events/2/pages/0/48/Dialogue/ruka_fc1
+A-And also... why is Kazuya here?!
 
+I thought he was in the Pocket Monster Lord
+Castle with me.#CheckLater
 > END STRING
 
 > BEGIN STRING
 ぽ、ぽけっと……？
 
 魔王城…？？？？
-> CONTEXT: Map454/events/2/pages/0/60/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map454/events/2/pages/0/60/Dialogue/kazuya
+P-Pocket...
 
+Monster Lord Castle?#CheckLater
 > END STRING
 
 > BEGIN STRING
 ごめん………なんで僕の名前を知っているか分からないけど
 
 たぶん、君と僕は初対面だと思うよ……
-> CONTEXT: Map454/events/2/pages/0/64/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map454/events/2/pages/0/64/Dialogue/kazuya
+Sorry... I don't know how you know my name, but
+I think this is the first time we've met.#Ron
 > END STRING
 
 > BEGIN STRING
 ぽ、ぽけっと……？
 
 カズヤ……？
-> CONTEXT: Map454/events/2/pages/0/71/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map454/events/2/pages/0/71/Dialogue/kazuya
+P-Pocket?
 
+Kazuya?#Ron
 > END STRING
 
 > BEGIN STRING
 ごめん………他の誰かと勘違いしてるみたいだけど…
 
 たぶん、君と僕は初対面だと思うよ……
-> CONTEXT: Map454/events/2/pages/0/75/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map454/events/2/pages/0/75/Dialogue/kazuya
+Sorry... it seems like you have me confused with
+someone else. I think this is the first time
+we've met.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -104,8 +129,11 @@
 
 キミたちもボクと同じ時系列だから
 \\N[1]くんは向こうのカズヤくんなんだっけ………
-> CONTEXT: Map454/events/2/pages/0/81/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map454/events/2/pages/0/81/Dialogue/sirousagi_fc1
+Ah, that's right...
+You two are on the same timeline as me, so you
+could say that \\N[1]-kun here is the Kazuya
+of this timeline.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -113,8 +141,10 @@
 
 それじゃあ、戦闘のクールダウンも兼ねて
 ボクの方から、この空間と現状について簡単に説明するよ。
-> CONTEXT: Map454/events/2/pages/0/86/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map454/events/2/pages/0/86/Dialogue/sirousagi_fc1
+Okay then, I'll give you guys a simple
+explanation of this space and of the situation
+while we cool down from the battle.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -122,8 +152,11 @@
 
 今は状況が状況だし、状況と目的がハッキリしないと
 ルカも協力に躊躇っちゃうだろうしね。
-> CONTEXT: Map454/events/2/pages/0/91/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map454/events/2/pages/0/91/Dialogue/sirousagi_fc1
+Normally I wouldn't be wasting time on leisurely
+explanations, but the situation being what it is,
+I need to be clear on what's happening and what
+the plan is, or Luka might be wary of helping.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -131,8 +164,11 @@
 
 つまり、\\C[2]違う世界の僕がそちらの世界に迷い込んでいて
 キミたちと一緒に戦ってるって事か……
-> CONTEXT: Map454/events/2/pages/0/100/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map454/events/2/pages/0/100/Dialogue/kazuya
+I see...
 
+So \\C[2]there's a version of me who got lost in your
+world and is now fighting together with you?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -140,8 +176,11 @@
 こちらが全く身に覚えがなかったから困惑したけど……
 
 その話を聞いて、合点がいったよ
-> CONTEXT: Map454/events/2/pages/0/105/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map454/events/2/pages/0/105/Dialogue/kazuya
+I was confused because I didn't even know your
+names and yet you were talking like you knew me.
 
+Hearing all that, I get it now.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -149,14 +188,16 @@
 こっちの\\N[1]は、向こうのカズヤとは別人なのか…
 
 見た目は同一人物なのに……
-> CONTEXT: Map454/events/2/pages/0/110/Dialogue/ruka_fc1 < UNTRANSLATED
-
+> CONTEXT: Map454/events/2/pages/0/110/Dialogue/ruka_fc1
+I was surprised, too. Despite looking identical,
+you're a whole different person from the Kazuya
+I know.#Ron
 > END STRING
 
 > BEGIN STRING
 ……一応、同一人物だぞ。
-> CONTEXT: Map454/events/2/pages/0/115/Dialogue/alice_fc5 < UNTRANSLATED
-
+> CONTEXT: Map454/events/2/pages/0/115/Dialogue/alice_fc5
+He is basically the same person.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -164,8 +205,11 @@
 
 そこにいる夜深とやらの容貌を見ても『魔物』と変わらん故
 さして実感が湧かんな。
-> CONTEXT: Map454/events/2/pages/0/117/Dialogue/alice_fc5 < UNTRANSLATED
-
+> CONTEXT: Map454/events/2/pages/0/117/Dialogue/alice_fc5
+But still, a world where "demons" rule...
+When I look at one like Yami or whatever her name
+was, I don't get the sense that she's particularly
+different from monsters.#Ron
 > END STRING
 
 > BEGIN STRING

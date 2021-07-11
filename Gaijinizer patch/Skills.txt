@@ -10270,7 +10270,7 @@ Flying Feline Slash#Ron
 > BEGIN STRING
 夜深のサポートスキル。
 このターンで\\N[1]が受ける物理攻撃を無効化し、回数分反撃する。
-> CONTEXT: Skills/898/description < UNTRANSLATED
+> CONTEXT: Skills/898/description
 One of Yami's support skills.
 Nullifies received physical damage and counterattacks.#Ron
 > END STRING
@@ -10309,9 +10309,9 @@ Yami unleashes Magic Attack Command!#RonIffy
 > BEGIN STRING
 夜深のサポートスキル。
 このターンの間、\\N[1]の魔法攻撃力を大幅に上昇させる。
-> CONTEXT: Skills/900/description < UNTRANSLATED
+> CONTEXT: Skills/900/description
 One of Yami's support skills. Drastically increases
-\\N[1]'s magic attack on the turn it's used.
+\\N[1]'s magic attack on the turn it's used.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -10418,7 +10418,7 @@ Prominence#Ron
 
 > BEGIN STRING
 \\N[1]の前方に、凍てつく絶対零度が展開される…！！
-> CONTEXT: Skills/906/message2 < UNTRANSLATED
+> CONTEXT: Skills/906/message2
 The power of absolute zero is unleashed in front of him!#RonLocalization
 > END STRING
 
@@ -10439,13 +10439,13 @@ Ice Age#Ron
 
 > BEGIN STRING
 の傍らで、アリスはアイスエイジを放った！
-> CONTEXT: Skills/906/message1 < UNTRANSLATED
- hears cast Ice Age!#RonLocalisationIffy
+> CONTEXT: Skills/906/message1
+ hears Alice cast Ice Age!#RonLocalisationIffy
 > END STRING
 
 > BEGIN STRING
 \\N[1]の前方に、無慈悲な閃光を放つ雷の渦が展開される…！！
-> CONTEXT: Skills/907/message2 < UNTRANSLATED
+> CONTEXT: Skills/907/message2
 A merciless vortex of lightning is unleashed!!#Ron
 > END STRING
 
@@ -10491,7 +10491,7 @@ Delta Aero#Ron
 
 > BEGIN STRING
 の傍らで、アリスはデルタエアロを放った！
-> CONTEXT: Skills/908/message1 < UNTRANSLATED
+> CONTEXT: Skills/908/message1
  hears Alice cast Delta Aero!#RonLocalisationIffy
 > END STRING
 
@@ -10504,15 +10504,15 @@ Delta Aero#Ron
 
 > BEGIN STRING
 シルフ
-> CONTEXT: Skills/910/name < UNTRANSLATED
-> CONTEXT: States/233/name < UNTRANSLATED
-
+> CONTEXT: Skills/910/name
+> CONTEXT: States/233/name
+Sylph#Ron
 > END STRING
 
 > BEGIN STRING
 はシルフを召喚した！
-> CONTEXT: Skills/910/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/910/message1
+ summoned Sylph!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -10524,15 +10524,15 @@ Delta Aero#Ron
 
 > BEGIN STRING
 ノーム
-> CONTEXT: Skills/911/name < UNTRANSLATED
-> CONTEXT: States/235/name < UNTRANSLATED
-
+> CONTEXT: Skills/911/name
+> CONTEXT: States/235/name
+Gnome#Ron
 > END STRING
 
 > BEGIN STRING
 はノームを召喚した！
-> CONTEXT: Skills/911/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/911/message1
+ summoned Gnome!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -10544,15 +10544,15 @@ Delta Aero#Ron
 
 > BEGIN STRING
 サラマンダー
-> CONTEXT: Skills/912/name < UNTRANSLATED
-> CONTEXT: States/232/name < UNTRANSLATED
-
+> CONTEXT: Skills/912/name
+> CONTEXT: States/232/name
+Salamander#Ron
 > END STRING
 
 > BEGIN STRING
 はサラマンダーを召喚した！
-> CONTEXT: Skills/912/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/912/message1
+ summoned Salamander!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -10564,27 +10564,27 @@ Delta Aero#Ron
 
 > BEGIN STRING
 ウンディーネ
-> CONTEXT: Skills/913/name < UNTRANSLATED
-> CONTEXT: States/234/name < UNTRANSLATED
-
+> CONTEXT: Skills/913/name
+> CONTEXT: States/234/name
+Undine#Ron
 > END STRING
 
 > BEGIN STRING
 はウンディーネを召喚した！
-> CONTEXT: Skills/913/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/913/message1
+ summoned Undine!#Ron
 > END STRING
 
 > BEGIN STRING
 瞑想
-> CONTEXT: Skills/914/name < UNTRANSLATED
-
+> CONTEXT: Skills/914/name
+Meditate#Ron
 > END STRING
 
 > BEGIN STRING
 は目を閉じ、瞑想をした！
-> CONTEXT: Skills/914/message1 < UNTRANSLATED
-
+> CONTEXT: Skills/914/message1
+ closes his eyes and meditates!#Ron
 > END STRING
 
 > BEGIN STRING
