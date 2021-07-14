@@ -1526,16 +1526,16 @@ Intelligence Loss 5#afrg
 
 > BEGIN STRING
 魔法アップEX
-> CONTEXT: States/159/name < UNTRANSLATED
-> CONTEXT: States/167/name < UNTRANSLATED
-
+> CONTEXT: States/159/name
+> CONTEXT: States/167/name
+Magic Up [EX]#Ron
 > END STRING
 
 > BEGIN STRING
 は魔法攻撃力が急激に上昇した。
-> CONTEXT: States/159/message1 < UNTRANSLATED
-> CONTEXT: States/167/message1 < UNTRANSLATED
-
+> CONTEXT: States/159/message1
+> CONTEXT: States/167/message1
+'s Magical Attack has greatly increased.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1880,14 +1880,14 @@ Ran away#Ron
 
 > BEGIN STRING
 の周囲に、夜深が反撃の間合いを作った！
-> CONTEXT: States/225/message1 < UNTRANSLATED
-
+> CONTEXT: States/225/message1
+'s space around him is set up for counterattacks!#RonIffyWording
 > END STRING
 
 > BEGIN STRING
 のサポートスキルの効果が解除された！
-> CONTEXT: States/225/message4 < UNTRANSLATED
-
+> CONTEXT: States/225/message4
+'s support skill effect has ended!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1928,58 +1928,58 @@ Ran away#Ron
 
 > BEGIN STRING
 達は、サラマンダーの加護を受けた！
-> CONTEXT: States/232/message1 < UNTRANSLATED
-> CONTEXT: States/238/message1 < UNTRANSLATED
-
+> CONTEXT: States/232/message1
+> CONTEXT: States/238/message1
+'s party receives Salamander's blessing!#Ron
 > END STRING
 
 > BEGIN STRING
 達の周囲の、炎の加護が収まった！
-> CONTEXT: States/232/message4 < UNTRANSLATED
-> CONTEXT: States/238/message4 < UNTRANSLATED
-
+> CONTEXT: States/232/message4
+> CONTEXT: States/238/message4
+'s party loses the protection of flame!#Ron
 > END STRING
 
 > BEGIN STRING
 達は、シルフの加護を受けた！
-> CONTEXT: States/233/message1 < UNTRANSLATED
-> CONTEXT: States/239/message1 < UNTRANSLATED
-
+> CONTEXT: States/233/message1
+> CONTEXT: States/239/message1
+'s party receives Sylph's blessing!#Ron
 > END STRING
 
 > BEGIN STRING
 達の周囲の、風の加護が収まった！
-> CONTEXT: States/233/message4 < UNTRANSLATED
-> CONTEXT: States/239/message4 < UNTRANSLATED
-
+> CONTEXT: States/233/message4
+> CONTEXT: States/239/message4
+'s party loses the protection of wind!#Ron
 > END STRING
 
 > BEGIN STRING
 達は、ウンディーネの加護を受けた！
-> CONTEXT: States/234/message1 < UNTRANSLATED
-> CONTEXT: States/240/message1 < UNTRANSLATED
-
+> CONTEXT: States/234/message1
+> CONTEXT: States/240/message1
+'s party receives Undine's blessing!#Ron
 > END STRING
 
 > BEGIN STRING
 達の周囲の、水の加護が収まった！
-> CONTEXT: States/234/message4 < UNTRANSLATED
-> CONTEXT: States/240/message4 < UNTRANSLATED
-
+> CONTEXT: States/234/message4
+> CONTEXT: States/240/message4
+'s party loses the protection of water!#Ron
 > END STRING
 
 > BEGIN STRING
 達は、ノームの加護を受けた！
-> CONTEXT: States/235/message1 < UNTRANSLATED
-> CONTEXT: States/241/message1 < UNTRANSLATED
-
+> CONTEXT: States/235/message1
+> CONTEXT: States/241/message1
+'s party receives Gnome's blessing!#Ron
 > END STRING
 
 > BEGIN STRING
 達の周囲の、土の加護が収まった！
-> CONTEXT: States/235/message4 < UNTRANSLATED
-> CONTEXT: States/241/message4 < UNTRANSLATED
-
+> CONTEXT: States/235/message4
+> CONTEXT: States/241/message4
+'s party loses the protection of earth!#Ron
 > END STRING
 
 > BEGIN STRING
