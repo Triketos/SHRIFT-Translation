@@ -1353,7 +1353,7 @@ Yamiif(s[375])#Ron
 選択肢ヘルプ
 条件【\\C[2]想ひ魂【朧】を所持している\\C[0]】
 > CONTEXT: Map217/events/5/pages/2/416/ChoiceHelp
-Condition 【\\C[2]\\C[0] possessing the soul [朧]】#GT
+Requires:【\\C[2]\\C[0]"Faint" memento】#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1395,8 +1395,8 @@ come talk to me?#Ron
  他にも接触する人はいたかもしれないのに……
 > CONTEXT: Map217/events/5/pages/2/429/Dialogue/kazuya
 She used imaginary space to create that barrier,
-right? But there could have been people she came
-into contact with before.#RonIffy
+right? But there were many other people she
+came into contact with before...#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -1439,7 +1439,7 @@ M-Me?!#Ron
 To be precise, you were the guy who fed her for
 a few months before she turned into a demon.
 
-After that you lost all contact with her.#CheckLater
+After that she lost all contact with you.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1574,7 +1574,7 @@ that?#Ron
 > CONTEXT: Map217/events/5/pages/2/508/Dialogue/hyakki
 The answer will probably be obvious if you think
 about why Reina lost control. In Reina's case,
-she wasn't human#Ron
+she wasn't human.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1626,7 +1626,7 @@ Yami.#Ron
 暴走した時の破壊力も、すさまじかった。
 > CONTEXT: Map217/events/5/pages/2/537/Dialogue/hyakki
 They targeted her because of what I told you
-before, that she'd taken down countless numbers
+before: that she'd taken down countless numbers
 of demons to protect her home.
 
 When she went berserk, her destructive powers
@@ -1870,7 +1870,7 @@ That should... settle... her mood.#Ron
 > CONTEXT: Map217/events/5/pages/2/657/Dialogue/kazuya
 Hyakki... do you know something about her?
 
-The way you're talking is a little disturbing.#Ron
+The way you're talking is a little unsettling.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -1937,9 +1937,9 @@ That's right, the same as you, \\N[1].#Ron
 自分の素性はよく分かってないらしいからね。
 > CONTEXT: Map217/events/5/pages/2/688/Dialogue/hyakki
 I don't know how she got the magic power of an
-angel. Even she herself apparently didn't
-know much about her origins as she was supposedly
-transformed into a Nekomata when she was a kitten.#RonIffyWording
+angel. Even she doesn't know much about her
+origins, as she was supposedly transformed into
+a Nekomata when she was a kitten.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -1990,14 +1990,14 @@ friends in the nick of time.#Ron
 直前まで安定していて、魔力の暴走も小規模だった
  アンタほどうまくはいかなかったんだよ
 > CONTEXT: Map217/events/5/pages/2/713/Dialogue/hyakki
-But there were a lot of victims left behind in
-exchange for that.
+But in exchange...
 
+A lot of sacrifices were made.
 
-Though she was stable right until the last
-minute, and the scale of her rampage was small,
-things didn't work out as well as they did for
-you.#RonIffy
+Things didn't work out for her as well as they
+did for you, where Reina was stable right until
+the end, and the scale of her magical rampage
+was small.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -2062,9 +2062,9 @@ from demons.#RonIffy
  虚数空間を漂う、過去の彼女の『個』なんだよ。
 > CONTEXT: Map217/events/5/pages/2/743/Dialogue/hyakki
 So while the Yami you met in there is definitely
-the real her, it's not exactly the "true" her,
-but her "self" from the past floating in empty,
-imaginary space.#Ron
+the real deal, it's not exactly her true "self". 
+Rather, it's a castoff from the past that's
+been floating in empty, imaginary space.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -2073,14 +2073,14 @@ imaginary space.#Ron
 アンタが想ひ魂で虚数空間に干渉しているのを感じて
 構って欲しくて接触してきたんだろうサ。
 > CONTEXT: Map217/events/5/pages/2/748/Dialogue/hyakki
+When you turned up and interacted with that
+imaginary space, she felt your presence.
+
+ 
 You see, she was always someone who got lonely
-easily and really loved her friends.
-
-
-So when you turned up and interfered in that
-imaginary space, she felt your presence and
-wanted you to keep her company which is why
-she contacted you.#RonIffyWording
+easily and really loved her friends. She wanted
+you to keep her company, which is why
+she approached you.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
