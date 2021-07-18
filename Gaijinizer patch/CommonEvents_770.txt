@@ -73,8 +73,11 @@
 いきなり負けてしまったのね……
 
 新たな種類の敵の出現で、戸惑ってしまったのかしら。
-> CONTEXT: CommonEvents_770/60/Dialogue/other5 < UNTRANSLATED
+> CONTEXT: CommonEvents_770/60/Dialogue/other5
+\\N[1]... You lost pretty quickly, huh.
 
+Perhaps the appearance of a new variety of enemy
+confused you.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -82,8 +85,11 @@
 ひたすらに回避して、チャンスを待つの……
 
 \\C[0]忘れないで……今回、貴方は独りでは戦えないのよ……
-> CONTEXT: CommonEvents_770/65/Dialogue/other5 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_770/65/Dialogue/other5
+\\C[2]You have no means of defeating her at this stage.
+Your only option is to focus on evading and wait
+for an opening. \\C[0]Don't forget, you're not fighting
+alone this time.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -91,35 +97,42 @@
 
 大丈夫……今までの戦いをくぐり抜けてきたあなたならば
 これくらいの障害…なんてことはないはずよ…
-> CONTEXT: CommonEvents_770/70/Dialogue/other5 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_770/70/Dialogue/other5
+That's all I can tell you.
+But don't worry... for someone like you who's
+made it this far, an obstacle like this should
+be nothing.#Ron
 > END STRING
 
 > BEGIN STRING
 元ネタに比べて、マイルド…！
 
 てっきり辛辣なコメントされると思ったのに…！
-> CONTEXT: CommonEvents_770/76/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: CommonEvents_770/76/Dialogue/kazuya
+That was a pretty mild evaluation compared to the
+ones this is parodying. I thought for sure you'd
+really let me have it!#Ron
 > END STRING
 
 > BEGIN STRING
 さぁ……行って、\\N[1]。
 
 あなたなら、この世界を救えるわ……
-> CONTEXT: CommonEvents_770/81/Dialogue/other5 < UNTRANSLATED
-> CONTEXT: CommonEvents_770/112/Dialogue/other5 < UNTRANSLATED
-> CONTEXT: CommonEvents_770/143/Dialogue/other5 < UNTRANSLATED
-> CONTEXT: CommonEvents_770/177/Dialogue/other5 < UNTRANSLATED
-> CONTEXT: CommonEvents_770/211/Dialogue/other5 < UNTRANSLATED
-> CONTEXT: CommonEvents_770/254/Dialogue/other5 < UNTRANSLATED
-> CONTEXT: CommonEvents_770/300/Dialogue/other5 < UNTRANSLATED
-> CONTEXT: CommonEvents_770/343/Dialogue/other5 < UNTRANSLATED
-> CONTEXT: CommonEvents_770/386/Dialogue/other5 < UNTRANSLATED
-> CONTEXT: CommonEvents_770/429/Dialogue/other5 < UNTRANSLATED
-> CONTEXT: CommonEvents_770/496/Dialogue/other5 < UNTRANSLATED
-> CONTEXT: CommonEvents_770/539/Dialogue/other5 < UNTRANSLATED
+> CONTEXT: CommonEvents_770/81/Dialogue/other5
+> CONTEXT: CommonEvents_770/112/Dialogue/other5
+> CONTEXT: CommonEvents_770/143/Dialogue/other5
+> CONTEXT: CommonEvents_770/177/Dialogue/other5
+> CONTEXT: CommonEvents_770/211/Dialogue/other5
+> CONTEXT: CommonEvents_770/254/Dialogue/other5
+> CONTEXT: CommonEvents_770/300/Dialogue/other5
+> CONTEXT: CommonEvents_770/343/Dialogue/other5
+> CONTEXT: CommonEvents_770/386/Dialogue/other5
+> CONTEXT: CommonEvents_770/429/Dialogue/other5
+> CONTEXT: CommonEvents_770/496/Dialogue/other5
+> CONTEXT: CommonEvents_770/539/Dialogue/other5
+Now go, \\N[1].
 
+I'm sure you can save the world.#Ron
 > END STRING
 
 > BEGIN STRING

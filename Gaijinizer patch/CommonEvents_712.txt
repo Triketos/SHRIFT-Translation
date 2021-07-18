@@ -32,10 +32,10 @@
 
 > BEGIN STRING
 スキル
-> CONTEXT: CommonEvents_712/64/Choice/3 < UNTRANSLATED
-> CONTEXT: System/terms/commands/5 < UNTRANSLATED
-> CONTEXT: System/skill_types/36 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_712/64/Choice/3
+> CONTEXT: System/terms/commands/5
+> CONTEXT: System/skill_types/36
+Skill#Dargoth
 > END STRING
 
 > BEGIN STRING
@@ -67,16 +67,16 @@
 
 > BEGIN STRING
 防御体勢
-> CONTEXT: CommonEvents_712/90/Choice/0 < UNTRANSLATED
-> CONTEXT: CommonEvents_760/178/Choice/0 < UNTRANSLATED
-> CONTEXT: Skills/20/name < UNTRANSLATED
-
+> CONTEXT: CommonEvents_712/90/Choice/0
+> CONTEXT: CommonEvents_760/178/Choice/0
+> CONTEXT: Skills/20/name
+Defensive Stance#Dargoth
 > END STRING
 
 > BEGIN STRING
 回避体勢 en(s[702])
-> CONTEXT: CommonEvents_712/90/Choice/1 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_712/90/Choice/1
+Evasive Posture en(s[702])#Triketos
 > END STRING
 
 > BEGIN STRING

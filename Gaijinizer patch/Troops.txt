@@ -16905,35 +16905,38 @@ as her objective is to violate you.#Ron
 
 > BEGIN STRING
 ハイスラッグ【初戦】
-> CONTEXT: Troops/350/name < UNTRANSLATED
-
+> CONTEXT: Troops/350/name
+High Slug [First Battle]#Ron
 > END STRING
 
 > BEGIN STRING
 ハイスラッグ娘が現れた！
-> CONTEXT: Troops/350/pages/1/1/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/365/pages/1/1/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/366/pages/1/1/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/367/pages/1/1/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/410/pages/0/10/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/350/pages/1/1/Dialogue
+> CONTEXT: Troops/365/pages/1/1/Dialogue
+> CONTEXT: Troops/366/pages/1/1/Dialogue
+> CONTEXT: Troops/367/pages/1/1/Dialogue
+> CONTEXT: Troops/410/pages/0/10/Dialogue
+High Slug Girl appears!#Ron
 > END STRING
 
 > BEGIN STRING
 ハイスラッグ娘は禍々しいオーラを放ち始めた…… 
-> CONTEXT: Troops/350/pages/1/18/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/351/pages/1/16/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/385/pages/3/4/Dialogue < UNTRANSLATED
-> CONTEXT: Troops/385/pages/4/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Troops/350/pages/1/18/Dialogue
+> CONTEXT: Troops/351/pages/1/16/Dialogue
+> CONTEXT: Troops/385/pages/3/4/Dialogue
+> CONTEXT: Troops/385/pages/4/4/Dialogue
+High Slug Girl has started emitting an ominous aura.#Ron
 > END STRING
 
 > BEGIN STRING
 \\N[1]、気を付けろ！ 
 
 またさっきの攻撃が来るぞ！！ 
-> CONTEXT: Troops/350/pages/1/20/Dialogue/other1 < UNTRANSLATED
+> CONTEXT: Troops/350/pages/1/20/Dialogue/other1
+Be careful!
 
+She's about to fire off that earlier attack
+again!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -16941,8 +16944,11 @@ as her objective is to violate you.#Ron
 見てから回避を始めてたら間に合わない！ 
 
 \\c[2]攻撃を捨てて、回避に集中しろ！ 
-> CONTEXT: Troops/350/pages/1/24/Dialogue/other1 < UNTRANSLATED
-
+> CONTEXT: Troops/350/pages/1/24/Dialogue/other1
+With how fast it moves, no matter how powerful
+you are, it'll be too late to dodge by the time
+you see it coming! \\c[2]Forget about attacking
+and just concentrate on evasion!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -16950,8 +16956,11 @@ as her objective is to violate you.#Ron
 
 あの子達からは、強いオスだと聞いていたのに 
 思いの外、弱腰なのね？ 
-> CONTEXT: Troops/350/pages/1/29/Dialogue/highslag_fc1 < UNTRANSLATED
+> CONTEXT: Troops/350/pages/1/29/Dialogue/highslag_fc1
+Oh my, going to play it safe?
 
+Those twins told me you were a strong male, but
+you're acting surprisingly weak.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -16959,16 +16968,22 @@ as her objective is to violate you.#Ron
 貴方の好きなように攻め立ててくれても…♡ 
 
 貴方の男らしさ、私に見せてちょうだい♡ 
-> CONTEXT: Troops/350/pages/1/34/Dialogue/highslag_fc1 < UNTRANSLATED
+> CONTEXT: Troops/350/pages/1/34/Dialogue/highslag_fc1
+Fufufu, it's okay, you can come charging at me
+any way you like. ♡
 
+Show me just how manly you are. ♡#Ron
 > END STRING
 
 > BEGIN STRING
 分かりやすい挑発だ…… 
 
 明らかに今、\\c[2]回避以外の行動をとるのは危険すぎる 
-> CONTEXT: Troops/350/pages/1/41/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/350/pages/1/41/Dialogue
+An obvious provocation.
 
+It's clear that \\c[2]any course of action other than evasion
+would be far too dangerous.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -16976,14 +16991,17 @@ as her objective is to violate you.#Ron
 
 彼女のレイピアの死角を見つければ、 
 攻撃のチャンスが生まれるはずだ…！ 
-> CONTEXT: Troops/350/pages/1/45/Dialogue < UNTRANSLATED
+> CONTEXT: Troops/350/pages/1/45/Dialogue
+I'll keep evading and maneuver to get behind her.
 
+If I can find her blind spot, that should create an
+opening to attack!#Ron
 > END STRING
 
 > BEGIN STRING
 ハイスラッグ【２戦目】
-> CONTEXT: Troops/351/name < UNTRANSLATED
-
+> CONTEXT: Troops/351/name
+High Slug[Second Battle]#Ron
 > END STRING
 
 > BEGIN STRING
@@ -16991,22 +17009,27 @@ as her objective is to violate you.#Ron
 
 夜深ちゃんが来たことで
 \\C[2]『サポートスキル』が使えるようになったよ
-> CONTEXT: Troops/351/pages/1/18/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Troops/351/pages/1/18/Dialogue/sirousagi_fc1
+\\N[1]-kun, \\N[1]-kun.
 
+With Yami-chan here, you can now use \\C[2]"support
+skills".#Ron
 > END STRING
 
 > BEGIN STRING
 さ、\\C[2]『サポートスキル』\\C[0]…？？
-> CONTEXT: Troops/351/pages/1/23/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Troops/351/pages/1/23/Dialogue/kazuya
+S-\\C[2]Support skills\\C[0]...??#Ron
 > END STRING
 
 > BEGIN STRING
 \\C[2]自分の行動とは別に、
 
 サポートに回ったキャラに有利な行動をしてもらう機能さ。
-> CONTEXT: Troops/351/pages/1/25/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Troops/351/pages/1/25/Dialogue/sirousagi_fc1
+\\C[2]It's a function separate from your own actions
+that allows you to make effective use of
+characters supporting you.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -17014,16 +17037,22 @@ as her objective is to violate you.#Ron
 自分の行動数も消費しないから
 
 毎ターンの最初に、選んでおいて損はないと思うよ
-> CONTEXT: Troops/351/pages/1/29/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Troops/351/pages/1/29/Dialogue/sirousagi_fc1
+\\C[2]Support skills don't use any of your own
+vitality, and don't consume your own turn when
+used, so there's no harm in using one at the
+beginning of every turn.#Ron
 > END STRING
 
 > BEGIN STRING
 まぁ詳しいことは、百聞は一見にしかず！
 
 まずは試してみなよ。
-> CONTEXT: Troops/351/pages/1/34/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Troops/351/pages/1/34/Dialogue/sirousagi_fc1
+As for the details, well, best you see it in
+action.
 
+Just give it a try.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -17031,8 +17060,11 @@ as her objective is to violate you.#Ron
 私の突きを、全て抜刀で…！？
 
 貴女は一体…！！
-> CONTEXT: Troops/351/pages/2/5/Dialogue/highslag_fc1 < UNTRANSLATED
+> CONTEXT: Troops/351/pages/2/5/Dialogue/highslag_fc1
+What?! You stopped all my thrusts with your
+sword?
 
+Just what are you?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -17040,8 +17072,11 @@ as her objective is to violate you.#Ron
 
 \\C[2]歴代の悪九尾のひとり『黒狐』を倒した子だもん。
 その抜刀術は伊達じゃない。
-> CONTEXT: Troops/351/pages/2/10/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Troops/351/pages/2/10/Dialogue/sirousagi_fc1
+Well of course she did. Her skill with a blade
+isn't just for show. \\C[2]She's the one who defeated
+the Black Fox, one of the legendary evil
+nine-tailed kitsunes.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -17049,32 +17084,39 @@ as her objective is to violate you.#Ron
 彼女のカウンターを破るのは無理だよ。
 
 信じられないなら、もうちょっと試してみるかい？
-> CONTEXT: Troops/351/pages/2/15/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Troops/351/pages/2/15/Dialogue/sirousagi_fc1
+No matter how much more powerful the "world
+fusion" has made you, you'll never be able to
+get past her counter. You can keep trying if
+you don't believe me.#Ron
 > END STRING
 
 > BEGIN STRING
 い、いや……
 
 やってるのはお前じゃないだろ…
-> CONTEXT: Troops/351/pages/2/20/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Troops/351/pages/2/20/Dialogue/kazuya
+N-No, let's not get carried away.#RonIffyLocalization
 > END STRING
 
 > BEGIN STRING
 けど\\N[1]、実際にこれはチャンスだ！
 
 \\C[2]これでお前が攻撃できるチャンスが出来たぞ！
-> CONTEXT: Troops/351/pages/2/24/Dialogue/other1 < UNTRANSLATED
+> CONTEXT: Troops/351/pages/2/24/Dialogue/other1
+C'mon \\N[1], this is your chance!
 
+\\C[2]This is your opportunity to take the fight to
+her!#Ron
 > END STRING
 
 > BEGIN STRING
 \\C[2]『サポートスキル』で攻撃のカウンターを任せて
 
 その間にお前は攻撃するんだ！
-> CONTEXT: Troops/351/pages/2/28/Dialogue/other1 < UNTRANSLATED
-
+> CONTEXT: Troops/351/pages/2/28/Dialogue/other1
+\\C[2]Use that support skill to keep that counter
+up while you attack!#Ron
 > END STRING
 
 > BEGIN STRING
