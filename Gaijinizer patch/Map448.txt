@@ -1,30 +1,34 @@
 ﻿> GAIJINIZER PATCH FILE
 > BEGIN STRING
 観念して、彼女の横に座りますか？
-> CONTEXT: Map448/events/1/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map448/events/1/pages/0/2/Dialogue
+Resign yourself to what's going to happen and sit next to
+her?#Ron
 > END STRING
 
 > BEGIN STRING
 \\{\\{何だこの選択肢！？
-> CONTEXT: Map448/events/1/pages/0/9/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map448/events/1/pages/0/9/Dialogue/kazuya
+\\{\\{What kind of option is that?!#Ron
 > END STRING
 
 > BEGIN STRING
 おいおい……部屋を出ることはないだろう？
 
 別に魔力で誘惑されてるわけでもないんだし……
-> CONTEXT: Map448/events/2/pages/0/21/Dialogue/other2 < UNTRANSLATED
-
+> CONTEXT: Map448/events/2/pages/0/21/Dialogue/other2
+Hey come on, there's no need to leave the room
+is there? It's not like she's using magic to
+seduce you.#Ron
 > END STRING
 
 > BEGIN STRING
 それに、結界内って分かりきってるんだから
 
 ここ以外にどこにも行く必要ないじゃねぇか
-> CONTEXT: Map448/events/2/pages/0/25/Dialogue/other2 < UNTRANSLATED
-
+> CONTEXT: Map448/events/2/pages/0/25/Dialogue/other2
+Besides, we already know we're inside a barrier,
+so there's no need to go anywhere else.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -32,8 +36,11 @@
 
 ちょっと和室に二人っきりの空間が耐えられなくて……
 理性がどうにかなりそう…
-> CONTEXT: Map448/events/2/pages/0/29/Dialogue/kazuya-a < UNTRANSLATED
-
+> CONTEXT: Map448/events/2/pages/0/29/Dialogue/kazuya-a
+S-Sorry...
+I just couldn't handle being in that
+Japanese-style room alone with her, I feel like
+I'm about to lose my mind.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -41,24 +48,31 @@
 
 トイレなら、この本殿を出て正面の鳥居の近くに
 厠の建物があるから、そこが使えると思うよ？
-> CONTEXT: Map448/events/2/pages/1/22/Dialogue/enemy15 < UNTRANSLATED
-
+> CONTEXT: Map448/events/2/pages/1/22/Dialogue/enemy15
+What's wrong? If you need to use the bathroom,
+just head out of this main shrine and you should
+see a building with a privy by the front of the
+gate archway where you can relieve yourself.#Ron
 > END STRING
 
 > BEGIN STRING
 あ！いや……そういうわけじゃなくて…
 
 ゴメン、少し周囲を見回ってただけだよ。
-> CONTEXT: Map448/events/2/pages/1/27/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map448/events/2/pages/1/27/Dialogue/kazuya
+Ah! No... that's not it...
 
+Sorry, I just just having a quick look around
+the perimeter.#Ron
 > END STRING
 
 > BEGIN STRING
 障子の隙間から、少しだけ外を覗いてみたが
 
 外には悪魔の気配はおろか、生物の気配すらない……
-> CONTEXT: Map448/events/21/pages/0/0/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map448/events/21/pages/0/0/Dialogue
+Peeking out through a gap in the sliding door, there's
+no sign of any life at all outside, let alone any demons.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -66,24 +80,31 @@
 
 結界内は基本、単なる空間の投影だから
 鳴いてる虫や、吹いてる風まで再現できるわけじゃない
-> CONTEXT: Map448/events/21/pages/0/4/Dialogue/other1 < UNTRANSLATED
-
+> CONTEXT: Map448/events/21/pages/0/4/Dialogue/other1
+Well, that's to be expected. A barrier is
+fundamentally just a simple projection of a
+physical space, so there's no way to reproduce
+the sounds of insects or the wind.#Ron
 > END STRING
 
 > BEGIN STRING
 普通の人間も『空気が変わった』とか『寒気を感じた』とか
 
 結界に入った瞬間が分かるって話も聞くし。
-> CONTEXT: Map448/events/21/pages/0/9/Dialogue/other1 < UNTRANSLATED
-
+> CONTEXT: Map448/events/21/pages/0/9/Dialogue/other1
+You often hear of ordinary humans feeling a change
+in the air or getting chills the instant they
+cross into a barrier.#Ron
 > END STRING
 
 > BEGIN STRING
 白兎は、この結界を『特別製』と言っていたけど……
 
 一体、通常の結界とどういう風に違うんだろう…？
-> CONTEXT: Map448/events/21/pages/0/13/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map448/events/21/pages/0/13/Dialogue/kazuya
+White Rabbit said that this barrier is special,
+but how on earth is it any different to a normal
+one?#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -91,30 +112,37 @@
 
 『アバドーンに見つからないように』って言ってたけど
 そもそも特定の結界を見つけるなんて、出来るのか…？
-> CONTEXT: Map448/events/21/pages/0/17/Dialogue/other1 < UNTRANSLATED
-
+> CONTEXT: Map448/events/21/pages/0/17/Dialogue/other1
+Mmmm, it definitely doesn't look different. She
+said it'd stop Abaddon from finding you, but is
+it really possible to find a specific barrier
+anyway?#Ron
 > END STRING
 
 > BEGIN STRING
 もし仮に、アバドーンにそういうことが可能だとしたら
 
 とんでもねぇスケールの相手って事になるが……
-> CONTEXT: Map448/events/21/pages/0/22/Dialogue/other1 < UNTRANSLATED
-
+> CONTEXT: Map448/events/21/pages/0/22/Dialogue/other1
+If Abaddon actually had that kind of ability,
+that'd make him one hell of an enemy.#RonIffy
 > END STRING
 
 > BEGIN STRING
 夜深ちゃんみたいな『ゲスト』を複数呼ぶくらいだからな…
 
 可能性がないわけじゃないのが笑えないよ…
-> CONTEXT: Map448/events/21/pages/0/26/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map448/events/21/pages/0/26/Dialogue/kazuya
+An enemy powerful enough to need multiple "guests"
+like Yami-chan to help. We can't entirely dismiss
+the possibility that Abaddon does have such an
+ability.#Ron
 > END STRING
 
 > BEGIN STRING
 な、なんでこんなところにティーセットが…！？
-> CONTEXT: Map448/events/23/pages/0/2/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map448/events/23/pages/0/2/Dialogue/kazuya
+W-Why is there a tea set here of all places?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -122,14 +150,17 @@
 
 あさコンが使ってたものだよ
 結界内のものだし、勝手に使ってもいいんじゃないかな
-> CONTEXT: Map448/events/23/pages/0/7/Dialogue/enemy15 < UNTRANSLATED
+> CONTEXT: Map448/events/23/pages/0/7/Dialogue/enemy15
+Oh, that?
 
+Tom-Tom uses it. But since we're in a barrier
+it should be fine for you to use it if you want.#CheckLater
 > END STRING
 
 > BEGIN STRING
 あ、『あさコン』…？
-> CONTEXT: Map448/events/23/pages/0/14/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map448/events/23/pages/0/14/Dialogue/kazuya
+T-Tommie?#CheckLater
 > END STRING
 
 > BEGIN STRING
@@ -137,8 +168,11 @@
 私が最初に『あさこ』って呼んじゃって……
 
 それ以来、あだ名が『あさコン』になってるの。
-> CONTEXT: Map448/events/23/pages/0/16/Dialogue/enemy15 < UNTRANSLATED
-
+> CONTEXT: Map448/events/23/pages/0/16/Dialogue/enemy15
+Yeah, her actual name is "Tomoko" but when I
+called her "Tommie" the first time we met, and
+the name stuck and it's been her nickname ever
+since.#CheckLater
 > END STRING
 
 > BEGIN STRING
@@ -146,8 +180,10 @@
 基本的に茶葉から煎れるために、一式揃えてるみたいなの。
 
 だから、そういうティーセットも置いてあるよ♪
-> CONTEXT: Map448/events/23/pages/0/21/Dialogue/enemy15 < UNTRANSLATED
-
+> CONTEXT: Map448/events/23/pages/0/21/Dialogue/enemy15
+Tommie loves her teas so she keeps everything
+she needs to steep the leaves from scratch in one
+place. Hence the tea set. ♪#CheckLater
 > END STRING
 
 > BEGIN STRING
@@ -155,30 +191,38 @@
 
 それじゃあ、ハーブティーをいれるのに
 遠慮なく使わせてもらうよ……
-> CONTEXT: Map448/events/23/pages/0/26/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map448/events/23/pages/0/26/Dialogue/kazuya
+I-I see...
 
+In that case I won't hesitate to make myself
+a herbal tea.#Ron
 > END STRING
 
 > BEGIN STRING
 羊「やぁ、久しぶり」
-> CONTEXT: Map448/events/24/pages/0/0/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map448/events/24/pages/0/0/Dialogue
+Sheep「Hey, long time no see.」#Ron
 > END STRING
 
 > BEGIN STRING
 羊「\\C[2]セーブポイントとアイテムボックスを持ってきたよ。\\C[0]
 
 　　ベッドはさすがに持ってこれなかったけどね……」
-> CONTEXT: Map448/events/24/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map448/events/24/pages/0/2/Dialogue
+Sheep「\\C[2]I've brought the save point and item box here with me.\\C[0]
+       
+	   Obviously I couldn't bring the bed, too.」#Ron
 > END STRING
 
 > BEGIN STRING
 羊「\\C[2]この先も、必要そうな場所に置いておいてあげる\\C[0]
 
 　　僕に出来ることはこれくらい………」
-> CONTEXT: Map448/events/24/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map448/events/24/pages/0/6/Dialogue
+Sheep「\\C[2]From here on I'll be leaving these two things in helpful
+       places.\\C[0]
 
+       It's about the only thing I can do.」#Ron
 > END STRING
 
 > BEGIN STRING
@@ -186,27 +230,29 @@
 
 　　あんまり他の世界に干渉できないんだ……
 　　姿を現すのも……結構苦しくて………」
-> CONTEXT: Map448/events/24/pages/0/10/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map448/events/24/pages/0/10/Dialogue
+Sheep「To be honest, Abaddon's influence is so strong I can't
+       meddle in other worlds too much. Even just appearing
+       in front of you like this is quite a strain.」#Ron
 > END STRING
 
 > BEGIN STRING
 羊「がんばって……ね……」
-> CONTEXT: Map448/events/24/pages/0/15/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map448/events/24/pages/0/15/Dialogue
+Sheep「So do your best... okay?」#Ron
 > END STRING
 
 > BEGIN STRING
 羊の姿は消えてしまった……
-> CONTEXT: Map448/events/24/pages/0/22/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map448/events/24/pages/0/22/Dialogue
+The sheep disappeared.#Ron
 > END STRING
 
 > BEGIN STRING
 結界内――神社本殿内部
-> CONTEXT: Map448/display_name < UNTRANSLATED
-> CONTEXT: Map449/display_name < UNTRANSLATED
-> CONTEXT: MapInfos/449/name < UNTRANSLATED
-> CONTEXT: MapInfos/451/name < UNTRANSLATED
-
+> CONTEXT: Map448/display_name
+> CONTEXT: Map449/display_name
+> CONTEXT: MapInfos/449/name
+> CONTEXT: MapInfos/451/name
+Barrier - Main Shrine Building Interior#Ron
 > END STRING

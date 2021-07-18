@@ -3,68 +3,83 @@
 やっと来たね。
 
 …………あ、動き始めた。
-> CONTEXT: Map419/events/1/pages/0/3/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map419/events/1/pages/0/3/Dialogue/sirousagi_fc1
+You're finally here.
 
+Ah, it's started moving.#Ron
 > END STRING
 
 > BEGIN STRING
 白兎は、僕の背後でしゃがみこんで
 
 足元に置いてある置き時計を見つめている……
-> CONTEXT: Map419/events/1/pages/0/10/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map419/events/1/pages/0/10/Dialogue
+When I arrived, White Rabbit was crouched behind me,
+staring intently at a clock placed at her feet.#Ron
 > END STRING
 
 > BEGIN STRING
 …………おい、何してんだよ。
-> CONTEXT: Map419/events/1/pages/0/16/Dialogue/other2 < UNTRANSLATED
-
+> CONTEXT: Map419/events/1/pages/0/16/Dialogue/other2
+Hey, what're you doing?#Ron
 > END STRING
 
 > BEGIN STRING
 ん～？
 
 ………待ってる。
-> CONTEXT: Map419/events/1/pages/0/18/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map419/events/1/pages/0/18/Dialogue/sirousagi_fc1
+Hm?
 
+I'm waiting.#Ron
 > END STRING
 
 > BEGIN STRING
 ま、待ってる……？
-> CONTEXT: Map419/events/1/pages/0/22/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map419/events/1/pages/0/22/Dialogue/kazuya
+W-Waiting?#Ron
 > END STRING
 
 > BEGIN STRING
 っていうか、一体ここは……？
 
 鳥や昆虫の気配がないから、結界内……？
-> CONTEXT: Map419/events/1/pages/0/30/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map419/events/1/pages/0/30/Dialogue/kazuya
+Where the hell are we, anyway?
 
+There's no sign at all of birds or insects, so
+does that mean we're in a barrier?#Ron
 > END STRING
 
 > BEGIN STRING
 周囲を見渡すと、どこかの神社の敷地内のように見える……
 
 目の前にあるのは、神楽殿か何かだろうか……
-> CONTEXT: Map419/events/1/pages/0/34/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map419/events/1/pages/0/34/Dialogue
+Looking around at our surroundings, it looks like we're in
+the grounds of a shrine. Just ahead of me is some kind
+of shrine hall.#Ron
 > END STRING
 
 > BEGIN STRING
 しばらく困惑していると、目の前の白兎が
 
 時計から視線を外し、僕の方へと向きなおる……
-> CONTEXT: Map419/events/1/pages/0/40/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map419/events/1/pages/0/40/Dialogue
+After a while of being baffled by what's going on, White
+Rabbit takes her eyes off the clock and looks in my
+direction.#Ron
 > END STRING
 
 > BEGIN STRING
 ここは\\C[2]『待合室』\\C[0]
 
 厳重な結界展開のうえに成り立ってる特殊な空間さ。
-> CONTEXT: Map419/events/1/pages/0/45/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map419/events/1/pages/0/45/Dialogue/sirousagi_fc1
+This is the \\C[2]waiting room\\C[0].
 
+It's a very special space that's had a very
+powerful barrier placed over it.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -72,8 +87,11 @@
 ボクとチェシャで作った特別製の結界だよ。
 
 いわば、アバドーンの襲撃を防ぐためのセーフルームだね。
-> CONTEXT: Map419/events/1/pages/0/49/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map419/events/1/pages/0/49/Dialogue/sirousagi_fc1
+Abaddon would quickly find us if we used a normal
+barrier, so this is one that Cheshire and I
+specially made. You could say it's a safe room
+that protects us against Abaddon's attacks.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -81,8 +99,11 @@
 
 あの世界、いま別の問題を抱えてて
 アバドーンの影響がなくてもヤバい状況なんだ。
-> CONTEXT: Map419/events/1/pages/0/54/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map419/events/1/pages/0/54/Dialogue/sirousagi_fc1
+I thought I'd get the "guests" from my world first
+but that world has its own problems right now,
+and things are bad enough there even without
+Abaddon's influence.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -90,16 +111,19 @@
 事態が余計にややこしくなりかねないからね。
 
 そこでこの『待合室』ってワケさ。
-> CONTEXT: Map419/events/1/pages/0/59/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map419/events/1/pages/0/59/Dialogue/sirousagi_fc1
+So making a gate they could freely come and go
+through would be too dangerous, I can't make the
+situation too complicated. And that's why we have
+this "waiting room".#RonIffyWording
 > END STRING
 
 > BEGIN STRING
 ……………それで？
 
 お前はここで何を待ってるんだ？
-> CONTEXT: Map419/events/1/pages/0/68/Dialogue/other2 < UNTRANSLATED
-
+> CONTEXT: Map419/events/1/pages/0/68/Dialogue/other2
+So then... what're you waiting for here?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -107,22 +131,27 @@
 この時計の針も、その時に向けて動き出した……
 
 あとは向こうとの\\C[2]『タイミング』\\C[0]を待つだけ……
-> CONTEXT: Map419/events/1/pages/0/72/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map419/events/1/pages/0/72/Dialogue/sirousagi_fc1
+You coming here creates an "opportunity", and the
+hand of this clock has started moving towards
+that time. All that's left is to wait until it
+points to the right \\C[2]timing\\C[0].#RonIffyWording
 > END STRING
 
 > BEGIN STRING
 まぁ、急かしておいてなんだけど、その辺でくつろいでてよ。
 
 時間になったら、また教えるからさ。
-> CONTEXT: Map419/events/1/pages/0/77/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map419/events/1/pages/0/77/Dialogue/sirousagi_fc1
+Well, though I did rush you over here, you can
+just make yourself at home. I'll let you know
+when the time comes.#RonIffy
 > END STRING
 
 > BEGIN STRING
 白兎は、時計の針をじっと見つめている………
-> CONTEXT: Map419/events/1/pages/0/82/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map419/events/1/pages/0/82/Dialogue
+White Rabbit is staring at the hand of the clock.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -131,7 +160,10 @@
 \\C[2]この空間に既に一人『ゲスト』が到着している\\C[0]はずだから
 \\N[1]くんは、先にその子と合流してて？
 > CONTEXT: Map419/events/1/pages/0/85/Dialogue/sirousagi_fc1 < UNTRANSLATED
+Oh yeah, I almost forgot.
 
+\\C[2]One of the "guests" should have already
+arrived.\\C[0] Go on and meet up with them, will you?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -139,8 +171,11 @@
 実は見た目ほど広くはないんだよ。
 
 少し歩けば、すぐに見つかると思うから。
-> CONTEXT: Map419/events/1/pages/0/90/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map419/events/1/pages/0/90/Dialogue/sirousagi_fc1
+Because keeping this barrier hidden from Abaddon
+was our main concern, this space is actually not
+as big as it first appears, so you should be able
+to quickly find them if you walk around a little.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -148,56 +183,71 @@
 
 お前、こっちはどんなヤツかも分からないんだぞ……
 ホント自分勝手だな……
-> CONTEXT: Map419/events/1/pages/0/95/Dialogue/other2 < UNTRANSLATED
+> CONTEXT: Map419/events/1/pages/0/95/Dialogue/other2
+"Meet up"...?
 
+We have no idea who this other person might be.
+You just do whatever you want, don't you?#RonIffyWording
 > END STRING
 
 > BEGIN STRING
 だいじょーぶ、どうせこの空間にはその子しかいない。
 
 カワイイ女の子だから、すぐに分かるはずだよ。
-> CONTEXT: Map419/events/1/pages/0/100/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map419/events/1/pages/0/100/Dialogue/sirousagi_fc1
+It's aaalright. There's no one else in this space
+but them anyway. She's a cute girl so I'm sure
+you'll understand when you see her.#RonIffy
 > END STRING
 
 > BEGIN STRING
 ほら！
 
 ウワサをすれば向こうから……
-> CONTEXT: Map419/events/1/pages/0/112/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map419/events/1/pages/0/112/Dialogue/sirousagi_fc1
+Here we are!
 
+Speak of the devil.#Ron
 > END STRING
 
 > BEGIN STRING
 あら……ごきげんよう
 
 やっと自分以外に動いている生物に出会えたわ。
-> CONTEXT: Map419/events/1/pages/0/132/Dialogue/highslag_fc1 < UNTRANSLATED
+> CONTEXT: Map419/events/1/pages/0/132/Dialogue/highslag_fc1
+Oh my, greetings.
 
+I've finally met another moving organism here
+besides myself.#Ron
 > END STRING
 
 > BEGIN STRING
 僕の目の前に現れたのは
 
 巨大な蛞蝓の下半身をもつ、貴族のような格好をした女性…
-> CONTEXT: Map419/events/1/pages/0/138/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map419/events/1/pages/0/138/Dialogue
+Appearing in front of me is a female with the lower half
+of a huge slug, and the upper half of a aristocratic
+woman.#Ron
 > END STRING
 
 > BEGIN STRING
 人間ではないことはもちろんだが
 
 とてもこちらに友好的とは思えないほどの気迫を感じる……
-> CONTEXT: Map419/events/1/pages/0/142/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map419/events/1/pages/0/142/Dialogue
+She's obviously not human, but I can also sense
+quite an unfriendly vibe from her.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
 あ、あからさまに邪悪な気配を感じるんだけど……
 
 彼女が、さっき言ってた『ゲスト』なのか…？
-> CONTEXT: Map419/events/1/pages/0/146/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map419/events/1/pages/0/146/Dialogue/kazuya
+I'm getting an overtly evil feeling from her...
 
+Are you sure she's a guest?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -205,8 +255,11 @@
 
 おかしいな、なんでこの場所に
 ボクの世界のハイスラッグ娘が……？
-> CONTEXT: Map419/events/1/pages/0/150/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map419/events/1/pages/0/150/Dialogue/sirousagi_fc1
+No, she's not.
 
+That's strange, how did a High Slug girl from my
+world get in here?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -214,16 +267,21 @@
 \\C[10]『世界融解』\\C[0]の影響をモロに受けてる…
 
 ……アバドーンに会ったね？
-> CONTEXT: Map419/events/1/pages/0/155/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map419/events/1/pages/0/155/Dialogue/sirousagi_fc1
+And that feeling coming from her...
 
+Is it all an effect of the \\C[10]world fusion?\\C[0]
+Did she run into Abaddon?#Ron
 > END STRING
 
 > BEGIN STRING
 アバドーン……？
 
 さぁ、そんな名前は聞いてないわね……
-> CONTEXT: Map419/events/1/pages/0/160/Dialogue/highslag_fc1 < UNTRANSLATED
+> CONTEXT: Map419/events/1/pages/0/160/Dialogue/highslag_fc1
+Abaddon?
 
+No idea. I've never heard that name before.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -231,8 +289,11 @@
 ナメクジタワーに、変な双子の魔物がやってきてね
 
 私に『協力して欲しい』っていうのよ。
-> CONTEXT: Map419/events/1/pages/0/164/Dialogue/highslag_fc1 < UNTRANSLATED
-
+> CONTEXT: Map419/events/1/pages/0/164/Dialogue/highslag_fc1
+However, I don't know if they were that Abbadon
+or not, but a strange pair of twin spirits did
+turn up at the Slug Tower. They said they wanted
+help with something.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -240,24 +301,32 @@
 『暇だから、付き合ってあげる』って言ったら……
 
 いきなり、ここに連れてこられたってわけ。
-> CONTEXT: Map419/events/1/pages/0/172/Dialogue/highslag_fc1 < UNTRANSLATED
-
+> CONTEXT: Map419/events/1/pages/0/172/Dialogue/highslag_fc1
+I told them I didn't know what this \\C[10]world fusion\\C[0]
+was, but that I'd go with them since I had some
+free time. And the moment I said that I was
+suddenly brought here.#Ron
 > END STRING
 
 > BEGIN STRING
 不思議な魔物だったわね……
 
 自分たちのことを『悪魔』なんて言うんですもの……
-> CONTEXT: Map419/events/1/pages/0/177/Dialogue/highslag_fc1 < UNTRANSLATED
+> CONTEXT: Map419/events/1/pages/0/177/Dialogue/highslag_fc1
+They were quite strange spirits...
 
+They called themselves "demons".#Ron
 > END STRING
 
 > BEGIN STRING
 でも……フフ……今分かったわ
 
 あなたが彼女たちの言っていた『\\N[1]』ね？
-> CONTEXT: Map419/events/1/pages/0/184/Dialogue/highslag_fc1 < UNTRANSLATED
+> CONTEXT: Map419/events/1/pages/0/184/Dialogue/highslag_fc1
+However... fufu... I think I understand now.
 
+You're that "\\N[1]" they were talking
+about, aren't you?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -265,8 +334,11 @@
 
 方法は、物理的でもいいし、捕食でもいい……
 気に入ったなら、交尾相手にしてもいいってね…♡
-> CONTEXT: Map419/events/1/pages/0/190/Dialogue/highslag_fc1 < UNTRANSLATED
-
+> CONTEXT: Map419/events/1/pages/0/190/Dialogue/highslag_fc1
+Those twins asked me to dispose of you, whether
+by using violence, or by making a meal out of you.
+They said I could even make you into my mate if
+I took a liking to you. ♡
 > END STRING
 
 > BEGIN STRING
@@ -274,6 +346,9 @@
 さっきから身体がうずいて仕方がないの……
 
 お相手してもらえるかしら…？♡
-> CONTEXT: Map419/events/1/pages/0/195/Dialogue/highslag_fc1 < UNTRANSLATED
+> CONTEXT: Map419/events/1/pages/0/195/Dialogue/highslag_fc1
+What perfect timing, too.
 
+My body's been aching so much this last while.
+Will you be my partner? ♡#Ron
 > END STRING

@@ -11,8 +11,9 @@
 \\N[1]は、ハイスラッグ娘の攻撃が直撃し
 
 後方へと吹っ飛ばされてしまった！！
-> CONTEXT: CommonEvents_741/7/Dialogue < UNTRANSLATED
-
+> CONTEXT: CommonEvents_741/7/Dialogue
+\\N[1] took High Slug Girl's attack head-on and was
+blown backwards!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -20,8 +21,11 @@
 
 あなたは強いオスだと聞いていたけど、
 どうやら見当違いだったみたいだわ。
-> CONTEXT: CommonEvents_741/11/Dialogue/highslag_fc1 < UNTRANSLATED
+> CONTEXT: CommonEvents_741/11/Dialogue/highslag_fc1
+Fufu, is it already over?
 
+I had heard you were a strong male, but it would
+seem I was misinformed.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -29,38 +33,46 @@
 
 だって、せっかくのエサをボロボロになんてしたら
 大変でしょう…♡
-> CONTEXT: CommonEvents_741/16/Dialogue/highslag_fc1 < UNTRANSLATED
+> CONTEXT: CommonEvents_741/16/Dialogue/highslag_fc1
+But fret not, your body should be unharmed.
 
+After all, it would be quite a problem if I were
+to ruin my special prey. ♡#Ron
 > END STRING
 
 > BEGIN STRING
 ぐっ……うっ……
-> CONTEXT: CommonEvents_741/21/Dialogue/kazuya-0 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_741/21/Dialogue/kazuya-0
+Ggh... Ugh...#Ron
 > END STRING
 
 > BEGIN STRING
 確かに、身体に大穴ができてもおかしくない衝撃だったのに
 
 自分の身体には吹っ飛ばされたときの擦り傷しかない……
-> CONTEXT: CommonEvents_741/23/Dialogue < UNTRANSLATED
-
+> CONTEXT: CommonEvents_741/23/Dialogue
+Just as she said, despite expecting to have huge holes in
+my body from that kind of attack, the only injuries I have
+are the scrapes I got from being thrown back.#Ron
 > END STRING
 
 > BEGIN STRING
 だが、その衝撃はちゃんと身体に響いているらしく
 
 もはや指一本自由に動かせなかった……
-> CONTEXT: CommonEvents_741/27/Dialogue < UNTRANSLATED
-
+> CONTEXT: CommonEvents_741/27/Dialogue
+But the shock from that impact is still ringing through my
+whole body, and I can't even move a finger anymore.#Ron
 > END STRING
 
 > BEGIN STRING
 うっ………ぐっ……
 
 くそっ……！！
-> CONTEXT: CommonEvents_741/31/Dialogue/kazuya-0 < UNTRANSLATED
+> CONTEXT: CommonEvents_741/31/Dialogue/kazuya-0
+Uugh... Ggh...
 
+Damn it!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -68,117 +80,120 @@
 もう貴方は動けない……
 
 私に溶かされて、食べられるだけの哀れなエサ…♡
-> CONTEXT: CommonEvents_741/35/Dialogue/highslag_fc1 < UNTRANSLATED
+> CONTEXT: CommonEvents_741/35/Dialogue/highslag_fc1
+Don't bother, you can't move anymore.
 
+You're my pathetic little prey whose only role
+now is to be melted and eaten by me. ♡#Ron
 > END STRING
 
 > BEGIN STRING
 \\N[1]は、ハイスラッグ娘に敗北してしまった……
-> CONTEXT: CommonEvents_741/50/Dialogue < UNTRANSLATED
-> CONTEXT: CommonEvents_742/11/Dialogue < UNTRANSLATED
-> CONTEXT: CommonEvents_743/11/Dialogue < UNTRANSLATED
-> CONTEXT: CommonEvents_789/244/Dialogue < UNTRANSLATED
-
+> CONTEXT: CommonEvents_741/50/Dialogue
+> CONTEXT: CommonEvents_742/11/Dialogue
+> CONTEXT: CommonEvents_743/11/Dialogue
+> CONTEXT: CommonEvents_789/244/Dialogue
+\\N[1] has been defeated by High Slug Girl.#Ron
 > END STRING
 
 > BEGIN STRING
 リベンジデータをロード
-> CONTEXT: CommonEvents_741/52/Choice/0 < UNTRANSLATED
-> CONTEXT: CommonEvents_742/13/Choice/0 < UNTRANSLATED
-> CONTEXT: CommonEvents_743/13/Choice/0 < UNTRANSLATED
-> CONTEXT: CommonEvents_747/105/Choice/0 < UNTRANSLATED
-> CONTEXT: CommonEvents_789/36/Choice/0 < UNTRANSLATED
-> CONTEXT: CommonEvents_789/74/Choice/0 < UNTRANSLATED
-> CONTEXT: CommonEvents_789/109/Choice/0 < UNTRANSLATED
-> CONTEXT: CommonEvents_789/144/Choice/0 < UNTRANSLATED
-> CONTEXT: CommonEvents_789/179/Choice/0 < UNTRANSLATED
-> CONTEXT: CommonEvents_789/214/Choice/0 < UNTRANSLATED
-> CONTEXT: CommonEvents_789/246/Choice/0 < UNTRANSLATED
-> CONTEXT: CommonEvents_789/281/Choice/0 < UNTRANSLATED
-> CONTEXT: CommonEvents_789/315/Choice/0 < UNTRANSLATED
-> CONTEXT: CommonEvents_789/349/Choice/0 < UNTRANSLATED
-> CONTEXT: CommonEvents_789/384/Choice/0 < UNTRANSLATED
-> CONTEXT: CommonEvents_789/416/Choice/0 < UNTRANSLATED
-> CONTEXT: Troops/353/pages/0/187/Choice/0 < UNTRANSLATED
-> CONTEXT: Troops/362/pages/0/19/Choice/0 < UNTRANSLATED
-> CONTEXT: Troops/384/pages/0/20/Choice/0 < UNTRANSLATED
-> CONTEXT: Troops/387/pages/0/20/Choice/0 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_741/52/Choice/0
+> CONTEXT: CommonEvents_742/13/Choice/0
+> CONTEXT: CommonEvents_743/13/Choice/0
+> CONTEXT: CommonEvents_747/105/Choice/0
+> CONTEXT: CommonEvents_789/36/Choice/0
+> CONTEXT: CommonEvents_789/74/Choice/0
+> CONTEXT: CommonEvents_789/109/Choice/0
+> CONTEXT: CommonEvents_789/144/Choice/0
+> CONTEXT: CommonEvents_789/179/Choice/0
+> CONTEXT: CommonEvents_789/214/Choice/0
+> CONTEXT: CommonEvents_789/246/Choice/0
+> CONTEXT: CommonEvents_789/281/Choice/0
+> CONTEXT: CommonEvents_789/315/Choice/0
+> CONTEXT: CommonEvents_789/349/Choice/0
+> CONTEXT: CommonEvents_789/384/Choice/0
+> CONTEXT: CommonEvents_789/416/Choice/0
+> CONTEXT: Troops/353/pages/0/187/Choice/0
+> CONTEXT: Troops/362/pages/0/19/Choice/0
+> CONTEXT: Troops/384/pages/0/20/Choice/0
+> CONTEXT: Troops/387/pages/0/20/Choice/0
+Try again#Ron
 > END STRING
 
 > BEGIN STRING
 敗北シーンを見る（ゲームオーバー）
-> CONTEXT: CommonEvents_741/52/Choice/1 < UNTRANSLATED
-> CONTEXT: CommonEvents_742/13/Choice/1 < UNTRANSLATED
-> CONTEXT: CommonEvents_743/13/Choice/1 < UNTRANSLATED
-> CONTEXT: CommonEvents_747/105/Choice/1 < UNTRANSLATED
-> CONTEXT: CommonEvents_789/36/Choice/1 < UNTRANSLATED
-> CONTEXT: CommonEvents_789/74/Choice/1 < UNTRANSLATED
-> CONTEXT: CommonEvents_789/109/Choice/1 < UNTRANSLATED
-> CONTEXT: CommonEvents_789/144/Choice/1 < UNTRANSLATED
-> CONTEXT: CommonEvents_789/179/Choice/1 < UNTRANSLATED
-> CONTEXT: CommonEvents_789/214/Choice/1 < UNTRANSLATED
-> CONTEXT: CommonEvents_789/246/Choice/1 < UNTRANSLATED
-> CONTEXT: CommonEvents_789/281/Choice/1 < UNTRANSLATED
-> CONTEXT: CommonEvents_789/315/Choice/1 < UNTRANSLATED
-> CONTEXT: CommonEvents_789/349/Choice/1 < UNTRANSLATED
-> CONTEXT: CommonEvents_789/384/Choice/1 < UNTRANSLATED
-> CONTEXT: CommonEvents_789/416/Choice/1 < UNTRANSLATED
-> CONTEXT: Troops/353/pages/0/187/Choice/1 < UNTRANSLATED
-> CONTEXT: Troops/362/pages/0/19/Choice/1 < UNTRANSLATED
-> CONTEXT: Troops/384/pages/0/20/Choice/1 < UNTRANSLATED
-> CONTEXT: Troops/387/pages/0/20/Choice/1 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_741/52/Choice/1
+> CONTEXT: CommonEvents_742/13/Choice/1
+> CONTEXT: CommonEvents_743/13/Choice/1
+> CONTEXT: CommonEvents_747/105/Choice/1
+> CONTEXT: CommonEvents_789/36/Choice/1
+> CONTEXT: CommonEvents_789/74/Choice/1
+> CONTEXT: CommonEvents_789/109/Choice/1
+> CONTEXT: CommonEvents_789/144/Choice/1
+> CONTEXT: CommonEvents_789/179/Choice/1
+> CONTEXT: CommonEvents_789/214/Choice/1
+> CONTEXT: CommonEvents_789/246/Choice/1
+> CONTEXT: CommonEvents_789/281/Choice/1
+> CONTEXT: CommonEvents_789/315/Choice/1
+> CONTEXT: CommonEvents_789/349/Choice/1
+> CONTEXT: CommonEvents_789/384/Choice/1
+> CONTEXT: CommonEvents_789/416/Choice/1
+> CONTEXT: Troops/353/pages/0/187/Choice/1
+> CONTEXT: Troops/362/pages/0/19/Choice/1
+> CONTEXT: Troops/384/pages/0/20/Choice/1
+> CONTEXT: Troops/387/pages/0/20/Choice/1
+Watch loss scene (Game over)#Ron
 > END STRING
 
 > BEGIN STRING
 タイトル画面に戻る（ゲームオーバー）
-> CONTEXT: CommonEvents_741/52/Choice/2 < UNTRANSLATED
-> CONTEXT: CommonEvents_742/13/Choice/2 < UNTRANSLATED
-> CONTEXT: CommonEvents_743/13/Choice/2 < UNTRANSLATED
-> CONTEXT: CommonEvents_747/105/Choice/2 < UNTRANSLATED
-> CONTEXT: CommonEvents_789/36/Choice/2 < UNTRANSLATED
-> CONTEXT: CommonEvents_789/74/Choice/2 < UNTRANSLATED
-> CONTEXT: CommonEvents_789/109/Choice/2 < UNTRANSLATED
-> CONTEXT: CommonEvents_789/144/Choice/2 < UNTRANSLATED
-> CONTEXT: CommonEvents_789/179/Choice/2 < UNTRANSLATED
-> CONTEXT: CommonEvents_789/214/Choice/2 < UNTRANSLATED
-> CONTEXT: CommonEvents_789/246/Choice/2 < UNTRANSLATED
-> CONTEXT: CommonEvents_789/281/Choice/2 < UNTRANSLATED
-> CONTEXT: CommonEvents_789/315/Choice/2 < UNTRANSLATED
-> CONTEXT: CommonEvents_789/349/Choice/2 < UNTRANSLATED
-> CONTEXT: CommonEvents_789/384/Choice/2 < UNTRANSLATED
-> CONTEXT: CommonEvents_789/416/Choice/2 < UNTRANSLATED
-> CONTEXT: Troops/353/pages/0/187/Choice/2 < UNTRANSLATED
-> CONTEXT: Troops/362/pages/0/19/Choice/2 < UNTRANSLATED
-> CONTEXT: Troops/384/pages/0/20/Choice/2 < UNTRANSLATED
-> CONTEXT: Troops/387/pages/0/20/Choice/2 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_741/52/Choice/2
+> CONTEXT: CommonEvents_742/13/Choice/2
+> CONTEXT: CommonEvents_743/13/Choice/2
+> CONTEXT: CommonEvents_747/105/Choice/2
+> CONTEXT: CommonEvents_789/36/Choice/2
+> CONTEXT: CommonEvents_789/74/Choice/2
+> CONTEXT: CommonEvents_789/109/Choice/2
+> CONTEXT: CommonEvents_789/144/Choice/2
+> CONTEXT: CommonEvents_789/179/Choice/2
+> CONTEXT: CommonEvents_789/214/Choice/2
+> CONTEXT: CommonEvents_789/246/Choice/2
+> CONTEXT: CommonEvents_789/281/Choice/2
+> CONTEXT: CommonEvents_789/315/Choice/2
+> CONTEXT: CommonEvents_789/349/Choice/2
+> CONTEXT: CommonEvents_789/384/Choice/2
+> CONTEXT: CommonEvents_789/416/Choice/2
+> CONTEXT: Troops/353/pages/0/187/Choice/2
+> CONTEXT: Troops/362/pages/0/19/Choice/2
+> CONTEXT: Troops/384/pages/0/20/Choice/2
+> CONTEXT: Troops/387/pages/0/20/Choice/2
+Return to title (Game over)#Ron
 > END STRING
 
 > BEGIN STRING
 反省会に出る
-> CONTEXT: CommonEvents_741/52/Choice/3 < UNTRANSLATED
-> CONTEXT: CommonEvents_742/13/Choice/3 < UNTRANSLATED
-> CONTEXT: CommonEvents_743/13/Choice/3 < UNTRANSLATED
-> CONTEXT: CommonEvents_747/105/Choice/3 < UNTRANSLATED
-> CONTEXT: CommonEvents_789/36/Choice/3 < UNTRANSLATED
-> CONTEXT: CommonEvents_789/74/Choice/3 < UNTRANSLATED
-> CONTEXT: CommonEvents_789/109/Choice/3 < UNTRANSLATED
-> CONTEXT: CommonEvents_789/144/Choice/3 < UNTRANSLATED
-> CONTEXT: CommonEvents_789/179/Choice/3 < UNTRANSLATED
-> CONTEXT: CommonEvents_789/214/Choice/3 < UNTRANSLATED
-> CONTEXT: CommonEvents_789/246/Choice/3 < UNTRANSLATED
-> CONTEXT: CommonEvents_789/281/Choice/3 < UNTRANSLATED
-> CONTEXT: CommonEvents_789/315/Choice/3 < UNTRANSLATED
-> CONTEXT: CommonEvents_789/349/Choice/3 < UNTRANSLATED
-> CONTEXT: CommonEvents_789/384/Choice/3 < UNTRANSLATED
-> CONTEXT: CommonEvents_789/416/Choice/3 < UNTRANSLATED
-> CONTEXT: Troops/353/pages/0/187/Choice/3 < UNTRANSLATED
-> CONTEXT: Troops/362/pages/0/19/Choice/3 < UNTRANSLATED
-> CONTEXT: Troops/384/pages/0/20/Choice/3 < UNTRANSLATED
-> CONTEXT: Troops/387/pages/0/20/Choice/3 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_741/52/Choice/3
+> CONTEXT: CommonEvents_742/13/Choice/3
+> CONTEXT: CommonEvents_743/13/Choice/3
+> CONTEXT: CommonEvents_747/105/Choice/3
+> CONTEXT: CommonEvents_789/36/Choice/3
+> CONTEXT: CommonEvents_789/74/Choice/3
+> CONTEXT: CommonEvents_789/109/Choice/3
+> CONTEXT: CommonEvents_789/144/Choice/3
+> CONTEXT: CommonEvents_789/179/Choice/3
+> CONTEXT: CommonEvents_789/214/Choice/3
+> CONTEXT: CommonEvents_789/246/Choice/3
+> CONTEXT: CommonEvents_789/281/Choice/3
+> CONTEXT: CommonEvents_789/315/Choice/3
+> CONTEXT: CommonEvents_789/349/Choice/3
+> CONTEXT: CommonEvents_789/384/Choice/3
+> CONTEXT: CommonEvents_789/416/Choice/3
+> CONTEXT: Troops/353/pages/0/187/Choice/3
+> CONTEXT: Troops/362/pages/0/19/Choice/3
+> CONTEXT: Troops/384/pages/0/20/Choice/3
+> CONTEXT: Troops/387/pages/0/20/Choice/3
+Receive evaluation#Ron
 > END STRING
 
 > BEGIN STRING

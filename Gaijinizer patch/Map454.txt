@@ -3,8 +3,9 @@
 ヴァシリカは、大勢のブラックドッグに追われて
 
 神社の裏手へと逃げていった……
-> CONTEXT: Map454/events/2/pages/0/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map454/events/2/pages/0/6/Dialogue
+Vasilica fled to the back of the shrine with a crowd of
+Black Dogs in pursuit.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -12,32 +13,40 @@
 やるねぇ、\\N[1]くん。
 
 突破口になるかも程度だったけど、全員追っ払っちゃった。
-> CONTEXT: Map454/events/2/pages/0/13/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map454/events/2/pages/0/13/Dialogue/sirousagi_fc1
+Oooh, nicely done \\N[1]-kun.
 
+It might just be a small opening for us, but
+you've driven them all away.#CheckLater
 > END STRING
 
 > BEGIN STRING
 …………同じように、魔界肉で買収して
 
 バーゲストに手伝ってもらってた夢魔がいたからね……
-> CONTEXT: Map454/events/2/pages/0/18/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map454/events/2/pages/0/18/Dialogue/kazuya
+It's only because Barghest can be bribed to help
+with Demon Realm meat as well.#Ron
 > END STRING
 
 > BEGIN STRING
 思いついたはいいけど、あんな状況だったから
 
 結構むちゃくちゃな話題の切り出し方になっちゃった…
-> CONTEXT: Map454/events/2/pages/0/22/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map454/events/2/pages/0/22/Dialogue/kazuya
+Though I managed to think of it in the end, my
+mind was all over the place because of the
+situation so I just started blabbering.#RonIffy
 > END STRING
 
 > BEGIN STRING
 白兎、今度は何の企みだ！？
 
 我々を、いったいどこに導いた……！？
-> CONTEXT: Map454/events/2/pages/0/28/Dialogue/alice_fc6 < UNTRANSLATED
+> CONTEXT: Map454/events/2/pages/0/28/Dialogue/alice_fc6
+What are you plotting, White Rabbit?!
 
+Where the hell have you led us?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -45,8 +54,11 @@
 
 ボクはルカだけをひっそりこの空間に
 喚んだつもりだったんだけどな……
-> CONTEXT: Map454/events/2/pages/0/38/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map454/events/2/pages/0/38/Dialogue/sirousagi_fc1
+Hm? Oh, you came as well, Alice.
 
+I was trying to sneakily call just Luka into this
+space.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -54,8 +66,11 @@
 
 『この空間に喚んだ』…！？
 そもそも、ここは何処なのだ！！
-> CONTEXT: Map454/events/2/pages/0/43/Dialogue/alice_fc6 < UNTRANSLATED
+> CONTEXT: Map454/events/2/pages/0/43/Dialogue/alice_fc6
+What did you say?! What do you mean "call Luka
+into this space"?!
 
+And where is this place, anyway?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -63,40 +78,50 @@
 
 なんでカズヤがここに…！？
 僕と同じ、ポケット魔王城にいたはずじゃ…
-> CONTEXT: Map454/events/2/pages/0/48/Dialogue/ruka_fc1 < UNTRANSLATED
+> CONTEXT: Map454/events/2/pages/0/48/Dialogue/ruka_fc1
+A-And also... why is Kazuya here?!
 
+I thought he was in the Pocket Monster Lord
+Castle with me.#CheckLater
 > END STRING
 
 > BEGIN STRING
 ぽ、ぽけっと……？
 
 魔王城…？？？？
-> CONTEXT: Map454/events/2/pages/0/60/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map454/events/2/pages/0/60/Dialogue/kazuya
+P-Pocket...
 
+Monster Lord Castle?#CheckLater
 > END STRING
 
 > BEGIN STRING
 ごめん………なんで僕の名前を知っているか分からないけど
 
 たぶん、君と僕は初対面だと思うよ……
-> CONTEXT: Map454/events/2/pages/0/64/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map454/events/2/pages/0/64/Dialogue/kazuya
+Sorry... I don't know how you know my name, but
+I think this is the first time we've met.#Ron
 > END STRING
 
 > BEGIN STRING
 ぽ、ぽけっと……？
 
 カズヤ……？
-> CONTEXT: Map454/events/2/pages/0/71/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map454/events/2/pages/0/71/Dialogue/kazuya
+P-Pocket?
 
+Kazuya?#Ron
 > END STRING
 
 > BEGIN STRING
 ごめん………他の誰かと勘違いしてるみたいだけど…
 
 たぶん、君と僕は初対面だと思うよ……
-> CONTEXT: Map454/events/2/pages/0/75/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map454/events/2/pages/0/75/Dialogue/kazuya
+Sorry... it seems like you have me confused with
+someone else. I think this is the first time
+we've met.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -104,8 +129,11 @@
 
 キミたちもボクと同じ時系列だから
 \\N[1]くんは向こうのカズヤくんなんだっけ………
-> CONTEXT: Map454/events/2/pages/0/81/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map454/events/2/pages/0/81/Dialogue/sirousagi_fc1
+Ah, that's right...
+You two are on the same timeline as me, so you
+could say that \\N[1]-kun here is the Kazuya
+of this timeline.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -113,8 +141,10 @@
 
 それじゃあ、戦闘のクールダウンも兼ねて
 ボクの方から、この空間と現状について簡単に説明するよ。
-> CONTEXT: Map454/events/2/pages/0/86/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map454/events/2/pages/0/86/Dialogue/sirousagi_fc1
+Okay, I'll give you guys a simple explanation
+of this space and of the situation while we cool
+down from the battle.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -122,8 +152,11 @@
 
 今は状況が状況だし、状況と目的がハッキリしないと
 ルカも協力に躊躇っちゃうだろうしね。
-> CONTEXT: Map454/events/2/pages/0/91/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map454/events/2/pages/0/91/Dialogue/sirousagi_fc1
+Normally I wouldn't be wasting time on leisurely
+explanations, but the situation being what it is,
+I need to be clear on what's happening and what
+the plan is, or Luka might be wary of helping.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -131,8 +164,11 @@
 
 つまり、\\C[2]違う世界の僕がそちらの世界に迷い込んでいて
 キミたちと一緒に戦ってるって事か……
-> CONTEXT: Map454/events/2/pages/0/100/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map454/events/2/pages/0/100/Dialogue/kazuya
+I see...
 
+So \\C[2]there's a version of me who got lost in your
+world and is now fighting together with you?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -140,8 +176,11 @@
 こちらが全く身に覚えがなかったから困惑したけど……
 
 その話を聞いて、合点がいったよ
-> CONTEXT: Map454/events/2/pages/0/105/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map454/events/2/pages/0/105/Dialogue/kazuya
+I was confused because I didn't even know your
+names and yet you were talking like you knew me.
 
+Hearing all that, I get it now.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -149,14 +188,16 @@
 こっちの\\N[1]は、向こうのカズヤとは別人なのか…
 
 見た目は同一人物なのに……
-> CONTEXT: Map454/events/2/pages/0/110/Dialogue/ruka_fc1 < UNTRANSLATED
-
+> CONTEXT: Map454/events/2/pages/0/110/Dialogue/ruka_fc1
+I was surprised, too. Despite looking identical,
+you're a whole different person from the Kazuya
+I know.#Ron
 > END STRING
 
 > BEGIN STRING
 ……一応、同一人物だぞ。
-> CONTEXT: Map454/events/2/pages/0/115/Dialogue/alice_fc5 < UNTRANSLATED
-
+> CONTEXT: Map454/events/2/pages/0/115/Dialogue/alice_fc5
+He is basically the same person.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -164,8 +205,11 @@
 
 そこにいる夜深とやらの容貌を見ても『魔物』と変わらん故
 さして実感が湧かんな。
-> CONTEXT: Map454/events/2/pages/0/117/Dialogue/alice_fc5 < UNTRANSLATED
-
+> CONTEXT: Map454/events/2/pages/0/117/Dialogue/alice_fc5
+But still, a world where "demons" rule...
+When I look at one like Yami or whatever her name
+is, I don't get the sense that she's particularly
+different from monsters.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -173,8 +217,11 @@
 
 なかなかどうして、少し存在する世界が違うと
 人外という部類も、様々な性質を持つのだな。
-> CONTEXT: Map454/events/2/pages/0/122/Dialogue/alice_fc5 < UNTRANSLATED
-
+> CONTEXT: Map454/events/2/pages/0/122/Dialogue/alice_fc5
+I can't say for sure since I've only just come
+from a parallel world, but it seems each world
+that exists is slightly different, with all sorts
+of varieties of non-humans in them.#RonLocalizationIffy
 > END STRING
 
 > BEGIN STRING
@@ -182,8 +229,11 @@
 
 触手まみれだったり、ほとんど動物の姿だったり
 見た目でいうなら、そっちとあまり変わらないかも。
-> CONTEXT: Map454/events/2/pages/0/127/Dialogue/enemy15 < UNTRANSLATED
-
+> CONTEXT: Map454/events/2/pages/0/127/Dialogue/enemy15
+Well, I do look pretty similar to humans. But if
+we're talking about things covered in tentacles or
+mostly animal in appearance, then your world might
+not be too different from ours.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -191,16 +241,20 @@
 かなり悪魔とは違った感じがする……
 
 ホントに不思議だね
-> CONTEXT: Map454/events/2/pages/0/132/Dialogue/enemy15 < UNTRANSLATED
+> CONTEXT: Map454/events/2/pages/0/132/Dialogue/enemy15
+But it seems you guys are quite different to us
+demons in terms of ecology.
 
+How very strange.#Ron
 > END STRING
 
 > BEGIN STRING
 （さっきのナメクジの子……
 
 　繁殖がどうこうって言ってたからな……）
-> CONTEXT: Map454/events/2/pages/0/137/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map454/events/2/pages/0/137/Dialogue/kazuya
+(Like that slug girl from before talking about
+ reproduction.)#Ron
 > END STRING
 
 > BEGIN STRING
@@ -208,38 +262,47 @@
 白兎が言ってたのを聞いてただけで恐縮なんだけど…
 
 ルカくんと、アリスさん……でいいんだよね？名前。
-> CONTEXT: Map454/events/2/pages/0/143/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map454/events/2/pages/0/143/Dialogue/kazuya
+Umm... so... I appreciate White Rabbit filling us
+in on everything. Do you guys mind if I call you
+Luka-kun, and Alice-san?#RonIffy
 > END STRING
 
 > BEGIN STRING
 ええと、\\C[2]『勇者』のルカと『魔王』のアリス……？
 
 \\C[0]一緒に旅をする職としては、随分と異質な組み合わせだね…
-> CONTEXT: Map454/events/2/pages/0/148/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map454/events/2/pages/0/148/Dialogue/kazuya
+Let's see, the hero Luka, and the Monster Lord
+Alice, right? \\C[0]It's a pretty odd pairing to see
+traveling together.#Ron
 > END STRING
 
 > BEGIN STRING
 正しくは、魔王アリスフィーズ１６世だ。
 
 まぁ…呼ぶときは『アリス』で構わん。
-> CONTEXT: Map454/events/2/pages/0/152/Dialogue/alice_fc5 < UNTRANSLATED
+> CONTEXT: Map454/events/2/pages/0/152/Dialogue/alice_fc5
+To be exact, I am Alipheese Fateburn XVI.
 
+But I don't mind if you call me "Alice".#Ron
 > END STRING
 
 > BEGIN STRING
 そこにいる白兎を含めた、自分の世界の異変を解決するため
 
 色々と事情があって、このナンチャッテ勇者と旅をしておる
-> CONTEXT: Map454/events/2/pages/0/156/Dialogue/alice_fc5 < UNTRANSLATED
-
+> CONTEXT: Map454/events/2/pages/0/156/Dialogue/alice_fc5
+I've been traveling together and faced a lot of
+situations with this fake hero and White Rabbit
+here in order to solve an irregularity in our
+own world.#Ron
 > END STRING
 
 > BEGIN STRING
 ナンチャッテ勇者…！？
-> CONTEXT: Map454/events/2/pages/0/160/Dialogue/ruka_fc1 < UNTRANSLATED
-
+> CONTEXT: Map454/events/2/pages/0/160/Dialogue/ruka_fc1
+Fake hero?!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -247,8 +310,11 @@
 余たちの世界に迷い込んだ原因である『夢の主』…
 
 そやつを倒すため、我らは策を練り、決戦に備えた。
-> CONTEXT: Map454/events/2/pages/0/164/Dialogue/alice_fc5 < UNTRANSLATED
-
+> CONTEXT: Map454/events/2/pages/0/164/Dialogue/alice_fc5
+The Dream Lord was the cause of Kazuya, or rather
+the other \\N[1] getting lost in our world.
+We made a plan to defeat him and prepared for a
+final battle.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -256,8 +322,11 @@
 各々部屋に戻り、一晩休息することになったのだが……
 
 ルカが、途中で妙なモノを見つけてな……
-> CONTEXT: Map454/events/2/pages/0/169/Dialogue/alice_fc5 < UNTRANSLATED
-
+> CONTEXT: Map454/events/2/pages/0/169/Dialogue/alice_fc5
+Then after we'd reached a certain point in our
+strategy meeting, we eacah went to our own rooms
+for the night. But then as we were going back,
+Luka spotted something strange.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -265,8 +334,10 @@
 
 僕の身長よりちょっと小さめくらいの
 モヤの塊みたいなのが、僕の目の前にいきなり現れたんだ。
-> CONTEXT: Map454/events/2/pages/0/175/Dialogue/ruka_fc1 < UNTRANSLATED
-
+> CONTEXT: Map454/events/2/pages/0/175/Dialogue/ruka_fc1
+It was a... weird mist or something. And a blurry
+oni just a little shorter than me suddenly
+appeared out in front of me.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -274,8 +345,11 @@
 
 ひどくボヤけていたけど、君たち二人が
 大量の魔物に襲われているのが見えて……
-> CONTEXT: Map454/events/2/pages/0/180/Dialogue/ruka_fc1 < UNTRANSLATED
-
+> CONTEXT: Map454/events/2/pages/0/180/Dialogue/ruka_fc1
+Then some kind of image appeared inside the
+mist. It was incredibly blurry, but we could see
+you two being attacked by a large number of
+monsters.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -283,8 +357,11 @@
 こやつは特に、そういうのが放っておけないタチでな…
 
 後先考えずに、モヤの中に突っ込んでいきおった。
-> CONTEXT: Map454/events/2/pages/0/185/Dialogue/alice_fc5 < UNTRANSLATED
-
+> CONTEXT: Map454/events/2/pages/0/185/Dialogue/alice_fc5
+I said it might be a trap and that we should call
+the others in the castle first, but this guy's the
+type to not leave things be. So he charged into
+the mist without thinking of the consequences.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -292,8 +369,11 @@
 急いで余もルカの後を追って、モヤの中へ突っ込んだ。
 
 ……その結果はまぁ、ご覧の通りだ。
-> CONTEXT: Map454/events/2/pages/0/190/Dialogue/alice_fc5 < UNTRANSLATED
+> CONTEXT: Map454/events/2/pages/0/190/Dialogue/alice_fc5
+And since I didn't want anything to happen to
+Luka, I quickly followed him into the mist.
 
+And the rest you already know.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -301,8 +381,11 @@
 
 巻き込まれることを想定した…？
 単なる戦力強化が目的か……
-> CONTEXT: Map454/events/2/pages/0/199/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map454/events/2/pages/0/199/Dialogue/sirousagi_fc1
+That Cheshire...
 
+Did she assume I'd get involved?
+Was her objective simply to bolster battle power?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -310,8 +393,11 @@
 あっちの女神でなくこっちの軸を選ぶくらいだから……
 
 ………余計なことを……
-> CONTEXT: Map454/events/2/pages/0/204/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map454/events/2/pages/0/204/Dialogue/sirousagi_fc1
+Or maybe...
 
+Instead of choosing the goddess, I'd...
+There was no need to...#CheckLater
 > END STRING
 
 > BEGIN STRING
@@ -319,8 +405,11 @@
 
 こちらに背中を見せて何をブツブツ言っておる。
 気持ち悪い……
-> CONTEXT: Map454/events/2/pages/0/210/Dialogue/alice_fc5 < UNTRANSLATED
+> CONTEXT: Map454/events/2/pages/0/210/Dialogue/alice_fc5
+Oi, White Rabbit!
 
+Stop muttering with your back turned to us, it's
+creepy.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -328,8 +417,11 @@
 やはりあのモヤは貴様の仕業なのだろう？
 
 一体どういうつもりなのだ？
-> CONTEXT: Map454/events/2/pages/0/215/Dialogue/alice_fc5 < UNTRANSLATED
+> CONTEXT: Map454/events/2/pages/0/215/Dialogue/alice_fc5
+Based on your words and actions so far, it seems
+that mist really was your doing, wasn't it?
 
+Just what are you up to?#Ron
 > END STRING
 
 > BEGIN STRING
@@ -337,8 +429,11 @@
 
 ルカの目の前に発生するように調整したのはボクだけど
 \\C[2]あのモヤ自体は、チェシャの生成物さ。
-> CONTEXT: Map454/events/2/pages/0/223/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map454/events/2/pages/0/223/Dialogue/sirousagi_fc1
+You're half-right, and half-wrong.
+I was the one who coordinated to endure the mist
+would appear in front of Luka, \\C[2]but the mist
+itself is the creation of Cheshire.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -346,8 +441,11 @@
 こんな大それたワームホールを生成できないんだ……
 
 この結界空間も、アイツとの共同生成物だし……
-> CONTEXT: Map454/events/2/pages/0/228/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map454/events/2/pages/0/228/Dialogue/sirousagi_fc1
+I wouldn't have the power to steal the eyes from
+the Dream Lord so perfectly, and create such an
+outrageous wormhole. This barrier is also
+something I created together with her.#CheckLater
 > END STRING
 
 > BEGIN STRING
@@ -355,14 +453,17 @@
 
 白兎のミスが『夢の主』に気付かれて
 目を付けられたのが原因だったっけ……
-> CONTEXT: Map454/events/2/pages/0/233/Dialogue/ruka_fc1 < UNTRANSLATED
-
+> CONTEXT: Map454/events/2/pages/0/233/Dialogue/ruka_fc1
+Speaking of which, wasn't the whole irregularity
+with our world caused by your mistake being
+noticed by the Dream Lord, allowing him to zero
+in on us?#CheckLater
 > END STRING
 
 > BEGIN STRING
 （そうなんだ……）
-> CONTEXT: Map454/events/2/pages/0/238/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map454/events/2/pages/0/238/Dialogue/kazuya
+(Is that right...)#Ron
 > END STRING
 
 > BEGIN STRING
@@ -370,8 +471,11 @@
 他の世界を救うために呼ばれているような時間はない。
 
 貴様もそれは充分に分かっているだろう。
-> CONTEXT: Map454/events/2/pages/0/240/Dialogue/alice_fc5 < UNTRANSLATED
-
+> CONTEXT: Map454/events/2/pages/0/240/Dialogue/alice_fc5
+Both Luka and I are already at our wit's end with
+the situation in our own world, we don't have the
+time to help save another one. You of all people
+should know that.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -379,8 +483,11 @@
 
 世界の崩壊の危機にどういった対策を取るか
 常に頭を悩ませているというのに……
-> CONTEXT: Map454/events/2/pages/0/245/Dialogue/alice_fc5 < UNTRANSLATED
-
+> CONTEXT: Map454/events/2/pages/0/245/Dialogue/alice_fc5
+For starters the "Land of Night" is not the cause
+of our world's irregularities. We've been racking
+our brains trying to figure out how to deal with
+the threat of the world collapsing.#CheckLater
 > END STRING
 
 > BEGIN STRING
@@ -388,8 +495,11 @@
 
 これを放っておくと、そういうのが全部無駄になっちゃう
 とんでもない事象が起こるんだ。
-> CONTEXT: Map454/events/2/pages/0/251/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map454/events/2/pages/0/251/Dialogue/sirousagi_fc1
+I'm afraid you can't go back. If you leave this
+world to its fate, something horrendous will
+happen that will mean everything will have been
+for nothing.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -397,8 +507,10 @@
 
 ちゃんとチェシャには、ルカの時間軸に影響しないよう
 細心の注意を払ってもらうように念を押してるから。
-> CONTEXT: Map454/events/2/pages/0/256/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map454/events/2/pages/0/256/Dialogue/sirousagi_fc1
+Also, don't worry about "time". I've made Cheshire
+take every precaution so that this doesn't have
+any effect on Luka's timeline.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -406,8 +518,11 @@
 時間軸を全く同じ瞬間に設定するようにお願いしてある。
 
 つまり、『入った瞬間の時間』に帰れるのさ。
-> CONTEXT: Map454/events/2/pages/0/261/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map454/events/2/pages/0/261/Dialogue/sirousagi_fc1
+\\C[2]I asked her to ensure that when you both return
+to your own timeline, that you emerge at the very
+same moment you left. In other words, you'll
+return at the exact moment you entered.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -415,16 +530,18 @@
 
 \\C[2]こっちでどんなに時間をかけても
 向こうに帰ると、時間は経ってない状態になるって事？
-> CONTEXT: Map454/events/2/pages/0/266/Dialogue/ruka_fc1 < UNTRANSLATED
-
+> CONTEXT: Map454/events/2/pages/0/266/Dialogue/ruka_fc1
+So what you're saying is \\C[2]no matter how much time
+we spend here, time will have stayed frozen in
+our own world until we return?#Ron
 > END STRING
 
 > BEGIN STRING
 すごいな……
 
 そんなこと出来るんだ…
-> CONTEXT: Map454/events/2/pages/0/271/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map454/events/2/pages/0/271/Dialogue/kazuya
+You can do that? Amazing.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -432,8 +549,11 @@
 
 彼女は、アバドーンに関しての世界への『介入』機能を
 一時的に拡張してもらってる。
-> CONTEXT: Map454/events/2/pages/0/275/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map454/events/2/pages/0/275/Dialogue/sirousagi_fc1
+That's the authority Cheshire, or rather, the
+"Mad Hatter" holds. She can temporarily expand
+the intervention function in worlds connected to
+Abaddon.#RonIffy
 > END STRING
 
 > BEGIN STRING
@@ -441,8 +561,11 @@
 管理者クラスですら責任問題だけど……
 
 今の彼女になら、それができるって事。
-> CONTEXT: Map454/events/2/pages/0/280/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map454/events/2/pages/0/280/Dialogue/sirousagi_fc1
+Normally the creation of a wormhole that defies
+time and space is something that would be
+questionable even for the administrative class to
+do. But it's something she can do right now.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -450,8 +573,10 @@
 
 休みナシで決戦に挑むという事態には
 ならないというわけだな……
-> CONTEXT: Map454/events/2/pages/0/285/Dialogue/alice_fc5 < UNTRANSLATED
-
+> CONTEXT: Map454/events/2/pages/0/285/Dialogue/alice_fc5
+At least we won't have a situation where Luka is
+absent and we're overdue for a mission or we're
+going into a decisive battle without a break.#DL
 > END STRING
 
 > BEGIN STRING
@@ -459,8 +584,11 @@
 決してキミたちの世界に無関係じゃないからだよ。
 
 \\C[10]これを放っておくと、世界の存在自体が消えてしまう。
-> CONTEXT: Map454/events/2/pages/0/290/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map454/events/2/pages/0/290/Dialogue/sirousagi_fc1
+The help I'm providing \\N[1] is connected
+to your world as well, you know. \\C[10]If we do
+nothing then the existence of the world itself
+will disappear.#RonIffyWording
 > END STRING
 
 > BEGIN STRING
@@ -468,46 +596,58 @@
 これは数々の並行世界に関わる、重大なインシデントなんだ
 
 決して他人事じゃない……
-> CONTEXT: Map454/events/2/pages/0/295/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map454/events/2/pages/0/295/Dialogue/sirousagi_fc1
+And not just \\N[1]'s world, but many other
+parallel worlds will also be affected, causing
+huge incidents. This isn't just someone else's
+problem.#Ron
 > END STRING
 
 > BEGIN STRING
 …………貴様がそんな顔をするとはな。
 
 詳しく話してもら――-\\|\\^
-> CONTEXT: Map454/events/2/pages/0/300/Dialogue/alice_fc5 < UNTRANSLATED
+> CONTEXT: Map454/events/2/pages/0/300/Dialogue/alice_fc5
+To think you'd have that kind of look on your
+face.
 
+Hurry up and tell us the――-\\|\\^#RonIffyWording
 > END STRING
 
 > BEGIN STRING
 な、なんだこれ…！？
 
 空間に穴が…！！
-> CONTEXT: Map454/events/2/pages/0/371/Dialogue/kazuya < UNTRANSLATED
+> CONTEXT: Map454/events/2/pages/0/371/Dialogue/kazuya
+W-What the hell's that?!
 
+A hole in spacetime?!!#Ron
 > END STRING
 
 > BEGIN STRING
 こ、これはまさか……！
 
 この現象は…！！
-> CONTEXT: Map454/events/2/pages/0/375/Dialogue/alice_fc5 < UNTRANSLATED
+> CONTEXT: Map454/events/2/pages/0/375/Dialogue/alice_fc5
+D-Don't tell me, that's...!
 
+That phenomenon...!!#Ron
 > END STRING
 
 > BEGIN STRING
 これ……どんどん広がってる…！？
 
 穴の周囲も、なんだか景色がバグってる……！
-> CONTEXT: Map454/events/2/pages/0/389/Dialogue/enemy30 < UNTRANSLATED
+> CONTEXT: Map454/events/2/pages/0/389/Dialogue/enemy30
+It's... spreading?!
 
+The area around the hole is bugging out!#Ron
 > END STRING
 
 > BEGIN STRING
 は、早く逃げないと…！
-> CONTEXT: Map454/events/2/pages/0/393/Dialogue/ruka_fc1 < UNTRANSLATED
-
+> CONTEXT: Map454/events/2/pages/0/393/Dialogue/ruka_fc1
+Q-Quickly, we have to run!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -515,8 +655,10 @@
 そのための『特別な結界』さ。
 
 アバドーンに気付かれたときの状況も想定済みだよ。
-> CONTEXT: Map454/events/2/pages/0/395/Dialogue/sirousagi_fc1 < UNTRANSLATED
-
+> CONTEXT: Map454/events/2/pages/0/395/Dialogue/sirousagi_fc1
+Don't worry! Calm down. The barrier was specially
+made to deal with this. We factored being noticed
+by Abaddon into the plan.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -524,6 +666,12 @@
 
 あらかじめ用意した結界の層を、何重にも上書きしてやれば
 そうそう再追跡は出来なくなるんだよ……
-> CONTEXT: Map454/events/2/pages/0/400/Dialogue/sirousagi_fc1 < UNTRANSLATED
+> CONTEXT: Map454/events/2/pages/0/400/Dialogue/sirousagi_fc1
+This space was designed with lots of twists and
+turns to make it hard to access.
 
+
+If someone manages to overwrite the many layers
+we've set up in advance, they'll quickly lose
+the ability to find their way back out.#RonIffy
 > END STRING

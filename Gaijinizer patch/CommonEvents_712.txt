@@ -13,84 +13,87 @@
 
 > BEGIN STRING
 \\C[6]■コマンドen(s[999999999])
-> CONTEXT: CommonEvents_712/64/Choice/0 < UNTRANSLATED
-> CONTEXT: CommonEvents_760/102/Choice/0 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_712/64/Choice/0
+> CONTEXT: CommonEvents_760/102/Choice/0
+\\C[6]■ Luka ■en(s[999999999])#Ron
 > END STRING
 
 > BEGIN STRING
 通常攻撃
-> CONTEXT: CommonEvents_712/64/Choice/1 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_712/64/Choice/1
+Normal Attack#Ron
 > END STRING
 
 > BEGIN STRING
 勇者技
-> CONTEXT: CommonEvents_712/64/Choice/2 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_712/64/Choice/2
+Hero Skills#CheckLater
 > END STRING
 
 > BEGIN STRING
 スキル
-> CONTEXT: CommonEvents_712/64/Choice/3 < UNTRANSLATED
-> CONTEXT: System/terms/commands/5 < UNTRANSLATED
-> CONTEXT: System/skill_types/36 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_712/64/Choice/3
+> CONTEXT: System/terms/commands/5
+> CONTEXT: System/skill_types/36
+Skill#Dargoth
 > END STRING
 
 > BEGIN STRING
 選択肢ヘルプ
 \\\>物理攻撃の小ダメージを与えます。
-> CONTEXT: CommonEvents_712/68/ChoiceHelp < UNTRANSLATED
-
+> CONTEXT: CommonEvents_712/68/ChoiceHelp
+\\\>Deals a small amount of physical damage.#Ron
 > END STRING
 
 > BEGIN STRING
 てやっ！！
-> CONTEXT: CommonEvents_712/70/Dialogue/ruka_fc1 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_712/70/Dialogue/ruka_fc1
+Hyaah!!#Ron
 > END STRING
 
 > BEGIN STRING
 選択肢ヘルプ
 \\\>ＳＰを消費して、強力な剣技を使用します。
-> CONTEXT: CommonEvents_712/80/ChoiceHelp < UNTRANSLATED
-
+> CONTEXT: CommonEvents_712/80/ChoiceHelp
+\\\>Consume SP to utilize powerful sword techniques.#Ron
 > END STRING
 
 > BEGIN STRING
 選択肢ヘルプ
 \\\>ＳＰを消費して、味方に有利なスキルを使用します。
-> CONTEXT: CommonEvents_712/85/ChoiceHelp < UNTRANSLATED
-
+> CONTEXT: CommonEvents_712/85/ChoiceHelp
+\\\>Consume SP to utilize skills that help allies.#Ron
 > END STRING
 
 > BEGIN STRING
 防御体勢
-> CONTEXT: CommonEvents_712/90/Choice/0 < UNTRANSLATED
-> CONTEXT: CommonEvents_760/178/Choice/0 < UNTRANSLATED
-> CONTEXT: Skills/20/name < UNTRANSLATED
-
+> CONTEXT: CommonEvents_712/90/Choice/0
+> CONTEXT: CommonEvents_760/178/Choice/0
+> CONTEXT: Skills/20/name
+Defensive Stance#Dargoth
 > END STRING
 
 > BEGIN STRING
 回避体勢 en(s[702])
-> CONTEXT: CommonEvents_712/90/Choice/1 < UNTRANSLATED
-
+> CONTEXT: CommonEvents_712/90/Choice/1
+Evasive Posture en(s[702])#Triketos
 > END STRING
 
 > BEGIN STRING
 選択肢ヘルプ
 \\\>ルカが受ける物理・魔法ダメージが50％に軽減されます
 \\\>\\C[3]ＳＰが＋1されます
-> CONTEXT: CommonEvents_712/92/ChoiceHelp < UNTRANSLATED
-
+> CONTEXT: CommonEvents_712/92/ChoiceHelp
+\\\>Reduces Luka's damage taken by 50%.
+\\\>\\C[3]Increases SP by one.#Ron
 > END STRING
 
 > BEGIN STRING
 選択肢ヘルプ
 \\\>ルカが受ける必中以外の攻撃を回避します。
 \\\>\\C[3]ＳＰが＋1されます
-> CONTEXT: CommonEvents_712/101/ChoiceHelp < UNTRANSLATED
-
+> CONTEXT: CommonEvents_712/101/ChoiceHelp
+\\\>Allows Luka to evade all attacks aimed at him except
+\\\>for auto-hit attacks.
+\\\>\\C[3]Increases SP by one.#Ron
 > END STRING

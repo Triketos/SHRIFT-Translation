@@ -3,8 +3,11 @@
 外の様子を見に行こう、\\N[1]くん。
 
 このままだと、本殿の周囲を囲まれちゃう…！
-> CONTEXT: Map451/events/1/pages/0/0/Dialogue/enemy30 < UNTRANSLATED
+> CONTEXT: Map451/events/1/pages/0/0/Dialogue/enemy30
+Let's go take a look outside, \\N[1]-kun.
 
+The main shrine building's gonna get surrounded
+at this rate!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -12,14 +15,19 @@
 本殿の脇から出られる抜け穴があるの！
 
 そこから出て、この気配の正体を探ろう！
-> CONTEXT: Map451/events/1/pages/0/4/Dialogue/enemy30 < UNTRANSLATED
+> CONTEXT: Map451/events/1/pages/0/4/Dialogue/enemy30
+Just outside this room, in the corner of the
+hallway, there's a hole you can use that leads
+out from the side of the main shrine!
 
+Let's go out through there and find out what
+this presence is!#Ron
 > END STRING
 
 > BEGIN STRING
 な、なんだ…！！？
-> CONTEXT: Map451/events/2/pages/0/40/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map451/events/2/pages/0/40/Dialogue/kazuya
+W-What was that?!!#Ron
 > END STRING
 
 > BEGIN STRING
@@ -27,8 +35,11 @@
 多分、魔法でこの本殿ごと壊すつもりだ…！
 
 少なくとも、味方って可能性は消えたな…
-> CONTEXT: Map451/events/2/pages/0/42/Dialogue/other2 < UNTRANSLATED
-
+> CONTEXT: Map451/events/2/pages/0/42/Dialogue/other2
+This is bad...
+They're probably planning on destroying the
+entire building with magic! At the very least this
+reduces the probability that they're allies.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -36,8 +47,10 @@
 こっちの場所もバレてるって事だね……
 
 抜け道で出ても、意味はなさそう…
-> CONTEXT: Map451/events/2/pages/0/47/Dialogue/enemy30 < UNTRANSLATED
-
+> CONTEXT: Map451/events/2/pages/0/47/Dialogue/enemy30
+And if they're attacking without warning, that
+must mean they already know we're in here, so
+there's no point in taking the stealthy approach.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -45,8 +58,11 @@
 
 どうせコソコソしても向こうにも気付かれてるんなら
 目の前にある出口から出た方が、色々と手間が省ける。
-> CONTEXT: Map451/events/2/pages/0/52/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map451/events/2/pages/0/52/Dialogue/kazuya
+Looks like we have no choice but to go out the
+front door. If we're going to get spotted trying
+to be quiet anyway, we might as well save
+ourselves a lot of time by meeting them head-on.#Ron
 > END STRING
 
 > BEGIN STRING
@@ -54,38 +70,48 @@
 
 \\C[2]多分この様子じゃ、向こうはやる気満々だ…
 十中八九、戦闘になるぞ…！
-> CONTEXT: Map451/events/2/pages/0/57/Dialogue/kazuya < UNTRANSLATED
-
+> CONTEXT: Map451/events/2/pages/0/57/Dialogue/kazuya
+So instead, let's brace ourselves for what's out
+there and head out! \\C[2]Given what we know so far,
+there's almost certainly a fight waiting for us.#Ron
 > END STRING
 
 > BEGIN STRING
 障子の隙間から、少しだけ外を覗いてみたが
 
 外に異常はないように見える…
-> CONTEXT: Map451/events/21/pages/0/0/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map451/events/21/pages/0/0/Dialogue
+Peeking out through a gap in the sliding door, nothing
+looks out of place outside.#Ron
 > END STRING
 
 > BEGIN STRING
 見た感じは、さっきまでと一緒だな……
 
 だけど妖気というか、魔力の気配はプンプンするぜ。
-> CONTEXT: Map451/events/21/pages/0/4/Dialogue/other1 < UNTRANSLATED
-
+> CONTEXT: Map451/events/21/pages/0/4/Dialogue/other1
+It doesn't look like anything's changed out
+there, but I'm picking up a strong whiff of
+something, like yokai energy or magic.#Ron
 > END STRING
 
 > BEGIN STRING
 たぶん、まだ本殿正面で様子をうかがってるみたいだな。
 
 今のうちに気配の正体を見てやろうぜ、\\N[1]
-> CONTEXT: Map451/events/21/pages/0/8/Dialogue/other1 < UNTRANSLATED
-
+> CONTEXT: Map451/events/21/pages/0/8/Dialogue/other1
+Whatever it is, it's probably still having a look
+around the front of the main building. Let's go
+check it out and see what it is while we have the
+chance.#Ron
 > END STRING
 
 > BEGIN STRING
 外から異様な気配を感じる……
 
 外に出ますか？
-> CONTEXT: Map451/events/20/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map451/events/20/pages/0/2/Dialogue
+A strange presence can be felt outside.
 
+Leave the building?#Ron
 > END STRING
