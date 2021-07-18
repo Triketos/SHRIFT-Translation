@@ -8,6 +8,7 @@
 > BEGIN STRING
 戦闘不能
 > CONTEXT: States/1/name
+> CONTEXT: States/249/name
 Incapacitated#Dargoth
 > END STRING
 
@@ -1125,6 +1126,26 @@ Dreaming (Heavy)#Dargoth
 > END STRING
 
 > BEGIN STRING
+ボウヤ
+> CONTEXT: States/101/name
+> CONTEXT: States/104/name
+> CONTEXT: States/105/name
+Boy#afrg
+> END STRING
+
+> BEGIN STRING
+はハイラミアに甘える子供になった！
+> CONTEXT: States/101/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はハイラミアのハグに夢中になっている…
+> CONTEXT: States/101/message3 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
 シルフストーム感知
 > CONTEXT: States/102/name
 Sylph Storm Noticed#afrg
@@ -1137,21 +1158,22 @@ Puppet#afrg
 > END STRING
 
 > BEGIN STRING
-ボウヤ
-> CONTEXT: States/105/name
-Boy#afrg
+はベルゼバブに甘える子供になった！
+> CONTEXT: States/104/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はマザーラビットのハグに夢中になっている…
+> CONTEXT: States/104/message3
+> CONTEXT: States/105/message3
+ is in a trance due to Mother Rabbit's hug...#afrg
 > END STRING
 
 > BEGIN STRING
 はマザーラビットに甘える子供になった！
 > CONTEXT: States/105/message1
  became like Mother Rabbit's child!#afrg
-> END STRING
-
-> BEGIN STRING
-はマザーラビットのハグに夢中になっている…
-> CONTEXT: States/105/message3
- is in a trance due to Mother Rabbit's hug...#afrg
 > END STRING
 
 > BEGIN STRING
@@ -1182,6 +1204,18 @@ Restraint Loosened#afrg
 の怪力の薬の効果が切れた！！
 > CONTEXT: States/109/message4
 's superhuman medicine wore off!#afrg
+> END STRING
+
+> BEGIN STRING
+子供化
+> CONTEXT: States/110/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は子供になってしまった！
+> CONTEXT: States/110/message1 < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
@@ -1491,14 +1525,32 @@ Intelligence Loss 5#afrg
 > END STRING
 
 > BEGIN STRING
+魔法アップEX
+> CONTEXT: States/159/name
+> CONTEXT: States/167/name
+Magic Up [EX]#Ron
+> END STRING
+
+> BEGIN STRING
+は魔法攻撃力が急激に上昇した。
+> CONTEXT: States/159/message1
+> CONTEXT: States/167/message1
+'s Magical Attack has greatly increased.#Ron
+> END STRING
+
+> BEGIN STRING
 攻撃力アップEX
 > CONTEXT: States/160/name
+> CONTEXT: States/166/name
+> CONTEXT: States/254/name
 Attack Up EX#afrg
 > END STRING
 
 > BEGIN STRING
 は攻撃力が急激に上昇した。
 > CONTEXT: States/160/message1
+> CONTEXT: States/166/message1
+> CONTEXT: States/254/message1
 's Attack power rose sharply.#afrg
 > END STRING
 
@@ -1823,5 +1875,242 @@ Ran away#Ron
 > BEGIN STRING
 挑戦サマエル
 > CONTEXT: States/224/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の周囲に、夜深が反撃の間合いを作った！
+> CONTEXT: States/225/message1
+'s space around him is set up for counterattacks!#RonIffyWording
+> END STRING
+
+> BEGIN STRING
+のサポートスキルの効果が解除された！
+> CONTEXT: States/225/message4
+'s support skill effect has ended!#Ron
+> END STRING
+
+> BEGIN STRING
+チュートリアル１０
+> CONTEXT: States/226/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+チュートリアル１１
+> CONTEXT: States/227/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+【サポート】終了
+> CONTEXT: States/228/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+【サポート】夜深
+> CONTEXT: States/229/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+【サポート】アリス
+> CONTEXT: States/230/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+隠れる
+> CONTEXT: States/231/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+達は、サラマンダーの加護を受けた！
+> CONTEXT: States/232/message1
+> CONTEXT: States/238/message1
+'s party receives Salamander's blessing!#Ron
+> END STRING
+
+> BEGIN STRING
+達の周囲の、炎の加護が収まった！
+> CONTEXT: States/232/message4
+> CONTEXT: States/238/message4
+'s party loses the protection of flame!#Ron
+> END STRING
+
+> BEGIN STRING
+達は、シルフの加護を受けた！
+> CONTEXT: States/233/message1
+> CONTEXT: States/239/message1
+'s party receives Sylph's blessing!#Ron
+> END STRING
+
+> BEGIN STRING
+達の周囲の、風の加護が収まった！
+> CONTEXT: States/233/message4
+> CONTEXT: States/239/message4
+'s party loses the protection of wind!#Ron
+> END STRING
+
+> BEGIN STRING
+達は、ウンディーネの加護を受けた！
+> CONTEXT: States/234/message1
+> CONTEXT: States/240/message1
+'s party receives Undine's blessing!#Ron
+> END STRING
+
+> BEGIN STRING
+達の周囲の、水の加護が収まった！
+> CONTEXT: States/234/message4
+> CONTEXT: States/240/message4
+'s party loses the protection of water!#Ron
+> END STRING
+
+> BEGIN STRING
+達は、ノームの加護を受けた！
+> CONTEXT: States/235/message1
+> CONTEXT: States/241/message1
+'s party receives Gnome's blessing!#Ron
+> END STRING
+
+> BEGIN STRING
+達の周囲の、土の加護が収まった！
+> CONTEXT: States/235/message4
+> CONTEXT: States/241/message4
+'s party loses the protection of earth!#Ron
+> END STRING
+
+> BEGIN STRING
+会心100％
+> CONTEXT: States/236/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は会心状態になった！
+> CONTEXT: States/236/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+会心＋30％
+> CONTEXT: States/237/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+サラマンダー（強化）
+> CONTEXT: States/238/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+シルフ（強化）
+> CONTEXT: States/239/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ウンディーネ（強化）
+> CONTEXT: States/240/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ノーム（強化）
+> CONTEXT: States/241/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+【サポート】Ｐ
+> CONTEXT: States/242/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+【サポート】ヘカトス
+> CONTEXT: States/243/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+【サポート】ミズキ
+> CONTEXT: States/244/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+【サポート】中村
+> CONTEXT: States/245/name < UNTRANSLATED
+> CONTEXT: States/252/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ガードEX
+> CONTEXT: States/246/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は盾で防御した！
+> CONTEXT: States/246/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は防御体勢を解除した！
+> CONTEXT: States/246/message4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精霊の加護
+> CONTEXT: States/247/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精霊のデバフ
+> CONTEXT: States/248/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は戦闘不能になった！！
+> CONTEXT: States/249/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+【サポート】瑞紀
+> CONTEXT: States/250/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+たちは、兎リンゴのダメージ半減の効果を得た！
+> CONTEXT: States/251/message1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の兎リンゴの効果が切れた！
+> CONTEXT: States/251/message4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+屈服禁止
+> CONTEXT: States/253/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+能力ダウン
+> CONTEXT: States/255/name < UNTRANSLATED
 
 > END STRING

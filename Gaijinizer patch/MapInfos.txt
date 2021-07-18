@@ -98,12 +98,14 @@ Security room#MTLed
 > CONTEXT: MapInfos/302/name 
 > CONTEXT: MapInfos/304/name 
 > CONTEXT: MapInfos/307/name 
+> CONTEXT: MapInfos/487/name
 Rest rooms#MTLed
 > END STRING
 
 > BEGIN STRING
 ボイラー室
 > CONTEXT: MapInfos/12/name
+> CONTEXT: MapInfos/543/name
 Boiler Room#MTLed
 > END STRING
 
@@ -113,6 +115,7 @@ Boiler Room#MTLed
 > CONTEXT: MapInfos/372/name
 > CONTEXT: MapInfos/373/name
 > CONTEXT: MapInfos/374/name
+> CONTEXT: MapInfos/544/name
 Vent#MTLed
 > END STRING
 
@@ -132,6 +135,9 @@ Laboratory 3#MTLed
 > CONTEXT: MapInfos/72/name
 > CONTEXT: MapInfos/205/name
 > CONTEXT: MapInfos/418/name
+> CONTEXT: MapInfos/527/name
+> CONTEXT: MapInfos/528/name
+> CONTEXT: MapInfos/529/name
 Own room#MTLed
 > END STRING
 
@@ -150,6 +156,7 @@ My room Passageway#Triketos
 > BEGIN STRING
 悪魔全書部屋
 > CONTEXT: MapInfos/25/name
+> CONTEXT: MapInfos/518/name
 All demons room#MTLed
 > END STRING
 
@@ -267,6 +274,7 @@ City area 1#MTLed
 > CONTEXT: MapInfos/261/name 
 > CONTEXT: MapInfos/301/name 
 > CONTEXT: MapInfos/306/name 
+> CONTEXT: MapInfos/519/name
 Urban area 2#MTLed
 > END STRING
 
@@ -305,6 +313,8 @@ Factory#MTLed
 > CONTEXT: MapInfos/263/name 
 > CONTEXT: MapInfos/295/name 
 > CONTEXT: MapInfos/308/name 
+> CONTEXT: MapInfos/512/name
+> CONTEXT: MapInfos/532/name
 Alley#MTLed
 > END STRING
 
@@ -325,6 +335,7 @@ One cushion#MTLed
 > BEGIN STRING
 市街地４（Chap2）
 > CONTEXT: MapInfos/57/name
+> CONTEXT: MapInfos/501/name
 City area 4 (Chap 2)#MTLed
 > END STRING
 
@@ -370,6 +381,9 @@ Main hall#MTLed
 > CONTEXT: MapInfos/78/name
 > CONTEXT: MapInfos/91/name
 > CONTEXT: MapInfos/93/name
+> CONTEXT: MapInfos/466/name
+> CONTEXT: MapInfos/514/name
+> CONTEXT: MapInfos/542/name
 Internal#MTLed
 > END STRING
 
@@ -385,6 +399,7 @@ Abyss#MTLed
 > BEGIN STRING
 市街地５
 > CONTEXT: MapInfos/69/name
+> CONTEXT: MapInfos/505/name
 Urban area 5#MTLed
 > END STRING
 
@@ -649,12 +664,15 @@ Underground tunnel (G)#MTLed
 > BEGIN STRING
 神社
 > CONTEXT: MapInfos/147/name
+> CONTEXT: MapInfos/419/name
 Shrine#MTLed
 > END STRING
 
 > BEGIN STRING
 夜深の部屋
 > CONTEXT: MapInfos/148/name
+> CONTEXT: MapInfos/448/name
+> CONTEXT: MapInfos/450/name
 Midniht's room#MTLed
 > END STRING
 
@@ -738,6 +756,11 @@ Reflection room (event)#MTLed
 > BEGIN STRING
 協会
 > CONTEXT: MapInfos/167/name
+> CONTEXT: MapInfos/504/name
+> CONTEXT: MapInfos/509/name
+> CONTEXT: MapInfos/510/name
+> CONTEXT: MapInfos/515/name
+> CONTEXT: MapInfos/524/name
 Association#MTLed
 > END STRING
 
@@ -745,12 +768,21 @@ Association#MTLed
 崖
 > CONTEXT: MapInfos/168/name
 > CONTEXT: MapInfos/203/name
+> CONTEXT: MapInfos/530/name
+> CONTEXT: MapInfos/535/name
+> CONTEXT: MapInfos/536/name
+> CONTEXT: MapInfos/537/name
 Cliff#MTLed
 > END STRING
 
 > BEGIN STRING
 病院
 > CONTEXT: MapInfos/170/name
+> CONTEXT: MapInfos/423/name < UNTRANSLATED
+> CONTEXT: MapInfos/472/name < UNTRANSLATED
+> CONTEXT: MapInfos/531/name < UNTRANSLATED
+> CONTEXT: MapInfos/534/name < UNTRANSLATED
+> CONTEXT: MapInfos/539/name < UNTRANSLATED
 Hospital#MTLed
 > END STRING
 
@@ -811,6 +843,8 @@ Inside the train (mercy route)#MTLed
 > BEGIN STRING
 海上ステーション【4-3】
 > CONTEXT: MapInfos/190/name
+> CONTEXT: MapInfos/495/name
+> CONTEXT: MapInfos/497/name
 Maritime station 【4-3】#MTLed
 > END STRING
 
@@ -823,6 +857,9 @@ Rooftop#MTLed
 > BEGIN STRING
 マイルーム通路（クリア後）
 > CONTEXT: MapInfos/193/name
+> CONTEXT: MapInfos/480/name
+> CONTEXT: MapInfos/481/name
+> CONTEXT: MapInfos/516/name
 My room passage (after clearing)#MTLed
 > END STRING
 
@@ -835,6 +872,7 @@ My room aisle (event)#MTLed
 > BEGIN STRING
 屋上（真慈悲ラスト）
 > CONTEXT: MapInfos/196/name
+> CONTEXT: MapInfos/496/name
 Rooftop (true mercy final)#MTLed
 > END STRING
 
@@ -848,6 +886,12 @@ Office#MTLed
 オフィス中
 > CONTEXT: MapInfos/198/name
 > CONTEXT: MapInfos/223/name
+> CONTEXT: MapInfos/475/name
+> CONTEXT: MapInfos/476/name
+> CONTEXT: MapInfos/477/name
+> CONTEXT: MapInfos/508/name
+> CONTEXT: MapInfos/511/name
+> CONTEXT: MapInfos/538/name
 In the office#MTLed
 > END STRING
 
@@ -1294,6 +1338,10 @@ Path to the Temple#DL
 > BEGIN STRING
 統治者の間
 > CONTEXT: MapInfos/400/name
+> CONTEXT: MapInfos/513/name
+> CONTEXT: MapInfos/520/name
+> CONTEXT: MapInfos/521/name
+> CONTEXT: MapInfos/533/name
 The Ruler's Room#DL
 > END STRING
 
@@ -1366,7 +1414,220 @@ Special Report#DL
 > END STRING
 
 > BEGIN STRING
-オセロット
-> CONTEXT: MapInfos/441/name < UNTRANSLATED
+チェイス
+> CONTEXT: MapInfos/442/name < UNTRANSLATED
+> CONTEXT: MapInfos/462/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+出口
+> CONTEXT: MapInfos/443/name < UNTRANSLATED
+> CONTEXT: MapInfos/463/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神社（襲撃）
+> CONTEXT: MapInfos/445/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+マリオン勝ち
+> CONTEXT: MapInfos/446/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神社（救援）
+> CONTEXT: MapInfos/447/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+本殿外
+> CONTEXT: MapInfos/452/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ラスト（アバドン）
+> CONTEXT: MapInfos/453/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ルカ登場
+> CONTEXT: MapInfos/454/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+崩壊
+> CONTEXT: MapInfos/455/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神社（脱出）
+> CONTEXT: MapInfos/456/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+学校
+> CONTEXT: MapInfos/457/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+教室（休憩所）
+> CONTEXT: MapInfos/458/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+廊下入り口
+> CONTEXT: MapInfos/459/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+廊下出口（ボス）
+> CONTEXT: MapInfos/461/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+悪魔城
+> CONTEXT: MapInfos/464/name < UNTRANSLATED
+> CONTEXT: MapInfos/465/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+チェイス１
+> CONTEXT: MapInfos/467/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+チェイス２
+> CONTEXT: MapInfos/468/name < UNTRANSLATED
+> CONTEXT: MapInfos/541/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+内部（救援）
+> CONTEXT: MapInfos/469/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お茶会
+> CONTEXT: MapInfos/470/name < UNTRANSLATED
+> CONTEXT: MapInfos/471/name < UNTRANSLATED
+> CONTEXT: MapInfos/473/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+お茶会（修復）
+> CONTEXT: MapInfos/474/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+オフィス（会話）
+> CONTEXT: MapInfos/478/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+外
+> CONTEXT: MapInfos/479/name < UNTRANSLATED
+> CONTEXT: MapInfos/522/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+多次元空間
+> CONTEXT: MapInfos/482/name < UNTRANSLATED
+> CONTEXT: MapInfos/483/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+多次元空間（１）
+> CONTEXT: MapInfos/484/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+多次元空間（ハイスラ）
+> CONTEXT: MapInfos/489/name < UNTRANSLATED
+> CONTEXT: MapInfos/490/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+多次元空間（２）
+> CONTEXT: MapInfos/491/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+村はずれの道
+> CONTEXT: MapInfos/492/name < UNTRANSLATED
+> CONTEXT: MapInfos/493/name < UNTRANSLATED
+> CONTEXT: MapInfos/494/name < UNTRANSLATED
+> CONTEXT: MapInfos/503/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+多次元空間（ヴァソ）
+> CONTEXT: MapInfos/498/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+多次元空間（３）
+> CONTEXT: MapInfos/499/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+多次元空間（ボス：ゼブル赤）
+> CONTEXT: MapInfos/500/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+多次元空間（ボス前通路）
+> CONTEXT: MapInfos/506/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+多次元空間（アバドーン前）
+> CONTEXT: MapInfos/507/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+破損中
+> CONTEXT: MapInfos/517/name < UNTRANSLATED
+> CONTEXT: MapInfos/523/name < UNTRANSLATED
+> CONTEXT: MapInfos/526/name < UNTRANSLATED
+> CONTEXT: MapInfos/540/name < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+端
+> CONTEXT: MapInfos/525/name < UNTRANSLATED
 
 > END STRING
