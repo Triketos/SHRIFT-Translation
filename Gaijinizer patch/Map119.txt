@@ -1,9 +1,33 @@
 ﻿> GAIJINIZER PATCH FILE
 > BEGIN STRING
+……………
+
+アンタがなにを言いたいのかは、おおかた予想は付くよ
+> CONTEXT: Map119/events/5/pages/0/19/Dialogue/enemy10 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+けど、アタイがまだこの部屋を追い出されないところを見ると
+
+アンタも随分と、お人好しが過ぎるみたいだねぇ
+> CONTEXT: Map119/events/5/pages/0/23/Dialogue/enemy10 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+だから面白いんだよ……見たくなるんだよ、その先を。
+
+クククク……
+> CONTEXT: Map119/events/5/pages/0/28/Dialogue/enemy10 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
 ククク……
 
 どうしたんだい？喰われに来たのかい？
-> CONTEXT: Map119/events/5/pages/0/18/Dialogue/enemy10
+> CONTEXT: Map119/events/5/pages/0/34/Dialogue/enemy10
 Kukuku...
 
 What's the matter? Have you come to be eaten?#Ron
@@ -11,19 +35,19 @@ What's the matter? Have you come to be eaten?#Ron
 
 > BEGIN STRING
 雑談する en(v[49] \>= 25) 
-> CONTEXT: Map119/events/5/pages/0/24/Choice/0
+> CONTEXT: Map119/events/5/pages/0/42/Choice/0
 Chaten(v[49] \>= 25)#Ron
 > END STRING
 
 > BEGIN STRING
 搾精（抱き）en(v[49] \>= 25) 
-> CONTEXT: Map119/events/5/pages/0/24/Choice/1
+> CONTEXT: Map119/events/5/pages/0/42/Choice/1
 Milking (Hug)en(v[49] \>= 25)#Ron
 > END STRING
 
 > BEGIN STRING
 搾精（倒し）en(v[49] \>= 50) 
-> CONTEXT: Map119/events/5/pages/0/24/Choice/2
+> CONTEXT: Map119/events/5/pages/0/42/Choice/2
 Milking (Pinned)en(v[49] \>= 50)#Ron
 > END STRING
 
@@ -31,7 +55,7 @@ Milking (Pinned)en(v[49] \>= 50)#Ron
 選択肢ヘルプ
 【アルケニー】種族：妖魔
 友好度：\\V[49]
-> CONTEXT: Map119/events/5/pages/0/26/ChoiceHelp
+> CONTEXT: Map119/events/5/pages/0/44/ChoiceHelp
 [Arachne] Tribe: Apparition
 Current Friendship: \\C[2]\\v[49]\\C[0]#Ron
 > END STRING
@@ -40,7 +64,7 @@ Current Friendship: \\C[2]\\v[49]\\C[0]#Ron
 選択肢ヘルプ
 条件【\\C[2]友好度２５以上\\C[0]】
 （現在友好度　　\\V[49]/100）
-> CONTEXT: Map119/events/5/pages/0/33/ChoiceHelp
+> CONTEXT: Map119/events/5/pages/0/51/ChoiceHelp
 Requires:【\\C[2] Friendship 25+\\C[0]】
 Current Friendship: \\C[2]\\v[49]\\C[0]#Triketos
 > END STRING
@@ -49,7 +73,7 @@ Current Friendship: \\C[2]\\v[49]\\C[0]#Triketos
 選択肢ヘルプ
 条件【\\C[2]友好度５０以上\\C[0]】
 （現在友好度　　\\V[49]/100）
-> CONTEXT: Map119/events/5/pages/0/66/ChoiceHelp
+> CONTEXT: Map119/events/5/pages/0/84/ChoiceHelp
 Requires:【\\C[2] Friendship 50+\\C[0]】
 Current Friendship: \\C[2]\\v[49]\\C[0]#Triketos
 > END STRING
@@ -58,24 +82,21 @@ Current Friendship: \\C[2]\\v[49]\\C[0]#Triketos
 ………あたいは贈り物とかにはあまり興味はないけど
 
 そういうのが好きって思われてるんなら、心外だねぇ
-> CONTEXT: Map119/events/5/pages/0/205/Dialogue/enemy10
-......I'm not very interested in gifts, though
-If you seem to like that kind of thing, it's
-extravagant#MTLed
+> CONTEXT: Map119/events/5/pages/0/223/Dialogue/enemy10 < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
 あたいが欲しいのは『動く獲物』……
 
 そして、綺麗な鉱石さ。
-> CONTEXT: Map119/events/5/pages/0/209/Dialogue/enemy10
-What I want is "moving prey" ...
-And it's a beautiful ore.#MTLed
+> CONTEXT: Map119/events/5/pages/0/227/Dialogue/enemy10 < UNTRANSLATED
+
 > END STRING
 
 > BEGIN STRING
 心蝕を消すif(v[49] \>= 100) 
-> CONTEXT: Map119/events/5/pages/0/221/Choice/0
+> CONTEXT: Map119/events/5/pages/0/239/Choice/0
 Clear corruptionif(v[49] \>= 100)#Ron
 > END STRING
 
@@ -84,7 +105,7 @@ Clear corruptionif(v[49] \>= 100)#Ron
 
 いいさ……その代わりに『恐怖』を
 たっぷり植え付けてやるかね…？
-> CONTEXT: Map119/events/5/pages/0/232/Dialogue/enemy10
+> CONTEXT: Map119/events/5/pages/0/250/Dialogue/enemy10
 Aaah, I'd rather not...
 
 Well alright, but in exchange I get to instil
@@ -93,13 +114,13 @@ plenty of fear into you, okay?#Ron
 
 > BEGIN STRING
 "アルケニーの心蝕が治った！！"
-> CONTEXT: Map119/events/5/pages/0/244/InlineScript/1:12
+> CONTEXT: Map119/events/5/pages/0/262/InlineScript/1:12
 "Arachne's corruption is cleared!!"#Ron
 > END STRING
 
 > BEGIN STRING
 心蝕を消す（クイーン）if(v[36] \>= 2) 
-> CONTEXT: Map119/events/5/pages/0/252/Choice/0 
+> CONTEXT: Map119/events/5/pages/0/270/Choice/0 
 Clear corruption (Queen)if(v[36] \>= 2)#Triketos
 > END STRING
 
@@ -107,7 +128,7 @@ Clear corruption (Queen)if(v[36] \>= 2)#Triketos
 ククク……分かってるよ
 
  あの腹ボテ野郎の心蝕を消してほしいんだろう？
-> CONTEXT: Map119/events/5/pages/0/266/Dialogue/enemy10
+> CONTEXT: Map119/events/5/pages/0/284/Dialogue/enemy10
 I understand ... I know
 
 I would like to get rid of that carious glutes
@@ -119,7 +140,7 @@ of bastard bastards?#GT
  溶かされていく心地はさぞ気持ちよかっただろうねぇ
 
  だけど、あたいの腹の中の方が極上さ
-> CONTEXT: Map119/events/5/pages/0/270/Dialogue/enemy10 
+> CONTEXT: Map119/events/5/pages/0/288/Dialogue/enemy10 
 How was the inside of the guy's belly?
 The comfort to be melted would have been pleasant
 
@@ -130,7 +151,7 @@ But the inside of my belly is the best#GT
 お前さんには、それを思い出させてやるよ……
 
 さぁ、こっちに来るんだ……
-> CONTEXT: Map119/events/5/pages/0/275/Dialogue/enemy10 
+> CONTEXT: Map119/events/5/pages/0/293/Dialogue/enemy10 
 I will remind you of that ...
 
 Well, I'm coming here ...#GT
@@ -140,14 +161,14 @@ Well, I'm coming here ...#GT
 彼女と親しく触れ合ったことで
 
 クイーンの心蝕は軽減されたようだ……。
-> CONTEXT: Map119/events/5/pages/0/282/Dialogue 
+> CONTEXT: Map119/events/5/pages/0/300/Dialogue 
 By spending some intimate time with her,
 the Queen's mind corruption has been reduced....#Triketos
 > END STRING
 
 > BEGIN STRING
 "クイーンの心蝕がLv１になった！！"
-> CONTEXT: Map119/events/5/pages/0/286/InlineScript/1:12 
+> CONTEXT: Map119/events/5/pages/0/304/InlineScript/1:12 
 "Queen's mind corruption is now Lv1!"#Triketos
 > END STRING
 
@@ -1570,11 +1591,4 @@ considering you my little pet.#Ron
 > CONTEXT: Map119/events/7/pages/0/101/Dialogue/enemy10
 Conversely, if you bore me I might just leave
 this room and start attacking you outside...#Ron
-> END STRING
-
-> BEGIN STRING
-搾精
-> CONTEXT: Map119/events/8/pages/1/4/Choice/0
-> CONTEXT: States/85/name
-Milking#Dargoth
 > END STRING
