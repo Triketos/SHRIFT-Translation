@@ -1,9 +1,25 @@
 ﻿> GAIJINIZER PATCH FILE
 > BEGIN STRING
+あらあら、どうしたの？
+
+そんなに慌てて部屋に入ってきたりして……
+> CONTEXT: Map062/events/5/pages/0/20/Dialogue/enemy4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+大丈夫、ママはどこにも行かないわ。
+
+ずっとボウヤと一緒よ…♡
+> CONTEXT: Map062/events/5/pages/0/24/Dialogue/enemy4 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
 来てくれたのね♡
 
 ふふ、今日は何のご用かしら？
-> CONTEXT: Map062/events/5/pages/0/19/Dialogue/enemy4
+> CONTEXT: Map062/events/5/pages/0/30/Dialogue/enemy4
 You came. ♡
 
 Fufu, what can I do for you today?#Ron
@@ -11,19 +27,19 @@ Fufu, what can I do for you today?#Ron
 
 > BEGIN STRING
 雑談する en(v[45] \>= 25) 
-> CONTEXT: Map062/events/5/pages/0/31/Choice/0
+> CONTEXT: Map062/events/5/pages/0/44/Choice/0
 Chaten(v[45] \>= 25)#Ron
 > END STRING
 
 > BEGIN STRING
 搾精（授乳）en(v[45] \>= 25) 
-> CONTEXT: Map062/events/5/pages/0/31/Choice/1
+> CONTEXT: Map062/events/5/pages/0/44/Choice/1
 Milking (Breastfeed)en(v[45] \>= 25)#Ron
 > END STRING
 
 > BEGIN STRING
 搾精（毛繕い）en(v[45] \>= 50) 
-> CONTEXT: Map062/events/5/pages/0/31/Choice/2
+> CONTEXT: Map062/events/5/pages/0/44/Choice/2
 Milking (Grooming)en(v[45] \>= 50)#Ron
 > END STRING
 
@@ -31,7 +47,7 @@ Milking (Grooming)en(v[45] \>= 50)#Ron
 選択肢ヘルプ
 【マザーラビット】種族：魔獣
 友好度：\\V[45]
-> CONTEXT: Map062/events/5/pages/0/33/ChoiceHelp
+> CONTEXT: Map062/events/5/pages/0/46/ChoiceHelp
 [Mother Rabbit] Race: Magical Beast
 Current Friendship: \\C[2]\\v[45]\\C[0]#Ron
 > END STRING
@@ -40,7 +56,7 @@ Current Friendship: \\C[2]\\v[45]\\C[0]#Ron
 選択肢ヘルプ
 条件【\\C[2]友好度２５以上\\C[0]】
 （現在友好度　　\\V[45]/100）
-> CONTEXT: Map062/events/5/pages/0/40/ChoiceHelp
+> CONTEXT: Map062/events/5/pages/0/53/ChoiceHelp
 Requires:【\\C[2] Friendship 25+\\C[0]】
 Current Friendship: \\C[2]\\v[45]\\C[0]#Triketos
 > END STRING
@@ -49,7 +65,7 @@ Current Friendship: \\C[2]\\v[45]\\C[0]#Triketos
 選択肢ヘルプ
 条件【\\C[2]友好度５０以上\\C[0]】
 （現在友好度　　\\V[45]/100）
-> CONTEXT: Map062/events/5/pages/0/73/ChoiceHelp
+> CONTEXT: Map062/events/5/pages/0/86/ChoiceHelp
 Requires:【\\C[2] Friendship 50+\\C[0]】
 Current Friendship: \\C[2]\\v[45]\\C[0]#Triketos
 > END STRING
@@ -58,7 +74,7 @@ Current Friendship: \\C[2]\\v[45]\\C[0]#Triketos
 ………ごめんなさいね。
 
 こういうものを貰っても、私には使い道がないものだから…
-> CONTEXT: Map062/events/5/pages/0/198/Dialogue/enemy4
+> CONTEXT: Map062/events/5/pages/0/211/Dialogue/enemy4
 ...I'm sorry, dear.
 
 Even if you give me something like this, I don't
@@ -69,7 +85,7 @@ have any use for it...#Ron
 せっかく貴方がくれるっていうのに…
 
 でも、その気持ちを結局無下にするよりかは…ね？
-> CONTEXT: Map062/events/5/pages/0/202/Dialogue/enemy4
+> CONTEXT: Map062/events/5/pages/0/2215/Dialogue/enemy4
 And you went out of your way to give me this...
 
 But I do appreciate the thought behind it...#RonIffy
@@ -77,7 +93,7 @@ But I do appreciate the thought behind it...#RonIffy
 
 > BEGIN STRING
 心蝕を消すif(v[45] \>= 100) 
-> CONTEXT: Map062/events/5/pages/0/214/Choice/0
+> CONTEXT: Map062/events/5/pages/0/227/Choice/0
 Clear corruptionif(v[45] \>= 100)#Ron
 > END STRING
 
@@ -85,7 +101,7 @@ Clear corruptionif(v[45] \>= 100)#Ron
 選択肢ヘルプ
 条件【\\C[2]友好度１００\\C[0]】
 （現在友好度　　\\V[45]/100）
-> CONTEXT: Map062/events/5/pages/0/216/ChoiceHelp
+> CONTEXT: Map062/events/5/pages/0/229/ChoiceHelp
 Requires:【\\C[2] Friendship 100\\C[0]】
 Current Friendship: \\C[2]\\v[45]\\C[0]#Triketos
 > END STRING
@@ -94,7 +110,7 @@ Current Friendship: \\C[2]\\v[45]\\C[0]#Triketos
 いらっしゃい…ボウヤ♡
 
 私が癒やしてあげる…♡
-> CONTEXT: Map062/events/5/pages/0/225/Dialogue/enemy4
+> CONTEXT: Map062/events/5/pages/0/238/Dialogue/enemy4
 Come here... little boy. ♡
 
 I'll heal you... ♡#Ron
@@ -102,13 +118,13 @@ I'll heal you... ♡#Ron
 
 > BEGIN STRING
 "マザーラビットの心蝕が治った！！"
-> CONTEXT: Map062/events/5/pages/0/236/InlineScript/1:12
+> CONTEXT: Map062/events/5/pages/0/249/InlineScript/1:12
 "Mother Rabbit's corruption cured!!"#Ron
 > END STRING
 
 > BEGIN STRING
 心蝕を消す（アナオン）if(v[37] \>= 2) 
-> CONTEXT: Map062/events/5/pages/0/244/Choice/0
+> CONTEXT: Map062/events/5/pages/0/257/Choice/0
 Clear corruption (Anaon)if(v[37] \>= 2#Strate
 > END STRING
 
@@ -116,9 +132,9 @@ Clear corruption (Anaon)if(v[37] \>= 2#Strate
 選択肢ヘルプ
 条件【\\C[2]友好度１００\\C[0]】
 （現在友好度　　\\V[49]/100）
-> CONTEXT: Map062/events/5/pages/0/246/ChoiceHelp
-> CONTEXT: Map119/events/5/pages/0/223/ChoiceHelp
-> CONTEXT: Map119/events/5/pages/0/254/ChoiceHelp
+> CONTEXT: Map062/events/5/pages/0/259/ChoiceHelp
+> CONTEXT: Map119/events/5/pages/0/241/ChoiceHelp
+> CONTEXT: Map119/events/5/pages/0/272/ChoiceHelp
 Requires:【\\C[2] Friendship 100\\C[0]】
 Current Friendship: \\C[2]\\v[49]\\C[0]#Triketos
 > END STRING
@@ -127,8 +143,8 @@ Current Friendship: \\C[2]\\v[49]\\C[0]#Triketos
 心蝕を直してもらうには友好度が足りない…
 
 \\C[2]キズナを結んでいる状態でないとダメなようだ…
-> CONTEXT: Map062/events/5/pages/0/250/Dialogue
-> CONTEXT: Map119/events/5/pages/0/258/Dialogue
+> CONTEXT: Map062/events/5/pages/0/263/Dialogue
+> CONTEXT: Map119/events/5/pages/0/276/Dialogue
 > CONTEXT: Map215/events/5/pages/0/250/Dialogue
 Your friendship isn't high enough to have her clear your
 corruption...\\C[2]It seems like it'll be impossible unless
@@ -140,7 +156,7 @@ you build a bond with her...#Ron
 何も言わなくて。
 
 悪い悪魔にそそのかされてしまったのね？
-> CONTEXT: Map062/events/5/pages/0/261/Dialogue/enemy4
+> CONTEXT: Map062/events/5/pages/0/274/Dialogue/enemy4
 ......It's okay, little boy. You don't need to
 say a word.
 
@@ -152,7 +168,7 @@ You've been seduced by a bad demon, haven't you?#Strate
 
 ここに来たということは
 あなたは、私の『ボウヤ』でいたいのよね…？♡
-> CONTEXT: Map062/events/5/pages/0/266/Dialogue/enemy4
+> CONTEXT: Map062/events/5/pages/0/279/Dialogue/enemy4
 You've come to mommy's welcoming arms because
 you want to be my little boy, right...? ♡#StrateUnsureLocalization
 > END STRING
@@ -161,7 +177,7 @@ you want to be my little boy, right...? ♡#StrateUnsureLocalization
 大丈夫、ママも何も聞かないわ。
 
 ボウヤの想いに、応えてあげる…
-> CONTEXT: Map062/events/5/pages/0/271/Dialogue/enemy4
+> CONTEXT: Map062/events/5/pages/0/284/Dialogue/enemy4
 It's okay, mommy won't ask any questions.
 
 I will return your feelings...#Strate
@@ -171,14 +187,14 @@ I will return your feelings...#Strate
 彼女と親しく触れ合ったことで
 
 アナオンの心蝕は軽減されたようだ……。
-> CONTEXT: Map062/events/5/pages/0/278/Dialogue
+> CONTEXT: Map062/events/5/pages/0/291/Dialogue
 Being intimate with her appears to have weakened Anaon's
 corruption......#Strate
 > END STRING
 
 > BEGIN STRING
 "アナオンの心蝕がLv１になった！！"
-> CONTEXT: Map062/events/5/pages/0/282/InlineScript/1:12
+> CONTEXT: Map062/events/5/pages/0/295/InlineScript/1:12
 "Anaon's corruption became Lv1!!"#Strate
 > END STRING
 
